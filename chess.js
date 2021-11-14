@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I reached this position with Black in an online blitz game against one of my regular club opponents. It's White to move. What do you think? A win or a draw? 52. a4 Re2+? I had two moves to draw here: Rg4 and Rg5+, an important point being 52.. Rg5+ 53. Kf6 Rg6+! with stalemate <a href=\"https://chessimprover.com/third-rank-defence/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Third Rank Defence\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/third-rank-defence/\">Third Rank Defence</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/third-rank-defence/",
+         "pubDate" : "Sun, 14 Nov 2021 15:44:35 +0000",
+         "title" : "Third Rank Defence"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 52nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about the advantages of having a space advantage. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-53-space-advantage-2",
+         "pubDate" : "Sun, 14 Nov 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 53: Space advantage (2)"
+      },
+      {
+         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
+         "pubDate" : "Sun, 14 Nov 2021 14:50:00 +0100",
+         "title" : "European Team Championships - Live!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Levy Rozman</strong>, one of the most popular chess streamers on <strong>Twitch</strong>, <a href=\"https://www.chess.com/news/view/levy-rozman-chess-scholarship-program-winners\">announced 11 scholastic chess programmes in the US and one in Nigeria</a> as recipients of $100,000 in scholarships he is donating in cooperation with <strong>Chesskid</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/roizman-announced-scholarship/",
+         "pubDate" : "Sun, 14 Nov 2021 13:24:45 +0100",
+         "title" : "Rozman announced scholarship recipients"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Unsurprisingly, <strong>Magnus Carlsen</strong> leads the prize money list from online chess events listed by <strong>esportsearnings.com</strong> with $843,791 and 60 cent since 2014, making him <a href=\"https://www.esportsearnings.com/players/75863-drnykterstein-sven-magnus-carlsen\">143rd in live-time earnings among e-sporters</a>, but unlike them he has significant otb earnings. The other chess players north of $100,000 are 2. Nakamura, 3. So, 4. Aronian, 5. Nepomniachtchi, 6. Giri, 7. Caruana, 8. Radjabov, 9. Vachier-Lagrave, 10. Ding, 11. Dubov and 12. Firouzja. Overall close to $6 million distributed makes online chess the 27th biggest E-sport",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/online-chess-is-27th-e-sport-by/",
+         "pubDate" : "Sun, 14 Nov 2021 13:22:36 +0100",
+         "title" : "Online chess is 27th E-sport by earnings"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Worldchess</strong> has hired the London broker firm <strong>Novum Securities</strong> to <a href=\"https://newsnetdaily.com/checkmate-for-london-stock-market-as-world-chess-relaunches-ipo-plan-economic-news/\">prepare an IPO at the AIM section</a> of the <strong>London Stock Exchange</strong>. The company controlled by <strong>Ilya Merenzon</strong> organised world championship matches until 2018. It is connected with the upcoming 2021 match as vendor of the official chess set and as representative of sponsors <strong>Kaspersky</strong> and <strong>Algorand</strong>. Worldchess is still the organiser of the <strong>FIDE Grandprix 2022</strong",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/worldchess-plans-london-ipo/",
+         "pubDate" : "Sun, 14 Nov 2021 13:19:46 +0100",
+         "title" : "Worldchess plans London IPO"
+      },
+      {
          "description" : "When's the last time you played a game of chess against a chess program? Normally it is pointless - you get thoroughly crushed, even if you are a 2800 player. But now you can, against the brand new Fritz 18, which uses its awesome power to set up brilliancies for its opponent! It is the ideal partner to train yourself to spot and execute spectacular combinations. The launch of Fritz 18 is on Discount Day, Tuesday November 16, when you can get the program at a premium price!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,28 +82,12 @@ news_feed (
          "title" : "Big boost for Chess in Chhattisgarh"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Worldchess</strong> has hired the London broker firm <strong>Novum Securities</strong> to <a href=\"https://newsnetdaily.com/checkmate-for-london-stock-market-as-world-chess-relaunches-ipo-plan-economic-news/\">prepare an IPO at the AIM section</a> of the <strong>London Stock Exchange</strong>. The company, that is controled by <strong>Ilya Merenzon</strong>, organised world championship matches until 2018 and is connected with the upcoming 2021 match as vendor of the official chess set and as representative of sponsors <strong>Kaspersky</strong> and <strong>Algorand</strong>. Worldchess is still the organiser of the <strong>FIDE Grandprix 202",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/worldchess-plans-london-ipo/",
-         "pubDate" : "Sat, 13 Nov 2021 16:06:36 +0100",
-         "title" : "Worldchess plans London IPO"
-      },
-      {
          "description" : "In a glittering function organised at the Durbar Hall of the Rashtrapati Bhawan, the Hon'ble President of India Shri Ram Nath Kovid bestowed Dhyan Chand",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/congratulations-gm-abhijit-kunte/",
          "pubDate" : "Sat, 13 Nov 2021 14:28:16 +0000",
          "title" : "Congratulations GM Abhijit Kunte"
-      },
-      {
-         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
-         "pubDate" : "Sat, 13 Nov 2021 14:50:00 +0100",
-         "title" : "European Team Championships - Live!"
       },
       {
          "description" : "Alireza Firouzja beat Markus Ragger and climbed back to world no. 4 on the live rating list as he made his debut in a 3:1 victory for France over Austria in Round 1 of the European Team Championship. France, who also feature MVL, are 3rd seeds, with top seeds Russia and Azerbaijan cruising in Round 1. There were upsets, however, with England living to regret resting Mickey Adams as they lost 2.5:1.5 to Norway, while wins for Anish Giri and Jorden van Foreest weren't enough to stop Georgia holding the Netherlands to a draw.",
@@ -250,7 +282,7 @@ news_feed (
          "title" : "Call of Interest for Arbiters in World Events 2022-2023"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Carlsen's 2016 challenger <strong>Sergey Karjakin</strong> revealed in an interview with <strong>Metaratings.ru</strong>, <a href=\"https://chess24.com/en/read/news/sergey-karjakin-magnus-can-psychologically-crumble\">transcribed</a> by <strong>chess24</strong>, that he trained with his compatriot <strong>Ian Nepomniachtchi</strong>. </div> ",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Carlsen's 2016 challenger <strong>Sergey Karjakin</strong> revealed in an interview with <strong>Metaratings.ru</strong>, <a href=\"https://chess24.com/en/read/news/sergey-karjakin-magnus-can-psychologically-crumble\">transcribed</a> by <strong>chess24</strong>, that he trained with his compatriot <strong>Ian Nepomniachtchi</strong>. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">24 Nov - 16 Dec 2021</span>: <a href=\"https://www.chesstech.org/events/2021/world-chess-championship/\">World Chess Championship</a></li> </ul> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2021/karjakin-helps-nepo/",
@@ -376,22 +408,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/forester-open-pre-tournament",
          "pubDate" : "Wed, 10 Nov 2021 19:00:00 +0100",
          "title" : "Forester Open in Grapevine, Texas"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Nur-Sultan, formerly Astana, <a href=\"https://www.fide.com/news/1427\">has been announced</a> by <strong>FIDE</strong> as venue of the <strong>World Rapid Championship</strong> and <strong>World Blitz Championship</strong> with a combined $1 million in prizes, after there was no 2020 edition due to the pandemic. During the event on 25-29 December the temperatures in the Kazakh capital are expected to hover between -10 and -25 degrees Celsius. Players above 2550, respectively 2250 for women, and reigning national champions are eligible to take part. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/kasakh-capital-hosts-world/",
-         "pubDate" : "Wed, 10 Nov 2021 18:28:56 +0100",
-         "title" : "Kazakh capital hosts World Rapid&Blitz"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Levy Royzman</strong>, one of the most popular chess streamers on <strong>Twitch</strong>, <a href=\"https://www.chess.com/news/view/levy-rozman-chess-scholarship-program-winners\">announced 11 scholastic chess programmes in the US and one in Nigeria</a> as recipients of $100,000 in scholarships he is donating in cooperation with <strong>Chesskid</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/roizman-announced-scholarship/",
-         "pubDate" : "Wed, 10 Nov 2021 18:28:34 +0100",
-         "title" : "Roizman announced scholarship recipients"
       },
       {
          "description" : "In the most active Titled Tuesday since August, GM Rustam Khusnutdinov took home the victory with a 9.5/11 score, winning on the tiebreak system over second-place finisher GM Dmitrij Kollars. In a logjam on 9 points out of 11, two well-known GMs t...",
@@ -2096,22 +2112,6 @@ news_feed (
          "link" : "https://chessimprover.com/run-harry-run/",
          "pubDate" : "Sun, 24 Oct 2021 20:19:11 +0000",
          "title" : "Run, Harry, Run!"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 50th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about typical sacrifices. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-50-typical-sacrifices",
-         "pubDate" : "Sun, 24 Oct 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 50: Typical Sacrifices"
-      },
-      {
-         "description" : " With OTB chess resuming in NSW, Victoria and ACT in the next few weeks, the vaccination status of players is likely to become an important topic. The Box Hill Chess Club in Victoria is requiring all tournament participants (and I assume spectators) to be fully vaccinated, although this now means that players under the age of 12 are excluded from playing at the club (as currently there is no vaccine for them). I also believe that a similar requirement is also in place for Contract bridge events, although the effect on under 12's is significantly less. I'm not sure if the Australian Chess federation is taking a position on this (although it may have been discussed at their council meeting las",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/10/take-shot.html",
-         "pubDate" : "Sun, 24 Oct 2021 12:47:00 +0000",
-         "title" : "Take the shot"
       }
    ]
 }
