@@ -2104,14 +2104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dutch-championship-2021-preliminary-stage",
          "pubDate" : "Sun, 24 Oct 2021 22:10:00 +0100",
          "title" : "Dutch Championship: Four players move on to final stage"
-      },
-      {
-         "description" : " Here's a recent online blitz game against a slightly higher rated opponent. 1. d4 f5 Regular readers will know that I often play the Dutch myself, even though the engines disapprove. I also try a lot of different lines against it with White. 2. Bg5 This is apparently the Hopton Attack, from a game Hopton <a href=\"https://chessimprover.com/run-harry-run/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Run, Harry, Run!\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/run-harry-run/\">Run, Harry, Run!</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/run-harry-run/",
-         "pubDate" : "Sun, 24 Oct 2021 20:19:11 +0000",
-         "title" : "Run, Harry, Run!"
       }
    ]
 }
