@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Shakhriyar Mamedyarov is on 3/3 as Azerbaijan co-lead the European Team Championship with Hungary, who overcame France despite Alireza Firouzja picking up a 2nd win in three games to continue his rating climb. Benjamin Gledura has starred with 3/3 for Hungary, while Anish Giri has racked up the same score for the Netherlands, but his team is struggling. In the women's event Russia have scored a near perfect 11.5/12 game points, but Georgia and Armenia have also won all their matches.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/etcc-2-3-mamedyarov-giri-firouzja-on-fire",
+         "pubDate" : "Mon, 15 Nov 2021 13:58:29 +0000",
+         "title" : "ETCC 2-3: Mamedyarov, Giri & Firouzja on fire"
+      },
+      {
+         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
+         "pubDate" : "Mon, 15 Nov 2021 14:50:00 +0100",
+         "title" : "European Team Championships - Live!"
+      },
+      {
+         "description" : "Svitlana Demchenko has to find all of her smart moves for a fun battle against Fritz 18, which is available very soon. The newest engine is made for playing interesting games, and finds some \"human\" moves on purpose for your and our entertainment. Although Fritz 18 gives Svitlana some subtle hints to the right direction, it still feels very satisfying to find an unstoppable mate combination against the engine.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fritz-18-vs-svitlana-demchenko",
+         "pubDate" : "Mon, 15 Nov 2021 14:49:57 +0100",
+         "title" : "Fritz 18 vs. Svitlana Demchenko"
+      },
+      {
+         "description" : " While not in the business of giving out free advertising to big corporations, I was intrigued by the new Sony Playstation advertisement, which has a very chess heavy theme. While I am linking to the full 2+ minute clip, the shorter TV edit has an interesting cut, where the chess game is followed by the caption \"Do not attempt\" for the next scene. Of course it concerns parkour rather than chess, but still, an interesting sentiment. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/4yuEnY9ItqA\" width=\"320\" youtube-src-id=\"4yuEnY9ItqA\"></iframe></div><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/11/do-not-attempt.html",
+         "pubDate" : "Mon, 15 Nov 2021 12:54:00 +0000",
+         "title" : "Do not attempt"
+      },
+      {
          "description" : "Three rounds have been already played at the European Team Chess Championship 2021 in Terme Catez, Slovenia. Only two teams emerged on the top of the Open section with perfect 6 match points: Hungary and Azerbaijan. With a narrow 2.5-1.5 victory in the 3rd round, Hungary defeated better-rated players of France, while Azerbaijan was victorious against the German&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-r3-report/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1634,14 +1666,6 @@ news_feed (
          "title" : "Grand Swiss: Lei Tingjie takes the lead in the women's section"
       },
       {
-         "description" : "Alireza Firouzja's quick draw with the black pieces against Yu Yangyi was enough to retain the sole lead after Round 4 of the FIDE Chess.com Grand Swiss as the chasing pack also drew, with Evgeniy Najer missing a great chance to defeat Ivan Saric. MVL, Aryan Tari, Alexei Shirov, Manuel Petrosyan and Sam Sevian all won to move within half a point of Alireza. In the women's section China's Lei Tingjie is now the sole leader after taking down Valentina Gunina in a 72-move game where the Russian Champion put up great resistance in a position three pawns down.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/grand-swiss-4-firouzja-and-lei-tingjie-sole-leaders",
-         "pubDate" : "Sun, 31 Oct 2021 08:50:47 +0000",
-         "title" : "Grand Swiss 4: Firouzja and Lei Tingjie sole leaders"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87422981.cms\" />Indian Grandmaster P Harikrishna continued his recovery from a poor start by notching up his second straight win to move to 2.5 points after four rounds in the FIDE Grand Swiss chess tournament here.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2096,22 +2120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-167-endgame-highlights-from-the-bundesliga",
          "pubDate" : "Mon, 25 Oct 2021 17:00:00 +0100",
          "title" : "Karsten M&uuml;ller's Endgame Magic #167: Endgame highlights from the Bundesliga"
-      },
-      {
-         "description" : "The advance g2-g4 is a well-known motif in various lines of the Sicilian. In the Taimanov Variation (1.e4 c5 2.Nf3 e6 3.d4 exd4 4.Nxd4 Nc6 5.Nc3 Qc7) with 6.Be3 a6, however, the move 7.g4 was established in top chess by Anish Giri just over half a year ago. In the current ChessBase Magazine Extra #203 Robert Ris explains the ideas of this very concrete concept in his opening video. Total playing time: 38 minutes. You can watch an excerpt of his analysis here. Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/attacking-idea-against-the-sicilian-taimanov",
-         "pubDate" : "Mon, 25 Oct 2021 14:00:00 +0100",
-         "title" : "Attacking idea against the Sicilian Taimanov"
-      },
-      {
-         "description" : " Things happen quickly in blitz games, and sometimes even quicker than that. Black went for the jugular with 8 ... Ng4, although White could have defended with 9.Qe2. Instead 9.Rf1 was a plausible try that was hit with 9. ... Nxh2. But event then White was only a bit worse after 11.Kd2. 11. ... Ke2 was the start of the very rapid end. (To be fair to White, I fell for a similar idea as Black in a Traxler, which is an opening I have played for 35 years!) <br /> <b>Connor5566 (1828) - Mattrad (2065) [C30]</b><br />ACTCA Monday Blitz - 25 Oct https://lichess.org/UzTlgqFu, 25.10.2021 <script>new PgnViewer( { boardName: \"game1284\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nc3 Nc6 3.Bc4 Nf6 4.d",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/10/blink-and-youll-miss-it.html",
-         "pubDate" : "Mon, 25 Oct 2021 12:49:00 +0000",
-         "title" : "Blink and you'll miss it"
       }
    ]
 }
