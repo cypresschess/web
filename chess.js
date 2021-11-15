@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two teams have won their first three matches in the open section of the European Team Championships taking place in Slovenia. Azerbaijan, led by an inspired Shakhriyar Mamedyarov, and Hungary are sharing the lead on 6/6. Meanwhile, in the women's section, Russia, Georgia and Armenia have perfect scores, with the Russians merely losing a half point in all their individual encounters. | Expert analysis by GM Karsten M&uuml;ller. | Photo: ECU Press",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2021-r3",
+         "pubDate" : "Mon, 15 Nov 2021 09:30:00 +0100",
+         "title" : "Euro Teams: Azerbaijan and Hungary tied in the lead"
+      },
+      {
          "description" : "On Saturday 18th December 2021 from 12:00 - 18:00. A FIDE-rated open blitz with a &pound;3,000 guaranteed prize fund. This tournament is being held in...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-53-space-advantage-2",
          "pubDate" : "Sun, 14 Nov 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 53: Space advantage (2)"
-      },
-      {
-         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
-         "pubDate" : "Sun, 14 Nov 2021 14:50:00 +0100",
-         "title" : "European Team Championships - Live!"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Levy Rozman</strong>, one of the most popular chess streamers on <strong>Twitch</strong>, <a href=\"https://www.chess.com/news/view/levy-rozman-chess-scholarship-program-winners\">announced 11 scholastic chess programmes in the US and one in Nigeria</a> as recipients of $100,000 in scholarships he is donating in cooperation with <strong>Chesskid</strong>. </div> ",
