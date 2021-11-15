@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1433",
+         "pubDate" : "Sun, 14 Nov 2021 22:29:32 +0000",
+         "title" : "Olufemi Balogun and Perpetual Ogbiyoyo win Nigerian Championship"
+      },
+      {
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">World Chess Championship</strong> <strong>Individual tournament, <time datetime='2021-11-24' itemprop=\"startDate\">Wed-Thu 24 Nov - 16 Dec 2021</time><br> <span itemprop='location'>Dubai</span> </strong> <div itemprop=\"description\"> <div class=\"image right\"><figure> <a href=\"https://www.chesstech.org/files/2021/events/expo-dubai.jpeg?v=1\" class=\"js-img\" title=\"Expo Dubai \" data-title=\"Expo Dubai \"><img src=\"https://www.chesstech.org/files/2021/events/expo-dubai.480.jpeg?v=1\" srcset=\"https://www.chesstech.org/files/2021/events/expo-dubai.480.jpeg?v=1 1x, https://www.chesstech.org/files/2021/",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "",
+         "pubDate" : "Sun, 14 Nov 2021 22:05:31 +0100",
+         "title" : "World Chess Championship"
+      },
+      {
          "description" : " I reached this position with Black in an online blitz game against one of my regular club opponents. It's White to move. What do you think? A win or a draw? 52. a4 Re2+? I had two moves to draw here: Rg4 and Rg5+, an important point being 52.. Rg5+ 53. Kf6 Rg6+! with stalemate <a href=\"https://chessimprover.com/third-rank-defence/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Third Rank Defence\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/third-rank-defence/\">Third Rank Defence</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2088,22 +2104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/allan-stig-rasmussen-wins-danish-championship",
          "pubDate" : "Mon, 25 Oct 2021 11:58:49 +0100",
          "title" : "Allan Stig Rasmussen wins Danish Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1396",
-         "pubDate" : "Sun, 24 Oct 2021 21:56:19 +0000",
-         "title" : "Allan Stig Rasmussen wins 2021 Danish Championship"
-      },
-      {
-         "description" : "The Dutch Championship will be played in two stages this year. On Saturday, the three-round knockout phase was completed in the town hall of Hoogeveen. The field of participants was thus reduced from 16 to 4, who will determine the new champion in a double round-robin in Rotterdam at the end of November. The qualified players are Roeland Pruijssers, Max Warmerdam, Robin Swinkels and Hing Ting Lai. Meanwhile, the Women's Championship, which was played concurrently, was organized as a round robin tournament - the event was won by WGM Anne Haast. | Photos: Frans Peeters",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dutch-championship-2021-preliminary-stage",
-         "pubDate" : "Sun, 24 Oct 2021 22:10:00 +0100",
-         "title" : "Dutch Championship: Four players move on to final stage"
       }
    ]
 }
