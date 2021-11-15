@@ -10,14 +10,6 @@ news_feed (
          "title" : "Olufemi Balogun and Perpetual Ogbiyoyo win Nigerian Championship"
       },
       {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">World Chess Championship</strong> <strong>Individual tournament, <time datetime='2021-11-24' itemprop=\"startDate\">Wed-Thu 24 Nov - 16 Dec 2021</time><br> <span itemprop='location'>Dubai</span> </strong> <div itemprop=\"description\"> <div class=\"image right\"><figure> <a href=\"https://www.chesstech.org/files/2021/events/expo-dubai.jpeg?v=1\" class=\"js-img\" title=\"Expo Dubai \" data-title=\"Expo Dubai \"><img src=\"https://www.chesstech.org/files/2021/events/expo-dubai.480.jpeg?v=1\" srcset=\"https://www.chesstech.org/files/2021/events/expo-dubai.480.jpeg?v=1 1x, https://www.chesstech.org/files/2021/",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "",
-         "pubDate" : "Sun, 14 Nov 2021 22:05:31 +0100",
-         "title" : "World Chess Championship"
-      },
-      {
          "description" : " I reached this position with Black in an online blitz game against one of my regular club opponents. It's White to move. What do you think? A win or a draw? 52. a4 Re2+? I had two moves to draw here: Rg4 and Rg5+, an important point being 52.. Rg5+ 53. Kf6 Rg6+! with stalemate <a href=\"https://chessimprover.com/third-rank-defence/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Third Rank Defence\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/third-rank-defence/\">Third Rank Defence</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
