@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three rounds have been already played at the European Team Chess Championship 2021 in Terme Catez, Slovenia. Only two teams emerged on the top of the Open section with perfect 6 match points: Hungary and Azerbaijan. With a narrow 2.5-1.5 victory in the 3rd round, Hungary defeated better-rated players of France, while Azerbaijan was victorious against the German&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-r3-report/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-team-chess-championship-2021-r3-report/",
+         "pubDate" : "Mon, 15 Nov 2021 11:36:49 +0000",
+         "title" : "European Team Chess Championship 2021 - R3 report"
+      },
+      {
          "description" : "Two teams have won their first three matches in the open section of the European Team Championships taking place in Slovenia. Azerbaijan, led by an inspired Shakhriyar Mamedyarov, and Hungary are sharing the lead on 6/6. Meanwhile, in the women's section, Russia, Georgia and Armenia have perfect scores, with the Russians merely losing a half point in all their individual encounters. | Expert analysis by GM Karsten M&uuml;ller. | Photo: ECU Press",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,7 +82,7 @@ news_feed (
          "title" : "Worldchess plans London IPO"
       },
       {
-         "description" : "When's the last time you played a game of chess against a chess program? Normally it is pointless - you get thoroughly crushed, even if you are a 2800 player. But now you can, against the brand new Fritz 18, which uses its awesome power to set up brilliancies for its opponent! It is the ideal partner to train yourself to spot and execute spectacular combinations. The launch of Fritz 18 is on Discount Day, Tuesday November 16, when you can get the program at a premium price!",
+         "description" : "When's the last time you played a game of chess against a chess program? Normally it is pointless - you get thoroughly crushed, even if you are a 2800 player. But now you can challenge the computer: the brand new Fritz 18 uses its awesome power to set up brilliancies for its opponent! It is the ideal partner to train yourself to spot and execute spectacular combinations. The launch of Fritz 18 is on Discount Day, Tuesday November 16, when you can get the program at a premium price!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fritz-18-evolving-genius",
@@ -2104,14 +2112,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/10/blink-and-youll-miss-it.html",
          "pubDate" : "Mon, 25 Oct 2021 12:49:00 +0000",
          "title" : "Blink and you'll miss it"
-      },
-      {
-         "description" : "The Danish Championship, played in Svendborg on the island of Funen, ended on Sunday with the victory of Allan Stig Rasmussen. With a score of 7.0/9 the 37-year-old Grandmaster finished half a point ahead of Sune Berg Hansen and Jesper S&oslash;nderg&aring;rd Thybo, who shared second place. It was the fifth time Rasmussen won the title. | Photos: Dansk Skak Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/allan-stig-rasmussen-wins-danish-championship",
-         "pubDate" : "Mon, 25 Oct 2021 11:58:49 +0100",
-         "title" : "Allan Stig Rasmussen wins Danish Championship"
       }
    ]
 }
