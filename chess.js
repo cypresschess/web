@@ -2112,14 +2112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-preview",
          "pubDate" : "Tue, 26 Oct 2021 04:20:00 +0100",
          "title" : "Top GMs to fight for Candidates spots at Grand Swiss in Riga"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1397",
-         "pubDate" : "Mon, 25 Oct 2021 21:21:53 +0000",
-         "title" : "Dutch Championship: Anne Haast clinches fifth title"
       }
    ]
 }
