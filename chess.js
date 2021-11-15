@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Discount Day ends 2021 begins on Monday, November 15 at 6:00 p.m. and ends November 16th, 2021, at 09:00 a.m. CEST (midnight in California). We are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account - everything. And there are very interesting new products that are being released. The biggest attraction: the brand new Fritz 18, that offers you the opportunity to actually play against the computer - and trains you to find brilliancies in your games. Don't miss this final opportunity to get all our software - at a premium price.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/here-s-your-chance-big-discount-day-5",
+         "pubDate" : "Mon, 15 Nov 2021 18:00:00 +0100",
+         "title" : "Here's your chance - big Discount Day!"
+      },
+      {
+         "description" : " The Chess.com Speed Chess Championship takes place Mon 8th Nov to Sun 19th Dec 2021. Round 1 pairings: Nov 8 Giri 14-12 Duda, Nov 9 Ding 14-12 Mamedyarov, Nov 10 Rapport 16.5-14.5 Sarana, Nov 11 Grischuk- 15.5-10.5 Grischuk, Nov 11 Aronian 15-12 Dubov, Nov 12 Nakamura 22-10 Svidler, Nov 15 So-Xiong and Nov 29 MVL-Caruana.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-championship-2021",
+         "pubDate" : "Mon, 15 Nov 2021 20:00:00 +0400",
+         "title" : "Chess.com Speed Chess Championship 2021 - Games and Results"
+      },
+      {
          "description" : "In the Endgame Magic Show #170 Karsten M&uuml;ller and Fabian Brinkmann continue to look at endgame highlights from the FIDE Grand Swiss in Riga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -408,14 +424,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2021-announcement",
          "pubDate" : "Thu, 11 Nov 2021 17:10:00 +0100",
          "title" : "Nur-Sultan to host World Rapid and Blitz Championships"
-      },
-      {
-         "description" : " The Chess.com Speed Chess Championship takes place Mon 8th Nov to Sun 19th Dec 2021. Round 1 pairings: Nov 8 Giri 14-12 Duda, Nov 9 Ding 14-12 Mamedyarov, Nov 10 Rapport-Sarana, Nov 11 Grischuk-Sarin, Nov 11 Aronian-Dubov, Nov 12 Nakamura-Svidler, Nov 15 So-Xiong and Nov 29 MVL-Caruana.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-championship-2021",
-         "pubDate" : "Thu, 11 Nov 2021 20:00:00 +0400",
-         "title" : "Chess.com Speed Chess Championship 2021 - Games and Results"
       },
       {
          "description" : "Good luck to England at the European Team Chess Championship, which starts today. We have a strong line-up &#8212; Open GM David Howell; GM Michael...",
