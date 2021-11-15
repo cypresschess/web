@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #170 Karsten M&uuml;ller and Fabian Brinkmann continue to look at endgame highlights from the FIDE Grand Swiss in Riga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-170-endgame-highlights-from-the-fide-grand-swiss-in-riga-2",
+         "pubDate" : "Mon, 15 Nov 2021 17:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic Show #170: Endgame highlights from the FIDE Grand Swiss in Riga (2)"
+      },
+      {
          "description" : "Shakhriyar Mamedyarov is on 3/3 as Azerbaijan co-lead the European Team Championship with Hungary, who overcame France despite Alireza Firouzja picking up a 2nd win in three games to continue his rating climb. Benjamin Gledura has starred with 3/3 for Hungary, while Anish Giri has racked up the same score for the Netherlands, but his team is struggling. In the women's event Russia have scored a near perfect 11.5/12 game points, but Georgia and Armenia have also won all their matches.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2104,22 +2112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1397",
          "pubDate" : "Mon, 25 Oct 2021 21:21:53 +0000",
          "title" : "Dutch Championship: Anne Haast clinches fifth title"
-      },
-      {
-         "description" : "On 26 November Magnus Carlsen and Ian Nepomniachtchi will play the first game of their World Championship match in Dubai. A good opportunity to ask Daniel King about his work for the updated ChessBase Master Class about Carlsen, about Carlsen as a person, King's favourite Carlsen game, and of course, King's predictions for the match. As part of the interview King shows two games of the current World Champion - one against Sergey Karjakin, and one against Anish Giri, which is one of King's favourite endgames by Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-on-magnus-and-the-masterclass",
-         "pubDate" : "Mon, 25 Oct 2021 17:18:57 +0100",
-         "title" : "Daniel King on Magnus and the Masterclass"
-      },
-      {
-         "description" : "In the Endgame Magic Show #167 Karsten M&uuml;ller Arne and Karsten discuss endgame highlights from the Bundesliga, one of the world's strongest national team championships. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-167-endgame-highlights-from-the-bundesliga",
-         "pubDate" : "Mon, 25 Oct 2021 17:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic #167: Endgame highlights from the Bundesliga"
       }
    ]
 }
