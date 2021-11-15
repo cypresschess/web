@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Saturday 18th December 2021 from 12:00 - 18:00. A FIDE-rated open blitz with a &pound;3,000 guaranteed prize fund. This tournament is being held in...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rik-thomas-memorial/",
+         "pubDate" : "Mon, 15 Nov 2021 08:19:05 +0000",
+         "title" : "Rik Thomas Memorial"
+      },
+      {
+         "description" : "Congratulations to Ravi Haria who becomes England's latest GM after his win for @ecfchess today at @ECUonline&#160;Team Ch in Slovenia https://chess24.com/en/watch/live-tournaments/european-team-championship-2021/3/14/4 &#8212; Malcolm Pein [picture...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/gm-ravi-haria/",
+         "pubDate" : "Mon, 15 Nov 2021 06:39:00 +0000",
+         "title" : "GM Ravi Haria!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
