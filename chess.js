@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The diagram shows a position from a game between Teimour Radjabov and Hikaru Nakamura, played at the Meltwater Chess Champions Final 2021. It is White to move and he has to find the right square for his king to avoid getting into zugzwang. In the game, with limited time on the clock, Radjabov failed to find the right move. Can you do better?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/zugzwang-3",
+         "pubDate" : "Tue, 16 Nov 2021 09:00:00 +0100",
+         "title" : "Zugzwang"
+      },
+      {
+         "description" : "After Abhimanyu Mishra became the world's youngest-ever GM in July, debates have raged around the ease of attaining the title.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32637681/inside-calls-fide-change-grandmaster-requirements-nepomniachtchi-vishwanathan-anand-vladimir-kramnik?device=featurephone",
+         "pubDate" : "Mon, 15 Nov 2021 23:02:45 -0500",
+         "title" : "To GM or not to GM: Inside calls for FIDE to change Grandmaster requirements"
+      },
+      {
          "description" : "GM Wesley So beat GM Jeffery Xiong with a score of 18-14 in the 2021 Speed Chess Championship Main Event. In the quarterfinals, he will face the winner of the match between GM Maxime Vachier-Lagrave and GM Fabiano Caruana, which starts on Monday, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -334,8 +350,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/speed-chess-championship-nihal-and-aronian-win-and-advance-to-quarterfinals",
-         "pubDate" : "Thu, 11 Nov 2021 22:07:00 -0800",
-         "title" : "Speed Chess Championship: Nihal and Aronian Win And Advance To Quarterfinals"
+         "pubDate" : "Thu, 11 Nov 2021 23:38:00 -0800",
+         "title" : "Speed Chess Championship: Nihal, Aronian Win To Advance To Quarterfinals"
       },
       {
          "description" : "The 23rd edition of the European Team Championships will take place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship will be played concurrently, with each event a 9-round Swiss tournament. Both Russian teams arrive in Slovenia as the defending champions and rating favourites.",
@@ -2064,30 +2080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1398",
          "pubDate" : "Tue, 26 Oct 2021 10:15:29 +0000",
          "title" : "Winners crowned at FIDE World Amateur Chess Championship"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-51/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (51)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-51/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (51)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-51/",
-         "pubDate" : "Tue, 26 Oct 2021 08:21:03 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (51)"
-      },
-      {
-         "description" : "FIDE Chess.com Grand Swiss 2021 and the first edition of the FIDE Chess.com Women's Grand Swiss 2021 open today in Riga, Latvia. Both tournaments are part of the qualifications for the 2021-23 World Championship cycle, with the top two players in the open event qualifying for the 2022 Candidates Tournament and the following six securing spots in the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-grand-swiss-2021-starts/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-grand-swiss-2021-starts/",
-         "pubDate" : "Tue, 26 Oct 2021 08:15:45 +0000",
-         "title" : "FIDE Chess.com GRAND SWISS 2021 STARTS"
-      },
-      {
-         "description" : "Zugzwang is a powerful endgame weapon, particularly against a passive knight. In the diagram position, White's knight is passive but how can Black bring White into zugzwang and win the game?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/zugzwang-2",
-         "pubDate" : "Tue, 26 Oct 2021 09:00:00 +0100",
-         "title" : "Zugzwang"
       }
    ]
 }
