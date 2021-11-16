@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2fd40c66-524b-4c5b-b20e-de3fd29431aa/Soltis1.JPG\" data-image-dimensions=\"640x510\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6193b876ade464563e9224fa\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2fd40c66-524b-4c5b-b20e-de3fd29431aa/Soltis1.JPG?format=1000w\" /> </figure> <p class=\"\">Andy Soltis back in 1981, photo by Virginia LoPresto <a href=\"https://commons.wikimedia.org/wiki/File:Andy_Soltis_1981.JPG\">via Wikimedia Commons </a> <p class=\"\">GM Andy Solti",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/16/episode-252-gm-andy-soltis-returns-again",
+         "pubDate" : "Tue, 16 Nov 2021 14:10:39 +0000",
+         "title" : "Episode 252- GM Andy Soltis returns again"
+      },
+      {
+         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. Read the full report on round 4... | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
+         "pubDate" : "Tue, 16 Nov 2021 14:50:00 +0100",
+         "title" : "European Team Championships - Live!"
+      },
+      {
+         "description" : "In the key matchup between top seeds Russia and Georgia in the women's section of the European Team Championships, the rating favourites and defending champions defeated their Georgian rivals by 3-1 on Monday. In the open section, co-leaders Azerbaijan and Hungary drew their direct encounter, allowing Russia to catch up with them on 7/8 match points. | Photos: ECU Press",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2021-r4",
+         "pubDate" : "Tue, 16 Nov 2021 14:50:00 +0100",
+         "title" : "Euro Teams: Russian teams win close matches"
+      },
+      {
+         "description" : " Another week, another Asian Chess Federation online event. This week it is the Asian Amateur Championship, which is being held as a 9 round rapid event over 3 days (and yes I am an arbiter). While Australia hasn't really embraced these online events*, other countries have. There is a sizeable New Zealand contingent, while even Macau has a representative, although in this case it is CM Hui Li, currently resident in Canberra. At the end of the first day he is tied for first place on 3/3, along with 15 other players. With 150 players in the tournament, it will of course take more rounds (at least 7), before a likely winner is known. (* Australia doesn't really embrace offline events in Asia ei",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/11/2021-asian-online-amateur.html",
+         "pubDate" : "Tue, 16 Nov 2021 13:15:00 +0000",
+         "title" : "2021 Asian Online Amateur"
+      },
+      {
+         "description" : "The ECU Board meeting and the General Assembly took place on 12 and 13 November respectively at the Terme Hotel in Terme Čatež, Slovenia, during the 2021 European Team Chess Championship with the generous hospitality of the Slovenian Chess Federation. The President of the Slovenian Chess Federation, Milan Brglez, welcomed all delegates and informed about the special conditions&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-board-meeting-general-assembly-press-release/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-board-meeting-general-assembly-press-release/",
+         "pubDate" : "Tue, 16 Nov 2021 13:06:40 +0000",
+         "title" : "ECU Board Meeting & General Assembly press release"
+      },
+      {
          "description" : "Svitlana's Smart Moves started roughly half a year ago, and we made twenty episodes so far. The work with Svitlana is always a blast, and we are happy, that so many people follow the weekly show regularly. The Canadian WIM, not only produced a \"Lazy Sicilian\" opening course, but her newest Fritztrainer \"Understanding Material Imbalances\" has launched yesterday. Can there be any better time, than purchasing the products today, for 25% less? Back to the episode for today: Knight endgames can be very tricky, and Svitlana explains what to look out for in two examples.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +104,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/etcc-2-3-mamedyarov-giri-firouzja-on-fire",
          "pubDate" : "Mon, 15 Nov 2021 13:58:29 +0000",
          "title" : "ETCC 2-3: Mamedyarov, Giri & Firouzja on fire"
-      },
-      {
-         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
-         "pubDate" : "Mon, 15 Nov 2021 14:50:00 +0100",
-         "title" : "European Team Championships - Live!"
       },
       {
          "description" : "Svitlana Demchenko has to find all of her smart moves for a fun battle against Fritz 18, which is available very soon. The newest engine is made for playing interesting games, and finds some \"human\" moves on purpose for your and our entertainment. Although Fritz 18 gives Svitlana some subtle hints to the right direction, it still feels very satisfying to find an unstoppable mate combination against the engine.",
@@ -2040,38 +2072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/magnus-carlsen-plays-at-tata-steel-2022",
          "pubDate" : "Tue, 26 Oct 2021 18:00:00 +0100",
          "title" : "Magnus Carlsen plays at Tata Steel 2022"
-      },
-      {
-         "description" : "On 10 October Nick Pert won the British Over-the-Board Championship 2021. In a 50-minute video, he now walks us through the games he played in the Championship, explaining key positions, tactics and why and how he chose the openings he played. A fascinating look into the mind of a modern Grandmaster - including the first game of his career, in which Pert mated his opponent \"en passant\"!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pert-s-path-to-winning-the-british-otb-championship-2021",
-         "pubDate" : "Tue, 26 Oct 2021 16:36:28 +0100",
-         "title" : "Pert's path to winning the British OTB Championship 2021"
-      },
-      {
-         "description" : " The FIDE Grand Swiss Tournament takes place Wed 27th Oct to Mon 8th Nov 2021 in Riga. The event was initially scheduled to take place on the Isle of Man and was later switch to Riga over concerns that the regulation might cause it's cancellation. As it is the event starts in Riga with a very high incidence of the disease and regulations affecting locals but not the players. Alexander Grischuk, Richard Rapport, Shakhriyar Mamedyarov, Hikaru Nakamura and Vidit Gujrathi are leading players who have decided they don't want to play. The top seeds are now Fabiano Caruana, Levon Aronian, Alireza Firouzja, MVL and Nikita Vitiugov. There is a similar women's event alongside - top seed Kateryna Lagno",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-swiss-2021",
-         "pubDate" : "Tue, 26 Oct 2021 18:13:00 +0400",
-         "title" : "FIDE Grand Swiss 2021 - Games and Results"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/3143e1d8-75df-42d1-9088-c03072dcd784/chessthink.jpg\" data-image-dimensions=\"200x200\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"617801585379dc2f628653b4\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/3143e1d8-75df-42d1-9088-c03072dcd784/chessthink.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo <a href=\"http://www.glicko.net/research.html\">courtesy of Mark Glickman</a> </figcaption> </figure> <p class=\"\">Our guest this week",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/10/26/episode-249-dr-mark-glickman",
-         "pubDate" : "Tue, 26 Oct 2021 13:26:46 +0000",
-         "title" : "Episode 249- Dr. Mark Glickman "
-      },
-      {
-         "description" : "In mid-October, the 43rd edition of the traditional Open of the City of Arco was played. In late summer weather many strong amateurs and several title holders, including two Grandmasters, competed for victory. In the end, four players shared first place but the Italian FM Michel Bifulco won the tournament on tiebreak. | Photo: Gerhard Bertagnolli",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/italian-fm-michel-bifulco-wins-43-open-int-citt-di-arco",
-         "pubDate" : "Tue, 26 Oct 2021 14:08:52 +0100",
-         "title" : "Italian FM Michel Bifulco wins 43. Open Int. Citt&agrave; di Arco"
       }
    ]
 }
