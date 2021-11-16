@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Wesley So beat GM Jeffery Xiong with a score of 18-14 in the 2021 Speed Chess Championship Main Event. In the quarterfinals, he will face the winner of the match between GM Maxime Vachier-Lagrave and GM Fabiano Caruana, which starts on Monday, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-so-xiong",
+         "pubDate" : "Mon, 15 Nov 2021 14:10:00 -0800",
+         "title" : "Speed Chess Championship: So Rallies, Eliminates Xiong"
+      },
+      {
          "description" : "Discount Day ends 2021 begins on Monday, November 15 at 6:00 p.m. and ends November 16th, 2021, at 09:00 a.m. CEST (midnight in California). We are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account - everything. And there are very interesting new products that are being released. The biggest attraction: the brand new Fritz 18, that offers you the opportunity to actually play against the computer - and trains you to find brilliancies in your games. Don't miss this final opportunity to get all our software - at a premium price.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1704,14 +1712,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/blitzcoin-invitational-day-4-naroditsky-liang-in-finals",
          "pubDate" : "Sat, 30 Oct 2021 22:52:00 -0700",
          "title" : "Blitzcoin Invitational Day 4: Naroditsky, Liang In Finals"
-      },
-      {
-         "description" : "We are happy to announce the 2021-2022 Bughouse World Championship! The beloved variant championship starts on November 8 and will extend through January 2022. The strongest bughouse players in the world will come together to fight for their piece...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-bughouse-world-championship",
-         "pubDate" : "Sat, 30 Oct 2021 19:33:08 -0700",
-         "title" : "Announcing The 2021 Bughouse World Championship"
       },
       {
          "description" : "",
