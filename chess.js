@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana's Smart Moves started roughly half a year ago, and we made twenty episodes so far. The work with Svitlana is always a blast, and we are happy, that so many people follow the weekly show regularly. The Canadian WIM, not only produced a \"Lazy Sicilian\" opening course, but her newest Fritztrainer \"Understanding Material Imbalances\" has launched yesterday. Can there be any better time, than purchasing the products today, for 25% less? Back to the episode for today: Knight endgames can be very tricky, and Svitlana explains what to look out for in two examples.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-20",
+         "pubDate" : "Tue, 16 Nov 2021 12:48:43 +0100",
+         "title" : "Svitlana's Smart Moves - Powerful knight endgames"
+      },
+      {
          "description" : "The diagram shows a position from a game between Teimour Radjabov and Hikaru Nakamura, played at the Meltwater Chess Champions Final 2021. It is White to move and he has to find the right square for his king to avoid getting into zugzwang. In the game, with limited time on the clock, Radjabov failed to find the right move. Can you do better?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,11 +18,11 @@ news_feed (
          "title" : "Zugzwang"
       },
       {
-         "description" : "After Abhimanyu Mishra became the world's youngest-ever GM in July, debates have raged around the ease of attaining the title.",
+         "description" : "Abhimanyu Mishra became the youngest ever GM in July, sparking a debate on whether titles have become easier to win.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/32637681/inside-calls-fide-change-grandmaster-requirements-nepomniachtchi-vishwanathan-anand-vladimir-kramnik?device=featurephone",
-         "pubDate" : "Mon, 15 Nov 2021 23:02:45 -0500",
+         "pubDate" : "Tue, 16 Nov 2021 02:05:43 -0500",
          "title" : "To GM or not to GM: Inside calls for FIDE to change Grandmaster requirements"
       },
       {
@@ -130,7 +138,7 @@ news_feed (
          "title" : "Third Rank Defence"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 52nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about the advantages of having a space advantage. | Photo: Tommy Grooten",
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 52rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about the advantages of having a space advantage. | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-53-space-advantage-2",
@@ -2064,22 +2072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/italian-fm-michel-bifulco-wins-43-open-int-citt-di-arco",
          "pubDate" : "Tue, 26 Oct 2021 14:08:52 +0100",
          "title" : "Italian FM Michel Bifulco wins 43. Open Int. Citt&agrave; di Arco"
-      },
-      {
-         "description" : "While entering moves, writing comments, and evaluating positions are the most fundamental aspects of chess annotation, there is little doubt that illustrating the board with well-placed arrows, and timely highlighted squares can tell you in a glance you can see what is going on without a single variation or comment. Be sure to have these tools in your tool kit.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/annotating-in-chessbase-arrows-and-highlighted-squares",
-         "pubDate" : "Tue, 26 Oct 2021 13:09:31 +0100",
-         "title" : "Annotating in ChessBase: Arrows and highlighted squares"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1398",
-         "pubDate" : "Tue, 26 Oct 2021 10:15:29 +0000",
-         "title" : "Winners crowned at FIDE World Amateur Chess Championship"
       }
    ]
 }
