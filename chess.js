@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent talks about the European Team Championships. The game of the day is Giri-Saric from round 3. The Dutch number 1 is in great form and currently on +3. His game against Saric an exceptional display of the power of the two bishops. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-3",
+         "pubDate" : "Tue, 16 Nov 2021 19:00:00 +0100",
+         "title" : "The Weekly Show"
+      },
+      {
+         "description" : " &#8220;You always admire what you really don't understand&#8221; Blaise Pascal Alexey Alexeyevich Troitsky has been mentioned often in my blog. I am in full agreement with Sam Sloan when he writes in the introduction of his book &#8220;Collection of Chess Studies&#8221; the following: &#8220; Trotzky is considered to have been the greatest composer of chess endgame <a href=\"https://chessimprover.com/the-great-ones-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Great Ones (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-great-ones-5/\">The Great Ones (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Che",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/the-great-ones-5/",
+         "pubDate" : "Tue, 16 Nov 2021 17:30:17 +0000",
+         "title" : "The Great Ones (5)"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2fd40c66-524b-4c5b-b20e-de3fd29431aa/Soltis1.JPG\" data-image-dimensions=\"640x510\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6193b876ade464563e9224fa\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2fd40c66-524b-4c5b-b20e-de3fd29431aa/Soltis1.JPG?format=1000w\" /> </figure> <p class=\"\">Andy Soltis back in 1981, photo by Virginia LoPresto <a href=\"https://commons.wikimedia.org/wiki/File:Andy_Soltis_1981.JPG\">via Wikimedia Commons </a> <p class=\"\">GM Andy Solti",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2064,14 +2080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1383",
          "pubDate" : "Tue, 26 Oct 2021 20:37:02 +0000",
          "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
-      },
-      {
-         "description" : "In a press release the organisers of the Tata Steel Tournament in Wijk aan Zee 2022 just revealed the names of 13 of the 14 participants. It is a fantastic line-up with Magnus Carlsen and Fabiano Caruana as top seeds and exciting and young players such as Richard Rapport, Jan-Krzysztof Duda, Andrey Esipenko, Daniil Dubov or Praggnanandhaa in the field. The tournament runs from 14 January until 30 January 2022. | Photo: Hans van den Berg (left), Anish Giri and Jeroen van den Berg ( © Tata Steel Chess)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-plays-at-tata-steel-2022",
-         "pubDate" : "Tue, 26 Oct 2021 18:00:00 +0100",
-         "title" : "Magnus Carlsen plays at Tata Steel 2022"
       }
    ]
 }
