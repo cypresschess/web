@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "After winning the FIDE Chess.com Grand Swiss, GM Alireza Firouzja&#39;s quick rise to the top continues. The French-Iranian started with 4.5/5 at the European Team Championship in Slovenia and is now the new world number three in the live rankings. ...",
+         "description" : "Winning is fun but not easy. For example, how do you create winning chances when you are in a must-win situation or if your opponent is more than happy with a draw? The Slovakian Grandmaster and award-winning author Jan Markos knows the answer: create imbalances! In part one of his \"Winning Academy\" series he shows you how to do so. | Photo: Dreamstime",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-presented-by-jan-markos",
+         "pubDate" : "Wed, 17 Nov 2021 16:00:00 +0100",
+         "title" : "The Winning Academy (1): Creating Imbalances"
+      },
+      {
+         "description" : "After winning the FIDE Chess.com Grand Swiss, GM Alireza Firouzja&#39;s quick rise to the top continues. The French-Iranian started with 4.5/5 at the European Team Championship in Slovenia and is now the new world number-three in the live rankings. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/alireza-firouzja-world-number-3-european-team-championship",
