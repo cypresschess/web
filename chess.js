@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After winning the FIDE Chess.com Grand Swiss, GM Alireza Firouzja&#39;s quick rise to the top continues. The French-Iranian started with 4.5/5 at the European Team Championship in Slovenia and is now the new world number three in the live rankings. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alireza-firouzja-world-number-3-european-team-championship",
+         "pubDate" : "Wed, 17 Nov 2021 04:19:00 -0800",
+         "title" : "Firouzja Surges To World #3 At European Team Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1435",
+         "pubDate" : "Wed, 17 Nov 2021 11:58:53 +0000",
+         "title" : "Blind Mode debuts at 4th FIDE World Chess Championship for People with Disabilities"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1434",
+         "pubDate" : "Wed, 17 Nov 2021 11:38:45 +0000",
+         "title" : "European Team Championship in Terme Catez crosses midpoint"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Walter R&auml;dler</strong> is <a href=\"https://www.deutsche-schachjugend.de/news/2021/schulschachstiftung-waehlt-neuen-vorstand/\">back at the helm</a> of the <strong>German School Chess Foundation</strong>. Three years ago he passed on the office to <strong>Boris Bruhn</strong>, then Vice President of the <strong>German Chess Federation</strong>. Under Bruhn's leadership the foundation became largely inactive. The member of the <strong>FIDE Education Commission</strong> and the <strong>FIDE-ECU Working Group</strong> neither delivered a report nor showed up for the assembly. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/raedler-is-back/",
+         "pubDate" : "Wed, 17 Nov 2021 12:24:42 +0100",
+         "title" : "R&auml;dler is back"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> With the <a href=\"https://www.playmagnusgroup.com/investor\">publication of its Q3 report</a> and continued growth, <strong>Play Magnus Group</strong> strengthened its claim to lead the development of online chess as an E-sport. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/pmg-emphasizes-e-sport-leadership/",
+         "pubDate" : "Wed, 17 Nov 2021 10:01:41 +0100",
+         "title" : "PMG emphasizes E-sport leadership"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> At its General Assembly at Terme Čatež in Slovenia, the <strong>ECU</strong> <a href=\"https://www.europechess.org/ecu-board-meeting-general-assembly-press-release/\">announced plans</a> for a <strong>European Cities and Towns Chess Championship 2022</strong> to be probably held in hybrid. The <strong>2023 European Individual Championship</strong> was awarded to Moscow and the <strong>2023 European Team Championship</strong> to Montenegro. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/ecu-plans-cities-cup/",
+         "pubDate" : "Wed, 17 Nov 2021 09:51:04 +0100",
+         "title" : "ECU plans cities cup"
+      },
+      {
+         "description" : "18-year-old Alireza Firouzja has overtaken Fabiano Caruana to become world no. 3 on the live rating list after winning brilliant games in Rounds 4 and 5 of the European Team Championship to climb to 2793.3. His team France has suffered with two losses, but no team is setting the Open event on fire, with a six-way tie for 1st place on 8/10 points. In the Women's section Russia are cruising with a perfect 10/10 after defeating their biggest rivals Georgia.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/etcc-4-5-firouzja-storms-to-world-no-3",
+         "pubDate" : "Wed, 17 Nov 2021 08:42:37 +0000",
+         "title" : "ETCC 4-5: Firouzja storms to world no. 3"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> More than 150 upgraded features and a new layout will be <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc7htSLpYQvBAM1iJWdnpzED2m2SemdUs8uooLeGY9E845RSw/viewform\">presented this Saturday</a> by the online and hybrid tournament platform <strong>Tornelo</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/tornelo-sneak-preview/",
+         "pubDate" : "Wed, 17 Nov 2021 09:41:46 +0100",
+         "title" : "Tornelo sneak preview"
+      },
+      {
          "description" : "The Tata Steel Chess India Rapid and Blitz Tournament is taking place on November 17-21 in Kolkata. This time, 14 players are taking part. The lineup is spearheaded by Levon Aronian. Vishy Anand is present at the tournament as a mentor to the young talents. | Follow the action live with expert commentary starting at 9.30 CET (3.30 ET, 14.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,20 +82,20 @@ news_feed (
          "title" : "European Team Chess Championship 2021 - R5 report"
       },
       {
+         "description" : " The Tata Steel India Rapid & Blitz takes place Wed 17th Nov to Sun 21st Nov 2021 in Kolkata, India. 6 players compete in both events: Aronian, Vidit, Shankland, Maghsoodloo, Liem and Adhiban. 8 players will play just one of the two events, Karthikeyan, Erigaisi, Vaishali and Praggnanandhaa in the rapid and Harika, Nihal Sarin, Gukesh and Sadhwani complete the blitz field.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-2021",
+         "pubDate" : "Wed, 17 Nov 2021 10:37:00 +0400",
+         "title" : "Tata Steel India Rapid & Blitz 2021 - Games and Results"
+      },
+      {
          "description" : "Going into the rest day at the European Team Championships, six nations are sharing the lead on 8/10 match points in the open section, with the Netherlands, Ukraine and Armenia the latest to join the leading pack. Meanwhile, in the women's section, Russia now have a 2-point lead over Georgia and an over-performing Greek team. | Photos: ECU Press",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-team-championship-2021-r5",
          "pubDate" : "Wed, 17 Nov 2021 07:15:00 +0100",
          "title" : "Euro Teams: Six co-leaders, Gledura and Firouzja keep on winning"
-      },
-      {
-         "description" : "Discount Day 2021 begins on Monday, November 15 at 6:00 p.m. and ends November 16th, 2021, at 09:00 a.m. CEST (midnight in California). We are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account - everything. And there are very interesting new products that are being released. The biggest attraction: the brand new Fritz 18, that offers you the opportunity to actually play against the computer - and trains you to find brilliancies in your games. Don't miss this final opportunity to get all our software - at a premium price.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/here-s-your-chance-big-discount-day-5",
-         "pubDate" : "Wed, 17 Nov 2021 07:10:00 +0100",
-         "title" : "Here's your chance - big Discount Day!"
       },
       {
          "description" : "Tata Steel Chess India Rapid &#38; Blitz is back in its third edition in 2021. This is the first international over-the-board tournament being held in",
@@ -96,14 +160,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-finals",
          "pubDate" : "Tue, 16 Nov 2021 13:21:00 -0800",
          "title" : "Collegiate Chess League: The Finals"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Walter R&auml;dler</strong> is <a href=\"http://%20https://www.deutsche-schachjugend.de/news/2021/schulschachstiftung-waehlt-neuen-vorstand/\">back at the helm</a> of the <strong>German School Chess Foundation</strong>. Three years ago he passed on the office to <strong>Boris Bruhn</strong>, then Vice President of the <strong>German Chess Federation</strong>. Under Bruhn's leadership the foundation became largely inactive. The member of the <strong>FIDE Education Commission</strong> and the <strong>FIDE-ECU Working Group</strong> neither delivered a report nor showed up for the assembly. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/raedler-is-back/",
-         "pubDate" : "Tue, 16 Nov 2021 21:47:10 +0100",
-         "title" : "R&auml;dler is back"
       },
       {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent talks about the European Team Championships. The game of the day is Giri-Saric from round 3. The Dutch number 1 is in great form and currently on +3. His game against Saric an exceptional display of the power of the two bishops. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
@@ -288,14 +344,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/online-chess-is-27th-e-sport-by/",
          "pubDate" : "Sun, 14 Nov 2021 13:22:36 +0100",
          "title" : "Online chess is 27th E-sport by earnings"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Worldchess</strong> has hired the London broker firm <strong>Novum Securities</strong> to <a href=\"https://newsnetdaily.com/checkmate-for-london-stock-market-as-world-chess-relaunches-ipo-plan-economic-news/\">prepare an IPO at the AIM section</a> of the <strong>London Stock Exchange</strong>. The company controlled by <strong>Ilya Merenzon</strong> organised world championship matches until 2018. It is connected with the upcoming 2021 match as vendor of the official chess set and as representative of sponsors <strong>Kaspersky</strong> and <strong>Algorand</strong>. Worldchess is still the organiser of the <strong>FIDE Grandprix 2022</strong",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/worldchess-plans-london-ipo/",
-         "pubDate" : "Sun, 14 Nov 2021 13:19:46 +0100",
-         "title" : "Worldchess plans London IPO"
       },
       {
          "description" : "When's the last time you played a game of chess against a chess program? Normally it is pointless - you get thoroughly crushed, even if you are a 2800 player. But now you can challenge the computer: the brand new Fritz 18 uses its awesome power to set up brilliancies for its opponent! It is the ideal partner to train yourself to spot and execute spectacular combinations. The launch of Fritz 18 is on Discount Day, Tuesday November 16, when you can get the program at a premium price!",
@@ -528,22 +576,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1430",
          "pubDate" : "Thu, 11 Nov 2021 20:01:28 +0000",
          "title" : "Call of Interest for Arbiters in World Events 2022-2023"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Carlsen's 2016 challenger <strong>Sergey Karjakin</strong> revealed in an interview with <strong>Metaratings.ru</strong>, <a href=\"https://chess24.com/en/read/news/sergey-karjakin-magnus-can-psychologically-crumble\">transcribed</a> by <strong>chess24</strong>, that he trained with his compatriot <strong>Ian Nepomniachtchi</strong>. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">24 Nov - 16 Dec 2021</span>: <a href=\"https://www.chesstech.org/events/2021/world-chess-championship/\">World Chess Championship</a></li> </ul> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/karjakin-helps-nepo/",
-         "pubDate" : "Thu, 11 Nov 2021 20:52:45 +0100",
-         "title" : "Karjakin helps Nepo"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Following the example of the <a href=\"https://www.ntg.no/skole/b%C3%A6rum/sjakk\">Norwegian sport gymnasium</a> <strong>NTG</strong>, where Magnus Carlsen, Jon Ludvig Hammer and Aryan Tari combined their academic studies and chess training under guidance by Simen Agdestein, the <strong>Celsiusskolan</strong>, a sport gymnasium in Uppsala near Stockholm, is <a href=\"https://schack.se/nyhet/sverige/2021/11/klart-for-nytt-schackgymnasium-i-uppsala/\">opening for top chess talents</a> in cooperation with the <strong>Swedish Chess Federation</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/sweden-gets-a-chess-gymnasium/",
-         "pubDate" : "Thu, 11 Nov 2021 20:19:54 +0100",
-         "title" : "Sweden gets a chess gymnasium"
       },
       {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a game between Boris Gelfand and Sergei Movsesian from the Grand Swiss in Riga. It was a fantastic battle, with four queens appearing on the board as early as on move 11. Not to be missed! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1698,14 +1730,6 @@ news_feed (
          "title" : "Annotating in ChessBase: creating training positions"
       },
       {
-         "description" : "49-year-old Alexei Shirov and 44-year-old Evgeniy Najer caught Alireza Firouzja in Round 5 of the FIDE Chess.com Grand Swiss after the 18-year-old drew his game against Maxime Vachier-Lagrave. Alexei crashed through against Ivan Saric and will now play Firouzja in Round 6, while Najer defeated Robert Hovhannisyan. His opponent will be Fabiano Caruana, who made up for two missed win in a row by taking down David Howell. There are now five leaders in the women's event after Nino Batsiashvili, Zhu Jiner, Elisabeth Paehtz and Jolanta Zawadzka picked up wins.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/grand-swiss-5-shirov-and-najer-catch-firouzja",
-         "pubDate" : "Mon, 01 Nov 2021 07:49:17 +0000",
-         "title" : "Grand Swiss 5: Shirov and Najer catch Firouzja"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87455368.cms\" />Indian star Dronavalli Harika drew her fifth round game against Natalija Pogonina to be placed joint second with three others on 3.5 points in the FIDE Grand Swiss chess tournament for women here.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1720,14 +1744,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-r5",
          "pubDate" : "Mon, 01 Nov 2021 04:10:00 +0100",
          "title" : "Grand Swiss: Shirov and Najer join Firouzja in the lead"
-      },
-      {
-         "description" : "We are excited to announce that GM Daniel Naroditsky has officially signed on as Chess.com&#39;s lead commentator! You will now enjoy Danya&#39;s insightful and well-humored commentary on most of the chess events we cover, starting on November 8 with the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-lead-commentator",
-         "pubDate" : "Sun, 31 Oct 2021 19:47:00 -0700",
-         "title" : "Daniel Naroditsky Signs On As Chess.com's New Lead Commentator"
       },
       {
          "description" : " FM Albert C. Chow(January 26, 1964 October 30, 2021)Photo Karen M. Larkin (Facebook) FIDE Master Albert Chow died shortly after 5pm on Saturday, October 30, 2021. According to his friend Bill Brock, he had been diagnosed with metastatic squamous cell carcinoma (neck cancer). Chow was born on January 26, 1964, and was 57 years [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/31/chicago-chess-legend-fm-albert-chow-dies/\">Chicago chess legend FM Albert Chow dies</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -2064,22 +2080,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/chess-world-championship-match/",
          "pubDate" : "Wed, 27 Oct 2021 17:00:00 +0000",
          "title" : "Chess World Championship Match"
-      },
-      {
-         "description" : " In a sign that things *might* be getting back to normal, the FIDE Grand Swiss has just started in Riga. Normally held on the Isle of Man, it was moved to Riga for this year, as initially it was thought that it would be easier to travel to Latvia, rather than the UK. Then a spike in Covid cases put Latvia in lockdown, but the Latvian government gave the event a special dispensation, so it is now going ahead (although a couple of players decided to pull out). There is one Australian player in the 108 player field, GM Temur Kuybokarov. He is seeded 101's in the tournament, but in a such closely packed field (the 54th seed is rated less than 100 points more than him), I suspect form is going to",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/10/the-grand-swiss.html",
-         "pubDate" : "Wed, 27 Oct 2021 12:26:00 +0000",
-         "title" : "The Grand Swiss"
-      },
-      {
-         "description" : "Top German player, IM Elisabeth P&auml;htz, was recently invited to speak at the Digital Demo Day in Germany, in English, where she was asked to discuss the application of quantum computing on chess. She was later interviewed about her life as a chess player with questions on how it compares to Queen's Gambit, but the key question she was asked was: can quantum computing solve chess?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/elisabeth-paehtz-why-chess-players-can-t-win-against-artificial-intelligence-2",
-         "pubDate" : "Wed, 27 Oct 2021 13:00:03 +0100",
-         "title" : "Elisabeth P&auml;htz: Why chess players can't win against artificial intelligence"
       }
    ]
 }
