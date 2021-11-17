@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With the first two rounds of playoffs complete, each division has been narrowed down to the final four remaining teams. These teams will fight this weekend in the semifinals and finals for their share of the $25,000 prize pool. You won&#39;t want to m...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-finals",
+         "pubDate" : "Tue, 16 Nov 2021 13:21:00 -0800",
+         "title" : "Collegiate Chess League: The Finals"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Walter R&auml;dler</strong> is <a href=\"http://%20https://www.deutsche-schachjugend.de/news/2021/schulschachstiftung-waehlt-neuen-vorstand/\">back at the helm</a> of the <strong>German School Chess Foundation</strong>. Three years ago he passed on the office to <strong>Boris Bruhn</strong>, then Vice President of the <strong>German Chess Federation</strong>. Under Bruhn's leadership the foundation became largely inactive. The member of the <strong>FIDE Education Commission</strong> and the <strong>FIDE-ECU Working Group</strong> neither delivered a report nor showed up for the assembly. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/raedler-is-back/",
+         "pubDate" : "Tue, 16 Nov 2021 21:47:10 +0100",
+         "title" : "R&auml;dler is back"
+      },
+      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent talks about the European Team Championships. The game of the day is Giri-Saric from round 3. The Dutch number 1 is in great form and currently on +3. His game against Saric an exceptional display of the power of the two bishops. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -192,14 +208,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-53-space-advantage-2",
          "pubDate" : "Sun, 14 Nov 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 53: Space advantage (2)"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Levy Rozman</strong>, one of the most popular chess streamers on <strong>Twitch</strong>, <a href=\"https://www.chess.com/news/view/levy-rozman-chess-scholarship-program-winners\">announced 11 scholastic chess programmes in the US and one in Nigeria</a> as recipients of $100,000 in scholarships he is donating in cooperation with <strong>Chesskid</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/roizman-announced-scholarship/",
-         "pubDate" : "Sun, 14 Nov 2021 13:24:45 +0100",
-         "title" : "Rozman announced scholarship recipients"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Unsurprisingly, <strong>Magnus Carlsen</strong> leads the prize money list from online chess events listed by <strong>esportsearnings.com</strong> with $843,791 and 60 cent since 2014, making him <a href=\"https://www.esportsearnings.com/players/75863-drnykterstein-sven-magnus-carlsen\">143rd in live-time earnings among e-sporters</a>, but unlike them he has significant otb earnings. The other chess players north of $100,000 are 2. Nakamura, 3. So, 4. Aronian, 5. Nepomniachtchi, 6. Giri, 7. Caruana, 8. Radjabov, 9. Vachier-Lagrave, 10. Ding, 11. Dubov and 12. Firouzja. Overall close to $6 million distributed makes online chess the 27th biggest E-sport",
@@ -1778,14 +1786,6 @@ news_feed (
          "title" : "In Riga, Everyone Is Watching Firouzja Becoming the Next World Champion, Maybe"
       },
       {
-         "description" : "The fourth day of Blitzcoin Invitational saw two semifinals matches, with the four fastest and stubbornest players competing for the spots in the final match. The top-seed GM Daniel Naroditsky went on to defeat the fastest bullet player, GM Andr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/blitzcoin-invitational-day-4-naroditsky-liang-in-finals",
-         "pubDate" : "Sat, 30 Oct 2021 22:52:00 -0700",
-         "title" : "Blitzcoin Invitational Day 4: Naroditsky, Liang In Finals"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2064,22 +2064,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-a-fine-victory-by-vitiugov",
          "pubDate" : "Wed, 27 Oct 2021 06:00:00 +0100",
          "title" : "The Weekly Show: A fine victory by Vitiugov"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1399",
-         "pubDate" : "Tue, 26 Oct 2021 20:42:05 +0000",
-         "title" : "FIDE Chess.com Grand Swiss officially opened in Latvia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1383",
-         "pubDate" : "Tue, 26 Oct 2021 20:37:02 +0000",
-         "title" : "FIDE Candidates Tournament and Women's Grand Prix Series 2022-23 - Call for bids"
       }
    ]
 }
