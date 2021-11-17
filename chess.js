@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Levon Aronian beat Sam Shankland, Adhiban and Vidit as he began the Tata Steel Chess India Rapid with a perfect 3/3. The Armenian star took a full 1-point lead over Vidit and teenage stars Praggnanandhaa and Arjun Erigaisi as the first top-level Indian chess event in two years began in Kolkata. Four foreign stars are taking on six Indian players, though the Indian line-up will change again for the blitz that follows.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aronian-on-perfect-3-3-as-tata-steel-chess-india-begins",
+         "pubDate" : "Wed, 17 Nov 2021 20:20:08 +0000",
+         "title" : "Aronian on perfect 3/3 as Tata Steel Chess India begins"
+      },
+      {
+         "description" : "This week, Merijn van Delft takes a look at Alireza Firouzja and his \"supermodern\" chess which continues to bring the 18-year success: after winning the Grand Swiss in Riga he continues to score at the European Team Championship, and with a live-rating of 2793.3 he is currently the world's number three behind Magnus Carlsen (2855.9) and Ding Liren (2799.0), narrowly ahead of Fabiano Caruana (2792.3) and World Championship challenger Ian Nepomniachtchi (2782.0). | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-490-alireza-firouzja-vs-m-yilmaz",
+         "pubDate" : "Wed, 17 Nov 2021 18:00:00 +0100",
+         "title" : "Game of the Week #490: Alireza Firouzja vs M. Yilmaz"
+      },
+      {
+         "description" : " The Chess.com Speed Chess Championship takes place Mon 8th Nov to Sun 19th Dec 2021. Round 1 pairings: Nov 8 Giri 14-12 Duda, Nov 9 Ding 14-12 Mamedyarov, Nov 10 Rapport 16.5-14.5 Sarana, Nov 11 Grischuk- 15.5-10.5 Grischuk, Nov 11 Aronian 15-12 Dubov, Nov 12 Nakamura 22-10 Svidler, Nov 15 So 18-14 Xiong and Nov 29 MVL-Caruana.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-championship-2021",
+         "pubDate" : "Wed, 17 Nov 2021 20:00:00 +0400",
+         "title" : "Chess.com Speed Chess Championship 2021 - Games and Results"
+      },
+      {
          "description" : "Winning is fun but not easy. For example, how do you create winning chances when you are in a must-win situation or if your opponent is more than happy with a draw? The Slovakian Grandmaster and award-winning author Jan Markos knows the answer: create imbalances! In part one of his \"Winning Academy\" series he shows you how to do so. | Photo: Dreamstime",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -15,7 +39,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/alireza-firouzja-world-number-3-european-team-championship",
          "pubDate" : "Wed, 17 Nov 2021 04:19:00 -0800",
-         "title" : "Firouzja Surges To World #3 At European Team Championship"
+         "title" : "Firouzja Surges To World No. 3 At European Team Championship"
       },
       {
          "description" : "",
@@ -250,14 +274,6 @@ news_feed (
          "title" : "Speed Chess Championship: So Rallies, Eliminates Xiong"
       },
       {
-         "description" : " The Chess.com Speed Chess Championship takes place Mon 8th Nov to Sun 19th Dec 2021. Round 1 pairings: Nov 8 Giri 14-12 Duda, Nov 9 Ding 14-12 Mamedyarov, Nov 10 Rapport 16.5-14.5 Sarana, Nov 11 Grischuk- 15.5-10.5 Grischuk, Nov 11 Aronian 15-12 Dubov, Nov 12 Nakamura 22-10 Svidler, Nov 15 So-Xiong and Nov 29 MVL-Caruana.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-championship-2021",
-         "pubDate" : "Mon, 15 Nov 2021 20:00:00 +0400",
-         "title" : "Chess.com Speed Chess Championship 2021 - Games and Results"
-      },
-      {
          "description" : "In the Endgame Magic Show #170 Karsten M&uuml;ller and Fabian Brinkmann continue to look at endgame highlights from the FIDE Grand Swiss in Riga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -399,7 +415,7 @@ news_feed (
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/ecct-1-firouzja-world-no-4-after-french-debut",
          "pubDate" : "Sat, 13 Nov 2021 12:48:39 +0000",
-         "title" : "ECCT 1: Firouzja world no. 4 after French debut"
+         "title" : "ETCC 1: Firouzja world no. 4 after French debut"
       },
       {
          "description" : " Signs that OTB chess may return to normality within 12 months continue to appear. The 2021 European Teams Championship has kicked of in Slovenia, and the 9 round events has attracted a very strong field. There were 39 teams in the Open, and 31 in the Women's Section. Azerbaijan were the only team to win 4-0 in the Open in round 1, and their Women's team repeated the score in their event. The event is a 9 round tournament, and will be covered on all the major chess sites. I had a quick look through the games from the first round, and the following quick win for Black caught my eye. <br /> <b>Koykka,Pekka (2353) - Parligras,Mircea-Emilian (2576) [C47]</b><br />23rd European Team Chess Champio",
@@ -1698,14 +1714,6 @@ news_feed (
          "title" : "Sydney in the 60's"
       },
       {
-         "description" : "The 2020 Chess Calendar was laid to waste by the coronavirus epidemic, though the Magnus Carlsen Chess Tour and other online events rose from the ashes. 2021 is guaranteed to see the $1.5 million Champions Chess Tour played out in monthly events until the Grand Final in September, but if the virus permits it's a year that could also see the Candidates Tournament completed, a World Championship match, two World Cups, two Grand Swisses, the Grand Chess Tour and much more.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/2021-chess-calendar",
-         "pubDate" : "Mon, 01 Nov 2021 10:57:00 +0000",
-         "title" : "2021 Chess Calendar"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2080,14 +2088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1400",
          "pubDate" : "Wed, 27 Oct 2021 21:11:28 +0000",
          "title" : "FIDE Chess.com Grand Swiss Riga: Round 1 Recap"
-      },
-      {
-         "description" : " On November 24th the wait has finally an end: reigning World Champion Magnus Carlsen will try to defend his title against GM Ian Nepomniachtchi, who won the 2020/21 Candidates Tournament. The long-awaited World Championship Match will be played in Dubai (UAE), alongside the World Expo. In this article, you will get all the information about [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/chess-world-championship-match/\">Chess World Championship Match</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/chess-world-championship-match/",
-         "pubDate" : "Wed, 27 Oct 2021 17:00:00 +0000",
-         "title" : "Chess World Championship Match"
       }
    ]
 }
