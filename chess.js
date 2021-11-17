@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess India Rapid and Blitz Tournament is taking place on November 17-21 in Kolkata. This time, 14 players are taking part. The lineup is spearheaded by Levon Aronian. Vishy Anand is present at the tournament as a mentor to the young talents. | Follow the action live with expert commentary starting at 9.30 CET (3.30 ET, 14.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2021-live",
+         "pubDate" : "Wed, 17 Nov 2021 09:25:00 +0100",
+         "title" : "Tata Steel India Rapid - Live!"
+      },
+      {
+         "description" : "After five played rounds at the European Team Chess Championship 2021 in Terme Catez, Slovenia, six teams of the Open section and the Russian Women's team go to the resting day heading the crosstables. The top two matches of the European Team Chess Championship 2021 ended in a draw 2-2 result. All four games of the Azerbaijan &hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-r5-report/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-team-chess-championship-2021-r5-report/",
+         "pubDate" : "Wed, 17 Nov 2021 06:40:49 +0000",
+         "title" : "European Team Chess Championship 2021 - R5 report"
+      },
+      {
+         "description" : "Going into the rest day at the European Team Championships, six nations are sharing the lead on 8/10 match points in the open section, with the Netherlands, Ukraine and Armenia the latest to join the leading pack. Meanwhile, in the women's section, Russia now have a 2-point lead over Georgia and an over-performing Greek team. | Photos: ECU Press",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2021-r5",
+         "pubDate" : "Wed, 17 Nov 2021 07:15:00 +0100",
+         "title" : "Euro Teams: Six co-leaders, Gledura and Firouzja keep on winning"
+      },
+      {
+         "description" : "Discount Day 2021 begins on Monday, November 15 at 6:00 p.m. and ends November 16th, 2021, at 09:00 a.m. CEST (midnight in California). We are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account - everything. And there are very interesting new products that are being released. The biggest attraction: the brand new Fritz 18, that offers you the opportunity to actually play against the computer - and trains you to find brilliancies in your games. Don't miss this final opportunity to get all our software - at a premium price.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/here-s-your-chance-big-discount-day-5",
+         "pubDate" : "Wed, 17 Nov 2021 07:10:00 +0100",
+         "title" : "Here's your chance - big Discount Day!"
+      },
+      {
          "description" : "Tata Steel Chess India Rapid &#38; Blitz is back in its third edition in 2021. This is the first international over-the-board tournament being held in",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -18,7 +50,7 @@ news_feed (
          "title" : "Play Chess Like a 2000! | Road to 2000 - NM Caleb Denby"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Bryan Smith shows Mikhail Botvinnik and Vasily Smyslov&#039;s 17th game from the 1957 World Chess Championship. The mysterious masked Bryan then presents a complicated composition. 2021.11.16<br /> Mikhail Botvinnik vs Vasily Smyslov, Botvinnik - Smyslov World Championship Match (1957)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1032437\">https://www.chessgames.com/perl/chessgame?gid=1032437</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Bryan Smith shows Mikhail Botvinnik and Vasily Smyslov&#039;s 17th game from the 1957 World Chess Championship. Bryan then presents a complicated knight break-through composition. 2021.11.16<br /> Mikhail Botvinnik vs Vasily Smyslov, Botvinnik - Smyslov World Championship Match (1957)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1032437\">https://www.chessgames.com/perl/chessgame?gid=1032437</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/maneuver-break-through-insane-endgame-gm-bryan-smith",
@@ -98,12 +130,12 @@ news_feed (
          "title" : "Episode 252- GM Andy Soltis returns again"
       },
       {
-         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. Read the full report on round 4... | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
+         "description" : "The diagram shows a position from a game between Teimour Radjabov and Hikaru Nakamura, played at the Meltwater Chess Champions Final 2021. It is White to move and he has to find the right square for his king to avoid getting into zugzwang. In the game, with limited time on the clock, Radjabov failed to find the right move. Can you do better?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
-         "pubDate" : "Tue, 16 Nov 2021 14:50:00 +0100",
-         "title" : "European Team Championships - Live!"
+         "link" : "https://en.chessbase.com/post/zugzwang-3",
+         "pubDate" : "Tue, 16 Nov 2021 15:00:00 +0100",
+         "title" : "Zugzwang"
       },
       {
          "description" : "In the key matchup between top seeds Russia and Georgia in the women's section of the European Team Championships, the rating favourites and defending champions defeated their Georgian rivals by 3-1 on Monday. In the open section, co-leaders Azerbaijan and Hungary drew their direct encounter, allowing Russia to catch up with them on 7/8 match points. | Photos: ECU Press",
@@ -138,14 +170,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Powerful knight endgames"
       },
       {
-         "description" : "The diagram shows a position from a game between Teimour Radjabov and Hikaru Nakamura, played at the Meltwater Chess Champions Final 2021. It is White to move and he has to find the right square for his king to avoid getting into zugzwang. In the game, with limited time on the clock, Radjabov failed to find the right move. Can you do better?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/zugzwang-3",
-         "pubDate" : "Tue, 16 Nov 2021 09:00:00 +0100",
-         "title" : "Zugzwang"
-      },
-      {
          "description" : "Abhimanyu Mishra became the youngest ever GM in July, sparking a debate on whether titles have become easier to win.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -160,14 +184,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-so-xiong",
          "pubDate" : "Mon, 15 Nov 2021 14:10:00 -0800",
          "title" : "Speed Chess Championship: So Rallies, Eliminates Xiong"
-      },
-      {
-         "description" : "Discount Day 2021 begins on Monday, November 15 at 6:00 p.m. and ends November 16th, 2021, at 09:00 a.m. CEST (midnight in California). We are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account - everything. And there are very interesting new products that are being released. The biggest attraction: the brand new Fritz 18, that offers you the opportunity to actually play against the computer - and trains you to find brilliancies in your games. Don't miss this final opportunity to get all our software - at a premium price.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/here-s-your-chance-big-discount-day-5",
-         "pubDate" : "Mon, 15 Nov 2021 18:00:00 +0100",
-         "title" : "Here's your chance - big Discount Day!"
       },
       {
          "description" : " The Chess.com Speed Chess Championship takes place Mon 8th Nov to Sun 19th Dec 2021. Round 1 pairings: Nov 8 Giri 14-12 Duda, Nov 9 Ding 14-12 Mamedyarov, Nov 10 Rapport 16.5-14.5 Sarana, Nov 11 Grischuk- 15.5-10.5 Grischuk, Nov 11 Aronian 15-12 Dubov, Nov 12 Nakamura 22-10 Svidler, Nov 15 So-Xiong and Nov 29 MVL-Caruana.",
@@ -2064,14 +2080,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/elisabeth-paehtz-why-chess-players-can-t-win-against-artificial-intelligence-2",
          "pubDate" : "Wed, 27 Oct 2021 13:00:03 +0100",
          "title" : "Elisabeth P&auml;htz: Why chess players can't win against artificial intelligence"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent focuses on the Russian Superfinal, which was won by Nikita Vitiugov. He also talks about the upcoming World Championship Match and the Grand Swiss in Riga. The \"Game of the Day\" is Vitiugov vs Andreikin, \"a perfect display by the winner who played a simply flawless game\". | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-a-fine-victory-by-vitiugov",
-         "pubDate" : "Wed, 27 Oct 2021 06:00:00 +0100",
-         "title" : "The Weekly Show: A fine victory by Vitiugov"
       }
    ]
 }
