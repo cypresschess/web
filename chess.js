@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Tata Steel Chess India Rapid &#38; Blitz is back in its third edition in 2021. This is the first international over-the-board tournament being held in",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/2021-tata-steel-chess-india-rapid-blitz-starts-today/",
+         "pubDate" : "Wed, 17 Nov 2021 04:24:52 +0000",
+         "title" : "2021 Tata Steel Chess India Rapid & Blitz starts today"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows his games from the 2016 Indianapolis Open when he was rated 2000. The mysterious masked Caleb confesses that at that rating, it&#039;s all about who sees the most &quot;tricks.&quot; 2021.11.16<br /> Caleb Denby vs. Jason Scott Daniels, 2016: A88 Dutch, Leningrad, main variation with c6<br /> Maggie Feng vs. Denby, 2016: A07 Reti, King&#039;s Indian attack (Barcza system) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-chess-2",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-chess-2000-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 17 Nov 2021 03:52:05 +0000",
+         "title" : "Play Chess Like a 2000! | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Bryan Smith shows Mikhail Botvinnik and Vasily Smyslov&#039;s 17th game from the 1957 World Chess Championship. The mysterious masked Bryan then presents a complicated composition. 2021.11.16<br /> Mikhail Botvinnik vs Vasily Smyslov, Botvinnik - Smyslov World Championship Match (1957)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1032437\">https://www.chessgames.com/perl/chessgame?gid=1032437</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/maneuver-break-through-insane-endgame-gm-bryan-smith",
+         "pubDate" : "Wed, 17 Nov 2021 03:52:05 +0000",
+         "title" : "Maneuver to Break Through! | Insane in the Endgame - GM Bryan Smith"
+      },
+      {
+         "description" : "GM Dmitry Andreikin took home an outright and undefeated Titled Tuesday victory on November 16, scoring 10/11. GM Anton Demchenko finished in sole second, a half-point behind, with 9.5/11. In a three-way tie with a 9/11 score, GM Jeffery Xiong and...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andreikin-wins-november-16-titled-tuesday",
+         "pubDate" : "Tue, 16 Nov 2021 17:12:10 -0800",
+         "title" : "Andreikin Wins November 16 Titled Tuesday"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows his games from the 2016 Indianapolis Open. The mysterious masked Caleb was rated 2000 at that event. 2021.11.16<br /> Caleb Denby vs. Jason Scott Daniels, 2016: A88 Dutch, Leningrad, main variation with c6 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-2000-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-2000-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Wed, 17 Nov 2021 00:51:48 +0000",
+         "title" : "Play Like a 2000! | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Bryan Smith teaches a chess endgame class. 2021.11.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/insane-endgame-gm-bryan-smith\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1oVXLOXZcp8.jpg?itok=a4wN5yPZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/insane-endgame-gm-bryan-smith",
+         "pubDate" : "Wed, 17 Nov 2021 00:51:48 +0000",
+         "title" : "Insane in the Endgame - GM Bryan Smith"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White, with the main lines of the Kan (or Paulsen). 2021.11.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kan-sicilian-main-lines-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3fhEWK_ZQGg.jpg?itok=lT",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kan-sicilian-main-lines-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Wed, 17 Nov 2021 00:51:48 +0000",
+         "title" : "The Kan Sicilian: Main Lines | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
          "description" : "With the first two rounds of playoffs complete, each division has been narrowed down to the final four remaining teams. These teams will fight this weekend in the semifinals and finals for their share of the $25,000 prize pool. You won&#39;t want to m...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -34,7 +90,7 @@ news_feed (
          "title" : "The Great Ones (5)"
       },
       {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2fd40c66-524b-4c5b-b20e-de3fd29431aa/Soltis1.JPG\" data-image-dimensions=\"640x510\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6193b876ade464563e9224fa\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2fd40c66-524b-4c5b-b20e-de3fd29431aa/Soltis1.JPG?format=1000w\" /> </figure> <p class=\"\">Andy Soltis back in 1981, photo by Virginia LoPresto <a href=\"https://commons.wikimedia.org/wiki/File:Andy_Soltis_1981.JPG\">via Wikimedia Commons </a> <p class=\"\">GM Andy Solti",
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2fd40c66-524b-4c5b-b20e-de3fd29431aa/Soltis1.JPG\" data-image-dimensions=\"640x510\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6193b876ade464563e9224fa\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2fd40c66-524b-4c5b-b20e-de3fd29431aa/Soltis1.JPG?format=1000w\" /> </figure> <p class=\"\">Andy Soltis back in 1981, photo <a href=\"https://commons.wikimedia.org/wiki/File:Andy_Soltis_1981.JPG\">via Wikimedia Commons </a> <p class=\"\">GM Andy Soltis is an award winning",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/16/episode-252-gm-andy-soltis-returns-again",
@@ -690,14 +746,6 @@ news_feed (
          "title" : "Become the Queen! | Insane in the Endgame - GM Alex Lenderman"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at Alireza Firouzja&#039;s games from the FIDE Grand Swiss Tournament 2021, where two spots in the next Candidates Tournament were at stake. The mysterious masked Caleb plays Firouzja&#039;s hits from the event. 2021.11.09<br /> Alireza Firouzja vs David Howell, FIDE Grand Swiss (2021): C50 Giuoco Piano<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2097552\">https://www.chessgames.com/perl/chessgame?gid=2097552</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fie",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzjas-fiyah-wins-fide-grand-swiss-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Wed, 10 Nov 2021 00:44:50 +0000",
-         "title" : "This Firouzja's on FIYAH! Wins FIDE Grand Swiss | Road to 2000 - NM Caleb Denby | lichess.org"
-      },
-      {
          "description" : " From the publisher: \"Pawns are the soul of chess.\" We have all heard this phrase more than once in our chess life and we owe it to the great French player François-Andr&eacute; Danican, so-called Philidor, considered one of the best chess players of the 18th century. It's not surprising that with this way of thinking, <a href=\"http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Philidor Defense</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/\">The Modernized Philidor Defense</a> appea",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1018,14 +1066,6 @@ news_feed (
          "title" : "Grand Swiss 10: Firouzja a draw away from the Candidates"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman defeats a Budapest Gambit player on lichess.org. The Budapest Gambit (or Budapest Defence) is a chess opening that begins with the moves 1.d4 Nf6 2.c4 e5. Originally on Twitch. 2021.10.20<br /> Alex Lenderman vs. Jules_04, 2021: A52 Budapest, Alekhine, Abonyi variation<br /> <a href=\"https://lichess.org/zSy0mz0erv6Z\">https://lichess.org/zSy0mz0erv6Z</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beating-budapest-gambit-gm-lenderman-p",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/beating-budapest-gambit-gm-lenderman-plays-people",
-         "pubDate" : "Sun, 07 Nov 2021 09:41:52 +0000",
-         "title" : "Beating the Budapest Gambit! | GM Lenderman Plays The People"
-      },
-      {
          "description" : "Alireza Firouzja beat David Howell to reclaim the sole lead in the open section of the FIDE Chess.com Grand Swiss. Two players stand a half point back before the last round - Fabiano Caruana and Grigoriy Oparin. Lei Tingjie secured tournament victory in the women's section with a round to spare. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1274,22 +1314,6 @@ news_feed (
          "title" : "FIDE Chess.com Grand Swiss R8: Firouzja Increases Lead, Now World #4"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani begins her series on her favorite ways to play against Sicilian Defense with White, beginning with the Hungarian Variation (or Chekhover) after 2...g6. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-white-hungarian-g6-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/63VwMc39W2E.jpg?itok",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-sicilian-white-hungarian-g6-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 04 Nov 2021 18:38:51 +0000",
-         "title" : "Play the Sicilian with White: Hungarian with ...g6 | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman gives a master class on how to convert winning chess positions.The mysterious masked Alex shows his own games and games from his students. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/convert-winning-positions-grandmasters-choice-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OmtVL7NxnhM.jpg?itok=IkO-DgLy\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/convert-winning-positions-grandmasters-choice-gm-alex-lenderman",
-         "pubDate" : "Thu, 04 Nov 2021 18:38:51 +0000",
-         "title" : "Convert Winning Positions! | Grandmaster's Choice - GM Alex Lenderman"
-      },
-      {
          "description" : "Magnus Carlsen and his team spent two weeks last month preparing for the match against Ian Nepomniachtchi in a resort near Cadiz, Spain. During the stay at the Royal Hideaway Sancti Petri, the World Chess Champion gave an interview to the manager of the hotel, Ignacio Martin, where he talked about the training camp, The Queen's Gambit, his own first steps in chess and what advice he'd give to people just starting out in the game.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1312,14 +1336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1415",
          "pubDate" : "Thu, 04 Nov 2021 13:20:51 +0000",
          "title" : "2021 FIDE Online General Assembly: List of Delegates"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani begins her series on playing against the Sicilian Defense with White. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-white-part-1-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/63VwMc39W2E.jpg?itok=SQvzuDV5\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-sicilian-white-part-1-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 04 Nov 2021 12:38:29 +0000",
-         "title" : "Play the Sicilian with White: Part 1 | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "At the end of October, the 139th \"Varsity Match\" Oxford vs Cambridge was played at the Royal Automobile Club in London. All in all, Cambridge is slightly ahead in matches, but this year Oxford won 5.5-2.5. The match was a real event, with dinner and music by the famous pianist, composer and chess fan Jason Kouchak. | Photo: Jason Kouchak and Victor Vasiesiu, captain of the Oxford team | Photo: John Saunders",
@@ -1712,14 +1728,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1408",
          "pubDate" : "Sun, 31 Oct 2021 20:46:44 +0000",
          "title" : "FIDE Chess.com Grand Swiss: Round 5 Recap"
-      },
-      {
-         "description" : "Russian GM Evgeniy Najer and former world number-two GM Alexei Shirov caught GM Alireza Firouzja in the lead in round five of the FIDE Chess.com Grand Swiss in Riga. The two won their games, while Firouzja drew the all-French clash with GM Maxime ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-round-5",
-         "pubDate" : "Sun, 31 Oct 2021 13:32:00 -0700",
-         "title" : "FIDE Chess.com Grand Swiss R5: Najer, Shirov Catch Firouzja"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 51st instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the black squares. | Photo: Tommy Grooten",
