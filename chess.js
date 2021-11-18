@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Researchers at DeepMind and Google Brain, in collaboration with Grandmaster Vladimir Kramnik, are working to explore what chess can teach us about AI and vice versa. Using Chessbase's extensive historical chess data along with the AlphaZero neural network chess engine and components from Stockfish 8, they ask: what can we learn about chess history by studying AlphaZero, how does AlphaZero learn to evaluate positions, and is AlphaZero computing anything human-like? Their paper, \"Acquisition of Chess Knowledge in AlphaZero\", has just been published.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/acquisition-of-chess-knowledge-in-alphazero",
+         "pubDate" : "Thu, 18 Nov 2021 17:00:00 +0100",
+         "title" : "Acquisition of Chess Knowledge in AlphaZero"
+      },
+      {
+         "description" : "18-year-old Arjun Erigaisi's late emergence as one of the very top Indian chess talents continues as he won all three games on Day 2 of the Tata Steel Chess India Rapid to overtake Levon Aronian as the sole leader. Levon, after a perfect first day, looked to be powering to 4/4 until he stumbled and lost to Liem Quang Le, before drawing the next two games. Arjun took full advantage as he beat Vaishali, Le, and then Sam Shankland in just 19 moves.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/arjun-erigaisi-takes-over-on-day-2-of-tata-steel-india-rapid",
+         "pubDate" : "Thu, 18 Nov 2021 15:56:38 +0000",
+         "title" : "Arjun Erigaisi takes over on Day 2 of Tata Steel India Rapid"
+      },
+      {
+         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. Read the full report on round 5... | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
+         "pubDate" : "Thu, 18 Nov 2021 14:50:00 +0100",
+         "title" : "European Team Championships - Live!"
+      },
+      {
+         "description" : "After World War II, Edith Keller-Herrmann, who was born on 17 November 1921 in Dresden, Germany, was one of the best women's players in the world. She played for the German Democratic Republic and won several team and individual gold medals at Chess Olympiads. On 17 November Edith Keller-Herrmann would have celebrated her 100th birthday. | Photo: Edith Keller-Herrmann, Paul-Werner Wagner, Lothar Schmid (German Chess Federation)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-memory-of-edith-keller-herrmann-17-november-1921-12-may-2010",
+         "pubDate" : "Thu, 18 Nov 2021 13:51:53 +0100",
+         "title" : "In memory of Edith Keller-Herrmann (17 November 1921 - 12 May 2010)"
+      },
+      {
          "description" : " One of the more common excuses for not playing tournament chess is \"too many annoying children\". While I think this isn't really a good excuse ('beat them early and often' is my motto), there is no denying that have a bunch of small kids running around playing 'tips' during your game can be off putting. So while the 2021 Vikings Weekender isn't designed to be a 'no juniors' event, the vaccination requirement for the event, and the timing of the roll out of vaccinations for Under 12's in Australia, means that Under 12's won't be playing (and we won't be getting a visit from Prime Minister Trump either). As junior players do make up a significant number of entries in chess events these days, ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -15,7 +47,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1436",
          "pubDate" : "Thu, 18 Nov 2021 10:33:34 +0000",
-         "title" : "FIDE extends Aid Package Program to 2022"
+         "title" : "FIDE expands and extends Aid Package Program to 2022"
       },
       {
          "description" : "Levon Aronian had a very good start at the 3. Tata Steel India Chess Festival: with wins against Vidit Gujrathi, Sam Shankland and Baskaran Adhiban he began the rapid tournament with 3.0/3. The festival is played at the Indian National Library in Kolkata and the enthusiasm is great though only a limited number of spectators are admitted. | Photos: Lennart Ootes",
@@ -488,14 +520,6 @@ news_feed (
          "link" : "https://www.thearticle.com/nonconformity-in-chess-and-physics-emanuel-lasker-and-albert-einstein/",
          "pubDate" : "Sat, 13 Nov 2021 10:00:55 +0000",
          "title" : "Nonconformity in chess and physics: Emanuel Lasker and Albert Einstein"
-      },
-      {
-         "description" : "It would appear that some members' ChessMoves November emails do not contain the link as promised in the body of the email, despite rigorous testing...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessmoves-november-logo-or-no-go/",
-         "pubDate" : "Sat, 13 Nov 2021 08:53:55 +0000",
-         "title" : "ChessMoves November - logo or no go?"
       },
       {
          "description" : "In 2003 there was a gigantic man vs machine match in New York. Garry Kasparov faced \"X3D Fritz\", a chess program that used new hardware and software which allowed radically lifelike 3D images, floating hologram-like in front of the screen. The match was an unprecedented success, generating more media coverage than any chess game previously in history. It was also full of adventure for the ChessBase team.",
@@ -1666,14 +1690,6 @@ news_feed (
          "title" : "This one fooled me"
       },
       {
-         "description" : "Alireza Firouzja let Alexei Shirov escape while Evgeniy Najer stumbled into a 3-fold repetition against Fabiano Caruana as none of the leaders won in Round 6 of the FIDE Chess.com Grand Swiss. That allowed Maxime Vachier-Lagrave to join them on 4.5/6 by continuing to win with White and draw with Black, while Krishnan Sasikiran also seized the chance by beating Alexandr Predke. Lei Tingjie regained the sole lead on 5/6 in the women's event by defeating Jolanta Zawadzka.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/grand-swiss-6-mvl-sasikiran-catch-the-leaders",
-         "pubDate" : "Tue, 02 Nov 2021 11:56:26 +0000",
-         "title" : "Grand Swiss 6: MVL & Sasikiran catch the leaders"
-      },
-      {
          "description" : "Patrick Bet-David, CEO of Valuetainment, sits down with Garry Kasparov, in what was easily one of the best interviews by the former world champion in years. He candidly discusses topics such as chess today compared to his day, AI and why it is not the boogeyman, politics, Putin, the US, and truth. \"I'm not a politician, I'm not running for office; I won't waffle, I won't duck.\" And he didn't.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1712,6 +1728,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-chess-tourney-indian-gm-sasikiran-among-leaders-after-sixth-round/articleshow/87479630.cms",
          "pubDate" : "Tue, 02 Nov 2021 10:34:17 +0530",
          "title" : "FIDE Grand Swiss : K Sasikiran among leaders after sixth round"
+      },
+      {
+         "description" : "The semi- finals both take place on Sunday 16th January; North - Nottingham High School; South - St Catherine's School, Bramley Entry fee &pound;10.00 per...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/girls-national-schools-chess-championship-2022/",
+         "pubDate" : "Mon, 01 Nov 2021 23:00:08 +0000",
+         "title" : "Girls' National Schools Chess Championship 2022"
       },
       {
          "description" : "There&#39;s a five-way tie for first place at the FIDE Chess.com Grand Swiss going into the rest day. GM Maxime Vachier-Lagrave and GM Krishnan Sasikiran won their games and joined the leaders GM Evgeniy Najer, GM Alexei Shirov, and GM Alireza Firouzj...",
@@ -2080,30 +2104,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/algorand-online-series-results-who-is-going-to-dubai-for-the-wor/",
          "pubDate" : "Thu, 28 Oct 2021 17:11:51 +0000",
          "title" : "Who is going to Dubai for the World Championship 2021?"
-      },
-      {
-         "description" : "When talking about ancient games you might have an image of a couple of dozen at most, ranging from chess and its precursors, to backgammon, Go, and a few more, but humanity has long had a passion for a good game. This passion has spanned across the globe with thousands of games uncovered, but no way to learn how to play them...until now. (image: papyrus dated c.1200 BC)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reconstructing-ancient-games-with-an-ai",
-         "pubDate" : "Thu, 28 Oct 2021 15:03:41 +0100",
-         "title" : "Reconstructing ancient games with an AI"
-      },
-      {
-         "description" : "This week, Merijn van Delft takes a look at a game Shakhryar Mamedyarov played in the Bundesliga against Gata Kamsky, \"one of the most beautiful positional games of the year\". | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-487-s-mamedyarov-vs-g-kamsky",
-         "pubDate" : "Thu, 28 Oct 2021 15:00:00 +0100",
-         "title" : "Game of the Week 487: S. Mamedyarov vs G. Kamsky"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1401",
-         "pubDate" : "Thu, 28 Oct 2021 13:39:04 +0000",
-         "title" : "Arkady Dvorkovich: \"Chess life can continue even at a difficult time\""
       }
    ]
 }
