@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White, with the main lines of the Kan (or Paulsen). 2021.11.17<br /> B47 Sicilian, Taimanov (Bastrikov) variation<br /> B46 Sicilian, Taimanov variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kan-sicilian-main-lines-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thum",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kan-sicilian-main-lines-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 18 Nov 2021 03:53:02 +0000",
+         "title" : "The Kan Sicilian: Main Lines | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "Levon Aronian beat Sam Shankland, Adhiban and Vidit as he began the Tata Steel Chess India Rapid with a perfect 3/3. The Armenian star took a full 1-point lead over Vidit and teenage stars Praggnanandhaa and Arjun Erigaisi as the first top-level Indian chess event in two years began in Kolkata. Four foreign stars are taking on six Indian players, though the Indian line-up will change again for the blitz that follows.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -178,7 +186,7 @@ news_feed (
          "title" : "Insane in the Endgame - GM Bryan Smith"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White, with the main lines of the Kan (or Paulsen). 2021.11.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kan-sicilian-main-lines-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3fhEWK_ZQGg.jpg?itok=lT",
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White, with the main lines of the Kan (or Paulsen). 2021.11.17<br /> B47 Sicilian, Taimanov (Bastrikov) variation<br /> B46 Sicilian, Taimanov variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kan-sicilian-main-lines-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/style",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/kan-sicilian-main-lines-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
@@ -808,14 +816,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/firouzjas-fiyah-wins-fide-grand-swiss-road-2000-nm-caleb-denby",
          "pubDate" : "Wed, 10 Nov 2021 03:44:54 +0000",
          "title" : "This Firouzja's on FIYAH! Wins FIDE Grand Swiss | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman leads a challenging class on queen chess endgames. The mysterious masked Alex shows his best (and not so best) games as visual aids. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/become-queen-insane-endgame-gm-alex-lenderman\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8fAj6EUvIDs.jpg?itok=lhPtyAck\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/become-queen-insane-endgame-gm-alex-lenderman",
-         "pubDate" : "Wed, 10 Nov 2021 00:44:50 +0000",
-         "title" : "Become the Queen! | Insane in the Endgame - GM Alex Lenderman"
       },
       {
          "description" : " From the publisher: \"Pawns are the soul of chess.\" We have all heard this phrase more than once in our chess life and we owe it to the great French player François-Andr&eacute; Danican, so-called Philidor, considered one of the best chess players of the 18th century. It's not surprising that with this way of thinking, <a href=\"http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Philidor Defense</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/\">The Modernized Philidor Defense</a> appea",
