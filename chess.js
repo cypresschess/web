@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " One of the more common excuses for not playing tournament chess is \"too many annoying children\". While I think this isn't really a good excuse ('beat them early and often' is my motto), there is no denying that have a bunch of small kids running around playing 'tips' during your game can be off putting. So while the 2021 Vikings Weekender isn't designed to be a 'no juniors' event, the vaccination requirement for the event, and the timing of the roll out of vaccinations for Under 12's in Australia, means that Under 12's won't be playing (and we won't be getting a visit from Prime Minister Trump either). As junior players do make up a significant number of entries in chess events these days, ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/11/calling-all-grumpy-old-men.html",
+         "pubDate" : "Thu, 18 Nov 2021 11:26:00 +0000",
+         "title" : "Calling all grumpy old men"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1436",
+         "pubDate" : "Thu, 18 Nov 2021 10:33:34 +0000",
+         "title" : "FIDE extends Aid Package Program to 2022"
+      },
+      {
+         "description" : "Levon Aronian had a very good start at the 3. Tata Steel India Chess Festival: with wins against Vidit Gujrathi, Sam Shankland and Baskaran Adhiban he began the rapid tournament with 3.0/3. The festival is played at the Indian National Library in Kolkata and the enthusiasm is great though only a limited number of spectators are admitted. | Photos: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-day-1-aronian-starts-with-3-0-3",
+         "pubDate" : "Thu, 18 Nov 2021 11:12:41 +0100",
+         "title" : "Tata Steel India, Day 1: Aronian starts with 3.0/3"
+      },
+      {
+         "description" : "Following the decisions on Arbiter title applications approved by the recent FIDE Council Meeting, England has another FIDE Arbiter. I am sure that everyone will...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/new-fide-arbiter-congratulations-2/",
+         "pubDate" : "Thu, 18 Nov 2021 08:58:19 +0000",
+         "title" : "New FIDE arbiter - congratulations!"
+      },
+      {
          "description" : "The Tata Steel Chess India Rapid and Blitz Tournament is taking place on November 17-21 in Kolkata. This time, 14 players are taking part. The lineup is spearheaded by Levon Aronian. Vishy Anand is present at the tournament as a mentor to the young talents. | Follow the action live with expert commentary starting at 9.30 CET (3.30 ET, 14.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2072,22 +2104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1401",
          "pubDate" : "Thu, 28 Oct 2021 13:39:04 +0000",
          "title" : "Arkady Dvorkovich: \"Chess life can continue even at a difficult time\""
-      },
-      {
-         "description" : "Using a fine game by Alexander Alekhine, Svitlana shows how to play against two weaknesses, an important strategic motif in middlegame and endgame. Svitlana and Arne also discuss how to pronounce \"Alekhine\", and wonder whether the German Master Friedrich \"Fritz\" Saemisch (1896-1975), name-giver of several popular opening lines, inspired developers to call their chess engine \"Fritz\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-18",
-         "pubDate" : "Thu, 28 Oct 2021 10:23:30 +0100",
-         "title" : "Svitlana's Smart Moves - Playing against two weaknesses: Alekhine shows the way"
-      },
-      {
-         "description" : "From 1-10 October the World Senior Championships 2021, organised by the Amateur Chess Organization (ACO), were played on the Greek island of Crete. 178 players fought in seven rating groups for the titles. Several Grandmasters, including Vlastimil Hort and Daniel King, supported the amateurs.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-aco-world-senior-championship-2021",
-         "pubDate" : "Thu, 28 Oct 2021 10:04:43 +0100",
-         "title" : "The ACO World Senior Championship 2021"
       }
    ]
 }
