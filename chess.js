@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 4 In the first round of day 2, tournament leader Levon Aronian seemed to be in cruise control after dominating the game for the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/tata-steel-chess-india-day-two/",
+         "pubDate" : "Thu, 18 Nov 2021 17:31:51 +0000",
+         "title" : "Tata Steel Chess India - Day Two"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> continues its <a href=\"https://www.fide.com/news/1436\">support programme for open tournaments</a> with €150,000 budgeted for 2022. Organisers must apply until 15 December. In 2021 FIDE <a href=\"https://www.fide.com/news/973\">supported 27 open tournaments with €120,000 combined</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/fide-continues-aid-for-open-events/",
+         "pubDate" : "Thu, 18 Nov 2021 18:28:46 +0100",
+         "title" : "FIDE continues aid for open events"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87786806.cms\" />Indian teenage duo of Arjun Erigaisi and R Praggnanandhaa occupied the top two places, pushing world number four Levon Aronian to third spot after round six of the Tata Steel Rapid Chess on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-arjun-erigaisi-sole-leader-with-four-wins-on-trot/articleshow/87786806.cms",
+         "pubDate" : "Thu, 18 Nov 2021 22:56:23 +0530",
+         "title" : "Tata Steel Chess: Arjun Erigaisi sole leader with four wins on trot"
+      },
+      {
+         "description" : "AlphaZero&#39;s learning process is, to some extent, similar to that of humans. A new paper from DeepMind, which includes a contribution from the 14th world chess champion Vladimir Kramnik, provides strong evidence for the existence of human-understan...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/how-alphazero-learns-chess",
+         "pubDate" : "Thu, 18 Nov 2021 08:28:00 -0800",
+         "title" : "How AlphaZero Learns Chess"
+      },
+      {
          "description" : "Researchers at DeepMind and Google Brain, in collaboration with Grandmaster Vladimir Kramnik, are working to explore what chess can teach us about AI and vice versa. Using Chessbase's extensive historical chess data along with the AlphaZero neural network chess engine and components from Stockfish 8, they ask: what can we learn about chess history by studying AlphaZero, how does AlphaZero learn to evaluate positions, and is AlphaZero computing anything human-like? Their paper, \"Acquisition of Chess Knowledge in AlphaZero\", has just been published.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -448,14 +480,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-53-space-advantage-2",
          "pubDate" : "Sun, 14 Nov 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 53: Space advantage (2)"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Unsurprisingly, <strong>Magnus Carlsen</strong> leads the prize money list from online chess events listed by <strong>esportsearnings.com</strong> with $843,791 and 60 cent since 2014, making him <a href=\"https://www.esportsearnings.com/players/75863-drnykterstein-sven-magnus-carlsen\">143rd in live-time earnings among e-sporters</a>, but unlike them he has significant otb earnings. The other chess players north of $100,000 are 2. Nakamura, 3. So, 4. Aronian, 5. Nepomniachtchi, 6. Giri, 7. Caruana, 8. Radjabov, 9. Vachier-Lagrave, 10. Ding, 11. Dubov and 12. Firouzja. Overall close to $6 million distributed makes online chess the 27th biggest E-sport",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/online-chess-is-27th-e-sport-by/",
-         "pubDate" : "Sun, 14 Nov 2021 13:22:36 +0100",
-         "title" : "Online chess is 27th E-sport by earnings"
       },
       {
          "description" : "When's the last time you played a game of chess against a chess program? Normally it is pointless - you get thoroughly crushed, even if you are a 2800 player. But now you can challenge the computer: the brand new Fritz 18 uses its awesome power to set up brilliancies for its opponent! It is the ideal partner to train yourself to spot and execute spectacular combinations. The launch of Fritz 18 is on Discount Day, Tuesday November 16, when you can get the program at a premium price!",
@@ -1266,14 +1290,6 @@ news_feed (
          "title" : "Anand to mentor Indian players as Tata Steel Chess returns to Kolkata"
       },
       {
-         "description" : "&#160; India won 8 medals which include 2 Gold, 1 Silver and 5 Bronze to finish over all second in the Open Category of Asian",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/bharath-subramaniyam-and-pranav-anand-won-gold-8-medal-for-india-in-asian-youth-online-open-chess-championship/",
-         "pubDate" : "Sat, 06 Nov 2021 12:53:59 +0000",
-         "title" : "Bharath Subramaniyam and Pranav Anand won Gold; 8 medal for India in Asian Youth Online Open Chess Championship"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1802,14 +1818,6 @@ news_feed (
          "title" : "Michal Krasenkow wins Sheikh Russel tournament in Bangladesh"
       },
       {
-         "description" : "After four previous days of Blitzcoin Invitational, it was time for the final match. The top-seed GM Daniel Naroditsky faced another very dangerous and fast player, GM Awonder Liang, and went on to convincingly beat him to win the tournament and...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/blitzcoin-invitational-day-5-naroditsky-pockets-the-victory",
-         "pubDate" : "Mon, 01 Nov 2021 00:59:41 -0700",
-         "title" : "Blitzcoin Invitational Day 5: Naroditsky Pockets The Victory"
-      },
-      {
          "description" : "You've seen the program create training positions automatically, but what if you wanted to create your own? This could be to show a student, show some friends, post online, and more. The tools are all there to generate your own hand-crafted test positions for tactics, strategy, and endgames, and it is useful tool to know. Read on to learn how!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2096,14 +2104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1402",
          "pubDate" : "Thu, 28 Oct 2021 20:51:48 +0000",
          "title" : "FIDE Chess.com Grand Swiss: Round 2 Recap"
-      },
-      {
-         "description" : " <p class=\"lead\">The Algorand Online Series has come to an end and the Indian GM Abhijeet Gupta is the one going to Dubai for the upcoming Championship Match between the reigning World Champion, Magnus Carlsen, and Russia's number 1, Ian Nepomniachtchi. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/873003.jpg\" width=\"1640\" height=\"1093\" alt=\"\" /> <div class=\"e2-text-caption\">Abhijeet Gupta, Photo: Ómar Óskarsson</div> </div> After winning the qualifying tournament, Gupta dominated at the final, followed by the Indian IM Pranav V, and IM Zhanat Saiyn from Kazakhstan. Gupta is an Indian GM, the first player to win the Commonwealth Chess Championship five times!",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/algorand-online-series-results-who-is-going-to-dubai-for-the-wor/",
-         "pubDate" : "Thu, 28 Oct 2021 17:11:51 +0000",
-         "title" : "Who is going to Dubai for the World Championship 2021?"
       }
    ]
 }
