@@ -2072,22 +2072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-aco-world-senior-championship-2021",
          "pubDate" : "Thu, 28 Oct 2021 10:04:43 +0100",
          "title" : "The ACO World Senior Championship 2021"
-      },
-      {
-         "description" : "Despite the lockdown-related difficulties in Latvia, the Grand Swiss kicked off on Wednesday at the Hanzas Perons Cultural Centre in Riga. The open section saw draws on 7 out of the top 10 boards, with Fabiano Caruana, Alireza Firouzja and Kirill Alekseenko all winning with the white pieces. A larger number of decisive results was seen in the women's section, including a few upsets. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-2021-r1",
-         "pubDate" : "Thu, 28 Oct 2021 00:05:00 +0100",
-         "title" : "Grand Swiss: Caruana and Firouzja start off with wins"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1400",
-         "pubDate" : "Wed, 27 Oct 2021 21:11:28 +0000",
-         "title" : "FIDE Chess.com Grand Swiss Riga: Round 1 Recap"
       }
    ]
 }
