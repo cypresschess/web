@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess India Rapid and Blitz Tournament is taking place on November 17-21 in Kolkata. This time, 14 players are taking part. The lineup is spearheaded by Levon Aronian. Vishy Anand is present at the tournament as a mentor to the young talents. | Follow the action live with expert commentary starting at 9.30 CET (3.30 ET, 14.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2021-live",
+         "pubDate" : "Thu, 18 Nov 2021 09:25:00 +0100",
+         "title" : "Tata Steel India Rapid - Live!"
+      },
+      {
+         "description" : "With the World Championship match in Dubai scheduled to kick off a bit over a week from now, we get ready for the showdown between Magnus Carlsen and Ian Nepomniachtchi by recapping the four previous matches, which were all won by Carlsen. In the first instalment, we recount what went on in Chennai in 2013, where a 22-year-old Carlsen got a commanding victory over local hero Vishy Anand. | Photo: Anastasiya Karlovich",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-carlsen-years-part-1",
+         "pubDate" : "Thu, 18 Nov 2021 07:00:00 +0100",
+         "title" : "The Carlsen years (1): A new era begins"
+      },
+      {
+         "description" : "Round 1: After a gap of two years, the Tata Steel Chess India event was welcomed to a tremendous round of applause by the local",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/tata-steel-chess-india-2021-first-day-report/",
+         "pubDate" : "Thu, 18 Nov 2021 05:25:19 +0000",
+         "title" : "Tata Steel Chess India 2021 : First Day Report"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White, with the main lines of the Kan (or Paulsen). 2021.11.17<br /> B47 Sicilian, Taimanov (Bastrikov) variation<br /> B46 Sicilian, Taimanov variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kan-sicilian-main-lines-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thum",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -104,14 +128,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/tornelo-sneak-preview/",
          "pubDate" : "Wed, 17 Nov 2021 09:41:46 +0100",
          "title" : "Tornelo sneak preview"
-      },
-      {
-         "description" : "The Tata Steel Chess India Rapid and Blitz Tournament is taking place on November 17-21 in Kolkata. This time, 14 players are taking part. The lineup is spearheaded by Levon Aronian. Vishy Anand is present at the tournament as a mentor to the young talents. | Follow the action live with expert commentary starting at 9.30 CET (3.30 ET, 14.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2021-live",
-         "pubDate" : "Wed, 17 Nov 2021 09:25:00 +0100",
-         "title" : "Tata Steel India Rapid - Live!"
       },
       {
          "description" : "After five played rounds at the European Team Chess Championship 2021 in Terme Catez, Slovenia, six teams of the Open section and the Russian Women's team go to the resting day heading the crosstables. The top two matches of the European Team Chess Championship 2021 ended in a draw 2-2 result. All four games of the Azerbaijan &hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-r5-report/\">Read More &#187;</a></span>",
