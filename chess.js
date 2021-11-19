@@ -146,7 +146,7 @@ news_feed (
          "title" : "Game of the Week #490: Alireza Firouzja vs M. Yilmaz"
       },
       {
-         "description" : " The Chess.com Speed Chess Championship takes place Mon 8th Nov to Sun 19th Dec 2021. Round 1 pairings: Nov 8 Giri 14-12 Duda, Nov 9 Ding 14-12 Mamedyarov, Nov 10 Rapport 16.5-14.5 Sarana, Nov 11 Grischuk- 15.5-10.5 Grischuk, Nov 11 Aronian 15-12 Dubov, Nov 12 Nakamura 22-10 Svidler, Nov 15 So 18-14 Xiong and Nov 29 MVL-Caruana.",
+         "description" : " The Chess.com Speed Chess Championship takes place Mon 8th Nov to Sun 19th Dec 2021. Round 1 pairings: Nov 8 Giri 14-12 Duda, Nov 9 Ding 14-12 Mamedyarov, Nov 10 Rapport 16.5-14.5 Sarana, Nov 11 Nihal Sarin 15.5-10.5 Grischuk, Nov 11 Aronian 15-12 Dubov, Nov 12 Nakamura 22-10 Svidler, Nov 15 So 18-14 Xiong and Nov 29 MVL-Caruana.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-championship-2021",
@@ -2096,14 +2096,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-r2",
          "pubDate" : "Fri, 29 Oct 2021 01:55:00 +0100",
          "title" : "Grand Swiss: Firouzja wins, Nihal escapes"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1402",
-         "pubDate" : "Thu, 28 Oct 2021 20:51:48 +0000",
-         "title" : "FIDE Chess.com Grand Swiss: Round 2 Recap"
       }
    ]
 }
