@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/cb3198eb-3a08-4677-9620-146d0d71d514/King2.jpg\" data-image-dimensions=\"350x461\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61971f83bcaff666d86ebfdd\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/cb3198eb-3a08-4677-9620-146d0d71d514/King2.jpg?format=1000w\" /> </figure> <p class=\"\">Photo by <a href=\"https://www.chessphotoshop.com\">Lennart Ootes</a>, courtesy of GM Daniel King<br><br> <p class=\"\">Grandmaster Daniel King is a popular Commentator, Author, YouTub",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/18/episode-253-gm-daniel-king-previews-the-world-championship-plus-more",
+         "pubDate" : "Fri, 19 Nov 2021 03:55:28 +0000",
+         "title" : "Episode 253- GM Daniel King Previews the World Championship, plus more! "
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1438",
+         "pubDate" : "Thu, 18 Nov 2021 23:27:50 +0000",
+         "title" : "New set of FIDE regulations covering FIDE Titles and Ratings published"
+      },
+      {
          "description" : "Round 4 In the first round of day 2, tournament leader Levon Aronian seemed to be in cruise control after dominating the game for the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2088,14 +2104,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/oct/29/chess-david-howell-draws-142-move-marathon-riga-using-rare-rule-grand-swiss",
          "pubDate" : "Fri, 29 Oct 2021 07:00:22 +0000",
          "title" : "Chess: David Howell draws 142-move marathon in Riga using rare rule"
-      },
-      {
-         "description" : "Three players are sharing the lead at the open section of the FIDE Chess.com Grand Swiss in Riga, as Alireza Firouzja, Alexandr Predke and Ivan Saric are the only participants to have won both their games so far. Meanwhile, seven players have a 2/2 score in the women's section. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r2",
-         "pubDate" : "Fri, 29 Oct 2021 01:55:00 +0100",
-         "title" : "Grand Swiss: Firouzja wins, Nihal escapes"
       }
    ]
 }
