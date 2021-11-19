@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " <p class=\"lead\">We are 7 days away from the match of the year, with the reigning World Champion, Magnus Carlsen, facing Russian's No.1 and 2021 Challenger, Ian Nepomniachtchi, at the Dubai Exhibition Centre. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/N_R07312-min.jpg\" width=\"2560\" height=\"1651\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> Recently, Nepomniachtchi and Carlsen have been interviewed due to their preparation and the three-time World Champion didn't hesitate to thank everyone for the love and support leading up to the match. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/6ACWlgIzwcs?enablejsapi=1",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87805078.cms\" /> There's no stopping Indian youngster Arjun Erigaisi. The 18-year-old carried on from where he left on the second day to claim the rapid title of the Kolkata rapid and blitz chess meet at the National Library on Friday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/clinical-arjun-erigaisi-clinches-kolkata-rapid-chess-title/articleshow/87805078.cms",
+         "pubDate" : "Fri, 19 Nov 2021 21:36:45 +0530",
+         "title" : "Clinical Arjun Erigaisi clinches Kolkata rapid chess title"
+      },
+      {
+         "description" : "The internet tries to sabotage the show, but we pull through and succeed! Lawrence found some very juicy tactics today, and it doesn't get easier, once we move over to our ChessBase training app. But finding the right solution after all those calculations is truly satisfying. The question is, are you good enough to find the correct moves?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-5",
+         "pubDate" : "Fri, 19 Nov 2021 17:00:00 +0100",
+         "title" : "Trent's Tactics - Solving tough cookies!"
+      },
+      {
+         "description" : "Round 7 Fair to say, round 7 was probably the most intensely fought round of the tournament thus far. Sitting pretty on top of the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/arjun-erigaisi-wins-tata-steel-chess-india-rapid-2021-day-3-report/",
+         "pubDate" : "Fri, 19 Nov 2021 15:24:23 +0000",
+         "title" : "Arjun Erigaisi Wins Tata Steel Chess India Rapid 2021 ; Day 3 Report"
+      },
+      {
+         "description" : "Grandmaster Praveen Thipsay, International Masters Sharad Tilak, Neeraj Mishra and International Arbiter RS Tiwari visited AICF Office. During their visit birthday of Shri RS Tiwari",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/birthday-of-im-neeraj-mishra-ia-rs-tiwari-celebrated/",
+         "pubDate" : "Fri, 19 Nov 2021 14:21:58 +0000",
+         "title" : "Birthday of IM Neeraj Mishra & IA RS Tiwari Celebrated"
+      },
+      {
+         "description" : " The time has come to put everything we have looked at over the last two or three months together. While it seems like a lot to cover in a single article, I'm gong to present a simple method for employing the most important of these concepts into your middle-game transition into the endgame. I spent <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-two/\">A Foundation for Beginners Forty Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\"",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-two/",
+         "pubDate" : "Fri, 19 Nov 2021 13:57:23 +0000",
+         "title" : "A Foundation for Beginners Forty Two"
+      },
+      {
+         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. Read the full report on round 6... | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
+         "pubDate" : "Fri, 19 Nov 2021 14:50:00 +0100",
+         "title" : "European Team Championships - Live!"
+      },
+      {
+         "description" : " <p class=\"lead\">The World Chess Championship match is just 7 days away, with the reigning World Champion, Magnus Carlsen, facing Russian's No.1 and 2021 Challenger, Ian Nepomniachtchi, at the Dubai Exhibition Centre. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/N_R07312-min.jpg\" width=\"2560\" height=\"1651\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> Recently, Nepomniachtchi and Carlsen have been interviewed about their preparation and the three-time World Champion was all about thanking his team and friends. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/6ACWlgIzwcs?enablejsapi=1\" allow=\"autoplay\" frameborder=",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/pure-chess-physical-training-and-mental-preparation-is-the-secre/",
          "pubDate" : "Fri, 19 Nov 2021 10:29:11 +0000",
-         "title" : "\"Pure chess, physical training and mental preparation\" is the secret sauce for Carlsen"
+         "title" : "Carlsen: \"Pure chess, physical training and mental preparation\""
       },
       {
          "description" : "The Liechtestein Chess Federation celebrated its 50th anniversary since its founding on Sunday, November 14. An impressive gala dinner with many presentations and performances and a simultaneous exhibition with world chess champion Anatoly Karpov were the main components of the festive program In addition to many guests and dignitaries, the celebrations were attended by the Minister of Foreign&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/liechtenstein-chess-federation-celebrates-its-50th-anniversary/\">Read More &#187;</a></span>",
@@ -248,14 +296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1434",
          "pubDate" : "Wed, 17 Nov 2021 11:38:45 +0000",
          "title" : "European Team Championship in Terme Catez crosses midpoint"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Walter R&auml;dler</strong> is <a href=\"https://www.deutsche-schachjugend.de/news/2021/schulschachstiftung-waehlt-neuen-vorstand/\">back at the helm</a> of the <strong>German School Chess Foundation</strong>. Three years ago he passed on the office to <strong>Boris Bruhn</strong>, then Vice President of the <strong>German Chess Federation</strong>. Under Bruhn's leadership the foundation became largely inactive. The member of the <strong>FIDE Education Commission</strong> and the <strong>FIDE-ECU Working Group</strong> neither delivered a report nor showed up for the assembly. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/raedler-is-back/",
-         "pubDate" : "Wed, 17 Nov 2021 12:24:42 +0100",
-         "title" : "R&auml;dler is back"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> With the <a href=\"https://www.playmagnusgroup.com/investor\">publication of its Q3 report</a> and continued growth, <strong>Play Magnus Group</strong> strengthened its claim to lead the development of online chess as an E-sport. </div> ",
@@ -1178,14 +1218,6 @@ news_feed (
          "title" : "Firouzja wins Grand Swiss | Caruana in Candidates"
       },
       {
-         "description" : "In a great initiative to promote the game of chess at Arunachal Pradesh, the Government of Arunachal Pradesh decided provide all the logistical support for",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/chess-in-school-project-at-arunachal-pradesh/",
-         "pubDate" : "Mon, 08 Nov 2021 09:14:51 +0000",
-         "title" : "Chess in School Project at Arunachal Pradesh"
-      },
-      {
          "description" : "In honour of the 85th anniversary of the birth of the 8th World Chess Champion Mikhail Tal, FIDE is endorsing the Lindores Abbey Blitz Tournament, which is taking place on November 8 in the historical Hanzas Perons venue in Riga, Latvia. The Swiss System tournament will include nine rounds. Each round will consist of two games played against the same opponent, one with each colour. Maxime Vachier-Lagrave, Levon Aronian and Fabiano Caruana are the top seeds. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1256,14 +1288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1424",
          "pubDate" : "Sun, 07 Nov 2021 17:44:44 +0000",
          "title" : "Liudmila Belavenets passes away"
-      },
-      {
-         "description" : "Nagpur based teenager Sankalp Gupta becomes the 71st Grandmaster of the country after completing the requirement to be next Grandmaster of the country by securing",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-sankalp-gupta-71st-grandmaster-of-india/",
-         "pubDate" : "Sun, 07 Nov 2021 15:06:54 +0000",
-         "title" : "Congratulations Sankalp Gupta : 71st Grandmaster of India"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 52nd instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the pleasures of having a space advantage. | Photo: Tommy Grooten",
@@ -2080,46 +2104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-catching-the-king",
          "pubDate" : "Fri, 29 Oct 2021 18:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Catch the King!"
-      },
-      {
-         "description" : "The FIDE is currently in an excellent position with its Presidium. Arkady Dvorkovich was Deputy Prime Minister of Russia and organised the World Cup. Managing Director Dana Reizneice was Minister of Economy and Finance of Latvia. On the occasion of the Grand Swiss in Riga, they both gave insightful interviews.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interviews-mit-dana-reizniece-ozola-und-arkady-dvorkovich",
-         "pubDate" : "Fri, 29 Oct 2021 17:01:05 +0100",
-         "title" : "Interviews with Dana Reizniece Ozola and Arkady Dvorkovich"
-      },
-      {
-         "description" : "Today's tactical focus: how to harness the power of devastating queens. Trent uses examples from 1880 and 100 years later. The Playchess training playground is getting more and more difficult, and some problems took us a few minutes to solve. But we were able to reach a rating of over 2050 meanwhile.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-2",
-         "pubDate" : "Fri, 29 Oct 2021 17:00:00 +0100",
-         "title" : "Trent's Tactics - Devastating queens"
-      },
-      {
-         "description" : "We are pleased to announce that the 118th British Chess Championships will be held at the Riviera International Centre in Torquay from the 8th to...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-chess-championships-2022/",
-         "pubDate" : "Fri, 29 Oct 2021 14:05:51 +0000",
-         "title" : "British Chess Championships 2022"
-      },
-      {
-         "description" : " Alright, we briefly looked at pawn structures over the last two articles. This week, we are going to finish examining pawn structure by looking at pawn majorities and minorities. Again, it is extremely important that you consider pawn structure, and do everything you can to maintain a healthy structure, early in the game. However, we <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty/\">A Foundation for Beginners Forty</a> appeared first on <a rel=\"nofollow\" href=\"https:",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-forty/",
-         "pubDate" : "Fri, 29 Oct 2021 13:21:22 +0000",
-         "title" : "A Foundation for Beginners Forty"
-      },
-      {
-         "description" : "<img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1635510567983-BWQHYFTJ6TSG9TGF8KNF/Hoogovenschaaktoernooi_%283e_ronde%29_Kortsjnoj_in_actie%2C_Bestanddeelnr_929-5372.jpg\" data-image-dimensions=\"128x193\" data-image-focal-point=\"0.5,0.5\" alt=\"Hoogovenschaaktoernooi_(3e_ronde)_Kortsjnoj_in_actie,_Bestanddeelnr_929-5372.jpg\" data-load=\"false\" data-image-id=\"617be92755a8dc1803f0e570\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1635510567983-BWQHYFTJ6TSG9TGF8KNF/Hoogovenschaaktoernooi_%283e_ronde%29_Kortsjnoj_in_actie%2C_Bestanddeelnr_929-5372.jpg?format=1000w\" /><br> <img class=\"thumb-ima",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/10/29/book-recap-20-discussing-gm-viktor-korchnois-chess-is-my-life-with-john-fernandez",
-         "pubDate" : "Fri, 29 Oct 2021 12:34:38 +0000",
-         "title" : "Book Recap #20- Discussing GM Viktor Korchnoi's Chess Is My Life with John Fernandez"
       }
    ]
 }
