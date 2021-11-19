@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this week's show, GM Daniel King looks at interesting positions from the European Team Championship but the main dish of the day is a creative attacking display from Alexei Shirov who once again shows the power of a sustained intiative. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-shirov-on-fire",
+         "pubDate" : "Fri, 19 Nov 2021 19:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Shirov on fire"
+      },
+      {
+         "description" : "After making a great impression at the Lindores Abbey Blitz tournament last week, GM Arjun Erigaisi did even better in Kolkata, India as the winner of the Tata Steel Chess India rapid tournament. The talented 18-year-old Indian GM clinched the rap...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-tata-steel-chess-india-rapid",
+         "pubDate" : "Fri, 19 Nov 2021 09:26:30 -0800",
+         "title" : "Erigaisi Wins Tata Steel Chess India Rapid"
+      },
+      {
+         "description" : "Fritz 18 has been released, bringing a fantastic opponent so that now you have an engine that will adapt to your play, try to make it a fun and engaging opponent, and even set you up with a brilliancy or more if the situation allows. This is not merely hype, but the result of feedback from players who have tried it, from weak amateurs to grandmasters themselves.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fritz-18-adaptive-play-and-spoon-fed-brilliancies-2",
+         "pubDate" : "Fri, 19 Nov 2021 18:00:00 +0100",
+         "title" : "Fritz 18: Adaptive play and spoon-fed brilliancies"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87805078.cms\" /> There's no stopping Indian youngster Arjun Erigaisi. The 18-year-old carried on from where he left on the second day to claim the rapid title of the Kolkata rapid and blitz chess meet at the National Library on Friday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -82,7 +106,7 @@ news_feed (
          "title" : "Tata Steel India Rapid - Live!"
       },
       {
-         "description" : " Norway's world champion is odds on to defeat his Russian challenger, but the fast rising 18-year-old Alireza Firouzja could usurp both of them Zero hour is approaching in Dubai. Magnus Carlsen and Ian Nepomniachtchi start their 14-game match for the world championship next week, with the opening ceremony on Wednesday and game one on Friday. A $2m prize fund, split 60-40, is at stake, plus the personal, business and national aspirations of the contenders. Carlsen can strengthen his claim to be the all-time greatest ahead of Garry Kasparov and Bobby Fischer, while Nepo (as he is usually called, and whose first name is pronounced Jan) can be the talisman who creates a new version of the depart",
+         "description" : " Norway's world champion is odds on to defeat his Russian challenger, but the fast rising 18-year-old Alireza Firouzja is poised to reach world No 2 this weekend Zero hour is approaching in Dubai. Magnus Carlsen and Ian Nepomniachtchi start their 14-game match for the world championship next week, with the opening ceremony on Wednesday and game one on Friday. A $2m prize fund, split 60-40, is at stake, plus the personal, business and national aspirations of the contenders. Carlsen can strengthen his claim to be the all-time greatest ahead of Garry Kasparov and Bobby Fischer, while Nepo (as he is usually called, and whose first name is pronounced Jan) can be the talisman who creates a new ver",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2021/nov/19/chess-magnus-carlsen-and-ian-nepomniachtchi-face-off-for-2m-in-dubai",
@@ -1842,14 +1866,6 @@ news_feed (
          "title" : "Girls' National Schools Chess Championship 2022"
       },
       {
-         "description" : "There&#39;s a five-way tie for first place at the FIDE Chess.com Grand Swiss going into the rest day. GM Maxime Vachier-Lagrave and GM Krishnan Sasikiran won their games and joined the leaders GM Evgeniy Najer, GM Alexei Shirov, and GM Alireza Firouzj...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-round-6",
-         "pubDate" : "Mon, 01 Nov 2021 13:59:00 -0700",
-         "title" : "FIDE Chess.com Grand Swiss R6: MVL, Sasikiran Join Leaders"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2096,14 +2112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1404",
          "pubDate" : "Fri, 29 Oct 2021 20:57:26 +0000",
          "title" : "FIDE Chess.com Grand Swiss: Round 3 Recap"
-      },
-      {
-         "description" : "In this week's show, GM Daniel King looks at ways to catch the enemy king, and shows how Maxime Vachier-Lagrave failed to do so in a recent Bundesliga game, which Daniel featured the previous week. More successful in his efforts to catch the enemy king was Vassily Smyslov in a game of his Candidate Match against Zoltan Ribli in 1983. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-catching-the-king",
-         "pubDate" : "Fri, 29 Oct 2021 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Catch the King!"
       }
    ]
 }
