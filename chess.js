@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">We are 7 days away from the match of the year, with the reigning World Champion, Magnus Carlsen, facing Russian's No.1 and 2021 Challenger, Ian Nepomniachtchi, at the Dubai Exhibition Centre. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/N_R07312-min.jpg\" width=\"2560\" height=\"1651\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> Recently, Nepomniachtchi and Carlsen have been interviewed due to their preparation and the three-time World Champion didn't hesitate to thank everyone for the love and support leading up to the match. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/6ACWlgIzwcs?enablejsapi=1",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/pure-chess-physical-training-and-mental-preparation-is-the-secre/",
+         "pubDate" : "Fri, 19 Nov 2021 10:29:11 +0000",
+         "title" : "\"Pure chess, physical training and mental preparation\" is the secret sauce for Carlsen"
+      },
+      {
+         "description" : "The Liechtestein Chess Federation celebrated its 50th anniversary since its founding on Sunday, November 14. An impressive gala dinner with many presentations and performances and a simultaneous exhibition with world chess champion Anatoly Karpov were the main components of the festive program In addition to many guests and dignitaries, the celebrations were attended by the Minister of Foreign&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/liechtenstein-chess-federation-celebrates-its-50th-anniversary/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/liechtenstein-chess-federation-celebrates-its-50th-anniversary/",
+         "pubDate" : "Fri, 19 Nov 2021 09:51:40 +0000",
+         "title" : "Liechtenstein Chess Federation celebrates its 50th Anniversary"
+      },
+      {
+         "description" : "Many congratulations to Ray Dolan, who has been named &#8216;Staffordshire Chess Association Sports Personality of the Year 2021'. In the words of the Express &#38;...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/staffordshire-chess-association-sports-personality-of-the-year/",
+         "pubDate" : "Fri, 19 Nov 2021 09:50:22 +0000",
+         "title" : "Staffordshire Chess Association Sports Personality of the Year!"
+      },
+      {
          "description" : "The Tata Steel Chess India Rapid and Blitz Tournament is taking place on November 17-21 in Kolkata. This time, 14 players are taking part. The lineup is spearheaded by Levon Aronian. Vishy Anand is present at the tournament as a mentor to the young talents. | Follow the action live with expert commentary starting at 9.30 CET (3.30 ET, 14.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "Tata Steel India Rapid - Live!"
       },
       {
-         "description" : " Norway's world champion is odds on to defeat his Russian challenger, but the fast rising 18-year-old Alireza Firouzja could usurp both of them Zero hour is approaching in Dubai. Magnus Carlsen and Ian Nepomniachtchi start their 14-game match for the world championship next week, with the opening ceremony on Wednesday and game one on Friday. A $2m prize fund, split 60-40, is at stake, plus the personal, business and national aspirations of the two contenders. Carlsen can strengthen his claim to be the all-time greatest ahead of Garry Kasparov and Bobby Fischer, while Nepo (as he is usually called, and whose first name is pronounced Jan) can be the talisman who creates a new version of the de",
+         "description" : " Norway's world champion is odds on to defeat his Russian challenger, but the fast rising 18-year-old Alireza Firouzja could usurp both of them Zero hour is approaching in Dubai. Magnus Carlsen and Ian Nepomniachtchi start their 14-game match for the world championship next week, with the opening ceremony on Wednesday and game one on Friday. A $2m prize fund, split 60-40, is at stake, plus the personal, business and national aspirations of the contenders. Carlsen can strengthen his claim to be the all-time greatest ahead of Garry Kasparov and Bobby Fischer, while Nepo (as he is usually called, and whose first name is pronounced Jan) can be the talisman who creates a new version of the depart",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2021/nov/19/chess-magnus-carlsen-and-ian-nepomniachtchi-face-off-for-2m-in-dubai",
@@ -112,6 +136,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/calling-all-grumpy-old-men.html",
          "pubDate" : "Thu, 18 Nov 2021 11:26:00 +0000",
          "title" : "Calling all grumpy old men"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1437",
+         "pubDate" : "Thu, 18 Nov 2021 11:21:39 +0000",
+         "title" : "Chess for children with ASD: practical materials for teachers and parents"
       },
       {
          "description" : "",
@@ -794,7 +826,7 @@ news_feed (
          "title" : "Magnus Carlsen presents 'The Maître's Gambit' in an exclusive interview"
       },
       {
-         "description" : " Share!54 Kenya has long been an active member of the international chess community over the years, but in the past decade, they have increased the profile of chess within the country. Chess Kenya has been promoting chess in underserved areas. TEAM KENYA with Ministry of Sports Most recently Fred Sagwe trekked 165km to get chess [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/10/chess-brought-before-kenyan-parliament/\">Chess brought before Kenyan Parliament</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!98 Kenya has long been an active member of the international chess community over the years, but in the past decade, they have increased the profile of chess within the country. Chess Kenya has been promoting chess in underserved areas. TEAM KENYA with Ministry of Sports Most recently Fred Sagwe trekked 165km to get chess [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/10/chess-brought-before-kenyan-parliament/\">Chess brought before Kenyan Parliament</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/10/chess-brought-before-kenyan-parliament/",
@@ -2088,30 +2120,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/10/29/book-recap-20-discussing-gm-viktor-korchnois-chess-is-my-life-with-john-fernandez",
          "pubDate" : "Fri, 29 Oct 2021 12:34:38 +0000",
          "title" : "Book Recap #20- Discussing GM Viktor Korchnoi's Chess Is My Life with John Fernandez"
-      },
-      {
-         "description" : " A number of Australian players are taking part in the Asian Youth Online Championships, including a few from Canberra. Most of them warmed up a few weeks back in the East Asian Online Youth, and this is reflected on the improved scores on Day 1. Getting tournament experience is a great way to improve, even if, as this game shows, it helps you bounce back from a seriously lost (-16 at one stage) position. <br /> <b>Liang,Joshua (1247) - Mkahal,Raghid Ahmad [B23]</b><br />Asian Youth Online Chess Championships - New Delhi, Delhi, India (3.44), 29.10.2021 <script>new PgnViewer( { boardName: \"game1285\", movesFormat: \"default\", pgnString:'1.e4 c5 2.Nc3 Nc6 3.f4 g6 4.Nf3 Bg7 5.Bc4 d6 6.d3 Bd7 7.O",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/10/this-one-was-pretty-nuts.html",
-         "pubDate" : "Fri, 29 Oct 2021 12:17:00 +0000",
-         "title" : "This one was pretty nuts"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1403",
-         "pubDate" : "Fri, 29 Oct 2021 10:49:34 +0000",
-         "title" : "IBCA Chess Olympiad for Blind and Visually Impaired: Russia carries the day"
-      },
-      {
-         "description" : " <p class=\"lead\">Halloween prize tournaments are coming! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/unnamed.png\" width=\"1600\" height=\"800\" alt=\"\" /> </div> FIDE Online Arena, the official FIDE gaming platform, is celebrating the Halloween fest and is organizing a series of three online tournaments on the 30th of October. Rapid, blitz, or bullet? The answer is all of them! The players will take part in 3 tournaments with different time controls, we will sum the points scored by each player in all tournaments, and the player with the most points will win the series. For example, you have 3 points in Blitz, 4 points in Bullet, and 3 in Rapid, which means your s",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/trick-or-treat/",
-         "pubDate" : "Fri, 29 Oct 2021 10:04:17 +0000",
-         "title" : "Trick or Treat?"
       }
    ]
 }
