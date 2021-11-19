@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess India Rapid and Blitz Tournament is taking place on November 17-21 in Kolkata. This time, 14 players are taking part. The lineup is spearheaded by Levon Aronian. Vishy Anand is present at the tournament as a mentor to the young talents. | Follow the action live with expert commentary starting at 9.30 CET (3.30 ET, 14.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2021-live",
+         "pubDate" : "Fri, 19 Nov 2021 09:25:00 +0100",
+         "title" : "Tata Steel India Rapid - Live!"
+      },
+      {
+         "description" : " Norway's world champion is odds on to defeat his Russian challenger, but the fast rising 18-year-old Alireza Firouzja could usurp both of them Zero hour is approaching in Dubai. Magnus Carlsen and Ian Nepomniachtchi start their 14-game match for the world championship next week, with the opening ceremony on Wednesday and game one on Friday. A $2m prize fund, split 60-40, is at stake, plus the personal, business and national aspirations of the two contenders. Carlsen can strengthen his claim to be the all-time greatest ahead of Garry Kasparov and Bobby Fischer, while Nepo (as he is usually called, and whose first name is pronounced Jan) can be the talisman who creates a new version of the de",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/nov/19/chess-magnus-carlsen-and-ian-nepomniachtchi-face-off-for-2m-in-dubai",
+         "pubDate" : "Fri, 19 Nov 2021 08:00:29 +0000",
+         "title" : "Chess: Magnus Carlsen and Ian Nepomniachtchi face off for $2m in Dubai"
+      },
+      {
+         "description" : "It was not Arjun's birthday, but given the way he played, it can easily be called 'The Arjun Erigaisi day', as he scored a hat-trick, gained sole lead and beat former US champion Sam Shankland in just 19 moves. This just shows his preparation, strength and consistency. He is now a full point ahead of his competition on 5.0/6. Praggnanandhaa and Aronian are at 4.0/6 each. He will face Adhiban, Vidit and Aronian in the final three games tomorrow. Arjun vs. Aronian is something everyone is waiting for with bated breath. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2021-day-2",
+         "pubDate" : "Fri, 19 Nov 2021 06:25:00 +0100",
+         "title" : "Tata Steel Chess Rapid R4-6: The Arjun Erigaisi day"
+      },
+      {
+         "description" : "After six rounds, the Russian teams are sole leaders in both sections of the European Team Championships. In the open, a victory by Daniil Dubov on board 2 allowed them to defeat Hungary, while the women's team easily defeated Greece. Meanwhile, France's top board Alireza Firouzja has collected 5&frac12; out of 6 points so far in Slovenia, and is now less than 4 points shy from crossing the 2800 rating barrier. | Photos: ECU Press",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2021-r6",
+         "pubDate" : "Fri, 19 Nov 2021 06:05:00 +0100",
+         "title" : "Euro Teams: Russia in the sole lead, Firouzja closing on 2800"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/cb3198eb-3a08-4677-9620-146d0d71d514/King2.jpg\" data-image-dimensions=\"350x461\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61971f83bcaff666d86ebfdd\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/cb3198eb-3a08-4677-9620-146d0d71d514/King2.jpg?format=1000w\" /> </figure> <p class=\"\">Photo by <a href=\"https://www.chessphotoshop.com\">Lennart Ootes</a>, courtesy of GM Daniel King<br><br> <p class=\"\">Grandmaster Daniel King is a popular Commentator, Author, YouTub",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -66,14 +98,6 @@ news_feed (
          "title" : "Arjun Erigaisi takes over on Day 2 of Tata Steel India Rapid"
       },
       {
-         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. Read the full report on round 5... | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
-         "pubDate" : "Thu, 18 Nov 2021 14:50:00 +0100",
-         "title" : "European Team Championships - Live!"
-      },
-      {
          "description" : "After World War II, Edith Keller-Herrmann, who was born on 17 November 1921 in Dresden, Germany, was one of the best women's players in the world. She played for the German Democratic Republic and won several team and individual gold medals at Chess Olympiads. On 17 November Edith Keller-Herrmann would have celebrated her 100th birthday. | Photo: Edith Keller-Herrmann, Paul-Werner Wagner, Lothar Schmid (German Chess Federation)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,14 +136,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/new-fide-arbiter-congratulations-2/",
          "pubDate" : "Thu, 18 Nov 2021 08:58:19 +0000",
          "title" : "New FIDE arbiter - congratulations!"
-      },
-      {
-         "description" : "The Tata Steel Chess India Rapid and Blitz Tournament is taking place on November 17-21 in Kolkata. This time, 14 players are taking part. The lineup is spearheaded by Levon Aronian. Vishy Anand is present at the tournament as a mentor to the young talents. | Follow the action live with expert commentary starting at 9.30 CET (3.30 ET, 14.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2021-live",
-         "pubDate" : "Thu, 18 Nov 2021 09:25:00 +0100",
-         "title" : "Tata Steel India Rapid - Live!"
       },
       {
          "description" : "With the World Championship match in Dubai scheduled to kick off a bit over a week from now, we get ready for the showdown between Magnus Carlsen and Ian Nepomniachtchi by recapping the four previous matches, which were all won by Carlsen. In the first instalment, we recount what went on in Chennai in 2013, where a 22-year-old Carlsen got a commanding victory over local hero Vishy Anand. | Photo: Anastasiya Karlovich",
@@ -2096,14 +2112,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/trick-or-treat/",
          "pubDate" : "Fri, 29 Oct 2021 10:04:17 +0000",
          "title" : "Trick or Treat?"
-      },
-      {
-         "description" : " Scotland's Keti Arakhamia-Grant wins impressively in round one, while India's teenage trio shine at the Grand Swiss world qualifier David Howell is the only Englishman in the 108-player Covid-hit Grand Swiss at Riga, and the three-times British champion, 30, has made a promising 1.5/2 start in the world qualifier. It looked unlikely when he blundered early into a lost round two position on Thursday against Latvia's Arturs Neiksans, but Howell fought on and finally halved a marathon of 142 moves and eight hours. The game ended in a draw via the rare rule of 50 moves played without a capture or a pawn move. Howell is seeded only No 34, but will be harking back to the last Grand Swiss at Dougl",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/oct/29/chess-david-howell-draws-142-move-marathon-riga-using-rare-rule-grand-swiss",
-         "pubDate" : "Fri, 29 Oct 2021 07:00:22 +0000",
-         "title" : "Chess: David Howell draws 142-move marathon in Riga using rare rule"
       }
    ]
 }
