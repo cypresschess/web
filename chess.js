@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess India Rapid and Blitz Tournament is taking place on November 17-21 in Kolkata. This time, 14 players are taking part. The lineup is spearheaded by Levon Aronian. Vishy Anand is present at the tournament as a mentor to the young talents. Read the full report on Arjun&rsquo;s victory at the rapid section... | Follow the action live with expert commentary starting at 9.30 CET (3.30 ET, 14.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2021-live",
+         "pubDate" : "Sat, 20 Nov 2021 09:25:00 +0100",
+         "title" : "Tata Steel India Blitz - Live!"
+      },
+      {
+         "description" : "Arjun Erigaisi started hitting the next level at Goldmoney Asian Rapid this past summer when he ended Aronian's undefeated streak at the event. The healthy rivalry with Aronian began since then. The most anticipated match of the event between Aronian and Arjun did not disappoint. It delivered everything one can fathom - there was action, drama and high stakes in a high-tension match which showcased Arjun's another quality which the majority of the Indian youth possess: true grit. No matter how adverse things might get, one needs to have the courage to fight back, even if your opponent is the mighty, only two-time World Cup winner in the history of chess. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-age-of-arjun-erigaisi-begins-with-a-monumental-triumph-at-tata-steel-chess-india-2021-rapid",
+         "pubDate" : "Sat, 20 Nov 2021 09:01:00 +0100",
+         "title" : "The 'Age of Arjun Erigaisi' begins with a monumental triumph at Tata Steel Chess India 2021 Rapid"
+      },
+      {
+         "description" : "In the diagram position, 14...bxc3! looks dangerous - after 15.Rxc3 White threatens 16.Rxc8+, winning the queen on a5. But Black, World Championship challenger Ian Nepomniachtchi, had a cool surprise in store! Can you find it?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nepo-with-nerves-of-steel",
+         "pubDate" : "Sat, 20 Nov 2021 09:00:00 +0100",
+         "title" : "Nepo with nerves of steel"
+      },
+      {
+         "description" : "After seven played rounds at the European Team Chess Championship 2021 in Terme Catez, Slovenia, the Russian Women's team holds the sole lead, while Azerbaijan and Ukraine tie for the top of the Open section. With a convincing 3-1 victory over Azerbaijan, Russian Women improved their lead scoring the absolute 14 match points. Valentina Gunina was the first&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-r7-report/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-team-chess-championship-2021-r7-report/",
+         "pubDate" : "Sat, 20 Nov 2021 06:49:58 +0000",
+         "title" : "European Team Chess Championship 2021 - R7 Report"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The world championship challenger <strong>Ian Nepomniachtchi</strong> presents a Chessable course on no lesser opening than the King's Gambit. <em>Fernando Offermann</em> had a look. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/2lc5e.1920.jpeg\" title=\"\"This looks very, very scary for Black.\" Ian Nepomniachtchi visibly enjoyed himself while recording the course. \" data-title=\"\"This looks very, very scary for Black.\" Ian Nepomniachtchi visibly enjoyed himself while recording the course.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/2lc5e.480.jpeg\" alt=\"\"This lo",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/nepos-gambit/",
+         "pubDate" : "Sat, 20 Nov 2021 06:07:15 +0100",
+         "title" : "Nepo's Gambit"
+      },
+      {
          "description" : "Azerbaijan and Ukraine are sharing the lead after seven rounds in the open section of the European Team Championships. While Azerbaijan defeated the Netherlands on Friday, Ukraine inflicted Russia's first loss of the event. The best individual performer in Slovenia, Alireza Firouzja, scored his sixth win of the tournament and is now 1.1 Elo points away from reaching the 2800 rating barrier. In the women's section, the defending champions of Russia still have a perfect score. | Photos: ECU Press",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +80,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/world-championship-branding-revealed/",
          "pubDate" : "Fri, 19 Nov 2021 22:07:41 +0100",
          "title" : "World championship branding revealed"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The world championship challenger <strong>Ian Nepomniachtchi</strong> presents a Chessable course on no lesser opening than the King's Gambit. <em>Fernando Offermann</em> had a look. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/2lc5e.1920.jpeg\" title=\"\"This looks very, very scary for Black.\" Ian Nepomniachtchi visibly enjoyed himself while recording the course. \" data-title=\"\"This looks very, very scary for Black.\" Ian Nepomniachtchi visibly enjoyed himself while recording the course.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/2lc5e.480.jpeg\" alt=\"\"This lo",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/nepos-gambit/",
-         "pubDate" : "Fri, 19 Nov 2021 21:44:28 +0100",
-         "title" : "Nepo's Gambit"
       },
       {
          "description" : "",
@@ -152,14 +184,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/staffordshire-chess-association-sports-personality-of-the-year/",
          "pubDate" : "Fri, 19 Nov 2021 09:50:22 +0000",
          "title" : "Staffordshire Chess Association Sports Personality of the Year!"
-      },
-      {
-         "description" : "The Tata Steel Chess India Rapid and Blitz Tournament is taking place on November 17-21 in Kolkata. This time, 14 players are taking part. The lineup is spearheaded by Levon Aronian. Vishy Anand is present at the tournament as a mentor to the young talents. | Follow the action live with expert commentary starting at 9.30 CET (3.30 ET, 14.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2021-live",
-         "pubDate" : "Fri, 19 Nov 2021 09:25:00 +0100",
-         "title" : "Tata Steel India Rapid - Live!"
       },
       {
          "description" : " Norway's world champion is odds on to defeat his Russian challenger, but the fast rising 18-year-old Alireza Firouzja is poised to reach world No 2 this weekend Zero hour is approaching in Dubai. Magnus Carlsen and Ian Nepomniachtchi start their 14-game match for the world championship next week, with the opening ceremony on Wednesday and game one on Friday. A $2m prize fund, split 60-40, is at stake, plus the personal, business and national aspirations of the contenders. Carlsen can strengthen his claim to be the all-time greatest ahead of Garry Kasparov and Bobby Fischer, while Nepo (as he is usually called, and whose first name is pronounced Jan) can be the talisman who creates a new ver",
@@ -2058,6 +2082,14 @@ news_feed (
          "title" : "FIDE Chess.com Grand Swiss: Round 4 Recap"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87406290.cms\" />A week after taking the first step towards becoming India's latest Grandmaster (GM), Sankalp Gupta gave an improved performance in his second successive attempt at Serbia. Sankalp, 18, city's third International Master (IM), cleared his second GM norm on Saturday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sankalp-seals-second-gm-norm-all-set-to-become-indias-latest-grandmaster-in-serbia/articleshow/87406290.cms",
+         "pubDate" : "Sat, 30 Oct 2021 22:54:11 +0530",
+         "title" : "Sankalp seals second GM norm, all set to become India's latest GM"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87406107.cms\" />Indian Grandmaster P Iniyan on Saturday emerged winner in the 5th Rujna Zora chess tournament held with seven points from nine rounds.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2088,30 +2120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/study-of-the-month-frankenstein-and-monsters",
          "pubDate" : "Sat, 30 Oct 2021 10:00:00 +0100",
          "title" : "Study of the Month: Frankenstein and Monsters"
-      },
-      {
-         "description" : "Mind sports play a vibrant role in the lives of many geniuses and, of the various mind sports, chess is the king. It is the one practised most widely and has the most well-documented and carefully written theory to back it up. A number of the recognised great minds have rated chess highly. Goethe called the game the touchstone of the intellect\". Haroun Al-Raschid, the Abbasyd Caliph of Islam (786-809 AD), the man idealised in the Arabian Nights, was the first of his dynasty to play chess. The 11th-century Byzantine Emperor, Alexius Comnenus, was allegedly playing chess when surprised by a murderous conspiracy, which being a good chess player he managed to escape! The Aladdin of the fairy tal",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/distance-and-discovery-as-suli-columbus-and-chess/",
-         "pubDate" : "Sat, 30 Oct 2021 08:00:31 +0000",
-         "title" : "Distance and discovery: As-Suli, Columbus and chess"
-      },
-      {
-         "description" : "In the diagram position, Black's king is only protected by pawns and - not a single minor piece supports its monarch. Which is kind of an invitation for White - or isn't it? Your move!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/my-memorable-game",
-         "pubDate" : "Sat, 30 Oct 2021 09:00:00 +0100",
-         "title" : "\"My memorable game\""
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87388030.cms\" />India's Dronavalli Harika defeated former world champion Antoaneta Stefanova of Bulgaria in the third round of the FIDE Grand Swiss chess tournament here to grab a share of the lead.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-chess-tournament-dronavalli-harika-beats-antoaneta-stefanova/articleshow/87388030.cms",
-         "pubDate" : "Sat, 30 Oct 2021 11:30:40 +0530",
-         "title" : "FIDE Grand Swiss chess tournament: Harika beats Stefanova"
       }
    ]
 }
