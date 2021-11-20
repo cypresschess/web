@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vishy Anand described Arjun Erigaisi's calculation as \"simply superlative\" as the 18-year-old Indian star escaped with a draw against Levon Aronian and won the Tata Steel Chess India Rapid by a full point. Arjun revealed afterwards that he's been working with Fabiano Caruana's long-term coach Rustam Kasimdzhanov. Overall it was a nervous last day, with Levon spoiling a winning position in that game, and against Vaishali, while Praggnanandhaa and Vidit also failed to fire on all cylinders as they tied for 2nd place.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/arjun-erigaisi-wins-tata-steel-chess-india-rapid",
+         "pubDate" : "Fri, 19 Nov 2021 21:56:11 +0000",
+         "title" : "Arjun Erigaisi wins Tata Steel Chess India Rapid"
+      },
+      {
+         "description" : " After quite a long wait from the first announcements until now, I finally purchased a copy of 'Humankind', which is Civilization type game that lets you develop societies from hunter gatherers to rocket scientists. I had a first play last night (which is why this post is late!) and found it enjoyable (even on my creaky old PC). Didn't do fantastically well on my first run, but I assume that is because I missed a lot of nuances in play (too many cities too quickly get penalised, for example). But like CIV VI (and Chess), the early days are usually quite difficult before the right ides and strategies become apparent. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/11/humankind.html",
+         "pubDate" : "Fri, 19 Nov 2021 21:32:00 +0000",
+         "title" : "Humankind"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> hired the Spanish branding agency <strong>Morillas</strong> to create the branding for the <strong>World Championship</strong> that is opening next Wednesday and has its first game on Friday. See more on the <a href=\"https://fideworldchampionship.com/\">official website</a>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/branding-dubai.1920.jpeg\" title=\"By Morillas, Barcelona \" data-title=\"By Morillas, Barcelona\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/branding-dubai.480.jpeg\" alt=\"By Morillas, Barcelona\" srcset=\"https://www.chesstech.",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/world-championship-branding-revealed/",
+         "pubDate" : "Fri, 19 Nov 2021 22:07:41 +0100",
+         "title" : "World championship branding revealed"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The world championship challenger <strong>Ian Nepomniachtchi</strong> presents a Chessable course on no lesser opening than the King's Gambit. <em>Fernando Offermann</em> had a look. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/2lc5e.1920.jpeg\" title=\"\"This looks very, very scary for Black.\" Ian Nepomniachtchi visibly enjoyed himself while recording the course. \" data-title=\"\"This looks very, very scary for Black.\" Ian Nepomniachtchi visibly enjoyed himself while recording the course.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/2lc5e.480.jpeg\" alt=\"\"This lo",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/nepos-gambit/",
+         "pubDate" : "Fri, 19 Nov 2021 21:44:28 +0100",
+         "title" : "Nepo's Gambit"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1439",
+         "pubDate" : "Fri, 19 Nov 2021 20:28:51 +0000",
+         "title" : "FIDE World Championship Dubai 2021: branding and design"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1440",
+         "pubDate" : "Fri, 19 Nov 2021 19:21:04 +0000",
+         "title" : "Mark Plotkin wins Banff Open 2021"
+      },
+      {
          "description" : "In this week's show, GM Daniel King looks at interesting positions from the European Team Championship but the main dish of the day is a creative attacking display from Alexei Shirov who once again shows the power of a sustained intiative. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -330,28 +378,12 @@ news_feed (
          "title" : "PMG emphasizes E-sport leadership"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> At its General Assembly at Terme Čatež in Slovenia, the <strong>ECU</strong> <a href=\"https://www.europechess.org/ecu-board-meeting-general-assembly-press-release/\">announced plans</a> for a <strong>European Cities and Towns Chess Championship 2022</strong> to be probably held in hybrid. The <strong>2023 European Individual Championship</strong> was awarded to Moscow and the <strong>2023 European Team Championship</strong> to Montenegro. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/ecu-plans-cities-cup/",
-         "pubDate" : "Wed, 17 Nov 2021 09:51:04 +0100",
-         "title" : "ECU plans cities cup"
-      },
-      {
          "description" : "18-year-old Alireza Firouzja has overtaken Fabiano Caruana to become world no. 3 on the live rating list after winning brilliant games in Rounds 4 and 5 of the European Team Championship to climb to 2793.3. His team France has suffered with two losses, but no team is setting the Open event on fire, with a six-way tie for 1st place on 8/10 points. In the Women's section Russia are cruising with a perfect 10/10 after defeating their biggest rivals Georgia.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/etcc-4-5-firouzja-storms-to-world-no-3",
          "pubDate" : "Wed, 17 Nov 2021 08:42:37 +0000",
          "title" : "ETCC 4-5: Firouzja storms to world no. 3"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> More than 150 upgraded features and a new layout will be <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc7htSLpYQvBAM1iJWdnpzED2m2SemdUs8uooLeGY9E845RSw/viewform\">presented this Saturday</a> by the online and hybrid tournament platform <strong>Tornelo</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/tornelo-sneak-preview/",
-         "pubDate" : "Wed, 17 Nov 2021 09:41:46 +0100",
-         "title" : "Tornelo sneak preview"
       },
       {
          "description" : "After five played rounds at the European Team Chess Championship 2021 in Terme Catez, Slovenia, six teams of the Open section and the Russian Women's team go to the resting day heading the crosstables. The top two matches of the European Team Chess Championship 2021 ended in a draw 2-2 result. All four games of the Azerbaijan &hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-r5-report/\">Read More &#187;</a></span>",
@@ -1682,14 +1714,6 @@ news_feed (
          "title" : "Game of the Week 488: D. Dubov vs I. Saric"
       },
       {
-         "description" : "World Chess Championship Challenger Ian Nepomniachtchi once played Dota 2 at a near professional level, but before the prize funds went crazy. The Russian team Team Spirit just won $18.2 million for winning The International Dota 2 Championship, which provides the starting point for a discussion of the €2 million Chess World Championship match in a recent interview with Match TV. Ian talks about his preparation for facing Magnus Carlsen, losing 10 kilograms, the length of the match and the conditions in Dubai.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ian-nepomniachtchi-the-result-is-much-more-important-than-the-prize",
-         "pubDate" : "Wed, 03 Nov 2021 16:50:38 +0000",
-         "title" : "Ian Nepomniachtchi: \"The result is much more important than the prize\""
-      },
-      {
          "description" : " The Algorand Online Series ended on October 24 on the FIDE Online Arena. Check out the interview with the winner of the Series. Before heading off to Dubai to watch the World Chess Championship, Indian grandmaster Abhijeet Gupta chatted with GM Evgeny Miroshnichenko about his chess habits, his professional path and his advice for aspiring chess players. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/t61atNfqkcg?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2096,22 +2120,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-chess-tournament-dronavalli-harika-beats-antoaneta-stefanova/articleshow/87388030.cms",
          "pubDate" : "Sat, 30 Oct 2021 11:30:40 +0530",
          "title" : "FIDE Grand Swiss chess tournament: Harika beats Stefanova"
-      },
-      {
-         "description" : "For the first time in the 2021 FIDE Chess.com Grand Swiss a sole leader has emerged in either section, as Alireza Firouzja is the only player to have kicked off the event with three straight victories. The 18-year-old beat Alexandr Predke with the white pieces on Friday. In the women's section, nine players are sharing first place on 2&frac12;/3 points. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r3",
-         "pubDate" : "Sat, 30 Oct 2021 00:15:00 +0100",
-         "title" : "Grand Swiss: Firouzja scores third straight win"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1404",
-         "pubDate" : "Fri, 29 Oct 2021 20:57:26 +0000",
-         "title" : "FIDE Chess.com Grand Swiss: Round 3 Recap"
       }
    ]
 }
