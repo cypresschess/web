@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Azerbaijan and Ukraine are sharing the lead after seven rounds in the open section of the European Team Championships. While Azerbaijan defeated the Netherlands on Friday, Ukraine inflicted Russia's first loss of the event. The best individual performer in Slovenia, Alireza Firouzja, scored his sixth win of the tournament and is now 1.1 Elo points away from reaching the 2800 rating barrier. In the women's section, the defending champions of Russia still have a perfect score. | Photos: ECU Press",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2021-r7",
+         "pubDate" : "Sat, 20 Nov 2021 02:00:00 +0100",
+         "title" : "Euro Teams: Ukraine beat Russia, Firouzja wins again"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko begins his series on the Scotch Game or Scotch Opening. See the deviations beginning on Black&#039;s third move. It&#039;s 1.e4 e5 2.Nf3 Nc6 3.d4. Originally on Twitch. 2021.09.13<br /> C44 Scotch opening<br /> Napoleon Bonaparte vs Henri Gatien Bertrand, St. Helena (1820): C44 Scotch, Lolli variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1250609Foi\">https://www.chessgames.com/perl/chessgame?gid=1250609Foi</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fie",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shot-scotch-1-third-move-sidelines-chess-openings-explained",
+         "pubDate" : "Sat, 20 Nov 2021 00:55:01 +0000",
+         "title" : "A Shot of Scotch #1: Third Move Sidelines | Chess Openings Explained"
+      },
+      {
          "description" : "Vishy Anand described Arjun Erigaisi's calculation as \"simply superlative\" as the 18-year-old Indian star escaped with a draw against Levon Aronian and won the Tata Steel Chess India Rapid by a full point. Arjun revealed afterwards that he's been working with Fabiano Caruana's long-term coach Rustam Kasimdzhanov. Overall it was a nervous last day, with Levon spoiling a winning position in that game, and against Vaishali, while Praggnanandhaa and Vidit also failed to fire on all cylinders as they tied for 2nd place.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -112,14 +128,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-two/",
          "pubDate" : "Fri, 19 Nov 2021 13:57:23 +0000",
          "title" : "A Foundation for Beginners Forty Two"
-      },
-      {
-         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. Read the full report on round 6... | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
-         "pubDate" : "Fri, 19 Nov 2021 14:50:00 +0100",
-         "title" : "European Team Championships - Live!"
       },
       {
          "description" : " <p class=\"lead\">The World Chess Championship match is just 7 days away, with the reigning World Champion, Magnus Carlsen, facing Russian's No.1 and 2021 Challenger, Ian Nepomniachtchi, at the Dubai Exhibition Centre. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/N_R07312-min.jpg\" width=\"2560\" height=\"1651\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> Recently, Nepomniachtchi and Carlsen have been interviewed about their preparation and the three-time World Champion was all about thanking his team and friends. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/6ACWlgIzwcs?enablejsapi=1\" allow=\"autoplay\" frameborder=",
@@ -1064,14 +1072,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-october-2021/",
          "pubDate" : "Wed, 10 Nov 2021 08:57:21 +0000",
          "title" : "ECU E-MAGAZINE OCTOBER 2021"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at Alireza Firouzja's games from the FIDE Grand Swiss Tournament 2021, where two spots in the next Candidates Tournament were at stake. The mysterious masked Caleb plays Firouzja's hits over Caruana and Howell from the event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzjas-fiyah-wins-fide-grand-swiss-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzjas-fiyah-wins-fide-grand-swiss-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 10 Nov 2021 03:44:54 +0000",
-         "title" : "This Firouzja's on FIYAH! Wins FIDE Grand Swiss | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : " From the publisher: \"Pawns are the soul of chess.\" We have all heard this phrase more than once in our chess life and we owe it to the great French player François-Andr&eacute; Danican, so-called Philidor, considered one of the best chess players of the 18th century. It's not surprising that with this way of thinking, <a href=\"http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Philidor Defense</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/\">The Modernized Philidor Defense</a> appea",
@@ -2056,14 +2056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1406",
          "pubDate" : "Sat, 30 Oct 2021 21:16:36 +0000",
          "title" : "FIDE Chess.com Grand Swiss: Round 4 Recap"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87406290.cms\" />A week after taking the first step towards becoming India's latest Grandmaster (GM), Sankalp Gupta gave an improved performance in his second successive attempt at Serbia. Sankalp, 18, city's third International Master (IM), cleared his second GM norm on Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sankalp-seals-second-gm-norm-all-set-to-become-indias-latest-grandmaster-in-serbia/articleshow/87406290.cms",
-         "pubDate" : "Sat, 30 Oct 2021 22:54:11 +0530",
-         "title" : "Sankalp seals second GM norm, all set to become India's latest GM"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87406107.cms\" />Indian Grandmaster P Iniyan on Saturday emerged winner in the 5th Rujna Zora chess tournament held with seven points from nine rounds.",
