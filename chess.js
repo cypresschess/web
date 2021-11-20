@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87822112.cms\" />It was a little surprising that Arjun Erigaisi did not feature in the initial list of players for the blitz section of the Kolkata rapid and blitz meet after his super show at the Lindores Abbey Blitz tournament in the Latvian capital of Riga earlier this month.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-leads-in-kolkata-blitz-event-too/articleshow/87822112.cms",
+         "pubDate" : "Sat, 20 Nov 2021 21:43:45 +0530",
+         "title" : "Arjun Erigaisi leads in Kolkata blitz event too"
+      },
+      {
+         "description" : "Round 1 The blitz segment of the Tata Steel Chess India 2021 promised to be an exciting event with India No. 2 in Women's, Harika",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/tata-steel-chess-india-arjun-erigaisi-in-the-leading-position-at-the-end-of-1st-day-of-blitz/",
+         "pubDate" : "Sat, 20 Nov 2021 14:47:50 +0000",
+         "title" : "Tata Steel Chess India : Arjun Erigaisi in the leading position at the end of 1st day of Blitz"
+      },
+      {
+         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. Read the full report on round 7... | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
+         "pubDate" : "Sat, 20 Nov 2021 14:50:00 +0100",
+         "title" : "European Team Championships - Live!"
+      },
+      {
          "description" : "18-year-old Alireza Firouzja's reign of terror against 2600 players continued as he beat Dimitrios Mastrovasilis and Baadur Jobava to reach a stunning 6.5/7 and climb to 2798.9 on the live rating list. If he didn't play again he'd overtake Ding Liren as world no. 2, but his sights will be set on crossing 2800 at a younger age than Magnus Carlsen. Firouzja's France now face Russia, whose first loss of a game, Kirill Alekseenko's loss to Kirill Shevchenko of Ukraine, cost them a match defeat. Azerbaijan joined Ukraine in the lead with two rounds to go.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1240,14 +1264,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/once-knight-always-knight-five-time.html",
          "pubDate" : "Tue, 09 Nov 2021 07:04:00 +0000",
          "title" : "Once a knight, always a knight. Five time a night ...."
-      },
-      {
-         "description" : "Kolkata based International Master Mitrabha Guha becomes the 72nd Grandmaster of the country after completing the requirement by securing his third and final GM norm",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-mitrabha-guha-72nd-grandmaster-of-india/",
-         "pubDate" : "Tue, 09 Nov 2021 06:48:39 +0000",
-         "title" : "Congratulations Mitrabha Guha : 72nd Grandmaster of India"
       },
       {
          "description" : "In a thrilling opening match of the 2021 Speed Chess Championship Main Event, GM Anish Giri defeated GM Jan-Krzysztof Duda with a final score of 14-12. The next match, between GMs Shakhriyar Mamedyarov and Ding Liren, starts on Tuesday, November 9...",
