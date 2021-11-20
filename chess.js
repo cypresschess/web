@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "18-year-old Alireza Firouzja's reign of terror against 2600 players continued as he beat Dimitrios Mastrovasilis and Baadur Jobava to reach a stunning 6.5/7 and climb to 2798.9 on the live rating list. If he didn't play again he'd overtake Ding Liren as world no. 2, but his sights will be set on crossing 2800 at a younger age than Magnus Carlsen. Firouzja's France now face Russia, whose first loss of a game, Kirill Alekseenko's loss to Kirill Shevchenko of Ukraine, cost them a match defeat. Azerbaijan joined Ukraine in the lead with two rounds to go.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/etcc-6-7-firouzja-hits-6-5-7-russia-stumble",
+         "pubDate" : "Sat, 20 Nov 2021 11:20:17 +0000",
+         "title" : "ETCC 6-7: Firouzja hits 6.5/7 | Russia stumble"
+      },
+      {
+         "description" : "&#8220;They all laughed at Christopher Columbus, when he said the world was round. They all laughed when Edison recorded sound.&#8221; -George and Ira Gershwin \"When a true genius appears in the world, you may know him by this sign, that the dunces are all in confederacy against him.\" -Jonathan Swift, Thoughts on Various Subjects, Moral and Diverting []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-physicists/",
+         "pubDate" : "Sat, 20 Nov 2021 10:45:26 +0000",
+         "title" : "The Physicists "
+      },
+      {
          "description" : "The Tata Steel Chess India Rapid and Blitz Tournament is taking place on November 17-21 in Kolkata. This time, 14 players are taking part. The lineup is spearheaded by Levon Aronian. Vishy Anand is present at the tournament as a mentor to the young talents. Read the full report on Arjun&rsquo;s victory at the rapid section... | Follow the action live with expert commentary starting at 9.30 CET (3.30 ET, 14.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1674,14 +1690,6 @@ news_feed (
          "title" : "Oxford vs Cambridge, rowing and chess"
       },
       {
-         "description" : "18-year-old Alireza Firouzja pounced on an endgame error by Evgeniy Najer to score the only win on the top 10 boards and regain the sole lead with just four rounds of the FIDE Chess.com Grand Swiss to go. The main action came among the players on 3.5 points, needing a win to get back in contention, as 12 of the 15 games were decisive, including Andrei Volokitin taking down Levon Aronian. In the women's event Lei Tingjie won again to reach 6/7, with only Elisabeth Paehtz within half a point after what she described as \"the tournament of my life\".",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/grand-swiss-7-firouzja-powers-towards-candidates",
-         "pubDate" : "Thu, 04 Nov 2021 10:31:52 +0000",
-         "title" : "Grand Swiss 7: Firouzja powers towards Candidates"
-      },
-      {
          "description" : "The Rubinstein Variation of the French Defence (1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4) often proves difficult for White to crack. Sure, you have a lot of space, but Black's position is very solid. After the main moves 4...Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6, White has so far mostly tried 7.c3 or 7.Bd3. In the new ChessBase Magazine #204 Martin Lorenzini presents a new idea with 7.Be3!? which could prove to be a worthwhile alternative to the well-known theoretical variations. Curious? Here's an excerpt of his article.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2096,30 +2104,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-p-iniyan-wins-chess-tournament-in-serbia/articleshow/87406107.cms",
          "pubDate" : "Sat, 30 Oct 2021 22:46:10 +0530",
          "title" : "Indian GM P Iniyan wins chess tournament in Serbia"
-      },
-      {
-         "description" : " Chess.com has an interesting article that looks at performances in some of the greatest tournaments in history. 12 events were chosen, starting with London 1851, and players estimated elo rating were calculated using the chess.com CAPS system. Of course the earlier events had reasonably low performances (due to a lack of accurate play), but once into the 20th century there were some players getting quite high estimates (eg Capablanca 2726 at St Petersburg 1914). One interesting feature was that tournament winner often did not have the highest estimated rating, with some like Averbakh having the top TPR of 2759 at the 1953 Candidates, despite finishing 10th, and Euwe having the 2nd highest, ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/10/crunching-numbers.html",
-         "pubDate" : "Sat, 30 Oct 2021 12:10:00 +0000",
-         "title" : "Crunching the numbers"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1405",
-         "pubDate" : "Sat, 30 Oct 2021 09:44:44 +0000",
-         "title" : "World Championship for People with Disabilities: Last call to register"
-      },
-      {
-         "description" : "Halloween is near - and inspired Siegfried Hornecker to search for compositions and studies that are suitable to this time of the year. After all, a good endgame study doesn't ask \"Trick or treat?\" but rather offers both. Enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-frankenstein-and-monsters",
-         "pubDate" : "Sat, 30 Oct 2021 10:00:00 +0100",
-         "title" : "Study of the Month: Frankenstein and Monsters"
       }
    ]
 }
