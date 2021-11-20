@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen is just days away from making the first move in his World Championship match against Ian Nepomniachtchi. In a new podcast interview hosted by his sponsor Unibet, the World Champion spoke openly about his relationship with his Russian opponent and the fact that he still considers Fabiano Caruana and Ding Liren to be tougher opponents. Magnus hinted he will try to push for an early lead.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-good-outcome-to-face-nepo-not-fabi-or-ding",
+         "pubDate" : "Sat, 20 Nov 2021 17:21:59 +0000",
+         "title" : "Carlsen: \"Good outcome\" to face Nepo not Fabi or Ding"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87822112.cms\" />It was a little surprising that Arjun Erigaisi did not feature in the initial list of players for the blitz section of the Kolkata rapid and blitz meet after his super show at the Lindores Abbey Blitz tournament in the Latvian capital of Riga earlier this month.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1674,14 +1682,6 @@ news_feed (
          "title" : "FIDE Chess.com Grand Swiss R8: Firouzja Increases Lead, Now World #4"
       },
       {
-         "description" : "Magnus Carlsen and his team spent two weeks last month preparing for the match against Ian Nepomniachtchi in a resort near Cadiz, Spain. During the stay at the Royal Hideaway Sancti Petri, the World Chess Champion gave an interview to the manager of the hotel, Ignacio Martin, where he talked about the training camp, The Queen's Gambit, his own first steps in chess and what advice he'd give to people just starting out in the game.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-i-m-hoping-this-time-there-will-be-fewer-draws",
-         "pubDate" : "Thu, 04 Nov 2021 16:11:07 +0000",
-         "title" : "Magnus Carlsen: \"I'm hoping this time there will be fewer draws\""
-      },
-      {
          "description" : "GM Ian Nepomniachtchi will be the challenger for the 2021 FIDE World Championship Match which begins on November 24. Chess.com is his official chess sponsor, and we were able to catch up with him for this interview. You can watch the video below...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2104,22 +2104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1406",
          "pubDate" : "Sat, 30 Oct 2021 21:16:36 +0000",
          "title" : "FIDE Chess.com Grand Swiss: Round 4 Recap"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87406290.cms\" />A week after taking the first step towards becoming India's latest Grandmaster (GM), Sankalp Gupta gave an improved performance in his second successive attempt at Serbia. Sankalp, 18, city's third International Master (IM), cleared his second GM norm on Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sankalp-seals-second-gm-norm-all-set-to-become-indias-latest-grandmaster-in-serbia/articleshow/87406290.cms",
-         "pubDate" : "Sat, 30 Oct 2021 22:54:11 +0530",
-         "title" : "Sankalp seals second GM norm, all set to become India's latest GM"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87406107.cms\" />Indian Grandmaster P Iniyan on Saturday emerged winner in the 5th Rujna Zora chess tournament held with seven points from nine rounds.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-p-iniyan-wins-chess-tournament-in-serbia/articleshow/87406107.cms",
-         "pubDate" : "Sat, 30 Oct 2021 22:46:10 +0530",
-         "title" : "Indian GM P Iniyan wins chess tournament in Serbia"
       }
    ]
 }
