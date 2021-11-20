@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2021-11-19","30","<a href=http://www.uschess.org/msa/XtblMain.php?202111197432 target=' blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2021-11-19","16","<a href=http://www.uschess.org/msa/XtblMain.php?202111197382 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-11-13  - 11-14","26","<a href=http://www.uschess.org/msa/XtblMain.php?202111145652 target=' blank'>HOUSTON $1,000 TURKEY SHOOT</a>",
 "SPRING","2021-11-12","17","<a href=http://www.uschess.org/msa/XtblMain.php?202111123662 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2021-11-12","8","<a href=http://www.uschess.org/msa/XtblMain.php?202111123622 target=' blank'>FBCC 2021 NOVEMBER JOY OPEN</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2020-11-20","20","<a href=http://www.uschess.org/msa/XtblMain.php?202011201772 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "LEAGUE CITY","2020-11-14  - 11-15","733","<a href=http://www.uschess.org/msa/XtblMain.php?202011154722 target=' blank'>TEXAS STATE CHESSKID ONLINE SCHOLAS</a>",
 "SPRING","2020-11-13","21","<a href=http://www.uschess.org/msa/XtblMain.php?202011139912 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"SPRING","2020-11-06","18","<a href=http://www.uschess.org/msa/XtblMain.php?202011068392 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"KATY","2020-10-31","15","<a href=http://www.uschess.org/msa/XtblMain.php?202010313412 target=' blank'>SR CHESSKNIGHTS 10312020</a>",
 ]);
