@@ -2088,22 +2088,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-r4",
          "pubDate" : "Sun, 31 Oct 2021 10:20:00 +0100",
          "title" : "Grand Swiss: Lei Tingjie takes the lead in the women's section"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87422981.cms\" />Indian Grandmaster P Harikrishna continued his recovery from a poor start by notching up his second straight win to move to 2.5 points after four rounds in the FIDE Grand Swiss chess tournament here.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-chess-tournament-p-harikrishna-posts-win-d-harika-held-to-draw-in-round-4/articleshow/87422981.cms",
-         "pubDate" : "Sun, 31 Oct 2021 13:15:42 +0530",
-         "title" : "FIDE Grand Swiss: Harikrishna posts win, Harika held to draw in round 4"
-      },
-      {
-         "description" : " <p class=\"lead\">There are 109 players in FIDE Grand Swiss, a large 11-round tournament that recently became a part of the World Chess Championship cycle, but after four rounds, all eyes are on Alireza Firouzja. The 18-year old prodigy is dominating the field with 3.5 points (one point for a win and 0.5 for a draw) and, if advantage holds, will be on a clear path to the World Chess Championship match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/C04CCB84-FC7B-4C89-B296-E9F1EAF33271.jpeg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Alireza Firouzja in Riga. Photo by Mark Livshitz <a href=\"https://www.flickr.com/photos/fide/51637733132/\">FI",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/in-riga-everyone-is-watching-alireza-firouzja-becoming-the-next/",
-         "pubDate" : "Sun, 31 Oct 2021 07:40:04 +0000",
-         "title" : "In Riga, Everyone Is Watching Firouzja Becoming the Next World Champion, Maybe"
       }
    ]
 }
