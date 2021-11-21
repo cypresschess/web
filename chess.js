@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Team Chess Championship 2021 successfully concluded today in Terme Catez, Slovenia. European Women's Team Chess Championship 2021 Winner and the runner-up were known before the last round of the event as Russia won the event with a round the spare, while Georgia secured second place. The final round decided only the bronze medalists. Russia defeated the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ukraine-open-and-russia-women-win-european-team-chess-championships-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ukraine-open-and-russia-women-win-european-team-chess-championships-2021/",
+         "pubDate" : "Sun, 21 Nov 2021 22:02:34 +0000",
+         "title" : "Ukraine (Open) and Russia (Women) win European Team Chess Championships 2021"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Alireza Firouzja</strong> reached a 3015 rating perfomance at the top board of the <strong>European Team Championship</strong> in Terme Čatež, Slovenia. Arguably the second best performance in history after Caruana's 3080 in St. Louis in 2014 makes Firouzja at 18 years, 5 months, and 13 days the youngest player ever over 2800 and the <a href=\"https://www.2700chess.com/\">new number two in the world</a>. It was still not enough to give France the gold medal, <a href=\"http://chess-results.com/tnr583987.aspx?lan=0&amp;art=0&amp;turdet=YES&amp;flag=30\">that went to Ukraine</a>. Bronze was claimed by Poland. Russia dominated the <a href=\"http://",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/firouzja-breaks-record-but-ukraine/",
+         "pubDate" : "Sun, 21 Nov 2021 21:30:56 +0100",
+         "title" : "Firouzja breaks record, but Ukraine takes gold"
+      },
+      {
          "description" : "Schedule &#38; Regulation National Arbiter (NA) Seminar The National Arbiter seminar is a training session for Arbiters of National level (NA) . NA Seminar Duration",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/national-arbiters-training/",
          "pubDate" : "Sun, 21 Nov 2021 19:17:45 +0000",
          "title" : "National Arbiters Training"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Alireza Firouzja</strong> reached a 3009 rating perfomance at the top board of the <strong>European Team Championship</strong> in Terme Čatež, Slovenia. Arguably the second best performance in history after Caruana's 3080 in St. Louis in 2014 makes Firouzja at 18 years, 5 months, and 13 days the youngest player ever over 2800 and the <a href=\"https://www.2700chess.com/\">new number two in the world</a>. It was still not enough to give France the gold medal, <a href=\"http://chess-results.com/tnr583987.aspx?lan=0&amp;art=0&amp;turdet=YES&amp;flag=30\">that went to Ukraine</a>. Bronze was claimed by Poland. Russia dominated the <a href=\"http://",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/firouzja-breaks-record-but-ukraine/",
-         "pubDate" : "Sun, 21 Nov 2021 19:55:20 +0100",
-         "title" : "Firouzja breaks record, but Ukraine takes gold"
       },
       {
          "description" : "While there are currently over a thousand grandmasters in the world, only 14 players in history had crossed the 2800-rating barrier. GM Alireza Firouzja is the most recent addition to the 2800-club after scoring a sensational 8/9 at the European T...",
@@ -66,6 +74,22 @@ news_feed (
          "title" : "FIDE World Championship Dubai 2021: 10 facts about opponents"
       },
       {
+         "description" : " The Tata Steel India Rapid & Blitz took place Wed 17th Nov to Sun 21st Nov 2021 in Kolkata, India. 6 players were to compete in both events: Aronian, Vidit, Shankland, Maghsoodloo, Liem and Adhiban but the latter was replaced by Erigaisi for the blitz. 7 players played just one of the two events, Karthikeyan, Vaishali and Praggnanandhaa in the rapid and Harika, Nihal Sarin, Gukesh and Sadhwani complete the blitz field. The event was shockingly dominated by Arjun Erigaisi who won the rapid and only lost out on winning the blitz after a draw tie-break and a loss in a final Armageddon game to Levon Aronian. Although Erigaisi did finish 3rd in the Lindores Abbey Tal Memorial blitz earlier this ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-2021",
+         "pubDate" : "Sun, 21 Nov 2021 20:58:00 +0400",
+         "title" : "Tata Steel India Rapid & Blitz 2021 - Games and Results"
+      },
+      {
+         "description" : " The 23rd European Team Chess Championship took place in Catez, Slovenia 12th to 21st November 2021. Open and women's competitions. Giri, Grischuk, Firouzja, MVL, Mamedyarov, Rajdabov, Duda, Adams, Dubov, Esipenko were among the leading players, Russia followed by Azerbaijan were the top seeds. The event was won by Ukraine on tie-break from France with Poland finishing second and top seeds Russia finishing 6th. The event will surely be remembered more for Alireza Firouzja's 8/9 score undefeated which has taken him over 2800 and to number 2 in the World. The women's event was dominated by Russia who won all their matches, Georgia were second and Azerbaijan third.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/23rd-european-team-chess-championship-2021",
+         "pubDate" : "Sun, 21 Nov 2021 20:50:00 +0400",
+         "title" : "23rd European Team Chess Championship 2021 - "
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87835583.cms\" />In a tournament where the Indian youngsters were running riot, Levon Aronian showed class always prevails as he clinched the blitz section of the Kolkata rapid and blitz meet at the National Library on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -90,11 +114,11 @@ news_feed (
          "title" : "Levon Aronian Wins Tata Steel Chess India Blitz Category"
       },
       {
-         "description" : "After a nail-biting finish that went all the way to armageddon, GM Levon Aronian won the Tata Steel Chess India blitz tournament on Sunday. The playoff was necessary after he had finished in a tie with GM Arjun Erigaisi, who impressed once again a...",
+         "description" : "After a nail-biting finish that went all the way to armageddon, GM Levon Aronian won the Tata Steel Chess India blitz tournament on Sunday. The playoff was necessary after he had finished in a tie with GM Arjun Erigaisi, who impressed once again b...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/aronian-wins-2021-tata-steel-india-blitz",
-         "pubDate" : "Sun, 21 Nov 2021 07:15:02 -0800",
+         "pubDate" : "Sun, 21 Nov 2021 07:15:00 -0800",
          "title" : "Aronian Beats Erigaisi In Armageddon To Clinch Tata Steel India Blitz"
       },
       {
@@ -618,14 +642,6 @@ news_feed (
          "title" : "European Team Chess Championship 2021 - R5 report"
       },
       {
-         "description" : " The Tata Steel India Rapid & Blitz takes place Wed 17th Nov to Sun 21st Nov 2021 in Kolkata, India. 6 players compete in both events: Aronian, Vidit, Shankland, Maghsoodloo, Liem and Adhiban. 8 players will play just one of the two events, Karthikeyan, Erigaisi, Vaishali and Praggnanandhaa in the rapid and Harika, Nihal Sarin, Gukesh and Sadhwani complete the blitz field.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-2021",
-         "pubDate" : "Wed, 17 Nov 2021 10:37:00 +0400",
-         "title" : "Tata Steel India Rapid & Blitz 2021 - Games and Results"
-      },
-      {
          "description" : "Going into the rest day at the European Team Championships, six nations are sharing the lead on 8/10 match points in the open section, with the Netherlands, Ukraine and Armenia the latest to join the leading pack. Meanwhile, in the women's section, Russia now have a 2-point lead over Georgia and an over-performing Greek team. | Photos: ECU Press",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1106,14 +1122,6 @@ news_feed (
          "title" : "International online conference \"Chess in Education\" planned for November 20-21"
       },
       {
-         "description" : " The 23rd European Team Chess Championship takes place in Catez, Slovenia 12th to 21st November 2021. Open and women's competitions. Giri, Grischuk, Firouzja, MVL, Mamedyarov, Rajdabov, Duda, Adams, Dubov, Esipenko are among the leading players, Russia followed by Azerbaijan are the top seeds.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/23rd-european-team-chess-championship-2021",
-         "pubDate" : "Thu, 11 Nov 2021 20:56:00 +0400",
-         "title" : "23rd European Team Chess Championship 2021 - "
-      },
-      {
          "description" : "The World Rapid and Blitz Championships, one of the most awaited events in the calendar for chess fans, will take place on its traditional dates: December 25-30, 2021. The tournaments will be hosted by the Kazakhstan Chess Federation and will be played in Nur-Sultan, the capital of the country (formerly known as Astana). | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1256,14 +1264,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-schools-online-championship/",
          "pubDate" : "Wed, 10 Nov 2021 09:37:59 +0000",
          "title" : "European Schools Online Championship"
-      },
-      {
-         "description" : "ECU E-Magazine October 2021 is out! In this edition of the ECU E-Magazine you may read about: European Youth&#38;Junior Hybrid Chess Championships 2021 FIDE Chess.com Grand Swiss 2021 ICCD European Deaf Chess Championships 2021 FIDE World Amateur Chess Championship 2021 Tournament of Peace 2021 Monaco Chess Championship 2021 Upcoming European Team Chess Championship 2021 Upcoming ECU Congress 2021&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-october-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-october-2021/",
-         "pubDate" : "Wed, 10 Nov 2021 08:57:21 +0000",
-         "title" : "ECU E-MAGAZINE OCTOBER 2021"
       },
       {
          "description" : " From the publisher: \"Pawns are the soul of chess.\" We have all heard this phrase more than once in our chess life and we owe it to the great French player François-Andr&eacute; Danican, so-called Philidor, considered one of the best chess players of the 18th century. It's not surprising that with this way of thinking, <a href=\"http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Philidor Defense</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/\">The Modernized Philidor Defense</a> appea",
@@ -2112,14 +2112,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/10/31/chicago-chess-legend-fm-albert-chow-dies/",
          "pubDate" : "Mon, 01 Nov 2021 00:07:29 +0000",
          "title" : "Chicago chess legend FM Albert Chow dies"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1408",
-         "pubDate" : "Sun, 31 Oct 2021 20:46:44 +0000",
-         "title" : "FIDE Chess.com Grand Swiss: Round 5 Recap"
       }
    ]
 }
