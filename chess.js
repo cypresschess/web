@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An eighth win in as many matches gave Russia tournament victory at the women's section of the European Team Championships with a round to spare. This is Russia's fourth consecutive title and the seventh in the last eight events. Meanwhile, in the open section, four teams go into the final round tied for first place - Armenia, France, Azerbaijan and Ukraine. | Photos: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2021-r8",
+         "pubDate" : "Sun, 21 Nov 2021 00:10:00 +0100",
+         "title" : "Euro Teams: Russian women grab title with a round to spare"
+      },
+      {
+         "description" : "Russian Women's Team convincingly won the 2021 European Team Chess Championship sparing the last round of the event. With a Round 8 victory against Ukraine, Russia scored impeccable 16 match points to be ahead of Georgia whose players secured a silver medal. After Kateryna Lagno defeated Osmak Iulia, two draws happened on the board 1 and 3 &hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/russia-wins-european-womens-team-chess-championship-2021-with-a-round-to-spare/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/russia-wins-european-womens-team-chess-championship-2021-with-a-round-to-spare/",
+         "pubDate" : "Sat, 20 Nov 2021 21:51:24 +0000",
+         "title" : "Russia wins European Women's Team Chess Championship 2021 with a round to spare"
+      },
+      {
          "description" : "Magnus Carlsen is just days away from making the first move in his World Championship match against Ian Nepomniachtchi. In a new podcast interview hosted by his sponsor Unibet, the World Champion spoke openly about his relationship with his Russian opponent and the fact that he still considers Fabiano Caruana and Ding Liren to be tougher opponents. Magnus hinted he will try to push for an early lead.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/carlsen-good-outcome-to-face-nepo-not-fabi-or-ding",
          "pubDate" : "Sat, 20 Nov 2021 17:21:59 +0000",
          "title" : "Carlsen: \"Good outcome\" to face Nepo not Fabi or Ding"
+      },
+      {
+         "description" : " The FIDE World Chess Championship takes place in Dubai, UAE, 24th November (opening ceremony - game 1 on 26th Nov) until 16th December. The match is between World Champion Magnus Carlsen and his Challenger Ian Nepomniachtchi. The match will be over 14 games rather than the recent 12 and uses an accelerated schedule to accommodate this - a final day of rapid and blitz tie-breaks will take place on 15th December in the event of a 7-7 tie. Nepomniachtchi will not compete under the Russian flag due to WADA sporting sanctions against Russia because of their state sponsored doping program. Both players were born in 1990 - Nepomniachtchi is the slightly older - born 14th July - Carlsen will have h",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021",
+         "pubDate" : "Sat, 20 Nov 2021 20:50:00 +0400",
+         "title" : "World Chess Championship 2021 - Games and Results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87822112.cms\" />It was a little surprising that Arjun Erigaisi did not feature in the initial list of players for the blitz section of the Kolkata rapid and blitz meet after his super show at the Lindores Abbey Blitz tournament in the Latvian capital of Riga earlier this month.",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://aicf.in/tata-steel-chess-india-arjun-erigaisi-in-the-leading-position-at-the-end-of-1st-day-of-blitz/",
          "pubDate" : "Sat, 20 Nov 2021 14:47:50 +0000",
          "title" : "Tata Steel Chess India : Arjun Erigaisi in the leading position at the end of 1st day of Blitz"
-      },
-      {
-         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. Read the full report on round 7... | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
-         "pubDate" : "Sat, 20 Nov 2021 14:50:00 +0100",
-         "title" : "European Team Championships - Live!"
       },
       {
          "description" : "18-year-old Alireza Firouzja's reign of terror against 2600 players continued as he beat Dimitrios Mastrovasilis and Baadur Jobava to reach a stunning 6.5/7 and climb to 2798.9 on the live rating list. If he didn't play again he'd overtake Ding Liren as world no. 2, but his sights will be set on crossing 2800 at a younger age than Magnus Carlsen. Firouzja's France now face Russia, whose first loss of a game, Kirill Alekseenko's loss to Kirill Shevchenko of Ukraine, cost them a match defeat. Azerbaijan joined Ukraine in the lead with two rounds to go.",
@@ -1322,14 +1338,6 @@ news_feed (
          "title" : "Firouzja wins Grand Swiss and qualifies for the 2022 Candidates Tournament"
       },
       {
-         "description" : "FIDE Chess.com Grand Swiss 2021 and FIDE Chess.com Women's Grand Swiss 2021 concluded yesterday in Riga, Latvia. 108 players participated in the Open tournament, and after 11 played rounds Firouzja Alireza (FRA, 2770) became the sole Winner of the event with score of 8 points. As a Winner of the event, Firouzja won 70.000$ prize and qualified for&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-chess-com-grand-swiss-2021-concluded/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-chess-com-grand-swiss-2021-concluded/",
-         "pubDate" : "Mon, 08 Nov 2021 10:42:53 +0000",
-         "title" : "FIDE Chess.com Grand Swiss 2021 concluded"
-      },
-      {
          "description" : "18-year-old Alireza Firouzja has won the FIDE Chess.com Grand Swiss, qualified for his 1st Candidates Tournament and taken home the top prize of $70,000 after drawing his last round game against Grigoriy Oparin. There were draws on the top 13 boards, as Fabiano Caruana claimed the 2nd spot in the Candidates, while Oparin, Yu, Keymer, MVL, Predke and Shirov qualified for the Grand Prix. In the women's event Elisabeth Paehtz took 2nd place behind Lei Tingjie on a day she also earned the grandmaster title.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2096,14 +2104,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/in-riga-everyone-is-watching-alireza-firouzja-becoming-the-next/",
          "pubDate" : "Sun, 31 Oct 2021 07:40:04 +0000",
          "title" : "In Riga, Everyone Is Watching Firouzja Becoming the Next World Champion, Maybe"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1406",
-         "pubDate" : "Sat, 30 Oct 2021 21:16:36 +0000",
-         "title" : "FIDE Chess.com Grand Swiss: Round 4 Recap"
       }
    ]
 }
