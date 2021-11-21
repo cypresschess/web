@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87835583.cms\" />In a tournament where the Indian youngsters were running riot, Levon Aronian showed class always prevails as he clinched the blitz section of the Kolkata rapid and blitz meet at the National Library on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/levon-aronian-pips-arjun-erigaisi-for-blitz-title/articleshow/87835583.cms",
+         "pubDate" : "Sun, 21 Nov 2021 21:54:32 +0530",
+         "title" : "Levon Aronian pips Arjun Erigaisi for blitz title"
+      },
+      {
+         "description" : "Sometimes watching a game of chess is inspiring - and instructive. A recent blitz game between two hot Indian talents will illustrate this. The second part of this game, which has an interesting underpomotion, was recorded, and commented on by IM Sagar Shah of ChessBase India. We have added a replay board on which you can analyse yourself. A most enjoyable way to improve your skill, don't you think?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/watch-and-learn",
+         "pubDate" : "Sun, 21 Nov 2021 17:00:00 +0100",
+         "title" : "Watch and learn"
+      },
+      {
+         "description" : "Tata Steel Chess India Levon Aronian Wins Tata Steel Chess India Blitz Category Arjun Erigaisi wins Tata Steel Chess India Rapid Category Blitz Day 2",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/levon-aronian-wins-tata-steel-chess-india-blitz-category/",
+         "pubDate" : "Sun, 21 Nov 2021 15:35:26 +0000",
+         "title" : "Levon Aronian Wins Tata Steel Chess India Blitz Category"
+      },
+      {
+         "description" : "After a nail-biting finish that went all the way to armageddon, GM Levon Aronian won the Tata Steel Chess India blitz tournament on Sunday. The playoff was necessary after he had finished in a tie with GM Arjun Erigaisi, who impressed once again a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aronian-wins-2021-tata-steel-india-blitz",
+         "pubDate" : "Sun, 21 Nov 2021 07:15:02 -0800",
+         "title" : "Aronian Beats Erigaisi In Armageddon To Clinch Tata Steel India Blitz"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Hundreds of spectators watched two days each of rapid and blitz at the <strong><a href=\"https://www.tatasteelchess.in/\">Tata Steel Chess India</a></strong> in the National Library in Kolkata. They saw the 18-year-old Indian <strong>Arjun Erigaisi</strong> winning the rapid and becoming second at blitz after he lost a close tie-breaker against <strong>Levon Aronian</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/erigaise-excelled-in-kolkata/",
+         "pubDate" : "Sun, 21 Nov 2021 14:50:43 +0100",
+         "title" : "Erigaisi excelled in Kolkata"
+      },
+      {
+         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. Read the full report on round 7... | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
+         "pubDate" : "Sun, 21 Nov 2021 14:50:00 +0100",
+         "title" : "European Team Championships - Live!"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 54th instalment of his ChessBase show \"Understanding before Moving\", Herman shows a fascinating study, in which White wins a position that on first glance seems to be impossible to win. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-54-pawn-vs-knight",
+         "pubDate" : "Sun, 21 Nov 2021 14:30:00 +0100",
+         "title" : "Understanding before Moving 54: Pawn vs knight"
+      },
+      {
          "description" : " After a lot of interruption (and a lot of effort), the 2021 ACT Junior Chess League Interschool Finals were held this weekend. Due to ongoing Covid restrictions they were held online for the first time, and despite some small hiccups, the whole thing went well. Each final was restricted to a maximum of 6 teams of 4 or 5 players, although we ended up with less than that in each section. Where qualifiers had been held in person, the winning school (or schools) was invited, while for other Canberra zones we just had to choose based on rating. The tournaments were held on Lichess using a swiss format (although players did not play team mates), and supervision was via zoom. Most players played f",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -328,14 +384,6 @@ news_feed (
          "link" : "https://aicf.in/tata-steel-chess-india-day-two/",
          "pubDate" : "Thu, 18 Nov 2021 17:31:51 +0000",
          "title" : "Tata Steel Chess India - Day Two"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> continues its <a href=\"https://www.fide.com/news/1436\">support programme for open tournaments</a> with €150,000 budgeted for 2022. Organisers must apply until 15 December. In 2021 FIDE <a href=\"https://www.fide.com/news/973\">supported 27 open tournaments with €120,000 combined</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/fide-continues-aid-for-open-events/",
-         "pubDate" : "Thu, 18 Nov 2021 18:28:46 +0100",
-         "title" : "FIDE continues aid for open events"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87786806.cms\" />Indian teenage duo of Arjun Erigaisi and R Praggnanandhaa occupied the top two places, pushing world number four Levon Aronian to third spot after round six of the Tata Steel Rapid Chess on Thursday.",
@@ -1130,14 +1178,6 @@ news_feed (
          "title" : "Elisabeth Paehtz: \"For every kilo I gained, I gained ten Elo points\""
       },
       {
-         "description" : "All India Chess Federation invites quotation from interested firms for the supply of Chess Sets as per the following specification for the AICF's Chess in",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/quotation-for-supply-of-chess-sets-for-aicfs-chess-in-school-project/",
-         "pubDate" : "Wed, 10 Nov 2021 12:41:58 +0000",
-         "title" : "Quotation for Supply of Chess Sets for AICF's Chess in School Project."
-      },
-      {
          "description" : " I am in the process of building a web based rating management system, partly for my own interest, and partly as a proof of concept for a couple of chess organisations. In doing so I thought I would refamiliarise myself with the FIDE Rapid and Blitz Rating Regulations, a found some differences from standard system that I had either forgotten, or failed to notice. For example: <ul style=\"text-align: left;\"><li>The maximum number of rapid games in a day is 15, and for blitz, 30</li><li>You have to score at least 1 point in your first event for it to count towards your rating. (It is only 0.5 for the standard list)</li><li>Every either has a k factor of 20, or 700/total number of games played, ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1898,14 +1938,6 @@ news_feed (
          "title" : "Episode 250- FM Asa Hoffmann"
       },
       {
-         "description" : "Note: GM Richard Rapport has replaced GM Alireza Firouzja in the 2021 Speed Chess Championship Main Event. All picks in the Bracket Contest for Firouzja will now be counted as Rapport picks. We know that this is not an ideal situation and we thank...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-bracket-contest",
-         "pubDate" : "Tue, 02 Nov 2021 06:00:00 -0700",
-         "title" : "2021 Speed Chess Championship Bracket Contest"
-      },
-      {
          "description" : " Face to face chess is back in Canberra, and tonight was the first week back for the Gungahlin Chess Club. There was a healthy turnout of 20 players, and I assume that this number will grow during the rest of the year. The last game to finish was a tricky king and pawn ending that had me fooled as a spectator. At first glance it seemed that White was clearly winning (due to an outside passed pawn), and when Black managed to draw the position, my first thought was that White went wrong somewhere. But when I fed it into Fritz, it turned out that the position was drawn all along. I thought White could gain a tempo somewhere, but not matter what he did, Black was able to trap the White king on t",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2056,30 +2088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1408",
          "pubDate" : "Sun, 31 Oct 2021 20:46:44 +0000",
          "title" : "FIDE Chess.com Grand Swiss: Round 5 Recap"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 51st instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the black squares. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-51-the-black-squares",
-         "pubDate" : "Sun, 31 Oct 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 51: The black squares!"
-      },
-      {
-         "description" : "High-level chess is being played in Riga at the open and women's sections of the Grand Swiss. Our in-house endgame expert has been following the games closely, and sent us a few analyses from instructive positions played by Harika Dronavalli, Meruert Kamalidenova and Jeffery Xiong. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-analyses-notable-endgames-from-the-grand-swiss",
-         "pubDate" : "Sun, 31 Oct 2021 14:45:00 +0100",
-         "title" : "Notable endgames from the Grand Swiss - Karsten M&uuml;ller analyses"
-      },
-      {
-         "description" : " A Learner's brilliancy. Not just any old learner, though. Very specifically, Dr Abraham Learner, a strong amateur who lived and played in Birmingham, Melbourne and Eastbourne over a 40 year chess career. I've just been writing about him elsewhere, and thought this 1934 game from a county match was worth annotating. He had the white <a href=\"https://chessimprover.com/a-learners-brilliancy/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Learner's Brilliancy\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-learners-brilliancy/\">A Learner's Brilliancy</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-learners-brilliancy/",
-         "pubDate" : "Sun, 31 Oct 2021 13:14:30 +0000",
-         "title" : "A Learner's Brilliancy"
       }
    ]
 }
