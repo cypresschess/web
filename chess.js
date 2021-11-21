@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " After a lot of interruption (and a lot of effort), the 2021 ACT Junior Chess League Interschool Finals were held this weekend. Due to ongoing Covid restrictions they were held online for the first time, and despite some small hiccups, the whole thing went well. Each final was restricted to a maximum of 6 teams of 4 or 5 players, although we ended up with less than that in each section. Where qualifiers had been held in person, the winning school (or schools) was invited, while for other Canberra zones we just had to choose based on rating. The tournaments were held on Lichess using a swiss format (although players did not play team mates), and supervision was via zoom. Most players played f",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/11/2021-act-interschool-finals.html",
+         "pubDate" : "Sun, 21 Nov 2021 11:59:00 +0000",
+         "title" : "2021 ACT Interschool Finals"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>French Chess Federation</strong> has created a commission \"Sant&eacute; Social Handicap\" led by <a href=\"https://www.linkedin.com/in/franck-droin-95a5991/\"><strong>Franck Droin</strong></a>, a business consultant specializing in strategy and health. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/french-federation-embraces-social/",
+         "pubDate" : "Sun, 21 Nov 2021 12:05:05 +0100",
+         "title" : "French federation embraces social uses of chess"
+      },
+      {
+         "description" : "Records keep tumbling when Arjun Erigaisi plays tournaments. The 18-year-old continues his brilliant momentum in Blitz as he scored an unbeaten 6&frac12;/9 to gain sole lead. He is the only player who remained undefeated for nine rounds of Blitz. His total unbeaten streak is at 16 games now at Tata Steel Chess India 2021. That's not all: he has climbed to World no.14 and India no.2 in Blitz in the live ratings. Aronian is once again in pursuit of Arjun as he is just a half point behind him at 6/9. They will face each other in the 14th round. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-blitz-arjun-grabs-sole-lead-now-world-no-14-in-blitz",
+         "pubDate" : "Sun, 21 Nov 2021 10:00:00 +0100",
+         "title" : "Tata Steel Chess Blitz: Arjun grabs sole lead, now World no.14 in Blitz"
+      },
+      {
+         "description" : "The Tata Steel Chess India Rapid and Blitz Tournament is taking place on November 17-21 in Kolkata. This time, 14 players are taking part. The lineup is spearheaded by Levon Aronian. Vishy Anand is present at the tournament as a mentor to the young talents. Read the full report on Arjun&rsquo;s victory at the rapid section... | Follow the action live with expert commentary starting at 9.30 CET (3.30 ET, 14.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2021-live",
+         "pubDate" : "Sun, 21 Nov 2021 09:25:00 +0100",
+         "title" : "Tata Steel India Blitz, Final Day - Live!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Nick Risko continues his series on the Scotch Game or Scotch Opening. Learn the London Defense of the Scotch Gambit. It&#039;s 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bb4+. Originally on Twitch. 2021.09.20<br /> C44 Scotch gambit<br /> C44 Scotch gambit, Vitzhum attack<br /> C44 Scotch gambit, Cochrane-Shumov defence<br /> C53 Giuoco Piano, Ghulam Kassim variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shot-scotch-2-scotch-gambit-bc5-lines-chess-openings-explain",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -74,28 +106,20 @@ news_feed (
          "title" : "The Physicists "
       },
       {
-         "description" : "The Tata Steel Chess India Rapid and Blitz Tournament is taking place on November 17-21 in Kolkata. This time, 14 players are taking part. The lineup is spearheaded by Levon Aronian. Vishy Anand is present at the tournament as a mentor to the young talents. Read the full report on Arjun&rsquo;s victory at the rapid section... | Follow the action live with expert commentary starting at 9.30 CET (3.30 ET, 14.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2021-live",
-         "pubDate" : "Sat, 20 Nov 2021 09:25:00 +0100",
-         "title" : "Tata Steel India Blitz - Live!"
-      },
-      {
-         "description" : "Arjun Erigaisi started hitting the next level at Goldmoney Asian Rapid this past summer when he ended Aronian's undefeated streak at the event. The healthy rivalry with Aronian began since then. The most anticipated match of the event between Aronian and Arjun did not disappoint. It delivered everything one can fathom - there was action, drama and high stakes in a high-tension match which showcased Arjun's another quality which the majority of the Indian youth possess: true grit. No matter how adverse things might get, one needs to have the courage to fight back, even if your opponent is the mighty, only two-time World Cup winner in the history of chess. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-age-of-arjun-erigaisi-begins-with-a-monumental-triumph-at-tata-steel-chess-india-2021-rapid",
-         "pubDate" : "Sat, 20 Nov 2021 09:01:00 +0100",
-         "title" : "The 'Age of Arjun Erigaisi' begins with a monumental triumph at Tata Steel Chess India 2021 Rapid"
-      },
-      {
          "description" : "In the diagram position, 14...bxc3! looks dangerous - after 15.Rxc3 White threatens 16.Rxc8+, winning the queen on a5. But Black, World Championship challenger Ian Nepomniachtchi, had a cool surprise in store! Can you find it?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/nepo-with-nerves-of-steel",
          "pubDate" : "Sat, 20 Nov 2021 09:00:00 +0100",
          "title" : "Nepo with nerves of steel"
+      },
+      {
+         "description" : "Arjun Erigaisi started hitting the next level at Goldmoney Asian Rapid this past summer when he ended Aronian's undefeated streak at the event. The healthy rivalry with Aronian began since then. The most anticipated match of the event between Aronian and Arjun did not disappoint. It delivered everything one can fathom - there was action, drama and high stakes in a high-tension match which showcased Arjun's another quality which the majority of the Indian youth possess: true grit. No matter how adverse things might get, one needs to have the courage to fight back, even if your opponent is the mighty, only two-time World Cup winner in the history of chess. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-age-of-arjun-erigaisi-begins-with-a-monumental-triumph-at-tata-steel-chess-india-2021-rapid",
+         "pubDate" : "Sat, 20 Nov 2021 08:01:00 +0100",
+         "title" : "The 'Age of Arjun Erigaisi' begins with a monumental triumph at Tata Steel Chess India 2021 Rapid"
       },
       {
          "description" : "After seven played rounds at the European Team Chess Championship 2021 in Terme Catez, Slovenia, the Russian Women's team holds the sole lead, while Azerbaijan and Ukraine tie for the top of the Open section. With a convincing 3-1 victory over Azerbaijan, Russian Women improved their lead scoring the absolute 14 match points. Valentina Gunina was the first&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-r7-report/\">Read More &#187;</a></span>",
@@ -472,14 +496,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1434",
          "pubDate" : "Wed, 17 Nov 2021 11:38:45 +0000",
          "title" : "European Team Championship in Terme Catez crosses midpoint"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> With the <a href=\"https://www.playmagnusgroup.com/investor\">publication of its Q3 report</a> and continued growth, <strong>Play Magnus Group</strong> strengthened its claim to lead the development of online chess as an E-sport. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/pmg-emphasizes-e-sport-leadership/",
-         "pubDate" : "Wed, 17 Nov 2021 10:01:41 +0100",
-         "title" : "PMG emphasizes E-sport leadership"
       },
       {
          "description" : "18-year-old Alireza Firouzja has overtaken Fabiano Caruana to become world no. 3 on the live rating list after winning brilliant games in Rounds 4 and 5 of the European Team Championship to climb to 2793.3. His team France has suffered with two losses, but no team is setting the Open event on fire, with a six-way tie for 1st place on 8/10 points. In the Women's section Russia are cruising with a perfect 10/10 after defeating their biggest rivals Georgia.",
@@ -2064,30 +2080,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-learners-brilliancy/",
          "pubDate" : "Sun, 31 Oct 2021 13:14:30 +0000",
          "title" : "A Learner's Brilliancy"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1407",
-         "pubDate" : "Sun, 31 Oct 2021 11:24:11 +0000",
-         "title" : "ARB Lecturer Training Programme CALL OF INTEREST announced"
-      },
-      {
-         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at the spectacular queen sacrifice that Alexandr Predke used to beat Nodirbek Yakubboev in round 2 of the Grand Swiss in Riga. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-queen-sacrifice-in-the-makogonov-variation-of-the-kings-indian-defence",
-         "pubDate" : "Sun, 31 Oct 2021 11:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A queen sacrifice in the Makogonov Variation of the Kings Indian Defence"
-      },
-      {
-         "description" : "After kicking off the event with three straight wins, Alireza Firouzja drew a game for the first time at the FIDE Chess.com Grand Swiss on Sunday. The youngster nonetheless kept the sole lead, as none of his closest chasers got to score a win - Evgeniy Najer almost managed, but failed to find a killer shot. Meanwhile, among the women, Chinese star Lei Tingjie beat Valentina Gunina to climb to sole first place. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r4",
-         "pubDate" : "Sun, 31 Oct 2021 10:20:00 +0100",
-         "title" : "Grand Swiss: Lei Tingjie takes the lead in the women's section"
       }
    ]
 }
