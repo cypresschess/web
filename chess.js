@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Schedule &#38; Regulation National Arbiter (NA) Seminar The National Arbiter seminar is a training session for Arbiters of National level (NA) . NA Seminar Duration",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-arbiters-training/",
+         "pubDate" : "Sun, 21 Nov 2021 19:17:45 +0000",
+         "title" : "National Arbiters Training"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Alireza Firouzja</strong> reached a 3009 rating perfomance at the top board of the <strong>European Team Championship</strong> in Terme Čatež, Slovenia. Arguably the second best performance in history after Caruana's 3080 in St. Louis in 2014 makes Firouzja at 18 years, 5 months, and 13 days the youngest player ever over 2800 and the <a href=\"https://www.2700chess.com/\">new number two in the world</a>. It was still not enough to give France the gold medal, <a href=\"http://chess-results.com/tnr583987.aspx?lan=0&amp;art=0&amp;turdet=YES&amp;flag=30\">that went to Ukraine</a>. Bronze was claimed by Poland. Russia dominated the <a href=\"http://",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/firouzja-breaks-record-but-ukraine/",
+         "pubDate" : "Sun, 21 Nov 2021 19:55:20 +0100",
+         "title" : "Firouzja breaks record, but Ukraine takes gold"
+      },
+      {
+         "description" : "While there are currently over a thousand grandmasters in the world, only 14 players in history had crossed the 2800-rating barrier. GM Alireza Firouzja is the most recent addition to the 2800-club after scoring a sensational 8/9 at the European T...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alireza-firouzja-youngest-chess-player-ever-to-break-2800",
+         "pubDate" : "Sun, 21 Nov 2021 10:51:00 -0800",
+         "title" : "Alireza Firouzja Youngest Chess Player Ever To Break 2800"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> We never had so many resources and options to study and train chess as we do today. Here are some guidelines how to make the best of it. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/davorin-cover.1920.jpeg\" title=\"This article contains excerpts from the author's book How to Study Chess on Your Own. \" data-title=\"This article contains excerpts from the author's book *How to Study Chess on Your Own*.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/davorin-cover.480.jpeg\" alt=\"This article contains excerpts from the author's book How to Study Chess on Your Own.\" s",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/online-chess-training/",
+         "pubDate" : "Sun, 21 Nov 2021 19:40:10 +0100",
+         "title" : "The best ways to study chess online"
+      },
+      {
+         "description" : " Here's a recent online rapid game I played against a lower rated opponent. I decided to play a simple opening, make simple moves, create a pawn weakness and win the ending. Exactly how I often lose when playing higher rated opponents. I made one mistake in the game, though, which you might find instructive. It's <a href=\"https://chessimprover.com/simply-does-it/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Simply Does It\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/simply-does-it/\">Simply Does It</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/simply-does-it/",
+         "pubDate" : "Sun, 21 Nov 2021 18:30:48 +0000",
+         "title" : "Simply Does It"
+      },
+      {
+         "description" : "In this week's column, Jon Speelman returns to his explorations of remarkable games by the world's top juniors. Naturally, he looks at games by Kirill Shevchenko (pictured), Arjun Erigaisi and Alireza Firouzja, three young stars who left a strong mark in top tournaments during the last month or so. | Photo: Anastasiya Karlovich",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-158",
+         "pubDate" : "Sun, 21 Nov 2021 19:30:00 +0100",
+         "title" : "The hacking of steely sprogs"
+      },
+      {
+         "description" : "Levon Aronian joked that his victory in the Tata Steel Chess India Blitz was down to Rapid winner Arjun Erigaisi deciding he wasn't physically strong enough to carry both cups. It was as good an explanation as any for a crazy final day, when both players struggled and an on fire Nihal Sarin went into the final round with a half-point lead. Nihal lost, however, while Levon and Arjun both found a way to win despite flirting with disaster. The playoff that followed saw Erigaisi miss two open goals in blitz before Levon clinched the title in Armageddon.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aronian-wins-tata-steel-indian-blitz-in-armageddon",
+         "pubDate" : "Sun, 21 Nov 2021 17:57:40 +0000",
+         "title" : "Aronian wins Tata Steel Indian Blitz in Armageddon"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1441",
+         "pubDate" : "Sun, 21 Nov 2021 17:51:29 +0000",
+         "title" : "FIDE World Championship Dubai 2021: 10 facts about opponents"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87835583.cms\" />In a tournament where the Indian youngsters were running riot, Levon Aronian showed class always prevails as he clinched the blitz section of the Kolkata rapid and blitz meet at the National Library on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -42,20 +106,20 @@ news_feed (
          "title" : "Erigaisi excelled in Kolkata"
       },
       {
-         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. Read the full report on round 7... | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
-         "pubDate" : "Sun, 21 Nov 2021 14:50:00 +0100",
-         "title" : "European Team Championships - Live!"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 54th instalment of his ChessBase show \"Understanding before Moving\", Herman shows a fascinating study, in which White wins a position that on first glance seems to be impossible to win. | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-54-pawn-vs-knight",
          "pubDate" : "Sun, 21 Nov 2021 14:30:00 +0100",
          "title" : "Understanding before Moving 54: Pawn vs knight"
+      },
+      {
+         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. Read the full report on round 7... | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
+         "pubDate" : "Sun, 21 Nov 2021 14:00:00 +0100",
+         "title" : "European Team Championships - Live!"
       },
       {
          "description" : " After a lot of interruption (and a lot of effort), the 2021 ACT Junior Chess League Interschool Finals were held this weekend. Due to ongoing Covid restrictions they were held online for the first time, and despite some small hiccups, the whole thing went well. Each final was restricted to a maximum of 6 teams of 4 or 5 players, although we ended up with less than that in each section. Where qualifiers had been held in person, the winning school (or schools) was invited, while for other Canberra zones we just had to choose based on rating. The tournaments were held on Lichess using a swiss format (although players did not play team mates), and supervision was via zoom. Most players played f",
@@ -184,14 +248,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-team-chess-championship-2021-r7-report/",
          "pubDate" : "Sat, 20 Nov 2021 06:49:58 +0000",
          "title" : "European Team Chess Championship 2021 - R7 Report"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The world championship challenger <strong>Ian Nepomniachtchi</strong> presents a Chessable course on no lesser opening than the King's Gambit. <em>Fernando Offermann</em> had a look. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/2lc5e.1920.jpeg\" title=\"\"This looks very, very scary for Black.\" Ian Nepomniachtchi visibly enjoyed himself while recording the course. \" data-title=\"\"This looks very, very scary for Black.\" Ian Nepomniachtchi visibly enjoyed himself while recording the course.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/2lc5e.480.jpeg\" alt=\"\"This lo",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/nepos-gambit/",
-         "pubDate" : "Sat, 20 Nov 2021 06:07:15 +0100",
-         "title" : "Nepo's Gambit"
       },
       {
          "description" : "Azerbaijan and Ukraine are sharing the lead after seven rounds in the open section of the European Team Championships. While Azerbaijan defeated the Netherlands on Friday, Ukraine inflicted Russia's first loss of the event. The best individual performer in Slovenia, Alireza Firouzja, scored his sixth win of the tournament and is now 1.1 Elo points away from reaching the 2800 rating barrier. In the women's section, the defending champions of Russia still have a perfect score. | Photos: ECU Press",
@@ -840,14 +896,6 @@ news_feed (
          "link" : "https://aicf.in/big-boost-for-chess-in-chhattisgarh/",
          "pubDate" : "Sat, 13 Nov 2021 15:09:05 +0000",
          "title" : "Big boost for Chess in Chhattisgarh"
-      },
-      {
-         "description" : "In a glittering function organised at the Durbar Hall of the Rashtrapati Bhawan, the Hon'ble President of India Shri Ram Nath Kovid bestowed Dhyan Chand",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-gm-abhijit-kunte/",
-         "pubDate" : "Sat, 13 Nov 2021 14:28:16 +0000",
-         "title" : "Congratulations GM Abhijit Kunte"
       },
       {
          "description" : "Alireza Firouzja beat Markus Ragger and climbed back to world no. 4 on the live rating list as he made his debut in a 3:1 victory for France over Austria in Round 1 of the European Team Championship. France, who also feature MVL, are 3rd seeds, with top seeds Russia and Azerbaijan cruising in Round 1. There were upsets, however, with England living to regret resting Mickey Adams as they lost 2.5:1.5 to Norway, while wins for Anish Giri and Jorden van Foreest weren't enough to stop Georgia holding the Netherlands to a draw.",
@@ -1698,14 +1746,6 @@ news_feed (
          "title" : "Hybrid Teams"
       },
       {
-         "description" : "Alireza Firouzja overtook Ian Nepomniachtchi on the live rating list to move up to world no. 4 after sacrificing his queen to beat Krishnan Sasikiran. The 18-year-old leads the FIDE Chess.com Grand Swiss by a full point with just three rounds to go, but he faces the challenge of Black against Fabiano Caruana in Round 9. Fabi is one of 10 players in joint 2nd place, after he beat Nils Grandelius with the black pieces. Lei Tingjie won again and is now a point clear of 2nd placed Elisabeth Paehtz in the race for a single Women's Candidates spot.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/grand-swiss-8-firouzja-climbs-to-world-no-4",
-         "pubDate" : "Fri, 05 Nov 2021 10:50:02 +0000",
-         "title" : "Grand Swiss 8: Firouzja climbs to world no. 4"
-      },
-      {
          "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a an interesting positional pawn sacrifice in the Flohr-Mikenas Attack (1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 d4 5.exf6 dxc3 6.bxc3 Qxf6 7.Nf3 b6 8.c5!?), which Jorden van Foreest used to beat the strong Indian Grandmaster Surya Shekhar Ganguly at the Grand Swiss in Riga in just 32 moves. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1832,14 +1872,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/the-lucky-winner-goes-to-dubai/",
          "pubDate" : "Wed, 03 Nov 2021 16:01:01 +0000",
          "title" : "The lucky winner goes to Dubai!"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won the November 2 Titled Tuesday outright with 9.5/11, followed by a three-way tie for second place at 9 points out of 11. When the dust settled, that put GM Daniel Naroditsky in second place, GM Sergei Zhigalko in third, and G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-november-2-titled-tuesday",
-         "pubDate" : "Wed, 03 Nov 2021 08:27:00 -0700",
-         "title" : "Nakamura Wins November 2 Titled Tuesday"
       },
       {
          "description" : " The details for the 2022 O2C Doeberl Cup have been posted at <a href=\"http://www.doeberlcup.com.au\">www.doeberlcup.com.au</a> It will be held over the Easter weekend, which is 14-18 April 2022. The most significant change from this years event, is that the rating limits for each of the tournament have been simplified. For the Premier, anyone with a FIDE or ACF rating above 1800 is eligible (plus title holders), while to get into the Major (under 2000), you need an ACF or FIDE rating above 1400 (and be blow ACF 2000 as well). In part this is to simplify the eligibility rules, but it is also to balance the numbers in each tournament. Entry fees are unchanged from this year, and the prize pool",
