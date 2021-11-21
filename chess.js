@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko continues his series on the Scotch Game or Scotch Opening. Learn the London Defense of the Scotch Gambit. It&#039;s 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bb4+. Originally on Twitch. 2021.09.20<br /> C44 Scotch gambit<br /> C44 Scotch gambit, Vitzhum attack<br /> C44 Scotch gambit, Cochrane-Shumov defence<br /> C53 Giuoco Piano, Ghulam Kassim variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shot-scotch-2-scotch-gambit-bc5-lines-chess-openings-explain",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shot-scotch-2-scotch-gambit-bc5-lines-chess-openings-explained",
+         "pubDate" : "Sun, 21 Nov 2021 03:55:33 +0000",
+         "title" : "A Shot of Scotch #2: Scotch Gambit, Bc5 Lines | Chess Openings Explained"
+      },
+      {
          "description" : "An eighth win in as many matches gave Russia tournament victory at the women's section of the European Team Championships with a round to spare. This is Russia's fourth consecutive title and the seventh in the last eight events. Meanwhile, in the open section, four teams go into the final round tied for first place - Armenia, France, Azerbaijan and Ukraine. | Photos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1032,14 +1040,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/kan-sicilian-these-lines-are-weird-chess-and-psychology-im-dorsa-derakhshani",
          "pubDate" : "Thu, 11 Nov 2021 03:45:26 +0000",
          "title" : "The Kan Sicilian: These Lines are Weird! | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White, with the weird lines of the Kan or Paulsen. 2021.11.10<br /> Dorsa Derakhshani vs. Anthony Barron, 2013: B40 Sicilian, Anderssen variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kan-sicilian-these-lines-are-weird-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/s",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kan-sicilian-these-lines-are-weird-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Thu, 11 Nov 2021 00:45:28 +0000",
-         "title" : "The Kan Sicilian: These Lines are Weird! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : " From the back cover: A collection of the classic games of British chess, including one or two which, though truly memorable, are by no means masterpieces; with a few more included by way of a little light relief. We shouldn't be serious all the time, even at the chess board. Neil is a retired county <a href=\"http://britishchessnews.com/2021/11/11/memorable-games-of-british-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Memorable Games of British Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/11/11/memorable-games-of-british-chess/\">Memorable Games of British Chess</a> appeared first on <a ",
