@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko continues his series on the Scotch Game or Scotch Opening. Learn Black&#039;s Nf6 response to the Scotch Gambit and the Nakhmanson Gambit. Originally on Twitch. 2021.09.27<br /> C44 Scotch gambit, Dubois-Reti defence<br /> C56 Two knights defence </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shot-scotch-3-scotch-gambit-dubois-reti-nakhmanson-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_im",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shot-scotch-3-scotch-gambit-dubois-reti-nakhmanson-chess-openings-explained",
+         "pubDate" : "Mon, 22 Nov 2021 03:56:42 +0000",
+         "title" : "A Shot of Scotch #3: Scotch Gambit, Dubois-Reti & Nakhmanson | Chess Openings Explained"
+      },
+      {
+         "description" : "Thanks to a final-round victory over Armenia, Ukraine got their first gold medals at the open section of the European Team Championships. France came second after beating Azerbaijan, with Alireza Firouzja beating Shakhriyar Mamedyarov to climb to second place in the world ranking and become the youngest ever player to cross the 2800-rating barrier. Poland finished in third place. | Photos: ECU Press",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2021-r9",
+         "pubDate" : "Mon, 22 Nov 2021 02:45:00 +0100",
+         "title" : "Euro Teams: Ukraine take gold, Firouzja crosses 2800"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -151,7 +167,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
          "pubDate" : "Sun, 21 Nov 2021 14:00:00 +0100",
-         "title" : "European Team Championships - Live!"
+         "title" : "European Team Championships - Round 9"
       },
       {
          "description" : " After a lot of interruption (and a lot of effort), the 2021 ACT Junior Chess League Interschool Finals were held this weekend. Due to ongoing Covid restrictions they were held online for the first time, and despite some small hiccups, the whole thing went well. Each final was restricted to a maximum of 6 teams of 4 or 5 players, although we ended up with less than that in each section. Where qualifiers had been held in person, the winning school (or schools) was invited, while for other Canberra zones we just had to choose based on rating. The tournaments were held on Lichess using a swiss format (although players did not play team mates), and supervision was via zoom. Most players played f",
@@ -1162,14 +1178,6 @@ news_feed (
          "title" : "Chess brought before Kenyan Parliament"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White, with the weird lines of the Kan or Paulsen. 2021.11.10<br /> Dorsa Derakhshani vs. Anthony Barron, 2013: B40 Sicilian, Anderssen variation<br /> Dorsa Derakhshani vs Zivile Urbonaviciute, World Junior Championship (Girls) (2013): B43 Sicilian, Kan, 5.Nc3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1731369\">https://www.chessgames.com/perl/chessgame?gid=1731369</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-fie",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kan-sicilian-these-lines-are-weird-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 11 Nov 2021 03:45:26 +0000",
-         "title" : "The Kan Sicilian: These Lines are Weird! | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
          "description" : " From the back cover: A collection of the classic games of British chess, including one or two which, though truly memorable, are by no means masterpieces; with a few more included by way of a little light relief. We shouldn't be serious all the time, even at the chess board. Neil is a retired county <a href=\"http://britishchessnews.com/2021/11/11/memorable-games-of-british-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Memorable Games of British Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/11/11/memorable-games-of-british-chess/\">Memorable Games of British Chess</a> appeared first on <a ",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2104,14 +2112,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-swiss-chess-tournament-dronavalli-harika-draws-with-natalija-pogonina/articleshow/87455368.cms",
          "pubDate" : "Mon, 01 Nov 2021 11:45:59 +0530",
          "title" : "FIDE Grand Swiss: Harika draws with Pogonina"
-      },
-      {
-         "description" : "A draw on top board between Alireza Firouzja and Maxime Vachier-Lagrave allowed veterans Alexei Shirov and Evgeniy Najer to join Firouzja in the lead at the open section of the FIDE Chess.com Grand Swiss. Both Shirov and Najer won with the black pieces on Sunday. In the women's section, five players are sharing the lead going into round 6. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r5",
-         "pubDate" : "Mon, 01 Nov 2021 04:10:00 +0100",
-         "title" : "Grand Swiss: Shirov and Najer join Firouzja in the lead"
       }
    ]
 }
