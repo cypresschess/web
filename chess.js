@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As a chess player, Alexander Alekhine (pictured) was brilliant, but his biography contains a number of dark spots. In particular, his proximity to the Nazis has damaged the reputation of the fourth world champion. The Swiss historian and chess player Dr. Christian Rohrer wanted to find out how and to what extent Alekhine supported the Nazis, and he published his findings in an online article titled \"World chess champion and favourite of Hans Frank?: assessing Alexander Alekhine's closeness to the National Socialist regime\". Detailed, fascinating and well worth reading.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alekhine-and-the-nazis-a-historical-investigation-by-dr-christian-rohrer",
+         "pubDate" : "Mon, 22 Nov 2021 13:00:00 +0100",
+         "title" : "Alekhine and the Nazis: a historical investigation by Dr. Christian Rohrer"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/wp-content/uploads/2021/11/LCC-Press-Release-211121-V3.pdf#new_tab",
+         "pubDate" : "Mon, 22 Nov 2021 11:37:17 +0000",
+         "title" : "2021 Chess Classic"
+      },
+      {
+         "description" : " <p class=\"lead\">When it comes to chess NFTs, there are now so many options that it can be hard to know what exactly you need (and whether you need this at all). Do you want a chess award from the NFT? <a href=\"https://championschesstour.com/now-you-can-own-chess-nfts/\">Meltwater Champions Chess Tour</a> makes them. What about a chess moment NFT? <a href=\"https://www.fide.com/news/1413\">The International Chess Federation</a> sells some. Is it something real or just a trick? <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-8-min.jpg\" width=\"2560\" height=\"1440\" alt=\"\" /> <div class=\"e2-text-caption\">Gallery of unique chess pieces generated randomly for demo pu",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-ultimate-chess-nfts-according-to-hyperenthusiastic-digital-a/",
+         "pubDate" : "Mon, 22 Nov 2021 11:27:14 +0000",
+         "title" : "World Chess NFT Drop: Free, Beatiful, Linked to a Chess Position"
+      },
+      {
+         "description" : "Ukraine won its first ever European Team Chess Championship in Brezice, Slovenia on Sunday. The gold medal winners edged out France on tiebreak, a team whose silver medals were largely the result of GM Alireza Firouzja&#39;s historic performance. Russ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ukraine-russia-win-2021-european-team-chess-championships",
+         "pubDate" : "Mon, 22 Nov 2021 01:57:00 -0800",
+         "title" : "Ukraine, Russia Winners At 2021 European Team Chess Championships"
+      },
+      {
+         "description" : "18-year-old Alireza Firouzja will be the 2804-rated world no. 2 when the official FIDE rating list is published on December 1st, beating Magnus Carlsen's own record for crossing that landmark by six months. Alireza made it with a dramatic win over Shakhriyar Mamedyarov that saw his team France come within a whisker of winning the European Team Chess Championship before Ukraine took the title on tiebreaks. Poland took bronze, while in the women's event it was 1.Russia, 2.Georgia, 3.Azerbaijan.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/alireza-firouzja-is-youngest-2800-ever-ukraine-take-gold",
+         "pubDate" : "Mon, 22 Nov 2021 09:12:01 +0000",
+         "title" : "Alireza Firouzja is youngest 2800 ever | Ukraine take gold"
+      },
+      {
+         "description" : "Levon Aronian beat Arjun Erigaisi in the Armageddon Playoffs to win Tata Steel Chess India 2021 Blitz. The second day of the Blitz event saw several players at the top throughout the day, including Nihal, Gukesh, Levon, Parham and Arjun. However, in the end it was Aronian and Arjun who tied for the first place at 11&frac12;/18 each. Arjun was completely winning in both Playoff games, and Aronian admitted that he should have lost at least one of them. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/express-report-levon-aronian-wins-tata-steel-chess-blitz-in-armageddon-playoffs",
+         "pubDate" : "Mon, 22 Nov 2021 09:45:00 +0100",
+         "title" : "Levon Aronian wins Tata Steel Chess Blitz in Armageddon Playoffs"
+      },
+      {
+         "description" : " The 12th London Chess Classic takes place 3rd to 12th December 2021. The event is on a smaller scale due to the continuing coronavirus crisis and in a different venue, the Cavendish Centre. The main event is an England vs the Rest of the World Scheveningen match between England's Michael Adams, Luke McShane and Gawain Jones and a Rest of the World Team of Boris Gelfand, Nikita Vitiugov and Maxime Lagarde over 6 rounds. Also there are other event including the Pro-Biz and English Rapidplay Championship.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/12th-london-chess-classic-2021",
+         "pubDate" : "Mon, 22 Nov 2021 12:26:00 +0400",
+         "title" : "12th London Chess Classic 2021 - Games and Results"
+      },
+      {
          "description" : " <p class=\"lead\">Prior to 2020, there was only one star in chess - Magnus Carlsen. The main plot of the chess world for years has been to sarcastically watch who out of the top players will manage to win the Candidates tournament to collect a sizable prize after losing to Carlsen again, likely on tie-breaks. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/D1AD317C-74F8-44E7-A469-8DF0E39E86E8.jpeg\" width=\"1800\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anna Shtourman, FIDE: Firouzja during Round 10 of the Grand Swiss in Riga</div> </div> But over the course of the pandemic, the new star appeared in such a meteoric way that the World Chess Champio",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1399,7 +1455,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1427",
          "pubDate" : "Tue, 09 Nov 2021 11:24:08 +0000",
-         "title" : "Nur-Sultan will host World Rapid and Blitz 2021"
+         "title" : "Nur-Sultan to host World Rapid and Blitz 2021"
       },
       {
          "description" : "Exchanging the right pieces is a very important topic, for which you should develop a fine intuition. How should Black proceed in the diagram position?",
@@ -1658,14 +1714,6 @@ news_feed (
          "title" : "Cambridge boat sinks - at chess"
       },
       {
-         "description" : "Fabiano Caruana beat Alireza Firouzja on demand to catch the 18-year-old with just two rounds of the FIDE Chess.com Grand Swiss to go. The victory also allowed David Howell to join them in a 3-way tie for 1st after Anton Korobov's attempt to exploit his opponent's time trouble backfired completely. 10 players, including Fabi's Round 10 opponent Maxime Vachier-Lagrave, are half a point behind. Meanwhile Lei Tingjie beat Alexandra Kosteniuk to reach an amazing 8/9 and needs just one draw in the next two rounds to be certain of the Candidates spot.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/grand-swiss-9-caruana-takes-down-firouzja",
-         "pubDate" : "Sat, 06 Nov 2021 10:31:02 +0000",
-         "title" : "Grand Swiss 9: Caruana takes down Firouzja"
-      },
-      {
          "description" : "In the diagram position, Black's has just played 16...Qg4, threatening 17...Nxg2+ while preventing 0-0-0. So, White's king is in a fix, and in the game it ended up getting checkmated on ... a5! Enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1856,14 +1904,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-r7",
          "pubDate" : "Thu, 04 Nov 2021 06:05:00 +0100",
          "title" : "Grand Swiss: Lei keeps on winning, Firouzja reclaims the lead"
-      },
-      {
-         "description" : "Profiting from a mistake by GM Evgeniy Najer in a rook endgame,&#38;nbsp;GM Alireza Firouzja regained the sole lead in the&#38;nbsp;FIDE Chess.com Grand Swiss with four rounds to go. GM&#38;nbsp;Lei Tingjie continues to lead the women&#39;s section and now has IM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-round-7-firouzja",
-         "pubDate" : "Wed, 03 Nov 2021 14:27:00 -0700",
-         "title" : "FIDE Chess.com Grand Swiss R7: Firouzja Back In Sole Lead"
       },
       {
          "description" : "",
@@ -2080,30 +2120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-new-rating-list-carlsen-is-the-only-2800-players",
          "pubDate" : "Mon, 01 Nov 2021 16:04:05 +0100",
          "title" : "The new rating list: Carlsen is the only 2800+ player"
-      },
-      {
-         "description" : " The Australian National Sound and Film Archives has retrieved a number of short documentaries about Australian cities, and have made then available on youtube. I posted one about Canberra a few years back, and today I cam across one about Sydney. It was made around 1964, and shows Sydney just as the high rise developments were getting started. Also included (at around the 8:30 mark), is a scene of outdoor chess, being played on council tables. I'm not sure where it was filmed (maybe Hyde Park), but it may contain faces familiar to older players. There are also a number of other interesting scenes, including some very non-ohs work practices on high rise construction sites. <div class=\"separa",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/sydney-in-60s.html",
-         "pubDate" : "Mon, 01 Nov 2021 12:14:00 +0000",
-         "title" : "Sydney in the 60's"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.youtube.com/watch?v=wo7YpILetVc#new_tab",
-         "pubDate" : "Mon, 01 Nov 2021 10:17:57 +0000",
-         "title" : "Pert's path to winning the British Championship 2021"
-      },
-      {
-         "description" : "With an impressive finish Michal Krasenkov won the strong Sheik Russel tournament in Dhaka, Bangladesh, that ended 27 October. In the last three rounds the Russian-born Polish GM scored 3.0/3, which helped him to finish sole first with 7.0 out of 9. Six players followed half a point behind and shared second to seventh place. | Photo: Alina l'Ami (Archive)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/michal-krasenkow-wins-sheikh-russel-tournament-in-bangladesh",
-         "pubDate" : "Mon, 01 Nov 2021 10:32:02 +0100",
-         "title" : "Michal Krasenkow wins Sheikh Russel tournament in Bangladesh"
       }
    ]
 }
