@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " <p class=\"lead\">Prior to 2020, there was only one star in chess - Magnus Carlsen. The main plot of the chess world for years has been to sarcastically watch who out of the top players will manage to win the Candidates tournament to collect a sizable prize after losing to Carlsen again, likely on tie-breaks. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/A91CF578-89CB-47E0-870C-5296E627D7D7.jpeg\" width=\"1800\" height=\"1201\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Mark Livshitz, FIDE: Firouzja during Round 10 of the Grand Swiss in Riga</div> </div> But over the course of the pandemic, the new star appeared in such a meteoric way that the World Chess Champion",
+         "description" : " <p class=\"lead\">Prior to 2020, there was only one star in chess - Magnus Carlsen. The main plot of the chess world for years has been to sarcastically watch who out of the top players will manage to win the Candidates tournament to collect a sizable prize after losing to Carlsen again, likely on tie-breaks. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/D1AD317C-74F8-44E7-A469-8DF0E39E86E8.jpeg\" width=\"1800\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anna Shtourman, FIDE: Firouzja during Round 10 of the Grand Swiss in Riga</div> </div> But over the course of the pandemic, the new star appeared in such a meteoric way that the World Chess Champio",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/firouzja-is-number-2-in-the-world-we-just-have-to-deal-with-it/",
          "pubDate" : "Mon, 22 Nov 2021 07:06:30 +0000",
          "title" : "Firouzja Is Number 2 In the World. We Just Have to Deal With It"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> We never had so many resources and options to study and train chess as we do today. Here are some guidelines how to make the best of it. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/davorin-cover.1920.jpeg\" title=\"This article contains excerpts from the author's book How to Study Chess on Your Own. \" data-title=\"This article contains excerpts from the author's book *How to Study Chess on Your Own*.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/davorin-cover.480.jpeg\" alt=\"This article contains excerpts from the author's book How to Study Chess on Your Own.\" s",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/online-chess-training/",
+         "pubDate" : "Mon, 22 Nov 2021 07:47:55 +0100",
+         "title" : "The best ways to study chess online"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Discounts for Black Friday and Cyber Monday have started at <a href=\"https://www.chessable.com/courses/\">Chessable</a>, <a href=\"https://everymanchess.com/collections/black-friday-25\">Everyman Chess</a>, <a href=\"https://newblackfriday.com/uscf-sales-black-Friday\">USChess</a>, <a href=\"https://www.chesshouse.com/pages/black-friday-chess-deals\">Chesshouse</a>, <a href=\"https://store.chessclub.com/black-friday\">ICC</a> and probably other chess retailers. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/black-friday-sales-have-started/",
+         "pubDate" : "Mon, 22 Nov 2021 07:46:05 +0100",
+         "title" : "Black Friday sales have started"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Nick Risko continues his series on the Scotch Game or Scotch Opening. Learn Black&#039;s Nf6 response to the Scotch Gambit and the Nakhmanson Gambit. Originally on Twitch. 2021.09.27<br /> C44 Scotch gambit, Dubois-Reti defence<br /> C56 Two knights defence </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shot-scotch-3-scotch-gambit-dubois-reti-nakhmanson-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_im",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/alireza-firouzja-youngest-chess-player-ever-to-break-2800",
          "pubDate" : "Sun, 21 Nov 2021 10:51:00 -0800",
          "title" : "Alireza Firouzja Youngest Chess Player Ever To Break 2800"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> We never had so many resources and options to study and train chess as we do today. Here are some guidelines how to make the best of it. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/davorin-cover.1920.jpeg\" title=\"This article contains excerpts from the author's book How to Study Chess on Your Own. \" data-title=\"This article contains excerpts from the author's book *How to Study Chess on Your Own*.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/davorin-cover.480.jpeg\" alt=\"This article contains excerpts from the author's book How to Study Chess on Your Own.\" s",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/online-chess-training/",
-         "pubDate" : "Sun, 21 Nov 2021 19:40:10 +0100",
-         "title" : "The best ways to study chess online"
       },
       {
          "description" : " Here's a recent online rapid game I played against a lower rated opponent. I decided to play a simple opening, make simple moves, create a pawn weakness and win the ending. Exactly how I often lose when playing higher rated opponents. I made one mistake in the game, though, which you might find instructive. It's <a href=\"https://chessimprover.com/simply-does-it/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Simply Does It\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/simply-does-it/\">Simply Does It</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -336,14 +344,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/humankind.html",
          "pubDate" : "Fri, 19 Nov 2021 21:32:00 +0000",
          "title" : "Humankind"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> hired the Spanish branding agency <strong>Morillas</strong> to create the branding for the <strong>World Championship</strong> that is opening next Wednesday and has its first game on Friday. See more on the <a href=\"https://fideworldchampionship.com/\">official website</a>. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/branding-dubai.1920.jpeg\" title=\"By Morillas, Barcelona \" data-title=\"By Morillas, Barcelona\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/branding-dubai.480.jpeg\" alt=\"By Morillas, Barcelona\" srcset=\"https://www.chesstech.",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/world-championship-branding-revealed/",
-         "pubDate" : "Fri, 19 Nov 2021 22:07:41 +0100",
-         "title" : "World championship branding revealed"
       },
       {
          "description" : "",
@@ -2104,14 +2104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/michal-krasenkow-wins-sheikh-russel-tournament-in-bangladesh",
          "pubDate" : "Mon, 01 Nov 2021 10:32:02 +0100",
          "title" : "Michal Krasenkow wins Sheikh Russel tournament in Bangladesh"
-      },
-      {
-         "description" : "You've seen the program create training positions automatically, but what if you wanted to create your own? This could be to show a student, show some friends, post online, and more. The tools are all there to generate your own hand-crafted test positions for tactics, strategy, and endgames, and it is useful tool to know. Read on to learn how!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/annotating-in-chessbase-creating-training-positions",
-         "pubDate" : "Mon, 01 Nov 2021 08:51:03 +0100",
-         "title" : "Annotating in ChessBase: creating training positions"
       }
    ]
 }
