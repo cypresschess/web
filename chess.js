@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1442",
+         "pubDate" : "Sun, 21 Nov 2021 22:51:38 +0000",
+         "title" : "Ukraine and Russia win European Team Championship 2021"
+      },
+      {
          "description" : "The European Team Chess Championship 2021 successfully concluded today in Terme Catez, Slovenia. European Women's Team Chess Championship 2021 Winner and the runner-up were known before the last round of the event as Russia won the event with a round the spare, while Georgia secured second place. The final round decided only the bronze medalists. Russia defeated the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ukraine-open-and-russia-women-win-european-team-chess-championships-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2104,14 +2112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-r5",
          "pubDate" : "Mon, 01 Nov 2021 04:10:00 +0100",
          "title" : "Grand Swiss: Shirov and Najer join Firouzja in the lead"
-      },
-      {
-         "description" : " FM Albert C. Chow(January 26, 1964 October 30, 2021)Photo Karen M. Larkin (Facebook) FIDE Master Albert Chow died shortly after 5pm on Saturday, October 30, 2021. According to his friend Bill Brock, he had been diagnosed with metastatic squamous cell carcinoma (neck cancer). Chow was born on January 26, 1964, and was 57 years [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/10/31/chicago-chess-legend-fm-albert-chow-dies/\">Chicago chess legend FM Albert Chow dies</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/10/31/chicago-chess-legend-fm-albert-chow-dies/",
-         "pubDate" : "Mon, 01 Nov 2021 00:07:29 +0000",
-         "title" : "Chicago chess legend FM Albert Chow dies"
       }
    ]
 }
