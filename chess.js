@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Prior to 2020, there was only one star in chess - Magnus Carlsen. The main plot of the chess world for years has been to sarcastically watch who out of the top players will manage to win the Candidates tournament to collect a sizable prize after losing to Carlsen again, likely on tie-breaks. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/A91CF578-89CB-47E0-870C-5296E627D7D7.jpeg\" width=\"1800\" height=\"1201\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Mark Livshitz, FIDE: Firouzja during Round 10 of the Grand Swiss in Riga</div> </div> But over the course of the pandemic, the new star appeared in such a meteoric way that the World Chess Champion",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/firouzja-is-number-2-in-the-world-we-just-have-to-deal-with-it/",
+         "pubDate" : "Mon, 22 Nov 2021 07:06:30 +0000",
+         "title" : "Firouzja Is Number 2 In the World. We Just Have to Deal With It"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Nick Risko continues his series on the Scotch Game or Scotch Opening. Learn Black&#039;s Nf6 response to the Scotch Gambit and the Nakhmanson Gambit. Originally on Twitch. 2021.09.27<br /> C44 Scotch gambit, Dubois-Reti defence<br /> C56 Two knights defence </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shot-scotch-3-scotch-gambit-dubois-reti-nakhmanson-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_im",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2104,14 +2112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/annotating-in-chessbase-creating-training-positions",
          "pubDate" : "Mon, 01 Nov 2021 08:51:03 +0100",
          "title" : "Annotating in ChessBase: creating training positions"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87455368.cms\" />Indian star Dronavalli Harika drew her fifth round game against Natalija Pogonina to be placed joint second with three others on 3.5 points in the FIDE Grand Swiss chess tournament for women here.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-swiss-chess-tournament-dronavalli-harika-draws-with-natalija-pogonina/articleshow/87455368.cms",
-         "pubDate" : "Mon, 01 Nov 2021 11:45:59 +0530",
-         "title" : "FIDE Grand Swiss: Harika draws with Pogonina"
       }
    ]
 }
