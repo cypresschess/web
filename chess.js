@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, well-known Dutch trainer Robert Ris shows how the young Indian Grandmaster Arjun Erigaisi used the London System to win in only 19 moves against Sam Shankland at the Tata Steel India Tournament in Kolkata. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-grandmaster-miniature-with-the-london-system",
+         "pubDate" : "Mon, 22 Nov 2021 17:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A Grandmaster Miniature with the London System"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1443",
+         "pubDate" : "Mon, 22 Nov 2021 13:59:18 +0000",
+         "title" : "FIDE World Rapid and Blitz Championship 2021: Registration begins"
+      },
+      {
+         "description" : " <p class=\"lead\">Levon Aronian dominated at the Armageddon Playoffs against Arjun Erigaisi to win <a href=\"https://www.tatasteelchess.in\">Tata Steel Chess India 2021 Blitz</a>. Even though the winner of this tournament was a continuous battle among Nihal Sarin, Gukesh, Aronian, Parham and Arjun, the Armenian GM had luck on his side and managed to climb to the top the very last minute. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2021-11-22_16-05-23-min.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> Arjun was completely winning in both Playoff games, a fact that Aronian himself mentioned after his win",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/levon-aronian-the-big-winner-of-the-tata-steel-india-2021-blitz/",
+         "pubDate" : "Mon, 22 Nov 2021 13:12:39 +0000",
+         "title" : "Levon Aronian the big winner of the Tata Steel India 2021 Blitz"
+      },
+      {
+         "description" : " <p class=\"lead\"><a href=\"https://www.euroteamchess2021.eu\">The European Team Championship</a> has finished with Ukraine getting their first gold medals. The above the fold story of the event though is Alireza Firouzja, who secured France the second place at the event and while doing it became the youngest ever player to cross the 2800-rating barrier. He is now number 2 in world's live rankings. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/FEvU6vPX0AQeiSW-min.jpeg\" width=\"2048\" height=\"1384\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: ECU Press</div> </div> The Iranian-born French GM's performance is still baffling after his triumph at the Grand Swiss in Rig",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/firouzja-alireja-becomes-the-youngest-chess-player-to-cross-2800/",
+         "pubDate" : "Mon, 22 Nov 2021 13:00:47 +0000",
+         "title" : "Firouzja Alireja becomes the youngest chess player to cross 2800"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87851048.cms\" />Viswanathan Anand's son Akhil made his debut in a chess event at the Kolkata rapid and blitz competition that concluded at the iconic National Library building here on Sunday. Like his father, he did not participate in the meet, but rather he got the first feel of an over-the-board tournament by witnessing the matches from the spectator's stand.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anands-son-makes-chess-debut-in-kolkata/articleshow/87851048.cms",
+         "pubDate" : "Mon, 22 Nov 2021 17:57:39 +0530",
+         "title" : "Viswanathan Anand's son makes chess debut in Kolkata"
+      },
+      {
          "description" : "As a chess player, Alexander Alekhine (pictured) was brilliant, but his biography contains a number of dark spots. In particular, his proximity to the Nazis has damaged the reputation of the fourth world champion. The Swiss historian and chess player Dr. Christian Rohrer wanted to find out how and to what extent Alekhine supported the Nazis, and he published his findings in an online article titled \"World chess champion and favourite of Hans Frank?: assessing Alexander Alekhine's closeness to the National Socialist regime\". Detailed, fascinating and well worth reading.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2096,30 +2136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1410",
          "pubDate" : "Mon, 01 Nov 2021 20:52:37 +0000",
          "title" : "FIDE Chess.com Grand Swiss: Round 6 Recap"
-      },
-      {
-         "description" : "Pawn races are often fun because every tempo counts and such pawn races can often turn into a mating attack when the pawn queens. In the Endgame Magic Show #168 Karsten and Arne look at some recent examples of entertaining pawn races. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-168-pawn-races",
-         "pubDate" : "Mon, 01 Nov 2021 17:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic #168: Pawn races"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess has issued a limited edition tea set with pixelated chess kings (and some gold), and everyone on Instagram seems to like it. After all, what's not to like? <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> From the outset, World Chess has been on the mission to make chess beatiful again, starting with the design of the playing venues to the chess events logos and merchandise. This time, we stepped into the unchartered territory of tea sets and designed and produced a chess tea set, made of porcelain. The set contains five items - a cup, saucer, teapot, sugar bowl, and creamer. On th",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/everyone-is-going-crazy-for-this-tea-set/",
-         "pubDate" : "Mon, 01 Nov 2021 15:24:19 +0000",
-         "title" : "Tea Set That the Chess Players Deserve"
-      },
-      {
-         "description" : "The FIDE published its new rating list. Magnus Carlsen remains number one and is now the only player with 2800+. Fabiano Caruana lost a couple of points in the US Championship and is now below 2800 and the world's number three, behind Ding Liren. Hou Yifan does not play often but remains the world's best women. Best junior is Alireza Firouzja, best girl Polina Shuvalova.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-new-rating-list-carlsen-is-the-only-2800-players",
-         "pubDate" : "Mon, 01 Nov 2021 16:04:05 +0100",
-         "title" : "The new rating list: Carlsen is the only 2800+ player"
       }
    ]
 }
