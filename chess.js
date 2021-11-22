@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #171 Karsten M&uuml;ller invites the Austrian author, trainer, and organiser IM Harald Schneider-Zinner to show some of his most interesting endgames. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-171-with-harald-schneider-zinner",
+         "pubDate" : "Mon, 22 Nov 2021 19:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic Show #171: With Harald Schneider-Zinner"
+      },
+      {
+         "description" : "The UK's favourite chess festival, the London Chess Classic, organised by the charity Chess in Schools and Communities (CSC), is back for its 12th edition on December 3-12, 2021 at a brand new venue, the Cavendish Conference Centre in central London. Due to limitations on numbers imposed by Covid, the festival will look a little different this year - but the organisers are sure that chess fans will like the fantastic range of events on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2021",
+         "pubDate" : "Mon, 22 Nov 2021 18:00:00 +0100",
+         "title" : "London Chess Classic 2021"
+      },
+      {
+         "description" : "Running over five Monday evenings from 7.00pm to 9.00pm 7th February; 14th February; 21st February; 28th February; 7th March, with a course fee of...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/level-1-arbiter-course-february-2022/",
+         "pubDate" : "Mon, 22 Nov 2021 16:55:43 +0000",
+         "title" : "Level 1 Arbiter Course February 2022"
+      },
+      {
          "description" : "This week, well-known Dutch trainer Robert Ris shows how the young Indian Grandmaster Arjun Erigaisi used the London System to win in only 19 moves against Sam Shankland at the Tata Steel India Tournament in Kolkata. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,6 +184,14 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/firouzja-breaks-record-but-ukraine/",
          "pubDate" : "Sun, 21 Nov 2021 21:30:56 +0100",
          "title" : "Firouzja breaks record, but Ukraine takes gold"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1444",
+         "pubDate" : "Sun, 21 Nov 2021 19:55:25 +0000",
+         "title" : "Madagascar Championship: Heritiana Andrianiaina and Faratiana Raharimanana clinch titles"
       },
       {
          "description" : "Schedule &#38; Regulation National Arbiter (NA) Seminar The National Arbiter seminar is a training session for Arbiters of National level (NA) . NA Seminar Duration",
