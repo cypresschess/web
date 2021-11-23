@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2021 FIDE World Championship is quickly approaching and everyone is anxiously waiting for the first move of what could be one of the most thrilling matches in history. While you wait for the games to start, why not play chess with challenger G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-chess-against-the-nepomniachtchi-and-caruana-bots",
+         "pubDate" : "Mon, 22 Nov 2021 13:13:00 -0800",
+         "title" : "Play Chess Against Nepomniachtchi And Caruana Bots"
+      },
+      {
          "description" : "In the Endgame Magic Show #171 Karsten M&uuml;ller invites the Austrian author, trainer, and organiser IM Harald Schneider-Zinner to show some of his most interesting endgames. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1930,14 +1938,6 @@ news_feed (
          "title" : "FIDE Chess.com Grand Swiss R8: Firouzja Increases Lead, Now World #4"
       },
       {
-         "description" : "GM Ian Nepomniachtchi will be the challenger for the 2021 FIDE World Championship Match which begins on November 24. Chess.com is his official chess sponsor, and we were able to catch up with him for this interview. You can watch the video below...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ian-nepomniachtchi-interview-chess",
-         "pubDate" : "Thu, 04 Nov 2021 07:00:00 -0700",
-         "title" : "Ian Nepomniachtchi Discusses The World Championship, Intuition, And More"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2152,22 +2152,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-chess-tourney-indian-gm-sasikiran-among-leaders-after-sixth-round/articleshow/87479630.cms",
          "pubDate" : "Tue, 02 Nov 2021 10:34:17 +0530",
          "title" : "FIDE Grand Swiss : K Sasikiran among leaders after sixth round"
-      },
-      {
-         "description" : "The semi- finals both take place on Sunday 16th January; North - Nottingham High School; South - St Catherine's School, Bramley Entry fee &pound;10.00 per...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/girls-national-schools-chess-championship-2022/",
-         "pubDate" : "Mon, 01 Nov 2021 23:00:08 +0000",
-         "title" : "Girls' National Schools Chess Championship 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1410",
-         "pubDate" : "Mon, 01 Nov 2021 20:52:37 +0000",
-         "title" : "FIDE Chess.com Grand Swiss: Round 6 Recap"
       }
    ]
 }
