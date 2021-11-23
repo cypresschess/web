@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White has a good knight against a bad bishop. But can he win? And if so, how?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/good-knight-vs-bad-bishop",
+         "pubDate" : "Tue, 23 Nov 2021 09:00:00 +0100",
+         "title" : "Good knight vs bad bishop"
+      },
+      {
          "description" : "After staging the highly successful man-vs-machine match Garry Kasparov vs X3D Fritz, the ever enterprising Armand Rousso launched a search engine, intended to challenge the supremacy of Google. The launch of \"Accoona\" in New York in 2004 had a glittering array of special guests (Kasparov, Bill Clinton). The next year Armand did a second publicity event, this time pitting the latest version of Fritz against the newly crowned FIDE World Champion Rustam Kasimdzhanov.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2144,14 +2152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-crazy-position",
          "pubDate" : "Tue, 02 Nov 2021 11:00:00 +0100",
          "title" : "A crazy position!"
-      },
-      {
-         "description" : "Pawn endings are often tricky and must be calculated carefully. In the diagram position it is Black to move and he can win with precise play. How should he proceed?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-right-way",
-         "pubDate" : "Tue, 02 Nov 2021 09:00:00 +0100",
-         "title" : "The right way"
       }
    ]
 }
