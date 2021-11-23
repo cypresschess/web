@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The first game of the <a href=\"https://fideworldchampionship.com/\">2021 World Chess Championship Match</a> is on Friday 26th November, at 11:30pm Canberra time. For this match there will be a maximum of 14 games, followed by tie-breaks if necessary. It runs until the 16th of December, with rest days every 2 or 3 rounds. As with most World Championship Matches I usually give a prediction before the start. Looking back at some old posts I did predict Anand beating Kramnik in 2008 (and winning the World Championship tournament in 2007). Since Carlsen became a challenger and then World Champion, I have usually played it safe and predicted a Carlsen win by 2 points. This means I have got the win",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/11/2021-world-chess-championship-my.html",
+         "pubDate" : "Tue, 23 Nov 2021 11:49:00 +0000",
+         "title" : "2021 World Chess Championship - My fearless prediction"
+      },
+      {
+         "description" : " &#8220;You always admire what you really don't understand&#8221; Blaise Pascal The chess study I posted at the end of my last column was composed by Alexander Herbstman (April 10, 1900 May 22, 1982). According to his biography: &#8220;Herbstman composed 350 studies during his long career and was among the 6 composers who were awarded <a href=\"https://chessimprover.com/the-great-ones-6/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Great Ones (6)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-great-ones-6/\">The Great Ones (6)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/the-great-ones-6/",
+         "pubDate" : "Tue, 23 Nov 2021 09:30:53 +0000",
+         "title" : "The Great Ones (6)"
+      },
+      {
+         "description" : "\"If I knew how to beat Magnus I would have done it myself!\" quipped Vishy Anand, as he called Magnus Carlsen a \"huge favourite\" to win the World Championship match against Ian Nepomniachtchi in Dubai. The 15th World Champion nevertheless feels Ian has a tactical style that can hurt Magnus, while the 14th World Champion Vladimir Kramnik pointed out how important the early games will be for the Challenger.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/anand-and-kramnik-on-carlsen-nepomniachtchi",
+         "pubDate" : "Tue, 23 Nov 2021 08:38:22 +0000",
+         "title" : "Anand and Kramnik on Carlsen-Nepomniachtchi"
+      },
+      {
          "description" : "In the diagram position White has a good knight against a bad bishop. But can he win? And if so, how?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1730,14 +1754,6 @@ news_feed (
          "title" : "Lindores Abbey Blitz in honour of Mikhail Tal's 85th birthday"
       },
       {
-         "description" : "Alireza Firouzja needs just a draw in the final round of the FIDE Chess.com Grand Swiss to guarantee a spot in the 2022 Candidates Tournament after winning a thriller against David Howell. The only other players with their fate in their own hands are his last-round opponent Grigoriy Oparin, who will qualify with a win, and Fabiano Caruana, who also needs a win over Alexandr Predke to be certain of the Candidates, though a draw would probably be enough. Lei Tingjie made no mistake as she drew against Mariya Muzychuk to clinch the women's title, $20,000 and a place in the Women's Candidates.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/grand-swiss-10-firouzja-a-draw-away-from-candidates",
-         "pubDate" : "Sun, 07 Nov 2021 10:01:16 +0000",
-         "title" : "Grand Swiss 10: Firouzja a draw away from the Candidates"
-      },
-      {
          "description" : "Alireza Firouzja beat David Howell to reclaim the sole lead in the open section of the FIDE Chess.com Grand Swiss. Two players stand a half point back before the last round - Fabiano Caruana and Grigoriy Oparin. Lei Tingjie secured tournament victory in the women's section with a round to spare. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2128,30 +2144,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/2/episode-250-fm-asa-hoffman",
          "pubDate" : "Tue, 02 Nov 2021 13:07:20 +0000",
          "title" : "Episode 250- FM Asa Hoffmann"
-      },
-      {
-         "description" : " Face to face chess is back in Canberra, and tonight was the first week back for the Gungahlin Chess Club. There was a healthy turnout of 20 players, and I assume that this number will grow during the rest of the year. The last game to finish was a tricky king and pawn ending that had me fooled as a spectator. At first glance it seemed that White was clearly winning (due to an outside passed pawn), and when Black managed to draw the position, my first thought was that White went wrong somewhere. But when I fed it into Fritz, it turned out that the position was drawn all along. I thought White could gain a tempo somewhere, but not matter what he did, Black was able to trap the White king on t",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/this-one-fooled-me.html",
-         "pubDate" : "Tue, 02 Nov 2021 12:23:00 +0000",
-         "title" : "This one fooled me"
-      },
-      {
-         "description" : "Patrick Bet-David, CEO of Valuetainment, sits down with Garry Kasparov, in what was easily one of the best interviews by the former world champion in years. He candidly discusses topics such as chess today compared to his day, AI and why it is not the boogeyman, politics, Putin, the US, and truth. \"I'm not a politician, I'm not running for office; I won't waffle, I won't duck.\" And he didn't.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/garry-kasparov-discusses-chess-ai-business-strategy-politics-and-truth",
-         "pubDate" : "Tue, 02 Nov 2021 12:45:00 +0100",
-         "title" : "Garry Kasparov discusses chess, AI, business strategy, politics, and truth"
-      },
-      {
-         "description" : "One highlight of each issue of the ChessBase Magazine is \"The Analysis\", a deeply analysed, particularly interesting game, selected from the many annotated and interesting games in every issue. Not an easy task - just take a look at the list of authors who contributed analyses to CBM #204: Anton Demchenko, Romain Edouard, Viktor Erdos, Alireza Firouzja, Daniel Fridman, Anish Giri, Nils Grandelius, Niclas Huschenbeth, Maxime Lagarde, David Navara, Peter Heine Nielsen, Alexey Sarana, Ivan Saric, Hedinn Steingrimsson, Rasmus Svane and Vidit! This time, the game Mamedov-Lagarde from the European Individual Championship 2021, was chosen. Take a look at the diagram position after 14...Ke6, and you",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-crazy-position",
-         "pubDate" : "Tue, 02 Nov 2021 11:00:00 +0100",
-         "title" : "A crazy position!"
       }
    ]
 }
