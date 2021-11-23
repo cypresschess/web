@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">LogiQ Board - A resource for chess and games instruction</strong> <strong>Webinar, <time datetime='2021-12-13T18:00:00' itemprop=\"startDate\">Mon 13 Dec 2021, 18.00</time>-<time datetime='2021-12-13T19:00:00' itemprop=\"endDate\">19.00</time> h UTC<span class=\"timezone\">+0100</span><br> <span itemprop='location'><a href=\"https://zoom.us\">Zoom</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> Organiser: <a href=\"https://www.chesstech.org\">ChessTech</a> <a href=\"https://app.tickettailor.com/event/1105664\">Further informatio",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://app.tickettailor.com/event/1105664",
+         "pubDate" : "Tue, 23 Nov 2021 15:47:01 +0100",
+         "title" : "LogiQ Board - A resource for chess and games instruction"
+      },
+      {
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">8x8 - Other Strategy Games on the Chess Board</strong> <strong>Webinar, <time datetime='2021-12-02T18:00:00' itemprop=\"startDate\">Thu 02 Dec 2021, 18.00</time>-<time datetime='2021-12-02T19:30:00' itemprop=\"endDate\">19.30</time> h UTC<span class=\"timezone\">+0100</span><br> <span itemprop='location'><a href=\"https://zoom.us\">Zoom</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> Organiser: <a href=\"https://www.chesstech.org\">ChessTech</a> <a href=\"https://app.tickettailor.com/event/1105645\">Further information about <st",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://app.tickettailor.com/event/1105645",
+         "pubDate" : "Tue, 23 Nov 2021 15:45:25 +0100",
+         "title" : "8x8 - Other Strategy Games on the Chess Board"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1445",
+         "pubDate" : "Tue, 23 Nov 2021 14:38:11 +0000",
+         "title" : "FIDE World Championship Dubai 2021: Preview"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ee4bc561-c26c-4ff5-9022-0007c786a351/Tai3.png\" data-image-dimensions=\"1341x672\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"619cebc196a05b756f095c42\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ee4bc561-c26c-4ff5-9022-0007c786a351/Tai3.png?format=1000w\" /> </figure> <p class=\"\"><br><br> <p class=\"\">My guest for Part 2 of the World Chess Championship preview is chess blogger Tai Pruce Zimmerman. Tai is an accountant by training, who created the excellent <e",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/23/episode-254-world-championship-preview-part-2-with-tai-pruce-zimmerman",
+         "pubDate" : "Tue, 23 Nov 2021 13:27:40 +0000",
+         "title" : "Episode 254- World Championship Preview Part 2 with Tai Pruce Zimmerman "
+      },
+      {
+         "description" : "Chess in Schools and Communities is happy to announce that the London Chess Classic will be going ahead this year, with a varied programme of events taking place from 3-12 December at the Cavendish Centre in central London. Due to the ongoing Coronavirus pandemic,&#160;we will be welcoming a smaller number&#160;of participants than usual, and entry will be on&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/london-chess-classic-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/london-chess-classic-2021/",
+         "pubDate" : "Tue, 23 Nov 2021 13:27:16 +0000",
+         "title" : "London Chess Classic 2021"
+      },
+      {
+         "description" : "With three days to go until the 2021 FIDE World Championship match, the chess world can&#39;t wait until GM Magnus Carlsen and GM Ian Nepomniachtchi finally sit down at the board on Friday in Dubai. The big question&#38;mdash;who is going to win?&#38;mdash;is...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-nepomniachtchi-predictions",
+         "pubDate" : "Tue, 23 Nov 2021 05:06:00 -0800",
+         "title" : "Carlsen-Nepomniachtchi: Predictions"
+      },
+      {
+         "description" : "On Friday, 26 November 2021, at 16:30 local time (13:30 CET, 7:30 ET, 12:30 UTC), the first game of the World Championship match between defending champion Magnus Carlsen and challenger Ian Nepomniachtchi will begin in Dubai. But who will win the match - World Champion Carlsen, since July 2011 the world's number one and with a current Elo rating of 2855 the nominal favourite, or challenger Nepomniachtchi, who currently has an Elo rating of 2782 and is the world's number five, but may not yet have realised his full potential? What do you think? | Photo: Carlsen and Nepomniachtchi at the Norway Chess Tournament 2021 | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-or-nepomniachtchi-who-will-win",
+         "pubDate" : "Tue, 23 Nov 2021 13:39:45 +0100",
+         "title" : "Carlsen or Nepomniachtchi - Who will win?"
+      },
+      {
          "description" : " The first game of the <a href=\"https://fideworldchampionship.com/\">2021 World Chess Championship Match</a> is on Friday 26th November, at 11:30pm Canberra time. For this match there will be a maximum of 14 games, followed by tie-breaks if necessary. It runs until the 16th of December, with rest days every 2 or 3 rounds. As with most World Championship Matches I usually give a prediction before the start. Looking back at some old posts I did predict Anand beating Kramnik in 2008 (and winning the World Championship tournament in 2007). Since Carlsen became a challenger and then World Champion, I have usually played it safe and predicted a Carlsen win by 2 points. This means I have got the win",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -226,7 +282,7 @@ news_feed (
          "title" : "Ukraine and Russia win European Team Championship 2021"
       },
       {
-         "description" : "The European Team Chess Championship 2021 successfully concluded today in Terme Catez, Slovenia. European Women's Team Chess Championship 2021 Winner and the runner-up were known before the last round of the event as Russia won the event with a round the spare, while Georgia secured second place. The final round decided only the bronze medalists. Russia defeated the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ukraine-open-and-russia-women-win-european-team-chess-championships-2021/\">Read More &#187;</a></span>",
+         "description" : "The European Team Chess Championship 2021 successfully concluded today in Terme Catez, Slovenia. The Closing ceremony of the event took place on Sunday, 21st of November, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, ECU Honorary President Mr. Boris Kutin, President of Slovenian Parliament Mr. Igor Zorcic, President of Slovenian Chess Federation Mr. Milan Brglez, and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ukraine-open-and-russia-women-win-european-team-chess-championships-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ukraine-open-and-russia-women-win-european-team-chess-championships-2021/",
@@ -930,6 +986,14 @@ news_feed (
          "title" : "Collegiate Chess League: The Finals"
       },
       {
+         "description" : " From the publisher's blurb: In 1930s British India, a humble servant learns the art of chaturanga, the ancient Eastern ancestor of chess. His natural talent soon catches the attention of the maharaja, who introduces him to the Western version of the game. Brought to England as the prince's pawn, Malik becomes a chess legend, winning <a href=\"http://britishchessnews.com/2021/11/16/game-of-the-gods/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Game of the Gods</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/11/16/game-of-the-gods/\">Game of the Gods</a> appeared first on <a rel=\"nofollow\" href=\"http://br",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/11/16/game-of-the-gods/",
+         "pubDate" : "Tue, 16 Nov 2021 19:25:03 +0000",
+         "title" : "Game of the Gods"
+      },
+      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent talks about the European Team Championships. The game of the day is Giri-Saric from round 3. The Dutch number 1 is in great form and currently on +3. His game against Saric an exceptional display of the power of the two bishops. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1416,14 +1480,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1428",
          "pubDate" : "Wed, 10 Nov 2021 15:36:47 +0000",
          "title" : "Fysiolatris' Nikaia wins Greek Team Championship"
-      },
-      {
-         "description" : "The European Team Chess Championship 2021 opens tomorrow in Terme Catez, Slovenia. 39 teams coming from 38 European federations registered for the Open event, while the Women's Championship features 31 teams coming from 30 federations. European Team Chess Championship 2021 battlefield is led by teams of: Russia (Average rating of players 2720), Azerbaijan (Average rating of players 2717),&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-opens-tomorrow/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-team-chess-championship-2021-opens-tomorrow/",
-         "pubDate" : "Wed, 10 Nov 2021 15:09:26 +0000",
-         "title" : "European Team Chess Championship 2021 opens tomorrow"
       },
       {
          "description" : "With the regular season over, the teams&#39; standings have been finalized, and the playoff brackets have been set. The playoffs are finally here, and teams will fight for their share of the $25,000 prize pool. Be sure to tune in and watch the ultimat...",
@@ -1970,14 +2026,6 @@ news_feed (
          "title" : "FIDE Chess.com Grand Swiss: Round 8 Recap"
       },
       {
-         "description" : "GM Alireza Firouzja is getting very close to qualifying for the 2022 Candidates Tournament. The 18-year-old French star won again in round eight of the FIDE Chess.com Grand Swiss and is now a point ahead of the pack, with no fewer than 10 players ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-round-8-firouzja",
-         "pubDate" : "Thu, 04 Nov 2021 13:38:00 -0700",
-         "title" : "FIDE Chess.com Grand Swiss R8: Firouzja Increases Lead, Now World #4"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2120,30 +2168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1409",
          "pubDate" : "Tue, 02 Nov 2021 16:50:42 +0000",
          "title" : "World Team Championship 2022 - Call for bids"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1412",
-         "pubDate" : "Tue, 02 Nov 2021 16:29:53 +0000",
-         "title" : "FIDE Online Cadets & Youth Rapid Grand Prix Series gets underway"
-      },
-      {
-         "description" : " From the publisher: &#8220;Street Smart Chess is an expert guide to scoring more points at the chessboard. When does it pay off to play hard for a win? Or safe for a draw? And how do you adapt your playing style accordingly? GM Axel Smith answers these questions, and more, by using a world-class player <a href=\"http://britishchessnews.com/2021/11/02/street-smart-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Street Smart Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/11/02/street-smart-chess/\">Street Smart Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">Bri",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/11/02/street-smart-chess/",
-         "pubDate" : "Tue, 02 Nov 2021 16:22:43 +0000",
-         "title" : "Street Smart Chess"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ec15eb2b-1873-43d3-ab38-0bd98beb12b1/Asa.jpg\" data-image-dimensions=\"2048x1365\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"618136afea0fdf35f5d4a476\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ec15eb2b-1873-43d3-ab38-0bd98beb12b1/Asa.jpg?format=1000w\" /> </figure> <p class=\"\">FM Asa Hoffman with his wife Virginia at the Marshall Chess Club <p class=\"\">This week FM Asa Hoffman joins us for an interesting talk. Asa is an author, speed chess specialist, and ",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/2/episode-250-fm-asa-hoffman",
-         "pubDate" : "Tue, 02 Nov 2021 13:07:20 +0000",
-         "title" : "Episode 250- FM Asa Hoffmann"
       }
    ]
 }
