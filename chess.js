@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent talks about Alireza Firouzja's historic performance at the European Team Championships, and looks at Firouzja's masterpiece game against Shakhriyar Mamedyarov which secured him the record of the youngest player ever to reach a rating of 2800+ and made him the world's number two on the live-rating list. Lawrence will also cover the Tata Steel India Tournament and talk about the upcoming World Championship match. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-4",
+         "pubDate" : "Tue, 23 Nov 2021 17:30:00 +0100",
+         "title" : "The Weekly Show"
+      },
+      {
+         "description" : " The FIDE World Chess Championship takes place in Dubai, UAE, 24th November (opening ceremony - game 1 on 26th Nov) until 16th December. The match is between World Champion Magnus Carlsen and his Challenger Ian Nepomniachtchi. The match will be over 14 games rather than the recent 12 and uses an accelerated schedule to accommodate this - a final day of rapid and blitz tie-breaks will take place on 15th December in the event of a 7-7 tie. Nepomniachtchi will not compete under the Russian flag due to WADA sporting sanctions against Russia because of their state sponsored doping program. Both players were born in 1990 - Nepomniachtchi is the slightly older - born 14th July - Carlsen will have h",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021",
+         "pubDate" : "Tue, 23 Nov 2021 19:45:00 +0400",
+         "title" : "World Chess Championship 2021 - Games and Results"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> If you teach chess for educational motives, you should know about simpler games on the chess board and how to introduce them to your students. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/chessboard-9.1920.jpeg\" title=\"At Lines of Action a piece moves in any direction by exactly as many squares as there are pieces on this file, rank or diagonal. You can capture enemy pieces. You can jump over your own but never over enemy pieces. The first player to connect all pieces on adjacent squares wins. Created with LogiQBoard.com\" data-title=\"At Lines of Action a piece moves in any direction by ex",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/other-games-on-64-squares/",
+         "pubDate" : "Tue, 23 Nov 2021 16:39:08 +0100",
+         "title" : "Other games on 64 squares"
+      },
+      {
          "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">LogiQ Board - A resource for chess and games instruction</strong> <strong>Webinar, <time datetime='2021-12-13T18:00:00' itemprop=\"startDate\">Mon 13 Dec 2021, 18.00</time>-<time datetime='2021-12-13T19:00:00' itemprop=\"endDate\">19.00</time> h UTC<span class=\"timezone\">+0100</span><br> <span itemprop='location'><a href=\"https://zoom.us\">Zoom</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> Organiser: <a href=\"https://www.chesstech.org\">ChessTech</a> <a href=\"https://app.tickettailor.com/event/1105664\">Further informatio",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -434,14 +458,6 @@ news_feed (
          "title" : "2021 ACT Interschool Finals"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>French Chess Federation</strong> has created a commission \"Sant&eacute; Social Handicap\" led by <a href=\"https://www.linkedin.com/in/franck-droin-95a5991/\"><strong>Franck Droin</strong></a>, a business consultant specializing in strategy and health. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/french-federation-embraces-social/",
-         "pubDate" : "Sun, 21 Nov 2021 12:05:05 +0100",
-         "title" : "French federation embraces social uses of chess"
-      },
-      {
          "description" : "Records keep tumbling when Arjun Erigaisi plays tournaments. The 18-year-old continues his brilliant momentum in Blitz as he scored an unbeaten 6&frac12;/9 to gain sole lead. He is the only player who remained undefeated for nine rounds of Blitz. His total unbeaten streak is at 16 games now at Tata Steel Chess India 2021. That's not all: he has climbed to World no.14 and India no.2 in Blitz in the live ratings. Aronian is once again in pursuit of Arjun as he is just a half point behind him at 6/9. They will face each other in the 14th round. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -488,14 +504,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-good-outcome-to-face-nepo-not-fabi-or-ding",
          "pubDate" : "Sat, 20 Nov 2021 17:21:59 +0000",
          "title" : "Carlsen: \"Good outcome\" to face Nepo not Fabi or Ding"
-      },
-      {
-         "description" : " The FIDE World Chess Championship takes place in Dubai, UAE, 24th November (opening ceremony - game 1 on 26th Nov) until 16th December. The match is between World Champion Magnus Carlsen and his Challenger Ian Nepomniachtchi. The match will be over 14 games rather than the recent 12 and uses an accelerated schedule to accommodate this - a final day of rapid and blitz tie-breaks will take place on 15th December in the event of a 7-7 tie. Nepomniachtchi will not compete under the Russian flag due to WADA sporting sanctions against Russia because of their state sponsored doping program. Both players were born in 1990 - Nepomniachtchi is the slightly older - born 14th July - Carlsen will have h",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021",
-         "pubDate" : "Sat, 20 Nov 2021 20:50:00 +0400",
-         "title" : "World Chess Championship 2021 - Games and Results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87822112.cms\" />It was a little surprising that Arjun Erigaisi did not feature in the initial list of players for the blitz section of the Kolkata rapid and blitz meet after his super show at the Lindores Abbey Blitz tournament in the Latvian capital of Riga earlier this month.",
@@ -2136,38 +2144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fabiano-caruana-talks-about-carlsen-nepomniachtchi-and-the-world-championship",
          "pubDate" : "Wed, 03 Nov 2021 09:00:00 +0100",
          "title" : "Fabiano Caruana talks about Carlsen, Nepomniachtchi and the World Championship"
-      },
-      {
-         "description" : " &#8220; Weak points still more, however, strong points in brief, all the points that we can be grouped together under the collective concept &#8220;strategically important points&#8221;, must be over-protected&#8221; A Nimzowitsch, My System The above quote summarizes the idea of &#8220;prophylaxis to the inside&#8221; as described by Nimzowitsch. This covers anything that we <a href=\"https://chessimprover.com/prophylaxis/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Prophylaxis\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/prophylaxis/\">Prophylaxis</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/prophylaxis/",
-         "pubDate" : "Tue, 02 Nov 2021 20:21:38 +0000",
-         "title" : "Prophylaxis"
-      },
-      {
-         "description" : "Endgame specialist Kasten M&uuml;ller continues to find instructive examples from the FIDE Chess.com Grand Swiss. The players are having a rest on Tuesday, so it is a good opportunity to find answers to a few technical questions: when to exchange down into a winning pawn endgame, how to defend with a bishop against a rook or how to handle an ending with bishops of opposite colours. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/technique-matters-endgames-from-riga",
-         "pubDate" : "Tue, 02 Nov 2021 20:00:00 +0100",
-         "title" : "When technique matters - Endgame analyses from Riga"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1411",
-         "pubDate" : "Tue, 02 Nov 2021 17:38:30 +0000",
-         "title" : "November rating list: Vachier-Lagrave returns to top-10"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1409",
-         "pubDate" : "Tue, 02 Nov 2021 16:50:42 +0000",
-         "title" : "World Team Championship 2022 - Call for bids"
       }
    ]
 }
