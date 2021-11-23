@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After staging the highly successful man-vs-machine match Garry Kasparov vs X3D Fritz, the ever enterprising Armand Rousso launched a search engine, intended to challenge the supremacy of Google. The launch of \"Accoona\" in New York in 2004 had a glittering array of special guests (Kasparov, Bill Clinton). The next year Armand did a second publicity event, this time pitting the latest version of Fritz against the newly crowned FIDE World Champion Rustam Kasimdzhanov.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/thirty-years-happy-birthday-fritz-4",
+         "pubDate" : "Tue, 23 Nov 2021 05:46:45 +0100",
+         "title" : "Thirty years! Happy Birthday Fritz (4)"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87861342.cms\" />Viswanathan Anand is all for unpredictability in Indian sports. The five-time world chess champion believes in having a system, but at the same time he does not feel that champions are produced only through it.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -58,12 +66,12 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Championship 2021: Registration begins"
       },
       {
-         "description" : " <p class=\"lead\">Levon Aronian dominated at the Armageddon Playoffs against Arjun Erigaisi to win <a href=\"https://www.tatasteelchess.in\">Tata Steel Chess India 2021 Blitz</a>. Even though the winner of this tournament was a continuous battle among Nihal Sarin, Gukesh, Aronian, Parham and Arjun, the Armenian GM had luck on his side and managed to climb to the top the very last minute. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2021-11-22_16-05-23-min.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> Arjun was completely winning in both Playoff games, a fact that Aronian himself mentioned after his win",
+         "description" : " <p class=\"lead\">Just like in the old times, Levon Aronian dominated at the Armageddon Playoffs and won <a href=\"https://www.tatasteelchess.in\">Tata Steel Chess India 2021 Blitz</a>. The Armenian GM, who conspicuously missed from the latest headlines, managed to win the strong tournament on tie-breaks. Thank you Levon, we missed you! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2021-11-22_16-05-23-min.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> Arjun was completely winning in both Playoff games, a fact that Aronian himself mentioned after his win: \"Of course I was very lucky to be able to play in ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/levon-aronian-the-big-winner-of-the-tata-steel-india-2021-blitz/",
          "pubDate" : "Mon, 22 Nov 2021 13:12:39 +0000",
-         "title" : "Levon Aronian the big winner of the Tata Steel India 2021 Blitz"
+         "title" : "Levon Aronian Is Still a Fantastic Chess Player, In Case You've Forgotten"
       },
       {
          "description" : " <p class=\"lead\"><a href=\"https://www.euroteamchess2021.eu\">The European Team Championship</a> has finished with Ukraine getting their first gold medals. The above the fold story of the event though is Alireza Firouzja, who secured France the second place at the event and while doing it became the youngest ever player to cross the 2800-rating barrier. He is now number 2 in world's live rankings. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/FEvU6vPX0AQeiSW-min.jpeg\" width=\"2048\" height=\"1384\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: ECU Press</div> </div> The Iranian-born French GM's performance is still baffling after his triumph at the Grand Swiss in Rig",
@@ -2144,22 +2152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-right-way",
          "pubDate" : "Tue, 02 Nov 2021 09:00:00 +0100",
          "title" : "The right way"
-      },
-      {
-         "description" : "After six rounds, the participants of the FIDE Chess.com Grand Swiss will get a rest day on Tuesday. In the open section, five players are tied atop the standings on 4&frac12;/6 points, with Maxime Vachier-Lagrave and Krishnan Sasikiran (pictured) the latest to have joined the leading pack. Among the women, Lei Tingjie reclaimed sole first place by beating Jolanta Zawadzka. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r6",
-         "pubDate" : "Tue, 02 Nov 2021 06:25:00 +0100",
-         "title" : "Grand Swiss: MVL and Sasikiran win, join the lead"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87479630.cms\" />Indian Grandmaster K Sasikiran defeated Alexandr Predke of Russia in the sixth round of the open event at the FIDE Grand Swiss chess tournament to grab a share of the lead with four others.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-chess-tourney-indian-gm-sasikiran-among-leaders-after-sixth-round/articleshow/87479630.cms",
-         "pubDate" : "Tue, 02 Nov 2021 10:34:17 +0530",
-         "title" : "FIDE Grand Swiss : K Sasikiran among leaders after sixth round"
       }
    ]
 }
