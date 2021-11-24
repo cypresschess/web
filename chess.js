@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">The Press Conference of the Match between the reigning World Champion, Magnus Carlsen, and the 2021 Challenger Ian Nepomniachtchi is over and the two GMs seemed quite uninterested, but still firm to their answers. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6467951.jpg\" width=\"1020\" height=\"650\" alt=\"\" /> <div class=\"e2-text-caption\">EPA-EFE / ALI HAIDER</div> </div> Only 2 days before their first game, Carlsen stated: \"Ian's style is quite aggressive compared to my previous rivals in the title match. I think this will differ from my previous matches for the crown.\" Nepomniachtchi noted that he doesn't care what color pieces to start the matc",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/carlsen-ians-style-is-quite-aggressive/",
+         "pubDate" : "Wed, 24 Nov 2021 12:27:43 +0000",
+         "title" : "Carlsen: \"Ian's style is quite aggressive\""
+      },
+      {
+         "description" : " Fully focusing on Chess for a year or two is a dream many Chess lovers have. In the past couple of months, I have gotten many questions as to how I would structure such a year. In this article, I will try to answer that question. Planning the year right will set you up for [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/a-year-full-of-chess/\">A Year Full Of Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/a-year-full-of-chess/",
+         "pubDate" : "Wed, 24 Nov 2021 11:40:50 +0000",
+         "title" : "A Year Full Of Chess"
+      },
+      {
+         "description" : "After 30 years, chess programs are now gradually reaching a level at which one can reasonably play against them. With Fritz 18 you have an unprecedented opportunity to train and learn sharp openings, helping you master the tactical motifs that are otherwise invisible in the 'prefect play' of normal computer games. Fritz 18 will even help you set up tactical tricks and sacrifices for you to deliver!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/learn-sharp-openings-with-fritz-2",
+         "pubDate" : "Wed, 24 Nov 2021 11:30:00 +0100",
+         "title" : "Learn sharp openings with Fritz 18"
+      },
+      {
+         "description" : "Hon'ble President of India Shri Ram Nath Kovind presented Ati Vishisht Seva Medal to Chess Player and patron of Indian Chess Air Vice Marshal Jonnalagadda",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-air-vice-marshal-jonnalagadda-rajendra/",
+         "pubDate" : "Wed, 24 Nov 2021 10:05:03 +0000",
+         "title" : "Congratulations Air Vice Marshal Jonnalagadda Rajendra"
+      },
+      {
          "description" : " Share! For three years, the chess world has anticipated the next competitor for World Champion Magnus Carlsen. So much has happened in this time including the rise of Alireza Firouzja, who recently eclipsed the 2800 mark. Firoujza changed his federation from Iran to Paris and is billed as a future contender for the crown. That [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/24/world-championship-2021-kicks-off-in-a-few-days/\">World Championship 2021 kicks off in a few days!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1218,14 +1250,6 @@ news_feed (
          "title" : "European Rapid&Blitz Chess Championship 2021 - Announcement"
       },
       {
-         "description" : "In a significant development for the game of chess in the state of Chhattisgarh, Hon'ble Chief Minister Shri Bhupesh Baghel agreed for the implementation of",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/big-boost-for-chess-in-chhattisgarh/",
-         "pubDate" : "Sat, 13 Nov 2021 15:09:05 +0000",
-         "title" : "Big boost for Chess in Chhattisgarh"
-      },
-      {
          "description" : "Alireza Firouzja beat Markus Ragger and climbed back to world no. 4 on the live rating list as he made his debut in a 3:1 victory for France over Austria in Round 1 of the European Team Championship. France, who also feature MVL, are 3rd seeds, with top seeds Russia and Azerbaijan cruising in Round 1. There were upsets, however, with England living to regret resting Mickey Adams as they lost 2.5:1.5 to Norway, while wins for Anish Giri and Jorden van Foreest weren't enough to stop Georgia holding the Netherlands to a draw.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2128,22 +2152,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/perfect-chess-tournament/",
          "pubDate" : "Wed, 03 Nov 2021 12:39:17 +0000",
          "title" : "Choosing The Perfect Chess Tournament"
-      },
-      {
-         "description" : "The 4th FIDE World Chess Championship for People with Disabilities will be held online by Dresdner Schachfestival E.V. under the auspices of FIDE from November 4-14, 2021. To date, 162 players from 37 countries have registered. On its website the FIDE introduces some of the participants. | Photos: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-chess-championship-for-people-with-disabilities",
-         "pubDate" : "Wed, 03 Nov 2021 10:58:13 +0100",
-         "title" : "World Chess Championship for People with Disabilities"
-      },
-      {
-         "description" : "The 2021 FIDE Grand Swiss in Riga, Latvia has featured many exciting new opening ideas and double-edged games, as the world's best players fight for spots in the World Championship cycle. Canadian FM and opening expert Joshua Doknjas analyzes five interesting games from the first half of the event. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-highlights-part-1",
-         "pubDate" : "Wed, 03 Nov 2021 09:41:07 +0100",
-         "title" : "Grand Swiss Highlights - Part 1"
       }
    ]
 }
