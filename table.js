@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2021-11-02  - 11-23","12","<a href=http://www.uschess.org/msa/XtblMain.php?202111239782 target=' blank'>NOVEMBER TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2021-11-20","202","<a href=http://www.uschess.org/msa/XtblMain.php?202111207892 target=' blank'>TCR: NOVEMBER CHESS FLURRY</a>",
 "SPRING","2021-11-19","30","<a href=http://www.uschess.org/msa/XtblMain.php?202111197432 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2021-11-19","16","<a href=http://www.uschess.org/msa/XtblMain.php?202111197382 target=' blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2020-11-27","13","<a href=http://www.uschess.org/msa/XtblMain.php?202011273392 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "KATY","2020-11-21","16","<a href=http://www.uschess.org/msa/XtblMain.php?202011213422 target=' blank'>SR CHESSKNIGHTS 11212020</a>",
 "SPRING","2020-11-20","20","<a href=http://www.uschess.org/msa/XtblMain.php?202011201772 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"LEAGUE CITY","2020-11-14  - 11-15","733","<a href=http://www.uschess.org/msa/XtblMain.php?202011154722 target=' blank'>TEXAS STATE CHESSKID ONLINE SCHOLAS</a>",
 ]);
