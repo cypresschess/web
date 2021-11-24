@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Club Chess Associate Alex Moellering substitutes this week. Get in the mind of the mysterious masked 1400 on his journey to a 2000 chess rating. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-moellerings-1400-journey-road-2000\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yx2OAOxcSzw.jpg?itok=gjwkFD1Z\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alex-moellerings-1400-journey-road-2000",
+         "pubDate" : "Wed, 24 Nov 2021 03:58:13 +0000",
+         "title" : "Alex Moellering's 1400 Journey | Road to 2000"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Bryan Smith teaches a chess endgame class about triangulation and related squares, and switching the player to move on the same position. Learn about zugzwang and waiting moves. 2021.11.23<br /> Tr&eacute;buchet<br /> Luigi Centurini position<br /> Bryan Smith vs. Nelson Castaneda, 2009<br /> Walter Henneberger vs Aron Nimzowitsch, Swiss Championship (1931)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1273732\">https://www.chessgames.com/perl/chessgame?gid=1273732</a><br /> Smith vs. Dennis Wagner, 2015 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div clas",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/art-losing-tempo-insane-endgame-gm-bryan-smith",
+         "pubDate" : "Wed, 24 Nov 2021 00:58:03 +0000",
+         "title" : "The Art of Losing a Tempo | Insane in the Endgame - GM Bryan Smith"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Club Chess Associate Alex Moellering substitutes this week. Get in the mind of the mysterious masked 1400 on his journey to a 2000 chess rating. 2021.11.23<br /> Alex Moellering vs. Luke Herbst, 2012: B06 Robatsch (modern) defence<br /> Moellering vs. Tyrell Perry, 2014: B30 Sicilian defence<br /> Moellering vs. Kevin Ding, 2014: C44 Scotch gambit<br /> Mike Kummer vs. Moellering, 2020: E81 King&#039;s Indian, Saemisch, 5...O-O<br /> Moellering vs. N.N., ???: C03 French, Tarrasch<br /> Moellering vs. N.N., ???: </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alexs-1400-journey-road-2000-lichessorg",
+         "pubDate" : "Wed, 24 Nov 2021 00:58:03 +0000",
+         "title" : "Alex's 1400 Journey | Road to 2000 | lichess.org"
+      },
+      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent talks about Alireza Firouzja's historic performance at the European Team Championships, and looks at Firouzja's masterpiece game against Shakhriyar Mamedyarov which secured him the record of the youngest player ever to reach a rating of 2800+ and made him the world's number two on the live-rating list. Lawrence will also cover the Tata Steel India Tournament and talk about the upcoming World Championship match. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -970,22 +994,6 @@ news_feed (
          "title" : "Play Like a 2000! | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Bryan Smith teaches a chess endgame class. 2021.11.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/insane-endgame-gm-bryan-smith\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1oVXLOXZcp8.jpg?itok=a4wN5yPZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/insane-endgame-gm-bryan-smith",
-         "pubDate" : "Wed, 17 Nov 2021 00:51:48 +0000",
-         "title" : "Insane in the Endgame - GM Bryan Smith"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White, with the main lines of the Kan (or Paulsen). 2021.11.17<br /> B47 Sicilian, Taimanov (Bastrikov) variation<br /> B46 Sicilian, Taimanov variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kan-sicilian-main-lines-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/style",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kan-sicilian-main-lines-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Wed, 17 Nov 2021 00:51:48 +0000",
-         "title" : "The Kan Sicilian: Main Lines | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
-      },
-      {
          "description" : "With the first two rounds of playoffs complete, each division has been narrowed down to the final four remaining teams. These teams will fight this weekend in the semifinals and finals for their share of the $25,000 prize pool. You won&#39;t want to m...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1352,14 +1360,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-team-championship-2021-preview",
          "pubDate" : "Fri, 12 Nov 2021 02:25:00 +0100",
          "title" : "Giri, Grischuk and Firouzja among top stars at European Team Championship"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its Fall league, but this time it&#039;s all online again! Join NM Caleb Denby for the move-by-move. 2021.10.28<br /> Chess.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2021-saint-louis-corporate-chess-league-virtual-fall-5-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SeDqfgt3HQY.jpg?itok=LCc0rRrK\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-saint-louis-corporate-chess-league-virtual-fall-5-chesscom",
-         "pubDate" : "Fri, 12 Nov 2021 00:45:55 +0000",
-         "title" : "2021 Saint Louis Corporate Chess League: Virtual Fall #5 | Chess.com"
       },
       {
          "description" : "There is no doubt that GM Fabiano Caruana is one of the strongest chess players in history. Since his dominant performance at the 2014 Sinquefield Cup, where he famously started with 7/7 in a field with a 2800 rating average before winning the tou...",
