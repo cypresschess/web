@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1446",
+         "pubDate" : "Wed, 24 Nov 2021 17:34:36 +0000",
+         "title" : "FIDE World Championship Dubai 2021: The first skirmish"
+      },
+      {
+         "description" : "Starting from this upcoming Friday, GM Magnus Carlsen and GM Ian Nepomniachtchi will be enemies at the board&#38;mdash;but they remained friends at today&#39;s opening press conference. The players expressed mutual respect and made jokes, while eagerly aw...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-championship-press-conference-opening-ceremony",
+         "pubDate" : "Wed, 24 Nov 2021 08:46:00 -0800",
+         "title" : "FIDE World Championship Officially Opened After Press Conference Clash Of Frenemies"
+      },
+      {
+         "description" : "In the afternoon of 24 November 2021 the World Championship match between Magnus Carlsen and Ian Nepomniachtchi officially opened with a press conference. On the grounds of the Expo2020 in Dubai, the representatives of FIDE, the representatives of the sponsors, the organisers and the two players answered questions of the journalists.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-vs-nepomniachtchi-the-world-championship-match-began",
+         "pubDate" : "Wed, 24 Nov 2021 17:45:42 +0100",
+         "title" : "Carlsen vs Nepomniachtchi: The World Championship began"
+      },
+      {
          "description" : "Probably one of the most anticipated events will take place in just a couple of days, and for this special episode, Svitlana took a closer look at some games between Magnus Carlsen and Ian Nepomniachtchi. The viewer, and Arne, have to guess as many correct moves and tactics as possible. If you can get all of them correct, maybe you should participate for the world championship in 2022!?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +34,15 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Carlsen and Nepomniachtchi Special"
       },
       {
-         "description" : "Magnus Carlsen and Ian Nepomniachtchi lock swords on Friday for the World Chess Championship title, while in their first press conference they got a taste of how their interactions with the press will look. When Nepo was asked why he'll win he replied, \"normally I think the best player wins!\", while Magnus gave the \"prediction\", \"the person who scores the most points over the next three weeks is going to be the winner, and hopefully it's going to be me\". It was a cagey opener, but the real battle lies ahead.",
+         "description" : "With every passing second, the ultimate chess battle approaches, and chess fans worldwide can&#39;t wait to see what will happen in the 2021 FIDE World Championship. Now, even before the first moves are played, freestyle rap extraordinaire Harry Mack ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/worlds-greatest-freestyle-rapper-covers-the-world-chess-championship",
+         "pubDate" : "Wed, 24 Nov 2021 08:05:00 -0800",
+         "title" : "World's Greatest Freestyle Rapper Covers The World Chess Championship"
+      },
+      {
+         "description" : "Ian Nepomniachtchi will have the white pieces against Magnus Carlsen on Friday when the World Chess Championship begins, while in their first press conference they got a taste of how their interactions with the press will look. When Nepo was asked why he'll win he replied, \"normally I think the best player wins!\", while Magnus gave the \"prediction\", \"the person who scores the most points over the next three weeks is going to be the winner, and hopefully it's going to be me\". It was a cagey opener, but the real battle lies ahead.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/ian-is-a-bit-more-aggressive-carlsen-and-nepo-s-1st-press-conference",
@@ -1906,14 +1938,6 @@ news_feed (
          "title" : "FIDE Chess.com Grand Swiss: Round 10 Recap"
       },
       {
-         "description" : "With one round to go, GM Alireza Firouzja is back as the sole leader at the FIDE Chess.com Grand Swiss. Despite missing a brilliant defensive move from the Englishman in time trouble, the French-Iranian GM beat GM David Howell. GM Fabiano Caruana ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-round-10-firouzja-howell",
-         "pubDate" : "Sat, 06 Nov 2021 14:10:00 -0700",
-         "title" : "FIDE Chess.com Grand Swiss R10: Firouzja Sole Leader Again, Lei Secures Victory"
-      },
-      {
          "description" : " <p class=\"lead\">Alireza Firouzja, an 18-year old chess prodigy who was a sole leader for most of the Grand Swiss, an important tournament held by the International Chess Federation, managed to regain the lead by beating David Howell, a UK GM. He is now half point ahead of his closest rival, Fabiano Caruana. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/CB6E08BC-9CFA-48E6-A43C-F67621080F13.jpeg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anna Shtourman, FIDE</div> </div> FIDE Grand Swiss is a recent addition to the World Chess Championship cycle. It's a large Swiss event to select two players for the next Candidates tournament. The",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2000,14 +2024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1418",
          "pubDate" : "Fri, 05 Nov 2021 21:02:28 +0000",
          "title" : "FIDE World Championship for People with Disabilities kicks off on Tornelo"
-      },
-      {
-         "description" : "Calling the game &#34;super important&#34; but also &#34;a total mess,&#34; GM Fabiano Caruana defeated GM Alireza Firouzja to catch his opponent in first place in round nine of the FIDE Chess.com Grand Swiss. The two are now sharing the lead together with GM Dav...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-chess-com-grand-swiss-round-9-caruana-firouzja",
-         "pubDate" : "Fri, 05 Nov 2021 14:00:00 -0700",
-         "title" : "FIDE Chess.com Grand Swiss R9: 3-Way Tie As Caruana Beats Firouzja"
       },
       {
          "description" : "",
@@ -2136,14 +2152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1414",
          "pubDate" : "Wed, 03 Nov 2021 20:55:11 +0000",
          "title" : "FIDE Chess.com Grand Swiss: Round 7 Recap"
-      },
-      {
-         "description" : "This week, Merijn van Delft takes a look at the game Daniil Dubov vs Ivan Saric from the Grand Swiss tournament in Riga. It's instructive, complicated and a lot of fun! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-488-d-dubov-vs-i-saric",
-         "pubDate" : "Wed, 03 Nov 2021 19:28:47 +0100",
-         "title" : "Game of the Week 488: D. Dubov vs I. Saric"
       }
    ]
 }
