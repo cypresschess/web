@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Probably one of the most anticipated events will take place in just a couple of days, and for this special episode, Svitlana took a closer look at some games between Magnus Carlsen and Ian Nepomniachtchi. The viewer, and Arne, have to guess as many correct moves and tactics as possible. If you can get all of them correct, maybe you should participate for the world championship in 2022!?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-21",
+         "pubDate" : "Wed, 24 Nov 2021 17:17:44 +0100",
+         "title" : "Svitlana's Smart Moves - Carlsen and Nepomniachtchi Special"
+      },
+      {
+         "description" : "Magnus Carlsen and Ian Nepomniachtchi lock swords on Friday for the World Chess Championship title, while in their first press conference they got a taste of how their interactions with the press will look. When Nepo was asked why he'll win he replied, \"normally I think the best player wins!\", while Magnus gave the \"prediction\", \"the person who scores the most points over the next three weeks is going to be the winner, and hopefully it's going to be me\". It was a cagey opener, but the real battle lies ahead.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ian-is-a-bit-more-aggressive-carlsen-and-nepo-s-1st-press-conference",
+         "pubDate" : "Wed, 24 Nov 2021 15:51:44 +0000",
+         "title" : "\"Ian is a bit more aggressive!\": Carlsen and Nepo's 1st press conference"
+      },
+      {
+         "description" : "GM Hikaru Nakamura took home his second Titled Tuesday of the month on November 23. With a score of 9.5/11 on +8 =3, Nakamura claimed victory on tiebreaks over IM Minh Le. GM Jeffery Xiong took third place for the second straight week, finishing w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-november-23-titled-tuesday",
+         "pubDate" : "Wed, 24 Nov 2021 07:40:39 -0800",
+         "title" : "Nakamura Wins November 23 Titled Tuesday"
+      },
+      {
+         "description" : " One of my pet peeves as an arbiter is when players offer a draw by putting out their hand. This happens a lot in junior events and is often done by players in a losing position to try and save half a point (when the opponent isn't sure what happens and shakes the hand thinking it is a resignation). Such incidents almost always end in tears, which is another peeve of mine (there is no crying in chess). The most recent occurrence of this problem happened the other night at my local club. The game between an older and very experimented player and a young junior player ended in a draw, at least according to the junior player. But the result on the computer showed a win for the opponent, so in m",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/11/i-accept-your-offer-of-resignation.html",
+         "pubDate" : "Wed, 24 Nov 2021 13:16:00 +0000",
+         "title" : "I accept your offer of a resignation"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> If you teach chess for educational motives, you should know about simpler games on the chess board and how to introduce them to your students. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/chessboard-9.1920.jpeg\" title=\"At Lines of Action a piece moves in any direction by exactly as many squares as there are pieces on this file, rank or diagonal. You can capture enemy pieces. You can jump over your own but never over enemy pieces. The first player to connect all pieces on adjacent squares wins. Created with LogiQBoard.com\" data-title=\"At Lines of Action a piece moves in any direction by ex",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/other-games-on-64-squares/",
+         "pubDate" : "Wed, 24 Nov 2021 14:08:10 +0100",
+         "title" : "Other games on 64 squares"
+      },
+      {
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">8x8 - Other Strategy Games on the Chess Board</strong> <strong>Webinar, <time datetime='2021-12-02T18:00:00' itemprop=\"startDate\">Thu 02 Dec 2021, 18.00</time>-<time datetime='2021-12-02T19:30:00' itemprop=\"endDate\">19.30</time> h UTC<span class=\"timezone\">+0100</span><br> <span itemprop='location'><a href=\"https://zoom.us\">Zoom</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> <div class='abstract-event'> Free webinar with John Foley and Stefan L&ouml;ffler </div> Organiser: <a href=\"https://chessplus.net\">ChessPlus</",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://app.tickettailor.com/event/1105645",
+         "pubDate" : "Wed, 24 Nov 2021 14:07:13 +0100",
+         "title" : "8x8 - Other Strategy Games on the Chess Board"
+      },
+      {
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">LogiQ Board - A resource for chess and games instruction</strong> <strong>Webinar, <time datetime='2021-12-13T18:00:00' itemprop=\"startDate\">Mon 13 Dec 2021, 18.00</time>-<time datetime='2021-12-13T19:00:00' itemprop=\"endDate\">19.00</time> h UTC<span class=\"timezone\">+0100</span><br> <span itemprop='location'><a href=\"https://zoom.us\">Zoom</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> <div class='abstract-event'> Free webinar with Rita Atkins </div> Organiser: <a href=\"https://chessplus.net\">ChessPlus</a> <a href=\"",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://app.tickettailor.com/event/1105664",
+         "pubDate" : "Wed, 24 Nov 2021 14:07:01 +0100",
+         "title" : "LogiQ Board - A resource for chess and games instruction"
+      },
+      {
          "description" : " <p class=\"lead\">The Press Conference of the Match between the reigning World Champion, Magnus Carlsen, and the 2021 Challenger Ian Nepomniachtchi is over and the two GMs seemed quite uninterested, but still firm to their answers. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6467951.jpg\" width=\"1020\" height=\"650\" alt=\"\" /> <div class=\"e2-text-caption\">EPA-EFE / ALI HAIDER</div> </div> Only 2 days before their first game, Carlsen stated: \"Ian's style is quite aggressive compared to my previous rivals in the title match. I think this will differ from my previous matches for the crown.\" Nepomniachtchi noted that he doesn't care what color pieces to start the matc",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -18,7 +74,7 @@ news_feed (
          "title" : "A Year Full Of Chess"
       },
       {
-         "description" : "After 30 years, chess programs are now gradually reaching a level at which one can reasonably play against them. With Fritz 18 you have an unprecedented opportunity to train and learn sharp openings, helping you master the tactical motifs that are otherwise invisible in the 'prefect play' of normal computer games. Fritz 18 will even help you set up tactical tricks and sacrifices for you to deliver!",
+         "description" : "After 30 years, chess programs are now gradually reaching a level at which one can reasonably play against them. With Fritz 18 you have an unprecedented opportunity to train and learn sharp openings, helping you master the tactical motifs that are otherwise invisible in the 'perfect play' of normal computer games. Fritz 18 will even help you set up tactical tricks and sacrifices for you to deliver!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/learn-sharp-openings-with-fritz-2",
@@ -34,7 +90,7 @@ news_feed (
          "title" : "Congratulations Air Vice Marshal Jonnalagadda Rajendra"
       },
       {
-         "description" : " Share! For three years, the chess world has anticipated the next competitor for World Champion Magnus Carlsen. So much has happened in this time including the rise of Alireza Firouzja, who recently eclipsed the 2800 mark. Firoujza changed his federation from Iran to Paris and is billed as a future contender for the crown. That [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/24/world-championship-2021-kicks-off-in-a-few-days/\">World Championship 2021 kicks off in a few days!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share! For three years, the chess world has anticipated the next competitor for World Champion Magnus Carlsen. The time has come and on November 26th the champion will take on challenger Ian Nepomniachtchi of Russia for all the glory. So much has happened in this time including the onslaught of the coronavirus which stopped the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/24/world-championship-2021-kicks-off-in-a-few-days/\">World Championship 2021 kicks off in a few days!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/24/world-championship-2021-kicks-off-in-a-few-days/",
@@ -88,30 +144,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021",
          "pubDate" : "Tue, 23 Nov 2021 19:45:00 +0400",
          "title" : "World Chess Championship 2021 - Games and Results"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> If you teach chess for educational motives, you should know about simpler games on the chess board and how to introduce them to your students. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/chessboard-9.1920.jpeg\" title=\"At Lines of Action a piece moves in any direction by exactly as many squares as there are pieces on this file, rank or diagonal. You can capture enemy pieces. You can jump over your own but never over enemy pieces. The first player to connect all pieces on adjacent squares wins. Created with LogiQBoard.com\" data-title=\"At Lines of Action a piece moves in any direction by ex",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/other-games-on-64-squares/",
-         "pubDate" : "Tue, 23 Nov 2021 16:39:08 +0100",
-         "title" : "Other games on 64 squares"
-      },
-      {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">LogiQ Board - A resource for chess and games instruction</strong> <strong>Webinar, <time datetime='2021-12-13T18:00:00' itemprop=\"startDate\">Mon 13 Dec 2021, 18.00</time>-<time datetime='2021-12-13T19:00:00' itemprop=\"endDate\">19.00</time> h UTC<span class=\"timezone\">+0100</span><br> <span itemprop='location'><a href=\"https://zoom.us\">Zoom</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> Organiser: <a href=\"https://www.chesstech.org\">ChessTech</a> <a href=\"https://app.tickettailor.com/event/1105664\">Further informatio",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://app.tickettailor.com/event/1105664",
-         "pubDate" : "Tue, 23 Nov 2021 15:47:01 +0100",
-         "title" : "LogiQ Board - A resource for chess and games instruction"
-      },
-      {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">8x8 - Other Strategy Games on the Chess Board</strong> <strong>Webinar, <time datetime='2021-12-02T18:00:00' itemprop=\"startDate\">Thu 02 Dec 2021, 18.00</time>-<time datetime='2021-12-02T19:30:00' itemprop=\"endDate\">19.30</time> h UTC<span class=\"timezone\">+0100</span><br> <span itemprop='location'><a href=\"https://zoom.us\">Zoom</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> Organiser: <a href=\"https://www.chesstech.org\">ChessTech</a> <a href=\"https://app.tickettailor.com/event/1105645\">Further information about <st",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://app.tickettailor.com/event/1105645",
-         "pubDate" : "Tue, 23 Nov 2021 15:45:25 +0100",
-         "title" : "8x8 - Other Strategy Games on the Chess Board"
       },
       {
          "description" : "",
@@ -1602,14 +1634,6 @@ news_feed (
          "title" : "IM Levy Rozman Announces The Winners Of His Scholarship Program"
       },
       {
-         "description" : "When Magnus Carlsen and Ian Nepomniachtchi sit down on November 26 in Dubai to play Game 1 of the World Chess Championship match it will be the latest instalment of a rivalry that began in youth events in 2002. David Howell talks about facing the two future stars in the Under 12 World Youth Championship in the first part of a documentary produced by chess24's German site. Rustam Kasimdzhanov and Jan Gustafsson also talk about Magnus and Ian and especially the impact they made when they were just starting out.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-and-nepomniachtchi-young-rivals",
-         "pubDate" : "Tue, 09 Nov 2021 18:19:49 +0000",
-         "title" : "Carlsen and Nepomniachtchi: Young Rivals"
-      },
-      {
          "description" : "In November 1991 ChessBase launched its first chess playing program for PCs. After a modest start it picked up strength and started challenging the best players in the world. In 1992 the reigning World Champion Garry Kasparov played 35 blitz games, on his notebook, a beta of Fritz 3. He won 31, the computer won four. In 1994 Fritz was equal first with Kasparov in the strongest blitz tournament of all time (17 GMs, Elo average of 2625). In a supreme effort, Garry won the playoff.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2018,14 +2042,6 @@ news_feed (
          "title" : "Trent's Tactics - Discovering creative check-mates"
       },
       {
-         "description" : "The last round of the regular season will take place this weekend, and most teams have already secured a playoff spot. Other teams are not so lucky and are on the brink of elimination. This will be the most exciting week of the season as teams tak...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-final-round",
-         "pubDate" : "Fri, 05 Nov 2021 07:52:20 -0700",
-         "title" : "Collegiate Chess League: The Final Round"
-      },
-      {
          "description" : " Hybrid Chess is one of the new innovations that has gained in popularity during the various covid lockdown periods. I have been involved as an arbiter for these events, an still have mixed opinions on how well they work (NB I was involved in the drafting of the FIDE Hybrid Regulations). Of the events I have worked on, the format that seems to suit Hybrid Chess the best is for team events. Individual events can be a little messy to organise, especially small events like round robins. But team events have a more suitable arbiter(s) to player ratio. In the ongoing Asian Club Cup there are usually 2 officials per team or 2 teams, which is 1 to 3 or 1 to 6. However this also works best if there ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2128,30 +2144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-488-d-dubov-vs-i-saric",
          "pubDate" : "Wed, 03 Nov 2021 19:28:47 +0100",
          "title" : "Game of the Week 488: D. Dubov vs I. Saric"
-      },
-      {
-         "description" : " The Algorand Online Series ended on October 24 on the FIDE Online Arena. Check out the interview with the winner of the Series. Before heading off to Dubai to watch the World Chess Championship, Indian grandmaster Abhijeet Gupta chatted with GM Evgeny Miroshnichenko about his chess habits, his professional path and his advice for aspiring chess players. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/t61atNfqkcg?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-lucky-winner-goes-to-dubai/",
-         "pubDate" : "Wed, 03 Nov 2021 16:01:01 +0000",
-         "title" : "The lucky winner goes to Dubai!"
-      },
-      {
-         "description" : " The details for the 2022 O2C Doeberl Cup have been posted at <a href=\"http://www.doeberlcup.com.au\">www.doeberlcup.com.au</a> It will be held over the Easter weekend, which is 14-18 April 2022. The most significant change from this years event, is that the rating limits for each of the tournament have been simplified. For the Premier, anyone with a FIDE or ACF rating above 1800 is eligible (plus title holders), while to get into the Major (under 2000), you need an ACF or FIDE rating above 1400 (and be blow ACF 2000 as well). In part this is to simplify the eligibility rules, but it is also to balance the numbers in each tournament. Entry fees are unchanged from this year, and the prize pool",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/2022-o2c-doeberl-cup-entries-open.html",
-         "pubDate" : "Wed, 03 Nov 2021 13:49:00 +0000",
-         "title" : "2022 O2C Doeberl Cup - entries open"
-      },
-      {
-         "description" : " I vividly remember the first time I analyzed my tournament results in more depth. In late 2019 I checked various factors such as tournament length, the starting time of games, and the importance of the result. What I discovered was insanely valuable and surprising at the same time. I wish I would have done it [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/perfect-chess-tournament/\">Choosing The Perfect Chess Tournament</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/perfect-chess-tournament/",
-         "pubDate" : "Wed, 03 Nov 2021 12:39:17 +0000",
-         "title" : "Choosing The Perfect Chess Tournament"
       }
    ]
 }
