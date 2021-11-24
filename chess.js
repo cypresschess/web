@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! For three years, the chess world has anticipated the next competitor for World Champion Magnus Carlsen. So much has happened in this time including the rise of Alireza Firouzja, who recently eclipsed the 2800 mark. Firoujza changed his federation from Iran to Paris and is billed as a future contender for the crown. That [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/24/world-championship-2021-kicks-off-in-a-few-days/\">World Championship 2021 kicks off in a few days!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/11/24/world-championship-2021-kicks-off-in-a-few-days/",
+         "pubDate" : "Wed, 24 Nov 2021 06:51:52 +0000",
+         "title" : "World Championship 2021 kicks off in a few days!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Club Chess Associate Alex Moellering substitutes this week. Get in the mind of the mysterious masked 1400 on his journey to a 2000 chess rating. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-moellerings-1400-journey-road-2000\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yx2OAOxcSzw.jpg?itok=gjwkFD1Z\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/alex-moellerings-1400-journey-road-2000",
          "pubDate" : "Wed, 24 Nov 2021 03:58:13 +0000",
          "title" : "Alex Moellering's 1400 Journey | Road to 2000"
+      },
+      {
+         "description" : "With the World Championship match in Dubai scheduled to kick off on Friday, we get ready for the showdown between Magnus Carlsen and Ian Nepomniachtchi by recapping the four previous matches, which were all won by Carlsen. In the second instalment, we go over the second match between Carlsen and Viswanathan Anand. Few had predicted it, but the Tiger from Madras gained the right to have a rematch. It was a tense-packed confrontation, with a case of mutual blindness playing a big role in the result. | Photos: Anastasiya Karlovich",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-carlsen-years-part-2",
+         "pubDate" : "Wed, 24 Nov 2021 04:25:00 +0100",
+         "title" : "The Carlsen years (2): Rematch"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Bryan Smith teaches a chess endgame class about triangulation and related squares, and switching the player to move on the same position. Learn about zugzwang and waiting moves. 2021.11.23<br /> Tr&eacute;buchet<br /> Luigi Centurini position<br /> Bryan Smith vs. Nelson Castaneda, 2009<br /> Walter Henneberger vs Aron Nimzowitsch, Swiss Championship (1931)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1273732\">https://www.chessgames.com/perl/chessgame?gid=1273732</a><br /> Smith vs. Dennis Wagner, 2015 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div clas",
@@ -1434,7 +1450,7 @@ news_feed (
          "title" : "Magnus Carlsen presents 'The Maître's Gambit' in an exclusive interview"
       },
       {
-         "description" : " Share!98 Kenya has long been an active member of the international chess community over the years, but in the past decade, they have increased the profile of chess within the country. Chess Kenya has been promoting chess in underserved areas. TEAM KENYA with Ministry of Sports Most recently Fred Sagwe trekked 165km to get chess [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/10/chess-brought-before-kenyan-parliament/\">Chess brought before Kenyan Parliament</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Kenya has long been an active member of the international chess community over the years, but in the past decade, they have increased the profile of chess within the country. Chess Kenya has been promoting chess in underserved areas. TEAM KENYA with Ministry of Sports Most recently Fred Sagwe trekked 165km to get chess in [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/10/chess-brought-before-kenyan-parliament/\">Chess brought before Kenyan Parliament</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/10/chess-brought-before-kenyan-parliament/",
@@ -2128,14 +2144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-highlights-part-1",
          "pubDate" : "Wed, 03 Nov 2021 09:41:07 +0100",
          "title" : "Grand Swiss Highlights - Part 1"
-      },
-      {
-         "description" : "In a recent interview for chess.com Peter Doggers asked Fabiano Caruana about the upcoming World Championship match between Magnus Carlsen and Ian Nepomniachtchi, about World Championship matches in general, and about Caruana's own match against Carlsen in 2018. In an amazingly open and honest interview Caruana reveals a lot about his match-strategy against Carlsen, his feelings during and after the match, and gives insight into chess on the highest level.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fabiano-caruana-talks-about-carlsen-nepomniachtchi-and-the-world-championship",
-         "pubDate" : "Wed, 03 Nov 2021 09:00:00 +0100",
-         "title" : "Fabiano Caruana talks about Carlsen, Nepomniachtchi and the World Championship"
       }
    ]
 }
