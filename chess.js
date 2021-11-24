@@ -130,7 +130,7 @@ news_feed (
          "title" : "Viswanathan Anand feels unpredictability is good for sport"
       },
       {
-         "description" : "The 2021 FIDE World Championship is quickly approaching and everyone is anxiously waiting for the first move of what could be one of the most thrilling matches in history. While you wait for the games to start, why not play chess with challenger G...",
+         "description" : "Special note: From November 23 through the end of the 2021 FIDE World Championship, these two bots as well as the GM Robert Hess bot will be free for all Chess.com members! The 2021 FIDE World Championship is quickly approaching and everyone is ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/play-chess-against-the-nepomniachtchi-and-caruana-bots",
@@ -1712,14 +1712,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/firouzja-wins-grand-swiss-and-qualifies-for-the-2022-candidates/",
          "pubDate" : "Mon, 08 Nov 2021 12:12:32 +0000",
          "title" : "Firouzja wins Grand Swiss and qualifies for the 2022 Candidates Tournament"
-      },
-      {
-         "description" : "18-year-old Alireza Firouzja has won the FIDE Chess.com Grand Swiss, qualified for his 1st Candidates Tournament and taken home the top prize of $70,000 after drawing his last round game against Grigoriy Oparin. There were draws on the top 13 boards, as Fabiano Caruana claimed the 2nd spot in the Candidates, while Oparin, Yu, Keymer, MVL, Predke and Shirov qualified for the Grand Prix. In the women's event Elisabeth Paehtz took 2nd place behind Lei Tingjie on a day she also earned the grandmaster title.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/firouzja-wins-grand-swiss-caruana-in-candidates",
-         "pubDate" : "Mon, 08 Nov 2021 09:56:34 +0000",
-         "title" : "Firouzja wins Grand Swiss | Caruana in Candidates"
       },
       {
          "description" : "In honour of the 85th anniversary of the birth of the 8th World Chess Champion Mikhail Tal, FIDE is endorsing the Lindores Abbey Blitz Tournament, which is taking place on November 8 in the historical Hanzas Perons venue in Riga, Latvia. The Swiss System tournament will include nine rounds. Each round will consist of two games played against the same opponent, one with each colour. Maxime Vachier-Lagrave, Levon Aronian and Fabiano Caruana are the top seeds. | Photo: Mark Livshitz",
