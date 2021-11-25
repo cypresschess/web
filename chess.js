@@ -82,22 +82,6 @@ news_feed (
          "title" : "Other games on 64 squares"
       },
       {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">8x8 - Other Strategy Games on the Chess Board</strong> <strong>Webinar, <time datetime='2021-12-02T18:00:00' itemprop=\"startDate\">Thu 02 Dec 2021, 18.00</time>-<time datetime='2021-12-02T19:30:00' itemprop=\"endDate\">19.30</time> h UTC<span class=\"timezone\">+0100</span><br> <span itemprop='location'><a href=\"https://zoom.us\">Zoom</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> <div class='abstract-event'> Free webinar with John Foley and Stefan L&ouml;ffler </div> Organiser: <a href=\"https://chessplus.net\">ChessPlus</",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://app.tickettailor.com/event/1105645",
-         "pubDate" : "Wed, 24 Nov 2021 14:07:13 +0100",
-         "title" : "8x8 - Other Strategy Games on the Chess Board"
-      },
-      {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">LogiQ Board - A resource for chess and games instruction</strong> <strong>Webinar, <time datetime='2021-12-13T18:00:00' itemprop=\"startDate\">Mon 13 Dec 2021, 18.00</time>-<time datetime='2021-12-13T19:00:00' itemprop=\"endDate\">19.00</time> h UTC<span class=\"timezone\">+0100</span><br> <span itemprop='location'><a href=\"https://zoom.us\">Zoom</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> <div class='abstract-event'> Free webinar with Rita Atkins </div> Organiser: <a href=\"https://chessplus.net\">ChessPlus</a> <a href=\"",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://app.tickettailor.com/event/1105664",
-         "pubDate" : "Wed, 24 Nov 2021 14:07:01 +0100",
-         "title" : "LogiQ Board - A resource for chess and games instruction"
-      },
-      {
          "description" : " <p class=\"lead\">The Press Conference of the Match between the reigning World Champion, Magnus Carlsen, and the 2021 Challenger Ian Nepomniachtchi is over and the two GMs seemed quite uninterested, but still firm to their answers. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6467951.jpg\" width=\"1020\" height=\"650\" alt=\"\" /> <div class=\"e2-text-caption\">EPA-EFE / ALI HAIDER</div> </div> Only 2 days before their first game, Carlsen stated: \"Ian's style is quite aggressive compared to my previous rivals in the title match. I think this will differ from my previous matches for the crown.\" Nepomniachtchi noted that he doesn't care what color pieces to start the matc",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
