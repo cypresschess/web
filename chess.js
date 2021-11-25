@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Championship match will start very soon, and is scheduled to run over 14 exciting games. When one of the rounds is over, says CHESS Magazine, London, why not enjoy a chess-themed crossword composition. We reprint the puzzle here, without the solution (which we will add at the end of the match). Maybe our readers can solve the puzzle communally, in the feedback section below the article?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-crossword-for-chess-fans",
+         "pubDate" : "Thu, 25 Nov 2021 20:00:00 +0100",
+         "title" : "A crossword for chess fans"
+      },
+      {
+         "description" : "This week, well-known Dutch trainer Robert Ris presents a fine attacking game and takes a look at a way to spice things up in the usually quiet Spanish with 6.d3. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-crushing-kingside-attack-in-a-ruy-lopez-with-6-d3",
+         "pubDate" : "Thu, 25 Nov 2021 19:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A crushing kingside attack in a Ruy Lopez with 6.d3"
+      },
+      {
+         "description" : "Ian Nepomniatchi will challenge Magnus Carlsen at the 2021 FIDE World Chess Championships in Dubai.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32713238/king-gambit-magnus-carlsen-quest-five-world-champion-ian-nepomniatchi?device=featurephone",
+         "pubDate" : "Thu, 25 Nov 2021 11:44:26 -0500",
+         "title" : "King's Gambit: Inside Magnus Carlsen's quest to be a five-time World Champion"
+      },
+      {
+         "description" : "IM Jonathan Tisdall has been covering World Chess Championship matches for decades. His book \"Moscow Marathon\" from 1985 (co-authored with Jon Speelman) is a witty and insightful report about the 1984/1985 match between Garry Kasparov and Anatoly Karpov, and Tisdall's textbook \"Improve Your Chess Now\" from 1997 is considered a modern classic. In Dubai, Tisdall covers the match between Carlsen and Nepomniachtchi as FIDE press officer and writing about the press conference on Wednesday, Tisdall revealed \"the best advice for aspiring champions\". | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-vs-nepomniachtchi-enjoy-what-you-do",
+         "pubDate" : "Thu, 25 Nov 2021 17:39:07 +0100",
+         "title" : "Carlsen vs Nepomniachtchi: \"Enjoy what you do!\""
+      },
+      {
          "description" : " <p class=\"lead\">Russia's No.1 and 2021 Challenger, Ian Nepomniachtchi gave his final newspaper interview to Sean Ingle and <a href=\"https://www.theguardian.com/sport/2021/nov/25/will-nepo-supercomputer-give-him-world-chess-title-edge-over-carlsen\">the Guardian</a> before his first World Championship match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51701746511_d0bffc3ebf_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen</div> </div> According to the author of the article, it would count as one of the more seismic shocks in modern chess history if Magnus Carlsen were to lose his world title over Ian Nepomniachtchi",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -10,20 +42,20 @@ news_feed (
          "title" : "Nepo on Guardian \"I was maybe the least hard working person out of the world's top 20\""
       },
       {
-         "description" : "Ian Nepomniatchi will challenge Magnus Carlsen at the 2021 FIDE World Chess Championships in Dubai.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32713238/king-gambit-magnus-carlsen-quest-five-world-champion-ian-nepomniatchi?device=featurephone",
-         "pubDate" : "Thu, 25 Nov 2021 10:57:55 -0500",
-         "title" : "King's Gambit: Inside Magnus Carlsen's quest to be a five-time World Champion"
-      },
-      {
          "description" : " <p class=\"lead\">The reigning World Champion Magnus Carlsen gave his final newspaper interview to Sean Ingle and <a href=\"https://www.theguardian.com/sport/2021/nov/24/magnus-carlsen-the-big-advantage-is-that-i-am-the-better-chess-player\">the Guardian</a> before his 5th World Championship match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51702417894_7943ae3f41_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen</div> </div> \"I'm less hungry. I think you're always going to be if you're playing for the world title for the fifth time, rather than the first.\" was the punch line of Carlsen's interview. Below are some mor",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/carlsen-on-guardian-im-less-hungry/",
          "pubDate" : "Thu, 25 Nov 2021 15:53:19 +0000",
          "title" : "Carlsen on Guardian: \"I'm less hungry\""
+      },
+      {
+         "description" : " The FIDE World Chess Championship takes place in Dubai, UAE, 24th November (opening ceremony - game 1 on 26th Nov) until 16th December. The match is between World Champion Magnus Carlsen and his Challenger Ian Nepomniachtchi. The match will be over 14 games rather than the recent 12 and uses an accelerated schedule to accommodate this - a final day of rapid and blitz tie-breaks will take place on 15th December in the event of a 7-7 tie. Nepomniachtchi will not compete under the Russian flag due to WADA sporting sanctions against Russia because of their state sponsored doping program. Both players were born in 1990 - Nepomniachtchi is the slightly older - born 14th July - Carlsen will have h",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021",
+         "pubDate" : "Thu, 25 Nov 2021 19:45:00 +0400",
+         "title" : "World Chess Championship 2021 - Games and Results"
       },
       {
          "description" : "With the World Championship match in Dubai scheduled to kick off on Friday, we get ready for the showdown between Magnus Carlsen and Ian Nepomniachtchi by recapping the four previous matches, which were all won by Carlsen (two of them in rapid playoffs). In the third instalment, we recapitulate what went on at the Fulton Market building in Lower Manhattan, where Carlsen came back from behind in the classical games before beating Sergey Karjakin in the rapid tiebreakers. | Photo: Anastasiya Karlovich",
@@ -288,14 +320,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-4",
          "pubDate" : "Tue, 23 Nov 2021 17:30:00 +0100",
          "title" : "The Weekly Show"
-      },
-      {
-         "description" : " The FIDE World Chess Championship takes place in Dubai, UAE, 24th November (opening ceremony - game 1 on 26th Nov) until 16th December. The match is between World Champion Magnus Carlsen and his Challenger Ian Nepomniachtchi. The match will be over 14 games rather than the recent 12 and uses an accelerated schedule to accommodate this - a final day of rapid and blitz tie-breaks will take place on 15th December in the event of a 7-7 tie. Nepomniachtchi will not compete under the Russian flag due to WADA sporting sanctions against Russia because of their state sponsored doping program. Both players were born in 1990 - Nepomniachtchi is the slightly older - born 14th July - Carlsen will have h",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021",
-         "pubDate" : "Tue, 23 Nov 2021 19:45:00 +0400",
-         "title" : "World Chess Championship 2021 - Games and Results"
       },
       {
          "description" : "",
@@ -2168,14 +2192,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/grand-swiss-firouzja-is-sole-leader-after-round-8/",
          "pubDate" : "Fri, 05 Nov 2021 05:18:57 +0000",
          "title" : "Grand Swiss: Firouzja is Sole Leader After Round 8"
-      },
-      {
-         "description" : "Alireza Firouzja and Lei Tingjie have a full-point edge over their closest chasers in the open and women's sections of the FIDE Chess.com Grand Swiss taking place in Riga. Both sole leaders won in round 8, with Firouzja beating Krishnan Sasikiran and Lei scoring her third consecutive victory by defeating Alina Kashlinskaya. Rating favourite Fabiano Caruana joined a 10-player chasing pack in the open section, and will face Firouzja on the top board in Friday's ninth round. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r8",
-         "pubDate" : "Fri, 05 Nov 2021 05:25:00 +0100",
-         "title" : "Grand Swiss: Lei and Firouzja on a roll"
       },
       {
          "description" : "",
