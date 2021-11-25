@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen starts his 5th World Chess Championship match on Friday when he has the black pieces against Ian Nepomniachtchi in Dubai. In some interviews for major international publications on the eve of the match he confessed he was \"less hungry\" this time round and could live without the ordeal of the matches. He also talked about the threat of Alireza Firouzja (\"his talent is immense\") and how the motivation to remain number one would remain with or without the title.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-on-the-world-championship-i-can-live-without-it",
+         "pubDate" : "Thu, 25 Nov 2021 11:08:09 +0000",
+         "title" : "Carlsen on the World Championship: \"I can live without it!\""
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1448",
+         "pubDate" : "Thu, 25 Nov 2021 11:04:33 +0000",
+         "title" : "FIDE World Championship Dubai 2021: Catching up and final preparations"
+      },
+      {
+         "description" : "Who will win the World Championship match between Magnus Carlsen and Ian Nepomniachtchi in Dubai? In video interviews a number of top players, including Garry Kasparov and Vishy Anand, have commented on the possible outcome of the match in video interviews. Before the match, Magnus Carlsen and Ian Nepomniachtchi also revealed what they think about the other and the match. | Image: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-vs-nepomniachtchi-what-do-the-experts-say",
+         "pubDate" : "Thu, 25 Nov 2021 11:23:04 +0100",
+         "title" : "Carlsen vs. Nepomniachtchi: What do the experts say?"
+      },
+      {
+         "description" : "The FIDE World Championship Match between reigning World Chess Champion Magnus Carlsen and the challenger Ian Nepomniachtchi starts tomorrow at Dubai Exhibition Centre. The Match consists of 14 games, played with the time control of 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves and then 15 minutes for the rest&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-championship-match-preview-carlsen-vs-nepomniachtchi/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-world-championship-match-preview-carlsen-vs-nepomniachtchi/",
+         "pubDate" : "Thu, 25 Nov 2021 10:06:17 +0000",
+         "title" : "FIDE World Championship Match preview- Carlsen vs. Nepomniachtchi"
+      },
+      {
+         "description" : "Wednesday afternoon the World Chess Championship between Magnus Carlsen and Ian Nepomniachtchi in Dubai began with a press conference. In the evening, the opening ceremony followed and the colours were drawn. In the first game, that starts Friday, 26 November, 16:30 local time (13:30 CET, 7:30 ET, 12:30 UTC) challenger Ian Nepomniachtchi has White. | Photos: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-vs-nepomniachtchi-nepomniachtchi-starts-with-white",
+         "pubDate" : "Thu, 25 Nov 2021 10:37:16 +0100",
+         "title" : "Carlsen vs Nepomniachtchi: Nepomniachtchi starts with White"
+      },
+      {
+         "description" : "This week, Merijn van Delft takes another look at Alireza Firouzja's impressive performance at the European Team Championship which helped him to become the youngest player ever to cross the 2800+ mark and that made him the current world's number two on the live-rating list. The game of the week is A. Firouzja vs B. Jobava. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-491-alireza-firouzja-vs-baadur-jobava",
+         "pubDate" : "Thu, 25 Nov 2021 10:19:47 +0100",
+         "title" : "Game of the Week #491: Alireza Firouzja vs Baadur Jobava"
+      },
+      {
          "description" : " <p class=\"lead\">Ian Nepomniachtchi looked pleased during the Opening Ceremony of the FIDE World Chess Championship Match in Dubai - he just discovered that he will be playing the first game with White. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/FD654A13-BFB8-44ED-9DBE-36BA91D2C0F9.jpeg\" width=\"1800\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> The drawing of lots, a ceremonial procedure, takes place during the opening ceremony and determines the order of the 14-round tournament. Nepo's immediate team, Vladimir Potkin and Sergey Karjakin, also present in Dubai, immediately started quietly discussing the strategy that Nepo wil",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1410,14 +1458,6 @@ news_feed (
          "title" : "Trent's Tactics - King hunts with queen stunts"
       },
       {
-         "description" : "The European Team Chess Championship 2021 kicked off today in Terme Catez, Slovenia. The first part of the Opening ceremony organized for special guests, delegates, captains and officials took place on Thursday, 11th of November. The Ceremony was held in the Museum of Brezice, with attendance of ECU President Mr. Zurab Azmaiparashvili, ECU Vice President and FIDE CEO&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-kicked-off-in-terme-catez-slovenia/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-team-chess-championship-2021-kicked-off-in-terme-catez-slovenia/",
-         "pubDate" : "Fri, 12 Nov 2021 16:54:02 +0000",
-         "title" : "European Team Chess Championship 2021 kicked off in Terme Catez, Slovenia"
-      },
-      {
          "description" : "Ian Nepomniachtchi goes into the match against Magnus Carlsen in Dubai as the last man standing with a plus score against the World Champion: an amazing 4:1 lead in decisive classical games. They've played just 13 games, however - before Carlsen-Caruana, 33 classical games had been played, with Magnus winning 10 to Fabi's 5. Sean Marsh takes a look at the decisive encounters, two of which took place before Magnus was yet a teenager.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1496,14 +1536,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-four-queens-in-the-geller-gambit",
          "pubDate" : "Thu, 11 Nov 2021 18:20:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Four queens in the Geller Gambit"
-      },
-      {
-         "description" : "Sergey Karjakin narrowly missed out on the World Chess Championship title in 2016 when he took the lead with just four games to go, before ultimately losing to Magnus Carlsen in a rapid tiebreak. In a recent interview he revealed he's been doing some work with Ian Nepomniachtchi in the run-up to the match in Dubai, and gave his verdict on both how the match will go and on Magnus' place in chess history.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/sergey-karjakin-magnus-can-psychologically-crumble",
-         "pubDate" : "Thu, 11 Nov 2021 17:02:27 +0000",
-         "title" : "Karjakin: Magnus \"can psychologically crumble\""
       },
       {
          "description" : "",
@@ -2104,22 +2136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1415",
          "pubDate" : "Thu, 04 Nov 2021 13:20:51 +0000",
          "title" : "2021 FIDE Online General Assembly: List of Delegates"
-      },
-      {
-         "description" : "At the end of October, the 139th \"Varsity Match\" Oxford vs Cambridge was played at the Royal Automobile Club in London. All in all, Cambridge is slightly ahead in matches, but this year Oxford won 5.5-2.5. The match was a real event, with dinner and music by the famous pianist, composer and chess fan Jason Kouchak. | Photo: Jason Kouchak and Victor Vasiesiu, captain of the Oxford team | Photo: John Saunders",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oxford-vs-cambridge-rowing-and-chess",
-         "pubDate" : "Thu, 04 Nov 2021 12:00:00 +0100",
-         "title" : "Oxford vs Cambridge, rowing and chess"
-      },
-      {
-         "description" : "The Rubinstein Variation of the French Defence (1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4) often proves difficult for White to crack. Sure, you have a lot of space, but Black's position is very solid. After the main moves 4...Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6, White has so far mostly tried 7.c3 or 7.Bd3. In the new ChessBase Magazine #204 Martin Lorenzini presents a new idea with 7.Be3!? which could prove to be a worthwhile alternative to the well-known theoretical variations. Curious? Here's an excerpt of his article.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clear-attacking-plan-against-the-rubinstein-variation",
-         "pubDate" : "Thu, 04 Nov 2021 11:00:00 +0100",
-         "title" : "A clear attacking plan against the Rubinstein Variation"
       }
    ]
 }
