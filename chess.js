@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Russia's No.1 and 2021 Challenger, Ian Nepomniachtchi gave his final newspaper interview to Sean Ingle and <a href=\"https://www.theguardian.com/sport/2021/nov/25/will-nepo-supercomputer-give-him-world-chess-title-edge-over-carlsen\">the Guardian</a> before his first World Championship match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51701746511_d0bffc3ebf_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen</div> </div> According to the author of the article, it would count as one of the more seismic shocks in modern chess history if Magnus Carlsen were to lose his world title over Ian Nepomniachtchi",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nepo-on-guardian-i-was-maybe-the-least-hard-working-person-out-o/",
+         "pubDate" : "Thu, 25 Nov 2021 16:04:45 +0000",
+         "title" : "Nepo on Guardian \"I was maybe the least hard working person out of the world's top 20\""
+      },
+      {
+         "description" : "Ian Nepomniatchi will challenge Magnus Carlsen at the 2021 FIDE World Chess Championships in Dubai.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32713238/king-gambit-magnus-carlsen-quest-five-world-champion-ian-nepomniatchi?device=featurephone",
+         "pubDate" : "Thu, 25 Nov 2021 10:57:55 -0500",
+         "title" : "King's Gambit: Inside Magnus Carlsen's quest to be a five-time World Champion"
+      },
+      {
+         "description" : " <p class=\"lead\">The reigning World Champion Magnus Carlsen gave his final newspaper interview to Sean Ingle and <a href=\"https://www.theguardian.com/sport/2021/nov/24/magnus-carlsen-the-big-advantage-is-that-i-am-the-better-chess-player\">the Guardian</a> before his 5th World Championship match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51702417894_7943ae3f41_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen</div> </div> \"I'm less hungry. I think you're always going to be if you're playing for the world title for the fifth time, rather than the first.\" was the punch line of Carlsen's interview. Below are some mor",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/carlsen-on-guardian-im-less-hungry/",
+         "pubDate" : "Thu, 25 Nov 2021 15:53:19 +0000",
+         "title" : "Carlsen on Guardian: \"I'm less hungry\""
+      },
+      {
+         "description" : "With the World Championship match in Dubai scheduled to kick off on Friday, we get ready for the showdown between Magnus Carlsen and Ian Nepomniachtchi by recapping the four previous matches, which were all won by Carlsen (two of them in rapid playoffs). In the third instalment, we recapitulate what went on at the Fulton Market building in Lower Manhattan, where Carlsen came back from behind in the classical games before beating Sergey Karjakin in the rapid tiebreakers. | Photo: Anastasiya Karlovich",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-carlsen-years-part-3",
+         "pubDate" : "Thu, 25 Nov 2021 15:00:00 +0100",
+         "title" : "The Carlsen years (3): A stubborn defender"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87914561.cms\" />It's a tale reminiscent of \"The Queen's Gambit\" -- when defending champion Magnus Carlsen meets Russian Ian Nepomniachtchi at the world championships in Dubai they will renew a rivalry dating from when they were 12.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/nepomniachtchi-vs-carlsen-norwegian-cool-meets-russian-fire-in-world-chess-showdown/articleshow/87914561.cms",
+         "pubDate" : "Thu, 25 Nov 2021 19:08:51 +0530",
+         "title" : "Norwegian cool meets Russian fire in world chess showdown"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87914269.cms\" />The opening game of the much-awaited Magnus Carlsen-Ian Nepomniachtchi World championship clash will kick off in Dubai on Friday. The challenger --- Nepomniachtchi --- will have the white pieces in the first match.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-championship-will-change-nepo-as-a-player-viswanathan-anand/articleshow/87914269.cms",
+         "pubDate" : "Thu, 25 Nov 2021 18:51:37 +0530",
+         "title" : "World championship will change Nepo as a player: Anand"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/fide-world-chess-championships/#new_tab",
+         "pubDate" : "Thu, 25 Nov 2021 13:01:11 +0000",
+         "title" : "FIDE World Chess Championships tomorrow 26/11/21"
+      },
+      {
          "description" : "Magnus Carlsen starts his 5th World Chess Championship match on Friday when he has the black pieces against Ian Nepomniachtchi in Dubai. In some interviews for major international publications on the eve of the match he confessed he was \"less hungry\" this time round and could live without the ordeal of the matches. He also talked about the threat of Alireza Firouzja (\"his talent is immense\") and how the motivation to remain number one would remain with or without the title.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2128,14 +2184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1416",
          "pubDate" : "Thu, 04 Nov 2021 21:43:11 +0000",
          "title" : "FIDE Chess.com Grand Swiss: Round 8 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1415",
-         "pubDate" : "Thu, 04 Nov 2021 13:20:51 +0000",
-         "title" : "2021 FIDE Online General Assembly: List of Delegates"
       }
    ]
 }
