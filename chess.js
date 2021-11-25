@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Ian Nepomniachtchi looked pleased during the Opening Ceremony of the FIDE World Chess Championship Match in Dubai - he just discovered that he will be playing the first game with White. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/FD654A13-BFB8-44ED-9DBE-36BA91D2C0F9.jpeg\" width=\"1800\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> The drawing of lots, a ceremonial procedure, takes place during the opening ceremony and determines the order of the 14-round tournament. Nepo's immediate team, Vladimir Potkin and Sergey Karjakin, also present in Dubai, immediately started quietly discussing the strategy that Nepo wil",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-match-begins-with-nepo-playing-white/",
+         "pubDate" : "Thu, 25 Nov 2021 06:49:01 +0000",
+         "title" : "The Match Begins with Nepo Playing White"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. 2021.11.24<br /> B40 Sicilian, Anderssen variation<br /> B80 Sicilian, Scheveningen variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-scheveningen-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/y",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-sicilian-scheveningen-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 25 Nov 2021 03:59:17 +0000",
+         "title" : "Play the Sicilian: Scheveningen | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. 2021.11.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-scheveningen-chess-and-psychology-im-dorsa-derakhshani-lichesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pFLtK18AoTs.jpg?itok=8R98sZ5A\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1082,14 +1098,6 @@ news_feed (
          "title" : "Play Chess Like a 2000! | Road to 2000 - NM Caleb Denby"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Bryan Smith shows Mikhail Botvinnik and Vasily Smyslov&#039;s 17th game from the 1957 World Chess Championship. Bryan then presents a complicated knight break-through composition. 2021.11.16<br /> Mikhail Botvinnik vs Vasily Smyslov, Botvinnik - Smyslov World Championship Match (1957)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1032437\">https://www.chessgames.com/perl/chessgame?gid=1032437</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/maneuver-break-through-insane-endgame-gm-bryan-smith",
-         "pubDate" : "Wed, 17 Nov 2021 03:52:05 +0000",
-         "title" : "Maneuver to Break Through! | Insane in the Endgame - GM Bryan Smith"
-      },
-      {
          "description" : "GM Dmitry Andreikin took home an outright and undefeated Titled Tuesday victory on November 16, scoring 10/11. GM Anton Demchenko finished in sole second, a half-point behind, with 9.5/11. In a three-way tie with a 9/11 score, GM Jeffery Xiong and...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2112,22 +2120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/clear-attacking-plan-against-the-rubinstein-variation",
          "pubDate" : "Thu, 04 Nov 2021 11:00:00 +0100",
          "title" : "A clear attacking plan against the Rubinstein Variation"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87521958.cms\" />Indian Grandmaster K Sasikiran played out a draw with Maxime Vachier-Lagrave of France in the seventh round of the open event in the FIDE Grand Swiss chess tournament here to share the second spot with two others.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-swiss-chess-sasikiran-draws-with-vachier-lagrave-lies-in-joint-second-spot/articleshow/87521958.cms",
-         "pubDate" : "Thu, 04 Nov 2021 11:33:08 +0530",
-         "title" : "FIDE Grand Swiss: Sasikiran draws with Vachier-Lagrave to be joint second"
-      },
-      {
-         "description" : "Both sections of the FIDE Chess.com Grand Swiss have sole leaders going into round 8 (out of 11). Alireza Firouzja made the most of a slight edge in an endgame against Evgeniy Najer to reclaim the sole lead in the open section, while Lei Tingjie got the better of Nino Batsiashvili to collect her fifth victory of the event. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r7",
-         "pubDate" : "Thu, 04 Nov 2021 06:05:00 +0100",
-         "title" : "Grand Swiss: Lei keeps on winning, Firouzja reclaims the lead"
       }
    ]
 }
