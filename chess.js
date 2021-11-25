@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. 2021.11.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-scheveningen-chess-and-psychology-im-dorsa-derakhshani-lichesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pFLtK18AoTs.jpg?itok=8R98sZ5A\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-sicilian-scheveningen-chess-and-psychology-im-dorsa-derakhshani-lichesscom",
+         "pubDate" : "Thu, 25 Nov 2021 00:58:58 +0000",
+         "title" : "Play the Sicilian: Scheveningen | Chess and Psychology - IM Dorsa Derakhshani | lichess.com"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1088,14 +1096,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/andreikin-wins-november-16-titled-tuesday",
          "pubDate" : "Tue, 16 Nov 2021 17:12:10 -0800",
          "title" : "Andreikin Wins November 16 Titled Tuesday"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows his games from the 2016 Indianapolis Open. The mysterious masked Caleb was rated 2000 at that event. 2021.11.16<br /> Caleb Denby vs. Jason Scott Daniels, 2016: A88 Dutch, Leningrad, main variation with c6 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-2000-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-2000-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Wed, 17 Nov 2021 00:51:48 +0000",
-         "title" : "Play Like a 2000! | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
          "description" : "With the first two rounds of playoffs complete, each division has been narrowed down to the final four remaining teams. These teams will fight this weekend in the semifinals and finals for their share of the $25,000 prize pool. You won&#39;t want to m...",
