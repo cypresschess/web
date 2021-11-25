@@ -5,6 +5,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1447",
+         "pubDate" : "Wed, 24 Nov 2021 20:50:50 +0000",
+         "title" : "Mariano Ortega clinches his second title of Cape Verde Champion"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1446",
          "pubDate" : "Wed, 24 Nov 2021 17:34:36 +0000",
          "title" : "FIDE World Championship Dubai 2021: The first skirmish"
@@ -122,7 +130,7 @@ news_feed (
          "title" : "Congratulations Air Vice Marshal Jonnalagadda Rajendra"
       },
       {
-         "description" : " Share! For three years, the chess world has anticipated the next competitor for World Champion Magnus Carlsen. The time has come and on November 26th the champion will take on challenger Ian Nepomniachtchi of Russia for all the glory. So much has happened in this time including the onslaught of the coronavirus which stopped the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/24/world-championship-2021-kicks-off-in-a-few-days/\">World Championship 2021 kicks off in a few days!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!28 For three years, the chess world has anticipated the next competitor for World Champion Magnus Carlsen. The time has come and on November 26th the champion will take on challenger Ian Nepomniachtchi of Russia for all the glory. So much has happened in this time including the onslaught of the coronavirus which stopped the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/24/world-championship-2021-kicks-off-in-a-few-days/\">World Championship 2021 kicks off in a few days!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/24/world-championship-2021-kicks-off-in-a-few-days/",
@@ -2136,22 +2144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2021-r7",
          "pubDate" : "Thu, 04 Nov 2021 06:05:00 +0100",
          "title" : "Grand Swiss: Lei keeps on winning, Firouzja reclaims the lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1413",
-         "pubDate" : "Wed, 03 Nov 2021 20:56:57 +0000",
-         "title" : "International Chess Federation Partners with TON Labs to Launch the Sport's First Global NFT Marketplace ChessNFT.com"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1414",
-         "pubDate" : "Wed, 03 Nov 2021 20:55:11 +0000",
-         "title" : "FIDE Chess.com Grand Swiss: Round 7 Recap"
       }
    ]
 }
