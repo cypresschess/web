@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world champion aims to exploit Ian Nepomniachtchi's lack of experience in world title matches, while the French 18-year-old has just broken two of Carlsen's own landmarks Magnus Carlsen says that he plans a fast start in the opening three rounds of his 14-game, $2m world title match against Russia's Ian Nepomniachtchi on Friday, Saturday and Sunday. Play starts at 12.30pm GMT throughout the match, which can be followed live and free online, with expert and computer commentaries on every move. Nepomniachtchi will have the favourable white pieces in the first game, whose colours were determined <a href=\"https://twitter.com/FIDE_chess/status/1463560207305424906?ref_src=twsrc%5Etfw%7Ctwcamp",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/nov/26/chess-carlsen-plans-fast-start-in-dubai-while-firouzja-captures-his-records",
+         "pubDate" : "Fri, 26 Nov 2021 08:00:23 +0000",
+         "title" : "Chess: Carlsen plans fast start in Dubai while Firouzja captures his records"
+      },
+      {
+         "description" : " <p class=\"lead\">World Chess is proud to unveil the first ever <a href=\"https://shop.worldchess.com/shop/worldchessxakilaglasses\">official chess sunglasses</a> in time for the FIDE World Chess Championship Match that opens in Dubai today. The official citation says: \"The glasses with their defined shape and smartly placed chess pattern, are another step in making chess (and chess players) cool and in line with World Chess' mission to develop chess products worthy of the sport's rising profile. One also really needs sunglasses in Dubai!\" <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.3333333333333\"> <img src=\"https://worldchess.com/news/pictures/CD835A77-4",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/chess-gets-its-own-sunglasses-in-time-for-the-championship-match/",
+         "pubDate" : "Fri, 26 Nov 2021 07:07:45 +0000",
+         "title" : "Chess Gets Its Own Sunglasses In Time for the Championship Match in Dubai"
+      },
+      {
+         "description" : " If you wish to follow the games and results from the 2021 Vikings Weekender, you can do so at http://tournaments.streetchess.net/vikings2021/ The first round is tonight at 7:00pm Canberra time, with subsequent rounds at Saturday 11:15 am, 3pm, 7pm and Sunday 11:15am and 3pm. I hope to have 4 DGT boards running over all rounds <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/11/2021-vikings-coverage.html",
+         "pubDate" : "Fri, 26 Nov 2021 05:23:00 +0000",
+         "title" : "2021 Vikings Coverage"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87923464.cms\" />When multiple and reigning champion Magnus Carlsen (Elo 2855) faces first-time finalist and world No. 5 Ian 'Nepo' Nepomniachtchi (Elo 2782) in their 14-game title match starting in Dubai from Friday, the Norwegian is not a favourite by huge margin.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/can-nepo-win-chess-war-against-magnus-carlsen/articleshow/87923464.cms",
+         "pubDate" : "Fri, 26 Nov 2021 10:12:04 +0530",
+         "title" : "Can Nepo win chess war against Magnus Carlsen?"
+      },
+      {
          "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen 0 Caruana [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1546,14 +1578,6 @@ news_feed (
          "title" : "Trent's Tactics - King hunts with queen stunts"
       },
       {
-         "description" : "Ian Nepomniachtchi goes into the match against Magnus Carlsen in Dubai as the last man standing with a plus score against the World Champion: an amazing 4:1 lead in decisive classical games. They've played just 13 games, however - before Carlsen-Caruana, 33 classical games had been played, with Magnus winning 10 to Fabi's 5. Sean Marsh takes a look at the decisive encounters, two of which took place before Magnus was yet a teenager.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-vs-nepomniachtchi-decisive-encounters",
-         "pubDate" : "Fri, 12 Nov 2021 14:20:00 +0000",
-         "title" : "Carlsen vs. Nepomniachtchi: Decisive Encounters"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87666825.cms\" />Indian chess ace Viswanathan Anand is looking forward to being at a World C'ship minus the stress of competition as he prepares to don the commentator's hat for the upcoming clash between defending champion Magnus Carlsen and Ian Nepomniachtchi of Russia.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2192,14 +2216,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-positional-pawn-sacrifice",
          "pubDate" : "Fri, 05 Nov 2021 11:01:37 +0100",
          "title" : "Robert Ris' Fast and Furious: A positional pawn sacrifice"
-      },
-      {
-         "description" : " <p class=\"lead\">Tournament leader, 18-year old Alireza Firouzja scored another victory in the Grand Swiss in Riga. He won as White against Krishnan Sasikiran securing that he alone is at the top before Round Nine, a full point ahead of the rest. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/C9A7FCC3-7132-4237-98DF-92FEAD0932CF.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anna Shtourman, FIDE</div> </div> FIDE Grand Swiss is a recent addition to the World Chess Championship cycle. It's a large Swiss event to select two players for the next Candidates tournament. The winner of that tournament will become the challenger for the n",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/grand-swiss-firouzja-is-sole-leader-after-round-8/",
-         "pubDate" : "Fri, 05 Nov 2021 05:18:57 +0000",
-         "title" : "Grand Swiss: Firouzja is Sole Leader After Round 8"
       }
    ]
 }
