@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The dynamic duo of Sagar Shah and Amruta Mokal (pictured) have made their way to Dubai to follow closely the highly anticipated World Championship match between Magnus Carlsen and Ian Nepomniachtchi. As usual, they are producing a ton of video material for their YouTube Channel. Not to be missed! | Photo: Anastasiya Karlovich",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sagar-amruta-dubai-2021-day-1",
+         "pubDate" : "Fri, 26 Nov 2021 19:40:00 +0100",
+         "title" : "Sagar and Amruta in Dubai: Day 1 impressions"
+      },
+      {
+         "description" : "World Champion Magnus Carlsen and challenger GM Ian Nepomniachtchi started their FIDE World Championship match on Friday in Dubai with a draw. Nepomniachtchi had a slight opening advantage but got under some pressure soon after, and then impressed...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-chess-championship-game-1-nepomniachtchi-carlsen",
+         "pubDate" : "Fri, 26 Nov 2021 10:23:00 -0800",
+         "title" : "FIDE World Championship G1: Nepo Impresses Under Pressure"
+      },
+      {
+         "description" : "The much-anticipated confrontation between Magnus Carlsen and Ian Nepomniachtchi kicked off at 16:30 local time in Dubai. The first game of the World Championship match finished in a draw. Playing black, Carlsen was the first one to deviate from well-known theoretical lines, but Nepomniachtchi proved to be prepared to face the variation chosen by the defending champion. A tense endgame developed, with both contenders missing small chances here and there. The draw was signed after 45 moves. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-g1",
+         "pubDate" : "Fri, 26 Nov 2021 19:00:00 +0100",
+         "title" : "World Championship Game 1: Tension in the air"
+      },
+      {
+         "description" : "In this week's show, GM Daniel King presents puzzle positions from games of Nepomniachtchi and Carlsen but for the main dish of the day he shows another spectacular attack from Alexei Shirov. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-shirov-on-fire-2",
+         "pubDate" : "Fri, 26 Nov 2021 19:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Spectacular Shirov - again"
+      },
+      {
+         "description" : " The first game of the World Chess Championship between Magnus Carlsen and Ian Nepomniachtchi was played today in Dubai. The game ended in a draw after 45 moves. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/51706706754_4e40c6eeb9_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51706923250_43f173151f_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51706227031_69b2ba0086_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51706831724_eb115c9de4_o-min.jpg\" wid",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-championship-the-first-game-ended-in-a-draw-after-45/",
+         "pubDate" : "Fri, 26 Nov 2021 16:49:05 +0000",
+         "title" : "World Chess Championship: the first game ended in a draw after 45 moves"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen looked to be taking over in a tense first game of the FIDE World Chess Championship in Dubai, but just when it seemed Ian Nepomniachtchi might be in for a long evening of suffering the game fizzled out into a 45-move draw. Both players could take positives from a game in which Magnus came well-prepared in the opening with the black pieces, but Ian dug in and held a draw when required. (MORE LATER!)",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-nepo-1-fierce-battle-ends-in-draw",
+         "pubDate" : "Fri, 26 Nov 2021 16:42:13 +0000",
+         "title" : "Carlsen-Nepo, 1: Fierce battle ends in draw"
+      },
+      {
          "description" : "What do Tal, Euwe, Botvinnik, Petrosian and Alekhine have in common? They all appear on today's episode! Lawrence Trent shows us a couple of World Chess Championship games, of the earlier mentioned Grandmasters. We also advance to a 2250 rating, of the ChessBase training app, but fail to solve a 2497 points high rating. Can you guess it correctly?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/new-trent-s-tactics-6",
          "pubDate" : "Fri, 26 Nov 2021 17:00:00 +0100",
          "title" : "Trent's Tactics - World Championships Special (I)"
+      },
+      {
+         "description" : " The FIDE World Chess Championship got under way in Dubai on Friday 26th November. The match between World Champion Magnus Carlsen and his challenger Ian Nepomniachtchi will be over 14 classical games followed by a day of rapid and blitz tie-breaks if required. The first game of the match was a reasonably tense affair with both players surely glad to get started. The pandemic has drastically reduced the amount of face to face chess in the last 18 months and that will surely affect both players but there has also been a revolution in chess preparation using AI and computers. This is generating masses of new ideas - in the recent past it's been hard to remember everything - we may now have gon",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/nepomniachtchi-and-carlsen-draw-the-first-game-of-their-world-chess-championship-match",
+         "pubDate" : "Fri, 26 Nov 2021 19:30:00 +0400",
+         "title" : "Nepomniachtchi and Carlsen draw the first game of their World Chess Championship match - 1"
+      },
+      {
+         "description" : "Ian Nepomniatchi will challenge Magnus Carlsen at the 2021 FIDE World Chess Championships in Dubai.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32713238/king-gambit-magnus-carlsen-quest-five-world-champion-ian-nepomniatchi?device=featurephone",
+         "pubDate" : "Fri, 26 Nov 2021 10:10:05 -0500",
+         "title" : "King's Gambit: Inside Magnus Carlsen's quest to be a five-time World Champion"
       },
       {
          "description" : "",
@@ -32,14 +96,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/fide-world-chess-championships/#new_tab",
          "pubDate" : "Fri, 26 Nov 2021 13:00:11 +0000",
          "title" : "FIDE World Chess Championships 26/11/21"
-      },
-      {
-         "description" : "The most anticipated chess event in the world is taking place from November 26 until December 16 in Dubai - the World Championship match. Magnus Carlsen is playing his fifth match in eight years, while this will be the first shot at the title for challenger Ian Nepomniachtchi. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
-         "pubDate" : "Fri, 26 Nov 2021 13:15:00 +0100",
-         "title" : "Carlsen vs. Nepomniachtchi - Game 1 Live!"
       },
       {
          "description" : "The World Championship match between Magnus Carlsen and Ian Nepomniachtchi promises exciting games. After all, the World Champion and his Challenger have very different styles. French GM Romain Edouard took a close look at the strengths and weaknesses of both players to find out who has the better chances to win the match - and why. | Image: FIDE",
@@ -106,7 +162,7 @@ news_feed (
          "title" : "Mumbai to Dubai: A first look at the FIDE World Championship Match 2021"
       },
       {
-         "description" : " The world champion aims to exploit Ian Nepomniachtchi's lack of experience in world title matches, while the French 18-year-old has just broken two of Carlsen's own landmarks Magnus Carlsen says that he plans a fast start in the opening three rounds of his 14-game, $2m world title match against Russia's Ian Nepomniachtchi on Friday, Saturday and Sunday. Play starts at 12.30pm GMT throughout the match, which can be followed live and free online, with expert and computer commentaries on every move. Nepomniachtchi will have the favourable white pieces in the first game, whose colours were determined <a href=\"https://twitter.com/FIDE_chess/status/1463560207305424906?ref_src=twsrc%5Etfw%7Ctwcamp",
+         "description" : " The world champion aims to exploit Ian Nepomniachtchi's lack of experience in world title matches, while the French 18-year-old has just broken two of Carlsen's own landmarks Magnus Carlsen says he plans a fast start in the opening three rounds of his 14-game, $2m world title match against Russia's Ian Nepomniachtchi on Friday, Saturday and Sunday. Play starts at 12.30pm GMT throughout the match, which can be followed live and free online, with expert and computer commentaries on every move. Nepomniachtchi will have the favourable white pieces in the first game, whose colours were determined <a href=\"https://twitter.com/FIDE_chess/status/1463560207305424906?ref_src=twsrc%5Etfw%7Ctwcamp%5Etw",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2021/nov/26/chess-carlsen-plans-fast-start-in-dubai-while-firouzja-captures-his-records",
@@ -138,7 +194,7 @@ news_feed (
          "title" : "Can Nepo win chess war against Magnus Carlsen?"
       },
       {
-         "description" : " Share!50 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen 0 Caruana [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!50 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; Caruana &frac12; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/",
@@ -160,14 +216,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-crushing-kingside-attack-in-a-ruy-lopez-with-6-d3",
          "pubDate" : "Thu, 25 Nov 2021 19:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: A crushing kingside attack in a Ruy Lopez with 6.d3"
-      },
-      {
-         "description" : "Ian Nepomniatchi will challenge Magnus Carlsen at the 2021 FIDE World Chess Championships in Dubai.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32713238/king-gambit-magnus-carlsen-quest-five-world-champion-ian-nepomniatchi?device=featurephone",
-         "pubDate" : "Thu, 25 Nov 2021 11:44:26 -0500",
-         "title" : "King's Gambit: Inside Magnus Carlsen's quest to be a five-time World Champion"
       },
       {
          "description" : "IM Jonathan Tisdall has been covering World Chess Championship matches for decades. His book \"Moscow Marathon\" from 1985 (co-authored with Jon Speelman) is a witty and insightful report about the 1984/1985 match between Garry Kasparov and Anatoly Karpov, and Tisdall's textbook \"Improve Your Chess Now\" from 1997 is considered a modern classic. In Dubai, Tisdall covers the match between Carlsen and Nepomniachtchi as FIDE press officer and writing about the press conference on Wednesday, Tisdall revealed \"the best advice for aspiring champions\". | Photo: Eric Rosen",
@@ -1314,14 +1362,6 @@ news_feed (
          "title" : "European Team Championship in Terme Catez crosses midpoint"
       },
       {
-         "description" : "18-year-old Alireza Firouzja has overtaken Fabiano Caruana to become world no. 3 on the live rating list after winning brilliant games in Rounds 4 and 5 of the European Team Championship to climb to 2793.3. His team France has suffered with two losses, but no team is setting the Open event on fire, with a six-way tie for 1st place on 8/10 points. In the Women's section Russia are cruising with a perfect 10/10 after defeating their biggest rivals Georgia.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/etcc-4-5-firouzja-storms-to-world-no-3",
-         "pubDate" : "Wed, 17 Nov 2021 08:42:37 +0000",
-         "title" : "ETCC 4-5: Firouzja storms to world no. 3"
-      },
-      {
          "description" : "After five played rounds at the European Team Chess Championship 2021 in Terme Catez, Slovenia, six teams of the Open section and the Russian Women's team go to the resting day heading the crosstables. The top two matches of the European Team Chess Championship 2021 ended in a draw 2-2 result. All four games of the Azerbaijan &hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-r5-report/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2058,14 +2098,6 @@ news_feed (
          "title" : "FIDE Chess.com Grand Swiss: Firouzja and Lei triumph in Riga"
       },
       {
-         "description" : "GM Alireza Firouzja won&#38;nbsp;the FIDE Chess.com Grand Swiss on Sunday in Riga. The French-Iranian grandmaster was the only player to finish on 8/11 after all the key games ended in draws in the final round. Firouzja qualified for the 2022 FIDE Can...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alireza-firouzja-wins-fide-chess-com-grand-swiss-caruana-candidates",
-         "pubDate" : "Sun, 07 Nov 2021 14:21:00 -0800",
-         "title" : "Firouzja Wins FIDE Chess.com Grand Swiss, Reaches Candidates With Caruana"
-      },
-      {
          "description" : "All chess analysis, and that of endgames in particular, has been transformed in recent years by computer technology. Not only can you turn an engine on to get an instant assessment, which is generally fairly correct, but when you get down to seven pieces, then you have the ear of God - or rather an omniscient tablebase. In today's column, we look at two fascinating endgames from the Grand Swiss in Riga. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2114,28 +2146,12 @@ news_feed (
          "title" : "Lindores Abbey Blitz in honour of Mikhail Tal's 85th birthday"
       },
       {
-         "description" : "Alireza Firouzja beat David Howell to reclaim the sole lead in the open section of the FIDE Chess.com Grand Swiss. Two players stand a half point back before the last round - Fabiano Caruana and Grigoriy Oparin. Lei Tingjie secured tournament victory in the women's section with a round to spare. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r10",
-         "pubDate" : "Sun, 07 Nov 2021 08:45:00 +0100",
-         "title" : "Grand Swiss: Firouzja beats Howell"
-      },
-      {
          "description" : " With 1 round to play in the FIDE Grand Prix French GM Alireza Firouja leads on 7.5, half a point ahead of Fabiano Caruana and Grigoriy Oparin. The sole Australian entrant, Timur Kuybokarov is mid field, having scored a solid 50% against a field entirely rated over 2600. He has 2 wins, 2 losses and 6 draws, and a win in the final round will see him finish well above his seeding. Along the way he scored the following nice victory <b>Kovalev,Vladislav (2634) - Kuybokarov,Temur (2549) [C78]</b><br />2021 FIDE Chess.com Grand Swiss Riga (7.41), 03.11.2021 <script>new PgnViewer( { boardName: \"game1287\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/11/grand-swiss-2021.html",
          "pubDate" : "Sun, 07 Nov 2021 07:13:00 +0000",
          "title" : "Grand Swiss 2021"
-      },
-      {
-         "description" : "In his first opening video for ChessBase Magazine Markus Ragger takes up an idea that the World Champion tried out at the FIDE World Cup this summer. In the Moscow Variation (1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 cxd4) White almost always recaptures the d4-pawn with the queen. Carlsen played 5.Nxd4 against Wojtaszek instead and answered 5...Nf6 with the remarkable 6.0-0. In the new ChessBase Magazine Markus Ragger explains the potential of the new concept in a half hour video. From simple stumbling blocks (why can't Black just win the pawn with 6...Sxe4?) to tricky double attacks and positional exchange sacrifices, everything is possible! Here's an excerpt from Ragger's analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-s-new-idea-in-the-sicilian-with-3-bb5",
-         "pubDate" : "Sun, 07 Nov 2021 07:30:00 +0100",
-         "title" : "Carlsen's new idea in the Sicilian with 3.Bb5+"
       },
       {
          "description" : "",
@@ -2216,14 +2232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1417",
          "pubDate" : "Fri, 05 Nov 2021 20:37:22 +0000",
          "title" : "Luis Paolo Supi and Julia Alboredo win Brazilian Championship"
-      },
-      {
-         "description" : " Englishman's four straight wins bring him level with the 18-year-old Firouzja and Caruana in battle for Candidates places England's David Howell scored his fourth win in a row on Friday afternoon as the three-time British champion, 30, from Seaford in Sussex, joined the world Nos 3 and 4, Fabiano Caruana of the US and 18-year-old Alireza Firouzja of France in leading the 108-player Grand Prix at Riga. The trio have 6.5/9, half a point ahead of 10 players on 6/9, as the tournament is set for a tense final round on Sunday. <a href=\"https://www.theguardian.com/sport/2021/nov/05/chess-alireza-firouzja-leads-in-riga-as-he-campaigns-for-carlsens-crown\">Continue reading...</a>",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/nov/05/chess-alireza-firouzja-leads-in-riga-as-he-campaigns-for-carlsens-crown",
-         "pubDate" : "Fri, 05 Nov 2021 19:43:24 +0000",
-         "title" : "Chess: Inspired David Howell joins Firouzja and Caruana in three-way lead in Riga"
       }
    ]
 }
