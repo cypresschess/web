@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen 0 Caruana [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/",
+         "pubDate" : "Fri, 26 Nov 2021 01:53:49 +0000",
+         "title" : "2021 World Chess Championship (Carlsen vs. Nepomniachtchi)"
+      },
+      {
          "description" : "The World Championship match will start very soon, and is scheduled to run over 14 exciting games. When one of the rounds is over, says CHESS Magazine, London, why not enjoy a chess-themed crossword composition. We reprint the puzzle here, without the solution (which we will add at the end of the match). Maybe our readers can solve the puzzle communally, in the feedback section below the article?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,20 +42,20 @@ news_feed (
          "title" : "Carlsen vs Nepomniachtchi: \"Enjoy what you do!\""
       },
       {
-         "description" : " <p class=\"lead\">Russia's No.1 and 2021 Challenger, Ian Nepomniachtchi gave his final newspaper interview to Sean Ingle and <a href=\"https://www.theguardian.com/sport/2021/nov/25/will-nepo-supercomputer-give-him-world-chess-title-edge-over-carlsen\">the Guardian</a> before his first World Championship match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51701746511_d0bffc3ebf_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen</div> </div> According to the author of the article, it would count as one of the more seismic shocks in modern chess history if Magnus Carlsen were to lose his world title over Ian Nepomniachtchi",
+         "description" : " <p class=\"lead\">Russia's No.1 and 2021 Challenger, Ian Nepomniachtchi talked gave his pre-match newspaper interview to Sean Ingle of <a href=\"https://www.theguardian.com/sport/2021/nov/25/will-nepo-supercomputer-give-him-world-chess-title-edge-over-carlsen\">the Guardian</a>. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51701746511_d0bffc3ebf_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen</div> </div> According to the Guaridan, it would count as one of the more seismic shocks in modern chess history if Magnus Carlsen were to lose his world title over Ian Nepomniachtchi. However, Nepo is viewed as a worthy challen",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/nepo-on-guardian-i-was-maybe-the-least-hard-working-person-out-o/",
          "pubDate" : "Thu, 25 Nov 2021 16:04:45 +0000",
-         "title" : "Nepo on Guardian \"I was maybe the least hard working person out of the world's top 20\""
+         "title" : "Nepo in The Guardian \"I was maybe the least hard working person out of the world's top 20\""
       },
       {
-         "description" : " <p class=\"lead\">The reigning World Champion Magnus Carlsen gave his final newspaper interview to Sean Ingle and <a href=\"https://www.theguardian.com/sport/2021/nov/24/magnus-carlsen-the-big-advantage-is-that-i-am-the-better-chess-player\">the Guardian</a> before his 5th World Championship match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51702417894_7943ae3f41_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen</div> </div> \"I'm less hungry. I think you're always going to be if you're playing for the world title for the fifth time, rather than the first.\" was the punch line of Carlsen's interview. Below are some mor",
+         "description" : " <p class=\"lead\">The reigning World Champion Magnus Carlsen gave his pre-match interview to Sean Ingle and <a href=\"https://www.theguardian.com/sport/2021/nov/24/magnus-carlsen-the-big-advantage-is-that-i-am-the-better-chess-player\">the Guardian</a> before his 5th World Championship match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51702417894_7943ae3f41_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen</div> </div> \"I'm less hungry. I think you're always going to be if you're playing for the world title for the fifth time, rather than the first.\" was the punch line of Carlsen's interview. Below are some more ques",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/carlsen-on-guardian-im-less-hungry/",
          "pubDate" : "Thu, 25 Nov 2021 15:53:19 +0000",
-         "title" : "Carlsen on Guardian: \"I'm less hungry\""
+         "title" : "Carlsen: \"I'm less hungry\""
       },
       {
          "description" : " The FIDE World Chess Championship takes place in Dubai, UAE, 24th November (opening ceremony - game 1 on 26th Nov) until 16th December. The match is between World Champion Magnus Carlsen and his Challenger Ian Nepomniachtchi. The match will be over 14 games rather than the recent 12 and uses an accelerated schedule to accommodate this - a final day of rapid and blitz tie-breaks will take place on 15th December in the event of a 7-7 tie. Nepomniachtchi will not compete under the Russian flag due to WADA sporting sanctions against Russia because of their state sponsored doping program. Both players were born in 1990 - Nepomniachtchi is the slightly older - born 14th July - Carlsen will have h",
@@ -274,7 +282,7 @@ news_feed (
          "title" : "Congratulations Air Vice Marshal Jonnalagadda Rajendra"
       },
       {
-         "description" : " Share!28 For three years, the chess world has anticipated the next competitor for World Champion Magnus Carlsen. The time has come and on November 26th the champion will take on challenger Ian Nepomniachtchi of Russia for all the glory. The closing of the 14-game match will be December 16th (including tiebreaks). Regulations can be found [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/24/world-championship-2021-kicks-off-in-a-few-days/\">World Championship 2021 kicks off in a few days!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " For three years, the chess world has anticipated the next competitor for World Champion Magnus Carlsen. The time has come and on November 26th the champion will take on challenger Ian Nepomniachtchi of Russia for all the glory. The closing of the 14-game match will be December 16th (including tiebreaks). Regulations can be found here. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/24/world-championship-2021-kicks-off-in-a-few-days/\">World Championship 2021 kicks off in a few days!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/24/world-championship-2021-kicks-off-in-a-few-days/",
