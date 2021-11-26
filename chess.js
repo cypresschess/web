@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What do Tal, Euwe, Botvinnik, Petrosian and Alekhine have in common? They all appear on today's episode! Lawrence Trent shows us a couple of World Chess Championship games, of the earlier mentioned Grandmasters. We also advance to a 2250 rating, of the ChessBase training app, but fail to solve a 2497 points high rating. Can you guess it correctly?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-6",
+         "pubDate" : "Fri, 26 Nov 2021 17:00:00 +0100",
+         "title" : "Trent's Tactics - World Championships Special (I)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1450",
+         "pubDate" : "Fri, 26 Nov 2021 13:58:21 +0000",
+         "title" : "FIDE World Rapid & Blitz Championship 2021: Visa & technical info"
+      },
+      {
+         "description" : "Hours before \"Nepo's\" first move against defending champion Magnus Carlsen was made, FIDE officials were informed the emblem emblazoned below the challenger's name may be in danger of breaching Russia's World Anti-Doping Agency ban.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-scrambles-to-replace-nepo-s-flag-before-start-of-play",
+         "pubDate" : "Fri, 26 Nov 2021 13:18:47 +0000",
+         "title" : "FIDE scrambles to replace Nepo's flag before start of play"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/fide-world-chess-championships/#new_tab",
+         "pubDate" : "Fri, 26 Nov 2021 13:00:11 +0000",
+         "title" : "FIDE World Chess Championships 26/11/21"
+      },
+      {
          "description" : "The most anticipated chess event in the world is taking place from November 26 until December 16 in Dubai - the World Championship match. Magnus Carlsen is playing his fifth match in eight years, while this will be the first shot at the title for challenger Ian Nepomniachtchi. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2021-live",
          "pubDate" : "Fri, 26 Nov 2021 13:15:00 +0100",
-         "title" : "Carlsen vs. Nepommniachtchi - Game 1 Live!"
+         "title" : "Carlsen vs. Nepomniachtchi - Game 1 Live!"
       },
       {
          "description" : "The World Championship match between Magnus Carlsen and Ian Nepomniachtchi promises exciting games. After all, the World Champion and his Challenger have very different styles. French GM Romain Edouard took a close look at the strengths and weaknesses of both players to find out who has the better chances to win the match - and why. | Image: FIDE",
@@ -106,7 +138,7 @@ news_feed (
          "title" : "Can Nepo win chess war against Magnus Carlsen?"
       },
       {
-         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen 0 Caruana [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!50 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen 0 Caruana [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/",
@@ -192,14 +224,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-championship-will-change-nepo-as-a-player-viswanathan-anand/articleshow/87914269.cms",
          "pubDate" : "Thu, 25 Nov 2021 18:51:37 +0530",
          "title" : "World championship will change Nepo as a player: Anand"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/fide-world-chess-championships/#new_tab",
-         "pubDate" : "Thu, 25 Nov 2021 13:01:11 +0000",
-         "title" : "FIDE World Chess Championships tomorrow 26/11/21"
       },
       {
          "description" : "Magnus Carlsen starts his 5th World Chess Championship match on Friday when he has the black pieces against Ian Nepomniachtchi in Dubai. In some interviews for major international publications on the eve of the match he confessed he was \"less hungry\" this time round and could live without the ordeal of the matches. He also talked about the threat of Alireza Firouzja (\"his talent is immense\") and how the motivation to remain number one would remain with or without the title.",
@@ -1442,14 +1466,6 @@ news_feed (
          "title" : "Karsten M&uuml;ller's Endgame Magic Show #170: Endgame highlights from the FIDE Grand Swiss in Riga (2)"
       },
       {
-         "description" : "Shakhriyar Mamedyarov is on 3/3 as Azerbaijan co-lead the European Team Championship with Hungary, who overcame France despite Alireza Firouzja picking up a 2nd win in three games to continue his rating climb. Benjamin Gledura has starred with 3/3 for Hungary, while Anish Giri has racked up the same score for the Netherlands, but his team is struggling. In the women's event Russia have scored a near perfect 11.5/12 game points, but Georgia and Armenia have also won all their matches.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/etcc-2-3-mamedyarov-giri-firouzja-on-fire",
-         "pubDate" : "Mon, 15 Nov 2021 13:58:29 +0000",
-         "title" : "ETCC 2-3: Mamedyarov, Giri & Firouzja on fire"
-      },
-      {
          "description" : "Svitlana Demchenko has to find all of her smart moves for a fun battle against Fritz 18, which is available very soon. The newest engine is made for playing interesting games, and finds some \"human\" moves on purpose for your and our entertainment. Although Fritz 18 gives Svitlana some subtle hints to the right direction, it still feels very satisfying to find an unstoppable mate combination against the engine.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2170,14 +2186,6 @@ news_feed (
          "title" : "Cambridge boat sinks - at chess"
       },
       {
-         "description" : "In the diagram position, Black's has just played 16...Qg4, threatening 17...Nxg2+ while preventing 0-0-0. So, White's king is in a fix, and in the game it ended up getting checkmated on ... a5! Enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/romanishin-the-romantic",
-         "pubDate" : "Sat, 06 Nov 2021 09:00:00 +0100",
-         "title" : "Romanishin, the romantic"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87550433.cms\" />India's Dronavalli Harika wore down Russia's Alina Kashlinskaya with black pieces in the ninth round of the FIDE Women's Grand Swiss chess tournament to share the joint second spot with four other players.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2216,14 +2224,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/nov/05/chess-alireza-firouzja-leads-in-riga-as-he-campaigns-for-carlsens-crown",
          "pubDate" : "Fri, 05 Nov 2021 19:43:24 +0000",
          "title" : "Chess: Inspired David Howell joins Firouzja and Caruana in three-way lead in Riga"
-      },
-      {
-         "description" : " Hybrid Chess is one of the new innovations that has gained in popularity during the various covid lockdown periods. I have been involved as an arbiter for these events, an still have mixed opinions on how well they work (NB I was involved in the drafting of the FIDE Hybrid Regulations). Of the events I have worked on, the format that seems to suit Hybrid Chess the best is for team events. Individual events can be a little messy to organise, especially small events like round robins. But team events have a more suitable arbiter(s) to player ratio. In the ongoing Asian Club Cup there are usually 2 officials per team or 2 teams, which is 1 to 3 or 1 to 6. However this also works best if there ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/hybrid-teams.html",
-         "pubDate" : "Fri, 05 Nov 2021 13:05:00 +0000",
-         "title" : "Hybrid Teams"
       }
    ]
 }
