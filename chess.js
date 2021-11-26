@@ -274,7 +274,7 @@ news_feed (
          "title" : "Congratulations Air Vice Marshal Jonnalagadda Rajendra"
       },
       {
-         "description" : " Share!28 For three years, the chess world has anticipated the next competitor for World Champion Magnus Carlsen. The time has come and on November 26th the champion will take on challenger Ian Nepomniachtchi of Russia for all the glory. So much has happened in this time including the onslaught of the coronavirus which stopped the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/24/world-championship-2021-kicks-off-in-a-few-days/\">World Championship 2021 kicks off in a few days!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!28 For three years, the chess world has anticipated the next competitor for World Champion Magnus Carlsen. The time has come and on November 26th the champion will take on challenger Ian Nepomniachtchi of Russia for all the glory. The closing of the 14-game match will be December 16th (including tiebreaks). Regulations can be found [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/24/world-championship-2021-kicks-off-in-a-few-days/\">World Championship 2021 kicks off in a few days!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/24/world-championship-2021-kicks-off-in-a-few-days/",
@@ -2192,14 +2192,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/grand-swiss-firouzja-is-sole-leader-after-round-8/",
          "pubDate" : "Fri, 05 Nov 2021 05:18:57 +0000",
          "title" : "Grand Swiss: Firouzja is Sole Leader After Round 8"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1416",
-         "pubDate" : "Thu, 04 Nov 2021 21:43:11 +0000",
-         "title" : "FIDE Chess.com Grand Swiss: Round 8 Recap"
       }
    ]
 }
