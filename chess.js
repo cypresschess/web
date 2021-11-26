@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The most anticipated chess event in the world is taking place from November 26 until December 16 in Dubai - the World Championship match. Magnus Carlsen is playing his fifth match in eight years, while this will be the first shot at the title for challenger Ian Nepomniachtchi. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
+         "pubDate" : "Fri, 26 Nov 2021 13:15:00 +0100",
+         "title" : "Carlsen vs. Nepommniachtchi - Game 1 Live!"
+      },
+      {
+         "description" : "The World Championship match between Magnus Carlsen and Ian Nepomniachtchi promises exciting games. After all, the World Champion and his Challenger have very different styles. French GM Romain Edouard took a close look at the strengths and weaknesses of both players to find out who has the better chances to win the match - and why. | Image: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-vs-nepomniachtchi-strengths-weaknesses-and-a-prognosis",
+         "pubDate" : "Fri, 26 Nov 2021 13:11:07 +0100",
+         "title" : "Carlsen vs Nepomniachtchi: Strengths, weaknesses and a prognosis"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/q1XFLBJmd0Y?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> World Chess Championship Stream Live from Dubai ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-1-of-the-match/",
+         "pubDate" : "Fri, 26 Nov 2021 12:01:03 +0000",
+         "title" : "Time To Say Dubai: Round 1 of the Match"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1449",
+         "pubDate" : "Fri, 26 Nov 2021 11:12:14 +0000",
+         "title" : "FIDE QC to present new sets of regulations online"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> President <strong>Arkady Dvorkovich</strong> said in an <a href=\"https://ruchess.ru/en/news/report/arkady_dvorkovich_i_expect_more_than_two_decisive_games_in_carlsen_vs_nepomniachtchi_match/\">interview with the Russian Chess Federation</a> that the next world championship match shall take place in spring 2023 and the host of the <strong>Candidates Tournament</strong> in the second half of 2022 is to be chosen during the next days. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/next-world-championship-in-spring/",
+         "pubDate" : "Fri, 26 Nov 2021 12:02:27 +0100",
+         "title" : "Next world championship in spring 2023"
+      },
+      {
+         "description" : "Every month a few ChessBase DVDs get released. Which one to get and which one to pass? Which one should be prioritized? Well, that you have to figure out on your own or with the help of your trainers or sparring partners. Once you have figured out the area you need to improve on or become stronger, it becomes that much easier to select a DVD and start working on it. Aanjaneya Phatak, shares his own personal experience as he reviews the latest DVD by Robert Ris, titled Calculation Training in Attack & Defence. Check out the review and see if it helps you to decide buying this DVD.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-calculation-training-in-attack-defence-vol-1-a-review",
+         "pubDate" : "Fri, 26 Nov 2021 12:00:00 +0100",
+         "title" : "Robert Ris: Calculation Training in Attack & Defence Vol. 1 - A Review"
+      },
+      {
+         "description" : "Ian Nepomniachtchi begins the battle for the World Chess Championship title against Magnus Carlsen today in Dubai, but it was only in 2019 that the Russian first entered the World Top 10. In a recent interview with Maria Emelianova for New in Chess magazine, Ian calls himself a \"slow dude\" and admits, \"it took me quite some time to realize that work is a vital part of any progress\".",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ian-nepomniachtchi-i-wasn-t-working-hard-enough",
+         "pubDate" : "Fri, 26 Nov 2021 10:54:01 +0000",
+         "title" : "Ian Nepomniachtchi: \"I wasn't working hard enough\""
+      },
+      {
+         "description" : "Entries are invited to participate in the European Youth Rapid &#38; Blitz Championship. There are six age groups - Under 8 (born 2013 or later),...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-youth-rapid-blitz-championship/",
+         "pubDate" : "Fri, 26 Nov 2021 10:04:30 +0000",
+         "title" : "European Youth Rapid & Blitz Championship"
+      },
+      {
+         "description" : "The World Championship is about to begin on the 26th of November 2021. Sagar Shah and Amruta Mokal have made their way from Mumbai to Dubai to bring you on the ground coverage of the biggest event of the year. Magnus Carlsen is going to play his 5th World Championship Match in the last 8 years, while this will be the first shot at the title for the Challenger Ian Nepomniachtchi. A lot of interesting things have already happened leading to the match, and in this article we tell you about the venue of the event - the massive Dubai Expo 2020, the press conference and the opening ceremony! Along with it Sagar gives you a personal account of his experience of travel from India to the UAE and reac",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mumbai-to-dubai-a-first-look-at-the-fide-world-championship-match-2021",
+         "pubDate" : "Fri, 26 Nov 2021 10:10:59 +0100",
+         "title" : "Mumbai to Dubai: A first look at the FIDE World Championship Match 2021"
+      },
+      {
          "description" : " The world champion aims to exploit Ian Nepomniachtchi's lack of experience in world title matches, while the French 18-year-old has just broken two of Carlsen's own landmarks Magnus Carlsen says that he plans a fast start in the opening three rounds of his 14-game, $2m world title match against Russia's Ian Nepomniachtchi on Friday, Saturday and Sunday. Play starts at 12.30pm GMT throughout the match, which can be followed live and free online, with expert and computer commentaries on every move. Nepomniachtchi will have the favourable white pieces in the first game, whose colours were determined <a href=\"https://twitter.com/FIDE_chess/status/1463560207305424906?ref_src=twsrc%5Etfw%7Ctwcamp",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -746,14 +818,6 @@ news_feed (
          "title" : "Aronian Beats Erigaisi In Armageddon To Clinch Tata Steel India Blitz"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Hundreds of spectators watched two days each of rapid and blitz at the <strong><a href=\"https://www.tatasteelchess.in/\">Tata Steel Chess India</a></strong> in the National Library in Kolkata. They saw the 18-year-old Indian <strong>Arjun Erigaisi</strong> winning the rapid and becoming second at blitz after he lost a close tie-breaker against <strong>Levon Aronian</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/erigaise-excelled-in-kolkata/",
-         "pubDate" : "Sun, 21 Nov 2021 14:50:43 +0100",
-         "title" : "Erigaisi excelled in Kolkata"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 54th instalment of his ChessBase show \"Understanding before Moving\", Herman shows a fascinating study, in which White wins a position that on first glance seems to be impossible to win. | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1482,14 +1546,6 @@ news_feed (
          "title" : "European Rapid&Blitz Chess Championship 2021 - Announcement"
       },
       {
-         "description" : "Alireza Firouzja beat Markus Ragger and climbed back to world no. 4 on the live rating list as he made his debut in a 3:1 victory for France over Austria in Round 1 of the European Team Championship. France, who also feature MVL, are 3rd seeds, with top seeds Russia and Azerbaijan cruising in Round 1. There were upsets, however, with England living to regret resting Mickey Adams as they lost 2.5:1.5 to Norway, while wins for Anish Giri and Jorden van Foreest weren't enough to stop Georgia holding the Netherlands to a draw.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ecct-1-firouzja-world-no-4-after-french-debut",
-         "pubDate" : "Sat, 13 Nov 2021 12:48:39 +0000",
-         "title" : "ETCC 1: Firouzja world no. 4 after French debut"
-      },
-      {
          "description" : " Signs that OTB chess may return to normality within 12 months continue to appear. The 2021 European Teams Championship has kicked of in Slovenia, and the 9 round events has attracted a very strong field. There were 39 teams in the Open, and 31 in the Women's Section. Azerbaijan were the only team to win 4-0 in the Open in round 1, and their Women's team repeated the score in their event. The event is a 9 round tournament, and will be covered on all the major chess sites. I had a quick look through the games from the first round, and the following quick win for Black caught my eye. <br /> <b>Koykka,Pekka (2353) - Parligras,Mircea-Emilian (2576) [C47]</b><br />23rd European Team Chess Champio",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1875,14 +1931,6 @@ news_feed (
       },
       {
          "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.batterseachessclub.org.uk/goodbye-derek-club-member-dies-suddenly-aged-74/#new_tab",
-         "pubDate" : "Tue, 09 Nov 2021 11:41:21 +0000",
-         "title" : "RIP Derek Harvey"
-      },
-      {
-         "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1427",
@@ -2138,28 +2186,12 @@ news_feed (
          "title" : "FIDE Grand Swiss: Harika beats Kashlinskaya to grab joint 2nd spot"
       },
       {
-         "description" : "In an exciting twist, Fabiano Caruana beat former sole leader Alireza Firouzja in the open section of the FIDE Chess.com Grand Swiss to set up a thrilling final weekend in Riga. Now Caruana and Firouzja are sharing the lead with David Howell, while no fewer than ten players are standing only a half point back - the fight for the two spots in the next edition of the Candidates has heated up considerably! Meanwhile, Lei all but secured tournament victory in the women's section, as she incredibly collected a fourth win in a row by beating Alexandra Kosteniuk with the black pieces. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r9",
-         "pubDate" : "Sat, 06 Nov 2021 02:20:00 +0100",
-         "title" : "Grand Swiss: Three co-leaders as Caruana beats Firouzja"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1419",
          "pubDate" : "Fri, 05 Nov 2021 22:27:36 +0000",
          "title" : "FIDE Chess.com Grand Swiss: Round 9 Recap"
-      },
-      {
-         "description" : "In November 1991 ChessBase launched its first chess playing program for PCs. It was a modest start, but one that went on to completely change the chess world. Today, we start retracing the steps that led to the development of a fledgling chess program that went on to become one of the most powerful entities that has ever played the game - one that top players consult when preparing for their next tournament or match.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/thirty-years-happy-birthday-fritz-1",
-         "pubDate" : "Fri, 05 Nov 2021 23:09:59 +0100",
-         "title" : "Thirty years! Happy Birthday Fritz (1)"
       },
       {
          "description" : "",
@@ -2186,36 +2218,12 @@ news_feed (
          "title" : "Chess: Inspired David Howell joins Firouzja and Caruana in three-way lead in Riga"
       },
       {
-         "description" : "In this week's show, GM Daniel King re-examins a classic, the game Keres vs Smyslov, Zuerich 1953. Smyslov won this crucial game and went on to win the tournament and challenged Botvinnik for the title. But what do modern computers have to say about his defensive play? The attacking ideas in this game are very much worth investigating and can be applied in other situations. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-a-key-attacking-move",
-         "pubDate" : "Fri, 05 Nov 2021 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: A key attacking move"
-      },
-      {
-         "description" : "Lawrence takes us on a ride to discover how creativity can be used for tactical patterns. The more often we repeat the exercises, the better we understand the tactics. Furthermore, Lawrence and Arne try to achieve over 2100 rating points in the ChessBase training section.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-3",
-         "pubDate" : "Fri, 05 Nov 2021 17:00:00 +0100",
-         "title" : "Trent's Tactics - Discovering creative check-mates"
-      },
-      {
          "description" : " Hybrid Chess is one of the new innovations that has gained in popularity during the various covid lockdown periods. I have been involved as an arbiter for these events, an still have mixed opinions on how well they work (NB I was involved in the drafting of the FIDE Hybrid Regulations). Of the events I have worked on, the format that seems to suit Hybrid Chess the best is for team events. Individual events can be a little messy to organise, especially small events like round robins. But team events have a more suitable arbiter(s) to player ratio. In the ongoing Asian Club Cup there are usually 2 officials per team or 2 teams, which is 1 to 3 or 1 to 6. However this also works best if there ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/11/hybrid-teams.html",
          "pubDate" : "Fri, 05 Nov 2021 13:05:00 +0000",
          "title" : "Hybrid Teams"
-      },
-      {
-         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a an interesting positional pawn sacrifice in the Flohr-Mikenas Attack (1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 d4 5.exf6 dxc3 6.bxc3 Qxf6 7.Nf3 b6 8.c5!?), which Jorden van Foreest used to beat the strong Indian Grandmaster Surya Shekhar Ganguly at the Grand Swiss in Riga in just 32 moves. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-positional-pawn-sacrifice",
-         "pubDate" : "Fri, 05 Nov 2021 11:01:37 +0100",
-         "title" : "Robert Ris' Fast and Furious: A positional pawn sacrifice"
       }
    ]
 }
