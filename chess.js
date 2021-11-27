@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Our regularly scheduled article will not be presented this week due to my students sudden involvement in my writing. A question came up at two of the schools I teach chess at last week. The question asked of me was \"are tactics really the only way to win games?\" It seemed like a simple enough <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-three/\">A Foundation for Beginners Forty Three</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.co",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-three/",
+         "pubDate" : "Fri, 26 Nov 2021 20:58:00 +0000",
+         "title" : "A Foundation for Beginners Forty Three"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1451",
+         "pubDate" : "Fri, 26 Nov 2021 20:32:38 +0000",
+         "title" : "FIDE World Championship Dubai 2021: The battle begins"
+      },
+      {
          "description" : "The dynamic duo of Sagar Shah and Amruta Mokal (pictured) have made their way to Dubai to follow closely the highly anticipated World Championship match between Magnus Carlsen and Ian Nepomniachtchi. As usual, they are producing a ton of video material for their YouTube Channel. Not to be missed! | Photo: Anastasiya Karlovich",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "Sagar and Amruta in Dubai: Day 1 impressions"
       },
       {
-         "description" : "World Champion Magnus Carlsen and challenger GM Ian Nepomniachtchi started their FIDE World Championship match on Friday in Dubai with a draw. Nepomniachtchi had a slight opening advantage but got under some pressure soon after, and then impressed...",
+         "description" : " World Champion Magnus Carlsen and challenger GM Ian Nepomniachtchi started their FIDE World Championship match on Friday in Dubai with a draw. Nepomniachtchi had a slight opening advantage but got under some pressure soon after, and then impress...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-chess-championship-game-1-nepomniachtchi-carlsen",
@@ -34,7 +50,7 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Spectacular Shirov - again"
       },
       {
-         "description" : " The first game of the World Chess Championship between Magnus Carlsen and Ian Nepomniachtchi was played today in Dubai. The game ended in a draw after 45 moves. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/51706706754_4e40c6eeb9_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51706923250_43f173151f_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51706227031_69b2ba0086_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51706831724_eb115c9de4_o-min.jpg\" wid",
+         "description" : " <p class=\"lead\">The first game of the World Chess Championship between Magnus Carlsen and Ian Nepomniachtchi was played today in Dubai. The game ended in a draw after 45 moves. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/51706923250_43f173151f_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51706227031_69b2ba0086_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51706831724_eb115c9de4_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photo: FIDE (Niki Riga and Eric ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/world-chess-championship-the-first-game-ended-in-a-draw-after-45/",
@@ -2208,30 +2224,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-swiss-chess-tournament-dronavalli-harika-beats-alina-kashlinskaya-to-grab-joint-second-spot/articleshow/87550433.cms",
          "pubDate" : "Sat, 06 Nov 2021 12:05:38 +0530",
          "title" : "FIDE Grand Swiss: Harika beats Kashlinskaya to grab joint 2nd spot"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1419",
-         "pubDate" : "Fri, 05 Nov 2021 22:27:36 +0000",
-         "title" : "FIDE Chess.com Grand Swiss: Round 9 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1418",
-         "pubDate" : "Fri, 05 Nov 2021 21:02:28 +0000",
-         "title" : "FIDE World Championship for People with Disabilities kicks off on Tornelo"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1417",
-         "pubDate" : "Fri, 05 Nov 2021 20:37:22 +0000",
-         "title" : "Luis Paolo Supi and Julia Alboredo win Brazilian Championship"
       }
    ]
 }
