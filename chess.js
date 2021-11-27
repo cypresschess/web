@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Want to get a glimpse of how things look in Dubai at the World Championship match between Magnus Carlsen and Ian Nepomniachtchi? The dynamic duo of Sagar Shah and Amruta Mokal have made their way to the venue and are producing plenty of content on their YouTube channel. Take a look! | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sagar-amruta-dubai-2021-day-2",
+         "pubDate" : "Sat, 27 Nov 2021 15:00:00 +0100",
+         "title" : "Sagar and Amruta in Dubai: Day 2 impressions"
+      },
+      {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/S1sKmw2evjU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> World Chess Championship Stream Live from Dubai ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "Dubious Battel"
       },
       {
-         "description" : "The 2021 World Championship match kicked off on Friday, with a fighting draw. English star Michael Adams annotates the first game of the confrontation between Magnus Carlsen and Ian Nepomniachtchi. Adams concludes: \"An interesting opening encounter, it will be intriguing to see if Magnus repeats his opening choice then\". | Photo: Eric Rosen",
+         "description" : "The 2021 World Championship match kicked off on Friday, with a fighting draw. English star Michael Adams annotates the first game of the confrontation between Magnus Carlsen and Ian Nepomniachtchi. Adams concludes: \"An interesting opening encounter, it will be intriguing to see if Magnus repeats his opening choice in game 3\". | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2021-g1-expert-annotations",
@@ -114,7 +122,7 @@ news_feed (
          "title" : "Sagar and Amruta in Dubai: Day 1 impressions"
       },
       {
-         "description" : " World Champion Magnus Carlsen and challenger GM Ian Nepomniachtchi started their FIDE World Championship match on Friday in Dubai with a draw. Nepomniachtchi had a slight opening advantage but got under some pressure soon after, and then impress...",
+         "description" : "World Champion Magnus Carlsen and challenger GM Ian Nepomniachtchi started their FIDE World Championship match on Friday in Dubai with a draw. Nepomniachtchi had a slight opening advantage but got under some pressure soon after, and then impressed...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-chess-championship-game-1-nepomniachtchi-carlsen",
@@ -2122,14 +2130,6 @@ news_feed (
          "title" : "Soccer fan Magnus Carlsen"
       },
       {
-         "description" : "The FIDE Grand Swiss in Riga just ended, Alireza Firouzja finished sole first with 8.0/11, half a point ahead of Fabiano Caruana. Both qualified for the Candidates. The tournament in Riga brought many interesting games and many interesting endgames. In the Endgame Magic Show #169 Karsten M&uuml;ller and Thomas Stark look at some of the endgame highlights. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-169-endgame-highlights-from-the-fide-grand-swiss-in-riga",
-         "pubDate" : "Mon, 08 Nov 2021 16:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic #169: Endgame highlights from the FIDE Grand Swiss in Riga"
-      },
-      {
          "description" : " <p class=\"lead\"><a href=\"https://grandswiss.fide.com\">The FIDE Grand Swiss</a> is over and the 18-year-old GM <b>Alireza Firouzja</b> is the big winner with a remarkable 8/11 score and a ticket to the 2022 Candidates Tournament. The second runner and also a Candidates' qualifier is the 2018 Challenger <b>Fabiano Caruana</b> who tied on points with <b>Grigoriy Oparin</b> but got a better tiebreak score. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2021-11-08_13-52-45-min.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anna Shtourman</div> </div> The young Iranian-born French GM had an outstanding performance in Riga, climbing",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2216,14 +2216,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/grand-swiss-firouzja-back-in-the-lead-before-the-final-round/",
          "pubDate" : "Sat, 06 Nov 2021 17:53:58 +0000",
          "title" : "Grand Swiss: Firouzja Back In the Lead Before the Final Round"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87558055.cms\" />Five-time world champion Viswanathan Anand will play the role of a mentor to the Indian youngsters at the third Tata Steel Chess India Rapid and Blitz tournament, starting from November 17.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-to-mentor-indian-players-as-tata-steel-chess-returns-to-kolkata/articleshow/87558055.cms",
-         "pubDate" : "Sat, 06 Nov 2021 21:01:31 +0530",
-         "title" : "Anand to mentor Indian players as Tata Steel Chess returns to Kolkata"
       }
    ]
 }
