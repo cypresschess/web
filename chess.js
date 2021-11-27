@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko continues his series on the Scotch Game or Scotch Opening. Learn Black&#039;s Nf6 response to the Scotch Gambit and the Nakhmanson Gambit. Originally on Twitch. 2021.09.27<br /> C44 Scotch gambit, Dubois-Reti defence<br /> C56 Two knights defence </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shot-scotch-3-scotch-gambit-dubois-reti-nakhmanson-chess-openings-explained-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shot-scotch-3-scotch-gambit-dubois-reti-nakhmanson-chess-openings-explained-0",
+         "pubDate" : "Sat, 27 Nov 2021 01:00:23 +0000",
+         "title" : "A Shot of Scotch #3: Scotch Gambit, Dubois Reti & Nakhmanson | Chess Openings Explained"
+      },
+      {
          "description" : " Our regularly scheduled article will not be presented this week due to my students sudden involvement in my writing. A question came up at two of the schools I teach chess at last week. The question asked of me was \"are tactics really the only way to win games?\" It seemed like a simple enough <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-three/\">A Foundation for Beginners Forty Three</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.co",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -58,7 +66,7 @@ news_feed (
          "title" : "World Chess Championship: the first game ended in a draw after 45 moves"
       },
       {
-         "description" : "World Chess Champion Magnus Carlsen looked to be taking over in a tense first game of the FIDE World Chess Championship in Dubai, but just when it seemed Ian Nepomniachtchi might be in for a long evening of suffering the game fizzled out into a 45-move draw. Both players could take positives from a game in which Magnus came well-prepared in the opening with the black pieces, but Ian dug in and held a draw when required. (MORE LATER!)",
+         "description" : "World Chess Champion Magnus Carlsen looked to be taking over in a tense first game of the FIDE World Chess Championship in Dubai, but just when it seemed Ian Nepomniachtchi might be in for a long evening of suffering the game fizzled out into a 45-move draw. Both players could take positives from a contest in which Magnus came well-prepared in the opening with the black pieces, but Ian dug in and held a draw when required.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/carlsen-nepo-1-fierce-battle-ends-in-draw",
@@ -1400,14 +1408,6 @@ news_feed (
          "link" : "https://aicf.in/2021-tata-steel-chess-india-rapid-blitz-starts-today/",
          "pubDate" : "Wed, 17 Nov 2021 04:24:52 +0000",
          "title" : "2021 Tata Steel Chess India Rapid & Blitz starts today"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows his games from the 2016 Indianapolis Open when he was rated 2000. The mysterious masked Caleb confesses that at that rating, it&#039;s all about who sees the most &quot;tricks.&quot; 2021.11.16<br /> Caleb Denby vs. Jason Scott Daniels, 2016: A88 Dutch, Leningrad, main variation with c6<br /> Maggie Feng vs. Denby, 2016: A07 Reti, King&#039;s Indian attack (Barcza system) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-chess-2",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-chess-2000-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 17 Nov 2021 03:52:05 +0000",
-         "title" : "Play Chess Like a 2000! | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : "GM Dmitry Andreikin took home an outright and undefeated Titled Tuesday victory on November 16, scoring 10/11. GM Anton Demchenko finished in sole second, a half-point behind, with 9.5/11. In a three-way tie with a 9/11 score, GM Jeffery Xiong and...",
