@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/S1sKmw2evjU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> World Chess Championship Stream Live from Dubai ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-2-of-the-match/",
+         "pubDate" : "Sat, 27 Nov 2021 12:22:10 +0000",
+         "title" : "Time To Say Dubai: Round 2 of the Match"
+      },
+      {
+         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. Game 1 finished in a draw. Magnus Carlsen gets his first white of the match in game 2. It is time to know what Ian Nepomniachtchi has prepared with the black pieces. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
+         "pubDate" : "Sat, 27 Nov 2021 13:15:00 +0100",
+         "title" : "Carlsen vs. Nepomniachtchi - Game 2 Live!"
+      },
+      {
+         "description" : "\"That with the Mightiest raised me to contend, And to the fierce contention brought along‚Å Innumerable force of Spirits armed, That durst dislike his reign, and, me preferring, His utmost power with adverse power opposed, In dubious battel on the plains of Heaven, And shook his throne.&#8221; -John Milton, Paradise Lost Dubai is the venue []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/dubious-battel/",
+         "pubDate" : "Sat, 27 Nov 2021 12:00:39 +0000",
+         "title" : "Dubious Battel"
+      },
+      {
+         "description" : "The 2021 World Championship match kicked off on Friday, with a fighting draw. English star Michael Adams annotates the first game of the confrontation between Magnus Carlsen and Ian Nepomniachtchi. Adams concludes: \"An interesting opening encounter, it will be intriguing to see if Magnus repeats his opening choice then\". | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-g1-expert-annotations",
+         "pubDate" : "Sat, 27 Nov 2021 12:00:00 +0100",
+         "title" : "World Championship: Game 1 annotated by Michael Adams"
+      },
+      {
+         "description" : "Richard Kenneth Guy was a British mathematician, with a passion for chess. Siegfried Hornecker's \"Study of the Month\" is all about this great \"Guy\", his life, and his studies. The professor of mathematics, who composed almost 200 endgame studies for the \"British Chess Magazine\", died last year at the age of 103. | Photo: Wikipedia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-strong-law-of-small-numbers",
+         "pubDate" : "Sat, 27 Nov 2021 11:31:29 +0100",
+         "title" : "Study of the Month: Strong law of small numbers"
+      },
+      {
+         "description" : "The 7th European Small Nations Team Chess Championship 2021 opens today in Sliema, Malta, taking place from 27th November 5th December in the AX Victoria Hotel. The event is supported by European Chess Union and will be opened by the ECU President Mr. Zurab Azmaiparashvili. Nine federations (Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-small-nations-team-chess-championship-2021-starts-in-sliema-malta/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-small-nations-team-chess-championship-2021-starts-in-sliema-malta/",
+         "pubDate" : "Sat, 27 Nov 2021 09:35:25 +0000",
+         "title" : "European Small Nations Team Chess Championship 2021 starts in Sliema, Malta"
+      },
+      {
          "description" : "In the diagram position, 26.Rxb7! paves the way for ... Well, that's for you to find out. Checkmate on the horizon - enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +66,7 @@ news_feed (
          "title" : "National Arbiters Training : Batch 2"
       },
       {
-         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 1 Match Score: &frac12;-&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 1 Friday, 26 November 2021 Intense beginnings, but Carlsen holds The first game of the 2021 World Chess Championship match between Magnus Carlsen and Ian Nepomniachtchi began with much fanfare with commentators bubbling [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/27/2021-world-chess-championship-game-1/\">2021 World Chess Championship: Game #1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-Afri",
+         "description" : " Share!1 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 1 Match Score: &frac12;-&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 1 Friday, 26 November 2021 Intense beginnings, but Carlsen holds The first game of the 2021 World Chess Championship match between Magnus Carlsen and Ian Nepomniachtchi began with much fanfare with commentators bubbling [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/27/2021-world-chess-championship-game-1/\">2021 World Chess Championship: Game #1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-Afr",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/27/2021-world-chess-championship-game-1/",
@@ -74,20 +122,20 @@ news_feed (
          "title" : "FIDE World Championship G1: Nepo Impresses Under Pressure"
       },
       {
-         "description" : "The much-anticipated confrontation between Magnus Carlsen and Ian Nepomniachtchi kicked off at 16:30 local time in Dubai. The first game of the World Championship match finished in a draw. Playing black, Carlsen was the first one to deviate from well-known theoretical lines, but Nepomniachtchi proved to be prepared to face the variation chosen by the defending champion. A tense endgame developed, with both contenders missing small chances here and there. The draw was signed after 45 moves. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-g1",
-         "pubDate" : "Fri, 26 Nov 2021 19:00:00 +0100",
-         "title" : "World Championship Game 1: Tension in the air"
-      },
-      {
          "description" : "In this week's show, GM Daniel King presents puzzle positions from games of Nepomniachtchi and Carlsen but for the main dish of the day he shows another spectacular attack from Alexei Shirov. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-shirov-on-fire-2",
          "pubDate" : "Fri, 26 Nov 2021 19:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Spectacular Shirov - again"
+      },
+      {
+         "description" : "The much-anticipated confrontation between Magnus Carlsen and Ian Nepomniachtchi kicked off at 16:30 local time in Dubai. The first game of the World Championship match finished in a draw. Playing black, Carlsen was the first one to deviate from well-known theoretical lines, but Nepomniachtchi proved to be prepared to face the variation chosen by the defending champion. A tense endgame developed, with both contenders missing small chances here and there. The draw was signed after 45 moves. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-g1",
+         "pubDate" : "Fri, 26 Nov 2021 19:00:00 +0100",
+         "title" : "World Championship Game 1: Tension in the air"
       },
       {
          "description" : " <p class=\"lead\">The first game of the World Chess Championship between Magnus Carlsen and Ian Nepomniachtchi was played today in Dubai. The game ended in a draw after 45 moves. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/51706923250_43f173151f_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51706227031_69b2ba0086_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51706831724_eb115c9de4_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photo: FIDE (Niki Riga and Eric ",
@@ -1634,14 +1682,6 @@ news_feed (
          "title" : "Fritz 18: Evolving Genius"
       },
       {
-         "description" : "The Silesian Chess Federation, under the auspices of the European Chess Union, organises the European Rapid&#38;Blitz Chess Championship 2021. The event will take place from 17th-19th December in Katowice, Poland. First on the schedule will be the European Blitz Chess Championship 2021 which will be held on 17th of December. The event will be played in 11 double&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-rapidblitz-chess-championship-2021-announcement/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-rapidblitz-chess-championship-2021-announcement/",
-         "pubDate" : "Sat, 13 Nov 2021 18:07:22 +0000",
-         "title" : "European Rapid&Blitz Chess Championship 2021 - Announcement"
-      },
-      {
          "description" : " Signs that OTB chess may return to normality within 12 months continue to appear. The 2021 European Teams Championship has kicked of in Slovenia, and the 9 round events has attracted a very strong field. There were 39 teams in the Open, and 31 in the Women's Section. Azerbaijan were the only team to win 4-0 in the Open in round 1, and their Women's team repeated the score in their event. The event is a 9 round tournament, and will be covered on all the major chess sites. I had a quick look through the games from the first round, and the following quick win for Black caught my eye. <br /> <b>Koykka,Pekka (2353) - Parligras,Mircea-Emilian (2576) [C47]</b><br />23rd European Team Chess Champio",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2098,22 +2138,6 @@ news_feed (
          "title" : "Firouzja wins Grand Swiss and qualifies for the 2022 Candidates Tournament"
       },
       {
-         "description" : "In honour of the 85th anniversary of the birth of the 8th World Chess Champion Mikhail Tal, FIDE is endorsing the Lindores Abbey Blitz Tournament, which is taking place on November 8 in the historical Hanzas Perons venue in Riga, Latvia. The Swiss System tournament will include nine rounds. Each round will consist of two games played against the same opponent, one with each colour. Maxime Vachier-Lagrave, Levon Aronian and Fabiano Caruana are the top seeds. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lindores-abbey-blitz-2021-live",
-         "pubDate" : "Mon, 08 Nov 2021 10:00:00 +0100",
-         "title" : "Lindores Abbey Blitz - Live!"
-      },
-      {
-         "description" : "Draws on the top 13 boards in the final round of the FIDE Chess.com Grand Swiss meant Alireza Firouzja and Fabiano Caruana qualified to the next edition of the Candidates Tournament. Firouzja was the clear winner with a remarkable 8/11 score, while Caruana tied on points with Grigoriy Oparin but got a better tiebreak score than his Russian colleague. In the women's event, Lei Tingjie had secured tournament victory with a round to spare. Elisabeth Paehtz and Zhu Jiner finished second and third respectively. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-r11",
-         "pubDate" : "Mon, 08 Nov 2021 08:35:00 +0100",
-         "title" : "Firouzja wins Grand Swiss, Caruana qualifies to Candidates"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87579018.cms\" />Indian chess ace Dronavalli Harika held top-seed Mariya Muzychuk of Ukraine to a draw in the 11th and final round of the FIDE Women's Grand Swiss chess tournament here to finish fifth and qualify for the next women's Grand Prix cycle.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2136,14 +2160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1425",
          "pubDate" : "Sun, 07 Nov 2021 23:22:18 +0000",
          "title" : "FIDE Chess.com Grand Swiss: Firouzja and Lei triumph in Riga"
-      },
-      {
-         "description" : "All chess analysis, and that of endgames in particular, has been transformed in recent years by computer technology. Not only can you turn an engine on to get an instant assessment, which is generally fairly correct, but when you get down to seven pieces, then you have the ear of God - or rather an omniscient tablebase. In today's column, we look at two fascinating endgames from the Grand Swiss in Riga. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-157",
-         "pubDate" : "Sun, 07 Nov 2021 22:10:00 +0100",
-         "title" : "The joy of endgames"
       },
       {
          "description" : "",
@@ -2208,30 +2224,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-to-mentor-indian-players-as-tata-steel-chess-returns-to-kolkata/articleshow/87558055.cms",
          "pubDate" : "Sat, 06 Nov 2021 21:01:31 +0530",
          "title" : "Anand to mentor Indian players as Tata Steel Chess returns to Kolkata"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1421",
-         "pubDate" : "Sat, 06 Nov 2021 10:58:12 +0000",
-         "title" : "Kaspersky becomes an official sponsor of the Lindores Abbey Blitz in Riga"
-      },
-      {
-         "description" : " Last time I mentioned the Max Lange Attack, annotating a game where it might have arisen from a Giuoco Piano. It can also arise from other openings, for instance 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 (the Two Knights Defence) 4. d4 exd4 5. O-O Bc5 6. e5, and 1. e4 e5 2. <a href=\"https://chessimprover.com/max-lange-attack/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Max Lange Attack\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/max-lange-attack/\">Max Lange Attack</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/max-lange-attack/",
-         "pubDate" : "Sat, 06 Nov 2021 10:50:30 +0000",
-         "title" : "Max Lange Attack"
-      },
-      {
-         "description" : "The annual chess match between the teams of Oxford and Cambridge Universities, the Varsity match, has often been described as the Boat Race of the Brain. This year, the Cambridge boat sank, with almost all hands. After 139 matches the overall score now stands at: Cambridge 60 wins, Oxford 57 and Drawn 22, which is at []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/cambridge-boat-sinks-at-chess/",
-         "pubDate" : "Sat, 06 Nov 2021 10:38:05 +0000",
-         "title" : "Cambridge boat sinks - at chess"
       }
    ]
 }
