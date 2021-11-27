@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, 26.Rxb7! paves the way for ... Well, that's for you to find out. Checkmate on the horizon - enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/light-square-invasion",
+         "pubDate" : "Sat, 27 Nov 2021 09:00:00 +0100",
+         "title" : "Light square invasion"
+      },
+      {
+         "description" : "Schedule &#38; Regulation National Arbiter (NA) Seminar The National Arbiter seminar is a training session for Arbiters of National level (NA) . NA Seminar Duration",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-arbiters-training-batch-2/",
+         "pubDate" : "Sat, 27 Nov 2021 07:24:54 +0000",
+         "title" : "National Arbiters Training : Batch 2"
+      },
+      {
+         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 1 Match Score: &frac12;-&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 1 Friday, 26 November 2021 Intense beginnings, but Carlsen holds The first game of the 2021 World Chess Championship match between Magnus Carlsen and Ian Nepomniachtchi began with much fanfare with commentators bubbling [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/27/2021-world-chess-championship-game-1/\">2021 World Chess Championship: Game #1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-Afri",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/11/27/2021-world-chess-championship-game-1/",
+         "pubDate" : "Sat, 27 Nov 2021 05:04:59 +0000",
+         "title" : "2021 World Chess Championship: Game #1"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87943143.cms\" />Reigning world chess champion Magnus Carlsen tested Ian Nepomniatchtchi with an off-beat move - Na5 on the eighth move in the Ruy Lopez Opening - in the first game of their 14-game match of World championship that started in Dubai on Friday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-championship-nepo-holds-magnus-carslen-with-white-pieces-in-game-1/articleshow/87943143.cms",
+         "pubDate" : "Sat, 27 Nov 2021 10:05:28 +0530",
+         "title" : "World Championship: Nepo holds Carslen with white pieces in Game 1"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Nick Risko continues his series on the Scotch Game or Scotch Opening. Learn Black&#039;s Nf6 response to the Scotch Gambit and the Nakhmanson Gambit. Originally on Twitch. 2021.09.27<br /> C44 Scotch gambit, Dubois-Reti defence<br /> C56 Two knights defence </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shot-scotch-3-scotch-gambit-dubois-reti-nakhmanson-chess-openings-explained-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -218,7 +250,7 @@ news_feed (
          "title" : "Can Nepo win chess war against Magnus Carlsen?"
       },
       {
-         "description" : " Share!50 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; Caruana &frac12; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; Caruana &frac12; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/",
@@ -1602,14 +1634,6 @@ news_feed (
          "title" : "Fritz 18: Evolving Genius"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/gm-abhijit-kuntes-dhyan-chand-award-celebration-at-aicf-office/",
-         "pubDate" : "Sun, 14 Nov 2021 05:56:05 +0000",
-         "title" : "GM Abhijit Kunte's Dhyan Chand Award Celebration at AICF Office"
-      },
-      {
          "description" : "The Silesian Chess Federation, under the auspices of the European Chess Union, organises the European Rapid&#38;Blitz Chess Championship 2021. The event will take place from 17th-19th December in Katowice, Poland. First on the schedule will be the European Blitz Chess Championship 2021 which will be held on 17th of December. The event will be played in 11 double&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-rapidblitz-chess-championship-2021-announcement/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2138,14 +2162,6 @@ news_feed (
          "title" : "Liudmila Belavenets passes away"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 52nd instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the pleasures of having a space advantage. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-52-space-advantage",
-         "pubDate" : "Sun, 07 Nov 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 52: Space advantage"
-      },
-      {
          "description" : "Draws on the top 13 boards in the final round of the FIDE Chess.com Grand Swiss meant Alireza Firouzja and Fabiano Caruana qualified to the next edition of the Candidates Tournament. Firouzja was the clear winner with a remarkable 8/11 score, while Caruana tied on points with Grigoriy Oparin but got a better tiebreak score than his Russian colleague. In the women's event, Lei Tingjie had secured tournament victory with a round to spare. Elisabeth Paehtz and Zhu Jiner finished second and third respectively. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2216,14 +2232,6 @@ news_feed (
          "link" : "https://www.thearticle.com/cambridge-boat-sinks-at-chess/",
          "pubDate" : "Sat, 06 Nov 2021 10:38:05 +0000",
          "title" : "Cambridge boat sinks - at chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87550433.cms\" />India's Dronavalli Harika wore down Russia's Alina Kashlinskaya with black pieces in the ninth round of the FIDE Women's Grand Swiss chess tournament to share the joint second spot with four other players.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-swiss-chess-tournament-dronavalli-harika-beats-alina-kashlinskaya-to-grab-joint-second-spot/articleshow/87550433.cms",
-         "pubDate" : "Sat, 06 Nov 2021 12:05:38 +0530",
-         "title" : "FIDE Grand Swiss: Harika beats Kashlinskaya to grab joint 2nd spot"
       }
    ]
 }
