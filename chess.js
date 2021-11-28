@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. Two tense, action-packed draws were signed on Friday and Saturday. Ian Nepomniachtchi got his second white on Sunday, prior to the first rest day of the event. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
+         "pubDate" : "Sun, 28 Nov 2021 13:15:00 +0100",
+         "title" : "Carlsen vs. Nepomniachtchi - Game 3 Live!"
+      },
+      {
+         "description" : " The world champion has developed his own rapport with the media and clearly enjoys stirring the audience while being open and to the point. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/79HxEgqTpws?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/magnus-carlsen-i-remotely-dont-care/",
+         "pubDate" : "Sun, 28 Nov 2021 11:36:31 +0000",
+         "title" : "Magnus Carlsen: \"I remotely don't care\""
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/PudmQyKXL3M?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-3-of-the-match/",
+         "pubDate" : "Sun, 28 Nov 2021 11:20:30 +0000",
+         "title" : "Time To Say Dubai: Round 3 of the Match"
+      },
+      {
+         "description" : "A remarkable battle between the protagonists of the 2021 World Championship match ended in a draw on Saturday. It was the second tense draw in a row, with both contenders showing deep theoretical preparation. Game 2 was a Catalan, and by no means was it a boring positional struggle. Grandmaster Luke McShanes analyses. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-g2-expert-annotations",
+         "pubDate" : "Sun, 28 Nov 2021 11:10:00 +0100",
+         "title" : "World Championship: Game 2 annotated by Luke McShane"
+      },
+      {
          "description" : " <p class=\"lead\">Game 2 of the World Chess Championship Match taking place in Dubai marked the 16th draw in a row for the event in classic time controls. The last decisive game was played in November 2016 - that's more than five years ago. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/52514B40-4164-4D00-9398-7E63DCA80977.jpeg\" width=\"1800\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">Carlsen and Nepo talking to the arbiter and submit their score sheets after game 2 of the World Chess Championship match in Dubai. Photo by Eric Rosen/FIDE</div> </div> Carlsen won game 11 of the 2016 Match against Sergey Karjakin in New York to level the score. He eventual",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2154,14 +2186,6 @@ news_feed (
          "title" : "Nur-Sultan to host World Rapid and Blitz 2021"
       },
       {
-         "description" : "Exchanging the right pieces is a very important topic, for which you should develop a fine intuition. How should Black proceed in the diagram position?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-right-exchange",
-         "pubDate" : "Tue, 09 Nov 2021 09:00:00 +0100",
-         "title" : "The right exchange"
-      },
-      {
          "description" : "<b>Damod,Sajjad (1358) - Morshedloo,Amin [C45]</b><br />Asian Club Hybrid Chess Championship Tornelo (5.3), 07.11.2021 <script>new PgnViewer( { boardName: \"game1288\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nxd4 5.Qxd4 Nf6 6.e5 Qe7 7.Be3 c5 8.exf6 cxd4 9.fxe7 dxe3 10.exf8Q+ Rxf8 11.fxe3 d6 12.Bb5+ Bd7 13.Nc3 Bxb5 14.Nxb5 Kd7 15.O-O-O a6 16.Nxd6 Kc7 17.Rhf1 f6 18.Rd3 Rad8 19.Rfd1 b5 20.Nxb5+ axb5 21.Rxd8 Rxd8 22.Rxd8 Kxd8 23.Kd2 Kc7 24.Kc3 Kb6 25.Kb4 g5 26.g4 h6 27.e4 Ka6 28.Kc5 Ka5 29.Kd6 Kb4 30.Ke6 Kc4 31.Kxf6 Kd4 32.e5 Kd5 33.e6 Kd6 34.e7 Kd7 35.Kf7 Kd6 36.e8Q Kc5 37.Qf8+ Kb6 38.Qxh6+ Ka5 39.Qxg5 Kb4 40.h4 Kc4 41.h5 Kd4 42.Qxb5 Ke4 43.g5 Kf4 44.g6 Kg4 45.h6 Kh",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2176,14 +2200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1426",
          "pubDate" : "Mon, 08 Nov 2021 19:15:03 +0000",
          "title" : "Kirill Shevchenko snatches victory in the Lindores Abbey Blitz"
-      },
-      {
-         "description" : "Magnus Carlsen is currently preparing intensively for his World Championship match against Ian Nepomniachtchi that starts on 24 November. But the World Champion still seems to have time for other important things. Wednesday, 3 November, he was spotted at a soccer match: the BVB Dortmund played against Ajax Amsterdam in the Champions League. | Photo: Magnus Carlsen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/soccer-fan-magnus-carlsen",
-         "pubDate" : "Mon, 08 Nov 2021 16:14:34 +0100",
-         "title" : "Soccer fan Magnus Carlsen"
       },
       {
          "description" : " <p class=\"lead\"><a href=\"https://grandswiss.fide.com\">The FIDE Grand Swiss</a> is over and the 18-year-old GM <b>Alireza Firouzja</b> is the big winner with a remarkable 8/11 score and a ticket to the 2022 Candidates Tournament. The second runner and also a Candidates' qualifier is the 2018 Challenger <b>Fabiano Caruana</b> who tied on points with <b>Grigoriy Oparin</b> but got a better tiebreak score. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2021-11-08_13-52-45-min.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anna Shtourman</div> </div> The young Iranian-born French GM had an outstanding performance in Riga, climbing",
@@ -2232,22 +2248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1424",
          "pubDate" : "Sun, 07 Nov 2021 17:44:44 +0000",
          "title" : "Liudmila Belavenets passes away"
-      },
-      {
-         "description" : "Draws on the top 13 boards in the final round of the FIDE Chess.com Grand Swiss meant Alireza Firouzja and Fabiano Caruana qualified to the next edition of the Candidates Tournament. Firouzja was the clear winner with a remarkable 8/11 score, while Caruana tied on points with Grigoriy Oparin but got a better tiebreak score than his Russian colleague. In the women's event, Lei Tingjie had secured tournament victory with a round to spare. Elisabeth Paehtz and Zhu Jiner finished second and third respectively. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2021-live",
-         "pubDate" : "Sun, 07 Nov 2021 12:55:00 +0100",
-         "title" : "Grand Swiss - Firouzja and Caruana in the Candidates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1423",
-         "pubDate" : "Sun, 07 Nov 2021 11:38:43 +0000",
-         "title" : "Lindores Abbey Blitz in honour of Mikhail Tal's 85th birthday"
       }
    ]
 }
