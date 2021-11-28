@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87958002.cms\" />Though defending champion Magnus Carlsen enjoyed a powerful diagonal and pivotal square for his knight, no player blinked on key moments. As a result, a draw was reached in 58 moves of the Catalan Opening in their second game of the World Chess Championship.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-carlsen-nepo-play-out-intense-draw-in-game-2/articleshow/87958002.cms",
+         "pubDate" : "Sun, 28 Nov 2021 09:34:39 +0530",
+         "title" : "World Championship: Carlsen, Nepo play out intense draw in Game 2"
+      },
+      {
+         "description" : "After two exciting draws in which each player had a chance to win and took some risks, GM Magnus Carlsen and Ian Nepomniachtchi head into game three of the FIDE World Chess Championship as pundits expect Nepomniachtchi to again play 1.e4 and try t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-game-3",
+         "pubDate" : "Sat, 27 Nov 2021 17:33:08 -0800",
+         "title" : "FIDE World Chess Championship Game 3: How To Watch"
+      },
+      {
          "description" : " The 2021 Vikings Weekender began with a much smaller field than last years 60. The main cause was the short notice, with the event only confirmed 2 weeks before it started. There were also a couple of last minutes withdrawals, leaving the tournament missing a few titled players. The upside is that both events are very competitive, with any number of players in contention for the $1000 1st prize. Top seeds Harry Press and Fred Litchfield dropped points over the first 4 rounds, with CM Anthony Fikh leading on 3.5/4, followed by WFM Alana Chibnall and CM Paul Russell in 2nd place on 3. For top seed Press it could have been worse, as in a R+B+P v R+5P, he managed to win all the pawns to reach R",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -535,7 +551,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-championship-press-conference-opening-ceremony",
          "pubDate" : "Wed, 24 Nov 2021 08:46:00 -0800",
-         "title" : "FIDE World Championship Officially Opened After Press Conference Clash Of Frenemies"
+         "title" : "FIDE World Chess Championship Officially Opened After Press Conference Clash Of Frenemies"
       },
       {
          "description" : "In the afternoon of 24 November 2021 the World Championship match between Magnus Carlsen and Ian Nepomniachtchi officially opened with a press conference. On the grounds of the Expo2020 in Dubai, the representatives of FIDE, the representatives of the sponsors, the organisers and the two players answered questions of the journalists.",
@@ -2136,14 +2152,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/once-knight-always-knight-five-time.html",
          "pubDate" : "Tue, 09 Nov 2021 07:04:00 +0000",
          "title" : "Once a knight, always a knight. Five time a night ...."
-      },
-      {
-         "description" : "In a thrilling opening match of the 2021 Speed Chess Championship Main Event, GM Anish Giri defeated GM Jan-Krzysztof Duda with a final score of 14-12. The next match, between GMs Shakhriyar Mamedyarov and Ding Liren, starts on Tuesday, November 9...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-giri-duda",
-         "pubDate" : "Mon, 08 Nov 2021 17:41:00 -0800",
-         "title" : "Speed Chess Championship: Giri Defeats Duda, Advances To Quarterfinals"
       },
       {
          "description" : "",
