@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Game 2 of the World Chess Championship Match taking place in Dubai marked the 16th draw in a row for the event in classic time controls. The last decisive game was played in November 2016 - that's more than five years ago. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/52514B40-4164-4D00-9398-7E63DCA80977.jpeg\" width=\"1800\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">Carlsen and Nepo talking to the arbiter and submit their score sheets after game 2 of the World Chess Championship match in Dubai. Photo by Eric Rosen/FIDE</div> </div> Carlsen won game 11 of the 2016 Match against Sergey Karjakin in New York to level the score. He eventual",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/16-draws-in-a-row-in-world-chess-championship-games/",
+         "pubDate" : "Sun, 28 Nov 2021 07:37:41 +0000",
+         "title" : "16 Draws In a Row In World Chess Championship Games"
+      },
+      {
+         "description" : "The list of personnel registered for the subject program and not paid the fee yet are appended below. LIST OF PARTICIPANTS You are requested to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/chess-for-everyone-national-arbiter-seminar/",
+         "pubDate" : "Sun, 28 Nov 2021 07:20:21 +0000",
+         "title" : "Chess for Everyone - National Arbiter Seminar"
+      },
+      {
+         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 2 Match Score: 1-1 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 2 Saturday, 27 November 2021 Game almost a Knightmare but another draw! The 2021 World Chess Championship match has gotten off to an exciting start with neither player &#8220;feeling out&#8221; the other. Yesterday [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/28/2021-world-chess-championship-game-2/\">2021 World Chess Championship: Game #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/11/28/2021-world-chess-championship-game-2/",
+         "pubDate" : "Sun, 28 Nov 2021 05:38:52 +0000",
+         "title" : "2021 World Chess Championship: Game #2"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87958002.cms\" />Though defending champion Magnus Carlsen enjoyed a powerful diagonal and pivotal square for his knight, no player blinked on key moments. As a result, a draw was reached in 58 moves of the Catalan Opening in their second game of the World Chess Championship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -146,7 +170,7 @@ news_feed (
          "title" : "National Arbiters Training : Batch 2"
       },
       {
-         "description" : " Share!2 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 1 Match Score: &frac12;-&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 1 Friday, 26 November 2021 Intense beginnings, but Carlsen holds The first game of the 2021 World Chess Championship match between Magnus Carlsen and Ian Nepomniachtchi began with much fanfare with commentators bubbling [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/27/2021-world-chess-championship-game-1/\">2021 World Chess Championship: Game #1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-Afr",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 1 Match Score: &frac12;-&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 1 Friday, 26 November 2021 Intense beginnings, but Carlsen holds The first game of the 2021 World Chess Championship match between Magnus Carlsen and Ian Nepomniachtchi began with much fanfare with commentators bubbling with [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/27/2021-world-chess-championship-game-1/\">2021 World Chess Championship: Game #1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-Africa",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/27/2021-world-chess-championship-game-1/",
@@ -1546,14 +1570,6 @@ news_feed (
          "title" : "Euro Teams: Six co-leaders, Gledura and Firouzja keep on winning"
       },
       {
-         "description" : "Tata Steel Chess India Rapid &#38; Blitz is back in its third edition in 2021. This is the first international over-the-board tournament being held in",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/2021-tata-steel-chess-india-rapid-blitz-starts-today/",
-         "pubDate" : "Wed, 17 Nov 2021 04:24:52 +0000",
-         "title" : "2021 Tata Steel Chess India Rapid & Blitz starts today"
-      },
-      {
          "description" : "GM Dmitry Andreikin took home an outright and undefeated Titled Tuesday victory on November 16, scoring 10/11. GM Anton Demchenko finished in sole second, a half-point behind, with 9.5/11. In a three-way tie with a 9/11 score, GM Jeffery Xiong and...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2232,14 +2248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1423",
          "pubDate" : "Sun, 07 Nov 2021 11:38:43 +0000",
          "title" : "Lindores Abbey Blitz in honour of Mikhail Tal's 85th birthday"
-      },
-      {
-         "description" : " With 1 round to play in the FIDE Grand Prix French GM Alireza Firouja leads on 7.5, half a point ahead of Fabiano Caruana and Grigoriy Oparin. The sole Australian entrant, Timur Kuybokarov is mid field, having scored a solid 50% against a field entirely rated over 2600. He has 2 wins, 2 losses and 6 draws, and a win in the final round will see him finish well above his seeding. Along the way he scored the following nice victory <b>Kovalev,Vladislav (2634) - Kuybokarov,Temur (2549) [C78]</b><br />2021 FIDE Chess.com Grand Swiss Riga (7.41), 03.11.2021 <script>new PgnViewer( { boardName: \"game1287\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/grand-swiss-2021.html",
-         "pubDate" : "Sun, 07 Nov 2021 07:13:00 +0000",
-         "title" : "Grand Swiss 2021"
       }
    ]
 }
