@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The third game of the 2021 World Chess Championship between Magnus Carlsen and Ian Nepomniaschi drew after 41 moves. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.4988290398126\"> <img src=\"https://worldchess.com/news/pictures/photo_2021-11-28_18-28-04.jpg\" width=\"1280\" height=\"854\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2021-11-28_18-28-00.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photos: FIDE (Niki Riga and Eric Rosen)</div> </div> The news will be further updated. ",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1453",
+         "pubDate" : "Sun, 28 Nov 2021 18:28:56 +0000",
+         "title" : "FIDE World Championship Dubai 2021: Armed and informed"
+      },
+      {
+         "description" : "The battle of theoretical preparations continues at the World Championship match, with Magnus Carlsen and Ian Nepomniachtchi signing a third consecutive draw on Sunday before the first rest day in Dubai. Once again, the defending champion deviated from mainstream theory only to see his opponent well prepared and ready to discuss the ensuing sidelines. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-g3",
+         "pubDate" : "Sun, 28 Nov 2021 18:25:00 +0100",
+         "title" : "World Championship Game 3: A 'dumb' move, a draw"
+      },
+      {
+         "description" : " <p class=\"lead\">The third game of the 2021 World Chess Championship between Magnus Carlsen and Ian Nepomniachtchi drew after 41 moves. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.4988290398126\"> <img src=\"https://worldchess.com/news/pictures/photo_2021-11-28_18-28-04.jpg\" width=\"1280\" height=\"854\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2021-11-28_18-28-00.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51710982064_f95ee9721f_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51711704424_6545e85b8a_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/world-chess-championship-no-surprises-its-a-draw/",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-nepo-3-calm-after-the-storm",
          "pubDate" : "Sun, 28 Nov 2021 15:25:14 +0000",
          "title" : "Carlsen-Nepo 3: Calm after the storm"
+      },
+      {
+         "description" : " The FIDE World Chess Championship reached it's first rest day on Monday all square at 1.5 points each after three games. Magnus Carlsen looked very comfortable in defending the Ruy Lopez Anti-Marshall. It's been assumed in commentary that he's prepared the Marshall but it hasn't been allowed yet so we don't know for certain. Carlsen admitted to playing some \"ugly\" moves but at no point did he seem under pressure. Ian Nepomniachtchi chose 8.a4 rather than the 8.h3 in game one but he didn't achieve very much. Nepomniachtchi thought he might be getting somewhere but his long think after Carlsen's 20...Be6 produced only the move 21.h3 which after 21...c6 22.Bc2 d5 led to complete equality. Carl",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/comfortable-hold-for-carlsen-with-black-in-game-3-of-the-world-chess-championship",
+         "pubDate" : "Sun, 28 Nov 2021 18:39:00 +0400",
+         "title" : "Comfortable hold for Carlsen with black in game 3 of the World Chess Championship - 3"
       },
       {
          "description" : " With a world championship match coming up, it might be interesting to look at how Stockfish would play the first few moves, and, therefore, what openings we're likely to see over the board. What does Stockfish think are the best openings? And, for that matter, what are the worst openings? For White's first move, Stockfish <a href=\"https://chessimprover.com/first-moves/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"First Moves\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/first-moves/\">First Moves</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -42,20 +66,12 @@ news_feed (
          "title" : "2021 Vikings Weekender - Tie for 1st"
       },
       {
-         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. Two tense, action-packed draws were signed on Friday and Saturday. Ian Nepomniachtchi got his second white on Sunday, prior to the first rest day of the event. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
-         "pubDate" : "Sun, 28 Nov 2021 13:15:00 +0100",
-         "title" : "Carlsen vs. Nepomniachtchi - Game 3 Live!"
-      },
-      {
-         "description" : " The world champion has developed his own rapport with the media and clearly enjoys stirring the audience while being open and to the point. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/79HxEgqTpws?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "description" : " The world champion has developed his own rapport with the media and clearly enjoys stirring the audience while being open and to the point. His answer to the question 'Whose chess commentary would you enjoy most - Giri, Caruana, or Anand?' Carlsen replied after slight delay: \"I am sorry I don't even remotely care'. Giri is doing commentary for chess24, the site that is part of Carlsen's own business empire, while Caruana is doing commentary for chess.com. Anadnd is doing commentary for the official FIDE feed. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/79HxEgqTpws?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/magnus-carlsen-i-remotely-dont-care/",
          "pubDate" : "Sun, 28 Nov 2021 11:36:31 +0000",
-         "title" : "Magnus Carlsen: \"I remotely don't care\""
+         "title" : "Magnus Carlsen: \"I Don't Even Remotely Care\""
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/PudmQyKXL3M?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
@@ -106,12 +122,12 @@ news_feed (
          "title" : "World Championship: Carlsen, Nepo play out intense draw in Game 2"
       },
       {
-         "description" : "After two exciting draws in which each player had a chance to win and took some risks, GM Magnus Carlsen and Ian Nepomniachtchi head into game three of the FIDE World Chess Championship as pundits expect Nepomniachtchi to again play 1.e4 and try t...",
+         "description" : "The FIDE World Chess Championship remains in a deadlock as challenger GM Ian Nepomniachtchi and World Champion GM Magnus Carlsen drew their third game on Sunday. Monday is the first rest day in Dubai; game four is scheduled for Tuesday, again, at ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-game-3",
          "pubDate" : "Sat, 27 Nov 2021 17:33:00 -0800",
-         "title" : "FIDE World Chess Championship Game 3: How To Watch"
+         "title" : "FIDE World Chess Championship Game 3: Magnus Bulletproof With Black"
       },
       {
          "description" : " The 2021 Vikings Weekender began with a much smaller field than last years 60. The main cause was the short notice, with the event only confirmed 2 weeks before it started. There were also a couple of last minutes withdrawals, leaving the tournament missing a few titled players. The upside is that both events are very competitive, with any number of players in contention for the $1000 1st prize. Top seeds Harry Press and Fred Litchfield dropped points over the first 4 rounds, with CM Anthony Fikh leading on 3.5/4, followed by WFM Alana Chibnall and CM Paul Russell in 2nd place on 3. For top seed Press it could have been worse, as in a R+B+P v R+5P, he managed to win all the pawns to reach R",
@@ -2256,22 +2272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1425",
          "pubDate" : "Sun, 07 Nov 2021 23:22:18 +0000",
          "title" : "FIDE Chess.com Grand Swiss: Firouzja and Lei triumph in Riga"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1420",
-         "pubDate" : "Sun, 07 Nov 2021 18:33:30 +0000",
-         "title" : "Decisions of 2021 3rd FIDE Council Meeting"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1424",
-         "pubDate" : "Sun, 07 Nov 2021 17:44:44 +0000",
-         "title" : "Liudmila Belavenets passes away"
       }
    ]
 }
