@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The third game of the 2021 World Chess Championship between Magnus Carlsen and Ian Nepomniaschi drew after 41 moves. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.4988290398126\"> <img src=\"https://worldchess.com/news/pictures/photo_2021-11-28_18-28-04.jpg\" width=\"1280\" height=\"854\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2021-11-28_18-28-00.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photos: FIDE (Niki Riga and Eric Rosen)</div> </div> The news will be further updated. ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-championship-no-surprises-its-a-draw/",
+         "pubDate" : "Sun, 28 Nov 2021 15:29:58 +0000",
+         "title" : "World Chess Championship: No Surprises, It's a Draw"
+      },
+      {
+         "description" : "Magnus Carlsen and Ian Nepomniachtchi are locked at 1.5:1.5 going into the first rest day after Game 3 of their match ended in a quiet 40-move draw. Ian varied on move 8 from what he'd played in Game 1, but Magnus once again had a surprise in store, 10...Re8, an old and, in his words, \"really dumb move\". He was hoping to get a game, but found Ian well-prepared there as well and in the end there was nothing better than to liquidate and end the game in under three hours.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-nepo-3-calm-after-the-storm",
+         "pubDate" : "Sun, 28 Nov 2021 15:25:14 +0000",
+         "title" : "Carlsen-Nepo 3: Calm after the storm"
+      },
+      {
+         "description" : " With a world championship match coming up, it might be interesting to look at how Stockfish would play the first few moves, and, therefore, what openings we're likely to see over the board. What does Stockfish think are the best openings? And, for that matter, what are the worst openings? For White's first move, Stockfish <a href=\"https://chessimprover.com/first-moves/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"First Moves\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/first-moves/\">First Moves</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/first-moves/",
+         "pubDate" : "Sun, 28 Nov 2021 14:20:50 +0000",
+         "title" : "First Moves"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 55th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about pawns which terrorize knights. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-55-pawn-vs-knight-2",
+         "pubDate" : "Sun, 28 Nov 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 55: Pawn vs knight (2)"
+      },
+      {
+         "description" : " The 2021 Vikings Weekender has ended in a tie for 1st place between CM Paul Russell, and Harry Press. The finished on the unusually low score of 4.5/6, although this was only one of many things that was slightly unusual about this event. Both scored last round wins to take 1st place, with Russell beating WFM Alana Chibnall and Press beating CM Anthony Fikh. Tied for 3rd place were Fikh and Fred Litchfield on 4 points, while Ryan Can and Matt Radisich one the rating prize on 3.5. Due to the small size of the field, almost all games had an effect on the final standings. Curiously the 2 winners did not play each other, not did the top 2 seeds (Press and Litchfield). Press started the tournamen",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/11/2021-vikings-weekender-tie-for-1st.html",
+         "pubDate" : "Sun, 28 Nov 2021 12:34:00 +0000",
+         "title" : "2021 Vikings Weekender - Tie for 1st"
+      },
+      {
          "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. Two tense, action-packed draws were signed on Friday and Saturday. Ian Nepomniachtchi got his second white on Sunday, prior to the first rest day of the event. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -70,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-game-3",
-         "pubDate" : "Sat, 27 Nov 2021 17:33:08 -0800",
+         "pubDate" : "Sat, 27 Nov 2021 17:33:00 -0800",
          "title" : "FIDE World Chess Championship Game 3: How To Watch"
       },
       {
@@ -287,7 +327,7 @@ news_feed (
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/carlsen-nepo-1-fierce-battle-ends-in-draw",
          "pubDate" : "Fri, 26 Nov 2021 16:42:13 +0000",
-         "title" : "Carlsen-Nepo, 1: Fierce battle ends in draw"
+         "title" : "Carlsen-Nepo 1: Fierce battle ends in draw"
       },
       {
          "description" : "What do Tal, Euwe, Botvinnik, Petrosian and Alekhine have in common? They all appear on today's episode! Lawrence Trent shows us a couple of World Chess Championship games, of the earlier mentioned Grandmasters. We also advance to a 2250 rating, of the ChessBase training app, but fail to solve a 2497 points high rating. Can you guess it correctly?",
@@ -434,7 +474,7 @@ news_feed (
          "title" : "Can Nepo win chess war against Magnus Carlsen?"
       },
       {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; 1 Caruana &frac12; &frac12; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; 1&frac12; Caruana &frac12; &frac12; &frac12; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/",
@@ -1466,14 +1506,6 @@ news_feed (
          "title" : "Acquisition of Chess Knowledge in AlphaZero"
       },
       {
-         "description" : "18-year-old Arjun Erigaisi's late emergence as one of the very top Indian chess talents continues as he won all three games on Day 2 of the Tata Steel Chess India Rapid to overtake Levon Aronian as the sole leader. Levon, after a perfect first day, looked to be powering to 4/4 until he stumbled and lost to Liem Quang Le, before drawing the next two games. Arjun took full advantage as he beat Vaishali, Le, and then Sam Shankland in just 19 moves.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/arjun-erigaisi-takes-over-on-day-2-of-tata-steel-india-rapid",
-         "pubDate" : "Thu, 18 Nov 2021 15:56:38 +0000",
-         "title" : "Arjun Erigaisi takes over on Day 2 of Tata Steel India Rapid"
-      },
-      {
          "description" : "After World War II, Edith Keller-Herrmann, who was born on 17 November 1921 in Dresden, Germany, was one of the best women's players in the world. She played for the German Democratic Republic and won several team and individual gold medals at Chess Olympiads. On 17 November Edith Keller-Herrmann would have celebrated her 100th birthday. | Photo: Edith Keller-Herrmann, Paul-Werner Wagner, Lothar Schmid (German Chess Federation)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2144,14 +2176,6 @@ news_feed (
          "link" : "https://chessimprover.com/deja-vu-4/",
          "pubDate" : "Tue, 09 Nov 2021 16:46:25 +0000",
          "title" : "Deja Vu (4)"
-      },
-      {
-         "description" : "Following the Grand Swiss tournaments in Riga, a blitz tournament was held in honour of Mikhail Tal, whose 85th birthday anniversary is celebrated today. The young Ukrainian Kirill Shevchenko (19-years-old) got clear victory. Fabiano Caruana came second, ahead of Arjun Erigaisi. | Photos: Mark Livshitz and Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kirill-shevchenko-wins-lindores-abbey-blitz",
-         "pubDate" : "Tue, 09 Nov 2021 16:15:00 +0100",
-         "title" : "Kirill Shevchenko wins Lindores Abbey Blitz Tournament"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9723c5ad-57b8-431b-894c-9476dc9173e3/John%2BHartmann1.jpg\" data-image-dimensions=\"250x375\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"618a84c0ceb12e4c1b810e62\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9723c5ad-57b8-431b-894c-9476dc9173e3/John%2BHartmann1.jpg?format=1000w\" /> </figure> <p class=\"\">John Hartmann is the Editor of US Chess' <em>Chess Life </em>and <a href=\"https://new.uschess.org/news\"><span>Chess Life Online</span></a>, and the host of th",
