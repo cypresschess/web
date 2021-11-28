@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The reigning world chess champion, GM Magnus Carlsen, from Norway and his Russian challenger, GM Ian Nepomniachtchi, faced each other today in the second game of their FIDE World Championship 2021 match in Dubai. After some trickery in the opening...",
+         "description" : " The 2021 Vikings Weekender began with a much smaller field than last years 60. The main cause was the short notice, with the event only confirmed 2 weeks before it started. There were also a couple of last minutes withdrawals, leaving the tournament missing a few titled players. The upside is that both events are very competitive, with any number of players in contention for the $1000 1st prize. Top seeds Harry Press and Fred Litchfield dropped points over the first 4 rounds, with CM Anthony Fikh leading on 3.5/4, followed by WFM Alana Chibnall and CM Paul Russell in 2nd place on 3. For top seed Press it could have been worse, as in a R+B+P v R+5P, he managed to win all the pawns to reach R",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/11/2021-vikings-days-1.html",
+         "pubDate" : "Sat, 27 Nov 2021 22:25:00 +0000",
+         "title" : "2021 Vikings - Days 1&2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko continues his series on the Scotch Game or Scotch Opening. Learn the G&ouml;ring Gambit. It&#039;s 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3. Originally on Twitch. 2021.10.25<br /> C44 Scotch, Goering gambit </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shot-scotch-4-g%C3%B6ring-gambit-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/20bcUsEPPTI.jpg?it",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shot-scotch-4-g%C3%B6ring-gambit-chess-openings-explained",
+         "pubDate" : "Sat, 27 Nov 2021 22:00:46 +0000",
+         "title" : "A Shot of Scotch #4: G&ouml;ring Gambit | Chess Openings Explained"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1452",
+         "pubDate" : "Sat, 27 Nov 2021 20:14:19 +0000",
+         "title" : "FIDE World Championship Dubai 2021: The champion's turn"
+      },
+      {
+         "description" : "The reigning world chess champion, GM Magnus Carlsen, from Norway, and his Russian challenger, GM Ian Nepomniachtchi, faced each other today in the second game of their FIDE World Championship 2021 match in Dubai. After some trickery in the openin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-championship-g2-carlsen-scrambles",
          "pubDate" : "Sat, 27 Nov 2021 12:10:00 -0800",
-         "title" : "FIDE World Championship G2: Adventurous Carlsen Scrambles For Draw"
+         "title" : "FIDE World Chess Championship Game 2: Adventurous Carlsen Scrambles For Draw"
       },
       {
          "description" : "A second consecutive tense draw was seen on Saturday at the World Championship match in Dubai. Once again, Magnus Carlsen deviated from mainstream theory early in the game, pushing his opponent to solve difficult problems over the board from the get go. Ian Nepomniachtchi showed great nerves to keep things under control, and even got some winning chances in a complex middlegame. The tension continues to rise in Dubai! | Photo: Eric Rosen / FIDE",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-nepo-2-magnus-blunders-but-survives",
          "pubDate" : "Sat, 27 Nov 2021 17:04:27 +0000",
          "title" : "Carlsen-Nepo 2: Magnus blunders but survives"
+      },
+      {
+         "description" : " The FIDE World Chess Championship Match between Magnus Carlsen and Ian Nepomniachtchi is tied at 1-1 after the first two games were drawn. In spite of these draws the early games promise a very interesting match which will be settled over the board not by the huge amount of opening preparation both sides have clearly done. Carlsen had white in game two and a Catalan appeared on the board. It seemed at first that Carlsen had won the opening battle. Nepomniachtchi's 7... b5 was met by 8. Ne5 - a move that's been played at a high level this year but none the less he didn't seem ready for. Carlsen continued to play quickly for the next few moves and after 16...Na6 had some advantage in a wild p",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/world-chess-championship-game-2-a-fighting-draw",
+         "pubDate" : "Sat, 27 Nov 2021 20:43:00 +0400",
+         "title" : "World Chess Championship game 2 - a fighting draw - 2"
       },
       {
          "description" : "Want to get a glimpse of how things look in Dubai at the World Championship match between Magnus Carlsen and Ian Nepomniachtchi? The dynamic duo of Sagar Shah and Amruta Mokal have made their way to the venue and are producing plenty of content on their YouTube channel. Take a look! | Photo: Amruta Mokal",
@@ -151,7 +183,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-chess-championship-game-1-nepomniachtchi-carlsen",
          "pubDate" : "Fri, 26 Nov 2021 10:23:00 -0800",
-         "title" : "FIDE World Championship G1: Nepo Impresses Under Pressure"
+         "title" : "FIDE World Chess Championship Game 1: Nepo Impresses Under Pressure"
       },
       {
          "description" : "In this week's show, GM Daniel King presents puzzle positions from games of Nepomniachtchi and Carlsen but for the main dish of the day he shows another spectacular attack from Alexei Shirov. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -1434,14 +1466,6 @@ news_feed (
          "title" : "Tata Steel Chess India 2021 : First Day Report"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White, with the main lines of the Kan (or Paulsen). 2021.11.17<br /> B47 Sicilian, Taimanov (Bastrikov) variation<br /> B46 Sicilian, Taimanov variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kan-sicilian-main-lines-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thum",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kan-sicilian-main-lines-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 18 Nov 2021 03:53:02 +0000",
-         "title" : "The Kan Sicilian: Main Lines | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
          "description" : "This week, Merijn van Delft takes a look at Alireza Firouzja and his \"supermodern\" chess which continues to bring the 18-year success: after winning the Grand Swiss in Riga he continues to score at the European Team Championship, and with a live-rating of 2793.3 he is currently the world's number three behind Magnus Carlsen (2855.9) and Ding Liren (2799.0), narrowly ahead of Fabiano Caruana (2792.3) and World Championship challenger Ian Nepomniachtchi (2782.0). | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2208,14 +2232,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/grand-swiss-2021.html",
          "pubDate" : "Sun, 07 Nov 2021 07:13:00 +0000",
          "title" : "Grand Swiss 2021"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1422",
-         "pubDate" : "Sat, 06 Nov 2021 21:34:34 +0000",
-         "title" : "FIDE Chess.com Grand Swiss: Round 10 Recap"
       }
    ]
 }
