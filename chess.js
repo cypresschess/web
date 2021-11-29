@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1454",
+         "pubDate" : "Mon, 29 Nov 2021 09:56:11 +0000",
+         "title" : "FIDE and Chessable host training camp for young talents in Dubai"
+      },
+      {
+         "description" : "I'd like to introduce myself to you if we've not met before. My name is Aga Milewska, and I am the new Director of Women's...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/hello-from-the-new-director-of-womens-chess/",
+         "pubDate" : "Mon, 29 Nov 2021 09:27:49 +0000",
+         "title" : "Hello from the new Director of Women's Chess"
+      },
+      {
          "description" : "Game 3 of the World Championship match between Magnus Carlsen and Ian Nepomniachtchi was full of opening subtleties and refined maneuvering that, however, eventually led to the third draw of the match. David Navara took a closer look at the game and its hidden subtleties.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-4",
-         "pubDate" : "Sun, 28 Nov 2021 14:23:33 -0800",
+         "pubDate" : "Sun, 28 Nov 2021 14:23:00 -0800",
          "title" : "How To Watch The FIDE World Chess Championship Game 4: Carlsen (1.5) vs Nepomniachtchi (1.5)"
       },
       {
@@ -2154,14 +2170,6 @@ news_feed (
          "title" : "Young players are pushing forward at the Mikhail Tal 85th Anniversary Tournament"
       },
       {
-         "description" : "Entries are invited to participate in the European Online Rapid and School Championships. There are five age groups - Under 10 (born 2011 or later),...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-schools-online-championship/",
-         "pubDate" : "Wed, 10 Nov 2021 09:37:59 +0000",
-         "title" : "European Schools Online Championship"
-      },
-      {
          "description" : " From the publisher: \"Pawns are the soul of chess.\" We have all heard this phrase more than once in our chess life and we owe it to the great French player François-Andr&eacute; Danican, so-called Philidor, considered one of the best chess players of the 18th century. It's not surprising that with this way of thinking, <a href=\"http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Philidor Defense</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/\">The Modernized Philidor Defense</a> appea",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2248,14 +2256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1426",
          "pubDate" : "Mon, 08 Nov 2021 19:15:03 +0000",
          "title" : "Kirill Shevchenko snatches victory in the Lindores Abbey Blitz"
-      },
-      {
-         "description" : " <p class=\"lead\"><a href=\"https://grandswiss.fide.com\">The FIDE Grand Swiss</a> is over and the 18-year-old GM <b>Alireza Firouzja</b> is the big winner with a remarkable 8/11 score and a ticket to the 2022 Candidates Tournament. The second runner and also a Candidates' qualifier is the 2018 Challenger <b>Fabiano Caruana</b> who tied on points with <b>Grigoriy Oparin</b> but got a better tiebreak score. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2021-11-08_13-52-45-min.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anna Shtourman</div> </div> The young Iranian-born French GM had an outstanding performance in Riga, climbing",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/firouzja-wins-grand-swiss-and-qualifies-for-the-2022-candidates/",
-         "pubDate" : "Mon, 08 Nov 2021 12:12:32 +0000",
-         "title" : "Firouzja wins Grand Swiss and qualifies for the 2022 Candidates Tournament"
       }
    ]
 }
