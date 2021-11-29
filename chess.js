@@ -2256,14 +2256,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/firouzja-wins-grand-swiss-and-qualifies-for-the-2022-candidates/",
          "pubDate" : "Mon, 08 Nov 2021 12:12:32 +0000",
          "title" : "Firouzja wins Grand Swiss and qualifies for the 2022 Candidates Tournament"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87579018.cms\" />Indian chess ace Dronavalli Harika held top-seed Mariya Muzychuk of Ukraine to a draw in the 11th and final round of the FIDE Women's Grand Swiss chess tournament here to finish fifth and qualify for the next women's Grand Prix cycle.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-tournament-dronavalli-harika-finishes-5th-qualifies-for-next-gp-cycle/articleshow/87579018.cms",
-         "pubDate" : "Mon, 08 Nov 2021 11:01:10 +0530",
-         "title" : "FIDE Grand Swiss: Harika finishes 5th, qualifies for next GP cycle"
       }
    ]
 }
