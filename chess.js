@@ -18,22 +18,6 @@ news_feed (
          "title" : "Karsten M&uuml;ller's Endgame Magic Show #172: Endgame highlights from the European Team Championship"
       },
       {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">LogiQ Board - A resource for chess and games instruction</strong> <strong>Webinar, <time datetime='2021-12-13T18:00:00' itemprop=\"startDate\">Mon 13 Dec 2021, 18.00</time>-<time datetime='2021-12-13T19:00:00' itemprop=\"endDate\">19.00</time> h UTC<span class=\"timezone\">+0100</span><br> <span itemprop='location'><a href=\"https://zoom.us\">Zoom</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> <div class='abstract-event'> Free webinar with Rita Atkins </div> Organiser: <a href=\"https://chessplus.net\">ChessPlus</a> <a href=\"",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.tickettailor.com/events/chessplus/616722",
-         "pubDate" : "Mon, 29 Nov 2021 16:59:09 +0100",
-         "title" : "LogiQ Board - A resource for chess and games instruction"
-      },
-      {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">8x8 - Other Strategy Games on the Chess Board</strong> <strong>Webinar, <time datetime='2021-12-02T18:00:00' itemprop=\"startDate\">Thu 02 Dec 2021, 18.00</time>-<time datetime='2021-12-02T19:30:00' itemprop=\"endDate\">19.30</time> h UTC<span class=\"timezone\">+0100</span><br> <span itemprop='location'><a href=\"https://zoom.us\">Zoom</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> <div class='abstract-event'> Free webinar with John Foley and Stefan L&ouml;ffler </div> Organiser: <a href=\"https://chessplus.net\">ChessPlus</",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.tickettailor.com/events/chessplus/616718",
-         "pubDate" : "Mon, 29 Nov 2021 16:52:28 +0100",
-         "title" : "8x8 - Other Strategy Games on the Chess Board"
-      },
-      {
          "description" : "The new AI-based training method \"Easy Game\" helps you to play brilliancies against Fritz18! After mating Fritz18 you can publish your game with one click or you can send it per email to ChessBase to take part in the great Fritz18 lottery. Join the action!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
