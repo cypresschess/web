@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three draws so far in the 2021 FIDE World Chess Championship have shown that the players have come incredibly well prepared and in great form. Game four will be the first game where the players have the opportunity to spend a full rest day going o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-4",
+         "pubDate" : "Sun, 28 Nov 2021 14:23:33 -0800",
+         "title" : "FIDE World Chess Championship Game 4: How To Watch"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>World School Tournament</strong> at the Spanish <strong>Expo 2020</strong> pavilion set the precedent of a <a href=\"http://chess-results.com/tnr594347.aspx?lan=0\">first match between a team from the United Arab Emirates and a team from Israel</a>. The Green Village School team from North Tel Aviv won by 4:1. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/uae-team-played-israeli-team/",
+         "pubDate" : "Sun, 28 Nov 2021 21:55:12 +0100",
+         "title" : "UAE team played Israeli team"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1453",
          "pubDate" : "Sun, 28 Nov 2021 18:28:56 +0000",
          "title" : "FIDE World Championship Dubai 2021: Armed and informed"
+      },
+      {
+         "description" : "Ian Nepomniatchi will challenge Magnus Carlsen at the 2021 FIDE World Chess Championships in Dubai.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32713238/king-gambit-magnus-carlsen-quest-five-world-champion-ian-nepomniatchi?device=featurephone",
+         "pubDate" : "Sun, 28 Nov 2021 12:27:47 -0500",
+         "title" : "King's Gambit: Inside Magnus Carlsen's quest to be a five-time World Champion"
       },
       {
          "description" : "The battle of theoretical preparations continues at the World Championship match, with Magnus Carlsen and Ian Nepomniachtchi signing a third consecutive draw on Sunday before the first rest day in Dubai. Once again, the defending champion deviated from mainstream theory only to see his opponent well prepared and ready to discuss the ensuing sidelines. | Photo: Eric Rosen",
@@ -26,7 +50,7 @@ news_feed (
          "title" : "World Chess Championship: No Surprises, It's a Draw"
       },
       {
-         "description" : "Magnus Carlsen and Ian Nepomniachtchi are locked at 1.5:1.5 going into the first rest day after Game 3 of their match ended in a quiet 40-move draw. Ian varied on move 8 from what he'd played in Game 1, but Magnus once again had a surprise in store, 10...Re8, an old and, in his words, \"really dumb move\". He was hoping to get a game, but found Ian well-prepared there as well and in the end there was nothing better than to liquidate and end the game in under three hours.",
+         "description" : "Magnus Carlsen and Ian Nepomniachtchi are locked at 1.5:1.5 going into the first rest day after Game 3 of their match ended in a quiet 41-move draw. Ian varied on move 8 from what he'd played in Game 1, but Magnus once again had a surprise in store, 10...Re8, an old and, in his words, \"really dumb move\". He was hoping to get a game, but found Ian well-prepared there as well and in the end there was nothing better than to liquidate and end the game in under three hours.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/carlsen-nepo-3-calm-after-the-storm",
@@ -360,14 +384,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/nepomniachtchi-and-carlsen-draw-the-first-game-of-their-world-chess-championship-match",
          "pubDate" : "Fri, 26 Nov 2021 19:30:00 +0400",
          "title" : "Nepomniachtchi and Carlsen draw the first game of their World Chess Championship match - 1"
-      },
-      {
-         "description" : "Ian Nepomniatchi will challenge Magnus Carlsen at the 2021 FIDE World Chess Championships in Dubai.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32713238/king-gambit-magnus-carlsen-quest-five-world-champion-ian-nepomniatchi?device=featurephone",
-         "pubDate" : "Fri, 26 Nov 2021 10:10:05 -0500",
-         "title" : "King's Gambit: Inside Magnus Carlsen's quest to be a five-time World Champion"
       },
       {
          "description" : "",
@@ -1072,14 +1088,6 @@ news_feed (
          "link" : "https://www.europechess.org/ukraine-open-and-russia-women-win-european-team-chess-championships-2021/",
          "pubDate" : "Sun, 21 Nov 2021 22:02:34 +0000",
          "title" : "Ukraine (Open) and Russia (Women) win European Team Chess Championships 2021"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Alireza Firouzja</strong> reached a 3015 rating perfomance at the top board of the <strong>European Team Championship</strong> in Terme Čatež, Slovenia. Arguably the second best performance in history after Caruana's 3080 in St. Louis in 2014 makes Firouzja at 18 years, 5 months, and 13 days the youngest player ever over 2800 and the <a href=\"https://www.2700chess.com/\">new number two in the world</a>. It was still not enough to give France the gold medal, <a href=\"http://chess-results.com/tnr583987.aspx?lan=0&amp;art=0&amp;turdet=YES&amp;flag=30\">that went to Ukraine</a>. Bronze was claimed by Poland. Russia dominated the <a href=\"http://",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/firouzja-breaks-record-but-ukraine/",
-         "pubDate" : "Sun, 21 Nov 2021 21:30:56 +0100",
-         "title" : "Firouzja breaks record, but Ukraine takes gold"
       },
       {
          "description" : "",
@@ -2154,14 +2162,6 @@ news_feed (
          "title" : "Speed Chess Championship: Ding Beats Mamedyarov, Close Finish To Reach QF"
       },
       {
-         "description" : "IM Levy Rozman, the popular streamer and content creator behind GothamChess, has recently announced the winners for his $100,000 chess scholarship program. In a partnership with ChessKid.com, the scholastic branch of Chess.com, Rozman recently c...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/levy-rozman-chess-scholarship-program-winners",
-         "pubDate" : "Tue, 09 Nov 2021 11:50:00 -0800",
-         "title" : "IM Levy Rozman Announces The Winners Of His Scholarship Program"
-      },
-      {
          "description" : "In November 1991 ChessBase launched its first chess playing program for PCs. After a modest start it picked up strength and started challenging the best players in the world. In 1992 the reigning World Champion Garry Kasparov played 35 blitz games, on his notebook, a beta of Fritz 3. He won 31, the computer won four. In 1994 Fritz was equal first with Kasparov in the strongest blitz tournament of all time (17 GMs, Elo average of 2625). In a supreme effort, Garry won the playoff.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2264,14 +2264,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/sankalp-scripts-history-takes-24-days-to-become-indias-quickest-and-71st-grandmaster/articleshow/87576235.cms",
          "pubDate" : "Mon, 08 Nov 2021 08:26:45 +0530",
          "title" : "Sankalp scripts history, takes 24 days to become India's quickest and 71st Grandmaster"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1425",
-         "pubDate" : "Sun, 07 Nov 2021 23:22:18 +0000",
-         "title" : "FIDE Chess.com Grand Swiss: Firouzja and Lei triumph in Riga"
       }
    ]
 }
