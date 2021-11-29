@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Game 3 of the World Championship match between Magnus Carlsen and Ian Nepomniachtchi was full of opening subtleties and refined maneuvering that, however, eventually led to the third draw of the match. David Navara took a closer look at the game and its hidden subtleties.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-game-3-annotated-by-david-navara",
+         "pubDate" : "Mon, 29 Nov 2021 09:34:22 +0100",
+         "title" : "World Championship: Game 3 annotated by David Navara"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a58ea11-a2ae-4f9b-b851-5422928a2f25/Corbblah2.jpg\" data-image-dimensions=\"281x374\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61a44420fc961c23639b0a70\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a58ea11-a2ae-4f9b-b851-5422928a2f25/Corbblah2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\"><a href=\"https://twitter.com/Corbblah\">Jonathan Corbblah defends his title </a> </figcaption> </figure> <figure class=\" sqs-block-image-fig",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2184,14 +2192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/in-memory-of-mikhail-tal",
          "pubDate" : "Tue, 09 Nov 2021 19:00:00 +0100",
          "title" : "In memory of Mikhail Tal"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent focuses on the Grand Swiss, which was won by wunderkind Alireza Firouzja, who got a spot in the next Candidates Tournament at 18. Are we entering a new era of chess greatness? | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-a-new-era-of-chess-greatness",
-         "pubDate" : "Tue, 09 Nov 2021 18:50:00 +0100",
-         "title" : "The Weekly Show: A new era of chess greatness"
       },
       {
          "description" : " &#8220;Neo: Whoa. D&eacute;j&agrave; vu. Trinity: What did you just say? Neo: Nothing. Just had a little d&eacute;j&agrave; vu.&#8221; The Matrix, 1999 White to move and mate in 4 Hint: the third move is a check My friend Nick had the above posted online. It looked very familiar. I could bet I have seen this puzzle <a href=\"https://chessimprover.com/deja-vu-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Deja Vu (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/deja-vu-4/\">Deja Vu (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
