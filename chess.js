@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a58ea11-a2ae-4f9b-b851-5422928a2f25/Corbblah2.jpg\" data-image-dimensions=\"281x374\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61a44420fc961c23639b0a70\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a58ea11-a2ae-4f9b-b851-5422928a2f25/Corbblah2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\"><a href=\"https://twitter.com/Corbblah\">Jonathan Corbblah defends his title </a> </figcaption> </figure> <figure class=\" sqs-block-image-fig",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/28/world-championship-bonus-pod-1-the-match-so-far-interviews-from-dubai-with-geert-van-der-velde-and-jonathan-corbblah",
+         "pubDate" : "Mon, 29 Nov 2021 03:53:59 +0000",
+         "title" : "World Championship Bonus Pod #1- The match so far, + interviews from Dubai with Geert van der Velde and Jonathan Corbblah "
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nick Risko continues his series on the Scotch Game or Scotch Opening. As Nick increasingly examines sound lines, take a look at Black&#039;s queen moves 4...Qh4 and 4...Qf6. Originally on Twitch. 2021.11.01<br /> C45 Scotch, Pulling counter-attack<br /> C45 Scotch, Steinitz variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shot-scotch-5-queen-moves-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shot-scotch-5-queen-moves-chess-openings-explained",
+         "pubDate" : "Mon, 29 Nov 2021 01:02:13 +0000",
+         "title" : "A Shot of Scotch #5: Queen Moves | Chess Openings Explained"
+      },
+      {
          "description" : "Three draws so far in the 2021 FIDE World Chess Championship have shown that the players have come incredibly well prepared and in great form. Game four will be the first game where the players have the opportunity to spend a full rest day going o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-4",
          "pubDate" : "Sun, 28 Nov 2021 14:23:33 -0800",
-         "title" : "FIDE World Chess Championship Game 4: How To Watch"
+         "title" : "How To Watch The FIDE World Chess Championship Game 4: Carlsen (1.5) vs Nepomniachtchi (1.5)"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>World School Tournament</strong> at the Spanish <strong>Expo 2020</strong> pavilion set the precedent of a <a href=\"http://chess-results.com/tnr594347.aspx?lan=0\">first match between a team from the United Arab Emirates and a team from Israel</a>. The Green Village School team from North Tel Aviv won by 4:1. </div> ",
@@ -1330,14 +1346,6 @@ news_feed (
          "title" : "Euro Teams: Ukraine beat Russia, Firouzja wins again"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko begins his series on the Scotch Game or Scotch Opening. See the deviations beginning on Black&#039;s third move. It&#039;s 1.e4 e5 2.Nf3 Nc6 3.d4. Originally on Twitch. 2021.09.13<br /> C44 Scotch opening<br /> Napoleon Bonaparte vs Henri Gatien Bertrand, St. Helena (1820): C44 Scotch, Lolli variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1250609Foi\">https://www.chessgames.com/perl/chessgame?gid=1250609Foi</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fie",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shot-scotch-1-third-move-sidelines-chess-openings-explained",
-         "pubDate" : "Sat, 20 Nov 2021 00:55:01 +0000",
-         "title" : "A Shot of Scotch #1: Third Move Sidelines | Chess Openings Explained"
-      },
-      {
          "description" : "Vishy Anand described Arjun Erigaisi's calculation as \"simply superlative\" as the 18-year-old Indian star escaped with a draw against Levon Aronian and won the Tata Steel Chess India Rapid by a full point. Arjun revealed afterwards that he's been working with Fabiano Caruana's long-term coach Rustam Kasimdzhanov. Overall it was a nervous last day, with Levon spoiling a winning position in that game, and against Vaishali, while Praggnanandhaa and Vidit also failed to fire on all cylinders as they tied for 2nd place.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2256,14 +2264,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-grand-swiss-tournament-dronavalli-harika-finishes-5th-qualifies-for-next-gp-cycle/articleshow/87579018.cms",
          "pubDate" : "Mon, 08 Nov 2021 11:01:10 +0530",
          "title" : "FIDE Grand Swiss: Harika finishes 5th, qualifies for next GP cycle"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87576235.cms\" />On Sunday, city's third International Master (IM) Sankalp Gupta scripted history by becoming India's quickest and 71st chess Grandmaster (GM) in Serbia. V Anand started it all in 1987.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sankalp-scripts-history-takes-24-days-to-become-indias-quickest-and-71st-grandmaster/articleshow/87576235.cms",
-         "pubDate" : "Mon, 08 Nov 2021 08:26:45 +0530",
-         "title" : "Sankalp scripts history, takes 24 days to become India's quickest and 71st Grandmaster"
       }
    ]
 }
