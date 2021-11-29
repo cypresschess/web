@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new AI-based training method \"Easy Game\" helps you to play brilliancies against Fritz18! After mating Fritz18 you can publish your game with one click or you can send it per email to ChessBase to take part in the great Fritz18 lottery. Join the action!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fritz-18-play-and-share-brilliancies-and-win-in-the-fritz18-lottery",
+         "pubDate" : "Mon, 29 Nov 2021 15:03:06 +0100",
+         "title" : "Fritz 18: Play and share brilliancies - and win in the Fritz18 lottery!"
+      },
+      {
+         "description" : "Look at this position. Black still has all his pieces on the board, while White has just a single pawn, on its original square. So what is the task? \"White to play and win\" says the composer, one of the most imaginative in history. Born in 1860, Ott&oacute; Titusz Bl&aacute;thy composed a large number of \"Grotesques\", extremely unusual positions in which White must win against much larger black forces. These problems are generally intended to be humorous. We hope you enjoy our examples, which should also serve to remind you how you can move the pieces, play and analyse right there on our news page diagrams.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grotesque-chess-problems",
+         "pubDate" : "Mon, 29 Nov 2021 14:00:00 +0100",
+         "title" : "Grotesque chess problems"
+      },
+      {
+         "description" : " The 2021 World Chess Championship is on a rest day today, with the first 3 games all being drawn. This extends the draw streak in classical World Championship games to 17, with the last decisive games being Carlsen's game 10 win over Karjakin in 2016. Although the first 3 games were interesting, it was something else that struck me. In the age of streaming, what matters isn't how exciting the games are, but instead, how exciting the commentators can make them look. I did a quick surf across a number of streaming sites and noticed that in almost all of them, exciting novelties, possible breakthroughs, and amazing variations were being discussed, while the players themselves looked far less e",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/11/2021-world-championship-3-games-all.html",
+         "pubDate" : "Mon, 29 Nov 2021 12:58:00 +0000",
+         "title" : "2021 World Championship - 3 games, all draws"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -47,7 +71,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-4",
          "pubDate" : "Sun, 28 Nov 2021 14:23:00 -0800",
-         "title" : "How To Watch The FIDE World Chess Championship Game 4: Carlsen (1.5) vs Nepomniachtchi (1.5)"
+         "title" : "How To Watch The FIDE World Chess Championship Game 4 Live: Carlsen-Nepo"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>World School Tournament</strong> at the Spanish <strong>Expo 2020</strong> pavilion set the precedent of a <a href=\"http://chess-results.com/tnr594347.aspx?lan=0\">first match between a team from the United Arab Emirates and a team from Israel</a>. The Green Village School team from North Tel Aviv won by 4:1. </div> ",
@@ -2184,22 +2208,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-ding-mamedyarov",
          "pubDate" : "Tue, 09 Nov 2021 12:12:00 -0800",
          "title" : "Speed Chess Championship: Ding Beats Mamedyarov, Close Finish To Reach QF"
-      },
-      {
-         "description" : "In November 1991 ChessBase launched its first chess playing program for PCs. After a modest start it picked up strength and started challenging the best players in the world. In 1992 the reigning World Champion Garry Kasparov played 35 blitz games, on his notebook, a beta of Fritz 3. He won 31, the computer won four. In 1994 Fritz was equal first with Kasparov in the strongest blitz tournament of all time (17 GMs, Elo average of 2625). In a supreme effort, Garry won the playoff.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/thirty-years-happy-birthday-fritz-2",
-         "pubDate" : "Tue, 09 Nov 2021 19:00:00 +0100",
-         "title" : "Thirty years! Happy Birthday Fritz (2)"
-      },
-      {
-         "description" : "The 'Magician from Riga', Mikhail Tal, enchanted the chess world in the 1950s and 1960s with his amazing combinations. He was ill all his life, but nevertheless belonged to the absolute top of the chess world for decades, even after losing the World Championship title. Today is the 85th anniversary of his birth. | Photo: Dutch National Archive",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-memory-of-mikhail-tal",
-         "pubDate" : "Tue, 09 Nov 2021 19:00:00 +0100",
-         "title" : "In memory of Mikhail Tal"
       },
       {
          "description" : " &#8220;Neo: Whoa. D&eacute;j&agrave; vu. Trinity: What did you just say? Neo: Nothing. Just had a little d&eacute;j&agrave; vu.&#8221; The Matrix, 1999 White to move and mate in 4 Hint: the third move is a check My friend Nick had the above posted online. It looked very familiar. I could bet I have seen this puzzle <a href=\"https://chessimprover.com/deja-vu-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Deja Vu (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/deja-vu-4/\">Deja Vu (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
