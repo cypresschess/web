@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"The difference between not the best arbiter and a good one,\" IA Tomasz Delega writes, in the October issue of the ECU E-magazine, \"is that the first one knows the rules and the second one understands also, what these rules are for.\" He explains the situation using the example of the three-fold draw claim: how must this be correctly handled?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-arbiters-and-the-three-fold-draw",
+         "pubDate" : "Mon, 29 Nov 2021 21:14:42 +0100",
+         "title" : "Chess arbiters and the three-fold draw"
+      },
+      {
+         "description" : "In the Endgame Magic Show #172 Karsten M&uuml;ller and Arne K&auml;hler look at interesting endgames from the European Team Championship. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-172-endgame-highlights-from-the-european-team-championship",
+         "pubDate" : "Mon, 29 Nov 2021 19:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic Show #172: Endgame highlights from the European Team Championship"
+      },
+      {
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">LogiQ Board - A resource for chess and games instruction</strong> <strong>Webinar, <time datetime='2021-12-13T18:00:00' itemprop=\"startDate\">Mon 13 Dec 2021, 18.00</time>-<time datetime='2021-12-13T19:00:00' itemprop=\"endDate\">19.00</time> h UTC<span class=\"timezone\">+0100</span><br> <span itemprop='location'><a href=\"https://zoom.us\">Zoom</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> <div class='abstract-event'> Free webinar with Rita Atkins </div> Organiser: <a href=\"https://chessplus.net\">ChessPlus</a> <a href=\"",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.tickettailor.com/events/chessplus/616722",
+         "pubDate" : "Mon, 29 Nov 2021 16:59:09 +0100",
+         "title" : "LogiQ Board - A resource for chess and games instruction"
+      },
+      {
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">8x8 - Other Strategy Games on the Chess Board</strong> <strong>Webinar, <time datetime='2021-12-02T18:00:00' itemprop=\"startDate\">Thu 02 Dec 2021, 18.00</time>-<time datetime='2021-12-02T19:30:00' itemprop=\"endDate\">19.30</time> h UTC<span class=\"timezone\">+0100</span><br> <span itemprop='location'><a href=\"https://zoom.us\">Zoom</a> <span class=\"location_note\">(Link will be announced to participants)</span></span> </strong> <div itemprop=\"description\"> <div class='abstract-event'> Free webinar with John Foley and Stefan L&ouml;ffler </div> Organiser: <a href=\"https://chessplus.net\">ChessPlus</",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.tickettailor.com/events/chessplus/616718",
+         "pubDate" : "Mon, 29 Nov 2021 16:52:28 +0100",
+         "title" : "8x8 - Other Strategy Games on the Chess Board"
+      },
+      {
          "description" : "The new AI-based training method \"Easy Game\" helps you to play brilliancies against Fritz18! After mating Fritz18 you can publish your game with one click or you can send it per email to ChessBase to take part in the great Fritz18 lottery. Join the action!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2138,14 +2170,6 @@ news_feed (
          "title" : "Khusnutdinov Wins November 9 Titled Tuesday"
       },
       {
-         "description" : "If you have a favourite book, or a favourite film, our guess is, you have read or watched them more than once. Without a doubt, one of the greatest chess games ever played is the one between Garry Kasparov and Veselin Topalov from 1999 in Wijk aan Zee. A game which you probably looked at more than once already. But how well do we know this game by heart? Svitlana gives us the chance to guess the correct move in eleven crucial moments of the game. How many can you guess?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-19",
-         "pubDate" : "Wed, 10 Nov 2021 17:01:00 +0100",
-         "title" : "Svitlana's Smart Moves - Kasparov's immortal"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2160,14 +2184,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-playoffs-preview",
          "pubDate" : "Wed, 10 Nov 2021 06:49:00 -0800",
          "title" : "Collegiate Chess League: Playoffs Preview"
-      },
-      {
-         "description" : "Elisabeth Paehtz played an outstanding tournament in the Women's Grand Swiss, where she came second. Her performance granted her a spot in the next Grand Prix, and she also scored a GM norm, but it is not entirely clear whether this was her second or third norm. In an interview, she explains why and talks about the factors that helped her improve during the last year or so. | Photos: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/inetrview-with-elisabeth-paehtz-2021-grand-swiss",
-         "pubDate" : "Wed, 10 Nov 2021 14:19:00 +0100",
-         "title" : "Elisabeth Paehtz: \"For every kilo I gained, I gained ten Elo points\""
       },
       {
          "description" : " I am in the process of building a web based rating management system, partly for my own interest, and partly as a proof of concept for a couple of chess organisations. In doing so I thought I would refamiliarise myself with the FIDE Rapid and Blitz Rating Regulations, a found some differences from standard system that I had either forgotten, or failed to notice. For example: <ul style=\"text-align: left;\"><li>The maximum number of rapid games in a day is 15, and for blitz, 30</li><li>You have to score at least 1 point in your first event for it to count towards your rating. (It is only 0.5 for the standard list)</li><li>Every either has a k factor of 20, or 700/total number of games played, ",
@@ -2256,14 +2272,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/once-knight-always-knight-five-time.html",
          "pubDate" : "Tue, 09 Nov 2021 07:04:00 +0000",
          "title" : "Once a knight, always a knight. Five time a night ...."
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1426",
-         "pubDate" : "Mon, 08 Nov 2021 19:15:03 +0000",
-         "title" : "Kirill Shevchenko snatches victory in the Lindores Abbey Blitz"
       }
    ]
 }
