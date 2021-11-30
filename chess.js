@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">The fourth game day of the World Chess Championship, which is taking place in Dubai, ended in a draw after 33 moves. We bet that's not the gift the reigning champion Magnus Carlsen wished for this birthday. After four games, the score is 2 - 2. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51715836594_47b0fe324c_k-min.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51716034835_60bd8e7989_k-min.jpg\" width=\"2048\" height=\"1367\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51714383982_dab45b2b23_k-min.jpg\" width=\"2048\" height=\"",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/4-game/",
+         "pubDate" : "Tue, 30 Nov 2021 15:18:36 +0000",
+         "title" : "World Chess Championship Game 4: A Drawish day"
+      },
+      {
+         "description" : "Magnus Carlsen's 31st birthday started promisingly as he once again came up with a new idea against Ian Nepomniachtchi in the opening, but the Russian lived up to his pre-game promise not to give the World Champion any gifts as he never went seriously astray. Magnus began to burn up time as he looked for a winning plan, but in the end he forced a draw by repetition when it seemed there might have been more ways to try. The match is tied 2:2, with Ian playing White on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-nepo-4-birthday-draw-for-magnus",
+         "pubDate" : "Tue, 30 Nov 2021 15:18:07 +0000",
+         "title" : "Carlsen-Nepo 4: No birthday gifts for Magnus"
+      },
+      {
          "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. The first three games of the match finished drawn, with Magnus Carlsen deviating from mainstream theory only to see Ian Nepomniachtchi well prepared and ready to discuss the ensuing sidelines. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,7 +90,7 @@ news_feed (
          "title" : "Going round and coming back"
       },
       {
-         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 3 Match Score: 1-1 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 3 Sunday, 28 November 2021 &#8220;Perfect Game&#8221; but for both players.Draw streak continues! Magnus CarlsenPhoto Eric Rosen/FIDE The press conference of the World Chess Championships addressed a comment about the World Championships going [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/29/2021-world-chess-championship-game-3/\">2021 World Chess Championship: Game #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Origina",
+         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 3 Match Score: 1&frac12;-1&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 3 Sunday, 28 November 2021 &#8220;Perfect Game&#8221; but for both players.Draw streak continues! Magnus CarlsenPhoto Eric Rosen/FIDE The press conference of the World Chess Championships addressed a comment about the World Championships going [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/29/2021-world-chess-championship-game-3/\">2021 World Chess Championship: Game #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Dr",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/29/2021-world-chess-championship-game-3/",
@@ -186,12 +202,12 @@ news_feed (
          "title" : "A Shot of Scotch #5: Queen Moves | Chess Openings Explained"
       },
       {
-         "description" : "The fourth game of the 2021 FIDE World Chess Championship is underway! After three draws and the first rest day, GM Magnus Carlsen is playing his second white game on his 31st birthday. Watch the 2021 FIDE World Chess Championship Game 4 liveY...",
+         "description" : "Game 4 of the 2021 FIDE World Championship ended once again in a tense draw, the score remaining tied now at two points apiece. GM Ian Nepomniachtchi played a Petroff Defense after GM Magnus Carlsen opened with 1.e4. Carlsen spent some time near t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-4",
          "pubDate" : "Sun, 28 Nov 2021 14:23:00 -0800",
-         "title" : "LIVE! FIDE World Chess Championship Game 4 Carlsen-Nepo Streaming Now"
+         "title" : "Nepo Holds Carlsen With Petroff In Game 4 FIDE World Chess Championship"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>World School Tournament</strong> at the Spanish <strong>Expo 2020</strong> pavilion set the precedent of a <a href=\"http://chess-results.com/tnr594347.aspx?lan=0\">first match between a team from the United Arab Emirates and a team from Israel</a>. The Green Village School team from North Tel Aviv won by 4:1. </div> ",
@@ -1498,14 +1514,6 @@ news_feed (
          "title" : "Euro Teams: Ukraine beat Russia, Firouzja wins again"
       },
       {
-         "description" : "Vishy Anand described Arjun Erigaisi's calculation as \"simply superlative\" as the 18-year-old Indian star escaped with a draw against Levon Aronian and won the Tata Steel Chess India Rapid by a full point. Arjun revealed afterwards that he's been working with Fabiano Caruana's long-term coach Rustam Kasimdzhanov. Overall it was a nervous last day, with Levon spoiling a winning position in that game, and against Vaishali, while Praggnanandhaa and Vidit also failed to fire on all cylinders as they tied for 2nd place.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/arjun-erigaisi-wins-tata-steel-chess-india-rapid",
-         "pubDate" : "Fri, 19 Nov 2021 21:56:11 +0000",
-         "title" : "Arjun Erigaisi wins Tata Steel Chess India Rapid"
-      },
-      {
          "description" : " After quite a long wait from the first announcements until now, I finally purchased a copy of 'Humankind', which is Civilization type game that lets you develop societies from hunter gatherers to rocket scientists. I had a first play last night (which is why this post is late!) and found it enjoyable (even on my creaky old PC). Didn't do fantastically well on my first run, but I assume that is because I missed a lot of nuances in play (too many cities too quickly get penalised, for example). But like CIV VI (and Chess), the early days are usually quite difficult before the right ides and strategies become apparent. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1592,14 +1600,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-two/",
          "pubDate" : "Fri, 19 Nov 2021 13:57:23 +0000",
          "title" : "A Foundation for Beginners Forty Two"
-      },
-      {
-         "description" : " <p class=\"lead\">The World Chess Championship match is just 7 days away, with the reigning World Champion, Magnus Carlsen, facing Russian's No.1 and 2021 Challenger, Ian Nepomniachtchi, at the Dubai Exhibition Centre. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/N_R07312-min.jpg\" width=\"2560\" height=\"1651\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> Recently, Nepomniachtchi and Carlsen have been interviewed about their preparation and the three-time World Champion was all about thanking his team and friends. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/6ACWlgIzwcs?enablejsapi=1\" allow=\"autoplay\" frameborder=",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/pure-chess-physical-training-and-mental-preparation-is-the-secre/",
-         "pubDate" : "Fri, 19 Nov 2021 10:29:11 +0000",
-         "title" : "Carlsen: \"Pure chess, physical training and mental preparation\""
       },
       {
          "description" : "The Liechtestein Chess Federation celebrated its 50th anniversary since its founding on Sunday, November 14. An impressive gala dinner with many presentations and performances and a simultaneous exhibition with world chess champion Anatoly Karpov were the main components of the festive program In addition to many guests and dignitaries, the celebrations were attended by the Minister of Foreign&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/liechtenstein-chess-federation-celebrates-its-50th-anniversary/\">Read More &#187;</a></span>",
@@ -2248,22 +2248,6 @@ news_feed (
          "link" : "https://chessimprover.com/deja-vu-4/",
          "pubDate" : "Tue, 09 Nov 2021 16:46:25 +0000",
          "title" : "Deja Vu (4)"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9723c5ad-57b8-431b-894c-9476dc9173e3/John%2BHartmann1.jpg\" data-image-dimensions=\"250x375\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"618a84c0ceb12e4c1b810e62\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9723c5ad-57b8-431b-894c-9476dc9173e3/John%2BHartmann1.jpg?format=1000w\" /> </figure> <p class=\"\">John Hartmann is the Editor of US Chess' <em>Chess Life </em>and <a href=\"https://new.uschess.org/news\"><span>Chess Life Online</span></a>, and the host of th",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/9/episode-251-john-hartmann-is-back",
-         "pubDate" : "Tue, 09 Nov 2021 15:14:24 +0000",
-         "title" : "Episode 251- John Hartmann is back! "
-      },
-      {
-         "description" : "Sankalp Gupta became India's 71st GM only two days prior.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32590176/mitrabha-guha-becomes-india-72nd-grand-master?device=featurephone",
-         "pubDate" : "Tue, 9 Nov 2021 09:08:18 -0500",
-         "title" : "Mitrabha Guha becomes India's 72nd Grand Master"
       }
    ]
 }
