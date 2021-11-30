@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Covid might have knocked the Banff Open down, but it certainly didn't knock it out. The popular tournament was back with a vengeance this year, after being cancelled in 2020. The fifth ever Banff Open was held over the Remembrance Day long weekend and welcomed the strongest (and largest) group of players in its history, with one GM (Joel Benjamin), 3 IMs and 6 FMs taking part. | Photos: Banff Open",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-return-of-the-king-and-queen-and-rooks-bishops-etc",
+         "pubDate" : "Tue, 30 Nov 2021 11:30:00 +0100",
+         "title" : "The Return of the King... and Queen... and Rooks, Bishops etc...."
+      },
+      {
+         "description" : " <p class=\"lead\">Magnus Carlsen is currently the defending World Champion against Ian Nepomniachtchi in Dubai, and today along with the fourth game of the World Championship, Magnus is turning 31. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51701747561_4c883fbebe_k-min.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen</div> </div> If we could put Magnus' legacy in a sentence, then we would use the words of the author Olimpiu G. Urcan: \"Magnus is the world's highest-rated chess player for 10 years and counting, highest rating in history, nearly 40 super-tournament wins, longest unbeaten streak in top-level standard play, ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/carlsens-legacy-at-31/",
+         "pubDate" : "Tue, 30 Nov 2021 09:37:39 +0000",
+         "title" : "Carlsen's Legacy at 31"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> FIDE has allowed Magnus Carlsen to display <strong>Unibet</strong> logos on his shirts. This must have raised eyebrows, as advertising any form of gambling is illegal in Dubai. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/51709551540-85ac5bbe93-k.1920.jpeg\" title=\"The Unibet logo is on the arm and above the breast of Magnus Carlsen. photo: Eric Rosen / FIDE\" data-title=\"The Unibet logo is on the arm and above the breast of Magnus Carlsen. (photo: Eric Rosen / FIDE)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/51709551540-85ac5bbe93-k.480.jpeg\" alt=\"The Unibe",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/an-exception-for-carlsen/",
+         "pubDate" : "Tue, 30 Nov 2021 10:30:46 +0100",
+         "title" : "An exception for Carlsen?"
+      },
+      {
+         "description" : " &#8220;They ignore you now, but they'll need you later&#8221; Unknown Having the chance to play a Grandmaster is a highlight for many of us. It is true the Swiss format have increased those chances, but you still need to perform well to have the minimum FIDE rating to register. The second condition, as important as <a href=\"https://chessimprover.com/ignore-at-your-peril-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Ignore at Your Peril (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/ignore-at-your-peril-2/\">Ignore at Your Peril (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/ignore-at-your-peril-2/",
+         "pubDate" : "Tue, 30 Nov 2021 09:30:11 +0000",
+         "title" : "Ignore at Your Peril (2)"
+      },
+      {
+         "description" : "The Kasparov Chess Foundation announces the second annual KCF University Cup, which will take place online, February 5 - 6, 2022. The tournament is open to teams from colleges and universities from all over the world.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-kasparov-chess-foundation-announces-university-cup",
+         "pubDate" : "Tue, 30 Nov 2021 09:51:54 +0100",
+         "title" : "The Kasparov Chess Foundation announces University Cup"
+      },
+      {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/lABNMnnMYeo?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -40,14 +80,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/12-paul-morphys-greatest-games-dynamic-dozen",
          "pubDate" : "Tue, 30 Nov 2021 01:03:10 +0000",
          "title" : "12 of Paul Morphy's Greatest Games! | The Dynamic Dozen"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Unibet</strong> logos on the shirts of the world champion must have raised eyebrows. Advertising any form of gambling is illegal in Dubai. What is going on? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/51709551540-85ac5bbe93-k.1920.jpeg\" title=\"The Unibet logo is on the arm and above the breast of Magnus Carlsen. photo: Eric Rosen / FIDE\" data-title=\"The Unibet logo is on the arm and above the breast of Magnus Carlsen. (photo: Eric Rosen / FIDE)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/51709551540-85ac5bbe93-k.480.jpeg\" alt=\"The Unibet logo is on",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/an-exception-for-carlsen/",
-         "pubDate" : "Mon, 29 Nov 2021 23:47:59 +0100",
-         "title" : "An exception for Carlsen?"
       },
       {
          "description" : "Chess.com is excited to announce the release of our newest feature for members: Insights. This new tool analyzes your games deeply and shows you where your best performances are and where you could improve. As ancient Greek wisdom states, knowing...",
@@ -2146,14 +2178,6 @@ news_feed (
          "title" : "England at European Team Chess Championship 2021"
       },
       {
-         "description" : "The Royal Hideaway Sancti Petri is a 5-star hotel located in Cadiz, Spain. Recently, world champion Magnus Carlsen visited the resort and was presented as ambassador of \"The Maître's Gambit\", a recurring activity in which Guillermo Garcia, a former Spanish Junior chess champion, plays simultaneous exhibitions against guests of the hotel. In an interview, Carlsen talked about grandmaster preparation, his early years as a chess player and \"The Queen's Gambit\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-the-maitre-gambit",
-         "pubDate" : "Thu, 11 Nov 2021 06:35:00 +0100",
-         "title" : "Magnus Carlsen presents 'The Maître's Gambit' in an exclusive interview"
-      },
-      {
          "description" : " Kenya has long been an active member of the international chess community over the years, but in the past decade, they have increased the profile of chess within the country. Chess Kenya has been promoting chess in underserved areas. TEAM KENYA with Ministry of Sports Most recently Fred Sagwe trekked 165km to get chess in [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/10/chess-brought-before-kenyan-parliament/\">Chess brought before Kenyan Parliament</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2210,14 +2234,6 @@ news_feed (
          "title" : "Best Chess Tactics Training"
       },
       {
-         "description" : " <p class=\"lead\">The 19-year-old GM from Ukraine, Kirill Shevchenko, won <a href=\"https://lindoresabbeyblitz.fide.com\">the Lindores Abbey Blitz tournament</a> in Riga finishing half a point ahead of the 2016 Challenger Fabiano Caruana. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51664544941_5dcda466f4_k-min.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Shevchenko in clear disbelief, Photo: Maria Emelianova</div> </div> 18-year-old Alireza Firoujza showed the way with his remarkable win at the Grand Swiss, and even more young players are striving to enter the elite of top players. One of them is Kirill Shevchenko who surprised everyone",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/young-players-are-pushing-forward-at-the-mikhail-tal-85th-annive/",
-         "pubDate" : "Wed, 10 Nov 2021 09:54:54 +0000",
-         "title" : "Young players are pushing forward at the Mikhail Tal 85th Anniversary Tournament"
-      },
-      {
          "description" : " From the publisher: \"Pawns are the soul of chess.\" We have all heard this phrase more than once in our chess life and we owe it to the great French player François-Andr&eacute; Danican, so-called Philidor, considered one of the best chess players of the 18th century. It's not surprising that with this way of thinking, <a href=\"http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Philidor Defense</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/\">The Modernized Philidor Defense</a> appea",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2256,14 +2272,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/mitrabha-guha-becomes-indias-72nd-grand-master/articleshow/87607633.cms",
          "pubDate" : "Tue, 09 Nov 2021 17:40:38 +0530",
          "title" : "Mitrabha Guha becomes India's 72nd Grand Master"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1427",
-         "pubDate" : "Tue, 09 Nov 2021 11:24:08 +0000",
-         "title" : "Nur-Sultan to host World Rapid and Blitz 2021"
       }
    ]
 }
