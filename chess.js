@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/lABNMnnMYeo?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-4-of-the-match/",
+         "pubDate" : "Tue, 30 Nov 2021 08:20:15 +0000",
+         "title" : "Time To Say Dubai: Round 4 of the Match"
+      },
+      {
+         "description" : "Pawn endings must be calculated precisely. In the diagram position it is Black to move and win - if he finds the right square(s) for his king. What should Black do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/going-round-and-coming-back",
+         "pubDate" : "Tue, 30 Nov 2021 09:00:00 +0100",
+         "title" : "Going round and coming back"
+      },
+      {
          "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 3 Match Score: 1-1 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 3 Sunday, 28 November 2021 &#8220;Perfect Game&#8221; but for both players.Draw streak continues! Magnus CarlsenPhoto Eric Rosen/FIDE The press conference of the World Chess Championships addressed a comment about the World Championships going [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/29/2021-world-chess-championship-game-3/\">2021 World Chess Championship: Game #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Origina",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2162,14 +2178,6 @@ news_feed (
          "title" : "Speed Chess Championship: Rapport Knocks Out Sarana In Dramatic Tiebreaker"
       },
       {
-         "description" : "The 2021 Forester Open, with a planned $20,000 prize fund and norm opportunities, will take place on November 24-28 in Grapevine, Texas. Its organizer is Blakeman Chess, founded by 20-year-old Cole Blakeman. He plans to expand Blakeman Chess outside of Texas and build its reputation as one of the biggest U.S. chess tours.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/forester-open-pre-tournament",
-         "pubDate" : "Wed, 10 Nov 2021 19:00:00 +0100",
-         "title" : "Forester Open in Grapevine, Texas"
-      },
-      {
          "description" : "In the most active Titled Tuesday since August, GM Rustam Khusnutdinov took home the victory with a 9.5/11 score, winning on the tiebreak system over second-place finisher GM Dmitrij Kollars. In a logjam on 9 points out of 11, two well-known GMs t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2256,14 +2264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1427",
          "pubDate" : "Tue, 09 Nov 2021 11:24:08 +0000",
          "title" : "Nur-Sultan to host World Rapid and Blitz 2021"
-      },
-      {
-         "description" : "<b>Damod,Sajjad (1358) - Morshedloo,Amin [C45]</b><br />Asian Club Hybrid Chess Championship Tornelo (5.3), 07.11.2021 <script>new PgnViewer( { boardName: \"game1288\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nxd4 5.Qxd4 Nf6 6.e5 Qe7 7.Be3 c5 8.exf6 cxd4 9.fxe7 dxe3 10.exf8Q+ Rxf8 11.fxe3 d6 12.Bb5+ Bd7 13.Nc3 Bxb5 14.Nxb5 Kd7 15.O-O-O a6 16.Nxd6 Kc7 17.Rhf1 f6 18.Rd3 Rad8 19.Rfd1 b5 20.Nxb5+ axb5 21.Rxd8 Rxd8 22.Rxd8 Kxd8 23.Kd2 Kc7 24.Kc3 Kb6 25.Kb4 g5 26.g4 h6 27.e4 Ka6 28.Kc5 Ka5 29.Kd6 Kb4 30.Ke6 Kc4 31.Kxf6 Kd4 32.e5 Kd5 33.e6 Kd6 34.e7 Kd7 35.Kf7 Kd6 36.e8Q Kc5 37.Qf8+ Kb6 38.Qxh6+ Ka5 39.Qxg5 Kb4 40.h4 Kc4 41.h5 Kd4 42.Qxb5 Ke4 43.g5 Kf4 44.g6 Kg4 45.h6 Kh",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/once-knight-always-knight-five-time.html",
-         "pubDate" : "Tue, 09 Nov 2021 07:04:00 +0000",
-         "title" : "Once a knight, always a knight. Five time a night ...."
       }
    ]
 }
