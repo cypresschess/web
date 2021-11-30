@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. The first three games of the match finished drawn, with Magnus Carlsen deviating from mainstream theory only to see Ian Nepomniachtchi well prepared and ready to discuss the ensuing sidelines. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
+         "pubDate" : "Tue, 30 Nov 2021 13:15:00 +0100",
+         "title" : "Carlsen vs. Nepomniachtchi - Game 4 Live!"
+      },
+      {
+         "description" : "Rank Name Club Rating Total GP 1 Ieysaa Bin-Suhayl J [pictured] Peterborough 2286A 4&frac12; 2293 2 Mark Lim Linton 1878A 3&frac12; 1897 3 Oliver J...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/cambridgeshire-county-chess-championships-results/",
+         "pubDate" : "Tue, 30 Nov 2021 11:50:44 +0000",
+         "title" : "Cambridgeshire County Chess Championships results"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/kU6sweSbaCU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-4-of-the-match/",
+         "pubDate" : "Tue, 30 Nov 2021 11:49:24 +0000",
+         "title" : "Time To Say Dubai: Round 4 of the Match"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Advertising any form of gambling is illegal in Dubai. The Expo 2020 has granted the world champion a special permission to display <strong>Unibet</strong> logos on his shirts during the match. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/51709551540-85ac5bbe93-k.1920.jpeg\" title=\"The Unibet logo is on the arm and above the breast of Magnus Carlsen. photo: Eric Rosen / FIDE\" data-title=\"The Unibet logo is on the arm and above the breast of Magnus Carlsen. (photo: Eric Rosen / FIDE)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/51709551540-85ac5bbe93-k.480.jpeg",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/an-exception-for-carlsen/",
+         "pubDate" : "Tue, 30 Nov 2021 12:01:26 +0100",
+         "title" : "An exception for Carlsen"
+      },
+      {
          "description" : "Covid might have knocked the Banff Open down, but it certainly didn't knock it out. The popular tournament was back with a vengeance this year, after being cancelled in 2020. The fifth ever Banff Open was held over the Remembrance Day long weekend and welcomed the strongest (and largest) group of players in its history, with one GM (Joel Benjamin), 3 IMs and 6 FMs taking part. | Photos: Banff Open",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,14 +50,6 @@ news_feed (
          "title" : "Carlsen's Legacy at 31"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> FIDE has allowed Magnus Carlsen to display <strong>Unibet</strong> logos on his shirts. This must have raised eyebrows, as advertising any form of gambling is illegal in Dubai. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/51709551540-85ac5bbe93-k.1920.jpeg\" title=\"The Unibet logo is on the arm and above the breast of Magnus Carlsen. photo: Eric Rosen / FIDE\" data-title=\"The Unibet logo is on the arm and above the breast of Magnus Carlsen. (photo: Eric Rosen / FIDE)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/51709551540-85ac5bbe93-k.480.jpeg\" alt=\"The Unibe",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/an-exception-for-carlsen/",
-         "pubDate" : "Tue, 30 Nov 2021 10:30:46 +0100",
-         "title" : "An exception for Carlsen?"
-      },
-      {
          "description" : " &#8220;They ignore you now, but they'll need you later&#8221; Unknown Having the chance to play a Grandmaster is a highlight for many of us. It is true the Swiss format have increased those chances, but you still need to perform well to have the minimum FIDE rating to register. The second condition, as important as <a href=\"https://chessimprover.com/ignore-at-your-peril-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Ignore at Your Peril (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/ignore-at-your-peril-2/\">Ignore at Your Peril (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-kasparov-chess-foundation-announces-university-cup",
          "pubDate" : "Tue, 30 Nov 2021 09:51:54 +0100",
          "title" : "The Kasparov Chess Foundation announces University Cup"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/lABNMnnMYeo?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-4-of-the-match/",
-         "pubDate" : "Tue, 30 Nov 2021 08:20:15 +0000",
-         "title" : "Time To Say Dubai: Round 4 of the Match"
       },
       {
          "description" : "Pawn endings must be calculated precisely. In the diagram position it is Black to move and win - if he finds the right square(s) for his king. What should Black do?",
@@ -170,12 +186,12 @@ news_feed (
          "title" : "A Shot of Scotch #5: Queen Moves | Chess Openings Explained"
       },
       {
-         "description" : "Three draws so far in the 2021 FIDE World Chess Championship have shown that the players have come incredibly well prepared and in great form. Game four will be the first game where the players have the opportunity to spend a full rest day going o...",
+         "description" : "The fourth game of the 2021 FIDE World Chess Championship is underway! After three draws and the first rest day, GM Magnus Carlsen is playing his second white game on his 31st birthday. Watch the 2021 FIDE World Chess Championship Game 4 liveY...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-4",
          "pubDate" : "Sun, 28 Nov 2021 14:23:00 -0800",
-         "title" : "How To Watch The FIDE World Chess Championship Game 4 Live: Carlsen-Nepo"
+         "title" : "LIVE! FIDE World Chess Championship Game 4 Carlsen-Nepo Streaming Now"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>World School Tournament</strong> at the Spanish <strong>Expo 2020</strong> pavilion set the precedent of a <a href=\"http://chess-results.com/tnr594347.aspx?lan=0\">first match between a team from the United Arab Emirates and a team from Israel</a>. The Green Village School team from North Tel Aviv won by 4:1. </div> ",
@@ -2162,22 +2178,6 @@ news_feed (
          "title" : "International online conference \"Chess in Education\" planned for November 20-21"
       },
       {
-         "description" : "The World Rapid and Blitz Championships, one of the most awaited events in the calendar for chess fans, will take place on its traditional dates: December 25-30, 2021. The tournaments will be hosted by the Kazakhstan Chess Federation and will be played in Nur-Sultan, the capital of the country (formerly known as Astana). | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2021-announcement",
-         "pubDate" : "Thu, 11 Nov 2021 17:10:00 +0100",
-         "title" : "Nur-Sultan to host World Rapid and Blitz Championships"
-      },
-      {
-         "description" : "Good luck to England at the European Team Chess Championship, which starts today. We have a strong line-up &#8212; Open GM David Howell; GM Michael...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/england-compete-at-european-team-chess-championship-2021/",
-         "pubDate" : "Thu, 11 Nov 2021 09:39:53 +0000",
-         "title" : "England at European Team Chess Championship 2021"
-      },
-      {
          "description" : " Kenya has long been an active member of the international chess community over the years, but in the past decade, they have increased the profile of chess within the country. Chess Kenya has been promoting chess in underserved areas. TEAM KENYA with Ministry of Sports Most recently Fred Sagwe trekked 165km to get chess in [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/10/chess-brought-before-kenyan-parliament/\">Chess brought before Kenyan Parliament</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2263,14 +2263,6 @@ news_feed (
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/32590176/mitrabha-guha-becomes-india-72nd-grand-master?device=featurephone",
          "pubDate" : "Tue, 9 Nov 2021 09:08:18 -0500",
-         "title" : "Mitrabha Guha becomes India's 72nd Grand Master"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87607633.cms\" />Kolkata-based player Mitrabha Guha has become India's 72nd chess Grand Master by bagging his third and final GM norm during a tournament in Serbia.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/mitrabha-guha-becomes-indias-72nd-grand-master/articleshow/87607633.cms",
-         "pubDate" : "Tue, 09 Nov 2021 17:40:38 +0530",
          "title" : "Mitrabha Guha becomes India's 72nd Grand Master"
       }
    ]
