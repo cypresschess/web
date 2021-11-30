@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Unibet</strong> logos on the shirts of the world champion must have raised eyebrows. Advertising any form of gambling is illegal in Dubai. What is going on? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/51709551540-85ac5bbe93-k.1920.jpeg\" title=\"The Unibet logo is on the arm and above the breast of Magnus Carlsen. photo: Eric Rosen / FIDE\" data-title=\"The Unibet logo is on the arm and above the breast of Magnus Carlsen. (photo: Eric Rosen / FIDE)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/51709551540-85ac5bbe93-k.480.jpeg\" alt=\"The Unibet logo is on",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/an-exception-for-carlsen/",
+         "pubDate" : "Mon, 29 Nov 2021 23:47:59 +0100",
+         "title" : "An exception for Carlsen?"
+      },
+      {
+         "description" : "Chess.com is excited to announce the release of the new Insights feature. This new tool analyzes your games deeply and shows you where your best performances are and where you could improve. As ancient Greek wisdom states, knowing yourself is esse...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-releases-new-insights-feature",
+         "pubDate" : "Mon, 29 Nov 2021 13:12:00 -0800",
+         "title" : "Chess.com Releases New Insights Feature"
+      },
+      {
          "description" : "\"The difference between not the best arbiter and a good one,\" IA Tomasz Delega writes, in the October issue of the ECU E-magazine, \"is that the first one knows the rules and the second one understands also, what these rules are for.\" He explains the situation using the example of the three-fold draw claim: how must this be correctly handled?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1122,14 +1138,6 @@ news_feed (
          "title" : "Firouzja Is Number 2 In the World. We Just Have to Deal With It"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> We never had so many resources and options to study and train chess as we do today. Here are some guidelines how to make the best of it. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/davorin-cover.1920.jpeg\" title=\"This article contains excerpts from the author's book How to Study Chess on Your Own. \" data-title=\"This article contains excerpts from the author's book *How to Study Chess on Your Own*.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/davorin-cover.480.jpeg\" alt=\"This article contains excerpts from the author's book How to Study Chess on Your Own.\" s",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/online-chess-training/",
-         "pubDate" : "Mon, 22 Nov 2021 07:47:55 +0100",
-         "title" : "The best ways to study chess online"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Discounts for Black Friday and Cyber Monday have started at <a href=\"https://www.chessable.com/courses/\">Chessable</a>, <a href=\"https://everymanchess.com/collections/black-friday-25\">Everyman Chess</a>, <a href=\"https://newblackfriday.com/uscf-sales-black-Friday\">USChess</a>, <a href=\"https://www.chesshouse.com/pages/black-friday-chess-deals\">Chesshouse</a>, <a href=\"https://store.chessclub.com/black-friday\">ICC</a> and probably other chess retailers. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1674,7 +1682,7 @@ news_feed (
          "title" : "Game of the Week #490: Alireza Firouzja vs M. Yilmaz"
       },
       {
-         "description" : " The Chess.com Speed Chess Championship takes place Mon 8th Nov to Sun 19th Dec 2021. Round 1 pairings: Nov 8 Giri 14-12 Duda, Nov 9 Ding 14-12 Mamedyarov, Nov 10 Rapport 16.5-14.5 Sarana, Nov 11 Nihal Sarin 15.5-10.5 Grischuk, Nov 11 Aronian 15-12 Dubov, Nov 12 Nakamura 22-10 Svidler, Nov 15 So 18-14 Xiong and Nov 29 MVL-Caruana.",
+         "description" : " The Chess.com Speed Chess Championship takes place Mon 8th Nov to Sun 19th Dec 2021. Round 1 pairings: Nov 8 Giri 14-12 Duda, Nov 9 Ding 14-12 Mamedyarov, Nov 10 Rapport 16.5-14.5 Sarana, Nov 11 Nihal Sarin 15.5-10.5 Grischuk, Nov 11 Aronian 15-12 Dubov, Nov 12 Nakamura 22-10 Svidler, Nov 15 So 18-14 Xiong and Nov 29 Caruana 13.5-12.5 MVL.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-championship-2021",
@@ -2200,14 +2208,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/",
          "pubDate" : "Wed, 10 Nov 2021 00:10:45 +0000",
          "title" : "The Modernized Philidor Defense"
-      },
-      {
-         "description" : "The second match of the 2021 Speed Chess Championship Main Event went down to the wire as GM Ding Liren and GM Shakhriyar Mamedyarov fought a hotly contested battle. The Chinese GM ultimately won with a final score of 14-12 (an identical result to...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-ding-mamedyarov",
-         "pubDate" : "Tue, 09 Nov 2021 12:12:00 -0800",
-         "title" : "Speed Chess Championship: Ding Beats Mamedyarov, Close Finish To Reach QF"
       },
       {
          "description" : " &#8220;Neo: Whoa. D&eacute;j&agrave; vu. Trinity: What did you just say? Neo: Nothing. Just had a little d&eacute;j&agrave; vu.&#8221; The Matrix, 1999 White to move and mate in 4 Hint: the third move is a check My friend Nick had the above posted online. It looked very familiar. I could bet I have seen this puzzle <a href=\"https://chessimprover.com/deja-vu-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Deja Vu (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/deja-vu-4/\">Deja Vu (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
