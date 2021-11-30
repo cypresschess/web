@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 3 Match Score: 1-1 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 3 Sunday, 28 November 2021 &#8220;Perfect Game&#8221; but for both players.Draw streak continues! Magnus CarlsenPhoto Eric Rosen/FIDE The press conference of the World Chess Championships addressed a comment about the World Championships going [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/29/2021-world-chess-championship-game-3/\">2021 World Chess Championship: Game #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Origina",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/11/29/2021-world-chess-championship-game-3/",
+         "pubDate" : "Tue, 30 Nov 2021 04:12:24 +0000",
+         "title" : "2021 World Chess Championship: Game #3"
+      },
+      {
+         "description" : "GM Fabiano Caruana beat GM Maxime Vachier-Lagrave with a score of 13.5-12.5 in the last match of the first round of the 2021 Speed Chess Championship Main Event. He will face&#38;nbsp;GM Wesley So in the quarterfinal match, which starts on Monday, Dec...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-caruana-mvl",
+         "pubDate" : "Mon, 29 Nov 2021 18:11:00 -0800",
+         "title" : "Caruana Upsets MVL, Meets So In Quarterfinals"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Expert Arjun Puri is back with a dozen more chess items. See twelve of the best Paul Morphy games ever, even those played with piece odds. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/12-paul-morphys-greatest-games-dynamic-dozen\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JacfGVSCRzQ.jpg?itok=aqtVkd2B\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/12-paul-morphys-greatest-games-dynamic-dozen",
+         "pubDate" : "Tue, 30 Nov 2021 01:03:10 +0000",
+         "title" : "12 of Paul Morphy's Greatest Games! | The Dynamic Dozen"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Unibet</strong> logos on the shirts of the world champion must have raised eyebrows. Advertising any form of gambling is illegal in Dubai. What is going on? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/51709551540-85ac5bbe93-k.1920.jpeg\" title=\"The Unibet logo is on the arm and above the breast of Magnus Carlsen. photo: Eric Rosen / FIDE\" data-title=\"The Unibet logo is on the arm and above the breast of Magnus Carlsen. (photo: Eric Rosen / FIDE)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/51709551540-85ac5bbe93-k.480.jpeg\" alt=\"The Unibet logo is on",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "An exception for Carlsen?"
       },
       {
-         "description" : "Chess.com is excited to announce the release of the new Insights feature. This new tool analyzes your games deeply and shows you where your best performances are and where you could improve. As ancient Greek wisdom states, knowing yourself is esse...",
+         "description" : "Chess.com is excited to announce the release of our newest feature for members: Insights. This new tool analyzes your games deeply and shows you where your best performances are and where you could improve. As ancient Greek wisdom states, knowing...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-releases-new-insights-feature",
@@ -226,7 +250,7 @@ news_feed (
          "title" : "Chess for Everyone - National Arbiter Seminar"
       },
       {
-         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 2 Match Score: 1-1 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 2 Saturday, 27 November 2021 Game almost a Knightmare but another draw! The 2021 World Chess Championship match has gotten off to an exciting start with neither player &#8220;feeling out&#8221; the other. Yesterday [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/28/2021-world-chess-championship-game-2/\">2021 World Chess Championship: Game #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 2 Match Score: 1-1 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 2 Saturday, 27 November 2021 Game almost a Knightmare but another draw! The 2021 World Chess Championship match has gotten off to an exciting start with neither player &#8220;feeling out&#8221; the other. Yesterday saw [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/28/2021-world-chess-championship-game-2/\">2021 World Chess Championship: Game #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>.",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/28/2021-world-chess-championship-game-2/",
@@ -1322,14 +1346,6 @@ news_feed (
          "title" : "Tata Steel India Blitz, Final Day - Live!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko continues his series on the Scotch Game or Scotch Opening. Learn the London Defense of the Scotch Gambit: 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bb4+ and more. Originally on Twitch. 2021.09.20<br /> C44 Scotch gambit<br /> C44 Scotch gambit, Vitzhum attack<br /> C44 Scotch gambit, Cochrane-Shumov defence<br /> C53 Giuoco Piano, Ghulam Kassim variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shot-scotch-2-scotch-gambit-bc5-lines-chess-openings-explaine",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shot-scotch-2-scotch-gambit-bc5-lines-chess-openings-explained",
-         "pubDate" : "Sun, 21 Nov 2021 03:55:33 +0000",
-         "title" : "A Shot of Scotch #2: Scotch Gambit, Bc5 Lines | Chess Openings Explained"
-      },
-      {
          "description" : "An eighth win in as many matches gave Russia tournament victory at the women's section of the European Team Championships with a round to spare. This is Russia's fourth consecutive title and the seventh in the last eight events. Meanwhile, in the open section, four teams go into the final round tied for first place - Armenia, France, Azerbaijan and Ukraine. | Photos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2168,14 +2184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1428",
          "pubDate" : "Wed, 10 Nov 2021 15:36:47 +0000",
          "title" : "Fysiolatris' Nikaia wins Greek Team Championship"
-      },
-      {
-         "description" : "With the regular season over, the teams&#39; standings have been finalized, and the playoff brackets have been set. The playoffs are finally here, and teams will fight for their share of the $25,000 prize pool. Be sure to tune in and watch the ultimat...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-playoffs-preview",
-         "pubDate" : "Wed, 10 Nov 2021 06:49:00 -0800",
-         "title" : "Collegiate Chess League: Playoffs Preview"
       },
       {
          "description" : " I am in the process of building a web based rating management system, partly for my own interest, and partly as a proof of concept for a couple of chess organisations. In doing so I thought I would refamiliarise myself with the FIDE Rapid and Blitz Rating Regulations, a found some differences from standard system that I had either forgotten, or failed to notice. For example: <ul style=\"text-align: left;\"><li>The maximum number of rapid games in a day is 15, and for blitz, 30</li><li>You have to score at least 1 point in your first event for it to count towards your rating. (It is only 0.5 for the standard list)</li><li>Every either has a k factor of 20, or 700/total number of games played, ",
