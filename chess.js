@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " <p class=\"lead\">The fourth game day of the World Chess Championship, which is taking place in Dubai, ended in a draw after 33 moves. We bet that's not the gift the reigning champion Magnus Carlsen wished for this birthday. At the after-match press conference, Magnus said it is ok. After four games, the score is 2 - 2. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51715836594_47b0fe324c_k-min.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51716034835_60bd8e7989_k-min.jpg\" width=\"2048\" height=\"1367\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictu",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1455",
+         "pubDate" : "Tue, 30 Nov 2021 19:13:11 +0000",
+         "title" : "FIDE World Championship Dubai 2021: Closing window"
+      },
+      {
+         "description" : "The match for the World Championship in Dubai is still tied, as Magnus Carlsen and Ian Nepomniachtchi signed a fourth consecutive draw on Tuesday. The defending champion went for his first 1.e4 with the white pieces, to which Nepo responded by setting up a Petroff Defence. Carlsen spent quite a while investigating options that might create trouble for his opponent, but ended up going for a triple repetition on move 30. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-g4",
+         "pubDate" : "Tue, 30 Nov 2021 18:25:00 +0100",
+         "title" : "World Championship Game 4: Hesitant birthday boy"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e23f8040-0ba8-4127-95a0-16642d9fa36c/Tatev.1.png\" data-image-dimensions=\"695x532\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61a657b639c80d10d8974039\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e23f8040-0ba8-4127-95a0-16642d9fa36c/Tatev.1.png?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by <a href=\"https://lennartootes.com\">Lennart Ootes</a> <a href=\"https://bryghtlabs.com/blogs/news\">via Bryghtlabs blog </a> </figcaption",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/30/episode-255-wgm-tatev-abrahamyan",
+         "pubDate" : "Tue, 30 Nov 2021 17:03:00 +0000",
+         "title" : "Episode 255- WGM Tatev Abrahamyan "
+      },
+      {
+         "description" : " <p class=\"lead\">The fourth game day of the World Chess Championship, which is taking place in Dubai, ended in a draw after 33 moves. During the after-match press conference, Carlsen described the result as ok. After four games, the score is 2 - 2. This is the 18th draw in a row in the World Chess Championship matches, the last decisive game was back in 2016 in New York in the Carlsen-Karjakin match. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51715836594_47b0fe324c_k-min.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51716034835_60bd8e7989_k-min.jp",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/4-game/",
@@ -18,12 +42,12 @@ news_feed (
          "title" : "Carlsen-Nepo 4: No birthday gifts for Magnus"
       },
       {
-         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. The first three games of the match finished drawn, with Magnus Carlsen deviating from mainstream theory only to see Ian Nepomniachtchi well prepared and ready to discuss the ensuing sidelines. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
-         "pubDate" : "Tue, 30 Nov 2021 13:15:00 +0100",
-         "title" : "Carlsen vs. Nepomniachtchi - Game 4 Live!"
+         "description" : " The FIDE World Chess Championship in Dubai resumed today after its first rest day. Game four took place on Magnus Carlsen's birthday - he has reasonable memories of playing on this day - winning as he did the tie-break match against Sergey Karjakin in 2016. Today Carlsen had the white pieces said that he expected the Petroff - Nepomniachtchi had used it in a game in the Candidates and that he was ready for it. \"I tried something concrete - it didn't work. That's a normal result. I didn't expect him to have missed the line I played completely but in some other iterations there can be a lot of difficult decisions to make for black. But I think the way that he played there was just - there are",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/nepomniachtchi-gets-an-easy-draw-using-the-petroff-defence-in-world-championship-game-4",
+         "pubDate" : "Tue, 30 Nov 2021 19:03:00 +0400",
+         "title" : "Nepomniachtchi gets an easy draw using the Petroff Defence in World Championship Game 4 - 4"
       },
       {
          "description" : "Rank Name Club Rating Total GP 1 Ieysaa Bin-Suhayl J [pictured] Peterborough 2286A 4&frac12; 2293 2 Mark Lim Linton 1878A 3&frac12; 1897 3 Oliver J...",
@@ -90,7 +114,7 @@ news_feed (
          "title" : "Going round and coming back"
       },
       {
-         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 3 Match Score: 1&frac12;-1&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 3 Sunday, 28 November 2021 &#8220;Perfect Game&#8221; but for both players.Draw streak continues! Magnus CarlsenPhoto Eric Rosen/FIDE The press conference of the World Chess Championships addressed a comment about the World Championships going [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/29/2021-world-chess-championship-game-3/\">2021 World Chess Championship: Game #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Dr",
+         "description" : " Share!4 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 3 Match Score: 1&frac12;-1&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 3 Sunday, 28 November 2021 &#8220;Perfect Game&#8221; but for both players.Draw streak continues! Magnus CarlsenPhoto Eric Rosen/FIDE The press conference of the World Chess Championships addressed a comment about the World Championships going [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/29/2021-world-chess-championship-game-3/\">2021 World Chess Championship: Game #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess D",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/29/2021-world-chess-championship-game-3/",
@@ -119,7 +143,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-releases-new-insights-feature",
          "pubDate" : "Mon, 29 Nov 2021 13:12:00 -0800",
-         "title" : "Chess.com Releases New Insights Feature"
+         "title" : "Chess.com Releases Insights"
       },
       {
          "description" : "\"The difference between not the best arbiter and a good one,\" IA Tomasz Delega writes, in the October issue of the ECU E-magazine, \"is that the first one knows the rules and the second one understands also, what these rules are for.\" He explains the situation using the example of the three-fold draw claim: how must this be correctly handled?",
@@ -202,7 +226,7 @@ news_feed (
          "title" : "A Shot of Scotch #5: Queen Moves | Chess Openings Explained"
       },
       {
-         "description" : "Game 4 of the 2021 FIDE World Championship ended once again in a tense draw, the score remaining tied now at two points apiece. GM Ian Nepomniachtchi played a Petroff Defense after GM Magnus Carlsen opened with 1.e4. Carlsen spent some time near t...",
+         "description" : "The score in the FIDE World Chess Championship is 2-2 after a fourth draw between GM Magnus Carlsen and GM Ian Nepomniachtchi on Tuesday. Did the challenger shut down Carlsen&#39;s 1.e4 in this match? It&#39;s too early to tell, but his preparation and ac...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-4",
@@ -2240,14 +2264,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/",
          "pubDate" : "Wed, 10 Nov 2021 00:10:45 +0000",
          "title" : "The Modernized Philidor Defense"
-      },
-      {
-         "description" : " &#8220;Neo: Whoa. D&eacute;j&agrave; vu. Trinity: What did you just say? Neo: Nothing. Just had a little d&eacute;j&agrave; vu.&#8221; The Matrix, 1999 White to move and mate in 4 Hint: the third move is a check My friend Nick had the above posted online. It looked very familiar. I could bet I have seen this puzzle <a href=\"https://chessimprover.com/deja-vu-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Deja Vu (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/deja-vu-4/\">Deja Vu (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/deja-vu-4/",
-         "pubDate" : "Tue, 09 Nov 2021 16:46:25 +0000",
-         "title" : "Deja Vu (4)"
       }
    ]
 }
