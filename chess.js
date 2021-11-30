@@ -2,15 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " <p class=\"lead\">The fourth game day of the World Chess Championship, which is taking place in Dubai, ended in a draw after 33 moves. We bet that's not the gift the reigning champion Magnus Carlsen wished for this birthday. After four games, the score is 2 - 2. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51715836594_47b0fe324c_k-min.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51716034835_60bd8e7989_k-min.jpg\" width=\"2048\" height=\"1367\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51714383982_dab45b2b23_k-min.jpg\" width=\"2048\" height=\"",
+         "description" : " <p class=\"lead\">The fourth game day of the World Chess Championship, which is taking place in Dubai, ended in a draw after 33 moves. We bet that's not the gift the reigning champion Magnus Carlsen wished for this birthday. At the after-match press conference, Magnus said it is ok. After four games, the score is 2 - 2. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51715836594_47b0fe324c_k-min.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51716034835_60bd8e7989_k-min.jpg\" width=\"2048\" height=\"1367\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictu",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/4-game/",
          "pubDate" : "Tue, 30 Nov 2021 15:18:36 +0000",
-         "title" : "World Chess Championship Game 4: A Drawish day"
+         "title" : "World Chess Championship Game 4: A Drawish day, but it's OK"
       },
       {
-         "description" : "Magnus Carlsen's 31st birthday started promisingly as he once again came up with a new idea against Ian Nepomniachtchi in the opening, but the Russian lived up to his pre-game promise not to give the World Champion any gifts as he never went seriously astray. Magnus began to burn up time as he looked for a winning plan, but in the end he forced a draw by repetition when it seemed there might have been more ways to try. The match is tied 2:2, with Ian playing White on Tuesday.",
+         "description" : "Magnus Carlsen's 31st birthday started promisingly as he once again came up with a new idea against Ian Nepomniachtchi in the opening, but the Russian lived up to his pre-game promise not to give the World Champion any gifts as he turned out to know exactly what he was doing. Magnus began to burn up time as he looked for a winning plan, but in the end he forced a draw by repetition when it seemed there might have been more ways to try. The match is tied 2:2, with Ian playing White on Tuesday.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/carlsen-nepo-4-birthday-draw-for-magnus",
@@ -706,7 +706,7 @@ news_feed (
          "title" : "Can Nepo win chess war against Magnus Carlsen?"
       },
       {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; 1&frac12; Caruana &frac12; &frac12; &frac12; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; 2 Caruana &frac12; &frac12; &frac12; &frac12; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/",
