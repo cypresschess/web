@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1456",
+         "pubDate" : "Wed, 01 Dec 2021 12:24:39 +0000",
+         "title" : "Velammal Nexus School wins the World School Chess Tournament at Expo 2020"
+      },
+      {
+         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. Ian Nepomniachtchi gets his third game with white after succeeding in neutralizing Magnus Carlsen's attempts to surprise him in the previous encounters of the match. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
+         "pubDate" : "Wed, 01 Dec 2021 13:00:00 +0100",
+         "title" : "Carlsen vs. Nepomniachtchi - Game 5 Live!"
+      },
+      {
+         "description" : "He is the FIDE World Chess Champion of 2004, and has been the main second of World Champion Viswanathan Anand, during Anand's successful title defences in 2008, 2010 and 2012. He has coached the German national team, became the trainer of World Champion challengers Sergey Karjakin and Fabiano Caruana. Now you can win a private session with Rustam. Just submit a brilliant game you've recently played against the computer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/win-a-private-training-session-with-rustam-kasimdzhanov-2",
+         "pubDate" : "Wed, 01 Dec 2021 12:22:58 +0100",
+         "title" : "Win a private training session with Rustam Kasimdzhanov!"
+      },
+      {
+         "description" : "Last year you could open 24 calendar doors and guess the Fritztrainer correctly. This year it's all about magical endgames. Thanks to our endgame expert GM Dr. Karsten M&uuml;ller, we have put together a potpourri of endgame riddles for you. If you can find the right answer, you automatically enter a raffle with plenty of prizes to be won. Among them, our big Christmas surprise packages!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-1",
+         "pubDate" : "Wed, 01 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 1"
+      },
+      {
+         "description" : "The December FIDE rating list officially confirmed the meteoric rise of GM Alireza Firouzja, who is the new world number two player, 52 points behind GM Magnus Carlsen. GM Levon Aronian now represents the U.S. while GM Hikaru Nakamura got removed ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/december-2021-fide-ratings-firouzja-aronian-nakamura",
+         "pubDate" : "Wed, 01 Dec 2021 02:58:00 -0800",
+         "title" : "December FIDE Ratings: Firouzja #2, Aronian U.S., Nakamura Off The List"
+      },
+      {
+         "description" : "Start the new year well-prepared. In the updated Mega Database 2022 you will now find over 9.2 million games, from the first recorded games in the history of chess to games played in October 2022. The Mega is chess history and contains almost all top games ever played, many of them annotated by top players of the past and of today. The huge database is an invaluable tool to prepare for your opponents, to study chess and to enjoy chess!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-mega-database-2022",
+         "pubDate" : "Wed, 01 Dec 2021 11:04:13 +0100",
+         "title" : "New: Mega DataBase 2022"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/5XFZuIzgPQk?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-5-of-the-match/",
+         "pubDate" : "Wed, 01 Dec 2021 09:40:12 +0000",
+         "title" : "Time To Say Dubai: Round 5 of the Match"
+      },
+      {
+         "description" : "On first sight, game 4 of the World Championship match between Magnus Carlsen and Ian Nepomniachtchi does not seem to be particularly spectacular. Nepomniachtchi went for the Petroff and appeared to be well prepared for Carlsen's novelty 18.Nh4 and after 33 moves the game ended with a repetition and a draw. But as English Grandmaster Luke McShane points out in his analysis, the game contained a lot of hidden tactical possibilities.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-game-4-annotated-by-luke-mcshane",
+         "pubDate" : "Wed, 01 Dec 2021 09:35:23 +0100",
+         "title" : "World Championship: Game 4 annotated by Luke McShane"
+      },
+      {
          "description" : "World no. 6 Levon Aronian has completed his transfer from Armenia to the USA and is now listed as a US player on the FIDE rating lists. The Armenian star relocated to Saint Louis in September, and the switch is expected to make the US a powerhouse for the 2022 Chess Olympiad in Moscow, with three players in the Top 10. 18-year-old Alireza Firouzja is now the official world no. 2, while Hikaru Nakamura has dropped off the December 2021 FIDE rating list after not playing a classical game in two years.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -10,12 +74,20 @@ news_feed (
          "title" : "Levon Aronian completes transfer to the USA"
       },
       {
-         "description" : "Our coverage of the fifth game of the 2021 FIDE World Chess Championship begins on Wednesday, December 1 at 4:00 a.m. Pacific Time/13:00 Central European Time. GM Ian Nepomniachtchi will have the white pieces against GM Magnus Carlsen. With four d...",
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent talks about the World Championship match between Magnus Carlsen and Ian Nepomniachtchi and takes a look at game 4 of the match. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-5",
+         "pubDate" : "Tue, 30 Nov 2021 23:00:00 +0100",
+         "title" : "The Weekly Show"
+      },
+      {
+         "description" : "Our coverage of the fifth game of the 2021 FIDE World Chess Championship is underway! After four draws, Nepomniachitchi is playing his third white game vs. GM Magnus Carlsen.&#38;nbsp; Watch the 2021 FIDE World Chess Championship Game 5 liveYou ca...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-5",
          "pubDate" : "Tue, 30 Nov 2021 13:15:00 -0800",
-         "title" : "How To Watch The FIDE World Chess Championship Game 5: Nepo-Carlsen"
+         "title" : "LIVE: FIDE World Chess Championship Game 5 Nepo-Carlsen"
       },
       {
          "description" : "",
@@ -1274,14 +1346,6 @@ news_feed (
          "title" : "12th London Chess Classic 2021 - Games and Results"
       },
       {
-         "description" : " <p class=\"lead\">Prior to 2020, there was only one star in chess - Magnus Carlsen. The main plot of the chess world for years has been to sarcastically watch who out of the top players will manage to win the Candidates tournament to collect a sizable prize after losing to Carlsen again, likely on tie-breaks. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/D1AD317C-74F8-44E7-A469-8DF0E39E86E8.jpeg\" width=\"1800\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anna Shtourman, FIDE: Firouzja during Round 10 of the Grand Swiss in Riga</div> </div> But over the course of the pandemic, the new star appeared in such a meteoric way that the World Chess Champio",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/firouzja-is-number-2-in-the-world-we-just-have-to-deal-with-it/",
-         "pubDate" : "Mon, 22 Nov 2021 07:06:30 +0000",
-         "title" : "Firouzja Is Number 2 In the World. We Just Have to Deal With It"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Discounts for Black Friday and Cyber Monday have started at <a href=\"https://www.chessable.com/courses/\">Chessable</a>, <a href=\"https://everymanchess.com/collections/black-friday-25\">Everyman Chess</a>, <a href=\"https://newblackfriday.com/uscf-sales-black-Friday\">USChess</a>, <a href=\"https://www.chesshouse.com/pages/black-friday-chess-deals\">Chesshouse</a>, <a href=\"https://store.chessclub.com/black-friday\">ICC</a> and probably other chess retailers. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -2090,44 +2154,12 @@ news_feed (
          "title" : "Winners crowned at International Children and Youth Festival \"ChessYes\""
       },
       {
-         "description" : "The 2021 FIDE Grand Swiss concluded on November 7 with Firouzja and Caruana taking the qualification spots to the 2022 Candidates tournament. Two of the most important games from the second half of the event, Caruana - Firouzja and Firouzja - Howell are analysed by Joshua Doknjas. He also takes a look at the impressive second half performances of David Howell and Grigoriy Oparin. | Photo: Anastasiya Karlovich",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-highlights-part-2",
-         "pubDate" : "Fri, 12 Nov 2021 20:00:00 +0100",
-         "title" : "Grand Swiss Highlights - Part 2"
-      },
-      {
-         "description" : "This week, Merijn van Delft takes a look at the direct clash between Fabiano Caruana and Alireza Firouzja, who got spots in the next Candidates Tournament at the Grand Swiss in Riga. A top-notch struggle indeed! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-489-caruana-firouzja",
-         "pubDate" : "Fri, 12 Nov 2021 19:30:00 +0100",
-         "title" : "Game of the Week 489: F. Caruana vs A. Firouzja"
-      },
-      {
          "description" : " Pawn Islands. I forgot to really talk about pawn islands! One of my students, who is reading this series of articles, asked me about pawn islands during a class last week and why I didn't write more about them. Therefore, that is what we will look at this week. Sorry to put off our student <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-one/\">A Foundation for Beginners Forty One</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Ches",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-one/",
          "pubDate" : "Fri, 12 Nov 2021 18:11:02 +0000",
          "title" : "A Foundation for Beginners Forty One"
-      },
-      {
-         "description" : "The Tata Steel Chess India Rapid and Blitz Tournament will take place on November 17-21 in Kolkata. This time, fourteen players will be taking part. The lineup will be spearheaded by Levon Aronian. This event aims to give maximum exposure to Indian youngsters who have been rapidly climbing the rating ladder. Vishy Anand will be present at the tournament as a mentor to the young talents.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2021-announcement",
-         "pubDate" : "Fri, 12 Nov 2021 18:20:00 +0100",
-         "title" : "Tata Steel Chess India Rapid and Blitz is back!"
-      },
-      {
-         "description" : "During this episode of Trent's Tactics, we talk about the new coronavirus situation getting wilder again, and what it might mean for the European Team Championship, which is starting today. Lawrence also mentions the World Rapid and Blitz Championship, falling on Christmas, and him not being able to participate once again. What can lighten up these darker themes? Some of Trent's Tactics!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-4",
-         "pubDate" : "Fri, 12 Nov 2021 18:00:00 +0100",
-         "title" : "Trent's Tactics - King hunts with queen stunts"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87666825.cms\" />Indian chess ace Viswanathan Anand is looking forward to being at a World C'ship minus the stress of competition as he prepares to don the commentator's hat for the upcoming clash between defending champion Magnus Carlsen and Ian Nepomniachtchi of Russia.",
@@ -2162,14 +2194,6 @@ news_feed (
          "title" : "Speed Chess Championship: Nihal, Aronian Win To Advance To Quarterfinals"
       },
       {
-         "description" : "The 23rd edition of the European Team Championships will take place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship will be played concurrently, with each event a 9-round Swiss tournament. Both Russian teams arrive in Slovenia as the defending champions and rating favourites.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2021-preview",
-         "pubDate" : "Fri, 12 Nov 2021 02:25:00 +0100",
-         "title" : "Giri, Grischuk and Firouzja among top stars at European Team Championship"
-      },
-      {
          "description" : "There is no doubt that GM Fabiano Caruana is one of the strongest chess players in history. Since his dominant performance at the 2014 Sinquefield Cup, where he famously started with 7/7 in a field with a 2800 rating average before winning the tou...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2192,14 +2216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1430",
          "pubDate" : "Thu, 11 Nov 2021 20:01:28 +0000",
          "title" : "Call of Interest for Arbiters in World Events 2022-2023"
-      },
-      {
-         "description" : "This week, well-known Dutch trainer Robert Ris takes a look at a game between Boris Gelfand and Sergei Movsesian from the Grand Swiss in Riga. It was a fantastic battle, with four queens appearing on the board as early as on move 11. Not to be missed! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-four-queens-in-the-geller-gambit",
-         "pubDate" : "Thu, 11 Nov 2021 18:20:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Four queens in the Geller Gambit"
       },
       {
          "description" : "",
@@ -2226,14 +2242,6 @@ news_feed (
          "title" : "Memorable Games of British Chess"
       },
       {
-         "description" : "GM Richard Rapport prevailed against GM Alexey Sarana 16.5-14.5 in a marathon 31-game match in the 2021 Speed Chess Championship Main Event and moves on to the quarterfinals. Rapport will face the winner of the next round of 16 match between GMs A...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-rapport-sarana",
-         "pubDate" : "Wed, 10 Nov 2021 14:23:00 -0800",
-         "title" : "Speed Chess Championship: Rapport Knocks Out Sarana In Dramatic Tiebreaker"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2248,14 +2256,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/the-thing-about-ratings.html",
          "pubDate" : "Wed, 10 Nov 2021 12:35:00 +0000",
          "title" : "The thing about ratings"
-      },
-      {
-         "description" : " Nearly a century ago Richard Teichmann proclaimed the famous &#8220;Chess is 99% tactics&#8221;. Even if that might be a slight overstatement, tactics are a vital part of Chess and need to be learned and improved continuously. But how can you best learn or improve Chess tactics? In this article, I will give you a wide [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/best-chess-tactics-training/\">Best Chess Tactics Training</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/best-chess-tactics-training/",
-         "pubDate" : "Wed, 10 Nov 2021 11:28:04 +0000",
-         "title" : "Best Chess Tactics Training"
       }
    ]
 }
