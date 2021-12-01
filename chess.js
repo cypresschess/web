@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The fifth game of the 2021 FIDE World Chess Championship begins on Wednesday, December 1 at 4:00 a.m. Pacific Time/13:00 Central European Time. GM Ian Nepomniachtchi will have the white pieces against GM Magnus Carlsen. With four draws so far, eve...",
+         "description" : "World no. 6 Levon Aronian has completed his transfer from Armenia to the USA and is now listed as a US player on the FIDE rating lists. The Armenian star relocated to Saint Louis in September, and the switch is expected to make the US a powerhouse for the 2022 Chess Olympiad in Moscow, with three players in the Top 10. 18-year-old Alireza Firouzja is now the official world no. 2, while Hikaru Nakamura has dropped off the December 2021 FIDE rating list after not playing a classical game in two years.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/levon-aronian-completes-transfer-to-usa",
+         "pubDate" : "Wed, 01 Dec 2021 07:34:19 +0000",
+         "title" : "Levon Aronian completes transfer to the USA"
+      },
+      {
+         "description" : "Our coverage of the fifth game of the 2021 FIDE World Chess Championship begins on Wednesday, December 1 at 4:00 a.m. Pacific Time/13:00 Central European Time. GM Ian Nepomniachtchi will have the white pieces against GM Magnus Carlsen. With four d...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-5",
@@ -1496,14 +1504,6 @@ news_feed (
          "link" : "https://aicf.in/tata-steel-chess-india-arjun-erigaisi-in-the-leading-position-at-the-end-of-1st-day-of-blitz/",
          "pubDate" : "Sat, 20 Nov 2021 14:47:50 +0000",
          "title" : "Tata Steel Chess India : Arjun Erigaisi in the leading position at the end of 1st day of Blitz"
-      },
-      {
-         "description" : "18-year-old Alireza Firouzja's reign of terror against 2600 players continued as he beat Dimitrios Mastrovasilis and Baadur Jobava to reach a stunning 6.5/7 and climb to 2798.9 on the live rating list. If he didn't play again he'd overtake Ding Liren as world no. 2, but his sights will be set on crossing 2800 at a younger age than Magnus Carlsen. Firouzja's France now face Russia, whose first loss of a game, Kirill Alekseenko's loss to Kirill Shevchenko of Ukraine, cost them a match defeat. Azerbaijan joined Ukraine in the lead with two rounds to go.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/etcc-6-7-firouzja-hits-6-5-7-russia-stumble",
-         "pubDate" : "Sat, 20 Nov 2021 11:20:17 +0000",
-         "title" : "ETCC 6-7: Firouzja hits 6.5/7 | Russia stumble"
       },
       {
          "description" : "&#8220;They all laughed at Christopher Columbus, when he said the world was round. They all laughed when Edison recorded sound.&#8221; -George and Ira Gershwin \"When a true genius appears in the world, you may know him by this sign, that the dunces are all in confederacy against him.\" -Jonathan Swift, Thoughts on Various Subjects, Moral and Diverting []",
