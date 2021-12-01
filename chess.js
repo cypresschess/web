@@ -2,20 +2,84 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time at the World Championship match in Dubai, Ian Nepomniachtchi clearly won the opening battle against Magnus Carlsen. The Russian missed a couple of chances to put his opponent under more pressure, which led to a fifth draw in the 14-game duel. The contenders will get a second rest day on Thursday. | Photo: Anastasiya Karlovich",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-g5",
+         "pubDate" : "Wed, 01 Dec 2021 19:10:00 +0100",
+         "title" : "World Championship Game 5: Not forceful enough"
+      },
+      {
+         "description" : "This week, Merijn van Delft takes a look at a game from the Dutch Championship, in which Max Warmerdam outplayed his opponent Hing Ting Lai convincingly. Warmerdam is not only a strong player, but he also worked as a second for Jorden Van Foreest at the Wijk aan Zee tournament 2021, and helped Van Foreest to surprisingly win this prestigious event. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-492-max-warmerdam-vs-hing-ting-lai",
+         "pubDate" : "Wed, 01 Dec 2021 19:00:00 +0100",
+         "title" : "Game of the Week #492: Max Warmerdam vs Hing Ting Lai"
+      },
+      {
+         "description" : " <p class=\"lead\">The fifth game of the World Chess Championship ended. After a very dynamic start of the game, Nepo lost the lead and the game finished in a draw after 43 moves. At the after-match press conference, Ian commented that the flow of the game was pleasant and he was disappointed with the results. After 5 games, the score is 2.5- 2.5. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51718178800_f456d4003c_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51718176035_8cf3e1a45e_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldc",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-championship-game-5-a-missed-chance-for-nepo-and-a-d/",
+         "pubDate" : "Wed, 01 Dec 2021 16:04:01 +0000",
+         "title" : "World Chess Championship Game 5: A Missed Chance for Nepo and a Draw Again"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1457",
+         "pubDate" : "Wed, 01 Dec 2021 15:25:20 +0000",
+         "title" : "Alireza Firouzja surpasses 2800-mark in December rating list"
+      },
+      {
+         "description" : "With Alireza Firouzja, the chess world now has a new number two behind Magnus Carlsen. On the new World Ranking from December 2021, which the FIDE just published, the 18-year-old, who was born in Iran but is living in France, is ahead of Ding Liren and Fabiano Caruana.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-new-fide-world-ranking-list-december-2021",
+         "pubDate" : "Wed, 01 Dec 2021 16:00:00 +0100",
+         "title" : "The new FIDE World Ranking List: December 2021"
+      },
+      {
+         "description" : "The State Cup for Teams is the biggest annual event in Israel. In 2020, Corona forced it to take a break, but this year it was played again, on Friday, 26 November 2021. The venue was the beautiful Educational Campus Beit Shmuel (pictured) in Jerusalem and the team of Be'er Sheva won the event. | Photos: Ofri Barnea",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/be-er-sheva-wins-the-israeli-cup",
+         "pubDate" : "Wed, 01 Dec 2021 15:00:00 +0100",
+         "title" : "Be'er Sheva wins the Israeli Cup"
+      },
+      {
+         "description" : " The fifth game of the FIDE World Chess Championship in Dubai was drawn in 41 moves. Ian Nepomniachtchi with the white pieces again played the Anti-Marshall with 8.a4. Carlsen deviated from game three with 8...Rb8. While it would be too strong to say Carlsen was in big trouble he was definitely the one under pressure and it was clear that Nepomniachtchi was very well prepared for Rb8. The key moment of the game seemed to be when Nepomniachtchi played 20.Red1 rather than the critical 20.c4 - Carlsen said that he felt after this \"the worst was over\". Nepomniachtchi seemed disappointed after the game but it does seem that he's getting chances with white so that's something to be happy about. Th",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/nepomniachtchi-doesnt-make-the-most-of-his-chances-in-world-chess-championship-game-5",
+         "pubDate" : "Wed, 1 Dec 2021 17:59:00 +0400",
+         "title" : "Nepomniachtchi doesn't make the most of his chances in World Chess Championship game 5 - 5"
+      },
+      {
+         "description" : " If you thought one of my <a href=\"https://chessexpress.blogspot.com/2010/12/another-brain-teaser.html\">previous puzzles</a> was annoying, then the following one is downright infuriating It was (allegedly) from a 5th grade exam in China <i>If a ship had 26 sheep and 10 goats onboard, how old is the ship's captain?</i> It did generate a lot of controversy when it was shared on the internet, but the answer isn't as difficult as you might think <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/and-another-brain-teaser.html",
+         "pubDate" : "Wed, 01 Dec 2021 13:21:00 +0000",
+         "title" : "And another brain teaser "
+      },
+      {
+         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 4 Match Score: 2-2 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 4 Tuesday, 30 November 2021 Another draw, but tense moments in tough struggleDraw streak continues! Happy, happy, birthday, @MagnusCarlsen!?Team Norway Chess wishes you a wonderful day! ?? #magnuscarlsen #chess #sjakk #norwaychess #happybday pic.twitter.com/KZj9NbOtnR [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/01/2021-world-chess-championship-game-4/\">2021 World Chess Championship: Game #4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/12/01/2021-world-chess-championship-game-4/",
+         "pubDate" : "Wed, 01 Dec 2021 12:45:33 +0000",
+         "title" : "2021 World Chess Championship: Game #4"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1456",
          "pubDate" : "Wed, 01 Dec 2021 12:24:39 +0000",
          "title" : "Velammal Nexus School wins the World School Chess Tournament at Expo 2020"
-      },
-      {
-         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. Ian Nepomniachtchi gets his third game with white after succeeding in neutralizing Magnus Carlsen's attempts to surprise him in the previous encounters of the match. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
-         "pubDate" : "Wed, 01 Dec 2021 13:00:00 +0100",
-         "title" : "Carlsen vs. Nepomniachtchi - Game 5 Live!"
       },
       {
          "description" : "He is the FIDE World Chess Champion of 2004, and has been the main second of World Champion Viswanathan Anand, during Anand's successful title defences in 2008, 2010 and 2012. He has coached the German national team, became the trainer of World Champion challengers Sergey Karjakin and Fabiano Caruana. Now you can win a private session with Rustam. Just submit a brilliant game you've recently played against the computer.",
@@ -34,12 +98,12 @@ news_feed (
          "title" : "The Endgame Magic Christmas Calendar - Door 1"
       },
       {
-         "description" : "The December FIDE rating list officially confirmed the meteoric rise of GM Alireza Firouzja, who is the new world number two player, 52 points behind GM Magnus Carlsen. GM Levon Aronian now represents the U.S. while GM Hikaru Nakamura got removed ...",
+         "description" : "The December FIDE rating list officially confirms the meteoric rise of GM Alireza Firouzja, who is the new world number-two player, 52 points behind GM Magnus Carlsen. GM Levon Aronian now represents the U.S. while GM Hikaru Nakamura was removed f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/december-2021-fide-ratings-firouzja-aronian-nakamura",
          "pubDate" : "Wed, 01 Dec 2021 02:58:00 -0800",
-         "title" : "December FIDE Ratings: Firouzja #2, Aronian U.S., Nakamura Off The List"
+         "title" : "December FIDE Ratings: Firouzja No. 2, Aronian U.S., Nakamura Off The List"
       },
       {
          "description" : "Start the new year well-prepared. In the updated Mega Database 2022 you will now find over 9.2 million games, from the first recorded games in the history of chess to games played in October 2022. The Mega is chess history and contains almost all top games ever played, many of them annotated by top players of the past and of today. The huge database is an invaluable tool to prepare for your opponents, to study chess and to enjoy chess!",
@@ -66,14 +130,6 @@ news_feed (
          "title" : "World Championship: Game 4 annotated by Luke McShane"
       },
       {
-         "description" : "World no. 6 Levon Aronian has completed his transfer from Armenia to the USA and is now listed as a US player on the FIDE rating lists. The Armenian star relocated to Saint Louis in September, and the switch is expected to make the US a powerhouse for the 2022 Chess Olympiad in Moscow, with three players in the Top 10. 18-year-old Alireza Firouzja is now the official world no. 2, while Hikaru Nakamura has dropped off the December 2021 FIDE rating list after not playing a classical game in two years.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/levon-aronian-completes-transfer-to-usa",
-         "pubDate" : "Wed, 01 Dec 2021 07:34:19 +0000",
-         "title" : "Levon Aronian completes transfer to the USA"
-      },
-      {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent talks about the World Championship match between Magnus Carlsen and Ian Nepomniachtchi and takes a look at game 4 of the match. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,12 +138,12 @@ news_feed (
          "title" : "The Weekly Show"
       },
       {
-         "description" : "Our coverage of the fifth game of the 2021 FIDE World Chess Championship is underway! After four draws, Nepomniachitchi is playing his third white game vs. GM Magnus Carlsen.&#38;nbsp; Watch the 2021 FIDE World Chess Championship Game 5 liveYou ca...",
+         "description" : "Going into the second rest day, the FIDE World Chess Championship is still tied as GM Ian Nepomniachtchi and&#38;nbsp;GM Magnus Carlsen also drew their fifth game on Wednesday. The challenger got a slight endgame advantage in another Anti-Marshall, bu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-5",
          "pubDate" : "Tue, 30 Nov 2021 13:15:00 -0800",
-         "title" : "LIVE: FIDE World Chess Championship Game 5 Nepo-Carlsen"
+         "title" : "Carlsen Defends Passively To Draw Game 5 FIDE World Chess Championship"
       },
       {
          "description" : "",
@@ -120,14 +176,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/4-game/",
          "pubDate" : "Tue, 30 Nov 2021 15:18:36 +0000",
          "title" : "World Chess Championship Game 4: A Drawish day, but it's OK"
-      },
-      {
-         "description" : "Magnus Carlsen's 31st birthday started promisingly as he once again came up with a new idea against Ian Nepomniachtchi in the opening, but the Russian lived up to his pre-game promise not to give the World Champion any gifts as he turned out to know exactly what he was doing. Magnus began to burn up time as he looked for a winning plan, but in the end he forced a draw by repetition when it seemed there might have been ways to try for more. The match is tied 2:2, with Ian playing White on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-nepo-4-birthday-draw-for-magnus",
-         "pubDate" : "Tue, 30 Nov 2021 15:18:07 +0000",
-         "title" : "Carlsen-Nepo 4: No birthday gifts for Magnus"
       },
       {
          "description" : " The FIDE World Chess Championship in Dubai resumed today after its first rest day. Game four took place on Magnus Carlsen's birthday - he has reasonable memories of playing on this day - winning as he did the tie-break match against Sergey Karjakin in 2016. Today Carlsen had the white pieces said that he expected the Petroff - Nepomniachtchi had used it in a game in the Candidates and that he was ready for it. \"I tried something concrete - it didn't work. That's a normal result. I didn't expect him to have missed the line I played completely but in some other iterations there can be a lot of difficult decisions to make for black. But I think the way that he played there was just - there are",
@@ -202,7 +250,7 @@ news_feed (
          "title" : "Going round and coming back"
       },
       {
-         "description" : " Share!4 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 3 Match Score: 1&frac12;-1&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 3 Sunday, 28 November 2021 &#8220;Perfect Game&#8221; but for both players.Draw streak continues! Magnus CarlsenPhoto Eric Rosen/FIDE The press conference of the World Chess Championships addressed a comment about the World Championships going [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/29/2021-world-chess-championship-game-3/\">2021 World Chess Championship: Game #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess D",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 3 Match Score: 1&frac12;-1&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 3 Sunday, 28 November 2021 &#8220;Perfect Game&#8221; but for both players.Draw streak continues! Magnus CarlsenPhoto Eric Rosen/FIDE The press conference of the World Chess Championships addressed a comment about the World Championships going five [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/29/2021-world-chess-championship-game-3/\">2021 World Chess Championship: Game #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/29/2021-world-chess-championship-game-3/",
@@ -362,14 +410,6 @@ news_feed (
          "title" : "World Chess Championship: No Surprises, It's a Draw"
       },
       {
-         "description" : "Magnus Carlsen and Ian Nepomniachtchi are locked at 1.5:1.5 going into the first rest day after Game 3 of their match ended in a quiet 41-move draw. Ian varied on move 8 from what he'd played in Game 1, but Magnus once again had a surprise in store, 10...Re8, an old and, in his words, \"really dumb move\". He was hoping to get a game, but found Ian well-prepared there as well and in the end there was nothing better than to liquidate and end the game in under three hours.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-nepo-3-calm-after-the-storm",
-         "pubDate" : "Sun, 28 Nov 2021 15:25:14 +0000",
-         "title" : "Carlsen-Nepo 3: Calm after the storm"
-      },
-      {
          "description" : " The FIDE World Chess Championship reached it's first rest day on Monday all square at 1.5 points each after three games. Magnus Carlsen looked very comfortable in defending the Ruy Lopez Anti-Marshall. It's been assumed in commentary that he's prepared the Marshall but it hasn't been allowed yet so we don't know for certain. Carlsen admitted to playing some \"ugly\" moves but at no point did he seem under pressure. Ian Nepomniachtchi chose 8.a4 rather than the 8.h3 in game one but he didn't achieve very much. Nepomniachtchi thought he might be getting somewhere but his long think after Carlsen's 20...Be6 produced only the move 21.h3 which after 21...c6 22.Bc2 d5 led to complete equality. Carl",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -512,14 +552,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-championship-a-puzzling-game-and-a-tough-draw/",
          "pubDate" : "Sat, 27 Nov 2021 17:22:27 +0000",
          "title" : "World Chess Championship: a Puzzling Draw"
-      },
-      {
-         "description" : "Magnus Carlsen unleashed what Anish Giri described as \"very cool prep\" against Ian Nepomniachtchi in Game 2 of the FIDE World Chess Championship match, but just when he looked to have real winning chances, he slipped. Ian Nepomniachtchi was suddenly in his element, playing fast, dangerous moves as Magnus was balancing on the brink of a 5th classical loss to Nepo. There was another twist, however, as Magnus stabilised and was the only one playing for a win before reaching a 58-move draw.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-nepo-2-magnus-blunders-but-survives",
-         "pubDate" : "Sat, 27 Nov 2021 17:04:27 +0000",
-         "title" : "Carlsen-Nepo 2: Magnus blunders but survives"
       },
       {
          "description" : " The FIDE World Chess Championship Match between Magnus Carlsen and Ian Nepomniachtchi is tied at 1-1 after the first two games were drawn. In spite of these draws the early games promise a very interesting match which will be settled over the board not by the huge amount of opening preparation both sides have clearly done. Carlsen had white in game two and a Catalan appeared on the board. It seemed at first that Carlsen had won the opening battle. Nepomniachtchi's 7... b5 was met by 8. Ne5 - a move that's been played at a high level this year but none the less he didn't seem ready for. Carlsen continued to play quickly for the next few moves and after 16...Na6 had some advantage in a wild p",
@@ -674,14 +706,6 @@ news_feed (
          "title" : "World Chess Championship: the first game ended in a draw after 45 moves"
       },
       {
-         "description" : "World Chess Champion Magnus Carlsen looked to be taking over in a tense first game of the FIDE World Chess Championship in Dubai, but just when it seemed Ian Nepomniachtchi might be in for a long evening of suffering the game fizzled out into a 45-move draw. Both players could take positives from a contest in which Magnus came well-prepared in the opening with the black pieces, but Ian dug in and held a draw when required.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-nepo-1-fierce-battle-ends-in-draw",
-         "pubDate" : "Fri, 26 Nov 2021 16:42:13 +0000",
-         "title" : "Carlsen-Nepo 1: Fierce battle ends in draw"
-      },
-      {
          "description" : "What do Tal, Euwe, Botvinnik, Petrosian and Alekhine have in common? They all appear on today's episode! Lawrence Trent shows us a couple of World Chess Championship games, of the earlier mentioned Grandmasters. We also advance to a 2250 rating, of the ChessBase training app, but fail to solve a 2497 points high rating. Can you guess it correctly?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -704,14 +728,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1450",
          "pubDate" : "Fri, 26 Nov 2021 13:58:21 +0000",
          "title" : "FIDE World Rapid & Blitz Championship 2021: Visa & technical info"
-      },
-      {
-         "description" : "Hours before \"Nepo's\" first move against defending champion Magnus Carlsen was made, FIDE officials were informed the emblem emblazoned below the challenger's name may be in danger of breaching Russia's World Anti-Doping Agency ban.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-scrambles-to-replace-nepo-s-flag-before-start-of-play",
-         "pubDate" : "Fri, 26 Nov 2021 13:18:47 +0000",
-         "title" : "FIDE scrambles to replace Nepo's flag before start of play"
       },
       {
          "description" : "",
@@ -762,14 +778,6 @@ news_feed (
          "title" : "Robert Ris: Calculation Training in Attack & Defence Vol. 1 - A Review"
       },
       {
-         "description" : "Ian Nepomniachtchi begins the battle for the World Chess Championship title against Magnus Carlsen today in Dubai, but it was only in 2019 that the Russian first entered the World Top 10. In a recent interview with Maria Emelianova for New in Chess magazine, Ian calls himself a \"slow dude\" and admits, \"it took me quite some time to realize that work is a vital part of any progress\".",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ian-nepomniachtchi-i-wasn-t-working-hard-enough",
-         "pubDate" : "Fri, 26 Nov 2021 10:54:01 +0000",
-         "title" : "Ian Nepomniachtchi: \"I wasn't working hard enough\""
-      },
-      {
          "description" : "Entries are invited to participate in the European Youth Rapid &#38; Blitz Championship. There are six age groups - Under 8 (born 2013 or later),...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -818,7 +826,7 @@ news_feed (
          "title" : "Can Nepo win chess war against Magnus Carlsen?"
       },
       {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; 2 Caruana &frac12; &frac12; &frac12; &frac12; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 2&frac12; Caruana &frac12; &frac12; &frac12; &frac12; &frac12; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/",
@@ -896,14 +904,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-championship-will-change-nepo-as-a-player-viswanathan-anand/articleshow/87914269.cms",
          "pubDate" : "Thu, 25 Nov 2021 18:51:37 +0530",
          "title" : "World championship will change Nepo as a player: Anand"
-      },
-      {
-         "description" : "Magnus Carlsen starts his 5th World Chess Championship match on Friday when he has the black pieces against Ian Nepomniachtchi in Dubai. In some interviews for major international publications on the eve of the match he confessed he was \"less hungry\" this time round and could live without the ordeal of the matches. He also talked about the threat of Alireza Firouzja (\"his talent is immense\") and how the motivation to remain number one would remain with or without the title.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-on-the-world-championship-i-can-live-without-it",
-         "pubDate" : "Thu, 25 Nov 2021 11:08:09 +0000",
-         "title" : "Carlsen on the World Championship: \"I can live without it!\""
       },
       {
          "description" : "",
@@ -1016,14 +1016,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/worlds-greatest-freestyle-rapper-covers-the-world-chess-championship",
          "pubDate" : "Wed, 24 Nov 2021 08:05:00 -0800",
          "title" : "World's Greatest Freestyle Rapper Covers The World Chess Championship"
-      },
-      {
-         "description" : "Ian Nepomniachtchi will have the white pieces against Magnus Carlsen on Friday when the World Chess Championship begins, while in their first press conference they got a taste of how their interactions with the press will look. When Nepo was asked why he'll win he replied, \"normally I think the best player wins!\", while Magnus gave the \"prediction\", \"the person who scores the most points over the next three weeks is going to be the winner, and hopefully it's going to be me\". It was a cagey opener, but the real battle lies ahead.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ian-is-a-bit-more-aggressive-carlsen-and-nepo-s-1st-press-conference",
-         "pubDate" : "Wed, 24 Nov 2021 15:51:44 +0000",
-         "title" : "\"Ian is a bit more aggressive!\": Carlsen and Nepo's 1st press conference"
       },
       {
          "description" : "GM Hikaru Nakamura took home his second Titled Tuesday of the month on November 23. With a score of 9.5/11 on +8 =3, Nakamura claimed victory on tiebreaks over IM Minh Le. GM Jeffery Xiong took third place for the second straight week, finishing w...",
@@ -1186,14 +1178,6 @@ news_feed (
          "title" : "The Great Ones (6)"
       },
       {
-         "description" : "\"If I knew how to beat Magnus I would have done it myself!\" quipped Vishy Anand, as he called Magnus Carlsen a \"huge favourite\" to win the World Championship match against Ian Nepomniachtchi in Dubai. The 15th World Champion nevertheless feels Ian has a tactical style that can hurt Magnus, while the 14th World Champion Vladimir Kramnik pointed out how important the early games will be for the Challenger.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/anand-and-kramnik-on-carlsen-nepomniachtchi",
-         "pubDate" : "Tue, 23 Nov 2021 08:38:22 +0000",
-         "title" : "Anand and Kramnik on Carlsen-Nepomniachtchi"
-      },
-      {
          "description" : "In the diagram position White has a good knight against a bad bishop. But can he win? And if so, how?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1306,28 +1290,12 @@ news_feed (
          "title" : "2021 Chess Classic"
       },
       {
-         "description" : " <p class=\"lead\">When it comes to chess NFTs, there are now so many options that it can be hard to know what exactly you need (and whether you need this at all). Do you want a chess award from the NFT? <a href=\"https://championschesstour.com/now-you-can-own-chess-nfts/\">Meltwater Champions Chess Tour</a> makes them. What about a chess moment NFT? <a href=\"https://www.fide.com/news/1413\">The International Chess Federation</a> sells some. Is it something real or just a trick? <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-8-min.jpg\" width=\"2560\" height=\"1440\" alt=\"\" /> <div class=\"e2-text-caption\">Gallery of unique chess pieces generated randomly for demo pu",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-ultimate-chess-nfts-according-to-hyperenthusiastic-digital-a/",
-         "pubDate" : "Mon, 22 Nov 2021 11:27:14 +0000",
-         "title" : "World Chess NFT Drop: Free, Beatiful, Linked to a Chess Position"
-      },
-      {
          "description" : "Ukraine won its first ever European Team Chess Championship in Brezice, Slovenia on Sunday. The gold medal winners edged out France on tiebreak, a team whose silver medals were largely the result of GM Alireza Firouzja&#39;s historic performance. Russ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ukraine-russia-win-2021-european-team-chess-championships",
          "pubDate" : "Mon, 22 Nov 2021 01:57:00 -0800",
          "title" : "Ukraine, Russia Winners At 2021 European Team Chess Championships"
-      },
-      {
-         "description" : "18-year-old Alireza Firouzja will be the 2804-rated world no. 2 when the official FIDE rating list is published on December 1st, beating Magnus Carlsen's own record for crossing that landmark by six months. Alireza made it with a dramatic win over Shakhriyar Mamedyarov that saw his team France come within a whisker of winning the European Team Chess Championship before Ukraine took the title on tiebreaks. Poland took bronze, while in the women's event it was 1.Russia, 2.Georgia, 3.Azerbaijan.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/alireza-firouzja-is-youngest-2800-ever-ukraine-take-gold",
-         "pubDate" : "Mon, 22 Nov 2021 09:12:01 +0000",
-         "title" : "Alireza Firouzja is youngest 2800 ever | Ukraine take gold"
       },
       {
          "description" : "Levon Aronian beat Arjun Erigaisi in the Armageddon Playoffs to win Tata Steel Chess India 2021 Blitz. The second day of the Blitz event saw several players at the top throughout the day, including Nihal, Gukesh, Levon, Parham and Arjun. However, in the end it was Aronian and Arjun who tied for the first place at 11&frac12;/18 each. Arjun was completely winning in both Playoff games, and Aronian admitted that he should have lost at least one of them. | Photo: Lennart Ootes",
@@ -1424,14 +1392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-158",
          "pubDate" : "Sun, 21 Nov 2021 19:30:00 +0100",
          "title" : "The hacking of steely sprogs"
-      },
-      {
-         "description" : "Levon Aronian joked that his victory in the Tata Steel Chess India Blitz was down to Rapid winner Arjun Erigaisi deciding he wasn't physically strong enough to carry both cups. It was as good an explanation as any for a crazy final day, when both players struggled and an on fire Nihal Sarin went into the final round with a half-point lead. Nihal lost, however, while Levon and Arjun both found a way to win despite flirting with disaster. The playoff that followed saw Erigaisi miss two open goals in blitz before Levon clinched the title in Armageddon.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aronian-wins-tata-steel-indian-blitz-in-armageddon",
-         "pubDate" : "Sun, 21 Nov 2021 17:57:40 +0000",
-         "title" : "Aronian wins Tata Steel Indian Blitz in Armageddon"
       },
       {
          "description" : "",
@@ -1544,14 +1504,6 @@ news_feed (
          "link" : "https://www.europechess.org/russia-wins-european-womens-team-chess-championship-2021-with-a-round-to-spare/",
          "pubDate" : "Sat, 20 Nov 2021 21:51:24 +0000",
          "title" : "Russia wins European Women's Team Chess Championship 2021 with a round to spare"
-      },
-      {
-         "description" : "Magnus Carlsen is just days away from making the first move in his World Championship match against Ian Nepomniachtchi. In a new podcast interview hosted by his sponsor Unibet, the World Champion spoke openly about his relationship with his Russian opponent and the fact that he still considers Fabiano Caruana and Ding Liren to be tougher opponents. Magnus hinted he will try to push for an early lead.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-good-outcome-to-face-nepo-not-fabi-or-ding",
-         "pubDate" : "Sat, 20 Nov 2021 17:21:59 +0000",
-         "title" : "Carlsen: \"Good outcome\" to face Nepo not Fabi or Ding"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87822112.cms\" />It was a little surprising that Arjun Erigaisi did not feature in the initial list of players for the blitz section of the Kolkata rapid and blitz meet after his super show at the Lindores Abbey Blitz tournament in the Latvian capital of Riga earlier this month.",
@@ -2098,14 +2050,6 @@ news_feed (
          "title" : "Understanding before Moving 53: Space advantage (2)"
       },
       {
-         "description" : "When's the last time you played a game of chess against a chess program? Normally it is pointless - you get thoroughly crushed, even if you are a 2800 player. But now you can challenge the computer: the brand new Fritz 18 uses its awesome power to set up brilliancies for its opponent! It is the ideal partner to train yourself to spot and execute spectacular combinations. The launch of Fritz 18 is on Discount Day, Tuesday November 16, when you can get the program at a premium price!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fritz-18-evolving-genius",
-         "pubDate" : "Sun, 14 Nov 2021 12:00:00 +0100",
-         "title" : "Fritz 18: Evolving Genius"
-      },
-      {
          "description" : " Signs that OTB chess may return to normality within 12 months continue to appear. The 2021 European Teams Championship has kicked of in Slovenia, and the 9 round events has attracted a very strong field. There were 39 teams in the Open, and 31 in the Women's Section. Azerbaijan were the only team to win 4-0 in the Open in round 1, and their Women's team repeated the score in their event. The event is a 9 round tournament, and will be covered on all the major chess sites. I had a quick look through the games from the first round, and the following quick win for Black caught my eye. <br /> <b>Koykka,Pekka (2353) - Parligras,Mircea-Emilian (2576) [C47]</b><br />23rd European Team Chess Champio",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2120,22 +2064,6 @@ news_feed (
          "link" : "https://www.thearticle.com/nonconformity-in-chess-and-physics-emanuel-lasker-and-albert-einstein/",
          "pubDate" : "Sat, 13 Nov 2021 10:00:55 +0000",
          "title" : "Nonconformity in chess and physics: Emanuel Lasker and Albert Einstein"
-      },
-      {
-         "description" : "In 2003 there was a gigantic man vs machine match in New York. Garry Kasparov faced \"X3D Fritz\", a chess program that used new hardware and software which allowed radically lifelike 3D images, floating hologram-like in front of the screen. The match was an unprecedented success, generating more media coverage than any chess game previously in history. It was also full of adventure for the ChessBase team.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/thirty-years-happy-birthday-fritz-3",
-         "pubDate" : "Sat, 13 Nov 2021 09:00:00 +0100",
-         "title" : "Thirty years! Happy Birthday Fritz (3)"
-      },
-      {
-         "description" : "In the diagram position White's pawn on c3 is attacked. Time for a world champion-like reaction - your call!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-s-cool-concept",
-         "pubDate" : "Sat, 13 Nov 2021 09:00:00 +0100",
-         "title" : "Carlsen's cool concept"
       },
       {
          "description" : "GM Hikaru Nakamura beat GM Peter Svidler with a score of 22-10 in the 2021 Speed Chess Championship Main Event and will face GM Anish Giri in the quarterfinals. The next match, between GM Wesley So and GM Jeffery Xiong, starts on Monday, November ...",
@@ -2240,22 +2168,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/11/11/memorable-games-of-british-chess/",
          "pubDate" : "Thu, 11 Nov 2021 00:10:48 +0000",
          "title" : "Memorable Games of British Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1428",
-         "pubDate" : "Wed, 10 Nov 2021 15:36:47 +0000",
-         "title" : "Fysiolatris' Nikaia wins Greek Team Championship"
-      },
-      {
-         "description" : " I am in the process of building a web based rating management system, partly for my own interest, and partly as a proof of concept for a couple of chess organisations. In doing so I thought I would refamiliarise myself with the FIDE Rapid and Blitz Rating Regulations, a found some differences from standard system that I had either forgotten, or failed to notice. For example: <ul style=\"text-align: left;\"><li>The maximum number of rapid games in a day is 15, and for blitz, 30</li><li>You have to score at least 1 point in your first event for it to count towards your rating. (It is only 0.5 for the standard list)</li><li>Every either has a k factor of 20, or 700/total number of games played, ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/the-thing-about-ratings.html",
-         "pubDate" : "Wed, 10 Nov 2021 12:35:00 +0000",
-         "title" : "The thing about ratings"
       }
    ]
 }
