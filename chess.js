@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The fifth game of the 2021 FIDE World Chess Championship happens tomorrow, with GM Ian Nepomniachtchi playing with the white pieces against GM Magnus Carlsen. With four draws so far, everyone is wondering if the next game will be the first decisiv...",
+         "description" : "The fifth game of the 2021 FIDE World Chess Championship begins on Wednesday, December 1 at 4:00 a.m. Pacific Time/13:00 Central European Time. GM Ian Nepomniachtchi will have the white pieces against GM Magnus Carlsen. With four draws so far, eve...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-5",
