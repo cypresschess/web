@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There was a four-way tie at the top of the Titled Tuesday leaderboard on November 30, with NM Valery Sviridov winning on the tiebreak system. He was joined on 9.5/11 by GM Baadur Jobava in second place, FM Khazar Babazada in third, and GM Mustafa ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sviridov-wins-november-30-titled-tuesday",
+         "pubDate" : "Wed, 01 Dec 2021 11:36:00 -0800",
+         "title" : "Sviridov Wins November 30 Titled Tuesday"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1458",
+         "pubDate" : "Wed, 01 Dec 2021 19:14:29 +0000",
+         "title" : "FIDE World Championship Dubai 2021: More than meets the eye"
+      },
+      {
          "description" : "For the first time at the World Championship match in Dubai, Ian Nepomniachtchi clearly won the opening battle against Magnus Carlsen. The Russian missed a couple of chances to put his opponent under more pressure, which led to a fifth draw in the 14-game duel. The contenders will get a second rest day on Thursday. | Photo: Anastasiya Karlovich",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2120,14 +2136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/speed-chess-championship-nihal-and-aronian-win-and-advance-to-quarterfinals",
          "pubDate" : "Thu, 11 Nov 2021 23:38:00 -0800",
          "title" : "Speed Chess Championship: Nihal, Aronian Win To Advance To Quarterfinals"
-      },
-      {
-         "description" : "There is no doubt that GM Fabiano Caruana is one of the strongest chess players in history. Since his dominant performance at the 2014 Sinquefield Cup, where he famously started with 7/7 in a field with a 2800 rating average before winning the tou...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fabiano-caruana-2018-world-championship-chesscom-lesson",
-         "pubDate" : "Thu, 11 Nov 2021 15:33:00 -0800",
-         "title" : "Fabiano Caruana Discusses 2018 World Championship In New Chess.com Lesson"
       },
       {
          "description" : "",
