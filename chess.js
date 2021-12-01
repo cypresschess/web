@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fifth game of the 2021 FIDE World Chess Championship happens tomorrow, with GM Ian Nepomniachtchi playing with the white pieces against GM Magnus Carlsen. With four draws so far, everyone is wondering if the next game will be the first decisiv...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-5",
+         "pubDate" : "Tue, 30 Nov 2021 13:15:00 -0800",
+         "title" : "How To Watch The FIDE World Chess Championship Game 5: Nepo-Carlsen"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -34,7 +42,7 @@ news_feed (
          "title" : "World Chess Championship Game 4: A Drawish day, but it's OK"
       },
       {
-         "description" : "Magnus Carlsen's 31st birthday started promisingly as he once again came up with a new idea against Ian Nepomniachtchi in the opening, but the Russian lived up to his pre-game promise not to give the World Champion any gifts as he turned out to know exactly what he was doing. Magnus began to burn up time as he looked for a winning plan, but in the end he forced a draw by repetition when it seemed there might have been more ways to try. The match is tied 2:2, with Ian playing White on Tuesday.",
+         "description" : "Magnus Carlsen's 31st birthday started promisingly as he once again came up with a new idea against Ian Nepomniachtchi in the opening, but the Russian lived up to his pre-game promise not to give the World Champion any gifts as he turned out to know exactly what he was doing. Magnus began to burn up time as he looked for a winning plan, but in the end he forced a draw by repetition when it seemed there might have been ways to try for more. The match is tied 2:2, with Ian playing White on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/carlsen-nepo-4-birthday-draw-for-magnus",
@@ -122,12 +130,12 @@ news_feed (
          "title" : "2021 World Chess Championship: Game #3"
       },
       {
-         "description" : "GM Fabiano Caruana beat GM Maxime Vachier-Lagrave with a score of 13.5-12.5 in the last match of the first round of the 2021 Speed Chess Championship Main Event. He will face&#38;nbsp;GM Wesley So in the quarterfinal match, which starts on Monday, Dec...",
+         "description" : "GM Fabiano Caruana beat GM Maxime Vachier-Lagrave with a score of 13.5-12.5 in the last match of the first round of the 2021 Speed Chess Championship Main Event. He will face&#38;nbsp;GM Wesley So in the quarterfinal match, which starts on Thursday, D...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-caruana-mvl",
          "pubDate" : "Mon, 29 Nov 2021 18:11:00 -0800",
-         "title" : "Caruana Upsets MVL, Meets So In Quarterfinals"
+         "title" : "Speed Chess Championship: Caruana Upsets MVL, Meets So In Quarterfinals"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Expert Arjun Puri is back with a dozen more chess items. See twelve of the best Paul Morphy games ever, even those played with piece odds. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/12-paul-morphys-greatest-games-dynamic-dozen\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JacfGVSCRzQ.jpg?itok=aqtVkd2B\" alt=\"\" /></a></div>",
@@ -2226,14 +2234,6 @@ news_feed (
          "title" : "Speed Chess Championship: Rapport Knocks Out Sarana In Dramatic Tiebreaker"
       },
       {
-         "description" : "In the most active Titled Tuesday since August, GM Rustam Khusnutdinov took home the victory with a 9.5/11 score, winning on the tiebreak system over second-place finisher GM Dmitrij Kollars. In a logjam on 9 points out of 11, two well-known GMs t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/khusnutdinov-wins-november-9-titled-tuesday",
-         "pubDate" : "Wed, 10 Nov 2021 08:45:00 -0800",
-         "title" : "Khusnutdinov Wins November 9 Titled Tuesday"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2256,14 +2256,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/best-chess-tactics-training/",
          "pubDate" : "Wed, 10 Nov 2021 11:28:04 +0000",
          "title" : "Best Chess Tactics Training"
-      },
-      {
-         "description" : " From the publisher: \"Pawns are the soul of chess.\" We have all heard this phrase more than once in our chess life and we owe it to the great French player François-Andr&eacute; Danican, so-called Philidor, considered one of the best chess players of the 18th century. It's not surprising that with this way of thinking, <a href=\"http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Modernized Philidor Defense</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/\">The Modernized Philidor Defense</a> appea",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/11/10/the-modernized-philidor-defense/",
-         "pubDate" : "Wed, 10 Nov 2021 00:10:45 +0000",
-         "title" : "The Modernized Philidor Defense"
       }
    ]
 }
