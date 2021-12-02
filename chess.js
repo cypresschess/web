@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">While the World Chess Championship in Dubai continues with a seemingly <a href=\"https://worldchess.com/news/all/16-draws-in-a-row-in-world-chess-championship-games/\">unending streak of draws</a>, Magnus Carlsen, the defending world champion, has again voiced disdain for the format of the Championship cycle - something he said before and likely to push for in the future. A Norwegian journalist asked both Nepo and Carlsen about their view of the Championship format. Carlsen's answer: \"You have nothing good to say, it's better not to say anything at all\". <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/vp937nZP4-M?enablejsapi=1\" allow=\"autoplay\" framebord",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/magnus-carlsen-hates-the-world-chess-championship-format-apparen/",
+         "pubDate" : "Thu, 02 Dec 2021 08:29:05 +0000",
+         "title" : "Magnus Carlsen Hates the World Chess Championship Format, Apparently"
+      },
+      {
+         "description" : "The MITROPA countries Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland founded the Mitropa Chess Association (MCA) in a meeting after the ECU General Assembly on November 13, 2021 in Catez, Slovenia. Theodoros Tsorbatzoglou, Secretary General of the European Chess Union, attended the meeting as a guest. The statutes were signed by the representatives&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mitropa-chess-association-founded/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/mitropa-chess-association-founded/",
+         "pubDate" : "Thu, 02 Dec 2021 07:17:17 +0000",
+         "title" : "Mitropa Chess Association founded"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After eleven years, <strong>Kevin O'Connell</strong> has stepped down as Secretary of the <strong><a href=\"https://edu.fide.com/\">FIDE Chess in Education Commission</a></strong>, formerly Chess in Schools Commission. The Irishman who has served in different functions in FIDE since 1990 stays on as Honorary Chairman. The new Secretary is the American education consultant <strong>Jerry Nash</strong> who created the <a href=\"https://chessineducation.org/\">Chess in Education network</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/jerry-nash-appointed-as-edu/",
+         "pubDate" : "Thu, 02 Dec 2021 04:58:01 +0100",
+         "title" : "Jerry Nash appointed as EDU secretary"
+      },
+      {
          "description" : " Here is the publishers blurb from the rear cover : &#8220;Ian Nepomniachtchi, challenger to Magnus Carlsen's World Championship title in 2021, is an outstanding chess talent. &#8220;Nepo&#8221; as he is universally known is a fascinating player and this book assesses his career and analyses his original and creative style in great depth with numerous deeply <a href=\"http://britishchessnews.com/2021/12/02/nepomniachtchi-move-by-move/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Nepomniachtchi Move by Move</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/02/nepomniachtchi-move-by-move/\">Nepomniachtchi",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -66,12 +90,12 @@ news_feed (
          "title" : "Game of the Week #492: Max Warmerdam vs Hing Ting Lai"
       },
       {
-         "description" : " <p class=\"lead\">The fifth game of the World Chess Championship ended. After a very dynamic start of the game, Nepo lost the lead and the game finished in a draw after 43 moves. At the after-match press conference, Ian commented that the flow of the game was pleasant and he was disappointed with the results. After 5 games, the score is 2.5- 2.5. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51718178800_f456d4003c_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51718176035_8cf3e1a45e_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldc",
+         "description" : " <p class=\"lead\">The fifth game of the World Chess Championship ended with a draw. After a very dynamic start of the game, Nepo lost the advantage and the game spiraled into a draw after 43 moves. At the after-match press conference, Ian commented that the flow of the game was pleasant and he was disappointed with the result. His fans and supporters probably felt the same. After 5 games, the score is level - 2.5- 2.5. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51718178800_f456d4003c_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51718176035_8cf3e",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/world-chess-championship-game-5-a-missed-chance-for-nepo-and-a-d/",
          "pubDate" : "Wed, 01 Dec 2021 16:04:01 +0000",
-         "title" : "World Chess Championship Game 5: A Missed Chance for Nepo and a Draw Again"
+         "title" : "World Chess Championship Game 5: A Missed Chance for Nepo"
       },
       {
          "description" : "",
@@ -1322,14 +1346,6 @@ news_feed (
          "title" : "Levon Aronian Is Still a Fantastic Chess Player, In Case You've Forgotten"
       },
       {
-         "description" : " <p class=\"lead\"><a href=\"https://www.euroteamchess2021.eu\">The European Team Championship</a> has finished with Ukraine getting their first gold medals. The above the fold story of the event though is Alireza Firouzja, who secured France the second place at the event and while doing it became the youngest ever player to cross the 2800-rating barrier. He is now number 2 in world's live rankings. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/FEvU6vPX0AQeiSW-min.jpeg\" width=\"2048\" height=\"1384\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: ECU Press</div> </div> The Iranian-born French GM's performance is still baffling after his triumph at the Grand Swiss in Rig",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/firouzja-alireja-becomes-the-youngest-chess-player-to-cross-2800/",
-         "pubDate" : "Mon, 22 Nov 2021 13:00:47 +0000",
-         "title" : "Firouzja Alireja becomes the youngest chess player to cross 2800"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87851048.cms\" />Viswanathan Anand's son Akhil made his debut in a chess event at the Kolkata rapid and blitz competition that concluded at the iconic National Library building here on Sunday. Like his father, he did not participate in the meet, but rather he got the first feel of an over-the-board tournament by witnessing the matches from the spectator's stand.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1376,14 +1392,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/12th-london-chess-classic-2021",
          "pubDate" : "Mon, 22 Nov 2021 12:26:00 +0400",
          "title" : "12th London Chess Classic 2021 - Games and Results"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Discounts for Black Friday and Cyber Monday have started at <a href=\"https://www.chessable.com/courses/\">Chessable</a>, <a href=\"https://everymanchess.com/collections/black-friday-25\">Everyman Chess</a>, <a href=\"https://newblackfriday.com/uscf-sales-black-Friday\">USChess</a>, <a href=\"https://www.chesshouse.com/pages/black-friday-chess-deals\">Chesshouse</a>, <a href=\"https://store.chessclub.com/black-friday\">ICC</a> and probably other chess retailers. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/black-friday-sales-have-started/",
-         "pubDate" : "Mon, 22 Nov 2021 07:46:05 +0100",
-         "title" : "Black Friday sales have started"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Nick Risko continues his series on the Scotch Game or Scotch Opening. Learn Black&#039;s Nf6 response to the Scotch Gambit and the Nakhmanson Gambit. Originally on Twitch. 2021.09.27<br /> C44 Scotch gambit, Dubois-Reti defence<br /> C56 Two knights defence </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shot-scotch-3-scotch-gambit-dubois-reti-nakhmanson-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_im",
@@ -2056,14 +2064,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/do-not-attempt.html",
          "pubDate" : "Mon, 15 Nov 2021 12:54:00 +0000",
          "title" : "Do not attempt"
-      },
-      {
-         "description" : "Three rounds have been already played at the European Team Chess Championship 2021 in Terme Catez, Slovenia. Only two teams emerged on the top of the Open section with perfect 6 match points: Hungary and Azerbaijan. With a narrow 2.5-1.5 victory in the 3rd round, Hungary defeated better-rated players of France, while Azerbaijan was victorious against the German&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-r3-report/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-team-chess-championship-2021-r3-report/",
-         "pubDate" : "Mon, 15 Nov 2021 11:36:49 +0000",
-         "title" : "European Team Chess Championship 2021 - R3 report"
       },
       {
          "description" : "Two teams have won their first three matches in the open section of the European Team Championships taking place in Slovenia. Azerbaijan, led by an inspired Shakhriyar Mamedyarov, and Hungary are sharing the lead on 6/6. Meanwhile, in the women's section, Russia, Georgia and Armenia have perfect scores, with the Russians merely losing a half point in all their individual encounters. | Expert analysis by GM Karsten M&uuml;ller. | Photo: ECU Press",
