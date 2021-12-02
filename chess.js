@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Here is the publishers blurb from the rear cover : &#8220;Ian Nepomniachtchi, challenger to Magnus Carlsen's World Championship title in 2021, is an outstanding chess talent. &#8220;Nepo&#8221; as he is universally known is a fascinating player and this book assesses his career and analyses his original and creative style in great depth with numerous deeply <a href=\"http://britishchessnews.com/2021/12/02/nepomniachtchi-move-by-move/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Nepomniachtchi Move by Move</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/02/nepomniachtchi-move-by-move/\">Nepomniachtchi",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/12/02/nepomniachtchi-move-by-move/",
+         "pubDate" : "Thu, 02 Dec 2021 00:10:50 +0000",
+         "title" : "Nepomniachtchi Move by Move"
+      },
+      {
+         "description" : "After the first five games of the 2021 FIDE World Chess Championship, GMs Magnus Carlsen and Ian Nepomniachtchi are tied with 2.5 points each. Players will enjoy a full rest day before game six, giving them time to adjust their strategy for the ne...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-6",
+         "pubDate" : "Wed, 01 Dec 2021 14:26:00 -0800",
+         "title" : "How To Watch The FIDE World Chess Championship Game 6: Carlsen - Nepo"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ad7f4a5b-5e19-4909-a5ce-56254eb78a6e/Mike4.jpg\" data-image-dimensions=\"512x249\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61a7ec86e35434408ee520e0\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ad7f4a5b-5e19-4909-a5ce-56254eb78a6e/Mike4.jpg?format=1000w\" /> </figure> <p class=\"\">Do we look concerned about these draws? <p class=\"\">After 5 rounds, it is still all draws! FM Mike Klein of Chess.com joins me to quickly recap the games, to track the ongoing stor",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/1/world-championship-bonus-pod-2-fm-mike-klein-joins-from-dubai-to-recap-5-tense-deadlocked-rounds",
+         "pubDate" : "Wed, 01 Dec 2021 21:45:35 +0000",
+         "title" : "World Championship Bonus Pod #2- FM Mike Klein joins from Dubai to recap 5 tense, deadlocked rounds. "
+      },
+      {
+         "description" : "On Wednesday, Ian Nepomniachtchi got the white pieces for a third time in the World Championship match against Magnus Carlsen. The Russian got an advantage out of the opening but could not make the most of his chances. Super-GM Anish Giri annotates the game with instructive insights and pertinent variations. | Photo: Alina l'Ami",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-g5-expert-annotations",
+         "pubDate" : "Wed, 01 Dec 2021 22:30:00 +0100",
+         "title" : "World Championship: Game 5 annotated by Anish Giri"
+      },
+      {
          "description" : "There was a four-way tie at the top of the Titled Tuesday leaderboard on November 30, with NM Valery Sviridov winning on the tiebreak system. He was joined on 9.5/11 by GM Baadur Jobava in second place, FM Khazar Babazada in third, and GM Mustafa ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -56,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-new-fide-world-ranking-list-december-2021",
          "pubDate" : "Wed, 01 Dec 2021 16:00:00 +0100",
          "title" : "The new FIDE World Ranking List: December 2021"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1459",
+         "pubDate" : "Wed, 01 Dec 2021 14:28:22 +0000",
+         "title" : "FIDE Chessable Camp at EXPO 2020 Dubai: Days 1-3 recap"
       },
       {
          "description" : "The State Cup for Teams is the biggest annual event in Israel. In 2020, Corona forced it to take a break, but this year it was played again, on Friday, 26 November 2021. The venue was the beautiful Educational Campus Beit Shmuel (pictured) in Jerusalem and the team of Be'er Sheva won the event. | Photos: Ofri Barnea",
@@ -848,6 +888,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/",
          "pubDate" : "Fri, 26 Nov 2021 01:53:49 +0000",
          "title" : "2021 World Chess Championship (Carlsen vs. Nepomniachtchi)"
+      },
+      {
+         "description" : " From the publisher: &#8220;The Vibrant Exchange French No Longer Your Dull Draw! In the first book ever exclusively devoted to the Exchange French Variation, American grandmaster Alex Fishbein recognizes that the Exchange French is an opening for a player who likes active piece play, fights for the initiative, excels in positions with possibilities on <a href=\"http://britishchessnews.com/2021/11/26/the-exchange-french-comes-to-life-fresh-strategies-to-play-for-a-win/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Exchange French Comes to Life: Fresh Strategies to Play for a Win</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http:/",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/11/26/the-exchange-french-comes-to-life-fresh-strategies-to-play-for-a-win/",
+         "pubDate" : "Fri, 26 Nov 2021 00:10:37 +0000",
+         "title" : "The Exchange French Comes to Life: Fresh Strategies to Play for a Win"
       },
       {
          "description" : "The World Championship match will start very soon, and is scheduled to run over 14 exciting games. When one of the rounds is over, says CHESS Magazine, London, why not enjoy a chess-themed crossword composition. We reprint the puzzle here, without the solution (which we will add at the end of the match). Maybe our readers can solve the puzzle communally, in the feedback section below the article?",
@@ -2058,14 +2106,6 @@ news_feed (
          "title" : "Third Rank Defence"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 52rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about the advantages of having a space advantage. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-53-space-advantage-2",
-         "pubDate" : "Sun, 14 Nov 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 53: Space advantage (2)"
-      },
-      {
          "description" : " Signs that OTB chess may return to normality within 12 months continue to appear. The 2021 European Teams Championship has kicked of in Slovenia, and the 9 round events has attracted a very strong field. There were 39 teams in the Open, and 31 in the Women's Section. Azerbaijan were the only team to win 4-0 in the Open in round 1, and their Women's team repeated the score in their event. The event is a 9 round tournament, and will be covered on all the major chess sites. I had a quick look through the games from the first round, and the following quick win for Black caught my eye. <br /> <b>Koykka,Pekka (2353) - Parligras,Mircea-Emilian (2576) [C47]</b><br />23rd European Team Chess Champio",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2130,14 +2170,6 @@ news_feed (
          "title" : "Chess: Teenager Alireza Firouzja aiming to be youngest ever world champion"
       },
       {
-         "description" : "It was a doubleheader Thursday at the 2021 Speed Chess Championship Main Event with two matches: GM Alexander Grischuk vs GM Nihal Sarin followed by GM Levon Aronian vs GM Daniil Dubov. Nihal upstaged Grischuk impressively and will face GM Richard...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/speed-chess-championship-nihal-and-aronian-win-and-advance-to-quarterfinals",
-         "pubDate" : "Thu, 11 Nov 2021 23:38:00 -0800",
-         "title" : "Speed Chess Championship: Nihal, Aronian Win To Advance To Quarterfinals"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2168,14 +2200,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/11/10/chess-brought-before-kenyan-parliament/",
          "pubDate" : "Thu, 11 Nov 2021 03:56:55 +0000",
          "title" : "Chess brought before Kenyan Parliament"
-      },
-      {
-         "description" : " From the back cover: A collection of the classic games of British chess, including one or two which, though truly memorable, are by no means masterpieces; with a few more included by way of a little light relief. We shouldn't be serious all the time, even at the chess board. Neil is a retired county <a href=\"http://britishchessnews.com/2021/11/11/memorable-games-of-british-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Memorable Games of British Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/11/11/memorable-games-of-british-chess/\">Memorable Games of British Chess</a> appeared first on <a ",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/11/11/memorable-games-of-british-chess/",
-         "pubDate" : "Thu, 11 Nov 2021 00:10:48 +0000",
-         "title" : "Memorable Games of British Chess"
       }
    ]
 }
