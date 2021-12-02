@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One of the most refined and inconspicuous ways to gain an advantage and to win is the art of exchanging pieces. Most club players don't take exchanges too seriously. Sacrificing is brave, attacking is fun, but exchanging pieces is kind of boring, isn't it? Even cowardly. But knowing when to exchange and when not to exchange is a powerful strategic weapon. In part 2 of his \"Winning Academy\" series, Jan Markos shows why. | Photo: Wikipedia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-2-the-art-of-exchanging-heavy-pieces",
+         "pubDate" : "Thu, 02 Dec 2021 13:00:00 +0100",
+         "title" : "The Winning Academy 2: The Art of Exchanging Heavy Pieces"
+      },
+      {
+         "description" : " Good Coaches help you improve. Great Coaches change the way you think about Chess. I was lucky enough to have some amazing Coaches during my Career. One of them was Grandmaster Iossif Dorfman. The name might ring a bell. Yes, I am talking of the Iossif Dorfman that assisted the great Garry Kasparov in his [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/what-i-learned-from-gm-iossif-dorfman/\">What I Learned From GM Iossif Dorfman</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/what-i-learned-from-gm-iossif-dorfman/",
+         "pubDate" : "Thu, 02 Dec 2021 11:20:46 +0000",
+         "title" : "What I Learned From GM Iossif Dorfman"
+      },
+      {
+         "description" : " <p class=\"lead\">FIDE Grand Prix Series, the final qualifier for the Candidates Tournament, will start on February 3, 2022, in Berlin, Germany. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1600\" data-ratio=\"1.7777777777778\"> <img src=\"https://worldchess.com/news/pictures/Time-to-say-Berlin-2.png\" width=\"1600\" height=\"900\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/Grand-Prix.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> <b>The series consists of three legs that span over 3 months and two cities:</b> First leg: February 3 - 17, Berlin, Germany<br /> Second leg: February 28 - March 14, 2022, Belgrad",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-begins-in-berlin-on-february-3-2022/",
+         "pubDate" : "Thu, 02 Dec 2021 11:16:34 +0000",
+         "title" : "FIDE Grand Prix Begins in Berlin on February 3, 2022"
+      },
+      {
+         "description" : "The second day of our magical endgame calendar. Yesterday, you had to solve the famous endgame move by Shirov vs. Topalov. And of course, most of you knew the correct answer, and also mentioned the game. More of this, please! But we also had quite some participants answer with A. Lh3, which won't do the trick. But no worries, you have 23 more tries. Today, we look at a famous check-mate in 18 moves. Luckily, you only need to know the first move to start this combo.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2",
+         "pubDate" : "Thu, 02 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 2"
+      },
+      {
+         "description" : "AICF is happy to announce the National Calendar for the year 2022.Please find the link to get the Event details for 2022. Calender for the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-national-calender-2022/",
+         "pubDate" : "Thu, 02 Dec 2021 10:58:46 +0000",
+         "title" : "AICF NATIONAL CALENDER 2022"
+      },
+      {
          "description" : " <p class=\"lead\">While the World Chess Championship in Dubai continues with a seemingly <a href=\"https://worldchess.com/news/all/16-draws-in-a-row-in-world-chess-championship-games/\">unending streak of draws</a>, Magnus Carlsen, the defending world champion, has again voiced disdain for the format of the Championship cycle - something he said before and likely to push for in the future. A Norwegian journalist asked both Nepo and Carlsen about their view of the Championship format. Carlsen's answer: \"You have nothing good to say, it's better not to say anything at all\". <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/vp937nZP4-M?enablejsapi=1\" allow=\"autoplay\" framebord",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1338,14 +1378,6 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Championship 2021: Registration begins"
       },
       {
-         "description" : " <p class=\"lead\">Just like in the old times, Levon Aronian dominated at the Armageddon Playoffs and won <a href=\"https://www.tatasteelchess.in\">Tata Steel Chess India 2021 Blitz</a>. The Armenian GM, who conspicuously missed from the latest headlines, managed to win the strong tournament on tie-breaks. Thank you Levon, we missed you! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2021-11-22_16-05-23-min.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> Arjun was completely winning in both Playoff games, a fact that Aronian himself mentioned after his win: \"Of course I was very lucky to be able to play in ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/levon-aronian-the-big-winner-of-the-tata-steel-india-2021-blitz/",
-         "pubDate" : "Mon, 22 Nov 2021 13:12:39 +0000",
-         "title" : "Levon Aronian Is Still a Fantastic Chess Player, In Case You've Forgotten"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87851048.cms\" />Viswanathan Anand's son Akhil made his debut in a chess event at the Kolkata rapid and blitz competition that concluded at the iconic National Library building here on Sunday. Like his father, he did not participate in the meet, but rather he got the first feel of an over-the-board tournament by witnessing the matches from the spectator's stand.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1866,14 +1898,6 @@ news_feed (
          "title" : "The Carlsen years (1): A new era begins"
       },
       {
-         "description" : "Round 1: After a gap of two years, the Tata Steel Chess India event was welcomed to a tremendous round of applause by the local",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/tata-steel-chess-india-2021-first-day-report/",
-         "pubDate" : "Thu, 18 Nov 2021 05:25:19 +0000",
-         "title" : "Tata Steel Chess India 2021 : First Day Report"
-      },
-      {
          "description" : "This week, Merijn van Delft takes a look at Alireza Firouzja and his \"supermodern\" chess which continues to bring the 18-year success: after winning the Grand Swiss in Riga he continues to score at the European Team Championship, and with a live-rating of 2793.3 he is currently the world's number three behind Magnus Carlsen (2855.9) and Ding Liren (2799.0), narrowly ahead of Fabiano Caruana (2792.3) and World Championship challenger Ian Nepomniachtchi (2782.0). | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2050,28 +2074,12 @@ news_feed (
          "title" : "Karsten M&uuml;ller's Endgame Magic Show #170: Endgame highlights from the FIDE Grand Swiss in Riga (2)"
       },
       {
-         "description" : "Svitlana Demchenko has to find all of her smart moves for a fun battle against Fritz 18, which is available very soon. The newest engine is made for playing interesting games, and finds some \"human\" moves on purpose for your and our entertainment. Although Fritz 18 gives Svitlana some subtle hints to the right direction, it still feels very satisfying to find an unstoppable mate combination against the engine.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fritz-18-vs-svitlana-demchenko",
-         "pubDate" : "Mon, 15 Nov 2021 14:49:57 +0100",
-         "title" : "Fritz 18 vs. Svitlana Demchenko"
-      },
-      {
          "description" : " While not in the business of giving out free advertising to big corporations, I was intrigued by the new Sony Playstation advertisement, which has a very chess heavy theme. While I am linking to the full 2+ minute clip, the shorter TV edit has an interesting cut, where the chess game is followed by the caption \"Do not attempt\" for the next scene. Of course it concerns parkour rather than chess, but still, an interesting sentiment. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/4yuEnY9ItqA\" width=\"320\" youtube-src-id=\"4yuEnY9ItqA\"></iframe></div><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/11/do-not-attempt.html",
          "pubDate" : "Mon, 15 Nov 2021 12:54:00 +0000",
          "title" : "Do not attempt"
-      },
-      {
-         "description" : "Two teams have won their first three matches in the open section of the European Team Championships taking place in Slovenia. Azerbaijan, led by an inspired Shakhriyar Mamedyarov, and Hungary are sharing the lead on 6/6. Meanwhile, in the women's section, Russia, Georgia and Armenia have perfect scores, with the Russians merely losing a half point in all their individual encounters. | Expert analysis by GM Karsten M&uuml;ller. | Photo: ECU Press",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2021-r3",
-         "pubDate" : "Mon, 15 Nov 2021 09:30:00 +0100",
-         "title" : "Euro Teams: Azerbaijan and Hungary tied in the lead"
       },
       {
          "description" : "On Saturday 18th December 2021 from 12:00 - 18:00. A FIDE-rated open blitz with a &pound;3,000 guaranteed prize fund. This tournament is being held in...",
