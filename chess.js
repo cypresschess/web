@@ -2192,14 +2192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1429",
          "pubDate" : "Thu, 11 Nov 2021 16:58:16 +0000",
          "title" : "International online conference \"Chess in Education\" planned for November 20-21"
-      },
-      {
-         "description" : " Kenya has long been an active member of the international chess community over the years, but in the past decade, they have increased the profile of chess within the country. Chess Kenya has been promoting chess in underserved areas. TEAM KENYA with Ministry of Sports Most recently Fred Sagwe trekked 165km to get chess in [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/10/chess-brought-before-kenyan-parliament/\">Chess brought before Kenyan Parliament</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/11/10/chess-brought-before-kenyan-parliament/",
-         "pubDate" : "Thu, 11 Nov 2021 03:56:55 +0000",
-         "title" : "Chess brought before Kenyan Parliament"
       }
    ]
 }
