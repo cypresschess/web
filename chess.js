@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 5 Match Score: 2-2 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 5 Wednesday, 1 December 2021 A fifth draw the jokes and memes start to roll in When Dutch Grandmaster Anish Giri went on a run of draws in elite chess, some people started [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/02/2021-world-chess-championship-game-5/\">2021 World Chess Championship: Game #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/12/02/2021-world-chess-championship-game-5/",
+         "pubDate" : "Thu, 02 Dec 2021 19:20:33 +0000",
+         "title" : "2021 World Chess Championship: Game #5"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Esport Charts</strong> has counted more than 100 live streams that follow the <strong>FIDE World Championship</strong> in Dubai, setting a <a href=\"https://escharts.com/blog/world-chess-championship-record\">new record of 401,000 concurrent live viewers</a> during game 2, the most spectacular so far between Carlsen and Nepomniachtchi. According to this count, 80 per cent of the peak viewers watched streams connected with <strong>chess24</strong> or <strong>Chess.com</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/game-2-most-watched-ever/",
+         "pubDate" : "Thu, 02 Dec 2021 20:13:49 +0100",
+         "title" : "Game 2 most watched ever"
+      },
+      {
+         "description" : "This week, well-known Dutch trainer Robert Ris shows a game in which Black found a way to get a strong attack in the Ragozin variation (1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4). | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-attacking-with-the-ragozin",
+         "pubDate" : "Thu, 02 Dec 2021 19:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Attacking with the Ragozin"
+      },
+      {
          "description" : "In the Endgame Magic Show #173 Karsten M&uuml;ller and Arne K&auml;hler do what most chess fans all over the world do these days: they take a look at the World Championship match between World Champion Magnus Carlsen and challenger Ian Nepomniachtchi in Dubai. Karsten and Arne were particularly intrigued by White's strong knight on d6 in game 2. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -218,7 +242,7 @@ news_feed (
          "title" : "And another brain teaser "
       },
       {
-         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 4 Match Score: 2-2 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 4 Tuesday, 30 November 2021 Another draw, but tense moments in tough struggleDraw streak continues! Happy, happy, birthday, @MagnusCarlsen!?Team Norway Chess wishes you a wonderful day! ?? #magnuscarlsen #chess #sjakk #norwaychess #happybday pic.twitter.com/KZj9NbOtnR [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/01/2021-world-chess-championship-game-4/\">2021 World Chess Championship: Game #4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 4 Match Score: 2-2 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 4 Tuesday, 30 November 2021 Another draw, but tense moments in tough struggleDraw streak continues! Happy, happy, birthday, @MagnusCarlsen!?Team Norway Chess wishes you a wonderful day! ?? #magnuscarlsen #chess #sjakk #norwaychess #happybday pic.twitter.com/KZj9NbOtnR &#8212; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/01/2021-world-chess-championship-game-4/\">2021 World Chess Championship: Game #4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">Th",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/01/2021-world-chess-championship-game-4/",
@@ -1194,14 +1218,6 @@ news_feed (
          "title" : "I accept your offer of a resignation"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> If you teach chess for educational motives, you should know about simpler games on the chess board and how to introduce them to your students. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/chessboard-9.1920.jpeg\" title=\"At Lines of Action a piece moves in any direction by exactly as many squares as there are pieces on this file, rank or diagonal. You can capture enemy pieces. You can jump over your own but never over enemy pieces. The first player to connect all pieces on adjacent squares wins. Created with LogiQBoard.com\" data-title=\"At Lines of Action a piece moves in any direction by ex",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/other-games-on-64-squares/",
-         "pubDate" : "Wed, 24 Nov 2021 14:08:10 +0100",
-         "title" : "Other games on 64 squares"
-      },
-      {
          "description" : " <p class=\"lead\">The Press Conference of the Match between the reigning World Champion, Magnus Carlsen, and the 2021 Challenger Ian Nepomniachtchi is over and the two GMs seemed quite uninterested, but still firm to their answers. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6467951.jpg\" width=\"1020\" height=\"650\" alt=\"\" /> <div class=\"e2-text-caption\">EPA-EFE / ALI HAIDER</div> </div> Only 2 days before their first game, Carlsen stated: \"Ian's style is quite aggressive compared to my previous rivals in the title match. I think this will differ from my previous matches for the crown.\" Nepomniachtchi noted that he doesn't care what color pieces to start the matc",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2042,14 +2058,6 @@ news_feed (
          "title" : "Episode 252- GM Andy Soltis returns again"
       },
       {
-         "description" : "The diagram shows a position from a game between Teimour Radjabov and Hikaru Nakamura, played at the Meltwater Chess Champions Final 2021. It is White to move and he has to find the right square for his king to avoid getting into zugzwang. In the game, with limited time on the clock, Radjabov failed to find the right move. Can you do better?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/zugzwang-3",
-         "pubDate" : "Tue, 16 Nov 2021 15:00:00 +0100",
-         "title" : "Zugzwang"
-      },
-      {
          "description" : " Another week, another Asian Chess Federation online event. This week it is the Asian Amateur Championship, which is being held as a 9 round rapid event over 3 days (and yes I am an arbiter). While Australia hasn't really embraced these online events*, other countries have. There is a sizeable New Zealand contingent, while even Macau has a representative, although in this case it is CM Hui Li, currently resident in Canberra. At the end of the first day he is tied for first place on 3/3, along with 15 other players. With 150 players in the tournament, it will of course take more rounds (at least 7), before a likely winner is known. (* Australia doesn't really embrace offline events in Asia ei",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2184,22 +2192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1431",
          "pubDate" : "Thu, 11 Nov 2021 23:05:00 +0000",
          "title" : "European Team Championship gets underway in Terme Čatež"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1430",
-         "pubDate" : "Thu, 11 Nov 2021 20:01:28 +0000",
-         "title" : "Call of Interest for Arbiters in World Events 2022-2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1429",
-         "pubDate" : "Thu, 11 Nov 2021 16:58:16 +0000",
-         "title" : "International online conference \"Chess in Education\" planned for November 20-21"
       }
    ]
 }
