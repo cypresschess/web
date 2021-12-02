@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #173 Karsten M&uuml;ller and Arne K&auml;hler do what most chess fans all over the world do these days: they take a look at the World Championship match between World Champion Magnus Carlsen and challenger Ian Nepomniachtchi in Dubai. Karsten and Arne were particularly intrigued by White's strong knight on d6 in game 2. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-173-carlsen-vs-nepomniachtchi-games-1-and-2",
+         "pubDate" : "Thu, 02 Dec 2021 17:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic Show #173: Carlsen vs Nepomniachtchi, Games 1 and 2"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1460",
+         "pubDate" : "Thu, 02 Dec 2021 14:34:28 +0000",
+         "title" : "Havana 1966 inspires Dubai 2021"
+      },
+      {
+         "description" : "The 2022 FIDE Grand Prix, a series of three tournaments that will qualify two players for the 2022 Candidates Tournament, will start on February 3, 2022. Details were announced on Thursday by World Chess. While GM Magnus Carlsen and GM Ian Nepom...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-chess",
+         "pubDate" : "Thu, 02 Dec 2021 04:38:00 -0800",
+         "title" : "2022 FIDE Grand Prix To Start February 3"
+      },
+      {
          "description" : "One of the most refined and inconspicuous ways to gain an advantage and to win is the art of exchanging pieces. Most club players don't take exchanges too seriously. Sacrificing is brave, attacking is fun, but exchanging pieces is kind of boring, isn't it? Even cowardly. But knowing when to exchange and when not to exchange is a powerful strategic weapon. In part 2 of his \"Winning Academy\" series, Jan Markos shows why. | Photo: Wikipedia",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +50,7 @@ news_feed (
          "title" : "FIDE Grand Prix Begins in Berlin on February 3, 2022"
       },
       {
-         "description" : "The second day of our magical endgame calendar. Yesterday, you had to solve the famous endgame move by Shirov vs. Topalov. And of course, most of you knew the correct answer, and also mentioned the game. More of this, please! But we also had quite some participants answer with A. Lh3, which won't do the trick. But no worries, you have 23 more tries. Today, we look at a famous check-mate in 18 moves. Luckily, you only need to know the first move to start this combo.",
+         "description" : "The second day of our magical endgame calendar. Yesterday, you had to solve the famous endgame move by Shirov vs. Topalov. And of course, most of you knew the correct answer, and also mentioned the game. More of this, please! But we also had quite some participants answer with A. Be4, which won't do the trick. But no worries, you have 23 more tries. Today, we look at a famous check-mate in 18 moves. Luckily, you only need to know the first move to start this combo.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2",
@@ -120,6 +144,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-championship-2021-g5",
          "pubDate" : "Wed, 01 Dec 2021 19:10:00 +0100",
          "title" : "World Championship Game 5: Not forceful enough"
+      },
+      {
+         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. On Friday, Ian Nepomniachtchi will get his third game with white after successfully neutralizing Magnus Carlsen's attempts to surprise him in the previous encounters of the match. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Anastasiya Karlovich",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
+         "pubDate" : "Wed, 01 Dec 2021 19:05:00 +0100",
+         "title" : "Carlsen vs. Nepomniachtchi - Games and commentary"
       },
       {
          "description" : "This week, Merijn van Delft takes a look at a game from the Dutch Championship, in which Max Warmerdam outplayed his opponent Hing Ting Lai convincingly. Warmerdam is not only a strong player, but he also worked as a second for Jorden Van Foreest at the Wijk aan Zee tournament 2021, and helped Van Foreest to surprisingly win this prestigious event. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2018,14 +2050,6 @@ news_feed (
          "title" : "Zugzwang"
       },
       {
-         "description" : "In the key matchup between top seeds Russia and Georgia in the women's section of the European Team Championships, the rating favourites and defending champions defeated their Georgian rivals by 3-1 on Monday. In the open section, co-leaders Azerbaijan and Hungary drew their direct encounter, allowing Russia to catch up with them on 7/8 match points. | Photos: ECU Press",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2021-r4",
-         "pubDate" : "Tue, 16 Nov 2021 14:50:00 +0100",
-         "title" : "Euro Teams: Russian teams win close matches"
-      },
-      {
          "description" : " Another week, another Asian Chess Federation online event. This week it is the Asian Amateur Championship, which is being held as a 9 round rapid event over 3 days (and yes I am an arbiter). While Australia hasn't really embraced these online events*, other countries have. There is a sizeable New Zealand contingent, while even Macau has a representative, although in this case it is CM Hui Li, currently resident in Canberra. At the end of the first day he is tied for first place on 3/3, along with 15 other players. With 150 players in the tournament, it will of course take more rounds (at least 7), before a likely winner is known. (* Australia doesn't really embrace offline events in Asia ei",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2042,14 +2066,6 @@ news_feed (
          "title" : "ECU Board Meeting & General Assembly press release"
       },
       {
-         "description" : "Svitlana's Smart Moves started roughly half a year ago, and we made twenty episodes so far. The work with Svitlana is always a blast, and we are happy, that so many people follow the weekly show regularly. The Canadian WIM, not only produced a \"Lazy Sicilian\" opening course, but her newest Fritztrainer \"Understanding Material Imbalances\" has launched yesterday. Can there be any better time, than purchasing the products today, for 25% less? Back to the episode for today: Knight endgames can be very tricky, and Svitlana explains what to look out for in two examples.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-20",
-         "pubDate" : "Tue, 16 Nov 2021 12:48:43 +0100",
-         "title" : "Svitlana's Smart Moves - Powerful knight endgames"
-      },
-      {
          "description" : "Abhimanyu Mishra became the youngest ever GM in July, sparking a debate on whether titles have become easier to win.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -2064,14 +2080,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-so-xiong",
          "pubDate" : "Mon, 15 Nov 2021 14:10:00 -0800",
          "title" : "Speed Chess Championship: So Rallies, Eliminates Xiong"
-      },
-      {
-         "description" : "In the Endgame Magic Show #170 Karsten M&uuml;ller and Fabian Brinkmann continue to look at endgame highlights from the FIDE Grand Swiss in Riga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-170-endgame-highlights-from-the-fide-grand-swiss-in-riga-2",
-         "pubDate" : "Mon, 15 Nov 2021 17:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #170: Endgame highlights from the FIDE Grand Swiss in Riga (2)"
       },
       {
          "description" : " While not in the business of giving out free advertising to big corporations, I was intrigued by the new Sony Playstation advertisement, which has a very chess heavy theme. While I am linking to the full 2+ minute clip, the shorter TV edit has an interesting cut, where the chess game is followed by the caption \"Do not attempt\" for the next scene. Of course it concerns parkour rather than chess, but still, an interesting sentiment. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/4yuEnY9ItqA\" width=\"320\" youtube-src-id=\"4yuEnY9ItqA\"></iframe></div><br /> ",
@@ -2128,14 +2136,6 @@ news_feed (
          "link" : "https://www.thearticle.com/nonconformity-in-chess-and-physics-emanuel-lasker-and-albert-einstein/",
          "pubDate" : "Sat, 13 Nov 2021 10:00:55 +0000",
          "title" : "Nonconformity in chess and physics: Emanuel Lasker and Albert Einstein"
-      },
-      {
-         "description" : "GM Hikaru Nakamura beat GM Peter Svidler with a score of 22-10 in the 2021 Speed Chess Championship Main Event and will face GM Anish Giri in the quarterfinals. The next match, between GM Wesley So and GM Jeffery Xiong, starts on Monday, November ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/speed-chess-championship-nakamura-svidler",
-         "pubDate" : "Fri, 12 Nov 2021 18:20:00 -0800",
-         "title" : "Speed Chess Championship: Nakamura Dominates In Bullet, Advances To Quarterfinals"
       },
       {
          "description" : "",
