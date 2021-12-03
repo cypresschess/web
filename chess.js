@@ -18,7 +18,7 @@ news_feed (
          "title" : "New: Markus Ragger: Power openings: Gr&uuml;nfeld Defence Volume 1 and 2"
       },
       {
-         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 5 Match Score: 2-2 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 5 Wednesday, 1 December 2021 A fifth draw the jokes and memes start to roll in When Dutch Grandmaster Anish Giri went on a run of draws in elite chess, some people started [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/02/2021-world-chess-championship-game-5/\">2021 World Chess Championship: Game #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 5 Match Score: 2&frac12;-2&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 5 Wednesday, 1 December 2021 A fifth draw the jokes and memes start to roll in When Dutch Grandmaster Anish Giri went on a run of draws in elite chess, some people started [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/02/2021-world-chess-championship-game-5/\">2021 World Chess Championship: Game #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/02/2021-world-chess-championship-game-5/",
