@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">The sixth game of the World Chess Championship taking place in Dubai ended after 136 moves. It was the longest game in the history of World Chess Championship. Reigning champion Magnus Carlsen started with d4 with the white pieces, initiating the second Catalan of the match and won the game. After 6 games the score is 3.5-2.5. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51721511991_11418a5a54_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51720702002_ebddd210f4_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldche",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-championship-game-6-satisfied-its-a-draw-again/",
+         "pubDate" : "Fri, 03 Dec 2021 20:18:51 +0000",
+         "title" : "World Chess Championship Game 6: Magnus won!"
+      },
+      {
+         "description" : " Game 6 of the World Championship 2021 in Dubai is still going after 7 hours of intense fighting. The defending World Champion, Magnus Carlsen and the Challenger Ian Nepomniachtchi are giving the fight of their lives and just a while ago they reached move 125. This is officially the longest World Chess Championship game in history, beating the 124-move Game 5 of the 1978 Karpov-Korchnoi match! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51720702002_ebddd210f4_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Eric Rosen</div> </div> Let's see what will happen today in Dubai. Anyway, it's already another day 😉 Stay tuned. ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/record-breaking-the-longest-world-chess-championship-game-in-his/",
+         "pubDate" : "Fri, 03 Dec 2021 20:17:03 +0000",
+         "title" : "Record: The longest World Chess Championship Game in History"
+      },
+      {
+         "description" : "In this week's show, GM Daniel King looks at games from Viktor Kupreichik (3 July 1949 - 22 May 2017), a brillant and imaginative attacking player who was never afraid to sacrifice. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-viktor-kupreichik",
+         "pubDate" : "Fri, 03 Dec 2021 19:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: The brilliance of Viktor Kupreichik"
+      },
+      {
+         "description" : "Velammal Nexus consists of D Gukesh, R Praggnanandhaa, Leon Mendonca, Pranav V and Rindhiya, defeated Saco Oliveros of Peru in the final to win the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/velammal-nexus-wins-dubai-2020-world-school-tournament/",
+         "pubDate" : "Fri, 03 Dec 2021 17:31:57 +0000",
+         "title" : "Velammal Nexus wins Dubai 2020 World School Tournament"
+      },
+      {
+         "description" : " Share!5 FIDE President Arkady Dvorkovich &#038; Orrin Hudson @ FIDE World Chess Championships in Dubai UAE. Photo courtesy of Orrin Hudson Orrin Hudson of Besomeone, Inc. has been known for his energetic methods in presenting chess as a means of learning critical life skills. Hudson is also a world traveler and most recently visited the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/03/orrin-hudson-in-dubai-for-world-championship/\">Orrin Hudson in Dubai for World Championship</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/12/03/orrin-hudson-in-dubai-for-world-championship/",
+         "pubDate" : "Fri, 03 Dec 2021 17:25:26 +0000",
+         "title" : "Orrin Hudson in Dubai for World Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1461",
+         "pubDate" : "Fri, 03 Dec 2021 17:18:42 +0000",
+         "title" : "Max Warmerdam wins Dutch Championship 2021"
+      },
+      {
          "description" : "The new Corr Database 2022 is the large ChessBase collection of correspondence games from the period from 1804 to 2021. With more than 80,000 tournaments and over 2 million correspondence games, the Corr 2022 is a must for all correspondence chess fans. But the Corr Database is very popular even among many grandmasters and trainers, since correspondence games often herald the development of opening theory!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,7 +178,7 @@ news_feed (
          "title" : "New: Markus Ragger: Power openings: Gr&uuml;nfeld Defence Volume 1 and 2"
       },
       {
-         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 5 Match Score: 2&frac12;-2&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 5 Wednesday, 1 December 2021 A fifth draw the jokes and memes start to roll in When Dutch Grandmaster Anish Giri went on a run of draws in elite chess, some people started [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/02/2021-world-chess-championship-game-5/\">2021 World Chess Championship: Game #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 5 Match Score: 2&frac12;-2&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 5 Wednesday, 1 December 2021 A fifth draw the jokes and memes start to roll in When Dutch Grandmaster Anish Giri went on a run of draws in elite chess, some people started to [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/02/2021-world-chess-championship-game-5/\">2021 World Chess Championship: Game #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/02/2021-world-chess-championship-game-5/",
@@ -250,12 +298,12 @@ news_feed (
          "title" : "Nepomniachtchi Move by Move"
       },
       {
-         "description" : "After the first five games of the 2021 FIDE World Chess Championship, GMs Magnus Carlsen and Ian Nepomniachtchi are tied with 2.5 points each. Our coverage of game six is now underway! Watch the 2021 FIDE World Chess Championship Game 6 liveYo...",
+         "description" : "The first victory of the 2021 FIDE World Championship happened in game 6 after GM Magnus Carlsen defeated GM Ian Nepomniachtchi in a record 136 moves. Carlsen&#39;s victory came after the world champion exchanged a queen for two rooks, provoking a lon...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-6",
          "pubDate" : "Wed, 01 Dec 2021 14:26:00 -0800",
-         "title" : "LIVE: FIDE World Chess Championship Game 6 Carlsen-Nepo"
+         "title" : "BREAKING: Carlsen Wins Longest World Chess Championship Game Of All Time"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ad7f4a5b-5e19-4909-a5ce-56254eb78a6e/Mike4.jpg\" data-image-dimensions=\"512x249\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61a7ec86e35434408ee520e0\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ad7f4a5b-5e19-4909-a5ce-56254eb78a6e/Mike4.jpg?format=1000w\" /> </figure> <p class=\"\">Do we look concerned about these draws? <p class=\"\">After 5 rounds, it is still all draws! FM Mike Klein of Chess.com joins me to quickly recap the games, to track the ongoing stor",
@@ -1170,14 +1218,6 @@ news_feed (
          "title" : "Nepo in The Guardian \"I was maybe the least hard working person out of the world's top 20\""
       },
       {
-         "description" : " <p class=\"lead\">The reigning World Champion Magnus Carlsen gave his pre-match interview to Sean Ingle and <a href=\"https://www.theguardian.com/sport/2021/nov/24/magnus-carlsen-the-big-advantage-is-that-i-am-the-better-chess-player\">the Guardian</a> before his 5th World Championship match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51702417894_7943ae3f41_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen</div> </div> \"I'm less hungry. I think you're always going to be if you're playing for the world title for the fifth time, rather than the first.\" was the punch line of Carlsen's interview. Below are some more ques",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/carlsen-on-guardian-im-less-hungry/",
-         "pubDate" : "Thu, 25 Nov 2021 15:53:19 +0000",
-         "title" : "Carlsen: \"I'm less hungry\""
-      },
-      {
          "description" : " The FIDE World Chess Championship takes place in Dubai, UAE, 24th November (opening ceremony - game 1 on 26th Nov) until 16th December. The match is between World Champion Magnus Carlsen and his Challenger Ian Nepomniachtchi. The match will be over 14 games rather than the recent 12 and uses an accelerated schedule to accommodate this - a final day of rapid and blitz tie-breaks will take place on 15th December in the event of a 7-7 tie. Nepomniachtchi will not compete under the Russian flag due to WADA sporting sanctions against Russia because of their state sponsored doping program. Both players were born in 1990 - Nepomniachtchi is the slightly older - born 14th July - Carlsen will have h",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1248,14 +1288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-491-alireza-firouzja-vs-baadur-jobava",
          "pubDate" : "Thu, 25 Nov 2021 10:19:47 +0100",
          "title" : "Game of the Week #491: Alireza Firouzja vs Baadur Jobava"
-      },
-      {
-         "description" : " <p class=\"lead\">Ian Nepomniachtchi looked pleased during the Opening Ceremony of the FIDE World Chess Championship Match in Dubai - he just discovered that he will be playing the first game with White. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/FD654A13-BFB8-44ED-9DBE-36BA91D2C0F9.jpeg\" width=\"1800\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> The drawing of lots, a ceremonial procedure, takes place during the opening ceremony and determines the order of the 14-round tournament. Nepo's immediate team, Vladimir Potkin and Sergey Karjakin, also present in Dubai, immediately started quietly discussing the strategy that Nepo wil",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-match-begins-with-nepo-playing-white/",
-         "pubDate" : "Thu, 25 Nov 2021 06:49:01 +0000",
-         "title" : "The Match Begins with Nepo Playing White"
       },
       {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. 2021.11.24<br /> B40 Sicilian, Anderssen variation<br /> B80 Sicilian, Scheveningen variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-scheveningen-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/y",
@@ -1946,14 +1978,6 @@ news_feed (
          "title" : "Tata Steel Chess Rapid R4-6: The Arjun Erigaisi day"
       },
       {
-         "description" : "After six rounds, the Russian teams are sole leaders in both sections of the European Team Championships. In the open, a victory by Daniil Dubov on board 2 allowed them to defeat Hungary, while the women's team easily defeated Greece. Meanwhile, France's top board Alireza Firouzja has collected 5&frac12; out of 6 points so far in Slovenia, and is now less than 4 points shy from crossing the 2800 rating barrier. | Photos: ECU Press",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2021-r6",
-         "pubDate" : "Fri, 19 Nov 2021 06:05:00 +0100",
-         "title" : "Euro Teams: Russia in the sole lead, Firouzja closing on 2800"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/cb3198eb-3a08-4677-9620-146d0d71d514/King2.jpg\" data-image-dimensions=\"350x461\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61971f83bcaff666d86ebfdd\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/cb3198eb-3a08-4677-9620-146d0d71d514/King2.jpg?format=1000w\" /> </figure> <p class=\"\">Photo by <a href=\"https://www.chessphotoshop.com\">Lennart Ootes</a>, courtesy of GM Daniel King<br><br> <p class=\"\">Grandmaster Daniel King is a popular Commentator, Author, YouTub",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -1968,14 +1992,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1438",
          "pubDate" : "Thu, 18 Nov 2021 23:27:50 +0000",
          "title" : "New set of FIDE regulations covering FIDE Titles and Ratings published"
-      },
-      {
-         "description" : "Round 4 In the first round of day 2, tournament leader Levon Aronian seemed to be in cruise control after dominating the game for the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/tata-steel-chess-india-day-two/",
-         "pubDate" : "Thu, 18 Nov 2021 17:31:51 +0000",
-         "title" : "Tata Steel Chess India - Day Two"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87786806.cms\" />Indian teenage duo of Arjun Erigaisi and R Praggnanandhaa occupied the top two places, pushing world number four Levon Aronian to third spot after round six of the Tata Steel Rapid Chess on Thursday.",
@@ -2160,22 +2176,6 @@ news_feed (
          "link" : "https://www.thearticle.com/nonconformity-in-chess-and-physics-emanuel-lasker-and-albert-einstein/",
          "pubDate" : "Sat, 13 Nov 2021 10:00:55 +0000",
          "title" : "Nonconformity in chess and physics: Emanuel Lasker and Albert Einstein"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1432",
-         "pubDate" : "Fri, 12 Nov 2021 19:31:53 +0000",
-         "title" : "Winners crowned at International Children and Youth Festival \"ChessYes\""
-      },
-      {
-         "description" : " Pawn Islands. I forgot to really talk about pawn islands! One of my students, who is reading this series of articles, asked me about pawn islands during a class last week and why I didn't write more about them. Therefore, that is what we will look at this week. Sorry to put off our student <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-one/\">A Foundation for Beginners Forty One</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Ches",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-one/",
-         "pubDate" : "Fri, 12 Nov 2021 18:11:02 +0000",
-         "title" : "A Foundation for Beginners Forty One"
       }
    ]
 }
