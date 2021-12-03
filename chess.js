@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. Ian Nepomniachtchi will gets his third game with white after successfully neutralizing Magnus Carlsen's attempts to surprise him in the previous encounters of the match. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Anastasiya Karlovich",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
+         "pubDate" : "Fri, 03 Dec 2021 13:00:00 +0100",
+         "title" : "Carlsen vs. Nepomniachtchi - Game 6 Live!"
+      },
+      {
+         "description" : "How to checkmate a king with a knight and bishop was clear to most! There were also many answers that knew the \"W\" motif of the knight. You surely know your endgames! Solution B. Lh7 was correct. Should Carlsen and Nepomniachtchi think a little longer about their moves today, it is worthwhile to take a closer look at the somewhat more demanding third door. Quite a difficult task for a change!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-1-355",
+         "pubDate" : "Fri, 03 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 3"
+      },
+      {
+         "description" : "Jonathan Penrose, a 10-time British champion, honorary grandmaster, and correspondence grandmaster who famously defeated reigning world champion Mikhail Tal at the 1960 Leipzig Olympiad, has died at the age of 88. This was reported by The Guardian...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jonathan-penrose-obituary",
+         "pubDate" : "Fri, 03 Dec 2021 02:55:29 -0800",
+         "title" : "Jonathan Penrose (1933-2021)"
+      },
+      {
+         "description" : " So last week, I suggested that tactics wasn't the be all, end all to good chess playing. It takes a balanced combination of chess skills to be a successful player. However, I don't want you to think that tactics is secondary to mastering the game. You have to be both a tactical player and a <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-four/\">A Foundation for Beginners Forty Four</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-four/",
+         "pubDate" : "Fri, 03 Dec 2021 09:30:24 +0000",
+         "title" : "A Foundation for Beginners Forty Four"
+      },
+      {
+         "description" : "As part of the Expo2020 in Dubai, the Spanish Pavilion organised a large tournament with schools from all over the world. The best teams of the online preliminaries were invited to Dubai. Favourite to win was the team Velammel Nexus from India that started with three grandmasters. The Indians won indeed but in the final had some trouble against surprisingly strong students from Peru. | Photos: Patricia Claros",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/velammal-nexus-wins-world-school-tournament-in-dubai",
+         "pubDate" : "Fri, 03 Dec 2021 10:19:40 +0100",
+         "title" : "Velammal Nexus wins World School Tournament in Dubai"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/3jr_-LbNJBQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-6-of-the-match/",
+         "pubDate" : "Fri, 03 Dec 2021 09:02:51 +0000",
+         "title" : "Time To Say Dubai: Round 6 of the Match"
+      },
+      {
          "description" : " The world title match is level at 2.5-2.5 after five draws but Carlsen has the favourable white pieces in two of the next three as he tries to break the deadlock Magnus Carlsen, the champion, and Ian Nepomniachtchi, the challenger, resume their 14-game world title match in Dubai on Friday (12.30pm start) with the score 2.5-2.5 after five straight draws, which represents a small but significant success so far for the 31-year-old Russian underdog. The next trio of games this weekend, with two Whites for the Norwegian, are critical if Carlsen is to regain momentum, because the following two rest days before games nine and 11 will precede Whites for Nepomniachtchi. Additionally, some observers ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -154,12 +202,12 @@ news_feed (
          "title" : "Nepomniachtchi Move by Move"
       },
       {
-         "description" : "After the first five games of the 2021 FIDE World Chess Championship, GMs Magnus Carlsen and Ian Nepomniachtchi are tied with 2.5 points each. Players will enjoy a full rest day before game six, giving them time to adjust their strategy for the ne...",
+         "description" : "After the first five games of the 2021 FIDE World Chess Championship, GMs Magnus Carlsen and Ian Nepomniachtchi are tied with 2.5 points each. Our coverage of game six is now underway! Watch the 2021 FIDE World Chess Championship Game 6 liveYo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-6",
          "pubDate" : "Wed, 01 Dec 2021 14:26:00 -0800",
-         "title" : "How To Watch The FIDE World Chess Championship Game 6: Carlsen - Nepo"
+         "title" : "LIVE: FIDE World Chess Championship Game 6 Carlsen-Nepo"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ad7f4a5b-5e19-4909-a5ce-56254eb78a6e/Mike4.jpg\" data-image-dimensions=\"512x249\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61a7ec86e35434408ee520e0\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ad7f4a5b-5e19-4909-a5ce-56254eb78a6e/Mike4.jpg?format=1000w\" /> </figure> <p class=\"\">Do we look concerned about these draws? <p class=\"\">After 5 rounds, it is still all draws! FM Mike Klein of Chess.com joins me to quickly recap the games, to track the ongoing stor",
@@ -200,14 +248,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-championship-2021-g5",
          "pubDate" : "Wed, 01 Dec 2021 19:10:00 +0100",
          "title" : "World Championship Game 5: Not forceful enough"
-      },
-      {
-         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. On Friday, Ian Nepomniachtchi will get his third game with white after successfully neutralizing Magnus Carlsen's attempts to surprise him in the previous encounters of the match. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Anastasiya Karlovich",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
-         "pubDate" : "Wed, 01 Dec 2021 19:05:00 +0100",
-         "title" : "Carlsen vs. Nepomniachtchi - Games and commentary"
       },
       {
          "description" : "This week, Merijn van Delft takes a look at a game from the Dutch Championship, in which Max Warmerdam outplayed his opponent Hing Ting Lai convincingly. Warmerdam is not only a strong player, but he also worked as a second for Jorden Van Foreest at the Wijk aan Zee tournament 2021, and helped Van Foreest to surprisingly win this prestigious event. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1250,14 +1290,6 @@ news_feed (
          "title" : "I accept your offer of a resignation"
       },
       {
-         "description" : " <p class=\"lead\">The Press Conference of the Match between the reigning World Champion, Magnus Carlsen, and the 2021 Challenger Ian Nepomniachtchi is over and the two GMs seemed quite uninterested, but still firm to their answers. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6467951.jpg\" width=\"1020\" height=\"650\" alt=\"\" /> <div class=\"e2-text-caption\">EPA-EFE / ALI HAIDER</div> </div> Only 2 days before their first game, Carlsen stated: \"Ian's style is quite aggressive compared to my previous rivals in the title match. I think this will differ from my previous matches for the crown.\" Nepomniachtchi noted that he doesn't care what color pieces to start the matc",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/carlsen-ians-style-is-quite-aggressive/",
-         "pubDate" : "Wed, 24 Nov 2021 12:27:43 +0000",
-         "title" : "Carlsen: \"Ian's style is quite aggressive\""
-      },
-      {
          "description" : " Fully focusing on Chess for a year or two is a dream many Chess lovers have. In the past couple of months, I have gotten many questions as to how I would structure such a year. In this article, I will try to answer that question. Planning the year right will set you up for [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/a-year-full-of-chess/\">A Year Full Of Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1978,28 +2010,12 @@ news_feed (
          "title" : "The Carlsen years (1): A new era begins"
       },
       {
-         "description" : "This week, Merijn van Delft takes a look at Alireza Firouzja and his \"supermodern\" chess which continues to bring the 18-year success: after winning the Grand Swiss in Riga he continues to score at the European Team Championship, and with a live-rating of 2793.3 he is currently the world's number three behind Magnus Carlsen (2855.9) and Ding Liren (2799.0), narrowly ahead of Fabiano Caruana (2792.3) and World Championship challenger Ian Nepomniachtchi (2782.0). | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-490-alireza-firouzja-vs-m-yilmaz",
-         "pubDate" : "Wed, 17 Nov 2021 18:00:00 +0100",
-         "title" : "Game of the Week #490: Alireza Firouzja vs M. Yilmaz"
-      },
-      {
          "description" : " The Chess.com Speed Chess Championship takes place Mon 8th Nov to Sun 19th Dec 2021. Round 1 pairings: Nov 8 Giri 14-12 Duda, Nov 9 Ding 14-12 Mamedyarov, Nov 10 Rapport 16.5-14.5 Sarana, Nov 11 Nihal Sarin 15.5-10.5 Grischuk, Nov 11 Aronian 15-12 Dubov, Nov 12 Nakamura 22-10 Svidler, Nov 15 So 18-14 Xiong and Nov 29 Caruana 13.5-12.5 MVL.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-championship-2021",
          "pubDate" : "Wed, 17 Nov 2021 20:00:00 +0400",
          "title" : "Chess.com Speed Chess Championship 2021 - Games and Results"
-      },
-      {
-         "description" : "Winning is fun but not easy. For example, how do you create winning chances when you are in a must-win situation or if your opponent is more than happy with a draw? The Slovakian Grandmaster and award-winning author Jan Markos knows the answer: create imbalances! In part one of his \"Winning Academy\" series he shows you how to do so. | Photo: Dreamstime",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-presented-by-jan-markos",
-         "pubDate" : "Wed, 17 Nov 2021 16:00:00 +0100",
-         "title" : "The Winning Academy (1): Creating Imbalances"
       },
       {
          "description" : "After winning the FIDE Chess.com Grand Swiss, GM Alireza Firouzja&#39;s quick rise to the top continues. The French-Iranian started with 4.5/5 at the European Team Championship in Slovenia and is now the new world number-three in the live rankings. ...",
@@ -2040,14 +2056,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/andreikin-wins-november-16-titled-tuesday",
          "pubDate" : "Tue, 16 Nov 2021 17:12:10 -0800",
          "title" : "Andreikin Wins November 16 Titled Tuesday"
-      },
-      {
-         "description" : "With the first two rounds of playoffs complete, each division has been narrowed down to the final four remaining teams. These teams will fight this weekend in the semifinals and finals for their share of the $25,000 prize pool. You won&#39;t want to m...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-finals",
-         "pubDate" : "Tue, 16 Nov 2021 13:21:00 -0800",
-         "title" : "Collegiate Chess League: The Finals"
       },
       {
          "description" : " From the publisher's blurb: In 1930s British India, a humble servant learns the art of chaturanga, the ancient Eastern ancestor of chess. His natural talent soon catches the attention of the maharaja, who introduces him to the Western version of the game. Brought to England as the prince's pawn, Malik becomes a chess legend, winning <a href=\"http://britishchessnews.com/2021/11/16/game-of-the-gods/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Game of the Gods</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/11/16/game-of-the-gods/\">Game of the Gods</a> appeared first on <a rel=\"nofollow\" href=\"http://br",
@@ -2168,22 +2176,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-one/",
          "pubDate" : "Fri, 12 Nov 2021 18:11:02 +0000",
          "title" : "A Foundation for Beginners Forty One"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87666825.cms\" />Indian chess ace Viswanathan Anand is looking forward to being at a World C'ship minus the stress of competition as he prepares to don the commentator's hat for the upcoming clash between defending champion Magnus Carlsen and Ian Nepomniachtchi of Russia.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/looking-forward-to-world-chess-championship-without-the-tension-of-playing-anand-on-role-as-commentator/articleshow/87666825.cms",
-         "pubDate" : "Fri, 12 Nov 2021 16:32:10 +0530",
-         "title" : "Looking forward to World C'ship without the tension of playing: Anand"
-      },
-      {
-         "description" : "<br /><br />The ACTCA is happy to announce that the 2021 Vikings Weekender is taking place from Friday 26th November until Sunday 28th November. Details are<div><br /></div><div><br />Dates - 26th, 27th and 28th November 2021<br />6 round FIDE Rated Swiss*<br />Lanyon Vikings, Heidelberg St, Condor, ACT<br />Time control: 60m + 30s<br /><br />Open and Under 1600 sections (Both FIDE Rated)<br />Round 1: Friday 7:00pm Round 2: Sat 11:15am Round 3: Sat 3:15pm Round 4: Sat 7:15pm Round 5: Sun 11:15am Round 6:Sun 3:15pm<br /><br />1st Prize Open $1000, 1st Prize Minor $500 (All other prizes dependant upon entries)<br /><br />** Entry conditions: All players must be fully vaccinated (two shots) an",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/vikings-2021.html",
-         "pubDate" : "Fri, 12 Nov 2021 08:57:00 +0000",
-         "title" : "Vikings 2021"
       }
    ]
 }
