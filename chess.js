@@ -2,7 +2,55 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. Ian Nepomniachtchi will gets his third game with white after successfully neutralizing Magnus Carlsen's attempts to surprise him in the previous encounters of the match. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Anastasiya Karlovich",
+         "description" : "The new Corr Database 2022 is the large ChessBase collection of correspondence games from the period from 1804 to 2021. With more than 80,000 tournaments and over 2 million correspondence games, the Corr 2022 is a must for all correspondence chess fans. But the Corr Database is very popular even among many grandmasters and trainers, since correspondence games often herald the development of opening theory!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-corr-database-2022-with-2-million-games",
+         "pubDate" : "Fri, 03 Dec 2021 17:04:49 +0100",
+         "title" : "New: CORR Database 2022 with 2 million games!"
+      },
+      {
+         "description" : "Sometimes you discover a familiar tactic, proceed with the correct move order, and cannot find the winning path. Clear tactical patterns don't always win by default, as Lawrence demonstrates in just two hefty examples. Additionally, we try to break through to a 2300 rating. But the theme thread continues, and what should be a manageable task, turns out to get far more brutal than expected. This XL episode has tons of nice tactics for you to look at, and solve.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-7",
+         "pubDate" : "Fri, 03 Dec 2021 17:00:00 +0100",
+         "title" : "Trent's Tactics - Unpleasant surprises"
+      },
+      {
+         "description" : "We now have a full programme of ECF over-the-board events and National Championships running into next year (2022). These include English National Championships at standardplay,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-events-programme-page/",
+         "pubDate" : "Fri, 03 Dec 2021 14:35:25 +0000",
+         "title" : "ECF events programme page"
+      },
+      {
+         "description" : "Jonathan Penrose, who won the British Chess Championship a record ten times, has died aged 88. You can read Leonard Barden's fine obituary published in...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rip-jonathan-penrose/",
+         "pubDate" : "Fri, 03 Dec 2021 13:32:40 +0000",
+         "title" : "RIP Jonathan Penrose"
+      },
+      {
+         "description" : "Videos: Scandinavian expert Christian Bauer presents clever move orders in the system with 3...Qa5. And Mihail Marin analyses the Deac-L. van Foreest from the European Team Championship and shows that there's always room for new ideas in the Catalan! Peter Heine Nielsen, Carlsen's second, annotates \"The brilliancy\" Carlsen-Duda from the final of the Meltwater Tour. Moreover, 25 games with detailed annotations await you in the \"Lucky bag\", including analyses by Anish Giri, Romain Edouard, Michal Krasenkow et al. ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. Available as a single issue or by subscription (6 issues per year). Available on DVD or as a download.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-extra-204",
+         "pubDate" : "Fri, 03 Dec 2021 14:00:00 +0100",
+         "title" : "New: ChessBase Magazine Extra #204"
+      },
+      {
+         "description" : " The 6th game of the 2021 World Chess Championship has just started, and Carlsen has chosen to play the Catalan. This was also the choice for game 2, which ended in draw, but for various reasons, the choice of this opening generated a degree of excitement among the online spectators. This is probably a reaction to the various 1.e4 e5 games that ended in a draw, but I do remember a time when the Catalan was criticised as a 'drawing' opening. As I write this the game is still in the opening, but at least Nepo seemed a little surprised by the choice of opening. However, he seems to have recovered his equilibrium, and I fear that the game may end in another draw (based more on the symmetrical pa",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/the-fickle-finger-of-fashion.html",
+         "pubDate" : "Fri, 03 Dec 2021 12:49:00 +0000",
+         "title" : "The fickle finger of fashion"
+      },
+      {
+         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. Ian Nepomniachtchi has black for a third time after successfully neutralizing Magnus Carlsen's attempts to surprise him in the previous encounters of the match. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Anastasiya Karlovich",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2021-live",
@@ -18,11 +66,11 @@ news_feed (
          "title" : "The Endgame Magic Christmas Calendar - Door 3"
       },
       {
-         "description" : "Jonathan Penrose, a 10-time British champion, honorary grandmaster, and correspondence grandmaster who famously defeated reigning world champion Mikhail Tal at the 1960 Leipzig Olympiad, has died at the age of 88. This was reported by The Guardian...",
+         "description" : "Jonathan Penrose, a 10-time British champion, grandmaster as well as correspondence grandmaster who famously defeated reigning world champion Mikhail Tal at the 1960 Leipzig Olympiad, has died at the age of 88. This was reported by The Guardian. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/jonathan-penrose-obituary",
-         "pubDate" : "Fri, 03 Dec 2021 02:55:29 -0800",
+         "pubDate" : "Fri, 03 Dec 2021 02:55:00 -0800",
          "title" : "Jonathan Penrose (1933-2021)"
       },
       {
@@ -1946,22 +1994,6 @@ news_feed (
          "title" : "How AlphaZero Learns Chess"
       },
       {
-         "description" : "Researchers at DeepMind and Google Brain, in collaboration with Grandmaster Vladimir Kramnik, are working to explore what chess can teach us about AI and vice versa. Using Chessbase's extensive historical chess data along with the AlphaZero neural network chess engine and components from Stockfish 8, they ask: what can we learn about chess history by studying AlphaZero, how does AlphaZero learn to evaluate positions, and is AlphaZero computing anything human-like? Their paper, \"Acquisition of Chess Knowledge in AlphaZero\", has just been published.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/acquisition-of-chess-knowledge-in-alphazero",
-         "pubDate" : "Thu, 18 Nov 2021 17:00:00 +0100",
-         "title" : "Acquisition of Chess Knowledge in AlphaZero"
-      },
-      {
-         "description" : "After World War II, Edith Keller-Herrmann, who was born on 17 November 1921 in Dresden, Germany, was one of the best women's players in the world. She played for the German Democratic Republic and won several team and individual gold medals at Chess Olympiads. On 17 November Edith Keller-Herrmann would have celebrated her 100th birthday. | Photo: Edith Keller-Herrmann, Paul-Werner Wagner, Lothar Schmid (German Chess Federation)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-memory-of-edith-keller-herrmann-17-november-1921-12-may-2010",
-         "pubDate" : "Thu, 18 Nov 2021 13:51:53 +0100",
-         "title" : "In memory of Edith Keller-Herrmann (17 November 1921 - 12 May 2010)"
-      },
-      {
          "description" : " One of the more common excuses for not playing tournament chess is \"too many annoying children\". While I think this isn't really a good excuse ('beat them early and often' is my motto), there is no denying that have a bunch of small kids running around playing 'tips' during your game can be off putting. So while the 2021 Vikings Weekender isn't designed to be a 'no juniors' event, the vaccination requirement for the event, and the timing of the roll out of vaccinations for Under 12's in Australia, means that Under 12's won't be playing (and we won't be getting a visit from Prime Minister Trump either). As junior players do make up a significant number of entries in chess events these days, ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1986,28 +2018,12 @@ news_feed (
          "title" : "FIDE expands and extends Aid Package Program to 2022"
       },
       {
-         "description" : "Levon Aronian had a very good start at the 3. Tata Steel India Chess Festival: with wins against Vidit Gujrathi, Sam Shankland and Baskaran Adhiban he began the rapid tournament with 3.0/3. The festival is played at the Indian National Library in Kolkata and the enthusiasm is great though only a limited number of spectators are admitted. | Photos: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-day-1-aronian-starts-with-3-0-3",
-         "pubDate" : "Thu, 18 Nov 2021 11:12:41 +0100",
-         "title" : "Tata Steel India, Day 1: Aronian starts with 3.0/3"
-      },
-      {
          "description" : "Following the decisions on Arbiter title applications approved by the recent FIDE Council Meeting, England has another FIDE Arbiter. I am sure that everyone will...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/new-fide-arbiter-congratulations-2/",
          "pubDate" : "Thu, 18 Nov 2021 08:58:19 +0000",
          "title" : "New FIDE arbiter - congratulations!"
-      },
-      {
-         "description" : "With the World Championship match in Dubai scheduled to kick off a bit over a week from now, we get ready for the showdown between Magnus Carlsen and Ian Nepomniachtchi by recapping the four previous matches, which were all won by Carlsen. In the first instalment, we recount what went on in Chennai in 2013, where a 22-year-old Carlsen got a commanding victory over local hero Vishy Anand. | Photo: Anastasiya Karlovich",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-carlsen-years-part-1",
-         "pubDate" : "Thu, 18 Nov 2021 07:00:00 +0100",
-         "title" : "The Carlsen years (1): A new era begins"
       },
       {
          "description" : " The Chess.com Speed Chess Championship takes place Mon 8th Nov to Sun 19th Dec 2021. Round 1 pairings: Nov 8 Giri 14-12 Duda, Nov 9 Ding 14-12 Mamedyarov, Nov 10 Rapport 16.5-14.5 Sarana, Nov 11 Nihal Sarin 15.5-10.5 Grischuk, Nov 11 Aronian 15-12 Dubov, Nov 12 Nakamura 22-10 Svidler, Nov 15 So 18-14 Xiong and Nov 29 Caruana 13.5-12.5 MVL.",
@@ -2112,22 +2128,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/do-not-attempt.html",
          "pubDate" : "Mon, 15 Nov 2021 12:54:00 +0000",
          "title" : "Do not attempt"
-      },
-      {
-         "description" : "On Saturday 18th December 2021 from 12:00 - 18:00. A FIDE-rated open blitz with a &pound;3,000 guaranteed prize fund. This tournament is being held in...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rik-thomas-memorial/",
-         "pubDate" : "Mon, 15 Nov 2021 08:19:05 +0000",
-         "title" : "Rik Thomas Memorial"
-      },
-      {
-         "description" : "Congratulations to Ravi Haria who becomes England's latest GM after his win for @ecfchess today at @ECUonline&#160;Team Ch in Slovenia https://chess24.com/en/watch/live-tournaments/european-team-championship-2021/3/14/4 &#8212; Malcolm Pein [picture...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/gm-ravi-haria/",
-         "pubDate" : "Mon, 15 Nov 2021 06:39:00 +0000",
-         "title" : "GM Ravi Haria!"
       },
       {
          "description" : "",
