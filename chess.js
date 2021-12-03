@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Nihal Sarin beat GM Richard Rapport by a score of 18-9 in the first quarterfinal match of the 2021 Speed Chess Championship Main Event.&#38;nbsp;On Monday, December 6 we will have a doubleheader as GM Ding Liren will face GM Levon Aronian at 6:00 a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-nihal-rapport",
+         "pubDate" : "Thu, 02 Dec 2021 13:26:00 -0800",
+         "title" : "Speed Chess Championship: Nihal Dominates Against Rapport, Advances To SF"
+      },
+      {
+         "description" : "You are looking for an active answer to 1.d4? Then the Gr&uuml;nfeld Indian is an excellent choice! Not by chance this opening is one of the main weapons of some top grandmasters: with active play and emphasis on tactics, Black counters White's strong centre, immediately facing him with concrete problems.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-markus-ragger-power-openings-gruenfeld-defence-volume-1-and-2",
+         "pubDate" : "Thu, 02 Dec 2021 22:00:00 +0100",
+         "title" : "New: Markus Ragger: Power openings: Gr&uuml;nfeld Defence Volume 1 and 2"
+      },
+      {
          "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 5 Match Score: 2-2 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 5 Wednesday, 1 December 2021 A fifth draw the jokes and memes start to roll in When Dutch Grandmaster Anish Giri went on a run of draws in elite chess, some people started [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/02/2021-world-chess-championship-game-5/\">2021 World Chess Championship: Game #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2034,14 +2050,6 @@ news_feed (
          "title" : "Game of the Gods"
       },
       {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent talks about the European Team Championships. The game of the day is Giri-Saric from round 3. The Dutch number 1 is in great form and currently on +3. His game against Saric an exceptional display of the power of the two bishops. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-3",
-         "pubDate" : "Tue, 16 Nov 2021 19:00:00 +0100",
-         "title" : "The Weekly Show"
-      },
-      {
          "description" : " &#8220;You always admire what you really don't understand&#8221; Blaise Pascal Alexey Alexeyevich Troitsky has been mentioned often in my blog. I am in full agreement with Sam Sloan when he writes in the introduction of his book &#8220;Collection of Chess Studies&#8221; the following: &#8220; Trotzky is considered to have been the greatest composer of chess endgame <a href=\"https://chessimprover.com/the-great-ones-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Great Ones (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-great-ones-5/\">The Great Ones (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Che",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2080,14 +2088,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/32637681/inside-calls-fide-change-grandmaster-requirements-nepomniachtchi-vishwanathan-anand-vladimir-kramnik?device=featurephone",
          "pubDate" : "Tue, 16 Nov 2021 02:05:43 -0500",
          "title" : "To GM or not to GM: Inside calls for FIDE to change Grandmaster requirements"
-      },
-      {
-         "description" : "GM Wesley So beat GM Jeffery Xiong with a score of 18-14 in the 2021 Speed Chess Championship Main Event. In the quarterfinals, he will face the winner of the match between GM Maxime Vachier-Lagrave and GM Fabiano Caruana, which starts on Monday, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-so-xiong",
-         "pubDate" : "Mon, 15 Nov 2021 14:10:00 -0800",
-         "title" : "Speed Chess Championship: So Rallies, Eliminates Xiong"
       },
       {
          "description" : " While not in the business of giving out free advertising to big corporations, I was intrigued by the new Sony Playstation advertisement, which has a very chess heavy theme. While I am linking to the full 2+ minute clip, the shorter TV edit has an interesting cut, where the chess game is followed by the caption \"Do not attempt\" for the next scene. Of course it concerns parkour rather than chess, but still, an interesting sentiment. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/4yuEnY9ItqA\" width=\"320\" youtube-src-id=\"4yuEnY9ItqA\"></iframe></div><br /> ",
@@ -2184,14 +2184,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/nov/12/chess-teenager-alireza-firouzja-aiming-to-be-youngest-ever-world-champion",
          "pubDate" : "Fri, 12 Nov 2021 08:00:30 +0000",
          "title" : "Chess: Teenager Alireza Firouzja aiming to be youngest ever world champion"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1431",
-         "pubDate" : "Thu, 11 Nov 2021 23:05:00 +0000",
-         "title" : "European Team Championship gets underway in Terme Čatež"
       }
    ]
 }
