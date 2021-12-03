@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world title match is level at 2.5-2.5 after five draws but Carlsen has the favourable white pieces in two of the next three as he tries to break the deadlock Magnus Carlsen, the champion, and Ian Nepomniachtchi, the challenger, resume their 14-game world title match in Dubai on Friday (12.30pm start) with the score 2.5-2.5 after five straight draws, which represents a small but significant success so far for the 31-year-old Russian underdog. The next trio of games this weekend, with two Whites for the Norwegian, are critical if Carlsen is to regain momentum, because the following two rest days before games nine and 11 will precede Whites for Nepomniachtchi. Additionally, some observers ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/dec/03/chess-carlsen-and-nepomniachtchi-face-weekend-crunch-games-in-dubai",
+         "pubDate" : "Fri, 03 Dec 2021 08:00:35 +0000",
+         "title" : "Chess: Carlsen and Nepomniachtchi face weekend crunch games in Dubai"
+      },
+      {
+         "description" : "World Champion Magnus Carlsen is currently playing in Dubai to defend his title, but in this episode of \"Svitlana's Smart Moves\" we will talk about another World Champion: Garry Kasparov, Svitlana's favourite player. With two fine games by Kasparov - against Anand and against Bareev - Svitlana shows us why good old gambits are still a powerful weapon in modern chess, and why activity is often more important than material.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-22",
+         "pubDate" : "Fri, 03 Dec 2021 09:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Kasparov's feeling for dynamic play"
+      },
+      {
          "description" : "GM Nihal Sarin beat GM Richard Rapport by a score of 18-9 in the first quarterfinal match of the 2021 Speed Chess Championship Main Event.&#38;nbsp;On Monday, December 6 we will have a doubleheader as GM Ding Liren will face GM Levon Aronian at 6:00 a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2018,14 +2034,6 @@ news_feed (
          "title" : "European Team Chess Championship 2021 - R5 report"
       },
       {
-         "description" : "Going into the rest day at the European Team Championships, six nations are sharing the lead on 8/10 match points in the open section, with the Netherlands, Ukraine and Armenia the latest to join the leading pack. Meanwhile, in the women's section, Russia now have a 2-point lead over Georgia and an over-performing Greek team. | Photos: ECU Press",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2021-r5",
-         "pubDate" : "Wed, 17 Nov 2021 07:15:00 +0100",
-         "title" : "Euro Teams: Six co-leaders, Gledura and Firouzja keep on winning"
-      },
-      {
          "description" : "GM Dmitry Andreikin took home an outright and undefeated Titled Tuesday victory on November 16, scoring 10/11. GM Anton Demchenko finished in sole second, a half-point behind, with 9.5/11. In a three-way tie with a 9/11 score, GM Jeffery Xiong and...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2176,14 +2184,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/vikings-2021.html",
          "pubDate" : "Fri, 12 Nov 2021 08:57:00 +0000",
          "title" : "Vikings 2021"
-      },
-      {
-         "description" : " The Iran-born 18-year-old, who now represents France, is the third youngest Candidate after Magnus Carlsen and Bobby Fischer and has Garry Kasparov's 1985 record in his sights Alireza Firouzja, the Iran-born 18-year-old who emigrated to France due to Tehran's punishments for playing Israeli opponents, has become the third youngest Candidate in chess history, with a chance of a glittering prize, the youngest ever world champion. Firouzja scored 8/11 in the Grand Swiss in Riga to earn a place in the eight-player 2022 Candidates, whose winner will play for the global crown later next year. He reached his target two months younger than Boris Spassky at Gothenburg 1955, and is the third youngest",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/nov/12/chess-teenager-alireza-firouzja-aiming-to-be-youngest-ever-world-champion",
-         "pubDate" : "Fri, 12 Nov 2021 08:00:30 +0000",
-         "title" : "Chess: Teenager Alireza Firouzja aiming to be youngest ever world champion"
       }
    ]
 }
