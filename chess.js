@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, White has a strong passed pawn on c7 that should help him to win the game. But first White has to take care that Black's rook on b1 does not run havoc. How would you continue with White?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-powerful-passed-pawn",
+         "pubDate" : "Sat, 04 Dec 2021 09:00:00 +0100",
+         "title" : "A powerful passed pawn"
+      },
+      {
+         "description" : "Carlsen now leads Ian Nepomniachtchi 3.5 - 2.5 at the 2021 FIDE World Chess Championships in Dubai.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32783274/magnus-carlsen-wins-longest-world-chess-championship-game-ever-advantage-ian-nepomniachtchi?device=featurephone",
+         "pubDate" : "Sat, 4 Dec 2021 02:07:29 -0500",
+         "title" : "Magnus Carlsen wins longest world championship game ever to seize advantage"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://e.givesmart.com/events/nxu/\">https://e.givesmart.com/events/nxu/</a> Join the Saint Louis Chess Club and World Chess Hall of Fame for the 5th Annual Strategy Across the Board gala on Saturday, December 4, 2021 at the Chase Park Plaza, a Royal Sonesta Hotel for an evening of celebrating chess in Saint Louis and around the world. 8:00 p.m. Intimate Evening Program with Co-Hosts Amy Marxkors &amp; Debbie Monterrey<br /> 8:00 p.m. Silent Auction Closes<br /> 8:30 p.m. Live Auction with Rene Knott </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-f",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2021-strategy-across-board-gala",
+         "pubDate" : "Sat, 04 Dec 2021 04:11:09 +0000",
+         "title" : "2021 Strategy Across the Board: The Gala"
+      },
+      {
          "description" : "The seventh game of the 2021 FIDE World Chess Championship will be an extremely important game, with the players returning to the board after the first decisive game. This game also marks the halfway point of the match, with GM Magnus Carlsen lead...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1666,14 +1690,6 @@ news_feed (
          "title" : "12th London Chess Classic 2021 - Games and Results"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko continues his series on the Scotch Game or Scotch Opening. Learn Black&#039;s Nf6 response to the Scotch Gambit and the Nakhmanson Gambit. Originally on Twitch. 2021.09.27<br /> C44 Scotch gambit, Dubois-Reti defence<br /> C56 Two knights defence </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shot-scotch-3-scotch-gambit-dubois-reti-nakhmanson-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_im",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shot-scotch-3-scotch-gambit-dubois-reti-nakhmanson-chess-openings-explained",
-         "pubDate" : "Mon, 22 Nov 2021 03:56:42 +0000",
-         "title" : "A Shot of Scotch #3: Scotch Gambit, Dubois-Reti & Nakhmanson | Chess Openings Explained"
-      },
-      {
          "description" : "Thanks to a final-round victory over Armenia, Ukraine got their first gold medals at the open section of the European Team Championships. France came second after beating Azerbaijan, with Alireza Firouzja beating Shakhriyar Mamedyarov to climb to second place in the world ranking and become the youngest ever player to cross the 2800-rating barrier. Poland finished in third place. | Photos: ECU Press",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1960,14 +1976,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/clinical-arjun-erigaisi-clinches-kolkata-rapid-chess-title/articleshow/87805078.cms",
          "pubDate" : "Fri, 19 Nov 2021 21:36:45 +0530",
          "title" : "Clinical Arjun Erigaisi clinches Kolkata rapid chess title"
-      },
-      {
-         "description" : "The internet tries to sabotage the show, but we pull through and succeed! Lawrence found some very juicy tactics today, and it doesn't get easier, once we move over to our ChessBase training app. But finding the right solution after all those calculations is truly satisfying. The question is, are you good enough to find the correct moves?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-5",
-         "pubDate" : "Fri, 19 Nov 2021 17:00:00 +0100",
-         "title" : "Trent's Tactics - Solving tough cookies!"
       },
       {
          "description" : "Round 7 Fair to say, round 7 was probably the most intensely fought round of the tournament thus far. Sitting pretty on top of the",
