@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Schedule &#38; Regulation National Arbiter (NA) Seminar The National Arbiter seminar is a training session for Arbiters of National level (NA) . NA Seminar Duration",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-arbiters-training-batch-3/",
+         "pubDate" : "Sat, 04 Dec 2021 15:55:15 +0000",
+         "title" : "National Arbiters Training : Batch 3"
+      },
+      {
+         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 6 Match Score: 3&frac12;-2&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 6 Friday, 3 December 2021 Titanic struggle breaks drought set records Today&#39;s #CarlsenNepo Game 6 was instructive for so many reasons. I&#39;m not sure sponsors will understand how thrilling this record-breaking game was, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/04/2021-world-chess-championship-game-6/\">2021 World Chess Championship: Game #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/12/04/2021-world-chess-championship-game-6/",
+         "pubDate" : "Sat, 04 Dec 2021 15:13:23 +0000",
+         "title" : "2021 World Chess Championship: Game #6"
+      },
+      {
+         "description" : " <p class=\"lead\">The seventh game of the World Chess Championship ended with a draw. After 7 games, the score is 4-3 in Magnus' favour. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2047\" data-ratio=\"1.4996336996337\"> <img src=\"https://worldchess.com/news/pictures/51723551171_6946477618_k-min.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51723550081_57857ce784_k-min.jpg\" width=\"1638\" height=\"2047\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51722695690_ca10f7151b_k-min.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51723800198_431c56b049_k-min.jpg\" width=\"1638\" height=\"2047\" al",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-championship-game-7-nepo-didnt-bounce-back/",
+         "pubDate" : "Sat, 04 Dec 2021 15:12:58 +0000",
+         "title" : "World Chess Championship Game 7: Nepo didn't bounce back"
+      },
+      {
          "description" : "\"The mind is inured to caution, foresight and circumspection&hellip;\" Dr Samuel Johnson, from his introduction to William Payne's 1756 Treatise on the Game of Draughts. My inspiration for this week's title is taken from Harold Macmillan's famous \"Wind of Change\" speech, delivered at Accra, Ghana on January 10, 1960. It may seem perverse to focus on []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -58,7 +82,7 @@ news_feed (
          "title" : "The Carlsen years (4): Twelve draws"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/pLBc0kVzaD0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/pLBc0kVzaD0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> World Chess Championship Stream Live from Dubai ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-7-of-the-match/",
@@ -90,12 +114,12 @@ news_feed (
          "title" : "2021 Strategy Across the Board: The Gala"
       },
       {
-         "description" : "Our coverage of game seven of the 2021 FIDE World Chess Championship is underway! This is an extremely important clash, with the players returning to the board after the first decisive game. The game also marks the halfway point of the match, with...",
+         "description" : "Game 7 of the 2021 FIDE World Championship ended in a draw after very little fanfare. It was not surprising, coming a day after the decisive and record-setting 136-move game six. However, Nepomniachtchi did seem to have some chances in the anti-Ma...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-7",
          "pubDate" : "Fri, 03 Dec 2021 18:15:00 -0800",
-         "title" : "LIVE: FIDE World Chess Championship Game 7 Nepo - Carlsen"
+         "title" : "Confident Carlsen Equalizes Easily In FIDE World Chess Championship Game 7"
       },
       {
          "description" : " Here is the publishers blurb from the rear cover : &#8220;Ian Nepomniachtchi, challenger to Magnus Carlsen's World Championship title in 2021, is an outstanding chess talent. &#8220;Nepo&#8221; as he is universally known is a fascinating player and this book assesses his career and analyses his original and creative style in great depth with numerous deeply <a href=\"http://britishchessnews.com/2021/12/04/nepomniachtchi-move-by-move/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Nepomniachtchi Move by Move</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/04/nepomniachtchi-move-by-move/\">Nepomniachtchi",
@@ -178,7 +202,7 @@ news_feed (
          "title" : "Velammal Nexus wins Dubai 2020 World School Tournament"
       },
       {
-         "description" : " Share!5 FIDE President Arkady Dvorkovich &#038; Orrin Hudson @ FIDE World Chess Championships in Dubai UAE. Photo courtesy of Orrin Hudson Orrin Hudson of Besomeone, Inc. has been known for his energetic methods in presenting chess as a means of learning critical life skills. Hudson is also a world traveler and most recently visited the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/03/orrin-hudson-in-dubai-for-world-championship/\">Orrin Hudson in Dubai for World Championship</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " FIDE President Arkady Dvorkovich &#038; Orrin Hudson @ FIDE World Chess Championships in Dubai UAE. Photo courtesy of Orrin Hudson Orrin Hudson of Besomeone, Inc. has been known for his energetic methods in presenting chess as a means of learning critical life skills. Hudson is also a world traveler and most recently visited the FIDE [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/03/orrin-hudson-in-dubai-for-world-championship/\">Orrin Hudson in Dubai for World Championship</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/03/orrin-hudson-in-dubai-for-world-championship/",
@@ -1050,14 +1074,6 @@ news_feed (
          "title" : "Sagar and Amruta in Dubai: Day 2 impressions"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/S1sKmw2evjU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> World Chess Championship Stream Live from Dubai ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-2-of-the-match/",
-         "pubDate" : "Sat, 27 Nov 2021 12:22:10 +0000",
-         "title" : "Time To Say Dubai: Round 2 of the Match"
-      },
-      {
          "description" : "\"That with the Mightiest raised me to contend, And to the fierce contention brought along‚Å Innumerable force of Spirits armed, That durst dislike his reign, and, me preferring, His utmost power with adverse power opposed, In dubious battel on the plains of Heaven, And shook his throne.&#8221; -John Milton, Paradise Lost Dubai is the venue []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1282,7 +1298,7 @@ news_feed (
          "title" : "Can Nepo win chess war against Magnus Carlsen?"
       },
       {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 1 3&frac12; Caruana &frac12; &frac12; &frac12; &frac12; &frac12; 0 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 1 &frac12; 4 Caruana &frac12; &frac12; &frac12; &frac12; &frac12; 0 &frac12; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/",
@@ -2000,14 +2016,6 @@ news_feed (
          "link" : "https://aicf.in/arjun-erigaisi-wins-tata-steel-chess-india-rapid-2021-day-3-report/",
          "pubDate" : "Fri, 19 Nov 2021 15:24:23 +0000",
          "title" : "Arjun Erigaisi Wins Tata Steel Chess India Rapid 2021 ; Day 3 Report"
-      },
-      {
-         "description" : "Grandmaster Praveen Thipsay, International Masters Sharad Tilak, Neeraj Mishra and International Arbiter RS Tiwari visited AICF Office. During their visit birthday of Shri RS Tiwari",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/birthday-of-im-neeraj-mishra-ia-rs-tiwari-celebrated/",
-         "pubDate" : "Fri, 19 Nov 2021 14:21:58 +0000",
-         "title" : "Birthday of IM Neeraj Mishra & IA RS Tiwari Celebrated"
       },
       {
          "description" : " The time has come to put everything we have looked at over the last two or three months together. While it seems like a lot to cover in a single article, I'm gong to present a simple method for employing the most important of these concepts into your middle-game transition into the endgame. I spent <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-two/\">A Foundation for Beginners Forty Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\"",
