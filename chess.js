@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"The mind is inured to caution, foresight and circumspection&hellip;\" Dr Samuel Johnson, from his introduction to William Payne's 1756 Treatise on the Game of Draughts. My inspiration for this week's title is taken from Harold Macmillan's famous \"Wind of Change\" speech, delivered at Accra, Ghana on January 10, 1960. It may seem perverse to focus on []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/draught-of-change/",
+         "pubDate" : "Sat, 04 Dec 2021 12:39:42 +0000",
+         "title" : "Draught of Change"
+      },
+      {
+         "description" : " Late last night (my time), I predicted that Game 6 of the World Championship would end in a draw. I'm glad to say that I got that prediction wrong! In the longest World Championship game ever, Carlsen keep grinding away until he finally found a win in a tricky Q v stuff ending (where Carlsen had the stuff). I'm not going to post the game as there are plenty of other places to see it, but now that one player has taken the lead, the next few games should see both players pushing for a little more out of the opening. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/happy-to-get-that-prediction-wrong.html",
+         "pubDate" : "Sat, 04 Dec 2021 12:30:00 +0000",
+         "title" : "Happy to get that prediction wrong"
+      },
+      {
          "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. In a marathon game, Magnus Carlsen grabbed the lead in Friday's sixth game. It was the longest game in World Championship history! | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
