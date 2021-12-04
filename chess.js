@@ -2,7 +2,47 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " <p class=\"lead\">The sixth game of the World Chess Championship taking place in Dubai ended after 136 moves. It was the longest game in the history of World Chess Championship. Reigning champion Magnus Carlsen started with d4 with the white pieces, initiating the second Catalan of the match and won the game. After 6 games the score is 3.5-2.5. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51721511991_11418a5a54_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51720702002_ebddd210f4_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldche",
+         "description" : " Here is the publishers blurb from the rear cover : &#8220;Ian Nepomniachtchi, challenger to Magnus Carlsen's World Championship title in 2021, is an outstanding chess talent. &#8220;Nepo&#8221; as he is universally known is a fascinating player and this book assesses his career and analyses his original and creative style in great depth with numerous deeply <a href=\"http://britishchessnews.com/2021/12/04/nepomniachtchi-move-by-move/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Nepomniachtchi Move by Move</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/04/nepomniachtchi-move-by-move/\">Nepomniachtchi",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/12/04/nepomniachtchi-move-by-move/",
+         "pubDate" : "Sat, 04 Dec 2021 00:10:50 +0000",
+         "title" : "Nepomniachtchi Move by Move"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1463",
+         "pubDate" : "Fri, 03 Dec 2021 22:35:05 +0000",
+         "title" : "FIDE Chessable camp: Time to say goodbye"
+      },
+      {
+         "description" : "In what will surely be remembered as a highlight of World Chess Championship history, Magnus Carlsen defeated Ian Nepomniachtchi in a 136-move marathon which included missed chances, deep time trouble and a number of subtle manoeuvres worthy of a combat for the highest prize in the world of competitive chess. Find here the fantastic encounter annotated by super-GM and elite analyst Anish Giri. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-g6",
+         "pubDate" : "Fri, 03 Dec 2021 23:20:00 +0100",
+         "title" : "World Championship Game 6: Carlsen wins marathon"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1462",
+         "pubDate" : "Fri, 03 Dec 2021 21:58:31 +0000",
+         "title" : "FIDE World Championship Dubai 20221: Are we there yet?"
+      },
+      {
+         "description" : " There is no mercy rule in chess, and game 6 of the World Chess Championship match in Dubai lasted a record 136 moves and almost 8 hours, going well into the next day. Carlsen won, but now both players have to race to their hotels and try to recover before game 7, which will take place on the very same day when game 6 ended. It's a first for the Championship matches. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/40E4FE48-1324-40BB-8BED-94DEF444ADB9.jpeg\" width=\"1800\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: David Lliada, FIDE</div> </div> The sheer amount of stress in this chess marathon is phenomenal and the match probably moved from a game ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nepo-lost-whats-next/",
+         "pubDate" : "Fri, 03 Dec 2021 21:20:47 +0000",
+         "title" : "Nepo Lost. What's Next?"
+      },
+      {
+         "description" : " <p class=\"lead\">The sixth game of the World Chess Championship taking place in Dubai ended after 136 moves. It was the longest game in the history of the World Chess Championships. Reigning World Champion Magnus Carlsen started game 6 with 1. d4, initiating the second Catalan of the match. After a fascinating game, where both players had winning chances, the two GMs found themselves in a chaotic endgame with two rooks for white against a Queen for black. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51721511991_11418a5a54_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldche",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/world-chess-championship-game-6-satisfied-its-a-draw-again/",
@@ -10,12 +50,20 @@ news_feed (
          "title" : "World Chess Championship Game 6: Magnus won!"
       },
       {
-         "description" : " Game 6 of the World Championship 2021 in Dubai is still going after 7 hours of intense fighting. The defending World Champion, Magnus Carlsen and the Challenger Ian Nepomniachtchi are giving the fight of their lives and just a while ago they reached move 125. This is officially the longest World Chess Championship game in history, beating the 124-move Game 5 of the 1978 Karpov-Korchnoi match! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51720702002_ebddd210f4_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Eric Rosen</div> </div> Let's see what will happen today in Dubai. Anyway, it's already another day 😉 Stay tuned. ",
+         "description" : " <p class=\"lead\">Game 6 of the World Championship 2021 in Dubai is still going after 7 hours of intense fighting. The defending World Champion, Magnus Carlsen and the Challenger Ian Nepomniachtchi are giving the fight of their lives and just a while ago they reached move 125. This is officially the longest World Chess Championship game in history, beating the 124-move Game 5 of the 1978 Karpov-Korchnoi match! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51722695690_ca10f7151b_k-min.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Niki Riga</div> </div> After 136 moves and 7 hours 45 minutes the game ended in a resounding win for ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/record-breaking-the-longest-world-chess-championship-game-in-his/",
          "pubDate" : "Fri, 03 Dec 2021 20:17:03 +0000",
          "title" : "Record: The longest World Chess Championship Game in History"
+      },
+      {
+         "description" : " Magnus Carlsen has taken the lead in the FIDE World Chess Championship by beating his challenger Ian Nepomniachtchi in a record breaking 136 move victory. Both players had winning chances in time trouble on the run up to move 40 but after that it was a master class from Carlsen on how to make the most of your chances. Carlsen deliberately extended the game to put maximum pressure on his opponent when he truly went for victory. Nepomniachtchi defended well and although his decisive error came on move 130 his task was extremely hard and if he hadn't blundered there he could easily have done so later. Carlsen with the white pieces switched openings to a Catalan with a delayed c4 and Nepomniach",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/carlsen-takes-the-lead-in-world-championship-following-a-record-breaking-game-6",
+         "pubDate" : "Fri, 3 Dec 2021 23:39:00 +0400",
+         "title" : "Carlsen takes the lead in World Championship following a record breaking game 6 - 6"
       },
       {
          "description" : "In this week's show, GM Daniel King looks at games from Viktor Kupreichik (3 July 1949 - 22 May 2017), a brillant and imaginative attacking player who was never afraid to sacrifice. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -82,6 +130,14 @@ news_feed (
          "title" : "RIP Jonathan Penrose"
       },
       {
+         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. In a marathon game, Magnus Carlsen grabbed the lead in Friday's sixth game. It was the longest game in World Championship history! | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Anastasiya Karlovich",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
+         "pubDate" : "Fri, 03 Dec 2021 14:05:00 +0100",
+         "title" : "Carlsen vs. Nepomniachtchi - Games and commentary"
+      },
+      {
          "description" : "Videos: Scandinavian expert Christian Bauer presents clever move orders in the system with 3...Qa5. And Mihail Marin analyses the Deac-L. van Foreest from the European Team Championship and shows that there's always room for new ideas in the Catalan! Peter Heine Nielsen, Carlsen's second, annotates \"The brilliancy\" Carlsen-Duda from the final of the Meltwater Tour. Moreover, 25 games with detailed annotations await you in the \"Lucky bag\", including analyses by Anish Giri, Romain Edouard, Michal Krasenkow et al. ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. Available as a single issue or by subscription (6 issues per year). Available on DVD or as a download.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -96,14 +152,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/the-fickle-finger-of-fashion.html",
          "pubDate" : "Fri, 03 Dec 2021 12:49:00 +0000",
          "title" : "The fickle finger of fashion"
-      },
-      {
-         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. Ian Nepomniachtchi has black for a third time after successfully neutralizing Magnus Carlsen's attempts to surprise him in the previous encounters of the match. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Anastasiya Karlovich",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
-         "pubDate" : "Fri, 03 Dec 2021 13:00:00 +0100",
-         "title" : "Carlsen vs. Nepomniachtchi - Game 6 Live!"
       },
       {
          "description" : "How to checkmate a king with a knight and bishop was clear to most! There were also many answers that knew the \"W\" motif of the knight. You surely know your endgames! Solution B. Lh7 was correct. Should Carlsen and Nepomniachtchi think a little longer about their moves today, it is worthwhile to take a closer look at the somewhat more demanding third door. Quite a difficult task for a change!",
@@ -146,12 +194,12 @@ news_feed (
          "title" : "Time To Say Dubai: Round 6 of the Match"
       },
       {
-         "description" : " The world title match is level at 2.5-2.5 after five draws but Carlsen has the favourable white pieces in two of the next three as he tries to break the deadlock Magnus Carlsen, the champion, and Ian Nepomniachtchi, the challenger, resume their 14-game world title match in Dubai on Friday (12.30pm start) with the score 2.5-2.5 after five straight draws, which represents a small but significant success so far for the 31-year-old Russian underdog. The next trio of games this weekend, with two Whites for the Norwegian, are critical if Carlsen is to regain momentum, because the following two rest days before games nine and 11 will precede Whites for Nepomniachtchi. Additionally, some observers ",
+         "description" : " Champion grinds down challenger Nepomniachtchi in trademark style as the Norwegian's rook, knight and two pawns defeat the Russian's queen Magnus Carlsen, the world champion, finally broke the tough resistance of his Russian challenger Ian Nepomniachtchi on Friday night as the marathon sixth round of their 14-game title match in Dubai ended with victory for the Norwegian after 136 moves. The endgame battle, where Carlsen's rook, knight and pawn gradually outmanoeuvered his opponent's lone queen, was the longest game in world championship history, surpassing the 124-move draw between Anatoly Karpov and Viktor Korchnoi at the \"Battle of Baguio\" in the Philippines in 1978. Carlsen's victory to",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2021/dec/03/chess-carlsen-and-nepomniachtchi-face-weekend-crunch-games-in-dubai",
          "pubDate" : "Fri, 03 Dec 2021 08:00:35 +0000",
-         "title" : "Chess: Carlsen and Nepomniachtchi face weekend crunch games in Dubai"
+         "title" : "Chess: Carlsen takes lead as 136-move record length game breaks deadlock"
       },
       {
          "description" : "World Champion Magnus Carlsen is currently playing in Dubai to defend his title, but in this episode of \"Svitlana's Smart Moves\" we will talk about another World Champion: Garry Kasparov, Svitlana's favourite player. With two fine games by Kasparov - against Anand and against Bareev - Svitlana shows us why good old gambits are still a powerful weapon in modern chess, and why activity is often more important than material.",
@@ -160,6 +208,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-22",
          "pubDate" : "Fri, 03 Dec 2021 09:00:00 +0100",
          "title" : "Svitlana's Smart Moves - Kasparov's feeling for dynamic play"
+      },
+      {
+         "description" : " From the publisher's blurb: &#8220;In reviews of the author's books, Grandmaster Matthew Sadler wrote in New In Chess about David LeMoir's writing \" always either entertaining or instructive\", and Grandmaster Jonathan Rowson (in the English Chess Federation's Newsletter) wrote \"I like LeMoir's writing style a lot!\". David LeMoir has written three popular and highly acclaimed <a href=\"http://britishchessnews.com/2021/12/03/chess-scribe-a-fifty-year-anthology/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess Scribe: A Fifty Year Anthology</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/03/chess-scr",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/12/03/chess-scribe-a-fifty-year-anthology/",
+         "pubDate" : "Fri, 03 Dec 2021 00:10:21 +0000",
+         "title" : "Chess Scribe: A Fifty Year Anthology"
       },
       {
          "description" : "GM Nihal Sarin beat GM Richard Rapport by a score of 18-9 in the first quarterfinal match of the 2021 Speed Chess Championship Main Event.&#38;nbsp;On Monday, December 6 we will have a doubleheader as GM Ding Liren will face GM Levon Aronian at 6:00 a...",
@@ -290,20 +346,12 @@ news_feed (
          "title" : "Jerry Nash appointed as EDU secretary"
       },
       {
-         "description" : " Here is the publishers blurb from the rear cover : &#8220;Ian Nepomniachtchi, challenger to Magnus Carlsen's World Championship title in 2021, is an outstanding chess talent. &#8220;Nepo&#8221; as he is universally known is a fascinating player and this book assesses his career and analyses his original and creative style in great depth with numerous deeply <a href=\"http://britishchessnews.com/2021/12/02/nepomniachtchi-move-by-move/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Nepomniachtchi Move by Move</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/02/nepomniachtchi-move-by-move/\">Nepomniachtchi",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/12/02/nepomniachtchi-move-by-move/",
-         "pubDate" : "Thu, 02 Dec 2021 00:10:50 +0000",
-         "title" : "Nepomniachtchi Move by Move"
-      },
-      {
-         "description" : "The first victory of the 2021 FIDE World Championship happened in game 6 after GM Magnus Carlsen defeated GM Ian Nepomniachtchi in a record 136 moves. Carlsen&#39;s victory came after the world champion exchanged a queen for two rooks, provoking a lon...",
+         "description" : "GM Magnus Carlsen defeated GM Ian Nepomniachtchi in a record 136 moves in game six to score the first win of the 2021 FIDE World Chess Championship. The world champion&#39;s victory came after five draws in the championship that has a &#38;euro;2 million ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-6",
          "pubDate" : "Wed, 01 Dec 2021 14:26:00 -0800",
-         "title" : "BREAKING: Carlsen Wins Longest World Chess Championship Game Of All Time"
+         "title" : "BREAKING: Carlsen Wins Game 6, Longest World Chess Championship Game Of All Time"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ad7f4a5b-5e19-4909-a5ce-56254eb78a6e/Mike4.jpg\" data-image-dimensions=\"512x249\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61a7ec86e35434408ee520e0\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ad7f4a5b-5e19-4909-a5ce-56254eb78a6e/Mike4.jpg?format=1000w\" /> </figure> <p class=\"\">Do we look concerned about these draws? <p class=\"\">After 5 rounds, it is still all draws! FM Mike Klein of Chess.com joins me to quickly recap the games, to track the ongoing stor",
@@ -1170,7 +1218,7 @@ news_feed (
          "title" : "Can Nepo win chess war against Magnus Carlsen?"
       },
       {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 2&frac12; Caruana &frac12; &frac12; &frac12; &frac12; &frac12; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 1 3&frac12; Caruana &frac12; &frac12; &frac12; &frac12; &frac12; 0 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/",
@@ -1208,14 +1256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/carlsen-vs-nepomniachtchi-enjoy-what-you-do",
          "pubDate" : "Thu, 25 Nov 2021 17:39:07 +0100",
          "title" : "Carlsen vs Nepomniachtchi: \"Enjoy what you do!\""
-      },
-      {
-         "description" : " <p class=\"lead\">Russia's No.1 and 2021 Challenger, Ian Nepomniachtchi talked gave his pre-match newspaper interview to Sean Ingle of <a href=\"https://www.theguardian.com/sport/2021/nov/25/will-nepo-supercomputer-give-him-world-chess-title-edge-over-carlsen\">the Guardian</a>. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51701746511_d0bffc3ebf_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen</div> </div> According to the Guaridan, it would count as one of the more seismic shocks in modern chess history if Magnus Carlsen were to lose his world title over Ian Nepomniachtchi. However, Nepo is viewed as a worthy challen",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nepo-on-guardian-i-was-maybe-the-least-hard-working-person-out-o/",
-         "pubDate" : "Thu, 25 Nov 2021 16:04:45 +0000",
-         "title" : "Nepo in The Guardian \"I was maybe the least hard working person out of the world's top 20\""
       },
       {
          "description" : " The FIDE World Chess Championship takes place in Dubai, UAE, 24th November (opening ceremony - game 1 on 26th Nov) until 16th December. The match is between World Champion Magnus Carlsen and his Challenger Ian Nepomniachtchi. The match will be over 14 games rather than the recent 12 and uses an accelerated schedule to accommodate this - a final day of rapid and blitz tie-breaks will take place on 15th December in the event of a 7-7 tie. Nepomniachtchi will not compete under the Russian flag due to WADA sporting sanctions against Russia because of their state sponsored doping program. Both players were born in 1990 - Nepomniachtchi is the slightly older - born 14th July - Carlsen will have h",
@@ -1968,14 +2008,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/nov/19/chess-magnus-carlsen-and-ian-nepomniachtchi-face-off-for-2m-in-dubai",
          "pubDate" : "Fri, 19 Nov 2021 08:00:29 +0000",
          "title" : "Chess: Magnus Carlsen and Ian Nepomniachtchi face off for $2m in Dubai"
-      },
-      {
-         "description" : "It was not Arjun's birthday, but given the way he played, it can easily be called 'The Arjun Erigaisi day', as he scored a hat-trick, gained sole lead and beat former US champion Sam Shankland in just 19 moves. This just shows his preparation, strength and consistency. He is now a full point ahead of his competition on 5.0/6. Praggnanandhaa and Aronian are at 4.0/6 each. He will face Adhiban, Vidit and Aronian in the final three games tomorrow. Arjun vs. Aronian is something everyone is waiting for with bated breath. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2021-day-2",
-         "pubDate" : "Fri, 19 Nov 2021 06:25:00 +0100",
-         "title" : "Tata Steel Chess Rapid R4-6: The Arjun Erigaisi day"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/cb3198eb-3a08-4677-9620-146d0d71d514/King2.jpg\" data-image-dimensions=\"350x461\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61971f83bcaff666d86ebfdd\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/cb3198eb-3a08-4677-9620-146d0d71d514/King2.jpg?format=1000w\" /> </figure> <p class=\"\">Photo by <a href=\"https://www.chessphotoshop.com\">Lennart Ootes</a>, courtesy of GM Daniel King<br><br> <p class=\"\">Grandmaster Daniel King is a popular Commentator, Author, YouTub",
