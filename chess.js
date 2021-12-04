@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1464",
+         "pubDate" : "Sat, 04 Dec 2021 18:41:25 +0000",
+         "title" : "FIDE World Championship Dubai 2021: Back to the grind"
+      },
+      {
+         "description" : "After a gruelling fight on Friday, Magnus Carlsen and Ian Nepomniachtchi played a rather uneventful game at the World Championship match in Dubai. The 41-move draw they signed marks the halfway point of the event, as Nepo now has seven games tu surmount the one-point deficit on the scoreboard. Saturday's encounter was analysed by Dutch star Anish Giri. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-g7",
+         "pubDate" : "Sat, 04 Dec 2021 18:00:00 +0100",
+         "title" : "World Championship Game 7: A quiet draw"
+      },
+      {
+         "description" : "Carlsen now leads Ian Nepomniachtchi 3.5 - 2.5 at the 2021 FIDE World Chess Championships in Dubai.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32783274/magnus-carlsen-wins-longest-world-chess-championship-game-ever-advantage-ian-nepomniachtchi?device=featurephone",
+         "pubDate" : "Sat, 4 Dec 2021 11:32:41 -0500",
+         "title" : "Magnus Carlsen wins longest world championship game ever to seize advantage"
+      },
+      {
          "description" : "Schedule &#38; Regulation National Arbiter (NA) Seminar The National Arbiter seminar is a training session for Arbiters of National level (NA) . NA Seminar Duration",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/national-arbiters-training-batch-3/",
          "pubDate" : "Sat, 04 Dec 2021 15:55:15 +0000",
          "title" : "National Arbiters Training : Batch 3"
+      },
+      {
+         "description" : " The seventh game of the FIDE World Chess Championship in Dubai between Ian Nepomniachtchi - today with the white pieces - and Magnus Carlsen finished in a fairly uneventful draw. After the marathon game six it perhaps wasn't such a surprise. This leaves Carlsen leading 4-3 with half the match gone. Nepomniachtchi continued to hammer away at Carlsen's solid Ruy Lopez and again he chose 8.a4 in response to which Carlsen repeated the move 8...Rb8 he played in game 5. 11.d3 was Nepomniachtchi's new try but after the game he implied that his team hadn't found much anywhere to test Rb8. The game saw two key decisions for Nepomniachtchi: Firstly 14.Nxf6+ - played after 13 minutes thought - which e",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/quiet-draw-in-game-seven-of-the-world-chess-championship",
+         "pubDate" : "Sat, 4 Dec 2021 19:23:00 +0400",
+         "title" : "Quiet draw in game seven of the World Chess Championship - 7"
       },
       {
          "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 6 Match Score: 3&frac12;-2&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 6 Friday, 3 December 2021 Titanic struggle breaks drought set records Today&#39;s #CarlsenNepo Game 6 was instructive for so many reasons. I&#39;m not sure sponsors will understand how thrilling this record-breaking game was, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/04/2021-world-chess-championship-game-6/\">2021 World Chess Championship: Game #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original ",
@@ -42,14 +74,6 @@ news_feed (
          "title" : "Happy to get that prediction wrong"
       },
       {
-         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. In a marathon game, Magnus Carlsen grabbed the lead in Friday's sixth game. It was the longest game in World Championship history! | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
-         "pubDate" : "Sat, 04 Dec 2021 13:00:00 +0100",
-         "title" : "Carlsen vs. Nepomniachtchi - Game 7 Live!"
-      },
-      {
          "description" : " <p class=\"lead\">After the longest game in world championship history Magnus and Ian responded to questions from the media representatives. <h2>Magnus Carlsen said \"Yes\"!</h2> <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/3pr9PjOJ_i0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">At the after-match press conference Magnus commented that it was an extra pleasure to win after such a long time.</div> </div> <h2>Magnus Carlsen commented on the different time control and time troubles during the Game 6.</h2> <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/1aWSdwNAntk?enablejsapi=1\" allow=\"autop",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -82,6 +106,14 @@ news_feed (
          "title" : "The Carlsen years (4): Twelve draws"
       },
       {
+         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. In a marathon game, Magnus Carlsen grabbed the lead in Friday's sixth game. A rather uneventful 41-move draw followed. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
+         "pubDate" : "Sat, 04 Dec 2021 10:50:00 +0100",
+         "title" : "Carlsen vs. Nepomniachtchi - Games and commentary"
+      },
+      {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/pLBc0kVzaD0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> World Chess Championship Stream Live from Dubai ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -98,14 +130,6 @@ news_feed (
          "title" : "A powerful passed pawn"
       },
       {
-         "description" : "Carlsen now leads Ian Nepomniachtchi 3.5 - 2.5 at the 2021 FIDE World Chess Championships in Dubai.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32783274/magnus-carlsen-wins-longest-world-chess-championship-game-ever-advantage-ian-nepomniachtchi?device=featurephone",
-         "pubDate" : "Sat, 4 Dec 2021 02:07:29 -0500",
-         "title" : "Magnus Carlsen wins longest world championship game ever to seize advantage"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> <a href=\"https://e.givesmart.com/events/nxu/\">https://e.givesmart.com/events/nxu/</a> Join the Saint Louis Chess Club and World Chess Hall of Fame for the 5th Annual Strategy Across the Board gala on Saturday, December 4, 2021 at the Chase Park Plaza, a Royal Sonesta Hotel for an evening of celebrating chess in Saint Louis and around the world. 8:00 p.m. Intimate Evening Program with Co-Hosts Amy Marxkors &amp; Debbie Monterrey<br /> 8:00 p.m. Silent Auction Closes<br /> 8:30 p.m. Live Auction with Rene Knott </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-f",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -114,7 +138,7 @@ news_feed (
          "title" : "2021 Strategy Across the Board: The Gala"
       },
       {
-         "description" : "Game 7 of the 2021 FIDE World Championship ended in a draw after very little fanfare. It was not surprising, coming a day after the decisive and record-setting 136-move game six. However, Nepomniachtchi did seem to have some chances in the anti-Ma...",
+         "description" : "Lasting just two and a half hours, game seven of the 2021 FIDE World Chess Championship was the fastest draw in the match so far. GM Magnus Carlsen repeated his 8...Rb8 line against GM Ian Nepomniachtchi&#39;s 8.a4 Anti-Marshall and quickly equalized ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-7",
@@ -1960,14 +1984,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-team-chess-championship-2021-r7-report/",
          "pubDate" : "Sat, 20 Nov 2021 06:49:58 +0000",
          "title" : "European Team Chess Championship 2021 - R7 Report"
-      },
-      {
-         "description" : "Azerbaijan and Ukraine are sharing the lead after seven rounds in the open section of the European Team Championships. While Azerbaijan defeated the Netherlands on Friday, Ukraine inflicted Russia's first loss of the event. The best individual performer in Slovenia, Alireza Firouzja, scored his sixth win of the tournament and is now 1.1 Elo points away from reaching the 2800 rating barrier. In the women's section, the defending champions of Russia still have a perfect score. | Photos: ECU Press",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2021-r7",
-         "pubDate" : "Sat, 20 Nov 2021 02:00:00 +0100",
-         "title" : "Euro Teams: Ukraine beat Russia, Firouzja wins again"
       },
       {
          "description" : " After quite a long wait from the first announcements until now, I finally purchased a copy of 'Humankind', which is Civilization type game that lets you develop societies from hunter gatherers to rocket scientists. I had a first play last night (which is why this post is late!) and found it enjoyable (even on my creaky old PC). Didn't do fantastically well on my first run, but I assume that is because I missed a lot of nuances in play (too many cities too quickly get penalised, for example). But like CIV VI (and Chess), the early days are usually quite difficult before the right ides and strategies become apparent. ",
