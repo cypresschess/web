@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. In a marathon game, Magnus Carlsen grabbed the lead in Friday's sixth game. It was the longest game in World Championship history! | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
+         "pubDate" : "Sat, 04 Dec 2021 13:00:00 +0100",
+         "title" : "Carlsen vs. Nepomniachtchi - Game 7 Live!"
+      },
+      {
+         "description" : " <p class=\"lead\">After the longest game in world championship history Magnus and Ian responded to questions from the media representatives. <h2>Magnus Carlsen said \"Yes\"!</h2> <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/3pr9PjOJ_i0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">At the after-match press conference Magnus commented that it was an extra pleasure to win after such a long time.</div> </div> <h2>Magnus Carlsen commented on the different time control and time troubles during the Game 6.</h2> <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/1aWSdwNAntk?enablejsapi=1\" allow=\"autop",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/satisfaction-failure-and-thoughts-on-time-control-game-6-press-c/",
+         "pubDate" : "Sat, 04 Dec 2021 11:13:09 +0000",
+         "title" : "Satisfaction, failure and thoughts on time control - Game 6 press conference"
+      },
+      {
+         "description" : "Despite the most difficult task to date, a large number of clever players were able to find the solution, C. Kc4. Karsten M&uuml;ller explains in the video exactly why only Kc4 wins and no other move. By the way - thanks for the lively participation. We have received more responses to our calendar than last year at the same time! That's wonderful! Today's example is about holding a draw, although it's with only one pawn against three pawns.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-4666",
+         "pubDate" : "Sat, 04 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 4"
+      },
+      {
+         "description" : " <p class=\"lead\">Obsessed chess fans probably noticed that come World Chess Championship, Magnus Carlsen always uses the same chess pieces, no matter who is sitting in the chair in front of him - Vishy Anand, Sergey Karjakin, Fabiano Caruana, or, as this year, Ian Nepo. Opponents change, the chess pieces stay the same. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6DEDEFB2-8977-4865-9FA4-4766478CD227.jpeg\" width=\"1800\" height=\"1201\" alt=\"\" /> <div class=\"e2-text-caption\">All set up for the 2021 World Chess Championship match in Dubai</div> </div> <h2>Design</h2> The chess set (the official name - <a href=\"https://shop.worldchess.com/\">World Chess Championship S",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/what-chess-set-is-used-in-the-world-chess-championship-match/",
+         "pubDate" : "Sat, 04 Dec 2021 10:43:31 +0000",
+         "title" : "What Chess Set Is Used In the World Chess Championship Match"
+      },
+      {
+         "description" : "Magnus Carlsen is leading the World Championship match against Ian Nepomniachtchi after scoring a memorable win. In our fourth and final instalment of Carlsen's previous matches, we look at his 2018 confrontation against Fabiano Caruana. For the first time in a match for the crown, all the classical games finished drawn. The defending champion won the rapid tiebreaks categorically though, and thus kept his title. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-carlsen-years-part-4",
+         "pubDate" : "Sat, 04 Dec 2021 11:00:00 +0100",
+         "title" : "The Carlsen years (4): Twelve draws"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/pLBc0kVzaD0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-7-of-the-match/",
+         "pubDate" : "Sat, 04 Dec 2021 09:37:11 +0000",
+         "title" : "Time To Say Dubai: Round 7 of the Match"
+      },
+      {
          "description" : "In the diagram position, White has a strong passed pawn on c7 that should help him to win the game. But first White has to take care that Black's rook on b1 does not run havoc. How would you continue with White?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +74,12 @@ news_feed (
          "title" : "2021 Strategy Across the Board: The Gala"
       },
       {
-         "description" : "The seventh game of the 2021 FIDE World Chess Championship will be an extremely important game, with the players returning to the board after the first decisive game. This game also marks the halfway point of the match, with GM Magnus Carlsen lead...",
+         "description" : "Our coverage of game seven of the 2021 FIDE World Chess Championship is underway! This is an extremely important clash, with the players returning to the board after the first decisive game. The game also marks the halfway point of the match, with...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-7",
          "pubDate" : "Fri, 03 Dec 2021 18:15:00 -0800",
-         "title" : "How To Watch The FIDE World Chess Championship Game 7: Nepo - Carlsen"
+         "title" : "LIVE: FIDE World Chess Championship Game 7 Nepo - Carlsen"
       },
       {
          "description" : " Here is the publishers blurb from the rear cover : &#8220;Ian Nepomniachtchi, challenger to Magnus Carlsen's World Championship title in 2021, is an outstanding chess talent. &#8220;Nepo&#8221; as he is universally known is a fascinating player and this book assesses his career and analyses his original and creative style in great depth with numerous deeply <a href=\"http://britishchessnews.com/2021/12/04/nepomniachtchi-move-by-move/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Nepomniachtchi Move by Move</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/04/nepomniachtchi-move-by-move/\">Nepomniachtchi",
@@ -90,7 +138,7 @@ news_feed (
          "title" : "Record: The longest World Chess Championship Game in History"
       },
       {
-         "description" : " Magnus Carlsen has taken the lead in the FIDE World Chess Championship by beating his challenger Ian Nepomniachtchi in a record breaking 136 move victory. Both players had winning chances in time trouble on the run up to move 40 but after that it was a master class from Carlsen on how to make the most of your chances. Carlsen deliberately extended the game to put maximum pressure on his opponent when he truly went for victory. Nepomniachtchi defended well and although his decisive error came on move 130 his task was extremely hard and if he hadn't blundered there he could easily have done so later. Carlsen with the white pieces switched openings to a Catalan with a delayed c4 and Nepomniach",
+         "description" : " Magnus Carlsen has taken the lead in the FIDE World Chess Championship by beating his challenger Ian Nepomniachtchi in a record breaking 136 move victory. Both players had winning chances in time trouble on the run up to move 40 but after that it was a master class from Carlsen on how to make the most of your chances. Carlsen deliberately extended the game to put maximum pressure on his opponent when he truly went for victory. Nepomniachtchi played well for long periods but mistakes on moves 31, 36, 38 and a particularly careless one on move 52 contributed to this loss. Nepomniachtchi's fatal error came as late as move 130 by that stage his task was extremely hard - especially with the fati",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/carlsen-takes-the-lead-in-world-championship-following-a-record-breaking-game-6",
@@ -160,14 +208,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/rip-jonathan-penrose/",
          "pubDate" : "Fri, 03 Dec 2021 13:32:40 +0000",
          "title" : "RIP Jonathan Penrose"
-      },
-      {
-         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. In a marathon game, Magnus Carlsen grabbed the lead in Friday's sixth game. It was the longest game in World Championship history! | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Anastasiya Karlovich",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
-         "pubDate" : "Fri, 03 Dec 2021 14:05:00 +0100",
-         "title" : "Carlsen vs. Nepomniachtchi - Games and commentary"
       },
       {
          "description" : "Videos: Scandinavian expert Christian Bauer presents clever move orders in the system with 3...Qa5. And Mihail Marin analyses the Deac-L. van Foreest from the European Team Championship and shows that there's always room for new ideas in the Catalan! Peter Heine Nielsen, Carlsen's second, annotates \"The brilliancy\" Carlsen-Duda from the final of the Meltwater Tour. Moreover, 25 games with detailed annotations await you in the \"Lucky bag\", including analyses by Anish Giri, Romain Edouard, Michal Krasenkow et al. ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. Available as a single issue or by subscription (6 issues per year). Available on DVD or as a download.",
@@ -383,7 +423,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-6",
          "pubDate" : "Wed, 01 Dec 2021 14:26:00 -0800",
-         "title" : "BREAKING: Carlsen Wins Game 6, Longest World Chess Championship Game Of All Time"
+         "title" : "Carlsen Wins Game 6, Longest World Chess Championship Game Of All Time"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ad7f4a5b-5e19-4909-a5ce-56254eb78a6e/Mike4.jpg\" data-image-dimensions=\"512x249\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61a7ec86e35434408ee520e0\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ad7f4a5b-5e19-4909-a5ce-56254eb78a6e/Mike4.jpg?format=1000w\" /> </figure> <p class=\"\">Do we look concerned about these draws? <p class=\"\">After 5 rounds, it is still all draws! FM Mike Klein of Chess.com joins me to quickly recap the games, to track the ongoing stor",
@@ -1122,14 +1162,6 @@ news_feed (
          "title" : "World Championship Game 1: Tension in the air"
       },
       {
-         "description" : " <p class=\"lead\">The first game of the World Chess Championship between Magnus Carlsen and Ian Nepomniachtchi was played today in Dubai. The game ended in a draw after 45 moves. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/51706923250_43f173151f_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51706227031_69b2ba0086_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51706831724_eb115c9de4_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photo: FIDE (Niki Riga and Eric ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-championship-the-first-game-ended-in-a-draw-after-45/",
-         "pubDate" : "Fri, 26 Nov 2021 16:49:05 +0000",
-         "title" : "World Chess Championship: the first game ended in a draw after 45 moves"
-      },
-      {
          "description" : "What do Tal, Euwe, Botvinnik, Petrosian and Alekhine have in common? They all appear on today's episode! Lawrence Trent shows us a couple of World Chess Championship games, of the earlier mentioned Grandmasters. We also advance to a 2250 rating, of the ChessBase training app, but fail to solve a 2497 points high rating. Can you guess it correctly?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1168,14 +1200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/carlsen-vs-nepomniachtchi-strengths-weaknesses-and-a-prognosis",
          "pubDate" : "Fri, 26 Nov 2021 13:11:07 +0100",
          "title" : "Carlsen vs Nepomniachtchi: Strengths, weaknesses and a prognosis"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/q1XFLBJmd0Y?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> World Chess Championship Stream Live from Dubai ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-1-of-the-match/",
-         "pubDate" : "Fri, 26 Nov 2021 12:01:03 +0000",
-         "title" : "Time To Say Dubai: Round 1 of the Match"
       },
       {
          "description" : "",
@@ -1224,14 +1248,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/nov/26/chess-carlsen-plans-fast-start-in-dubai-while-firouzja-captures-his-records",
          "pubDate" : "Fri, 26 Nov 2021 08:00:23 +0000",
          "title" : "Chess: Carlsen plans fast start in Dubai while Firouzja captures his records"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess is proud to unveil the first ever <a href=\"https://shop.worldchess.com/shop/worldchessxakilaglasses\">official chess sunglasses</a> in time for the FIDE World Chess Championship Match that opens in Dubai today. The official citation says: \"The glasses with their defined shape and smartly placed chess pattern, are another step in making chess (and chess players) cool and in line with World Chess' mission to develop chess products worthy of the sport's rising profile. One also really needs sunglasses in Dubai!\" <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.3333333333333\"> <img src=\"https://worldchess.com/news/pictures/CD835A77-4",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/chess-gets-its-own-sunglasses-in-time-for-the-championship-match/",
-         "pubDate" : "Fri, 26 Nov 2021 07:07:45 +0000",
-         "title" : "Chess Gets Its Own Sunglasses In Time for the Championship Match in Dubai"
       },
       {
          "description" : " If you wish to follow the games and results from the 2021 Vikings Weekender, you can do so at http://tournaments.streetchess.net/vikings2021/ The first round is tonight at 7:00pm Canberra time, with subsequent rounds at Saturday 11:15 am, 3pm, 7pm and Sunday 11:15am and 3pm. I hope to have 4 DGT boards running over all rounds <br /> ",
@@ -1946,28 +1962,12 @@ news_feed (
          "title" : "Mark Plotkin wins Banff Open 2021"
       },
       {
-         "description" : "In this week's show, GM Daniel King looks at interesting positions from the European Team Championship but the main dish of the day is a creative attacking display from Alexei Shirov who once again shows the power of a sustained intiative. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-shirov-on-fire",
-         "pubDate" : "Fri, 19 Nov 2021 19:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Shirov on fire"
-      },
-      {
          "description" : "After making a great impression at the Lindores Abbey Blitz tournament last week, GM Arjun Erigaisi did even better in Kolkata, India as the winner of the Tata Steel Chess India rapid tournament. The talented 18-year-old Indian GM clinched the rap...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-tata-steel-chess-india-rapid",
          "pubDate" : "Fri, 19 Nov 2021 09:26:30 -0800",
          "title" : "Erigaisi Wins Tata Steel Chess India Rapid"
-      },
-      {
-         "description" : "Fritz 18 has been released, bringing a fantastic opponent so that now you have an engine that will adapt to your play, try to make it a fun and engaging opponent, and even set you up with a brilliancy or more if the situation allows. This is not merely hype, but the result of feedback from players who have tried it, from weak amateurs to grandmasters themselves.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fritz-18-adaptive-play-and-spoon-fed-brilliancies-2",
-         "pubDate" : "Fri, 19 Nov 2021 18:00:00 +0100",
-         "title" : "Fritz 18: Adaptive play and spoon-fed brilliancies"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87805078.cms\" /> There's no stopping Indian youngster Arjun Erigaisi. The 18-year-old carried on from where he left on the second day to claim the rapid title of the Kolkata rapid and blitz chess meet at the National Library on Friday.",
@@ -2200,22 +2200,6 @@ news_feed (
          "link" : "https://chessimprover.com/third-rank-defence/",
          "pubDate" : "Sun, 14 Nov 2021 15:44:35 +0000",
          "title" : "Third Rank Defence"
-      },
-      {
-         "description" : " Signs that OTB chess may return to normality within 12 months continue to appear. The 2021 European Teams Championship has kicked of in Slovenia, and the 9 round events has attracted a very strong field. There were 39 teams in the Open, and 31 in the Women's Section. Azerbaijan were the only team to win 4-0 in the Open in round 1, and their Women's team repeated the score in their event. The event is a 9 round tournament, and will be covered on all the major chess sites. I had a quick look through the games from the first round, and the following quick win for Black caught my eye. <br /> <b>Koykka,Pekka (2353) - Parligras,Mircea-Emilian (2576) [C47]</b><br />23rd European Team Chess Champio",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/2021-etc.html",
-         "pubDate" : "Sat, 13 Nov 2021 12:30:00 +0000",
-         "title" : "2021 ETC"
-      },
-      {
-         "description" : "Two of the greatest Jewish intellectuals, Lasker (1868-1941) and Einstein (1879-1955) were contemporaries and friends. Emanuel Lasker, son of a Jewish cantor, and world chess champion from 1894 to 1921, shared many concerns with that genius of Relativity, Albert Einstein. Not least was his preoccupation with the future of European Jews. Towards the end of []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/nonconformity-in-chess-and-physics-emanuel-lasker-and-albert-einstein/",
-         "pubDate" : "Sat, 13 Nov 2021 10:00:55 +0000",
-         "title" : "Nonconformity in chess and physics: Emanuel Lasker and Albert Einstein"
       }
    ]
 }
