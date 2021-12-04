@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The seventh game of the 2021 FIDE World Chess Championship will be an extremely important game, with the players returning to the board after the first decisive game. This game also marks the halfway point of the match, with GM Magnus Carlsen lead...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-7",
+         "pubDate" : "Fri, 03 Dec 2021 18:15:00 -0800",
+         "title" : "How To Watch The FIDE World Chess Championship Game 7: Nepo - Carlsen"
+      },
+      {
          "description" : " Here is the publishers blurb from the rear cover : &#8220;Ian Nepomniachtchi, challenger to Magnus Carlsen's World Championship title in 2021, is an outstanding chess talent. &#8220;Nepo&#8221; as he is universally known is a fascinating player and this book assesses his career and analyses his original and creative style in great depth with numerous deeply <a href=\"http://britishchessnews.com/2021/12/04/nepomniachtchi-move-by-move/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Nepomniachtchi Move by Move</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/04/nepomniachtchi-move-by-move/\">Nepomniachtchi",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2112,14 +2120,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-team-chess-championship-2021-r5-report/",
          "pubDate" : "Wed, 17 Nov 2021 06:40:49 +0000",
          "title" : "European Team Chess Championship 2021 - R5 report"
-      },
-      {
-         "description" : "GM Dmitry Andreikin took home an outright and undefeated Titled Tuesday victory on November 16, scoring 10/11. GM Anton Demchenko finished in sole second, a half-point behind, with 9.5/11. In a three-way tie with a 9/11 score, GM Jeffery Xiong and...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andreikin-wins-november-16-titled-tuesday",
-         "pubDate" : "Tue, 16 Nov 2021 17:12:10 -0800",
-         "title" : "Andreikin Wins November 16 Titled Tuesday"
       },
       {
          "description" : " From the publisher's blurb: In 1930s British India, a humble servant learns the art of chaturanga, the ancient Eastern ancestor of chess. His natural talent soon catches the attention of the maharaja, who introduces him to the Western version of the game. Brought to England as the prince's pawn, Malik becomes a chess legend, winning <a href=\"http://britishchessnews.com/2021/11/16/game-of-the-gods/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Game of the Gods</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/11/16/game-of-the-gods/\">Game of the Gods</a> appeared first on <a rel=\"nofollow\" href=\"http://br",
