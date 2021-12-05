@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The record set during the second game was broken during Carlsen's win in the sixth game of the <strong>FIDE World Championship</strong> on Friday, when the live audience on all streams combined reached a peak of 613,376 viewers <a href=\"https://escharts.com/tournaments/chess/fide-world-championship-2021\">according to Esports Charts</a>. </div> ",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Carlsen's win in the sixth game of the <strong>FIDE World Championship</strong> on Friday reached a live audience on all streams combined peaking at 613,376 viewers <a href=\"https://escharts.com/tournaments/chess/fide-world-championship-2021\">according to Esports Charts</a>. However, when in March Irene Sukandar played Dadang Subur aka Dewa Kipas to expose him as a cheater, <a href=\"https://www.chess.com/news/view/most-watched-chess-stream-in-history-dewa-kipas\">1,25 million had watched on several streams combined</a>. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2021/613376-peak-viewers/",
-         "pubDate" : "Sun, 05 Dec 2021 00:03:35 +0100",
-         "title" : "613,376 peak viewers"
+         "pubDate" : "Sun, 05 Dec 2021 00:56:35 +0100",
+         "title" : "Most watched top game"
       },
       {
          "description" : "Game eight of the 2021 FIDE World Chess Championship is happening soon. With stunning performances and some of the most precise chess games the world has ever seen, GM Magnus Carlsen leads the match against GM Ian Nepomniachtchi by a 4-3 score at ...",
@@ -400,14 +400,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/12/02/2021-world-chess-championship-game-5/",
          "pubDate" : "Thu, 02 Dec 2021 19:20:33 +0000",
          "title" : "2021 World Chess Championship: Game #5"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Esport Charts</strong> has counted more than 100 live streams that follow the <strong>FIDE World Championship</strong> in Dubai, setting a <a href=\"https://escharts.com/blog/world-chess-championship-record\">new record of 401,000 concurrent live viewers</a> during game 2, the most spectacular so far between Carlsen and Nepomniachtchi. According to this count, 80 per cent of the peak viewers watched streams connected with <strong>chess24</strong> or <strong>Chess.com</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/game-2-most-watched-ever/",
-         "pubDate" : "Thu, 02 Dec 2021 20:13:49 +0100",
-         "title" : "Game 2 most watched ever"
       },
       {
          "description" : "This week, well-known Dutch trainer Robert Ris shows a game in which Black found a way to get a strong attack in the Ragozin variation (1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4). | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1280,6 +1272,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1449",
          "pubDate" : "Fri, 26 Nov 2021 11:12:14 +0000",
          "title" : "FIDE QC to present new sets of regulations online"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> President <strong>Arkady Dvorkovich</strong> said in an <a href=\"https://ruchess.ru/en/news/report/arkady_dvorkovich_i_expect_more_than_two_decisive_games_in_carlsen_vs_nepomniachtchi_match/\">interview with the Russian Chess Federation</a> that the next world championship match shall take place in spring 2023 and the host of the <strong>Candidates Tournament</strong> in the second half of 2022 is to be chosen during the next days. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/next-world-championship-in-spring/",
+         "pubDate" : "Fri, 26 Nov 2021 12:02:27 +0100",
+         "title" : "Next world championship in spring 2023"
       },
       {
          "description" : "Every month a few ChessBase DVDs get released. Which one to get and which one to pass? Which one should be prioritized? Well, that you have to figure out on your own or with the help of your trainers or sparring partners. Once you have figured out the area you need to improve on or become stronger, it becomes that much easier to select a DVD and start working on it. Aanjaneya Phatak, shares his own personal experience as he reviews the latest DVD by Robert Ris, titled Calculation Training in Attack & Defence. Check out the review and see if it helps you to decide buying this DVD.",
