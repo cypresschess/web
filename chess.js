@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Game 8 of the World Chess Championship taking place in Dubai ended with Magnus Carlsen winning. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51725210002_8224c56fda_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51725239162_dad278296a_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51726019246_752be9aaad_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51726040466_7ffc081c89_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.co",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-championship-game-8-nepo-failed-for-the-second-time/",
+         "pubDate" : "Sun, 05 Dec 2021 16:38:50 +0000",
+         "title" : "World Chess Championship: Nepo Lost Game 8, His Chances to Win the Match Are Minimal"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 56th instalment of his ChessBase show \"Understanding before Moving\", Herman takes a look at the \"octopus\", a strong knight in the enemy camp. | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,12 +74,12 @@ news_feed (
          "title" : "Most watched top game"
       },
       {
-         "description" : "Our coverage of game eight of the 2021 FIDE World Chess Championship is underway! With stunning performances and some of the most precise chess games the world has ever seen, GM Magnus Carlsen leads the match against GM Ian Nepomniachtchi by a 4-3...",
+         "description" : "GM Magnus Carlsen extended his lead after winning game eight of the 2021 FIDE World Championship. After GM Ian Nepomniachtchi misstepped with the black pieces, the world champion got a significant edge by winning a pawn and getting into a dominant...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-8",
          "pubDate" : "Sat, 04 Dec 2021 14:15:00 -0800",
-         "title" : "LIVE: FIDE World Chess Championship Game 8 Carlsen - Nepo"
+         "title" : "BREAKING: Carlsen Wins Game 8 As Nepo Falters In FIDE World Chess Championship"
       },
       {
          "description" : "Wonder how it looks inside the arena where the World Championship match is taking place? In a big pictorial report, correspondent Venkatachalam Saravanan lets us feel the ambience surrounding the most important chess event of the year. Not to be missed! | Photo: Eric Rosen / FIDE",
@@ -1042,14 +1050,6 @@ news_feed (
          "title" : "Magnus Carlsen: \"I Don't Even Remotely Care\""
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/PudmQyKXL3M?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-3-of-the-match/",
-         "pubDate" : "Sun, 28 Nov 2021 11:20:30 +0000",
-         "title" : "Time To Say Dubai: Round 3 of the Match"
-      },
-      {
          "description" : "A remarkable battle between the protagonists of the 2021 World Championship match ended in a draw on Saturday. It was the second tense draw in a row, with both contenders showing deep theoretical preparation. Game 2 was a Catalan, and by no means was it a boring positional struggle. Grandmaster Luke McShanes analyses. | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1370,7 +1370,7 @@ news_feed (
          "title" : "Can Nepo win chess war against Magnus Carlsen?"
       },
       {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 1 &frac12; 4 Caruana &frac12; &frac12; &frac12; &frac12; &frac12; 0 &frac12; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 1 &frac12; 1 5 Caruana &frac12; &frac12; &frac12; &frac12; &frac12; 0 &frac12; 0 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/",
