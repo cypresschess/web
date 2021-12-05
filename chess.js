@@ -31,7 +31,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/did-you-know-that-magnus-carlsen-rotates-his-suits-according-to/",
          "pubDate" : "Sat, 04 Dec 2021 21:00:00 +0000",
-         "title" : "Did You Know that Magnus Carlsen Rotates His Suits According to the Color of His Pieces"
+         "title" : "Magnus Carlsen Rotates His Suits According to the Color of His Pieces"
       },
       {
          "description" : "",
