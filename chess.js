@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 56th instalment of his ChessBase show \"Understanding before Moving\", Herman takes a look at the \"octopus\", a strong knight in the enemy camp. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-56",
+         "pubDate" : "Sun, 05 Dec 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 56:"
+      },
+      {
+         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 7 Match Score: 3&frac12;-2&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 7 Saturday, 4 December 2021 After epic battle, players settle for quiet draw The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/05/2021-world-chess-championship-game-7/\">2021 World Chess Championship: Game #7</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/12/05/2021-world-chess-championship-game-7/",
+         "pubDate" : "Sun, 05 Dec 2021 13:16:29 +0000",
+         "title" : "2021 World Chess Championship: Game #7"
+      },
+      {
          "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. In a marathon game, Magnus Carlsen grabbed the lead in Friday's sixth game. A rather uneventful 41-move draw followed. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,7 +130,7 @@ news_feed (
          "title" : "Quiet draw in game seven of the World Chess Championship - 7"
       },
       {
-         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 6 Match Score: 3&frac12;-2&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 6 Friday, 3 December 2021 Titanic struggle breaks drought set records Today&#39;s #CarlsenNepo Game 6 was instructive for so many reasons. I&#39;m not sure sponsors will understand how thrilling this record-breaking game was, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/04/2021-world-chess-championship-game-6/\">2021 World Chess Championship: Game #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original ",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 6 Match Score: 3&frac12;-2&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 6 Friday, 3 December 2021 Titanic struggle breaks drought set records Today&#39;s #CarlsenNepo Game 6 was instructive for so many reasons. I&#39;m not sure sponsors will understand how thrilling this record-breaking game was, but [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/04/2021-world-chess-championship-game-6/\">2021 World Chess Championship: Game #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/04/2021-world-chess-championship-game-6/",
@@ -1954,14 +1970,6 @@ news_feed (
          "title" : "Tata Steel India Blitz, Final Day - Live!"
       },
       {
-         "description" : "An eighth win in as many matches gave Russia tournament victory at the women's section of the European Team Championships with a round to spare. This is Russia's fourth consecutive title and the seventh in the last eight events. Meanwhile, in the open section, four teams go into the final round tied for first place - Armenia, France, Azerbaijan and Ukraine. | Photos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2021-r8",
-         "pubDate" : "Sun, 21 Nov 2021 00:10:00 +0100",
-         "title" : "Euro Teams: Russian women grab title with a round to spare"
-      },
-      {
          "description" : "Russian Women's Team convincingly won the 2021 European Team Chess Championship sparing the last round of the event. With a Round 8 victory against Ukraine, Russia scored impeccable 16 match points to be ahead of Georgia whose players secured a silver medal. After Kateryna Lagno defeated Osmak Iulia, two draws happened on the board 1 and 3 &hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/russia-wins-european-womens-team-chess-championship-2021-with-a-round-to-spare/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2232,14 +2240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1433",
          "pubDate" : "Sun, 14 Nov 2021 22:29:32 +0000",
          "title" : "Olufemi Balogun and Perpetual Ogbiyoyo win Nigerian Championship"
-      },
-      {
-         "description" : " I reached this position with Black in an online blitz game against one of my regular club opponents. It's White to move. What do you think? A win or a draw? 52. a4 Re2+? I had two moves to draw here: Rg4 and Rg5+, an important point being 52.. Rg5+ 53. Kf6 Rg6+! with stalemate <a href=\"https://chessimprover.com/third-rank-defence/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Third Rank Defence\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/third-rank-defence/\">Third Rank Defence</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/third-rank-defence/",
-         "pubDate" : "Sun, 14 Nov 2021 15:44:35 +0000",
-         "title" : "Third Rank Defence"
       }
    ]
 }
