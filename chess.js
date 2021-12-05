@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. In a marathon game, Magnus Carlsen grabbed the lead in Friday's sixth game. A rather uneventful 41-move draw followed. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
+         "pubDate" : "Sun, 05 Dec 2021 12:50:00 +0100",
+         "title" : "Carlsen vs. Nepomniachtchi - Game 8 Live!"
+      },
+      {
+         "description" : "The bishop had to move to h1 to hold a draw. A ludicrous move, but one that the absolute majority had on their minds. In door 5 is a puzzle that an engine from 2019 couldn't figure out. Are you better than the computer?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-5006g",
+         "pubDate" : "Sun, 05 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 5"
+      },
+      {
+         "description" : " A very quick question for you. You're White in this position. Imagine it's a blitz game so you don't have time to think very deeply: your first thoughts are important. What would you play here? When doing some historical research I chanced upon a game between two London club stalwarts of the inter-war years. Ernest <a href=\"https://chessimprover.com/jellie-wobbles/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Jellie Wobbles\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/jellie-wobbles/\">Jellie Wobbles</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/jellie-wobbles/",
+         "pubDate" : "Sun, 05 Dec 2021 10:47:51 +0000",
+         "title" : "Jellie Wobbles"
+      },
+      {
+         "description" : "The 2021 European Small Nations Team Chess Championship concluded yesterday in Sliema, Malta with awarding ceremony of the Winners and medalists. The ECU President Mr. Zurab Azmaiparashvili joined the Closing ceremony of the event and awarded the Medalists. The team of Faroe Islands convincingly won the event. With score of 17 match points, 8 team victories and only&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/faroe-islands-wins-european-small-nations-team-chess-championship-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/faroe-islands-wins-european-small-nations-team-chess-championship-2021/",
+         "pubDate" : "Sun, 05 Dec 2021 10:15:51 +0000",
+         "title" : "Faroe Islands wins European Small Nations Team Chess Championship 2021"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/8eVEnLuAXv4?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-8-of-the-match/",
+         "pubDate" : "Sun, 05 Dec 2021 09:49:37 +0000",
+         "title" : "Time To Say Dubai: Round 8 of the Match"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Carlsen's win in the sixth game of the <strong>FIDE World Championship</strong> on Friday reached a live audience on all streams combined peaking at 613,376 viewers <a href=\"https://escharts.com/tournaments/chess/fide-world-championship-2021\">according to Esports Charts</a>. However, when in March Irene Sukandar played Dadang Subur aka Dewa Kipas to expose him as a cheater, <a href=\"https://www.chess.com/news/view/most-watched-chess-stream-in-history-dewa-kipas\">1,25 million had watched on several streams combined</a>. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -10,12 +50,12 @@ news_feed (
          "title" : "Most watched top game"
       },
       {
-         "description" : "Game eight of the 2021 FIDE World Chess Championship is happening soon. With stunning performances and some of the most precise chess games the world has ever seen, GM Magnus Carlsen leads the match against GM Ian Nepomniachtchi by a 4-3 score at ...",
+         "description" : "Our coverage of game eight of the 2021 FIDE World Chess Championship is underway! With stunning performances and some of the most precise chess games the world has ever seen, GM Magnus Carlsen leads the match against GM Ian Nepomniachtchi by a 4-3...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-8",
          "pubDate" : "Sat, 04 Dec 2021 14:15:00 -0800",
-         "title" : "How To Watch The FIDE World Chess Championship Game 8: Carlsen - Nepo"
+         "title" : "LIVE: FIDE World Chess Championship Game 8 Carlsen - Nepo"
       },
       {
          "description" : "Wonder how it looks inside the arena where the World Championship match is taking place? In a big pictorial report, correspondent Venkatachalam Saravanan lets us feel the ambience surrounding the most important chess event of the year. Not to be missed! | Photo: Eric Rosen / FIDE",
@@ -136,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-carlsen-years-part-4",
          "pubDate" : "Sat, 04 Dec 2021 11:00:00 +0100",
          "title" : "The Carlsen years (4): Twelve draws"
-      },
-      {
-         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. In a marathon game, Magnus Carlsen grabbed the lead in Friday's sixth game. A rather uneventful 41-move draw followed. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
-         "pubDate" : "Sat, 04 Dec 2021 10:50:00 +0100",
-         "title" : "Carlsen vs. Nepomniachtchi - Games and commentary"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/pLBc0kVzaD0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> World Chess Championship Stream Live from Dubai ",
@@ -1008,14 +1040,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-championship-2021-g2-expert-annotations",
          "pubDate" : "Sun, 28 Nov 2021 11:10:00 +0100",
          "title" : "World Championship: Game 2 annotated by Luke McShane"
-      },
-      {
-         "description" : " <p class=\"lead\">Game 2 of the World Chess Championship Match taking place in Dubai marked the 16th draw in a row for the event in classic time controls. The last decisive game was played in November 2016 - that's more than five years ago. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/52514B40-4164-4D00-9398-7E63DCA80977.jpeg\" width=\"1800\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">Carlsen and Nepo talking to the arbiter and submit their score sheets after game 2 of the World Chess Championship match in Dubai. Photo by Eric Rosen/FIDE</div> </div> Carlsen won game 11 of the 2016 Match against Sergey Karjakin in New York to level the score. He eventual",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/16-draws-in-a-row-in-world-chess-championship-games/",
-         "pubDate" : "Sun, 28 Nov 2021 07:37:41 +0000",
-         "title" : "16 Draws In a Row In World Chess Championship Games"
       },
       {
          "description" : "The list of personnel registered for the subject program and not paid the fee yet are appended below. LIST OF PARTICIPANTS You are requested to",
@@ -1970,14 +1994,6 @@ news_feed (
          "title" : "The Physicists "
       },
       {
-         "description" : "In the diagram position, 14...bxc3! looks dangerous - after 15.Rxc3 White threatens 16.Rxc8+, winning the queen on a5. But Black, World Championship challenger Ian Nepomniachtchi, had a cool surprise in store! Can you find it?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nepo-with-nerves-of-steel",
-         "pubDate" : "Sat, 20 Nov 2021 09:00:00 +0100",
-         "title" : "Nepo with nerves of steel"
-      },
-      {
          "description" : "After seven played rounds at the European Team Chess Championship 2021 in Terme Catez, Slovenia, the Russian Women's team holds the sole lead, while Azerbaijan and Ukraine tie for the top of the Open section. With a convincing 3-1 victory over Azerbaijan, Russian Women improved their lead scoring the absolute 14 match points. Valentina Gunina was the first&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-r7-report/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2192,14 +2208,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/2021-asian-online-amateur.html",
          "pubDate" : "Tue, 16 Nov 2021 13:15:00 +0000",
          "title" : "2021 Asian Online Amateur"
-      },
-      {
-         "description" : "The ECU Board meeting and the General Assembly took place on 12 and 13 November respectively at the Terme Hotel in Terme Čatež, Slovenia, during the 2021 European Team Chess Championship with the generous hospitality of the Slovenian Chess Federation. The President of the Slovenian Chess Federation, Milan Brglez, welcomed all delegates and informed about the special conditions&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-board-meeting-general-assembly-press-release/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-board-meeting-general-assembly-press-release/",
-         "pubDate" : "Tue, 16 Nov 2021 13:06:40 +0000",
-         "title" : "ECU Board Meeting & General Assembly press release"
       },
       {
          "description" : "Abhimanyu Mishra became the youngest ever GM in July, sparking a debate on whether titles have become easier to win.",
