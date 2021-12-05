@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The record set during the second game was broken during Carlsen's win in the sixth game of the <strong>FIDE World Championship</strong> on Friday, when the live audience on all streams combined reached a peak of 613,376 viewers <a href=\"https://escharts.com/tournaments/chess/fide-world-championship-2021\">according to Esports Charts</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/613376-peak-viewers/",
+         "pubDate" : "Sun, 05 Dec 2021 00:03:35 +0100",
+         "title" : "613,376 peak viewers"
+      },
+      {
+         "description" : "Game eight of the 2021 FIDE World Chess Championship is happening soon. With stunning performances and some of the most precise chess games the world has ever seen, GM Magnus Carlsen leads the match against GM Ian Nepomniachtchi by a 4-3 score at ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-8",
+         "pubDate" : "Sat, 04 Dec 2021 14:15:00 -0800",
+         "title" : "How To Watch The FIDE World Chess Championship Game 8: Carlsen - Nepo"
+      },
+      {
+         "description" : "Wonder how it looks inside the arena where the World Championship match is taking place? In a big pictorial report, correspondent Venkatachalam Saravanan lets us feel the ambience surrounding the most important chess event of the year. Not to be missed! | Photo: Eric Rosen / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-the-arena",
+         "pubDate" : "Sat, 04 Dec 2021 23:00:00 +0100",
+         "title" : "World Chess Championship - the Arena"
+      },
+      {
+         "description" : " <p class=\"lead\">The World Chess Championship Match is a fascinating (and yes, very long) affair where some of the fastest-thinking people in the world battle for the championship title and millions of dollars that come with it. There are incredible moments there, new chess ideas are introduced and new trends set. The 14-game event where each game takes up to 8 hours is also a bit of a sartorial exercise in which the players wear suits (yes, there is a dress code) and try to look the part. Magnus Carlsen, the defending World Champion, has mastered this task with his signature systematic approach. He has two sets of suits, for black and white pieces. Very convenient, and also a useful piece o",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/did-you-know-that-magnus-carlsen-rotates-his-suits-according-to/",
+         "pubDate" : "Sat, 04 Dec 2021 21:00:00 +0000",
+         "title" : "Did You Know that Magnus Carlsen Rotates His Suits According to the Color of His Pieces"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -144,14 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-7",
          "pubDate" : "Fri, 03 Dec 2021 18:15:00 -0800",
          "title" : "Confident Carlsen Equalizes Easily In FIDE World Chess Championship Game 7"
-      },
-      {
-         "description" : " Here is the publishers blurb from the rear cover : &#8220;Ian Nepomniachtchi, challenger to Magnus Carlsen's World Championship title in 2021, is an outstanding chess talent. &#8220;Nepo&#8221; as he is universally known is a fascinating player and this book assesses his career and analyses his original and creative style in great depth with numerous deeply <a href=\"http://britishchessnews.com/2021/12/04/nepomniachtchi-move-by-move/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Nepomniachtchi Move by Move</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/04/nepomniachtchi-move-by-move/\">Nepomniachtchi",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/12/04/nepomniachtchi-move-by-move/",
-         "pubDate" : "Sat, 04 Dec 2021 00:10:50 +0000",
-         "title" : "Nepomniachtchi Move by Move"
       },
       {
          "description" : "",
@@ -1074,14 +1098,6 @@ news_feed (
          "title" : "World Championship Game 2: Sharp Catalan ends drawn"
       },
       {
-         "description" : " <p class=\"lead\">The second game of the World Chess Championship 2021 between the World Champion Magnus Carlsen and the Challenger Ian Nepomniachtchi is has ended in a draw after 58 moves. It was a tense and complex game despite the peaceful outcome. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/51708668839_03c66ae49f_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51709008300_6be27fdd9c_o-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51708801544_d7d4441d25_o-min.jpg\" width=\"2560\" height=\"1706\" alt=\"",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-championship-a-puzzling-game-and-a-tough-draw/",
-         "pubDate" : "Sat, 27 Nov 2021 17:22:27 +0000",
-         "title" : "World Chess Championship: a Puzzling Draw"
-      },
-      {
          "description" : " The FIDE World Chess Championship Match between Magnus Carlsen and Ian Nepomniachtchi is tied at 1-1 after the first two games were drawn. In spite of these draws the early games promise a very interesting match which will be settled over the board not by the huge amount of opening preparation both sides have clearly done. Carlsen had white in game two and a Catalan appeared on the board. It seemed at first that Carlsen had won the opening battle. Nepomniachtchi's 7... b5 was met by 8. Ne5 - a move that's been played at a high level this year but none the less he didn't seem ready for. Carlsen continued to play quickly for the next few moves and after 16...Na6 had some advantage in a wild p",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1264,14 +1280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1449",
          "pubDate" : "Fri, 26 Nov 2021 11:12:14 +0000",
          "title" : "FIDE QC to present new sets of regulations online"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> President <strong>Arkady Dvorkovich</strong> said in an <a href=\"https://ruchess.ru/en/news/report/arkady_dvorkovich_i_expect_more_than_two_decisive_games_in_carlsen_vs_nepomniachtchi_match/\">interview with the Russian Chess Federation</a> that the next world championship match shall take place in spring 2023 and the host of the <strong>Candidates Tournament</strong> in the second half of 2022 is to be chosen during the next days. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/next-world-championship-in-spring/",
-         "pubDate" : "Fri, 26 Nov 2021 12:02:27 +0100",
-         "title" : "Next world championship in spring 2023"
       },
       {
          "description" : "Every month a few ChessBase DVDs get released. Which one to get and which one to pass? Which one should be prioritized? Well, that you have to figure out on your own or with the help of your trainers or sparring partners. Once you have figured out the area you need to improve on or become stronger, it becomes that much easier to select a DVD and start working on it. Aanjaneya Phatak, shares his own personal experience as he reviews the latest DVD by Robert Ris, titled Calculation Training in Attack & Defence. Check out the review and see if it helps you to decide buying this DVD.",
@@ -1970,14 +1978,6 @@ news_feed (
          "title" : "Nepo with nerves of steel"
       },
       {
-         "description" : "Arjun Erigaisi started hitting the next level at Goldmoney Asian Rapid this past summer when he ended Aronian's undefeated streak at the event. The healthy rivalry with Aronian began since then. The most anticipated match of the event between Aronian and Arjun did not disappoint. It delivered everything one can fathom - there was action, drama and high stakes in a high-tension match which showcased Arjun's another quality which the majority of the Indian youth possess: true grit. No matter how adverse things might get, one needs to have the courage to fight back, even if your opponent is the mighty, only two-time World Cup winner in the history of chess. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-age-of-arjun-erigaisi-begins-with-a-monumental-triumph-at-tata-steel-chess-india-2021-rapid",
-         "pubDate" : "Sat, 20 Nov 2021 08:01:00 +0100",
-         "title" : "The 'Age of Arjun Erigaisi' begins with a monumental triumph at Tata Steel Chess India 2021 Rapid"
-      },
-      {
          "description" : "After seven played rounds at the European Team Chess Championship 2021 in Terme Catez, Slovenia, the Russian Women's team holds the sole lead, while Azerbaijan and Ukraine tie for the top of the Open section. With a convincing 3-1 victory over Azerbaijan, Russian Women improved their lead scoring the absolute 14 match points. Valentina Gunina was the first&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-r7-report/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2136,14 +2136,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-championship-2021",
          "pubDate" : "Wed, 17 Nov 2021 20:00:00 +0400",
          "title" : "Chess.com Speed Chess Championship 2021 - Games and Results"
-      },
-      {
-         "description" : "After winning the FIDE Chess.com Grand Swiss, GM Alireza Firouzja&#39;s quick rise to the top continues. The French-Iranian started with 4.5/5 at the European Team Championship in Slovenia and is now the new world number-three in the live rankings. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alireza-firouzja-world-number-3-european-team-championship",
-         "pubDate" : "Wed, 17 Nov 2021 04:19:00 -0800",
-         "title" : "Firouzja Surges To World No. 3 At European Team Championship"
       },
       {
          "description" : "",
