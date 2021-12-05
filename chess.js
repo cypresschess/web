@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " <p class=\"lead\">Game 8 of the World Chess Championship taking place in Dubai ended with Magnus Carlsen winning. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51725210002_8224c56fda_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51725239162_dad278296a_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51726019246_752be9aaad_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51726040466_7ffc081c89_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.co",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1465",
+         "pubDate" : "Sun, 05 Dec 2021 19:01:44 +0000",
+         "title" : "FIDE World Championship Dubai 2021: Something from nothing"
+      },
+      {
+         "description" : " <p class=\"lead\">Game 8 of the World Chess Championship ended in a heartbreaking way for the Challenger. After an unexpected blunder, Magnus grabbed the opportunity and won the match. The overall score is 5-3 for the World Champion. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51725210002_8224c56fda_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51725239162_dad278296a_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51726019246_752be9aaad_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldch",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/world-chess-championship-game-8-nepo-failed-for-the-second-time/",
@@ -15,10 +23,10 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-56",
          "pubDate" : "Sun, 05 Dec 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 56:"
+         "title" : "Understanding before Moving 56: The Octopus"
       },
       {
-         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 7 Match Score: 3&frac12;-2&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 7 Saturday, 4 December 2021 After epic battle, players settle for quiet draw The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/05/2021-world-chess-championship-game-7/\">2021 World Chess Championship: Game #7</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 7 Match Score: 4-3 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 7 Saturday, 4 December 2021 After epic battle, players settle for quiet draw The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/05/2021-world-chess-championship-game-7/\">2021 World Chess Championship: Game #7</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/05/2021-world-chess-championship-game-7/",
@@ -74,7 +82,7 @@ news_feed (
          "title" : "Most watched top game"
       },
       {
-         "description" : "GM Magnus Carlsen extended his lead after winning game eight of the 2021 FIDE World Championship. After GM Ian Nepomniachtchi misstepped with the black pieces, the world champion got a significant edge by winning a pawn and getting into a dominant...",
+         "description" : "With another win in game eight of the 2021 FIDE World Chess Championship, GM Magnus Carlsen extended his lead to two points going into the third rest day. GM Ian Nepomniachtchi initially defended creatively in another Petroff but then blundered a ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-8",
