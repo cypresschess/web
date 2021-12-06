@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the halfway mark in the 1969 World Championship between Petrosian and Spassky, the match score was level. Petrosian only needed to draw the match to retain his title, and with his super-solid Petroff it looked like he was going to wrap things up. But in game 17 and 19 Petrosian suddenly switched to Sicilian, losing calamitously. John Saunders retraces the course of the match that decided who would defend the title against Fischer three years later.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/why-did-petrosian-stop-playing-the-petroff",
+         "pubDate" : "Mon, 06 Dec 2021 17:00:00 +0100",
+         "title" : "Why did Petrosian stop playing the Petroff"
+      },
+      {
+         "description" : " <p class=\"lead\">After the second decisive game of the World Chess Championship 2021, Magnus Carlsen shared his feelings with journalists. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Yc3x_Q3_lAE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Magnus commented on his second win: \"The second win probably didn't happen without the first one. Everything is connected. For instance, if I had won the game against Caruana when I had a winning position or he had won one, there could have been many more decisive games. It's not a shock that the second win comes quickly after the first.\" Will Magnus's third victory follow the first two just as",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-joy-of-a-second-win-game-8-press-conference/",
+         "pubDate" : "Mon, 06 Dec 2021 15:19:07 +0000",
+         "title" : "The Joy of a Second Win - Game 8 Press Conference"
+      },
+      {
+         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 8 Match Score: 5-3 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 8 Sunday, 5 December 2021 Carlsen strikes again Nepomniachtchi at the brink Magnus Carlsen wins another game with white pieces and extends his lead to 2 points. After 8 games, the score is [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/06/2021-world-chess-championship-game-8/\">2021 World Chess Championship: Game #8</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/12/06/2021-world-chess-championship-game-8/",
+         "pubDate" : "Mon, 06 Dec 2021 14:38:55 +0000",
+         "title" : "2021 World Chess Championship: Game #8"
+      },
+      {
+         "description" : "In the Endgame Magic Show #174 Karsten M&uuml;ller and Arne K&auml;hler continue to follow the World Championship match and take a close look how Carlsen and Nepomniachtchi played in games 3 to 5 of the match. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-174-carlsen-vs-nepomniachtchi-games-3-to-5",
+         "pubDate" : "Mon, 06 Dec 2021 15:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic Show #174: Carlsen vs Nepomniachtchi, Games 3 to 5"
+      },
+      {
+         "description" : "Last Tuesday, 30 November 2021, the English Grandmaster Jonathan Penrose died at the age of 88. In the 1950s and 1960s Penrose was the best British player, and he became internationally famous when he defeated the reigning World Champion Mikhail Tal at the Chess Olympiad in Leipzig 1960.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-memory-of-jonathan-penrose-7-october-1933-30-november-2021",
+         "pubDate" : "Mon, 06 Dec 2021 14:52:07 +0100",
+         "title" : "In memory of Jonathan Penrose (7 October 1933 - 30 November 2021)"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -130,7 +170,7 @@ news_feed (
          "title" : "Understanding before Moving 56: The Octopus"
       },
       {
-         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 7 Match Score: 4-3 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 7 Saturday, 4 December 2021 After epic battle, players settle for quiet draw The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/05/2021-world-chess-championship-game-7/\">2021 World Chess Championship: Game #7</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 7 Match Score: 4-3 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 7 Saturday, 4 December 2021 After epic battle, players settle for quiet draw The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/05/2021-world-chess-championship-game-7/\">2021 World Chess Championship: Game #7</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/05/2021-world-chess-championship-game-7/",
@@ -1114,14 +1154,6 @@ news_feed (
          "title" : "World Championship Game 3: A 'dumb' move, a draw"
       },
       {
-         "description" : " <p class=\"lead\">The third game of the 2021 World Chess Championship between Magnus Carlsen and Ian Nepomniachtchi drew after 41 moves. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.4988290398126\"> <img src=\"https://worldchess.com/news/pictures/photo_2021-11-28_18-28-04.jpg\" width=\"1280\" height=\"854\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2021-11-28_18-28-00.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51710982064_f95ee9721f_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51711704424_6545e85b8a_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-championship-no-surprises-its-a-draw/",
-         "pubDate" : "Sun, 28 Nov 2021 15:29:58 +0000",
-         "title" : "World Chess Championship: No Surprises, It's a Draw"
-      },
-      {
          "description" : " The FIDE World Chess Championship reached it's first rest day on Monday all square at 1.5 points each after three games. Magnus Carlsen looked very comfortable in defending the Ruy Lopez Anti-Marshall. It's been assumed in commentary that he's prepared the Marshall but it hasn't been allowed yet so we don't know for certain. Carlsen admitted to playing some \"ugly\" moves but at no point did he seem under pressure. Ian Nepomniachtchi chose 8.a4 rather than the 8.h3 in game one but he didn't achieve very much. Nepomniachtchi thought he might be getting somewhere but his long think after Carlsen's 20...Be6 produced only the move 21.h3 which after 21...c6 22.Bc2 d5 led to complete equality. Carl",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1682,14 +1714,6 @@ news_feed (
          "title" : "Congratulations Air Vice Marshal Jonnalagadda Rajendra"
       },
       {
-         "description" : " For three years, the chess world has anticipated the next competitor for World Champion Magnus Carlsen. The time has come and on November 26th the champion will take on challenger Ian Nepomniachtchi of Russia for all the glory. The closing of the 14-game match will be December 16th (including tiebreaks). Regulations can be found here. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/24/world-championship-2021-kicks-off-in-a-few-days/\">World Championship 2021 kicks off in a few days!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/11/24/world-championship-2021-kicks-off-in-a-few-days/",
-         "pubDate" : "Wed, 24 Nov 2021 06:51:52 +0000",
-         "title" : "World Championship 2021 kicks off in a few days!"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Club Chess Associate Alex Moellering substitutes this week. Get in the mind of the mysterious masked 1400 on his journey to a 2000 chess rating. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-moellerings-1400-journey-road-2000\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yx2OAOxcSzw.jpg?itok=gjwkFD1Z\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1906,14 +1930,6 @@ news_feed (
          "title" : "12th London Chess Classic 2021 - Games and Results"
       },
       {
-         "description" : "Thanks to a final-round victory over Armenia, Ukraine got their first gold medals at the open section of the European Team Championships. France came second after beating Azerbaijan, with Alireza Firouzja beating Shakhriyar Mamedyarov to climb to second place in the world ranking and become the youngest ever player to cross the 2800-rating barrier. Poland finished in third place. | Photos: ECU Press",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2021-r9",
-         "pubDate" : "Mon, 22 Nov 2021 02:45:00 +0100",
-         "title" : "Euro Teams: Ukraine take gold, Firouzja crosses 2800"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1962,14 +1978,6 @@ news_feed (
          "title" : "Simply Does It"
       },
       {
-         "description" : "In this week's column, Jon Speelman returns to his explorations of remarkable games by the world's top juniors. Naturally, he looks at games by Kirill Shevchenko (pictured), Arjun Erigaisi and Alireza Firouzja, three young stars who left a strong mark in top tournaments during the last month or so. | Photo: Anastasiya Karlovich",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-158",
-         "pubDate" : "Sun, 21 Nov 2021 19:30:00 +0100",
-         "title" : "The hacking of steely sprogs"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2000,14 +2008,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/levon-aronian-pips-arjun-erigaisi-for-blitz-title/articleshow/87835583.cms",
          "pubDate" : "Sun, 21 Nov 2021 21:54:32 +0530",
          "title" : "Levon Aronian pips Arjun Erigaisi for blitz title"
-      },
-      {
-         "description" : "Sometimes watching a game of chess is inspiring - and instructive. A recent blitz game between two hot Indian talents will illustrate this. The second part of this game, which has an interesting underpomotion, was recorded, and commented on by IM Sagar Shah of ChessBase India. We have added a replay board on which you can analyse yourself. A most enjoyable way to improve your skill, don't you think?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/watch-and-learn",
-         "pubDate" : "Sun, 21 Nov 2021 17:00:00 +0100",
-         "title" : "Watch and learn"
       },
       {
          "description" : "Tata Steel Chess India Levon Aronian Wins Tata Steel Chess India Blitz Category Arjun Erigaisi wins Tata Steel Chess India Rapid Category Blitz Day 2",
@@ -2264,14 +2264,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/32637681/inside-calls-fide-change-grandmaster-requirements-nepomniachtchi-vishwanathan-anand-vladimir-kramnik?device=featurephone",
          "pubDate" : "Tue, 16 Nov 2021 02:05:43 -0500",
          "title" : "To GM or not to GM: Inside calls for FIDE to change Grandmaster requirements"
-      },
-      {
-         "description" : " While not in the business of giving out free advertising to big corporations, I was intrigued by the new Sony Playstation advertisement, which has a very chess heavy theme. While I am linking to the full 2+ minute clip, the shorter TV edit has an interesting cut, where the chess game is followed by the caption \"Do not attempt\" for the next scene. Of course it concerns parkour rather than chess, but still, an interesting sentiment. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/4yuEnY9ItqA\" width=\"320\" youtube-src-id=\"4yuEnY9ItqA\"></iframe></div><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/do-not-attempt.html",
-         "pubDate" : "Mon, 15 Nov 2021 12:54:00 +0000",
-         "title" : "Do not attempt"
       }
    ]
 }
