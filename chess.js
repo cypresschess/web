@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">After Game 8, Ian Nepomniachtchi, the World Chess Championship challenger, found himself two points down in the Championship match, the most important event of his chess career, and unless he changes strategy, he is going to go down as the person who just fell apart during the Match of his life. So change he will. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/AC814CCE-4EB7-44B3-B0E1-C24CB91EE1C7.jpeg\" width=\"1800\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen, FIDE</div> </div> Apparently, Nepo enlisted the help of Sergey Karjakin, who is flying to Dubai right now to be on site and help plan a comeback for Nepo. Karjaki",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nepo-to-change-strategy-after-disastrous-championship-score/",
+         "pubDate" : "Mon, 06 Dec 2021 07:21:51 +0000",
+         "title" : "Nepo to Change Strategy After Disastrous Championship Score"
+      },
+      {
+         "description" : "&#160; Download National Junior 2022 Regulations",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-50th-national-junior-under-20-35th-national-junior-girls-under-20-chess-championships-2022/",
+         "pubDate" : "Mon, 06 Dec 2021 06:48:45 +0000",
+         "title" : "MPL 50TH NATIONAL JUNIOR (UNDER-20) & 35TH NATIONAL JUNIOR GIRLS (UNDER-20) CHESS CHAMPIONSHIPS-2022"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Competitive chess is returning to its roots with the world championship match at the Expo 2020. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/51725959837-0ebde06046-k.1920.jpeg\" title=\"Magnus Carlsen gives his usual exclusive interview to Norwegian TV NRK after his second, possibly decisive win in game 8. photo: Eric Rosen / FIDE\" data-title=\"Magnus Carlsen gives his usual exclusive interview to Norwegian TV NRK after his second, possibly decisive win in game 8. (photo: Eric Rosen / FIDE)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/51725959837-0ebde06046-k.4",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -135,7 +151,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-8",
          "pubDate" : "Sat, 04 Dec 2021 14:15:00 -0800",
-         "title" : "BREAKING: Carlsen Wins Game 8 As Nepo Falters In FIDE World Chess Championship"
+         "title" : "Carlsen Wins Game 8 As Nepo Falters In FIDE World Chess Championship"
       },
       {
          "description" : "Wonder how it looks inside the arena where the World Championship match is taking place? In a big pictorial report, correspondent Venkatachalam Saravanan lets us feel the ambience surrounding the most important chess event of the year. Not to be missed! | Photo: Eric Rosen / FIDE",
@@ -1104,14 +1120,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/2021-vikings-weekender-tie-for-1st.html",
          "pubDate" : "Sun, 28 Nov 2021 12:34:00 +0000",
          "title" : "2021 Vikings Weekender - Tie for 1st"
-      },
-      {
-         "description" : " The world champion has developed his own rapport with the media and clearly enjoys stirring the audience while being open and to the point. His answer to the question 'Whose chess commentary would you enjoy most - Giri, Caruana, or Anand?' Carlsen replied after slight delay: \"I am sorry I don't even remotely care'. Giri is doing commentary for chess24, the site that is part of Carlsen's own business empire, while Caruana is doing commentary for chess.com. Anadnd is doing commentary for the official FIDE feed. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/79HxEgqTpws?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/magnus-carlsen-i-remotely-dont-care/",
-         "pubDate" : "Sun, 28 Nov 2021 11:36:31 +0000",
-         "title" : "Magnus Carlsen: \"I Don't Even Remotely Care\""
       },
       {
          "description" : "A remarkable battle between the protagonists of the 2021 World Championship match ended in a draw on Saturday. It was the second tense draw in a row, with both contenders showing deep theoretical preparation. Game 2 was a Catalan, and by no means was it a boring positional struggle. Grandmaster Luke McShanes analyses. | Photo: Niki Riga",
@@ -2088,14 +2096,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/clinical-arjun-erigaisi-clinches-kolkata-rapid-chess-title/articleshow/87805078.cms",
          "pubDate" : "Fri, 19 Nov 2021 21:36:45 +0530",
          "title" : "Clinical Arjun Erigaisi clinches Kolkata rapid chess title"
-      },
-      {
-         "description" : "Round 7 Fair to say, round 7 was probably the most intensely fought round of the tournament thus far. Sitting pretty on top of the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/arjun-erigaisi-wins-tata-steel-chess-india-rapid-2021-day-3-report/",
-         "pubDate" : "Fri, 19 Nov 2021 15:24:23 +0000",
-         "title" : "Arjun Erigaisi Wins Tata Steel Chess India Rapid 2021 ; Day 3 Report"
       },
       {
          "description" : " The time has come to put everything we have looked at over the last two or three months together. While it seems like a lot to cover in a single article, I'm gong to present a simple method for employing the most important of these concepts into your middle-game transition into the endgame. I spent <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-two/\">A Foundation for Beginners Forty Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\"",
