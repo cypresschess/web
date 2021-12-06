@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.edp24.co.uk/news/obituaries/jonathan-wells-norwich-chess-player-tributes-8534196#new_tab",
+         "pubDate" : "Mon, 06 Dec 2021 11:29:52 +0000",
+         "title" : "Jonathan Wells RIP"
+      },
+      {
+         "description" : "The absolute majority of the answers were \"B\", which proves that you saw a stalemate motif that actually escaped the Komodo engine. Thank you again for the many detailed answers. We'll stay with the engines because the next task could only be solved by Karsten Mueller and Alexei Shirov thanks to \"Fritz 3\"! Attention, the task is not easy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-6479",
+         "pubDate" : "Mon, 06 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 6"
+      },
+      {
+         "description" : "Traditionally, small presents are made on Saint Nicholas Day, 6 December. A nice custom, and today we're giving away a 60 Minutes course by Robert Ris on a current and sharp variation in the Vienna Game. Anyone who has a ChessBase account and logs in or creates a ChessBase account today will find the 60 Minutes video course there for download. Without ifs and buts! Enjoy! | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-nicholas-day-60-minutes-vienna-opening-free-of-charge",
+         "pubDate" : "Mon, 06 Dec 2021 11:44:28 +0100",
+         "title" : "St. Nicholas Day: 60 minutes Vienna Opening free of charge"
+      },
+      {
+         "description" : " After the marathon effort from both players in game 6, it was hardly surprising that game 7 of the 2021 World Championship was a more peaceful affirm. But game 8 saw Carlsen pick up another point as Nepomniachtchi blundered a pawn in the middlegame. The second decisive game of the match sees Carlsen leading 5-3 with 6 games remaining. It will be a tough ask for Nepo to recover from this bad loss, although he does have a rest day today to think about his strategy for the remainder of the match. <br /> <b>Carlsen,Magnus (2856) - Nepomniachtchi,Ian (2782) [C43]</b><br />FIDE World Chess Championship 2021 (8), 05.12.2021 <script>new PgnViewer( { boardName: \"game1292\", movesFormat: \"default\", pg",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/another-win-for-carlsen.html",
+         "pubDate" : "Mon, 06 Dec 2021 09:36:00 +0000",
+         "title" : "Another win for Carlsen"
+      },
+      {
          "description" : " <p class=\"lead\">After Game 8, Ian Nepomniachtchi, the World Chess Championship challenger, found himself two points down in the Championship match, the most important event of his chess career, and unless he changes strategy, he is going to go down as the person who just fell apart during the Match of his life. So change he will. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/AC814CCE-4EB7-44B3-B0E1-C24CB91EE1C7.jpeg\" width=\"1800\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen, FIDE</div> </div> Apparently, Nepo enlisted the help of Sergey Karjakin, who is flying to Dubai right now to be on site and help plan a comeback for Nepo. Karjaki",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1994,22 +2026,6 @@ news_feed (
          "title" : "Aronian Beats Erigaisi In Armageddon To Clinch Tata Steel India Blitz"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 54th instalment of his ChessBase show \"Understanding before Moving\", Herman shows a fascinating study, in which White wins a position that on first glance seems to be impossible to win. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-54-pawn-vs-knight",
-         "pubDate" : "Sun, 21 Nov 2021 14:30:00 +0100",
-         "title" : "Understanding before Moving 54: Pawn vs knight"
-      },
-      {
-         "description" : "The 23rd edition of the European Team Championships are taking place on November 12-21 at the Hotel Toplice in the Terme Čatež Spa Complex, in eastern Slovenia. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. Read the full report on round 7... | The action kicks off at 15.00 CET (09.00 ET, 19.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2021-live",
-         "pubDate" : "Sun, 21 Nov 2021 14:00:00 +0100",
-         "title" : "European Team Championships - Round 9"
-      },
-      {
          "description" : " After a lot of interruption (and a lot of effort), the 2021 ACT Junior Chess League Interschool Finals were held this weekend. Due to ongoing Covid restrictions they were held online for the first time, and despite some small hiccups, the whole thing went well. Each final was restricted to a maximum of 6 teams of 4 or 5 players, although we ended up with less than that in each section. Where qualifiers had been held in person, the winning school (or schools) was invited, while for other Canberra zones we just had to choose based on rating. The tournaments were held on Lichess using a swiss format (although players did not play team mates), and supervision was via zoom. Most players played f",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2176,14 +2192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1436",
          "pubDate" : "Thu, 18 Nov 2021 10:33:34 +0000",
          "title" : "FIDE expands and extends Aid Package Program to 2022"
-      },
-      {
-         "description" : "Following the decisions on Arbiter title applications approved by the recent FIDE Council Meeting, England has another FIDE Arbiter. I am sure that everyone will...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/new-fide-arbiter-congratulations-2/",
-         "pubDate" : "Thu, 18 Nov 2021 08:58:19 +0000",
-         "title" : "New FIDE arbiter - congratulations!"
       },
       {
          "description" : " The Chess.com Speed Chess Championship takes place Mon 8th Nov to Sun 19th Dec 2021. Round 1 pairings: Nov 8 Giri 14-12 Duda, Nov 9 Ding 14-12 Mamedyarov, Nov 10 Rapport 16.5-14.5 Sarana, Nov 11 Nihal Sarin 15.5-10.5 Grischuk, Nov 11 Aronian 15-12 Dubov, Nov 12 Nakamura 22-10 Svidler, Nov 15 So 18-14 Xiong and Nov 29 Caruana 13.5-12.5 MVL.",
