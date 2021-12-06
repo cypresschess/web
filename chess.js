@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Christmas trees mixed with chess boards at the 2021 Forester Open. Grandmaster Christopher Repka and International Masters Brian Escalante Ramirez and Viktor Gazik shared $3,224 for first through third places, acquiring spending money for this holiday season.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-forester-open-2021-chess-among-the-trees",
+         "pubDate" : "Mon, 06 Dec 2021 21:00:00 +0100",
+         "title" : "The Forester Open 2021 - Chess Among the Trees"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Norwegian Helsinki Committee</strong>, a human rights organisation accuses <strong>FIDE</strong> of awarding its major events to authoritarian regimes like the United Arab Emirates, Russia, China and Kazakhstan for <a href=\"https://en.wikipedia.org/wiki/Sportswashing\">sportswashing</a>, directing attention away from poor human rights records and corruption. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/norwegian-campaign-against/",
+         "pubDate" : "Mon, 06 Dec 2021 19:16:40 +0100",
+         "title" : "Norwegian campaign against sportswashing"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Dansk Skoleskak</strong> has secured DKK2 million annually from 2022 to 2025 from the Danish Government which is €1,08 million over four years. Lobbying for its subsidy the organisation presented an <a href=\"https://skoleskak.dk/fl2022/\">economic analysis of the benefits of chess instruction</a> by <strong>Damvad</strong>, an economic consultancy. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/one-million-for-danish-school-chess/",
+         "pubDate" : "Mon, 06 Dec 2021 19:07:12 +0100",
+         "title" : "One million for Danish school chess"
+      },
+      {
          "description" : "At the halfway mark in the 1969 World Championship between Petrosian and Spassky, the match score was level. Petrosian only needed to draw the match to retain his title, and with his super-solid Petroff it looked like he was going to wrap things up. But in game 17 and 19 Petrosian suddenly switched to Sicilian, losing calamitously. John Saunders retraces the course of the match that decided who would defend the title against Fischer three years later.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +34,12 @@ news_feed (
          "title" : "Why did Petrosian stop playing the Petroff"
       },
       {
-         "description" : " <p class=\"lead\">After the second decisive game of the World Chess Championship 2021, Magnus Carlsen shared his feelings with journalists. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Yc3x_Q3_lAE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Magnus commented on his second win: \"The second win probably didn't happen without the first one. Everything is connected. For instance, if I had won the game against Caruana when I had a winning position or he had won one, there could have been many more decisive games. It's not a shock that the second win comes quickly after the first.\" Will Magnus's third victory follow the first two just as",
+         "description" : " <p class=\"lead\">After the second decisive game of the World Chess Championship 2021, Magnus Carlsen said that his second win probably came on the heels of the first one. \"The second win probably didn't happen without the first one. Everything is connected. For instance, if I had won the game against Caruana when I had a winning position or he had won one, there could have been many more decisive games. It's not a shock that the second win comes quickly after the first,\" - said the World Champion. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Yc3x_Q3_lAE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> After being asked about his chanc",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/the-joy-of-a-second-win-game-8-press-conference/",
          "pubDate" : "Mon, 06 Dec 2021 15:19:07 +0000",
-         "title" : "The Joy of a Second Win - Game 8 Press Conference"
+         "title" : "Magnus Carlsen: I Have Very Good Chances To Win the Match"
       },
       {
          "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 8 Match Score: 5-3 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 8 Sunday, 5 December 2021 Carlsen strikes again Nepomniachtchi at the brink Magnus Carlsen wins another game with white pieces and extends his lead to 2 points. After 8 games, the score is [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/06/2021-world-chess-championship-game-8/\">2021 World Chess Championship: Game #8</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -954,14 +978,6 @@ news_feed (
          "title" : "Time To Say Dubai: Round 4 of the Match"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Advertising any form of gambling is illegal in Dubai. The Expo 2020 has granted the world champion a special permission to display <strong>Unibet</strong> logos on his shirts during the match. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/51709551540-85ac5bbe93-k.1920.jpeg\" title=\"The Unibet logo is on the arm and above the breast of Magnus Carlsen. photo: Eric Rosen / FIDE\" data-title=\"The Unibet logo is on the arm and above the breast of Magnus Carlsen. (photo: Eric Rosen / FIDE)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/51709551540-85ac5bbe93-k.480.jpeg",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/an-exception-for-carlsen/",
-         "pubDate" : "Tue, 30 Nov 2021 12:01:26 +0100",
-         "title" : "An exception for Carlsen"
-      },
-      {
          "description" : "Covid might have knocked the Banff Open down, but it certainly didn't knock it out. The popular tournament was back with a vengeance this year, after being cancelled in 2020. The fifth ever Banff Open was held over the Remembrance Day long weekend and welcomed the strongest (and largest) group of players in its history, with one GM (Joel Benjamin), 3 IMs and 6 FMs taking part. | Photos: Banff Open",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1120,14 +1136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-4",
          "pubDate" : "Sun, 28 Nov 2021 14:23:00 -0800",
          "title" : "Nepo Holds Carlsen With Petroff In Game 4 FIDE World Chess Championship"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>World School Tournament</strong> at the Spanish <strong>Expo 2020</strong> pavilion set the precedent of a <a href=\"http://chess-results.com/tnr594347.aspx?lan=0\">first match between a team from the United Arab Emirates and a team from Israel</a>. The Green Village School team from North Tel Aviv won by 4:1. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/uae-team-played-israeli-team/",
-         "pubDate" : "Sun, 28 Nov 2021 21:55:12 +0100",
-         "title" : "UAE team played Israeli team"
       },
       {
          "description" : "",
@@ -1912,14 +1920,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ukraine-russia-win-2021-european-team-chess-championships",
          "pubDate" : "Mon, 22 Nov 2021 01:57:00 -0800",
          "title" : "Ukraine, Russia Winners At 2021 European Team Chess Championships"
-      },
-      {
-         "description" : "Levon Aronian beat Arjun Erigaisi in the Armageddon Playoffs to win Tata Steel Chess India 2021 Blitz. The second day of the Blitz event saw several players at the top throughout the day, including Nihal, Gukesh, Levon, Parham and Arjun. However, in the end it was Aronian and Arjun who tied for the first place at 11&frac12;/18 each. Arjun was completely winning in both Playoff games, and Aronian admitted that he should have lost at least one of them. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/express-report-levon-aronian-wins-tata-steel-chess-blitz-in-armageddon-playoffs",
-         "pubDate" : "Mon, 22 Nov 2021 09:45:00 +0100",
-         "title" : "Levon Aronian wins Tata Steel Chess Blitz in Armageddon Playoffs"
       },
       {
          "description" : " The 12th London Chess Classic takes place 3rd to 12th December 2021. The event is on a smaller scale due to the continuing coronavirus crisis and in a different venue, the Cavendish Centre. The main event is an England vs the Rest of the World Scheveningen match between England's Michael Adams, Luke McShane and Gawain Jones and a Rest of the World Team of Boris Gelfand, Nikita Vitiugov and Maxime Lagarde over 6 rounds. Also there are other event including the Pro-Biz and English Rapidplay Championship.",
