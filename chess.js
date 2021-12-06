@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Competitive chess is returning to its roots with the world championship match at the Expo 2020. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/51725959837-0ebde06046-k.1920.jpeg\" title=\"Magnus Carlsen gives his usual exclusive interview to Norwegian TV NRK after his second, possibly decisive win in game 8. photo: Eric Rosen / FIDE\" data-title=\"Magnus Carlsen gives his usual exclusive interview to Norwegian TV NRK after his second, possibly decisive win in game 8. (photo: Eric Rosen / FIDE)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/51725959837-0ebde06046-k.4",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/coming-full-circle/",
+         "pubDate" : "Mon, 06 Dec 2021 01:15:11 +0100",
+         "title" : "Coming full circle"
+      },
+      {
          "description" : "Match chess is very different from tournament play and, with no respite from your only enemy, considerably more stressful. The first game of a World Championship is a huge deal even for the defending champion (who has played championship matches before) and more so for debutants. In an excellent column, Jon Speelman looks at four first games from matches for the crown, all played between 1954 and 1972. | Pictured: Mikhail Tal | Photo: Bert Verhoeff, Anefo",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "Single battles"
       },
       {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/dddd74bf-10cb-4380-ad76-4000dcfe9266/Timman.jpg\" data-image-dimensions=\"192x256\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61ad4fa4b151d02ef7fa43df\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/dddd74bf-10cb-4380-ad76-4000dcfe9266/Timman.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo <a href=\"https://upload.wikimedia.org/wikipedia/commons/9/96/Timman_Jan.jpg\">via Wikimedia Commons </a> </figcaption> </figure> <figure cla",
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/dddd74bf-10cb-4380-ad76-4000dcfe9266/Timman.jpg\" data-image-dimensions=\"192x256\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61ad4fa4b151d02ef7fa43df\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/dddd74bf-10cb-4380-ad76-4000dcfe9266/Timman.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo of GM Jan Timman <a href=\"https://upload.wikimedia.org/wikipedia/commons/9/96/Timman_Jan.jpg\">via Wikimedia Commons </a> </figcaption> </fi",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/5/world-championship-bonus-pod-3-gm-jan-timman-on-the-match-so-far-nm-john-macarthur-with-a-dubai-trip-report",
@@ -1368,14 +1376,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1449",
          "pubDate" : "Fri, 26 Nov 2021 11:12:14 +0000",
          "title" : "FIDE QC to present new sets of regulations online"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> President <strong>Arkady Dvorkovich</strong> said in an <a href=\"https://ruchess.ru/en/news/report/arkady_dvorkovich_i_expect_more_than_two_decisive_games_in_carlsen_vs_nepomniachtchi_match/\">interview with the Russian Chess Federation</a> that the next world championship match shall take place in spring 2023 and the host of the <strong>Candidates Tournament</strong> in the second half of 2022 is to be chosen during the next days. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/next-world-championship-in-spring/",
-         "pubDate" : "Fri, 26 Nov 2021 12:02:27 +0100",
-         "title" : "Next world championship in spring 2023"
       },
       {
          "description" : "Every month a few ChessBase DVDs get released. Which one to get and which one to pass? Which one should be prioritized? Well, that you have to figure out on your own or with the help of your trainers or sparring partners. Once you have figured out the area you need to improve on or become stronger, it becomes that much easier to select a DVD and start working on it. Aanjaneya Phatak, shares his own personal experience as he reviews the latest DVD by Robert Ris, titled Calculation Training in Attack & Defence. Check out the review and see if it helps you to decide buying this DVD.",
