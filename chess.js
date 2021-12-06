@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Match chess is very different from tournament play and, with no respite from your only enemy, considerably more stressful. The first game of a World Championship is a huge deal even for the defending champion (who has played championship matches before) and more so for debutants. In an excellent column, Jon Speelman looks at four first games from matches for the crown, all played between 1954 and 1972. | Pictured: Mikhail Tal | Photo: Bert Verhoeff, Anefo",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-159",
+         "pubDate" : "Mon, 06 Dec 2021 01:10:00 +0100",
+         "title" : "Single battles"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/dddd74bf-10cb-4380-ad76-4000dcfe9266/Timman.jpg\" data-image-dimensions=\"192x256\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61ad4fa4b151d02ef7fa43df\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/dddd74bf-10cb-4380-ad76-4000dcfe9266/Timman.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo <a href=\"https://upload.wikimedia.org/wikipedia/commons/9/96/Timman_Jan.jpg\">via Wikimedia Commons </a> </figcaption> </figure> <figure cla",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/5/world-championship-bonus-pod-3-gm-jan-timman-on-the-match-so-far-nm-john-macarthur-with-a-dubai-trip-report",
+         "pubDate" : "Sun, 05 Dec 2021 23:53:33 +0000",
+         "title" : "World Championship Bonus Pod #3- GM Jan Timman on the match so far, NM John MacArthur with a Dubai trip report. "
+      },
+      {
+         "description" : "The ninth game of the 2021 FIDE World Chess Championship will begin on Tuesday, December 7, after a rest day on Monday. GM Magnus Carlsen defeated GM Ian Nepomniachtchi in the eighth game to increase his lead. The match score is now at 5-3, with t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-9",
+         "pubDate" : "Sun, 05 Dec 2021 14:15:00 -0800",
+         "title" : "How To Watch The FIDE World Chess Championship Game 9: Nepo - Carlsen"
+      },
+      {
+         "description" : "Magnus Carlsen now has a two-point lead at the World Championship match in Dubai, after beating Ian Nepomniachtchi's Petroff Defence in Sunday's game 8. Nepo made a couple of inexplicable moves in positions that seemed to be all but forcefully heading to an inevitable draw. Find here the crucial encounter analysed by elite grandmaster and theoretical expert Anish Giri. | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-g8",
+         "pubDate" : "Sun, 05 Dec 2021 22:20:00 +0100",
+         "title" : "World Championship Game 8: Nepomniachtchi self-destructs"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1466",
+         "pubDate" : "Sun, 05 Dec 2021 21:03:40 +0000",
+         "title" : "14 nations join Expo chess tournament among pavilions"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1465",
          "pubDate" : "Sun, 05 Dec 2021 19:01:44 +0000",
          "title" : "FIDE World Championship Dubai 2021: Something from nothing"
+      },
+      {
+         "description" : " Magnus Carlsen scored a second win in three games to take full control of the FIDE World Chess Championship match against Ian Nepomniachtchi after 8 games. Carlsen leads 5-3 with just 6 games left after winning two of the three games that took place Friday to Sunday. The record breaking 136 move game on Friday was always likely to have an impact on the two games that followed and I certainly felt Nepomniachtchi couldn't afford to lose another game, but he did. The game was another Petroff Defence with Carlsen playing the very rare 7.Nd2 - Nepomniachtchi reacted with 7...Nxd2 8.Bxd2 Bd6 which Carlsen said he believed from his preparation wasn't the best - after 9.0-0 Nepomniachtchi played th",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/nepomniachtchi-blunders-horribly-to-fall-two-games-behind-carlsen",
+         "pubDate" : "Sun, 5 Dec 2021 20:52:00 +0400",
+         "title" : "Nepomniachtchi blunders horribly to fall two games behind Carlsen - 8"
       },
       {
          "description" : " <p class=\"lead\">Game 8 of the World Chess Championship ended in a heartbreaking way for the Challenger. After an unexpected blunder, Magnus grabbed the opportunity and won the match. The overall score is 5-3 for the World Champion. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51725210002_8224c56fda_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51725239162_dad278296a_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51726019246_752be9aaad_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldch",
@@ -32,14 +80,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/12/05/2021-world-chess-championship-game-7/",
          "pubDate" : "Sun, 05 Dec 2021 13:16:29 +0000",
          "title" : "2021 World Chess Championship: Game #7"
-      },
-      {
-         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. In a marathon game, Magnus Carlsen grabbed the lead in Friday's sixth game. A rather uneventful 41-move draw followed. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
-         "pubDate" : "Sun, 05 Dec 2021 12:50:00 +0100",
-         "title" : "Carlsen vs. Nepomniachtchi - Game 8 Live!"
       },
       {
          "description" : "The bishop had to move to h1 to hold a draw. A ludicrous move, but one that the absolute majority had on their minds. In door 5 is a puzzle that an engine from 2019 couldn't figure out. Are you better than the computer?",
@@ -96,6 +136,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-championship-2021-the-arena",
          "pubDate" : "Sat, 04 Dec 2021 23:00:00 +0100",
          "title" : "World Chess Championship - the Arena"
+      },
+      {
+         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. Out of a Petroff Defence, Magnus Carlsen grabbed a second win in three days on Sunday. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
+         "pubDate" : "Sat, 04 Dec 2021 22:50:00 +0100",
+         "title" : "Carlsen vs. Nepomniachtchi - Games and commentary"
       },
       {
          "description" : " <p class=\"lead\">The World Chess Championship Match is a fascinating (and yes, very long) affair where some of the fastest-thinking people in the world battle for the championship title and millions of dollars that come with it. There are incredible moments there, new chess ideas are introduced and new trends set. The 14-game event where each game takes up to 8 hours is also a bit of a sartorial exercise in which the players wear suits (yes, there is a dress code) and try to look the part. Magnus Carlsen, the defending World Champion, has mastered this task with his signature systematic approach. He has two sets of suits, for black and white pieces. Very convenient, and also a useful piece o",
@@ -1962,22 +2010,6 @@ news_feed (
          "title" : "2021 ACT Interschool Finals"
       },
       {
-         "description" : "Records keep tumbling when Arjun Erigaisi plays tournaments. The 18-year-old continues his brilliant momentum in Blitz as he scored an unbeaten 6&frac12;/9 to gain sole lead. He is the only player who remained undefeated for nine rounds of Blitz. His total unbeaten streak is at 16 games now at Tata Steel Chess India 2021. That's not all: he has climbed to World no.14 and India no.2 in Blitz in the live ratings. Aronian is once again in pursuit of Arjun as he is just a half point behind him at 6/9. They will face each other in the 14th round. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-blitz-arjun-grabs-sole-lead-now-world-no-14-in-blitz",
-         "pubDate" : "Sun, 21 Nov 2021 10:00:00 +0100",
-         "title" : "Tata Steel Chess Blitz: Arjun grabs sole lead, now World no.14 in Blitz"
-      },
-      {
-         "description" : "The Tata Steel Chess India Rapid and Blitz Tournament is taking place on November 17-21 in Kolkata. This time, 14 players are taking part. The lineup is spearheaded by Levon Aronian. Vishy Anand is present at the tournament as a mentor to the young talents. Read the full report on Arjun&rsquo;s victory at the rapid section... | Follow the action live with expert commentary starting at 9.30 CET (3.30 ET, 14.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2021-live",
-         "pubDate" : "Sun, 21 Nov 2021 09:25:00 +0100",
-         "title" : "Tata Steel India Blitz, Final Day - Live!"
-      },
-      {
          "description" : "Russian Women's Team convincingly won the 2021 European Team Chess Championship sparing the last round of the event. With a Round 8 victory against Ukraine, Russia scored impeccable 16 match points to be ahead of Georgia whose players secured a silver medal. After Kateryna Lagno defeated Osmak Iulia, two draws happened on the board 1 and 3 &hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/russia-wins-european-womens-team-chess-championship-2021-with-a-round-to-spare/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2122,14 +2154,6 @@ news_feed (
          "title" : "Tata Steel Chess: Arjun Erigaisi sole leader with four wins on trot"
       },
       {
-         "description" : "AlphaZero&#39;s learning process is, to some extent, similar to that of humans. A new paper from DeepMind, which includes a contribution from the 14th world chess champion Vladimir Kramnik, provides strong evidence for the existence of human-understan...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/how-alphazero-learns-chess",
-         "pubDate" : "Thu, 18 Nov 2021 08:28:00 -0800",
-         "title" : "How AlphaZero Learns Chess"
-      },
-      {
          "description" : " One of the more common excuses for not playing tournament chess is \"too many annoying children\". While I think this isn't really a good excuse ('beat them early and often' is my motto), there is no denying that have a bunch of small kids running around playing 'tips' during your game can be off putting. So while the 2021 Vikings Weekender isn't designed to be a 'no juniors' event, the vaccination requirement for the event, and the timing of the roll out of vaccinations for Under 12's in Australia, means that Under 12's won't be playing (and we won't be getting a visit from Prime Minister Trump either). As junior players do make up a significant number of entries in chess events these days, ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2240,14 +2264,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/do-not-attempt.html",
          "pubDate" : "Mon, 15 Nov 2021 12:54:00 +0000",
          "title" : "Do not attempt"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1433",
-         "pubDate" : "Sun, 14 Nov 2021 22:29:32 +0000",
-         "title" : "Olufemi Balogun and Perpetual Ogbiyoyo win Nigerian Championship"
       }
    ]
 }
