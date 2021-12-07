@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. Out of a Petroff Defence, Magnus Carlsen grabbed a second win in three days on Sunday. He now has a 2-point lead going into the final six games of the match. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
+         "pubDate" : "Tue, 07 Dec 2021 13:00:00 +0100",
+         "title" : "Carlsen vs. Nepomniachtchi - Game 9 Live!"
+      },
+      {
+         "description" : "First, thank you very much for all the answers! We are delighted that this calendar is so well received. Door number 6 proved to be one of the most difficult ones, although the majority were able to find the somewhat bizarre move Kh8. If you thought door 6 was tough already, today we raise the difficulty even more. Good luck!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-7654",
+         "pubDate" : "Tue, 07 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 7"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Norwegian Helsinki Committee</strong>, a human rights organisation, accuses <strong>FIDE</strong> of awarding its major events to authoritarian regimes like the United Arab Emirates, Russia, China and Kazakhstan for <a href=\"https://en.wikipedia.org/wiki/Sportswashing\">sportswashing</a>, directing attention away from poor human rights records and corruption, <a href=\"https://www.aftenposten.no/sport/sjakk/i/7dxkoW/sjakk-vm-skjer-i-et-av-verdens-mest-undertrykte-land-planen-deres-l\">in an article of the newspaper</a> <strong>Aftenposten</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/norwegian-campaign-against/",
+         "pubDate" : "Tue, 07 Dec 2021 11:25:15 +0100",
+         "title" : "Norwegian campaign against sportswashing"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Competitive chess is returning to its roots with the world championship match at the Expo 2020. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/51725959837-0ebde06046-k.1920.jpeg\" title=\"Magnus Carlsen gives his usual exclusive interview to Norwegian TV NRK after his second, possibly decisive win in game 8. photo: Eric Rosen / FIDE\" data-title=\"Magnus Carlsen gives his usual exclusive interview to Norwegian TV NRK after his second, possibly decisive win in game 8. (photo: Eric Rosen / FIDE)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/51725959837-0ebde06046-k.4",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/coming-full-circle/",
+         "pubDate" : "Tue, 07 Dec 2021 11:22:05 +0100",
+         "title" : "Coming full circle"
+      },
+      {
+         "description" : "This year, the Dutch National Championship was played in two stages. In the knockout preliminaries four players had qualified for the finals: Max Warmerdam, Robin Swinkels, Roeland Pruijssers, and Hing Ting Lai. Max Warmerdam convincingly won the finals, a double round-robin which was played last week. | Photos: Harry Gielen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/max-warmerdam-wins-dutch-championship",
+         "pubDate" : "Tue, 07 Dec 2021 11:19:51 +0100",
+         "title" : "Max Warmerdam wins Dutch Championship"
+      },
+      {
+         "description" : "ECU E-Magazine November 2021 is out! In this edition of the ECU Magazine you may read about: FIDE World Chess Championship Match 2021, Magnus Carlsen Ian Nepomniachtchi European Team Chess Championship 2021 ECU Congress 2021 Mitropa Chess Association Liechtenstein Chess Federation 50 years anniversary European Small Nations Team Chess Championship 2021 London Chess Classic 2021 European Online&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-november-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-november-2021/",
+         "pubDate" : "Tue, 07 Dec 2021 09:26:15 +0000",
+         "title" : "ECU E-MAGAZINE NOVEMBER 2021"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/md02iWFavsE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-9-of-the-match/",
+         "pubDate" : "Tue, 07 Dec 2021 08:50:21 +0000",
+         "title" : "Time To Say Dubai: Round 9 of the Match"
+      },
+      {
          "description" : "In queen endgames having the initiative is crucial. In the diagram position it is Black to move and it is Black who has the initiative. But how should he proceed?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-ding-aronian",
-         "pubDate" : "Mon, 06 Dec 2021 13:07:59 -0800",
+         "pubDate" : "Mon, 06 Dec 2021 13:07:00 -0800",
          "title" : "Speed Chess Championship: Ding Eliminates Aronian, Reaches Semifinals"
       },
       {
@@ -32,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-forester-open-2021-chess-among-the-trees",
          "pubDate" : "Mon, 06 Dec 2021 21:00:00 +0100",
          "title" : "The Forester Open 2021 - Chess Among the Trees"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Norwegian Helsinki Committee</strong>, a human rights organisation accuses <strong>FIDE</strong> of awarding its major events to authoritarian regimes like the United Arab Emirates, Russia, China and Kazakhstan for <a href=\"https://en.wikipedia.org/wiki/Sportswashing\">sportswashing</a>, directing attention away from poor human rights records and corruption. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/norwegian-campaign-against/",
-         "pubDate" : "Mon, 06 Dec 2021 19:16:40 +0100",
-         "title" : "Norwegian campaign against sportswashing"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Dansk Skoleskak</strong> has secured DKK2 million annually from 2022 to 2025 from the Danish Government which is €1,08 million over four years. Lobbying for its subsidy the organisation presented an <a href=\"https://skoleskak.dk/fl2022/\">economic analysis of the benefits of chess instruction</a> by <strong>Damvad</strong>, an economic consultancy. </div> ",
@@ -138,14 +186,6 @@ news_feed (
          "title" : "MPL 50TH NATIONAL JUNIOR (UNDER-20) & 35TH NATIONAL JUNIOR GIRLS (UNDER-20) CHESS CHAMPIONSHIPS-2022"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Competitive chess is returning to its roots with the world championship match at the Expo 2020. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/51725959837-0ebde06046-k.1920.jpeg\" title=\"Magnus Carlsen gives his usual exclusive interview to Norwegian TV NRK after his second, possibly decisive win in game 8. photo: Eric Rosen / FIDE\" data-title=\"Magnus Carlsen gives his usual exclusive interview to Norwegian TV NRK after his second, possibly decisive win in game 8. (photo: Eric Rosen / FIDE)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/51725959837-0ebde06046-k.4",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/coming-full-circle/",
-         "pubDate" : "Mon, 06 Dec 2021 01:15:11 +0100",
-         "title" : "Coming full circle"
-      },
-      {
          "description" : "Match chess is very different from tournament play and, with no respite from your only enemy, considerably more stressful. The first game of a World Championship is a huge deal even for the defending champion (who has played championship matches before) and more so for debutants. In an excellent column, Jon Speelman looks at four first games from matches for the crown, all played between 1954 and 1972. | Pictured: Mikhail Tal | Photo: Bert Verhoeff, Anefo",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -162,12 +202,12 @@ news_feed (
          "title" : "World Championship Bonus Pod #3- GM Jan Timman on the match so far, NM John MacArthur with a Dubai trip report. "
       },
       {
-         "description" : "The ninth game of the 2021 FIDE World Chess Championship will begin on Tuesday, December 7, after a rest day on Monday. GM Magnus Carlsen defeated GM Ian Nepomniachtchi in the eighth game to increase his lead. The match score is now at 5-3, with t...",
+         "description" : "Our coverage of game nine of the 2021 FIDE World Chess Championship is underway! GM Magnus Carlsen defeated GM Ian Nepomniachtchi in the eighth game to increase his lead. The match score is now at 5-3, with the defending world champion having a tw...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-9",
          "pubDate" : "Sun, 05 Dec 2021 14:15:00 -0800",
-         "title" : "How To Watch The FIDE World Chess Championship Game 9: Nepo - Carlsen"
+         "title" : "LIVE: FIDE World Chess Championship Game 9 Nepo - Carlsen"
       },
       {
          "description" : "Magnus Carlsen now has a two-point lead at the World Championship match in Dubai, after beating Ian Nepomniachtchi's Petroff Defence in Sunday's game 8. Nepo made a couple of inexplicable moves in positions that seemed to be all but forcefully heading to an inevitable draw. Find here the crucial encounter analysed by elite grandmaster and theoretical expert Anish Giri. | Photo: Eric Rosen",
@@ -280,14 +320,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-championship-2021-the-arena",
          "pubDate" : "Sat, 04 Dec 2021 23:00:00 +0100",
          "title" : "World Chess Championship - the Arena"
-      },
-      {
-         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. Out of a Petroff Defence, Magnus Carlsen grabbed a second win in three days on Sunday. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
-         "pubDate" : "Sat, 04 Dec 2021 22:50:00 +0100",
-         "title" : "Carlsen vs. Nepomniachtchi - Games and commentary"
       },
       {
          "description" : " <p class=\"lead\">The World Chess Championship Match is a fascinating (and yes, very long) affair where some of the fastest-thinking people in the world battle for the championship title and millions of dollars that come with it. There are incredible moments there, new chess ideas are introduced and new trends set. The 14-game event where each game takes up to 8 hours is also a bit of a sartorial exercise in which the players wear suits (yes, there is a dress code) and try to look the part. Magnus Carlsen, the defending World Champion, has mastered this task with his signature systematic approach. He has two sets of suits, for black and white pieces. Very convenient, and also a useful piece o",
@@ -1008,14 +1040,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-return-of-the-king-and-queen-and-rooks-bishops-etc",
          "pubDate" : "Tue, 30 Nov 2021 11:30:00 +0100",
          "title" : "The Return of the King... and Queen... and Rooks, Bishops etc...."
-      },
-      {
-         "description" : " <p class=\"lead\">Magnus Carlsen is currently the defending World Champion against Ian Nepomniachtchi in Dubai, and today along with the fourth game of the World Championship, Magnus is turning 31. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51701747561_4c883fbebe_k-min.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen</div> </div> If we could put Magnus' legacy in a sentence, then we would use the words of the author Olimpiu G. Urcan: \"Magnus is the world's highest-rated chess player for 10 years and counting, highest rating in history, nearly 40 super-tournament wins, longest unbeaten streak in top-level standard play, ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/carlsens-legacy-at-31/",
-         "pubDate" : "Tue, 30 Nov 2021 09:37:39 +0000",
-         "title" : "Carlsen's Legacy at 31"
       },
       {
          "description" : " &#8220;They ignore you now, but they'll need you later&#8221; Unknown Having the chance to play a Grandmaster is a highlight for many of us. It is true the Swiss format have increased those chances, but you still need to perform well to have the minimum FIDE rating to register. The second condition, as important as <a href=\"https://chessimprover.com/ignore-at-your-peril-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Ignore at Your Peril (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/ignore-at-your-peril-2/\">Ignore at Your Peril (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1882,28 +1906,12 @@ news_feed (
          "title" : "Karsten M&uuml;ller's Endgame Magic Show #171: With Harald Schneider-Zinner"
       },
       {
-         "description" : "The UK's favourite chess festival, the London Chess Classic, organised by the charity Chess in Schools and Communities (CSC), is back for its 12th edition on December 3-12, 2021 at a brand new venue, the Cavendish Conference Centre in central London. Due to limitations on numbers imposed by Covid, the festival will look a little different this year - but the organisers are sure that chess fans will like the fantastic range of events on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2021",
-         "pubDate" : "Mon, 22 Nov 2021 18:00:00 +0100",
-         "title" : "London Chess Classic 2021"
-      },
-      {
          "description" : "Running over five Monday evenings from 7.00pm to 9.00pm 7th February; 14th February; 21st February; 28th February; 7th March, with a course fee of...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/level-1-arbiter-course-february-2022/",
          "pubDate" : "Mon, 22 Nov 2021 16:55:43 +0000",
          "title" : "Level 1 Arbiter Course February 2022"
-      },
-      {
-         "description" : "This week, well-known Dutch trainer Robert Ris shows how the young Indian Grandmaster Arjun Erigaisi used the London System to win in only 19 moves against Sam Shankland at the Tata Steel India Tournament in Kolkata. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-grandmaster-miniature-with-the-london-system",
-         "pubDate" : "Mon, 22 Nov 2021 17:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A Grandmaster Miniature with the London System"
       },
       {
          "description" : "",
@@ -2216,14 +2224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1434",
          "pubDate" : "Wed, 17 Nov 2021 11:38:45 +0000",
          "title" : "European Team Championship in Terme Catez crosses midpoint"
-      },
-      {
-         "description" : "After five played rounds at the European Team Chess Championship 2021 in Terme Catez, Slovenia, six teams of the Open section and the Russian Women's team go to the resting day heading the crosstables. The top two matches of the European Team Chess Championship 2021 ended in a draw 2-2 result. All four games of the Azerbaijan &hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-r5-report/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-team-chess-championship-2021-r5-report/",
-         "pubDate" : "Wed, 17 Nov 2021 06:40:49 +0000",
-         "title" : "European Team Chess Championship 2021 - R5 report"
       },
       {
          "description" : " From the publisher's blurb: In 1930s British India, a humble servant learns the art of chaturanga, the ancient Eastern ancestor of chess. His natural talent soon catches the attention of the maharaja, who introduces him to the Western version of the game. Brought to England as the prince's pawn, Malik becomes a chess legend, winning <a href=\"http://britishchessnews.com/2021/11/16/game-of-the-gods/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Game of the Gods</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/11/16/game-of-the-gods/\">Game of the Gods</a> appeared first on <a rel=\"nofollow\" href=\"http://br",
