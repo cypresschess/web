@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Game 9 of the Match has finished with Nepo resigning after move 40. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2047\" data-ratio=\"1.4996336996337\"> <img src=\"https://worldchess.com/news/pictures/51731623939_d21df444bf_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51731906340_836c201d2c_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51730140762_fac910c8c3_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51730158627_9bfc863cb6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51730160192_",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nepo-blunders-a-bishop-loses-game-9/",
+         "pubDate" : "Tue, 07 Dec 2021 16:26:22 +0000",
+         "title" : "Nepo Blunders Bishop, Loses Game 9"
+      },
+      {
+         "description" : "Not quite a London System and not quite a Veresov. The unusually named 'Barry Attack' lies somewhere between the two. Yet another challenging queen pawn system that Black has to prepare for.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-andrew-martin-the-barry-attack",
+         "pubDate" : "Tue, 07 Dec 2021 17:06:54 +0100",
+         "title" : "New: Andrew Martin - The Barry Attack"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/942dbc09-368d-4fcd-b83e-28381dde1e8d/Alex%2BCrompton%2Bprofile.jpg\" data-image-dimensions=\"300x296\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61af61030219904d2b03e9b3\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/942dbc09-368d-4fcd-b83e-28381dde1e8d/Alex%2BCrompton%2Bprofile.jpg?format=1000w\" /> </figure> <p class=\"\">Welcome back to another Adult Improver Edition of Perpetual Chess. In this episode, we feature another <em>Queen's Gambit</em> convert to Pe",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/7/ep-256-alex-crompton-adult-improver-series",
+         "pubDate" : "Tue, 07 Dec 2021 13:28:58 +0000",
+         "title" : "EP 256- Alex Crompton (Adult Improver Series) "
+      },
+      {
+         "description" : " Picking up a rook with one bishop isn't that uncomment, but I'm not sure I have ever collected both rooks with the same bishop. My opponent missed a tactic along the h1-a8 diagonal allowing me to win the rook on a8, and a few moves later I managed to trap the other rook on g8, with my knight and bishop. <br /> <b>Press,Shaun - Lee,Tiam Woo [D02]</b><br />Xmas Rapid (4), 07.12.2021 <script>new PgnViewer( { boardName: \"game1293\", movesFormat: \"default\", pgnString:'1.d4 d5 2.Nf3 e6 3.g3 h6 4.Bg2 Nf6 5.O-O c5 6.c4 b6 7.cxd5 Nxd5 8.e4 Nf6 9.Nc3 Bb7 10.d5 exd5 11.exd5 Nxd5 12.Ne5 Nxc3 13.Qxd8+ Kxd8 14.Bxb7 Kc7 15.Bxa8 Ne2+ 16.Kg2 f6 17.Ng6 Rg8 18.Bd5 Bd6 19.Bxg8 Nc6 20.Be3 Ned4 {and White won} 1-",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/bishop-takes-out-both-rooks.html",
+         "pubDate" : "Tue, 07 Dec 2021 12:34:00 +0000",
+         "title" : "Bishop takes out both rooks"
+      },
+      {
          "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. Out of a Petroff Defence, Magnus Carlsen grabbed a second win in three days on Sunday. He now has a 2-point lead going into the final six games of the match. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -202,12 +234,12 @@ news_feed (
          "title" : "World Championship Bonus Pod #3- GM Jan Timman on the match so far, NM John MacArthur with a Dubai trip report. "
       },
       {
-         "description" : "Our coverage of game nine of the 2021 FIDE World Chess Championship is underway! GM Magnus Carlsen defeated GM Ian Nepomniachtchi in the eighth game to increase his lead. The match score is now at 5-3, with the defending world champion having a tw...",
+         "description" : "GM Magnus Carlsen scored once more in game nine of the 2021 FIDE World Championship after GM Ian Nepomniachtchi slipped on move 27 with the white pieces and trapped his bishop. The world champion now leads the match 6-3, putting him on a clear pat...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-9",
          "pubDate" : "Sun, 05 Dec 2021 14:15:00 -0800",
-         "title" : "LIVE: FIDE World Chess Championship Game 9 Nepo - Carlsen"
+         "title" : "BREAKING: Carlsen On Verge Of Retaining Title As Nepo Blunders Piece"
       },
       {
          "description" : "Magnus Carlsen now has a two-point lead at the World Championship match in Dubai, after beating Ian Nepomniachtchi's Petroff Defence in Sunday's game 8. Nepo made a couple of inexplicable moves in positions that seemed to be all but forcefully heading to an inevitable draw. Find here the crucial encounter analysed by elite grandmaster and theoretical expert Anish Giri. | Photo: Eric Rosen",
@@ -1026,14 +1058,6 @@ news_feed (
          "title" : "Cambridgeshire County Chess Championships results"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/kU6sweSbaCU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-4-of-the-match/",
-         "pubDate" : "Tue, 30 Nov 2021 11:49:24 +0000",
-         "title" : "Time To Say Dubai: Round 4 of the Match"
-      },
-      {
          "description" : "Covid might have knocked the Banff Open down, but it certainly didn't knock it out. The popular tournament was back with a vengeance this year, after being cancelled in 2020. The fifth ever Banff Open was held over the Remembrance Day long weekend and welcomed the strongest (and largest) group of players in its history, with one GM (Joel Benjamin), 3 IMs and 6 FMs taking part. | Photos: Banff Open",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1554,7 +1578,7 @@ news_feed (
          "title" : "Can Nepo win chess war against Magnus Carlsen?"
       },
       {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 1 &frac12; 1 5 Caruana &frac12; &frac12; &frac12; &frac12; &frac12; 0 &frac12; 0 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 1 &frac12; 1 1 6 Caruana &frac12; &frac12; &frac12; &frac12; &frac12; 0 &frac12; 0 0 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/",
@@ -1898,14 +1922,6 @@ news_feed (
          "title" : "Play Chess Against Nepomniachtchi And Caruana Bots"
       },
       {
-         "description" : "In the Endgame Magic Show #171 Karsten M&uuml;ller invites the Austrian author, trainer, and organiser IM Harald Schneider-Zinner to show some of his most interesting endgames. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-171-with-harald-schneider-zinner",
-         "pubDate" : "Mon, 22 Nov 2021 19:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #171: With Harald Schneider-Zinner"
-      },
-      {
          "description" : "Running over five Monday evenings from 7.00pm to 9.00pm 7th February; 14th February; 21st February; 28th February; 7th March, with a course fee of...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2240,22 +2256,6 @@ news_feed (
          "link" : "https://chessimprover.com/the-great-ones-5/",
          "pubDate" : "Tue, 16 Nov 2021 17:30:17 +0000",
          "title" : "The Great Ones (5)"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2fd40c66-524b-4c5b-b20e-de3fd29431aa/Soltis1.JPG\" data-image-dimensions=\"640x510\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6193b876ade464563e9224fa\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2fd40c66-524b-4c5b-b20e-de3fd29431aa/Soltis1.JPG?format=1000w\" /> </figure> <p class=\"\">Andy Soltis back in 1981, photo <a href=\"https://commons.wikimedia.org/wiki/File:Andy_Soltis_1981.JPG\">via Wikimedia Commons </a> <p class=\"\">GM Andy Soltis is an award winning",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/16/episode-252-gm-andy-soltis-returns-again",
-         "pubDate" : "Tue, 16 Nov 2021 14:10:39 +0000",
-         "title" : "Episode 252- GM Andy Soltis returns again"
-      },
-      {
-         "description" : " Another week, another Asian Chess Federation online event. This week it is the Asian Amateur Championship, which is being held as a 9 round rapid event over 3 days (and yes I am an arbiter). While Australia hasn't really embraced these online events*, other countries have. There is a sizeable New Zealand contingent, while even Macau has a representative, although in this case it is CM Hui Li, currently resident in Canberra. At the end of the first day he is tied for first place on 3/3, along with 15 other players. With 150 players in the tournament, it will of course take more rounds (at least 7), before a likely winner is known. (* Australia doesn't really embrace offline events in Asia ei",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/2021-asian-online-amateur.html",
-         "pubDate" : "Tue, 16 Nov 2021 13:15:00 +0000",
-         "title" : "2021 Asian Online Amateur"
       }
    ]
 }
