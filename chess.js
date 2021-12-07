@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two quarterfinal matches in the 2021 Speed Chess Championship Main Event occurred on December 6. In the first match, GM Ding Liren defeated GM Levon Aronian by a 15-11 score. You can read the full report for the Ding-Aronian match here. This rep...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-nakamura-giri",
+         "pubDate" : "Mon, 06 Dec 2021 15:21:00 -0800",
+         "title" : "Speed Chess Championship: Nakamura Defeats Giri, Will Face Ding In SF"
+      },
+      {
+         "description" : "GM Ding Liren beat GM Levon Aronian by a score of 15-11 in the second quarterfinal match of the 2021 Speed Chess Championship Main Event. In the semifinals, he will face the winner of&#38;nbsp;GM Hikaru Nakamura vs. GM Anish Giri. The last quarterfi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-ding-aronian",
+         "pubDate" : "Mon, 06 Dec 2021 13:07:59 -0800",
+         "title" : "Speed Chess Championship: Ding Eliminates Aronian, Reaches Semifinals"
+      },
+      {
          "description" : "Christmas trees mixed with chess boards at the 2021 Forester Open. Grandmaster Christopher Repka and International Masters Brian Escalante Ramirez and Viktor Gazik shared $3,224 for first through third places, acquiring spending money for this holiday season.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2018,14 +2034,6 @@ news_feed (
          "title" : "Levon Aronian Wins Tata Steel Chess India Blitz Category"
       },
       {
-         "description" : "After a nail-biting finish that went all the way to armageddon, GM Levon Aronian won the Tata Steel Chess India blitz tournament on Sunday. The playoff was necessary after he had finished in a tie with GM Arjun Erigaisi, who impressed once again b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aronian-wins-2021-tata-steel-india-blitz",
-         "pubDate" : "Sun, 21 Nov 2021 07:15:00 -0800",
-         "title" : "Aronian Beats Erigaisi In Armageddon To Clinch Tata Steel India Blitz"
-      },
-      {
          "description" : " After a lot of interruption (and a lot of effort), the 2021 ACT Junior Chess League Interschool Finals were held this weekend. Due to ongoing Covid restrictions they were held online for the first time, and despite some small hiccups, the whole thing went well. Each final was restricted to a maximum of 6 teams of 4 or 5 players, although we ended up with less than that in each section. Where qualifiers had been held in person, the winning school (or schools) was invited, while for other Canberra zones we just had to choose based on rating. The tournaments were held on Lichess using a swiss format (although players did not play team mates), and supervision was via zoom. Most players played f",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2096,14 +2104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1440",
          "pubDate" : "Fri, 19 Nov 2021 19:21:04 +0000",
          "title" : "Mark Plotkin wins Banff Open 2021"
-      },
-      {
-         "description" : "After making a great impression at the Lindores Abbey Blitz tournament last week, GM Arjun Erigaisi did even better in Kolkata, India as the winner of the Tata Steel Chess India rapid tournament. The talented 18-year-old Indian GM clinched the rap...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-tata-steel-chess-india-rapid",
-         "pubDate" : "Fri, 19 Nov 2021 09:26:30 -0800",
-         "title" : "Erigaisi Wins Tata Steel Chess India Rapid"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87805078.cms\" /> There's no stopping Indian youngster Arjun Erigaisi. The 18-year-old carried on from where he left on the second day to claim the rapid title of the Kolkata rapid and blitz chess meet at the National Library on Friday.",
