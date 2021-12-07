@@ -2,7 +2,55 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " <p class=\"lead\">Game 9 of the Match has finished with Nepo resigning after move 40. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2047\" data-ratio=\"1.4996336996337\"> <img src=\"https://worldchess.com/news/pictures/51731623939_d21df444bf_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51731906340_836c201d2c_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51730140762_fac910c8c3_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51730158627_9bfc863cb6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51730160192_",
+         "description" : "The World Championship match in Dubai might theoretically finish after 11 (out of 14) games, as Magnus Carlsen scored a third victory in four games after Ian Nepomniachtchi inexplicably blundered a piece in an equal position on Tuesday. The challenger now needs to win 3 out of the 5 remaining encounters to take the match to tiebreaks. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-g9",
+         "pubDate" : "Tue, 07 Dec 2021 21:30:00 +0100",
+         "title" : "World Championship Game 9: Disaster strikes for Nepo"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1468",
+         "pubDate" : "Tue, 07 Dec 2021 20:27:27 +0000",
+         "title" : "FIDE World Championship 2021: Hindsight is not enough"
+      },
+      {
+         "description" : " &#8220;They ignore you now, but they'll need you later&#8221; Unknown The first part of this game was presented HERE. So far Black has played the opening poorly and the Grandmaster (as White) has slowly but surely built up a nice position. White does not have just the space advantage but also has no weakness, as <a href=\"https://chessimprover.com/ignore-at-your-peril-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Ignore at Your Peril (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/ignore-at-your-peril-3/\">Ignore at Your Peril (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/ignore-at-your-peril-3/",
+         "pubDate" : "Tue, 07 Dec 2021 19:42:53 +0000",
+         "title" : "Ignore at Your Peril (3)"
+      },
+      {
+         "description" : "Are you looking for yet another way to have fun playing on Chess.com!? Then today is your lucky day, because we are glad to announce a new feature:&#38;nbsp;Leagues are coming on December 13! Earn trophies just by playing games the way you normally do...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-releases-leagues",
+         "pubDate" : "Tue, 07 Dec 2021 11:21:45 -0800",
+         "title" : "Chess.com Releasing New Leagues Feature With $50,000 Contest"
+      },
+      {
+         "description" : " <p class=\"lead\">Ian Nepomniachtchi just lost game 9 of the Championship Match and probably lost a shred of chances to capture the Championship title (the Match score after game 9 is 6 - 3 with 5 games to go). To make things worse, a popular adult film star has offered the Russian player to spend a night with him (if he wins). He lost. The Russian challenger simply can't get a break. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/132B8417-112E-4974-8D91-994C6EEF45B5.jpeg\" width=\"1500\" height=\"946\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/m1han1ka69/?utm_source=ig_embed&ig_rid=669933b3-3f91-4896-8b72-89ce9b8a3bce\">MikaNika6",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nepo-loses-game-9-and-possibly-the-match-despite-adult-film-star/",
+         "pubDate" : "Tue, 07 Dec 2021 17:55:50 +0000",
+         "title" : "Nepo Loses Game 9 (and Possibly the Match) Despite Adult Film Star's Support"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1467",
+         "pubDate" : "Tue, 07 Dec 2021 17:17:38 +0000",
+         "title" : "Sheikh Hamdan bin Rashid Cup kicks off in Dubai"
+      },
+      {
+         "description" : " <p class=\"lead\">Game 9 of the World Chess Championship ended with Nepo blundering material, and finally resigning after move 40. With this loss, Nepo effectively ended his quest for the Championship title. His chances to win the Match are less than 1 out of 100. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2047\" data-ratio=\"1.4996336996337\"> <img src=\"https://worldchess.com/news/pictures/51731623939_d21df444bf_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51731906340_836c201d2c_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51730140762_fac910c8c3_k.jpg\" width=\"2047\" height=\"1365\" alt=",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/nepo-blunders-a-bishop-loses-game-9/",
@@ -34,12 +82,12 @@ news_feed (
          "title" : "Bishop takes out both rooks"
       },
       {
-         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. Out of a Petroff Defence, Magnus Carlsen grabbed a second win in three days on Sunday. He now has a 2-point lead going into the final six games of the match. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Niki Riga",
+         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. A huge blunder by Ian Nepomniachtchi gave Magnus Carlsen a third win in four games on Tuesday. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2021-live",
          "pubDate" : "Tue, 07 Dec 2021 13:00:00 +0100",
-         "title" : "Carlsen vs. Nepomniachtchi - Game 9 Live!"
+         "title" : "Carlsen vs. Nepomniachtchi - Games and commentary"
       },
       {
          "description" : "First, thank you very much for all the answers! We are delighted that this calendar is so well received. Door number 6 proved to be one of the most difficult ones, although the majority were able to find the somewhat bizarre move Kh8. If you thought door 6 was tough already, today we raise the difficulty even more. Good luck!",
@@ -234,7 +282,7 @@ news_feed (
          "title" : "World Championship Bonus Pod #3- GM Jan Timman on the match so far, NM John MacArthur with a Dubai trip report. "
       },
       {
-         "description" : "GM Magnus Carlsen scored once more in game nine of the 2021 FIDE World Championship after GM Ian Nepomniachtchi slipped on move 27 with the white pieces and trapped his bishop. The world champion now leads the match 6-3, putting him on a clear pat...",
+         "description" : "GM Magnus Carlsen is on the verge of defending his world title after scoring his third win in the 2021 FIDE World Chess Championship on Tuesday. GM Ian Nepomniachtchi committed an even bigger blunder than in the previous game, this time allowing a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-9",
@@ -330,7 +378,7 @@ news_feed (
          "title" : "Time To Say Dubai: Round 8 of the Match"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Carlsen's win in the sixth game of the <strong>FIDE World Championship</strong> on Friday reached a live audience on all streams combined peaking at 613,376 viewers <a href=\"https://escharts.com/tournaments/chess/fide-world-championship-2021\">according to Esports Charts</a>. However, when in March Irene Sukandar played Dadang Subur aka Dewa Kipas to expose him as a cheater, <a href=\"https://www.chess.com/news/view/most-watched-chess-stream-in-history-dewa-kipas\">1,25 million had watched on several streams combined</a>. </div> ",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Carlsen's win in the sixth game of the <strong>FIDE World Championship</strong> on Friday reached a live audience on all streams combined peaking at 613,376 viewers <a href=\"https://escharts.com/tournaments/chess/fide-world-championship-2021\">according to Esports Charts</a>. However, when in March Irene Sukandar played Dadang Subur aka Dewa Kipas to expose him as a cheater, <a href=\"https://www.chess.com/news/view/most-watched-chess-stream-in-history-dewa-kipas\">1,25 million had watched on several streams combined</a>. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">24 Nov - 16 Dec 2021</span>: <a href=\"https://",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2021/613376-peak-viewers/",
@@ -416,14 +464,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-championship-game-7-nepo-didnt-bounce-back/",
          "pubDate" : "Sat, 04 Dec 2021 15:12:58 +0000",
          "title" : "World Chess Championship Game 7: Nepo didn't bounce back"
-      },
-      {
-         "description" : "\"The mind is inured to caution, foresight and circumspection&hellip;\" Dr Samuel Johnson, from his introduction to William Payne's 1756 Treatise on the Game of Draughts. My inspiration for this week's title is taken from Harold Macmillan's famous \"Wind of Change\" speech, delivered at Accra, Ghana on January 10, 1960. It may seem perverse to focus on []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/draught-of-change/",
-         "pubDate" : "Sat, 04 Dec 2021 12:39:42 +0000",
-         "title" : "Draught of Change"
       },
       {
          "description" : " Late last night (my time), I predicted that Game 6 of the World Championship would end in a draw. I'm glad to say that I got that prediction wrong! In the longest World Championship game ever, Carlsen keep grinding away until he finally found a win in a tricky Q v stuff ending (where Carlsen had the stuff). I'm not going to post the game as there are plenty of other places to see it, but now that one player has taken the lead, the next few games should see both players pushing for a little more out of the opening. ",
@@ -1034,14 +1074,6 @@ news_feed (
          "title" : "Episode 255- WGM Tatev Abrahamyan "
       },
       {
-         "description" : " <p class=\"lead\">The fourth game day of the World Chess Championship, which is taking place in Dubai, ended in a draw after 33 moves. During the after-match press conference, Carlsen described the result as ok. After four games, the score is 2 - 2. This is the 18th draw in a row in the World Chess Championship matches, the last decisive game was back in 2016 in New York in the Carlsen-Karjakin match. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51715836594_47b0fe324c_k-min.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51716034835_60bd8e7989_k-min.jp",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/4-game/",
-         "pubDate" : "Tue, 30 Nov 2021 15:18:36 +0000",
-         "title" : "World Chess Championship Game 4: A Drawish day, but it's OK"
-      },
-      {
          "description" : " The FIDE World Chess Championship in Dubai resumed today after its first rest day. Game four took place on Magnus Carlsen's birthday - he has reasonable memories of playing on this day - winning as he did the tie-break match against Sergey Karjakin in 2016. Today Carlsen had the white pieces said that he expected the Petroff - Nepomniachtchi had used it in a game in the Candidates and that he was ready for it. \"I tried something concrete - it didn't work. That's a normal result. I didn't expect him to have missed the line I played completely but in some other iterations there can be a lot of difficult decisions to make for black. But I think the way that he played there was just - there are",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1360,14 +1392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sagar-amruta-dubai-2021-day-2",
          "pubDate" : "Sat, 27 Nov 2021 15:00:00 +0100",
          "title" : "Sagar and Amruta in Dubai: Day 2 impressions"
-      },
-      {
-         "description" : "\"That with the Mightiest raised me to contend, And to the fierce contention brought along� Innumerable force of Spirits armed, That durst dislike his reign, and, me preferring, His utmost power with adverse power opposed, In dubious battel on the plains of Heaven, And shook his throne.&#8221; -John Milton, Paradise Lost Dubai is the venue []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/dubious-battel/",
-         "pubDate" : "Sat, 27 Nov 2021 12:00:39 +0000",
-         "title" : "Dubious Battel"
       },
       {
          "description" : "The 2021 World Championship match kicked off on Friday, with a fighting draw. English star Michael Adams annotates the first game of the confrontation between Magnus Carlsen and Ian Nepomniachtchi. Adams concludes: \"An interesting opening encounter, it will be intriguing to see if Magnus repeats his opening choice in game 3\". | Photo: Eric Rosen",
@@ -1890,14 +1914,6 @@ news_feed (
          "title" : "The Great Ones (6)"
       },
       {
-         "description" : "In the diagram position White has a good knight against a bad bishop. But can he win? And if so, how?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/good-knight-vs-bad-bishop",
-         "pubDate" : "Tue, 23 Nov 2021 09:00:00 +0100",
-         "title" : "Good knight vs bad bishop"
-      },
-      {
          "description" : "After staging the highly successful man-vs-machine match Garry Kasparov vs X3D Fritz, the ever enterprising Armand Rousso launched a search engine, intended to challenge the supremacy of Google. The launch of \"Accoona\" in New York in 2004 had a glittering array of special guests (Kasparov, Bill Clinton). The next year Armand did a second publicity event, this time pitting the latest version of Fritz against the newly crowned FIDE World Champion Rustam Kasimdzhanov.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2002,14 +2018,6 @@ news_feed (
          "title" : "National Arbiters Training"
       },
       {
-         "description" : "While there are currently over a thousand grandmasters in the world, only 14 players in history had crossed the 2800-rating barrier. GM Alireza Firouzja is the most recent addition to the 2800-club after scoring a sensational 8/9 at the European T...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alireza-firouzja-youngest-chess-player-ever-to-break-2800",
-         "pubDate" : "Sun, 21 Nov 2021 10:51:00 -0800",
-         "title" : "Alireza Firouzja Youngest Chess Player Ever To Break 2800"
-      },
-      {
          "description" : " Here's a recent online rapid game I played against a lower rated opponent. I decided to play a simple opening, make simple moves, create a pawn weakness and win the ending. Exactly how I often lose when playing higher rated opponents. I made one mistake in the game, though, which you might find instructive. It's <a href=\"https://chessimprover.com/simply-does-it/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Simply Does It\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/simply-does-it/\">Simply Does It</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2088,14 +2096,6 @@ news_feed (
          "link" : "https://aicf.in/tata-steel-chess-india-arjun-erigaisi-in-the-leading-position-at-the-end-of-1st-day-of-blitz/",
          "pubDate" : "Sat, 20 Nov 2021 14:47:50 +0000",
          "title" : "Tata Steel Chess India : Arjun Erigaisi in the leading position at the end of 1st day of Blitz"
-      },
-      {
-         "description" : "&#8220;They all laughed at Christopher Columbus, when he said the world was round. They all laughed when Edison recorded sound.&#8221; -George and Ira Gershwin \"When a true genius appears in the world, you may know him by this sign, that the dunces are all in confederacy against him.\" -Jonathan Swift, Thoughts on Various Subjects, Moral and Diverting []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-physicists/",
-         "pubDate" : "Sat, 20 Nov 2021 10:45:26 +0000",
-         "title" : "The Physicists "
       },
       {
          "description" : "After seven played rounds at the European Team Chess Championship 2021 in Terme Catez, Slovenia, the Russian Women's team holds the sole lead, while Azerbaijan and Ukraine tie for the top of the Open section. With a convincing 3-1 victory over Azerbaijan, Russian Women improved their lead scoring the absolute 14 match points. Valentina Gunina was the first&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-r7-report/\">Read More &#187;</a></span>",
@@ -2240,22 +2240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1434",
          "pubDate" : "Wed, 17 Nov 2021 11:38:45 +0000",
          "title" : "European Team Championship in Terme Catez crosses midpoint"
-      },
-      {
-         "description" : " From the publisher's blurb: In 1930s British India, a humble servant learns the art of chaturanga, the ancient Eastern ancestor of chess. His natural talent soon catches the attention of the maharaja, who introduces him to the Western version of the game. Brought to England as the prince's pawn, Malik becomes a chess legend, winning <a href=\"http://britishchessnews.com/2021/11/16/game-of-the-gods/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Game of the Gods</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/11/16/game-of-the-gods/\">Game of the Gods</a> appeared first on <a rel=\"nofollow\" href=\"http://br",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/11/16/game-of-the-gods/",
-         "pubDate" : "Tue, 16 Nov 2021 19:25:03 +0000",
-         "title" : "Game of the Gods"
-      },
-      {
-         "description" : " &#8220;You always admire what you really don't understand&#8221; Blaise Pascal Alexey Alexeyevich Troitsky has been mentioned often in my blog. I am in full agreement with Sam Sloan when he writes in the introduction of his book &#8220;Collection of Chess Studies&#8221; the following: &#8220; Trotzky is considered to have been the greatest composer of chess endgame <a href=\"https://chessimprover.com/the-great-ones-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Great Ones (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-great-ones-5/\">The Great Ones (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Che",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/the-great-ones-5/",
-         "pubDate" : "Tue, 16 Nov 2021 17:30:17 +0000",
-         "title" : "The Great Ones (5)"
       }
    ]
 }
