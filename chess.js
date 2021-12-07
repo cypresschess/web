@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In queen endgames having the initiative is crucial. In the diagram position it is Black to move and it is Black who has the initiative. But how should he proceed?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-principle-of-three-weaknesses",
+         "pubDate" : "Tue, 07 Dec 2021 09:00:00 +0100",
+         "title" : "The principle of three weaknesses"
+      },
+      {
          "description" : "Two quarterfinal matches in the 2021 Speed Chess Championship Main Event occurred on December 6. In the first match, GM Ding Liren defeated GM Levon Aronian by a 15-11 score. You can read the full report for the Ding-Aronian match here. This rep...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1914,14 +1922,6 @@ news_feed (
          "title" : "Viswanathan Anand's son makes chess debut in Kolkata"
       },
       {
-         "description" : "As a chess player, Alexander Alekhine (pictured) was brilliant, but his biography contains a number of dark spots. In particular, his proximity to the Nazis has damaged the reputation of the fourth world champion. The Swiss historian and chess player Dr. Christian Rohrer wanted to find out how and to what extent Alekhine supported the Nazis, and he published his findings in an online article titled \"World chess champion and favourite of Hans Frank?: assessing Alexander Alekhine's closeness to the National Socialist regime\". Detailed, fascinating and well worth reading.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alekhine-and-the-nazis-a-historical-investigation-by-dr-christian-rohrer",
-         "pubDate" : "Mon, 22 Nov 2021 13:00:00 +0100",
-         "title" : "Alekhine and the Nazis: a historical investigation by Dr. Christian Rohrer"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2256,14 +2256,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/2021-asian-online-amateur.html",
          "pubDate" : "Tue, 16 Nov 2021 13:15:00 +0000",
          "title" : "2021 Asian Online Amateur"
-      },
-      {
-         "description" : "Abhimanyu Mishra became the youngest ever GM in July, sparking a debate on whether titles have become easier to win.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32637681/inside-calls-fide-change-grandmaster-requirements-nepomniachtchi-vishwanathan-anand-vladimir-kramnik?device=featurephone",
-         "pubDate" : "Tue, 16 Nov 2021 02:05:43 -0500",
-         "title" : "To GM or not to GM: Inside calls for FIDE to change Grandmaster requirements"
       }
    ]
 }
