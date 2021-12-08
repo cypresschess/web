@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Jobava London System, named after the top Georgian player Baadur Jobava, is a side form of the London System, which differs in principle in only one small detail - the white knight is established early on c3. This brings two major advantages. On the one hand, it is possible to castle longside more quickly, and on the other hand, tactical motifs sometimes arise on the queenside. Since the system is still relatively new, there is no need to learn tons of theory.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-elisabeth-paehtz-attacking-with-the-jobava-london-system",
+         "pubDate" : "Wed, 08 Dec 2021 17:00:00 +0100",
+         "title" : "New: Elisabeth P&auml;htz - Attacking with the Jobava London System"
+      },
+      {
+         "description" : " <p class=\"lead\">Game 10 of the World Chess Championship 2021 ended in a draw. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2047\" data-ratio=\"1.4996336996337\"> <img src=\"https://worldchess.com/news/pictures/51733043381_a47ccf2c0a_k-min.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51733896445_fe6a18b114_k-min.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51733031221_fef14a9ef2_k-min.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51733278183_659a7a8e9a_k-min.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/carlsen-is-a-point-away-from-the-title/",
+         "pubDate" : "Wed, 08 Dec 2021 14:48:14 +0000",
+         "title" : "Carlsen is a point away from the Title"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1470",
+         "pubDate" : "Wed, 08 Dec 2021 14:17:04 +0000",
+         "title" : "FIDE World Rapid and Blitz Championships will not be held in Kazakhstan in December"
+      },
+      {
+         "description" : "Click this link, then scroll to 17:46 to listen to a discussion of the future of women in chess https://www.bbc.co.uk/programmes/m00127tf",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/aga-milewska-and-jovanka-houska-on-womans-hour/",
+         "pubDate" : "Wed, 08 Dec 2021 13:00:06 +0000",
+         "title" : "Aga Milewska and Jovanka Houska on Woman's Hour"
+      },
+      {
+         "description" : " Magnus Carlsen is now within a point of retaining his World Chess Championship title in his match against Ian Nepomniachtchi - the match stands at 6.5-3.5 with four games to go. Today Nepomniachtchi chose to repeat the Petroff Defence he played in games 4 and 8 - a solid continuation which often leads to symmetrical pawn structures. This has been a point scoring weapon for black in recent years only because white often has to play slightly riskily to get decent winning chances - white pretty much always has the option to go for the most symbolic of advantages where a draw is a high probability. Carlsen had such a decision on move 8 and he thought for nearly 20 minutes choosing between 8.Be3",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/carlsen-edges-closer-to-retaining-his-title-with-a-quiet-draw-in-game-10",
+         "pubDate" : "Wed, 8 Dec 2021 16:18:00 +0400",
+         "title" : "Carlsen edges closer to retaining his title with a quiet draw in game 10 - 10"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -82,12 +122,12 @@ news_feed (
          "title" : "Carlsen-Nepo: Longest World Championship Game Ever! | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
-         "description" : "Our coverage of game 10 of the 2021 FIDE World Chess Championship is underway! GM Magnus Carlsen took a commanding match lead by winning game nine and is now ahead by a score of 6-3. GM Ian Nepomniachtchi will need to strike back immediately to ke...",
+         "description" : "Game 10 of the 2021 FIDE World Championship between GMs Magnus Carlsen and Ian Nepomniachtchi quickly ended in a draw after less than 2.5 hours. Carlsen kept his three-point lead with the match score at 6.5-3.5, inching even closer to keeping the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-10",
          "pubDate" : "Tue, 07 Dec 2021 16:00:00 -0800",
-         "title" : "LIVE: FIDE World Chess Championship Game 10 Carlsen - Nepo"
+         "title" : "Carlsen One Win From Victory After Drawing FIDE World Chess Championship Game 10"
       },
       {
          "description" : "The World Championship match in Dubai might theoretically finish after 11 (out of 14) games, as Magnus Carlsen scored a third victory in four games after Ian Nepomniachtchi inexplicably blundered a piece in an equal position on Tuesday. The challenger now needs to win 3 out of the 5 remaining encounters to take the match to tiebreaks. | Photo: Niki Riga",
@@ -1002,14 +1042,6 @@ news_feed (
          "title" : "Game of the Week #492: Max Warmerdam vs Hing Ting Lai"
       },
       {
-         "description" : " <p class=\"lead\">The fifth game of the World Chess Championship ended with a draw. After a very dynamic start of the game, Nepo lost the advantage and the game spiraled into a draw after 43 moves. At the after-match press conference, Ian commented that the flow of the game was pleasant and he was disappointed with the result. His fans and supporters probably felt the same. After 5 games, the score is level - 2.5- 2.5. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51718178800_f456d4003c_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51718176035_8cf3e",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-championship-game-5-a-missed-chance-for-nepo-and-a-d/",
-         "pubDate" : "Wed, 01 Dec 2021 16:04:01 +0000",
-         "title" : "World Chess Championship Game 5: A Missed Chance for Nepo"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1890,14 +1922,6 @@ news_feed (
          "title" : "Congratulations Air Vice Marshal Jonnalagadda Rajendra"
       },
       {
-         "description" : "With the World Championship match in Dubai scheduled to kick off on Friday, we get ready for the showdown between Magnus Carlsen and Ian Nepomniachtchi by recapping the four previous matches, which were all won by Carlsen. In the second instalment, we go over the second match between Carlsen and Viswanathan Anand. Few had predicted it, but the Tiger from Madras gained the right to have a rematch. It was a tense-packed confrontation, with a case of mutual blindness playing a big role in the result. | Photos: Anastasiya Karlovich",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-carlsen-years-part-2",
-         "pubDate" : "Wed, 24 Nov 2021 04:25:00 +0100",
-         "title" : "The Carlsen years (2): Rematch"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2178,14 +2202,6 @@ news_feed (
          "title" : "Liechtenstein Chess Federation celebrates its 50th Anniversary"
       },
       {
-         "description" : "Many congratulations to Ray Dolan, who has been named &#8216;Staffordshire Chess Association Sports Personality of the Year 2021'. In the words of the Express &#38;...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/staffordshire-chess-association-sports-personality-of-the-year/",
-         "pubDate" : "Fri, 19 Nov 2021 09:50:22 +0000",
-         "title" : "Staffordshire Chess Association Sports Personality of the Year!"
-      },
-      {
          "description" : " Norway's world champion is odds on to defeat his Russian challenger, but the fast rising 18-year-old Alireza Firouzja is poised to reach world No 2 this weekend Zero hour is approaching in Dubai. Magnus Carlsen and Ian Nepomniachtchi start their 14-game match for the world championship next week, with the opening ceremony on Wednesday and game one on Friday. A $2m prize fund, split 60-40, is at stake, plus the personal, business and national aspirations of the contenders. Carlsen can strengthen his claim to be the all-time greatest ahead of Garry Kasparov and Bobby Fischer, while Nepo (as he is usually called, and whose first name is pronounced Jan) can be the talisman who creates a new ver",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2240,14 +2256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1436",
          "pubDate" : "Thu, 18 Nov 2021 10:33:34 +0000",
          "title" : "FIDE expands and extends Aid Package Program to 2022"
-      },
-      {
-         "description" : " The Chess.com Speed Chess Championship takes place Mon 8th Nov to Sun 19th Dec 2021. Round 1 pairings: Nov 8 Giri 14-12 Duda, Nov 9 Ding 14-12 Mamedyarov, Nov 10 Rapport 16.5-14.5 Sarana, Nov 11 Nihal Sarin 15.5-10.5 Grischuk, Nov 11 Aronian 15-12 Dubov, Nov 12 Nakamura 22-10 Svidler, Nov 15 So 18-14 Xiong and Nov 29 Caruana 13.5-12.5 MVL.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-championship-2021",
-         "pubDate" : "Wed, 17 Nov 2021 20:00:00 +0400",
-         "title" : "Chess.com Speed Chess Championship 2021 - Games and Results"
       }
    ]
 }
