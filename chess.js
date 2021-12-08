@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88156369.cms\" />One oversight can cost you a game of chess. Two oversights have cost Ian Nepomniachtchi a decent shot at the World Chess Championship and made a mockery of this 'contest'.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/nepo-blunders-again-magnus-up-by-3-points/articleshow/88156369.cms",
+         "pubDate" : "Wed, 08 Dec 2021 08:58:31 +0530",
+         "title" : "Nepo blunders again, Magnus up by 3 points"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov teaches a chess endgame class focusing on on fortresses defending against queen attacks. Pendulum defense </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-let-her-queen-vs-fortress-insane-endgame-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_RqnOC6wQyY.jpg?itok=leABrece\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dont-let-her-queen-vs-fortress-insane-endgame-gm-alex-shabalov",
+         "pubDate" : "Wed, 08 Dec 2021 01:15:19 +0000",
+         "title" : "Don't Let Her In! Queen vs. Fortress | Insane in the Endgame - GM Alex Shabalov"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby demonstrates how Magnus Carlsen and Ian Nepomniachtchi took ideas from historical games to create Game 6 from their 2021 World Championship match: the longest game in world championship history! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-nepo-longest-world-championship-game-ever-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-nepo-longest-world-championship-game-ever-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Wed, 08 Dec 2021 01:15:19 +0000",
+         "title" : "Carlsen-Nepo: Longest World Championship Game Ever! | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
          "description" : "The tenth game of the 2021 FIDE World Chess Championship begins on Wednesday, December 8. GM Magnus Carlsen took a commanding match lead by winning game nine and is now ahead by a score of 6-3. GM Ian Nepomniachtchi will need to strike back immedi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1848,22 +1872,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-carlsen-years-part-2",
          "pubDate" : "Wed, 24 Nov 2021 04:25:00 +0100",
          "title" : "The Carlsen years (2): Rematch"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Bryan Smith teaches a chess endgame class about triangulation and related squares, and switching the player to move on the same position. Learn about zugzwang and waiting moves. 2021.11.23<br /> Tr&eacute;buchet<br /> Luigi Centurini position<br /> Bryan Smith vs. Nelson Castaneda, 2009<br /> Walter Henneberger vs Aron Nimzowitsch, Swiss Championship (1931)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1273732\">https://www.chessgames.com/perl/chessgame?gid=1273732</a><br /> Smith vs. Dennis Wagner, 2015 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div clas",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/art-losing-tempo-insane-endgame-gm-bryan-smith",
-         "pubDate" : "Wed, 24 Nov 2021 00:58:03 +0000",
-         "title" : "The Art of Losing a Tempo | Insane in the Endgame - GM Bryan Smith"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Club Chess Associate Alex Moellering substitutes this week. Get in the mind of the mysterious masked 1400 on his journey to a 2000 chess rating. 2021.11.23<br /> Alex Moellering vs. Luke Herbst, 2012: B06 Robatsch (modern) defence<br /> Moellering vs. Tyrell Perry, 2014: B30 Sicilian defence<br /> Moellering vs. Kevin Ding, 2014: C44 Scotch gambit<br /> Mike Kummer vs. Moellering, 2020: E81 King&#039;s Indian, Saemisch, 5...O-O<br /> Moellering vs. N.N., ???: C03 French, Tarrasch<br /> Moellering vs. N.N., ???: </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alexs-1400-journey-road-2000-lichessorg",
-         "pubDate" : "Wed, 24 Nov 2021 00:58:03 +0000",
-         "title" : "Alex's 1400 Journey | Road to 2000 | lichess.org"
       },
       {
          "description" : "In his \"Weekly Show\" IM Lawrence Trent talks about Alireza Firouzja's historic performance at the European Team Championships, and looks at Firouzja's masterpiece game against Shakhriyar Mamedyarov which secured him the record of the youngest player ever to reach a rating of 2800+ and made him the world's number two on the live-rating list. Lawrence will also cover the Tata Steel India Tournament and talk about the upcoming World Championship match. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
