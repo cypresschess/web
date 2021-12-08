@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1469",
+         "pubDate" : "Wed, 08 Dec 2021 12:13:12 +0000",
+         "title" : "GYMCHESS ® Chess based application to delay Alzheimer's and keep brain in shape announced"
+      },
+      {
+         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. A huge blunder by Ian Nepomniachtchi allowed Magnus Carlsen to get a third win in four games on Tuesday. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
+         "pubDate" : "Wed, 08 Dec 2021 13:00:00 +0100",
+         "title" : "Carlsen vs. Nepomniachtchi - Game 10 Live!"
+      },
+      {
+         "description" : "Oh dear! The last door really was a tough cookie. Rarely have we received so many different answers, so we decided to draw two more winners for the day. In the video, we see the details of the solution Kc2, which lay dormant for more than 100 years. Today we have only four pieces on the board, and yet the solution is not crystal clear.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-8245",
+         "pubDate" : "Wed, 08 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 8"
+      },
+      {
          "description" : "After blundering in game 8 of his World Championship match against Magnus Carlsen, Ian Nepomniachtchi also blundered and lost in game 9. Carlsen now leads 6-3 and with five games to go the match is practically over. Wesley So took a close look at game 9 and concludes: \"Ian was playing very well early on in the match but ... game 6 was clearly the turning point in this match as before that both players were playing equally well and it seems that Ian was no inferior to Magnus. ... Ian is a great player and even the greatest players make mistakes. Unexpected and miserable stuff happens to us all, and we hope Ian will be able to move on and get his mojo back asap!\" | Photo: Wesley So (Archive) |",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,12 +82,12 @@ news_feed (
          "title" : "Carlsen-Nepo: Longest World Championship Game Ever! | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
-         "description" : "The tenth game of the 2021 FIDE World Chess Championship begins on Wednesday, December 8. GM Magnus Carlsen took a commanding match lead by winning game nine and is now ahead by a score of 6-3. GM Ian Nepomniachtchi will need to strike back immedi...",
+         "description" : "Our coverage of game 10 of the 2021 FIDE World Chess Championship is underway! GM Magnus Carlsen took a commanding match lead by winning game nine and is now ahead by a score of 6-3. GM Ian Nepomniachtchi will need to strike back immediately to ke...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-10",
          "pubDate" : "Tue, 07 Dec 2021 16:00:00 -0800",
-         "title" : "How To Watch The FIDE World Chess Championship Game 10: Carlsen - Nepo"
+         "title" : "LIVE: FIDE World Chess Championship Game 10 Carlsen - Nepo"
       },
       {
          "description" : "The World Championship match in Dubai might theoretically finish after 11 (out of 14) games, as Magnus Carlsen scored a third victory in four games after Ian Nepomniachtchi inexplicably blundered a piece in an equal position on Tuesday. The challenger now needs to win 3 out of the 5 remaining encounters to take the match to tiebreaks. | Photo: Niki Riga",
@@ -152,14 +176,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/bishop-takes-out-both-rooks.html",
          "pubDate" : "Tue, 07 Dec 2021 12:34:00 +0000",
          "title" : "Bishop takes out both rooks"
-      },
-      {
-         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. A huge blunder by Ian Nepomniachtchi gave Magnus Carlsen a third win in four games on Tuesday. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
-         "pubDate" : "Tue, 07 Dec 2021 13:00:00 +0100",
-         "title" : "Carlsen vs. Nepomniachtchi - Games and commentary"
       },
       {
          "description" : "First, thank you very much for all the answers! We are delighted that this calendar is so well received. Door number 6 proved to be one of the most difficult ones, although the majority were able to find the somewhat bizarre move Kh8. If you thought door 6 was tough already, today we raise the difficulty even more. Good luck!",
@@ -359,7 +375,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-9",
          "pubDate" : "Sun, 05 Dec 2021 14:15:00 -0800",
-         "title" : "BREAKING: Carlsen On Verge Of Retaining Title As Nepo Blunders Piece"
+         "title" : "Carlsen On Verge Of Retaining Title As Nepo Blunders Piece"
       },
       {
          "description" : "Magnus Carlsen now has a two-point lead at the World Championship match in Dubai, after beating Ian Nepomniachtchi's Petroff Defence in Sunday's game 8. Nepo made a couple of inexplicable moves in positions that seemed to be all but forcefully heading to an inevitable draw. Find here the crucial encounter analysed by elite grandmaster and theoretical expert Anish Giri. | Photo: Eric Rosen",
@@ -1234,12 +1250,12 @@ news_feed (
          "title" : "Karsten M&uuml;ller's Endgame Magic Show #172: Endgame highlights from the European Team Championship"
       },
       {
-         "description" : "The new AI-based training method \"Easy Game\" helps you to play brilliancies against Fritz18! After mating Fritz18 you can publish your game with one click or you can send it per email to ChessBase to take part in the great Fritz18 lottery. Join the action!",
+         "description" : "The new AI-based training method \"Easy Game\" helps you to play brilliancies against Fritz18! After mating Fritz18 you can publish your game with one click or you can send it per email to ChessBase to take part in the great Fritz 18 lottery. Join the action!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fritz-18-play-and-share-brilliancies-and-win-in-the-fritz18-lottery",
          "pubDate" : "Mon, 29 Nov 2021 15:03:06 +0100",
-         "title" : "Fritz 18: Play and share brilliancies - and win in the Fritz18 lottery!"
+         "title" : "Fritz 18: Play and share brilliancies - and win in the Fritz 18 lottery!"
       },
       {
          "description" : "Look at this position. Black still has all his pieces on the board, while White has just a single pawn, on its original square. So what is the task? \"White to play and win\" says the composer, one of the most imaginative in history. Born in 1860, Ott&oacute; Titusz Bl&aacute;thy composed a large number of \"Grotesques\", extremely unusual positions in which White must win against much larger black forces. These problems are generally intended to be humorous. We hope you enjoy our examples, which should also serve to remind you how you can move the pieces, play and analyse right there on our news page diagrams.",
@@ -1882,14 +1898,6 @@ news_feed (
          "title" : "The Carlsen years (2): Rematch"
       },
       {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent talks about Alireza Firouzja's historic performance at the European Team Championships, and looks at Firouzja's masterpiece game against Shakhriyar Mamedyarov which secured him the record of the youngest player ever to reach a rating of 2800+ and made him the world's number two on the live-rating list. Lawrence will also cover the Tata Steel India Tournament and talk about the upcoming World Championship match. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-4",
-         "pubDate" : "Tue, 23 Nov 2021 17:30:00 +0100",
-         "title" : "The Weekly Show"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2240,22 +2248,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-championship-2021",
          "pubDate" : "Wed, 17 Nov 2021 20:00:00 +0400",
          "title" : "Chess.com Speed Chess Championship 2021 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1435",
-         "pubDate" : "Wed, 17 Nov 2021 11:58:53 +0000",
-         "title" : "Blind Mode debuts at 4th FIDE World Chess Championship for People with Disabilities"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1434",
-         "pubDate" : "Wed, 17 Nov 2021 11:38:45 +0000",
-         "title" : "European Team Championship in Terme Catez crosses midpoint"
       }
    ]
 }
