@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An uneventful draw in game 10 of the World Championship match kept Magnus Carlsen's 3-point lead going into the fourth rest day of the contest. The defending champion only needs to score 1 point in the remaining 4 encounters to keep his crown. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-g10",
+         "pubDate" : "Wed, 08 Dec 2021 19:20:00 +0100",
+         "title" : "Wolrd Championship Game 10: Safety first"
+      },
+      {
+         "description" : "This week, Merijn van Delft takes a look at a game between the Dutch player Thomas Beerdsen and Sergey Fedorchuk from Ukraine. The game was played at a tournament in Barcelona and helped Beerdsen to make his second grandmaster norm. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-493-thomas-beerdsen-vs-sergey-fedorchuk",
+         "pubDate" : "Wed, 08 Dec 2021 19:00:00 +0100",
+         "title" : "Game of the Week #493: Thomas Beerdsen vs Sergey Fedorchuk"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1471",
+         "pubDate" : "Wed, 08 Dec 2021 17:01:11 +0000",
+         "title" : "FIDE World Championship 2021: A change in mindset?"
+      },
+      {
+         "description" : "GM Jeffery Xiong won his third Titled Tuesday of 2021 on December 7, scoring 10/11. FM Khazar Babazada also made a 10/11 score but finished second on tiebreak; it was his second straight top-three finish. In a rarity, they finished a full point ah...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/xiong-wins-december-7-titled-tuesday",
+         "pubDate" : "Wed, 08 Dec 2021 08:11:00 -0800",
+         "title" : "Xiong Wins December 7 Titled Tuesday"
+      },
+      {
          "description" : "The Jobava London System, named after the top Georgian player Baadur Jobava, is a side form of the London System, which differs in principle in only one small detail - the white knight is established early on c3. This brings two major advantages. On the one hand, it is possible to castle longside more quickly, and on the other hand, tactical motifs sometimes arise on the queenside. Since the system is still relatively new, there is no need to learn tons of theory.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +42,7 @@ news_feed (
          "title" : "New: Elisabeth P&auml;htz - Attacking with the Jobava London System"
       },
       {
-         "description" : " <p class=\"lead\">Game 10 of the World Chess Championship 2021 ended in a draw. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2047\" data-ratio=\"1.4996336996337\"> <img src=\"https://worldchess.com/news/pictures/51733043381_a47ccf2c0a_k-min.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51733896445_fe6a18b114_k-min.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51733031221_fef14a9ef2_k-min.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51733278183_659a7a8e9a_k-min.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51",
+         "description" : " <p class=\"lead\">Game 10 of the World Chess Championship 2021 between the World Champion Magnus Carlsen and the Challenger Ian Nepomniachtchi ended in a draw after 41 moves. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2047\" data-ratio=\"1.4996336996337\"> <img src=\"https://worldchess.com/news/pictures/51733043381_a47ccf2c0a_k-min.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51733896445_fe6a18b114_k-min.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51733031221_fef14a9ef2_k-min.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51733278183_659a7a8e9a_k-",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/carlsen-is-a-point-away-from-the-title/",
@@ -50,12 +82,12 @@ news_feed (
          "title" : "GYMCHESS ® Chess based application to delay Alzheimer's and keep brain in shape announced"
       },
       {
-         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. A huge blunder by Ian Nepomniachtchi allowed Magnus Carlsen to get a third win in four games on Tuesday. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Niki Riga",
+         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. With four games to go, defending champion Magnus Carlsen has a 3-point lead over challenger Ian Nepomniachtchi. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2021-live",
          "pubDate" : "Wed, 08 Dec 2021 13:00:00 +0100",
-         "title" : "Carlsen vs. Nepomniachtchi - Game 10 Live!"
+         "title" : "Carlsen vs. Nepomniachtchi - Games and commentary"
       },
       {
          "description" : "Oh dear! The last door really was a tough cookie. Rarely have we received so many different answers, so we decided to draw two more winners for the day. In the video, we see the details of the solution Kc2, which lay dormant for more than 100 years. Today we have only four pieces on the board, and yet the solution is not crystal clear.",
@@ -122,7 +154,7 @@ news_feed (
          "title" : "Carlsen-Nepo: Longest World Championship Game Ever! | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
-         "description" : "Game 10 of the 2021 FIDE World Championship between GMs Magnus Carlsen and Ian Nepomniachtchi quickly ended in a draw after less than 2.5 hours. Carlsen kept his three-point lead with the match score at 6.5-3.5, inching even closer to keeping the ...",
+         "description" : "With what was the quickest draw in the match so far, GM Magnus Carlsen consolidated his three-point lead in the 2021 FIDE World Chess Championship&#38;nbsp;on Wednesday. After a bit more than two hours, the world champion split the point with challeng...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-10",
@@ -1866,14 +1898,6 @@ news_feed (
          "title" : "Carlsen vs Nepomniachtchi: The World Championship began"
       },
       {
-         "description" : "Probably one of the most anticipated events will take place in just a couple of days, and for this special episode, Svitlana took a closer look at some games between Magnus Carlsen and Ian Nepomniachtchi. The viewer, and Arne, have to guess as many correct moves and tactics as possible. If you can get all of them correct, maybe you should participate for the world championship in 2022!?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-21",
-         "pubDate" : "Wed, 24 Nov 2021 17:17:44 +0100",
-         "title" : "Svitlana's Smart Moves - Carlsen and Nepomniachtchi Special"
-      },
-      {
          "description" : "With every passing second, the ultimate chess battle approaches, and chess fans worldwide can&#39;t wait to see what will happen in the 2021 FIDE World Championship. Now, even before the first moves are played, freestyle rap extraordinaire Harry Mack ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1904,14 +1928,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/a-year-full-of-chess/",
          "pubDate" : "Wed, 24 Nov 2021 11:40:50 +0000",
          "title" : "A Year Full Of Chess"
-      },
-      {
-         "description" : "After 30 years, chess programs are now gradually reaching a level at which one can reasonably play against them. With Fritz 18 you have an unprecedented opportunity to train and learn sharp openings, helping you master the tactical motifs that are otherwise invisible in the 'perfect play' of normal computer games. Fritz 18 will even help you set up tactical tricks and sacrifices for you to deliver!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/learn-sharp-openings-with-fritz-2",
-         "pubDate" : "Wed, 24 Nov 2021 11:30:00 +0100",
-         "title" : "Learn sharp openings with Fritz 18"
       },
       {
          "description" : "Hon'ble President of India Shri Ram Nath Kovind presented Ati Vishisht Seva Medal to Chess Player and patron of Indian Chess Air Vice Marshal Jonnalagadda",
@@ -1984,14 +2000,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-feels-unpredictability-is-good-for-sport/articleshow/87861342.cms",
          "pubDate" : "Tue, 23 Nov 2021 09:48:21 +0530",
          "title" : "Viswanathan Anand feels unpredictability is good for sport"
-      },
-      {
-         "description" : "Special note: From November 23 through the end of the 2021 FIDE World Championship, these two bots as well as the GM Robert Hess bot will be free for all Chess.com members! The 2021 FIDE World Championship is quickly approaching and everyone is ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-chess-against-the-nepomniachtchi-and-caruana-bots",
-         "pubDate" : "Mon, 22 Nov 2021 13:13:00 -0800",
-         "title" : "Play Chess Against Nepomniachtchi And Caruana Bots"
       },
       {
          "description" : "Running over five Monday evenings from 7.00pm to 9.00pm 7th February; 14th February; 21st February; 28th February; 7th March, with a course fee of...",
