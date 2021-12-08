@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After blundering in game 8 of his World Championship match against Magnus Carlsen, Ian Nepomniachtchi also blundered and lost in game 9. Carlsen now leads 6-3 and with five games to go the match is practically over. Wesley So took a close look at game 9 and concludes: \"Ian was playing very well early on in the match but ... game 6 was clearly the turning point in this match as before that both players were playing equally well and it seems that Ian was no inferior to Magnus. ... Ian is a great player and even the greatest players make mistakes. Unexpected and miserable stuff happens to us all, and we hope Ian will be able to move on and get his mojo back asap!\" | Photo: Wesley So (Archive) |",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-game-9-annotated-by-wesley-so",
+         "pubDate" : "Wed, 08 Dec 2021 09:06:17 +0100",
+         "title" : "World Championship: Game 9 annotated by Wesley So"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/VL9D6bVcELA?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-10-of-the-match/",
+         "pubDate" : "Wed, 08 Dec 2021 08:04:43 +0000",
+         "title" : "Time To Say Dubai: Round 10 of the Match"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby demonstrates how Magnus Carlsen and Ian Nepomniachtchi took ideas from historical games to create Game 6 from their 2021 World Championship match: the longest game in world championship history! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-nepo-longest-world-championship-game-ever-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbna",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-nepo-longest-world-championship-game-ever-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 08 Dec 2021 07:15:32 +0000",
+         "title" : "Carlsen-Nepo: Longest World Championship Game Ever! | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 9 Match Score: 5-3 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 8 Sunday, 5 December 2021 Nepo blunders piece Carlsen has a 3-point bulge Chess can be brutal at times. There is nothing that crushes the soul more than losing a completely winning position. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/08/2021-world-chess-championship-game-9/\">2021 World Chess Championship: Game 9</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/12/08/2021-world-chess-championship-game-9/",
+         "pubDate" : "Wed, 08 Dec 2021 06:10:00 +0000",
+         "title" : "2021 World Chess Championship: Game 9"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88156369.cms\" />One oversight can cost you a game of chess. Two oversights have cost Ian Nepomniachtchi a decent shot at the World Chess Championship and made a mockery of this 'contest'.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -234,7 +266,7 @@ news_feed (
          "title" : "Magnus Carlsen: I Have Very Good Chances To Win the Match"
       },
       {
-         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 8 Match Score: 5-3 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 8 Sunday, 5 December 2021 Carlsen strikes again Nepomniachtchi at the brink Magnus Carlsen wins another game with white pieces and extends his lead to 2 points. After 8 games, the score is [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/06/2021-world-chess-championship-game-8/\">2021 World Chess Championship: Game #8</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 8 Match Score: 5-3 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 8 Sunday, 5 December 2021 Carlsen strikes again Nepomniachtchi at the brink Magnus Carlsen wins another game with white pieces and extends his lead to 2 points. After 8 games, the score is 5-3 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/06/2021-world-chess-championship-game-8/\">2021 World Chess Championship: Game #8</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/06/2021-world-chess-championship-game-8/",
@@ -1058,14 +1090,6 @@ news_feed (
          "title" : "New: Mega DataBase 2022"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/5XFZuIzgPQk?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-5-of-the-match/",
-         "pubDate" : "Wed, 01 Dec 2021 09:40:12 +0000",
-         "title" : "Time To Say Dubai: Round 5 of the Match"
-      },
-      {
          "description" : "On first sight, game 4 of the World Championship match between Magnus Carlsen and Ian Nepomniachtchi does not seem to be particularly spectacular. Nepomniachtchi went for the Petroff and appeared to be well prepared for Carlsen's novelty 18.Nh4 and after 33 moves the game ended with a repetition and a draw. But as English Grandmaster Luke McShane points out in his analysis, the game contained a lot of hidden tactical possibilities.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1642,14 +1666,6 @@ news_feed (
          "title" : "Can Nepo win chess war against Magnus Carlsen?"
       },
       {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 1 &frac12; 1 1 6 Caruana &frac12; &frac12; &frac12; &frac12; &frac12; 0 &frac12; 0 0 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/\">2021 World Chess Championship (Carlsen vs. Nepomniachtchi)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/11/25/2021-world-chess-championship-carlsen-vs-nepomniachtchi/",
-         "pubDate" : "Fri, 26 Nov 2021 01:53:49 +0000",
-         "title" : "2021 World Chess Championship (Carlsen vs. Nepomniachtchi)"
-      },
-      {
          "description" : " From the publisher: &#8220;The Vibrant Exchange French No Longer Your Dull Draw! In the first book ever exclusively devoted to the Exchange French Variation, American grandmaster Alex Fishbein recognizes that the Exchange French is an opening for a player who likes active piece play, fights for the initiative, excels in positions with possibilities on <a href=\"http://britishchessnews.com/2021/11/26/the-exchange-french-comes-to-life-fresh-strategies-to-play-for-a-win/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Exchange French Comes to Life: Fresh Strategies to Play for a Win</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http:/",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1858,14 +1874,6 @@ news_feed (
          "title" : "Congratulations Air Vice Marshal Jonnalagadda Rajendra"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Club Chess Associate Alex Moellering substitutes this week. Get in the mind of the mysterious masked 1400 on his journey to a 2000 chess rating. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-moellerings-1400-journey-road-2000\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yx2OAOxcSzw.jpg?itok=gjwkFD1Z\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alex-moellerings-1400-journey-road-2000",
-         "pubDate" : "Wed, 24 Nov 2021 03:58:13 +0000",
-         "title" : "Alex Moellering's 1400 Journey | Road to 2000"
-      },
-      {
          "description" : "With the World Championship match in Dubai scheduled to kick off on Friday, we get ready for the showdown between Magnus Carlsen and Ian Nepomniachtchi by recapping the four previous matches, which were all won by Carlsen. In the second instalment, we go over the second match between Carlsen and Viswanathan Anand. Few had predicted it, but the Tiger from Madras gained the right to have a rematch. It was a tense-packed confrontation, with a case of mutual blindness playing a big role in the result. | Photos: Anastasiya Karlovich",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1912,14 +1920,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-nepomniachtchi-predictions",
          "pubDate" : "Tue, 23 Nov 2021 05:06:00 -0800",
          "title" : "Carlsen-Nepomniachtchi: Predictions"
-      },
-      {
-         "description" : "On Friday, 26 November 2021, at 16:30 local time (13:30 CET, 7:30 ET, 12:30 UTC), the first game of the World Championship match between defending champion Magnus Carlsen and challenger Ian Nepomniachtchi will begin in Dubai. But who will win the match - World Champion Carlsen, since July 2011 the world's number one and with a current Elo rating of 2855 the nominal favourite, or challenger Nepomniachtchi, who currently has an Elo rating of 2782 and is the world's number five, but may not yet have realised his full potential? What do you think? | Photo: Carlsen and Nepomniachtchi at the Norway Chess Tournament 2021 | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-or-nepomniachtchi-who-will-win",
-         "pubDate" : "Tue, 23 Nov 2021 13:39:45 +0100",
-         "title" : "Carlsen or Nepomniachtchi - Who will win?"
       },
       {
          "description" : " The first game of the <a href=\"https://fideworldchampionship.com/\">2021 World Chess Championship Match</a> is on Friday 26th November, at 11:30pm Canberra time. For this match there will be a maximum of 14 games, followed by tie-breaks if necessary. It runs until the 16th of December, with rest days every 2 or 3 rounds. As with most World Championship Matches I usually give a prediction before the start. Looking back at some old posts I did predict Anand beating Kramnik in 2008 (and winning the World Championship tournament in 2007). Since Carlsen became a challenger and then World Champion, I have usually played it safe and predicted a Carlsen win by 2 points. This means I have got the win",
