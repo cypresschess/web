@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The tenth game of the 2021 FIDE World Chess Championship begins on Wednesday, December 8. GM Magnus Carlsen took a commanding match lead by winning game nine and is now ahead by a score of 6-3. GM Ian Nepomniachtchi will need to strike back immedi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-10",
+         "pubDate" : "Tue, 07 Dec 2021 16:00:00 -0800",
+         "title" : "How To Watch The FIDE World Chess Championship Game 10: Carlsen - Nepo"
+      },
+      {
          "description" : "The World Championship match in Dubai might theoretically finish after 11 (out of 14) games, as Magnus Carlsen scored a third victory in four games after Ian Nepomniachtchi inexplicably blundered a piece in an equal position on Tuesday. The challenger now needs to win 3 out of the 5 remaining encounters to take the match to tiebreaks. | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-releases-leagues",
          "pubDate" : "Tue, 07 Dec 2021 11:21:45 -0800",
          "title" : "Chess.com Releasing New Leagues Feature With $50,000 Contest"
+      },
+      {
+         "description" : " Magnus Carlsen took an almost unassailable 6-3 lead with just five game left of his World Chess Championship defence against Jan Nepomniachtchi. There will be plenty of time to dissect the match afterwards but it seems to me that Nepomniachtchi is suffering the downsides of his style and approach to the game. Nepomniachtchi is an instinctive player who can drive opponents into time trouble and bad positions and defeat them with little apparent effort. The downside of this is when things are not working quite correctly there's less to fall back on. Nepomniachtchi, most likely through nerves and tiredness, is missing key moments and is being imprecise - sometimes this doesn't matter so very m",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/nepomniachtchi-falls-further-behind-after-dropping-a-piece-in-game-9",
+         "pubDate" : "Tue, 7 Dec 2021 21:57:00 +0400",
+         "title" : "Nepomniachtchi falls further behind after dropping a piece in game 9 - 9"
       },
       {
          "description" : " <p class=\"lead\">Ian Nepomniachtchi just lost game 9 of the Championship Match and probably lost a shred of chances to capture the Championship title (the Match score after game 9 is 6 - 3 with 5 games to go). To make things worse, a popular adult film star has offered the Russian player to spend a night with him (if he wins). He lost. The Russian challenger simply can't get a break. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/132B8417-112E-4974-8D91-994C6EEF45B5.jpeg\" width=\"1500\" height=\"946\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/m1han1ka69/?utm_source=ig_embed&ig_rid=669933b3-3f91-4896-8b72-89ce9b8a3bce\">MikaNika6",
@@ -1968,14 +1984,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/wp-content/uploads/2021/11/LCC-Press-Release-211121-V3.pdf#new_tab",
          "pubDate" : "Mon, 22 Nov 2021 11:37:17 +0000",
          "title" : "2021 Chess Classic"
-      },
-      {
-         "description" : "Ukraine won its first ever European Team Chess Championship in Brezice, Slovenia on Sunday. The gold medal winners edged out France on tiebreak, a team whose silver medals were largely the result of GM Alireza Firouzja&#39;s historic performance. Russ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ukraine-russia-win-2021-european-team-chess-championships",
-         "pubDate" : "Mon, 22 Nov 2021 01:57:00 -0800",
-         "title" : "Ukraine, Russia Winners At 2021 European Team Chess Championships"
       },
       {
          "description" : " The 12th London Chess Classic takes place 3rd to 12th December 2021. The event is on a smaller scale due to the continuing coronavirus crisis and in a different venue, the Cavendish Centre. The main event is an England vs the Rest of the World Scheveningen match between England's Michael Adams, Luke McShane and Gawain Jones and a Rest of the World Team of Boris Gelfand, Nikita Vitiugov and Maxime Lagarde over 6 rounds. Also there are other event including the Pro-Biz and English Rapidplay Championship.",
