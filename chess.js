@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1472",
+         "pubDate" : "Thu, 09 Dec 2021 20:09:27 +0000",
+         "title" : "Sheikh Hamdan bin Rashid Cup: Fedoseev and Salem take titles"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov looks at the recent rapid rise of Alireza Firouzja. Is it too early to peg the young France player as favorite to win the next world championship cycle? 2021.12.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-carlsens-next-challenger-grandmasters-choice-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/a9EL-6gRd1I.jpg?itok",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-carlsens-next-challenger-grandmasters-choice-gm-alex-shabalov",
+         "pubDate" : "Thu, 09 Dec 2021 19:17:31 +0000",
+         "title" : "Firouzja: Carlsen's Next Challenger? | Grandmaster's Choice - GM Alex Shabalov"
+      },
+      {
+         "description" : "This week, well-known Dutch trainer Robert Ris looks at an entertaining attacking game in the King's Indian. Enjoy! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-attacking-with-the-ragozin-2",
+         "pubDate" : "Thu, 09 Dec 2021 19:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A crushing win against the Bayonet Attack"
+      },
+      {
+         "description" : "The adventures we have had with Fritz! A unique experience was a match our program played in the Gulf state of Bahrain, back in 2002. The eight-game struggle ended in a hard-fought 4-4 draw. In a large pictorial article Frederic Friedel describes the intense battle against the reigning World Champion Vladimir Kramnik, and the three weeks spent by the ChessBase/Fritz team in a luxury hotel in Bahrain.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/thirty-years-happy-birthday-fritz-6",
+         "pubDate" : "Thu, 09 Dec 2021 18:00:00 +0100",
+         "title" : "Thirty years! Happy Birthday Fritz (5)"
+      },
+      {
          "description" : " Nutrition is a vital factor for brain performance. Thus, it matters a lot when you think about performance in Chess. While I neglected this fact for a long time, after working with a Sports Nutrition expert I was able to feel the huge differences in my own body. In this article, I want to share [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/nutrition-in-chess/\">Eat Like A Champion Nutrition In Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1698,14 +1730,6 @@ news_feed (
          "title" : "World Championship: Nepo holds Carslen with white pieces in Game 1"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko continues his series on the Scotch Game or Scotch Opening. Learn Black&#039;s Nf6 response to the Scotch Gambit and the Nakhmanson Gambit. Originally on Twitch. 2021.09.27<br /> C44 Scotch gambit, Dubois-Reti defence<br /> C56 Two knights defence </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shot-scotch-3-scotch-gambit-dubois-reti-nakhmanson-chess-openings-explained-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shot-scotch-3-scotch-gambit-dubois-reti-nakhmanson-chess-openings-explained-0",
-         "pubDate" : "Sat, 27 Nov 2021 01:00:23 +0000",
-         "title" : "A Shot of Scotch #3: Scotch Gambit, Dubois Reti & Nakhmanson | Chess Openings Explained"
-      },
-      {
          "description" : " Our regularly scheduled article will not be presented this week due to my students sudden involvement in my writing. A question came up at two of the schools I teach chess at last week. The question asked of me was \"are tactics really the only way to win games?\" It seemed like a simple enough <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-three/\">A Foundation for Beginners Forty Three</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.co",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1856,22 +1880,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/11/26/the-exchange-french-comes-to-life-fresh-strategies-to-play-for-a-win/",
          "pubDate" : "Fri, 26 Nov 2021 00:10:37 +0000",
          "title" : "The Exchange French Comes to Life: Fresh Strategies to Play for a Win"
-      },
-      {
-         "description" : "The World Championship match will start very soon, and is scheduled to run over 14 exciting games. When one of the rounds is over, says CHESS Magazine, London, why not enjoy a chess-themed crossword composition. We reprint the puzzle here, without the solution (which we will add at the end of the match). Maybe our readers can solve the puzzle communally, in the feedback section below the article?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-crossword-for-chess-fans",
-         "pubDate" : "Thu, 25 Nov 2021 20:00:00 +0100",
-         "title" : "A crossword for chess fans"
-      },
-      {
-         "description" : "This week, well-known Dutch trainer Robert Ris presents a fine attacking game and takes a look at a way to spice things up in the usually quiet Spanish with 6.d3. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-crushing-kingside-attack-in-a-ruy-lopez-with-6-d3",
-         "pubDate" : "Thu, 25 Nov 2021 19:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A crushing kingside attack in a Ruy Lopez with 6.d3"
       },
       {
          "description" : " The FIDE World Chess Championship takes place in Dubai, UAE, 24th November (opening ceremony - game 1 on 26th Nov) until 16th December. The match is between World Champion Magnus Carlsen and his Challenger Ian Nepomniachtchi. The match will be over 14 games rather than the recent 12 and uses an accelerated schedule to accommodate this - a final day of rapid and blitz tie-breaks will take place on 15th December in the event of a 7-7 tie. Nepomniachtchi will not compete under the Russian flag due to WADA sporting sanctions against Russia because of their state sponsored doping program. Both players were born in 1990 - Nepomniachtchi is the slightly older - born 14th July - Carlsen will have h",
@@ -2264,14 +2272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1438",
          "pubDate" : "Thu, 18 Nov 2021 23:27:50 +0000",
          "title" : "New set of FIDE regulations covering FIDE Titles and Ratings published"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87786806.cms\" />Indian teenage duo of Arjun Erigaisi and R Praggnanandhaa occupied the top two places, pushing world number four Levon Aronian to third spot after round six of the Tata Steel Rapid Chess on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-arjun-erigaisi-sole-leader-with-four-wins-on-trot/articleshow/87786806.cms",
-         "pubDate" : "Thu, 18 Nov 2021 22:56:23 +0530",
-         "title" : "Tata Steel Chess: Arjun Erigaisi sole leader with four wins on trot"
       }
    ]
 }
