@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Winning a brilliancy is a delight! Fritz 18 shows you how to do it - with the \"Evolving Genius\" function. The program gives subtle hints, you find ways to play fantastic games. The renowned author and coach IM Robert Ris has tried it and played a spectacular, fast and furious game which he shows in a video. But Fritz 18 helps everyone to play brilliant games. And you can share these brilliancies and take part in our Fritz 18 lottery and win great prizes!. A lot of readers have already sent in brilliancies, we show the most beautiful victories in loose order! So, join the action and send your brilliancy to brilliancy@chessbase.com\"!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/brilliancies-with-fritz-18-robert-ris-gives-it-a-try",
+         "pubDate" : "Thu, 09 Dec 2021 13:00:00 +0100",
+         "title" : "Brilliancies with Fritz 18: Robert Ris gives it a try!"
+      },
+      {
+         "description" : "The \"body-check\" is the right solution from yesterday, instead of an immediate \"opposition\". If the king goes to d4, the game can be won. The good news is, almost everyone knew that too. In door number 9 we again have only four pieces on the board, and again it is a really instructive endgame prime example.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-9665",
+         "pubDate" : "Thu, 09 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 9"
+      },
+      {
+         "description" : "During the World Championship match between Magnus Carlsen and Ian Nepomniachtchi a number of other tournaments are played in Dubai. One of them is the Sheikh Hamdan bin Rashid Rapid and Blitz Cup, in which 24 players from 22 countries took part. The winner of the Rapid Cup, a nine round Swiss, was Russian Grandmaster Vladimir Fedoseev. | Photos: Tournament Page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fedoseev-wins-sheikh-hamdan-bin-rashid-rapid-cup",
+         "pubDate" : "Thu, 09 Dec 2021 11:56:55 +0100",
+         "title" : "Fedoseev wins Sheikh Hamdan bin Rashid Rapid Cup"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Rapid and Blitz World Championships <a href=\"https://www.fide.com/news/1470\">won't be held at christmas in Nur-Sultan</a> after Kazakhstan introduced mandatory quarantine for travelers from many countries. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/rapid-and-blitz-world-championship/",
+         "pubDate" : "Thu, 09 Dec 2021 11:43:15 +0100",
+         "title" : "Rapid and Blitz world championship at risk"
+      },
+      {
+         "description" : "The FIDE Rapid and Blitz World Championships cannot take place in Nur Sultan (Kazakhstan) in December as originally planned. Due to the tightened Corona security measures imposed by the Kazakh government, FIDE has cancelled the tournament in Kazakhstan and is currently looking at alternative venues.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-rapid-blitz-championships-will-not-be-held-in-kazakhstan-in-december",
+         "pubDate" : "Thu, 09 Dec 2021 10:11:17 +0100",
+         "title" : "FIDE World Rapid & Blitz Championships will not be held in Kazakhstan in December"
+      },
+      {
+         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 10 Match Score: 6&frac12;-3&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 10 Wednesday, 8 December 2021 A quiet draw today after three wins in four games. In the last phase of the match, we hope to see attempts by Ian Nepomniachtchi to get on [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/09/2021-world-chess-championship-game-10/\">2021 World Chess Championship: Game #10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/12/09/2021-world-chess-championship-game-10/",
+         "pubDate" : "Thu, 09 Dec 2021 09:08:29 +0000",
+         "title" : "2021 World Chess Championship: Game #10"
+      },
+      {
+         "description" : "\"A short and quite uneventful draw, which totally makes sense as Magnus is on the verge of match victory.\" This is how Wesley So summed up game 10 of the World Championship match between Magnus Carlsen and Ian Nepomniachtchi. However, in his analyses he still managed to dig deep and indicates a lot of hidden subtleties of the game, particularly in regard to opening theory and match strategy. | Picture: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-game-10-annotated-by-wesley-so",
+         "pubDate" : "Thu, 09 Dec 2021 09:47:31 +0100",
+         "title" : "World Championship: Game 10 annotated by Wesley So"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her second hour on the Scheveningen. 2021.12.08<br /> Dorsa Derakhshani vs. Benjamin Bok, 2015: B90 Sicilian, Najdorf, Byrne (English) attack<br /> Derakhshani vs. Daria Voit, 2015: B90 Sicilian, Najdorf, Byrne (English) attack<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3935823\">https://www.365chess.com/game.php?back=1&amp;gid=3935823</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -170,7 +226,7 @@ news_feed (
          "title" : "Carlsen-Nepo: Longest World Championship Game Ever! | Road to 2000 - NM Caleb Denby"
       },
       {
-         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 9 Match Score: 6-3 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 9 Tuesday, 7 December 2021 Nepo blunders piece Carlsen has a 3-point bulge Chess can be brutal at times. There is nothing that crushes the soul more than losing a completely winning position. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/08/2021-world-chess-championship-game-9/\">2021 World Chess Championship: Game 9</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 9 Match Score: 6-3 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 9 Tuesday, 7 December 2021 Nepo blunders piece Carlsen has a 3-point bulge Chess can be brutal at times. There is nothing that crushes the soul more than losing a completely winning position. Perhaps [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/08/2021-world-chess-championship-game-9/\">2021 World Chess Championship: Game 9</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/08/2021-world-chess-championship-game-9/",
@@ -1058,14 +1114,6 @@ news_feed (
          "title" : "Mitropa Chess Association founded"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After eleven years, <strong>Kevin O'Connell</strong> has stepped down as Secretary of the <strong><a href=\"https://edu.fide.com/\">FIDE Chess in Education Commission</a></strong>, formerly Chess in Schools Commission. The Irishman who has served in different functions in FIDE since 1990 stays on as Honorary Chairman. The new Secretary is the American education consultant <strong>Jerry Nash</strong> who created the <a href=\"https://chessineducation.org/\">Chess in Education network</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/jerry-nash-appointed-as-edu/",
-         "pubDate" : "Thu, 02 Dec 2021 04:58:01 +0100",
-         "title" : "Jerry Nash appointed as EDU secretary"
-      },
-      {
          "description" : "GM Magnus Carlsen defeated GM Ian Nepomniachtchi in a record 136 moves in game six to score the first win of the 2021 FIDE World Chess Championship. The world champion&#39;s victory came after five draws in the championship that has a &#38;euro;2 million ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1626,14 +1674,6 @@ news_feed (
          "title" : "National Arbiters Training : Batch 2"
       },
       {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 1 Match Score: &frac12;-&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 1 Friday, 26 November 2021 Intense beginnings, but Carlsen holds The first game of the 2021 World Chess Championship match between Magnus Carlsen and Ian Nepomniachtchi began with much fanfare with commentators bubbling with [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/27/2021-world-chess-championship-game-1/\">2021 World Chess Championship: Game #1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-Africa",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/11/27/2021-world-chess-championship-game-1/",
-         "pubDate" : "Sat, 27 Nov 2021 05:04:59 +0000",
-         "title" : "2021 World Chess Championship: Game #1"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87943143.cms\" />Reigning world chess champion Magnus Carlsen tested Ian Nepomniatchtchi with an off-beat move - Na5 on the eighth move in the Ruy Lopez Opening - in the first game of their 14-game match of World championship that started in Dubai on Friday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1834,14 +1874,6 @@ news_feed (
          "title" : "World Chess Championship 2021 - Games and Results"
       },
       {
-         "description" : "With the World Championship match in Dubai scheduled to kick off on Friday, we get ready for the showdown between Magnus Carlsen and Ian Nepomniachtchi by recapping the four previous matches, which were all won by Carlsen (two of them in rapid playoffs). In the third instalment, we recapitulate what went on at the Fulton Market building in Lower Manhattan, where Carlsen came back from behind in the classical games before beating Sergey Karjakin in the rapid tiebreakers. | Photo: Anastasiya Karlovich",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-carlsen-years-part-3",
-         "pubDate" : "Thu, 25 Nov 2021 15:00:00 +0100",
-         "title" : "The Carlsen years (3): A stubborn defender"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87914561.cms\" />It's a tale reminiscent of \"The Queen's Gambit\" -- when defending champion Magnus Carlsen meets Russian Ian Nepomniachtchi at the world championships in Dubai they will renew a rivalry dating from when they were 12.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1866,36 +1898,12 @@ news_feed (
          "title" : "FIDE World Championship Dubai 2021: Catching up and final preparations"
       },
       {
-         "description" : "Who will win the World Championship match between Magnus Carlsen and Ian Nepomniachtchi in Dubai? In video interviews a number of top players, including Garry Kasparov and Vishy Anand, have commented on the possible outcome of the match in video interviews. Before the match, Magnus Carlsen and Ian Nepomniachtchi also revealed what they think about the other and the match. | Image: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-vs-nepomniachtchi-what-do-the-experts-say",
-         "pubDate" : "Thu, 25 Nov 2021 11:23:04 +0100",
-         "title" : "Carlsen vs. Nepomniachtchi: What do the experts say?"
-      },
-      {
          "description" : "The FIDE World Championship Match between reigning World Chess Champion Magnus Carlsen and the challenger Ian Nepomniachtchi starts tomorrow at Dubai Exhibition Centre. The Match consists of 14 games, played with the time control of 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves and then 15 minutes for the rest&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-championship-match-preview-carlsen-vs-nepomniachtchi/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/fide-world-championship-match-preview-carlsen-vs-nepomniachtchi/",
          "pubDate" : "Thu, 25 Nov 2021 10:06:17 +0000",
          "title" : "FIDE World Championship Match preview- Carlsen vs. Nepomniachtchi"
-      },
-      {
-         "description" : "Wednesday afternoon the World Chess Championship between Magnus Carlsen and Ian Nepomniachtchi in Dubai began with a press conference. In the evening, the opening ceremony followed and the colours were drawn. In the first game, that starts Friday, 26 November, 16:30 local time (13:30 CET, 7:30 ET, 12:30 UTC) challenger Ian Nepomniachtchi has White. | Photos: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-vs-nepomniachtchi-nepomniachtchi-starts-with-white",
-         "pubDate" : "Thu, 25 Nov 2021 10:37:16 +0100",
-         "title" : "Carlsen vs Nepomniachtchi: Nepomniachtchi starts with White"
-      },
-      {
-         "description" : "This week, Merijn van Delft takes another look at Alireza Firouzja's impressive performance at the European Team Championship which helped him to become the youngest player ever to cross the 2800+ mark and that made him the current world's number two on the live-rating list. The game of the week is A. Firouzja vs B. Jobava. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-491-alireza-firouzja-vs-baadur-jobava",
-         "pubDate" : "Thu, 25 Nov 2021 10:19:47 +0100",
-         "title" : "Game of the Week #491: Alireza Firouzja vs Baadur Jobava"
       },
       {
          "description" : "",
@@ -1920,14 +1928,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-fide-world-championship-press-conference-opening-ceremony",
          "pubDate" : "Wed, 24 Nov 2021 08:46:00 -0800",
          "title" : "FIDE World Chess Championship Officially Opened After Press Conference Clash Of Frenemies"
-      },
-      {
-         "description" : "In the afternoon of 24 November 2021 the World Championship match between Magnus Carlsen and Ian Nepomniachtchi officially opened with a press conference. On the grounds of the Expo2020 in Dubai, the representatives of FIDE, the representatives of the sponsors, the organisers and the two players answered questions of the journalists.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-vs-nepomniachtchi-the-world-championship-match-began",
-         "pubDate" : "Wed, 24 Nov 2021 17:45:42 +0100",
-         "title" : "Carlsen vs Nepomniachtchi: The World Championship began"
       },
       {
          "description" : "With every passing second, the ultimate chess battle approaches, and chess fans worldwide can&#39;t wait to see what will happen in the 2021 FIDE World Championship. Now, even before the first moves are played, freestyle rap extraordinaire Harry Mack ...",
@@ -2264,30 +2264,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-arjun-erigaisi-sole-leader-with-four-wins-on-trot/articleshow/87786806.cms",
          "pubDate" : "Thu, 18 Nov 2021 22:56:23 +0530",
          "title" : "Tata Steel Chess: Arjun Erigaisi sole leader with four wins on trot"
-      },
-      {
-         "description" : " One of the more common excuses for not playing tournament chess is \"too many annoying children\". While I think this isn't really a good excuse ('beat them early and often' is my motto), there is no denying that have a bunch of small kids running around playing 'tips' during your game can be off putting. So while the 2021 Vikings Weekender isn't designed to be a 'no juniors' event, the vaccination requirement for the event, and the timing of the roll out of vaccinations for Under 12's in Australia, means that Under 12's won't be playing (and we won't be getting a visit from Prime Minister Trump either). As junior players do make up a significant number of entries in chess events these days, ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/calling-all-grumpy-old-men.html",
-         "pubDate" : "Thu, 18 Nov 2021 11:26:00 +0000",
-         "title" : "Calling all grumpy old men"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1437",
-         "pubDate" : "Thu, 18 Nov 2021 11:21:39 +0000",
-         "title" : "Chess for children with ASD: practical materials for teachers and parents"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1436",
-         "pubDate" : "Thu, 18 Nov 2021 10:33:34 +0000",
-         "title" : "FIDE expands and extends Aid Package Program to 2022"
       }
    ]
 }
