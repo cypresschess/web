@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her second hour on the Scheveningen. 2021.12.08<br /> Dorsa Derakhshani vs. Benjamin Bok, 2015: B90 Sicilian, Najdorf, Byrne (English) attack<br /> Derakhshani vs. Daria Voit, 2015: B90 Sicilian, Najdorf, Byrne (English) attack<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3935823\">https://www.365chess.com/game.php?back=1&amp;gid=3935823</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-sicilian-more-scheveningen-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 09 Dec 2021 04:16:48 +0000",
+         "title" : "Play the Sicilian: More Scheveningen | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/5ad646a3-a235-41cc-87f0-74642acc84a2/Jacob.Lucy2.jpg\" data-image-dimensions=\"334x384\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61b15c496f0e5c7ef3e4a4c1\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/5ad646a3-a235-41cc-87f0-74642acc84a2/Jacob.Lucy2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">GM Jacob Aagaard and Lucy </figcaption> </figure> <figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-im",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -162,7 +170,7 @@ news_feed (
          "title" : "Carlsen-Nepo: Longest World Championship Game Ever! | Road to 2000 - NM Caleb Denby"
       },
       {
-         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 9 Match Score: 5-3 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 8 Sunday, 5 December 2021 Nepo blunders piece Carlsen has a 3-point bulge Chess can be brutal at times. There is nothing that crushes the soul more than losing a completely winning position. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/08/2021-world-chess-championship-game-9/\">2021 World Chess Championship: Game 9</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 9 Match Score: 6-3 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 9 Tuesday, 7 December 2021 Nepo blunders piece Carlsen has a 3-point bulge Chess can be brutal at times. There is nothing that crushes the soul more than losing a completely winning position. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/08/2021-world-chess-championship-game-9/\">2021 World Chess Championship: Game 9</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/08/2021-world-chess-championship-game-9/",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-491-alireza-firouzja-vs-baadur-jobava",
          "pubDate" : "Thu, 25 Nov 2021 10:19:47 +0100",
          "title" : "Game of the Week #491: Alireza Firouzja vs Baadur Jobava"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. 2021.11.24<br /> B40 Sicilian, Anderssen variation<br /> B80 Sicilian, Scheveningen variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-scheveningen-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/y",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-sicilian-scheveningen-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 25 Nov 2021 03:59:17 +0000",
-         "title" : "Play the Sicilian: Scheveningen | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "",
