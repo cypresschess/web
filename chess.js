@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/5ad646a3-a235-41cc-87f0-74642acc84a2/Jacob.Lucy2.jpg\" data-image-dimensions=\"334x384\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61b15c496f0e5c7ef3e4a4c1\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/5ad646a3-a235-41cc-87f0-74642acc84a2/Jacob.Lucy2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">GM Jacob Aagaard and Lucy </figcaption> </figure> <figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-im",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/8/world-championship-bonus-pod-4-gm-jacob-aagaard-on-the-match-plus-shaun-mccoy-with-a-report-from-dubai",
+         "pubDate" : "Thu, 09 Dec 2021 01:34:18 +0000",
+         "title" : "World Championship Bonus Pod #4- GM Jacob Aagaard on the match, plus Shaun McCoy with a report from Dubai "
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her second hour on the Scheveningen. 2021.12.08<br /> Dorsa Derakhshani vs. Benjamin Bok, 2015: B90 Sicilian, Najdorf, Byrne (English) attack<br /> Derakhshani vs. Daria Voit, 2015: B90 Sicilian, Najdorf, Byrne (English) attack<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3935823\">https://www.365chess.com/game.php?back=1&amp;gid=3935823</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-sicilian-more-scheveningen-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Thu, 09 Dec 2021 01:16:29 +0000",
+         "title" : "Play the Sicilian: More Scheveningen | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
          "description" : "The eleventh game of the 2021 FIDE World Chess Championship will begin on Friday, December 10, after a rest day on Thursday. GMs Magnus Carlsen and Ian Nepomniachtchi played a quiet draw in the tenth game and the match score is currently at 6.5-3....",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -31,7 +47,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2021-g10",
          "pubDate" : "Wed, 08 Dec 2021 19:20:00 +0100",
-         "title" : "Wolrd Championship Game 10: Safety first"
+         "title" : "World Championship Game 10: Safety first"
       },
       {
          "description" : "This week, Merijn van Delft takes a look at a game between the Dutch player Thomas Beerdsen and Sergey Fedorchuk from Ukraine. The game was played at a tournament in Barcelona and helped Beerdsen to make his second grandmaster norm. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -162,7 +178,7 @@ news_feed (
          "title" : "Nepo blunders again, Magnus up by 3 points"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov teaches a chess endgame class focusing on on fortresses defending against queen attacks. Pendulum defense </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-let-her-queen-vs-fortress-insane-endgame-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_RqnOC6wQyY.jpg?itok=leABrece\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov teaches a chess endgame class focusing on fortresses to defend against queen attacks. Specifically, see the Pendulum defense. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-let-her-queen-vs-fortress-insane-endgame-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_RqnOC6wQyY.jpg?itok=leABrece\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/dont-let-her-queen-vs-fortress-insane-endgame-gm-alex-shabalov",
@@ -1880,14 +1896,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/play-sicilian-scheveningen-chess-and-psychology-im-dorsa-derakhshani",
          "pubDate" : "Thu, 25 Nov 2021 03:59:17 +0000",
          "title" : "Play the Sicilian: Scheveningen | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. 2021.11.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-scheveningen-chess-and-psychology-im-dorsa-derakhshani-lichesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pFLtK18AoTs.jpg?itok=8R98sZ5A\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-sicilian-scheveningen-chess-and-psychology-im-dorsa-derakhshani-lichesscom",
-         "pubDate" : "Thu, 25 Nov 2021 00:58:58 +0000",
-         "title" : "Play the Sicilian: Scheveningen | Chess and Psychology - IM Dorsa Derakhshani | lichess.com"
       },
       {
          "description" : "",
