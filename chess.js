@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The eleventh game of the 2021 FIDE World Chess Championship will begin on Friday, December 10, after a rest day on Thursday. GMs Magnus Carlsen and Ian Nepomniachtchi played a quiet draw in the tenth game and the match score is currently at 6.5-3....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-11",
+         "pubDate" : "Wed, 08 Dec 2021 16:00:00 -0800",
+         "title" : "How To Watch The FIDE World Chess Championship Game 11: Carlsen - Nepo"
+      },
+      {
+         "description" : " The 2021 ACT Rapidplay Championship is being held on the 18th December 2021 at 11am at King O'Malley's, City Walk, Canberra. Details are: <ul style=\"text-align: left;\"><li>Venue - King O'Malley's, City Walk, Canberra ACT (inside City Walk Arcade if it is raining)</li><li>Date - 18 December 2021 11:00am (Entries from 10:30am to 10:55 am)</li><li>Entry Fee - $10 adults, $5 juniors (under 18)</li><li>Prizes - $150 1st + other prizes ($420 in prizes were awarded in 2020)</li><li>Rounds - 7</li><li>Time control - G/15m</li><li>ACF and FIDE Rated (TBC) </li><li>ACTCA/ACTJCL Membership reqd - 2022 membership can be paid here <a href=\"https://www.trybooking.com/BWGHO\">https://www.trybooking.com/BWG",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/2021-act-rapidplay-championship.html",
+         "pubDate" : "Wed, 08 Dec 2021 22:27:00 +0000",
+         "title" : "2021 ACT Rapidplay Championship"
+      },
+      {
+         "description" : " The FIDE Qualification Commission is making some changes to how ratings are being calculated and how titles can be earned. These changes do not affect most players in a significant way, but it is still important to know what they are. In the area of ratings the major change is that the 400 point rating limit is being restricted to one game per tournament. Previously any game where the difference in rating between 2 players was treated as though they were 400 points apart. This was to benefit higher rated players who did not enjoy risking rating points against lower rated opponents, and would therefore avoid a number of events. Now this happens at most once in a tournament (against the oppon",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/changes-to-rating-and-titles.html",
+         "pubDate" : "Wed, 08 Dec 2021 22:16:00 +0000",
+         "title" : "Changes to rating and titles"
+      },
+      {
          "description" : "An uneventful draw in game 10 of the World Championship match kept Magnus Carlsen's 3-point lead going into the fourth rest day of the contest. The defending champion only needs to score 1 point in the remaining 4 encounters to keep his crown. | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1960,14 +1984,6 @@ news_feed (
          "link" : "https://www.europechess.org/london-chess-classic-2021/",
          "pubDate" : "Tue, 23 Nov 2021 13:27:16 +0000",
          "title" : "London Chess Classic 2021"
-      },
-      {
-         "description" : "With three days to go until the 2021 FIDE World Championship match, the chess world can&#39;t wait until GM Magnus Carlsen and GM Ian Nepomniachtchi finally sit down at the board on Friday in Dubai. The big question&#38;mdash;who is going to win?&#38;mdash;is...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-nepomniachtchi-predictions",
-         "pubDate" : "Tue, 23 Nov 2021 05:06:00 -0800",
-         "title" : "Carlsen-Nepomniachtchi: Predictions"
       },
       {
          "description" : " The first game of the <a href=\"https://fideworldchampionship.com/\">2021 World Chess Championship Match</a> is on Friday 26th November, at 11:30pm Canberra time. For this match there will be a maximum of 14 games, followed by tie-breaks if necessary. It runs until the 16th of December, with rest days every 2 or 3 rounds. As with most World Championship Matches I usually give a prediction before the start. Looking back at some old posts I did predict Anand beating Kramnik in 2008 (and winning the World Championship tournament in 2007). Since Carlsen became a challenger and then World Champion, I have usually played it safe and predicted a Carlsen win by 2 points. This means I have got the win",
