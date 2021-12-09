@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Nutrition is a vital factor for brain performance. Thus, it matters a lot when you think about performance in Chess. While I neglected this fact for a long time, after working with a Sports Nutrition expert I was able to feel the huge differences in my own body. In this article, I want to share [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/nutrition-in-chess/\">Eat Like A Champion Nutrition In Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/nutrition-in-chess/",
+         "pubDate" : "Thu, 09 Dec 2021 15:00:00 +0000",
+         "title" : "Eat Like A Champion - Nutrition In Chess"
+      },
+      {
+         "description" : "In today's episode, Svitlana wants to give some hope to all the Nepo fans out there. The Canadian WIM shows us some beautiful games of former World Chess Champions, who managed remarkable comebacks in World Championship matches. We are talking about players like Wilhelm Steinitz, Alexander Alekhine, and Bobby Fischer. All three of them were trailing in World Championship matches and all three of them could turn the tables around. Nepo, it ain't over, until it's over.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-23",
+         "pubDate" : "Thu, 09 Dec 2021 16:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Hope for all Nepo fans"
+      },
+      {
          "description" : "Winning a brilliancy is a delight! Fritz 18 shows you how to do it - with the \"Evolving Genius\" function. The program gives subtle hints, you find ways to play fantastic games. The renowned author and coach IM Robert Ris has tried it and played a spectacular, fast and furious game which he shows in a video. But Fritz 18 helps everyone to play brilliant games. And you can share these brilliancies and take part in our Fritz 18 lottery and win great prizes!. A lot of readers have already sent in brilliancies, we show the most beautiful victories in loose order! So, join the action and send your brilliancy to brilliancy@chessbase.com\"!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1856,14 +1872,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-crushing-kingside-attack-in-a-ruy-lopez-with-6-d3",
          "pubDate" : "Thu, 25 Nov 2021 19:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: A crushing kingside attack in a Ruy Lopez with 6.d3"
-      },
-      {
-         "description" : "IM Jonathan Tisdall has been covering World Chess Championship matches for decades. His book \"Moscow Marathon\" from 1985 (co-authored with Jon Speelman) is a witty and insightful report about the 1984/1985 match between Garry Kasparov and Anatoly Karpov, and Tisdall's textbook \"Improve Your Chess Now\" from 1997 is considered a modern classic. In Dubai, Tisdall covers the match between Carlsen and Nepomniachtchi as FIDE press officer and writing about the press conference on Wednesday, Tisdall revealed \"the best advice for aspiring champions\". | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-vs-nepomniachtchi-enjoy-what-you-do",
-         "pubDate" : "Thu, 25 Nov 2021 17:39:07 +0100",
-         "title" : "Carlsen vs Nepomniachtchi: \"Enjoy what you do!\""
       },
       {
          "description" : " The FIDE World Chess Championship takes place in Dubai, UAE, 24th November (opening ceremony - game 1 on 26th Nov) until 16th December. The match is between World Champion Magnus Carlsen and his Challenger Ian Nepomniachtchi. The match will be over 14 games rather than the recent 12 and uses an accelerated schedule to accommodate this - a final day of rapid and blitz tie-breaks will take place on 15th December in the event of a 7-7 tie. Nepomniachtchi will not compete under the Russian flag due to WADA sporting sanctions against Russia because of their state sponsored doping program. Both players were born in 1990 - Nepomniachtchi is the slightly older - born 14th July - Carlsen will have h",
