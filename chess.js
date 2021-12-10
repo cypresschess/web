@@ -10,7 +10,23 @@ news_feed (
          "title" : "The Comfort Zone: Keys to Your Chess Success"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88212840.cms\" />Norwegian grandmaster Magnus Carlsen retained his world chess title on Friday as he recorded a fourth win over Russian challenger Ian Nepomniachtchi. Carlsen sealed victory by winning the 11th game of the 14-game series in their two-million-euro ($2.3 million) match in Dubai.",
+         "description" : "In light of recent events GM Daniel King looks back over World Championship mistakes and blunders. The selection is plentiful, and it wasn't just the old guys making errors. The first example comes from the Steinitz-Chigorin match of 1892, the last is from Carlsen-Nepomniachtchi, and there is much in between. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-2",
+         "pubDate" : "Fri, 10 Dec 2021 19:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: World Championship blunders"
+      },
+      {
+         "description" : "Carlsen defeated Ian Nepomniachtchi 7.5 - 3.5 at the 2021 FIDE World Chess Championships in Dubai to win his fifth title.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32837284/magnus-carlsen-wins-fide-world-chess-championship-ian-nepomniachtchi?device=featurephone",
+         "pubDate" : "Fri, 10 Dec 2021 12:05:33 -0500",
+         "title" : "Magnus Carlsen wins fifth FIDE World Chess Championship"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88212840.cms\" />Norway's Magnus Carlsen claimed his fifth world chess crown in Dubai on Friday with a crushing 7.5-3.5 victory against Ian Nepomniachtchi, who faded badly after going toe-to-toe with the Norwegian defending champion in the early games.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-retains-world-chess-title/articleshow/88212840.cms",
@@ -1896,14 +1912,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-shirov-on-fire-2",
          "pubDate" : "Fri, 26 Nov 2021 19:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Spectacular Shirov - again"
-      },
-      {
-         "description" : "The much-anticipated confrontation between Magnus Carlsen and Ian Nepomniachtchi kicked off at 16:30 local time in Dubai. The first game of the World Championship match finished in a draw. Playing black, Carlsen was the first one to deviate from well-known theoretical lines, but Nepomniachtchi proved to be prepared to face the variation chosen by the defending champion. A tense endgame developed, with both contenders missing small chances here and there. The draw was signed after 45 moves. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-g1",
-         "pubDate" : "Fri, 26 Nov 2021 19:00:00 +0100",
-         "title" : "World Championship Game 1: Tension in the air"
       },
       {
          "description" : " The FIDE World Chess Championship got under way in Dubai on Friday 26th November. The match between World Champion Magnus Carlsen and his challenger Ian Nepomniachtchi will be over 14 classical games followed by a day of rapid and blitz tie-breaks if required. The first game of the match was a reasonably tense affair with both players surely glad to get started. The pandemic has drastically reduced the amount of face to face chess in the last 18 months and that will surely affect both players but there has also been a revolution in chess preparation using AI and computers. This is generating masses of new ideas - in the recent past it's been hard to remember everything - we may now have gon",
