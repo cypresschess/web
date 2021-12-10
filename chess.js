@@ -15,7 +15,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/the-last-game-magnus-retains-his-world-champion-title-3-games-ea/",
          "pubDate" : "Fri, 10 Dec 2021 15:53:49 +0000",
-         "title" : "The Last Game: Magnus Retains His World Champion Title, 3 Games Earlier"
+         "title" : "The Last Game: Magnus Retains His World Champion Title Ahead of Schedule"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e2416c20-e432-4718-a1a4-674562a35dbc/Mads4.jpg\" data-image-dimensions=\"665x300\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61b37211d97c3f233664c87f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e2416c20-e432-4718-a1a4-674562a35dbc/Mads4.jpg?format=1000w\" /> </figure> <figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/83433af6-5d5c-4295-a259-c591727",
@@ -58,7 +58,7 @@ news_feed (
          "title" : "Do or die for Nepo"
       },
       {
-         "description" : "Magnus Carlsen picked up a fourth win at the World Championship match to secure overall victory with three games to spare. Playing black, the world champion saw Ian Nepomniachtchi all but self-destructing for a third time in the match. This was Carlsen's fourth consecutive successful defence of the title after becoming world champion in 2013. | Replay all the games with computer analysis. Full report to follow shortly | Photo: Eric Rosen",
+         "description" : "Magnus Carlsen picked up a fourth win at the World Championship match in Dubai to secure overall victory with three games to spare. Playing black, the world champion saw Ian Nepomniachtchi all but self-destructing for a third time in the match. This was Carlsen's fourth consecutive defence of the title after becoming world champion in 2013. | Replay all the games with computer analysis. Full report to follow shortly | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2021-live",
@@ -2296,14 +2296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1440",
          "pubDate" : "Fri, 19 Nov 2021 19:21:04 +0000",
          "title" : "Mark Plotkin wins Banff Open 2021"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87805078.cms\" /> There's no stopping Indian youngster Arjun Erigaisi. The 18-year-old carried on from where he left on the second day to claim the rapid title of the Kolkata rapid and blitz chess meet at the National Library on Friday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/clinical-arjun-erigaisi-clinches-kolkata-rapid-chess-title/articleshow/87805078.cms",
-         "pubDate" : "Fri, 19 Nov 2021 21:36:45 +0530",
-         "title" : "Clinical Arjun Erigaisi clinches Kolkata rapid chess title"
       }
    ]
 }
