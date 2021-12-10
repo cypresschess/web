@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world champion leads 6.5-3.5 in the best-of-14 series and should wrap up a win over his Russian rival this weekend Magnus Carlsen is on the cusp of victory at Dubai this weekend after Ian Nepomniachtchi visibly wilted following their marathon 136-move sixth game, the longest in world championship history. The Russian went on to blunder away a key pawn in game eight, then allowed his bishop to be trapped in the Norwegian camp in game nine. A soporific draw in game 10 left Carlsen 6.5-3.5 ahead in the best-of-14, needing just one win or two draws in this weekend's three games to retain his crown and take the lion's share of the €2m prize fund. <a href=\"https://www.theguardian.com/sport/",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/dec/10/chess-carlsen-on-cusp-of-victory-as-nepomniachtchi-wilts-after-marathon",
+         "pubDate" : "Fri, 10 Dec 2021 08:00:34 +0000",
+         "title" : "Chess: Carlsen on cusp of victory as Nepomniachtchi wilts after marathon"
+      },
+      {
+         "description" : "The field of participants of the Tata Steel Chess Tournament 2022 is complete. Anish Giri (7th on the world ranking) and Jorden van Foreest, winner of the Tata Steel Chess Tournament 2021, will represent The Netherlands in the Tata Steel Masters. Both grandmaster groups consist of a mix of well-established players and promising young players. The 84th edition of the Tata Steel Chess Tournament will take place in Wijk aan Zee from 14 - 30 January 2022. | Photo: Jorden van Foreest (winner) and Anish Giri playing the tie-break during the Tata Steel Chess Tournament 2021 | Photo: Tata Steel Tournament",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/field-of-participants-tata-steel-chess-tournament-2022-complete",
+         "pubDate" : "Fri, 10 Dec 2021 09:00:00 +0100",
+         "title" : "Field of participants Tata Steel Chess Tournament 2022 complete"
+      },
+      {
          "description" : "The last quarterfinal match of this year&#39;s Speed Chess Championship Main Event was between GMs Wesley So and Fabiano Caruana. The former, who just became the 2021 U.S. Champion (you can read more about that here) went on to win the match 17.5-9.5 ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -350,7 +366,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-releases-leagues",
-         "pubDate" : "Tue, 07 Dec 2021 11:21:45 -0800",
+         "pubDate" : "Tue, 07 Dec 2021 11:21:00 -0800",
          "title" : "Chess.com Releasing New Leagues Feature With $50,000 Contest"
       },
       {
@@ -1850,14 +1866,6 @@ news_feed (
          "title" : "European Youth Rapid & Blitz Championship"
       },
       {
-         "description" : "The World Championship is about to begin on the 26th of November 2021. Sagar Shah and Amruta Mokal have made their way from Mumbai to Dubai to bring you on the ground coverage of the biggest event of the year. Magnus Carlsen is going to play his 5th World Championship Match in the last 8 years, while this will be the first shot at the title for the Challenger Ian Nepomniachtchi. A lot of interesting things have already happened leading to the match, and in this article we tell you about the venue of the event - the massive Dubai Expo 2020, the press conference and the opening ceremony! Along with it Sagar gives you a personal account of his experience of travel from India to the UAE and reac",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mumbai-to-dubai-a-first-look-at-the-fide-world-championship-match-2021",
-         "pubDate" : "Fri, 26 Nov 2021 10:10:59 +0100",
-         "title" : "Mumbai to Dubai: A first look at the FIDE World Championship Match 2021"
-      },
-      {
          "description" : " The world champion aims to exploit Ian Nepomniachtchi's lack of experience in world title matches, while the French 18-year-old has just broken two of Carlsen's own landmarks Magnus Carlsen says he plans a fast start in the opening three rounds of his 14-game, $2m world title match against Russia's Ian Nepomniachtchi on Friday, Saturday and Sunday. Play starts at 12.30pm GMT throughout the match, which can be followed live and free online, with expert and computer commentaries on every move. Nepomniachtchi will have the favourable white pieces in the first game, whose colours were determined <a href=\"https://twitter.com/FIDE_chess/status/1463560207305424906?ref_src=twsrc%5Etfw%7Ctwcamp%5Etw",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2248,14 +2256,6 @@ news_feed (
          "link" : "https://www.europechess.org/liechtenstein-chess-federation-celebrates-its-50th-anniversary/",
          "pubDate" : "Fri, 19 Nov 2021 09:51:40 +0000",
          "title" : "Liechtenstein Chess Federation celebrates its 50th Anniversary"
-      },
-      {
-         "description" : " Norway's world champion is odds on to defeat his Russian challenger, but the fast rising 18-year-old Alireza Firouzja is poised to reach world No 2 this weekend Zero hour is approaching in Dubai. Magnus Carlsen and Ian Nepomniachtchi start their 14-game match for the world championship next week, with the opening ceremony on Wednesday and game one on Friday. A $2m prize fund, split 60-40, is at stake, plus the personal, business and national aspirations of the contenders. Carlsen can strengthen his claim to be the all-time greatest ahead of Garry Kasparov and Bobby Fischer, while Nepo (as he is usually called, and whose first name is pronounced Jan) can be the talisman who creates a new ver",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/nov/19/chess-magnus-carlsen-and-ian-nepomniachtchi-face-off-for-2m-in-dubai",
-         "pubDate" : "Fri, 19 Nov 2021 08:00:29 +0000",
-         "title" : "Chess: Magnus Carlsen and Ian Nepomniachtchi face off for $2m in Dubai"
       }
    ]
 }
