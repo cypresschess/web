@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last quarterfinal match of this year&#39;s Speed Chess Championship Main Event was between GMs Wesley So and Fabiano Caruana. The former, who just became the 2021 U.S. Champion (you can read more about that here) went on to win the match 17.5-9.5 ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-so-caruana",
+         "pubDate" : "Thu, 09 Dec 2021 20:03:00 -0800",
+         "title" : "Speed Chess Championship: So Knocks Out Caruana, Advances to SF"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "Sheikh Hamdan bin Rashid Cup: Fedoseev and Salem take titles"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov looks at the recent rapid rise of Alireza Firouzja. Is it too early to peg the young France player as favorite to win the next world championship cycle? 2021.12.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-carlsens-next-challenger-grandmasters-choice-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/a9EL-6gRd1I.jpg?itok",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov looks at the recent rapid rise of Alireza Firouzja. Is it too early to peg the young France player as favorite to win the next world championship cycle? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-carlsens-next-challenger-grandmasters-choice-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/a9EL-6gRd1I.jpg?itok=b0yy9GM_\" ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/firouzja-carlsens-next-challenger-grandmasters-choice-gm-alex-shabalov",
@@ -1954,14 +1962,6 @@ news_feed (
          "title" : "World's Greatest Freestyle Rapper Covers The World Chess Championship"
       },
       {
-         "description" : "GM Hikaru Nakamura took home his second Titled Tuesday of the month on November 23. With a score of 9.5/11 on +8 =3, Nakamura claimed victory on tiebreaks over IM Minh Le. GM Jeffery Xiong took third place for the second straight week, finishing w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-november-23-titled-tuesday",
-         "pubDate" : "Wed, 24 Nov 2021 07:40:39 -0800",
-         "title" : "Nakamura Wins November 23 Titled Tuesday"
-      },
-      {
          "description" : " One of my pet peeves as an arbiter is when players offer a draw by putting out their hand. This happens a lot in junior events and is often done by players in a losing position to try and save half a point (when the opponent isn't sure what happens and shakes the hand thinking it is a resignation). Such incidents almost always end in tears, which is another peeve of mine (there is no crying in chess). The most recent occurrence of this problem happened the other night at my local club. The game between an older and very experimented player and a young junior player ended in a draw, at least according to the junior player. But the result on the computer showed a win for the opponent, so in m",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2256,14 +2256,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/nov/19/chess-magnus-carlsen-and-ian-nepomniachtchi-face-off-for-2m-in-dubai",
          "pubDate" : "Fri, 19 Nov 2021 08:00:29 +0000",
          "title" : "Chess: Magnus Carlsen and Ian Nepomniachtchi face off for $2m in Dubai"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/cb3198eb-3a08-4677-9620-146d0d71d514/King2.jpg\" data-image-dimensions=\"350x461\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61971f83bcaff666d86ebfdd\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/cb3198eb-3a08-4677-9620-146d0d71d514/King2.jpg?format=1000w\" /> </figure> <p class=\"\">Photo by <a href=\"https://www.chessphotoshop.com\">Lennart Ootes</a>, courtesy of GM Daniel King<br><br> <p class=\"\">Grandmaster Daniel King is a popular Commentator, Author, YouTub",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/18/episode-253-gm-daniel-king-previews-the-world-championship-plus-more",
-         "pubDate" : "Fri, 19 Nov 2021 03:55:28 +0000",
-         "title" : "Episode 253- GM Daniel King Previews the World Championship, plus more! "
       }
    ]
 }
