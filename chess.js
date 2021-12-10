@@ -2264,14 +2264,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/18/episode-253-gm-daniel-king-previews-the-world-championship-plus-more",
          "pubDate" : "Fri, 19 Nov 2021 03:55:28 +0000",
          "title" : "Episode 253- GM Daniel King Previews the World Championship, plus more! "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1438",
-         "pubDate" : "Thu, 18 Nov 2021 23:27:50 +0000",
-         "title" : "New set of FIDE regulations covering FIDE Titles and Ratings published"
       }
    ]
 }
