@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The world champion leads 6.5-3.5 in the best-of-14 series and should wrap up a win over his Russian rival this weekend Magnus Carlsen is on the cusp of victory at Dubai this weekend after Ian Nepomniachtchi visibly wilted following their marathon 136-move sixth game, the longest in world championship history. The Russian went on to blunder away a key pawn in game eight, then allowed his bishop to be trapped in the Norwegian camp in game nine. A soporific draw in game 10 left Carlsen 6.5-3.5 ahead in the best-of-14, needing just one win or two draws in this weekend's three games to retain his crown and take the lion's share of the €2m prize fund. <a href=\"https://www.theguardian.com/sport/",
+         "description" : " &#160; &#8220;Born 04/05/1976 Currently living in Alnwick, Northumberland, England. Daniel has been a chess professional for over twenty years, in which time he has played in many tournaments both in the U.K. and abroad. He has represented England in the European team championships and the Olympiad. Daniel has taken high placing in the British chess <a href=\"http://britishchessnews.com/2021/12/12/the-comfort-zone-keys-to-your-chess-success/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Comfort Zone: Keys to Your Chess Success</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/12/the-comfort-zone-ke",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/12/12/the-comfort-zone-keys-to-your-chess-success/",
+         "pubDate" : "Sun, 12 Dec 2021 00:10:03 +0000",
+         "title" : "The Comfort Zone: Keys to Your Chess Success"
+      },
+      {
+         "description" : " Tonight could very well see the final game of the 2021 World Championship Match. A win for Carlsen would see him reach 7.5 points, the score he needs to retain his title. Even a draw would see Carlsen reach 7, so the worse that could happen was a round of tie-breaks. Going into this game I can't see Nepo pulling back a full point. He might draw the game, postponing the inevitable, or over press, resulting in a win for Carlsen (in a similar ending to the 2013 World Championship Match). If I was a betting man, I would give Carlsen a 33% change of winning, and a 66% chance of it being a draw. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/do-or-die-for-nepo.html",
+         "pubDate" : "Fri, 10 Dec 2021 12:05:00 +0000",
+         "title" : "Do or die for Nepo"
+      },
+      {
+         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. With four games to go, defending champion Magnus Carlsen has a 3-point lead over challenger Ian Nepomniachtchi. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
+         "pubDate" : "Fri, 10 Dec 2021 13:00:00 +0100",
+         "title" : "Carlsen vs. Nepomniachtchi - Game 11 Live!"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Zc_rUD0bfOs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-11-of-the-match/",
+         "pubDate" : "Fri, 10 Dec 2021 11:57:58 +0000",
+         "title" : "Time To Say Dubai: Round 11 of the Match"
+      },
+      {
+         "description" : "The new ChessBase Magazine Extra #204 offers two opening videos on Scandinavian and Catalan as well as a total of 26 games with detailed commentary, including analyses by Anish Giri, Romain Edouard and Michal Krasenkow. Peter Heine Nielsen, Magnus Carlsen's second, contributes \"The brilliancy\". And of course it's about am extraordinary game by the World Champion. In the final of the Meltwater Tour 2021 Carlsen outplayed Jan-Krzysztof Duda after a novelty (\"At first it looks close to insanity.\") in only 18 moves. Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-and-modern-chess-at-its-best",
+         "pubDate" : "Fri, 10 Dec 2021 12:00:00 +0100",
+         "title" : "\"Magnus, and Modern chess, at its best\""
+      },
+      {
+         "description" : "The rook moves to the square f2. Most people knew that yesterday, which is wonderful! As always, the detailed solution is in the video, and there are many details to consider. We are briefly confused ourselves during the analysis. Today we have to solve a problem, starring Magnus Carlsen!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-10834",
+         "pubDate" : "Fri, 10 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 10"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The city of Amsterdam is considering not to bring back the public giant chess on the centrally located <strong>Max Euweplein</strong> (plein is Dutch for square) after ongoing renovation works. There is <a href=\"https://maxeuweplein.petities.nl/\">a petition</a> to save the best known giant chess in the world. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/petition-to-save-max-euweplein/",
+         "pubDate" : "Fri, 10 Dec 2021 11:56:28 +0100",
+         "title" : "Petition to save Max Euweplein"
+      },
+      {
+         "description" : "Taking place at the Cavendish Conference Centre, Duchess Mews, London on December 11th 12th from 12:00 pm. Ten of England's top Grandmasters and International...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-rapidplay-chess-championship-2021/",
+         "pubDate" : "Fri, 10 Dec 2021 09:08:25 +0000",
+         "title" : "English Rapidplay Chess Championship 2021"
+      },
+      {
+         "description" : "After nine rounds three players shared first place with 7.0/9 each at the El Llobregat Open in Barcelona: Nodirbek Abdusattorov (Uzbekistan), Murali Khartikeyan (India), and Pere Garriga Cazorla, the best player from the host country. Abdusattorov then won the playoff and the tournament, Khartikeyan finished second. | Photos: Patricia Claros",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nodirbek-abdusattorov-wins-el-llobregat-open-in-barcelona",
+         "pubDate" : "Fri, 10 Dec 2021 09:56:35 +0100",
+         "title" : "Nodirbek Abdusattorov wins El Llobregat Open in Barcelona"
+      },
+      {
+         "description" : " The world champion leads 6.5-3.5 in the best-of-14 series and should wrap up a win over his Russian rival this weekend Magnus Carlsen is on the verge of victory at Dubai this weekend after Ian Nepomniachtchi visibly wilted following their marathon 136-move sixth game, the longest in world championship history. The Russian went on to blunder away a key pawn in game eight, then allowed his bishop to be trapped in the Norwegian camp in game nine. A soporific draw in game 10 left Carlsen 6.5-3.5 ahead in the best-of-14, needing just one win or two draws in this weekend's three games to retain his crown and take the lion's share of the €2m prize fund. <a href=\"https://www.theguardian.com/sport",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2021/dec/10/chess-carlsen-on-cusp-of-victory-as-nepomniachtchi-wilts-after-marathon",
          "pubDate" : "Fri, 10 Dec 2021 08:00:34 +0000",
-         "title" : "Chess: Carlsen on cusp of victory as Nepomniachtchi wilts after marathon"
+         "title" : "Chess: Carlsen on verge of victory as Nepomniachtchi wilts after marathon"
       },
       {
          "description" : "The field of participants of the Tata Steel Chess Tournament 2022 is complete. Anish Giri (7th on the world ranking) and Jorden van Foreest, winner of the Tata Steel Chess Tournament 2021, will represent The Netherlands in the Tata Steel Masters. Both grandmaster groups consist of a mix of well-established players and promising young players. The 84th edition of the Tata Steel Chess Tournament will take place in Wijk aan Zee from 14 - 30 January 2022. | Photo: Jorden van Foreest (winner) and Anish Giri playing the tie-break during the Tata Steel Chess Tournament 2021 | Photo: Tata Steel Tournament",
@@ -154,12 +226,12 @@ news_feed (
          "title" : "Play the Sicilian: More Scheveningen | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
-         "description" : "The eleventh game of the 2021 FIDE World Chess Championship will begin on Friday, December 10, after a rest day on Thursday. GMs Magnus Carlsen and Ian Nepomniachtchi played a quiet draw in the tenth game and the match score is currently at 6.5-3....",
+         "description" : "Our coverage of game 11 of the 2021 FIDE World Chess Championship is underway! GMs Magnus Carlsen and Ian Nepomniachtchi played a quiet draw in the 10th game and the match score is currently at 6.5-3.5. Nepomniachtchi plays with the white pieces...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-11",
          "pubDate" : "Wed, 08 Dec 2021 16:00:00 -0800",
-         "title" : "How To Watch The FIDE World Chess Championship Game 11: Carlsen - Nepo"
+         "title" : "LIVE: FIDE World Chess Championship Game 11 Carlsen - Nepo"
       },
       {
          "description" : " The 2021 ACT Rapidplay Championship is being held on the 18th December 2021 at 11am at King O'Malley's, City Walk, Canberra. Details are: <ul style=\"text-align: left;\"><li>Venue - King O'Malley's, City Walk, Canberra ACT (inside City Walk Arcade if it is raining)</li><li>Date - 18 December 2021 11:00am (Entries from 10:30am to 10:55 am)</li><li>Entry Fee - $10 adults, $5 juniors (under 18)</li><li>Prizes - $150 1st + other prizes ($420 in prizes were awarded in 2020)</li><li>Rounds - 7</li><li>Time control - G/15m</li><li>ACF and FIDE Rated (TBC) </li><li>ACTCA/ACTJCL Membership reqd - 2022 membership can be paid here <a href=\"https://www.trybooking.com/BWGHO\">https://www.trybooking.com/BWG",
@@ -256,14 +328,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1469",
          "pubDate" : "Wed, 08 Dec 2021 12:13:12 +0000",
          "title" : "GYMCHESS � Chess based application to delay Alzheimer's and keep brain in shape announced"
-      },
-      {
-         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. With four games to go, defending champion Magnus Carlsen has a 3-point lead over challenger Ian Nepomniachtchi. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
-         "pubDate" : "Wed, 08 Dec 2021 13:00:00 +0100",
-         "title" : "Carlsen vs. Nepomniachtchi - Games and commentary"
       },
       {
          "description" : "Oh dear! The last door really was a tough cookie. Rarely have we received so many different answers, so we decided to draw two more winners for the day. In the video, we see the details of the solution Kc2, which lay dormant for more than 100 years. Today we have only four pieces on the board, and yet the solution is not crystal clear.",
@@ -714,14 +778,6 @@ news_feed (
          "title" : "Time To Say Dubai: Round 8 of the Match"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Carlsen's win in the sixth game of the <strong>FIDE World Championship</strong> on Friday reached a live audience on all streams combined peaking at 613,376 viewers <a href=\"https://escharts.com/tournaments/chess/fide-world-championship-2021\">according to Esports Charts</a>. However, when in March Irene Sukandar played Dadang Subur aka Dewa Kipas to expose him as a cheater, <a href=\"https://www.chess.com/news/view/most-watched-chess-stream-in-history-dewa-kipas\">1,25 million had watched on several streams combined</a>. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">24 Nov - 16 Dec 2021</span>: <a href=\"https://",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/613376-peak-viewers/",
-         "pubDate" : "Sun, 05 Dec 2021 00:56:35 +0100",
-         "title" : "Most watched top game"
-      },
-      {
          "description" : "With another win in game eight of the 2021 FIDE World Chess Championship, GM Magnus Carlsen extended his lead to two points going into the third rest day. GM Ian Nepomniachtchi initially defended creatively in another Petroff but then blundered a ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1168,14 +1224,6 @@ news_feed (
          "link" : "https://aicf.in/aicf-national-calender-2022/",
          "pubDate" : "Thu, 02 Dec 2021 10:58:46 +0000",
          "title" : "AICF NATIONAL CALENDER 2022"
-      },
-      {
-         "description" : " <p class=\"lead\">While the World Chess Championship in Dubai continues with a seemingly <a href=\"https://worldchess.com/news/all/16-draws-in-a-row-in-world-chess-championship-games/\">unending streak of draws</a>, Magnus Carlsen, the defending world champion, has again voiced disdain for the format of the Championship cycle - something he said before and likely to push for in the future. A Norwegian journalist asked both Nepo and Carlsen about their view of the Championship format. Carlsen's answer: \"You have nothing good to say, it's better not to say anything at all\". <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/vp937nZP4-M?enablejsapi=1\" allow=\"autoplay\" framebord",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/magnus-carlsen-hates-the-world-chess-championship-format-apparen/",
-         "pubDate" : "Thu, 02 Dec 2021 08:29:05 +0000",
-         "title" : "Magnus Carlsen Hates the World Chess Championship Format, Apparently"
       },
       {
          "description" : "The MITROPA countries Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland founded the Mitropa Chess Association (MCA) in a meeting after the ECU General Assembly on November 13, 2021 in Catez, Slovenia. Theodoros Tsorbatzoglou, Secretary General of the European Chess Union, attended the meeting as a guest. The statutes were signed by the representatives&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mitropa-chess-association-founded/\">Read More &#187;</a></span>",
@@ -1834,28 +1882,12 @@ news_feed (
          "title" : "FIDE World Chess Championships 26/11/21"
       },
       {
-         "description" : "The World Championship match between Magnus Carlsen and Ian Nepomniachtchi promises exciting games. After all, the World Champion and his Challenger have very different styles. French GM Romain Edouard took a close look at the strengths and weaknesses of both players to find out who has the better chances to win the match - and why. | Image: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-vs-nepomniachtchi-strengths-weaknesses-and-a-prognosis",
-         "pubDate" : "Fri, 26 Nov 2021 13:11:07 +0100",
-         "title" : "Carlsen vs Nepomniachtchi: Strengths, weaknesses and a prognosis"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1449",
          "pubDate" : "Fri, 26 Nov 2021 11:12:14 +0000",
          "title" : "FIDE QC to present new sets of regulations online"
-      },
-      {
-         "description" : "Every month a few ChessBase DVDs get released. Which one to get and which one to pass? Which one should be prioritized? Well, that you have to figure out on your own or with the help of your trainers or sparring partners. Once you have figured out the area you need to improve on or become stronger, it becomes that much easier to select a DVD and start working on it. Aanjaneya Phatak, shares his own personal experience as he reviews the latest DVD by Robert Ris, titled Calculation Training in Attack & Defence. Check out the review and see if it helps you to decide buying this DVD.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-calculation-training-in-attack-defence-vol-1-a-review",
-         "pubDate" : "Fri, 26 Nov 2021 12:00:00 +0100",
-         "title" : "Robert Ris: Calculation Training in Attack & Defence Vol. 1 - A Review"
       },
       {
          "description" : "Entries are invited to participate in the European Youth Rapid &#38; Blitz Championship. There are six age groups - Under 8 (born 2013 or later),...",
@@ -2074,14 +2106,6 @@ news_feed (
          "title" : "Viswanathan Anand's son makes chess debut in Kolkata"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/wp-content/uploads/2021/11/LCC-Press-Release-211121-V3.pdf#new_tab",
-         "pubDate" : "Mon, 22 Nov 2021 11:37:17 +0000",
-         "title" : "2021 Chess Classic"
-      },
-      {
          "description" : " The 12th London Chess Classic takes place 3rd to 12th December 2021. The event is on a smaller scale due to the continuing coronavirus crisis and in a different venue, the Cavendish Centre. The main event is an England vs the Rest of the World Scheveningen match between England's Michael Adams, Luke McShane and Gawain Jones and a Rest of the World Team of Boris Gelfand, Nikita Vitiugov and Maxime Lagarde over 6 rounds. Also there are other event including the Pro-Biz and English Rapidplay Championship.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2248,14 +2272,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-two/",
          "pubDate" : "Fri, 19 Nov 2021 13:57:23 +0000",
          "title" : "A Foundation for Beginners Forty Two"
-      },
-      {
-         "description" : "The Liechtestein Chess Federation celebrated its 50th anniversary since its founding on Sunday, November 14. An impressive gala dinner with many presentations and performances and a simultaneous exhibition with world chess champion Anatoly Karpov were the main components of the festive program In addition to many guests and dignitaries, the celebrations were attended by the Minister of Foreign&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/liechtenstein-chess-federation-celebrates-its-50th-anniversary/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/liechtenstein-chess-federation-celebrates-its-50th-anniversary/",
-         "pubDate" : "Fri, 19 Nov 2021 09:51:40 +0000",
-         "title" : "Liechtenstein Chess Federation celebrates its 50th Anniversary"
       }
    ]
 }
