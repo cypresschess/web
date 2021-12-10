@@ -10,6 +10,22 @@ news_feed (
          "title" : "The Comfort Zone: Keys to Your Chess Success"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88212840.cms\" />Norwegian grandmaster Magnus Carlsen retained his world chess title on Friday as he recorded a fourth win over Russian challenger Ian Nepomniachtchi. Carlsen sealed victory by winning the 11th game of the 14-game series in their two-million-euro ($2.3 million) match in Dubai.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-retains-world-chess-title/articleshow/88212840.cms",
+         "pubDate" : "Fri, 10 Dec 2021 21:54:29 +0530",
+         "title" : "Magnus Carlsen retains world chess title"
+      },
+      {
+         "description" : " We spent a few weeks talking about the place tactics has in your tool box of chess skills. I stated that tactics was an important part of your skill set, but not the only tool to rely upon to win games. Today we are going to enter the world of tactics in detail, and look <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-five/\">A Foundation for Beginners Forty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-five/",
+         "pubDate" : "Fri, 10 Dec 2021 16:07:21 +0000",
+         "title" : "A Foundation for Beginners Forty Five"
+      },
+      {
          "description" : " <p class=\"lead\">'Time to say Dubai' came to an end with Magnus Carlsen retaining his Title over Ian Nepomniachtchi, with a 7.5 to 3.5 total score. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2047\" data-ratio=\"1.4996336996337\"> <img src=\"https://worldchess.com/news/pictures/51736418177_18f7bd7d6d_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51736376227_56f81d65f4_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51738090960_3d99827af5_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51737882874_faa7180d56_k.jpg\" width=\"1639\" height=\"2048\" alt=\"\"",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
