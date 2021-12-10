@@ -10,6 +10,46 @@ news_feed (
          "title" : "The Comfort Zone: Keys to Your Chess Success"
       },
       {
+         "description" : " <p class=\"lead\">'Time to say Dubai' came to an end with Magnus Carlsen retaining his Title over Ian Nepomniachtchi, with a 7.5 to 3.5 total score. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2047\" data-ratio=\"1.4996336996337\"> <img src=\"https://worldchess.com/news/pictures/51736418177_18f7bd7d6d_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51736376227_56f81d65f4_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51738090960_3d99827af5_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51737882874_faa7180d56_k.jpg\" width=\"1639\" height=\"2048\" alt=\"\"",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-last-game-magnus-retains-his-world-champion-title-3-games-ea/",
+         "pubDate" : "Fri, 10 Dec 2021 15:53:49 +0000",
+         "title" : "The Last Game: Magnus Retains His World Champion Title, 3 Games Earlier"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e2416c20-e432-4718-a1a4-674562a35dbc/Mads4.jpg\" data-image-dimensions=\"665x300\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61b37211d97c3f233664c87f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e2416c20-e432-4718-a1a4-674562a35dbc/Mads4.jpg?format=1000w\" /> </figure> <figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/83433af6-5d5c-4295-a259-c591727",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/10/book-recap-21-discussing-a-first-book-of-morphy-with-mads-jnsson",
+         "pubDate" : "Fri, 10 Dec 2021 15:03:32 +0000",
+         "title" : "Book Recap #21- Discussing A First Book of Morphy with Mads J&oslash;nsson"
+      },
+      {
+         "description" : "A few days ago the FIDE announced that the World Rapid and Blitz Championships due to Corona restrictions could not take place in Nur Sultan, Kazakhstan, as was originally planned. Now FIDE announced that they found a new venue: the World Rapid and Blitz Championships will take place in Warsaw on the planned dates (December 25 - December 31, 2021). | Photo: Qbolewicz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-rapid-and-blitz-championships-will-take-place-in-warsaw",
+         "pubDate" : "Fri, 10 Dec 2021 15:27:33 +0100",
+         "title" : "The World Rapid and Blitz Championships will take place in Warsaw"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1473",
+         "pubDate" : "Fri, 10 Dec 2021 13:25:22 +0000",
+         "title" : "World Rapid & Blitz Championship 2021 to be held in Warsaw, Poland"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After it transpired that the <strong>Rapid and Blitz World Championships</strong> <a href=\"https://www.fide.com/news/1470\">cannot be held at christmas in Nur-Sultan</a> because Kazakhstan introduced mandatory quarantine for travelers from many countries, it took <strong>FIDE</strong> less than three days to <a href=\"https://worldrapidandblitz.fide.com/\">relocate the event</a> at the exact same date 25-31 December in Warsow. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/rapid-and-blitz-world-championship/",
+         "pubDate" : "Fri, 10 Dec 2021 13:48:40 +0100",
+         "title" : "Warsow hosts Rapid and Blitz world championship"
+      },
+      {
          "description" : " Tonight could very well see the final game of the 2021 World Championship Match. A win for Carlsen would see him reach 7.5 points, the score he needs to retain his title. Even a draw would see Carlsen reach 7, so the worse that could happen was a round of tie-breaks. Going into this game I can't see Nepo pulling back a full point. He might draw the game, postponing the inevitable, or over press, resulting in a win for Carlsen (in a similar ending to the 2013 World Championship Match). If I was a betting man, I would give Carlsen a 33% change of winning, and a 66% chance of it being a draw. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -170,14 +210,6 @@ news_feed (
          "title" : "Fedoseev wins Sheikh Hamdan bin Rashid Rapid Cup"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Rapid and Blitz World Championships <a href=\"https://www.fide.com/news/1470\">won't be held at christmas in Nur-Sultan</a> after Kazakhstan introduced mandatory quarantine for travelers from many countries. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/rapid-and-blitz-world-championship/",
-         "pubDate" : "Thu, 09 Dec 2021 11:43:15 +0100",
-         "title" : "Rapid and Blitz world championship at risk"
-      },
-      {
          "description" : "The FIDE Rapid and Blitz World Championships cannot take place in Nur Sultan (Kazakhstan) in December as originally planned. Due to the tightened Corona security measures imposed by the Kazakh government, FIDE has cancelled the tournament in Kazakhstan and is currently looking at alternative venues.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -226,12 +258,12 @@ news_feed (
          "title" : "Play the Sicilian: More Scheveningen | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
-         "description" : "Our coverage of game 11 of the 2021 FIDE World Chess Championship is underway! GMs Magnus Carlsen and Ian Nepomniachtchi played a quiet draw in the 10th game and the match score is currently at 6.5-3.5. Nepomniachtchi plays with the white pieces...",
+         "description" : "GM Magnus Carlsen won the 2021 FIDE World Chess Championship on Friday after beating GM Ian Nepomniachtchi with the black pieces. The challenger made another big blunder and eventually lost his fourth game, setting the final score to 7.5-3.5 in fa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-11",
          "pubDate" : "Wed, 08 Dec 2021 16:00:00 -0800",
-         "title" : "LIVE: FIDE World Chess Championship Game 11 Carlsen - Nepo"
+         "title" : "BREAKING: Carlsen Wins World Chess Championship After New Blunder By Nepo"
       },
       {
          "description" : " The 2021 ACT Rapidplay Championship is being held on the 18th December 2021 at 11am at King O'Malley's, City Walk, Canberra. Details are: <ul style=\"text-align: left;\"><li>Venue - King O'Malley's, City Walk, Canberra ACT (inside City Walk Arcade if it is raining)</li><li>Date - 18 December 2021 11:00am (Entries from 10:30am to 10:55 am)</li><li>Entry Fee - $10 adults, $5 juniors (under 18)</li><li>Prizes - $150 1st + other prizes ($420 in prizes were awarded in 2020)</li><li>Rounds - 7</li><li>Time control - G/15m</li><li>ACF and FIDE Rated (TBC) </li><li>ACTCA/ACTJCL Membership reqd - 2022 membership can be paid here <a href=\"https://www.trybooking.com/BWGHO\">https://www.trybooking.com/BWG",
@@ -1202,14 +1234,6 @@ news_feed (
          "title" : "What I Learned From GM Iossif Dorfman"
       },
       {
-         "description" : " <p class=\"lead\">FIDE Grand Prix Series, the final qualifier for the Candidates Tournament, will start on February 3, 2022, in Berlin, Germany. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1600\" data-ratio=\"1.7777777777778\"> <img src=\"https://worldchess.com/news/pictures/Time-to-say-Berlin-2.png\" width=\"1600\" height=\"900\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/Grand-Prix.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> <b>The series consists of three legs that span over 3 months and two cities:</b> First leg: February 3 - 17, Berlin, Germany<br /> Second leg: February 28 - March 14, 2022, Belgrad",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-begins-in-berlin-on-february-3-2022/",
-         "pubDate" : "Thu, 02 Dec 2021 11:16:34 +0000",
-         "title" : "FIDE Grand Prix Begins in Berlin on February 3, 2022"
-      },
-      {
          "description" : "The second day of our magical endgame calendar. Yesterday, you had to solve the famous endgame move by Shirov vs. Topalov. And of course, most of you knew the correct answer, and also mentioned the game. More of this, please! But we also had quite some participants answer with A. Be4, which won't do the trick. But no worries, you have 23 more tries. Today, we look at a famous check-mate in 18 moves. Luckily, you only need to know the first move to start this combo.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1850,14 +1874,6 @@ news_feed (
          "title" : "World Championship Game 1: Tension in the air"
       },
       {
-         "description" : "What do Tal, Euwe, Botvinnik, Petrosian and Alekhine have in common? They all appear on today's episode! Lawrence Trent shows us a couple of World Chess Championship games, of the earlier mentioned Grandmasters. We also advance to a 2250 rating, of the ChessBase training app, but fail to solve a 2497 points high rating. Can you guess it correctly?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-6",
-         "pubDate" : "Fri, 26 Nov 2021 17:00:00 +0100",
-         "title" : "Trent's Tactics - World Championships Special (I)"
-      },
-      {
          "description" : " The FIDE World Chess Championship got under way in Dubai on Friday 26th November. The match between World Champion Magnus Carlsen and his challenger Ian Nepomniachtchi will be over 14 classical games followed by a day of rapid and blitz tie-breaks if required. The first game of the match was a reasonably tense affair with both players surely glad to get started. The pandemic has drastically reduced the amount of face to face chess in the last 18 months and that will surely affect both players but there has also been a revolution in chess preparation using AI and computers. This is generating masses of new ideas - in the recent past it's been hard to remember everything - we may now have gon",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2264,14 +2280,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/clinical-arjun-erigaisi-clinches-kolkata-rapid-chess-title/articleshow/87805078.cms",
          "pubDate" : "Fri, 19 Nov 2021 21:36:45 +0530",
          "title" : "Clinical Arjun Erigaisi clinches Kolkata rapid chess title"
-      },
-      {
-         "description" : " The time has come to put everything we have looked at over the last two or three months together. While it seems like a lot to cover in a single article, I'm gong to present a simple method for employing the most important of these concepts into your middle-game transition into the endgame. I spent <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-two/\">A Foundation for Beginners Forty Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\"",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-two/",
-         "pubDate" : "Fri, 19 Nov 2021 13:57:23 +0000",
-         "title" : "A Foundation for Beginners Forty Two"
       }
    ]
 }
