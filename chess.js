@@ -10,6 +10,38 @@ news_feed (
          "title" : "The Comfort Zone: Keys to Your Chess Success"
       },
       {
+         "description" : "Chess.com is excited to announce that the 2022 Puzzle Battle World Championship starts on January 6 at 9 a.m. PST/18:00 CET. In this electrifying event, 16 of the world&#39;s fastest tactical experts will battle for their share of the $25,000 prize fu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-announces-2022-puzzle-battle-world-championship",
+         "pubDate" : "Fri, 10 Dec 2021 12:28:39 -0800",
+         "title" : "Chess.com Announces The 2022 Puzzle Battle World Championship"
+      },
+      {
+         "description" : "Magnus Carlsen picked up a fourth win at the World Championship match in Dubai to secure overall victory with three games to spare. Playing black, the world champion saw Ian Nepomniachtchi all but self-destructing for a third time in the match. This was Carlsen's fourth consecutive successful defence of the title after becoming world champion in 2013. | Photo: Eric Rosen / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-g11",
+         "pubDate" : "Fri, 10 Dec 2021 20:25:00 +0100",
+         "title" : "Magnus Carlsen retains title after winning lopsided match"
+      },
+      {
+         "description" : " Superb live online coverage of this World Chess Championship expertly followed the most dominant win in a century Magnus Carlsen <a href=\"https://www.theguardian.com/sport/live/2021/dec/10/magnus-carlsen-v-ian-nepomniachtchi-world-chess-championship-game-11-live\" title=\"\">wrapped up his world championship defence</a> yesteron Friday afternoon in Dubai when his Russian rival Ian Nepomniachtchi, already demoralised by a succession of defeats, blundered badly in a level position in the 11th game of their best of 14 games series, and resigned after 49 moves and three and a half hours play. Asked what he thought helped him dominate the match, Carlsen replied: \"In simple positions I made very few",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/dec/10/chess-carlsen-on-cusp-of-victory-as-nepomniachtchi-wilts-after-marathon",
+         "pubDate" : "Fri, 10 Dec 2021 19:24:17 +0000",
+         "title" : "Magnus Carlsen's world title victory also proves big win for online fans | Leonard Barden"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1474",
+         "pubDate" : "Fri, 10 Dec 2021 18:28:18 +0000",
+         "title" : "Magnus Carlsen wins his fifth consecutive world title match"
+      },
+      {
          "description" : "In light of recent events GM Daniel King looks back over World Championship mistakes and blunders. The selection is plentiful, and it wasn't just the old guys making errors. The first example comes from the Steinitz-Chigorin match of 1892, the last is from Carlsen-Nepomniachtchi, and there is much in between. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -95,7 +127,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2021-live",
          "pubDate" : "Fri, 10 Dec 2021 13:00:00 +0100",
-         "title" : "Carlsen is (still) the champ!"
+         "title" : "Carlsen is (still) the champ! - Games and commentary"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Zc_rUD0bfOs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
@@ -144,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/nodirbek-abdusattorov-wins-el-llobregat-open-in-barcelona",
          "pubDate" : "Fri, 10 Dec 2021 09:56:35 +0100",
          "title" : "Nodirbek Abdusattorov wins El Llobregat Open in Barcelona"
-      },
-      {
-         "description" : " The world champion leads 6.5-3.5 in the best-of-14 series and should wrap up a win over his Russian rival this weekend Magnus Carlsen is on the verge of victory at Dubai this weekend after Ian Nepomniachtchi visibly wilted following their marathon 136-move sixth game, the longest in world championship history. The Russian went on to blunder away a key pawn in game eight, then allowed his bishop to be trapped in the Norwegian camp in game nine. A soporific draw in game 10 left Carlsen 6.5-3.5 ahead in the best-of-14, needing just one win or two draws in this weekend's three games to retain his crown and take the lion's share of the €2m prize fund. <a href=\"https://www.theguardian.com/sport",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/dec/10/chess-carlsen-on-cusp-of-victory-as-nepomniachtchi-wilts-after-marathon",
-         "pubDate" : "Fri, 10 Dec 2021 08:00:34 +0000",
-         "title" : "Chess: Carlsen on verge of victory as Nepomniachtchi wilts after marathon"
       },
       {
          "description" : "The field of participants of the Tata Steel Chess Tournament 2022 is complete. Anish Giri (7th on the world ranking) and Jorden van Foreest, winner of the Tata Steel Chess Tournament 2021, will represent The Netherlands in the Tata Steel Masters. Both grandmaster groups consist of a mix of well-established players and promising young players. The 84th edition of the Tata Steel Chess Tournament will take place in Wijk aan Zee from 14 - 30 January 2022. | Photo: Jorden van Foreest (winner) and Anish Giri playing the tie-break during the Tata Steel Chess Tournament 2021 | Photo: Tata Steel Tournament",
@@ -290,12 +314,12 @@ news_feed (
          "title" : "Play the Sicilian: More Scheveningen | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
-         "description" : "GM Magnus Carlsen won the 2021 FIDE World Chess Championship on Friday after beating GM Ian Nepomniachtchi with the black pieces. The challenger made another big blunder and eventually lost his fourth game, setting the final score to 7.5-3.5 in fa...",
+         "description" : "GM Magnus Carlsen won the 2021 FIDE World Chess Championship on Friday after beating GM Ian Nepomniachtchi with the black pieces. The challenger made another big blunder and lost his fourth game in the match. The final score is 7.5-3.5 in favor of...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-11",
          "pubDate" : "Wed, 08 Dec 2021 16:00:00 -0800",
-         "title" : "BREAKING: Carlsen Wins World Chess Championship After New Blunder By Nepo"
+         "title" : "BREAKING: Carlsen Wins World Chess Championship After Blunder By Nepo"
       },
       {
          "description" : " The 2021 ACT Rapidplay Championship is being held on the 18th December 2021 at 11am at King O'Malley's, City Walk, Canberra. Details are: <ul style=\"text-align: left;\"><li>Venue - King O'Malley's, City Walk, Canberra ACT (inside City Walk Arcade if it is raining)</li><li>Date - 18 December 2021 11:00am (Entries from 10:30am to 10:55 am)</li><li>Entry Fee - $10 adults, $5 juniors (under 18)</li><li>Prizes - $150 1st + other prizes ($420 in prizes were awarded in 2020)</li><li>Rounds - 7</li><li>Time control - G/15m</li><li>ACF and FIDE Rated (TBC) </li><li>ACTCA/ACTJCL Membership reqd - 2022 membership can be paid here <a href=\"https://www.trybooking.com/BWGHO\">https://www.trybooking.com/BWG",
@@ -1906,14 +1930,6 @@ news_feed (
          "title" : "FIDE World Chess Championship Game 1: Nepo Impresses Under Pressure"
       },
       {
-         "description" : "In this week's show, GM Daniel King presents puzzle positions from games of Nepomniachtchi and Carlsen but for the main dish of the day he shows another spectacular attack from Alexei Shirov. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-shirov-on-fire-2",
-         "pubDate" : "Fri, 26 Nov 2021 19:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Spectacular Shirov - again"
-      },
-      {
          "description" : " The FIDE World Chess Championship got under way in Dubai on Friday 26th November. The match between World Champion Magnus Carlsen and his challenger Ian Nepomniachtchi will be over 14 classical games followed by a day of rapid and blitz tie-breaks if required. The first game of the match was a reasonably tense affair with both players surely glad to get started. The pandemic has drastically reduced the amount of face to face chess in the last 18 months and that will surely affect both players but there has also been a revolution in chess preparation using AI and computers. This is generating masses of new ideas - in the recent past it's been hard to remember everything - we may now have gon",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2048,14 +2064,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-fide-world-championship-press-conference-opening-ceremony",
          "pubDate" : "Wed, 24 Nov 2021 08:46:00 -0800",
          "title" : "FIDE World Chess Championship Officially Opened After Press Conference Clash Of Frenemies"
-      },
-      {
-         "description" : "With every passing second, the ultimate chess battle approaches, and chess fans worldwide can&#39;t wait to see what will happen in the 2021 FIDE World Championship. Now, even before the first moves are played, freestyle rap extraordinaire Harry Mack ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/worlds-greatest-freestyle-rapper-covers-the-world-chess-championship",
-         "pubDate" : "Wed, 24 Nov 2021 08:05:00 -0800",
-         "title" : "World's Greatest Freestyle Rapper Covers The World Chess Championship"
       },
       {
          "description" : " One of my pet peeves as an arbiter is when players offer a draw by putting out their hand. This happens a lot in junior events and is often done by players in a losing position to try and save half a point (when the opponent isn't sure what happens and shakes the hand thinking it is a resignation). Such incidents almost always end in tears, which is another peeve of mine (there is no crying in chess). The most recent occurrence of this problem happened the other night at my local club. The game between an older and very experimented player and a young junior player ended in a draw, at least according to the junior player. But the result on the computer showed a win for the opponent, so in m",
@@ -2304,22 +2312,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/humankind.html",
          "pubDate" : "Fri, 19 Nov 2021 21:32:00 +0000",
          "title" : "Humankind"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1439",
-         "pubDate" : "Fri, 19 Nov 2021 20:28:51 +0000",
-         "title" : "FIDE World Championship Dubai 2021: branding and design"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1440",
-         "pubDate" : "Fri, 19 Nov 2021 19:21:04 +0000",
-         "title" : "Mark Plotkin wins Banff Open 2021"
       }
    ]
 }
