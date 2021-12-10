@@ -58,12 +58,12 @@ news_feed (
          "title" : "Do or die for Nepo"
       },
       {
-         "description" : "The most anticipated chess event of the year is taking place from November 26 until December 16 in Dubai - the World Championship match. With four games to go, defending champion Magnus Carlsen has a 3-point lead over challenger Ian Nepomniachtchi. | Follow the games live with expert commentary, starting at 16:30 local time (12:30 UTC, 7:30 ET). | Photo: Eric Rosen",
+         "description" : "Magnus Carlsen picked up a fourth win at the World Championship match to secure overall victory with three games to spare. Playing black, the world champion saw Ian Nepomniachtchi all but self-destructing for a third time in the match. This was Carlsen's fourth consecutive successful defence of the title after becoming world champion in 2013. | Replay all the games with computer analysis. Full report to follow shortly | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2021-live",
          "pubDate" : "Fri, 10 Dec 2021 13:00:00 +0100",
-         "title" : "Carlsen vs. Nepomniachtchi - Game 11 Live!"
+         "title" : "Carlsen is (still) the champ!"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Zc_rUD0bfOs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
@@ -888,6 +888,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-championship-game-7-nepo-didnt-bounce-back/",
          "pubDate" : "Sat, 04 Dec 2021 15:12:58 +0000",
          "title" : "World Chess Championship Game 7: Nepo didn't bounce back"
+      },
+      {
+         "description" : "\"The mind is inured to caution, foresight and circumspection&hellip;\" Dr Samuel Johnson, from his introduction to William Payne's 1756 Treatise on the Game of Draughts. My inspiration for this week's title is taken from Harold Macmillan's famous \"Wind of Change\" speech, delivered at Accra, Ghana on January 10, 1960. It may seem perverse to focus on []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/draught-of-change/",
+         "pubDate" : "Sat, 04 Dec 2021 12:39:42 +0000",
+         "title" : "Draught of Change"
       },
       {
          "description" : " Late last night (my time), I predicted that Game 6 of the World Championship would end in a draw. I'm glad to say that I got that prediction wrong! In the longest World Championship game ever, Carlsen keep grinding away until he finally found a win in a tricky Q v stuff ending (where Carlsen had the stuff). I'm not going to post the game as there are plenty of other places to see it, but now that one player has taken the lead, the next few games should see both players pushing for a little more out of the opening. ",
@@ -1778,6 +1786,14 @@ news_feed (
          "title" : "Sagar and Amruta in Dubai: Day 2 impressions"
       },
       {
+         "description" : "\"That with the Mightiest raised me to contend, And to the fierce contention brought along‚Å Innumerable force of Spirits armed, That durst dislike his reign, and, me preferring, His utmost power with adverse power opposed, In dubious battel on the plains of Heaven, And shook his throne.&#8221; -John Milton, Paradise Lost Dubai is the venue []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/dubious-battel/",
+         "pubDate" : "Sat, 27 Nov 2021 12:00:39 +0000",
+         "title" : "Dubious Battel"
+      },
+      {
          "description" : "The 2021 World Championship match kicked off on Friday, with a fighting draw. English star Michael Adams annotates the first game of the confrontation between Magnus Carlsen and Ian Nepomniachtchi. Adams concludes: \"An interesting opening encounter, it will be intriguing to see if Magnus repeats his opening choice in game 3\". | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2240,6 +2256,14 @@ news_feed (
          "link" : "https://aicf.in/tata-steel-chess-india-arjun-erigaisi-in-the-leading-position-at-the-end-of-1st-day-of-blitz/",
          "pubDate" : "Sat, 20 Nov 2021 14:47:50 +0000",
          "title" : "Tata Steel Chess India : Arjun Erigaisi in the leading position at the end of 1st day of Blitz"
+      },
+      {
+         "description" : "&#8220;They all laughed at Christopher Columbus, when he said the world was round. They all laughed when Edison recorded sound.&#8221; -George and Ira Gershwin \"When a true genius appears in the world, you may know him by this sign, that the dunces are all in confederacy against him.\" -Jonathan Swift, Thoughts on Various Subjects, Moral and Diverting []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-physicists/",
+         "pubDate" : "Sat, 20 Nov 2021 10:45:26 +0000",
+         "title" : "The Physicists "
       },
       {
          "description" : "After seven played rounds at the European Team Chess Championship 2021 in Terme Catez, Slovenia, the Russian Women's team holds the sole lead, while Azerbaijan and Ukraine tie for the top of the Open section. With a convincing 3-1 victory over Azerbaijan, Russian Women improved their lead scoring the absolute 14 match points. Valentina Gunina was the first&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-r7-report/\">Read More &#187;</a></span>",
