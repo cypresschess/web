@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Carlsen dominated Ian Nepomniachtchi 7.5 - 4.5 to defend his FIDE World Chess Championship crown in Dubai.",
+         "description" : "The razor-sharp diagram position saw Black losing after 26...Kxh6?, while after 26...Kg7! things easily might have gone the other way round. Stunners galore - enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/make-your-bet",
+         "pubDate" : "Sat, 11 Dec 2021 09:00:00 +0100",
+         "title" : "Make your bet!"
+      },
+      {
+         "description" : "Carlsen dominated Ian Nepomniachtchi 7.5 - 3.5 to defend his FIDE World Chess Championship crown in Dubai.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/32840390/magnus-carlsen-world-champion-best-chess-player?device=featurephone",
-         "pubDate" : "Fri, 10 Dec 2021 23:08:05 -0500",
+         "pubDate" : "Sat, 11 Dec 2021 00:02:04 -0500",
          "title" : "Anatomy of a GOAT: What makes Magnus Carlsen the world's best chess player"
       },
       {
@@ -1938,14 +1946,6 @@ news_feed (
          "title" : "FIDE World Championship Dubai 2021: The battle begins"
       },
       {
-         "description" : "The dynamic duo of Sagar Shah and Amruta Mokal (pictured) have made their way to Dubai to follow closely the highly anticipated World Championship match between Magnus Carlsen and Ian Nepomniachtchi. As usual, they are producing a ton of video material for their YouTube Channel. Not to be missed! | Photo: Anastasiya Karlovich",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sagar-amruta-dubai-2021-day-1",
-         "pubDate" : "Fri, 26 Nov 2021 19:40:00 +0100",
-         "title" : "Sagar and Amruta in Dubai: Day 1 impressions"
-      },
-      {
          "description" : "World Champion Magnus Carlsen and challenger GM Ian Nepomniachtchi started their FIDE World Championship match on Friday in Dubai with a draw. Nepomniachtchi had a slight opening advantage but got under some pressure soon after, and then impressed...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2312,14 +2312,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-physicists/",
          "pubDate" : "Sat, 20 Nov 2021 10:45:26 +0000",
          "title" : "The Physicists "
-      },
-      {
-         "description" : "After seven played rounds at the European Team Chess Championship 2021 in Terme Catez, Slovenia, the Russian Women's team holds the sole lead, while Azerbaijan and Ukraine tie for the top of the Open section. With a convincing 3-1 victory over Azerbaijan, Russian Women improved their lead scoring the absolute 14 match points. Valentina Gunina was the first&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-team-chess-championship-2021-r7-report/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-team-chess-championship-2021-r7-report/",
-         "pubDate" : "Sat, 20 Nov 2021 06:49:58 +0000",
-         "title" : "European Team Chess Championship 2021 - R7 Report"
       }
    ]
 }
