@@ -1,4 +1,6 @@
 jtable([
+"CYPRESS","2021-12-10","16","<a href=http://www.uschess.org/msa/XtblMain.php?202112105332 target=' blank'>KNIGHTS OF CYPRESS</a>",
+"HOUSTON","2021-12-10","6","<a href=http://www.uschess.org/msa/XtblMain.php?202112105212 target=' blank'>F7 SCHOLASTIC TOURNEY & WARMUP</a>",
 "HOUSTON","2021-12-04  - 12-05","12","<a href=http://www.uschess.org/msa/XtblMain.php?202112053692 target=' blank'>DECEMBER HOUSTON CHESS STUDIO OPEN</a>",
 "CYPRESS","2021-12-03","15","<a href=http://www.uschess.org/msa/XtblMain.php?202112032912 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2021-12-03","12","<a href=http://www.uschess.org/msa/XtblMain.php?202112032882 target=' blank'>THE FRIDAY KNIGHTS</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2020-12-29","4","<a href=http://www.uschess.org/msa/XtblMain.php?202012291502 target=' blank'>END OF YEAR CBS QUAD</a>",
 "KATY","2020-12-19","19","<a href=http://www.uschess.org/msa/XtblMain.php?202012193532 target=' blank'>SR CHESSKNIGHTS 12192020</a>",
 "SPRING","2020-12-18","30","<a href=http://www.uschess.org/msa/XtblMain.php?202012188452 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"KATY","2020-12-12","14","<a href=http://www.uschess.org/msa/XtblMain.php?202012123522 target=' blank'>SR CHESSKNIGHTS 12122020</a>",
-"SPRING","2020-12-11","38","<a href=http://www.uschess.org/msa/XtblMain.php?202012116912 target=' blank'>THE FRIDAY KNIGHTS</a>",
 ]);
