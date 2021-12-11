@@ -2,20 +2,68 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The razor-sharp diagram position saw Black losing after 26...Kxh6?, while after 26...Kg7! things easily might have gone the other way round. Stunners galore - enjoy!",
+         "description" : "Vladimir Kramnik thought he was already completely lost in yesterday's task a few moves earlier anyway. The readers knew almost without exception that Sb1 with sacrifice was enough to win. In today's exercise it's all about 30 green squares!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/make-your-bet",
-         "pubDate" : "Sat, 11 Dec 2021 09:00:00 +0100",
-         "title" : "Make your bet!"
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-11231",
+         "pubDate" : "Sat, 11 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 11"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88224358.cms\" />Mumbai's chess prodigy Advay Dhoot performed creditably in tournaments in the European circuit recently and is currently among the highest rated player in his category in the country.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/mumbai-youngster-advay-dhoot-making-right-moves-in-chess-circuit/articleshow/88224358.cms",
+         "pubDate" : "Sat, 11 Dec 2021 16:00:51 +0530",
+         "title" : "Mumbai youngster Advay making right moves in chess circuit"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The most one-sided world championship match in recent history was won by <strong>Magnus Carlsen</strong> in Dubai by a margin of 7,5:3,5 after challenger <strong>Ian Nepomniachtchi</strong> blundered repeatedly. Carlsen nets the biggest purse of his career €1,2 million. <a href=\"https://escharts.com/tournaments/chess/fide-world-championship-2021\">Online viewership records for chess competitions were broken</a>. <strong>FIDE</strong> plans to hold the next world championship match in spring 2023. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/carlsens-retains-world-champion/",
+         "pubDate" : "Sat, 11 Dec 2021 11:29:07 +0100",
+         "title" : "Carlsens retains world champion title"
+      },
+      {
+         "description" : "Late in November one of the giants of British chess (as Nigel Short described him) sadly passed away, taking with him a record which is likely never to be broken. In his best years Dr. Jonathan Penrose OBE (pictured above) won the British Chess Championship for a record ten times, while on the international stage []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/how-i-almost-killed-jonathan-penrose/",
+         "pubDate" : "Sat, 11 Dec 2021 10:03:34 +0000",
+         "title" : "How I almost killed Jonathan Penrose"
       },
       {
          "description" : "Carlsen dominated Ian Nepomniachtchi 7.5 - 3.5 to defend his FIDE World Chess Championship crown in Dubai.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/32840390/magnus-carlsen-world-champion-best-chess-player?device=featurephone",
-         "pubDate" : "Sat, 11 Dec 2021 00:02:04 -0500",
+         "pubDate" : "Sat, 11 Dec 2021 04:58:10 -0500",
          "title" : "Anatomy of a GOAT: What makes Magnus Carlsen the world's best chess player"
+      },
+      {
+         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 11 Match Score: 7&frac12;-3&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 11 Friday, 10 December 2021 Magnus Carlsen retains title closes match on winning note! Just in Dubai, UAE for #CarlsenNepo at 0230. Regardless of the next four games, I&#39;m glad to be present [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/11/2021-world-chess-championship-game-11/\">2021 World Chess Championship: Game #11</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/12/11/2021-world-chess-championship-game-11/",
+         "pubDate" : "Sat, 11 Dec 2021 09:16:44 +0000",
+         "title" : "2021 World Chess Championship: Game #11"
+      },
+      {
+         "description" : "The 2021 FIDE World Chess Championship Match between the challenger Ian Nepomniachtchi and defender Magnus Carlsen, concluded yesterday in Dubai. The match ended with final result 7.5 3.5 in favor of Magnus Carlsen, who won the FIDE World Chess Championship for the 5th consecutive time. After 5 draws in first 5 games of the match, Carlsen took&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/magnus-carlsen-defends-the-title-of-fide-world-chess-champion/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/magnus-carlsen-defends-the-title-of-fide-world-chess-champion/",
+         "pubDate" : "Sat, 11 Dec 2021 08:44:22 +0000",
+         "title" : "Magnus Carlsen defends the title of FIDE World Chess Champion"
+      },
+      {
+         "description" : "The razor-sharp diagram position saw Black losing after 26...Kxh6?, while after 26...Kg7! things easily might have gone the other way round. Stunners galore - enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/make-your-bet",
+         "pubDate" : "Sat, 11 Dec 2021 09:00:00 +0100",
+         "title" : "Make your bet!"
       },
       {
          "description" : "All India Chess Federation wishes a very happy birthday to five-time World Champion Legend Viswanathan Anand!",
@@ -314,7 +362,7 @@ news_feed (
          "title" : "FIDE World Rapid & Blitz Championships will not be held in Kazakhstan in December"
       },
       {
-         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 10 Match Score: 6&frac12;-3&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 10 Wednesday, 8 December 2021 A quiet draw today after three wins in four games. In the last phase of the match, we hope to see attempts by Ian Nepomniachtchi to get on [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/09/2021-world-chess-championship-game-10/\">2021 World Chess Championship: Game #10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 10 Match Score: 6&frac12;-3&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 10 Wednesday, 8 December 2021 A quiet draw today after three wins in four games. In the last phase of the match, we hope to see attempts by Ian Nepomniachtchi to get on the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/09/2021-world-chess-championship-game-10/\">2021 World Chess Championship: Game #10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/09/2021-world-chess-championship-game-10/",
@@ -632,14 +680,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/norwegian-campaign-against/",
          "pubDate" : "Tue, 07 Dec 2021 11:25:15 +0100",
          "title" : "Norwegian campaign against sportswashing"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Competitive chess is returning to its roots with the world championship match at the Expo 2020. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/51725959837-0ebde06046-k.1920.jpeg\" title=\"Magnus Carlsen gives his usual exclusive interview to Norwegian TV NRK after his second, possibly decisive win in game 8. photo: Eric Rosen / FIDE\" data-title=\"Magnus Carlsen gives his usual exclusive interview to Norwegian TV NRK after his second, possibly decisive win in game 8. (photo: Eric Rosen / FIDE)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/51725959837-0ebde06046-k.4",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/coming-full-circle/",
-         "pubDate" : "Tue, 07 Dec 2021 11:22:05 +0100",
-         "title" : "Coming full circle"
       },
       {
          "description" : "This year, the Dutch National Championship was played in two stages. In the knockout preliminaries four players had qualified for the finals: Max Warmerdam, Robin Swinkels, Roeland Pruijssers, and Hing Ting Lai. Max Warmerdam convincingly won the finals, a double round-robin which was played last week. | Photos: Harry Gielen",
@@ -1802,14 +1842,6 @@ news_feed (
          "title" : "Chess for Everyone - National Arbiter Seminar"
       },
       {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 2 Match Score: 1-1 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 2 Saturday, 27 November 2021 Game almost a Knightmare but another draw! The 2021 World Chess Championship match has gotten off to an exciting start with neither player &#8220;feeling out&#8221; the other. Yesterday saw [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/28/2021-world-chess-championship-game-2/\">2021 World Chess Championship: Game #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>.",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/11/28/2021-world-chess-championship-game-2/",
-         "pubDate" : "Sun, 28 Nov 2021 05:38:52 +0000",
-         "title" : "2021 World Chess Championship: Game #2"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87958002.cms\" />Though defending champion Magnus Carlsen enjoyed a powerful diagonal and pivotal square for his knight, no player blinked on key moments. As a result, a draw was reached in 58 moves of the Catalan Opening in their second game of the World Chess Championship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1904,14 +1936,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-small-nations-team-chess-championship-2021-starts-in-sliema-malta/",
          "pubDate" : "Sat, 27 Nov 2021 09:35:25 +0000",
          "title" : "European Small Nations Team Chess Championship 2021 starts in Sliema, Malta"
-      },
-      {
-         "description" : "In the diagram position, 26.Rxb7! paves the way for ... Well, that's for you to find out. Checkmate on the horizon - enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/light-square-invasion",
-         "pubDate" : "Sat, 27 Nov 2021 09:00:00 +0100",
-         "title" : "Light square invasion"
       },
       {
          "description" : "Schedule &#38; Regulation National Arbiter (NA) Seminar The National Arbiter seminar is a training session for Arbiters of National level (NA) . NA Seminar Duration",
@@ -2304,14 +2328,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-leads-in-kolkata-blitz-event-too/articleshow/87822112.cms",
          "pubDate" : "Sat, 20 Nov 2021 21:43:45 +0530",
          "title" : "Arjun Erigaisi leads in Kolkata blitz event too"
-      },
-      {
-         "description" : "&#8220;They all laughed at Christopher Columbus, when he said the world was round. They all laughed when Edison recorded sound.&#8221; -George and Ira Gershwin \"When a true genius appears in the world, you may know him by this sign, that the dunces are all in confederacy against him.\" -Jonathan Swift, Thoughts on Various Subjects, Moral and Diverting []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-physicists/",
-         "pubDate" : "Sat, 20 Nov 2021 10:45:26 +0000",
-         "title" : "The Physicists "
       }
    ]
 }
