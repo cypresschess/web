@@ -2,14 +2,6 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " &#160; &#8220;Born 04/05/1976 Currently living in Alnwick, Northumberland, England. Daniel has been a chess professional for over twenty years, in which time he has played in many tournaments both in the U.K. and abroad. He has represented England in the European team championships and the Olympiad. Daniel has taken high placing in the British chess <a href=\"http://britishchessnews.com/2021/12/12/the-comfort-zone-keys-to-your-chess-success/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Comfort Zone: Keys to Your Chess Success</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/12/the-comfort-zone-ke",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/12/12/the-comfort-zone-keys-to-your-chess-success/",
-         "pubDate" : "Sun, 12 Dec 2021 00:10:03 +0000",
-         "title" : "The Comfort Zone: Keys to Your Chess Success"
-      },
-      {
          "description" : "Chess.com is excited to announce that the 2022 Puzzle Battle World Championship starts on January 6 at 9 a.m. PST/18:00 CET. In this electrifying event, 16 of the world&#39;s fastest tactical experts will battle for their share of the $25,000 prize fu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -56,6 +48,14 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/32837284/magnus-carlsen-wins-fide-world-chess-championship-ian-nepomniachtchi?device=featurephone",
          "pubDate" : "Fri, 10 Dec 2021 12:05:33 -0500",
          "title" : "Magnus Carlsen wins fifth FIDE World Chess Championship"
+      },
+      {
+         "description" : " Magnus Carlsen won his fifth World Chess Championship match by the crushing score of 7.5-3.5. His opponent Ian Nepomniachtchi suffered yet another unnecessary loss as his ability to execute even the most basic of calculations again eluded him. Nepomniachtchi had white in Game 11 and he switched to a Giuoco Pianissimo for the first time in the match. Nepomniachtchi didn't manage to put any real pressure on Carlsen. The opening is very flexible with many acceptable moves for both sides. Carlsen's 7...Ba7 was already pretty rare and the new move 10.Be3 didn't seem very critical. After 13.Bxe6 Carlsen - for whom a draw was obviously just fine - was completely equal. After 20.d4 there was a fina",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/carlsen-retains-his-title-after-a-another-puzzling-error-from-nepomniachtchi",
+         "pubDate" : "Fri, 10 Dec 2021 20:44:00 +0400",
+         "title" : "Carlsen retains his title after a another puzzling error from Nepomniachtchi - 11"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88212840.cms\" />Norway's Magnus Carlsen claimed his fifth world chess crown in Dubai on Friday with a crushing 7.5-3.5 victory against Ian Nepomniachtchi, who faded badly after going toe-to-toe with the Norwegian defending champion in the early games.",
@@ -194,6 +194,14 @@ news_feed (
          "title" : "Speed Chess Championship: So Knocks Out Caruana, Advances to SF"
       },
       {
+         "description" : " 1001 Chess Exercises for Advanced Club Players : Frank Erwich \"Tactics is knowing what to do when there is something to do; strategy is knowing what to do when there is nothing to do.\" - Savielly Tartakower From the publishers blurb: &#8220;In this follow-up to his acclaimed 1001 Chess Exercise for Club Players, FIDE Master Frank <a href=\"http://britishchessnews.com/2021/12/10/1001-chess-exercises-for-advanced-club-players/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">1001 Chess Exercises for Advanced Club Players</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/10/1001-chess-exercises-for-advanced-",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/12/10/1001-chess-exercises-for-advanced-club-players/",
+         "pubDate" : "Fri, 10 Dec 2021 00:10:53 +0000",
+         "title" : "1001 Chess Exercises for Advanced Club Players"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -319,7 +327,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-11",
          "pubDate" : "Wed, 08 Dec 2021 16:00:00 -0800",
-         "title" : "BREAKING: Carlsen Wins World Chess Championship After Blunder By Nepo"
+         "title" : "Magnus Carlsen Wins 2021 World Chess Championship"
       },
       {
          "description" : " The 2021 ACT Rapidplay Championship is being held on the 18th December 2021 at 11am at King O'Malley's, City Walk, Canberra. Details are: <ul style=\"text-align: left;\"><li>Venue - King O'Malley's, City Walk, Canberra ACT (inside City Walk Arcade if it is raining)</li><li>Date - 18 December 2021 11:00am (Entries from 10:30am to 10:55 am)</li><li>Entry Fee - $10 adults, $5 juniors (under 18)</li><li>Prizes - $150 1st + other prizes ($420 in prizes were awarded in 2020)</li><li>Rounds - 7</li><li>Time control - G/15m</li><li>ACF and FIDE Rated (TBC) </li><li>ACTCA/ACTJCL Membership reqd - 2022 membership can be paid here <a href=\"https://www.trybooking.com/BWGHO\">https://www.trybooking.com/BWG",
@@ -2002,11 +2010,11 @@ news_feed (
          "title" : "The Exchange French Comes to Life: Fresh Strategies to Play for a Win"
       },
       {
-         "description" : " The FIDE World Chess Championship takes place in Dubai, UAE, 24th November (opening ceremony - game 1 on 26th Nov) until 16th December. The match is between World Champion Magnus Carlsen and his Challenger Ian Nepomniachtchi. The match will be over 14 games rather than the recent 12 and uses an accelerated schedule to accommodate this - a final day of rapid and blitz tie-breaks will take place on 15th December in the event of a 7-7 tie. Nepomniachtchi will not compete under the Russian flag due to WADA sporting sanctions against Russia because of their state sponsored doping program. Both players were born in 1990 - Nepomniachtchi is the slightly older - born 14th July - Carlsen will have h",
+         "description" : " The FIDE World Chess Championship took place in Dubai, UAE, 24th November (opening ceremony - game 1 on 26th Nov) until 10th December. The match was between World Champion Magnus Carlsen and his Challenger Ian Nepomniachtchi. The match was over 14 games rather than the recent 12 and used an accelerated schedule to accommodate this. As it was Carlsen only needed 11 of the 14 games to win the match 7.5-3.5. The match was very closely contested until the marathon game 6 after which Nepomniachtchi lost a further three games. Game 1 12:30 GMT Friday 26th Ian Nepomniachtchi vs Magnus Carlsen.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021",
-         "pubDate" : "Thu, 25 Nov 2021 19:45:00 +0400",
+         "pubDate" : "Thu, 25 Nov 2021 20:41:00 +0400",
          "title" : "World Chess Championship 2021 - Games and Results"
       },
       {
@@ -2304,14 +2312,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-team-chess-championship-2021-r7-report/",
          "pubDate" : "Sat, 20 Nov 2021 06:49:58 +0000",
          "title" : "European Team Chess Championship 2021 - R7 Report"
-      },
-      {
-         "description" : " After quite a long wait from the first announcements until now, I finally purchased a copy of 'Humankind', which is Civilization type game that lets you develop societies from hunter gatherers to rocket scientists. I had a first play last night (which is why this post is late!) and found it enjoyable (even on my creaky old PC). Didn't do fantastically well on my first run, but I assume that is because I missed a lot of nuances in play (too many cities too quickly get penalised, for example). But like CIV VI (and Chess), the early days are usually quite difficult before the right ides and strategies become apparent. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/humankind.html",
-         "pubDate" : "Fri, 19 Nov 2021 21:32:00 +0000",
-         "title" : "Humankind"
       }
    ]
 }
