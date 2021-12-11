@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Yesterday, Magnus Carlsen retained his World Chess Championship title in a Match against Ian Nepomniachtchi. Nepo lost the match in a spectacular fashion, by blundering away three games and losing by 4 points with 3.5 to 7.5. Now Russian chess experts are (partially) blaming Daniil Dubov for the loss. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/F378E37C-1118-41AA-A134-35F84E525A67.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Daniil Dubnov preparing for Armageddon. Photo: World Chess</div> </div> Daniil Dubov, a 26-year-old chess prodigy from Russia, has been part of Carlsen's all-star team for the match and apparent",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/russians-partially-blame-dubov-for-nepos-massive-loss/",
+         "pubDate" : "Sat, 11 Dec 2021 15:48:42 +0000",
+         "title" : "Russians Partially Blame Dubov For Nepo's Massive Loss"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4b9426a7-84e7-4a41-8e4d-e1f6542d901f/Vasyl.jpg\" data-image-dimensions=\"1146x542\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61b4ab1a63cd636d03a26db3\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4b9426a7-84e7-4a41-8e4d-e1f6542d901f/Vasyl.jpg?format=1000w\" /> </figure> <p class=\"\">You can Follow Ivanchuk's Twitch Channel<a href=\"https://www.twitch.tv/ivanchukchess\"> here </a> <p class=\"\">GM Vasyl Ivanchuk is a modern chess legend who has won countless tourn",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/11/world-championship-bonus-pod-5-gm-vasyl-ivanchuk",
+         "pubDate" : "Sat, 11 Dec 2021 13:47:41 +0000",
+         "title" : "World Championship Bonus Pod #5- GM Vasyl Ivanchuk "
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1475",
+         "pubDate" : "Sat, 11 Dec 2021 13:42:00 +0000",
+         "title" : "Zdenko Ko≈æul wins Croatian Championship"
+      },
+      {
+         "description" : "\"The second half of the match wasn't the fight we all wanted to see, with most of the games being blundered away (b5,c5,g3 and others). Still, the World Champion barely made a mistake in 11 games, and never gave a chance once in control. Hopefully Nepo can recover from what must be an absolute nightmare of a match\", writes GM Rustam Kasimdzhanov in his analysis of the match's eleventh and final game. | Photo: Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-g11-expert-annotations",
+         "pubDate" : "Sat, 11 Dec 2021 14:35:00 +0100",
+         "title" : "World Championship: Game 11 annotated by Rustam Kasimdzhanov"
+      },
+      {
+         "description" : " After all the agonising about whether the 2021 World Championship match was going to see any decisive games, Carlsen wrapped it up with 4 wins over the last 6 games. Game 11 was Nepo's last chance to turn it around (or at least get something from the experience) but another tactical oversight left Carlsen with a winning position. He duly converted to reach the 7.5 points needed to retain his title. The second half collapse wasn't so much due to Nepo losing game 6, but his failure to bounce back in games 7 or 8. If he had been able to hold game 8 (instead of losing it) he might have still had a chance. Instead the blunder in game 8 (dropping a cold pawn) was somewhat reminiscent of Spassky's",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/and-now-its-all-over.html",
+         "pubDate" : "Sat, 11 Dec 2021 13:04:00 +0000",
+         "title" : "And now its all over"
+      },
+      {
          "description" : "Vladimir Kramnik thought he was already completely lost in yesterday's task a few moves earlier anyway. The readers knew almost without exception that Sb1 with sacrifice was enough to win. In today's exercise it's all about 30 green squares!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -285,6 +325,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1469",
+         "pubDate" : "Thu, 09 Dec 2021 20:30:12 +0000",
+         "title" : "GYMCHESS Æ Chess based application to delay Alzheimer's and keep brain in shape announced"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1472",
          "pubDate" : "Thu, 09 Dec 2021 20:09:27 +0000",
          "title" : "Sheikh Hamdan bin Rashid Cup: Fedoseev and Salem take titles"
@@ -496,14 +544,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/carlsen-edges-closer-to-retaining-his-title-with-a-quiet-draw-in-game-10",
          "pubDate" : "Wed, 8 Dec 2021 16:18:00 +0400",
          "title" : "Carlsen edges closer to retaining his title with a quiet draw in game 10 - 10"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1469",
-         "pubDate" : "Wed, 08 Dec 2021 12:13:12 +0000",
-         "title" : "GYMCHESS Æ Chess based application to delay Alzheimer's and keep brain in shape announced"
       },
       {
          "description" : "Oh dear! The last door really was a tough cookie. Rarely have we received so many different answers, so we decided to draw two more winners for the day. In the video, we see the details of the solution Kc2, which lay dormant for more than 100 years. Today we have only four pieces on the board, and yet the solution is not crystal clear.",
@@ -1274,14 +1314,6 @@ news_feed (
          "title" : "Velammal Nexus wins World School Tournament in Dubai"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/3jr_-LbNJBQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-6-of-the-match/",
-         "pubDate" : "Fri, 03 Dec 2021 09:02:51 +0000",
-         "title" : "Time To Say Dubai: Round 6 of the Match"
-      },
-      {
          "description" : " Champion grinds down challenger Nepomniachtchi in trademark style as the Norwegian's rook, knight and two pawns defeat the Russian's queen Magnus Carlsen, the world champion, finally broke the tough resistance of his Russian challenger Ian Nepomniachtchi on Friday night as the marathon sixth round of their 14-game title match in Dubai ended with victory for the Norwegian after 136 moves. The endgame battle, where Carlsen's rook, knight and pawn gradually outmanoeuvered his opponent's lone queen, was the longest game in world championship history, surpassing the 124-move draw between Anatoly Karpov and Viktor Korchnoi at the \"Battle of Baguio\" in the Philippines in 1978. Carlsen's victory to",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1922,14 +1954,6 @@ news_feed (
          "title" : "World Championship: Game 1 annotated by Michael Adams"
       },
       {
-         "description" : "Richard Kenneth Guy was a British mathematician, with a passion for chess. Siegfried Hornecker's \"Study of the Month\" is all about this great \"Guy\", his life, and his studies. The professor of mathematics, who composed almost 200 endgame studies for the \"British Chess Magazine\", died last year at the age of 103. | Photo: Wikipedia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-strong-law-of-small-numbers",
-         "pubDate" : "Sat, 27 Nov 2021 11:31:29 +0100",
-         "title" : "Study of the Month: Strong law of small numbers"
-      },
-      {
          "description" : "The 7th European Small Nations Team Chess Championship 2021 opens today in Sliema, Malta, taking place from 27th November 5th December in the AX Victoria Hotel. The event is supported by European Chess Union and will be opened by the ECU President Mr. Zurab Azmaiparashvili. Nine federations (Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-small-nations-team-chess-championship-2021-starts-in-sliema-malta/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2320,14 +2344,6 @@ news_feed (
          "link" : "https://www.europechess.org/russia-wins-european-womens-team-chess-championship-2021-with-a-round-to-spare/",
          "pubDate" : "Sat, 20 Nov 2021 21:51:24 +0000",
          "title" : "Russia wins European Women's Team Chess Championship 2021 with a round to spare"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87822112.cms\" />It was a little surprising that Arjun Erigaisi did not feature in the initial list of players for the blitz section of the Kolkata rapid and blitz meet after his super show at the Lindores Abbey Blitz tournament in the Latvian capital of Riga earlier this month.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-leads-in-kolkata-blitz-event-too/articleshow/87822112.cms",
-         "pubDate" : "Sat, 20 Nov 2021 21:43:45 +0530",
-         "title" : "Arjun Erigaisi leads in Kolkata blitz event too"
       }
    ]
 }
