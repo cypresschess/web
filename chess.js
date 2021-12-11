@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Carlsen dominated Ian Nepomniachtchi 7.5 - 4.5 to defend his FIDE World Chess Championship crown in Dubai.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32840390/magnus-carlsen-world-champion-best-chess-player?device=featurephone",
+         "pubDate" : "Fri, 10 Dec 2021 23:08:05 -0500",
+         "title" : "Anatomy of a GOAT: What makes Magnus Carlsen the world's best chess player"
+      },
+      {
+         "description" : "All India Chess Federation wishes a very happy birthday to five-time World Champion Legend Viswanathan Anand!",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/happy-birthday-viswanathan-anand/",
+         "pubDate" : "Sat, 11 Dec 2021 02:33:59 +0000",
+         "title" : "Happy Birthday Viswanathan Anand!!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Bryan Smith plays a G/5 +8 against a stream viewer. Originally on Twitch. 2021.11.18<br /> Bryan Smith vs. Nick_Tirella, 2021: A14 English, Neo-Catalan declined<br /> <a href=\"https://lichess.org/xx1d3BGT\">https://lichess.org/xx1d3BGT</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-bryan-smith-crushes-passive-triangle-defense\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbn",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-bryan-smith-crushes-passive-triangle-defense",
+         "pubDate" : "Sat, 11 Dec 2021 01:18:26 +0000",
+         "title" : "GM Bryan Smith Crushes Passive Triangle Defense!"
+      },
+      {
          "description" : "Chess.com is excited to announce that the 2022 Puzzle Battle World Championship starts on January 6 at 9 a.m. PST/18:00 CET. In this electrifying event, 16 of the world&#39;s fastest tactical experts will battle for their share of the $25,000 prize fu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1802,14 +1826,6 @@ news_feed (
          "title" : "2021 Vikings - Days 1&2"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko continues his series on the Scotch Game or Scotch Opening. Learn the G&ouml;ring Gambit. It&#039;s 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3. Originally on Twitch. 2021.10.25<br /> C44 Scotch, Goering gambit </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shot-scotch-4-g%C3%B6ring-gambit-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/20bcUsEPPTI.jpg?it",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shot-scotch-4-g%C3%B6ring-gambit-chess-openings-explained",
-         "pubDate" : "Sat, 27 Nov 2021 22:00:46 +0000",
-         "title" : "A Shot of Scotch #4: G&ouml;ring Gambit | Chess Openings Explained"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2288,14 +2304,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-leads-in-kolkata-blitz-event-too/articleshow/87822112.cms",
          "pubDate" : "Sat, 20 Nov 2021 21:43:45 +0530",
          "title" : "Arjun Erigaisi leads in Kolkata blitz event too"
-      },
-      {
-         "description" : "Round 1 The blitz segment of the Tata Steel Chess India 2021 promised to be an exciting event with India No. 2 in Women's, Harika",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/tata-steel-chess-india-arjun-erigaisi-in-the-leading-position-at-the-end-of-1st-day-of-blitz/",
-         "pubDate" : "Sat, 20 Nov 2021 14:47:50 +0000",
-         "title" : "Tata Steel Chess India : Arjun Erigaisi in the leading position at the end of 1st day of Blitz"
       },
       {
          "description" : "&#8220;They all laughed at Christopher Columbus, when he said the world was round. They all laughed when Edison recorded sound.&#8221; -George and Ira Gershwin \"When a true genius appears in the world, you may know him by this sign, that the dunces are all in confederacy against him.\" -Jonathan Swift, Thoughts on Various Subjects, Moral and Diverting []",
