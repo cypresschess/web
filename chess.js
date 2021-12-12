@@ -74,7 +74,7 @@ news_feed (
          "title" : "Mumbai youngster Advay making right moves in chess circuit"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The most one-sided world championship match in recent history was won by <strong>Magnus Carlsen</strong> in Dubai by a margin of 7,5:3,5 after challenger <strong>Ian Nepomniachtchi</strong> blundered repeatedly. Carlsen nets the biggest purse of his career €1,2 million. <a href=\"https://escharts.com/tournaments/chess/fide-world-championship-2021\">Online viewership records for chess competitions were broken</a>. <strong>FIDE</strong> plans to hold the next world championship match in spring 2023. </div> ",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The most one-sided world championship match in recent history was won by <strong>Magnus Carlsen</strong> in Dubai by a margin of 7,5:3,5 after challenger <strong>Ian Nepomniachtchi</strong> blundered repeatedly. Carlsen nets the biggest purse of his career €1,2 million. <a href=\"https://escharts.com/tournaments/chess/fide-world-championship-2021\">Online viewership records for chess competitions were broken</a>. <strong>FIDE</strong> plans to hold the next world championship match in spring 2023. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">24 Nov - 16 Dec 2021</span>: <a href=\"https://www.chesstech.org/even",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2021/carlsens-retains-world-champion/",
