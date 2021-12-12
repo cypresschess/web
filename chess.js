@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Carlsen dominated Ian Nepomniachtchi 7.5 - 3.5 to defend his FIDE World Chess Championship crown in Dubai.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32840390/magnus-carlsen-world-champion-best-chess-player?device=featurephone",
+         "pubDate" : "Sat, 11 Dec 2021 23:07:32 -0500",
+         "title" : "Anatomy of a GOAT: What makes Magnus Carlsen the world's best chess player"
+      },
+      {
          "description" : " The 12th London Chess Classic takes place 3rd to 12th December 2021. The event is on a smaller scale due to the continuing coronavirus crisis and in a different venue, the Cavendish Centre. The main event is an England vs the Rest of the World Scheveningen match between England's Michael Adams, Luke McShane and Gawain Jones and a Rest of the World Team of Boris Gelfand, Nikita Vitiugov and Maxime Lagarde over 6 rounds. Also there are other event including the Pro-Biz and English Rapidplay Championship.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://www.thearticle.com/how-i-almost-killed-jonathan-penrose/",
          "pubDate" : "Sat, 11 Dec 2021 10:03:34 +0000",
          "title" : "How I almost killed Jonathan Penrose"
-      },
-      {
-         "description" : "Carlsen dominated Ian Nepomniachtchi 7.5 - 3.5 to defend his FIDE World Chess Championship crown in Dubai.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32840390/magnus-carlsen-world-champion-best-chess-player?device=featurephone",
-         "pubDate" : "Sat, 11 Dec 2021 04:58:10 -0500",
-         "title" : "Anatomy of a GOAT: What makes Magnus Carlsen the world's best chess player"
       },
       {
          "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 11 Match Score: 7&frac12;-3&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 11 Friday, 10 December 2021 Magnus Carlsen retains title closes match on winning note! Just in Dubai, UAE for #CarlsenNepo at 0230. Regardless of the next four games, I&#39;m glad to be present [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/11/2021-world-chess-championship-game-11/\">2021 World Chess Championship: Game #11</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>",
