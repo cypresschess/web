@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Asian Chess Federation turn 31 today!! AICF congratulate Asian Chess Federation and all the Asian Countries!! We are one Family!!",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-chess-federation-turns-31/",
+         "pubDate" : "Sun, 12 Dec 2021 15:13:49 +0000",
+         "title" : "Asian Chess Federation turns 31!!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1476",
+         "pubDate" : "Sun, 12 Dec 2021 14:57:42 +0000",
+         "title" : "Italian Championship 2021: Basso and Sedina clinch titles"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 57th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about \"The Elephant\", an animal that particularly likes the jungle of Nimzo-Indian variations. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-2",
+         "pubDate" : "Sun, 12 Dec 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 57: The Elephant!"
+      },
+      {
          "description" : "This year, the main event of the London Chess Classic was the match between England and the Rest of the World, with each team consisting of three players. Before the final round, the squads were tied at 7&frac12; points each. In a very hard-fought final round, the Rest of the World won the match. Boris Gelfand and Nikita Vitiugov provided the winning points.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1898,14 +1922,6 @@ news_feed (
          "title" : "2021 Vikings Weekender - Tie for 1st"
       },
       {
-         "description" : "A remarkable battle between the protagonists of the 2021 World Championship match ended in a draw on Saturday. It was the second tense draw in a row, with both contenders showing deep theoretical preparation. Game 2 was a Catalan, and by no means was it a boring positional struggle. Grandmaster Luke McShanes analyses. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-g2-expert-annotations",
-         "pubDate" : "Sun, 28 Nov 2021 11:10:00 +0100",
-         "title" : "World Championship: Game 2 annotated by Luke McShane"
-      },
-      {
          "description" : "The list of personnel registered for the subject program and not paid the fee yet are appended below. LIST OF PARTICIPANTS You are requested to",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2320,22 +2336,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/23rd-european-team-chess-championship-2021",
          "pubDate" : "Sun, 21 Nov 2021 20:50:00 +0400",
          "title" : "23rd European Team Chess Championship 2021 - "
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87835583.cms\" />In a tournament where the Indian youngsters were running riot, Levon Aronian showed class always prevails as he clinched the blitz section of the Kolkata rapid and blitz meet at the National Library on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/levon-aronian-pips-arjun-erigaisi-for-blitz-title/articleshow/87835583.cms",
-         "pubDate" : "Sun, 21 Nov 2021 21:54:32 +0530",
-         "title" : "Levon Aronian pips Arjun Erigaisi for blitz title"
-      },
-      {
-         "description" : "Tata Steel Chess India Levon Aronian Wins Tata Steel Chess India Blitz Category Arjun Erigaisi wins Tata Steel Chess India Rapid Category Blitz Day 2",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/levon-aronian-wins-tata-steel-chess-india-blitz-category/",
-         "pubDate" : "Sun, 21 Nov 2021 15:35:26 +0000",
-         "title" : "Levon Aronian Wins Tata Steel Chess India Blitz Category"
       }
    ]
 }
