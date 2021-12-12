@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This year, the main event of the London Chess Classic was the match between England and the Rest of the World, with each team consisting of three players. Before the final round, the squads were tied at 7&frac12; points each. In a very hard-fought final round, the Rest of the World won the match. Boris Gelfand and Nikita Vitiugov provided the winning points.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2021-rest-of-the-world-beats-england",
+         "pubDate" : "Sun, 12 Dec 2021 13:25:00 +0100",
+         "title" : "London Chess Classic: Rest of the World beats England"
+      },
+      {
          "description" : " I was saddened to hear of the recent death, at the age of 88, of Jonathan Penrose, one of England's finest ever players, ten times British Champion and, later, one of the world's strongest correspondence players. Jonathan was a member of an extraordinary family which excelled in both arts and scientists. His Irish grandfather, James <a href=\"https://chessimprover.com/jonathan-penrose-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Jonathan Penrose (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/jonathan-penrose-1/\">Jonathan Penrose (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1944,14 +1952,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-championship-g2-carlsen-scrambles",
          "pubDate" : "Sat, 27 Nov 2021 12:10:00 -0800",
          "title" : "FIDE World Chess Championship Game 2: Adventurous Carlsen Scrambles For Draw"
-      },
-      {
-         "description" : "A second consecutive tense draw was seen on Saturday at the World Championship match in Dubai. Once again, Magnus Carlsen deviated from mainstream theory early in the game, pushing his opponent to solve difficult problems over the board from the get go. Ian Nepomniachtchi showed great nerves to keep things under control, and even got some winning chances in a complex middlegame. The tension continues to rise in Dubai! | Photo: Eric Rosen / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-g2",
-         "pubDate" : "Sat, 27 Nov 2021 19:00:00 +0100",
-         "title" : "World Championship Game 2: Sharp Catalan ends drawn"
       },
       {
          "description" : " The FIDE World Chess Championship Match between Magnus Carlsen and Ian Nepomniachtchi is tied at 1-1 after the first two games were drawn. In spite of these draws the early games promise a very interesting match which will be settled over the board not by the huge amount of opening preparation both sides have clearly done. Carlsen had white in game two and a Catalan appeared on the board. It seemed at first that Carlsen had won the opening battle. Nepomniachtchi's 7... b5 was met by 8. Ne5 - a move that's been played at a high level this year but none the less he didn't seem ready for. Carlsen continued to play quickly for the next few moves and after 16...Na6 had some advantage in a wild p",
