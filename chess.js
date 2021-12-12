@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 12th London Chess Classic takes place 3rd to 12th December 2021. The event is on a smaller scale due to the continuing coronavirus crisis and in a different venue, the Cavendish Centre. The main event is an England vs the Rest of the World Scheveningen match between England's Michael Adams, Luke McShane and Gawain Jones and a Rest of the World Team of Boris Gelfand, Nikita Vitiugov and Maxime Lagarde over 6 rounds. Also there are other event including the Pro-Biz and English Rapidplay Championship.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/12th-london-chess-classic-2021",
+         "pubDate" : "Sat, 11 Dec 2021 22:36:00 +0400",
+         "title" : "12th London Chess Classic 2021 - Games and Results"
+      },
+      {
          "description" : " <p class=\"lead\">Yesterday, Magnus Carlsen retained his World Chess Championship title in a Match against Ian Nepomniachtchi. Nepo lost the match in a spectacular fashion, by blundering away three games and losing by 4 points with 3.5 to 7.5. Now Russian chess experts are (partially) blaming Daniil Dubov for the loss. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/F378E37C-1118-41AA-A134-35F84E525A67.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Daniil Dubnov preparing for Armageddon. Photo: World Chess</div> </div> Daniil Dubov, a 26-year-old chess prodigy from Russia, has been part of Carlsen's all-star team for the match and apparent",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2242,14 +2250,6 @@ news_feed (
          "title" : "Viswanathan Anand's son makes chess debut in Kolkata"
       },
       {
-         "description" : " The 12th London Chess Classic takes place 3rd to 12th December 2021. The event is on a smaller scale due to the continuing coronavirus crisis and in a different venue, the Cavendish Centre. The main event is an England vs the Rest of the World Scheveningen match between England's Michael Adams, Luke McShane and Gawain Jones and a Rest of the World Team of Boris Gelfand, Nikita Vitiugov and Maxime Lagarde over 6 rounds. Also there are other event including the Pro-Biz and English Rapidplay Championship.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/12th-london-chess-classic-2021",
-         "pubDate" : "Mon, 22 Nov 2021 12:26:00 +0400",
-         "title" : "12th London Chess Classic 2021 - Games and Results"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2336,14 +2336,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/2021-act-interschool-finals.html",
          "pubDate" : "Sun, 21 Nov 2021 11:59:00 +0000",
          "title" : "2021 ACT Interschool Finals"
-      },
-      {
-         "description" : "Russian Women's Team convincingly won the 2021 European Team Chess Championship sparing the last round of the event. With a Round 8 victory against Ukraine, Russia scored impeccable 16 match points to be ahead of Georgia whose players secured a silver medal. After Kateryna Lagno defeated Osmak Iulia, two draws happened on the board 1 and 3 &hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/russia-wins-european-womens-team-chess-championship-2021-with-a-round-to-spare/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/russia-wins-european-womens-team-chess-championship-2021-with-a-round-to-spare/",
-         "pubDate" : "Sat, 20 Nov 2021 21:51:24 +0000",
-         "title" : "Russia wins European Women's Team Chess Championship 2021 with a round to spare"
       }
    ]
 }
