@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I was saddened to hear of the recent death, at the age of 88, of Jonathan Penrose, one of England's finest ever players, ten times British Champion and, later, one of the world's strongest correspondence players. Jonathan was a member of an extraordinary family which excelled in both arts and scientists. His Irish grandfather, James <a href=\"https://chessimprover.com/jonathan-penrose-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Jonathan Penrose (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/jonathan-penrose-1/\">Jonathan Penrose (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/jonathan-penrose-1/",
+         "pubDate" : "Sun, 12 Dec 2021 11:43:37 +0000",
+         "title" : "Jonathan Penrose (1)"
+      },
+      {
+         "description" : "Today the first authorized NFT series of world chess champions has been minted! World chess champions, NFT and blockchain? What is that supposed to mean? You may have heard that NFTs can establish ownership of digital art: In March 2021, an NFT by digital artist Beeple fetched the auction value of $69 million at Christie's. However the NFTs of the world chess champions are not about crazy auctions, but about honoring outstanding chess achievement. In a series that currently consists of 14 entries, the classic world champions are now immortalized with selected games. The unique thing about this series is that many players participate through their authorization. This makes it the first of its",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-champions-in-the-blockchain",
+         "pubDate" : "Sun, 12 Dec 2021 12:40:48 +0100",
+         "title" : "The Champions in the Blockchain"
+      },
+      {
+         "description" : "You only had to find the correct move Bd3 yesterday, but a huge amount of participants also knew about \"Rauser's drawing zone\". I congratulate you, for your endgame knowledge. Today, your task is to find a rather beautiful way to win, and as always, only one move is the right one!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-125",
+         "pubDate" : "Sun, 12 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 12"
+      },
+      {
+         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 1 &frac12; 1 1 &frac12; 1 7&frac12; Caruana &frac12; &frac12; &frac12; &frac12; &frac12; 0 &frac12; 0 0 &frac12; 0 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/12/magnus-carlsen-retains-title-winning-7-5-3-5/\">Magnus Carlsen retains title, winning 7.5-3.5!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/12/12/magnus-carlsen-retains-title-winning-7-5-3-5/",
+         "pubDate" : "Sun, 12 Dec 2021 08:42:11 +0000",
+         "title" : "Magnus Carlsen retains title, winning 7.5-3.5!"
+      },
+      {
          "description" : "Carlsen dominated Ian Nepomniachtchi 7.5 - 3.5 to defend his FIDE World Chess Championship crown in Dubai.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -90,7 +122,7 @@ news_feed (
          "title" : "How I almost killed Jonathan Penrose"
       },
       {
-         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 11 Match Score: 7&frac12;-3&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 11 Friday, 10 December 2021 Magnus Carlsen retains title closes match on winning note! Just in Dubai, UAE for #CarlsenNepo at 0230. Regardless of the next four games, I&#39;m glad to be present [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/11/2021-world-chess-championship-game-11/\">2021 World Chess Championship: Game #11</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 11 Match Score: 7&frac12;-3&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 11 Friday, 10 December 2021 Magnus Carlsen retains title closes match on winning note! Just in Dubai, UAE for #CarlsenNepo at 0230. Regardless of the next four games, I&#39;m glad to be present at [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/11/2021-world-chess-championship-game-11/\">2021 World Chess Championship: Game #11</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/11/2021-world-chess-championship-game-11/",
@@ -1690,14 +1722,6 @@ news_feed (
          "title" : "Going round and coming back"
       },
       {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 3 Match Score: 1&frac12;-1&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 3 Sunday, 28 November 2021 &#8220;Perfect Game&#8221; but for both players.Draw streak continues! Magnus CarlsenPhoto Eric Rosen/FIDE The press conference of the World Chess Championships addressed a comment about the World Championships going five [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/11/29/2021-world-chess-championship-game-3/\">2021 World Chess Championship: Game #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/11/29/2021-world-chess-championship-game-3/",
-         "pubDate" : "Tue, 30 Nov 2021 04:12:24 +0000",
-         "title" : "2021 World Chess Championship: Game #3"
-      },
-      {
          "description" : "GM Fabiano Caruana beat GM Maxime Vachier-Lagrave with a score of 13.5-12.5 in the last match of the first round of the 2021 Speed Chess Championship Main Event. He will face&#38;nbsp;GM Wesley So in the quarterfinal match, which starts on Thursday, D...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1938,28 +1962,12 @@ news_feed (
          "title" : "World Chess Championship game 2 - a fighting draw - 2"
       },
       {
-         "description" : "Want to get a glimpse of how things look in Dubai at the World Championship match between Magnus Carlsen and Ian Nepomniachtchi? The dynamic duo of Sagar Shah and Amruta Mokal have made their way to the venue and are producing plenty of content on their YouTube channel. Take a look! | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sagar-amruta-dubai-2021-day-2",
-         "pubDate" : "Sat, 27 Nov 2021 15:00:00 +0100",
-         "title" : "Sagar and Amruta in Dubai: Day 2 impressions"
-      },
-      {
          "description" : "\"That with the Mightiest raised me to contend, And to the fierce contention brought along‚Å Innumerable force of Spirits armed, That durst dislike his reign, and, me preferring, His utmost power with adverse power opposed, In dubious battel on the plains of Heaven, And shook his throne.&#8221; -John Milton, Paradise Lost Dubai is the venue []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/dubious-battel/",
          "pubDate" : "Sat, 27 Nov 2021 12:00:39 +0000",
          "title" : "Dubious Battel"
-      },
-      {
-         "description" : "The 2021 World Championship match kicked off on Friday, with a fighting draw. English star Michael Adams annotates the first game of the confrontation between Magnus Carlsen and Ian Nepomniachtchi. Adams concludes: \"An interesting opening encounter, it will be intriguing to see if Magnus repeats his opening choice in game 3\". | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-g1-expert-annotations",
-         "pubDate" : "Sat, 27 Nov 2021 12:00:00 +0100",
-         "title" : "World Championship: Game 1 annotated by Michael Adams"
       },
       {
          "description" : "The 7th European Small Nations Team Chess Championship 2021 opens today in Sliema, Malta, taking place from 27th November 5th December in the AX Victoria Hotel. The event is supported by European Chess Union and will be opened by the ECU President Mr. Zurab Azmaiparashvili. Nine federations (Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-small-nations-team-chess-championship-2021-starts-in-sliema-malta/\">Read More &#187;</a></span>",
@@ -2328,14 +2336,6 @@ news_feed (
          "link" : "https://aicf.in/levon-aronian-wins-tata-steel-chess-india-blitz-category/",
          "pubDate" : "Sun, 21 Nov 2021 15:35:26 +0000",
          "title" : "Levon Aronian Wins Tata Steel Chess India Blitz Category"
-      },
-      {
-         "description" : " After a lot of interruption (and a lot of effort), the 2021 ACT Junior Chess League Interschool Finals were held this weekend. Due to ongoing Covid restrictions they were held online for the first time, and despite some small hiccups, the whole thing went well. Each final was restricted to a maximum of 6 teams of 4 or 5 players, although we ended up with less than that in each section. Where qualifiers had been held in person, the winning school (or schools) was invited, while for other Canberra zones we just had to choose based on rating. The tournaments were held on Lichess using a swiss format (although players did not play team mates), and supervision was via zoom. Most players played f",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/2021-act-interschool-finals.html",
-         "pubDate" : "Sun, 21 Nov 2021 11:59:00 +0000",
-         "title" : "2021 ACT Interschool Finals"
       }
    ]
 }
