@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1477",
+         "pubDate" : "Sun, 12 Dec 2021 20:16:13 +0000",
+         "title" : "FIDE World Championship 2021: Crowned again"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Corte, an old town in the heart of Corsica, has been <a href=\"http://www.echecs.asso.fr/Actu.aspx?Ref=13667\">chosen as venue</a> of the <strong>Mitropa Cup 2022</strong> on 27 April to 8 May. The ten participating federations have <a href=\"https://www.europechess.org/mitropa-chess-association-founded/\">recently founded</a> the <strong>Mitropa Chess Association</strong> to also collaborate on school chess and other projects. The Italian arbiter and lawyer <strong>Marco Biagioli</strong> is the President, the Austrian <strong>Walter Kastner</strong> is the General Secretary. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/corsica-to-host-mitropa-cup/",
+         "pubDate" : "Sun, 12 Dec 2021 19:21:30 +0100",
+         "title" : "Corsica to host Mitropa Cup"
+      },
+      {
          "description" : "Asian Chess Federation turn 31 today!! AICF congratulate Asian Chess Federation and all the Asian Countries!! We are one Family!!",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -202,6 +218,14 @@ news_feed (
          "title" : "Chess.com Announces The 2022 Puzzle Battle World Championship"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1473",
+         "pubDate" : "Fri, 10 Dec 2021 20:25:22 +0000",
+         "title" : "World Rapid & Blitz Championship 2021 to be held in Warsaw, Poland"
+      },
+      {
          "description" : "Magnus Carlsen picked up a fourth win at the World Championship match in Dubai to secure overall victory with three games to spare. Playing black, the world champion saw Ian Nepomniachtchi all but self-destructing for a third time in the match. This was Carlsen's fourth consecutive successful defence of the title after becoming world champion in 2013. | Photo: Eric Rosen / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -288,14 +312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-world-rapid-and-blitz-championships-will-take-place-in-warsaw",
          "pubDate" : "Fri, 10 Dec 2021 15:27:33 +0100",
          "title" : "The World Rapid and Blitz Championships will take place in Warsaw"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1473",
-         "pubDate" : "Fri, 10 Dec 2021 13:25:22 +0000",
-         "title" : "World Rapid & Blitz Championship 2021 to be held in Warsaw, Poland"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After it transpired that the <strong>Rapid and Blitz World Championships</strong> <a href=\"https://www.fide.com/news/1470\">cannot be held at christmas in Nur-Sultan</a> because Kazakhstan introduced mandatory quarantine for travelers from many countries, it took <strong>FIDE</strong> less than three days to <a href=\"https://worldrapidandblitz.fide.com/\">relocate the event</a> at the exact same date 25-31 December in Warsow. </div> ",
@@ -848,14 +864,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-forester-open-2021-chess-among-the-trees",
          "pubDate" : "Mon, 06 Dec 2021 21:00:00 +0100",
          "title" : "The Forester Open 2021 - Chess Among the Trees"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Dansk Skoleskak</strong> has secured DKK2 million annually from 2022 to 2025 from the Danish Government which is €1,08 million over four years. Lobbying for its subsidy the organisation presented an <a href=\"https://skoleskak.dk/fl2022/\">economic analysis of the benefits of chess instruction</a> by <strong>Damvad</strong>, an economic consultancy. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/one-million-for-danish-school-chess/",
-         "pubDate" : "Mon, 06 Dec 2021 19:07:12 +0100",
-         "title" : "One million for Danish school chess"
       },
       {
          "description" : "At the halfway mark in the 1969 World Championship between Petrosian and Spassky, the match score was level. Petrosian only needed to draw the match to retain his title, and with his super-solid Petroff it looked like he was going to wrap things up. But in game 17 and 19 Petrosian suddenly switched to Sicilian, losing calamitously. John Saunders retraces the course of the match that decided who would defend the title against Fischer three years later.",
@@ -2288,54 +2296,6 @@ news_feed (
          "link" : "https://www.europechess.org/ukraine-open-and-russia-women-win-european-team-chess-championships-2021/",
          "pubDate" : "Sun, 21 Nov 2021 22:02:34 +0000",
          "title" : "Ukraine (Open) and Russia (Women) win European Team Chess Championships 2021"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1444",
-         "pubDate" : "Sun, 21 Nov 2021 19:55:25 +0000",
-         "title" : "Madagascar Championship: Heritiana Andrianiaina and Faratiana Raharimanana clinch titles"
-      },
-      {
-         "description" : "Schedule &#38; Regulation National Arbiter (NA) Seminar The National Arbiter seminar is a training session for Arbiters of National level (NA) . NA Seminar Duration",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-arbiters-training/",
-         "pubDate" : "Sun, 21 Nov 2021 19:17:45 +0000",
-         "title" : "National Arbiters Training"
-      },
-      {
-         "description" : " Here's a recent online rapid game I played against a lower rated opponent. I decided to play a simple opening, make simple moves, create a pawn weakness and win the ending. Exactly how I often lose when playing higher rated opponents. I made one mistake in the game, though, which you might find instructive. It's <a href=\"https://chessimprover.com/simply-does-it/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Simply Does It\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/simply-does-it/\">Simply Does It</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/simply-does-it/",
-         "pubDate" : "Sun, 21 Nov 2021 18:30:48 +0000",
-         "title" : "Simply Does It"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1441",
-         "pubDate" : "Sun, 21 Nov 2021 17:51:29 +0000",
-         "title" : "FIDE World Championship Dubai 2021: 10 facts about opponents"
-      },
-      {
-         "description" : " The Tata Steel India Rapid & Blitz took place Wed 17th Nov to Sun 21st Nov 2021 in Kolkata, India. 6 players were to compete in both events: Aronian, Vidit, Shankland, Maghsoodloo, Liem and Adhiban but the latter was replaced by Erigaisi for the blitz. 7 players played just one of the two events, Karthikeyan, Vaishali and Praggnanandhaa in the rapid and Harika, Nihal Sarin, Gukesh and Sadhwani complete the blitz field. The event was shockingly dominated by Arjun Erigaisi who won the rapid and only lost out on winning the blitz after a draw tie-break and a loss in a final Armageddon game to Levon Aronian. Although Erigaisi did finish 3rd in the Lindores Abbey Tal Memorial blitz earlier this ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-2021",
-         "pubDate" : "Sun, 21 Nov 2021 20:58:00 +0400",
-         "title" : "Tata Steel India Rapid & Blitz 2021 - Games and Results"
-      },
-      {
-         "description" : " The 23rd European Team Chess Championship took place in Catez, Slovenia 12th to 21st November 2021. Open and women's competitions. Giri, Grischuk, Firouzja, MVL, Mamedyarov, Rajdabov, Duda, Adams, Dubov, Esipenko were among the leading players, Russia followed by Azerbaijan were the top seeds. The event was won by Ukraine on tie-break from France with Poland finishing second and top seeds Russia finishing 6th. The event will surely be remembered more for Alireza Firouzja's 8/9 score undefeated which has taken him over 2800 and to number 2 in the World. The women's event was dominated by Russia who won all their matches, Georgia were second and Azerbaijan third.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/23rd-european-team-chess-championship-2021",
-         "pubDate" : "Sun, 21 Nov 2021 20:50:00 +0400",
-         "title" : "23rd European Team Chess Championship 2021 - "
       }
    ]
 }
