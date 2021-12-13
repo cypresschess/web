@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2021-12-11  - 12-12","230","<a href=http://www.uschess.org/msa/XtblMain.php?202112126662 target=' blank'>TCR: HOUSTON WINTER CHAMPIONSHIP 2021</a>",
 "HOUSTON","2021-12-11","126","<a href=http://www.uschess.org/msa/XtblMain.php?202112116142 target=' blank'>CHESSTERS CANDY CANE SCHOLASTIC</a>",
 "CYPRESS","2021-12-10","16","<a href=http://www.uschess.org/msa/XtblMain.php?202112105332 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-12-10","6","<a href=http://www.uschess.org/msa/XtblMain.php?202112105212 target=' blank'>F7 SCHOLASTIC TOURNEY & WARMUP</a>",
@@ -198,5 +199,4 @@ jtable([
 "KATY","2021-01-02","11","<a href=http://www.uschess.org/msa/XtblMain.php?202101023542 target=' blank'>SR CHESSKNIGHTS 01022021</a>",
 "SPRING","2021-01-02","20","<a href=http://www.uschess.org/msa/XtblMain.php?202101022292 target=' blank'>DER SPRINGERS NEW YEARS TOURNAMENT</a>",
 "SPRING","2020-12-29","4","<a href=http://www.uschess.org/msa/XtblMain.php?202012291502 target=' blank'>END OF YEAR CBS QUAD</a>",
-"KATY","2020-12-19","19","<a href=http://www.uschess.org/msa/XtblMain.php?202012193532 target=' blank'>SR CHESSKNIGHTS 12192020</a>",
 ]);
