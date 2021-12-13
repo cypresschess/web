@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When Beth Harmon defeated a series of top male grandmasters, and then went on to wrest the title from Russian world champion Vasily Borgov, it was not real life. It happened in the Queen's Gambit, a Netflix series that did more for chess than anything else in 2020. In reality, today there is not a single active female player in the top 100. But FIDE wants to change that, as the Guardian reports.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-chess-it-is-not-biology",
+         "pubDate" : "Mon, 13 Dec 2021 17:00:00 +0100",
+         "title" : "Women's chess: 'It is not biology'"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1479",
+         "pubDate" : "Mon, 13 Dec 2021 15:06:57 +0000",
+         "title" : "27th Abu Dhabi International Chess Festival brings together 195 players from 49 countries"
+      },
+      {
          "description" : "Ten players took part in the English Rapidplay Championship 2021, which was part of the London Chess Classic 2021. After nine rounds Gawain Jones (pictured) and Luke McShane shared first with 7.0/9, but Gawain Jones won the play-off with a clear 2-0 to become English Rapid Champion 2021. | Photo: London Chess Classic",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,11 +34,11 @@ news_feed (
          "title" : "Third Chess in Education lecturer course to run from December 17-19"
       },
       {
-         "description" : "&#34;This time I can say I am fully satisfied with my performance and that&#39;s a great feeling,&#34; said GM Magus Carlsen after being crowned for the fifth time as world chess champion on Sunday. Meanwhile, one of his seconds, GM Daniil Dubov, was criticiz...",
+         "description" : "&#34;This time I can say I am fully satisfied with my performance, and that&#39;s a great feeling,&#34; said GM Magus Carlsen after being crowned for the fifth time as world chess champion on Sunday. Meanwhile, one of his seconds, GM Daniil Dubov, was critici...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-chess-championship-carlsen-trophy-dubov-criticized",
-         "pubDate" : "Mon, 13 Dec 2021 04:39:34 -0800",
+         "pubDate" : "Mon, 13 Dec 2021 04:39:00 -0800",
          "title" : "FIDE World Chess Championship: Carlsen Crowned, Dubov Criticized"
       },
       {
@@ -1880,14 +1896,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/hello-from-the-new-director-of-womens-chess/",
          "pubDate" : "Mon, 29 Nov 2021 09:27:49 +0000",
          "title" : "Hello from the new Director of Women's Chess"
-      },
-      {
-         "description" : "Game 3 of the World Championship match between Magnus Carlsen and Ian Nepomniachtchi was full of opening subtleties and refined maneuvering that, however, eventually led to the third draw of the match. David Navara took a closer look at the game and its hidden subtleties.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-game-3-annotated-by-david-navara",
-         "pubDate" : "Mon, 29 Nov 2021 09:34:22 +0100",
-         "title" : "World Championship: Game 3 annotated by David Navara"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a58ea11-a2ae-4f9b-b851-5422928a2f25/Corbblah2.jpg\" data-image-dimensions=\"281x374\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61a44420fc961c23639b0a70\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a58ea11-a2ae-4f9b-b851-5422928a2f25/Corbblah2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\"><a href=\"https://twitter.com/Corbblah\">Jonathan Corbblah defends his title </a> </figcaption> </figure> <figure class=\" sqs-block-image-fig",
