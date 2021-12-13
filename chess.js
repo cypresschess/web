@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ten players took part in the English Rapidplay Championship 2021, which was part of the London Chess Classic 2021. After nine rounds Gawain Jones (pictured) and Luke McShane shared first with 7.0/9, but Gawain Jones won the play-off with a clear 2-0 to become English Rapid Champion 2021. | Photo: London Chess Classic",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gawain-jones-wins-english-rapidplay-championship-2021",
+         "pubDate" : "Mon, 13 Dec 2021 15:09:37 +0100",
+         "title" : "Gawain Jones wins English Rapidplay Championship 2021"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1478",
+         "pubDate" : "Mon, 13 Dec 2021 13:25:30 +0000",
+         "title" : "Third Chess in Education lecturer course to run from December 17-19"
+      },
+      {
+         "description" : "&#34;This time I can say I am fully satisfied with my performance and that&#39;s a great feeling,&#34; said GM Magus Carlsen after being crowned for the fifth time as world chess champion on Sunday. Meanwhile, one of his seconds, GM Daniil Dubov, was criticiz...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-fide-world-chess-championship-carlsen-trophy-dubov-criticized",
+         "pubDate" : "Mon, 13 Dec 2021 04:39:34 -0800",
+         "title" : "FIDE World Chess Championship: Carlsen Crowned, Dubov Criticized"
+      },
+      {
          "description" : " One of the hot takes from the 2021 World Championship Match is that Carlsen's natural ability overcame engine prep from Nepo. Given the relatively low error rate from both players early in the match, I'm not convinced that this is true, although it is fair to say that Carlsen obviously did better when it wasn't just prep v prep. Looking back at a number of older (pre engine) games is that their are often errors in analysis. The main reason for this seems to be that a lot of strong moves are overlooked at the top of the tree, either because it isn't part of an existing plan, or the assumption that the opponent is restricted to one or two choices. However, there are a number of examples where",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -112,6 +136,14 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/32840390/magnus-carlsen-world-champion-best-chess-player?device=featurephone",
          "pubDate" : "Sat, 11 Dec 2021 23:07:32 -0500",
          "title" : "Anatomy of a GOAT: What makes Magnus Carlsen the world's best chess player"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1473",
+         "pubDate" : "Sat, 11 Dec 2021 20:25:22 +0000",
+         "title" : "World Rapid & Blitz Championship 2021 to be held in Warsaw, Poland"
       },
       {
          "description" : " The 12th London Chess Classic takes place 3rd to 12th December 2021. The event is on a smaller scale due to the continuing coronavirus crisis and in a different venue, the Cavendish Centre. The main event is an England vs the Rest of the World Scheveningen match between England's Michael Adams, Luke McShane and Gawain Jones and a Rest of the World Team of Boris Gelfand, Nikita Vitiugov and Maxime Lagarde over 6 rounds. Also there are other event including the Pro-Biz and English Rapidplay Championship.",
@@ -240,14 +272,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-announces-2022-puzzle-battle-world-championship",
          "pubDate" : "Fri, 10 Dec 2021 12:28:39 -0800",
          "title" : "Chess.com Announces The 2022 Puzzle Battle World Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1473",
-         "pubDate" : "Fri, 10 Dec 2021 20:25:22 +0000",
-         "title" : "World Rapid & Blitz Championship 2021 to be held in Warsaw, Poland"
       },
       {
          "description" : "Magnus Carlsen picked up a fourth win at the World Championship match in Dubai to secure overall victory with three games to spare. Playing black, the world champion saw Ian Nepomniachtchi all but self-destructing for a third time in the match. This was Carlsen's fourth consecutive successful defence of the title after becoming world champion in 2013. | Photo: Eric Rosen / FIDE",
@@ -1898,14 +1922,6 @@ news_feed (
          "title" : "King's Gambit: Inside Magnus Carlsen's quest to be a five-time World Champion"
       },
       {
-         "description" : "The battle of theoretical preparations continues at the World Championship match, with Magnus Carlsen and Ian Nepomniachtchi signing a third consecutive draw on Sunday before the first rest day in Dubai. Once again, the defending champion deviated from mainstream theory only to see his opponent well prepared and ready to discuss the ensuing sidelines. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-g3",
-         "pubDate" : "Sun, 28 Nov 2021 18:25:00 +0100",
-         "title" : "World Championship Game 3: A 'dumb' move, a draw"
-      },
-      {
          "description" : " The FIDE World Chess Championship reached it's first rest day on Monday all square at 1.5 points each after three games. Magnus Carlsen looked very comfortable in defending the Ruy Lopez Anti-Marshall. It's been assumed in commentary that he's prepared the Marshall but it hasn't been allowed yet so we don't know for certain. Carlsen admitted to playing some \"ugly\" moves but at no point did he seem under pressure. Ian Nepomniachtchi chose 8.a4 rather than the 8.h3 in game one but he didn't achieve very much. Nepomniachtchi thought he might be getting somewhere but his long think after Carlsen's 20...Be6 produced only the move 21.h3 which after 21...c6 22.Bc2 d5 led to complete equality. Carl",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2170,14 +2186,6 @@ news_feed (
          "title" : "FIDE World Championship Dubai 2021: The first skirmish"
       },
       {
-         "description" : "Starting from this upcoming Friday, GM Magnus Carlsen and GM Ian Nepomniachtchi will be enemies at the board&#38;mdash;but they remained friends at today&#39;s opening press conference. The players expressed mutual respect and made jokes, while eagerly aw...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-championship-press-conference-opening-ceremony",
-         "pubDate" : "Wed, 24 Nov 2021 08:46:00 -0800",
-         "title" : "FIDE World Chess Championship Officially Opened After Press Conference Clash Of Frenemies"
-      },
-      {
          "description" : " One of my pet peeves as an arbiter is when players offer a draw by putting out their hand. This happens a lot in junior events and is often done by players in a losing position to try and save half a point (when the opponent isn't sure what happens and shakes the hand thinking it is a resignation). Such incidents almost always end in tears, which is another peeve of mine (there is no crying in chess). The most recent occurrence of this problem happened the other night at my local club. The game between an older and very experimented player and a young junior player ended in a draw, at least according to the junior player. But the result on the computer showed a win for the opponent, so in m",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2264,14 +2272,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/level-1-arbiter-course-february-2022/",
          "pubDate" : "Mon, 22 Nov 2021 16:55:43 +0000",
          "title" : "Level 1 Arbiter Course February 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1443",
-         "pubDate" : "Mon, 22 Nov 2021 13:59:18 +0000",
-         "title" : "FIDE World Rapid and Blitz Championship 2021: Registration begins"
       }
    ]
 }
