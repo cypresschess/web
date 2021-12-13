@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Sunday, December 12, Magnus Carlsen of Norway lifted the trophy for the World Championship aloft for the fifth time in a row. The closing ceremony was broadcast live on a range of media and culminated with the champion, a gold medal around his neck, trophy raised, in a long, breezy shower of gold confetti. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2021-closing-ceremony",
+         "pubDate" : "Mon, 13 Dec 2021 20:15:00 +0100",
+         "title" : "The world champion is crowned, again!"
+      },
+      {
+         "description" : " The 12th London Chess Classic took place 3rd to 12th December 2021. The event was on a smaller scale due to the continuing coronavirus crisis and there was a different venue, the Cavendish Centre. The main event was an England vs the Rest of the World Scheveningen match between England's Michael Adams, Luke McShane and Gawain Jones and a Rest of the World Team of Boris Gelfand, Nikita Vitiugov and Maxime Lagarde over 6 rounds. The Rest of the World won the final round to win the match. Also there were other events including the Pro-Biz and English Rapidplay Championship which saw Gawain Jones win after beating Luke McShane in a tie-break - they had shared first in the all-play-all phase.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/12th-london-chess-classic-2021",
+         "pubDate" : "Mon, 13 Dec 2021 22:36:00 +0400",
+         "title" : "12th London Chess Classic 2021 - Games and Results"
+      },
+      {
+         "description" : "Robert Ris is Karsten M&uuml;ller's guest in the Endgame Magic Show #175. Robert and Karsten will look at games 6-10 of the World Championship match between Magnus Carlsen and Ian Nepomniachtchi, which Carlsen won convincingly 7.5-3.5. Karsten and Robert will focus on the endgames that occured in these games, but they will also take a brief look at the openings played in the match. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-175-with-robert-ris",
+         "pubDate" : "Mon, 13 Dec 2021 19:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic Show #175: With Robert Ris"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -26,7 +50,7 @@ news_feed (
          "title" : "Third Chess in Education lecturer course to run from December 17-19"
       },
       {
-         "description" : "&#34;This time I can say I am fully satisfied with my performance, and that&#39;s a great feeling,&#34; said GM Magus Carlsen after being crowned for the fifth time as world chess champion on Sunday. Meanwhile, one of his seconds, GM Daniil Dubov, was critici...",
+         "description" : "&#34;This time I can say I am fully satisfied with my performance, and that&#39;s a great feeling,&#34; said GM Magnus Carlsen after being crowned for the fifth time as world chess champion on Sunday. Meanwhile, one of his seconds, GM Daniil Dubov, was critic...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-fide-world-chess-championship-carlsen-trophy-dubov-criticized",
@@ -152,14 +176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1473",
          "pubDate" : "Sat, 11 Dec 2021 20:25:22 +0000",
          "title" : "World Rapid & Blitz Championship 2021 to be held in Warsaw, Poland"
-      },
-      {
-         "description" : " The 12th London Chess Classic takes place 3rd to 12th December 2021. The event is on a smaller scale due to the continuing coronavirus crisis and in a different venue, the Cavendish Centre. The main event is an England vs the Rest of the World Scheveningen match between England's Michael Adams, Luke McShane and Gawain Jones and a Rest of the World Team of Boris Gelfand, Nikita Vitiugov and Maxime Lagarde over 6 rounds. Also there are other event including the Pro-Biz and English Rapidplay Championship.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/12th-london-chess-classic-2021",
-         "pubDate" : "Sat, 11 Dec 2021 22:36:00 +0400",
-         "title" : "12th London Chess Classic 2021 - Games and Results"
       },
       {
          "description" : " <p class=\"lead\">Yesterday, Magnus Carlsen retained his World Chess Championship title in a Match against Ian Nepomniachtchi. Nepo lost the match in a spectacular fashion, by blundering away three games and losing by 4 points with 3.5 to 7.5. Now Russian chess experts are (partially) blaming Daniil Dubov for the loss. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/F378E37C-1118-41AA-A134-35F84E525A67.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Daniil Dubnov preparing for Armageddon. Photo: World Chess</div> </div> Daniil Dubov, a 26-year-old chess prodigy from Russia, has been part of Carlsen's all-star team for the match and apparent",
@@ -1842,22 +1858,6 @@ news_feed (
          "title" : "Chess arbiters and the three-fold draw"
       },
       {
-         "description" : "In the Endgame Magic Show #172 Karsten M&uuml;ller and Arne K&auml;hler look at interesting endgames from the European Team Championship. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-172-endgame-highlights-from-the-european-team-championship",
-         "pubDate" : "Mon, 29 Nov 2021 19:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #172: Endgame highlights from the European Team Championship"
-      },
-      {
-         "description" : "The new AI-based training method \"Easy Game\" helps you to play brilliancies against Fritz18! After mating Fritz18 you can publish your game with one click or you can send it per email to ChessBase to take part in the great Fritz 18 lottery. Join the action!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fritz-18-play-and-share-brilliancies-and-win-in-the-fritz18-lottery",
-         "pubDate" : "Mon, 29 Nov 2021 15:03:06 +0100",
-         "title" : "Fritz 18: Play and share brilliancies - and win in the Fritz 18 lottery!"
-      },
-      {
          "description" : "Look at this position. Black still has all his pieces on the board, while White has just a single pawn, on its original square. So what is the task? \"White to play and win\" says the composer, one of the most imaginative in history. Born in 1860, Ott&oacute; Titusz Bl&aacute;thy composed a large number of \"Grotesques\", extremely unusual positions in which White must win against much larger black forces. These problems are generally intended to be humorous. We hope you enjoy our examples, which should also serve to remind you how you can move the pieces, play and analyse right there on our news page diagrams.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2130,7 +2130,7 @@ news_feed (
          "title" : "The Exchange French Comes to Life: Fresh Strategies to Play for a Win"
       },
       {
-         "description" : " The FIDE World Chess Championship took place in Dubai, UAE, 24th November (opening ceremony - game 1 on 26th Nov) until 10th December. The match was between World Champion Magnus Carlsen and his Challenger Ian Nepomniachtchi. The match was over 14 games rather than the recent 12 and used an accelerated schedule to accommodate this. As it was Carlsen only needed 11 of the 14 games to win the match 7.5-3.5. The match was very closely contested until the marathon game 6 after which Nepomniachtchi lost a further three games. Game 1 12:30 GMT Friday 26th Ian Nepomniachtchi vs Magnus Carlsen.",
+         "description" : " The FIDE World Chess Championship took place in Dubai, UAE, 24th November (opening ceremony - game 1 on 26th Nov) until 10th December. The match was between World Champion Magnus Carlsen and his Challenger Ian Nepomniachtchi. The match was over 14 games rather than the recent 12 and used an accelerated schedule to accommodate this. As it was Carlsen only needed 11 of the 14 games to win the match 7.5-3.5. The match was very closely contested until the marathon game 6 after which Nepomniachtchi lost a further three games.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021",
