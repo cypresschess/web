@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser teaches us about some Quick Traps in the Max Lange Attack. Learn everything you need to know about the Max Lange Attack in this video! Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/ArcG3\">https://www.youtube.com/c/ArcG3</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> 0:00 Intro<br /> 0:24 Starting Position<br /> 1:04 6. e5 Ne4?<br /> 2:02 6. e5 Ng4?!<br /> 2:47 MOST COMMON TRAP<br /> 4:32 Mainlines and Traps after 9... Qd5<br /> 7:35 Conclusion </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-v",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-win-fast-max-lange",
+         "pubDate" : "Mon, 13 Dec 2021 04:20:08 +0000",
+         "title" : "How To WIN FAST with the MAX LANGE"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1856,14 +1864,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/28/world-championship-bonus-pod-1-the-match-so-far-interviews-from-dubai-with-geert-van-der-velde-and-jonathan-corbblah",
          "pubDate" : "Mon, 29 Nov 2021 03:53:59 +0000",
          "title" : "World Championship Bonus Pod #1- The match so far, + interviews from Dubai with Geert van der Velde and Jonathan Corbblah "
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nick Risko continues his series on the Scotch Game or Scotch Opening. As Nick increasingly examines sound lines, take a look at Black&#039;s queen moves 4...Qh4 and 4...Qf6. Originally on Twitch. 2021.11.01<br /> C45 Scotch, Pulling counter-attack<br /> C45 Scotch, Steinitz variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shot-scotch-5-queen-moves-chess-openings-explained\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shot-scotch-5-queen-moves-chess-openings-explained",
-         "pubDate" : "Mon, 29 Nov 2021 01:02:13 +0000",
-         "title" : "A Shot of Scotch #5: Queen Moves | Chess Openings Explained"
       },
       {
          "description" : "The score in the FIDE World Chess Championship is 2-2 after a fourth draw between GM Magnus Carlsen and GM Ian Nepomniachtchi on Tuesday. Did the challenger shut down Carlsen&#39;s 1.e4 in this match? It&#39;s too early to tell, but his preparation and ac...",
