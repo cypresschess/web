@@ -2280,22 +2280,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anands-son-makes-chess-debut-in-kolkata/articleshow/87851048.cms",
          "pubDate" : "Mon, 22 Nov 2021 17:57:39 +0530",
          "title" : "Viswanathan Anand's son makes chess debut in Kolkata"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1442",
-         "pubDate" : "Sun, 21 Nov 2021 22:51:38 +0000",
-         "title" : "Ukraine and Russia win European Team Championship 2021"
-      },
-      {
-         "description" : "The European Team Chess Championship 2021 successfully concluded today in Terme Catez, Slovenia. The Closing ceremony of the event took place on Sunday, 21st of November, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, ECU Honorary President Mr. Boris Kutin, President of Slovenian Parliament Mr. Igor Zorcic, President of Slovenian Chess Federation Mr. Milan Brglez, and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ukraine-open-and-russia-women-win-european-team-chess-championships-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ukraine-open-and-russia-women-win-european-team-chess-championships-2021/",
-         "pubDate" : "Sun, 21 Nov 2021 22:02:34 +0000",
-         "title" : "Ukraine (Open) and Russia (Women) win European Team Chess Championships 2021"
       }
    ]
 }
