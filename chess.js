@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " One of the hot takes from the 2021 World Championship Match is that Carlsen's natural ability overcame engine prep from Nepo. Given the relatively low error rate from both players early in the match, I'm not convinced that this is true, although it is fair to say that Carlsen obviously did better when it wasn't just prep v prep. Looking back at a number of older (pre engine) games is that their are often errors in analysis. The main reason for this seems to be that a lot of strong moves are overlooked at the top of the tree, either because it isn't part of an existing plan, or the assumption that the opponent is restricted to one or two choices. However, there are a number of examples where",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/engine-accurate.html",
+         "pubDate" : "Mon, 13 Dec 2021 12:15:00 +0000",
+         "title" : "Engine accurate?"
+      },
+      {
+         "description" : "The bishop was hanging, and yet it was not allowed to be taken! But almost everyone knew that, and took the knight instead. Today there is a correct move again, and if you like, a correct designation of the green marked squares.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-1344",
+         "pubDate" : "Mon, 13 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 13"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Harrison Keyser teaches us about some Quick Traps in the Max Lange Attack. Learn everything you need to know about the Max Lange Attack in this video! Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/ArcG3\">https://www.youtube.com/c/ArcG3</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> 0:00 Intro<br /> 0:24 Starting Position<br /> 1:04 6. e5 Ne4?<br /> 2:02 6. e5 Ng4?!<br /> 2:47 MOST COMMON TRAP<br /> 4:32 Mainlines and Traps after 9... Qd5<br /> 7:35 Conclusion </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-v",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -376,14 +392,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/petition-to-save-max-euweplein/",
          "pubDate" : "Fri, 10 Dec 2021 11:56:28 +0100",
          "title" : "Petition to save Max Euweplein"
-      },
-      {
-         "description" : "Taking place at the Cavendish Conference Centre, Duchess Mews, London on December 11th 12th from 12:00 pm. Ten of England's top Grandmasters and International...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-rapidplay-chess-championship-2021/",
-         "pubDate" : "Fri, 10 Dec 2021 09:08:25 +0000",
-         "title" : "English Rapidplay Chess Championship 2021"
       },
       {
          "description" : "After nine rounds three players shared first place with 7.0/9 each at the El Llobregat Open in Barcelona: Nodirbek Abdusattorov (Uzbekistan), Murali Khartikeyan (India), and Pere Garriga Cazorla, the best player from the host country. Abdusattorov then won the playoff and the tournament, Khartikeyan finished second. | Photos: Patricia Claros",
@@ -1914,14 +1922,6 @@ news_feed (
          "title" : "First Moves"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 55th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about pawns which terrorize knights. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-55-pawn-vs-knight-2",
-         "pubDate" : "Sun, 28 Nov 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 55: Pawn vs knight (2)"
-      },
-      {
          "description" : " The 2021 Vikings Weekender has ended in a tie for 1st place between CM Paul Russell, and Harry Press. The finished on the unusually low score of 4.5/6, although this was only one of many things that was slightly unusual about this event. Both scored last round wins to take 1st place, with Russell beating WFM Alana Chibnall and Press beating CM Anthony Fikh. Tied for 3rd place were Fikh and Fred Litchfield on 4 points, while Ryan Can and Matt Radisich one the rating prize on 3.5. Due to the small size of the field, almost all games had an effect on the final standings. Curiously the 2 winners did not play each other, not did the top 2 seeds (Press and Litchfield). Press started the tournamen",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2272,14 +2272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1443",
          "pubDate" : "Mon, 22 Nov 2021 13:59:18 +0000",
          "title" : "FIDE World Rapid and Blitz Championship 2021: Registration begins"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87851048.cms\" />Viswanathan Anand's son Akhil made his debut in a chess event at the Kolkata rapid and blitz competition that concluded at the iconic National Library building here on Sunday. Like his father, he did not participate in the meet, but rather he got the first feel of an over-the-board tournament by witnessing the matches from the spectator's stand.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anands-son-makes-chess-debut-in-kolkata/articleshow/87851048.cms",
-         "pubDate" : "Mon, 22 Nov 2021 17:57:39 +0530",
-         "title" : "Viswanathan Anand's son makes chess debut in Kolkata"
       }
    ]
 }
