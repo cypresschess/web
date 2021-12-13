@@ -74,7 +74,7 @@ news_feed (
          "title" : "The Endgame Magic Christmas Calendar - Door 12"
       },
       {
-         "description" : " Share! 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 1 &frac12; 1 1 &frac12; 1 7&frac12; Caruana &frac12; &frac12; &frac12; &frac12; &frac12; 0 &frac12; 0 0 &frac12; 0 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/12/magnus-carlsen-retains-title-winning-7-5-3-5/\">Magnus Carlsen retains title, winning 7.5-3.5!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!33 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 1 &frac12; 1 1 &frac12; 1 7&frac12; Caruana &frac12; &frac12; &frac12; &frac12; &frac12; 0 &frac12; 0 0 &frac12; 0 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/12/magnus-carlsen-retains-title-winning-7-5-3-5/\">Magnus Carlsen retains title, winning 7.5-3.5!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/12/magnus-carlsen-retains-title-winning-7-5-3-5/",
