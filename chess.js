@@ -2,14 +2,6 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "When Beth Harmon defeated a series of top male grandmasters, and then went on to wrest the title from Russian world champion Vasily Borgov, it was not real life. It happened in the Queen's Gambit, a Netflix series that did more for chess than anything else in 2020. In reality, today there is not a single active female player in the top 100. But FIDE wants to change that, as the Guardian reports.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-chess-it-is-not-biology",
-         "pubDate" : "Mon, 13 Dec 2021 17:00:00 +0100",
-         "title" : "Women's chess: 'It is not biology'"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2272,14 +2264,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-feels-unpredictability-is-good-for-sport/articleshow/87861342.cms",
          "pubDate" : "Tue, 23 Nov 2021 09:48:21 +0530",
          "title" : "Viswanathan Anand feels unpredictability is good for sport"
-      },
-      {
-         "description" : "Running over five Monday evenings from 7.00pm to 9.00pm 7th February; 14th February; 21st February; 28th February; 7th March, with a course fee of...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/level-1-arbiter-course-february-2022/",
-         "pubDate" : "Mon, 22 Nov 2021 16:55:43 +0000",
-         "title" : "Level 1 Arbiter Course February 2022"
       }
    ]
 }
