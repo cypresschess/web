@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FM Mike Klein, Chess.com&#39;s onsite correspondent at the 2021 FIDE World Championship and the Chief Chess Officer of ChessKid, caught up with GM Ian Nepomniachtchi for an interview a couple of days after the match with GM Magnus Carlsen. Feel free t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ian-nepomniachtchi-on-the-world-chess-championship",
+         "pubDate" : "Tue, 14 Dec 2021 07:08:10 -0800",
+         "title" : "Ian Nepomniachtchi On The World Chess Championship"
+      },
+      {
+         "description" : "Six-team event will boast of 2 Super GMs, 2 Indian GMs, 2 WGMS, 1 Indian Junior Boy, 1 Indian Junior Girl each New Delhi, December",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/cash-rich-indian-chess-league-to-take-place-in-june-2022/",
+         "pubDate" : "Tue, 14 Dec 2021 14:12:33 +0000",
+         "title" : "Cash-rich Indian Chess League to take place in June 2022"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2c980fa8-f2a4-458e-a8ff-0bc7d02ed3da/Erwin2.jpg\" data-image-dimensions=\"547x820\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61b8a0f07dcd765c388e02a4\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2c980fa8-f2a4-458e-a8ff-0bc7d02ed3da/Erwin2.jpg?format=1000w\" /> </figure> <p class=\"\">Photo courtesy of GM Erwin L'Ami <p class=\"\">Perpetual Chess is back for one more World Championship wrap-up (among other topics) with top Dutch player, trainer, and popular Ches",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/14/ep-257-gm-erwin-lami-with-a-world-championship-wrap-up-and-more",
+         "pubDate" : "Tue, 14 Dec 2021 13:52:37 +0000",
+         "title" : "EP 257- GM Erwin L'Ami with a World Championship Wrap Up (and more!) "
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88281440.cms\" />Taking a leaf out of sports like cricket and badminton, the All India Chess Federation on Tuesday announced that the sport will have its very own franchise-based league to be held next year in June.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-announces-indian-chess-league-in-june-next-year/articleshow/88281440.cms",
+         "pubDate" : "Tue, 14 Dec 2021 19:10:19 +0530",
+         "title" : "AICF announces Indian Chess League in June next year"
+      },
+      {
+         "description" : "GM Magnus Carlsen might be letting go of his world title in classical chess unless GM Alireza Firouzja will be his opponent for the next match. &#34;If someone other than Firouzja wins the Candidates Tournament, it is unlikely that I will play the nex...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-defend-world-chess-title-alireza-firouzja",
+         "pubDate" : "Tue, 14 Dec 2021 05:34:00 -0800",
+         "title" : "BREAKING: Carlsen Might Only Defend Title Vs. Firouzja"
+      },
+      {
+         "description" : "European Online Rapid School Chess Championship 2021 was played from 3rd-12th December 2021, through Tornelo playing platform. The event was played within 5 different age groups, open and girls separately. After the qualification stage of the event, the top 8 players of each section proceeded to the final knockout stage which determined the winners of the event.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-online-rapid-school-chess-champions-crowned/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-online-rapid-school-chess-champions-crowned/",
+         "pubDate" : "Tue, 14 Dec 2021 12:47:48 +0000",
+         "title" : "European Online Rapid School Chess Champions crowned"
+      },
+      {
          "description" : "Soon after defending the World Championship title in Dubai, Magnus Carlsen revealed the team of seconds that helped him keep his crown. Among them was Daniil Dubov, a member of the Russian team. A controversy erupted, with some of Dubov's compatriots criticizing his decision to work for Ian Nepomniachtchi's opponent. | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1986,14 +2034,6 @@ news_feed (
          "title" : "World Championship: Carlsen, Nepo play out intense draw in Game 2"
       },
       {
-         "description" : "The FIDE World Chess Championship remains in a deadlock as challenger GM Ian Nepomniachtchi and World Champion GM Magnus Carlsen drew their third game on Sunday. Monday is the first rest day in Dubai; game four is scheduled for Tuesday, again, at ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-game-3",
-         "pubDate" : "Sat, 27 Nov 2021 17:33:00 -0800",
-         "title" : "FIDE World Chess Championship Game 3: Magnus Bulletproof With Black"
-      },
-      {
          "description" : " The 2021 Vikings Weekender began with a much smaller field than last years 60. The main cause was the short notice, with the event only confirmed 2 weeks before it started. There were also a couple of last minutes withdrawals, leaving the tournament missing a few titled players. The upside is that both events are very competitive, with any number of players in contention for the $1000 1st prize. Top seeds Harry Press and Fred Litchfield dropped points over the first 4 rounds, with CM Anthony Fikh leading on 3.5/4, followed by WFM Alana Chibnall and CM Paul Russell in 2nd place on 3. For top seed Press it could have been worse, as in a R+B+P v R+5P, he managed to win all the pawns to reach R",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2008,14 +2048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1452",
          "pubDate" : "Sat, 27 Nov 2021 20:14:19 +0000",
          "title" : "FIDE World Championship Dubai 2021: The champion's turn"
-      },
-      {
-         "description" : "The reigning world chess champion, GM Magnus Carlsen, from Norway, and his Russian challenger, GM Ian Nepomniachtchi, faced each other today in the second game of their FIDE World Championship 2021 match in Dubai. After some trickery in the openin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-championship-g2-carlsen-scrambles",
-         "pubDate" : "Sat, 27 Nov 2021 12:10:00 -0800",
-         "title" : "FIDE World Chess Championship Game 2: Adventurous Carlsen Scrambles For Draw"
       },
       {
          "description" : " The FIDE World Chess Championship Match between Magnus Carlsen and Ian Nepomniachtchi is tied at 1-1 after the first two games were drawn. In spite of these draws the early games promise a very interesting match which will be settled over the board not by the huge amount of opening preparation both sides have clearly done. Carlsen had white in game two and a Catalan appeared on the board. It seemed at first that Carlsen had won the opening battle. Nepomniachtchi's 7... b5 was met by 8. Ne5 - a move that's been played at a high level this year but none the less he didn't seem ready for. Carlsen continued to play quickly for the next few moves and after 16...Na6 had some advantage in a wild p",
@@ -2216,38 +2248,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/a-year-full-of-chess/",
          "pubDate" : "Wed, 24 Nov 2021 11:40:50 +0000",
          "title" : "A Year Full Of Chess"
-      },
-      {
-         "description" : "Hon'ble President of India Shri Ram Nath Kovind presented Ati Vishisht Seva Medal to Chess Player and patron of Indian Chess Air Vice Marshal Jonnalagadda",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-air-vice-marshal-jonnalagadda-rajendra/",
-         "pubDate" : "Wed, 24 Nov 2021 10:05:03 +0000",
-         "title" : "Congratulations Air Vice Marshal Jonnalagadda Rajendra"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1445",
-         "pubDate" : "Tue, 23 Nov 2021 14:38:11 +0000",
-         "title" : "FIDE World Championship Dubai 2021: Preview"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ee4bc561-c26c-4ff5-9022-0007c786a351/Tai3.png\" data-image-dimensions=\"1341x672\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"619cebc196a05b756f095c42\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ee4bc561-c26c-4ff5-9022-0007c786a351/Tai3.png?format=1000w\" /> </figure> <p class=\"\"><br><br> <p class=\"\">My guest for Part 2 of the World Chess Championship preview is chess blogger Tai Pruce Zimmerman. Tai is an accountant by training, who created the excellent <e",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/23/episode-254-world-championship-preview-part-2-with-tai-pruce-zimmerman",
-         "pubDate" : "Tue, 23 Nov 2021 13:27:40 +0000",
-         "title" : "Episode 254- World Championship Preview Part 2 with Tai Pruce Zimmerman "
-      },
-      {
-         "description" : "Chess in Schools and Communities is happy to announce that the London Chess Classic will be going ahead this year, with a varied programme of events taking place from 3-12 December at the Cavendish Centre in central London. Due to the ongoing Coronavirus pandemic,&#160;we will be welcoming a smaller number&#160;of participants than usual, and entry will be on&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/london-chess-classic-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/london-chess-classic-2021/",
-         "pubDate" : "Tue, 23 Nov 2021 13:27:16 +0000",
-         "title" : "London Chess Classic 2021"
       }
    ]
 }
