@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Wesley So defeated GM Nihal Sarin by a slender 15-14 margin in the first semifinal match of the 2021 Speed Chess Championship Main Event. So thus becomes the first player to reach the finals of the event; the other semifinal match is scheduled ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-so-nihal",
+         "pubDate" : "Tue, 14 Dec 2021 00:05:24 -0800",
+         "title" : "Speed Chess Championship: So Edges Out Nihal, Enters Finals"
+      },
+      {
+         "description" : "Endings with opposite coloured bishops often have drawish tendencies. But things are rarely that simple. In the diagram position material is equal but Black's king and Black's bishop are far more active than their counterparts. How should Black proceed to exploit these advantages?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/retreat-to-advance",
+         "pubDate" : "Tue, 14 Dec 2021 09:00:00 +0100",
+         "title" : "Retreat to advance"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88268337.cms\" />Magnus Carlsen, who extended his reign of the chess empire to more than nine years with a resounding win over challenger Ian Nepomniachtchi in Dubai on Friday, understands that sport is neither equal nor fair. Going by some of his quotes during the World Championship match, the Norwegian is probably happy with the cruel consequences of being a sportsman.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1826,14 +1842,6 @@ news_feed (
          "title" : "The Kasparov Chess Foundation announces University Cup"
       },
       {
-         "description" : "Pawn endings must be calculated precisely. In the diagram position it is Black to move and win - if he finds the right square(s) for his king. What should Black do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/going-round-and-coming-back",
-         "pubDate" : "Tue, 30 Nov 2021 09:00:00 +0100",
-         "title" : "Going round and coming back"
-      },
-      {
          "description" : "GM Fabiano Caruana beat GM Maxime Vachier-Lagrave with a score of 13.5-12.5 in the last match of the first round of the 2021 Speed Chess Championship Main Event. He will face&#38;nbsp;GM Wesley So in the quarterfinal match, which starts on Thursday, D...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2058,14 +2066,6 @@ news_feed (
          "title" : "FIDE World Championship Dubai 2021: The battle begins"
       },
       {
-         "description" : "World Champion Magnus Carlsen and challenger GM Ian Nepomniachtchi started their FIDE World Championship match on Friday in Dubai with a draw. Nepomniachtchi had a slight opening advantage but got under some pressure soon after, and then impressed...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-chess-championship-game-1-nepomniachtchi-carlsen",
-         "pubDate" : "Fri, 26 Nov 2021 10:23:00 -0800",
-         "title" : "FIDE World Chess Championship Game 1: Nepo Impresses Under Pressure"
-      },
-      {
          "description" : " The FIDE World Chess Championship got under way in Dubai on Friday 26th November. The match between World Champion Magnus Carlsen and his challenger Ian Nepomniachtchi will be over 14 classical games followed by a day of rapid and blitz tie-breaks if required. The first game of the match was a reasonably tense affair with both players surely glad to get started. The pandemic has drastically reduced the amount of face to face chess in the last 18 months and that will surely affect both players but there has also been a revolution in chess preparation using AI and computers. This is generating masses of new ideas - in the recent past it's been hard to remember everything - we may now have gon",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2256,14 +2256,6 @@ news_feed (
          "link" : "https://chessimprover.com/the-great-ones-6/",
          "pubDate" : "Tue, 23 Nov 2021 09:30:53 +0000",
          "title" : "The Great Ones (6)"
-      },
-      {
-         "description" : "After staging the highly successful man-vs-machine match Garry Kasparov vs X3D Fritz, the ever enterprising Armand Rousso launched a search engine, intended to challenge the supremacy of Google. The launch of \"Accoona\" in New York in 2004 had a glittering array of special guests (Kasparov, Bill Clinton). The next year Armand did a second publicity event, this time pitting the latest version of Fritz against the newly crowned FIDE World Champion Rustam Kasimdzhanov.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/thirty-years-happy-birthday-fritz-4",
-         "pubDate" : "Tue, 23 Nov 2021 05:46:45 +0100",
-         "title" : "Thirty years! Happy Birthday Fritz (4)"
       }
    ]
 }
