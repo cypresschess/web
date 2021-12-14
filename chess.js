@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88268337.cms\" />Magnus Carlsen, who extended his reign of the chess empire to more than nine years with a resounding win over challenger Ian Nepomniachtchi in Dubai on Friday, understands that sport is neither equal nor fair. Going by some of his quotes during the World Championship match, the Norwegian is probably happy with the cruel consequences of being a sportsman.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/why-king-carlsen-is-a-cut-above-all-competition/articleshow/88268337.cms",
+         "pubDate" : "Tue, 14 Dec 2021 08:49:52 +0530",
+         "title" : "Why King Carlsen is a cut above all competition"
+      },
+      {
          "description" : "On Sunday, December 12, Magnus Carlsen of Norway lifted the trophy for the World Championship aloft for the fifth time in a row. The closing ceremony was broadcast live on a range of media and culminated with the champion, a gold medal around his neck, trophy raised, in a long, breezy shower of gold confetti. | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2256,14 +2264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/thirty-years-happy-birthday-fritz-4",
          "pubDate" : "Tue, 23 Nov 2021 05:46:45 +0100",
          "title" : "Thirty years! Happy Birthday Fritz (4)"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87861342.cms\" />Viswanathan Anand is all for unpredictability in Indian sports. The five-time world chess champion believes in having a system, but at the same time he does not feel that champions are produced only through it.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-feels-unpredictability-is-good-for-sport/articleshow/87861342.cms",
-         "pubDate" : "Tue, 23 Nov 2021 09:48:21 +0530",
-         "title" : "Viswanathan Anand feels unpredictability is good for sport"
       }
    ]
 }
