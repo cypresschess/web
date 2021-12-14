@@ -2,11 +2,59 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Soon after defending the World Championship title in Dubai, Magnus Carlsen revealed the team of seconds that helped him keep his crown. Among them was Daniil Dubov, a member of the Russian team. A controversy erupted, with some of Dubov's compatriots criticizing his decision to work for Ian Nepomniachtchi's opponent. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dubov-faces-criticism-in-russia",
+         "pubDate" : "Tue, 14 Dec 2021 13:00:00 +0100",
+         "title" : "Dubov faces criticism in Russia after working for Carlsen"
+      },
+      {
+         "description" : "CLICK HERE FOR THE PRESS CONFERENCE",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/the-press-conference-of-indian-chess-league/",
+         "pubDate" : "Tue, 14 Dec 2021 11:09:06 +0000",
+         "title" : "The Press conference of Indian Chess League"
+      },
+      {
+         "description" : "Fortunately, most of you knew that the correct solution for door 13 was \"A\". Far fewer, however, were aware that the green squares are called \"key squares\". Another lesson learned. In the video, there is more information about the squares, and the task for today. We checkmate the opponent's king with nothing more than a knight!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-14678",
+         "pubDate" : "Tue, 14 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 14"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Carl Eriksson</strong>, who freelances as a designer for <strong>Chessbase</strong>, has created an <a href=\"https://nft.chessbase.com/\">NFT series</a> brought on the market by the German software house. Meanwhile <strong>Concordium</strong>, a blockchain company headed by Norwegian <strong>Lars Seier Christensen</strong>, <a href=\"https://medium.com/concordium/play-magnus-group-to-bring-chess-nfts-to-market-on-concordium-913dc6bb06b0\">announced</a> that it is minting <a href=\"https://www.chesstech.org/2021/chasing-the-biggest-fans/\">NFTs</a> at a lower CO2 footprint for the <strong>Play Magnus Group</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/chessbase-joins-nft-hype/",
+         "pubDate" : "Tue, 14 Dec 2021 11:26:58 +0100",
+         "title" : "Chessbase joins NFT craze"
+      },
+      {
+         "description" : "The award-winning program \"Fritz & Chesster\" (Vol. 1) that has helped hundreds of thousands of children all over the world to learn and to enjoy chess is now available in eight languages! English, Spanish, French, Polish, Swedish, Dutch, Slovakian and German. The online version of the program runs on practically all systems without the need to install software. All graphics have been redrawn and enlarged! | Photo: lemi-consulting.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fritz-chesster-online-in-eight-languages",
+         "pubDate" : "Tue, 14 Dec 2021 11:11:18 +0100",
+         "title" : "Fritz & Chesster online in eight languages!"
+      },
+      {
+         "description" : " &#8220;A dream becomes a goal when action is taken toward its achievement&#8221; Bo Bennett (businessman) The Scotch Game has resisted the test of times at all levels of chess competition. From Ercole del Rio (Italian chess author), the first one to mention it in his chess treatise from 1750, to GM Garry Kasparov who played <a href=\"https://chessimprover.com/need-sure-points-scotch-opening-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Scotch Opening Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-scotch-opening-edition/\">Need sure points? Scotch Opening Edition</a> appeared first on <a rel=\"no",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-scotch-opening-edition/",
+         "pubDate" : "Tue, 14 Dec 2021 09:24:14 +0000",
+         "title" : "Need sure points? Scotch Opening Edition"
+      },
+      {
          "description" : "GM Wesley So defeated GM Nihal Sarin by a slender 15-14 margin in the first semifinal match of the 2021 Speed Chess Championship Main Event. So thus becomes the first player to reach the finals of the event; the other semifinal match is scheduled ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-so-nihal",
-         "pubDate" : "Tue, 14 Dec 2021 00:05:24 -0800",
+         "pubDate" : "Tue, 14 Dec 2021 00:05:00 -0800",
          "title" : "Speed Chess Championship: So Edges Out Nihal, Enters Finals"
       },
       {
@@ -458,14 +506,6 @@ news_feed (
          "title" : "The Endgame Magic Christmas Calendar - Door 10"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The city of Amsterdam is considering not to bring back the public giant chess on the centrally located <strong>Max Euweplein</strong> (plein is Dutch for square) after ongoing renovation works. There is <a href=\"https://maxeuweplein.petities.nl/\">a petition</a> to save the best known giant chess in the world. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/petition-to-save-max-euweplein/",
-         "pubDate" : "Fri, 10 Dec 2021 11:56:28 +0100",
-         "title" : "Petition to save Max Euweplein"
-      },
-      {
          "description" : "After nine rounds three players shared first place with 7.0/9 each at the El Llobregat Open in Barcelona: Nodirbek Abdusattorov (Uzbekistan), Murali Khartikeyan (India), and Pere Garriga Cazorla, the best player from the host country. Abdusattorov then won the playoff and the tournament, Khartikeyan finished second. | Photos: Patricia Claros",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -888,14 +928,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-7654",
          "pubDate" : "Tue, 07 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 7"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Norwegian Helsinki Committee</strong>, a human rights organisation, accuses <strong>FIDE</strong> of awarding its major events to authoritarian regimes like the United Arab Emirates, Russia, China and Kazakhstan for <a href=\"https://en.wikipedia.org/wiki/Sportswashing\">sportswashing</a>, directing attention away from poor human rights records and corruption, <a href=\"https://www.aftenposten.no/sport/sjakk/i/7dxkoW/sjakk-vm-skjer-i-et-av-verdens-mest-undertrykte-land-planen-deres-l\">in an article of the newspaper</a> <strong>Aftenposten</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/norwegian-campaign-against/",
-         "pubDate" : "Tue, 07 Dec 2021 11:25:15 +0100",
-         "title" : "Norwegian campaign against sportswashing"
       },
       {
          "description" : "This year, the Dutch National Championship was played in two stages. In the knockout preliminaries four players had qualified for the finals: Max Warmerdam, Robin Swinkels, Roeland Pruijssers, and Hing Ting Lai. Max Warmerdam convincingly won the finals, a double round-robin which was played last week. | Photos: Harry Gielen",
@@ -1786,14 +1818,6 @@ news_feed (
          "title" : "FIDE World Championship Dubai 2021: Closing window"
       },
       {
-         "description" : "The match for the World Championship in Dubai is still tied, as Magnus Carlsen and Ian Nepomniachtchi signed a fourth consecutive draw on Tuesday. The defending champion went for his first 1.e4 with the white pieces, to which Nepo responded by setting up a Petroff Defence. Carlsen spent quite a while investigating options that might create trouble for his opponent, but ended up going for a triple repetition on move 30. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-g4",
-         "pubDate" : "Tue, 30 Nov 2021 18:25:00 +0100",
-         "title" : "World Championship Game 4: Hesitant birthday boy"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e23f8040-0ba8-4127-95a0-16642d9fa36c/Tatev.1.png\" data-image-dimensions=\"695x532\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61a657b639c80d10d8974039\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e23f8040-0ba8-4127-95a0-16642d9fa36c/Tatev.1.png?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by <a href=\"https://lennartootes.com\">Lennart Ootes</a> <a href=\"https://bryghtlabs.com/blogs/news\">via Bryghtlabs blog </a> </figcaption",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -1818,28 +1842,12 @@ news_feed (
          "title" : "Cambridgeshire County Chess Championships results"
       },
       {
-         "description" : "Covid might have knocked the Banff Open down, but it certainly didn't knock it out. The popular tournament was back with a vengeance this year, after being cancelled in 2020. The fifth ever Banff Open was held over the Remembrance Day long weekend and welcomed the strongest (and largest) group of players in its history, with one GM (Joel Benjamin), 3 IMs and 6 FMs taking part. | Photos: Banff Open",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-return-of-the-king-and-queen-and-rooks-bishops-etc",
-         "pubDate" : "Tue, 30 Nov 2021 11:30:00 +0100",
-         "title" : "The Return of the King... and Queen... and Rooks, Bishops etc...."
-      },
-      {
          "description" : " &#8220;They ignore you now, but they'll need you later&#8221; Unknown Having the chance to play a Grandmaster is a highlight for many of us. It is true the Swiss format have increased those chances, but you still need to perform well to have the minimum FIDE rating to register. The second condition, as important as <a href=\"https://chessimprover.com/ignore-at-your-peril-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Ignore at Your Peril (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/ignore-at-your-peril-2/\">Ignore at Your Peril (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/ignore-at-your-peril-2/",
          "pubDate" : "Tue, 30 Nov 2021 09:30:11 +0000",
          "title" : "Ignore at Your Peril (2)"
-      },
-      {
-         "description" : "The Kasparov Chess Foundation announces the second annual KCF University Cup, which will take place online, February 5 - 6, 2022. The tournament is open to teams from colleges and universities from all over the world.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-kasparov-chess-foundation-announces-university-cup",
-         "pubDate" : "Tue, 30 Nov 2021 09:51:54 +0100",
-         "title" : "The Kasparov Chess Foundation announces University Cup"
       },
       {
          "description" : "GM Fabiano Caruana beat GM Maxime Vachier-Lagrave with a score of 13.5-12.5 in the last match of the first round of the 2021 Speed Chess Championship Main Event. He will face&#38;nbsp;GM Wesley So in the quarterfinal match, which starts on Thursday, D...",
@@ -2240,22 +2248,6 @@ news_feed (
          "link" : "https://www.europechess.org/london-chess-classic-2021/",
          "pubDate" : "Tue, 23 Nov 2021 13:27:16 +0000",
          "title" : "London Chess Classic 2021"
-      },
-      {
-         "description" : " The first game of the <a href=\"https://fideworldchampionship.com/\">2021 World Chess Championship Match</a> is on Friday 26th November, at 11:30pm Canberra time. For this match there will be a maximum of 14 games, followed by tie-breaks if necessary. It runs until the 16th of December, with rest days every 2 or 3 rounds. As with most World Championship Matches I usually give a prediction before the start. Looking back at some old posts I did predict Anand beating Kramnik in 2008 (and winning the World Championship tournament in 2007). Since Carlsen became a challenger and then World Champion, I have usually played it safe and predicted a Carlsen win by 2 points. This means I have got the win",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/2021-world-chess-championship-my.html",
-         "pubDate" : "Tue, 23 Nov 2021 11:49:00 +0000",
-         "title" : "2021 World Chess Championship - My fearless prediction"
-      },
-      {
-         "description" : " &#8220;You always admire what you really don't understand&#8221; Blaise Pascal The chess study I posted at the end of my last column was composed by Alexander Herbstman (April 10, 1900 May 22, 1982). According to his biography: &#8220;Herbstman composed 350 studies during his long career and was among the 6 composers who were awarded <a href=\"https://chessimprover.com/the-great-ones-6/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Great Ones (6)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-great-ones-6/\">The Great Ones (6)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/the-great-ones-6/",
-         "pubDate" : "Tue, 23 Nov 2021 09:30:53 +0000",
-         "title" : "The Great Ones (6)"
       }
    ]
 }
