@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov teaches a chess endgame class. 2021.12.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/capablanca-converts-extra-exchange-insane-endgame-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VpMT0LBSJC0.jpg?itok=oNNMfdoz\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at wild chess puzzles! The mysterious masked Caleb will even look at a puzzle with a 500+ move solution! 2021.12.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/incredibly-long-puzzles-and-other-fun-puzzles-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/He6h9_XNBt0.jpg?itok=g5vZYLjM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/incredibly-long-puzzles-and-other-fun-puzzles-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 15 Dec 2021 04:22:31 +0000",
+         "title" : "Incredibly Long Puzzles (and other fun puzzles) | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at wild chess puzzles! The mysterious masked Caleb will even look at a puzzle with a 500+ move solution! 2021.12.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/incredibly-long-puzzles-and-other-fun-puzzles-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/He6h9_XNBt0.jpg?itok=g5vZYLjM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/incredibly-long-puzzles-and-other-fun-puzzles-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Wed, 15 Dec 2021 01:22:28 +0000",
+         "title" : "Incredibly Long Puzzles (and other fun puzzles) | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov teaches a chess endgame class. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/capablanca-converts-extra-exchange-insane-endgame-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VpMT0LBSJC0.jpg?itok=oNNMfdoz\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/capablanca-converts-extra-exchange-insane-endgame-gm-alex-shabalov",
@@ -898,14 +914,6 @@ news_feed (
          "title" : "Don't Let Her In! Queen vs. Fortress | Insane in the Endgame - GM Alex Shabalov"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby demonstrates how Magnus Carlsen and Ian Nepomniachtchi took ideas from historical games to create Game 6 from their 2021 World Championship match: the longest game in world championship history! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-nepo-longest-world-championship-game-ever-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-nepo-longest-world-championship-game-ever-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Wed, 08 Dec 2021 01:15:19 +0000",
-         "title" : "Carlsen-Nepo: Longest World Championship Game Ever! | Road to 2000 - NM Caleb Denby | lichess.org"
-      },
-      {
          "description" : "With what was the quickest draw in the match so far, GM Magnus Carlsen consolidated his three-point lead in the 2021 FIDE World Chess Championship&#38;nbsp;on Wednesday. After a bit more than two hours, the world champion split the point with challeng...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1408,14 +1416,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-powerful-passed-pawn",
          "pubDate" : "Sat, 04 Dec 2021 09:00:00 +0100",
          "title" : "A powerful passed pawn"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> <a href=\"https://e.givesmart.com/events/nxu/\">https://e.givesmart.com/events/nxu/</a> Join the Saint Louis Chess Club and World Chess Hall of Fame for the 5th Annual Strategy Across the Board gala on Saturday, December 4, 2021 at the Chase Park Plaza, a Royal Sonesta Hotel for an evening of celebrating chess in Saint Louis and around the world. 8:00 p.m. Intimate Evening Program with Co-Hosts Amy Marxkors &amp; Debbie Monterrey<br /> 8:00 p.m. Silent Auction Closes<br /> 8:30 p.m. Live Auction with Rene Knott </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2021-strategy-across-board-gala",
-         "pubDate" : "Sat, 04 Dec 2021 04:11:09 +0000",
-         "title" : "2021 Strategy Across the Board: The Gala"
       },
       {
          "description" : "Lasting just two and a half hours, game seven of the 2021 FIDE World Chess Championship was the fastest draw in the match so far. GM Magnus Carlsen repeated his 8...Rb8 line against GM Ian Nepomniachtchi&#39;s 8.a4 Anti-Marshall and quickly equalized ...",
