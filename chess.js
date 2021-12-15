@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Magnus Carlsen, the World Chess Champion who just successfully defended his title for the 4th time, said that he might quit the world chess championship cycle altogether and not participate in the next Match. Apparently, it has become too boring. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6BBBDD9F-270F-44C1-A5EF-5264E4D0563F.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen during the 2018 World Chess Championship in London. Photo: World Chess</div> </div> Carlsen cited severe lack of motivation as a reason for considering leaving the cycle. According to the interview in the <a href=\"https://www.vg.no/spo",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/what-happens-if-carlsen-quits-the-championship-cycle/",
+         "pubDate" : "Wed, 15 Dec 2021 07:29:12 +0000",
+         "title" : "What Happens If Carlsen Quits the Championship Cycle"
+      },
+      {
+         "description" : "The 2021 Speed Chess Championship, organized by chess.com, is coming to an end. During this week, the two semifinals decide who gets to play in Sunday's final match, in which the contenders will be fighting for a prize fund of $20,000. In the first semi, played on Monday, Wesley So edged Nihal Sarin, who came from knocking out Alexander Grischuk and Richard Rapport.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-championship-2021-semifinal-1",
+         "pubDate" : "Wed, 15 Dec 2021 08:00:00 +0100",
+         "title" : "So beats Nihal to reach Speed Chess Championship final"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at wild chess puzzles! The mysterious masked Caleb will even look at a puzzle with a 500+ move solution! 2021.12.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/incredibly-long-puzzles-and-other-fun-puzzles-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/He6h9_XNBt0.jpg?itok=g5vZYLjM\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/incredibly-long-puzzles-and-other-fun-puzzles-road-2000-nm-caleb-denby",
          "pubDate" : "Wed, 15 Dec 2021 04:22:31 +0000",
          "title" : "Incredibly Long Puzzles (and other fun puzzles) | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88290029.cms\" />Newly-crowned double World Chess champion Magnus Carlsen says he's unlikely to defend his title unless he faces French-Iranian prodigy Alireza Firouzja.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-says-he-might-not-defend-his-world-chess-title/articleshow/88290029.cms",
+         "pubDate" : "Wed, 15 Dec 2021 09:09:30 +0530",
+         "title" : "Magnus Carlsen says he might not defend his world chess title"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at wild chess puzzles! The mysterious masked Caleb will even look at a puzzle with a 500+ move solution! 2021.12.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/incredibly-long-puzzles-and-other-fun-puzzles-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/He6h9_XNBt0.jpg?itok=g5vZYLjM\" alt=\"\" /></a></div>",
@@ -1466,14 +1490,6 @@ news_feed (
          "title" : "World Chess Championship Game 6: Magnus won!"
       },
       {
-         "description" : " <p class=\"lead\">Game 6 of the World Championship 2021 in Dubai is still going after 7 hours of intense fighting. The defending World Champion, Magnus Carlsen and the Challenger Ian Nepomniachtchi are giving the fight of their lives and just a while ago they reached move 125. This is officially the longest World Chess Championship game in history, beating the 124-move Game 5 of the 1978 Karpov-Korchnoi match! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51722695690_ca10f7151b_k-min.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Niki Riga</div> </div> After 136 moves and 7 hours 45 minutes the game ended in a resounding win for ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/record-breaking-the-longest-world-chess-championship-game-in-his/",
-         "pubDate" : "Fri, 03 Dec 2021 20:17:03 +0000",
-         "title" : "Record: The longest World Chess Championship Game in History"
-      },
-      {
          "description" : " Magnus Carlsen has taken the lead in the FIDE World Chess Championship by beating his challenger Ian Nepomniachtchi in a record breaking 136 move victory. Both players had winning chances in time trouble on the run up to move 40 but after that it was a master class from Carlsen on how to make the most of your chances. Carlsen deliberately extended the game to put maximum pressure on his opponent when he truly went for victory. Nepomniachtchi played well for long periods but mistakes on moves 31, 36, 38 and a particularly careless one on move 52 contributed to this loss. Nepomniachtchi's fatal error came as late as move 130 by that stage his task was extremely hard - especially with the fati",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1832,14 +1848,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1456",
          "pubDate" : "Wed, 01 Dec 2021 12:24:39 +0000",
          "title" : "Velammal Nexus School wins the World School Chess Tournament at Expo 2020"
-      },
-      {
-         "description" : "He is the FIDE World Chess Champion of 2004, and has been the main second of World Champion Viswanathan Anand, during Anand's successful title defences in 2008, 2010 and 2012. He has coached the German national team, became the trainer of World Champion challengers Sergey Karjakin and Fabiano Caruana. Now you can win a private session with Rustam. Just submit a brilliant game you've recently played against the computer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/win-a-private-training-session-with-rustam-kasimdzhanov-2",
-         "pubDate" : "Wed, 01 Dec 2021 12:22:58 +0100",
-         "title" : "Win a private training session with Rustam Kasimdzhanov!"
       },
       {
          "description" : "Last year you could open 24 calendar doors and guess the Fritztrainer correctly. This year it's all about magical endgames. Thanks to our endgame expert GM Dr. Karsten M&uuml;ller, we have put together a potpourri of endgame riddles for you. If you can find the right answer, you automatically enter a raffle with plenty of prizes to be won. Among them, our big Christmas surprise packages!",
