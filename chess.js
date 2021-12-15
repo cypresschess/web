@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, Merijn van Delft takes a looks at a theoretically interesting King's Indian, played by Boris Gelfand and Gawain Jones at the London Chess Classic 2021. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-494-b-gelfand-vs-g-jones",
+         "pubDate" : "Wed, 15 Dec 2021 19:00:00 +0100",
+         "title" : "Game of the Week #494: B. Gelfand vs G. Jones"
+      },
+      {
+         "description" : "With a victory in the final round, GM Jose Martinez won Titled Tuesday on December 14 with a score of 10/11. Coming in second place was last week&#39;s victor, GM Jeffery Xiong, with 9.5/11. GM Alexey Sarana and NM Valery Sviridov had the best tiebrea...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martinez-wins-december-14-titled-tuesday",
+         "pubDate" : "Wed, 15 Dec 2021 09:10:00 -0800",
+         "title" : "Martinez Wins December 14 Titled Tuesday"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her first hour on the Najdorf, the Cadillac of chess openings. 2021.12.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-najdorf-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-sicilian-najdorf-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Wed, 15 Dec 2021 16:23:16 +0000",
+         "title" : "Play the Sicilian: Najdorf | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
          "description" : "The new ChessBase Magazine Extra #204 offers a collection top games with top annotations, including analyses by Anish Giri, Peter Heine Nielsen and Romain Edouard. Christian Bauer and Mihail Marin provide the two opening videos in this issue. The Scandinavian expert from France presents various ways of avoiding an extremely critical variation with Black in the system with 3&hellip;Qa5. Mihail Marin's video claims that \"The Catalan is still alive!\", which he illustrates with the game Daniel Deac - Lucas van Foreest from the 2021 European Championship. Watch an excerpt from both videos!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,7 +122,7 @@ news_feed (
          "title" : "So beats Nihal to reach Speed Chess Championship final"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at wild chess puzzles! The mysterious masked Caleb will even look at a puzzle with a 500+ move solution! 2021.12.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/incredibly-long-puzzles-and-other-fun-puzzles-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/He6h9_XNBt0.jpg?itok=g5vZYLjM\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at wild chess puzzles! The mysterious masked Caleb will even look at a puzzle with a 500+ move solution! Plus, see incredibly long self-mate compositions, where you must force the opponent to checkmate you! 2021.12.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/incredibly-long-puzzles-and-other-fun-puzzles-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/incredibly-long-puzzles-and-other-fun-puzzles-road-2000-nm-caleb-denby",
@@ -122,7 +146,7 @@ news_feed (
          "title" : "Incredibly Long Puzzles (and other fun puzzles) | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov teaches a chess endgame class. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/capablanca-converts-extra-exchange-insane-endgame-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VpMT0LBSJC0.jpg?itok=oNNMfdoz\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov talks about the advantage of a rook over a bishop or knight. As Jose Raul Capablanca first noted, the player with the rook can always convert to a win. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/capablanca-converts-extra-exchange-insane-endgame-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VpMT0LBSJC0.jpg?itok=oNNMfdoz\" alt=\"",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/capablanca-converts-extra-exchange-insane-endgame-gm-alex-shabalov",
@@ -1010,14 +1034,6 @@ news_feed (
          "title" : "Nepo blunders again, Magnus up by 3 points"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov teaches a chess endgame class focusing on fortresses to defend against queen attacks. Specifically, see the Pendulum defense. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-let-her-queen-vs-fortress-insane-endgame-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_RqnOC6wQyY.jpg?itok=leABrece\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dont-let-her-queen-vs-fortress-insane-endgame-gm-alex-shabalov",
-         "pubDate" : "Wed, 08 Dec 2021 01:15:19 +0000",
-         "title" : "Don't Let Her In! Queen vs. Fortress | Insane in the Endgame - GM Alex Shabalov"
-      },
-      {
          "description" : "With what was the quickest draw in the match so far, GM Magnus Carlsen consolidated his three-point lead in the 2021 FIDE World Chess Championship&#38;nbsp;on Wednesday. After a bit more than two hours, the world champion split the point with challeng...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1050,7 +1066,7 @@ news_feed (
          "title" : "Ignore at Your Peril (3)"
       },
       {
-         "description" : "Are you looking for yet another way to have fun playing on Chess.com!? Then today is your lucky day, because we are glad to announce a new feature:&#38;nbsp;Leagues are coming on December 13! Earn trophies just by playing games the way you normally do...",
+         "description" : "Are you looking for yet another way to have fun playing on Chess.com!? Then today is your lucky day, because we are glad to announce a new feature:&#38;nbsp;Leagues are coming on [UPDATED] December 13 15! Earn trophies just by playing games the way yo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-releases-leagues",
@@ -1850,14 +1866,6 @@ news_feed (
          "title" : "FIDE World Championship Dubai 2021: More than meets the eye"
       },
       {
-         "description" : "For the first time at the World Championship match in Dubai, Ian Nepomniachtchi clearly won the opening battle against Magnus Carlsen. The Russian missed a couple of chances to put his opponent under more pressure, which led to a fifth draw in the 14-game duel. The contenders will get a second rest day on Thursday. | Photo: Anastasiya Karlovich",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-g5",
-         "pubDate" : "Wed, 01 Dec 2021 19:10:00 +0100",
-         "title" : "World Championship Game 5: Not forceful enough"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1976,14 +1984,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-caruana-mvl",
          "pubDate" : "Mon, 29 Nov 2021 18:11:00 -0800",
          "title" : "Speed Chess Championship: Caruana Upsets MVL, Meets So In Quarterfinals"
-      },
-      {
-         "description" : "Chess.com is excited to announce the release of our newest feature for members: Insights. This new tool analyzes your games deeply and shows you where your best performances are and where you could improve. As ancient Greek wisdom states, knowing...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-releases-new-insights-feature",
-         "pubDate" : "Mon, 29 Nov 2021 13:12:00 -0800",
-         "title" : "Chess.com Releases Insights"
       },
       {
          "description" : "\"The difference between not the best arbiter and a good one,\" IA Tomasz Delega writes, in the October issue of the ECU E-magazine, \"is that the first one knows the rules and the second one understands also, what these rules are for.\" He explains the situation using the example of the three-fold draw claim: how must this be correctly handled?",
@@ -2280,14 +2280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1447",
          "pubDate" : "Wed, 24 Nov 2021 20:50:50 +0000",
          "title" : "Mariano Ortega clinches his second title of Cape Verde Champion"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1446",
-         "pubDate" : "Wed, 24 Nov 2021 17:34:36 +0000",
-         "title" : "FIDE World Championship Dubai 2021: The first skirmish"
       }
    ]
 }
