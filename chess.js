@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov teaches a chess endgame class. 2021.12.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/capablanca-converts-extra-exchange-insane-endgame-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VpMT0LBSJC0.jpg?itok=oNNMfdoz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/capablanca-converts-extra-exchange-insane-endgame-gm-alex-shabalov",
+         "pubDate" : "Tue, 14 Dec 2021 22:22:22 +0000",
+         "title" : "Capablanca Converts the Extra Exchange | Insane in the Endgame - GM Alex Shabalov"
+      },
+      {
+         "description" : "From the 1970s to the 1990s Jan Timman, born in Amsterdam on 14 December 1951, was one of the world's best players. He qualified several times for the candidates and in 1993 he became FIDE Vice World Champion. Timman is also a renowned study composer and a prolific and excellent writer. Today, the Dutch Grandmaster celebrates his 70th birthday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jan-timman-celebrates-70th-birthday",
+         "pubDate" : "Tue, 14 Dec 2021 22:00:00 +0100",
+         "title" : "Jan Timman celebrates 70th birthday"
+      },
+      {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent briefly talks about the World Championships but concentrates on the English Rapidplay Championship 2021 - where Lawrence played himself. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-6",
+         "pubDate" : "Tue, 14 Dec 2021 19:00:00 +0100",
+         "title" : "The Weekly Show"
+      },
+      {
+         "description" : "Peter Heine Nielsen has been Magnus Carlsen's head coach and second since 2013, and in an in-depth interview with IM Sagar Shah the Danish grandmaster and ChessBase author has now revealed some background on Carlsen's World Championship match against Ian Nepomniachtchi: Nielsen reviews the critical moments of all eleven games, discusses what makes a good coach and talks about the upcoming World Championship cycle and Alireza Firouzja's chances in it. | Photo: Hartmut Metz | Archiv",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-s-coach-peter-heine-nielsen-talks-about-the-carlsen-vs-nepomniachtchi-match",
+         "pubDate" : "Tue, 14 Dec 2021 18:00:00 +0100",
+         "title" : "Carlsen's coach Peter Heine Nielsen talks about the Carlsen vs Nepomniachtchi match"
+      },
+      {
          "description" : "FM Mike Klein, Chess.com&#39;s onsite correspondent at the 2021 FIDE World Championship and the Chief Chess Officer of ChessKid, caught up with GM Ian Nepomniachtchi for an interview a couple of days after the match with GM Magnus Carlsen. Feel free t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1826,30 +1858,6 @@ news_feed (
          "title" : "December FIDE Ratings: Firouzja No. 2, Aronian U.S., Nakamura Off The List"
       },
       {
-         "description" : "Start the new year well-prepared. In the updated Mega Database 2022 you will now find over 9.2 million games, from the first recorded games in the history of chess to games played in October 2022. The Mega is chess history and contains almost all top games ever played, many of them annotated by top players of the past and of today. The huge database is an invaluable tool to prepare for your opponents, to study chess and to enjoy chess!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-mega-database-2022",
-         "pubDate" : "Wed, 01 Dec 2021 11:04:13 +0100",
-         "title" : "New: Mega DataBase 2022"
-      },
-      {
-         "description" : "On first sight, game 4 of the World Championship match between Magnus Carlsen and Ian Nepomniachtchi does not seem to be particularly spectacular. Nepomniachtchi went for the Petroff and appeared to be well prepared for Carlsen's novelty 18.Nh4 and after 33 moves the game ended with a repetition and a draw. But as English Grandmaster Luke McShane points out in his analysis, the game contained a lot of hidden tactical possibilities.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-game-4-annotated-by-luke-mcshane",
-         "pubDate" : "Wed, 01 Dec 2021 09:35:23 +0100",
-         "title" : "World Championship: Game 4 annotated by Luke McShane"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent talks about the World Championship match between Magnus Carlsen and Ian Nepomniachtchi and takes a look at game 4 of the match. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-5",
-         "pubDate" : "Tue, 30 Nov 2021 23:00:00 +0100",
-         "title" : "The Weekly Show"
-      },
-      {
          "description" : "Going into the second rest day, the FIDE World Chess Championship is still tied as GM Ian Nepomniachtchi and&#38;nbsp;GM Magnus Carlsen also drew their fifth game on Wednesday. The challenger got a slight endgame advantage in another Anti-Marshall, bu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1904,14 +1912,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-caruana-mvl",
          "pubDate" : "Mon, 29 Nov 2021 18:11:00 -0800",
          "title" : "Speed Chess Championship: Caruana Upsets MVL, Meets So In Quarterfinals"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Expert Arjun Puri is back with a dozen more chess items. See twelve of the best Paul Morphy games ever, even those played with piece odds. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/12-paul-morphys-greatest-games-dynamic-dozen\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JacfGVSCRzQ.jpg?itok=aqtVkd2B\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/12-paul-morphys-greatest-games-dynamic-dozen",
-         "pubDate" : "Tue, 30 Nov 2021 01:03:10 +0000",
-         "title" : "12 of Paul Morphy's Greatest Games! | The Dynamic Dozen"
       },
       {
          "description" : "Chess.com is excited to announce the release of our newest feature for members: Insights. This new tool analyzes your games deeply and shows you where your best performances are and where you could improve. As ancient Greek wisdom states, knowing...",
