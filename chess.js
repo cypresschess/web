@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new ChessBase Magazine Extra #204 offers a collection top games with top annotations, including analyses by Anish Giri, Peter Heine Nielsen and Romain Edouard. Christian Bauer and Mihail Marin provide the two opening videos in this issue. The Scandinavian expert from France presents various ways of avoiding an extremely critical variation with Black in the system with 3&hellip;Qa5. Mihail Marin's video claims that \"The Catalan is still alive!\", which he illustrates with the game Daniel Deac - Lucas van Foreest from the 2021 European Championship. Watch an excerpt from both videos!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/scandinavian-evasive-manoeuvres-and-a-catalan-booster",
+         "pubDate" : "Wed, 15 Dec 2021 16:00:00 +0100",
+         "title" : "Evasive manoeuvres in the Scandinavian and a Catalan booster"
+      },
+      {
+         "description" : "The 2021 European Rapid&#38;Blitz Chess Championships 2021 kick off on Friday, 17th of December in Katowice, Poland. The first event on the schedule will be the European Blitz Chess Championship 2021 which will be held on 17th of December. The event will be played in 11 double rounds, Swiss system, with time control 3 min + 2 sec.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-rapidblitz-chess-championships-2021-start-in-katowice/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-rapidblitz-chess-championships-2021-start-in-katowice/",
+         "pubDate" : "Wed, 15 Dec 2021 14:10:38 +0000",
+         "title" : "European Rapid&Blitz Chess Championships 2021 start in Katowice"
+      },
+      {
+         "description" : "The third season of the Collegiate Chess League has finally come to an end, and a new team has earned the Division 1 championship title along with $5,000 of the $25,000 prize pool. The Finals Weekend was the most dramatic finish yet with prize mon...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-3-review",
+         "pubDate" : "Wed, 15 Dec 2021 05:49:00 -0800",
+         "title" : "Collegiate Chess League: A Wonderful Finish"
+      },
+      {
+         "description" : " GM Ian Rogers new book \"Oops! I Resigned Again!\" is out, just in time for Xmas. Looking at games where players didn't need to resign, but did, the book mixes a puzzle format with entertaining stories behind each position. Each chapter (of 5 positions each) is based around a theme, including \"Oops! I thought pawn endings were easy!\" or \"Oops! You played like a World Champion!\". In position shows an incorrect resignation, either in the diagram, or after a few moves, and then the reader is asked to identify the correct continuation. While I found the first few answer quite quickly, I did notice they got harder the further I went through the book. What makes this book truly good value is the st",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/oops-i-resigned-again.html",
+         "pubDate" : "Wed, 15 Dec 2021 13:37:00 +0000",
+         "title" : "Oops! I Resigned Again"
+      },
+      {
          "description" : "After Magnus Carlsen convincingly won the World Championship match 7.5-3.5 against challenger Ian Nepomniachtchi, the old and new World Champion seems to be tired of defending his title. In a Norwegian podcast interview with his friend Magnus Barstad, Carlsen indicated that he lacked the motivation to defend his title again. Unless the next challenger would be Alireza Firouzja. | Photo: FIDE | Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1826,14 +1858,6 @@ news_feed (
          "title" : "World Championship Game 5: Not forceful enough"
       },
       {
-         "description" : "This week, Merijn van Delft takes a look at a game from the Dutch Championship, in which Max Warmerdam outplayed his opponent Hing Ting Lai convincingly. Warmerdam is not only a strong player, but he also worked as a second for Jorden Van Foreest at the Wijk aan Zee tournament 2021, and helped Van Foreest to surprisingly win this prestigious event. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-492-max-warmerdam-vs-hing-ting-lai",
-         "pubDate" : "Wed, 01 Dec 2021 19:00:00 +0100",
-         "title" : "Game of the Week #492: Max Warmerdam vs Hing Ting Lai"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2008,14 +2032,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/28/world-championship-bonus-pod-1-the-match-so-far-interviews-from-dubai-with-geert-van-der-velde-and-jonathan-corbblah",
          "pubDate" : "Mon, 29 Nov 2021 03:53:59 +0000",
          "title" : "World Championship Bonus Pod #1- The match so far, + interviews from Dubai with Geert van der Velde and Jonathan Corbblah "
-      },
-      {
-         "description" : "The score in the FIDE World Chess Championship is 2-2 after a fourth draw between GM Magnus Carlsen and GM Ian Nepomniachtchi on Tuesday. Did the challenger shut down Carlsen&#39;s 1.e4 in this match? It&#39;s too early to tell, but his preparation and ac...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-4",
-         "pubDate" : "Sun, 28 Nov 2021 14:23:00 -0800",
-         "title" : "Nepo Holds Carlsen With Petroff In Game 4 FIDE World Chess Championship"
       },
       {
          "description" : "",
@@ -2272,14 +2288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1446",
          "pubDate" : "Wed, 24 Nov 2021 17:34:36 +0000",
          "title" : "FIDE World Championship Dubai 2021: The first skirmish"
-      },
-      {
-         "description" : " One of my pet peeves as an arbiter is when players offer a draw by putting out their hand. This happens a lot in junior events and is often done by players in a losing position to try and save half a point (when the opponent isn't sure what happens and shakes the hand thinking it is a resignation). Such incidents almost always end in tears, which is another peeve of mine (there is no crying in chess). The most recent occurrence of this problem happened the other night at my local club. The game between an older and very experimented player and a young junior player ended in a draw, at least according to the junior player. But the result on the computer showed a win for the opponent, so in m",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/i-accept-your-offer-of-resignation.html",
-         "pubDate" : "Wed, 24 Nov 2021 13:16:00 +0000",
-         "title" : "I accept your offer of a resignation"
       }
    ]
 }
