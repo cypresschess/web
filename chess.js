@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After Magnus Carlsen convincingly won the World Championship match 7.5-3.5 against challenger Ian Nepomniachtchi, the old and new World Champion seems to be tired of defending his title. In a Norwegian podcast interview with his friend Magnus Barstad, Carlsen indicated that he lacked the motivation to defend his title again. Unless the next challenger would be Alireza Firouzja. | Photo: FIDE | Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/no-more-world-championship-matches-for-carlsen",
+         "pubDate" : "Wed, 15 Dec 2021 12:54:56 +0100",
+         "title" : "No more World Championship matches for Carlsen?"
+      },
+      {
+         "description" : "Were you able to force \"Stamma's\" mate with the knight yesterday? It only works if the king goes to the square f3. The rest should be easy. Now it's getting more difficult again! Today, it looks like you can give up immediately. But the riddle will end in a draw if the right move is found for Black.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-15345",
+         "pubDate" : "Wed, 15 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 15"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1481",
+         "pubDate" : "Wed, 15 Dec 2021 10:41:53 +0000",
+         "title" : "Greek Championship: Athanasios Mastrovasilis and Charitomeni Markantonaki win titles"
+      },
+      {
+         "description" : "The London Junior Championship Finals have moved online with extra options to qualify at U8, U10 and U12 levels. Tickets available at Eventbrite London...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ljcc-moves-online/",
+         "pubDate" : "Wed, 15 Dec 2021 08:53:18 +0000",
+         "title" : "LJCC moves online"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1480",
+         "pubDate" : "Wed, 15 Dec 2021 08:39:37 +0000",
+         "title" : "Registration for FIDE World Rapid & Blitz Championships 2021 is now open"
+      },
+      {
+         "description" : "It is with great regret that the Chairman, sponsors Caplin Systems and Hastings Borough Council, and the organisers of the Caplin 96th Hastings International Chess...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/hastings-cancellation-notice/",
+         "pubDate" : "Wed, 15 Dec 2021 08:37:37 +0000",
+         "title" : "Hastings - cancellation notice"
+      },
+      {
          "description" : " <p class=\"lead\">Magnus Carlsen, the World Chess Champion who just successfully defended his title for the 4th time, said that he might quit the world chess championship cycle altogether and not participate in the next Match. Apparently, it has become too boring. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6BBBDD9F-270F-44C1-A5EF-5264E4D0563F.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen during the 2018 World Chess Championship in London. Photo: World Chess</div> </div> Carlsen cited severe lack of motivation as a reason for considering leaving the cycle. According to the interview in the <a href=\"https://www.vg.no/spo",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1794,28 +1842,12 @@ news_feed (
          "title" : "Alireza Firouzja surpasses 2800-mark in December rating list"
       },
       {
-         "description" : "With Alireza Firouzja, the chess world now has a new number two behind Magnus Carlsen. On the new World Ranking from December 2021, which the FIDE just published, the 18-year-old, who was born in Iran but is living in France, is ahead of Ding Liren and Fabiano Caruana.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-new-fide-world-ranking-list-december-2021",
-         "pubDate" : "Wed, 01 Dec 2021 16:00:00 +0100",
-         "title" : "The new FIDE World Ranking List: December 2021"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1459",
          "pubDate" : "Wed, 01 Dec 2021 14:28:22 +0000",
          "title" : "FIDE Chessable Camp at EXPO 2020 Dubai: Days 1-3 recap"
-      },
-      {
-         "description" : "The State Cup for Teams is the biggest annual event in Israel. In 2020, Corona forced it to take a break, but this year it was played again, on Friday, 26 November 2021. The venue was the beautiful Educational Campus Beit Shmuel (pictured) in Jerusalem and the team of Be'er Sheva won the event. | Photos: Ofri Barnea",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/be-er-sheva-wins-the-israeli-cup",
-         "pubDate" : "Wed, 01 Dec 2021 15:00:00 +0100",
-         "title" : "Be'er Sheva wins the Israeli Cup"
       },
       {
          "description" : " The fifth game of the FIDE World Chess Championship in Dubai was drawn in 41 moves. Ian Nepomniachtchi with the white pieces again played the Anti-Marshall with 8.a4. Carlsen deviated from game three with 8...Rb8. While it would be too strong to say Carlsen was in big trouble he was definitely the one under pressure and it was clear that Nepomniachtchi was very well prepared for Rb8. The key moment of the game seemed to be when Nepomniachtchi played 20.Red1 rather than the critical 20.c4 - Carlsen said that he felt after this \"the worst was over\". Nepomniachtchi seemed disappointed after the game but it does seem that he's getting chances with white so that's something to be happy about. Th",
@@ -2248,14 +2280,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/i-accept-your-offer-of-resignation.html",
          "pubDate" : "Wed, 24 Nov 2021 13:16:00 +0000",
          "title" : "I accept your offer of a resignation"
-      },
-      {
-         "description" : " Fully focusing on Chess for a year or two is a dream many Chess lovers have. In the past couple of months, I have gotten many questions as to how I would structure such a year. In this article, I will try to answer that question. Planning the year right will set you up for [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/a-year-full-of-chess/\">A Year Full Of Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/a-year-full-of-chess/",
-         "pubDate" : "Wed, 24 Nov 2021 11:40:50 +0000",
-         "title" : "A Year Full Of Chess"
       }
    ]
 }
