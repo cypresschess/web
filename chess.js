@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, well-known Dutch trainer Robert Ris looks at a promising line that White may try against the Pirc. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-fascinating-concept-for-white-in-the-pirc-austrian-attack",
+         "pubDate" : "Thu, 16 Dec 2021 21:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A fascinating concept for White in the Pirc Austrian Attack"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov teaches a chess class on a topic of his choice. 2021.12.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nFVeGLEWoiY.jpg?itok=2eCrfWFj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-alex-shabalov",
+         "pubDate" : "Thu, 16 Dec 2021 19:24:20 +0000",
+         "title" : "Grandmaster's Choice - GM Alex Shabalov"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1483",
+         "pubDate" : "Thu, 16 Dec 2021 18:36:08 +0000",
+         "title" : "FIDE Vice-President Anastasia Sorokina pays working visit to France"
+      },
+      {
+         "description" : "Another season of Chess.com&#39;s premier streaming event, Arena Kings, is in the books. Season 8 concluded on Wednesday, December 15, with GM Hikaru Nakamura (@Hikaru) winning the Championship Final and earning the $4,000 prize for first place. Nakam...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arena-kings-season-8-recap-nakamura",
+         "pubDate" : "Thu, 16 Dec 2021 09:53:45 -0800",
+         "title" : "Arena Kings Season 8 Recap: Nakamura Wins Championship Final"
+      },
+      {
          "description" : "For the past eighteen years the Gibraltar International Chess Festival has been held in the Caleta Hotel. But the organisers have found an ideal replacement: Gibraltar's historic Garrison Library. The 2022 event, #GibChess, is entitled \"Battle of the Sexes Match-Tournament\" and takes place from Monday 24 January until Thursday 3 February 2022.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-rapid-and-blitz-2021-preview",
          "pubDate" : "Thu, 16 Dec 2021 15:20:00 +0100",
          "title" : "Preview: European Rapid and Blitz Championships"
+      },
+      {
+         "description" : "The Holiday bots are back by popular demand! It&#39;s the end of the year and we can already enjoy that warm feeling that only the Holiday season can bring. To celebrate these splendid times, we called our five Holiday bots back to brighten your days ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-holiday-bots",
+         "pubDate" : "Thu, 16 Dec 2021 05:42:00 -0800",
+         "title" : "The Holiday Bots Are Back!"
       },
       {
          "description" : " Of my many bad habits at chess, ignoring my king safety is one of the major ones. It possibly stems from my early study in chess, where I could understand why a material advantage was important (just count on your fingers), but more abstract topics such as long term weaknesses did not stand out as much. Why method of dealing it with then, was to try and get my attack in first. It turns out that I haven't moved on from this approach as much as I would like, as the following game shows. <b>Braguine,Victor - Press,Shaun [A26]</b><br />Xmas Rapid (5), 14.12.2021 <script>new PgnViewer( { boardName: \"game1296\", movesFormat: \"default\", pgnString:'1.c4 e5 2.g3 g6 3.Bg2 Bg7 4.Nc3 Nc6 5.e4 d6 6.Nge2 ",
@@ -938,14 +978,6 @@ news_feed (
          "title" : "World Championship: Game 10 annotated by Wesley So"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her second hour on the Scheveningen. 2021.12.08<br /> Dorsa Derakhshani vs. Benjamin Bok, 2015: B90 Sicilian, Najdorf, Byrne (English) attack<br /> Derakhshani vs. Daria Voit, 2015: B90 Sicilian, Najdorf, Byrne (English) attack<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3935823\">https://www.365chess.com/game.php?back=1&amp;gid=3935823</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-sicilian-more-scheveningen-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 09 Dec 2021 04:16:48 +0000",
-         "title" : "Play the Sicilian: More Scheveningen | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/5ad646a3-a235-41cc-87f0-74642acc84a2/Jacob.Lucy2.jpg\" data-image-dimensions=\"334x384\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61b15c496f0e5c7ef3e4a4c1\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/5ad646a3-a235-41cc-87f0-74642acc84a2/Jacob.Lucy2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">GM Jacob Aagaard and Lucy </figcaption> </figure> <figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-im",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -1794,14 +1826,6 @@ news_feed (
          "title" : "Speed Chess Championship: Nihal Dominates Against Rapport, Advances To SF"
       },
       {
-         "description" : "You are looking for an active answer to 1.d4? Then the Gr&uuml;nfeld Indian is an excellent choice! Not by chance this opening is one of the main weapons of some top grandmasters: with active play and emphasis on tactics, Black counters White's strong centre, immediately facing him with concrete problems.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-markus-ragger-power-openings-gruenfeld-defence-volume-1-and-2",
-         "pubDate" : "Thu, 02 Dec 2021 22:00:00 +0100",
-         "title" : "New: Markus Ragger: Power openings: Gr&uuml;nfeld Defence Volume 1 and 2"
-      },
-      {
          "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 5 Match Score: 2&frac12;-2&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 5 Wednesday, 1 December 2021 A fifth draw the jokes and memes start to roll in When Dutch Grandmaster Anish Giri went on a run of draws in elite chess, some people started to [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/02/2021-world-chess-championship-game-5/\">2021 World Chess Championship: Game #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1946,14 +1970,6 @@ news_feed (
          "title" : "December FIDE Ratings: Firouzja No. 2, Aronian U.S., Nakamura Off The List"
       },
       {
-         "description" : "Going into the second rest day, the FIDE World Chess Championship is still tied as GM Ian Nepomniachtchi and&#38;nbsp;GM Magnus Carlsen also drew their fifth game on Wednesday. The challenger got a slight endgame advantage in another Anti-Marshall, bu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-5",
-         "pubDate" : "Tue, 30 Nov 2021 13:15:00 -0800",
-         "title" : "Carlsen Defends Passively To Draw Game 5 FIDE World Chess Championship"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1992,14 +2008,6 @@ news_feed (
          "link" : "https://chessimprover.com/ignore-at-your-peril-2/",
          "pubDate" : "Tue, 30 Nov 2021 09:30:11 +0000",
          "title" : "Ignore at Your Peril (2)"
-      },
-      {
-         "description" : "GM Fabiano Caruana beat GM Maxime Vachier-Lagrave with a score of 13.5-12.5 in the last match of the first round of the 2021 Speed Chess Championship Main Event. He will face&#38;nbsp;GM Wesley So in the quarterfinal match, which starts on Thursday, D...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-caruana-mvl",
-         "pubDate" : "Mon, 29 Nov 2021 18:11:00 -0800",
-         "title" : "Speed Chess Championship: Caruana Upsets MVL, Meets So In Quarterfinals"
       },
       {
          "description" : "\"The difference between not the best arbiter and a good one,\" IA Tomasz Delega writes, in the October issue of the ECU E-magazine, \"is that the first one knows the rules and the second one understands also, what these rules are for.\" He explains the situation using the example of the three-fold draw claim: how must this be correctly handled?",
@@ -2248,14 +2256,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/11/26/the-exchange-french-comes-to-life-fresh-strategies-to-play-for-a-win/",
          "pubDate" : "Fri, 26 Nov 2021 00:10:37 +0000",
          "title" : "The Exchange French Comes to Life: Fresh Strategies to Play for a Win"
-      },
-      {
-         "description" : " The FIDE World Chess Championship took place in Dubai, UAE, 24th November (opening ceremony - game 1 on 26th Nov) until 10th December. The match was between World Champion Magnus Carlsen and his Challenger Ian Nepomniachtchi. The match was over 14 games rather than the recent 12 and used an accelerated schedule to accommodate this. As it was Carlsen only needed 11 of the 14 games to win the match 7.5-3.5. The match was very closely contested until the marathon game 6 after which Nepomniachtchi lost a further three games.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021",
-         "pubDate" : "Thu, 25 Nov 2021 20:41:00 +0400",
-         "title" : "World Chess Championship 2021 - Games and Results"
       }
    ]
 }
