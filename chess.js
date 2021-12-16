@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In 1865 Gustav Neumann (15 December 1838 - 16 February 1881) scored 34 points from 34 games in the club tournament of the \"Berliner Schachgesellschaft\", the Berlin Chess Society. Neumann had not yet played a single international tournament at that time, but he was one of the leading players in Germany and thus one of the leading players in the world. Neumann's opponents in this club tournament were not particularly strong, but to win 34 games without losing or drawing shows ambition and the will to win. Neumann had both.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/34-out-of-34-remembering-gustav-neumann",
+         "pubDate" : "Thu, 16 Dec 2021 12:24:05 +0100",
+         "title" : "34 out of 34: Remembering Gustav Neumann"
+      },
+      {
+         "description" : "So many people knew very well that yesterday the Centurini draw position was on the board, and it could only be achieved with the cunning move B. Kf4. Bravo! On Day 16 Anand and Radjabov duel, but what move did the Indian grandmaster make in this game, and what is the \"queen and knight attacking duo\" called against \"queen and bishop\"?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-1663",
+         "pubDate" : "Thu, 16 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 16"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1482",
+         "pubDate" : "Thu, 16 Dec 2021 10:04:14 +0000",
+         "title" : "FIDE Congress 2021 schedule announced"
+      },
+      {
+         "description" : "On Monday, the 8th Sunway Sitges Open began near Barcelona. 31 players in the strong field have an Elo-rating of more than 2500, but Anton Korobov (pictured), the winner of 2019, is top seed and again among the favourites. He started the tournament with three wins - as did 18 other players. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-open-19-players-start-with-3-0-3",
+         "pubDate" : "Thu, 16 Dec 2021 10:16:08 +0100",
+         "title" : "Sunway Sitges Open: 19 players start with 3.0/3"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her first hour on the Najdorf, the Cadillac (or enchilada) of chess openings. 2021.12.15<br /> Dorsa Derakhshani vs. Robby Kevlishvili, 2015: B93 Sicilian, Najdorf, 6.f4<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3968651\">https://www.365chess.com/game.php?back=1&amp;gid=3968651</a><br /> B87 Sicilian, Sozin with ...a6 and ...b5 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1786,28 +1818,12 @@ news_feed (
          "title" : "2022 FIDE Grand Prix To Start February 3"
       },
       {
-         "description" : "One of the most refined and inconspicuous ways to gain an advantage and to win is the art of exchanging pieces. Most club players don't take exchanges too seriously. Sacrificing is brave, attacking is fun, but exchanging pieces is kind of boring, isn't it? Even cowardly. But knowing when to exchange and when not to exchange is a powerful strategic weapon. In part 2 of his \"Winning Academy\" series, Jan Markos shows why. | Photo: Wikipedia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-2-the-art-of-exchanging-heavy-pieces",
-         "pubDate" : "Thu, 02 Dec 2021 13:00:00 +0100",
-         "title" : "The Winning Academy 2: The Art of Exchanging Heavy Pieces"
-      },
-      {
          "description" : " Good Coaches help you improve. Great Coaches change the way you think about Chess. I was lucky enough to have some amazing Coaches during my Career. One of them was Grandmaster Iossif Dorfman. The name might ring a bell. Yes, I am talking of the Iossif Dorfman that assisted the great Garry Kasparov in his [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/what-i-learned-from-gm-iossif-dorfman/\">What I Learned From GM Iossif Dorfman</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/what-i-learned-from-gm-iossif-dorfman/",
          "pubDate" : "Thu, 02 Dec 2021 11:20:46 +0000",
          "title" : "What I Learned From GM Iossif Dorfman"
-      },
-      {
-         "description" : "The second day of our magical endgame calendar. Yesterday, you had to solve the famous endgame move by Shirov vs. Topalov. And of course, most of you knew the correct answer, and also mentioned the game. More of this, please! But we also had quite some participants answer with A. Be4, which won't do the trick. But no worries, you have 23 more tries. Today, we look at a famous check-mate in 18 moves. Luckily, you only need to know the first move to start this combo.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2",
-         "pubDate" : "Thu, 02 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 2"
       },
       {
          "description" : "AICF is happy to announce the National Calendar for the year 2022.Please find the link to get the Event details for 2022. Calender for the",
@@ -1840,14 +1856,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/1/world-championship-bonus-pod-2-fm-mike-klein-joins-from-dubai-to-recap-5-tense-deadlocked-rounds",
          "pubDate" : "Wed, 01 Dec 2021 21:45:35 +0000",
          "title" : "World Championship Bonus Pod #2- FM Mike Klein joins from Dubai to recap 5 tense, deadlocked rounds. "
-      },
-      {
-         "description" : "On Wednesday, Ian Nepomniachtchi got the white pieces for a third time in the World Championship match against Magnus Carlsen. The Russian got an advantage out of the opening but could not make the most of his chances. Super-GM Anish Giri annotates the game with instructive insights and pertinent variations. | Photo: Alina l'Ami",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-g5-expert-annotations",
-         "pubDate" : "Wed, 01 Dec 2021 22:30:00 +0100",
-         "title" : "World Championship: Game 5 annotated by Anish Giri"
       },
       {
          "description" : "There was a four-way tie at the top of the Titled Tuesday leaderboard on November 30, with NM Valery Sviridov winning on the tiebreak system. He was joined on 9.5/11 by GM Baadur Jobava in second place, FM Khazar Babazada in third, and GM Mustafa ...",
@@ -2256,22 +2264,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-championship-will-change-nepo-as-a-player-viswanathan-anand/articleshow/87914269.cms",
          "pubDate" : "Thu, 25 Nov 2021 18:51:37 +0530",
          "title" : "World championship will change Nepo as a player: Anand"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1448",
-         "pubDate" : "Thu, 25 Nov 2021 11:04:33 +0000",
-         "title" : "FIDE World Championship Dubai 2021: Catching up and final preparations"
-      },
-      {
-         "description" : "The FIDE World Championship Match between reigning World Chess Champion Magnus Carlsen and the challenger Ian Nepomniachtchi starts tomorrow at Dubai Exhibition Centre. The Match consists of 14 games, played with the time control of 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves and then 15 minutes for the rest&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-championship-match-preview-carlsen-vs-nepomniachtchi/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-world-championship-match-preview-carlsen-vs-nepomniachtchi/",
-         "pubDate" : "Thu, 25 Nov 2021 10:06:17 +0000",
-         "title" : "FIDE World Championship Match preview- Carlsen vs. Nepomniachtchi"
       }
    ]
 }
