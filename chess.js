@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her first hour on the Najdorf, the Cadillac (or enchilada) of chess openings. 2021.12.15<br /> Dorsa Derakhshani vs. Robby Kevlishvili, 2015: B93 Sicilian, Najdorf, 6.f4<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3968651\">https://www.365chess.com/game.php?back=1&amp;gid=3968651</a><br /> B87 Sicilian, Sozin with ...a6 and ...b5 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grand-enchilada-sicilian-najdorf-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 16 Dec 2021 04:23:57 +0000",
+         "title" : "The Grand Enchilada: Sicilian Najdorf | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her first hour on the Najdorf, the Cadillac of chess openings. 2021.12.15<br /> Dorsa Derakhshani vs. Robby Kevlishvili, 2015: B93 Sicilian, Najdorf, 6.f4<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3968651\">https://www.365chess.com/game.php?back=1&amp;gid=3968651</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -888,14 +896,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/8/world-championship-bonus-pod-4-gm-jacob-aagaard-on-the-match-plus-shaun-mccoy-with-a-report-from-dubai",
          "pubDate" : "Thu, 09 Dec 2021 01:34:18 +0000",
          "title" : "World Championship Bonus Pod #4- GM Jacob Aagaard on the match, plus Shaun McCoy with a report from Dubai "
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her second hour on the Scheveningen. 2021.12.08<br /> Dorsa Derakhshani vs. Benjamin Bok, 2015: B90 Sicilian, Najdorf, Byrne (English) attack<br /> Derakhshani vs. Daria Voit, 2015: B90 Sicilian, Najdorf, Byrne (English) attack<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3935823\">https://www.365chess.com/game.php?back=1&amp;gid=3935823</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-sicilian-more-scheveningen-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Thu, 09 Dec 2021 01:16:29 +0000",
-         "title" : "Play the Sicilian: More Scheveningen | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "GM Magnus Carlsen won the 2021 FIDE World Chess Championship on Friday after beating GM Ian Nepomniachtchi with the black pieces. The challenger made another big blunder and lost his fourth game in the match. The final score is 7.5-3.5 in favor of...",
