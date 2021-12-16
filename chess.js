@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her first hour on the Najdorf, the Cadillac of chess openings. 2021.12.15<br /> Dorsa Derakhshani vs. Robby Kevlishvili, 2015: B93 Sicilian, Najdorf, 6.f4<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3968651\">https://www.365chess.com/game.php?back=1&amp;gid=3968651</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grand-enchilada-sicilian-najdorf-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Thu, 16 Dec 2021 01:23:51 +0000",
+         "title" : "The Grand Enchilada: Sicilian Najdorf | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
          "description" : "This week, Merijn van Delft takes a looks at a theoretically interesting King's Indian, played by Boris Gelfand and Gawain Jones at the London Chess Classic 2021. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1008,14 +1016,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-10-of-the-match/",
          "pubDate" : "Wed, 08 Dec 2021 08:04:43 +0000",
          "title" : "Time To Say Dubai: Round 10 of the Match"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby demonstrates how Magnus Carlsen and Ian Nepomniachtchi took ideas from historical games to create Game 6 from their 2021 World Championship match: the longest game in world championship history! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-nepo-longest-world-championship-game-ever-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbna",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-nepo-longest-world-championship-game-ever-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 08 Dec 2021 07:15:32 +0000",
-         "title" : "Carlsen-Nepo: Longest World Championship Game Ever! | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 9 Match Score: 6-3 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 9 Tuesday, 7 December 2021 Nepo blunders piece Carlsen has a 3-point bulge Chess can be brutal at times. There is nothing that crushes the soul more than losing a completely winning position. Perhaps [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/08/2021-world-chess-championship-game-9/\">2021 World Chess Championship: Game 9</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
