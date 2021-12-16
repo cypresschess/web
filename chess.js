@@ -1066,7 +1066,7 @@ news_feed (
          "title" : "Ignore at Your Peril (3)"
       },
       {
-         "description" : "Are you looking for yet another way to have fun playing on Chess.com!? Then today is your lucky day, because we are glad to announce a new feature:&#38;nbsp;Leagues are coming on [UPDATED] December 13 15! Earn trophies just by playing games the way yo...",
+         "description" : "UPDATE: Due to some pending final updates, Leagues will launch on December 20. Thank you for your patience. Are you looking for yet another way to have fun playing on Chess.com!? Then today is your lucky day, because we are glad to announce a ne...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-releases-leagues",
@@ -2272,14 +2272,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-world-championship-match-preview-carlsen-vs-nepomniachtchi/",
          "pubDate" : "Thu, 25 Nov 2021 10:06:17 +0000",
          "title" : "FIDE World Championship Match preview- Carlsen vs. Nepomniachtchi"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1447",
-         "pubDate" : "Wed, 24 Nov 2021 20:50:50 +0000",
-         "title" : "Mariano Ortega clinches his second title of Cape Verde Champion"
       }
    ]
 }
