@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the past eighteen years the Gibraltar International Chess Festival has been held in the Caleta Hotel. But the organisers have found an ideal replacement: Gibraltar's historic Garrison Library. The 2022 event, #GibChess, is entitled \"Battle of the Sexes Match-Tournament\" and takes place from Monday 24 January until Thursday 3 February 2022.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-in-gibraltar",
+         "pubDate" : "Thu, 16 Dec 2021 16:00:00 +0100",
+         "title" : "Battle of the Sexes in Gibraltar"
+      },
+      {
+         "description" : "The European Rapid and Blitz Championships will take place on December 17-19 at the Spodek Sport and Entertainment Centre in Katowice, Poland. Local hero Jan-Krzysztof Duda heads the list of participants in the blitz section. The tournament serves as a warm-up for the World Rapid and Blitz Championships which will kick off a week later in Warsaw.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-rapid-and-blitz-2021-preview",
+         "pubDate" : "Thu, 16 Dec 2021 15:20:00 +0100",
+         "title" : "Preview: European Rapid and Blitz Championships"
+      },
+      {
+         "description" : " Of my many bad habits at chess, ignoring my king safety is one of the major ones. It possibly stems from my early study in chess, where I could understand why a material advantage was important (just count on your fingers), but more abstract topics such as long term weaknesses did not stand out as much. Why method of dealing it with then, was to try and get my attack in first. It turns out that I haven't moved on from this approach as much as I would like, as the following game shows. <b>Braguine,Victor - Press,Shaun [A26]</b><br />Xmas Rapid (5), 14.12.2021 <script>new PgnViewer( { boardName: \"game1296\", movesFormat: \"default\", pgnString:'1.c4 e5 2.g3 g6 3.Bg2 Bg7 4.Nc3 Nc6 5.e4 d6 6.Nge2 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/king-safety-v-king-safety.html",
+         "pubDate" : "Thu, 16 Dec 2021 13:03:00 +0000",
+         "title" : "King safety v king safety"
+      },
+      {
          "description" : "In 1865 Gustav Neumann (15 December 1838 - 16 February 1881) scored 34 points from 34 games in the club tournament of the \"Berliner Schachgesellschaft\", the Berlin Chess Society. Neumann had not yet played a single international tournament at that time, but he was one of the leading players in Germany and thus one of the leading players in the world. Neumann's opponents in this club tournament were not particularly strong, but to win 34 games without losing or drawing shows ambition and the will to win. Neumann had both.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1786,22 +1810,6 @@ news_feed (
          "title" : "2021 World Chess Championship: Game #5"
       },
       {
-         "description" : "This week, well-known Dutch trainer Robert Ris shows a game in which Black found a way to get a strong attack in the Ragozin variation (1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4). | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-attacking-with-the-ragozin",
-         "pubDate" : "Thu, 02 Dec 2021 19:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Attacking with the Ragozin"
-      },
-      {
-         "description" : "In the Endgame Magic Show #173 Karsten M&uuml;ller and Arne K&auml;hler do what most chess fans all over the world do these days: they take a look at the World Championship match between World Champion Magnus Carlsen and challenger Ian Nepomniachtchi in Dubai. Karsten and Arne were particularly intrigued by White's strong knight on d6 in game 2. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-173-carlsen-vs-nepomniachtchi-games-1-and-2",
-         "pubDate" : "Thu, 02 Dec 2021 17:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #173: Carlsen vs Nepomniachtchi, Games 1 and 2"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2248,22 +2256,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021",
          "pubDate" : "Thu, 25 Nov 2021 20:41:00 +0400",
          "title" : "World Chess Championship 2021 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87914561.cms\" />It's a tale reminiscent of \"The Queen's Gambit\" -- when defending champion Magnus Carlsen meets Russian Ian Nepomniachtchi at the world championships in Dubai they will renew a rivalry dating from when they were 12.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/nepomniachtchi-vs-carlsen-norwegian-cool-meets-russian-fire-in-world-chess-showdown/articleshow/87914561.cms",
-         "pubDate" : "Thu, 25 Nov 2021 19:08:51 +0530",
-         "title" : "Norwegian cool meets Russian fire in world chess showdown"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87914269.cms\" />The opening game of the much-awaited Magnus Carlsen-Ian Nepomniachtchi World championship clash will kick off in Dubai on Friday. The challenger --- Nepomniachtchi --- will have the white pieces in the first match.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-championship-will-change-nepo-as-a-player-viswanathan-anand/articleshow/87914269.cms",
-         "pubDate" : "Thu, 25 Nov 2021 18:51:37 +0530",
-         "title" : "World championship will change Nepo as a player: Anand"
       }
    ]
 }
