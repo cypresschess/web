@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess Festival Salamanca combines chess sport and chess culture and emphasises gender equality. Four top male and four top female players compete in a tournament. After three rounds, Jaime Santos is in the lead. | Photos: Tournament page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-as-sport-and-culture-the-chess-festival-in-salamanca",
+         "pubDate" : "Fri, 17 Dec 2021 12:28:25 +0100",
+         "title" : "Chess as sport and culture: The Chess Festival in Salamanca"
+      },
+      {
+         "description" : "In yesterday's door it was a matter of finding Anand's move. g5+! Queen and knight do the rest, as they are stronger here than queen and bishop. Today, the king has four moves to choose from. A tricky puzzle, and a clever idea.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-1732",
+         "pubDate" : "Fri, 17 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 17"
+      },
+      {
+         "description" : "Jon Edwards is a passionate chess player, a passionate chess teacher and one of the world's best correspondence players. He knows how important it is to study openings and to study them with the right tools. In the current issue of the \"American Chess Magazine\" Jon Edwards had a look at the ChessBase Opening Encyclopedia, a tool he uses \"every day\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/never-run-away-from-data-a-review-of-the-chessbase-opening-encyclopedia-2021",
+         "pubDate" : "Fri, 17 Dec 2021 11:00:00 +0100",
+         "title" : "\"Never run away from data!\" - A review of the ChessBase Opening Encyclopedia 2021"
+      },
+      {
+         "description" : "The European Rapid and Blitz Championships will take place on December 17-19 at the Spodek Sport and Entertainment Centre in Katowice, Poland. Local hero Jan-Krzysztof Duda (pictured) heads the list of participants in the blitz tournament which is played on 17 December. Follow the games live! | Photo: Duda at the World Cup 2021 | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-blitz-championship-live",
+         "pubDate" : "Fri, 17 Dec 2021 10:58:05 +0100",
+         "title" : "European Blitz Championship - Live!"
+      },
+      {
+         "description" : " Last week, we started our exploration of tactics. We worked through the basics of a specific tactic called the pin. The pin involves three pieces: the piece doing the pinning, the pinned piece, and the more valuable piece behind the pinned piece. There are two types of pins, the relative pin, in which a player <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-six/\">A Foundation for Beginners Forty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://chessi",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-six/",
+         "pubDate" : "Fri, 17 Dec 2021 09:54:54 +0000",
+         "title" : "A Foundation for Beginners Forty Six"
+      },
+      {
+         "description" : "In the last semifinal match of the 2021 Speed Chess Championship Main Event, GM Hikaru Nakamura defeated GM Ding Liren in the culminating Armageddon game after an unforgettable, back-and-forth, and epic four-hour struggle. The five-time U.S. Champ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/speed-chess-championship-main-event-nakamura-ding",
+         "pubDate" : "Fri, 17 Dec 2021 00:39:29 -0800",
+         "title" : "Speed Chess Championship: Nakamura Beats Ding In Spectacular Armageddon Finish, Advances To Finals"
+      },
+      {
          "description" : " The champion is unlikely to defend his title against anyone other than Alireza Firouzja, risking return to era of two No 1s Magnus Carlsen is \"unlikely\" to defend his world title in classical chess again unless his opponent is the rising star Alireza Firouzja. The Norwegian's statement, in a podcast made public on Tuesday, opens up an uncertain future where the game could have two rival No 1s, as occurred in the years after Garry Kasparov broke with Fide, the world governing body, in 1993. Carlsen cited lack of motivation as the main factor: \" It's been clear to me for most of the year that this world championship should be the last,\" he said. \"It doesn't mean as much anymore as it once did",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -326,7 +374,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ian-nepomniachtchi-on-the-world-chess-championship",
-         "pubDate" : "Tue, 14 Dec 2021 07:08:10 -0800",
+         "pubDate" : "Tue, 14 Dec 2021 07:08:00 -0800",
          "title" : "Ian Nepomniachtchi On The World Chess Championship"
       },
       {
@@ -1754,28 +1802,12 @@ news_feed (
          "title" : "RIP Jonathan Penrose"
       },
       {
-         "description" : "Videos: Scandinavian expert Christian Bauer presents clever move orders in the system with 3...Qa5. And Mihail Marin analyses the Deac-L. van Foreest from the European Team Championship and shows that there's always room for new ideas in the Catalan! Peter Heine Nielsen, Carlsen's second, annotates \"The brilliancy\" Carlsen-Duda from the final of the Meltwater Tour. Moreover, 25 games with detailed annotations await you in the \"Lucky bag\", including analyses by Anish Giri, Romain Edouard, Michal Krasenkow et al. ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. Available as a single issue or by subscription (6 issues per year). Available on DVD or as a download.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-extra-204",
-         "pubDate" : "Fri, 03 Dec 2021 14:00:00 +0100",
-         "title" : "New: ChessBase Magazine Extra #204"
-      },
-      {
          "description" : " The 6th game of the 2021 World Chess Championship has just started, and Carlsen has chosen to play the Catalan. This was also the choice for game 2, which ended in draw, but for various reasons, the choice of this opening generated a degree of excitement among the online spectators. This is probably a reaction to the various 1.e4 e5 games that ended in a draw, but I do remember a time when the Catalan was criticised as a 'drawing' opening. As I write this the game is still in the opening, but at least Nepo seemed a little surprised by the choice of opening. However, he seems to have recovered his equilibrium, and I fear that the game may end in another draw (based more on the symmetrical pa",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/12/the-fickle-finger-of-fashion.html",
          "pubDate" : "Fri, 03 Dec 2021 12:49:00 +0000",
          "title" : "The fickle finger of fashion"
-      },
-      {
-         "description" : "How to checkmate a king with a knight and bishop was clear to most! There were also many answers that knew the \"W\" motif of the knight. You surely know your endgames! Solution B. Lh7 was correct. Should Carlsen and Nepomniachtchi think a little longer about their moves today, it is worthwhile to take a closer look at the somewhat more demanding third door. Quite a difficult task for a change!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-1-355",
-         "pubDate" : "Fri, 03 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 3"
       },
       {
          "description" : "Jonathan Penrose, a 10-time British champion, grandmaster as well as correspondence grandmaster who famously defeated reigning world champion Mikhail Tal at the 1960 Leipzig Olympiad, has died at the age of 88. This was reported by The Guardian. ...",
@@ -1792,14 +1824,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-four/",
          "pubDate" : "Fri, 03 Dec 2021 09:30:24 +0000",
          "title" : "A Foundation for Beginners Forty Four"
-      },
-      {
-         "description" : "As part of the Expo2020 in Dubai, the Spanish Pavilion organised a large tournament with schools from all over the world. The best teams of the online preliminaries were invited to Dubai. Favourite to win was the team Velammel Nexus from India that started with three grandmasters. The Indians won indeed but in the final had some trouble against surprisingly strong students from Peru. | Photos: Patricia Claros",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/velammal-nexus-wins-world-school-tournament-in-dubai",
-         "pubDate" : "Fri, 03 Dec 2021 10:19:40 +0100",
-         "title" : "Velammal Nexus wins World School Tournament in Dubai"
       },
       {
          "description" : " Champion grinds down challenger Nepomniachtchi in trademark style as the Norwegian's rook, knight and two pawns defeat the Russian's queen Magnus Carlsen, the world champion, finally broke the tough resistance of his Russian challenger Ian Nepomniachtchi on Friday night as the marathon sixth round of their 14-game title match in Dubai ended with victory for the Norwegian after 136 moves. The endgame battle, where Carlsen's rook, knight and pawn gradually outmanoeuvered his opponent's lone queen, was the longest game in world championship history, surpassing the 124-move draw between Anatoly Karpov and Viktor Korchnoi at the \"Battle of Baguio\" in the Philippines in 1978. Carlsen's victory to",
@@ -1960,14 +1984,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-1",
          "pubDate" : "Wed, 01 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 1"
-      },
-      {
-         "description" : "The December FIDE rating list officially confirms the meteoric rise of GM Alireza Firouzja, who is the new world number-two player, 52 points behind GM Magnus Carlsen. GM Levon Aronian now represents the U.S. while GM Hikaru Nakamura was removed f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/december-2021-fide-ratings-firouzja-aronian-nakamura",
-         "pubDate" : "Wed, 01 Dec 2021 02:58:00 -0800",
-         "title" : "December FIDE Ratings: Firouzja No. 2, Aronian U.S., Nakamura Off The List"
       },
       {
          "description" : "",
@@ -2208,22 +2224,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/fide-world-chess-championships/#new_tab",
          "pubDate" : "Fri, 26 Nov 2021 13:00:11 +0000",
          "title" : "FIDE World Chess Championships 26/11/21"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1449",
-         "pubDate" : "Fri, 26 Nov 2021 11:12:14 +0000",
-         "title" : "FIDE QC to present new sets of regulations online"
-      },
-      {
-         "description" : "Entries are invited to participate in the European Youth Rapid &#38; Blitz Championship. There are six age groups - Under 8 (born 2013 or later),...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-youth-rapid-blitz-championship/",
-         "pubDate" : "Fri, 26 Nov 2021 10:04:30 +0000",
-         "title" : "European Youth Rapid & Blitz Championship"
       }
    ]
 }
