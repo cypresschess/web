@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov teaches a chess class on a topic of his choice. 2021.12.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/middlegame-king-maneuvers-grandmasters-choice-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nFVeGLEWoiY.jpg?itok=2eCrfWFj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/middlegame-king-maneuvers-grandmasters-choice-gm-alex-shabalov",
+         "pubDate" : "Fri, 17 Dec 2021 01:24:53 +0000",
+         "title" : "Middlegame King Maneuvers | Grandmaster's Choice - GM Alex Shabalov"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>S&oslash;ren Hoby Andersen</strong>, a <a href=\"https://www.linkedin.com/in/s%C3%B8ren-hoby-andersen-463883a8/\">political scientist</a>, is the new Development Director of <strong>Dansk Skoleskak</strong>, after <strong>Andreas Weidinger</strong> returned to climate politics. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -710,7 +718,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-announces-2022-puzzle-battle-world-championship",
-         "pubDate" : "Fri, 10 Dec 2021 12:28:39 -0800",
+         "pubDate" : "Fri, 10 Dec 2021 12:28:00 -0800",
          "title" : "Chess.com Announces The 2022 Puzzle Battle World Championship"
       },
       {
@@ -888,14 +896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1472",
          "pubDate" : "Thu, 09 Dec 2021 20:09:27 +0000",
          "title" : "Sheikh Hamdan bin Rashid Cup: Fedoseev and Salem take titles"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov looks at the recent rapid rise of Alireza Firouzja. Is it too early to peg the young France player as favorite to win the next world championship cycle? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-carlsens-next-challenger-grandmasters-choice-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/a9EL-6gRd1I.jpg?itok=b0yy9GM_\" ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-carlsens-next-challenger-grandmasters-choice-gm-alex-shabalov",
-         "pubDate" : "Thu, 09 Dec 2021 19:17:31 +0000",
-         "title" : "Firouzja: Carlsen's Next Challenger? | Grandmaster's Choice - GM Alex Shabalov"
       },
       {
          "description" : "This week, well-known Dutch trainer Robert Ris looks at an entertaining attacking game in the King's Indian. Enjoy! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1800,14 +1800,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/dec/03/chess-carlsen-and-nepomniachtchi-face-weekend-crunch-games-in-dubai",
          "pubDate" : "Fri, 03 Dec 2021 08:00:35 +0000",
          "title" : "Chess: Carlsen takes lead as 136-move record length game breaks deadlock"
-      },
-      {
-         "description" : "World Champion Magnus Carlsen is currently playing in Dubai to defend his title, but in this episode of \"Svitlana's Smart Moves\" we will talk about another World Champion: Garry Kasparov, Svitlana's favourite player. With two fine games by Kasparov - against Anand and against Bareev - Svitlana shows us why good old gambits are still a powerful weapon in modern chess, and why activity is often more important than material.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-22",
-         "pubDate" : "Fri, 03 Dec 2021 09:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Kasparov's feeling for dynamic play"
       },
       {
          "description" : " From the publisher's blurb: &#8220;In reviews of the author's books, Grandmaster Matthew Sadler wrote in New In Chess about David LeMoir's writing \" always either entertaining or instructive\", and Grandmaster Jonathan Rowson (in the English Chess Federation's Newsletter) wrote \"I like LeMoir's writing style a lot!\". David LeMoir has written three popular and highly acclaimed <a href=\"http://britishchessnews.com/2021/12/03/chess-scribe-a-fifty-year-anthology/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess Scribe: A Fifty Year Anthology</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/03/chess-scr",
