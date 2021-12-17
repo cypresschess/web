@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov teaches a chess class on a topic of his choice. 2021.12.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/middlegame-king-maneuvers-grandmasters-choice-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nFVeGLEWoiY.jpg?itok=2eCrfWFj\" alt=\"\" /></a></div>",
+         "description" : " The champion is unlikely to defend his title against anyone other than Alireza Firouzja, risking return to era of two No 1s Magnus Carlsen is \"unlikely\" to defend his world title in classical chess again unless his opponent is the rising star Alireza Firouzja. The Norwegian's statement, in a podcast made public on Tuesday, opens up an uncertain future where the game could have two rival No 1s, as occurred in the years after Garry Kasparov broke with Fide, the world governing body, in 1993. Carlsen cited lack of motivation as the main factor: \" It's been clear to me for most of the year that this world championship should be the last,\" he said. \"It doesn't mean as much anymore as it once did",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/dec/17/magnus-carlsen-chess-alireza-firouzja-world-title",
+         "pubDate" : "Fri, 17 Dec 2021 08:00:22 +0000",
+         "title" : "Carlsen's doubts over title defence leave chess facing uncertain future | Leonard Barden"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov teaches a chess class on a topic of his choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/middlegame-king-maneuvers-grandmasters-choice-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nFVeGLEWoiY.jpg?itok=2eCrfWFj\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/middlegame-king-maneuvers-grandmasters-choice-gm-alex-shabalov",
@@ -2216,30 +2224,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-youth-rapid-blitz-championship/",
          "pubDate" : "Fri, 26 Nov 2021 10:04:30 +0000",
          "title" : "European Youth Rapid & Blitz Championship"
-      },
-      {
-         "description" : " The world champion aims to exploit Ian Nepomniachtchi's lack of experience in world title matches, while the French 18-year-old has just broken two of Carlsen's own landmarks Magnus Carlsen says he plans a fast start in the opening three rounds of his 14-game, $2m world title match against Russia's Ian Nepomniachtchi on Friday, Saturday and Sunday. Play starts at 12.30pm GMT throughout the match, which can be followed live and free online, with expert and computer commentaries on every move. Nepomniachtchi will have the favourable white pieces in the first game, whose colours were determined <a href=\"https://twitter.com/FIDE_chess/status/1463560207305424906?ref_src=twsrc%5Etfw%7Ctwcamp%5Etw",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/nov/26/chess-carlsen-plans-fast-start-in-dubai-while-firouzja-captures-his-records",
-         "pubDate" : "Fri, 26 Nov 2021 08:00:23 +0000",
-         "title" : "Chess: Carlsen plans fast start in Dubai while Firouzja captures his records"
-      },
-      {
-         "description" : " If you wish to follow the games and results from the 2021 Vikings Weekender, you can do so at http://tournaments.streetchess.net/vikings2021/ The first round is tonight at 7:00pm Canberra time, with subsequent rounds at Saturday 11:15 am, 3pm, 7pm and Sunday 11:15am and 3pm. I hope to have 4 DGT boards running over all rounds <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/2021-vikings-coverage.html",
-         "pubDate" : "Fri, 26 Nov 2021 05:23:00 +0000",
-         "title" : "2021 Vikings Coverage"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87923464.cms\" />When multiple and reigning champion Magnus Carlsen (Elo 2855) faces first-time finalist and world No. 5 Ian 'Nepo' Nepomniachtchi (Elo 2782) in their 14-game title match starting in Dubai from Friday, the Norwegian is not a favourite by huge margin.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/can-nepo-win-chess-war-against-magnus-carlsen/articleshow/87923464.cms",
-         "pubDate" : "Fri, 26 Nov 2021 10:12:04 +0530",
-         "title" : "Can Nepo win chess war against Magnus Carlsen?"
       }
    ]
 }
