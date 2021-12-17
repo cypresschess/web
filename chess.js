@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>S&oslash;ren Hoby Andersen</strong>, a <a href=\"https://www.linkedin.com/in/s%C3%B8ren-hoby-andersen-463883a8/\">political scientist</a>, is the new Development Director of <strong>Dansk Skoleskak</strong>, after <strong>Andreas Weidinger</strong> returned to climate politics. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/soren-hoby-andersen-joins-skoleskak/",
+         "pubDate" : "Thu, 16 Dec 2021 22:33:20 +0100",
+         "title" : "S&oslash;ren Hoby Andersen joins Skoleskak"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has finalized the schedule for its <a href=\"https://congress2021.fide.com/\">2021 Congress</a> held online. Commissions have been meeting since 6 December. The General Assembly will be on 28 December, coinciding with the World Rapid Championship. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/fide-general-assembly-on-28-december/",
+         "pubDate" : "Thu, 16 Dec 2021 21:41:07 +0100",
+         "title" : "FIDE General Assembly on 28 December"
+      },
+      {
          "description" : "This week, well-known Dutch trainer Robert Ris looks at a promising line that White may try against the Pirc. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -642,14 +658,6 @@ news_feed (
          "title" : "Mumbai youngster Advay making right moves in chess circuit"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The most one-sided world championship match in recent history was won by <strong>Magnus Carlsen</strong> in Dubai by a margin of 7,5:3,5 after challenger <strong>Ian Nepomniachtchi</strong> blundered repeatedly. Carlsen nets the biggest purse of his career €1,2 million. <a href=\"https://escharts.com/tournaments/chess/fide-world-championship-2021\">Online viewership records for chess competitions were broken</a>. <strong>FIDE</strong> plans to hold the next world championship match in spring 2023. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">24 Nov - 16 Dec 2021</span>: <a href=\"https://www.chesstech.org/even",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/carlsens-retains-world-champion/",
-         "pubDate" : "Sat, 11 Dec 2021 11:29:07 +0100",
-         "title" : "Carlsens retains world champion title"
-      },
-      {
          "description" : "Late in November one of the giants of British chess (as Nigel Short described him) sadly passed away, taking with him a record which is likely never to be broken. In his best years Dr. Jonathan Penrose OBE (pictured above) won the British Chess Championship for a record ten times, while on the international stage []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-world-rapid-and-blitz-championships-will-take-place-in-warsaw",
          "pubDate" : "Fri, 10 Dec 2021 15:27:33 +0100",
          "title" : "The World Rapid and Blitz Championships will take place in Warsaw"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After it transpired that the <strong>Rapid and Blitz World Championships</strong> <a href=\"https://www.fide.com/news/1470\">cannot be held at christmas in Nur-Sultan</a> because Kazakhstan introduced mandatory quarantine for travelers from many countries, it took <strong>FIDE</strong> less than three days to <a href=\"https://worldrapidandblitz.fide.com/\">relocate the event</a> at the exact same date 25-31 December in Warsow. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/rapid-and-blitz-world-championship/",
-         "pubDate" : "Fri, 10 Dec 2021 13:48:40 +0100",
-         "title" : "Warsow hosts Rapid and Blitz world championship"
       },
       {
          "description" : " Tonight could very well see the final game of the 2021 World Championship Match. A win for Carlsen would see him reach 7.5 points, the score he needs to retain his title. Even a draw would see Carlsen reach 7, so the worse that could happen was a round of tie-breaks. Going into this game I can't see Nepo pulling back a full point. He might draw the game, postponing the inevitable, or over press, resulting in a win for Carlsen (in a similar ending to the 2013 World Championship Match). If I was a betting man, I would give Carlsen a 33% change of winning, and a 66% chance of it being a draw. <br /> ",
@@ -2248,14 +2248,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/can-nepo-win-chess-war-against-magnus-carlsen/articleshow/87923464.cms",
          "pubDate" : "Fri, 26 Nov 2021 10:12:04 +0530",
          "title" : "Can Nepo win chess war against Magnus Carlsen?"
-      },
-      {
-         "description" : " From the publisher: &#8220;The Vibrant Exchange French No Longer Your Dull Draw! In the first book ever exclusively devoted to the Exchange French Variation, American grandmaster Alex Fishbein recognizes that the Exchange French is an opening for a player who likes active piece play, fights for the initiative, excels in positions with possibilities on <a href=\"http://britishchessnews.com/2021/11/26/the-exchange-french-comes-to-life-fresh-strategies-to-play-for-a-win/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Exchange French Comes to Life: Fresh Strategies to Play for a Win</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http:/",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/11/26/the-exchange-french-comes-to-life-fresh-strategies-to-play-for-a-win/",
-         "pubDate" : "Fri, 26 Nov 2021 00:10:37 +0000",
-         "title" : "The Exchange French Comes to Life: Fresh Strategies to Play for a Win"
       }
    ]
 }
