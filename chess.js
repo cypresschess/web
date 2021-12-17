@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "England Women's Coach and ECF Festival for All coach, IM Lorin D'Costa is holding an online tournament as a fundraiser for his &#8216;She Plays To...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/new-years-eve-she-plays-to-win-open-tournament/",
+         "pubDate" : "Fri, 17 Dec 2021 16:08:32 +0000",
+         "title" : "New Year's Eve She Plays to Win Open Tournament"
+      },
+      {
+         "description" : "Sometimes, it is not about attacking the king, or winning a piece, but getting an overwhelmingly strong position. And this can be achieved in several different ways. Svitlana picked out a way of gaining advantage through positional sacrificing. The 18-year-old coach, shows us two examples of Botvinnik, and Anand. Viswanathan Anand's game against Levon Aronian is an example of pure beauty.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-24",
+         "pubDate" : "Fri, 17 Dec 2021 17:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Positional sacrifices with Anand's help"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1484",
+         "pubDate" : "Fri, 17 Dec 2021 14:05:11 +0000",
+         "title" : "FIDE Qualification Commission conducts survey"
+      },
+      {
+         "description" : "In the second semifinal of the Speed Chess Championship knockout event, defending champion Hikaru Nakamura had to work extra hard to defeat Ding Liren, as the match was only decided in Armageddon. The Chinese grandmaster drew the online blitz and bullet specialist both 'in regulation' and in the 4-game tiebreaker. Nakamura will face Wesley So in Sunday's final match.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-championship-2021-semifinal-2",
+         "pubDate" : "Fri, 17 Dec 2021 14:00:00 +0100",
+         "title" : "Nakamura beats Ding in Armageddon, will face So in SCC final"
+      },
+      {
+         "description" : " Sometimes it is a feast, but today was more of a famine. The 2021 Lifeline Bookfair is currently running over this weekend, in the somewhat cramped confines of the Canberra Racecourse. I made a quick visit this morning, but sadly, there were very few chess books (at least ones I did not already own). I purchased one book (on chess), but I did pick up a chess computer to add to my collection. On the other hand, if you are a Contract Bridge player, there were around 10 times as many bridge books as chess books, so you may be rewarded if you visit. I may return on Sunday, although I am not expecting my luck to change at this stage. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/2021-lifeline-bookfair.html",
+         "pubDate" : "Fri, 17 Dec 2021 12:30:00 +0000",
+         "title" : "2021 Lifeline Bookfair"
+      },
+      {
          "description" : "The Chess Festival Salamanca combines chess sport and chess culture and emphasises gender equality. Four top male and four top female players compete in a tournament. After three rounds, Jaime Santos is in the lead. | Photos: Tournament page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,11 +82,11 @@ news_feed (
          "title" : "A Foundation for Beginners Forty Six"
       },
       {
-         "description" : "In the last semifinal match of the 2021 Speed Chess Championship Main Event, GM Hikaru Nakamura defeated GM Ding Liren in the culminating Armageddon game after an unforgettable, back-and-forth, and epic four-hour struggle. The five-time U.S. Champ...",
+         "description" : "In the last semifinal match of the 2021 Speed Chess Championship Main Event, GM Hikaru Nakamura defeated GM Ding Liren in the culminating armageddon game after an unforgettable, back-and-forth, and epic four-hour struggle. The five-time U.S. Champ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/speed-chess-championship-main-event-nakamura-ding",
-         "pubDate" : "Fri, 17 Dec 2021 00:39:29 -0800",
+         "pubDate" : "Fri, 17 Dec 2021 00:39:00 -0800",
          "title" : "Speed Chess Championship: Nakamura Beats Ding In Spectacular Armageddon Finish, Advances To Finals"
       },
       {
@@ -1770,22 +1810,6 @@ news_feed (
          "title" : "Max Warmerdam wins Dutch Championship 2021"
       },
       {
-         "description" : "The new Corr Database 2022 is the large ChessBase collection of correspondence games from the period from 1804 to 2021. With more than 80,000 tournaments and over 2 million correspondence games, the Corr 2022 is a must for all correspondence chess fans. But the Corr Database is very popular even among many grandmasters and trainers, since correspondence games often herald the development of opening theory!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-corr-database-2022-with-2-million-games",
-         "pubDate" : "Fri, 03 Dec 2021 17:04:49 +0100",
-         "title" : "New: CORR Database 2022 with 2 million games!"
-      },
-      {
-         "description" : "Sometimes you discover a familiar tactic, proceed with the correct move order, and cannot find the winning path. Clear tactical patterns don't always win by default, as Lawrence demonstrates in just two hefty examples. Additionally, we try to break through to a 2300 rating. But the theme thread continues, and what should be a manageable task, turns out to get far more brutal than expected. This XL episode has tons of nice tactics for you to look at, and solve.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-7",
-         "pubDate" : "Fri, 03 Dec 2021 17:00:00 +0100",
-         "title" : "Trent's Tactics - Unpleasant surprises"
-      },
-      {
          "description" : "We now have a full programme of ECF over-the-board events and National Championships running into next year (2022). These include English National Championships at standardplay,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2200,30 +2224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1451",
          "pubDate" : "Fri, 26 Nov 2021 20:32:38 +0000",
          "title" : "FIDE World Championship Dubai 2021: The battle begins"
-      },
-      {
-         "description" : " The FIDE World Chess Championship got under way in Dubai on Friday 26th November. The match between World Champion Magnus Carlsen and his challenger Ian Nepomniachtchi will be over 14 classical games followed by a day of rapid and blitz tie-breaks if required. The first game of the match was a reasonably tense affair with both players surely glad to get started. The pandemic has drastically reduced the amount of face to face chess in the last 18 months and that will surely affect both players but there has also been a revolution in chess preparation using AI and computers. This is generating masses of new ideas - in the recent past it's been hard to remember everything - we may now have gon",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/nepomniachtchi-and-carlsen-draw-the-first-game-of-their-world-chess-championship-match",
-         "pubDate" : "Fri, 26 Nov 2021 19:30:00 +0400",
-         "title" : "Nepomniachtchi and Carlsen draw the first game of their World Chess Championship match - 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1450",
-         "pubDate" : "Fri, 26 Nov 2021 13:58:21 +0000",
-         "title" : "FIDE World Rapid & Blitz Championship 2021: Visa & technical info"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/fide-world-chess-championships/#new_tab",
-         "pubDate" : "Fri, 26 Nov 2021 13:00:11 +0000",
-         "title" : "FIDE World Chess Championships 26/11/21"
       }
    ]
 }
