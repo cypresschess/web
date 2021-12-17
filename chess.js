@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1485",
+         "pubDate" : "Fri, 17 Dec 2021 20:04:58 +0000",
+         "title" : "Andrei Volokitin and Kateryna Dolzhykova win Ukrainian Championship"
+      },
+      {
+         "description" : "The 7th edition of the Gashimov Memorial was officially inaugurated today in Baku. The tournament in memory of Vugar Gashimov, who died at an early age, will be contested by eight players - including Vishy Anand, Fabiano Caruana and Shakhriyar Mamedyarov. Unlike previous editions, it will be played as a rapid and blitz tournament. The first round will be played on Saturday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2021-preview",
+         "pubDate" : "Fri, 17 Dec 2021 19:00:00 +0100",
+         "title" : "The Gashimov Memorial returns with Anand, Caruana and Karjakin"
+      },
+      {
          "description" : "England Women's Coach and ECF Festival for All coach, IM Lorin D'Costa is holding an online tournament as a fundraiser for his &#8216;She Plays To...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1776,14 +1792,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/carlsen-takes-the-lead-in-world-championship-following-a-record-breaking-game-6",
          "pubDate" : "Fri, 3 Dec 2021 23:39:00 +0400",
          "title" : "Carlsen takes the lead in World Championship following a record breaking game 6 - 6"
-      },
-      {
-         "description" : "In this week's show, GM Daniel King looks at games from Viktor Kupreichik (3 July 1949 - 22 May 2017), a brillant and imaginative attacking player who was never afraid to sacrifice. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-viktor-kupreichik",
-         "pubDate" : "Fri, 03 Dec 2021 19:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: The brilliance of Viktor Kupreichik"
       },
       {
          "description" : "Velammal Nexus consists of D Gukesh, R Praggnanandhaa, Leon Mendonca, Pranav V and Rindhiya, defeated Saco Oliveros of Peru in the final to win the",
