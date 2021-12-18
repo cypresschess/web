@@ -5,6 +5,22 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1486",
+         "pubDate" : "Fri, 17 Dec 2021 23:38:59 +0000",
+         "title" : "FIDE Online Cadets & Youth Rapid Super Final Kicks Off"
+      },
+      {
+         "description" : "It&#39;s almost the end of the year, and what a year it has been! With so much good news for the chess world, there&#39;s certainly a lot to celebrate. To make sure we commemorate this year properly, we invite you to cast your votes. This year, the commun...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vote-2021-chesscom-awards",
+         "pubDate" : "Fri, 17 Dec 2021 15:04:54 -0800",
+         "title" : "Vote For The 2021 Chess.com Awards"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1485",
          "pubDate" : "Fri, 17 Dec 2021 20:04:58 +0000",
          "title" : "Andrei Volokitin and Kateryna Dolzhykova win Ukrainian Championship"
@@ -1946,14 +1962,6 @@ news_feed (
          "title" : "World Championship Bonus Pod #2- FM Mike Klein joins from Dubai to recap 5 tense, deadlocked rounds. "
       },
       {
-         "description" : "There was a four-way tie at the top of the Titled Tuesday leaderboard on November 30, with NM Valery Sviridov winning on the tiebreak system. He was joined on 9.5/11 by GM Baadur Jobava in second place, FM Khazar Babazada in third, and GM Mustafa ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sviridov-wins-november-30-titled-tuesday",
-         "pubDate" : "Wed, 01 Dec 2021 11:36:00 -0800",
-         "title" : "Sviridov Wins November 30 Titled Tuesday"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2216,22 +2224,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-championship-nepo-holds-magnus-carslen-with-white-pieces-in-game-1/articleshow/87943143.cms",
          "pubDate" : "Sat, 27 Nov 2021 10:05:28 +0530",
          "title" : "World Championship: Nepo holds Carslen with white pieces in Game 1"
-      },
-      {
-         "description" : " Our regularly scheduled article will not be presented this week due to my students sudden involvement in my writing. A question came up at two of the schools I teach chess at last week. The question asked of me was \"are tactics really the only way to win games?\" It seemed like a simple enough <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-three/\">A Foundation for Beginners Forty Three</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.co",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-three/",
-         "pubDate" : "Fri, 26 Nov 2021 20:58:00 +0000",
-         "title" : "A Foundation for Beginners Forty Three"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1451",
-         "pubDate" : "Fri, 26 Nov 2021 20:32:38 +0000",
-         "title" : "FIDE World Championship Dubai 2021: The battle begins"
       }
    ]
 }
