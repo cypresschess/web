@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1487",
+         "pubDate" : "Sat, 18 Dec 2021 19:14:52 +0000",
+         "title" : "FIDE Online Cadets & Youth Rapid Super Final: Favourites Fall"
+      },
+      {
+         "description" : "GM Fabiano Caruana and GM Viswanathan Anand are the biggest names at the seventh Vugar Gashimov Memorial which got underway on Saturday. This year, the tournament is a combination of rapid and blitz chess. How to watch?You can follow the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-vugar-gashimov-memorial-round-1",
+         "pubDate" : "Sat, 18 Dec 2021 10:39:00 -0800",
+         "title" : "Gashimov Memorial R1: Anand Stumbles In Opening Round"
+      },
+      {
          "description" : "The 7th edition of the Vugar Gashimov Memorial kicked off today in Baku, Azerbaijan. The event is played from 18th-24th December and consists of Rapid and Blitz tournaments with a double round-robin system for each. Eight Super Grandmasters participate in the event: Fabiano Caruana, Mamedyarov Shakhriyar, Rapport Richard, Viswanathan Anand, Karjakin Sergey, Navara David, Mamedov Rauf and Asadli&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/vugar-gashimov-memorial-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2002,14 +2018,6 @@ news_feed (
          "title" : "Mitropa Chess Association founded"
       },
       {
-         "description" : "GM Magnus Carlsen defeated GM Ian Nepomniachtchi in a record 136 moves in game six to score the first win of the 2021 FIDE World Chess Championship. The world champion&#39;s victory came after five draws in the championship that has a &#38;euro;2 million ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-6",
-         "pubDate" : "Wed, 01 Dec 2021 14:26:00 -0800",
-         "title" : "Carlsen Wins Game 6, Longest World Chess Championship Game Of All Time"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ad7f4a5b-5e19-4909-a5ce-56254eb78a6e/Mike4.jpg\" data-image-dimensions=\"512x249\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61a7ec86e35434408ee520e0\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ad7f4a5b-5e19-4909-a5ce-56254eb78a6e/Mike4.jpg?format=1000w\" /> </figure> <p class=\"\">Do we look concerned about these draws? <p class=\"\">After 5 rounds, it is still all draws! FM Mike Klein of Chess.com joins me to quickly recap the games, to track the ongoing stor",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2224,22 +2232,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/2021-vikings-days-1.html",
          "pubDate" : "Sat, 27 Nov 2021 22:25:00 +0000",
          "title" : "2021 Vikings - Days 1&2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1452",
-         "pubDate" : "Sat, 27 Nov 2021 20:14:19 +0000",
-         "title" : "FIDE World Championship Dubai 2021: The champion's turn"
-      },
-      {
-         "description" : " The FIDE World Chess Championship Match between Magnus Carlsen and Ian Nepomniachtchi is tied at 1-1 after the first two games were drawn. In spite of these draws the early games promise a very interesting match which will be settled over the board not by the huge amount of opening preparation both sides have clearly done. Carlsen had white in game two and a Catalan appeared on the board. It seemed at first that Carlsen had won the opening battle. Nepomniachtchi's 7... b5 was met by 8. Ne5 - a move that's been played at a high level this year but none the less he didn't seem ready for. Carlsen continued to play quickly for the next few moves and after 16...Na6 had some advantage in a wild p",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/world-chess-championship-game-2-a-fighting-draw",
-         "pubDate" : "Sat, 27 Nov 2021 20:43:00 +0400",
-         "title" : "World Chess Championship game 2 - a fighting draw - 2"
       }
    ]
 }
