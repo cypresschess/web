@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sometimes there are endgame puzzles that end quite surprisingly. The move Kd4, was the interesting idea yesterday to secure the draw. But we couldn't upset the majority of all the participants. You know your endgames too well. But maybe with door 18? Once again, a very witty move that has to be found.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-1834",
+         "pubDate" : "Sat, 18 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 18"
+      },
+      {
+         "description" : "The Gashimov Memorial 2021 is a rapid and blitz chess tournament taking place on December 18-23 in Baku. Eight players, including Vishy Anand, Fabiano Caruana, Sergey Karjakin and Shakriyar Mamedyarov, are participating in the six-day event. Follow the action live starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2021-live",
+         "pubDate" : "Sat, 18 Dec 2021 11:45:00 +0100",
+         "title" : "Gashimov Memorial - Live!"
+      },
+      {
+         "description" : " <p class=\"lead\"> Firouzja, the world's <a href=\"https://worldchess.com/news/all/firouzja-is-number-2-in-the-world-we-just-have-to-deal-with-it/\">number two</a> in the recent FIDE rating list, has declined his invitation to the prestigious <a href=\"https://tatasteelchess.com/about/wijk-aan-zee/\">Wijk aan Zee Tata Steel</a> Tournament. The alleged reason: he <a href=\"https://chess24.com/en/read/news/firouzja-misses-wijk-after-compensation-demand-denied\">demanded financial compensation</a> for a 2021 Incident, when the arbiter made him change tables during his game with Wojtaszek. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E8F79772-6AAA-428F-8785-7AB4FBCA51F9.",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/firouzja-is-acting-like-a-star-and-its-good-for-us-all/",
+         "pubDate" : "Sat, 18 Dec 2021 10:30:34 +0000",
+         "title" : "Firouzja Is Acting Like a Star and It's Good For Us All!"
+      },
+      {
+         "description" : "My column last week about Jonathan Penrose's near brush with death at my hands, has elicited some noteworthy responses. Soon after reading my account of Penrose's rescue at Siegen 1970, Britain's most famous chess player, Nigel Short, having tested positive for Covid 19, Omicron variant, felt the blood draining from his head. Having read my []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/saving-nigel-short/",
+         "pubDate" : "Sat, 18 Dec 2021 10:00:15 +0000",
+         "title" : "Saving Nigel Short"
+      },
+      {
+         "description" : "European Blitz Chess Championship 2021 took place on 17th of December in Katowice, Poland. After 22 rounds, Duda Jan-Krzysztof (POL, 2792) became the sole Winner of the event, scoring 18 points. Klekowski Maciej (POL, 2444) scored 17.5 points to claim silver. Eight players tied for the third place with score of 16.5 points each: Balog Imre (HUN, 2678),&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/duda-jan-krzysztof-wins-european-blitz-chess-championship-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/duda-jan-krzysztof-wins-european-blitz-chess-championship-2021/",
+         "pubDate" : "Sat, 18 Dec 2021 08:53:31 +0000",
+         "title" : "Duda Jan-Krzysztof wins European Blitz Chess Championship 2021"
+      },
+      {
          "description" : "The diagram shows a position from a game that was played 90 years ago. White here found a combination that is a true classic, and particularly impressive was the quiet third move of the combination. Do you see what White can do here?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1754,28 +1794,12 @@ news_feed (
          "title" : "What Chess Set Is Used In the World Chess Championship Match"
       },
       {
-         "description" : "Magnus Carlsen is leading the World Championship match against Ian Nepomniachtchi after scoring a memorable win. In our fourth and final instalment of Carlsen's previous matches, we look at his 2018 confrontation against Fabiano Caruana. For the first time in a match for the crown, all the classical games finished drawn. The defending champion won the rapid tiebreaks categorically though, and thus kept his title. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-carlsen-years-part-4",
-         "pubDate" : "Sat, 04 Dec 2021 11:00:00 +0100",
-         "title" : "The Carlsen years (4): Twelve draws"
-      },
-      {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/pLBc0kVzaD0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> World Chess Championship Stream Live from Dubai ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-7-of-the-match/",
          "pubDate" : "Sat, 04 Dec 2021 09:37:11 +0000",
          "title" : "Time To Say Dubai: Round 7 of the Match"
-      },
-      {
-         "description" : "In the diagram position, White has a strong passed pawn on c7 that should help him to win the game. But first White has to take care that Black's rook on b1 does not run havoc. How would you continue with White?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-powerful-passed-pawn",
-         "pubDate" : "Sat, 04 Dec 2021 09:00:00 +0100",
-         "title" : "A powerful passed pawn"
       },
       {
          "description" : "Lasting just two and a half hours, game seven of the 2021 FIDE World Chess Championship was the fastest draw in the match so far. GM Magnus Carlsen repeated his 8...Rb8 line against GM Ian Nepomniachtchi&#39;s 8.a4 Anti-Marshall and quickly equalized ...",
@@ -1808,14 +1832,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nepo-lost-whats-next/",
          "pubDate" : "Fri, 03 Dec 2021 21:20:47 +0000",
          "title" : "Nepo Lost. What's Next?"
-      },
-      {
-         "description" : " <p class=\"lead\">The sixth game of the World Chess Championship taking place in Dubai ended after 136 moves. It was the longest game in the history of the World Chess Championships. Reigning World Champion Magnus Carlsen started game 6 with 1. d4, initiating the second Catalan of the match. After a fascinating game, where both players had winning chances, the two GMs found themselves in a chaotic endgame with two rooks for white against a Queen for black. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51721511991_11418a5a54_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldche",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-championship-game-6-satisfied-its-a-draw-again/",
-         "pubDate" : "Fri, 03 Dec 2021 20:18:51 +0000",
-         "title" : "World Chess Championship Game 6: Magnus won!"
       },
       {
          "description" : " Magnus Carlsen has taken the lead in the FIDE World Chess Championship by beating his challenger Ian Nepomniachtchi in a record breaking 136 move victory. Both players had winning chances in time trouble on the run up to move 40 but after that it was a master class from Carlsen on how to make the most of your chances. Carlsen deliberately extended the game to put maximum pressure on his opponent when he truly went for victory. Nepomniachtchi played well for long periods but mistakes on moves 31, 36, 38 and a particularly careless one on move 52 contributed to this loss. Nepomniachtchi's fatal error came as late as move 130 by that stage his task was extremely hard - especially with the fati",
@@ -2200,22 +2216,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/world-chess-championship-game-2-a-fighting-draw",
          "pubDate" : "Sat, 27 Nov 2021 20:43:00 +0400",
          "title" : "World Chess Championship game 2 - a fighting draw - 2"
-      },
-      {
-         "description" : "\"That with the Mightiest raised me to contend, And to the fierce contention brought alongâ Innumerable force of Spirits armed, That durst dislike his reign, and, me preferring, His utmost power with adverse power opposed, In dubious battel on the plains of Heaven, And shook his throne.&#8221; -John Milton, Paradise Lost Dubai is the venue []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/dubious-battel/",
-         "pubDate" : "Sat, 27 Nov 2021 12:00:39 +0000",
-         "title" : "Dubious Battel"
-      },
-      {
-         "description" : "The 7th European Small Nations Team Chess Championship 2021 opens today in Sliema, Malta, taking place from 27th November 5th December in the AX Victoria Hotel. The event is supported by European Chess Union and will be opened by the ECU President Mr. Zurab Azmaiparashvili. Nine federations (Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-small-nations-team-chess-championship-2021-starts-in-sliema-malta/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-small-nations-team-chess-championship-2021-starts-in-sliema-malta/",
-         "pubDate" : "Sat, 27 Nov 2021 09:35:25 +0000",
-         "title" : "European Small Nations Team Chess Championship 2021 starts in Sliema, Malta"
       }
    ]
 }
