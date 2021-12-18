@@ -1,4 +1,5 @@
 jtable([
+"CYPRESS","2021-12-17","15","<a href=http://www.uschess.org/msa/XtblMain.php?202112178982 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-12-12","4","<a href=http://www.uschess.org/msa/XtblMain.php?202112127132 target=' blank'>DECSUNSWISS12</a>",
 "HOUSTON","2021-12-11  - 12-12","230","<a href=http://www.uschess.org/msa/XtblMain.php?202112126662 target=' blank'>TCR: HOUSTON WINTER CHAMPIONSHIP 2021</a>",
 "HOUSTON","2021-12-11","126","<a href=http://www.uschess.org/msa/XtblMain.php?202112116142 target=' blank'>CHESSTERS CANDY CANE SCHOLASTIC</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2021-01-09","12","<a href=http://www.uschess.org/msa/XtblMain.php?202101093832 target=' blank'>THE SATURDAY KNIGHTS</a>",
 "SPRING","2021-01-08","31","<a href=http://www.uschess.org/msa/XtblMain.php?202101083562 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "KATY","2021-01-02","11","<a href=http://www.uschess.org/msa/XtblMain.php?202101023542 target=' blank'>SR CHESSKNIGHTS 01022021</a>",
-"SPRING","2021-01-02","20","<a href=http://www.uschess.org/msa/XtblMain.php?202101022292 target=' blank'>DER SPRINGERS NEW YEARS TOURNAMENT</a>",
 ]);
