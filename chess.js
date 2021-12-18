@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The diagram shows a position from a game that was played 90 years ago. White here found a combination that is a true classic, and particularly impressive was the quiet third move of the combination. Do you see what White can do here?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/from-the-evergreen-tree",
+         "pubDate" : "Sat, 18 Dec 2021 09:00:00 +0100",
+         "title" : "From the evergreen tree"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser showcases a few unique endgame studies with wild stalemate resources. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/ArcG3\">https://www.youtube.com/c/ArcG3</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> 0:00 Intro<br /> 1:18 Nikolaevsky - Taimanov (1967)<br /> 2:36 Chigorin - Tarrasch (1905)<br /> 4:01 Aronson - Mednis (1953)<br /> 4:58 An \"Easy\" Win for Black<br /> 6:55 Where is the Stalemate? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-stalemate-eric-rosen",
+         "pubDate" : "Sat, 18 Dec 2021 07:26:03 +0000",
+         "title" : "How To Stalemate Like Eric Rosen"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/expression-of-interest-for-a-proposed-online-chess-league-and-partner-in-chess-in-school/",
+         "pubDate" : "Sat, 18 Dec 2021 06:12:19 +0000",
+         "title" : "EXPRESSION OF INTEREST FOR A PROPOSED ONLINE CHESS LEAGUE AND PARTNER IN 'CHESS IN SCHOOL'"
+      },
+      {
+         "description" : "Round 1 Indians had an easy outing and won their games comfortably against lower rated opponents in both boys' and girls' section. Round 2 BOYS",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-juniors-and-girls2021-srilankareports-of-round-1-2/",
+         "pubDate" : "Sat, 18 Dec 2021 05:40:43 +0000",
+         "title" : "ASIAN JUNIORS AND GIRLS'2021-SRILANKA:Reports of round 1 & 2"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -832,14 +864,6 @@ news_feed (
          "link" : "https://aicf.in/happy-birthday-viswanathan-anand/",
          "pubDate" : "Sat, 11 Dec 2021 02:33:59 +0000",
          "title" : "Happy Birthday Viswanathan Anand!!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Bryan Smith plays a G/5 +8 against a stream viewer. Originally on Twitch. 2021.11.18<br /> Bryan Smith vs. Nick_Tirella, 2021: A14 English, Neo-Catalan declined<br /> <a href=\"https://lichess.org/xx1d3BGT\">https://lichess.org/xx1d3BGT</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-bryan-smith-crushes-passive-triangle-defense\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbn",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-bryan-smith-crushes-passive-triangle-defense",
-         "pubDate" : "Sat, 11 Dec 2021 01:18:26 +0000",
-         "title" : "GM Bryan Smith Crushes Passive Triangle Defense!"
       },
       {
          "description" : "Chess.com is excited to announce that the 2022 Puzzle Battle World Championship starts on January 6 at 9 a.m. PST/18:00 CET. In this electrifying event, 16 of the world&#39;s fastest tactical experts will battle for their share of the $25,000 prize fu...",
@@ -1770,14 +1794,6 @@ news_feed (
          "title" : "FIDE Chessable camp: Time to say goodbye"
       },
       {
-         "description" : "In what will surely be remembered as a highlight of World Chess Championship history, Magnus Carlsen defeated Ian Nepomniachtchi in a 136-move marathon which included missed chances, deep time trouble and a number of subtle manoeuvres worthy of a combat for the highest prize in the world of competitive chess. Find here the fantastic encounter annotated by super-GM and elite analyst Anish Giri. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-g6",
-         "pubDate" : "Fri, 03 Dec 2021 23:20:00 +0100",
-         "title" : "World Championship Game 6: Carlsen wins marathon"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2154,14 +2170,6 @@ news_feed (
          "title" : "2021 Vikings Weekender - Tie for 1st"
       },
       {
-         "description" : "The list of personnel registered for the subject program and not paid the fee yet are appended below. LIST OF PARTICIPANTS You are requested to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/chess-for-everyone-national-arbiter-seminar/",
-         "pubDate" : "Sun, 28 Nov 2021 07:20:21 +0000",
-         "title" : "Chess for Everyone - National Arbiter Seminar"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87958002.cms\" />Though defending champion Magnus Carlsen enjoyed a powerful diagonal and pivotal square for his knight, no player blinked on key moments. As a result, a draw was reached in 58 moves of the Catalan Opening in their second game of the World Chess Championship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2208,22 +2216,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-small-nations-team-chess-championship-2021-starts-in-sliema-malta/",
          "pubDate" : "Sat, 27 Nov 2021 09:35:25 +0000",
          "title" : "European Small Nations Team Chess Championship 2021 starts in Sliema, Malta"
-      },
-      {
-         "description" : "Schedule &#38; Regulation National Arbiter (NA) Seminar The National Arbiter seminar is a training session for Arbiters of National level (NA) . NA Seminar Duration",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-arbiters-training-batch-2/",
-         "pubDate" : "Sat, 27 Nov 2021 07:24:54 +0000",
-         "title" : "National Arbiters Training : Batch 2"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87943143.cms\" />Reigning world chess champion Magnus Carlsen tested Ian Nepomniatchtchi with an off-beat move - Na5 on the eighth move in the Ruy Lopez Opening - in the first game of their 14-game match of World championship that started in Dubai on Friday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-championship-nepo-holds-magnus-carslen-with-white-pieces-in-game-1/articleshow/87943143.cms",
-         "pubDate" : "Sat, 27 Nov 2021 10:05:28 +0530",
-         "title" : "World Championship: Nepo holds Carslen with white pieces in Game 1"
       }
    ]
 }
