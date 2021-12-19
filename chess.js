@@ -5,6 +5,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1488",
+         "pubDate" : "Sat, 18 Dec 2021 22:49:26 +0000",
+         "title" : "Hungarian Championship: Peter Acs and Zsuzsanna Terbe clinch titles"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1487",
          "pubDate" : "Sat, 18 Dec 2021 19:14:52 +0000",
          "title" : "FIDE Online Cadets & Youth Rapid Super Final: Favourites Fall"
@@ -2224,14 +2232,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-carlsen-nepo-play-out-intense-draw-in-game-2/articleshow/87958002.cms",
          "pubDate" : "Sun, 28 Nov 2021 09:34:39 +0530",
          "title" : "World Championship: Carlsen, Nepo play out intense draw in Game 2"
-      },
-      {
-         "description" : " The 2021 Vikings Weekender began with a much smaller field than last years 60. The main cause was the short notice, with the event only confirmed 2 weeks before it started. There were also a couple of last minutes withdrawals, leaving the tournament missing a few titled players. The upside is that both events are very competitive, with any number of players in contention for the $1000 1st prize. Top seeds Harry Press and Fred Litchfield dropped points over the first 4 rounds, with CM Anthony Fikh leading on 3.5/4, followed by WFM Alana Chibnall and CM Paul Russell in 2nd place on 3. For top seed Press it could have been worse, as in a R+B+P v R+5P, he managed to win all the pawns to reach R",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/2021-vikings-days-1.html",
-         "pubDate" : "Sat, 27 Nov 2021 22:25:00 +0000",
-         "title" : "2021 Vikings - Days 1&2"
       }
    ]
 }
