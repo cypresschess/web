@@ -10,6 +10,30 @@ news_feed (
          "title" : "Hungarian Championship: Peter Acs and Zsuzsanna Terbe clinch titles"
       },
       {
+         "description" : " The Chess.com Speed Chess Championship takes place Mon 8th Nov to Sun 19th Dec 2021. Hikaru Nakamura faces Wesley So in the final on Sunday 19th December at 18:00 GMT. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-championship-2021",
+         "pubDate" : "Sun, 19 Dec 2021 00:52:00 +0400",
+         "title" : "Chess.com Speed Chess Championship 2021 - Games and Results"
+      },
+      {
+         "description" : " The 7th Vugar Gashimov Memorial is a rapid mini-match tournament combined with a double round robin blitz that takes place Fri 17th Dec 2021\tFri 24th Dec 2021. Players: Richard Rapport, Fabiano Caruana, Shakhriyar Mamedyarov, Rauf Mamedov, Viswanathan Anand, David Navara, Vugar Asadli and Sergey Karjakin. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/7th-vugar-gashimov-memorial-2021",
+         "pubDate" : "Sun, 19 Dec 2021 00:48:00 +0400",
+         "title" : "7th Vugar Gashimov Memorial 2021 - Games and Results"
+      },
+      {
+         "description" : " The European Rapid and Blitz Championships take place in Katowice 17th to 19th December 2021. Top seed \tJan-Krzysztof Duda won the blitz with 18/22 half a point clear of Maciej Klekowski. The rapid finishes on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/european-rapid-and-blitz-2021",
+         "pubDate" : "Sun, 19 Dec 2021 00:37:00 +0400",
+         "title" : "European Rapid and Blitz 2021 - Games and Results"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2224,14 +2248,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/2021-vikings-weekender-tie-for-1st.html",
          "pubDate" : "Sun, 28 Nov 2021 12:34:00 +0000",
          "title" : "2021 Vikings Weekender - Tie for 1st"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/87958002.cms\" />Though defending champion Magnus Carlsen enjoyed a powerful diagonal and pivotal square for his knight, no player blinked on key moments. As a result, a draw was reached in 58 moves of the Catalan Opening in their second game of the World Chess Championship.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-carlsen-nepo-play-out-intense-draw-in-game-2/articleshow/87958002.cms",
-         "pubDate" : "Sun, 28 Nov 2021 09:34:39 +0530",
-         "title" : "World Championship: Carlsen, Nepo play out intense draw in Game 2"
       }
    ]
 }
