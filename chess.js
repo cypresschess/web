@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In door number 18, \"Zugzwang is the sharpest endgame weapon\" with Ka2!!! In today's door we take a closer look at a game by Jan Timman and find out: \"Not all rook ending games end in a draw\" if the right move is found.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-19877",
+         "pubDate" : "Sun, 19 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 19"
+      },
+      {
+         "description" : "The Gashimov Memorial 2021 is a rapid and blitz chess tournament taking place on December 18-23 in Baku. Eight players, including Vishy Anand, Fabiano Caruana, Sergey Karjakin and Shakriyar Mamedyarov, are participating in the six-day event. Follow the action live starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2021-live",
+         "pubDate" : "Sun, 19 Dec 2021 11:45:00 +0100",
+         "title" : "Gashimov Memorial - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -90,14 +106,6 @@ news_feed (
          "title" : "The Endgame Magic Christmas Calendar - Door 18"
       },
       {
-         "description" : "The Gashimov Memorial 2021 is a rapid and blitz chess tournament taking place on December 18-23 in Baku. Eight players, including Vishy Anand, Fabiano Caruana, Sergey Karjakin and Shakriyar Mamedyarov, are participating in the six-day event. Follow the action live starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2021-live",
-         "pubDate" : "Sat, 18 Dec 2021 11:45:00 +0100",
-         "title" : "Gashimov Memorial - Live!"
-      },
-      {
          "description" : " <p class=\"lead\"> Firouzja, the world's <a href=\"https://worldchess.com/news/all/firouzja-is-number-2-in-the-world-we-just-have-to-deal-with-it/\">number two</a> in the recent FIDE rating list, has declined his invitation to the prestigious <a href=\"https://tatasteelchess.com/about/wijk-aan-zee/\">Wijk aan Zee Tata Steel</a> Tournament. The alleged reason: he <a href=\"https://chess24.com/en/read/news/firouzja-misses-wijk-after-compensation-demand-denied\">demanded financial compensation</a> for a 2021 Incident, when the arbiter made him change tables during his game with Wojtaszek. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E8F79772-6AAA-428F-8785-7AB4FBCA51F9.",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -166,7 +174,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/vote-2021-chesscom-awards",
-         "pubDate" : "Fri, 17 Dec 2021 15:04:54 -0800",
+         "pubDate" : "Fri, 17 Dec 2021 15:04:00 -0800",
          "title" : "Vote For The 2021 Chess.com Awards"
       },
       {
@@ -1784,14 +1792,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1464",
          "pubDate" : "Sat, 04 Dec 2021 18:41:25 +0000",
          "title" : "FIDE World Championship Dubai 2021: Back to the grind"
-      },
-      {
-         "description" : "After a gruelling fight on Friday, Magnus Carlsen and Ian Nepomniachtchi played a rather uneventful game at the World Championship match in Dubai. The 41-move draw they signed marks the halfway point of the event, as Nepo now has seven games tu surmount the one-point deficit on the scoreboard. Saturday's encounter was analysed by Dutch star Anish Giri. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-g7",
-         "pubDate" : "Sat, 04 Dec 2021 18:00:00 +0100",
-         "title" : "World Championship Game 7: A quiet draw"
       },
       {
          "description" : "Carlsen now leads Ian Nepomniachtchi 3.5 - 2.5 at the 2021 FIDE World Chess Championships in Dubai.",
