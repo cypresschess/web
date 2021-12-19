@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Continuing my tribute to the 10 times British Champion Jonathan Penrose, who died recently at the age of 88, perhaps his finest hour was at the 1960 Olympiad in Leipzig, where he beat the reigning world champion (Tal) and a former world champion (Euwe) and drew with a future world champion (Fischer): a game he <a href=\"https://chessimprover.com/jonathan-penrose-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Jonathan Penrose (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/jonathan-penrose-2/\">Jonathan Penrose (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/jonathan-penrose-2/",
+         "pubDate" : "Sun, 19 Dec 2021 13:24:27 +0000",
+         "title" : "Jonathan Penrose (2)"
+      },
+      {
          "description" : "In door number 18, \"Zugzwang is the sharpest endgame weapon\" with Ka2!!! In today's door we take a closer look at a game by Jan Timman and find out: \"Not all rook ending games end in a draw\" if the right move is found.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2224,30 +2232,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/32713238/king-gambit-magnus-carlsen-quest-five-world-champion-ian-nepomniatchi?device=featurephone",
          "pubDate" : "Sun, 28 Nov 2021 12:27:47 -0500",
          "title" : "King's Gambit: Inside Magnus Carlsen's quest to be a five-time World Champion"
-      },
-      {
-         "description" : " The FIDE World Chess Championship reached it's first rest day on Monday all square at 1.5 points each after three games. Magnus Carlsen looked very comfortable in defending the Ruy Lopez Anti-Marshall. It's been assumed in commentary that he's prepared the Marshall but it hasn't been allowed yet so we don't know for certain. Carlsen admitted to playing some \"ugly\" moves but at no point did he seem under pressure. Ian Nepomniachtchi chose 8.a4 rather than the 8.h3 in game one but he didn't achieve very much. Nepomniachtchi thought he might be getting somewhere but his long think after Carlsen's 20...Be6 produced only the move 21.h3 which after 21...c6 22.Bc2 d5 led to complete equality. Carl",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/comfortable-hold-for-carlsen-with-black-in-game-3-of-the-world-chess-championship",
-         "pubDate" : "Sun, 28 Nov 2021 18:39:00 +0400",
-         "title" : "Comfortable hold for Carlsen with black in game 3 of the World Chess Championship - 3"
-      },
-      {
-         "description" : " With a world championship match coming up, it might be interesting to look at how Stockfish would play the first few moves, and, therefore, what openings we're likely to see over the board. What does Stockfish think are the best openings? And, for that matter, what are the worst openings? For White's first move, Stockfish <a href=\"https://chessimprover.com/first-moves/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"First Moves\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/first-moves/\">First Moves</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/first-moves/",
-         "pubDate" : "Sun, 28 Nov 2021 14:20:50 +0000",
-         "title" : "First Moves"
-      },
-      {
-         "description" : " The 2021 Vikings Weekender has ended in a tie for 1st place between CM Paul Russell, and Harry Press. The finished on the unusually low score of 4.5/6, although this was only one of many things that was slightly unusual about this event. Both scored last round wins to take 1st place, with Russell beating WFM Alana Chibnall and Press beating CM Anthony Fikh. Tied for 3rd place were Fikh and Fred Litchfield on 4 points, while Ryan Can and Matt Radisich one the rating prize on 3.5. Due to the small size of the field, almost all games had an effect on the final standings. Curiously the 2 winners did not play each other, not did the top 2 seeds (Press and Litchfield). Press started the tournamen",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/2021-vikings-weekender-tie-for-1st.html",
-         "pubDate" : "Sun, 28 Nov 2021 12:34:00 +0000",
-         "title" : "2021 Vikings Weekender - Tie for 1st"
       }
    ]
 }
