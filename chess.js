@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1489",
+         "pubDate" : "Sun, 19 Dec 2021 20:09:11 +0000",
+         "title" : "Tamir Nabaty wins Israeli Open Championship"
+      },
+      {
+         "description" : "The recent World Championship appears in hindsight to have been very one-sided, with Ian Nepomniachtchi's collapse being dramatic but far from unprecedented. Thinking about collapses, star columnist Jon Speelman went back to the famous battle between Viktor Korchnoi (pictured) and Boris Spassky in Belgrade 1977!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-160",
+         "pubDate" : "Sun, 19 Dec 2021 20:00:00 +0100",
+         "title" : "Boxing in White City"
+      },
+      {
+         "description" : "The Israel Open Championship saw 102 players compete in nine Swiss rounds for the top honours as well as for the 80,000 NIS prize-fund. Quite a few of the country's best junior players were among the participants. GM Tamir Nabaty, the highest rated participant, emerged winner despite an early defeat, ahead of GM Evgeny Postny and Israel's best female player IM Marsel Efroimsky. Report by Yochanan Afek. | Photo: Ritvo photography.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nabaty-wins-israel-championship",
+         "pubDate" : "Sun, 19 Dec 2021 18:00:00 +0100",
+         "title" : "Nabaty wins Israel Championship"
+      },
+      {
          "description" : " Continuing my tribute to the 10 times British Champion Jonathan Penrose, who died recently at the age of 88, perhaps his finest hour was at the 1960 Olympiad in Leipzig, where he beat the reigning world champion (Tal) and a former world champion (Euwe) and drew with a future world champion (Fischer): a game he <a href=\"https://chessimprover.com/jonathan-penrose-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Jonathan Penrose (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/jonathan-penrose-2/\">Jonathan Penrose (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1738,14 +1762,6 @@ news_feed (
          "title" : "2021 World Chess Championship: Game #7"
       },
       {
-         "description" : "The bishop had to move to h1 to hold a draw. A ludicrous move, but one that the absolute majority had on their minds. In door 5 is a puzzle that an engine from 2019 couldn't figure out. Are you better than the computer?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-5006g",
-         "pubDate" : "Sun, 05 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 5"
-      },
-      {
          "description" : " A very quick question for you. You're White in this position. Imagine it's a blitz game so you don't have time to think very deeply: your first thoughts are important. What would you play here? When doing some historical research I chanced upon a game between two London club stalwarts of the inter-war years. Ernest <a href=\"https://chessimprover.com/jellie-wobbles/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Jellie Wobbles\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/jellie-wobbles/\">Jellie Wobbles</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1776,14 +1792,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-8",
          "pubDate" : "Sat, 04 Dec 2021 14:15:00 -0800",
          "title" : "Carlsen Wins Game 8 As Nepo Falters In FIDE World Chess Championship"
-      },
-      {
-         "description" : "Wonder how it looks inside the arena where the World Championship match is taking place? In a big pictorial report, correspondent Venkatachalam Saravanan lets us feel the ambience surrounding the most important chess event of the year. Not to be missed! | Photo: Eric Rosen / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-the-arena",
-         "pubDate" : "Sat, 04 Dec 2021 23:00:00 +0100",
-         "title" : "World Chess Championship - the Arena"
       },
       {
          "description" : " <p class=\"lead\">The World Chess Championship Match is a fascinating (and yes, very long) affair where some of the fastest-thinking people in the world battle for the championship title and millions of dollars that come with it. There are incredible moments there, new chess ideas are introduced and new trends set. The 14-game event where each game takes up to 8 hours is also a bit of a sartorial exercise in which the players wear suits (yes, there is a dress code) and try to look the part. Magnus Carlsen, the defending World Champion, has mastered this task with his signature systematic approach. He has two sets of suits, for black and white pieces. Very convenient, and also a useful piece o",
@@ -2216,22 +2224,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/28/world-championship-bonus-pod-1-the-match-so-far-interviews-from-dubai-with-geert-van-der-velde-and-jonathan-corbblah",
          "pubDate" : "Mon, 29 Nov 2021 03:53:59 +0000",
          "title" : "World Championship Bonus Pod #1- The match so far, + interviews from Dubai with Geert van der Velde and Jonathan Corbblah "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1453",
-         "pubDate" : "Sun, 28 Nov 2021 18:28:56 +0000",
-         "title" : "FIDE World Championship Dubai 2021: Armed and informed"
-      },
-      {
-         "description" : "Ian Nepomniatchi will challenge Magnus Carlsen at the 2021 FIDE World Chess Championships in Dubai.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32713238/king-gambit-magnus-carlsen-quest-five-world-champion-ian-nepomniatchi?device=featurephone",
-         "pubDate" : "Sun, 28 Nov 2021 12:27:47 -0500",
-         "title" : "King's Gambit: Inside Magnus Carlsen's quest to be a five-time World Champion"
       }
    ]
 }
