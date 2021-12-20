@@ -2,11 +2,11 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GM Hikaru Nakamura and GM Wesley So contested their third Speed Chess Championship Final match today, a much anticipated duel after each secured thrilling semi-final victories. Nakamura defeated GM Ding Liren in armageddon in likely the most epic ...",
+         "description" : "GM Hikaru Nakamura and GM Wesley So contested their third Speed Chess Championship Final match today, a much-anticipated duel after each secured thrilling semi-final victories. Nakamura defeated GM Ding Liren in armageddon in likely the most epic ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-wins-speed-chess-championship-final-with-double-digit-dominance",
-         "pubDate" : "Sun, 19 Dec 2021 15:48:09 -0800",
+         "pubDate" : "Sun, 19 Dec 2021 15:48:00 -0800",
          "title" : "Nakamura Wins 2021 Speed Chess Championship Final With Double-Digit Dominance"
       },
       {
@@ -2224,14 +2224,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/hello-from-the-new-director-of-womens-chess/",
          "pubDate" : "Mon, 29 Nov 2021 09:27:49 +0000",
          "title" : "Hello from the new Director of Women's Chess"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a58ea11-a2ae-4f9b-b851-5422928a2f25/Corbblah2.jpg\" data-image-dimensions=\"281x374\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61a44420fc961c23639b0a70\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a58ea11-a2ae-4f9b-b851-5422928a2f25/Corbblah2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\"><a href=\"https://twitter.com/Corbblah\">Jonathan Corbblah defends his title </a> </figcaption> </figure> <figure class=\" sqs-block-image-fig",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/28/world-championship-bonus-pod-1-the-match-so-far-interviews-from-dubai-with-geert-van-der-velde-and-jonathan-corbblah",
-         "pubDate" : "Mon, 29 Nov 2021 03:53:59 +0000",
-         "title" : "World Championship Bonus Pod #1- The match so far, + interviews from Dubai with Geert van der Velde and Jonathan Corbblah "
       }
    ]
 }
