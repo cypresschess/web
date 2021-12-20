@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #176 Karsten M&uuml;ller and Arne K&auml;hler take a look at fascinating rook endings. They start with the last game of the World Championship match between Magnus Carlsen and Ian Nepomniachtchi, and then focus on the game Spielmann vs Rubinstein, St. Petersburg 1909, in which Rubinstein worked his rook endgame magic. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-176-rubinstein-s-rook-endgame-mastery",
+         "pubDate" : "Mon, 20 Dec 2021 18:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic Show #176: Rubinstein's rook endgame mastery"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88397186.cms\" />Viswanathan Anand defeated Shakriyar Mamedyarov of Azerbaijan in the Armageddon after the two-game mini-match ended in a draw for his first victory in the Rapid event of the 7th Vugar Gashimov Memorial chess tournament on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gashimov-memorial-chess-viswanathan-anand-beats-mamedyarov-for-first-win/articleshow/88397186.cms",
+         "pubDate" : "Mon, 20 Dec 2021 21:50:51 +0530",
+         "title" : "Gashimov Memorial Chess: Anand beats Mamedyarov for first win"
+      },
+      {
          "description" : " <p class=\"lead\">World Chess has nominated Daniil Dubov (25, ELO 2720, Russian Federation) as the final Wild Card to the 2022 Grand Prix Series. Dubov will join 23 elite chess players, including Wesley So, Anish Giri, FIDE-nominated Hikaru Nakamura, and others who will compete for two spots in the Candidates Tournament, the final qualifier for the World Chess Championship. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/ABC_0257-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> The nomination comes amid a controversy linked to <a href=\"https://worldchess.com/news/all/russians-partially-blame-dubov-for-nepos",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1586,7 +1602,7 @@ news_feed (
          "title" : "Ignore at Your Peril (3)"
       },
       {
-         "description" : "UPDATE: Due to some pending final updates, Leagues will launch on December 20. Thank you for your patience. Are you looking for yet another way to have fun playing on Chess.com!? Then today is your lucky day, because we are glad to announce a ne...",
+         "description" : "UPDATE: Due to some pending final updates, Leagues will launch on December 27. Thank you for your patience. Are you looking for yet another way to have fun playing on Chess.com!? Then today is your lucky day, because we are glad to announce a ne...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-releases-leagues",
@@ -1744,14 +1760,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-174-carlsen-vs-nepomniachtchi-games-3-to-5",
          "pubDate" : "Mon, 06 Dec 2021 15:00:00 +0100",
          "title" : "Karsten M&uuml;ller's Endgame Magic Show #174: Carlsen vs Nepomniachtchi, Games 3 to 5"
-      },
-      {
-         "description" : "Last Tuesday, 30 November 2021, the English Grandmaster Jonathan Penrose died at the age of 88. In the 1950s and 1960s Penrose was the best British player, and he became internationally famous when he defeated the reigning World Champion Mikhail Tal at the Chess Olympiad in Leipzig 1960.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-memory-of-jonathan-penrose-7-october-1933-30-november-2021",
-         "pubDate" : "Mon, 06 Dec 2021 14:52:07 +0100",
-         "title" : "In memory of Jonathan Penrose (7 October 1933 - 30 November 2021)"
       },
       {
          "description" : "",
@@ -2240,14 +2248,6 @@ news_feed (
          "link" : "https://chessimprover.com/ignore-at-your-peril-2/",
          "pubDate" : "Tue, 30 Nov 2021 09:30:11 +0000",
          "title" : "Ignore at Your Peril (2)"
-      },
-      {
-         "description" : "\"The difference between not the best arbiter and a good one,\" IA Tomasz Delega writes, in the October issue of the ECU E-magazine, \"is that the first one knows the rules and the second one understands also, what these rules are for.\" He explains the situation using the example of the three-fold draw claim: how must this be correctly handled?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-arbiters-and-the-three-fold-draw",
-         "pubDate" : "Mon, 29 Nov 2021 21:14:42 +0100",
-         "title" : "Chess arbiters and the three-fold draw"
       }
    ]
 }
