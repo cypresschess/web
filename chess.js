@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Rapid Chess Championship 2021 concluded on Sunday, 19th of December after two days of play in Katowice, Poland. After 11 played rounds three players were in a tie for the top, scoring 9.5 points each. Tiebreak criteria determined the Winner of the event and the medalists. Alexander Motylev (RUS, 2703) had the best additional criteria to claim&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/alexander-motylev-wins-european-rapid-chess-championship-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/alexander-motylev-wins-european-rapid-chess-championship-2021/",
+         "pubDate" : "Mon, 20 Dec 2021 07:49:24 +0000",
+         "title" : "Alexander Motylev wins European Rapid Chess Championship 2021"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 58th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about Aaron Nimzowitsch and his famous \"Hemmungsstrategie\". | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-58-hemmungsstrategie",
+         "pubDate" : "Mon, 20 Dec 2021 08:00:00 +0100",
+         "title" : "Understanding before Moving 58: \"Hemmungsstrategie\""
+      },
+      {
          "description" : "GM Hikaru Nakamura and GM Wesley So contested their third Speed Chess Championship Final match today, a much-anticipated duel after each secured thrilling semi-final victories. Nakamura defeated GM Ding Liren in armageddon in likely the most epic ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1712,14 +1728,6 @@ news_feed (
          "link" : "https://aicf.in/mpl-50th-national-junior-under-20-35th-national-junior-girls-under-20-chess-championships-2022/",
          "pubDate" : "Mon, 06 Dec 2021 06:48:45 +0000",
          "title" : "MPL 50TH NATIONAL JUNIOR (UNDER-20) & 35TH NATIONAL JUNIOR GIRLS (UNDER-20) CHESS CHAMPIONSHIPS-2022"
-      },
-      {
-         "description" : "Match chess is very different from tournament play and, with no respite from your only enemy, considerably more stressful. The first game of a World Championship is a huge deal even for the defending champion (who has played championship matches before) and more so for debutants. In an excellent column, Jon Speelman looks at four first games from matches for the crown, all played between 1954 and 1972. | Pictured: Mikhail Tal | Photo: Bert Verhoeff, Anefo",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-159",
-         "pubDate" : "Mon, 06 Dec 2021 01:10:00 +0100",
-         "title" : "Single battles"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/dddd74bf-10cb-4380-ad76-4000dcfe9266/Timman.jpg\" data-image-dimensions=\"192x256\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61ad4fa4b151d02ef7fa43df\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/dddd74bf-10cb-4380-ad76-4000dcfe9266/Timman.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo of GM Jan Timman <a href=\"https://upload.wikimedia.org/wikipedia/commons/9/96/Timman_Jan.jpg\">via Wikimedia Commons </a> </figcaption> </fi",
