@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">World Chess has nominated Daniil Dubov (25, ELO 2720, Russian Federation) as the final Wild Card to the 2022 Grand Prix Series. Dubov will join 23 elite chess players, including Wesley So, Anish Giri, FIDE-nominated Hikaru Nakamura, and others who will compete for two spots in the Candidates Tournament, the final qualifier for the World Chess Championship. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/ABC_0257-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> The nomination comes amid a controversy linked to <a href=\"https://worldchess.com/news/all/russians-partially-blame-dubov-for-nepos",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-nominates-daniil-dubov-to-the-grand-prix-series-fear/",
+         "pubDate" : "Mon, 20 Dec 2021 15:28:48 +0000",
+         "title" : "World Chess Nominates Daniil Dubov to the Grand Prix Series; Fears Mild Outrage from Nepo's Fans"
+      },
+      {
+         "description" : "A pre-requisite for an organization to become world class is to have competent people working for it in key managerial positions. This is exactly what FIDE has done by roping in Dana Reizniece-Ozola as the managing director. A look at her credentials and you can have no doubts about her competency. Dana is a former Minister of Economics of Latvia as well as its Finance Minister! She has a Masters in Business Administration, has been the head of space programs and her list of achievements is quite huge. To add to all of this, she is also a strong chess player - a WGM with an Elo of 2283. At the World Championship 2021 in Dubai, IM Sagar Shah met with Dana and had a detailed interview about he",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-vision-of-fide-s-managing-director-dana-reizniece-ozola",
+         "pubDate" : "Mon, 20 Dec 2021 16:00:00 +0100",
+         "title" : "The vision of FIDE's Managing Director - Dana Reizniece-Ozola"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1491",
+         "pubDate" : "Mon, 20 Dec 2021 12:38:12 +0000",
+         "title" : "Hikaru Nakamura is granted wild card to FIDE Grand Prix"
+      },
+      {
+         "description" : " The latest Wes Anderson film \"The French Dispatch\" is, like most Wes Anderson films, quite entertaining, if you like Wes Anderson films. As I do, I quite enjoyed it. It is split into 3 distinct stories, and the middle story has a lot of chess running through it. Loosely based on the 1968 student protests in France, there is a scene where negotiations between students and authorities are carried out by relaying chess moves. Interestingly, the board at each end only contains pieces of a single colour, the opposing pieces having already been removed. While I am sure there was a symbolic reason for this, it actually reminded me of the chess variant <a href=\"https://en.wikipedia.org/wiki/Kriegsp",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/not-quite-kriegspiel.html",
+         "pubDate" : "Mon, 20 Dec 2021 12:32:00 +0000",
+         "title" : "Not quite Kriegspiel"
+      },
+      {
          "description" : "Only four more days and our beautiful endgame magic calendar is over. Could you find the move for the \"King of the Umbrellas\" yesterday? It was Ke6! Today we have an absolute classic in door 20. But who actually made this study?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,6 +152,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-19877",
          "pubDate" : "Sun, 19 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 19"
+      },
+      {
+         "description" : " From the publisher's blurb: &#8220;Funny and brutal. A big-hearted book, I enjoyed it.' Stuart Conquest, Grandmaster &#8216;Carl is gifted as both a natural entertainer and storyteller. Although this memoir is primarily about chess, the tales in it are filled with a frank and refreshing honesty that will literally have your heart racing with adventure.' Jovanka <a href=\"http://britishchessnews.com/2021/12/19/chess-crusader-confessions-of-an-amateur-chess-player/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess Crusader: confessions of an amateur chess-player</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.co",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/12/19/chess-crusader-confessions-of-an-amateur-chess-player/",
+         "pubDate" : "Sun, 19 Dec 2021 00:10:52 +0000",
+         "title" : "Chess Crusader: confessions of an amateur chess-player"
       },
       {
          "description" : "",
@@ -674,6 +714,14 @@ news_feed (
          "title" : "Incredibly Long Puzzles (and other fun puzzles) | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
+         "description" : " Edgard Colle: Caissa's Wounded Warrior : Taylor Kingston From the publisher: &#8220;One of Caissa's Brightest Stars! Mention the name &#8220;Colle&#8221; and many if not most chessplayers think about an opening that is both easy to play as well as one with dynamic potential. Rarely is any thought given to the man himself. Plug the word &#8220;Colle&#8221; <a href=\"http://britishchessnews.com/2021/12/15/edgard-colle-caissas-wounded-warrior/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Edgard Colle: Caissa's Wounded Warrior</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/15/edgard-colle-caissas-wound",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/12/15/edgard-colle-caissas-wounded-warrior/",
+         "pubDate" : "Wed, 15 Dec 2021 00:10:59 +0000",
+         "title" : "Edgard Colle: Caissa's Wounded Warrior"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov talks about the advantage of a rook over a bishop or knight. As Jose Raul Capablanca first noted, the player with the rook can always convert to a win. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/capablanca-converts-extra-exchange-insane-endgame-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VpMT0LBSJC0.jpg?itok=oNNMfdoz\" alt=\"",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -984,6 +1032,14 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/32840390/magnus-carlsen-world-champion-best-chess-player?device=featurephone",
          "pubDate" : "Sat, 11 Dec 2021 23:07:32 -0500",
          "title" : "Anatomy of a GOAT: What makes Magnus Carlsen the world's best chess player"
+      },
+      {
+         "description" : " &#160; &#8220;Born 04/05/1976 Currently living in Alnwick, Northumberland, England. Daniel has been a chess professional for over twenty years, in which time he has played in many tournaments both in the U.K. and abroad. He has represented England in the European team championships and the Olympiad. Daniel has taken high placing in the British chess <a href=\"http://britishchessnews.com/2021/12/12/the-comfort-zone-keys-to-your-chess-success/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Comfort Zone: Keys to Your Chess Success</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/12/the-comfort-zone-ke",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/12/12/the-comfort-zone-keys-to-your-chess-success/",
+         "pubDate" : "Sun, 12 Dec 2021 00:10:03 +0000",
+         "title" : "The Comfort Zone: Keys to Your Chess Success"
       },
       {
          "description" : "",
@@ -1706,14 +1762,6 @@ news_feed (
          "title" : "Jonathan Wells RIP"
       },
       {
-         "description" : "The absolute majority of the answers were \"B\", which proves that you saw a stalemate motif that actually escaped the Komodo engine. Thank you again for the many detailed answers. We'll stay with the engines because the next task could only be solved by Karsten Mueller and Alexei Shirov thanks to \"Fritz 3\"! Attention, the task is not easy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-6479",
-         "pubDate" : "Mon, 06 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 6"
-      },
-      {
          "description" : " After the marathon effort from both players in game 6, it was hardly surprising that game 7 of the 2021 World Championship was a more peaceful affirm. But game 8 saw Carlsen pick up another point as Nepomniachtchi blundered a pawn in the middlegame. The second decisive game of the match sees Carlsen leading 5-3 with 6 games remaining. It will be a tough ask for Nepo to recover from this bad loss, although he does have a rest day today to think about his strategy for the remainder of the match. <br /> <b>Carlsen,Magnus (2856) - Nepomniachtchi,Ian (2782) [C43]</b><br />FIDE World Chess Championship 2021 (8), 05.12.2021 <script>new PgnViewer( { boardName: \"game1292\", movesFormat: \"default\", pg",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1944,14 +1992,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1462",
          "pubDate" : "Fri, 03 Dec 2021 21:58:31 +0000",
          "title" : "FIDE World Championship Dubai 20221: Are we there yet?"
-      },
-      {
-         "description" : " There is no mercy rule in chess, and game 6 of the World Chess Championship match in Dubai lasted a record 136 moves and almost 8 hours, going well into the next day. Carlsen won, but now both players have to race to their hotels and try to recover before game 7, which will take place on the very same day when game 6 ended. It's a first for the Championship matches. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/40E4FE48-1324-40BB-8BED-94DEF444ADB9.jpeg\" width=\"1800\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: David Lliada, FIDE</div> </div> The sheer amount of stress in this chess marathon is phenomenal and the match probably moved from a game ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nepo-lost-whats-next/",
-         "pubDate" : "Fri, 03 Dec 2021 21:20:47 +0000",
-         "title" : "Nepo Lost. What's Next?"
       },
       {
          "description" : " Magnus Carlsen has taken the lead in the FIDE World Chess Championship by beating his challenger Ian Nepomniachtchi in a record breaking 136 move victory. Both players had winning chances in time trouble on the run up to move 40 but after that it was a master class from Carlsen on how to make the most of your chances. Carlsen deliberately extended the game to put maximum pressure on his opponent when he truly went for victory. Nepomniachtchi played well for long periods but mistakes on moves 31, 36, 38 and a particularly careless one on move 52 contributed to this loss. Nepomniachtchi's fatal error came as late as move 130 by that stage his task was extremely hard - especially with the fati",
@@ -2208,22 +2248,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-arbiters-and-the-three-fold-draw",
          "pubDate" : "Mon, 29 Nov 2021 21:14:42 +0100",
          "title" : "Chess arbiters and the three-fold draw"
-      },
-      {
-         "description" : "Look at this position. Black still has all his pieces on the board, while White has just a single pawn, on its original square. So what is the task? \"White to play and win\" says the composer, one of the most imaginative in history. Born in 1860, Ott&oacute; Titusz Bl&aacute;thy composed a large number of \"Grotesques\", extremely unusual positions in which White must win against much larger black forces. These problems are generally intended to be humorous. We hope you enjoy our examples, which should also serve to remind you how you can move the pieces, play and analyse right there on our news page diagrams.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grotesque-chess-problems",
-         "pubDate" : "Mon, 29 Nov 2021 14:00:00 +0100",
-         "title" : "Grotesque chess problems"
-      },
-      {
-         "description" : " The 2021 World Chess Championship is on a rest day today, with the first 3 games all being drawn. This extends the draw streak in classical World Championship games to 17, with the last decisive games being Carlsen's game 10 win over Karjakin in 2016. Although the first 3 games were interesting, it was something else that struck me. In the age of streaming, what matters isn't how exciting the games are, but instead, how exciting the commentators can make them look. I did a quick surf across a number of streaming sites and noticed that in almost all of them, exciting novelties, possible breakthroughs, and amazing variations were being discussed, while the players themselves looked far less e",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/11/2021-world-championship-3-games-all.html",
-         "pubDate" : "Mon, 29 Nov 2021 12:58:00 +0000",
-         "title" : "2021 World Championship - 3 games, all draws"
       }
    ]
 }
