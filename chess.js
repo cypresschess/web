@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Only four more days and our beautiful endgame magic calendar is over. Could you find the move for the \"King of the Umbrellas\" yesterday? It was Ke6! Today we have an absolute classic in door 20. But who actually made this study?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-200",
+         "pubDate" : "Mon, 20 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 20"
+      },
+      {
+         "description" : "The Gashimov Memorial 2021 is a rapid and blitz chess tournament taking place on December 18-23 in Baku. Eight players, including Vishy Anand, Fabiano Caruana, Sergey Karjakin and Shakriyar Mamedyarov, are participating in the six-day event. Follow the action live starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2021-live",
+         "pubDate" : "Mon, 20 Dec 2021 11:45:00 +0100",
+         "title" : "Gashimov Memorial - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1490",
+         "pubDate" : "Mon, 20 Dec 2021 09:37:25 +0000",
+         "title" : "European Rapid and Blitz Championships: Duda and Motylev win titles"
+      },
+      {
          "description" : "European Rapid Chess Championship 2021 concluded on Sunday, 19th of December after two days of play in Katowice, Poland. After 11 played rounds three players were in a tie for the top, scoring 9.5 points each. Tiebreak criteria determined the Winner of the event and the medalists. Alexander Motylev (RUS, 2703) had the best additional criteria to claim&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/alexander-motylev-wins-european-rapid-chess-championship-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -96,14 +120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-19877",
          "pubDate" : "Sun, 19 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 19"
-      },
-      {
-         "description" : "The Gashimov Memorial 2021 is a rapid and blitz chess tournament taking place on December 18-23 in Baku. Eight players, including Vishy Anand, Fabiano Caruana, Sergey Karjakin and Shakriyar Mamedyarov, are participating in the six-day event. Follow the action live starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2021-live",
-         "pubDate" : "Sun, 19 Dec 2021 11:45:00 +0100",
-         "title" : "Gashimov Memorial - Live!"
       },
       {
          "description" : "",
@@ -1698,14 +1714,6 @@ news_feed (
          "title" : "The Endgame Magic Christmas Calendar - Door 6"
       },
       {
-         "description" : "Traditionally, small presents are made on Saint Nicholas Day, 6 December. A nice custom, and today we're giving away a 60 Minutes course by Robert Ris on a current and sharp variation in the Vienna Game. Anyone who has a ChessBase account and logs in or creates a ChessBase account today will find the 60 Minutes video course there for download. Without ifs and buts! Enjoy! | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-nicholas-day-60-minutes-vienna-opening-free-of-charge",
-         "pubDate" : "Mon, 06 Dec 2021 11:44:28 +0100",
-         "title" : "St. Nicholas Day: 60 minutes Vienna Opening free of charge"
-      },
-      {
          "description" : " After the marathon effort from both players in game 6, it was hardly surprising that game 7 of the 2021 World Championship was a more peaceful affirm. But game 8 saw Carlsen pick up another point as Nepomniachtchi blundered a pawn in the middlegame. The second decisive game of the match sees Carlsen leading 5-3 with 6 games remaining. It will be a tough ask for Nepo to recover from this bad loss, although he does have a rest day today to think about his strategy for the remainder of the match. <br /> <b>Carlsen,Magnus (2856) - Nepomniachtchi,Ian (2782) [C43]</b><br />FIDE World Chess Championship 2021 (8), 05.12.2021 <script>new PgnViewer( { boardName: \"game1292\", movesFormat: \"default\", pg",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2216,22 +2224,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/11/2021-world-championship-3-games-all.html",
          "pubDate" : "Mon, 29 Nov 2021 12:58:00 +0000",
          "title" : "2021 World Championship - 3 games, all draws"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1454",
-         "pubDate" : "Mon, 29 Nov 2021 09:56:11 +0000",
-         "title" : "FIDE and Chessable host training camp for young talents in Dubai"
-      },
-      {
-         "description" : "I'd like to introduce myself to you if we've not met before. My name is Aga Milewska, and I am the new Director of Women's...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/hello-from-the-new-director-of-womens-chess/",
-         "pubDate" : "Mon, 29 Nov 2021 09:27:49 +0000",
-         "title" : "Hello from the new Director of Women's Chess"
       }
    ]
 }
