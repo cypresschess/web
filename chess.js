@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura and GM Wesley So contested their third Speed Chess Championship Final match today, a much anticipated duel after each secured thrilling semi-final victories. Nakamura defeated GM Ding Liren in armageddon in likely the most epic ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-speed-chess-championship-final-with-double-digit-dominance",
+         "pubDate" : "Sun, 19 Dec 2021 15:48:09 -0800",
+         "title" : "Nakamura Wins 2021 Speed Chess Championship Final With Double-Digit Dominance"
+      },
+      {
+         "description" : "At the European Rapid Championship in Katowice, three grandmasters finished level on points atop the standings: Alexander Motylev (Russia), Alexander Donchenko (Germany) and Paulius Pultinevicius (Lithuania), each with 9&frac12; points after 11 rounds. According to the tiebreak criteria, Motylev was declared European Champion, Donchenko got the silver medal and Pultinevicius took home the bronze. | Photos: Michał Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/motylev-wins-european-rapid-championship-2021",
+         "pubDate" : "Mon, 20 Dec 2021 00:35:00 +0100",
+         "title" : "Motylev is the new European Rapid Champion"
+      },
+      {
+         "description" : "The fifth edition of the Salamanca Chess Festival took place on December 14-18 at the Colegio Arzobispo Fonseca, a historical edifice built in 1519. The main event was an 8-player single round-robin rapid tournament which had living legends Veselin Topalov and Alexei Shirov as the top seeds. In the end, however, it was Jaime Santos who came out on top, as he scored 6/7 points to finish a full point clear of second-placed Romain Edouard. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/salamanca-masters-2021-jaime-santos-wins",
+         "pubDate" : "Mon, 20 Dec 2021 00:15:00 +0100",
+         "title" : "Jaime Santos dominates Salamanca Masters"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE President Arkady Dvorkovich</strong> <a href=\"https://www.championat.com/other/article-4547765-prezident-fide-arkadij-dvorkovich-ob-itogah-matcha-yan-nepomnyaschij-magnus-karlsen-v-dubae.html\">told</a> the Russian website <strong>Championat</strong> that Madrid presented a very strong bid for the Candidates Tournament 2022, but since it came after the deadline, other options are still checked. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/madrid-likely-candidates-venue/",
+         "pubDate" : "Sun, 19 Dec 2021 23:07:29 +0100",
+         "title" : "Madrid likely Candidates venue"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>96th Hastings Chess Congress</strong> is one of many tournaments after christmas that are <a href=\"https://www.englishchess.org.uk/hastings-cancellation-notice/\">canceled due to another wave of Covid-19 infections</a>. Hardly any of the reports on the <strong>London Chess Classic</strong>, where masks were not mandatory earlier this month, mentioned that several players and commentators got infected and <strong>Nigel Short</strong> had to be hospitalized. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/hastings-congress-canceled/",
+         "pubDate" : "Sun, 19 Dec 2021 21:30:16 +0100",
+         "title" : "Hastings Congress canceled"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -322,7 +362,7 @@ news_feed (
          "title" : "Carlsen's doubts over title defence leave chess facing uncertain future | Leonard Barden"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov teaches a chess class on a topic of his choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/middlegame-king-maneuvers-grandmasters-choice-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nFVeGLEWoiY.jpg?itok=2eCrfWFj\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov looks at games where a king traverses a large portion of the board in the middlegame. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/middlegame-king-maneuvers-grandmasters-choice-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nFVeGLEWoiY.jpg?itok=2eCrfWFj\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/middlegame-king-maneuvers-grandmasters-choice-gm-alex-shabalov",
@@ -840,14 +880,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1477",
          "pubDate" : "Sun, 12 Dec 2021 20:16:13 +0000",
          "title" : "FIDE World Championship 2021: Crowned again"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Corte, an old town in the heart of Corsica, has been <a href=\"http://www.echecs.asso.fr/Actu.aspx?Ref=13667\">chosen as venue</a> of the <strong>Mitropa Cup 2022</strong> on 27 April to 8 May. The ten participating federations have <a href=\"https://www.europechess.org/mitropa-chess-association-founded/\">recently founded</a> the <strong>Mitropa Chess Association</strong> to also collaborate on school chess and other projects. The Italian arbiter and lawyer <strong>Marco Biagioli</strong> is the President, the Austrian <strong>Walter Kastner</strong> is the General Secretary. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/corsica-to-host-mitropa-cup/",
-         "pubDate" : "Sun, 12 Dec 2021 19:21:30 +0100",
-         "title" : "Corsica to host Mitropa Cup"
       },
       {
          "description" : "Asian Chess Federation turn 31 today!! AICF congratulate Asian Chess Federation and all the Asian Countries!! We are one Family!!",
@@ -1706,14 +1738,6 @@ news_feed (
          "title" : "Carlsen On Verge Of Retaining Title As Nepo Blunders Piece"
       },
       {
-         "description" : "Magnus Carlsen now has a two-point lead at the World Championship match in Dubai, after beating Ian Nepomniachtchi's Petroff Defence in Sunday's game 8. Nepo made a couple of inexplicable moves in positions that seemed to be all but forcefully heading to an inevitable draw. Find here the crucial encounter analysed by elite grandmaster and theoretical expert Anish Giri. | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-g8",
-         "pubDate" : "Sun, 05 Dec 2021 22:20:00 +0100",
-         "title" : "World Championship Game 8: Nepomniachtchi self-destructs"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1744,14 +1768,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-championship-game-8-nepo-failed-for-the-second-time/",
          "pubDate" : "Sun, 05 Dec 2021 16:38:50 +0000",
          "title" : "World Chess Championship: Nepo Lost Game 8, His Chances to Win the Match Are Minimal"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 56th instalment of his ChessBase show \"Understanding before Moving\", Herman takes a look at the \"octopus\", a strong knight in the enemy camp. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-56",
-         "pubDate" : "Sun, 05 Dec 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 56: The Octopus"
       },
       {
          "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 7 Match Score: 4-3 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 7 Saturday, 4 December 2021 After epic battle, players settle for quiet draw The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/05/2021-world-chess-championship-game-7/\">2021 World Chess Championship: Game #7</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -2032,14 +2048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1460",
          "pubDate" : "Thu, 02 Dec 2021 14:34:28 +0000",
          "title" : "Havana 1966 inspires Dubai 2021"
-      },
-      {
-         "description" : "The 2022 FIDE Grand Prix, a series of three tournaments that will qualify two players for the 2022 Candidates Tournament, will start on February 3, 2022. Details were announced on Thursday by World Chess. While GM Magnus Carlsen and GM Ian Nepom...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-chess",
-         "pubDate" : "Thu, 02 Dec 2021 04:38:00 -0800",
-         "title" : "2022 FIDE Grand Prix To Start February 3"
       },
       {
          "description" : " Good Coaches help you improve. Great Coaches change the way you think about Chess. I was lucky enough to have some amazing Coaches during my Career. One of them was Grandmaster Iossif Dorfman. The name might ring a bell. Yes, I am talking of the Iossif Dorfman that assisted the great Garry Kasparov in his [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/what-i-learned-from-gm-iossif-dorfman/\">What I Learned From GM Iossif Dorfman</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
