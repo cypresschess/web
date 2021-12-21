@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase is launching a unique NFT series of 16 world chess champions, united with their iconic games and moves that have made history in their sublime beauty. The iconic games of the great minds of chess are dynamically presented in their international notation. A font specially designed for this series allows historical portraits and private photographs to merge with the moves. Behind the notation, the key position of the master's game appears in 3D ray tracing technology from ChessBase. Alternating with this is an intense portrait of the world champion from his active time. You can read. You can see. You can feel. The moment of genius. And you can now bid for them on Opensea.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nft-collection-moments-of-genius",
+         "pubDate" : "Tue, 21 Dec 2021 09:27:18 +0100",
+         "title" : "NFT collection: Moments of Genius"
+      },
+      {
+         "description" : "In the diagram position it is White to move and draw. Black's passed pawns are far advanced and it seems as if one of them will queen soon. However, White still has a way to draw. What should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-tactics-2",
+         "pubDate" : "Tue, 21 Dec 2021 09:00:00 +0100",
+         "title" : "Endgame tactics"
+      },
+      {
          "description" : "For a fourth year in a row, Hikaru Nakamura won the online Speed Chess Championship organized by chess.com. His opponent in the deciding match was Wesley So, who lost a third final against his compatriot. It was a one-sided affair, as the online blitz and bullet specialist won by an impressive 23-8 score.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1736,22 +1752,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-ding-aronian",
          "pubDate" : "Mon, 06 Dec 2021 13:07:00 -0800",
          "title" : "Speed Chess Championship: Ding Eliminates Aronian, Reaches Semifinals"
-      },
-      {
-         "description" : "Christmas trees mixed with chess boards at the 2021 Forester Open. Grandmaster Christopher Repka and International Masters Brian Escalante Ramirez and Viktor Gazik shared $3,224 for first through third places, acquiring spending money for this holiday season.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-forester-open-2021-chess-among-the-trees",
-         "pubDate" : "Mon, 06 Dec 2021 21:00:00 +0100",
-         "title" : "The Forester Open 2021 - Chess Among the Trees"
-      },
-      {
-         "description" : "At the halfway mark in the 1969 World Championship between Petrosian and Spassky, the match score was level. Petrosian only needed to draw the match to retain his title, and with his super-solid Petroff it looked like he was going to wrap things up. But in game 17 and 19 Petrosian suddenly switched to Sicilian, losing calamitously. John Saunders retraces the course of the match that decided who would defend the title against Fischer three years later.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/why-did-petrosian-stop-playing-the-petroff",
-         "pubDate" : "Mon, 06 Dec 2021 17:00:00 +0100",
-         "title" : "Why did Petrosian stop playing the Petroff"
       },
       {
          "description" : " <p class=\"lead\">After the second decisive game of the World Chess Championship 2021, Magnus Carlsen said that his second win probably came on the heels of the first one. \"The second win probably didn't happen without the first one. Everything is connected. For instance, if I had won the game against Caruana when I had a winning position or he had won one, there could have been many more decisive games. It's not a shock that the second win comes quickly after the first,\" - said the World Champion. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Yc3x_Q3_lAE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> After being asked about his chanc",
