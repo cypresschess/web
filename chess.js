@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase is launching a unique NFT series of the world chess champions, united with their iconic games and moves that have made history in their sublime beauty. Each NFT is authorized by the player himself. A font specially designed for this series allows historical portraits and private photographs to merge with the moves. Behind the notation, the key position of a very famous game appears in 3D ray tracing technology from ChessBase. Alternating with this is an intense portrait of the world champion from his active time. You can read. You can see. You can feel. The moment of genius. And you can now bid for them on Opensea.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nft-collection-moments-of-genius",
+         "pubDate" : "Tue, 21 Dec 2021 16:59:01 +0100",
+         "title" : "NFT collection: Moments of Genius"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9bb00636-2ace-49c2-b0c1-f2f5027458ab/Sadler2.jpg\" data-image-dimensions=\"500x466\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61c1e5f31e55d51d8a21c201\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9bb00636-2ace-49c2-b0c1-f2f5027458ab/Sadler2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo Courtesy of <a href=\"https://www.newinchess.com/en_US/new-in-chess-magazines\">New in Chess Magazine </a> </figcaption> </figure> <p data-",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/21/ep-258-gm-matthew-sadler",
+         "pubDate" : "Tue, 21 Dec 2021 14:33:57 +0000",
+         "title" : "EP 258- GM Matthew Sadler "
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The field of <a href=\"https://chess24.com/en/read/news/nakamura-and-dubov-get-grand-prix-wildcards\">24 Grandprix participants (listed here)</a> has been completed by the wildcards of <strong>FIDE</strong> <a href=\"https://www.fide.com/news/1491\">to <strong>Hikaru Nakamura</strong></a>, whose last classical game was in the Grandprix in November 2019 in Hamburg, and by organiser <strong>WorldChess</strong> <a href=\"https://worldchess.com/news/all/world-chess-nominates-daniil-dubov-to-the-grand-prix-series-fear/\">to <strong>Daniil Dubov</strong></a>. Each participant will each get to play two out of three Grandprix-Tournaments in Berlin and Belgrade, s",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/nakamura-and-dubov-get-grandprix/",
+         "pubDate" : "Tue, 21 Dec 2021 14:50:00 +0100",
+         "title" : "Nakamura and Dubov get Grandprix wildcards"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Being spared a trip to icy Kazakhstan, top professionals keep entering the <strong>World Rapid and Blitz Championship</strong> after its relocation to Warsow, giving it <a href=\"https://worldrapidandblitz.fide.com/rapid-open/\">its probably strongest line-up</a> ever. From the top ten at classical chess only <strong>Wesley So</strong> and <strong>Ding Liren</strong> don't make the trip. The main sponsor <strong>Tatneft</strong>, a Russian oil and gas company with interests in Kazakhstan, <a href=\"https://www.fide.com/news/1493\">apparently doesn't mind</a> the relocation. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/strong-line-up-in-warsow/",
+         "pubDate" : "Tue, 21 Dec 2021 14:40:08 +0100",
+         "title" : "Strong line-up in Warsow"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -34,12 +66,12 @@ news_feed (
          "title" : "Gashimov Memorial - Live!"
       },
       {
-         "description" : "&#34;It is unlikely that I will play another match unless maybe if the next challenger represents the next generation,&#34; wrote GM Magnus Carlsen today in a blog post for one of his sponsors. The world champion once again mentioned GM Alireza Firouzja a...",
+         "description" : "&#34;It is unlikely that I will play another match unless maybe if the next challenger represents the next generation,&#34; wrote GM Magnus Carlsen on Tuesday in a blog post for one of his sponsors. The world champion once again mentioned GM Alireza Firou...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/magnus-carlsen-blog-giri-firouzja",
-         "pubDate" : "Tue, 21 Dec 2021 02:32:38 -0800",
-         "title" : "Carlsen: \"Passion Must Be The Main Driver\""
+         "pubDate" : "Tue, 21 Dec 2021 02:32:00 -0800",
+         "title" : "Carlsen: 'Passion Must Be The Main Driver'"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-52/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (52)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-52/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (52)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
@@ -295,7 +327,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-vugar-gashimov-memorial-round-1",
          "pubDate" : "Sat, 18 Dec 2021 10:39:00 -0800",
-         "title" : "Gashimov Memorial R1: Anand Stumbles In Opening Round"
+         "title" : "Gashimov Memorial: Anand Stumbles In Opening Round"
       },
       {
          "description" : "The 7th edition of the Vugar Gashimov Memorial kicked off today in Baku, Azerbaijan. The event is played from 18th-24th December and consists of Rapid and Blitz tournaments with a double round-robin system for each. Eight Super Grandmasters participate in the event: Fabiano Caruana, Mamedyarov Shakhriyar, Rapport Richard, Viswanathan Anand, Karjakin Sergey, Navara David, Mamedov Rauf and Asadli&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/vugar-gashimov-memorial-2021/\">Read More &#187;</a></span>",
@@ -536,14 +568,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/soren-hoby-andersen-joins-skoleskak/",
          "pubDate" : "Thu, 16 Dec 2021 22:33:20 +0100",
          "title" : "S&oslash;ren Hoby Andersen joins Skoleskak"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has finalized the schedule for its <a href=\"https://congress2021.fide.com/\">2021 Congress</a> held online. Commissions have been meeting since 6 December. The General Assembly will be on 28 December, coinciding with the World Rapid Championship. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/fide-general-assembly-on-28-december/",
-         "pubDate" : "Thu, 16 Dec 2021 21:41:07 +0100",
-         "title" : "FIDE General Assembly on 28 December"
       },
       {
          "description" : "This week, well-known Dutch trainer Robert Ris looks at a promising line that White may try against the Pirc. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -912,14 +936,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-14678",
          "pubDate" : "Tue, 14 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 14"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Carl Eriksson</strong>, who freelances as a designer for <strong>Chessbase</strong>, has created an <a href=\"https://nft.chessbase.com/\">NFT series</a> brought on the market by the German software house. Meanwhile <strong>Concordium</strong>, a blockchain company headed by Norwegian <strong>Lars Seier Christensen</strong>, <a href=\"https://medium.com/concordium/play-magnus-group-to-bring-chess-nfts-to-market-on-concordium-913dc6bb06b0\">announced</a> that it is minting <a href=\"https://www.chesstech.org/2021/chasing-the-biggest-fans/\">NFTs</a> at a lower CO2 footprint for the <strong>Play Magnus Group</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/chessbase-joins-nft-hype/",
-         "pubDate" : "Tue, 14 Dec 2021 11:26:58 +0100",
-         "title" : "Chessbase joins NFT craze"
       },
       {
          "description" : "The award-winning program \"Fritz & Chesster\" (Vol. 1) that has helped hundreds of thousands of children all over the world to learn and to enjoy chess is now available in eight languages! English, Spanish, French, Polish, Swedish, Dutch, Slovakian and German. The online version of the program runs on practically all systems without the need to install software. All graphics have been redrawn and enlarged! | Photo: lemi-consulting.com",
@@ -1746,14 +1762,6 @@ news_feed (
          "title" : "The Endgame Magic Christmas Calendar - Door 7"
       },
       {
-         "description" : "This year, the Dutch National Championship was played in two stages. In the knockout preliminaries four players had qualified for the finals: Max Warmerdam, Robin Swinkels, Roeland Pruijssers, and Hing Ting Lai. Max Warmerdam convincingly won the finals, a double round-robin which was played last week. | Photos: Harry Gielen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/max-warmerdam-wins-dutch-championship",
-         "pubDate" : "Tue, 07 Dec 2021 11:19:51 +0100",
-         "title" : "Max Warmerdam wins Dutch Championship"
-      },
-      {
          "description" : "ECU E-Magazine November 2021 is out! In this edition of the ECU Magazine you may read about: FIDE World Chess Championship Match 2021, Magnus Carlsen Ian Nepomniachtchi European Team Chess Championship 2021 ECU Congress 2021 Mitropa Chess Association Liechtenstein Chess Federation 50 years anniversary European Small Nations Team Chess Championship 2021 London Chess Classic 2021 European Online&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-november-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2248,14 +2256,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/30/episode-255-wgm-tatev-abrahamyan",
          "pubDate" : "Tue, 30 Nov 2021 17:03:00 +0000",
          "title" : "Episode 255- WGM Tatev Abrahamyan "
-      },
-      {
-         "description" : " The FIDE World Chess Championship in Dubai resumed today after its first rest day. Game four took place on Magnus Carlsen's birthday - he has reasonable memories of playing on this day - winning as he did the tie-break match against Sergey Karjakin in 2016. Today Carlsen had the white pieces said that he expected the Petroff - Nepomniachtchi had used it in a game in the Candidates and that he was ready for it. \"I tried something concrete - it didn't work. That's a normal result. I didn't expect him to have missed the line I played completely but in some other iterations there can be a lot of difficult decisions to make for black. But I think the way that he played there was just - there are",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/nepomniachtchi-gets-an-easy-draw-using-the-petroff-defence-in-world-championship-game-4",
-         "pubDate" : "Tue, 30 Nov 2021 19:03:00 +0400",
-         "title" : "Nepomniachtchi gets an easy draw using the Petroff Defence in World Championship Game 4 - 4"
       }
    ]
 }
