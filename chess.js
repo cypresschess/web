@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her first hour on the Najdorf, the Cadillac (or enchilada) of chess openings. 2021.12.15<br /> Dorsa Derakhshani vs. Robby Kevlishvili, 2015: B93 Sicilian, Najdorf, 6.f4<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3968651\">https://www.365chess.com/game.php?back=1&amp;gid=3968651</a><br /> B87 Sicilian, Sozin with ...a6 and ...b5 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-sicilian-najdorf-1-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Tue, 21 Dec 2021 19:29:59 +0000",
+         "title" : "Play the Sicilian: Najdorf #1 | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her second hour on the Najdorf, the Cadillac (or enchilada) of chess openings. 2021.12.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-najdorf-2-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-sicilian-najdorf-2-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Tue, 21 Dec 2021 19:29:59 +0000",
+         "title" : "Play the Sicilian: Najdorf #2 | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani traces her degrees of separation by victory to world champion Magnus Carlsen, using MagnusNumber.com. 2021.12.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-your-magnus-number-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GVkK4NOLyiA.jpg?itok=Hts-aOcl\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/whats-your-magnus-number-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Tue, 21 Dec 2021 19:29:59 +0000",
+         "title" : "What's Your Magnus Number? | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 chess rating. 2021.12.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exploit-small-weaknesses-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/otiSPKCfE1U.jpg?itok=5O1hf_3C\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exploit-small-weaknesses-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Tue, 21 Dec 2021 19:29:59 +0000",
+         "title" : "Exploit Small Weaknesses | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
+         "description" : "GM Sergey Karjakin and GM Richard Rapport are tied for first place after four days of rapid chess at the Vugar Gashimov Memorial in Baku, Azerbaijan. GM Viswanathan Anand is currently in last place, but there are 14 rounds of blitz to play. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-vugar-gashimov-memorial-rapid-karjakin-rapport",
+         "pubDate" : "Tue, 21 Dec 2021 10:28:00 -0800",
+         "title" : "Gashimov Memorial: Karjakin, Rapport Lead Before Blitz"
+      },
+      {
+         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the Sitges tournament, in which a number of the world's brightest stars take part. The game of the day will be Niemann-Puranik where the young Indian GM gets the better of, to quote Lawrence, \"the greatest American natural talent since Nakamura\". | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-sunway-sitges",
+         "pubDate" : "Tue, 21 Dec 2021 19:00:00 +0100",
+         "title" : "The Weekly Show: Sunway Sitges"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88417986.cms\" />Indian chess maestro Viswanathan Anand lost both his matches in the Rapid event to end his campaign with just one victory at the 7th Vugar Gashimov Memorial chess tournament on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gashimov-memorial-chess-anand-ends-rapid-event-with-two-more-defeats/articleshow/88417986.cms",
+         "pubDate" : "Tue, 21 Dec 2021 21:55:47 +0530",
+         "title" : "Gashimov Memorial: Anand ends Rapid event with two more defeats"
+      },
+      {
          "description" : "ChessBase is launching a unique NFT series of the world chess champions, united with their iconic games and moves that have made history in their sublime beauty. Each NFT is authorized by the player himself. A font specially designed for this series allows historical portraits and private photographs to merge with the moves. Behind the notation, the key position of a very famous game appears in 3D ray tracing technology from ChessBase. Alternating with this is an intense portrait of the world champion from his active time. You can read. You can see. You can feel. The moment of genius. And you can now bid for them on Opensea.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -127,7 +183,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gashimov-memorial-chess-viswanathan-anand-beats-mamedyarov-for-first-win/articleshow/88397186.cms",
          "pubDate" : "Mon, 20 Dec 2021 21:50:51 +0530",
-         "title" : "Gashimov Memorial Chess: Anand beats Mamedyarov for first win"
+         "title" : "Gashimov Memorial: Anand beats Mamedyarov for first win"
       },
       {
          "description" : " <p class=\"lead\">World Chess has nominated Daniil Dubov (25, ELO 2720, Russian Federation) as the final Wild Card to the 2022 Grand Prix Series. Dubov will join 23 elite chess players, including Wesley So, Anish Giri, FIDE-nominated Hikaru Nakamura, and others who will compete for two spots in the Candidates Tournament, the final qualifier for the World Chess Championship. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/ABC_0257-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> The nomination comes amid a controversy linked to <a href=\"https://worldchess.com/news/all/russians-partially-blame-dubov-for-nepos",
@@ -802,14 +858,6 @@ news_feed (
          "title" : "So beats Nihal to reach Speed Chess Championship final"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at wild chess puzzles! The mysterious masked Caleb will even look at a puzzle with a 500+ move solution! Plus, see incredibly long self-mate compositions, where you must force the opponent to checkmate you! 2021.12.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/incredibly-long-puzzles-and-other-fun-puzzles-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/incredibly-long-puzzles-and-other-fun-puzzles-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 15 Dec 2021 04:22:31 +0000",
-         "title" : "Incredibly Long Puzzles (and other fun puzzles) | Road to 2000 - NM Caleb Denby"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88290029.cms\" />Newly-crowned double World Chess champion Magnus Carlsen says he's unlikely to defend his title unless he faces French-Iranian prodigy Alireza Firouzja.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -818,28 +866,12 @@ news_feed (
          "title" : "Magnus Carlsen says he might not defend his world chess title"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at wild chess puzzles! The mysterious masked Caleb will even look at a puzzle with a 500+ move solution! 2021.12.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/incredibly-long-puzzles-and-other-fun-puzzles-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/He6h9_XNBt0.jpg?itok=g5vZYLjM\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/incredibly-long-puzzles-and-other-fun-puzzles-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Wed, 15 Dec 2021 01:22:28 +0000",
-         "title" : "Incredibly Long Puzzles (and other fun puzzles) | Road to 2000 - NM Caleb Denby | lichess.org"
-      },
-      {
          "description" : " Edgard Colle: Caissa's Wounded Warrior : Taylor Kingston From the publisher: &#8220;One of Caissa's Brightest Stars! Mention the name &#8220;Colle&#8221; and many if not most chessplayers think about an opening that is both easy to play as well as one with dynamic potential. Rarely is any thought given to the man himself. Plug the word &#8220;Colle&#8221; <a href=\"http://britishchessnews.com/2021/12/15/edgard-colle-caissas-wounded-warrior/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Edgard Colle: Caissa's Wounded Warrior</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/15/edgard-colle-caissas-wound",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
          "link" : "http://britishchessnews.com/2021/12/15/edgard-colle-caissas-wounded-warrior/",
          "pubDate" : "Wed, 15 Dec 2021 00:10:59 +0000",
          "title" : "Edgard Colle: Caissa's Wounded Warrior"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov talks about the advantage of a rook over a bishop or knight. As Jose Raul Capablanca first noted, the player with the rook can always convert to a win. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/capablanca-converts-extra-exchange-insane-endgame-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VpMT0LBSJC0.jpg?itok=oNNMfdoz\" alt=\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/capablanca-converts-extra-exchange-insane-endgame-gm-alex-shabalov",
-         "pubDate" : "Tue, 14 Dec 2021 22:22:22 +0000",
-         "title" : "Capablanca Converts the Extra Exchange | Insane in the Endgame - GM Alex Shabalov"
       },
       {
          "description" : "From the 1970s to the 1990s Jan Timman, born in Amsterdam on 14 December 1951, was one of the world's best players. He qualified several times for the candidates and in 1993 he became FIDE Vice World Champion. Timman is also a renowned study composer and a prolific and excellent writer. Today, the Dutch Grandmaster celebrates his 70th birthday.",
@@ -1048,14 +1080,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-1344",
          "pubDate" : "Mon, 13 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 13"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Harrison Keyser teaches us about some Quick Traps in the Max Lange Attack. Learn everything you need to know about the Max Lange Attack in this video! Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/ArcG3\">https://www.youtube.com/c/ArcG3</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> 0:00 Intro<br /> 0:24 Starting Position<br /> 1:04 6. e5 Ne4?<br /> 2:02 6. e5 Ng4?!<br /> 2:47 MOST COMMON TRAP<br /> 4:32 Mainlines and Traps after 9... Qd5<br /> 7:35 Conclusion </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-v",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-win-fast-max-lange",
-         "pubDate" : "Mon, 13 Dec 2021 04:20:08 +0000",
-         "title" : "How To WIN FAST with the MAX LANGE"
       },
       {
          "description" : "",
@@ -1754,14 +1778,6 @@ news_feed (
          "title" : "Bishop takes out both rooks"
       },
       {
-         "description" : "First, thank you very much for all the answers! We are delighted that this calendar is so well received. Door number 6 proved to be one of the most difficult ones, although the majority were able to find the somewhat bizarre move Kh8. If you thought door 6 was tough already, today we raise the difficulty even more. Good luck!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-7654",
-         "pubDate" : "Tue, 07 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 7"
-      },
-      {
          "description" : "ECU E-Magazine November 2021 is out! In this edition of the ECU Magazine you may read about: FIDE World Chess Championship Match 2021, Magnus Carlsen Ian Nepomniachtchi European Team Chess Championship 2021 ECU Congress 2021 Mitropa Chess Association Liechtenstein Chess Federation 50 years anniversary European Small Nations Team Chess Championship 2021 London Chess Classic 2021 European Online&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-november-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2106,14 +2122,6 @@ news_feed (
          "title" : "The fickle finger of fashion"
       },
       {
-         "description" : "Jonathan Penrose, a 10-time British champion, grandmaster as well as correspondence grandmaster who famously defeated reigning world champion Mikhail Tal at the 1960 Leipzig Olympiad, has died at the age of 88. This was reported by The Guardian. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jonathan-penrose-obituary",
-         "pubDate" : "Fri, 03 Dec 2021 02:55:00 -0800",
-         "title" : "Jonathan Penrose (1933-2021)"
-      },
-      {
          "description" : " So last week, I suggested that tactics wasn't the be all, end all to good chess playing. It takes a balanced combination of chess skills to be a successful player. However, I don't want you to think that tactics is secondary to mastering the game. You have to be both a tactical player and a <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-four/\">A Foundation for Beginners Forty Four</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2240,22 +2248,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-1",
          "pubDate" : "Wed, 01 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1455",
-         "pubDate" : "Tue, 30 Nov 2021 19:13:11 +0000",
-         "title" : "FIDE World Championship Dubai 2021: Closing window"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e23f8040-0ba8-4127-95a0-16642d9fa36c/Tatev.1.png\" data-image-dimensions=\"695x532\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61a657b639c80d10d8974039\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e23f8040-0ba8-4127-95a0-16642d9fa36c/Tatev.1.png?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by <a href=\"https://lennartootes.com\">Lennart Ootes</a> <a href=\"https://bryghtlabs.com/blogs/news\">via Bryghtlabs blog </a> </figcaption",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/11/30/episode-255-wgm-tatev-abrahamyan",
-         "pubDate" : "Tue, 30 Nov 2021 17:03:00 +0000",
-         "title" : "Episode 255- WGM Tatev Abrahamyan "
       }
    ]
 }
