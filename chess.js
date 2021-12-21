@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1492",
+         "pubDate" : "Mon, 20 Dec 2021 21:19:35 +0000",
+         "title" : "Six rounds played at the FIDE Online Cadets & Youth Rapid Super Final"
+      },
+      {
          "description" : "In the Endgame Magic Show #176 Karsten M&uuml;ller and Arne K&auml;hler take a look at fascinating rook endings. They start with the last game of the World Championship match between Magnus Carlsen and Ian Nepomniachtchi, and then focus on the game Spielmann vs Rubinstein, St. Petersburg 1909, in which Rubinstein worked his rook endgame magic. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,6 +130,22 @@ news_feed (
          "title" : "Madrid likely Candidates venue"
       },
       {
+         "description" : " The Chess.com Speed Chess Championship took place Mon 8th Nov to Sun 19th Dec 2021. Round 1 pairings: Nov 8 Giri 14-12 Duda, Nov 9 Ding 14-12 Mamedyarov, Nov 10 Rapport 16.5-14.5 Sarana, Nov 11 Nihal Sarin 15.5-10.5 Grischuk, Nov 11 Aronian 15-12 Dubov, Nov 12 Nakamura 22-10 Svidler, Nov 15 So 18-14 Xiong and Nov 29 Caruana 13.5-12.5 MVL. Quarter Finals December 2nd Sarin 18-9 Rapport. December 6th Ding 15-11 Aronian, Nakamura 18.5-10.5 Giri and So 17.5-9.5 Caruana. Semi Finals December Nakamura just squeezed past Ding Liren 16.5-15.5. Wesley So beat Nihail Sarin 15-14 in another super close match. The final was dominated by Nakamura - after taking a two point lead after the first 5 minute ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-championship-2021",
+         "pubDate" : "Mon, 20 Dec 2021 00:52:00 +0400",
+         "title" : "Chess.com Speed Chess Championship 2021 - Games and Results"
+      },
+      {
+         "description" : " The European Rapid and Blitz Championships took place in Katowice 17th to 19th December 2021. Top seed Jan-Krzysztof Duda won the blitz with 18/22 half a point clear of Maciej Klekowski. The rapid was won by Alexander Motylev on tie-break from Alexander Donchenko and Paulius Pultinevicius after all scored 9.5/11.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/european-rapid-and-blitz-2021",
+         "pubDate" : "Mon, 20 Dec 2021 00:37:00 +0400",
+         "title" : "European Rapid and Blitz 2021 - Games and Results"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>96th Hastings Chess Congress</strong> is one of many tournaments after christmas that are <a href=\"https://www.englishchess.org.uk/hastings-cancellation-notice/\">canceled due to another wave of Covid-19 infections</a>. Hardly any of the reports on the <strong>London Chess Classic</strong>, where masks were not mandatory earlier this month, mentioned that several players and commentators got infected and <strong>Nigel Short</strong> had to be hospitalized. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -186,28 +210,12 @@ news_feed (
          "title" : "Hungarian Championship: Peter Acs and Zsuzsanna Terbe clinch titles"
       },
       {
-         "description" : " The Chess.com Speed Chess Championship takes place Mon 8th Nov to Sun 19th Dec 2021. Hikaru Nakamura faces Wesley So in the final on Sunday 19th December at 18:00 GMT. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-championship-2021",
-         "pubDate" : "Sun, 19 Dec 2021 00:52:00 +0400",
-         "title" : "Chess.com Speed Chess Championship 2021 - Games and Results"
-      },
-      {
          "description" : " The 7th Vugar Gashimov Memorial is a rapid mini-match tournament combined with a double round robin blitz that takes place Fri 17th Dec 2021\tFri 24th Dec 2021. Players: Richard Rapport, Fabiano Caruana, Shakhriyar Mamedyarov, Rauf Mamedov, Viswanathan Anand, David Navara, Vugar Asadli and Sergey Karjakin. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/7th-vugar-gashimov-memorial-2021",
          "pubDate" : "Sun, 19 Dec 2021 00:48:00 +0400",
          "title" : "7th Vugar Gashimov Memorial 2021 - Games and Results"
-      },
-      {
-         "description" : " The European Rapid and Blitz Championships take place in Katowice 17th to 19th December 2021. Top seed \tJan-Krzysztof Duda won the blitz with 18/22 half a point clear of Maciej Klekowski. The rapid finishes on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/european-rapid-and-blitz-2021",
-         "pubDate" : "Sun, 19 Dec 2021 00:37:00 +0400",
-         "title" : "European Rapid and Blitz 2021 - Games and Results"
       },
       {
          "description" : "",
