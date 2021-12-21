@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For a fourth year in a row, Hikaru Nakamura won the online Speed Chess Championship organized by chess.com. His opponent in the deciding match was Wesley So, who lost a third final against his compatriot. It was a one-sided affair, as the online blitz and bullet specialist won by an impressive 23-8 score.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hikaru-nakamura-wins-speed-chess-championship-2021",
+         "pubDate" : "Tue, 21 Dec 2021 00:25:00 +0100",
+         "title" : "Hikaru Nakamura wins fourth straight Speed Chess Championship"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1042,7 +1050,7 @@ news_feed (
          "title" : "The Endgame Magic Christmas Calendar - Door 12"
       },
       {
-         "description" : " Share!33 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 1 &frac12; 1 1 &frac12; 1 7&frac12; Caruana &frac12; &frac12; &frac12; &frac12; &frac12; 0 &frac12; 0 0 &frac12; 0 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/12/magnus-carlsen-retains-title-winning-7-5-3-5/\">Magnus Carlsen retains title, winning 7.5-3.5!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!152 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 1 &frac12; 1 1 &frac12; 1 7&frac12; Caruana &frac12; &frac12; &frac12; &frac12; &frac12; 0 &frac12; 0 0 &frac12; 0 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/12/magnus-carlsen-retains-title-winning-7-5-3-5/\">Magnus Carlsen retains title, winning 7.5-3.5!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/12/magnus-carlsen-retains-title-winning-7-5-3-5/",
@@ -1760,14 +1768,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/12/06/2021-world-chess-championship-game-8/",
          "pubDate" : "Mon, 06 Dec 2021 14:38:55 +0000",
          "title" : "2021 World Chess Championship: Game #8"
-      },
-      {
-         "description" : "In the Endgame Magic Show #174 Karsten M&uuml;ller and Arne K&auml;hler continue to follow the World Championship match and take a close look how Carlsen and Nepomniachtchi played in games 3 to 5 of the match. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-174-carlsen-vs-nepomniachtchi-games-3-to-5",
-         "pubDate" : "Mon, 06 Dec 2021 15:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #174: Carlsen vs Nepomniachtchi, Games 3 to 5"
       },
       {
          "description" : "",
