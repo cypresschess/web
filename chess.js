@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "ChessBase is launching a unique NFT series of 16 world chess champions, united with their iconic games and moves that have made history in their sublime beauty. The iconic games of the great minds of chess are dynamically presented in their international notation. A font specially designed for this series allows historical portraits and private photographs to merge with the moves. Behind the notation, the key position of the master's game appears in 3D ray tracing technology from ChessBase. Alternating with this is an intense portrait of the world champion from his active time. You can read. You can see. You can feel. The moment of genius. And you can now bid for them on Opensea.",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1493",
+         "pubDate" : "Tue, 21 Dec 2021 11:52:51 +0000",
+         "title" : "Tatneft becomes an official sponsor of the FIDE World Rapid & Blitz Championships 2021"
+      },
+      {
+         "description" : "Yesterday's Reti study could be solved with Rd2, or even Rd3. Of course, almost everyone knew that. And today there is another study that even more should know how to solve. Please confirm you know it! And this short study, in this short video, is on the shortest day of the year.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nft-collection-moments-of-genius",
-         "pubDate" : "Tue, 21 Dec 2021 09:27:18 +0100",
-         "title" : "NFT collection: Moments of Genius"
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2122344",
+         "pubDate" : "Tue, 21 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 21"
+      },
+      {
+         "description" : "Raahul and Savitha Shri in sole lead In the open section,VS.Raahul defeated Sri Lankan Liyanage Ranindu Dilshan to be on 6.5 out of 7 games",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-juniors-and-girls2021-srilankareports-of-round-7/",
+         "pubDate" : "Tue, 21 Dec 2021 10:56:36 +0000",
+         "title" : "ASIAN JUNIORS AND GIRLS'2021-SRILANKA:Reports of Round 7"
+      },
+      {
+         "description" : "The Gashimov Memorial 2021 is a rapid and blitz chess tournament taking place on December 18-23 in Baku. Eight players, including Vishy Anand, Fabiano Caruana, Sergey Karjakin and Shakriyar Mamedyarov, are participating in the six-day event. Follow the action live starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2021-live",
+         "pubDate" : "Tue, 21 Dec 2021 11:45:00 +0100",
+         "title" : "Gashimov Memorial - Live!"
+      },
+      {
+         "description" : "&#34;It is unlikely that I will play another match unless maybe if the next challenger represents the next generation,&#34; wrote GM Magnus Carlsen today in a blog post for one of his sponsors. The world champion once again mentioned GM Alireza Firouzja a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-blog-giri-firouzja",
+         "pubDate" : "Tue, 21 Dec 2021 02:32:38 -0800",
+         "title" : "Carlsen: \"Passion Must Be The Main Driver\""
+      },
+      {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-52/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (52)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-52/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (52)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-52/",
+         "pubDate" : "Tue, 21 Dec 2021 10:06:01 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (52)"
+      },
+      {
+         "description" : "Playing styles in chess are an important and thus often discussed topic. GM Dr. Karsten M&uuml;ller and GM Luis Engel take up a model by GM Lars Bo Hansen based on 4 player types - namely 'activists', 'pragmatics', 'theoreticians' and so-called 'reflectors'. Their respective strengths and weaknesses are explained with the help of many examples, enabling the reader to try and assign himself or herself to one or the other player type.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-the-4-player-types-standard-model-find-your-strengths-and-weaknesses-and-those-of-your-opponent",
+         "pubDate" : "Tue, 21 Dec 2021 10:14:01 +0100",
+         "title" : "New: The 4 Player Types standard model Find your strengths and weaknesses and those of your opponent"
       },
       {
          "description" : "In the diagram position it is White to move and draw. Black's passed pawns are far advanced and it seems as if one of them will queen soon. However, White still has a way to draw. What should he do?",
@@ -88,14 +136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-200",
          "pubDate" : "Mon, 20 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 20"
-      },
-      {
-         "description" : "The Gashimov Memorial 2021 is a rapid and blitz chess tournament taking place on December 18-23 in Baku. Eight players, including Vishy Anand, Fabiano Caruana, Sergey Karjakin and Shakriyar Mamedyarov, are participating in the six-day event. Follow the action live starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2021-live",
-         "pubDate" : "Mon, 20 Dec 2021 11:45:00 +0100",
-         "title" : "Gashimov Memorial - Live!"
       },
       {
          "description" : "",
@@ -839,7 +879,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/magnus-carlsen-defend-world-chess-title-alireza-firouzja",
          "pubDate" : "Tue, 14 Dec 2021 05:34:00 -0800",
-         "title" : "BREAKING: Carlsen Might Only Defend Title Vs. Firouzja"
+         "title" : "Carlsen Might Only Defend Title Vs. Firouzja"
       },
       {
          "description" : "European Online Rapid School Chess Championship 2021 was played from 3rd-12th December 2021, through Tornelo playing platform. The event was played within 5 different age groups, open and girls separately. After the qualification stage of the event, the top 8 players of each section proceeded to the final knockout stage which determined the winners of the event.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-online-rapid-school-chess-champions-crowned/\">Read More &#187;</a></span>",
@@ -1730,14 +1770,6 @@ news_feed (
          "title" : "Time To Say Dubai: Round 9 of the Match"
       },
       {
-         "description" : "In queen endgames having the initiative is crucial. In the diagram position it is Black to move and it is Black who has the initiative. But how should he proceed?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-principle-of-three-weaknesses",
-         "pubDate" : "Tue, 07 Dec 2021 09:00:00 +0100",
-         "title" : "The principle of three weaknesses"
-      },
-      {
          "description" : "Two quarterfinal matches in the 2021 Speed Chess Championship Main Event occurred on December 6. In the first match, GM Ding Liren defeated GM Levon Aronian by a 15-11 score. You can read the full report for the Ding-Aronian match here. This rep...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2098,14 +2130,6 @@ news_feed (
          "title" : "Chess Scribe: A Fifty Year Anthology"
       },
       {
-         "description" : "GM Nihal Sarin beat GM Richard Rapport by a score of 18-9 in the first quarterfinal match of the 2021 Speed Chess Championship Main Event.&#38;nbsp;On Monday, December 6 we will have a doubleheader as GM Ding Liren will face GM Levon Aronian at 6:00 a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-nihal-rapport",
-         "pubDate" : "Thu, 02 Dec 2021 13:26:00 -0800",
-         "title" : "Speed Chess Championship: Nihal Dominates Against Rapport, Advances To SF"
-      },
-      {
          "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 5 Match Score: 2&frac12;-2&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 5 Wednesday, 1 December 2021 A fifth draw the jokes and memes start to roll in When Dutch Grandmaster Anish Giri went on a run of draws in elite chess, some people started to [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/02/2021-world-chess-championship-game-5/\">2021 World Chess Championship: Game #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2128,14 +2152,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/what-i-learned-from-gm-iossif-dorfman/",
          "pubDate" : "Thu, 02 Dec 2021 11:20:46 +0000",
          "title" : "What I Learned From GM Iossif Dorfman"
-      },
-      {
-         "description" : "AICF is happy to announce the National Calendar for the year 2022.Please find the link to get the Event details for 2022. Calender for the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-national-calender-2022/",
-         "pubDate" : "Thu, 02 Dec 2021 10:58:46 +0000",
-         "title" : "AICF NATIONAL CALENDER 2022"
       },
       {
          "description" : "The MITROPA countries Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland founded the Mitropa Chess Association (MCA) in a meeting after the ECU General Assembly on November 13, 2021 in Catez, Slovenia. Theodoros Tsorbatzoglou, Secretary General of the European Chess Union, attended the meeting as a guest. The statutes were signed by the representatives&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mitropa-chess-association-founded/\">Read More &#187;</a></span>",
@@ -2240,22 +2256,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/nepomniachtchi-gets-an-easy-draw-using-the-petroff-defence-in-world-championship-game-4",
          "pubDate" : "Tue, 30 Nov 2021 19:03:00 +0400",
          "title" : "Nepomniachtchi gets an easy draw using the Petroff Defence in World Championship Game 4 - 4"
-      },
-      {
-         "description" : "Rank Name Club Rating Total GP 1 Ieysaa Bin-Suhayl J [pictured] Peterborough 2286A 4&frac12; 2293 2 Mark Lim Linton 1878A 3&frac12; 1897 3 Oliver J...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/cambridgeshire-county-chess-championships-results/",
-         "pubDate" : "Tue, 30 Nov 2021 11:50:44 +0000",
-         "title" : "Cambridgeshire County Chess Championships results"
-      },
-      {
-         "description" : " &#8220;They ignore you now, but they'll need you later&#8221; Unknown Having the chance to play a Grandmaster is a highlight for many of us. It is true the Swiss format have increased those chances, but you still need to perform well to have the minimum FIDE rating to register. The second condition, as important as <a href=\"https://chessimprover.com/ignore-at-your-peril-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Ignore at Your Peril (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/ignore-at-your-peril-2/\">Ignore at Your Peril (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/ignore-at-your-peril-2/",
-         "pubDate" : "Tue, 30 Nov 2021 09:30:11 +0000",
-         "title" : "Ignore at Your Peril (2)"
       }
    ]
 }
