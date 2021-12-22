@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov teaches a chess endgame class. 2021.12.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/castle-endgame-insane-endgame-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/G_8ahxWbe8I.jpg?itok=A3kLxneN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/castle-endgame-insane-endgame-gm-alex-shabalov",
+         "pubDate" : "Tue, 21 Dec 2021 22:30:09 +0000",
+         "title" : "Castle in the Endgame | Insane in the Endgame - GM Alex Shabalov"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A <a href=\"https://lichess.org/tournament/qzRBGPLN\">bullet tournament</a> hosted by Youtuber <strong>Antonio Radic</strong>, better known as Agadmator, with roughly $60,000 in cryptocurrency sponsored by a cryptocurrency platform, attracted more than 12,000 registrants including Magnus Carlsen and other world class players, but the server crashed halfway. <strong>Lichess</strong> is <a href=\"https://twitter.com/lichess/status/1473391625523105797\">planning to restart it</a> at a later date with the interim results standing. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/lichess-crashed-during-agadmator/",
+         "pubDate" : "Tue, 21 Dec 2021 22:39:25 +0100",
+         "title" : "Lichess crashed during Agadmator tournament"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her first hour on the Najdorf, the Cadillac (or enchilada) of chess openings. 2021.12.15<br /> Dorsa Derakhshani vs. Robby Kevlishvili, 2015: B93 Sicilian, Najdorf, 6.f4<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3968651\">https://www.365chess.com/game.php?back=1&amp;gid=3968651</a><br /> B87 Sicilian, Sozin with ...a6 and ...b5 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -618,14 +634,6 @@ news_feed (
          "title" : "Middlegame King Maneuvers | Grandmaster's Choice - GM Alex Shabalov"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>S&oslash;ren Hoby Andersen</strong>, a <a href=\"https://www.linkedin.com/in/s%C3%B8ren-hoby-andersen-463883a8/\">political scientist</a>, is the new Development Director of <strong>Dansk Skoleskak</strong>, after <strong>Andreas Weidinger</strong> returned to climate politics. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/soren-hoby-andersen-joins-skoleskak/",
-         "pubDate" : "Thu, 16 Dec 2021 22:33:20 +0100",
-         "title" : "S&oslash;ren Hoby Andersen joins Skoleskak"
-      },
-      {
          "description" : "This week, well-known Dutch trainer Robert Ris looks at a promising line that White may try against the Pirc. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/martinez-wins-december-14-titled-tuesday",
          "pubDate" : "Wed, 15 Dec 2021 09:10:00 -0800",
          "title" : "Martinez Wins December 14 Titled Tuesday"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her first hour on the Najdorf, the Cadillac of chess openings. 2021.12.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-najdorf-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-sicilian-najdorf-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Wed, 15 Dec 2021 16:23:16 +0000",
-         "title" : "Play the Sicilian: Najdorf | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "The new ChessBase Magazine Extra #204 offers a collection top games with top annotations, including analyses by Anish Giri, Peter Heine Nielsen and Romain Edouard. Christian Bauer and Mihail Marin provide the two opening videos in this issue. The Scandinavian expert from France presents various ways of avoiding an extremely critical variation with Black in the system with 3&hellip;Qa5. Mihail Marin's video claims that \"The Catalan is still alive!\", which he illustrates with the game Daniel Deac - Lucas van Foreest from the 2021 European Championship. Watch an excerpt from both videos!",
@@ -1714,12 +1714,12 @@ news_feed (
          "title" : "Ignore at Your Peril (3)"
       },
       {
-         "description" : "UPDATE: Due to some pending final updates, Leagues will launch on December 27. Thank you for your patience. Are you looking for yet another way to have fun playing on Chess.com!? Then today is your lucky day, because we are glad to announce a ne...",
+         "description" : "UPDATE: Leagues are now live for all Chess.com members. Thank you for your patience and we hope you enjoy the new feature! Are you looking for yet another way to have fun playing on Chess.com!? Then today is your lucky day, because we are glad t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-releases-leagues",
          "pubDate" : "Tue, 07 Dec 2021 11:21:00 -0800",
-         "title" : "Chess.com Releasing New Leagues Feature With $50,000 Contest"
+         "title" : "Chess.com Releases Leagues With $50,000 Contest"
       },
       {
          "description" : " Magnus Carlsen took an almost unassailable 6-3 lead with just five game left of his World Chess Championship defence against Jan Nepomniachtchi. There will be plenty of time to dissect the match afterwards but it seems to me that Nepomniachtchi is suffering the downsides of his style and approach to the game. Nepomniachtchi is an instinctive player who can drive opponents into time trouble and bad positions and defeat them with little apparent effort. The downside of this is when things are not working quite correctly there's less to fall back on. Nepomniachtchi, most likely through nerves and tiredness, is missing key moments and is being imprecise - sometimes this doesn't matter so very m",
