@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! Elizabeth Cassidy scored 9/9 in the under-11 Girls section. Photo by KBC Sports Lewis Ncube, President of African Confederation of Chess, was recently featured on Kenya's KBC Sports TV to discuss the recent Africa Schools Individual Chess Championship held in Nairobi. He discussed the impact of COVID on chess in Africa, the dynamics of [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/22/ncube-discusses-youth-tourney-on-kenya-tv/\">Ncube discusses youth tourney on Kenya TV</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/12/22/ncube-discusses-youth-tourney-on-kenya-tv/",
+         "pubDate" : "Wed, 22 Dec 2021 15:41:47 +0000",
+         "title" : "Ncube discusses youth tourney on Kenya TV"
+      },
+      {
+         "description" : "In the last three days the number of leaders at the Sunway Sitges Open has always doubled, and by now the leading group consists of eight players with 6.5/8 each. Among them is the young Indian Arjun Erigaisi (pictured) who won a fine attacking game in round eight. But most of the top matches in round eight ended in a draw which allowed a number of players to catch up to the leaders. | Photos: Rupali Mullick",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sitges-eight-players-share-the-lead",
+         "pubDate" : "Wed, 22 Dec 2021 16:01:08 +0100",
+         "title" : "Sitges: Eight players share the lead"
+      },
+      {
+         "description" : "In a blog post for his sponsor Simonson Vogt Wiig, Magnus Carlsen reiterated and explained his announcement that he might not play another World Championship match because he lost his passion for this form of competition over the years. But \"passion must be the main driver. I have always liked to compete, but chess was for me mainly driven by passion for the game.\" | Photo: Eric Rosen (FIDE)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-about-passion-and-playing-for-the-title",
+         "pubDate" : "Wed, 22 Dec 2021 14:00:00 +0100",
+         "title" : "Magnus Carlsen about passion and playing for the title"
+      },
+      {
          "description" : " Just like 2020, 2021 has seen the FIDE Congress become an online affair. The good thing about this is that more people can attend, the bad thing is that not everyone is in the 'right' time zone. For people in Oceania, the meetings start at 11pm (at the earliest) and finish after 3am (and later in some cases). If attendees are based in the America's early starts are the problem, with meetings starting at 6 or 7 am. So far I have attended the Qualification Commission (quite well run), Arbiters (lots of slides), Swiss Pairings and Programs (very technical) and Rules Commission (still recovering). For some it was about making changes to documents included in the FIDE Handbook, but for others, i",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -74,7 +98,7 @@ news_feed (
          "title" : "Correct Exchange in the Endgame | Insane in the Endgame - GM Alex Shabalov"
       },
       {
-         "description" : " Share!11 FIDE President Arkady Dvorkovich making the first move in the World Chess Championship between defending champion Magnus Carlsen (left) and challenger Ian Nepomniacthchi. Photo by IM Eric Rosen The 2021 World Chess Championship took part as one of the features of the 2020 World Expo taking place in Dubai, UAE. Magnus Carlsen defended his [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/21/chess-at-expo-2020-dubai/\">Chess at Expo 2020 Dubai</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " FIDE President Arkady Dvorkovich making the first move in the World Chess Championship between defending champion Magnus Carlsen (left) and challenger Ian Nepomniacthchi. Photo by IM Eric Rosen The 2021 World Chess Championship took part as one of the features of the 2020 World Expo taking place in Dubai, UAE. Magnus Carlsen defended his title [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/21/chess-at-expo-2020-dubai/\">Chess at Expo 2020 Dubai</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/21/chess-at-expo-2020-dubai/",
@@ -1658,14 +1682,6 @@ news_feed (
          "title" : "Xiong Wins December 7 Titled Tuesday"
       },
       {
-         "description" : "The Jobava London System, named after the top Georgian player Baadur Jobava, is a side form of the London System, which differs in principle in only one small detail - the white knight is established early on c3. This brings two major advantages. On the one hand, it is possible to castle longside more quickly, and on the other hand, tactical motifs sometimes arise on the queenside. Since the system is still relatively new, there is no need to learn tons of theory.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-elisabeth-paehtz-attacking-with-the-jobava-london-system",
-         "pubDate" : "Wed, 08 Dec 2021 17:00:00 +0100",
-         "title" : "New: Elisabeth P&auml;htz - Attacking with the Jobava London System"
-      },
-      {
          "description" : " <p class=\"lead\">Game 10 of the World Chess Championship 2021 between the World Champion Magnus Carlsen and the Challenger Ian Nepomniachtchi ended in a draw after 41 moves. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2047\" data-ratio=\"1.4996336996337\"> <img src=\"https://worldchess.com/news/pictures/51733043381_a47ccf2c0a_k-min.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51733896445_fe6a18b114_k-min.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51733031221_fef14a9ef2_k-min.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51733278183_659a7a8e9a_k-",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1696,14 +1712,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/carlsen-edges-closer-to-retaining-his-title-with-a-quiet-draw-in-game-10",
          "pubDate" : "Wed, 8 Dec 2021 16:18:00 +0400",
          "title" : "Carlsen edges closer to retaining his title with a quiet draw in game 10 - 10"
-      },
-      {
-         "description" : "Oh dear! The last door really was a tough cookie. Rarely have we received so many different answers, so we decided to draw two more winners for the day. In the video, we see the details of the solution Kc2, which lay dormant for more than 100 years. Today we have only four pieces on the board, and yet the solution is not crystal clear.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-8245",
-         "pubDate" : "Wed, 08 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 8"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/VL9D6bVcELA?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
@@ -2170,14 +2178,6 @@ news_feed (
          "title" : "Chess Scribe: A Fifty Year Anthology"
       },
       {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 5 Match Score: 2&frac12;-2&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 5 Wednesday, 1 December 2021 A fifth draw the jokes and memes start to roll in When Dutch Grandmaster Anish Giri went on a run of draws in elite chess, some people started to [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/02/2021-world-chess-championship-game-5/\">2021 World Chess Championship: Game #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/12/02/2021-world-chess-championship-game-5/",
-         "pubDate" : "Thu, 02 Dec 2021 19:20:33 +0000",
-         "title" : "2021 World Chess Championship: Game #5"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2216,38 +2216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1458",
          "pubDate" : "Wed, 01 Dec 2021 19:14:29 +0000",
          "title" : "FIDE World Championship Dubai 2021: More than meets the eye"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1457",
-         "pubDate" : "Wed, 01 Dec 2021 15:25:20 +0000",
-         "title" : "Alireza Firouzja surpasses 2800-mark in December rating list"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1459",
-         "pubDate" : "Wed, 01 Dec 2021 14:28:22 +0000",
-         "title" : "FIDE Chessable Camp at EXPO 2020 Dubai: Days 1-3 recap"
-      },
-      {
-         "description" : " The fifth game of the FIDE World Chess Championship in Dubai was drawn in 41 moves. Ian Nepomniachtchi with the white pieces again played the Anti-Marshall with 8.a4. Carlsen deviated from game three with 8...Rb8. While it would be too strong to say Carlsen was in big trouble he was definitely the one under pressure and it was clear that Nepomniachtchi was very well prepared for Rb8. The key moment of the game seemed to be when Nepomniachtchi played 20.Red1 rather than the critical 20.c4 - Carlsen said that he felt after this \"the worst was over\". Nepomniachtchi seemed disappointed after the game but it does seem that he's getting chances with white so that's something to be happy about. Th",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/nepomniachtchi-doesnt-make-the-most-of-his-chances-in-world-chess-championship-game-5",
-         "pubDate" : "Wed, 1 Dec 2021 17:59:00 +0400",
-         "title" : "Nepomniachtchi doesn't make the most of his chances in World Chess Championship game 5 - 5"
-      },
-      {
-         "description" : " If you thought one of my <a href=\"https://chessexpress.blogspot.com/2010/12/another-brain-teaser.html\">previous puzzles</a> was annoying, then the following one is downright infuriating It was (allegedly) from a 5th grade exam in China <i>If a ship had 26 sheep and 10 goats onboard, how old is the ship's captain?</i> It did generate a lot of controversy when it was shared on the internet, but the answer isn't as difficult as you might think <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/and-another-brain-teaser.html",
-         "pubDate" : "Wed, 01 Dec 2021 13:21:00 +0000",
-         "title" : "And another brain teaser "
       }
    ]
 }
