@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, Merijn van Delft takes a looks at a game by Nico Zwirs which abounds with interesting positional and tactical ideas. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-495",
+         "pubDate" : "Wed, 22 Dec 2021 19:00:00 +0100",
+         "title" : "Game of the Week #495:"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88438938.cms\" />Indian chess maestro Viswanathan Anand failed to win even one game in the Blitz section of the 7th Vugar Gashimov Memorial chess tournament here on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gashimov-memorial-chess-anand-endures-winless-run-on-day-1-of-blitz-event/articleshow/88438938.cms",
+         "pubDate" : "Wed, 22 Dec 2021 22:11:36 +0530",
+         "title" : "Gashimov Memorial chess: Anand endures winless run on day 1 of Blitz event"
+      },
+      {
+         "description" : "GM Aleksey Dreev won Titled Tuesday on December 21 with a score of 9.5/11, after a big victory in the final round. He edged out second-place GM Shakhriyar Mamedyarov on the tiebreak system. With nine points out of 11, GM Raunak Sadhwani won third ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dreev-wins-december-21-titled-tuesday",
+         "pubDate" : "Wed, 22 Dec 2021 08:37:43 -0800",
+         "title" : "Dreev Wins December 21 Titled Tuesday"
+      },
+      {
          "description" : " Share! Elizabeth Cassidy scored 9/9 in the under-11 Girls section. Photo by KBC Sports Lewis Ncube, President of African Confederation of Chess, was recently featured on Kenya's KBC Sports TV to discuss the recent Africa Schools Individual Chess Championship held in Nairobi. He discussed the impact of COVID on chess in Africa, the dynamics of [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/22/ncube-discusses-youth-tourney-on-kenya-tv/\">Ncube discusses youth tourney on Kenya TV</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1474,20 +1498,20 @@ news_feed (
          "title" : "Time To Say Dubai: Round 11 of the Match"
       },
       {
-         "description" : "The new ChessBase Magazine Extra #204 offers two opening videos on Scandinavian and Catalan as well as a total of 26 games with detailed commentary, including analyses by Anish Giri, Romain Edouard and Michal Krasenkow. Peter Heine Nielsen, Magnus Carlsen's second, contributes \"The brilliancy\". And of course it's about am extraordinary game by the World Champion. In the final of the Meltwater Tour 2021 Carlsen outplayed Jan-Krzysztof Duda after a novelty (\"At first it looks close to insanity.\") in only 18 moves. Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-and-modern-chess-at-its-best",
-         "pubDate" : "Fri, 10 Dec 2021 12:00:00 +0100",
-         "title" : "\"Magnus, and Modern chess, at its best\""
-      },
-      {
          "description" : "The rook moves to the square f2. Most people knew that yesterday, which is wonderful! As always, the detailed solution is in the video, and there are many details to consider. We are briefly confused ourselves during the analysis. Today we have to solve a problem, starring Magnus Carlsen!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-10834",
          "pubDate" : "Fri, 10 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 10"
+      },
+      {
+         "description" : "The new ChessBase Magazine Extra #204 offers two opening videos on Scandinavian and Catalan as well as a total of 26 games with detailed commentary, including analyses by Anish Giri, Romain Edouard and Michal Krasenkow. Peter Heine Nielsen, Magnus Carlsen's second, contributes \"The brilliancy\". And of course it's about am extraordinary game by the World Champion. In the final of the Meltwater Tour 2021 Carlsen outplayed Jan-Krzysztof Duda after a novelty (\"At first it looks close to insanity.\") in only 18 moves. Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-and-modern-chess-at-its-best",
+         "pubDate" : "Fri, 10 Dec 2021 12:00:00 +0100",
+         "title" : "\"Magnus, and Modern chess, at its best\""
       },
       {
          "description" : "After nine rounds three players shared first place with 7.0/9 each at the El Llobregat Open in Barcelona: Nodirbek Abdusattorov (Uzbekistan), Murali Khartikeyan (India), and Pere Garriga Cazorla, the best player from the host country. Abdusattorov then won the playoff and the tournament, Khartikeyan finished second. | Photos: Patricia Claros",
@@ -1656,14 +1680,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-championship-2021-g10",
          "pubDate" : "Wed, 08 Dec 2021 19:20:00 +0100",
          "title" : "World Championship Game 10: Safety first"
-      },
-      {
-         "description" : "This week, Merijn van Delft takes a look at a game between the Dutch player Thomas Beerdsen and Sergey Fedorchuk from Ukraine. The game was played at a tournament in Barcelona and helped Beerdsen to make his second grandmaster norm. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-493-thomas-beerdsen-vs-sergey-fedorchuk",
-         "pubDate" : "Wed, 08 Dec 2021 19:00:00 +0100",
-         "title" : "Game of the Week #493: Thomas Beerdsen vs Sergey Fedorchuk"
       },
       {
          "description" : "",
@@ -2082,14 +2098,6 @@ news_feed (
          "title" : "Time To Say Dubai: Round 7 of the Match"
       },
       {
-         "description" : "Lasting just two and a half hours, game seven of the 2021 FIDE World Chess Championship was the fastest draw in the match so far. GM Magnus Carlsen repeated his 8...Rb8 line against GM Ian Nepomniachtchi&#39;s 8.a4 Anti-Marshall and quickly equalized ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-7",
-         "pubDate" : "Fri, 03 Dec 2021 18:15:00 -0800",
-         "title" : "Confident Carlsen Equalizes Easily In FIDE World Chess Championship Game 7"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2208,14 +2216,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/1/world-championship-bonus-pod-2-fm-mike-klein-joins-from-dubai-to-recap-5-tense-deadlocked-rounds",
          "pubDate" : "Wed, 01 Dec 2021 21:45:35 +0000",
          "title" : "World Championship Bonus Pod #2- FM Mike Klein joins from Dubai to recap 5 tense, deadlocked rounds. "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1458",
-         "pubDate" : "Wed, 01 Dec 2021 19:14:29 +0000",
-         "title" : "FIDE World Championship Dubai 2021: More than meets the eye"
       }
    ]
 }
