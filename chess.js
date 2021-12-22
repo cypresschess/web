@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! FIDE President Arkady Dvorkovich making the first move in the World Chess Championship between defending champion Magnus Carlsen (left) and challenger Ian Nepomniacthchi. Photo by IM Eric Rosen The 2021 World Chess Championship took part as one of the features of the 2020 World Expo taking place in Dubai, UAE. Magnus Carlsen defended his [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/21/chess-at-expo-2020-dubai/\">Chess at Expo 2020 Dubai</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/12/21/chess-at-expo-2020-dubai/",
+         "pubDate" : "Wed, 22 Dec 2021 02:35:27 +0000",
+         "title" : "Chess at Expo 2020 Dubai"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov teaches a chess endgame class. 2021.12.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/castle-endgame-insane-endgame-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/G_8ahxWbe8I.jpg?itok=A3kLxneN\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -42,7 +50,7 @@ news_feed (
          "title" : "What's Your Magnus Number? | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 chess rating. 2021.12.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exploit-small-weaknesses-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/otiSPKCfE1U.jpg?itok=5O1hf_3C\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby goes to work hard to exploit small weaknesses, wiggling them, making them bigger, then winning. The mysterious masked Caleb uses examples from recent games he played on lichess.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exploit-small-weaknesses-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/otiSPKCfE1U.jpg?",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/exploit-small-weaknesses-road-2000-nm-caleb-denby-lichessorg",
@@ -1146,7 +1154,7 @@ news_feed (
          "title" : "The Endgame Magic Christmas Calendar - Door 12"
       },
       {
-         "description" : " Share!152 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 1 &frac12; 1 1 &frac12; 1 7&frac12; Caruana &frac12; &frac12; &frac12; &frac12; &frac12; 0 &frac12; 0 0 &frac12; 0 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/12/magnus-carlsen-retains-title-winning-7-5-3-5/\">Magnus Carlsen retains title, winning 7.5-3.5!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 1 &frac12; 1 1 &frac12; 1 7&frac12; Caruana &frac12; &frac12; &frac12; &frac12; &frac12; 0 &frac12; 0 0 &frac12; 0 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/12/magnus-carlsen-retains-title-winning-7-5-3-5/\">Magnus Carlsen retains title, winning 7.5-3.5!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/12/magnus-carlsen-retains-title-winning-7-5-3-5/",
@@ -2224,14 +2232,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/and-another-brain-teaser.html",
          "pubDate" : "Wed, 01 Dec 2021 13:21:00 +0000",
          "title" : "And another brain teaser "
-      },
-      {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 4 Match Score: 2-2 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 4 Tuesday, 30 November 2021 Another draw, but tense moments in tough struggleDraw streak continues! Happy, happy, birthday, @MagnusCarlsen!?Team Norway Chess wishes you a wonderful day! ?? #magnuscarlsen #chess #sjakk #norwaychess #happybday pic.twitter.com/KZj9NbOtnR &#8212; [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/01/2021-world-chess-championship-game-4/\">2021 World Chess Championship: Game #4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">Th",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/12/01/2021-world-chess-championship-game-4/",
-         "pubDate" : "Wed, 01 Dec 2021 12:45:33 +0000",
-         "title" : "2021 World Chess Championship: Game #4"
       },
       {
          "description" : "",
