@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Just like 2020, 2021 has seen the FIDE Congress become an online affair. The good thing about this is that more people can attend, the bad thing is that not everyone is in the 'right' time zone. For people in Oceania, the meetings start at 11pm (at the earliest) and finish after 3am (and later in some cases). If attendees are based in the America's early starts are the problem, with meetings starting at 6 or 7 am. So far I have attended the Qualification Commission (quite well run), Arbiters (lots of slides), Swiss Pairings and Programs (very technical) and Rules Commission (still recovering). For some it was about making changes to documents included in the FIDE Handbook, but for others, i",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/late-nights-at-fide-saloon.html",
+         "pubDate" : "Wed, 22 Dec 2021 11:31:00 +0000",
+         "title" : "Late nights at the FIDE saloon"
+      },
+      {
+         "description" : "Arne Kaehler had just learned this study in \"Ellis Schatztruhe - Episode 9\", but embarrassingly forgot it again for a short time. But the vast majority knew, of course, that only Kg7 leads to success. Today, the task is not to find the probably \"best\" move, but the move that was played in this particular game with Black.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2244",
+         "pubDate" : "Wed, 22 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 22"
+      },
+      {
+         "description" : "The Gashimov Memorial 2021 is a rapid and blitz chess tournament taking place on December 18-23 in Baku. Eight players, including Vishy Anand, Fabiano Caruana, Sergey Karjakin and Shakriyar Mamedyarov, are participating in the six-day event. Follow the action live starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2021-live",
+         "pubDate" : "Wed, 22 Dec 2021 11:45:00 +0100",
+         "title" : "Gashimov Memorial - Live!"
+      },
+      {
+         "description" : " Priyanka joins Savitha shri on the leader board. K.priyanka managed to defeat Al Mamaari Wafia in a fine attacking game to join overnight",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-juniors-and-girls2021-srilankareports-of-round-8/",
+         "pubDate" : "Wed, 22 Dec 2021 10:21:15 +0000",
+         "title" : "ASIAN JUNIORS AND GIRLS'2021-SRILANKA:Reports of Round 8"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/christmas-endgame-challenge/",
+         "pubDate" : "Wed, 22 Dec 2021 09:52:51 +0000",
+         "title" : "Christmas Endgame Challenge"
+      },
+      {
+         "description" : "Six players have already qualified for the Candidates Tournament 2022, and the two remaining spots will go to the two best players in the FIDE Grand Prix 2022, a series of three tournaments that will be played from February to April in Berlin and Belgrade. The FIDE recently announced that Hikaru Nakamura (pictured), who in the last two years has not played a single FIDE-rated game, will get the FIDE wild card for the Grand Prix. Daniil Dubov will a wild card from the organiser. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nakamura-and-dubov-get-wildcards-for-fide-grand-prix",
+         "pubDate" : "Wed, 22 Dec 2021 10:42:28 +0100",
+         "title" : "Nakamura and Dubov get wildcards for FIDE Grand Prix"
+      },
+      {
+         "description" : "The rapid tournament at the Vugar Gashimov Memorial ended with an exciting and close finish. In the sixth and penultimate round tournament leader Richard Rapport lost against Shakhriyar Mamedyarov, which allowed Fabiano Caruana to catch up. But in the final round Caruana also lost against Mamedyarov while Rapport and Karjakin won their matches. In the end, Rapport and Karjakin shared first place with 16 points each. | Photos: Tournament page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-rapport-and-karjakin-win-rapid-section",
+         "pubDate" : "Wed, 22 Dec 2021 09:29:14 +0100",
+         "title" : "Gashimov Memorial: Rapport and Karjakin win rapid section"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby goes to work hard to exploit small weaknesses, wiggling them, making them bigger, then winning. The mysterious masked Caleb uses a recent example of his own from lichess.org. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exploit-small-weaknesses-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/otiSPKCfE1U.jpg?itok=5O1hf_3C\" al",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -18,7 +74,7 @@ news_feed (
          "title" : "Correct Exchange in the Endgame | Insane in the Endgame - GM Alex Shabalov"
       },
       {
-         "description" : " Share! FIDE President Arkady Dvorkovich making the first move in the World Chess Championship between defending champion Magnus Carlsen (left) and challenger Ian Nepomniacthchi. Photo by IM Eric Rosen The 2021 World Chess Championship took part as one of the features of the 2020 World Expo taking place in Dubai, UAE. Magnus Carlsen defended his [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/21/chess-at-expo-2020-dubai/\">Chess at Expo 2020 Dubai</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!11 FIDE President Arkady Dvorkovich making the first move in the World Chess Championship between defending champion Magnus Carlsen (left) and challenger Ian Nepomniacthchi. Photo by IM Eric Rosen The 2021 World Chess Championship took part as one of the features of the 2020 World Expo taking place in Dubai, UAE. Magnus Carlsen defended his [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/21/chess-at-expo-2020-dubai/\">Chess at Expo 2020 Dubai</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/21/chess-at-expo-2020-dubai/",
@@ -152,14 +208,6 @@ news_feed (
          "link" : "https://aicf.in/asian-juniors-and-girls2021-srilankareports-of-round-7/",
          "pubDate" : "Tue, 21 Dec 2021 10:56:36 +0000",
          "title" : "ASIAN JUNIORS AND GIRLS'2021-SRILANKA:Reports of Round 7"
-      },
-      {
-         "description" : "The Gashimov Memorial 2021 is a rapid and blitz chess tournament taking place on December 18-23 in Baku. Eight players, including Vishy Anand, Fabiano Caruana, Sergey Karjakin and Shakriyar Mamedyarov, are participating in the six-day event. Follow the action live starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2021-live",
-         "pubDate" : "Tue, 21 Dec 2021 11:45:00 +0100",
-         "title" : "Gashimov Memorial - Live!"
       },
       {
          "description" : "&#34;It is unlikely that I will play another match unless maybe if the next challenger represents the next generation,&#34; wrote GM Magnus Carlsen on Tuesday in a blog post for one of his sponsors. The world champion once again mentioned GM Alireza Firou...",
@@ -1658,14 +1706,6 @@ news_feed (
          "title" : "The Endgame Magic Christmas Calendar - Door 8"
       },
       {
-         "description" : "After blundering in game 8 of his World Championship match against Magnus Carlsen, Ian Nepomniachtchi also blundered and lost in game 9. Carlsen now leads 6-3 and with five games to go the match is practically over. Wesley So took a close look at game 9 and concludes: \"Ian was playing very well early on in the match but ... game 6 was clearly the turning point in this match as before that both players were playing equally well and it seems that Ian was no inferior to Magnus. ... Ian is a great player and even the greatest players make mistakes. Unexpected and miserable stuff happens to us all, and we hope Ian will be able to move on and get his mojo back asap!\" | Photo: Wesley So (Archive) |",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-game-9-annotated-by-wesley-so",
-         "pubDate" : "Wed, 08 Dec 2021 09:06:17 +0100",
-         "title" : "World Championship: Game 9 annotated by Wesley So"
-      },
-      {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/VL9D6bVcELA?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1696,14 +1736,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-10",
          "pubDate" : "Tue, 07 Dec 2021 16:00:00 -0800",
          "title" : "Carlsen One Win From Victory After Drawing FIDE World Chess Championship Game 10"
-      },
-      {
-         "description" : "The World Championship match in Dubai might theoretically finish after 11 (out of 14) games, as Magnus Carlsen scored a third victory in four games after Ian Nepomniachtchi inexplicably blundered a piece in an equal position on Tuesday. The challenger now needs to win 3 out of the 5 remaining encounters to take the match to tiebreaks. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-g9",
-         "pubDate" : "Tue, 07 Dec 2021 21:30:00 +0100",
-         "title" : "World Championship Game 9: Disaster strikes for Nepo"
       },
       {
          "description" : "",
@@ -1760,14 +1792,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nepo-blunders-a-bishop-loses-game-9/",
          "pubDate" : "Tue, 07 Dec 2021 16:26:22 +0000",
          "title" : "Nepo Blunders Bishop, Loses Game 9"
-      },
-      {
-         "description" : "Not quite a London System and not quite a Veresov. The unusually named 'Barry Attack' lies somewhere between the two. Yet another challenging queen pawn system that Black has to prepare for.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-andrew-martin-the-barry-attack",
-         "pubDate" : "Tue, 07 Dec 2021 17:06:54 +0100",
-         "title" : "New: Andrew Martin - The Barry Attack"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/942dbc09-368d-4fcd-b83e-28381dde1e8d/Alex%2BCrompton%2Bprofile.jpg\" data-image-dimensions=\"300x296\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61af61030219904d2b03e9b3\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/942dbc09-368d-4fcd-b83e-28381dde1e8d/Alex%2BCrompton%2Bprofile.jpg?format=1000w\" /> </figure> <p class=\"\">Welcome back to another Adult Improver Edition of Perpetual Chess. In this episode, we feature another <em>Queen's Gambit</em> convert to Pe",
@@ -2082,14 +2106,6 @@ news_feed (
          "title" : "Carlsen takes the lead in World Championship following a record breaking game 6 - 6"
       },
       {
-         "description" : "Velammal Nexus consists of D Gukesh, R Praggnanandhaa, Leon Mendonca, Pranav V and Rindhiya, defeated Saco Oliveros of Peru in the final to win the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/velammal-nexus-wins-dubai-2020-world-school-tournament/",
-         "pubDate" : "Fri, 03 Dec 2021 17:31:57 +0000",
-         "title" : "Velammal Nexus wins Dubai 2020 World School Tournament"
-      },
-      {
          "description" : " FIDE President Arkady Dvorkovich &#038; Orrin Hudson @ FIDE World Chess Championships in Dubai UAE. Photo courtesy of Orrin Hudson Orrin Hudson of Besomeone, Inc. has been known for his energetic methods in presenting chess as a means of learning critical life skills. Hudson is also a world traveler and most recently visited the FIDE [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/03/orrin-hudson-in-dubai-for-world-championship/\">Orrin Hudson in Dubai for World Championship</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2232,22 +2248,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/and-another-brain-teaser.html",
          "pubDate" : "Wed, 01 Dec 2021 13:21:00 +0000",
          "title" : "And another brain teaser "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1456",
-         "pubDate" : "Wed, 01 Dec 2021 12:24:39 +0000",
-         "title" : "Velammal Nexus School wins the World School Chess Tournament at Expo 2020"
-      },
-      {
-         "description" : "Last year you could open 24 calendar doors and guess the Fritztrainer correctly. This year it's all about magical endgames. Thanks to our endgame expert GM Dr. Karsten M&uuml;ller, we have put together a potpourri of endgame riddles for you. If you can find the right answer, you automatically enter a raffle with plenty of prizes to be won. Among them, our big Christmas surprise packages!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-1",
-         "pubDate" : "Wed, 01 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 1"
       }
    ]
 }
