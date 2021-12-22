@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby goes to work hard to exploit small weaknesses, wiggling them, making them bigger, then winning. The mysterious masked Caleb uses a recent example of his own from lichess.org. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exploit-small-weaknesses-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/otiSPKCfE1U.jpg?itok=5O1hf_3C\" al",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exploit-small-weaknesses-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 22 Dec 2021 04:30:24 +0000",
+         "title" : "Exploit Small Weaknesses | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov teaches a chess endgame class.The Correct Exchange in the Endgame by Eduardas Rozentalis BUY THE BOOK: <a href=\"https://www.amazon.com/House-Staunton-Correct-Exchange-Endgame/dp/908225669X\">https://www.amazon.com/House-Staunton-Correct-Exchange-Endgame/dp/908225...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/correct-exchange-endgame-insane-endgame-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/correct-exchange-endgame-insane-endgame-gm-alex-shabalov",
+         "pubDate" : "Wed, 22 Dec 2021 04:30:24 +0000",
+         "title" : "Correct Exchange in the Endgame | Insane in the Endgame - GM Alex Shabalov"
+      },
+      {
          "description" : " Share! FIDE President Arkady Dvorkovich making the first move in the World Chess Championship between defending champion Magnus Carlsen (left) and challenger Ian Nepomniacthchi. Photo by IM Eric Rosen The 2021 World Chess Championship took part as one of the features of the 2020 World Expo taking place in Dubai, UAE. Magnus Carlsen defended his [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/21/chess-at-expo-2020-dubai/\">Chess at Expo 2020 Dubai</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -736,22 +752,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sunway-sitges-open-19-players-start-with-3-0-3",
          "pubDate" : "Thu, 16 Dec 2021 10:16:08 +0100",
          "title" : "Sunway Sitges Open: 19 players start with 3.0/3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her first hour on the Najdorf, the Cadillac (or enchilada) of chess openings. 2021.12.15<br /> Dorsa Derakhshani vs. Robby Kevlishvili, 2015: B93 Sicilian, Najdorf, 6.f4<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3968651\">https://www.365chess.com/game.php?back=1&amp;gid=3968651</a><br /> B87 Sicilian, Sozin with ...a6 and ...b5 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grand-enchilada-sicilian-najdorf-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 16 Dec 2021 04:23:57 +0000",
-         "title" : "The Grand Enchilada: Sicilian Najdorf | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her first hour on the Najdorf, the Cadillac of chess openings. 2021.12.15<br /> Dorsa Derakhshani vs. Robby Kevlishvili, 2015: B93 Sicilian, Najdorf, 6.f4<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3968651\">https://www.365chess.com/game.php?back=1&amp;gid=3968651</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grand-enchilada-sicilian-najdorf-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Thu, 16 Dec 2021 01:23:51 +0000",
-         "title" : "The Grand Enchilada: Sicilian Najdorf | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "This week, Merijn van Delft takes a looks at a theoretically interesting King's Indian, played by Boris Gelfand and Gawain Jones at the London Chess Classic 2021. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
