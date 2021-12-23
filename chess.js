@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The youngest GM ever, played the move Nf3+. Although the game was played this year, it is already a classic. On the penultimate day, there is a fast-paced task in which a white king has to find the right square. Can you help?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2378",
+         "pubDate" : "Thu, 23 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 23"
+      },
+      {
+         "description" : "The Gashimov Memorial 2021 is a rapid and blitz chess tournament taking place on December 18-23 in Baku. Eight players, including Vishy Anand, Fabiano Caruana, Sergey Karjakin and Shakriyar Mamedyarov, are participating in the six-day event. Follow the action live starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2021-live",
+         "pubDate" : "Thu, 23 Dec 2021 11:45:00 +0100",
+         "title" : "Gashimov Memorial - Live!"
+      },
+      {
+         "description" : "Legend has it that a player who once was analysing with Dr. Tarrasch (pictured), a great believer in the power of the bishops, gave his bishop for a knight and remarked: \"Winning the small exchange!\" Tarrasch, probably with good reason, felt provoked, and said: \"You obviously mean losing the small exchange!\" Exchanging minor pieces is a fine and difficult art indeed. Jan Markos knows more!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-3-the-art-of-exchanging-minor-pieces",
+         "pubDate" : "Thu, 23 Dec 2021 10:00:00 +0100",
+         "title" : "The Winning Academy (3): The Art of Exchanging Minor Pieces"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her second and final hour on the Najdorf, specifically lines from 6.Be3. 2021.12.22<br /> B90 Sicilian, Najdorf, Byrne (English) attack </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-najdorf-2-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbn",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/play-sicilian-najdorf-2-chess-and-psychology-im-dorsa-derakhshani",
          "pubDate" : "Thu, 23 Dec 2021 04:30:46 +0000",
          "title" : "Play the Sicilian: Najdorf #2 | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : " From the publisher: &#8220;In 1971 Robert James Fischer defeated Mark Taimanov by the sensational score of 6-0 in Vancouver, but the match games were far more competitive and tension-filled than the final score would suggest. Twenty years later Taimanov put pen to paper, reflecting on the experience. Exactly 50 years after the match, this is <a href=\"http://britishchessnews.com/2021/12/23/i-was-a-victim-of-bobby-fischer/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">I Was a Victim of Bobby Fischer</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/23/i-was-a-victim-of-bobby-fischer/\">I Was a Victim of ",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/12/23/i-was-a-victim-of-bobby-fischer/",
+         "pubDate" : "Thu, 23 Dec 2021 00:10:11 +0000",
+         "title" : "I Was a Victim of Bobby Fischer"
       },
       {
          "description" : "Richard Rapport, co-winner of the rapid section, is leading the overall standings table after the first seven rounds of blitz at the Gashimov Memoarial in Baku. The strongest on day 1 of the blitz was Shakhriyar Mamedyarov, though, who scored 5 out of 7 points despite losing his last game of the day against Fabiano Caruana. | Photos: Official site",
@@ -80,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2244",
          "pubDate" : "Wed, 22 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 22"
-      },
-      {
-         "description" : "The Gashimov Memorial 2021 is a rapid and blitz chess tournament taking place on December 18-23 in Baku. Eight players, including Vishy Anand, Fabiano Caruana, Sergey Karjakin and Shakriyar Mamedyarov, are participating in the six-day event. Follow the action live starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2021-live",
-         "pubDate" : "Wed, 22 Dec 2021 11:45:00 +0100",
-         "title" : "Gashimov Memorial - Live!"
       },
       {
          "description" : " Priyanka joins Savitha shri on the leader board. K.priyanka managed to defeat Al Mamaari Wafia in a fine attacking game to join overnight",
@@ -1626,28 +1650,12 @@ news_feed (
          "title" : "Fedoseev wins Sheikh Hamdan bin Rashid Rapid Cup"
       },
       {
-         "description" : "The FIDE Rapid and Blitz World Championships cannot take place in Nur Sultan (Kazakhstan) in December as originally planned. Due to the tightened Corona security measures imposed by the Kazakh government, FIDE has cancelled the tournament in Kazakhstan and is currently looking at alternative venues.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-rapid-blitz-championships-will-not-be-held-in-kazakhstan-in-december",
-         "pubDate" : "Thu, 09 Dec 2021 10:11:17 +0100",
-         "title" : "FIDE World Rapid & Blitz Championships will not be held in Kazakhstan in December"
-      },
-      {
          "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 10 Match Score: 6&frac12;-3&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 10 Wednesday, 8 December 2021 A quiet draw today after three wins in four games. In the last phase of the match, we hope to see attempts by Ian Nepomniachtchi to get on the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/09/2021-world-chess-championship-game-10/\">2021 World Chess Championship: Game #10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/09/2021-world-chess-championship-game-10/",
          "pubDate" : "Thu, 09 Dec 2021 09:08:29 +0000",
          "title" : "2021 World Chess Championship: Game #10"
-      },
-      {
-         "description" : "\"A short and quite uneventful draw, which totally makes sense as Magnus is on the verge of match victory.\" This is how Wesley So summed up game 10 of the World Championship match between Magnus Carlsen and Ian Nepomniachtchi. However, in his analyses he still managed to dig deep and indicates a lot of hidden subtleties of the game, particularly in regard to opening theory and match strategy. | Picture: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-game-10-annotated-by-wesley-so",
-         "pubDate" : "Thu, 09 Dec 2021 09:47:31 +0100",
-         "title" : "World Championship: Game 10 annotated by Wesley So"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/5ad646a3-a235-41cc-87f0-74642acc84a2/Jacob.Lucy2.jpg\" data-image-dimensions=\"334x384\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61b15c496f0e5c7ef3e4a4c1\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/5ad646a3-a235-41cc-87f0-74642acc84a2/Jacob.Lucy2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">GM Jacob Aagaard and Lucy </figcaption> </figure> <figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-im",
@@ -2192,14 +2200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1460",
          "pubDate" : "Thu, 02 Dec 2021 14:34:28 +0000",
          "title" : "Havana 1966 inspires Dubai 2021"
-      },
-      {
-         "description" : " Good Coaches help you improve. Great Coaches change the way you think about Chess. I was lucky enough to have some amazing Coaches during my Career. One of them was Grandmaster Iossif Dorfman. The name might ring a bell. Yes, I am talking of the Iossif Dorfman that assisted the great Garry Kasparov in his [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/what-i-learned-from-gm-iossif-dorfman/\">What I Learned From GM Iossif Dorfman</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/what-i-learned-from-gm-iossif-dorfman/",
-         "pubDate" : "Thu, 02 Dec 2021 11:20:46 +0000",
-         "title" : "What I Learned From GM Iossif Dorfman"
       }
    ]
 }
