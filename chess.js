@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Richard Rapport, co-winner of the rapid section, is leading the overall standings table after the first seven rounds of blitz at the Gashimov Memoarial in Baku. The strongest on day 1 of the blitz was Shakhriyar Mamedyarov, though, who scored 5 out of 7 points despite losing his last game of the day against Fabiano Caruana. | Photos: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-mamedyarov-shines-in-blitz",
+         "pubDate" : "Wed, 22 Dec 2021 23:15:00 +0100",
+         "title" : "Gashimov Memorial: Mamedyarov shines in blitz"
+      },
+      {
          "description" : "This week, Merijn van Delft takes a looks at a game by Nico Zwirs which abounds with interesting positional and tactical ideas. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-495",
          "pubDate" : "Wed, 22 Dec 2021 19:00:00 +0100",
-         "title" : "Game of the Week #495:"
+         "title" : "Game of the Week #495: A fine game by Nico Zwirs"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88438938.cms\" />Indian chess maestro Viswanathan Anand failed to win even one game in the Blitz section of the 7th Vugar Gashimov Memorial chess tournament here on Wednesday.",
@@ -1674,14 +1682,6 @@ news_feed (
          "title" : "Changes to rating and titles"
       },
       {
-         "description" : "An uneventful draw in game 10 of the World Championship match kept Magnus Carlsen's 3-point lead going into the fourth rest day of the contest. The defending champion only needs to score 1 point in the remaining 4 encounters to keep his crown. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-g10",
-         "pubDate" : "Wed, 08 Dec 2021 19:20:00 +0100",
-         "title" : "World Championship Game 10: Safety first"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2208,14 +2208,6 @@ news_feed (
          "link" : "https://www.europechess.org/mitropa-chess-association-founded/",
          "pubDate" : "Thu, 02 Dec 2021 07:17:17 +0000",
          "title" : "Mitropa Chess Association founded"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ad7f4a5b-5e19-4909-a5ce-56254eb78a6e/Mike4.jpg\" data-image-dimensions=\"512x249\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61a7ec86e35434408ee520e0\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/ad7f4a5b-5e19-4909-a5ce-56254eb78a6e/Mike4.jpg?format=1000w\" /> </figure> <p class=\"\">Do we look concerned about these draws? <p class=\"\">After 5 rounds, it is still all draws! FM Mike Klein of Chess.com joins me to quickly recap the games, to track the ongoing stor",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/1/world-championship-bonus-pod-2-fm-mike-klein-joins-from-dubai-to-recap-5-tense-deadlocked-rounds",
-         "pubDate" : "Wed, 01 Dec 2021 21:45:35 +0000",
-         "title" : "World Championship Bonus Pod #2- FM Mike Klein joins from Dubai to recap 5 tense, deadlocked rounds. "
       }
    ]
 }
