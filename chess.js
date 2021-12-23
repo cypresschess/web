@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "V S Raahul in the open section and Savitha Shri B in Girls won the Asian Junior Chess Championship at Colombo on Thursday. Tamilnadu teenager",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-junior-double-delight-for-india-raahul-and-savitha-champions/",
+         "pubDate" : "Thu, 23 Dec 2021 18:50:55 +0000",
+         "title" : "Asian Junior - Double delight for India; Raahul and Savitha champions"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1495",
+         "pubDate" : "Thu, 23 Dec 2021 18:10:50 +0000",
+         "title" : "400 students took part in the largest Montenegro School Championship ever"
+      },
+      {
+         "description" : "This week, well-known Dutch trainer Robert Ris looks at a sharp and interesting Sicilian that was played in a game of two Indian players at the Sunway Sitges Tournament. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-sharp-sicilian-battle",
+         "pubDate" : "Thu, 23 Dec 2021 19:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A sharp Sicilian battle"
+      },
+      {
+         "description" : "Lawrence is busy, but still managed to continue Trent's Tactics from the UK, with an improvised setup. Good enough to conquer a remarkable tactical masterpiece by Vishy Anand against Veselin Topalov, in the World Championship in Sofia from 2010. Lawrence and Arne also try to reach the 2350 Rating in the ChessBase training section, but will they succeed?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-8",
+         "pubDate" : "Thu, 23 Dec 2021 18:13:42 +0100",
+         "title" : "Trent's Tactics - World Championships Special (II) - Anand vs. Topalov"
+      },
+      {
+         "description" : "The King's Gambit continues to pose puzzles. The opening evokes memories of glorious sacrificial games from the romantic era, but at the same time it is regarded as somewhat unsound - as theoretically incorrect. But even today the move 2.f4 after 1.e4 e5 leads again and again to unusual positions rich in content. As the games of King's Gambit expert Joe Gallagher demonstrate!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/joe-gallagher-plays-the-kings-gambit",
+         "pubDate" : "Thu, 23 Dec 2021 18:00:00 +0100",
+         "title" : "Joe Gallagher plays the King's Gambit!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches all about practical chess middlegames. 2021.12.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/practical-chess-middlegames-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FMfcrCH1DUY.jpg?itok=52G6mnCI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/practical-chess-middlegames-grandmasters-choice-gm-denes-boros",
+         "pubDate" : "Thu, 23 Dec 2021 16:31:09 +0000",
+         "title" : "Practical Chess Middlegames | Grandmaster's Choice - GM Denes Boros"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88459170.cms\" />Indian chess ace Viswanathan Anand managed only two wins in the tournament to finish last in the seventh Vugar Gashimov Memorial chess tournament on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -816,14 +864,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/dec/17/magnus-carlsen-chess-alireza-firouzja-world-title",
          "pubDate" : "Fri, 17 Dec 2021 08:00:22 +0000",
          "title" : "Carlsen's doubts over title defence leave chess facing uncertain future | Leonard Barden"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov looks at games where a king traverses a large portion of the board in the middlegame. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/middlegame-king-maneuvers-grandmasters-choice-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nFVeGLEWoiY.jpg?itok=2eCrfWFj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/middlegame-king-maneuvers-grandmasters-choice-gm-alex-shabalov",
-         "pubDate" : "Fri, 17 Dec 2021 01:24:53 +0000",
-         "title" : "Middlegame King Maneuvers | Grandmaster's Choice - GM Alex Shabalov"
       },
       {
          "description" : "This week, well-known Dutch trainer Robert Ris looks at a promising line that White may try against the Pirc. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1650,30 +1690,6 @@ news_feed (
          "title" : "Eat Like A Champion - Nutrition In Chess"
       },
       {
-         "description" : "In today's episode, Svitlana wants to give some hope to all the Nepo fans out there. The Canadian WIM shows us some beautiful games of former World Chess Champions, who managed remarkable comebacks in World Championship matches. We are talking about players like Wilhelm Steinitz, Alexander Alekhine, and Bobby Fischer. All three of them were trailing in World Championship matches and all three of them could turn the tables around. Nepo, it ain't over, until it's over.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-23",
-         "pubDate" : "Thu, 09 Dec 2021 16:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Hope for all Nepo fans"
-      },
-      {
-         "description" : "Winning a brilliancy is a delight! Fritz 18 shows you how to do it - with the \"Evolving Genius\" function. The program gives subtle hints, you find ways to play fantastic games. The renowned author and coach IM Robert Ris has tried it and played a spectacular, fast and furious game which he shows in a video. But Fritz 18 helps everyone to play brilliant games. And you can share these brilliancies and take part in our Fritz 18 lottery and win great prizes!. A lot of readers have already sent in brilliancies, we show the most beautiful victories in loose order! So, join the action and send your brilliancy to brilliancy@chessbase.com\"!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/brilliancies-with-fritz-18-robert-ris-gives-it-a-try",
-         "pubDate" : "Thu, 09 Dec 2021 13:00:00 +0100",
-         "title" : "Brilliancies with Fritz 18: Robert Ris gives it a try!"
-      },
-      {
-         "description" : "The \"body-check\" is the right solution from yesterday, instead of an immediate \"opposition\". If the king goes to d4, the game can be won. The good news is, almost everyone knew that too. In door number 9 we again have only four pieces on the board, and again it is a really instructive endgame prime example.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-9665",
-         "pubDate" : "Thu, 09 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 9"
-      },
-      {
          "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 10 Match Score: 6&frac12;-3&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 10 Wednesday, 8 December 2021 A quiet draw today after three wins in four games. In the last phase of the match, we hope to see attempts by Ian Nepomniachtchi to get on the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/09/2021-world-chess-championship-game-10/\">2021 World Chess Championship: Game #10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2056,14 +2072,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/32783274/magnus-carlsen-wins-longest-world-chess-championship-game-ever-advantage-ian-nepomniachtchi?device=featurephone",
          "pubDate" : "Sat, 4 Dec 2021 11:32:41 -0500",
          "title" : "Magnus Carlsen wins longest world championship game ever to seize advantage"
-      },
-      {
-         "description" : "Schedule &#38; Regulation National Arbiter (NA) Seminar The National Arbiter seminar is a training session for Arbiters of National level (NA) . NA Seminar Duration",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-arbiters-training-batch-3/",
-         "pubDate" : "Sat, 04 Dec 2021 15:55:15 +0000",
-         "title" : "National Arbiters Training : Batch 3"
       },
       {
          "description" : " The seventh game of the FIDE World Chess Championship in Dubai between Ian Nepomniachtchi - today with the white pieces - and Magnus Carlsen finished in a fairly uneventful draw. After the marathon game six it perhaps wasn't such a surprise. This leaves Carlsen leading 4-3 with half the match gone. Nepomniachtchi continued to hammer away at Carlsen's solid Ruy Lopez and again he chose 8.a4 in response to which Carlsen repeated the move 8...Rb8 he played in game 5. 11.d3 was Nepomniachtchi's new try but after the game he implied that his team hadn't found much anywhere to test Rb8. The game saw two key decisions for Nepomniachtchi: Firstly 14.Nxf6+ - played after 13 minutes thought - which e",
