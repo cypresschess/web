@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her second and final hour on the Najdorf, specifically lines from 6.Be3. 2021.12.22<br /> B90 Sicilian, Najdorf, Byrne (English) attack </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-najdorf-2-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbn",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-sicilian-najdorf-2-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 23 Dec 2021 04:30:46 +0000",
+         "title" : "Play the Sicilian: Najdorf #2 | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "Richard Rapport, co-winner of the rapid section, is leading the overall standings table after the first seven rounds of blitz at the Gashimov Memoarial in Baku. The strongest on day 1 of the blitz was Shakhriyar Mamedyarov, though, who scored 5 out of 7 points despite losing his last game of the day against Fabiano Caruana. | Photos: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,7 +130,7 @@ news_feed (
          "title" : "Exploit Small Weaknesses | Road to 2000 - NM Caleb Denby"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov teaches a chess endgame class.The Correct Exchange in the Endgame by Eduardas Rozentalis BUY THE BOOK: <a href=\"https://www.amazon.com/House-Staunton-Correct-Exchange-Endgame/dp/908225669X\">https://www.amazon.com/House-Staunton-Correct-Exchange-Endgame/dp/908225...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/correct-exchange-endgame-insane-endgame-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov features the teachings of Eduardas Rozentalis's book, \"The Correct Exchange in the Endgame.\" BUY THE BOOK: <a href=\"https://www.amazon.com/House-Staunton-Correct-Exchange-Endgame/dp/908225669X\">https://www.amazon.com/House-Staunton-Correct-Exchange-Endgame/dp/908225...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/correct-exchange-endgame-insane-endgame-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/fi",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/correct-exchange-endgame-insane-endgame-gm-alex-shabalov",
@@ -768,14 +776,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-fascinating-concept-for-white-in-the-pirc-austrian-attack",
          "pubDate" : "Thu, 16 Dec 2021 21:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: A fascinating concept for White in the Pirc Austrian Attack"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov teaches a chess class on a topic of his choice. 2021.12.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nFVeGLEWoiY.jpg?itok=2eCrfWFj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-alex-shabalov",
-         "pubDate" : "Thu, 16 Dec 2021 19:24:20 +0000",
-         "title" : "Grandmaster's Choice - GM Alex Shabalov"
       },
       {
          "description" : "",
@@ -2200,14 +2200,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/what-i-learned-from-gm-iossif-dorfman/",
          "pubDate" : "Thu, 02 Dec 2021 11:20:46 +0000",
          "title" : "What I Learned From GM Iossif Dorfman"
-      },
-      {
-         "description" : "The MITROPA countries Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland founded the Mitropa Chess Association (MCA) in a meeting after the ECU General Assembly on November 13, 2021 in Catez, Slovenia. Theodoros Tsorbatzoglou, Secretary General of the European Chess Union, attended the meeting as a guest. The statutes were signed by the representatives&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mitropa-chess-association-founded/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/mitropa-chess-association-founded/",
-         "pubDate" : "Thu, 02 Dec 2021 07:17:17 +0000",
-         "title" : "Mitropa Chess Association founded"
       }
    ]
 }
