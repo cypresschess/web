@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88459170.cms\" />Indian chess ace Viswanathan Anand managed only two wins in the tournament to finish last in the seventh Vugar Gashimov Memorial chess tournament on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-finishes-last-in-gashimov-memorial-chess/articleshow/88459170.cms",
+         "pubDate" : "Thu, 23 Dec 2021 21:27:28 +0530",
+         "title" : "Viswanathan Anand finishes last in Gashimov Memorial chess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1494",
+         "pubDate" : "Thu, 23 Dec 2021 14:25:25 +0000",
+         "title" : "Kenya tops medal standings in Africa Schools Chess Championship"
+      },
+      {
+         "description" : "The \"Special\" in the new ChessBase Magazine #205 is dedicated to Robert Huebner, the best German player since Emanuel Lasker: an exclusive collection of 16 games, with analyses by Michal Krasenkow, Romain Edouard, Viktor Moskalenko, and others. And there's the best of the FIDE Grand Swiss 2021: tournament winner Alireza Firouzja annotates his victory against Nijat Abasov, and Grigoriy Oparin, Yu Yangyi, Alexandr Predke, Samuel Sevian, Nikita Vitiugov, and others annotate their best games. In a video Markus Ragger reveals a brand-new update in the Gruenfeld Defence with 5.Bd2. Plus 11 opening articles (\"Surprise in the London System: 6...e5!\", \"Benko Gambit with open centre: 5.b6 e6!?\", \"News",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-205-special-on-robert-huebner-raggers-gruenfeld-update-surprise-in-the-london-system-and-much-more",
+         "pubDate" : "Thu, 23 Dec 2021 15:00:00 +0100",
+         "title" : "CBM #205: \"Special\" on Robert Huebner, Ragger's Gruenfeld update, surprise in the London System, and much more"
+      },
+      {
+         "description" : " If you are looking for a chess themed Xmas present there are some good ones, and some less than good. In the category of less than good, is an 'Backyard Chess Set' offered by own of Australia's well known retailers, Kmart. Kmart is at the cheaper end of the retails spectrum, although I do often by items from this store. However the Backyard Chess Set, isn't one of them. This isn't because of the quality mind you, but for the size. Appearing to use the same designers as <a href=\"https://youtu.be/qAXzzHM8zLw\">Spinal Tap</a>, the size of the board is a massive 1 metre x 1 metre. The pieces are descried as 10cm tall, which while suitable for this particular board, isn't much larger than the siz",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/bad-xmas-presents.html",
+         "pubDate" : "Thu, 23 Dec 2021 13:14:00 +0000",
+         "title" : "Bad Xmas Presents"
+      },
+      {
          "description" : "The youngest GM ever, played the move Nf3+. Although the game was played this year, it is already a classic. On the penultimate day, there is a fast-paced task in which a white king has to find the right square. Can you help?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1642,14 +1674,6 @@ news_feed (
          "title" : "The Endgame Magic Christmas Calendar - Door 9"
       },
       {
-         "description" : "During the World Championship match between Magnus Carlsen and Ian Nepomniachtchi a number of other tournaments are played in Dubai. One of them is the Sheikh Hamdan bin Rashid Rapid and Blitz Cup, in which 24 players from 22 countries took part. The winner of the Rapid Cup, a nine round Swiss, was Russian Grandmaster Vladimir Fedoseev. | Photos: Tournament Page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fedoseev-wins-sheikh-hamdan-bin-rashid-rapid-cup",
-         "pubDate" : "Thu, 09 Dec 2021 11:56:55 +0100",
-         "title" : "Fedoseev wins Sheikh Hamdan bin Rashid Rapid Cup"
-      },
-      {
          "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 10 Match Score: 6&frac12;-3&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 10 Wednesday, 8 December 2021 A quiet draw today after three wins in four games. In the last phase of the match, we hope to see attempts by Ian Nepomniachtchi to get on the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/09/2021-world-chess-championship-game-10/\">2021 World Chess Championship: Game #10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2192,14 +2216,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/12/03/chess-scribe-a-fifty-year-anthology/",
          "pubDate" : "Fri, 03 Dec 2021 00:10:21 +0000",
          "title" : "Chess Scribe: A Fifty Year Anthology"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1460",
-         "pubDate" : "Thu, 02 Dec 2021 14:34:28 +0000",
-         "title" : "Havana 1966 inspires Dubai 2021"
       }
    ]
 }
