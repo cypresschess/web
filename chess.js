@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Fabiano Caruana won the 2021 Vugar Gashimov Memorial on Thursday after beating GM Richard Rapport in the armageddon playoff game. Both players had finished on 24 points after the blitz segment was over. How to watch?You can play throug...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/caruana-wins-2021-gashimov-memorial-chess",
+         "pubDate" : "Thu, 23 Dec 2021 15:08:00 -0800",
+         "title" : "Caruana Wins 2021 Gashimov Memorial"
+      },
+      {
          "description" : "V S Raahul in the open section and Savitha Shri B in Girls won the Asian Junior Chess Championship at Colombo on Thursday. Tamilnadu teenager",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -24,6 +32,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-sharp-sicilian-battle",
          "pubDate" : "Thu, 23 Dec 2021 19:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: A sharp Sicilian battle"
+      },
+      {
+         "description" : " The 7th Vugar Gashimov Memorial was a rapid mini-match tournament combined with a double round robin blitz that took place Fri 17th Dec to Fri 24th Dec 2021. Players: Richard Rapport, Fabiano Caruana, Shakhriyar Mamedyarov, Rauf Mamedov, Viswanathan Anand, David Navara, Vugar Asadli and Sergey Karjakin. Fabiano Caruana came from behind to catch Richard Rapport and then win a final Armageddon title. Rapport and Karjakin won the rapid section with 16 points out of a possible 21. Caruana won the blitz with 10/14 a point and a half clear of Mamedyarov and two points clear of Rapport, Karjakin rather surprisingly came last in the blitz.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/7th-vugar-gashimov-memorial-2021",
+         "pubDate" : "Thu, 23 Dec 2021 21:28:00 +0400",
+         "title" : "7th Vugar Gashimov Memorial 2021 - Games and Results"
+      },
+      {
+         "description" : " the 8th Sunway Sitges Festival took place Mon 13th Dec to Thu 23rd Dec 2021. Nodirbek Abdusattorov beat Dmitrij Kollars in a tie-break match to win the event. Four players tied for first on 8/10 and they played off to settle the first four placings, the next four players finished on 7.5/10 and they also had tie-break matches to determine their exact final placings.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/8th-sunway-sitges-festival-2021",
+         "pubDate" : "Thu, 23 Dec 2021 21:23:00 +0400",
+         "title" : "8th Sunway Sitges Festival 2021 - Games and Results"
       },
       {
          "description" : "Lawrence is busy, but still managed to continue Trent's Tactics from the UK, with an improvised setup. Good enough to conquer a remarkable tactical masterpiece by Vishy Anand against Veselin Topalov, in the World Championship in Sofia from 2010. Lawrence and Arne also try to reach the 2350 Rating in the ChessBase training section, but will they succeed?",
@@ -616,14 +640,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1488",
          "pubDate" : "Sat, 18 Dec 2021 22:49:26 +0000",
          "title" : "Hungarian Championship: Peter Acs and Zsuzsanna Terbe clinch titles"
-      },
-      {
-         "description" : " The 7th Vugar Gashimov Memorial is a rapid mini-match tournament combined with a double round robin blitz that takes place Fri 17th Dec 2021\tFri 24th Dec 2021. Players: Richard Rapport, Fabiano Caruana, Shakhriyar Mamedyarov, Rauf Mamedov, Viswanathan Anand, David Navara, Vugar Asadli and Sergey Karjakin. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/7th-vugar-gashimov-memorial-2021",
-         "pubDate" : "Sun, 19 Dec 2021 00:48:00 +0400",
-         "title" : "7th Vugar Gashimov Memorial 2021 - Games and Results"
       },
       {
          "description" : "",
@@ -2042,14 +2058,6 @@ news_feed (
          "title" : "Time To Say Dubai: Round 8 of the Match"
       },
       {
-         "description" : "With another win in game eight of the 2021 FIDE World Chess Championship, GM Magnus Carlsen extended his lead to two points going into the third rest day. GM Ian Nepomniachtchi initially defended creatively in another Petroff but then blundered a ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-8",
-         "pubDate" : "Sat, 04 Dec 2021 14:15:00 -0800",
-         "title" : "Carlsen Wins Game 8 As Nepo Falters In FIDE World Chess Championship"
-      },
-      {
          "description" : " <p class=\"lead\">The World Chess Championship Match is a fascinating (and yes, very long) affair where some of the fastest-thinking people in the world battle for the championship title and millions of dollars that come with it. There are incredible moments there, new chess ideas are introduced and new trends set. The 14-game event where each game takes up to 8 hours is also a bit of a sartorial exercise in which the players wear suits (yes, there is a dress code) and try to look the part. Magnus Carlsen, the defending World Champion, has mastered this task with his signature systematic approach. He has two sets of suits, for black and white pieces. Very convenient, and also a useful piece o",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2216,14 +2224,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/dec/03/chess-carlsen-and-nepomniachtchi-face-weekend-crunch-games-in-dubai",
          "pubDate" : "Fri, 03 Dec 2021 08:00:35 +0000",
          "title" : "Chess: Carlsen takes lead as 136-move record length game breaks deadlock"
-      },
-      {
-         "description" : " From the publisher's blurb: &#8220;In reviews of the author's books, Grandmaster Matthew Sadler wrote in New In Chess about David LeMoir's writing \" always either entertaining or instructive\", and Grandmaster Jonathan Rowson (in the English Chess Federation's Newsletter) wrote \"I like LeMoir's writing style a lot!\". David LeMoir has written three popular and highly acclaimed <a href=\"http://britishchessnews.com/2021/12/03/chess-scribe-a-fifty-year-anthology/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess Scribe: A Fifty Year Anthology</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/03/chess-scr",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/12/03/chess-scribe-a-fifty-year-anthology/",
-         "pubDate" : "Fri, 03 Dec 2021 00:10:21 +0000",
-         "title" : "Chess Scribe: A Fifty Year Anthology"
       }
    ]
 }
