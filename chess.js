@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana had a great second day of blitz at the Vugar Gashimov Tournament in Baku. The American even caught up with former leader Richard Rapport in the overall standings table. Caruana then went on to beat his Hungarian colleague in Armageddon to win the event. | Photos: Official tournament site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/caruana-beats-rapport-in-armageddon-to-win-gashimov-memorial",
+         "pubDate" : "Fri, 24 Dec 2021 03:45:00 +0100",
+         "title" : "Caruana beats Rapport in Armageddon to win Gashimov Memorial"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1496",
+         "pubDate" : "Fri, 24 Dec 2021 02:20:00 +0000",
+         "title" : "Cadets & Youth Super Final: Congratulating the Winners "
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches all about practical chess middlegames. 2021.12.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/practical-chess-middlegames-grandmasters-choice-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FMfcrCH1DUY.jpg?itok=52G6mnCI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/practical-chess-middlegames-grandmasters-choice-gm-denes-boros-lichessorg",
+         "pubDate" : "Fri, 24 Dec 2021 01:31:38 +0000",
+         "title" : "Practical Chess Middlegames | Grandmaster's Choice - GM Denes Boros | lichess.org"
+      },
+      {
          "description" : "GM Fabiano Caruana won the 2021 Vugar Gashimov Memorial on Thursday after beating GM Richard Rapport in the armageddon playoff game. Both players had finished on 24 points after the blitz segment was over. How to watch?You can play throug...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -728,14 +752,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/from-the-evergreen-tree",
          "pubDate" : "Sat, 18 Dec 2021 09:00:00 +0100",
          "title" : "From the evergreen tree"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Harrison Keyser showcases a few unique endgame studies with wild stalemate resources. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/ArcG3\">https://www.youtube.com/c/ArcG3</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> 0:00 Intro<br /> 1:18 Nikolaevsky - Taimanov (1967)<br /> 2:36 Chigorin - Tarrasch (1905)<br /> 4:01 Aronson - Mednis (1953)<br /> 4:58 An \"Easy\" Win for Black<br /> 6:55 Where is the Stalemate? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-stalemate-eric-rosen",
-         "pubDate" : "Sat, 18 Dec 2021 07:26:03 +0000",
-         "title" : "How To Stalemate Like Eric Rosen"
       },
       {
          "description" : "",
@@ -1680,14 +1696,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1472",
          "pubDate" : "Thu, 09 Dec 2021 20:09:27 +0000",
          "title" : "Sheikh Hamdan bin Rashid Cup: Fedoseev and Salem take titles"
-      },
-      {
-         "description" : "This week, well-known Dutch trainer Robert Ris looks at an entertaining attacking game in the King's Indian. Enjoy! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-attacking-with-the-ragozin-2",
-         "pubDate" : "Thu, 09 Dec 2021 19:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A crushing win against the Bayonet Attack"
       },
       {
          "description" : "The adventures we have had with Fritz! A unique experience was a match our program played in the Gulf state of Bahrain, back in 2002. The eight-game struggle ended in a hard-fought 4-4 draw. In a large pictorial article Frederic Friedel describes the intense battle against the reigning World Champion Vladimir Kramnik, and the three weeks spent by the ChessBase/Fritz team in a luxury hotel in Bahrain.",
