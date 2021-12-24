@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1498",
+         "pubDate" : "Fri, 24 Dec 2021 12:31:04 +0000",
+         "title" : "Happy Holidays!"
+      },
+      {
          "description" : " I decided to take a one time break from my series of articles because I realized that this piece would be published right around Christmas. Let's face it, it has been a difficult time for the majority of us over the last two years. The Covid-19 Pandemic has thrown our routine lives into a state <a href=\"https://chessimprover.com/stay-calm-and-carry-on-playing-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stay Calm and Carry On Playing Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stay-calm-and-carry-on-playing-chess/\">Stay Calm and Carry On Playing Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2224,30 +2232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1461",
          "pubDate" : "Fri, 03 Dec 2021 17:18:42 +0000",
          "title" : "Max Warmerdam wins Dutch Championship 2021"
-      },
-      {
-         "description" : "We now have a full programme of ECF over-the-board events and National Championships running into next year (2022). These include English National Championships at standardplay,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-events-programme-page/",
-         "pubDate" : "Fri, 03 Dec 2021 14:35:25 +0000",
-         "title" : "ECF events programme page"
-      },
-      {
-         "description" : "Jonathan Penrose, who won the British Chess Championship a record ten times, has died aged 88. You can read Leonard Barden's fine obituary published in...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rip-jonathan-penrose/",
-         "pubDate" : "Fri, 03 Dec 2021 13:32:40 +0000",
-         "title" : "RIP Jonathan Penrose"
-      },
-      {
-         "description" : " The 6th game of the 2021 World Chess Championship has just started, and Carlsen has chosen to play the Catalan. This was also the choice for game 2, which ended in draw, but for various reasons, the choice of this opening generated a degree of excitement among the online spectators. This is probably a reaction to the various 1.e4 e5 games that ended in a draw, but I do remember a time when the Catalan was criticised as a 'drawing' opening. As I write this the game is still in the opening, but at least Nepo seemed a little surprised by the choice of opening. However, he seems to have recovered his equilibrium, and I fear that the game may end in another draw (based more on the symmetrical pa",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/the-fickle-finger-of-fashion.html",
-         "pubDate" : "Fri, 03 Dec 2021 12:49:00 +0000",
-         "title" : "The fickle finger of fashion"
       }
    ]
 }
