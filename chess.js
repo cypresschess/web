@@ -5,6 +5,22 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1499",
+         "pubDate" : "Fri, 24 Dec 2021 17:24:25 +0000",
+         "title" : "Asian Junior Championships 2021: Indians sweep out"
+      },
+      {
+         "description" : " The World Rapid and Blitz Championships take place in Warsaw Sun 26th Dec to Thu 30th Dec 2021. Leading players: Magnus Carlsen, Hikaru Nakamura, Jan-Krzysztof Duda, Ian Nepomniachtchi, MVL, Fabiano Caruana, Anish Giri, Alexander Grischuk, Sergey Karjakin etc. This should be a highly competitive and enjoyable contest. The event was last held in Moscow in 2019. 153 players are registered for the Rapid Open (down from 207 two years ago), 154 the blitz (206) the women's events have 85 for the rapid (122) and 85 for the blitz (122). Given the coronavirus crisis these figures have held up remarkably well. There has to be a concern that a coronavirus outbreak involving the new highly infectious o",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2021",
+         "pubDate" : "Fri, 24 Dec 2021 19:53:00 +0400",
+         "title" : "World Rapid and Blitz Championships 2021 - Games and Results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1498",
          "pubDate" : "Fri, 24 Dec 2021 12:31:04 +0000",
          "title" : "Happy Holidays!"
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://chessimprover.com/stay-calm-and-carry-on-playing-chess/",
          "pubDate" : "Fri, 24 Dec 2021 11:37:41 +0000",
          "title" : "Stay Calm and Carry On Playing Chess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1497",
+         "pubDate" : "Fri, 24 Dec 2021 11:30:30 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2021: Preview"
       },
       {
          "description" : " An older video than I realised, but still fun to watch <br /> <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/L2L5an2pnSI\" width=\"320\" youtube-src-id=\"L2L5an2pnSI\"></iframe></div><br /> ",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2484",
          "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 24"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1500",
+         "pubDate" : "Fri, 24 Dec 2021 10:51:34 +0000",
+         "title" : "2021 FIDE General Assembly Agenda and Final List of Delegates"
       },
       {
          "description" : " <p class=\"lead\">GM Vladimir Dobrov has summed up the year's chess results. Who was the main disappointment, and who was the main hope for 2021? Who deserves the Chess Oscar, and why is Andrey Esipenko an enviable groom? We tell you. <h2>Match of the Year</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E9369147-BF45-49CB-B482-3C6E23E08584.gif\" width=\"1400\" height=\"934\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> I award this nomination to <a href=\"https://worldcup.fide.com\">the World Cup match</a> between Andrey Esipenko and Magnus Carlsen, held in sunny Sochi. The suspense in the 1/8 finals was unbelievable. Our 18-year-old from Rostov w",
@@ -2208,30 +2240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1462",
          "pubDate" : "Fri, 03 Dec 2021 21:58:31 +0000",
          "title" : "FIDE World Championship Dubai 20221: Are we there yet?"
-      },
-      {
-         "description" : " Magnus Carlsen has taken the lead in the FIDE World Chess Championship by beating his challenger Ian Nepomniachtchi in a record breaking 136 move victory. Both players had winning chances in time trouble on the run up to move 40 but after that it was a master class from Carlsen on how to make the most of your chances. Carlsen deliberately extended the game to put maximum pressure on his opponent when he truly went for victory. Nepomniachtchi played well for long periods but mistakes on moves 31, 36, 38 and a particularly careless one on move 52 contributed to this loss. Nepomniachtchi's fatal error came as late as move 130 by that stage his task was extremely hard - especially with the fati",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/carlsen-takes-the-lead-in-world-championship-following-a-record-breaking-game-6",
-         "pubDate" : "Fri, 3 Dec 2021 23:39:00 +0400",
-         "title" : "Carlsen takes the lead in World Championship following a record breaking game 6 - 6"
-      },
-      {
-         "description" : " FIDE President Arkady Dvorkovich &#038; Orrin Hudson @ FIDE World Chess Championships in Dubai UAE. Photo courtesy of Orrin Hudson Orrin Hudson of Besomeone, Inc. has been known for his energetic methods in presenting chess as a means of learning critical life skills. Hudson is also a world traveler and most recently visited the FIDE [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/03/orrin-hudson-in-dubai-for-world-championship/\">Orrin Hudson in Dubai for World Championship</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/12/03/orrin-hudson-in-dubai-for-world-championship/",
-         "pubDate" : "Fri, 03 Dec 2021 17:25:26 +0000",
-         "title" : "Orrin Hudson in Dubai for World Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1461",
-         "pubDate" : "Fri, 03 Dec 2021 17:18:42 +0000",
-         "title" : "Max Warmerdam wins Dutch Championship 2021"
       }
    ]
 }
