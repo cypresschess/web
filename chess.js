@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches all about practical chess middlegames. 2021.12.23<br /> Alireza Firouzja vs David Anton Guijarro, Tata Steel Masters (2021)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2020562\">https://www.chessgames.com/perl/chessgame?gid=2020562</a><br /> Denes Boros vs. Zoltan Gyimesi, 2010: C44 Ponziani, Jaenisch counter-attack<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3720785\">https://www.365chess.com/game.php?back=1&amp;gid=3720785</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-crush-olympic-champ-ponziani-grandmasters-choice-gm-denes-boros",
+         "pubDate" : "Fri, 24 Dec 2021 04:31:59 +0000",
+         "title" : "How to Crush an Olympic Champ with the Ponziani! | Grandmaster's Choice - GM Denes Boros"
+      },
+      {
          "description" : "Fabiano Caruana had a great second day of blitz at the Vugar Gashimov Tournament in Baku. The American even caught up with former leader Richard Rapport in the overall standings table. Caruana then went on to beat his Hungarian colleague in Armageddon to win the event. | Photos: Official tournament site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -336,14 +344,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/whats-your-magnus-number-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
          "pubDate" : "Tue, 21 Dec 2021 19:29:59 +0000",
          "title" : "What's Your Magnus Number? | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby goes to work hard to exploit small weaknesses, wiggling them, making them bigger, then winning. The mysterious masked Caleb uses examples from recent games he played on lichess.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exploit-small-weaknesses-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/otiSPKCfE1U.jpg?",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exploit-small-weaknesses-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Tue, 21 Dec 2021 19:29:59 +0000",
-         "title" : "Exploit Small Weaknesses | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
          "description" : "GM Sergey Karjakin and GM Richard Rapport are tied for first place after four days of rapid chess at the Vugar Gashimov Memorial in Baku, Azerbaijan. GM Viswanathan Anand is currently in last place, but there are 14 rounds of blitz to play. ...",
