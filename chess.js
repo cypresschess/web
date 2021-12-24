@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\"><a href=\"https://gashimovchess.com\">The 2021 Vugar Gashimov Memorial</a> finished in an unexpected way, with GM Fabiano Caruana \"stealing\" first place from GM Richard Rapport, and former World Champion Vishy Anand having a disappointing tournament and losing 66 rating points. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/269809240_4477167249075891_6355251531545724842_n.jpg\" width=\"1440\" height=\"960\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Gashimov Chess</div> </div> Starting the final round, <b>Rapport</b> and <b>Caruana</b> were in a tie, with their positions clearly showing that it was Rapport's time to shine. The Hungarian GM attempted",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/caruana-steals-first-place-from-rapport-at-the-2021-gashimov-mem/",
+         "pubDate" : "Fri, 24 Dec 2021 08:17:34 +0000",
+         "title" : "Caruana \"Steals\" First Place From Rapport at the 2021 Gashimov Memorial"
+      },
+      {
+         "description" : "The 2021 European Youth Rapid&#38;Blitz Chess Championships take place from 27th to 30th December in Novi Sad, Serbia. Almost 500 players coming from 29 European federations registered for the event which will be played within 4 different Championships: 20th European Youth Individual Rapid Chess Championship&#160;(U8, U10, U12, U14, U16 and U18, open and girls sections separately) taking place&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-rapidblitz-chess-championships-2021-start/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-championships-2021-start/",
+         "pubDate" : "Fri, 24 Dec 2021 08:15:03 +0000",
+         "title" : "European Youth Rapid&Blitz Chess Championships 2021 start"
+      },
+      {
+         "description" : " The five-times US champion and fast-chess specialist, Hikaru Nakamura, plus the world No 2 and teen star, Alireza Firouzja, lead the challenge for the Norwegian's rapid and blitz crowns Fresh from his crushing victory over Ian Nepomniachtchi in Dubai, Magnus Carlsen opens his defence of his world rapid and blitz titles in Warsaw starting at 2pm GMT on Boxing Day. The 31-year-old Norwegian faces a serious double threat to his ambition to hold three crowns - classical, rapid and blitz - simultaneously, and will need all his legendary skills. Games and commentaries will be viewable live and free online. The tournament is being staged at the PGE Narodowy Stadium, the home of Poland's national f",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/dec/24/carlsen-faces-test-from-rivals-for-chess-speed-titles-in-warsaw-on-boxing-day",
+         "pubDate" : "Fri, 24 Dec 2021 08:00:19 +0000",
+         "title" : "Carlsen faces test from rivals for chess speed titles in Warsaw on Boxing Day"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches all about practical chess middlegames. 2021.12.23<br /> Alireza Firouzja vs David Anton Guijarro, Tata Steel Masters (2021)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2020562\">https://www.chessgames.com/perl/chessgame?gid=2020562</a><br /> Denes Boros vs. Zoltan Gyimesi, 2010: C44 Ponziani, Jaenisch counter-attack<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3720785\">https://www.365chess.com/game.php?back=1&amp;gid=3720785</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2146,14 +2170,6 @@ news_feed (
          "title" : "What Chess Set Is Used In the World Chess Championship Match"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/pLBc0kVzaD0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> World Chess Championship Stream Live from Dubai ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-7-of-the-match/",
-         "pubDate" : "Sat, 04 Dec 2021 09:37:11 +0000",
-         "title" : "Time To Say Dubai: Round 7 of the Match"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2224,14 +2240,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-four/",
          "pubDate" : "Fri, 03 Dec 2021 09:30:24 +0000",
          "title" : "A Foundation for Beginners Forty Four"
-      },
-      {
-         "description" : " Champion grinds down challenger Nepomniachtchi in trademark style as the Norwegian's rook, knight and two pawns defeat the Russian's queen Magnus Carlsen, the world champion, finally broke the tough resistance of his Russian challenger Ian Nepomniachtchi on Friday night as the marathon sixth round of their 14-game title match in Dubai ended with victory for the Norwegian after 136 moves. The endgame battle, where Carlsen's rook, knight and pawn gradually outmanoeuvered his opponent's lone queen, was the longest game in world championship history, surpassing the 124-move draw between Anatoly Karpov and Viktor Korchnoi at the \"Battle of Baguio\" in the Philippines in 1978. Carlsen's victory to",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/dec/03/chess-carlsen-and-nepomniachtchi-face-weekend-crunch-games-in-dubai",
-         "pubDate" : "Fri, 03 Dec 2021 08:00:35 +0000",
-         "title" : "Chess: Carlsen takes lead as 136-move record length game breaks deadlock"
       }
    ]
 }
