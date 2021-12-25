@@ -2224,22 +2224,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/satisfaction-failure-and-thoughts-on-time-control-game-6-press-c/",
          "pubDate" : "Sat, 04 Dec 2021 11:13:09 +0000",
          "title" : "Satisfaction, failure and thoughts on time control - Game 6 press conference"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1463",
-         "pubDate" : "Fri, 03 Dec 2021 22:35:05 +0000",
-         "title" : "FIDE Chessable camp: Time to say goodbye"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1462",
-         "pubDate" : "Fri, 03 Dec 2021 21:58:31 +0000",
-         "title" : "FIDE World Championship Dubai 20221: Are we there yet?"
       }
    ]
 }
