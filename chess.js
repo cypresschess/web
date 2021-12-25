@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Magnus Carlsen, Ian Nepomniachtchi, Alireza Firouzja, and Hikaru Nakamura are already in Warsaw for the traditional end of year tournament, the <a href=\"https://worldrapidandblitz.fide.com/\">2021 World Rapid and Blitz</a>. Both the Open and Women's events start on the 25th of December, with a total prize of $1 million. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2ADB8D2F-0A1E-4BF3-A85C-E971761DE986.jpeg\" width=\"706\" height=\"470\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> The World Rapid and Blitz Championships were initially scheduled to be held in Nur Sultan, Kazakhstan. Due to COVID-19 restrictions though, FIDE announce",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/2021-world-rapid-and-blitz-carlsen-nepo-firoujza-and-nakamura-ar/",
+         "pubDate" : "Sat, 25 Dec 2021 08:00:43 +0000",
+         "title" : "2021 World Rapid and Blitz: Carlsen, Nepo, Firoujza, and Nakamura Are Our Holiday Spice"
+      },
+      {
+         "description" : "In the diagram position it is Black to play but it is White who seems to be calling the shots. However, Black's position contains hidden possibilities and with three powerful moves Black can exploit the somewhat precarious position of White's queen on g4. What would you do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-christmas-nut-to-crack",
+         "pubDate" : "Sat, 25 Dec 2021 09:00:00 +0100",
+         "title" : "A Christmas nut to crack"
+      },
+      {
+         "description" : "ChessBase wishes all chess friends and readers a Merry Christmas and happy holidays! | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/merry-christmas-2",
+         "pubDate" : "Sat, 25 Dec 2021 08:00:00 +0100",
+         "title" : "Merry Christmas!"
+      },
+      {
          "description" : "The eighth edition of the strong Open in Sitges was a thrilling tournament throughout, but it offered an extra dose of excitement on the final day of play. Four players finished with 8 points at the top of the standings table, and a knockout was organized to decide the winner. Dimitrij Kollars reached the final, where he lost to Uzbek prodigy Nodirbek Andusattorov. | Photos: Rupali Mullick",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1714,14 +1738,6 @@ news_feed (
          "title" : "Book Recap #21- Discussing A First Book of Morphy with Mads J&oslash;nsson"
       },
       {
-         "description" : "A few days ago the FIDE announced that the World Rapid and Blitz Championships due to Corona restrictions could not take place in Nur Sultan, Kazakhstan, as was originally planned. Now FIDE announced that they found a new venue: the World Rapid and Blitz Championships will take place in Warsaw on the planned dates (December 25 - December 31, 2021). | Photo: Qbolewicz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-rapid-and-blitz-championships-will-take-place-in-warsaw",
-         "pubDate" : "Fri, 10 Dec 2021 15:27:33 +0100",
-         "title" : "The World Rapid and Blitz Championships will take place in Warsaw"
-      },
-      {
          "description" : " Tonight could very well see the final game of the 2021 World Championship Match. A win for Carlsen would see him reach 7.5 points, the score he needs to retain his title. Even a draw would see Carlsen reach 7, so the worse that could happen was a round of tie-breaks. Going into this game I can't see Nepo pulling back a full point. He might draw the game, postponing the inevitable, or over press, resulting in a win for Carlsen (in a similar ending to the 2013 World Championship Match). If I was a betting man, I would give Carlsen a 33% change of winning, and a 66% chance of it being a draw. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1744,14 +1760,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-11-of-the-match/",
          "pubDate" : "Fri, 10 Dec 2021 11:57:58 +0000",
          "title" : "Time To Say Dubai: Round 11 of the Match"
-      },
-      {
-         "description" : "The rook moves to the square f2. Most people knew that yesterday, which is wonderful! As always, the detailed solution is in the video, and there are many details to consider. We are briefly confused ourselves during the analysis. Today we have to solve a problem, starring Magnus Carlsen!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-10834",
-         "pubDate" : "Fri, 10 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 10"
       },
       {
          "description" : "The last quarterfinal match of this year&#39;s Speed Chess Championship Main Event was between GMs Wesley So and Fabiano Caruana. The former, who just became the 2021 U.S. Champion (you can read more about that here) went on to win the match 17.5-9.5 ...",
@@ -2216,14 +2224,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/happy-to-get-that-prediction-wrong.html",
          "pubDate" : "Sat, 04 Dec 2021 12:30:00 +0000",
          "title" : "Happy to get that prediction wrong"
-      },
-      {
-         "description" : " <p class=\"lead\">After the longest game in world championship history Magnus and Ian responded to questions from the media representatives. <h2>Magnus Carlsen said \"Yes\"!</h2> <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/3pr9PjOJ_i0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">At the after-match press conference Magnus commented that it was an extra pleasure to win after such a long time.</div> </div> <h2>Magnus Carlsen commented on the different time control and time troubles during the Game 6.</h2> <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/1aWSdwNAntk?enablejsapi=1\" allow=\"autop",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/satisfaction-failure-and-thoughts-on-time-control-game-6-press-c/",
-         "pubDate" : "Sat, 04 Dec 2021 11:13:09 +0000",
-         "title" : "Satisfaction, failure and thoughts on time control - Game 6 press conference"
       }
    ]
 }
