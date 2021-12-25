@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A few weeks ago we announced a Brilliancy Challenge: send us brilliant games you have recently played and compete for some valuable prizes. Here's a festive example: Andreas Krentel, a physiotherapist, used to play in a chess club 15 years ago. He was looking for an opponent to test his wits against. Suddenly he found the prefect chess partner: Fritz 18! And it became like the good old days in the chess club. Andreas has sent us a couple of games to show how the program encouraged him to execute brilliancies.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-games-with-fritz-18",
+         "pubDate" : "Sat, 25 Dec 2021 14:00:00 +0100",
+         "title" : "Christmas games with Fritz 18"
+      },
+      {
          "description" : "We are sorry, but our calendar doesn't have 25 doors, but one solution still has to be shown. Thank you! We were able to beat last year's result, thanks to your record participation. All winners will be announced on 27.12.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1658,14 +1666,6 @@ news_feed (
          "title" : "Magnus Carlsen defends the title of FIDE World Chess Champion"
       },
       {
-         "description" : "The razor-sharp diagram position saw Black losing after 26...Kxh6?, while after 26...Kg7! things easily might have gone the other way round. Stunners galore - enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/make-your-bet",
-         "pubDate" : "Sat, 11 Dec 2021 09:00:00 +0100",
-         "title" : "Make your bet!"
-      },
-      {
          "description" : "All India Chess Federation wishes a very happy birthday to five-time World Champion Legend Viswanathan Anand!",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2184,38 +2184,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/32783274/magnus-carlsen-wins-longest-world-chess-championship-game-ever-advantage-ian-nepomniachtchi?device=featurephone",
          "pubDate" : "Sat, 4 Dec 2021 11:32:41 -0500",
          "title" : "Magnus Carlsen wins longest world championship game ever to seize advantage"
-      },
-      {
-         "description" : " The seventh game of the FIDE World Chess Championship in Dubai between Ian Nepomniachtchi - today with the white pieces - and Magnus Carlsen finished in a fairly uneventful draw. After the marathon game six it perhaps wasn't such a surprise. This leaves Carlsen leading 4-3 with half the match gone. Nepomniachtchi continued to hammer away at Carlsen's solid Ruy Lopez and again he chose 8.a4 in response to which Carlsen repeated the move 8...Rb8 he played in game 5. 11.d3 was Nepomniachtchi's new try but after the game he implied that his team hadn't found much anywhere to test Rb8. The game saw two key decisions for Nepomniachtchi: Firstly 14.Nxf6+ - played after 13 minutes thought - which e",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/quiet-draw-in-game-seven-of-the-world-chess-championship",
-         "pubDate" : "Sat, 4 Dec 2021 19:23:00 +0400",
-         "title" : "Quiet draw in game seven of the World Chess Championship - 7"
-      },
-      {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 6 Match Score: 3&frac12;-2&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 6 Friday, 3 December 2021 Titanic struggle breaks drought set records Today&#39;s #CarlsenNepo Game 6 was instructive for so many reasons. I&#39;m not sure sponsors will understand how thrilling this record-breaking game was, but [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/04/2021-world-chess-championship-game-6/\">2021 World Chess Championship: Game #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/12/04/2021-world-chess-championship-game-6/",
-         "pubDate" : "Sat, 04 Dec 2021 15:13:23 +0000",
-         "title" : "2021 World Chess Championship: Game #6"
-      },
-      {
-         "description" : " <p class=\"lead\">The seventh game of the World Chess Championship ended with a draw. After 7 games, the score is 4-3 in Magnus' favour. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2047\" data-ratio=\"1.4996336996337\"> <img src=\"https://worldchess.com/news/pictures/51723551171_6946477618_k-min.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51723550081_57857ce784_k-min.jpg\" width=\"1638\" height=\"2047\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51722695690_ca10f7151b_k-min.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51723800198_431c56b049_k-min.jpg\" width=\"1638\" height=\"2047\" al",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-championship-game-7-nepo-didnt-bounce-back/",
-         "pubDate" : "Sat, 04 Dec 2021 15:12:58 +0000",
-         "title" : "World Chess Championship Game 7: Nepo didn't bounce back"
-      },
-      {
-         "description" : "\"The mind is inured to caution, foresight and circumspection&hellip;\" Dr Samuel Johnson, from his introduction to William Payne's 1756 Treatise on the Game of Draughts. My inspiration for this week's title is taken from Harold Macmillan's famous \"Wind of Change\" speech, delivered at Accra, Ghana on January 10, 1960. It may seem perverse to focus on []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/draught-of-change/",
-         "pubDate" : "Sat, 04 Dec 2021 12:39:42 +0000",
-         "title" : "Draught of Change"
       }
    ]
 }
