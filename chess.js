@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We are sorry, but our calendar doesn't have 25 doors, but one solution still has to be shown. Thank you! We were able to beat last year's result, thanks to your record participation. All winners will be announced on 27.12.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2599",
+         "pubDate" : "Sat, 25 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 25"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/happy-xmas/",
+         "pubDate" : "Sat, 25 Dec 2021 09:49:14 +0000",
+         "title" : "HAPPY XMAS"
+      },
+      {
+         "description" : "Part of the attraction of the Netflix series \"The Queen's Gambit\" is the design: costumes, buildings and music evoke the 1960s, the time in which the series is set. In a crucial scene of the series the Dutch band Shocking Blue provides the background music. Shocking Blue, founded in 1967, might not be as famous as other bands from the 1960s and 1970s but it still has ardent followers, and one of them is a prominent chess player and well-known coach. | Photo: Netflix",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/more-music-in-the-queen-s-gambit-the-dutch-band-shocking-blue",
+         "pubDate" : "Sat, 25 Dec 2021 10:00:00 +0100",
+         "title" : "More Music in \"The Queen's Gambit\": The Dutch band \"Shocking Blue\""
+      },
+      {
          "description" : " <p class=\"lead\">Magnus Carlsen, Ian Nepomniachtchi, Alireza Firouzja, and Hikaru Nakamura are already in Warsaw for the traditional end of year tournament, the <a href=\"https://worldrapidandblitz.fide.com/\">2021 World Rapid and Blitz</a>. Both the Open and Women's events start on the 25th of December, with a total prize of $1 million. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2ADB8D2F-0A1E-4BF3-A85C-E971761DE986.jpeg\" width=\"706\" height=\"470\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> The World Rapid and Blitz Championships were initially scheduled to be held in Nur Sultan, Kazakhstan. Due to COVID-19 restrictions though, FIDE announce",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1658,14 +1682,6 @@ news_feed (
          "title" : "Chess.com Announces The 2022 Puzzle Battle World Championship"
       },
       {
-         "description" : "Magnus Carlsen picked up a fourth win at the World Championship match in Dubai to secure overall victory with three games to spare. Playing black, the world champion saw Ian Nepomniachtchi all but self-destructing for a third time in the match. This was Carlsen's fourth consecutive successful defence of the title after becoming world champion in 2013. | Photo: Eric Rosen / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-g11",
-         "pubDate" : "Fri, 10 Dec 2021 20:25:00 +0100",
-         "title" : "Magnus Carlsen retains title after winning lopsided match"
-      },
-      {
          "description" : " Superb live online coverage of this World Chess Championship expertly followed the most dominant win in a century Magnus Carlsen <a href=\"https://www.theguardian.com/sport/live/2021/dec/10/magnus-carlsen-v-ian-nepomniachtchi-world-chess-championship-game-11-live\" title=\"\">wrapped up his world championship defence</a> yesteron Friday afternoon in Dubai when his Russian rival Ian Nepomniachtchi, already demoralised by a succession of defeats, blundered badly in a level position in the 11th game of their best of 14 games series, and resigned after 49 moves and three and a half hours play. Asked what he thought helped him dominate the match, Carlsen replied: \"In simple positions I made very few",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1680,14 +1696,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1474",
          "pubDate" : "Fri, 10 Dec 2021 18:28:18 +0000",
          "title" : "Magnus Carlsen wins his fifth consecutive world title match"
-      },
-      {
-         "description" : "In light of recent events GM Daniel King looks back over World Championship mistakes and blunders. The selection is plentiful, and it wasn't just the old guys making errors. The first example comes from the Steinitz-Chigorin match of 1892, the last is from Carlsen-Nepomniachtchi, and there is much in between. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-2",
-         "pubDate" : "Fri, 10 Dec 2021 19:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: World Championship blunders"
       },
       {
          "description" : "Carlsen defeated Ian Nepomniachtchi 7.5 - 3.5 at the 2021 FIDE World Chess Championships in Dubai to win his fifth title.",
@@ -2074,14 +2082,6 @@ news_feed (
          "title" : "Nepo to Change Strategy After Disastrous Championship Score"
       },
       {
-         "description" : "&#160; Download National Junior 2022 Regulations",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-50th-national-junior-under-20-35th-national-junior-girls-under-20-chess-championships-2022/",
-         "pubDate" : "Mon, 06 Dec 2021 06:48:45 +0000",
-         "title" : "MPL 50TH NATIONAL JUNIOR (UNDER-20) & 35TH NATIONAL JUNIOR GIRLS (UNDER-20) CHESS CHAMPIONSHIPS-2022"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/dddd74bf-10cb-4380-ad76-4000dcfe9266/Timman.jpg\" data-image-dimensions=\"192x256\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61ad4fa4b151d02ef7fa43df\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/dddd74bf-10cb-4380-ad76-4000dcfe9266/Timman.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo of GM Jan Timman <a href=\"https://upload.wikimedia.org/wikipedia/commons/9/96/Timman_Jan.jpg\">via Wikimedia Commons </a> </figcaption> </fi",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2216,14 +2216,6 @@ news_feed (
          "link" : "https://www.thearticle.com/draught-of-change/",
          "pubDate" : "Sat, 04 Dec 2021 12:39:42 +0000",
          "title" : "Draught of Change"
-      },
-      {
-         "description" : " Late last night (my time), I predicted that Game 6 of the World Championship would end in a draw. I'm glad to say that I got that prediction wrong! In the longest World Championship game ever, Carlsen keep grinding away until he finally found a win in a tricky Q v stuff ending (where Carlsen had the stuff). I'm not going to post the game as there are plenty of other places to see it, but now that one player has taken the lead, the next few games should see both players pushing for a little more out of the opening. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/happy-to-get-that-prediction-wrong.html",
-         "pubDate" : "Sat, 04 Dec 2021 12:30:00 +0000",
-         "title" : "Happy to get that prediction wrong"
       }
    ]
 }
