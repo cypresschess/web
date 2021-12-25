@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The eighth edition of the strong Open in Sitges was a thrilling tournament throughout, but it offered an extra dose of excitement on the final day of play. Four players finished with 8 points at the top of the standings table, and a knockout was organized to decide the winner. Dimitrij Kollars reached the final, where he lost to Uzbek prodigy Nodirbek Andusattorov. | Photos: Rupali Mullick",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sitges-abdusattorov-wins-after-thrilling-playoff",
+         "pubDate" : "Sat, 25 Dec 2021 01:05:00 +0100",
+         "title" : "Sitges: Abdusattorov clinches first place in thrilling playoff"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -50,20 +58,20 @@ news_feed (
          "title" : "We all make mistakes"
       },
       {
-         "description" : "\"The Queen's Gambit\" is one of the most successful Netflix series and will remain one of the best representations of chess in film. The series contains many impressive and powerful scenes, e.g. the depiction of a tournament in fast-forward mode, fittingly accompanied by the famous instrumental musical piece \"Classical Gas\" by Mason Williams.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/music-and-chess-mason-williams-classical-gas-in-the-queen-s-gambit",
-         "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
-         "title" : "Music and chess: Mason Williams' \"Classical Gas\" in \"The Queen's Gambit\""
-      },
-      {
          "description" : "That's almost it! It's the last day of the calendar, and we want to say a huge thank you for the thousands of entries! Yesterday we had to send the king to c2 because of the virtual opposition. Finally, there is a really nice endgame treat to solve.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2484",
          "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 24"
+      },
+      {
+         "description" : "\"The Queen's Gambit\" is one of the most successful Netflix series and will remain one of the best representations of chess in film. The series contains many impressive and powerful scenes, e.g. the depiction of a tournament in fast-forward mode, fittingly accompanied by the famous instrumental musical piece \"Classical Gas\" by Mason Williams.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/music-and-chess-mason-williams-classical-gas-in-the-queen-s-gambit",
+         "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
+         "title" : "Music and chess: Mason Williams' \"Classical Gas\" in \"The Queen's Gambit\""
       },
       {
          "description" : "",
@@ -1744,14 +1752,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-10834",
          "pubDate" : "Fri, 10 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 10"
-      },
-      {
-         "description" : "The new ChessBase Magazine Extra #204 offers two opening videos on Scandinavian and Catalan as well as a total of 26 games with detailed commentary, including analyses by Anish Giri, Romain Edouard and Michal Krasenkow. Peter Heine Nielsen, Magnus Carlsen's second, contributes \"The brilliancy\". And of course it's about am extraordinary game by the World Champion. In the final of the Meltwater Tour 2021 Carlsen outplayed Jan-Krzysztof Duda after a novelty (\"At first it looks close to insanity.\") in only 18 moves. Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-and-modern-chess-at-its-best",
-         "pubDate" : "Fri, 10 Dec 2021 12:00:00 +0100",
-         "title" : "\"Magnus, and Modern chess, at its best\""
       },
       {
          "description" : "The last quarterfinal match of this year&#39;s Speed Chess Championship Main Event was between GMs Wesley So and Fabiano Caruana. The former, who just became the 2021 U.S. Champion (you can read more about that here) went on to win the match 17.5-9.5 ...",
