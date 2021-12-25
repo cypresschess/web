@@ -114,20 +114,20 @@ news_feed (
          "title" : "We all make mistakes"
       },
       {
-         "description" : "That's almost it! It's the last day of the calendar, and we want to say a huge thank you for the thousands of entries! Yesterday we had to send the king to c2 because of the virtual opposition. Finally, there is a really nice endgame treat to solve.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2484",
-         "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 24"
-      },
-      {
          "description" : "\"The Queen's Gambit\" is one of the most successful Netflix series and will remain one of the best representations of chess in film. The series contains many impressive and powerful scenes, e.g. the depiction of a tournament in fast-forward mode, fittingly accompanied by the famous instrumental musical piece \"Classical Gas\" by Mason Williams.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/music-and-chess-mason-williams-classical-gas-in-the-queen-s-gambit",
          "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
          "title" : "Music and chess: Mason Williams' \"Classical Gas\" in \"The Queen's Gambit\""
+      },
+      {
+         "description" : "That's almost it! It's the last day of the calendar, and we want to say a huge thank you for the thousands of entries! Yesterday we had to send the king to c2 because of the virtual opposition. Finally, there is a really nice endgame treat to solve.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2484",
+         "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 24"
       },
       {
          "description" : "",
@@ -2168,22 +2168,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/did-you-know-that-magnus-carlsen-rotates-his-suits-according-to/",
          "pubDate" : "Sat, 04 Dec 2021 21:00:00 +0000",
          "title" : "Magnus Carlsen Rotates His Suits According to the Color of His Pieces"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1464",
-         "pubDate" : "Sat, 04 Dec 2021 18:41:25 +0000",
-         "title" : "FIDE World Championship Dubai 2021: Back to the grind"
-      },
-      {
-         "description" : "Carlsen now leads Ian Nepomniachtchi 3.5 - 2.5 at the 2021 FIDE World Chess Championships in Dubai.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32783274/magnus-carlsen-wins-longest-world-chess-championship-game-ever-advantage-ian-nepomniachtchi?device=featurephone",
-         "pubDate" : "Sat, 4 Dec 2021 11:32:41 -0500",
-         "title" : "Magnus Carlsen wins longest world championship game ever to seize advantage"
       }
    ]
 }
