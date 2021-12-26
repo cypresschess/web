@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It was just a few weeks ago that Markus Ragger published a complete repertoire on two FritzTrainers for his favourite opening against 1.d4: the Gruenfeld Defence. In the new ChessBase Magazine #205 he provides an update on the variation with 5.Bd2, since the new idea of 5...c5 has recently proved very attractive at the highest level. Among others, it was used by Carlsen, Giri and Dubov. While Markus Ragger in his FritzTrainer still recommends the common and still fully valid continuation 5...Bg7, his appeal in ChessBase Magazine is clear: \"Let's make 5...c5 the main line against 5.Bd2!\" You can watch an excerpt from his video analysis here!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/let-s-make-5-c5-the-main-line-against-5-bd2",
+         "pubDate" : "Sun, 26 Dec 2021 20:00:00 +0100",
+         "title" : "\"Let's make 5&hellip;c5 the main line against 5.Bd2!\""
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The world champion cares about the welfare of the chess community. The chess community better also cares about the welfare of the world championship. Let's have a proper debate. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/magnus-weihnachten.1920.jpeg\" title=\"The match system heavily favours the world champion, but it doesn't motivate him any more. photo: chess24\" data-title=\"The match system heavily favours the world champion, but it doesn't motivate him any more. (photo: chess24)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/magnus-weihnachten.480.jpeg\" alt",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/carlsen-has-a-wish/",
+         "pubDate" : "Sun, 26 Dec 2021 17:20:28 +0100",
+         "title" : "Carlsen has a wish"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 59th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the battle between static and dynamic factors. | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/playing-with-fritz-18-at-gm-level",
          "pubDate" : "Sun, 26 Dec 2021 12:00:00 +0100",
          "title" : "Playing with Fritz 18 at GM level"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The world champion cares about the welfare of the chess community. The chess community better also cares about the welfare of the world championship. Let's have a proper debate. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/magnus-weihnachten.1920.jpeg\" title=\"The match system heavily favours the world champion, but it doesn't motivate him any more. photo: chess24\" data-title=\"The match system heavily favours the world champion, but it doesn't motivate him any more. (photo: chess24)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/magnus-weihnachten.480.jpeg\" alt",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/carlsen-has-a-wish/",
-         "pubDate" : "Sun, 26 Dec 2021 10:10:34 +0100",
-         "title" : "Carlsen has a wish"
       },
       {
          "description" : "The FIDE Women's and Open Rapid&#38;Blitz Chess Championship 2021 start in Warsaw, Poland. More than 180 players from 46 federations registered for the 3Open event and more than 100 players coming from 30 different federations will participate in Women's events. FIDE World Rapid Chess Championships 2021 are first on the schedule, taking place from 26th-28th December. The 2021&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-rapid-blitz-chess-championships-2021-start-in-warsaw-poland/\">Read More &#187;</a></span>",
@@ -1578,14 +1586,6 @@ news_feed (
          "title" : "Italian Championship 2021: Basso and Sedina clinch titles"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 57th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about \"The Elephant\", an animal that particularly likes the jungle of Nimzo-Indian variations. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-2",
-         "pubDate" : "Sun, 12 Dec 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 57: The Elephant!"
-      },
-      {
          "description" : " I was saddened to hear of the recent death, at the age of 88, of Jonathan Penrose, one of England's finest ever players, ten times British Champion and, later, one of the world's strongest correspondence players. Jonathan was a member of an extraordinary family which excelled in both arts and scientists. His Irish grandfather, James <a href=\"https://chessimprover.com/jonathan-penrose-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Jonathan Penrose (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/jonathan-penrose-1/\">Jonathan Penrose (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2128,30 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1466",
          "pubDate" : "Sun, 05 Dec 2021 21:03:40 +0000",
          "title" : "14 nations join Expo chess tournament among pavilions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1465",
-         "pubDate" : "Sun, 05 Dec 2021 19:01:44 +0000",
-         "title" : "FIDE World Championship Dubai 2021: Something from nothing"
-      },
-      {
-         "description" : " Magnus Carlsen scored a second win in three games to take full control of the FIDE World Chess Championship match against Ian Nepomniachtchi after 8 games. Carlsen leads 5-3 with just 6 games left after winning two of the three games that took place Friday to Sunday. The record breaking 136 move game on Friday was always likely to have an impact on the two games that followed and I certainly felt Nepomniachtchi couldn't afford to lose another game, but he did. The game was another Petroff Defence with Carlsen playing the very rare 7.Nd2 - Nepomniachtchi reacted with 7...Nxd2 8.Bxd2 Bd6 which Carlsen said he believed from his preparation wasn't the best - after 9.0-0 Nepomniachtchi played th",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/nepomniachtchi-blunders-horribly-to-fall-two-games-behind-carlsen",
-         "pubDate" : "Sun, 5 Dec 2021 20:52:00 +0400",
-         "title" : "Nepomniachtchi blunders horribly to fall two games behind Carlsen - 8"
-      },
-      {
-         "description" : " <p class=\"lead\">Game 8 of the World Chess Championship ended in a heartbreaking way for the Challenger. After an unexpected blunder, Magnus grabbed the opportunity and won the match. The overall score is 5-3 for the World Champion. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51725210002_8224c56fda_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51725239162_dad278296a_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51726019246_752be9aaad_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldch",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-championship-game-8-nepo-failed-for-the-second-time/",
-         "pubDate" : "Sun, 05 Dec 2021 16:38:50 +0000",
-         "title" : "World Chess Championship: Nepo Lost Game 8, His Chances to Win the Match Are Minimal"
       }
    ]
 }
