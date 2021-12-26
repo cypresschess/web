@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One of the most anticipated events in the chess calendar, the FIDE World Rapid and Blitz Championship, is around the corner. The open and women's championships that have been held concurrently since 2016 will take place on December 25-31 in Warsaw, Poland, at the PGE Narodowy Stadium. | Pictured: Alireza Firouzja facing Hikaru Nakamura at the 2019 edition | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-and-blitz-2021-preview",
+         "pubDate" : "Sun, 26 Dec 2021 07:00:00 +0100",
+         "title" : "Preview: World Rapid and Blitz Championships"
+      },
+      {
          "description" : "The Serbian name \"Darko\" comes from \"Dar\" for \"gift\". Good wishes are bestowed often upon our children, be it luck with the Biblical name \"The son of luck\" or \"Benjamin\", or in this case, the gift of being gifted. A special gift indeed was given to Darko Hlebec, an interesting composing style. Study specialist Siegfried Hornecker presents presents examples of his work and Darko's comments about it.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1616,14 +1624,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1475",
          "pubDate" : "Sat, 11 Dec 2021 13:42:00 +0000",
          "title" : "Zdenko Kožul wins Croatian Championship"
-      },
-      {
-         "description" : "\"The second half of the match wasn't the fight we all wanted to see, with most of the games being blundered away (b5,c5,g3 and others). Still, the World Champion barely made a mistake in 11 games, and never gave a chance once in control. Hopefully Nepo can recover from what must be an absolute nightmare of a match\", writes GM Rustam Kasimdzhanov in his analysis of the match's eleventh and final game. | Photo: Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-g11-expert-annotations",
-         "pubDate" : "Sat, 11 Dec 2021 14:35:00 +0100",
-         "title" : "World Championship: Game 11 annotated by Rustam Kasimdzhanov"
       },
       {
          "description" : " After all the agonising about whether the 2021 World Championship match was going to see any decisive games, Carlsen wrapped it up with 4 wins over the last 6 games. Game 11 was Nepo's last chance to turn it around (or at least get something from the experience) but another tactical oversight left Carlsen with a winning position. He duly converted to reach the 7.5 points needed to retain his title. The second half collapse wasn't so much due to Nepo losing game 6, but his failure to bounce back in games 7 or 8. If he had been able to hold game 8 (instead of losing it) he might have still had a chance. Instead the blunder in game 8 (dropping a cold pawn) was somewhat reminiscent of Spassky's",
