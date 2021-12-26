@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Serbian name \"Darko\" comes from \"Dar\" for \"gift\". Good wishes are bestowed often upon our children, be it luck with the Biblical name \"The son of luck\" or \"Benjamin\", or in this case, the gift of being gifted. A special gift indeed was given to Darko Hlebec, an interesting composing style. Study specialist Siegfried Hornecker presents presents examples of his work and Darko's comments about it.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-darko-not-donnie",
+         "pubDate" : "Sat, 25 Dec 2021 22:00:00 +0100",
+         "title" : "Study of the Month: Darko, not Donnie"
+      },
+      {
          "description" : "A few weeks ago we announced a Brilliancy Challenge: send us brilliant games you have recently played and compete for some valuable prizes. Here's a festive example: Andreas Krentel, a physiotherapist, used to play in a chess club 15 years ago. He was looking for an opponent to test his wits against. Suddenly he found the prefect chess partner: Fritz 18! And it became like the good old days in the chess club. Andreas has sent us a couple of games to show how the program encouraged him to execute brilliancies.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,20 +122,20 @@ news_feed (
          "title" : "We all make mistakes"
       },
       {
-         "description" : "\"The Queen's Gambit\" is one of the most successful Netflix series and will remain one of the best representations of chess in film. The series contains many impressive and powerful scenes, e.g. the depiction of a tournament in fast-forward mode, fittingly accompanied by the famous instrumental musical piece \"Classical Gas\" by Mason Williams.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/music-and-chess-mason-williams-classical-gas-in-the-queen-s-gambit",
-         "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
-         "title" : "Music and chess: Mason Williams' \"Classical Gas\" in \"The Queen's Gambit\""
-      },
-      {
          "description" : "That's almost it! It's the last day of the calendar, and we want to say a huge thank you for the thousands of entries! Yesterday we had to send the king to c2 because of the virtual opposition. Finally, there is a really nice endgame treat to solve.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2484",
          "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 24"
+      },
+      {
+         "description" : "\"The Queen's Gambit\" is one of the most successful Netflix series and will remain one of the best representations of chess in film. The series contains many impressive and powerful scenes, e.g. the depiction of a tournament in fast-forward mode, fittingly accompanied by the famous instrumental musical piece \"Classical Gas\" by Mason Williams.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/music-and-chess-mason-williams-classical-gas-in-the-queen-s-gambit",
+         "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
+         "title" : "Music and chess: Mason Williams' \"Classical Gas\" in \"The Queen's Gambit\""
       },
       {
          "description" : "",
@@ -1626,14 +1634,6 @@ news_feed (
          "title" : "And now its all over"
       },
       {
-         "description" : "Vladimir Kramnik thought he was already completely lost in yesterday's task a few moves earlier anyway. The readers knew almost without exception that Sb1 with sacrifice was enough to win. In today's exercise it's all about 30 green squares!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-11231",
-         "pubDate" : "Sat, 11 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 11"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88224358.cms\" />Mumbai's chess prodigy Advay Dhoot performed creditably in tournaments in the European circuit recently and is currently among the highest rated player in his category in the country.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2160,14 +2160,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-8-of-the-match/",
          "pubDate" : "Sun, 05 Dec 2021 09:49:37 +0000",
          "title" : "Time To Say Dubai: Round 8 of the Match"
-      },
-      {
-         "description" : " <p class=\"lead\">The World Chess Championship Match is a fascinating (and yes, very long) affair where some of the fastest-thinking people in the world battle for the championship title and millions of dollars that come with it. There are incredible moments there, new chess ideas are introduced and new trends set. The 14-game event where each game takes up to 8 hours is also a bit of a sartorial exercise in which the players wear suits (yes, there is a dress code) and try to look the part. Magnus Carlsen, the defending World Champion, has mastered this task with his signature systematic approach. He has two sets of suits, for black and white pieces. Very convenient, and also a useful piece o",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/did-you-know-that-magnus-carlsen-rotates-his-suits-according-to/",
-         "pubDate" : "Sat, 04 Dec 2021 21:00:00 +0000",
-         "title" : "Magnus Carlsen Rotates His Suits According to the Color of His Pieces"
       }
    ]
 }
