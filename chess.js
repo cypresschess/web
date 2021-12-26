@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 59th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the battle between static and dynamic factors. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-59-dynamic-versus-static",
+         "pubDate" : "Sun, 26 Dec 2021 15:00:00 +0100",
+         "title" : "Understanding before Moving 59: Dynamic versus Static"
+      },
+      {
+         "description" : "One of the most anticipated events in the chess calendar, the FIDE World Rapid and Blitz Championship, is taking place on December 25-31 in Warsaw, Poland, at the PGE Narodowy Stadium. Follow the games live with expert commentary starting at 15.00 CET (9.00 ET, 19.30 IST). | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-and-blitz-2021-live",
+         "pubDate" : "Sun, 26 Dec 2021 14:55:00 +0100",
+         "title" : "World Rapid and Blitz Championships - Live!"
+      },
+      {
+         "description" : "The last major event of 2021, the FIDE World Rapid and Blitz begins shortly. Originally planned for Kazakhstan, a covid outbreak in the country meant that it was relocated to Poland at short notice. <div>The Rapid portion starts this evening, with Magnus Carlsen the top seed in the 181 player field. The bottom half of the field starts at 2538 (Rapid), and while there were concern about a lag between Rapid ratings and standard ratings, there doesn't seem to be a huge difference, except for IM Aditya Mittal, who has a rapid rating of 1488</div><div><br /></div><div>There are plenty of places to follow this event (including plenty of youtube and twitch streams), but for now I am planning to wat",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/world-rapid-and-blitz.html",
+         "pubDate" : "Sun, 26 Dec 2021 12:51:00 +0000",
+         "title" : "World Rapid and Blitz"
+      },
+      {
          "description" : " I conclude the year by concluding my tribute to Jonathan Penrose, one of England's finest ever players. Penrose scored quite a lot of miniature victories in his career. Let's have a look at a few of them. This game was one which first brought Penrose to public attention. The Catalan is usually considered a safe <a href=\"https://chessimprover.com/jonathan-penrose-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Jonathan Penrose (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/jonathan-penrose-3/\">Jonathan Penrose (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -122,7 +146,7 @@ news_feed (
          "title" : "Asian Junior Championships 2021: Indians sweep out"
       },
       {
-         "description" : " The World Rapid and Blitz Championships take place in Warsaw Sun 26th Dec to Thu 30th Dec 2021. Leading players: Magnus Carlsen, Hikaru Nakamura, Jan-Krzysztof Duda, Ian Nepomniachtchi, MVL, Fabiano Caruana, Anish Giri, Alexander Grischuk, Sergey Karjakin etc. This should be a highly competitive and enjoyable contest. The event was last held in Moscow in 2019. 153 players are registered for the Rapid Open (down from 207 two years ago), 154 the blitz (206) the women's events have 85 for the rapid (122) and 85 for the blitz (122). Given the coronavirus crisis these figures have held up remarkably well. There has to be a concern that a coronavirus outbreak involving the new highly infectious o",
+         "description" : " The World Rapid and Blitz Championships take place in Warsaw Sun 26th Dec to Thu 30th Dec 2021. Leading players: Magnus Carlsen, Hikaru Nakamura, Jan-Krzysztof Duda, Ian Nepomniachtchi, MVL, Fabiano Caruana, Anish Giri, Alexander Grischuk, Sergey Karjakin etc. This should be a highly competitive and enjoyable contest. The event was last held in Moscow in 2019. 176 players are registered for the Rapid Open (down from 207 two years ago), 154 the blitz (206) the women's events have 103 for the rapid (122) and 85 for the blitz (122). Given the coronavirus crisis these figures have held up remarkably well. There has to be a concern that a coronavirus outbreak involving the new highly infectious ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2021",
@@ -1562,28 +1586,12 @@ news_feed (
          "title" : "Understanding before Moving 57: The Elephant!"
       },
       {
-         "description" : "This year, the main event of the London Chess Classic was the match between England and the Rest of the World, with each team consisting of three players. Before the final round, the squads were tied at 7&frac12; points each. In a very hard-fought final round, the Rest of the World won the match. Boris Gelfand and Nikita Vitiugov provided the winning points.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2021-rest-of-the-world-beats-england",
-         "pubDate" : "Sun, 12 Dec 2021 13:25:00 +0100",
-         "title" : "London Chess Classic: Rest of the World beats England"
-      },
-      {
          "description" : " I was saddened to hear of the recent death, at the age of 88, of Jonathan Penrose, one of England's finest ever players, ten times British Champion and, later, one of the world's strongest correspondence players. Jonathan was a member of an extraordinary family which excelled in both arts and scientists. His Irish grandfather, James <a href=\"https://chessimprover.com/jonathan-penrose-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Jonathan Penrose (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/jonathan-penrose-1/\">Jonathan Penrose (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/jonathan-penrose-1/",
          "pubDate" : "Sun, 12 Dec 2021 11:43:37 +0000",
          "title" : "Jonathan Penrose (1)"
-      },
-      {
-         "description" : "Today the first authorized NFT series of world chess champions has been minted! World chess champions, NFT and blockchain? What is that supposed to mean? You may have heard that NFTs can establish ownership of digital art: In March 2021, an NFT by digital artist Beeple fetched the auction value of $69 million at Christie's. However the NFTs of the world chess champions are not about crazy auctions, but about honoring outstanding chess achievement. In a series that currently consists of 14 entries, the classic world champions are now immortalized with selected games. The unique thing about this series is that many players participate through their authorization. This makes it the first of its",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-champions-in-the-blockchain",
-         "pubDate" : "Sun, 12 Dec 2021 12:40:48 +0100",
-         "title" : "The Champions in the Blockchain"
       },
       {
          "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 1 &frac12; 1 1 &frac12; 1 7&frac12; Caruana &frac12; &frac12; &frac12; &frac12; &frac12; 0 &frac12; 0 0 &frac12; 0 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/12/magnus-carlsen-retains-title-winning-7-5-3-5/\">Magnus Carlsen retains title, winning 7.5-3.5!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -2144,14 +2152,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-championship-game-8-nepo-failed-for-the-second-time/",
          "pubDate" : "Sun, 05 Dec 2021 16:38:50 +0000",
          "title" : "World Chess Championship: Nepo Lost Game 8, His Chances to Win the Match Are Minimal"
-      },
-      {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 7 Match Score: 4-3 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 7 Saturday, 4 December 2021 After epic battle, players settle for quiet draw The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/05/2021-world-chess-championship-game-7/\">2021 World Chess Championship: Game #7</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/12/05/2021-world-chess-championship-game-7/",
-         "pubDate" : "Sun, 05 Dec 2021 13:16:29 +0000",
-         "title" : "2021 World Chess Championship: Game #7"
       }
    ]
 }
