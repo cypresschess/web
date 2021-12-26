@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I conclude the year by concluding my tribute to Jonathan Penrose, one of England's finest ever players. Penrose scored quite a lot of miniature victories in his career. Let's have a look at a few of them. This game was one which first brought Penrose to public attention. The Catalan is usually considered a safe <a href=\"https://chessimprover.com/jonathan-penrose-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Jonathan Penrose (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/jonathan-penrose-3/\">Jonathan Penrose (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/jonathan-penrose-3/",
+         "pubDate" : "Sun, 26 Dec 2021 11:11:19 +0000",
+         "title" : "Jonathan Penrose (3)"
+      },
+      {
+         "description" : "In November we launched a new edition of our flagship program, Fritz. Version 18 has a special mode in which Fritz allows its opponent to actually win games, if he is able to find clever moves. Many amateurs and club players have sent in games that they won with brilliant ideas. But how about grandmasters? Fritz determines the playing strength of its opponent, and makes him find more difficult brilliancies. Iniyan Panneerselvam, a young GM, has written a report on his experience with Fritz 18.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/playing-with-fritz-18-at-gm-level",
+         "pubDate" : "Sun, 26 Dec 2021 12:00:00 +0100",
+         "title" : "Playing with Fritz 18 at GM level"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The world champion cares about the welfare of the chess community. The chess community better also cares about the welfare of the world championship. Let's have a proper debate. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/magnus-weihnachten.1920.jpeg\" title=\"The match system heavily favours the world champion, but it doesn't motivate him any more. photo: chess24\" data-title=\"The match system heavily favours the world champion, but it doesn't motivate him any more. (photo: chess24)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/magnus-weihnachten.480.jpeg\" alt",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/carlsen-has-a-wish/",
+         "pubDate" : "Sun, 26 Dec 2021 10:10:34 +0100",
+         "title" : "Carlsen has a wish"
+      },
+      {
+         "description" : "The FIDE Women's and Open Rapid&#38;Blitz Chess Championship 2021 start in Warsaw, Poland. More than 180 players from 46 federations registered for the 3Open event and more than 100 players coming from 30 different federations will participate in Women's events. FIDE World Rapid Chess Championships 2021 are first on the schedule, taking place from 26th-28th December. The 2021&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-rapid-blitz-chess-championships-2021-start-in-warsaw-poland/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-world-rapid-blitz-chess-championships-2021-start-in-warsaw-poland/",
+         "pubDate" : "Sun, 26 Dec 2021 08:42:05 +0000",
+         "title" : "FIDE World Rapid & Blitz Chess Championships 2021 start in Warsaw, Poland"
+      },
+      {
          "description" : "One of the most anticipated events in the chess calendar, the FIDE World Rapid and Blitz Championship, is around the corner. The open and women's championships that have been held concurrently since 2016 will take place on December 25-31 in Warsaw, Poland, at the PGE Narodowy Stadium. | Pictured: Alireza Firouzja facing Hikaru Nakamura at the 2019 edition | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -786,14 +818,6 @@ news_feed (
          "title" : "European Rapid and Blitz 2021 - Games and Results"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>96th Hastings Chess Congress</strong> is one of many tournaments after christmas that are <a href=\"https://www.englishchess.org.uk/hastings-cancellation-notice/\">canceled due to another wave of Covid-19 infections</a>. Hardly any of the reports on the <strong>London Chess Classic</strong>, where masks were not mandatory earlier this month, mentioned that several players and commentators got infected and <strong>Nigel Short</strong> had to be hospitalized. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/hastings-congress-canceled/",
-         "pubDate" : "Sun, 19 Dec 2021 21:30:16 +0100",
-         "title" : "Hastings Congress canceled"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1562,14 +1586,6 @@ news_feed (
          "title" : "The Champions in the Blockchain"
       },
       {
-         "description" : "You only had to find the correct move Bd3 yesterday, but a huge amount of participants also knew about \"Rauser's drawing zone\". I congratulate you, for your endgame knowledge. Today, your task is to find a rather beautiful way to win, and as always, only one move is the right one!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-125",
-         "pubDate" : "Sun, 12 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 12"
-      },
-      {
          "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 1 &frac12; 1 1 &frac12; 1 7&frac12; Caruana &frac12; &frac12; &frac12; &frac12; &frac12; 0 &frac12; 0 0 &frac12; 0 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/12/magnus-carlsen-retains-title-winning-7-5-3-5/\">Magnus Carlsen retains title, winning 7.5-3.5!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2136,30 +2152,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/12/05/2021-world-chess-championship-game-7/",
          "pubDate" : "Sun, 05 Dec 2021 13:16:29 +0000",
          "title" : "2021 World Chess Championship: Game #7"
-      },
-      {
-         "description" : " A very quick question for you. You're White in this position. Imagine it's a blitz game so you don't have time to think very deeply: your first thoughts are important. What would you play here? When doing some historical research I chanced upon a game between two London club stalwarts of the inter-war years. Ernest <a href=\"https://chessimprover.com/jellie-wobbles/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Jellie Wobbles\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/jellie-wobbles/\">Jellie Wobbles</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/jellie-wobbles/",
-         "pubDate" : "Sun, 05 Dec 2021 10:47:51 +0000",
-         "title" : "Jellie Wobbles"
-      },
-      {
-         "description" : "The 2021 European Small Nations Team Chess Championship concluded yesterday in Sliema, Malta with awarding ceremony of the Winners and medalists. The ECU President Mr. Zurab Azmaiparashvili joined the Closing ceremony of the event and awarded the Medalists. The team of Faroe Islands convincingly won the event. With score of 17 match points, 8 team victories and only&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/faroe-islands-wins-european-small-nations-team-chess-championship-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/faroe-islands-wins-european-small-nations-team-chess-championship-2021/",
-         "pubDate" : "Sun, 05 Dec 2021 10:15:51 +0000",
-         "title" : "Faroe Islands wins European Small Nations Team Chess Championship 2021"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/8eVEnLuAXv4?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-8-of-the-match/",
-         "pubDate" : "Sun, 05 Dec 2021 09:49:37 +0000",
-         "title" : "Time To Say Dubai: Round 8 of the Match"
       }
    ]
 }
