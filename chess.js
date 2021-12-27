@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">The first day of the FIDE World Rapid Championship, first part of the 5-day Rapid and Blitz Championships marathon that traditionally takes place on Dec 26 - 30 of each year, ended with Magnus Carlsen, Duda and Jabava leading the pack with 4.5 out of 5. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/5CC55BF0-77E7-47F3-B57E-892A5D9CD739.jpeg\" width=\"1600\" height=\"1159\" alt=\"\" /> <div class=\"e2-text-caption\">Carlsen putting on a protective mask between rounds. Photo: Lennart Ootes, FIDE</div> </div> Rapid Championship is played with fast time controls: each player gets 15 minutes with a 10-second increment, making the games dynamic and appealing t",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/duda-jobava-and-carlsen-take-the-lead-in-rapid-championship-178/",
+         "pubDate" : "Sun, 26 Dec 2021 22:59:12 +0000",
+         "title" : "Duda, Jobava, and Carlsen Take The Lead In Rapid Championship, 178 Players Closely Follow"
+      },
+      {
          "description" : "It was just a few weeks ago that Markus Ragger published a complete repertoire on two FritzTrainers for his favourite opening against 1.d4: the Gruenfeld Defence. In the new ChessBase Magazine #205 he provides an update on the variation with 5.Bd2, since the new idea of 5...c5 has recently proved very attractive at the highest level. Among others, it was used by Carlsen, Giri and Dubov. While Markus Ragger in his FritzTrainer still recommends the common and still fully valid continuation 5...Bg7, his appeal in ChessBase Magazine is clear: \"Let's make 5...c5 the main line against 5.Bd2!\" You can watch an excerpt from his video analysis here!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2104,30 +2112,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nepo-to-change-strategy-after-disastrous-championship-score/",
          "pubDate" : "Mon, 06 Dec 2021 07:21:51 +0000",
          "title" : "Nepo to Change Strategy After Disastrous Championship Score"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/dddd74bf-10cb-4380-ad76-4000dcfe9266/Timman.jpg\" data-image-dimensions=\"192x256\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61ad4fa4b151d02ef7fa43df\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/dddd74bf-10cb-4380-ad76-4000dcfe9266/Timman.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo of GM Jan Timman <a href=\"https://upload.wikimedia.org/wikipedia/commons/9/96/Timman_Jan.jpg\">via Wikimedia Commons </a> </figcaption> </fi",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/5/world-championship-bonus-pod-3-gm-jan-timman-on-the-match-so-far-nm-john-macarthur-with-a-dubai-trip-report",
-         "pubDate" : "Sun, 05 Dec 2021 23:53:33 +0000",
-         "title" : "World Championship Bonus Pod #3- GM Jan Timman on the match so far, NM John MacArthur with a Dubai trip report. "
-      },
-      {
-         "description" : "GM Magnus Carlsen is on the verge of defending his world title after scoring his third win in the 2021 FIDE World Chess Championship on Tuesday. GM Ian Nepomniachtchi committed an even bigger blunder than in the previous game, this time allowing a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-9",
-         "pubDate" : "Sun, 05 Dec 2021 14:15:00 -0800",
-         "title" : "Carlsen On Verge Of Retaining Title As Nepo Blunders Piece"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1466",
-         "pubDate" : "Sun, 05 Dec 2021 21:03:40 +0000",
-         "title" : "14 nations join Expo chess tournament among pavilions"
       }
    ]
 }
