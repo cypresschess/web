@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88528925.cms\" />Little-known Indian Grandmaster Harsha Bharathakoti continued his good run in the Rapid section of the FIDE World Rapid and Blitz Chess Championships here, holding higher-rated Russian GM David Paravyan to a draw in the sixth round on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-bharathakoti-holds-paravyan-in-world-rapid-chess-championship/articleshow/88528925.cms",
+         "pubDate" : "Mon, 27 Dec 2021 21:43:38 +0530",
+         "title" : "Indian GM Bharathakoti holds Paravyan in World Rapid Chess Championship"
+      },
+      {
+         "description" : " Watch Day Two of the Rapid Championship Live: <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/t5dfMJIg-VQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/rapid-championship-day-2-live/",
+         "pubDate" : "Mon, 27 Dec 2021 14:10:10 +0000",
+         "title" : "Rapid Championship: Day 2 Live"
+      },
+      {
+         "description" : "One of the most anticipated events in the chess calendar, the FIDE World Rapid and Blitz Championship, is taking place on December 25-31 in Warsaw, Poland, at the PGE Narodowy Stadium. Follow the games live with expert commentary starting at 15.00 CET (9.00 ET, 19.30 IST). | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-and-blitz-2021-live",
+         "pubDate" : "Mon, 27 Dec 2021 14:55:00 +0100",
+         "title" : "World Rapid and Blitz Championships - Live!"
+      },
+      {
          "description" : "The first five rounds of the World Rapid Championship were played on Sunday. Three players are sharing the lead on 4&frac12; points: defending champion Magnus Carlsen, local hero Jan-Krzysztof Duda and Baadur Jobava from Georgia. On the women's tournament, Alexandra Kosteniuk and Valentina Gunina have a perfect 4/4 score after the first day of action. | Foto: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -362,7 +386,7 @@ news_feed (
          "title" : "7th Vugar Gashimov Memorial 2021 - Games and Results"
       },
       {
-         "description" : " the 8th Sunway Sitges Festival took place Mon 13th Dec to Thu 23rd Dec 2021. Nodirbek Abdusattorov beat Dmitrij Kollars in a tie-break match to win the event. Four players tied for first on 8/10 and they played off to settle the first four placings, the next four players finished on 7.5/10 and they also had tie-break matches to determine their exact final placings.",
+         "description" : " The 8th Sunway Sitges Festival took place Mon 13th Dec to Thu 23rd Dec 2021. Nodirbek Abdusattorov beat Dmitrij Kollars in a tie-break match to win the event. Four players tied for first on 8/10 and they played off to settle the first four placings, the next four players finished on 7.5/10 and they also had tie-break matches to determine their exact final placings.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/8th-sunway-sitges-festival-2021",
@@ -1594,14 +1618,6 @@ news_feed (
          "title" : "Engine accurate?"
       },
       {
-         "description" : "The bishop was hanging, and yet it was not allowed to be taken! But almost everyone knew that, and took the knight instead. Today there is a correct move again, and if you like, a correct designation of the green marked squares.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-1344",
-         "pubDate" : "Mon, 13 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 13"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2104,22 +2120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-ding-aronian",
          "pubDate" : "Mon, 06 Dec 2021 13:07:00 -0800",
          "title" : "Speed Chess Championship: Ding Eliminates Aronian, Reaches Semifinals"
-      },
-      {
-         "description" : " <p class=\"lead\">After the second decisive game of the World Chess Championship 2021, Magnus Carlsen said that his second win probably came on the heels of the first one. \"The second win probably didn't happen without the first one. Everything is connected. For instance, if I had won the game against Caruana when I had a winning position or he had won one, there could have been many more decisive games. It's not a shock that the second win comes quickly after the first,\" - said the World Champion. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Yc3x_Q3_lAE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> After being asked about his chanc",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-joy-of-a-second-win-game-8-press-conference/",
-         "pubDate" : "Mon, 06 Dec 2021 15:19:07 +0000",
-         "title" : "Magnus Carlsen: I Have Very Good Chances To Win the Match"
-      },
-      {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 8 Match Score: 5-3 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 8 Sunday, 5 December 2021 Carlsen strikes again Nepomniachtchi at the brink Magnus Carlsen wins another game with white pieces and extends his lead to 2 points. After 8 games, the score is 5-3 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/06/2021-world-chess-championship-game-8/\">2021 World Chess Championship: Game #8</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/12/06/2021-world-chess-championship-game-8/",
-         "pubDate" : "Mon, 06 Dec 2021 14:38:55 +0000",
-         "title" : "2021 World Chess Championship: Game #8"
       }
    ]
 }
