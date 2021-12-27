@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/world-rapid-chess-championship-day-1-duda-calsen-jobava-share-lead",
-         "pubDate" : "Sun, 26 Dec 2021 16:53:26 -0800",
+         "pubDate" : "Sun, 26 Dec 2021 16:53:00 -0800",
          "title" : "World Rapid Chess Championship Day 1: Duda, Carlsen, Jobava Share Lead"
       },
       {
@@ -18,7 +18,7 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Chess Championships: Day 1 Recap"
       },
       {
-         "description" : " <p class=\"lead\">The first day of the FIDE World Rapid Championship, first part of the 5-day Rapid and Blitz Championships marathon that traditionally takes place on Dec 26 - 30 of each year, ended with Magnus Carlsen, Duda and Jabava leading the pack with 4.5 out of 5. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/5CC55BF0-77E7-47F3-B57E-892A5D9CD739.jpeg\" width=\"1600\" height=\"1159\" alt=\"\" /> <div class=\"e2-text-caption\">Carlsen putting on a protective mask between rounds. Photo: Lennart Ootes, FIDE</div> </div> Rapid Championship is played with fast time controls: each player gets 15 minutes with a 10-second increment, making the games dynamic and appealing t",
+         "description" : " <p class=\"lead\">The first day of the FIDE World Rapid Championship, part of the Rapid and Blitz Championships marathon that traditionally takes place on Dec 26 - 30 of each year, ended with Magnus Carlsen, Duda and Jabava leading the pack with 4.5 out of 5. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/5CC55BF0-77E7-47F3-B57E-892A5D9CD739.jpeg\" width=\"1600\" height=\"1159\" alt=\"\" /> <div class=\"e2-text-caption\">Carlsen putting on a protective mask between rounds. Photo: Lennart Ootes, FIDE</div> </div> Rapid Championship is played with fast time controls: each player gets 15 minutes with a 10-second increment, making the games dynamic and appealing to spectators",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/duda-jobava-and-carlsen-take-the-lead-in-rapid-championship-178/",
@@ -2120,14 +2120,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/another-win-for-carlsen.html",
          "pubDate" : "Mon, 06 Dec 2021 09:36:00 +0000",
          "title" : "Another win for Carlsen"
-      },
-      {
-         "description" : " <p class=\"lead\">After Game 8, Ian Nepomniachtchi, the World Chess Championship challenger, found himself two points down in the Championship match, the most important event of his chess career, and unless he changes strategy, he is going to go down as the person who just fell apart during the Match of his life. So change he will. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/AC814CCE-4EB7-44B3-B0E1-C24CB91EE1C7.jpeg\" width=\"1800\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen, FIDE</div> </div> Apparently, Nepo enlisted the help of Sergey Karjakin, who is flying to Dubai right now to be on site and help plan a comeback for Nepo. Karjaki",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nepo-to-change-strategy-after-disastrous-championship-score/",
-         "pubDate" : "Mon, 06 Dec 2021 07:21:51 +0000",
-         "title" : "Nepo to Change Strategy After Disastrous Championship Score"
       }
    ]
 }
