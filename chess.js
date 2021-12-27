@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first five rounds of the World Rapid Championship were played on Sunday. Three players are sharing the lead on 4&frac12; points: defending champion Magnus Carlsen, local hero Jan-Krzysztof Duda and Baadur Jobava from Georgia. On the women's tournament, Alexandra Kosteniuk and Valentina Gunina have a perfect 4/4 score after the first day of action. | Foto: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-and-blitz-2021-day-1",
+         "pubDate" : "Mon, 27 Dec 2021 12:25:00 +0100",
+         "title" : "World Rapid: Carlsen, Duda and Jobava co-leaders"
+      },
+      {
+         "description" : " <p class=\"lead\">The World Rapid Chess Championship is supposed to be all about managing time because it tests players' ability to play well in time trouble. In Rapid, each player has only 15 minutes plus 10-second increment. Ideally, the same applies to the organizers. In 2021, not so much. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/74E53220-186D-4485-8479-DCD7B6199CD2.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Rapid Championship playing hall in Warsaw, Poland. Spectators are able to watch from the mezzanine. Photo: Mark Livschitz, FIDE</div> </div> Maxime Vachier-Lagrave, one of the world's strongest players, voiced a rare comp",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/rapid-championship-runs-low-on-time-management-and-water/",
+         "pubDate" : "Mon, 27 Dec 2021 09:18:11 +0000",
+         "title" : "Rapid Championship Runs Low on Time Management (and Water)"
+      },
+      {
+         "description" : " <p class=\"lead\"><a href=\"https://worldrapidandblitz.fide.com\">The 2021 World Rapid and Blitz Championships</a> started on the 25th of December in Warsaw, Poland, attracting more than 250 professional players from around the world. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51777696704_8e877443f6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anna Shtourman (FIDE)</div> </div> The World Champion Magnus Carlsen, in his pursuit of retaining his three titles, has to fight against the \"titans\", including the 2021 Challenger Ian Nepomniachtchi, World No.2 Alireza Firouzja, speed chess champion Hikaru Nakamura, the 2021 World Cup w",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/2021-world-rapid-and-blitz-carlsen-duda-and-jobava-the-stars-of/",
+         "pubDate" : "Mon, 27 Dec 2021 08:46:48 +0000",
+         "title" : "2021 World Rapid and Blitz: Carlsen, Duda, and Jobava the stars of Day 1"
+      },
+      {
          "description" : "GMs Jan-Krzysztof Duda, Magnus Carlsen, and Baadur Jobava share first place with 4.5/5 after day one of the World Rapid Chess Championship. The Polish number one, playing in his home country, started with a fantastic 4/4 perfect score, but his rou...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-59-dynamic-versus-static",
          "pubDate" : "Sun, 26 Dec 2021 15:00:00 +0100",
          "title" : "Understanding before Moving 59: Dynamic versus Static"
-      },
-      {
-         "description" : "One of the most anticipated events in the chess calendar, the FIDE World Rapid and Blitz Championship, is taking place on December 25-31 in Warsaw, Poland, at the PGE Narodowy Stadium. Follow the games live with expert commentary starting at 15.00 CET (9.00 ET, 19.30 IST). | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-and-blitz-2021-live",
-         "pubDate" : "Sun, 26 Dec 2021 14:55:00 +0100",
-         "title" : "World Rapid and Blitz Championships - Live!"
       },
       {
          "description" : "The last major event of 2021, the FIDE World Rapid and Blitz begins shortly. Originally planned for Kazakhstan, a covid outbreak in the country meant that it was relocated to Poland at short notice. <div>The Rapid portion starts this evening, with Magnus Carlsen the top seed in the 181 player field. The bottom half of the field starts at 2538 (Rapid), and while there were concern about a lag between Rapid ratings and standard ratings, there doesn't seem to be a huge difference, except for IM Aditya Mittal, who has a rapid rating of 1488</div><div><br /></div><div>There are plenty of places to follow this event (including plenty of youtube and twitch streams), but for now I am planning to wat",
@@ -2104,22 +2120,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/12/06/2021-world-chess-championship-game-8/",
          "pubDate" : "Mon, 06 Dec 2021 14:38:55 +0000",
          "title" : "2021 World Chess Championship: Game #8"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.edp24.co.uk/news/obituaries/jonathan-wells-norwich-chess-player-tributes-8534196#new_tab",
-         "pubDate" : "Mon, 06 Dec 2021 11:29:52 +0000",
-         "title" : "Jonathan Wells RIP"
-      },
-      {
-         "description" : " After the marathon effort from both players in game 6, it was hardly surprising that game 7 of the 2021 World Championship was a more peaceful affirm. But game 8 saw Carlsen pick up another point as Nepomniachtchi blundered a pawn in the middlegame. The second decisive game of the match sees Carlsen leading 5-3 with 6 games remaining. It will be a tough ask for Nepo to recover from this bad loss, although he does have a rest day today to think about his strategy for the remainder of the match. <br /> <b>Carlsen,Magnus (2856) - Nepomniachtchi,Ian (2782) [C43]</b><br />FIDE World Chess Championship 2021 (8), 05.12.2021 <script>new PgnViewer( { boardName: \"game1292\", movesFormat: \"default\", pg",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/another-win-for-carlsen.html",
-         "pubDate" : "Mon, 06 Dec 2021 09:36:00 +0000",
-         "title" : "Another win for Carlsen"
       }
    ]
 }
