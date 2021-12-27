@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">The second day of the 2021 World Rapid and Blitz Championships, one of the most elite events to determine the world's best players in fast time-controls, ended with Magnus Carlsen taking a sole lead. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51779628284_eeffd431de_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51779627879_fada4cfe1f_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51779588656_6147b53844_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pic",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/magnus-carlsen-is-sole-leader-before-the-final-day-of-the-2021-w/",
+         "pubDate" : "Mon, 27 Dec 2021 19:30:51 +0000",
+         "title" : "Magnus Carlsen is Sole Leader Before The Final Day of The 2021 World Rapid and Blitz Championships"
+      },
+      {
+         "description" : "In the history of the Chess World Championships Viktor Korchnoi is an extremely successful player, even if he was ultimately denied the title. If you count the 1974 Candidates Final for challenging Fischer, he played three 'World Championship matches'. The era of Korchnoi's participations in the WCh cycle stretches from the Curacao Candidates Tournament in 1962 to the 1991 quarterfinal match against Timman, which he played at the age of 60. The dramatic fight against Anatoly Karpov in Baguio City in 1978 stands out in particular: hypnosis, cheating accusations with blueberry yoghurt, X-ray examinations on chairs, mirror glasses worn at the board, Korchnoi's comeback to 5-5 after trailing 4-1",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/viktor-kortchnoi-challenges-you",
+         "pubDate" : "Mon, 27 Dec 2021 20:00:00 +0100",
+         "title" : "Viktor Korchnoi challenges you"
+      },
+      {
+         "description" : "Harshvardhan G B of Tamil Nadu in Under-18 Open and Ethan Vaz of Goa in Under-10 Open secured silver medals for India in the FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/three-medals-for-india-in-fide-youth-online-rapid-super-final/",
+         "pubDate" : "Mon, 27 Dec 2021 17:31:37 +0000",
+         "title" : "Three medals for India in FIDE Youth Online Rapid Super Final"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88528925.cms\" />Little-known Indian Grandmaster Harsha Bharathakoti continued his good run in the Rapid section of the FIDE World Rapid and Blitz Chess Championships here, holding higher-rated Russian GM David Paravyan to a draw in the sixth round on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1586,14 +1610,6 @@ news_feed (
          "title" : "27th Abu Dhabi International Chess Festival brings together 195 players from 49 countries"
       },
       {
-         "description" : "Ten players took part in the English Rapidplay Championship 2021, which was part of the London Chess Classic 2021. After nine rounds Gawain Jones (pictured) and Luke McShane shared first with 7.0/9, but Gawain Jones won the play-off with a clear 2-0 to become English Rapid Champion 2021. | Photo: London Chess Classic",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gawain-jones-wins-english-rapidplay-championship-2021",
-         "pubDate" : "Mon, 13 Dec 2021 15:09:37 +0100",
-         "title" : "Gawain Jones wins English Rapidplay Championship 2021"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1744,14 +1760,6 @@ news_feed (
          "link" : "https://www.europechess.org/magnus-carlsen-defends-the-title-of-fide-world-chess-champion/",
          "pubDate" : "Sat, 11 Dec 2021 08:44:22 +0000",
          "title" : "Magnus Carlsen defends the title of FIDE World Chess Champion"
-      },
-      {
-         "description" : "All India Chess Federation wishes a very happy birthday to five-time World Champion Legend Viswanathan Anand!",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/happy-birthday-viswanathan-anand/",
-         "pubDate" : "Sat, 11 Dec 2021 02:33:59 +0000",
-         "title" : "Happy Birthday Viswanathan Anand!!"
       },
       {
          "description" : "Chess.com is excited to announce that the 2022 Puzzle Battle World Championship starts on January 6 at 9 a.m. PST/18:00 CET. In this electrifying event, 16 of the world&#39;s fastest tactical experts will battle for their share of the $25,000 prize fu...",
