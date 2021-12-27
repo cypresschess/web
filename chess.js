@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Jan-Krzysztof Duda, Magnus Carlsen, and Baadur Jobava share first place with 4.5/5 after day one of the World Rapid Chess Championship. The Polish number one, playing in his home country, started with a fantastic 4/4 perfect score, but his rou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/world-rapid-chess-championship-day-1-duda-calsen-jobava-share-lead",
+         "pubDate" : "Sun, 26 Dec 2021 16:53:26 -0800",
+         "title" : "World Rapid Chess Championship Day 1: Duda, Carlsen, Jobava Share Lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1501",
+         "pubDate" : "Mon, 27 Dec 2021 00:00:18 +0000",
+         "title" : "FIDE World Rapid and Blitz Chess Championships: Day 1 Recap"
+      },
+      {
          "description" : " <p class=\"lead\">The first day of the FIDE World Rapid Championship, first part of the 5-day Rapid and Blitz Championships marathon that traditionally takes place on Dec 26 - 30 of each year, ended with Magnus Carlsen, Duda and Jabava leading the pack with 4.5 out of 5. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/5CC55BF0-77E7-47F3-B57E-892A5D9CD739.jpeg\" width=\"1600\" height=\"1159\" alt=\"\" /> <div class=\"e2-text-caption\">Carlsen putting on a protective mask between rounds. Photo: Lennart Ootes, FIDE</div> </div> Rapid Championship is played with fast time controls: each player gets 15 minutes with a 10-second increment, making the games dynamic and appealing t",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -173,6 +189,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1500",
+         "pubDate" : "Fri, 24 Dec 2021 12:51:34 +0000",
+         "title" : "2021 FIDE General Assembly Agenda and Final List of Delegates"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1498",
          "pubDate" : "Fri, 24 Dec 2021 12:31:04 +0000",
          "title" : "Happy Holidays!"
@@ -216,14 +240,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2484",
          "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 24"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1500",
-         "pubDate" : "Fri, 24 Dec 2021 10:51:34 +0000",
-         "title" : "2021 FIDE General Assembly Agenda and Final List of Delegates"
       },
       {
          "description" : " <p class=\"lead\">GM Vladimir Dobrov has summed up the year's chess results. Who was the main disappointment, and who was the main hope for 2021? Who deserves the Chess Oscar, and why is Andrey Esipenko an enviable groom? We tell you. <h2>Match of the Year</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E9369147-BF45-49CB-B482-3C6E23E08584.gif\" width=\"1400\" height=\"934\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> I award this nomination to <a href=\"https://worldcup.fide.com\">the World Cup match</a> between Andrey Esipenko and Magnus Carlsen, held in sunny Sochi. The suspense in the 1/8 finals was unbelievable. Our 18-year-old from Rostov w",
