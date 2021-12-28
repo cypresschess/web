@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">The 17-year-old grandmaster from Uzbekistan defeated Ian Nepomniachtchi in the tiebreak with a score of 1.5:0.5 <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.558599695586\"> <img src=\"https://worldchess.com/news/pictures/51782918308_7883c8d6b5_k.jpg\" width=\"2048\" height=\"1314\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51783022711_7ec04d58b6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51782917443_1a973fb427_k.jpg\" width=\"2047\" height=\"1421\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51781853002_e3f9264b4e_k.jpg\" width=\"2048\" height=\"1422\" alt=\"\" /> <img src=\"https:",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nodirbek-abdusattorov-is-world-rapid-chess-champion/",
+         "pubDate" : "Tue, 28 Dec 2021 20:24:04 +0000",
+         "title" : "Nodirbek Abdusattorov is Rapid World Chess Champion"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Candidates Tournament</strong> is taking place between 16 June and 7 July in Madrid. <strong>Chess.com</strong> is the main sponsor with backing of the <strong>Scheinberg family</strong> who made their fortune with online poker and are said to be shareholders. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/madrid-stages-candidates/",
+         "pubDate" : "Tue, 28 Dec 2021 20:28:51 +0100",
+         "title" : "Madrid stages Candidates"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Nodirbek Abdusattorov</strong> and the regulations spoilt the <strong>Rapid World Championship</strong> in Warsow for <strong>Magnus Carlsen</strong>. The world champion led after two days but lost the first game of the final day against the 17-year-old Uzbek, who claimed the title after winning the blitz tie-break against <strong>Ian Nepomniachtchi</strong>. Carlsen and <strong>Fabiano Caruana</strong> also ended on 9,5 points out of 14 but were left out. <strong>Alexandra Kosteniuk</strong> won the women's event. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/abdusattorov-wins-world-rapid/",
+         "pubDate" : "Tue, 28 Dec 2021 20:22:57 +0100",
+         "title" : "Abdusattorov wins World Rapid"
+      },
+      {
+         "description" : "Nona Gaprindashvili wrote referring to Milunka Lazarevic: \"A literary person by profession, lively and impressionable, Lazarevic is one of the brightest figures in women's chess of the sixties\". Milunka attracted attention by her exciting, uncompromising style: sacrificing pawns and pieces and despising draws, which made her famous and endeared her to chess audiences! | Pictured: Lazarevic, David Gurgenidze and Gaprindashvili (National Parliamentary Library of Georgia)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/milunka-lazarevic-female-tal-part-1",
+         "pubDate" : "Tue, 28 Dec 2021 20:00:00 +0100",
+         "title" : "Milunka Lazarevi&#263, the female Tal"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches a chess endgame class. 2021.12.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-firouzja-art-accuracy-insane-endgame-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zdP4TSYmkUo.jpg?itok=WyZrloJC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-firouzja-art-accuracy-insane-endgame-gm-denes-boros-lichessorg",
+         "pubDate" : "Tue, 28 Dec 2021 16:36:43 +0000",
+         "title" : "Carlsen & Firouzja: Art of Accuracy | Insane in the Endgame - GM Denes Boros | lichess.org"
+      },
+      {
+         "description" : "The 2022 Candidates Tournament, which will produce the challenger for the next world chess championship match, will take place in June 2022 in Madrid, Spain. As the organising sponsor of this prestigious tournament, Chess.com signed an agreement on Monday with governing body FIDE and the Scheinberg family, patrons of the event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-2022-in-madrid",
+         "pubDate" : "Tue, 28 Dec 2021 17:15:00 +0100",
+         "title" : "Candidates 2022 in Madrid"
+      },
+      {
          "description" : "One of the most anticipated events in the chess calendar, the FIDE World Rapid and Blitz Championship, is taking place on December 25-31 in Warsaw, Poland, at the PGE Narodowy Stadium. Follow the games live with expert commentary starting at 15.00 CET (9.00 ET, 19.30 IST). | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -762,14 +810,6 @@ news_feed (
          "title" : "Play the Sicilian: Najdorf #1 | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her second and final hour on the Najdorf, the Cadillac (or enchilada) of chess openings. 2021.12.22<br /> B90 Sicilian, Najdorf, Byrne (English) attack </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-najdorf-2-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/defau",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-sicilian-najdorf-2-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Tue, 21 Dec 2021 19:29:59 +0000",
-         "title" : "Play the Sicilian: Najdorf #2 | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
-      },
-      {
          "description" : "GM Sergey Karjakin and GM Richard Rapport are tied for first place after four days of rapid chess at the Vugar Gashimov Memorial in Baku, Azerbaijan. GM Viswanathan Anand is currently in last place, but there are 14 rounds of blitz to play. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -816,14 +856,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2021/nakamura-and-dubov-get-grandprix/",
          "pubDate" : "Tue, 21 Dec 2021 14:50:00 +0100",
          "title" : "Nakamura and Dubov get Grandprix wildcards"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Being spared a trip to icy Kazakhstan, top professionals keep entering the <strong>World Rapid and Blitz Championship</strong> after its relocation to Warsow, giving it <a href=\"https://worldrapidandblitz.fide.com/rapid-open/\">its probably strongest line-up</a> ever. From the top ten at classical chess only <strong>Wesley So</strong> and <strong>Ding Liren</strong> don't make the trip. The main sponsor <strong>Tatneft</strong>, a Russian oil and gas company with interests in Kazakhstan, <a href=\"https://www.fide.com/news/1493\">apparently doesn't mind</a> the relocation. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/strong-line-up-in-warsow/",
-         "pubDate" : "Tue, 21 Dec 2021 14:40:08 +0100",
-         "title" : "Strong line-up in Warsow"
       },
       {
          "description" : "",
@@ -1000,14 +1032,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/salamanca-masters-2021-jaime-santos-wins",
          "pubDate" : "Mon, 20 Dec 2021 00:15:00 +0100",
          "title" : "Jaime Santos dominates Salamanca Masters"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE President Arkady Dvorkovich</strong> <a href=\"https://www.championat.com/other/article-4547765-prezident-fide-arkadij-dvorkovich-ob-itogah-matcha-yan-nepomnyaschij-magnus-karlsen-v-dubae.html\">told</a> the Russian website <strong>Championat</strong> that Madrid presented a very strong bid for the Candidates Tournament 2022, but since it came after the deadline, other options are still checked. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/madrid-likely-candidates-venue/",
-         "pubDate" : "Sun, 19 Dec 2021 23:07:29 +0100",
-         "title" : "Madrid likely Candidates venue"
       },
       {
          "description" : " The Chess.com Speed Chess Championship took place Mon 8th Nov to Sun 19th Dec 2021. Round 1 pairings: Nov 8 Giri 14-12 Duda, Nov 9 Ding 14-12 Mamedyarov, Nov 10 Rapport 16.5-14.5 Sarana, Nov 11 Nihal Sarin 15.5-10.5 Grischuk, Nov 11 Aronian 15-12 Dubov, Nov 12 Nakamura 22-10 Svidler, Nov 15 So 18-14 Xiong and Nov 29 Caruana 13.5-12.5 MVL. Quarter Finals December 2nd Sarin 18-9 Rapport. December 6th Ding 15-11 Aronian, Nakamura 18.5-10.5 Giri and So 17.5-9.5 Caruana. Semi Finals December Nakamura just squeezed past Ding Liren 16.5-15.5. Wesley So beat Nihail Sarin 15-14 in another super close match. The final was dominated by Nakamura - after taking a two point lead after the first 5 minute ",
@@ -1610,22 +1634,6 @@ news_feed (
          "title" : "The Press conference of Indian Chess League"
       },
       {
-         "description" : "Fortunately, most of you knew that the correct solution for door 13 was \"A\". Far fewer, however, were aware that the green squares are called \"key squares\". Another lesson learned. In the video, there is more information about the squares, and the task for today. We checkmate the opponent's king with nothing more than a knight!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-14678",
-         "pubDate" : "Tue, 14 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 14"
-      },
-      {
-         "description" : "The award-winning program \"Fritz & Chesster\" (Vol. 1) that has helped hundreds of thousands of children all over the world to learn and to enjoy chess is now available in eight languages! English, Spanish, French, Polish, Swedish, Dutch, Slovakian and German. The online version of the program runs on practically all systems without the need to install software. All graphics have been redrawn and enlarged! | Photo: lemi-consulting.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fritz-chesster-online-in-eight-languages",
-         "pubDate" : "Tue, 14 Dec 2021 11:11:18 +0100",
-         "title" : "Fritz & Chesster online in eight languages!"
-      },
-      {
          "description" : " &#8220;A dream becomes a goal when action is taken toward its achievement&#8221; Bo Bennett (businessman) The Scotch Game has resisted the test of times at all levels of chess competition. From Ercole del Rio (Italian chess author), the first one to mention it in his chess treatise from 1750, to GM Garry Kasparov who played <a href=\"https://chessimprover.com/need-sure-points-scotch-opening-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Scotch Opening Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-scotch-opening-edition/\">Need sure points? Scotch Opening Edition</a> appeared first on <a rel=\"no",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2080,54 +2088,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-10",
          "pubDate" : "Tue, 07 Dec 2021 16:00:00 -0800",
          "title" : "Carlsen One Win From Victory After Drawing FIDE World Chess Championship Game 10"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1468",
-         "pubDate" : "Tue, 07 Dec 2021 20:27:27 +0000",
-         "title" : "FIDE World Championship 2021: Hindsight is not enough"
-      },
-      {
-         "description" : " &#8220;They ignore you now, but they'll need you later&#8221; Unknown The first part of this game was presented HERE. So far Black has played the opening poorly and the Grandmaster (as White) has slowly but surely built up a nice position. White does not have just the space advantage but also has no weakness, as <a href=\"https://chessimprover.com/ignore-at-your-peril-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Ignore at Your Peril (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/ignore-at-your-peril-3/\">Ignore at Your Peril (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/ignore-at-your-peril-3/",
-         "pubDate" : "Tue, 07 Dec 2021 19:42:53 +0000",
-         "title" : "Ignore at Your Peril (3)"
-      },
-      {
-         "description" : "UPDATE: Leagues are now live for all Chess.com members. Thank you for your patience and we hope you enjoy the new feature! Are you looking for yet another way to have fun playing on Chess.com!? Then today is your lucky day, because we are glad t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-releases-leagues",
-         "pubDate" : "Tue, 07 Dec 2021 11:21:00 -0800",
-         "title" : "Chess.com Releases Leagues With $50,000 Contest"
-      },
-      {
-         "description" : " Magnus Carlsen took an almost unassailable 6-3 lead with just five game left of his World Chess Championship defence against Jan Nepomniachtchi. There will be plenty of time to dissect the match afterwards but it seems to me that Nepomniachtchi is suffering the downsides of his style and approach to the game. Nepomniachtchi is an instinctive player who can drive opponents into time trouble and bad positions and defeat them with little apparent effort. The downside of this is when things are not working quite correctly there's less to fall back on. Nepomniachtchi, most likely through nerves and tiredness, is missing key moments and is being imprecise - sometimes this doesn't matter so very m",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/nepomniachtchi-falls-further-behind-after-dropping-a-piece-in-game-9",
-         "pubDate" : "Tue, 7 Dec 2021 21:57:00 +0400",
-         "title" : "Nepomniachtchi falls further behind after dropping a piece in game 9 - 9"
-      },
-      {
-         "description" : " <p class=\"lead\">Ian Nepomniachtchi just lost game 9 of the Championship Match and probably lost a shred of chances to capture the Championship title (the Match score after game 9 is 6 - 3 with 5 games to go). To make things worse, a popular adult film star has offered the Russian player to spend a night with him (if he wins). He lost. The Russian challenger simply can't get a break. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/132B8417-112E-4974-8D91-994C6EEF45B5.jpeg\" width=\"1500\" height=\"946\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/m1han1ka69/?utm_source=ig_embed&ig_rid=669933b3-3f91-4896-8b72-89ce9b8a3bce\">MikaNika6",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nepo-loses-game-9-and-possibly-the-match-despite-adult-film-star/",
-         "pubDate" : "Tue, 07 Dec 2021 17:55:50 +0000",
-         "title" : "Nepo Loses Game 9 (and Possibly the Match) Despite Adult Film Star's Support"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1467",
-         "pubDate" : "Tue, 07 Dec 2021 17:17:38 +0000",
-         "title" : "Sheikh Hamdan bin Rashid Cup kicks off in Dubai"
       }
    ]
 }
