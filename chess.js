@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One of the most anticipated events in the chess calendar, the FIDE World Rapid and Blitz Championship, is taking place on December 25-31 in Warsaw, Poland, at the PGE Narodowy Stadium. Follow the games live with expert commentary starting at 15.00 CET (9.00 ET, 19.30 IST). | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-and-blitz-2021-live",
+         "pubDate" : "Tue, 28 Dec 2021 14:55:00 +0100",
+         "title" : "World Rapid and Blitz Championships - Live!"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1674c576-f50d-40d2-8a23-b8459a6b97dc/Ben2.jpg\" data-image-dimensions=\"232x348\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61cb160b50c1a50427d290aa\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1674c576-f50d-40d2-8a23-b8459a6b97dc/Ben2.jpg?format=1000w\" /> </figure> <p class=\"\">On this holiday week, with The Perpetual Chess Podcast having recently turned 5 years old, it seemed like an appropriate time to feature myself as \"the guest\" on Perpetual Chess. In ",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/28/ep-259-ben-johnson",
+         "pubDate" : "Tue, 28 Dec 2021 13:54:52 +0000",
+         "title" : "EP 259- Ben Johnson"
+      },
+      {
+         "description" : "Palo Alto, Calif., Dec. 28, 2021&#38;mdash;The 2022 Candidates Tournament, which will produce the challenger for the next world chess championship match, will take place in June 2022 in Madrid, Spain. As the organizing sponsor of this prestigious tour...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-candidates-chess-tournament-madrid-fide-chesscom",
+         "pubDate" : "Tue, 28 Dec 2021 05:33:00 -0800",
+         "title" : "Candidates Tournament To Take Place June 2022 In Madrid Sponsored By Chess.com"
+      },
+      {
+         "description" : "After nine rounds, played on Sunday and Monday, Magnus Carlsen is the sole leader at the World Rapid Chess Championship in Warsaw as the only player to have collected 7&frac12; points. On the second day of play, Alireza Firouzja and Jan-Krzysztof Duda were two of the players defeated by the world champion. In the women's tournament, Alexandra Kosteniuk is in a class of her own.| Foto: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-and-blitz-2021-day-2",
+         "pubDate" : "Tue, 28 Dec 2021 14:10:00 +0100",
+         "title" : "World Rapid: Carlsen grabs the lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1503",
+         "pubDate" : "Tue, 28 Dec 2021 12:28:17 +0000",
+         "title" : "Candidates Tournament to take place in Madrid sponsored by Chess.com"
+      },
+      {
          "description" : " &#8220;We wish you a merry Christmas We wish you a merry Christmas We wish you a merry Christmas And a happy New Year!&#8221; Christmas carol, Unknown A number of years ago a friend of mine was gifted below porcelain figure at Christmas: Anything chess related that reaches our group of friends, makes its way to <a href=\"https://chessimprover.com/a-christmas-puzzle/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Christmas Puzzle\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-christmas-puzzle/\">A Christmas Puzzle</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -96,14 +136,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/rapid-championship-day-2-live/",
          "pubDate" : "Mon, 27 Dec 2021 14:10:10 +0000",
          "title" : "Rapid Championship: Day 2 Live"
-      },
-      {
-         "description" : "One of the most anticipated events in the chess calendar, the FIDE World Rapid and Blitz Championship, is taking place on December 25-31 in Warsaw, Poland, at the PGE Narodowy Stadium. Follow the games live with expert commentary starting at 15.00 CET (9.00 ET, 19.30 IST). | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-and-blitz-2021-live",
-         "pubDate" : "Mon, 27 Dec 2021 14:55:00 +0100",
-         "title" : "World Rapid and Blitz Championships - Live!"
       },
       {
          "description" : "The first five rounds of the World Rapid Championship were played on Sunday. Three players are sharing the lead on 4&frac12; points: defending champion Magnus Carlsen, local hero Jan-Krzysztof Duda and Baadur Jobava from Georgia. On the women's tournament, Alexandra Kosteniuk and Valentina Gunina have a perfect 4/4 score after the first day of action. | Foto: Michal Walusza",
@@ -240,6 +272,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2599",
          "pubDate" : "Sat, 25 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 25"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1482",
+         "pubDate" : "Sat, 25 Dec 2021 10:04:14 +0000",
+         "title" : "FIDE Congress 2021 schedule announced"
       },
       {
          "description" : "",
@@ -1346,14 +1386,6 @@ news_feed (
          "title" : "The Endgame Magic Christmas Calendar - Door 16"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1482",
-         "pubDate" : "Thu, 16 Dec 2021 10:04:14 +0000",
-         "title" : "FIDE Congress 2021 schedule announced"
-      },
-      {
          "description" : "On Monday, the 8th Sunway Sitges Open began near Barcelona. 31 players in the strong field have an Elo-rating of more than 2500, but Anton Korobov (pictured), the winner of 2019, is top seed and again among the favourites. He started the tournament with three wins - as did 18 other players. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1608,14 +1640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-so-nihal",
          "pubDate" : "Tue, 14 Dec 2021 00:05:00 -0800",
          "title" : "Speed Chess Championship: So Edges Out Nihal, Enters Finals"
-      },
-      {
-         "description" : "Endings with opposite coloured bishops often have drawish tendencies. But things are rarely that simple. In the diagram position material is equal but Black's king and Black's bishop are far more active than their counterparts. How should Black proceed to exploit these advantages?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/retreat-to-advance",
-         "pubDate" : "Tue, 14 Dec 2021 09:00:00 +0100",
-         "title" : "Retreat to advance"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88268337.cms\" />Magnus Carlsen, who extended his reign of the chess empire to more than nine years with a resounding win over challenger Ian Nepomniachtchi in Dubai on Friday, understands that sport is neither equal nor fair. Going by some of his quotes during the World Championship match, the Norwegian is probably happy with the cruel consequences of being a sportsman.",
@@ -2104,30 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1467",
          "pubDate" : "Tue, 07 Dec 2021 17:17:38 +0000",
          "title" : "Sheikh Hamdan bin Rashid Cup kicks off in Dubai"
-      },
-      {
-         "description" : " <p class=\"lead\">Game 9 of the World Chess Championship ended with Nepo blundering material, and finally resigning after move 40. With this loss, Nepo effectively ended his quest for the Championship title. His chances to win the Match are less than 1 out of 100. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2047\" data-ratio=\"1.4996336996337\"> <img src=\"https://worldchess.com/news/pictures/51731623939_d21df444bf_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51731906340_836c201d2c_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51730140762_fac910c8c3_k.jpg\" width=\"2047\" height=\"1365\" alt=",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nepo-blunders-a-bishop-loses-game-9/",
-         "pubDate" : "Tue, 07 Dec 2021 16:26:22 +0000",
-         "title" : "Nepo Blunders Bishop, Loses Game 9"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/942dbc09-368d-4fcd-b83e-28381dde1e8d/Alex%2BCrompton%2Bprofile.jpg\" data-image-dimensions=\"300x296\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61af61030219904d2b03e9b3\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/942dbc09-368d-4fcd-b83e-28381dde1e8d/Alex%2BCrompton%2Bprofile.jpg?format=1000w\" /> </figure> <p class=\"\">Welcome back to another Adult Improver Edition of Perpetual Chess. In this episode, we feature another <em>Queen's Gambit</em> convert to Pe",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/7/ep-256-alex-crompton-adult-improver-series",
-         "pubDate" : "Tue, 07 Dec 2021 13:28:58 +0000",
-         "title" : "EP 256- Alex Crompton (Adult Improver Series) "
-      },
-      {
-         "description" : " Picking up a rook with one bishop isn't that uncomment, but I'm not sure I have ever collected both rooks with the same bishop. My opponent missed a tactic along the h1-a8 diagonal allowing me to win the rook on a8, and a few moves later I managed to trap the other rook on g8, with my knight and bishop. <br /> <b>Press,Shaun - Lee,Tiam Woo [D02]</b><br />Xmas Rapid (4), 07.12.2021 <script>new PgnViewer( { boardName: \"game1293\", movesFormat: \"default\", pgnString:'1.d4 d5 2.Nf3 e6 3.g3 h6 4.Bg2 Nf6 5.O-O c5 6.c4 b6 7.cxd5 Nxd5 8.e4 Nf6 9.Nc3 Bb7 10.d5 exd5 11.exd5 Nxd5 12.Ne5 Nxc3 13.Qxd8+ Kxd8 14.Bxb7 Kc7 15.Bxa8 Ne2+ 16.Kg2 f6 17.Ng6 Rg8 18.Bd5 Bd6 19.Bxg8 Nc6 20.Be3 Ned4 {and White won} 1-",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/bishop-takes-out-both-rooks.html",
-         "pubDate" : "Tue, 07 Dec 2021 12:34:00 +0000",
-         "title" : "Bishop takes out both rooks"
       }
    ]
 }
