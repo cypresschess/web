@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Usually, in open positions a bishop is stronger than a knight. But in chess there's no rule without exception! In the diagram position it is White who has the knight, and it is White to move and win. What would you do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-knightmare",
+         "pubDate" : "Tue, 28 Dec 2021 09:00:00 +0100",
+         "title" : "The knightmare"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches all about practical chess middlegames, using a game from Alireza Firouzja and also Boros' own game against Olympiad medallist and Hungarian champ Zoltan Gyimesi. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-crush-olympic-medallist-ponziani-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FMfcrCH1DUY.jpg?itok",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "FIDE World Rapid Chess Championships: Day 2 Recap"
       },
       {
-         "description" : "GM Magnus Carlsen finished the second day in sole first with 7.5/9, notably defeating two young up-and-coming GMs: Alireza Firouzja and Jan-Krzysztof Duda. He is pursued by three GMs with 7/9: Nodirbek Abdusattorov, who has produced numerous upset...",
+         "description" : "GM Magnus Carlsen finished the second day at the World Rapid Championship in sole first place with 7.5/9, notably defeating two young up-and-coming GMs: Alireza Firouzja and Jan-Krzysztof Duda. Carlsen is pursued by three GMs with 7/9: Nodirbek ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/world-rapid-chess-championship-day-2-carlsen-and-kosteniuk-surge-ahead",
@@ -314,20 +322,20 @@ news_feed (
          "title" : "We all make mistakes"
       },
       {
-         "description" : "\"The Queen's Gambit\" is one of the most successful Netflix series and will remain one of the best representations of chess in film. The series contains many impressive and powerful scenes, e.g. the depiction of a tournament in fast-forward mode, fittingly accompanied by the famous instrumental musical piece \"Classical Gas\" by Mason Williams.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/music-and-chess-mason-williams-classical-gas-in-the-queen-s-gambit",
-         "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
-         "title" : "Music and chess: Mason Williams' \"Classical Gas\" in \"The Queen's Gambit\""
-      },
-      {
          "description" : "That's almost it! It's the last day of the calendar, and we want to say a huge thank you for the thousands of entries! Yesterday we had to send the king to c2 because of the virtual opposition. Finally, there is a really nice endgame treat to solve.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2484",
          "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 24"
+      },
+      {
+         "description" : "\"The Queen's Gambit\" is one of the most successful Netflix series and will remain one of the best representations of chess in film. The series contains many impressive and powerful scenes, e.g. the depiction of a tournament in fast-forward mode, fittingly accompanied by the famous instrumental musical piece \"Classical Gas\" by Mason Williams.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/music-and-chess-mason-williams-classical-gas-in-the-queen-s-gambit",
+         "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
+         "title" : "Music and chess: Mason Williams' \"Classical Gas\" in \"The Queen's Gambit\""
       },
       {
          "description" : " <p class=\"lead\">GM Vladimir Dobrov has summed up the year's chess results. Who was the main disappointment, and who was the main hope for 2021? Who deserves the Chess Oscar, and why is Andrey Esipenko an enviable groom? We tell you. <h2>Match of the Year</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E9369147-BF45-49CB-B482-3C6E23E08584.gif\" width=\"1400\" height=\"934\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> I award this nomination to <a href=\"https://worldcup.fide.com\">the World Cup match</a> between Andrey Esipenko and Magnus Carlsen, held in sunny Sochi. The suspense in the 1/8 finals was unbelievable. Our 18-year-old from Rostov w",
@@ -1608,14 +1616,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/12th-london-chess-classic-2021",
          "pubDate" : "Mon, 13 Dec 2021 22:36:00 +0400",
          "title" : "12th London Chess Classic 2021 - Games and Results"
-      },
-      {
-         "description" : "Robert Ris is Karsten M&uuml;ller's guest in the Endgame Magic Show #175. Robert and Karsten will look at games 6-10 of the World Championship match between Magnus Carlsen and Ian Nepomniachtchi, which Carlsen won convincingly 7.5-3.5. Karsten and Robert will focus on the endgames that occured in these games, but they will also take a brief look at the openings played in the match. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-175-with-robert-ris",
-         "pubDate" : "Mon, 13 Dec 2021 19:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #175: With Robert Ris"
       },
       {
          "description" : "",
