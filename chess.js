@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " &#8220;We wish you a merry Christmas We wish you a merry Christmas We wish you a merry Christmas And a happy New Year!&#8221; Christmas carol, Unknown A number of years ago a friend of mine was gifted below porcelain figure at Christmas: Anything chess related that reaches our group of friends, makes its way to <a href=\"https://chessimprover.com/a-christmas-puzzle/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Christmas Puzzle\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-christmas-puzzle/\">A Christmas Puzzle</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-christmas-puzzle/",
+         "pubDate" : "Tue, 28 Dec 2021 09:33:47 +0000",
+         "title" : "A Christmas Puzzle"
+      },
+      {
+         "description" : "For 24 days, you mastered fierce end-game puzzles. We received over 6800 emails this year! This topped last year's calendar, bravo! From all entries we randomly selected three winners for each day, who can look forward to ChessBase Shop vouchers or two Fritztrainer DVDs signed by Karsten M&uuml;ller. Those who guessed all 24 doors correctly, entered into our super raffle for one of three grand prizes.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winners-of-our-endgame-magic-calendar",
+         "pubDate" : "Tue, 28 Dec 2021 10:20:00 +0100",
+         "title" : "The winners of our Endgame Magic Calendar!"
+      },
+      {
          "description" : "Usually, in open positions a bishop is stronger than a knight. But in chess there's no rule without exception! In the diagram position it is White who has the knight, and it is White to move and win. What would you do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/how-crush-olympic-medallist-ponziani-grandmasters-choice-gm-denes-boros",
          "pubDate" : "Tue, 28 Dec 2021 01:36:23 +0000",
          "title" : "How to Crush an Olympic Medallist with the Ponziani! | Grandmaster's Choice - GM Denes Boros"
+      },
+      {
+         "description" : " 600 Modern Chess Puzzles : Martyn Kravtsiv Blurb from the publisher: &#8220;The easiest, quickest and most effective way to improve your overall game is to increase your tactical vision. Many good positions are lost because a key moment is passed by and a player misses the opportunity to win by a beautiful combination. This book is <a href=\"http://britishchessnews.com/2021/12/28/600-modern-chess-puzzles/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">600 Modern Chess Puzzles</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/28/600-modern-chess-puzzles/\">600 Modern Chess Puzzles</a> appeared first on <a",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/12/28/600-modern-chess-puzzles/",
+         "pubDate" : "Tue, 28 Dec 2021 00:10:48 +0000",
+         "title" : "600 Modern Chess Puzzles"
       },
       {
          "description" : "",
@@ -34,12 +58,12 @@ news_feed (
          "title" : "World Rapid Chess Championship Day 2: Carlsen and Kosteniuk Surge Ahead"
       },
       {
-         "description" : " <p class=\"lead\">The second day of the 2021 World Rapid and Blitz Championships, one of the most elite events to determine the world's best players in fast time-controls, ended with Magnus Carlsen taking a sole lead. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51779628284_eeffd431de_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51779627879_fada4cfe1f_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51779588656_6147b53844_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pic",
+         "description" : " <p class=\"lead\">The second day of the <a href=\"https://worldrapidandblitz.fide.com\">2021 World Rapid and Blitz Championships</a>, one of the most elite events to determine the world's best players in fast time-controls, ended with Magnus Carlsen taking the sole lead, half a point ahead of everyone else (7.5/9). <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51779628284_eeffd431de_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51779627879_fada4cfe1f_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51779588656",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/magnus-carlsen-is-sole-leader-before-the-final-day-of-the-2021-w/",
          "pubDate" : "Mon, 27 Dec 2021 19:30:51 +0000",
-         "title" : "Magnus Carlsen is Sole Leader Before The Final Day of The 2021 World Rapid and Blitz Championships"
+         "title" : "Carlsen is the Sole Leader Before The Final Day of The 2021 Open World Rapid Championship"
       },
       {
          "description" : "In the history of the Chess World Championships Viktor Korchnoi is an extremely successful player, even if he was ultimately denied the title. If you count the 1974 Candidates Final for challenging Fischer, he played three 'World Championship matches'. The era of Korchnoi's participations in the WCh cycle stretches from the Curacao Candidates Tournament in 1962 to the 1991 quarterfinal match against Timman, which he played at the age of 60. The dramatic fight against Anatoly Karpov in Baguio City in 1978 stands out in particular: hypnosis, cheating accusations with blueberry yoghurt, X-ray examinations on chairs, mirror glasses worn at the board, Korchnoi's comeback to 5-5 after trailing 4-1",
@@ -322,20 +346,20 @@ news_feed (
          "title" : "We all make mistakes"
       },
       {
-         "description" : "That's almost it! It's the last day of the calendar, and we want to say a huge thank you for the thousands of entries! Yesterday we had to send the king to c2 because of the virtual opposition. Finally, there is a really nice endgame treat to solve.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2484",
-         "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 24"
-      },
-      {
          "description" : "\"The Queen's Gambit\" is one of the most successful Netflix series and will remain one of the best representations of chess in film. The series contains many impressive and powerful scenes, e.g. the depiction of a tournament in fast-forward mode, fittingly accompanied by the famous instrumental musical piece \"Classical Gas\" by Mason Williams.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/music-and-chess-mason-williams-classical-gas-in-the-queen-s-gambit",
          "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
          "title" : "Music and chess: Mason Williams' \"Classical Gas\" in \"The Queen's Gambit\""
+      },
+      {
+         "description" : "That's almost it! It's the last day of the calendar, and we want to say a huge thank you for the thousands of entries! Yesterday we had to send the king to c2 because of the virtual opposition. Finally, there is a really nice endgame treat to solve.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2484",
+         "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 24"
       },
       {
          "description" : " <p class=\"lead\">GM Vladimir Dobrov has summed up the year's chess results. Who was the main disappointment, and who was the main hope for 2021? Who deserves the Chess Oscar, and why is Andrey Esipenko an enviable groom? We tell you. <h2>Match of the Year</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E9369147-BF45-49CB-B482-3C6E23E08584.gif\" width=\"1400\" height=\"934\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> I award this nomination to <a href=\"https://worldcup.fide.com\">the World Cup match</a> between Andrey Esipenko and Magnus Carlsen, held in sunny Sochi. The suspense in the 1/8 finals was unbelievable. Our 18-year-old from Rostov w",
@@ -1602,14 +1626,6 @@ news_feed (
          "title" : "Why King Carlsen is a cut above all competition"
       },
       {
-         "description" : "On Sunday, December 12, Magnus Carlsen of Norway lifted the trophy for the World Championship aloft for the fifth time in a row. The closing ceremony was broadcast live on a range of media and culminated with the champion, a gold medal around his neck, trophy raised, in a long, breezy shower of gold confetti. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-closing-ceremony",
-         "pubDate" : "Mon, 13 Dec 2021 20:15:00 +0100",
-         "title" : "The world champion is crowned, again!"
-      },
-      {
          "description" : " The 12th London Chess Classic took place 3rd to 12th December 2021. The event was on a smaller scale due to the continuing coronavirus crisis and there was a different venue, the Cavendish Centre. The main event was an England vs the Rest of the World Scheveningen match between England's Michael Adams, Luke McShane and Gawain Jones and a Rest of the World Team of Boris Gelfand, Nikita Vitiugov and Maxime Lagarde over 6 rounds. The Rest of the World won the final round to win the match. Also there were other events including the Pro-Biz and English Rapidplay Championship which saw Gawain Jones win after beating Luke McShane in a tie-break - they had shared first in the all-play-all phase.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2112,22 +2128,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/bishop-takes-out-both-rooks.html",
          "pubDate" : "Tue, 07 Dec 2021 12:34:00 +0000",
          "title" : "Bishop takes out both rooks"
-      },
-      {
-         "description" : "ECU E-Magazine November 2021 is out! In this edition of the ECU Magazine you may read about: FIDE World Chess Championship Match 2021, Magnus Carlsen Ian Nepomniachtchi European Team Chess Championship 2021 ECU Congress 2021 Mitropa Chess Association Liechtenstein Chess Federation 50 years anniversary European Small Nations Team Chess Championship 2021 London Chess Classic 2021 European Online&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-november-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-november-2021/",
-         "pubDate" : "Tue, 07 Dec 2021 09:26:15 +0000",
-         "title" : "ECU E-MAGAZINE NOVEMBER 2021"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/md02iWFavsE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-9-of-the-match/",
-         "pubDate" : "Tue, 07 Dec 2021 08:50:21 +0000",
-         "title" : "Time To Say Dubai: Round 9 of the Match"
       }
    ]
 }
