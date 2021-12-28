@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches all about practical chess middlegames, using a game from Alireza Firouzja and also Boros' own game against Olympiad medallist and Hungarian champ Zoltan Gyimesi. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-crush-olympic-medallist-ponziani-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FMfcrCH1DUY.jpg?itok",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-crush-olympic-medallist-ponziani-grandmasters-choice-gm-denes-boros",
+         "pubDate" : "Tue, 28 Dec 2021 01:36:23 +0000",
+         "title" : "How to Crush an Olympic Medallist with the Ponziani! | Grandmaster's Choice - GM Denes Boros"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/play-sicilian-najdorf-2-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
          "pubDate" : "Tue, 21 Dec 2021 19:29:59 +0000",
          "title" : "Play the Sicilian: Najdorf #2 | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani traces her degrees of separation by victory to world champion Magnus Carlsen, using MagnusNumber.com. 2021.12.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-your-magnus-number-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GVkK4NOLyiA.jpg?itok=Hts-aOcl\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/whats-your-magnus-number-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Tue, 21 Dec 2021 19:29:59 +0000",
-         "title" : "What's Your Magnus Number? | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "GM Sergey Karjakin and GM Richard Rapport are tied for first place after four days of rapid chess at the Vugar Gashimov Memorial in Baku, Azerbaijan. GM Viswanathan Anand is currently in last place, but there are 14 rounds of blitz to play. ...",
