@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1502",
+         "pubDate" : "Mon, 27 Dec 2021 23:01:54 +0000",
+         "title" : "FIDE World Rapid Chess Championships: Day 2 Recap"
+      },
+      {
+         "description" : "GM Magnus Carlsen finished the second day in sole first with 7.5/9, notably defeating two young up-and-coming GMs: Alireza Firouzja and Jan-Krzysztof Duda. He is pursued by three GMs with 7/9: Nodirbek Abdusattorov, who has produced numerous upset...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/world-rapid-chess-championship-day-2-carlsen-and-kosteniuk-surge-ahead",
+         "pubDate" : "Mon, 27 Dec 2021 14:14:00 -0800",
+         "title" : "World Rapid Chess Championship Day 2: Carlsen and Kosteniuk Surge Ahead"
+      },
+      {
          "description" : " <p class=\"lead\">The second day of the 2021 World Rapid and Blitz Championships, one of the most elite events to determine the world's best players in fast time-controls, ended with Magnus Carlsen taking a sole lead. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51779628284_eeffd431de_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51779627879_fada4cfe1f_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51779588656_6147b53844_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pic",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2112,22 +2128,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-9-of-the-match/",
          "pubDate" : "Tue, 07 Dec 2021 08:50:21 +0000",
          "title" : "Time To Say Dubai: Round 9 of the Match"
-      },
-      {
-         "description" : "Two quarterfinal matches in the 2021 Speed Chess Championship Main Event occurred on December 6. In the first match, GM Ding Liren defeated GM Levon Aronian by a 15-11 score. You can read the full report for the Ding-Aronian match here. This rep...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-nakamura-giri",
-         "pubDate" : "Mon, 06 Dec 2021 15:21:00 -0800",
-         "title" : "Speed Chess Championship: Nakamura Defeats Giri, Will Face Ding In SF"
-      },
-      {
-         "description" : "GM Ding Liren beat GM Levon Aronian by a score of 15-11 in the second quarterfinal match of the 2021 Speed Chess Championship Main Event. In the semifinals, he will face the winner of&#38;nbsp;GM Hikaru Nakamura vs. GM Anish Giri. The last quarterfi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-ding-aronian",
-         "pubDate" : "Mon, 06 Dec 2021 13:07:00 -0800",
-         "title" : "Speed Chess Championship: Ding Eliminates Aronian, Reaches Semifinals"
       }
    ]
 }
