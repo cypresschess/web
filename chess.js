@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After many twists and turns on day three of the World Rapid Chess Championship, 17-year-old Uzbek GM Nodirbek Abdusattorov won the event with 9.5/13 in the Swiss event, after winning the second tiebreak blitz game against GM Ian Nepomniachtchi.&#38;nb...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/world-rapid-chess-championship-day-3-abdusattorov-and-kosteniuk-crowned-world-rapid-champions",
+         "pubDate" : "Tue, 28 Dec 2021 18:31:48 -0800",
+         "title" : "World Rapid Chess Championship Day 3: Abdusattorov and Kosteniuk Crowned World Rapid Champions"
+      },
+      {
          "description" : " The 2021 FIDE General Assembly was held last night (starting at midnight my time), and the Papua New Guinea Chess Federation had 2 important motions on the agenda. That was until I logged into the voting system to discover that our 2 motions had been listed as a single motion for voting purposes. This was of course done without the knowledge of the PNGCF and attempts to get it fixed were unsuccessful. The main issue with this (apart from arbitrarily changing properly submitted motions) was that both motions had different chances of success. While we expected one motion to be defeated, we had high hopes that the second would be passed. And I was planning to make this point when called upon t",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -50,7 +58,7 @@ news_feed (
          "title" : "Milunka Lazarevi&#263, the female Tal"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches a chess endgame class. 2021.12.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-firouzja-art-accuracy-insane-endgame-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zdP4TSYmkUo.jpg?itok=WyZrloJC\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches a chess endgame class. 2021.12.28<br /> Magnus Carlsen vs Jan-Krzysztof Duda, World Rapid and Blitz Championships (2021)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2176024\">https://www.chessgames.com/perl/chessgame?gid=2176024</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-firouzja-art-accuracy-insane-endgame-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/carlsen-firouzja-art-accuracy-insane-endgame-gm-denes-boros-lichessorg",
@@ -2088,14 +2096,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/12/08/2021-world-chess-championship-game-9/",
          "pubDate" : "Wed, 08 Dec 2021 06:10:00 +0000",
          "title" : "2021 World Chess Championship: Game 9"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88156369.cms\" />One oversight can cost you a game of chess. Two oversights have cost Ian Nepomniachtchi a decent shot at the World Chess Championship and made a mockery of this 'contest'.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/nepo-blunders-again-magnus-up-by-3-points/articleshow/88156369.cms",
-         "pubDate" : "Wed, 08 Dec 2021 08:58:31 +0530",
-         "title" : "Nepo blunders again, Magnus up by 3 points"
       }
    ]
 }
