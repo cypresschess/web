@@ -2,11 +2,35 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "After many twists and turns on day three of the World Rapid Chess Championship, 17-year-old Uzbek GM Nodirbek Abdusattorov won the event with 9.5/13 in the Swiss event, after winning the second tiebreak blitz game against GM Ian Nepomniachtchi.&#38;nb...",
+         "description" : "The new ChessBase Magazine #205 offers a variety of high-class annotated games, with a focus on the FIDE Grand Swiss 2021. Besides the winner Alireza Firouzja, Nils Grandelus, Grigoriy Oparin, Alexandr Predke, Ivan Saric, Krishnan Sasikiran, Samuel Sevian, Nikita Vitiugov and Yu Yangyi comment on their best games. The young Russian GM Oparin earned a ticket for the upcoming Grand Prix series with third place (equal on points with Fabiano Caruana). His win with the black pieces against compatriot Vitiugov is \"The Analysis\" of the new issue. Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/11-kd7-the-turning-point",
+         "pubDate" : "Wed, 29 Dec 2021 09:00:00 +0100",
+         "title" : "\"11..Kd7! - the turning point\""
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88558967.cms\" />Defending champion Koneru Humpy failed to live up to her billing, finishing sixth with 7.5 points in the women's section of the FIDE World Rapid Chess Championship 2021 here.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-rapid-chess-championship-koneru-humpy-takes-6th-place-in-womens-event-d-gukesh-finishes-9th-in-open-section/articleshow/88558967.cms",
+         "pubDate" : "Wed, 29 Dec 2021 10:44:40 +0530",
+         "title" : "World Rapid Chess C'ship: Humpy takes 6th place in women's event, Gukesh 9th in open section"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros analyzes games from Magnus Carlsen and Alireza Firouzja from the 2021 World Rapid and Blitz Championships. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-firouzja-art-accuracy-insane-endgame-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zdP4TSYmkUo.jpg?itok=WyZrloJC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-firouzja-art-accuracy-insane-endgame-gm-denes-boros",
+         "pubDate" : "Wed, 29 Dec 2021 04:37:09 +0000",
+         "title" : "Carlsen & Firouzja: Art of Accuracy | Insane in the Endgame - GM Denes Boros"
+      },
+      {
+         "description" : "After many twists and turns on day three of the World Rapid Chess Championship, 17-year-old Uzbek GM Nodirbek Abdusattorov won the event with 9.5/13 in the Swiss tournament, after winning the second tiebreak blitz game against GM Ian Nepomniachtch...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/world-rapid-chess-championship-day-3-abdusattorov-and-kosteniuk-crowned-world-rapid-champions",
-         "pubDate" : "Tue, 28 Dec 2021 18:31:48 -0800",
+         "pubDate" : "Tue, 28 Dec 2021 18:31:00 -0800",
          "title" : "World Rapid Chess Championship Day 3: Abdusattorov and Kosteniuk Crowned World Rapid Champions"
       },
       {
@@ -826,14 +850,6 @@ news_feed (
          "title" : "Lichess crashed during Agadmator tournament"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her first hour on the Najdorf, the Cadillac (or enchilada) of chess openings. 2021.12.15<br /> Dorsa Derakhshani vs. Robby Kevlishvili, 2015: B93 Sicilian, Najdorf, 6.f4<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3968651\">https://www.365chess.com/game.php?back=1&amp;gid=3968651</a><br /> B87 Sicilian, Sozin with ...a6 and ...b5 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-sicilian-najdorf-1-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Tue, 21 Dec 2021 19:29:59 +0000",
-         "title" : "Play the Sicilian: Najdorf #1 | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
          "description" : "GM Sergey Karjakin and GM Richard Rapport are tied for first place after four days of rapid chess at the Vugar Gashimov Memorial in Baku, Azerbaijan. GM Viswanathan Anand is currently in last place, but there are 14 rounds of blitz to play. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1642,14 +1658,6 @@ news_feed (
          "title" : "European Online Rapid School Chess Champions crowned"
       },
       {
-         "description" : "Soon after defending the World Championship title in Dubai, Magnus Carlsen revealed the team of seconds that helped him keep his crown. Among them was Daniil Dubov, a member of the Russian team. A controversy erupted, with some of Dubov's compatriots criticizing his decision to work for Ian Nepomniachtchi's opponent. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dubov-faces-criticism-in-russia",
-         "pubDate" : "Tue, 14 Dec 2021 13:00:00 +0100",
-         "title" : "Dubov faces criticism in Russia after working for Carlsen"
-      },
-      {
          "description" : "CLICK HERE FOR THE PRESS CONFERENCE",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2080,22 +2088,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/carlsen-edges-closer-to-retaining-his-title-with-a-quiet-draw-in-game-10",
          "pubDate" : "Wed, 8 Dec 2021 16:18:00 +0400",
          "title" : "Carlsen edges closer to retaining his title with a quiet draw in game 10 - 10"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/VL9D6bVcELA?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-10-of-the-match/",
-         "pubDate" : "Wed, 08 Dec 2021 08:04:43 +0000",
-         "title" : "Time To Say Dubai: Round 10 of the Match"
-      },
-      {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 9 Match Score: 6-3 Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 9 Tuesday, 7 December 2021 Nepo blunders piece Carlsen has a 3-point bulge Chess can be brutal at times. There is nothing that crushes the soul more than losing a completely winning position. Perhaps [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/08/2021-world-chess-championship-game-9/\">2021 World Chess Championship: Game 9</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/12/08/2021-world-chess-championship-game-9/",
-         "pubDate" : "Wed, 08 Dec 2021 06:10:00 +0000",
-         "title" : "2021 World Chess Championship: Game 9"
       }
    ]
 }
