@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1505",
+         "pubDate" : "Wed, 29 Dec 2021 10:39:37 +0000",
+         "title" : "Candidates play-off introduced"
+      },
+      {
+         "description" : "European Youth Rapid&#38;Blitz Chess Championships 2021 currently are ongoing in Novi Sad, Serbia. The 2021 European Youth Rapid Chess Championship took place from 27th-28th of December, being played in 6 age categories, open and girls separately. The President of Serbian Chess Federation Mr. Dragan Lazic and Vojvodina Province secretary for Youth and Sports Mr. Dane Basta made the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-rapid-chess-champions-2021-announced/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-rapid-chess-champions-2021-announced/",
+         "pubDate" : "Wed, 29 Dec 2021 10:34:53 +0000",
+         "title" : "European Youth Rapid Chess Champions 2021 announced"
+      },
+      {
          "description" : "The new ChessBase Magazine #205 offers a variety of high-class annotated games, with a focus on the FIDE Grand Swiss 2021. Besides the winner Alireza Firouzja, Nils Grandelus, Grigoriy Oparin, Alexandr Predke, Ivan Saric, Krishnan Sasikiran, Samuel Sevian, Nikita Vitiugov and Yu Yangyi comment on their best games. The young Russian GM Oparin earned a ticket for the upcoming Grand Prix series with third place (equal on points with Fabiano Caruana). His win with the black pieces against compatriot Vitiugov is \"The Analysis\" of the new issue. Take a look!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -240,6 +256,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/rapid-championship-day-2-live/",
          "pubDate" : "Mon, 27 Dec 2021 14:10:10 +0000",
          "title" : "Rapid Championship: Day 2 Live"
+      },
+      {
+         "description" : "The Israel open championship was held on December 8-16 2021 in the old northern city of Tzfat (Safed) by the Israel chess federation, under the auspices of the local municipality and Mifal Hapais (the national lottery). 102 players, including 9 GMs and 9 IMs competed in 9 Swiss rounds&#160; for the top honours as well as for the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/tamir-nabaty-wins-the-israel-open-championship-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/tamir-nabaty-wins-the-israel-open-championship-2021/",
+         "pubDate" : "Mon, 27 Dec 2021 11:56:36 +0000",
+         "title" : "Tamir Nabaty wins the Israel open championship 2021"
       },
       {
          "description" : "The first five rounds of the World Rapid Championship were played on Sunday. Three players are sharing the lead on 4&frac12; points: defending champion Magnus Carlsen, local hero Jan-Krzysztof Duda and Baadur Jobava from Georgia. On the women's tournament, Alexandra Kosteniuk and Valentina Gunina have a perfect 4/4 score after the first day of action. | Foto: Michal Walusza",
@@ -482,20 +506,20 @@ news_feed (
          "title" : "We all make mistakes"
       },
       {
-         "description" : "\"The Queen's Gambit\" is one of the most successful Netflix series and will remain one of the best representations of chess in film. The series contains many impressive and powerful scenes, e.g. the depiction of a tournament in fast-forward mode, fittingly accompanied by the famous instrumental musical piece \"Classical Gas\" by Mason Williams.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/music-and-chess-mason-williams-classical-gas-in-the-queen-s-gambit",
-         "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
-         "title" : "Music and chess: Mason Williams' \"Classical Gas\" in \"The Queen's Gambit\""
-      },
-      {
          "description" : "That's almost it! It's the last day of the calendar, and we want to say a huge thank you for the thousands of entries! Yesterday we had to send the king to c2 because of the virtual opposition. Finally, there is a really nice endgame treat to solve.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2484",
          "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 24"
+      },
+      {
+         "description" : "\"The Queen's Gambit\" is one of the most successful Netflix series and will remain one of the best representations of chess in film. The series contains many impressive and powerful scenes, e.g. the depiction of a tournament in fast-forward mode, fittingly accompanied by the famous instrumental musical piece \"Classical Gas\" by Mason Williams.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/music-and-chess-mason-williams-classical-gas-in-the-queen-s-gambit",
+         "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
+         "title" : "Music and chess: Mason Williams' \"Classical Gas\" in \"The Queen's Gambit\""
       },
       {
          "description" : " <p class=\"lead\">GM Vladimir Dobrov has summed up the year's chess results. Who was the main disappointment, and who was the main hope for 2021? Who deserves the Chess Oscar, and why is Andrey Esipenko an enviable groom? We tell you. <h2>Match of the Year</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E9369147-BF45-49CB-B482-3C6E23E08584.gif\" width=\"1400\" height=\"934\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> I award this nomination to <a href=\"https://worldcup.fide.com\">the World Cup match</a> between Andrey Esipenko and Magnus Carlsen, held in sunny Sochi. The suspense in the 1/8 finals was unbelievable. Our 18-year-old from Rostov w",
@@ -2080,14 +2104,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/aga-milewska-and-jovanka-houska-on-womans-hour/",
          "pubDate" : "Wed, 08 Dec 2021 13:00:06 +0000",
          "title" : "Aga Milewska and Jovanka Houska on Woman's Hour"
-      },
-      {
-         "description" : " Magnus Carlsen is now within a point of retaining his World Chess Championship title in his match against Ian Nepomniachtchi - the match stands at 6.5-3.5 with four games to go. Today Nepomniachtchi chose to repeat the Petroff Defence he played in games 4 and 8 - a solid continuation which often leads to symmetrical pawn structures. This has been a point scoring weapon for black in recent years only because white often has to play slightly riskily to get decent winning chances - white pretty much always has the option to go for the most symbolic of advantages where a draw is a high probability. Carlsen had such a decision on move 8 and he thought for nearly 20 minutes choosing between 8.Be3",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/carlsen-edges-closer-to-retaining-his-title-with-a-quiet-draw-in-game-10",
-         "pubDate" : "Wed, 8 Dec 2021 16:18:00 +0400",
-         "title" : "Carlsen edges closer to retaining his title with a quiet draw in game 10 - 10"
       }
    ]
 }
