@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Day 1 of the <a href=\"https://worldrapidandblitz.fide.com\">2021 Open World Blitz Championship</a> is over with GM Levon Aronian leading the event (10/12), followed by Kravtsiv, Amin & Dubov (9.5/12). The big - unpleasant - surprise is Carlsen, who lost 3 games right after he passed 2900 rating blitz points. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2047\" data-ratio=\"1.4996336996337\"> <img src=\"https://worldchess.com/news/pictures/51786357615_73ae7151cd_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51784744407_9588c4bfcc_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/2021-world-blitz-championship-magnus-loses-3-games-aronian-is-a/",
+         "pubDate" : "Wed, 29 Dec 2021 20:23:39 +0000",
+         "title" : "2021 World Blitz Championship: Magnus loses 3 games, Aronian is a half point ahead"
+      },
+      {
+         "description" : " <p class=\"lead\">The tournament that will decide the 2023 Challenger, the Candidates Tournament, will be held in Madrid, Spain on the 16th of June until the 7th of July, 2022. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0AE6272B-DB55-44BF-B1AC-ED6003F2FBEF.png\" width=\"1336\" height=\"750\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE (Lennart Ootes)</div> </div> The 2021 World Championship is still very close to our memories, yet the next Candidates Tournament brings us high hopes for the 2023 World Championship. The previous Candidates tournament was held in Yekaterinburg, Russia partly in 2020 and partly in 2021 due to the Covid-19 pandemic. This year's ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-2022-candidates-tournament-to-be-held-in-madrid/",
+         "pubDate" : "Wed, 29 Dec 2021 20:16:13 +0000",
+         "title" : "The 2022 Candidates Tournament to be held in Madrid"
+      },
+      {
+         "description" : "What a unique idea: decorate a Moscow metro train to convert it into a chess museum. Each of the five cars of this train is dedicated to different chess-related themes - game history, chess development in the Soviet Union and in Russia, VIP names in the world of chess, and, of course, the elegant chess pieces. In addition, the train displays noteworthy facts about chess in cinema, visual arts, theatre, literature, and in the life of celebrities. | Photos by Eteri Kublashvili",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-train-in-the-moscow-metro",
+         "pubDate" : "Wed, 29 Dec 2021 20:10:00 +0100",
+         "title" : "Chess train in the Moscow Metro"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1506",
+         "pubDate" : "Wed, 29 Dec 2021 18:21:51 +0000",
+         "title" : "92nd FIDE General Assembly: results and decisions"
+      },
+      {
+         "description" : "This week, Merijn van Delft takes a looks at an unusual game by Boris Gelfand: at a certain point of time there were no less than four queens on the board! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-2",
+         "pubDate" : "Wed, 29 Dec 2021 19:00:00 +0100",
+         "title" : "Game of the Week #496: Four queens on the board"
+      },
+      {
          "description" : " <p class=\"lead\"><a href=\"https://worldrapidandblitz.fide.com\">The 2021 Open World Rapid Championship</a> ended with the 17-year-old GM Nodirbek Abdusattorov defeating the 2021 Challenger Ian Nepomniachtchi 1.5-0.5 in a playoff, although there was a quadruple tie on the first place. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51785258424_55c04f483b_k-min.jpg\" width=\"2048\" height=\"1363\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by: Michal Walusza (FIDE)</div> </div> The Uzbeki GM finished the tournament with 9.5/13, the same as Nepo, Carlsen, and Caruana. Due to the FIDE tiebreak rules though, only the top two players according to Sonnenborn-Berger points c",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -18,11 +58,19 @@ news_feed (
          "title" : "Bengal GM Mitrabha Guha ends as second-best Indian in World Rapid meet"
       },
       {
-         "description" : "The tiebreak regulations at the World Rapid Chess Championship, which finished yesterday in Warsaw, Poland, are heavily debated on social media. This report brings an overview of the different opinions expressed online. The World Rapid Champions...",
+         "description" : "After a thrilling final day, Nodirbek Abdusattorov won the World Rapid Chess title in a photo finish. At the start of the day, the young Uzbek defeated Magnus Carlsen. After 13 rounds, four players were tied on points. Abdusattorov won the playoff against Ian Nepomniachzchi. | Photos: Rafał Oleksiewicz, Michał Walusza, Anna Shtourman (FIDE)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-and-blitz-2021-day-3",
+         "pubDate" : "Wed, 29 Dec 2021 15:15:00 +0100",
+         "title" : "Abdusattorov wins World Rapid Championship at 17!"
+      },
+      {
+         "description" : "The tiebreak regulations at the World Rapid Chess Championship, which finished yesterday in Warsaw, Poland, are being heavily debated on social media. This report provides an overview of the different opinions being expressed online. The World R...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/world-rapid-chess-championship-tiebreak-controversy",
-         "pubDate" : "Wed, 29 Dec 2021 06:12:15 -0800",
+         "pubDate" : "Wed, 29 Dec 2021 06:12:00 -0800",
          "title" : "Chess World Divided Over World Rapid Tiebreak Controversy"
       },
       {
@@ -1642,30 +1690,6 @@ news_feed (
          "title" : "Edgard Colle: Caissa's Wounded Warrior"
       },
       {
-         "description" : "From the 1970s to the 1990s Jan Timman, born in Amsterdam on 14 December 1951, was one of the world's best players. He qualified several times for the candidates and in 1993 he became FIDE Vice World Champion. Timman is also a renowned study composer and a prolific and excellent writer. Today, the Dutch Grandmaster celebrates his 70th birthday.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jan-timman-celebrates-70th-birthday",
-         "pubDate" : "Tue, 14 Dec 2021 22:00:00 +0100",
-         "title" : "Jan Timman celebrates 70th birthday"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent briefly talks about the World Championships but concentrates on the English Rapidplay Championship 2021 - where Lawrence played himself. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-6",
-         "pubDate" : "Tue, 14 Dec 2021 19:00:00 +0100",
-         "title" : "The Weekly Show"
-      },
-      {
-         "description" : "Peter Heine Nielsen has been Magnus Carlsen's head coach and second since 2013, and in an in-depth interview with IM Sagar Shah the Danish grandmaster and ChessBase author has now revealed some background on Carlsen's World Championship match against Ian Nepomniachtchi: Nielsen reviews the critical moments of all eleven games, discusses what makes a good coach and talks about the upcoming World Championship cycle and Alireza Firouzja's chances in it. | Photo: Hartmut Metz | Archiv",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-s-coach-peter-heine-nielsen-talks-about-the-carlsen-vs-nepomniachtchi-match",
-         "pubDate" : "Tue, 14 Dec 2021 18:00:00 +0100",
-         "title" : "Carlsen's coach Peter Heine Nielsen talks about the Carlsen vs Nepomniachtchi match"
-      },
-      {
          "description" : "FM Mike Klein, Chess.com&#39;s onsite correspondent at the 2021 FIDE World Championship and the Chief Chess Officer of ChessKid, caught up with GM Ian Nepomniachtchi for an interview a couple of days after the match with GM Magnus Carlsen. Feel free t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2096,14 +2120,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/changes-to-rating-and-titles.html",
          "pubDate" : "Wed, 08 Dec 2021 22:16:00 +0000",
          "title" : "Changes to rating and titles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1471",
-         "pubDate" : "Wed, 08 Dec 2021 17:01:11 +0000",
-         "title" : "FIDE World Championship 2021: A change in mindset?"
       }
    ]
 }
