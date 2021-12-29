@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2021-12-07  - 12-28","13","<a href=http://www.uschess.org/msa/XtblMain.php?202112282322 target=' blank'>DECEMBER TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2021-12-26","7","<a href=http://www.uschess.org/msa/XtblMain.php?202112261752 target=' blank'>HOUSTON DEC. 26 SUNDAY SWISS</a>",
 "HOUSTON","2021-12-19","6","<a href=http://www.uschess.org/msa/XtblMain.php?202112199972 target=' blank'>HOUSTON DEC. 19 SUNDAY SWISS</a>",
 "SPRING","2021-12-17","22","<a href=http://www.uschess.org/msa/XtblMain.php?202112179402 target=' blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2021-01-16  - 01-17","15","<a href=http://www.uschess.org/msa/XtblMain.php?202101175882 target=' blank'>DER SPRINGERS JANUARY G/90 AND SATURDAY KNIGHTS</a>",
 "KATY","2021-01-16","16","<a href=http://www.uschess.org/msa/XtblMain.php?202101167142 target=' blank'>SR CHESSKNIGHTS 01162021</a>",
 "SPRING","2021-01-15","30","<a href=http://www.uschess.org/msa/XtblMain.php?202101155282 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"KATY","2021-01-09  - 01-10","15","<a href=http://www.uschess.org/msa/XtblMain.php?202101105052 target=' blank'>SR CHESSKNIGHTS 01092021</a>",
 ]);
