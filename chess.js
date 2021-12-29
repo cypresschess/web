@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\"><a href=\"https://worldrapidandblitz.fide.com\">The 2021 Open World Rapid Championship</a> ended with the 17-year-old GM Nodirbek Abdusattorov defeating the 2021 Challenger Ian Nepomniachtchi 1.5-0.5 in a playoff, although there was a quadruple tie on the first place. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51785258424_55c04f483b_k-min.jpg\" width=\"2048\" height=\"1363\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by: Michal Walusza (FIDE)</div> </div> The Uzbeki GM finished the tournament with 9.5/13, the same as Nepo, Carlsen, and Caruana. Due to the FIDE tiebreak rules though, only the top two players according to Sonnenborn-Berger points c",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/magnus-carlsen-its-a-completely-idiotic-rule/",
+         "pubDate" : "Wed, 29 Dec 2021 16:04:01 +0000",
+         "title" : "Magnus Carlsen: \"It's a completely idiotic rule\""
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88572808.cms\" />The country's and Bengal's latest Grandmaster Mitrabha Guha played some sensational chess to finish an impressive 15th position in the open section of the FIDE World Rapid Chess Championship that concluded in Warsaw on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/bengal-gm-mitrabha-guha-ends-as-second-best-indian-in-world-rapid-chess-meet/articleshow/88572808.cms",
+         "pubDate" : "Wed, 29 Dec 2021 20:34:10 +0530",
+         "title" : "Bengal GM Mitrabha Guha ends as second-best Indian in World Rapid meet"
+      },
+      {
+         "description" : "The tiebreak regulations at the World Rapid Chess Championship, which finished yesterday in Warsaw, Poland, are heavily debated on social media. This report brings an overview of the different opinions expressed online. The World Rapid Champions...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/world-rapid-chess-championship-tiebreak-controversy",
+         "pubDate" : "Wed, 29 Dec 2021 06:12:15 -0800",
+         "title" : "Chess World Divided Over World Rapid Tiebreak Controversy"
+      },
+      {
+         "description" : "One of the most anticipated events in the chess calendar, the FIDE World Rapid and Blitz Championship, is taking place on December 25-31 in Warsaw, Poland, at the PGE Narodowy Stadium. Follow the games live with expert commentary starting at 15.00 CET (9.00 ET, 19.30 IST). | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-and-blitz-2021-live",
+         "pubDate" : "Wed, 29 Dec 2021 14:55:00 +0100",
+         "title" : "World Rapid and Blitz Championships - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -66,12 +98,12 @@ news_feed (
          "title" : "Nodirbek Abdusattorov and Alexandra Kosteniuk win World Rapid Championship"
       },
       {
-         "description" : " <p class=\"lead\">The 17-year-old grandmaster from Uzbekistan defeated Ian Nepomniachtchi in the tiebreak with a score of 1.5:0.5 <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.558599695586\"> <img src=\"https://worldchess.com/news/pictures/51782918308_7883c8d6b5_k.jpg\" width=\"2048\" height=\"1314\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51783022711_7ec04d58b6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51782917443_1a973fb427_k.jpg\" width=\"2047\" height=\"1421\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51781853002_e3f9264b4e_k.jpg\" width=\"2048\" height=\"1422\" alt=\"\" /> <img src=\"https:",
+         "description" : " <p class=\"lead\"><a href=\"https://worldrapidandblitz.fide.com\">The 2021 Open World Rapid Championship</a> ended with the 17-year-old Uzbeki GM, Nodirbek Abdusattorov, defeating the 2021 Challenger Ian Nepomniachtchi in the tiebreak, and taking the crown from the World Champion Magnus Carlsen. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.558599695586\"> <img src=\"https://worldchess.com/news/pictures/51782918308_7883c8d6b5_k.jpg\" width=\"2048\" height=\"1314\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51783022711_7ec04d58b6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51782917443_1a973fb427_k.jpg\" wi",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/nodirbek-abdusattorov-is-world-rapid-chess-champion/",
          "pubDate" : "Tue, 28 Dec 2021 20:24:04 +0000",
-         "title" : "Nodirbek Abdusattorov is Rapid World Chess Champion"
+         "title" : "17-year old Nodirbek Abdusattorov is the new Rapid World Champion"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Candidates Tournament</strong> is taking place between 16 June and 7 July in Madrid. <strong>Chess.com</strong> is the main sponsor with backing of the <strong>Scheinberg family</strong> who made their fortune with online poker and are said to be shareholders. </div> ",
@@ -98,6 +130,14 @@ news_feed (
          "title" : "Milunka Lazarevi&#263, the female Tal"
       },
       {
+         "description" : " <p class=\"lead\">Alexandra Kosteniuk is the undefeated 2021 Women's World Rapid Champion, followed by the 17-year-old Bibisara Assaubayeva, and the Russian GM Valentina Gunina. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51782207832_77e5e91e9b_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51782750252_06f4dc99cc_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51783544789_df7a173bac_k.jpg\" width=\"2048\" height=\"1429\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51784846403_287e8562c6_k.jpg\" widt",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/alexandra-kosteniuk-is-the-2021-womens-world-rapid-champion/",
+         "pubDate" : "Tue, 28 Dec 2021 17:00:00 +0000",
+         "title" : "Alexandra Kosteniuk is the 2021 Women's World Rapid Champion"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches a chess endgame class. 2021.12.28<br /> Magnus Carlsen vs Jan-Krzysztof Duda, World Rapid and Blitz Championships (2021)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2176024\">https://www.chessgames.com/perl/chessgame?gid=2176024</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-firouzja-art-accuracy-insane-endgame-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -112,14 +152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/candidates-2022-in-madrid",
          "pubDate" : "Tue, 28 Dec 2021 17:15:00 +0100",
          "title" : "Candidates 2022 in Madrid"
-      },
-      {
-         "description" : "One of the most anticipated events in the chess calendar, the FIDE World Rapid and Blitz Championship, is taking place on December 25-31 in Warsaw, Poland, at the PGE Narodowy Stadium. Follow the games live with expert commentary starting at 15.00 CET (9.00 ET, 19.30 IST). | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-and-blitz-2021-live",
-         "pubDate" : "Tue, 28 Dec 2021 14:55:00 +0100",
-         "title" : "World Rapid and Blitz Championships - Live!"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1674c576-f50d-40d2-8a23-b8459a6b97dc/Ben2.jpg\" data-image-dimensions=\"232x348\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61cb160b50c1a50427d290aa\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1674c576-f50d-40d2-8a23-b8459a6b97dc/Ben2.jpg?format=1000w\" /> </figure> <p class=\"\">On this holiday week, with The Perpetual Chess Podcast having recently turned 5 years old, it seemed like an appropriate time to feature myself as \"the guest\" on Perpetual Chess. In ",
@@ -506,20 +538,20 @@ news_feed (
          "title" : "We all make mistakes"
       },
       {
-         "description" : "That's almost it! It's the last day of the calendar, and we want to say a huge thank you for the thousands of entries! Yesterday we had to send the king to c2 because of the virtual opposition. Finally, there is a really nice endgame treat to solve.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2484",
-         "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 24"
-      },
-      {
          "description" : "\"The Queen's Gambit\" is one of the most successful Netflix series and will remain one of the best representations of chess in film. The series contains many impressive and powerful scenes, e.g. the depiction of a tournament in fast-forward mode, fittingly accompanied by the famous instrumental musical piece \"Classical Gas\" by Mason Williams.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/music-and-chess-mason-williams-classical-gas-in-the-queen-s-gambit",
          "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
          "title" : "Music and chess: Mason Williams' \"Classical Gas\" in \"The Queen's Gambit\""
+      },
+      {
+         "description" : "That's almost it! It's the last day of the calendar, and we want to say a huge thank you for the thousands of entries! Yesterday we had to send the king to c2 because of the virtual opposition. Finally, there is a really nice endgame treat to solve.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2484",
+         "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
+         "title" : "The Endgame Magic Christmas Calendar - Door 24"
       },
       {
          "description" : " <p class=\"lead\">GM Vladimir Dobrov has summed up the year's chess results. Who was the main disappointment, and who was the main hope for 2021? Who deserves the Chess Oscar, and why is Andrey Esipenko an enviable groom? We tell you. <h2>Match of the Year</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E9369147-BF45-49CB-B482-3C6E23E08584.gif\" width=\"1400\" height=\"934\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> I award this nomination to <a href=\"https://worldcup.fide.com\">the World Cup match</a> between Andrey Esipenko and Magnus Carlsen, held in sunny Sochi. The suspense in the 1/8 finals was unbelievable. Our 18-year-old from Rostov w",
@@ -2072,38 +2104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1471",
          "pubDate" : "Wed, 08 Dec 2021 17:01:11 +0000",
          "title" : "FIDE World Championship 2021: A change in mindset?"
-      },
-      {
-         "description" : "GM Jeffery Xiong won his third Titled Tuesday of 2021 on December 7, scoring 10/11. FM Khazar Babazada also made a 10/11 score but finished second on tiebreak; it was his second straight top-three finish. In a rarity, they finished a full point ah...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/xiong-wins-december-7-titled-tuesday",
-         "pubDate" : "Wed, 08 Dec 2021 08:11:00 -0800",
-         "title" : "Xiong Wins December 7 Titled Tuesday"
-      },
-      {
-         "description" : " <p class=\"lead\">Game 10 of the World Chess Championship 2021 between the World Champion Magnus Carlsen and the Challenger Ian Nepomniachtchi ended in a draw after 41 moves. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2047\" data-ratio=\"1.4996336996337\"> <img src=\"https://worldchess.com/news/pictures/51733043381_a47ccf2c0a_k-min.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51733896445_fe6a18b114_k-min.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51733031221_fef14a9ef2_k-min.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51733278183_659a7a8e9a_k-",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/carlsen-is-a-point-away-from-the-title/",
-         "pubDate" : "Wed, 08 Dec 2021 14:48:14 +0000",
-         "title" : "Carlsen is a point away from the Title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1470",
-         "pubDate" : "Wed, 08 Dec 2021 14:17:04 +0000",
-         "title" : "FIDE World Rapid and Blitz Championships will not be held in Kazakhstan in December"
-      },
-      {
-         "description" : "Click this link, then scroll to 17:46 to listen to a discussion of the future of women in chess https://www.bbc.co.uk/programmes/m00127tf",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/aga-milewska-and-jovanka-houska-on-womans-hour/",
-         "pubDate" : "Wed, 08 Dec 2021 13:00:06 +0000",
-         "title" : "Aga Milewska and Jovanka Houska on Woman's Hour"
       }
    ]
 }
