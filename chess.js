@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2021 FIDE General Assembly was held last night (starting at midnight my time), and the Papua New Guinea Chess Federation had 2 important motions on the agenda. That was until I logged into the voting system to discover that our 2 motions had been listed as a single motion for voting purposes. This was of course done without the knowledge of the PNGCF and attempts to get it fixed were unsuccessful. The main issue with this (apart from arbitrarily changing properly submitted motions) was that both motions had different chances of success. While we expected one motion to be defeated, we had high hopes that the second would be passed. And I was planning to make this point when called upon t",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/things-that-went-poorly.html",
+         "pubDate" : "Tue, 28 Dec 2021 22:10:00 +0000",
+         "title" : "Things that went poorly"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1504",
+         "pubDate" : "Tue, 28 Dec 2021 21:27:20 +0000",
+         "title" : "Nodirbek Abdusattorov and Alexandra Kosteniuk win World Rapid Championship"
+      },
+      {
          "description" : " <p class=\"lead\">The 17-year-old grandmaster from Uzbekistan defeated Ian Nepomniachtchi in the tiebreak with a score of 1.5:0.5 <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.558599695586\"> <img src=\"https://worldchess.com/news/pictures/51782918308_7883c8d6b5_k.jpg\" width=\"2048\" height=\"1314\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51783022711_7ec04d58b6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51782917443_1a973fb427_k.jpg\" width=\"2047\" height=\"1421\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51781853002_e3f9264b4e_k.jpg\" width=\"2048\" height=\"1422\" alt=\"\" /> <img src=\"https:",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -88,6 +104,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1503",
          "pubDate" : "Tue, 28 Dec 2021 12:28:17 +0000",
          "title" : "Candidates Tournament to take place in Madrid sponsored by Chess.com"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1482",
+         "pubDate" : "Tue, 28 Dec 2021 10:04:14 +0000",
+         "title" : "FIDE Congress 2021 schedule announced"
       },
       {
          "description" : " &#8220;We wish you a merry Christmas We wish you a merry Christmas We wish you a merry Christmas And a happy New Year!&#8221; Christmas carol, Unknown A number of years ago a friend of mine was gifted below porcelain figure at Christmas: Anything chess related that reaches our group of friends, makes its way to <a href=\"https://chessimprover.com/a-christmas-puzzle/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Christmas Puzzle\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-christmas-puzzle/\">A Christmas Puzzle</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -320,14 +344,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2599",
          "pubDate" : "Sat, 25 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 25"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1482",
-         "pubDate" : "Sat, 25 Dec 2021 10:04:14 +0000",
-         "title" : "FIDE Congress 2021 schedule announced"
       },
       {
          "description" : "",
@@ -2080,14 +2096,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/nepo-blunders-again-magnus-up-by-3-points/articleshow/88156369.cms",
          "pubDate" : "Wed, 08 Dec 2021 08:58:31 +0530",
          "title" : "Nepo blunders again, Magnus up by 3 points"
-      },
-      {
-         "description" : "With what was the quickest draw in the match so far, GM Magnus Carlsen consolidated his three-point lead in the 2021 FIDE World Chess Championship&#38;nbsp;on Wednesday. After a bit more than two hours, the world champion split the point with challeng...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-10",
-         "pubDate" : "Tue, 07 Dec 2021 16:00:00 -0800",
-         "title" : "Carlsen One Win From Victory After Drawing FIDE World Chess Championship Game 10"
       }
    ]
 }
