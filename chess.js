@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Levon Aronian, the Armenian star-player who recently moved to and now represents the United States, finished day one of the World Blitz Chess Championship with 10/12 and in clear first. Behind him are Egyptian GM Bassem Amin, the five-time Afri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-world-blitz-chess-championship-day-1",
+         "pubDate" : "Wed, 29 Dec 2021 17:37:04 -0800",
+         "title" : "World Blitz Chess Championship Day 1: Aronian and Assaubayeva Lead"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2096,14 +2104,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/12/09/2021-world-chess-championship-game-10/",
          "pubDate" : "Thu, 09 Dec 2021 09:08:29 +0000",
          "title" : "2021 World Chess Championship: Game #10"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/5ad646a3-a235-41cc-87f0-74642acc84a2/Jacob.Lucy2.jpg\" data-image-dimensions=\"334x384\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61b15c496f0e5c7ef3e4a4c1\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/5ad646a3-a235-41cc-87f0-74642acc84a2/Jacob.Lucy2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">GM Jacob Aagaard and Lucy </figcaption> </figure> <figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-im",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/8/world-championship-bonus-pod-4-gm-jacob-aagaard-on-the-match-plus-shaun-mccoy-with-a-report-from-dubai",
-         "pubDate" : "Thu, 09 Dec 2021 01:34:18 +0000",
-         "title" : "World Championship Bonus Pod #4- GM Jacob Aagaard on the match, plus Shaun McCoy with a report from Dubai "
       }
    ]
 }
