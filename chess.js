@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! Following are my reflections on the World Chess Championship that took place in Dubai, UAE. For years I have been doing reflection pieces for major events. It is enjoyable to go back and relive these memories. What makes this even special was that it occurred during World Expo 2020. I will also include my [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/30/reflections-of-2021-world-championship-expo-2020/\">Reflections of 2021 World Championship/EXPO 2020</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/12/30/reflections-of-2021-world-championship-expo-2020/",
+         "pubDate" : "Thu, 30 Dec 2021 20:20:58 +0000",
+         "title" : "Reflections of 2021 World Championship/EXPO 2020"
+      },
+      {
+         "description" : " <p class=\"lead\">GM Maxime Vachier-Lagrave won the 2021 World Blitz Championship on the playoff against GM Jan-Krzysztof Duda with a score of 2-1. Alireza Fiirouzja tied on the first place, but as in the World Rapid Championship, the Iranian-French GM was left out of the finals, due to FIDE's rules. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51787128132_1e4d757fa3_k-2.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51787146937_ea7f8e2a87_k-2.jpg\" width=\"2048\" height=\"1293\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51787966436_5caf118b",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/mvl-wins-the-2021-world-blitz-championship-alireza-gets-kicked-o/",
+         "pubDate" : "Thu, 30 Dec 2021 19:58:43 +0000",
+         "title" : "MVL wins the 2021 World Blitz Championship, Alireza gets kicked out of the playoff"
+      },
+      {
+         "description" : "The 2021 European Youth Blitz Chess Championships 2021 took place form 29th-30th December in Novi Sad, Serbia, with participation of more than 400 kids coming from 29 European federations. The event was played within 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately, in 9 double rounds, Swiss system. Winners of the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-blitz-chess-champions-2021-crowned/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-blitz-chess-champions-2021-crowned/",
+         "pubDate" : "Thu, 30 Dec 2021 19:40:14 +0000",
+         "title" : "European Youth Blitz Chess Champions 2021 crowned"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks at his favorite chess brilliancies of the modern era. 2021.12.30 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/modern-chess-brilliancies-grandmasters-choice-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YZDGMtHY6oA.jpg?itok=NVP8vxrW\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/modern-chess-brilliancies-grandmasters-choice-gm-denes-boros-lichessorg",
+         "pubDate" : "Thu, 30 Dec 2021 19:39:31 +0000",
+         "title" : "Modern Chess Brilliancies | Grandmaster's Choice - GM Denes Boros | lichess.org"
+      },
+      {
+         "description" : "GM Maxime Vachier-Lagrave finished first in the World Blitz Chess Championship with 15/21 in the Swiss tournament, after defeating GM Jan-Krzysztof Duda in their third blitz playoff game. Duda finished in second and GM Alireza Firouzja finished in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vachier-lagrave-assaubayeva-win-2021-fide-world-blitz-chess-championships",
+         "pubDate" : "Thu, 30 Dec 2021 11:31:00 -0800",
+         "title" : "Vachier-Lagrave, Assaubayeva Win FIDE World Blitz Chess Championships"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> <a href=\"https://www.fide.com/news/1506\">held</a> its annual <strong>General Assembly</strong> for the first time in a hybrid way with some Council and Management Board members meeting in Warsow during the <strong>World Rapid and Blitz Championship</strong> and online presentations, deliberations and voting. One of the decisions taken is that a tie at the <strong>Candidates Tournament</strong> will <a href=\"https://www.fide.com/news/1505\">not be decided by Buchholz but by rapid games</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/hybrid-fide-congress-held/",
+         "pubDate" : "Thu, 30 Dec 2021 19:44:07 +0100",
+         "title" : "Hybrid FIDE Congress held"
+      },
+      {
+         "description" : " <p class=\"lead\">IM and WGM Bibisara Assaubayeva won the 2021 FIDE Women's World Blitz Championship with a round to spare, after winning second place in the Women's Rapid Championship. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51788332724_1e6186a51f_k-2.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Anna Shtourman(FIDE)</div> </div> The 17-year-old chess prodigy from Kazakhstan had an amazing tournament, scoring 14/17, winning 13 games, and 120 blitz rating points. Assaubayeva dominated the women's tournament beating numerous GMs, including Anna Muzychuk, Alexandra Kosteniuk, Humpy Koneru, and Aleksandra Goryachkina. <a href",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/17-year-old-bibisara-assaubayeva-is-the-new-world-blitz-champion/",
+         "pubDate" : "Thu, 30 Dec 2021 18:42:44 +0000",
+         "title" : "17-year-old Bibisara Assaubayeva is the new World Blitz Champion with one round to spare"
+      },
+      {
+         "description" : "In the final episode of the year, Dutch trainer Robert Ris looks at a nice miniature in the Queen's Gambit Accepted, played at the World Rapid and Blitz Championships in Warsaw. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-an-early-pawn-sacrifice",
+         "pubDate" : "Thu, 30 Dec 2021 18:45:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: An early (and powerful) pawn sacrifice"
+      },
+      {
+         "description" : " The World Rapid and Blitz Championships took place in Warsaw Sun 26th Dec to Thu 30th Dec 2021. Leading players: Magnus Carlsen, Hikaru Nakamura, Jan-Krzysztof Duda, Ian Nepomniachtchi, MVL, Fabiano Caruana, Anish Giri, Alexander Grischuk, Sergey Karjakin etc. This should be a highly competitive and enjoyable contest. The event was last held in Moscow in 2019. 176 players are registered for the Rapid Open (down from 207 two years ago), 154 the blitz (206) the women's events have 103 for the rapid (122) and 85 for the blitz (122). Given the coronavirus crisis these figures have held up remarkably well. On the final day Hikaru Nakamura along with 3 or 4 other players had to self isolate due t",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2021",
+         "pubDate" : "Thu, 30 Dec 2021 19:53:00 +0400",
+         "title" : "World Rapid and Blitz Championships 2021 - Games and Results"
+      },
+      {
          "description" : "6-year-old Bodhana Sivanandan has just won silver medals in both the Blitz and the Rapid European Chess Championship Girls Under 8! You can see the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -250,7 +322,7 @@ news_feed (
          "title" : "Abdusattorov wins World Rapid"
       },
       {
-         "description" : "Nona Gaprindashvili wrote referring to Milunka Lazarevic: \"A literary person by profession, lively and impressionable, Lazarevic is one of the brightest figures in women's chess of the sixties\". Milunka attracted attention by her exciting, uncompromising style: sacrificing pawns and pieces and despising draws, which made her famous and endeared her to chess audiences! | Pictured: Lazarevic, David Gurgenidze and Gaprindashvili (National Parliamentary Library of Georgia)",
+         "description" : "Nona Gaprindashvili wrote referring to Milunka Lazarevic: \"A literary person by profession, lively and impressionable, Lazarevic is one of the brightest figures in women's chess of the sixties\". Milunka attracted attention by her exciting, uncompromising style: sacrificing pawns and pieces and despising draws, which made her famous and endeared her to chess audiences! | Pictured: Lazarevic, Tengiz Giorgadze and Gaprindashvili (National Parliamentary Library of Georgia)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/milunka-lazarevic-female-tal-part-1",
@@ -618,14 +690,6 @@ news_feed (
          "title" : "Asian Junior Championships 2021: Indians sweep out"
       },
       {
-         "description" : " The World Rapid and Blitz Championships take place in Warsaw Sun 26th Dec to Thu 30th Dec 2021. Leading players: Magnus Carlsen, Hikaru Nakamura, Jan-Krzysztof Duda, Ian Nepomniachtchi, MVL, Fabiano Caruana, Anish Giri, Alexander Grischuk, Sergey Karjakin etc. This should be a highly competitive and enjoyable contest. The event was last held in Moscow in 2019. 176 players are registered for the Rapid Open (down from 207 two years ago), 154 the blitz (206) the women's events have 103 for the rapid (122) and 85 for the blitz (122). Given the coronavirus crisis these figures have held up remarkably well. There has to be a concern that a coronavirus outbreak involving the new highly infectious ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2021",
-         "pubDate" : "Fri, 24 Dec 2021 19:53:00 +0400",
-         "title" : "World Rapid and Blitz Championships 2021 - Games and Results"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -922,7 +986,7 @@ news_feed (
          "title" : "Dreev Wins December 21 Titled Tuesday"
       },
       {
-         "description" : " Share!28 Elizabeth Cassidy scored 9/9 in the under-11 Girls section. Photo by KBC Sports Lewis Ncube, President of African Confederation of Chess, was recently featured on Kenya's KBC Sports TV to discuss the recent Africa Schools Individual Chess Championship held in Nairobi. He discussed the impact of COVID on chess in Africa, the dynamics of [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/22/ncube-discusses-youth-tourney-on-kenya-tv/\">Ncube discusses youth tourney on Kenya TV</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Elizabeth Cassidy scored 9/9 in the under-11 Girls section. Photo by KBC Sports Lewis Ncube, President of African Confederation of Chess, was recently featured on Kenya's KBC Sports TV to discuss the recent Africa Schools Individual Chess Championship held in Nairobi. He discussed the impact of COVID on chess in Africa, the dynamics of online [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/22/ncube-discusses-youth-tourney-on-kenya-tv/\">Ncube discusses youth tourney on Kenya TV</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/22/ncube-discusses-youth-tourney-on-kenya-tv/",
@@ -1002,28 +1066,12 @@ news_feed (
          "title" : "Exploit Small Weaknesses | Road to 2000 - NM Caleb Denby"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov features the teachings of Eduardas Rozentalis's book, \"The Correct Exchange in the Endgame.\" BUY THE BOOK: <a href=\"https://www.amazon.com/House-Staunton-Correct-Exchange-Endgame/dp/908225669X\">https://www.amazon.com/House-Staunton-Correct-Exchange-Endgame/dp/908225...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/correct-exchange-endgame-insane-endgame-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/correct-exchange-endgame-insane-endgame-gm-alex-shabalov",
-         "pubDate" : "Wed, 22 Dec 2021 04:30:24 +0000",
-         "title" : "Correct Exchange in the Endgame | Insane in the Endgame - GM Alex Shabalov"
-      },
-      {
          "description" : " FIDE President Arkady Dvorkovich making the first move in the World Chess Championship between defending champion Magnus Carlsen (left) and challenger Ian Nepomniacthchi. Photo by IM Eric Rosen The 2021 World Chess Championship took part as one of the features of the 2020 World Expo taking place in Dubai, UAE. Magnus Carlsen defended his title [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/21/chess-at-expo-2020-dubai/\">Chess at Expo 2020 Dubai</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/21/chess-at-expo-2020-dubai/",
          "pubDate" : "Wed, 22 Dec 2021 02:35:27 +0000",
          "title" : "Chess at Expo 2020 Dubai"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A <a href=\"https://lichess.org/tournament/qzRBGPLN\">bullet tournament</a> hosted by Youtuber <strong>Antonio Radic</strong>, better known as Agadmator, with roughly $60,000 in cryptocurrency sponsored by a cryptocurrency platform, attracted more than 12,000 registrants including Magnus Carlsen and other world class players, but the server crashed halfway. <strong>Lichess</strong> is <a href=\"https://twitter.com/lichess/status/1473391625523105797\">planning to restart it</a> at a later date with the interim results standing. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/lichess-crashed-during-agadmator/",
-         "pubDate" : "Tue, 21 Dec 2021 22:39:25 +0100",
-         "title" : "Lichess crashed during Agadmator tournament"
       },
       {
          "description" : "GM Sergey Karjakin and GM Richard Rapport are tied for first place after four days of rapid chess at the Vugar Gashimov Memorial in Baku, Azerbaijan. GM Viswanathan Anand is currently in last place, but there are 14 rounds of blitz to play. ...",
@@ -1064,14 +1112,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/21/ep-258-gm-matthew-sadler",
          "pubDate" : "Tue, 21 Dec 2021 14:33:57 +0000",
          "title" : "EP 258- GM Matthew Sadler "
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The field of <a href=\"https://chess24.com/en/read/news/nakamura-and-dubov-get-grand-prix-wildcards\">24 Grandprix participants (listed here)</a> has been completed by the wildcards of <strong>FIDE</strong> <a href=\"https://www.fide.com/news/1491\">to <strong>Hikaru Nakamura</strong></a>, whose last classical game was in the Grandprix in November 2019 in Hamburg, and by organiser <strong>WorldChess</strong> <a href=\"https://worldchess.com/news/all/world-chess-nominates-daniil-dubov-to-the-grand-prix-series-fear/\">to <strong>Daniil Dubov</strong></a>. Each participant will each get to play two out of three Grandprix-Tournaments in Berlin and Belgrade, s",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/nakamura-and-dubov-get-grandprix/",
-         "pubDate" : "Tue, 21 Dec 2021 14:50:00 +0100",
-         "title" : "Nakamura and Dubov get Grandprix wildcards"
       },
       {
          "description" : "",
@@ -1738,14 +1778,6 @@ news_feed (
          "title" : "What Happens If Carlsen Quits the Championship Cycle"
       },
       {
-         "description" : "The 2021 Speed Chess Championship, organized by chess.com, is coming to an end. During this week, the two semifinals decide who gets to play in Sunday's final match, in which the contenders will be fighting for a prize fund of $20,000. In the first semi, played on Monday, Wesley So edged Nihal Sarin, who came from knocking out Alexander Grischuk and Richard Rapport.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-championship-2021-semifinal-1",
-         "pubDate" : "Wed, 15 Dec 2021 08:00:00 +0100",
-         "title" : "So beats Nihal to reach Speed Chess Championship final"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88290029.cms\" />Newly-crowned double World Chess champion Magnus Carlsen says he's unlikely to defend his title unless he faces French-Iranian prodigy Alireza Firouzja.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1994,14 +2026,6 @@ news_feed (
          "title" : "2021 World Chess Championship: Game #11"
       },
       {
-         "description" : "The 2021 FIDE World Chess Championship Match between the challenger Ian Nepomniachtchi and defender Magnus Carlsen, concluded yesterday in Dubai. The match ended with final result 7.5 3.5 in favor of Magnus Carlsen, who won the FIDE World Chess Championship for the 5th consecutive time. After 5 draws in first 5 games of the match, Carlsen took&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/magnus-carlsen-defends-the-title-of-fide-world-chess-champion/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/magnus-carlsen-defends-the-title-of-fide-world-chess-champion/",
-         "pubDate" : "Sat, 11 Dec 2021 08:44:22 +0000",
-         "title" : "Magnus Carlsen defends the title of FIDE World Chess Champion"
-      },
-      {
          "description" : "Chess.com is excited to announce that the 2022 Puzzle Battle World Championship starts on January 6 at 9 a.m. PST/18:00 CET. In this electrifying event, 16 of the world&#39;s fastest tactical experts will battle for their share of the $25,000 prize fu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2058,14 +2082,6 @@ news_feed (
          "title" : "A Foundation for Beginners Forty Five"
       },
       {
-         "description" : " <p class=\"lead\">'Time to say Dubai' came to an end with Magnus Carlsen retaining his Title over Ian Nepomniachtchi, with a 7.5 to 3.5 total score. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2047\" data-ratio=\"1.4996336996337\"> <img src=\"https://worldchess.com/news/pictures/51736418177_18f7bd7d6d_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51736376227_56f81d65f4_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51738090960_3d99827af5_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51737882874_faa7180d56_k.jpg\" width=\"1639\" height=\"2048\" alt=\"\"",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-last-game-magnus-retains-his-world-champion-title-3-games-ea/",
-         "pubDate" : "Fri, 10 Dec 2021 15:53:49 +0000",
-         "title" : "The Last Game: Magnus Retains His World Champion Title Ahead of Schedule"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e2416c20-e432-4718-a1a4-674562a35dbc/Mads4.jpg\" data-image-dimensions=\"665x300\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61b37211d97c3f233664c87f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e2416c20-e432-4718-a1a4-674562a35dbc/Mads4.jpg?format=1000w\" /> </figure> <figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/83433af6-5d5c-4295-a259-c591727",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2090,52 +2106,12 @@ news_feed (
          "title" : "Carlsen is (still) the champ! - Games and commentary"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Zc_rUD0bfOs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">World Chess Championship Stream Live from Dubai</div> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/time-to-say-dubai-round-11-of-the-match/",
-         "pubDate" : "Fri, 10 Dec 2021 11:57:58 +0000",
-         "title" : "Time To Say Dubai: Round 11 of the Match"
-      },
-      {
-         "description" : "The last quarterfinal match of this year&#39;s Speed Chess Championship Main Event was between GMs Wesley So and Fabiano Caruana. The former, who just became the 2021 U.S. Champion (you can read more about that here) went on to win the match 17.5-9.5 ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-so-caruana",
-         "pubDate" : "Thu, 09 Dec 2021 20:03:00 -0800",
-         "title" : "Speed Chess Championship: So Knocks Out Caruana, Advances to SF"
-      },
-      {
          "description" : " 1001 Chess Exercises for Advanced Club Players : Frank Erwich \"Tactics is knowing what to do when there is something to do; strategy is knowing what to do when there is nothing to do.\" - Savielly Tartakower From the publishers blurb: &#8220;In this follow-up to his acclaimed 1001 Chess Exercise for Club Players, FIDE Master Frank <a href=\"http://britishchessnews.com/2021/12/10/1001-chess-exercises-for-advanced-club-players/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">1001 Chess Exercises for Advanced Club Players</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/10/1001-chess-exercises-for-advanced-",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
          "link" : "http://britishchessnews.com/2021/12/10/1001-chess-exercises-for-advanced-club-players/",
          "pubDate" : "Fri, 10 Dec 2021 00:10:53 +0000",
          "title" : "1001 Chess Exercises for Advanced Club Players"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1469",
-         "pubDate" : "Thu, 09 Dec 2021 20:30:12 +0000",
-         "title" : "GYMCHESS ® Chess based application to delay Alzheimer's and keep brain in shape announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1472",
-         "pubDate" : "Thu, 09 Dec 2021 20:09:27 +0000",
-         "title" : "Sheikh Hamdan bin Rashid Cup: Fedoseev and Salem take titles"
-      },
-      {
-         "description" : "The adventures we have had with Fritz! A unique experience was a match our program played in the Gulf state of Bahrain, back in 2002. The eight-game struggle ended in a hard-fought 4-4 draw. In a large pictorial article Frederic Friedel describes the intense battle against the reigning World Champion Vladimir Kramnik, and the three weeks spent by the ChessBase/Fritz team in a luxury hotel in Bahrain.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/thirty-years-happy-birthday-fritz-6",
-         "pubDate" : "Thu, 09 Dec 2021 18:00:00 +0100",
-         "title" : "Thirty years! Happy Birthday Fritz (5)"
       }
    ]
 }
