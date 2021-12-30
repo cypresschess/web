@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1507",
+         "pubDate" : "Wed, 29 Dec 2021 22:46:46 +0000",
+         "title" : "A wide-open race in the World Blitz as Carlsen suffers three defeats"
+      },
+      {
          "description" : " <p class=\"lead\">Day 1 of the <a href=\"https://worldrapidandblitz.fide.com\">2021 Open World Blitz Championship</a> is over with GM Levon Aronian leading the event (10/12), followed by Kravtsiv, Amin & Dubov (9.5/12). The big - unpleasant - surprise is Carlsen, who lost 3 games right after he passed 2900 rating blitz points. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2047\" data-ratio=\"1.4996336996337\"> <img src=\"https://worldchess.com/news/pictures/51786357615_73ae7151cd_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51784744407_9588c4bfcc_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2096,30 +2104,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/8/world-championship-bonus-pod-4-gm-jacob-aagaard-on-the-match-plus-shaun-mccoy-with-a-report-from-dubai",
          "pubDate" : "Thu, 09 Dec 2021 01:34:18 +0000",
          "title" : "World Championship Bonus Pod #4- GM Jacob Aagaard on the match, plus Shaun McCoy with a report from Dubai "
-      },
-      {
-         "description" : "GM Magnus Carlsen won the 2021 FIDE World Chess Championship on Friday after beating GM Ian Nepomniachtchi with the black pieces. The challenger made another big blunder and lost his fourth game in the match. The final score is 7.5-3.5 in favor of...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2021-game-11",
-         "pubDate" : "Wed, 08 Dec 2021 16:00:00 -0800",
-         "title" : "Magnus Carlsen Wins 2021 World Chess Championship"
-      },
-      {
-         "description" : " The 2021 ACT Rapidplay Championship is being held on the 18th December 2021 at 11am at King O'Malley's, City Walk, Canberra. Details are: <ul style=\"text-align: left;\"><li>Venue - King O'Malley's, City Walk, Canberra ACT (inside City Walk Arcade if it is raining)</li><li>Date - 18 December 2021 11:00am (Entries from 10:30am to 10:55 am)</li><li>Entry Fee - $10 adults, $5 juniors (under 18)</li><li>Prizes - $150 1st + other prizes ($420 in prizes were awarded in 2020)</li><li>Rounds - 7</li><li>Time control - G/15m</li><li>ACF and FIDE Rated (TBC) </li><li>ACTCA/ACTJCL Membership reqd - 2022 membership can be paid here <a href=\"https://www.trybooking.com/BWGHO\">https://www.trybooking.com/BWG",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/2021-act-rapidplay-championship.html",
-         "pubDate" : "Wed, 08 Dec 2021 22:27:00 +0000",
-         "title" : "2021 ACT Rapidplay Championship"
-      },
-      {
-         "description" : " The FIDE Qualification Commission is making some changes to how ratings are being calculated and how titles can be earned. These changes do not affect most players in a significant way, but it is still important to know what they are. In the area of ratings the major change is that the 400 point rating limit is being restricted to one game per tournament. Previously any game where the difference in rating between 2 players was treated as though they were 400 points apart. This was to benefit higher rated players who did not enjoy risking rating points against lower rated opponents, and would therefore avoid a number of events. Now this happens at most once in a tournament (against the oppon",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/changes-to-rating-and-titles.html",
-         "pubDate" : "Wed, 08 Dec 2021 22:16:00 +0000",
-         "title" : "Changes to rating and titles"
       }
    ]
 }
