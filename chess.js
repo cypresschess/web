@@ -2,11 +2,35 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All India Chess Federation a very happy birthday to First International Master of India Mr. Manuel Aaron, the nine times national champion and represented the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/happy-birthday-mr-manuel-aaron/",
+         "pubDate" : "Thu, 30 Dec 2021 06:42:44 +0000",
+         "title" : "Happy Birthday Mr. Manuel Aaron"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88581906.cms\" />Twenty-year old Indian player R Vaishali is in second place with 7.5 points from nine rounds in the women's section of the World Blitz chess championship while her countrywoman Koneru Humpy is in joint third.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-chess-championship-r-vaishali-in-2nd-place-in-womens-section-koneru-humpy-joint-third/articleshow/88581906.cms",
+         "pubDate" : "Thu, 30 Dec 2021 10:49:11 +0530",
+         "title" : "World Blitz C'ship: Vaishali in 2nd place in women's section, Humpy joint 3rd"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani traces her degrees of separation by victory to world champion Magnus Carlsen, using MagnusNumber.com. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-your-magnus-number-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GVkK4NOLyiA.jpg?itok=Hts-aOcl\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/whats-your-magnus-number-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 30 Dec 2021 04:38:45 +0000",
+         "title" : "What's Your Magnus Number? | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "GM Levon Aronian, the Armenian star-player who recently moved to and now represents the United States, finished day one of the World Blitz Chess Championship with 10/12 and in clear first. Behind him are Egyptian GM Bassem Amin, the five-time Afri...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-world-blitz-chess-championship-day-1",
-         "pubDate" : "Wed, 29 Dec 2021 17:37:04 -0800",
+         "pubDate" : "Wed, 29 Dec 2021 17:37:00 -0800",
          "title" : "World Blitz Chess Championship Day 1: Aronian and Assaubayeva Lead"
       },
       {
@@ -954,14 +978,6 @@ news_feed (
          "title" : "Chess at Expo 2020 Dubai"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alexander Shabalov teaches a chess endgame class. 2021.12.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/castle-endgame-insane-endgame-gm-alex-shabalov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/G_8ahxWbe8I.jpg?itok=A3kLxneN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/castle-endgame-insane-endgame-gm-alex-shabalov",
-         "pubDate" : "Tue, 21 Dec 2021 22:30:09 +0000",
-         "title" : "Castle in the Endgame | Insane in the Endgame - GM Alex Shabalov"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A <a href=\"https://lichess.org/tournament/qzRBGPLN\">bullet tournament</a> hosted by Youtuber <strong>Antonio Radic</strong>, better known as Agadmator, with roughly $60,000 in cryptocurrency sponsored by a cryptocurrency platform, attracted more than 12,000 registrants including Magnus Carlsen and other world class players, but the server crashed halfway. <strong>Lichess</strong> is <a href=\"https://twitter.com/lichess/status/1473391625523105797\">planning to restart it</a> at a later date with the interim results standing. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1832,14 +1848,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1477",
          "pubDate" : "Sun, 12 Dec 2021 20:16:13 +0000",
          "title" : "FIDE World Championship 2021: Crowned again"
-      },
-      {
-         "description" : "Asian Chess Federation turn 31 today!! AICF congratulate Asian Chess Federation and all the Asian Countries!! We are one Family!!",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-chess-federation-turns-31/",
-         "pubDate" : "Sun, 12 Dec 2021 15:13:49 +0000",
-         "title" : "Asian Chess Federation turns 31!!"
       },
       {
          "description" : "",
