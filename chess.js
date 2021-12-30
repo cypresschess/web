@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The holiday season at the end of the year is a great time to think about the coming year. Many people end this process by setting New Year Resolutions. I'm a big fan of planning things beforehand. This not only applies to Chess Training, but also to my life in general. In this article, I [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/new-year-resolutions-and-my-big-goal-in-2022/\">New Year Resolutions And My Big Goal In 2022</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/new-year-resolutions-and-my-big-goal-in-2022/",
+         "pubDate" : "Thu, 30 Dec 2021 11:36:01 +0000",
+         "title" : "New Year Resolutions - And My Big Goal In 2022"
+      },
+      {
+         "description" : " The topic of suitable tie-breaks has popped up again, after a 4 way tie in the 2021 World Rapid Championship. The regulations (published beforehand, and used in previous events) specified a playoff in the case of a tie for 1st. The controversy was that only the top 2 players (on tie break) were involved, which in this case were Abdusattorov and Nepomniachtchi, whith Carlsen and Caruana missing out. Despite the players being aware of the tie-break system, Carlsen immediately criticised the rules, and was backed up by other players. Pushing back were a number of arbiters/officials who pointed out that the previous tie-break were changed at the request of the players, and had been used in the ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/there-are-no-perfect-tie-breaks.html",
+         "pubDate" : "Thu, 30 Dec 2021 11:32:00 +0000",
+         "title" : "There are no perfect tie-breaks"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Candidates Tournament</strong> is taking place between 16 June and 7 July in Madrid. <strong>Chess.com</strong> is the main sponsor with backing of the <strong>Scheinberg family</strong> who made their fortune with online poker and are Chess.com shareholders. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
