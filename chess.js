@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Candidates Tournament</strong> is taking place between 16 June and 7 July in Madrid. <strong>Chess.com</strong> is the main sponsor with backing of the <strong>Scheinberg family</strong> who made their fortune with online poker and are Chess.com shareholders. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2021/madrid-stages-candidates/",
+         "pubDate" : "Thu, 30 Dec 2021 10:52:17 +0100",
+         "title" : "Madrid stages Candidates"
+      },
+      {
          "description" : "All India Chess Federation a very happy birthday to First International Master of India Mr. Manuel Aaron, the nine times national champion and represented the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -42,7 +50,7 @@ news_feed (
          "title" : "A wide-open race in the World Blitz as Carlsen suffers three defeats"
       },
       {
-         "description" : " <p class=\"lead\">Day 1 of the <a href=\"https://worldrapidandblitz.fide.com\">2021 Open World Blitz Championship</a> is over with GM Levon Aronian leading the event (10/12), followed by Kravtsiv, Amin & Dubov (9.5/12). The big - unpleasant - surprise is Carlsen, who lost 3 games right after he passed 2900 rating blitz points. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2047\" data-ratio=\"1.4996336996337\"> <img src=\"https://worldchess.com/news/pictures/51786357615_73ae7151cd_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51784744407_9588c4bfcc_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures",
+         "description" : " <p class=\"lead\">Day 1 of the <a href=\"https://worldrapidandblitz.fide.com\">2021 Open World Blitz Championship</a> is over with GM Levon Aronian leading the event (10/12), followed by Bassem Amin (9.5/12), and Parham Maghsoodloo (9/12). The big - unpleasant - surprise is Carlsen, who lost 3 games right after he passed 2900 rating blitz points. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2047\" data-ratio=\"1.4996336996337\"> <img src=\"https://worldchess.com/news/pictures/51786357615_73ae7151cd_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51784744407_9588c4bfcc_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldche",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/2021-world-blitz-championship-magnus-loses-3-games-aronian-is-a/",
@@ -192,14 +200,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nodirbek-abdusattorov-is-world-rapid-chess-champion/",
          "pubDate" : "Tue, 28 Dec 2021 20:24:04 +0000",
          "title" : "17-year old Nodirbek Abdusattorov is the new Rapid World Champion"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Candidates Tournament</strong> is taking place between 16 June and 7 July in Madrid. <strong>Chess.com</strong> is the main sponsor with backing of the <strong>Scheinberg family</strong> who made their fortune with online poker and are said to be shareholders. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/madrid-stages-candidates/",
-         "pubDate" : "Tue, 28 Dec 2021 20:28:51 +0100",
-         "title" : "Madrid stages Candidates"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Nodirbek Abdusattorov</strong> and the regulations spoilt the <strong>Rapid World Championship</strong> in Warsow for <strong>Magnus Carlsen</strong>. The world champion led after two days but lost the first game of the final day against the 17-year-old Uzbek, who claimed the title after winning the blitz tie-break against <strong>Ian Nepomniachtchi</strong>. Carlsen and <strong>Fabiano Caruana</strong> also ended on 9,5 points out of 14 but were left out. <strong>Alexandra Kosteniuk</strong> won the women's event. </div> ",
@@ -2104,14 +2104,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/nutrition-in-chess/",
          "pubDate" : "Thu, 09 Dec 2021 15:00:00 +0000",
          "title" : "Eat Like A Champion - Nutrition In Chess"
-      },
-      {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 10 Match Score: 6&frac12;-3&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 10 Wednesday, 8 December 2021 A quiet draw today after three wins in four games. In the last phase of the match, we hope to see attempts by Ian Nepomniachtchi to get on the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/09/2021-world-chess-championship-game-10/\">2021 World Chess Championship: Game #10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/12/09/2021-world-chess-championship-game-10/",
-         "pubDate" : "Thu, 09 Dec 2021 09:08:29 +0000",
-         "title" : "2021 World Chess Championship: Game #10"
       }
    ]
 }
