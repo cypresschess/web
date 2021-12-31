@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nona Gaprindashvili wrote referring to Milunka Lazarevic: \"A literary person by profession, lively and impressionable, Lazarevic is one of the brightest figures in women's chess of the sixties\". Milunka attracted attention by her exciting, uncompromising style: sacrificing pawns and pieces and despising draws, which made her famous and endeared her to chess audiences! | Photo: Balkan Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/milunka-lazarevic-female-tal-part-2",
+         "pubDate" : "Fri, 31 Dec 2021 21:10:00 +0100",
+         "title" : "Milunka Lazarevi&#263: \"Tal is my Zeus\""
+      },
+      {
+         "description" : " Share! Brewington Hardaway winning Pan-Am Youth Chess Festival last October Photo courtesy of ChessKid.com Brewington Hardaway's recent success at the K12 Championship in Orlando has been on an improvement course that has been slow and steady. Two years ago, Hardaway became a National Master at age 10, he continued to play online despite the reduction [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/31/brewington-hardaway-continues-to-climb/\">Brewington Hardaway continues to climb!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2021/12/31/brewington-hardaway-continues-to-climb/",
+         "pubDate" : "Fri, 31 Dec 2021 18:59:03 +0000",
+         "title" : "Brewington Hardaway continues to climb!"
+      },
+      {
+         "description" : "On the last day of 2021, GM Daniel King looks at games from the World Blitz Championship, including two fascinating King's Gambits played by Ian Nepomniachtchi and a fabulous queen sacrifice by Levon Aronian. Happy New Year! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-nepo-plays-the-kings-gambit",
+         "pubDate" : "Fri, 31 Dec 2021 19:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Nepo plays the King's Gambit"
+      },
+      {
+         "description" : " I hope you all had a wonderful holiday season. It's now time to start the new year, which will hopefully, bring us all some much needed relief! This week, we're going to look at a tactic called the skewer which is a close cousin to the pin. This will be an easy lesson because the <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-seven/\">A Foundation for Beginners Forty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-seven/",
+         "pubDate" : "Fri, 31 Dec 2021 17:35:09 +0000",
+         "title" : "A Foundation for Beginners Forty Seven"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1509",
+         "pubDate" : "Fri, 31 Dec 2021 16:43:36 +0000",
+         "title" : "Kenya Championship: Martin Njoroge and Sasha Mongeli clinch titles"
+      },
+      {
          "description" : " but nothing too drastic. When you visit the calendar page you'll notice a new button (Expand) near the top of the calendar itself &#8212;...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -82,7 +122,7 @@ news_feed (
          "title" : "Chess: 17-year-old shocks Carlsen and becomes youngest world rapid winner"
       },
       {
-         "description" : " Share!22 Following are my reflections on the World Chess Championship that took place in Dubai, UAE. For years I have been doing reflection pieces for major events. It is enjoyable to go back and relive these memories. What makes this more special was that it occurred during World Expo 2020. I will also include my [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/30/reflections-of-2021-world-championship-expo-2020/\">Reflections of 2021 World Championship/EXPO 2020</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Following are my reflections on the World Chess Championship that took place in Dubai, UAE. For years I have been doing reflection pieces for major events. It is enjoyable to go back and relive these memories. What makes this more special was that it occurred during World Expo 2020. I will also include my impressions [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/30/reflections-of-2021-world-championship-expo-2020/\">Reflections of 2021 World Championship/EXPO 2020</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/30/reflections-of-2021-world-championship-expo-2020/",
@@ -1738,28 +1778,12 @@ news_feed (
          "title" : "Sunway Sitges Open: 19 players start with 3.0/3"
       },
       {
-         "description" : "This week, Merijn van Delft takes a looks at a theoretically interesting King's Indian, played by Boris Gelfand and Gawain Jones at the London Chess Classic 2021. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-494-b-gelfand-vs-g-jones",
-         "pubDate" : "Wed, 15 Dec 2021 19:00:00 +0100",
-         "title" : "Game of the Week #494: B. Gelfand vs G. Jones"
-      },
-      {
          "description" : "With a victory in the final round, GM Jose Martinez won Titled Tuesday on December 14 with a score of 10/11. Coming in second place was last week&#39;s victor, GM Jeffery Xiong, with 9.5/11. GM Alexey Sarana and NM Valery Sviridov had the best tiebrea...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/martinez-wins-december-14-titled-tuesday",
          "pubDate" : "Wed, 15 Dec 2021 09:10:00 -0800",
          "title" : "Martinez Wins December 14 Titled Tuesday"
-      },
-      {
-         "description" : "The new ChessBase Magazine Extra #204 offers a collection top games with top annotations, including analyses by Anish Giri, Peter Heine Nielsen and Romain Edouard. Christian Bauer and Mihail Marin provide the two opening videos in this issue. The Scandinavian expert from France presents various ways of avoiding an extremely critical variation with Black in the system with 3&hellip;Qa5. Mihail Marin's video claims that \"The Catalan is still alive!\", which he illustrates with the game Daniel Deac - Lucas van Foreest from the 2021 European Championship. Watch an excerpt from both videos!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/scandinavian-evasive-manoeuvres-and-a-catalan-booster",
-         "pubDate" : "Wed, 15 Dec 2021 16:00:00 +0100",
-         "title" : "Evasive manoeuvres in the Scandinavian and a Catalan booster"
       },
       {
          "description" : "The 2021 European Rapid&#38;Blitz Chess Championships 2021 kick off on Friday, 17th of December in Katowice, Poland. The first event on the schedule will be the European Blitz Chess Championship 2021 which will be held on 17th of December. The event will be played in 11 double rounds, Swiss system, with time control 3 min + 2 sec.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-rapidblitz-chess-championships-2021-start-in-katowice/\">Read More &#187;</a></span>",
@@ -2072,46 +2096,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/12/11/2021-world-chess-championship-game-11/",
          "pubDate" : "Sat, 11 Dec 2021 09:16:44 +0000",
          "title" : "2021 World Chess Championship: Game #11"
-      },
-      {
-         "description" : "Chess.com is excited to announce that the 2022 Puzzle Battle World Championship starts on January 6 at 9 a.m. PST/18:00 CET. In this electrifying event, 16 of the world&#39;s fastest tactical experts will battle for their share of the $25,000 prize fu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-2022-puzzle-battle-world-championship",
-         "pubDate" : "Fri, 10 Dec 2021 12:28:00 -0800",
-         "title" : "Chess.com Announces The 2022 Puzzle Battle World Championship"
-      },
-      {
-         "description" : " Superb live online coverage of this World Chess Championship expertly followed the most dominant win in a century Magnus Carlsen <a href=\"https://www.theguardian.com/sport/live/2021/dec/10/magnus-carlsen-v-ian-nepomniachtchi-world-chess-championship-game-11-live\" title=\"\">wrapped up his world championship defence</a> yesteron Friday afternoon in Dubai when his Russian rival Ian Nepomniachtchi, already demoralised by a succession of defeats, blundered badly in a level position in the 11th game of their best of 14 games series, and resigned after 49 moves and three and a half hours play. Asked what he thought helped him dominate the match, Carlsen replied: \"In simple positions I made very few",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/dec/10/chess-carlsen-on-cusp-of-victory-as-nepomniachtchi-wilts-after-marathon",
-         "pubDate" : "Fri, 10 Dec 2021 19:24:17 +0000",
-         "title" : "Magnus Carlsen's world title victory also proves big win for online fans | Leonard Barden"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1474",
-         "pubDate" : "Fri, 10 Dec 2021 18:28:18 +0000",
-         "title" : "Magnus Carlsen wins his fifth consecutive world title match"
-      },
-      {
-         "description" : "Carlsen defeated Ian Nepomniachtchi 7.5 - 3.5 at the 2021 FIDE World Chess Championships in Dubai to win his fifth title.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32837284/magnus-carlsen-wins-fide-world-chess-championship-ian-nepomniachtchi?device=featurephone",
-         "pubDate" : "Fri, 10 Dec 2021 12:05:33 -0500",
-         "title" : "Magnus Carlsen wins fifth FIDE World Chess Championship"
-      },
-      {
-         "description" : " Magnus Carlsen won his fifth World Chess Championship match by the crushing score of 7.5-3.5. His opponent Ian Nepomniachtchi suffered yet another unnecessary loss as his ability to execute even the most basic of calculations again eluded him. Nepomniachtchi had white in Game 11 and he switched to a Giuoco Pianissimo for the first time in the match. Nepomniachtchi didn't manage to put any real pressure on Carlsen. The opening is very flexible with many acceptable moves for both sides. Carlsen's 7...Ba7 was already pretty rare and the new move 10.Be3 didn't seem very critical. After 13.Bxe6 Carlsen - for whom a draw was obviously just fine - was completely equal. After 20.d4 there was a fina",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/carlsen-retains-his-title-after-a-another-puzzling-error-from-nepomniachtchi",
-         "pubDate" : "Fri, 10 Dec 2021 20:44:00 +0400",
-         "title" : "Carlsen retains his title after a another puzzling error from Nepomniachtchi - 11"
       }
    ]
 }
