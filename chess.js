@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1508",
+         "pubDate" : "Thu, 30 Dec 2021 22:53:01 +0000",
+         "title" : "Maxime Vachier-Lagrave is the new world blitz champion"
+      },
+      {
+         "description" : " Nodirbek Abdusattorov of Uzbekistan defeats Carlsen, Fabiano Caruana and Ian Nepomniachtchi to become youngest ever world champion in open competition A little-known 17-year-old from Uzbekistan made a clean sweep of Magnus Carlsen and the global chess elite on Tuesday, incidentally setting a new world age record. Nodirbek Abdusattorov won the World Rapid championship in Warsaw, claiming en route the scalps of Magnus Carlsen and the No 1's last two challengers, Fabiano Caruana and Ian Nepomniachtchi. In rapid chess, each player has 15 minutes for all moves, plus a 10 second per move increment. After 21 rounds of three-minute games on Wednesday and Thursday, France's Maxime Vachier-Lagrave de",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2021/dec/30/chess-17-year-old-shocks-carlsen-and-becomes-youngest-world-rapid-winner",
+         "pubDate" : "Thu, 30 Dec 2021 22:07:10 +0000",
+         "title" : "Chess: 17-year-old shocks Carlsen and becomes youngest world rapid winner"
+      },
+      {
          "description" : " Share! Following are my reflections on the World Chess Championship that took place in Dubai, UAE. For years I have been doing reflection pieces for major events. It is enjoyable to go back and relive these memories. What makes this even special was that it occurred during World Expo 2020. I will also include my [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/30/reflections-of-2021-world-championship-expo-2020/\">Reflections of 2021 World Championship/EXPO 2020</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2104,14 +2120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-championship-2021-live",
          "pubDate" : "Fri, 10 Dec 2021 13:00:00 +0100",
          "title" : "Carlsen is (still) the champ! - Games and commentary"
-      },
-      {
-         "description" : " 1001 Chess Exercises for Advanced Club Players : Frank Erwich \"Tactics is knowing what to do when there is something to do; strategy is knowing what to do when there is nothing to do.\" - Savielly Tartakower From the publishers blurb: &#8220;In this follow-up to his acclaimed 1001 Chess Exercise for Club Players, FIDE Master Frank <a href=\"http://britishchessnews.com/2021/12/10/1001-chess-exercises-for-advanced-club-players/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">1001 Chess Exercises for Advanced Club Players</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/10/1001-chess-exercises-for-advanced-",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/12/10/1001-chess-exercises-for-advanced-club-players/",
-         "pubDate" : "Fri, 10 Dec 2021 00:10:53 +0000",
-         "title" : "1001 Chess Exercises for Advanced Club Players"
       }
    ]
 }
