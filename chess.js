@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " but nothing too drastic. When you visit the calendar page you'll notice a new button (Expand) near the top of the calendar itself &#8212;...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/changes-to-the-ecf-calendar/",
+         "pubDate" : "Fri, 31 Dec 2021 16:11:57 +0000",
+         "title" : "Changes to the ECF calendar &hellip;"
+      },
+      {
+         "description" : " Predicting what will happen in world chess in 2022 is a risky proposition. Just as it looks like things are on the up, a new covid strain, or outbreak comes along to throw everything into conclusion. This means exactly which events will, or will not happen, is quite difficult. At this stage local events like the 2022 O2C Doeberl Cup will be running. The ACT Government has been pretty flexible with restrictions, and given the low infection rate and high vaccination rate, I would be surprised if there is a shutdown in the ACT. Slightly trickier is guessing whether there will be travel restrictions between states, although the constant redefinition of infection periods (or what a close contact",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2021/12/things-to-look-forward-to-in-2022.html",
+         "pubDate" : "Fri, 31 Dec 2021 12:45:00 +0000",
+         "title" : "Things to look forward to in 2022"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88616354.cms\" />India's teenage Grandmaster P Iniyan finished a creditable third in the Lorca Open 2021 chess tournament here.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/modern-chess-brilliancies-grandmasters-choice-gm-denes-boros-lichessorg",
          "pubDate" : "Thu, 30 Dec 2021 19:39:31 +0000",
          "title" : "Modern Chess Brilliancies | Grandmaster's Choice - GM Denes Boros | lichess.org"
-      },
-      {
-         "description" : "GM Maxime Vachier-Lagrave finished first in the World Blitz Chess Championship with 15/21 in the Swiss tournament, after defeating GM Jan-Krzysztof Duda in their third blitz playoff game. Duda finished in second and GM Alireza Firouzja finished in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vachier-lagrave-assaubayeva-win-2021-fide-world-blitz-chess-championships",
-         "pubDate" : "Thu, 30 Dec 2021 11:31:00 -0800",
-         "title" : "Vachier-Lagrave, Assaubayeva Win FIDE World Blitz Chess Championships"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> <a href=\"https://www.fide.com/news/1506\">held</a> its annual <strong>General Assembly</strong> for the first time in a hybrid way with some Council and Management Board members meeting in Warsow during the <strong>World Rapid and Blitz Championship</strong> and online presentations, deliberations and voting. One of the decisions taken is that a tie at the <strong>Candidates Tournament</strong> will <a href=\"https://www.fide.com/news/1505\">not be decided by Buchholz but by rapid games</a>. </div> ",
@@ -2066,6 +2074,14 @@ news_feed (
          "title" : "2021 World Chess Championship: Game #11"
       },
       {
+         "description" : "Chess.com is excited to announce that the 2022 Puzzle Battle World Championship starts on January 6 at 9 a.m. PST/18:00 CET. In this electrifying event, 16 of the world&#39;s fastest tactical experts will battle for their share of the $25,000 prize fu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-announces-2022-puzzle-battle-world-championship",
+         "pubDate" : "Fri, 10 Dec 2021 12:28:00 -0800",
+         "title" : "Chess.com Announces The 2022 Puzzle Battle World Championship"
+      },
+      {
          "description" : " Superb live online coverage of this World Chess Championship expertly followed the most dominant win in a century Magnus Carlsen <a href=\"https://www.theguardian.com/sport/live/2021/dec/10/magnus-carlsen-v-ian-nepomniachtchi-world-chess-championship-game-11-live\" title=\"\">wrapped up his world championship defence</a> yesteron Friday afternoon in Dubai when his Russian rival Ian Nepomniachtchi, already demoralised by a succession of defeats, blundered badly in a level position in the 11th game of their best of 14 games series, and resigned after 49 moves and three and a half hours play. Asked what he thought helped him dominate the match, Carlsen replied: \"In simple positions I made very few",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2096,30 +2112,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2021/carlsen-retains-his-title-after-a-another-puzzling-error-from-nepomniachtchi",
          "pubDate" : "Fri, 10 Dec 2021 20:44:00 +0400",
          "title" : "Carlsen retains his title after a another puzzling error from Nepomniachtchi - 11"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88212840.cms\" />Norway's Magnus Carlsen claimed his fifth world chess crown in Dubai on Friday with a crushing 7.5-3.5 victory against Ian Nepomniachtchi, who faded badly after going toe-to-toe with the Norwegian defending champion in the early games.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-retains-world-chess-title/articleshow/88212840.cms",
-         "pubDate" : "Fri, 10 Dec 2021 21:54:29 +0530",
-         "title" : "Magnus Carlsen retains world chess title"
-      },
-      {
-         "description" : " We spent a few weeks talking about the place tactics has in your tool box of chess skills. I stated that tactics was an important part of your skill set, but not the only tool to rely upon to win games. Today we are going to enter the world of tactics in detail, and look <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-five/\">A Foundation for Beginners Forty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-five/",
-         "pubDate" : "Fri, 10 Dec 2021 16:07:21 +0000",
-         "title" : "A Foundation for Beginners Forty Five"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e2416c20-e432-4718-a1a4-674562a35dbc/Mads4.jpg\" data-image-dimensions=\"665x300\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61b37211d97c3f233664c87f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e2416c20-e432-4718-a1a4-674562a35dbc/Mads4.jpg?format=1000w\" /> </figure> <figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/83433af6-5d5c-4295-a259-c591727",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/10/book-recap-21-discussing-a-first-book-of-morphy-with-mads-jnsson",
-         "pubDate" : "Fri, 10 Dec 2021 15:03:32 +0000",
-         "title" : "Book Recap #21- Discussing A First Book of Morphy with Mads J&oslash;nsson"
       }
    ]
 }
