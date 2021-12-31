@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88616354.cms\" />India's teenage Grandmaster P Iniyan finished a creditable third in the Lorca Open 2021 chess tournament here.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/iniyan-finishes-third-in-lorca-open-chess/articleshow/88616354.cms",
+         "pubDate" : "Fri, 31 Dec 2021 17:25:58 +0530",
+         "title" : "Iniyan finishes third in Lorca Open chess"
+      },
+      {
+         "description" : "Duplex problems are loosely defined as satisfying the same stipulation with the colours reversed, and are typically found in helpmates. In this article, Azlan Iqbal expounds on the much rarer variety that applies to direct mates. Using incidental examples taken from his computer-generated chess problem collection and a couple by human composers, he challenges readers to compose some of their own. For starters you can try to solve the problem shown in our picture. Both White and Black can mate in five, if they have the first move.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/introducing-mutual-mate-problems-2",
+         "pubDate" : "Fri, 31 Dec 2021 12:00:00 +0100",
+         "title" : "Introducing 'Mutual Mate' Problems"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88610273.cms\" />India's top player Koneru Humpy finished fifth in the women's event of the FIDE World Blitz championship while her compatriot R Vaishali, who was in second spot after nine rounds, slipped to 14th here.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -42,7 +58,7 @@ news_feed (
          "title" : "Maxime Vachier-Lagrave is the new world blitz champion"
       },
       {
-         "description" : " Nodirbek Abdusattorov of Uzbekistan defeats Carlsen, Fabiano Caruana and Ian Nepomniachtchi to become youngest ever world champion in open competition A little-known 17-year-old from Uzbekistan made a clean sweep of Magnus Carlsen and the global chess elite on Tuesday, incidentally setting a new world age record. Nodirbek Abdusattorov won the World Rapid championship in Warsaw, claiming en route the scalps of Magnus Carlsen and the No 1's last two challengers, Fabiano Caruana and Ian Nepomniachtchi. In rapid chess, each player has 15 minutes for all moves, plus a 10 second per move increment. After 21 rounds of three-minute games on Wednesday and Thursday, France's Maxime Vachier-Lagrave de",
+         "description" : " Nodirbek Abdusattorov of Uzbekistan defeats Carlsen, Fabiano Caruana and Ian Nepomniachtchi to become youngest ever world champion in open competition A little-known 17-year-old from Uzbekistan made a clean sweep of Magnus Carlsen and the global chess elite on Tuesday, incidentally setting a world age record. Nodirbek Abdusattorov won the World Rapid championship in Warsaw, claiming en route the scalps of Magnus Carlsen and the No 1's last two challengers, Fabiano Caruana and Ian Nepomniachtchi. In rapid chess each player has 15 minutes for all moves, plus a 10 second per move increment. After 21 rounds of three-minute games on Wednesday and Thursday, France's Maxime Vachier-Lagrave defeate",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2021/dec/30/chess-17-year-old-shocks-carlsen-and-becomes-youngest-world-rapid-winner",
@@ -50,7 +66,7 @@ news_feed (
          "title" : "Chess: 17-year-old shocks Carlsen and becomes youngest world rapid winner"
       },
       {
-         "description" : " Share! Following are my reflections on the World Chess Championship that took place in Dubai, UAE. For years I have been doing reflection pieces for major events. It is enjoyable to go back and relive these memories. What makes this more special was that it occurred during World Expo 2020. I will also include my [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/30/reflections-of-2021-world-championship-expo-2020/\">Reflections of 2021 World Championship/EXPO 2020</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!22 Following are my reflections on the World Chess Championship that took place in Dubai, UAE. For years I have been doing reflection pieces for major events. It is enjoyable to go back and relive these memories. What makes this more special was that it occurred during World Expo 2020. I will also include my [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/30/reflections-of-2021-world-championship-expo-2020/\">Reflections of 2021 World Championship/EXPO 2020</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/30/reflections-of-2021-world-championship-expo-2020/",
@@ -1762,14 +1778,6 @@ news_feed (
          "title" : "Oops! I Resigned Again"
       },
       {
-         "description" : "After Magnus Carlsen convincingly won the World Championship match 7.5-3.5 against challenger Ian Nepomniachtchi, the old and new World Champion seems to be tired of defending his title. In a Norwegian podcast interview with his friend Magnus Barstad, Carlsen indicated that he lacked the motivation to defend his title again. Unless the next challenger would be Alireza Firouzja. | Photo: FIDE | Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/no-more-world-championship-matches-for-carlsen",
-         "pubDate" : "Wed, 15 Dec 2021 12:54:56 +0100",
-         "title" : "No more World Championship matches for Carlsen?"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2112,22 +2120,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/10/book-recap-21-discussing-a-first-book-of-morphy-with-mads-jnsson",
          "pubDate" : "Fri, 10 Dec 2021 15:03:32 +0000",
          "title" : "Book Recap #21- Discussing A First Book of Morphy with Mads J&oslash;nsson"
-      },
-      {
-         "description" : " Tonight could very well see the final game of the 2021 World Championship Match. A win for Carlsen would see him reach 7.5 points, the score he needs to retain his title. Even a draw would see Carlsen reach 7, so the worse that could happen was a round of tie-breaks. Going into this game I can't see Nepo pulling back a full point. He might draw the game, postponing the inevitable, or over press, resulting in a win for Carlsen (in a similar ending to the 2013 World Championship Match). If I was a betting man, I would give Carlsen a 33% change of winning, and a 66% chance of it being a draw. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/do-or-die-for-nepo.html",
-         "pubDate" : "Fri, 10 Dec 2021 12:05:00 +0000",
-         "title" : "Do or die for Nepo"
-      },
-      {
-         "description" : "Magnus Carlsen picked up a fourth win at the World Championship match in Dubai to secure overall victory with three games to spare. Playing black, the world champion saw Ian Nepomniachtchi all but self-destructing for a third time in the match. This was Carlsen's fourth consecutive defence of the title after becoming world champion in 2013. | Replay all the games with computer analysis. Full report to follow shortly | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2021-live",
-         "pubDate" : "Fri, 10 Dec 2021 13:00:00 +0100",
-         "title" : "Carlsen is (still) the champ! - Games and commentary"
       }
    ]
 }
