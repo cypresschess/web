@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Maxime Vachier-Lagrave (also known as MVL) finished first in the World Blitz Chess Championship with 15/21 in the Swiss tournament, after defeating GM Jan-Krzysztof Duda in their third blitz playoff game. Duda finished in second and GM Alireza ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-world-blitz-chess-championship-day-2-vachier-lagrave-assaubayeva-win",
+         "pubDate" : "Thu, 30 Dec 2021 17:00:13 -0800",
+         "title" : "World Blitz Chess Championship Day 2: Vachier-Lagrave and Assaubayeva New World Blitz Champions"
+      },
+      {
+         "description" : "Maxime Vachier-Lagrave won the world title in blitz chess after beating Jan-Krzysztof Duda in a playoff. Alireza Firouzja scored as many points as MVL and Duda, but had an inferior tiebreak score. The women's world title went to 17-year-old Kazakh star Bibisara Assaubayeva. | Photos: Rafał Oleksiewicz, Anna Shtourman / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-and-blitz-2021-day-5",
+         "pubDate" : "Fri, 31 Dec 2021 00:15:00 +0100",
+         "title" : "Vachier-Lagrave and Assaubayeva are the 2021 World Blitz Champions"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "Chess: 17-year-old shocks Carlsen and becomes youngest world rapid winner"
       },
       {
-         "description" : " Share! Following are my reflections on the World Chess Championship that took place in Dubai, UAE. For years I have been doing reflection pieces for major events. It is enjoyable to go back and relive these memories. What makes this even special was that it occurred during World Expo 2020. I will also include my [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/30/reflections-of-2021-world-championship-expo-2020/\">Reflections of 2021 World Championship/EXPO 2020</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share! Following are my reflections on the World Chess Championship that took place in Dubai, UAE. For years I have been doing reflection pieces for major events. It is enjoyable to go back and relive these memories. What makes this more special was that it occurred during World Expo 2020. I will also include my [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/30/reflections-of-2021-world-championship-expo-2020/\">Reflections of 2021 World Championship/EXPO 2020</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/30/reflections-of-2021-world-championship-expo-2020/",
@@ -1746,14 +1762,6 @@ news_feed (
          "title" : "No more World Championship matches for Carlsen?"
       },
       {
-         "description" : "Were you able to force \"Stamma's\" mate with the knight yesterday? It only works if the king goes to the square f3. The rest should be easy. Now it's getting more difficult again! Today, it looks like you can give up immediately. But the riddle will end in a draw if the right move is found for Black.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-15345",
-         "pubDate" : "Wed, 15 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 15"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2040,14 +2048,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/12/11/2021-world-chess-championship-game-11/",
          "pubDate" : "Sat, 11 Dec 2021 09:16:44 +0000",
          "title" : "2021 World Chess Championship: Game #11"
-      },
-      {
-         "description" : "Chess.com is excited to announce that the 2022 Puzzle Battle World Championship starts on January 6 at 9 a.m. PST/18:00 CET. In this electrifying event, 16 of the world&#39;s fastest tactical experts will battle for their share of the $25,000 prize fu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-2022-puzzle-battle-world-championship",
-         "pubDate" : "Fri, 10 Dec 2021 12:28:00 -0800",
-         "title" : "Chess.com Announces The 2022 Puzzle Battle World Championship"
       },
       {
          "description" : " Superb live online coverage of this World Chess Championship expertly followed the most dominant win in a century Magnus Carlsen <a href=\"https://www.theguardian.com/sport/live/2021/dec/10/magnus-carlsen-v-ian-nepomniachtchi-world-chess-championship-game-11-live\" title=\"\">wrapped up his world championship defence</a> yesteron Friday afternoon in Dubai when his Russian rival Ian Nepomniachtchi, already demoralised by a succession of defeats, blundered badly in a level position in the 11th game of their best of 14 games series, and resigned after 49 moves and three and a half hours play. Asked what he thought helped him dominate the match, Carlsen replied: \"In simple positions I made very few",
