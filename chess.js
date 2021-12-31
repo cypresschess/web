@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88610273.cms\" />India's top player Koneru Humpy finished fifth in the women's event of the FIDE World Blitz championship while her compatriot R Vaishali, who was in second spot after nine rounds, slipped to 14th here.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-chess-championship-koneru-humpy-takes-5th-spot-r-vaishali-ends-up-14th/articleshow/88610273.cms",
+         "pubDate" : "Fri, 31 Dec 2021 13:10:53 +0530",
+         "title" : "World Blitz Chess Championship: Koneru Humpy takes 5th spot, R Vaishali ends up 14th"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks at his favorite chess brilliancies of the modern era. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/top-3-modern-chess-brilliancies-youve-never-seen-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YZDGMtHY6oA.jpg?itok=NVP8vxrW\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/top-3-modern-chess-brilliancies-youve-never-seen-grandmasters-choice-gm-denes-boros",
+         "pubDate" : "Fri, 31 Dec 2021 04:40:02 +0000",
+         "title" : "Top 3 Modern Chess Brilliancies You've Never Seen! | Grandmaster's Choice - GM Denes Boros"
+      },
+      {
          "description" : "GM Maxime Vachier-Lagrave (also known as MVL) finished first in the World Blitz Chess Championship with 15/21 in the Swiss tournament, after defeating GM Jan-Krzysztof Duda in their third blitz playoff game. Duda finished in second and GM Alireza ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2021-world-blitz-chess-championship-day-2-vachier-lagrave-assaubayeva-win",
-         "pubDate" : "Thu, 30 Dec 2021 17:00:13 -0800",
+         "pubDate" : "Thu, 30 Dec 2021 17:00:00 -0800",
          "title" : "World Blitz Chess Championship Day 2: Vachier-Lagrave and Assaubayeva New World Blitz Champions"
       },
       {
@@ -42,7 +58,7 @@ news_feed (
          "title" : "Reflections of 2021 World Championship/EXPO 2020"
       },
       {
-         "description" : " <p class=\"lead\">GM Maxime Vachier-Lagrave won the 2021 World Blitz Championship on the playoff against GM Jan-Krzysztof Duda with a score of 2-1. Alireza Fiirouzja tied on the first place, but as in the World Rapid Championship, the Iranian-French GM was left out of the finals, due to FIDE's rules. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51787128132_1e4d757fa3_k-2.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51787146937_ea7f8e2a87_k-2.jpg\" width=\"2048\" height=\"1293\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51787966436_5caf118b",
+         "description" : " <p class=\"lead\">GM Maxime Vachier-Lagrave won the 2021 World Blitz Championship on the playoff against GM Jan-Krzysztof Duda with a score of 2-1. Alireza Firouzja tied on the first place, but as in the World Rapid Championship, the Iranian-French GM was left out of the finals, due to FIDE's rules. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51787128132_1e4d757fa3_k-2.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51787146937_ea7f8e2a87_k-2.jpg\" width=\"2048\" height=\"1293\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51787966436_5caf118bb",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/mvl-wins-the-2021-world-blitz-championship-alireza-gets-kicked-o/",
@@ -1088,14 +1104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gashimov-memorial-rapport-and-karjakin-win-rapid-section",
          "pubDate" : "Wed, 22 Dec 2021 09:29:14 +0100",
          "title" : "Gashimov Memorial: Rapport and Karjakin win rapid section"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby goes to work hard to exploit small weaknesses, wiggling them, making them bigger, then winning. The mysterious masked Caleb uses a recent example of his own from lichess.org. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exploit-small-weaknesses-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/otiSPKCfE1U.jpg?itok=5O1hf_3C\" al",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exploit-small-weaknesses-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 22 Dec 2021 04:30:24 +0000",
-         "title" : "Exploit Small Weaknesses | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : " FIDE President Arkady Dvorkovich making the first move in the World Chess Championship between defending champion Magnus Carlsen (left) and challenger Ian Nepomniacthchi. Photo by IM Eric Rosen The 2021 World Chess Championship took part as one of the features of the 2020 World Expo taking place in Dubai, UAE. Magnus Carlsen defended his title [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/21/chess-at-expo-2020-dubai/\">Chess at Expo 2020 Dubai</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
