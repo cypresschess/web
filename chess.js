@@ -2160,14 +2160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1473",
          "pubDate" : "Sat, 11 Dec 2021 20:25:22 +0000",
          "title" : "World Rapid & Blitz Championship 2021 to be held in Warsaw, Poland"
-      },
-      {
-         "description" : " <p class=\"lead\">Yesterday, Magnus Carlsen retained his World Chess Championship title in a Match against Ian Nepomniachtchi. Nepo lost the match in a spectacular fashion, by blundering away three games and losing by 4 points with 3.5 to 7.5. Now Russian chess experts are (partially) blaming Daniil Dubov for the loss. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/F378E37C-1118-41AA-A134-35F84E525A67.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Daniil Dubnov preparing for Armageddon. Photo: World Chess</div> </div> Daniil Dubov, a 26-year-old chess prodigy from Russia, has been part of Carlsen's all-star team for the match and apparent",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/russians-partially-blame-dubov-for-nepos-massive-loss/",
-         "pubDate" : "Sat, 11 Dec 2021 15:48:42 +0000",
-         "title" : "Russians Partially Blame Dubov For Nepo's Massive Loss"
       }
    ]
 }
