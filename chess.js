@@ -106,14 +106,6 @@ news_feed (
          "title" : "World Blitz Chess Championship: Koneru Humpy takes 5th spot, R Vaishali ends up 14th"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks at his favorite chess brilliancies of the modern era. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/top-3-modern-chess-brilliancies-youve-never-seen-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YZDGMtHY6oA.jpg?itok=NVP8vxrW\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/top-3-modern-chess-brilliancies-youve-never-seen-grandmasters-choice-gm-denes-boros",
-         "pubDate" : "Fri, 31 Dec 2021 04:40:02 +0000",
-         "title" : "Top 3 Modern Chess Brilliancies You've Never Seen! | Grandmaster's Choice - GM Denes Boros"
-      },
-      {
          "description" : "GM Maxime Vachier-Lagrave (also known as MVL) finished first in the World Blitz Chess Championship with 15/21 in the Swiss tournament, after defeating GM Jan-Krzysztof Duda in their third blitz playoff game. Duda finished in second and GM Alireza ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2138,28 +2130,12 @@ news_feed (
          "title" : "Magnus Carlsen retains title, winning 7.5-3.5!"
       },
       {
-         "description" : "Carlsen dominated Ian Nepomniachtchi 7.5 - 3.5 to defend his FIDE World Chess Championship crown in Dubai.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32840390/magnus-carlsen-world-champion-best-chess-player?device=featurephone",
-         "pubDate" : "Sat, 11 Dec 2021 23:07:32 -0500",
-         "title" : "Anatomy of a GOAT: What makes Magnus Carlsen the world's best chess player"
-      },
-      {
          "description" : " &#160; &#8220;Born 04/05/1976 Currently living in Alnwick, Northumberland, England. Daniel has been a chess professional for over twenty years, in which time he has played in many tournaments both in the U.K. and abroad. He has represented England in the European team championships and the Olympiad. Daniel has taken high placing in the British chess <a href=\"http://britishchessnews.com/2021/12/12/the-comfort-zone-keys-to-your-chess-success/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Comfort Zone: Keys to Your Chess Success</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/12/the-comfort-zone-ke",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
          "link" : "http://britishchessnews.com/2021/12/12/the-comfort-zone-keys-to-your-chess-success/",
          "pubDate" : "Sun, 12 Dec 2021 00:10:03 +0000",
          "title" : "The Comfort Zone: Keys to Your Chess Success"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1473",
-         "pubDate" : "Sat, 11 Dec 2021 20:25:22 +0000",
-         "title" : "World Rapid & Blitz Championship 2021 to be held in Warsaw, Poland"
       }
    ]
 }
