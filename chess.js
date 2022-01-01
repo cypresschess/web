@@ -234,6 +234,14 @@ news_feed (
          "title" : "Hikaru Nakamura is covid positive at the 2021 World Blitz Championship"
       },
       {
+         "description" : "Levon Aronian scored 10/12 on Day 1 of the World Blitz Championship in Warsaw to take the sole lead going into the final 9 rounds. His closest rivals are Bassem Amin (9.5) and Parham Maghsoodloo (9), but the 12-player group on 8.5 points includes Magnus Carlsen, Hikaru Nakamura, Ian Nepomniachtchi, Alexander Grischuk, Daniil Dubov, Arjun Erigaisi, Vladislav Artemiev and Anish Giri. The Women's World Blitz is led by 17-year-old Rapid silver medalist Bibisara Assaubayeva on 8/9, with 20-year-old Vaishali just half a point behind.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/world-blitz-day-1-aronian-leads-as-carlsen-struggles",
+         "pubDate" : "Thu, 30 Dec 2021 12:20:31 +0000",
+         "title" : "World Blitz Day 1: Aronian leads as Carlsen struggles"
+      },
+      {
          "description" : " The holiday season at the end of the year is a great time to think about the coming year. Many people end this process by setting New Year Resolutions. I'm a big fan of planning things beforehand. This not only applies to Chess Training, but also to my life in general. In this article, I [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/new-year-resolutions-and-my-big-goal-in-2022/\">New Year Resolutions And My Big Goal In 2022</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -378,6 +386,14 @@ news_feed (
          "title" : "Chess World Divided Over World Rapid Tiebreak Controversy"
       },
       {
+         "description" : "17-year-old Nodirbek Abdusattorov is the youngest ever World Rapid Champion after beating Ian Nepomniachtchi in a blitz tiebreak. The 2-player tiebreak was controversial since four players had tied for 1st, but since Nodirbek had beaten both Magnus Carlsen (bronze) and Fabiano Caruana (4th) in rapid chess, his overall victory was richly deserved. Alexandra Kosteniuk survived some tricky moments to win her first Women's World Rapid Championship, while another 17-year-old, Bibisara Assaubayeva, took silver, and Valentina Gunina bronze.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/abdusattorov-kosteniuk-win-world-rapid-gold",
+         "pubDate" : "Wed, 29 Dec 2021 13:00:00 +0000",
+         "title" : "Abdusattorov & Kosteniuk win World Rapid gold"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -424,6 +440,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/world-rapid-chess-championship-day-3-abdusattorov-and-kosteniuk-crowned-world-rapid-champions",
          "pubDate" : "Tue, 28 Dec 2021 18:31:00 -0800",
          "title" : "World Rapid Chess Championship Day 3: Abdusattorov and Kosteniuk Crowned World Rapid Champions"
+      },
+      {
+         "description" : "17-year-old Nodirbek Abdusattorov sensationally won the World Rapid Chess Championship on Tuesday after a dramatic final day in Warsaw, Poland, which saw four players top the standings with 9.5 points after 13 rounds. Afterwards Magnus Carlsen, who along with Fabiano Caruana missed out on a playoff due to worse tiebreaks, lashed out at FIDE for what he called \"completely idiotic\" tiebreak rules.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-lashes-out-against-fide-for-completely-idiotic-tiebreak-rule",
+         "pubDate" : "Wed, 29 Dec 2021 00:12:32 +0000",
+         "title" : "Carlsen lashes out at \"completely idiotic\" tiebreak rules"
       },
       {
          "description" : " The 2021 FIDE General Assembly was held last night (starting at midnight my time), and the Papua New Guinea Chess Federation had 2 important motions on the agenda. That was until I logged into the voting system to discover that our 2 motions had been listed as a single motion for voting purposes. This was of course done without the knowledge of the PNGCF and attempts to get it fixed were unsuccessful. The main issue with this (apart from arbitrarily changing properly submitted motions) was that both motions had different chances of success. While we expected one motion to be defeated, we had high hopes that the second would be passed. And I was planning to make this point when called upon t",
@@ -520,6 +544,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1503",
          "pubDate" : "Tue, 28 Dec 2021 12:28:17 +0000",
          "title" : "Candidates Tournament to take place in Madrid sponsored by Chess.com"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen goes into the final day of the World Rapid Chess Championship in Warsaw in the sole lead after defeating his young rivals Alireza Firouzja and Jan-Krzysztof Duda to reach 7.5/9. 17-year-old Nodirbek Abdusattorov beat Levon Aronian, Radoslaw Wojtaszek and Boris Gelfand to join Ian Nepomniachtchi and Alexander Grischuk in 2nd place, while Alexandra Kosteniuk is the runaway leader in the women's section with a stunning 7.5/8.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/world-rapid-day-2-magnus-beats-firouzja-duda",
+         "pubDate" : "Tue, 28 Dec 2021 10:31:15 +0000",
+         "title" : "World Rapid Day 2: Magnus beats Firouzja & Duda"
       },
       {
          "description" : "",
@@ -656,6 +688,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/2021-world-rapid-and-blitz-carlsen-duda-and-jobava-the-stars-of/",
          "pubDate" : "Mon, 27 Dec 2021 08:46:48 +0000",
          "title" : "2021 World Rapid and Blitz: Carlsen, Duda, and Jobava the stars of Day 1"
+      },
+      {
+         "description" : "Magnus Carlsen's bid to defend his World Rapid Championship title got off to a good start as he opened with 4.5/5 on Day 1 in Warsaw. That score was matched by local hero Jan-Krzysztof Duda and maverick Baadur Jobava, who drew a rollercoaster game in Round 5. The 13-player group just half a point behind includes 53-year-old Boris Gelfand as well as teenagers Nodirbek Abdusattorov (who beat Fabiano Caruana), Hans Niemann and Alireza Firouzja. Alexandra Kosteniuk and Valentina Gunina have a perfect 4/4 in the women's event.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/world-rapid-blitz-1-carlsen-duda-jobava-lead",
+         "pubDate" : "Mon, 27 Dec 2021 03:02:34 +0000",
+         "title" : "World Rapid Day 1: Carlsen, Duda & Jobava lead"
       },
       {
          "description" : "GMs Jan-Krzysztof Duda, Magnus Carlsen, and Baadur Jobava share first place with 4.5/5 after day one of the World Rapid Chess Championship. The Polish number one, playing in his home country, started with a fantastic 4/4 perfect score, but his rou...",
@@ -818,6 +858,14 @@ news_feed (
          "title" : "Sitges: Abdusattorov clinches first place in thrilling playoff"
       },
       {
+         "description" : "Magnus Carlsen, Hikaru Nakamura and Alireza Firouzja are in action as the chess world's favourite Christmas tradition, the World Rapid and Blitz Championship, starts Sunday, December 26th. The $1 million tournament will see Magnus attempt to retain his triple crown as World Champion in blitz, rapid and classical chess, but the competition is fierce, with only Ding Liren and Wesley So missing from the Top 10. Humpy Koneru and Kateryna Lagno are also back to defend their titles, while Jan Gustafsson and Peter Leko lead commentary here on chess24!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/world-rapid-blitz-can-magnus-keep-his-triple-crown",
+         "pubDate" : "Fri, 24 Dec 2021 18:57:42 +0000",
+         "title" : "World Rapid & Blitz: Can Magnus keep his triple crown?"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -920,6 +968,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/how-crush-olympic-champ-ponziani-grandmasters-choice-gm-denes-boros",
          "pubDate" : "Fri, 24 Dec 2021 04:31:59 +0000",
          "title" : "How to Crush an Olympic Champ with the Ponziani! | Grandmaster's Choice - GM Denes Boros"
+      },
+      {
+         "description" : "Fabiano Caruana is now world no 4 on the blitz live rating list after a thrilling finish saw him beat Richard Rapport in Armageddon to win the Gashimov Memorial. Rapport began the last day with a 2-point lead over Caruana but had run out of steam by the end and couldn't quite hold on. Shakhriyar Mamedyarov finished 3rd while Sergey Karjakin was 4th, despite a shocking 5/14 score in blitz for the 2016 World Blitz Champion. Vishy Anand was unable to mount a recovery and finished in overall last place.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/caruana-wins-gashimov-memorial-after-thrilling-chase",
+         "pubDate" : "Fri, 24 Dec 2021 03:49:27 +0000",
+         "title" : "Caruana wins Gashimov Memorial after thrilling chase"
       },
       {
          "description" : "Fabiano Caruana had a great second day of blitz at the Vugar Gashimov Tournament in Baku. The American even caught up with former leader Richard Rapport in the overall standings table. Caruana then went on to beat his Hungarian colleague in Armageddon to win the event. | Photos: Official tournament site",
@@ -1178,6 +1234,14 @@ news_feed (
          "title" : "Nakamura and Dubov get wildcards for FIDE Grand Prix"
       },
       {
+         "description" : "Richard Rapport defeated Sergey Karjakin 2:0 on the first day of the Gashimov Memorial, but they ended tied for first going into the final two days of blitz after Sergey stormed back to win all six of his remaining rapid matches. Fabiano Caruana and Shakhriyar Mamedyarov are just two points off the pace, while Vishy Anand has so far suffered one of his worst ever speed chess events. Six losses and an Armageddon win over Shakhriyar Mamedyarov saw him end the rapid section in last place on just three points.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/gashimov-memorial-karjakin-rapport-lead-after-rapid",
+         "pubDate" : "Wed, 22 Dec 2021 09:16:18 +0000",
+         "title" : "Gashimov Memorial: Karjakin & Rapport lead after Rapid"
+      },
+      {
          "description" : "The rapid tournament at the Vugar Gashimov Memorial ended with an exciting and close finish. In the sixth and penultimate round tournament leader Richard Rapport lost against Shakhriyar Mamedyarov, which allowed Fabiano Caruana to catch up. But in the final round Caruana also lost against Mamedyarov while Rapport and Karjakin won their matches. In the end, Rapport and Karjakin shared first place with 16 points each. | Photos: Tournament page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1282,6 +1346,14 @@ news_feed (
          "title" : "New: The 4 Player Types standard model Find your strengths and weaknesses and those of your opponent"
       },
       {
+         "description" : "World Chess Champion Magnus Carlsen confirms in a blog post for his law firm sponsors Simonsen Vogt Wiig that he's unlikely to play another match for the title unless it's against a representative of the next generation, which in effect means 18-year-old world no. 2 Alireza Firouzja. Magnus also explains how he felt Ian Nepomniachtchi would revert to type, commenting, \"under sufficient pressure we all show the same strengths and weaknesses as prior to the World Championship preparations and training regimen.\"",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-unlikely-i-will-play-another-match-except-against-firouzja",
+         "pubDate" : "Tue, 21 Dec 2021 09:04:51 +0000",
+         "title" : "Magnus Carlsen: \"Unlikely I will play another match\" except against Firouzja"
+      },
+      {
          "description" : "In the diagram position it is White to move and draw. Black's passed pawns are far advanced and it seems as if one of them will queen soon. However, White still has a way to draw. What should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1296,6 +1368,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/hikaru-nakamura-wins-speed-chess-championship-2021",
          "pubDate" : "Tue, 21 Dec 2021 00:25:00 +0100",
          "title" : "Hikaru Nakamura wins fourth straight Speed Chess Championship"
+      },
+      {
+         "description" : "Hikaru Nakamura and Daniil Dubov have been given wild cards to the 24-player FIDE Grand Prix series. The three tournaments in Berlin and Belgrade from February to April 2022 will decide the final two places in the next Candidates Tournament. Nakamura, who would currently be the 10th seed, was ineligible to qualify by rating after failing to play a classical game in two years, but was given a lifeline by the FIDE President. The organisers picked Magnus Carlsen second Dubov, who was just outside the rating qualifiers.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-and-dubov-get-grand-prix-wildcards",
+         "pubDate" : "Mon, 20 Dec 2021 21:42:12 +0000",
+         "title" : "Nakamura and Dubov get Grand Prix wildcards"
       },
       {
          "description" : "",
@@ -1368,6 +1448,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1490",
          "pubDate" : "Mon, 20 Dec 2021 09:37:25 +0000",
          "title" : "European Rapid and Blitz Championships: Duda and Motylev win titles"
+      },
+      {
+         "description" : "Fabiano Caruana is the only player to have won all three mini-matches in the Gashimov Memorial, after taking down Rauf Mamedov and Richard Rapport on Day 2. Rapport was beaten in Armageddon after defeating Vishy Anand in the first match of the day, with Vishy also falling to David Navara in a Rook vs. Rook + Bishop ending. The day's most impressive comeback came from Sergey Karjakin, who started the event with three losses before winning his next four games to take down Navara and Shakhriyar Mamedyarov.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/gashimov-memorial-2-caruana-takes-sole-lead",
+         "pubDate" : "Mon, 20 Dec 2021 08:35:15 +0000",
+         "title" : "Gashimov Memorial 2: Caruana takes sole lead "
       },
       {
          "description" : "European Rapid Chess Championship 2021 concluded on Sunday, 19th of December after two days of play in Katowice, Poland. After 11 played rounds three players were in a tie for the top, scoring 9.5 points each. Tiebreak criteria determined the Winner of the event and the medalists. Alexander Motylev (RUS, 2703) had the best additional criteria to claim&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/alexander-motylev-wins-european-rapid-chess-championship-2021/\">Read More &#187;</a></span>",
@@ -1464,6 +1552,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-19877",
          "pubDate" : "Sun, 19 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 19"
+      },
+      {
+         "description" : "Vishy Anand got off to the smoothest of starts as he defeated Rauf Mamedov in the first game of the Vugar Gashimov Memorial, but Rauf hit back to the win the second game and clinch a mini-match win in Armageddon. Fabiano Caruana (vs. Vugar Asadli), Shakhriyar Mamedyarov (David Navara) and Richard Rapport (Sergey Karjakin) all picked up a full 3 points for winning without Armageddon as the 7th edition of the tournament began in Baku, Azerbaijan.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/anand-stumbles-as-gashimov-memorial-begins",
+         "pubDate" : "Sun, 19 Dec 2021 10:23:07 +0000",
+         "title" : "Anand stumbles as Gashimov Memorial begins"
       },
       {
          "description" : " From the publisher's blurb: &#8220;Funny and brutal. A big-hearted book, I enjoyed it.' Stuart Conquest, Grandmaster &#8216;Carl is gifted as both a natural entertainer and storyteller. Although this memoir is primarily about chess, the tales in it are filled with a frank and refreshing honesty that will literally have your heart racing with adventure.' Jovanka <a href=\"http://britishchessnews.com/2021/12/19/chess-crusader-confessions-of-an-amateur-chess-player/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess Crusader: confessions of an amateur chess-player</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.co",
@@ -1608,6 +1704,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1485",
          "pubDate" : "Fri, 17 Dec 2021 20:04:58 +0000",
          "title" : "Andrei Volokitin and Kateryna Dolzhykova win Ukrainian Championship"
+      },
+      {
+         "description" : "Magnus Carlsen's hunt to break the 2900 barrier begins with the 84th edition of the prestigious Tata Steel Chess tournament in Wijk aan Zee, Netherlands, which takes place from January 14-30. Chess fans will unfortunately not see a clash between the World Champion and the new world no. 2, 18-year-old Alireza Firouzja, as the organisers turned down his demands for compensation over the row at the end of the 2021 edition.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/firouzja-misses-wijk-after-compensation-demand-denied",
+         "pubDate" : "Fri, 17 Dec 2021 19:50:52 +0000",
+         "title" : "Firouzja misses Wijk after compensation demand denied"
       },
       {
          "description" : "The 7th edition of the Gashimov Memorial was officially inaugurated today in Baku. The tournament in memory of Vugar Gashimov, who died at an early age, will be contested by eight players - including Vishy Anand, Fabiano Caruana and Shakhriyar Mamedyarov. Unlike previous editions, it will be played as a rapid and blitz tournament. The first round will be played on Saturday.",
@@ -1768,6 +1872,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/king-safety-v-king-safety.html",
          "pubDate" : "Thu, 16 Dec 2021 13:03:00 +0000",
          "title" : "King safety v king safety"
+      },
+      {
+         "description" : "Former FIDE World Champion Veselin Topalov puts Magnus Carlsen's success down to his ability to function normally in the 6th and 7th hour of a game of chess. He was interviewed about the Carlsen-Nepomniachtchi match and more by Evgeny Surov at the opening ceremony of the 4th Salamanca Chess Festival. Veselin also suggested that the World Chess Championship could switch to a knockout system.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/topalov-carlsen-should-give-his-brain-to-science",
+         "pubDate" : "Thu, 16 Dec 2021 12:53:34 +0000",
+         "title" : "Topalov: Carlsen \"should give his brain to science\""
       },
       {
          "description" : "In 1865 Gustav Neumann (15 December 1838 - 16 February 1881) scored 34 points from 34 games in the club tournament of the \"Berliner Schachgesellschaft\", the Berlin Chess Society. Neumann had not yet played a single international tournament at that time, but he was one of the leading players in Germany and thus one of the leading players in the world. Neumann's opponents in this club tournament were not particularly strong, but to win 34 games without losing or drawing shows ambition and the will to win. Neumann had both.",
@@ -2056,30 +2168,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/russians-partially-blame-dubov-for-nepos-massive-loss/",
          "pubDate" : "Sat, 11 Dec 2021 15:48:42 +0000",
          "title" : "Russians Partially Blame Dubov For Nepo's Massive Loss"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4b9426a7-84e7-4a41-8e4d-e1f6542d901f/Vasyl.jpg\" data-image-dimensions=\"1146x542\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61b4ab1a63cd636d03a26db3\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4b9426a7-84e7-4a41-8e4d-e1f6542d901f/Vasyl.jpg?format=1000w\" /> </figure> <p class=\"\">You can Follow Ivanchuk's Twitch Channel<a href=\"https://www.twitch.tv/ivanchukchess\"> here </a> <p class=\"\">GM Vasyl Ivanchuk is a modern chess legend who has won countless tourn",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/11/world-championship-bonus-pod-5-gm-vasyl-ivanchuk",
-         "pubDate" : "Sat, 11 Dec 2021 13:47:41 +0000",
-         "title" : "World Championship Bonus Pod #5- GM Vasyl Ivanchuk "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1475",
-         "pubDate" : "Sat, 11 Dec 2021 13:42:00 +0000",
-         "title" : "Zdenko Kožul wins Croatian Championship"
-      },
-      {
-         "description" : " After all the agonising about whether the 2021 World Championship match was going to see any decisive games, Carlsen wrapped it up with 4 wins over the last 6 games. Game 11 was Nepo's last chance to turn it around (or at least get something from the experience) but another tactical oversight left Carlsen with a winning position. He duly converted to reach the 7.5 points needed to retain his title. The second half collapse wasn't so much due to Nepo losing game 6, but his failure to bounce back in games 7 or 8. If he had been able to hold game 8 (instead of losing it) he might have still had a chance. Instead the blunder in game 8 (dropping a cold pawn) was somewhat reminiscent of Spassky's",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/and-now-its-all-over.html",
-         "pubDate" : "Sat, 11 Dec 2021 13:04:00 +0000",
-         "title" : "And now its all over"
       }
    ]
 }
