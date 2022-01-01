@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White can start fireworks to hunt down the black king, and you are invited to ignite all the rockets - have fun!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/happy-new-year",
+         "pubDate" : "Sat, 01 Jan 2022 09:00:00 +0100",
+         "title" : "Happy New Year!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> December 2021 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">Chess Puzzles</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/december-2021-chess-puzzle-answer-key",
+         "pubDate" : "Sat, 01 Jan 2022 06:00:00 +0000",
+         "title" : "December 2021 Chess Puzzle Answer Key "
+      },
+      {
          "description" : " Share!This year was the 20th year for The Chess Drum. On February 12th, I posted a very lengthy chronicle of the site's history with key moments each of the 20 years. I put a lot of effort into that post, but it was fulfilling to recount the special moments, not only for The Chess Drum, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/31/the-chess-drums-highlights-of-2021/\">The Chess Drum's Highlights of 2021!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "Milunka Lazarevi&#263: \"Tal is my Zeus\""
       },
       {
-         "description" : " Brewington Hardaway winning Pan-Am Youth Chess Festival last October Photo courtesy of ChessKid.com Ater Brewington Hardaway's recent success at the K12 Championship in Orlando, it is apparent that he has been on an improvement course that has been slow and steady. Two years ago, Hardaway became a National Master at age 10, he continued to [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/31/brewington-hardaway-continues-to-climb/\">Brewington Hardaway continues to climb!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Brewington Hardaway winning Pan-Am Youth Chess Festival last October Photo courtesy of ChessKid.com After Brewington Hardaway's recent success at the K12 Championship in Orlando, it is apparent that he has been on an improvement course that has been slow and steady. Two years ago, Hardaway became a National Master at age 10, he continued to [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/31/brewington-hardaway-continues-to-climb/\">Brewington Hardaway continues to climb!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/31/brewington-hardaway-continues-to-climb/",
@@ -1058,14 +1074,6 @@ news_feed (
          "title" : "The Winning Academy (3): The Art of Exchanging Minor Pieces"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. This is her second and final hour on the Najdorf, specifically lines from 6.Be3. 2021.12.22<br /> B90 Sicilian, Najdorf, Byrne (English) attack </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-najdorf-2-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbn",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-sicilian-najdorf-2-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 23 Dec 2021 04:30:46 +0000",
-         "title" : "Play the Sicilian: Najdorf #2 | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
          "description" : " From the publisher: &#8220;In 1971 Robert James Fischer defeated Mark Taimanov by the sensational score of 6-0 in Vancouver, but the match games were far more competitive and tension-filled than the final score would suggest. Twenty years later Taimanov put pen to paper, reflecting on the experience. Exactly 50 years after the match, this is <a href=\"http://britishchessnews.com/2021/12/23/i-was-a-victim-of-bobby-fischer/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">I Was a Victim of Bobby Fischer</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/23/i-was-a-victim-of-bobby-fischer/\">I Was a Victim of ",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1776,14 +1784,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-1663",
          "pubDate" : "Thu, 16 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 16"
-      },
-      {
-         "description" : "On Monday, the 8th Sunway Sitges Open began near Barcelona. 31 players in the strong field have an Elo-rating of more than 2500, but Anton Korobov (pictured), the winner of 2019, is top seed and again among the favourites. He started the tournament with three wins - as did 18 other players. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-open-19-players-start-with-3-0-3",
-         "pubDate" : "Thu, 16 Dec 2021 10:16:08 +0100",
-         "title" : "Sunway Sitges Open: 19 players start with 3.0/3"
       },
       {
          "description" : "With a victory in the final round, GM Jose Martinez won Titled Tuesday on December 14 with a score of 10/11. Coming in second place was last week&#39;s victor, GM Jeffery Xiong, with 9.5/11. GM Alexey Sarana and NM Valery Sviridov had the best tiebrea...",
