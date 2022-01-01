@@ -10,7 +10,7 @@ news_feed (
          "title" : "Milunka Lazarevi&#263: \"Tal is my Zeus\""
       },
       {
-         "description" : " Share! Brewington Hardaway winning Pan-Am Youth Chess Festival last October Photo courtesy of ChessKid.com Brewington Hardaway's recent success at the K12 Championship in Orlando has been on an improvement course that has been slow and steady. Two years ago, Hardaway became a National Master at age 10, he continued to play online despite the reduction [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/31/brewington-hardaway-continues-to-climb/\">Brewington Hardaway continues to climb!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share! Brewington Hardaway winning Pan-Am Youth Chess Festival last October Photo courtesy of ChessKid.com Ater Brewington Hardaway's recent success at the K12 Championship in Orlando, it is apparent that he has been on an improvement course that has been slow and steady. Two years ago, Hardaway became a National Master at age 10, he continued [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/31/brewington-hardaway-continues-to-climb/\">Brewington Hardaway continues to climb!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/31/brewington-hardaway-continues-to-climb/",
