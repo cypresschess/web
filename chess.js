@@ -2080,30 +2080,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/and-now-its-all-over.html",
          "pubDate" : "Sat, 11 Dec 2021 13:04:00 +0000",
          "title" : "And now its all over"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88224358.cms\" />Mumbai's chess prodigy Advay Dhoot performed creditably in tournaments in the European circuit recently and is currently among the highest rated player in his category in the country.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/mumbai-youngster-advay-dhoot-making-right-moves-in-chess-circuit/articleshow/88224358.cms",
-         "pubDate" : "Sat, 11 Dec 2021 16:00:51 +0530",
-         "title" : "Mumbai youngster Advay making right moves in chess circuit"
-      },
-      {
-         "description" : "Late in November one of the giants of British chess (as Nigel Short described him) sadly passed away, taking with him a record which is likely never to be broken. In his best years Dr. Jonathan Penrose OBE (pictured above) won the British Chess Championship for a record ten times, while on the international stage []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/how-i-almost-killed-jonathan-penrose/",
-         "pubDate" : "Sat, 11 Dec 2021 10:03:34 +0000",
-         "title" : "How I almost killed Jonathan Penrose"
-      },
-      {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) Game 11 Match Score: 7&frac12;-3&frac12; Official Site: https://fideworldchampionship.com/ 2021 World Chess Championship: Game 11 Friday, 10 December 2021 Magnus Carlsen retains title closes match on winning note! Just in Dubai, UAE for #CarlsenNepo at 0230. Regardless of the next four games, I&#39;m glad to be present at [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/11/2021-world-chess-championship-game-11/\">2021 World Chess Championship: Game #11</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/12/11/2021-world-chess-championship-game-11/",
-         "pubDate" : "Sat, 11 Dec 2021 09:16:44 +0000",
-         "title" : "2021 World Chess Championship: Game #11"
       }
    ]
 }
