@@ -2128,14 +2128,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/12/12/magnus-carlsen-retains-title-winning-7-5-3-5/",
          "pubDate" : "Sun, 12 Dec 2021 08:42:11 +0000",
          "title" : "Magnus Carlsen retains title, winning 7.5-3.5!"
-      },
-      {
-         "description" : "Carlsen dominated Ian Nepomniachtchi 7.5 - 3.5 to defend his FIDE World Chess Championship crown in Dubai.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/32840390/magnus-carlsen-world-champion-best-chess-player?device=featurephone",
-         "pubDate" : "Sat, 11 Dec 2021 23:07:32 -0500",
-         "title" : "Anatomy of a GOAT: What makes Magnus Carlsen the world's best chess player"
       }
    ]
 }
