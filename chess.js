@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">It's the \"New Year, New Me\" season, and everyone is possessed by an optimistic and hopeful spirit. From weight loss to getting a Ph.D., the New Year's goal list has overwhelmingly all kinds of wishes, and dreams. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Niki-Riga_-06228.jpg\" width=\"2560\" height=\"1706\" alt=\"\" /> <div class=\"e2-text-caption\">photo: World Chess</div> </div> Chess players have their own, special list for the chess resolutions of the year, but for those who are still in the process of strategizing their next steps, we are here to help you! <h2>Solve at least 1 tactic problem per day</h2> Tactics sharpen your mind and make you m",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/10-new-years-chess-resolutions/",
+         "pubDate" : "Sun, 02 Jan 2022 13:39:25 +0000",
+         "title" : "10 New Year's Chess Resolutions"
+      },
+      {
          "description" : "The 129th New Zealand Championship is running from the 2nd to the 12th of January 2022. The event is being held at Riccarton Park, Christchurch and has a total prize fund of $10,000.The Championship event has attracted a field of 24 players, with FM Nic Croad the number one seed. Two time champion Croad is hoping to finish ahead of 2nd seed IM Antony Ker (14 times winner!) and IM Russell Dive (7 times winner). The field also contains a number of young challengers, including FM Daniel Gong, CM Felix Xie and WFM Vyanla Punsalan.<br />Alongside the Championship is the Major Open, New Zealand Junior Championship, and a number of other supporting events. A link to the tournament standings can be ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2120,14 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1477",
          "pubDate" : "Sun, 12 Dec 2021 20:16:13 +0000",
          "title" : "FIDE World Championship 2021: Crowned again"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1476",
-         "pubDate" : "Sun, 12 Dec 2021 14:57:42 +0000",
-         "title" : "Italian Championship 2021: Basso and Sedina clinch titles"
       }
    ]
 }
