@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 129th New Zealand Championship is running from the 2nd to the 12th of January 2022. The event is being held at Riccarton Park, Christchurch and has a total prize fund of $10,000.The Championship event has attracted a field of 24 players, with FM Nic Croad the number one seed. Two time champion Croad is hoping to finish ahead of 2nd seed IM Antony Ker (14 times winner!) and IM Russell Dive (7 times winner). The field also contains a number of young challengers, including FM Daniel Gong, CM Felix Xie and WFM Vyanla Punsalan.<br />Alongside the Championship is the Major Open, New Zealand Junior Championship, and a number of other supporting events. A link to the tournament standings can be ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/2022-new-zealand-championship.html",
+         "pubDate" : "Sun, 02 Jan 2022 12:01:00 +0000",
+         "title" : "2022 New Zealand Championship"
+      },
+      {
+         "description" : " A couple of thoughts first. Chess is a game of mistakes, not of good moves. As Tartakower wrote, &#8220;Chess is a fairy tale of 1001 blunders&#8221;. If I'm playing Magnus Carlsen, if I don't make any mistakes I won't lose. If Magnus makes a mistake and I don't, I'll win. Objectively, there are no good <a href=\"https://chessimprover.com/a-different-approach-to-tactics/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Different Approach to Tactics\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-different-approach-to-tactics/\">A Different Approach to Tactics</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Impr",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-different-approach-to-tactics/",
+         "pubDate" : "Sun, 02 Jan 2022 11:15:00 +0000",
+         "title" : "A Different Approach to Tactics"
+      },
+      {
+         "description" : "In his ChessBase Magazine column \"Topical opening traps\", GM Rainer Knaak regularly examines examples from current tournament practice. He also presents three of them in the video analysis in each CBM. Especially for club players, his contributions offer exciting suggestions. Thanks to the range of topics, you should be able to find something for your own repertoire in every issue! In addition, the trap expert often shows variations that are rarely seen in top-level chess but must be on one's mind as a club chess player. We offer you an excerpt from Rainer Knaak's collection from ChessBase #205 here, including a video on the Budapest Gambit.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/from-cool-to-highly-speculative",
+         "pubDate" : "Sun, 02 Jan 2022 11:00:00 +0100",
+         "title" : "\"From cool to highly speculative\""
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 60th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how to convert the advantages of having the pair of bishops. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-60-the-advantage-of-having-the-two-bishops",
+         "pubDate" : "Sun, 02 Jan 2022 10:55:00 +0100",
+         "title" : "Understanding before Moving 60: The advantage of having the two bishops"
+      },
+      {
          "description" : "In the diagram position White can start fireworks to hunt down the black king, and you are invited to ignite all the rockets - have fun!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +50,7 @@ news_feed (
          "title" : "December 2021 Chess Puzzle Answer Key "
       },
       {
-         "description" : " Share!This year was the 20th year for The Chess Drum. On February 12th, I posted a very lengthy chronicle of the site's history with key moments each of the 20 years. I put a lot of effort into that post, but it was fulfilling to recount the special moments, not only for The Chess Drum, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/31/the-chess-drums-highlights-of-2021/\">The Chess Drum's Highlights of 2021!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!112This year was the 20th year for The Chess Drum. On February 12th, I posted a very lengthy chronicle of the site's history with key moments each of the 20 years. I put a lot of effort into that post, but it was fulfilling to recount the special moments, not only for The Chess Drum, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/31/the-chess-drums-highlights-of-2021/\">The Chess Drum's Highlights of 2021!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/31/the-chess-drums-highlights-of-2021/",
@@ -1874,22 +1906,6 @@ news_feed (
          "title" : "Topalov: Carlsen \"should give his brain to science\""
       },
       {
-         "description" : "In 1865 Gustav Neumann (15 December 1838 - 16 February 1881) scored 34 points from 34 games in the club tournament of the \"Berliner Schachgesellschaft\", the Berlin Chess Society. Neumann had not yet played a single international tournament at that time, but he was one of the leading players in Germany and thus one of the leading players in the world. Neumann's opponents in this club tournament were not particularly strong, but to win 34 games without losing or drawing shows ambition and the will to win. Neumann had both.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/34-out-of-34-remembering-gustav-neumann",
-         "pubDate" : "Thu, 16 Dec 2021 12:24:05 +0100",
-         "title" : "34 out of 34: Remembering Gustav Neumann"
-      },
-      {
-         "description" : "So many people knew very well that yesterday the Centurini draw position was on the board, and it could only be achieved with the cunning move B. Kf4. Bravo! On Day 16 Anand and Radjabov duel, but what move did the Indian grandmaster make in this game, and what is the \"queen and knight attacking duo\" called against \"queen and bishop\"?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-1663",
-         "pubDate" : "Thu, 16 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 16"
-      },
-      {
          "description" : "With a victory in the final round, GM Jose Martinez won Titled Tuesday on December 14 with a score of 10/11. Coming in second place was last week&#39;s victor, GM Jeffery Xiong, with 9.5/11. GM Alexey Sarana and NM Valery Sviridov had the best tiebrea...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2112,22 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1476",
          "pubDate" : "Sun, 12 Dec 2021 14:57:42 +0000",
          "title" : "Italian Championship 2021: Basso and Sedina clinch titles"
-      },
-      {
-         "description" : " I was saddened to hear of the recent death, at the age of 88, of Jonathan Penrose, one of England's finest ever players, ten times British Champion and, later, one of the world's strongest correspondence players. Jonathan was a member of an extraordinary family which excelled in both arts and scientists. His Irish grandfather, James <a href=\"https://chessimprover.com/jonathan-penrose-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Jonathan Penrose (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/jonathan-penrose-1/\">Jonathan Penrose (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/jonathan-penrose-1/",
-         "pubDate" : "Sun, 12 Dec 2021 11:43:37 +0000",
-         "title" : "Jonathan Penrose (1)"
-      },
-      {
-         "description" : " 2021 World Chess ChampionshipDubai, UAE (November 24th-December 16th) &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Carlsen &frac12; &frac12; &frac12; &frac12; &frac12; 1 &frac12; 1 1 &frac12; 1 7&frac12; Caruana &frac12; &frac12; &frac12; &frac12; &frac12; 0 &frac12; 0 0 &frac12; 0 [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/12/magnus-carlsen-retains-title-winning-7-5-3-5/\">Magnus Carlsen retains title, winning 7.5-3.5!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/12/12/magnus-carlsen-retains-title-winning-7-5-3-5/",
-         "pubDate" : "Sun, 12 Dec 2021 08:42:11 +0000",
-         "title" : "Magnus Carlsen retains title, winning 7.5-3.5!"
       }
    ]
 }
