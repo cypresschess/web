@@ -2130,12 +2130,12 @@ news_feed (
          "title" : "Magnus Carlsen retains title, winning 7.5-3.5!"
       },
       {
-         "description" : " &#160; &#8220;Born 04/05/1976 Currently living in Alnwick, Northumberland, England. Daniel has been a chess professional for over twenty years, in which time he has played in many tournaments both in the U.K. and abroad. He has represented England in the European team championships and the Olympiad. Daniel has taken high placing in the British chess <a href=\"http://britishchessnews.com/2021/12/12/the-comfort-zone-keys-to-your-chess-success/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Comfort Zone: Keys to Your Chess Success</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/12/the-comfort-zone-ke",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/12/12/the-comfort-zone-keys-to-your-chess-success/",
-         "pubDate" : "Sun, 12 Dec 2021 00:10:03 +0000",
-         "title" : "The Comfort Zone: Keys to Your Chess Success"
+         "description" : "Carlsen dominated Ian Nepomniachtchi 7.5 - 3.5 to defend his FIDE World Chess Championship crown in Dubai.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/32840390/magnus-carlsen-world-champion-best-chess-player?device=featurephone",
+         "pubDate" : "Sat, 11 Dec 2021 23:07:32 -0500",
+         "title" : "Anatomy of a GOAT: What makes Magnus Carlsen the world's best chess player"
       }
    ]
 }
