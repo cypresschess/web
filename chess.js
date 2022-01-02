@@ -2120,14 +2120,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/engine-accurate.html",
          "pubDate" : "Mon, 13 Dec 2021 12:15:00 +0000",
          "title" : "Engine accurate?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1477",
-         "pubDate" : "Sun, 12 Dec 2021 20:16:13 +0000",
-         "title" : "FIDE World Championship 2021: Crowned again"
       }
    ]
 }
