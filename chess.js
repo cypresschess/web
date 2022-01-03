@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jon Speelman looks forwards and backwards as we enter the new year, looking at a game between Magnus Carlsen and World Rapid Champion Nodirbek Abdusattorov after recapping what went on in 2021. He also analyses three games from previous editions of the traditional Hastings Tournament, incluidng one of his, in which he played his \"most outrageous move ever\"! | Photo: Nigel Short, Lev Psakhis and Jon Speelman in Hastings (c. 1987) / Nigel Short&rsquo;s Facebook page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-161",
+         "pubDate" : "Sun, 02 Jan 2022 22:45:00 +0100",
+         "title" : "Battles in Hastings"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1510",
+         "pubDate" : "Sun, 02 Jan 2022 20:40:38 +0000",
+         "title" : "Susal and Niklesha win Sri Lanka championship"
+      },
+      {
+         "description" : "The Ukrainian Championships took place in Kharkiv on 8-17 December 2021. The tournaments were nicely organized in the library of the Yaroslav Mudryi National Law University. Andrei Volokitin clinched first place in the open section by winning both his games in the two final rounds, while Kateryna Dolzhykova surprisingly got the gold in the women's tournament. | Photos: Ukrainian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/volokitin-and-dolzhykova-are-2021-ukrainian-champions",
+         "pubDate" : "Sun, 02 Jan 2022 21:25:00 +0100",
+         "title" : "Volokitin and Dolzhykova are 2021 Ukrainian Champions"
+      },
+      {
          "description" : " <p class=\"lead\">It's the \"New Year, New Me\" season, and everyone is possessed by an optimistic and hopeful spirit. From weight loss to getting a Ph.D., the New Year's goal list has overwhelmingly all kinds of wishes, and dreams. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Niki-Riga_-06228.jpg\" width=\"2560\" height=\"1706\" alt=\"\" /> <div class=\"e2-text-caption\">photo: World Chess</div> </div> Chess players have their own, special list for the chess resolutions of the year, but for those who are still in the process of strategizing their next steps, we are here to help you! <h2>Solve at least 1 tactic problem per day</h2> Tactics sharpen your mind and make you m",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "10 New Year's Chess Resolutions"
       },
       {
-         "description" : "The 129th New Zealand Championship is running from the 2nd to the 12th of January 2022. The event is being held at Riccarton Park, Christchurch and has a total prize fund of $10,000.The Championship event has attracted a field of 24 players, with FM Nic Croad the number one seed. Two time champion Croad is hoping to finish ahead of 2nd seed IM Antony Ker (14 times winner!) and IM Russell Dive (7 times winner). The field also contains a number of young challengers, including FM Daniel Gong, CM Felix Xie and WFM Vyanla Punsalan.<br />Alongside the Championship is the Major Open, New Zealand Junior Championship, and a number of other supporting events. A link to the tournament standings can be ",
+         "description" : "The 129th New Zealand Championship is running from the 2nd to the 12th of January 2022. The event is being held at Riccarton Park, Christchurch and has a total prize fund of $10,000.The Championship event has attracted a field of 24 players, with FM Nic Croad the number one seed. Two time champion Croad is hoping to finish ahead of 2nd seed IM Anthony Ker (14 times winner!) and IM Russell Dive (7 times winner). The field also contains a number of young challengers, including FM Daniel Gong, CM Felix Xie and WFM Vyanla Punsalan.<br />Alongside the Championship is the Major Open, New Zealand Junior Championship, and a number of other supporting events. A link to the tournament standings can be",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/01/2022-new-zealand-championship.html",
@@ -1880,14 +1904,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/battle-of-the-sexes-in-gibraltar",
          "pubDate" : "Thu, 16 Dec 2021 16:00:00 +0100",
          "title" : "Battle of the Sexes in Gibraltar"
-      },
-      {
-         "description" : "The European Rapid and Blitz Championships will take place on December 17-19 at the Spodek Sport and Entertainment Centre in Katowice, Poland. Local hero Jan-Krzysztof Duda heads the list of participants in the blitz section. The tournament serves as a warm-up for the World Rapid and Blitz Championships which will kick off a week later in Warsaw.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-rapid-and-blitz-2021-preview",
-         "pubDate" : "Thu, 16 Dec 2021 15:20:00 +0100",
-         "title" : "Preview: European Rapid and Blitz Championships"
       },
       {
          "description" : "The Holiday bots are back by popular demand! It&#39;s the end of the year and we can already enjoy that warm feeling that only the Holiday season can bring. To celebrate these splendid times, we called our five Holiday bots back to brighten your days ...",
