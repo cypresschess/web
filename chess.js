@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Considering the new wave of pandemic with another variant and the restrictions imposed by various states and agencies, All India Chess Federation decided to postpone",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mportant-announcement-national-championships-2022/",
+         "pubDate" : "Mon, 03 Jan 2022 07:36:56 +0000",
+         "title" : "IMPORTANT ANNOUNCEMENT : NATIONAL CHAMPIONSHIPS 2022"
+      },
+      {
          "description" : "Jon Speelman looks forwards and backwards as we enter the new year, looking at a game between Magnus Carlsen and World Rapid Champion Nodirbek Abdusattorov after recapping what went on in 2021. He also analyses three games from previous editions of the traditional Hastings Tournament, incluidng one of his, in which he played his \"most outrageous move ever\"! | Photo: Nigel Short, Lev Psakhis and Jon Speelman in Hastings (c. 1987) / Nigel Short&rsquo;s Facebook page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2064,14 +2072,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-online-rapid-school-chess-champions-crowned/",
          "pubDate" : "Tue, 14 Dec 2021 12:47:48 +0000",
          "title" : "European Online Rapid School Chess Champions crowned"
-      },
-      {
-         "description" : "CLICK HERE FOR THE PRESS CONFERENCE",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/the-press-conference-of-indian-chess-league/",
-         "pubDate" : "Tue, 14 Dec 2021 11:09:06 +0000",
-         "title" : "The Press conference of Indian Chess League"
       },
       {
          "description" : " &#8220;A dream becomes a goal when action is taken toward its achievement&#8221; Bo Bennett (businessman) The Scotch Game has resisted the test of times at all levels of chess competition. From Ercole del Rio (Italian chess author), the first one to mention it in his chess treatise from 1750, to GM Garry Kasparov who played <a href=\"https://chessimprover.com/need-sure-points-scotch-opening-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Scotch Opening Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-scotch-opening-edition/\">Need sure points? Scotch Opening Edition</a> appeared first on <a rel=\"no",
