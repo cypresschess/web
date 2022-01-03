@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We know that our latest version of Fritz has a special mode that allows you to actually win games - which no 3500+ program would ever do. A lot of amateurs are having loads of fun, learning to spot combinations and by brilliancies in the process. We are also experimenting with strong GMs: will they too enjoy using Fritz 18 as a training partner? Here's someone who has tried.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grandmaster-pragg-vs-fritz-18",
+         "pubDate" : "Mon, 03 Jan 2022 13:22:42 +0100",
+         "title" : "Grandmaster Pragg vs Fritz 18"
+      },
+      {
+         "description" : "At the beginning of the new year FIDE published its new World Ranking List. Magnus Carlsen gained nine rating points in the World Championship match against Ian Nepomniachtchi, and with a rating of 2865 he is now 35 points away from 2900 but 61 points ahead of Alireza Firouzja, the youngest world's number two of all time, who also leads the junior's list. Hou Yifan (2658) is the women's world number one, followed by Aleksandra Goryachkina with 2610. Zhu Jiner (2478) from China leads the \"Girls\" list.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-new-fide-world-ranking-list-january-2022",
+         "pubDate" : "Mon, 03 Jan 2022 12:24:54 +0100",
+         "title" : "The new FIDE World Ranking List: January 2022"
+      },
+      {
          "description" : "Considering the new wave of pandemic with another variant and the restrictions imposed by various states and agencies, All India Chess Federation decided to postpone",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1882,14 +1898,6 @@ news_feed (
          "title" : "Carlsen's doubts over title defence leave chess facing uncertain future | Leonard Barden"
       },
       {
-         "description" : "This week, well-known Dutch trainer Robert Ris looks at a promising line that White may try against the Pirc. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-fascinating-concept-for-white-in-the-pirc-austrian-attack",
-         "pubDate" : "Thu, 16 Dec 2021 21:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A fascinating concept for White in the Pirc Austrian Attack"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1904,14 +1912,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/arena-kings-season-8-recap-nakamura",
          "pubDate" : "Thu, 16 Dec 2021 09:53:45 -0800",
          "title" : "Arena Kings Season 8 Recap: Nakamura Wins Championship Final"
-      },
-      {
-         "description" : "For the past eighteen years the Gibraltar International Chess Festival has been held in the Caleta Hotel. But the organisers have found an ideal replacement: Gibraltar's historic Garrison Library. The 2022 event, #GibChess, is entitled \"Battle of the Sexes Match-Tournament\" and takes place from Monday 24 January until Thursday 3 February 2022.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-in-gibraltar",
-         "pubDate" : "Thu, 16 Dec 2021 16:00:00 +0100",
-         "title" : "Battle of the Sexes in Gibraltar"
       },
       {
          "description" : "The Holiday bots are back by popular demand! It&#39;s the end of the year and we can already enjoy that warm feeling that only the Holiday season can bring. To celebrate these splendid times, we called our five Holiday bots back to brighten your days ...",
@@ -2128,14 +2128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-fide-world-chess-championship-carlsen-trophy-dubov-criticized",
          "pubDate" : "Mon, 13 Dec 2021 04:39:00 -0800",
          "title" : "FIDE World Chess Championship: Carlsen Crowned, Dubov Criticized"
-      },
-      {
-         "description" : " One of the hot takes from the 2021 World Championship Match is that Carlsen's natural ability overcame engine prep from Nepo. Given the relatively low error rate from both players early in the match, I'm not convinced that this is true, although it is fair to say that Carlsen obviously did better when it wasn't just prep v prep. Looking back at a number of older (pre engine) games is that their are often errors in analysis. The main reason for this seems to be that a lot of strong moves are overlooked at the top of the tree, either because it isn't part of an existing plan, or the assumption that the opponent is restricted to one or two choices. However, there are a number of examples where",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/engine-accurate.html",
-         "pubDate" : "Mon, 13 Dec 2021 12:15:00 +0000",
-         "title" : "Engine accurate?"
       }
    ]
 }
