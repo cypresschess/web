@@ -5,6 +5,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1512",
+         "pubDate" : "Mon, 03 Jan 2022 19:34:02 +0000",
+         "title" : "Ghana Championship 2021: Adu-Poku and Felix claim titles"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1511",
          "pubDate" : "Mon, 03 Jan 2022 15:25:50 +0000",
          "title" : "Gabor Kallai (1959-2021)"
@@ -2112,14 +2120,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/why-king-carlsen-is-a-cut-above-all-competition/articleshow/88268337.cms",
          "pubDate" : "Tue, 14 Dec 2021 08:49:52 +0530",
          "title" : "Why King Carlsen is a cut above all competition"
-      },
-      {
-         "description" : " The 12th London Chess Classic took place 3rd to 12th December 2021. The event was on a smaller scale due to the continuing coronavirus crisis and there was a different venue, the Cavendish Centre. The main event was an England vs the Rest of the World Scheveningen match between England's Michael Adams, Luke McShane and Gawain Jones and a Rest of the World Team of Boris Gelfand, Nikita Vitiugov and Maxime Lagarde over 6 rounds. The Rest of the World won the final round to win the match. Also there were other events including the Pro-Biz and English Rapidplay Championship which saw Gawain Jones win after beating Luke McShane in a tie-break - they had shared first in the all-play-all phase.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/12th-london-chess-classic-2021",
-         "pubDate" : "Mon, 13 Dec 2021 22:36:00 +0400",
-         "title" : "12th London Chess Classic 2021 - Games and Results"
       }
    ]
 }
