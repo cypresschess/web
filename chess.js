@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1511",
+         "pubDate" : "Mon, 03 Jan 2022 15:25:50 +0000",
+         "title" : "Gabor Kallai (1959-2021)"
+      },
+      {
+         "description" : " In my chess library are a number of books dealing with opening traps. The earlier ones were produced by authors such as Reinfeld, Chernev and Horowitz, and predated the development of chess databases. I assume instead they had a vast collection of scoresheets and index cards, gathering information from tournament bulletins, chess magazines and reader submissions. As most of the traps presented did not have the players names attached to them, I wonder what the criteria for a 'trap' was. Was it simply a quick game where the mistake wasn't too egregious, or did it have to have been played a certain number of times to qualify? And, in some cases, was it just interesting analysis from the author",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/when-does-this-become-trap.html",
+         "pubDate" : "Mon, 03 Jan 2022 13:00:00 +0000",
+         "title" : "When does this become a trap?"
+      },
+      {
          "description" : "We know that our latest version of Fritz has a special mode that allows you to actually win games - which no 3500+ program would ever do. A lot of amateurs are having loads of fun, learning to spot combinations and by brilliancies in the process. We are also experimenting with strong GMs: will they too enjoy using Fritz 18 as a training partner? Here's someone who has tried.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2104,30 +2120,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/12th-london-chess-classic-2021",
          "pubDate" : "Mon, 13 Dec 2021 22:36:00 +0400",
          "title" : "12th London Chess Classic 2021 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1479",
-         "pubDate" : "Mon, 13 Dec 2021 15:06:57 +0000",
-         "title" : "27th Abu Dhabi International Chess Festival brings together 195 players from 49 countries"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1478",
-         "pubDate" : "Mon, 13 Dec 2021 13:25:30 +0000",
-         "title" : "Third Chess in Education lecturer course to run from December 17-19"
-      },
-      {
-         "description" : "&#34;This time I can say I am fully satisfied with my performance, and that&#39;s a great feeling,&#34; said GM Magnus Carlsen after being crowned for the fifth time as world chess champion on Sunday. Meanwhile, one of his seconds, GM Daniil Dubov, was critic...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-fide-world-chess-championship-carlsen-trophy-dubov-criticized",
-         "pubDate" : "Mon, 13 Dec 2021 04:39:00 -0800",
-         "title" : "FIDE World Chess Championship: Carlsen Crowned, Dubov Criticized"
       }
    ]
 }
