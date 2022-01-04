@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After shocking the chess world by sensationally winning the World Rapid Chess Championship, 17-year-old Nodirbek Abdusattorov was yesterday celebrated at home in Uzbekistan. The prodigy received a huge cash prize, the keys to a two-room apartment and a Presidential medal in a packed ceremony at the headquarters of the National Olympic Commitee in the country's capital Tashkent.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/17-year-old-world-champion-gifted-new-home-in-presidential-ceremony",
+         "pubDate" : "Tue, 04 Jan 2022 22:23:33 +0000",
+         "title" : "17-year-old World Champ gifted flat by Presidential decree"
+      },
+      {
+         "description" : "This \"Weekly Show\" is all about the World Rapid and Blitz Championships and a look ahead to 2022. Lawrence takes a close look at the battle Gukesh-Abdusattorov from the World Rapid, \"a great display of resilience from the young Uzbek who went on to shock the field and win the entire tournament\". | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-the-world-rapid-and-blitz-championships-2021",
+         "pubDate" : "Tue, 04 Jan 2022 18:15:08 +0100",
+         "title" : "The Weekly Show: The World Rapid and Blitz Championships 2021"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Schachbundesliga</strong> has <a href=\"https://www.schachbundesliga.de/artikel/321\">postponed its season</a> with the first round on 5 March instead of 15 January. The last five rounds are planned to be held centrally in Berlin on 16-19 June. The clubs have agreed on new rules to promote the participation of players who have grown up in Germany. Teams who line up more foreign players can compensate with junior and school chess programmes. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/german-league-starts-on-5-march/",
+         "pubDate" : "Tue, 04 Jan 2022 17:52:13 +0100",
+         "title" : "German league starts on 5 March"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1513",
+         "pubDate" : "Tue, 04 Jan 2022 15:53:23 +0000",
+         "title" : "Youngsters skyrocket in January rapid and blitz rating lists"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/c7b90d20-5efa-408b-ab36-bae8943d1148/Christof3.jpg\" data-image-dimensions=\"280x280\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61d456f056b10f595659f2f4\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/c7b90d20-5efa-408b-ab36-bae8943d1148/Christof3.jpg?format=1000w\" /> </figure> <p class=\"\">This week's guest on Perpetual Chess marks the return of award winning author, Chessable author, and noted opening theoretician, IM Christof Sielecki. Christof has recently",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/4/ep-260-im-christof-sielecki-is-back",
+         "pubDate" : "Tue, 04 Jan 2022 14:19:48 +0000",
+         "title" : "EP 260- IM Christof Sielecki is back! "
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Tata Steel Chess Tournament</strong> will only feature the Masters and Challengers with 14 participants each on 14-30 January. All <a href=\"https://tatasteelchess.com/news/tata-steel-chess-tournament-2022-will-go-ahead-but-without-amateur-players/\">amateur events have been canceled</a>, the children tournament will take place online. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/wijk-aan-zee-without-amateur-events/",
+         "pubDate" : "Tue, 04 Jan 2022 14:25:15 +0100",
+         "title" : "Wijk aan Zee without amateur events"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Hungarian grandmaster, coach, author and arbiter <strong>Gabor Kallai</strong> <a href=\"https://en.chessbase.com/post/remembering-gm-gbor-kllai-21-february-1959-31-december-2021\">passed away</a> at age 62 on New Year's Eve. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/gabor-kallai-1959-2021/",
+         "pubDate" : "Tue, 04 Jan 2022 14:21:16 +0100",
+         "title" : "Gabor Kallai (1959-2021)"
+      },
+      {
+         "description" : "In 1967 the city of Sousse (Tunisia) organised one of the most talked about Interzonal Tournaments in the history of chess. After 10 rounds Bobby Fischer led with 8&frac12;/10 but after quarrels with the organisers, the eccentric American decided to withdraw from the tournament and to wait for three more years before making his final attempt to become World Champion. The first Bicapawn International Chess Tournament that was played in Sousse at the end of 2021 went much more smoothly and was won by GM Misratdin Iskandarov from Azerbaijan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/misratdin-iskandarov-wins-in-sousse",
+         "pubDate" : "Tue, 04 Jan 2022 14:00:00 +0100",
+         "title" : "Misratdin Iskandarov wins in Sousse"
+      },
+      {
          "description" : " GM Nigel Short is currently playing in a strong international open in Italy, having recently come out of hospital after being treated for Covid. He didn't get off to the best start, being held to a draw in round 1, and his round 2 game at one stage was even worse. On move 14 he found his king being forced to move to e7, but move 15 was the real blunder, allowing a fork on f7. Although his opponent did not immediately take the rook, Shirt was soon down the exchange, and acing a strong attack. In his own words, he was considering resigning, but then a miracle occurred. His opponents phone rang, and the game was instantly over (with a win for Short). Bad luck for the opponent, but there should",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -418,14 +482,6 @@ news_feed (
          "title" : "Karpov-Korchnoi 1978 Depicted In 'The World Champion'"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Candidates Tournament</strong> is taking place between 16 June and 7 July in Madrid. <strong>Chess.com</strong> is the main sponsor with backing of the <strong>Scheinberg family</strong> who made their fortune with online poker and are Chess.com shareholders. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/madrid-stages-candidates/",
-         "pubDate" : "Thu, 30 Dec 2021 10:52:17 +0100",
-         "title" : "Madrid stages Candidates"
-      },
-      {
          "description" : "All India Chess Federation a very happy birthday to First International Master of India Mr. Manuel Aaron, the nine times national champion and represented the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -624,14 +680,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nodirbek-abdusattorov-is-world-rapid-chess-champion/",
          "pubDate" : "Tue, 28 Dec 2021 20:24:04 +0000",
          "title" : "17-year old Nodirbek Abdusattorov is the new Rapid World Champion"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Nodirbek Abdusattorov</strong> and the regulations spoilt the <strong>Rapid World Championship</strong> in Warsow for <strong>Magnus Carlsen</strong>. The world champion led after two days but lost the first game of the final day against the 17-year-old Uzbek, who claimed the title after winning the blitz tie-break against <strong>Ian Nepomniachtchi</strong>. Carlsen and <strong>Fabiano Caruana</strong> also ended on 9,5 points out of 14 but were left out. <strong>Alexandra Kosteniuk</strong> won the women's event. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/abdusattorov-wins-world-rapid/",
-         "pubDate" : "Tue, 28 Dec 2021 20:22:57 +0100",
-         "title" : "Abdusattorov wins World Rapid"
       },
       {
          "description" : "Nona Gaprindashvili wrote referring to Milunka Lazarevic: \"A literary person by profession, lively and impressionable, Lazarevic is one of the brightest figures in women's chess of the sixties\". Milunka attracted attention by her exciting, uncompromising style: sacrificing pawns and pieces and despising draws, which made her famous and endeared her to chess audiences! | Pictured: Lazarevic, Tengiz Giorgadze and Gaprindashvili (National Parliamentary Library of Georgia)",
@@ -880,14 +928,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/let-s-make-5-c5-the-main-line-against-5-bd2",
          "pubDate" : "Sun, 26 Dec 2021 20:00:00 +0100",
          "title" : "\"Let's make 5&hellip;c5 the main line against 5.Bd2!\""
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The world champion cares about the welfare of the chess community. The chess community better also cares about the welfare of the world championship. Let's have a proper debate. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/magnus-weihnachten.1920.jpeg\" title=\"The match system heavily favours the world champion, but it doesn't motivate him any more. photo: chess24\" data-title=\"The match system heavily favours the world champion, but it doesn't motivate him any more. (photo: chess24)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/magnus-weihnachten.480.jpeg\" alt",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/carlsen-has-a-wish/",
-         "pubDate" : "Sun, 26 Dec 2021 17:20:28 +0100",
-         "title" : "Carlsen has a wish"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 59th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the battle between static and dynamic factors. | Photo: Tommy Grooten",
@@ -1858,14 +1898,6 @@ news_feed (
          "title" : "Andrei Volokitin and Kateryna Dolzhykova win Ukrainian Championship"
       },
       {
-         "description" : "Magnus Carlsen's hunt to break the 2900 barrier begins with the 84th edition of the prestigious Tata Steel Chess tournament in Wijk aan Zee, Netherlands, which takes place from January 14-30. Chess fans will unfortunately not see a clash between the World Champion and the new world no. 2, 18-year-old Alireza Firouzja, as the organisers turned down his demands for compensation over the row at the end of the 2021 edition.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/firouzja-misses-wijk-after-compensation-demand-denied",
-         "pubDate" : "Fri, 17 Dec 2021 19:50:52 +0000",
-         "title" : "Firouzja misses Wijk after compensation demand denied"
-      },
-      {
          "description" : "The 7th edition of the Gashimov Memorial was officially inaugurated today in Baku. The tournament in memory of Vugar Gashimov, who died at an early age, will be contested by eight players - including Vishy Anand, Fabiano Caruana and Shakhriyar Mamedyarov. Unlike previous editions, it will be played as a rapid and blitz tournament. The first round will be played on Saturday.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1904,22 +1936,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/2021-lifeline-bookfair.html",
          "pubDate" : "Fri, 17 Dec 2021 12:30:00 +0000",
          "title" : "2021 Lifeline Bookfair"
-      },
-      {
-         "description" : "The Chess Festival Salamanca combines chess sport and chess culture and emphasises gender equality. Four top male and four top female players compete in a tournament. After three rounds, Jaime Santos is in the lead. | Photos: Tournament page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-as-sport-and-culture-the-chess-festival-in-salamanca",
-         "pubDate" : "Fri, 17 Dec 2021 12:28:25 +0100",
-         "title" : "Chess as sport and culture: The Chess Festival in Salamanca"
-      },
-      {
-         "description" : "In yesterday's door it was a matter of finding Anand's move. g5+! Queen and knight do the rest, as they are stronger here than queen and bishop. Today, the king has four moves to choose from. A tricky puzzle, and a clever idea.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-1732",
-         "pubDate" : "Fri, 17 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 17"
       },
       {
          "description" : " Last week, we started our exploration of tactics. We worked through the basics of a specific tactic called the pin. The pin involves three pieces: the piece doing the pinning, the pinned piece, and the more valuable piece behind the pinned piece. There are two types of pins, the relative pin, in which a player <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-six/\">A Foundation for Beginners Forty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://chessi",
@@ -2064,54 +2080,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/12/15/edgard-colle-caissas-wounded-warrior/",
          "pubDate" : "Wed, 15 Dec 2021 00:10:59 +0000",
          "title" : "Edgard Colle: Caissa's Wounded Warrior"
-      },
-      {
-         "description" : "FM Mike Klein, Chess.com&#39;s onsite correspondent at the 2021 FIDE World Championship and the Chief Chess Officer of ChessKid, caught up with GM Ian Nepomniachtchi for an interview a couple of days after the match with GM Magnus Carlsen. Feel free t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ian-nepomniachtchi-on-the-world-chess-championship",
-         "pubDate" : "Tue, 14 Dec 2021 07:08:00 -0800",
-         "title" : "Ian Nepomniachtchi On The World Chess Championship"
-      },
-      {
-         "description" : "Six-team event will boast of 2 Super GMs, 2 Indian GMs, 2 WGMS, 1 Indian Junior Boy, 1 Indian Junior Girl each New Delhi, December",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/cash-rich-indian-chess-league-to-take-place-in-june-2022/",
-         "pubDate" : "Tue, 14 Dec 2021 14:12:33 +0000",
-         "title" : "Cash-rich Indian Chess League to take place in June 2022"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2c980fa8-f2a4-458e-a8ff-0bc7d02ed3da/Erwin2.jpg\" data-image-dimensions=\"547x820\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61b8a0f07dcd765c388e02a4\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2c980fa8-f2a4-458e-a8ff-0bc7d02ed3da/Erwin2.jpg?format=1000w\" /> </figure> <p class=\"\">Photo courtesy of GM Erwin L'Ami <p class=\"\">Perpetual Chess is back for one more World Championship wrap-up (among other topics) with top Dutch player, trainer, and popular Ches",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/14/ep-257-gm-erwin-lami-with-a-world-championship-wrap-up-and-more",
-         "pubDate" : "Tue, 14 Dec 2021 13:52:37 +0000",
-         "title" : "EP 257- GM Erwin L'Ami with a World Championship Wrap Up (and more!) "
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88281440.cms\" />Taking a leaf out of sports like cricket and badminton, the All India Chess Federation on Tuesday announced that the sport will have its very own franchise-based league to be held next year in June.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-announces-indian-chess-league-in-june-next-year/articleshow/88281440.cms",
-         "pubDate" : "Tue, 14 Dec 2021 19:10:19 +0530",
-         "title" : "AICF announces Indian Chess League in June next year"
-      },
-      {
-         "description" : "GM Magnus Carlsen might be letting go of his world title in classical chess unless GM Alireza Firouzja will be his opponent for the next match. &#34;If someone other than Firouzja wins the Candidates Tournament, it is unlikely that I will play the nex...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-defend-world-chess-title-alireza-firouzja",
-         "pubDate" : "Tue, 14 Dec 2021 05:34:00 -0800",
-         "title" : "Carlsen Might Only Defend Title Vs. Firouzja"
-      },
-      {
-         "description" : "European Online Rapid School Chess Championship 2021 was played from 3rd-12th December 2021, through Tornelo playing platform. The event was played within 5 different age groups, open and girls separately. After the qualification stage of the event, the top 8 players of each section proceeded to the final knockout stage which determined the winners of the event.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-online-rapid-school-chess-champions-crowned/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-online-rapid-school-chess-champions-crowned/",
-         "pubDate" : "Tue, 14 Dec 2021 12:47:48 +0000",
-         "title" : "European Online Rapid School Chess Champions crowned"
       }
    ]
 }
