@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " &#8220; We like bar fights We like nose rings We like eating snails We always indulge in our favorite things No wonder our skin's so pale&#8221; AC/DC Jingle Hells Bells Happy New Year wherever you are! Let's hope for a better 2022 for all of us. Last week's puzzle can be revisited HERE. I hope <a href=\"https://chessimprover.com/a-christmas-puzzle-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Christmas Puzzle (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-christmas-puzzle-2/\">A Christmas Puzzle (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-christmas-puzzle-2/",
+         "pubDate" : "Tue, 04 Jan 2022 08:27:03 +0000",
+         "title" : "A Christmas Puzzle (2)"
+      },
+      {
+         "description" : "A bishop usually has trouble when defending against a rook in the endgame - a lot of trouble. In the diagram position it is White to move and win but in the game White allowed Black to build a fortress and to secure a crucial draw. But do you see how White can win?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rook-against-bishop",
+         "pubDate" : "Tue, 04 Jan 2022 09:00:00 +0100",
+         "title" : "Rook against bishop"
+      },
+      {
          "description" : "On Christmas Day, the James Webb Telescope began its long journey into space, as it is expected to provide new insights into the early history of the universe. The infinite expanses have inspired many artists. Music, the stars and chess are magically connected - says Jason Kouchak. | Photo: \"Starlight\" by Julian Paix",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1898,14 +1914,6 @@ news_feed (
          "title" : "\"Never run away from data!\" - A review of the ChessBase Opening Encyclopedia 2021"
       },
       {
-         "description" : "The European Rapid and Blitz Championships will take place on December 17-19 at the Spodek Sport and Entertainment Centre in Katowice, Poland. Local hero Jan-Krzysztof Duda (pictured) heads the list of participants in the blitz tournament which is played on 17 December. Follow the games live! | Photo: Duda at the World Cup 2021 | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-blitz-championship-live",
-         "pubDate" : "Fri, 17 Dec 2021 10:58:05 +0100",
-         "title" : "European Blitz Championship - Live!"
-      },
-      {
          "description" : " Last week, we started our exploration of tactics. We worked through the basics of a specific tactic called the pin. The pin involves three pieces: the piece doing the pinning, the pinned piece, and the more valuable piece behind the pinned piece. There are two types of pins, the relative pin, in which a player <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-six/\">A Foundation for Beginners Forty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://chessi",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2112,14 +2120,6 @@ news_feed (
          "link" : "https://chessimprover.com/need-sure-points-scotch-opening-edition/",
          "pubDate" : "Tue, 14 Dec 2021 09:24:14 +0000",
          "title" : "Need sure points? Scotch Opening Edition"
-      },
-      {
-         "description" : "GM Wesley So defeated GM Nihal Sarin by a slender 15-14 margin in the first semifinal match of the 2021 Speed Chess Championship Main Event. So thus becomes the first player to reach the finals of the event; the other semifinal match is scheduled ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-so-nihal",
-         "pubDate" : "Tue, 14 Dec 2021 00:05:00 -0800",
-         "title" : "Speed Chess Championship: So Edges Out Nihal, Enters Finals"
       }
    ]
 }
