@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Christmas Day, the James Webb Telescope began its long journey into space, as it is expected to provide new insights into the early history of the universe. The infinite expanses have inspired many artists. Music, the stars and chess are magically connected - says Jason Kouchak. | Photo: \"Starlight\" by Julian Paix",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/infinite-expansions-space-chess-and-music",
+         "pubDate" : "Tue, 04 Jan 2022 05:05:00 +0100",
+         "title" : "Infinite expansions: space, chess and music"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2112,14 +2120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-speed-chess-championship-main-event-so-nihal",
          "pubDate" : "Tue, 14 Dec 2021 00:05:00 -0800",
          "title" : "Speed Chess Championship: So Edges Out Nihal, Enters Finals"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88268337.cms\" />Magnus Carlsen, who extended his reign of the chess empire to more than nine years with a resounding win over challenger Ian Nepomniachtchi in Dubai on Friday, understands that sport is neither equal nor fair. Going by some of his quotes during the World Championship match, the Norwegian is probably happy with the cruel consequences of being a sportsman.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/why-king-carlsen-is-a-cut-above-all-competition/articleshow/88268337.cms",
-         "pubDate" : "Tue, 14 Dec 2021 08:49:52 +0530",
-         "title" : "Why King Carlsen is a cut above all competition"
       }
    ]
 }
