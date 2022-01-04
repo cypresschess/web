@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " GM Nigel Short is currently playing in a strong international open in Italy, having recently come out of hospital after being treated for Covid. He didn't get off to the best start, being held to a draw in round 1, and his round 2 game at one stage was even worse. On move 14 he found his king being forced to move to e7, but move 15 was the real blunder, allowing a fork on f7. Although his opponent did not immediately take the rook, Shirt was soon down the exchange, and acing a strong attack. In his own words, he was considering resigning, but then a miracle occurred. His opponents phone rang, and the game was instantly over (with a win for Short). Bad luck for the opponent, but there should",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/i-believe-in-miracles.html",
+         "pubDate" : "Tue, 04 Jan 2022 12:21:00 +0000",
+         "title" : "I believe in miracles ..."
+      },
+      {
+         "description" : "The 2022 Chess Calendar begins with Magnus Carlsen and Fabiano Caruana topping the field for the Tata Steel Masters from January 15th onwards, and, if all goes to plan, it's a year that's going to feature another Candidates Tournament and the first over-the-board World Chess Olympiad since 2018. Whatever happens with the pandemic, the Meltwater Champions Chess Tour will be back, with nine high stakes events running from February 19th to November 20th.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/2022-chess-calendar",
+         "pubDate" : "Tue, 04 Jan 2022 11:35:00 +0000",
+         "title" : "2022 Chess Calendar"
+      },
+      {
+         "description" : "On the last day of 2021, one of the most distinguished personalities in the world of chess passed away. On 31 December 2021 the Hungarian Grandmaster G&aacute;bor K&aacute;llai died at the age of 62. Diana Mihajlova knew Kallai well and looks back to the achievements of the Hungarian Grandmaster who also worked as a trainer, author, organizer, arbiter, captain, journalist, radio and TV commentator. | Photo: Facebook page of the Hungarian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-gm-gbor-kllai-21-february-1959-31-december-2021",
+         "pubDate" : "Tue, 04 Jan 2022 11:26:56 +0100",
+         "title" : "Remembering GM G&aacute;bor K&aacute;llai, 21 February 1959 - 31 December 2021"
+      },
+      {
          "description" : " &#8220; We like bar fights We like nose rings We like eating snails We always indulge in our favorite things No wonder our skin's so pale&#8221; AC/DC Jingle Hells Bells Happy New Year wherever you are! Let's hope for a better 2022 for all of us. Last week's puzzle can be revisited HERE. I hope <a href=\"https://chessimprover.com/a-christmas-puzzle-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Christmas Puzzle (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-christmas-puzzle-2/\">A Christmas Puzzle (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1850,14 +1874,6 @@ news_feed (
          "title" : "The Gashimov Memorial returns with Anand, Caruana and Karjakin"
       },
       {
-         "description" : "England Women's Coach and ECF Festival for All coach, IM Lorin D'Costa is holding an online tournament as a fundraiser for his &#8216;She Plays To...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/new-years-eve-she-plays-to-win-open-tournament/",
-         "pubDate" : "Fri, 17 Dec 2021 16:08:32 +0000",
-         "title" : "New Year's Eve She Plays to Win Open Tournament"
-      },
-      {
          "description" : "Sometimes, it is not about attacking the king, or winning a piece, but getting an overwhelmingly strong position. And this can be achieved in several different ways. Svitlana picked out a way of gaining advantage through positional sacrificing. The 18-year-old coach, shows us two examples of Botvinnik, and Anand. Viswanathan Anand's game against Levon Aronian is an example of pure beauty.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1904,14 +1920,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-1732",
          "pubDate" : "Fri, 17 Dec 2021 12:00:00 +0100",
          "title" : "The Endgame Magic Christmas Calendar - Door 17"
-      },
-      {
-         "description" : "Jon Edwards is a passionate chess player, a passionate chess teacher and one of the world's best correspondence players. He knows how important it is to study openings and to study them with the right tools. In the current issue of the \"American Chess Magazine\" Jon Edwards had a look at the ChessBase Opening Encyclopedia, a tool he uses \"every day\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/never-run-away-from-data-a-review-of-the-chessbase-opening-encyclopedia-2021",
-         "pubDate" : "Fri, 17 Dec 2021 11:00:00 +0100",
-         "title" : "\"Never run away from data!\" - A review of the ChessBase Opening Encyclopedia 2021"
       },
       {
          "description" : " Last week, we started our exploration of tactics. We worked through the basics of a specific tactic called the pin. The pin involves three pieces: the piece doing the pinning, the pinned piece, and the more valuable piece behind the pinned piece. There are two types of pins, the relative pin, in which a player <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-six/\">A Foundation for Beginners Forty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://chessi",
@@ -1968,14 +1976,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/king-safety-v-king-safety.html",
          "pubDate" : "Thu, 16 Dec 2021 13:03:00 +0000",
          "title" : "King safety v king safety"
-      },
-      {
-         "description" : "Former FIDE World Champion Veselin Topalov puts Magnus Carlsen's success down to his ability to function normally in the 6th and 7th hour of a game of chess. He was interviewed about the Carlsen-Nepomniachtchi match and more by Evgeny Surov at the opening ceremony of the 4th Salamanca Chess Festival. Veselin also suggested that the World Chess Championship could switch to a knockout system.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/topalov-carlsen-should-give-his-brain-to-science",
-         "pubDate" : "Thu, 16 Dec 2021 12:53:34 +0000",
-         "title" : "Topalov: Carlsen \"should give his brain to science\""
       },
       {
          "description" : "With a victory in the final round, GM Jose Martinez won Titled Tuesday on December 14 with a score of 10/11. Coming in second place was last week&#39;s victor, GM Jeffery Xiong, with 9.5/11. GM Alexey Sarana and NM Valery Sviridov had the best tiebrea...",
@@ -2112,14 +2112,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-online-rapid-school-chess-champions-crowned/",
          "pubDate" : "Tue, 14 Dec 2021 12:47:48 +0000",
          "title" : "European Online Rapid School Chess Champions crowned"
-      },
-      {
-         "description" : " &#8220;A dream becomes a goal when action is taken toward its achievement&#8221; Bo Bennett (businessman) The Scotch Game has resisted the test of times at all levels of chess competition. From Ercole del Rio (Italian chess author), the first one to mention it in his chess treatise from 1750, to GM Garry Kasparov who played <a href=\"https://chessimprover.com/need-sure-points-scotch-opening-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Scotch Opening Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-scotch-opening-edition/\">Need sure points? Scotch Opening Edition</a> appeared first on <a rel=\"no",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-scotch-opening-edition/",
-         "pubDate" : "Tue, 14 Dec 2021 09:24:14 +0000",
-         "title" : "Need sure points? Scotch Opening Edition"
       }
    ]
 }
