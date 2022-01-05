@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Championship match between Magnus Carlsen and Ian Nepomniachtchi was the chess highlight of the year 2021, and chess fans all over the world followed the games and the match avidly. Carlsen won 7.5-3.5 and defended his title. Shortly after the match, Oliver Roeder and Simran Parwani took a look at some statistics of the match and presented their findings on www.538.com, a statistics-oriented website that focuses on American politics and sports. | Image: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/statistics-and-numbers-the-world-chess-championship-in-5-charts",
+         "pubDate" : "Wed, 05 Jan 2022 13:22:17 +0100",
+         "title" : "Statistics and numbers: The World Chess Championship in 5 Charts"
+      },
+      {
          "description" : "Please find the final list for Chess for Everyone :National Organizer 1B batch scheduled to start from 11-13 January 2022 .Necessary meeting link will send",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1920,14 +1928,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gashimov-memorial-2021-preview",
          "pubDate" : "Fri, 17 Dec 2021 19:00:00 +0100",
          "title" : "The Gashimov Memorial returns with Anand, Caruana and Karjakin"
-      },
-      {
-         "description" : "Sometimes, it is not about attacking the king, or winning a piece, but getting an overwhelmingly strong position. And this can be achieved in several different ways. Svitlana picked out a way of gaining advantage through positional sacrificing. The 18-year-old coach, shows us two examples of Botvinnik, and Anand. Viswanathan Anand's game against Levon Aronian is an example of pure beauty.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-24",
-         "pubDate" : "Fri, 17 Dec 2021 17:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Positional sacrifices with Anand's help"
       },
       {
          "description" : "",
