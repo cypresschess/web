@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new ChessBase Magazine #205 offers a wealth of ideas and recommendations for your repertoire. The topics of the eleven opening articles in the new issue range from the Benko Gambit (4.cxb5 a6 5.b6 e6), the French Tarrasch (8.0-0 g5!), the Ruy Lopez (5.Qe2) to recipes against the King's Indian (after 6.Be2). Sergey Grigoriants looks at a topic that will interest many chess fans: He presents an active repertoire against the London System! However, you have to be ready to sacrifice a pawn with 6...e5! and to continue playing \"precisely and powerfully\" afterwards. But that shouldn't be difficult for you after reading Grigoriant's article!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/surprise-in-the-london-system",
+         "pubDate" : "Wed, 05 Jan 2022 10:06:29 +0100",
+         "title" : "Surprise in the London System"
+      },
+      {
          "description" : "After shocking the chess world by sensationally winning the World Rapid Chess Championship, 17-year-old Nodirbek Abdusattorov was yesterday celebrated at home in Uzbekistan. The prodigy received a huge cash prize, the keys to a two-room apartment and a Presidential medal in a packed ceremony at the headquarters of the National Olympic Commitee in the country's capital Tashkent.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1922,14 +1930,6 @@ news_feed (
          "title" : "FIDE Qualification Commission conducts survey"
       },
       {
-         "description" : "In the second semifinal of the Speed Chess Championship knockout event, defending champion Hikaru Nakamura had to work extra hard to defeat Ding Liren, as the match was only decided in Armageddon. The Chinese grandmaster drew the online blitz and bullet specialist both 'in regulation' and in the 4-game tiebreaker. Nakamura will face Wesley So in Sunday's final match.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-championship-2021-semifinal-2",
-         "pubDate" : "Fri, 17 Dec 2021 14:00:00 +0100",
-         "title" : "Nakamura beats Ding in Armageddon, will face So in SCC final"
-      },
-      {
          "description" : " Sometimes it is a feast, but today was more of a famine. The 2021 Lifeline Bookfair is currently running over this weekend, in the somewhat cramped confines of the Canberra Racecourse. I made a quick visit this morning, but sadly, there were very few chess books (at least ones I did not already own). I purchased one book (on chess), but I did pick up a chess computer to add to my collection. On the other hand, if you are a Contract Bridge player, there were around 10 times as many bridge books as chess books, so you may be rewarded if you visit. I may return on Sunday, although I am not expecting my luck to change at this stage. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2032,30 +2032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1481",
          "pubDate" : "Wed, 15 Dec 2021 10:41:53 +0000",
          "title" : "Greek Championship: Athanasios Mastrovasilis and Charitomeni Markantonaki win titles"
-      },
-      {
-         "description" : "The London Junior Championship Finals have moved online with extra options to qualify at U8, U10 and U12 levels. Tickets available at Eventbrite London...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ljcc-moves-online/",
-         "pubDate" : "Wed, 15 Dec 2021 08:53:18 +0000",
-         "title" : "LJCC moves online"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1480",
-         "pubDate" : "Wed, 15 Dec 2021 08:39:37 +0000",
-         "title" : "Registration for FIDE World Rapid & Blitz Championships 2021 is now open"
-      },
-      {
-         "description" : "It is with great regret that the Chairman, sponsors Caplin Systems and Hastings Borough Council, and the organisers of the Caplin 96th Hastings International Chess...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/hastings-cancellation-notice/",
-         "pubDate" : "Wed, 15 Dec 2021 08:37:37 +0000",
-         "title" : "Hastings - cancellation notice"
       }
    ]
 }
