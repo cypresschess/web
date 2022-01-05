@@ -2064,14 +2064,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/what-happens-if-carlsen-quits-the-championship-cycle/",
          "pubDate" : "Wed, 15 Dec 2021 07:29:12 +0000",
          "title" : "What Happens If Carlsen Quits the Championship Cycle"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88290029.cms\" />Newly-crowned double World Chess champion Magnus Carlsen says he's unlikely to defend his title unless he faces French-Iranian prodigy Alireza Firouzja.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-says-he-might-not-defend-his-world-chess-title/articleshow/88290029.cms",
-         "pubDate" : "Wed, 15 Dec 2021 09:09:30 +0530",
-         "title" : "Magnus Carlsen says he might not defend his world chess title"
       }
    ]
 }
