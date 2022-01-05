@@ -2072,14 +2072,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-says-he-might-not-defend-his-world-chess-title/articleshow/88290029.cms",
          "pubDate" : "Wed, 15 Dec 2021 09:09:30 +0530",
          "title" : "Magnus Carlsen says he might not defend his world chess title"
-      },
-      {
-         "description" : " Edgard Colle: Caissa's Wounded Warrior : Taylor Kingston From the publisher: &#8220;One of Caissa's Brightest Stars! Mention the name &#8220;Colle&#8221; and many if not most chessplayers think about an opening that is both easy to play as well as one with dynamic potential. Rarely is any thought given to the man himself. Plug the word &#8220;Colle&#8221; <a href=\"http://britishchessnews.com/2021/12/15/edgard-colle-caissas-wounded-warrior/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Edgard Colle: Caissa's Wounded Warrior</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/15/edgard-colle-caissas-wound",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/12/15/edgard-colle-caissas-wounded-warrior/",
-         "pubDate" : "Wed, 15 Dec 2021 00:10:59 +0000",
-         "title" : "Edgard Colle: Caissa's Wounded Warrior"
       }
    ]
 }
