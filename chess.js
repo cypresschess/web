@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">On the 2022 New Year's Eve, a chess train was launched in the Moscow metro, which is literally a mobile gallery of chess history. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/GL2-sam(9).jpg\" width=\"1600\" height=\"800\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: E.Samarina / Mos.ru</div> </div> The train runs along the Sokolnicheskaya line (red line), the oldest in the Moscow metro, and it has five themed cars with the history of the game, the chess evolution in the Soviet Union and in Russia, the world's elite players, some of the most important games, representations of chess in art, theater, literature, cinema and of course the black and wh",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/a-chess-train-in-the-moscow-metro/",
+         "pubDate" : "Wed, 05 Jan 2022 19:04:39 +0000",
+         "title" : "A chess train in the Moscow metro"
+      },
+      {
+         "description" : "The first Titled Tuesday of 2022 went to GM David Howell on January 4. He scored 10/11 for an outright victory. In second place, also untied at 9.5/11, was GM Alexey Sarana. Meanwhile, seven players tied with nine points, with IM Pranav V in third...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/howell-wins-january-4-titled-tuesday",
+         "pubDate" : "Wed, 05 Jan 2022 09:25:54 -0800",
+         "title" : "Howell Wins January 4 Titled Tuesday"
+      },
+      {
+         "description" : "In this first \"Game of the Week\" show of the new year Merijn van Delft takes a final look at the World Rapid Championship. Magnus Carlsen pushed a little too hard and lost against 17-year old Nodirbek Abdusattorov, and in the end Abusattorov qualified for his third tournament playoff in a row (earlier in December twice in Spain) and again he won to become the youngest Rapid World Champion ever. In the final game of the playoff he impressively beat Ian Nepomniachtchi, which is Merijn's Game of the Week. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-497-n-abdusattorov-vs-i-nepomniachtchi",
+         "pubDate" : "Wed, 05 Jan 2022 17:49:34 +0100",
+         "title" : "Game of the Week #497: N. Abdusattorov vs I. Nepomniachtchi"
+      },
+      {
          "description" : "Please note this Call of Interest for Arbiters invitation from FIDE Who is eligible? All FIDE Arbiters and International Arbiters with a valid FIDE...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://aicf.in/national-organisertraining-batch-1-b-11-13-jan-2022/",
          "pubDate" : "Wed, 05 Jan 2022 11:38:04 +0000",
          "title" : "National OrganiserTraining : Batch 1 B (11-13 Jan 2022)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1436",
+         "pubDate" : "Wed, 05 Jan 2022 10:33:34 +0000",
+         "title" : "FIDE expands and extends Aid Package Program to 2022"
       },
       {
          "description" : "The new ChessBase Magazine #205 offers a wealth of ideas and recommendations for your repertoire. The topics of the eleven opening articles in the new issue range from the Benko Gambit (4.cxb5 a6 5.b6 e6), the French Tarrasch (8.0-0 g5!), the Ruy Lopez (5.Qe2) to recipes against the King's Indian (after 6.Be2). Sergey Grigoriants looks at a topic that will interest many chess fans: He presents an active repertoire against the London System! However, you have to be ready to sacrifice a pawn with 6...e5! and to continue playing \"precisely and powerfully\" afterwards. But that shouldn't be difficult for you after reading Grigoriant's article!",
@@ -1898,14 +1930,6 @@ news_feed (
          "title" : "Duda Jan-Krzysztof wins European Blitz Chess Championship 2021"
       },
       {
-         "description" : "The diagram shows a position from a game that was played 90 years ago. White here found a combination that is a true classic, and particularly impressive was the quiet third move of the combination. Do you see what White can do here?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/from-the-evergreen-tree",
-         "pubDate" : "Sat, 18 Dec 2021 09:00:00 +0100",
-         "title" : "From the evergreen tree"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2016,14 +2040,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/king-safety-v-king-safety.html",
          "pubDate" : "Thu, 16 Dec 2021 13:03:00 +0000",
          "title" : "King safety v king safety"
-      },
-      {
-         "description" : "With a victory in the final round, GM Jose Martinez won Titled Tuesday on December 14 with a score of 10/11. Coming in second place was last week&#39;s victor, GM Jeffery Xiong, with 9.5/11. GM Alexey Sarana and NM Valery Sviridov had the best tiebrea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/martinez-wins-december-14-titled-tuesday",
-         "pubDate" : "Wed, 15 Dec 2021 09:10:00 -0800",
-         "title" : "Martinez Wins December 14 Titled Tuesday"
       }
    ]
 }
