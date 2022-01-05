@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please note this Call of Interest for Arbiters invitation from FIDE Who is eligible? All FIDE Arbiters and International Arbiters with a valid FIDE...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/calling-all-fide-and-international-arbiters/",
+         "pubDate" : "Wed, 05 Jan 2022 16:03:44 +0000",
+         "title" : "Calling all FIDE and International Arbiters!"
+      },
+      {
+         "description" : "In the 2021 World Championship match between challenger Ian Nepomniachtchi and defending champion Magnus Carlsen, Nepomniachtchi blundered in a couple of games. He is in good company. In his Power Play Chess show on YouTube Daniel King takes a look at blunders that happened in previous World Championship matches and found a number of amazing, amusing and entertaining mistakes made by the best players in the history of chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-world-championship-blunders",
+         "pubDate" : "Wed, 05 Jan 2022 15:00:00 +0100",
+         "title" : "Daniel King: World Championship Blunders"
+      },
+      {
+         "description" : " Online chess is increasingly become a perfectly acceptable form of competition, although a number of shortcomings have yet to be completely solved. FIDE are now happy to rate Hybrid events, as long as all the requirements for such an event are met (arbiters, cameras etc). A number of countries moved their teams events online, and this has generally worked, although the non-supervised events still have issues. There has been a thought to organise an online team event here in Canberra, but the major impediment is that most players are actually too close together. As clubs are still able to meet in person, any local team event may as well be held OTB rather than online. You would then think th",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/too-far-or-too-close.html",
+         "pubDate" : "Wed, 05 Jan 2022 12:48:00 +0000",
+         "title" : "Too far or too close"
+      },
+      {
          "description" : "The World Championship match between Magnus Carlsen and Ian Nepomniachtchi was the chess highlight of the year 2021, and chess fans all over the world followed the games and the match avidly. Carlsen won 7.5-3.5 and defended his title. Shortly after the match, Oliver Roeder and Simran Parwani took a look at some statistics of the match and presented their findings on www.538.com, a statistics-oriented website that focuses on American politics and sports. | Image: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1922,14 +1946,6 @@ news_feed (
          "title" : "Andrei Volokitin and Kateryna Dolzhykova win Ukrainian Championship"
       },
       {
-         "description" : "The 7th edition of the Gashimov Memorial was officially inaugurated today in Baku. The tournament in memory of Vugar Gashimov, who died at an early age, will be contested by eight players - including Vishy Anand, Fabiano Caruana and Shakhriyar Mamedyarov. Unlike previous editions, it will be played as a rapid and blitz tournament. The first round will be played on Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2021-preview",
-         "pubDate" : "Fri, 17 Dec 2021 19:00:00 +0100",
-         "title" : "The Gashimov Memorial returns with Anand, Caruana and Karjakin"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2008,30 +2024,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/martinez-wins-december-14-titled-tuesday",
          "pubDate" : "Wed, 15 Dec 2021 09:10:00 -0800",
          "title" : "Martinez Wins December 14 Titled Tuesday"
-      },
-      {
-         "description" : "The 2021 European Rapid&#38;Blitz Chess Championships 2021 kick off on Friday, 17th of December in Katowice, Poland. The first event on the schedule will be the European Blitz Chess Championship 2021 which will be held on 17th of December. The event will be played in 11 double rounds, Swiss system, with time control 3 min + 2 sec.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-rapidblitz-chess-championships-2021-start-in-katowice/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-rapidblitz-chess-championships-2021-start-in-katowice/",
-         "pubDate" : "Wed, 15 Dec 2021 14:10:38 +0000",
-         "title" : "European Rapid&Blitz Chess Championships 2021 start in Katowice"
-      },
-      {
-         "description" : "The third season of the Collegiate Chess League has finally come to an end, and a new team has earned the Division 1 championship title along with $5,000 of the $25,000 prize pool. The Finals Weekend was the most dramatic finish yet with prize mon...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-3-review",
-         "pubDate" : "Wed, 15 Dec 2021 05:49:00 -0800",
-         "title" : "Collegiate Chess League: A Wonderful Finish"
-      },
-      {
-         "description" : " GM Ian Rogers new book \"Oops! I Resigned Again!\" is out, just in time for Xmas. Looking at games where players didn't need to resign, but did, the book mixes a puzzle format with entertaining stories behind each position. Each chapter (of 5 positions each) is based around a theme, including \"Oops! I thought pawn endings were easy!\" or \"Oops! You played like a World Champion!\". In position shows an incorrect resignation, either in the diagram, or after a few moves, and then the reader is asked to identify the correct continuation. While I found the first few answer quite quickly, I did notice they got harder the further I went through the book. What makes this book truly good value is the st",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/oops-i-resigned-again.html",
-         "pubDate" : "Wed, 15 Dec 2021 13:37:00 +0000",
-         "title" : "Oops! I Resigned Again"
       }
    ]
 }
