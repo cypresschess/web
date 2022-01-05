@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find the final list for Chess for Everyone :National Organizer 1B batch scheduled to start from 11-13 January 2022 .Necessary meeting link will send",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-organisertraining-batch-1-b-11-13-jan-2022/",
+         "pubDate" : "Wed, 05 Jan 2022 11:38:04 +0000",
+         "title" : "National OrganiserTraining : Batch 1 B (11-13 Jan 2022)"
+      },
+      {
          "description" : "The new ChessBase Magazine #205 offers a wealth of ideas and recommendations for your repertoire. The topics of the eleven opening articles in the new issue range from the Benko Gambit (4.cxb5 a6 5.b6 e6), the French Tarrasch (8.0-0 g5!), the Ruy Lopez (5.Qe2) to recipes against the King's Indian (after 6.Be2). Sergey Grigoriants looks at a topic that will interest many chess fans: He presents an active repertoire against the London System! However, you have to be ready to sacrifice a pawn with 6...e5! and to continue playing \"precisely and powerfully\" afterwards. But that shouldn't be difficult for you after reading Grigoriant's article!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2024,14 +2032,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/oops-i-resigned-again.html",
          "pubDate" : "Wed, 15 Dec 2021 13:37:00 +0000",
          "title" : "Oops! I Resigned Again"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1481",
-         "pubDate" : "Wed, 15 Dec 2021 10:41:53 +0000",
-         "title" : "Greek Championship: Athanasios Mastrovasilis and Charitomeni Markantonaki win titles"
       }
    ]
 }
