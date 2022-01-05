@@ -2056,14 +2056,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/hastings-cancellation-notice/",
          "pubDate" : "Wed, 15 Dec 2021 08:37:37 +0000",
          "title" : "Hastings - cancellation notice"
-      },
-      {
-         "description" : " <p class=\"lead\">Magnus Carlsen, the World Chess Champion who just successfully defended his title for the 4th time, said that he might quit the world chess championship cycle altogether and not participate in the next Match. Apparently, it has become too boring. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6BBBDD9F-270F-44C1-A5EF-5264E4D0563F.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen during the 2018 World Chess Championship in London. Photo: World Chess</div> </div> Carlsen cited severe lack of motivation as a reason for considering leaving the cycle. According to the interview in the <a href=\"https://www.vg.no/spo",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/what-happens-if-carlsen-quits-the-championship-cycle/",
-         "pubDate" : "Wed, 15 Dec 2021 07:29:12 +0000",
-         "title" : "What Happens If Carlsen Quits the Championship Cycle"
       }
    ]
 }
