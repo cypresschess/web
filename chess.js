@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the second week of December Nigel Short caught Corona though he was vaccinated twice. Short's infection was so severe that he had to go hospital, but it did not stop the English Grandmaster from playing at the 6th Vergani Cup in Cattolica, Italy, at the beginning of the year. However, he needed some help from chess goddess Caissa when the tournament began. But Short did not forget his duties as a chess ambassador. | Photos: Circolo Scacchistico Forlivese, Rupali Mullick",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vergani-cup-when-the-mobile-rings-twice",
+         "pubDate" : "Thu, 06 Jan 2022 16:55:03 +0100",
+         "title" : "Vergani Cup: When the mobile rings twice..."
+      },
+      {
          "description" : "&#8212; from FIDE Following a success of the FIDE Open Tournaments support in 2021, FIDE will be expanding and extending Aid Package Program through 2022....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/play-sicilian-bb5-style-chess-and-psychology-im-dorsa-derakhshani",
          "pubDate" : "Thu, 06 Jan 2022 01:51:27 +0000",
          "title" : "Play the Sicilian: Bb5+ Style! | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : " From the publisher: &#8220;There aren't many chess players who can say they've both beaten Garry Kasparov in an official blitz game and crushed Peter Leko in a classical game in 26 moves. And who regularly win blitz tournaments high on marihuana. But then Manuel Bosboom is not an ordinary chess player. The Dutch International Master <a href=\"http://britishchessnews.com/2022/01/06/chess-buccaneer-the-life-and-games-of-manuel-bosboom/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess Buccaneer: The Life and Games of Manuel Bosboom</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/01/06/chess-buccaneer-th",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/01/06/chess-buccaneer-the-life-and-games-of-manuel-bosboom/",
+         "pubDate" : "Thu, 06 Jan 2022 00:10:13 +0000",
+         "title" : "Chess Buccaneer: The Life and Games of Manuel Bosboom"
       },
       {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. 2022.01.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-bb5-style-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AfN02fD6Yg0.jpg?itok=nhYhzC7E\" alt=\"\" /></a></div>",
@@ -456,6 +472,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-world-blitz-chess-championship-day-2-vachier-lagrave-assaubayeva-win",
          "pubDate" : "Thu, 30 Dec 2021 17:00:00 -0800",
          "title" : "World Blitz Chess Championship Day 2: Vachier-Lagrave and Assaubayeva New World Blitz Champions"
+      },
+      {
+         "description" : " Everyone's First Chess Workbook: Peter Giannatos From the publisher's blurb: &#8220;Working on chess tactics and checkmates will help you win more games. It develops your pattern recognition and your board vision' your ability to capitalize on opportunities. This Workbook features a complete set of fundamental tactics, checkmate patterns, exercises, hints, and solutions. Peter Giannatos selected <a href=\"http://britishchessnews.com/2021/12/31/everyones-first-chess-workbook-fundamental-tactics-and-checkmates-for-improvers/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Everyone's First Chess Workbook: Fundamental Tactics and Checkmates for Improvers</span> <span class=\"",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2021/12/31/everyones-first-chess-workbook-fundamental-tactics-and-checkmates-for-improvers/",
+         "pubDate" : "Fri, 31 Dec 2021 00:10:51 +0000",
+         "title" : "Everyone's First Chess Workbook: Fundamental Tactics and Checkmates for Improvers"
       },
       {
          "description" : "Maxime Vachier-Lagrave won the world title in blitz chess after beating Jan-Krzysztof Duda in a playoff. Alireza Firouzja scored as many points as MVL and Duda, but had an inferior tiebreak score. The women's world title went to 17-year-old Kazakh star Bibisara Assaubayeva. | Photos: Rafał Oleksiewicz, Anna Shtourman / FIDE",
@@ -1842,14 +1866,6 @@ news_feed (
          "title" : "Jonathan Penrose (2)"
       },
       {
-         "description" : "In door number 18, \"Zugzwang is the sharpest endgame weapon\" with Ka2!!! In today's door we take a closer look at a game by Jan Timman and find out: \"Not all rook ending games end in a draw\" if the right move is found.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-19877",
-         "pubDate" : "Sun, 19 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 19"
-      },
-      {
          "description" : "Vishy Anand got off to the smoothest of starts as he defeated Rauf Mamedov in the first game of the Vugar Gashimov Memorial, but Rauf hit back to the win the second game and clinch a mini-match win in Armageddon. Fabiano Caruana (vs. Vugar Asadli), Shakhriyar Mamedyarov (David Navara) and Richard Rapport (Sergey Karjakin) all picked up a full 3 points for winning without Armageddon as the 7th edition of the tournament began in Baku, Azerbaijan.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2032,22 +2048,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/arena-kings-season-8-recap-nakamura",
          "pubDate" : "Thu, 16 Dec 2021 09:53:45 -0800",
          "title" : "Arena Kings Season 8 Recap: Nakamura Wins Championship Final"
-      },
-      {
-         "description" : "The Holiday bots are back by popular demand! It&#39;s the end of the year and we can already enjoy that warm feeling that only the Holiday season can bring. To celebrate these splendid times, we called our five Holiday bots back to brighten your days ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-holiday-bots",
-         "pubDate" : "Thu, 16 Dec 2021 05:42:00 -0800",
-         "title" : "The Holiday Bots Are Back!"
-      },
-      {
-         "description" : " Of my many bad habits at chess, ignoring my king safety is one of the major ones. It possibly stems from my early study in chess, where I could understand why a material advantage was important (just count on your fingers), but more abstract topics such as long term weaknesses did not stand out as much. Why method of dealing it with then, was to try and get my attack in first. It turns out that I haven't moved on from this approach as much as I would like, as the following game shows. <b>Braguine,Victor - Press,Shaun [A26]</b><br />Xmas Rapid (5), 14.12.2021 <script>new PgnViewer( { boardName: \"game1296\", movesFormat: \"default\", pgnString:'1.c4 e5 2.g3 g6 3.Bg2 Bg7 4.Nc3 Nc6 5.e4 d6 6.Nge2 ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/king-safety-v-king-safety.html",
-         "pubDate" : "Thu, 16 Dec 2021 13:03:00 +0000",
-         "title" : "King safety v king safety"
       }
    ]
 }
