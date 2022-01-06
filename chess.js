@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. 2022.01.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-bb5-style-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AfN02fD6Yg0.jpg?itok=nhYhzC7E\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-sicilian-bb5-style-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Wed, 05 Jan 2022 22:51:21 +0000",
+         "title" : "Play the Sicilian: Bb5 Style! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
          "description" : " <p class=\"lead\">On the 2022 New Year's Eve, a chess train was launched in the Moscow metro, which is literally a mobile gallery of chess history. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/GL2-sam(9).jpg\" width=\"1600\" height=\"800\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: E.Samarina / Mos.ru</div> </div> The train runs along the Sokolnicheskaya line (red line), the oldest in the Moscow metro, and it has five themed cars with the history of the game, the chess evolution in the Soviet Union and in Russia, the world's elite players, some of the most important games, representations of chess in art, theater, literature, cinema and of course the black and wh",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1336,14 +1344,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/joe-gallagher-plays-the-kings-gambit",
          "pubDate" : "Thu, 23 Dec 2021 18:00:00 +0100",
          "title" : "Joe Gallagher plays the King's Gambit!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches all about practical chess middlegames. 2021.12.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/practical-chess-middlegames-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FMfcrCH1DUY.jpg?itok=52G6mnCI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/practical-chess-middlegames-grandmasters-choice-gm-denes-boros",
-         "pubDate" : "Thu, 23 Dec 2021 16:31:09 +0000",
-         "title" : "Practical Chess Middlegames | Grandmaster's Choice - GM Denes Boros"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88459170.cms\" />Indian chess ace Viswanathan Anand managed only two wins in the tournament to finish last in the seventh Vugar Gashimov Memorial chess tournament on Thursday.",
