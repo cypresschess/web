@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "&#8212; from FIDE Following a success of the FIDE Open Tournaments support in 2021, FIDE will be expanding and extending Aid Package Program through 2022....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/aid-package-program-for-chess-opens-2022-reminder/",
+         "pubDate" : "Thu, 06 Jan 2022 09:34:35 +0000",
+         "title" : "Aid Package Program for Chess Opens 2022 - reminder"
+      },
+      {
+         "description" : "&#8212; from Nigel Towers David is the first English GM to win Chess.com's Titled Tuesday (as far as I am aware). 10 out of 11...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/david-howell-wins-chess-coms-titled-tuesday/",
+         "pubDate" : "Thu, 06 Jan 2022 09:27:32 +0000",
+         "title" : "David Howell wins Chess.com's Titled Tuesday!"
+      },
+      {
          "description" : "Svitlana is back, and in her first episode of 2022, she shows us a couple of beautiful, and memorable games of 2021. Players like Firouzja, Caruana, and Kosteniuk had some magnificent games, and it always delightful to check them out again. What was your favourite game with the smartest moves of 2021?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1888,14 +1904,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/mamedov-beats-anand-in-gashimov-memorial-chess-opener/articleshow/88362496.cms",
          "pubDate" : "Sat, 18 Dec 2021 21:16:47 +0530",
          "title" : "Mamedov beats Anand in Gashimov Memorial chess opener"
-      },
-      {
-         "description" : "The European Blitz Championship took place on Friday in Katowice. Polish grandmaster and rating favourite Jan-Krzysztof Duda won the event after obtaining an 18/22 score. Duda finished a half point ahead of his compatriot Maciej Klekowski. Eight players scored 16&frac12; points. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/duda-wins-european-blitz-championship-2021",
-         "pubDate" : "Sat, 18 Dec 2021 15:45:00 +0100",
-         "title" : "Jan-Krzysztof Duda wins the European Blitz Championship"
       },
       {
          "description" : " The 2021 ACTCA Rapidplay Championship finished in a tie for 1st place between FM Michael Kethro and Harry Press (6/7). Kethro defeated Press in their individual game, but drew with CM Hui Li and Miles Patterson (in the final round). Press caught up to Kethro by beating Li in the last round. Li finished in outright third on 5.5/7 The tournament attracted a big field of 42 players, including 6 players rated above 2000. In a blast from the past, former ACT Junior Champion Robert Ferenczi (1980,81 and 82), picked up the Under 1850 prize, with 4.5/7. There was a big tie for the Under 1450 prize, with some of the ACT more senior players (Joe Marks and Sunny Yoon) going home with a small prize. Th",
