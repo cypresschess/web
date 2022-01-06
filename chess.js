@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. The mysterious masked Dorsa focuses on lines from 3.Bb5+. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-bb5-style-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AfN02fD6Yg0.jpg?itok=nhYhzC7E\" a",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-sicilian-bb5-style-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 06 Jan 2022 01:51:27 +0000",
+         "title" : "Play the Sicilian: Bb5+ Style! | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. 2022.01.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-bb5-style-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AfN02fD6Yg0.jpg?itok=nhYhzC7E\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1272,14 +1280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1496",
          "pubDate" : "Fri, 24 Dec 2021 02:20:00 +0000",
          "title" : "Cadets & Youth Super Final: Congratulating the Winners "
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches all about practical chess middlegames. 2021.12.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/practical-chess-middlegames-grandmasters-choice-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FMfcrCH1DUY.jpg?itok=52G6mnCI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/practical-chess-middlegames-grandmasters-choice-gm-denes-boros-lichessorg",
-         "pubDate" : "Fri, 24 Dec 2021 01:31:38 +0000",
-         "title" : "Practical Chess Middlegames | Grandmaster's Choice - GM Denes Boros | lichess.org"
       },
       {
          "description" : "GM Fabiano Caruana won the 2021 Vugar Gashimov Memorial on Thursday after beating GM Richard Rapport in the armageddon playoff game. Both players had finished on 24 points after the blitz segment was over. How to watch?You can play throug...",
