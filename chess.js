@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The board of <strong>US Chess</strong> has <a href=\"https://new.uschess.org/news/us-chess-executive-board-votes-move-organizations-headquarters\">unanimously voted</a> to move its headquarters from Crossville, Tennessee, to the unofficial American chess capital Saint Louis even without any inducements, citing central location, reachability and better prospects to hire office staff. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/us-chess-moves-to-st-louis/",
+         "pubDate" : "Thu, 06 Jan 2022 19:31:57 +0100",
+         "title" : "US Chess moves to St. Louis"
+      },
+      {
+         "description" : "In the first episode of his \"Fast & Furious\" show, Dutch trainer Robert Ris presents his favourite game of 2021, that features an impressive attack in a sharp line of the Sicilian Najdorf. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-my-favourite-game-of-2021",
+         "pubDate" : "Thu, 06 Jan 2022 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: My favourite game of 2021"
+      },
+      {
+         "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/IMG_3404.JPG\" width=\"1707\" height=\"2560\" alt=\"\" /> </div> <h2>Please tell us about your mother's role in your chess development. Did she teach you how to play? Is it true that your mom was Anish Giri's coach? As a child, did you think about a different path for your life?</h2> Yes, my mom is a chess coach. She's always been teaching children in Saint Petersburg. Over the last 30 years, she must have trained thousands of children. One of them was indeed Anish Giri. It's kind of sad that her most talented player isn't me, right? Thanks to her, I learned to play when I was three and started my first competition at 5. ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/dina-belenkaya-my-first-stream-was-a-total-mess/",
+         "pubDate" : "Thu, 06 Jan 2022 16:46:52 +0000",
+         "title" : "Dina Belenkaya: My first stream was a total mess"
+      },
+      {
          "description" : "In the second week of December Nigel Short caught Corona though he was vaccinated twice. Short's infection was so severe that he had to go hospital, but it did not stop the English Grandmaster from playing at the 6th Vergani Cup in Cattolica, Italy, at the beginning of the year. However, he needed some help from chess goddess Caissa when the tournament began. But Short did not forget his duties as a chess ambassador. | Photos: Circolo Scacchistico Forlivese, Rupali Mullick",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/vergani-cup-when-the-mobile-rings-twice",
          "pubDate" : "Thu, 06 Jan 2022 16:55:03 +0100",
          "title" : "Vergani Cup: When the mobile rings twice..."
+      },
+      {
+         "description" : "College chess is starting off the new year with an exciting annual classic: the Pan-American Intercollegiate Team Championship. This year, the tournament is returning to over-the-board just outside of Washington DC. Top college chess teams will be...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/panamerican-intercollegiate-team-championship-2022",
+         "pubDate" : "Thu, 06 Jan 2022 07:36:00 -0800",
+         "title" : "The 2022 Pan-American Intercollegiate Team Championship Is Almost Here"
       },
       {
          "description" : "&#8212; from FIDE Following a success of the FIDE Open Tournaments support in 2021, FIDE will be expanding and extending Aid Package Program through 2022....",
@@ -378,7 +410,7 @@ news_feed (
          "title" : "December 2021 Chess Puzzle Answer Key "
       },
       {
-         "description" : " Share!112This year was the 20th year for The Chess Drum. On February 12th, I posted a very lengthy chronicle of the site's history with key moments each of the 20 years. I put a lot of effort into that post, but it was fulfilling to recount the special moments, not only for The Chess Drum, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/31/the-chess-drums-highlights-of-2021/\">The Chess Drum's Highlights of 2021!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!120This year was the 20th year for The Chess Drum. On February 12th, I posted a very lengthy chronicle of the site's history with key moments each of the 20 years. I put a lot of effort into that post, but it was fulfilling to recount the special moments, not only for The Chess Drum, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/31/the-chess-drums-highlights-of-2021/\">The Chess Drum's Highlights of 2021!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2021/12/31/the-chess-drums-highlights-of-2021/",
@@ -536,14 +568,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/modern-chess-brilliancies-grandmasters-choice-gm-denes-boros-lichessorg",
          "pubDate" : "Thu, 30 Dec 2021 19:39:31 +0000",
          "title" : "Modern Chess Brilliancies | Grandmaster's Choice - GM Denes Boros | lichess.org"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> <a href=\"https://www.fide.com/news/1506\">held</a> its annual <strong>General Assembly</strong> for the first time in a hybrid way with some Council and Management Board members meeting in Warsow during the <strong>World Rapid and Blitz Championship</strong> and online presentations, deliberations and voting. One of the decisions taken is that a tie at the <strong>Candidates Tournament</strong> will <a href=\"https://www.fide.com/news/1505\">not be decided by Buchholz but by rapid games</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2021/hybrid-fide-congress-held/",
-         "pubDate" : "Thu, 30 Dec 2021 19:44:07 +0100",
-         "title" : "Hybrid FIDE Congress held"
       },
       {
          "description" : " <p class=\"lead\">IM and WGM Bibisara Assaubayeva won the 2021 FIDE Women's World Blitz Championship with a round to spare, after winning second place in the Women's Rapid Championship. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51788332724_1e6186a51f_k-2.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Anna Shtourman(FIDE)</div> </div> The 17-year-old chess prodigy from Kazakhstan had an amazing tournament, scoring 14/17, winning 13 games, and 120 blitz rating points. Assaubayeva dominated the women's tournament beating numerous GMs, including Anna Muzychuk, Alexandra Kosteniuk, Humpy Koneru, and Aleksandra Goryachkina. <a href",
@@ -1850,14 +1874,6 @@ news_feed (
          "title" : "Boxing in White City"
       },
       {
-         "description" : "The Israel Open Championship saw 102 players compete in nine Swiss rounds for the top honours as well as for the 80,000 NIS prize-fund. Quite a few of the country's best junior players were among the participants. GM Tamir Nabaty, the highest rated participant, emerged winner despite an early defeat, ahead of GM Evgeny Postny and Israel's best female player IM Marsel Efroimsky. Report by Yochanan Afek. | Photo: Ritvo photography.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nabaty-wins-israel-championship",
-         "pubDate" : "Sun, 19 Dec 2021 18:00:00 +0100",
-         "title" : "Nabaty wins Israel Championship"
-      },
-      {
          "description" : " Continuing my tribute to the 10 times British Champion Jonathan Penrose, who died recently at the age of 88, perhaps his finest hour was at the 1960 Olympiad in Leipzig, where he beat the reigning world champion (Tal) and a former world champion (Euwe) and drew with a future world champion (Fischer): a game he <a href=\"https://chessimprover.com/jonathan-penrose-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Jonathan Penrose (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/jonathan-penrose-2/\">Jonathan Penrose (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1928,14 +1944,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/2021-actca-rapidplay-championship.html",
          "pubDate" : "Sat, 18 Dec 2021 13:11:00 +0000",
          "title" : "2021 ACTCA Rapidplay Championship"
-      },
-      {
-         "description" : " <p class=\"lead\"> Firouzja, the world's <a href=\"https://worldchess.com/news/all/firouzja-is-number-2-in-the-world-we-just-have-to-deal-with-it/\">number two</a> in the recent FIDE rating list, has declined his invitation to the prestigious <a href=\"https://tatasteelchess.com/about/wijk-aan-zee/\">Wijk aan Zee Tata Steel</a> Tournament. The alleged reason: he <a href=\"https://chess24.com/en/read/news/firouzja-misses-wijk-after-compensation-demand-denied\">demanded financial compensation</a> for a 2021 Incident, when the arbiter made him change tables during his game with Wojtaszek. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E8F79772-6AAA-428F-8785-7AB4FBCA51F9.",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/firouzja-is-acting-like-a-star-and-its-good-for-us-all/",
-         "pubDate" : "Sat, 18 Dec 2021 10:30:34 +0000",
-         "title" : "Firouzja Is Acting Like a Star and It's Good For Us All!"
       },
       {
          "description" : "My column last week about Jonathan Penrose's near brush with death at my hands, has elicited some noteworthy responses. Soon after reading my account of Penrose's rescue at Siegen 1970, Britain's most famous chess player, Nigel Short, having tested positive for Covid 19, Omicron variant, felt the blood draining from his head. Having read my []",
@@ -2032,22 +2040,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/dec/17/magnus-carlsen-chess-alireza-firouzja-world-title",
          "pubDate" : "Fri, 17 Dec 2021 08:00:22 +0000",
          "title" : "Carlsen's doubts over title defence leave chess facing uncertain future | Leonard Barden"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1483",
-         "pubDate" : "Thu, 16 Dec 2021 18:36:08 +0000",
-         "title" : "FIDE Vice-President Anastasia Sorokina pays working visit to France"
-      },
-      {
-         "description" : "Another season of Chess.com&#39;s premier streaming event, Arena Kings, is in the books. Season 8 concluded on Wednesday, December 15, with GM Hikaru Nakamura (@Hikaru) winning the Championship Final and earning the $4,000 prize for first place. Nakam...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arena-kings-season-8-recap-nakamura",
-         "pubDate" : "Thu, 16 Dec 2021 09:53:45 -0800",
-         "title" : "Arena Kings Season 8 Recap: Nakamura Wins Championship Final"
       }
    ]
 }
