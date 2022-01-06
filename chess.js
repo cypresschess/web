@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana is back, and in her first episode of 2022, she shows us a couple of beautiful, and memorable games of 2021. Players like Firouzja, Caruana, and Kosteniuk had some magnificent games, and it always delightful to check them out again. What was your favourite game with the smartest moves of 2021?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-25",
+         "pubDate" : "Thu, 06 Jan 2022 09:05:00 +0100",
+         "title" : "Svitlana's Smart Moves - Smartest moves of 2021"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. The mysterious masked Dorsa focuses on lines from 3.Bb5+. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-bb5-style-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AfN02fD6Yg0.jpg?itok=nhYhzC7E\" a",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1896,14 +1904,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/2021-actca-rapidplay-championship.html",
          "pubDate" : "Sat, 18 Dec 2021 13:11:00 +0000",
          "title" : "2021 ACTCA Rapidplay Championship"
-      },
-      {
-         "description" : "Sometimes there are endgame puzzles that end quite surprisingly. The move Kd4, was the interesting idea yesterday to secure the draw. But we couldn't upset the majority of all the participants. You know your endgames too well. But maybe with door 18? Once again, a very witty move that has to be found.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-1834",
-         "pubDate" : "Sat, 18 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 18"
       },
       {
          "description" : " <p class=\"lead\"> Firouzja, the world's <a href=\"https://worldchess.com/news/all/firouzja-is-number-2-in-the-world-we-just-have-to-deal-with-it/\">number two</a> in the recent FIDE rating list, has declined his invitation to the prestigious <a href=\"https://tatasteelchess.com/about/wijk-aan-zee/\">Wijk aan Zee Tata Steel</a> Tournament. The alleged reason: he <a href=\"https://chess24.com/en/read/news/firouzja-misses-wijk-after-compensation-demand-denied\">demanded financial compensation</a> for a 2021 Incident, when the arbiter made him change tables during his game with Wojtaszek. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E8F79772-6AAA-428F-8785-7AB4FBCA51F9.",
