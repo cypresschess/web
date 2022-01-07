@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " David Howell scored 10/11 in the 632-player masters online event, while Nigel Short had a lucky break in his first tournament since recovering from Covid David Howell scored a rare English victory in high-class international competition this week when the three-time British champion won <a href=\"https://www.chess.com/\" title=\"\">chess.com</a>'s weekly Titled Tuesday. The Sussex 31-year-old had just returned from Warsaw, where he performed well in the World Rapid with 8/13, but faded in the World Blitz with 10/21. Titled Tuesday is free to enter for all Fide titled players, right down to 2200-rated Candidate Masters, and regularly attracts hundreds of entries, who play an 11-round Swiss with ",
+         "description" : "Desired and Eminent Women Chess Players are requested to apply for the Award as per the guidelines mentioned below:- Nari Shakti Puraskar Guidelines After filling",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/nari-shakti-puraskar-2022/",
+         "pubDate" : "Fri, 07 Jan 2022 11:35:09 +0000",
+         "title" : "NARI SHAKTI PURASKAR 2022"
+      },
+      {
+         "description" : " David Howell scored 10/11 in the 632-player masters online event, while Nigel Short had a lucky break on his return David Howell scored a rare English victory in high-class international competition this week when the three-time British champion won <a href=\"https://www.chess.com/\" title=\"\">chess.com</a>'s weekly Titled Tuesday. The 31-year-old had just returned from Warsaw, where he performed well in the World Rapid with 8/13, but faded in the World Blitz with 10/21. Titled Tuesday is free to enter for all Fide titled players, right down to 2,200-rated Candidate Masters, and regularly attracts hundreds of entries, who play an 11-round Swiss with a three-minutes-per-game time limit plus a o",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/jan/07/chess-howell-wins-titled-tuesday-as-mobile-phone-saves-short-from-teenager",
@@ -34,7 +42,7 @@ news_feed (
          "title" : "US Chess moves to St. Louis"
       },
       {
-         "description" : "In the first episode of his \"Fast & Furious\" show, Dutch trainer Robert Ris presents his favourite game of 2021, that features an impressive attack in a sharp line of the Sicilian Najdorf. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "description" : "In the first episode of his \"Fast & Furious\" show in 2022, Dutch trainer Robert Ris presents his favourite game of 2021, that features an impressive attack in a sharp line of the Sicilian Najdorf. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-my-favourite-game-of-2021",
@@ -1978,14 +1986,6 @@ news_feed (
          "title" : "EXPRESSION OF INTEREST FOR A PROPOSED ONLINE CHESS LEAGUE AND PARTNER IN 'CHESS IN SCHOOL'"
       },
       {
-         "description" : "Round 1 Indians had an easy outing and won their games comfortably against lower rated opponents in both boys' and girls' section. Round 2 BOYS",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-juniors-and-girls2021-srilankareports-of-round-1-2/",
-         "pubDate" : "Sat, 18 Dec 2021 05:40:43 +0000",
-         "title" : "ASIAN JUNIORS AND GIRLS'2021-SRILANKA:Reports of round 1 & 2"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2016,30 +2016,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1484",
          "pubDate" : "Fri, 17 Dec 2021 14:05:11 +0000",
          "title" : "FIDE Qualification Commission conducts survey"
-      },
-      {
-         "description" : " Sometimes it is a feast, but today was more of a famine. The 2021 Lifeline Bookfair is currently running over this weekend, in the somewhat cramped confines of the Canberra Racecourse. I made a quick visit this morning, but sadly, there were very few chess books (at least ones I did not already own). I purchased one book (on chess), but I did pick up a chess computer to add to my collection. On the other hand, if you are a Contract Bridge player, there were around 10 times as many bridge books as chess books, so you may be rewarded if you visit. I may return on Sunday, although I am not expecting my luck to change at this stage. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/2021-lifeline-bookfair.html",
-         "pubDate" : "Fri, 17 Dec 2021 12:30:00 +0000",
-         "title" : "2021 Lifeline Bookfair"
-      },
-      {
-         "description" : " Last week, we started our exploration of tactics. We worked through the basics of a specific tactic called the pin. The pin involves three pieces: the piece doing the pinning, the pinned piece, and the more valuable piece behind the pinned piece. There are two types of pins, the relative pin, in which a player <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-six/\">A Foundation for Beginners Forty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://chessi",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-six/",
-         "pubDate" : "Fri, 17 Dec 2021 09:54:54 +0000",
-         "title" : "A Foundation for Beginners Forty Six"
-      },
-      {
-         "description" : "In the last semifinal match of the 2021 Speed Chess Championship Main Event, GM Hikaru Nakamura defeated GM Ding Liren in the culminating armageddon game after an unforgettable, back-and-forth, and epic four-hour struggle. The five-time U.S. Champ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/speed-chess-championship-main-event-nakamura-ding",
-         "pubDate" : "Fri, 17 Dec 2021 00:39:00 -0800",
-         "title" : "Speed Chess Championship: Nakamura Beats Ding In Spectacular Armageddon Finish, Advances To Finals"
       }
    ]
 }
