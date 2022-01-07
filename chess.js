@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev teaches a chess class on a topic of his choice. The mysterious masked Atanas looks at a game from the Grand Swiss in Riga. 2022.01.06<br /> Vasif Durarbayli vs Daniil Dubov, FIDE Grand Swiss (2021): C77 Ruy Lopez, Morphy defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2095352\">https://www.chessgames.com/perl/chessgame?gid=2095352</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-atanas-kolev\"><i",
+         "description" : " David Howell scored 10/11 in the 632-player masters online event, while Nigel Short had a lucky break in his first tournament since recovering from Covid David Howell scored a rare English victory in high-class international competition this week when the three-time British champion won <a href=\"https://www.chess.com/\" title=\"\">chess.com</a>'s weekly Titled Tuesday. The Sussex 31-year-old had just returned from Warsaw, where he performed well in the World Rapid with 8/13, but faded in the World Blitz with 10/21. Titled Tuesday is free to enter for all Fide titled players, right down to 2200-rated Candidate Masters, and regularly attracts hundreds of entries, who play an 11-round Swiss with ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/jan/07/chess-howell-wins-titled-tuesday-as-mobile-phone-saves-short-from-teenager",
+         "pubDate" : "Fri, 07 Jan 2022 08:00:33 +0000",
+         "title" : "Chess: Howell wins Titled Tuesday as mobile phone saves Short from teenager"
+      },
+      {
+         "description" : "The MegaBase 2022 is Chess History in Action: It offers 9.210.512 games, the earliest played in 1475 and the most recent played October 2021, many of them annotated. Here our columnist, offers an introduction to three epic matches from the MegaBase with six annotated games. There is a lot more to discover in this treasure trove, grand battles, opening novelties and exemplary endgames.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/megabase-2022-three-epic-matches",
+         "pubDate" : "Fri, 07 Jan 2022 08:36:59 +0100",
+         "title" : "MegaBase 2022: Three Epic Matches"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev teaches a chess class on a topic of his choice. The mysterious masked Atanas looks at a game from the Grand Swiss in Riga. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mH5YIGs8ePw.jpg?itok=iqWY8-1P\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-atanas-kolev",
@@ -1866,14 +1882,6 @@ news_feed (
          "title" : "Tamir Nabaty wins Israeli Open Championship"
       },
       {
-         "description" : "The recent World Championship appears in hindsight to have been very one-sided, with Ian Nepomniachtchi's collapse being dramatic but far from unprecedented. Thinking about collapses, star columnist Jon Speelman went back to the famous battle between Viktor Korchnoi (pictured) and Boris Spassky in Belgrade 1977!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-160",
-         "pubDate" : "Sun, 19 Dec 2021 20:00:00 +0100",
-         "title" : "Boxing in White City"
-      },
-      {
          "description" : " Continuing my tribute to the 10 times British Champion Jonathan Penrose, who died recently at the age of 88, perhaps his finest hour was at the 1960 Olympiad in Leipzig, where he beat the reigning world champion (Tal) and a former world champion (Euwe) and drew with a future world champion (Fischer): a game he <a href=\"https://chessimprover.com/jonathan-penrose-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Jonathan Penrose (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/jonathan-penrose-2/\">Jonathan Penrose (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2032,14 +2040,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/speed-chess-championship-main-event-nakamura-ding",
          "pubDate" : "Fri, 17 Dec 2021 00:39:00 -0800",
          "title" : "Speed Chess Championship: Nakamura Beats Ding In Spectacular Armageddon Finish, Advances To Finals"
-      },
-      {
-         "description" : " The champion is unlikely to defend his title against anyone other than Alireza Firouzja, risking return to era of two No 1s Magnus Carlsen is \"unlikely\" to defend his world title in classical chess again unless his opponent is the rising star Alireza Firouzja. The Norwegian's statement, in a podcast made public on Tuesday, opens up an uncertain future where the game could have two rival No 1s, as occurred in the years after Garry Kasparov broke with Fide, the world governing body, in 1993. Carlsen cited lack of motivation as the main factor: \" It's been clear to me for most of the year that this world championship should be the last,\" he said. \"It doesn't mean as much anymore as it once did",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/dec/17/magnus-carlsen-chess-alireza-firouzja-world-title",
-         "pubDate" : "Fri, 17 Dec 2021 08:00:22 +0000",
-         "title" : "Carlsen's doubts over title defence leave chess facing uncertain future | Leonard Barden"
       }
    ]
 }
