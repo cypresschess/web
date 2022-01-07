@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev teaches a chess class on a topic of his choice. The mysterious masked Atanas looks at a game from the Grand Swiss in Riga. 2022.01.06<br /> Vasif Durarbayli vs Daniil Dubov, FIDE Grand Swiss (2021): C77 Ruy Lopez, Morphy defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2095352\">https://www.chessgames.com/perl/chessgame?gid=2095352</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-atanas-kolev\"><i",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-atanas-kolev",
+         "pubDate" : "Fri, 07 Jan 2022 01:52:37 +0000",
+         "title" : "Grandmaster's Choice - GM Atanas Kolev"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The board of <strong>US Chess</strong> has <a href=\"https://new.uschess.org/news/us-chess-executive-board-votes-move-organizations-headquarters\">unanimously voted</a> to move its headquarters from Crossville, Tennessee, to the unofficial American chess capital Saint Louis even without any inducements, citing central location, reachability and better prospects to hire office staff. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1320,14 +1328,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/dec/24/carlsen-faces-test-from-rivals-for-chess-speed-titles-in-warsaw-on-boxing-day",
          "pubDate" : "Fri, 24 Dec 2021 08:00:19 +0000",
          "title" : "Carlsen faces test from rivals for chess speed titles in Warsaw on Boxing Day"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches all about practical chess middlegames. 2021.12.23<br /> Alireza Firouzja vs David Anton Guijarro, Tata Steel Masters (2021)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2020562\">https://www.chessgames.com/perl/chessgame?gid=2020562</a><br /> Denes Boros vs. Zoltan Gyimesi, 2010: C44 Ponziani, Jaenisch counter-attack<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3720785\">https://www.365chess.com/game.php?back=1&amp;gid=3720785</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-crush-olympic-champ-ponziani-grandmasters-choice-gm-denes-boros",
-         "pubDate" : "Fri, 24 Dec 2021 04:31:59 +0000",
-         "title" : "How to Crush an Olympic Champ with the Ponziani! | Grandmaster's Choice - GM Denes Boros"
       },
       {
          "description" : "Fabiano Caruana is now world no 4 on the blitz live rating list after a thrilling finish saw him beat Richard Rapport in Armageddon to win the Gashimov Memorial. Rapport began the last day with a 2-point lead over Caruana but had run out of steam by the end and couldn't quite hold on. Shakhriyar Mamedyarov finished 3rd while Sergey Karjakin was 4th, despite a shocking 5/14 score in blitz for the 2016 World Blitz Champion. Vishy Anand was unable to mount a recovery and finished in overall last place.",
