@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In 2017, AlphaZero shocked the chess world by crushing Stockfish in a 100-game match. Since then, chess engines have undergone a substantial revision based on deep learning methods to develop a neural network. Joshua Doknjas examines the impact of the AI revolution in chess. | Graphic: Europe Echecs",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-the-ai-revolution-impacted-chess-1-2",
+         "pubDate" : "Fri, 07 Jan 2022 17:00:00 +0100",
+         "title" : "How the AI Revolution Impacted Chess (1/2)"
+      },
+      {
+         "description" : "Trents Tactics is back in 2022! Lawrence and Arne decide to talk about the chess year 2021, the tournaments, and the best male and female player. They then move directly to highly creative tactical patterns, and finally play some ChessBase training, trying come closer to the rating of 2400.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-9",
+         "pubDate" : "Fri, 07 Jan 2022 16:10:55 +0100",
+         "title" : "Trent's Tactics - Recap of 2021 and finding creative patterns"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/764fc794-06c2-4c5f-afcb-2695baf17bee/Martin3.jpg\" data-image-dimensions=\"437x208\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61d84503f4ec2f2d863bbe5b\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/764fc794-06c2-4c5f-afcb-2695baf17bee/Martin3.jpg?format=1000w\" /> </figure> <p class=\"\">Perpetual Chess is back with an edition of <a href=\"https://www.perpetualchesspod.com/recaptured\"><em>Chess Books Recaptured</em></a><em>, </em>a recurring book review podcast.",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/7/book-recap-22-discussing-questions-of-modern-chess-theory-with-martin-justesen",
+         "pubDate" : "Fri, 07 Jan 2022 13:53:15 +0000",
+         "title" : "Book Recap #22- Discussing Questions of Modern Chess Theory with Martin Justesen "
+      },
+      {
+         "description" : "Parallel to the Rapid and Blitz World Championships in Warsaw, FIDE held its annual congress. Delegates participated mostly online. On its website, FIDE recently published the \"results and decisions\" of the congress. Despite the Corona pandemic, FIDE is solidly financed, now largely from sponsorship, donations and broadcasting rights, less so from membership fees. The World Chess Federation has reacquired the rights to the World Championships. | Photos: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/92nd-fide-general-assembly-results-and-decisions",
+         "pubDate" : "Fri, 07 Jan 2022 14:00:00 +0100",
+         "title" : "92nd FIDE General Assembly: results and decisions"
+      },
+      {
+         "description" : " \"And White has a freer game\" is one of those chess annotations I have never particularly understood. I've always thought it was just something annotators wrote when they felt like they had to add a comment, in a similar vain to \"chances for both sides\" or \"compensation for the pawn\". Based on some recent reading I've decided it is a more confusing way of simply saying, \"White has more space\". And advantage in space usually confers greater mobility, allowing the player more control over where the pieces go. As an example (from one of the older books I was looking at), here is a quick win for Tarrasch over Meises in their 1916 match. After White's move 9, Reinfeld remarks \"Whites game is noti",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/and-white-has-freer-game.html",
+         "pubDate" : "Fri, 07 Jan 2022 12:55:00 +0000",
+         "title" : "And White has a freer game"
+      },
+      {
          "description" : "Desired and Eminent Women Chess Players are requested to apply for the Award as per the guidelines mentioned below:- Nari Shakti Puraskar Guidelines After filling",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1834,36 +1874,12 @@ news_feed (
          "title" : "Alexander Motylev wins European Rapid Chess Championship 2021"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 58th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about Aaron Nimzowitsch and his famous \"Hemmungsstrategie\". | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-58-hemmungsstrategie",
-         "pubDate" : "Mon, 20 Dec 2021 08:00:00 +0100",
-         "title" : "Understanding before Moving 58: \"Hemmungsstrategie\""
-      },
-      {
          "description" : "GM Hikaru Nakamura and GM Wesley So contested their third Speed Chess Championship Final match today, a much-anticipated duel after each secured thrilling semi-final victories. Nakamura defeated GM Ding Liren in armageddon in likely the most epic ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-wins-speed-chess-championship-final-with-double-digit-dominance",
          "pubDate" : "Sun, 19 Dec 2021 15:48:00 -0800",
          "title" : "Nakamura Wins 2021 Speed Chess Championship Final With Double-Digit Dominance"
-      },
-      {
-         "description" : "At the European Rapid Championship in Katowice, three grandmasters finished level on points atop the standings: Alexander Motylev (Russia), Alexander Donchenko (Germany) and Paulius Pultinevicius (Lithuania), each with 9&frac12; points after 11 rounds. According to the tiebreak criteria, Motylev was declared European Champion, Donchenko got the silver medal and Pultinevicius took home the bronze. | Photos: Michał Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/motylev-wins-european-rapid-championship-2021",
-         "pubDate" : "Mon, 20 Dec 2021 00:35:00 +0100",
-         "title" : "Motylev is the new European Rapid Champion"
-      },
-      {
-         "description" : "The fifth edition of the Salamanca Chess Festival took place on December 14-18 at the Colegio Arzobispo Fonseca, a historical edifice built in 1519. The main event was an 8-player single round-robin rapid tournament which had living legends Veselin Topalov and Alexei Shirov as the top seeds. In the end, however, it was Jaime Santos who came out on top, as he scored 6/7 points to finish a full point clear of second-placed Romain Edouard. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/salamanca-masters-2021-jaime-santos-wins",
-         "pubDate" : "Mon, 20 Dec 2021 00:15:00 +0100",
-         "title" : "Jaime Santos dominates Salamanca Masters"
       },
       {
          "description" : " The Chess.com Speed Chess Championship took place Mon 8th Nov to Sun 19th Dec 2021. Round 1 pairings: Nov 8 Giri 14-12 Duda, Nov 9 Ding 14-12 Mamedyarov, Nov 10 Rapport 16.5-14.5 Sarana, Nov 11 Nihal Sarin 15.5-10.5 Grischuk, Nov 11 Aronian 15-12 Dubov, Nov 12 Nakamura 22-10 Svidler, Nov 15 So 18-14 Xiong and Nov 29 Caruana 13.5-12.5 MVL. Quarter Finals December 2nd Sarin 18-9 Rapport. December 6th Ding 15-11 Aronian, Nakamura 18.5-10.5 Giri and So 17.5-9.5 Caruana. Semi Finals December Nakamura just squeezed past Ding Liren 16.5-15.5. Wesley So beat Nihail Sarin 15-14 in another super close match. The final was dominated by Nakamura - after taking a two point lead after the first 5 minute ",
@@ -2008,14 +2024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1485",
          "pubDate" : "Fri, 17 Dec 2021 20:04:58 +0000",
          "title" : "Andrei Volokitin and Kateryna Dolzhykova win Ukrainian Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1484",
-         "pubDate" : "Fri, 17 Dec 2021 14:05:11 +0000",
-         "title" : "FIDE Qualification Commission conducts survey"
       }
    ]
 }
