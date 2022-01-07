@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A free, open-source tactic training in connection with <strong>Lichess</strong> and based on repetition drills has launched on <a href=\"https://www.chesspecker.com/\"><strong>Chesspecker.com</strong></a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/chesspecker-tactic-training-launched/",
+         "pubDate" : "Fri, 07 Jan 2022 19:12:51 +0100",
+         "title" : "Chesspecker tactic training launched"
+      },
+      {
+         "description" : " Here's a question for you. Black played Bxb4 in this position. Is this a mistake or a clever move winning a pawn? While you think about your answer I wrote last time about taking a different approach to tactics training. I have a database of 9 million plus games. I know there will be several <a href=\"https://chessimprover.com/100-years-ago-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"100 Years Ago (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/100-years-ago-1/\">100 Years Ago (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/100-years-ago-1/",
+         "pubDate" : "Fri, 07 Jan 2022 17:41:41 +0000",
+         "title" : "100 Years Ago (1)"
+      },
+      {
+         "description" : "In his first Power Play Show of 2022 Daniel King looks at games by the winners of the Women's World Rapid - Aleksandra Kosteniuk; and the Women's World Blitz - Bibisara Assaubayeva. Daniel also shows a nice study by Leonid Kubbel (not too difficult!). | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-rapid-attacks",
+         "pubDate" : "Fri, 07 Jan 2022 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Rapid Attacks"
+      },
+      {
          "description" : "In 2017, AlphaZero shocked the chess world by crushing Stockfish in a 100-game match. Since then, chess engines have undergone a substantial revision based on deep learning methods to develop a neural network. Joshua Doknjas examines the impact of the AI revolution in chess. | Graphic: Europe Echecs",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +74,7 @@ news_feed (
          "title" : "NARI SHAKTI PURASKAR 2022"
       },
       {
-         "description" : " David Howell scored 10/11 in the 632-player masters online event, while Nigel Short had a lucky break on his return David Howell scored a rare English victory in high-class international competition this week when the three-time British champion won <a href=\"https://www.chess.com/\" title=\"\">chess.com</a>'s weekly Titled Tuesday. The 31-year-old had just returned from Warsaw, where he performed well in the World Rapid with 8/13, but faded in the World Blitz with 10/21. Titled Tuesday is free to enter for all Fide titled players, right down to 2,200-rated Candidate Masters, and regularly attracts hundreds of entries, who play an 11-round Swiss with a three-minutes-per-game time limit plus a o",
+         "description" : " David Howell scored 10/11 in the 632-player masters online event, while Nigel Short had a lucky break on his return David Howell scored a rare English victory in high-class international competition this week when the three-times British champion won <a href=\"https://www.chess.com/\" title=\"\">chess.com</a>'s weekly Titled Tuesday. The Sussex 31-year-old had just returned from Warsaw, where he performed well in the World Rapid with 8/13, but faded in the World Blitz with 10/21. Titled Tuesday is free to enter for all Fide titled players, right down to 2200-rated Candidate Masters, and regularly attracts hundreds of entries, who play an 11-round Swiss with a three-minutes-per-game time limit p",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/jan/07/chess-howell-wins-titled-tuesday-as-mobile-phone-saves-short-from-teenager",
@@ -1842,14 +1866,6 @@ news_feed (
          "title" : "Not quite Kriegspiel"
       },
       {
-         "description" : "Only four more days and our beautiful endgame magic calendar is over. Could you find the move for the \"King of the Umbrellas\" yesterday? It was Ke6! Today we have an absolute classic in door 20. But who actually made this study?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-200",
-         "pubDate" : "Mon, 20 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 20"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2016,14 +2032,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/vote-2021-chesscom-awards",
          "pubDate" : "Fri, 17 Dec 2021 15:04:00 -0800",
          "title" : "Vote For The 2021 Chess.com Awards"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1485",
-         "pubDate" : "Fri, 17 Dec 2021 20:04:58 +0000",
-         "title" : "Andrei Volokitin and Kateryna Dolzhykova win Ukrainian Championship"
       }
    ]
 }
