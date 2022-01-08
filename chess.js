@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find the final list for Chess for Everyone :National Organizer 1C batch scheduled to start from 14-16 January 2022 .Necessary meeting link will send",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-organisertraining-batch-1-c-14-16-jan-2022/",
+         "pubDate" : "Sat, 08 Jan 2022 12:04:03 +0000",
+         "title" : "National OrganiserTraining : Batch 1 C (14-16 Jan 2022)"
+      },
+      {
+         "description" : "\"Historias de Ajedrez\" is a Cuban movie from 2019 by Emmanuel Martin Hernandez. In the movie, Hernandez, a passionate chess player himself, offers an intimate look at the stories of chess players in Santiago de Cuba.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/historias-des-ajedrez-a-cuban-chess-movie",
+         "pubDate" : "Sat, 08 Jan 2022 12:45:00 +0100",
+         "title" : "Historias de Ajedrez: A Cuban Chess Movie"
+      },
+      {
+         "description" : "\"Can the Ethiopian change his skin or the leopard his spots?\" (The Bible, Old Testament, Book of Jeremiah) King Edward V (aged twelve but not yet officially crowned) and his brother Richard, aged nine, were locked in the Tower of London, declared illegitimate and allegedly killed by their wicked uncle Richard III, so that he []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-princes-in-the-tower-great-chess-and-the-41-giraffes/",
+         "pubDate" : "Sat, 08 Jan 2022 09:20:50 +0000",
+         "title" : "The princes in the Tower, Great Chess and the 41 giraffes"
+      },
+      {
          "description" : "In the diagram position it is White to move and he has to react to Black's threat of ...g4 which would trap the bishop on h3. But with the right pawn push White can gain the upper hand. Which pawn should White push ahead?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1842,14 +1866,6 @@ news_feed (
          "title" : "Six rounds played at the FIDE Online Cadets & Youth Rapid Super Final"
       },
       {
-         "description" : "In the Endgame Magic Show #176 Karsten M&uuml;ller and Arne K&auml;hler take a look at fascinating rook endings. They start with the last game of the World Championship match between Magnus Carlsen and Ian Nepomniachtchi, and then focus on the game Spielmann vs Rubinstein, St. Petersburg 1909, in which Rubinstein worked his rook endgame magic. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-176-rubinstein-s-rook-endgame-mastery",
-         "pubDate" : "Mon, 20 Dec 2021 18:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #176: Rubinstein's rook endgame mastery"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88397186.cms\" />Viswanathan Anand defeated Shakriyar Mamedyarov of Azerbaijan in the Armageddon after the two-game mini-match ended in a draw for his first victory in the Rapid event of the 7th Vugar Gashimov Memorial chess tournament on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2008,22 +2024,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/2021-actca-rapidplay-championship.html",
          "pubDate" : "Sat, 18 Dec 2021 13:11:00 +0000",
          "title" : "2021 ACTCA Rapidplay Championship"
-      },
-      {
-         "description" : "My column last week about Jonathan Penrose's near brush with death at my hands, has elicited some noteworthy responses. Soon after reading my account of Penrose's rescue at Siegen 1970, Britain's most famous chess player, Nigel Short, having tested positive for Covid 19, Omicron variant, felt the blood draining from his head. Having read my []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/saving-nigel-short/",
-         "pubDate" : "Sat, 18 Dec 2021 10:00:15 +0000",
-         "title" : "Saving Nigel Short"
-      },
-      {
-         "description" : "European Blitz Chess Championship 2021 took place on 17th of December in Katowice, Poland. After 22 rounds, Duda Jan-Krzysztof (POL, 2792) became the sole Winner of the event, scoring 18 points. Klekowski Maciej (POL, 2444) scored 17.5 points to claim silver. Eight players tied for the third place with score of 16.5 points each: Balog Imre (HUN, 2678),&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/duda-jan-krzysztof-wins-european-blitz-chess-championship-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/duda-jan-krzysztof-wins-european-blitz-chess-championship-2021/",
-         "pubDate" : "Sat, 18 Dec 2021 08:53:31 +0000",
-         "title" : "Duda Jan-Krzysztof wins European Blitz Chess Championship 2021"
       }
    ]
 }
