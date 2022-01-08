@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser discusses how to travel through space and time. Conserve every tempo in your reserve! Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> Analyzed on lichess.org<br /> #chess #endgame #traps </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-travel-through-space-and-time\"><img src=\"http",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-travel-through-space-and-time",
+         "pubDate" : "Sat, 08 Jan 2022 01:57:43 +0000",
+         "title" : "How To Travel Through Space and Time"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1064,14 +1072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-knightmare",
          "pubDate" : "Tue, 28 Dec 2021 09:00:00 +0100",
          "title" : "The knightmare"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches all about practical chess middlegames, using a game from Alireza Firouzja and also Boros' own game against Olympiad medallist and Hungarian champ Zoltan Gyimesi. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-crush-olympic-medallist-ponziani-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FMfcrCH1DUY.jpg?itok",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-crush-olympic-medallist-ponziani-grandmasters-choice-gm-denes-boros",
-         "pubDate" : "Tue, 28 Dec 2021 01:36:23 +0000",
-         "title" : "How to Crush an Olympic Medallist with the Ponziani! | Grandmaster's Choice - GM Denes Boros"
       },
       {
          "description" : " 600 Modern Chess Puzzles : Martyn Kravtsiv Blurb from the publisher: &#8220;The easiest, quickest and most effective way to improve your overall game is to increase your tactical vision. Many good positions are lost because a key moment is passed by and a player misses the opportunity to win by a beautiful combination. This book is <a href=\"http://britishchessnews.com/2021/12/28/600-modern-chess-puzzles/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">600 Modern Chess Puzzles</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/28/600-modern-chess-puzzles/\">600 Modern Chess Puzzles</a> appeared first on <a",
