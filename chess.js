@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position it is White to move and he has to react to Black's threat of ...g4 which would trap the bishop on h3. But with the right pawn push White can gain the upper hand. Which pawn should White push ahead?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-perfect-start",
+         "pubDate" : "Sat, 08 Jan 2022 09:00:00 +0100",
+         "title" : "The perfect start"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev shows two games from the end of 2021 at the Grand Swiss in Riga and Tata Steel Rapid &amp; Blitz. The mysterious masked Atanas focuses on the activity of the pieces. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superior-piece-activity-new-year-grandmasters-choice-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mH5YIGs8ePw.jpg?itok=iqWY8",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/superior-piece-activity-new-year-grandmasters-choice-gm-atanas-kolev",
+         "pubDate" : "Sat, 08 Jan 2022 04:57:50 +0000",
+         "title" : "Superior Piece Activity for the New Year | Grandmaster's Choice - GM Atanas Kolev"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Harrison Keyser discusses how to travel through space and time. Conserve every tempo in your reserve! Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> Analyzed on lichess.org<br /> #chess #endgame #traps </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-travel-through-space-and-time\"><img src=\"http",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -986,14 +1002,6 @@ news_feed (
          "title" : "Alexandra Kosteniuk is the 2021 Women's World Rapid Champion"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches a chess endgame class. 2021.12.28<br /> Magnus Carlsen vs Jan-Krzysztof Duda, World Rapid and Blitz Championships (2021)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2176024\">https://www.chessgames.com/perl/chessgame?gid=2176024</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-firouzja-art-accuracy-insane-endgame-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-firouzja-art-accuracy-insane-endgame-gm-denes-boros-lichessorg",
-         "pubDate" : "Tue, 28 Dec 2021 16:36:43 +0000",
-         "title" : "Carlsen & Firouzja: Art of Accuracy | Insane in the Endgame - GM Denes Boros | lichess.org"
-      },
-      {
          "description" : "The 2022 Candidates Tournament, which will produce the challenger for the next world chess championship match, will take place in June 2022 in Madrid, Spain. As the organising sponsor of this prestigious tournament, Chess.com signed an agreement on Monday with governing body FIDE and the Scheinberg family, patrons of the event.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1858,14 +1866,6 @@ news_feed (
          "title" : "World Chess Nominates Daniil Dubov to the Grand Prix Series; Fears Mild Outrage from Nepo's Fans"
       },
       {
-         "description" : "A pre-requisite for an organization to become world class is to have competent people working for it in key managerial positions. This is exactly what FIDE has done by roping in Dana Reizniece-Ozola as the managing director. A look at her credentials and you can have no doubts about her competency. Dana is a former Minister of Economics of Latvia as well as its Finance Minister! She has a Masters in Business Administration, has been the head of space programs and her list of achievements is quite huge. To add to all of this, she is also a strong chess player - a WGM with an Elo of 2283. At the World Championship 2021 in Dubai, IM Sagar Shah met with Dana and had a detailed interview about he",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-vision-of-fide-s-managing-director-dana-reizniece-ozola",
-         "pubDate" : "Mon, 20 Dec 2021 16:00:00 +0100",
-         "title" : "The vision of FIDE's Managing Director - Dana Reizniece-Ozola"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2024,14 +2024,6 @@ news_feed (
          "link" : "https://www.europechess.org/duda-jan-krzysztof-wins-european-blitz-chess-championship-2021/",
          "pubDate" : "Sat, 18 Dec 2021 08:53:31 +0000",
          "title" : "Duda Jan-Krzysztof wins European Blitz Chess Championship 2021"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/expression-of-interest-for-a-proposed-online-chess-league-and-partner-in-chess-in-school/",
-         "pubDate" : "Sat, 18 Dec 2021 06:12:19 +0000",
-         "title" : "EXPRESSION OF INTEREST FOR A PROPOSED ONLINE CHESS LEAGUE AND PARTNER IN 'CHESS IN SCHOOL'"
       }
    ]
 }
