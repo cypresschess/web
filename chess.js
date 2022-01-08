@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1514",
+         "pubDate" : "Fri, 07 Jan 2022 21:31:52 +0000",
+         "title" : "Uruguayan Championship: Bernardo Roselli wins third straight title"
+      },
+      {
+         "description" : "Chess.com is excited to announce the winners of the 2021 Chess.com awards! It was a year of massive growth for chess. In February, PogChamps 3 set the Chess.com record for the biggest live-streamed event ever&#38;mdash;at one point even breaking the 1...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2021-chesscom-awards-winners",
+         "pubDate" : "Fri, 07 Jan 2022 10:38:00 -0800",
+         "title" : "2021 Chess.com Awards Winners"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A free, open-source tactic training in connection with <strong>Lichess</strong> and based on repetition drills has launched on <a href=\"https://www.chesspecker.com/\"><strong>Chesspecker.com</strong></a>. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -2016,22 +2032,6 @@ news_feed (
          "link" : "https://aicf.in/expression-of-interest-for-a-proposed-online-chess-league-and-partner-in-chess-in-school/",
          "pubDate" : "Sat, 18 Dec 2021 06:12:19 +0000",
          "title" : "EXPRESSION OF INTEREST FOR A PROPOSED ONLINE CHESS LEAGUE AND PARTNER IN 'CHESS IN SCHOOL'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1486",
-         "pubDate" : "Fri, 17 Dec 2021 23:38:59 +0000",
-         "title" : "FIDE Online Cadets & Youth Rapid Super Final Kicks Off"
-      },
-      {
-         "description" : "It&#39;s almost the end of the year, and what a year it has been! With so much good news for the chess world, there&#39;s certainly a lot to celebrate. To make sure we commemorate this year properly, we invite you to cast your votes. This year, the commun...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vote-2021-chesscom-awards",
-         "pubDate" : "Fri, 17 Dec 2021 15:04:00 -0800",
-         "title" : "Vote For The 2021 Chess.com Awards"
       }
    ]
 }
