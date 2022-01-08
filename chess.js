@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE Grand Prix organiser World Chess is asking the players to get in touch for a package if they want their personal sponsor logos to be shown during the events. The new demand has led to reactions from top players Anish Giri and Vidit Gujrathi, but CEO Ilya Merenzon denies they are actually asking for a cut.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-grand-prix-organiser-asks-for-cut-of-players-sponsorship",
+         "pubDate" : "Sat, 08 Jan 2022 19:33:30 +0000",
+         "title" : "Giri, Vidit question World Chess FIDE Grand Prix sponsorship demands"
+      },
+      {
          "description" : " The lead story on the ABC News (Canberra) this evening was about new health restrictions in Canberra. Street Chess was part of the background footage, which you can see via this link <a href=\"https://iview.abc.net.au/video/NU2204C007S00\">https://iview.abc.net.au/video/NU2204C007S00</a> The story is the lead item so you only have to watch the first minute or two. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1970,14 +1978,6 @@ news_feed (
          "title" : "Jonathan Penrose (2)"
       },
       {
-         "description" : "Vishy Anand got off to the smoothest of starts as he defeated Rauf Mamedov in the first game of the Vugar Gashimov Memorial, but Rauf hit back to the win the second game and clinch a mini-match win in Armageddon. Fabiano Caruana (vs. Vugar Asadli), Shakhriyar Mamedyarov (David Navara) and Richard Rapport (Sergey Karjakin) all picked up a full 3 points for winning without Armageddon as the 7th edition of the tournament began in Baku, Azerbaijan.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/anand-stumbles-as-gashimov-memorial-begins",
-         "pubDate" : "Sun, 19 Dec 2021 10:23:07 +0000",
-         "title" : "Anand stumbles as Gashimov Memorial begins"
-      },
-      {
          "description" : " From the publisher's blurb: &#8220;Funny and brutal. A big-hearted book, I enjoyed it.' Stuart Conquest, Grandmaster &#8216;Carl is gifted as both a natural entertainer and storyteller. Although this memoir is primarily about chess, the tales in it are filled with a frank and refreshing honesty that will literally have your heart racing with adventure.' Jovanka <a href=\"http://britishchessnews.com/2021/12/19/chess-crusader-confessions-of-an-amateur-chess-player/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess Crusader: confessions of an amateur chess-player</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.co",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1992,22 +1992,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1488",
          "pubDate" : "Sat, 18 Dec 2021 22:49:26 +0000",
          "title" : "Hungarian Championship: Peter Acs and Zsuzsanna Terbe clinch titles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1487",
-         "pubDate" : "Sat, 18 Dec 2021 19:14:52 +0000",
-         "title" : "FIDE Online Cadets & Youth Rapid Super Final: Favourites Fall"
-      },
-      {
-         "description" : "GM Fabiano Caruana and GM Viswanathan Anand are the biggest names at the seventh Vugar Gashimov Memorial which got underway on Saturday. This year, the tournament is a combination of rapid and blitz chess. How to watch?You can follow the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-vugar-gashimov-memorial-round-1",
-         "pubDate" : "Sat, 18 Dec 2021 10:39:00 -0800",
-         "title" : "Gashimov Memorial: Anand Stumbles In Opening Round"
       }
    ]
 }
