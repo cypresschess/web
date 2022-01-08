@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The lead story on the ABC News (Canberra) this evening was about new health restrictions in Canberra. Street Chess was part of the background footage, which you can see via this link <a href=\"https://iview.abc.net.au/video/NU2204C007S00\">https://iview.abc.net.au/video/NU2204C007S00</a> The story is the lead item so you only have to watch the first minute or two. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/street-chess-on-news-briefly.html",
+         "pubDate" : "Sat, 08 Jan 2022 12:51:00 +0000",
+         "title" : "Street Chess on the news (briefly)"
+      },
+      {
          "description" : "Please find the final list for Chess for Everyone :National Organizer 1C batch scheduled to start from 14-16 January 2022 .Necessary meeting link will send",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2000,30 +2008,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-vugar-gashimov-memorial-round-1",
          "pubDate" : "Sat, 18 Dec 2021 10:39:00 -0800",
          "title" : "Gashimov Memorial: Anand Stumbles In Opening Round"
-      },
-      {
-         "description" : "The 7th edition of the Vugar Gashimov Memorial kicked off today in Baku, Azerbaijan. The event is played from 18th-24th December and consists of Rapid and Blitz tournaments with a double round-robin system for each. Eight Super Grandmasters participate in the event: Fabiano Caruana, Mamedyarov Shakhriyar, Rapport Richard, Viswanathan Anand, Karjakin Sergey, Navara David, Mamedov Rauf and Asadli&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/vugar-gashimov-memorial-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/vugar-gashimov-memorial-2021/",
-         "pubDate" : "Sat, 18 Dec 2021 15:53:30 +0000",
-         "title" : "Vugar Gashimov Memorial 2021"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88362496.cms\" />Indian chess ace Viswanathan Anand went down to lower-rated GM Rauf Mamedov in the Armageddon on the opening day of the 7th Vugar Gashimov Memorial chess tournament here on Saturday, after winning one game and losing the other in the Rapid event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/mamedov-beats-anand-in-gashimov-memorial-chess-opener/articleshow/88362496.cms",
-         "pubDate" : "Sat, 18 Dec 2021 21:16:47 +0530",
-         "title" : "Mamedov beats Anand in Gashimov Memorial chess opener"
-      },
-      {
-         "description" : " The 2021 ACTCA Rapidplay Championship finished in a tie for 1st place between FM Michael Kethro and Harry Press (6/7). Kethro defeated Press in their individual game, but drew with CM Hui Li and Miles Patterson (in the final round). Press caught up to Kethro by beating Li in the last round. Li finished in outright third on 5.5/7 The tournament attracted a big field of 42 players, including 6 players rated above 2000. In a blast from the past, former ACT Junior Champion Robert Ferenczi (1980,81 and 82), picked up the Under 1850 prize, with 4.5/7. There was a big tie for the Under 1450 prize, with some of the ACT more senior players (Joe Marks and Sunny Yoon) going home with a small prize. Th",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/2021-actca-rapidplay-championship.html",
-         "pubDate" : "Sat, 18 Dec 2021 13:11:00 +0000",
-         "title" : "2021 ACTCA Rapidplay Championship"
       }
    ]
 }
