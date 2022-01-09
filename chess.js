@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Le'Veon Bell is an American football running back for the Tampa Bay Buccaneers of the National Football League (NFL), and very recently he discovered the magic of chess. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/usa_today_15327121.0.jpg-2.jpg\" width=\"1820\" height=\"1213\" alt=\"\" /> <div class=\"e2-text-caption\">Jasen Vinlove-USA TODAY Sports</div> </div> The NFL superstar was so impressed with chess that on January the 7th, he couldn't stop tweeting about it! <a href=\"https://twitter.com/LeVeonBell/status/1479265809365192706\">https://twitter.com/LeVeonBell/status/1479265809365192706</a> <a href=\"https://twitter.com/LeVeonBell/status/1479266135",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nfl-superstar-leveon-bell-cant-believe-how-perfect-chess-is/",
+         "pubDate" : "Sun, 09 Jan 2022 11:40:29 +0000",
+         "title" : "NFL superstar Le'Veon Bell can't believe how perfect chess is"
+      },
+      {
          "description" : "FIDE Grand Prix organiser World Chess is asking the players to get in touch for a package if they want their personal sponsor logos to be shown during the events. The new demand has led to reactions from top players Anish Giri and Vidit Gujrathi, but CEO Ilya Merenzon denies they are actually asking for a cut.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gashimov-memorial-chess-viswanathan-anand-beats-mamedyarov-for-first-win/articleshow/88397186.cms",
          "pubDate" : "Mon, 20 Dec 2021 21:50:51 +0530",
          "title" : "Gashimov Memorial: Anand beats Mamedyarov for first win"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess has nominated Daniil Dubov (25, ELO 2720, Russian Federation) as the final Wild Card to the 2022 Grand Prix Series. Dubov will join 23 elite chess players, including Wesley So, Anish Giri, FIDE-nominated Hikaru Nakamura, and others who will compete for two spots in the Candidates Tournament, the final qualifier for the World Chess Championship. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/ABC_0257-min.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> The nomination comes amid a controversy linked to <a href=\"https://worldchess.com/news/all/russians-partially-blame-dubov-for-nepos",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-nominates-daniil-dubov-to-the-grand-prix-series-fear/",
-         "pubDate" : "Mon, 20 Dec 2021 15:28:48 +0000",
-         "title" : "World Chess Nominates Daniil Dubov to the Grand Prix Series; Fears Mild Outrage from Nepo's Fans"
       },
       {
          "description" : "",
