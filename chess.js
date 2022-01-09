@@ -2000,14 +2000,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/european-rapid-and-blitz-2021",
          "pubDate" : "Mon, 20 Dec 2021 00:37:00 +0400",
          "title" : "European Rapid and Blitz 2021 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1489",
-         "pubDate" : "Sun, 19 Dec 2021 20:09:11 +0000",
-         "title" : "Tamir Nabaty wins Israeli Open Championship"
       }
    ]
 }
