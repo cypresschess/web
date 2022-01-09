@@ -1984,22 +1984,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-speed-chess-championship-final-with-double-digit-dominance",
          "pubDate" : "Sun, 19 Dec 2021 15:48:00 -0800",
          "title" : "Nakamura Wins 2021 Speed Chess Championship Final With Double-Digit Dominance"
-      },
-      {
-         "description" : " The Chess.com Speed Chess Championship took place Mon 8th Nov to Sun 19th Dec 2021. Round 1 pairings: Nov 8 Giri 14-12 Duda, Nov 9 Ding 14-12 Mamedyarov, Nov 10 Rapport 16.5-14.5 Sarana, Nov 11 Nihal Sarin 15.5-10.5 Grischuk, Nov 11 Aronian 15-12 Dubov, Nov 12 Nakamura 22-10 Svidler, Nov 15 So 18-14 Xiong and Nov 29 Caruana 13.5-12.5 MVL. Quarter Finals December 2nd Sarin 18-9 Rapport. December 6th Ding 15-11 Aronian, Nakamura 18.5-10.5 Giri and So 17.5-9.5 Caruana. Semi Finals December Nakamura just squeezed past Ding Liren 16.5-15.5. Wesley So beat Nihail Sarin 15-14 in another super close match. The final was dominated by Nakamura - after taking a two point lead after the first 5 minute ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-championship-2021",
-         "pubDate" : "Mon, 20 Dec 2021 00:52:00 +0400",
-         "title" : "Chess.com Speed Chess Championship 2021 - Games and Results"
-      },
-      {
-         "description" : " The European Rapid and Blitz Championships took place in Katowice 17th to 19th December 2021. Top seed Jan-Krzysztof Duda won the blitz with 18/22 half a point clear of Maciej Klekowski. The rapid was won by Alexander Motylev on tie-break from Alexander Donchenko and Paulius Pultinevicius after all scored 9.5/11.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/european-rapid-and-blitz-2021",
-         "pubDate" : "Mon, 20 Dec 2021 00:37:00 +0400",
-         "title" : "European Rapid and Blitz 2021 - Games and Results"
       }
    ]
 }
