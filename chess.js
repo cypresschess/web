@@ -1976,22 +1976,6 @@ news_feed (
          "link" : "https://chessimprover.com/jonathan-penrose-2/",
          "pubDate" : "Sun, 19 Dec 2021 13:24:27 +0000",
          "title" : "Jonathan Penrose (2)"
-      },
-      {
-         "description" : " From the publisher's blurb: &#8220;Funny and brutal. A big-hearted book, I enjoyed it.' Stuart Conquest, Grandmaster &#8216;Carl is gifted as both a natural entertainer and storyteller. Although this memoir is primarily about chess, the tales in it are filled with a frank and refreshing honesty that will literally have your heart racing with adventure.' Jovanka <a href=\"http://britishchessnews.com/2021/12/19/chess-crusader-confessions-of-an-amateur-chess-player/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess Crusader: confessions of an amateur chess-player</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.co",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/12/19/chess-crusader-confessions-of-an-amateur-chess-player/",
-         "pubDate" : "Sun, 19 Dec 2021 00:10:52 +0000",
-         "title" : "Chess Crusader: confessions of an amateur chess-player"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1488",
-         "pubDate" : "Sat, 18 Dec 2021 22:49:26 +0000",
-         "title" : "Hungarian Championship: Peter Acs and Zsuzsanna Terbe clinch titles"
       }
    ]
 }
