@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All India Chess Federation congratulate Mounika Akshaya for securing her final WIM norm at the Roquetas Chess Festival in Spain to become the latest Women",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-mounika-akshaya/",
+         "pubDate" : "Sun, 09 Jan 2022 17:23:20 +0000",
+         "title" : "Congratulations Mounika Akshaya"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88795654.cms\" />Chennai boy Bharath Subramaniyam became India's 73rd Grandmaster after bagging his third and final GM norm at the Vergani Cup in Cattolica, Italy on Sunday evening. The event saw the 14-year-old score 6.5 points out of 9 rounds to etch his name among the game's elite. His current ELO rating stands at 2508.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pleased-to-have-played-good-chess-bharath-subramaniyam/articleshow/88795654.cms",
+         "pubDate" : "Sun, 09 Jan 2022 22:09:05 +0530",
+         "title" : "Pleased to have played good chess: Bharath Subramaniyam"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88795441.cms\" />Indian Grandmaster MR Lalith Babu won the Vergani Cup chess tournament on the basis of better tie-break score after he was tied with three others, including top-seed Anton Korobov, here on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1584,14 +1600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/caruana-wins-2021-gashimov-memorial-chess",
          "pubDate" : "Thu, 23 Dec 2021 15:08:00 -0800",
          "title" : "Caruana Wins 2021 Gashimov Memorial"
-      },
-      {
-         "description" : "V S Raahul in the open section and Savitha Shri B in Girls won the Asian Junior Chess Championship at Colombo on Thursday. Tamilnadu teenager",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-junior-double-delight-for-india-raahul-and-savitha-champions/",
-         "pubDate" : "Thu, 23 Dec 2021 18:50:55 +0000",
-         "title" : "Asian Junior - Double delight for India; Raahul and Savitha champions"
       },
       {
          "description" : "",
