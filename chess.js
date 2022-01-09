@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "15-year-old Eline Roebers became the first-ever female winner of the Untergrombach Open on Saturday. Still untitled, the very talented Dutch player defeated GM Vyacheslav Ikonnikov in the final round to finish in sole first place with 6.5/7. Roe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/eline-roebers-wins-untergrombach-open-chess-tournament",
+         "pubDate" : "Sun, 09 Jan 2022 04:03:00 -0800",
+         "title" : "15-Year-Old Eline Roebers Wins German Open Tournament"
+      },
+      {
          "description" : " <p class=\"lead\">Le'Veon Bell is an American football running back for the Tampa Bay Buccaneers of the National Football League (NFL), and very recently he discovered the magic of chess. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/usa_today_15327121.0.jpg-2.jpg\" width=\"1820\" height=\"1213\" alt=\"\" /> <div class=\"e2-text-caption\">Jasen Vinlove-USA TODAY Sports</div> </div> The NFL superstar was so impressed with chess that on January the 7th, he couldn't stop tweeting about it! <a href=\"https://twitter.com/LeVeonBell/status/1479265809365192706\">https://twitter.com/LeVeonBell/status/1479265809365192706</a> <a href=\"https://twitter.com/LeVeonBell/status/1479266135",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
