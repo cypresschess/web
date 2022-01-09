@@ -2,7 +2,63 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "15-year-old Eline Roebers became the first-ever female winner of the Untergrombach Open on Saturday. Still untitled, the very talented Dutch player defeated GM Vyacheslav Ikonnikov in the final round to finish in sole first place with 6.5/7. Roe...",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88795441.cms\" />Indian Grandmaster MR Lalith Babu won the Vergani Cup chess tournament on the basis of better tie-break score after he was tied with three others, including top-seed Anton Korobov, here on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/lalith-babu-wins-vergani-cup/articleshow/88795441.cms",
+         "pubDate" : "Sun, 09 Jan 2022 21:38:27 +0530",
+         "title" : "Lalith Babu wins Vergani Cup"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88795287.cms\" />Fourteen-year old Bharath Subramaniyam on Sunday became India's 73rd chess Grandmaster, securing the third and final GM norm at an event in Italy.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/bharath-subramaniyam-becomes-indias-73rd-chess-gm/articleshow/88795287.cms",
+         "pubDate" : "Sun, 09 Jan 2022 21:29:42 +0530",
+         "title" : "Bharath Subramaniyam becomes India's 73rd chess GM"
+      },
+      {
+         "description" : "Grandmaster M R Lalith Babu won the Vergani Cup Open which concluded on Sunday in Italy. Lalith seeded 9th in the tournament scored 7 points",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-lalith-babu/",
+         "pubDate" : "Sun, 09 Jan 2022 15:58:19 +0000",
+         "title" : "Congratulations Lalith Babu"
+      },
+      {
+         "description" : "Fourteen year old Bharath Subramaniyam becomes the 73rd Grandmaster of the country after completing his final GM Norm and crossing the 2500 rating at Vergani",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-bharath-subramaniyam-73rd-grandmaster-of-india/",
+         "pubDate" : "Sun, 09 Jan 2022 15:19:53 +0000",
+         "title" : "Congratulations Bharath Subramaniyam : 73rd Grandmaster of India"
+      },
+      {
+         "description" : "The Tata Steel Chess Tournament 2022 will take place in Wijk aan Zee on January 14-30. The Masters and the Challengers sections will be played concurrently. The Open had to be cancelled. World Champion Magnus Carlsen leads the field. Alireza Firouzja is not taking part. | Photos: Tata Steel Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-preview",
+         "pubDate" : "Sun, 09 Jan 2022 15:20:00 +0100",
+         "title" : "Tata Steel Chess to kick off in less than a week"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 61st instalment of his ChessBase show \"Understanding before Moving\", Herman talks about \"Simple Chess\" and light-square strategy. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-61-light-square-strategy",
+         "pubDate" : "Sun, 09 Jan 2022 14:00:00 +0100",
+         "title" : "Understanding before Moving 61: Light-square strategy"
+      },
+      {
+         "description" : " While most people think that a drawn game is more often then not a 'non-result', I just think they need to watch a little more cricket! ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/who-says-draws-are-boring.html",
+         "pubDate" : "Sun, 09 Jan 2022 12:36:00 +0000",
+         "title" : "Who says draws are boring?"
+      },
+      {
+         "description" : "Eline Roebers, only 15 years old, became the first-ever female winner of the Untergrombach Open on Saturday. Still untitled, the very talented Dutch player defeated GM Vyacheslav Ikonnikov in the final round to finish in sole first place with 6.5/...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/eline-roebers-wins-untergrombach-open-chess-tournament",
@@ -1722,14 +1778,6 @@ news_feed (
          "title" : "The Endgame Magic Christmas Calendar - Door 22"
       },
       {
-         "description" : " Priyanka joins Savitha shri on the leader board. K.priyanka managed to defeat Al Mamaari Wafia in a fine attacking game to join overnight",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-juniors-and-girls2021-srilankareports-of-round-8/",
-         "pubDate" : "Wed, 22 Dec 2021 10:21:15 +0000",
-         "title" : "ASIAN JUNIORS AND GIRLS'2021-SRILANKA:Reports of Round 8"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1826,14 +1874,6 @@ news_feed (
          "title" : "The Endgame Magic Christmas Calendar - Door 21"
       },
       {
-         "description" : "Raahul and Savitha Shri in sole lead In the open section,VS.Raahul defeated Sri Lankan Liyanage Ranindu Dilshan to be on 6.5 out of 7 games",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-juniors-and-girls2021-srilankareports-of-round-7/",
-         "pubDate" : "Tue, 21 Dec 2021 10:56:36 +0000",
-         "title" : "ASIAN JUNIORS AND GIRLS'2021-SRILANKA:Reports of Round 7"
-      },
-      {
          "description" : "&#34;It is unlikely that I will play another match unless maybe if the next challenger represents the next generation,&#34; wrote GM Magnus Carlsen on Tuesday in a blog post for one of his sponsors. The world champion once again mentioned GM Alireza Firou...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1864,22 +1904,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/magnus-carlsen-unlikely-i-will-play-another-match-except-against-firouzja",
          "pubDate" : "Tue, 21 Dec 2021 09:04:51 +0000",
          "title" : "Magnus Carlsen: \"Unlikely I will play another match\" except against Firouzja"
-      },
-      {
-         "description" : "In the diagram position it is White to move and draw. Black's passed pawns are far advanced and it seems as if one of them will queen soon. However, White still has a way to draw. What should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-tactics-2",
-         "pubDate" : "Tue, 21 Dec 2021 09:00:00 +0100",
-         "title" : "Endgame tactics"
-      },
-      {
-         "description" : "For a fourth year in a row, Hikaru Nakamura won the online Speed Chess Championship organized by chess.com. His opponent in the deciding match was Wesley So, who lost a third final against his compatriot. It was a one-sided affair, as the online blitz and bullet specialist won by an impressive 23-8 score.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hikaru-nakamura-wins-speed-chess-championship-2021",
-         "pubDate" : "Tue, 21 Dec 2021 00:25:00 +0100",
-         "title" : "Hikaru Nakamura wins fourth straight Speed Chess Championship"
       },
       {
          "description" : "Hikaru Nakamura and Daniil Dubov have been given wild cards to the 24-player FIDE Grand Prix series. The three tournaments in Berlin and Belgrade from February to April 2022 will decide the final two places in the next Candidates Tournament. Nakamura, who would currently be the 10th seed, was ineligible to qualify by rating after failing to play a classical game in two years, but was given a lifeline by the FIDE President. The organisers picked Magnus Carlsen second Dubov, who was just outside the rating qualifiers.",
@@ -1976,14 +2000,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1489",
          "pubDate" : "Sun, 19 Dec 2021 20:09:11 +0000",
          "title" : "Tamir Nabaty wins Israeli Open Championship"
-      },
-      {
-         "description" : " Continuing my tribute to the 10 times British Champion Jonathan Penrose, who died recently at the age of 88, perhaps his finest hour was at the 1960 Olympiad in Leipzig, where he beat the reigning world champion (Tal) and a former world champion (Euwe) and drew with a future world champion (Fischer): a game he <a href=\"https://chessimprover.com/jonathan-penrose-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Jonathan Penrose (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/jonathan-penrose-2/\">Jonathan Penrose (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/jonathan-penrose-2/",
-         "pubDate" : "Sun, 19 Dec 2021 13:24:27 +0000",
-         "title" : "Jonathan Penrose (2)"
       }
    ]
 }
