@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With the Tata Steel Masters kicking off next Saturday, chess aficionados are set to enjoy another year of elite tournaments. Besides the traditional event in Wijk aan Zee, a tournament with a new format will take place in Gibraltar, while the first two legs of the FIDE Grand Prix will be played in close succession in February.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-tournaments-in-january-february-2022",
+         "pubDate" : "Mon, 10 Jan 2022 12:00:00 +0100",
+         "title" : "What's next: top tournaments in January and February"
+      },
+      {
+         "description" : "The Senior National Chess Championship 2022 scheduled at Kanpur from 09-21 Feb 2022 has been postponed due to forthcoming Uttar Pradesh assembly election as well",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-chess-championship-postponed-2/",
+         "pubDate" : "Mon, 10 Jan 2022 09:30:57 +0000",
+         "title" : "Senior National Chess Championship postponed"
+      },
+      {
+         "description" : "Harry gained his first IM norm with a terrific score of 7/9 to take joint top spot in the Roquetas Open. Along the way he...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/congratulations-to-harry-grieve/",
+         "pubDate" : "Mon, 10 Jan 2022 09:13:19 +0000",
+         "title" : "Congratulations to Harry Grieve!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88802115.cms\" />Five-time world champion Viswanathan Anand on Monday congratulated fourteen-year-old Bharath Subramaniyam as the teenager became the 73rd Grandmaster of India.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -111,7 +135,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/nfl-superstar-leveon-bell-cant-believe-how-perfect-chess-is/",
          "pubDate" : "Sun, 09 Jan 2022 11:40:29 +0000",
-         "title" : "NFL superstar Le'Veon Bell can't believe how perfect chess is"
+         "title" : "NFL Superstar Le'Veon Bell Discovers Chess, Tweets a Lot"
       },
       {
          "description" : "FIDE Grand Prix organiser World Chess is asking the players to get in touch for a package if they want their personal sponsor logos to be shown during the events. The new demand has led to reactions from top players Anish Giri and Vidit Gujrathi, but CEO Ilya Merenzon denies they are actually asking for a cut.",
@@ -306,7 +330,7 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: My favourite game of 2021"
       },
       {
-         "description" : " <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/IMG_3404.JPG\" width=\"1707\" height=\"2560\" alt=\"\" /> </div> <h2>Please tell us about your mother's role in your chess development. Did she teach you how to play? Is it true that your mom was Anish Giri's coach? As a child, did you think about a different path for your life?</h2> Yes, my mom is a chess coach. She's always been teaching children in Saint Petersburg. Over the last 30 years, she must have trained thousands of children. One of them was indeed Anish Giri. It's kind of sad that her most talented player isn't me, right? Thanks to her, I learned to play when I was three and started my first competition at 5. ",
+         "description" : " <p class=\"lead\">Dina Belenkaya, a St. Petersburg-based streamer, has joined a roster of chess influencers by doing popular streams while maintaining a professional chess career - a feat that only a handful of chess players could manage. World Chess spoke with Belenkaya about her chess career and her experience of being the chess influencer, and her suggestions on how to become one. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/IMG_3404.JPG\" width=\"1707\" height=\"2560\" alt=\"\" /> </div> <h2>Please tell us about your mother's role in your chess development. Did she teach you how to play? Is it true that your mom was Anish Giri's coach? As a child, did you think ab",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/dina-belenkaya-my-first-stream-was-a-total-mess/",
@@ -1442,14 +1466,6 @@ news_feed (
          "title" : "The Endgame Magic Christmas Calendar - Door 25"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/happy-xmas/",
-         "pubDate" : "Sat, 25 Dec 2021 09:49:14 +0000",
-         "title" : "HAPPY XMAS"
-      },
-      {
          "description" : "Part of the attraction of the Netflix series \"The Queen's Gambit\" is the design: costumes, buildings and music evoke the 1960s, the time in which the series is set. In a crucial scene of the series the Dutch band Shocking Blue provides the background music. Shocking Blue, founded in 1967, might not be as famous as other bands from the 1960s and 1970s but it still has ardent followers, and one of them is a prominent chess player and well-known coach. | Photo: Netflix",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1898,14 +1914,6 @@ news_feed (
          "title" : "Tatneft becomes an official sponsor of the FIDE World Rapid & Blitz Championships 2021"
       },
       {
-         "description" : "Yesterday's Reti study could be solved with Rd2, or even Rd3. Of course, almost everyone knew that. And today there is another study that even more should know how to solve. Please confirm you know it! And this short study, in this short video, is on the shortest day of the year.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2122344",
-         "pubDate" : "Tue, 21 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 21"
-      },
-      {
          "description" : "&#34;It is unlikely that I will play another match unless maybe if the next challenger represents the next generation,&#34; wrote GM Magnus Carlsen on Tuesday in a blog post for one of his sponsors. The world champion once again mentioned GM Alireza Firou...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1968,22 +1976,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/not-quite-kriegspiel.html",
          "pubDate" : "Mon, 20 Dec 2021 12:32:00 +0000",
          "title" : "Not quite Kriegspiel"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1490",
-         "pubDate" : "Mon, 20 Dec 2021 09:37:25 +0000",
-         "title" : "European Rapid and Blitz Championships: Duda and Motylev win titles"
-      },
-      {
-         "description" : "Fabiano Caruana is the only player to have won all three mini-matches in the Gashimov Memorial, after taking down Rauf Mamedov and Richard Rapport on Day 2. Rapport was beaten in Armageddon after defeating Vishy Anand in the first match of the day, with Vishy also falling to David Navara in a Rook vs. Rook + Bishop ending. The day's most impressive comeback came from Sergey Karjakin, who started the event with three losses before winning his next four games to take down Navara and Shakhriyar Mamedyarov.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/gashimov-memorial-2-caruana-takes-sole-lead",
-         "pubDate" : "Mon, 20 Dec 2021 08:35:15 +0000",
-         "title" : "Gashimov Memorial 2: Caruana takes sole lead "
       }
    ]
 }
