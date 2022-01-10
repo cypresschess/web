@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GM Ray Robson won the 2022 Puzzle Battle World Championship that concluded on Sunday. By doing so, the 27-year-old grandmaster from St. Louis defended his title, which he has been holding since the 2020 Championship, and clinched a prize of $4,5...",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88802115.cms\" />Five-time world champion Viswanathan Anand on Monday congratulated fourteen-year-old Bharath Subramaniyam as the teenager became the 73rd Grandmaster of India.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-lauds-bharath-subramaniyam-as-teenager-becomes-indias-73rd-grandmaster/articleshow/88802115.cms",
+         "pubDate" : "Mon, 10 Jan 2022 10:14:07 +0530",
+         "title" : "Viswanathan lauds Bharath as teenager becomes India's 73rd Grandmaster"
+      },
+      {
+         "description" : "GM Ray Robson won the 2022 Puzzle Battle World Championship that concluded on Sunday. The 27-year-old grandmaster from St. Louis again defended his title, which he has been holding since the 2020 Championship, and clinched a prize of $4,500 for bo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-puzzle-battle-world-championship-ray-robson",
@@ -1976,14 +1984,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/gashimov-memorial-2-caruana-takes-sole-lead",
          "pubDate" : "Mon, 20 Dec 2021 08:35:15 +0000",
          "title" : "Gashimov Memorial 2: Caruana takes sole lead "
-      },
-      {
-         "description" : "European Rapid Chess Championship 2021 concluded on Sunday, 19th of December after two days of play in Katowice, Poland. After 11 played rounds three players were in a tie for the top, scoring 9.5 points each. Tiebreak criteria determined the Winner of the event and the medalists. Alexander Motylev (RUS, 2703) had the best additional criteria to claim&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/alexander-motylev-wins-european-rapid-chess-championship-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/alexander-motylev-wins-european-rapid-chess-championship-2021/",
-         "pubDate" : "Mon, 20 Dec 2021 07:49:24 +0000",
-         "title" : "Alexander Motylev wins European Rapid Chess Championship 2021"
       }
    ]
 }
