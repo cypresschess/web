@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser explains how he may not really exist while doing high-level chess tactics. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> #chess #tactics #analysis </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-player-does-not-exist\"><img src=\"https://saintlouischessclub.org/sites/default/fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-player-does-not-exist",
+         "pubDate" : "Mon, 10 Jan 2022 20:00:13 +0000",
+         "title" : "This Chess Player Does Not Exist."
+      },
+      {
+         "description" : "Four years after his epic match against Fritz in Bahrain, which ended in a hard-fought 4-4 draw, World Champion Vladimir Kramnik, who had in the meantime twice defended his title, once again took up the gauntlet to face his computer opponent. In a two-part pictorial article, Frederic Friedel describes the intense million-dollar battle that was fought between them in 2006 in Bonn, Germany. Finance Minister Peer Steinbr&uuml;ck called it a cultural battle between outstanding representatives of human and technical intelligence.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/thirty-years-happy-birthday-fritz-6-1",
+         "pubDate" : "Mon, 10 Jan 2022 20:00:00 +0100",
+         "title" : "Thirty years! Happy Birthday Fritz (6.1)"
+      },
+      {
+         "description" : "World Chess, the organizer and owner of the commercial rights of the FIDE Grand Prix, has contacted participants about their personal sponsorship. GMs Anish Giri and Vidit Gujrathi reacted on Twitter, suggesting World Chess is trying to get &#34;a cut...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/world-chess-fide-grand-prix-sponsor-giri-vidit-nakamura",
+         "pubDate" : "Mon, 10 Jan 2022 09:32:00 -0800",
+         "title" : "Nakamura Supports Giri, Vidit In Clash With Grand Prix Organizer Over Sponsorship"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <a href=\"https://lichess.org/tournament/qzRBGPLN\">tournament promoted</a> by youtuber <strong>Antonio Radic</strong> that had to be interrupted before Christmas after a server failure <a href=\"https://lichess.org/blog/YdtgfhEAACIAO-s_/bortnyk-wins-the-titled-arena-and-the-agadmator-arena-is-ready-to-resume\">will be restarted</a> by <strong>Lichess</strong> this Tuesday at 20.00 GMT for an hour and twenty minutes. Players below 2000 won't be allowed back in. Collected points stand. <strong>Hikaru Nakamura</strong>, who left Poland after being quarantined there due to a Covid-19 infection at the World Blitz Championship, leads by 11 points. </div>",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/lichess-restarts-agadmator-event-on/",
+         "pubDate" : "Mon, 10 Jan 2022 17:50:09 +0100",
+         "title" : "Lichess restarts Agadmator event on Tuesday"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1517",
+         "pubDate" : "Mon, 10 Jan 2022 16:46:05 +0000",
+         "title" : "NZ Championship: Daniel Gong claims his first title"
+      },
+      {
          "description" : "On Tuesday, January 11, 2022, the first auction of the Chess World Champion NFTs (Wilhelm Steinitz) will end at 12:00 CET. The other auctions will follow roughly every hour. Therefore we summarize here the points that make this series unique. In one sentence: It will remain the first of its kind for all times! Also: What is the deeper meaning of NFTs? And a short but hefty guide to the technical side of the auction.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -578,14 +618,6 @@ news_feed (
          "title" : "Wijk aan Zee without amateur events"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Hungarian grandmaster, coach, author and arbiter <strong>Gabor Kallai</strong> <a href=\"https://en.chessbase.com/post/remembering-gm-gbor-kllai-21-february-1959-31-december-2021\">passed away</a> at age 62 on New Year's Eve. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/gabor-kallai-1959-2021/",
-         "pubDate" : "Tue, 04 Jan 2022 14:21:16 +0100",
-         "title" : "Gabor Kallai (1959-2021)"
-      },
-      {
          "description" : "In 1967 the city of Sousse (Tunisia) organised one of the most talked about Interzonal Tournaments in the history of chess. After 10 rounds Bobby Fischer led with 8&frac12;/10 but after quarrels with the organisers, the eccentric American decided to withdraw from the tournament and to wait for three more years before making his final attempt to become World Champion. The first Bicapawn International Chess Tournament that was played in Sousse at the end of 2021 went much more smoothly and was won by GM Misratdin Iskandarov from Azerbaijan.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1160,14 +1192,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-rapid-chess-championship-koneru-humpy-takes-6th-place-in-womens-event-d-gukesh-finishes-9th-in-open-section/articleshow/88558967.cms",
          "pubDate" : "Wed, 29 Dec 2021 10:44:40 +0530",
          "title" : "World Rapid Chess C'ship: Humpy takes 6th place in women's event, Gukesh 9th in open section"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros analyzes games from Magnus Carlsen and Alireza Firouzja from the 2021 World Rapid and Blitz Championships. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-firouzja-art-accuracy-insane-endgame-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zdP4TSYmkUo.jpg?itok=WyZrloJC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-firouzja-art-accuracy-insane-endgame-gm-denes-boros",
-         "pubDate" : "Wed, 29 Dec 2021 04:37:09 +0000",
-         "title" : "Carlsen & Firouzja: Art of Accuracy | Insane in the Endgame - GM Denes Boros"
       },
       {
          "description" : "After many twists and turns on day three of the World Rapid Chess Championship, 17-year-old Uzbek GM Nodirbek Abdusattorov won the event with 9.5/13 in the Swiss tournament, after winning the second tiebreak blitz game against GM Ian Nepomniachtch...",
@@ -1864,14 +1888,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/late-nights-at-fide-saloon.html",
          "pubDate" : "Wed, 22 Dec 2021 11:31:00 +0000",
          "title" : "Late nights at the FIDE saloon"
-      },
-      {
-         "description" : "Arne Kaehler had just learned this study in \"Ellis Schatztruhe - Episode 9\", but embarrassingly forgot it again for a short time. But the vast majority knew, of course, that only Kg7 leads to success. Today, the task is not to find the probably \"best\" move, but the move that was played in this particular game with Black.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2244",
-         "pubDate" : "Wed, 22 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 22"
       },
       {
          "description" : "",
