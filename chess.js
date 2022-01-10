@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "In a year that saw Magnus Carlsen defending the Classical World Championship title for a fourth consecutive time, a young player became the most dangerous potential challenger for the Norwegian. 17-year-old Alireza Firouzja climbed to the second spot in the world ranking by showcasing incredible results throughout 2021. We look at how the Iranian-born grandmaster gained 55 rating points in 12 months. | Photo: Jurriaan Hoefsmit",
+         "description" : "GM Ray Robson won the 2022 Puzzle Battle World Championship that concluded on Sunday. By doing so, the 27-year-old grandmaster from St. Louis defended his title, which he has been holding since the 2020 Championship, and clinched a prize of $4,5...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-puzzle-battle-world-championship-ray-robson",
+         "pubDate" : "Sun, 09 Jan 2022 19:33:00 -0800",
+         "title" : "Ray Robson Again Dominates Puzzle Battle World Championship"
+      },
+      {
+         "description" : "In a year that saw Magnus Carlsen defending the Classical World Championship title for a fourth consecutive time, a young player became the most dangerous potential challenger for the Norwegian. 18-year-old Alireza Firouzja climbed to the second spot in the world ranking by showcasing incredible results throughout 2021. We look at how the Iranian-born grandmaster gained 55 rating points in 12 months. | Photo: Jurriaan Hoefsmit",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/alireza-firouzja-brilliant-year-2021",
