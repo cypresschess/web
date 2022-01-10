@@ -1976,22 +1976,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/magnus-carlsen-unlikely-i-will-play-another-match-except-against-firouzja",
          "pubDate" : "Tue, 21 Dec 2021 09:04:51 +0000",
          "title" : "Magnus Carlsen: \"Unlikely I will play another match\" except against Firouzja"
-      },
-      {
-         "description" : "Hikaru Nakamura and Daniil Dubov have been given wild cards to the 24-player FIDE Grand Prix series. The three tournaments in Berlin and Belgrade from February to April 2022 will decide the final two places in the next Candidates Tournament. Nakamura, who would currently be the 10th seed, was ineligible to qualify by rating after failing to play a classical game in two years, but was given a lifeline by the FIDE President. The organisers picked Magnus Carlsen second Dubov, who was just outside the rating qualifiers.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-and-dubov-get-grand-prix-wildcards",
-         "pubDate" : "Mon, 20 Dec 2021 21:42:12 +0000",
-         "title" : "Nakamura and Dubov get Grand Prix wildcards"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1492",
-         "pubDate" : "Mon, 20 Dec 2021 21:19:35 +0000",
-         "title" : "Six rounds played at the FIDE Online Cadets & Youth Rapid Super Final"
       }
    ]
 }
