@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Tuesday, January 11, 2022, the first auction of the Chess World Champion NFTs (Wilhelm Steinitz) will end at 12:00 CET. The other auctions will follow roughly every hour. Therefore we summarize here the points that make this series unique. In one sentence: It will remain the first of its kind for all times! Also: What is the deeper meaning of NFTs? And a short but hefty guide to the technical side of the auction.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/can-you-own-byrne-fischer",
+         "pubDate" : "Mon, 10 Jan 2022 17:24:03 +0100",
+         "title" : "Can you own Byrne-Fischer?"
+      },
+      {
+         "description" : "In the Endgame Magic Show #177, Karsten M&uuml;ller and Arne K&auml;hler look at a fascinating position played at the 2021 FIDE World Cup in Sochi. Sometimes you need to calculate what will happen in the fourth phase of the game, when newly promoted queens appear on the board, and every single check is crucial! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-177-the-fourth-phase-of-the-game",
+         "pubDate" : "Mon, 10 Jan 2022 16:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic Show #177: The fourth phase of the game"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1516",
+         "pubDate" : "Mon, 10 Jan 2022 14:25:19 +0000",
+         "title" : "Decisions of 2021 FIDE General Assembly"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1515",
+         "pubDate" : "Mon, 10 Jan 2022 13:57:55 +0000",
+         "title" : "Decisions of 2021 4th FIDE Council Meeting"
+      },
+      {
+         "description" : "The European Individual Chess Championship 2022 will take place from 27th March (1st round) 6th April (11th round) 2022, in Terme Catez, Slovenia. The event will be played in 11 rounds, Swiss system, with time control: 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2022-official-regulations/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2022-official-regulations/",
+         "pubDate" : "Mon, 10 Jan 2022 13:06:20 +0000",
+         "title" : "European Individual Chess Championship 2022 - Official regulations"
+      },
+      {
+         "description" : "The Indian Grandmaster Lalith Babu won the \"Vergani Cup\" in the Italian Adriatic resort of Cattolica which finished on Sunday. With 7.0/9 Lalith shared first place with Hans Moke Niemann (USA), Vitaliy Bernadskiy (Ukraine) and Nurgyul Salimova (Bulgaria), but he had the best tiebreak and therefore won the tournament and the first prize of €2,500. | Photos: Rupali Mullick",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/indian-grandmaster-lalith-babu-wins-vergani-cup",
+         "pubDate" : "Mon, 10 Jan 2022 14:00:00 +0100",
+         "title" : "Indian Grandmaster Lalith Babu wins Vergani Cup"
+      },
+      {
          "description" : "With the Tata Steel Masters kicking off next Saturday, chess aficionados are set to enjoy another year of elite tournaments. Besides the traditional event in Wijk aan Zee, a tournament with a new format will take place in Gibraltar, while the first two legs of the FIDE Grand Prix will be played in close succession in February.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1834,28 +1882,12 @@ news_feed (
          "title" : "Christmas Endgame Challenge"
       },
       {
-         "description" : "Six players have already qualified for the Candidates Tournament 2022, and the two remaining spots will go to the two best players in the FIDE Grand Prix 2022, a series of three tournaments that will be played from February to April in Berlin and Belgrade. The FIDE recently announced that Hikaru Nakamura (pictured), who in the last two years has not played a single FIDE-rated game, will get the FIDE wild card for the Grand Prix. Daniil Dubov will a wild card from the organiser. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nakamura-and-dubov-get-wildcards-for-fide-grand-prix",
-         "pubDate" : "Wed, 22 Dec 2021 10:42:28 +0100",
-         "title" : "Nakamura and Dubov get wildcards for FIDE Grand Prix"
-      },
-      {
          "description" : "Richard Rapport defeated Sergey Karjakin 2:0 on the first day of the Gashimov Memorial, but they ended tied for first going into the final two days of blitz after Sergey stormed back to win all six of his remaining rapid matches. Fabiano Caruana and Shakhriyar Mamedyarov are just two points off the pace, while Vishy Anand has so far suffered one of his worst ever speed chess events. Six losses and an Armageddon win over Shakhriyar Mamedyarov saw him end the rapid section in last place on just three points.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/gashimov-memorial-karjakin-rapport-lead-after-rapid",
          "pubDate" : "Wed, 22 Dec 2021 09:16:18 +0000",
          "title" : "Gashimov Memorial: Karjakin & Rapport lead after Rapid"
-      },
-      {
-         "description" : "The rapid tournament at the Vugar Gashimov Memorial ended with an exciting and close finish. In the sixth and penultimate round tournament leader Richard Rapport lost against Shakhriyar Mamedyarov, which allowed Fabiano Caruana to catch up. But in the final round Caruana also lost against Mamedyarov while Rapport and Karjakin won their matches. In the end, Rapport and Karjakin shared first place with 16 points each. | Photos: Tournament page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-rapport-and-karjakin-win-rapid-section",
-         "pubDate" : "Wed, 22 Dec 2021 09:29:14 +0100",
-         "title" : "Gashimov Memorial: Rapport and Karjakin win rapid section"
       },
       {
          "description" : " FIDE President Arkady Dvorkovich making the first move in the World Chess Championship between defending champion Magnus Carlsen (left) and challenger Ian Nepomniacthchi. Photo by IM Eric Rosen The 2021 World Chess Championship took part as one of the features of the 2020 World Expo taking place in Dubai, UAE. Magnus Carlsen defended his title [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/21/chess-at-expo-2020-dubai/\">Chess at Expo 2020 Dubai</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -1872,14 +1904,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-vugar-gashimov-memorial-rapid-karjakin-rapport",
          "pubDate" : "Tue, 21 Dec 2021 10:28:00 -0800",
          "title" : "Gashimov Memorial: Karjakin, Rapport Lead Before Blitz"
-      },
-      {
-         "description" : "In his \"Weekly Show\" IM Lawrence Trent will take a look at the Sitges tournament, in which a number of the world's brightest stars take part. The game of the day will be Niemann-Puranik where the young Indian GM gets the better of, to quote Lawrence, \"the greatest American natural talent since Nakamura\". | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-sunway-sitges",
-         "pubDate" : "Tue, 21 Dec 2021 19:00:00 +0100",
-         "title" : "The Weekly Show: Sunway Sitges"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88417986.cms\" />Indian chess maestro Viswanathan Anand lost both his matches in the Rapid event to end his campaign with just one victory at the 7th Vugar Gashimov Memorial chess tournament on Tuesday.",
@@ -1952,30 +1976,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1492",
          "pubDate" : "Mon, 20 Dec 2021 21:19:35 +0000",
          "title" : "Six rounds played at the FIDE Online Cadets & Youth Rapid Super Final"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88397186.cms\" />Viswanathan Anand defeated Shakriyar Mamedyarov of Azerbaijan in the Armageddon after the two-game mini-match ended in a draw for his first victory in the Rapid event of the 7th Vugar Gashimov Memorial chess tournament on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gashimov-memorial-chess-viswanathan-anand-beats-mamedyarov-for-first-win/articleshow/88397186.cms",
-         "pubDate" : "Mon, 20 Dec 2021 21:50:51 +0530",
-         "title" : "Gashimov Memorial: Anand beats Mamedyarov for first win"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1491",
-         "pubDate" : "Mon, 20 Dec 2021 12:38:12 +0000",
-         "title" : "Hikaru Nakamura is granted wild card to FIDE Grand Prix"
-      },
-      {
-         "description" : " The latest Wes Anderson film \"The French Dispatch\" is, like most Wes Anderson films, quite entertaining, if you like Wes Anderson films. As I do, I quite enjoyed it. It is split into 3 distinct stories, and the middle story has a lot of chess running through it. Loosely based on the 1968 student protests in France, there is a scene where negotiations between students and authorities are carried out by relaying chess moves. Interestingly, the board at each end only contains pieces of a single colour, the opposing pieces having already been removed. While I am sure there was a symbolic reason for this, it actually reminded me of the chess variant <a href=\"https://en.wikipedia.org/wiki/Kriegsp",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/not-quite-kriegspiel.html",
-         "pubDate" : "Mon, 20 Dec 2021 12:32:00 +0000",
-         "title" : "Not quite Kriegspiel"
       }
    ]
 }
