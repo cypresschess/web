@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a year that saw Magnus Carlsen defending the Classical World Championship title for a fourth consecutive time, a young player became the most dangerous potential challenger for the Norwegian. 17-year-old Alireza Firouzja climbed to the second spot in the world ranking by showcasing incredible results throughout 2021. We look at how the Iranian-born grandmaster gained 55 rating points in 12 months. | Photo: Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alireza-firouzja-brilliant-year-2021",
+         "pubDate" : "Sun, 09 Jan 2022 23:50:00 +0100",
+         "title" : "A brilliant year: Alireza Firouzja's rise to the very top"
+      },
+      {
          "description" : "All India Chess Federation congratulate Mounika Akshaya for securing her final WIM norm at the Roquetas Chess Festival in Spain to become the latest Women",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1898,14 +1906,6 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (52)"
       },
       {
-         "description" : "Playing styles in chess are an important and thus often discussed topic. GM Dr. Karsten M&uuml;ller and GM Luis Engel take up a model by GM Lars Bo Hansen based on 4 player types - namely 'activists', 'pragmatics', 'theoreticians' and so-called 'reflectors'. Their respective strengths and weaknesses are explained with the help of many examples, enabling the reader to try and assign himself or herself to one or the other player type.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-the-4-player-types-standard-model-find-your-strengths-and-weaknesses-and-those-of-your-opponent",
-         "pubDate" : "Tue, 21 Dec 2021 10:14:01 +0100",
-         "title" : "New: The 4 Player Types standard model Find your strengths and weaknesses and those of your opponent"
-      },
-      {
          "description" : "World Chess Champion Magnus Carlsen confirms in a blog post for his law firm sponsors Simonsen Vogt Wiig that he's unlikely to play another match for the title unless it's against a representative of the next generation, which in effect means 18-year-old world no. 2 Alireza Firouzja. Magnus also explains how he felt Ian Nepomniachtchi would revert to type, commenting, \"under sufficient pressure we all show the same strengths and weaknesses as prior to the World Championship preparations and training regimen.\"",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1976,14 +1976,6 @@ news_feed (
          "link" : "https://www.europechess.org/alexander-motylev-wins-european-rapid-chess-championship-2021/",
          "pubDate" : "Mon, 20 Dec 2021 07:49:24 +0000",
          "title" : "Alexander Motylev wins European Rapid Chess Championship 2021"
-      },
-      {
-         "description" : "GM Hikaru Nakamura and GM Wesley So contested their third Speed Chess Championship Final match today, a much-anticipated duel after each secured thrilling semi-final victories. Nakamura defeated GM Ding Liren in armageddon in likely the most epic ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-speed-chess-championship-final-with-double-digit-dominance",
-         "pubDate" : "Sun, 19 Dec 2021 15:48:00 -0800",
-         "title" : "Nakamura Wins 2021 Speed Chess Championship Final With Double-Digit Dominance"
       }
    ]
 }
