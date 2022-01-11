@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A new Russian film, written and directed by Aleksey Sidorov, called \"The Champion of the World\" was released on December 30. The film tells the story of the bitter rivalry between Anatoly Karpov and Viktor Korchnoi, focusing on their memorable match in Baguio. Eteri Kublashvili had access to the shooting and shared a number of remarkable photos and impressions on the website of the Chess Federation of Russia.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/match-in-neon-limelight",
+         "pubDate" : "Tue, 11 Jan 2022 12:10:00 +0100",
+         "title" : "Match in neon limelight"
+      },
+      {
+         "description" : "Sometimes it would be nice to have another queen on the board, especially if things went wrong in the first part of the game. In a YouTube video on optical illusions, Matt Pritchard reveals how you can suddenly conjure up a queen on the board by using means of disguise that have a long tradition in chess but are rather unusual in modern tournament play.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-phantom-queen",
+         "pubDate" : "Tue, 11 Jan 2022 12:00:00 +0100",
+         "title" : "The Phantom Queen"
+      },
+      {
          "description" : "Pawn races often have a flavour of their own and taking pawns is not always the most important. In the diagram position it is Black to move and win. What would you do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1842,14 +1858,6 @@ news_feed (
          "title" : "Gashimov Memorial: Mamedyarov shines in blitz"
       },
       {
-         "description" : "This week, Merijn van Delft takes a looks at a game by Nico Zwirs which abounds with interesting positional and tactical ideas. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-495",
-         "pubDate" : "Wed, 22 Dec 2021 19:00:00 +0100",
-         "title" : "Game of the Week #495: A fine game by Nico Zwirs"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88438938.cms\" />Indian chess maestro Viswanathan Anand failed to win even one game in the Blitz section of the 7th Vugar Gashimov Memorial chess tournament here on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1872,14 +1880,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/12/22/ncube-discusses-youth-tourney-on-kenya-tv/",
          "pubDate" : "Wed, 22 Dec 2021 15:41:47 +0000",
          "title" : "Ncube discusses youth tourney on Kenya TV"
-      },
-      {
-         "description" : "In the last three days the number of leaders at the Sunway Sitges Open has always doubled, and by now the leading group consists of eight players with 6.5/8 each. Among them is the young Indian Arjun Erigaisi (pictured) who won a fine attacking game in round eight. But most of the top matches in round eight ended in a draw which allowed a number of players to catch up to the leaders. | Photos: Rupali Mullick",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sitges-eight-players-share-the-lead",
-         "pubDate" : "Wed, 22 Dec 2021 16:01:08 +0100",
-         "title" : "Sitges: Eight players share the lead"
       },
       {
          "description" : " Just like 2020, 2021 has seen the FIDE Congress become an online affair. The good thing about this is that more people can attend, the bad thing is that not everyone is in the 'right' time zone. For people in Oceania, the meetings start at 11pm (at the earliest) and finish after 3am (and later in some cases). If attendees are based in the America's early starts are the problem, with meetings starting at 6 or 7 am. So far I have attended the Qualification Commission (quite well run), Arbiters (lots of slides), Swiss Pairings and Programs (very technical) and Rules Commission (still recovering). For some it was about making changes to documents included in the FIDE Handbook, but for others, i",
@@ -1944,38 +1944,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/21/ep-258-gm-matthew-sadler",
          "pubDate" : "Tue, 21 Dec 2021 14:33:57 +0000",
          "title" : "EP 258- GM Matthew Sadler "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1493",
-         "pubDate" : "Tue, 21 Dec 2021 11:52:51 +0000",
-         "title" : "Tatneft becomes an official sponsor of the FIDE World Rapid & Blitz Championships 2021"
-      },
-      {
-         "description" : "&#34;It is unlikely that I will play another match unless maybe if the next challenger represents the next generation,&#34; wrote GM Magnus Carlsen on Tuesday in a blog post for one of his sponsors. The world champion once again mentioned GM Alireza Firou...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-blog-giri-firouzja",
-         "pubDate" : "Tue, 21 Dec 2021 02:32:00 -0800",
-         "title" : "Carlsen: 'Passion Must Be The Main Driver'"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-52/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (52)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-52/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (52)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-52/",
-         "pubDate" : "Tue, 21 Dec 2021 10:06:01 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (52)"
-      },
-      {
-         "description" : "World Chess Champion Magnus Carlsen confirms in a blog post for his law firm sponsors Simonsen Vogt Wiig that he's unlikely to play another match for the title unless it's against a representative of the next generation, which in effect means 18-year-old world no. 2 Alireza Firouzja. Magnus also explains how he felt Ian Nepomniachtchi would revert to type, commenting, \"under sufficient pressure we all show the same strengths and weaknesses as prior to the World Championship preparations and training regimen.\"",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-unlikely-i-will-play-another-match-except-against-firouzja",
-         "pubDate" : "Tue, 21 Dec 2021 09:04:51 +0000",
-         "title" : "Magnus Carlsen: \"Unlikely I will play another match\" except against Firouzja"
       }
    ]
 }
