@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I have been writing this blog for almost 15 years now, but there were things I did before this. There was in fact a lot of writing, in the shape of tournament bulletins, club newsletters and most notably, Australian Chess Forum. One of the last things I did before starting this blog was to organise the 2006-7 Australian Open. As part of this Stephen Mugford and myself put together the tournament website, which contained a lot of useful information. Somewhat surprisingly, the website is still online at <a href=\"https://actjcl.org.au/ausopen2006/index.html\">https://actjcl.org.au/ausopen2006/index.html</a> Apart from tournament results etc, you can download (or read online) the full set of tou",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/before-this-blog.html",
+         "pubDate" : "Tue, 11 Jan 2022 12:33:00 +0000",
+         "title" : "Before this blog"
+      },
+      {
          "description" : "A new Russian film, written and directed by Aleksey Sidorov, called \"The Champion of the World\" was released on December 30. The film tells the story of the bitter rivalry between Anatoly Karpov and Viktor Korchnoi, focusing on their memorable match in Baguio. Eteri Kublashvili had access to the shooting and shared a number of remarkable photos and impressions on the website of the Chess Federation of Russia.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
