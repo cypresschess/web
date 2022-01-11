@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Weekly Show\" Lawrence Trent takes a look at the Vergani Cup, focusing on the performance of Nurgyul Salimova who scored a GM norm. A fantastic performance by the Bulgarian youngster! The game of the day is Nigel Short's encounter with Salimova. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-the-vergani-cup",
+         "pubDate" : "Tue, 11 Jan 2022 20:58:22 +0100",
+         "title" : "The Weekly Show: The Vergani Cup"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <a href=\"https://lichess.org/tournament/qzRBGPLN\">tournament promoted</a> by youtuber <strong>Antonio Radic</strong> that had to be interrupted before Christmas after a server failure <a href=\"https://lichess.org/blog/YdtgfhEAACIAO-s_/bortnyk-wins-the-titled-arena-and-the-agadmator-arena-is-ready-to-resume\">will be restarted</a> by <strong>Lichess</strong> this Tuesday at 20.00 GMT for an hour and twenty minutes. Players below 2000 won't be allowed back in. Collected points stand. <strong>Hikaru Nakamura</strong> leads by 11 points. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/lichess-restarts-agadmator-event-on/",
+         "pubDate" : "Tue, 11 Jan 2022 18:37:12 +0100",
+         "title" : "Lichess restarts Agadmator event on Tuesday"
+      },
+      {
+         "description" : "Paul Keres (January 7, 1916 - June 5, 1975) was the clear favourite in the 1942 Estonian Championship in Tallinn. At the time he was considered a possible challenger to World Champion Alexander Alekhine and was the only world-class player in the field. Nevertheless, it is astonishing how clearly Keres dominated the tournament: he won all 15 games without conceding a single draw. | Photo: Valter Heuer (Archive)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-perfect-score-keres-wins-tallinn-1942-with-15-0-15",
+         "pubDate" : "Tue, 11 Jan 2022 18:08:35 +0100",
+         "title" : "The perfect score: Keres wins Tallinn 1942 with 15.0/15"
+      },
+      {
          "description" : "<a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1641912240796-LL9C5BH967INKCA2UJYY/Dougonly.jpg\" data-image-dimensions=\"922x740\" data-image-focal-point=\"0.5,0.5\" alt=\"Dougonly.jpg\" data-load=\"false\" data-image-id=\"61dd97b0fc84ea6510a012d6\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1641912240796-LL9C5BH967INKCA2UJYY/Dougonly.jpg?format=1000w\" /><br> </a> <a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5b",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -88,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/world-chess-fide-grand-prix-sponsor-giri-vidit-nakamura",
          "pubDate" : "Mon, 10 Jan 2022 09:32:00 -0800",
          "title" : "Nakamura Supports Giri, Vidit In Clash With Grand Prix Organizer Over Sponsorship"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <a href=\"https://lichess.org/tournament/qzRBGPLN\">tournament promoted</a> by youtuber <strong>Antonio Radic</strong> that had to be interrupted before Christmas after a server failure <a href=\"https://lichess.org/blog/YdtgfhEAACIAO-s_/bortnyk-wins-the-titled-arena-and-the-agadmator-arena-is-ready-to-resume\">will be restarted</a> by <strong>Lichess</strong> this Tuesday at 20.00 GMT for an hour and twenty minutes. Players below 2000 won't be allowed back in. Collected points stand. <strong>Hikaru Nakamura</strong>, who left Poland after being quarantined there due to a Covid-19 infection at the World Blitz Championship, leads by 11 points. </div>",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/lichess-restarts-agadmator-event-on/",
-         "pubDate" : "Mon, 10 Jan 2022 17:50:09 +0100",
-         "title" : "Lichess restarts Agadmator event on Tuesday"
       },
       {
          "description" : "",
@@ -1858,22 +1874,6 @@ news_feed (
          "title" : "The Endgame Magic Christmas Calendar - Door 23"
       },
       {
-         "description" : "The Gashimov Memorial 2021 is a rapid and blitz chess tournament taking place on December 18-23 in Baku. Eight players, including Vishy Anand, Fabiano Caruana, Sergey Karjakin and Shakriyar Mamedyarov, are participating in the six-day event. Follow the action live starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2021-live",
-         "pubDate" : "Thu, 23 Dec 2021 11:45:00 +0100",
-         "title" : "Gashimov Memorial - Live!"
-      },
-      {
-         "description" : "Legend has it that a player who once was analysing with Dr. Tarrasch (pictured), a great believer in the power of the bishops, gave his bishop for a knight and remarked: \"Winning the small exchange!\" Tarrasch, probably with good reason, felt provoked, and said: \"You obviously mean losing the small exchange!\" Exchanging minor pieces is a fine and difficult art indeed. Jan Markos knows more!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-3-the-art-of-exchanging-minor-pieces",
-         "pubDate" : "Thu, 23 Dec 2021 10:00:00 +0100",
-         "title" : "The Winning Academy (3): The Art of Exchanging Minor Pieces"
-      },
-      {
          "description" : " From the publisher: &#8220;In 1971 Robert James Fischer defeated Mark Taimanov by the sensational score of 6-0 in Vancouver, but the match games were far more competitive and tension-filled than the final score would suggest. Twenty years later Taimanov put pen to paper, reflecting on the experience. Exactly 50 years after the match, this is <a href=\"http://britishchessnews.com/2021/12/23/i-was-a-victim-of-bobby-fischer/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">I Was a Victim of Bobby Fischer</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/23/i-was-a-victim-of-bobby-fischer/\">I Was a Victim of ",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1936,14 +1936,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/12/21/chess-at-expo-2020-dubai/",
          "pubDate" : "Wed, 22 Dec 2021 02:35:27 +0000",
          "title" : "Chess at Expo 2020 Dubai"
-      },
-      {
-         "description" : "GM Sergey Karjakin and GM Richard Rapport are tied for first place after four days of rapid chess at the Vugar Gashimov Memorial in Baku, Azerbaijan. GM Viswanathan Anand is currently in last place, but there are 14 rounds of blitz to play. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-vugar-gashimov-memorial-rapid-karjakin-rapport",
-         "pubDate" : "Tue, 21 Dec 2021 10:28:00 -0800",
-         "title" : "Gashimov Memorial: Karjakin, Rapport Lead Before Blitz"
       }
    ]
 }
