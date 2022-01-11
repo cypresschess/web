@@ -10,6 +10,14 @@ news_feed (
          "title" : "This Chess Player Does Not Exist."
       },
       {
+         "description" : "Chess.com is happy to announce the release of Classroom! Classroom gives coaches and students a seamless, simple, all-in-one tool to help take their lessons to the next level. It also provides Chess.com members a streamlined way of connecting an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-releases-new-classroom-feature",
+         "pubDate" : "Mon, 10 Jan 2022 11:54:00 -0800",
+         "title" : "Chess.com Releases New Classroom Feature"
+      },
+      {
          "description" : "Four years after his epic match against Fritz in Bahrain, which ended in a hard-fought 4-4 draw, World Champion Vladimir Kramnik, who had in the meantime twice defended his title, once again took up the gauntlet to face his computer opponent. In a two-part pictorial article, Frederic Friedel describes the intense million-dollar battle that was fought between them in 2006 in Bonn, Germany. Finance Minister Peer Steinbr&uuml;ck called it a cultural battle between outstanding representatives of human and technical intelligence.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +50,7 @@ news_feed (
          "title" : "NZ Championship: Daniel Gong claims his first title"
       },
       {
-         "description" : "On Tuesday, January 11, 2022, the first auction of the Chess World Champion NFTs (Wilhelm Steinitz) will end at 12:00 CET. The other auctions will follow roughly every hour. Therefore we summarize here the points that make this series unique. In one sentence: It will remain the first of its kind for all times! Also: What is the deeper meaning of NFTs? And a short but hefty guide to the technical side of the auction.",
+         "description" : "On Tuesday, January 11, 2022, the first auction of the Chess World Champion NFTs (Wilhelm Steinitz) will end at 12:00 CET. The other auctions will follow roughly every hour. So let's summarize what makes this series unique. In one sentence: It will remain the first of its kind for all times! Also: What is the deeper meaning of NFTs? And a short but hefty guide to the technical side of the auction.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/can-you-own-byrne-fischer",
