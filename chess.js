@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pawn races often have a flavour of their own and taking pawns is not always the most important. In the diagram position it is Black to move and win. What would you do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/never-miss-a-check",
+         "pubDate" : "Tue, 11 Jan 2022 09:00:00 +0100",
+         "title" : "Never miss a check..."
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Harrison Keyser explains how he may not really exist while doing high-level chess tactics. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> #chess #tactics #analysis </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-player-does-not-exist\"><img src=\"https://saintlouischessclub.org/sites/default/fi",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1378,14 +1386,6 @@ news_feed (
          "title" : "Viktor Korchnoi challenges you"
       },
       {
-         "description" : "Harshvardhan G B of Tamil Nadu in Under-18 Open and Ethan Vaz of Goa in Under-10 Open secured silver medals for India in the FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/three-medals-for-india-in-fide-youth-online-rapid-super-final/",
-         "pubDate" : "Mon, 27 Dec 2021 17:31:37 +0000",
-         "title" : "Three medals for India in FIDE Youth Online Rapid Super Final"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88528925.cms\" />Little-known Indian Grandmaster Harsha Bharathakoti continued his good run in the Rapid section of the FIDE World Rapid and Blitz Chess Championships here, holding higher-rated Russian GM David Paravyan to a draw in the sixth round on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1880,14 +1880,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sitges-eight-players-share-the-lead",
          "pubDate" : "Wed, 22 Dec 2021 16:01:08 +0100",
          "title" : "Sitges: Eight players share the lead"
-      },
-      {
-         "description" : "In a blog post for his sponsor Simonson Vogt Wiig, Magnus Carlsen reiterated and explained his announcement that he might not play another World Championship match because he lost his passion for this form of competition over the years. But \"passion must be the main driver. I have always liked to compete, but chess was for me mainly driven by passion for the game.\" | Photo: Eric Rosen (FIDE)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-about-passion-and-playing-for-the-title",
-         "pubDate" : "Wed, 22 Dec 2021 14:00:00 +0100",
-         "title" : "Magnus Carlsen about passion and playing for the title"
       },
       {
          "description" : " Just like 2020, 2021 has seen the FIDE Congress become an online affair. The good thing about this is that more people can attend, the bad thing is that not everyone is in the 'right' time zone. For people in Oceania, the meetings start at 11pm (at the earliest) and finish after 3am (and later in some cases). If attendees are based in the America's early starts are the problem, with meetings starting at 6 or 7 am. So far I have attended the Qualification Commission (quite well run), Arbiters (lots of slides), Swiss Pairings and Programs (very technical) and Rules Commission (still recovering). For some it was about making changes to documents included in the FIDE Handbook, but for others, i",
