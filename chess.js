@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1641912240796-LL9C5BH967INKCA2UJYY/Dougonly.jpg\" data-image-dimensions=\"922x740\" data-image-focal-point=\"0.5,0.5\" alt=\"Dougonly.jpg\" data-load=\"false\" data-image-id=\"61dd97b0fc84ea6510a012d6\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1641912240796-LL9C5BH967INKCA2UJYY/Dougonly.jpg?format=1000w\" /><br> </a> <a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5b",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/11/ep-261-master-to-im-adult-improver-special-with-fm-doug-eckert-nm-evan-rosenberg-and-fm-dalton-perrine",
+         "pubDate" : "Tue, 11 Jan 2022 14:52:43 +0000",
+         "title" : "EP 261- \"Master to IM\" Adult Improver Special with FM Doug Eckert, NM Evan Rosenberg and FM Dalton Perrine "
+      },
+      {
+         "description" : "Sometimes bad performance at a tournament can spur you into action. It can make you have a close look at the holes and weaknesses in your play. This is exactly what happened with our reviewer Aanjaneya Phatak. 20-year-old Aanjaneya, who works on chess without a coach, decided to go to the MP Masters Chess 2021. He lost 47 Elo point making his rating fall from 2212 to 2165. But from that experience he realized that he needed to add new openings to his arsenal. That's how he got his hands on Markus Ragger's latest Fritztrainer for ChessBase on the Grunfeld Defence. In this article Aanjaneya narrates his experience of working with Austria's first ever 2700+ GM.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/time-to-learn-the-grunfeld-from-a-world-class-gm",
+         "pubDate" : "Tue, 11 Jan 2022 15:00:00 +0100",
+         "title" : "Time to learn the Grunfeld from a World class GM?"
+      },
+      {
          "description" : " I have been writing this blog for almost 15 years now, but there were things I did before this. There was in fact a lot of writing, in the shape of tournament bulletins, club newsletters and most notably, Australian Chess Forum. One of the last things I did before starting this blog was to organise the 2006-7 Australian Open. As part of this Stephen Mugford and myself put together the tournament website, which contained a lot of useful information. Somewhat surprisingly, the website is still online at <a href=\"https://actjcl.org.au/ausopen2006/index.html\">https://actjcl.org.au/ausopen2006/index.html</a> Apart from tournament results etc, you can download (or read online) the full set of tou",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/01/before-this-blog.html",
          "pubDate" : "Tue, 11 Jan 2022 12:33:00 +0000",
          "title" : "Before this blog"
+      },
+      {
+         "description" : " The 84th Tata Steel Chess Tournament takes place 15th (Round 1) to 30th January 2022. Tata Steel Masters: Magnus Carlsen, Fabiano Caruana, Anish Giri, Shakhriyar Mamedyarov, Richard Rapport, Jan-Krzysztof Duda, Sergey Karjakin, Santosh Gujrathi Vidit, Daniil Dubov, Andrey Esipenko, Sam Shankland, Jorden Van Foreest, Nils Grandelius and Rameshbabu Praggnanandhaa. Tata Steel Challengers: Erigaisi Arjun, Rinat Jumabayev, Surya Shekhar Ganguly, Erwin L'Ami, Thai Dai Van Nguyen, Max Warmerdam, Jonas Buhl Bjerre, Lucas Van Foreest, Daniel Dardha, Volodar Murzin, Polina Shuvalova, Marc`Andria Maurizzi, Jiner Zhu and Roven Vogel. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022",
+         "pubDate" : "Tue, 11 Jan 2022 15:53:00 +0400",
+         "title" : "84th Tata Steel Chess Tournament 2022 - Games and Results"
       },
       {
          "description" : "A new Russian film, written and directed by Aleksey Sidorov, called \"The Champion of the World\" was released on December 30. The film tells the story of the bitter rivalry between Anatoly Karpov and Viktor Korchnoi, focusing on their memorable match in Baguio. Eteri Kublashvili had access to the shooting and shared a number of remarkable photos and impressions on the website of the Chess Federation of Russia.",
@@ -1858,14 +1882,6 @@ news_feed (
          "title" : "I Was a Victim of Bobby Fischer"
       },
       {
-         "description" : "Richard Rapport, co-winner of the rapid section, is leading the overall standings table after the first seven rounds of blitz at the Gashimov Memoarial in Baku. The strongest on day 1 of the blitz was Shakhriyar Mamedyarov, though, who scored 5 out of 7 points despite losing his last game of the day against Fabiano Caruana. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-mamedyarov-shines-in-blitz",
-         "pubDate" : "Wed, 22 Dec 2021 23:15:00 +0100",
-         "title" : "Gashimov Memorial: Mamedyarov shines in blitz"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88438938.cms\" />Indian chess maestro Viswanathan Anand failed to win even one game in the Blitz section of the 7th Vugar Gashimov Memorial chess tournament here on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1928,30 +1944,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-vugar-gashimov-memorial-rapid-karjakin-rapport",
          "pubDate" : "Tue, 21 Dec 2021 10:28:00 -0800",
          "title" : "Gashimov Memorial: Karjakin, Rapport Lead Before Blitz"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88417986.cms\" />Indian chess maestro Viswanathan Anand lost both his matches in the Rapid event to end his campaign with just one victory at the 7th Vugar Gashimov Memorial chess tournament on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gashimov-memorial-chess-anand-ends-rapid-event-with-two-more-defeats/articleshow/88417986.cms",
-         "pubDate" : "Tue, 21 Dec 2021 21:55:47 +0530",
-         "title" : "Gashimov Memorial: Anand ends Rapid event with two more defeats"
-      },
-      {
-         "description" : "ChessBase is launching a unique NFT series of the world chess champions, united with their iconic games and moves that have made history in their sublime beauty. Each NFT is authorized by the player himself. A font specially designed for this series allows historical portraits and private photographs to merge with the moves. Behind the notation, the key position of a very famous game appears in 3D ray tracing technology from ChessBase. Alternating with this is an intense portrait of the world champion from his active time. You can read. You can see. You can feel. The moment of genius. And you can now bid for them on Opensea.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nft-collection-moments-of-genius",
-         "pubDate" : "Tue, 21 Dec 2021 16:59:01 +0100",
-         "title" : "NFT collection: Moments of Genius"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9bb00636-2ace-49c2-b0c1-f2f5027458ab/Sadler2.jpg\" data-image-dimensions=\"500x466\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61c1e5f31e55d51d8a21c201\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9bb00636-2ace-49c2-b0c1-f2f5027458ab/Sadler2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo Courtesy of <a href=\"https://www.newinchess.com/en_US/new-in-chess-magazines\">New in Chess Magazine </a> </figcaption> </figure> <p data-",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/21/ep-258-gm-matthew-sadler",
-         "pubDate" : "Tue, 21 Dec 2021 14:33:57 +0000",
-         "title" : "EP 258- GM Matthew Sadler "
       }
    ]
 }
