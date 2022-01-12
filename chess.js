@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen will be hunting a record 8th title in the Wijk aan Zee top group when the Tata Steel Masters starts at 14:00 CET on Saturday 15th January. 2020 winner Fabiano Caruana and local hero Anish Giri are likely to provide the toughest competition, as 16-year-old Praggnanandhaa makes his supertournament debut. Another Indian, 18-year-old Arjun Erigaisi, is perhaps the player to watch in the Challengers, while the dream team of Peter Svidler and Jan Gustafsson will be back here on chess24!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-hunts-8th-title-as-tata-steel-chess-starts-saturday",
+         "pubDate" : "Wed, 12 Jan 2022 15:24:53 +0000",
+         "title" : "Carlsen hunts 8th title as Tata Steel Chess starts Saturday"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Russian-Israeli tech investor and billionaire <strong>Yuri Milner</strong> <a href=\"https://live.euronext.com/en/product/equities/NO0010890726-MERK#CompanyPressRelease-8309500\">offers to buy $10 million worth of shares</a> in Play Magnus Group at the average prize of the last 90 trading days NOK 18,49, which is driving up the <a href=\"https://live.euronext.com/en/product/equities/NO0010890726-MERK\">share prize</a> that was near its all-time low at NOK 13,50 when trading closed on Tuesday. An <a href=\"https://live.euronext.com/en/product/equities/NO0010890726-MERK#CompanyPressRelease-8309502\">extraordinary shareholder meeting</a> is called for 19",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/yuri-milner-to-invest-10-million-in/",
+         "pubDate" : "Wed, 12 Jan 2022 15:53:53 +0100",
+         "title" : "Yuri Milner to invest $10 million in PMG"
+      },
+      {
          "description" : "The Saint Louis University (SLU) team earned its spot in the President&#39;s Cup by winning clear first at the 2022 Pan-American Intercollegiate Team Championship with a perfect score. The winners will be joined at the Final Four alongside UT Dallas a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -784,14 +800,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/4/ep-260-im-christof-sielecki-is-back",
          "pubDate" : "Tue, 04 Jan 2022 14:19:48 +0000",
          "title" : "EP 260- IM Christof Sielecki is back! "
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Tata Steel Chess Tournament</strong> will only feature the Masters and Challengers with 14 participants each on 14-30 January. All <a href=\"https://tatasteelchess.com/news/tata-steel-chess-tournament-2022-will-go-ahead-but-without-amateur-players/\">amateur events have been canceled</a>, the children tournament will take place online. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/wijk-aan-zee-without-amateur-events/",
-         "pubDate" : "Tue, 04 Jan 2022 14:25:15 +0100",
-         "title" : "Wijk aan Zee without amateur events"
       },
       {
          "description" : "In 1967 the city of Sousse (Tunisia) organised one of the most talked about Interzonal Tournaments in the history of chess. After 10 rounds Bobby Fischer led with 8&frac12;/10 but after quarrels with the organisers, the eccentric American decided to withdraw from the tournament and to wait for three more years before making his final attempt to become World Champion. The first Bicapawn International Chess Tournament that was played in Sousse at the end of 2021 went much more smoothly and was won by GM Misratdin Iskandarov from Azerbaijan.",
@@ -1952,14 +1960,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/dreev-wins-december-21-titled-tuesday",
          "pubDate" : "Wed, 22 Dec 2021 08:37:43 -0800",
          "title" : "Dreev Wins December 21 Titled Tuesday"
-      },
-      {
-         "description" : " Elizabeth Cassidy scored 9/9 in the under-11 Girls section. Photo by KBC Sports Lewis Ncube, President of African Confederation of Chess, was recently featured on Kenya's KBC Sports TV to discuss the recent Africa Schools Individual Chess Championship held in Nairobi. He discussed the impact of COVID on chess in Africa, the dynamics of online [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/22/ncube-discusses-youth-tourney-on-kenya-tv/\">Ncube discusses youth tourney on Kenya TV</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/12/22/ncube-discusses-youth-tourney-on-kenya-tv/",
-         "pubDate" : "Wed, 22 Dec 2021 15:41:47 +0000",
-         "title" : "Ncube discusses youth tourney on Kenya TV"
       }
    ]
 }
