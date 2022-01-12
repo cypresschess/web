@@ -2,20 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 chess rating. 2022.01.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-castled-king-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pNr6xaYpvco.jpg?itok=ILl5Usyo\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/attacking-castled-king-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Tue, 11 Jan 2022 23:01:13 +0000",
+         "title" : "Attacking the Castled King | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-53/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (53)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-53/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (53)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-53/",
+         "pubDate" : "Tue, 11 Jan 2022 22:17:22 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (53)"
+      },
+      {
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Game Changer: Artificial Intelligence in Industry and Chess</strong> <strong><time datetime='2022-01-21T15:30:00' itemprop=\"startDate\">Fri 21 Jan 2022, 15.30</time>-<time datetime='2022-01-21T17:00:00' itemprop=\"endDate\">17.00</time> h UTC<span class=\"timezone\">+0100</span><br> <span itemprop='location'>Internet: <a href=\"https://tatasteelchess.com/app/uploads/Invitation-The-Game-Changer.pdf\">https://tatasteelchess.com/app/uploads/Invitation-The-Game-Changer.pdf</a></span> </strong> <div itemprop=\"description\"> Organiser: <a href=\"https://www.tatasteeleurope.com\">Tata Steel</a> <a href=\"https:",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://tatasteelchess.com/app/uploads/Invitation-The-Game-Changer.pdf",
+         "pubDate" : "Tue, 11 Jan 2022 22:01:47 +0100",
+         "title" : "Game Changer: Artificial Intelligence in Industry and Chess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1519",
+         "pubDate" : "Tue, 11 Jan 2022 20:54:18 +0000",
+         "title" : "Enamul Hossain and Jannatul Ferdous win Bangladesh Championship"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <a href=\"https://lichess.org/tournament/qzRBGPLN\">tournament promoted</a> by youtuber <strong>Antonio Radic</strong> that had to be interrupted before Christmas after forty minutes when a server crashed <a href=\"https://lichess.org/blog/YdtgfhEAACIAO-s_/bortnyk-wins-the-titled-arena-and-the-agadmator-arena-is-ready-to-resume\">was restarted</a> by <strong>Lichess</strong>. <strong>Hikaru Nakamura</strong> defended his lead till the end and won ahead of <strong>Andrew Tang</strong> and <strong>David Paravanyan</strong>. <strong>Magnus Carlsen</strong> ended on 14th place. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/lichess-restarts-agadmator-event-on/",
+         "pubDate" : "Tue, 11 Jan 2022 21:17:00 +0100",
+         "title" : "Nakamura wins restarted Agadmator event"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev teaches a chess endgame class. 2022.01.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/insane-endgame-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/I_-mhU2pDwg.jpg?itok=-8WLWb5O\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/insane-endgame-gm-atanas-kolev",
+         "pubDate" : "Tue, 11 Jan 2022 20:01:05 +0000",
+         "title" : "Insane in the Endgame - GM Atanas Kolev"
+      },
+      {
          "description" : "In his \"Weekly Show\" Lawrence Trent takes a look at the Vergani Cup, focusing on the performance of Nurgyul Salimova who scored a GM norm. A fantastic performance by the Bulgarian youngster! The game of the day is Nigel Short's encounter with Salimova. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-weekly-show-the-vergani-cup",
          "pubDate" : "Tue, 11 Jan 2022 20:58:22 +0100",
          "title" : "The Weekly Show: The Vergani Cup"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <a href=\"https://lichess.org/tournament/qzRBGPLN\">tournament promoted</a> by youtuber <strong>Antonio Radic</strong> that had to be interrupted before Christmas after a server failure <a href=\"https://lichess.org/blog/YdtgfhEAACIAO-s_/bortnyk-wins-the-titled-arena-and-the-agadmator-arena-is-ready-to-resume\">will be restarted</a> by <strong>Lichess</strong> this Tuesday at 20.00 GMT for an hour and twenty minutes. Players below 2000 won't be allowed back in. Collected points stand. <strong>Hikaru Nakamura</strong> leads by 11 points. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/lichess-restarts-agadmator-event-on/",
-         "pubDate" : "Tue, 11 Jan 2022 18:37:12 +0100",
-         "title" : "Lichess restarts Agadmator event on Tuesday"
       },
       {
          "description" : "Paul Keres (January 7, 1916 - June 5, 1975) was the clear favourite in the 1942 Estonian Championship in Tallinn. At the time he was considered a possible challenger to World Champion Alexander Alekhine and was the only world-class player in the field. Nevertheless, it is astonishing how clearly Keres dominated the tournament: he won all 15 games without conceding a single draw. | Photo: Valter Heuer (Archive)",
@@ -1034,14 +1074,6 @@ news_feed (
          "title" : "European Youth Blitz Chess Champions 2021 crowned"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks at his favorite chess brilliancies of the modern era. 2021.12.30 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/modern-chess-brilliancies-grandmasters-choice-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YZDGMtHY6oA.jpg?itok=NVP8vxrW\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/modern-chess-brilliancies-grandmasters-choice-gm-denes-boros-lichessorg",
-         "pubDate" : "Thu, 30 Dec 2021 19:39:31 +0000",
-         "title" : "Modern Chess Brilliancies | Grandmaster's Choice - GM Denes Boros | lichess.org"
-      },
-      {
          "description" : " <p class=\"lead\">IM and WGM Bibisara Assaubayeva won the 2021 FIDE Women's World Blitz Championship with a round to spare, after winning second place in the Women's Rapid Championship. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51788332724_1e6186a51f_k-2.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Anna Shtourman(FIDE)</div> </div> The 17-year-old chess prodigy from Kazakhstan had an amazing tournament, scoring 14/17, winning 13 games, and 120 blitz rating points. Assaubayeva dominated the women's tournament beating numerous GMs, including Anna Muzychuk, Alexandra Kosteniuk, Humpy Koneru, and Aleksandra Goryachkina. <a href",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1136,14 +1168,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-chess-championship-r-vaishali-in-2nd-place-in-womens-section-koneru-humpy-joint-third/articleshow/88581906.cms",
          "pubDate" : "Thu, 30 Dec 2021 10:49:11 +0530",
          "title" : "World Blitz C'ship: Vaishali in 2nd place in women's section, Humpy joint 3rd"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani traces her degrees of separation by victory to world champion Magnus Carlsen, using MagnusNumber.com. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-your-magnus-number-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GVkK4NOLyiA.jpg?itok=Hts-aOcl\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/whats-your-magnus-number-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 30 Dec 2021 04:38:45 +0000",
-         "title" : "What's Your Magnus Number? | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "GM Levon Aronian, the Armenian star-player who recently moved to and now represents the United States, finished day one of the World Blitz Chess Championship with 10/12 and in clear first. Behind him are Egyptian GM Bassem Amin, the five-time Afri...",
