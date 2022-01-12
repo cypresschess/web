@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All India Chess Federation wishes GM Dronavalli Harika a very happy birthday!! PC : Lennart Ootes &#160;",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/happy-birthday-harika/",
+         "pubDate" : "Wed, 12 Jan 2022 16:05:50 +0000",
+         "title" : "Happy Birthday Harika"
+      },
+      {
          "description" : "Magnus Carlsen will be hunting a record 8th title in the Wijk aan Zee top group when the Tata Steel Masters starts at 14:00 CET on Saturday 15th January. 2020 winner Fabiano Caruana and local hero Anish Giri are likely to provide the toughest competition, as 16-year-old Praggnanandhaa makes his supertournament debut. Another Indian, 18-year-old Arjun Erigaisi, is perhaps the player to watch in the Challengers, while the dream team of Peter Svidler and Jan Gustafsson will be back here on chess24!",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -10,11 +18,11 @@ news_feed (
          "title" : "Carlsen hunts 8th title as Tata Steel Chess starts Saturday"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Russian-Israeli tech investor and billionaire <strong>Yuri Milner</strong> <a href=\"https://live.euronext.com/en/product/equities/NO0010890726-MERK#CompanyPressRelease-8309500\">offers to buy $10 million worth of shares</a> in Play Magnus Group at the average prize of the last 90 trading days NOK 18,49, which is driving up the <a href=\"https://live.euronext.com/en/product/equities/NO0010890726-MERK\">share prize</a> that was near its all-time low at NOK 13,50 when trading closed on Tuesday. An <a href=\"https://live.euronext.com/en/product/equities/NO0010890726-MERK#CompanyPressRelease-8309502\">extraordinary shareholder meeting</a> is called for 19",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Russian-Israeli tech investor and billionaire <strong>Yuri Milner</strong> <a href=\"https://live.euronext.com/en/product/equities/NO0010890726-MERK#CompanyPressRelease-8309500\">offers to buy $10 million worth of shares</a> in <strong>Play Magnus Group</strong> at the average prize of the last 90 trading days NOK 18,49, which is driving up the <a href=\"https://live.euronext.com/en/product/equities/NO0010890726-MERK\">share prize</a> that was near its all-time low at NOK 13,50 when trading closed on Tuesday. An <a href=\"https://live.euronext.com/en/product/equities/NO0010890726-MERK#CompanyPressRelease-8309502\">extraordinary shareholder meeting</a>",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/yuri-milner-to-invest-10-million-in/",
-         "pubDate" : "Wed, 12 Jan 2022 15:53:53 +0100",
+         "pubDate" : "Wed, 12 Jan 2022 15:57:04 +0100",
          "title" : "Yuri Milner to invest $10 million in PMG"
       },
       {
@@ -1208,14 +1216,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/the-world-champion-film-karpov-korchnoi-1978",
          "pubDate" : "Thu, 30 Dec 2021 02:41:00 -0800",
          "title" : "Karpov-Korchnoi 1978 Depicted In 'The World Champion'"
-      },
-      {
-         "description" : "All India Chess Federation a very happy birthday to First International Master of India Mr. Manuel Aaron, the nine times national champion and represented the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/happy-birthday-mr-manuel-aaron/",
-         "pubDate" : "Thu, 30 Dec 2021 06:42:44 +0000",
-         "title" : "Happy Birthday Mr. Manuel Aaron"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88581906.cms\" />Twenty-year old Indian player R Vaishali is in second place with 7.5 points from nine rounds in the women's section of the World Blitz chess championship while her countrywoman Koneru Humpy is in joint third.",
