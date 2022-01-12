@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev teaches a chess endgame class. The mysterious masked Atanas likes space. 2022.01.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/use-space-insane-endgame-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/I_-mhU2pDwg.jpg?itok=-8WLWb5O\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev teaches a chess class on a topic of his choice. 2022.01.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exchange-sacrifice-e6-grandmasters-choice-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1-1I66GX2wY.jpg?itok=rSxrdyTC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exchange-sacrifice-e6-grandmasters-choice-gm-atanas-kolev",
+         "pubDate" : "Wed, 12 Jan 2022 05:01:30 +0000",
+         "title" : "Exchange Sacrifice on e6! | Grandmaster's Choice - GM Atanas Kolev"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev teaches a chess endgame class. The mysterious masked Atanas likes space. 2022.01.11<br /> P Iniyan vs. Evgeny Postny, 2021: D37 Queen&#039;s Gambit Declined, classical variation (5.Bf4)<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4309726\">https://www.365chess.com/game.php?back=1&amp;gid=4309726</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/use-space-insane-endgame-gm-atanas-kolev\"><img src=\"https://saintlouischessc",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/use-space-insane-endgame-gm-atanas-kolev",
@@ -616,14 +624,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-25",
          "pubDate" : "Thu, 06 Jan 2022 09:05:00 +0100",
          "title" : "Svitlana's Smart Moves - Smartest moves of 2021"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. The mysterious masked Dorsa focuses on lines from 3.Bb5+. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-bb5-style-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AfN02fD6Yg0.jpg?itok=nhYhzC7E\" a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-sicilian-bb5-style-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 06 Jan 2022 01:51:27 +0000",
-         "title" : "Play the Sicilian: Bb5+ Style! | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : " From the publisher: &#8220;There aren't many chess players who can say they've both beaten Garry Kasparov in an official blitz game and crushed Peter Leko in a classical game in 26 moves. And who regularly win blitz tournaments high on marihuana. But then Manuel Bosboom is not an ordinary chess player. The Dutch International Master <a href=\"http://britishchessnews.com/2022/01/06/chess-buccaneer-the-life-and-games-of-manuel-bosboom/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess Buccaneer: The Life and Games of Manuel Bosboom</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/01/06/chess-buccaneer-th",
