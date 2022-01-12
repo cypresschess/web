@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the end of last year, ChessBase launched a Fritz 18 brilliancy competition, and the winners have now been drawn. We got games from 30 years ago, including photos of original documents, online blitz games and many games against the new Fritz 18 engine. The winners will receive private training with GM Kasimdzhanov, an online blitz tournament against a GM, and vouchers worth 25-50 euros.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-fritz-18-brilliancy-winners",
+         "pubDate" : "Wed, 12 Jan 2022 21:00:00 +0100",
+         "title" : "The Fritz 18 Brilliancy Winners!"
+      },
+      {
+         "description" : "In the \"Game of the Week\" show Merijn van Delft presents a nice game from the Prague Open, in which Dutch IM Arthur Pijpers demonstrates why it is important to develop his pieces swiftly. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-498-a-fine-miniature-from-the-prague-open",
+         "pubDate" : "Wed, 12 Jan 2022 19:00:00 +0100",
+         "title" : "Game of the Week #498: A fine miniature from the Prague Open"
+      },
+      {
+         "description" : "GM Alexey Sarana won Titled Tuesday on January 11 with a score of 9.5/11, a week after finishing in second place. He won on tiebreaks over second-place GM Aram Hakobyan and third-place Kacper Piorun. The top 10 was rounded out by seven players on ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sarana-wins-january-11-titled-tuesday",
+         "pubDate" : "Wed, 12 Jan 2022 09:22:42 -0800",
+         "title" : "Sarana Wins January 11 Titled Tuesday"
+      },
+      {
+         "description" : "Following last year&#39;s controversy in Wijk aan Zee, the Tata Steel Chess Tournament today announced new regulations for tiebreaks. The biggest change is that if more than two players tie for first, all of them will be playing in the tiebreak. How...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-tournament-new-tiebreak-regulations",
+         "pubDate" : "Wed, 12 Jan 2022 09:12:04 -0800",
+         "title" : "Tata Steel Chess Tournament Introduces New Tiebreak Regulations"
+      },
+      {
+         "description" : "What is the soul of chess? Andr&eacute; Philidor back in the 18th century answered: \"Pawns!\" Aaron Nimzowitsch a century ago claimed in My System: \"Overprotection of strategically important squares.\" Jan Markos' answer to this question is rather different. He is convinced that the essence of chess manifests itself best in domination. | Photo: Evan Amos (Wikipedia)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-4-handcuffs-for-your-opponent",
+         "pubDate" : "Wed, 12 Jan 2022 17:29:28 +0100",
+         "title" : "The Winning Academy 4: Handcuffs for your opponent"
+      },
+      {
          "description" : "All India Chess Federation wishes GM Dronavalli Harika a very happy birthday!! PC : Lennart Ootes &#160;",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1842,14 +1882,6 @@ news_feed (
          "title" : "Caruana wins Gashimov Memorial after thrilling chase"
       },
       {
-         "description" : "Fabiano Caruana had a great second day of blitz at the Vugar Gashimov Tournament in Baku. The American even caught up with former leader Richard Rapport in the overall standings table. Caruana then went on to beat his Hungarian colleague in Armageddon to win the event. | Photos: Official tournament site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/caruana-beats-rapport-in-armageddon-to-win-gashimov-memorial",
-         "pubDate" : "Fri, 24 Dec 2021 03:45:00 +0100",
-         "title" : "Caruana beats Rapport in Armageddon to win Gashimov Memorial"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1874,14 +1906,6 @@ news_feed (
          "title" : "400 students took part in the largest Montenegro School Championship ever"
       },
       {
-         "description" : "This week, well-known Dutch trainer Robert Ris looks at a sharp and interesting Sicilian that was played in a game of two Indian players at the Sunway Sitges Tournament. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-sharp-sicilian-battle",
-         "pubDate" : "Thu, 23 Dec 2021 19:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A sharp Sicilian battle"
-      },
-      {
          "description" : " The 7th Vugar Gashimov Memorial was a rapid mini-match tournament combined with a double round robin blitz that took place Fri 17th Dec to Fri 24th Dec 2021. Players: Richard Rapport, Fabiano Caruana, Shakhriyar Mamedyarov, Rauf Mamedov, Viswanathan Anand, David Navara, Vugar Asadli and Sergey Karjakin. Fabiano Caruana came from behind to catch Richard Rapport and then win a final Armageddon title. Rapport and Karjakin won the rapid section with 16 points out of a possible 21. Caruana won the blitz with 10/14 a point and a half clear of Mamedyarov and two points clear of Rapport, Karjakin rather surprisingly came last in the blitz.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1896,14 +1920,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/8th-sunway-sitges-festival-2021",
          "pubDate" : "Thu, 23 Dec 2021 21:23:00 +0400",
          "title" : "8th Sunway Sitges Festival 2021 - Games and Results"
-      },
-      {
-         "description" : "Lawrence is busy, but still managed to continue Trent's Tactics from the UK, with an improvised setup. Good enough to conquer a remarkable tactical masterpiece by Vishy Anand against Veselin Topalov, in the World Championship in Sofia from 2010. Lawrence and Arne also try to reach the 2350 Rating in the ChessBase training section, but will they succeed?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-8",
-         "pubDate" : "Thu, 23 Dec 2021 18:13:42 +0100",
-         "title" : "Trent's Tactics - World Championships Special (II) - Anand vs. Topalov"
       },
       {
          "description" : "The King's Gambit continues to pose puzzles. The opening evokes memories of glorious sacrificial games from the romantic era, but at the same time it is regarded as somewhat unsound - as theoretically incorrect. But even today the move 2.f4 after 1.e4 e5 leads again and again to unusual positions rich in content. As the games of King's Gambit expert Joe Gallagher demonstrate! | Photo source: British Chess News",
@@ -1944,22 +1960,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2021/12/23/i-was-a-victim-of-bobby-fischer/",
          "pubDate" : "Thu, 23 Dec 2021 00:10:11 +0000",
          "title" : "I Was a Victim of Bobby Fischer"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88438938.cms\" />Indian chess maestro Viswanathan Anand failed to win even one game in the Blitz section of the 7th Vugar Gashimov Memorial chess tournament here on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gashimov-memorial-chess-anand-endures-winless-run-on-day-1-of-blitz-event/articleshow/88438938.cms",
-         "pubDate" : "Wed, 22 Dec 2021 22:11:36 +0530",
-         "title" : "Gashimov Memorial chess: Anand endures winless run on day 1 of Blitz event"
-      },
-      {
-         "description" : "GM Aleksey Dreev won Titled Tuesday on December 21 with a score of 9.5/11, after a big victory in the final round. He edged out second-place GM Shakhriyar Mamedyarov on the tiebreak system. With nine points out of 11, GM Raunak Sadhwani won third ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dreev-wins-december-21-titled-tuesday",
-         "pubDate" : "Wed, 22 Dec 2021 08:37:43 -0800",
-         "title" : "Dreev Wins December 21 Titled Tuesday"
       }
    ]
 }
