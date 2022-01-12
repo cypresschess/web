@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Saint Louis University (SLU) team earned its spot in the President&#39;s Cup by winning clear first at the 2022 Pan-American Intercollegiate Team Championship with a perfect score. The winners will be joined at the Final Four alongside UT Dallas a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/st-louis-wins-2022-pan-american-intercollegiate-team-championship",
+         "pubDate" : "Wed, 12 Jan 2022 02:03:33 -0800",
+         "title" : "St. Louis Wins 2022 Pan-American Intercollegiate Team Championship"
+      },
+      {
+         "description" : "After her first Fritztrainer: \"Understanding Material Imbalances\", Svitlana surprises us with her second course:\"The Scotch Game\"! The Canadian WIM gives us a little sneak preview in this episode as an appetizer. If you enjoy the content she created so far, it is highly appreciated if you purchase her Fritztrainers.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-26",
+         "pubDate" : "Wed, 12 Jan 2022 11:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - The Scotch Game Fritztrainer!"
+      },
+      {
+         "description" : "ECU E-Magazine December 2021 is out! In this edition of the ECU E-Magazine you may read about: FIDE World Chess Championship 2021 European Rapid&#38;Blitz Chess Championships 2021 European Youth Rapid&#38;Blitz Chess Championships 2021 FIDE World Rapid&#38;Blitz Chess Championships 2021 European Online Rapid School Chess Championship 2021 European Individual Chess Championship 2022 Invitation The 2022 The &#8220;Year&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-december-2021/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-december-2021/",
+         "pubDate" : "Wed, 12 Jan 2022 09:32:55 +0000",
+         "title" : "ECU E-MAGAZINE DECEMBER 2021"
+      },
+      {
+         "description" : "The Scotch Game (1.e4 e5 2.Nf3 Nc6 3.d4) is a great repertoire addition for any player looking for a solid yet active opening, which relies more on understanding rather than pure memorization. The popularity of the Scotch rose exponentially after Garry Kasparov employed it in the World Championship match against Anatoly Karpov in 1990, and the opening has stayed in style ever since.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-the-scotch-game-by-svitlana-demchenko",
+         "pubDate" : "Wed, 12 Jan 2022 10:00:00 +0100",
+         "title" : "New: The Scotch Game by Svitlana Demchenko"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev teaches a chess class on a topic of his choice. 2022.01.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exchange-sacrifice-e6-grandmasters-choice-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1-1I66GX2wY.jpg?itok=rSxrdyTC\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1890,28 +1922,12 @@ news_feed (
          "title" : "Kenya tops medal standings in Africa Schools Chess Championship"
       },
       {
-         "description" : "The \"Special\" in the new ChessBase Magazine #205 is dedicated to Robert Huebner, the best German player since Emanuel Lasker: an exclusive collection of 16 games, with analyses by Michal Krasenkow, Romain Edouard, Viktor Moskalenko, and others. And there's the best of the FIDE Grand Swiss 2021: tournament winner Alireza Firouzja annotates his victory against Nijat Abasov, and Grigoriy Oparin, Yu Yangyi, Alexandr Predke, Samuel Sevian, Nikita Vitiugov, and others annotate their best games. In a video Markus Ragger reveals a brand-new update in the Gruenfeld Defence with 5.Bd2. Plus 11 opening articles (\"Surprise in the London System: 6...e5!\", \"Benko Gambit with open centre: 5.b6 e6!?\", \"News",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-205-special-on-robert-huebner-raggers-gruenfeld-update-surprise-in-the-london-system-and-much-more",
-         "pubDate" : "Thu, 23 Dec 2021 15:00:00 +0100",
-         "title" : "CBM #205: \"Special\" on Robert Huebner, Ragger's Gruenfeld update, surprise in the London System, and much more"
-      },
-      {
          "description" : " If you are looking for a chess themed Xmas present there are some good ones, and some less than good. In the category of less than good, is an 'Backyard Chess Set' offered by own of Australia's well known retailers, Kmart. Kmart is at the cheaper end of the retails spectrum, although I do often by items from this store. However the Backyard Chess Set, isn't one of them. This isn't because of the quality mind you, but for the size. Appearing to use the same designers as <a href=\"https://youtu.be/qAXzzHM8zLw\">Spinal Tap</a>, the size of the board is a massive 1 metre x 1 metre. The pieces are descried as 10cm tall, which while suitable for this particular board, isn't much larger than the siz",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/12/bad-xmas-presents.html",
          "pubDate" : "Thu, 23 Dec 2021 13:14:00 +0000",
          "title" : "Bad Xmas Presents"
-      },
-      {
-         "description" : "The youngest GM ever, played the move Nf3+. Although the game was played this year, it is already a classic. On the penultimate day, there is a fast-paced task in which a white king has to find the right square. Can you help?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2378",
-         "pubDate" : "Thu, 23 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 23"
       },
       {
          "description" : " From the publisher: &#8220;In 1971 Robert James Fischer defeated Mark Taimanov by the sensational score of 6-0 in Vancouver, but the match games were far more competitive and tension-filled than the final score would suggest. Twenty years later Taimanov put pen to paper, reflecting on the experience. Exactly 50 years after the match, this is <a href=\"http://britishchessnews.com/2021/12/23/i-was-a-victim-of-bobby-fischer/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">I Was a Victim of Bobby Fischer</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/23/i-was-a-victim-of-bobby-fischer/\">I Was a Victim of ",
@@ -1944,30 +1960,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/12/22/ncube-discusses-youth-tourney-on-kenya-tv/",
          "pubDate" : "Wed, 22 Dec 2021 15:41:47 +0000",
          "title" : "Ncube discusses youth tourney on Kenya TV"
-      },
-      {
-         "description" : " Just like 2020, 2021 has seen the FIDE Congress become an online affair. The good thing about this is that more people can attend, the bad thing is that not everyone is in the 'right' time zone. For people in Oceania, the meetings start at 11pm (at the earliest) and finish after 3am (and later in some cases). If attendees are based in the America's early starts are the problem, with meetings starting at 6 or 7 am. So far I have attended the Qualification Commission (quite well run), Arbiters (lots of slides), Swiss Pairings and Programs (very technical) and Rules Commission (still recovering). For some it was about making changes to documents included in the FIDE Handbook, but for others, i",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/late-nights-at-fide-saloon.html",
-         "pubDate" : "Wed, 22 Dec 2021 11:31:00 +0000",
-         "title" : "Late nights at the FIDE saloon"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/christmas-endgame-challenge/",
-         "pubDate" : "Wed, 22 Dec 2021 09:52:51 +0000",
-         "title" : "Christmas Endgame Challenge"
-      },
-      {
-         "description" : "Richard Rapport defeated Sergey Karjakin 2:0 on the first day of the Gashimov Memorial, but they ended tied for first going into the final two days of blitz after Sergey stormed back to win all six of his remaining rapid matches. Fabiano Caruana and Shakhriyar Mamedyarov are just two points off the pace, while Vishy Anand has so far suffered one of his worst ever speed chess events. Six losses and an Armageddon win over Shakhriyar Mamedyarov saw him end the rapid section in last place on just three points.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/gashimov-memorial-karjakin-rapport-lead-after-rapid",
-         "pubDate" : "Wed, 22 Dec 2021 09:16:18 +0000",
-         "title" : "Gashimov Memorial: Karjakin & Rapport lead after Rapid"
       }
    ]
 }
