@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The days of trying to disguise who you are online may be over, at least for chessplayers. A new research paper reveals that it is possible to identify players based on their distinctive playing style. To do this they processed at least 1000 games per player, and then tried to identify anonymous players based on a smaller (100) number of games. Expecting a fairly low hit rate, the researchers were surprised to find that it identified the unknown player 86% of the time. The results were reported in <a href=\"https://www.science.org/content/article/ai-unmasks-anonymous-chess-players-posing-privacy-risks\">this article</a>, which also raises questions about privacy. If your chess style can be red",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/the-unmasked-chessplayer.html",
+         "pubDate" : "Thu, 13 Jan 2022 11:56:00 +0000",
+         "title" : "The Unmasked Chessplayer"
+      },
+      {
+         "description" : "The ECF is scheduling a one-day Endgame Challenge Rerun on Saturday 29th January with IM Lorin D'Costa (above right) and GM Keith Arkell (above left)....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/endgame-challenge-rerun/",
+         "pubDate" : "Thu, 13 Jan 2022 10:31:07 +0000",
+         "title" : "Endgame Challenge Rerun"
+      },
+      {
+         "description" : "Chances are that like most ambitious chess players all over the world you already have Mega Database 2022, with 9.2 million high quality games, more than 100,000 with expert analysis. But do you know how to use Mega properly, how to conduct instant preparation for your next opponent? How you can use it to improve your repertoire. Let an experienced chess trainer show you how: IM Sagar Shah does it in this tutorial video. Watching it can be the most profitable 7&frac12; minutes you have spent on your chess improvement in a long time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-to-use-mega-database-3",
+         "pubDate" : "Thu, 13 Jan 2022 10:15:45 +0100",
+         "title" : "How to use: Mega Database 2022"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 2021 was great for top players, online chess and FIDE, but not for otb chess and lower rated professionals. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/51662954275-52e4243606-k.1920.jpeg\" title=\"Shooting star 2021: Alireza Firouzja photo: Anna Shtourman / FIDE\" data-title=\"Shooting star 2021: Alireza Firouzja (photo: Anna Shtourman / FIDE)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/51662954275-52e4243606-k.480.jpeg\" alt=\"Shooting star 2021: Alireza Firouzja\" srcset=\"https://www.chesstech.org/files/51662954275-52e4243606-k.480.jpeg 1x, https://www.chesstec",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -38,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-tournament-new-tiebreak-regulations",
-         "pubDate" : "Wed, 12 Jan 2022 09:12:04 -0800",
+         "pubDate" : "Wed, 12 Jan 2022 09:12:00 -0800",
          "title" : "Tata Steel Chess Tournament Introduces New Tiebreak Regulations"
       },
       {
@@ -1832,14 +1856,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/music-and-chess-mason-williams-classical-gas-in-the-queen-s-gambit",
          "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
          "title" : "Music and chess: Mason Williams' \"Classical Gas\" in \"The Queen's Gambit\""
-      },
-      {
-         "description" : "That's almost it! It's the last day of the calendar, and we want to say a huge thank you for the thousands of entries! Yesterday we had to send the king to c2 because of the virtual opposition. Finally, there is a really nice endgame treat to solve.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2484",
-         "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 24"
       },
       {
          "description" : " <p class=\"lead\">GM Vladimir Dobrov has summed up the year's chess results. Who was the main disappointment, and who was the main hope for 2021? Who deserves the Chess Oscar, and why is Andrey Esipenko an enviable groom? We tell you. <h2>Match of the Year</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E9369147-BF45-49CB-B482-3C6E23E08584.gif\" width=\"1400\" height=\"934\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> I award this nomination to <a href=\"https://worldcup.fide.com\">the World Cup match</a> between Andrey Esipenko and Magnus Carlsen, held in sunny Sochi. The suspense in the 1/8 finals was unbelievable. Our 18-year-old from Rostov w",
