@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 2021 was great for top players, online chess and FIDE, but not for otb chess and lower rated professionals. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/51662954275-52e4243606-k.1920.jpeg\" title=\"Shooting star 2021: Alireza Firouzja photo: Anna Shtourman / FIDE\" data-title=\"Shooting star 2021: Alireza Firouzja (photo: Anna Shtourman / FIDE)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/51662954275-52e4243606-k.480.jpeg\" alt=\"Shooting star 2021: Alireza Firouzja\" srcset=\"https://www.chesstech.org/files/51662954275-52e4243606-k.480.jpeg 1x, https://www.chesstec",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/winners-and-losers-of-2021/",
+         "pubDate" : "Wed, 12 Jan 2022 22:24:24 +0100",
+         "title" : "Winners and losers"
+      },
+      {
          "description" : "At the end of last year, ChessBase launched a Fritz 18 brilliancy competition, and the winners have now been drawn. We got games from 30 years ago, including photos of original documents, online blitz games and many games against the new Fritz 18 engine. The winners will receive private training with GM Kasimdzhanov, an online blitz tournament against a GM, and vouchers worth 25-50 euros.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,7 +114,7 @@ news_feed (
          "title" : "Exchange Sacrifice on e6! | Grandmaster's Choice - GM Atanas Kolev"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev teaches a chess endgame class. The mysterious masked Atanas likes space. 2022.01.11<br /> P Iniyan vs. Evgeny Postny, 2021: D37 Queen&#039;s Gambit Declined, classical variation (5.Bf4)<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4309726\">https://www.365chess.com/game.php?back=1&amp;gid=4309726</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/use-space-insane-endgame-gm-atanas-kolev\"><img src=\"https://saintlouischessc",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev looks at studies and a game that demonstrate the use of spacial advantage. The mysterious masked Atanas likes space. 2022.01.11<br /> P Iniyan vs. Evgeny Postny, 2021: D37 Queen&#039;s Gambit Declined, classical variation (5.Bf4)<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4309726\">https://www.365chess.com/game.php?back=1&amp;gid=4309726</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/use-space-insane-endgame-gm-atan",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/use-space-insane-endgame-gm-atanas-kolev",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-the-world-rapid-and-blitz-championships-2021",
          "pubDate" : "Tue, 04 Jan 2022 18:15:08 +0100",
          "title" : "The Weekly Show: The World Rapid and Blitz Championships 2021"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Schachbundesliga</strong> has <a href=\"https://www.schachbundesliga.de/artikel/321\">postponed its season</a> with the first round on 5 March instead of 15 January. The last five rounds are planned to be held centrally in Berlin on 16-19 June. The clubs have agreed on new rules to promote the participation of players who have grown up in Germany. Teams who line up more foreign players can compensate with junior and school chess programmes. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/german-league-starts-on-5-march/",
-         "pubDate" : "Tue, 04 Jan 2022 17:52:13 +0100",
-         "title" : "German league starts on 5 March"
       },
       {
          "description" : "",
@@ -1952,14 +1952,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/bad-xmas-presents.html",
          "pubDate" : "Thu, 23 Dec 2021 13:14:00 +0000",
          "title" : "Bad Xmas Presents"
-      },
-      {
-         "description" : " From the publisher: &#8220;In 1971 Robert James Fischer defeated Mark Taimanov by the sensational score of 6-0 in Vancouver, but the match games were far more competitive and tension-filled than the final score would suggest. Twenty years later Taimanov put pen to paper, reflecting on the experience. Exactly 50 years after the match, this is <a href=\"http://britishchessnews.com/2021/12/23/i-was-a-victim-of-bobby-fischer/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">I Was a Victim of Bobby Fischer</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/23/i-was-a-victim-of-bobby-fischer/\">I Was a Victim of ",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/12/23/i-was-a-victim-of-bobby-fischer/",
-         "pubDate" : "Thu, 23 Dec 2021 00:10:11 +0000",
-         "title" : "I Was a Victim of Bobby Fischer"
       }
    ]
 }
