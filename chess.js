@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After the World Championship in classical chess finished in mid-December, three tournaments attracted the attention of chess enthusiasts: the Sunway Festival in Sitges, and the Rapid and Blitz World Championships in Warsaw. A chess review by Thorsten Cmiel. | Photos: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/what-we-learned-in-2021-the-trends-for-2022",
+         "pubDate" : "Thu, 13 Jan 2022 14:00:00 +0100",
+         "title" : "What we learned in 2021, the trends for 2022"
+      },
+      {
+         "description" : " <p class=\"lead\"><a href=\"https://tatasteelchess.com/news/tata-steel-chess-tournament-2022-will-go-ahead-but-without-amateur-players/\">The 2022 Tata Steel Chess Tournament</a> is ready to kick-start on the 14th of January in Wijk aan Zee, Netherlands. It is one of the most reputable over-the-board tournaments, which attracts the world's chess elite, like the World Champion Magnus Carlsen, 2018 Challenger Fabiano Caruana, the tournament's ambassador GM Anish Giri, and the 2021 Tata Steel Winner GM Jorden van Foreest. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/JH_2478-MR.jpg\" width=\"1920\" height=\"650\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"http",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/will-the-world-champion-grab-his-8th-tata-steel-chess-victory/",
+         "pubDate" : "Thu, 13 Jan 2022 12:37:28 +0000",
+         "title" : "Will the World Champion grab his 8th Tata Steel Chess victory?"
+      },
+      {
          "description" : " The days of trying to disguise who you are online may be over, at least for chessplayers. A new research paper reveals that it is possible to identify players based on their distinctive playing style. To do this they processed at least 1000 games per player, and then tried to identify anonymous players based on a smaller (100) number of games. Expecting a fairly low hit rate, the researchers were surprised to find that it identified the unknown player 86% of the time. The results were reported in <a href=\"https://www.science.org/content/article/ai-unmasks-anonymous-chess-players-posing-privacy-risks\">this article</a>, which also raises questions about privacy. If your chess style can be red",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1850,28 +1866,12 @@ news_feed (
          "title" : "We all make mistakes"
       },
       {
-         "description" : "\"The Queen's Gambit\" is one of the most successful Netflix series and will remain one of the best representations of chess in film. The series contains many impressive and powerful scenes, e.g. the depiction of a tournament in fast-forward mode, fittingly accompanied by the famous instrumental musical piece \"Classical Gas\" by Mason Williams.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/music-and-chess-mason-williams-classical-gas-in-the-queen-s-gambit",
-         "pubDate" : "Fri, 24 Dec 2021 12:00:00 +0100",
-         "title" : "Music and chess: Mason Williams' \"Classical Gas\" in \"The Queen's Gambit\""
-      },
-      {
          "description" : " <p class=\"lead\">GM Vladimir Dobrov has summed up the year's chess results. Who was the main disappointment, and who was the main hope for 2021? Who deserves the Chess Oscar, and why is Andrey Esipenko an enviable groom? We tell you. <h2>Match of the Year</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E9369147-BF45-49CB-B482-3C6E23E08584.gif\" width=\"1400\" height=\"934\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> I award this nomination to <a href=\"https://worldcup.fide.com\">the World Cup match</a> between Andrey Esipenko and Magnus Carlsen, held in sunny Sochi. The suspense in the 1/8 finals was unbelievable. Our 18-year-old from Rostov w",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/the-shess-results-of-the-year/",
          "pubDate" : "Fri, 24 Dec 2021 09:26:17 +0000",
          "title" : "The Сhess Results of The Year"
-      },
-      {
-         "description" : " <p class=\"lead\"><a href=\"https://gashimovchess.com\">The 2021 Vugar Gashimov Memorial</a> finished in an unexpected way, with GM Fabiano Caruana \"stealing\" first place from GM Richard Rapport, and former World Champion Vishy Anand having a disappointing tournament and losing 66 rating points. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/269809240_4477167249075891_6355251531545724842_n.jpg\" width=\"1440\" height=\"960\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Gashimov Chess</div> </div> Starting the final round, <b>Rapport</b> and <b>Caruana</b> were in a tie, with their positions clearly showing that it was Rapport's time to shine. The Hungarian GM attempted",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/caruana-steals-first-place-from-rapport-at-the-2021-gashimov-mem/",
-         "pubDate" : "Fri, 24 Dec 2021 08:17:34 +0000",
-         "title" : "Caruana \"Steals\" First Place From Rapport at the 2021 Gashimov Memorial"
       },
       {
          "description" : "The 2021 European Youth Rapid&#38;Blitz Chess Championships take place from 27th to 30th December in Novi Sad, Serbia. Almost 500 players coming from 29 European federations registered for the event which will be played within 4 different Championships: 20th European Youth Individual Rapid Chess Championship&#160;(U8, U10, U12, U14, U16 and U18, open and girls sections separately) taking place&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-rapidblitz-chess-championships-2021-start/\">Read More &#187;</a></span>",
@@ -1960,14 +1960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1494",
          "pubDate" : "Thu, 23 Dec 2021 14:25:25 +0000",
          "title" : "Kenya tops medal standings in Africa Schools Chess Championship"
-      },
-      {
-         "description" : " If you are looking for a chess themed Xmas present there are some good ones, and some less than good. In the category of less than good, is an 'Backyard Chess Set' offered by own of Australia's well known retailers, Kmart. Kmart is at the cheaper end of the retails spectrum, although I do often by items from this store. However the Backyard Chess Set, isn't one of them. This isn't because of the quality mind you, but for the size. Appearing to use the same designers as <a href=\"https://youtu.be/qAXzzHM8zLw\">Spinal Tap</a>, the size of the board is a massive 1 metre x 1 metre. The pieces are descried as 10cm tall, which while suitable for this particular board, isn't much larger than the siz",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/bad-xmas-presents.html",
-         "pubDate" : "Thu, 23 Dec 2021 13:14:00 +0000",
-         "title" : "Bad Xmas Presents"
       }
    ]
 }
