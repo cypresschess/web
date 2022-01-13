@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Germany's top team is <a href=\"https://perlenvombodensee.de/2022/01/11/mit-giri-mit-esipenko-ohne-firouzja/\">getting even stronger</a>. Anish Giri joins the <strong>OSG Baden-Baden</strong> and so do <strong>Alexander Donchenko</strong> and <strong>Georg Meier</strong> who used to play for the second placed team <strong>SF Deizisau</strong>. Even though no agreement with <strong>Alireza Firouzja</strong> could be reached, winning a 16th championship title in this <strong>Bundesliga</strong> season starting in March is highly likely, as the Russian youngster <strong>Andrey Esipenko</strong> alone will not transform <strong>Turm Kiel</strong> into a t",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/giri-and-esipenko-re-join/",
+         "pubDate" : "Thu, 13 Jan 2022 14:33:50 +0100",
+         "title" : "Giri and Esipenko (re-)join Bundesliga"
+      },
+      {
+         "description" : "The 84th edition of the Tata Steel Chess Tournament opens tomorrow and takes place in Wijk aan Zee from 14 - 30 January 2022. This year, the Tata Steel Chess Tournament 2022 features Masters and Challengers events, taking place in the traditional Wijk aan Zee venue, while the annual Tata Steel Chess for children will take place Online&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/tata-steel-chess-2022-starts-in-wijk-aan-zee/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/tata-steel-chess-2022-starts-in-wijk-aan-zee/",
+         "pubDate" : "Thu, 13 Jan 2022 13:27:52 +0000",
+         "title" : "TATA STEEL CHESS 2022 Starts in Wijk aan Zee"
+      },
+      {
          "description" : "After the World Championship in classical chess finished in mid-December, three tournaments attracted the attention of chess enthusiasts: the Sunway Festival in Sitges, and the Rapid and Blitz World Championships in Warsaw. A chess review by Thorsten Cmiel. | Photos: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -704,14 +720,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-atanas-kolev",
          "pubDate" : "Fri, 07 Jan 2022 01:52:37 +0000",
          "title" : "Grandmaster's Choice - GM Atanas Kolev"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The board of <strong>US Chess</strong> has <a href=\"https://new.uschess.org/news/us-chess-executive-board-votes-move-organizations-headquarters\">unanimously voted</a> to move its headquarters from Crossville, Tennessee, to the unofficial American chess capital Saint Louis even without any inducements, citing central location, reachability and better prospects to hire office staff. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/us-chess-moves-to-st-louis/",
-         "pubDate" : "Thu, 06 Jan 2022 19:31:57 +0100",
-         "title" : "US Chess moves to St. Louis"
       },
       {
          "description" : "In the first episode of his \"Fast & Furious\" show in 2022, Dutch trainer Robert Ris presents his favourite game of 2021, that features an impressive attack in a sharp line of the Sicilian Najdorf. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1944,22 +1952,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/joe-gallagher-plays-the-kings-gambit",
          "pubDate" : "Thu, 23 Dec 2021 18:00:00 +0100",
          "title" : "Joe Gallagher plays the King's Gambit!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88459170.cms\" />Indian chess ace Viswanathan Anand managed only two wins in the tournament to finish last in the seventh Vugar Gashimov Memorial chess tournament on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-finishes-last-in-gashimov-memorial-chess/articleshow/88459170.cms",
-         "pubDate" : "Thu, 23 Dec 2021 21:27:28 +0530",
-         "title" : "Viswanathan Anand finishes last in Gashimov Memorial chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1494",
-         "pubDate" : "Thu, 23 Dec 2021 14:25:25 +0000",
-         "title" : "Kenya tops medal standings in Africa Schools Chess Championship"
       }
    ]
 }
