@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1520",
+         "pubDate" : "Thu, 13 Jan 2022 18:02:31 +0000",
+         "title" : "Tata Steel Chess 2022 starts on January 14"
+      },
+      {
+         "description" : "Last week, 15-year old Eline Roeber from the Netherlands surprisingly won the Untergrombach Open in Germany. Eline is a student of Robert Ris, and in his \"Fast & Furious\" show the experienced trainer takes a look at the crucial game of the tournament in Untergrombach: Eline's turbulent win against Russian Grandmaster Vyacheslav Ikonnikov. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-15-year-old-eline-roeber-wins-untergrombach-open",
+         "pubDate" : "Thu, 13 Jan 2022 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: 15-year old Eline Roeber wins Untergrombach Open"
+      },
+      {
+         "description" : "Chess.com is thrilled to announce the Chess.com Rapid Chess Championship, our most elite event ever. The first &#34;RCC&#34; debuts with a prize fund of $650,000. This 25-week extravaganza begins on February 12 and culminates in a dramatic finale on Augus...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-rapid-chess-championship-2022",
+         "pubDate" : "Thu, 13 Jan 2022 07:51:00 -0800",
+         "title" : "Announcing The Chess.com Rapid Chess Championship With $650,000 In Prizes"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Germany's top team is <a href=\"https://perlenvombodensee.de/2022/01/11/mit-giri-mit-esipenko-ohne-firouzja/\">getting even stronger</a>. Anish Giri joins the <strong>OSG Baden-Baden</strong> and so do <strong>Alexander Donchenko</strong> and <strong>Georg Meier</strong> who used to play for the second placed team <strong>SF Deizisau</strong>. Even though no agreement with <strong>Alireza Firouzja</strong> could be reached, winning a 16th championship title in this <strong>Bundesliga</strong> season starting in March is highly likely, as the Russian youngster <strong>Andrey Esipenko</strong> alone will not transform <strong>Turm Kiel</strong> into a t",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -346,12 +370,28 @@ news_feed (
          "title" : "Thirty years! Happy Birthday Fritz (6.1)"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1515",
+         "pubDate" : "Mon, 10 Jan 2022 17:57:55 +0000",
+         "title" : "Decisions of 2021 4th FIDE Council Meeting"
+      },
+      {
          "description" : "World Chess, the organizer and owner of the commercial rights of the FIDE Grand Prix, has contacted participants about their personal sponsorship. GMs Anish Giri and Vidit Gujrathi reacted on Twitter, suggesting World Chess is trying to get &#34;a cut...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/world-chess-fide-grand-prix-sponsor-giri-vidit-nakamura",
          "pubDate" : "Mon, 10 Jan 2022 09:32:00 -0800",
          "title" : "Nakamura Supports Giri, Vidit In Clash With Grand Prix Organizer Over Sponsorship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1516",
+         "pubDate" : "Mon, 10 Jan 2022 17:25:19 +0000",
+         "title" : "Decisions of 2021 FIDE General Assembly"
       },
       {
          "description" : "",
@@ -376,22 +416,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-177-the-fourth-phase-of-the-game",
          "pubDate" : "Mon, 10 Jan 2022 16:00:00 +0100",
          "title" : "Karsten M&uuml;ller's Endgame Magic Show #177: The fourth phase of the game"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1516",
-         "pubDate" : "Mon, 10 Jan 2022 14:25:19 +0000",
-         "title" : "Decisions of 2021 FIDE General Assembly"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1515",
-         "pubDate" : "Mon, 10 Jan 2022 13:57:55 +0000",
-         "title" : "Decisions of 2021 4th FIDE Council Meeting"
       },
       {
          "description" : "The European Individual Chess Championship 2022 will take place from 27th March (1st round) 6th April (11th round) 2022, in Terme Catez, Slovenia. The event will be played in 11 rounds, Swiss system, with time control: 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2022-official-regulations/\">Read More &#187;</a></span>",
@@ -1810,14 +1834,6 @@ news_feed (
          "title" : "Merry Christmas!"
       },
       {
-         "description" : "The eighth edition of the strong Open in Sitges was a thrilling tournament throughout, but it offered an extra dose of excitement on the final day of play. Four players finished with 8 points at the top of the standings table, and a knockout was organized to decide the winner. Dimitrij Kollars reached the final, where he lost to Uzbek prodigy Nodirbek Andusattorov. | Photos: Rupali Mullick",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sitges-abdusattorov-wins-after-thrilling-playoff",
-         "pubDate" : "Sat, 25 Dec 2021 01:05:00 +0100",
-         "title" : "Sitges: Abdusattorov clinches first place in thrilling playoff"
-      },
-      {
          "description" : "Magnus Carlsen, Hikaru Nakamura and Alireza Firouzja are in action as the chess world's favourite Christmas tradition, the World Rapid and Blitz Championship, starts Sunday, December 26th. The $1 million tournament will see Magnus attempt to retain his triple crown as World Champion in blitz, rapid and classical chess, but the competition is fierce, with only Ding Liren and Wesley So missing from the Top 10. Humpy Koneru and Kateryna Lagno are also back to defend their titles, while Jan Gustafsson and Peter Leko lead commentary here on chess24!",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1920,38 +1936,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/caruana-wins-2021-gashimov-memorial-chess",
          "pubDate" : "Thu, 23 Dec 2021 15:08:00 -0800",
          "title" : "Caruana Wins 2021 Gashimov Memorial"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1495",
-         "pubDate" : "Thu, 23 Dec 2021 18:10:50 +0000",
-         "title" : "400 students took part in the largest Montenegro School Championship ever"
-      },
-      {
-         "description" : " The 7th Vugar Gashimov Memorial was a rapid mini-match tournament combined with a double round robin blitz that took place Fri 17th Dec to Fri 24th Dec 2021. Players: Richard Rapport, Fabiano Caruana, Shakhriyar Mamedyarov, Rauf Mamedov, Viswanathan Anand, David Navara, Vugar Asadli and Sergey Karjakin. Fabiano Caruana came from behind to catch Richard Rapport and then win a final Armageddon title. Rapport and Karjakin won the rapid section with 16 points out of a possible 21. Caruana won the blitz with 10/14 a point and a half clear of Mamedyarov and two points clear of Rapport, Karjakin rather surprisingly came last in the blitz.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/7th-vugar-gashimov-memorial-2021",
-         "pubDate" : "Thu, 23 Dec 2021 21:28:00 +0400",
-         "title" : "7th Vugar Gashimov Memorial 2021 - Games and Results"
-      },
-      {
-         "description" : " The 8th Sunway Sitges Festival took place Mon 13th Dec to Thu 23rd Dec 2021. Nodirbek Abdusattorov beat Dmitrij Kollars in a tie-break match to win the event. Four players tied for first on 8/10 and they played off to settle the first four placings, the next four players finished on 7.5/10 and they also had tie-break matches to determine their exact final placings.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/8th-sunway-sitges-festival-2021",
-         "pubDate" : "Thu, 23 Dec 2021 21:23:00 +0400",
-         "title" : "8th Sunway Sitges Festival 2021 - Games and Results"
-      },
-      {
-         "description" : "The King's Gambit continues to pose puzzles. The opening evokes memories of glorious sacrificial games from the romantic era, but at the same time it is regarded as somewhat unsound - as theoretically incorrect. But even today the move 2.f4 after 1.e4 e5 leads again and again to unusual positions rich in content. As the games of King's Gambit expert Joe Gallagher demonstrate! | Photo source: British Chess News",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/joe-gallagher-plays-the-kings-gambit",
-         "pubDate" : "Thu, 23 Dec 2021 18:00:00 +0100",
-         "title" : "Joe Gallagher plays the King's Gambit!"
       }
    ]
 }
