@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"I am getting so much better at tactics!\" Arne mentions right at the beginning of the show. Little did he know, that this episode might be the low point of his chess career. The puzzles are merciless, and every move seems to miss the point. The goal was to reach 2400 in the tactic's section today, but apparently some technical difficulties, and more bad ideas lead to an actual loss of rating points! Have fun watching Lawrence and Arne getting crushed.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-10",
+         "pubDate" : "Fri, 14 Jan 2022 17:00:00 +0100",
+         "title" : "Trent's Tactics - Lawrence and Arne get crushed!"
+      },
+      {
+         "description" : "In the second part of the series, Joshua Doknjas examines opening system influenced by the neural network engines and discusses the modern battle between two well-prepared players. | Graphic: Europe Echecs",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-the-ai-revolution-impacted-chess-2-2",
+         "pubDate" : "Fri, 14 Jan 2022 15:00:00 +0100",
+         "title" : "How the AI Revolution Impacted Chess (2/2)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1521",
+         "pubDate" : "Fri, 14 Jan 2022 13:15:28 +0000",
+         "title" : "FIDE - ISF World School Online Chess Cup: Registration begins"
+      },
+      {
+         "description" : "Robert Huebner is considered Germany's most successful player since Emanuel Lasker. From 1971 to 1988 he constantly belonged to the world's top 20, achieving his all-time high in 1981 when he was number 3 on the Elo list. Huebner participated in four World Championship candidates cycles and in 1980 advanced to the final where he faced Viktor Kortschnoj. In ChessBase Magazine #205 our authors comment on their personal favourite Huebner game - resulting in an exclusive collection of 16 games from 1970 to 2017. In addition, Karsten Mueller presents a selection from Huebner's best endgames. And Mihail Marin in his strategy check comes to a surprising result for himself! Here we show you an excer",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-magazine-205-special-on-robert-huebner",
+         "pubDate" : "Fri, 14 Jan 2022 14:00:00 +0100",
+         "title" : "ChessBase Magazine #205: Special on Robert Huebner"
+      },
+      {
+         "description" : " There is very little that is new under the sub, except weird chess openings. During one of the ACTJCL Online Events being run over the Summer holidays, I came across a combined 3 Knights/Latvian opening, which I do not believe I have ever seen before. As an added bonus Black won, which lead me to think that it may not be bad after all. It turns out that it probably is, but not bad enough as to render it unplayable. A little digging showed that it had been played in other games, including a game between lower rated players, which ended in a win for Black. <br /> <b>Pfeifer,Andreas (1950) - Szitas,Gabor (2170) [C46]</b><br />Syre Memorial op 20th Issy les Moulineaux, 05.1997 <script>new PgnVi",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/i-guess-you-can-try-this.html",
+         "pubDate" : "Fri, 14 Jan 2022 12:56:00 +0000",
+         "title" : "I guess you can try this"
+      },
+      {
          "description" : "There are so many endgame terms that Karsten M&uuml;ller decided to gather them in a slowly growing \"Endgame Dictionary\", in which he explains these terms with short videos and practical examples. This time, Karsten explains what a \"Knight Check Shadow\" is. Admittedly, at first glance this is an unusual and somewhat unwieldy term, but it helps to explain and to remember an important endgame motif.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1818,30 +1858,6 @@ news_feed (
          "title" : "Preview: World Rapid and Blitz Championships"
       },
       {
-         "description" : "The Serbian name \"Darko\" comes from \"Dar\" for \"gift\". Good wishes are bestowed often upon our children, be it luck with the Biblical name \"The son of luck\" or \"Benjamin\", or in this case, the gift of being gifted. A special gift indeed was given to Darko Hlebec, an interesting composing style. Study specialist Siegfried Hornecker presents presents examples of his work and Darko's comments about it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-darko-not-donnie",
-         "pubDate" : "Sat, 25 Dec 2021 22:00:00 +0100",
-         "title" : "Study of the Month: Darko, not Donnie"
-      },
-      {
-         "description" : "A few weeks ago we announced a Brilliancy Challenge: send us brilliant games you have recently played and compete for some valuable prizes. Here's a festive example: Andreas Krentel, a physiotherapist, used to play in a chess club 15 years ago. He was looking for an opponent to test his wits against. Suddenly he found the prefect chess partner: Fritz 18! And it became like the good old days in the chess club. Andreas has sent us a couple of games to show how the program encouraged him to execute brilliancies.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-games-with-fritz-18",
-         "pubDate" : "Sat, 25 Dec 2021 14:00:00 +0100",
-         "title" : "Christmas games with Fritz 18"
-      },
-      {
-         "description" : "We are sorry, but our calendar doesn't have 25 doors, but one solution still has to be shown. Thank you! We were able to beat last year's result, thanks to your record participation. All winners will be announced on 27.12.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-endgame-magic-christmas-calendar-door-2599",
-         "pubDate" : "Sat, 25 Dec 2021 12:00:00 +0100",
-         "title" : "The Endgame Magic Christmas Calendar - Door 25"
-      },
-      {
          "description" : " <p class=\"lead\">Magnus Carlsen, Ian Nepomniachtchi, Alireza Firouzja, and Hikaru Nakamura are already in Warsaw for the traditional end of year tournament, the <a href=\"https://worldrapidandblitz.fide.com/\">2021 World Rapid and Blitz</a>. Both the Open and Women's events start on the 25th of December, with a total prize of $1 million. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2ADB8D2F-0A1E-4BF3-A85C-E971761DE986.jpeg\" width=\"706\" height=\"470\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> The World Rapid and Blitz Championships were initially scheduled to be held in Nur Sultan, Kazakhstan. Due to COVID-19 restrictions though, FIDE announce",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1864,22 +1880,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1499",
          "pubDate" : "Fri, 24 Dec 2021 17:24:25 +0000",
          "title" : "Asian Junior Championships 2021: Indians sweep out"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1500",
-         "pubDate" : "Fri, 24 Dec 2021 12:51:34 +0000",
-         "title" : "2021 FIDE General Assembly Agenda and Final List of Delegates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1498",
-         "pubDate" : "Fri, 24 Dec 2021 12:31:04 +0000",
-         "title" : "Happy Holidays!"
       }
    ]
 }
