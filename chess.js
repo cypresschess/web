@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vladimir Kramnik speaks about Magnus Carlsen and crossing 2900, what Alireza Firouzja needs to do, his memories from Wijk aan Zee, and Nodirbek Abdusattorov and the rise of the young generation in the first instalment of a candid, two-part interview. Always the good-natured gentleman, the 46-year-old was generous enough to give an exclusive interview for chess24 readers.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/kramnik-on-carlsen-s-new-target-what-firouzja-needs-to-do-and-the-top-young-talents",
+         "pubDate" : "Fri, 14 Jan 2022 01:17:51 +0000",
+         "title" : "Kramnik on Carlsen's new target, what Firouzja needs to do and the top young talents"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess.com</strong>'s answer to the <strong>Champions Chess Tour</strong> is their <a href=\"https://www.chess.com/news/view/announcing-chesscom-rapid-chess-championship-2022\">own series of online elite events</a> starting six days earlier than the competitor on 12 February. Only the top 100 rated players, top 10 juniors and top 10 women are eligible to compete for $500,000 in the qualifiers and $150,000 in the final. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/chesscom-announced-650000-rapid/",
+         "pubDate" : "Fri, 14 Jan 2022 00:38:10 +0100",
+         "title" : "Chess.com announced $650,000 rapid series"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Maia</strong>, an AI by University of Toronto researchers <strong>Ashton Anderson</strong> and <strong>Reid McIlroy-Young</strong>, was trained on hundred games each of 3000 different players. It was then fed portions of hundred anonymous games not in the training sample and <a href=\"https://proceedings.neurips.cc/paper/2021/hash/ccf8111910291ba472b385e9c5f59099-Abstract.html\">guessed correctly</a> who played these in 86% of the cases. They told <a href=\"https://www.science.org/content/article/ai-unmasks-anonymous-chess-players-posing-privacy-risks\">Science magazine</a> that the code wasn't published due to privacy concerns. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -210,7 +226,7 @@ news_feed (
          "title" : "New: The Scotch Game by Svitlana Demchenko"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev teaches a chess class on a topic of his choice. 2022.01.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exchange-sacrifice-e6-grandmasters-choice-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1-1I66GX2wY.jpg?itok=rSxrdyTC\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev teaches a chess class on a topic of his choice. 2022.01.13<br /> Evgeny Bareev vs Giorgi Giorgadze, Moscow Olympiad (1994): A40 Modern defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2038072\">https://www.chessgames.com/perl/chessgame?gid=2038072</a><br /> Mikhail Tal vs Atanas Stefanov Kolarov, EUR-chT (Men) 4th (1970): B15 Caro-Kann, Gurgenidze system<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1139941\">https://www.chessgames.com/perl/chessgame?gid=1139941</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"fiel",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/exchange-sacrifice-e6-grandmasters-choice-gm-atanas-kolev",
@@ -280,14 +296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1519",
          "pubDate" : "Tue, 11 Jan 2022 20:54:18 +0000",
          "title" : "Enamul Hossain and Jannatul Ferdous win Bangladesh Championship"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <a href=\"https://lichess.org/tournament/qzRBGPLN\">tournament promoted</a> by youtuber <strong>Antonio Radic</strong> that had to be interrupted before Christmas after forty minutes when a server crashed <a href=\"https://lichess.org/blog/YdtgfhEAACIAO-s_/bortnyk-wins-the-titled-arena-and-the-agadmator-arena-is-ready-to-resume\">was restarted</a> by <strong>Lichess</strong>. <strong>Hikaru Nakamura</strong> defended his lead till the end and won ahead of <strong>Andrew Tang</strong> and <strong>David Paravanyan</strong>. <strong>Magnus Carlsen</strong> ended on 14th place. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/lichess-restarts-agadmator-event-on/",
-         "pubDate" : "Tue, 11 Jan 2022 21:17:00 +0100",
-         "title" : "Nakamura wins restarted Agadmator event"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev teaches a chess endgame class. 2022.01.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/insane-endgame-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/I_-mhU2pDwg.jpg?itok=-8WLWb5O\" alt=\"\" /></a></div>",
@@ -1912,22 +1920,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/dec/24/carlsen-faces-test-from-rivals-for-chess-speed-titles-in-warsaw-on-boxing-day",
          "pubDate" : "Fri, 24 Dec 2021 08:00:19 +0000",
          "title" : "Carlsen faces test from rivals for chess speed titles in Warsaw on Boxing Day"
-      },
-      {
-         "description" : "Fabiano Caruana is now world no 4 on the blitz live rating list after a thrilling finish saw him beat Richard Rapport in Armageddon to win the Gashimov Memorial. Rapport began the last day with a 2-point lead over Caruana but had run out of steam by the end and couldn't quite hold on. Shakhriyar Mamedyarov finished 3rd while Sergey Karjakin was 4th, despite a shocking 5/14 score in blitz for the 2016 World Blitz Champion. Vishy Anand was unable to mount a recovery and finished in overall last place.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/caruana-wins-gashimov-memorial-after-thrilling-chase",
-         "pubDate" : "Fri, 24 Dec 2021 03:49:27 +0000",
-         "title" : "Caruana wins Gashimov Memorial after thrilling chase"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1496",
-         "pubDate" : "Fri, 24 Dec 2021 02:20:00 +0000",
-         "title" : "Cadets & Youth Super Final: Congratulating the Winners "
       }
    ]
 }
