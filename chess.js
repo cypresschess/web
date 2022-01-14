@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev talks about the motif of sacrificing a rook on e6 for a bishop or knight. Black is left with doubled isolated pawns, wondering \"What just happened to me?\" </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sac-exchange-e6-grandmasters-choice-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1-1I66GX2wY.jpg?itok=rSxrdyTC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sac-exchange-e6-grandmasters-choice-gm-atanas-kolev",
+         "pubDate" : "Fri, 14 Jan 2022 05:03:15 +0000",
+         "title" : "Sac the Exchange on e6! | Grandmaster's Choice - GM Atanas Kolev"
+      },
+      {
          "description" : "Vladimir Kramnik speaks about Magnus Carlsen and crossing 2900, what Alireza Firouzja needs to do, his memories from Wijk aan Zee, and Nodirbek Abdusattorov and the rise of the young generation in the first instalment of a candid, two-part interview. Always the good-natured gentleman, the 46-year-old was generous enough to give an exclusive interview for chess24 readers.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/megabase-2022-three-epic-matches",
          "pubDate" : "Fri, 07 Jan 2022 08:36:59 +0100",
          "title" : "MegaBase 2022: Three Epic Matches"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev teaches a chess class on a topic of his choice. The mysterious masked Atanas looks at a game from the Grand Swiss in Riga. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mH5YIGs8ePw.jpg?itok=iqWY8-1P\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-atanas-kolev",
-         "pubDate" : "Fri, 07 Jan 2022 01:52:37 +0000",
-         "title" : "Grandmaster's Choice - GM Atanas Kolev"
       },
       {
          "description" : "In the first episode of his \"Fast & Furious\" show in 2022, Dutch trainer Robert Ris presents his favourite game of 2021, that features an impressive attack in a sharp line of the Sicilian Najdorf. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
