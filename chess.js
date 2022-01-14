@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There are so many endgame terms that Karsten M&uuml;ller decided to gather them in a slowly growing \"Endgame Dictionary\", in which he explains these terms with short videos and practical examples. This time, Karsten explains what a \"Knight Check Shadow\" is. Admittedly, at first glance this is an unusual and somewhat unwieldy term, but it helps to explain and to remember an important endgame motif.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-dictionary-the-knight-check-shadow",
+         "pubDate" : "Fri, 14 Jan 2022 12:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Dictionary: The \"Knight Check Shadow\""
+      },
+      {
          "description" : " World champion makes his first move at 'chess Wimbledon' on Saturday Magnus Carlsen will launch his new campaign to achieve a 2900 Fide rating, the Everest of overall tournament performance, when the world champion makes his first move on Saturday (1pm start) in the opening round of the \"chess Wimbledon\" at Tata Steel Wijk aan Zee. Reaching the round number after being previously twice stalled at 2882 is the 31-year-old's major target for 2022. After four successful defences of his global crown, Carlsen says he will only do so again in 2023 if his opponent is the current No 2, Alireza Firouzja, 18, or another grandmaster from the new generation. <a href=\"https://www.theguardian.com/sport/20",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -274,7 +282,7 @@ news_feed (
          "title" : "Play the Sicilian: Sveshnikov! Kalashnikov! Guns! | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
-         "description" : " Share! A couple months ago, GM Nigel Short contacted The Chess Drum and mentioned that St. Vincent and the Grenadines would become a provisional FIDE member. At the 92nd General Assembly meeting, St. Vincent as well as Belize, Dominica and Niger became full FIDE members. St. Vincent &#038; Grenadines Back in 2019, Short and Ian [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/11/belize-dominica-niger-and-st-vincent-join-fide/\">Belize, Dominica, Niger, and St. Vincent join FIDE</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!16 A couple months ago, GM Nigel Short contacted The Chess Drum and mentioned that St. Vincent and the Grenadines would become a provisional FIDE member. At the 92nd General Assembly meeting, St. Vincent as well as Belize, Dominica and Niger became full FIDE members. St. Vincent &#038; Grenadines Back in 2019, Short and Ian [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/11/belize-dominica-niger-and-st-vincent-join-fide/\">Belize, Dominica, Niger, and St. Vincent join FIDE</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/01/11/belize-dominica-niger-and-st-vincent-join-fide/",
@@ -1834,14 +1842,6 @@ news_feed (
          "title" : "The Endgame Magic Christmas Calendar - Door 25"
       },
       {
-         "description" : "Part of the attraction of the Netflix series \"The Queen's Gambit\" is the design: costumes, buildings and music evoke the 1960s, the time in which the series is set. In a crucial scene of the series the Dutch band Shocking Blue provides the background music. Shocking Blue, founded in 1967, might not be as famous as other bands from the 1960s and 1970s but it still has ardent followers, and one of them is a prominent chess player and well-known coach. | Photo: Netflix",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/more-music-in-the-queen-s-gambit-the-dutch-band-shocking-blue",
-         "pubDate" : "Sat, 25 Dec 2021 10:00:00 +0100",
-         "title" : "More Music in \"The Queen's Gambit\": The Dutch band \"Shocking Blue\""
-      },
-      {
          "description" : " <p class=\"lead\">Magnus Carlsen, Ian Nepomniachtchi, Alireza Firouzja, and Hikaru Nakamura are already in Warsaw for the traditional end of year tournament, the <a href=\"https://worldrapidandblitz.fide.com/\">2021 World Rapid and Blitz</a>. Both the Open and Women's events start on the 25th of December, with a total prize of $1 million. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2ADB8D2F-0A1E-4BF3-A85C-E971761DE986.jpeg\" width=\"706\" height=\"470\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> The World Rapid and Blitz Championships were initially scheduled to be held in Nur Sultan, Kazakhstan. Due to COVID-19 restrictions though, FIDE announce",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1880,38 +1880,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1498",
          "pubDate" : "Fri, 24 Dec 2021 12:31:04 +0000",
          "title" : "Happy Holidays!"
-      },
-      {
-         "description" : " I decided to take a one time break from my series of articles because I realized that this piece would be published right around Christmas. Let's face it, it has been a difficult time for the majority of us over the last two years. The Covid-19 Pandemic has thrown our routine lives into a state <a href=\"https://chessimprover.com/stay-calm-and-carry-on-playing-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stay Calm and Carry On Playing Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stay-calm-and-carry-on-playing-chess/\">Stay Calm and Carry On Playing Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/stay-calm-and-carry-on-playing-chess/",
-         "pubDate" : "Fri, 24 Dec 2021 11:37:41 +0000",
-         "title" : "Stay Calm and Carry On Playing Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1497",
-         "pubDate" : "Fri, 24 Dec 2021 11:30:30 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2021: Preview"
-      },
-      {
-         "description" : " An older video than I realised, but still fun to watch <br /> <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/L2L5an2pnSI\" width=\"320\" youtube-src-id=\"L2L5an2pnSI\"></iframe></div><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/we-all-make-mistakes.html",
-         "pubDate" : "Fri, 24 Dec 2021 11:23:00 +0000",
-         "title" : "We all make mistakes"
-      },
-      {
-         "description" : " <p class=\"lead\">GM Vladimir Dobrov has summed up the year's chess results. Who was the main disappointment, and who was the main hope for 2021? Who deserves the Chess Oscar, and why is Andrey Esipenko an enviable groom? We tell you. <h2>Match of the Year</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E9369147-BF45-49CB-B482-3C6E23E08584.gif\" width=\"1400\" height=\"934\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> I award this nomination to <a href=\"https://worldcup.fide.com\">the World Cup match</a> between Andrey Esipenko and Magnus Carlsen, held in sunny Sochi. The suspense in the 1/8 finals was unbelievable. Our 18-year-old from Rostov w",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-shess-results-of-the-year/",
-         "pubDate" : "Fri, 24 Dec 2021 09:26:17 +0000",
-         "title" : "The Сhess Results of The Year"
       }
    ]
 }
