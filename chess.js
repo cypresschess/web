@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1522",
+         "pubDate" : "Fri, 14 Jan 2022 17:23:02 +0000",
+         "title" : "Manifesto: The Year of the Woman in Chess"
+      },
+      {
+         "description" : " Last week, we looked at a chess tactic called a skewer. A skewer is similar to a pin. Only the long distance pieces Queen, Rooks and Bishops - can execute a skewer. Skewers also take place along the ranks, files or diagonals. Like a pin, three pieces are involved in a skewer; the piece <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-eight/\">A Foundation for Beginners Forty Eight</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-eight/",
+         "pubDate" : "Fri, 14 Jan 2022 17:12:50 +0000",
+         "title" : "A Foundation for Beginners Forty Eight"
+      },
+      {
+         "description" : "Among ChessBase products the Big DataBase stands in its own right. Unlike the MegaBase it has no annotations. This paves the way for independent study and preparation, and helps the player to hone skills on his own. The present edition offers 9.2 million games from 1475 to 2021. In this vast collection there are games from world championships, famous tournaments, past and present, not to mention little-known events that deserve greater recognition. There are magnificent battles, brilliancies and unknown gems all waiting to be discovered. Our columnist here introduces a few rare lines in e4-openings.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-big-database-2022-playing-against-e4",
+         "pubDate" : "Fri, 14 Jan 2022 18:00:00 +0100",
+         "title" : "Understanding Big DataBase 2022: Playing against e4"
+      },
+      {
+         "description" : "Dear Chess.com Community, Today Chess.com is announcing something big, and yet also inconsequential: one of the world&#38;rsquo;s top &#38;ldquo;growth equity&#38;rdquo; firms, General Atlantic, has made a major investment in Chess.com. This transaction hap...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-gets-major-investment",
+         "pubDate" : "Fri, 14 Jan 2022 08:35:00 -0800",
+         "title" : "Chess.com Gets Major Investment"
+      },
+      {
+         "description" : "In his second Power Play Show of the year, Daniel King looks at sharp, beautiful games in the Sicilian Kalashnikov. And a critical position in one of these games reminds him of a famous combination played by the legendary David Bronstein! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-beautiful-games-kalashnikov",
+         "pubDate" : "Fri, 14 Jan 2022 17:30:00 +0100",
+         "title" : "Daniel King's Power Play Show: Beautiful games in the Kalashnikov"
+      },
+      {
          "description" : "\"I am getting so much better at tactics!\" Arne mentions right at the beginning of the show. Little did he know, that this episode might be the low point of his chess career. The puzzles are merciless, and every move seems to miss the point. The goal was to reach 2400 in the tactic's section today, but apparently some technical difficulties, and more bad ideas lead to an actual loss of rating points! Have fun watching Lawrence and Arne getting crushed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1834,14 +1874,6 @@ news_feed (
          "title" : "Jonathan Penrose (3)"
       },
       {
-         "description" : "In November we launched a new edition of our flagship program, Fritz. Version 18 has a special mode in which Fritz allows its opponent to actually win games, if he is able to find clever moves. Many amateurs and club players have sent in games that they won with brilliant ideas. But how about grandmasters? Fritz determines the playing strength of its opponent, and makes him find more difficult brilliancies. Iniyan Panneerselvam, a young GM, has written a report on his experience with Fritz 18.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/playing-with-fritz-18-at-gm-level",
-         "pubDate" : "Sun, 26 Dec 2021 12:00:00 +0100",
-         "title" : "Playing with Fritz 18 at GM level"
-      },
-      {
          "description" : "The FIDE Women's and Open Rapid&#38;Blitz Chess Championship 2021 start in Warsaw, Poland. More than 180 players from 46 federations registered for the 3Open event and more than 100 players coming from 30 different federations will participate in Women's events. FIDE World Rapid Chess Championships 2021 are first on the schedule, taking place from 26th-28th December. The 2021&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-rapid-blitz-chess-championships-2021-start-in-warsaw-poland/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1850,36 +1882,12 @@ news_feed (
          "title" : "FIDE World Rapid & Blitz Chess Championships 2021 start in Warsaw, Poland"
       },
       {
-         "description" : "One of the most anticipated events in the chess calendar, the FIDE World Rapid and Blitz Championship, is around the corner. The open and women's championships that have been held concurrently since 2016 will take place on December 25-31 in Warsaw, Poland, at the PGE Narodowy Stadium. | Pictured: Alireza Firouzja facing Hikaru Nakamura at the 2019 edition | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-and-blitz-2021-preview",
-         "pubDate" : "Sun, 26 Dec 2021 07:00:00 +0100",
-         "title" : "Preview: World Rapid and Blitz Championships"
-      },
-      {
          "description" : " <p class=\"lead\">Magnus Carlsen, Ian Nepomniachtchi, Alireza Firouzja, and Hikaru Nakamura are already in Warsaw for the traditional end of year tournament, the <a href=\"https://worldrapidandblitz.fide.com/\">2021 World Rapid and Blitz</a>. Both the Open and Women's events start on the 25th of December, with a total prize of $1 million. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2ADB8D2F-0A1E-4BF3-A85C-E971761DE986.jpeg\" width=\"706\" height=\"470\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> The World Rapid and Blitz Championships were initially scheduled to be held in Nur Sultan, Kazakhstan. Due to COVID-19 restrictions though, FIDE announce",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/2021-world-rapid-and-blitz-carlsen-nepo-firoujza-and-nakamura-ar/",
          "pubDate" : "Sat, 25 Dec 2021 08:00:43 +0000",
          "title" : "2021 World Rapid and Blitz: Carlsen, Nepo, Firoujza, and Nakamura Are Our Holiday Spice"
-      },
-      {
-         "description" : "Magnus Carlsen, Hikaru Nakamura and Alireza Firouzja are in action as the chess world's favourite Christmas tradition, the World Rapid and Blitz Championship, starts Sunday, December 26th. The $1 million tournament will see Magnus attempt to retain his triple crown as World Champion in blitz, rapid and classical chess, but the competition is fierce, with only Ding Liren and Wesley So missing from the Top 10. Humpy Koneru and Kateryna Lagno are also back to defend their titles, while Jan Gustafsson and Peter Leko lead commentary here on chess24!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/world-rapid-blitz-can-magnus-keep-his-triple-crown",
-         "pubDate" : "Fri, 24 Dec 2021 18:57:42 +0000",
-         "title" : "World Rapid & Blitz: Can Magnus keep his triple crown?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1499",
-         "pubDate" : "Fri, 24 Dec 2021 17:24:25 +0000",
-         "title" : "Asian Junior Championships 2021: Indians sweep out"
       }
    ]
 }
