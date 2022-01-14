@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " World champion makes his first move at 'chess Wimbledon' on Saturday Magnus Carlsen will launch his new campaign to achieve a 2900 Fide rating, the Everest of overall tournament performance, when the world champion makes his first move on Saturday (1pm start) in the opening round of the \"chess Wimbledon\" at Tata Steel Wijk aan Zee. Reaching the round number after being previously twice stalled at 2882 is the 31-year-old's major target for 2022. After four successful defences of his global crown, Carlsen says he will only do so again in 2023 if his opponent is the current No 2, Alireza Firouzja, 18, or another grandmaster from the new generation. <a href=\"https://www.theguardian.com/sport/20",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/jan/14/chess-magnus-carlsen-targets-all-time-rating-record-of-2900-at-wijk-aan-zee",
+         "pubDate" : "Fri, 14 Jan 2022 08:00:05 +0000",
+         "title" : "Chess: Magnus Carlsen targets all-time rating record of 2900 at Wijk aan Zee"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev talks about the motif of sacrificing a rook on e6 for a bishop or knight. Black is left with doubled isolated pawns, wondering \"What just happened to me?\" </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sac-exchange-e6-grandmasters-choice-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1-1I66GX2wY.jpg?itok=rSxrdyTC\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1904,22 +1912,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/the-shess-results-of-the-year/",
          "pubDate" : "Fri, 24 Dec 2021 09:26:17 +0000",
          "title" : "The Сhess Results of The Year"
-      },
-      {
-         "description" : "The 2021 European Youth Rapid&#38;Blitz Chess Championships take place from 27th to 30th December in Novi Sad, Serbia. Almost 500 players coming from 29 European federations registered for the event which will be played within 4 different Championships: 20th European Youth Individual Rapid Chess Championship&#160;(U8, U10, U12, U14, U16 and U18, open and girls sections separately) taking place&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-rapidblitz-chess-championships-2021-start/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-championships-2021-start/",
-         "pubDate" : "Fri, 24 Dec 2021 08:15:03 +0000",
-         "title" : "European Youth Rapid&Blitz Chess Championships 2021 start"
-      },
-      {
-         "description" : " The five-times US champion and fast-chess specialist, Hikaru Nakamura, plus the world No 2 and teen star, Alireza Firouzja, lead the challenge for the Norwegian's rapid and blitz crowns Fresh from his crushing victory over Ian Nepomniachtchi in Dubai, Magnus Carlsen opens his defence of his world rapid and blitz titles in Warsaw starting at 2pm GMT on Boxing Day. The 31-year-old Norwegian faces a serious double threat to his ambition to hold three crowns - classical, rapid and blitz - simultaneously, and will need all his legendary skills. Games and commentaries will be viewable live and free online. The tournament is being staged at the PGE Narodowy Stadium, the home of Poland's national f",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/dec/24/carlsen-faces-test-from-rivals-for-chess-speed-titles-in-warsaw-on-boxing-day",
-         "pubDate" : "Fri, 24 Dec 2021 08:00:19 +0000",
-         "title" : "Carlsen faces test from rivals for chess speed titles in Warsaw on Boxing Day"
       }
    ]
 }
