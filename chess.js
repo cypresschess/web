@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Maia</strong>, an AI by University of Toronto researchers <strong>Ashton Anderson</strong> and <strong>Reid McIlroy-Young</strong>, was trained on hundred games each of 3000 different players. It was then fed portions of hundred anonymous games not in the training sample and <a href=\"https://proceedings.neurips.cc/paper/2021/hash/ccf8111910291ba472b385e9c5f59099-Abstract.html\">guessed correctly</a> who played these in 86% of the cases. They told <a href=\"https://www.science.org/content/article/ai-unmasks-anonymous-chess-players-posing-privacy-risks\">Science magazine</a> that the code wasn't published due to privacy concerns. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/maia-can-guess-the-player-from/",
+         "pubDate" : "Fri, 14 Jan 2022 00:23:16 +0100",
+         "title" : "Maia can guess the player from anonymous games"
+      },
+      {
+         "description" : "The first super-tournament of the year is about to kick off, and the organizers have just announced that they will be using a new tiebreak system. After last year's edition finished with an unpleasant controversy, the organizers of the Tata Steel Masters have decided to avoid chaotic time scrambles to break a potential tie for first place. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-tiebreak-format",
+         "pubDate" : "Thu, 13 Jan 2022 21:35:00 +0100",
+         "title" : "A brand new tiebreak format in Wijk aan Zee"
+      },
+      {
+         "description" : "The auction of the World Champion NFTs, in which ChessBase acted as a kind of digital art gallery, has been completed. The 14 works raised 7.2 Ether, which is currently around €21,000. Thank you and congratulations to all successful bidders! The creative process behind the development of the NFTs was inspiring, the technical background fascinating, the discussion with critical readers refreshing. Now the series has been released into the world, and it will be exciting to see what happens with it in the years to come. Finally, the raffle of the Viktor Korchnoi NFT, which was not included in the auction, has found a winner.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/blockchain-looted-art-clvil-rights-kortchnoi",
+         "pubDate" : "Thu, 13 Jan 2022 21:30:00 +0100",
+         "title" : "Blockchain, Looted Art, Civil Rights, Kortchnoi"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -648,14 +672,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-chesscom-awards-winners",
          "pubDate" : "Fri, 07 Jan 2022 10:38:00 -0800",
          "title" : "2021 Chess.com Awards Winners"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A free, open-source tactic training in connection with <strong>Lichess</strong> and based on repetition drills has launched on <a href=\"https://www.chesspecker.com/\"><strong>Chesspecker.com</strong></a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/chesspecker-tactic-training-launched/",
-         "pubDate" : "Fri, 07 Jan 2022 19:12:51 +0100",
-         "title" : "Chesspecker tactic training launched"
       },
       {
          "description" : " Here's a question for you. Black played Bxb4 in this position. Is this a mistake or a clever move winning a pawn? While you think about your answer I wrote last time about taking a different approach to tactics training. I have a database of 9 million plus games. I know there will be several <a href=\"https://chessimprover.com/100-years-ago-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"100 Years Ago (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/100-years-ago-1/\">100 Years Ago (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1818,22 +1834,6 @@ news_feed (
          "title" : "2021 World Rapid and Blitz: Carlsen, Nepo, Firoujza, and Nakamura Are Our Holiday Spice"
       },
       {
-         "description" : "In the diagram position it is Black to play but it is White who seems to be calling the shots. However, Black's position contains hidden possibilities and with three powerful moves Black can exploit the somewhat precarious position of White's queen on g4. What would you do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-christmas-nut-to-crack",
-         "pubDate" : "Sat, 25 Dec 2021 09:00:00 +0100",
-         "title" : "A Christmas nut to crack"
-      },
-      {
-         "description" : "ChessBase wishes all chess friends and readers a Merry Christmas and happy holidays! | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/merry-christmas-2",
-         "pubDate" : "Sat, 25 Dec 2021 08:00:00 +0100",
-         "title" : "Merry Christmas!"
-      },
-      {
          "description" : "Magnus Carlsen, Hikaru Nakamura and Alireza Firouzja are in action as the chess world's favourite Christmas tradition, the World Rapid and Blitz Championship, starts Sunday, December 26th. The $1 million tournament will see Magnus attempt to retain his triple crown as World Champion in blitz, rapid and classical chess, but the competition is fierce, with only Ding Liren and Wesley So missing from the Top 10. Humpy Koneru and Kateryna Lagno are also back to defend their titles, while Jan Gustafsson and Peter Leko lead commentary here on chess24!",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1928,14 +1928,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1496",
          "pubDate" : "Fri, 24 Dec 2021 02:20:00 +0000",
          "title" : "Cadets & Youth Super Final: Congratulating the Winners "
-      },
-      {
-         "description" : "GM Fabiano Caruana won the 2021 Vugar Gashimov Memorial on Thursday after beating GM Richard Rapport in the armageddon playoff game. Both players had finished on 24 points after the blitz segment was over. How to watch?You can play throug...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/caruana-wins-2021-gashimov-memorial-chess",
-         "pubDate" : "Thu, 23 Dec 2021 15:08:00 -0800",
-         "title" : "Caruana Wins 2021 Gashimov Memorial"
       }
    ]
 }
