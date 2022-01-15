@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">It was early in 2021, when the Russian GM Andrey Esipenko shook the world by beating Magnus Carlsen at the 2021 Tata Steel Tournament, and becoming the first teenager to beat the World Champion in classical chess. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1200\" data-ratio=\"1.498127340824\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-01-15_14-21-36.jpg\" width=\"1200\" height=\"801\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_Z3379-MR.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_Z3023-MR.jpg\" width=\"1920\" height=\"1095\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_1488",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/will-esipenko-take-down-the-world-champion-again-in-the-tata-ste/",
+         "pubDate" : "Sat, 15 Jan 2022 11:57:06 +0000",
+         "title" : "Will Esipenko take down the World Champion again in the Tata Steel Chess Tournament 2022?"
+      },
+      {
+         "description" : "This week I invite readers to consider the plot of Henrik Ibsen's play, An Enemy of the People, which I once saw with Sir Ian McKellen in the leading role as Dr Thomas Stockmann. The theme of the play, the exposure of government corruption leading to dire consequences for the whistleblower, accompanied by furious official attempts at a cover-up, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/enemies-of-the-people-on-stage-and-the-chessboard/",
+         "pubDate" : "Sat, 15 Jan 2022 09:38:42 +0000",
+         "title" : "Enemies of the people, on stage and the chessboard"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>General Atlantic</strong>, a US equity form with early investments in <strong>Slack</strong>, <strong>Airbnb</strong> and <strong>TikTok</strong>, <a href=\"https://www-chess-com.cdn.ampproject.org/c/s/www.chess.com/amp/news/chesscom-gets-major-investment\">is financing further growth</a> in <strong>Chess.com</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/general-atlantic-invests-in/",
+         "pubDate" : "Sat, 15 Jan 2022 09:09:50 +0100",
+         "title" : "General Atlantic invests in Chess.com"
+      },
+      {
          "description" : "The first round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Saturday, January 15. This will be the first classical chess tournament for GM Magnus Carlsen since he retained his world championship title in November. Don&#39;...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -320,14 +344,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-hunts-8th-title-as-tata-steel-chess-starts-saturday",
          "pubDate" : "Wed, 12 Jan 2022 15:24:53 +0000",
          "title" : "Carlsen hunts 8th title as Tata Steel Chess starts Saturday"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Russian-Israeli tech investor and billionaire <strong>Yuri Milner</strong> <a href=\"https://live.euronext.com/en/product/equities/NO0010890726-MERK#CompanyPressRelease-8309500\">offers to buy $10 million worth of shares</a> in <strong>Play Magnus Group</strong> at the average prize of the last 90 trading days NOK 18,49, which is driving up the <a href=\"https://live.euronext.com/en/product/equities/NO0010890726-MERK\">share prize</a> that was near its all-time low at NOK 13,50 when trading closed on Tuesday. An <a href=\"https://live.euronext.com/en/product/equities/NO0010890726-MERK#CompanyPressRelease-8309502\">extraordinary shareholder meeting</a>",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/yuri-milner-to-invest-10-million-in/",
-         "pubDate" : "Wed, 12 Jan 2022 15:57:04 +0100",
-         "title" : "Yuri Milner to invest $10 million in PMG"
       },
       {
          "description" : "The Saint Louis University (SLU) team earned its spot in the President&#39;s Cup by winning clear first at the 2022 Pan-American Intercollegiate Team Championship with a perfect score. The winners will be joined at the Final Four alongside UT Dallas a...",
