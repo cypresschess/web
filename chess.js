@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen missed a chance to play for a win with Black before agreeing a 21-move draw with Andrey Esipenko, while Fabiano Caruana and Shakhriyar Mamedyarov spoilt completely winning positions against Sergey Karjakin and Daniil Dubov. That left a chance for three players to snatch the early lead. Jan-Krzysztof Duda entered the live Top 10 with a win over Richard Rapport, defending champion Jorden van Foreest beat Nils Grandelius, and Vidit won the day's longest game as he ground down Sam Shankland.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-chess-1-duda-vidit-jorden-win-as-top-seeds-misfire",
+         "pubDate" : "Sat, 15 Jan 2022 20:17:27 +0000",
+         "title" : "Tata Steel Chess 1: Duda, Vidit, Jorden win, as top seeds misfire"
+      },
+      {
+         "description" : " <p class=\"lead\">Day 1 of the <a href=\"https://tatasteelchess.com\">Tata Steel Chess Tournament 2022</a> is over with GM Jorden van Foreest, GM Jan-Krzysztof Duda and GM Vidit Santosh Gujrathi finished leading the event. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1920\" data-ratio=\"1.8216318785579\"> <img src=\"https://worldchess.com/news/pictures/low08500-lennart-ootes-min_optimized.jpeg\" width=\"1920\" height=\"1054\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/low08481-lennart-ootes-min_optimized.jpeg\" width=\"1920\" height=\"1245\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/low08363-lennart-ootes-min_optimized-1.jpeg\" width=\"1920\" height=\"1294\" alt=\"\" ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/tata-steel-2022-round-1-five-draws-and-a-win-for-duda-and-jorden/",
+         "pubDate" : "Sat, 15 Jan 2022 19:22:33 +0000",
+         "title" : "Tata Steel 2022, Round 1: Four Draws And a Win For Duda, Vidit and Jorden van Foreest"
+      },
+      {
          "description" : "For the first time since winning in Dubai, Magnus Carlsen speaks publicly about his shocking announcement that his fifth World Championship match may have been his last. But Vladimir Kramnik still thinks Carlsen will play against any opponent.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "Carlsen: \"I wouldn't say chances have increased\""
       },
       {
-         "description" : " Share! Despite her own ambivalence toward chess as a youth,Officer Cookie has shared its joys.Photo by Genna Martin After decades of service, Denise &#8220;Cookie&#8221; Bouldin is having &#8220;Detective Cookie Chess Park&#8221; built in her honor. Detective Cookie been featured on The Chess Drum over the years with her Urban Youth Chess Club in Seattle, Washington. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/15/seattle-builds-detective-cookie-chess-park/\">Seattle builds Detective Cookie Chess Park!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!23 Despite her own ambivalence toward chess as a youth,Officer Cookie has shared its joys.Photo by Genna Martin After decades of service, Denise &#8220;Cookie&#8221; Bouldin is having &#8220;Detective Cookie Chess Park&#8221; built in her honor. Detective Cookie been featured on The Chess Drum over the years with her Urban Youth Chess Club in Seattle, Washington. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/15/seattle-builds-detective-cookie-chess-park/\">Seattle builds Detective Cookie Chess Park!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/01/15/seattle-builds-detective-cookie-chess-park/",
@@ -58,12 +74,12 @@ news_feed (
          "title" : "General Atlantic invests in Chess.com"
       },
       {
-         "description" : "The first round of the 2022 Tata Steel Chess Tournament is underway. It&#39;s the first classical chess tournament for GM Magnus Carlsen since he retained his world championship title in November. Don&#39;t miss the action as he attempts to break the 2900...",
+         "description" : "The first round of the 2022 Tata Steel Chess Tournament saw three leaders, including the 2021 winner GM Jorden van Foreest. World Champion GM Magnus Carlsen started with a quick draw vs. GM Andrey Esipenko. The Challengers group saw four decisive ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-1",
          "pubDate" : "Sat, 15 Jan 2022 00:00:00 -0800",
-         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 1"
+         "title" : "Tata Steel Chess R1: Duda, Van Foreest, Vidit Start With Win"
       },
       {
          "description" : "The Pan-American Intercollegiate Team Championship is a university championship in which, as the name suggests, teams from both the Americas and the Caribbean are allowed to participate - but in fact most of the participating teams come from the United States. This year's tournament was won by the Saint Louis University, which was the only team to emerge victorious from all six matches they played. | Photo: Bill Simmons",
