@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser desperately attempts to eat his opponent&#039;s rocks in this tactical Danish Gambit. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> Played on lichess.org<br /> #chess #gambits #arcg3 2022.01.03<br /> Fritz_Adler vs. Harrison Keyser, 2021: C21 Danish gambit, Schlechter defence<br /> <a href=\"https://lichess.org/iDvGyIYx\">https://lichess.org/iDvGyIYx</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mmmm-i-love-tasty-rocks-breakfast",
+         "pubDate" : "Sat, 15 Jan 2022 02:04:03 +0000",
+         "title" : "Mmmm, I Love Tasty Rocks for Breakfast"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/superior-piece-activity-new-year-grandmasters-choice-gm-atanas-kolev",
          "pubDate" : "Sat, 08 Jan 2022 04:57:50 +0000",
          "title" : "Superior Piece Activity for the New Year | Grandmaster's Choice - GM Atanas Kolev"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Harrison Keyser discusses how to travel through space and time. Conserve every tempo in your reserve! Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> Analyzed on lichess.org<br /> #chess #endgame #traps </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-travel-through-space-and-time\"><img src=\"http",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-travel-through-space-and-time",
-         "pubDate" : "Sat, 08 Jan 2022 01:57:43 +0000",
-         "title" : "How To Travel Through Space and Time"
       },
       {
          "description" : "",
