@@ -34,14 +34,6 @@ news_feed (
          "title" : "Chess.com Gets Major Investment"
       },
       {
-         "description" : "In his second Power Play Show of the year, Daniel King looks at sharp, beautiful games in the Sicilian Kalashnikov. And a critical position in one of these games reminds him of a famous combination played by the legendary David Bronstein! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-beautiful-games-kalashnikov",
-         "pubDate" : "Fri, 14 Jan 2022 17:30:00 +0100",
-         "title" : "Daniel King's Power Play Show: Beautiful games in the Kalashnikov"
-      },
-      {
          "description" : "\"I am getting so much better at tactics!\" Arne mentions right at the beginning of the show. Little did he know, that this episode might be the low point of his chess career. The puzzles are merciless, and every move seems to miss the point. The goal was to reach 2400 in the tactic's section today, but apparently some technical difficulties, and more bad ideas lead to an actual loss of rating points! Have fun watching Lawrence and Arne getting crushed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/how-the-ai-revolution-impacted-chess-2-2",
          "pubDate" : "Fri, 14 Jan 2022 15:00:00 +0100",
          "title" : "How the AI Revolution Impacted Chess (2/2)"
+      },
+      {
+         "description" : "In his second Power Play Show of the year, Daniel King looks at sharp, beautiful games in the Sicilian Kalashnikov. And a critical position in one of these games reminds him of a famous combination played by the legendary David Bronstein! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-beautiful-games-kalashnikov",
+         "pubDate" : "Fri, 14 Jan 2022 14:30:00 +0100",
+         "title" : "Daniel King's Power Play Show: Beautiful games in the Kalashnikov"
       },
       {
          "description" : "",
@@ -1848,14 +1848,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/let-s-make-5-c5-the-main-line-against-5-bd2",
          "pubDate" : "Sun, 26 Dec 2021 20:00:00 +0100",
          "title" : "\"Let's make 5&hellip;c5 the main line against 5.Bd2!\""
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 59th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the battle between static and dynamic factors. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-59-dynamic-versus-static",
-         "pubDate" : "Sun, 26 Dec 2021 15:00:00 +0100",
-         "title" : "Understanding before Moving 59: Dynamic versus Static"
       },
       {
          "description" : "The last major event of 2021, the FIDE World Rapid and Blitz begins shortly. Originally planned for Kazakhstan, a covid outbreak in the country meant that it was relocated to Poland at short notice. <div>The Rapid portion starts this evening, with Magnus Carlsen the top seed in the 181 player field. The bottom half of the field starts at 2538 (Rapid), and while there were concern about a lag between Rapid ratings and standard ratings, there doesn't seem to be a huge difference, except for IM Aditya Mittal, who has a rapid rating of 1488</div><div><br /></div><div>There are plenty of places to follow this event (including plenty of youtube and twitch streams), but for now I am planning to wat",
