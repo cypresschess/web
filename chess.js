@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " <p class=\"lead\">It was early in 2021, when the Russian GM Andrey Esipenko shook the world by beating Magnus Carlsen at the 2021 Tata Steel Tournament, and becoming the first teenager to beat the World Champion in classical chess. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1200\" data-ratio=\"1.498127340824\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-01-15_14-21-36.jpg\" width=\"1200\" height=\"801\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_Z3379-MR.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_Z3023-MR.jpg\" width=\"1920\" height=\"1095\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_1488",
+         "description" : "For the first time since winning in Dubai, Magnus Carlsen speaks publicly about his shocking announcement that his fifth World Championship match may have been his last. But Vladimir Kramnik still thinks Carlsen will play against any opponent.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-i-wouldn-t-say-chances-have-increased",
+         "pubDate" : "Sat, 15 Jan 2022 15:30:55 +0000",
+         "title" : "Carlsen: \"I wouldn't say chances have increased\""
+      },
+      {
+         "description" : " Share! Despite her own ambivalence toward chess as a youth,Officer Cookie has shared its joys.Photo by Genna Martin After decades of service, Denise &#8220;Cookie&#8221; Bouldin is having &#8220;Detective Cookie Chess Park&#8221; built in her honor. Detective Cookie been featured on The Chess Drum over the years with her Urban Youth Chess Club in Seattle, Washington. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/15/seattle-builds-detective-cookie-chess-park/\">Seattle builds Detective Cookie Chess Park!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/01/15/seattle-builds-detective-cookie-chess-park/",
+         "pubDate" : "Sat, 15 Jan 2022 13:16:47 +0000",
+         "title" : "Seattle builds Detective Cookie Chess Park!"
+      },
+      {
+         "description" : " Magnus Carlsen. This is my pretty safe prediction for the winner of the 2022 Tata Steel Masters, which begins today/midnight Canberra time. As with most editions of the tournament, the organisers haven't packed it with just the top players in the world, although a tournament with Caruana, Giri and Mamedyarov is pretty strong. Even 10th seed Esipenko can be pretty dangerous (as Carlsen knows), although if it isn't Carlsen, then it is only someone else from the top 4 that I can see winning it. Of interest though is how some of the lower seeded players might do. GM Sam Shankland has been hovering around the 2700 level for few years, but a tournament like this may be what is needed to move up t",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/tata-steel-2022-some-lazy-predictions.html",
+         "pubDate" : "Sat, 15 Jan 2022 12:58:00 +0000",
+         "title" : "Tata Steel 2022 - Some lazy predictions"
+      },
+      {
+         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
+         "pubDate" : "Sat, 15 Jan 2022 13:55:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : " <p class=\"lead\">It was early in 2021, when the Russian GM Andrey Esipenko shook the world by beating Magnus Carlsen at the 2021 Tata Steel Tournament, and becoming the first teenager to beat the World Champion in classical chess. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/12uoY08ZjAo?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">Source: <a href=\"https://www.youtube.com/channel/UCUtQxVRULQTqrVnuWcblRQg\">Tata Steel Youtube Channel</a></div> </div> It is one thing beating Magnus in blitz and rapid, and totally different to beat him in a classical game. The rarity of this event increases drastically when you're",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/will-esipenko-take-down-the-world-champion-again-in-the-tata-ste/",
@@ -26,12 +58,12 @@ news_feed (
          "title" : "General Atlantic invests in Chess.com"
       },
       {
-         "description" : "The first round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Saturday, January 15. This will be the first classical chess tournament for GM Magnus Carlsen since he retained his world championship title in November. Don&#39;...",
+         "description" : "The first round of the 2022 Tata Steel Chess Tournament is underway. It&#39;s the first classical chess tournament for GM Magnus Carlsen since he retained his world championship title in November. Don&#39;t miss the action as he attempts to break the 2900...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-1",
          "pubDate" : "Sat, 15 Jan 2022 00:00:00 -0800",
-         "title" : "How To Watch Tata Steel Chess 2022 Round 1"
+         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 1"
       },
       {
          "description" : "The Pan-American Intercollegiate Team Championship is a university championship in which, as the name suggests, teams from both the Americas and the Caribbean are allowed to participate - but in fact most of the participating teams come from the United States. This year's tournament was won by the Saint Louis University, which was the only team to emerge victorious from all six matches they played. | Photo: Bill Simmons",
@@ -410,7 +442,7 @@ news_feed (
          "title" : "Play the Sicilian: Sveshnikov! Kalashnikov! Guns! | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
-         "description" : " Share!16 A couple months ago, GM Nigel Short contacted The Chess Drum and mentioned that St. Vincent and the Grenadines would become a provisional FIDE member. At the 92nd General Assembly meeting, St. Vincent as well as Belize, Dominica and Niger became full FIDE members. St. Vincent &#038; Grenadines Back in 2019, Short and Ian [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/11/belize-dominica-niger-and-st-vincent-join-fide/\">Belize, Dominica, Niger, and St. Vincent join FIDE</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " A couple months ago, GM Nigel Short contacted The Chess Drum and mentioned that St. Vincent and the Grenadines would become a provisional FIDE member. At the 92nd General Assembly meeting, St. Vincent as well as Belize, Dominica and Niger became full FIDE members. St. Vincent &#038; Grenadines Back in 2019, Short and Ian Wilkinson [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/11/belize-dominica-niger-and-st-vincent-join-fide/\">Belize, Dominica, Niger, and St. Vincent join FIDE</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/01/11/belize-dominica-niger-and-st-vincent-join-fide/",
@@ -1792,14 +1824,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/magnus-carlsen-is-sole-leader-before-the-final-day-of-the-2021-w/",
          "pubDate" : "Mon, 27 Dec 2021 19:30:51 +0000",
          "title" : "Carlsen is the Sole Leader Before The Final Day of The 2021 Open World Rapid Championship"
-      },
-      {
-         "description" : "In the history of the Chess World Championships Viktor Korchnoi is an extremely successful player, even if he was ultimately denied the title. If you count the 1974 Candidates Final for challenging Fischer, he played three 'World Championship matches'. The era of Korchnoi's participations in the WCh cycle stretches from the Curacao Candidates Tournament in 1962 to the 1991 quarterfinal match against Timman, which he played at the age of 60. The dramatic fight against Anatoly Karpov in Baguio City in 1978 stands out in particular: hypnosis, cheating accusations with blueberry yoghurt, X-ray examinations on chairs, mirror glasses worn at the board, Korchnoi's comeback to 5-5 after trailing 4-1",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/viktor-kortchnoi-challenges-you",
-         "pubDate" : "Mon, 27 Dec 2021 20:00:00 +0100",
-         "title" : "Viktor Korchnoi challenges you"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88528925.cms\" />Little-known Indian Grandmaster Harsha Bharathakoti continued his good run in the Rapid section of the FIDE World Rapid and Blitz Chess Championships here, holding higher-rated Russian GM David Paravyan to a draw in the sixth round on Monday.",
