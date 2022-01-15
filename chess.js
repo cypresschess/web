@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Saturday, January 15. This will be the first classical chess tournament for GM Magnus Carlsen since he retained his world championship title in November. Don&#39;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-1",
+         "pubDate" : "Sat, 15 Jan 2022 00:00:00 -0800",
+         "title" : "How To Watch Tata Steel Chess 2022 Round 1"
+      },
+      {
+         "description" : "The Pan-American Intercollegiate Team Championship is a university championship in which, as the name suggests, teams from both the Americas and the Caribbean are allowed to participate - but in fact most of the participating teams come from the United States. This year's tournament was won by the Saint Louis University, which was the only team to emerge victorious from all six matches they played. | Photo: Bill Simmons",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-university-wins-the-pan-american-intercollegiate-team-championship",
+         "pubDate" : "Sat, 15 Jan 2022 09:00:00 +0100",
+         "title" : "St Louis University wins the Pan-American Intercollegiate Team Championship"
+      },
+      {
+         "description" : "In the diagram position Black has just played 32...Qf5, threatening to harass the white king with ...Qb1+. But White has a way to combine attack and defence which leads to victory. Your call!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/watch-your-king",
+         "pubDate" : "Sat, 15 Jan 2022 09:00:00 +0100",
+         "title" : "Watch your king!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Harrison Keyser desperately attempts to eat his opponent&#039;s rocks in this tactical Danish Gambit. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> Played on lichess.org<br /> #chess #gambits #arcg3 2022.01.03<br /> Fritz_Adler vs. Harrison Keyser, 2021: C21 Danish gambit, Schlechter defence<br /> <a href=\"https://lichess.org/iDvGyIYx\">https://lichess.org/iDvGyIYx</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><di",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1786,14 +1810,6 @@ news_feed (
          "title" : "Tamir Nabaty wins the Israel open championship 2021"
       },
       {
-         "description" : "The first five rounds of the World Rapid Championship were played on Sunday. Three players are sharing the lead on 4&frac12; points: defending champion Magnus Carlsen, local hero Jan-Krzysztof Duda and Baadur Jobava from Georgia. On the women's tournament, Alexandra Kosteniuk and Valentina Gunina have a perfect 4/4 score after the first day of action. | Foto: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-and-blitz-2021-day-1",
-         "pubDate" : "Mon, 27 Dec 2021 12:25:00 +0100",
-         "title" : "World Rapid: Carlsen, Duda and Jobava co-leaders"
-      },
-      {
          "description" : " <p class=\"lead\">The World Rapid Chess Championship is supposed to be all about managing time because it tests players' ability to play well in time trouble. In Rapid, each player has only 15 minutes plus 10-second increment. Ideally, the same applies to the organizers. In 2021, not so much. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/74E53220-186D-4485-8479-DCD7B6199CD2.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Rapid Championship playing hall in Warsaw, Poland. Spectators are able to watch from the mezzanine. Photo: Mark Livschitz, FIDE</div> </div> Maxime Vachier-Lagrave, one of the world's strongest players, voiced a rare comp",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1842,14 +1858,6 @@ news_feed (
          "title" : "Duda, Jobava, and Carlsen Take The Lead In Rapid Championship, 178 Players Closely Follow"
       },
       {
-         "description" : "It was just a few weeks ago that Markus Ragger published a complete repertoire on two FritzTrainers for his favourite opening against 1.d4: the Gruenfeld Defence. In the new ChessBase Magazine #205 he provides an update on the variation with 5.Bd2, since the new idea of 5...c5 has recently proved very attractive at the highest level. Among others, it was used by Carlsen, Giri and Dubov. While Markus Ragger in his FritzTrainer still recommends the common and still fully valid continuation 5...Bg7, his appeal in ChessBase Magazine is clear: \"Let's make 5...c5 the main line against 5.Bd2!\" You can watch an excerpt from his video analysis here!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/let-s-make-5-c5-the-main-line-against-5-bd2",
-         "pubDate" : "Sun, 26 Dec 2021 20:00:00 +0100",
-         "title" : "\"Let's make 5&hellip;c5 the main line against 5.Bd2!\""
-      },
-      {
          "description" : "The last major event of 2021, the FIDE World Rapid and Blitz begins shortly. Originally planned for Kazakhstan, a covid outbreak in the country meant that it was relocated to Poland at short notice. <div>The Rapid portion starts this evening, with Magnus Carlsen the top seed in the 181 player field. The bottom half of the field starts at 2538 (Rapid), and while there were concern about a lag between Rapid ratings and standard ratings, there doesn't seem to be a huge difference, except for IM Aditya Mittal, who has a rapid rating of 1488</div><div><br /></div><div>There are plenty of places to follow this event (including plenty of youtube and twitch streams), but for now I am planning to wat",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1872,14 +1880,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-world-rapid-blitz-chess-championships-2021-start-in-warsaw-poland/",
          "pubDate" : "Sun, 26 Dec 2021 08:42:05 +0000",
          "title" : "FIDE World Rapid & Blitz Chess Championships 2021 start in Warsaw, Poland"
-      },
-      {
-         "description" : " <p class=\"lead\">Magnus Carlsen, Ian Nepomniachtchi, Alireza Firouzja, and Hikaru Nakamura are already in Warsaw for the traditional end of year tournament, the <a href=\"https://worldrapidandblitz.fide.com/\">2021 World Rapid and Blitz</a>. Both the Open and Women's events start on the 25th of December, with a total prize of $1 million. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2ADB8D2F-0A1E-4BF3-A85C-E971761DE986.jpeg\" width=\"706\" height=\"470\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> The World Rapid and Blitz Championships were initially scheduled to be held in Nur Sultan, Kazakhstan. Due to COVID-19 restrictions though, FIDE announce",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/2021-world-rapid-and-blitz-carlsen-nepo-firoujza-and-nakamura-ar/",
-         "pubDate" : "Sat, 25 Dec 2021 08:00:43 +0000",
-         "title" : "2021 World Rapid and Blitz: Carlsen, Nepo, Firoujza, and Nakamura Are Our Holiday Spice"
       }
    ]
 }
