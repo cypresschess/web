@@ -18,6 +18,14 @@ news_feed (
          "title" : "Tata Steel 2022, Round 1: Four Draws And a Win For Duda, Vidit and Jorden van Foreest"
       },
       {
+         "description" : " The first round of the Tata Steel Masters saw wins for Jan-Krzysztof Duda against Richard Rapport, Jorden van Foreest against Nils Grandelius and Santosh Gujrathi Vidit against Sam Shankland. There were also escapes for Daniil Dubov against Shakhriyar Mamedyarov and Sergey Karjakin against Fabiano Caruana. World Champion Magnus Carlsen had a comfortable draw against Andrey Esipenko with black. All in a all an exciting start. Brief summaries of all the games in the masters group below. Round 1 Masters Standings: 1-3 Duda, Vidit, Van Foreest 1pt 4-11 Carlsen, Caruana, Giri, Mamedyarov, Karjakin, Dubov, Esipenko, Praggnanandhaa 0.5pts, 12-14 Rapport, Shankland, Grandelius 0pts Round 2 pairings",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/tata-steel-2022-gets-underway-with-a-lively-first-round",
+         "pubDate" : "Sat, 15 Jan 2022 23:05:00 +0400",
+         "title" : "Tata Steel 2022 gets underway with a lively first round - 1"
+      },
+      {
          "description" : "For the first time since winning in Dubai, Magnus Carlsen speaks publicly about his shocking announcement that his fifth World Championship match may have been his last. But Vladimir Kramnik still thinks Carlsen will play against any opponent.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -74,7 +82,7 @@ news_feed (
          "title" : "General Atlantic invests in Chess.com"
       },
       {
-         "description" : "The first round of the 2022 Tata Steel Chess Tournament saw three leaders, including the 2021 winner GM Jorden van Foreest. World Champion GM Magnus Carlsen started with a quick draw vs. GM Andrey Esipenko. The Challengers group saw four decisive ...",
+         "description" : "The first round of the 2022 Tata Steel Chess Tournament saw three leaders emerge, including the 2021 winner GM Jorden van Foreest. World Champion GM Magnus Carlsen started with a quick draw vs. GM Andrey Esipenko. The Challengers group saw four de...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-1",
