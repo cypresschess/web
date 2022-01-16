@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kind Attention all the participants of 1A to 5D undergone subject training. A detailed notification with scheduled final exam on 30th January 2022 was sent",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicfs-chess-for-everyone-project-national-arbiter-training-final-exam/",
+         "pubDate" : "Sun, 16 Jan 2022 07:11:20 +0000",
+         "title" : "AICF's Chess for Everyone Project : National Arbiter Training Final Exam"
+      },
+      {
          "description" : "The second round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Sunday, January 16. This is the first classical chess tournament for GM Magnus Carlsen since he retained his world championship title in November. Don&#39;t miss...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -31,7 +39,7 @@ news_feed (
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/tata-steel-chess-1-duda-vidit-jorden-win-as-top-seeds-misfire",
          "pubDate" : "Sat, 15 Jan 2022 20:17:27 +0000",
-         "title" : "Tata Steel Chess 1: Duda, Vidit, Jorden win, as top seeds misfire"
+         "title" : "Tata Steel 1: Duda, Vidit, Jorden win, as top seeds misfire"
       },
       {
          "description" : " <p class=\"lead\">Day 1 of the <a href=\"https://tatasteelchess.com\">Tata Steel Chess Tournament 2022</a> is over with GM Jorden van Foreest, GM Jan-Krzysztof Duda and GM Vidit Santosh Gujrathi finished leading the event. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1920\" data-ratio=\"1.8216318785579\"> <img src=\"https://worldchess.com/news/pictures/low08500-lennart-ootes-min_optimized.jpeg\" width=\"1920\" height=\"1054\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/low08481-lennart-ootes-min_optimized.jpeg\" width=\"1920\" height=\"1245\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/low08363-lennart-ootes-min_optimized-1.jpeg\" width=\"1920\" height=\"1294\" alt=\"\" ",
@@ -1248,14 +1256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-new-fide-world-ranking-list-january-2022",
          "pubDate" : "Mon, 03 Jan 2022 12:24:54 +0100",
          "title" : "The new FIDE World Ranking List: January 2022"
-      },
-      {
-         "description" : "Considering the new wave of pandemic with another variant and the restrictions imposed by various states and agencies, All India Chess Federation decided to postpone",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mportant-announcement-national-championships-2022/",
-         "pubDate" : "Mon, 03 Jan 2022 07:36:56 +0000",
-         "title" : "IMPORTANT ANNOUNCEMENT : NATIONAL CHAMPIONSHIPS 2022"
       },
       {
          "description" : "Jon Speelman looks forwards and backwards as we enter the new year, looking at a game between Magnus Carlsen and World Rapid Champion Nodirbek Abdusattorov after recapping what went on in 2021. He also analyses three games from previous editions of the traditional Hastings Tournament, incluidng one of his, in which he played his \"most outrageous move ever\"! | Photo: Nigel Short, Lev Psakhis and Jon Speelman in Hastings (c. 1987) / Nigel Short&rsquo;s Facebook page",
