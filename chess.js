@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Day 2 of the 2022 Tata Steel Chess Tournament finished in a glorious way for the World Champion and the Hungarian GM Richard Rapport, who won GM Anish Giri, and the defending Tata Steel Champion GM Jorden van Foreest respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.5608740894901\"> <img src=\"https://worldchess.com/news/pictures/LOW09319.jpg\" width=\"1500\" height=\"961\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW09314.jpg\" width=\"1500\" height=\"857\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW09276.jpg\" width=\"1500\" height=\"921\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW09255-640x4",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/carlsen-and-rapport-the-winners-of-r2-of-the-2022-tata-steel-che/",
+         "pubDate" : "Sun, 16 Jan 2022 20:26:14 +0000",
+         "title" : "Carlsen and Rapport the winners of R2 of the 2022 Tata Steel Chess Tournament"
+      },
+      {
+         "description" : "Years ago the great Mikhail Tal pithily expounded a critical aspect of all out attacking chess, noting that it is only possible to capture one piece at a time. In full battle cry, Tal's instinct was not to retreat attacked pieces, especially minor pieces - but to pour more oil on the fire by putting further units en prise! Jonathan Speelman explores this theme using games by Tal and Fischer, as well as more recent examples. | Pictured: Fischer and Tal in Zurich, 1959 / Photo via skaksogufelagid.is",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-162",
+         "pubDate" : "Sun, 16 Jan 2022 18:15:00 +0100",
+         "title" : "Bring your own bottle and fork"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 62nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to look at examples of light-square strategy. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-62-light-square-strategy-2",
+         "pubDate" : "Sun, 16 Jan 2022 18:00:00 +0100",
+         "title" : "Understanding before Moving 62: Light-square strategy (2)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1524",
+         "pubDate" : "Sun, 16 Jan 2022 16:47:46 +0000",
+         "title" : "Lamine Brahami and Lina Nassr win 2021 Africa Junior Championship"
+      },
+      {
          "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +66,12 @@ news_feed (
          "title" : "AICF's Chess for Everyone Project : National Arbiter Training Final Exam"
       },
       {
-         "description" : "The second round of the 2022 Tata Steel Chess Tournament is underway. The first day saw three winners, but GM Magnus Carlsen was not one of them. Will he try hard to get a win against GM Anish Giri today and fuel his attempts to break the 2900 rat...",
+         "description" : "GM Magnus Carlsen got his first win in the Tata Steel Chess Tournament&#39;s second round as the world champion scored a fairly quick full-point vs. Dutch GM Anish Giri. GM Richard Rapport was the only other winner in the Masters as the Hungarian play...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-2",
          "pubDate" : "Sat, 15 Jan 2022 17:00:00 -0800",
-         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 2"
+         "title" : "Tata Steel Chess R2: Carlsen Gets 1st Win, Rapport Beats Van Foreest"
       },
       {
          "description" : "",
@@ -1722,14 +1754,6 @@ news_feed (
          "title" : "Candidates Tournament To Take Place June 2022 In Madrid Sponsored By Chess.com"
       },
       {
-         "description" : "After nine rounds, played on Sunday and Monday, Magnus Carlsen is the sole leader at the World Rapid Chess Championship in Warsaw as the only player to have collected 7&frac12; points. On the second day of play, Alireza Firouzja and Jan-Krzysztof Duda were two of the players defeated by the world champion. In the women's tournament, Alexandra Kosteniuk is in a class of her own.| Foto: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-and-blitz-2021-day-2",
-         "pubDate" : "Tue, 28 Dec 2021 14:10:00 +0100",
-         "title" : "World Rapid: Carlsen grabs the lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1752,14 +1776,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-christmas-puzzle/",
          "pubDate" : "Tue, 28 Dec 2021 09:33:47 +0000",
          "title" : "A Christmas Puzzle"
-      },
-      {
-         "description" : "For 24 days, you mastered fierce end-game puzzles. We received over 6800 emails this year! This topped last year's calendar, bravo! From all entries we randomly selected three winners for each day, who can look forward to ChessBase Shop vouchers or two Fritztrainer DVDs signed by Karsten M&uuml;ller. Those who guessed all 24 doors correctly, entered into our super raffle for one of three grand prizes.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winners-of-our-endgame-magic-calendar",
-         "pubDate" : "Tue, 28 Dec 2021 10:20:00 +0100",
-         "title" : "The winners of our Endgame Magic Calendar!"
       },
       {
          "description" : " 600 Modern Chess Puzzles : Martyn Kravtsiv Blurb from the publisher: &#8220;The easiest, quickest and most effective way to improve your overall game is to increase your tactical vision. Many good positions are lost because a key moment is passed by and a player misses the opportunity to win by a beautiful combination. This book is <a href=\"http://britishchessnews.com/2021/12/28/600-modern-chess-puzzles/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">600 Modern Chess Puzzles</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/28/600-modern-chess-puzzles/\">600 Modern Chess Puzzles</a> appeared first on <a",
@@ -1824,14 +1840,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/rapid-championship-runs-low-on-time-management-and-water/",
          "pubDate" : "Mon, 27 Dec 2021 09:18:11 +0000",
          "title" : "Rapid Championship Runs Low on Time Management (and Water)"
-      },
-      {
-         "description" : " <p class=\"lead\"><a href=\"https://worldrapidandblitz.fide.com\">The 2021 World Rapid and Blitz Championships</a> started on the 25th of December in Warsaw, Poland, attracting more than 250 professional players from around the world. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51777696704_8e877443f6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anna Shtourman (FIDE)</div> </div> The World Champion Magnus Carlsen, in his pursuit of retaining his three titles, has to fight against the \"titans\", including the 2021 Challenger Ian Nepomniachtchi, World No.2 Alireza Firouzja, speed chess champion Hikaru Nakamura, the 2021 World Cup w",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/2021-world-rapid-and-blitz-carlsen-duda-and-jobava-the-stars-of/",
-         "pubDate" : "Mon, 27 Dec 2021 08:46:48 +0000",
-         "title" : "2021 World Rapid and Blitz: Carlsen, Duda, and Jobava the stars of Day 1"
       },
       {
          "description" : "GMs Jan-Krzysztof Duda, Magnus Carlsen, and Baadur Jobava share first place with 4.5/5 after day one of the World Rapid Chess Championship. The Polish number one, playing in his home country, started with a fantastic 4/4 perfect score, but his rou...",
