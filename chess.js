@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Magnus Carlsen missed a chance to play for a win with Black before agreeing a 21-move draw with Andrey Esipenko, while Fabiano Caruana and Shakhriyar Mamedyarov spoilt completely winning positions against Sergey Karjakin and Daniil Dubov. That left a chance for three players to snatch the early lead. Jan-Krzysztof Duda entered the live Top 10 with a win over Richard Rapport, defending champion Jorden van Foreest beat Nils Grandelius, and Vidit won the day's longest game as he ground down Sam Shankland.",
+         "description" : "The second round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Sunday, January 16. This is the first classical chess tournament for GM Magnus Carlsen since he retained his world championship title in November. Don&#39;t miss...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-2",
+         "pubDate" : "Sat, 15 Jan 2022 17:00:00 -0800",
+         "title" : "How To Watch Tata Steel Chess 2022 Round 2"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1523",
+         "pubDate" : "Sun, 16 Jan 2022 00:37:16 +0000",
+         "title" : "Tata Steel 2022: Duda, Vidit and Van Foreest take the lead"
+      },
+      {
+         "description" : "Jan-Krzysztof Duda, Vidit Gujrathi and defending champion Jorden van Foreest (pictured, right) all won with white on Saturday to take the early lead at the Tata Steel Masters tournament. It was an action-packed day, especially during time trouble, with Shakhriyar Mamedyarov and Fabiano Caruana failing to find winning continuations while hurried by the clock. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r1",
+         "pubDate" : "Sun, 16 Jan 2022 00:25:00 +0100",
+         "title" : "Tata Steel R1: Three winners on opening day"
+      },
+      {
+         "description" : "Magnus Carlsen missed a chance to get revenge for last year's loss to Andrey Esipenko when he took a 21-move draw in Round 1 of the 2022 Tata Steel Masters. Fabiano Caruana and Shakhriyar Mamedyarov also spoilt winning positions against Sergey Karjakin and Daniil Dubov, allowing three players to snatch the early lead. Jan-Krzysztof Duda entered the live Top 10 with a win over Richard Rapport, defending champion Jorden van Foreest beat Nils Grandelius, and Vidit won the day's longest game as he ground down Sam Shankland in a six-hour marathon.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/tata-steel-chess-1-duda-vidit-jorden-win-as-top-seeds-misfire",
@@ -50,14 +74,6 @@ news_feed (
          "title" : "Tata Steel 2022 - Some lazy predictions"
       },
       {
-         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
-         "pubDate" : "Sat, 15 Jan 2022 13:55:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
-      },
-      {
          "description" : " <p class=\"lead\">It was early in 2021, when the Russian GM Andrey Esipenko shook the world by beating Magnus Carlsen at the 2021 Tata Steel Tournament, and becoming the first teenager to beat the World Champion in classical chess. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/12uoY08ZjAo?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">Source: <a href=\"https://www.youtube.com/channel/UCUtQxVRULQTqrVnuWcblRQg\">Tata Steel Youtube Channel</a></div> </div> It is one thing beating Magnus in blitz and rapid, and totally different to beat him in a classical game. The rarity of this event increases drastically when you're",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -90,20 +106,20 @@ news_feed (
          "title" : "Tata Steel Chess R1: Duda, Van Foreest, Vidit Start With Win"
       },
       {
-         "description" : "The Pan-American Intercollegiate Team Championship is a university championship in which, as the name suggests, teams from both the Americas and the Caribbean are allowed to participate - but in fact most of the participating teams come from the United States. This year's tournament was won by the Saint Louis University, which was the only team to emerge victorious from all six matches they played. | Photo: Bill Simmons",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-university-wins-the-pan-american-intercollegiate-team-championship",
-         "pubDate" : "Sat, 15 Jan 2022 09:00:00 +0100",
-         "title" : "St Louis University wins the Pan-American Intercollegiate Team Championship"
-      },
-      {
          "description" : "In the diagram position Black has just played 32...Qf5, threatening to harass the white king with ...Qb1+. But White has a way to combine attack and defence which leads to victory. Your call!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/watch-your-king",
          "pubDate" : "Sat, 15 Jan 2022 09:00:00 +0100",
          "title" : "Watch your king!"
+      },
+      {
+         "description" : "The Pan-American Intercollegiate Team Championship is a university championship in which, as the name suggests, teams from both the Americas and the Caribbean are allowed to participate - but in fact most of the participating teams come from the United States. This year's tournament was won by the Saint Louis University, which was the only team to emerge victorious from all six matches they played. | Photo: Bill Simmons",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-university-wins-the-pan-american-intercollegiate-team-championship",
+         "pubDate" : "Sat, 15 Jan 2022 09:00:00 +0100",
+         "title" : "St Louis University wins the Pan-American Intercollegiate Team Championship"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Harrison Keyser desperately attempts to eat his opponent&#039;s rocks in this tactical Danish Gambit. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> Played on lichess.org<br /> #chess #gambits #arcg3 2022.01.03<br /> Fritz_Adler vs. Harrison Keyser, 2021: C21 Danish gambit, Schlechter defence<br /> <a href=\"https://lichess.org/iDvGyIYx\">https://lichess.org/iDvGyIYx</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><di",
