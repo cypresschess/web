@@ -90,6 +90,14 @@ news_feed (
          "title" : "Tata Steel R1: Three winners on opening day"
       },
       {
+         "description" : "Magnus Carlsen missed a chance to get revenge for last year's loss to Andrey Esipenko when he took a 21-move draw in Round 1 of the 2022 Tata Steel Masters. Fabiano Caruana and Shakhriyar Mamedyarov also spoilt winning positions against Sergey Karjakin and Daniil Dubov, allowing three players to snatch the early lead. Jan-Krzysztof Duda entered the live Top 10 with a win over Richard Rapport, defending champion Jorden van Foreest beat Nils Grandelius, and Vidit won the day's longest game as he ground down Sam Shankland in a six-hour marathon.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-chess-1-duda-vidit-jorden-win-as-top-seeds-misfire",
+         "pubDate" : "Sat, 15 Jan 2022 20:17:27 +0000",
+         "title" : "Tata Steel 1: Duda, Vidit, Jorden win, as top seeds misfire"
+      },
+      {
          "description" : " <p class=\"lead\">Day 1 of the <a href=\"https://tatasteelchess.com\">Tata Steel Chess Tournament 2022</a> is over with GMs Van Foreest, Duda and Vidit leading the event, while Carlsen, Mamedyarov and Caruana missed their chances. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1920\" data-ratio=\"1.8216318785579\"> <img src=\"https://worldchess.com/news/pictures/low08500-lennart-ootes-min_optimized.jpeg\" width=\"1920\" height=\"1054\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/low08481-lennart-ootes-min_optimized.jpeg\" width=\"1920\" height=\"1245\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/low08363-lennart-ootes-min_optimized-1.jpeg\" width=\"1920\" height=\"1294\"",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -104,6 +112,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/tata-steel-2022-gets-underway-with-a-lively-first-round",
          "pubDate" : "Sat, 15 Jan 2022 23:05:00 +0400",
          "title" : "Tata Steel 2022 gets underway with a lively first round - 1"
+      },
+      {
+         "description" : "For the first time since winning in Dubai, Magnus Carlsen speaks publicly about his shocking announcement that his fifth World Championship match may have been his last. But Vladimir Kramnik still thinks Carlsen will play against any opponent.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-i-wouldn-t-say-chances-have-increased",
+         "pubDate" : "Sat, 15 Jan 2022 15:30:55 +0000",
+         "title" : "Carlsen: \"I wouldn't say chances have increased\""
       },
       {
          "description" : " Share!23 Despite her own ambivalence toward chess as a youth,Officer Cookie has shared its joys.Photo by Genna Martin After decades of service, Denise &#8220;Cookie&#8221; Bouldin is having &#8220;Detective Cookie Chess Park&#8221; built in her honor. Detective Cookie been featured on The Chess Drum over the years with her Urban Youth Chess Club in Seattle, Washington. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/15/seattle-builds-detective-cookie-chess-park/\">Seattle builds Detective Cookie Chess Park!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -282,6 +298,14 @@ news_feed (
          "title" : "Sac the Exchange on e6! | Grandmaster's Choice - GM Atanas Kolev"
       },
       {
+         "description" : "Vladimir Kramnik speaks about Magnus Carlsen and crossing 2900, what Alireza Firouzja needs to do, his memories from Wijk aan Zee, and Nodirbek Abdusattorov and the rise of the young generation in the first instalment of a candid, two-part interview. Always the good-natured gentleman, the 46-year-old was generous enough to give an exclusive interview for chess24 readers.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/kramnik-on-carlsen-s-new-target-what-firouzja-needs-to-do-and-the-top-young-talents",
+         "pubDate" : "Fri, 14 Jan 2022 01:17:51 +0000",
+         "title" : "Kramnik on Carlsen's new target, what Firouzja needs to do and the top young talents"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess.com</strong>'s answer to the <strong>Champions Chess Tour</strong> is their <a href=\"https://www.chess.com/news/view/announcing-chesscom-rapid-chess-championship-2022\">own series of online elite events</a> starting six days earlier than the competitor on 12 February. Only the top 100 rated players, top 10 juniors and top 10 women are eligible to compete for $500,000 in the qualifiers and $150,000 in the final. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -448,6 +472,14 @@ news_feed (
          "link" : "https://aicf.in/happy-birthday-harika/",
          "pubDate" : "Wed, 12 Jan 2022 16:05:50 +0000",
          "title" : "Happy Birthday Harika"
+      },
+      {
+         "description" : "Magnus Carlsen will be hunting a record 8th title in the Wijk aan Zee top group when the Tata Steel Masters starts at 14:00 CET on Saturday 15th January. 2020 winner Fabiano Caruana and local hero Anish Giri are likely to provide the toughest competition, as 16-year-old Praggnanandhaa makes his supertournament debut. Another Indian, 18-year-old Arjun Erigaisi, is perhaps the player to watch in the Challengers, while the dream team of Peter Svidler and Jan Gustafsson will be back here on chess24!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-hunts-8th-title-as-tata-steel-chess-starts-saturday",
+         "pubDate" : "Wed, 12 Jan 2022 15:24:53 +0000",
+         "title" : "Carlsen hunts 8th title as Tata Steel Chess starts Saturday"
       },
       {
          "description" : "The Saint Louis University (SLU) team earned its spot in the President&#39;s Cup by winning clear first at the 2022 Pan-American Intercollegiate Team Championship with a perfect score. The winners will be joined at the Final Four alongside UT Dallas a...",
@@ -858,6 +890,14 @@ news_feed (
          "title" : "NFL Superstar Le'Veon Bell Discovers Chess, Tweets a Lot"
       },
       {
+         "description" : "FIDE Grand Prix organiser World Chess is asking the players to get in touch for a package if they want their personal sponsor logos to be shown during the events. The new demand has led to reactions from top players Anish Giri and Vidit Gujrathi, but CEO Ilya Merenzon denies they are actually asking for a cut.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-grand-prix-organiser-asks-for-cut-of-players-sponsorship",
+         "pubDate" : "Sat, 08 Jan 2022 19:33:30 +0000",
+         "title" : "Giri, Vidit question World Chess FIDE Grand Prix sponsorship demands"
+      },
+      {
          "description" : " The lead story on the ABC News (Canberra) this evening was about new health restrictions in Canberra. Street Chess was part of the background footage, which you can see via this link <a href=\"https://iview.abc.net.au/video/NU2204C007S00\">https://iview.abc.net.au/video/NU2204C007S00</a> The story is the lead item so you only have to watch the first minute or two. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1146,6 +1186,14 @@ news_feed (
          "title" : "Surprise in the London System"
       },
       {
+         "description" : "After shocking the chess world by sensationally winning the World Rapid Chess Championship, 17-year-old Nodirbek Abdusattorov was yesterday celebrated at home in Uzbekistan. The prodigy received a huge cash prize, the keys to a two-room apartment and a Presidential medal in a packed ceremony at the headquarters of the National Olympic Commitee in the country's capital Tashkent.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/17-year-old-world-champion-gifted-new-home-in-presidential-ceremony",
+         "pubDate" : "Tue, 04 Jan 2022 22:23:33 +0000",
+         "title" : "17-year-old World Champ gifted flat by Presidential decree"
+      },
+      {
          "description" : "This \"Weekly Show\" is all about the World Rapid and Blitz Championships and a look ahead to 2022. Lawrence takes a close look at the battle Gukesh-Abdusattorov from the World Rapid, \"a great display of resilience from the young Uzbek who went on to shock the field and win the entire tournament\". | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1184,6 +1232,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/i-believe-in-miracles.html",
          "pubDate" : "Tue, 04 Jan 2022 12:21:00 +0000",
          "title" : "I believe in miracles ..."
+      },
+      {
+         "description" : "The 2022 Chess Calendar begins with Magnus Carlsen and Fabiano Caruana topping the field for the Tata Steel Masters from January 15th onwards, and, if all goes to plan, it's a year that's going to feature another Candidates Tournament and the first over-the-board World Chess Olympiad since 2018. Whatever happens with the pandemic, the Meltwater Champions Chess Tour will be back, with nine high stakes events running from February 19th to November 20th.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/2022-chess-calendar",
+         "pubDate" : "Tue, 04 Jan 2022 11:35:00 +0000",
+         "title" : "2022 Chess Calendar"
       },
       {
          "description" : "On the last day of 2021, one of the most distinguished personalities in the world of chess passed away. On 31 December 2021 the Hungarian Grandmaster G&aacute;bor K&aacute;llai died at the age of 62. Diana Mihajlova knew Kallai well and looks back to the achievements of the Hungarian Grandmaster who also worked as a trainer, author, organizer, arbiter, captain, journalist, radio and TV commentator. | Photo: Facebook page of the Hungarian Chess Federation",
@@ -1530,6 +1586,14 @@ news_feed (
          "title" : "Hikaru Nakamura is covid positive at the 2021 World Blitz Championship"
       },
       {
+         "description" : "Levon Aronian scored 10/12 on Day 1 of the World Blitz Championship in Warsaw to take the sole lead going into the final 9 rounds. His closest rivals are Bassem Amin (9.5) and Parham Maghsoodloo (9), but the 12-player group on 8.5 points includes Magnus Carlsen, Hikaru Nakamura, Ian Nepomniachtchi, Alexander Grischuk, Daniil Dubov, Arjun Erigaisi, Vladislav Artemiev and Anish Giri. The Women's World Blitz is led by 17-year-old Rapid silver medalist Bibisara Assaubayeva on 8/9, with 20-year-old Vaishali just half a point behind.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/world-blitz-day-1-aronian-leads-as-carlsen-struggles",
+         "pubDate" : "Thu, 30 Dec 2021 12:20:31 +0000",
+         "title" : "World Blitz Day 1: Aronian leads as Carlsen struggles"
+      },
+      {
          "description" : " The holiday season at the end of the year is a great time to think about the coming year. Many people end this process by setting New Year Resolutions. I'm a big fan of planning things beforehand. This not only applies to Chess Training, but also to my life in general. In this article, I [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/new-year-resolutions-and-my-big-goal-in-2022/\">New Year Resolutions And My Big Goal In 2022</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1650,6 +1714,14 @@ news_feed (
          "title" : "Chess World Divided Over World Rapid Tiebreak Controversy"
       },
       {
+         "description" : "17-year-old Nodirbek Abdusattorov is the youngest ever World Rapid Champion after beating Ian Nepomniachtchi in a blitz tiebreak. The 2-player tiebreak was controversial since four players had tied for 1st, but since Nodirbek had beaten both Magnus Carlsen (bronze) and Fabiano Caruana (4th) in rapid chess, his overall victory was richly deserved. Alexandra Kosteniuk survived some tricky moments to win her first Women's World Rapid Championship, while another 17-year-old, Bibisara Assaubayeva, took silver, and Valentina Gunina bronze.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/abdusattorov-kosteniuk-win-world-rapid-gold",
+         "pubDate" : "Wed, 29 Dec 2021 13:00:00 +0000",
+         "title" : "Abdusattorov & Kosteniuk win World Rapid gold"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1688,6 +1760,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/world-rapid-chess-championship-day-3-abdusattorov-and-kosteniuk-crowned-world-rapid-champions",
          "pubDate" : "Tue, 28 Dec 2021 18:31:00 -0800",
          "title" : "World Rapid Chess Championship Day 3: Abdusattorov and Kosteniuk Crowned World Rapid Champions"
+      },
+      {
+         "description" : "17-year-old Nodirbek Abdusattorov sensationally won the World Rapid Chess Championship on Tuesday after a dramatic final day in Warsaw, Poland, which saw four players top the standings with 9.5 points after 13 rounds. Afterwards Magnus Carlsen, who along with Fabiano Caruana missed out on a playoff due to worse tiebreaks, lashed out at FIDE for what he called \"completely idiotic\" tiebreak rules.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-lashes-out-against-fide-for-completely-idiotic-tiebreak-rule",
+         "pubDate" : "Wed, 29 Dec 2021 00:12:32 +0000",
+         "title" : "Carlsen lashes out at \"completely idiotic\" tiebreak rules"
       },
       {
          "description" : " The 2021 FIDE General Assembly was held last night (starting at midnight my time), and the Papua New Guinea Chess Federation had 2 important motions on the agenda. That was until I logged into the voting system to discover that our 2 motions had been listed as a single motion for voting purposes. This was of course done without the knowledge of the PNGCF and attempts to get it fixed were unsuccessful. The main issue with this (apart from arbitrarily changing properly submitted motions) was that both motions had different chances of success. While we expected one motion to be defeated, we had high hopes that the second would be passed. And I was planning to make this point when called upon t",
@@ -1760,6 +1840,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1503",
          "pubDate" : "Tue, 28 Dec 2021 12:28:17 +0000",
          "title" : "Candidates Tournament to take place in Madrid sponsored by Chess.com"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen goes into the final day of the World Rapid Chess Championship in Warsaw in the sole lead after defeating his young rivals Alireza Firouzja and Jan-Krzysztof Duda to reach 7.5/9. 17-year-old Nodirbek Abdusattorov beat Levon Aronian, Radoslaw Wojtaszek and Boris Gelfand to join Ian Nepomniachtchi and Alexander Grischuk in 2nd place, while Alexandra Kosteniuk is the runaway leader in the women's section with a stunning 7.5/8.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/world-rapid-day-2-magnus-beats-firouzja-duda",
+         "pubDate" : "Tue, 28 Dec 2021 10:31:15 +0000",
+         "title" : "World Rapid Day 2: Magnus beats Firouzja & Duda"
       },
       {
          "description" : "",
@@ -1840,6 +1928,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/rapid-championship-runs-low-on-time-management-and-water/",
          "pubDate" : "Mon, 27 Dec 2021 09:18:11 +0000",
          "title" : "Rapid Championship Runs Low on Time Management (and Water)"
+      },
+      {
+         "description" : "Magnus Carlsen's bid to defend his World Rapid Championship title got off to a good start as he opened with 4.5/5 on Day 1 in Warsaw. That score was matched by local hero Jan-Krzysztof Duda and maverick Baadur Jobava, who drew a rollercoaster game in Round 5. The 13-player group just half a point behind includes 53-year-old Boris Gelfand as well as teenagers Nodirbek Abdusattorov (who beat Fabiano Caruana), Hans Niemann and Alireza Firouzja. Alexandra Kosteniuk and Valentina Gunina have a perfect 4/4 in the women's event.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/world-rapid-blitz-1-carlsen-duda-jobava-lead",
+         "pubDate" : "Mon, 27 Dec 2021 03:02:34 +0000",
+         "title" : "World Rapid Day 1: Carlsen, Duda & Jobava lead"
       },
       {
          "description" : "GMs Jan-Krzysztof Duda, Magnus Carlsen, and Baadur Jobava share first place with 4.5/5 after day one of the World Rapid Chess Championship. The Polish number one, playing in his home country, started with a fantastic 4/4 perfect score, but his rou...",
