@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " It's frustrating, or perhaps amusing, to read posts on Facebook in which inexperienced players ask why the engine told them their move was a blunder, and then other equally inexperienced players attempt to be helpful by answering the question. Here's an example. Here, White, no doubt thinking he was being clever, played Ng5 and was <a href=\"https://chessimprover.com/facebook-follies/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Facebook Follies\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/facebook-follies/\">Facebook Follies</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/facebook-follies/",
+         "pubDate" : "Sun, 16 Jan 2022 09:44:01 +0000",
+         "title" : "Facebook Follies"
+      },
+      {
+         "description" : " <p class=\"lead\">Just as chess commentators zoomed in on a promising Dubov - Shakh game at the <a href=\"https://tatasteelchess.com/\">Tata Steel Masters</a> last night (interesting structure, very zigzagged dynamics, time trouble, Dubov at the board), the players shook hands and discussed the outcome of the endgame that never happened. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/7C4D0F67-CAE8-478A-9D73-79F465F6A633.jpeg\" width=\"1800\" height=\"1019\" alt=\"\" /> <div class=\"e2-text-caption\">Daniil Dubov during the post-game interview after the game at Tata Steel</div> </div> Commentators on chess sites ranging from chess.com to Levitov chess screamed in awe: what a",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/streamers-react-to-the-deplorable-dubov-shakh-draw/",
+         "pubDate" : "Sun, 16 Jan 2022 09:33:19 +0000",
+         "title" : "Streamers React to the Deplorable Dubov - Shakh Draw"
+      },
+      {
          "description" : "Kind Attention all the participants of 1A to 5D undergone subject training. A detailed notification with scheduled final exam on 30th January 2022 was sent",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -42,12 +58,12 @@ news_feed (
          "title" : "Tata Steel 1: Duda, Vidit, Jorden win, as top seeds misfire"
       },
       {
-         "description" : " <p class=\"lead\">Day 1 of the <a href=\"https://tatasteelchess.com\">Tata Steel Chess Tournament 2022</a> is over with GM Jorden van Foreest, GM Jan-Krzysztof Duda and GM Vidit Santosh Gujrathi finished leading the event. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1920\" data-ratio=\"1.8216318785579\"> <img src=\"https://worldchess.com/news/pictures/low08500-lennart-ootes-min_optimized.jpeg\" width=\"1920\" height=\"1054\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/low08481-lennart-ootes-min_optimized.jpeg\" width=\"1920\" height=\"1245\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/low08363-lennart-ootes-min_optimized-1.jpeg\" width=\"1920\" height=\"1294\" alt=\"\" ",
+         "description" : " <p class=\"lead\">Day 1 of the <a href=\"https://tatasteelchess.com\">Tata Steel Chess Tournament 2022</a> is over with GMs Van Foreest, Duda and Vidit leading the event, while Carlsen, Mamedyarov and Caruana missed their chances. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1920\" data-ratio=\"1.8216318785579\"> <img src=\"https://worldchess.com/news/pictures/low08500-lennart-ootes-min_optimized.jpeg\" width=\"1920\" height=\"1054\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/low08481-lennart-ootes-min_optimized.jpeg\" width=\"1920\" height=\"1245\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/low08363-lennart-ootes-min_optimized-1.jpeg\" width=\"1920\" height=\"1294\"",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/tata-steel-2022-round-1-five-draws-and-a-win-for-duda-and-jorden/",
          "pubDate" : "Sat, 15 Jan 2022 19:22:33 +0000",
-         "title" : "Tata Steel 2022, Round 1: Four Draws And a Win For Duda, Vidit and Jorden van Foreest"
+         "title" : "Tata Steel 2022, Round 1: Four Draws And a Win For Duda, Vidit and Van Foreest"
       },
       {
          "description" : " The first round of the Tata Steel Masters saw wins for Jan-Krzysztof Duda against Richard Rapport, Jorden van Foreest against Nils Grandelius and Santosh Gujrathi Vidit against Sam Shankland. There were also escapes for Daniil Dubov against Shakhriyar Mamedyarov and Sergey Karjakin against Fabiano Caruana. World Champion Magnus Carlsen had a comfortable draw against Andrey Esipenko with black. All in a all an exciting start. Brief summaries of all the games in the masters group below. Round 1 Masters Standings: 1-3 Duda, Vidit, Van Foreest 1pt 4-11 Carlsen, Caruana, Giri, Mamedyarov, Karjakin, Dubov, Esipenko, Praggnanandhaa 0.5pts, 12-14 Rapport, Shankland, Grandelius 0pts Round 2 pairings",
@@ -1930,36 +1946,12 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Chess Championships: Day 1 Recap"
       },
       {
-         "description" : " <p class=\"lead\">The first day of the FIDE World Rapid Championship, part of the Rapid and Blitz Championships marathon that traditionally takes place on Dec 26 - 30 of each year, ended with Magnus Carlsen, Duda and Jabava leading the pack with 4.5 out of 5. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/5CC55BF0-77E7-47F3-B57E-892A5D9CD739.jpeg\" width=\"1600\" height=\"1159\" alt=\"\" /> <div class=\"e2-text-caption\">Carlsen putting on a protective mask between rounds. Photo: Lennart Ootes, FIDE</div> </div> Rapid Championship is played with fast time controls: each player gets 15 minutes with a 10-second increment, making the games dynamic and appealing to spectators",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/duda-jobava-and-carlsen-take-the-lead-in-rapid-championship-178/",
-         "pubDate" : "Sun, 26 Dec 2021 22:59:12 +0000",
-         "title" : "Duda, Jobava, and Carlsen Take The Lead In Rapid Championship, 178 Players Closely Follow"
-      },
-      {
          "description" : "The last major event of 2021, the FIDE World Rapid and Blitz begins shortly. Originally planned for Kazakhstan, a covid outbreak in the country meant that it was relocated to Poland at short notice. <div>The Rapid portion starts this evening, with Magnus Carlsen the top seed in the 181 player field. The bottom half of the field starts at 2538 (Rapid), and while there were concern about a lag between Rapid ratings and standard ratings, there doesn't seem to be a huge difference, except for IM Aditya Mittal, who has a rapid rating of 1488</div><div><br /></div><div>There are plenty of places to follow this event (including plenty of youtube and twitch streams), but for now I am planning to wat",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2021/12/world-rapid-and-blitz.html",
          "pubDate" : "Sun, 26 Dec 2021 12:51:00 +0000",
          "title" : "World Rapid and Blitz"
-      },
-      {
-         "description" : " I conclude the year by concluding my tribute to Jonathan Penrose, one of England's finest ever players. Penrose scored quite a lot of miniature victories in his career. Let's have a look at a few of them. This game was one which first brought Penrose to public attention. The Catalan is usually considered a safe <a href=\"https://chessimprover.com/jonathan-penrose-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Jonathan Penrose (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/jonathan-penrose-3/\">Jonathan Penrose (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/jonathan-penrose-3/",
-         "pubDate" : "Sun, 26 Dec 2021 11:11:19 +0000",
-         "title" : "Jonathan Penrose (3)"
-      },
-      {
-         "description" : "The FIDE Women's and Open Rapid&#38;Blitz Chess Championship 2021 start in Warsaw, Poland. More than 180 players from 46 federations registered for the 3Open event and more than 100 players coming from 30 different federations will participate in Women's events. FIDE World Rapid Chess Championships 2021 are first on the schedule, taking place from 26th-28th December. The 2021&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-rapid-blitz-chess-championships-2021-start-in-warsaw-poland/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-world-rapid-blitz-chess-championships-2021-start-in-warsaw-poland/",
-         "pubDate" : "Sun, 26 Dec 2021 08:42:05 +0000",
-         "title" : "FIDE World Rapid & Blitz Chess Championships 2021 start in Warsaw, Poland"
       }
    ]
 }
