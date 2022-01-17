@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1526",
+         "pubDate" : "Mon, 17 Jan 2022 14:36:31 +0000",
+         "title" : "TRG announces Trainer Professional & Development Workshops program"
+      },
+      {
+         "description" : " Round 3 of the 2022 Tata Steel tournament sees the clash of two of the leaders, Carlsen and Duda. Carlsen scored a nice win over Giri in round 2, while Duda beat Rapport in the 1st round. Some might say Duda was a little lucky in that Rapport blundered just before the end, but manoeuvring your pieces in the hope that your opponent makes a mistake is a technique that dates back to the time of Tarrasch and Lasker. <br /> <b>Duda,Jan-Krzysztof (2760) - Rapport,Richard (2763) [D02]</b><br />Tata Steel Masters chess24.com (1.5), 15.01.2022 <script>new PgnViewer( { boardName: \"game1303\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 d5 3.Bf4 Bf5 4.c4 e6 5.e3 Nbd7 6.Qb3 Bd6 7.Bg3 dxc4 8.Bxc4 R",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/a-big-clash.html",
+         "pubDate" : "Mon, 17 Jan 2022 13:00:00 +0000",
+         "title" : "A big clash"
+      },
+      {
+         "description" : "Spectators are not allowed at the Tata Steel tournament in Wijk, and the Open cannot take place because of the Corona pandemic. But the Masters and Challengers tournaments are played and the first two rounds offered exciting chess. Video interviews allow spectators from all over the world to get insights into the thoughts of the players.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-interviews",
+         "pubDate" : "Mon, 17 Jan 2022 13:50:07 +0100",
+         "title" : "Tata Steel Chess: Interviews"
+      },
+      {
+         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
+         "pubDate" : "Mon, 17 Jan 2022 13:45:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "Norway's most infamous bank robber, known as the mastermind behind the biggest heist in the country's history, will join as a guest during TV 2's Tata Steel Chess broadcast. The controversial move has made headlines and provoked strong reactions. Hours after the announcement, one sponsor decided to pull out of the show.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/controversy-as-mastermind-bank-robber-joins-chess-broadcast",
+         "pubDate" : "Mon, 17 Jan 2022 12:32:08 +0000",
+         "title" : "Controversy as 'Mastermind' bank robber joins chess broadcast"
+      },
+      {
+         "description" : "World champion Magnus Carlsen joined a three-player leading pack on Sunday by beating Anish Giri with the white pieces. In the only other decisive game of the day in the Masters, Richard Rapport bounced back from his first-round defeat as he took down Jorden van Foreest. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r2",
+         "pubDate" : "Mon, 17 Jan 2022 13:25:00 +0100",
+         "title" : "Tata Steel R2: Carlsen beats Giri"
+      },
+      {
+         "description" : "We are glad to inform you that&#160;FIDE and the International School Sport Federation (ISF) organize the FIDE ISF World School Championship Online Chess Cup...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/fide-isf-world-school-online-chess-cup-registration/",
+         "pubDate" : "Mon, 17 Jan 2022 12:12:04 +0000",
+         "title" : "FIDE - ISF World School Online Chess Cup registration"
+      },
+      {
+         "description" : "The Commission for Women's Chess is truly grateful to the FIDE President Mr. Arkady Dvorkovich, the FIDE Council and the Management, for their decision to...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/manifesto-the-year-of-the-woman-in-chess/",
+         "pubDate" : "Mon, 17 Jan 2022 12:07:00 +0000",
+         "title" : "Manifesto - The Year of the Woman in Chess"
+      },
+      {
+         "description" : "Following the decision on Arbiter title applications approved by the recent FIDE Council Meeting, England now has two more FIDE Arbiters. I am sure that...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/congratulations-to-new-fide-arbiters/",
+         "pubDate" : "Mon, 17 Jan 2022 11:52:30 +0000",
+         "title" : "Congratulations to new FIDE Arbiters"
+      },
+      {
          "description" : "The European School Chess Championship 2022 will take place from 20 April (arrival day) to 30 April (departure day) in 5 stars &#8220;Rodos Palace&#8221; conference resort, located in Rhodes island, Greece. The European School Chess Championships are part of the \"Rhodes Chess Festival 2022\", together with the Rhodes Spring Open (also 20 30 April 2022) and the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2022-official-invitation/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -26,12 +98,12 @@ news_feed (
          "title" : "Playing Perfectly Against the Danish Gambit"
       },
       {
-         "description" : "The third round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Monday, January 17. This is the first classical chess tournament for GM Magnus Carlsen since he retained his world championship title in November. Don&#39;t miss ...",
+         "description" : "Our coverage of the third round of the 2022 Tata Steel Chess Tournament is underway. GM Magnus Carlsen plays his first classical event since he retained his world championship title in November and is currently in a tie for first place. How to w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/how-to-watch-tata-steel-chess-2022-round-3",
          "pubDate" : "Sun, 16 Jan 2022 17:00:00 -0800",
-         "title" : "How To Watch Tata Steel Chess 2022 Round 3"
+         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 3"
       },
       {
          "description" : "",
@@ -88,14 +160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1524",
          "pubDate" : "Sun, 16 Jan 2022 16:47:46 +0000",
          "title" : "Lamine Brahami and Lina Nassr win 2021 Africa Junior Championship"
-      },
-      {
-         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
-         "pubDate" : "Sun, 16 Jan 2022 13:55:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : " It's frustrating, or perhaps amusing, to read posts on Facebook in which inexperienced players ask why the engine told them their move was a blunder, and then other equally inexperienced players attempt to be helpful by answering the question. Here's an example. Here, White, no doubt thinking he was being clever, played Ng5 and was <a href=\"https://chessimprover.com/facebook-follies/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Facebook Follies\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/facebook-follies/\">Facebook Follies</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -831,7 +895,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-lauds-bharath-subramaniyam-as-teenager-becomes-indias-73rd-grandmaster/articleshow/88802115.cms",
          "pubDate" : "Mon, 10 Jan 2022 10:14:07 +0530",
-         "title" : "Viswanathan lauds Bharath as teenager becomes India's 73rd Grandmaster"
+         "title" : "Anand lauds Bharath as teenager becomes India's 73rd Grandmaster"
       },
       {
          "description" : "GM Ray Robson won the 2022 Puzzle Battle World Championship that concluded on Sunday. The 27-year-old grandmaster from St. Louis again defended his title, which he has been holding since the 2020 Championship, and clinched a prize of $4,500 for bo...",
@@ -1834,28 +1898,12 @@ news_feed (
          "title" : "17-year old Nodirbek Abdusattorov is the new Rapid World Champion"
       },
       {
-         "description" : "Nona Gaprindashvili wrote referring to Milunka Lazarevic: \"A literary person by profession, lively and impressionable, Lazarevic is one of the brightest figures in women's chess of the sixties\". Milunka attracted attention by her exciting, uncompromising style: sacrificing pawns and pieces and despising draws, which made her famous and endeared her to chess audiences! | Pictured: Lazarevic, Tengiz Giorgadze and Gaprindashvili (National Parliamentary Library of Georgia)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/milunka-lazarevic-female-tal-part-1",
-         "pubDate" : "Tue, 28 Dec 2021 20:00:00 +0100",
-         "title" : "Milunka Lazarevi&#263, the female Tal"
-      },
-      {
          "description" : " <p class=\"lead\">Alexandra Kosteniuk is the undefeated 2021 Women's World Rapid Champion, followed by the 17-year-old Bibisara Assaubayeva, and the Russian GM Valentina Gunina. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51782207832_77e5e91e9b_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51782750252_06f4dc99cc_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51783544789_df7a173bac_k.jpg\" width=\"2048\" height=\"1429\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51784846403_287e8562c6_k.jpg\" widt",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/alexandra-kosteniuk-is-the-2021-womens-world-rapid-champion/",
          "pubDate" : "Tue, 28 Dec 2021 17:00:00 +0000",
          "title" : "Alexandra Kosteniuk is the 2021 Women's World Rapid Champion"
-      },
-      {
-         "description" : "The 2022 Candidates Tournament, which will produce the challenger for the next world chess championship match, will take place in June 2022 in Madrid, Spain. As the organising sponsor of this prestigious tournament, Chess.com signed an agreement on Monday with governing body FIDE and the Scheinberg family, patrons of the event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-2022-in-madrid",
-         "pubDate" : "Tue, 28 Dec 2021 17:15:00 +0100",
-         "title" : "Candidates 2022 in Madrid"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1674c576-f50d-40d2-8a23-b8459a6b97dc/Ben2.jpg\" data-image-dimensions=\"232x348\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61cb160b50c1a50427d290aa\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1674c576-f50d-40d2-8a23-b8459a6b97dc/Ben2.jpg?format=1000w\" /> </figure> <p class=\"\">On this holiday week, with The Perpetual Chess Podcast having recently turned 5 years old, it seemed like an appropriate time to feature myself as \"the guest\" on Perpetual Chess. In ",
@@ -1944,30 +1992,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-bharathakoti-holds-paravyan-in-world-rapid-chess-championship/articleshow/88528925.cms",
          "pubDate" : "Mon, 27 Dec 2021 21:43:38 +0530",
          "title" : "Indian GM Bharathakoti holds Paravyan in World Rapid Chess Championship"
-      },
-      {
-         "description" : " Watch Day Two of the Rapid Championship Live: <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/t5dfMJIg-VQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/rapid-championship-day-2-live/",
-         "pubDate" : "Mon, 27 Dec 2021 14:10:10 +0000",
-         "title" : "Rapid Championship: Day 2 Live"
-      },
-      {
-         "description" : "The Israel open championship was held on December 8-16 2021 in the old northern city of Tzfat (Safed) by the Israel chess federation, under the auspices of the local municipality and Mifal Hapais (the national lottery). 102 players, including 9 GMs and 9 IMs competed in 9 Swiss rounds&#160; for the top honours as well as for the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/tamir-nabaty-wins-the-israel-open-championship-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/tamir-nabaty-wins-the-israel-open-championship-2021/",
-         "pubDate" : "Mon, 27 Dec 2021 11:56:36 +0000",
-         "title" : "Tamir Nabaty wins the Israel open championship 2021"
-      },
-      {
-         "description" : " <p class=\"lead\">The World Rapid Chess Championship is supposed to be all about managing time because it tests players' ability to play well in time trouble. In Rapid, each player has only 15 minutes plus 10-second increment. Ideally, the same applies to the organizers. In 2021, not so much. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/74E53220-186D-4485-8479-DCD7B6199CD2.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Rapid Championship playing hall in Warsaw, Poland. Spectators are able to watch from the mezzanine. Photo: Mark Livschitz, FIDE</div> </div> Maxime Vachier-Lagrave, one of the world's strongest players, voiced a rare comp",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/rapid-championship-runs-low-on-time-management-and-water/",
-         "pubDate" : "Mon, 27 Dec 2021 09:18:11 +0000",
-         "title" : "Rapid Championship Runs Low on Time Management (and Water)"
       }
    ]
 }
