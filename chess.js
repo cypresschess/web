@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1525",
+         "pubDate" : "Sun, 16 Jan 2022 22:42:08 +0000",
+         "title" : "Tata Steel Masters: Magnus Carlsen join leaders"
+      },
+      {
          "description" : " <p class=\"lead\">Day 2 of the 2022 Tata Steel Chess Tournament finished in a glorious way for the World Champion and the Hungarian GM Richard Rapport, who won GM Anish Giri, and the defending Tata Steel Champion GM Jorden van Foreest respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.5608740894901\"> <img src=\"https://worldchess.com/news/pictures/LOW09319.jpg\" width=\"1500\" height=\"961\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW09314.jpg\" width=\"1500\" height=\"857\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW09276.jpg\" width=\"1500\" height=\"921\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW09255-640x4",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -10,12 +18,28 @@ news_feed (
          "title" : "Carlsen and Rapport the winners of R2 of the 2022 Tata Steel Chess Tournament"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> PogChamps 3 contestant NeekoLul puts $100 on the line... Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> Played on lichess.org<br /> #chess #neekolul #arcg3 Harrison Keyser vs. Arush Rao, 2021<br /> <a href=\"https://lichess.org/AdwHOg8k\">https://lichess.org/AdwHOg8k</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapp",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/she-bet-100-i-wouldnt-win",
+         "pubDate" : "Sun, 16 Jan 2022 20:05:18 +0000",
+         "title" : "She Bet $100 I Wouldn't Win..."
+      },
+      {
          "description" : "Years ago the great Mikhail Tal pithily expounded a critical aspect of all out attacking chess, noting that it is only possible to capture one piece at a time. In full battle cry, Tal's instinct was not to retreat attacked pieces, especially minor pieces - but to pour more oil on the fire by putting further units en prise! Jonathan Speelman explores this theme using games by Tal and Fischer, as well as more recent examples. | Pictured: Fischer and Tal in Zurich, 1959 / Photo via skaksogufelagid.is",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/speelman-agony-162",
          "pubDate" : "Sun, 16 Jan 2022 18:15:00 +0100",
          "title" : "Bring your own bottle and fork"
+      },
+      {
+         "description" : " The second round of the 84th Tata Steel Masters in Wijk aan Zee only saw two decisive games but it could have been more and there were several striking games. Magnus Carlsen beat Anish Giri in a sharp Catalan where he was able to set problems the Dutchman couldn't deal with almost straight after the opening phase. Richard Rapport defeated Jorden van Foreest in a game where he got a small edge which led to pressure and a decisive error in the endgame. Shakhriyar Mamedyarov played a strikingly aggressive game against Andrey Esipenko but eventually they just called a stop to it and agreed a draw. The remaining games were drawn with Sam Shankland missing a number of opportunities to put his opp",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/wins-for-carlsen-and-rapport-in-tata-steel-masters-round-2",
+         "pubDate" : "Sun, 16 Jan 2022 21:09:00 +0400",
+         "title" : "Wins for Carlsen and Rapport in Tata Steel Masters Round 2 - 2"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 62nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to look at examples of light-square strategy. | Photo: Tommy Grooten",
@@ -936,14 +960,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-perfect-start",
          "pubDate" : "Sat, 08 Jan 2022 09:00:00 +0100",
          "title" : "The perfect start"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev shows two games from the end of 2021 at the Grand Swiss in Riga and Tata Steel Rapid &amp; Blitz. The mysterious masked Atanas focuses on the activity of the pieces. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superior-piece-activity-new-year-grandmasters-choice-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mH5YIGs8ePw.jpg?itok=iqWY8",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/superior-piece-activity-new-year-grandmasters-choice-gm-atanas-kolev",
-         "pubDate" : "Sat, 08 Jan 2022 04:57:50 +0000",
-         "title" : "Superior Piece Activity for the New Year | Grandmaster's Choice - GM Atanas Kolev"
       },
       {
          "description" : "",
@@ -1944,14 +1960,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/world-rapid-chess-championship-day-1-duda-calsen-jobava-share-lead",
          "pubDate" : "Sun, 26 Dec 2021 16:53:00 -0800",
          "title" : "World Rapid Chess Championship Day 1: Duda, Carlsen, Jobava Share Lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1501",
-         "pubDate" : "Mon, 27 Dec 2021 00:00:18 +0000",
-         "title" : "FIDE World Rapid and Blitz Chess Championships: Day 1 Recap"
       }
    ]
 }
