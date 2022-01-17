@@ -1952,14 +1952,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/rapid-championship-runs-low-on-time-management-and-water/",
          "pubDate" : "Mon, 27 Dec 2021 09:18:11 +0000",
          "title" : "Rapid Championship Runs Low on Time Management (and Water)"
-      },
-      {
-         "description" : "Magnus Carlsen's bid to defend his World Rapid Championship title got off to a good start as he opened with 4.5/5 on Day 1 in Warsaw. That score was matched by local hero Jan-Krzysztof Duda and maverick Baadur Jobava, who drew a rollercoaster game in Round 5. The 13-player group just half a point behind includes 53-year-old Boris Gelfand as well as teenagers Nodirbek Abdusattorov (who beat Fabiano Caruana), Hans Niemann and Alireza Firouzja. Alexandra Kosteniuk and Valentina Gunina have a perfect 4/4 in the women's event.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/world-rapid-blitz-1-carlsen-duda-jobava-lead",
-         "pubDate" : "Mon, 27 Dec 2021 03:02:34 +0000",
-         "title" : "World Rapid Day 1: Carlsen, Duda & Jobava lead"
       }
    ]
 }
