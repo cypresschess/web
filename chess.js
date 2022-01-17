@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Beginners often learn that a rook is roughly two pawn units better than a bishop. But that does not mean that it is always easy to convert an endgame rook vs bishop into a win. In the Endgame Magic Show #178 Karsten M&uuml;ller and Arne K&auml;hler present a classic example of rook vs bishop to illustrate some principles of this important and instructive endgame. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-178-rook-vs-bishop",
+         "pubDate" : "Mon, 17 Jan 2022 18:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic Show #178: Rook vs bishop"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88957582.cms\" />The ongoing Tata Steel Chess tournament has been embroiled in an unnecessary controversy after the event's broadcaster has invited Norway's most infamous bank robber, David Toska as a guest for a show.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -34,12 +42,12 @@ news_feed (
          "title" : "Tata Steel Chess: Interviews"
       },
       {
-         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "description" : "After beating Daniil Dubov in a sharp struggle, Vidit Gujrathi grabed the sole lead at the Tata Steel Masters tournament. Going into round 4, no fewer than five players stand a half point behind the leader, though, with Jorden van Foreest, Richard Rapport and Andrey Esipenko joining the chasing pack thanks to victories in Monday's third round. | Replay the games with computer analysis. Full report to follow shortly! | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
          "pubDate" : "Mon, 17 Jan 2022 13:45:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
+         "title" : "Tata Steel Chess - Vidit leads"
       },
       {
          "description" : "Norway's most infamous bank robber, known as the mastermind behind the biggest heist in the country's history, will join as a guest during TV 2's Tata Steel Chess broadcast. The controversial move has made headlines and provoked strong reactions. Hours after the announcement, one sponsor decided to pull out of the show.",
@@ -106,12 +114,12 @@ news_feed (
          "title" : "Playing Perfectly Against the Danish Gambit"
       },
       {
-         "description" : "Our coverage of the third round of the 2022 Tata Steel Chess Tournament is underway. GM Magnus Carlsen plays his first classical event since he retained his world championship title in November and is currently in a tie for first place. How to w...",
+         "description" : "GM Vidit Gujrathi is the sole leader at the Tata Steel Chess Tournament after defending brilliantly against GM Daniil Dubov, who played creatively but eventually over-pressed. Co-leaders Jan-Krzysztof Duda and&#38;nbsp;GM Magnus Carlsen drew, while GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/how-to-watch-tata-steel-chess-2022-round-3",
+         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-3",
          "pubDate" : "Sun, 16 Jan 2022 17:00:00 -0800",
-         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 3"
+         "title" : "Tata Steel Chess R3: Vidit Defends Brilliantly To Grab Sole Lead"
       },
       {
          "description" : "",
@@ -1850,14 +1858,6 @@ news_feed (
          "title" : "European Youth Rapid Chess Champions 2021 announced"
       },
       {
-         "description" : "The new ChessBase Magazine #205 offers a variety of high-class annotated games, with a focus on the FIDE Grand Swiss 2021. Besides the winner Alireza Firouzja, Nils Grandelus, Grigoriy Oparin, Alexandr Predke, Ivan Saric, Krishnan Sasikiran, Samuel Sevian, Nikita Vitiugov and Yu Yangyi comment on their best games. The young Russian GM Oparin earned a ticket for the upcoming Grand Prix series with third place (equal on points with Fabiano Caruana). His win with the black pieces against compatriot Vitiugov is \"The Analysis\" of the new issue. Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/11-kd7-the-turning-point",
-         "pubDate" : "Wed, 29 Dec 2021 09:00:00 +0100",
-         "title" : "\"11..Kd7! - the turning point\""
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88558967.cms\" />Defending champion Koneru Humpy failed to live up to her billing, finishing sixth with 7.5 points in the women's section of the FIDE World Rapid Chess Championship 2021 here.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1984,14 +1984,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/world-rapid-chess-championship-day-2-carlsen-and-kosteniuk-surge-ahead",
          "pubDate" : "Mon, 27 Dec 2021 14:14:00 -0800",
          "title" : "World Rapid Chess Championship Day 2: Carlsen and Kosteniuk Surge Ahead"
-      },
-      {
-         "description" : " <p class=\"lead\">The second day of the <a href=\"https://worldrapidandblitz.fide.com\">2021 World Rapid and Blitz Championships</a>, one of the most elite events to determine the world's best players in fast time-controls, ended with Magnus Carlsen taking the sole lead, half a point ahead of everyone else (7.5/9). <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51779628284_eeffd431de_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51779627879_fada4cfe1f_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51779588656",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/magnus-carlsen-is-sole-leader-before-the-final-day-of-the-2021-w/",
-         "pubDate" : "Mon, 27 Dec 2021 19:30:51 +0000",
-         "title" : "Carlsen is the Sole Leader Before The Final Day of The 2021 Open World Rapid Championship"
       }
    ]
 }
