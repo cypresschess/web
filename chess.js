@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European School Chess Championship 2022 will take place from 20 April (arrival day) to 30 April (departure day) in 5 stars &#8220;Rodos Palace&#8221; conference resort, located in Rhodes island, Greece. The European School Chess Championships are part of the \"Rhodes Chess Festival 2022\", together with the Rhodes Spring Open (also 20 30 April 2022) and the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2022-official-invitation/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-school-chess-championship-2022-official-invitation/",
+         "pubDate" : "Mon, 17 Jan 2022 07:56:56 +0000",
+         "title" : "European School Chess Championship 2022 - Official invitation"
+      },
+      {
+         "description" : "Magnus Carlsen finished in style to win his first ever game against Anish Giri in Wijk aan Zee, getting revenge for a loss on the final day of the World Blitz Championship. It was a bad day for the Dutch, as Jorden van Foreest also lost a tricky knight ending to Richard Rapport. The other Masters games, including the Karjakin-Dubov grudge match, were drawn, but Shakhriyar Mamedyarov's amazing 3.g4!? against Andrey Esipenko will live in the memory. 15-year-old Volodar Murzin leads the Challengers after beating compatriot Polina Shuvalova.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-2-carlsen-gets-giri-revenge",
+         "pubDate" : "Mon, 17 Jan 2022 05:48:53 +0000",
+         "title" : "Tata Steel 2: Carlsen gets Giri revenge"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser demonstrates how to crush your opponent when they play dubious openings. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> Played on lichess.org<br /> #chess #gambits #arcg3 2022.01.03<br /> Fritz_Adler vs. Harrison Keyser, 2021: C21 Danish gambit, Schlechter defence<br /> <a href=\"https://lichess.org/iDvGyIYx\">https://lichess.org/iDvGyIYx</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"fiel",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/playing-perfectly-against-danish-gambit",
+         "pubDate" : "Mon, 17 Jan 2022 05:05:27 +0000",
+         "title" : "Playing Perfectly Against the Danish Gambit"
+      },
+      {
          "description" : "The third round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Monday, January 17. This is the first classical chess tournament for GM Magnus Carlsen since he retained his world championship title in November. Don&#39;t miss ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -18,7 +42,7 @@ news_feed (
          "title" : "Tata Steel Masters: Magnus Carlsen join leaders"
       },
       {
-         "description" : " <p class=\"lead\">Day 2 of the 2022 Tata Steel Chess Tournament finished in a glorious way for the World Champion and the Hungarian GM Richard Rapport, who won GM Anish Giri, and the defending Tata Steel Champion GM Jorden van Foreest respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.5608740894901\"> <img src=\"https://worldchess.com/news/pictures/LOW09319.jpg\" width=\"1500\" height=\"961\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW09314.jpg\" width=\"1500\" height=\"857\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW09276.jpg\" width=\"1500\" height=\"921\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW09255-640x4",
+         "description" : " <p class=\"lead\">Day 2 of the <a href=\"https://tatasteelchess.com\">2022 Tata Steel Chess Tournament</a> finished in a glorious way for the World Champion and the Hungarian GM Richard Rapport, who won GM Anish Giri, and the defending Tata Steel Champion GM Jorden van Foreest respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.5608740894901\"> <img src=\"https://worldchess.com/news/pictures/LOW09319.jpg\" width=\"1500\" height=\"961\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW09314.jpg\" width=\"1500\" height=\"857\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW09276.jpg\" width=\"1500\" height=\"921\" alt=\"\" /> <img src=\"https://wo",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/carlsen-and-rapport-the-winners-of-r2-of-the-2022-tata-steel-che/",
@@ -696,14 +720,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/never-miss-a-check",
          "pubDate" : "Tue, 11 Jan 2022 09:00:00 +0100",
          "title" : "Never miss a check..."
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Harrison Keyser explains how he may not really exist while doing high-level chess tactics. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> #chess #tactics #analysis </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-player-does-not-exist\"><img src=\"https://saintlouischessclub.org/sites/default/fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-player-does-not-exist",
-         "pubDate" : "Mon, 10 Jan 2022 20:00:13 +0000",
-         "title" : "This Chess Player Does Not Exist."
       },
       {
          "description" : "Chess.com is happy to announce the release of Classroom! Classroom gives coaches and students a seamless, simple, all-in-one tool to help take their lessons to the next level. It also provides Chess.com members a streamlined way of connecting an...",
