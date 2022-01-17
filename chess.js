@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Monday, January 17. This is the first classical chess tournament for GM Magnus Carlsen since he retained his world championship title in November. Don&#39;t miss ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/how-to-watch-tata-steel-chess-2022-round-3",
+         "pubDate" : "Sun, 16 Jan 2022 17:00:00 -0800",
+         "title" : "How To Watch Tata Steel Chess 2022 Round 3"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1952,14 +1960,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/world-rapid-blitz-1-carlsen-duda-jobava-lead",
          "pubDate" : "Mon, 27 Dec 2021 03:02:34 +0000",
          "title" : "World Rapid Day 1: Carlsen, Duda & Jobava lead"
-      },
-      {
-         "description" : "GMs Jan-Krzysztof Duda, Magnus Carlsen, and Baadur Jobava share first place with 4.5/5 after day one of the World Rapid Chess Championship. The Polish number one, playing in his home country, started with a fantastic 4/4 perfect score, but his rou...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/world-rapid-chess-championship-day-1-duda-calsen-jobava-share-lead",
-         "pubDate" : "Sun, 26 Dec 2021 16:53:00 -0800",
-         "title" : "World Rapid Chess Championship Day 1: Duda, Carlsen, Jobava Share Lead"
       }
    ]
 }
