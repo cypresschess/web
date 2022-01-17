@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88957582.cms\" />The ongoing Tata Steel Chess tournament has been embroiled in an unnecessary controversy after the event's broadcaster has invited Norway's most infamous bank robber, David Toska as a guest for a show.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-hit-by-controversy-after-norways-infamous-robber-invited-as-guest/articleshow/88957582.cms",
+         "pubDate" : "Mon, 17 Jan 2022 21:14:25 +0530",
+         "title" : "Tata Steel chess hit by controversy after Norway's infamous robber invited as guest"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1984,14 +1992,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/magnus-carlsen-is-sole-leader-before-the-final-day-of-the-2021-w/",
          "pubDate" : "Mon, 27 Dec 2021 19:30:51 +0000",
          "title" : "Carlsen is the Sole Leader Before The Final Day of The 2021 Open World Rapid Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88528925.cms\" />Little-known Indian Grandmaster Harsha Bharathakoti continued his good run in the Rapid section of the FIDE World Rapid and Blitz Chess Championships here, holding higher-rated Russian GM David Paravyan to a draw in the sixth round on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-bharathakoti-holds-paravyan-in-world-rapid-chess-championship/articleshow/88528925.cms",
-         "pubDate" : "Mon, 27 Dec 2021 21:43:38 +0530",
-         "title" : "Indian GM Bharathakoti holds Paravyan in World Rapid Chess Championship"
       }
    ]
 }
