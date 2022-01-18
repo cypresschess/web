@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1529",
+         "pubDate" : "Tue, 18 Jan 2022 11:53:10 +0000",
+         "title" : "Call for submissions: FIDE Veterans Support Program 2022"
+      },
+      {
+         "description" : " &#8220;A dream becomes a goal when action is taken toward its achievement&#8221; Bo Bennett (businessman) A quick note: the previous week's puzzles was created by Kubbel in 1921. Some of you may say &#8220;Why are you looking at this one? It is a beginners' opening&#8220;. Here you are not wrong. Many beginners play it because <a href=\"https://chessimprover.com/need-sure-points-four-knights-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Four Knights Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-four-knights-edition/\">Need sure points? Four Knights Edition</a> appeared first on <a rel=\"nofollo",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-four-knights-edition/",
+         "pubDate" : "Tue, 18 Jan 2022 10:35:49 +0000",
+         "title" : "Need sure points? Four Knights Edition"
+      },
+      {
          "description" : " FIDE have just contacted member federations with the dates for the 2022 Olympiad (and Disabled Olympiad). The Olympiad is scheduled to run from the 25th July to the 8th August in Moscow. The Disabled Olympiad is scheduled to start on the 19th July and finish on the 26th July in Khanty-Mansiysk (Russia). This is just an initial announcement, and further details will no doubt follow in time. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2000,38 +2016,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-candidates-chess-tournament-madrid-fide-chesscom",
          "pubDate" : "Tue, 28 Dec 2021 05:33:00 -0800",
          "title" : "Candidates Tournament To Take Place June 2022 In Madrid Sponsored By Chess.com"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1503",
-         "pubDate" : "Tue, 28 Dec 2021 12:28:17 +0000",
-         "title" : "Candidates Tournament to take place in Madrid sponsored by Chess.com"
-      },
-      {
-         "description" : "World Chess Champion Magnus Carlsen goes into the final day of the World Rapid Chess Championship in Warsaw in the sole lead after defeating his young rivals Alireza Firouzja and Jan-Krzysztof Duda to reach 7.5/9. 17-year-old Nodirbek Abdusattorov beat Levon Aronian, Radoslaw Wojtaszek and Boris Gelfand to join Ian Nepomniachtchi and Alexander Grischuk in 2nd place, while Alexandra Kosteniuk is the runaway leader in the women's section with a stunning 7.5/8.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/world-rapid-day-2-magnus-beats-firouzja-duda",
-         "pubDate" : "Tue, 28 Dec 2021 10:31:15 +0000",
-         "title" : "World Rapid Day 2: Magnus beats Firouzja & Duda"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1482",
-         "pubDate" : "Tue, 28 Dec 2021 10:04:14 +0000",
-         "title" : "FIDE Congress 2021 schedule announced"
-      },
-      {
-         "description" : " &#8220;We wish you a merry Christmas We wish you a merry Christmas We wish you a merry Christmas And a happy New Year!&#8221; Christmas carol, Unknown A number of years ago a friend of mine was gifted below porcelain figure at Christmas: Anything chess related that reaches our group of friends, makes its way to <a href=\"https://chessimprover.com/a-christmas-puzzle/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Christmas Puzzle\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-christmas-puzzle/\">A Christmas Puzzle</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-christmas-puzzle/",
-         "pubDate" : "Tue, 28 Dec 2021 09:33:47 +0000",
-         "title" : "A Christmas Puzzle"
       }
    ]
 }
