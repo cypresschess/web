@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " FIDE have just contacted member federations with the dates for the 2022 Olympiad (and Disabled Olympiad). The Olympiad is scheduled to run from the 25th July to the 8th August in Moscow. The Disabled Olympiad is scheduled to start on the 19th July and finish on the 26th July in Khanty-Mansiysk (Russia). This is just an initial announcement, and further details will no doubt follow in time. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/2022-olympiad-dates-announced.html",
+         "pubDate" : "Tue, 18 Jan 2022 08:03:00 +0000",
+         "title" : "2022 Olympiad Dates announced"
+      },
+      {
+         "description" : "The duel knight against bishop is often full of fascinating possibilities. On first glance, the diagram position does not look particularly dangerous for White. But White's position is vulnerable, and with a cunning maneuver Black is able to exploit the hidden weaknesses in White's position. What would you do with Black?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/achilles-heel",
+         "pubDate" : "Tue, 18 Jan 2022 09:00:00 +0100",
+         "title" : "Achilles' heel"
+      },
+      {
+         "description" : "Jorden van Foreest demonstrated incredible defence before taking over and beating Daniil Dubov to take the sole lead on 2.5/3 after Round 3 of the 2022 Tata Steel Masters. Jorden's co-leaders at the start of the round, Jan-Krzysztof Duda and Magnus Carlsen, made a hard-fought draw, while Richard Rapport (vs. Nils Grandelius), Andrey Esipenko (vs. Sergey Karjakin) and Jorden van Foreest (vs. Praggnanandhaa) all won to join them on 2/3. Arjun Erigaisi and Thai Dai Van Nguyen joined Volodar Murzin in the Challengers lead.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-3-vidit-downs-dubov-to-take-sole-lead",
+         "pubDate" : "Tue, 18 Jan 2022 07:20:04 +0000",
+         "title" : "Tata Steel 3: Vidit downs Dubov to take sole lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88965576.cms\" />Indian Grandmaster Vidit Santhosh Gujrathi prevailed over Russia's Daniil Dubov in the third round to become the sole leader with 2.5 points in the prestigious Tata Steel Masters chess tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-masters-vidit-gujrathi-shoots-into-lead/articleshow/88965576.cms",
+         "pubDate" : "Tue, 18 Jan 2022 10:17:20 +0530",
+         "title" : "Tata Steel Chess Masters: Vidit Gujrathi shoots into lead"
+      },
+      {
          "description" : "The fourth round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Tuesday, January 18. This will be the first classical chess tournament for GM Magnus Carlsen since he retained his world championship title in November. Don&#39;...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -242,7 +274,7 @@ news_feed (
          "title" : "Streamers React to the Deplorable Dubov - Shakh Draw"
       },
       {
-         "description" : "Kind Attention all the participants of 1A to 5D undergone subject training. A detailed notification with scheduled final exam on 30th January 2022 was sent",
+         "description" : "Kind Attention all the participants of 1A to 6D undergone subject training. A detailed notification with scheduled final exam on 30th January 2022 was sent",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/aicfs-chess-for-everyone-project-national-arbiter-training-final-exam/",
@@ -1864,14 +1896,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/bengal-gm-mitrabha-guha-ends-as-second-best-indian-in-world-rapid-chess-meet/articleshow/88572808.cms",
          "pubDate" : "Wed, 29 Dec 2021 20:34:10 +0530",
          "title" : "Bengal GM Mitrabha Guha ends as second-best Indian in World Rapid meet"
-      },
-      {
-         "description" : "After a thrilling final day, Nodirbek Abdusattorov won the World Rapid Chess title in a photo finish. At the start of the day, the young Uzbek defeated Magnus Carlsen. After 13 rounds, four players were tied on points. Abdusattorov won the playoff against Ian Nepomniachzchi. | Photos: Rafał Oleksiewicz, Michał Walusza, Anna Shtourman (FIDE)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-and-blitz-2021-day-3",
-         "pubDate" : "Wed, 29 Dec 2021 15:15:00 +0100",
-         "title" : "Abdusattorov wins World Rapid Championship at 17!"
       },
       {
          "description" : "The tiebreak regulations at the World Rapid Chess Championship, which finished yesterday in Warsaw, Poland, are being heavily debated on social media. This report provides an overview of the different opinions being expressed online. The World R...",
