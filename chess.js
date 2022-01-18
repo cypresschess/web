@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1530",
+         "pubDate" : "Tue, 18 Jan 2022 19:12:56 +0000",
+         "title" : "Training on new developments in the chess regulations held online"
+      },
+      {
+         "description" : "During the Tata Steel Chess Tournament, the worlds of Artificial Intelligence and Chess will come together at a unique event called 'The Game Changer'. The event will take place online on Friday 21 January, starting at 15.30 CET. How is AI used in chess? Could Magnus Carlsen also have become world champion without the use of AI? And more importantly, how can the world of manufacturing adopt lessons learned in the world of chess?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/livestream-event-the-fascinating-world-of-ai",
+         "pubDate" : "Tue, 18 Jan 2022 20:00:00 +0100",
+         "title" : "Livestream event: The fascinating world of AI"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/69a69760-e0c0-4f22-af53-0d09249b758f/Kostya.jpg\" data-image-dimensions=\"1737x877\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61e6c8ab6285992a0accd110\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/69a69760-e0c0-4f22-af53-0d09249b758f/Kostya.jpg?format=1000w\" /> </figure> <p class=\"\">This week Perpetual Chess welcomes back IM Kostya Kavutskiy. Kostya is a respected trainer, a founder of the ChessDojo training platform, a YouTube creator, and a Chessable auth",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "EP 262- IM Kostya Kavutskiy returns "
       },
       {
-         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "description" : "Vidit Gujrathi kept the sole lead at the Tata Steel Masters going into the first rest day of the event, as round 4 saw 2 out of 7 games ending decisively. Praggnanandhaa inflicted Nils Grandelius' third defeat to bounce back to a fifty-percent score, while Shakhriyar Mamedyarov (pictured) got the better of Jan-Krzysztof Duda with the white pieces. | Replay all the games with computer analysis. Full report to follow shortly!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
          "pubDate" : "Tue, 18 Jan 2022 13:50:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
+         "title" : "Tata Steel Chess - Two decisive results"
       },
       {
          "description" : "After beating Daniil Dubov in a sharp struggle, Vidit Gujrathi grabed the sole lead at the Tata Steel Masters tournament. Going into round 4, no fewer than five players stand a half point behind the leader, though, with Jorden van Foreest, Richard Rapport and Andrey Esipenko joining the chasing pack thanks to victories in Monday's third round. | Photo: Lennart Ootes",
@@ -74,12 +90,12 @@ news_feed (
          "title" : "Tata Steel Chess Masters: Vidit Gujrathi shoots into lead"
       },
       {
-         "description" : "Our coverage of the fourth round of the 2022 Tata Steel Chess Tournament is underway. It is the last round before the first rest day and has some very interesting machtups. How to watch?You can follow the games of the Tata Steel Chess Tournament...",
+         "description" : "GM Vidit Gujrathi maintained his sole lead at the Tata Steel Chess Tournament going into the first rest day by drawing his game with GM Andrey Esipenko. GM Magnus Carlsen missed a chance to catch the leader after not going for a winning king walk ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-4",
          "pubDate" : "Mon, 17 Jan 2022 16:52:00 -0800",
-         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 4"
+         "title" : "Tata Steel Chess 2022 R4: Mamedyarov, Praggnanandhaa Score"
       },
       {
          "description" : "Season 3 of the Collegiate Chess League was the biggest season to date with over 80 schools from over a dozen countries fielding 160 teams across 10 divisions (over 1000 total students)! This is only a fraction of the number of schools and student...",
@@ -1890,14 +1906,6 @@ news_feed (
          "title" : "The 2022 Candidates Tournament to be held in Madrid"
       },
       {
-         "description" : "What a unique idea: decorate a Moscow metro train to convert it into a chess museum. Each of the five cars of this train is dedicated to different chess-related themes - game history, chess development in the Soviet Union and in Russia, VIP names in the world of chess, and, of course, the elegant chess pieces. In addition, the train displays noteworthy facts about chess in cinema, visual arts, theatre, literature, and in the life of celebrities. | Photos by Eteri Kublashvili",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-train-in-the-moscow-metro",
-         "pubDate" : "Wed, 29 Dec 2021 20:10:00 +0100",
-         "title" : "Chess train in the Moscow Metro"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1992,22 +2000,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1504",
          "pubDate" : "Tue, 28 Dec 2021 21:27:20 +0000",
          "title" : "Nodirbek Abdusattorov and Alexandra Kosteniuk win World Rapid Championship"
-      },
-      {
-         "description" : " <p class=\"lead\"><a href=\"https://worldrapidandblitz.fide.com\">The 2021 Open World Rapid Championship</a> ended with the 17-year-old Uzbeki GM, Nodirbek Abdusattorov, defeating the 2021 Challenger Ian Nepomniachtchi in the tiebreak, and taking the crown from the World Champion Magnus Carlsen. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.558599695586\"> <img src=\"https://worldchess.com/news/pictures/51782918308_7883c8d6b5_k.jpg\" width=\"2048\" height=\"1314\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51783022711_7ec04d58b6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51782917443_1a973fb427_k.jpg\" wi",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nodirbek-abdusattorov-is-world-rapid-chess-champion/",
-         "pubDate" : "Tue, 28 Dec 2021 20:24:04 +0000",
-         "title" : "17-year old Nodirbek Abdusattorov is the new Rapid World Champion"
-      },
-      {
-         "description" : " <p class=\"lead\">Alexandra Kosteniuk is the undefeated 2021 Women's World Rapid Champion, followed by the 17-year-old Bibisara Assaubayeva, and the Russian GM Valentina Gunina. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51782207832_77e5e91e9b_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51782750252_06f4dc99cc_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51783544789_df7a173bac_k.jpg\" width=\"2048\" height=\"1429\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51784846403_287e8562c6_k.jpg\" widt",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/alexandra-kosteniuk-is-the-2021-womens-world-rapid-champion/",
-         "pubDate" : "Tue, 28 Dec 2021 17:00:00 +0000",
-         "title" : "Alexandra Kosteniuk is the 2021 Women's World Rapid Champion"
       }
    ]
 }
