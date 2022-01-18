@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Season 3 of the Collegiate Chess League was the biggest season to date with over 80 schools from over a dozen countries fielding 160 teams across 10 divisions (over 1000 total students)! This is only a fraction of the number of schools and student...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-registration",
+         "pubDate" : "Mon, 17 Jan 2022 15:34:30 -0800",
+         "title" : "Collegiate Chess League Season 4 Registration"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1528",
+         "pubDate" : "Mon, 17 Jan 2022 22:28:41 +0000",
+         "title" : "Tata Steel Masters: Vidit shoots ahead"
+      },
+      {
+         "description" : " <p class=\"lead\">Day 3 of the <a href=\"https://tatasteelchess.com\">2022 Tata Steel Tournament</a> is over, and GM Vidit Santosh Gujrathi is leading with half a point after a fascinating match against GM Daniil Dubov. Esipenko, Van Foreest, and Rapport the other winners of Round 3. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.4031805425631\"> <img src=\"https://worldchess.com/news/pictures/LOW09748.jpg\" width=\"1500\" height=\"1069\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW09623.jpg\" width=\"1500\" height=\"989\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW09600.jpg\" width=\"1500\" height=\"798\" alt=\"\" /> <img src=\"https://worldche",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/4-decisive-games-on-r3-of-the-2022-tata-steel-tournament-vidit-t/",
+         "pubDate" : "Mon, 17 Jan 2022 21:32:02 +0000",
+         "title" : "4 decisive games on R3 of the 2022 Tata Steel Tournament, Vidit the sole leader"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1527",
+         "pubDate" : "Mon, 17 Jan 2022 20:47:56 +0000",
+         "title" : "New set of FIDE regulations comes into force"
+      },
+      {
          "description" : "Beginners often learn that a rook is roughly two pawn units better than a bishop. But that does not mean that it is always easy to convert an endgame rook vs bishop into a win. In the Endgame Magic Show #178 Karsten M&uuml;ller and Arne K&auml;hler present a classic example of rook vs bishop to illustrate some principles of this important and instructive endgame. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-178-rook-vs-bishop",
          "pubDate" : "Mon, 17 Jan 2022 18:00:00 +0100",
          "title" : "Karsten M&uuml;ller's Endgame Magic Show #178: Rook vs bishop"
+      },
+      {
+         "description" : " Vidit Gujrathi took the sole lead of the Tata Steel Masters with 2.5 points after a wild win against Daniil Dubov in the third round. Dubov played his full part in the excitement and over the board Vidit thought he must have been lost at one stage - but this assessment was probably incorrect as he found a lot of forced moves. Half a point behind there is a big group of players on two points, Both Magnus Carlsen and Jan-Krzysztof Duda after their draw, Andrey Esipenko after beating Sergey Karjakin, Richard Rapport after beating Nils Grandelius in a wild Sicilian and finally Jorden van Foreest who managed to inflict a nightmare pawn structure in an endgame against R Praggnanandhaa. Further de",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/vidit-leads-the-tata-steel-masters-after-three-rounds",
+         "pubDate" : "Mon, 17 Jan 2022 20:41:00 +0400",
+         "title" : "Vidit leads the Tata Steel Masters after three rounds - 3"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88957582.cms\" />The ongoing Tata Steel Chess tournament has been embroiled in an unnecessary controversy after the event's broadcaster has invited Norway's most infamous bank robber, David Toska as a guest for a show.",
@@ -42,7 +82,7 @@ news_feed (
          "title" : "Tata Steel Chess: Interviews"
       },
       {
-         "description" : "After beating Daniil Dubov in a sharp struggle, Vidit Gujrathi grabed the sole lead at the Tata Steel Masters tournament. Going into round 4, no fewer than five players stand a half point behind the leader, though, with Jorden van Foreest, Richard Rapport and Andrey Esipenko joining the chasing pack thanks to victories in Monday's third round. | Replay the games with computer analysis. Full report to follow shortly! | Photo: Lennart Ootes",
+         "description" : "After beating Daniil Dubov in a sharp struggle, Vidit Gujrathi grabbed the sole lead at the Tata Steel Masters tournament. Going into round 4, no fewer than five players stand a half point behind the leader, though, with Jorden van Foreest, Richard Rapport and Andrey Esipenko joining the chasing pack thanks to victories in Monday's third round. | Replay the games with computer analysis. Full report to follow shortly! | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
@@ -1960,30 +2000,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-christmas-puzzle/",
          "pubDate" : "Tue, 28 Dec 2021 09:33:47 +0000",
          "title" : "A Christmas Puzzle"
-      },
-      {
-         "description" : " 600 Modern Chess Puzzles : Martyn Kravtsiv Blurb from the publisher: &#8220;The easiest, quickest and most effective way to improve your overall game is to increase your tactical vision. Many good positions are lost because a key moment is passed by and a player misses the opportunity to win by a beautiful combination. This book is <a href=\"http://britishchessnews.com/2021/12/28/600-modern-chess-puzzles/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">600 Modern Chess Puzzles</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2021/12/28/600-modern-chess-puzzles/\">600 Modern Chess Puzzles</a> appeared first on <a",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/12/28/600-modern-chess-puzzles/",
-         "pubDate" : "Tue, 28 Dec 2021 00:10:48 +0000",
-         "title" : "600 Modern Chess Puzzles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1502",
-         "pubDate" : "Mon, 27 Dec 2021 23:01:54 +0000",
-         "title" : "FIDE World Rapid Chess Championships: Day 2 Recap"
-      },
-      {
-         "description" : "GM Magnus Carlsen finished the second day at the World Rapid Championship in sole first place with 7.5/9, notably defeating two young up-and-coming GMs: Alireza Firouzja and Jan-Krzysztof Duda. Carlsen is pursued by three GMs with 7/9: Nodirbek ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/world-rapid-chess-championship-day-2-carlsen-and-kosteniuk-surge-ahead",
-         "pubDate" : "Mon, 27 Dec 2021 14:14:00 -0800",
-         "title" : "World Rapid Chess Championship Day 2: Carlsen and Kosteniuk Surge Ahead"
       }
    ]
 }
