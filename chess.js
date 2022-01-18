@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/69a69760-e0c0-4f22-af53-0d09249b758f/Kostya.jpg\" data-image-dimensions=\"1737x877\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61e6c8ab6285992a0accd110\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/69a69760-e0c0-4f22-af53-0d09249b758f/Kostya.jpg?format=1000w\" /> </figure> <p class=\"\">This week Perpetual Chess welcomes back IM Kostya Kavutskiy. Kostya is a respected trainer, a founder of the ChessDojo training platform, a YouTube creator, and a Chessable auth",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/18/ep-262-im-kostya-kavutskiy-returns",
+         "pubDate" : "Tue, 18 Jan 2022 14:07:38 +0000",
+         "title" : "EP 262- IM Kostya Kavutskiy returns "
+      },
+      {
+         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
+         "pubDate" : "Tue, 18 Jan 2022 13:50:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "After beating Daniil Dubov in a sharp struggle, Vidit Gujrathi grabed the sole lead at the Tata Steel Masters tournament. Going into round 4, no fewer than five players stand a half point behind the leader, though, with Jorden van Foreest, Richard Rapport and Andrey Esipenko joining the chasing pack thanks to victories in Monday's third round. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r3",
+         "pubDate" : "Tue, 18 Jan 2022 13:30:00 +0100",
+         "title" : "Tata Steel R3: Vidit grabs the lead"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "Achilles' heel"
       },
       {
-         "description" : "Jorden van Foreest demonstrated incredible defence before taking over and beating Daniil Dubov to take the sole lead on 2.5/3 after Round 3 of the 2022 Tata Steel Masters. Jorden's co-leaders at the start of the round, Jan-Krzysztof Duda and Magnus Carlsen, made a hard-fought draw, while Richard Rapport (vs. Nils Grandelius), Andrey Esipenko (vs. Sergey Karjakin) and Jorden van Foreest (vs. Praggnanandhaa) all won to join them on 2/3. Arjun Erigaisi and Thai Dai Van Nguyen joined Volodar Murzin in the Challengers lead.",
+         "description" : "Vidit demonstrated incredible defence before taking over and beating Daniil Dubov to take the sole lead on 2.5/3 after Round 3 of the 2022 Tata Steel Masters. His co-leaders at the start of the round, Jan-Krzysztof Duda and Magnus Carlsen, made a hard-fought draw, while Richard Rapport (vs. Nils Grandelius), Andrey Esipenko (vs. Sergey Karjakin) and Jorden van Foreest (vs. Praggnanandhaa) all won to join them on 2/3. Arjun Erigaisi and Thai Dai Van Nguyen joined Volodar Murzin in the Challengers lead.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/tata-steel-3-vidit-downs-dubov-to-take-sole-lead",
@@ -50,12 +74,12 @@ news_feed (
          "title" : "Tata Steel Chess Masters: Vidit Gujrathi shoots into lead"
       },
       {
-         "description" : "The fourth round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Tuesday, January 18. This will be the first classical chess tournament for GM Magnus Carlsen since he retained his world championship title in November. Don&#39;...",
+         "description" : "Our coverage of the fourth round of the 2022 Tata Steel Chess Tournament is underway. It is the last round before the first rest day and has some very interesting machtups. How to watch?You can follow the games of the Tata Steel Chess Tournament...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-4",
          "pubDate" : "Mon, 17 Jan 2022 16:52:00 -0800",
-         "title" : "How To Watch Tata Steel Chess 2022 Round 4"
+         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 4"
       },
       {
          "description" : "Season 3 of the Collegiate Chess League was the biggest season to date with over 80 schools from over a dozen countries fielding 160 teams across 10 divisions (over 1000 total students)! This is only a fraction of the number of schools and student...",
@@ -136,14 +160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-interviews",
          "pubDate" : "Mon, 17 Jan 2022 13:50:07 +0100",
          "title" : "Tata Steel Chess: Interviews"
-      },
-      {
-         "description" : "After beating Daniil Dubov in a sharp struggle, Vidit Gujrathi grabbed the sole lead at the Tata Steel Masters tournament. Going into round 4, no fewer than five players stand a half point behind the leader, though, with Jorden van Foreest, Richard Rapport and Andrey Esipenko joining the chasing pack thanks to victories in Monday's third round. | Replay the games with computer analysis. Full report to follow shortly! | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
-         "pubDate" : "Mon, 17 Jan 2022 13:45:00 +0100",
-         "title" : "Tata Steel Chess - Vidit leads"
       },
       {
          "description" : "Norway's most infamous bank robber, known as the mastermind behind the biggest heist in the country's history, will join as a guest during TV 2's Tata Steel Chess broadcast. The controversial move has made headlines and provoked strong reactions. Hours after the announcement, one sponsor decided to pull out of the show.",
@@ -1890,14 +1906,6 @@ news_feed (
          "title" : "92nd FIDE General Assembly: results and decisions"
       },
       {
-         "description" : "This week, Merijn van Delft takes a looks at an unusual game by Boris Gelfand: at a certain point of time there were no less than four queens on the board! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-2",
-         "pubDate" : "Wed, 29 Dec 2021 19:00:00 +0100",
-         "title" : "Game of the Week #496: Four queens on the board"
-      },
-      {
          "description" : " <p class=\"lead\"><a href=\"https://worldrapidandblitz.fide.com\">The 2021 Open World Rapid Championship</a> ended with the 17-year-old GM Nodirbek Abdusattorov defeating the 2021 Challenger Ian Nepomniachtchi 1.5-0.5 in a playoff, although there was a quadruple tie on the first place. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51785258424_55c04f483b_k-min.jpg\" width=\"2048\" height=\"1363\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by: Michal Walusza (FIDE)</div> </div> The Uzbeki GM finished the tournament with 9.5/13, the same as Nepo, Carlsen, and Caruana. Due to the FIDE tiebreak rules though, only the top two players according to Sonnenborn-Berger points c",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2000,22 +2008,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/alexandra-kosteniuk-is-the-2021-womens-world-rapid-champion/",
          "pubDate" : "Tue, 28 Dec 2021 17:00:00 +0000",
          "title" : "Alexandra Kosteniuk is the 2021 Women's World Rapid Champion"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1674c576-f50d-40d2-8a23-b8459a6b97dc/Ben2.jpg\" data-image-dimensions=\"232x348\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61cb160b50c1a50427d290aa\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1674c576-f50d-40d2-8a23-b8459a6b97dc/Ben2.jpg?format=1000w\" /> </figure> <p class=\"\">On this holiday week, with The Perpetual Chess Podcast having recently turned 5 years old, it seemed like an appropriate time to feature myself as \"the guest\" on Perpetual Chess. In ",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2021/12/28/ep-259-ben-johnson",
-         "pubDate" : "Tue, 28 Dec 2021 13:54:52 +0000",
-         "title" : "EP 259- Ben Johnson"
-      },
-      {
-         "description" : "Palo Alto, Calif., Dec. 28, 2021&#38;mdash;The 2022 Candidates Tournament, which will produce the challenger for the next world chess championship match, will take place in June 2022 in Madrid, Spain. As the organizing sponsor of this prestigious tour...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-candidates-chess-tournament-madrid-fide-chesscom",
-         "pubDate" : "Tue, 28 Dec 2021 05:33:00 -0800",
-         "title" : "Candidates Tournament To Take Place June 2022 In Madrid Sponsored By Chess.com"
       }
    ]
 }
