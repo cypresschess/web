@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Tuesday, January 18. This will be the first classical chess tournament for GM Magnus Carlsen since he retained his world championship title in November. Don&#39;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-4",
+         "pubDate" : "Mon, 17 Jan 2022 16:52:00 -0800",
+         "title" : "How To Watch Tata Steel Chess 2022 Round 4"
+      },
+      {
          "description" : "Season 3 of the Collegiate Chess League was the biggest season to date with over 80 schools from over a dozen countries fielding 160 teams across 10 divisions (over 1000 total students)! This is only a fraction of the number of schools and student...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
