@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The International Chess Federation has declared 2022 the Year of the Woman in Chess. According to the FIDE Women's Commision, this is a chance to take a leap forward in their mission of forming gender equity policies, practices and programs. | Pictured: Eva Repkova / Chair of FIDE Women's Commission",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-year-of-the-woman-in-chess-2022",
+         "pubDate" : "Wed, 19 Jan 2022 23:00:00 +0100",
+         "title" : "FIDE declares 2022 the year of the woman in chess"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1768,14 +1776,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/12/31/brewington-hardaway-continues-to-climb/",
          "pubDate" : "Fri, 31 Dec 2021 18:59:03 +0000",
          "title" : "Brewington Hardaway continues to climb!"
-      },
-      {
-         "description" : "On the last day of 2021, GM Daniel King looks at games from the World Blitz Championship, including two fascinating King's Gambits played by Ian Nepomniachtchi and a fabulous queen sacrifice by Levon Aronian. Happy New Year! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-nepo-plays-the-kings-gambit",
-         "pubDate" : "Fri, 31 Dec 2021 19:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Nepo plays the King's Gambit"
       },
       {
          "description" : " I hope you all had a wonderful holiday season. It's now time to start the new year, which will hopefully, bring us all some much needed relief! This week, we're going to look at a tactic called the skewer which is a close cousin to the pin. This will be an easy lesson because the <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-seven/\">A Foundation for Beginners Forty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess ",
