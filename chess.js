@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"It was special for me to present my journey with 1Kind [Crypto portal] in a series of NFTs that traced my life from childhood through my ever-busy 'retirement,'\" writes Garry Kasparov. \"The project was all the more meaningful for me because 10% of the proceeds will go toward setting up a scholarship fund at the Kasparov Chess Foundation, dedicated to my late mother Klara, that will support all the great talents raised by single mothers like her.\" Read his interview in CoinDesk.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kasparov-and-nft-3",
+         "pubDate" : "Wed, 19 Jan 2022 17:10:00 +0100",
+         "title" : "Kasparov and NFT"
+      },
+      {
          "description" : "A core of chess is the correct prophylaxis. That doesn't mean, that we have to brush our teeth twice a day, since I hope we all do this any way. But, as I heard Yasser Seirawan once say:\"I tend to play a conscious move, before my opponent plays the threat\". Svitlana shows us the smartest moves in difficult situations, and explains how to approach a rough position like this.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1792,14 +1800,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/iniyan-finishes-third-in-lorca-open-chess/articleshow/88616354.cms",
          "pubDate" : "Fri, 31 Dec 2021 17:25:58 +0530",
          "title" : "Iniyan finishes third in Lorca Open chess"
-      },
-      {
-         "description" : "Duplex problems are loosely defined as satisfying the same stipulation with the colours reversed, and are typically found in helpmates. In this article, Azlan Iqbal expounds on the much rarer variety that applies to direct mates. Using incidental examples taken from his computer-generated chess problem collection and a couple by human composers, he challenges readers to compose some of their own. For starters you can try to solve the problem shown in our picture. Both White and Black can mate in five, if they have the first move.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/introducing-mutual-mate-problems-2",
-         "pubDate" : "Fri, 31 Dec 2021 12:00:00 +0100",
-         "title" : "Introducing 'Mutual Mate' Problems"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88610273.cms\" />India's top player Koneru Humpy finished fifth in the women's event of the FIDE World Blitz championship while her compatriot R Vaishali, who was in second spot after nine rounds, slipped to 14th here.",
