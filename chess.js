@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 chess rating. 2022.01.18 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shakh-ing-move-g4-queens-gambit-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6SuFi9dijPI.jpg?itok=JshFRl3e\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shakh-ing-move-g4-queens-gambit-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Tue, 18 Jan 2022 23:07:14 +0000",
+         "title" : "The \"Shakh-ing\" Move g4 in the Queen's Gambit | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1531",
+         "pubDate" : "Tue, 18 Jan 2022 22:46:51 +0000",
+         "title" : "Tata Steel Masters: Mamedyarov and Praggnanandha win"
+      },
+      {
+         "description" : "Chess.com is partnering with Envy to support the Botez Sisters on their new adventures as they move into the Los Angeles Envy Content House. The sisters will share their roof with other star creators&#38;mdash;former PogChamps participants JustaMinx a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-sponsors-botez-envy-content-house",
+         "pubDate" : "Tue, 18 Jan 2022 13:00:00 -0800",
+         "title" : "Chess.com Partners With Envy To Support Botez Sisters At New Envy Content House"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/livestream-event-the-fascinating-world-of-ai",
          "pubDate" : "Tue, 18 Jan 2022 20:00:00 +0100",
          "title" : "Livestream event: The fascinating world of AI"
+      },
+      {
+         "description" : " Vidit Gujrathi leads the Tata Steel Masters going into the first rest day with a scored of three points from four rounds. Today Vidit drew against Andrey Esipenko but this wasn't his best day and he was no doubt happy to draw on move 32. There were two decisive games; Shakhriyar Mamedyarov turned round a lost position to beat Jan-Krzysztof Duda when the latter needed more time than he had to play a tricky endgame on the run up to move 40. R Praggnanandhaa had a fairly smooth positional win against Nils Grandelius in an Exchange Gruenfeld. Magnus Carlsen drew a messy game against Jorden Van Foreest where the latter's decision to go for complications paid off even if the computers said he was",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/vidit-leads-the-tata-steel-masters-on-three-points-after-four-rounds",
+         "pubDate" : "Tue, 18 Jan 2022 22:31:00 +0400",
+         "title" : "Vidit leads the Tata Steel Masters on three points after four rounds - 4"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/69a69760-e0c0-4f22-af53-0d09249b758f/Kostya.jpg\" data-image-dimensions=\"1737x877\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61e6c8ab6285992a0accd110\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/69a69760-e0c0-4f22-af53-0d09249b758f/Kostya.jpg?format=1000w\" /> </figure> <p class=\"\">This week Perpetual Chess welcomes back IM Kostya Kavutskiy. Kostya is a respected trainer, a founder of the ChessDojo training platform, a YouTube creator, and a Chessable auth",
@@ -848,14 +880,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1519",
          "pubDate" : "Tue, 11 Jan 2022 20:54:18 +0000",
          "title" : "Enamul Hossain and Jannatul Ferdous win Bangladesh Championship"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev teaches a chess endgame class. 2022.01.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/insane-endgame-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/I_-mhU2pDwg.jpg?itok=-8WLWb5O\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/insane-endgame-gm-atanas-kolev",
-         "pubDate" : "Tue, 11 Jan 2022 20:01:05 +0000",
-         "title" : "Insane in the Endgame - GM Atanas Kolev"
       },
       {
          "description" : "In his \"Weekly Show\" Lawrence Trent takes a look at the Vergani Cup, focusing on the performance of Nurgyul Salimova who scored a GM norm. A fantastic performance by the Bulgarian youngster! The game of the day is Nigel Short's encounter with Salimova. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
@@ -1976,30 +2000,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/world-rapid-chess-championship-day-3-abdusattorov-and-kosteniuk-crowned-world-rapid-champions",
          "pubDate" : "Tue, 28 Dec 2021 18:31:00 -0800",
          "title" : "World Rapid Chess Championship Day 3: Abdusattorov and Kosteniuk Crowned World Rapid Champions"
-      },
-      {
-         "description" : "17-year-old Nodirbek Abdusattorov sensationally won the World Rapid Chess Championship on Tuesday after a dramatic final day in Warsaw, Poland, which saw four players top the standings with 9.5 points after 13 rounds. Afterwards Magnus Carlsen, who along with Fabiano Caruana missed out on a playoff due to worse tiebreaks, lashed out at FIDE for what he called \"completely idiotic\" tiebreak rules.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-lashes-out-against-fide-for-completely-idiotic-tiebreak-rule",
-         "pubDate" : "Wed, 29 Dec 2021 00:12:32 +0000",
-         "title" : "Carlsen lashes out at \"completely idiotic\" tiebreak rules"
-      },
-      {
-         "description" : " The 2021 FIDE General Assembly was held last night (starting at midnight my time), and the Papua New Guinea Chess Federation had 2 important motions on the agenda. That was until I logged into the voting system to discover that our 2 motions had been listed as a single motion for voting purposes. This was of course done without the knowledge of the PNGCF and attempts to get it fixed were unsuccessful. The main issue with this (apart from arbitrarily changing properly submitted motions) was that both motions had different chances of success. While we expected one motion to be defeated, we had high hopes that the second would be passed. And I was planning to make this point when called upon t",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/things-that-went-poorly.html",
-         "pubDate" : "Tue, 28 Dec 2021 22:10:00 +0000",
-         "title" : "Things that went poorly"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1504",
-         "pubDate" : "Tue, 28 Dec 2021 21:27:20 +0000",
-         "title" : "Nodirbek Abdusattorov and Alexandra Kosteniuk win World Rapid Championship"
       }
    ]
 }
