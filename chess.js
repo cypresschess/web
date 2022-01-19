@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " This evening (8pm UK time) there will be another Tiger Chess themed Training tournament in a Burn-Rubinstein line of the French Defence, from the position arising after 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Nbd7. The goal is to get lots of experience in a particular position type with this position being a <a href=\"https://chessimprover.com/more-themed-training-tournaments/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"More Themed Training Tournaments\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/more-themed-training-tournaments/\">More Themed Training Tournaments</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">T",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/more-themed-training-tournaments/",
+         "pubDate" : "Wed, 19 Jan 2022 10:30:23 +0000",
+         "title" : "More Themed Training Tournaments"
+      },
+      {
          "description" : "Keeping the AICF's motto of chess development every nook and corner of the country, All India Chess Federation is organizing five FIDE Trainers' Seminar as",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1992,22 +2000,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/abdusattorov-kosteniuk-win-world-rapid-gold",
          "pubDate" : "Wed, 29 Dec 2021 13:00:00 +0000",
          "title" : "Abdusattorov & Kosteniuk win World Rapid gold"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1505",
-         "pubDate" : "Wed, 29 Dec 2021 10:39:37 +0000",
-         "title" : "Candidates play-off introduced"
-      },
-      {
-         "description" : "European Youth Rapid&#38;Blitz Chess Championships 2021 currently are ongoing in Novi Sad, Serbia. The 2021 European Youth Rapid Chess Championship took place from 27th-28th of December, being played in 6 age categories, open and girls separately. The President of Serbian Chess Federation Mr. Dragan Lazic and Vojvodina Province secretary for Youth and Sports Mr. Dane Basta made the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-rapid-chess-champions-2021-announced/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-rapid-chess-champions-2021-announced/",
-         "pubDate" : "Wed, 29 Dec 2021 10:34:53 +0000",
-         "title" : "European Youth Rapid Chess Champions 2021 announced"
       }
    ]
 }
