@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2022-01-15  - 01-16","54","<a href=http://www.uschess.org/msa/XtblMain.php?202201169062 target=' blank'>$4,000 HOUSTON CHESS STUDIO OPEN</a>",
 "HOUSTON","2022-01-15","44","<a href=http://www.uschess.org/msa/XtblMain.php?202201157612 target=' blank'>WHARTON ACADEMY SCHOLASTIC</a>",
 "SPRING","2022-01-14","22","<a href=http://www.uschess.org/msa/XtblMain.php?202201148062 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-01-14","8","<a href=http://www.uschess.org/msa/XtblMain.php?202201147822 target=' blank'>FBCC01142022</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2021-02-19","30","<a href=http://www.uschess.org/msa/XtblMain.php?202102193922 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "KATY","2021-02-13","16","<a href=http://www.uschess.org/msa/XtblMain.php?202102132612 target=' blank'>SR CHESSKNIGHTS 02132021</a>",
 "SPRING","2021-02-13","10","<a href=http://www.uschess.org/msa/XtblMain.php?202102132542 target=' blank'>THE SATURDAY KNIGHTS</a>",
-"SPRING","2021-02-12","31","<a href=http://www.uschess.org/msa/XtblMain.php?202102122232 target=' blank'>THE FRIDAY KNIGHTS</a>",
 ]);
