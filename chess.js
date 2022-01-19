@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev analyzes games that liquidated immediately from the opening. The mysterious masked Atanas has no time for the middlegame! 2022.01.18<br /> B10 Caro-Kann defence<br /> Erwin L&#039;Ami vs Anton Smirnov, Tata Steel Challengers (2020): D11 Queen&#039;s Gambit Declined Slav, 4.e3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1990211\">https://www.chessgames.com/perl/chessgame?gid=1990211</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "description" : " <p class=\"lead\">Day 4 of the 2022 Tata Steel Chess Tournament came like a storm before the rest day. GM Vidit Santosh Gujrathi remains the sole leader after his draw with GM Andrey Esipenko, while the World Champion lost his chance to win against the reigning Tata Steel Champion, Jorden Van Foreest. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.4985014985015\"> <img src=\"https://worldchess.com/news/pictures/LOW00063.jpg\" width=\"1500\" height=\"1001\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW00052.jpg\" width=\"1500\" height=\"888\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW00025.jpg\" width=\"1500\" height=\"1001\" alt=\"\" /> <img ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/tata-steel-2022-round-4-vidit-remains-the-sole-leader-carlsen-mi/",
+         "pubDate" : "Wed, 19 Jan 2022 08:15:58 +0000",
+         "title" : "Tata Steel 2022 Round 4: Vidit remains the sole leader, Carlsen missed a win"
+      },
+      {
+         "description" : "Keeping the AICF's motto of chess development every nook and corner of the country, All India Chess Federation is organizing five FIDE Arbiters' Seminar as",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-arbiter-seminars/",
+         "pubDate" : "Wed, 19 Jan 2022 07:58:22 +0000",
+         "title" : "FIDE ARBITER SEMINARS"
+      },
+      {
+         "description" : "Vidit continues as the sole leader of the Tata Steel Masters on Wednesday's rest day after drawing against Andrey Esipenko in Round 4 while Magnus Carlsen missed a chance to beat Jorden van Foreest in a fantastic fight. The players moving up were Shakhriyar Mamedyarov, who came back from the dead to take down Jan-Krzysztof Duda, and 16-year-old Praggnanandhaa, who did what Magnus failed to do on his top group debut in 2007 and won a game, against Nils Grandelius. It was a good day for India as Arjun Erigaisi won a 3rd game in a row to take the sole lead in the Challengers.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-4-praggnanandhaa-mamedyarov-strike",
+         "pubDate" : "Wed, 19 Jan 2022 07:19:28 +0000",
+         "title" : "Tata Steel 4: Praggnanandhaa & Mamedyarov strike"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88987669.cms\" />Indian Grandmaster Vidit Santhosh Gujrathi settled for a draw against Russia's Andrey Esipenko in the fourth round to stay in the lead with three points in the prestigious Tata Steel Masters chess tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-vidit-gujrathi-keeps-lead-in-tata-steel-masters-r-praggnanandhaa-posts-first-win/articleshow/88987669.cms",
+         "pubDate" : "Wed, 19 Jan 2022 10:13:12 +0530",
+         "title" : "Vidit Gujrathi stays in lead in Tata Steel Masters"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev analyzes games that liquidated immediately from the opening. The mysterious masked Atanas has no time for the middlegame! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-endgame-insane-endgame-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aSJf7DggP8Q.jpg?itok=N-vyysyq\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/opening-endgame-insane-endgame-gm-atanas-kolev",
@@ -1434,14 +1466,6 @@ news_feed (
          "title" : "Statistics and numbers: The World Chess Championship in 5 Charts"
       },
       {
-         "description" : "Please find the final list for Chess for Everyone :National Organizer 1B batch scheduled to start from 11-13 January 2022 .Necessary meeting link will send",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-organisertraining-batch-1-b-11-13-jan-2022/",
-         "pubDate" : "Wed, 05 Jan 2022 11:38:04 +0000",
-         "title" : "National OrganiserTraining : Batch 1 B (11-13 Jan 2022)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1890,6 +1914,14 @@ news_feed (
          "title" : "Karpov-Korchnoi 1978 Depicted In 'The World Champion'"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88581906.cms\" />Twenty-year old Indian player R Vaishali is in second place with 7.5 points from nine rounds in the women's section of the World Blitz chess championship while her countrywoman Koneru Humpy is in joint third.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-chess-championship-r-vaishali-in-2nd-place-in-womens-section-koneru-humpy-joint-third/articleshow/88581906.cms",
+         "pubDate" : "Thu, 30 Dec 2021 10:49:11 +0530",
+         "title" : "World Blitz C'ship: Vaishali in 2nd place in women's section, Humpy joint 3rd"
+      },
+      {
          "description" : "GM Levon Aronian, the Armenian star-player who recently moved to and now represents the United States, finished day one of the World Blitz Chess Championship with 10/12 and in clear first. Behind him are Egyptian GM Bassem Amin, the five-time Afri...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1976,14 +2008,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapid-chess-champions-2021-announced/",
          "pubDate" : "Wed, 29 Dec 2021 10:34:53 +0000",
          "title" : "European Youth Rapid Chess Champions 2021 announced"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88558967.cms\" />Defending champion Koneru Humpy failed to live up to her billing, finishing sixth with 7.5 points in the women's section of the FIDE World Rapid Chess Championship 2021 here.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-rapid-chess-championship-koneru-humpy-takes-6th-place-in-womens-event-d-gukesh-finishes-9th-in-open-section/articleshow/88558967.cms",
-         "pubDate" : "Wed, 29 Dec 2021 10:44:40 +0530",
-         "title" : "World Rapid Chess C'ship: Humpy takes 6th place in women's event, Gukesh 9th in open section"
       }
    ]
 }
