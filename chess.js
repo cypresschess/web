@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A core of chess is the correct prophylaxis. That doesn't mean, that we have to brush our teeth twice a day, since I hope we all do this any way. But, as I heard Yasser Seirawan once say:\"I tend to play a conscious move, before my opponent plays the threat\". Svitlana shows us the smartest moves in difficult situations, and explains how to approach a rough position like this.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-27",
+         "pubDate" : "Wed, 19 Jan 2022 17:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - The prophylactic moves"
+      },
+      {
+         "description" : " Since starting this blog in March 2021, I learned a lot. Putting my thoughts into words has been a tremendous experience. I also got a lot of great feedback from my readers, which helped me to improve further. In this article, I will focus on the three biggest learnings I had in 2021: Don't overthink, [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/top-3-things-i-learned-in-2021/\">Top 3 Things I Learned In 2021</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/top-3-things-i-learned-in-2021/",
+         "pubDate" : "Wed, 19 Jan 2022 15:00:00 +0000",
+         "title" : "Top 3 Things I Learned In 2021"
+      },
+      {
+         "description" : "In his \"Weekly Show\" Lawrence Trent shares his thoughts and some highlights from the Tata Steel Chess Tournament in Wijk aan Zee. Lawrence analysed the lovely game Carlsen vs Giri, where the World Champ unveiled some serious hidden prep in a Catalan. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-highlights-from-tata-steel-2022",
+         "pubDate" : "Wed, 19 Jan 2022 16:00:00 +0100",
+         "title" : "The Weekly Show: Highlights from Wijk aan Zee"
+      },
+      {
+         "description" : "Remember what \"Sensory board chess computers\" were like, four decades ago? Bulky, heavy, with complicated installation, and very expensive to buy. Today you get elegant, flat boards, which run on rechargeable batteries. And they are immediately ready to play. The one we are looking at today even adjusts its playing strength to match yours. It is a pleasure to operate.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dgt-centaur-the-latest-sensor-board",
+         "pubDate" : "Wed, 19 Jan 2022 13:00:00 +0100",
+         "title" : "DGT Centaur - the latest sensor board"
+      },
+      {
          "description" : " This evening (8pm UK time) there will be another Tiger Chess themed Training tournament in a Burn-Rubinstein line of the French Defence, from the position arising after 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Nbd7. The goal is to get lots of experience in a particular position type with this position being a <a href=\"https://chessimprover.com/more-themed-training-tournaments/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"More Themed Training Tournaments\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/more-themed-training-tournaments/\">More Themed Training Tournaments</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">T",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -490,7 +522,7 @@ news_feed (
          "title" : "Carlsen: \"I wouldn't say chances have increased\""
       },
       {
-         "description" : " Share!23 Despite her own ambivalence toward chess as a youth,Officer Cookie has shared its joys.Photo by Genna Martin After decades of service, Denise &#8220;Cookie&#8221; Bouldin is having &#8220;Detective Cookie Chess Park&#8221; built in her honor. Detective Cookie been featured on The Chess Drum over the years with her Urban Youth Chess Club in Seattle, Washington. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/15/seattle-builds-detective-cookie-chess-park/\">Seattle builds Detective Cookie Chess Park!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!90 Despite her own ambivalence toward chess as a youth,Officer Cookie has shared its joys.Photo by Genna Martin After decades of service, Denise &#8220;Cookie&#8221; Bouldin is having &#8220;Detective Cookie Chess Park&#8221; built in her honor. Detective Cookie been featured on The Chess Drum over the years with her Urban Youth Chess Club in Seattle, Washington. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/15/seattle-builds-detective-cookie-chess-park/\">Seattle builds Detective Cookie Chess Park!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/01/15/seattle-builds-detective-cookie-chess-park/",
@@ -1794,14 +1826,6 @@ news_feed (
          "title" : "Everyone's First Chess Workbook: Fundamental Tactics and Checkmates for Improvers"
       },
       {
-         "description" : "Maxime Vachier-Lagrave won the world title in blitz chess after beating Jan-Krzysztof Duda in a playoff. Alireza Firouzja scored as many points as MVL and Duda, but had an inferior tiebreak score. The women's world title went to 17-year-old Kazakh star Bibisara Assaubayeva. | Photos: Rafał Oleksiewicz, Anna Shtourman / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-and-blitz-2021-day-5",
-         "pubDate" : "Fri, 31 Dec 2021 00:15:00 +0100",
-         "title" : "Vachier-Lagrave and Assaubayeva are the 2021 World Blitz Champions"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1850,14 +1874,6 @@ news_feed (
          "title" : "17-year-old Bibisara Assaubayeva is the new World Blitz Champion with one round to spare"
       },
       {
-         "description" : "In the final episode of the year, Dutch trainer Robert Ris looks at a nice miniature in the Queen's Gambit Accepted, played at the World Rapid and Blitz Championships in Warsaw. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-an-early-pawn-sacrifice",
-         "pubDate" : "Thu, 30 Dec 2021 18:45:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: An early (and powerful) pawn sacrifice"
-      },
-      {
          "description" : " The World Rapid and Blitz Championships took place in Warsaw Sun 26th Dec to Thu 30th Dec 2021. Leading players: Magnus Carlsen, Hikaru Nakamura, Jan-Krzysztof Duda, Ian Nepomniachtchi, MVL, Fabiano Caruana, Anish Giri, Alexander Grischuk, Sergey Karjakin etc. This should be a highly competitive and enjoyable contest. The event was last held in Moscow in 2019. 176 players are registered for the Rapid Open (down from 207 two years ago), 154 the blitz (206) the women's events have 103 for the rapid (122) and 85 for the blitz (122). Given the coronavirus crisis these figures have held up remarkably well. On the final day Hikaru Nakamura along with 3 or 4 other players had to self isolate due t",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1872,14 +1888,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/congratulations-bodhana/",
          "pubDate" : "Thu, 30 Dec 2021 14:41:12 +0000",
          "title" : "Congratulations Bodhana"
-      },
-      {
-         "description" : "One of the most anticipated events in the chess calendar, the FIDE World Rapid and Blitz Championship, is taking place on December 25-31 in Warsaw, Poland, at the PGE Narodowy Stadium. Follow the games live with expert commentary starting at 15.00 CET (9.00 ET, 19.30 IST). | Photo: Rafal Oleksiewicz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-and-blitz-2021-live",
-         "pubDate" : "Thu, 30 Dec 2021 14:45:00 +0100",
-         "title" : "World Rapid and Blitz Championships - Live!"
       },
       {
          "description" : " <p class=\"lead\">GM Hikaru Nakamura just announced on Twitter that today he tested positive for covid, despite yesterday's negative test. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2021-12-30_15-50-11.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> The international streamer wasn't feeling very well during the first day of the World Blitz Championship, and he immediately contacted FIDE. After a negative test, he didn't interrupt his tournament but today along with his positive test, Nakamura expressed his concern about his opponents. <a href=\"https://twitter.com/GMHikaru/status/1476530422117019649\">",
@@ -1968,38 +1976,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1506",
          "pubDate" : "Wed, 29 Dec 2021 18:21:51 +0000",
          "title" : "92nd FIDE General Assembly: results and decisions"
-      },
-      {
-         "description" : " <p class=\"lead\"><a href=\"https://worldrapidandblitz.fide.com\">The 2021 Open World Rapid Championship</a> ended with the 17-year-old GM Nodirbek Abdusattorov defeating the 2021 Challenger Ian Nepomniachtchi 1.5-0.5 in a playoff, although there was a quadruple tie on the first place. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51785258424_55c04f483b_k-min.jpg\" width=\"2048\" height=\"1363\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by: Michal Walusza (FIDE)</div> </div> The Uzbeki GM finished the tournament with 9.5/13, the same as Nepo, Carlsen, and Caruana. Due to the FIDE tiebreak rules though, only the top two players according to Sonnenborn-Berger points c",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/magnus-carlsen-its-a-completely-idiotic-rule/",
-         "pubDate" : "Wed, 29 Dec 2021 16:04:01 +0000",
-         "title" : "Magnus Carlsen: \"It's a completely idiotic rule\""
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88572808.cms\" />The country's and Bengal's latest Grandmaster Mitrabha Guha played some sensational chess to finish an impressive 15th position in the open section of the FIDE World Rapid Chess Championship that concluded in Warsaw on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/bengal-gm-mitrabha-guha-ends-as-second-best-indian-in-world-rapid-chess-meet/articleshow/88572808.cms",
-         "pubDate" : "Wed, 29 Dec 2021 20:34:10 +0530",
-         "title" : "Bengal GM Mitrabha Guha ends as second-best Indian in World Rapid meet"
-      },
-      {
-         "description" : "The tiebreak regulations at the World Rapid Chess Championship, which finished yesterday in Warsaw, Poland, are being heavily debated on social media. This report provides an overview of the different opinions being expressed online. The World R...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/world-rapid-chess-championship-tiebreak-controversy",
-         "pubDate" : "Wed, 29 Dec 2021 06:12:00 -0800",
-         "title" : "Chess World Divided Over World Rapid Tiebreak Controversy"
-      },
-      {
-         "description" : "17-year-old Nodirbek Abdusattorov is the youngest ever World Rapid Champion after beating Ian Nepomniachtchi in a blitz tiebreak. The 2-player tiebreak was controversial since four players had tied for 1st, but since Nodirbek had beaten both Magnus Carlsen (bronze) and Fabiano Caruana (4th) in rapid chess, his overall victory was richly deserved. Alexandra Kosteniuk survived some tricky moments to win her first Women's World Rapid Championship, while another 17-year-old, Bibisara Assaubayeva, took silver, and Valentina Gunina bronze.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/abdusattorov-kosteniuk-win-world-rapid-gold",
-         "pubDate" : "Wed, 29 Dec 2021 13:00:00 +0000",
-         "title" : "Abdusattorov & Kosteniuk win World Rapid gold"
       }
    ]
 }
