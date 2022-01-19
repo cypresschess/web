@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev analyzes games that liquidated immediately from the opening. The mysterious masked Atanas has no time for the middlegame! 2022.01.18<br /> B10 Caro-Kann defence<br /> Erwin L&#039;Ami vs Anton Smirnov, Tata Steel Challengers (2020): D11 Queen&#039;s Gambit Declined Slav, 4.e3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1990211\">https://www.chessgames.com/perl/chessgame?gid=1990211</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/opening-endgame-insane-endgame-gm-atanas-kolev",
+         "pubDate" : "Wed, 19 Jan 2022 02:07:17 +0000",
+         "title" : "From the Opening to the Endgame | Insane in the Endgame - GM Atanas Kolev"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 chess rating. The mysterious masked Caleb admires Mamedyarov's unexpected g4 move! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shakh-ing-move-g4-queens-gambit-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6SuFi9dijPI.jpg?itok=JshFRl3e\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shakh-ing-move-g4-queens-gambit-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 19 Jan 2022 02:07:17 +0000",
+         "title" : "The \"Shakh-ing\" Move g4 in the Queen's Gambit | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. 2022.01.19 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-guns-roses-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NBk6zJMJd-w.jpg?itok=GwfGEUqV\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-sicilian-guns-roses-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Wed, 19 Jan 2022 02:07:17 +0000",
+         "title" : "Play the Sicilian: Guns & Roses | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 chess rating. 2022.01.18 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shakh-ing-move-g4-queens-gambit-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6SuFi9dijPI.jpg?itok=JshFRl3e\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -826,36 +850,12 @@ news_feed (
          "title" : "The Use of Space | Insane in the Endgame - GM Atanas Kolev"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 chess rating. The mysterious masked Caleb looks at the best attacking games after the opening. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-castled-king-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pNr6xaYpvco.jpg?itok=ILl5Usyo\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/attacking-castled-king-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 12 Jan 2022 02:01:21 +0000",
-         "title" : "Attacking the Castled King | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-sveshnikov-kalashnikov-guns-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VRdA58RZqKs.jpg?itok=bvoFJ8mg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-sicilian-sveshnikov-kalashnikov-guns-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Wed, 12 Jan 2022 02:01:21 +0000",
-         "title" : "Play the Sicilian: Sveshnikov! Kalashnikov! Guns! | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
          "description" : " A couple months ago, GM Nigel Short contacted The Chess Drum and mentioned that St. Vincent and the Grenadines would become a provisional FIDE member. At the 92nd General Assembly meeting, St. Vincent as well as Belize, Dominica and Niger became full FIDE members. St. Vincent &#038; Grenadines Back in 2019, Short and Ian Wilkinson [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/11/belize-dominica-niger-and-st-vincent-join-fide/\">Belize, Dominica, Niger, and St. Vincent join FIDE</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/01/11/belize-dominica-niger-and-st-vincent-join-fide/",
          "pubDate" : "Wed, 12 Jan 2022 01:39:16 +0000",
          "title" : "Belize, Dominica, Niger, and St. Vincent join FIDE"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 chess rating. 2022.01.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-castled-king-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pNr6xaYpvco.jpg?itok=ILl5Usyo\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/attacking-castled-king-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Tue, 11 Jan 2022 23:01:13 +0000",
-         "title" : "Attacking the Castled King | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-53/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (53)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-53/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (53)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
@@ -1890,14 +1890,6 @@ news_feed (
          "title" : "Karpov-Korchnoi 1978 Depicted In 'The World Champion'"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88581906.cms\" />Twenty-year old Indian player R Vaishali is in second place with 7.5 points from nine rounds in the women's section of the World Blitz chess championship while her countrywoman Koneru Humpy is in joint third.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-chess-championship-r-vaishali-in-2nd-place-in-womens-section-koneru-humpy-joint-third/articleshow/88581906.cms",
-         "pubDate" : "Thu, 30 Dec 2021 10:49:11 +0530",
-         "title" : "World Blitz C'ship: Vaishali in 2nd place in women's section, Humpy joint 3rd"
-      },
-      {
          "description" : "GM Levon Aronian, the Armenian star-player who recently moved to and now represents the United States, finished day one of the World Blitz Chess Championship with 10/12 and in clear first. Behind him are Egyptian GM Bassem Amin, the five-time Afri...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1992,14 +1984,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-rapid-chess-championship-koneru-humpy-takes-6th-place-in-womens-event-d-gukesh-finishes-9th-in-open-section/articleshow/88558967.cms",
          "pubDate" : "Wed, 29 Dec 2021 10:44:40 +0530",
          "title" : "World Rapid Chess C'ship: Humpy takes 6th place in women's event, Gukesh 9th in open section"
-      },
-      {
-         "description" : "After many twists and turns on day three of the World Rapid Chess Championship, 17-year-old Uzbek GM Nodirbek Abdusattorov won the event with 9.5/13 in the Swiss tournament, after winning the second tiebreak blitz game against GM Ian Nepomniachtch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/world-rapid-chess-championship-day-3-abdusattorov-and-kosteniuk-crowned-world-rapid-champions",
-         "pubDate" : "Tue, 28 Dec 2021 18:31:00 -0800",
-         "title" : "World Rapid Chess Championship Day 3: Abdusattorov and Kosteniuk Crowned World Rapid Champions"
       }
    ]
 }
