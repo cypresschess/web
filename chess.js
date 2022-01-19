@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1532",
+         "pubDate" : "Wed, 19 Jan 2022 17:13:04 +0000",
+         "title" : "List of Open Tournaments to receive FIDE Aid Packages in 2022"
+      },
+      {
+         "description" : "GM Jeffery Xiong emerged from a nine-way tie for first place, easily the most crowded standings in recent memory, to claim Titled Tuesday victory on January 18. Tiebreaks also placed GM Illia Nyzhnyk second, GM Alexey Sarana third, and IM Le Tuan ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jeffery-xiong-wins-january-18-titled-tuesday-out-of-9-way-tie",
+         "pubDate" : "Wed, 19 Jan 2022 09:04:15 -0800",
+         "title" : "Jeffery Xiong Wins January 18 Titled Tuesday Out Of 9-Way Tie"
+      },
+      {
          "description" : "\"It was special for me to present my journey with 1Kind [Crypto portal] in a series of NFTs that traced my life from childhood through my ever-busy 'retirement,'\" writes Garry Kasparov. \"The project was all the more meaningful for me because 10% of the proceeds will go toward setting up a scholarship fund at the Kasparov Chess Foundation, dedicated to my late mother Klara, that will support all the great talents raised by single mothers like her.\" Read his interview in CoinDesk.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1952,30 +1968,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1507",
          "pubDate" : "Wed, 29 Dec 2021 22:46:46 +0000",
          "title" : "A wide-open race in the World Blitz as Carlsen suffers three defeats"
-      },
-      {
-         "description" : " <p class=\"lead\">Day 1 of the <a href=\"https://worldrapidandblitz.fide.com\">2021 Open World Blitz Championship</a> is over with GM Levon Aronian leading the event (10/12), followed by Bassem Amin (9.5/12), and Parham Maghsoodloo (9/12). The big - unpleasant - surprise is Carlsen, who lost 3 games right after he passed 2900 rating blitz points. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2047\" data-ratio=\"1.4996336996337\"> <img src=\"https://worldchess.com/news/pictures/51786357615_73ae7151cd_k.jpg\" width=\"2047\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51784744407_9588c4bfcc_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldche",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/2021-world-blitz-championship-magnus-loses-3-games-aronian-is-a/",
-         "pubDate" : "Wed, 29 Dec 2021 20:23:39 +0000",
-         "title" : "2021 World Blitz Championship: Magnus loses 3 games, Aronian is a half point ahead"
-      },
-      {
-         "description" : " <p class=\"lead\">The tournament that will decide the 2023 Challenger, the Candidates Tournament, will be held in Madrid, Spain on the 16th of June until the 7th of July, 2022. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0AE6272B-DB55-44BF-B1AC-ED6003F2FBEF.png\" width=\"1336\" height=\"750\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE (Lennart Ootes)</div> </div> The 2021 World Championship is still very close to our memories, yet the next Candidates Tournament brings us high hopes for the 2023 World Championship. The previous Candidates tournament was held in Yekaterinburg, Russia partly in 2020 and partly in 2021 due to the Covid-19 pandemic. This year's ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-2022-candidates-tournament-to-be-held-in-madrid/",
-         "pubDate" : "Wed, 29 Dec 2021 20:16:13 +0000",
-         "title" : "The 2022 Candidates Tournament to be held in Madrid"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1506",
-         "pubDate" : "Wed, 29 Dec 2021 18:21:51 +0000",
-         "title" : "92nd FIDE General Assembly: results and decisions"
       }
    ]
 }
