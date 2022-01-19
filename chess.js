@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Keeping the AICF's motto of chess development every nook and corner of the country, All India Chess Federation is organizing five FIDE Trainers' Seminar as",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-trainer-seminars/",
+         "pubDate" : "Wed, 19 Jan 2022 08:47:50 +0000",
+         "title" : "FIDE TRAINER SEMINARS"
+      },
+      {
          "description" : " <p class=\"lead\">Day 4 of the 2022 Tata Steel Chess Tournament came like a storm before the rest day. GM Vidit Santosh Gujrathi remains the sole leader after his draw with GM Andrey Esipenko, while the World Champion lost his chance to win against the reigning Tata Steel Champion, Jorden Van Foreest. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.4985014985015\"> <img src=\"https://worldchess.com/news/pictures/LOW00063.jpg\" width=\"1500\" height=\"1001\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW00052.jpg\" width=\"1500\" height=\"888\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW00025.jpg\" width=\"1500\" height=\"1001\" alt=\"\" /> <img ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1320,14 +1328,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/and-white-has-freer-game.html",
          "pubDate" : "Fri, 07 Jan 2022 12:55:00 +0000",
          "title" : "And White has a freer game"
-      },
-      {
-         "description" : "Desired and Eminent Women Chess Players are requested to apply for the Award as per the guidelines mentioned below:- Nari Shakti Puraskar Guidelines After filling",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/nari-shakti-puraskar-2022/",
-         "pubDate" : "Fri, 07 Jan 2022 11:35:09 +0000",
-         "title" : "NARI SHAKTI PURASKAR 2022"
       },
       {
          "description" : " David Howell scored 10/11 in the 632-player masters online event, while Nigel Short had a lucky break on his return David Howell scored a rare English victory in high-class international competition this week when the three-times British champion won <a href=\"https://www.chess.com/\" title=\"\">chess.com</a>'s weekly Titled Tuesday. The Sussex 31-year-old had just returned from Warsaw, where he performed well in the World Rapid with 8/13, but faded in the World Blitz with 10/21. Titled Tuesday is free to enter for all Fide titled players, right down to 2200-rated Candidate Masters, and regularly attracts hundreds of entries, who play an 11-round Swiss with a three-minutes-per-game time limit p",
