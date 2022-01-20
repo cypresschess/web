@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kvika Reykjavik Open will return to its normal setting in the Harpa music and conference center in 2022 - which has been billed as the best playing venue for an open tournament ever! The dates are from the 6th of April until the 12th of April, with nine rounds in seven days! Many world class players have taken part in then tournament in recent years. The total prize-fund in the 2022 edition will be €15.000, including many special prizes for various age and rating categories, in addition to the traditional top women's prize.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kvika-reykjavik-open-2022",
+         "pubDate" : "Thu, 20 Jan 2022 20:00:00 +0100",
+         "title" : "Kvika Reykjavik Open 2022"
+      },
+      {
+         "description" : "The National Women Chess Championship 2022 scheduled at Bheemavaram, Andhra Pradesh from 09-19 Feb 2022 and National Amateur Chess Championship 2022 scheduled at Jaipur, Rajasthan",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-national-women-chess-championship-mpl-national-amateur-chess-championship-postponed/",
+         "pubDate" : "Thu, 20 Jan 2022 17:38:15 +0000",
+         "title" : "MPL National Women Chess Championship & MPL National Amateur Chess Championship Postponed"
+      },
+      {
+         "description" : "This week Robert Ris will have a look at the fantastic game between Daniil Dubov and Vidit Gujrathi from the Tata Steel Masters in Wijk aan Zee. Dubov played provocatively out of a Giuoco Piano, Vidit gladly accepted the challenge, and an incredible struggle ensued! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-fireworks-in-the-giuoco-piano",
+         "pubDate" : "Thu, 20 Jan 2022 18:30:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Fireworks in the Giuoco Piano"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chempion Mira</strong> is neither sound history nor works out as a sequel to The Queen's Gambit. The Russian movie is patriotic kitsch and a monument to <strong>Anatoly Karpov</strong> who was involved as a consultant. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/07.1920.jpeg\" title=\"Karpov (Ivan Yankovskiy) surrounded by his seconds Tal (Dmitriy Iosifov), Zaitsev (Anatoliy Kot), Balashov (Mikhail Troynik, sitting) and KGB officer Maksimov (Viktor Dobronravov). photo: Kinostar\" data-title=\"Karpov (Ivan Yankovskiy) surrounded by his seconds Tal (Dmitriy Iosifov), Zaitsev (Anatoliy ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -66,12 +90,12 @@ news_feed (
          "title" : "Play the Sicilian: Guns & Roses | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
-         "description" : "Our coverage of the fifth round of the 2022 Tata Steel Chess Tournament is underway. Will GM Vidit Gujrathi maintain his lead with GM Magnus Carlsen and four other super-grandmasters chasing him? Don&#39;t miss the action! How to watch?You can follo...",
+         "description" : "GMs Shakhriyar Mamedyarov and Richard Rapport both won their games in round five of the 2022 Tata Steel Chess Tournament to catch GM Vidit Gujrathi in first place.&#38;nbsp;GM Magnus Carlsen drew an exciting game with GM Nils Grandelius. How to watc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-5",
          "pubDate" : "Wed, 19 Jan 2022 17:00:00 -0800",
-         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 5"
+         "title" : "Tata Steel Chess 2022 R5: Mamedyarov, Rapport Catch Vidit"
       },
       {
          "description" : "The International Chess Federation has declared 2022 the Year of the Woman in Chess. According to the FIDE Women's Commision, this is a chance to take a leap forward in their mission of forming gender equity policies, practices and programs. | Pictured: Eva Repkova / Chair of FIDE Women's Commission",
@@ -1354,14 +1378,6 @@ news_feed (
          "title" : "Street Chess on the news (briefly)"
       },
       {
-         "description" : "Please find the final list for Chess for Everyone :National Organizer 1C batch scheduled to start from 14-16 January 2022 .Necessary meeting link will send",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-organisertraining-batch-1-c-14-16-jan-2022/",
-         "pubDate" : "Sat, 08 Jan 2022 12:04:03 +0000",
-         "title" : "National OrganiserTraining : Batch 1 C (14-16 Jan 2022)"
-      },
-      {
          "description" : "\"Historias de Ajedrez\" is a Cuban movie from 2019 by Emmanuel Martin Hernandez. In the movie, Hernandez, a passionate chess player himself, offers an intimate look at the stories of chess players in Santiago de Cuba.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1794,22 +1810,6 @@ news_feed (
          "title" : "\"From cool to highly speculative\""
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 60th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how to convert the advantages of having the pair of bishops. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-60-the-advantage-of-having-the-two-bishops",
-         "pubDate" : "Sun, 02 Jan 2022 10:55:00 +0100",
-         "title" : "Understanding before Moving 60: The advantage of having the two bishops"
-      },
-      {
-         "description" : "In the diagram position White can start fireworks to hunt down the black king, and you are invited to ignite all the rockets - have fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/happy-new-year",
-         "pubDate" : "Sat, 01 Jan 2022 09:00:00 +0100",
-         "title" : "Happy New Year!"
-      },
-      {
          "description" : " This year was the 20th year for The Chess Drum. On February 12th, I posted a very lengthy chronicle of the site's history with key moments each of the 20 years. I put a lot of effort into that post, but it was fulfilling to recount the special moments, not only for The Chess Drum, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/31/the-chess-drums-highlights-of-2021/\">The Chess Drum's Highlights of 2021!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1904,38 +1904,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2021/dec/30/chess-17-year-old-shocks-carlsen-and-becomes-youngest-world-rapid-winner",
          "pubDate" : "Thu, 30 Dec 2021 22:07:10 +0000",
          "title" : "Chess: 17-year-old shocks Carlsen and becomes youngest world rapid winner"
-      },
-      {
-         "description" : " Following are my reflections on the World Chess Championship that took place in Dubai, UAE. For years I have been doing reflection pieces for major events. It is enjoyable to go back and relive these memories. What makes this more special was that it occurred during World Expo 2020. I will also include my impressions [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/30/reflections-of-2021-world-championship-expo-2020/\">Reflections of 2021 World Championship/EXPO 2020</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/12/30/reflections-of-2021-world-championship-expo-2020/",
-         "pubDate" : "Thu, 30 Dec 2021 20:20:58 +0000",
-         "title" : "Reflections of 2021 World Championship/EXPO 2020"
-      },
-      {
-         "description" : " <p class=\"lead\">GM Maxime Vachier-Lagrave won the 2021 World Blitz Championship on the playoff against GM Jan-Krzysztof Duda with a score of 2-1. Alireza Firouzja tied on the first place, but as in the World Rapid Championship, the Iranian-French GM was left out of the finals, due to FIDE's rules. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/51787128132_1e4d757fa3_k-2.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51787146937_ea7f8e2a87_k-2.jpg\" width=\"2048\" height=\"1293\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51787966436_5caf118bb",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/mvl-wins-the-2021-world-blitz-championship-alireza-gets-kicked-o/",
-         "pubDate" : "Thu, 30 Dec 2021 19:58:43 +0000",
-         "title" : "MVL wins the 2021 World Blitz Championship, Alireza gets kicked out of the playoff"
-      },
-      {
-         "description" : "The 2021 European Youth Blitz Chess Championships 2021 took place form 29th-30th December in Novi Sad, Serbia, with participation of more than 400 kids coming from 29 European federations. The event was played within 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately, in 9 double rounds, Swiss system. Winners of the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-blitz-chess-champions-2021-crowned/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-blitz-chess-champions-2021-crowned/",
-         "pubDate" : "Thu, 30 Dec 2021 19:40:14 +0000",
-         "title" : "European Youth Blitz Chess Champions 2021 crowned"
-      },
-      {
-         "description" : " <p class=\"lead\">IM and WGM Bibisara Assaubayeva won the 2021 FIDE Women's World Blitz Championship with a round to spare, after winning second place in the Women's Rapid Championship. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51788332724_1e6186a51f_k-2.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Anna Shtourman(FIDE)</div> </div> The 17-year-old chess prodigy from Kazakhstan had an amazing tournament, scoring 14/17, winning 13 games, and 120 blitz rating points. Assaubayeva dominated the women's tournament beating numerous GMs, including Anna Muzychuk, Alexandra Kosteniuk, Humpy Koneru, and Aleksandra Goryachkina. <a href",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/17-year-old-bibisara-assaubayeva-is-the-new-world-blitz-champion/",
-         "pubDate" : "Thu, 30 Dec 2021 18:42:44 +0000",
-         "title" : "17-year-old Bibisara Assaubayeva is the new World Blitz Champion with one round to spare"
       }
    ]
 }
