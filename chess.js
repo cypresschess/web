@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev analyzes games that liquidated immediately from the opening. The mysterious masked Atanas has no time for the middlegame! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/straight-opening-endgame-insane-endgame-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aSJf7DggP8Q.jpg?itok=N-vyysyq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/straight-opening-endgame-insane-endgame-gm-atanas-kolev",
+         "pubDate" : "Thu, 20 Jan 2022 02:08:28 +0000",
+         "title" : "Straight from the Opening to the Endgame | Insane in the Endgame - GM Atanas Kolev"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. 2022.01.19<br /> B32 Sicilian, Labourdonnais-Loewenthal (Kalashnikov) variation<br /> B32 Sicilian defence </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-guns-roses-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_t",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-sicilian-guns-roses-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 20 Jan 2022 02:08:28 +0000",
+         "title" : "Play the Sicilian: Guns & Roses | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "The fifth round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Thursday, January 20. Will GM Vidit Gujrathi maintain his lead with GM Magnus Carlsen and four other super-grandmasters chasing him? Don&#39;t miss the action! ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-5",
+         "pubDate" : "Wed, 19 Jan 2022 17:00:00 -0800",
+         "title" : "How To Watch Tata Steel Chess 2022 Round 5"
+      },
+      {
          "description" : "The International Chess Federation has declared 2022 the Year of the Woman in Chess. According to the FIDE Women's Commision, this is a chance to take a leap forward in their mission of forming gender equity policies, practices and programs. | Pictured: Eva Repkova / Chair of FIDE Women's Commission",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,7 +146,7 @@ news_feed (
          "title" : "From the Opening to the Endgame | Insane in the Endgame - GM Atanas Kolev"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 chess rating. The mysterious masked Caleb admires Mamedyarov's unexpected g4 move! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shakh-ing-move-g4-queens-gambit-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6SuFi9dijPI.jpg?itok=JshFRl3e\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at the amazing opening played at Tata Steel 2022 between Shakhriyar Mamedyarov and Andrey Esipenko. The mysterious masked Caleb admires Mamedyarov's unexpected 3.g4 move! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shakh-ing-move-g4-queens-gambit-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6SuFi9dijPI.jpg?itok=Jsh",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/shakh-ing-move-g4-queens-gambit-road-2000-nm-caleb-denby",
@@ -952,22 +976,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-the-scotch-game-by-svitlana-demchenko",
          "pubDate" : "Wed, 12 Jan 2022 10:00:00 +0100",
          "title" : "New: The Scotch Game by Svitlana Demchenko"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev teaches a chess class on a topic of his choice. 2022.01.13<br /> Evgeny Bareev vs Giorgi Giorgadze, Moscow Olympiad (1994): A40 Modern defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2038072\">https://www.chessgames.com/perl/chessgame?gid=2038072</a><br /> Mikhail Tal vs Atanas Stefanov Kolarov, EUR-chT (Men) 4th (1970): B15 Caro-Kann, Gurgenidze system<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1139941\">https://www.chessgames.com/perl/chessgame?gid=1139941</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"fiel",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exchange-sacrifice-e6-grandmasters-choice-gm-atanas-kolev",
-         "pubDate" : "Wed, 12 Jan 2022 05:01:30 +0000",
-         "title" : "Exchange Sacrifice on e6! | Grandmaster's Choice - GM Atanas Kolev"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev looks at studies and a game that demonstrate the use of spacial advantage. The mysterious masked Atanas likes space. 2022.01.11<br /> P Iniyan vs. Evgeny Postny, 2021: D37 Queen&#039;s Gambit Declined, classical variation (5.Bf4)<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4309726\">https://www.365chess.com/game.php?back=1&amp;gid=4309726</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/use-space-insane-endgame-gm-atan",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/use-space-insane-endgame-gm-atanas-kolev",
-         "pubDate" : "Wed, 12 Jan 2022 02:01:21 +0000",
-         "title" : "The Use of Space | Insane in the Endgame - GM Atanas Kolev"
       },
       {
          "description" : " A couple months ago, GM Nigel Short contacted The Chess Drum and mentioned that St. Vincent and the Grenadines would become a provisional FIDE member. At the 92nd General Assembly meeting, St. Vincent as well as Belize, Dominica and Niger became full FIDE members. St. Vincent &#038; Grenadines Back in 2019, Short and Ian Wilkinson [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/11/belize-dominica-niger-and-st-vincent-join-fide/\">Belize, Dominica, Niger, and St. Vincent join FIDE</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -1960,14 +1968,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-chess-championship-r-vaishali-in-2nd-place-in-womens-section-koneru-humpy-joint-third/articleshow/88581906.cms",
          "pubDate" : "Thu, 30 Dec 2021 10:49:11 +0530",
          "title" : "World Blitz C'ship: Vaishali in 2nd place in women's section, Humpy joint 3rd"
-      },
-      {
-         "description" : "GM Levon Aronian, the Armenian star-player who recently moved to and now represents the United States, finished day one of the World Blitz Chess Championship with 10/12 and in clear first. Behind him are Egyptian GM Bassem Amin, the five-time Afri...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-world-blitz-chess-championship-day-1",
-         "pubDate" : "Wed, 29 Dec 2021 17:37:00 -0800",
-         "title" : "World Blitz Chess Championship Day 1: Aronian and Assaubayeva Lead"
       }
    ]
 }
