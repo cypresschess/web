@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! FM Ignacio Perez (1967-2022)Photo by Washington State Chess Federation The Seattle chess community is in mourning after the passing of Ignacio P&eacute;rez on January 11th, 2022. The long-time Seattle resident succumbed after a lengthy battle with throat cancer but remained active in the chess community despite his illness. He was a few weeks shy [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/20/fm-ignacio-perez-1967-2022-passes-away/\">FM Ignacio P&eacute;rez (1967-2022) passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/01/20/fm-ignacio-perez-1967-2022-passes-away/",
+         "pubDate" : "Thu, 20 Jan 2022 15:41:46 +0000",
+         "title" : "FM Ignacio P&eacute;rez (1967-2022) passes away"
+      },
+      {
+         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
+         "pubDate" : "Thu, 20 Jan 2022 13:45:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : " I might be getting soft in my old age, but I am not annoyed by players who do night resign at the appropriate time as I used to be. Possibly one the reasons for this, is that for new players, playing on until they are checkmated is a learning experience for them. On at least one occasion I have had an opponent explain why they won't resign ('so I can see how you would win from this position'), and in a few coaching sessions my comment about one side resigning has been met with a 'But why?' <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/learning-from-losing.html",
+         "pubDate" : "Thu, 20 Jan 2022 12:29:00 +0000",
+         "title" : "Learning from losing"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1533",
+         "pubDate" : "Thu, 20 Jan 2022 11:04:47 +0000",
+         "title" : "Five FIDE Trainer Seminars to be held in India"
+      },
+      {
+         "description" : "\"Always up for a new challenge - bring it on!\" said Magnus Carlsen as the World Chess Champion confirmed he'll return to defend his title in the 2nd edition of the Meltwater Champions Chess Tour. The first of 9 events begins on February 19th, with the 10-month series streamlined this year with fewer days, more at stake and more of an incentive to play for a win in every game. The online event on chess24 is also moving towards in-person chess, with all three Majors set to feature 8 players competing from a single location.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-back-to-defend-meltwater-champions-chess-tour-title",
+         "pubDate" : "Thu, 20 Jan 2022 10:00:01 +0000",
+         "title" : "Carlsen back to defend Meltwater Champions Chess Tour title"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev analyzes games that liquidated immediately from the opening. The mysterious masked Atanas has no time for the middlegame! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/straight-opening-endgame-insane-endgame-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aSJf7DggP8Q.jpg?itok=N-vyysyq\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -18,12 +58,12 @@ news_feed (
          "title" : "Play the Sicilian: Guns & Roses | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
-         "description" : "The fifth round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Thursday, January 20. Will GM Vidit Gujrathi maintain his lead with GM Magnus Carlsen and four other super-grandmasters chasing him? Don&#39;t miss the action! ...",
+         "description" : "Our coverage of the fifth round of the 2022 Tata Steel Chess Tournament is underway. Will GM Vidit Gujrathi maintain his lead with GM Magnus Carlsen and four other super-grandmasters chasing him? Don&#39;t miss the action! How to watch?You can follo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-5",
          "pubDate" : "Wed, 19 Jan 2022 17:00:00 -0800",
-         "title" : "How To Watch Tata Steel Chess 2022 Round 5"
+         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 5"
       },
       {
          "description" : "The International Chess Federation has declared 2022 the Year of the Woman in Chess. According to the FIDE Women's Commision, this is a chance to take a leap forward in their mission of forming gender equity policies, practices and programs. | Pictured: Eva Repkova / Chair of FIDE Women's Commission",
@@ -64,6 +104,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-27",
          "pubDate" : "Wed, 19 Jan 2022 17:00:00 +0100",
          "title" : "Svitlana's Smart Moves - The prophylactic moves"
+      },
+      {
+         "description" : "Vidit Gujrathi kept the sole lead at the Tata Steel Masters going into the first rest day of the event, as round 4 saw 2 out of 7 games ending decisively. Praggnanandhaa inflicted Nils Grandelius' third defeat to bounce back to a 50% score, while Shakhriyar Mamedyarov got the better of Jan-Krzysztof Duda with the white pieces. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r4",
+         "pubDate" : "Wed, 19 Jan 2022 16:30:00 +0100",
+         "title" : "Tata Steel R4: Wins for Pragg and Shakh"
       },
       {
          "description" : " Since starting this blog in March 2021, I learned a lot. Putting my thoughts into words has been a tremendous experience. I also got a lot of great feedback from my readers, which helped me to improve further. In this article, I will focus on the three biggest learnings I had in 2021: Don't overthink, [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/top-3-things-i-learned-in-2021/\">Top 3 Things I Learned In 2021</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -216,14 +264,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/18/ep-262-im-kostya-kavutskiy-returns",
          "pubDate" : "Tue, 18 Jan 2022 14:07:38 +0000",
          "title" : "EP 262- IM Kostya Kavutskiy returns "
-      },
-      {
-         "description" : "Vidit Gujrathi kept the sole lead at the Tata Steel Masters going into the first rest day of the event, as round 4 saw 2 out of 7 games ending decisively. Praggnanandhaa inflicted Nils Grandelius' third defeat to bounce back to a fifty-percent score, while Shakhriyar Mamedyarov (pictured) got the better of Jan-Krzysztof Duda with the white pieces. | Replay all the games with computer analysis. Full report to follow shortly!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
-         "pubDate" : "Tue, 18 Jan 2022 13:50:00 +0100",
-         "title" : "Tata Steel Chess - Two decisive results"
       },
       {
          "description" : "After beating Daniil Dubov in a sharp struggle, Vidit Gujrathi grabed the sole lead at the Tata Steel Masters tournament. Going into round 4, no fewer than five players stand a half point behind the leader, though, with Jorden van Foreest, Richard Rapport and Andrey Esipenko joining the chasing pack thanks to victories in Monday's third round. | Photo: Lennart Ootes",
@@ -586,7 +626,7 @@ news_feed (
          "title" : "Carlsen: \"I wouldn't say chances have increased\""
       },
       {
-         "description" : " Share!90 Despite her own ambivalence toward chess as a youth,Officer Cookie has shared its joys.Photo by Genna Martin After decades of service, Denise &#8220;Cookie&#8221; Bouldin is having &#8220;Detective Cookie Chess Park&#8221; built in her honor. Detective Cookie been featured on The Chess Drum over the years with her Urban Youth Chess Club in Seattle, Washington. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/15/seattle-builds-detective-cookie-chess-park/\">Seattle builds Detective Cookie Chess Park!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Despite her own ambivalence toward chess as a youth,Officer Cookie has shared its joys.Photo by Genna Martin After decades of service, Denise &#8220;Cookie&#8221; Bouldin is having &#8220;Detective Cookie Chess Park&#8221; built in her honor. Detective Cookie been featured on The Chess Drum over the years with her Urban Youth Chess Club in Seattle, Washington. The [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/15/seattle-builds-detective-cookie-chess-park/\">Seattle builds Detective Cookie Chess Park!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/01/15/seattle-builds-detective-cookie-chess-park/",
@@ -1778,14 +1818,6 @@ news_feed (
          "title" : "The Chess Drum's Highlights of 2021!"
       },
       {
-         "description" : "Nona Gaprindashvili wrote referring to Milunka Lazarevic: \"A literary person by profession, lively and impressionable, Lazarevic is one of the brightest figures in women's chess of the sixties\". Milunka attracted attention by her exciting, uncompromising style: sacrificing pawns and pieces and despising draws, which made her famous and endeared her to chess audiences! | Photo: Balkan Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/milunka-lazarevic-female-tal-part-2",
-         "pubDate" : "Fri, 31 Dec 2021 21:10:00 +0100",
-         "title" : "Milunka Lazarevi&#263: \"Tal is my Zeus\""
-      },
-      {
          "description" : " Brewington Hardaway winning Pan-Am Youth Chess Festival last October Photo courtesy of ChessKid.com After Brewington Hardaway's recent success at the K12 Championship in Orlando, it is apparent that he has been on an improvement course that has been slow and steady. Two years ago, Hardaway became a National Master at age 10, he continued to [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/31/brewington-hardaway-continues-to-climb/\">Brewington Hardaway continues to climb!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1904,62 +1936,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/17-year-old-bibisara-assaubayeva-is-the-new-world-blitz-champion/",
          "pubDate" : "Thu, 30 Dec 2021 18:42:44 +0000",
          "title" : "17-year-old Bibisara Assaubayeva is the new World Blitz Champion with one round to spare"
-      },
-      {
-         "description" : " The World Rapid and Blitz Championships took place in Warsaw Sun 26th Dec to Thu 30th Dec 2021. Leading players: Magnus Carlsen, Hikaru Nakamura, Jan-Krzysztof Duda, Ian Nepomniachtchi, MVL, Fabiano Caruana, Anish Giri, Alexander Grischuk, Sergey Karjakin etc. This should be a highly competitive and enjoyable contest. The event was last held in Moscow in 2019. 176 players are registered for the Rapid Open (down from 207 two years ago), 154 the blitz (206) the women's events have 103 for the rapid (122) and 85 for the blitz (122). Given the coronavirus crisis these figures have held up remarkably well. On the final day Hikaru Nakamura along with 3 or 4 other players had to self isolate due t",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2021",
-         "pubDate" : "Thu, 30 Dec 2021 19:53:00 +0400",
-         "title" : "World Rapid and Blitz Championships 2021 - Games and Results"
-      },
-      {
-         "description" : "6-year-old Bodhana Sivanandan has just won silver medals in both the Blitz and the Rapid European Chess Championship Girls Under 8! You can see the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/congratulations-bodhana/",
-         "pubDate" : "Thu, 30 Dec 2021 14:41:12 +0000",
-         "title" : "Congratulations Bodhana"
-      },
-      {
-         "description" : " <p class=\"lead\">GM Hikaru Nakamura just announced on Twitter that today he tested positive for covid, despite yesterday's negative test. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2021-12-30_15-50-11.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> The international streamer wasn't feeling very well during the first day of the World Blitz Championship, and he immediately contacted FIDE. After a negative test, he didn't interrupt his tournament but today along with his positive test, Nakamura expressed his concern about his opponents. <a href=\"https://twitter.com/GMHikaru/status/1476530422117019649\">",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/hikaru-nakamura-is-covid-positive-at-the-2021-world-blitz-champi/",
-         "pubDate" : "Thu, 30 Dec 2021 12:59:54 +0000",
-         "title" : "Hikaru Nakamura is covid positive at the 2021 World Blitz Championship"
-      },
-      {
-         "description" : "Levon Aronian scored 10/12 on Day 1 of the World Blitz Championship in Warsaw to take the sole lead going into the final 9 rounds. His closest rivals are Bassem Amin (9.5) and Parham Maghsoodloo (9), but the 12-player group on 8.5 points includes Magnus Carlsen, Hikaru Nakamura, Ian Nepomniachtchi, Alexander Grischuk, Daniil Dubov, Arjun Erigaisi, Vladislav Artemiev and Anish Giri. The Women's World Blitz is led by 17-year-old Rapid silver medalist Bibisara Assaubayeva on 8/9, with 20-year-old Vaishali just half a point behind.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/world-blitz-day-1-aronian-leads-as-carlsen-struggles",
-         "pubDate" : "Thu, 30 Dec 2021 12:20:31 +0000",
-         "title" : "World Blitz Day 1: Aronian leads as Carlsen struggles"
-      },
-      {
-         "description" : " The holiday season at the end of the year is a great time to think about the coming year. Many people end this process by setting New Year Resolutions. I'm a big fan of planning things beforehand. This not only applies to Chess Training, but also to my life in general. In this article, I [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/new-year-resolutions-and-my-big-goal-in-2022/\">New Year Resolutions And My Big Goal In 2022</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/new-year-resolutions-and-my-big-goal-in-2022/",
-         "pubDate" : "Thu, 30 Dec 2021 11:36:01 +0000",
-         "title" : "New Year Resolutions - And My Big Goal In 2022"
-      },
-      {
-         "description" : " The topic of suitable tie-breaks has popped up again, after a 4 way tie in the 2021 World Rapid Championship. The regulations (published beforehand, and used in previous events) specified a playoff in the case of a tie for 1st. The controversy was that only the top 2 players (on tie break) were involved, which in this case were Abdusattorov and Nepomniachtchi, whith Carlsen and Caruana missing out. Despite the players being aware of the tie-break system, Carlsen immediately criticised the rules, and was backed up by other players. Pushing back were a number of arbiters/officials who pointed out that the previous tie-break were changed at the request of the players, and had been used in the ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/there-are-no-perfect-tie-breaks.html",
-         "pubDate" : "Thu, 30 Dec 2021 11:32:00 +0000",
-         "title" : "There are no perfect tie-breaks"
-      },
-      {
-         "description" : "The World Champion, a film directed by Alexey Sidorov that depicts the dramatic world championship match between GM Anatoly Karpov and GM Viktor Korchnoi in 1978, hits cinemas in Russia on Thursday. While the 1972 &#34;Match of the Century&#34; in Reykj...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-world-champion-film-karpov-korchnoi-1978",
-         "pubDate" : "Thu, 30 Dec 2021 02:41:00 -0800",
-         "title" : "Karpov-Korchnoi 1978 Depicted In 'The World Champion'"
       }
    ]
 }
