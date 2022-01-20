@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chempion Mira</strong> is neither sound history nor works out as a sequel to The Queen's Gambit. The Russian movie is patriotic kitsch and a monument to <strong>Anatoly Karpov</strong> who was involved as a consultant. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/07.1920.jpeg\" title=\"Karpov (Ivan Yankovskiy) surrounded by his seconds Tal (Dmitriy Iosifov), Zaitsev (Anatoliy Kot), Balashov (Mikhail Troynik, sitting) and KGB officer Maksimov (Viktor Dobronravov). photo: Kinostar\" data-title=\"Karpov (Ivan Yankovskiy) surrounded by his seconds Tal (Dmitriy Iosifov), Zaitsev (Anatoliy ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/tolka-the-hero/",
+         "pubDate" : "Thu, 20 Jan 2022 17:02:47 +0100",
+         "title" : "Tolka the hero"
+      },
+      {
          "description" : " Share! FM Ignacio Perez (1967-2022)Photo by Washington State Chess Federation The Seattle chess community is in mourning after the passing of Ignacio P&eacute;rez on January 11th, 2022. The long-time Seattle resident succumbed after a lengthy battle with throat cancer but remained active in the chess community despite his illness. He was a few weeks shy [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/20/fm-ignacio-perez-1967-2022-passes-away/\">FM Ignacio P&eacute;rez (1967-2022) passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -920,14 +928,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/how-to-use-mega-database-3",
          "pubDate" : "Thu, 13 Jan 2022 10:15:45 +0100",
          "title" : "How to use: Mega Database 2022"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 2021 was great for top players, online chess and FIDE, but not for otb chess and lower rated professionals. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/51662954275-52e4243606-k.1920.jpeg\" title=\"Shooting star 2021: Alireza Firouzja photo: Anna Shtourman / FIDE\" data-title=\"Shooting star 2021: Alireza Firouzja (photo: Anna Shtourman / FIDE)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/51662954275-52e4243606-k.480.jpeg\" alt=\"Shooting star 2021: Alireza Firouzja\" srcset=\"https://www.chesstech.org/files/51662954275-52e4243606-k.480.jpeg 1x, https://www.chesstec",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/winners-and-losers-of-2021/",
-         "pubDate" : "Wed, 12 Jan 2022 22:24:24 +0100",
-         "title" : "Winners and losers"
       },
       {
          "description" : "At the end of last year, ChessBase launched a Fritz 18 brilliancy competition, and the winners have now been drawn. We got games from 30 years ago, including photos of original documents, online blitz games and many games against the new Fritz 18 engine. The winners will receive private training with GM Kasimdzhanov, an online blitz tournament against a GM, and vouchers worth 25-50 euros.",
