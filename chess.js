@@ -10,7 +10,7 @@ news_feed (
          "title" : "Straight from the Opening to the Endgame | Insane in the Endgame - GM Atanas Kolev"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. 2022.01.19<br /> B32 Sicilian, Labourdonnais-Loewenthal (Kalashnikov) variation<br /> B32 Sicilian defence </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-guns-roses-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_t",
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani details the Kalashnikov Sicilian, or 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5. This is the penultimate entry in her series on playing against the Sicilian Defense with White. 2022.01.19<br /> B32 Sicilian, Labourdonnais-Loewenthal (Kalashnikov) variation<br /> B32 Sicilian defence </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-guns-roses-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischesscl",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/play-sicilian-guns-roses-chess-and-psychology-im-dorsa-derakhshani",
@@ -1960,14 +1960,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/the-world-champion-film-karpov-korchnoi-1978",
          "pubDate" : "Thu, 30 Dec 2021 02:41:00 -0800",
          "title" : "Karpov-Korchnoi 1978 Depicted In 'The World Champion'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88581906.cms\" />Twenty-year old Indian player R Vaishali is in second place with 7.5 points from nine rounds in the women's section of the World Blitz chess championship while her countrywoman Koneru Humpy is in joint third.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-chess-championship-r-vaishali-in-2nd-place-in-womens-section-koneru-humpy-joint-third/articleshow/88581906.cms",
-         "pubDate" : "Thu, 30 Dec 2021 10:49:11 +0530",
-         "title" : "World Blitz C'ship: Vaishali in 2nd place in women's section, Humpy joint 3rd"
       }
    ]
 }
