@@ -42,12 +42,12 @@ news_feed (
          "title" : "FM Ignacio P&eacute;rez (1967-2022) passes away"
       },
       {
-         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "description" : "Returning from the rest day, Shakhriyar Mamedyarov and Richard Rapport (pictured) scored full points to join Vidit Gujrathi in the lead of the Tata Steel Masters. Andrey Esipenko and Magnus Carlsen stand close behind, as the world champion both lived dangerously and got winning chances in his (drawn) game against Nils Grandelius on Thursday. | Replay the games with computer analysis. Full report to follow shortly!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
          "pubDate" : "Thu, 20 Jan 2022 13:45:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
+         "title" : "Tata Steel Chess - Three players share the lead"
       },
       {
          "description" : " I might be getting soft in my old age, but I am not annoyed by players who do night resign at the appropriate time as I used to be. Possibly one the reasons for this, is that for new players, playing on until they are checkmated is a learning experience for them. On at least one occasion I have had an opponent explain why they won't resign ('so I can see how you would win from this position'), and in a few coaching sessions my comment about one side resigning has been met with a 'But why?' <br /> ",
