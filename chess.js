@@ -266,6 +266,14 @@ news_feed (
          "title" : "Tata Steel Chess 2022 R4: Mamedyarov, Praggnanandhaa Score"
       },
       {
+         "description" : " Here is the publishers blurb from the rear cover : &#8220;What exactly makes the greatest players of all time, such as Magnus Carlsen, Bobby Fischer, and Garry Kasparov stand out from the rest? The basic aspects of chess (calculation, study of opening theory, and technical endgame ability) are of course of great importance. However, the <a href=\"http://britishchessnews.com/2022/01/18/mastering-chess-logic/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Mastering Chess Logic</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/01/18/mastering-chess-logic/\">Mastering Chess Logic</a> appeared first on <a rel=\"n",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/01/18/mastering-chess-logic/",
+         "pubDate" : "Tue, 18 Jan 2022 00:10:45 +0000",
+         "title" : "Mastering Chess Logic"
+      },
+      {
          "description" : "Season 3 of the Collegiate Chess League was the biggest season to date with over 80 schools from over a dozen countries fielding 160 teams across 10 divisions (over 1000 total students)! This is only a fraction of the number of schools and student...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1960,14 +1968,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-world-blitz-chess-championship-day-1",
          "pubDate" : "Wed, 29 Dec 2021 17:37:00 -0800",
          "title" : "World Blitz Chess Championship Day 1: Aronian and Assaubayeva Lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1507",
-         "pubDate" : "Wed, 29 Dec 2021 22:46:46 +0000",
-         "title" : "A wide-open race in the World Blitz as Carlsen suffers three defeats"
       }
    ]
 }
