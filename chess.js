@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In previous Saturday chess columns I have referred to Dante's use of the game in his cosmological system, to describe the number of angels in the heavens. The formula is that of a piece of corn placed on a corner of the chessboard, and doubled on each square thereafter. This operation results in two to []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/dante-steve-baker-and-checkmate/",
+         "pubDate" : "Fri, 21 Jan 2022 14:22:03 +0000",
+         "title" : "Dante, Steve Baker and checkmate"
+      },
+      {
+         "description" : "Shakhriyar Mamedyarov and Richard Rapport won wild games to join Vidit in the lead as Tata Steel Chess resumed after the first rest day. Shakh's second win in a row came against Jorden van Foreest, while Richard admitted he'd \"pulled a rabbit out of a hat\" after getting surprised in the opening by Praggnanandhaa. Magnus Carlsen and Fabiano Caruana missed chances, while Jan-Krzysztof Duda accepted a draw in a winning position. Arjun Erigaisi leads the Challengers by a full point after winning a 3rd game in a row.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-5-rapport-mamedyarov-hit-the-front",
+         "pubDate" : "Fri, 21 Jan 2022 12:56:38 +0000",
+         "title" : "Tata Steel 5: Rapport & Mamedyarov hit the front"
+      },
+      {
+         "description" : " We'll wrap up our look at skewers this week by looking at the most powerful skewer of all, one involving the King. If you recall from the last two articles on this specific tactic, a skewer is similar to a pin, in that there are three pieces involved; the piece doing the skewer, the skewered <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-nine/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Nine\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-nine/\">A Foundation for Beginners Forty Nine</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">Th",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-nine/",
+         "pubDate" : "Fri, 21 Jan 2022 12:50:58 +0000",
+         "title" : "A Foundation for Beginners Forty Nine"
+      },
+      {
+         "description" : " The local ACT Chess Clubs are starting up again after the holiday break. Both the Tuggeranong and Canberra clubs started this week, while the Gungahlin Eastlakes Chess Club starts their year with the 2022 ACT Lightning Championship. The will be a 9 round event with a time limit of all moves in 5 minutes. The venue is the Gungahlin Eastlake Football Club, Hinder St, Gungahlin. The date is Tuesday 1st February. Start time is 7:00pm and entry fee is $10 ($5 Under 18). It is open to all ACT Chess Association Members. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/2022-act-blitz-championship.html",
+         "pubDate" : "Fri, 21 Jan 2022 12:49:00 +0000",
+         "title" : "2022 ACT Blitz Championship"
+      },
+      {
+         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
+         "pubDate" : "Fri, 21 Jan 2022 13:45:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> An extraordinary meeting of the <strong>Play Magnus Group</strong> shareholders <a href=\"https://live.euronext.com/en/product/equities/NO0010890726-MERK#CompanyPressRelease-8417456\">agreed</a> to issue 4,864,753 additional shares at an adjusted prize of NOK 18,30 to <strong>Yuri Milner</strong> for $10 million. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/pmg-accepted-milners-bid/",
+         "pubDate" : "Fri, 21 Jan 2022 13:37:33 +0100",
+         "title" : "PMG accepted Milner's bid"
+      },
+      {
          "description" : " <p class=\"lead\">Round 5 of the <a href=\"https://tatasteelchess.com/players/\">2022 Tata Steel Chess Tournament</a> ended with Mamedyarov and Rapport winning Van Foreest and Rameshbabu respectively and joining Vidit in the lead. All the other games ended in a draw but with the utmost excitement. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.7182130584192\"> <img src=\"https://worldchess.com/news/pictures/LOW00694.jpg\" width=\"1500\" height=\"873\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW00638.jpg\" width=\"1500\" height=\"891\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW00635.jpg\" width=\"1500\" height=\"970\" alt=\"\" /> <img src=\"htt",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -66,12 +114,12 @@ news_feed (
          "title" : "Kolev's Opening Preparation | Grandmaster's Choice - GM Atanas Kolev"
       },
       {
-         "description" : "The sixth round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Friday, January 21. With three players&#38;mdash;GM Vidit Gujrathi, GM Shakhriyar Mamedyarov, and GM Richard Rapport&#38;mdash;tied for first place entering the round...",
+         "description" : "Our coverage of the sixth round of the 2022 Tata Steel Chess Tournament is underway. With three players&#38;mdash;GM Vidit Gujrathi, GM Shakhriyar Mamedyarov, and GM Richard Rapport&#38;mdash;tied for first place entering the round, will someone join them...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-6",
          "pubDate" : "Thu, 20 Jan 2022 17:00:00 -0800",
-         "title" : "How To Watch Tata Steel Chess 2022 Round 6"
+         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 6"
       },
       {
          "description" : "",
@@ -978,14 +1026,6 @@ news_feed (
          "title" : "Announcing The Chess.com Rapid Chess Championship With $650,000 In Prizes"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Germany's top team is <a href=\"https://perlenvombodensee.de/2022/01/11/mit-giri-mit-esipenko-ohne-firouzja/\">getting even stronger</a>. Anish Giri joins the <strong>OSG Baden-Baden</strong> and so do <strong>Alexander Donchenko</strong> and <strong>Georg Meier</strong> who used to play for the second placed team <strong>SF Deizisau</strong>. Even though no agreement with <strong>Alireza Firouzja</strong> could be reached, winning a 16th championship title in this <strong>Bundesliga</strong> season starting in March is highly likely, as the Russian youngster <strong>Andrey Esipenko</strong> alone will not transform <strong>Turm Kiel</strong> into a t",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/giri-and-esipenko-re-join/",
-         "pubDate" : "Thu, 13 Jan 2022 14:33:50 +0100",
-         "title" : "Giri and Esipenko (re-)join Bundesliga"
-      },
-      {
          "description" : "The 84th edition of the Tata Steel Chess Tournament opens tomorrow and takes place in Wijk aan Zee from 14 - 30 January 2022. This year, the Tata Steel Chess Tournament 2022 features Masters and Challengers events, taking place in the traditional Wijk aan Zee venue, while the annual Tata Steel Chess for children will take place Online&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/tata-steel-chess-2022-starts-in-wijk-aan-zee/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1834,14 +1874,6 @@ news_feed (
          "title" : "The new FIDE World Ranking List: January 2022"
       },
       {
-         "description" : "Jon Speelman looks forwards and backwards as we enter the new year, looking at a game between Magnus Carlsen and World Rapid Champion Nodirbek Abdusattorov after recapping what went on in 2021. He also analyses three games from previous editions of the traditional Hastings Tournament, incluidng one of his, in which he played his \"most outrageous move ever\"! | Photo: Nigel Short, Lev Psakhis and Jon Speelman in Hastings (c. 1987) / Nigel Short&rsquo;s Facebook page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-161",
-         "pubDate" : "Sun, 02 Jan 2022 22:45:00 +0100",
-         "title" : "Battles in Hastings"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1904,22 +1936,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1509",
          "pubDate" : "Fri, 31 Dec 2021 16:43:36 +0000",
          "title" : "Kenya Championship: Martin Njoroge and Sasha Mongeli clinch titles"
-      },
-      {
-         "description" : " but nothing too drastic. When you visit the calendar page you'll notice a new button (Expand) near the top of the calendar itself &#8212;...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/changes-to-the-ecf-calendar/",
-         "pubDate" : "Fri, 31 Dec 2021 16:11:57 +0000",
-         "title" : "Changes to the ECF calendar &hellip;"
-      },
-      {
-         "description" : " Predicting what will happen in world chess in 2022 is a risky proposition. Just as it looks like things are on the up, a new covid strain, or outbreak comes along to throw everything into conclusion. This means exactly which events will, or will not happen, is quite difficult. At this stage local events like the 2022 O2C Doeberl Cup will be running. The ACT Government has been pretty flexible with restrictions, and given the low infection rate and high vaccination rate, I would be surprised if there is a shutdown in the ACT. Slightly trickier is guessing whether there will be travel restrictions between states, although the constant redefinition of infection periods (or what a close contact",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2021/12/things-to-look-forward-to-in-2022.html",
-         "pubDate" : "Fri, 31 Dec 2021 12:45:00 +0000",
-         "title" : "Things to look forward to in 2022"
       }
    ]
 }
