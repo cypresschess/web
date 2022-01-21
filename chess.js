@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Round 5 of the <a href=\"https://tatasteelchess.com/players/\">2022 Tata Steel Chess Tournament</a> ended with Mamedyarov and Rapport winning Van Foreest and Rameshbabu respectively and joining Vidit in the lead. All the other games ended in a draw but with the utmost excitement. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.7182130584192\"> <img src=\"https://worldchess.com/news/pictures/LOW00694.jpg\" width=\"1500\" height=\"873\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW00638.jpg\" width=\"1500\" height=\"891\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW00635.jpg\" width=\"1500\" height=\"970\" alt=\"\" /> <img src=\"htt",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/tata-steel-2022-round-5-mamedyarov-and-rapport-join-vidit-in-the/",
+         "pubDate" : "Fri, 21 Jan 2022 12:05:53 +0000",
+         "title" : "Tata Steel 2022 Round 5: Mamedyarov and Rapport join Vidit in the lead"
+      },
+      {
+         "description" : "Anatoly Karpov is one of the World Champions who is featured in the ChessBase NFT series. The 12th World Champion is a passionate stamp collector and immediately understood the idea. In an interview Karpov talks about NFTs, the story behind his brilliant win against Viktor Kortschnoi in the Candidates Final 1974, the World Championship match Carlsen vs. Nepomniachtchi, and Carlsen's statements about defending the title.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/once-clearly-won-and-already-tired-of-winning-interview-with-anatoly-karpov",
+         "pubDate" : "Fri, 21 Jan 2022 11:44:59 +0100",
+         "title" : "\"One clear win and already tired of winning?\" - An interview with Anatoly Karpov"
+      },
+      {
+         "description" : "Charles Leclerc and Carlos Sainz Jr. are the drivers of the legendary Scuderia Ferrari in Formula One. Lewis Hamilton is not the only self-confessed chess fan among Formula One racing drivers. The two Ferrari drivers also love the royal game and even engaged in a rapid chess challenge.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-charles-leclerc-vs-carlos-sainz-chess-challenge",
+         "pubDate" : "Fri, 21 Jan 2022 11:30:00 +0100",
+         "title" : "The Charles Leclerc vs Carlos Sainz Chess Challenge"
+      },
+      {
+         "description" : " <p class=\"lead\">In just two weeks, Berlin will host the first round of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022, organized by World Chess</a>. From February 3 to 17 sixteen elite chess players, including Grandmaster Harikrishna, who replaced the drop-out Wei Yi, will compete for the chance to win the last two spots in the Candidates tournament to be held later this year as well as for a EUR150,000 prize fund. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/bKEQRsnv4dc?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> The drawing of lots ceremony determined the pools for the first leg of the Se",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/pools-for-the-first-leg-of-the-fide-grand-prix-are-announced/",
+         "pubDate" : "Fri, 21 Jan 2022 09:13:54 +0000",
+         "title" : "Pools For the First Leg of the FIDE Grand Prix Are Announced"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1534",
+         "pubDate" : "Fri, 21 Jan 2022 08:55:39 +0000",
+         "title" : "Groups for First Leg of FIDE Grand Prix Are Announced"
+      },
+      {
          "description" : " World champion and opponents both miss chances at Wijk as attempt at 2900 rating gets under way, while Shak Mamedyarov launches 1 d4 Nf6 2 c4 e6 3 g4?! and still leads the tournament Magnus Carlsen announced recently that his main chess target this year will be a fresh attempt to reach an all-time record rating of 2900, a level which narrowly eluded the world champion in 2014 and 2019. The 31-year-old Norwegian achieved 2882 in both years on the official Fide monthly rating lists, and peaked at 2889 on the unofficial <a href=\"https://www.2700chess.com/\" title=\"\">2700chess daily ratings</a>. Carlsen also stated that he will only defend his world championship crown in 2023 if his opponent is ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1810,14 +1850,6 @@ news_feed (
          "title" : "Susal and Niklesha win Sri Lanka championship"
       },
       {
-         "description" : "The Ukrainian Championships took place in Kharkiv on 8-17 December 2021. The tournaments were nicely organized in the library of the Yaroslav Mudryi National Law University. Andrei Volokitin clinched first place in the open section by winning both his games in the two final rounds, while Kateryna Dolzhykova surprisingly got the gold in the women's tournament. | Photos: Ukrainian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/volokitin-and-dolzhykova-are-2021-ukrainian-champions",
-         "pubDate" : "Sun, 02 Jan 2022 21:25:00 +0100",
-         "title" : "Volokitin and Dolzhykova are 2021 Ukrainian Champions"
-      },
-      {
          "description" : " <p class=\"lead\">It's the \"New Year, New Me\" season, and everyone is possessed by an optimistic and hopeful spirit. From weight loss to getting a Ph.D., the New Year's goal list has overwhelmingly all kinds of wishes, and dreams. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Niki-Riga_-06228.jpg\" width=\"2560\" height=\"1706\" alt=\"\" /> <div class=\"e2-text-caption\">photo: World Chess</div> </div> Chess players have their own, special list for the chess resolutions of the year, but for those who are still in the process of strategizing their next steps, we are here to help you! <h2>Solve at least 1 tactic problem per day</h2> Tactics sharpen your mind and make you m",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1840,14 +1872,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-different-approach-to-tactics/",
          "pubDate" : "Sun, 02 Jan 2022 11:15:00 +0000",
          "title" : "A Different Approach to Tactics"
-      },
-      {
-         "description" : "In his ChessBase Magazine column \"Topical opening traps\", GM Rainer Knaak regularly examines examples from current tournament practice. He also presents three of them in the video analysis in each CBM. Especially for club players, his contributions offer exciting suggestions. Thanks to the range of topics, you should be able to find something for your own repertoire in every issue! In addition, the trap expert often shows variations that are rarely seen in top-level chess but must be on one's mind as a club chess player. We offer you an excerpt from Rainer Knaak's collection from ChessBase #205 here, including a video on the Budapest Gambit.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/from-cool-to-highly-speculative",
-         "pubDate" : "Sun, 02 Jan 2022 11:00:00 +0100",
-         "title" : "\"From cool to highly speculative\""
       },
       {
          "description" : " This year was the 20th year for The Chess Drum. On February 12th, I posted a very lengthy chronicle of the site's history with key moments each of the 20 years. I put a lot of effort into that post, but it was fulfilling to recount the special moments, not only for The Chess Drum, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/31/the-chess-drums-highlights-of-2021/\">The Chess Drum's Highlights of 2021!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -1896,14 +1920,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2021/12/things-to-look-forward-to-in-2022.html",
          "pubDate" : "Fri, 31 Dec 2021 12:45:00 +0000",
          "title" : "Things to look forward to in 2022"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88616354.cms\" />India's teenage Grandmaster P Iniyan finished a creditable third in the Lorca Open 2021 chess tournament here.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/iniyan-finishes-third-in-lorca-open-chess/articleshow/88616354.cms",
-         "pubDate" : "Fri, 31 Dec 2021 17:25:58 +0530",
-         "title" : "Iniyan finishes third in Lorca Open chess"
       }
    ]
 }
