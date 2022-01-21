@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev teaches a chess class on a topic of his choice. The mysterious masked Atanas gives you insight into his own playbook! 2022.01.20<br /> Coleman vs. Atanas Kolev, 2018: E36 Nimzo-Indian, classical, Noa variation, 5.a3<br /> Varuzhan Akobian vs Viswanathan Anand, World Rapid Championship (2017): E36 Nimzo-Indian, classical, Noa variation, 5.a3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1903185\">https://www.chessgames.com/perl/chessgame?gid=1903185</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link fie",
+         "description" : " World champion and opponents both miss chances at Wijk as attempt at 2900 rating gets under way, while Shak Mamedyarov launches 1 d4 Nf6 2 c4 e6 3 g4?! and still leads the tournament Magnus Carlsen announced recently that his main chess target this year will be a fresh attempt to reach an all-time record rating of 2900, a level which narrowly eluded the world champion in 2014 and 2019. The 31-year-old Norwegian achieved 2882 in both years on the official Fide monthly rating lists, and peaked at 2889 on the unofficial <a href=\"https://www.2700chess.com/\" title=\"\">2700chess daily ratings</a>. Carlsen also stated that he will only defend his world championship crown in 2023 if his opponent is ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/jan/21/chess-carlsens-record-hunt-starts-badly-while-bizarre-opening-shocks-pundits",
+         "pubDate" : "Fri, 21 Jan 2022 08:00:27 +0000",
+         "title" : "Chess: Carlsen's record hunt starts badly while bizarre opening shocks pundits"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89031528.cms\" />Indian Grandmaster Vidit Santhosh Gujrathi settled for a draw against Dutchman Anish Giri in the fifth round to stay in joint lead with 3.5 points at the Tata Steel Masters in the Netherlands.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-vidit-gujrathi-draws-with-anish-giri-in-joint-lead-with-mamedyarov-and-rapport/articleshow/89031528.cms",
+         "pubDate" : "Fri, 21 Jan 2022 10:03:14 +0530",
+         "title" : "Tata Steel Chess: Vidit draws with Anish, stays in joint lead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev teaches a chess class on a topic of his choice. The mysterious masked Atanas gives you insight into his own playbook! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kolevs-opening-preparation-grandmasters-choice-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/W-A2blo_qUI.jpg?itok=LGCSSqug\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/kolevs-opening-preparation-grandmasters-choice-gm-atanas-kolev",
@@ -74,7 +90,7 @@ news_feed (
          "title" : "Tolka the hero"
       },
       {
-         "description" : " Share! FM Ignacio Perez (1967-2022)Photo by Washington State Chess Federation The Seattle chess community is in mourning after the passing of Ignacio P&eacute;rez on January 11th, 2022. The long-time Seattle resident succumbed after a lengthy battle with throat cancer but remained active in the chess community despite his illness. He was a few weeks shy [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/20/fm-ignacio-perez-1967-2022-passes-away/\">FM Ignacio P&eacute;rez (1967-2022) passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!44 FM Ignacio Perez (1967-2022)Photo by Washington State Chess Federation The Seattle chess community is in mourning after the passing of Ignacio P&eacute;rez on January 11th, 2022. The long-time Seattle resident succumbed after a lengthy battle with throat cancer but remained active in the chess community despite his illness. He was a few weeks shy [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/20/fm-ignacio-perez-1967-2022-passes-away/\">FM Ignacio P&eacute;rez (1967-2022) passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/01/20/fm-ignacio-perez-1967-2022-passes-away/",
@@ -1888,14 +1904,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/iniyan-finishes-third-in-lorca-open-chess/articleshow/88616354.cms",
          "pubDate" : "Fri, 31 Dec 2021 17:25:58 +0530",
          "title" : "Iniyan finishes third in Lorca Open chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88610273.cms\" />India's top player Koneru Humpy finished fifth in the women's event of the FIDE World Blitz championship while her compatriot R Vaishali, who was in second spot after nine rounds, slipped to 14th here.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-chess-championship-koneru-humpy-takes-5th-spot-r-vaishali-ends-up-14th/articleshow/88610273.cms",
-         "pubDate" : "Fri, 31 Dec 2021 13:10:53 +0530",
-         "title" : "World Blitz Chess Championship: Koneru Humpy takes 5th spot, R Vaishali ends up 14th"
       }
    ]
 }
