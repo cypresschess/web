@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Power Play Show, GM Daniel King looks at a rare occurrence - a missed opportunity by world champion Magnus Carlsen! The Norwegian could have beaten Andrey Esipenko in Wijk aan Zee had he correctly calculated a tactical sequence in the middlegame. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-what-did-carlsen-miss",
+         "pubDate" : "Fri, 21 Jan 2022 18:30:00 +0100",
+         "title" : "Daniel King's Power Play Show: What did Carlsen miss?"
+      },
+      {
          "description" : "In previous Saturday chess columns I have referred to Dante's use of the game in his cosmological system, to describe the number of angels in the heavens. The formula is that of a piece of corn placed on a corner of the chessboard, and doubled on each square thereafter. This operation results in two to []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -114,12 +122,12 @@ news_feed (
          "title" : "Kolev's Opening Preparation | Grandmaster's Choice - GM Atanas Kolev"
       },
       {
-         "description" : "Our coverage of the sixth round of the 2022 Tata Steel Chess Tournament is underway. With three players&#38;mdash;GM Vidit Gujrathi, GM Shakhriyar Mamedyarov, and GM Richard Rapport&#38;mdash;tied for first place entering the round, will someone join them...",
+         "description" : "With a fairly smooth win vs. GM Richard Rapport, World Champion Magnus Carlsen joined the leaders in round six of the&#38;nbsp;2022 Tata Steel Chess Tournament. GM Fabiano Caruana had just equalized a tough position in timetrouble vs. GM Anish Giri wh...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-6",
          "pubDate" : "Thu, 20 Jan 2022 17:00:00 -0800",
-         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 6"
+         "title" : "Tata Steel Chess 2022 R6: Carlsen Joins Leaders, Caruana Blunders Tragically"
       },
       {
          "description" : "",
@@ -1866,14 +1874,6 @@ news_feed (
          "title" : "Grandmaster Pragg vs Fritz 18"
       },
       {
-         "description" : "At the beginning of the new year FIDE published its new World Ranking List. Magnus Carlsen gained nine rating points in the World Championship match against Ian Nepomniachtchi, and with a rating of 2865 he is now 35 points away from 2900 but 61 points ahead of Alireza Firouzja, the youngest world's number two of all time, who also leads the junior's list. Hou Yifan (2658) is the women's world number one, followed by Aleksandra Goryachkina with 2610. Zhu Jiner (2478) from China leads the \"Girls\" list.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-new-fide-world-ranking-list-january-2022",
-         "pubDate" : "Mon, 03 Jan 2022 12:24:54 +0100",
-         "title" : "The new FIDE World Ranking List: January 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1920,22 +1920,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/12/31/brewington-hardaway-continues-to-climb/",
          "pubDate" : "Fri, 31 Dec 2021 18:59:03 +0000",
          "title" : "Brewington Hardaway continues to climb!"
-      },
-      {
-         "description" : " I hope you all had a wonderful holiday season. It's now time to start the new year, which will hopefully, bring us all some much needed relief! This week, we're going to look at a tactic called the skewer which is a close cousin to the pin. This will be an easy lesson because the <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-seven/\">A Foundation for Beginners Forty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-seven/",
-         "pubDate" : "Fri, 31 Dec 2021 17:35:09 +0000",
-         "title" : "A Foundation for Beginners Forty Seven"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1509",
-         "pubDate" : "Fri, 31 Dec 2021 16:43:36 +0000",
-         "title" : "Kenya Championship: Martin Njoroge and Sasha Mongeli clinch titles"
       }
    ]
 }
