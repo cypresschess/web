@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Returning from the rest day, Shakhriyar Mamedyarov and Richard Rapport scored full points to join Vidit Gujrathi in the lead of the Tata Steel Masters. Andrey Esipenko and Magnus Carlsen stand close behind, as the world champion both lived dangerously and got winning chances in his (drawn) game against Nils Grandelius. Meanwhile, Arjun Erigaisi won again in the Challengers, and now has a one-point lead in the standings table. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r5",
+         "pubDate" : "Fri, 21 Jan 2022 00:50:00 +0100",
+         "title" : "Tata Steel R5: Shakh and Rapport join Vidit in the lead"
+      },
+      {
          "description" : "The Kvika Reykjavik Open will return to its normal setting in the Harpa music and conference center in 2022 - which has been billed as the best playing venue for an open tournament ever! The dates are from the 6th of April until the 12th of April, with nine rounds in seven days! Many world class players have taken part in then tournament in recent years. The total prize-fund in the 2022 edition will be €15.000, including many special prizes for various age and rating categories, in addition to the traditional top women's prize.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/kvika-reykjavik-open-2022",
          "pubDate" : "Thu, 20 Jan 2022 20:00:00 +0100",
          "title" : "Kvika Reykjavik Open 2022"
+      },
+      {
+         "description" : " The fifth round of the Tata Steel Masters saw just two decisive games but those took the winners into a share of the lead after five rounds. Round 4 leader Vidit Gujrathi held Anish Giri to a draw in a Petroff Defence. Richard Rapport managed to outplay R Praggnanandhaa after losing the opening battle. Shakhriyar Mamedyarov beat Jorden van Foreest in an Open Spanish. Vidit, Rapport and Mamedyarov now lead the tournament. Magnus Carlsen had chances to beat Nils Grandelius but only drew. Esipenko-Caruana was drawn with definite chances missed for the American. Jan-Krzysztof Duda agreed a draw in time trouble against Sergey Karjakin where he had a rather unobvious win on the board. Dubov and S",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/wins-for-rapport-and-mamedyarov-take-them-into-a-joint-lead-with-vidit-after-tata-steel-round-5",
+         "pubDate" : "Thu, 20 Jan 2022 21:52:00 +0400",
+         "title" : "Wins for Rapport and Mamedyarov take them into a joint lead with Vidit after Tata Steel Round 5 - 5"
       },
       {
          "description" : "The National Women Chess Championship 2022 scheduled at Bheemavaram, Andhra Pradesh from 09-19 Feb 2022 and National Amateur Chess Championship 2022 scheduled at Jaipur, Rajasthan",
@@ -1802,14 +1818,6 @@ news_feed (
          "title" : "A Different Approach to Tactics"
       },
       {
-         "description" : "In his ChessBase Magazine column \"Topical opening traps\", GM Rainer Knaak regularly examines examples from current tournament practice. He also presents three of them in the video analysis in each CBM. Especially for club players, his contributions offer exciting suggestions. Thanks to the range of topics, you should be able to find something for your own repertoire in every issue! In addition, the trap expert often shows variations that are rarely seen in top-level chess but must be on one's mind as a club chess player. We offer you an excerpt from Rainer Knaak's collection from ChessBase #205 here, including a video on the Budapest Gambit.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/from-cool-to-highly-speculative",
-         "pubDate" : "Sun, 02 Jan 2022 11:00:00 +0100",
-         "title" : "\"From cool to highly speculative\""
-      },
-      {
          "description" : " This year was the 20th year for The Chess Drum. On February 12th, I posted a very lengthy chronicle of the site's history with key moments each of the 20 years. I put a lot of effort into that post, but it was fulfilling to recount the special moments, not only for The Chess Drum, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/31/the-chess-drums-highlights-of-2021/\">The Chess Drum's Highlights of 2021!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1880,30 +1888,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2021-world-blitz-chess-championship-day-2-vachier-lagrave-assaubayeva-win",
          "pubDate" : "Thu, 30 Dec 2021 17:00:00 -0800",
          "title" : "World Blitz Chess Championship Day 2: Vachier-Lagrave and Assaubayeva New World Blitz Champions"
-      },
-      {
-         "description" : " Everyone's First Chess Workbook: Peter Giannatos From the publisher's blurb: &#8220;Working on chess tactics and checkmates will help you win more games. It develops your pattern recognition and your board vision' your ability to capitalize on opportunities. This Workbook features a complete set of fundamental tactics, checkmate patterns, exercises, hints, and solutions. Peter Giannatos selected <a href=\"http://britishchessnews.com/2021/12/31/everyones-first-chess-workbook-fundamental-tactics-and-checkmates-for-improvers/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Everyone's First Chess Workbook: Fundamental Tactics and Checkmates for Improvers</span> <span class=\"",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2021/12/31/everyones-first-chess-workbook-fundamental-tactics-and-checkmates-for-improvers/",
-         "pubDate" : "Fri, 31 Dec 2021 00:10:51 +0000",
-         "title" : "Everyone's First Chess Workbook: Fundamental Tactics and Checkmates for Improvers"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1508",
-         "pubDate" : "Thu, 30 Dec 2021 22:53:01 +0000",
-         "title" : "Maxime Vachier-Lagrave is the new world blitz champion"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov of Uzbekistan defeats Carlsen, Fabiano Caruana and Ian Nepomniachtchi to become youngest ever world champion in open competition A little-known 17-year-old from Uzbekistan made a clean sweep of Magnus Carlsen and the global chess elite on Tuesday, incidentally setting a world age record. Nodirbek Abdusattorov won the World Rapid championship in Warsaw, claiming en route the scalps of Magnus Carlsen and the No 1's last two challengers, Fabiano Caruana and Ian Nepomniachtchi. In rapid chess each player has 15 minutes for all moves, plus a 10 second per move increment. After 21 rounds of three-minute games on Wednesday and Thursday, France's Maxime Vachier-Lagrave defeate",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2021/dec/30/chess-17-year-old-shocks-carlsen-and-becomes-youngest-world-rapid-winner",
-         "pubDate" : "Thu, 30 Dec 2021 22:07:10 +0000",
-         "title" : "Chess: 17-year-old shocks Carlsen and becomes youngest world rapid winner"
       }
    ]
 }
