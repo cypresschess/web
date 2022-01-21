@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Returning from the rest day, Shakhriyar Mamedyarov and Richard Rapport scored full points to join Vidit Gujrathi in the lead of the Tata Steel Masters. Andrey Esipenko and Magnus Carlsen stand close behind, as the world champion both lived dangerously and got winning chances in his (drawn) game against Nils Grandelius. Meanwhile, Arjun Erigaisi won again in the Challengers, and now has a one-point lead in the standings table. | Photo: Lennart Ootes",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev teaches a chess class on a topic of his choice. The mysterious masked Atanas gives you insight into his own playbook! 2022.01.20<br /> Coleman vs. Atanas Kolev, 2018: E36 Nimzo-Indian, classical, Noa variation, 5.a3<br /> Varuzhan Akobian vs Viswanathan Anand, World Rapid Championship (2017): E36 Nimzo-Indian, classical, Noa variation, 5.a3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1903185\">https://www.chessgames.com/perl/chessgame?gid=1903185</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link fie",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kolevs-opening-preparation-grandmasters-choice-gm-atanas-kolev",
+         "pubDate" : "Fri, 21 Jan 2022 02:09:02 +0000",
+         "title" : "Kolev's Opening Preparation | Grandmaster's Choice - GM Atanas Kolev"
+      },
+      {
+         "description" : "The sixth round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Friday, January 21. With three players&#38;mdash;GM Vidit Gujrathi, GM Shakhriyar Mamedyarov, and GM Richard Rapport&#38;mdash;tied for first place entering the round...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-6",
+         "pubDate" : "Thu, 20 Jan 2022 17:00:00 -0800",
+         "title" : "How To Watch Tata Steel Chess 2022 Round 6"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1535",
+         "pubDate" : "Fri, 21 Jan 2022 00:51:36 +0000",
+         "title" : "Tata Steel Masters: Mamedyarov and Rapport catch up with Vidit"
+      },
+      {
+         "description" : "Returning from the rest day, Shakhriyar Mamedyarov and Richard Rapport scored full points to join Vidit Gujrathi in the lead of the Tata Steel Masters tournament. Andrey Esipenko and Magnus Carlsen stand close behind, as the world champion both lived dangerously and got winning chances in his (drawn) game against Nils Grandelius. Meanwhile, Arjun Erigaisi won again in the Challengers, and now has a one-point lead in the standings table. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r5",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/01/20/fm-ignacio-perez-1967-2022-passes-away/",
          "pubDate" : "Thu, 20 Jan 2022 15:41:46 +0000",
          "title" : "FM Ignacio P&eacute;rez (1967-2022) passes away"
-      },
-      {
-         "description" : "Returning from the rest day, Shakhriyar Mamedyarov and Richard Rapport (pictured) scored full points to join Vidit Gujrathi in the lead of the Tata Steel Masters. Andrey Esipenko and Magnus Carlsen stand close behind, as the world champion both lived dangerously and got winning chances in his (drawn) game against Nils Grandelius on Thursday. | Replay the games with computer analysis. Full report to follow shortly!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
-         "pubDate" : "Thu, 20 Jan 2022 13:45:00 +0100",
-         "title" : "Tata Steel Chess - Three players share the lead"
       },
       {
          "description" : " I might be getting soft in my old age, but I am not annoyed by players who do night resign at the appropriate time as I used to be. Possibly one the reasons for this, is that for new players, playing on until they are checkmated is a learning experience for them. On at least one occasion I have had an opponent explain why they won't resign ('so I can see how you would win from this position'), and in a few coaching sessions my comment about one side resigning has been met with a 'But why?' <br /> ",
@@ -840,14 +856,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/jan/14/chess-magnus-carlsen-targets-all-time-rating-record-of-2900-at-wijk-aan-zee",
          "pubDate" : "Fri, 14 Jan 2022 08:00:05 +0000",
          "title" : "Chess: Magnus Carlsen targets all-time rating record of 2900 at Wijk aan Zee"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev talks about the motif of sacrificing a rook on e6 for a bishop or knight. Black is left with doubled isolated pawns, wondering \"What just happened to me?\" </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sac-exchange-e6-grandmasters-choice-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1-1I66GX2wY.jpg?itok=rSxrdyTC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sac-exchange-e6-grandmasters-choice-gm-atanas-kolev",
-         "pubDate" : "Fri, 14 Jan 2022 05:03:15 +0000",
-         "title" : "Sac the Exchange on e6! | Grandmaster's Choice - GM Atanas Kolev"
       },
       {
          "description" : "Vladimir Kramnik speaks about Magnus Carlsen and crossing 2900, what Alireza Firouzja needs to do, his memories from Wijk aan Zee, and Nodirbek Abdusattorov and the rise of the young generation in the first instalment of a candid, two-part interview. Always the good-natured gentleman, the 46-year-old was generous enough to give an exclusive interview for chess24 readers.",
@@ -1818,6 +1826,14 @@ news_feed (
          "title" : "A Different Approach to Tactics"
       },
       {
+         "description" : "In his ChessBase Magazine column \"Topical opening traps\", GM Rainer Knaak regularly examines examples from current tournament practice. He also presents three of them in the video analysis in each CBM. Especially for club players, his contributions offer exciting suggestions. Thanks to the range of topics, you should be able to find something for your own repertoire in every issue! In addition, the trap expert often shows variations that are rarely seen in top-level chess but must be on one's mind as a club chess player. We offer you an excerpt from Rainer Knaak's collection from ChessBase #205 here, including a video on the Budapest Gambit.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/from-cool-to-highly-speculative",
+         "pubDate" : "Sun, 02 Jan 2022 11:00:00 +0100",
+         "title" : "\"From cool to highly speculative\""
+      },
+      {
          "description" : " This year was the 20th year for The Chess Drum. On February 12th, I posted a very lengthy chronicle of the site's history with key moments each of the 20 years. I put a lot of effort into that post, but it was fulfilling to recount the special moments, not only for The Chess Drum, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/31/the-chess-drums-highlights-of-2021/\">The Chess Drum's Highlights of 2021!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1880,14 +1896,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-chess-championship-koneru-humpy-takes-5th-spot-r-vaishali-ends-up-14th/articleshow/88610273.cms",
          "pubDate" : "Fri, 31 Dec 2021 13:10:53 +0530",
          "title" : "World Blitz Chess Championship: Koneru Humpy takes 5th spot, R Vaishali ends up 14th"
-      },
-      {
-         "description" : "GM Maxime Vachier-Lagrave (also known as MVL) finished first in the World Blitz Chess Championship with 15/21 in the Swiss tournament, after defeating GM Jan-Krzysztof Duda in their third blitz playoff game. Duda finished in second and GM Alireza ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-world-blitz-chess-championship-day-2-vachier-lagrave-assaubayeva-win",
-         "pubDate" : "Thu, 30 Dec 2021 17:00:00 -0800",
-         "title" : "World Blitz Chess Championship Day 2: Vachier-Lagrave and Assaubayeva New World Blitz Champions"
       }
    ]
 }
