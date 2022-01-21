@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "If you want to learn more about the Italian Game, 1.e4 e5 2.Nf3 Nc6 3.Bc4, is there a better teacher than Anish Giri? The Dutch GM (of Nepalese/Russian extraction) is number seven in the world, with a 2772 rating. In a very instructive video, Anish tells you everything you need to know about this opening. The two-hour streaming session with ChessBase India is most entertaining, and at the same time wonderfully instructive. Take this boost to your tournament performance and make the most of it!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anish-giri-teaches-the-italian",
+         "pubDate" : "Fri, 21 Jan 2022 20:00:00 +0100",
+         "title" : "Anish Giri teaches the Italian"
+      },
+      {
+         "description" : "Normally, Lawrence and Arne approach the tactic section, and solve some puzzles to reach a higher rating. Today, Alexander Alekhine takes over. Lawrence shows us two prime examples of Alekhines tactical understanding. Trent's Tactics is about exceeding your tactical understanding, with plenty of different motifs. We highly recommend trying the puzzles on your own for a couple of minutes, before watching the solution.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-11",
+         "pubDate" : "Fri, 21 Jan 2022 19:34:04 +0100",
+         "title" : "Trent's Tactics - Alekhine's tactical brilliancies"
+      },
+      {
          "description" : "In his Power Play Show, GM Daniel King looks at a rare occurrence - a missed opportunity by world champion Magnus Carlsen! The Norwegian could have beaten Andrey Esipenko in Wijk aan Zee had he correctly calculated a tactical sequence in the middlegame. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,12 +114,12 @@ news_feed (
          "title" : "Groups for First Leg of FIDE Grand Prix Are Announced"
       },
       {
-         "description" : " World champion and opponents both miss chances at Wijk as attempt at 2900 rating gets under way, while Shak Mamedyarov launches 1 d4 Nf6 2 c4 e6 3 g4?! and still leads the tournament Magnus Carlsen announced recently that his main chess target this year will be a fresh attempt to reach an all-time record rating of 2900, a level which narrowly eluded the world champion in 2014 and 2019. The 31-year-old Norwegian achieved 2882 in both years on the official Fide monthly rating lists, and peaked at 2889 on the unofficial <a href=\"https://www.2700chess.com/\" title=\"\">2700chess daily ratings</a>. Carlsen also stated that he will only defend his world championship crown in 2023 if his opponent is ",
+         "description" : " World champion's win on Friday puts him back at the top of the table as his attempt to break the 2900 rating barrier gets under way, while co-leader Shak Mamedyarov unleashes the bizarre opening 1 d4 Nf6 2 c4 e6 3 g4?! Magnus Carlsen's campaign to score a record eighth victory at Tata Steel Wijk, the \"chess Wimbledon\", and so launch his campaign to break the 2900 rating barrier which he narrowly missed in 2014 and 2019, was back on track after Friday's sixth round despite a the No 1's earlier sluggish start to the elite tournament. The world champion used his favourite Catalan Opening to demolish Hungary's Richard Rapport <a href=\"https://chess24.com/en/watch/live-tournaments/tata-steel-mas",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/jan/21/chess-carlsens-record-hunt-starts-badly-while-bizarre-opening-shocks-pundits",
-         "pubDate" : "Fri, 21 Jan 2022 08:00:27 +0000",
-         "title" : "Chess: Carlsen's record hunt starts badly while bizarre opening shocks pundits"
+         "pubDate" : "Fri, 21 Jan 2022 08:00:26 +0000",
+         "title" : "Chess: Carlsen jumps into sixth-round lead at Wijk as he hunts rating record"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89031528.cms\" />Indian Grandmaster Vidit Santhosh Gujrathi settled for a draw against Dutchman Anish Giri in the fifth round to stay in joint lead with 3.5 points at the Tata Steel Masters in the Netherlands.",
@@ -122,7 +138,7 @@ news_feed (
          "title" : "Kolev's Opening Preparation | Grandmaster's Choice - GM Atanas Kolev"
       },
       {
-         "description" : "With a fairly smooth win vs. GM Richard Rapport, World Champion Magnus Carlsen joined the leaders in round six of the&#38;nbsp;2022 Tata Steel Chess Tournament. GM Fabiano Caruana had just equalized a tough position in timetrouble vs. GM Anish Giri wh...",
+         "description" : "With a fairly smooth win vs. GM Richard Rapport, World Champion Magnus Carlsen joined the leaders in round six of the&#38;nbsp;2022 Tata Steel Chess Tournament. GM Fabiano Caruana had just equalized a tough position in time-trouble vs. GM Anish Giri w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-6",
@@ -1834,14 +1850,6 @@ news_feed (
          "title" : "Rook against bishop"
       },
       {
-         "description" : "On Christmas Day, the James Webb Telescope began its long journey into space, as it is expected to provide new insights into the early history of the universe. The infinite expanses have inspired many artists. Music, the stars and chess are magically connected - says Jason Kouchak. | Photo: \"Starlight\" by Julian Paix",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/infinite-expansions-space-chess-and-music",
-         "pubDate" : "Tue, 04 Jan 2022 05:05:00 +0100",
-         "title" : "Infinite expansions: space, chess and music"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1864,14 +1872,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/when-does-this-become-trap.html",
          "pubDate" : "Mon, 03 Jan 2022 13:00:00 +0000",
          "title" : "When does this become a trap?"
-      },
-      {
-         "description" : "We know that our latest version of Fritz has a special mode that allows you to actually win games - which no 3500+ program would ever do. A lot of amateurs are having loads of fun, learning to spot combinations and by brilliancies in the process. We are also experimenting with strong GMs: will they too enjoy using Fritz 18 as a training partner? Here's someone who has tried.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grandmaster-pragg-vs-fritz-18",
-         "pubDate" : "Mon, 03 Jan 2022 13:22:42 +0100",
-         "title" : "Grandmaster Pragg vs Fritz 18"
       },
       {
          "description" : "",
@@ -1912,14 +1912,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2021/12/31/the-chess-drums-highlights-of-2021/",
          "pubDate" : "Sat, 01 Jan 2022 02:50:21 +0000",
          "title" : "The Chess Drum's Highlights of 2021!"
-      },
-      {
-         "description" : " Brewington Hardaway winning Pan-Am Youth Chess Festival last October Photo courtesy of ChessKid.com After Brewington Hardaway's recent success at the K12 Championship in Orlando, it is apparent that he has been on an improvement course that has been slow and steady. Two years ago, Hardaway became a National Master at age 10, he continued to [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/31/brewington-hardaway-continues-to-climb/\">Brewington Hardaway continues to climb!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/12/31/brewington-hardaway-continues-to-climb/",
-         "pubDate" : "Fri, 31 Dec 2021 18:59:03 +0000",
-         "title" : "Brewington Hardaway continues to climb!"
       }
    ]
 }
