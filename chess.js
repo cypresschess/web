@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! Tunde Onakoya's mission to invigorate the Nigerian slum through chess has taken a grand leap. Three years ago, Tunde was in the news after writing of an adorable little girl named Basirat Ariyike. She became a symbol of what Onakoya was trying to achieve in his &#8220;Chess in Slums&#8221; initiative. In the chess world, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/22/tunde-onakoyas-mission-takes-chess-to-nigerian-slums/\">Tunde Onakoya's mission takes chess to Nigerian slums</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/01/22/tunde-onakoyas-mission-takes-chess-to-nigerian-slums/",
+         "pubDate" : "Sat, 22 Jan 2022 19:38:52 +0000",
+         "title" : "Tunde Onakoya's mission takes chess to Nigerian slums"
+      },
+      {
+         "description" : "\"Mind, Art, Experience: 10 Years of Chess & Culture in Saint Louis\" celebrates the best chess, art and culture from all 50 exhibitions held at the WCHOF since its 2011 relocation to Saint Louis, Missouri. The three-floor show features more than 120 artworks and artifacts, including pieces related to legendary World Champions Bobby Fischer, Anatoly Karpov, Garry Kasparov, and Boris Spassky.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mind-art-experience-10-years-saint-louis",
+         "pubDate" : "Sat, 22 Jan 2022 20:00:00 +0100",
+         "title" : "Mind, Art, Experience: 10 Years of Chess & Culture in Saint Louis"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -18,12 +34,12 @@ news_feed (
          "title" : "Dubov Forfeits a Game After Refusing To Wear a Mask in Tata Steel"
       },
       {
-         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "description" : "An eventful seventh round in Wijk aan Zee saw Daniil Dubov forfeiting his game against Anish Giri after declining to wear a mask during the game as requested by the organizers - someone in the Russian's inner circle had tested positive for Covid-19. Later on, wins by Magnus Carlsen, Jorden van Foreest and Fabiano Caruana left the world champion in the sole lead. | Replay the games with computer analysis. Full report to follow shortly!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
          "pubDate" : "Sat, 22 Jan 2022 13:45:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
+         "title" : "Tata Steel Chess - Carlsen sole leader"
       },
       {
          "description" : " While I think 15 minutes chess hits the sweet spot between the thud and blunder of blitz, and the longer thinking of classical chess, it can let players get away from bad positions a little easily. If you can keep up the threats (even material down), your opponent may run short of time (or rush to avoid this), increasing the chance of a blunder. Todays example comes from Street Chess, where White walked into a fairly well known trap, but then put Black under so much pressure that they cracked. <br /> <b>Chibnall,Alana - Radisich,Matt [A51]</b><br />Street Chess 22.01.2022 <script>new PgnViewer( { boardName: \"game1304\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.a3 d6 5",
@@ -74,12 +90,12 @@ news_feed (
          "title" : "Tata Steel Masters: Vidit Gujrathi remains among the leaders"
       },
       {
-         "description" : "Our coverage of the seventh round of the 2022 Tata Steel Chess Tournament is underway. World Champion Magnus Carlsen joined the lead after winning in round six, catching up with GMs Vidit Gujrati and Shakhriyar Mamedyarov. Will any of them take th...",
+         "description" : "GM Magnus Carlsen won his second game in a row and is now the sole leader after seven rounds in the&#38;nbsp;2022 Tata Steel Chess Tournament. The world champion defeated GM Praggnanandhaa R. with the black pieces. GM Daniil Dubov forfeited his game...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-7",
          "pubDate" : "Fri, 21 Jan 2022 17:00:00 -0800",
-         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 7"
+         "title" : "Tata Steel Chess 2022 R7: Carlsen Grabs Sole Lead; Dubov Forfeits Game"
       },
       {
          "description" : "Three well-known names collected full points in round 6 of the Tata Steel Masters tournament, as Magnus Carlsen, Sergey Karjakin and Anish Giri all won their Friday games in Wijk aan Zee. Carlsen's victory over Richard Rapport allowed him to catch the leaders in the standings table. Meanwhile, in the Challengers, Arjun Erigaisi continues to dominate as he scored his fifth win in a row! | Photo: Lennart Ootes",
@@ -298,7 +314,7 @@ news_feed (
          "title" : "Tolka the hero"
       },
       {
-         "description" : " Share!44 FM Ignacio Perez (1967-2022)Photo by Washington State Chess Federation The Seattle chess community is in mourning after the passing of Ignacio P&eacute;rez on January 11th, 2022. The long-time Seattle resident succumbed after a lengthy battle with throat cancer but remained active in the chess community despite his illness. He was a few weeks shy [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/20/fm-ignacio-perez-1967-2022-passes-away/\">FM Ignacio P&eacute;rez (1967-2022) passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " FM Ignacio Perez (1967-2022)Photo by Washington State Chess Federation The Seattle chess community is in mourning after the passing of Ignacio P&eacute;rez on January 11th, 2022. The long-time Seattle resident succumbed after a lengthy battle with throat cancer but remained active in the chess community despite his illness. He was a few weeks shy of [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/20/fm-ignacio-perez-1967-2022-passes-away/\">FM Ignacio P&eacute;rez (1967-2022) passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/01/20/fm-ignacio-perez-1967-2022-passes-away/",
@@ -1888,14 +1904,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/4/ep-260-im-christof-sielecki-is-back",
          "pubDate" : "Tue, 04 Jan 2022 14:19:48 +0000",
          "title" : "EP 260- IM Christof Sielecki is back! "
-      },
-      {
-         "description" : "In 1967 the city of Sousse (Tunisia) organised one of the most talked about Interzonal Tournaments in the history of chess. After 10 rounds Bobby Fischer led with 8&frac12;/10 but after quarrels with the organisers, the eccentric American decided to withdraw from the tournament and to wait for three more years before making his final attempt to become World Champion. The first Bicapawn International Chess Tournament that was played in Sousse at the end of 2021 went much more smoothly and was won by GM Misratdin Iskandarov from Azerbaijan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/misratdin-iskandarov-wins-in-sousse",
-         "pubDate" : "Tue, 04 Jan 2022 14:00:00 +0100",
-         "title" : "Misratdin Iskandarov wins in Sousse"
       },
       {
          "description" : " GM Nigel Short is currently playing in a strong international open in Italy, having recently come out of hospital after being treated for Covid. He didn't get off to the best start, being held to a draw in round 1, and his round 2 game at one stage was even worse. On move 14 he found his king being forced to move to e7, but move 15 was the real blunder, allowing a fork on f7. Although his opponent did not immediately take the rook, Shirt was soon down the exchange, and acing a strong attack. In his own words, he was considering resigning, but then a miracle occurred. His opponents phone rang, and the game was instantly over (with a win for Short). Bad luck for the opponent, but there should",
