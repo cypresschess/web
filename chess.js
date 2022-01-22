@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1536",
+         "pubDate" : "Fri, 21 Jan 2022 23:20:32 +0000",
+         "title" : "Tata Steel Masters: Thee on top after Round 6"
+      },
+      {
          "description" : "If you want to learn more about the Italian Game, 1.e4 e5 2.Nf3 Nc6 3.Bc4, is there a better teacher than Anish Giri? The Dutch GM (of Nepalese/Russian extraction) is number seven in the world, with a 2772 rating. In a very instructive video, Anish tells you everything you need to know about this opening. The two-hour streaming session with ChessBase India is most entertaining, and at the same time wonderfully instructive. Take this boost to your tournament performance and make the most of it!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-what-did-carlsen-miss",
          "pubDate" : "Fri, 21 Jan 2022 18:30:00 +0100",
          "title" : "Daniel King's Power Play Show: What did Carlsen miss?"
+      },
+      {
+         "description" : " Magnus Carlsen joined Vidit Gujrathi and Shakhriyar Mamedyarov in the lead of the Tata Steel Masters and 6 of the 13 rounds. Carlsen defeated Richard Rapport in a Catalan where he grabbed an consolidated a passed a-pawn after which he was winning. Sergey Karjakin finally managed his first win of the event after failing to convert large advantages in recent rounds. Karjakin beat Jorden van Foreest in a sharp Two Knights where his opening advantage became decisive once the Queens came off. Anish Giri beat Fabiano Caruana when the game turned round in a few moves from being very favorable to Caruana to winning for Giri and then swung back to level in time trouble before Caruana blundered the e",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-replaces-rapport-in-the-joint-lead-of-tata-steel-after-beating-him-in-round-6",
+         "pubDate" : "Fri, 21 Jan 2022 21:19:00 +0400",
+         "title" : "Carlsen replaces Rapport in the joint lead of Tata Steel after beating him in Round 6 - 6"
       },
       {
          "description" : "In previous Saturday chess columns I have referred to Dante's use of the game in his cosmological system, to describe the number of angels in the heavens. The formula is that of a piece of corn placed on a corner of the chessboard, and doubled on each square thereafter. This operation results in two to []",
@@ -58,12 +74,12 @@ news_feed (
          "title" : "2022 ACT Blitz Championship"
       },
       {
-         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "description" : "Three well-known names collected full points in round 6 of the Tata Steel Masters tournament, as Magnus Carlsen, Sergey Karjakin and Anish Giri (pictured) all won their Friday games in Wijk aan Zee. Carlsen's victory over Richard Rapport allowed him to catch the leaders in the standings table. Meanwhile, in the Challengers, Arjun Erigaisi continues to dominate as he scored his fifth win in a row! | Replay all the games with computer analysis. Full report to follow shortly!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
          "pubDate" : "Fri, 21 Jan 2022 13:45:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
+         "title" : "Tata Steel Chess - Carlsen, Karjakin and Giri strike"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> An extraordinary meeting of the <strong>Play Magnus Group</strong> shareholders <a href=\"https://live.euronext.com/en/product/equities/NO0010890726-MERK#CompanyPressRelease-8417456\">agreed</a> to issue 4,864,753 additional shares at an adjusted prize of NOK 18,30 to <strong>Yuri Milner</strong> for $10 million. </div> ",
@@ -1200,14 +1216,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-53/",
          "pubDate" : "Tue, 11 Jan 2022 22:17:22 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (53)"
-      },
-      {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Game Changer: Artificial Intelligence in Industry and Chess</strong> <strong><time datetime='2022-01-21T15:30:00' itemprop=\"startDate\">Fri 21 Jan 2022, 15.30</time>-<time datetime='2022-01-21T17:00:00' itemprop=\"endDate\">17.00</time> h UTC<span class=\"timezone\">+0100</span><br> <span itemprop='location'>Internet: <a href=\"https://tatasteelchess.com/app/uploads/Invitation-The-Game-Changer.pdf\">https://tatasteelchess.com/app/uploads/Invitation-The-Game-Changer.pdf</a></span> </strong> <div itemprop=\"description\"> Organiser: <a href=\"https://www.tatasteeleurope.com\">Tata Steel</a> <a href=\"https:",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://tatasteelchess.com/app/uploads/Invitation-The-Game-Changer.pdf",
-         "pubDate" : "Tue, 11 Jan 2022 22:01:47 +0100",
-         "title" : "Game Changer: Artificial Intelligence in Industry and Chess"
       },
       {
          "description" : "",
