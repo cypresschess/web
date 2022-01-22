@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen said he \"really, really needed the win\" after overcoming Richard Rapport to join Vidit and Shakhriyar Mamedyarov in the Tata Steel Masters lead. There were first wins of the event for Sergey Karjakin, who beat Jorden van Foreest in a variation on the opening in the final game of the Carlsen-Nepomniachtchi match, and Anish Giri, who lamented completely misevaluating his position before Fabiano Caruana gifted a full point with a move 40 blunder. Arjun Erigaisi continues to crush in the Challengers, taking a 1.5-point lead with a 5th win in a row.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-6-carlsen-leads-caruana-blunders",
+         "pubDate" : "Sat, 22 Jan 2022 12:15:51 +0000",
+         "title" : "Tata Steel 6: Carlsen leads, Caruana blunders"
+      },
+      {
+         "description" : " <p class=\"lead\">Match-day 6 of the <a href=\"https://tatasteelchess.com\">2022 Tata Steel Chess Tournament</a> ended with a great victory of GM Anish Giri against the 2018 Challenger Fabiano Caruana with the black pieces. Carlsen won against Rapport to join the leaders, and Karjakin forced Van Foreest to resign after an exemplary game. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.4204545454545\"> <img src=\"https://worldchess.com/news/pictures/JH_4747LR.jpg\" width=\"1500\" height=\"1056\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_4814LR.jpg\" width=\"1500\" height=\"968\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_4762LR.jpg\" widt",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/tata-steel-2022-round-6-giri-defeats-caruana-with-black-carlsen/",
+         "pubDate" : "Sat, 22 Jan 2022 11:17:44 +0000",
+         "title" : "Tata Steel 2022 Round 6: Giri defeats Caruana with black, Carlsen shares the lead with Vidit and Mamedyarov"
+      },
+      {
+         "description" : "In the summer of 1922, a century ago, London played host to a galaxy of international chess stars, including Alexander Alekhine, Akiba Rubinstein and Efim Bogoljubov. But the most incandescent amongst this stellar congregation was the Cuban genius, Jos&eacute; Ra&uacute;l Capablanca. The previous year Capa, as he was widely known, had crushed the incumbent world []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/a-hundred-years-of-exactitude-jose-raul-capablanca/",
+         "pubDate" : "Sat, 22 Jan 2022 09:32:21 +0000",
+         "title" : "A hundred years of exactitude: Jos&eacute; Ra&uacute;l Capablanca"
+      },
+      {
          "description" : "In the diagrammed position Black just played 25...Bd1?? to attack the pawn on e2. However, this backfired with a vengeance. How did White react?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
