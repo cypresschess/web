@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An eventful seventh round in Wijk aan Zee saw Daniil Dubov forfeiting his game against Anish Giri after declining to wear a mask during the game as requested by the organizers - someone in the Russian's inner circle had tested positive for Covid-19. Later on, wins by Magnus Carlsen, Jorden van Foreest and Fabiano Caruana left the world champion in the sole lead. | Photo: Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r7",
+         "pubDate" : "Sun, 23 Jan 2022 00:15:00 +0100",
+         "title" : "Tata Steel R7: Dubov forfeits, Carlsen leads"
+      },
+      {
          "description" : " Share! Tunde Onakoya's mission to invigorate the Nigerian slum through chess has taken a grand leap. Three years ago, Tunde was in the news after writing of an adorable little girl named Basirat Ariyike. She became a symbol of what Onakoya was trying to achieve in his &#8220;Chess in Slums&#8221; initiative. In the chess world, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/22/tunde-onakoyas-mission-takes-chess-to-nigerian-slums/\">Tunde Onakoya's mission takes chess to Nigerian slums</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/01/22/tunde-onakoyas-mission-takes-chess-to-nigerian-slums/",
          "pubDate" : "Sat, 22 Jan 2022 19:38:52 +0000",
          "title" : "Tunde Onakoya's mission takes chess to Nigerian slums"
+      },
+      {
+         "description" : " Magnus Carlsen leads the Tata Steel Masters by half a point from Shakhriyar Mamedyarov after 7 rounds. Carlsen defeated R Praggnanandhaa in 34 moves. After the game Carlsen was pleased with the way he built up his advantage but not the way he let the position then get out of control - 22...Qe6 (22...Qc6 was better) 23.Nxc5 and 28...c4 (28...Bb7 was better) 29.Bxg7! were the two main chances Praggnanandhaa missed. Richard Rapport and Shakhriyar Mamedyarov drew a Sicilian that threatened to get exciting in 29 moves. Jorden Van Foreest inflicted Vidit Gujrathi's first defeat on him and got back to 50% in the process. A topical line of the Nimzo Indian was played with 10.Ne5!? being a practical",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-leads-the-tata-steel-masters-after-7-rounds",
+         "pubDate" : "Sat, 22 Jan 2022 23:02:00 +0400",
+         "title" : "Carlsen leads the Tata Steel Masters after 7 rounds - 7"
       },
       {
          "description" : "\"Mind, Art, Experience: 10 Years of Chess & Culture in Saint Louis\" celebrates the best chess, art and culture from all 50 exhibitions held at the WCHOF since its 2011 relocation to Saint Louis, Missouri. The three-floor show features more than 120 artworks and artifacts, including pieces related to legendary World Champions Bobby Fischer, Anatoly Karpov, Garry Kasparov, and Boris Spassky.",
@@ -90,7 +106,7 @@ news_feed (
          "title" : "Tata Steel Masters: Vidit Gujrathi remains among the leaders"
       },
       {
-         "description" : "GM Magnus Carlsen won his second game in a row and is now the sole leader after seven rounds in the&#38;nbsp;2022 Tata Steel Chess Tournament. The world champion defeated GM Praggnanandhaa R. with the black pieces. GM Daniil Dubov forfeited his game...",
+         "description" : "GM Magnus Carlsen won his second game in a row and is now the sole leader after seven rounds in the&#38;nbsp;2022 Tata Steel Chess Tournament. The world champion defeated GM Praggnanandhaa R. with the black pieces on Saturday. GM Daniil Dubov forfei...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-7",
@@ -1880,14 +1896,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/17-year-old-world-champion-gifted-new-home-in-presidential-ceremony",
          "pubDate" : "Tue, 04 Jan 2022 22:23:33 +0000",
          "title" : "17-year-old World Champ gifted flat by Presidential decree"
-      },
-      {
-         "description" : "This \"Weekly Show\" is all about the World Rapid and Blitz Championships and a look ahead to 2022. Lawrence takes a close look at the battle Gukesh-Abdusattorov from the World Rapid, \"a great display of resilience from the young Uzbek who went on to shock the field and win the entire tournament\". | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-the-world-rapid-and-blitz-championships-2021",
-         "pubDate" : "Tue, 04 Jan 2022 18:15:08 +0100",
-         "title" : "The Weekly Show: The World Rapid and Blitz Championships 2021"
       },
       {
          "description" : "",
