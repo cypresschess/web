@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagrammed position Black just played 25...Bd1?? to attack the pawn on e2. However, this backfired with a vengeance. How did White react?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pawn-chain-saw",
+         "pubDate" : "Sat, 22 Jan 2022 09:00:00 +0100",
+         "title" : "Pawn chain saw"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89054013.cms\" />Indian Grandmasters Vidit Santhosh Gujrathi and R Praggnanandhaa drew their games in round six of the prestigious Tata Steel Masters chess tournament here.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-masters-vidit-gujrathi-remains-among-the-leaders/articleshow/89054013.cms",
+         "pubDate" : "Sat, 22 Jan 2022 11:18:36 +0530",
+         "title" : "Tata Steel Masters: Vidit Gujrathi remains among the leaders"
+      },
+      {
          "description" : "The seventh round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Saturday, January 22. World Champion GM Magnus Carlsen joined the lead after winning on round six, catching up with GMs Vidit Gujrati and Shakhriyar Mamedya...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1856,14 +1872,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-christmas-puzzle-2/",
          "pubDate" : "Tue, 04 Jan 2022 08:27:03 +0000",
          "title" : "A Christmas Puzzle (2)"
-      },
-      {
-         "description" : "A bishop usually has trouble when defending against a rook in the endgame - a lot of trouble. In the diagram position it is White to move and win but in the game White allowed Black to build a fortress and to secure a crucial draw. But do you see how White can win?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rook-against-bishop",
-         "pubDate" : "Tue, 04 Jan 2022 09:00:00 +0100",
-         "title" : "Rook against bishop"
       },
       {
          "description" : "",
