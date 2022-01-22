@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1537",
+         "pubDate" : "Sat, 22 Jan 2022 15:40:10 +0000",
+         "title" : "Chess Federation of Sri Lanka celebrates 50th anniversary"
+      },
+      {
+         "description" : " <p class=\"lead\">Daniil Dubov forfeited a game against Anish Giri in Round 7 of the 2022 Tata Steel Chess Tournament. Russian GM did not show up for his game and lost by default after refusing to wear a mask. This incident shows that COVID-19 has substantial effect on the sport, and elite players grow tired of the strict covid requirements emposed by tournament organizers. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-01-22_17-26-53.jpg\" width=\"1054\" height=\"1054\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: Lennart Ootes and Jurriaan Hoefsmit - Tata Steel Chess Tournament 2022</div> </div> Tata Steel made an official announcement explaining that D",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/dubov-refuses-to-wear-a-mask-loses-by-forfeit-on-round-7-of-the/",
+         "pubDate" : "Sat, 22 Jan 2022 14:56:35 +0000",
+         "title" : "Dubov Forfeits a Game After Refusing To Wear a Mask in Tata Steel"
+      },
+      {
+         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
+         "pubDate" : "Sat, 22 Jan 2022 13:45:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : " While I think 15 minutes chess hits the sweet spot between the thud and blunder of blitz, and the longer thinking of classical chess, it can let players get away from bad positions a little easily. If you can keep up the threats (even material down), your opponent may run short of time (or rush to avoid this), increasing the chance of a blunder. Todays example comes from Street Chess, where White walked into a fairly well known trap, but then put Black under so much pressure that they cracked. <br /> <b>Chibnall,Alana - Radisich,Matt [A51]</b><br />Street Chess 22.01.2022 <script>new PgnViewer( { boardName: \"game1304\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.a3 d6 5",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/superficial-chess.html",
+         "pubDate" : "Sat, 22 Jan 2022 12:31:00 +0000",
+         "title" : "Superficial chess?"
+      },
+      {
          "description" : "Magnus Carlsen said he \"really, really needed the win\" after overcoming Richard Rapport to join Vidit and Shakhriyar Mamedyarov in the Tata Steel Masters lead. There were first wins of the event for Sergey Karjakin, who beat Jorden van Foreest in a variation on the opening in the final game of the Carlsen-Nepomniachtchi match, and Anish Giri, who lamented completely misevaluating his position before Fabiano Caruana gifted a full point with a move 40 blunder. Arjun Erigaisi continues to crush in the Challengers, taking a 1.5-point lead with a 5th win in a row.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -42,12 +74,12 @@ news_feed (
          "title" : "Tata Steel Masters: Vidit Gujrathi remains among the leaders"
       },
       {
-         "description" : "The seventh round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Saturday, January 22. World Champion GM Magnus Carlsen joined the lead after winning on round six, catching up with GMs Vidit Gujrati and Shakhriyar Mamedya...",
+         "description" : "Our coverage of the seventh round of the 2022 Tata Steel Chess Tournament is underway. World Champion Magnus Carlsen joined the lead after winning in round six, catching up with GMs Vidit Gujrati and Shakhriyar Mamedyarov. Will any of them take th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-7",
          "pubDate" : "Fri, 21 Jan 2022 17:00:00 -0800",
-         "title" : "How To Watch Tata Steel Chess 2022 Round 7"
+         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 7"
       },
       {
          "description" : "Three well-known names collected full points in round 6 of the Tata Steel Masters tournament, as Magnus Carlsen, Sergey Karjakin and Anish Giri all won their Friday games in Wijk aan Zee. Carlsen's victory over Richard Rapport allowed him to catch the leaders in the standings table. Meanwhile, in the Challengers, Arjun Erigaisi continues to dominate as he scored his fifth win in a row! | Photo: Lennart Ootes",
@@ -1880,14 +1912,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/2022-chess-calendar",
          "pubDate" : "Tue, 04 Jan 2022 11:35:00 +0000",
          "title" : "2022 Chess Calendar"
-      },
-      {
-         "description" : "On the last day of 2021, one of the most distinguished personalities in the world of chess passed away. On 31 December 2021 the Hungarian Grandmaster G&aacute;bor K&aacute;llai died at the age of 62. Diana Mihajlova knew Kallai well and looks back to the achievements of the Hungarian Grandmaster who also worked as a trainer, author, organizer, arbiter, captain, journalist, radio and TV commentator. | Photo: Facebook page of the Hungarian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-gm-gbor-kllai-21-february-1959-31-december-2021",
-         "pubDate" : "Tue, 04 Jan 2022 11:26:56 +0100",
-         "title" : "Remembering GM G&aacute;bor K&aacute;llai, 21 February 1959 - 31 December 2021"
       },
       {
          "description" : " &#8220; We like bar fights We like nose rings We like eating snails We always indulge in our favorite things No wonder our skin's so pale&#8221; AC/DC Jingle Hells Bells Happy New Year wherever you are! Let's hope for a better 2022 for all of us. Last week's puzzle can be revisited HERE. I hope <a href=\"https://chessimprover.com/a-christmas-puzzle-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Christmas Puzzle (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-christmas-puzzle-2/\">A Christmas Puzzle (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
