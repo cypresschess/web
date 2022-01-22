@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The seventh round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Saturday, January 22. World Champion GM Magnus Carlsen joined the lead after winning on round six, catching up with GMs Vidit Gujrati and Shakhriyar Mamedya...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-7",
+         "pubDate" : "Fri, 21 Jan 2022 17:00:00 -0800",
+         "title" : "How To Watch Tata Steel Chess 2022 Round 7"
+      },
+      {
+         "description" : "Three well-known names collected full points in round 6 of the Tata Steel Masters tournament, as Magnus Carlsen, Sergey Karjakin and Anish Giri all won their Friday games in Wijk aan Zee. Carlsen's victory over Richard Rapport allowed him to catch the leaders in the standings table. Meanwhile, in the Challengers, Arjun Erigaisi continues to dominate as he scored his fifth win in a row! | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r6",
+         "pubDate" : "Sat, 22 Jan 2022 01:10:00 +0100",
+         "title" : "Tata Steel R6: Carlsen beats Rapport, joins the lead"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/2022-act-blitz-championship.html",
          "pubDate" : "Fri, 21 Jan 2022 12:49:00 +0000",
          "title" : "2022 ACT Blitz Championship"
-      },
-      {
-         "description" : "Three well-known names collected full points in round 6 of the Tata Steel Masters tournament, as Magnus Carlsen, Sergey Karjakin and Anish Giri (pictured) all won their Friday games in Wijk aan Zee. Carlsen's victory over Richard Rapport allowed him to catch the leaders in the standings table. Meanwhile, in the Challengers, Arjun Erigaisi continues to dominate as he scored his fifth win in a row! | Replay all the games with computer analysis. Full report to follow shortly!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
-         "pubDate" : "Fri, 21 Jan 2022 13:45:00 +0100",
-         "title" : "Tata Steel Chess - Carlsen, Karjakin and Giri strike"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> An extraordinary meeting of the <strong>Play Magnus Group</strong> shareholders <a href=\"https://live.euronext.com/en/product/equities/NO0010890726-MERK#CompanyPressRelease-8417456\">agreed</a> to issue 4,864,753 additional shares at an adjusted prize of NOK 18,30 to <strong>Yuri Milner</strong> for $10 million. </div> ",
@@ -1912,14 +1920,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-different-approach-to-tactics/",
          "pubDate" : "Sun, 02 Jan 2022 11:15:00 +0000",
          "title" : "A Different Approach to Tactics"
-      },
-      {
-         "description" : " This year was the 20th year for The Chess Drum. On February 12th, I posted a very lengthy chronicle of the site's history with key moments each of the 20 years. I put a lot of effort into that post, but it was fulfilling to recount the special moments, not only for The Chess Drum, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2021/12/31/the-chess-drums-highlights-of-2021/\">The Chess Drum's Highlights of 2021!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2021/12/31/the-chess-drums-highlights-of-2021/",
-         "pubDate" : "Sat, 01 Jan 2022 02:50:21 +0000",
-         "title" : "The Chess Drum's Highlights of 2021!"
       }
    ]
 }
