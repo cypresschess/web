@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen taking the sole lead with six rounds of the Tata Steel Masters to go was ominous, but not as ominous as Daniil Dubov forfeiting his game against Anish Giri when the organisers insisted he wore a mask. Daniil had tested negative in a quick test after a contact tested positive, but had a PCR result pending. The coaches of Praggnanandhaa and Fabiano Caruana have also been hit by the virus, with Pragg in Round 7 losing to Magnus, while Fabi won a wild game against Duda. Jorden van Foreest ended Vidit's stay among the leaders with a win that was his 6th decisive result in 7 games.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-7-dubov-mask-forfeit-overshadows-magnus-move",
+         "pubDate" : "Sun, 23 Jan 2022 02:13:26 +0000",
+         "title" : "Tata Steel 7: Dubov mask forfeit overshadows Magnus move"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
