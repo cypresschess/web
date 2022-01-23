@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89075706.cms\" />Indian Grandmaster MR Lalith Babu emerged victorious in the Marienbad Open 2022 chess tournament here.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-lalith-babu-wins-tournament-in-czech-republic/articleshow/89075706.cms",
+         "pubDate" : "Sun, 23 Jan 2022 17:22:50 +0530",
+         "title" : "Indian GM Lalith Babu wins tournament in Czech Republic"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89071060.cms\" />Indian Grandmaster Vidit Santhosh Gujrathi lost his seventh-round game to Jorden Van Foreest while world No. 1 Magnus Carslen got the better of R Praggnanandhaa to go into the lead position in the prestigious Tata Steel Masters chess tournament",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2000,22 +2008,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/10-new-years-chess-resolutions/",
          "pubDate" : "Sun, 02 Jan 2022 13:39:25 +0000",
          "title" : "10 New Year's Chess Resolutions"
-      },
-      {
-         "description" : "The 129th New Zealand Championship is running from the 2nd to the 12th of January 2022. The event is being held at Riccarton Park, Christchurch and has a total prize fund of $10,000.The Championship event has attracted a field of 24 players, with FM Nic Croad the number one seed. Two time champion Croad is hoping to finish ahead of 2nd seed IM Anthony Ker (14 times winner!) and IM Russell Dive (7 times winner). The field also contains a number of young challengers, including FM Daniel Gong, CM Felix Xie and WFM Vyanla Punsalan.<br />Alongside the Championship is the Major Open, New Zealand Junior Championship, and a number of other supporting events. A link to the tournament standings can be",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/2022-new-zealand-championship.html",
-         "pubDate" : "Sun, 02 Jan 2022 12:01:00 +0000",
-         "title" : "2022 New Zealand Championship"
-      },
-      {
-         "description" : " A couple of thoughts first. Chess is a game of mistakes, not of good moves. As Tartakower wrote, &#8220;Chess is a fairy tale of 1001 blunders&#8221;. If I'm playing Magnus Carlsen, if I don't make any mistakes I won't lose. If Magnus makes a mistake and I don't, I'll win. Objectively, there are no good <a href=\"https://chessimprover.com/a-different-approach-to-tactics/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Different Approach to Tactics\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-different-approach-to-tactics/\">A Different Approach to Tactics</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Impr",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-different-approach-to-tactics/",
-         "pubDate" : "Sun, 02 Jan 2022 11:15:00 +0000",
-         "title" : "A Different Approach to Tactics"
       }
    ]
 }
