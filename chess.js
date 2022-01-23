@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89071060.cms\" />Indian Grandmaster Vidit Santhosh Gujrathi lost his seventh-round game to Jorden Van Foreest while world No. 1 Magnus Carslen got the better of R Praggnanandhaa to go into the lead position in the prestigious Tata Steel Masters chess tournament",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-masters-magnus-carlsen-beats-praggnanandhaa-to-grab-lead-vidit-gujrathi-suffers-first-defeat/articleshow/89071060.cms",
+         "pubDate" : "Sun, 23 Jan 2022 11:46:39 +0530",
+         "title" : "Tata Steel Masters: Carlsen beats Praggnanandhaa to grab lead, Vidit suffers first defeat"
+      },
+      {
          "description" : "Magnus Carlsen taking the sole lead with six rounds of the Tata Steel Masters to go was ominous, but not as ominous as Daniil Dubov forfeiting his game against Anish Giri when the organisers insisted he wore a mask. Daniil had tested negative in a quick test after a contact tested positive, but had a PCR result pending. The coaches of Praggnanandhaa and Fabiano Caruana have also been hit by the virus, with Pragg in Round 7 losing to Magnus, while Fabi won a wild game against Duda. Jorden van Foreest ended Vidit's stay among the leaders with a win that was his 6th decisive result in 7 games.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
