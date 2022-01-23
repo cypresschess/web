@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1538",
+         "pubDate" : "Sun, 23 Jan 2022 00:12:29 +0000",
+         "title" : "Tata Steel Masters R07: Carlsen moves into the lead"
+      },
+      {
          "description" : "An eventful seventh round in Wijk aan Zee saw Daniil Dubov forfeiting his game against Anish Giri after declining to wear a mask during the game as requested by the organizers - someone in the Russian's inner circle had tested positive for Covid-19. Later on, wins by Magnus Carlsen, Jorden van Foreest and Fabiano Caruana left the world champion in the sole lead. | Photo: Jurriaan Hoefsmit",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,14 +58,6 @@ news_feed (
          "title" : "Dubov Forfeits a Game After Refusing To Wear a Mask in Tata Steel"
       },
       {
-         "description" : "An eventful seventh round in Wijk aan Zee saw Daniil Dubov forfeiting his game against Anish Giri after declining to wear a mask during the game as requested by the organizers - someone in the Russian's inner circle had tested positive for Covid-19. Later on, wins by Magnus Carlsen, Jorden van Foreest and Fabiano Caruana left the world champion in the sole lead. | Replay the games with computer analysis. Full report to follow shortly!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
-         "pubDate" : "Sat, 22 Jan 2022 13:45:00 +0100",
-         "title" : "Tata Steel Chess - Carlsen sole leader"
-      },
-      {
          "description" : " While I think 15 minutes chess hits the sweet spot between the thud and blunder of blitz, and the longer thinking of classical chess, it can let players get away from bad positions a little easily. If you can keep up the threats (even material down), your opponent may run short of time (or rush to avoid this), increasing the chance of a blunder. Todays example comes from Street Chess, where White walked into a fairly well known trap, but then put Black under so much pressure that they cracked. <br /> <b>Chibnall,Alana - Radisich,Matt [A51]</b><br />Street Chess 22.01.2022 <script>new PgnViewer( { boardName: \"game1304\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.a3 d6 5",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -80,6 +80,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/tata-steel-2022-round-6-giri-defeats-caruana-with-black-carlsen/",
          "pubDate" : "Sat, 22 Jan 2022 11:17:44 +0000",
          "title" : "Tata Steel 2022 Round 6: Giri defeats Caruana with black, Carlsen shares the lead with Vidit and Mamedyarov"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1533",
+         "pubDate" : "Sat, 22 Jan 2022 11:04:47 +0000",
+         "title" : "Five FIDE Trainer Seminars to be held in India"
       },
       {
          "description" : "In the summer of 1922, a century ago, London played host to a galaxy of international chess stars, including Alexander Alekhine, Akiba Rubinstein and Efim Bogoljubov. But the most incandescent amongst this stellar congregation was the Cuban genius, Jos&eacute; Ra&uacute;l Capablanca. The previous year Capa, as he was widely known, had crushed the incumbent world []",
@@ -344,14 +352,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/learning-from-losing.html",
          "pubDate" : "Thu, 20 Jan 2022 12:29:00 +0000",
          "title" : "Learning from losing"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1533",
-         "pubDate" : "Thu, 20 Jan 2022 11:04:47 +0000",
-         "title" : "Five FIDE Trainer Seminars to be held in India"
       },
       {
          "description" : "\"Always up for a new challenge - bring it on!\" said Magnus Carlsen as the World Chess Champion confirmed he'll return to defend his title in the 2nd edition of the Meltwater Champions Chess Tour. The first of 9 events begins on February 19th, with the 10-month series streamlined this year with fewer days, more at stake and more of an incentive to play for a win in every game. The online event on chess24 is also moving towards in-person chess, with all three Majors set to feature 8 players competing from a single location.",
@@ -1896,6 +1896,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/17-year-old-world-champion-gifted-new-home-in-presidential-ceremony",
          "pubDate" : "Tue, 04 Jan 2022 22:23:33 +0000",
          "title" : "17-year-old World Champ gifted flat by Presidential decree"
+      },
+      {
+         "description" : "This \"Weekly Show\" is all about the World Rapid and Blitz Championships and a look ahead to 2022. Lawrence takes a close look at the battle Gukesh-Abdusattorov from the World Rapid, \"a great display of resilience from the young Uzbek who went on to shock the field and win the entire tournament\". | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-the-world-rapid-and-blitz-championships-2021",
+         "pubDate" : "Tue, 04 Jan 2022 18:15:08 +0100",
+         "title" : "The Weekly Show: The World Rapid and Blitz Championships 2021"
       },
       {
          "description" : "",
