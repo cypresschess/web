@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Exciting changes are coming to Titled Tuesday starting on February 1. We are now offering two tournaments and a big bump to the prizes: we&#39;ll be dishing out $5,000 every Tuesday&#38;mdash;$2,500 per tournament and more than $250,000 per year! That&#39;s m...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/titled-tuesday-doubles-tournaments-and-triples-prizes",
+         "pubDate" : "Sun, 23 Jan 2022 08:04:48 -0800",
+         "title" : "Titled Tuesday Doubles Tournaments And Triples Prizes"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 63rd instalment of his ChessBase show \"Understanding before Moving\", Herman looks at \"light-squared beasts\". | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-63",
+         "pubDate" : "Sun, 23 Jan 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 63: The light-squared beast"
+      },
+      {
+         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
+         "pubDate" : "Sun, 23 Jan 2022 13:45:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89075706.cms\" />Indian Grandmaster MR Lalith Babu emerged victorious in the Marienbad Open 2022 chess tournament here.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1906,28 +1930,12 @@ news_feed (
          "title" : "FIDE expands and extends Aid Package Program to 2022"
       },
       {
-         "description" : "The new ChessBase Magazine #205 offers a wealth of ideas and recommendations for your repertoire. The topics of the eleven opening articles in the new issue range from the Benko Gambit (4.cxb5 a6 5.b6 e6), the French Tarrasch (8.0-0 g5!), the Ruy Lopez (5.Qe2) to recipes against the King's Indian (after 6.Be2). Sergey Grigoriants looks at a topic that will interest many chess fans: He presents an active repertoire against the London System! However, you have to be ready to sacrifice a pawn with 6...e5! and to continue playing \"precisely and powerfully\" afterwards. But that shouldn't be difficult for you after reading Grigoriant's article!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/surprise-in-the-london-system",
-         "pubDate" : "Wed, 05 Jan 2022 10:06:29 +0100",
-         "title" : "Surprise in the London System"
-      },
-      {
          "description" : "After shocking the chess world by sensationally winning the World Rapid Chess Championship, 17-year-old Nodirbek Abdusattorov was yesterday celebrated at home in Uzbekistan. The prodigy received a huge cash prize, the keys to a two-room apartment and a Presidential medal in a packed ceremony at the headquarters of the National Olympic Commitee in the country's capital Tashkent.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/17-year-old-world-champion-gifted-new-home-in-presidential-ceremony",
          "pubDate" : "Tue, 04 Jan 2022 22:23:33 +0000",
          "title" : "17-year-old World Champ gifted flat by Presidential decree"
-      },
-      {
-         "description" : "This \"Weekly Show\" is all about the World Rapid and Blitz Championships and a look ahead to 2022. Lawrence takes a close look at the battle Gukesh-Abdusattorov from the World Rapid, \"a great display of resilience from the young Uzbek who went on to shock the field and win the entire tournament\". | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-the-world-rapid-and-blitz-championships-2021",
-         "pubDate" : "Tue, 04 Jan 2022 18:15:08 +0100",
-         "title" : "The Weekly Show: The World Rapid and Blitz Championships 2021"
       },
       {
          "description" : "",
@@ -2000,14 +2008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1510",
          "pubDate" : "Sun, 02 Jan 2022 20:40:38 +0000",
          "title" : "Susal and Niklesha win Sri Lanka championship"
-      },
-      {
-         "description" : " <p class=\"lead\">It's the \"New Year, New Me\" season, and everyone is possessed by an optimistic and hopeful spirit. From weight loss to getting a Ph.D., the New Year's goal list has overwhelmingly all kinds of wishes, and dreams. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Niki-Riga_-06228.jpg\" width=\"2560\" height=\"1706\" alt=\"\" /> <div class=\"e2-text-caption\">photo: World Chess</div> </div> Chess players have their own, special list for the chess resolutions of the year, but for those who are still in the process of strategizing their next steps, we are here to help you! <h2>Solve at least 1 tactic problem per day</h2> Tactics sharpen your mind and make you m",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/10-new-years-chess-resolutions/",
-         "pubDate" : "Sun, 02 Jan 2022 13:39:25 +0000",
-         "title" : "10 New Year's Chess Resolutions"
       }
    ]
 }
