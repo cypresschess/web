@@ -1,5 +1,6 @@
 jtable([
 "CYPRESS","2022-01-21","16","<a href=http://www.uschess.org/msa/XtblMain.php?202201219862 target=' blank'>KNIGHTS OF CYPRESS</a>",
+"SPRING","2022-01-21","22","<a href=http://www.uschess.org/msa/XtblMain.php?202201210062 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2022-01-15  - 01-16","54","<a href=http://www.uschess.org/msa/XtblMain.php?202201169062 target=' blank'>$4,000 HOUSTON CHESS STUDIO OPEN</a>",
 "HOUSTON","2022-01-15","44","<a href=http://www.uschess.org/msa/XtblMain.php?202201157612 target=' blank'>WHARTON ACADEMY SCHOLASTIC</a>",
 "SPRING","2022-01-14","22","<a href=http://www.uschess.org/msa/XtblMain.php?202201148062 target=' blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "KATY","2021-02-20","22","<a href=http://www.uschess.org/msa/XtblMain.php?202102205952 target=' blank'>SR CHESSKNIGHTS 02202021</a>",
 "SPRING","2021-02-20","22","<a href=http://www.uschess.org/msa/XtblMain.php?202102204212 target=' blank'>DER SPRINGERS SATURDAY G/75 AND SATURDAY KNIGHTS</a>",
 "SPRING","2021-02-19","30","<a href=http://www.uschess.org/msa/XtblMain.php?202102193922 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"KATY","2021-02-13","16","<a href=http://www.uschess.org/msa/XtblMain.php?202102132612 target=' blank'>SR CHESSKNIGHTS 02132021</a>",
 ]);
