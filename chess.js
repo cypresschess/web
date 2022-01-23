@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Magnus Carlsen and GM Shakhriyar Mamedyarov are tied for first place after eight rounds at the&#38;nbsp;2022 Tata Steel Chess Tournament and happen to be playing each other in the next round on Tuesday. GM Anish Giri and GM Vidit Gujrathi both won ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-8",
+         "pubDate" : "Sun, 23 Jan 2022 11:03:00 -0800",
+         "title" : "Tata Steel Chess 2022 R8: Mamedyarov Catches Carlsen Before Clash After Rest Day"
+      },
+      {
+         "description" : "In less than two weeks, Berlin will host the first leg of the FIDE Grand Prix Series 2022, organized by World Chess. From February 3 to 17, sixteen elite chess players, including grandmaster Pentala Harikrishna - who replaces Wei Yi - will compete for the chance to win the last two spots in the Candidates Tournament to be held later this year.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-prix-leg-1-preview",
+         "pubDate" : "Sun, 23 Jan 2022 20:00:00 +0100",
+         "title" : "All set for first leg of the FIDE Grand Prix series"
+      },
+      {
          "description" : "Exciting changes are coming to Titled Tuesday starting on February 1. We are now offering two tournaments and a big bump to the prizes: we&#39;ll be dishing out $5,000 every Tuesday&#38;mdash;$2,500 per tournament and more than $250,000 per year! That&#39;s m...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -18,12 +34,12 @@ news_feed (
          "title" : "Understanding before Moving 63: The light-squared beast"
       },
       {
-         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "description" : "Three decisive games in round 8 of the Tata Steel Masters tournaments left Magnus Carlsen and Shakhriyar Mamedyarov sharing the lead on 5&frac12; points. The Azerbaijani defeated Praggnanandhaa to catch up with the world champion. Meanwhile, in the Challengers, Arjun Erigaisi won his sixth game (in eight rounds!) to go into the second rest day of the event with a 1&frac12;-point lead. | Replay all the games with computer analysis. Full report to follow shortly!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
          "pubDate" : "Sun, 23 Jan 2022 13:45:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
+         "title" : "Tata Steel Chess - Shakh catches up with Carlsen"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89075706.cms\" />Indian Grandmaster MR Lalith Babu emerged victorious in the Marienbad Open 2022 chess tournament here.",
@@ -1912,14 +1928,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/too-far-or-too-close.html",
          "pubDate" : "Wed, 05 Jan 2022 12:48:00 +0000",
          "title" : "Too far or too close"
-      },
-      {
-         "description" : "The World Championship match between Magnus Carlsen and Ian Nepomniachtchi was the chess highlight of the year 2021, and chess fans all over the world followed the games and the match avidly. Carlsen won 7.5-3.5 and defended his title. Shortly after the match, Oliver Roeder and Simran Parwani took a look at some statistics of the match and presented their findings on www.538.com, a statistics-oriented website that focuses on American politics and sports. | Image: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/statistics-and-numbers-the-world-chess-championship-in-5-charts",
-         "pubDate" : "Wed, 05 Jan 2022 13:22:17 +0100",
-         "title" : "Statistics and numbers: The World Chess Championship in 5 Charts"
       },
       {
          "description" : "",
