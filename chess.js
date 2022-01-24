@@ -2,12 +2,116 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three decisive games in round 8 of the Tata Steel Masters tournament left Magnus Carlsen and Shakhriyar Mamedyarov sharing the lead on 5&frac12; points. The Azerbaijani defeated Praggnanandhaa to catch up with the world champion. Meanwhile, in the Challengers, Arjun Erigaisi won his sixth game (in eight rounds!) to go into the second rest day of the event with a 1&frac12;-point lead. | Photo: Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r8",
+         "pubDate" : "Mon, 24 Jan 2022 17:35:00 +0100",
+         "title" : "Tata Steel R8: Arjun clear leader in the Challengers"
+      },
+      {
+         "description" : "Today, round 1 of the Battle of the Sexes in Gibraltar will be played. Ten male and ten female players compete in a team match that is played according to the rules of the Scheveninger system. Rounds start at 15:00 local time (9:00 ET, 14:00 UTC) each day. Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
+         "pubDate" : "Mon, 24 Jan 2022 17:27:14 +0100",
+         "title" : "Battle of the Sexes: Round 1"
+      },
+      {
+         "description" : " Just a quick announcement that my new book Chess for Schools, will, with any luck, be published by Crown House Publishing on 22 April. I'll tell you more later, but here's the blurb. Presents a new approach to promoting chess in primary schools which, by introducing the concepts through a series of mini games, will <a href=\"https://chessimprover.com/chess-for-schools-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess for Schools (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-for-schools-1/\">Chess for Schools (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-for-schools-1/",
+         "pubDate" : "Mon, 24 Jan 2022 15:31:18 +0000",
+         "title" : "Chess for Schools (1)"
+      },
+      {
+         "description" : "8.00pm on Tuesday, January 25th 2022 https://camberleychess.co.uk/event/gm-daniel-king-the-worst-move-i-have-ever-played/ (picture courtesy of David Llada via Twitter)",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/danny-king-free-to-all-zoom-meeting/",
+         "pubDate" : "Mon, 24 Jan 2022 15:23:13 +0000",
+         "title" : "Danny King - free-to-all Zoom meeting"
+      },
+      {
+         "description" : "We are happy to invite you to European Individual Chess Championship 2022 in Brežice, Slovenia. We are accepting registrations through National Federations only. The registration...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-individual-chess-championship-2022-in-brezice/",
+         "pubDate" : "Mon, 24 Jan 2022 14:54:15 +0000",
+         "title" : "European Individual Chess Championship 2022 in Brežice"
+      },
+      {
+         "description" : "Can players be classified into certain types? On their new ChessBase course Karsten M&uuml;ller and Luis Engel follow a model of Danish Grandmaster Lars Bo Hansen and distinguish between four types of players and illustrate their different playing styles with typical games. This model helps to understand your own strengths and weaknesses and the strengths and weaknesses of your opponents better. Christian H&ouml;the took a look at the course.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mueller-engel-player-types-a-review",
+         "pubDate" : "Mon, 24 Jan 2022 14:00:00 +0100",
+         "title" : "M&uuml;ller/ Engel: Player types - a review"
+      },
+      {
+         "description" : "Three decisive games in round 8 of the Tata Steel Masters tournaments left Magnus Carlsen and Shakhriyar Mamedyarov sharing the lead on 5&frac12; points. The Azerbaijani defeated Praggnanandhaa to catch up with the world champion. Meanwhile, in the Challengers, Arjun Erigaisi won his sixth game (in eight rounds!) to go into the second rest day of the event with a 1&frac12;-point lead. | Replay all the games with computer analysis. Full report to follow shortly!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
+         "pubDate" : "Mon, 24 Jan 2022 13:45:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "The opening ceremony of the #GibChess Battle of Sexes Chess Match-Tournament, to be held at the Garrison Library, 24 January to 3 February 2022, took place at the Garrison Library at 6pm on Sunday 23 January 2022 in the presence of the Hon. Dr John Cortes, Minister for the Environment, Sustainability, Climate Change and Education, and Dr Jennifer Ballantine, Director of the Gibraltar Garrison Library, which is hosting the event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gibraltar-battle-of-the-sexes-begins",
+         "pubDate" : "Mon, 24 Jan 2022 13:08:15 +0100",
+         "title" : "Gibraltar: Battle of the Sexes begins"
+      },
+      {
+         "description" : " At the risk of sounding like a cranky old man, it is all youtubes and engine this and engine that, where chess learning is concerned (*not really). In the good old days (*not that good, really) learning from books was the go. So when I coach, I still use books, including books on the middlegame written by Max Euwe. Having shown one of my students a couple of games where a nice kingside attack was executed, I was pleased to see him put that knowledge into practice less than 24 hours later. <br /> <b>Lcheng (1787) - Connor5566 (1858) [D06]</b><br />Summer Bootcamp Lightning https://lichess.org/WpWIR21U, 24.01.2022 <script>new PgnViewer( { boardName: \"game1305\", movesFormat: \"default\", pgnStri",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/a-little-bit-of-learning.html",
+         "pubDate" : "Mon, 24 Jan 2022 11:58:00 +0000",
+         "title" : "A little bit of learning"
+      },
+      {
+         "description" : "Please find attached herewith list of 40 participants for Fourth Batch (1D) of National Organizer Seminar scheduled to start from 31 Jan- 02 Feb 2022, Guidelines:",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/chess-for-everyone-national-organizer-batch-1-d-31-jan-02-feb-2022/",
+         "pubDate" : "Mon, 24 Jan 2022 11:22:23 +0000",
+         "title" : "Chess for Everyone ,National Organizer - Batch 1 D (31 Jan-02 Feb ,2022)"
+      },
+      {
+         "description" : "In 2020, we started a series called \"The Best In\", and interviewed some of the strongest male and female players of Aruba, The Bahamas, Brazil, Trinidad & Tobago, Armenia and Austria. The popular series will continue as a YouTube version with a 1-to-1 Zoom interview, including an analysis of the player's favourite game. We start the new chapter with the coldest country so far - Iceland. And in 2021, Hj&ouml;rvar Steinn Gr&eacute;tarsson has had his best chess year so far. He speaks with us about the chess situation in Iceland, his motivation for the next years, and an interesting, mad story with another \"ginger\" chess fellow - Simon Williams.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-best-in-iceland",
+         "pubDate" : "Mon, 24 Jan 2022 11:00:00 +0100",
+         "title" : "The Best In Iceland"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1541",
+         "pubDate" : "Mon, 24 Jan 2022 09:27:58 +0000",
+         "title" : "FIDE Women's Candidates Tournament and WGP Series 2022-23: Call for bids"
+      },
+      {
          "description" : " <p class=\"lead\">In Round 8 of the <a href=\"https://tatasteelchess.com\">2022 Tata Steel Chess Tournament</a> Mamedyarov won against Rameshbabu and now shares the lead with Carlsen who drew against Shankland. The two leaders will face each other on Tuesday the 25th, after a well-deserved rest day! <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.5806111696523\"> <img src=\"https://worldchess.com/news/pictures/JH_4976LR.jpg\" width=\"1500\" height=\"949\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH073715LR.jpg\" width=\"1500\" height=\"1000\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH073717LR.jpg\" width=\"1500\" height=\"957\" alt=\"\" /> <img ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/tata-steel-2022-round-8-mamedyarov-beats-pragg-and-leads-the-mas/",
          "pubDate" : "Mon, 24 Jan 2022 08:06:08 +0000",
          "title" : "Tata Steel 2022 Round 8: Mamedyarov beats Pragg and leads the Masters with Carlsen"
+      },
+      {
+         "description" : " The Gibraltar International Chess Festival takes place 23rd January to 3rd February 2022. Due to Covid-19 the International Open has had to be canceled. In its place is the Gibchess Battle of the Sexes Scheveningen match with 10 men and 10 women playing one game against each other. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/gibraltar-international-chess-festival-2022",
+         "pubDate" : "Mon, 24 Jan 2022 11:04:00 +0400",
+         "title" : "Gibraltar International Chess Festival 2022 - "
       },
       {
          "description" : "",
@@ -72,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-63",
          "pubDate" : "Sun, 23 Jan 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 63: The light-squared beast"
-      },
-      {
-         "description" : "Three decisive games in round 8 of the Tata Steel Masters tournaments left Magnus Carlsen and Shakhriyar Mamedyarov sharing the lead on 5&frac12; points. The Azerbaijani defeated Praggnanandhaa to catch up with the world champion. Meanwhile, in the Challengers, Arjun Erigaisi won his sixth game (in eight rounds!) to go into the second rest day of the event with a 1&frac12;-point lead. | Replay all the games with computer analysis. Full report to follow shortly!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
-         "pubDate" : "Sun, 23 Jan 2022 13:45:00 +0100",
-         "title" : "Tata Steel Chess - Shakh catches up with Carlsen"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89075706.cms\" />Indian Grandmaster MR Lalith Babu emerged victorious in the Marienbad Open 2022 chess tournament here.",
@@ -224,6 +320,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-7",
          "pubDate" : "Fri, 21 Jan 2022 17:00:00 -0800",
          "title" : "Tata Steel Chess 2022 R7: Carlsen Grabs Sole Lead; Dubov Forfeits Game"
+      },
+      {
+         "description" : " From the publisher: \"Grandmasters Kotronias and Ivanov are renowned as leading theoreticians and chess trainers. They offer a unique and world-class repertoire based on 1.d4! They advocate an ambitious approach for White, with the aim to fight for an advantage in any position. This is their first joint effort; they tackle the ever-popular Queen's Gambit <a href=\"http://britishchessnews.com/2022/01/22/your-jungle-guide-to-1-d4-aggressive-enterprise-qga-and-minors/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Your Jungle Guide to 1.d4!: Aggressive Enterprise QGA and Minors</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishc",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/01/22/your-jungle-guide-to-1-d4-aggressive-enterprise-qga-and-minors/",
+         "pubDate" : "Sat, 22 Jan 2022 00:10:25 +0000",
+         "title" : "Your Jungle Guide to 1.d4!: Aggressive Enterprise - QGA and Minors"
       },
       {
          "description" : "Three well-known names collected full points in round 6 of the Tata Steel Masters tournament, as Magnus Carlsen, Sergey Karjakin and Anish Giri all won their Friday games in Wijk aan Zee. Carlsen's victory over Richard Rapport allowed him to catch the leaders in the standings table. Meanwhile, in the Challengers, Arjun Erigaisi continues to dominate as he scored his fifth win in a row! | Photo: Lennart Ootes",
@@ -1682,14 +1786,6 @@ news_feed (
          "title" : "Congratulations Lalith Babu"
       },
       {
-         "description" : "Fourteen year old Bharath Subramaniyam becomes the 73rd Grandmaster of the country after completing his final GM Norm and crossing the 2500 rating at Vergani",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-bharath-subramaniyam-73rd-grandmaster-of-india/",
-         "pubDate" : "Sun, 09 Jan 2022 15:19:53 +0000",
-         "title" : "Congratulations Bharath Subramaniyam : 73rd Grandmaster of India"
-      },
-      {
          "description" : "The Tata Steel Chess Tournament 2022 will take place in Wijk aan Zee on January 14-30. The Masters and the Challengers sections will be played concurrently. The Open had to be cancelled. World Champion Magnus Carlsen leads the field. Alireza Firouzja is not taking part. | Photos: Tata Steel Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1874,14 +1970,6 @@ news_feed (
          "title" : "Dina Belenkaya: My first stream was a total mess"
       },
       {
-         "description" : "In the second week of December Nigel Short caught Corona though he was vaccinated twice. Short's infection was so severe that he had to go hospital, but it did not stop the English Grandmaster from playing at the 6th Vergani Cup in Cattolica, Italy, at the beginning of the year. However, he needed some help from chess goddess Caissa when the tournament began. But Short did not forget his duties as a chess ambassador. | Photos: Circolo Scacchistico Forlivese, Rupali Mullick",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vergani-cup-when-the-mobile-rings-twice",
-         "pubDate" : "Thu, 06 Jan 2022 16:55:03 +0100",
-         "title" : "Vergani Cup: When the mobile rings twice..."
-      },
-      {
          "description" : "College chess is starting off the new year with an exciting annual classic: the Pan-American Intercollegiate Team Championship. This year, the tournament is returning to over-the-board just outside of Washington DC. Top college chess teams will be...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1904,14 +1992,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/david-howell-wins-chess-coms-titled-tuesday/",
          "pubDate" : "Thu, 06 Jan 2022 09:27:32 +0000",
          "title" : "David Howell wins Chess.com's Titled Tuesday!"
-      },
-      {
-         "description" : "Svitlana is back, and in her first episode of 2022, she shows us a couple of beautiful, and memorable games of 2021. Players like Firouzja, Caruana, and Kosteniuk had some magnificent games, and it always delightful to check them out again. What was your favourite game with the smartest moves of 2021?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-25",
-         "pubDate" : "Thu, 06 Jan 2022 09:05:00 +0100",
-         "title" : "Svitlana's Smart Moves - Smartest moves of 2021"
       },
       {
          "description" : " From the publisher: &#8220;There aren't many chess players who can say they've both beaten Garry Kasparov in an official blitz game and crushed Peter Leko in a classical game in 26 moves. And who regularly win blitz tournaments high on marihuana. But then Manuel Bosboom is not an ordinary chess player. The Dutch International Master <a href=\"http://britishchessnews.com/2022/01/06/chess-buccaneer-the-life-and-games-of-manuel-bosboom/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess Buccaneer: The Life and Games of Manuel Bosboom</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/01/06/chess-buccaneer-th",
@@ -1938,28 +2018,12 @@ news_feed (
          "title" : "Howell Wins January 4 Titled Tuesday"
       },
       {
-         "description" : "In this first \"Game of the Week\" show of the new year Merijn van Delft takes a final look at the World Rapid Championship. Magnus Carlsen pushed a little too hard and lost against 17-year old Nodirbek Abdusattorov, and in the end Abusattorov qualified for his third tournament playoff in a row (earlier in December twice in Spain) and again he won to become the youngest Rapid World Champion ever. In the final game of the playoff he impressively beat Ian Nepomniachtchi, which is Merijn's Game of the Week. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-497-n-abdusattorov-vs-i-nepomniachtchi",
-         "pubDate" : "Wed, 05 Jan 2022 17:49:34 +0100",
-         "title" : "Game of the Week #497: N. Abdusattorov vs I. Nepomniachtchi"
-      },
-      {
          "description" : "Please note this Call of Interest for Arbiters invitation from FIDE Who is eligible? All FIDE Arbiters and International Arbiters with a valid FIDE...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/calling-all-fide-and-international-arbiters/",
          "pubDate" : "Wed, 05 Jan 2022 16:03:44 +0000",
          "title" : "Calling all FIDE and International Arbiters!"
-      },
-      {
-         "description" : "In the 2021 World Championship match between challenger Ian Nepomniachtchi and defending champion Magnus Carlsen, Nepomniachtchi blundered in a couple of games. He is in good company. In his Power Play Chess show on YouTube Daniel King takes a look at blunders that happened in previous World Championship matches and found a number of amazing, amusing and entertaining mistakes made by the best players in the history of chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-world-championship-blunders",
-         "pubDate" : "Wed, 05 Jan 2022 15:00:00 +0100",
-         "title" : "Daniel King: World Championship Blunders"
       },
       {
          "description" : " Online chess is increasingly become a perfectly acceptable form of competition, although a number of shortcomings have yet to be completely solved. FIDE are now happy to rate Hybrid events, as long as all the requirements for such an event are met (arbiters, cameras etc). A number of countries moved their teams events online, and this has generally worked, although the non-supervised events still have issues. There has been a thought to organise an online team event here in Canberra, but the major impediment is that most players are actually too close together. As clubs are still able to meet in person, any local team event may as well be held OTB rather than online. You would then think th",
@@ -2024,22 +2088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1512",
          "pubDate" : "Mon, 03 Jan 2022 19:34:02 +0000",
          "title" : "Ghana Championship 2021: Adu-Poku and Felix claim titles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1511",
-         "pubDate" : "Mon, 03 Jan 2022 15:25:50 +0000",
-         "title" : "Gabor Kallai (1959-2021)"
-      },
-      {
-         "description" : " In my chess library are a number of books dealing with opening traps. The earlier ones were produced by authors such as Reinfeld, Chernev and Horowitz, and predated the development of chess databases. I assume instead they had a vast collection of scoresheets and index cards, gathering information from tournament bulletins, chess magazines and reader submissions. As most of the traps presented did not have the players names attached to them, I wonder what the criteria for a 'trap' was. Was it simply a quick game where the mistake wasn't too egregious, or did it have to have been played a certain number of times to qualify? And, in some cases, was it just interesting analysis from the author",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/when-does-this-become-trap.html",
-         "pubDate" : "Mon, 03 Jan 2022 13:00:00 +0000",
-         "title" : "When does this become a trap?"
       }
    ]
 }
