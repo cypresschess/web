@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">In Round 8 of the <a href=\"https://tatasteelchess.com\">2022 Tata Steel Chess Tournament</a> Mamedyarov won against Rameshbabu and now shares the lead with Carlsen who drew against Shankland. The two leaders will face each other on Tuesday the 25th, after a well-deserved rest day! <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.5806111696523\"> <img src=\"https://worldchess.com/news/pictures/JH_4976LR.jpg\" width=\"1500\" height=\"949\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH073715LR.jpg\" width=\"1500\" height=\"1000\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH073717LR.jpg\" width=\"1500\" height=\"957\" alt=\"\" /> <img ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/tata-steel-2022-round-8-mamedyarov-beats-pragg-and-leads-the-mas/",
+         "pubDate" : "Mon, 24 Jan 2022 08:06:08 +0000",
+         "title" : "Tata Steel 2022 Round 8: Mamedyarov beats Pragg and leads the Masters with Carlsen"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
