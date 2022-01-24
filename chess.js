@@ -5,6 +5,22 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1540",
+         "pubDate" : "Mon, 24 Jan 2022 02:37:46 +0000",
+         "title" : "Manuel Petrosyan and Mariam Mkrtchyan win Armenian Champioship"
+      },
+      {
+         "description" : "Shakhriyar Mamedyarov bamboozled Praggnanandhaa to catch Magnus Carlsen in the lead before they clash in Round 9. Carlsen's own \"semi-correct\" gambit caught Sam Shankland off-guard, but the US star dodged some bullets to make a draw. Anish Giri followed gifts from Fabiano Caruana and Daniil Dubov by outplaying Andrey Esipenko to move within half a point of the leaders, where he's joined by Vidit, who bounced back to take down Nils Grandelius. Arjun Erigaisi took advantage of Jonas Bjerre's touch-move woes to score a 6th win and take a 1.5-point lead in the Challengers.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-8-mamedyarov-sets-up-carlsen-showdown",
+         "pubDate" : "Mon, 24 Jan 2022 02:28:04 +0000",
+         "title" : "Tata Steel 8: Mamedyarov sets up Carlsen showdown"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1539",
          "pubDate" : "Mon, 24 Jan 2022 00:05:16 +0000",
          "title" : "Tata Steel Masters R08: Mamediarov pulls level with Carlsen"
@@ -1984,14 +2000,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/i-believe-in-miracles.html",
          "pubDate" : "Tue, 04 Jan 2022 12:21:00 +0000",
          "title" : "I believe in miracles ..."
-      },
-      {
-         "description" : "The 2022 Chess Calendar begins with Magnus Carlsen and Fabiano Caruana topping the field for the Tata Steel Masters from January 15th onwards, and, if all goes to plan, it's a year that's going to feature another Candidates Tournament and the first over-the-board World Chess Olympiad since 2018. Whatever happens with the pandemic, the Meltwater Champions Chess Tour will be back, with nine high stakes events running from February 19th to November 20th.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/2022-chess-calendar",
-         "pubDate" : "Tue, 04 Jan 2022 11:35:00 +0000",
-         "title" : "2022 Chess Calendar"
       },
       {
          "description" : " &#8220; We like bar fights We like nose rings We like eating snails We always indulge in our favorite things No wonder our skin's so pale&#8221; AC/DC Jingle Hells Bells Happy New Year wherever you are! Let's hope for a better 2022 for all of us. Last week's puzzle can be revisited HERE. I hope <a href=\"https://chessimprover.com/a-christmas-puzzle-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Christmas Puzzle (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-christmas-puzzle-2/\">A Christmas Puzzle (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
