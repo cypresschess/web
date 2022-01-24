@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #179 Karsten M&uuml;ller and Arne K&auml;hler take a look at some of the best endgames played in 2021. Karsten's favourite is game six of the World Championship match between Magnus Carlsen and Ian Nepomniachtchi, arguably the decisive game of the match. Arne had another favourite - a fine endgame from the Sitges Open. But what is your favorite endgame of 2021? Share it in the comments! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-179-best-endgames-of-2021",
+         "pubDate" : "Mon, 24 Jan 2022 19:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic Show #179: Best endgames of 2021"
+      },
+      {
          "description" : "Three decisive games in round 8 of the Tata Steel Masters tournament left Magnus Carlsen and Shakhriyar Mamedyarov sharing the lead on 5&frac12; points. The Azerbaijani defeated Praggnanandhaa to catch up with the world champion. Meanwhile, in the Challengers, Arjun Erigaisi won his sixth game (in eight rounds!) to go into the second rest day of the event with a 1&frac12;-point lead. | Photo: Jurriaan Hoefsmit",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1954,14 +1962,6 @@ news_feed (
          "title" : "MegaBase 2022: Three Epic Matches"
       },
       {
-         "description" : "In the first episode of his \"Fast & Furious\" show in 2022, Dutch trainer Robert Ris presents his favourite game of 2021, that features an impressive attack in a sharp line of the Sicilian Najdorf. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-my-favourite-game-of-2021",
-         "pubDate" : "Thu, 06 Jan 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: My favourite game of 2021"
-      },
-      {
          "description" : " <p class=\"lead\">Dina Belenkaya, a St. Petersburg-based streamer, has joined a roster of chess influencers by doing popular streams while maintaining a professional chess career - a feat that only a handful of chess players could manage. World Chess spoke with Belenkaya about her chess career and her experience of being the chess influencer, and her suggestions on how to become one. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/IMG_3404.JPG\" width=\"1707\" height=\"2560\" alt=\"\" /> </div> <h2>Please tell us about your mother's role in your chess development. Did she teach you how to play? Is it true that your mom was Anish Giri's coach? As a child, did you think ab",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2080,14 +2080,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-christmas-puzzle-2/",
          "pubDate" : "Tue, 04 Jan 2022 08:27:03 +0000",
          "title" : "A Christmas Puzzle (2)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1512",
-         "pubDate" : "Mon, 03 Jan 2022 19:34:02 +0000",
-         "title" : "Ghana Championship 2021: Adu-Poku and Felix claim titles"
       }
    ]
 }
