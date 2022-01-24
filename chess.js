@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1539",
+         "pubDate" : "Mon, 24 Jan 2022 00:05:16 +0000",
+         "title" : "Tata Steel Masters R08: Mamediarov pulls level with Carlsen"
+      },
+      {
          "description" : "GM Magnus Carlsen and GM Shakhriyar Mamedyarov are tied for first place after eight rounds at the&#38;nbsp;2022 Tata Steel Chess Tournament and happen to be playing each other in the next round on Tuesday. GM Anish Giri and GM Vidit Gujrathi both won ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -18,11 +26,19 @@ news_feed (
          "title" : "All set for first leg of the FIDE Grand Prix series"
       },
       {
+         "description" : " Magnus Carlsen and Shakhriyar Mamedyarov lead the Tata Steel Masters after 8 of the 13 rounds. They lead by half a point from Anish Giri and Vidit Gujrathi going into the second rest day. Carlsen drew with the black pieces against Sam Shankland. Carlsen played the Von Hennig-Schara Gambit but things didn't get too crazy, after 13...Nd5 the key point is that 16.Rc1 Nxa2 is winning for black, something missed by Shankland initially. The game was balanced after that although the engines think black has a tiny something after 31...Qd5 - as played the game was quickly drawn. Shakhriyar Mamedyarov meanwhile won a sharp English against R Praggnanandhaa that left known theory very early on after hi",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-and-mamedyarov-lead-the-tata-steel-masters-after-8-rounds",
+         "pubDate" : "Sun, 23 Jan 2022 21:25:00 +0400",
+         "title" : "Carlsen and Mamedyarov lead the Tata Steel Masters after 8 rounds - 8"
+      },
+      {
          "description" : "Exciting changes are coming to Titled Tuesday starting on February 1. We are now offering two tournaments and a big bump to the prizes: we&#39;ll be dishing out $5,000 every Tuesday&#38;mdash;$2,500 per tournament and more than $250,000 per year! That&#39;s m...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/titled-tuesday-doubles-tournaments-and-triples-prizes",
-         "pubDate" : "Sun, 23 Jan 2022 08:04:48 -0800",
+         "pubDate" : "Sun, 23 Jan 2022 08:04:00 -0800",
          "title" : "Titled Tuesday Doubles Tournaments And Triples Prizes"
       },
       {
@@ -2008,14 +2024,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/when-does-this-become-trap.html",
          "pubDate" : "Mon, 03 Jan 2022 13:00:00 +0000",
          "title" : "When does this become a trap?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1510",
-         "pubDate" : "Sun, 02 Jan 2022 20:40:38 +0000",
-         "title" : "Susal and Niklesha win Sri Lanka championship"
       }
    ]
 }
