@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Russian-Israeli grandmaster <strong>Mark Tseitlin</strong>, who coached Karpov, Smirin, Avrukh and others, <a href=\"https://en.wikipedia.org/wiki/Mark_Tseitlin\">passed away in Beersheba</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/mark-tseitlin-1943-2022/",
+         "pubDate" : "Tue, 25 Jan 2022 16:24:56 +0100",
+         "title" : "Mark Tseitlin (1943-2022)"
+      },
+      {
+         "description" : "<a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1643118388401-GMIV0Q0ONF3AONKE241J/20217_roederoliver_ctonyluong.jpg\" data-image-dimensions=\"1802x2700\" data-image-focal-point=\"0.5,0.5\" alt=\"20217_roederoliver_ctonyluong.jpg\" data-load=\"false\" data-image-id=\"61efff2fe51c0671231b2749\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1643118388401-GMIV0Q0ONF3AONKE241J/20217_roederoliver_ctonyluong.jpg?format=1000w\" /><br> </a> <a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-ima",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/25/ep-263-ep-263-author-oliver-roeder-on-the-enduring-appeal-of-chess-and-other-games",
+         "pubDate" : "Tue, 25 Jan 2022 13:51:43 +0000",
+         "title" : "EP 263- EP 263- Author Oliver Roeder on the Enduring Appeal of Chess and Other Games "
+      },
+      {
+         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. In round 1 the women (team Pia) played with White and won 6.5-3.5. Will the men (team Sabino) be able to bounce back in round 2 when they play with White? Rounds start daily at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
+         "pubDate" : "Tue, 25 Jan 2022 14:45:14 +0100",
+         "title" : "Battle of the Sexes: Round 2 - Live"
+      },
+      {
+         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
+         "pubDate" : "Tue, 25 Jan 2022 13:45:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "All India Chess Federation extend our heartiest congratulations to Ms. Arushi Kotwal for the Rashtriya Bal Puraskar!! &#160; We are proud of you!!",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -26,12 +58,12 @@ news_feed (
          "title" : "The power of passed pawns"
       },
       {
-         "description" : "The ninth round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Tuesday, January 25. The upcoming round will feature an exciting clash between the two tournament leaders, GM Magnus Carlsen and GM Shakhriyar Mamedyarov. Wil...",
+         "description" : "The ninth round of the 2022 Tata Steel Chess Tournament is underway and features the exciting clash between the two tournament leaders, GM Magnus Carlsen and GM Shakhriyar Mamedyarov. Will one of them score the full point to take the sole lead? ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-9",
          "pubDate" : "Mon, 24 Jan 2022 17:00:00 -0800",
-         "title" : "How To Watch Tata Steel Chess 2022 Round 9"
+         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 9"
       },
       {
          "description" : "",
@@ -80,14 +112,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-individual-chess-championship-2022-in-brezice/",
          "pubDate" : "Mon, 24 Jan 2022 14:54:15 +0000",
          "title" : "European Individual Chess Championship 2022 in Brežice"
-      },
-      {
-         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. In round 1 the women (team Pia) played with White and won 6.5-3.5. Will the men (team Sabino) be able to bounce back in round 2 when they play with White? Rounds start daily at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
-         "pubDate" : "Mon, 24 Jan 2022 14:45:14 +0100",
-         "title" : "Battle of the Sexes: Round 2 - Live"
       },
       {
          "description" : "Can players be classified into certain types? On their new ChessBase course Karsten M&uuml;ller and Luis Engel follow a model of Danish Grandmaster Lars Bo Hansen and distinguish between four types of players and illustrate their different playing styles with typical games. This model helps to understand your own strengths and weaknesses and the strengths and weaknesses of your opponents better. Christian H&ouml;the took a look at the course.",
@@ -1378,14 +1402,6 @@ news_feed (
          "title" : "Chess.com announced $650,000 rapid series"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Maia</strong>, an AI by University of Toronto researchers <strong>Ashton Anderson</strong> and <strong>Reid McIlroy-Young</strong>, was trained on hundred games each of 3000 different players. It was then fed portions of hundred anonymous games not in the training sample and <a href=\"https://proceedings.neurips.cc/paper/2021/hash/ccf8111910291ba472b385e9c5f59099-Abstract.html\">guessed correctly</a> who played these in 86% of the cases. They told <a href=\"https://www.science.org/content/article/ai-unmasks-anonymous-chess-players-posing-privacy-risks\">Science magazine</a> that the code wasn't published due to privacy concerns. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/maia-can-guess-the-player-from/",
-         "pubDate" : "Fri, 14 Jan 2022 00:23:16 +0100",
-         "title" : "Maia can guess the player from anonymous games"
-      },
-      {
          "description" : "The first super-tournament of the year is about to kick off, and the organizers have just announced that they will be using a new tiebreak system. After last year's edition finished with an unpleasant controversy, the organizers of the Tata Steel Masters have decided to avoid chaotic time scrambles to break a potential tie for first place. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1954,14 +1970,6 @@ news_feed (
          "title" : "Book Recap #22- Discussing Questions of Modern Chess Theory with Martin Justesen "
       },
       {
-         "description" : "Parallel to the Rapid and Blitz World Championships in Warsaw, FIDE held its annual congress. Delegates participated mostly online. On its website, FIDE recently published the \"results and decisions\" of the congress. Despite the Corona pandemic, FIDE is solidly financed, now largely from sponsorship, donations and broadcasting rights, less so from membership fees. The World Chess Federation has reacquired the rights to the World Championships. | Photos: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/92nd-fide-general-assembly-results-and-decisions",
-         "pubDate" : "Fri, 07 Jan 2022 14:00:00 +0100",
-         "title" : "92nd FIDE General Assembly: results and decisions"
-      },
-      {
          "description" : " \"And White has a freer game\" is one of those chess annotations I have never particularly understood. I've always thought it was just something annotators wrote when they felt like they had to add a comment, in a similar vain to \"chances for both sides\" or \"compensation for the pawn\". Based on some recent reading I've decided it is a more confusing way of simply saying, \"White has more space\". And advantage in space usually confers greater mobility, allowing the player more control over where the pieces go. As an example (from one of the older books I was looking at), here is a quick win for Tarrasch over Meises in their 1916 match. After White's move 9, Reinfeld remarks \"Whites game is noti",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2064,22 +2072,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/17-year-old-world-champion-gifted-new-home-in-presidential-ceremony",
          "pubDate" : "Tue, 04 Jan 2022 22:23:33 +0000",
          "title" : "17-year-old World Champ gifted flat by Presidential decree"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1513",
-         "pubDate" : "Tue, 04 Jan 2022 15:53:23 +0000",
-         "title" : "Youngsters skyrocket in January rapid and blitz rating lists"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/c7b90d20-5efa-408b-ab36-bae8943d1148/Christof3.jpg\" data-image-dimensions=\"280x280\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61d456f056b10f595659f2f4\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/c7b90d20-5efa-408b-ab36-bae8943d1148/Christof3.jpg?format=1000w\" /> </figure> <p class=\"\">This week's guest on Perpetual Chess marks the return of award winning author, Chessable author, and noted opening theoretician, IM Christof Sielecki. Christof has recently",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/4/ep-260-im-christof-sielecki-is-back",
-         "pubDate" : "Tue, 04 Jan 2022 14:19:48 +0000",
-         "title" : "EP 260- IM Christof Sielecki is back! "
       }
    ]
 }
