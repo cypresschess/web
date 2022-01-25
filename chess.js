@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round one of the #GibChess Battle of the Sexes Tournament, held at the Gibraltar Garrison Library on Monday 24 January, got off to a pulsating start as the team of women's players, dubbed \"Team Pia\" after their captain, GM Pia Cramling, scored a big win over \"Team Sabino\", as the men's team is now known, with four of the ten women's players scoring wins against their male adversaries, with only one male player able to win in reply. The first player to win a game was Olga Girya (pictured) who defeated Joe Gallagher in a King's Indian. | Photos: John Saunders",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1-a-clear-win-for-team-pia",
+         "pubDate" : "Tue, 25 Jan 2022 09:26:38 +0100",
+         "title" : "Battle of the Sexes, Round 1: A clear win for team Pia"
+      },
+      {
+         "description" : "In the diagrammed position it is White to move and draw. White has a powerful passed pawn on g7 that forces Black's bishop to control the g8-square, but White is a pawn down and Black also has a powerful passed pawn that just attacked White's bishop on d3. Should the bishop go to b5 or to c2?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-power-of-passed-pawns-2",
+         "pubDate" : "Tue, 25 Jan 2022 09:00:00 +0100",
+         "title" : "The power of passed pawns"
+      },
+      {
          "description" : "The ninth round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Tuesday, January 25. The upcoming round will feature an exciting clash between the two tournament leaders, GM Magnus Carlsen and GM Shakhriyar Mamedyarov. Wil...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-9",
          "pubDate" : "Mon, 24 Jan 2022 17:00:00 -0800",
          "title" : "How To Watch Tata Steel Chess 2022 Round 9"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1542",
+         "pubDate" : "Mon, 24 Jan 2022 22:49:08 +0000",
+         "title" : "FIDE welcomes ALRUD as Official Legal Consultant"
       },
       {
          "description" : "In the Endgame Magic Show #179 Karsten M&uuml;ller and Arne K&auml;hler take a look at some of the best endgames played in 2021. Karsten's favourite is game six of the World Championship match between Magnus Carlsen and Ian Nepomniachtchi, arguably the decisive game of the match. Arne had another favourite - a fine endgame from the Sitges Open. But what is your favorite endgame of 2021? Share it in the comments! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -1938,14 +1962,6 @@ news_feed (
          "title" : "Book Recap #22- Discussing Questions of Modern Chess Theory with Martin Justesen "
       },
       {
-         "description" : "Parallel to the Rapid and Blitz World Championships in Warsaw, FIDE held its annual congress. Delegates participated mostly online. On its website, FIDE recently published the \"results and decisions\" of the congress. Despite the Corona pandemic, FIDE is solidly financed, now largely from sponsorship, donations and broadcasting rights, less so from membership fees. The World Chess Federation has reacquired the rights to the World Championships. | Photos: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/92nd-fide-general-assembly-results-and-decisions",
-         "pubDate" : "Fri, 07 Jan 2022 14:00:00 +0100",
-         "title" : "92nd FIDE General Assembly: results and decisions"
-      },
-      {
          "description" : " \"And White has a freer game\" is one of those chess annotations I have never particularly understood. I've always thought it was just something annotators wrote when they felt like they had to add a comment, in a similar vain to \"chances for both sides\" or \"compensation for the pawn\". Based on some recent reading I've decided it is a more confusing way of simply saying, \"White has more space\". And advantage in space usually confers greater mobility, allowing the player more control over where the pieces go. As an example (from one of the older books I was looking at), here is a quick win for Tarrasch over Meises in their 1916 match. After White's move 9, Reinfeld remarks \"Whites game is noti",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1960,14 +1976,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/jan/07/chess-howell-wins-titled-tuesday-as-mobile-phone-saves-short-from-teenager",
          "pubDate" : "Fri, 07 Jan 2022 08:00:33 +0000",
          "title" : "Chess: Howell wins Titled Tuesday as mobile phone saves Short from teenager"
-      },
-      {
-         "description" : "The MegaBase 2022 is Chess History in Action: It offers 9.210.512 games, the earliest played in 1475 and the most recent played October 2021, many of them annotated. Here our columnist, offers an introduction to three epic matches from the MegaBase with six annotated games. There is a lot more to discover in this treasure trove, grand battles, opening novelties and exemplary endgames.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/megabase-2022-three-epic-matches",
-         "pubDate" : "Fri, 07 Jan 2022 08:36:59 +0100",
-         "title" : "MegaBase 2022: Three Epic Matches"
       },
       {
          "description" : " <p class=\"lead\">Dina Belenkaya, a St. Petersburg-based streamer, has joined a roster of chess influencers by doing popular streams while maintaining a professional chess career - a feat that only a handful of chess players could manage. World Chess spoke with Belenkaya about her chess career and her experience of being the chess influencer, and her suggestions on how to become one. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/IMG_3404.JPG\" width=\"1707\" height=\"2560\" alt=\"\" /> </div> <h2>Please tell us about your mother's role in your chess development. Did she teach you how to play? Is it true that your mom was Anish Giri's coach? As a child, did you think ab",
@@ -2080,14 +2088,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/i-believe-in-miracles.html",
          "pubDate" : "Tue, 04 Jan 2022 12:21:00 +0000",
          "title" : "I believe in miracles ..."
-      },
-      {
-         "description" : " &#8220; We like bar fights We like nose rings We like eating snails We always indulge in our favorite things No wonder our skin's so pale&#8221; AC/DC Jingle Hells Bells Happy New Year wherever you are! Let's hope for a better 2022 for all of us. Last week's puzzle can be revisited HERE. I hope <a href=\"https://chessimprover.com/a-christmas-puzzle-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Christmas Puzzle (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-christmas-puzzle-2/\">A Christmas Puzzle (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-christmas-puzzle-2/",
-         "pubDate" : "Tue, 04 Jan 2022 08:27:03 +0000",
-         "title" : "A Christmas Puzzle (2)"
       }
    ]
 }
