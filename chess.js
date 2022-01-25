@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1543",
+         "pubDate" : "Tue, 25 Jan 2022 18:08:53 +0000",
+         "title" : "Belarusian Championship: Maksim Tsaruk and Kseniya Zeliantsova clinch titles"
+      },
+      {
+         "description" : " &#8220;Life begins at the end of your comfort zone&#8221; Neale Donald Walsch Chess variants have a chance to keep kids interested in playing chess despite the tough competition from the computer games. In one past article posted here I shared my first foray into Three Check Chess. This week I am ready to share another game <a href=\"https://chessimprover.com/three-check-chess-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Three Check Chess (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/three-check-chess-2/\">Three Check Chess (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/three-check-chess-2/",
+         "pubDate" : "Tue, 25 Jan 2022 16:35:30 +0000",
+         "title" : "Three Check Chess (2)"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The halftime show at the 13 February american football <strong>Super Bowl</strong> final is promoted by <strong>Pepsi</strong> with the <a href=\"https://www.youtube.com/watch?v=h3NhX6-5mO0\">video \"The Call\"</a> that features chess and will probably be seen more than 100 million times. Among the invited artists are chess afficionados <strong>Dr Dre</strong> and <strong>Kendrick Lamar</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/super-bowl-spot-features-chess/",
+         "pubDate" : "Tue, 25 Jan 2022 17:22:33 +0100",
+         "title" : "Super Bowl spot features chess"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Russian-Israeli grandmaster <strong>Mark Tseitlin</strong>, who coached Karpov, Smirin, Avrukh and others, <a href=\"https://en.wikipedia.org/wiki/Mark_Tseitlin\">passed away in Beersheba</a>. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -26,12 +50,12 @@ news_feed (
          "title" : "Battle of the Sexes: Round 2 - Live"
       },
       {
-         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "description" : "In a crucial confrontation, Magnus Carslsen beat Shakhriyar Mamedyarov to reclaim the sole lead at the Tata Steel Masters tournament. The one player keeping up the pace with the world champion is Anish Giri, who got the better of Sam Shankland to remain a half point behind the Norwegian. Sergey Karjakin and Fabiano Caruana also won in round 9. | Replay all the games with computer analysis. Full report to follow shortly!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
          "pubDate" : "Tue, 25 Jan 2022 13:45:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
+         "title" : "Tata Steel Chess - Carlsen regains the sole lead"
       },
       {
          "description" : "All India Chess Federation extend our heartiest congratulations to Ms. Arushi Kotwal for the Rashtriya Bal Puraskar!! &#160; We are proud of you!!",
@@ -58,12 +82,12 @@ news_feed (
          "title" : "The power of passed pawns"
       },
       {
-         "description" : "The ninth round of the 2022 Tata Steel Chess Tournament is underway and features the exciting clash between the two tournament leaders, GM Magnus Carlsen and GM Shakhriyar Mamedyarov. Will one of them score the full point to take the sole lead? ...",
+         "description" : "GM Magnus Carlsen defeated co-leader GM Shakhriyar Mamedyarov on Tuesday to regain the sole lead at the 2022 Tata Steel Chess Tournament. GM Anish Giri is the only player trailing the world champion by half a point after scoring his fourth full po...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-9",
          "pubDate" : "Mon, 24 Jan 2022 17:00:00 -0800",
-         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 9"
+         "title" : "Tata Steel Chess 2022 R9: Carlsen Regains Sole Lead With Giri Trailing"
       },
       {
          "description" : "",
@@ -1392,14 +1416,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/kramnik-on-carlsen-s-new-target-what-firouzja-needs-to-do-and-the-top-young-talents",
          "pubDate" : "Fri, 14 Jan 2022 01:17:51 +0000",
          "title" : "Kramnik on Carlsen's new target, what Firouzja needs to do and the top young talents"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess.com</strong>'s answer to the <strong>Champions Chess Tour</strong> is their <a href=\"https://www.chess.com/news/view/announcing-chesscom-rapid-chess-championship-2022\">own series of online elite events</a> starting six days earlier than the competitor on 12 February. Only the top 100 rated players, top 10 juniors and top 10 women are eligible to compete for $500,000 in the qualifiers and $150,000 in the final. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/chesscom-announced-650000-rapid/",
-         "pubDate" : "Fri, 14 Jan 2022 00:38:10 +0100",
-         "title" : "Chess.com announced $650,000 rapid series"
       },
       {
          "description" : "The first super-tournament of the year is about to kick off, and the organizers have just announced that they will be using a new tiebreak system. After last year's edition finished with an unpleasant controversy, the organizers of the Tata Steel Masters have decided to avoid chaotic time scrambles to break a potential tie for first place. | Photo: Official website",
