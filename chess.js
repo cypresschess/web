@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ninth round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Tuesday, January 25. The upcoming round will feature an exciting clash between the two tournament leaders, GM Magnus Carlsen and GM Shakhriyar Mamedyarov. Wil...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-9",
+         "pubDate" : "Mon, 24 Jan 2022 17:00:00 -0800",
+         "title" : "How To Watch Tata Steel Chess 2022 Round 9"
+      },
+      {
          "description" : "In the Endgame Magic Show #179 Karsten M&uuml;ller and Arne K&auml;hler take a look at some of the best endgames played in 2021. Karsten's favourite is game six of the World Championship match between Magnus Carlsen and Ian Nepomniachtchi, arguably the decisive game of the match. Arne had another favourite - a fine endgame from the Sitges Open. But what is your favorite endgame of 2021? Share it in the comments! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
