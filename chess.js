@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All India Chess Federation extend our heartiest congratulations to Ms. Arushi Kotwal for the Rashtriya Bal Puraskar!! &#160; We are proud of you!!",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-arushi-kotwal/",
+         "pubDate" : "Tue, 25 Jan 2022 10:06:36 +0000",
+         "title" : "Congratulations Arushi Kotwal"
+      },
+      {
          "description" : "Round one of the #GibChess Battle of the Sexes Tournament, held at the Gibraltar Garrison Library on Monday 24 January, got off to a pulsating start as the team of women's players, dubbed \"Team Pia\" after their captain, GM Pia Cramling, scored a big win over \"Team Sabino\", as the men's team is now known, with four of the ten women's players scoring wins against their male adversaries, with only one male player able to win in reply. The first player to win a game was Olga Girya (pictured) who defeated Joe Gallagher in a King's Indian. | Photos: John Saunders",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,14 +58,6 @@ news_feed (
          "title" : "Tata Steel R8: Arjun clear leader in the Challengers"
       },
       {
-         "description" : "Today, round 1 of the Battle of the Sexes in Gibraltar will be played. Ten male and ten female players compete in a team match that is played according to the rules of the Scheveninger system. Rounds start at 15:00 local time (9:00 ET, 14:00 UTC) each day. Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
-         "pubDate" : "Mon, 24 Jan 2022 17:27:14 +0100",
-         "title" : "Battle of the Sexes: Round 1"
-      },
-      {
          "description" : " Just a quick announcement that my new book Chess for Schools, will, with any luck, be published by Crown House Publishing on 22 April. I'll tell you more later, but here's the blurb. Presents a new approach to promoting chess in primary schools which, by introducing the concepts through a series of mini games, will <a href=\"https://chessimprover.com/chess-for-schools-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess for Schools (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-for-schools-1/\">Chess for Schools (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -82,20 +82,20 @@ news_feed (
          "title" : "European Individual Chess Championship 2022 in Brežice"
       },
       {
+         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. In round 1 the women (team Pia) played with White and won 6.5-3.5. Will the men (team Sabino) be able to bounce back in round 2 when they play with White? Rounds start daily at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
+         "pubDate" : "Mon, 24 Jan 2022 14:45:14 +0100",
+         "title" : "Battle of the Sexes: Round 2 - Live"
+      },
+      {
          "description" : "Can players be classified into certain types? On their new ChessBase course Karsten M&uuml;ller and Luis Engel follow a model of Danish Grandmaster Lars Bo Hansen and distinguish between four types of players and illustrate their different playing styles with typical games. This model helps to understand your own strengths and weaknesses and the strengths and weaknesses of your opponents better. Christian H&ouml;the took a look at the course.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/mueller-engel-player-types-a-review",
          "pubDate" : "Mon, 24 Jan 2022 14:00:00 +0100",
          "title" : "M&uuml;ller/ Engel: Player types - a review"
-      },
-      {
-         "description" : "Three decisive games in round 8 of the Tata Steel Masters tournaments left Magnus Carlsen and Shakhriyar Mamedyarov sharing the lead on 5&frac12; points. The Azerbaijani defeated Praggnanandhaa to catch up with the world champion. Meanwhile, in the Challengers, Arjun Erigaisi won his sixth game (in eight rounds!) to go into the second rest day of the event with a 1&frac12;-point lead. | Replay all the games with computer analysis. Full report to follow shortly!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
-         "pubDate" : "Mon, 24 Jan 2022 13:45:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "The opening ceremony of the #GibChess Battle of Sexes Chess Match-Tournament, to be held at the Garrison Library, 24 January to 3 February 2022, took place at the Garrison Library at 6pm on Sunday 23 January 2022 in the presence of the Hon. Dr John Cortes, Minister for the Environment, Sustainability, Climate Change and Education, and Dr Jennifer Ballantine, Director of the Gibraltar Garrison Library, which is hosting the event.",
@@ -1818,14 +1818,6 @@ news_feed (
          "title" : "Bharath Subramaniyam becomes India's 73rd chess GM"
       },
       {
-         "description" : "Grandmaster M R Lalith Babu won the Vergani Cup Open which concluded on Sunday in Italy. Lalith seeded 9th in the tournament scored 7 points",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-lalith-babu/",
-         "pubDate" : "Sun, 09 Jan 2022 15:58:19 +0000",
-         "title" : "Congratulations Lalith Babu"
-      },
-      {
          "description" : "The Tata Steel Chess Tournament 2022 will take place in Wijk aan Zee on January 14-30. The Masters and the Challengers sections will be played concurrently. The Open had to be cancelled. World Champion Magnus Carlsen leads the field. Alireza Firouzja is not taking part. | Photos: Tata Steel Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1962,6 +1954,14 @@ news_feed (
          "title" : "Book Recap #22- Discussing Questions of Modern Chess Theory with Martin Justesen "
       },
       {
+         "description" : "Parallel to the Rapid and Blitz World Championships in Warsaw, FIDE held its annual congress. Delegates participated mostly online. On its website, FIDE recently published the \"results and decisions\" of the congress. Despite the Corona pandemic, FIDE is solidly financed, now largely from sponsorship, donations and broadcasting rights, less so from membership fees. The World Chess Federation has reacquired the rights to the World Championships. | Photos: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/92nd-fide-general-assembly-results-and-decisions",
+         "pubDate" : "Fri, 07 Jan 2022 14:00:00 +0100",
+         "title" : "92nd FIDE General Assembly: results and decisions"
+      },
+      {
          "description" : " \"And White has a freer game\" is one of those chess annotations I have never particularly understood. I've always thought it was just something annotators wrote when they felt like they had to add a comment, in a similar vain to \"chances for both sides\" or \"compensation for the pawn\". Based on some recent reading I've decided it is a more confusing way of simply saying, \"White has more space\". And advantage in space usually confers greater mobility, allowing the player more control over where the pieces go. As an example (from one of the older books I was looking at), here is a quick win for Tarrasch over Meises in their 1916 match. After White's move 9, Reinfeld remarks \"Whites game is noti",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2080,14 +2080,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/4/ep-260-im-christof-sielecki-is-back",
          "pubDate" : "Tue, 04 Jan 2022 14:19:48 +0000",
          "title" : "EP 260- IM Christof Sielecki is back! "
-      },
-      {
-         "description" : " GM Nigel Short is currently playing in a strong international open in Italy, having recently come out of hospital after being treated for Covid. He didn't get off to the best start, being held to a draw in round 1, and his round 2 game at one stage was even worse. On move 14 he found his king being forced to move to e7, but move 15 was the real blunder, allowing a fork on f7. Although his opponent did not immediately take the rook, Shirt was soon down the exchange, and acing a strong attack. In his own words, he was considering resigning, but then a miracle occurred. His opponents phone rang, and the game was instantly over (with a win for Short). Bad luck for the opponent, but there should",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/i-believe-in-miracles.html",
-         "pubDate" : "Tue, 04 Jan 2022 12:21:00 +0000",
-         "title" : "I believe in miracles ..."
       }
    ]
 }
