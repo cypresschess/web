@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. The women (team Pia) won both of the first two rounds 6.5-3.5. Time for the men (team Sabino) to bounce back though they play with Black in round 3. The rounds start daily at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
+         "pubDate" : "Wed, 26 Jan 2022 14:45:14 +0100",
+         "title" : "Battle of the Sexes: Round 3 - Live"
+      },
+      {
+         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
+         "pubDate" : "Wed, 26 Jan 2022 13:55:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "Our coverage of the 10th round of the 2022 Tata Steel Chess Tournament is underway. Tournament leader GM Magnus Carlsen plays 2022 Candidate GM Sergey Karjakin with the black pieces and second-place GM Anish Giri is facing another Candidate, GM Ja...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-10",
+         "pubDate" : "Wed, 26 Jan 2022 04:38:00 -0800",
+         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 10"
+      },
+      {
          "description" : " At the Dubbo Open each year, the organisers run a novelty blitz event on the Saturday Night. It is a time handicap event, where the difference in rating determines the time difference between the 2 players. However, based in part on an idea by IM Jovan Petronic, there may be another format. Petronic's initial suggestion concerned Swiss Pairings. He wondered if anyone had tried a format where the lowest ranked player in a scoregroup could choose their next opponent (from that group), instead of having the pairing assigned by the computer. Of course there would be issues with floaters and colour allocations, but in looking to deal with those, I came up with a modified format. NB This would on",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -15,10 +39,10 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-2",
          "pubDate" : "Wed, 26 Jan 2022 12:55:18 +0100",
-         "title" : "Battle of the Sexes: Round 2"
+         "title" : "Battle of the Sexes, Round 2: Team Pia wins again"
       },
       {
-         "description" : "In a crucial confrontation, Magnus Carslsen beat Shakhriyar Mamedyarov to reclaim the sole lead at the Tata Steel Masters tournament. The one player keeping up the pace with the world champion is Anish Giri, who got the better of Sam Shankland to remain a half point behind the Norwegian. Sergey Karjakin and Fabiano Caruana also won in round 9. | Photo: Lennart Ootes",
+         "description" : "In a crucial confrontation, Magnus Carlsen beat Shakhriyar Mamedyarov to reclaim the sole lead at the Tata Steel Masters tournament. The one player keeping up the pace with the world champion is Anish Giri, who got the better of Sam Shankland to remain a half point behind the Norwegian. Sergey Karjakin and Fabiano Caruana also won in round 9. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r9",
@@ -88,14 +112,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/magnus-road-2900-nm-caleb-denby",
          "pubDate" : "Wed, 26 Jan 2022 02:14:16 +0000",
          "title" : "Magnus: The Road to 2900! - NM Caleb Denby"
-      },
-      {
-         "description" : "The tenth round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Saturday, January 15. The leader GM Magnus Carlsen will go up against 2022 Candidate GM Sergey Karjakin with the black pieces. Second-place GM Anish Giri is f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-10",
-         "pubDate" : "Tue, 25 Jan 2022 17:00:00 -0800",
-         "title" : "How To Watch Tata Steel Chess 2022 Round 10"
       },
       {
          "description" : " From the publisher: \"I have aimed to find a good balance of verbal explanations without ignoring the hardcore variations you have to know. In case you find some of the analyses a bit too long, don't be discouraged! They have been included mainly to illustrate the thematic ideas and show in which direction the game <a href=\"http://britishchessnews.com/2022/01/26/beat-the-anti-sicilians/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beat the Anti-Sicilians</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/01/26/beat-the-anti-sicilians/\">Beat the Anti-Sicilians</a> appeared first on <a rel=\"nofollow\" href=\"",
@@ -168,14 +184,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/25/ep-263-ep-263-author-oliver-roeder-on-the-enduring-appeal-of-chess-and-other-games",
          "pubDate" : "Tue, 25 Jan 2022 13:51:43 +0000",
          "title" : "EP 263- EP 263- Author Oliver Roeder on the Enduring Appeal of Chess and Other Games "
-      },
-      {
-         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. In round 1 the women (team Pia) played with White and won 6.5-3.5. Will the men (team Sabino) be able to bounce back in round 2 when they play with White? Rounds start daily at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
-         "pubDate" : "Tue, 25 Jan 2022 14:45:14 +0100",
-         "title" : "Battle of the Sexes: Round 2 - Live"
       },
       {
          "description" : "All India Chess Federation extend our heartiest congratulations to Ms. Arushi Kotwal for the Rashtriya Bal Puraskar!! &#160; We are proud of you!!",
@@ -2002,14 +2010,6 @@ news_feed (
          "title" : "The princes in the Tower, Great Chess and the 41 giraffes"
       },
       {
-         "description" : "In the diagram position it is White to move and he has to react to Black's threat of ...g4 which would trap the bishop on h3. But with the right pawn push White can gain the upper hand. Which pawn should White push ahead?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-perfect-start",
-         "pubDate" : "Sat, 08 Jan 2022 09:00:00 +0100",
-         "title" : "The perfect start"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2104,22 +2104,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/a-chess-train-in-the-moscow-metro/",
          "pubDate" : "Wed, 05 Jan 2022 19:04:39 +0000",
          "title" : "A chess train in the Moscow metro"
-      },
-      {
-         "description" : "Please note this Call of Interest for Arbiters invitation from FIDE Who is eligible? All FIDE Arbiters and International Arbiters with a valid FIDE...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/calling-all-fide-and-international-arbiters/",
-         "pubDate" : "Wed, 05 Jan 2022 16:03:44 +0000",
-         "title" : "Calling all FIDE and International Arbiters!"
-      },
-      {
-         "description" : " Online chess is increasingly become a perfectly acceptable form of competition, although a number of shortcomings have yet to be completely solved. FIDE are now happy to rate Hybrid events, as long as all the requirements for such an event are met (arbiters, cameras etc). A number of countries moved their teams events online, and this has generally worked, although the non-supervised events still have issues. There has been a thought to organise an online team event here in Canberra, but the major impediment is that most players are actually too close together. As clubs are still able to meet in person, any local team event may as well be held OTB rather than online. You would then think th",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/too-far-or-too-close.html",
-         "pubDate" : "Wed, 05 Jan 2022 12:48:00 +0000",
-         "title" : "Too far or too close"
       }
    ]
 }
