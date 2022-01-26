@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Nils Grandelius-Caruana and Fabiano Caruana. Thumbnail: Lennart Ootes 2022.01.25<br /> Nils Grandelius vs Fabiano Caruana, 84th Tata Steel Masters (2022): C02 French, advance, Euwe variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2229054\">https://www.chessgames.com/perl/chessgame?gid=2229054</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-tata-steel-grandelius-c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-tata-steel-grandelius-caruana-gm-josh-friedel-lichessorg",
+         "pubDate" : "Wed, 26 Jan 2022 02:14:16 +0000",
+         "title" : "2022 Tata Steel: Grandelius-Caruana - GM Josh Friedel | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes two Magnus Carlsen wins from the ongoing 2022 Tata Steel in Wijk aan Zee. The mysterious masked Caleb is shocked that, while the world champion is +4 after nine rounds, Carlsen's live classical FIDE rating only rose two points! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-road-2900-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnai",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/magnus-road-2900-nm-caleb-denby",
+         "pubDate" : "Wed, 26 Jan 2022 02:14:16 +0000",
+         "title" : "Magnus: The Road to 2900! - NM Caleb Denby"
+      },
+      {
+         "description" : "The tenth round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Saturday, January 15. The leader GM Magnus Carlsen will go up against 2022 Candidate GM Sergey Karjakin with the black pieces. Second-place GM Anish Giri is f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-10",
+         "pubDate" : "Tue, 25 Jan 2022 17:00:00 -0800",
+         "title" : "How To Watch Tata Steel Chess 2022 Round 10"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1114,14 +1138,6 @@ news_feed (
          "title" : "Tata Steel 2: Carlsen gets Giri revenge"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Harrison Keyser demonstrates how to crush your opponent when they play dubious openings. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> Played on lichess.org<br /> #chess #gambits #arcg3 2022.01.03<br /> Fritz_Adler vs. Harrison Keyser, 2021: C21 Danish gambit, Schlechter defence<br /> <a href=\"https://lichess.org/iDvGyIYx\">https://lichess.org/iDvGyIYx</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"fiel",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/playing-perfectly-against-danish-gambit",
-         "pubDate" : "Mon, 17 Jan 2022 05:05:27 +0000",
-         "title" : "Playing Perfectly Against the Danish Gambit"
-      },
-      {
          "description" : "GM Vidit Gujrathi is the sole leader at the Tata Steel Chess Tournament after defending brilliantly against GM Daniil Dubov, who played creatively but eventually over-pressed. Co-leaders Jan-Krzysztof Duda and&#38;nbsp;GM Magnus Carlsen drew, while GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1144,14 +1160,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/carlsen-and-rapport-the-winners-of-r2-of-the-2022-tata-steel-che/",
          "pubDate" : "Sun, 16 Jan 2022 20:26:14 +0000",
          "title" : "Carlsen and Rapport the winners of R2 of the 2022 Tata Steel Chess Tournament"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> PogChamps 3 contestant NeekoLul puts $100 on the line... Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> Played on lichess.org<br /> #chess #neekolul #arcg3 Harrison Keyser vs. Arush Rao, 2021<br /> <a href=\"https://lichess.org/AdwHOg8k\">https://lichess.org/AdwHOg8k</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapp",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/she-bet-100-i-wouldnt-win",
-         "pubDate" : "Sun, 16 Jan 2022 20:05:18 +0000",
-         "title" : "She Bet $100 I Wouldn't Win..."
       },
       {
          "description" : "Years ago the great Mikhail Tal pithily expounded a critical aspect of all out attacking chess, noting that it is only possible to capture one piece at a time. In full battle cry, Tal's instinct was not to retreat attacked pieces, especially minor pieces - but to pour more oil on the fire by putting further units en prise! Jonathan Speelman explores this theme using games by Tal and Fischer, as well as more recent examples. | Pictured: Fischer and Tal in Zurich, 1959 / Photo via skaksogufelagid.is",
@@ -2064,14 +2072,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/a-chess-train-in-the-moscow-metro/",
          "pubDate" : "Wed, 05 Jan 2022 19:04:39 +0000",
          "title" : "A chess train in the Moscow metro"
-      },
-      {
-         "description" : "The first Titled Tuesday of 2022 went to GM David Howell on January 4. He scored 10/11 for an outright victory. In second place, also untied at 9.5/11, was GM Alexey Sarana. Meanwhile, seven players tied with nine points, with IM Pranav V in third...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/howell-wins-january-4-titled-tuesday",
-         "pubDate" : "Wed, 05 Jan 2022 09:25:54 -0800",
-         "title" : "Howell Wins January 4 Titled Tuesday"
       },
       {
          "description" : "Please note this Call of Interest for Arbiters invitation from FIDE Who is eligible? All FIDE Arbiters and International Arbiters with a valid FIDE...",
