@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1545",
+         "pubDate" : "Wed, 26 Jan 2022 21:16:22 +0000",
+         "title" : "30 Federations will receive free training from FIDE licensed trainers"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won Titled Tuesday on January 25 with a score of 10/11 after winning a better rook endgame in the final round against GM Bogdan Daniel Deac. GM Dmitry Andreikin and GM Jose Alcantara finished in second and third, respectively, w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-january-25-titled-tuesday",
+         "pubDate" : "Wed, 26 Jan 2022 10:03:00 -0800",
+         "title" : "Hikaru Nakamura Wins January 25 Titled Tuesday"
+      },
+      {
+         "description" : "In his \"Weekly Show\" Lawrence Trent covers a great game between Olga Girya and Joe Gallagher from the Battle of the Sexes, which he is currently commentating at in Gibraltar! Of course, he also goes over the highlights of the Tata Steel Chess Tournament. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-battle-of-the-sexes",
+         "pubDate" : "Wed, 26 Jan 2022 19:00:00 +0100",
+         "title" : "The Weekly Show: Battle of the Sexes"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Nils Grandelius-Caruana and Fabiano Caruana. The mysterious masked Josh is impressed with the fight in this game. Thumbnail: Lennart Ootes 2022.01.25<br /> Nils Grandelius vs Fabiano Caruana, 84th Tata Steel Masters (2022): C02 French, advance, Euwe variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2229054\">https://www.chessgames.com/perl/chessgame?gid=2229054</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-la",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-tata-steel-grandelius-vs-caruana-gm-josh-friedel",
+         "pubDate" : "Wed, 26 Jan 2022 17:14:39 +0000",
+         "title" : "2022 Tata Steel: Grandelius vs. Caruana - GM Josh Friedel"
+      },
+      {
          "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. The women (team Pia) won both of the first two rounds 6.5-3.5. Time for the men (team Sabino) to bounce back though they play with Black in round 3. The rounds start daily at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +42,20 @@ news_feed (
          "title" : "Battle of the Sexes: Round 3 - Live"
       },
       {
-         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "description" : "Round 10 of the Tata Steel Masters tournament saw the two main contenders for first place, Magnus Carlsen and Anish Giri, drawing their games, thus keeping the status quo atop the standings table. There was no lack of excitement on the remaining boards, though, as Richard Rapport, Andrey Esipenko, Nils Grandelius and Praggnanandhaa all managed to score full points. | Replay all the games with computer analysis. Full report to follow shortly!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
          "pubDate" : "Wed, 26 Jan 2022 13:55:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
+         "title" : "Tata Steel Chess - Four decisive games"
       },
       {
-         "description" : "Our coverage of the 10th round of the 2022 Tata Steel Chess Tournament is underway. Tournament leader GM Magnus Carlsen plays 2022 Candidate GM Sergey Karjakin with the black pieces and second-place GM Anish Giri is facing another Candidate, GM Ja...",
+         "description" : "GM Magnus Carlsen maintained his half-point lead at the 2022 Tata Steel Chess Tournament with three rounds to go. The world champion drew in just 20 minutes with GM Sergey Karjakin and then saw GM Anish Giri splitting the point with GM Jan-Krzyszt...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-10",
          "pubDate" : "Wed, 26 Jan 2022 04:38:00 -0800",
-         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 10"
+         "title" : "Tata Steel Chess 2022 R10: Black Is OK"
       },
       {
          "description" : " At the Dubbo Open each year, the organisers run a novelty blitz event on the Saturday Night. It is a time handicap event, where the difference in rating determines the time difference between the 2 players. However, based in part on an idea by IM Jovan Petronic, there may be another format. Petronic's initial suggestion concerned Swiss Pairings. He wondered if anyone had tried a format where the lowest ranked player in a scoregroup could choose their next opponent (from that group), instead of having the pairing assigned by the computer. Of course there would be issues with floaters and colour allocations, but in looking to deal with those, I came up with a modified format. NB This would on",
@@ -426,7 +458,7 @@ news_feed (
          "title" : "Tata Steel R7: Dubov forfeits, Carlsen leads"
       },
       {
-         "description" : " Share! Tunde Onakoya's mission to invigorate the Nigerian slum through chess has taken a grand leap. Three years ago, Tunde was in the news after writing of an adorable little girl named Basirat Ariyike. She became a symbol of what Onakoya was trying to achieve in his &#8220;Chess in Slums&#8221; initiative. In the chess world, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/22/tunde-onakoyas-mission-takes-chess-to-nigerian-slums/\">Tunde Onakoya's mission takes chess to Nigerian slums</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!4 Tunde Onakoya's mission to invigorate the Nigerian slum through chess has taken a grand leap. Three years ago, Tunde was in the news after writing of an adorable little girl named Basirat Ariyike. She became a symbol of what Onakoya was trying to achieve in his &#8220;Chess in Slums&#8221; initiative. In the chess world, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/22/tunde-onakoyas-mission-takes-chess-to-nigerian-slums/\">Tunde Onakoya's mission takes chess to Nigerian slums</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/01/22/tunde-onakoyas-mission-takes-chess-to-nigerian-slums/",
@@ -936,14 +968,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/shakh-ing-move-g4-queens-gambit-road-2000-nm-caleb-denby",
          "pubDate" : "Wed, 19 Jan 2022 02:07:17 +0000",
          "title" : "The \"Shakh-ing\" Move g4 in the Queen's Gambit | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on her favorite ways to play against the Sicilian Defense with White. 2022.01.19 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-guns-roses-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NBk6zJMJd-w.jpg?itok=GwfGEUqV\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-sicilian-guns-roses-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Wed, 19 Jan 2022 02:07:17 +0000",
-         "title" : "Play the Sicilian: Guns & Roses | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "",
@@ -1994,14 +2018,6 @@ news_feed (
          "title" : "Street Chess on the news (briefly)"
       },
       {
-         "description" : "\"Historias de Ajedrez\" is a Cuban movie from 2019 by Emmanuel Martin Hernandez. In the movie, Hernandez, a passionate chess player himself, offers an intimate look at the stories of chess players in Santiago de Cuba.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/historias-des-ajedrez-a-cuban-chess-movie",
-         "pubDate" : "Sat, 08 Jan 2022 12:45:00 +0100",
-         "title" : "Historias de Ajedrez: A Cuban Chess Movie"
-      },
-      {
          "description" : "\"Can the Ethiopian change his skin or the leopard his spots?\" (The Bible, Old Testament, Book of Jeremiah) King Edward V (aged twelve but not yet officially crowned) and his brother Richard, aged nine, were locked in the Tower of London, declared illegitimate and allegedly killed by their wicked uncle Richard III, so that he []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -2066,14 +2082,6 @@ news_feed (
          "title" : "Dina Belenkaya: My first stream was a total mess"
       },
       {
-         "description" : "College chess is starting off the new year with an exciting annual classic: the Pan-American Intercollegiate Team Championship. This year, the tournament is returning to over-the-board just outside of Washington DC. Top college chess teams will be...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/panamerican-intercollegiate-team-championship-2022",
-         "pubDate" : "Thu, 06 Jan 2022 07:36:00 -0800",
-         "title" : "The 2022 Pan-American Intercollegiate Team Championship Is Almost Here"
-      },
-      {
          "description" : "&#8212; from FIDE Following a success of the FIDE Open Tournaments support in 2021, FIDE will be expanding and extending Aid Package Program through 2022....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2096,14 +2104,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/01/06/chess-buccaneer-the-life-and-games-of-manuel-bosboom/",
          "pubDate" : "Thu, 06 Jan 2022 00:10:13 +0000",
          "title" : "Chess Buccaneer: The Life and Games of Manuel Bosboom"
-      },
-      {
-         "description" : " <p class=\"lead\">On the 2022 New Year's Eve, a chess train was launched in the Moscow metro, which is literally a mobile gallery of chess history. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/GL2-sam(9).jpg\" width=\"1600\" height=\"800\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: E.Samarina / Mos.ru</div> </div> The train runs along the Sokolnicheskaya line (red line), the oldest in the Moscow metro, and it has five themed cars with the history of the game, the chess evolution in the Soviet Union and in Russia, the world's elite players, some of the most important games, representations of chess in art, theater, literature, cinema and of course the black and wh",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/a-chess-train-in-the-moscow-metro/",
-         "pubDate" : "Wed, 05 Jan 2022 19:04:39 +0000",
-         "title" : "A chess train in the Moscow metro"
       }
    ]
 }
