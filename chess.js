@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With Omicron on the rise and social gatherings discouraged, leasing 2,000 square feet for in-person chess seems risky. Yet the gamble paid off for the Texas Chess Center, which attracted 67 players to its grand opening on January 22, 2022. WIM Alexey Root reports.| Photo: Christopher Tetzlaff",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/texas-chess-center-grand-opening",
+         "pubDate" : "Wed, 26 Jan 2022 12:14:36 +0100",
+         "title" : "Texas Chess Center Grand Opening"
+      },
+      {
+         "description" : "Magnus Carlsen and Anish Giri look set for another 2-horse race for the Tata Steel Masters title after both scored impressive wins in Round 9. Magnus effortlessly used Shakhriyar Mamedyarov's aggression against him, while Anish smoothly overcame Sam Shankland in an endgame battle. Hostilities continued afterwards as Magnus teased Anish over the free point against Daniil Dubov. Fabiano Caruana and Sergey Karjakin also won, while Arjun Erigaisi is almost home and dry in the Challengers after racking up a 7th win in 9 games.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-9-carlsen-teases-giri-as-both-win",
+         "pubDate" : "Wed, 26 Jan 2022 10:13:57 +0000",
+         "title" : "Tata Steel 9: Carlsen teases Giri as both win"
+      },
+      {
+         "description" : "Magnus Carlsen is the epiphany of winning in an equal position. But what to take care of? How to gain an advantage? What should we consider, once a very equal position has been reached? In one full game, starting from the \"Scotch Game\" opening, to the very end - with three pawns vs. one rook - Svitlana takes us on a journey, on how to advance our chess skills.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-28",
+         "pubDate" : "Wed, 26 Jan 2022 11:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Winning in an equal position"
+      },
+      {
+         "description" : " <p class=\"lead\">Round 9 of the <a href=\"https://tatasteelchess.com\">Tata Steel Chess Tournaments</a> ended with Carlsen beating the co-leader of R8, Mamedyarov, and taking the sole lead. Giri also won his fourth game in a row and is just half a point behind the World Champion and 7-time Tata Steel Champion. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.5957446808511\"> <img src=\"https://worldchess.com/news/pictures/LOW02636.jpg\" width=\"1500\" height=\"940\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW02501.jpg\" width=\"1500\" height=\"992\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW02467.jpg\" width=\"1500\" height=\"1024\" alt=\"\" /",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/tata-steel-2022-round-9-carlsen-takes-the-sole-lead-giri-right-b/",
+         "pubDate" : "Wed, 26 Jan 2022 09:11:12 +0000",
+         "title" : "Tata Steel 2022 Round 9: Carlsen takes the sole lead, Giri right behind after his fourth consecutive win"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Nils Grandelius-Caruana and Fabiano Caruana. Thumbnail: Lennart Ootes 2022.01.25<br /> Nils Grandelius vs Fabiano Caruana, 84th Tata Steel Masters (2022): C02 French, advance, Euwe variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2229054\">https://www.chessgames.com/perl/chessgame?gid=2229054</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-tata-steel-grandelius-c",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -40,6 +72,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-10",
          "pubDate" : "Tue, 25 Jan 2022 17:00:00 -0800",
          "title" : "How To Watch Tata Steel Chess 2022 Round 10"
+      },
+      {
+         "description" : " From the publisher: \"I have aimed to find a good balance of verbal explanations without ignoring the hardcore variations you have to know. In case you find some of the analyses a bit too long, don't be discouraged! They have been included mainly to illustrate the thematic ideas and show in which direction the game <a href=\"http://britishchessnews.com/2022/01/26/beat-the-anti-sicilians/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beat the Anti-Sicilians</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/01/26/beat-the-anti-sicilians/\">Beat the Anti-Sicilians</a> appeared first on <a rel=\"nofollow\" href=\"",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/01/26/beat-the-anti-sicilians/",
+         "pubDate" : "Wed, 26 Jan 2022 00:10:12 +0000",
+         "title" : "Beat the Anti-Sicilians"
       },
       {
          "description" : "",
@@ -1994,22 +2034,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Rapid Attacks"
       },
       {
-         "description" : "In 2017, AlphaZero shocked the chess world by crushing Stockfish in a 100-game match. Since then, chess engines have undergone a substantial revision based on deep learning methods to develop a neural network. Joshua Doknjas examines the impact of the AI revolution in chess. | Graphic: Europe Echecs",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-the-ai-revolution-impacted-chess-1-2",
-         "pubDate" : "Fri, 07 Jan 2022 17:00:00 +0100",
-         "title" : "How the AI Revolution Impacted Chess (1/2)"
-      },
-      {
-         "description" : "Trents Tactics is back in 2022! Lawrence and Arne decide to talk about the chess year 2021, the tournaments, and the best male and female player. They then move directly to highly creative tactical patterns, and finally play some ChessBase training, trying come closer to the rating of 2400.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-9",
-         "pubDate" : "Fri, 07 Jan 2022 16:10:55 +0100",
-         "title" : "Trent's Tactics - Recap of 2021 and finding creative patterns"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/764fc794-06c2-4c5f-afcb-2695baf17bee/Martin3.jpg\" data-image-dimensions=\"437x208\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61d84503f4ec2f2d863bbe5b\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/764fc794-06c2-4c5f-afcb-2695baf17bee/Martin3.jpg?format=1000w\" /> </figure> <p class=\"\">Perpetual Chess is back with an edition of <a href=\"https://www.perpetualchesspod.com/recaptured\"><em>Chess Books Recaptured</em></a><em>, </em>a recurring book review podcast.",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2096,14 +2120,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/too-far-or-too-close.html",
          "pubDate" : "Wed, 05 Jan 2022 12:48:00 +0000",
          "title" : "Too far or too close"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1436",
-         "pubDate" : "Wed, 05 Jan 2022 10:33:34 +0000",
-         "title" : "FIDE expands and extends Aid Package Program to 2022"
       }
    ]
 }
