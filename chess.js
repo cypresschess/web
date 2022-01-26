@@ -5,6 +5,30 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1544",
+         "pubDate" : "Tue, 25 Jan 2022 21:46:37 +0000",
+         "title" : "Tata Steel Masters R09: Carlsen wins, regains the lead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Nils Grandelius-Caruana and Fabiano Caruana. Thumbnail: Lennart Ootes 2022.01.25<br /> Nils Grandelius vs Fabiano Caruana, 84th Tata Steel Masters (2022): ???<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2229054\">https://www.chessgames.com/perl/chessgame?gid=2229054</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-tata-steel-grandelius-caruana-insane-endgame-gm-josh-fr",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-tata-steel-grandelius-caruana-insane-endgame-gm-josh-friedel-lichessorg",
+         "pubDate" : "Tue, 25 Jan 2022 20:14:09 +0000",
+         "title" : "2022 Tata Steel: Grandelius-Caruana | Insane in the Endgame - GM Josh Friedel | lichess.org"
+      },
+      {
+         "description" : " Magnus Carlsen beat joint leader Shakhriyar Mamedyarov to take the sole lead in the Tata Steel Masters. The game was a sharp open Catalan. Carlsen wasn't surprised that Mamedyarov gave up the exchange and he had decent compensation for it but after 18...h6? (18...Be6 and the game continues) things fell apart for black at rapid speed. Anish Giri stayed in contention by beating Sam Shankland in a drawish theoretical endgame. After 24...b6? (24...e4 or Nf7 were necessary) 25.g4! Shankland's position just collapsed. Vidit Gujrathi stayed in contention after holding a tricky endgame against Richard Rapport. Sergey Karjakin won a wild game where he really took some risks against Praggnanandhaa to",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-beats-mamedyarov-to-regain-the-sole-lead-of-the-tata-steel-masters-after-9-rounds",
+         "pubDate" : "Tue, 25 Jan 2022 23:07:00 +0400",
+         "title" : "Carlsen beats Mamedyarov to regain the sole lead of the Tata Steel Masters after 9 Rounds - 9"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1543",
          "pubDate" : "Tue, 25 Jan 2022 18:08:53 +0000",
          "title" : "Belarusian Championship: Maksim Tsaruk and Kseniya Zeliantsova clinch titles"
@@ -562,7 +586,7 @@ news_feed (
          "title" : "Tata Steel Chess: Vidit draws with Anish, stays in joint lead"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev teaches a chess class on a topic of his choice. The mysterious masked Atanas gives you insight into his own playbook! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kolevs-opening-preparation-grandmasters-choice-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/W-A2blo_qUI.jpg?itok=LGCSSqug\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev talks about deciding what opening lines to play. The mysterious masked Atanas gives you insight into his own playbook! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kolevs-opening-preparation-grandmasters-choice-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/W-A2blo_qUI.jpg?itok=LGCSSqug\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/kolevs-opening-preparation-grandmasters-choice-gm-atanas-kolev",
@@ -1304,14 +1328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/saint-louis-university-wins-the-pan-american-intercollegiate-team-championship",
          "pubDate" : "Sat, 15 Jan 2022 09:00:00 +0100",
          "title" : "St Louis University wins the Pan-American Intercollegiate Team Championship"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Harrison Keyser desperately attempts to eat his opponent&#039;s rocks in this tactical Danish Gambit. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> Played on lichess.org<br /> #chess #gambits #arcg3 2022.01.03<br /> Fritz_Adler vs. Harrison Keyser, 2021: C21 Danish gambit, Schlechter defence<br /> <a href=\"https://lichess.org/iDvGyIYx\">https://lichess.org/iDvGyIYx</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><di",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mmmm-i-love-tasty-rocks-breakfast",
-         "pubDate" : "Sat, 15 Jan 2022 02:04:03 +0000",
-         "title" : "Mmmm, I Love Tasty Rocks for Breakfast"
       },
       {
          "description" : "",
@@ -2080,14 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1436",
          "pubDate" : "Wed, 05 Jan 2022 10:33:34 +0000",
          "title" : "FIDE expands and extends Aid Package Program to 2022"
-      },
-      {
-         "description" : "After shocking the chess world by sensationally winning the World Rapid Chess Championship, 17-year-old Nodirbek Abdusattorov was yesterday celebrated at home in Uzbekistan. The prodigy received a huge cash prize, the keys to a two-room apartment and a Presidential medal in a packed ceremony at the headquarters of the National Olympic Commitee in the country's capital Tashkent.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/17-year-old-world-champion-gifted-new-home-in-presidential-ceremony",
-         "pubDate" : "Tue, 04 Jan 2022 22:23:33 +0000",
-         "title" : "17-year-old World Champ gifted flat by Presidential decree"
       }
    ]
 }
