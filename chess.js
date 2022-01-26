@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " At the Dubbo Open each year, the organisers run a novelty blitz event on the Saturday Night. It is a time handicap event, where the difference in rating determines the time difference between the 2 players. However, based in part on an idea by IM Jovan Petronic, there may be another format. Petronic's initial suggestion concerned Swiss Pairings. He wondered if anyone had tried a format where the lowest ranked player in a scoregroup could choose their next opponent (from that group), instead of having the pairing assigned by the computer. Of course there would be issues with floaters and colour allocations, but in looking to deal with those, I came up with a modified format. NB This would on",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/novelty-blitz-format.html",
+         "pubDate" : "Wed, 26 Jan 2022 12:15:00 +0000",
+         "title" : "Novelty blitz format?"
+      },
+      {
+         "description" : "Round two on Tuesday 25 January of the #GibChess \"Battle of the Sexes\" in Gibraltar, a ten-round Scheveningen match between ten male and ten female players, proved to be an exact repeat of the medicine dished out by the women to the men in round one - a 6&frac12;-3&frac12; drubbing for the male sex. John Saunders reports, with a description of the games and interesting video interviews with the players. | Photos: John Saunders",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-2",
+         "pubDate" : "Wed, 26 Jan 2022 12:55:18 +0100",
+         "title" : "Battle of the Sexes: Round 2"
+      },
+      {
+         "description" : "In a crucial confrontation, Magnus Carslsen beat Shakhriyar Mamedyarov to reclaim the sole lead at the Tata Steel Masters tournament. The one player keeping up the pace with the world champion is Anish Giri, who got the better of Sam Shankland to remain a half point behind the Norwegian. Sergey Karjakin and Fabiano Caruana also won in round 9. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r9",
+         "pubDate" : "Wed, 26 Jan 2022 12:45:00 +0100",
+         "title" : "Tata Steel R9: Carlsen beats Shakh, Giri wins again"
+      },
+      {
          "description" : "With Omicron on the rise and social gatherings discouraged, leasing 2,000 square feet for in-person chess seems risky. Yet the gamble paid off for the Texas Chess Center, which attracted 67 players to its grand opening on January 22, 2022. WIM Alexey Root reports.| Photo: Christopher Tetzlaff",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -31,7 +55,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/tata-steel-2022-round-9-carlsen-takes-the-sole-lead-giri-right-b/",
          "pubDate" : "Wed, 26 Jan 2022 09:11:12 +0000",
-         "title" : "Tata Steel 2022 Round 9: Carlsen takes the sole lead, Giri right behind after his fourth consecutive win"
+         "title" : "Tata Steel 2022 Round 9: Carlsen Takes the Sole Lead, Giri Close Second"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Nils Grandelius-Caruana and Fabiano Caruana. Thumbnail: Lennart Ootes 2022.01.25<br /> Nils Grandelius vs Fabiano Caruana, 84th Tata Steel Masters (2022): C02 French, advance, Euwe variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2229054\">https://www.chessgames.com/perl/chessgame?gid=2229054</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-tata-steel-grandelius-c",
@@ -154,14 +178,6 @@ news_feed (
          "title" : "Battle of the Sexes: Round 2 - Live"
       },
       {
-         "description" : "In a crucial confrontation, Magnus Carslsen beat Shakhriyar Mamedyarov to reclaim the sole lead at the Tata Steel Masters tournament. The one player keeping up the pace with the world champion is Anish Giri, who got the better of Sam Shankland to remain a half point behind the Norwegian. Sergey Karjakin and Fabiano Caruana also won in round 9. | Replay all the games with computer analysis. Full report to follow shortly!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
-         "pubDate" : "Tue, 25 Jan 2022 13:45:00 +0100",
-         "title" : "Tata Steel Chess - Carlsen regains the sole lead"
-      },
-      {
          "description" : "All India Chess Federation extend our heartiest congratulations to Ms. Arushi Kotwal for the Rashtriya Bal Puraskar!! &#160; We are proud of you!!",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -224,14 +240,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-for-schools-1/",
          "pubDate" : "Mon, 24 Jan 2022 15:31:18 +0000",
          "title" : "Chess for Schools (1)"
-      },
-      {
-         "description" : "8.00pm on Tuesday, January 25th 2022 https://camberleychess.co.uk/event/gm-daniel-king-the-worst-move-i-have-ever-played/ (picture courtesy of David Llada via Twitter)",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/danny-king-free-to-all-zoom-meeting/",
-         "pubDate" : "Mon, 24 Jan 2022 15:23:13 +0000",
-         "title" : "Danny King - free-to-all Zoom meeting"
       },
       {
          "description" : "We are happy to invite you to European Individual Chess Championship 2022 in Brežice, Slovenia. We are accepting registrations through National Federations only. The registration...",
@@ -2024,14 +2032,6 @@ news_feed (
          "link" : "https://chessimprover.com/100-years-ago-1/",
          "pubDate" : "Fri, 07 Jan 2022 17:41:41 +0000",
          "title" : "100 Years Ago (1)"
-      },
-      {
-         "description" : "In his first Power Play Show of 2022 Daniel King looks at games by the winners of the Women's World Rapid - Aleksandra Kosteniuk; and the Women's World Blitz - Bibisara Assaubayeva. Daniel also shows a nice study by Leonid Kubbel (not too difficult!). | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-rapid-attacks",
-         "pubDate" : "Fri, 07 Jan 2022 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Rapid Attacks"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/764fc794-06c2-4c5f-afcb-2695baf17bee/Martin3.jpg\" data-image-dimensions=\"437x208\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61d84503f4ec2f2d863bbe5b\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/764fc794-06c2-4c5f-afcb-2695baf17bee/Martin3.jpg?format=1000w\" /> </figure> <p class=\"\">Perpetual Chess is back with an edition of <a href=\"https://www.perpetualchesspod.com/recaptured\"><em>Chess Books Recaptured</em></a><em>, </em>a recurring book review podcast.",
