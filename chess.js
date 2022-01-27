@@ -2,20 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last week a chess festival took place in Mari&aacute;nsk&eacute; L&aacute;zne (known as Marienbad in German), Czech Republic, as part of the Czech Chess Tour, with two GM tournaments, three IM tournaments and a number of open events. Among the stars of the festival were the winter landscape and the astounding architecture. | Photos: Arne Bracker / Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-festival-in-marienbad-2022",
+         "pubDate" : "Thu, 27 Jan 2022 17:00:00 +0100",
+         "title" : "Chess festival in Marienbad"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1547",
+         "pubDate" : "Thu, 27 Jan 2022 15:06:22 +0000",
+         "title" : "FIDE holds round table on \"Chess in Prisons\" project"
+      },
+      {
+         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. The women (team Pia) won the first two matches, the men (team Sabino)the third. After three matches team Pia leads 16-14. What will happen in round 4? The rounds start daily at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
+         "pubDate" : "Thu, 27 Jan 2022 14:45:14 +0100",
+         "title" : "Battle of the Sexes: Round 4 - Live"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <a href=\"https://www.shakkiliitto.fi/finnish-chess-federation/\"><strong>Finnish Chess Federation</strong></a> was hit hard by the pandemic. Online chess, hybrid chess and new funding sources are all part of the plan of the young new leader <strong>Eetu Tiiva</strong>. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/tiiva-profile.1920.jpeg\" title=\"Eetu Tiiva is the new President of the Finnish Chess Federation. photo: private\" data-title=\"Eetu Tiiva is the new President of the Finnish Chess Federation. (photo: private)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/the-numbers-are-rather-grim-but/",
+         "pubDate" : "Thu, 27 Jan 2022 14:11:06 +0100",
+         "title" : "\"The numbers are rather grim, but the worst is over\""
+      },
+      {
          "description" : "Please find attached herewith list of participants for Fifty Batch (1E) of National Organizer Seminar scheduled to start from 04-06 Feb 2022, Guidelines: 1.All the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/chess-for-everyone-national-organizer-batch-1-e-04-06feb-2022/",
          "pubDate" : "Thu, 27 Jan 2022 12:10:16 +0000",
          "title" : "Chess for Everyone ,National Organizer - Batch 1 E (04-06Feb ,2022)"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Finnish Chess Federation was hit hard by the pandemic. Online chess, hybrid chess and new funding sources are all part of the plan of the young new leader Eetu Tiiva. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/tiiva-profile.1920.jpeg\" title=\"Eetu Tiiva is the new President of the Finnish Chess Federation. photo: private\" data-title=\"Eetu Tiiva is the new President of the Finnish Chess Federation. (photo: private)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/tiiva-profile.480.jpeg\" alt=\"Eetu Tiiva is the new President of the Finnish Chess Federation.\" s",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/the-numbers-are-rather-grim-but/",
-         "pubDate" : "Thu, 27 Jan 2022 11:34:47 +0100",
-         "title" : "\"The numbers are rather grim, but the worst is over\""
       },
       {
          "description" : " <p class=\"lead\">While the World Champion is still on the top after an indifferent game against Karjakin in Round 10 of the <a href=\"https://tatasteelchess.com\">Tata Steel Chess Tournament</a>, Rameshbabu and Grandelius gave us the \"best show in town\", and won against Vidit and Dubov respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.432664756447\"> <img src=\"https://worldchess.com/news/pictures/JH_5300LR.jpg\" width=\"1500\" height=\"1047\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_5297LR.jpg\" width=\"1500\" height=\"979\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_5311LR.jpg\" width=\"1500\" height=\"1051\" alt=\"\" /> <img s",
@@ -120,14 +144,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-tata-steel-grandelius-vs-caruana-gm-josh-friedel",
          "pubDate" : "Wed, 26 Jan 2022 17:14:39 +0000",
          "title" : "2022 Tata Steel: Grandelius vs. Caruana - GM Josh Friedel"
-      },
-      {
-         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. The women (team Pia) won both of the first two rounds 6.5-3.5. Time for the men (team Sabino) to bounce back though they play with Black in round 3. The rounds start daily at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
-         "pubDate" : "Wed, 26 Jan 2022 14:45:14 +0100",
-         "title" : "Battle of the Sexes: Round 3 - Live"
       },
       {
          "description" : "GM Magnus Carlsen maintained his half-point lead at the 2022 Tata Steel Chess Tournament with three rounds to go. The world champion drew in just 20 minutes with GM Sergey Karjakin and then saw GM Anish Giri splitting the point with GM Jan-Krzyszt...",
@@ -1946,14 +1962,6 @@ news_feed (
          "title" : "Indian Grandmaster Lalith Babu wins Vergani Cup"
       },
       {
-         "description" : "With the Tata Steel Masters kicking off next Saturday, chess aficionados are set to enjoy another year of elite tournaments. Besides the traditional event in Wijk aan Zee, a tournament with a new format will take place in Gibraltar, while the first two legs of the FIDE Grand Prix will be played in close succession in February.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-tournaments-in-january-february-2022",
-         "pubDate" : "Mon, 10 Jan 2022 12:00:00 +0100",
-         "title" : "What's next: top tournaments in January and February"
-      },
-      {
          "description" : "The Senior National Chess Championship 2022 scheduled at Kanpur from 09-21 Feb 2022 has been postponed due to forthcoming Uttar Pradesh assembly election as well",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1984,14 +1992,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-puzzle-battle-world-championship-ray-robson",
          "pubDate" : "Sun, 09 Jan 2022 19:33:00 -0800",
          "title" : "Ray Robson Again Dominates Puzzle Battle World Championship"
-      },
-      {
-         "description" : "In a year that saw Magnus Carlsen defending the Classical World Championship title for a fourth consecutive time, a young player became the most dangerous potential challenger for the Norwegian. 18-year-old Alireza Firouzja climbed to the second spot in the world ranking by showcasing incredible results throughout 2021. We look at how the Iranian-born grandmaster gained 55 rating points in 12 months. | Photo: Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alireza-firouzja-brilliant-year-2021",
-         "pubDate" : "Sun, 09 Jan 2022 23:50:00 +0100",
-         "title" : "A brilliant year: Alireza Firouzja's rise to the very top"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88795654.cms\" />Chennai boy Bharath Subramaniyam became India's 73rd Grandmaster after bagging his third and final GM norm at the Vergani Cup in Cattolica, Italy on Sunday evening. The event saw the 14-year-old score 6.5 points out of 9 rounds to etch his name among the game's elite. His current ELO rating stands at 2508.",
