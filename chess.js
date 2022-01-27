@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The most anticipated game of Round 10, Karjakin-Carlsen, ended in a 20-minute Berlin draw, leaving Magnus Carlsen as sole leader of the Tata Steel Masters going into the final weekend. There were bruising battles elsewhere, however, with countless twists and turns as we saw wins for Richard Rapport (over Fabiano Caruana), Praggnanandhaa (Vidit), Andrey Esipenko (Jorden van Foreest) and Nils Grandelius (Daniil Dubov). Arjun Erigaisi edged closer to next year's Masters with a draw against Polina Shuvalova as Magnus commented, \"he really plays chess in a way that I enjoy\".",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-10-four-street-fights-and-a-quick-draw",
+         "pubDate" : "Thu, 27 Jan 2022 02:20:00 +0000",
+         "title" : "Tata Steel 10: Four street-fights and a quick draw"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches her final entry in her series on playing against the Sicilian Defense with White. 2022.01.26<br /> B66 Sicilian, Richter-Rauzer, Rauzer attack, 7...a6<br /> B61 Sicilian, Richter-Rauzer, Larsen variation, 7.Qd2<br /> B60 Sicilian, Richter-Rauzer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-razors-rauzers-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-sicilian-razors-rauzers-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 27 Jan 2022 02:15:28 +0000",
+         "title" : "Play the Sicilian: Razors & Rauzers | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "Round 10 of the Tata Steel Masters tournament saw the two main contenders for first place, Magnus Carlsen and Anish Giri, drawing their games, thus keeping the status quo atop the standings table. There was no lack of excitement on the remaining boards, though, as Richard Rapport, Andrey Esipenko, Nils Grandelius and Praggnanandhaa (pictured) all managed to score full points. | Photo: Jurriaan Hoefsmit",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -984,14 +1000,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/opening-endgame-insane-endgame-gm-atanas-kolev",
          "pubDate" : "Wed, 19 Jan 2022 02:07:17 +0000",
          "title" : "From the Opening to the Endgame | Insane in the Endgame - GM Atanas Kolev"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at the amazing opening played at Tata Steel 2022 between Shakhriyar Mamedyarov and Andrey Esipenko. The mysterious masked Caleb admires Mamedyarov's unexpected 3.g4 move! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shakh-ing-move-g4-queens-gambit-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6SuFi9dijPI.jpg?itok=Jsh",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shakh-ing-move-g4-queens-gambit-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 19 Jan 2022 02:07:17 +0000",
-         "title" : "The \"Shakh-ing\" Move g4 in the Queen's Gambit | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : "",
@@ -2016,14 +2024,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nfl-superstar-leveon-bell-cant-believe-how-perfect-chess-is/",
          "pubDate" : "Sun, 09 Jan 2022 11:40:29 +0000",
          "title" : "NFL Superstar Le'Veon Bell Discovers Chess, Tweets a Lot"
-      },
-      {
-         "description" : "FIDE Grand Prix organiser World Chess is asking the players to get in touch for a package if they want their personal sponsor logos to be shown during the events. The new demand has led to reactions from top players Anish Giri and Vidit Gujrathi, but CEO Ilya Merenzon denies they are actually asking for a cut.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-grand-prix-organiser-asks-for-cut-of-players-sponsorship",
-         "pubDate" : "Sat, 08 Jan 2022 19:33:30 +0000",
-         "title" : "Giri, Vidit question World Chess FIDE Grand Prix sponsorship demands"
       },
       {
          "description" : " The lead story on the ABC News (Canberra) this evening was about new health restrictions in Canberra. Street Chess was part of the background footage, which you can see via this link <a href=\"https://iview.abc.net.au/video/NU2204C007S00\">https://iview.abc.net.au/video/NU2204C007S00</a> The story is the lead item so you only have to watch the first minute or two. ",
