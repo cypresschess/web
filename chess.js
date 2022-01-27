@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In part two of chess24's interview with Vladimir Kramnik, the 14th World Champion speaks about what went wrong for Ian Nepomniachtchi in Dubai, his own opinion about the Dubov controversy and his plans for a new Chessable course.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/kramnik-on-what-went-wrong-for-nepomniachtchi",
+         "pubDate" : "Thu, 27 Jan 2022 19:50:43 +0000",
+         "title" : "Kramnik on what went wrong for Nepomniachtchi"
+      },
+      {
          "description" : "Last week a chess festival took place in Mari&aacute;nsk&eacute; L&aacute;zne (known as Marienbad in German), Czech Republic, as part of the Czech Chess Tour, with two GM tournaments, three IM tournaments and a number of open events. Among the stars of the festival were the winter landscape and the astounding architecture. | Photos: Arne Bracker / Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1746,14 +1754,6 @@ news_feed (
          "title" : "Happy Birthday Harika"
       },
       {
-         "description" : "Magnus Carlsen will be hunting a record 8th title in the Wijk aan Zee top group when the Tata Steel Masters starts at 14:00 CET on Saturday 15th January. 2020 winner Fabiano Caruana and local hero Anish Giri are likely to provide the toughest competition, as 16-year-old Praggnanandhaa makes his supertournament debut. Another Indian, 18-year-old Arjun Erigaisi, is perhaps the player to watch in the Challengers, while the dream team of Peter Svidler and Jan Gustafsson will be back here on chess24!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-hunts-8th-title-as-tata-steel-chess-starts-saturday",
-         "pubDate" : "Wed, 12 Jan 2022 15:24:53 +0000",
-         "title" : "Carlsen hunts 8th title as Tata Steel Chess starts Saturday"
-      },
-      {
          "description" : "The Saint Louis University (SLU) team earned its spot in the President&#39;s Cup by winning clear first at the 2022 Pan-American Intercollegiate Team Championship with a perfect score. The winners will be joined at the Final Four alongside UT Dallas a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2104,14 +2104,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/jan/07/chess-howell-wins-titled-tuesday-as-mobile-phone-saves-short-from-teenager",
          "pubDate" : "Fri, 07 Jan 2022 08:00:33 +0000",
          "title" : "Chess: Howell wins Titled Tuesday as mobile phone saves Short from teenager"
-      },
-      {
-         "description" : " <p class=\"lead\">Dina Belenkaya, a St. Petersburg-based streamer, has joined a roster of chess influencers by doing popular streams while maintaining a professional chess career - a feat that only a handful of chess players could manage. World Chess spoke with Belenkaya about her chess career and her experience of being the chess influencer, and her suggestions on how to become one. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/IMG_3404.JPG\" width=\"1707\" height=\"2560\" alt=\"\" /> </div> <h2>Please tell us about your mother's role in your chess development. Did she teach you how to play? Is it true that your mom was Anish Giri's coach? As a child, did you think ab",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/dina-belenkaya-my-first-stream-was-a-total-mess/",
-         "pubDate" : "Thu, 06 Jan 2022 16:46:52 +0000",
-         "title" : "Dina Belenkaya: My first stream was a total mess"
       }
    ]
 }
