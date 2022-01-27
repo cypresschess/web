@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #500 Merijn van Delft focuses on the tournament in Wijk aan Zee, and especially on Magnus Carlsen's fine win against Shakhryar Mamedyarov in the Catalan. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-500",
+         "pubDate" : "Thu, 27 Jan 2022 07:23:22 +0100",
+         "title" : "Game of the Week #500:"
+      },
+      {
          "description" : "The most anticipated game of Round 10, Karjakin-Carlsen, ended in a 20-minute Berlin draw, leaving Magnus Carlsen as sole leader of the Tata Steel Masters going into the final weekend. There were bruising battles elsewhere, however, with countless twists and turns as we saw wins for Richard Rapport (over Fabiano Caruana), Praggnanandhaa (Vidit), Andrey Esipenko (Jorden van Foreest) and Nils Grandelius (Daniil Dubov). Arjun Erigaisi edged closer to next year's Masters with a draw against Polina Shuvalova as Magnus commented, \"he really plays chess in a way that I enjoy\".",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1992,14 +2000,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-preview",
          "pubDate" : "Sun, 09 Jan 2022 15:20:00 +0100",
          "title" : "Tata Steel Chess to kick off in less than a week"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 61st instalment of his ChessBase show \"Understanding before Moving\", Herman talks about \"Simple Chess\" and light-square strategy. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-61-light-square-strategy",
-         "pubDate" : "Sun, 09 Jan 2022 14:00:00 +0100",
-         "title" : "Understanding before Moving 61: Light-square strategy"
       },
       {
          "description" : " While most people think that a drawn game is more often then not a 'non-result', I just think they need to watch a little more cricket! ",
