@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find attached herewith list of participants for Fifty Batch (1E) of National Organizer Seminar scheduled to start from 04-06 Feb 2022, Guidelines: 1.All the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/chess-for-everyone-national-organizer-batch-1-e-04-06feb-2022/",
+         "pubDate" : "Thu, 27 Jan 2022 12:10:16 +0000",
+         "title" : "Chess for Everyone ,National Organizer - Batch 1 E (04-06Feb ,2022)"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Finnish Chess Federation was hit hard by the pandemic. Online chess, hybrid chess and new funding sources are all part of the plan of the young new leader Eetu Tiiva. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/tiiva-profile.1920.jpeg\" title=\"Eetu Tiiva is the new President of the Finnish Chess Federation. photo: private\" data-title=\"Eetu Tiiva is the new President of the Finnish Chess Federation. (photo: private)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/tiiva-profile.480.jpeg\" alt=\"Eetu Tiiva is the new President of the Finnish Chess Federation.\" s",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1984,14 +1992,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/alireza-firouzja-brilliant-year-2021",
          "pubDate" : "Sun, 09 Jan 2022 23:50:00 +0100",
          "title" : "A brilliant year: Alireza Firouzja's rise to the very top"
-      },
-      {
-         "description" : "All India Chess Federation congratulate Mounika Akshaya for securing her final WIM norm at the Roquetas Chess Festival in Spain to become the latest Women",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-mounika-akshaya/",
-         "pubDate" : "Sun, 09 Jan 2022 17:23:20 +0000",
-         "title" : "Congratulations Mounika Akshaya"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88795654.cms\" />Chennai boy Bharath Subramaniyam became India's 73rd Grandmaster after bagging his third and final GM norm at the Vergani Cup in Cattolica, Italy on Sunday evening. The event saw the 14-year-old score 6.5 points out of 9 rounds to etch his name among the game's elite. His current ELO rating stands at 2508.",
