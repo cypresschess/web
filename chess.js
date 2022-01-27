@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Finnish Chess Federation was hit hard by the pandemic. Online chess, hybrid chess and new funding sources are all part of the plan of the young new leader Eetu Tiiva. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/tiiva-profile.1920.jpeg\" title=\"Eetu Tiiva is the new President of the Finnish Chess Federation. photo: private\" data-title=\"Eetu Tiiva is the new President of the Finnish Chess Federation. (photo: private)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/tiiva-profile.480.jpeg\" alt=\"Eetu Tiiva is the new President of the Finnish Chess Federation.\" s",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/the-numbers-are-rather-grim-but/",
+         "pubDate" : "Thu, 27 Jan 2022 11:34:47 +0100",
+         "title" : "\"The numbers are rather grim, but the worst is over\""
+      },
+      {
+         "description" : " <p class=\"lead\">While the World Champion is still on the top after an indifferent game against Karjakin in Round 10 of the <a href=\"https://tatasteelchess.com\">Tata Steel Chess Tournament</a>, Rameshbabu and Grandelius gave us the \"best show in town\", and won against Vidit and Dubov respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.432664756447\"> <img src=\"https://worldchess.com/news/pictures/JH_5300LR.jpg\" width=\"1500\" height=\"1047\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_5297LR.jpg\" width=\"1500\" height=\"979\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_5311LR.jpg\" width=\"1500\" height=\"1051\" alt=\"\" /> <img s",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/tata-steel-2022-round-10-pragg-beats-vidit-grandelius-wins-his-f/",
+         "pubDate" : "Thu, 27 Jan 2022 10:15:59 +0000",
+         "title" : "Tata Steel 2022 Round 10: Pragg beats Vidit, Grandelius wins his first game, Carlsen still on the top"
+      },
+      {
+         "description" : "After two tough rounds in which they were heavily defeated, the men's team fought back with a vengeance in round three of the #GibChess Battle of the Sexes Tournament and won by the impressive margin of 7-3 in this men versus women classical chess event, played at Gibraltar's Garrison Library on Wednesday 26 January. The match score is thus now 16-14 in favour of the women but with the men close behind with a long way to go. | Report and photos by John Saunders",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-3",
+         "pubDate" : "Thu, 27 Jan 2022 11:05:27 +0100",
+         "title" : "Battle of the Sexes, Round 3: The men bounce back"
+      },
+      {
+         "description" : "The European Chess Union launches the campaign &#8220;A Chessboard for All&#8221; with the aim of donating specially made chessboards to blind or visually impaired children and young people throughout Europe. The donation will also be distributed to general schools and special schools for inclusive educational activities. Distribution will begin in February 2022. The programme is inspired by the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/a-chess-board-for-all/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/a-chess-board-for-all/",
+         "pubDate" : "Thu, 27 Jan 2022 08:52:16 +0000",
+         "title" : "A Chess Board for All!"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #500 Merijn van Delft focuses on the tournament in Wijk aan Zee, and especially on Magnus Carlsen's fine win against Shakhryar Mamedyarov in the Catalan. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1546",
          "pubDate" : "Wed, 26 Jan 2022 22:24:43 +0000",
          "title" : "Tata Steel Masters R10: Carlsen stays in front"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Finnish Chess Federation was hit hard by the pandemic. Online chess, hybrid chess and new funding sources are all part of the young new leader Eetu Tiiva's plan. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/tiiva-profile.1920.jpeg\" title=\"Eetu Tiiva is the new President of the Finnish Chess Federation. photo: private\" data-title=\"Eetu Tiiva is the new President of the Finnish Chess Federation. (photo: private)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/tiiva-profile.480.jpeg\" alt=\"Eetu Tiiva is the new President of the Finnish Chess Federation.\" srcset",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/the-numbers-are-rather-grim-but/",
-         "pubDate" : "Wed, 26 Jan 2022 23:04:31 +0100",
-         "title" : "\"The numbers are rather grim, but the worst is over\""
       },
       {
          "description" : "",
@@ -1994,14 +2018,6 @@ news_feed (
          "title" : "Bharath Subramaniyam becomes India's 73rd chess GM"
       },
       {
-         "description" : "The Tata Steel Chess Tournament 2022 will take place in Wijk aan Zee on January 14-30. The Masters and the Challengers sections will be played concurrently. The Open had to be cancelled. World Champion Magnus Carlsen leads the field. Alireza Firouzja is not taking part. | Photos: Tata Steel Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-preview",
-         "pubDate" : "Sun, 09 Jan 2022 15:20:00 +0100",
-         "title" : "Tata Steel Chess to kick off in less than a week"
-      },
-      {
          "description" : " While most people think that a drawn game is more often then not a 'non-result', I just think they need to watch a little more cricket! ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2096,22 +2112,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/dina-belenkaya-my-first-stream-was-a-total-mess/",
          "pubDate" : "Thu, 06 Jan 2022 16:46:52 +0000",
          "title" : "Dina Belenkaya: My first stream was a total mess"
-      },
-      {
-         "description" : "&#8212; from FIDE Following a success of the FIDE Open Tournaments support in 2021, FIDE will be expanding and extending Aid Package Program through 2022....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/aid-package-program-for-chess-opens-2022-reminder/",
-         "pubDate" : "Thu, 06 Jan 2022 09:34:35 +0000",
-         "title" : "Aid Package Program for Chess Opens 2022 - reminder"
-      },
-      {
-         "description" : "&#8212; from Nigel Towers David is the first English GM to win Chess.com's Titled Tuesday (as far as I am aware). 10 out of 11...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/david-howell-wins-chess-coms-titled-tuesday/",
-         "pubDate" : "Thu, 06 Jan 2022 09:27:32 +0000",
-         "title" : "David Howell wins Chess.com's Titled Tuesday!"
       }
    ]
 }
