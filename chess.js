@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 10 of the Tata Steel Masters tournament saw the two main contenders for first place, Magnus Carlsen and Anish Giri, drawing their games, thus keeping the status quo atop the standings table. There was no lack of excitement on the remaining boards, though, as Richard Rapport, Andrey Esipenko, Nils Grandelius and Praggnanandhaa (pictured) all managed to score full points. | Photo: Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r10",
+         "pubDate" : "Thu, 27 Jan 2022 00:10:00 +0100",
+         "title" : "Tata Steel R10: Plenty of action"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1546",
+         "pubDate" : "Wed, 26 Jan 2022 22:24:43 +0000",
+         "title" : "Tata Steel Masters R10: Carlsen stays in front"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Finnish Chess Federation was hit hard by the pandemic. Online chess, hybrid chess and new funding sources are all part of the young new leader Eetu Tiiva's plan. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/tiiva-profile.1920.jpeg\" title=\"Eetu Tiiva is the new President of the Finnish Chess Federation. photo: private\" data-title=\"Eetu Tiiva is the new President of the Finnish Chess Federation. (photo: private)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/tiiva-profile.480.jpeg\" alt=\"Eetu Tiiva is the new President of the Finnish Chess Federation.\" srcset",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/the-numbers-are-rather-grim-but/",
+         "pubDate" : "Wed, 26 Jan 2022 23:04:31 +0100",
+         "title" : "\"The numbers are rather grim, but the worst is over\""
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1545",
          "pubDate" : "Wed, 26 Jan 2022 21:16:22 +0000",
          "title" : "30 Federations will receive free training from FIDE licensed trainers"
+      },
+      {
+         "description" : " Magnus Carlsen was content to take a quick draw with black against Sergey Karjakin in Round 10 of the Tata Steel Masters. Karjakin had taken all sorts of risks yesterday against Praggnanandhaa but today didn't even try against Carlsen. Behind Carlsen no-one got closer, Anish Giri drew and Vidit Gujrathi lost to Praggnanandhaa a sharp game he had chances to win. The final day off is on Thursday. Former leader Shakhriyar Mamedyarov drew with black in a an interesting Open Catalan. Anish Giri stayed in second place after drawing against Jan Krzysztof Dubov in a sharp English where perhaps he had to be careful. Fabiano Caruana has had a very up and down tournament, today it was down again as he",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-draws-quickly-against-karjakin-and-4-decisive-games-in-tata-steel-masters-round-10",
+         "pubDate" : "Wed, 26 Jan 2022 22:20:00 +0400",
+         "title" : "Carlsen draws quickly against Karjakin and 4 decisive games in Tata Steel Masters Round 10 - 10"
       },
       {
          "description" : "GM Hikaru Nakamura won Titled Tuesday on January 25 with a score of 10/11 after winning a better rook endgame in the final round against GM Bogdan Daniel Deac. GM Dmitry Andreikin and GM Jose Alcantara finished in second and third, respectively, w...",
@@ -42,14 +74,6 @@ news_feed (
          "title" : "Battle of the Sexes: Round 3 - Live"
       },
       {
-         "description" : "Round 10 of the Tata Steel Masters tournament saw the two main contenders for first place, Magnus Carlsen and Anish Giri, drawing their games, thus keeping the status quo atop the standings table. There was no lack of excitement on the remaining boards, though, as Richard Rapport, Andrey Esipenko, Nils Grandelius and Praggnanandhaa all managed to score full points. | Replay all the games with computer analysis. Full report to follow shortly!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
-         "pubDate" : "Wed, 26 Jan 2022 13:55:00 +0100",
-         "title" : "Tata Steel Chess - Four decisive games"
-      },
-      {
          "description" : "GM Magnus Carlsen maintained his half-point lead at the 2022 Tata Steel Chess Tournament with three rounds to go. The world champion drew in just 20 minutes with GM Sergey Karjakin and then saw GM Anish Giri splitting the point with GM Jan-Krzyszt...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -66,6 +90,14 @@ news_feed (
          "title" : "Novelty blitz format?"
       },
       {
+         "description" : "With Omicron on the rise and social gatherings discouraged, leasing 2,000 square feet for in-person chess seems risky. Yet the gamble paid off for the Texas Chess Center, which attracted 67 players to its grand opening on January 22, 2022. WIM Alexey Root reports.| Photo: Christopher Tetzlaff",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/texas-chess-center-grand-opening",
+         "pubDate" : "Wed, 26 Jan 2022 13:14:36 +0100",
+         "title" : "Texas Chess Center Grand Opening"
+      },
+      {
          "description" : "Round two on Tuesday 25 January of the #GibChess \"Battle of the Sexes\" in Gibraltar, a ten-round Scheveningen match between ten male and ten female players, proved to be an exact repeat of the medicine dished out by the women to the men in round one - a 6&frac12;-3&frac12; drubbing for the male sex. John Saunders reports, with a description of the games and interesting video interviews with the players. | Photos: John Saunders",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r9",
          "pubDate" : "Wed, 26 Jan 2022 12:45:00 +0100",
          "title" : "Tata Steel R9: Carlsen beats Shakh, Giri wins again"
-      },
-      {
-         "description" : "With Omicron on the rise and social gatherings discouraged, leasing 2,000 square feet for in-person chess seems risky. Yet the gamble paid off for the Texas Chess Center, which attracted 67 players to its grand opening on January 22, 2022. WIM Alexey Root reports.| Photo: Christopher Tetzlaff",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/texas-chess-center-grand-opening",
-         "pubDate" : "Wed, 26 Jan 2022 12:14:36 +0100",
-         "title" : "Texas Chess Center Grand Opening"
       },
       {
          "description" : "Magnus Carlsen and Anish Giri look set for another 2-horse race for the Tata Steel Masters title after both scored impressive wins in Round 9. Magnus effortlessly used Shakhriyar Mamedyarov's aggression against him, while Anish smoothly overcame Sam Shankland in an endgame battle. Hostilities continued afterwards as Magnus teased Anish over the free point against Daniil Dubov. Fabiano Caruana and Sergey Karjakin also won, while Arjun Erigaisi is almost home and dry in the Challengers after racking up a 7th win in 9 games.",
@@ -157,6 +181,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1543",
+         "pubDate" : "Tue, 25 Jan 2022 22:08:53 +0000",
+         "title" : "Belarusian Championship: Maksim Tsaruk and Kseniya Zeliantsova clinch titles"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1544",
          "pubDate" : "Tue, 25 Jan 2022 21:46:37 +0000",
          "title" : "Tata Steel Masters R09: Carlsen wins, regains the lead"
@@ -176,14 +208,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-beats-mamedyarov-to-regain-the-sole-lead-of-the-tata-steel-masters-after-9-rounds",
          "pubDate" : "Tue, 25 Jan 2022 23:07:00 +0400",
          "title" : "Carlsen beats Mamedyarov to regain the sole lead of the Tata Steel Masters after 9 Rounds - 9"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1543",
-         "pubDate" : "Tue, 25 Jan 2022 18:08:53 +0000",
-         "title" : "Belarusian Championship: Maksim Tsaruk and Kseniya Zeliantsova clinch titles"
       },
       {
          "description" : " &#8220;Life begins at the end of your comfort zone&#8221; Neale Donald Walsch Chess variants have a chance to keep kids interested in playing chess despite the tough competition from the computer games. In one past article posted here I shared my first foray into Three Check Chess. This week I am ready to share another game <a href=\"https://chessimprover.com/three-check-chess-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Three Check Chess (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/three-check-chess-2/\">Three Check Chess (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1394,14 +1418,6 @@ news_feed (
          "title" : "Enemies of the people, on stage and the chessboard"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>General Atlantic</strong>, a US equity form with early investments in <strong>Slack</strong>, <strong>Airbnb</strong> and <strong>TikTok</strong>, <a href=\"https://www-chess-com.cdn.ampproject.org/c/s/www.chess.com/amp/news/chesscom-gets-major-investment\">is financing further growth</a> in <strong>Chess.com</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/general-atlantic-invests-in/",
-         "pubDate" : "Sat, 15 Jan 2022 09:09:50 +0100",
-         "title" : "General Atlantic invests in Chess.com"
-      },
-      {
          "description" : "The first round of the 2022 Tata Steel Chess Tournament saw three leaders emerge, including the 2021 winner GM Jorden van Foreest. World Champion GM Magnus Carlsen started with a quick draw vs. GM Andrey Esipenko. The Challengers group saw four de...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2096,14 +2112,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/david-howell-wins-chess-coms-titled-tuesday/",
          "pubDate" : "Thu, 06 Jan 2022 09:27:32 +0000",
          "title" : "David Howell wins Chess.com's Titled Tuesday!"
-      },
-      {
-         "description" : " From the publisher: &#8220;There aren't many chess players who can say they've both beaten Garry Kasparov in an official blitz game and crushed Peter Leko in a classical game in 26 moves. And who regularly win blitz tournaments high on marihuana. But then Manuel Bosboom is not an ordinary chess player. The Dutch International Master <a href=\"http://britishchessnews.com/2022/01/06/chess-buccaneer-the-life-and-games-of-manuel-bosboom/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Chess Buccaneer: The Life and Games of Manuel Bosboom</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/01/06/chess-buccaneer-th",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/01/06/chess-buccaneer-the-life-and-games-of-manuel-bosboom/",
-         "pubDate" : "Thu, 06 Jan 2022 00:10:13 +0000",
-         "title" : "Chess Buccaneer: The Life and Games of Manuel Bosboom"
       }
    ]
 }
