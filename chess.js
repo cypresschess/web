@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Daniil Dubov and Nils Grandelius. 2022.01.27<br /> Daniil Dubov vs Nils Grandelius, 84th Tata Steel Masters (2022):<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2231073\">https://www.chessgames.com/perl/chessgame?gid=2231073</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-tata-steel-dubov-vs-grandelius-insane-endgame-gm-josh-friedel-lichessorg\"><img src=\"https://saintl",
+         "description" : "The 2022 Armenian Championships took place at the Tigran Petrosian Chess House in Yerevan on January 12-23. Manuel Petrosyan and Mariam Mkrtchyan won the national championships - open and women's respectively - for the first time in their careers. | Photos: Armenian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armenian-championships-2022-report",
+         "pubDate" : "Fri, 28 Jan 2022 03:05:00 +0100",
+         "title" : "Petrosyan and Mkrtchyan are the 2022 Armenian champions"
+      },
+      {
+         "description" : "The eleventh round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Friday, January 28 after the rest day on Thursday. GM Magnus Carlsen is leading the tournament with 7/10, while GM Anish Giri is in clear second with 6.5/1...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-11",
+         "pubDate" : "Thu, 27 Jan 2022 17:00:00 -0800",
+         "title" : "How To Watch Tata Steel Chess 2022 Round 11"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Daniil Dubov and Nils Grandelius. The mysterious masked Josh... 2022.01.27<br /> Daniil Dubov vs Nils Grandelius, 84th Tata Steel Masters (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2231073\">https://www.chessgames.com/perl/chessgame?gid=2231073</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-tata-steel-dubov-vs-grandelius-insane-endgame-gm-josh-friedel-lichess",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-tata-steel-dubov-vs-grandelius-insane-endgame-gm-josh-friedel-lichessorg",
@@ -1954,14 +1970,6 @@ news_feed (
          "title" : "European Individual Chess Championship 2022 - Official regulations"
       },
       {
-         "description" : "The Indian Grandmaster Lalith Babu won the \"Vergani Cup\" in the Italian Adriatic resort of Cattolica which finished on Sunday. With 7.0/9 Lalith shared first place with Hans Moke Niemann (USA), Vitaliy Bernadskiy (Ukraine) and Nurgyul Salimova (Bulgaria), but he had the best tiebreak and therefore won the tournament and the first prize of €2,500. | Photos: Rupali Mullick",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/indian-grandmaster-lalith-babu-wins-vergani-cup",
-         "pubDate" : "Mon, 10 Jan 2022 14:00:00 +0100",
-         "title" : "Indian Grandmaster Lalith Babu wins Vergani Cup"
-      },
-      {
          "description" : "The Senior National Chess Championship 2022 scheduled at Kanpur from 09-21 Feb 2022 has been postponed due to forthcoming Uttar Pradesh assembly election as well",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2064,14 +2072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1514",
          "pubDate" : "Fri, 07 Jan 2022 21:31:52 +0000",
          "title" : "Uruguayan Championship: Bernardo Roselli wins third straight title"
-      },
-      {
-         "description" : "Chess.com is excited to announce the winners of the 2021 Chess.com awards! It was a year of massive growth for chess. In February, PogChamps 3 set the Chess.com record for the biggest live-streamed event ever&#38;mdash;at one point even breaking the 1...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2021-chesscom-awards-winners",
-         "pubDate" : "Fri, 07 Jan 2022 10:38:00 -0800",
-         "title" : "2021 Chess.com Awards Winners"
       },
       {
          "description" : " Here's a question for you. Black played Bxb4 in this position. Is this a mistake or a clever move winning a pawn? While you think about your answer I wrote last time about taking a different approach to tactics training. I have a database of 9 million plus games. I know there will be several <a href=\"https://chessimprover.com/100-years-ago-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"100 Years Ago (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/100-years-ago-1/\">100 Years Ago (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
