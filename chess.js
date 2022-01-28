@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Lawrence Trent thinks that Paul Keres might be one of the most underrated players in the chess world. Time to witness a special game of his against Ilmar Raud. The tactical combination is quite stunning. It is also time to catch up with the tactics training on ChessBase, and break through the 2400 rating wall. Will it finally work out today?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-12",
+         "pubDate" : "Fri, 28 Jan 2022 17:00:00 +0100",
+         "title" : "Trent's Tactics - An incredible tactic between Keres and Raud"
+      },
+      {
+         "description" : "A judge on Thursday refused to dismiss GM Nona Gaprindashvili&#39;s defamation lawsuit against Netflix, meaning the suit can proceed. The streaming and production company had claimed that because The Queen&#39;s Gambit is a work of fiction, it would be im...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gaprindashvilis-defamation-lawsuit-against-netflix-can-proceed",
+         "pubDate" : "Fri, 28 Jan 2022 06:59:00 -0800",
+         "title" : "Gaprindashvili's Defamation Lawsuit Against Netflix Can Proceed"
+      },
+      {
+         "description" : "Ding Liren, Levon Aronian, Wesley So and Alexander Grischuk will be among the players battling for the final two spots in the FIDE Candidates Tournament when the 2022 FIDE Grand Prix begins next Friday, February 4th in Berlin. The new format sees 16 players start in four separate groups, where only the winner will qualify to a knockout. That means, for instance, that for Grischuk to qualify he first has to overcome Hikaru Nakamura, Dmitry Andreikin and Etienne Bacrot. We'll have full coverage here on chess24.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/berlin-fide-grand-prix-candidates-last-chance-saloon",
+         "pubDate" : "Fri, 28 Jan 2022 14:37:23 +0000",
+         "title" : "Berlin FIDE Grand Prix: Candidates last chance saloon"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Daniil Dubov</strong> tested positive for Covid-19 on the final rest day of the <strong>Tata Steel Chess Tournament</strong> and forfeits his last three games against Rapport, Praggnanandhaa and Carlsen. Earlier three coaches tested positive and had to go into isolation. One of them was with Dubov, so he was asked to play round seven with a mask, which he refused and forfeited against Giri. With forfeits against the three tournament leaders Carlsen, Giri and Rapport, the impact of his exclusion is limited. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/dubov-out-after-positive-test/",
+         "pubDate" : "Fri, 28 Jan 2022 14:58:03 +0100",
+         "title" : "Dubov out after positive test"
+      },
+      {
+         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. After four matches the women (team Pia) lead by 20.5-19.5. Will the men (Team Sabino) equalise the score or go ahead in round 5? The rounds start daily at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
+         "pubDate" : "Fri, 28 Jan 2022 14:45:14 +0100",
+         "title" : "Battle of the Sexes: Round 5 - Live"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1ac2ca25-ea04-42e3-be38-ecd135d92611/ES2.jpg\" data-image-dimensions=\"382x180\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61f3ef174abbc5621ba931ff\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1ac2ca25-ea04-42e3-be38-ecd135d92611/ES2.jpg?format=1000w\" /> </figure> <p class=\"\"><a href=\"https://www.perpetualchesspod.com/recaptured\" target=\"_blank\"><em>Chess Books Recaptured</em></a><em> </em>is back to discuss one of my favorite chess books ever, Mikhail Sher",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/28/book-recap-23-discussing-shereshevskys-endgame-strategy-with-dr-kevin-scull",
+         "pubDate" : "Fri, 28 Jan 2022 13:31:02 +0000",
+         "title" : "Book Recap #23- Discussing Shereshevsky's Endgame Strategy with Dr. Kevin Scull "
+      },
+      {
+         "description" : " This week, we're going to start looking at what makes up the core of any good tactic, the combination. The combination is simply a series of moves that set up and execute a tactic. All tactics require a combination of moves to be made in order for them to be executed. Of course, you could <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty/\">A Foundation for Beginners Fifty</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty/",
+         "pubDate" : "Fri, 28 Jan 2022 13:08:11 +0000",
+         "title" : "A Foundation for Beginners Fifty"
+      },
+      {
+         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
+         "pubDate" : "Fri, 28 Jan 2022 13:45:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "The fourth round of the #GibChess Battle of the Sexes at Gibraltar's Garrison Library, ended in a narrow victory for the men's team by 5&frac12;-4&frac12;, wielding the white pieces for the second time. This was Team Sabino's second successive victory, following the women's double success in the first two rounds but of course only game points are relevant and Team Pia remain in the lead by a single point. The score is thus 20&frac12; to the women, 19&frac12; to the men. John Saunders reports. | Photos: John Saunders | Photo: Steven Linares, Gibraltar Minister for Housing, Employment, Youth and Sport, makes the opening move for Eric Rosen against Olga Girya",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +98,7 @@ news_feed (
          "title" : "Daniil Dubov out of the Tata Steel Masters"
       },
       {
-         "description" : " <p class=\"lead\">GM Daniil Dubov leaves the Tata Steel Chess Tournament after testing positive for COVID-19 in a PCR test yesterday. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/JH_5299LR.jpg\" width=\"1500\" height=\"925\" alt=\"\" /> <div class=\"e2-text-caption\"> © Lennart Ootes and Jurriaan Hoefsmit - Tata Steel Chess Tournament 2022</div> </div> Three rounds before the end of the tournament, and right before his match against GM Richard Rapport, the Russian GM tested positive for Covid and left the tournament. This means that the results of his previous matches will stand and that Dubov will forfeit the games against the opponents he was to face in the last three",
+         "description" : " <p class=\"lead\">In a surprising turn of events, Russian GM Daniil Dubov leaves the Tata Steel Chess Tournament after testing positive for COVID-19 in a PCR test yesterday. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/JH_5299LR.jpg\" width=\"1500\" height=\"925\" alt=\"\" /> <div class=\"e2-text-caption\"> © Lennart Ootes and Jurriaan Hoefsmit - Tata Steel Chess Tournament 2022</div> </div> Three rounds before the end of the tournament, and right before his match against GM Richard Rapport, the Russian GM tested positive for Covid and left the tournament. This means that the results of his previous matches will stand and that Dubov will forfeit the games against the op",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/dubov-tested-positive-for-covid-leaves-the-2022-tata-steel-chess/",
@@ -58,7 +122,7 @@ news_feed (
          "title" : "Meet The Fritztrainer - Robert Ris"
       },
       {
-         "description" : " The world champion is ahead by half a point and is unbeaten, but has made little progress towards his target of a 2900 rating following a much debated draw with Russia's Sergey Karjakin Magnus Carlsen leads his nearest rival, Anish Giri, by half a point going into the weekend's final three rounds of the \"chess Wimbledon\" at Tata Steel Wijk aan Zee, but the world champion's declared target of an all-time record 2900 rating is proving harder to achieve. Play is, as usual, free and live to view online, starting Friday and Saturday at 1pm BST, and Sunday at 11am. <a href=\"https://www.chess.com/events/2022-tata-steel-chess-tournament-masters\" title=\"\">Chess.com</a> is the place to watch for clos",
+         "description" : " The world champion is ahead by half a point and is unbeaten, but has made little progress towards his target of a 2900 rating following a much debated draw with Russia's Sergey Karjakin Magnus Carlsen leads his nearest rival, Anish Giri, by half a point going into the weekend's final three rounds of the \"chess Wimbledon\" at Tata Steel Wijk aan Zee, but the world champion's declared target of an all-time record 2900 rating is proving harder to achieve. Play is, as usual, free and live to view online, starting Friday and Saturday at 1pm, and Sunday at 11am. <a href=\"https://www.chess.com/events/2022-tata-steel-chess-tournament-masters\" title=\"\">Chess.com</a> is the place to watch for close-up",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/jan/28/chess-carlsen-leads-amid-controversy-before-the-final-weekend-at-wijk",
@@ -90,12 +154,12 @@ news_feed (
          "title" : "Petrosyan and Mkrtchyan are the 2022 Armenian champions"
       },
       {
-         "description" : "The eleventh round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Friday, January 28 after the rest day on Thursday. GM Magnus Carlsen is leading the tournament with 7/10, while GM Anish Giri is in clear second with 6.5/1...",
+         "description" : "The 11th round of the 2022 Tata Steel Chess Tournament is underway. GM Magnus Carlsen is leading the tournament with 7/10, while GM Anish Giri is in clear second with 6.5/10. GM Daniil Dubov is not playing after testing positive for Covid. How t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-11",
          "pubDate" : "Thu, 27 Jan 2022 17:00:00 -0800",
-         "title" : "How To Watch Tata Steel Chess 2022 Round 11"
+         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 11"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Daniil Dubov and Nils Grandelius. The mysterious masked Josh... 2022.01.27<br /> Daniil Dubov vs Nils Grandelius, 84th Tata Steel Masters (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2231073\">https://www.chessgames.com/perl/chessgame?gid=2231073</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-tata-steel-dubov-vs-grandelius-insane-endgame-gm-josh-friedel-lichess",
@@ -128,14 +192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1547",
          "pubDate" : "Thu, 27 Jan 2022 15:06:22 +0000",
          "title" : "FIDE holds round table on \"Chess in Prisons\" project"
-      },
-      {
-         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. The women (team Pia) won the first two matches, the men (team Sabino)the third. After three matches team Pia leads 16-14. What will happen in round 4? The rounds start daily at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
-         "pubDate" : "Thu, 27 Jan 2022 14:45:14 +0100",
-         "title" : "Battle of the Sexes: Round 4 - Live"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <a href=\"https://www.shakkiliitto.fi/finnish-chess-federation/\"><strong>Finnish Chess Federation</strong></a> was hit hard by the pandemic. Online chess, hybrid chess and new funding sources are all part of the plan of the young new leader <strong>Eetu Tiiva</strong>. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/tiiva-profile.1920.jpeg\" title=\"Eetu Tiiva is the new President of the Finnish Chess Federation. photo: private\" data-title=\"Eetu Tiiva is the new President of the Finnish Chess Federation. (photo: private)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/",
@@ -423,7 +479,7 @@ news_feed (
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/25/ep-263-ep-263-author-oliver-roeder-on-the-enduring-appeal-of-chess-and-other-games",
          "pubDate" : "Tue, 25 Jan 2022 13:51:43 +0000",
-         "title" : "EP 263- EP 263- Author Oliver Roeder on the Enduring Appeal of Chess and Other Games "
+         "title" : "EP 263- Author Oliver Roeder on the Enduring Appeal of Chess and Other Games "
       },
       {
          "description" : "All India Chess Federation extend our heartiest congratulations to Ms. Arushi Kotwal for the Rashtriya Bal Puraskar!! &#160; We are proud of you!!",
@@ -986,14 +1042,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Fireworks in the Giuoco Piano"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chempion Mira</strong> is neither sound history nor works out as a sequel to The Queen's Gambit. The Russian movie is patriotic kitsch and a monument to <strong>Anatoly Karpov</strong> who was involved as a consultant. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/07.1920.jpeg\" title=\"Karpov (Ivan Yankovskiy) surrounded by his seconds Tal (Dmitriy Iosifov), Zaitsev (Anatoliy Kot), Balashov (Mikhail Troynik, sitting) and KGB officer Maksimov (Viktor Dobronravov). photo: Kinostar\" data-title=\"Karpov (Ivan Yankovskiy) surrounded by his seconds Tal (Dmitriy Iosifov), Zaitsev (Anatoliy ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/tolka-the-hero/",
-         "pubDate" : "Thu, 20 Jan 2022 17:02:47 +0100",
-         "title" : "Tolka the hero"
-      },
-      {
          "description" : " FM Ignacio Perez (1967-2022)Photo by Washington State Chess Federation The Seattle chess community is in mourning after the passing of Ignacio P&eacute;rez on January 11th, 2022. The long-time Seattle resident succumbed after a lengthy battle with throat cancer but remained active in the chess community despite his illness. He was a few weeks shy of [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/20/fm-ignacio-perez-1967-2022-passes-away/\">FM Ignacio P&eacute;rez (1967-2022) passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1538,14 +1586,6 @@ news_feed (
          "title" : "Tata Steel 2022 gets underway with a lively first round - 1"
       },
       {
-         "description" : "For the first time since winning in Dubai, Magnus Carlsen speaks publicly about his shocking announcement that his fifth World Championship match may have been his last. But Vladimir Kramnik still thinks Carlsen will play against any opponent.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-i-wouldn-t-say-chances-have-increased",
-         "pubDate" : "Sat, 15 Jan 2022 15:30:55 +0000",
-         "title" : "Carlsen: \"I wouldn't say chances have increased\""
-      },
-      {
          "description" : " Despite her own ambivalence toward chess as a youth,Officer Cookie has shared its joys.Photo by Genna Martin After decades of service, Denise &#8220;Cookie&#8221; Bouldin is having &#8220;Detective Cookie Chess Park&#8221; built in her honor. Detective Cookie been featured on The Chess Drum over the years with her Urban Youth Chess Club in Seattle, Washington. The [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/15/seattle-builds-detective-cookie-chess-park/\">Seattle builds Detective Cookie Chess Park!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1938,22 +1978,6 @@ news_feed (
          "title" : "84th Tata Steel Chess Tournament 2022 - Games and Results"
       },
       {
-         "description" : "A new Russian film, written and directed by Aleksey Sidorov, called \"The Champion of the World\" was released on December 30. The film tells the story of the bitter rivalry between Anatoly Karpov and Viktor Korchnoi, focusing on their memorable match in Baguio. Eteri Kublashvili had access to the shooting and shared a number of remarkable photos and impressions on the website of the Chess Federation of Russia.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/match-in-neon-limelight",
-         "pubDate" : "Tue, 11 Jan 2022 12:10:00 +0100",
-         "title" : "Match in neon limelight"
-      },
-      {
-         "description" : "Sometimes it would be nice to have another queen on the board, especially if things went wrong in the first part of the game. In a YouTube video on optical illusions, Matt Pritchard reveals how you can suddenly conjure up a queen on the board by using means of disguise that have a long tradition in chess but are rather unusual in modern tournament play.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-phantom-queen",
-         "pubDate" : "Tue, 11 Jan 2022 12:00:00 +0100",
-         "title" : "The Phantom Queen"
-      },
-      {
          "description" : "Chess.com is happy to announce the release of Classroom! Classroom gives coaches and students a seamless, simple, all-in-one tool to help take their lessons to the next level. It also provides Chess.com members a streamlined way of connecting an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2066,14 +2090,6 @@ news_feed (
          "title" : "Who says draws are boring?"
       },
       {
-         "description" : "Eline Roebers, only 15 years old, became the first-ever female winner of the Untergrombach Open on Saturday. Still untitled, the very talented Dutch player defeated GM Vyacheslav Ikonnikov in the final round to finish in sole first place with 6.5/...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/eline-roebers-wins-untergrombach-open-chess-tournament",
-         "pubDate" : "Sun, 09 Jan 2022 04:03:00 -0800",
-         "title" : "15-Year-Old Eline Roebers Wins German Open Tournament"
-      },
-      {
          "description" : " <p class=\"lead\">Le'Veon Bell is an American football running back for the Tampa Bay Buccaneers of the National Football League (NFL), and very recently he discovered the magic of chess. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/usa_today_15327121.0.jpg-2.jpg\" width=\"1820\" height=\"1213\" alt=\"\" /> <div class=\"e2-text-caption\">Jasen Vinlove-USA TODAY Sports</div> </div> The NFL superstar was so impressed with chess that on January the 7th, he couldn't stop tweeting about it! <a href=\"https://twitter.com/LeVeonBell/status/1479265809365192706\">https://twitter.com/LeVeonBell/status/1479265809365192706</a> <a href=\"https://twitter.com/LeVeonBell/status/1479266135",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2112,22 +2128,6 @@ news_feed (
          "link" : "https://chessimprover.com/100-years-ago-1/",
          "pubDate" : "Fri, 07 Jan 2022 17:41:41 +0000",
          "title" : "100 Years Ago (1)"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/764fc794-06c2-4c5f-afcb-2695baf17bee/Martin3.jpg\" data-image-dimensions=\"437x208\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61d84503f4ec2f2d863bbe5b\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/764fc794-06c2-4c5f-afcb-2695baf17bee/Martin3.jpg?format=1000w\" /> </figure> <p class=\"\">Perpetual Chess is back with an edition of <a href=\"https://www.perpetualchesspod.com/recaptured\"><em>Chess Books Recaptured</em></a><em>, </em>a recurring book review podcast.",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/7/book-recap-22-discussing-questions-of-modern-chess-theory-with-martin-justesen",
-         "pubDate" : "Fri, 07 Jan 2022 13:53:15 +0000",
-         "title" : "Book Recap #22- Discussing Questions of Modern Chess Theory with Martin Justesen "
-      },
-      {
-         "description" : " \"And White has a freer game\" is one of those chess annotations I have never particularly understood. I've always thought it was just something annotators wrote when they felt like they had to add a comment, in a similar vain to \"chances for both sides\" or \"compensation for the pawn\". Based on some recent reading I've decided it is a more confusing way of simply saying, \"White has more space\". And advantage in space usually confers greater mobility, allowing the player more control over where the pieces go. As an example (from one of the older books I was looking at), here is a quick win for Tarrasch over Meises in their 1916 match. After White's move 9, Reinfeld remarks \"Whites game is noti",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/and-white-has-freer-game.html",
-         "pubDate" : "Fri, 07 Jan 2022 12:55:00 +0000",
-         "title" : "And White has a freer game"
       }
    ]
 }
