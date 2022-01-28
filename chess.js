@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "In part two of chess24's interview with Vladimir Kramnik, the 14th World Champion speaks about what went wrong for Ian Nepomniachtchi in Dubai, his own opinion about the Dubov controversy and his plans for a new Chessable course.",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Daniil Dubov and Nils Grandelius. 2022.01.27<br /> Daniil Dubov vs Nils Grandelius, 84th Tata Steel Masters (2022):<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2231073\">https://www.chessgames.com/perl/chessgame?gid=2231073</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-tata-steel-dubov-vs-grandelius-insane-endgame-gm-josh-friedel-lichessorg\"><img src=\"https://saintl",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-tata-steel-dubov-vs-grandelius-insane-endgame-gm-josh-friedel-lichessorg",
+         "pubDate" : "Thu, 27 Jan 2022 23:16:01 +0000",
+         "title" : "2022 Tata Steel: Dubov vs. Grandelius | Insane in the Endgame - GM Josh Friedel | lichess.org"
+      },
+      {
+         "description" : "In Part Two of chess24's interview with Vladimir Kramnik, the 14th World Champion speaks about what went wrong for Ian Nepomniachtchi in Dubai, his own opinion about the Dubov controversy and his plans for a new Chessable course.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/kramnik-on-what-went-wrong-for-nepomniachtchi",
@@ -55,7 +63,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/tata-steel-2022-round-10-pragg-beats-vidit-grandelius-wins-his-f/",
          "pubDate" : "Thu, 27 Jan 2022 10:15:59 +0000",
-         "title" : "Tata Steel 2022 Round 10: Pragg beats Vidit, Grandelius wins his first game, Carlsen still on the top"
+         "title" : "Tata Steel 2022 Round 10: Grandelius Wins his First Game, Carlsen Still Ahead"
       },
       {
          "description" : "After two tough rounds in which they were heavily defeated, the men's team fought back with a vengeance in round three of the #GibChess Battle of the Sexes Tournament and won by the impressive margin of 7-3 in this men versus women classical chess event, played at Gibraltar's Garrison Library on Wednesday 26 January. The match score is thus now 16-14 in favour of the women but with the men close behind with a long way to go. | Report and photos by John Saunders",
@@ -90,7 +98,7 @@ news_feed (
          "title" : "Tata Steel 10: Four street-fights and a quick draw"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches her final entry in her series on playing against the Sicilian Defense with White. 2022.01.26<br /> B66 Sicilian, Richter-Rauzer, Rauzer attack, 7...a6<br /> B61 Sicilian, Richter-Rauzer, Larsen variation, 7.Qd2<br /> B60 Sicilian, Richter-Rauzer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-razors-rauzers-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/",
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches her final entry in her series on playing against the Sicilian Defense with White, with a feature on the Richter-Rauzer. 2022.01.26<br /> B66 Sicilian, Richter-Rauzer, Rauzer attack, 7...a6<br /> B61 Sicilian, Richter-Rauzer, Larsen variation, 7.Qd2<br /> B60 Sicilian, Richter-Rauzer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-razors-rauzers-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/play-sicilian-razors-rauzers-chess-and-psychology-im-dorsa-derakhshani",
@@ -146,7 +154,7 @@ news_feed (
          "title" : "The Weekly Show: Battle of the Sexes"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Nils Grandelius-Caruana and Fabiano Caruana. The mysterious masked Josh is impressed with the fight in this game. Thumbnail: Lennart Ootes 2022.01.25<br /> Nils Grandelius vs Fabiano Caruana, 84th Tata Steel Masters (2022): C02 French, advance, Euwe variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2229054\">https://www.chessgames.com/perl/chessgame?gid=2229054</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-la",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Nils Grandelius and Fabiano Caruana. The mysterious masked Josh is impressed with the fight in this game. Thumbnail: Lennart Ootes 2022.01.25<br /> Nils Grandelius vs Fabiano Caruana, 84th Tata Steel Masters (2022): C02 French, advance, Euwe variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2229054\">https://www.chessgames.com/perl/chessgame?gid=2229054</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidd",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-tata-steel-grandelius-vs-caruana-gm-josh-friedel",
@@ -1056,14 +1064,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-vidit-gujrathi-keeps-lead-in-tata-steel-masters-r-praggnanandhaa-posts-first-win/articleshow/88987669.cms",
          "pubDate" : "Wed, 19 Jan 2022 10:13:12 +0530",
          "title" : "Vidit Gujrathi stays in lead in Tata Steel Masters"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev analyzes games that liquidated immediately from the opening. The mysterious masked Atanas has no time for the middlegame! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-endgame-insane-endgame-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aSJf7DggP8Q.jpg?itok=N-vyysyq\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/opening-endgame-insane-endgame-gm-atanas-kolev",
-         "pubDate" : "Wed, 19 Jan 2022 02:07:17 +0000",
-         "title" : "From the Opening to the Endgame | Insane in the Endgame - GM Atanas Kolev"
       },
       {
          "description" : "",
