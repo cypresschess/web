@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world champion is ahead by half a point and is unbeaten, but has made little progress towards his target of a 2900 rating following a much debated draw with Russia's Sergey Karjakin Magnus Carlsen leads his nearest rival, Anish Giri, by half a point going into the weekend's final three rounds of the \"chess Wimbledon\" at Tata Steel Wijk aan Zee, but the world champion's declared target of an all-time record 2900 rating is proving harder to achieve. Play is, as usual, free and live to view online, starting Friday and Saturday at 1pm BST, and Sunday at 11am. <a href=\"https://www.chess.com/events/2022-tata-steel-chess-tournament-masters\" title=\"\">Chess.com</a> is the place to watch for clos",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/jan/28/chess-carlsen-leads-amid-controversy-before-the-final-weekend-at-wijk",
+         "pubDate" : "Fri, 28 Jan 2022 08:00:02 +0000",
+         "title" : "Chess: Carlsen leads amid controversy before the final weekend at Wijk"
+      },
+      {
+         "description" : "The European Universities Games, will take place in Lodz, Poland from 14 to 30 July 2022. Student-athletes will compete in as many as 20 disciplines. This means that up to 6,000 players from all over Europe will take part in the Polish edition of the European Universities Games (EUG). Students will compete in the largest academic sport event&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-universities-chess-championship-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-universities-chess-championship-2022/",
+         "pubDate" : "Fri, 28 Jan 2022 07:15:44 +0000",
+         "title" : "European Universities Chess Championship 2022"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Daniil Dubov and Nils Grandelius. The mysterious masked Josh... 2022.01.27<br /> Daniil Dubov vs Nils Grandelius, 84th Tata Steel Masters (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2231073\">https://www.chessgames.com/perl/chessgame?gid=2231073</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-tata-steel-dubov-vs-grandelius-insane-endgame-gm-josh-friedel\"><img s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-tata-steel-dubov-vs-grandelius-insane-endgame-gm-josh-friedel",
+         "pubDate" : "Fri, 28 Jan 2022 05:16:09 +0000",
+         "title" : "2022 Tata Steel: Dubov vs. Grandelius | Insane in the Endgame - GM Josh Friedel"
+      },
+      {
          "description" : "The 2022 Armenian Championships took place at the Tigran Petrosian Chess House in Yerevan on January 12-23. Manuel Petrosyan and Mariam Mkrtchyan won the national championships - open and women's respectively - for the first time in their careers. | Photos: Armenian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -944,14 +968,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/straight-opening-endgame-insane-endgame-gm-atanas-kolev",
          "pubDate" : "Thu, 20 Jan 2022 02:08:28 +0000",
          "title" : "Straight from the Opening to the Endgame | Insane in the Endgame - GM Atanas Kolev"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani details the Kalashnikov Sicilian, or 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5. This is the penultimate entry in her series on playing against the Sicilian Defense with White. 2022.01.19<br /> B32 Sicilian, Labourdonnais-Loewenthal (Kalashnikov) variation<br /> B32 Sicilian defence </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-guns-roses-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischesscl",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-sicilian-guns-roses-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 20 Jan 2022 02:08:28 +0000",
-         "title" : "Play the Sicilian: Guns & Roses | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "GMs Shakhriyar Mamedyarov and Richard Rapport both won their games in round five of the 2022 Tata Steel Chess Tournament to catch GM Vidit Gujrathi in first place.&#38;nbsp;GM Magnus Carlsen drew an exciting game with GM Nils Grandelius. How to watc...",
@@ -2096,14 +2112,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/and-white-has-freer-game.html",
          "pubDate" : "Fri, 07 Jan 2022 12:55:00 +0000",
          "title" : "And White has a freer game"
-      },
-      {
-         "description" : " David Howell scored 10/11 in the 632-player masters online event, while Nigel Short had a lucky break on his return David Howell scored a rare English victory in high-class international competition this week when the three-times British champion won <a href=\"https://www.chess.com/\" title=\"\">chess.com</a>'s weekly Titled Tuesday. The Sussex 31-year-old had just returned from Warsaw, where he performed well in the World Rapid with 8/13, but faded in the World Blitz with 10/21. Titled Tuesday is free to enter for all Fide titled players, right down to 2200-rated Candidate Masters, and regularly attracts hundreds of entries, who play an 11-round Swiss with a three-minutes-per-game time limit p",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/jan/07/chess-howell-wins-titled-tuesday-as-mobile-phone-saves-short-from-teenager",
-         "pubDate" : "Fri, 07 Jan 2022 08:00:33 +0000",
-         "title" : "Chess: Howell wins Titled Tuesday as mobile phone saves Short from teenager"
       }
    ]
 }
