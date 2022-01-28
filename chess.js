@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The twelfth round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Saturday, January 29. GM Magnus Carlsen is currently leading the tournament with 7.5/11, while GM Richard Rapport is in clear second place with 7/11. In t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-12",
+         "pubDate" : "Fri, 28 Jan 2022 12:18:06 -0800",
+         "title" : "How To Watch Tata Steel Chess 2022 Round 12"
+      },
+      {
+         "description" : "In his Power Play Show, GM Daniel King looks at tactical moments from the Tata Steel tournaments. The main game under consideration is Caruana vs Rapport which is more strategic and displays Rapport's ambitious and somewhat unorthodox style. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-tata-tactics",
+         "pubDate" : "Fri, 28 Jan 2022 18:30:00 +0100",
+         "title" : "Daniel King's Power Play Show: Tata tactics"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1548",
+         "pubDate" : "Fri, 28 Jan 2022 17:26:25 +0000",
+         "title" : "\"I Fight to the End!\" championship and fundraiser returns in April"
+      },
+      {
+         "description" : "The following international junior tournaments are coming up in Rhodes, Greece &#8212; European Schools Championship 20th 30th April World Cadets &#38; Youth Rapid &#38;...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/announcement-for-international-junior-tournaments/",
+         "pubDate" : "Fri, 28 Jan 2022 17:14:54 +0000",
+         "title" : "Announcement for International Junior Tournaments"
+      },
+      {
          "description" : "Lawrence Trent thinks that Paul Keres might be one of the most underrated players in the chess world. Time to witness a special game of his against Ilmar Raud. The tactical combination is quite stunning. It is also time to catch up with the tactics training on ChessBase, and break through the 2400 rating wall. Will it finally work out today?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,14 +154,6 @@ news_feed (
          "title" : "Meet The Fritztrainer - Robert Ris"
       },
       {
-         "description" : " The world champion is ahead by half a point and is unbeaten, but has made little progress towards his target of a 2900 rating following a much debated draw with Russia's Sergey Karjakin Magnus Carlsen leads his nearest rival, Anish Giri, by half a point going into the weekend's final three rounds of the \"chess Wimbledon\" at Tata Steel Wijk aan Zee, but the world champion's declared target of an all-time record 2900 rating is proving harder to achieve. Play is, as usual, free and live to view online, starting Friday and Saturday at 1pm, and Sunday at 11am. <a href=\"https://www.chess.com/events/2022-tata-steel-chess-tournament-masters\" title=\"\">Chess.com</a> is the place to watch for close-up",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/jan/28/chess-carlsen-leads-amid-controversy-before-the-final-weekend-at-wijk",
-         "pubDate" : "Fri, 28 Jan 2022 08:00:02 +0000",
-         "title" : "Chess: Carlsen leads amid controversy before the final weekend at Wijk"
-      },
-      {
          "description" : "The European Universities Games, will take place in Lodz, Poland from 14 to 30 July 2022. Student-athletes will compete in as many as 20 disciplines. This means that up to 6,000 players from all over Europe will take part in the Polish edition of the European Universities Games (EUG). Students will compete in the largest academic sport event&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-universities-chess-championship-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -154,12 +178,12 @@ news_feed (
          "title" : "Petrosyan and Mkrtchyan are the 2022 Armenian champions"
       },
       {
-         "description" : "The 11th round of the 2022 Tata Steel Chess Tournament is underway. GM Magnus Carlsen is leading the tournament with 7/10, while GM Anish Giri is in clear second with 6.5/10. GM Daniil Dubov is not playing after testing positive for Covid. How t...",
+         "description" : "GM Magnus Carlsen continues to lead the 2022 Tata Steel Chess Tournament despite missing a win in his game with GM Vidit Gujrathi in round 11. GM Richard Rapport is half a point behind after getting a forfeit win vs. GM Daniil Dubov, who dropped o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-11",
          "pubDate" : "Thu, 27 Jan 2022 17:00:00 -0800",
-         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 11"
+         "title" : "Tata Steel Chess R11: Carlsen Misses Win, Dubov Tests Positive"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Daniil Dubov and Nils Grandelius. The mysterious masked Josh... 2022.01.27<br /> Daniil Dubov vs Nils Grandelius, 84th Tata Steel Masters (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2231073\">https://www.chessgames.com/perl/chessgame?gid=2231073</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-tata-steel-dubov-vs-grandelius-insane-endgame-gm-josh-friedel-lichess",
@@ -1954,14 +1978,6 @@ news_feed (
          "title" : "EP 261- \"Master to IM\" Adult Improver Special with FM Doug Eckert, NM Evan Rosenberg and FM Dalton Perrine "
       },
       {
-         "description" : "Sometimes bad performance at a tournament can spur you into action. It can make you have a close look at the holes and weaknesses in your play. This is exactly what happened with our reviewer Aanjaneya Phatak. 20-year-old Aanjaneya, who works on chess without a coach, decided to go to the MP Masters Chess 2021. He lost 47 Elo point making his rating fall from 2212 to 2165. But from that experience he realized that he needed to add new openings to his arsenal. That's how he got his hands on Markus Ragger's latest Fritztrainer for ChessBase on the Grunfeld Defence. In this article Aanjaneya narrates his experience of working with Austria's first ever 2700+ GM.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/time-to-learn-the-grunfeld-from-a-world-class-gm",
-         "pubDate" : "Tue, 11 Jan 2022 15:00:00 +0100",
-         "title" : "Time to learn the Grunfeld from a World class GM?"
-      },
-      {
          "description" : " I have been writing this blog for almost 15 years now, but there were things I did before this. There was in fact a lot of writing, in the shape of tournament bulletins, club newsletters and most notably, Australian Chess Forum. One of the last things I did before starting this blog was to organise the 2006-7 Australian Open. As part of this Stephen Mugford and myself put together the tournament website, which contained a lot of useful information. Somewhat surprisingly, the website is still online at <a href=\"https://actjcl.org.au/ausopen2006/index.html\">https://actjcl.org.au/ausopen2006/index.html</a> Apart from tournament results etc, you can download (or read online) the full set of tou",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2050,14 +2066,6 @@ news_feed (
          "title" : "Anand lauds Bharath as teenager becomes India's 73rd Grandmaster"
       },
       {
-         "description" : "GM Ray Robson won the 2022 Puzzle Battle World Championship that concluded on Sunday. The 27-year-old grandmaster from St. Louis again defended his title, which he has been holding since the 2020 Championship, and clinched a prize of $4,500 for bo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-puzzle-battle-world-championship-ray-robson",
-         "pubDate" : "Sun, 09 Jan 2022 19:33:00 -0800",
-         "title" : "Ray Robson Again Dominates Puzzle Battle World Championship"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88795654.cms\" />Chennai boy Bharath Subramaniyam became India's 73rd Grandmaster after bagging his third and final GM norm at the Vergani Cup in Cattolica, Italy on Sunday evening. The event saw the 14-year-old score 6.5 points out of 9 rounds to etch his name among the game's elite. His current ELO rating stands at 2508.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2120,14 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1514",
          "pubDate" : "Fri, 07 Jan 2022 21:31:52 +0000",
          "title" : "Uruguayan Championship: Bernardo Roselli wins third straight title"
-      },
-      {
-         "description" : " Here's a question for you. Black played Bxb4 in this position. Is this a mistake or a clever move winning a pawn? While you think about your answer I wrote last time about taking a different approach to tactics training. I have a database of 9 million plus games. I know there will be several <a href=\"https://chessimprover.com/100-years-ago-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"100 Years Ago (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/100-years-ago-1/\">100 Years Ago (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/100-years-ago-1/",
-         "pubDate" : "Fri, 07 Jan 2022 17:41:41 +0000",
-         "title" : "100 Years Ago (1)"
       }
    ]
 }
