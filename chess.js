@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth round of the #GibChess Battle of the Sexes at Gibraltar's Garrison Library, ended in a narrow victory for the men's team by 5&frac12;-4&frac12;, wielding the white pieces for the second time. This was Team Sabino's second successive victory, following the women's double success in the first two rounds but of course only game points are relevant and Team Pia remain in the lead by a single point. The score is thus 20&frac12; to the women, 19&frac12; to the men. John Saunders reports. | Photos: John Saunders | Photo: Steven Linares, Gibraltar Minister for Housing, Employment, Youth and Sport, makes the opening move for Eric Rosen against Olga Girya",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-4-team-sabino-catches-up",
+         "pubDate" : "Fri, 28 Jan 2022 13:21:47 +0100",
+         "title" : "Battle of the Sexes, Round 4: Team Sabino catches up"
+      },
+      {
+         "description" : " Once again the Gibraltar Open has been affected by Covid meaning the big open event isn't being held. In its place is the <a href=\"https://www.gibchess.com/\">Match</a> between Team PIA (consisting of strong female players) and Team SABINO (consisting of strong male players). It is being played as a 10 round Scheveningen (ie all players on a team play all the players on the other team), and after 4 rounds, team PIA leads by 20.5-19.5. Team PIA got out to a good start winning the first two rounds, but Team Sabino has narrowed the gap in rounds 3 and 4. Turning out for Team SABINO is Australian GM Bobby Cheng, while Team PIA contains a player very familiar to Australian chess fans, IM Irine Su",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/battle-of-sexes.html",
+         "pubDate" : "Fri, 28 Jan 2022 12:18:00 +0000",
+         "title" : "Battle of the Sexes"
+      },
+      {
+         "description" : "This week Robert Ris takes a close how the Hungarian Grandmaster Richard Rapport, who is well-known for his interesting ideas, (successfully) treats the Classical Dutch with Black. Inspiring! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-rapport-plays-the-dutch",
+         "pubDate" : "Fri, 28 Jan 2022 12:40:05 +0100",
+         "title" : "Robert Ris' Fast and Furious: Rapport plays the Dutch"
+      },
+      {
+         "description" : "Daniil Dubov is out of the 2022 Tata Steel Chess Masters after a positive PCR test. His results to date will stand, with tournament leader Magnus Carlsen, joint 3rd placed Richard Rapport and Praggnanandhaa getting forfeit wins in his remaining games. That makes four forfeit wins, after Daniil declined to play his 7th round game against Anish Giri in a mask after a close contact tested positive. Magnus Carlsen, who plays Vidit on Friday and Fabiano Caruana on Saturday, is now even more of a favourite to win the event.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/daniil-dubov-out-of-the-tata-steel-masters",
+         "pubDate" : "Fri, 28 Jan 2022 11:31:25 +0000",
+         "title" : "Daniil Dubov out of the Tata Steel Masters"
+      },
+      {
+         "description" : " <p class=\"lead\">GM Daniil Dubov leaves the Tata Steel Chess Tournament after testing positive for COVID-19 in a PCR test yesterday. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/JH_5299LR.jpg\" width=\"1500\" height=\"925\" alt=\"\" /> <div class=\"e2-text-caption\"> © Lennart Ootes and Jurriaan Hoefsmit - Tata Steel Chess Tournament 2022</div> </div> Three rounds before the end of the tournament, and right before his match against GM Richard Rapport, the Russian GM tested positive for Covid and left the tournament. This means that the results of his previous matches will stand and that Dubov will forfeit the games against the opponents he was to face in the last three",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/dubov-tested-positive-for-covid-leaves-the-2022-tata-steel-chess/",
+         "pubDate" : "Fri, 28 Jan 2022 10:55:21 +0000",
+         "title" : "Dubov tested positive for covid, leaves the 2022 Tata Steel Chess Tournament"
+      },
+      {
+         "description" : "In a press release the organisers of the Tata Steel tournament in Wijk aan Zee, announced that \"Daniil Dubov will leave the Tata Steel Chess Tournament after testing positive for the corona virus in a PCR test yesterday. This means that the results of his previous matches will stand and that Dubov will forfeit the games against the opponents he was to face in the last three rounds. They are Rapport, Praggnanandhaa and Carlsen respectively.\" | Photo: Press Release Wijk",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/breaking-news-dubov-leaves-tata-steel-chess-tournament",
+         "pubDate" : "Fri, 28 Jan 2022 11:53:58 +0100",
+         "title" : "Breaking news: Dubov leaves Tata Steel Chess Tournament"
+      },
+      {
+         "description" : "Hundreds of different Fritztrainers have been teaching us chess on ChessBase for more than a decade. Maybe you sometimes wonder what else the authors do? \"Meet the Fritztrainer\" takes a look behind the scenes, telling us more about the private life of your favourite chess trainer. We already had the pleasure to talk to the Dutch Fritztrainers GM Jan Werle, and IM Merijn van Delft. Today we speak with another very active Fritztrainer from the Netherlands, who also has his own weekly show on ChessBase - IM Robert Ris.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meet-the-fritztrainer-robert-ris",
+         "pubDate" : "Fri, 28 Jan 2022 10:00:00 +0100",
+         "title" : "Meet The Fritztrainer - Robert Ris"
+      },
+      {
          "description" : " The world champion is ahead by half a point and is unbeaten, but has made little progress towards his target of a 2900 rating following a much debated draw with Russia's Sergey Karjakin Magnus Carlsen leads his nearest rival, Anish Giri, by half a point going into the weekend's final three rounds of the \"chess Wimbledon\" at Tata Steel Wijk aan Zee, but the world champion's declared target of an all-time record 2900 rating is proving harder to achieve. Play is, as usual, free and live to view online, starting Friday and Saturday at 1pm BST, and Sunday at 11am. <a href=\"https://www.chess.com/events/2022-tata-steel-chess-tournament-masters\" title=\"\">Chess.com</a> is the place to watch for clos",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1642,14 +1698,6 @@ news_feed (
          "title" : "Chess: Magnus Carlsen targets all-time rating record of 2900 at Wijk aan Zee"
       },
       {
-         "description" : "Vladimir Kramnik speaks about Magnus Carlsen and crossing 2900, what Alireza Firouzja needs to do, his memories from Wijk aan Zee, and Nodirbek Abdusattorov and the rise of the young generation in the first instalment of a candid, two-part interview. Always the good-natured gentleman, the 46-year-old was generous enough to give an exclusive interview for chess24 readers.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/kramnik-on-carlsen-s-new-target-what-firouzja-needs-to-do-and-the-top-young-talents",
-         "pubDate" : "Fri, 14 Jan 2022 01:17:51 +0000",
-         "title" : "Kramnik on Carlsen's new target, what Firouzja needs to do and the top young talents"
-      },
-      {
          "description" : "The first super-tournament of the year is about to kick off, and the organizers have just announced that they will be using a new tiebreak system. After last year's edition finished with an unpleasant controversy, the organizers of the Tata Steel Masters have decided to avoid chaotic time scrambles to break a potential tie for first place. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1906,28 +1954,12 @@ news_feed (
          "title" : "The Phantom Queen"
       },
       {
-         "description" : "Pawn races often have a flavour of their own and taking pawns is not always the most important. In the diagram position it is Black to move and win. What would you do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/never-miss-a-check",
-         "pubDate" : "Tue, 11 Jan 2022 09:00:00 +0100",
-         "title" : "Never miss a check..."
-      },
-      {
          "description" : "Chess.com is happy to announce the release of Classroom! Classroom gives coaches and students a seamless, simple, all-in-one tool to help take their lessons to the next level. It also provides Chess.com members a streamlined way of connecting an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-releases-new-classroom-feature",
          "pubDate" : "Mon, 10 Jan 2022 11:54:00 -0800",
          "title" : "Chess.com Releases New Classroom Feature"
-      },
-      {
-         "description" : "Four years after his epic match against Fritz in Bahrain, which ended in a hard-fought 4-4 draw, World Champion Vladimir Kramnik, who had in the meantime twice defended his title, once again took up the gauntlet to face his computer opponent. In a two-part pictorial article, Frederic Friedel describes the intense million-dollar battle that was fought between them in 2006 in Bonn, Germany. Finance Minister Peer Steinbr&uuml;ck called it a cultural battle between outstanding representatives of human and technical intelligence.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/thirty-years-happy-birthday-fritz-6-1",
-         "pubDate" : "Mon, 10 Jan 2022 20:00:00 +0100",
-         "title" : "Thirty years! Happy Birthday Fritz (6.1)"
       },
       {
          "description" : "",
@@ -1960,22 +1992,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1517",
          "pubDate" : "Mon, 10 Jan 2022 16:46:05 +0000",
          "title" : "NZ Championship: Daniel Gong claims his first title"
-      },
-      {
-         "description" : "On Tuesday, January 11, 2022, the first auction of the Chess World Champion NFTs (Wilhelm Steinitz) will end at 12:00 CET. The other auctions will follow roughly every hour. So let's summarize what makes this series unique. In one sentence: It will remain the first of its kind for all times! Also: What is the deeper meaning of NFTs? And a short but hefty guide to the technical side of the auction.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/can-you-own-byrne-fischer",
-         "pubDate" : "Mon, 10 Jan 2022 17:24:03 +0100",
-         "title" : "Can you own Byrne-Fischer?"
-      },
-      {
-         "description" : "In the Endgame Magic Show #177, Karsten M&uuml;ller and Arne K&auml;hler look at a fascinating position played at the 2021 FIDE World Cup in Sochi. Sometimes you need to calculate what will happen in the fourth phase of the game, when newly promoted queens appear on the board, and every single check is crucial! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-177-the-fourth-phase-of-the-game",
-         "pubDate" : "Mon, 10 Jan 2022 16:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #177: The fourth phase of the game"
       },
       {
          "description" : "The European Individual Chess Championship 2022 will take place from 27th March (1st round) 6th April (11th round) 2022, in Terme Catez, Slovenia. The event will be played in 11 rounds, Swiss system, with time control: 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2022-official-regulations/\">Read More &#187;</a></span>",
