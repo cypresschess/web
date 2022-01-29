@@ -1,4 +1,5 @@
 jtable([
+"CYPRESS","2022-01-28","16","<a href=http://www.uschess.org/msa/XtblMain.php?202201282982 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2022-01-04  - 01-25","10","<a href=http://www.uschess.org/msa/XtblMain.php?202201252812 target=' blank'>JANUARY TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2022-01-23","13","<a href=http://www.uschess.org/msa/XtblMain.php?202201231302 target=' blank'>HOUSTON JAN. 23 SUNDAY SWISS</a>",
 "CYPRESS","2022-01-21","16","<a href=http://www.uschess.org/msa/XtblMain.php?202201219862 target=' blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "KATY","2021-02-27","15","<a href=http://www.uschess.org/msa/XtblMain.php?202102272322 target=' blank'>SR CHESSKNIGHTS 02272021</a>",
 "SPRING","2021-02-26","33","<a href=http://www.uschess.org/msa/XtblMain.php?202102265852 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SPRING","2021-01-27  - 02-24","6","<a href=http://www.uschess.org/msa/XtblMain.php?202102245642 target=' blank'>NW MONTHLY</a>",
-"KATY","2021-02-20","22","<a href=http://www.uschess.org/msa/XtblMain.php?202102205952 target=' blank'>SR CHESSKNIGHTS 02202021</a>",
 ]);
