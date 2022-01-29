@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen missed a win over Vidit but will still clinch tournament victory on Saturday if he draws with Fabiano Caruana while Richard Rapport fails to beat Andrey Esipenko. Magnus will now get a forfeit win in the final round after Daniil Dubov tested positive, while Anish Giri's challenge was ended by a brilliant win for Jorden van Foreest. Caruana goes into the showdown with Magnus in high spirits after a fine win over Praggnanandhaa, while in the Challengers Arjun Erigaisi needs a draw to seal a place in next year's Masters.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-11-carlsen-on-brink-after-dubov-drops-out",
+         "pubDate" : "Sat, 29 Jan 2022 11:53:18 +0000",
+         "title" : "Tata Steel 11: Carlsen on brink after Dubov drops out"
+      },
+      {
+         "description" : "Videos: Mihail Marin examines the Berlin Defence with 4.d3 d6 and finds some practical advantages for Black over the standard move 4...Bc5. Christian Bauer presents a new knight sacrifice in the Voronezh Variation of the Alekhine Defence. In this issue's \"Brilliancy\" Imre Hera took the initiative against Zoltan Almasi in the London System after 1.d4 Nf6 2.Nf3 e6 3.Bf4 b6 4.e3 Be7 5.h3 c5 6.Nc3! \"The lucky bag\" is particularly well stocked with 72 (!) extensively annotated games! Among them are analyses by Vladimir Belous, Spyridon Kapnisis, Michal Krasenkow, Krishnan Sasikiran and many others. ChessBase Magazine Extra is the perfect supplement to ChessBase Magazine. Available as a single iss",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-extra-205",
+         "pubDate" : "Sat, 29 Jan 2022 11:00:00 +0100",
+         "title" : "New: ChessBase Magazine Extra #205"
+      },
+      {
+         "description" : "In an essay for TheArticle published on December 7 last year, Jay Elwes posed here a provocative question: who was the greatest artist of the twentieth century? Ella Fitzgerald was Jay's answer. I would prefer to nominate Marcel Duchamp, about whom I have also written previously in this column. Duchamp's reputation is based on both []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-colour-of-silence-art-chess-and-synaesthesia/",
+         "pubDate" : "Sat, 29 Jan 2022 09:00:47 +0000",
+         "title" : "The colour of silence: art, chess and synaesthesia"
+      },
+      {
+         "description" : " <p class=\"lead\">Round 11 of the <a href=\"https://tatasteelchess.com\">2022 Tata Steel Chess Tournaments</a> turned into a rollercoaster of emotions. Dubov has left the tournament due to covid, Calsen drew with Vidit and improved his chances dramatically to win for a record eight-time in Wijk aan Zee, Van Foreest won an almost perfect game against Giri, and two quick draws fueled a boomerang of comments on Twitter. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.530612244898\"> <img src=\"https://worldchess.com/news/pictures/JH074941LR.jpg\" width=\"1500\" height=\"980\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_5488LR.jpg\" width=\"1500\" height=\"1",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/tata-steel-2022-round-11-giri-loses-to-van-foreest-carlsen-is-1/",
+         "pubDate" : "Sat, 29 Jan 2022 08:35:32 +0000",
+         "title" : "Tata Steel 2022 Round 11: Giri loses to Van Foreest, Carlsen is 1.5 point ahead"
+      },
+      {
          "description" : "In the diagram position White has a shortcut to victory, enabling him to hunt down Black's king ... or his queen on h1! Can you work it all out in your head?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +66,7 @@ news_feed (
          "title" : "Study of the Month: Endgame Studies, Endgame Theory"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Harrison Keyser plays a slow, instructive, classical game with a typical structure that every chess player should be familiar with. #chess #tactics #analysis 2021.12.28<br /> Harrison Keyser vs. Polmacarroni, 2021: B38 Sicilian, accelerated fianchetto, Maroczy bind, 6.Be3<br /> <a href=\"https://lichess.org/DnUxLzVV\">https://lichess.org/DnUxLzVV</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/every-chess-player-should-know-structure\"><img src=\"https://saintlouis",
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser plays a slow, instructive, classical game with a typical structure that every chess player should be familiar with. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> #chess #tactics #analysis 2021.12.28<br /> Harrison Keyser vs. Polmacarroni, 2021: B38 Sicilian, accelerated fianchetto, Maroczy bind, 6.Be3<br /> <a href=\"https://lichess.org/DnUxLzVV\">https://lichess.org/DnUxLzVV</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrap",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/every-chess-player-should-know-structure",
@@ -1522,14 +1554,6 @@ news_feed (
          "title" : "European School Chess Championship 2022 - Official invitation"
       },
       {
-         "description" : "Magnus Carlsen finished in style to win his first ever game against Anish Giri in Wijk aan Zee, getting revenge for a loss on the final day of the World Blitz Championship. It was a bad day for the Dutch, as Jorden van Foreest also lost a tricky knight ending to Richard Rapport. The other Masters games, including the Karjakin-Dubov grudge match, were drawn, but Shakhriyar Mamedyarov's amazing 3.g4!? against Andrey Esipenko will live in the memory. 15-year-old Volodar Murzin leads the Challengers after beating compatriot Polina Shuvalova.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-2-carlsen-gets-giri-revenge",
-         "pubDate" : "Mon, 17 Jan 2022 05:48:53 +0000",
-         "title" : "Tata Steel 2: Carlsen gets Giri revenge"
-      },
-      {
          "description" : "GM Vidit Gujrathi is the sole leader at the Tata Steel Chess Tournament after defending brilliantly against GM Daniil Dubov, who played creatively but eventually over-pressed. Co-leaders Jan-Krzysztof Duda and&#38;nbsp;GM Magnus Carlsen drew, while GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1962,14 +1986,6 @@ news_feed (
          "title" : "ECU E-MAGAZINE DECEMBER 2021"
       },
       {
-         "description" : "The Scotch Game (1.e4 e5 2.Nf3 Nc6 3.d4) is a great repertoire addition for any player looking for a solid yet active opening, which relies more on understanding rather than pure memorization. The popularity of the Scotch rose exponentially after Garry Kasparov employed it in the World Championship match against Anatoly Karpov in 1990, and the opening has stayed in style ever since.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-the-scotch-game-by-svitlana-demchenko",
-         "pubDate" : "Wed, 12 Jan 2022 10:00:00 +0100",
-         "title" : "New: The Scotch Game by Svitlana Demchenko"
-      },
-      {
          "description" : " A couple months ago, GM Nigel Short contacted The Chess Drum and mentioned that St. Vincent and the Grenadines would become a provisional FIDE member. At the 92nd General Assembly meeting, St. Vincent as well as Belize, Dominica and Niger became full FIDE members. St. Vincent &#038; Grenadines Back in 2019, Short and Ian Wilkinson [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/11/belize-dominica-niger-and-st-vincent-join-fide/\">Belize, Dominica, Niger, and St. Vincent join FIDE</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2136,14 +2152,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/street-chess-on-news-briefly.html",
          "pubDate" : "Sat, 08 Jan 2022 12:51:00 +0000",
          "title" : "Street Chess on the news (briefly)"
-      },
-      {
-         "description" : "\"Can the Ethiopian change his skin or the leopard his spots?\" (The Bible, Old Testament, Book of Jeremiah) King Edward V (aged twelve but not yet officially crowned) and his brother Richard, aged nine, were locked in the Tower of London, declared illegitimate and allegedly killed by their wicked uncle Richard III, so that he []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-princes-in-the-tower-great-chess-and-the-41-giraffes/",
-         "pubDate" : "Sat, 08 Jan 2022 09:20:50 +0000",
-         "title" : "The princes in the Tower, Great Chess and the 41 giraffes"
       }
    ]
 }
