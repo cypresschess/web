@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Endgame studies sometimes go to extremes, e.g. by demonstrating a win in 584(!) moves in a study, in which King, Rook, two Bishops (standing on the same colour), and pawn fight against King, Queen and Pawn. But are these and similar studies relevant for the theory of the endgame or practical games? It depends. Siegfried Hornecker takes a closer look.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-endgame-studies-endgame-theory",
+         "pubDate" : "Sat, 29 Jan 2022 06:00:00 +0100",
+         "title" : "Study of the Month: Endgame Studies, Endgame Theory"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Harrison Keyser plays a slow, instructive, classical game with a typical structure that every chess player should be familiar with. #chess #tactics #analysis 2021.12.28<br /> Harrison Keyser vs. Polmacarroni, 2021: B38 Sicilian, accelerated fianchetto, Maroczy bind, 6.Be3<br /> <a href=\"https://lichess.org/DnUxLzVV\">https://lichess.org/DnUxLzVV</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/every-chess-player-should-know-structure\"><img src=\"https://saintlouis",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1968,14 +1976,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-the-vergani-cup",
          "pubDate" : "Tue, 11 Jan 2022 20:58:22 +0100",
          "title" : "The Weekly Show: The Vergani Cup"
-      },
-      {
-         "description" : "Paul Keres (January 7, 1916 - June 5, 1975) was the clear favourite in the 1942 Estonian Championship in Tallinn. At the time he was considered a possible challenger to World Champion Alexander Alekhine and was the only world-class player in the field. Nevertheless, it is astonishing how clearly Keres dominated the tournament: he won all 15 games without conceding a single draw. | Photo: Valter Heuer (Archive)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-perfect-score-keres-wins-tallinn-1942-with-15-0-15",
-         "pubDate" : "Tue, 11 Jan 2022 18:08:35 +0100",
-         "title" : "The perfect score: Keres wins Tallinn 1942 with 15.0/15"
       },
       {
          "description" : "<a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1641912240796-LL9C5BH967INKCA2UJYY/Dougonly.jpg\" data-image-dimensions=\"922x740\" data-image-focal-point=\"0.5,0.5\" alt=\"Dougonly.jpg\" data-load=\"false\" data-image-id=\"61dd97b0fc84ea6510a012d6\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1641912240796-LL9C5BH967INKCA2UJYY/Dougonly.jpg?format=1000w\" /><br> </a> <a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5b",
