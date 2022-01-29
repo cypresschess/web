@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen scored a brilliant win over his 2018 World Championship challenger Fabiano Caruana to win a record 8th Tata Steel Masters title and gain 3.1 rating points on the road to 2900. Shakhriyar Mamedyarov gratefully accepted a blunder by Vidit to join Richard Rapport in second place a point behind, but when it was announced that Daniil Dubov couldn't play Magnus on Sunday despite a 2nd, negative, PCR test, the title was confirmed. Sam Shankland stunned Sergey Karjakin in 26 moves, while Arjun Erigaisi will play in the 2023 Tata Steel Masters after cruising to victory.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-8th-wijk-aan-zee-title",
+         "pubDate" : "Sat, 29 Jan 2022 18:03:24 +0000",
+         "title" : "Magnus Carlsen wins 8th Wijk aan Zee title"
+      },
+      {
+         "description" : "The #GibChess Battle of the Sexes reached its halfway point at Gibraltar's Garrison Library on Friday 28 January with a tense 5-5 draw in round five, with the women having White on all boards. The women thus still lead the men by a single point, with 25&frac12; points to the men's 24&frac12;. The match is beautifully poised for a tense second half when play resumes on Sunday | Report and photos by John Saunders",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-2022-round-5",
+         "pubDate" : "Sat, 29 Jan 2022 19:00:00 +0100",
+         "title" : "Battle of the Sexes, Round 5: A tense draw"
+      },
+      {
+         "description" : "Magnus Carlsen beat Fabiano Caruana to claim his eighth tournament title in Wijk aan Zee with a round to spare. The world champion will not even need to show up on Sunday, as the organizers of the tournament confirmed that Daniil Dubov will not be playing despite testing negative to a second Covid-19 PCR test. Meanwhile, Arjun Erigaisi clinched the title in the Challengers, thus getting an invitation to next year's main event. | Replay all games with computer analysis. Full report to follow shortly!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
+         "pubDate" : "Sat, 29 Jan 2022 18:50:00 +0100",
+         "title" : "Tata Steel Chess - Carlsen and Arjun claim titles with a round to spare"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> secured clear first place at <strong>Tata Steel Chess</strong> with one round to go after <a href=\"https://chess24.com/en/watch/live-tournaments/tata-steel-masters-2022/12/1/1\">beating his four highest rated rivals</a> Giri, Rapport, Mamedyarov and Caruana. He adds 3 rating points to climb to 2868. <strong>Arjun Erigaisi</strong> dominated the B or Challengers group and qualified for the 2023 Masters. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">15  - 30 Jan 2022</span>: <a href=\"https://www.chesstech.org/events/2022/tata-steel-chess/\">Tata Steel Chess</a></li> </ul> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/carlsens-wins-tata-steel-climbs-to/",
+         "pubDate" : "Sat, 29 Jan 2022 18:40:20 +0100",
+         "title" : "Carlsens wins Tata Steel, climbs to 2868"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89207312.cms\" />Grandmaster Arjun Erigaisi became the fourth Indian player after P Harikrishna, B Adhiban and Vidit Gujrathi to win the Tata Steel Challengers event at Wijk Aan Zee in The Netherlands on Saturday evening. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,14 +64,6 @@ news_feed (
          "link" : "https://tatasteelchess.com/",
          "pubDate" : "Sat, 29 Jan 2022 14:10:38 +0100",
          "title" : "Tata Steel Chess"
-      },
-      {
-         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
-         "pubDate" : "Sat, 29 Jan 2022 13:50:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : " Chess in Canberra has received some fantastic media coverage of the last few years, due in no small part to James Buckley. He is a sports writer for the Canberra Times, as well as being a more than handy chess player. As a result, a lot of chess coverage ends up being featured in the sports section (alongside cricket or rugby), rather than being relegated to the 'lifestyle' section. Towards the end of February, James is taking part in a 'Special Forces Challenge' to raise money for the Terry Campese Foundation. Along with a number of other Canberra sporting and business identities, James is spending 30 hours being put through the wringer by a 'bunch of ex-army types'. While most of the chal",
@@ -114,6 +138,14 @@ news_feed (
          "title" : "Study of the Month: Endgame Studies, Endgame Theory"
       },
       {
+         "description" : "Anish Giri is all but out of contention for first place at the Tata Steel Masters tournament, as he was defeated by Jorden van Foreest in Friday's eleventh round. Magnus Carlsen signed a draw against Vidit Gujrathi and has a half-point lead over Richard Rapport going into the final weekend of the event. Moreover, Carlsen will get a free point in the last round, when he was supposed to face Daniil Dubov, who had to leave the tournament after testing positive for Covid-19. | Photo: Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r11",
+         "pubDate" : "Sat, 29 Jan 2022 05:55:00 +0100",
+         "title" : "Tata Steel R11: Van Foreest takes down Giri"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Harrison Keyser plays a slow, instructive, classical game with a typical structure that every chess player should be familiar with. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> #chess #tactics #analysis 2021.12.28<br /> Harrison Keyser vs. Polmacarroni, 2021: B38 Sicilian, accelerated fianchetto, Maroczy bind, 6.Be3<br /> <a href=\"https://lichess.org/DnUxLzVV\">https://lichess.org/DnUxLzVV</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrap",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -138,12 +170,12 @@ news_feed (
          "title" : "Tata Steel Masters R10: Carlsen leads, Rapport moves to second position"
       },
       {
-         "description" : "The 12th round of the 2022 Tata Steel Chess Tournament is underway. GM Magnus Carlsen is currently leading the tournament with 7.5/11, while GM Richard Rapport is in clear second place with 7/11. In the Challengers section, GM Arjun Erigaisi is ...",
+         "description" : "GM Magnus Carlsen secured his eighth victory in Wijk aan Zee with a round to spare. The world champion defeated GM Fabiano Caruana on Saturday and now leads the 2022 Tata Steel Chess Tournament by a full point. He will earn a forfeit win tomorrow ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-12",
          "pubDate" : "Fri, 28 Jan 2022 12:18:00 -0800",
-         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 12"
+         "title" : "Tata Steel Chess 2022 R12: Carlsen Wins With Round To Spare"
       },
       {
          "description" : "In his Power Play Show, GM Daniel King looks at tactical moments from the Tata Steel tournaments. The main game under consideration is Caruana vs Rapport which is more strategic and displays Rapport's ambitious and somewhat unorthodox style. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -1066,14 +1098,6 @@ news_feed (
          "title" : "2022 ACT Blitz Championship"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> An extraordinary meeting of the <strong>Play Magnus Group</strong> shareholders <a href=\"https://live.euronext.com/en/product/equities/NO0010890726-MERK#CompanyPressRelease-8417456\">agreed</a> to issue 4,864,753 additional shares at an adjusted prize of NOK 18,30 to <strong>Yuri Milner</strong> for $10 million. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/pmg-accepted-milners-bid/",
-         "pubDate" : "Fri, 21 Jan 2022 13:37:33 +0100",
-         "title" : "PMG accepted Milner's bid"
-      },
-      {
          "description" : " <p class=\"lead\">Round 5 of the <a href=\"https://tatasteelchess.com/players/\">2022 Tata Steel Chess Tournament</a> ended with Mamedyarov and Rapport winning Van Foreest and Rameshbabu respectively and joining Vidit in the lead. All the other games ended in a draw but with the utmost excitement. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.7182130584192\"> <img src=\"https://worldchess.com/news/pictures/LOW00694.jpg\" width=\"1500\" height=\"873\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW00638.jpg\" width=\"1500\" height=\"891\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW00635.jpg\" width=\"1500\" height=\"970\" alt=\"\" /> <img src=\"htt",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1546,14 +1570,6 @@ news_feed (
          "title" : "Tata Steel Chess: Interviews"
       },
       {
-         "description" : "Norway's most infamous bank robber, known as the mastermind behind the biggest heist in the country's history, will join as a guest during TV 2's Tata Steel Chess broadcast. The controversial move has made headlines and provoked strong reactions. Hours after the announcement, one sponsor decided to pull out of the show.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/controversy-as-mastermind-bank-robber-joins-chess-broadcast",
-         "pubDate" : "Mon, 17 Jan 2022 12:32:08 +0000",
-         "title" : "Controversy as 'Mastermind' bank robber joins chess broadcast"
-      },
-      {
          "description" : "World champion Magnus Carlsen joined a three-player leading pack on Sunday by beating Anish Giri with the white pieces. In the only other decisive game of the day in the Masters, Richard Rapport bounced back from his first-round defeat as he took down Jorden van Foreest. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1986,14 +2002,6 @@ news_feed (
          "title" : "Tata Steel Chess Tournament Introduces New Tiebreak Regulations"
       },
       {
-         "description" : "What is the soul of chess? Andr&eacute; Philidor back in the 18th century answered: \"Pawns!\" Aaron Nimzowitsch a century ago claimed in My System: \"Overprotection of strategically important squares.\" Jan Markos' answer to this question is rather different. He is convinced that the essence of chess manifests itself best in domination. | Photo: Evan Amos (Wikipedia)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-4-handcuffs-for-your-opponent",
-         "pubDate" : "Wed, 12 Jan 2022 17:29:28 +0100",
-         "title" : "The Winning Academy 4: Handcuffs for your opponent"
-      },
-      {
          "description" : "All India Chess Federation wishes GM Dronavalli Harika a very happy birthday!! PC : Lennart Ootes &#160;",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2008,14 +2016,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/st-louis-wins-2022-pan-american-intercollegiate-team-championship",
          "pubDate" : "Wed, 12 Jan 2022 02:03:33 -0800",
          "title" : "St. Louis Wins 2022 Pan-American Intercollegiate Team Championship"
-      },
-      {
-         "description" : "After her first Fritztrainer: \"Understanding Material Imbalances\", Svitlana surprises us with her second course:\"The Scotch Game\"! The Canadian WIM gives us a little sneak preview in this episode as an appetizer. If you enjoy the content she created so far, it is highly appreciated if you purchase her Fritztrainers.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-26",
-         "pubDate" : "Wed, 12 Jan 2022 11:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - The Scotch Game Fritztrainer!"
       },
       {
          "description" : "ECU E-Magazine December 2021 is out! In this edition of the ECU E-Magazine you may read about: FIDE World Chess Championship 2021 European Rapid&#38;Blitz Chess Championships 2021 European Youth Rapid&#38;Blitz Chess Championships 2021 FIDE World Rapid&#38;Blitz Chess Championships 2021 European Online Rapid School Chess Championship 2021 European Individual Chess Championship 2022 Invitation The 2022 The &#8220;Year&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-december-2021/\">Read More &#187;</a></span>",
