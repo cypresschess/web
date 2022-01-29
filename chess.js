@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White has a shortcut to victory, enabling him to hunt down Black's king ... or his queen on h1! Can you work it all out in your head?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/no-endgame-technique-required",
+         "pubDate" : "Sat, 29 Jan 2022 09:00:00 +0100",
+         "title" : "No endgame technique required!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89196948.cms\" />Five-time chess world champion Viswanathan Anand has been roped in as a mentor of the Indian players looking to break into the team for the Asian Games in Hangzhou, China, where the sport will make a comeback after a gap of 12 years.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/legendary-viswanathan-anand-to-mentor-indian-chess-players-ahead-of-asian-games/articleshow/89196948.cms",
+         "pubDate" : "Sat, 29 Jan 2022 12:47:35 +0530",
+         "title" : "Viswanathan Anand to mentor Indian chess players ahead of Asian Games"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89195233.cms\" />Indian Grandmaster Vidit Gujrathi held world No. 1 Magnus Carlsen to a draw in the 11th round of the Tata Steel Masters chess tournament to jointly occupy the fourth place with six points.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-masters-vidit-gujrathi-holds-magnus-carlsen-to-draw-r-praggnanandhaa-loses-to-fabiano-caruana/articleshow/89195233.cms",
+         "pubDate" : "Sat, 29 Jan 2022 11:22:08 +0530",
+         "title" : "Tata Steel Masters: Vidit Gujrathi holds Magnus Carlsen to draw, R Praggnanandhaa loses to Fabiano Caruana"
+      },
+      {
          "description" : "Endgame studies sometimes go to extremes, e.g. by demonstrating a win in 584(!) moves in a study, in which King, Rook, two Bishops (standing on the same colour), and pawn fight against King, Queen and Pawn. But are these and similar studies relevant for the theory of the endgame or practical games? It depends. Siegfried Hornecker takes a closer look.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1968,14 +1992,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1519",
          "pubDate" : "Tue, 11 Jan 2022 20:54:18 +0000",
          "title" : "Enamul Hossain and Jannatul Ferdous win Bangladesh Championship"
-      },
-      {
-         "description" : "In his \"Weekly Show\" Lawrence Trent takes a look at the Vergani Cup, focusing on the performance of Nurgyul Salimova who scored a GM norm. A fantastic performance by the Bulgarian youngster! The game of the day is Nigel Short's encounter with Salimova. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-the-vergani-cup",
-         "pubDate" : "Tue, 11 Jan 2022 20:58:22 +0100",
-         "title" : "The Weekly Show: The Vergani Cup"
       },
       {
          "description" : "<a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1641912240796-LL9C5BH967INKCA2UJYY/Dougonly.jpg\" data-image-dimensions=\"922x740\" data-image-focal-point=\"0.5,0.5\" alt=\"Dougonly.jpg\" data-load=\"false\" data-image-id=\"61dd97b0fc84ea6510a012d6\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1641912240796-LL9C5BH967INKCA2UJYY/Dougonly.jpg?format=1000w\" /><br> </a> <a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5b",
