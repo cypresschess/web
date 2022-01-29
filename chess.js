@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The twelfth round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Saturday, January 29. GM Magnus Carlsen is currently leading the tournament with 7.5/11, while GM Richard Rapport is in clear second place with 7/11. In t...",
+         "description" : "Daniil Dubov forfeited his Round 7 game against Anish Giri while waiting for a PCR test, but when that came up negative he continued the Tata Steel Masters. Not for long, however, as just before Round 11 began it was announced that he'd tested positive and his remaining games, against Richard Rapport, Praggnanandhaa and Magnus Carlsen, would be forfeit wins for his opponents. Daniil then appeared on our chess24 broadcast and talked about how he's feeling, what happened and what happens next.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/daniil-dubov-on-forfeits-masks-testing-positive-and-playing-in-berlin",
+         "pubDate" : "Sat, 29 Jan 2022 00:17:16 +0000",
+         "title" : "Dubov on forfeits, masks, testing positive and playing in Berlin"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1549",
+         "pubDate" : "Fri, 28 Jan 2022 22:56:53 +0000",
+         "title" : "Tata Steel Masters R10: Carlsen leads, Rapport moves to second position"
+      },
+      {
+         "description" : "The 12th round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Saturday, January 29. GM Magnus Carlsen is currently leading the tournament with 7.5/11, while GM Richard Rapport is in clear second place with 7/11. In the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-12",
-         "pubDate" : "Fri, 28 Jan 2022 12:18:06 -0800",
+         "pubDate" : "Fri, 28 Jan 2022 12:18:00 -0800",
          "title" : "How To Watch Tata Steel Chess 2022 Round 12"
       },
       {
@@ -330,7 +346,7 @@ news_feed (
          "title" : "The Weekly Show: Battle of the Sexes"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Nils Grandelius and Fabiano Caruana. The mysterious masked Josh is impressed with the fight in this game. Thumbnail: Lennart Ootes 2022.01.25<br /> Nils Grandelius vs Fabiano Caruana, 84th Tata Steel Masters (2022): C02 French, advance, Euwe variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2229054\">https://www.chessgames.com/perl/chessgame?gid=2229054</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidd",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Nils Grandelius and Fabiano Caruana. The mysterious masked Josh is impressed with the fight in this game. 2022.01.25<br /> Nils Grandelius vs Fabiano Caruana, 84th Tata Steel Masters (2022): C02 French, advance, Euwe variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2229054\">https://www.chessgames.com/perl/chessgame?gid=2229054</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-tata-steel-grandelius-vs-caruana-gm-josh-friedel",
@@ -1586,14 +1602,6 @@ news_feed (
          "title" : "Tata Steel R1: Three winners on opening day"
       },
       {
-         "description" : "Magnus Carlsen missed a chance to get revenge for last year's loss to Andrey Esipenko when he took a 21-move draw in Round 1 of the 2022 Tata Steel Masters. Fabiano Caruana and Shakhriyar Mamedyarov also spoilt winning positions against Sergey Karjakin and Daniil Dubov, allowing three players to snatch the early lead. Jan-Krzysztof Duda entered the live Top 10 with a win over Richard Rapport, defending champion Jorden van Foreest beat Nils Grandelius, and Vidit won the day's longest game as he ground down Sam Shankland in a six-hour marathon.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-chess-1-duda-vidit-jorden-win-as-top-seeds-misfire",
-         "pubDate" : "Sat, 15 Jan 2022 20:17:27 +0000",
-         "title" : "Tata Steel 1: Duda, Vidit, Jorden win, as top seeds misfire"
-      },
-      {
          "description" : " <p class=\"lead\">Day 1 of the <a href=\"https://tatasteelchess.com\">Tata Steel Chess Tournament 2022</a> is over with GMs Van Foreest, Duda and Vidit leading the event, while Carlsen, Mamedyarov and Caruana missed their chances. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1920\" data-ratio=\"1.8216318785579\"> <img src=\"https://worldchess.com/news/pictures/low08500-lennart-ootes-min_optimized.jpeg\" width=\"1920\" height=\"1054\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/low08481-lennart-ootes-min_optimized.jpeg\" width=\"1920\" height=\"1245\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/low08363-lennart-ootes-min_optimized-1.jpeg\" width=\"1920\" height=\"1294\"",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2120,14 +2128,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-princes-in-the-tower-great-chess-and-the-41-giraffes/",
          "pubDate" : "Sat, 08 Jan 2022 09:20:50 +0000",
          "title" : "The princes in the Tower, Great Chess and the 41 giraffes"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1514",
-         "pubDate" : "Fri, 07 Jan 2022 21:31:52 +0000",
-         "title" : "Uruguayan Championship: Bernardo Roselli wins third straight title"
       }
    ]
 }
