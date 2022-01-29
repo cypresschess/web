@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89207312.cms\" />Grandmaster Arjun Erigaisi became the fourth Indian player after P Harikrishna, B Adhiban and Vidit Gujrathi to win the Tata Steel Challengers event at Wijk Aan Zee in The Netherlands on Saturday evening. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-wins-tata-steel-challengers-with-a-round-to-spare/articleshow/89207312.cms",
+         "pubDate" : "Sat, 29 Jan 2022 21:09:32 +0530",
+         "title" : "Arjun Erigaisi wins Tata Steel Challengers with a round to spare"
+      },
+      {
+         "description" : "With 8 months left for the Asian Games 2022 to kick start at Hangzhou, China from 10 September, All India Chess Federation is hopeful for",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/india-eyeing-rich-medal-haul-in-asian-games-chess/",
+         "pubDate" : "Sat, 29 Jan 2022 15:01:25 +0000",
+         "title" : "India eyeing rich medal haul in Asian Games Chess"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89205069.cms\" />As chess makes a return to the Asian Games for the first time since the 2010 Guangzhou edition in China, India will be hoping for a medal rush. The AICF (All India Chess Federation), on Saturday, named five-time former World champion Viswanathan Anand as the team mentor. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-expects-strong-finish-for-india-at-asian-games/articleshow/89205069.cms",
+         "pubDate" : "Sat, 29 Jan 2022 19:16:24 +0530",
+         "title" : "AICF expects strong finish for India at Asian Games"
+      },
+      {
+         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Tata Steel Chess</strong> <strong>Individual tournament, <time datetime='2022-01-15' itemprop=\"startDate\">Sat-Sun 15  - 30 Jan 2022</time><br> <span itemprop='location'>Wijk aan Zee</span> </strong> <div itemprop=\"description\"> <div class=\"image right\"><figure> <a href=\"https://www.chesstech.org/files/2022/events/tata-steel-chess-2022.png?v=1\" class=\"js-img\" title=\"Tata Steel Chess 2022 \" data-title=\"Tata Steel Chess 2022 \"><img src=\"https://www.chesstech.org/files/2022/events/tata-steel-chess-2022.480.png?v=1\" srcset=\"https://www.chesstech.org/files/2022/events/tata-steel-chess-2022.480.p",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://tatasteelchess.com/",
+         "pubDate" : "Sat, 29 Jan 2022 14:10:38 +0100",
+         "title" : "Tata Steel Chess"
+      },
+      {
+         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
+         "pubDate" : "Sat, 29 Jan 2022 13:50:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : " Chess in Canberra has received some fantastic media coverage of the last few years, due in no small part to James Buckley. He is a sports writer for the Canberra Times, as well as being a more than handy chess player. As a result, a lot of chess coverage ends up being featured in the sports section (alongside cricket or rugby), rather than being relegated to the 'lifestyle' section. Towards the end of February, James is taking part in a 'Special Forces Challenge' to raise money for the Terry Campese Foundation. Along with a number of other Canberra sporting and business identities, James is spending 30 hours being put through the wringer by a 'bunch of ex-army types'. While most of the chal",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/survival-of-smartest.html",
+         "pubDate" : "Sat, 29 Jan 2022 12:35:00 +0000",
+         "title" : "Survival of the Smartest?"
+      },
+      {
          "description" : "Magnus Carlsen missed a win over Vidit but will still clinch tournament victory on Saturday if he draws with Fabiano Caruana while Richard Rapport fails to beat Andrey Esipenko. Magnus will now get a forfeit win in the final round after Daniil Dubov tested positive, while Anish Giri's challenge was ended by a brilliant win for Jorden van Foreest. Caruana goes into the showdown with Magnus in high spirits after a fine win over Praggnanandhaa, while in the Challengers Arjun Erigaisi needs a draw to seal a place in next year's Masters.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -90,12 +138,12 @@ news_feed (
          "title" : "Tata Steel Masters R10: Carlsen leads, Rapport moves to second position"
       },
       {
-         "description" : "The 12th round of the 2022 Tata Steel Chess Tournament starts at 5 a.m. PT/14:00 CET on Saturday, January 29. GM Magnus Carlsen is currently leading the tournament with 7.5/11, while GM Richard Rapport is in clear second place with 7/11. In the ...",
+         "description" : "The 12th round of the 2022 Tata Steel Chess Tournament is underway. GM Magnus Carlsen is currently leading the tournament with 7.5/11, while GM Richard Rapport is in clear second place with 7/11. In the Challengers section, GM Arjun Erigaisi is ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-12",
          "pubDate" : "Fri, 28 Jan 2022 12:18:00 -0800",
-         "title" : "How To Watch Tata Steel Chess 2022 Round 12"
+         "title" : "Watch LIVE: Tata Steel Chess 2022 Round 12"
       },
       {
          "description" : "In his Power Play Show, GM Daniel King looks at tactical moments from the Tata Steel tournaments. The main game under consideration is Caruana vs Rapport which is more strategic and displays Rapport's ambitious and somewhat unorthodox style. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -146,7 +194,7 @@ news_feed (
          "title" : "Berlin FIDE Grand Prix: Candidates last chance saloon"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Daniil Dubov</strong> tested positive for Covid-19 on the final rest day of the <strong>Tata Steel Chess Tournament</strong> and forfeits his last three games against Rapport, Praggnanandhaa and Carlsen. Earlier three coaches tested positive and had to go into isolation. One of them was with Dubov, so he was asked to play round seven with a mask, which he refused and forfeited against Giri. With forfeits against the three tournament leaders Carlsen, Giri and Rapport, the impact of his exclusion is limited. </div> ",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Daniil Dubov</strong> tested positive for Covid-19 on the final rest day of the <strong>Tata Steel Chess Tournament</strong> and forfeits his last three games against Rapport, Praggnanandhaa and Carlsen. Earlier three coaches tested positive and had to go into isolation. One of them was with Dubov, so he was asked to play round seven with a mask, which he refused and forfeited against Giri. With forfeits against the three tournament leaders Carlsen, Giri and Rapport, the impact of his exclusion is limited. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">15  - 30 Jan 2022</span>: <a href=\"https://www.ches",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/dubov-out-after-positive-test/",
@@ -176,14 +224,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty/",
          "pubDate" : "Fri, 28 Jan 2022 13:08:11 +0000",
          "title" : "A Foundation for Beginners Fifty"
-      },
-      {
-         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
-         "pubDate" : "Fri, 28 Jan 2022 13:45:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "The fourth round of the #GibChess Battle of the Sexes at Gibraltar's Garrison Library, ended in a narrow victory for the men's team by 5&frac12;-4&frac12;, wielding the white pieces for the second time. This was Team Sabino's second successive victory, following the women's double success in the first two rounds but of course only game points are relevant and Team Pia remain in the lead by a single point. The score is thus 20&frac12; to the women, 19&frac12; to the men. John Saunders reports. | Photos: John Saunders | Photo: Steven Linares, Gibraltar Minister for Housing, Employment, Youth and Sport, makes the opening move for Eric Rosen against Olga Girya",
@@ -2082,14 +2122,6 @@ news_feed (
          "title" : "European Individual Chess Championship 2022 - Official regulations"
       },
       {
-         "description" : "The Senior National Chess Championship 2022 scheduled at Kanpur from 09-21 Feb 2022 has been postponed due to forthcoming Uttar Pradesh assembly election as well",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-chess-championship-postponed-2/",
-         "pubDate" : "Mon, 10 Jan 2022 09:30:57 +0000",
-         "title" : "Senior National Chess Championship postponed"
-      },
-      {
          "description" : "Harry gained his first IM norm with a terrific score of 7/9 to take joint top spot in the Roquetas Open. Along the way he...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2144,14 +2176,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nfl-superstar-leveon-bell-cant-believe-how-perfect-chess-is/",
          "pubDate" : "Sun, 09 Jan 2022 11:40:29 +0000",
          "title" : "NFL Superstar Le'Veon Bell Discovers Chess, Tweets a Lot"
-      },
-      {
-         "description" : " The lead story on the ABC News (Canberra) this evening was about new health restrictions in Canberra. Street Chess was part of the background footage, which you can see via this link <a href=\"https://iview.abc.net.au/video/NU2204C007S00\">https://iview.abc.net.au/video/NU2204C007S00</a> The story is the lead item so you only have to watch the first minute or two. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/street-chess-on-news-briefly.html",
-         "pubDate" : "Sat, 08 Jan 2022 12:51:00 +0000",
-         "title" : "Street Chess on the news (briefly)"
       }
    ]
 }
