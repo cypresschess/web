@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser plays a slow, instructive, classical game with a typical structure that every chess player should be familiar with. #chess #tactics #analysis 2021.12.28<br /> Harrison Keyser vs. Polmacarroni, 2021: B38 Sicilian, accelerated fianchetto, Maroczy bind, 6.Be3<br /> <a href=\"https://lichess.org/DnUxLzVV\">https://lichess.org/DnUxLzVV</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/every-chess-player-should-know-structure\"><img src=\"https://saintlouis",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/every-chess-player-should-know-structure",
+         "pubDate" : "Sat, 29 Jan 2022 02:17:00 +0000",
+         "title" : "Every Chess Player Should Know THIS Structure"
+      },
+      {
          "description" : "Daniil Dubov forfeited his Round 7 game against Anish Giri while waiting for a PCR test, but when that came up negative he continued the Tata Steel Masters. Not for long, however, as just before Round 11 began it was announced that he'd tested positive and his remaining games, against Richard Rapport, Praggnanandhaa and Magnus Carlsen, would be forfeit wins for his opponents. Daniil then appeared on our chess24 broadcast and talked about how he's feeling, what happened and what happens next.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1104,14 +1112,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-back-to-defend-meltwater-champions-chess-tour-title",
          "pubDate" : "Thu, 20 Jan 2022 10:00:01 +0000",
          "title" : "Carlsen back to defend Meltwater Champions Chess Tour title"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev analyzes games that liquidated immediately from the opening. The mysterious masked Atanas has no time for the middlegame! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/straight-opening-endgame-insane-endgame-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aSJf7DggP8Q.jpg?itok=N-vyysyq\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/straight-opening-endgame-insane-endgame-gm-atanas-kolev",
-         "pubDate" : "Thu, 20 Jan 2022 02:08:28 +0000",
-         "title" : "Straight from the Opening to the Endgame | Insane in the Endgame - GM Atanas Kolev"
       },
       {
          "description" : "GMs Shakhriyar Mamedyarov and Richard Rapport both won their games in round five of the 2022 Tata Steel Chess Tournament to catch GM Vidit Gujrathi in first place.&#38;nbsp;GM Magnus Carlsen drew an exciting game with GM Nils Grandelius. How to watc...",
