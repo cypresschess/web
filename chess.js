@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Black is supposed to lose quickly in the King&#039;s gambit, not the other way around! Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> Played on lichess.org<br /> #chess #gambits #arcg3 2022.01.06<br /> RomanGunko vs. Harrison Keyser, 2022: D26 Queen&#039;s Gambit Accepted, 4...e6<br /> <a href=\"https://lichess.org/XLqgbW2HwM8m\">https://lichess.org/XLqgbW2HwM8m</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div cla",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/i-beat-kings-gambit-14-moves",
+         "pubDate" : "Sun, 30 Jan 2022 02:17:54 +0000",
+         "title" : "I Beat the King's Gambit in 14 Moves"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Illia Nyzhnyk ties for first in his best-performing Titled Tuesday on Chess.com. 2022.01.18 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-nyzhnyks-best-titled-tuesday-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/I-eBn7drGRc.jpg?itok=xHjOrrYg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-nyzhnyks-best-titled-tuesday-chesscom",
+         "pubDate" : "Sun, 30 Jan 2022 02:17:54 +0000",
+         "title" : "GM Nyzhnyk's BEST Titled Tuesday | Chess.com"
+      },
+      {
+         "description" : "The final round of the 2022 Tata Steel Chess Tournament starts at 3 a.m. PT/12:00 CET on Sunday, January 30. GM Magnus Carlsen has already won the tournament with a round to spare, but there are still a lot of great matchups in store for the 13th ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-13",
+         "pubDate" : "Sat, 29 Jan 2022 17:00:00 -0800",
+         "title" : "How To Watch The Final Round Of Tata Steel Chess 2022"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -18,7 +42,7 @@ news_feed (
          "title" : "Carlsen wins the Tata Steel Masters and Erigaisi the Challengers both with a round to spare - 12"
       },
       {
-         "description" : "Magnus Carlsen scored a brilliant win over his 2018 World Championship challenger Fabiano Caruana to win a record 8th Tata Steel Masters title and gain 3.1 rating points on the road to 2900. Shakhriyar Mamedyarov gratefully accepted a blunder by Vidit to join Richard Rapport in second place a point behind, but when it was announced that Daniil Dubov couldn't play Magnus on Sunday despite a 2nd, negative, PCR test, the title was confirmed. Sam Shankland stunned Sergey Karjakin in 26 moves, while Arjun Erigaisi will play in the 2023 Tata Steel Masters after cruising to victory.",
+         "description" : "Magnus Carlsen scored a brilliant win over his 2018 World Championship challenger Fabiano Caruana to win a record 8th Tata Steel Masters title. Shakhriyar Mamedyarov gratefully accepted a blunder by Vidit to join Richard Rapport in second place a point behind, but when it was announced that Daniil Dubov couldn't play Magnus on Sunday despite a 2nd, negative, PCR test, the title was confirmed. Sam Shankland stunned Sergey Karjakin in just 26 moves, while Arjun Erigaisi will play in the 2023 Tata Steel Masters after cruising to victory with 9.5/12 in the Challengers.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-8th-wijk-aan-zee-title",
@@ -634,14 +658,6 @@ news_feed (
          "title" : "Tata Steel Masters R09: Carlsen wins, regains the lead"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Nils Grandelius-Caruana and Fabiano Caruana. Thumbnail: Lennart Ootes 2022.01.25<br /> Nils Grandelius vs Fabiano Caruana, 84th Tata Steel Masters (2022): ???<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2229054\">https://www.chessgames.com/perl/chessgame?gid=2229054</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-tata-steel-grandelius-caruana-insane-endgame-gm-josh-fr",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-tata-steel-grandelius-caruana-insane-endgame-gm-josh-friedel-lichessorg",
-         "pubDate" : "Tue, 25 Jan 2022 20:14:09 +0000",
-         "title" : "2022 Tata Steel: Grandelius-Caruana | Insane in the Endgame - GM Josh Friedel | lichess.org"
-      },
-      {
          "description" : " Magnus Carlsen beat joint leader Shakhriyar Mamedyarov to take the sole lead in the Tata Steel Masters. The game was a sharp open Catalan. Carlsen wasn't surprised that Mamedyarov gave up the exchange and he had decent compensation for it but after 18...h6? (18...Be6 and the game continues) things fell apart for black at rapid speed. Anish Giri stayed in contention by beating Sam Shankland in a drawish theoretical endgame. After 24...b6? (24...e4 or Nf7 were necessary) 25.g4! Shankland's position just collapsed. Vidit Gujrathi stayed in contention after holding a tricky endgame against Richard Rapport. Sergey Karjakin won a wild game where he really took some risks against Praggnanandhaa to",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1168,14 +1184,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-vidit-gujrathi-draws-with-anish-giri-in-joint-lead-with-mamedyarov-and-rapport/articleshow/89031528.cms",
          "pubDate" : "Fri, 21 Jan 2022 10:03:14 +0530",
          "title" : "Tata Steel Chess: Vidit draws with Anish, stays in joint lead"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Atanas Kolev talks about deciding what opening lines to play. The mysterious masked Atanas gives you insight into his own playbook! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kolevs-opening-preparation-grandmasters-choice-gm-atanas-kolev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/W-A2blo_qUI.jpg?itok=LGCSSqug\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kolevs-opening-preparation-grandmasters-choice-gm-atanas-kolev",
-         "pubDate" : "Fri, 21 Jan 2022 02:09:02 +0000",
-         "title" : "Kolev's Opening Preparation | Grandmaster's Choice - GM Atanas Kolev"
       },
       {
          "description" : "With a fairly smooth win vs. GM Richard Rapport, World Champion Magnus Carlsen joined the leaders in round six of the&#38;nbsp;2022 Tata Steel Chess Tournament. GM Fabiano Caruana had just equalized a tough position in time-trouble vs. GM Anish Giri w...",
@@ -2104,14 +2112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1515",
          "pubDate" : "Mon, 10 Jan 2022 17:57:55 +0000",
          "title" : "Decisions of 2021 4th FIDE Council Meeting"
-      },
-      {
-         "description" : "World Chess, the organizer and owner of the commercial rights of the FIDE Grand Prix, has contacted participants about their personal sponsorship. GMs Anish Giri and Vidit Gujrathi reacted on Twitter, suggesting World Chess is trying to get &#34;a cut...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/world-chess-fide-grand-prix-sponsor-giri-vidit-nakamura",
-         "pubDate" : "Mon, 10 Jan 2022 09:32:00 -0800",
-         "title" : "Nakamura Supports Giri, Vidit In Clash With Grand Prix Organizer Over Sponsorship"
       },
       {
          "description" : "",
