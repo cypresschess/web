@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " As I type this, Magnus Carlsen is enjoying another victory at the Tata Steel tournament, aided in part by a last round walkover win against Daniil Dubov. This was due to fact that Dubov had to leave the tournament early, having tested positive to Covid 3 rounds before the end. While this could be considered a bit of bad luck for Dubov, it should be noted that he also defaulted his game against Giri after being required to wear a mask due to a positive test of a close contact. In the end Carlsen finished on 9.5/13 (+6=7-0) including wins against players who finished just behind him in the standings. There had been talk of Carlsen breaking the 2900 rating mark before the event began, and if h",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/01/not-quite-finish-intended.html",
+         "pubDate" : "Sun, 30 Jan 2022 11:58:00 +0000",
+         "title" : "Not quite the finish intended"
+      },
+      {
+         "description" : " <p class=\"lead\">Round 12 of the <a href=\"https://tatasteelchess.com\">2022 Tata Steel Chess Tournament</a> ended with a new Champion! Magnus Carlsen takes the title from Van Foreest and his eighth Tata Steel Title in total. After beating GM Fabiano Caruana and being assured with one more point from his last match in the tournament against Dubov, Carlsen will watch R13 today relaxed and insusceptible. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/LOW03401.jpg\" width=\"1500\" height=\"726\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: © Lennart Ootes - Tata Steel Chess Tournament 2022</div> </div> In his final game of this year's Masters, Carlsen picked the Sicilian",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/carlsen-wins-the-2022-tata-steel-chess-tournament-for-the-eighth/",
+         "pubDate" : "Sun, 30 Jan 2022 11:22:04 +0000",
+         "title" : "Carlsen wins the 2022 Tata Steel Chess Tournament for the eighth time"
+      },
+      {
          "description" : "The Grandmasters Dr. Karsten Mueller and Luis Engel have set a ball rolling in Germany with their latest Fritztrainer. GM Lars Bo Hansen designed the four-player model in 2005, and was perhaps ahead of his time. In the 5-part interview with Dr. Karsten Mueller, all four player types are discussed in detail. Today - The Activist.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2184,14 +2200,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/who-says-draws-are-boring.html",
          "pubDate" : "Sun, 09 Jan 2022 12:36:00 +0000",
          "title" : "Who says draws are boring?"
-      },
-      {
-         "description" : " <p class=\"lead\">Le'Veon Bell is an American football running back for the Tampa Bay Buccaneers of the National Football League (NFL), and very recently he discovered the magic of chess. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/usa_today_15327121.0.jpg-2.jpg\" width=\"1820\" height=\"1213\" alt=\"\" /> <div class=\"e2-text-caption\">Jasen Vinlove-USA TODAY Sports</div> </div> The NFL superstar was so impressed with chess that on January the 7th, he couldn't stop tweeting about it! <a href=\"https://twitter.com/LeVeonBell/status/1479265809365192706\">https://twitter.com/LeVeonBell/status/1479265809365192706</a> <a href=\"https://twitter.com/LeVeonBell/status/1479266135",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nfl-superstar-leveon-bell-cant-believe-how-perfect-chess-is/",
-         "pubDate" : "Sun, 09 Jan 2022 11:40:29 +0000",
-         "title" : "NFL Superstar Le'Veon Bell Discovers Chess, Tweets a Lot"
       }
    ]
 }
