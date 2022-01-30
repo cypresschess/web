@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Southport. A place Nigel knows well, I believe. I went there myself once, probably in the late 1960s, when visiting relations in nearby Ormskirk. But if I'd visited in 1905 I'd have witnessed the 2nd British Chess Championships, where the great Henry Ernest Atkins ran out a comfortable winner of the top section. Here's a <a href=\"https://chessimprover.com/a-rook-ending-from-southport/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Rook Ending from Southport\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-rook-ending-from-southport/\">A Rook Ending from Southport</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Ches",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-rook-ending-from-southport/",
+         "pubDate" : "Sun, 30 Jan 2022 14:20:37 +0000",
+         "title" : "A Rook Ending from Southport"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 64th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the \"power of the diagonal\". | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-64-the-power-of-the-diagonal",
+         "pubDate" : "Sun, 30 Jan 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 64: The power of the diagonal"
+      },
+      {
+         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. After four matches the women (team Pia) lead by 20.5-19.5. Will the men (Team Sabino) equalise the score or go ahead in round 5? The rounds start daily at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
+         "pubDate" : "Sun, 30 Jan 2022 14:55:00 +0100",
+         "title" : "Battle of the Sexes: Round 6 - Live"
+      },
+      {
+         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
+         "pubDate" : "Sun, 30 Jan 2022 13:55:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : " As I type this, Magnus Carlsen is enjoying another victory at the Tata Steel tournament, aided in part by a last round walkover win against Daniil Dubov. This was due to fact that Dubov had to leave the tournament early, having tested positive to Covid 3 rounds before the end. While this could be considered a bit of bad luck for Dubov, it should be noted that he also defaulted his game against Giri after being required to wear a mask due to a positive test of a close contact. In the end Carlsen finished on 9.5/13 (+6=7-0) including wins against players who finished just behind him in the standings. There had been talk of Carlsen breaking the 2900 rating mark before the event began, and if h",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2002,30 +2034,6 @@ news_feed (
          "title" : "Endgame Challenge Rerun"
       },
       {
-         "description" : "Chances are that like most ambitious chess players all over the world you already have Mega Database 2022, with 9.2 million high quality games, more than 100,000 with expert analysis. But do you know how to use Mega properly, how to conduct instant preparation for your next opponent? How you can use it to improve your repertoire. Let an experienced chess trainer show you how: IM Sagar Shah does it in this tutorial video. Watching it can be the most profitable 7&frac12; minutes you have spent on your chess improvement in a long time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-to-use-mega-database-3",
-         "pubDate" : "Thu, 13 Jan 2022 10:15:45 +0100",
-         "title" : "How to use: Mega Database 2022"
-      },
-      {
-         "description" : "At the end of last year, ChessBase launched a Fritz 18 brilliancy competition, and the winners have now been drawn. We got games from 30 years ago, including photos of original documents, online blitz games and many games against the new Fritz 18 engine. The winners will receive private training with GM Kasimdzhanov, an online blitz tournament against a GM, and vouchers worth 25-50 euros.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-fritz-18-brilliancy-winners",
-         "pubDate" : "Wed, 12 Jan 2022 21:00:00 +0100",
-         "title" : "The Fritz 18 Brilliancy Winners!"
-      },
-      {
-         "description" : "In the \"Game of the Week\" show Merijn van Delft presents a nice game from the Prague Open, in which Dutch IM Arthur Pijpers demonstrates why it is important to develop his pieces swiftly. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-498-a-fine-miniature-from-the-prague-open",
-         "pubDate" : "Wed, 12 Jan 2022 19:00:00 +0100",
-         "title" : "Game of the Week #498: A fine miniature from the Prague Open"
-      },
-      {
          "description" : "GM Alexey Sarana won Titled Tuesday on January 11 with a score of 9.5/11, a week after finishing in second place. He won on tiebreaks over second-place GM Aram Hakobyan and third-place Kacper Piorun. The top 10 was rounded out by seven players on ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2176,30 +2184,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/pleased-to-have-played-good-chess-bharath-subramaniyam/articleshow/88795654.cms",
          "pubDate" : "Sun, 09 Jan 2022 22:09:05 +0530",
          "title" : "Pleased to have played good chess: Bharath Subramaniyam"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88795441.cms\" />Indian Grandmaster MR Lalith Babu won the Vergani Cup chess tournament on the basis of better tie-break score after he was tied with three others, including top-seed Anton Korobov, here on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/lalith-babu-wins-vergani-cup/articleshow/88795441.cms",
-         "pubDate" : "Sun, 09 Jan 2022 21:38:27 +0530",
-         "title" : "Lalith Babu wins Vergani Cup"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88795287.cms\" />Fourteen-year old Bharath Subramaniyam on Sunday became India's 73rd chess Grandmaster, securing the third and final GM norm at an event in Italy.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/bharath-subramaniyam-becomes-indias-73rd-chess-gm/articleshow/88795287.cms",
-         "pubDate" : "Sun, 09 Jan 2022 21:29:42 +0530",
-         "title" : "Bharath Subramaniyam becomes India's 73rd chess GM"
-      },
-      {
-         "description" : " While most people think that a drawn game is more often then not a 'non-result', I just think they need to watch a little more cricket! ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/who-says-draws-are-boring.html",
-         "pubDate" : "Sun, 09 Jan 2022 12:36:00 +0000",
-         "title" : "Who says draws are boring?"
       }
    ]
 }
