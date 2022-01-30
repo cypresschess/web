@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1550",
+         "pubDate" : "Sat, 29 Jan 2022 23:17:18 +0000",
+         "title" : "Carlsen wins Tata Steel Masters 2022 with a round to spare"
+      },
+      {
+         "description" : " Magnus Carlsen won his eighth Tata Steel Masters title (2008 shared - 2010, 2013, 2015, 2016, 2018, 2019 and now 2022) by winning his fifth game of the event. Carlsen said he was very motivated today in his game against Fabiano Caruana who likewise was looking for a fight. This was Carlsen's final game of the tournament as he was due to play Daniil Dubov in the final round but who has tested positive for Covid-19. It not surprisingly seemed important to Carlsen that this tournament victory wasn't due to this default. Caruana played a Rossolimo Sicilian with white but didn't get much and the game was equal after 19.Qa3 (19.c4!?) then after 26.f3 Caruana allowed the strong exchange sacrifice ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-wins-the-tata-steel-masters-and-erigaisi-the-challengers-both-with-a-round-to-spare",
+         "pubDate" : "Sat, 29 Jan 2022 22:58:00 +0400",
+         "title" : "Carlsen wins the Tata Steel Masters and Erigaisi the Challengers both with a round to spare - 12"
+      },
+      {
          "description" : "Magnus Carlsen scored a brilliant win over his 2018 World Championship challenger Fabiano Caruana to win a record 8th Tata Steel Masters title and gain 3.1 rating points on the road to 2900. Shakhriyar Mamedyarov gratefully accepted a blunder by Vidit to join Richard Rapport in second place a point behind, but when it was announced that Daniil Dubov couldn't play Magnus on Sunday despite a 2nd, negative, PCR test, the title was confirmed. Sam Shankland stunned Sergey Karjakin in 26 moves, while Arjun Erigaisi will play in the 2023 Tata Steel Masters after cruising to victory.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
