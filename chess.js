@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen beat Fabiano Caruana to claim his eighth tournament title in Wijk aan Zee with a round to spare. The world champion will not even need to show up for Sunday's final round, as the organizers of the tournament confirmed that Daniil Dubov will not be playing despite testing negative to a second Covid-19 PCR test. Meanwhile, Arjun Erigaisi clinched the title in the Challengers, thus getting an invitation to next year's main event. | Photo: Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r12",
+         "pubDate" : "Sun, 30 Jan 2022 07:10:00 +0100",
+         "title" : "Magnus Carlsen grabs eighth title in Wijk aan Zee"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Black is supposed to lose quickly in the King&#039;s gambit, not the other way around! Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> Played on lichess.org<br /> #chess #gambits #arcg3 2022.01.06<br /> RomanGunko vs. Harrison Keyser, 2022: D26 Queen&#039;s Gambit Accepted, 4...e6<br /> <a href=\"https://lichess.org/XLqgbW2HwM8m\">https://lichess.org/XLqgbW2HwM8m</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div cla",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/battle-of-the-sexes-2022-round-5",
          "pubDate" : "Sat, 29 Jan 2022 19:00:00 +0100",
          "title" : "Battle of the Sexes, Round 5: A tense draw"
-      },
-      {
-         "description" : "Magnus Carlsen beat Fabiano Caruana to claim his eighth tournament title in Wijk aan Zee with a round to spare. The world champion will not even need to show up on Sunday, as the organizers of the tournament confirmed that Daniil Dubov will not be playing despite testing negative to a second Covid-19 PCR test. Meanwhile, Arjun Erigaisi clinched the title in the Challengers, thus getting an invitation to next year's main event. | Replay all games with computer analysis. Full report to follow shortly!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
-         "pubDate" : "Sat, 29 Jan 2022 18:50:00 +0100",
-         "title" : "Tata Steel Chess - Carlsen and Arjun claim titles with a round to spare"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> secured clear first place at <strong>Tata Steel Chess</strong> with one round to go after <a href=\"https://chess24.com/en/watch/live-tournaments/tata-steel-masters-2022/12/1/1\">beating his four highest rated rivals</a> Giri, Rapport, Mamedyarov and Caruana. He adds 3 rating points to climb to 2868. <strong>Arjun Erigaisi</strong> dominated the B or Challengers group and qualified for the 2023 Masters. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">15  - 30 Jan 2022</span>: <a href=\"https://www.chesstech.org/events/2022/tata-steel-chess/\">Tata Steel Chess</a></li> </ul> ",
@@ -272,14 +272,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/dubov-out-after-positive-test/",
          "pubDate" : "Fri, 28 Jan 2022 14:58:03 +0100",
          "title" : "Dubov out after positive test"
-      },
-      {
-         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. After four matches the women (team Pia) lead by 20.5-19.5. Will the men (Team Sabino) equalise the score or go ahead in round 5? The rounds start daily at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
-         "pubDate" : "Fri, 28 Jan 2022 14:45:14 +0100",
-         "title" : "Battle of the Sexes: Round 5 - Live"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1ac2ca25-ea04-42e3-be38-ecd135d92611/ES2.jpg\" data-image-dimensions=\"382x180\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61f3ef174abbc5621ba931ff\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1ac2ca25-ea04-42e3-be38-ecd135d92611/ES2.jpg?format=1000w\" /> </figure> <p class=\"\"><a href=\"https://www.perpetualchesspod.com/recaptured\" target=\"_blank\"><em>Chess Books Recaptured</em></a><em> </em>is back to discuss one of my favorite chess books ever, Mikhail Sher",
@@ -2024,6 +2016,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-tournament-new-tiebreak-regulations",
          "pubDate" : "Wed, 12 Jan 2022 09:12:00 -0800",
          "title" : "Tata Steel Chess Tournament Introduces New Tiebreak Regulations"
+      },
+      {
+         "description" : "What is the soul of chess? Andr&eacute; Philidor back in the 18th century answered: \"Pawns!\" Aaron Nimzowitsch a century ago claimed in My System: \"Overprotection of strategically important squares.\" Jan Markos' answer to this question is rather different. He is convinced that the essence of chess manifests itself best in domination. | Photo: Evan Amos (Wikipedia)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-4-handcuffs-for-your-opponent",
+         "pubDate" : "Wed, 12 Jan 2022 17:29:28 +0100",
+         "title" : "The Winning Academy 4: Handcuffs for your opponent"
       },
       {
          "description" : "All India Chess Federation wishes GM Dronavalli Harika a very happy birthday!! PC : Lennart Ootes &#160;",
