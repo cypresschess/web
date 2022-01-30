@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When Boris Spassky, World Champion from 1969 to 1972, had to play the Sicilian with the white pieces, he seemed to get particularly inspired. Today, the living legend from Leningrad turns 85, and to celebrate him we share a selection of brilliant games he played with 1.e4 c5 during his illustrious career. | Photo: Gerhard Hund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/spassky-plays-the-sicilian",
+         "pubDate" : "Sun, 30 Jan 2022 19:30:00 +0100",
+         "title" : "A selection of brilliancies: Spassky faces the Sicilian"
+      },
+      {
+         "description" : "Besides Magnus Carlsen, who got a win by forfeit over Daniil Dubov, Praggnanandhaa, Sergey Karjakin and Jorden van Foreest also scored full points in the last round of the Tata Steel Masters tournament. Meanwhile, Arjun Erigaisi (pictured), who had secured first place in the Challengers with a round to spare, collected yet another victory to finish the event with a remarkable 10&frac12;/13 score. | Replay all the games with computer analysis. Full report to follow shortly!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
+         "pubDate" : "Sun, 30 Jan 2022 19:25:00 +0100",
+         "title" : "Tata Steel Chess - Pragg, Karjakin and Van Foreest score"
+      },
+      {
          "description" : " Southport. A place Nigel knows well, I believe. I went there myself once, probably in the late 1960s, when visiting relations in nearby Ormskirk. But if I'd visited in 1905 I'd have witnessed the 2nd British Chess Championships, where the great Henry Ernest Atkins ran out a comfortable winner of the top section. Here's a <a href=\"https://chessimprover.com/a-rook-ending-from-southport/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Rook Ending from Southport\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-rook-ending-from-southport/\">A Rook Ending from Southport</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Ches",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
          "pubDate" : "Sun, 30 Jan 2022 14:55:00 +0100",
          "title" : "Battle of the Sexes: Round 6 - Live"
-      },
-      {
-         "description" : "The Tata Steel Chess Tournament 2022 is taking place in Wijk aan Zee on January 14-30, with the Masters and the Challengers being played concurrently. World Champion Magnus Carlsen leads the field in the main section, while a mix of ambitious male and female Challengers fight for a spot in next year's Masters tournament. Follow the action live starting at 14.00 CET (8.00 ET, 18.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
-         "pubDate" : "Sun, 30 Jan 2022 13:55:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : " As I type this, Magnus Carlsen is enjoying another victory at the Tata Steel tournament, aided in part by a last round walkover win against Daniil Dubov. This was due to fact that Dubov had to leave the tournament early, having tested positive to Covid 3 rounds before the end. While this could be considered a bit of bad luck for Dubov, it should be noted that he also defaulted his game against Giri after being required to wear a mask due to a positive test of a close contact. In the end Carlsen finished on 9.5/13 (+6=7-0) including wins against players who finished just behind him in the standings. There had been talk of Carlsen breaking the 2900 rating mark before the event began, and if h",
@@ -82,12 +90,12 @@ news_feed (
          "title" : "GM Nyzhnyk's BEST Titled Tuesday | Chess.com"
       },
       {
-         "description" : "The final round of the 2022 Tata Steel Chess Tournament is underway.&#38;nbsp;GM Magnus Carlsen has already won the tournament with a round to spare, but there are still a lot of great matchups in store for the 13th round! How to watch?You can follo...",
+         "description" : "GM Sergey Karjakin, GM Praggnanandhaa R., and GM Jorden van Foreest finished their&#38;nbsp;2022 Tata Steel Chess Tournament with wins in the final round on Sunday. GM Magnus Carlsen had already won the tournament with a round to spare and got a forfe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-13",
          "pubDate" : "Sat, 29 Jan 2022 17:00:00 -0800",
-         "title" : "Watch LIVE: Final Round Tata Steel Chess 2022"
+         "title" : "Tata Steel Chess 2022 R13: Karjakin, Praggnanandhaa, Van Foreest Score"
       },
       {
          "description" : "",
@@ -263,7 +271,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1549",
          "pubDate" : "Fri, 28 Jan 2022 22:56:53 +0000",
-         "title" : "Tata Steel Masters R10: Carlsen leads, Rapport moves to second position"
+         "title" : "Tata Steel Masters R11: Carlsen leads, Rapport moves to second position"
       },
       {
          "description" : "GM Magnus Carlsen secured his eighth victory in Wijk aan Zee with a round to spare. The world champion defeated GM Fabiano Caruana on Saturday and now leads the 2022 Tata Steel Chess Tournament by a full point. He will earn a forfeit win tomorrow ...",
@@ -2002,14 +2010,6 @@ news_feed (
          "title" : "TATA STEEL CHESS 2022 Starts in Wijk aan Zee"
       },
       {
-         "description" : "After the World Championship in classical chess finished in mid-December, three tournaments attracted the attention of chess enthusiasts: the Sunway Festival in Sitges, and the Rapid and Blitz World Championships in Warsaw. A chess review by Thorsten Cmiel. | Photos: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/what-we-learned-in-2021-the-trends-for-2022",
-         "pubDate" : "Thu, 13 Jan 2022 14:00:00 +0100",
-         "title" : "What we learned in 2021, the trends for 2022"
-      },
-      {
          "description" : " <p class=\"lead\"><a href=\"https://tatasteelchess.com/news/tata-steel-chess-tournament-2022-will-go-ahead-but-without-amateur-players/\">The 2022 Tata Steel Chess Tournament</a> is ready to kick-start on the 14th of January in Wijk aan Zee, Netherlands. It is one of the most reputable over-the-board tournaments, which attracts the world's chess elite, like the World Champion Magnus Carlsen, 2018 Challenger Fabiano Caruana, the tournament's ambassador GM Anish Giri, and the 2021 Tata Steel Winner GM Jorden van Foreest. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/JH_2478-MR.jpg\" width=\"1920\" height=\"650\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"http",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2176,14 +2176,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-lauds-bharath-subramaniyam-as-teenager-becomes-indias-73rd-grandmaster/articleshow/88802115.cms",
          "pubDate" : "Mon, 10 Jan 2022 10:14:07 +0530",
          "title" : "Anand lauds Bharath as teenager becomes India's 73rd Grandmaster"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88795654.cms\" />Chennai boy Bharath Subramaniyam became India's 73rd Grandmaster after bagging his third and final GM norm at the Vergani Cup in Cattolica, Italy on Sunday evening. The event saw the 14-year-old score 6.5 points out of 9 rounds to etch his name among the game's elite. His current ELO rating stands at 2508.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pleased-to-have-played-good-chess-bharath-subramaniyam/articleshow/88795654.cms",
-         "pubDate" : "Sun, 09 Jan 2022 22:09:05 +0530",
-         "title" : "Pleased to have played good chess: Bharath Subramaniyam"
       }
    ]
 }
