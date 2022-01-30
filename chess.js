@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grandmasters Dr. Karsten Mueller and Luis Engel have set a ball rolling in Germany with their latest Fritztrainer. GM Lars Bo Hansen designed the four-player model in 2005, and was perhaps ahead of his time. In the 5-part interview with Dr. Karsten Mueller, all four player types are discussed in detail. Today - The Activist.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/player-types-the-activist",
+         "pubDate" : "Sun, 30 Jan 2022 10:00:00 +0100",
+         "title" : "Player Types - The Activist"
+      },
+      {
          "description" : "Magnus Carlsen beat Fabiano Caruana to claim his eighth tournament title in Wijk aan Zee with a round to spare. The world champion will not even need to show up for Sunday's final round, as the organizers of the tournament confirmed that Daniil Dubov will not be playing despite testing negative to a second Covid-19 PCR test. Meanwhile, Arjun Erigaisi clinched the title in the Challengers, thus getting an invitation to next year's main event. | Photo: Jurriaan Hoefsmit",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +34,12 @@ news_feed (
          "title" : "GM Nyzhnyk's BEST Titled Tuesday | Chess.com"
       },
       {
-         "description" : "The final round of the 2022 Tata Steel Chess Tournament starts at 3 a.m. PT/12:00 CET on Sunday, January 30. GM Magnus Carlsen has already won the tournament with a round to spare, but there are still a lot of great matchups in store for the 13th ...",
+         "description" : "The final round of the 2022 Tata Steel Chess Tournament is underway.&#38;nbsp;GM Magnus Carlsen has already won the tournament with a round to spare, but there are still a lot of great matchups in store for the 13th round! How to watch?You can follo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-13",
          "pubDate" : "Sat, 29 Jan 2022 17:00:00 -0800",
-         "title" : "How To Watch The Final Round Of Tata Steel Chess 2022"
+         "title" : "Watch LIVE: Final Round Tata Steel Chess 2022"
       },
       {
          "description" : "",
@@ -2016,14 +2024,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-tournament-new-tiebreak-regulations",
          "pubDate" : "Wed, 12 Jan 2022 09:12:00 -0800",
          "title" : "Tata Steel Chess Tournament Introduces New Tiebreak Regulations"
-      },
-      {
-         "description" : "What is the soul of chess? Andr&eacute; Philidor back in the 18th century answered: \"Pawns!\" Aaron Nimzowitsch a century ago claimed in My System: \"Overprotection of strategically important squares.\" Jan Markos' answer to this question is rather different. He is convinced that the essence of chess manifests itself best in domination. | Photo: Evan Amos (Wikipedia)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-4-handcuffs-for-your-opponent",
-         "pubDate" : "Wed, 12 Jan 2022 17:29:28 +0100",
-         "title" : "The Winning Academy 4: Handcuffs for your opponent"
       },
       {
          "description" : "All India Chess Federation wishes GM Dronavalli Harika a very happy birthday!! PC : Lennart Ootes &#160;",
