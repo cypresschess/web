@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Besides Magnus Carlsen, who got a win by forfeit over Daniil Dubov, Praggnanandhaa, Sergey Karjakin and Jorden van Foreest also scored full points in the last round of the Tata Steel Masters tournament. Meanwhile, Arjun Erigaisi, who had secured first place in the Challengers with a round to spare, collected yet another victory to finish the event with a remarkable 10&frac12;/13 score. | Photo: Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r13",
+         "pubDate" : "Mon, 31 Jan 2022 03:45:00 +0100",
+         "title" : "Tata Steel R13: Wins for Pragg, Karjakin and Van Foreest"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk accepts an unusual challenge on lichess.org. With the entire board covered in knights, can Nyzhnyk even win, or is the game doomed to draw? 2022.01.21<br /> <a href=\"https://lichess.org/dSy7gHIy/\">https://lichess.org/dSy7gHIy/</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-nyzhnyks-knightmare-game\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/S",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-nyzhnyks-knightmare-game",
+         "pubDate" : "Mon, 31 Jan 2022 02:19:07 +0000",
+         "title" : "GM Nyzhnyk's KNIGHTMARE game"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -23,7 +39,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
          "pubDate" : "Sun, 30 Jan 2022 19:25:00 +0100",
-         "title" : "Tata Steel Chess - Pragg, Karjakin and Van Foreest score"
+         "title" : "Tata Steel Chess - Games and results"
       },
       {
          "description" : " With Magnus Carlsen having wrapped up first place in the Tata Steel Masters and out of action because his opponent Daniil Dubov had tested positive for Covid-19 it looked like there might not be much of interest on the final day. Quick draws in the games Richard Rapport vs Anish Giri very quickly followed by Shakhriyar Mamedyarov against Fabiano Caruana meant that intrigue over the top four was over too. The remaining four games however were all full of interest and white won three and there was a wild draw in the fourth. Sergey Karjakin said he was extremely upset about his loss to Sam Shankland in Round 12 and implied he might easily have taken a quick draw under the right circumstances. ",
@@ -688,14 +704,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-tata-steel-grandelius-caruana-gm-josh-friedel-lichessorg",
          "pubDate" : "Wed, 26 Jan 2022 02:14:16 +0000",
          "title" : "2022 Tata Steel: Grandelius-Caruana - GM Josh Friedel | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes two Magnus Carlsen wins from the ongoing 2022 Tata Steel in Wijk aan Zee. The mysterious masked Caleb is shocked that, while the world champion is +4 after nine rounds, Carlsen's live classical FIDE rating only rose two points! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-road-2900-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnai",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/magnus-road-2900-nm-caleb-denby",
-         "pubDate" : "Wed, 26 Jan 2022 02:14:16 +0000",
-         "title" : "Magnus: The Road to 2900! - NM Caleb Denby"
       },
       {
          "description" : " From the publisher: \"I have aimed to find a good balance of verbal explanations without ignoring the hardcore variations you have to know. In case you find some of the analyses a bit too long, don't be discouraged! They have been included mainly to illustrate the thematic ideas and show in which direction the game <a href=\"http://britishchessnews.com/2022/01/26/beat-the-anti-sicilians/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beat the Anti-Sicilians</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/01/26/beat-the-anti-sicilians/\">Beat the Anti-Sicilians</a> appeared first on <a rel=\"nofollow\" href=\"",
@@ -1992,14 +2000,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1520",
          "pubDate" : "Thu, 13 Jan 2022 18:02:31 +0000",
          "title" : "Tata Steel Chess 2022 starts on January 14"
-      },
-      {
-         "description" : "Last week, 15-year old Eline Roeber from the Netherlands surprisingly won the Untergrombach Open in Germany. Eline is a student of Robert Ris, and in his \"Fast & Furious\" show the experienced trainer takes a look at the crucial game of the tournament in Untergrombach: Eline's turbulent win against Russian Grandmaster Vyacheslav Ikonnikov. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-15-year-old-eline-roeber-wins-untergrombach-open",
-         "pubDate" : "Thu, 13 Jan 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: 15-year old Eline Roeber wins Untergrombach Open"
       },
       {
          "description" : "Chess.com is thrilled to announce the Chess.com Rapid Chess Championship, our most elite event ever. The first &#34;RCC&#34; debuts with a prize fund of $650,000. This 25-week extravaganza begins on February 12 and culminates in a dramatic finale on Augus...",
