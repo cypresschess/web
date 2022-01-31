@@ -2176,14 +2176,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/congratulations-to-harry-grieve/",
          "pubDate" : "Mon, 10 Jan 2022 09:13:19 +0000",
          "title" : "Congratulations to Harry Grieve!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88802115.cms\" />Five-time world champion Viswanathan Anand on Monday congratulated fourteen-year-old Bharath Subramaniyam as the teenager became the 73rd Grandmaster of India.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-lauds-bharath-subramaniyam-as-teenager-becomes-indias-73rd-grandmaster/articleshow/88802115.cms",
-         "pubDate" : "Mon, 10 Jan 2022 10:14:07 +0530",
-         "title" : "Anand lauds Bharath as teenager becomes India's 73rd Grandmaster"
       }
    ]
 }
