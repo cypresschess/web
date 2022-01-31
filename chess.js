@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1551",
+         "pubDate" : "Sun, 30 Jan 2022 21:13:41 +0000",
+         "title" : "Winners crowned in Wijk aan Zee"
+      },
+      {
          "description" : "When Boris Spassky, World Champion from 1969 to 1972, had to play the Sicilian with the white pieces, he seemed to get particularly inspired. Today, the living legend from Leningrad turns 85, and to celebrate him we share a selection of brilliant games he played with 1.e4 c5 during his illustrious career. | Photo: Gerhard Hund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
          "pubDate" : "Sun, 30 Jan 2022 19:25:00 +0100",
          "title" : "Tata Steel Chess - Pragg, Karjakin and Van Foreest score"
+      },
+      {
+         "description" : " With Magnus Carlsen having wrapped up first place in the Tata Steel Masters and out of action because his opponent Daniil Dubov had tested positive for Covid-19 it looked like there might not be much of interest on the final day. Quick draws in the games Richard Rapport vs Anish Giri very quickly followed by Shakhriyar Mamedyarov against Fabiano Caruana meant that intrigue over the top four was over too. The remaining four games however were all full of interest and white won three and there was a wild draw in the fourth. Sergey Karjakin said he was extremely upset about his loss to Sam Shankland in Round 12 and implied he might easily have taken a quick draw under the right circumstances. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/wins-for-karjakin-van-foreest-and-praggnanandhaa-on-the-final-day-of-the-tata-steel-masters",
+         "pubDate" : "Sun, 30 Jan 2022 20:47:00 +0400",
+         "title" : "Wins for Karjakin, Van Foreest and Praggnanandhaa on the final day of the Tata Steel Masters - 13"
       },
       {
          "description" : " Southport. A place Nigel knows well, I believe. I went there myself once, probably in the late 1960s, when visiting relations in nearby Ormskirk. But if I'd visited in 1905 I'd have witnessed the 2nd British Chess Championships, where the great Henry Ernest Atkins ran out a comfortable winner of the top section. Here's a <a href=\"https://chessimprover.com/a-rook-ending-from-southport/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Rook Ending from Southport\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-rook-ending-from-southport/\">A Rook Ending from Southport</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Ches",
@@ -160,14 +176,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-expects-strong-finish-for-india-at-asian-games/articleshow/89205069.cms",
          "pubDate" : "Sat, 29 Jan 2022 19:16:24 +0530",
          "title" : "AICF expects strong finish for India at Asian Games"
-      },
-      {
-         "description" : "<div itemscope itemtype=\"http://schema.org/Event\" class=\"event js-gallery\"> <strong itemprop=\"name\">Tata Steel Chess</strong> <strong>Individual tournament, <time datetime='2022-01-15' itemprop=\"startDate\">Sat-Sun 15  - 30 Jan 2022</time><br> <span itemprop='location'>Wijk aan Zee</span> </strong> <div itemprop=\"description\"> <div class=\"image right\"><figure> <a href=\"https://www.chesstech.org/files/2022/events/tata-steel-chess-2022.png?v=1\" class=\"js-img\" title=\"Tata Steel Chess 2022 \" data-title=\"Tata Steel Chess 2022 \"><img src=\"https://www.chesstech.org/files/2022/events/tata-steel-chess-2022.480.png?v=1\" srcset=\"https://www.chesstech.org/files/2022/events/tata-steel-chess-2022.480.p",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://tatasteelchess.com/",
-         "pubDate" : "Sat, 29 Jan 2022 14:10:38 +0100",
-         "title" : "Tata Steel Chess"
       },
       {
          "description" : " Chess in Canberra has received some fantastic media coverage of the last few years, due in no small part to James Buckley. He is a sports writer for the Canberra Times, as well as being a more than handy chess player. As a result, a lot of chess coverage ends up being featured in the sports section (alongside cricket or rugby), rather than being relegated to the 'lifestyle' section. Towards the end of February, James is taking part in a 'Special Forces Challenge' to raise money for the Terry Campese Foundation. Along with a number of other Canberra sporting and business identities, James is spending 30 hours being put through the wringer by a 'bunch of ex-army types'. While most of the chal",
