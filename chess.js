@@ -2,6 +2,126 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com&#39;s traditional weekly event for streamers Arena Kings is back for its ninth season, starting on February 2 at 9 a.m. PST/18:00 CET. With a $40,000 prize fund and a new eight-player knockout format, this season promises to be the most exci...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-arena-kings-season-9",
+         "pubDate" : "Mon, 31 Jan 2022 09:39:59 -0800",
+         "title" : "Arena Kings Is Back For Season 9 On February 2"
+      },
+      {
+         "description" : "Chess is an integral part of the lives of Pia Cramling and her daughter Anna. But mother and daughter are successful in very different ways. While Pia Cramling has been one of the world's best women player for decades, Anna Cramling Bell&oacute;n has now become a successful chess streamer. But both pursue a common goal. As they explain in an interview with Tatiana Flores, they both want to promote chess and bring more women into the community.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-strong-duo-an-interview-with-pia-and-anna-cramling",
+         "pubDate" : "Mon, 31 Jan 2022 17:04:17 +0100",
+         "title" : "A strong duo: An interview with Pia and Anna Cramling"
+      },
+      {
+         "description" : "The well-known author and Grandmaster Mihail Marin is Karsten M&uuml;ller's guest in the Endgame Magic Show #180. Mihail talks about his forthcoming ChessBase products, and Karsten and he look at endgame highlights from the Sitges Open 2021. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-180-with-mihail-marin-endgame-highlights-of-the-sitges-open-2021",
+         "pubDate" : "Mon, 31 Jan 2022 17:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic Show #180 - with Mihail Marin: Endgame highlights of the Sitges Open 2021"
+      },
+      {
+         "description" : "Airports Authority of India awarding Sports Scholarships and contract engagement to promising young sportspersons. The objective of contract engagement is with a view to giving",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/airports-authority-of-india-contract-scholarship-scheme/",
+         "pubDate" : "Mon, 31 Jan 2022 15:43:30 +0000",
+         "title" : "Airports Authority of India Contract & Scholarship Scheme"
+      },
+      {
+         "description" : "The Mind Sports Olympiad are excited to share with you our plans for two major competitions in 2022. For the first time ever we are...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/mind-sports-olympiad-2022/",
+         "pubDate" : "Mon, 31 Jan 2022 15:06:51 +0000",
+         "title" : "Mind Sports Olympiad 2022"
+      },
+      {
+         "description" : "The John Robinson Youth Chess Trust is funding bursaries (free entry) to the 3rd EJCOA Invitational, which takes place on 23-27 February at The Chess...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/junior-bursaries-3rd-ejcoa-invitational-youth-training-tournament/",
+         "pubDate" : "Mon, 31 Jan 2022 14:28:36 +0000",
+         "title" : "Junior bursaries - 3rd EJCOA Invitational Youth Training Tournament"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89251671.cms\" />Arjun Erigaisi didn't put a foot wrong during his triumphant run at the Tata Steel Chess Challengers which concluded at the Wijk Aan Zee on Sunday. The 18-year-old from Warangal made everyone take notice when he bagged the Tata Steel Rapid in Kolkata in November last year. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-definitely-one-of-our-biggest-hopes-anand/articleshow/89251671.cms",
+         "pubDate" : "Mon, 31 Jan 2022 19:28:37 +0530",
+         "title" : "Arjun definitely one of our biggest hopes: Anand"
+      },
+      {
+         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. The women (team Pia) started well but after six rounds they trail with 29-31. Will they be able to equalise or catch up in round 7? The rounds start daily at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
+         "pubDate" : "Mon, 31 Jan 2022 14:55:00 +0100",
+         "title" : "Battle of the Sexes: Round 7 - Live"
+      },
+      {
+         "description" : " <p class=\"lead\">As soon as elite chess grandmasters fighting for the right to challenge the World Champion finish their games during the FIDE Grand Prix in Berlin next month, the positions on the boards (called FENs in chess-speak) will be fed into a complicated AI-algorithm that will turn the data from each game into a <a href=\"https://shop.worldchess.com/collections/nft-art-collection\">unique chess piece</a>. An exhibition of the unique art generated from chess positions will be held in Berlin during the FIDE Grand Prix Series. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/CF92DE32-C643-4EA1-B2B1-7C6154A376D5.jpeg\" width=\"2560\" height=\"1440\" alt=\"\" /> </div>",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/chess-games-turned-into-unique-art-pieces-and-nfts-of-course/",
+         "pubDate" : "Mon, 31 Jan 2022 13:53:15 +0000",
+         "title" : "Chess Games Turned Into Unique Art Pieces (and NFTs, Of Course)"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The French grandmaster, coach, chess teacher and organiser <strong>Gilles Mirallès</strong>, who was a towering figure of chess in Geneva, <a href=\"https://www.europe-echecs.com/art/gilles-miralles-grand-contributeur-au-developpement-des-echecs-nous-a-quittes-8731.html\">passed away at 55</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/gilles-miralles-1966-2022/",
+         "pubDate" : "Mon, 31 Jan 2022 14:25:07 +0100",
+         "title" : "Gilles Mirallès (1966-2022)"
+      },
+      {
+         "description" : "Magnus Carlsen had wrapped up victory in the Tata Steel Masters with a round to spare and could commentate on chess24 since his scheduled game with Daniil Dubov was a forfeit win. The \"battle\" for 2nd place lasted just minutes as quick draws saw Shakhriyar Mamedyarov and Richard Rapport tie on 8/13, but the remaining four games were great fights, with Praggnanandhaa, Sergey Karjakin and Jorden van Foreest picking up wins. Arjun Erigaisi ended on a high by beating Marc Maurizzi to match his pre-tournament goal of 10.5/13 as he crushed the Challengers.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-13-erigaisi-hits-goal-as-carlsen-commentates-last-round",
+         "pubDate" : "Mon, 31 Jan 2022 13:18:11 +0000",
+         "title" : "Tata Steel 13: Erigaisi hits goal as Carlsen commentates"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Lilli Hahn</strong> from the Chess Sports Association, the German podcaster <strong>Michael Busse</strong> and <strong>FIDE</strong> have launched <a href=\"https://fide.podbean.com/\">a monthly podcast</a> during the <strong>Year of the Woman in Chess</strong>. The first interviewee is the Slovenian psychologist and author <strong>Jana Krivec</strong>. Next up is the American chess and poker commentator and author <strong>Jennifer Shahade</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/year-of-the-woman-podcast/",
+         "pubDate" : "Mon, 31 Jan 2022 13:49:49 +0100",
+         "title" : "Year of the woman podcast"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1553",
+         "pubDate" : "Mon, 31 Jan 2022 12:39:18 +0000",
+         "title" : "Workshop: Increase your inner strength"
+      },
+      {
+         "description" : " <p class=\"lead\">Indian GM Arjun Erigaisi, who had secured first place in the <a href=\"https://tatasteelchess.com\">2022 Tata Steel Challengers Tournament</a> with a round to spare, collected yet another victory to finish the event with a remarkable 10,5/13 score. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/JH_6279LR-2.jpg\" width=\"1500\" height=\"1015\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: � Lennart Ootes and Jurriaan Hoefsmit - Tata Steel Chess Tournament 2022</div> </div> The 18-year-old GM made quite an impression at the Challengers, where he finished undefeated, with eight wins and five draws. With this triumph, Erigaisi qualified for next year's Ta",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/arjun-erigaisi-wins-the-2022-tata-steel-chess-challengers-tourna/",
+         "pubDate" : "Mon, 31 Jan 2022 12:36:28 +0000",
+         "title" : "Arjun Erigaisi wins the 2022 Tata Steel Chess Challengers Tournament with a 10,5/13 score"
+      },
+      {
+         "description" : " <p class=\"lead\">Even if we already knew the Champion of the <a href=\"https://tatasteelchess.com\">2022 Tata Steel Chess Tournament</a>, the second and third places were about to be determined in the last round. A draw was enough for both Mamedyarov and Rapport to be in the top3, while Pragg stole the show of Round 13 with his win against Esipenko. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.497005988024\"> <img src=\"https://worldchess.com/news/pictures/JH_6460LR.jpg\" width=\"1500\" height=\"1002\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_6382LR.jpg\" width=\"1500\" height=\"929\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_6348",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/2022-tata-steel-chess-tournament-is-over-with-carlsen-mamedyarov/",
+         "pubDate" : "Mon, 31 Jan 2022 12:32:51 +0000",
+         "title" : "2022 Tata Steel Chess Tournament is over with Carlsen, Mamedyarov, and Rapport forming the top3"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -514,14 +634,6 @@ news_feed (
          "title" : "FIDE holds round table on \"Chess in Prisons\" project"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <a href=\"https://www.shakkiliitto.fi/finnish-chess-federation/\"><strong>Finnish Chess Federation</strong></a> was hit hard by the pandemic. Online chess, hybrid chess and new funding sources are all part of the plan of the young new leader <strong>Eetu Tiiva</strong>. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/tiiva-profile.1920.jpeg\" title=\"Eetu Tiiva is the new President of the Finnish Chess Federation. photo: private\" data-title=\"Eetu Tiiva is the new President of the Finnish Chess Federation. (photo: private)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/the-numbers-are-rather-grim-but/",
-         "pubDate" : "Thu, 27 Jan 2022 14:11:06 +0100",
-         "title" : "\"The numbers are rather grim, but the worst is over\""
-      },
-      {
          "description" : "Please find attached herewith list of participants for Fifty Batch (1E) of National Organizer Seminar scheduled to start from 04-06 Feb 2022, Guidelines: 1.All the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -760,14 +872,6 @@ news_feed (
          "link" : "https://chessimprover.com/three-check-chess-2/",
          "pubDate" : "Tue, 25 Jan 2022 16:35:30 +0000",
          "title" : "Three Check Chess (2)"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The halftime show at the 13 February american football <strong>Super Bowl</strong> final is promoted by <strong>Pepsi</strong> with the <a href=\"https://www.youtube.com/watch?v=h3NhX6-5mO0\">video \"The Call\"</a> that features chess and will probably be seen more than 100 million times. Among the invited artists are chess afficionados <strong>Dr Dre</strong> and <strong>Kendrick Lamar</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/super-bowl-spot-features-chess/",
-         "pubDate" : "Tue, 25 Jan 2022 17:22:33 +0100",
-         "title" : "Super Bowl spot features chess"
       },
       {
          "description" : "<a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1643118388401-GMIV0Q0ONF3AONKE241J/20217_roederoliver_ctonyluong.jpg\" data-image-dimensions=\"1802x2700\" data-image-focal-point=\"0.5,0.5\" alt=\"20217_roederoliver_ctonyluong.jpg\" data-load=\"false\" data-image-id=\"61efff2fe51c0671231b2749\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1643118388401-GMIV0Q0ONF3AONKE241J/20217_roederoliver_ctonyluong.jpg?format=1000w\" /><br> </a> <a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-ima",
@@ -1562,14 +1666,6 @@ news_feed (
          "title" : "Achilles' heel"
       },
       {
-         "description" : "Vidit demonstrated incredible defence before taking over and beating Daniil Dubov to take the sole lead on 2.5/3 after Round 3 of the 2022 Tata Steel Masters. His co-leaders at the start of the round, Jan-Krzysztof Duda and Magnus Carlsen, made a hard-fought draw, while Richard Rapport (vs. Nils Grandelius), Andrey Esipenko (vs. Sergey Karjakin) and Jorden van Foreest (vs. Praggnanandhaa) all won to join them on 2/3. Arjun Erigaisi and Thai Dai Van Nguyen joined Volodar Murzin in the Challengers lead.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-3-vidit-downs-dubov-to-take-sole-lead",
-         "pubDate" : "Tue, 18 Jan 2022 07:20:04 +0000",
-         "title" : "Tata Steel 3: Vidit downs Dubov to take sole lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88965576.cms\" />Indian Grandmaster Vidit Santhosh Gujrathi prevailed over Russia's Daniil Dubov in the third round to become the sole leader with 2.5 points in the prestigious Tata Steel Masters chess tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1970,36 +2066,12 @@ news_feed (
          "title" : "I guess you can try this"
       },
       {
-         "description" : "There are so many endgame terms that Karsten M&uuml;ller decided to gather them in a slowly growing \"Endgame Dictionary\", in which he explains these terms with short videos and practical examples. This time, Karsten explains what a \"Knight Check Shadow\" is. Admittedly, at first glance this is an unusual and somewhat unwieldy term, but it helps to explain and to remember an important endgame motif.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-dictionary-the-knight-check-shadow",
-         "pubDate" : "Fri, 14 Jan 2022 12:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Dictionary: The \"Knight Check Shadow\""
-      },
-      {
          "description" : " World champion makes his first move at 'chess Wimbledon' on Saturday Magnus Carlsen will launch his new campaign to achieve a 2900 Fide rating, the Everest of overall tournament performance, when the world champion makes his first move on Saturday (1pm start) in the opening round of the \"chess Wimbledon\" at Tata Steel Wijk aan Zee. Reaching the round number after being previously twice stalled at 2882 is the 31-year-old's major target for 2022. After four successful defences of his global crown, Carlsen says he will only do so again in 2023 if his opponent is the current No 2, Alireza Firouzja, 18, or another grandmaster from the new generation. <a href=\"https://www.theguardian.com/sport/20",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/jan/14/chess-magnus-carlsen-targets-all-time-rating-record-of-2900-at-wijk-aan-zee",
          "pubDate" : "Fri, 14 Jan 2022 08:00:05 +0000",
          "title" : "Chess: Magnus Carlsen targets all-time rating record of 2900 at Wijk aan Zee"
-      },
-      {
-         "description" : "The first super-tournament of the year is about to kick off, and the organizers have just announced that they will be using a new tiebreak system. After last year's edition finished with an unpleasant controversy, the organizers of the Tata Steel Masters have decided to avoid chaotic time scrambles to break a potential tie for first place. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-tiebreak-format",
-         "pubDate" : "Thu, 13 Jan 2022 21:35:00 +0100",
-         "title" : "A brand new tiebreak format in Wijk aan Zee"
-      },
-      {
-         "description" : "The auction of the World Champion NFTs, in which ChessBase acted as a kind of digital art gallery, has been completed. The 14 works raised 7.2 Ether, which is currently around €21,000. Thank you and congratulations to all successful bidders! The creative process behind the development of the NFTs was inspiring, the technical background fascinating, the discussion with critical readers refreshing. Now the series has been released into the world, and it will be exciting to see what happens with it in the years to come. Finally, the raffle of the Viktor Korchnoi NFT, which was not included in the auction, has found a winner.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/blockchain-looted-art-clvil-rights-kortchnoi",
-         "pubDate" : "Thu, 13 Jan 2022 21:30:00 +0100",
-         "title" : "Blockchain, Looted Art, Civil Rights, Kortchnoi"
       },
       {
          "description" : "",
@@ -2136,46 +2208,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022",
          "pubDate" : "Tue, 11 Jan 2022 15:53:00 +0400",
          "title" : "84th Tata Steel Chess Tournament 2022 - Games and Results"
-      },
-      {
-         "description" : "Chess.com is happy to announce the release of Classroom! Classroom gives coaches and students a seamless, simple, all-in-one tool to help take their lessons to the next level. It also provides Chess.com members a streamlined way of connecting an...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-releases-new-classroom-feature",
-         "pubDate" : "Mon, 10 Jan 2022 11:54:00 -0800",
-         "title" : "Chess.com Releases New Classroom Feature"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1515",
-         "pubDate" : "Mon, 10 Jan 2022 17:57:55 +0000",
-         "title" : "Decisions of 2021 4th FIDE Council Meeting"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1516",
-         "pubDate" : "Mon, 10 Jan 2022 17:25:19 +0000",
-         "title" : "Decisions of 2021 FIDE General Assembly"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1517",
-         "pubDate" : "Mon, 10 Jan 2022 16:46:05 +0000",
-         "title" : "NZ Championship: Daniel Gong claims his first title"
-      },
-      {
-         "description" : "The European Individual Chess Championship 2022 will take place from 27th March (1st round) 6th April (11th round) 2022, in Terme Catez, Slovenia. The event will be played in 11 rounds, Swiss system, with time control: 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2022-official-regulations/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2022-official-regulations/",
-         "pubDate" : "Mon, 10 Jan 2022 13:06:20 +0000",
-         "title" : "European Individual Chess Championship 2022 - Official regulations"
       }
    ]
 }
