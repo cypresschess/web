@@ -1002,7 +1002,7 @@ news_feed (
          "title" : "Tata Steel R7: Dubov forfeits, Carlsen leads"
       },
       {
-         "description" : " Share!4 Tunde Onakoya's mission to invigorate the Nigerian slum through chess has taken a grand leap. Three years ago, Tunde was in the news after writing of an adorable little girl named Basirat Ariyike. She became a symbol of what Onakoya was trying to achieve in his &#8220;Chess in Slums&#8221; initiative. In the chess world, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/22/tunde-onakoyas-mission-takes-chess-to-nigerian-slums/\">Tunde Onakoya's mission takes chess to Nigerian slums</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!40 Tunde Onakoya's mission to invigorate the Nigerian slum through chess has taken a grand leap. Three years ago, Tunde was in the news after writing of an adorable little girl named Basirat Ariyike. She became a symbol of what Onakoya was trying to achieve in his &#8220;Chess in Slums&#8221; initiative. In the chess world, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/22/tunde-onakoyas-mission-takes-chess-to-nigerian-slums/\">Tunde Onakoya's mission takes chess to Nigerian slums</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/01/22/tunde-onakoyas-mission-takes-chess-to-nigerian-slums/",
