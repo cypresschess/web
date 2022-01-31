@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1552",
+         "pubDate" : "Mon, 31 Jan 2022 12:09:25 +0000",
+         "title" : "FIDE launches a new podcast"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Building on the success of its two online editions, the <strong>Mind Sports Olympiad</strong> announced the <strong>MSO Grand Prix</strong> of several dozen board game competitions to be held on different platforms from 15 April to 29 May. The in-person event at the <strong>JW3</strong> in London will be shorter than previously and last from 21 to 29 August. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/mind-sports-grand-prix-online-from/",
+         "pubDate" : "Mon, 31 Jan 2022 10:40:03 +0100",
+         "title" : "Mind Sports Grand Prix online from Easter"
+      },
+      {
          "description" : "Round six of the #GibChess Battle of Sexes, held at Gibraltar's Garrison Library on Sunday 30 January, saw the men's team win by 6&frac12;-3&frac12; on the day and, for the first time, move into the lead in the overall match by 31 points to 29. It was round of missed chances and swings of fortune as players became tired and the tension increased. For the first time since our arrival the sun shone outdoors, but not indoors on the women's games as they didn't get their fair share of whatever luck was going. Four rounds remain, and now it is the women's team who need to fight back if they are to share the top prize of &pound;75,000. Report and photos: John Saunders",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-64-the-power-of-the-diagonal",
          "pubDate" : "Sun, 30 Jan 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 64: The power of the diagonal"
-      },
-      {
-         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. After four matches the women (team Pia) lead by 20.5-19.5. Will the men (Team Sabino) equalise the score or go ahead in round 5? The rounds start daily at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
-         "pubDate" : "Sun, 30 Jan 2022 14:55:00 +0100",
-         "title" : "Battle of the Sexes: Round 6 - Live"
       },
       {
          "description" : " As I type this, Magnus Carlsen is enjoying another victory at the Tata Steel tournament, aided in part by a last round walkover win against Daniil Dubov. This was due to fact that Dubov had to leave the tournament early, having tested positive to Covid 3 rounds before the end. While this could be considered a bit of bad luck for Dubov, it should be noted that he also defaulted his game against Giri after being required to wear a mask due to a positive test of a close contact. In the end Carlsen finished on 9.5/13 (+6=7-0) including wins against players who finished just behind him in the standings. There had been talk of Carlsen breaking the 2900 rating mark before the event began, and if h",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/super-bowl-spot-features-chess/",
          "pubDate" : "Tue, 25 Jan 2022 17:22:33 +0100",
          "title" : "Super Bowl spot features chess"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Russian-Israeli grandmaster <strong>Mark Tseitlin</strong>, who coached Karpov, Smirin, Avrukh and others, <a href=\"https://en.wikipedia.org/wiki/Mark_Tseitlin\">passed away in Beersheba</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/mark-tseitlin-1943-2022/",
-         "pubDate" : "Tue, 25 Jan 2022 16:24:56 +0100",
-         "title" : "Mark Tseitlin (1943-2022)"
       },
       {
          "description" : "<a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1643118388401-GMIV0Q0ONF3AONKE241J/20217_roederoliver_ctonyluong.jpg\" data-image-dimensions=\"1802x2700\" data-image-focal-point=\"0.5,0.5\" alt=\"20217_roederoliver_ctonyluong.jpg\" data-load=\"false\" data-image-id=\"61efff2fe51c0671231b2749\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1643118388401-GMIV0Q0ONF3AONKE241J/20217_roederoliver_ctonyluong.jpg?format=1000w\" /><br> </a> <a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-ima",
@@ -1994,6 +1994,14 @@ news_feed (
          "title" : "A brand new tiebreak format in Wijk aan Zee"
       },
       {
+         "description" : "The auction of the World Champion NFTs, in which ChessBase acted as a kind of digital art gallery, has been completed. The 14 works raised 7.2 Ether, which is currently around €21,000. Thank you and congratulations to all successful bidders! The creative process behind the development of the NFTs was inspiring, the technical background fascinating, the discussion with critical readers refreshing. Now the series has been released into the world, and it will be exciting to see what happens with it in the years to come. Finally, the raffle of the Viktor Korchnoi NFT, which was not included in the auction, has found a winner.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/blockchain-looted-art-clvil-rights-kortchnoi",
+         "pubDate" : "Thu, 13 Jan 2022 21:30:00 +0100",
+         "title" : "Blockchain, Looted Art, Civil Rights, Kortchnoi"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2168,14 +2176,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-individual-chess-championship-2022-official-regulations/",
          "pubDate" : "Mon, 10 Jan 2022 13:06:20 +0000",
          "title" : "European Individual Chess Championship 2022 - Official regulations"
-      },
-      {
-         "description" : "Harry gained his first IM norm with a terrific score of 7/9 to take joint top spot in the Roquetas Open. Along the way he...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/congratulations-to-harry-grieve/",
-         "pubDate" : "Mon, 10 Jan 2022 09:13:19 +0000",
-         "title" : "Congratulations to Harry Grieve!"
       }
    ]
 }
