@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round six of the #GibChess Battle of Sexes, held at Gibraltar's Garrison Library on Sunday 30 January, saw the men's team win by 6&frac12;-3&frac12; on the day and, for the first time, move into the lead in the overall match by 31 points to 29. It was round of missed chances and swings of fortune as players became tired and the tension increased. For the first time since our arrival the sun shone outdoors, but not indoors on the women's games as they didn't get their fair share of whatever luck was going. Four rounds remain, and now it is the women's team who need to fight back if they are to share the top prize of &pound;75,000. Report and photos: John Saunders",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-men-catch-up",
+         "pubDate" : "Mon, 31 Jan 2022 09:45:09 +0100",
+         "title" : "Battle of the Sexes: Men catch up"
+      },
+      {
          "description" : "Besides Magnus Carlsen, who got a win by forfeit over Daniil Dubov, Praggnanandhaa, Sergey Karjakin and Jorden van Foreest also scored full points in the last round of the Tata Steel Masters tournament. Meanwhile, Arjun Erigaisi, who had secured first place in the Challengers with a round to spare, collected yet another victory to finish the event with a remarkable 10&frac12;/13 score. | Photo: Jurriaan Hoefsmit",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1984,14 +1992,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-tiebreak-format",
          "pubDate" : "Thu, 13 Jan 2022 21:35:00 +0100",
          "title" : "A brand new tiebreak format in Wijk aan Zee"
-      },
-      {
-         "description" : "The auction of the World Champion NFTs, in which ChessBase acted as a kind of digital art gallery, has been completed. The 14 works raised 7.2 Ether, which is currently around €21,000. Thank you and congratulations to all successful bidders! The creative process behind the development of the NFTs was inspiring, the technical background fascinating, the discussion with critical readers refreshing. Now the series has been released into the world, and it will be exciting to see what happens with it in the years to come. Finally, the raffle of the Viktor Korchnoi NFT, which was not included in the auction, has found a winner.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/blockchain-looted-art-clvil-rights-kortchnoi",
-         "pubDate" : "Thu, 13 Jan 2022 21:30:00 +0100",
-         "title" : "Blockchain, Looted Art, Civil Rights, Kortchnoi"
       },
       {
          "description" : "",
