@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2022 ACT Lightning Championship was held this evening at the Eastlake Gungahlin Chess Club. A field of 27 players took part in the first ACT Chess Association event of the year. The 9 round event attracted a strong field, with the top 7 seeds rated above 2000, while the mid point of the field was around 1680. The event was closely contested throughout, with Harry Press emerging victorious with 7.5/9. He was closely followed by Fred Litchfield on 7, with FM Michael Kethro on 6.5. Press got off to a slow start, losing to Wenlin Yin in round 3, before winning 5 straight (including wins over Kethro and Litchfield) before a final round draw with Max Albert secured outright first. This draw e",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/2022-act-lightning-championship.html",
+         "pubDate" : "Tue, 01 Feb 2022 11:54:00 +0000",
+         "title" : "2022 ACT Lightning Championship "
+      },
+      {
+         "description" : "Round seven of the #GibChess Battle of Sexes, held at Gibraltar's Garrison Library on Monday 31 January, resulted in a 6-4 victory for Team Sabino with the black pieces, increasing their overall score to 37-33 - a lead of four points. But, once again, it could have been very different if Team Pia had taken all the chances offered in what was a particularly tense and hard-fought round. | Photo: Sir David Steel, Governor of Gibraltar, by John Saunders.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-men-forge-ahead",
+         "pubDate" : "Tue, 01 Feb 2022 11:57:23 +0100",
+         "title" : "Battle of the Sexes: Men forge ahead"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> heads the lineup of the first tournament of the 2022 <strong>Meltwater Champions Chess Tour</strong>, the Airthings Masters from 19 to 26 February. Each win will now be worth $750 and $250 for a draw. The <a href=\"https://chess24.com/tour/\">new website</a> is integrated with <strong>chess24</strong> with an eye to promoting the playing zone. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/airthings-masters-starts-tour-on-19/",
+         "pubDate" : "Tue, 01 Feb 2022 11:00:26 +0100",
+         "title" : "Airthings Masters starts tour on 19 February"
+      },
+      {
+         "description" : "Magnus Carlsen and Ding Liren will top the 16-player field when the Airthings Masters, the first event on the $1.6 million 2022 Meltwater Champions Chess Tour, starts at 18:00 CET on February 19th. Ian Nepomniachtchi, Levon Aronian, Anish Giri and Shakhriyar Mamedyarov are the other Top 10 stars in action, while World Rapid Champions Alexandra Kosteniuk and Nodirbek Abdusattorov both play. 17-year-old Nodirbek is joined by fellow teen stars Praggnanandhaa, Vincent Keymer, Hans Niemann and Andrey Esipenko in one of the youngest Tour line-ups ever assembled.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/airthings-masters-kicks-off-meltwater-champions-chess-tour",
+         "pubDate" : "Tue, 01 Feb 2022 10:00:20 +0000",
+         "title" : "Airthings Masters kicks off Meltwater Champions Chess Tour"
+      },
+      {
+         "description" : "ECU is hosting the 1st Quarter Board Meeting in Thessaloniki, Greece on February 4 and 5. The Municipality of Thessaloniki has made the City Hall available for the first day of the meeting to honour the European Chess Union and its presence in the city. The main agenda items of the meeting: 1. The official calendar ECU for the years&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-board-meets-in-thessaloniki/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-board-meets-in-thessaloniki/",
+         "pubDate" : "Tue, 01 Feb 2022 08:55:59 +0000",
+         "title" : "ECU Board meets in Thessaloniki"
+      },
+      {
+         "description" : " &#8220;The human mind isn't a computer; it cannot progress in an orderly fashion down a list of candidate moves and rank them by a score down to the hundredth of a pawn the way a chess machine does. Even the most disciplined human mind wanders in the heat of competition&#8221; GM Garry Kasparov This week <a href=\"https://chessimprover.com/carbon-versus-silicon/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Carbon versus Silicon\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/carbon-versus-silicon/\">Carbon versus Silicon</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/carbon-versus-silicon/",
+         "pubDate" : "Tue, 01 Feb 2022 08:42:50 +0000",
+         "title" : "Carbon versus Silicon"
+      },
+      {
+         "description" : "In the diagrammed position it is Black to move and draw. In fact, as endgame books and tablebases know this position is a theoretical draw. However, it occurred at the end of a rapid game and with only seconds on the clock Black failed to find the right move. Can you do better?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-theoretical-draw-but",
+         "pubDate" : "Tue, 01 Feb 2022 09:00:00 +0100",
+         "title" : "A theoretical draw, but..."
+      },
+      {
          "description" : "Last Saturday, Arjun Erigaisi won the Tata Steel Challengers tournament with a round to spare. Despite having secured tournament victory, the Indian collected one more win on Sunday, thus finishing the event with a remarkable 10&frac12;/13 score. We take a look at some of Arjun's most successful performances, and reflect on the change of attitude that has worked so well for him. | Photo: Lennart Ootes - Tata Steel Chess Tournament 2022",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +120,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-definitely-one-of-our-biggest-hopes-anand/articleshow/89251671.cms",
          "pubDate" : "Mon, 31 Jan 2022 19:28:37 +0530",
          "title" : "Arjun definitely one of our biggest hopes: Anand"
-      },
-      {
-         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. The women (team Pia) started well but after six rounds they trail with 29-31. Will they be able to equalise or catch up in round 7? The rounds start daily at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
-         "pubDate" : "Mon, 31 Jan 2022 14:55:00 +0100",
-         "title" : "Battle of the Sexes: Round 7 - Live"
       },
       {
          "description" : " <p class=\"lead\">As soon as elite chess grandmasters fighting for the right to challenge the World Champion finish their games during the FIDE Grand Prix in Berlin next month, the positions on the boards (called FENs in chess-speak) will be fed into a complicated AI-algorithm that will turn the data from each game into a <a href=\"https://shop.worldchess.com/collections/nft-art-collection\">unique chess piece</a>. An exhibition of the unique art generated from chess positions will be held in Berlin during the FIDE Grand Prix Series. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/CF92DE32-C643-4EA1-B2B1-7C6154A376D5.jpeg\" width=\"2560\" height=\"1440\" alt=\"\" /> </div>",
@@ -496,14 +544,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/berlin-fide-grand-prix-candidates-last-chance-saloon",
          "pubDate" : "Fri, 28 Jan 2022 14:37:23 +0000",
          "title" : "Berlin FIDE Grand Prix: Candidates last chance saloon"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Daniil Dubov</strong> tested positive for Covid-19 on the final rest day of the <strong>Tata Steel Chess Tournament</strong> and forfeits his last three games against Rapport, Praggnanandhaa and Carlsen. Earlier three coaches tested positive and had to go into isolation. One of them was with Dubov, so he was asked to play round seven with a mask, which he refused and forfeited against Giri. With forfeits against the three tournament leaders Carlsen, Giri and Rapport, the impact of his exclusion is limited. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">15  - 30 Jan 2022</span>: <a href=\"https://www.ches",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/dubov-out-after-positive-test/",
-         "pubDate" : "Fri, 28 Jan 2022 14:58:03 +0100",
-         "title" : "Dubov out after positive test"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1ac2ca25-ea04-42e3-be38-ecd135d92611/ES2.jpg\" data-image-dimensions=\"382x180\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61f3ef174abbc5621ba931ff\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1ac2ca25-ea04-42e3-be38-ecd135d92611/ES2.jpg?format=1000w\" /> </figure> <p class=\"\"><a href=\"https://www.perpetualchesspod.com/recaptured\" target=\"_blank\"><em>Chess Books Recaptured</em></a><em> </em>is back to discuss one of my favorite chess books ever, Mikhail Sher",
@@ -1079,7 +1119,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/titled-tuesday-doubles-tournaments-and-triples-prizes",
          "pubDate" : "Sun, 23 Jan 2022 08:04:00 -0800",
-         "title" : "Titled Tuesday Doubles Tournaments And Triples Prizes"
+         "title" : "Titled Tuesday Doubles Tournaments, Triples Prizes"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 63rd instalment of his ChessBase show \"Understanding before Moving\", Herman looks at \"light-squared beasts\". | Photo: Tommy Grooten",
@@ -1570,14 +1610,6 @@ news_feed (
          "title" : "FIDE ARBITER SEMINARS"
       },
       {
-         "description" : "Vidit continues as the sole leader of the Tata Steel Masters on Wednesday's rest day after drawing against Andrey Esipenko in Round 4 while Magnus Carlsen missed a chance to beat Jorden van Foreest in a fantastic fight. The players moving up were Shakhriyar Mamedyarov, who came back from the dead to take down Jan-Krzysztof Duda, and 16-year-old Praggnanandhaa, who did what Magnus failed to do on his top group debut in 2007 and won a game, against Nils Grandelius. It was a good day for India as Arjun Erigaisi won a 3rd game in a row to take the sole lead in the Challengers.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-4-praggnanandhaa-mamedyarov-strike",
-         "pubDate" : "Wed, 19 Jan 2022 07:19:28 +0000",
-         "title" : "Tata Steel 4: Praggnanandhaa & Mamedyarov strike"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88987669.cms\" />Indian Grandmaster Vidit Santhosh Gujrathi settled for a draw against Russia's Andrey Esipenko in the fourth round to stay in the lead with three points in the prestigious Tata Steel Masters chess tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2042,14 +2074,6 @@ news_feed (
          "title" : "How the AI Revolution Impacted Chess (2/2)"
       },
       {
-         "description" : "In his second Power Play Show of the year, Daniel King looks at sharp, beautiful games in the Sicilian Kalashnikov. And a critical position in one of these games reminds him of a famous combination played by the legendary David Bronstein! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-beautiful-games-kalashnikov",
-         "pubDate" : "Fri, 14 Jan 2022 14:30:00 +0100",
-         "title" : "Daniel King's Power Play Show: Beautiful games in the Kalashnikov"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2170,14 +2194,6 @@ news_feed (
          "title" : "Belize, Dominica, Niger, and St. Vincent join FIDE"
       },
       {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-53/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (53)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-53/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (53)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-53/",
-         "pubDate" : "Tue, 11 Jan 2022 22:17:22 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (53)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2200,14 +2216,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/before-this-blog.html",
          "pubDate" : "Tue, 11 Jan 2022 12:33:00 +0000",
          "title" : "Before this blog"
-      },
-      {
-         "description" : " The 84th Tata Steel Chess Tournament takes place 15th (Round 1) to 30th January 2022. Tata Steel Masters: Magnus Carlsen, Fabiano Caruana, Anish Giri, Shakhriyar Mamedyarov, Richard Rapport, Jan-Krzysztof Duda, Sergey Karjakin, Santosh Gujrathi Vidit, Daniil Dubov, Andrey Esipenko, Sam Shankland, Jorden Van Foreest, Nils Grandelius and Rameshbabu Praggnanandhaa. Tata Steel Challengers: Erigaisi Arjun, Rinat Jumabayev, Surya Shekhar Ganguly, Erwin L'Ami, Thai Dai Van Nguyen, Max Warmerdam, Jonas Buhl Bjerre, Lucas Van Foreest, Daniel Dardha, Volodar Murzin, Polina Shuvalova, Marc`Andria Maurizzi, Jiner Zhu and Roven Vogel. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022",
-         "pubDate" : "Tue, 11 Jan 2022 15:53:00 +0400",
-         "title" : "84th Tata Steel Chess Tournament 2022 - Games and Results"
       }
    ]
 }
