@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89281347.cms\" />India's R Praggnanandhaa will be featuring at the Airthings Masters online super-tournament which will kick off this year's Meltwater Champions Chess Tour that has a glittering line-up featuring Magnus Carlsen and the new male and female World Rapid champions.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-to-feature-in-airthings-masters-chess/articleshow/89281347.cms",
+         "pubDate" : "Tue, 01 Feb 2022 21:53:55 +0530",
+         "title" : "Praggnanandhaa to feature in Airthings Masters Chess"
+      },
+      {
+         "description" : " Share! Over the years, I have written a number of articles and produced videos for Black History Month. I remember one where I gave a history of how the commemoration was started in 1926 by Dr. Carter G. Woodson. Is Black History Relevant? While some criticize the idea of highlighting a particular segment of the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/01/black-history-month-2022-chess-day-1/\">Black History Month 2022: Chess Day #1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/01/black-history-month-2022-chess-day-1/",
+         "pubDate" : "Tue, 01 Feb 2022 16:09:10 +0000",
+         "title" : "Black History Month 2022: Chess Day #1"
+      },
+      {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess and it also provides arsenal for the tournament player. Issue 205 offers games from several major events, FIDE Grand Swiss Tournament, USA and Russian Championships and European Team Championship, 2287 games (21 annotated), 11 opening surveys, lectures and exercises for training. Annotators include Alireza Firouzja, Anish Giri and Nikita Vitiugov among others. The icing on the cake is the Robert H&uuml;bner Special, a tribute to a great player who crossed swords with the best of them all, from Bobby Fischer to Garry Kasparov. Our columnist Nagesh Havanur takes a look. | Photo: Magnus Carlsen vs Alireza Firouzja, Norway Che",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-205-a-question-of-strong-will-and-cool-nerves",
+         "pubDate" : "Tue, 01 Feb 2022 17:00:00 +0100",
+         "title" : "CBM 205: A Question of Strong Will and Cool Nerves"
+      },
+      {
+         "description" : "Welcome to the Chess.com 2022 Grand Prix Fantasy Contest! You will have the chance to earn a share of the $3,000 total prize fund by filling out this form. The 2022 FIDE Grand Prix&#38;nbsp;is a three-tournament event that will determine the final two...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-grand-prix-fantasy-contest",
+         "pubDate" : "Tue, 01 Feb 2022 07:00:00 -0800",
+         "title" : "Join Chess.com's Free Grand Prix Fantasy Contest For Chance At Share Of $3,000"
+      },
+      {
+         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. The women (team Pia) started well but after seven rounds hard-fought rounds they trail with 33-37, and have to hope to catch up in round 8. Round 8 - and all other rounds - start at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
+         "pubDate" : "Tue, 01 Feb 2022 14:50:00 +0100",
+         "title" : "Battle of the Sexes: Round 8 - Live"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e93c1c3f-1168-4e65-a2fa-580efd9fa11e/ES3.jpg\" data-image-dimensions=\"579x288\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61f93a50b0779b5b7a4c8687\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e93c1c3f-1168-4e65-a2fa-580efd9fa11e/ES3.jpg?format=1000w\" /> </figure> <p class=\"\">This week I am joined by the founder of the <a href=\"https://www.berkeleychessschool.org\">Berkeley Chess School</a> (BCS), Elizabeth Shaughnessy. The Berkeley Chess School is a Califor",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/2/1/ep-264-elizabeth-shaughnessy-founder-of-the-berkeley-chess-school",
+         "pubDate" : "Tue, 01 Feb 2022 13:49:49 +0000",
+         "title" : "EP 264- Elizabeth Shaughnessy (Founder of the Berkeley Chess School) "
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> heads the <a href=\"https://chess24.com/tour/airthings-masters-lineup-revealed/\">lineup of the first tournament</a> of the 2022 <strong>Meltwater Champions Chess Tour</strong>, the <strong>Airthings Masters</strong> from 19 to 26 February. Each win will now be worth $750 and $250 for a draw. The <a href=\"https://chess24.com/tour/\">new website</a> is integrated with <strong>chess24</strong> with an eye to promoting the playing zone. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/airthings-masters-starts-tour-on-19/",
+         "pubDate" : "Tue, 01 Feb 2022 13:43:49 +0100",
+         "title" : "Airthings Masters starts tour on 19 February"
+      },
+      {
          "description" : " The 2022 ACT Lightning Championship was held this evening at the Eastlake Gungahlin Chess Club. A field of 27 players took part in the first ACT Chess Association event of the year. The 9 round event attracted a strong field, with the top 7 seeds rated above 2000, while the mid point of the field was around 1680. The event was closely contested throughout, with Harry Press emerging victorious with 7.5/9. He was closely followed by Fred Litchfield on 7, with FM Michael Kethro on 6.5. Press got off to a slow start, losing to Wenlin Yin in round 3, before winning 5 straight (including wins over Kethro and Litchfield) before a final round draw with Max Albert secured outright first. This draw e",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -16,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/battle-of-the-sexes-men-forge-ahead",
          "pubDate" : "Tue, 01 Feb 2022 11:57:23 +0100",
          "title" : "Battle of the Sexes: Men forge ahead"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> heads the lineup of the first tournament of the 2022 <strong>Meltwater Champions Chess Tour</strong>, the Airthings Masters from 19 to 26 February. Each win will now be worth $750 and $250 for a draw. The <a href=\"https://chess24.com/tour/\">new website</a> is integrated with <strong>chess24</strong> with an eye to promoting the playing zone. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/airthings-masters-starts-tour-on-19/",
-         "pubDate" : "Tue, 01 Feb 2022 11:00:26 +0100",
-         "title" : "Airthings Masters starts tour on 19 February"
       },
       {
          "description" : "Magnus Carlsen and Ding Liren will top the 16-player field when the Airthings Masters, the first event on the $1.6 million 2022 Meltwater Champions Chess Tour, starts at 18:00 CET on February 19th. Ian Nepomniachtchi, Levon Aronian, Anish Giri and Shakhriyar Mamedyarov are the other Top 10 stars in action, while World Rapid Champions Alexandra Kosteniuk and Nodirbek Abdusattorov both play. 17-year-old Nodirbek is joined by fellow teen stars Praggnanandhaa, Vincent Keymer, Hans Niemann and Andrey Esipenko in one of the youngest Tour line-ups ever assembled.",
@@ -64,6 +112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/arjun-erigaisi-profile-2022",
          "pubDate" : "Tue, 01 Feb 2022 04:00:00 +0100",
          "title" : "Composed yet ruthless: Arjun Erigaisi"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1518",
+         "pubDate" : "Mon, 31 Jan 2022 21:15:27 +0000",
+         "title" : "FIDE Grand Prix Series starts in Berlin on February 3"
       },
       {
          "description" : "Chess.com&#39;s traditional weekly event for streamers Arena Kings is back for its ninth season, starting on February 2 at 9 a.m. PST/18:00 CET. With a $40,000 prize fund and a new eight-player knockout format, this season promises to be the most exci...",
@@ -1170,7 +1226,7 @@ news_feed (
          "title" : "Tata Steel R7: Dubov forfeits, Carlsen leads"
       },
       {
-         "description" : " Share!40 Tunde Onakoya's mission to invigorate the Nigerian slum through chess has taken a grand leap. Three years ago, Tunde was in the news after writing of an adorable little girl named Basirat Ariyike. She became a symbol of what Onakoya was trying to achieve in his &#8220;Chess in Slums&#8221; initiative. In the chess world, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/22/tunde-onakoyas-mission-takes-chess-to-nigerian-slums/\">Tunde Onakoya's mission takes chess to Nigerian slums</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Tunde Onakoya's mission to invigorate the Nigerian slum through chess has taken a grand leap. Three years ago, Tunde was in the news after writing of an adorable little girl named Basirat Ariyike. She became a symbol of what Onakoya was trying to achieve in his &#8220;Chess in Slums&#8221; initiative. In the chess world, stories [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/22/tunde-onakoyas-mission-takes-chess-to-nigerian-slums/\">Tunde Onakoya's mission takes chess to Nigerian slums</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/01/22/tunde-onakoyas-mission-takes-chess-to-nigerian-slums/",
@@ -2058,22 +2114,6 @@ news_feed (
          "title" : "Chess.com Gets Major Investment"
       },
       {
-         "description" : "\"I am getting so much better at tactics!\" Arne mentions right at the beginning of the show. Little did he know, that this episode might be the low point of his chess career. The puzzles are merciless, and every move seems to miss the point. The goal was to reach 2400 in the tactic's section today, but apparently some technical difficulties, and more bad ideas lead to an actual loss of rating points! Have fun watching Lawrence and Arne getting crushed.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-10",
-         "pubDate" : "Fri, 14 Jan 2022 17:00:00 +0100",
-         "title" : "Trent's Tactics - Lawrence and Arne get crushed!"
-      },
-      {
-         "description" : "In the second part of the series, Joshua Doknjas examines opening system influenced by the neural network engines and discusses the modern battle between two well-prepared players. | Graphic: Europe Echecs",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-the-ai-revolution-impacted-chess-2-2",
-         "pubDate" : "Fri, 14 Jan 2022 15:00:00 +0100",
-         "title" : "How the AI Revolution Impacted Chess (2/2)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2170,14 +2210,6 @@ news_feed (
          "title" : "Happy Birthday Harika"
       },
       {
-         "description" : "The Saint Louis University (SLU) team earned its spot in the President&#39;s Cup by winning clear first at the 2022 Pan-American Intercollegiate Team Championship with a perfect score. The winners will be joined at the Final Four alongside UT Dallas a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/st-louis-wins-2022-pan-american-intercollegiate-team-championship",
-         "pubDate" : "Wed, 12 Jan 2022 02:03:33 -0800",
-         "title" : "St. Louis Wins 2022 Pan-American Intercollegiate Team Championship"
-      },
-      {
          "description" : "ECU E-Magazine December 2021 is out! In this edition of the ECU E-Magazine you may read about: FIDE World Chess Championship 2021 European Rapid&#38;Blitz Chess Championships 2021 European Youth Rapid&#38;Blitz Chess Championships 2021 FIDE World Rapid&#38;Blitz Chess Championships 2021 European Online Rapid School Chess Championship 2021 European Individual Chess Championship 2022 Invitation The 2022 The &#8220;Year&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-december-2021/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2200,22 +2232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1519",
          "pubDate" : "Tue, 11 Jan 2022 20:54:18 +0000",
          "title" : "Enamul Hossain and Jannatul Ferdous win Bangladesh Championship"
-      },
-      {
-         "description" : "<a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1641912240796-LL9C5BH967INKCA2UJYY/Dougonly.jpg\" data-image-dimensions=\"922x740\" data-image-focal-point=\"0.5,0.5\" alt=\"Dougonly.jpg\" data-load=\"false\" data-image-id=\"61dd97b0fc84ea6510a012d6\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1641912240796-LL9C5BH967INKCA2UJYY/Dougonly.jpg?format=1000w\" /><br> </a> <a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5b",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/11/ep-261-master-to-im-adult-improver-special-with-fm-doug-eckert-nm-evan-rosenberg-and-fm-dalton-perrine",
-         "pubDate" : "Tue, 11 Jan 2022 14:52:43 +0000",
-         "title" : "EP 261- \"Master to IM\" Adult Improver Special with FM Doug Eckert, NM Evan Rosenberg and FM Dalton Perrine "
-      },
-      {
-         "description" : " I have been writing this blog for almost 15 years now, but there were things I did before this. There was in fact a lot of writing, in the shape of tournament bulletins, club newsletters and most notably, Australian Chess Forum. One of the last things I did before starting this blog was to organise the 2006-7 Australian Open. As part of this Stephen Mugford and myself put together the tournament website, which contained a lot of useful information. Somewhat surprisingly, the website is still online at <a href=\"https://actjcl.org.au/ausopen2006/index.html\">https://actjcl.org.au/ausopen2006/index.html</a> Apart from tournament results etc, you can download (or read online) the full set of tou",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/before-this-blog.html",
-         "pubDate" : "Tue, 11 Jan 2022 12:33:00 +0000",
-         "title" : "Before this blog"
       }
    ]
 }
