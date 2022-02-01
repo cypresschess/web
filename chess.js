@@ -2224,14 +2224,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/01/11/belize-dominica-niger-and-st-vincent-join-fide/",
          "pubDate" : "Wed, 12 Jan 2022 01:39:16 +0000",
          "title" : "Belize, Dominica, Niger, and St. Vincent join FIDE"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1519",
-         "pubDate" : "Tue, 11 Jan 2022 20:54:18 +0000",
-         "title" : "Enamul Hossain and Jannatul Ferdous win Bangladesh Championship"
       }
    ]
 }
