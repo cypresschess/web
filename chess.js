@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Top seed Ding Liren is out of the Berlin FIDE Grand Prix after failing to get a visa for travel to Berlin, leaving his Candidates Tournament qualification hopes in ruins. He'll be replaced by Polish star Radoslaw Wojtaszek, while Dmitry Andreikin tested positive and has been replaced by the man who originally just missed out, Andrey Esipenko. Players are still due to arrive in Berlin in the next day or two, so that there are no guarantees those are the final changes.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-grand-prix-in-turmoil-as-players-forced-to-pull-out",
+         "pubDate" : "Tue, 01 Feb 2022 17:55:39 +0000",
+         "title" : "FIDE Grand Prix in turmoil as players forced to pull out"
+      },
+      {
+         "description" : " FIDE has named two replacements for the first leg of the Grand Prix after receiving last minute information that two players will not be able to compete in the tournament that starts in Berlin on February 3 due to visa and health issues. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2988DE75-497A-47D4-8622-4D0377D95719.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> GMs Ding and Andreikin are replaced by GMs Esipenko and Wojtaszek. FIDE President, upon consultation with the organizers and arbiters, made a decision on the replacements as per event's regulations. Organizers confirmed that more details and updated pools to follow soon. FIDE Grand Prix, organize",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/grand-prix-ding-and-andreikin-replaced-by-esipenko-and-wojtaszek/",
+         "pubDate" : "Tue, 01 Feb 2022 17:23:39 +0000",
+         "title" : "Grand Prix: Ding and Andreikin Replaced by Esipenko and Wojtaszek"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani tests viewers with the scariest tactics test. 2022.02.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactical-scare-exam-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Wx5fGdVwhRg.jpg?itok=W_LYPGmI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tactical-scare-exam-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Tue, 01 Feb 2022 17:20:42 +0000",
+         "title" : "Tactical SCARE Exam! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1554",
+         "pubDate" : "Tue, 01 Feb 2022 16:55:47 +0000",
+         "title" : "FIDE Grand Prix 2022: Ding and Andreikin replaced by Esipenko and Wojtaszek"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>St Louis Chess Club</strong> and <strong>US Chess Women</strong> <a href=\"https://new.uschess.org/news/us-chess-women-and-saint-louis-chess-club-announce-2022-grant-cycle\">announced a third cycle of grants</a> for projects dedicated to girls and women with special emphasis on education after a <a href=\"https://new.uschess.org/news/us-chess-womens-program-grant-recipients-announced\">first call in 2019</a> and a second one for <a href=\"https://new.uschess.org/news/us-chess-women-awards-ten-online-grants-programs-across-country\">online projects in 2020</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/new-grants-for-women-and-girls/",
+         "pubDate" : "Tue, 01 Feb 2022 17:46:40 +0100",
+         "title" : "New grants for women and girls projects"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89281347.cms\" />India's R Praggnanandhaa will be featuring at the Airthings Masters online super-tournament which will kick off this year's Meltwater Champions Chess Tour that has a glittering line-up featuring Magnus Carlsen and the new male and female World Rapid champions.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,14 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cbm-205-a-question-of-strong-will-and-cool-nerves",
          "pubDate" : "Tue, 01 Feb 2022 17:00:00 +0100",
          "title" : "CBM 205: A Question of Strong Will and Cool Nerves"
-      },
-      {
-         "description" : "Welcome to the Chess.com 2022 Grand Prix Fantasy Contest! You will have the chance to earn a share of the $3,000 total prize fund by filling out this form. The 2022 FIDE Grand Prix&#38;nbsp;is a three-tournament event that will determine the final two...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-grand-prix-fantasy-contest",
-         "pubDate" : "Tue, 01 Feb 2022 07:00:00 -0800",
-         "title" : "Join Chess.com's Free Grand Prix Fantasy Contest For Chance At Share Of $3,000"
       },
       {
          "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. The women (team Pia) started well but after seven rounds hard-fought rounds they trail with 33-37, and have to hope to catch up in round 8. Round 8 - and all other rounds - start at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
@@ -112,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/arjun-erigaisi-profile-2022",
          "pubDate" : "Tue, 01 Feb 2022 04:00:00 +0100",
          "title" : "Composed yet ruthless: Arjun Erigaisi"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1518",
-         "pubDate" : "Mon, 31 Jan 2022 21:15:27 +0000",
-         "title" : "FIDE Grand Prix Series starts in Berlin on February 3"
       },
       {
          "description" : "Chess.com&#39;s traditional weekly event for streamers Arena Kings is back for its ninth season, starting on February 2 at 9 a.m. PST/18:00 CET. With a $40,000 prize fund and a new eight-player knockout format, this season promises to be the most exci...",
@@ -400,14 +424,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/battle-of-the-sexes-2022-round-5",
          "pubDate" : "Sat, 29 Jan 2022 19:00:00 +0100",
          "title" : "Battle of the Sexes, Round 5: A tense draw"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> secured clear first place at <strong>Tata Steel Chess</strong> with one round to go after <a href=\"https://chess24.com/en/watch/live-tournaments/tata-steel-masters-2022/12/1/1\">beating his four highest rated rivals</a> Giri, Rapport, Mamedyarov and Caruana. He adds 3 rating points to climb to 2868. <strong>Arjun Erigaisi</strong> dominated the B or Challengers group and qualified for the 2023 Masters. </div> <strong>Events</strong> <ul class=\"article_events\"> <li><span class=\"date\">15  - 30 Jan 2022</span>: <a href=\"https://www.chesstech.org/events/2022/tata-steel-chess/\">Tata Steel Chess</a></li> </ul> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/carlsens-wins-tata-steel-climbs-to/",
-         "pubDate" : "Sat, 29 Jan 2022 18:40:20 +0100",
-         "title" : "Carlsens wins Tata Steel, climbs to 2868"
       },
       {
          "description" : "GM Sergey Karjakin, GM Praggnanandhaa R., and GM Jorden van Foreest finished their&#38;nbsp;2022 Tata Steel Chess Tournament with wins in the final round on Sunday. GM Magnus Carlsen had already won the tournament with a round to spare and got a forfe...",
@@ -928,14 +944,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/vidit-gujrathi-draws-with-richard-rapport-in-joint-third-place-magnus-carlsen-in-lead/articleshow/89130551.cms",
          "pubDate" : "Wed, 26 Jan 2022 10:18:35 +0530",
          "title" : "Tata Steel Masters: Vidit draws with Rapport to be joint 3rd, Carlsen in lead"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Nils Grandelius-Caruana and Fabiano Caruana. Thumbnail: Lennart Ootes 2022.01.25<br /> Nils Grandelius vs Fabiano Caruana, 84th Tata Steel Masters (2022): C02 French, advance, Euwe variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2229054\">https://www.chessgames.com/perl/chessgame?gid=2229054</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-tata-steel-grandelius-c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-tata-steel-grandelius-caruana-gm-josh-friedel-lichessorg",
-         "pubDate" : "Wed, 26 Jan 2022 02:14:16 +0000",
-         "title" : "2022 Tata Steel: Grandelius-Caruana - GM Josh Friedel | lichess.org"
       },
       {
          "description" : " From the publisher: \"I have aimed to find a good balance of verbal explanations without ignoring the hardcore variations you have to know. In case you find some of the analyses a bit too long, don't be discouraged! They have been included mainly to illustrate the thematic ideas and show in which direction the game <a href=\"http://britishchessnews.com/2022/01/26/beat-the-anti-sicilians/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beat the Anti-Sicilians</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/01/26/beat-the-anti-sicilians/\">Beat the Anti-Sicilians</a> appeared first on <a rel=\"nofollow\" href=\"",
@@ -1546,14 +1554,6 @@ news_feed (
          "title" : "Learning from losing"
       },
       {
-         "description" : "\"Always up for a new challenge - bring it on!\" said Magnus Carlsen as the World Chess Champion confirmed he'll return to defend his title in the 2nd edition of the Meltwater Champions Chess Tour. The first of 9 events begins on February 19th, with the 10-month series streamlined this year with fewer days, more at stake and more of an incentive to play for a win in every game. The online event on chess24 is also moving towards in-person chess, with all three Majors set to feature 8 players competing from a single location.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-back-to-defend-meltwater-champions-chess-tour-title",
-         "pubDate" : "Thu, 20 Jan 2022 10:00:01 +0000",
-         "title" : "Carlsen back to defend Meltwater Champions Chess Tour title"
-      },
-      {
          "description" : "GMs Shakhriyar Mamedyarov and Richard Rapport both won their games in round five of the 2022 Tata Steel Chess Tournament to catch GM Vidit Gujrathi in first place.&#38;nbsp;GM Magnus Carlsen drew an exciting game with GM Nils Grandelius. How to watc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2162,14 +2162,6 @@ news_feed (
          "title" : "TATA STEEL CHESS 2022 Starts in Wijk aan Zee"
       },
       {
-         "description" : " <p class=\"lead\"><a href=\"https://tatasteelchess.com/news/tata-steel-chess-tournament-2022-will-go-ahead-but-without-amateur-players/\">The 2022 Tata Steel Chess Tournament</a> is ready to kick-start on the 14th of January in Wijk aan Zee, Netherlands. It is one of the most reputable over-the-board tournaments, which attracts the world's chess elite, like the World Champion Magnus Carlsen, 2018 Challenger Fabiano Caruana, the tournament's ambassador GM Anish Giri, and the 2021 Tata Steel Winner GM Jorden van Foreest. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/JH_2478-MR.jpg\" width=\"1920\" height=\"650\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"http",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/will-the-world-champion-grab-his-8th-tata-steel-chess-victory/",
-         "pubDate" : "Thu, 13 Jan 2022 12:37:28 +0000",
-         "title" : "Will the World Champion grab his 8th Tata Steel Chess victory?"
-      },
-      {
          "description" : " The days of trying to disguise who you are online may be over, at least for chessplayers. A new research paper reveals that it is possible to identify players based on their distinctive playing style. To do this they processed at least 1000 games per player, and then tried to identify anonymous players based on a smaller (100) number of games. Expecting a fairly low hit rate, the researchers were surprised to find that it identified the unknown player 86% of the time. The results were reported in <a href=\"https://www.science.org/content/article/ai-unmasks-anonymous-chess-players-posing-privacy-risks\">this article</a>, which also raises questions about privacy. If your chess style can be red",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2208,6 +2200,14 @@ news_feed (
          "link" : "https://aicf.in/happy-birthday-harika/",
          "pubDate" : "Wed, 12 Jan 2022 16:05:50 +0000",
          "title" : "Happy Birthday Harika"
+      },
+      {
+         "description" : "The Saint Louis University (SLU) team earned its spot in the President&#39;s Cup by winning clear first at the 2022 Pan-American Intercollegiate Team Championship with a perfect score. The winners will be joined at the Final Four alongside UT Dallas a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/st-louis-wins-2022-pan-american-intercollegiate-team-championship",
+         "pubDate" : "Wed, 12 Jan 2022 02:03:33 -0800",
+         "title" : "St. Louis Wins 2022 Pan-American Intercollegiate Team Championship"
       },
       {
          "description" : "ECU E-Magazine December 2021 is out! In this edition of the ECU E-Magazine you may read about: FIDE World Chess Championship 2021 European Rapid&#38;Blitz Chess Championships 2021 European Youth Rapid&#38;Blitz Chess Championships 2021 FIDE World Rapid&#38;Blitz Chess Championships 2021 European Online Rapid School Chess Championship 2021 European Individual Chess Championship 2022 Invitation The 2022 The &#8220;Year&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-december-2021/\">Read More &#187;</a></span>",
