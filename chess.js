@@ -258,14 +258,6 @@ news_feed (
          "title" : "GM Nyzhnyk's BEST Titled Tuesday | Chess.com"
       },
       {
-         "description" : "GM Sergey Karjakin, GM Praggnanandhaa R., and GM Jorden van Foreest finished their&#38;nbsp;2022 Tata Steel Chess Tournament with wins in the final round on Sunday. GM Magnus Carlsen had already won the tournament with a round to spare and got a forfe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-13",
-         "pubDate" : "Sat, 29 Jan 2022 17:00:00 -0800",
-         "title" : "Tata Steel Chess 2022 R13: Karjakin, Praggnanandhaa, Van Foreest Score"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -304,6 +296,14 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/carlsens-wins-tata-steel-climbs-to/",
          "pubDate" : "Sat, 29 Jan 2022 18:40:20 +0100",
          "title" : "Carlsens wins Tata Steel, climbs to 2868"
+      },
+      {
+         "description" : "GM Sergey Karjakin, GM Praggnanandhaa R., and GM Jorden van Foreest finished their&#38;nbsp;2022 Tata Steel Chess Tournament with wins in the final round on Sunday. GM Magnus Carlsen had already won the tournament with a round to spare and got a forfe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-13",
+         "pubDate" : "Sat, 29 Jan 2022 07:50:00 -0800",
+         "title" : "Tata Steel Chess 2022 R13: Karjakin, Praggnanandhaa, Van Foreest Score"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89207312.cms\" />Grandmaster Arjun Erigaisi became the fourth Indian player after P Harikrishna, B Adhiban and Vidit Gujrathi to win the Tata Steel Challengers event at Wijk Aan Zee in The Netherlands on Saturday evening. ",
@@ -578,7 +578,7 @@ news_feed (
          "title" : "European Universities Chess Championship 2022"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Daniil Dubov and Nils Grandelius. The mysterious masked Josh... 2022.01.27<br /> Daniil Dubov vs Nils Grandelius, 84th Tata Steel Masters (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2231073\">https://www.chessgames.com/perl/chessgame?gid=2231073</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-tata-steel-dubov-vs-grandelius-insane-endgame-gm-josh-friedel\"><img s",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Daniil Dubov and Nils Grandelius. The mysterious masked Josh explains the &quot;real world&quot; endgame technique from the game. 2022.01.27<br /> Daniil Dubov vs Nils Grandelius, 84th Tata Steel Masters (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2231073\">https://www.chessgames.com/perl/chessgame?gid=2231073</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-tat",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-tata-steel-dubov-vs-grandelius-insane-endgame-gm-josh-friedel",
