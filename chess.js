@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last Saturday, Arjun Erigaisi won the Tata Steel Challengers tournament with a round to spare. Despite having secured tournament victory, the Indian collected one more win on Sunday, thus finishing the event with a remarkable 10&frac12;/13 score. We take a look at some of Arjun's most successful performances, and reflect on the change of attitude that has worked so well for him. | Photo: Lennart Ootes - Tata Steel Chess Tournament 2022",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arjun-erigaisi-profile-2022",
+         "pubDate" : "Tue, 01 Feb 2022 04:00:00 +0100",
+         "title" : "Composed yet ruthless: Arjun Erigaisi"
+      },
+      {
          "description" : "Chess.com&#39;s traditional weekly event for streamers Arena Kings is back for its ninth season, starting on February 2 at 9 a.m. PST/18:00 CET. With a $40,000 prize fund and a new eight-player knockout format, this season promises to be the most exci...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2048,14 +2056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1521",
          "pubDate" : "Fri, 14 Jan 2022 13:15:28 +0000",
          "title" : "FIDE - ISF World School Online Chess Cup: Registration begins"
-      },
-      {
-         "description" : "Robert Huebner is considered Germany's most successful player since Emanuel Lasker. From 1971 to 1988 he constantly belonged to the world's top 20, achieving his all-time high in 1981 when he was number 3 on the Elo list. Huebner participated in four World Championship candidates cycles and in 1980 advanced to the final where he faced Viktor Kortschnoj. In ChessBase Magazine #205 our authors comment on their personal favourite Huebner game - resulting in an exclusive collection of 16 games from 1970 to 2017. In addition, Karsten Mueller presents a selection from Huebner's best endgames. And Mihail Marin in his strategy check comes to a surprising result for himself! Here we show you an excer",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-magazine-205-special-on-robert-huebner",
-         "pubDate" : "Fri, 14 Jan 2022 14:00:00 +0100",
-         "title" : "ChessBase Magazine #205: Special on Robert Huebner"
       },
       {
          "description" : " There is very little that is new under the sub, except weird chess openings. During one of the ACTJCL Online Events being run over the Summer holidays, I came across a combined 3 Knights/Latvian opening, which I do not believe I have ever seen before. As an added bonus Black won, which lead me to think that it may not be bad after all. It turns out that it probably is, but not bad enough as to render it unplayable. A little digging showed that it had been played in other games, including a game between lower rated players, which ended in a win for Black. <br /> <b>Pfeifer,Andreas (1950) - Szitas,Gabor (2170) [C46]</b><br />Syre Memorial op 20th Issy les Moulineaux, 05.1997 <script>new PgnVi",
