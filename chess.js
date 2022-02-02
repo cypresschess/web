@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Due to the UP election, AICF decided to reschedule the Arbiter Seminar at Kanpur and now the seminar will be held from 25-27 Feb 2022.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/reschedule-of-fide-arbiter-seminar-at-kanpur/",
+         "pubDate" : "Wed, 02 Feb 2022 11:49:51 +0000",
+         "title" : "Reschedule of FIDE Arbiter Seminar at Kanpur"
+      },
+      {
          "description" : "FIDE has published the new world ranking list. Since hardly any tournaments were played in January and the Tata Steel tournament was not taken into account for the February list, there are virtually no changes at the top. Magnus Carlsen continues to be the world's number one with a huge margin, Alireza Firouzja is in second place and the only other player with a rating of +2800.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-ratings-february-2022",
          "pubDate" : "Wed, 02 Feb 2022 09:23:08 +0100",
          "title" : "FIDE ratings February 2022"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> January 2022 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">Chess Puzzles</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/january-2022-chess-puzzle-answer-key",
+         "pubDate" : "Wed, 02 Feb 2022 06:00:00 +0000",
+         "title" : "January 2022 Chess Puzzle Answer Key "
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel looks at material imbalances from world champion Magnus Carlsen. The mysterious masked Josh... 2022.02.01<br /> Magnus Carlsen vs Shakhriyar Mamedyarov, 84th Tata Steel Masters (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2228983\">https://www.chessgames.com/perl/chessgame?gid=2228983</a><br /> Magnus Carlsen vs Anish Giri, 84th Tata Steel Masters (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2210967\">https://www.chessgames.com/perl/chessgame?gid=2210967</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"f",
@@ -50,7 +66,7 @@ news_feed (
          "title" : "FIDE Grand Prix in turmoil as players forced to pull out"
       },
       {
-         "description" : " FIDE has named two replacements for the first leg of the Grand Prix after receiving last minute information that two players will not be able to compete in the tournament that starts in Berlin on February 3 due to visa and health issues. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2988DE75-497A-47D4-8622-4D0377D95719.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> GMs Ding and Andreikin are replaced by GMs Esipenko and Wojtaszek. FIDE President, upon consultation with the organizers and arbiters, made a decision on the replacements as per event's regulations. Organizers confirmed that more details and updated pools to follow soon. FIDE Grand Prix, organize",
+         "description" : " FIDE has named two replacements for the first leg of the Grand Prix after receiving last minute information that two players will not be able to compete in the tournament that starts in Berlin on February 3 due to visa and health issues. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2988DE75-497A-47D4-8622-4D0377D95719.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> GMs Ding and Andreikin are replaced by GMs Esipenko and Wojtaszek. FIDE President, upon consultation with the organizers and arbiters, made a decision on the replacements as per event's regulations. Pool A: <ol start=\"1\"> <li>Alexander Grischuk (Russia), 2764</li> <li>Hikaru Nakamura, (USA), 2736",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/grand-prix-ding-and-andreikin-replaced-by-esipenko-and-wojtaszek/",
@@ -736,14 +752,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-universities-chess-championship-2022/",
          "pubDate" : "Fri, 28 Jan 2022 07:15:44 +0000",
          "title" : "European Universities Chess Championship 2022"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Daniil Dubov and Nils Grandelius. The mysterious masked Josh explains the &quot;real world&quot; endgame technique from the game. 2022.01.27<br /> Daniil Dubov vs Nils Grandelius, 84th Tata Steel Masters (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2231073\">https://www.chessgames.com/perl/chessgame?gid=2231073</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-tat",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-tata-steel-dubov-vs-grandelius-insane-endgame-gm-josh-friedel",
-         "pubDate" : "Fri, 28 Jan 2022 05:16:09 +0000",
-         "title" : "2022 Tata Steel: Dubov vs. Grandelius | Insane in the Endgame - GM Josh Friedel"
       },
       {
          "description" : "The 2022 Armenian Championships took place at the Tigran Petrosian Chess House in Yerevan on January 12-23. Manuel Petrosyan and Mariam Mkrtchyan won the national championships - open and women's respectively - for the first time in their careers. | Photos: Armenian Chess Federation",
@@ -2192,30 +2200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-tournament-new-tiebreak-regulations",
          "pubDate" : "Wed, 12 Jan 2022 09:12:00 -0800",
          "title" : "Tata Steel Chess Tournament Introduces New Tiebreak Regulations"
-      },
-      {
-         "description" : "All India Chess Federation wishes GM Dronavalli Harika a very happy birthday!! PC : Lennart Ootes &#160;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/happy-birthday-harika/",
-         "pubDate" : "Wed, 12 Jan 2022 16:05:50 +0000",
-         "title" : "Happy Birthday Harika"
-      },
-      {
-         "description" : "The Saint Louis University (SLU) team earned its spot in the President&#39;s Cup by winning clear first at the 2022 Pan-American Intercollegiate Team Championship with a perfect score. The winners will be joined at the Final Four alongside UT Dallas a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/st-louis-wins-2022-pan-american-intercollegiate-team-championship",
-         "pubDate" : "Wed, 12 Jan 2022 02:03:33 -0800",
-         "title" : "St. Louis Wins 2022 Pan-American Intercollegiate Team Championship"
-      },
-      {
-         "description" : "ECU E-Magazine December 2021 is out! In this edition of the ECU E-Magazine you may read about: FIDE World Chess Championship 2021 European Rapid&#38;Blitz Chess Championships 2021 European Youth Rapid&#38;Blitz Chess Championships 2021 FIDE World Rapid&#38;Blitz Chess Championships 2021 European Online Rapid School Chess Championship 2021 European Individual Chess Championship 2022 Invitation The 2022 The &#8220;Year&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-december-2021/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-december-2021/",
-         "pubDate" : "Wed, 12 Jan 2022 09:32:55 +0000",
-         "title" : "ECU E-MAGAZINE DECEMBER 2021"
       }
    ]
 }
