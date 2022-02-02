@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the first Tuesday of the revamped Titled Tuesday with two tournaments a day, a familiar face won both events: GM Hikaru Nakamura, who twice scored 9.5/11. Also earning a prize in both tournaments was GM Jose Martinez, who finished fourth in the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-sweeps-new-titled-tuesday",
+         "pubDate" : "Wed, 02 Feb 2022 10:57:03 -0800",
+         "title" : "Nakamura Sweeps New Titled Tuesday"
+      },
+      {
+         "description" : "The 11-year-old Candidate Master from the Ukraine is streaming regularly on Twitch.tv and YouTube. But his passion for chess and streaming started even earlier. In our interview, Tykhon tells us how he learned to play chess, what Minecraft has to do with his English-speaking skills, and why he always seems to be in a good mood. Furthermore, we take a look at one of his favourite games he played, including a nice, insightful analysis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tykhon-cherniaiev-professional-streamer-minecrafter-and-chess-prodigy",
+         "pubDate" : "Wed, 02 Feb 2022 19:08:51 +0100",
+         "title" : "Tykhon Cherniaiev - Professional Streamer, Minecrafter, and Chess Prodigy"
+      },
+      {
+         "description" : "Note: We initially announced this content on February 1, but due to changes in the Grand Prix field, have restarted the contest. IF YOU VOTED YESTERDAY AND STILL WISH TO PARTICIPATE, PLEASE COMPLETE THE NEW FORM. Welcome to the Chess.com 2022 Gr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-grand-prix-fantasy-contest",
+         "pubDate" : "Wed, 02 Feb 2022 10:06:50 -0800",
+         "title" : "Join Chess.com's Free Grand Prix Fantasy Contest For Chance At Share Of $3,000"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #501 Merijn van Delft takes a look at the final rounds of the Tata Steel tournament in Wijk aan Zee, and focuses on Magnus Carlsen's fine and crucial win with Black against Fabiano Caruana. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-501-caruana-vs-carlsen-wijk-aan-zee-2022",
+         "pubDate" : "Wed, 02 Feb 2022 18:30:00 +0100",
+         "title" : "Game of the Week #501: Caruana vs Carlsen, Wijk aan Zee 2022"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The top favourite of the <strong>Grand Prix</strong> <strong>Ding Liren</strong> didn't get his visa application complete in time to reach Berlin before the first round on Friday. If <strong>FIDE</strong> doesn't switch him into the remaining two Grandprix tournaments or if another player concedes his place in the Candidates, the world number three will loose out again on a big chance to become challenger. <strong>Radek Wojtaszek</strong> replaces Ding in Berlin, whereas <strong>Dmitri Andreikin</strong> who tested positive for Covid-19, passes on his place to fellow Russian <strong>Andrej Esipenko</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/ding-liren-cant-travel-to-berlin/",
+         "pubDate" : "Wed, 02 Feb 2022 17:46:52 +0100",
+         "title" : "Ding Liren can't travel to Berlin"
+      },
+      {
          "description" : "There are a couple of different pawn weaknesses in chess. Often, spotting those weaknesses is the most common technique, used by professional chess players, to gain an advantage. Svitlana helps us to identify the fragile pawns, and making the correct, smart moves, once we understand the situation on the board.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +88,14 @@ news_feed (
          "link" : "https://aicf.in/reschedule-of-fide-arbiter-seminar-at-kanpur/",
          "pubDate" : "Wed, 02 Feb 2022 11:49:51 +0000",
          "title" : "Reschedule of FIDE Arbiter Seminar at Kanpur"
+      },
+      {
+         "description" : "In his \"Weekly Show\" Lawrence Trent, who is currently in Gibraltar to commentate the games of the \"Battle of the Sexes\" with Irina Bulmaga, looks at highlights from this entertaining event. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-the-ongoing-battle-of-the-sexes",
+         "pubDate" : "Wed, 02 Feb 2022 11:30:00 +0100",
+         "title" : "The Weekly Show: The ongoing Battle of the Sexes"
       },
       {
          "description" : "FIDE has published the new world ranking list. Since hardly any tournaments were played in January and the Tata Steel tournament was not taken into account for the February list, there are virtually no changes at the top. Magnus Carlsen continues to be the world's number one with a huge margin, Alireza Firouzja is in second place and the only other player with a rating of +2800.",
@@ -352,14 +400,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1552",
          "pubDate" : "Mon, 31 Jan 2022 12:09:25 +0000",
          "title" : "FIDE launches a new podcast"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Building on the success of its two online editions, the <strong>Mind Sports Olympiad</strong> announced the <strong>MSO Grand Prix</strong> of several dozen board game competitions to be held on different platforms from 15 April to 29 May. The in-person event at the <strong>JW3</strong> in London will be shorter than previously and last from 21 to 29 August. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/mind-sports-grand-prix-online-from/",
-         "pubDate" : "Mon, 31 Jan 2022 10:40:03 +0100",
-         "title" : "Mind Sports Grand Prix online from Easter"
       },
       {
          "description" : "Round six of the #GibChess Battle of Sexes, held at Gibraltar's Garrison Library on Sunday 30 January, saw the men's team win by 6&frac12;-3&frac12; on the day and, for the first time, move into the lead in the overall match by 31 points to 29. It was round of missed chances and swings of fortune as players became tired and the tension increased. For the first time since our arrival the sun shone outdoors, but not indoors on the women's games as they didn't get their fair share of whatever luck was going. Four rounds remain, and now it is the women's team who need to fight back if they are to share the top prize of &pound;75,000. Report and photos: John Saunders",
@@ -1978,28 +2018,12 @@ news_feed (
          "title" : "Carlsen and Rapport the winners of R2 of the 2022 Tata Steel Chess Tournament"
       },
       {
-         "description" : "Years ago the great Mikhail Tal pithily expounded a critical aspect of all out attacking chess, noting that it is only possible to capture one piece at a time. In full battle cry, Tal's instinct was not to retreat attacked pieces, especially minor pieces - but to pour more oil on the fire by putting further units en prise! Jonathan Speelman explores this theme using games by Tal and Fischer, as well as more recent examples. | Pictured: Fischer and Tal in Zurich, 1959 / Photo via skaksogufelagid.is",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-162",
-         "pubDate" : "Sun, 16 Jan 2022 18:15:00 +0100",
-         "title" : "Bring your own bottle and fork"
-      },
-      {
          "description" : " The second round of the 84th Tata Steel Masters in Wijk aan Zee only saw two decisive games but it could have been more and there were several striking games. Magnus Carlsen beat Anish Giri in a sharp Catalan where he was able to set problems the Dutchman couldn't deal with almost straight after the opening phase. Richard Rapport defeated Jorden van Foreest in a game where he got a small edge which led to pressure and a decisive error in the endgame. Shakhriyar Mamedyarov played a strikingly aggressive game against Andrey Esipenko but eventually they just called a stop to it and agreed a draw. The remaining games were drawn with Sam Shankland missing a number of opportunities to put his opp",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/wins-for-carlsen-and-rapport-in-tata-steel-masters-round-2",
          "pubDate" : "Sun, 16 Jan 2022 21:09:00 +0400",
          "title" : "Wins for Carlsen and Rapport in Tata Steel Masters Round 2 - 2"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 62nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to look at examples of light-square strategy. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-62-light-square-strategy-2",
-         "pubDate" : "Sun, 16 Jan 2022 18:00:00 +0100",
-         "title" : "Understanding before Moving 62: Light-square strategy (2)"
       },
       {
          "description" : "",
@@ -2048,14 +2072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1523",
          "pubDate" : "Sun, 16 Jan 2022 00:37:16 +0000",
          "title" : "Tata Steel 2022: Duda, Vidit and Van Foreest take the lead"
-      },
-      {
-         "description" : "Jan-Krzysztof Duda, Vidit Gujrathi and defending champion Jorden van Foreest (pictured, right) all won with white on Saturday to take the early lead at the Tata Steel Masters tournament. It was an action-packed day, especially during time trouble, with Shakhriyar Mamedyarov and Fabiano Caruana failing to find winning continuations while hurried by the clock. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r1",
-         "pubDate" : "Sun, 16 Jan 2022 00:25:00 +0100",
-         "title" : "Tata Steel R1: Three winners on opening day"
       },
       {
          "description" : " <p class=\"lead\">Day 1 of the <a href=\"https://tatasteelchess.com\">Tata Steel Chess Tournament 2022</a> is over with GMs Van Foreest, Duda and Vidit leading the event, while Carlsen, Mamedyarov and Caruana missed their chances. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1920\" data-ratio=\"1.8216318785579\"> <img src=\"https://worldchess.com/news/pictures/low08500-lennart-ootes-min_optimized.jpeg\" width=\"1920\" height=\"1054\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/low08481-lennart-ootes-min_optimized.jpeg\" width=\"1920\" height=\"1245\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/low08363-lennart-ootes-min_optimized-1.jpeg\" width=\"1920\" height=\"1294\"",
@@ -2200,22 +2216,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/endgame-challenge-rerun/",
          "pubDate" : "Thu, 13 Jan 2022 10:31:07 +0000",
          "title" : "Endgame Challenge Rerun"
-      },
-      {
-         "description" : "GM Alexey Sarana won Titled Tuesday on January 11 with a score of 9.5/11, a week after finishing in second place. He won on tiebreaks over second-place GM Aram Hakobyan and third-place Kacper Piorun. The top 10 was rounded out by seven players on ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sarana-wins-january-11-titled-tuesday",
-         "pubDate" : "Wed, 12 Jan 2022 09:22:42 -0800",
-         "title" : "Sarana Wins January 11 Titled Tuesday"
-      },
-      {
-         "description" : "Following last year&#39;s controversy in Wijk aan Zee, the Tata Steel Chess Tournament today announced new regulations for tiebreaks. The biggest change is that if more than two players tie for first, all of them will be playing in the tiebreak. How...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-tournament-new-tiebreak-regulations",
-         "pubDate" : "Wed, 12 Jan 2022 09:12:00 -0800",
-         "title" : "Tata Steel Chess Tournament Introduces New Tiebreak Regulations"
       }
    ]
 }
