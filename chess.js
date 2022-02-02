@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 rating. The mysterious masked Caleb... </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dubov-tarrasch-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JHIcEi1eM5E.jpg?itok=dInsP3OM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dubov-tarrasch-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 02 Feb 2022 02:21:16 +0000",
+         "title" : "The Dubov Tarrasch | Road to 2000 - NM Caleb Denby"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 rating. 2022.02.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dubov-tarrash-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JHIcEi1eM5E.jpg?itok=dInsP3OM\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "The Dubov Tarrash | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel looks at material imbalances from world champion Magnus Carlsen. 2022.02.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-and-material-imbalances-grandmasters-choice-gm-josh-friedel-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ywW7xQPTnyM.jpg?itok=ydy3vv_H\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel looks at material imbalances from world champion Magnus Carlsen. The mysterious masked Josh... 2022.02.01<br /> Magnus Carlsen vs Shakhriyar Mamedyarov, 84th Tata Steel Masters (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2228983\">https://www.chessgames.com/perl/chessgame?gid=2228983</a><br /> Magnus Carlsen vs Anish Giri, 84th Tata Steel Masters (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2210967\">https://www.chessgames.com/perl/chessgame?gid=2210967</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"f",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/carlsen-and-material-imbalances-grandmasters-choice-gm-josh-friedel-lichessorg",
@@ -816,14 +824,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tata-steel-10-four-street-fights-and-a-quick-draw",
          "pubDate" : "Thu, 27 Jan 2022 02:20:00 +0000",
          "title" : "Tata Steel 10: Four street-fights and a quick draw"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches her final entry in her series on playing against the Sicilian Defense with White, with a feature on the Richter-Rauzer. 2022.01.26<br /> B66 Sicilian, Richter-Rauzer, Rauzer attack, 7...a6<br /> B61 Sicilian, Richter-Rauzer, Larsen variation, 7.Qd2<br /> B60 Sicilian, Richter-Rauzer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-sicilian-razors-rauzers-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-sicilian-razors-rauzers-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 27 Jan 2022 02:15:28 +0000",
-         "title" : "Play the Sicilian: Razors & Rauzers | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "Round 10 of the Tata Steel Masters tournament saw the two main contenders for first place, Magnus Carlsen and Anish Giri, drawing their games, thus keeping the status quo atop the standings table. There was no lack of excitement on the remaining boards, though, as Richard Rapport, Andrey Esipenko, Nils Grandelius and Praggnanandhaa (pictured) all managed to score full points. | Photo: Jurriaan Hoefsmit",
@@ -2216,14 +2216,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-december-2021/",
          "pubDate" : "Wed, 12 Jan 2022 09:32:55 +0000",
          "title" : "ECU E-MAGAZINE DECEMBER 2021"
-      },
-      {
-         "description" : " A couple months ago, GM Nigel Short contacted The Chess Drum and mentioned that St. Vincent and the Grenadines would become a provisional FIDE member. At the 92nd General Assembly meeting, St. Vincent as well as Belize, Dominica and Niger became full FIDE members. St. Vincent &#038; Grenadines Back in 2019, Short and Ian Wilkinson [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/11/belize-dominica-niger-and-st-vincent-join-fide/\">Belize, Dominica, Niger, and St. Vincent join FIDE</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/01/11/belize-dominica-niger-and-st-vincent-join-fide/",
-         "pubDate" : "Wed, 12 Jan 2022 01:39:16 +0000",
-         "title" : "Belize, Dominica, Niger, and St. Vincent join FIDE"
       }
    ]
 }
