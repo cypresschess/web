@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has published the new world ranking list. Since hardly any tournaments were played in January and the Tata Steel tournament was not taken into account for the February list, there are virtually no changes at the top. Magnus Carlsen continues to be the world's number one with a huge margin, Alireza Firouzja is in second place and the only other player with a rating of +2800.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-february-2022",
+         "pubDate" : "Wed, 02 Feb 2022 09:23:08 +0100",
+         "title" : "FIDE ratings February 2022"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel looks at material imbalances from world champion Magnus Carlsen. The mysterious masked Josh... 2022.02.01<br /> Magnus Carlsen vs Shakhriyar Mamedyarov, 84th Tata Steel Masters (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2228983\">https://www.chessgames.com/perl/chessgame?gid=2228983</a><br /> Magnus Carlsen vs Anish Giri, 84th Tata Steel Masters (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2210967\">https://www.chessgames.com/perl/chessgame?gid=2210967</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"f",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-and-material-imbalances-grandmasters-choice-gm-josh-friedel",
+         "pubDate" : "Wed, 02 Feb 2022 05:21:21 +0000",
+         "title" : "Carlsen and Material Imbalances | Grandmaster's Choice - GM Josh Friedel"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 rating. The mysterious masked Caleb... </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dubov-tarrasch-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JHIcEi1eM5E.jpg?itok=dInsP3OM\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -744,14 +760,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-11",
          "pubDate" : "Thu, 27 Jan 2022 17:00:00 -0800",
          "title" : "Tata Steel Chess R11: Carlsen Misses Win, Dubov Tests Positive"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Daniil Dubov and Nils Grandelius. The mysterious masked Josh... 2022.01.27<br /> Daniil Dubov vs Nils Grandelius, 84th Tata Steel Masters (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2231073\">https://www.chessgames.com/perl/chessgame?gid=2231073</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-tata-steel-dubov-vs-grandelius-insane-endgame-gm-josh-friedel-lichess",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-tata-steel-dubov-vs-grandelius-insane-endgame-gm-josh-friedel-lichessorg",
-         "pubDate" : "Thu, 27 Jan 2022 23:16:01 +0000",
-         "title" : "2022 Tata Steel: Dubov vs. Grandelius | Insane in the Endgame - GM Josh Friedel | lichess.org"
       },
       {
          "description" : "In Part Two of chess24's interview with Vladimir Kramnik, the 14th World Champion speaks about what went wrong for Ian Nepomniachtchi in Dubai, his own opinion about the Dubov controversy and his plans for a new Chessable course.",
@@ -2096,14 +2104,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-eight/",
          "pubDate" : "Fri, 14 Jan 2022 17:12:50 +0000",
          "title" : "A Foundation for Beginners Forty Eight"
-      },
-      {
-         "description" : "Among ChessBase products the Big DataBase stands in its own right. Unlike the MegaBase it has no annotations. This paves the way for independent study and preparation, and helps the player to hone skills on his own. The present edition offers 9.2 million games from 1475 to 2021. In this vast collection there are games from world championships, famous tournaments, past and present, not to mention little-known events that deserve greater recognition. There are magnificent battles, brilliancies and unknown gems all waiting to be discovered. Our columnist here introduces a few rare lines in e4-openings.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-big-database-2022-playing-against-e4",
-         "pubDate" : "Fri, 14 Jan 2022 18:00:00 +0100",
-         "title" : "Understanding Big DataBase 2022: Playing against e4"
       },
       {
          "description" : "Dear Chess.com Community, Today Chess.com is announcing something big, and yet also inconsequential: one of the world&#38;rsquo;s top &#38;ldquo;growth equity&#38;rdquo; firms, General Atlantic, has made a major investment in Chess.com. This transaction hap...",
