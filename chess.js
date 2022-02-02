@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There are a couple of different pawn weaknesses in chess. Often, spotting those weaknesses is the most common technique, used by professional chess players, to gain an advantage. Svitlana helps us to identify the fragile pawns, and making the correct, smart moves, once we understand the situation on the board.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-29",
+         "pubDate" : "Wed, 02 Feb 2022 17:01:00 +0100",
+         "title" : "Svitlana's Smart Moves - Finding pawn weaknesses"
+      },
+      {
+         "description" : "Last Friday, 28 January, the French Grandmaster Gilles Mirallès passed away at the age of 55 in Ferney-Voltaire. Mirallès was French junior champion, two-time national champion and often played for France in team events. For a time he ran a chess school in Geneva. | Photo: Chess School Geneva",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/french-grandmaster-gilles-miralles-dies-at-the-age-of-55",
+         "pubDate" : "Wed, 02 Feb 2022 15:08:26 +0100",
+         "title" : "French Grandmaster Gilles Mirallès dies at the age of 55"
+      },
+      {
+         "description" : "The FIDE Grand Prix will start on February 4 with its first leg in Berlin without the top seed GM Ding Liren. The Chinese player failed to obtain a visa in time to be able to travel to Germany and has been replaced by GM Radoslaw Wojtaszek. GM Dmi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ding-liren-fide-grand-prix-2022",
+         "pubDate" : "Wed, 02 Feb 2022 06:00:00 -0800",
+         "title" : "Top Seed Ding Liren Misses Out On FIDE Grand Prix"
+      },
+      {
+         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. After eight rounds the men (team Sabino) are five points ahead and lead 42&frac12;-37&frac12;. But the women (team Pia) still have two rounds and 20 games to catch up. Round 9 starts at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
+         "pubDate" : "Wed, 02 Feb 2022 14:50:00 +0100",
+         "title" : "Battle of the Sexes: Round 9 - Live"
+      },
+      {
+         "description" : "Round eight of the #GibChess Battle of Sexes, held at Gibraltar's Garrison Library on Tuesday 1 February, resulted in a 5&frac12;-4&frac12; victory for Team Sabino with the White pieces, increasing their overall score to 42&frac12;-37&frac12; - a lead of five points for the men's team with two rounds to go. The battle is now well and truly joined, with various chances coming and going, but the men's team lead is starting to look hard to overturn. Report and photos by John Saunders.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-men-increase-lead",
+         "pubDate" : "Wed, 02 Feb 2022 14:30:19 +0100",
+         "title" : "Battle of the Sexes: Men increase lead"
+      },
+      {
          "description" : "Due to the UP election, AICF decided to reschedule the Arbiter Seminar at Kanpur and now the seminar will be held from 25-27 Feb 2022.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -120,14 +160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cbm-205-a-question-of-strong-will-and-cool-nerves",
          "pubDate" : "Tue, 01 Feb 2022 17:00:00 +0100",
          "title" : "CBM 205: A Question of Strong Will and Cool Nerves"
-      },
-      {
-         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. The women (team Pia) started well but after seven rounds hard-fought rounds they trail with 33-37, and have to hope to catch up in round 8. Round 8 - and all other rounds - start at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
-         "pubDate" : "Tue, 01 Feb 2022 14:50:00 +0100",
-         "title" : "Battle of the Sexes: Round 8 - Live"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e93c1c3f-1168-4e65-a2fa-580efd9fa11e/ES3.jpg\" data-image-dimensions=\"579x288\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61f93a50b0779b5b7a4c8687\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e93c1c3f-1168-4e65-a2fa-580efd9fa11e/ES3.jpg?format=1000w\" /> </figure> <p class=\"\">This week I am joined by the founder of the <a href=\"https://www.berkeleychessschool.org\">Berkeley Chess School</a> (BCS), Elizabeth Shaughnessy. The Berkeley Chess School is a Califor",
@@ -2080,22 +2112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-1",
          "pubDate" : "Sat, 15 Jan 2022 00:00:00 -0800",
          "title" : "Tata Steel Chess R1: Duda, Van Foreest, Vidit Start With Win"
-      },
-      {
-         "description" : "In the diagram position Black has just played 32...Qf5, threatening to harass the white king with ...Qb1+. But White has a way to combine attack and defence which leads to victory. Your call!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/watch-your-king",
-         "pubDate" : "Sat, 15 Jan 2022 09:00:00 +0100",
-         "title" : "Watch your king!"
-      },
-      {
-         "description" : "The Pan-American Intercollegiate Team Championship is a university championship in which, as the name suggests, teams from both the Americas and the Caribbean are allowed to participate - but in fact most of the participating teams come from the United States. This year's tournament was won by the Saint Louis University, which was the only team to emerge victorious from all six matches they played. | Photo: Bill Simmons",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-university-wins-the-pan-american-intercollegiate-team-championship",
-         "pubDate" : "Sat, 15 Jan 2022 09:00:00 +0100",
-         "title" : "St Louis University wins the Pan-American Intercollegiate Team Championship"
       },
       {
          "description" : "",
