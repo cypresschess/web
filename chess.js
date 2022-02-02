@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 rating. 2022.02.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dubov-tarrash-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JHIcEi1eM5E.jpg?itok=dInsP3OM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dubov-tarrash-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Tue, 01 Feb 2022 23:21:02 +0000",
+         "title" : "The Dubov Tarrash | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel looks at material imbalances from world champion Magnus Carlsen. 2022.02.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-and-material-imbalances-grandmasters-choice-gm-josh-friedel-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ywW7xQPTnyM.jpg?itok=ydy3vv_H\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-and-material-imbalances-grandmasters-choice-gm-josh-friedel-lichessorg",
+         "pubDate" : "Tue, 01 Feb 2022 23:21:02 +0000",
+         "title" : "Carlsen and Material Imbalances | Grandmaster's Choice - GM Josh Friedel | lichess.org"
+      },
+      {
          "description" : "Top seed Ding Liren is out of the Berlin FIDE Grand Prix after failing to get a visa for travel to Berlin, leaving his Candidates Tournament qualification hopes in ruins. He'll be replaced by Polish star Radoslaw Wojtaszek, while Dmitry Andreikin tested positive and has been replaced by the man who originally just missed out, Andrey Esipenko. Players are still due to arrive in Berlin in the next day or two, so that there are no guarantees those are the final changes.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -858,14 +874,6 @@ news_feed (
          "title" : "The Weekly Show: Battle of the Sexes"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Nils Grandelius and Fabiano Caruana. The mysterious masked Josh is impressed with the fight in this game. 2022.01.25<br /> Nils Grandelius vs Fabiano Caruana, 84th Tata Steel Masters (2022): C02 French, advance, Euwe variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2229054\">https://www.chessgames.com/perl/chessgame?gid=2229054</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-tata-steel-grandelius-vs-caruana-gm-josh-friedel",
-         "pubDate" : "Wed, 26 Jan 2022 17:14:39 +0000",
-         "title" : "2022 Tata Steel: Grandelius vs. Caruana - GM Josh Friedel"
-      },
-      {
          "description" : "GM Magnus Carlsen maintained his half-point lead at the 2022 Tata Steel Chess Tournament with three rounds to go. The world champion drew in just 20 minutes with GM Sergey Karjakin and then saw GM Anish Giri splitting the point with GM Jan-Krzyszt...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/tata-steel-2022-round-9-carlsen-takes-the-sole-lead-giri-right-b/",
          "pubDate" : "Wed, 26 Jan 2022 09:11:12 +0000",
          "title" : "Tata Steel 2022 Round 9: Carlsen Takes the Sole Lead, Giri Close Second"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel recaps the day&#039;s game at Tata Steel between Nils Grandelius-Caruana and Fabiano Caruana. Thumbnail: Lennart Ootes 2022.01.25<br /> Nils Grandelius vs Fabiano Caruana, 84th Tata Steel Masters (2022): C02 French, advance, Euwe variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2229054\">https://www.chessgames.com/perl/chessgame?gid=2229054</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-tata-steel-grandelius-c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-tata-steel-grandelius-caruana-gm-josh-friedel",
-         "pubDate" : "Wed, 26 Jan 2022 05:14:21 +0000",
-         "title" : "2022 Tata Steel: Grandelius-Caruana - GM Josh Friedel"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89130551.cms\" />Indian Grandmaster Vidit Gujrathi drew with Richard Rapport of Hungary in the ninth round to be in joint third place with 5.5 points in the Tata Steel Masters chess tournament here.",
