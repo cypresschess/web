@@ -2,7 +2,47 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Share! Cuba has long been a country of great courage and pride. It has a proud tradition of chess in the memory of Jos&eacute; Ra&uacute;l Capablanca and has produced a number of strong players. Unbeknownst to many, there has been a strong cadre of Cuban players of African ancestry and we are honoring one today. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/02/black-history-month-2022-chess-day-2/\">Black History Month 2022: Chess Day #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/2021-2/",
+         "pubDate" : "Thu, 03 Feb 2022 12:10:41 +0000",
+         "title" : "2021"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/2020-stopped-due-to-pandemic/",
+         "pubDate" : "Thu, 03 Feb 2022 12:10:41 +0000",
+         "title" : "2020 - Stopped Due to Pandemic"
+      },
+      {
+         "description" : "Each position can be observed and dissected differently by players of varying strength. The more one knows about various aspects of the game, the more nuances one looks for. A beginner may not understand why someone would spend plenty of time thinking in a position that occurred numerous times, while a strong master will try to rummage through the previous plans and come up with something original. GM Sundararajan Kidambi shows various examples to illustrate this idea. | Photo: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-the-footsteps-of-a-plan-sundararjan",
+         "pubDate" : "Thu, 03 Feb 2022 13:00:00 +0100",
+         "title" : "In the footsteps of a plan"
+      },
+      {
+         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. Before the 10th and final round the men (team Sabino) are three points ahead and lead by 46&frac12;-43&frac12;. But the women (team Pia) still have chances to catch up. Round 10 starts at 11:00 local time (5:00 ET, 10:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
+         "pubDate" : "Thu, 03 Feb 2022 10:55:00 +0100",
+         "title" : "Battle of the Sexes: Final round - Live"
+      },
+      {
+         "description" : "Round nine of the #GibChess Battle of Sexes, held at Gibraltar's Garrison Library saw a turnaround in fortunes as the women's team ran out 6-4 winners on the day. This still leaves them three points behind the men's team going into the final round (in which they will have the black pieces) requiring a 6&frac12;-3&frac12; score to force a tie-break or a 7-3 score to win the match outright. Report and photos by John Saunders.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-women-within-striking-distance",
+         "pubDate" : "Thu, 03 Feb 2022 10:11:29 +0100",
+         "title" : "Battle of the Sexes: Women within striking distance"
+      },
+      {
+         "description" : " Share!110 Cuba has long been a country of great courage and pride. It has a proud tradition of chess in the memory of Jos&eacute; Ra&uacute;l Capablanca and has produced a number of strong players. Unbeknownst to many, there has been a strong cadre of Cuban players of African ancestry and we are honoring one today. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/02/black-history-month-2022-chess-day-2/\">Black History Month 2022: Chess Day #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/02/black-history-month-2022-chess-day-2/",
@@ -80,14 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ding-liren-fide-grand-prix-2022",
          "pubDate" : "Wed, 02 Feb 2022 06:00:00 -0800",
          "title" : "Top Seed Ding Liren Misses Out On FIDE Grand Prix"
-      },
-      {
-         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. After eight rounds the men (team Sabino) are five points ahead and lead 42&frac12;-37&frac12;. But the women (team Pia) still have two rounds and 20 games to catch up. Round 9 starts at 15:00 local time (9:00 ET, 14:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
-         "pubDate" : "Wed, 02 Feb 2022 14:50:00 +0100",
-         "title" : "Battle of the Sexes: Round 9 - Live"
       },
       {
          "description" : "Round eight of the #GibChess Battle of Sexes, held at Gibraltar's Garrison Library on Tuesday 1 February, resulted in a 5&frac12;-4&frac12; victory for Team Sabino with the White pieces, increasing their overall score to 42&frac12;-37&frac12; - a lead of five points for the men's team with two rounds to go. The battle is now well and truly joined, with various chances coming and going, but the men's team lead is starting to look hard to overturn. Report and photos by John Saunders.",
@@ -1762,14 +1794,6 @@ news_feed (
          "title" : "Tata Steel 2022 Round 4: Vidit remains the sole leader, Carlsen missed a win"
       },
       {
-         "description" : "Keeping the AICF's motto of chess development every nook and corner of the country, All India Chess Federation is organizing five FIDE Arbiters' Seminar as",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-arbiter-seminars/",
-         "pubDate" : "Wed, 19 Jan 2022 07:58:22 +0000",
-         "title" : "FIDE ARBITER SEMINARS"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88987669.cms\" />Indian Grandmaster Vidit Santhosh Gujrathi settled for a draw against Russia's Andrey Esipenko in the fourth round to stay in the lead with three points in the prestigious Tata Steel Masters chess tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1962,22 +1986,6 @@ news_feed (
          "title" : "A big clash"
       },
       {
-         "description" : "Spectators are not allowed at the Tata Steel tournament in Wijk, and the Open cannot take place because of the Corona pandemic. But the Masters and Challengers tournaments are played and the first two rounds offered exciting chess. Video interviews allow spectators from all over the world to get insights into the thoughts of the players.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-interviews",
-         "pubDate" : "Mon, 17 Jan 2022 13:50:07 +0100",
-         "title" : "Tata Steel Chess: Interviews"
-      },
-      {
-         "description" : "World champion Magnus Carlsen joined a three-player leading pack on Sunday by beating Anish Giri with the white pieces. In the only other decisive game of the day in the Masters, Richard Rapport bounced back from his first-round defeat as he took down Jorden van Foreest. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r2",
-         "pubDate" : "Mon, 17 Jan 2022 13:25:00 +0100",
-         "title" : "Tata Steel R2: Carlsen beats Giri"
-      },
-      {
          "description" : "We are glad to inform you that&#160;FIDE and the International School Sport Federation (ISF) organize the FIDE ISF World School Championship Online Chess Cup...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2064,14 +2072,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/streamers-react-to-the-deplorable-dubov-shakh-draw/",
          "pubDate" : "Sun, 16 Jan 2022 09:33:19 +0000",
          "title" : "Streamers React to the Deplorable Dubov - Shakh Draw"
-      },
-      {
-         "description" : "Kind Attention all the participants of 1A to 6D undergone subject training. A detailed notification with scheduled final exam on 30th January 2022 was sent",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicfs-chess-for-everyone-project-national-arbiter-training-final-exam/",
-         "pubDate" : "Sun, 16 Jan 2022 07:11:20 +0000",
-         "title" : "AICF's Chess for Everyone Project : National Arbiter Training Final Exam"
       },
       {
          "description" : "GM Magnus Carlsen got his first win in the Tata Steel Chess Tournament&#39;s second round as the world champion scored a fairly quick full-point vs. Dutch GM Anish Giri. GM Richard Rapport was the only other winner in the Masters as the Hungarian play...",
@@ -2208,22 +2208,6 @@ news_feed (
          "link" : "https://www.europechess.org/tata-steel-chess-2022-starts-in-wijk-aan-zee/",
          "pubDate" : "Thu, 13 Jan 2022 13:27:52 +0000",
          "title" : "TATA STEEL CHESS 2022 Starts in Wijk aan Zee"
-      },
-      {
-         "description" : " The days of trying to disguise who you are online may be over, at least for chessplayers. A new research paper reveals that it is possible to identify players based on their distinctive playing style. To do this they processed at least 1000 games per player, and then tried to identify anonymous players based on a smaller (100) number of games. Expecting a fairly low hit rate, the researchers were surprised to find that it identified the unknown player 86% of the time. The results were reported in <a href=\"https://www.science.org/content/article/ai-unmasks-anonymous-chess-players-posing-privacy-risks\">this article</a>, which also raises questions about privacy. If your chess style can be red",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/the-unmasked-chessplayer.html",
-         "pubDate" : "Thu, 13 Jan 2022 11:56:00 +0000",
-         "title" : "The Unmasked Chessplayer"
-      },
-      {
-         "description" : "The ECF is scheduling a one-day Endgame Challenge Rerun on Saturday 29th January with IM Lorin D'Costa (above right) and GM Keith Arkell (above left)....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/endgame-challenge-rerun/",
-         "pubDate" : "Thu, 13 Jan 2022 10:31:07 +0000",
-         "title" : "Endgame Challenge Rerun"
       }
    ]
 }
