@@ -34,14 +34,6 @@ news_feed (
          "title" : "2021"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/2020-stopped-due-to-pandemic/",
-         "pubDate" : "Thu, 03 Feb 2022 12:10:41 +0000",
-         "title" : "2020 - Stopped Due to Pandemic"
-      },
-      {
          "description" : "Each position can be observed and dissected differently by players of varying strength. The more one knows about various aspects of the game, the more nuances one looks for. A beginner may not understand why someone would spend plenty of time thinking in a position that occurred numerous times, while a strong master will try to rummage through the previous plans and come up with something original. GM Sundararajan Kidambi shows various examples to illustrate this idea. | Photo: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
