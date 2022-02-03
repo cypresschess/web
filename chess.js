@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world champion won Tata Steel Wijk aan Zee for a record eighth time and felt 'really good' about his play Magnus Carlsen was a class apart from his rivals last week at Tata Steel Wijk aan Zee, the \"chess Wimbledon\". The No 1 capped a dominant performance with a virtuoso final game against an old rival, an unbeaten 9.5/13 total, and a record eighth victory. He has finished first at Wijk on more than half his appearances there, and the organisers have promised a gold-plated trophy if he makes it to 10 victories at the small Dutch North Sea resort. Norway's world champion, 31, said that he felt \"really good about my play. To some extent I took the obvious chances and left the more difficul",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/feb/03/chess-magnus-carlsen-wijk-aan-zee-leonard-barden",
+         "pubDate" : "Thu, 03 Feb 2022 18:03:06 +0000",
+         "title" : "Chess: Carlsen a class apart as world No 1 dominates at 'chess Wimbledon'"
+      },
+      {
+         "description" : "This week Robert Ris shows how Black can spice up things in the Scotch Four Knights (1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4), a line that enjoys the reputation of being very solid for White, by sacrificing a knight on move five. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-scotch-four-knights-with-5-nxe4",
+         "pubDate" : "Thu, 03 Feb 2022 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: The Scotch Four Knights with 5...Nxe4!?"
+      },
+      {
          "description" : "In the final round the men's team needed four points to be sure of overall success. They managed to go undefeated as three of their number won their games to reach a score of 6&frac12;. The winners on the final day were Bobby Cheng, who beat Jovi Houska; Ravi Haria, who beat Olga Girya; and Bilel Bellahcene, who defeated Marie Sebag (her only loss of the event). Balazs Csonka drew his game with Marsel Efroimski and this was enough to secure his second grandmaster norm. Interim report and photos by John Saunders.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-preview",
          "pubDate" : "Thu, 03 Feb 2022 17:00:00 +0100",
          "title" : "Fighting for the last two spots in the Candidates"
+      },
+      {
+         "description" : "Eighteen-year-old Arjun has won two Tata Steel events in two continents, broken into the top 100, and is hoping to catch a sponsor's eye.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33206270/arjun-erigaisi-chess-newest-breakout-player?device=featurephone",
+         "pubDate" : "Thu, 3 Feb 2022 09:44:33 -0500",
+         "title" : "Arjun Erigaisi: Chess' newest breakout player"
       },
       {
          "description" : " <p class=\"lead\">The FIDE Grand Prix 2022 starts tomorrow, on February the 4th, with its first leg in Berlin. Sixteen GMs will participate and claim their position in the 2022 Candidates Tournaments, in June in Madrid. The winner of that tournament will challenge the World Champion Magnus Carlsen in next year's title match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/bus.jpg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> There are 16 GMs playing in each leg, but some of them couldn't make it. GM Ding Liren failed to obtain his travel VISA in time, making it impossible to be in Germany for the Grand Prix and was replaced by GM Radoslaw Wojtaszek. \"FIDE and World",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/the-first-night.html",
          "pubDate" : "Thu, 03 Feb 2022 13:05:00 +0000",
          "title" : "The first night"
-      },
-      {
-         "description" : "Eighteen-year-old Arjun has won two Tata Steel events in two continents, broken into the top 100, and is hoping to catch a sponsor's eye.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33206270/arjun-erigaisi-chess-newest-breakout-player?device=featurephone",
-         "pubDate" : "Thu, 3 Feb 2022 07:19:13 -0500",
-         "title" : "Arjun Erigaisi: Chess' newest breakout player"
       },
       {
          "description" : "Each position can be observed and dissected differently by players of varying strength. The more one knows about various aspects of the game, the more nuances one looks for. A beginner may not understand why someone would spend plenty of time thinking in a position that occurred numerous times, while a strong master will try to rummage through the previous plans and come up with something original. GM Sundararajan Kidambi shows various examples to illustrate this idea. | Photo: Shahid Ahmed",
@@ -362,11 +378,11 @@ news_feed (
          "title" : "Composed yet ruthless: Arjun Erigaisi"
       },
       {
-         "description" : "Chess.com&#39;s traditional weekly event for streamers Arena Kings is back for its ninth season, starting on February 2 at 9 a.m. PST/18:00 CET. With a $40,000 prize fund and a new eight-player knockout format, this season promises to be the most exci...",
+         "description" : "Chess.com&#39;s traditional weekly event for streamers Arena Kings is back for its ninth season, starting on February 2 at 9 a.m. PST/18:00 CET. With a $45,000 prize fund, this season promises to be the most exciting yet! Last season, GM Hikaru Naka...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-arena-kings-season-9",
-         "pubDate" : "Mon, 31 Jan 2022 09:39:59 -0800",
+         "pubDate" : "Mon, 31 Jan 2022 09:39:00 -0800",
          "title" : "Arena Kings Is Back For Season 9 On February 2"
       },
       {
@@ -1890,14 +1906,6 @@ news_feed (
          "title" : "EP 262- IM Kostya Kavutskiy returns "
       },
       {
-         "description" : "After beating Daniil Dubov in a sharp struggle, Vidit Gujrathi grabed the sole lead at the Tata Steel Masters tournament. Going into round 4, no fewer than five players stand a half point behind the leader, though, with Jorden van Foreest, Richard Rapport and Andrey Esipenko joining the chasing pack thanks to victories in Monday's third round. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r3",
-         "pubDate" : "Tue, 18 Jan 2022 13:30:00 +0100",
-         "title" : "Tata Steel R3: Vidit grabs the lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2208,14 +2216,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/jan/14/chess-magnus-carlsen-targets-all-time-rating-record-of-2900-at-wijk-aan-zee",
          "pubDate" : "Fri, 14 Jan 2022 08:00:05 +0000",
          "title" : "Chess: Magnus Carlsen targets all-time rating record of 2900 at Wijk aan Zee"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1520",
-         "pubDate" : "Thu, 13 Jan 2022 18:02:31 +0000",
-         "title" : "Tata Steel Chess 2022 starts on January 14"
       }
    ]
 }
