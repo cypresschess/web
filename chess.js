@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the final round the men's team needed four points to be sure of overall success. They managed to go undefeated as three of their number won their games to reach a score of 6&frac12;. The winners on the final day were Bobby Cheng, who beat Jovi Houska; Ravi Haria, who beat Olga Girya; and Bilel Bellahcene, who defeated Marie Sebag (her only loss of the event). Balazs Csonka drew his game with Marsel Efroimski and this was enough to secure his second grandmaster norm. Interim report and photos by John Saunders.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-men-triumph",
+         "pubDate" : "Thu, 03 Feb 2022 17:18:51 +0100",
+         "title" : "Battle of the Sexes: Men triumph!"
+      },
+      {
+         "description" : "The Candidates Tournament is scheduled to take place in Madrid later this year, and there are only two spots still up for grabs, with these two qualifiers set to be decided at the FIDE Grand Prix Series. The first leg of the series kicks off tomorrow in Berlin, only three days after FIDE announced that Ding Liren and Dmitry Andreikin will not make it to the German capital - Radoslaw Wojtaszek and Andrey Esipenko are their replacements.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-preview",
+         "pubDate" : "Thu, 03 Feb 2022 17:00:00 +0100",
+         "title" : "Fighting for the last two spots in the Candidates"
+      },
+      {
          "description" : " <p class=\"lead\">The FIDE Grand Prix 2022 starts tomorrow, on February the 4th, with its first leg in Berlin. Sixteen GMs will participate and claim their position in the 2022 Candidates Tournaments, in June in Madrid. The winner of that tournament will challenge the World Champion Magnus Carlsen in next year's title match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/bus.jpg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> There are 16 GMs playing in each leg, but some of them couldn't make it. GM Ding Liren failed to obtain his travel VISA in time, making it impossible to be in Germany for the Grand Prix and was replaced by GM Radoslaw Wojtaszek. \"FIDE and World",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -26,12 +42,12 @@ news_feed (
          "title" : "The first night"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/2021-2/",
-         "pubDate" : "Thu, 03 Feb 2022 12:10:41 +0000",
-         "title" : "2021"
+         "description" : "Eighteen-year-old Arjun has won two Tata Steel events in two continents, broken into the top 100, and is hoping to catch a sponsor's eye.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33206270/arjun-erigaisi-chess-newest-breakout-player?device=featurephone",
+         "pubDate" : "Thu, 3 Feb 2022 07:19:13 -0500",
+         "title" : "Arjun Erigaisi: Chess' newest breakout player"
       },
       {
          "description" : "Each position can be observed and dissected differently by players of varying strength. The more one knows about various aspects of the game, the more nuances one looks for. A beginner may not understand why someone would spend plenty of time thinking in a position that occurred numerous times, while a strong master will try to rummage through the previous plans and come up with something original. GM Sundararajan Kidambi shows various examples to illustrate this idea. | Photo: Shahid Ahmed",
@@ -1810,6 +1826,14 @@ news_feed (
          "title" : "Tata Steel 2022 Round 4: Vidit remains the sole leader, Carlsen missed a win"
       },
       {
+         "description" : "Keeping the AICF's motto of chess development every nook and corner of the country, All India Chess Federation is organizing five FIDE Arbiters' Seminar as",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-arbiter-seminars/",
+         "pubDate" : "Wed, 19 Jan 2022 07:58:22 +0000",
+         "title" : "FIDE ARBITER SEMINARS"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88987669.cms\" />Indian Grandmaster Vidit Santhosh Gujrathi settled for a draw against Russia's Andrey Esipenko in the fourth round to stay in the lead with three points in the prestigious Tata Steel Masters chess tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1898,14 +1922,6 @@ news_feed (
          "title" : "2022 Olympiad Dates announced"
       },
       {
-         "description" : "The duel knight against bishop is often full of fascinating possibilities. On first glance, the diagram position does not look particularly dangerous for White. But White's position is vulnerable, and with a cunning maneuver Black is able to exploit the hidden weaknesses in White's position. What would you do with Black?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/achilles-heel",
-         "pubDate" : "Tue, 18 Jan 2022 09:00:00 +0100",
-         "title" : "Achilles' heel"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88965576.cms\" />Indian Grandmaster Vidit Santhosh Gujrathi prevailed over Russia's Daniil Dubov in the third round to become the sole leader with 2.5 points in the prestigious Tata Steel Masters chess tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1960,14 +1976,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1527",
          "pubDate" : "Mon, 17 Jan 2022 20:47:56 +0000",
          "title" : "New set of FIDE regulations comes into force"
-      },
-      {
-         "description" : "Beginners often learn that a rook is roughly two pawn units better than a bishop. But that does not mean that it is always easy to convert an endgame rook vs bishop into a win. In the Endgame Magic Show #178 Karsten M&uuml;ller and Arne K&auml;hler present a classic example of rook vs bishop to illustrate some principles of this important and instructive endgame. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-178-rook-vs-bishop",
-         "pubDate" : "Mon, 17 Jan 2022 18:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #178: Rook vs bishop"
       },
       {
          "description" : " Vidit Gujrathi took the sole lead of the Tata Steel Masters with 2.5 points after a wild win against Daniil Dubov in the third round. Dubov played his full part in the excitement and over the board Vidit thought he must have been lost at one stage - but this assessment was probably incorrect as he found a lot of forced moves. Half a point behind there is a big group of players on two points, Both Magnus Carlsen and Jan-Krzysztof Duda after their draw, Andrey Esipenko after beating Sergey Karjakin, Richard Rapport after beating Nils Grandelius in a wild Sicilian and finally Jorden van Foreest who managed to inflict a nightmare pawn structure in an endgame against R Praggnanandhaa. Further de",
