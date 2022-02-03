@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">The FIDE Grand Prix 2022 starts tomorrow, on February the 4th, with its first leg in Berlin. Sixteen GMs will participate and claim their position in the 2022 Candidates Tournaments, in June in Madrid. The winner of that tournament will challenge the World Champion Magnus Carlsen in next year's title match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/bus.jpg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> There are 16 GMs playing in each leg, but some of them couldn't make it. GM Ding Liren failed to obtain his travel VISA in time, making it impossible to be in Germany for the Grand Prix and was replaced by GM Radoslaw Wojtaszek. \"FIDE and World",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-final-pools-of-the-fide-world-chess-grand-prix-2022/",
+         "pubDate" : "Thu, 03 Feb 2022 13:21:41 +0000",
+         "title" : "The final pools of the FIDE World Chess Grand Prix 2022"
+      },
+      {
+         "description" : " Share! St. Louis is known as a center of chess activity today with its Chess Center and Scholastic Center and as the host of the World Chess Hall of Fame. It is also a magnet for attracting international chess talent to several universities in the area. However, St. Louis had a history long before it [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/03/black-history-month-2022-day-3-leroy-muhammad/\">Black History Month 2022-Day 3: Leroy Muhammad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/03/black-history-month-2022-day-3-leroy-muhammad/",
+         "pubDate" : "Thu, 03 Feb 2022 13:20:59 +0000",
+         "title" : "Black History Month 2022-Day 3: Leroy Muhammad"
+      },
+      {
+         "description" : " Eastlakes Gungahlin Chess Club is starting its first long time control event this Tuesday. The Ramakrishna Memorial will be a 7 round event, played with a time limit of 60m+30s Alongside this event will be informal 30 minute games, which will be suitable for new players who wish to learn the basics of tournament chess play (using clocks, recording moves etc). The full details for the club can be found at <a href=\"https://sites.google.com/site/belconnenucchessclub\">https://sites.google.com/site/belconnenucchessclub</a> (Scroll down for the Calendar) The first night at any chess club can be daunting for new players. I can remember getting towelled up early on the Woden Chess Club (in 1982), b",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/the-first-night.html",
+         "pubDate" : "Thu, 03 Feb 2022 13:05:00 +0000",
+         "title" : "The first night"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -42,12 +66,12 @@ news_feed (
          "title" : "Battle of the Sexes: Women within striking distance"
       },
       {
-         "description" : " Share!110 Cuba has long been a country of great courage and pride. It has a proud tradition of chess in the memory of Jos&eacute; Ra&uacute;l Capablanca and has produced a number of strong players. Unbeknownst to many, there has been a strong cadre of Cuban players of African ancestry and we are honoring one today. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/02/black-history-month-2022-chess-day-2/\">Black History Month 2022: Chess Day #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Cuba has long been a country of great courage and pride. It has a proud tradition of chess in the memory of Jos&eacute; Ra&uacute;l Capablanca and has produced a number of strong players. Unbeknownst to many, there has been a strong cadre of Cuban players of African ancestry and we are honoring one today. Many [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/02/black-history-month-2022-chess-day-2/\">Black History Month 2022-Day 2: Rogelio Ortega</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/02/black-history-month-2022-chess-day-2/",
          "pubDate" : "Thu, 03 Feb 2022 00:18:37 +0000",
-         "title" : "Black History Month 2022: Chess Day #2"
+         "title" : "Black History Month 2022-Day 2: Rogelio Ortega"
       },
       {
          "description" : "GM Hikaru Nakamura won the first week of Arena Kings Season 9 with a score of 3-1 in the final knockout match, defeating second-place GM Jose Eduardo Martinez Alcantara with one game to spare. Nakamura also swept both Titled Tuesday events the day...",
@@ -242,12 +266,12 @@ news_feed (
          "title" : "Praggnanandhaa to feature in Airthings Masters Chess"
       },
       {
-         "description" : " Over the years, I have written a number of articles and produced videos for Black History Month. I remember one where I gave a history of how the commemoration was started in 1926 by Dr. Carter G. Woodson. Is Black History Relevant? While some criticize the idea of highlighting a particular segment of the population, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/01/black-history-month-2022-chess-day-1/\">Black History Month 2022: Chess Day #1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Over the years, I have written a number of articles and produced videos for Black History Month. I remember one where I gave a history of how the commemoration was started in 1926 by Dr. Carter G. Woodson. Is Black History Relevant? While some criticize the idea of highlighting a particular segment of the population, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/01/black-history-month-2022-chess-day-1/\">Black History Month 2022-Day 1: Paragon Chess Club</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/01/black-history-month-2022-chess-day-1/",
          "pubDate" : "Tue, 01 Feb 2022 16:09:10 +0000",
-         "title" : "Black History Month 2022: Chess Day #1"
+         "title" : "Black History Month 2022-Day 1: Paragon Chess Club"
       },
       {
          "description" : "ChessBase Magazine offers a window to the world of professional chess and it also provides arsenal for the tournament player. Issue 205 offers games from several major events, FIDE Grand Swiss Tournament, USA and Russian Championships and European Team Championship, 2287 games (21 annotated), 11 opening surveys, lectures and exercises for training. Annotators include Alireza Firouzja, Anish Giri and Nikita Vitiugov among others. The icing on the cake is the Robert H&uuml;bner Special, a tribute to a great player who crossed swords with the best of them all, from Bobby Fischer to Garry Kasparov. Our columnist Nagesh Havanur takes a look. | Photo: Magnus Carlsen vs Alireza Firouzja, Norway Che",
@@ -2122,14 +2146,6 @@ news_feed (
          "title" : "Tata Steel 2022 - Some lazy predictions"
       },
       {
-         "description" : " <p class=\"lead\">It was early in 2021, when the Russian GM Andrey Esipenko shook the world by beating Magnus Carlsen at the 2021 Tata Steel Tournament, and becoming the first teenager to beat the World Champion in classical chess. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/12uoY08ZjAo?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> <div class=\"e2-text-caption\">Source: <a href=\"https://www.youtube.com/channel/UCUtQxVRULQTqrVnuWcblRQg\">Tata Steel Youtube Channel</a></div> </div> It is one thing beating Magnus in blitz and rapid, and totally different to beat him in a classical game. The rarity of this event increases drastically when you're",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/will-esipenko-take-down-the-world-champion-again-in-the-tata-ste/",
-         "pubDate" : "Sat, 15 Jan 2022 11:57:06 +0000",
-         "title" : "Will Esipenko take down the World Champion again in the Tata Steel Chess Tournament 2022?"
-      },
-      {
          "description" : "This week I invite readers to consider the plot of Henrik Ibsen's play, An Enemy of the People, which I once saw with Sir Ian McKellen in the leading role as Dr Thomas Stockmann. The theme of the play, the exposure of government corruption leading to dire consequences for the whistleblower, accompanied by furious official attempts at a cover-up, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -2200,14 +2216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1520",
          "pubDate" : "Thu, 13 Jan 2022 18:02:31 +0000",
          "title" : "Tata Steel Chess 2022 starts on January 14"
-      },
-      {
-         "description" : "The 84th edition of the Tata Steel Chess Tournament opens tomorrow and takes place in Wijk aan Zee from 14 - 30 January 2022. This year, the Tata Steel Chess Tournament 2022 features Masters and Challengers events, taking place in the traditional Wijk aan Zee venue, while the annual Tata Steel Chess for children will take place Online&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/tata-steel-chess-2022-starts-in-wijk-aan-zee/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/tata-steel-chess-2022-starts-in-wijk-aan-zee/",
-         "pubDate" : "Thu, 13 Jan 2022 13:27:52 +0000",
-         "title" : "TATA STEEL CHESS 2022 Starts in Wijk aan Zee"
       }
    ]
 }
