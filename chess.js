@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "In the first Tuesday of the revamped Titled Tuesday with two tournaments a day, a familiar face won both events: GM Hikaru Nakamura, who twice scored 9.5/11. Also earning a prize in both tournaments was GM Jose Martinez, who finished fourth in the...",
+         "description" : " Share! Cuba has long been a country of great courage and pride. It has a proud tradition of chess in the memory of Jos&eacute; Ra&uacute;l Capablanca and has produced a number of strong players. Unbeknownst to many, there has been a strong cadre of Cuban players of African ancestry and we are honoring one today. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/02/black-history-month-2022-chess-day-2/\">Black History Month 2022: Chess Day #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/02/black-history-month-2022-chess-day-2/",
+         "pubDate" : "Thu, 03 Feb 2022 00:18:37 +0000",
+         "title" : "Black History Month 2022: Chess Day #2"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won the first week of Arena Kings Season 9 with a score of 3-1 in the final knockout match, defeating second-place GM Jose Eduardo Martinez Alcantara with one game to spare. Nakamura also swept both Titled Tuesday events the day...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arena-kings-season-9-week-1-nakamura-wins",
+         "pubDate" : "Wed, 02 Feb 2022 16:05:42 -0800",
+         "title" : "Nakamura Wins Arena Kings After Titled Tuesday Sweep"
+      },
+      {
+         "description" : "On the first Tuesday of the revamped Titled Tuesday with two tournaments a day, a familiar face won both events: GM Hikaru Nakamura, who twice scored 9.5/11. Also earning a prize in both tournaments was GM Jose Martinez, who finished fourth in the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-sweeps-new-titled-tuesday",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "Nakamura Sweeps New Titled Tuesday"
       },
       {
-         "description" : "The 11-year-old Candidate Master from the Ukraine is streaming regularly on Twitch.tv and YouTube. But his passion for chess and streaming started even earlier. In our interview, Tykhon tells us how he learned to play chess, what Minecraft has to do with his English-speaking skills, and why he always seems to be in a good mood. Furthermore, we take a look at one of his favourite games he played, including a nice, insightful analysis.",
+         "description" : "The 11-year-old Candidate Master from the Ukraine is streaming regularly on Twitch.tv and YouTube. But his passion for chess and streaming started even earlier. In our interview, Tykhon tells us how he learned to play chess, what Minecraft has to do with his English-speaking skills, and why he always seems to be in a good mood. Furthermore, we take a look at one of his favourite games, including nice, insightful analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tykhon-cherniaiev-professional-streamer-minecrafter-and-chess-prodigy",
@@ -114,7 +130,7 @@ news_feed (
          "title" : "January 2022 Chess Puzzle Answer Key "
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel looks at material imbalances from world champion Magnus Carlsen. The mysterious masked Josh... 2022.02.01<br /> Magnus Carlsen vs Shakhriyar Mamedyarov, 84th Tata Steel Masters (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2228983\">https://www.chessgames.com/perl/chessgame?gid=2228983</a><br /> Magnus Carlsen vs Anish Giri, 84th Tata Steel Masters (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2210967\">https://www.chessgames.com/perl/chessgame?gid=2210967</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"f",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel looks at world champion Magnus Carlsen during Tata Steel 2022 in Wijk aan Zee. The mysterious masked Josh marvels at Carlsen's ability to play positions with material imbalances. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-and-material-imbalances-grandmasters-choice-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ywW7xQPTnyM.jp",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/carlsen-and-material-imbalances-grandmasters-choice-gm-josh-friedel",
@@ -122,7 +138,7 @@ news_feed (
          "title" : "Carlsen and Material Imbalances | Grandmaster's Choice - GM Josh Friedel"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 rating. The mysterious masked Caleb... </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dubov-tarrasch-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JHIcEi1eM5E.jpg?itok=dInsP3OM\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby teaches you how to play Daniil Dubov's trendy Tarrasch Defense variation. The mysterious masked Caleb believes the Dubov Tarrasch can fill holes in your repertoire. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dubov-tarrasch-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JHIcEi1eM5E.jpg?itok=dInsP3OM\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/dubov-tarrasch-road-2000-nm-caleb-denby",
@@ -194,7 +210,7 @@ news_feed (
          "title" : "Praggnanandhaa to feature in Airthings Masters Chess"
       },
       {
-         "description" : " Share! Over the years, I have written a number of articles and produced videos for Black History Month. I remember one where I gave a history of how the commemoration was started in 1926 by Dr. Carter G. Woodson. Is Black History Relevant? While some criticize the idea of highlighting a particular segment of the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/01/black-history-month-2022-chess-day-1/\">Black History Month 2022: Chess Day #1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Over the years, I have written a number of articles and produced videos for Black History Month. I remember one where I gave a history of how the commemoration was started in 1926 by Dr. Carter G. Woodson. Is Black History Relevant? While some criticize the idea of highlighting a particular segment of the population, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/01/black-history-month-2022-chess-day-1/\">Black History Month 2022: Chess Day #1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/01/black-history-month-2022-chess-day-1/",
@@ -2184,14 +2200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1520",
          "pubDate" : "Thu, 13 Jan 2022 18:02:31 +0000",
          "title" : "Tata Steel Chess 2022 starts on January 14"
-      },
-      {
-         "description" : "Chess.com is thrilled to announce the Chess.com Rapid Chess Championship, our most elite event ever. The first &#34;RCC&#34; debuts with a prize fund of $650,000. This 25-week extravaganza begins on February 12 and culminates in a dramatic finale on Augus...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-rapid-chess-championship-2022",
-         "pubDate" : "Thu, 13 Jan 2022 07:51:00 -0800",
-         "title" : "Announcing The Chess.com Rapid Chess Championship With $650,000 In Prizes"
       },
       {
          "description" : "The 84th edition of the Tata Steel Chess Tournament opens tomorrow and takes place in Wijk aan Zee from 14 - 30 January 2022. This year, the Tata Steel Chess Tournament 2022 features Masters and Challengers events, taking place in the traditional Wijk aan Zee venue, while the annual Tata Steel Chess for children will take place Online&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/tata-steel-chess-2022-starts-in-wijk-aan-zee/\">Read More &#187;</a></span>",
