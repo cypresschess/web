@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! Baraka Shabazz's demure pose is a testament to her confidence and poise. This photo was featured in Chicago Metro News, December 4, 1982 as part of Tony Brown Journal segment. When she burst onto the scene in the early 80s, Baraka Shabazz (pronounced sha-boz) was a curious girl who learned chess in a cabin [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/04/black-history-month-2022-day-4-baraka-shabazz/\">Black History Month 2022-Day 4: Baraka Shabazz</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/04/black-history-month-2022-day-4-baraka-shabazz/",
+         "pubDate" : "Fri, 04 Feb 2022 15:54:46 +0000",
+         "title" : "Black History Month 2022-Day 4: Baraka Shabazz"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
+         "pubDate" : "Fri, 04 Feb 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : " So it's day one! Let's see how it rolls! <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/cCI6KQX6O2E?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/grand-prix-day-1-live-broadcast/",
+         "pubDate" : "Fri, 04 Feb 2022 13:31:36 +0000",
+         "title" : "Grand Prix Day 1: Live Broadcast"
+      },
+      {
          "description" : "The ECF is running a second Endgame Challenge with IM Lorin D'Costa (above right) and GM Keith Arkell (above left). The challenge will follow a...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "Can Artificial Intelligence identify your playing style?"
       },
       {
-         "description" : "The Battle of the Sexes Chess Tournament concluded on Thursday in Gibraltar with a 53-47 for the men&#39;s team. This team event, with evenly paired men and women on opposing sides, took place at Gibraltar&#39;s Garrison Library and replaced the tradition...",
+         "description" : "The Battle of the Sexes Chess Tournament concluded on Thursday in Gibraltar with a 53-47 score for the men&#39;s team. This team event, with evenly paired men and women on opposing sides, took place at Gibraltar&#39;s Garrison Library and replaced the tra...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gibraltar-2022-battle-of-the-sexes",
@@ -162,7 +186,7 @@ news_feed (
          "title" : "The final pools of the FIDE World Chess Grand Prix 2022"
       },
       {
-         "description" : " Share!160 St. Louis is known as a center of chess activity today with its Chess Center and Scholastic Center and as the host of the World Chess Hall of Fame. It is also a magnet for attracting international chess talent to several universities in the area. However, St. Louis had a history long before it [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/03/black-history-month-2022-day-3-leroy-muhammad/\">Black History Month 2022-Day 3: Leroy Muhammad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " St. Louis is known as a center of chess activity today with its Chess Center and Scholastic Center and as the host of the World Chess Hall of Fame. It is also a magnet for attracting international chess talent to several universities in the area. However, St. Louis had a history long before it became [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/03/black-history-month-2022-day-3-leroy-muhammad/\">Black History Month 2022-Day 3: Leroy Muhammad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/03/black-history-month-2022-day-3-leroy-muhammad/",
@@ -1882,14 +1906,6 @@ news_feed (
          "title" : "Kasparov and NFT"
       },
       {
-         "description" : "A core of chess is the correct prophylaxis. That doesn't mean, that we have to brush our teeth twice a day, since I hope we all do this any way. But, as I heard Yasser Seirawan once say:\"I tend to play a conscious move, before my opponent plays the threat\". Svitlana shows us the smartest moves in difficult situations, and explains how to approach a rough position like this.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-27",
-         "pubDate" : "Wed, 19 Jan 2022 17:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - The prophylactic moves"
-      },
-      {
          "description" : " Since starting this blog in March 2021, I learned a lot. Putting my thoughts into words has been a tremendous experience. I also got a lot of great feedback from my readers, which helped me to improve further. In this article, I will focus on the three biggest learnings I had in 2021: Don't overthink, [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/top-3-things-i-learned-in-2021/\">Top 3 Things I Learned In 2021</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -2130,14 +2146,6 @@ news_feed (
          "title" : "Tata Steel Masters: Magnus Carlsen join leaders"
       },
       {
-         "description" : " <p class=\"lead\">Day 2 of the <a href=\"https://tatasteelchess.com\">2022 Tata Steel Chess Tournament</a> finished in a glorious way for the World Champion and the Hungarian GM Richard Rapport, who won GM Anish Giri, and the defending Tata Steel Champion GM Jorden van Foreest respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.5608740894901\"> <img src=\"https://worldchess.com/news/pictures/LOW09319.jpg\" width=\"1500\" height=\"961\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW09314.jpg\" width=\"1500\" height=\"857\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW09276.jpg\" width=\"1500\" height=\"921\" alt=\"\" /> <img src=\"https://wo",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/carlsen-and-rapport-the-winners-of-r2-of-the-2022-tata-steel-che/",
-         "pubDate" : "Sun, 16 Jan 2022 20:26:14 +0000",
-         "title" : "Carlsen and Rapport the winners of R2 of the 2022 Tata Steel Chess Tournament"
-      },
-      {
          "description" : " The second round of the 84th Tata Steel Masters in Wijk aan Zee only saw two decisive games but it could have been more and there were several striking games. Magnus Carlsen beat Anish Giri in a sharp Catalan where he was able to set problems the Dutchman couldn't deal with almost straight after the opening phase. Richard Rapport defeated Jorden van Foreest in a game where he got a small edge which led to pressure and a decisive error in the endgame. Shakhriyar Mamedyarov played a strikingly aggressive game against Andrey Esipenko but eventually they just called a stop to it and agreed a draw. The remaining games were drawn with Sam Shankland missing a number of opportunities to put his opp",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2232,14 +2240,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-eight/",
          "pubDate" : "Fri, 14 Jan 2022 17:12:50 +0000",
          "title" : "A Foundation for Beginners Forty Eight"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1521",
-         "pubDate" : "Fri, 14 Jan 2022 13:15:28 +0000",
-         "title" : "FIDE - ISF World School Online Chess Cup: Registration begins"
       }
    ]
 }
