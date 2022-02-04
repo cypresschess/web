@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECF is running a second Endgame Challenge with IM Lorin D'Costa (above right) and GM Keith Arkell (above left). The challenge will follow a...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-endgame-challenge-two-15-16-february/",
+         "pubDate" : "Fri, 04 Feb 2022 12:47:03 +0000",
+         "title" : "ECF Endgame Challenge Two - 15/16 February"
+      },
+      {
+         "description" : " I'm a big fan of <a href=\"https://www.humblebundle.com/\">Humble Bundle</a>, which is a fantastic source for eBooks and computer games. I have seen to odd chess item included in other bundles, but nothing above the 'Chess for Beginners' level. In case I have missed something, have they ever released a chess book, or chess software bundle? <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/humble-bundle.html",
+         "pubDate" : "Fri, 04 Feb 2022 12:34:00 +0000",
+         "title" : "Humble Bundle"
+      },
+      {
          "description" : "Considering the unprecedented situation of pandemic, cancellation of National Championships as well as international events like Olympiad, Asian Games, World Team Chess Championships and mandatory",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2224,14 +2240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1521",
          "pubDate" : "Fri, 14 Jan 2022 13:15:28 +0000",
          "title" : "FIDE - ISF World School Online Chess Cup: Registration begins"
-      },
-      {
-         "description" : " There is very little that is new under the sub, except weird chess openings. During one of the ACTJCL Online Events being run over the Summer holidays, I came across a combined 3 Knights/Latvian opening, which I do not believe I have ever seen before. As an added bonus Black won, which lead me to think that it may not be bad after all. It turns out that it probably is, but not bad enough as to render it unplayable. A little digging showed that it had been played in other games, including a game between lower rated players, which ended in a win for Black. <br /> <b>Pfeifer,Andreas (1950) - Szitas,Gabor (2170) [C46]</b><br />Syre Memorial op 20th Issy les Moulineaux, 05.1997 <script>new PgnVi",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/i-guess-you-can-try-this.html",
-         "pubDate" : "Fri, 14 Jan 2022 12:56:00 +0000",
-         "title" : "I guess you can try this"
       }
    ]
 }
