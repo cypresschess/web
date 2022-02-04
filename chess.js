@@ -2224,22 +2224,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-1",
          "pubDate" : "Sat, 15 Jan 2022 00:00:00 -0800",
          "title" : "Tata Steel Chess R1: Duda, Van Foreest, Vidit Start With Win"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1522",
-         "pubDate" : "Fri, 14 Jan 2022 17:23:02 +0000",
-         "title" : "Manifesto: The Year of the Woman in Chess"
-      },
-      {
-         "description" : " Last week, we looked at a chess tactic called a skewer. A skewer is similar to a pin. Only the long distance pieces Queen, Rooks and Bishops - can execute a skewer. Skewers also take place along the ranks, files or diagonals. Like a pin, three pieces are involved in a skewer; the piece <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-eight/\">A Foundation for Beginners Forty Eight</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-eight/",
-         "pubDate" : "Fri, 14 Jan 2022 17:12:50 +0000",
-         "title" : "A Foundation for Beginners Forty Eight"
       }
    ]
 }
