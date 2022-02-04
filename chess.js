@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Considering the unprecedented situation of pandemic, cancellation of National Championships as well as international events like Olympiad, Asian Games, World Team Chess Championships and mandatory",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-chess-championships-2021-22/",
+         "pubDate" : "Fri, 04 Feb 2022 12:26:59 +0000",
+         "title" : "NATIONAL CHESS CHAMPIONSHIPS 2021-22"
+      },
+      {
+         "description" : "Ashton Anderson, a computer scientist at the University of Toronto, wanted to know whether chess players have a unique playing style. To answer that question, he and his team gathered more than \"50 million human games played on the Lichess website. They collected games by players who had played at least 1000 times and sampled sequences of up to 32 moves from those games. ... [Then] they gave the system 100 games from each of about 3000 known players, and 100 fresh games from a mystery player. The system ... identified the mystery player 86% of the time.\" An article in \"Science\" takes a closer look at the pros and cons of this experiment. | Photo: Xi Jian/stock.com | Source: \"Science\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/can-artificial-intelligence-identify-your-playing-style",
+         "pubDate" : "Fri, 04 Feb 2022 13:11:28 +0100",
+         "title" : "Can Artificial Intelligence identify your playing style?"
+      },
+      {
+         "description" : "The Battle of the Sexes Chess Tournament concluded on Thursday in Gibraltar with a 53-47 for the men&#39;s team. This team event, with evenly paired men and women on opposing sides, took place at Gibraltar&#39;s Garrison Library and replaced the tradition...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gibraltar-2022-battle-of-the-sexes",
+         "pubDate" : "Fri, 04 Feb 2022 04:00:00 -0800",
+         "title" : "Men Victorious In Gibraltar's Battle of the Sexes"
+      },
+      {
+         "description" : "In his Power Play Show, GM Daniel King looks at two Tata Steel classics, played seven years apart, but in the same opening. It's interesting and worth comparing the strategies of the two victors, Magnus Carlsen and Arjun Erigaisi. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-two-tata-classics",
+         "pubDate" : "Fri, 04 Feb 2022 13:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Two Tata classics"
+      },
+      {
+         "description" : "We are inviting nominations for the BCET Awards 2022. With over the board chess resuming in 2021 after a break of nearly 18 months we...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
+         "pubDate" : "Fri, 04 Feb 2022 10:10:08 +0000",
+         "title" : "BCET Awards 2022"
+      },
+      {
+         "description" : "Keymer-Dubov, Esipenko-Grischuk, Bacrot-Nakamura and Aronian-Vidit are among the games to look forward to as the 2022 FIDE Grand Prix begins in Berlin on Friday 4th February at 15:00 CET. Ding Liren, who failed to get a visa, and Dmitry Andreikin, who tested positive, are absent, but the remaining 14 players have made it to Berlin, including Daniil Dubov, who has twice tested negative since he was forced to pull out of the Tata Steel Masters.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-grand-prix-starts-today-in-berlin",
+         "pubDate" : "Fri, 04 Feb 2022 09:28:44 +0000",
+         "title" : "FIDE Grand Prix starts today in Berlin"
+      },
+      {
          "description" : "Vasyl \"Chucky\" Ivanchuk is one of the most original of all top players, but for more than a year he has not played an official game. However, he is still enjoying chess and is now trying his hand at streaming. On his new YouTube channel \"IvanchukChess\" the former world's number two explains and analyses current games. | Photo: Lennart Ootes / World Rapid Championship 2016",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,7 +146,7 @@ news_feed (
          "title" : "The final pools of the FIDE World Chess Grand Prix 2022"
       },
       {
-         "description" : " Share!86 St. Louis is known as a center of chess activity today with its Chess Center and Scholastic Center and as the host of the World Chess Hall of Fame. It is also a magnet for attracting international chess talent to several universities in the area. However, St. Louis had a history long before it [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/03/black-history-month-2022-day-3-leroy-muhammad/\">Black History Month 2022-Day 3: Leroy Muhammad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!160 St. Louis is known as a center of chess activity today with its Chess Center and Scholastic Center and as the host of the World Chess Hall of Fame. It is also a magnet for attracting international chess talent to several universities in the area. However, St. Louis had a history long before it [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/03/black-history-month-2022-day-3-leroy-muhammad/\">Black History Month 2022-Day 3: Leroy Muhammad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/03/black-history-month-2022-day-3-leroy-muhammad/",
@@ -112,6 +160,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/the-first-night.html",
          "pubDate" : "Thu, 03 Feb 2022 13:05:00 +0000",
          "title" : "The first night"
+      },
+      {
+         "description" : "Category Download National U-8 Girls Final Ranking Download National U-8 Open Final Ranking Download Final Standings U-10, U-12, U-14 &#38; National Schools Final Ranking Download",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-final-ranking-2021/",
+         "pubDate" : "Thu, 03 Feb 2022 12:10:41 +0000",
+         "title" : "National Final Rankings 2021"
       },
       {
          "description" : "Each position can be observed and dissected differently by players of varying strength. The more one knows about various aspects of the game, the more nuances one looks for. A beginner may not understand why someone would spend plenty of time thinking in a position that occurred numerous times, while a strong master will try to rummage through the previous plans and come up with something original. GM Sundararajan Kidambi shows various examples to illustrate this idea. | Photo: Shahid Ahmed",
@@ -1626,14 +1682,6 @@ news_feed (
          "title" : "Dante, Steve Baker and checkmate"
       },
       {
-         "description" : "Shakhriyar Mamedyarov and Richard Rapport won wild games to join Vidit in the lead as Tata Steel Chess resumed after the first rest day. Shakh's second win in a row came against Jorden van Foreest, while Richard admitted he'd \"pulled a rabbit out of a hat\" after getting surprised in the opening by Praggnanandhaa. Magnus Carlsen and Fabiano Caruana missed chances, while Jan-Krzysztof Duda accepted a draw in a winning position. Arjun Erigaisi leads the Challengers by a full point after winning a 3rd game in a row.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-5-rapport-mamedyarov-hit-the-front",
-         "pubDate" : "Fri, 21 Jan 2022 12:56:38 +0000",
-         "title" : "Tata Steel 5: Rapport & Mamedyarov hit the front"
-      },
-      {
          "description" : " We'll wrap up our look at skewers this week by looking at the most powerful skewer of all, one involving the King. If you recall from the last two articles on this specific tactic, a skewer is similar to a pin, in that there are three pieces involved; the piece doing the skewer, the skewered <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-nine/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Nine\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-nine/\">A Foundation for Beginners Forty Nine</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">Th",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1826,28 +1874,12 @@ news_feed (
          "title" : "Svitlana's Smart Moves - The prophylactic moves"
       },
       {
-         "description" : "Vidit Gujrathi kept the sole lead at the Tata Steel Masters going into the first rest day of the event, as round 4 saw 2 out of 7 games ending decisively. Praggnanandhaa inflicted Nils Grandelius' third defeat to bounce back to a 50% score, while Shakhriyar Mamedyarov got the better of Jan-Krzysztof Duda with the white pieces. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r4",
-         "pubDate" : "Wed, 19 Jan 2022 16:30:00 +0100",
-         "title" : "Tata Steel R4: Wins for Pragg and Shakh"
-      },
-      {
          "description" : " Since starting this blog in March 2021, I learned a lot. Putting my thoughts into words has been a tremendous experience. I also got a lot of great feedback from my readers, which helped me to improve further. In this article, I will focus on the three biggest learnings I had in 2021: Don't overthink, [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/top-3-things-i-learned-in-2021/\">Top 3 Things I Learned In 2021</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/top-3-things-i-learned-in-2021/",
          "pubDate" : "Wed, 19 Jan 2022 15:00:00 +0000",
          "title" : "Top 3 Things I Learned In 2021"
-      },
-      {
-         "description" : "In his \"Weekly Show\" Lawrence Trent shares his thoughts and some highlights from the Tata Steel Chess Tournament in Wijk aan Zee. Lawrence analysed the lovely game Carlsen vs Giri, where the World Champ unveiled some serious hidden prep in a Catalan. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-highlights-from-tata-steel-2022",
-         "pubDate" : "Wed, 19 Jan 2022 16:00:00 +0100",
-         "title" : "The Weekly Show: Highlights from Wijk aan Zee"
       },
       {
          "description" : "Remember what \"Sensory board chess computers\" were like, four decades ago? Bulky, heavy, with complicated installation, and very expensive to buy. Today you get elegant, flat boards, which run on rechargeable batteries. And they are immediately ready to play. The one we are looking at today even adjusts its playing strength to match yours. It is a pleasure to operate.",
@@ -1866,28 +1898,12 @@ news_feed (
          "title" : "More Themed Training Tournaments"
       },
       {
-         "description" : "Keeping the AICF's motto of chess development every nook and corner of the country, All India Chess Federation is organizing five FIDE Trainers' Seminar as",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-trainer-seminars/",
-         "pubDate" : "Wed, 19 Jan 2022 08:47:50 +0000",
-         "title" : "FIDE TRAINER SEMINARS"
-      },
-      {
          "description" : " <p class=\"lead\">Day 4 of the 2022 Tata Steel Chess Tournament came like a storm before the rest day. GM Vidit Santosh Gujrathi remains the sole leader after his draw with GM Andrey Esipenko, while the World Champion lost his chance to win against the reigning Tata Steel Champion, Jorden Van Foreest. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.4985014985015\"> <img src=\"https://worldchess.com/news/pictures/LOW00063.jpg\" width=\"1500\" height=\"1001\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW00052.jpg\" width=\"1500\" height=\"888\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW00025.jpg\" width=\"1500\" height=\"1001\" alt=\"\" /> <img ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/tata-steel-2022-round-4-vidit-remains-the-sole-leader-carlsen-mi/",
          "pubDate" : "Wed, 19 Jan 2022 08:15:58 +0000",
          "title" : "Tata Steel 2022 Round 4: Vidit remains the sole leader, Carlsen missed a win"
-      },
-      {
-         "description" : "Keeping the AICF's motto of chess development every nook and corner of the country, All India Chess Federation is organizing five FIDE Arbiters' Seminar as",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-arbiter-seminars/",
-         "pubDate" : "Wed, 19 Jan 2022 07:58:22 +0000",
-         "title" : "FIDE ARBITER SEMINARS"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88987669.cms\" />Indian Grandmaster Vidit Santhosh Gujrathi settled for a draw against Russia's Andrey Esipenko in the fourth round to stay in the lead with three points in the prestigious Tata Steel Masters chess tournament.",
@@ -2200,14 +2216,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-eight/",
          "pubDate" : "Fri, 14 Jan 2022 17:12:50 +0000",
          "title" : "A Foundation for Beginners Forty Eight"
-      },
-      {
-         "description" : "Dear Chess.com Community, Today Chess.com is announcing something big, and yet also inconsequential: one of the world&#38;rsquo;s top &#38;ldquo;growth equity&#38;rdquo; firms, General Atlantic, has made a major investment in Chess.com. This transaction hap...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-gets-major-investment",
-         "pubDate" : "Fri, 14 Jan 2022 08:35:00 -0800",
-         "title" : "Chess.com Gets Major Investment"
       },
       {
          "description" : "",
