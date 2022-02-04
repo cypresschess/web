@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A <a href=\"https://www.gibchess.com/\">match</a> between ten female professionals and ten male players that matched by rating and age ended 53:47 for the men's side. The <strong>Battle of the Sexes</strong> filled in for a year without a big Gibraltar open after its old venue, the Caleta Hotel, has been closed for good. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/women-lose-a-battle/",
+         "pubDate" : "Thu, 03 Feb 2022 22:22:19 +0100",
+         "title" : "Women lose a battle"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1557",
+         "pubDate" : "Thu, 03 Feb 2022 20:50:14 +0000",
+         "title" : "2022 FIDE Grand Prix kicks off in Berlin"
+      },
+      {
+         "description" : " <p class=\"lead\"><a href=\"https://worldchess.com/series/grandprix2022\">The first leg of the 2022 FIDE Grand Prix Series</a>, organized by World Chess, will begin tomorrow in Berlin. During the next two weeks, sixteen of the world's best chess players will battle it out for the two final Candidates spots, which is scheduled for June in Madrid. The venue is the World Chess Club Berlin, located at the City Centre on Unter den Linden, 26-30 and the games will be played from February 4th-17th every afternoon at 3pm. Along with the qualification for the Candidates, the event has a 150.000 euros prize fund, 20.000 euros more than the 2019 series. The first-round clashes are expected to be fast and ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-2022-fide-grand-prix-kicks-off-in-berlin/",
+         "pubDate" : "Thu, 03 Feb 2022 20:44:11 +0000",
+         "title" : "The 2022 FIDE Grand Prix Kicks Off in Berlin"
+      },
+      {
          "description" : " The world champion won Tata Steel Wijk aan Zee for a record eighth time and felt 'really good' about his play Magnus Carlsen was a class apart from his rivals last week at Tata Steel Wijk aan Zee, the \"chess Wimbledon\". The No 1 capped a dominant performance with a virtuoso final game against an old rival, an unbeaten 9.5/13 total, and a record eighth victory. He has finished first at Wijk on more than half his appearances there, and the organisers have promised a gold-plated trophy if he makes it to 10 victories at the small Dutch North Sea resort. Norway's world champion, 31, said that he felt \"really good about my play. To some extent I took the obvious chances and left the more difficul",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/feb/03/chess-magnus-carlsen-wijk-aan-zee-leonard-barden",
          "pubDate" : "Thu, 03 Feb 2022 18:03:06 +0000",
          "title" : "Chess: Carlsen a class apart as world No 1 dominates at 'chess Wimbledon'"
+      },
+      {
+         "description" : " The first leg of three FIDE Grand Prix takes place in Berlin 4th to 17th February. Players will compete in two out of the three legs and the best two combined results will qualify for the Candidates. Ding Liren failed to get a Visa for the event and is out as is Kirill Alekseenko. There are four pools of four players. The winners of each pool meet in a final KO phase to decide the winner. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-prix-leg-1-berlin-2022",
+         "pubDate" : "Thu, 3 Feb 2022 21:56:00 +0400",
+         "title" : "FIDE Grand Prix Leg 1 Berlin 2022 - "
       },
       {
          "description" : "This week Robert Ris shows how Black can spice up things in the Scotch Four Knights (1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4), a line that enjoys the reputation of being very solid for White, by sacrificing a knight on move five. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -456,14 +488,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tata-steel-13-erigaisi-hits-goal-as-carlsen-commentates-last-round",
          "pubDate" : "Mon, 31 Jan 2022 13:18:11 +0000",
          "title" : "Tata Steel 13: Erigaisi hits goal as Carlsen commentates"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Lilli Hahn</strong> from the Chess Sports Association, the German podcaster <strong>Michael Busse</strong> and <strong>FIDE</strong> have launched <a href=\"https://fide.podbean.com/\">a monthly podcast</a> during the <strong>Year of the Woman in Chess</strong>. The first interviewee is the Slovenian psychologist and author <strong>Jana Krivec</strong>. Next up is the American chess and poker commentator and author <strong>Jennifer Shahade</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/year-of-the-woman-podcast/",
-         "pubDate" : "Mon, 31 Jan 2022 13:49:49 +0100",
-         "title" : "Year of the woman podcast"
       },
       {
          "description" : "",
@@ -2120,14 +2144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1523",
          "pubDate" : "Sun, 16 Jan 2022 00:37:16 +0000",
          "title" : "Tata Steel 2022: Duda, Vidit and Van Foreest take the lead"
-      },
-      {
-         "description" : " <p class=\"lead\">Day 1 of the <a href=\"https://tatasteelchess.com\">Tata Steel Chess Tournament 2022</a> is over with GMs Van Foreest, Duda and Vidit leading the event, while Carlsen, Mamedyarov and Caruana missed their chances. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1920\" data-ratio=\"1.8216318785579\"> <img src=\"https://worldchess.com/news/pictures/low08500-lennart-ootes-min_optimized.jpeg\" width=\"1920\" height=\"1054\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/low08481-lennart-ootes-min_optimized.jpeg\" width=\"1920\" height=\"1245\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/low08363-lennart-ootes-min_optimized-1.jpeg\" width=\"1920\" height=\"1294\"",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/tata-steel-2022-round-1-five-draws-and-a-win-for-duda-and-jorden/",
-         "pubDate" : "Sat, 15 Jan 2022 19:22:33 +0000",
-         "title" : "Tata Steel 2022, Round 1: Four Draws And a Win For Duda, Vidit and Van Foreest"
       },
       {
          "description" : " The first round of the Tata Steel Masters saw wins for Jan-Krzysztof Duda against Richard Rapport, Jorden van Foreest against Nils Grandelius and Vidit Gujrathi against Sam Shankland. There were also escapes for Daniil Dubov against Shakhriyar Mamedyarov and Sergey Karjakin against Fabiano Caruana. World Champion Magnus Carlsen had a comfortable draw against Andrey Esipenko with black. All in a all an exciting start. Brief summaries of all the games in the masters group below. Round 1 Masters Standings: 1-3 Duda, Vidit, Van Foreest 1pt 4-11 Carlsen, Caruana, Giri, Mamedyarov, Karjakin, Dubov, Esipenko, Praggnanandhaa 0.5pts, 12-14 Rapport, Shankland, Grandelius 0pts Round 2 pairings Sunday ",
