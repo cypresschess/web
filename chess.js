@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Eighteen-year-old Arjun has won two Tata Steel events in two continents, broken into the top 100, and is hoping to catch a sponsor's eye.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33206270/arjun-erigaisi-chess-newest-breakout-player?device=featurephone",
+         "pubDate" : "Fri, 4 Feb 2022 01:05:16 -0500",
+         "title" : "Arjun Erigaisi: Chess' newest breakout player"
+      },
+      {
+         "description" : " <p class=\"lead\">Whether you're a chess veteran or just starting your chess journey, having the right chess set is a must. The elite tournament-level chess sets (including the iconic World Chess Championship set) provide plenty of excellent options for table-top play, but there is almost nothing in the travel or pocket-size chess sets category. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E84B5CCB-7E39-40D5-A650-A3A6B2A4C6D8.jpeg\" width=\"1600\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\"><a href=\"https://shop.worldchess.com/collections/chess-sets/products/world-chess-pocket-set\">Pocket Chess Set by World Chess</a></div> </div> World Chess has developed",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/new-product-pocket-chess-set-youll-actually-want-to-own/",
+         "pubDate" : "Fri, 04 Feb 2022 05:48:09 +0000",
+         "title" : "New Product: Pocket Chess Set You'll Actually Want to Own"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A <a href=\"https://www.gibchess.com/\">match</a> between ten female professionals and ten male players that matched by rating and age ended 53:47 for the men's side. The <strong>Battle of the Sexes</strong> filled in for a year without a big Gibraltar open after its old venue, the Caleta Hotel, has been closed for good. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-preview",
          "pubDate" : "Thu, 03 Feb 2022 17:00:00 +0100",
          "title" : "Fighting for the last two spots in the Candidates"
-      },
-      {
-         "description" : "Eighteen-year-old Arjun has won two Tata Steel events in two continents, broken into the top 100, and is hoping to catch a sponsor's eye.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33206270/arjun-erigaisi-chess-newest-breakout-player?device=featurephone",
-         "pubDate" : "Thu, 3 Feb 2022 09:44:33 -0500",
-         "title" : "Arjun Erigaisi: Chess' newest breakout player"
       },
       {
          "description" : " <p class=\"lead\">The FIDE Grand Prix 2022 starts tomorrow, on February the 4th, with its first leg in Berlin. Sixteen GMs will participate and claim their position in the 2022 Candidates Tournaments, in June in Madrid. The winner of that tournament will challenge the World Champion Magnus Carlsen in next year's title match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/bus.jpg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> There are 16 GMs playing in each leg, but some of them couldn't make it. GM Ding Liren failed to obtain his travel VISA in time, making it impossible to be in Germany for the Grand Prix and was replaced by GM Radoslaw Wojtaszek. \"FIDE and World",
@@ -2120,14 +2128,6 @@ news_feed (
          "link" : "https://chessimprover.com/facebook-follies/",
          "pubDate" : "Sun, 16 Jan 2022 09:44:01 +0000",
          "title" : "Facebook Follies"
-      },
-      {
-         "description" : " <p class=\"lead\">Just as chess commentators zoomed in on a promising Dubov - Shakh game at the <a href=\"https://tatasteelchess.com/\">Tata Steel Masters</a> last night (interesting structure, very zigzagged dynamics, time trouble, Dubov at the board), the players shook hands and discussed the outcome of the endgame that never happened. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/7C4D0F67-CAE8-478A-9D73-79F465F6A633.jpeg\" width=\"1800\" height=\"1019\" alt=\"\" /> <div class=\"e2-text-caption\">Daniil Dubov during the post-game interview after the game at Tata Steel</div> </div> Commentators on chess sites ranging from chess.com to Levitov chess screamed in awe: what a",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/streamers-react-to-the-deplorable-dubov-shakh-draw/",
-         "pubDate" : "Sun, 16 Jan 2022 09:33:19 +0000",
-         "title" : "Streamers React to the Deplorable Dubov - Shakh Draw"
       },
       {
          "description" : "GM Magnus Carlsen got his first win in the Tata Steel Chess Tournament&#39;s second round as the world champion scored a fairly quick full-point vs. Dutch GM Anish Giri. GM Richard Rapport was the only other winner in the Masters as the Hungarian play...",
