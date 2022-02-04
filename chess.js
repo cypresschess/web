@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vasyl \"Chucky\" Ivanchuk is one of the most original of all top players, but for more than a year he has not played an official game. However, he is still enjoying chess and is now trying his hand at streaming. On his new YouTube channel \"IvanchukChess\" the former world's number two explains and analyses current games. | Photo: Lennart Ootes / World Rapid Championship 2016",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ivanchuk-starts-streaming",
+         "pubDate" : "Fri, 04 Feb 2022 09:22:45 +0100",
+         "title" : "Ivanchuk starts streaming"
+      },
+      {
          "description" : "Eighteen-year-old Arjun has won two Tata Steel events in two continents, broken into the top 100, and is hoping to catch a sponsor's eye.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "Arjun Erigaisi: Chess' newest breakout player"
       },
       {
-         "description" : " <p class=\"lead\">Whether you're a chess veteran or just starting your chess journey, having the right chess set is a must. The elite tournament-level chess sets (including the iconic World Chess Championship set) provide plenty of excellent options for table-top play, but there is almost nothing in the travel or pocket-size chess sets category. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E84B5CCB-7E39-40D5-A650-A3A6B2A4C6D8.jpeg\" width=\"1600\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\"><a href=\"https://shop.worldchess.com/collections/chess-sets/products/world-chess-pocket-set\">Pocket Chess Set by World Chess</a></div> </div> World Chess has developed",
+         "description" : " <p class=\"lead\">Whether you're a chess veteran or just starting your chess journey, having the right chess set is a must. The elite tournament-level chess sets (including the iconic World Chess Championship set) provide plenty of excellent options for table-top play, but there is almost nothing in the travel or pocket-size chess sets category. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0611BFAD-7A1E-4919-BD6F-3BD9F133A1CE.jpeg\" width=\"1600\" height=\"900\" alt=\"\" /> <div class=\"e2-text-caption\"><a href=\"https://shop.worldchess.com/collections/chess-sets/products/world-chess-pocket-set\">Pocket Chess Set by World Chess</a></div> </div> World Chess has developed ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/new-product-pocket-chess-set-youll-actually-want-to-own/",
@@ -1914,14 +1922,6 @@ news_feed (
          "title" : "Training on new developments in the chess regulations held online"
       },
       {
-         "description" : "During the Tata Steel Chess Tournament, the worlds of Artificial Intelligence and Chess will come together at a unique event called 'The Game Changer'. The event will take place online on Friday 21 January, starting at 15.30 CET. How is AI used in chess? Could Magnus Carlsen also have become world champion without the use of AI? And more importantly, how can the world of manufacturing adopt lessons learned in the world of chess?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/livestream-event-the-fascinating-world-of-ai",
-         "pubDate" : "Tue, 18 Jan 2022 20:00:00 +0100",
-         "title" : "Livestream event: The fascinating world of AI"
-      },
-      {
          "description" : " Vidit Gujrathi leads the Tata Steel Masters going into the first rest day with a scored of three points from four rounds. Today Vidit drew against Andrey Esipenko but this wasn't his best day and he was no doubt happy to draw on move 32. There were two decisive games; Shakhriyar Mamedyarov turned round a lost position to beat Jan-Krzysztof Duda when the latter needed more time than he had to play a tricky endgame on the run up to move 40. R Praggnanandhaa had a fairly smooth positional win against Nils Grandelius in an Exchange Gruenfeld. Magnus Carlsen drew a messy game against Jorden Van Foreest where the latter's decision to go for complications paid off even if the computers said he was",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2224,14 +2224,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/i-guess-you-can-try-this.html",
          "pubDate" : "Fri, 14 Jan 2022 12:56:00 +0000",
          "title" : "I guess you can try this"
-      },
-      {
-         "description" : " World champion makes his first move at 'chess Wimbledon' on Saturday Magnus Carlsen will launch his new campaign to achieve a 2900 Fide rating, the Everest of overall tournament performance, when the world champion makes his first move on Saturday (1pm start) in the opening round of the \"chess Wimbledon\" at Tata Steel Wijk aan Zee. Reaching the round number after being previously twice stalled at 2882 is the 31-year-old's major target for 2022. After four successful defences of his global crown, Carlsen says he will only do so again in 2023 if his opponent is the current No 2, Alireza Firouzja, 18, or another grandmaster from the new generation. <a href=\"https://www.theguardian.com/sport/20",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/jan/14/chess-magnus-carlsen-targets-all-time-rating-record-of-2900-at-wijk-aan-zee",
-         "pubDate" : "Fri, 14 Jan 2022 08:00:05 +0000",
-         "title" : "Chess: Magnus Carlsen targets all-time rating record of 2900 at Wijk aan Zee"
       }
    ]
 }
