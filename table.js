@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2022-02-04","26","<a href=http://www.uschess.org/msa/XtblMain.php?202202045642 target=' blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2022-02-04","8","<a href=http://www.uschess.org/msa/XtblMain.php?202202045572 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2022-01-30","7","<a href=http://www.uschess.org/msa/XtblMain.php?202201304832 target=' blank'>HOUSTON JAN. 30 SUNDAY SWISS</a>",
 "SPRING","2022-01-29","232","<a href=http://www.uschess.org/msa/XtblMain.php?202201293562 target=' blank'>22ND KLEIN WINTER SCHOLASTIC</a>",
 "SPRING","2022-01-28","13","<a href=http://www.uschess.org/msa/XtblMain.php?202201283152 target=' blank'>THE FRIDAY KNIGHTS</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2021-03-06","8","<a href=http://www.uschess.org/msa/XtblMain.php?202103068262 target=' blank'>THE SATURDAY KNIGHTS</a>",
 "KATY","2021-03-06","17","<a href=http://www.uschess.org/msa/XtblMain.php?202103062332 target=' blank'>SR CHESSKNIGHTS 03062021</a>",
 "SPRING","2021-03-05","34","<a href=http://www.uschess.org/msa/XtblMain.php?202103057922 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"LEAGUE CITY","2021-02-27  - 02-28","158","<a href=http://www.uschess.org/msa/XtblMain.php?202102282462 target=' blank'>USATS- USAT-SOUTH OPEN</a>",
-"SPRING","2021-02-27","13","<a href=http://www.uschess.org/msa/XtblMain.php?202102276232 target=' blank'>THE SATURDAY KNIGHTS</a>",
 ]);
