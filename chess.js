@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The first round of the group stage began at exactly 3 pm at the City Centre on Unter den Linden with the opening call from Ivan Syrovy, Chief Arbiter of the event. By that time, and according to the rules of the tournament, all the players had been PCR-tested and were firmly seated at their boards. For one of them, American GM Hikaru Nakamura, who enjoys a wild card invitation for the series, today was the first classical chess game for him in more than two years. In fact, he had even been dropped from the FIDE classical rating list due to inactivity! <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pic",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/aronian-leads-the-pack-in-the-berlin-grand-prix/",
+         "pubDate" : "Sat, 05 Feb 2022 00:25:44 +0000",
+         "title" : "Aronian leads the pack in the Berlin Grand Prix"
+      },
+      {
+         "description" : "The first round of the 2022 FIDE Grand Prix saw three decisive games in an intense start to the group stage of the event. After the first of the total six double round-robin games to be played among players of each group, GM Vladimir Fedoseev and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r1-wojtaszek-fedoseev-aronian-start-with-wins",
+         "pubDate" : "Fri, 04 Feb 2022 15:58:24 -0800",
+         "title" : "2022 FIDE Grand Prix Berlin R1: Wojtaszek, Fedoseev, Aronian Start With Wins"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1558",
+         "pubDate" : "Fri, 04 Feb 2022 23:27:33 +0000",
+         "title" : "Aronian leads the pack in the Berlin Grand Prix"
+      },
+      {
+         "description" : " <p class=\"lead\">Round 1 of <a href=\"https://worldchess.com/series/grandprix2022\">the FIDE Grand Prix Series 2022</a> started today with some really exciting games. The rating replacement, Radoslaw Wojtaszek, along with Vladimir Fedoseev, and Levon Aronian had the first decisive games of the tournament, with Aronian being the sole leader in Pool C. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/FIDE_20220204-77.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Esipenko and Grischuk discussing the result after the game.</div> </div> It seems that Catalan is the new black, as Esipenko-Grischuk, Fedoseev-Oparin, and Wojtaszek-Rapport dived into",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/three-decisive-games-at-the-first-day-of-the-fide-grand-prix-ser/",
+         "pubDate" : "Fri, 04 Feb 2022 20:47:23 +0000",
+         "title" : "Three decisive games at the first day of the FIDE Grand Prix Series 2022"
+      },
+      {
          "description" : " Share! Baraka Shabazz's demure pose is a testament to her confidence and poise. This photo was featured in Chicago Metro News, December 4, 1982 as part of Tony Brown Journal segment. When she burst onto the scene in the early 80s, Baraka Shabazz (pronounced sha-boz) was a curious girl who learned chess in a cabin [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/04/black-history-month-2022-day-4-baraka-shabazz/\">Black History Month 2022-Day 4: Baraka Shabazz</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -15,7 +47,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
          "pubDate" : "Fri, 04 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
+         "title" : "FIDE Grand Prix - Games and results"
       },
       {
          "description" : " So it's day one! Let's see how it rolls! <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/cCI6KQX6O2E?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -1930,14 +1962,6 @@ news_feed (
          "title" : "More Themed Training Tournaments"
       },
       {
-         "description" : " <p class=\"lead\">Day 4 of the 2022 Tata Steel Chess Tournament came like a storm before the rest day. GM Vidit Santosh Gujrathi remains the sole leader after his draw with GM Andrey Esipenko, while the World Champion lost his chance to win against the reigning Tata Steel Champion, Jorden Van Foreest. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.4985014985015\"> <img src=\"https://worldchess.com/news/pictures/LOW00063.jpg\" width=\"1500\" height=\"1001\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW00052.jpg\" width=\"1500\" height=\"888\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW00025.jpg\" width=\"1500\" height=\"1001\" alt=\"\" /> <img ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/tata-steel-2022-round-4-vidit-remains-the-sole-leader-carlsen-mi/",
-         "pubDate" : "Wed, 19 Jan 2022 08:15:58 +0000",
-         "title" : "Tata Steel 2022 Round 4: Vidit remains the sole leader, Carlsen missed a win"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88987669.cms\" />Indian Grandmaster Vidit Santhosh Gujrathi settled for a draw against Russia's Andrey Esipenko in the fourth round to stay in the lead with three points in the prestigious Tata Steel Masters chess tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2048,14 +2072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1528",
          "pubDate" : "Mon, 17 Jan 2022 22:28:41 +0000",
          "title" : "Tata Steel Masters: Vidit shoots ahead"
-      },
-      {
-         "description" : " <p class=\"lead\">Day 3 of the <a href=\"https://tatasteelchess.com\">2022 Tata Steel Tournament</a> is over, and GM Vidit Santosh Gujrathi is leading with half a point after a fascinating match against GM Daniil Dubov. Esipenko, Van Foreest, and Rapport the other winners of Round 3. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.4031805425631\"> <img src=\"https://worldchess.com/news/pictures/LOW09748.jpg\" width=\"1500\" height=\"1069\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW09623.jpg\" width=\"1500\" height=\"989\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW09600.jpg\" width=\"1500\" height=\"798\" alt=\"\" /> <img src=\"https://worldche",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/4-decisive-games-on-r3-of-the-2022-tata-steel-tournament-vidit-t/",
-         "pubDate" : "Mon, 17 Jan 2022 21:32:02 +0000",
-         "title" : "4 decisive games on R3 of the 2022 Tata Steel Tournament, Vidit the sole leader"
       },
       {
          "description" : "",
@@ -2216,14 +2232,6 @@ news_feed (
          "link" : "https://www.thearticle.com/enemies-of-the-people-on-stage-and-the-chessboard/",
          "pubDate" : "Sat, 15 Jan 2022 09:38:42 +0000",
          "title" : "Enemies of the people, on stage and the chessboard"
-      },
-      {
-         "description" : "The first round of the 2022 Tata Steel Chess Tournament saw three leaders emerge, including the 2021 winner GM Jorden van Foreest. World Champion GM Magnus Carlsen started with a quick draw vs. GM Andrey Esipenko. The Challengers group saw four de...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-1",
-         "pubDate" : "Sat, 15 Jan 2022 00:00:00 -0800",
-         "title" : "Tata Steel Chess R1: Duda, Van Foreest, Vidit Start With Win"
       }
    ]
 }
