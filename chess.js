@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Round 2 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> came to an end with Nakamura, Rapport, and Dominguez winning their games. After today's results Nakamura, Wojtaszek, Aronian, and Dominguez are leading their groups. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2232\" data-ratio=\"1.5\"> <img src=\"https://worldchess.com/news/pictures/A.jpg\" width=\"2232\" height=\"1488\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/FIDE_20220205-08.jpg\" width=\"2232\" height=\"1488\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/FIDE_20220205-01.jpg\" width=\"2232\" height=\"1488\" alt=\"\" /> <img src=\"https://worldchess.com",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nakamura-wins-esipenko-in-a-not-so-boring-round-2-of-the-fide-gr/",
+         "pubDate" : "Sat, 05 Feb 2022 19:47:57 +0000",
+         "title" : "Nakamura wins Esipenko in a not so boring Round 2 of the FIDE Grand Prix 2022"
+      },
+      {
          "description" : " <p class=\"lead\">We all remember the World Champion Magnus Carlsen \"sleeping\" in his Championship match against Anand in 2014. Esipenko is \"sleeping\" as well right before his game against Hikaru Nakamura in Round 2 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022.</a> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2022-Twitter-WC-&-FOA-(1).jpg\" width=\"1600\" height=\"900\" alt=\"\" /> </div> During his 2014 World Championship match against Viswanathan Anand, Carlsen created a buzz on Twitter after a picture of him dozing off appeared on social media. <a href=\"https://twitter.com/TheFalseNo9/status/534717155703418881?ref_src=twsrc%5Etf",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/esipenko-is-following-in-carlsens-footsteps-or-sleeping-routine/",
          "pubDate" : "Sat, 05 Feb 2022 15:55:31 +0000",
-         "title" : "Esipenko is following in Carlsen's footsteps...or sleeping routine!"
+         "title" : "Esipenko (Probably) Falls Asleep During the Game, Loses to Nakamura"
       },
       {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
@@ -15,7 +23,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
          "pubDate" : "Sat, 05 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
+         "title" : "FIDE Grand Prix - Games and results"
       },
       {
          "description" : " Welcome to the FIDE World Chess Grand Prix Day Two Live broadcast: <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/VSiNMZ1Ib8g?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -1554,14 +1562,6 @@ news_feed (
          "title" : "FIDE Women's Candidates Tournament and WGP Series 2022-23: Call for bids"
       },
       {
-         "description" : " <p class=\"lead\">In Round 8 of the <a href=\"https://tatasteelchess.com\">2022 Tata Steel Chess Tournament</a> Mamedyarov won against Rameshbabu and now shares the lead with Carlsen who drew against Shankland. The two leaders will face each other on Tuesday the 25th, after a well-deserved rest day! <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.5806111696523\"> <img src=\"https://worldchess.com/news/pictures/JH_4976LR.jpg\" width=\"1500\" height=\"949\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH073715LR.jpg\" width=\"1500\" height=\"1000\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH073717LR.jpg\" width=\"1500\" height=\"957\" alt=\"\" /> <img ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/tata-steel-2022-round-8-mamedyarov-beats-pragg-and-leads-the-mas/",
-         "pubDate" : "Mon, 24 Jan 2022 08:06:08 +0000",
-         "title" : "Tata Steel 2022 Round 8: Mamedyarov beats Pragg and leads the Masters with Carlsen"
-      },
-      {
          "description" : " The Gibraltar International Chess Festival takes place 23rd January to 3rd February 2022. Due to Covid-19 the International Open has had to be canceled. In its place is the Gibchess Battle of the Sexes Scheveningen match with 10 men and 10 women playing one game against each other. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1914,14 +1914,6 @@ news_feed (
          "title" : "Wins for Rapport and Mamedyarov take them into a joint lead with Vidit after Tata Steel Round 5 - 5"
       },
       {
-         "description" : "This week Robert Ris will have a look at the fantastic game between Daniil Dubov and Vidit Gujrathi from the Tata Steel Masters in Wijk aan Zee. Dubov played provocatively out of a Giuoco Piano, Vidit gladly accepted the challenge, and an incredible struggle ensued! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-fireworks-in-the-giuoco-piano",
-         "pubDate" : "Thu, 20 Jan 2022 18:30:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Fireworks in the Giuoco Piano"
-      },
-      {
          "description" : " FM Ignacio Perez (1967-2022)Photo by Washington State Chess Federation The Seattle chess community is in mourning after the passing of Ignacio P&eacute;rez on January 11th, 2022. The long-time Seattle resident succumbed after a lengthy battle with throat cancer but remained active in the chess community despite his illness. He was a few weeks shy of [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/20/fm-ignacio-perez-1967-2022-passes-away/\">FM Ignacio P&eacute;rez (1967-2022) passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2224,14 +2216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1523",
          "pubDate" : "Sun, 16 Jan 2022 00:37:16 +0000",
          "title" : "Tata Steel 2022: Duda, Vidit and Van Foreest take the lead"
-      },
-      {
-         "description" : " The first round of the Tata Steel Masters saw wins for Jan-Krzysztof Duda against Richard Rapport, Jorden van Foreest against Nils Grandelius and Vidit Gujrathi against Sam Shankland. There were also escapes for Daniil Dubov against Shakhriyar Mamedyarov and Sergey Karjakin against Fabiano Caruana. World Champion Magnus Carlsen had a comfortable draw against Andrey Esipenko with black. All in a all an exciting start. Brief summaries of all the games in the masters group below. Round 1 Masters Standings: 1-3 Duda, Vidit, Van Foreest 1pt 4-11 Carlsen, Caruana, Giri, Mamedyarov, Karjakin, Dubov, Esipenko, Praggnanandhaa 0.5pts, 12-14 Rapport, Shankland, Grandelius 0pts Round 2 pairings Sunday ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/tata-steel-2022-gets-underway-with-a-lively-first-round",
-         "pubDate" : "Sat, 15 Jan 2022 23:05:00 +0400",
-         "title" : "Tata Steel 2022 gets underway with a lively first round - 1"
       }
    ]
 }
