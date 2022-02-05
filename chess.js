@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">We all remember the World Champion Magnus Carlsen \"sleeping\" in his Championship match against Anand in 2014. Esipenko is \"sleeping\" as well right before his game against Hikaru Nakamura in Round 2 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022.</a> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2022-Twitter-WC-&-FOA-(1).jpg\" width=\"1600\" height=\"900\" alt=\"\" /> </div> During his 2014 World Championship match against Viswanathan Anand, Carlsen created a buzz on Twitter after a picture of him dozing off appeared on social media. <a href=\"https://twitter.com/TheFalseNo9/status/534717155703418881?ref_src=twsrc%5Etf",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/esipenko-is-following-in-carlsens-footsteps-or-sleeping-routine/",
+         "pubDate" : "Sat, 05 Feb 2022 15:55:31 +0000",
+         "title" : "Esipenko is following in Carlsen's footsteps...or sleeping routine!"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
+         "pubDate" : "Sat, 05 Feb 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : " Welcome to the FIDE World Chess Grand Prix Day Two Live broadcast: <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/VSiNMZ1Ib8g?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/grand-prix-day-2-live-broadcast/",
+         "pubDate" : "Sat, 05 Feb 2022 13:14:47 +0000",
+         "title" : "Grand Prix Day 2: Live Broadcast"
+      },
+      {
          "description" : "On behalf of All India Chess Federation, I congratulate all the participants and State Associations for their overwhelming support for the successful completion of the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -58,7 +82,7 @@ news_feed (
          "title" : "Berlin GP: Dubov escapes"
       },
       {
-         "description" : " Share! NM Wilbert PaigePhoto by Jerry Bibuld One of the most important chess events in Black history had to have been the Wilbert Paige Memorial. The tournament was held in honor of a Philadelphia master Wilbert Paige who died in 1994 in his mid-40s. A product of West Philadelphia High School he teamed with Glenn [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/05/black-history-month-2022-day-5-wilbert-paige-memorial/\">Black History Month 2022-Day 5: Wilbert Paige Memorial</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share! NM Wilbert Paige (1959-1994)Photo by Jerry Bibuld One of the most important chess events in Black history had to have been the Wilbert Paige Memorial. The tournament was held in honor of Philadelphia master Wilbert Paige who died in 1994 in his mid-30s. A product of West Philadelphia High School he teamed with Glenn [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/05/black-history-month-2022-day-5-wilbert-paige-memorial/\">Black History Month 2022-Day 5: Wilbert Paige Memorial</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/05/black-history-month-2022-day-5-wilbert-paige-memorial/",
@@ -112,6 +136,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/04/black-history-month-2022-day-4-baraka-shabazz/",
          "pubDate" : "Fri, 04 Feb 2022 15:54:46 +0000",
          "title" : "Black History Month 2022-Day 4: Baraka Shabazz"
+      },
+      {
+         "description" : " <p class=\"lead\">The FIDE Grand Prix Series 2022 is ongoing and Hikaru Nakamura is definitely one to watch. After more than 2 years of absence from classical chess, Nakamura got kind of bored in <a href=\"https://worldchess.com/news/all/three-decisive-games-at-the-first-day-of-the-fide-grand-prix-ser/\">Round 1</a> of the tournament. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/FIDE_20220204-42.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> On February the 3rd, just after the announcement of Ding Liren not being able to participate in the tournament, Nakamura uploaded a <a href=\"https://www.youtube.com/watc",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/is-nakamura-ready-to-give-up-his-candidates-spot-to-liren-if-he/",
+         "pubDate" : "Fri, 04 Feb 2022 15:02:00 +0000",
+         "title" : "Is Nakamura ready to give up his Candidates spot to Liren if he wins FIDE Grand Prix 2022?"
       },
       {
          "description" : " So it's day one! Let's see how it rolls! <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/cCI6KQX6O2E?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -366,7 +398,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-grand-prix-fantasy-contest",
-         "pubDate" : "Wed, 02 Feb 2022 10:06:50 -0800",
+         "pubDate" : "Wed, 02 Feb 2022 10:06:00 -0800",
          "title" : "Join Chess.com's Free Grand Prix Fantasy Contest For Chance At Share Of $3,000"
       },
       {
@@ -1674,28 +1706,12 @@ news_feed (
          "title" : "Chess Federation of Sri Lanka celebrates 50th anniversary"
       },
       {
-         "description" : " <p class=\"lead\">Daniil Dubov forfeited a game against Anish Giri in Round 7 of the 2022 Tata Steel Chess Tournament. Russian GM did not show up for his game and lost by default after refusing to wear a mask. This incident shows that COVID-19 has substantial effect on the sport, and elite players grow tired of the strict covid requirements emposed by tournament organizers. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-01-22_17-26-53.jpg\" width=\"1054\" height=\"1054\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: Lennart Ootes and Jurriaan Hoefsmit - Tata Steel Chess Tournament 2022</div> </div> Tata Steel made an official announcement explaining that D",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/dubov-refuses-to-wear-a-mask-loses-by-forfeit-on-round-7-of-the/",
-         "pubDate" : "Sat, 22 Jan 2022 14:56:35 +0000",
-         "title" : "Dubov Forfeits a Game After Refusing To Wear a Mask in Tata Steel"
-      },
-      {
          "description" : " While I think 15 minutes chess hits the sweet spot between the thud and blunder of blitz, and the longer thinking of classical chess, it can let players get away from bad positions a little easily. If you can keep up the threats (even material down), your opponent may run short of time (or rush to avoid this), increasing the chance of a blunder. Todays example comes from Street Chess, where White walked into a fairly well known trap, but then put Black under so much pressure that they cracked. <br /> <b>Chibnall,Alana - Radisich,Matt [A51]</b><br />Street Chess 22.01.2022 <script>new PgnViewer( { boardName: \"game1304\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.a3 d6 5",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/01/superficial-chess.html",
          "pubDate" : "Sat, 22 Jan 2022 12:31:00 +0000",
          "title" : "Superficial chess?"
-      },
-      {
-         "description" : " <p class=\"lead\">Match-day 6 of the <a href=\"https://tatasteelchess.com\">2022 Tata Steel Chess Tournament</a> ended with a great victory of GM Anish Giri against the 2018 Challenger Fabiano Caruana with the black pieces. Carlsen won against Rapport to join the leaders, and Karjakin forced Van Foreest to resign after an exemplary game. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.4204545454545\"> <img src=\"https://worldchess.com/news/pictures/JH_4747LR.jpg\" width=\"1500\" height=\"1056\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_4814LR.jpg\" width=\"1500\" height=\"968\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_4762LR.jpg\" widt",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/tata-steel-2022-round-6-giri-defeats-caruana-with-black-carlsen/",
-         "pubDate" : "Sat, 22 Jan 2022 11:17:44 +0000",
-         "title" : "Tata Steel 2022 Round 6: Giri defeats Caruana with black, Carlsen shares the lead with Vidit and Mamedyarov"
       },
       {
          "description" : "",
@@ -1818,14 +1834,6 @@ news_feed (
          "title" : "2022 ACT Blitz Championship"
       },
       {
-         "description" : " <p class=\"lead\">Round 5 of the <a href=\"https://tatasteelchess.com/players/\">2022 Tata Steel Chess Tournament</a> ended with Mamedyarov and Rapport winning Van Foreest and Rameshbabu respectively and joining Vidit in the lead. All the other games ended in a draw but with the utmost excitement. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.7182130584192\"> <img src=\"https://worldchess.com/news/pictures/LOW00694.jpg\" width=\"1500\" height=\"873\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW00638.jpg\" width=\"1500\" height=\"891\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW00635.jpg\" width=\"1500\" height=\"970\" alt=\"\" /> <img src=\"htt",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/tata-steel-2022-round-5-mamedyarov-and-rapport-join-vidit-in-the/",
-         "pubDate" : "Fri, 21 Jan 2022 12:05:53 +0000",
-         "title" : "Tata Steel 2022 Round 5: Mamedyarov and Rapport join Vidit in the lead"
-      },
-      {
          "description" : "Anatoly Karpov is one of the World Champions who is featured in the ChessBase NFT series. The 12th World Champion is a passionate stamp collector and immediately understood the idea. In an interview Karpov talks about NFTs, the story behind his brilliant win against Viktor Kortschnoi in the Candidates Final 1974, the World Championship match Carlsen vs. Nepomniachtchi, and Carlsen's statements about defending the title.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1936,14 +1944,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-5",
          "pubDate" : "Wed, 19 Jan 2022 17:00:00 -0800",
          "title" : "Tata Steel Chess 2022 R5: Mamedyarov, Rapport Catch Vidit"
-      },
-      {
-         "description" : "The International Chess Federation has declared 2022 the Year of the Woman in Chess. According to the FIDE Women's Commision, this is a chance to take a leap forward in their mission of forming gender equity policies, practices and programs. | Pictured: Eva Repkova / Chair of FIDE Women's Commission",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-year-of-the-woman-in-chess-2022",
-         "pubDate" : "Wed, 19 Jan 2022 23:00:00 +0100",
-         "title" : "FIDE declares 2022 the year of the woman in chess"
       },
       {
          "description" : "",
@@ -2232,22 +2232,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/tata-steel-2022-gets-underway-with-a-lively-first-round",
          "pubDate" : "Sat, 15 Jan 2022 23:05:00 +0400",
          "title" : "Tata Steel 2022 gets underway with a lively first round - 1"
-      },
-      {
-         "description" : " Despite her own ambivalence toward chess as a youth,Officer Cookie has shared its joys.Photo by Genna Martin After decades of service, Denise &#8220;Cookie&#8221; Bouldin is having &#8220;Detective Cookie Chess Park&#8221; built in her honor. Detective Cookie been featured on The Chess Drum over the years with her Urban Youth Chess Club in Seattle, Washington. The [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/15/seattle-builds-detective-cookie-chess-park/\">Seattle builds Detective Cookie Chess Park!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/01/15/seattle-builds-detective-cookie-chess-park/",
-         "pubDate" : "Sat, 15 Jan 2022 13:16:47 +0000",
-         "title" : "Seattle builds Detective Cookie Chess Park!"
-      },
-      {
-         "description" : " Magnus Carlsen. This is my pretty safe prediction for the winner of the 2022 Tata Steel Masters, which begins today/midnight Canberra time. As with most editions of the tournament, the organisers haven't packed it with just the top players in the world, although a tournament with Caruana, Giri and Mamedyarov is pretty strong. Even 10th seed Esipenko can be pretty dangerous (as Carlsen knows), although if it isn't Carlsen, then it is only someone else from the top 4 that I can see winning it. Of interest though is how some of the lower seeded players might do. GM Sam Shankland has been hovering around the 2700 level for few years, but a tournament like this may be what is needed to move up t",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/tata-steel-2022-some-lazy-predictions.html",
-         "pubDate" : "Sat, 15 Jan 2022 12:58:00 +0000",
-         "title" : "Tata Steel 2022 - Some lazy predictions"
       }
    ]
 }
