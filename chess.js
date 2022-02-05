@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Share! NM Wilbert PaigePhoto by Jerry Bibuld One of the most important chess events in Black history had to have been the Wilbert Paige Memorial. The tournament was held in honor of a Philadelphia master Wilbert Paige who died in 1994 in his mid-40s. A product of West Philadelphia High School he teamed with Glenn [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/04/black-history-month-2022-day-5-wilbert-paige-memorial/\">Black History Month 2022-Day 5: Wilbert Paige Memorial</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : "In the diagram position Black's active rooks are hitting f2, his queen g5 is eyeing the Rc1 - and yet White unperturbedly continued 30. b4-b5! Can you spot the idea behind this advance?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bogoljubow-s-tricky-minority-attack",
+         "pubDate" : "Sat, 05 Feb 2022 09:00:00 +0100",
+         "title" : "Bogoljubow's tricky minority attack"
+      },
+      {
+         "description" : "The FIDE Grand Prix series kicked off on Friday in Berlin. Out of the eight games played in the first round, three finished decisively, although perhaps two of the draws were the most entertaining to follow live - Daniil Dubov escaped against Vincent Keymer (pictured), after the latter entered a sharp opening variation, while Alexander Grischuk failed to find a killer blow in an endgame against Andrey Esipenko. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r1",
+         "pubDate" : "Sat, 05 Feb 2022 08:15:00 +0100",
+         "title" : "Berlin GP: Dubov escapes"
+      },
+      {
+         "description" : " Share! NM Wilbert PaigePhoto by Jerry Bibuld One of the most important chess events in Black history had to have been the Wilbert Paige Memorial. The tournament was held in honor of a Philadelphia master Wilbert Paige who died in 1994 in his mid-40s. A product of West Philadelphia High School he teamed with Glenn [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/05/black-history-month-2022-day-5-wilbert-paige-memorial/\">Black History Month 2022-Day 5: Wilbert Paige Memorial</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/04/black-history-month-2022-day-5-wilbert-paige-memorial/",
-         "pubDate" : "Sat, 05 Feb 2022 01:26:24 +0000",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/05/black-history-month-2022-day-5-wilbert-paige-memorial/",
+         "pubDate" : "Sat, 05 Feb 2022 05:30:24 +0000",
          "title" : "Black History Month 2022-Day 5: Wilbert Paige Memorial"
       },
       {
@@ -30,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r1-wojtaszek-fedoseev-aronian-start-with-wins",
-         "pubDate" : "Fri, 04 Feb 2022 15:58:24 -0800",
+         "pubDate" : "Fri, 04 Feb 2022 15:58:00 -0800",
          "title" : "2022 FIDE Grand Prix Berlin R1: Wojtaszek, Fedoseev, Aronian Start With Wins"
       },
       {
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/04/black-history-month-2022-day-4-baraka-shabazz/",
          "pubDate" : "Fri, 04 Feb 2022 15:54:46 +0000",
          "title" : "Black History Month 2022-Day 4: Baraka Shabazz"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
-         "pubDate" : "Fri, 04 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Games and results"
       },
       {
          "description" : " So it's day one! Let's see how it rolls! <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/cCI6KQX6O2E?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -1936,14 +1944,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/jeffery-xiong-wins-january-18-titled-tuesday-out-of-9-way-tie",
          "pubDate" : "Wed, 19 Jan 2022 09:04:15 -0800",
          "title" : "Jeffery Xiong Wins January 18 Titled Tuesday Out Of 9-Way Tie"
-      },
-      {
-         "description" : "\"It was special for me to present my journey with 1Kind [Crypto portal] in a series of NFTs that traced my life from childhood through my ever-busy 'retirement,'\" writes Garry Kasparov. \"The project was all the more meaningful for me because 10% of the proceeds will go toward setting up a scholarship fund at the Kasparov Chess Foundation, dedicated to my late mother Klara, that will support all the great talents raised by single mothers like her.\" Read his interview in CoinDesk.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasparov-and-nft-3",
-         "pubDate" : "Wed, 19 Jan 2022 17:10:00 +0100",
-         "title" : "Kasparov and NFT"
       },
       {
          "description" : " Since starting this blog in March 2021, I learned a lot. Putting my thoughts into words has been a tremendous experience. I also got a lot of great feedback from my readers, which helped me to improve further. In this article, I will focus on the three biggest learnings I had in 2021: Don't overthink, [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/top-3-things-i-learned-in-2021/\">Top 3 Things I Learned In 2021</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
