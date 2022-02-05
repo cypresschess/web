@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The first round of the group stage began at exactly 3 pm at the City Centre on Unter den Linden with the opening call from Ivan Syrovy, Chief Arbiter of the event. By that time, and according to the rules of the tournament, all the players had been PCR-tested and were firmly seated at their boards. For one of them, American GM Hikaru Nakamura, who enjoys a wild card invitation for the series, today was the first classical chess game for him in more than two years. In fact, he had even been dropped from the FIDE classical rating list due to inactivity! <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pic",
+         "description" : " Share! NM Wilbert PaigePhoto by Jerry Bibuld One of the most important chess events in Black history had to have been the Wilbert Paige Memorial. The tournament was held in honor of a Philadelphia master Wilbert Paige who died in 1994 in his mid-40s. A product of West Philadelphia High School he teamed with Glenn [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/04/black-history-month-2022-day-5-wilbert-paige-memorial/\">Black History Month 2022-Day 5: Wilbert Paige Memorial</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/04/black-history-month-2022-day-5-wilbert-paige-memorial/",
+         "pubDate" : "Sat, 05 Feb 2022 01:26:24 +0000",
+         "title" : "Black History Month 2022-Day 5: Wilbert Paige Memorial"
+      },
+      {
+         "description" : " <p class=\"lead\">Hikaru Nakamura, American Grandmaster and <a href=\"https://www.wired.com/story/hikaru-nakamura-twitch-chess/\">top chess streamer</a>, is an active player again, according to FIDE rules. He played his first classical game in two years today at the FIDE World Chess Grand Prix in Berlin. Fittingly, it was a draw. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/AE9F6F67-A6BA-493D-AA85-CE119E99558E.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> Nakamura, like many other elite chess players, found himself unable to attend tournaments during the pandemic, because there weren't any. However, Nakamura used the lockdown time wisely, becoming a chess str",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nakamura-is-an-active-player-again-according-to-fide-rules/",
+         "pubDate" : "Sat, 05 Feb 2022 01:03:13 +0000",
+         "title" : "Nakamura Is an Active Player Again, According to FIDE Rules"
+      },
+      {
+         "description" : " The first round of the group stage began at 3 pm at the City Centre on Unter den Linden with the opening call from Ivan Syrovy, Chief Arbiter of the event. By that time, and according to the rules of the tournament, all the players had been PCR-tested and were firmly seated at their boards. For one of them, American GM Hikaru Nakamura, who enjoys a wild card invitation for the series, today was the first classical chess game for him in more than two years. In fact, he had even been dropped from the FIDE classical rating list due to inactivity! <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/ph",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/aronian-leads-the-pack-in-the-berlin-grand-prix/",
@@ -34,7 +50,7 @@ news_feed (
          "title" : "Three decisive games at the first day of the FIDE Grand Prix Series 2022"
       },
       {
-         "description" : " Share! Baraka Shabazz's demure pose is a testament to her confidence and poise. This photo was featured in Chicago Metro News, December 4, 1982 as part of Tony Brown Journal segment. When she burst onto the scene in the early 80s, Baraka Shabazz (pronounced sha-boz) was a curious girl who learned chess in a cabin [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/04/black-history-month-2022-day-4-baraka-shabazz/\">Black History Month 2022-Day 4: Baraka Shabazz</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Baraka Shabazz's demure pose is a testament to her confidence and poise. This photo was featured in Chicago Metro News, December 4, 1982 as part of Tony Brown Journal segment. When she burst onto the scene in the early 80s, Baraka Shabazz (pronounced sha-boz) was a curious girl who learned chess in a cabin in [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/04/black-history-month-2022-day-4-baraka-shabazz/\">Black History Month 2022-Day 4: Baraka Shabazz</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/04/black-history-month-2022-day-4-baraka-shabazz/",
@@ -1792,14 +1808,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-charles-leclerc-vs-carlos-sainz-chess-challenge",
          "pubDate" : "Fri, 21 Jan 2022 11:30:00 +0100",
          "title" : "The Charles Leclerc vs Carlos Sainz Chess Challenge"
-      },
-      {
-         "description" : " <p class=\"lead\">In just two weeks, Berlin will host the first round of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022, organized by World Chess</a>. From February 3 to 17 sixteen elite chess players, including Grandmaster Harikrishna, who replaced the drop-out Wei Yi, will compete for the chance to win the last two spots in the Candidates tournament to be held later this year as well as for a EUR150,000 prize fund. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/bKEQRsnv4dc?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> The drawing of lots ceremony determined the pools for the first leg of the Se",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/pools-for-the-first-leg-of-the-fide-grand-prix-are-announced/",
-         "pubDate" : "Fri, 21 Jan 2022 09:13:54 +0000",
-         "title" : "Pools For the First Leg of the FIDE Grand Prix Are Announced"
       },
       {
          "description" : "",
