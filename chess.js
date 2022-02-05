@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On behalf of All India Chess Federation, I congratulate all the participants and State Associations for their overwhelming support for the successful completion of the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/results-national-arbiter-examination-under-chess-for-everyone-project/",
+         "pubDate" : "Sat, 05 Feb 2022 11:10:06 +0000",
+         "title" : "Results : National Arbiter Examination under Chess for Everyone project"
+      },
+      {
+         "description" : "Recent parallels in the worlds of physical and mental sport have raised some interesting questions. Global opinion is divided on the problems of Novak Djokovic's ejection by the government, from the Australian Tennis Open Tournament. Indeed, the eventual victory in that event of Rafael Nadal, who has now moved into the lead in terms of []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/kangaroo-caught/",
+         "pubDate" : "Sat, 05 Feb 2022 10:38:04 +0000",
+         "title" : "Kangaroo caught"
+      },
+      {
+         "description" : "MPL 58th Senior National Chess Championship-2022 25 Feb to 03 Mar 2022 at Kanpur Total Prize Fund : Rs. 30,00,000/- DOWNLOAD CIRCULAR &#160; MPL 47th National Women",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/regulations-mpl-58th-senior-national-47th-national-women-chess-championships-2022/",
+         "pubDate" : "Sat, 05 Feb 2022 10:14:22 +0000",
+         "title" : "Regulations : MPL 58th Senior National & 47th National Women Chess Championships-2022"
+      },
+      {
+         "description" : "Top seed Levon Aronian began the Berlin Grand Prix with a win as he defeated Vidit in a topsy-turvy game, but perhaps the most noteworthy result was Ding Liren's late replacement Radek Wojtaszek overpowering Richard Rapport. Their B Group is the most combative so far, with Vladimir Fedoseev also getting an early grip and never letting go against Grigoriy Oparin. The five remaining games were drawn, with Alexander Grischuk getting into time trouble before missing a great chance to defeat Andrey Esipenko. ",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-1-aronian-wojtaszek-fedoseev-win",
+         "pubDate" : "Sat, 05 Feb 2022 09:58:11 +0000",
+         "title" : "Berlin Grand Prix 1: Aronian, Wojtaszek & Fedoseev win"
+      },
+      {
+         "description" : " Now, more than ever, is a good time to recognise to great work that King O'Malley's does to support the Canberra community. Chess players will already recognise O'Malley's as both the venue and sponsor of Street Chess, having provided a venue for chess players every Saturday for over 15 years. But they also support a number of charitable activities including Movember, World's Greatest Shave and Skin Check Champions. They also host a number of community activities such as painting classes, a Pint of Science and charity trivia competitions. So today when a group of anti-vaxxer's turned up to the pub, I was not surprised that they dishonestly claimed that they were being discriminated against.",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/dumbernats.html",
+         "pubDate" : "Sat, 05 Feb 2022 09:08:00 +0000",
+         "title" : "Dumbernats"
+      },
+      {
          "description" : "In the diagram position Black's active rooks are hitting f2, his queen g5 is eyeing the Rc1 - and yet White unperturbedly continued 30. b4-b5! Can you spot the idea behind this advance?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1466,14 +1506,6 @@ news_feed (
          "title" : "A little bit of learning"
       },
       {
-         "description" : "Please find attached herewith list of 40 participants for Fourth Batch (1D) of National Organizer Seminar scheduled to start from 31 Jan- 02 Feb 2022, Guidelines:",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/chess-for-everyone-national-organizer-batch-1-d-31-jan-02-feb-2022/",
-         "pubDate" : "Mon, 24 Jan 2022 11:22:23 +0000",
-         "title" : "Chess for Everyone ,National Organizer - Batch 1 D (31 Jan-02 Feb ,2022)"
-      },
-      {
          "description" : "In 2020, we started a series called \"The Best In\", and interviewed some of the strongest male and female players of Aruba, The Bahamas, Brazil, Trinidad & Tobago, Armenia and Austria. The popular series will continue as a YouTube version with a 1-to-1 Zoom interview, including an analysis of the player's favourite game. We start the new chapter with the coldest country so far - Iceland. And in 2021, Hj&ouml;rvar Steinn Gr&eacute;tarsson has had his best chess year so far. He speaks with us about the chess situation in Iceland, his motivation for the next years, and an interesting, mad story with another \"ginger\" chess fellow - Simon Williams.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1656,14 +1688,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/superficial-chess.html",
          "pubDate" : "Sat, 22 Jan 2022 12:31:00 +0000",
          "title" : "Superficial chess?"
-      },
-      {
-         "description" : "Magnus Carlsen said he \"really, really needed the win\" after overcoming Richard Rapport to join Vidit and Shakhriyar Mamedyarov in the Tata Steel Masters lead. There were first wins of the event for Sergey Karjakin, who beat Jorden van Foreest in a variation on the opening in the final game of the Carlsen-Nepomniachtchi match, and Anish Giri, who lamented completely misevaluating his position before Fabiano Caruana gifted a full point with a move 40 blunder. Arjun Erigaisi continues to crush in the Challengers, taking a 1.5-point lead with a 5th win in a row.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-6-carlsen-leads-caruana-blunders",
-         "pubDate" : "Sat, 22 Jan 2022 12:15:51 +0000",
-         "title" : "Tata Steel 6: Carlsen leads, Caruana blunders"
       },
       {
          "description" : " <p class=\"lead\">Match-day 6 of the <a href=\"https://tatasteelchess.com\">2022 Tata Steel Chess Tournament</a> ended with a great victory of GM Anish Giri against the 2018 Challenger Fabiano Caruana with the black pieces. Carlsen won against Rapport to join the leaders, and Karjakin forced Van Foreest to resign after an exemplary game. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.4204545454545\"> <img src=\"https://worldchess.com/news/pictures/JH_4747LR.jpg\" width=\"1500\" height=\"1056\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_4814LR.jpg\" width=\"1500\" height=\"968\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_4762LR.jpg\" widt",
@@ -1880,14 +1904,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/wins-for-rapport-and-mamedyarov-take-them-into-a-joint-lead-with-vidit-after-tata-steel-round-5",
          "pubDate" : "Thu, 20 Jan 2022 21:52:00 +0400",
          "title" : "Wins for Rapport and Mamedyarov take them into a joint lead with Vidit after Tata Steel Round 5 - 5"
-      },
-      {
-         "description" : "The National Women Chess Championship 2022 scheduled at Bheemavaram, Andhra Pradesh from 09-19 Feb 2022 and National Amateur Chess Championship 2022 scheduled at Jaipur, Rajasthan",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-national-women-chess-championship-mpl-national-amateur-chess-championship-postponed/",
-         "pubDate" : "Thu, 20 Jan 2022 17:38:15 +0000",
-         "title" : "MPL National Women Chess Championship & MPL National Amateur Chess Championship Postponed"
       },
       {
          "description" : "This week Robert Ris will have a look at the fantastic game between Daniil Dubov and Vidit Gujrathi from the Tata Steel Masters in Wijk aan Zee. Dubov played provocatively out of a Giuoco Piano, Vidit gladly accepted the challenge, and an incredible struggle ensued! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2232,14 +2248,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/tata-steel-2022-some-lazy-predictions.html",
          "pubDate" : "Sat, 15 Jan 2022 12:58:00 +0000",
          "title" : "Tata Steel 2022 - Some lazy predictions"
-      },
-      {
-         "description" : "This week I invite readers to consider the plot of Henrik Ibsen's play, An Enemy of the People, which I once saw with Sir Ian McKellen in the leading role as Dr Thomas Stockmann. The theme of the play, the exposure of government corruption leading to dire consequences for the whistleblower, accompanied by furious official attempts at a cover-up, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/enemies-of-the-people-on-stage-and-the-chessboard/",
-         "pubDate" : "Sat, 15 Jan 2022 09:38:42 +0000",
-         "title" : "Enemies of the people, on stage and the chessboard"
       }
    ]
 }
