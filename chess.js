@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Share! Theophilus Thompson as one of the most intriguing figures in the modern American chess era. Born April 21st, 1855, he was the son of Mary Thompson, and had three brothers: Elliott, Wilson and Robert. Before discovering chess, he worked as a 14-year old domestic servant living in the home of William Higgins, a County [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/06/black-history-month-2022-day-6-theophilus-thompson/\">Black History Month 2022-Day 6: Theophilus Thompson</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " <p class=\"lead\">Round 3 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022</a> had 4 decisive games and Nakamura, Wojtaszek, and Aronian being the sole leaders of their groups. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220206150853_IMG_0773.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220206150315_IMG_0762.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220206150214_IMG",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/esipenko-beats-bacrot-and-bounces-back-while-aronian-leads-group/",
+         "pubDate" : "Sun, 06 Feb 2022 19:28:55 +0000",
+         "title" : "Esipenko beats Bacrot and bounces back while Aronian leads Group C with a point ahead"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Three years <a href=\"https://www.chess.com/de/news/view/chessbomb-und-chess-com-fusionieren\">after buying</a> the live transmission site <strong>Chessbomb</strong>, <strong>Chess.com</strong> has taken it offline. Some features have long been integrated into their own <a href=\"https://chess.com/events\">events page</a> and more will soon, according to CEO <strong>Erik Allebest</strong>: \"It just doesn't make sense to be two supporting two front-end products.\" </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/chessbomb-offline/",
+         "pubDate" : "Sun, 06 Feb 2022 20:25:09 +0100",
+         "title" : "Chessbomb offline"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has launched <a href=\"https://worldchampionshipcycle.fide.com/\">a website</a> to display the world championship cycles of men and women. While all participants of the women candidates tournament are known, the venue is not. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/the-cycle-explained/",
+         "pubDate" : "Sun, 06 Feb 2022 20:11:09 +0100",
+         "title" : "The cycle explained"
+      },
+      {
+         "description" : "A talk with his son Lawrence got Jon Speelman thinking about how many Monty Python sketches he could link to specific chess themes. He thus came up with 'dirty forks', 'dead parrots', 'four Yorkshiremen' and 'the Ministry of silly walks'. Enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-163",
+         "pubDate" : "Sun, 06 Feb 2022 20:00:00 +0100",
+         "title" : "Dirty forks and dead parrots"
+      },
+      {
+         "description" : " Share! Theophilus Thompson as one of the most intriguing figures in the modern American chess era. Born April 21st, 1855, he worked as a 14-year old domestic servant. According to the 1870 U.S. Census, he was living in the home of William Higgins, a County Constable. Two years later, he returned to live with his [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/06/black-history-month-2022-day-6-theophilus-thompson/\">Black History Month 2022-Day 6: Theophilus Thompson</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/06/black-history-month-2022-day-6-theophilus-thompson/",
@@ -39,7 +71,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
          "pubDate" : "Sun, 06 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
+         "title" : "FIDE Grand Prix - Games and results"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/bIJclL_0DPY?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -698,14 +730,6 @@ news_feed (
          "title" : "EP 264- Elizabeth Shaughnessy (Founder of the Berkeley Chess School) "
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> heads the <a href=\"https://chess24.com/tour/airthings-masters-lineup-revealed/\">lineup of the first tournament</a> of the 2022 <strong>Meltwater Champions Chess Tour</strong>, the <strong>Airthings Masters</strong> from 19 to 26 February. Each win will now be worth $750 and $250 for a draw. The <a href=\"https://chess24.com/tour/\">new website</a> is integrated with <strong>chess24</strong> with an eye to promoting the playing zone. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/airthings-masters-starts-tour-on-19/",
-         "pubDate" : "Tue, 01 Feb 2022 13:43:49 +0100",
-         "title" : "Airthings Masters starts tour on 19 February"
-      },
-      {
          "description" : " The 2022 ACT Lightning Championship was held this evening at the Eastlake Gungahlin Chess Club. A field of 27 players took part in the first ACT Chess Association event of the year. The 9 round event attracted a strong field, with the top 7 seeds rated above 2000, while the mid point of the field was around 1680. The event was closely contested throughout, with Harry Press emerging victorious with 7.5/9. He was closely followed by Fred Litchfield on 7, with FM Michael Kethro on 6.5. Press got off to a slow start, losing to Wenlin Yin in round 3, before winning 5 straight (including wins over Kethro and Litchfield) before a final round draw with Max Albert secured outright first. This draw e",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -826,14 +850,6 @@ news_feed (
          "title" : "Chess Games Turned Into Unique Art Pieces (and NFTs, Of Course)"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The French grandmaster, coach, chess teacher and organiser <strong>Gilles Mirallès</strong>, who was a towering figure of chess in Geneva, <a href=\"https://www.europe-echecs.com/art/gilles-miralles-grand-contributeur-au-developpement-des-echecs-nous-a-quittes-8731.html\">passed away at 55</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/gilles-miralles-1966-2022/",
-         "pubDate" : "Mon, 31 Jan 2022 14:25:07 +0100",
-         "title" : "Gilles Mirallès (1966-2022)"
-      },
-      {
          "description" : "Magnus Carlsen had wrapped up victory in the Tata Steel Masters with a round to spare and could commentate on chess24 since his scheduled game with Daniil Dubov was a forfeit win. The \"battle\" for 2nd place lasted just minutes as quick draws saw Shakhriyar Mamedyarov and Richard Rapport tie on 8/13, but the remaining four games were great fights, with Praggnanandhaa, Sergey Karjakin and Jorden van Foreest picking up wins. Arjun Erigaisi ended on a high by beating Marc Maurizzi to match his pre-tournament goal of 10.5/13 as he crushed the Challengers.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -952,14 +968,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/not-quite-finish-intended.html",
          "pubDate" : "Sun, 30 Jan 2022 11:58:00 +0000",
          "title" : "Not quite the finish intended"
-      },
-      {
-         "description" : " <p class=\"lead\">Round 12 of the <a href=\"https://tatasteelchess.com\">2022 Tata Steel Chess Tournament</a> ended with a new Champion! Magnus Carlsen takes the title from Van Foreest and his eighth Tata Steel Title in total. After beating GM Fabiano Caruana and being assured with one more point from his last match in the tournament against Dubov, Carlsen will watch R13 today relaxed and insusceptible. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/LOW03401.jpg\" width=\"1500\" height=\"726\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: � Lennart Ootes - Tata Steel Chess Tournament 2022</div> </div> In his final game of this year's Masters, Carlsen picked the Sicilian",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/carlsen-wins-the-2022-tata-steel-chess-tournament-for-the-eighth/",
-         "pubDate" : "Sun, 30 Jan 2022 11:22:04 +0000",
-         "title" : "Carlsen wins the 2022 Tata Steel Chess Tournament for the eighth time"
       },
       {
          "description" : "The Grandmasters Dr. Karsten Mueller and Luis Engel have set a ball rolling in Germany with their latest Fritztrainer. GM Lars Bo Hansen designed the four-player model in 2005, and was perhaps ahead of his time. In the 5-part interview with Dr. Karsten Mueller, all four player types are discussed in detail. Today - The Activist.",
@@ -1898,14 +1906,6 @@ news_feed (
          "title" : "2022 ACT Blitz Championship"
       },
       {
-         "description" : "Anatoly Karpov is one of the World Champions who is featured in the ChessBase NFT series. The 12th World Champion is a passionate stamp collector and immediately understood the idea. In an interview Karpov talks about NFTs, the story behind his brilliant win against Viktor Kortschnoi in the Candidates Final 1974, the World Championship match Carlsen vs. Nepomniachtchi, and Carlsen's statements about defending the title.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/once-clearly-won-and-already-tired-of-winning-interview-with-anatoly-karpov",
-         "pubDate" : "Fri, 21 Jan 2022 11:44:59 +0100",
-         "title" : "\"One clear win and already tired of winning?\" - An interview with Anatoly Karpov"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2216,22 +2216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1525",
          "pubDate" : "Sun, 16 Jan 2022 22:42:08 +0000",
          "title" : "Tata Steel Masters: Magnus Carlsen join leaders"
-      },
-      {
-         "description" : " The second round of the 84th Tata Steel Masters in Wijk aan Zee only saw two decisive games but it could have been more and there were several striking games. Magnus Carlsen beat Anish Giri in a sharp Catalan where he was able to set problems the Dutchman couldn't deal with almost straight after the opening phase. Richard Rapport defeated Jorden van Foreest in a game where he got a small edge which led to pressure and a decisive error in the endgame. Shakhriyar Mamedyarov played a strikingly aggressive game against Andrey Esipenko but eventually they just called a stop to it and agreed a draw. The remaining games were drawn with Sam Shankland missing a number of opportunities to put his opp",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/wins-for-carlsen-and-rapport-in-tata-steel-masters-round-2",
-         "pubDate" : "Sun, 16 Jan 2022 21:09:00 +0400",
-         "title" : "Wins for Carlsen and Rapport in Tata Steel Masters Round 2 - 2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1524",
-         "pubDate" : "Sun, 16 Jan 2022 16:47:46 +0000",
-         "title" : "Lamine Brahami and Lina Nassr win 2021 Africa Junior Championship"
       }
    ]
 }
