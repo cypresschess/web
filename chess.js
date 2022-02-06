@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hikaru Nakamura wasn't bored in Round 2 of the FIDE Grand Prix in Berlin as he scored a brilliant win over Andrey Esipenko, the player Sergey Karjakin felt should have got a wildcard ahead of Hikaru. Richard Rapport found an extraordinary king march to bounce back and beat Vladimir Fedoseev, while Leinier Dominguez was rewarded for playing the Sicilian against Alexei Shirov. The other games were drawn, though Alexander Grischuk's Pirc almost backfired against Etienne Bacrot, while Radek Wojtaszek was a whisker away from moving to 2/2.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-2-nakamura-statement-win-rapport-masterpiece",
+         "pubDate" : "Sun, 06 Feb 2022 08:26:05 +0000",
+         "title" : "Berlin GP 2: Nakamura \"statement\" win, Rapport masterpiece"
+      },
+      {
          "description" : "In an exciting second round at the FIDE Grand Prix in Berlin, three players obtained full points in remarkable style. Hikaru Nakamura and Leinier Dominguez won to take the lead in their respective groups, while Richard Rapport bounced back from a first-round loss by taking down Vladimir Fedoseev in a game that featured a positional piece sacrifice and exceptional tactical accuracy. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1672,14 +1680,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-masters-magnus-carlsen-beats-praggnanandhaa-to-grab-lead-vidit-gujrathi-suffers-first-defeat/articleshow/89071060.cms",
          "pubDate" : "Sun, 23 Jan 2022 11:46:39 +0530",
          "title" : "Tata Steel Masters: Carlsen beats Praggnanandhaa to grab lead, Vidit suffers first defeat"
-      },
-      {
-         "description" : "Magnus Carlsen taking the sole lead with six rounds of the Tata Steel Masters to go was ominous, but not as ominous as Daniil Dubov forfeiting his game against Anish Giri when the organisers insisted he wore a mask. Daniil had tested negative in a quick test after a contact tested positive, but had a PCR result pending. The coaches of Praggnanandhaa and Fabiano Caruana have also been hit by the virus, with Pragg in Round 7 losing to Magnus, while Fabi won a wild game against Duda. Jorden van Foreest ended Vidit's stay among the leaders with a win that was his 6th decisive result in 7 games.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-7-dubov-mask-forfeit-overshadows-magnus-move",
-         "pubDate" : "Sun, 23 Jan 2022 02:13:26 +0000",
-         "title" : "Tata Steel 7: Dubov mask forfeit overshadows Magnus move"
       },
       {
          "description" : "",
