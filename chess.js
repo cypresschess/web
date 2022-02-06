@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Thanks to my Richmond clubmate Andrew Hebron for sending me a game he played last summer in the British Senior Online Championship, where he was up against GM Keith Arkell, rated more than 400 points above him. Andrew played excellent, solid and sensible chess to reach a double rook ending, but Keith, of course, is <a href=\"https://chessimprover.com/endgame-maestro/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Endgame Maestro\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/endgame-maestro/\">Endgame Maestro</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/endgame-maestro/",
+         "pubDate" : "Sun, 06 Feb 2022 11:06:18 +0000",
+         "title" : "Endgame Maestro"
+      },
+      {
+         "description" : "The Grandmasters Dr. Karsten Mueller and Luis Engel have set a ball rolling in Germany with their latest Fritztrainer. GM Lars Bo Hansen designed the four-player model in 2005, and was perhaps ahead of his time. In the 5-part interview with Dr. Karsten Mueller, all four player types are discussed in detail. Today - The Reflector.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/player-types-the-reflector2",
+         "pubDate" : "Sun, 06 Feb 2022 12:00:00 +0100",
+         "title" : "Player Types - The Reflector"
+      },
+      {
          "description" : "Hikaru Nakamura wasn't bored in Round 2 of the FIDE Grand Prix in Berlin as he scored a brilliant win over Andrey Esipenko, the player Sergey Karjakin felt should have got a wildcard ahead of Hikaru. Richard Rapport found an extraordinary king march to bounce back and beat Vladimir Fedoseev, while Leinier Dominguez was rewarded for playing the Sicilian against Alexei Shirov. The other games were drawn, though Alexander Grischuk's Pirc almost backfired against Etienne Bacrot, while Radek Wojtaszek was a whisker away from moving to 2/2.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -22,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r2-nakamura-wojtaszek-aronian-dominguez-lead",
-         "pubDate" : "Sat, 05 Feb 2022 15:28:05 -0800",
+         "pubDate" : "Sat, 05 Feb 2022 15:28:00 -0800",
          "title" : "2022 FIDE Grand Prix Berlin R2: Nakamura, Wojtaszek, Aronian, Dominguez Group Sole Leaders"
       },
       {
@@ -1922,14 +1938,6 @@ news_feed (
          "title" : "Tata Steel R5: Shakh and Rapport join Vidit in the lead"
       },
       {
-         "description" : "The Kvika Reykjavik Open will return to its normal setting in the Harpa music and conference center in 2022 - which has been billed as the best playing venue for an open tournament ever! The dates are from the 6th of April until the 12th of April, with nine rounds in seven days! Many world class players have taken part in then tournament in recent years. The total prize-fund in the 2022 edition will be €15.000, including many special prizes for various age and rating categories, in addition to the traditional top women's prize.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kvika-reykjavik-open-2022",
-         "pubDate" : "Thu, 20 Jan 2022 20:00:00 +0100",
-         "title" : "Kvika Reykjavik Open 2022"
-      },
-      {
          "description" : " The fifth round of the Tata Steel Masters saw just two decisive games but those took the winners into a share of the lead after five rounds. Round 4 leader Vidit Gujrathi held Anish Giri to a draw in a Petroff Defence. Richard Rapport managed to outplay R Praggnanandhaa after losing the opening battle. Shakhriyar Mamedyarov beat Jorden van Foreest in an Open Spanish. Vidit, Rapport and Mamedyarov now lead the tournament. Magnus Carlsen had chances to beat Nils Grandelius but only drew. Esipenko-Caruana was drawn with definite chances missed for the American. Jan-Krzysztof Duda agreed a draw in time trouble against Sergey Karjakin where he had a rather unobvious win on the board. Dubov and S",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2216,14 +2224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1524",
          "pubDate" : "Sun, 16 Jan 2022 16:47:46 +0000",
          "title" : "Lamine Brahami and Lina Nassr win 2021 Africa Junior Championship"
-      },
-      {
-         "description" : " It's frustrating, or perhaps amusing, to read posts on Facebook in which inexperienced players ask why the engine told them their move was a blunder, and then other equally inexperienced players attempt to be helpful by answering the question. Here's an example. Here, White, no doubt thinking he was being clever, played Ng5 and was <a href=\"https://chessimprover.com/facebook-follies/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Facebook Follies\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/facebook-follies/\">Facebook Follies</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/facebook-follies/",
-         "pubDate" : "Sun, 16 Jan 2022 09:44:01 +0000",
-         "title" : "Facebook Follies"
       }
    ]
 }
