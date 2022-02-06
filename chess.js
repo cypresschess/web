@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second round of the the 2022 FIDE Grand Prix produced fierce battles in all the games except from Group C. GM Hikaru Nakamura, GM Radeslaw Wojtaszek, GM Levon Aronian, and GM Leinier Dominguez emerged as sole leaders in their respective groups...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r2-nakamura-wojtaszek-aronian-dominguez-lead",
+         "pubDate" : "Sat, 05 Feb 2022 15:28:05 -0800",
+         "title" : "2022 FIDE Grand Prix Berlin R2: Nakamura, Wojtaszek, Aronian, Dominguez Group Sole Leaders"
+      },
+      {
+         "description" : " <p class=\"lead\">Berlin's Grand Prix second round leaves no stone unturned \"I don't understand why Svidler predicted that everyone will play very safe. In this format you have to risk\". This statement by Alexander Grischuk after his game with Bacrot sums up the general feeling of the players in this new tournament format. With only one player of each group qualifying for the semifinals, cautious play is not to be recommended. Tired of boring 30-move draws, fans all over the world are having the time of their lives enjoying the exciting games delivered each afternoon from the playing venue in Berlin's center. Surrounded by magnificent buildings and monuments (the Brandenburg Gate is in walkin",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/no-risk-no-reward/",
+         "pubDate" : "Sat, 05 Feb 2022 22:31:42 +0000",
+         "title" : "No risk, no reward"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1560",
+         "pubDate" : "Sat, 05 Feb 2022 22:30:56 +0000",
+         "title" : "FIDE Grand Prix Day 2: No risk, no reward"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1559",
+         "pubDate" : "Sat, 05 Feb 2022 20:42:06 +0000",
+         "title" : "Levan Pantsulaia wins 81st Georgian Championship"
+      },
+      {
          "description" : " <p class=\"lead\">Round 2 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> came to an end with Nakamura, Rapport, and Dominguez winning their games. After today's results Nakamura, Wojtaszek, Aronian, and Dominguez are leading their groups. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2232\" data-ratio=\"1.5\"> <img src=\"https://worldchess.com/news/pictures/A.jpg\" width=\"2232\" height=\"1488\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/FIDE_20220205-08.jpg\" width=\"2232\" height=\"1488\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/FIDE_20220205-01.jpg\" width=\"2232\" height=\"1488\" alt=\"\" /> <img src=\"https://worldchess.com",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/nakamura-wins-esipenko-in-a-not-so-boring-round-2-of-the-fide-gr/",
          "pubDate" : "Sat, 05 Feb 2022 19:47:57 +0000",
-         "title" : "Nakamura wins Esipenko in a not so boring Round 2 of the FIDE Grand Prix 2022"
+         "title" : "Nakamura Beats Esipenko Who Blunders a Game in Round 2 of the FIDE Grand Prix"
       },
       {
          "description" : " <p class=\"lead\">We all remember the World Champion Magnus Carlsen \"sleeping\" in his Championship match against Anand in 2014. Esipenko is \"sleeping\" as well right before his game against Hikaru Nakamura in Round 2 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022.</a> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2022-Twitter-WC-&-FOA-(1).jpg\" width=\"1600\" height=\"900\" alt=\"\" /> </div> During his 2014 World Championship match against Viswanathan Anand, Carlsen created a buzz on Twitter after a picture of him dozing off appeared on social media. <a href=\"https://twitter.com/TheFalseNo9/status/534717155703418881?ref_src=twsrc%5Etf",
@@ -1386,14 +1418,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Winning in an equal position"
       },
       {
-         "description" : " <p class=\"lead\">Round 9 of the <a href=\"https://tatasteelchess.com\">Tata Steel Chess Tournaments</a> ended with Carlsen beating the co-leader of R8, Mamedyarov, and taking the sole lead. Giri also won his fourth game in a row and is just half a point behind the World Champion and 7-time Tata Steel Champion. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.5957446808511\"> <img src=\"https://worldchess.com/news/pictures/LOW02636.jpg\" width=\"1500\" height=\"940\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW02501.jpg\" width=\"1500\" height=\"992\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/LOW02467.jpg\" width=\"1500\" height=\"1024\" alt=\"\" /",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/tata-steel-2022-round-9-carlsen-takes-the-sole-lead-giri-right-b/",
-         "pubDate" : "Wed, 26 Jan 2022 09:11:12 +0000",
-         "title" : "Tata Steel 2022 Round 9: Carlsen Takes the Sole Lead, Giri Close Second"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89130551.cms\" />Indian Grandmaster Vidit Gujrathi drew with Richard Rapport of Hungary in the ninth round to be in joint third place with 5.5 points in the Tata Steel Masters chess tournament here.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2200,14 +2224,6 @@ news_feed (
          "link" : "https://chessimprover.com/facebook-follies/",
          "pubDate" : "Sun, 16 Jan 2022 09:44:01 +0000",
          "title" : "Facebook Follies"
-      },
-      {
-         "description" : "GM Magnus Carlsen got his first win in the Tata Steel Chess Tournament&#39;s second round as the world champion scored a fairly quick full-point vs. Dutch GM Anish Giri. GM Richard Rapport was the only other winner in the Masters as the Hungarian play...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-2",
-         "pubDate" : "Sat, 15 Jan 2022 17:00:00 -0800",
-         "title" : "Tata Steel Chess R2: Carlsen Gets 1st Win, Rapport Beats Van Foreest"
       },
       {
          "description" : "",
