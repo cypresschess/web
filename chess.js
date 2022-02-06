@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! Theophilus Thompson as one of the most intriguing figures in the modern American chess era. Born April 21st, 1855, he was the son of Mary Thompson, and had three brothers: Elliott, Wilson and Robert. Before discovering chess, he worked as a 14-year old domestic servant living in the home of William Higgins, a County [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/06/black-history-month-2022-day-6-theophilus-thompson/\">Black History Month 2022-Day 6: Theophilus Thompson</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/06/black-history-month-2022-day-6-theophilus-thompson/",
+         "pubDate" : "Sun, 06 Feb 2022 16:18:35 +0000",
+         "title" : "Black History Month 2022-Day 6: Theophilus Thompson"
+      },
+      {
+         "description" : " <p class=\"lead\">Leg 1 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022</a> in Berlin is already in Round 1, and among the press releases, and the player's after-game interviews, WGM Dina Belenkaya makes sure to spice things up with her questions. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/bIJclL_0DPY?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> First was Hikaru Nakamura who spoke his Twitch language once again! The American streamer highlighted that not only d3 but pretty much everything in his game against Esipenko was a \"juicer\". He admitted that it would be fun creating a meme out of t",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/chess-is-fun-at-the-fide-grand-prix-2022/",
+         "pubDate" : "Sun, 06 Feb 2022 14:40:24 +0000",
+         "title" : "Chess is fun at the FIDE Grand Prix 2022"
+      },
+      {
+         "description" : " Welcome to the FIDE World Chess Grand Prix Day Three Live broadcast: <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/NXjMA5DPPSo?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/grand-prix-day-3-live-broadcast/",
+         "pubDate" : "Sun, 06 Feb 2022 14:15:36 +0000",
+         "title" : "Grand Prix Day 3: Live Broadcast"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 65th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the concept of \"prophylaxis\". | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-65-prophylaxis",
+         "pubDate" : "Sun, 06 Feb 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 65: Prophylaxis"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
+         "pubDate" : "Sun, 06 Feb 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/bIJclL_0DPY?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/hikaru-nakamura-my-refrigerator-is-much-more-iconic-then-boks-mi/",
+         "pubDate" : "Sun, 06 Feb 2022 12:58:38 +0000",
+         "title" : "Hikaru Nakamura: \"My refrigerator is much more iconic than Bok's microwave\""
+      },
+      {
          "description" : " Thanks to my Richmond clubmate Andrew Hebron for sending me a game he played last summer in the British Senior Online Championship, where he was up against GM Keith Arkell, rated more than 400 points above him. Andrew played excellent, solid and sensible chess to reach a double rook ending, but Keith, of course, is <a href=\"https://chessimprover.com/endgame-maestro/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Endgame Maestro\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/endgame-maestro/\">Endgame Maestro</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -146,7 +194,7 @@ news_feed (
          "title" : "Berlin GP: Dubov escapes"
       },
       {
-         "description" : " Share! NM Wilbert Paige (1959-1994)Photo by Jerry Bibuld One of the most important chess events in Black history had to have been the Wilbert Paige Memorial. The tournament was held in honor of Philadelphia master Wilbert Paige who died in 1994 in his mid-30s. A product of West Philadelphia High School he teamed with Glenn [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/05/black-history-month-2022-day-5-wilbert-paige-memorial/\">Black History Month 2022-Day 5: Wilbert Paige Memorial</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " NM Wilbert Paige (1959-1994)Photo by Jerry Bibuld One of the most important chess events in Black history had to have been the Wilbert Paige Memorial. The tournament was held in honor of Philadelphia master Wilbert Paige who died in 1994 in his mid-30s. A product of West Philadelphia High School he teamed with Glenn Bady [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/05/black-history-month-2022-day-5-wilbert-paige-memorial/\">Black History Month 2022-Day 5: Wilbert Paige Memorial</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/05/black-history-month-2022-day-5-wilbert-paige-memorial/",
@@ -1042,14 +1090,6 @@ news_feed (
          "title" : "The colour of silence: art, chess and synaesthesia"
       },
       {
-         "description" : " <p class=\"lead\">Round 11 of the <a href=\"https://tatasteelchess.com\">2022 Tata Steel Chess Tournaments</a> turned into a rollercoaster of emotions. Dubov has left the tournament due to covid, Calsen drew with Vidit and improved his chances dramatically to win for a record eight-time in Wijk aan Zee, Van Foreest won an almost perfect game against Giri, and two quick draws fueled a boomerang of comments on Twitter. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.530612244898\"> <img src=\"https://worldchess.com/news/pictures/JH074941LR.jpg\" width=\"1500\" height=\"980\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_5488LR.jpg\" width=\"1500\" height=\"1",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/tata-steel-2022-round-11-giri-loses-to-van-foreest-carlsen-is-1/",
-         "pubDate" : "Sat, 29 Jan 2022 08:35:32 +0000",
-         "title" : "Tata Steel 2022 Round 11: Giri loses to Van Foreest, Carlsen is 1.5 point ahead"
-      },
-      {
          "description" : "In the diagram position White has a shortcut to victory, enabling him to hunt down Black's king ... or his queen on h1! Can you work it all out in your head?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1218,14 +1258,6 @@ news_feed (
          "title" : "Daniil Dubov out of the Tata Steel Masters"
       },
       {
-         "description" : " <p class=\"lead\">In a surprising turn of events, Russian GM Daniil Dubov leaves the Tata Steel Chess Tournament after testing positive for COVID-19 in a PCR test yesterday. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/JH_5299LR.jpg\" width=\"1500\" height=\"925\" alt=\"\" /> <div class=\"e2-text-caption\"> © Lennart Ootes and Jurriaan Hoefsmit - Tata Steel Chess Tournament 2022</div> </div> Three rounds before the end of the tournament, and right before his match against GM Richard Rapport, the Russian GM tested positive for Covid and left the tournament. This means that the results of his previous matches will stand and that Dubov will forfeit the games against the op",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/dubov-tested-positive-for-covid-leaves-the-2022-tata-steel-chess/",
-         "pubDate" : "Fri, 28 Jan 2022 10:55:21 +0000",
-         "title" : "Dubov tested positive for covid, leaves the 2022 Tata Steel Chess Tournament"
-      },
-      {
          "description" : "In a press release the organisers of the Tata Steel tournament in Wijk aan Zee, announced that \"Daniil Dubov will leave the Tata Steel Chess Tournament after testing positive for the corona virus in a PCR test yesterday. This means that the results of his previous matches will stand and that Dubov will forfeit the games against the opponents he was to face in the last three rounds. They are Rapport, Praggnanandhaa and Carlsen respectively.\" | Photo: Press Release Wijk",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1296,14 +1328,6 @@ news_feed (
          "link" : "https://aicf.in/chess-for-everyone-national-organizer-batch-1-e-04-06feb-2022/",
          "pubDate" : "Thu, 27 Jan 2022 12:10:16 +0000",
          "title" : "Chess for Everyone ,National Organizer - Batch 1 E (04-06Feb ,2022)"
-      },
-      {
-         "description" : " <p class=\"lead\">While the World Champion is still on the top after an indifferent game against Karjakin in Round 10 of the <a href=\"https://tatasteelchess.com\">Tata Steel Chess Tournament</a>, Rameshbabu and Grandelius gave us the \"best show in town\", and won against Vidit and Dubov respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.432664756447\"> <img src=\"https://worldchess.com/news/pictures/JH_5300LR.jpg\" width=\"1500\" height=\"1047\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_5297LR.jpg\" width=\"1500\" height=\"979\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_5311LR.jpg\" width=\"1500\" height=\"1051\" alt=\"\" /> <img s",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/tata-steel-2022-round-10-pragg-beats-vidit-grandelius-wins-his-f/",
-         "pubDate" : "Thu, 27 Jan 2022 10:15:59 +0000",
-         "title" : "Tata Steel 2022 Round 10: Grandelius Wins his First Game, Carlsen Still Ahead"
       },
       {
          "description" : "After two tough rounds in which they were heavily defeated, the men's team fought back with a vengeance in round three of the #GibChess Battle of the Sexes Tournament and won by the impressive margin of 7-3 in this men versus women classical chess event, played at Gibraltar's Garrison Library on Wednesday 26 January. The match score is thus now 16-14 in favour of the women but with the men close behind with a long way to go. | Report and photos by John Saunders",
@@ -1882,14 +1906,6 @@ news_feed (
          "title" : "\"One clear win and already tired of winning?\" - An interview with Anatoly Karpov"
       },
       {
-         "description" : "Charles Leclerc and Carlos Sainz Jr. are the drivers of the legendary Scuderia Ferrari in Formula One. Lewis Hamilton is not the only self-confessed chess fan among Formula One racing drivers. The two Ferrari drivers also love the royal game and even engaged in a rapid chess challenge.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-charles-leclerc-vs-carlos-sainz-chess-challenge",
-         "pubDate" : "Fri, 21 Jan 2022 11:30:00 +0100",
-         "title" : "The Charles Leclerc vs Carlos Sainz Chess Challenge"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1928,14 +1944,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1535",
          "pubDate" : "Fri, 21 Jan 2022 00:51:36 +0000",
          "title" : "Tata Steel Masters: Mamedyarov and Rapport catch up with Vidit"
-      },
-      {
-         "description" : "Returning from the rest day, Shakhriyar Mamedyarov and Richard Rapport scored full points to join Vidit Gujrathi in the lead of the Tata Steel Masters tournament. Andrey Esipenko and Magnus Carlsen stand close behind, as the world champion both lived dangerously and got winning chances in his (drawn) game against Nils Grandelius. Meanwhile, Arjun Erigaisi won again in the Challengers, and now has a one-point lead in the standings table. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r5",
-         "pubDate" : "Fri, 21 Jan 2022 00:50:00 +0100",
-         "title" : "Tata Steel R5: Shakh and Rapport join Vidit in the lead"
       },
       {
          "description" : " The fifth round of the Tata Steel Masters saw just two decisive games but those took the winners into a share of the lead after five rounds. Round 4 leader Vidit Gujrathi held Anish Giri to a draw in a Petroff Defence. Richard Rapport managed to outplay R Praggnanandhaa after losing the opening battle. Shakhriyar Mamedyarov beat Jorden van Foreest in an Open Spanish. Vidit, Rapport and Mamedyarov now lead the tournament. Magnus Carlsen had chances to beat Nils Grandelius but only drew. Esipenko-Caruana was drawn with definite chances missed for the American. Jan-Krzysztof Duda agreed a draw in time trouble against Sergey Karjakin where he had a rather unobvious win on the board. Dubov and S",
