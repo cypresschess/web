@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The second round of the the 2022 FIDE Grand Prix produced fierce battles in all the games except from Group C. GM Hikaru Nakamura, GM Radeslaw Wojtaszek, GM Levon Aronian, and GM Leinier Dominguez emerged as sole leaders in their respective groups...",
+         "description" : "In an exciting second round at the FIDE Grand Prix in Berlin, three players obtained full points in remarkable style. Hikaru Nakamura and Leinier Dominguez won to take the lead in their respective groups, while Richard Rapport bounced back from a first-round loss by taking down Vladimir Fedoseev in a game that featured a positional piece sacrifice and exceptional tactical accuracy. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r2",
+         "pubDate" : "Sun, 06 Feb 2022 03:50:00 +0100",
+         "title" : "Berlin GP: Rapport bounces back with brilliant win"
+      },
+      {
+         "description" : "The second round of the the 2022 FIDE Grand Prix produced fierce battles in all the games except from Group C. GM Hikaru Nakamura, GM Radoslaw Wojtaszek, GM Levon Aronian, and GM Leinier Dominguez emerged as sole leaders in their respective groups...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r2-nakamura-wojtaszek-aronian-dominguez-lead",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/esipenko-is-following-in-carlsens-footsteps-or-sleeping-routine/",
          "pubDate" : "Sat, 05 Feb 2022 15:55:31 +0000",
          "title" : "Esipenko (Probably) Falls Asleep During the Game, Loses to Nakamura"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
-         "pubDate" : "Sat, 05 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Games and results"
       },
       {
          "description" : " Welcome to the FIDE World Chess Grand Prix Day Two Live broadcast: <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/VSiNMZ1Ib8g?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -2224,14 +2224,6 @@ news_feed (
          "link" : "https://chessimprover.com/facebook-follies/",
          "pubDate" : "Sun, 16 Jan 2022 09:44:01 +0000",
          "title" : "Facebook Follies"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1523",
-         "pubDate" : "Sun, 16 Jan 2022 00:37:16 +0000",
-         "title" : "Tata Steel 2022: Duda, Vidit and Van Foreest take the lead"
       }
    ]
 }
