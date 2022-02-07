@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Round 4 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with 3 decisive games and some very crucial draws. Nakamura, Aronian, and So are the sole leaders in their groups, while Wojtaszek shares the top with Fedoseev. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-2.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220207145513_IMG_0956.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220207145613_IMG_0959.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <im",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nakamura-aronian-and-so-the-sole-leader-after-round-4-of-the-fid/",
+         "pubDate" : "Mon, 07 Feb 2022 19:52:19 +0000",
+         "title" : "Nakamura, Aronian, and So the sole leader after Round 4 of the FIDE Grand Prix 2022"
+      },
+      {
+         "description" : "WARNING: This reporting includes disturbing information of a sexual nature. Letters with pages from porn magazines and used condoms have been sent to at least 15 female chess players for over a decade. This troubling news was revealed today by t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vulgar-letters-chess-meduza",
+         "pubDate" : "Mon, 07 Feb 2022 11:11:00 -0800",
+         "title" : "Vulgar Letters Were Sent To Female Chess Players For Over A Decade"
+      },
+      {
+         "description" : "The well-known author and Grandmaster Mihail Marin is Karsten M&uuml;ller's guest in the Endgame Magic Show #181, and Mihail and Karsten look at highlights from the Tata Steel Tournament in Wijk aan Zee 2022. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-181-with-mihail-marin-endgame-highlights-of-wijk-2022",
+         "pubDate" : "Mon, 07 Feb 2022 19:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic Show #181 - with Mihail Marin: Endgame highlights of Wijk 2022"
+      },
+      {
          "description" : "What is the Hippopotamus system of defence? The idea is that, at the beginning of the game, Black develops within his own first three ranks. He constructs a solid, flexible and hopefully stable position, awaiting events. At the right moment, he will strike back! The Hippopotamus was given the name by an eccentric English amateur player JC Thompson, back in the 1950's. It seems as good a name as any. Given the right conditions, Black will emerge from the chessboard swamp and crush all before them.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -23,7 +47,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
          "pubDate" : "Mon, 07 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
+         "title" : "FIDE Grand Prix - Games and results"
       },
       {
          "description" : " It has been a while since I have featured Lev Aronian on these pages, but the following game from the current FIDE Grand Prix caught my eye. It wasn't so much the effortless way he gained a winning advantage against Vincent Keymer, but how early in the game he did so. I would say he was clearly winning by move 18, but more so, was completely winning at move 24. I suspect Aronian new he was winning, and Keymer probably knew he was completely lost. Probably the only strong players who may have underestimated Aronian's advantage would have been various chess engines, who gave Aronian a pawn advantage at best. To a human, control of the 7th rank supported by the bishop on d6 was an 'eternal' ad",
@@ -74,7 +98,7 @@ news_feed (
          "title" : "FIDE World Championship Match 2023 - Call for bids"
       },
       {
-         "description" : " Share! Scholastic chess has grown by leaps and bounds over the past few decades. With Supernationals drawing over 5500+ players from across the country, times have never been better to start playing chess. When Supernationals VI set a record for 5577 players, it demonstrated how far scholastic chess has grown. There have been many stories [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/07/black-history-month-2022-day-7-phillys-roberts-vaux-jr-high/\">Black History Month 2022-Day 7: Philly's Roberts Vaux Jr. High</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!88 Scholastic chess has grown by leaps and bounds over the past few decades. With Supernationals drawing over 5500+ players from across the country, times have never been better to start playing chess. When Supernationals VI set a record for 5577 players, it demonstrated how far scholastic chess has grown. There have been many stories [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/07/black-history-month-2022-day-7-phillys-roberts-vaux-jr-high/\">Black History Month 2022-Day 7: Philly's Roberts Vaux Jr. High</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/07/black-history-month-2022-day-7-phillys-roberts-vaux-jr-high/",
@@ -298,7 +322,7 @@ news_feed (
          "title" : "Kangaroo caught"
       },
       {
-         "description" : "MPL 58th Senior National Chess Championship-2022 25 Feb to 03 Mar 2022 at Kanpur Total Prize Fund : Rs. 30,00,000/- DOWNLOAD CIRCULAR &#160; MPL 47th National Women",
+         "description" : "MPL 58th Senior National Chess Championship-2022 25 Feb to 03 Mar 2022 at Kanpur Total Prize Fund : Rs. 30,00,000/- DOWNLOAD CIRCULAR For Accommodation please contact",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/regulations-mpl-58th-senior-national-47th-national-women-chess-championships-2022/",
@@ -776,14 +800,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/fide-grand-prix-in-turmoil-as-players-forced-to-pull-out",
          "pubDate" : "Tue, 01 Feb 2022 17:55:39 +0000",
          "title" : "FIDE Grand Prix in turmoil as players forced to pull out"
-      },
-      {
-         "description" : " FIDE has named two replacements for the first leg of the Grand Prix after receiving last minute information that two players will not be able to compete in the tournament that starts in Berlin on February 3 due to visa and health issues. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2988DE75-497A-47D4-8622-4D0377D95719.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> GMs Ding and Andreikin are replaced by GMs Esipenko and Wojtaszek. FIDE President, upon consultation with the organizers and arbiters, made a decision on the replacements as per event's regulations. Pool A: <ol start=\"1\"> <li>Alexander Grischuk (Russia), 2764</li> <li>Hikaru Nakamura, (USA), 2736",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/grand-prix-ding-and-andreikin-replaced-by-esipenko-and-wojtaszek/",
-         "pubDate" : "Tue, 01 Feb 2022 17:23:39 +0000",
-         "title" : "Grand Prix: Ding and Andreikin Replaced by Esipenko and Wojtaszek"
       },
       {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani tests viewers with the scariest tactics test. 2022.02.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactical-scare-exam-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Wx5fGdVwhRg.jpg?itok=W_LYPGmI\" alt=\"\" /></a></div>",
@@ -1898,14 +1914,6 @@ news_feed (
          "title" : "Your Jungle Guide to 1.d4!: Aggressive Enterprise - QGA and Minors"
       },
       {
-         "description" : "Three well-known names collected full points in round 6 of the Tata Steel Masters tournament, as Magnus Carlsen, Sergey Karjakin and Anish Giri all won their Friday games in Wijk aan Zee. Carlsen's victory over Richard Rapport allowed him to catch the leaders in the standings table. Meanwhile, in the Challengers, Arjun Erigaisi continues to dominate as he scored his fifth win in a row! | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r6",
-         "pubDate" : "Sat, 22 Jan 2022 01:10:00 +0100",
-         "title" : "Tata Steel R6: Carlsen beats Rapport, joins the lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2154,14 +2162,6 @@ news_feed (
          "title" : "Mastering Chess Logic"
       },
       {
-         "description" : "Season 3 of the Collegiate Chess League was the biggest season to date with over 80 schools from over a dozen countries fielding 160 teams across 10 divisions (over 1000 total students)! This is only a fraction of the number of schools and student...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-registration",
-         "pubDate" : "Mon, 17 Jan 2022 15:34:30 -0800",
-         "title" : "Collegiate Chess League Season 4 Registration"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2176,14 +2176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1527",
          "pubDate" : "Mon, 17 Jan 2022 20:47:56 +0000",
          "title" : "New set of FIDE regulations comes into force"
-      },
-      {
-         "description" : " Vidit Gujrathi took the sole lead of the Tata Steel Masters with 2.5 points after a wild win against Daniil Dubov in the third round. Dubov played his full part in the excitement and over the board Vidit thought he must have been lost at one stage - but this assessment was probably incorrect as he found a lot of forced moves. Half a point behind there is a big group of players on two points, Both Magnus Carlsen and Jan-Krzysztof Duda after their draw, Andrey Esipenko after beating Sergey Karjakin, Richard Rapport after beating Nils Grandelius in a wild Sicilian and finally Jorden van Foreest who managed to inflict a nightmare pawn structure in an endgame against R Praggnanandhaa. Further de",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/vidit-leads-the-tata-steel-masters-after-three-rounds",
-         "pubDate" : "Mon, 17 Jan 2022 20:41:00 +0400",
-         "title" : "Vidit leads the Tata Steel Masters after three rounds - 3"
       }
    ]
 }
