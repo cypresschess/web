@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "MPL 46TH NATIONAL SUB-JUNIOR (UNDER-16) &#38; 37TH NATIONAL SUB-JUNIOR GIRLS (UNDER-16) CHESS CHAMPIONSHIPS-2022 04 Mar to 08 Mar 2022 at Delhi DOWNLOAD CIRCULAR &#160; MPL",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/regulations-mpl-national-junior-national-sub-junior-chess-championship-2022/",
+         "pubDate" : "Mon, 07 Feb 2022 11:58:13 +0000",
+         "title" : "Regulations : MPL National Junior & National Sub-Junior Chess Championship 2022"
+      },
+      {
+         "description" : "The final round (ten) of the Battle of the Sexes match-tournament, held at Gibraltar, saw the men's team win by 6&frac12;-3&frac12; to finish overall winners by 53-47. The winners on the final day were Bobby Cheng, who beat Jovi Houska; Ravi Haria, who beat Olga Girya; and Bilel Bellahcene, who defeated Marie Sebag (her only loss of the event). Balazs Csonka drew his game with Marsel Efroimski and this was enough to secure his second grandmaster norm.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-men-triumph-2",
+         "pubDate" : "Mon, 07 Feb 2022 12:00:00 +0100",
+         "title" : "Battle of the Sexes: Men triumph!"
+      },
+      {
+         "description" : "Wesley So beating Alexei Shirov to catch Leinier Dominguez in the Pool D lead was the one change among the leaders after Round 3 of the Berlin FIDE Grand Prix. Levon Aronian pulled a full point clear in Pool C after winning a model positional game against Vincent Keymer while Daniil Dubov lost to Vidit. Andrei Esipenko bounced back to beat Etienne Bacrot and get within a point of Hikaru Nakamura, who drew a thriller against Alexander Grischuk, with Oparin-Rapport and Fedoseev-Wojtaszek also edge-of-your-seat draws.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-3-so-takes-lead-as-aronian-pulls-clear",
+         "pubDate" : "Mon, 07 Feb 2022 10:09:16 +0000",
+         "title" : "Berlin Grand Prix 3: So takes lead as Aronian pulls clear"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "FIDE World Championship Match 2023 - Call for bids"
       },
       {
-         "description" : " Share! Scholastic chess has grown by leaps and bounds over the past few decades. With Supernationals drawing over 5100+ players from across the country, times have never been better to start playing chess. There have been many stories of scholastic teams coming from obscurity to win national titles. Brooklyn's IS-318 was the subject of a [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/07/black-history-month-2022-day-7-phillys-roberts-vaux-jr-high/\">Black History Month 2022-Day 7: Philly's Roberts Vaux Jr. High</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share! Scholastic chess has grown by leaps and bounds over the past few decades. With Supernationals drawing over 5500+ players from across the country, times have never been better to start playing chess. When Supernationals VI set a record for 5577 players, it represented a victory for how far scholastic chess has reached. There have [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/07/black-history-month-2022-day-7-phillys-roberts-vaux-jr-high/\">Black History Month 2022-Day 7: Philly's Roberts Vaux Jr. High</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/07/black-history-month-2022-day-7-phillys-roberts-vaux-jr-high/",
@@ -38,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r3-so-joins-leaders",
-         "pubDate" : "Sun, 06 Feb 2022 16:27:49 -0800",
+         "pubDate" : "Sun, 06 Feb 2022 16:27:00 -0800",
          "title" : "2022 FIDE Grand Prix Berlin R3: Wesley So Joins Other Leaders"
       },
       {
@@ -1498,14 +1522,6 @@ news_feed (
          "title" : "Tata Steel R9: Carlsen beats Shakh, Giri wins again"
       },
       {
-         "description" : "Magnus Carlsen and Anish Giri look set for another 2-horse race for the Tata Steel Masters title after both scored impressive wins in Round 9. Magnus effortlessly used Shakhriyar Mamedyarov's aggression against him, while Anish smoothly overcame Sam Shankland in an endgame battle. Hostilities continued afterwards as Magnus teased Anish over the free point against Daniil Dubov. Fabiano Caruana and Sergey Karjakin also won, while Arjun Erigaisi is almost home and dry in the Challengers after racking up a 7th win in 9 games.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-9-carlsen-teases-giri-as-both-win",
-         "pubDate" : "Wed, 26 Jan 2022 10:13:57 +0000",
-         "title" : "Tata Steel 9: Carlsen teases Giri as both win"
-      },
-      {
          "description" : "Magnus Carlsen is the epiphany of winning in an equal position. But what to take care of? How to gain an advantage? What should we consider, once a very equal position has been reached? In one full game, starting from the \"Scotch Game\" opening, to the very end - with three pawns vs. one rook - Svitlana takes us on a journey, on how to advance our chess skills.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1568,14 +1584,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/25/ep-263-ep-263-author-oliver-roeder-on-the-enduring-appeal-of-chess-and-other-games",
          "pubDate" : "Tue, 25 Jan 2022 13:51:43 +0000",
          "title" : "EP 263- Author Oliver Roeder on the Enduring Appeal of Chess and Other Games "
-      },
-      {
-         "description" : "All India Chess Federation extend our heartiest congratulations to Ms. Arushi Kotwal for the Rashtriya Bal Puraskar!! &#160; We are proud of you!!",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-arushi-kotwal/",
-         "pubDate" : "Tue, 25 Jan 2022 10:06:36 +0000",
-         "title" : "Congratulations Arushi Kotwal"
       },
       {
          "description" : "Round one of the #GibChess Battle of the Sexes Tournament, held at the Gibraltar Garrison Library on Monday 24 January, got off to a pulsating start as the team of women's players, dubbed \"Team Pia\" after their captain, GM Pia Cramling, scored a big win over \"Team Sabino\", as the men's team is now known, with four of the ten women's players scoring wins against their male adversaries, with only one male player able to win in reply. The first player to win a game was Olga Girya (pictured) who defeated Joe Gallagher in a King's Indian. | Photos: John Saunders",
@@ -1898,14 +1906,6 @@ news_feed (
          "title" : "Trent's Tactics - Alekhine's tactical brilliancies"
       },
       {
-         "description" : "In his Power Play Show, GM Daniel King looks at a rare occurrence - a missed opportunity by world champion Magnus Carlsen! The Norwegian could have beaten Andrey Esipenko in Wijk aan Zee had he correctly calculated a tactical sequence in the middlegame. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-what-did-carlsen-miss",
-         "pubDate" : "Fri, 21 Jan 2022 18:30:00 +0100",
-         "title" : "Daniel King's Power Play Show: What did Carlsen miss?"
-      },
-      {
          "description" : " Magnus Carlsen joined Vidit Gujrathi and Shakhriyar Mamedyarov in the lead of the Tata Steel Masters and 6 of the 13 rounds. Carlsen defeated Richard Rapport in a Catalan where he grabbed an consolidated a passed a-pawn after which he was winning. Sergey Karjakin finally managed his first win of the event after failing to convert large advantages in recent rounds. Karjakin beat Jorden van Foreest in a sharp Two Knights where his opening advantage became decisive once the Queens came off. Anish Giri beat Fabiano Caruana when the game turned round in a few moves from being very favorable to Caruana to winning for Giri and then swung back to level in time trouble before Caruana blundered the e",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2200,30 +2200,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/a-big-clash.html",
          "pubDate" : "Mon, 17 Jan 2022 13:00:00 +0000",
          "title" : "A big clash"
-      },
-      {
-         "description" : "We are glad to inform you that&#160;FIDE and the International School Sport Federation (ISF) organize the FIDE ISF World School Championship Online Chess Cup...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/fide-isf-world-school-online-chess-cup-registration/",
-         "pubDate" : "Mon, 17 Jan 2022 12:12:04 +0000",
-         "title" : "FIDE - ISF World School Online Chess Cup registration"
-      },
-      {
-         "description" : "The Commission for Women's Chess is truly grateful to the FIDE President Mr. Arkady Dvorkovich, the FIDE Council and the Management, for their decision to...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/manifesto-the-year-of-the-woman-in-chess/",
-         "pubDate" : "Mon, 17 Jan 2022 12:07:00 +0000",
-         "title" : "Manifesto - The Year of the Woman in Chess"
-      },
-      {
-         "description" : "Following the decision on Arbiter title applications approved by the recent FIDE Council Meeting, England now has two more FIDE Arbiters. I am sure that...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/congratulations-to-new-fide-arbiters/",
-         "pubDate" : "Mon, 17 Jan 2022 11:52:30 +0000",
-         "title" : "Congratulations to new FIDE Arbiters"
       }
    ]
 }
