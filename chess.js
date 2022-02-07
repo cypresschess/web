@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1562",
+         "pubDate" : "Mon, 07 Feb 2022 07:44:25 +0000",
+         "title" : "FIDE World Championship Match 2023 - Call for bids"
+      },
+      {
          "description" : " Share! Scholastic chess has grown by leaps and bounds over the past few decades. With Supernationals drawing over 5100+ players from across the country, times have never been better to start playing chess. There have been many stories of scholastic teams coming from obscurity to win national titles. Brooklyn's IS-318 was the subject of a [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/07/black-history-month-2022-day-7-phillys-roberts-vaux-jr-high/\">Black History Month 2022-Day 7: Philly's Roberts Vaux Jr. High</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2216,14 +2224,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/congratulations-to-new-fide-arbiters/",
          "pubDate" : "Mon, 17 Jan 2022 11:52:30 +0000",
          "title" : "Congratulations to new FIDE Arbiters"
-      },
-      {
-         "description" : "The European School Chess Championship 2022 will take place from 20 April (arrival day) to 30 April (departure day) in 5 stars &#8220;Rodos Palace&#8221; conference resort, located in Rhodes island, Greece. The European School Chess Championships are part of the \"Rhodes Chess Festival 2022\", together with the Rhodes Spring Open (also 20 30 April 2022) and the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2022-official-invitation/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-school-chess-championship-2022-official-invitation/",
-         "pubDate" : "Mon, 17 Jan 2022 07:56:56 +0000",
-         "title" : "European School Chess Championship 2022 - Official invitation"
       }
    ]
 }
