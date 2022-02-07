@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! Scholastic chess has grown by leaps and bounds over the past few decades. With Supernationals drawing over 5100+ players from across the country, times have never been better to start playing chess. There have been many stories of scholastic teams coming from obscurity to win national titles. Brooklyn's IS-318 was the subject of a [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/07/black-history-month-2022-day-7-phillys-roberts-vaux-jr-high/\">Black History Month 2022-Day 7: Philly's Roberts Vaux Jr. High</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/07/black-history-month-2022-day-7-phillys-roberts-vaux-jr-high/",
+         "pubDate" : "Mon, 07 Feb 2022 06:08:52 +0000",
+         "title" : "Black History Month 2022-Day 7: Philly's Roberts Vaux Jr. High"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1561",
+         "pubDate" : "Mon, 07 Feb 2022 05:28:24 +0000",
+         "title" : "FIDE Grand Prix: Levon elevates his game in Berlin"
+      },
+      {
+         "description" : "Fighting chess has been the rule rather than the exception at the FIDE Grand Prix in Berlin, as Sunday's third round marked the halway point of the group stage. Round 3 saw half the games ending decisively, with Levon Aronian becoming the first player to score two wins in the event. Aronian now has a full-point lead over Vidit Gujrathi in group C. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r3",
+         "pubDate" : "Mon, 07 Feb 2022 06:10:00 +0100",
+         "title" : "Berlin GP: Aronian in full control"
+      },
+      {
+         "description" : "The third round of the 2022 FIDE Grand Prix produced fighting games on all the boards in all the groups, though the leaders remain unchanged except for Group D, where GM Wesley So joined the lead with GM Leinier Dominguez on 2/3. In Group C, GM Le...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r3-so-joins-leaders",
+         "pubDate" : "Sun, 06 Feb 2022 16:27:49 -0800",
+         "title" : "2022 FIDE Grand Prix Berlin R3: Wesley So Joins Other Leaders"
+      },
+      {
+         "description" : " With three PCR tests left, anything can happen yet,\" says Grischuk The day began with some online drama concerning the correct spelling of one of the players' names. Luckily enough, one of his countrymen saved the day: <a href=\"https://twitter.com/srinathchess/status/1490309650415505408\">https://twitter.com/srinathchess/status/1490309650415505408</a> Once the round began, online commentator <b>Jesse February</b> quickly noticed some interesting facts. \"We almost had the Grand Prix Attack played in the FIDE Grand Prix: we had the Berlin Defense played in Berlin, and today we have the French Defense being played by the French player!\" Most of the games started with 1.e4 (5 out of 8): two Sici",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/levon-elevates-his-game-in-berlin/",
+         "pubDate" : "Sun, 06 Feb 2022 22:52:55 +0000",
+         "title" : "Levon elevates his game in Berlin"
+      },
+      {
+         "description" : "Magnus Carlsen suffered a hiccup on his hunt for the 2900 target in the Norwegian League this weekend when he had to settle for a draw against 399 points lower rated IM Geir Sune Tallaksen Østmoe. In Carlsen's absence on Sunday it got worse for his club Offerspill, as they suffered a sensational 5-1 loss against lowly-rated Nordstrand",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-suffers-hiccup-on-hunt-towards-2900",
+         "pubDate" : "Sun, 06 Feb 2022 21:43:51 +0000",
+         "title" : "Carlsen suffers hiccup on hunt towards 2900"
+      },
+      {
          "description" : " <p class=\"lead\">Round 3 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022</a> had 4 decisive games and Nakamura, Wojtaszek, and Aronian being the sole leaders of their groups. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220206150853_IMG_0773.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220206150315_IMG_0762.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220206150214_IMG",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -34,7 +82,7 @@ news_feed (
          "title" : "Dirty forks and dead parrots"
       },
       {
-         "description" : " Share! Theophilus Thompson as one of the most intriguing figures in the modern American chess era. Born April 21st, 1855, he worked as a 14-year old domestic servant. According to the 1870 U.S. Census, he was living in the home of William Higgins, a County Constable. Two years later, he returned to live with his [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/06/black-history-month-2022-day-6-theophilus-thompson/\">Black History Month 2022-Day 6: Theophilus Thompson</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Theophilus Thompson as one of the most intriguing figures in the modern American chess era. Born April 21st, 1855, he worked as a 14-year old domestic servant. According to the 1870 U.S. Census, he was living in the home of William Higgins, a County Constable. Two years later, he returned to live with his mother. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/06/black-history-month-2022-day-6-theophilus-thompson/\">Black History Month 2022-Day 6: Theophilus Thompson</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/06/black-history-month-2022-day-6-theophilus-thompson/",
@@ -64,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-65-prophylaxis",
          "pubDate" : "Sun, 06 Feb 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 65: Prophylaxis"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
-         "pubDate" : "Sun, 06 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Games and results"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/bIJclL_0DPY?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -874,14 +914,6 @@ news_feed (
          "title" : "Arjun Erigaisi wins the 2022 Tata Steel Chess Challengers Tournament with a 10,5/13 score"
       },
       {
-         "description" : " <p class=\"lead\">Even if we already knew the Champion of the <a href=\"https://tatasteelchess.com\">2022 Tata Steel Chess Tournament</a>, the second and third places were about to be determined in the last round. A draw was enough for both Mamedyarov and Rapport to be in the top3, while Pragg stole the show of Round 13 with his win against Esipenko. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1500\" data-ratio=\"1.497005988024\"> <img src=\"https://worldchess.com/news/pictures/JH_6460LR.jpg\" width=\"1500\" height=\"1002\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_6382LR.jpg\" width=\"1500\" height=\"929\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/JH_6348",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/2022-tata-steel-chess-tournament-is-over-with-carlsen-mamedyarov/",
-         "pubDate" : "Mon, 31 Jan 2022 12:32:51 +0000",
-         "title" : "2022 Tata Steel Chess Tournament is over with Carlsen, Mamedyarov, and Rapport forming the top3"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1658,14 +1690,6 @@ news_feed (
          "title" : "Manuel Petrosyan and Mariam Mkrtchyan win Armenian Champioship"
       },
       {
-         "description" : "Shakhriyar Mamedyarov bamboozled Praggnanandhaa to catch Magnus Carlsen in the lead before they clash in Round 9. Carlsen's own \"semi-correct\" gambit caught Sam Shankland off-guard, but the US star dodged some bullets to make a draw. Anish Giri followed gifts from Fabiano Caruana and Daniil Dubov by outplaying Andrey Esipenko to move within half a point of the leaders, where he's joined by Vidit, who bounced back to take down Nils Grandelius. Arjun Erigaisi took advantage of Jonas Bjerre's touch-move woes to score a 6th win and take a 1.5-point lead in the Challengers.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-8-mamedyarov-sets-up-carlsen-showdown",
-         "pubDate" : "Mon, 24 Jan 2022 02:28:04 +0000",
-         "title" : "Tata Steel 8: Mamedyarov sets up Carlsen showdown"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2200,22 +2224,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2022-official-invitation/",
          "pubDate" : "Mon, 17 Jan 2022 07:56:56 +0000",
          "title" : "European School Chess Championship 2022 - Official invitation"
-      },
-      {
-         "description" : "GM Vidit Gujrathi is the sole leader at the Tata Steel Chess Tournament after defending brilliantly against GM Daniil Dubov, who played creatively but eventually over-pressed. Co-leaders Jan-Krzysztof Duda and&#38;nbsp;GM Magnus Carlsen drew, while GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-3",
-         "pubDate" : "Sun, 16 Jan 2022 17:00:00 -0800",
-         "title" : "Tata Steel Chess R3: Vidit Defends Brilliantly To Grab Sole Lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1525",
-         "pubDate" : "Sun, 16 Jan 2022 22:42:08 +0000",
-         "title" : "Tata Steel Masters: Magnus Carlsen join leaders"
       }
    ]
 }
