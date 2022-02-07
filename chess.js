@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What is the Hippopotamus system of defence? The idea is that, at the beginning of the game, Black develops within his own first three ranks. He constructs a solid, flexible and hopefully stable position, awaiting events. At the right moment, he will strike back! The Hippopotamus was given the name by an eccentric English amateur player JC Thompson, back in the 1950's. It seems as good a name as any. Given the right conditions, Black will emerge from the chessboard swamp and crush all before them.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-the-hippopotamus-system-of-defence",
+         "pubDate" : "Mon, 07 Feb 2022 16:32:39 +0100",
+         "title" : "New: The Hippopotamus system of defence"
+      },
+      {
+         "description" : " Watch the Broadcast live: <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/SsosJhFOzls?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-day-4-broadcast/",
+         "pubDate" : "Mon, 07 Feb 2022 14:00:42 +0000",
+         "title" : "FIDE Grand Prix Day 4 Broadcast"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
+         "pubDate" : "Mon, 07 Feb 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : " It has been a while since I have featured Lev Aronian on these pages, but the following game from the current FIDE Grand Prix caught my eye. It wasn't so much the effortless way he gained a winning advantage against Vincent Keymer, but how early in the game he did so. I would say he was clearly winning by move 18, but more so, was completely winning at move 24. I suspect Aronian new he was winning, and Keymer probably knew he was completely lost. Probably the only strong players who may have underestimated Aronian's advantage would have been various chess engines, who gave Aronian a pawn advantage at best. To a human, control of the 7th rank supported by the bishop on d6 was an 'eternal' ad",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/a-better-understanding.html",
+         "pubDate" : "Mon, 07 Feb 2022 13:07:00 +0000",
+         "title" : "A better understanding"
+      },
+      {
+         "description" : " <p class=\"lead\">BERLIN, Germany - Meduza, a popular Russian-language media, published an <a href=\"https://meduza.io/feature/2022/02/07/eto-pohozhe-na-krik-dushi-no-ya-ne-znayu-o-chem-on-krichit\">explosive investigation</a> about underage female chess players who have been receiving pornographic clippings and used condoms in the mail. The scheme has been going on for decades, and more than 50 victims were identified. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/C4822527-6A0D-48D9-B64D-10C10D37543D.jpeg\" width=\"1600\" height=\"1338\" alt=\"\" /> <div class=\"e2-text-caption\">FIDE Grand Swiss (Womens Section). Photo Mark Livshitz for FIDE</div> </div> Top Russian fema",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/russian-publication-exposes-alleged-criminal-who-sent-pornograph/",
+         "pubDate" : "Mon, 07 Feb 2022 13:05:20 +0000",
+         "title" : "Media Exposes Alleged Criminal Who Sent Pornography and Condoms to Underage Chess Players"
+      },
+      {
          "description" : "MPL 46TH NATIONAL SUB-JUNIOR (UNDER-16) &#38; 37TH NATIONAL SUB-JUNIOR GIRLS (UNDER-16) CHESS CHAMPIONSHIPS-2022 04 Mar to 08 Mar 2022 at Delhi DOWNLOAD CIRCULAR &#160; MPL",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -34,7 +74,7 @@ news_feed (
          "title" : "FIDE World Championship Match 2023 - Call for bids"
       },
       {
-         "description" : " Share! Scholastic chess has grown by leaps and bounds over the past few decades. With Supernationals drawing over 5500+ players from across the country, times have never been better to start playing chess. When Supernationals VI set a record for 5577 players, it represented a victory for how far scholastic chess has reached. There have [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/07/black-history-month-2022-day-7-phillys-roberts-vaux-jr-high/\">Black History Month 2022-Day 7: Philly's Roberts Vaux Jr. High</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share! Scholastic chess has grown by leaps and bounds over the past few decades. With Supernationals drawing over 5500+ players from across the country, times have never been better to start playing chess. When Supernationals VI set a record for 5577 players, it demonstrated how far scholastic chess has grown. There have been many stories [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/07/black-history-month-2022-day-7-phillys-roberts-vaux-jr-high/\">Black History Month 2022-Day 7: Philly's Roberts Vaux Jr. High</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/07/black-history-month-2022-day-7-phillys-roberts-vaux-jr-high/",
@@ -914,14 +954,6 @@ news_feed (
          "title" : "Arjun definitely one of our biggest hopes: Anand"
       },
       {
-         "description" : " <p class=\"lead\">As soon as elite chess grandmasters fighting for the right to challenge the World Champion finish their games during the FIDE Grand Prix in Berlin next month, the positions on the boards (called FENs in chess-speak) will be fed into a complicated AI-algorithm that will turn the data from each game into a <a href=\"https://shop.worldchess.com/collections/nft-art-collection\">unique chess piece</a>. An exhibition of the unique art generated from chess positions will be held in Berlin during the FIDE Grand Prix Series. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/CF92DE32-C643-4EA1-B2B1-7C6154A376D5.jpeg\" width=\"2560\" height=\"1440\" alt=\"\" /> </div>",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/chess-games-turned-into-unique-art-pieces-and-nfts-of-course/",
-         "pubDate" : "Mon, 31 Jan 2022 13:53:15 +0000",
-         "title" : "Chess Games Turned Into Unique Art Pieces (and NFTs, Of Course)"
-      },
-      {
          "description" : "Magnus Carlsen had wrapped up victory in the Tata Steel Masters with a round to spare and could commentate on chess24 since his scheduled game with Daniil Dubov was a forfeit win. The \"battle\" for 2nd place lasted just minutes as quick draws saw Shakhriyar Mamedyarov and Richard Rapport tie on 8/13, but the remaining four games were great fights, with Praggnanandhaa, Sergey Karjakin and Jorden van Foreest picking up wins. Arjun Erigaisi ended on a high by beating Marc Maurizzi to match his pre-tournament goal of 10.5/13 as he crushed the Challengers.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -936,14 +968,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1553",
          "pubDate" : "Mon, 31 Jan 2022 12:39:18 +0000",
          "title" : "Workshop: Increase your inner strength"
-      },
-      {
-         "description" : " <p class=\"lead\">Indian GM Arjun Erigaisi, who had secured first place in the <a href=\"https://tatasteelchess.com\">2022 Tata Steel Challengers Tournament</a> with a round to spare, collected yet another victory to finish the event with a remarkable 10,5/13 score. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/JH_6279LR-2.jpg\" width=\"1500\" height=\"1015\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: © Lennart Ootes and Jurriaan Hoefsmit - Tata Steel Chess Tournament 2022</div> </div> The 18-year-old GM made quite an impression at the Challengers, where he finished undefeated, with eight wins and five draws. With this triumph, Erigaisi qualified for next year's Ta",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/arjun-erigaisi-wins-the-2022-tata-steel-chess-challengers-tourna/",
-         "pubDate" : "Mon, 31 Jan 2022 12:36:28 +0000",
-         "title" : "Arjun Erigaisi wins the 2022 Tata Steel Chess Challengers Tournament with a 10,5/13 score"
       },
       {
          "description" : "",
@@ -1890,22 +1914,6 @@ news_feed (
          "title" : "Tata Steel Masters: Thee on top after Round 6"
       },
       {
-         "description" : "If you want to learn more about the Italian Game, 1.e4 e5 2.Nf3 Nc6 3.Bc4, is there a better teacher than Anish Giri? The Dutch GM (of Nepalese/Russian extraction) is number seven in the world, with a 2772 rating. In a very instructive video, Anish tells you everything you need to know about this opening. The two-hour streaming session with ChessBase India is most entertaining, and at the same time wonderfully instructive. Take this boost to your tournament performance and make the most of it!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anish-giri-teaches-the-italian",
-         "pubDate" : "Fri, 21 Jan 2022 20:00:00 +0100",
-         "title" : "Anish Giri teaches the Italian"
-      },
-      {
-         "description" : "Normally, Lawrence and Arne approach the tactic section, and solve some puzzles to reach a higher rating. Today, Alexander Alekhine takes over. Lawrence shows us two prime examples of Alekhines tactical understanding. Trent's Tactics is about exceeding your tactical understanding, with plenty of different motifs. We highly recommend trying the puzzles on your own for a couple of minutes, before watching the solution.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-11",
-         "pubDate" : "Fri, 21 Jan 2022 19:34:04 +0100",
-         "title" : "Trent's Tactics - Alekhine's tactical brilliancies"
-      },
-      {
          "description" : " Magnus Carlsen joined Vidit Gujrathi and Shakhriyar Mamedyarov in the lead of the Tata Steel Masters and 6 of the 13 rounds. Carlsen defeated Richard Rapport in a Catalan where he grabbed an consolidated a passed a-pawn after which he was winning. Sergey Karjakin finally managed his first win of the event after failing to convert large advantages in recent rounds. Karjakin beat Jorden van Foreest in a sharp Two Knights where his opening advantage became decisive once the Queens came off. Anish Giri beat Fabiano Caruana when the game turned round in a few moves from being very favorable to Caruana to winning for Giri and then swung back to level in time trouble before Caruana blundered the e",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2176,30 +2184,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/vidit-leads-the-tata-steel-masters-after-three-rounds",
          "pubDate" : "Mon, 17 Jan 2022 20:41:00 +0400",
          "title" : "Vidit leads the Tata Steel Masters after three rounds - 3"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88957582.cms\" />The ongoing Tata Steel Chess tournament has been embroiled in an unnecessary controversy after the event's broadcaster has invited Norway's most infamous bank robber, David Toska as a guest for a show.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-hit-by-controversy-after-norways-infamous-robber-invited-as-guest/articleshow/88957582.cms",
-         "pubDate" : "Mon, 17 Jan 2022 21:14:25 +0530",
-         "title" : "Tata Steel chess hit by controversy after Norway's infamous robber invited as guest"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1526",
-         "pubDate" : "Mon, 17 Jan 2022 14:36:31 +0000",
-         "title" : "TRG announces Trainer Professional & Development Workshops program"
-      },
-      {
-         "description" : " Round 3 of the 2022 Tata Steel tournament sees the clash of two of the leaders, Carlsen and Duda. Carlsen scored a nice win over Giri in round 2, while Duda beat Rapport in the 1st round. Some might say Duda was a little lucky in that Rapport blundered just before the end, but manoeuvring your pieces in the hope that your opponent makes a mistake is a technique that dates back to the time of Tarrasch and Lasker. <br /> <b>Duda,Jan-Krzysztof (2760) - Rapport,Richard (2763) [D02]</b><br />Tata Steel Masters chess24.com (1.5), 15.01.2022 <script>new PgnViewer( { boardName: \"game1303\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 d5 3.Bf4 Bf5 4.c4 e6 5.e3 Nbd7 6.Qb3 Bd6 7.Bg3 dxc4 8.Bxc4 R",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/a-big-clash.html",
-         "pubDate" : "Mon, 17 Jan 2022 13:00:00 +0000",
-         "title" : "A big clash"
       }
    ]
 }
