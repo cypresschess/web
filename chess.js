@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " &#8220;The beauty of a move lies not in its appearance but in the thought behind it&#8221; A. Nimzovich Playing a blunder is devastating. It is also expected in games played by regular players. In the rare occasion it happens to the best, they are received with mixed feelings. On one hand they provide a high <a href=\"https://chessimprover.com/blunder-in-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Blunder in 1\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/blunder-in-1/\">Blunder in 1</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/blunder-in-1/",
+         "pubDate" : "Tue, 08 Feb 2022 15:23:36 +0000",
+         "title" : "Blunder in 1"
+      },
+      {
+         "description" : "After gaining 3.1 rating points by scoring a brilliant 9&frac12;/13 at the Tata Steel Masters, Carlsen gave up 4.1 rating points by drawing a single game in Norway. Geir Sune Tallaksen Ostmoe, an International Master and chess composer, showcased his endgame abilities to defend an inferior position with the black pieces until getting an outstanding 84-move draw against the world champion. | Screenshot: Sjakkforbundet / Twitch",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/geir-sune-ostmoe-draws-magnus-carlsen",
+         "pubDate" : "Tue, 08 Feb 2022 16:00:00 +0100",
+         "title" : "Tallaksen Ostmoe, rated 2466, holds Magnus Carlsen to a draw"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e4d27c07-0408-4411-9c63-d7828a0f83dd/Simon.final.jpg\" data-image-dimensions=\"433x218\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6202745412b373322cc074f4\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e4d27c07-0408-4411-9c63-d7828a0f83dd/Simon.final.jpg?format=1000w\" /> </figure> <p class=\"\">GM SImon William, aka \"The Ginger GM\" is an entertaining and popular commentator, <a href=\"https://www.youtube.com/c/GingerGM\" target=\"_blank\">YouTube Creator</a>, <a h",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/2/8/ep-265-gm-simon-williams-aka-the-ginger-gm-returns",
+         "pubDate" : "Tue, 08 Feb 2022 13:49:48 +0000",
+         "title" : "EP 265- GM Simon Williams (aka the Ginger GM) returns"
+      },
+      {
+         "description" : "The pair of bishops can be a powerful weapon. If you know what to do with them. In the fifth installment of \"The Winning Academy\" Jan Markos shows what you should do to convert the advantage of having the pair of bishops into a winning position.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-5-what-to-do-with-a-bishop-pair",
+         "pubDate" : "Tue, 08 Feb 2022 14:00:00 +0100",
+         "title" : "The Winning Academy 5: What to do with a bishop pair?"
+      },
+      {
          "description" : "Wesley So crashed through against Leinier Dominguez to seize a full-point lead at the top of Pool D with just two rounds to go. Levon Aronian also leads by a point in Pool C after a draw against Vidit, while Daniil Dubov caught Vincent Keymer out in the opening to win the other game in that group. Hikaru Nakamura still leads Alexander Grischuk and Andrey Esipenko by half a point after a fiery draw against Etienne Bacrot, while Group B is the hardest to call after Vladimir Fedoseev beat Grigoriy Oparin to catch Radek Wojtaszek.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -66,20 +98,20 @@ news_feed (
          "title" : "Yuri Averbakh, The Oldest Living Grandmaster, Turns 100"
       },
       {
-         "description" : "Yuri Lvovich Averbakh was born 100 years ago today. As a boy, he saw Emanuel Lasker play, and he went on to witness almost the entire rise and fall of the Soviet School of Chess, winning the USSR Championship in 1954 and tying for first place with Mark Taimanov and Boris Spassky two years later. For the occasion, FM Yosha Iglesias looks back on the remarkable life of the oldest ever Grandmaster.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/yuri-averbakh-celebrates-100th-birthday",
-         "pubDate" : "Tue, 08 Feb 2022 06:25:49 +0000",
-         "title" : "Yuri Averbakh celebrates his 100th birthday"
-      },
-      {
-         "description" : " Share! &#8220;I've never heard of him.&#8221; This is a statement I've heard many times when referring to FM Morris Giles. In covering Black players in the U.S. or &#8220;African-Americans&#8221; as they are commonly called, there are those who invoke vivid memories. Of course, we have heard of Maurice Ashley and Emory Tate, for good reason. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/08/black-history-month-2022-day-8-fm-morris-giles/\">Black History Month 2022-Day 8: FM Morris Giles</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share! &#8220;I've never heard of him.&#8221; This is a statement I've heard many times when referring to FM Morris Giles. In covering Black players in the U.S. or &#8220;African-Americans&#8221; as we are commonly called, there are those who invoke vivid memories. Of course, we have heard of Maurice Ashley and Emory Tate, for good reason. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/08/black-history-month-2022-day-8-fm-morris-giles/\">Black History Month 2022-Day 8: FM Morris Giles</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/08/black-history-month-2022-day-8-fm-morris-giles/",
          "pubDate" : "Tue, 08 Feb 2022 06:11:10 +0000",
          "title" : "Black History Month 2022-Day 8: FM Morris Giles"
+      },
+      {
+         "description" : "Yuri Lvovich Averbakh was born 100 years ago today. As a boy, he saw Emanuel Lasker play, and he went on to witness almost the entire rise and fall of the Soviet School of Chess, winning the USSR Championship in 1954 and tying for first place with Mark Taimanov and Boris Spassky two years later. For the occasion, FM Yosha Iglesias looks back on the remarkable life of the oldest ever Grandmaster.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/yuri-averbakh-celebrates-100th-birthday",
+         "pubDate" : "Tue, 08 Feb 2022 06:00:00 +0000",
+         "title" : "Yuri Averbakh celebrates his 100th birthday"
       },
       {
          "description" : "GM Levon Aronian consolidated his position while GM Wesley So defeated GM Leinier Dominguez in a crucial game, as both opened a full point lead on 3/4 in Group C and Group D respectively at the end of the fourth round of the 2022 FIDE Grand Prix a...",
@@ -1882,14 +1914,6 @@ news_feed (
          "title" : "Tata Steel Masters R07: Carlsen moves into the lead"
       },
       {
-         "description" : "An eventful seventh round in Wijk aan Zee saw Daniil Dubov forfeiting his game against Anish Giri after declining to wear a mask during the game as requested by the organizers - someone in the Russian's inner circle had tested positive for Covid-19. Later on, wins by Magnus Carlsen, Jorden van Foreest and Fabiano Caruana left the world champion in the sole lead. | Photo: Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r7",
-         "pubDate" : "Sun, 23 Jan 2022 00:15:00 +0100",
-         "title" : "Tata Steel R7: Dubov forfeits, Carlsen leads"
-      },
-      {
          "description" : " Tunde Onakoya's mission to invigorate the Nigerian slum through chess has taken a grand leap. Three years ago, Tunde was in the news after writing of an adorable little girl named Basirat Ariyike. She became a symbol of what Onakoya was trying to achieve in his &#8220;Chess in Slums&#8221; initiative. In the chess world, stories [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/22/tunde-onakoyas-mission-takes-chess-to-nigerian-slums/\">Tunde Onakoya's mission takes chess to Nigerian slums</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1904,14 +1928,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-leads-the-tata-steel-masters-after-7-rounds",
          "pubDate" : "Sat, 22 Jan 2022 23:02:00 +0400",
          "title" : "Carlsen leads the Tata Steel Masters after 7 rounds - 7"
-      },
-      {
-         "description" : "\"Mind, Art, Experience: 10 Years of Chess & Culture in Saint Louis\" celebrates the best chess, art and culture from all 50 exhibitions held at the WCHOF since its 2011 relocation to Saint Louis, Missouri. The three-floor show features more than 120 artworks and artifacts, including pieces related to legendary World Champions Bobby Fischer, Anatoly Karpov, Garry Kasparov, and Boris Spassky.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mind-art-experience-10-years-saint-louis",
-         "pubDate" : "Sat, 22 Jan 2022 20:00:00 +0100",
-         "title" : "Mind, Art, Experience: 10 Years of Chess & Culture in Saint Louis"
       },
       {
          "description" : "",
@@ -2152,14 +2168,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/vidit-leads-the-tata-steel-masters-on-three-points-after-four-rounds",
          "pubDate" : "Tue, 18 Jan 2022 22:31:00 +0400",
          "title" : "Vidit leads the Tata Steel Masters on three points after four rounds - 4"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/69a69760-e0c0-4f22-af53-0d09249b758f/Kostya.jpg\" data-image-dimensions=\"1737x877\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61e6c8ab6285992a0accd110\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/69a69760-e0c0-4f22-af53-0d09249b758f/Kostya.jpg?format=1000w\" /> </figure> <p class=\"\">This week Perpetual Chess welcomes back IM Kostya Kavutskiy. Kostya is a respected trainer, a founder of the ChessDojo training platform, a YouTube creator, and a Chessable auth",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/18/ep-262-im-kostya-kavutskiy-returns",
-         "pubDate" : "Tue, 18 Jan 2022 14:07:38 +0000",
-         "title" : "EP 262- IM Kostya Kavutskiy returns "
       }
    ]
 }
