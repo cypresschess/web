@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So crashed through against Leinier Dominguez to seize a full-point lead at the top of Pool D with just two rounds to go. Levon Aronian also leads by a point in Pool C after a draw against Vidit, while Daniil Dubov caught Vincent Keymer out in the opening to win the other game in that group. Hikaru Nakamura still leads Alexander Grischuk and Andrey Esipenko by half a point after a fiery draw against Etienne Bacrot, while Group B is the hardest to call after Vladimir Fedoseev beat Grigoriy Oparin to catch Radek Wojtaszek.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-4-wesley-so-takes-sole-lead",
+         "pubDate" : "Tue, 08 Feb 2022 11:11:47 +0000",
+         "title" : "Berlin Grand Prix 4: Wesley So takes sole lead"
+      },
+      {
+         "description" : "1st GUWAHATI INTERNATIONAL OPEN GRANDMASTERS CHESS TOURNAMENT 13-20 March 2022 Venue : DTRP INDOOR STADIUM RG Baruah Road, Guwahati AICF EVENT CODE : 280085/ASM /",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/regulations-triple-international-grandmasters-tournaments-in-march-2022/",
+         "pubDate" : "Tue, 08 Feb 2022 09:11:43 +0000",
+         "title" : "Regulations : Triple International Grandmasters Tournaments in March 2022"
+      },
+      {
+         "description" : "I am pleased to invite you on behalf of the IPCA to participate in the 21st IPCA World Individual Chess Championship for the Physically Disabled...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ipca-world-individual-chess-championship/",
+         "pubDate" : "Tue, 08 Feb 2022 08:35:06 +0000",
+         "title" : "IPCA World Individual Chess Championship"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "The oldest living Grandmaster Yuri Averbakh turns 100"
       },
       {
-         "description" : "The 1st ECU Quarter Board Meeting took place in Thessaloniki, Greece on the 4th and 5th of February 2022. The main session took place in Thessaloniki City Council Hall on 4th of February. The Board was welcomed by the Deputy Mayor Mr. Nikolaos Zeimpekis and the President of the Greek Chess Federation Mr. Stathis Efstathopoulos. Main information and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no1-2022/\">Read More &#187;</a></span>",
+         "description" : "The ECU Board Meeting took place in Thessaloniki, Greece on the 4th and 5th of February 2022. The main session took place in Thessaloniki City Council Hall on 4th of February. The Board was welcomed by the Deputy Mayor Mr. Nikolaos Zeimpekis and the President of the Greek Chess Federation Mr. Stathis Efstathopoulos. Main information and decisions: The&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no1-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no1-2022/",
@@ -18,7 +42,7 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting CL No1/2022"
       },
       {
-         "description" : "Passed pawns are particularly powerful in queen endgames because the mobility of the queen helps to support the advance of the pawn. However, king safety is also an issue. In the diagrammed position Black's a-pawn is far advanced, but Black's king has to find a way to hide from the enemy checks. How can Black protect her king, queen the pawn and win the game?",
+         "description" : "Passed pawns are particularly powerful in queen endgames because the mobility of the queen helps to support the advance of the pawns. However, king safety is also an issue. In the diagrammed position Black's a-pawn is far advanced, but Black's king has to find a way to hide from the enemy checks. How can Black protect her king, queen the pawn and win the game?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/safety-first",
@@ -26,12 +50,20 @@ news_feed (
          "title" : "Safety first"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A fully revised and extended <strong><a href=\"https://handbook.fide.com/chapter/EthicsAndDisciplinaryCode2022\">Ethics and Disciplinary Code</a></strong> was approved by the <strong>FIDE General Assembly</strong> and will come into action on 1 April 2022. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/new-ethics-code-valid-from-april/",
+         "pubDate" : "Tue, 08 Feb 2022 08:35:33 +0100",
+         "title" : "New Ethics Code valid from April"
+      },
+      {
          "description" : "GM Yuri Averbakh, the oldest living grandmaster in the world, turns 100 today. After recovering from Covid last summer, he seems to be back in shape again and says he still analyzes endgames to keep his mind sharp. Born February 8, 1922, in Kalu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/yuri-averbakh-100-years",
          "pubDate" : "Mon, 07 Feb 2022 22:29:00 -0800",
-         "title" : "Yuri Averbakh (100): 'I Can Even Say That I'm Doing Well'"
+         "title" : "Yuri Averbakh, The Oldest Living Grandmaster, Turns 100"
       },
       {
          "description" : "Yuri Lvovich Averbakh was born 100 years ago today. As a boy, he saw Emanuel Lasker play, and he went on to witness almost the entire rise and fall of the Soviet School of Chess, winning the USSR Championship in 1954 and tying for first place with Mark Taimanov and Boris Spassky two years later. For the occasion, FM Yosha Iglesias looks back on the remarkable life of the oldest ever Grandmaster.",
@@ -39,10 +71,10 @@ news_feed (
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/yuri-averbakh-celebrates-100th-birthday",
          "pubDate" : "Tue, 08 Feb 2022 06:25:49 +0000",
-         "title" : "Yuri Averbakh celebrates 100th birthday"
+         "title" : "Yuri Averbakh celebrates his 100th birthday"
       },
       {
-         "description" : " Share! &#8220;I've never heard of him.&#8221; This is a statement I've heard many times when referring to FM Morris Giles. In covering Black players, there are those who invoke vivid memories. Of course, we have heard of Maurice Ashley and Emory Tate, for good reason. Perhaps many have heard of FMs William Morrison and Ronald [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/08/black-history-month-2022-day-8-fm-morris-giles/\">Black History Month 2022-Day 8: FM Morris Giles</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share! &#8220;I've never heard of him.&#8221; This is a statement I've heard many times when referring to FM Morris Giles. In covering Black players in the U.S. or &#8220;African-Americans&#8221; as they are commonly called, there are those who invoke vivid memories. Of course, we have heard of Maurice Ashley and Emory Tate, for good reason. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/08/black-history-month-2022-day-8-fm-morris-giles/\">Black History Month 2022-Day 8: FM Morris Giles</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/08/black-history-month-2022-day-8-fm-morris-giles/",
@@ -256,14 +288,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/esipenko-beats-bacrot-and-bounces-back-while-aronian-leads-group/",
          "pubDate" : "Sun, 06 Feb 2022 19:28:55 +0000",
          "title" : "Esipenko beats Bacrot and bounces back while Aronian leads Group C with a point ahead"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Three years <a href=\"https://www.chess.com/de/news/view/chessbomb-und-chess-com-fusionieren\">after buying</a> the live transmission site <strong>Chessbomb</strong>, <strong>Chess.com</strong> has taken it offline. Some features have long been integrated into their own <a href=\"https://chess.com/events\">events page</a> and more will soon, according to CEO <strong>Erik Allebest</strong>: \"It just doesn't make sense to be two supporting two front-end products.\" </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/chessbomb-offline/",
-         "pubDate" : "Sun, 06 Feb 2022 20:25:09 +0100",
-         "title" : "Chessbomb offline"
       },
       {
          "description" : "A talk with his son Lawrence got Jon Speelman thinking about how many Monty Python sketches he could link to specific chess themes. He thus came up with 'dirty forks', 'dead parrots', 'four Yorkshiremen' and 'the Ministry of silly walks'. Enjoy!",
@@ -642,7 +666,7 @@ news_feed (
          "title" : "Chess: Carlsen a class apart as world No 1 dominates at 'chess Wimbledon'"
       },
       {
-         "description" : " The first leg of three FIDE Grand Prix takes place in Berlin 4th to 17th February. Players will compete in two out of the three legs and the best two combined results will qualify for the Candidates. Ding Liren failed to get a Visa for the event and is out as is Kirill Alekseenko. There are four pools of four players. The winners of each pool meet in a final KO phase to decide the winner. ",
+         "description" : " The first leg of three FIDE Grand Prix takes place in Berlin 4th to 17th February. Players will compete in two out of the three legs and the best two combined results will qualify for the Candidates. There are four pools of four players. The winners of each pool meet in a final KO phase to decide the winner. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/fide-grand-prix-leg-1-berlin-2022",
@@ -1474,14 +1498,6 @@ news_feed (
          "title" : "Tata Steel Chess R11: Carlsen Misses Win, Dubov Tests Positive"
       },
       {
-         "description" : "In Part Two of chess24's interview with Vladimir Kramnik, the 14th World Champion speaks about what went wrong for Ian Nepomniachtchi in Dubai, his own opinion about the Dubov controversy and his plans for a new Chessable course.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/kramnik-on-what-went-wrong-for-nepomniachtchi",
-         "pubDate" : "Thu, 27 Jan 2022 19:50:43 +0000",
-         "title" : "Kramnik on what went wrong for Nepomniachtchi"
-      },
-      {
          "description" : "Last week a chess festival took place in Mari&aacute;nsk&eacute; L&aacute;zne (known as Marienbad in German), Czech Republic, as part of the Czech Chess Tour, with two GM tournaments, three IM tournaments and a number of open events. Among the stars of the festival were the winter landscape and the astounding architecture. | Photos: Arne Bracker / Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1496,14 +1512,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1547",
          "pubDate" : "Thu, 27 Jan 2022 15:06:22 +0000",
          "title" : "FIDE holds round table on \"Chess in Prisons\" project"
-      },
-      {
-         "description" : "Please find attached herewith list of participants for Fifty Batch (1E) of National Organizer Seminar scheduled to start from 04-06 Feb 2022, Guidelines: 1.All the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/chess-for-everyone-national-organizer-batch-1-e-04-06feb-2022/",
-         "pubDate" : "Thu, 27 Jan 2022 12:10:16 +0000",
-         "title" : "Chess for Everyone ,National Organizer - Batch 1 E (04-06Feb ,2022)"
       },
       {
          "description" : "After two tough rounds in which they were heavily defeated, the men's team fought back with a vengeance in round three of the #GibChess Battle of the Sexes Tournament and won by the impressive margin of 7-3 in this men versus women classical chess event, played at Gibraltar's Garrison Library on Wednesday 26 January. The match score is thus now 16-14 in favour of the women but with the men close behind with a long way to go. | Report and photos by John Saunders",
@@ -2152,22 +2160,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/18/ep-262-im-kostya-kavutskiy-returns",
          "pubDate" : "Tue, 18 Jan 2022 14:07:38 +0000",
          "title" : "EP 262- IM Kostya Kavutskiy returns "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1529",
-         "pubDate" : "Tue, 18 Jan 2022 11:53:10 +0000",
-         "title" : "Call for submissions: FIDE Veterans Support Program 2022"
-      },
-      {
-         "description" : " &#8220;A dream becomes a goal when action is taken toward its achievement&#8221; Bo Bennett (businessman) A quick note: the previous week's puzzles was created by Kubbel in 1921. Some of you may say &#8220;Why are you looking at this one? It is a beginners' opening&#8220;. Here you are not wrong. Many beginners play it because <a href=\"https://chessimprover.com/need-sure-points-four-knights-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Four Knights Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-four-knights-edition/\">Need sure points? Four Knights Edition</a> appeared first on <a rel=\"nofollo",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-four-knights-edition/",
-         "pubDate" : "Tue, 18 Jan 2022 10:35:49 +0000",
-         "title" : "Need sure points? Four Knights Edition"
       }
    ]
 }
