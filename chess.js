@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Yury Averbakh is the world's oldest living Grandmaster. In his prime, he was one of the strongest players in the USSR and the world, and in 1953 he took part in the legendary Candidates Tournament in Zurich. After his active career Averbakch worked as author, editor, theoretician, second and official. Today, 8 February, he turns 100! Congratulations! | Photo: Averbakh at the match USA vs. USSR, New York City, 1954 (via D. Griffith)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/congratulations-yury-averbakh-turns-100",
+         "pubDate" : "Tue, 08 Feb 2022 19:00:00 +0100",
+         "title" : "Congratulations! Yury Averbakh turns 100!"
+      },
+      {
          "description" : " &#8220;The beauty of a move lies not in its appearance but in the thought behind it&#8221; A. Nimzovich Playing a blunder is devastating. It is also expected in games played by regular players. In the rare occasion it happens to the best, they are received with mixed feelings. On one hand they provide a high <a href=\"https://chessimprover.com/blunder-in-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Blunder in 1\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/blunder-in-1/\">Blunder in 1</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -74,14 +82,6 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting CL No1/2022"
       },
       {
-         "description" : "Passed pawns are particularly powerful in queen endgames because the mobility of the queen helps to support the advance of the pawns. However, king safety is also an issue. In the diagrammed position Black's a-pawn is far advanced, but Black's king has to find a way to hide from the enemy checks. How can Black protect her king, queen the pawn and win the game?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/safety-first",
-         "pubDate" : "Tue, 08 Feb 2022 09:00:00 +0100",
-         "title" : "Safety first"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A fully revised and extended <strong><a href=\"https://handbook.fide.com/chapter/EthicsAndDisciplinaryCode2022\">Ethics and Disciplinary Code</a></strong> was approved by the <strong>FIDE General Assembly</strong> and will come into action on 1 April 2022. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -152,6 +152,14 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/abram-khasin-1923-2022/",
          "pubDate" : "Mon, 07 Feb 2022 23:16:14 +0100",
          "title" : "Abram Khasin (1923-2022)"
+      },
+      {
+         "description" : "Passed pawns are particularly powerful in queen endgames because the mobility of the queen helps to support the advance of the pawns. However, king safety is also an issue. In the diagrammed position Black's a-pawn is far advanced, but Black's king has to find a way to hide from the enemy checks. How can Black protect her king, queen the pawn and win the game?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/safety-first",
+         "pubDate" : "Mon, 07 Feb 2022 23:00:00 +0100",
+         "title" : "Safety first"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> More than fifty female players, mostly Russians, some of them teenagers, received anonymous letters with pornographic pictures and used condoms during the last ten years, culminating during the Grand Swiss in Riga a few months ago according to a <a href=\"https://meduza.io/feature/2022/02/07/eto-pohozhe-na-krik-dushi-no-ya-ne-znayu-o-chem-on-krichit\">report by the Russian investigative website</a> <strong>Meduza</strong>. that identifies a chess teacher who bought himself an IM title in Ukraine as the sender and links him to sexist statements in Russian chess forums. </div> ",
@@ -1882,14 +1890,6 @@ news_feed (
          "title" : "Titled Tuesday Doubles Tournaments, Triples Prizes"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 63rd instalment of his ChessBase show \"Understanding before Moving\", Herman looks at \"light-squared beasts\". | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-63",
-         "pubDate" : "Sun, 23 Jan 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 63: The light-squared beast"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89075706.cms\" />Indian Grandmaster MR Lalith Babu emerged victorious in the Marienbad Open 2022 chess tournament here.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2152,22 +2152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1531",
          "pubDate" : "Tue, 18 Jan 2022 22:46:51 +0000",
          "title" : "Tata Steel Masters: Mamedyarov and Praggnanandha win"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1530",
-         "pubDate" : "Tue, 18 Jan 2022 19:12:56 +0000",
-         "title" : "Training on new developments in the chess regulations held online"
-      },
-      {
-         "description" : " Vidit Gujrathi leads the Tata Steel Masters going into the first rest day with a scored of three points from four rounds. Today Vidit drew against Andrey Esipenko but this wasn't his best day and he was no doubt happy to draw on move 32. There were two decisive games; Shakhriyar Mamedyarov turned round a lost position to beat Jan-Krzysztof Duda when the latter needed more time than he had to play a tricky endgame on the run up to move 40. R Praggnanandhaa had a fairly smooth positional win against Nils Grandelius in an Exchange Gruenfeld. Magnus Carlsen drew a messy game against Jorden Van Foreest where the latter's decision to go for complications paid off even if the computers said he was",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/vidit-leads-the-tata-steel-masters-on-three-points-after-four-rounds",
-         "pubDate" : "Tue, 18 Jan 2022 22:31:00 +0400",
-         "title" : "Vidit leads the Tata Steel Masters on three points after four rounds - 4"
       }
    ]
 }
