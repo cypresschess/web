@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1564",
+         "pubDate" : "Tue, 08 Feb 2022 08:13:54 +0000",
+         "title" : "The oldest living Grandmaster Yuri Averbakh turns 100"
+      },
+      {
+         "description" : "The 1st ECU Quarter Board Meeting took place in Thessaloniki, Greece on the 4th and 5th of February 2022. The main session took place in Thessaloniki City Council Hall on 4th of February. The Board was welcomed by the Deputy Mayor Mr. Nikolaos Zeimpekis and the President of the Greek Chess Federation Mr. Stathis Efstathopoulos. Main information and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no1-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no1-2022/",
+         "pubDate" : "Tue, 08 Feb 2022 08:08:38 +0000",
+         "title" : "Communique of the ECU Board Meeting CL No1/2022"
+      },
+      {
+         "description" : "Passed pawns are particularly powerful in queen endgames because the mobility of the queen helps to support the advance of the pawn. However, king safety is also an issue. In the diagrammed position Black's a-pawn is far advanced, but Black's king has to find a way to hide from the enemy checks. How can Black protect her king, queen the pawn and win the game?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/safety-first",
+         "pubDate" : "Tue, 08 Feb 2022 09:00:00 +0100",
+         "title" : "Safety first"
+      },
+      {
+         "description" : "GM Yuri Averbakh, the oldest living grandmaster in the world, turns 100 today. After recovering from Covid last summer, he seems to be back in shape again and says he still analyzes endgames to keep his mind sharp. Born February 8, 1922, in Kalu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yuri-averbakh-100-years",
+         "pubDate" : "Mon, 07 Feb 2022 22:29:00 -0800",
+         "title" : "Yuri Averbakh (100): 'I Can Even Say That I'm Doing Well'"
+      },
+      {
+         "description" : "Yuri Lvovich Averbakh was born 100 years ago today. As a boy, he saw Emanuel Lasker play, and he went on to witness almost the entire rise and fall of the Soviet School of Chess, winning the USSR Championship in 1954 and tying for first place with Mark Taimanov and Boris Spassky two years later. For the occasion, FM Yosha Iglesias looks back on the remarkable life of the oldest ever Grandmaster.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/yuri-averbakh-celebrates-100th-birthday",
+         "pubDate" : "Tue, 08 Feb 2022 06:25:49 +0000",
+         "title" : "Yuri Averbakh celebrates 100th birthday"
+      },
+      {
+         "description" : " Share! &#8220;I've never heard of him.&#8221; This is a statement I've heard many times when referring to FM Morris Giles. In covering Black players, there are those who invoke vivid memories. Of course, we have heard of Maurice Ashley and Emory Tate, for good reason. Perhaps many have heard of FMs William Morrison and Ronald [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/08/black-history-month-2022-day-8-fm-morris-giles/\">Black History Month 2022-Day 8: FM Morris Giles</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/08/black-history-month-2022-day-8-fm-morris-giles/",
+         "pubDate" : "Tue, 08 Feb 2022 06:11:10 +0000",
+         "title" : "Black History Month 2022-Day 8: FM Morris Giles"
+      },
+      {
          "description" : "GM Levon Aronian consolidated his position while GM Wesley So defeated GM Leinier Dominguez in a crucial game, as both opened a full point lead on 3/4 in Group C and Group D respectively at the end of the fourth round of the 2022 FIDE Grand Prix a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -154,7 +202,7 @@ news_feed (
          "title" : "FIDE World Championship Match 2023 - Call for bids"
       },
       {
-         "description" : " Share!88 Scholastic chess has grown by leaps and bounds over the past few decades. With Supernationals drawing over 5500+ players from across the country, times have never been better to start playing chess. When Supernationals VI set a record for 5577 players, it demonstrated how far scholastic chess has grown. There have been many stories [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/07/black-history-month-2022-day-7-phillys-roberts-vaux-jr-high/\">Black History Month 2022-Day 7: Philly's Roberts Vaux Jr. High</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Scholastic chess has grown by leaps and bounds over the past few decades. With Supernationals drawing over 5500+ players from across the country, times have never been better to start playing chess. When Supernationals VI set a record for 5577 players, it demonstrated how far scholastic chess has grown. There have been many stories of [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/07/black-history-month-2022-day-7-phillys-roberts-vaux-jr-high/\">Black History Month 2022-Day 7: Philly's Roberts Vaux Jr. High</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/07/black-history-month-2022-day-7-phillys-roberts-vaux-jr-high/",
@@ -1482,14 +1530,6 @@ news_feed (
          "title" : "Game of the Week #500:"
       },
       {
-         "description" : "The most anticipated game of Round 10, Karjakin-Carlsen, ended in a 20-minute Berlin draw, leaving Magnus Carlsen as sole leader of the Tata Steel Masters going into the final weekend. There were bruising battles elsewhere, however, with countless twists and turns as we saw wins for Richard Rapport (over Fabiano Caruana), Praggnanandhaa (Vidit), Andrey Esipenko (Jorden van Foreest) and Nils Grandelius (Daniil Dubov). Arjun Erigaisi edged closer to next year's Masters with a draw against Polina Shuvalova as Magnus commented, \"he really plays chess in a way that I enjoy\".",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-10-four-street-fights-and-a-quick-draw",
-         "pubDate" : "Thu, 27 Jan 2022 02:20:00 +0000",
-         "title" : "Tata Steel 10: Four street-fights and a quick draw"
-      },
-      {
          "description" : "Round 10 of the Tata Steel Masters tournament saw the two main contenders for first place, Magnus Carlsen and Anish Giri, drawing their games, thus keeping the status quo atop the standings table. There was no lack of excitement on the remaining boards, though, as Richard Rapport, Andrey Esipenko, Nils Grandelius and Praggnanandhaa (pictured) all managed to score full points. | Photo: Jurriaan Hoefsmit",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1898,14 +1938,6 @@ news_feed (
          "title" : "A hundred years of exactitude: Jos&eacute; Ra&uacute;l Capablanca"
       },
       {
-         "description" : "In the diagrammed position Black just played 25...Bd1?? to attack the pawn on e2. However, this backfired with a vengeance. How did White react?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pawn-chain-saw",
-         "pubDate" : "Sat, 22 Jan 2022 09:00:00 +0100",
-         "title" : "Pawn chain saw"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89054013.cms\" />Indian Grandmasters Vidit Santhosh Gujrathi and R Praggnanandhaa drew their games in round six of the prestigious Tata Steel Masters chess tournament here.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2098,14 +2130,6 @@ news_feed (
          "title" : "Tata Steel Masters: Mamedyarov and Praggnanandha win"
       },
       {
-         "description" : "Chess.com is partnering with Envy to support the Botez Sisters on their new adventures as they move into the Los Angeles Envy Content House. The sisters will share their roof with other star creators&#38;mdash;former PogChamps participants JustaMinx a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-sponsors-botez-envy-content-house",
-         "pubDate" : "Tue, 18 Jan 2022 13:00:00 -0800",
-         "title" : "Chess.com Partners With Envy To Support Botez Sisters At New Envy Content House"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2144,22 +2168,6 @@ news_feed (
          "link" : "https://chessimprover.com/need-sure-points-four-knights-edition/",
          "pubDate" : "Tue, 18 Jan 2022 10:35:49 +0000",
          "title" : "Need sure points? Four Knights Edition"
-      },
-      {
-         "description" : " FIDE have just contacted member federations with the dates for the 2022 Olympiad (and Disabled Olympiad). The Olympiad is scheduled to run from the 25th July to the 8th August in Moscow. The Disabled Olympiad is scheduled to start on the 19th July and finish on the 26th July in Khanty-Mansiysk (Russia). This is just an initial announcement, and further details will no doubt follow in time. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/2022-olympiad-dates-announced.html",
-         "pubDate" : "Tue, 18 Jan 2022 08:03:00 +0000",
-         "title" : "2022 Olympiad Dates announced"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88965576.cms\" />Indian Grandmaster Vidit Santhosh Gujrathi prevailed over Russia's Daniil Dubov in the third round to become the sole leader with 2.5 points in the prestigious Tata Steel Masters chess tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-masters-vidit-gujrathi-shoots-into-lead/articleshow/88965576.cms",
-         "pubDate" : "Tue, 18 Jan 2022 10:17:20 +0530",
-         "title" : "Tata Steel Chess Masters: Vidit Gujrathi shoots into lead"
       }
    ]
 }
