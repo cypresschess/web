@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The participants in the Berlin Grand Prix have a maximum of exactly fifteen minutes to play their first move on the board after the arbiter starts the round. However, elite players are generally already seated or at least in the building five or ten minutes earlier. So, at the start of today's round four, when GM Pentala Harikrishna played 1.e4 and his opponent GM Alexei Shirov was clearly absent, you could sense the nervousness around the room. The organizers quickly contacted him at the official hotel and, luckily for Shirov, he was in his room. Visibly nervous at the prospect of \"losing on time\", he ran to the playing venue, arriving a few seconds before being forfeited. In his postgame ",
+         "description" : "GM Levon Aronian consolidated his position while GM Wesley So defeated GM Leinier Dominguez in a crucial game, as both opened a full point lead on 3/4 in Group C and Group D respectively at the end of the fourth round of the 2022 FIDE Grand Prix a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r4",
+         "pubDate" : "Mon, 07 Feb 2022 16:50:00 -0800",
+         "title" : "2022 FIDE Grand Prix Berlin R4: Aronian, So Emerge Front-runners"
+      },
+      {
+         "description" : " <p class=\"lead\">The participants in the Berlin Grand Prix have a maximum of exactly fifteen minutes to play their first move on the board after the arbiter starts the round. However, elite players are generally already seated or at least in the building five or ten minutes earlier. So, at the start of today's round four, when GM Pentala Harikrishna played 1.e4 and his opponent GM Alexei Shirov was clearly absent, you could sense the nervousness around the room. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-02-08_00-32-41.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://w",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/aronian-and-so-make-their-claim/",
@@ -2152,14 +2160,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-masters-vidit-gujrathi-shoots-into-lead/articleshow/88965576.cms",
          "pubDate" : "Tue, 18 Jan 2022 10:17:20 +0530",
          "title" : "Tata Steel Chess Masters: Vidit Gujrathi shoots into lead"
-      },
-      {
-         "description" : "GM Vidit Gujrathi maintained his sole lead at the Tata Steel Chess Tournament going into the first rest day by drawing his game with GM Andrey Esipenko. GM Magnus Carlsen missed a chance to catch the leader after not going for a winning king walk ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-4",
-         "pubDate" : "Mon, 17 Jan 2022 16:52:00 -0800",
-         "title" : "Tata Steel Chess 2022 R4: Mamedyarov, Praggnanandhaa Score"
       }
    ]
 }
