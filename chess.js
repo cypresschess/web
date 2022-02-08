@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The participants in the Berlin Grand Prix have a maximum of exactly fifteen minutes to play their first move on the board after the arbiter starts the round. However, elite players are generally already seated or at least in the building five or ten minutes earlier. So, at the start of today's round four, when GM Pentala Harikrishna played 1.e4 and his opponent GM Alexei Shirov was clearly absent, you could sense the nervousness around the room. The organizers quickly contacted him at the official hotel and, luckily for Shirov, he was in his room. Visibly nervous at the prospect of \"losing on time\", he ran to the playing venue, arriving a few seconds before being forfeited. In his postgame ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/aronian-and-so-make-their-claim/",
+         "pubDate" : "Mon, 07 Feb 2022 23:35:03 +0000",
+         "title" : "Aronian and So make their claim"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1563",
+         "pubDate" : "Mon, 07 Feb 2022 23:06:29 +0000",
+         "title" : "FIDE Grand Prix: Aronian and So make their claim "
+      },
+      {
+         "description" : "Round 4 of the FIDE Grand Prix in Berlin saw three games ending decisively, each of them in a different group. Going into the rest day, three of the four pools have sole leaders - Hikaru Nakamura, Levon Aronian and Welsey So - while in pool B Radoslaw Wojtaszek and Vladimir Fedoseev (pictured) are sharing first place after the latter obtained a convincing victory over Grigoriy Oparin. | Photos. World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r4",
+         "pubDate" : "Mon, 07 Feb 2022 23:20:00 +0100",
+         "title" : "Berlin GP: So and Fedoseev score crucial wins"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The world's oldest IM and correspondence-GM <strong>Abram Khasin</strong>, coach of Razuvaev, Gulko and Bareev, <a href=\"https://ruchess.ru/en/persons_of_day/abram_khasin/\">passed away</a> in Essen, Germany, where he lived since twenty years, days before his 99th birthday. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/abram-khasin-1923-2022/",
+         "pubDate" : "Mon, 07 Feb 2022 23:16:14 +0100",
+         "title" : "Abram Khasin (1923-2022)"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> More than fifty female players, mostly Russians, some of them teenagers, received anonymous letters with pornographic pictures and used condoms during the last ten years, culminating during the Grand Swiss in Riga a few months ago according to a <a href=\"https://meduza.io/feature/2022/02/07/eto-pohozhe-na-krik-dushi-no-ya-ne-znayu-o-chem-on-krichit\">report by the Russian investigative website</a> <strong>Meduza</strong>. that identifies a chess teacher who bought himself an IM title in Ukraine as the sender and links him to sexist statements in Russian chess forums. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/more-than-fifty-players-harassed-by/",
+         "pubDate" : "Mon, 07 Feb 2022 22:16:55 +0100",
+         "title" : "More than fifty players harassed by pornographic letters"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Bidders for the <strong>World Championship 2023</strong> are <a href=\"https://www.fide.com/news/1562\">expected to cover</a> a € 2 million prizefund and all organisational expenses without knowing the players since the deadline is 7 June. <strong>FIDE</strong> is also <a href=\"https://www.fide.com/news/1541\">looking for organisers</a> for the overdue <strong>Women Candidates Tournament</strong> and <strong>Women's Grand Prix</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/fide-invites-bids/",
+         "pubDate" : "Mon, 07 Feb 2022 21:03:55 +0100",
+         "title" : "FIDE invites bids"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <a href=\"https://worldchesshof.org/exhibit/mind-art-experience\">new exhibition</a> <strong>Mind, Art, Experience</strong> at the <strong>World Chess Hall of Fame</strong> in Saint Louis brings together more than 120 of the finest exhibits from the last ten years. It will remain on show until the end of July with several top events, including the <strong>Sinquefield Cup</strong> in May, happening at the <strong>Saint Louis Chess Club</strong> during its duration. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/best-of-exhibition-in-st-louis/",
+         "pubDate" : "Mon, 07 Feb 2022 20:53:01 +0100",
+         "title" : "Best of-exhibition in St. Louis"
+      },
+      {
          "description" : " <p class=\"lead\">Round 4 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with 3 decisive games and some very crucial draws. Nakamura, Aronian, and So are the sole leaders in their groups, while Wojtaszek shares the top with Fedoseev. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-2.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220207145513_IMG_0956.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220207145613_IMG_0959.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <im",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -40,14 +96,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-grand-prix-day-4-broadcast/",
          "pubDate" : "Mon, 07 Feb 2022 14:00:42 +0000",
          "title" : "FIDE Grand Prix Day 4 Broadcast"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
-         "pubDate" : "Mon, 07 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Games and results"
       },
       {
          "description" : " It has been a while since I have featured Lev Aronian on these pages, but the following game from the current FIDE Grand Prix caught my eye. It wasn't so much the effortless way he gained a winning advantage against Vincent Keymer, but how early in the game he did so. I would say he was clearly winning by move 18, but more so, was completely winning at move 24. I suspect Aronian new he was winning, and Keymer probably knew he was completely lost. Probably the only strong players who may have underestimated Aronian's advantage would have been various chess engines, who gave Aronian a pawn advantage at best. To a human, control of the 7th rank supported by the bishop on d6 was an 'eternal' ad",
@@ -160,14 +208,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/chessbomb-offline/",
          "pubDate" : "Sun, 06 Feb 2022 20:25:09 +0100",
          "title" : "Chessbomb offline"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has launched <a href=\"https://worldchampionshipcycle.fide.com/\">a website</a> to display the world championship cycles of men and women. While all participants of the women candidates tournament are known, the venue is not. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/the-cycle-explained/",
-         "pubDate" : "Sun, 06 Feb 2022 20:11:09 +0100",
-         "title" : "The cycle explained"
       },
       {
          "description" : "A talk with his son Lawrence got Jon Speelman thinking about how many Monty Python sketches he could link to specific chess themes. He thus came up with 'dirty forks', 'dead parrots', 'four Yorkshiremen' and 'the Ministry of silly walks'. Enjoy!",
@@ -522,14 +562,6 @@ news_feed (
          "title" : "New Product: Pocket Chess Set You'll Actually Want to Own"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A <a href=\"https://www.gibchess.com/\">match</a> between ten female professionals and ten male players that matched by rating and age ended 53:47 for the men's side. The <strong>Battle of the Sexes</strong> filled in for a year without a big Gibraltar open after its old venue, the Caleta Hotel, has been closed for good. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/women-lose-a-battle/",
-         "pubDate" : "Thu, 03 Feb 2022 22:22:19 +0100",
-         "title" : "Women lose a battle"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -584,14 +616,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-preview",
          "pubDate" : "Thu, 03 Feb 2022 17:00:00 +0100",
          "title" : "Fighting for the last two spots in the Candidates"
-      },
-      {
-         "description" : " <p class=\"lead\">The FIDE Grand Prix 2022 starts tomorrow, on February the 4th, with its first leg in Berlin. Sixteen GMs will participate and claim their position in the 2022 Candidates Tournaments, in June in Madrid. The winner of that tournament will challenge the World Champion Magnus Carlsen in next year's title match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/bus.jpg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> There are 16 GMs playing in each leg, but some of them couldn't make it. GM Ding Liren failed to obtain his travel VISA in time, making it impossible to be in Germany for the Grand Prix and was replaced by GM Radoslaw Wojtaszek. \"FIDE and World",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-final-pools-of-the-fide-world-chess-grand-prix-2022/",
-         "pubDate" : "Thu, 03 Feb 2022 13:21:41 +0000",
-         "title" : "The final pools of the FIDE World Chess Grand Prix 2022"
       },
       {
          "description" : " St. Louis is known as a center of chess activity today with its Chess Center and Scholastic Center and as the host of the World Chess Hall of Fame. It is also a magnet for attracting international chess talent to several universities in the area. However, St. Louis had a history long before it became [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/03/black-history-month-2022-day-3-leroy-muhammad/\">Black History Month 2022-Day 3: Leroy Muhammad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -688,14 +712,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-501-caruana-vs-carlsen-wijk-aan-zee-2022",
          "pubDate" : "Wed, 02 Feb 2022 18:30:00 +0100",
          "title" : "Game of the Week #501: Caruana vs Carlsen, Wijk aan Zee 2022"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The top favourite of the <strong>Grand Prix</strong> <strong>Ding Liren</strong> didn't get his visa application complete in time to reach Berlin before the first round on Friday. If <strong>FIDE</strong> doesn't switch him into the remaining two Grandprix tournaments or if another player concedes his place in the Candidates, the world number three will loose out again on a big chance to become challenger. <strong>Radek Wojtaszek</strong> replaces Ding in Berlin, whereas <strong>Dmitri Andreikin</strong> who tested positive for Covid-19, passes on his place to fellow Russian <strong>Andrej Esipenko</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/ding-liren-cant-travel-to-berlin/",
-         "pubDate" : "Wed, 02 Feb 2022 17:46:52 +0100",
-         "title" : "Ding Liren can't travel to Berlin"
       },
       {
          "description" : "There are a couple of different pawn weaknesses in chess. Often, spotting those weaknesses is the most common technique, used by professional chess players, to gain an advantage. Svitlana helps us to identify the fragile pawns, and making the correct, smart moves, once we understand the situation on the board.",
@@ -816,14 +832,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1554",
          "pubDate" : "Tue, 01 Feb 2022 16:55:47 +0000",
          "title" : "FIDE Grand Prix 2022: Ding and Andreikin replaced by Esipenko and Wojtaszek"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>St Louis Chess Club</strong> and <strong>US Chess Women</strong> <a href=\"https://new.uschess.org/news/us-chess-women-and-saint-louis-chess-club-announce-2022-grant-cycle\">announced a third cycle of grants</a> for projects dedicated to girls and women with special emphasis on education after a <a href=\"https://new.uschess.org/news/us-chess-womens-program-grant-recipients-announced\">first call in 2019</a> and a second one for <a href=\"https://new.uschess.org/news/us-chess-women-awards-ten-online-grants-programs-across-country\">online projects in 2020</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/new-grants-for-women-and-girls/",
-         "pubDate" : "Tue, 01 Feb 2022 17:46:40 +0100",
-         "title" : "New grants for women and girls projects"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89281347.cms\" />India's R Praggnanandhaa will be featuring at the Airthings Masters online super-tournament which will kick off this year's Meltwater Champions Chess Tour that has a glittering line-up featuring Magnus Carlsen and the new male and female World Rapid champions.",
@@ -2152,30 +2160,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-4",
          "pubDate" : "Mon, 17 Jan 2022 16:52:00 -0800",
          "title" : "Tata Steel Chess 2022 R4: Mamedyarov, Praggnanandhaa Score"
-      },
-      {
-         "description" : " Here is the publishers blurb from the rear cover : &#8220;What exactly makes the greatest players of all time, such as Magnus Carlsen, Bobby Fischer, and Garry Kasparov stand out from the rest? The basic aspects of chess (calculation, study of opening theory, and technical endgame ability) are of course of great importance. However, the <a href=\"http://britishchessnews.com/2022/01/18/mastering-chess-logic/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Mastering Chess Logic</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/01/18/mastering-chess-logic/\">Mastering Chess Logic</a> appeared first on <a rel=\"n",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/01/18/mastering-chess-logic/",
-         "pubDate" : "Tue, 18 Jan 2022 00:10:45 +0000",
-         "title" : "Mastering Chess Logic"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1528",
-         "pubDate" : "Mon, 17 Jan 2022 22:28:41 +0000",
-         "title" : "Tata Steel Masters: Vidit shoots ahead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1527",
-         "pubDate" : "Mon, 17 Jan 2022 20:47:56 +0000",
-         "title" : "New set of FIDE regulations comes into force"
       }
    ]
 }
