@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1565",
+         "pubDate" : "Wed, 09 Feb 2022 07:31:07 +0000",
+         "title" : "Media warm-up for the FIDE Grand Prix held in Belgrade"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess class on a topic of his choice. 2022.02.08<br /> Richard Rapport vs Vladimir Fedoseev, FIDE Grand Prix Berlin (2022): E32 Nimzo-Indian, classical variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2243760\">https://www.chessgames.com/perl/chessgame?gid=2243760</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rapport-vs-fedoseev-king-power-berlin-grandmasters-choice-gm-josh-friedel\"><img src=\"https://sai",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rapport-vs-fedoseev-king-power-berlin-grandmasters-choice-gm-josh-friedel",
+         "pubDate" : "Wed, 09 Feb 2022 05:26:21 +0000",
+         "title" : "Rapport vs. Fedoseev: King Power in Berlin | Grandmaster's Choice - GM Josh Friedel"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess class on a topic of his choice. 2022.02.08<br /> Richard Rapport vs Vladimir Fedoseev, FIDE Grand Prix Berlin (2022): E32 Nimzo-Indian, classical variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2243760\">https://www.chessgames.com/perl/chessgame?gid=2243760</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rapport-vs-fedoseev-king-power-berlin-grandmasters-choice-gm-josh-friedel-lichessorg\"><img src=\"",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1170,14 +1186,6 @@ news_feed (
          "title" : "Tata Steel R13: Wins for Pragg, Karjakin and Van Foreest"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk accepts an unusual challenge on lichess.org. With the entire board covered in knights, can Nyzhnyk even win, or is the game doomed to draw? 2022.01.21<br /> <a href=\"https://lichess.org/dSy7gHIy/\">https://lichess.org/dSy7gHIy/</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-nyzhnyks-knightmare-game\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/S",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-nyzhnyks-knightmare-game",
-         "pubDate" : "Mon, 31 Jan 2022 02:19:07 +0000",
-         "title" : "GM Nyzhnyk's KNIGHTMARE game"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1898,6 +1906,14 @@ news_feed (
          "title" : "Titled Tuesday Doubles Tournaments, Triples Prizes"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89075706.cms\" />Indian Grandmaster MR Lalith Babu emerged victorious in the Marienbad Open 2022 chess tournament here.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-lalith-babu-wins-tournament-in-czech-republic/articleshow/89075706.cms",
+         "pubDate" : "Sun, 23 Jan 2022 17:22:50 +0530",
+         "title" : "Indian GM Lalith Babu wins tournament in Czech Republic"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89071060.cms\" />Indian Grandmaster Vidit Santhosh Gujrathi lost his seventh-round game to Jorden Van Foreest while world No. 1 Magnus Carslen got the better of R Praggnanandhaa to go into the lead position in the prestigious Tata Steel Masters chess tournament",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2136,14 +2152,6 @@ news_feed (
          "link" : "https://chessimprover.com/more-themed-training-tournaments/",
          "pubDate" : "Wed, 19 Jan 2022 10:30:23 +0000",
          "title" : "More Themed Training Tournaments"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/88987669.cms\" />Indian Grandmaster Vidit Santhosh Gujrathi settled for a draw against Russia's Andrey Esipenko in the fourth round to stay in the lead with three points in the prestigious Tata Steel Masters chess tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-vidit-gujrathi-keeps-lead-in-tata-steel-masters-r-praggnanandhaa-posts-first-win/articleshow/88987669.cms",
-         "pubDate" : "Wed, 19 Jan 2022 10:13:12 +0530",
-         "title" : "Vidit Gujrathi stays in lead in Tata Steel Masters"
       }
    ]
 }
