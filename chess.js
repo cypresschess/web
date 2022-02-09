@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #502 Merijn van Delft takes a look at the FIDE Grand Prix in Berlin, and shows how Levon Aronian defeated Vidit Gujrathi in the very first round of the tournament in a fine game that might prove crucial at the end. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-502-aronian-vs-vidit-berlin-grand-prix-2022",
+         "pubDate" : "Wed, 09 Feb 2022 20:58:24 +0100",
+         "title" : "Game of the Week #502: Aronian vs Vidit, Berlin, Grand Prix 2022"
+      },
+      {
+         "description" : " <p class=\"lead\">Round 5 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with Aronian winning against Keymer in Group C, and moving to the semifinals with a round to spare. Nakamura and So remain the sole leaders of Groups A and D respectively, while Wojtaszek and Fedoseev being the co-leaders of Group B. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-3.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/Ulrich-Krause-(First-move).jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pi",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/aronian-moves-to-the-semifinals-with-a-round-to-spare-at-the-fid/",
+         "pubDate" : "Wed, 09 Feb 2022 19:11:49 +0000",
+         "title" : "Aronian moves to the semifinals with a round to spare at the FIDE Grand Prix Series 2022"
+      },
+      {
+         "description" : "GM Kirill Shevchenko, who also won Titled Tuesday on June 15, 2021, won the early tournament on February 8 and finished third in the late tournament. GM Ian Nepomniachtchi won the late tournament. Both players won outright, Shevchenko with 10/11...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nepomniachtchi-wins-shevchenko-nearly-sweeps-feb-8-titled-tuesday",
+         "pubDate" : "Wed, 09 Feb 2022 09:43:00 -0800",
+         "title" : "Nepomniachtchi Wins, Shevchenko Nearly Sweeps Titled Tuesday"
+      },
+      {
          "description" : " Share! IM Robert Gwaze on his way to gold!Photo by Jerry Bibuld At this year's 2022 Chess Olympiad in Moscow, Russia, we will commemorate the 20th year of Zimbabwean IM Robert Gwaze winning the gold medal for his 9/9 performance. This feat took place in the fall of 2002 in Bled, Slovenia, and sent triumphant [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/09/black-history-month-2022-day-9-robert-gwazes-gold/\">Black History Month 2022-Day 9: Robert Gwaze's Gold!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -23,7 +47,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
          "pubDate" : "Wed, 09 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
+         "title" : "FIDE Grand Prix - Games and results"
       },
       {
          "description" : "Top-level chess has taken giant steps towards professionalisation in recent years with higher prizes, global TV broadcasts and major events online. For the athletes who can spend up to eight hours at the board, their chairs are now also playing an increasingly significant role.",
@@ -792,14 +816,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1557",
          "pubDate" : "Thu, 03 Feb 2022 20:50:14 +0000",
          "title" : "2022 FIDE Grand Prix kicks off in Berlin"
-      },
-      {
-         "description" : " <p class=\"lead\"><a href=\"https://worldchess.com/series/grandprix2022\">The first leg of the 2022 FIDE Grand Prix Series</a>, organized by World Chess, will begin tomorrow in Berlin. During the next two weeks, sixteen of the world's best chess players will battle it out for the two final Candidates spots, which is scheduled for June in Madrid. The venue is the World Chess Club Berlin, located at the City Centre on Unter den Linden, 26-30 and the games will be played from February 4th-17th every afternoon at 3pm. Along with the qualification for the Candidates, the event has a 150.000 euros prize fund, 20.000 euros more than the 2019 series. The first-round clashes are expected to be fast and ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-2022-fide-grand-prix-kicks-off-in-berlin/",
-         "pubDate" : "Thu, 03 Feb 2022 20:44:11 +0000",
-         "title" : "The 2022 FIDE Grand Prix Kicks Off in Berlin"
       },
       {
          "description" : " The world champion won Tata Steel Wijk aan Zee for a record eighth time and felt 'really good' about his play Magnus Carlsen was a class apart from his rivals last week at Tata Steel Wijk aan Zee, the \"chess Wimbledon\". The No 1 capped a dominant performance with a virtuoso final game against an old rival, an unbeaten 9.5/13 total, and a record eighth victory. He has finished first at Wijk on more than half his appearances there, and the organisers have promised a gold-plated trophy if he makes it to 10 victories at the small Dutch North Sea resort. Norway's world champion, 31, said that he felt \"really good about my play. To some extent I took the obvious chances and left the more difficul",
@@ -1826,14 +1842,6 @@ news_feed (
          "title" : "FIDE welcomes ALRUD as Official Legal Consultant"
       },
       {
-         "description" : "In the Endgame Magic Show #179 Karsten M&uuml;ller and Arne K&auml;hler take a look at some of the best endgames played in 2021. Karsten's favourite is game six of the World Championship match between Magnus Carlsen and Ian Nepomniachtchi, arguably the decisive game of the match. Arne had another favourite - a fine endgame from the Sitges Open. But what is your favorite endgame of 2021? Share it in the comments! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-179-best-endgames-of-2021",
-         "pubDate" : "Mon, 24 Jan 2022 19:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #179: Best endgames of 2021"
-      },
-      {
          "description" : " Just a quick announcement that my new book Chess for Schools, will, with any luck, be published by Crown House Publishing on 22 April. I'll tell you more later, but here's the blurb. Presents a new approach to promoting chess in primary schools which, by introducing the concepts through a series of mini games, will <a href=\"https://chessimprover.com/chess-for-schools-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess for Schools (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-for-schools-1/\">Chess for Schools (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2120,22 +2128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-5",
          "pubDate" : "Wed, 19 Jan 2022 17:00:00 -0800",
          "title" : "Tata Steel Chess 2022 R5: Mamedyarov, Rapport Catch Vidit"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1532",
-         "pubDate" : "Wed, 19 Jan 2022 17:13:04 +0000",
-         "title" : "List of Open Tournaments to receive FIDE Aid Packages in 2022"
-      },
-      {
-         "description" : "GM Jeffery Xiong emerged from a nine-way tie for first place, easily the most crowded standings in recent memory, to claim Titled Tuesday victory on January 18. Tiebreaks also placed GM Illia Nyzhnyk second, GM Alexey Sarana third, and IM Le Tuan ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jeffery-xiong-wins-january-18-titled-tuesday-out-of-9-way-tie",
-         "pubDate" : "Wed, 19 Jan 2022 09:04:15 -0800",
-         "title" : "Jeffery Xiong Wins January 18 Titled Tuesday Out Of 9-Way Tie"
       }
    ]
 }
