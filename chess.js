@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " GM Yuri Averbakh has just turned 100 years old, which I'm guessing makes him the oldest GM ever. Born in 1922 his chess career start before World War II, but really flourished after the war finished. He played in the 1953 Candidates Match, and was a regular competitor up until the 1990's (an even played a few games as late as 2007). He was renowned endgame theorist writing a number of important books in this field. In the 1950' and 60's he travelled to a number of non Warsaw-Pact countries, as part of chess goodwill tours. He played in the Australian Championship in 1960, as a guest players, and scored 14/15. During that event he faced most of the leading Australian players, including forme",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/happy-100-yuri.html",
+         "pubDate" : "Tue, 08 Feb 2022 22:34:00 +0000",
+         "title" : "Happy 100 Yuri"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess class on a topic of his choice. 2022.02.08<br /> Richard Rapport vs Vladimir Fedoseev, FIDE Grand Prix Berlin (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2243760\">https://www.chessgames.com/perl/chessgame?gid=2243760</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rapport-fedoseev-king-power-grandmasters-choice-gm-josh-friedel-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/fil",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rapport-fedoseev-king-power-grandmasters-choice-gm-josh-friedel-lichessorg",
+         "pubDate" : "Tue, 08 Feb 2022 20:26:00 +0000",
+         "title" : "Rapport - Fedoseev King Power | Grandmaster's Choice - GM Josh Friedel | lichess.org"
+      },
+      {
          "description" : "Yury Averbakh is the world's oldest living Grandmaster. In his prime, he was one of the strongest players in the USSR and the world, and in 1953 he took part in the legendary Candidates Tournament in Zurich. After his active career Averbakch worked as author, editor, theoretician, second and official. Today, 8 February, he turns 100! Congratulations! | Photo: Averbakh at the match USA vs. USSR, New York City, 1954 (via D. Griffith)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1370,14 +1386,6 @@ news_feed (
          "title" : "Tata Steel R11: Van Foreest takes down Giri"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Harrison Keyser plays a slow, instructive, classical game with a typical structure that every chess player should be familiar with. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> #chess #tactics #analysis 2021.12.28<br /> Harrison Keyser vs. Polmacarroni, 2021: B38 Sicilian, accelerated fianchetto, Maroczy bind, 6.Be3<br /> <a href=\"https://lichess.org/DnUxLzVV\">https://lichess.org/DnUxLzVV</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrap",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/every-chess-player-should-know-structure",
-         "pubDate" : "Sat, 29 Jan 2022 02:17:00 +0000",
-         "title" : "Every Chess Player Should Know THIS Structure"
-      },
-      {
          "description" : "Daniil Dubov forfeited his Round 7 game against Anish Giri while waiting for a PCR test, but when that came up negative he continued the Tata Steel Masters. Not for long, however, as just before Round 11 began it was announced that he'd tested positive and his remaining games, against Richard Rapport, Praggnanandhaa and Magnus Carlsen, would be forfeit wins for his opponents. Daniil then appeared on our chess24 broadcast and talked about how he's feeling, what happened and what happens next.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2144,14 +2152,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-vidit-gujrathi-keeps-lead-in-tata-steel-masters-r-praggnanandhaa-posts-first-win/articleshow/88987669.cms",
          "pubDate" : "Wed, 19 Jan 2022 10:13:12 +0530",
          "title" : "Vidit Gujrathi stays in lead in Tata Steel Masters"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1531",
-         "pubDate" : "Tue, 18 Jan 2022 22:46:51 +0000",
-         "title" : "Tata Steel Masters: Mamedyarov and Praggnanandha win"
       }
    ]
 }
