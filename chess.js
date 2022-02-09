@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess class on a topic of his choice. 2022.02.08<br /> Richard Rapport vs Vladimir Fedoseev, FIDE Grand Prix Berlin (2022): E32 Nimzo-Indian, classical variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2243760\">https://www.chessgames.com/perl/chessgame?gid=2243760</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rapport-vs-fedoseev-king-power-berlin-grandmasters-choice-gm-josh-friedel-lichessorg\"><img src=\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rapport-vs-fedoseev-king-power-berlin-grandmasters-choice-gm-josh-friedel-lichessorg",
+         "pubDate" : "Wed, 09 Feb 2022 02:26:21 +0000",
+         "title" : "Rapport vs. Fedoseev: King Power in Berlin | Grandmaster's Choice - GM Josh Friedel | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows how he won the Saint Louis Master Lab II, a classical six-player double round robin tournament held over two weekends in February 2022 at the Chess Club. The mysterious masked Caleb placed second at the first Master Lab in October 2019. 2022.02.08<br /> Prateek Nemmali vs. Caleb Denby, 2022: B13 Caro-Kann, exchange variation<br /> Vinee Thatiparthi vs. Denby, 2022: B10 Caro-Kann, closed (Breyer) variation<br /> Denby vs Prateek Nemmali, 2022: D53 Queen&#039;s Gambit Declined, 4.Bg5 Be7, 5.e3 O-O </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-i-won-stl-master-lab-2-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 09 Feb 2022 02:26:21 +0000",
+         "title" : "How I Won STL Master Lab 2 | Road to 2000 - NM Caleb Denby"
+      },
+      {
          "description" : " GM Yuri Averbakh has just turned 100 years old, which I'm guessing makes him the oldest GM ever. Born in 1922 his chess career start before World War II, but really flourished after the war finished. He played in the 1953 Candidates Match, and was a regular competitor up until the 1990's (an even played a few games as late as 2007). He was renowned endgame theorist writing a number of important books in this field. In the 1950' and 60's he travelled to a number of non Warsaw-Pact countries, as part of chess goodwill tours. He played in the Australian Championship in 1960, as a guest players, and scored 14/15. During that event he faced most of the leading Australian players, including forme",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1234,22 +1250,6 @@ news_feed (
          "title" : "Magnus Carlsen grabs eighth title in Wijk aan Zee"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Black is supposed to lose quickly in the King&#039;s gambit, not the other way around! Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a> Played on lichess.org<br /> #chess #gambits #arcg3 2022.01.06<br /> RomanGunko vs. Harrison Keyser, 2022: D26 Queen&#039;s Gambit Accepted, 4...e6<br /> <a href=\"https://lichess.org/XLqgbW2HwM8m\">https://lichess.org/XLqgbW2HwM8m</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div cla",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/i-beat-kings-gambit-14-moves",
-         "pubDate" : "Sun, 30 Jan 2022 02:17:54 +0000",
-         "title" : "I Beat the King's Gambit in 14 Moves"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Illia Nyzhnyk ties for first in his best-performing Titled Tuesday on Chess.com. 2022.01.18 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-nyzhnyks-best-titled-tuesday-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/I-eBn7drGRc.jpg?itok=xHjOrrYg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-nyzhnyks-best-titled-tuesday-chesscom",
-         "pubDate" : "Sun, 30 Jan 2022 02:17:54 +0000",
-         "title" : "GM Nyzhnyk's BEST Titled Tuesday | Chess.com"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1896,14 +1896,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/titled-tuesday-doubles-tournaments-and-triples-prizes",
          "pubDate" : "Sun, 23 Jan 2022 08:04:00 -0800",
          "title" : "Titled Tuesday Doubles Tournaments, Triples Prizes"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89075706.cms\" />Indian Grandmaster MR Lalith Babu emerged victorious in the Marienbad Open 2022 chess tournament here.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-lalith-babu-wins-tournament-in-czech-republic/articleshow/89075706.cms",
-         "pubDate" : "Sun, 23 Jan 2022 17:22:50 +0530",
-         "title" : "Indian GM Lalith Babu wins tournament in Czech Republic"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89071060.cms\" />Indian Grandmaster Vidit Santhosh Gujrathi lost his seventh-round game to Jorden Van Foreest while world No. 1 Magnus Carslen got the better of R Praggnanandhaa to go into the lead position in the prestigious Tata Steel Masters chess tournament",
