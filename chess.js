@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Weekly Show\" Lawrence Trent takes a look at the Berlin Grand Prix, focusing on the smooth positional masterpiece Aronian-Keymer from round 3. Lawrence also talks about Yuri Averbakh, who turned 100 on 8 February 2022. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-grand-prix-berlin",
+         "pubDate" : "Wed, 09 Feb 2022 12:00:00 +0100",
+         "title" : "The Weekly Show: Grand Prix Berlin"
+      },
+      {
+         "description" : "There are plenty of openings to choose from and learn. Which one to prepare and where to begin? We are here to solve that dilemma. Austria no.1 and FIDE Trainer Markus Ragger explained the basics of the Grunfeld Defence. He even included his most recent games in this two volume ChessBase DVD. The opening course has been created with thorough research and utmost care because he himself plays it in his career. Check out the 100+ minutes long interactive session with IM Sagar Shah where Markus Ragger shows and explains a lot of lines of the popular opening and answers audience questions too. Photo: ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/austria-no-1-markus-ragger-teaches-grunfeld-defence",
+         "pubDate" : "Wed, 09 Feb 2022 11:09:18 +0100",
+         "title" : "Austria no.1 Markus Ragger teaches Grunfeld Defence"
+      },
+      {
+         "description" : "The Kasparov Chess Foundation organized the second annual KCF University Cup which was played on lichess.org and hosted on chessstream.com on the weekend of February 5 and 6, 2022. The tournament attracted students from every continent and from over thirty countries. With nearly 700 participants, the event was a resounding success. | Photo: Garry Kasparov | Photo: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/university-of-texas-at-rio-grande-valley-wins-2nd-annual-kcf-university-cup",
+         "pubDate" : "Wed, 09 Feb 2022 10:00:00 +0100",
+         "title" : "University of Texas at Rio Grande Valley wins 2nd Annual Kasparov Chess Foundation University Cup"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1810,22 +1834,6 @@ news_feed (
          "title" : "European Individual Chess Championship 2022 in Brežice"
       },
       {
-         "description" : "Can players be classified into certain types? On their new ChessBase course Karsten M&uuml;ller and Luis Engel follow a model of Danish Grandmaster Lars Bo Hansen and distinguish between four types of players and illustrate their different playing styles with typical games. This model helps to understand your own strengths and weaknesses and the strengths and weaknesses of your opponents better. Christian H&ouml;the took a look at the course.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mueller-engel-player-types-a-review",
-         "pubDate" : "Mon, 24 Jan 2022 14:00:00 +0100",
-         "title" : "M&uuml;ller/ Engel: Player types - a review"
-      },
-      {
-         "description" : "The opening ceremony of the #GibChess Battle of Sexes Chess Match-Tournament, to be held at the Garrison Library, 24 January to 3 February 2022, took place at the Garrison Library at 6pm on Sunday 23 January 2022 in the presence of the Hon. Dr John Cortes, Minister for the Environment, Sustainability, Climate Change and Education, and Dr Jennifer Ballantine, Director of the Gibraltar Garrison Library, which is hosting the event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gibraltar-battle-of-the-sexes-begins",
-         "pubDate" : "Mon, 24 Jan 2022 13:08:15 +0100",
-         "title" : "Gibraltar: Battle of the Sexes begins"
-      },
-      {
          "description" : " At the risk of sounding like a cranky old man, it is all youtubes and engine this and engine that, where chess learning is concerned (*not really). In the good old days (*not that good, really) learning from books was the go. So when I coach, I still use books, including books on the middlegame written by Max Euwe. Having shown one of my students a couple of games where a nice kingside attack was executed, I was pleased to see him put that knowledge into practice less than 24 hours later. <br /> <b>Lcheng (1787) - Connor5566 (1858) [D06]</b><br />Summer Bootcamp Lightning https://lichess.org/WpWIR21U, 24.01.2022 <script>new PgnViewer( { boardName: \"game1305\", movesFormat: \"default\", pgnStri",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1880,14 +1888,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-8",
          "pubDate" : "Sun, 23 Jan 2022 11:03:00 -0800",
          "title" : "Tata Steel Chess 2022 R8: Mamedyarov Catches Carlsen Before Clash After Rest Day"
-      },
-      {
-         "description" : "In less than two weeks, Berlin will host the first leg of the FIDE Grand Prix Series 2022, organized by World Chess. From February 3 to 17, sixteen elite chess players, including grandmaster Pentala Harikrishna - who replaces Wei Yi - will compete for the chance to win the last two spots in the Candidates Tournament to be held later this year.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-prix-leg-1-preview",
-         "pubDate" : "Sun, 23 Jan 2022 20:00:00 +0100",
-         "title" : "All set for first leg of the FIDE Grand Prix series"
       },
       {
          "description" : " Magnus Carlsen and Shakhriyar Mamedyarov lead the Tata Steel Masters after 8 of the 13 rounds. They lead by half a point from Anish Giri and Vidit Gujrathi going into the second rest day. Carlsen drew with the black pieces against Sam Shankland. Carlsen played the Von Hennig-Schara Gambit but things didn't get too crazy, after 13...Nd5 the key point is that 16.Rc1 Nxa2 is winning for black, something missed by Shankland initially. The game was balanced after that although the engines think black has a tiny something after 31...Qd5 - as played the game was quickly drawn. Shakhriyar Mamedyarov meanwhile won a sharp English against R Praggnanandhaa that left known theory very early on after hi",
@@ -2136,22 +2136,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/top-3-things-i-learned-in-2021/",
          "pubDate" : "Wed, 19 Jan 2022 15:00:00 +0000",
          "title" : "Top 3 Things I Learned In 2021"
-      },
-      {
-         "description" : "Remember what \"Sensory board chess computers\" were like, four decades ago? Bulky, heavy, with complicated installation, and very expensive to buy. Today you get elegant, flat boards, which run on rechargeable batteries. And they are immediately ready to play. The one we are looking at today even adjusts its playing strength to match yours. It is a pleasure to operate.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dgt-centaur-the-latest-sensor-board",
-         "pubDate" : "Wed, 19 Jan 2022 13:00:00 +0100",
-         "title" : "DGT Centaur - the latest sensor board"
-      },
-      {
-         "description" : " This evening (8pm UK time) there will be another Tiger Chess themed Training tournament in a Burn-Rubinstein line of the French Defence, from the position arising after 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Nbd7. The goal is to get lots of experience in a particular position type with this position being a <a href=\"https://chessimprover.com/more-themed-training-tournaments/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"More Themed Training Tournaments\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/more-themed-training-tournaments/\">More Themed Training Tournaments</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">T",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/more-themed-training-tournaments/",
-         "pubDate" : "Wed, 19 Jan 2022 10:30:23 +0000",
-         "title" : "More Themed Training Tournaments"
       }
    ]
 }
