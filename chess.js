@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! IM Robert Gwaze on his way to gold!Photo by Jerry Bibuld At this year's 2022 Chess Olympiad in Moscow, Russia, we will commemorate the 20th year of Zimbabwean IM Robert Gwaze winning the gold medal for his 9/9 performance. This feat took place in the fall of 2002 in Bled, Slovenia, and sent triumphant [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/09/black-history-month-2022-day-9-robert-gwazes-gold/\">Black History Month 2022-Day 9: Robert Gwaze's Gold!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/09/black-history-month-2022-day-9-robert-gwazes-gold/",
+         "pubDate" : "Wed, 09 Feb 2022 14:27:26 +0000",
+         "title" : "Black History Month 2022-Day 9: Robert Gwaze's Gold!"
+      },
+      {
+         "description" : " Chess Training can be tough and dull sometimes. Group Training can boost your moral &#38; connect you with like-minded people. This can be extremely beneficial. Not only for your mental sanity but also for your Chess improvement. So do I recommend working in a group? As frequently is the case, my answer is it depends [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/group-training/\">Chess Group Training</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/group-training/",
+         "pubDate" : "Wed, 09 Feb 2022 14:00:00 +0000",
+         "title" : "Chess Group Training"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
+         "pubDate" : "Wed, 09 Feb 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : "Top-level chess has taken giant steps towards professionalisation in recent years with higher prizes, global TV broadcasts and major events online. For the athletes who can spend up to eight hours at the board, their chairs are now also playing an increasingly significant role.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/game-of-thrones-why-picking-the-right-chair-is-vital-in-chess-even-for-carlsen",
+         "pubDate" : "Wed, 09 Feb 2022 12:38:11 +0000",
+         "title" : "Game of Thrones: Why picking the right chair is vital in chess - even for Carlsen"
+      },
+      {
          "description" : "In his \"Weekly Show\" Lawrence Trent takes a look at the Berlin Grand Prix, focusing on the smooth positional masterpiece Aronian-Keymer from round 3. Lawrence also talks about Yuri Averbakh, who turned 100 on 8 February 2022. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -170,7 +202,7 @@ news_feed (
          "title" : "Yuri Averbakh, The Oldest Living Grandmaster, Turns 100"
       },
       {
-         "description" : " Share! &#8220;I've never heard of him.&#8221; This is a statement I've heard many times when referring to FM Morris Giles. In covering Black players in the U.S. or &#8220;African-Americans&#8221; as we are commonly called, there are those who invoke vivid memories. Of course, we have heard of Maurice Ashley and Emory Tate, for good reason. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/08/black-history-month-2022-day-8-fm-morris-giles/\">Black History Month 2022-Day 8: FM Morris Giles</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " &#8220;I've never heard of him.&#8221; This is a statement I've heard many times when referring to FM Morris Giles. In covering Black players in the U.S. or &#8220;African-Americans&#8221; as we are commonly called, there are those who invoke vivid memories. Of course, we have heard of Maurice Ashley and Emory Tate, for good reason. Perhaps [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/08/black-history-month-2022-day-8-fm-morris-giles/\">Black History Month 2022-Day 8: FM Morris Giles</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/08/black-history-month-2022-day-8-fm-morris-giles/",
@@ -1530,14 +1562,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Rapport plays the Dutch"
       },
       {
-         "description" : "Daniil Dubov is out of the 2022 Tata Steel Chess Masters after a positive PCR test. His results to date will stand, with tournament leader Magnus Carlsen, joint 3rd placed Richard Rapport and Praggnanandhaa getting forfeit wins in his remaining games. That makes four forfeit wins, after Daniil declined to play his 7th round game against Anish Giri in a mask after a close contact tested positive. Magnus Carlsen, who plays Vidit on Friday and Fabiano Caruana on Saturday, is now even more of a favourite to win the event.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/daniil-dubov-out-of-the-tata-steel-masters",
-         "pubDate" : "Fri, 28 Jan 2022 11:31:25 +0000",
-         "title" : "Daniil Dubov out of the Tata Steel Masters"
-      },
-      {
          "description" : "In a press release the organisers of the Tata Steel tournament in Wijk aan Zee, announced that \"Daniil Dubov will leave the Tata Steel Chess Tournament after testing positive for the corona virus in a PCR test yesterday. This means that the results of his previous matches will stand and that Dubov will forfeit the games against the opponents he was to face in the last three rounds. They are Rapport, Praggnanandhaa and Carlsen respectively.\" | Photo: Press Release Wijk",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1808,14 +1832,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-179-best-endgames-of-2021",
          "pubDate" : "Mon, 24 Jan 2022 19:00:00 +0100",
          "title" : "Karsten M&uuml;ller's Endgame Magic Show #179: Best endgames of 2021"
-      },
-      {
-         "description" : "Three decisive games in round 8 of the Tata Steel Masters tournament left Magnus Carlsen and Shakhriyar Mamedyarov sharing the lead on 5&frac12; points. The Azerbaijani defeated Praggnanandhaa to catch up with the world champion. Meanwhile, in the Challengers, Arjun Erigaisi won his sixth game (in eight rounds!) to go into the second rest day of the event with a 1&frac12;-point lead. | Photo: Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r8",
-         "pubDate" : "Mon, 24 Jan 2022 17:35:00 +0100",
-         "title" : "Tata Steel R8: Arjun clear leader in the Challengers"
       },
       {
          "description" : " Just a quick announcement that my new book Chess for Schools, will, with any luck, be published by Crown House Publishing on 22 April. I'll tell you more later, but here's the blurb. Presents a new approach to promoting chess in primary schools which, by introducing the concepts through a series of mini games, will <a href=\"https://chessimprover.com/chess-for-schools-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess for Schools (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-for-schools-1/\">Chess for Schools (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2090,14 +2106,6 @@ news_feed (
          "title" : "Wins for Rapport and Mamedyarov take them into a joint lead with Vidit after Tata Steel Round 5 - 5"
       },
       {
-         "description" : " FM Ignacio Perez (1967-2022)Photo by Washington State Chess Federation The Seattle chess community is in mourning after the passing of Ignacio P&eacute;rez on January 11th, 2022. The long-time Seattle resident succumbed after a lengthy battle with throat cancer but remained active in the chess community despite his illness. He was a few weeks shy of [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/20/fm-ignacio-perez-1967-2022-passes-away/\">FM Ignacio P&eacute;rez (1967-2022) passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/01/20/fm-ignacio-perez-1967-2022-passes-away/",
-         "pubDate" : "Thu, 20 Jan 2022 15:41:46 +0000",
-         "title" : "FM Ignacio P&eacute;rez (1967-2022) passes away"
-      },
-      {
          "description" : " I might be getting soft in my old age, but I am not annoyed by players who do night resign at the appropriate time as I used to be. Possibly one the reasons for this, is that for new players, playing on until they are checkmated is a learning experience for them. On at least one occasion I have had an opponent explain why they won't resign ('so I can see how you would win from this position'), and in a few coaching sessions my comment about one side resigning has been met with a 'But why?' <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2128,14 +2136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/jeffery-xiong-wins-january-18-titled-tuesday-out-of-9-way-tie",
          "pubDate" : "Wed, 19 Jan 2022 09:04:15 -0800",
          "title" : "Jeffery Xiong Wins January 18 Titled Tuesday Out Of 9-Way Tie"
-      },
-      {
-         "description" : " Since starting this blog in March 2021, I learned a lot. Putting my thoughts into words has been a tremendous experience. I also got a lot of great feedback from my readers, which helped me to improve further. In this article, I will focus on the three biggest learnings I had in 2021: Don't overthink, [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/top-3-things-i-learned-in-2021/\">Top 3 Things I Learned In 2021</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/top-3-things-i-learned-in-2021/",
-         "pubDate" : "Wed, 19 Jan 2022 15:00:00 +0000",
-         "title" : "Top 3 Things I Learned In 2021"
       }
    ]
 }
