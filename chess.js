@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Levon Aronian won a tense tactical game with black pieces against GM Vincent Keymer to reach 4/5 and qualify with a round to spare from Group C to the semifinals of the 2022 FIDE Grand Prix first leg in Berlin. Though GM Hikaru Nakamura won a w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r5",
+         "pubDate" : "Wed, 09 Feb 2022 15:33:48 -0800",
+         "title" : "2022 FIDE Grand Prix Berlin R5: Aronian Qualifies, Tense Last Group Round Awaits"
+      },
+      {
+         "description" : " Today's round in the Berlin Grand Prix began with a bit of drama. The president of the German Chess Federation, Ullrich Krause, had been invited to execute the first \"ceremonial\" move on GM Vincent Keymer's board. However, while fifteen of the sixteen players were already firmly seated, most of them fully concentrated, Keymer's opponent - GM Levon Aronian - had yet to appear. The signs of relief on Chief Arbiter Ivan Syrovy's face when Aronian finally stepped into the playing venue at exactly 14.59 were clearly visible. The former Armenian player, now representing the USA, greeted his opponent and awaited 1.d4, in this case played by Krause, and the round was on. <div class=\"e2-text-picture",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-2022-levon-aronian-first-semifinalist/",
+         "pubDate" : "Wed, 09 Feb 2022 23:30:51 +0000",
+         "title" : "FIDE Grand Prix 2022: Levon Aronian, first semifinalist"
+      },
+      {
+         "description" : "A week after finishing in third place, IM Le Tuan Minh earned a victory in the second week of Arena Kings Season 9 on Wednesday. He defeated GM Vugar Rasulov in a close 3-2 final (+2 -1 =2). Semifinalists GM Oleksandr Bortnyk and GM Jose Martine...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arena-kings-season-9-week-2-le-tuan-minh-wins",
+         "pubDate" : "Wed, 09 Feb 2022 14:45:43 -0800",
+         "title" : "Le Tuan Minh Scores A Knockout In Arena Kings Season 9"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1566",
+         "pubDate" : "Wed, 09 Feb 2022 21:20:02 +0000",
+         "title" : "FIDE Grand Prix: Levon Aronian, first semifinalist"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #502 Merijn van Delft takes a look at the FIDE Grand Prix in Berlin, and shows how Levon Aronian defeated Vidit Gujrathi in the very first round of the tournament in a fine game that might prove crucial at the end. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -800,14 +832,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/33206270/arjun-erigaisi-chess-newest-breakout-player?device=featurephone",
          "pubDate" : "Fri, 4 Feb 2022 01:05:16 -0500",
          "title" : "Arjun Erigaisi: Chess' newest breakout player"
-      },
-      {
-         "description" : " <p class=\"lead\">Whether you're a chess veteran or just starting your chess journey, having the right chess set is a must. The elite tournament-level chess sets (including the iconic World Chess Championship set) provide plenty of excellent options for table-top play, but there is almost nothing in the travel or pocket-size chess sets category. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0611BFAD-7A1E-4919-BD6F-3BD9F133A1CE.jpeg\" width=\"1600\" height=\"900\" alt=\"\" /> <div class=\"e2-text-caption\"><a href=\"https://shop.worldchess.com/collections/chess-sets/products/world-chess-pocket-set\">Pocket Chess Set by World Chess</a></div> </div> World Chess has developed ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/new-product-pocket-chess-set-youll-actually-want-to-own/",
-         "pubDate" : "Fri, 04 Feb 2022 05:48:09 +0000",
-         "title" : "New Product: Pocket Chess Set You'll Actually Want to Own"
       },
       {
          "description" : "",
@@ -2090,14 +2114,6 @@ news_feed (
          "title" : "Tata Steel Chess: Vidit draws with Anish, stays in joint lead"
       },
       {
-         "description" : "With a fairly smooth win vs. GM Richard Rapport, World Champion Magnus Carlsen joined the leaders in round six of the&#38;nbsp;2022 Tata Steel Chess Tournament. GM Fabiano Caruana had just equalized a tough position in time-trouble vs. GM Anish Giri w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-6",
-         "pubDate" : "Thu, 20 Jan 2022 17:00:00 -0800",
-         "title" : "Tata Steel Chess 2022 R6: Carlsen Joins Leaders, Caruana Blunders Tragically"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2120,14 +2136,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/learning-from-losing.html",
          "pubDate" : "Thu, 20 Jan 2022 12:29:00 +0000",
          "title" : "Learning from losing"
-      },
-      {
-         "description" : "GMs Shakhriyar Mamedyarov and Richard Rapport both won their games in round five of the 2022 Tata Steel Chess Tournament to catch GM Vidit Gujrathi in first place.&#38;nbsp;GM Magnus Carlsen drew an exciting game with GM Nils Grandelius. How to watc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-5",
-         "pubDate" : "Wed, 19 Jan 2022 17:00:00 -0800",
-         "title" : "Tata Steel Chess 2022 R5: Mamedyarov, Rapport Catch Vidit"
       }
    ]
 }
