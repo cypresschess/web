@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
+         "pubDate" : "Thu, 10 Feb 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/A5zUxY3PRjA?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-day-6-broadcast/",
+         "pubDate" : "Thu, 10 Feb 2022 13:15:00 +0000",
+         "title" : "FIDE Grand Prix Day 6 Broadcast"
+      },
+      {
          "description" : "In the 1970s Boris Gulko was one of the best players in the USSR and the world, and he is one of the few players who has a positive score against Kasparov. In 1976, after Kortschnoi had fled the USSR, Gulko refused to sign a critical statement against Kortschnoi, and as a result Gulko was targeted by the authorities. For seven years, Gulko fought to emigrate from the Soviet Union, and in 1986 he moved to the USA, where he continued his chess career. On 9 February 2022 Gulko celebrated his 75th birthday. | Photo: Les Glassman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -800,14 +816,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/04/black-history-month-2022-day-4-baraka-shabazz/",
          "pubDate" : "Fri, 04 Feb 2022 15:54:46 +0000",
          "title" : "Black History Month 2022-Day 4: Baraka Shabazz"
-      },
-      {
-         "description" : " <p class=\"lead\">The FIDE Grand Prix Series 2022 is ongoing and Hikaru Nakamura is definitely one to watch. After more than 2 years of absence from classical chess, Nakamura got kind of bored in <a href=\"https://worldchess.com/news/all/three-decisive-games-at-the-first-day-of-the-fide-grand-prix-ser/\">Round 1</a> of the tournament. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/FIDE_20220204-42.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> On February the 3rd, just after the announcement of Ding Liren not being able to participate in the tournament, Nakamura uploaded a <a href=\"https://www.youtube.com/watc",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/is-nakamura-ready-to-give-up-his-candidates-spot-to-liren-if-he/",
-         "pubDate" : "Fri, 04 Feb 2022 15:02:00 +0000",
-         "title" : "Is Nakamura ready to give up his Candidates spot to Liren if he wins FIDE Grand Prix 2022?"
       },
       {
          "description" : "The ECF is running a second Endgame Challenge with IM Lorin D'Costa (above right) and GM Keith Arkell (above left). The challenge will follow a...",
@@ -1864,14 +1872,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/25/ep-263-ep-263-author-oliver-roeder-on-the-enduring-appeal-of-chess-and-other-games",
          "pubDate" : "Tue, 25 Jan 2022 13:51:43 +0000",
          "title" : "EP 263- Author Oliver Roeder on the Enduring Appeal of Chess and Other Games "
-      },
-      {
-         "description" : "Round one of the #GibChess Battle of the Sexes Tournament, held at the Gibraltar Garrison Library on Monday 24 January, got off to a pulsating start as the team of women's players, dubbed \"Team Pia\" after their captain, GM Pia Cramling, scored a big win over \"Team Sabino\", as the men's team is now known, with four of the ten women's players scoring wins against their male adversaries, with only one male player able to win in reply. The first player to win a game was Olga Girya (pictured) who defeated Joe Gallagher in a King's Indian. | Photos: John Saunders",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1-a-clear-win-for-team-pia",
-         "pubDate" : "Tue, 25 Jan 2022 09:26:38 +0100",
-         "title" : "Battle of the Sexes, Round 1: A clear win for team Pia"
       },
       {
          "description" : "GM Magnus Carlsen defeated co-leader GM Shakhriyar Mamedyarov on Tuesday to regain the sole lead at the 2022 Tata Steel Chess Tournament. GM Anish Giri is the only player trailing the world champion by half a point after scoring his fourth full po...",
