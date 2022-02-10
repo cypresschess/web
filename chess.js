@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ECU E-Magazine January 2022 is out! In this edition of the ECU E-Magazine you may read about: 1st quarter ECU Board Meeting 2022 &#8220;A Chess Board for All&#8221; project Hybrid match between ECU Board and Berlin Chess Association Tata Steel Chess 2022 FIDE Grand Prix 2022 Gibraltar Chess Festival 2022 Upcoming events and invitations for ECU events Arbiters&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-january-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-january-2022/",
+         "pubDate" : "Thu, 10 Feb 2022 08:43:49 +0000",
+         "title" : "ECU E-MAGAZINE JANUARY 2022"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani tests viewers with the scariest tactics test. Solve up to 64 puzzles with the rest of the class. 2022.02.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactical-scare-exam-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Wx5fGdVwhRg.jpg?itok=W_LYPGmI\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Berlin GP: Aronian qualifies with a round to spare"
       },
       {
-         "description" : "GM Levon Aronian won a tense tactical game with black pieces against GM Vincent Keymer to reach 4/5 and qualify with a round to spare from Group C to the semifinals of the 2022 FIDE Grand Prix first leg in Berlin. Though GM Hikaru Nakamura won a w...",
+         "description" : "GM Levon Aronian won a tense tactical game with the black pieces against GM Vincent Keymer to reach 4/5 and qualify with a round to spare from Group C to the semifinals of the 2022 FIDE Grand Prix first leg in Berlin. Though GM Hikaru Nakamura won...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r5",
