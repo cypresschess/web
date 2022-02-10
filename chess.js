@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share!One powerful piece of African history is often forgotten or ignored and it has a tremendous relationship to chess. It is known that the Moors brought the Persian variant &#8220;Shatranj&#8221; into Spain after the incursion of Gebal Tariq (&#8220;Gibraltar&#8221; derived from his name) in 711AD. Shatranj was derived from &#8220;Chaturanga,&#8221; a board game originating in [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/10/black-history-month-2022-day-10-the-moors-of-spain/\">Black History Month 2022-Day 10: The Moors of Spain</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess W",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/10/black-history-month-2022-day-10-the-moors-of-spain/",
+         "pubDate" : "Thu, 10 Feb 2022 18:58:34 +0000",
+         "title" : "Black History Month 2022-Day 10: The Moors of Spain"
+      },
+      {
          "description" : "This week Robert Ris shows why the almost forgotten Schara von Hennig Gambit (1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4) has become popular again and attracts players like Grischuk and Jorden van Foreest. Ris also shows a clear game-plan for Black that will help you to try this exciting gambit with success! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -15,7 +23,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
          "pubDate" : "Thu, 10 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
+         "title" : "FIDE Grand Prix - Games and results"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/A5zUxY3PRjA?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -154,7 +162,7 @@ news_feed (
          "title" : "Nepomniachtchi Wins, Shevchenko Nearly Sweeps Titled Tuesday"
       },
       {
-         "description" : " Share!46 IM Robert Gwaze on his way to gold!Photo by Jerry Bibuld At this year's 2022 Chess Olympiad in Moscow, Russia, we will commemorate the 20th year of Zimbabwean IM Robert Gwaze winning the gold medal for his 9/9 performance. This feat took place in the fall of 2002 in Bled, Slovenia, and sent triumphant [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/09/black-history-month-2022-day-9-robert-gwazes-gold/\">Black History Month 2022-Day 9: Robert Gwaze's Gold!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " IM Robert Gwaze on his way to gold!Photo by Jerry Bibuld At this year's 2022 Chess Olympiad in Moscow, Russia, we will commemorate the 20th year of Zimbabwean IM Robert Gwaze winning the gold medal for his 9/9 performance. This feat took place in the fall of 2002 in Bled, Slovenia, and sent triumphant tremors [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/09/black-history-month-2022-day-9-robert-gwazes-gold/\">Black History Month 2022-Day 9: Robert Gwaze's Gold!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/09/black-history-month-2022-day-9-robert-gwazes-gold/",
@@ -2000,14 +2008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1538",
          "pubDate" : "Sun, 23 Jan 2022 00:12:29 +0000",
          "title" : "Tata Steel Masters R07: Carlsen moves into the lead"
-      },
-      {
-         "description" : " Tunde Onakoya's mission to invigorate the Nigerian slum through chess has taken a grand leap. Three years ago, Tunde was in the news after writing of an adorable little girl named Basirat Ariyike. She became a symbol of what Onakoya was trying to achieve in his &#8220;Chess in Slums&#8221; initiative. In the chess world, stories [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/01/22/tunde-onakoyas-mission-takes-chess-to-nigerian-slums/\">Tunde Onakoya's mission takes chess to Nigerian slums</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/01/22/tunde-onakoyas-mission-takes-chess-to-nigerian-slums/",
-         "pubDate" : "Sat, 22 Jan 2022 19:38:52 +0000",
-         "title" : "Tunde Onakoya's mission takes chess to Nigerian slums"
       },
       {
          "description" : " Magnus Carlsen leads the Tata Steel Masters by half a point from Shakhriyar Mamedyarov after 7 rounds. Carlsen defeated R Praggnanandhaa in 34 moves. After the game Carlsen was pleased with the way he built up his advantage but not the way he let the position then get out of control - 22...Qe6 (22...Qc6 was better) 23.Nxc5 and 28...c4 (28...Bb7 was better) 29.Bxg7! were the two main chances Praggnanandhaa missed. Richard Rapport and Shakhriyar Mamedyarov drew a Sicilian that threatened to get exciting in 29 moves. Jorden Van Foreest inflicted Vidit Gujrathi's first defeat on him and got back to 50% in the process. A topical line of the Nimzo Indian was played with 10.Ne5!? being a practical",
