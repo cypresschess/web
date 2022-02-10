@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Tomorrow is the start of the 2022 Lifeline Bookfair. Hopefully i will be able to pick up a few new (second hand) chess books, although a little birdy has already told me that there may only be around 30 books on offer. This isn't actually a bad number, but most of them may be repeats of books I already own. Normally a trip to the bookfair is a fairly placid outing, but if anyone has been paying attention to what has been happening in Canberra over the last week, it might be a little spicier. The book fair is located next to a major campground, which has hosted a large number of anti-vaxx/sov cits/no madate protestors. As any good protest (and I have been to a few) does involve disrupting wh",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/2022-lifeline-bookfair.html",
+         "pubDate" : "Thu, 10 Feb 2022 11:57:00 +0000",
+         "title" : "2022 Lifeline Bookfair"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/LCB67FLwm_k?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/sometimes-i-really-dislike-my-opponents-after-the-games-vidit-gu/",
+         "pubDate" : "Thu, 10 Feb 2022 09:22:04 +0000",
+         "title" : "\"Sometimes I really dislike my opponents after the games\" - Vidit Gujrathi"
+      },
+      {
+         "description" : "Levon Aronian is in the Berlin FIDE Grand Prix semi-finals and now the new US no. 1 on the live rating list after winning a thriller against Vincent Keymer. Hikaru Nakamura defeated Alexander Grischuk's King's Indian Defence in style but still faces a showdown against Andrey Esipenko in the last round, after the 19-year-old beat Etienne Bacrot. Wesley So leads Group D, but Leinier Dominguez beat Harikrishna to move to within half a point, while Group B is wide open, with Radek Wojtaszek and Vladimir Fedoseev neck and neck with Richard Rapport half a point back.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-5-aronian-storms-into-semis",
+         "pubDate" : "Thu, 10 Feb 2022 09:04:20 +0000",
+         "title" : "Berlin Grand Prix 5: Aronian storms into semis"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1567",
+         "pubDate" : "Thu, 10 Feb 2022 08:59:30 +0000",
+         "title" : "1st FIDE - ISF World School Online Chess Cup: Registration continues"
+      },
+      {
          "description" : "ECU E-Magazine January 2022 is out! In this edition of the ECU E-Magazine you may read about: 1st quarter ECU Board Meeting 2022 &#8220;A Chess Board for All&#8221; project Hybrid match between ECU Board and Berlin Chess Association Tata Steel Chess 2022 FIDE Grand Prix 2022 Gibraltar Chess Festival 2022 Upcoming events and invitations for ECU events Arbiters&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-january-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-e-magazine-january-2022/",
          "pubDate" : "Thu, 10 Feb 2022 08:43:49 +0000",
          "title" : "ECU E-MAGAZINE JANUARY 2022"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> How do the pros train for tournaments? From deep opening preparation to middle game ideas, learn how to best equip yourself for competition. 2022.02.10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-gm-josh-friedel-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ebyub1Czkyo.jpg?itok=nG_JuvgF\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-josh-friedel-lichessorg",
+         "pubDate" : "Thu, 10 Feb 2022 08:27:21 +0000",
+         "title" : "Prepare Like A Pro - GM Josh Friedel | lichess.org"
       },
       {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani tests viewers with the scariest tactics test. Solve up to 64 puzzles with the rest of the class. 2022.02.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactical-scare-exam-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Wx5fGdVwhRg.jpg?itok=W_LYPGmI\" alt=\"\" /></a></div>",
@@ -226,6 +266,14 @@ news_feed (
          "title" : "Berlin Grand Prix 4: Wesley So takes sole lead"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1562",
+         "pubDate" : "Tue, 08 Feb 2022 09:44:25 +0000",
+         "title" : "FIDE World Championship Match 2023 - Call for bids"
+      },
+      {
          "description" : "1st GUWAHATI INTERNATIONAL OPEN GRANDMASTERS CHESS TOURNAMENT 13-20 March 2022 Venue : DTRP INDOOR STADIUM RG Baruah Road, Guwahati AICF EVENT CODE : 280085/ASM /",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -440,14 +488,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/berlin-grand-prix-3-so-takes-lead-as-aronian-pulls-clear",
          "pubDate" : "Mon, 07 Feb 2022 10:09:16 +0000",
          "title" : "Berlin Grand Prix 3: So takes lead as Aronian pulls clear"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1562",
-         "pubDate" : "Mon, 07 Feb 2022 07:44:25 +0000",
-         "title" : "FIDE World Championship Match 2023 - Call for bids"
       },
       {
          "description" : " Scholastic chess has grown by leaps and bounds over the past few decades. With Supernationals drawing over 5500+ players from across the country, times have never been better to start playing chess. When Supernationals VI set a record for 5577 players, it demonstrated how far scholastic chess has grown. There have been many stories of [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/07/black-history-month-2022-day-7-phillys-roberts-vaux-jr-high/\">Black History Month 2022-Day 7: Philly's Roberts Vaux Jr. High</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -762,14 +802,6 @@ news_feed (
          "title" : "Is Nakamura ready to give up his Candidates spot to Liren if he wins FIDE Grand Prix 2022?"
       },
       {
-         "description" : " So it's day one! Let's see how it rolls! <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/cCI6KQX6O2E?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/grand-prix-day-1-live-broadcast/",
-         "pubDate" : "Fri, 04 Feb 2022 13:31:36 +0000",
-         "title" : "Grand Prix Day 1: Live Broadcast"
-      },
-      {
          "description" : "The ECF is running a second Endgame Challenge with IM Lorin D'Costa (above right) and GM Keith Arkell (above left). The challenge will follow a...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1080,14 +1112,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/dubov-tarrash-road-2000-nm-caleb-denby-lichessorg",
          "pubDate" : "Tue, 01 Feb 2022 23:21:02 +0000",
          "title" : "The Dubov Tarrash | Road to 2000 - NM Caleb Denby | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel looks at material imbalances from world champion Magnus Carlsen. The mysterious masked Josh... 2022.02.01<br /> Magnus Carlsen vs Shakhriyar Mamedyarov, 84th Tata Steel Masters (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2228983\">https://www.chessgames.com/perl/chessgame?gid=2228983</a><br /> Magnus Carlsen vs Anish Giri, 84th Tata Steel Masters (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2210967\">https://www.chessgames.com/perl/chessgame?gid=2210967</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-and-material-imbalances-grandmasters-choice-gm-josh-friedel-lichessorg",
-         "pubDate" : "Tue, 01 Feb 2022 23:21:02 +0000",
-         "title" : "Carlsen and Material Imbalances | Grandmaster's Choice - GM Josh Friedel | lichess.org"
       },
       {
          "description" : "Top seed Ding Liren is out of the Berlin FIDE Grand Prix after failing to get a visa for travel to Berlin, leaving his Candidates Tournament qualification hopes in ruins. He'll be replaced by Polish star Radoslaw Wojtaszek, while Dmitry Andreikin tested positive and has been replaced by the man who originally just missed out, Andrey Esipenko. Players are still due to arrive in Berlin in the next day or two, so that there are no guarantees those are the final changes.",
@@ -1560,14 +1584,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gaprindashvilis-defamation-lawsuit-against-netflix-can-proceed",
          "pubDate" : "Fri, 28 Jan 2022 06:59:00 -0800",
          "title" : "Gaprindashvili's Defamation Lawsuit Against Netflix Can Proceed"
-      },
-      {
-         "description" : "Ding Liren, Levon Aronian, Wesley So and Alexander Grischuk will be among the players battling for the final two spots in the FIDE Candidates Tournament when the 2022 FIDE Grand Prix begins next Friday, February 4th in Berlin. The new format sees 16 players start in four separate groups, where only the winner will qualify to a knockout. That means, for instance, that for Grischuk to qualify he first has to overcome Hikaru Nakamura, Dmitry Andreikin and Etienne Bacrot. We'll have full coverage here on chess24.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/berlin-fide-grand-prix-candidates-last-chance-saloon",
-         "pubDate" : "Fri, 28 Jan 2022 14:37:23 +0000",
-         "title" : "Berlin FIDE Grand Prix: Candidates last chance saloon"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1ac2ca25-ea04-42e3-be38-ecd135d92611/ES2.jpg\" data-image-dimensions=\"382x180\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61f3ef174abbc5621ba931ff\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1ac2ca25-ea04-42e3-be38-ecd135d92611/ES2.jpg?format=1000w\" /> </figure> <p class=\"\"><a href=\"https://www.perpetualchesspod.com/recaptured\" target=\"_blank\"><em>Chess Books Recaptured</em></a><em> </em>is back to discuss one of my favorite chess books ever, Mikhail Sher",
