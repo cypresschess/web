@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the 1970s Boris Gulko was one of the best players in the USSR and the world, and he is one of the few players who has a positive score against Kasparov. In 1976, after Kortschnoi had fled the USSR, Gulko refused to sign a critical statement against Kortschnoi, and as a result Gulko was targeted by the authorities. For seven years, Gulko fought to emigrate from the Soviet Union, and in 1986 he moved to the USA, where he continued his chess career. On 9 February 2022 Gulko celebrated his 75th birthday. | Photo: Les Glassman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/boris-gulko-turns-75",
+         "pubDate" : "Thu, 10 Feb 2022 13:09:21 +0100",
+         "title" : "Boris Gulko turns 75!"
+      },
+      {
          "description" : " Tomorrow is the start of the 2022 Lifeline Bookfair. Hopefully i will be able to pick up a few new (second hand) chess books, although a little birdy has already told me that there may only be around 30 books on offer. This isn't actually a bad number, but most of them may be repeats of books I already own. Normally a trip to the bookfair is a fairly placid outing, but if anyone has been paying attention to what has been happening in Canberra over the last week, it might be a little spicier. The book fair is located next to a major campground, which has hosted a large number of anti-vaxx/sov cits/no madate protestors. As any good protest (and I have been to a few) does involve disrupting wh",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1866,14 +1874,6 @@ news_feed (
          "title" : "Battle of the Sexes, Round 1: A clear win for team Pia"
       },
       {
-         "description" : "In the diagrammed position it is White to move and draw. White has a powerful passed pawn on g7 that forces Black's bishop to control the g8-square, but White is a pawn down and Black also has a powerful passed pawn that just attacked White's bishop on d3. Should the bishop go to b5 or to c2?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-power-of-passed-pawns-2",
-         "pubDate" : "Tue, 25 Jan 2022 09:00:00 +0100",
-         "title" : "The power of passed pawns"
-      },
-      {
          "description" : "GM Magnus Carlsen defeated co-leader GM Shakhriyar Mamedyarov on Tuesday to regain the sole lead at the 2022 Tata Steel Chess Tournament. GM Anish Giri is the only player trailing the world champion by half a point after scoring his fourth full po...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2152,14 +2152,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/wins-for-rapport-and-mamedyarov-take-them-into-a-joint-lead-with-vidit-after-tata-steel-round-5",
          "pubDate" : "Thu, 20 Jan 2022 21:52:00 +0400",
          "title" : "Wins for Rapport and Mamedyarov take them into a joint lead with Vidit after Tata Steel Round 5 - 5"
-      },
-      {
-         "description" : " I might be getting soft in my old age, but I am not annoyed by players who do night resign at the appropriate time as I used to be. Possibly one the reasons for this, is that for new players, playing on until they are checkmated is a learning experience for them. On at least one occasion I have had an opponent explain why they won't resign ('so I can see how you would win from this position'), and in a few coaching sessions my comment about one side resigning has been met with a 'But why?' <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/learning-from-losing.html",
-         "pubDate" : "Thu, 20 Jan 2022 12:29:00 +0000",
-         "title" : "Learning from losing"
       }
    ]
 }
