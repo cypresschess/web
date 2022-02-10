@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week Robert Ris shows why the almost forgotten Schara von Hennig Gambit (1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4) has become popular again and attracts players like Grischuk and Jorden van Foreest. Ris also shows a clear game-plan for Black that will help you to try this exciting gambit with success! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-an-exciting-gambit",
+         "pubDate" : "Thu, 10 Feb 2022 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: An exciting gambit"
+      },
+      {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1810,14 +1818,6 @@ news_feed (
          "title" : "Tata Steel R9: Carlsen beats Shakh, Giri wins again"
       },
       {
-         "description" : "Magnus Carlsen is the epiphany of winning in an equal position. But what to take care of? How to gain an advantage? What should we consider, once a very equal position has been reached? In one full game, starting from the \"Scotch Game\" opening, to the very end - with three pawns vs. one rook - Svitlana takes us on a journey, on how to advance our chess skills.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-28",
-         "pubDate" : "Wed, 26 Jan 2022 11:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Winning in an equal position"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89130551.cms\" />Indian Grandmaster Vidit Gujrathi drew with Richard Rapport of Hungary in the ninth round to be in joint third place with 5.5 points in the Tata Steel Masters chess tournament here.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2144,14 +2144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1535",
          "pubDate" : "Fri, 21 Jan 2022 00:51:36 +0000",
          "title" : "Tata Steel Masters: Mamedyarov and Rapport catch up with Vidit"
-      },
-      {
-         "description" : " The fifth round of the Tata Steel Masters saw just two decisive games but those took the winners into a share of the lead after five rounds. Round 4 leader Vidit Gujrathi held Anish Giri to a draw in a Petroff Defence. Richard Rapport managed to outplay R Praggnanandhaa after losing the opening battle. Shakhriyar Mamedyarov beat Jorden van Foreest in an Open Spanish. Vidit, Rapport and Mamedyarov now lead the tournament. Magnus Carlsen had chances to beat Nils Grandelius but only drew. Esipenko-Caruana was drawn with definite chances missed for the American. Jan-Krzysztof Duda agreed a draw in time trouble against Sergey Karjakin where he had a rather unobvious win on the board. Dubov and S",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/wins-for-rapport-and-mamedyarov-take-them-into-a-joint-lead-with-vidit-after-tata-steel-round-5",
-         "pubDate" : "Thu, 20 Jan 2022 21:52:00 +0400",
-         "title" : "Wins for Rapport and Mamedyarov take them into a joint lead with Vidit after Tata Steel Round 5 - 5"
       }
    ]
 }
