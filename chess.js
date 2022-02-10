@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani tests viewers with the scariest tactics test. Solve up to 64 puzzles with the rest of the class. 2022.02.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactical-scare-exam-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Wx5fGdVwhRg.jpg?itok=W_LYPGmI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tactical-scare-exam-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 10 Feb 2022 02:26:53 +0000",
+         "title" : "Tactical SCARE Exam! | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "Levon Aronian became the first player to secure a spot in the semifinals of the FIDE Grand Prix in Berlin. The US grandmaster qualified to the knockout stage with one round to spare after getting an unsurmountable 1&frac12;-point lead in pool C. Suspense remains in the other three pools, though, with seven players going into Thursday's sixth round still with chances of getting one of the three remaining spots. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r5",
+         "pubDate" : "Thu, 10 Feb 2022 02:35:00 +0100",
+         "title" : "Berlin GP: Aronian qualifies with a round to spare"
+      },
+      {
          "description" : "GM Levon Aronian won a tense tactical game with black pieces against GM Vincent Keymer to reach 4/5 and qualify with a round to spare from Group C to the semifinals of the 2022 FIDE Grand Prix first leg in Berlin. Though GM Hikaru Nakamura won a w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r5",
-         "pubDate" : "Wed, 09 Feb 2022 15:33:48 -0800",
+         "pubDate" : "Wed, 09 Feb 2022 15:33:00 -0800",
          "title" : "2022 FIDE Grand Prix Berlin R5: Aronian Qualifies, Tense Last Group Round Awaits"
       },
       {
@@ -58,7 +74,7 @@ news_feed (
          "title" : "Nepomniachtchi Wins, Shevchenko Nearly Sweeps Titled Tuesday"
       },
       {
-         "description" : " Share! IM Robert Gwaze on his way to gold!Photo by Jerry Bibuld At this year's 2022 Chess Olympiad in Moscow, Russia, we will commemorate the 20th year of Zimbabwean IM Robert Gwaze winning the gold medal for his 9/9 performance. This feat took place in the fall of 2002 in Bled, Slovenia, and sent triumphant [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/09/black-history-month-2022-day-9-robert-gwazes-gold/\">Black History Month 2022-Day 9: Robert Gwaze's Gold!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!46 IM Robert Gwaze on his way to gold!Photo by Jerry Bibuld At this year's 2022 Chess Olympiad in Moscow, Russia, we will commemorate the 20th year of Zimbabwean IM Robert Gwaze winning the gold medal for his 9/9 performance. This feat took place in the fall of 2002 in Bled, Slovenia, and sent triumphant [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/09/black-history-month-2022-day-9-robert-gwazes-gold/\">Black History Month 2022-Day 9: Robert Gwaze's Gold!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/09/black-history-month-2022-day-9-robert-gwazes-gold/",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/group-training/",
          "pubDate" : "Wed, 09 Feb 2022 14:00:00 +0000",
          "title" : "Chess Group Training"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
-         "pubDate" : "Wed, 09 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Games and results"
       },
       {
          "description" : "Top-level chess has taken giant steps towards professionalisation in recent years with higher prizes, global TV broadcasts and major events online. For the athletes who can spend up to eight hours at the board, their chairs are now also playing an increasingly significant role.",
@@ -122,7 +130,7 @@ news_feed (
          "title" : "Media warm-up for the FIDE Grand Prix held in Belgrade"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess class on a topic of his choice. 2022.02.08<br /> Richard Rapport vs Vladimir Fedoseev, FIDE Grand Prix Berlin (2022): E32 Nimzo-Indian, classical variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2243760\">https://www.chessgames.com/perl/chessgame?gid=2243760</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rapport-vs-fedoseev-king-power-berlin-grandmasters-choice-gm-josh-friedel\"><img src=\"https://sai",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel analyzes the fun game between Richard Rapport and Vladimir Fedoseev at the ongoing 2022 FIDE Grand Prix in Berlin. 2022.02.08<br /> Richard Rapport vs Vladimir Fedoseev, FIDE Grand Prix Berlin (2022): E32 Nimzo-Indian, classical variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2243760\">https://www.chessgames.com/perl/chessgame?gid=2243760</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rapport-vs-fedoseev-king-powe",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/rapport-vs-fedoseev-king-power-berlin-grandmasters-choice-gm-josh-friedel",
@@ -1080,14 +1088,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/fide-grand-prix-in-turmoil-as-players-forced-to-pull-out",
          "pubDate" : "Tue, 01 Feb 2022 17:55:39 +0000",
          "title" : "FIDE Grand Prix in turmoil as players forced to pull out"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani tests viewers with the scariest tactics test. 2022.02.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactical-scare-exam-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Wx5fGdVwhRg.jpg?itok=W_LYPGmI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tactical-scare-exam-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Tue, 01 Feb 2022 17:20:42 +0000",
-         "title" : "Tactical SCARE Exam! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "",
