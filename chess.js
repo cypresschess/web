@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last round of the group stage of the 2022 FIDE Grand Prix first leg produced high-voltage drama in Berlin with GM Hikaru Nakamura joining GM Levon Aronian for the semifinal lineup after winning Group A and Group C respectively. In a day of ner...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r6",
+         "pubDate" : "Thu, 10 Feb 2022 17:17:41 -0800",
+         "title" : "2022 FIDE Grand Prix Berlin R6: Nakamura Reaches Semifinals On Day Of Nerves"
+      },
+      {
          "description" : " The final round of the qualifying stage was without any doubt the most exciting chess witnessed in Berlin during the last few days. With a lot at stake all the games (with the exception of Aronian - Dubov) were fought to the bitter end. The ceremonial first move was executed by Richard Lutz, CEO of Deutsche Bahn (German Railways). Mr. Lutz is a strong player himself and Deutsche Bahn has been a regular supporter of chess in Germany over the years. He opened the game for Vidit with 1.c4 against local player Vincent Keymer and the games were on! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220210150126_IMG_1500-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "Aronian and Nakamura are the first FIDE Grand Prix semifinalists"
       },
       {
-         "description" : " Share!One powerful piece of African history is often forgotten or ignored and it has a tremendous relationship to chess. It is known that the Moors brought the Persian variant &#8220;Shatranj&#8221; into Spain after the incursion of Tariq ibn-Ziyad. Tariq commanded his 7,000 soldiers across the strait into al-Andalus and landed on Gebal al-Tariq (Gibraltar or [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/10/black-history-month-2022-day-10-the-moors-of-spain/\">Black History Month 2022-Day 10: The Moors of Spain</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!One powerful piece of African history is often forgotten or ignored and it has a tremendous relationship to chess. It is known that the Moors brought the Persian variant &#8220;Shatranj&#8221; into Spain after the incursion of Tariq ibn-Ziyad. Tariq commanded his 7,000 soldiers across the strait into al-Andalus (modern-day Spain) and landed on Gebal al-Tariq [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/10/black-history-month-2022-day-10-the-moors-of-spain/\">Black History Month 2022-Day 10: The Moors of Spain</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/10/black-history-month-2022-day-10-the-moors-of-spain/",
@@ -106,7 +114,7 @@ news_feed (
          "title" : "ECU E-MAGAZINE JANUARY 2022"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> How do the pros train for tournaments? From deep opening preparation to middle game ideas, learn how to best equip yourself for competition. 2022.02.10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-gm-josh-friedel-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ebyub1Czkyo.jpg?itok=nG_JuvgF\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> How do the pros train for tournaments? From deep opening preparation to middle game ideas, learn how to best equip yourself for competition. The mysterious masked Josh... 2022.02.10<br /> Daniil Dubov vs Vincent Keymer, FIDE Grand Prix Berlin (2022): B12 Caro-Kann, advance variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2246151\">https://www.chessgames.com/perl/chessgame?gid=2246151</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-p",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-josh-friedel-lichessorg",
@@ -2066,14 +2074,6 @@ news_feed (
          "title" : "Tata Steel Masters: Vidit Gujrathi remains among the leaders"
       },
       {
-         "description" : "GM Magnus Carlsen won his second game in a row and is now the sole leader after seven rounds in the&#38;nbsp;2022 Tata Steel Chess Tournament. The world champion defeated GM Praggnanandhaa R. with the black pieces on Saturday. GM Daniil Dubov forfei...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-7",
-         "pubDate" : "Fri, 21 Jan 2022 17:00:00 -0800",
-         "title" : "Tata Steel Chess 2022 R7: Carlsen Grabs Sole Lead; Dubov Forfeits Game"
-      },
-      {
          "description" : " From the publisher: \"Grandmasters Kotronias and Ivanov are renowned as leading theoreticians and chess trainers. They offer a unique and world-class repertoire based on 1.d4! They advocate an ambitious approach for White, with the aim to fight for an advantage in any position. This is their first joint effort; they tackle the ever-popular Queen's Gambit <a href=\"http://britishchessnews.com/2022/01/22/your-jungle-guide-to-1-d4-aggressive-enterprise-qga-and-minors/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Your Jungle Guide to 1.d4!: Aggressive Enterprise QGA and Minors</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishc",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2144,14 +2144,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-vidit-gujrathi-draws-with-anish-giri-in-joint-lead-with-mamedyarov-and-rapport/articleshow/89031528.cms",
          "pubDate" : "Fri, 21 Jan 2022 10:03:14 +0530",
          "title" : "Tata Steel Chess: Vidit draws with Anish, stays in joint lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1535",
-         "pubDate" : "Fri, 21 Jan 2022 00:51:36 +0000",
-         "title" : "Tata Steel Masters: Mamedyarov and Rapport catch up with Vidit"
       }
    ]
 }
