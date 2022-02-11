@@ -2,11 +2,35 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world champion missed a one-move win and halved against an opponent with whom he had already drawn as a nine-year-old Magnus Carlsen's vintage performance at Wijk aan Zee gained the world champion three rating points in his quest for a world record 2900. A week later the Norwegian, 31, gave them all back with interest on a Saturday night in Oslo to Tallaksen Ostmoe, rated 399 points lower than the No 1. The very first meeting 22 years earlier between the then nine-year-old Carlsen, rated under 1000, and the 15-year-old Ostmoe, rated over 2200, had also been a draw and a rating upset, but this was the other way round. <a href=\"https://www.theguardian.com/sport/2022/feb/11/chess-carlsen-l",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/feb/11/chess-carlsen-loses-hard-won-rating-points-in-a-single-oslo-club-match",
+         "pubDate" : "Fri, 11 Feb 2022 08:00:44 +0000",
+         "title" : "Chess: Carlsen loses hard-won rating points in a single Oslo club match"
+      },
+      {
+         "description" : " This week we are going to look at some examples to get you used to creating basic combinations. We'll start with a simple skewer that can be executed in a single move and then add additional pieces to this initial position to force you into creating a sequence of moves that will end up with <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-one/\">A Foundation for Beginners Fifty One</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Che",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-one/",
+         "pubDate" : "Fri, 11 Feb 2022 07:02:26 +0000",
+         "title" : "A Foundation for Beginners Fifty One"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> How do the pros train for tournaments? From deep opening preparation to middle game ideas, learn how to best equip yourself for competition. The mysterious masked Josh... 2022.02.10<br /> Daniil Dubov vs Vincent Keymer, FIDE Grand Prix Berlin (2022): B12 Caro-Kann, advance variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2246151\">https://www.chessgames.com/perl/chessgame?gid=2246151</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-p",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-josh-friedel",
+         "pubDate" : "Fri, 11 Feb 2022 05:27:48 +0000",
+         "title" : "Prepare Like A Pro - GM Josh Friedel"
+      },
+      {
          "description" : "The last round of the group stage of the 2022 FIDE Grand Prix first leg produced high-voltage drama in Berlin with GM Hikaru Nakamura joining GM Levon Aronian for the semifinal lineup after winning Group A and Group C respectively. In a day of ner...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r6",
-         "pubDate" : "Thu, 10 Feb 2022 17:17:41 -0800",
+         "pubDate" : "Thu, 10 Feb 2022 17:17:00 -0800",
          "title" : "2022 FIDE Grand Prix Berlin R6: Nakamura Reaches Semifinals On Day Of Nerves"
       },
       {
@@ -1154,14 +1178,6 @@ news_feed (
          "title" : "The Dubov Tarrasch | Road to 2000 - NM Caleb Denby"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with tools to get on the road to a 2000 rating. 2022.02.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dubov-tarrash-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JHIcEi1eM5E.jpg?itok=dInsP3OM\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dubov-tarrash-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Tue, 01 Feb 2022 23:21:02 +0000",
-         "title" : "The Dubov Tarrash | Road to 2000 - NM Caleb Denby | lichess.org"
-      },
-      {
          "description" : "Top seed Ding Liren is out of the Berlin FIDE Grand Prix after failing to get a visa for travel to Berlin, leaving his Candidates Tournament qualification hopes in ruins. He'll be replaced by Polish star Radoslaw Wojtaszek, while Dmitry Andreikin tested positive and has been replaced by the man who originally just missed out, Andrey Esipenko. Players are still due to arrive in Berlin in the next day or two, so that there are no guarantees those are the final changes.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2128,22 +2144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1534",
          "pubDate" : "Fri, 21 Jan 2022 08:55:39 +0000",
          "title" : "Groups for First Leg of FIDE Grand Prix Are Announced"
-      },
-      {
-         "description" : " World champion's win on Friday puts him back at the top of the table as his attempt to break the 2900 rating barrier gets under way, while co-leader Shak Mamedyarov unleashes the bizarre opening 1 d4 Nf6 2 c4 e6 3 g4?! Magnus Carlsen's campaign to score a record eighth victory at Tata Steel Wijk, the \"chess Wimbledon\", and so launch his campaign to break the 2900 rating barrier which he narrowly missed in 2014 and 2019, was back on track after Friday's sixth round despite a the No 1's earlier sluggish start to the elite tournament. The world champion used his favourite Catalan Opening to demolish Hungary's Richard Rapport <a href=\"https://chess24.com/en/watch/live-tournaments/tata-steel-mas",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/jan/21/chess-carlsens-record-hunt-starts-badly-while-bizarre-opening-shocks-pundits",
-         "pubDate" : "Fri, 21 Jan 2022 08:00:26 +0000",
-         "title" : "Chess: Carlsen jumps into sixth-round lead at Wijk as he hunts rating record"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89031528.cms\" />Indian Grandmaster Vidit Santhosh Gujrathi settled for a draw against Dutchman Anish Giri in the fifth round to stay in joint lead with 3.5 points at the Tata Steel Masters in the Netherlands.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-vidit-gujrathi-draws-with-anish-giri-in-joint-lead-with-mamedyarov-and-rapport/articleshow/89031528.cms",
-         "pubDate" : "Fri, 21 Jan 2022 10:03:14 +0530",
-         "title" : "Tata Steel Chess: Vidit draws with Anish, stays in joint lead"
       }
    ]
 }
