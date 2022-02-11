@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Share!One powerful piece of African history is often forgotten or ignored and it has a tremendous relationship to chess. It is known that the Moors brought the Persian variant &#8220;Shatranj&#8221; into Spain after the incursion of Gebal Tariq (&#8220;Gibraltar&#8221; derived from his name) in 711AD. Shatranj was derived from &#8220;Chaturanga,&#8221; a board game originating in [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/10/black-history-month-2022-day-10-the-moors-of-spain/\">Black History Month 2022-Day 10: The Moors of Spain</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess W",
+         "description" : " The final round of the qualifying stage was without any doubt the most exciting chess witnessed in Berlin during the last few days. With a lot at stake all the games (with the exception of Aronian - Dubov) were fought to the bitter end. The ceremonial first move was executed by Richard Lutz, CEO of Deutsche Bahn (German Railways). Mr. Lutz is a strong player himself and Deutsche Bahn has been a regular supporter of chess in Germany over the years. He opened the game for Vidit with 1.c4 against local player Vincent Keymer and the games were on! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220210150126_IMG_1500-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nakamura-joins-aronian-in-the-semifinals-of-the-fide-grand-prix/",
+         "pubDate" : "Thu, 10 Feb 2022 23:51:26 +0000",
+         "title" : "Nakamura joins Aronian in the semifinals of the FIDE Grand Prix in Berlin"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1568",
+         "pubDate" : "Thu, 10 Feb 2022 22:26:22 +0000",
+         "title" : "FIDE Grand Prix: Nakamura joins Aronian in semifinals"
+      },
+      {
+         "description" : " <p class=\"lead\">Round 6 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with Nakamura and Aronian being the semifinalists of Group A and C. Tomorrow, Wojtaszek-Rapport and Dominguez-So games will determine the Group B and D semifinalists respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-4.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220210154727_IMG_1551.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220210154238_IMG_1548.jpg\" width=\"2560\" height=\"",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/aronian-and-nakamura-are-the-first-fide-grand-prix-semifinalists/",
+         "pubDate" : "Thu, 10 Feb 2022 20:37:30 +0000",
+         "title" : "Aronian and Nakamura are the first FIDE Grand Prix semifinalists"
+      },
+      {
+         "description" : " Share!One powerful piece of African history is often forgotten or ignored and it has a tremendous relationship to chess. It is known that the Moors brought the Persian variant &#8220;Shatranj&#8221; into Spain after the incursion of Tariq ibn-Ziyad. Tariq commanded his 7,000 soldiers across the strait into al-Andalus and landed on Gebal al-Tariq (Gibraltar or [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/10/black-history-month-2022-day-10-the-moors-of-spain/\">Black History Month 2022-Day 10: The Moors of Spain</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/10/black-history-month-2022-day-10-the-moors-of-spain/",
@@ -794,14 +818,6 @@ news_feed (
          "title" : "Nakamura Is an Active Player Again, According to FIDE Rules"
       },
       {
-         "description" : " The first round of the group stage began at 3 pm at the City Centre on Unter den Linden with the opening call from Ivan Syrovy, Chief Arbiter of the event. By that time, and according to the rules of the tournament, all the players had been PCR-tested and were firmly seated at their boards. For one of them, American GM Hikaru Nakamura, who enjoys a wild card invitation for the series, today was the first classical chess game for him in more than two years. In fact, he had even been dropped from the FIDE classical rating list due to inactivity! <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/ph",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/aronian-leads-the-pack-in-the-berlin-grand-prix/",
-         "pubDate" : "Sat, 05 Feb 2022 00:25:44 +0000",
-         "title" : "Aronian leads the pack in the Berlin Grand Prix"
-      },
-      {
          "description" : "The first round of the 2022 FIDE Grand Prix saw three decisive games in an intense start to the group stage of the event. After the first of the total six double round-robin games to be played among players of each group, GM Vladimir Fedoseev and ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -816,14 +832,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1558",
          "pubDate" : "Fri, 04 Feb 2022 23:27:33 +0000",
          "title" : "Aronian leads the pack in the Berlin Grand Prix"
-      },
-      {
-         "description" : " <p class=\"lead\">Round 1 of <a href=\"https://worldchess.com/series/grandprix2022\">the FIDE Grand Prix Series 2022</a> started today with some really exciting games. The rating replacement, Radoslaw Wojtaszek, along with Vladimir Fedoseev, and Levon Aronian had the first decisive games of the tournament, with Aronian being the sole leader in Pool C. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/FIDE_20220204-77.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Esipenko and Grischuk discussing the result after the game.</div> </div> It seems that Catalan is the new black, as Esipenko-Grischuk, Fedoseev-Oparin, and Wojtaszek-Rapport dived into",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/three-decisive-games-at-the-first-day-of-the-fide-grand-prix-ser/",
-         "pubDate" : "Fri, 04 Feb 2022 20:47:23 +0000",
-         "title" : "Three decisive games at the first day of the FIDE Grand Prix Series 2022"
       },
       {
          "description" : " Baraka Shabazz's demure pose is a testament to her confidence and poise. This photo was featured in Chicago Metro News, December 4, 1982 as part of Tony Brown Journal segment. When she burst onto the scene in the early 80s, Baraka Shabazz (pronounced sha-boz) was a curious girl who learned chess in a cabin in [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/04/black-history-month-2022-day-4-baraka-shabazz/\">Black History Month 2022-Day 4: Baraka Shabazz</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
