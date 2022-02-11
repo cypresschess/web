@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The trip to the Lifeline Bookfair was almost incident free* and I picked up a few books while I was there. As usual I came home with some books I already owned, although in this case 2 of the 3 books were deliberate purchases (the third was an American reprint of The Mammoth Book of Chess, under another name). One book which I definitely did not own was \"Assess Your Chess Fast\" by GM Alberic O'Kelly de Galway. Published in 1976, it followed the tried and true teaching method of devoting a chapter to a specific topic, and then providing test positions at the end. The topics were pretty mixed up, starting with \"The Ferocious Pawns\" and ending with \"Hidden Strategical Possibilities in the Midd",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/bishop-or-fool.html",
+         "pubDate" : "Fri, 11 Feb 2022 12:03:00 +0000",
+         "title" : "Bishop or Fool"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel gives insight on opening preparation at the highest level of chess. How do the pros train for tournaments? From deep opening preparation to middle game ideas, learn how to best equip yourself for competition. The mysterious masked Josh uses Daniil Dubov's Caro-Kann against Vincent Keymer at the 2022 FIDE Grand Prix Berlin as Exhibit A. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prep-caro-kann-dubov-prepare-pro-gm-josh-friedel\"><img src",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/prep-caro-kann-dubov-prepare-pro-gm-josh-friedel",
+         "pubDate" : "Fri, 11 Feb 2022 11:28:21 +0000",
+         "title" : "Prep the Caro-Kann like Dubov! | Prepare Like A Pro - GM Josh Friedel"
+      },
+      {
+         "description" : "Frequent evaluation swings in tense-filled encounters made for an exciting sixth round at the FIDE Grand Prix in Berlin. In the end, the one player who secured a spot in the semifinals on Thursday was Hikaru Nakamura. Naka and Levon Aronian, who qualified after round 5, will face the winners of Friday's playoffs. In the rapid and blitz tiebreakers, Richard Rapport will face Radoslaw Wojtaszek, and Wesley So will play Leinier Dominguez. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r6",
+         "pubDate" : "Fri, 11 Feb 2022 11:10:00 +0100",
+         "title" : "Berlin GP: Nakamura in semis after wild sixth round"
+      },
+      {
+         "description" : "Hikaru Nakamura is in the semi-finals of the Berlin FIDE Grand Prix after surviving a dead-lost position against Andrey Esipenko. Hikaru will face either Radek Wojtaszek or Richard Rapport, after Rapport beat Vladimir Fedoseev with the black pieces while Radek was somewhat lucky to draw what had been an overwhelmingly winning position against Grigoriy Oparin. Levon Aronian's semi-final opponent is also undecided, after Wesley So spoilt a good position against Harikrishna and now plays a tiebreak against Leinier Dominguez, who beat Alexei Shirov on demand.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-6-nakamura-s-great-escape",
+         "pubDate" : "Fri, 11 Feb 2022 09:52:42 +0000",
+         "title" : "Berlin Grand Prix 6: Nakamura's great escape"
+      },
+      {
+         "description" : "As part of the Berlin Grand Prix, members of the Berlin Chess Association played a friendly \"hybrid\" four-board match against members of the ECU Board. The ECU team played from Thessaloniki, the Berlin team from Berlin, and after an exciting battle the match of the officials ended with a 2-2 tie.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hybrid-match-ecu-board-vs-berlin-chess-association",
+         "pubDate" : "Fri, 11 Feb 2022 10:44:35 +0100",
+         "title" : "Hybrid Match: ECU Board vs Berlin Chess Association"
+      },
+      {
          "description" : " The world champion missed a one-move win and halved against an opponent with whom he had already drawn as a nine-year-old Magnus Carlsen's vintage performance at Wijk aan Zee gained the world champion three rating points in his quest for a world record 2900. A week later the Norwegian, 31, gave them all back with interest on a Saturday night in Oslo to Tallaksen Ostmoe, rated 399 points lower than the No 1. The very first meeting 22 years earlier between the then nine-year-old Carlsen, rated under 1000, and the 15-year-old Ostmoe, rated over 2200, had also been a draw and a rating upset, but this was the other way round. <a href=\"https://www.theguardian.com/sport/2022/feb/11/chess-carlsen-l",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -26,7 +66,7 @@ news_feed (
          "title" : "Prepare Like A Pro - GM Josh Friedel"
       },
       {
-         "description" : "The last round of the group stage of the 2022 FIDE Grand Prix first leg produced high-voltage drama in Berlin with GM Hikaru Nakamura joining GM Levon Aronian for the semifinal lineup after winning Group A and Group C respectively. In a day of ner...",
+         "description" : "The last round of the group stage of the 2022 FIDE Grand Prix first leg produced high-voltage drama in Berlin with GM Hikaru Nakamura joining GM Levon Aronian for the semifinal lineup after winning Group A and Group C respectively. It was a day of...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r6",
@@ -58,7 +98,7 @@ news_feed (
          "title" : "Aronian and Nakamura are the first FIDE Grand Prix semifinalists"
       },
       {
-         "description" : " Share!One powerful piece of African history is often forgotten or ignored and it has a tremendous relationship to chess. It is known that the Moors brought the Persian variant &#8220;Shatranj&#8221; into Spain after the incursion of Tariq ibn-Ziyad. Tariq commanded his 7,000 soldiers across the strait into al-Andalus (modern-day Spain) and landed on Gebal al-Tariq [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/10/black-history-month-2022-day-10-the-moors-of-spain/\">Black History Month 2022-Day 10: The Moors of Spain</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!39One powerful piece of African history is often forgotten or ignored and it has a tremendous relationship to chess. It is known that the Moors brought the Persian variant &#8220;Shatranj&#8221; into Spain after the incursion of Tariq ibn-Ziyad. Tariq commanded his 7,000 soldiers across the strait into al-Andalus (modern-day Spain) and landed on Gebal al-Tariq [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/10/black-history-month-2022-day-10-the-moors-of-spain/\">Black History Month 2022-Day 10: The Moors of Spain</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/10/black-history-month-2022-day-10-the-moors-of-spain/",
@@ -72,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-an-exciting-gambit",
          "pubDate" : "Thu, 10 Feb 2022 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: An exciting gambit"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
-         "pubDate" : "Thu, 10 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Games and results"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/A5zUxY3PRjA?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -1170,14 +1202,6 @@ news_feed (
          "title" : "Carlsen and Material Imbalances | Grandmaster's Choice - GM Josh Friedel"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby teaches you how to play Daniil Dubov's trendy Tarrasch Defense variation. The mysterious masked Caleb believes the Dubov Tarrasch can fill holes in your repertoire. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dubov-tarrasch-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JHIcEi1eM5E.jpg?itok=dInsP3OM\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dubov-tarrasch-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 02 Feb 2022 02:21:16 +0000",
-         "title" : "The Dubov Tarrasch | Road to 2000 - NM Caleb Denby"
-      },
-      {
          "description" : "Top seed Ding Liren is out of the Berlin FIDE Grand Prix after failing to get a visa for travel to Berlin, leaving his Candidates Tournament qualification hopes in ruins. He'll be replaced by Polish star Radoslaw Wojtaszek, while Dmitry Andreikin tested positive and has been replaced by the man who originally just missed out, Andrey Esipenko. Players are still due to arrive in Berlin in the next day or two, so that there are no guarantees those are the final changes.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1586,14 +1610,6 @@ news_feed (
          "title" : "Tata Steel R11: Van Foreest takes down Giri"
       },
       {
-         "description" : "Daniil Dubov forfeited his Round 7 game against Anish Giri while waiting for a PCR test, but when that came up negative he continued the Tata Steel Masters. Not for long, however, as just before Round 11 began it was announced that he'd tested positive and his remaining games, against Richard Rapport, Praggnanandhaa and Magnus Carlsen, would be forfeit wins for his opponents. Daniil then appeared on our chess24 broadcast and talked about how he's feeling, what happened and what happens next.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/daniil-dubov-on-forfeits-masks-testing-positive-and-playing-in-berlin",
-         "pubDate" : "Sat, 29 Jan 2022 00:17:16 +0000",
-         "title" : "Dubov on forfeits, masks, testing positive and playing in Berlin"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1848,14 +1864,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-2",
          "pubDate" : "Wed, 26 Jan 2022 12:55:18 +0100",
          "title" : "Battle of the Sexes, Round 2: Team Pia wins again"
-      },
-      {
-         "description" : "In a crucial confrontation, Magnus Carlsen beat Shakhriyar Mamedyarov to reclaim the sole lead at the Tata Steel Masters tournament. The one player keeping up the pace with the world champion is Anish Giri, who got the better of Sam Shankland to remain a half point behind the Norwegian. Sergey Karjakin and Fabiano Caruana also won in round 9. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r9",
-         "pubDate" : "Wed, 26 Jan 2022 12:45:00 +0100",
-         "title" : "Tata Steel R9: Carlsen beats Shakh, Giri wins again"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89130551.cms\" />Indian Grandmaster Vidit Gujrathi drew with Richard Rapport of Hungary in the ninth round to be in joint third place with 5.5 points in the Tata Steel Masters chess tournament here.",
@@ -2136,14 +2144,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/2022-act-blitz-championship.html",
          "pubDate" : "Fri, 21 Jan 2022 12:49:00 +0000",
          "title" : "2022 ACT Blitz Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1534",
-         "pubDate" : "Fri, 21 Jan 2022 08:55:39 +0000",
-         "title" : "Groups for First Leg of FIDE Grand Prix Are Announced"
       }
    ]
 }
