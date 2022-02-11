@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The two players who won their round-6 games to force tiebreaks in their respective groups managed to also win their 2-game rapid matches on Friday to reach the semifinals of the FIDE Grand Prix in Berlin. Leinier Dominguez knocked out Wesley So and will face an in-form Levon Aronian, while Rapport eliminated Radoslaw Wojtaszek and thus gained the right to face Hikaru Nakamura in semis. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r7",
+         "pubDate" : "Fri, 11 Feb 2022 20:15:00 +0100",
+         "title" : "Berlin GP: Dominguez and Rapport win tiebreakers, reach semis"
+      },
+      {
+         "description" : "Speed-addicted Chess.com members have a lot of reasons to celebrate as the 2022 Bullet Chess Championship approaches. Top players will battle for their piece of the $100,000 prize fund, with the qualifiers starting on February 21. This year&#39;s pr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-bullet-chess-championship-2022",
+         "pubDate" : "Fri, 11 Feb 2022 10:58:00 -0800",
+         "title" : "Chess.com Announces The 2022 Bullet Chess Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1570",
+         "pubDate" : "Fri, 11 Feb 2022 18:43:20 +0000",
+         "title" : "Semifinals set in FIDE Grand Prix: Aronian - Dominguez and Nakamura - Rapport"
+      },
+      {
+         "description" : "The Collegiate Chess League&#39;s fourth season is set to begin on February 12, 2022, and runs until the finals on May 21. Last season was our largest ever with over 1,000 players representing 160 teams from 80 schools from around the world. This se...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-spring-2022",
+         "pubDate" : "Fri, 11 Feb 2022 10:25:22 -0800",
+         "title" : "Collegiate Chess League Spring 2022: All The Information"
+      },
+      {
+         "description" : "The incidents span more than ten years and at least 15 victims; issue is being investigated by Latvian police.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33264972/dronavalli-harika-women-chess-players-targeted-sexually-abusive-mails?device=featurephone",
+         "pubDate" : "Fri, 11 Feb 2022 12:12:35 -0500",
+         "title" : "Harika among women chess players targeted by sexually abusive mails"
+      },
+      {
+         "description" : "In his Power Play Show, GM Daniel King looks at two of his favourite themes - the Octopus Knight and the Starfish Bishop - which occurred in games from the Berlin Grand Prix. Daniel will feature these masterful strategic performances from Levon Aronian and Daniil Dubov. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-3",
+         "pubDate" : "Fri, 11 Feb 2022 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: The Archbishop and the Octopus Knight"
+      },
+      {
+         "description" : " <p class=\"lead\">The tiebreaks of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with Rapport and Dominguez being the semifinalists of Group B and D respectively. Tomorrow in the semifinals Rapport will face Nakamura, while Dominguez will fight against Aronian for a spot in the Grand Prix finals. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-5.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220211150354_IMG_1717.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/2022021",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/rapport-and-dominguez-will-face-nakamura-and-aronian-in-the-semi/",
+         "pubDate" : "Fri, 11 Feb 2022 16:48:45 +0000",
+         "title" : "Rapport and Dominguez will face Nakamura and Aronian in the semifinals of the FIDE Grand Prix 2022"
+      },
+      {
          "description" : "If you think of a massively creative chess player, who comes to mind? Tal? Larsen? Creativity in chess is fairly important, to find \"impossible\" moves in a chess game. Moves, which would never cross your mind. But regularly, these are the moves which can decide a game in a beautiful way. Svitlana was taught creativity in chess by one of her coaches, and passes her knowledge on to us.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,22 +80,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/11/black-history-month-2022-day-11-historic-games/",
          "pubDate" : "Fri, 11 Feb 2022 14:30:13 +0000",
          "title" : "Black History Month 2022-Day 11: Historic Games!"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
-         "pubDate" : "Fri, 11 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
-      },
-      {
-         "description" : "The incidents span more than ten years and at least 15 victims; issue is being investigated by Latvian police.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33264972/dronavalli-harika-women-chess-players-targeted-sexually-abusive-mails?device=featurephone",
-         "pubDate" : "Fri, 11 Feb 2022 07:52:55 -0500",
-         "title" : "Harika among women chess players targeted by sexually abusive mails"
       },
       {
          "description" : " The trip to the Lifeline Bookfair was almost incident free* and I picked up a few books while I was there. As usual I came home with some books I already owned, although in this case 2 of the 3 books were deliberate purchases (the third was an American reprint of The Mammoth Book of Chess, under another name). One book which I definitely did not own was \"Assess Your Chess Fast\" by GM Alberic O'Kelly de Galway. Published in 1976, it followed the tried and true teaching method of devoting a chapter to a specific topic, and then providing test positions at the end. The topics were pretty mixed up, starting with \"The Ferocious Pawns\" and ending with \"Hidden Strategical Possibilities in the Midd",
@@ -74,14 +114,6 @@ news_feed (
          "title" : "Prep the Caro-Kann like Dubov! | Prepare Like A Pro - GM Josh Friedel"
       },
       {
-         "description" : "Frequent evaluation swings in tense-filled encounters made for an exciting sixth round at the FIDE Grand Prix in Berlin. In the end, the one player who secured a spot in the semifinals on Thursday was Hikaru Nakamura. Naka and Levon Aronian, who qualified after round 5, will face the winners of Friday's playoffs. In the rapid and blitz tiebreakers, Richard Rapport will face Radoslaw Wojtaszek, and Wesley So will play Leinier Dominguez. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r6",
-         "pubDate" : "Fri, 11 Feb 2022 11:10:00 +0100",
-         "title" : "Berlin GP: Nakamura in semis after wild sixth round"
-      },
-      {
          "description" : "Hikaru Nakamura is in the semi-finals of the Berlin FIDE Grand Prix after surviving a dead-lost position against Andrey Esipenko. Hikaru will face either Radek Wojtaszek or Richard Rapport, after Rapport beat Vladimir Fedoseev with the black pieces while Radek was somewhat lucky to draw what had been an overwhelmingly winning position against Grigoriy Oparin. Levon Aronian's semi-final opponent is also undecided, after Wesley So spoilt a good position against Harikrishna and now plays a tiebreak against Leinier Dominguez, who beat Alexei Shirov on demand.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -96,6 +128,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/hybrid-match-ecu-board-vs-berlin-chess-association",
          "pubDate" : "Fri, 11 Feb 2022 10:44:35 +0100",
          "title" : "Hybrid Match: ECU Board vs Berlin Chess Association"
+      },
+      {
+         "description" : "Frequent evaluation swings in tense-filled encounters made for an exciting sixth round at the FIDE Grand Prix in Berlin. In the end, the one player who secured a spot in the semifinals on Thursday was Hikaru Nakamura. Naka and Levon Aronian, who qualified after round 5, will face the winners of Friday's playoffs. In the rapid and blitz tiebreakers, Richard Rapport will face Radoslaw Wojtaszek, and Wesley So will play Leinier Dominguez. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r6",
+         "pubDate" : "Fri, 11 Feb 2022 10:10:00 +0100",
+         "title" : "Berlin GP: Nakamura in semis after wild sixth round"
       },
       {
          "description" : " The world champion missed a one-move win and halved against an opponent with whom he had already drawn as a nine-year-old Magnus Carlsen's vintage performance at Wijk aan Zee gained the world champion three rating points in his quest for a world record 2900. A week later the Norwegian, 31, gave them all back with interest on a Saturday night in Oslo to Tallaksen Ostmoe, rated 399 points lower than the No 1. The very first meeting 22 years earlier between the then nine-year-old Carlsen, rated under 1000, and the 15-year-old Ostmoe, rated over 2200, had also been a draw and a rating upset, but this was the other way round. <a href=\"https://www.theguardian.com/sport/2022/feb/11/chess-carlsen-l",
@@ -912,14 +952,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/05/black-history-month-2022-day-5-wilbert-paige-memorial/",
          "pubDate" : "Sat, 05 Feb 2022 05:30:24 +0000",
          "title" : "Black History Month 2022-Day 5: Wilbert Paige Memorial"
-      },
-      {
-         "description" : " <p class=\"lead\">Hikaru Nakamura, American Grandmaster and <a href=\"https://www.wired.com/story/hikaru-nakamura-twitch-chess/\">top chess streamer</a>, is an active player again, according to FIDE rules. He played his first classical game in two years today at the FIDE World Chess Grand Prix in Berlin. Fittingly, it was a draw. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/AE9F6F67-A6BA-493D-AA85-CE119E99558E.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> Nakamura, like many other elite chess players, found himself unable to attend tournaments during the pandemic, because there weren't any. However, Nakamura used the lockdown time wisely, becoming a chess str",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nakamura-is-an-active-player-again-according-to-fide-rules/",
-         "pubDate" : "Sat, 05 Feb 2022 01:03:13 +0000",
-         "title" : "Nakamura Is an Active Player Again, According to FIDE Rules"
       },
       {
          "description" : "The first round of the 2022 FIDE Grand Prix saw three decisive games in an intense start to the group stage of the event. After the first of the total six double round-robin games to be played among players of each group, GM Vladimir Fedoseev and ...",
@@ -1858,14 +1890,6 @@ news_feed (
          "title" : "Hikaru Nakamura Wins January 25 Titled Tuesday"
       },
       {
-         "description" : "In his \"Weekly Show\" Lawrence Trent covers a great game between Olga Girya and Joe Gallagher from the Battle of the Sexes, which he is currently commentating at in Gibraltar! Of course, he also goes over the highlights of the Tata Steel Chess Tournament. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-battle-of-the-sexes",
-         "pubDate" : "Wed, 26 Jan 2022 19:00:00 +0100",
-         "title" : "The Weekly Show: Battle of the Sexes"
-      },
-      {
          "description" : "GM Magnus Carlsen maintained his half-point lead at the 2022 Tata Steel Chess Tournament with three rounds to go. The world champion drew in just 20 minutes with GM Sergey Karjakin and then saw GM Anish Giri splitting the point with GM Jan-Krzyszt...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2018,28 +2042,12 @@ news_feed (
          "title" : "Tata Steel Masters R08: Mamediarov pulls level with Carlsen"
       },
       {
-         "description" : "GM Magnus Carlsen and GM Shakhriyar Mamedyarov are tied for first place after eight rounds at the&#38;nbsp;2022 Tata Steel Chess Tournament and happen to be playing each other in the next round on Tuesday. GM Anish Giri and GM Vidit Gujrathi both won ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-8",
-         "pubDate" : "Sun, 23 Jan 2022 11:03:00 -0800",
-         "title" : "Tata Steel Chess 2022 R8: Mamedyarov Catches Carlsen Before Clash After Rest Day"
-      },
-      {
          "description" : " Magnus Carlsen and Shakhriyar Mamedyarov lead the Tata Steel Masters after 8 of the 13 rounds. They lead by half a point from Anish Giri and Vidit Gujrathi going into the second rest day. Carlsen drew with the black pieces against Sam Shankland. Carlsen played the Von Hennig-Schara Gambit but things didn't get too crazy, after 13...Nd5 the key point is that 16.Rc1 Nxa2 is winning for black, something missed by Shankland initially. The game was balanced after that although the engines think black has a tiny something after 31...Qd5 - as played the game was quickly drawn. Shakhriyar Mamedyarov meanwhile won a sharp English against R Praggnanandhaa that left known theory very early on after hi",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-and-mamedyarov-lead-the-tata-steel-masters-after-8-rounds",
          "pubDate" : "Sun, 23 Jan 2022 21:25:00 +0400",
          "title" : "Carlsen and Mamedyarov lead the Tata Steel Masters after 8 rounds - 8"
-      },
-      {
-         "description" : "Exciting changes are coming to Titled Tuesday starting on February 1. We are now offering two tournaments and a big bump to the prizes: we&#39;ll be dishing out $5,000 every Tuesday&#38;mdash;$2,500 per tournament and more than $250,000 per year! That&#39;s m...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/titled-tuesday-doubles-tournaments-and-triples-prizes",
-         "pubDate" : "Sun, 23 Jan 2022 08:04:00 -0800",
-         "title" : "Titled Tuesday Doubles Tournaments, Triples Prizes"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89075706.cms\" />Indian Grandmaster MR Lalith Babu emerged victorious in the Marienbad Open 2022 chess tournament here.",
@@ -2128,14 +2136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1536",
          "pubDate" : "Fri, 21 Jan 2022 23:20:32 +0000",
          "title" : "Tata Steel Masters: Thee on top after Round 6"
-      },
-      {
-         "description" : " Magnus Carlsen joined Vidit Gujrathi and Shakhriyar Mamedyarov in the lead of the Tata Steel Masters and 6 of the 13 rounds. Carlsen defeated Richard Rapport in a Catalan where he grabbed an consolidated a passed a-pawn after which he was winning. Sergey Karjakin finally managed his first win of the event after failing to convert large advantages in recent rounds. Karjakin beat Jorden van Foreest in a sharp Two Knights where his opening advantage became decisive once the Queens came off. Anish Giri beat Fabiano Caruana when the game turned round in a few moves from being very favorable to Caruana to winning for Giri and then swung back to level in time trouble before Caruana blundered the e",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-replaces-rapport-in-the-joint-lead-of-tata-steel-after-beating-him-in-round-6",
-         "pubDate" : "Fri, 21 Jan 2022 21:19:00 +0400",
-         "title" : "Carlsen replaces Rapport in the joint lead of Tata Steel after beating him in Round 6 - 6"
       }
    ]
 }
