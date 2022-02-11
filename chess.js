@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "If you think of a massively creative chess player, who comes to mind? Tal? Larsen? Creativity in chess is fairly important, to find \"impossible\" moves in a chess game. Moves, which would never cross your mind. But regularly, these are the moves which can decide a game in a beautiful way. Svitlana was taught creativity in chess by one of her coaches, and passes her knowledge on to us.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-30",
+         "pubDate" : "Fri, 11 Feb 2022 17:02:00 +0100",
+         "title" : "Ivanchuk and Shirov demonstrate creativity in chess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1569",
+         "pubDate" : "Fri, 11 Feb 2022 14:58:11 +0000",
+         "title" : "FIDE distributes €30,000 among distinguished veterans"
+      },
+      {
+         "description" : " Share!Back in 2003, I wrote an article titled, &#8220;Ten of the Best Games Played by Black Masters.&#8221; Included in that list were games such as Tate-Ashley, Tate-Yudasin and Giles-Browne, to name a few. While Paige-Formanek is shown again for prosperity, there have been some worthy additions. Following are five historic games that may have flown [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/11/black-history-month-2022-day-11-historic-games/\">Black History Month 2022-Day 11: Historic Games!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/11/black-history-month-2022-day-11-historic-games/",
+         "pubDate" : "Fri, 11 Feb 2022 14:30:13 +0000",
+         "title" : "Black History Month 2022-Day 11: Historic Games!"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
+         "pubDate" : "Fri, 11 Feb 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : "The incidents span more than ten years and at least 15 victims; issue is being investigated by Latvian police.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33264972/dronavalli-harika-women-chess-players-targeted-sexually-abusive-mails?device=featurephone",
+         "pubDate" : "Fri, 11 Feb 2022 07:52:55 -0500",
+         "title" : "Harika among women chess players targeted by sexually abusive mails"
+      },
+      {
          "description" : " The trip to the Lifeline Bookfair was almost incident free* and I picked up a few books while I was there. As usual I came home with some books I already owned, although in this case 2 of the 3 books were deliberate purchases (the third was an American reprint of The Mammoth Book of Chess, under another name). One book which I definitely did not own was \"Assess Your Chess Fast\" by GM Alberic O'Kelly de Galway. Published in 1976, it followed the tried and true teaching method of devoting a chapter to a specific topic, and then providing test positions at the end. The topics were pretty mixed up, starting with \"The Ferocious Pawns\" and ending with \"Hidden Strategical Possibilities in the Midd",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -114,7 +154,7 @@ news_feed (
          "title" : "Aronian and Nakamura are the first FIDE Grand Prix semifinalists"
       },
       {
-         "description" : " Share!39One powerful piece of African history is often forgotten or ignored and it has a tremendous relationship to chess. It is known that the Moors brought the Persian variant &#8220;Shatranj&#8221; into Spain after the incursion of Tariq ibn-Ziyad. Tariq commanded his 7,000 soldiers across the strait into al-Andalus (modern-day Spain) and landed on Gebal al-Tariq [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/10/black-history-month-2022-day-10-the-moors-of-spain/\">Black History Month 2022-Day 10: The Moors of Spain</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " One powerful piece of African history is often forgotten or ignored and it has a tremendous relationship to chess. It is known that the Moors brought the Persian variant &#8220;Shatranj&#8221; into Spain after the incursion of Tariq ibn-Ziyad. Tariq commanded his 7,000 soldiers across the strait into al-Andalus (modern-day Spain) and landed on Gebal al-Tariq [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/10/black-history-month-2022-day-10-the-moors-of-spain/\">Black History Month 2022-Day 10: The Moors of Spain</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/10/black-history-month-2022-day-10-the-moors-of-spain/",
@@ -1226,14 +1266,6 @@ news_feed (
          "title" : "Praggnanandhaa to feature in Airthings Masters Chess"
       },
       {
-         "description" : " Over the years, I have written a number of articles and produced videos for Black History Month. I remember one where I gave a history of how the commemoration was started in 1926 by Dr. Carter G. Woodson. Is Black History Relevant? While some criticize the idea of highlighting a particular segment of the population, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/01/black-history-month-2022-chess-day-1/\">Black History Month 2022-Day 1: Paragon Chess Club</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/01/black-history-month-2022-chess-day-1/",
-         "pubDate" : "Tue, 01 Feb 2022 16:09:10 +0000",
-         "title" : "Black History Month 2022-Day 1: Paragon Chess Club"
-      },
-      {
          "description" : "ChessBase Magazine offers a window to the world of professional chess and it also provides arsenal for the tournament player. Issue 205 offers games from several major events, FIDE Grand Swiss Tournament, USA and Russian Championships and European Team Championship, 2287 games (21 annotated), 11 opening surveys, lectures and exercises for training. Annotators include Alireza Firouzja, Anish Giri and Nikita Vitiugov among others. The icing on the cake is the Robert H&uuml;bner Special, a tribute to a great player who crossed swords with the best of them all, from Bobby Fischer to Garry Kasparov. Our columnist Nagesh Havanur takes a look. | Photo: Magnus Carlsen vs Alireza Firouzja, Norway Che",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1850,22 +1882,6 @@ news_feed (
          "title" : "Novelty blitz format?"
       },
       {
-         "description" : "With Omicron on the rise and social gatherings discouraged, leasing 2,000 square feet for in-person chess seems risky. Yet the gamble paid off for the Texas Chess Center, which attracted 67 players to its grand opening on January 22, 2022. WIM Alexey Root reports.| Photo: Christopher Tetzlaff",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/texas-chess-center-grand-opening",
-         "pubDate" : "Wed, 26 Jan 2022 13:14:36 +0100",
-         "title" : "Texas Chess Center Grand Opening"
-      },
-      {
-         "description" : "Round two on Tuesday 25 January of the #GibChess \"Battle of the Sexes\" in Gibraltar, a ten-round Scheveningen match between ten male and ten female players, proved to be an exact repeat of the medicine dished out by the women to the men in round one - a 6&frac12;-3&frac12; drubbing for the male sex. John Saunders reports, with a description of the games and interesting video interviews with the players. | Photos: John Saunders",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-2",
-         "pubDate" : "Wed, 26 Jan 2022 12:55:18 +0100",
-         "title" : "Battle of the Sexes, Round 2: Team Pia wins again"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89130551.cms\" />Indian Grandmaster Vidit Gujrathi drew with Richard Rapport of Hungary in the ninth round to be in joint third place with 5.5 points in the Tata Steel Masters chess tournament here.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2120,14 +2136,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-replaces-rapport-in-the-joint-lead-of-tata-steel-after-beating-him-in-round-6",
          "pubDate" : "Fri, 21 Jan 2022 21:19:00 +0400",
          "title" : "Carlsen replaces Rapport in the joint lead of Tata Steel after beating him in Round 6 - 6"
-      },
-      {
-         "description" : "In previous Saturday chess columns I have referred to Dante's use of the game in his cosmological system, to describe the number of angels in the heavens. The formula is that of a piece of corn placed on a corner of the chessboard, and doubled on each square thereafter. This operation results in two to []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/dante-steve-baker-and-checkmate/",
-         "pubDate" : "Fri, 21 Jan 2022 14:22:03 +0000",
-         "title" : "Dante, Steve Baker and checkmate"
       }
    ]
 }
