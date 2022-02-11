@@ -10,6 +10,22 @@ news_feed (
          "title" : "Bishop or Fool"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> During the <strong>ECU</strong> board meeting in Thessaloniki, a team played a hybrid match via <strong>Tornelo</strong> against a team from the <strong>Berlin Chess Association</strong> that ended in a 2:2. Five seconds per move increment turned out too little, as one player on each side overstepped the time. <strong>Millennium</strong>'s Supreme Tournament 55 electronic boards worked well. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/hybrid-test-with-ecu/",
+         "pubDate" : "Fri, 11 Feb 2022 12:51:22 +0100",
+         "title" : "Hybrid test with ECU"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Austrian Chess Federation</strong> has moved its headquarter from Graz to the Haus des Sports in Vienna and hired its top player <strong>Markus Ragger</strong> as Sport Director and <strong>Annika Fr&ouml;wis</strong>, a female national team player, as office manager. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/ragger-is-sport-director/",
+         "pubDate" : "Fri, 11 Feb 2022 12:45:31 +0100",
+         "title" : "Ragger is Sport Director"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel gives insight on opening preparation at the highest level of chess. How do the pros train for tournaments? From deep opening preparation to middle game ideas, learn how to best equip yourself for competition. The mysterious masked Josh uses Daniil Dubov's Caro-Kann against Vincent Keymer at the 2022 FIDE Grand Prix Berlin as Exhibit A. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prep-caro-kann-dubov-prepare-pro-gm-josh-friedel\"><img src",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -520,22 +536,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/more-than-fifty-players-harassed-by/",
          "pubDate" : "Mon, 07 Feb 2022 22:16:55 +0100",
          "title" : "More than fifty players harassed by pornographic letters"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Bidders for the <strong>World Championship 2023</strong> are <a href=\"https://www.fide.com/news/1562\">expected to cover</a> a € 2 million prizefund and all organisational expenses without knowing the players since the deadline is 7 June. <strong>FIDE</strong> is also <a href=\"https://www.fide.com/news/1541\">looking for organisers</a> for the overdue <strong>Women Candidates Tournament</strong> and <strong>Women's Grand Prix</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/fide-invites-bids/",
-         "pubDate" : "Mon, 07 Feb 2022 21:03:55 +0100",
-         "title" : "FIDE invites bids"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <a href=\"https://worldchesshof.org/exhibit/mind-art-experience\">new exhibition</a> <strong>Mind, Art, Experience</strong> at the <strong>World Chess Hall of Fame</strong> in Saint Louis brings together more than 120 of the finest exhibits from the last ten years. It will remain on show until the end of July with several top events, including the <strong>Sinquefield Cup</strong> in May, happening at the <strong>Saint Louis Chess Club</strong> during its duration. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/best-of-exhibition-in-st-louis/",
-         "pubDate" : "Mon, 07 Feb 2022 20:53:01 +0100",
-         "title" : "Best of-exhibition in St. Louis"
       },
       {
          "description" : " <p class=\"lead\">Round 4 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with 3 decisive games and some very crucial draws. Nakamura, Aronian, and So are the sole leaders in their groups, while Wojtaszek shares the top with Fedoseev. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-2.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220207145513_IMG_0956.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220207145613_IMG_0959.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <im",
@@ -2128,22 +2128,6 @@ news_feed (
          "link" : "https://www.thearticle.com/dante-steve-baker-and-checkmate/",
          "pubDate" : "Fri, 21 Jan 2022 14:22:03 +0000",
          "title" : "Dante, Steve Baker and checkmate"
-      },
-      {
-         "description" : " We'll wrap up our look at skewers this week by looking at the most powerful skewer of all, one involving the King. If you recall from the last two articles on this specific tactic, a skewer is similar to a pin, in that there are three pieces involved; the piece doing the skewer, the skewered <a href=\"https://chessimprover.com/a-foundation-for-beginners-forty-nine/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Forty Nine\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-forty-nine/\">A Foundation for Beginners Forty Nine</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">Th",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-forty-nine/",
-         "pubDate" : "Fri, 21 Jan 2022 12:50:58 +0000",
-         "title" : "A Foundation for Beginners Forty Nine"
-      },
-      {
-         "description" : " The local ACT Chess Clubs are starting up again after the holiday break. Both the Tuggeranong and Canberra clubs started this week, while the Gungahlin Eastlakes Chess Club starts their year with the 2022 ACT Lightning Championship. The will be a 9 round event with a time limit of all moves in 5 minutes. The venue is the Gungahlin Eastlake Football Club, Hinder St, Gungahlin. The date is Tuesday 1st February. Start time is 7:00pm and entry fee is $10 ($5 Under 18). It is open to all ACT Chess Association Members. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/2022-act-blitz-championship.html",
-         "pubDate" : "Fri, 21 Jan 2022 12:49:00 +0000",
-         "title" : "2022 ACT Blitz Championship"
       }
    ]
 }
