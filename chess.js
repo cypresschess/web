@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
+         "pubDate" : "Sat, 12 Feb 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/PtuGpLVK-t0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-semi-final-game-1-broadcast/",
+         "pubDate" : "Sat, 12 Feb 2022 13:30:00 +0000",
+         "title" : "FIDE Grand Prix Semi-final Game 1 Broadcast"
+      },
+      {
+         "description" : "The Airthings Masters, the first event on the $1.6 million 2022 Meltwater Champions Chess Tour, kicks off one week today on Saturday 19th February at 18:00 CET. The pairings are out for the 4-day Prelims, with World Chess Champion Magnus Carlsen starting with games against four of his biggest current and future rivals, Vladislav Artemiev, Nodirbek Abdusattorov, Andrey Esipenko and Ian Nepomniachtchi.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/airthings-masters-pairings-tough-start-for-magnus",
+         "pubDate" : "Sat, 12 Feb 2022 13:13:17 +0000",
+         "title" : "Airthings Masters pairings: Tough start for Magnus"
+      },
+      {
          "description" : "The \"Lucky bag\" of ChessBase Magazine Extra has never been so extensively and diversely filled as in Extra #205! The new issue offers no less than 73 annotated games, including two tricky training exercises by GM Sasikiran. GM Kapnisis presents various opening ideas (\"Scotch advance\", \"Benoni strikes\", \"Petroff rook shifts\", \"English castling\"), plus analyses by Edouard, Krasenkow, Sumets and many more. However, Imre Hera's analysis of his game against his compatriot Zoltan Almasi from the Hungarian League - \"The brilliancy\" of this issue - is right at the top of the \"Lucky bag\". For his success against the higher-rated opponent, Hera employed a surprise in the popular London System: after 1",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -930,14 +954,6 @@ news_feed (
          "title" : "Nakamura Beats Esipenko Who Blunders a Game in Round 2 of the FIDE Grand Prix"
       },
       {
-         "description" : " <p class=\"lead\">We all remember the World Champion Magnus Carlsen \"sleeping\" in his Championship match against Anand in 2014. Esipenko is \"sleeping\" as well right before his game against Hikaru Nakamura in Round 2 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022.</a> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2022-Twitter-WC-&-FOA-(1).jpg\" width=\"1600\" height=\"900\" alt=\"\" /> </div> During his 2014 World Championship match against Viswanathan Anand, Carlsen created a buzz on Twitter after a picture of him dozing off appeared on social media. <a href=\"https://twitter.com/TheFalseNo9/status/534717155703418881?ref_src=twsrc%5Etf",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/esipenko-is-following-in-carlsens-footsteps-or-sleeping-routine/",
-         "pubDate" : "Sat, 05 Feb 2022 15:55:31 +0000",
-         "title" : "Esipenko (Probably) Falls Asleep During the Game, Loses to Nakamura"
-      },
-      {
          "description" : "On behalf of All India Chess Federation, I congratulate all the participants and State Associations for their overwhelming support for the successful completion of the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1594,14 +1610,6 @@ news_feed (
          "title" : "Carlsen wins the Tata Steel Masters and Erigaisi the Challengers both with a round to spare - 12"
       },
       {
-         "description" : "Magnus Carlsen scored a brilliant win over his 2018 World Championship challenger Fabiano Caruana to win a record 8th Tata Steel Masters title. Shakhriyar Mamedyarov gratefully accepted a blunder by Vidit to join Richard Rapport in second place a point behind, but when it was announced that Daniil Dubov couldn't play Magnus on Sunday despite a 2nd, negative, PCR test, the title was confirmed. Sam Shankland stunned Sergey Karjakin in just 26 moves, while Arjun Erigaisi will play in the 2023 Tata Steel Masters after cruising to victory with 9.5/12 in the Challengers.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-8th-wijk-aan-zee-title",
-         "pubDate" : "Sat, 29 Jan 2022 18:03:24 +0000",
-         "title" : "Magnus Carlsen wins 8th Wijk aan Zee title"
-      },
-      {
          "description" : "The #GibChess Battle of the Sexes reached its halfway point at Gibraltar's Garrison Library on Friday 28 January with a tense 5-5 draw in round five, with the women having White on all boards. The women thus still lead the men by a single point, with 25&frac12; points to the men's 24&frac12;. The match is beautifully poised for a tense second half when play resumes on Sunday | Report and photos by John Saunders",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1858,14 +1866,6 @@ news_feed (
          "title" : "FIDE holds round table on \"Chess in Prisons\" project"
       },
       {
-         "description" : "After two tough rounds in which they were heavily defeated, the men's team fought back with a vengeance in round three of the #GibChess Battle of the Sexes Tournament and won by the impressive margin of 7-3 in this men versus women classical chess event, played at Gibraltar's Garrison Library on Wednesday 26 January. The match score is thus now 16-14 in favour of the women but with the men close behind with a long way to go. | Report and photos by John Saunders",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-3",
-         "pubDate" : "Thu, 27 Jan 2022 11:05:27 +0100",
-         "title" : "Battle of the Sexes, Round 3: The men bounce back"
-      },
-      {
          "description" : "The European Chess Union launches the campaign &#8220;A Chessboard for All&#8221; with the aim of donating specially made chessboards to blind or visually impaired children and young people throughout Europe. The donation will also be distributed to general schools and special schools for inclusive educational activities. Distribution will begin in February 2022. The programme is inspired by the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/a-chess-board-for-all/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2088,22 +2088,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-leads-the-tata-steel-masters-after-7-rounds",
          "pubDate" : "Sat, 22 Jan 2022 23:02:00 +0400",
          "title" : "Carlsen leads the Tata Steel Masters after 7 rounds - 7"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1537",
-         "pubDate" : "Sat, 22 Jan 2022 15:40:10 +0000",
-         "title" : "Chess Federation of Sri Lanka celebrates 50th anniversary"
-      },
-      {
-         "description" : " While I think 15 minutes chess hits the sweet spot between the thud and blunder of blitz, and the longer thinking of classical chess, it can let players get away from bad positions a little easily. If you can keep up the threats (even material down), your opponent may run short of time (or rush to avoid this), increasing the chance of a blunder. Todays example comes from Street Chess, where White walked into a fairly well known trap, but then put Black under so much pressure that they cracked. <br /> <b>Chibnall,Alana - Radisich,Matt [A51]</b><br />Street Chess 22.01.2022 <script>new PgnViewer( { boardName: \"game1304\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.a3 d6 5",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/superficial-chess.html",
-         "pubDate" : "Sat, 22 Jan 2022 12:31:00 +0000",
-         "title" : "Superficial chess?"
       }
    ]
 }
