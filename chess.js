@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The \"Lucky bag\" of ChessBase Magazine Extra has never been so extensively and diversely filled as in Extra #205! The new issue offers no less than 73 annotated games, including two tricky training exercises by GM Sasikiran. GM Kapnisis presents various opening ideas (\"Scotch advance\", \"Benoni strikes\", \"Petroff rook shifts\", \"English castling\"), plus analyses by Edouard, Krasenkow, Sumets and many more. However, Imre Hera's analysis of his game against his compatriot Zoltan Almasi from the Hungarian League - \"The brilliancy\" of this issue - is right at the top of the \"Lucky bag\". For his success against the higher-rated opponent, Hera employed a surprise in the popular London System: after 1",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/strong-resource-in-the-london-system",
+         "pubDate" : "Sat, 12 Feb 2022 12:00:00 +0100",
+         "title" : "Strong resource in the London System"
+      },
+      {
+         "description" : "Did Sherlock Holmes play chess? In the canonical novels and short stories there are references to chess in three of his adventures: \"The Blanched Soldier\", \"The Mazarin Stone\" and \"The Retired Colourman\". Meanwhile, in many of the movie and stage adaptations, Holmes is standardly credited with fiendish chess skills, often pitted, of course, against his arch-nemesis, Professor Moriarty. I have studied the []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/norwegian-clue/",
+         "pubDate" : "Sat, 12 Feb 2022 10:00:09 +0000",
+         "title" : "Norwegian clue"
+      },
+      {
+         "description" : " \"That's what chess is. You train so hard and then everything depends on that crucial few seconds of decision making\". Wesley So's final reflection after losing his semifinal sums up very well the extreme difficulty of being an elite chess professional. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220211150149_IMG_1710-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220211150325_IMG_1715-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220211150240_IMG_1713-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/berlin-grand-prix-fide-the-semifinals-are-set/",
+         "pubDate" : "Sat, 12 Feb 2022 09:02:11 +0000",
+         "title" : "Berlin Grand Prix FIDE: the semifinals are set"
+      },
+      {
          "description" : "While you are looking this rich diagram position - would you be so kind to show why 22...Kxc8?? loses the game for Black?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "One false move!"
       },
       {
-         "description" : " Share! Frank &#8220;ChessCoach&#8221; JohnsonPhoto by Hyperluxe Hyperluxe is partnering with chess celebrity Frank &#8220;ChessCoach&#8221; Johnson to provide critical guidance in chess culture and tournament organizing. JACKSON, MS, USA, February 10, 2022 /EINPresswire.com/ &#8212; Hyperluxe Gaming which delivers tournament-style Esports is now turning its attention to the world of chess. Competitive chess is a standalone ecosystem. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/11/frank-johnson-hyperluxe-gg-esports-initiative/\">Frank Johnson &#038; Hyperluxe.gg eSports Initiative</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog",
+         "description" : " Share!26 Frank &#8220;ChessCoach&#8221; JohnsonPhoto by Hyperluxe Hyperluxe is partnering with chess celebrity Frank &#8220;ChessCoach&#8221; Johnson to provide critical guidance in chess culture and tournament organizing. JACKSON, MS, USA, February 10, 2022 /EINPresswire.com/ &#8212; Hyperluxe Gaming which delivers tournament-style Esports is now turning its attention to the world of chess. Competitive chess is a standalone ecosystem. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/11/frank-johnson-hyperluxe-gg-esports-initiative/\">Frank Johnson &#038; Hyperluxe.gg eSports Initiative</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/bl",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/11/frank-johnson-hyperluxe-gg-esports-initiative/",
@@ -912,14 +936,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/esipenko-is-following-in-carlsens-footsteps-or-sleeping-routine/",
          "pubDate" : "Sat, 05 Feb 2022 15:55:31 +0000",
          "title" : "Esipenko (Probably) Falls Asleep During the Game, Loses to Nakamura"
-      },
-      {
-         "description" : " Welcome to the FIDE World Chess Grand Prix Day Two Live broadcast: <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/VSiNMZ1Ib8g?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/grand-prix-day-2-live-broadcast/",
-         "pubDate" : "Sat, 05 Feb 2022 13:14:47 +0000",
-         "title" : "Grand Prix Day 2: Live Broadcast"
       },
       {
          "description" : "On behalf of All India Chess Federation, I congratulate all the participants and State Associations for their overwhelming support for the successful completion of the",
@@ -1858,14 +1874,6 @@ news_feed (
          "title" : "A Chess Board for All!"
       },
       {
-         "description" : "In his \"Game of the Week\" show #500 Merijn van Delft focuses on the tournament in Wijk aan Zee, and especially on Magnus Carlsen's fine win against Shakhryar Mamedyarov in the Catalan. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-500",
-         "pubDate" : "Thu, 27 Jan 2022 07:23:22 +0100",
-         "title" : "Game of the Week #500:"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2096,22 +2104,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/superficial-chess.html",
          "pubDate" : "Sat, 22 Jan 2022 12:31:00 +0000",
          "title" : "Superficial chess?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1533",
-         "pubDate" : "Sat, 22 Jan 2022 11:04:47 +0000",
-         "title" : "Five FIDE Trainer Seminars to be held in India"
-      },
-      {
-         "description" : "In the summer of 1922, a century ago, London played host to a galaxy of international chess stars, including Alexander Alekhine, Akiba Rubinstein and Efim Bogoljubov. But the most incandescent amongst this stellar congregation was the Cuban genius, Jos&eacute; Ra&uacute;l Capablanca. The previous year Capa, as he was widely known, had crushed the incumbent world []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/a-hundred-years-of-exactitude-jose-raul-capablanca/",
-         "pubDate" : "Sat, 22 Jan 2022 09:32:21 +0000",
-         "title" : "A hundred years of exactitude: Jos&eacute; Ra&uacute;l Capablanca"
       }
    ]
 }
