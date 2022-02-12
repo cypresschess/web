@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "While you are looking this rich diagram position - would you be so kind to show why 22...Kxc8?? loses the game for Black?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/one-false-move",
+         "pubDate" : "Sat, 12 Feb 2022 09:00:00 +0100",
+         "title" : "One false move!"
+      },
+      {
          "description" : " Share! Frank &#8220;ChessCoach&#8221; JohnsonPhoto by Hyperluxe Hyperluxe is partnering with chess celebrity Frank &#8220;ChessCoach&#8221; Johnson to provide critical guidance in chess culture and tournament organizing. JACKSON, MS, USA, February 10, 2022 /EINPresswire.com/ &#8212; Hyperluxe Gaming which delivers tournament-style Esports is now turning its attention to the world of chess. Competitive chess is a standalone ecosystem. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/11/frank-johnson-hyperluxe-gg-esports-initiative/\">Frank Johnson &#038; Hyperluxe.gg eSports Initiative</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -10,11 +18,11 @@ news_feed (
          "title" : "Frank Johnson & Hyperluxe.gg eSports Initiative"
       },
       {
-         "description" : "GM Leinier Dominguez and GM Richard Rapport defeated GM Wesley So and GM Radoslaw Wojtaszek respectively in the rapid tiebreak games with identical 1.5-0.5 victories to reach the semifinals of the 2022 FIDE Grand Prix in Berlin. Ironically, they h...",
+         "description" : "GM Leinier Dominguez and GM Richard Rapport defeated GM Wesley So and GM Radoslaw Wojtaszek respectively in the rapid tiebreak games with identical 1.5-0.5 victories to reach the semifinals of the 2022 FIDE Grand Prix in Berlin. Ironically, the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-group-tiebreaks",
-         "pubDate" : "Fri, 11 Feb 2022 14:37:23 -0800",
+         "pubDate" : "Fri, 11 Feb 2022 14:37:00 -0800",
          "title" : "2022 FIDE Grand Prix Berlin Group Tiebreaks: Dominguez, Rapport Qualify With Swift Victories"
       },
       {
@@ -1858,14 +1866,6 @@ news_feed (
          "title" : "Game of the Week #500:"
       },
       {
-         "description" : "Round 10 of the Tata Steel Masters tournament saw the two main contenders for first place, Magnus Carlsen and Anish Giri, drawing their games, thus keeping the status quo atop the standings table. There was no lack of excitement on the remaining boards, though, as Richard Rapport, Andrey Esipenko, Nils Grandelius and Praggnanandhaa (pictured) all managed to score full points. | Photo: Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r10",
-         "pubDate" : "Thu, 27 Jan 2022 00:10:00 +0100",
-         "title" : "Tata Steel R10: Plenty of action"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2112,14 +2112,6 @@ news_feed (
          "link" : "https://www.thearticle.com/a-hundred-years-of-exactitude-jose-raul-capablanca/",
          "pubDate" : "Sat, 22 Jan 2022 09:32:21 +0000",
          "title" : "A hundred years of exactitude: Jos&eacute; Ra&uacute;l Capablanca"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89054013.cms\" />Indian Grandmasters Vidit Santhosh Gujrathi and R Praggnanandhaa drew their games in round six of the prestigious Tata Steel Masters chess tournament here.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-masters-vidit-gujrathi-remains-among-the-leaders/articleshow/89054013.cms",
-         "pubDate" : "Sat, 22 Jan 2022 11:18:36 +0530",
-         "title" : "Tata Steel Masters: Vidit Gujrathi remains among the leaders"
       }
    ]
 }
