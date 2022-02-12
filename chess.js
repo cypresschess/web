@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! Frank &#8220;ChessCoach&#8221; JohnsonPhoto by Hyperluxe Hyperluxe is partnering with chess celebrity Frank &#8220;ChessCoach&#8221; Johnson to provide critical guidance in chess culture and tournament organizing. JACKSON, MS, USA, February 10, 2022 /EINPresswire.com/ &#8212; Hyperluxe Gaming which delivers tournament-style Esports is now turning its attention to the world of chess. Competitive chess is a standalone ecosystem. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/11/frank-johnson-hyperluxe-gg-esports-initiative/\">Frank Johnson &#038; Hyperluxe.gg eSports Initiative</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/11/frank-johnson-hyperluxe-gg-esports-initiative/",
+         "pubDate" : "Fri, 11 Feb 2022 23:41:45 +0000",
+         "title" : "Frank Johnson & Hyperluxe.gg eSports Initiative"
+      },
+      {
+         "description" : "GM Leinier Dominguez and GM Richard Rapport defeated GM Wesley So and GM Radoslaw Wojtaszek respectively in the rapid tiebreak games with identical 1.5-0.5 victories to reach the semifinals of the 2022 FIDE Grand Prix in Berlin. Ironically, they h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-group-tiebreaks",
+         "pubDate" : "Fri, 11 Feb 2022 14:37:23 -0800",
+         "title" : "2022 FIDE Grand Prix Berlin Group Tiebreaks: Dominguez, Rapport Qualify With Swift Victories"
+      },
+      {
+         "description" : "Wesley So's hopes of reaching the 2022 Candidates Tournament suffered a heavy blow as he lost his tiebreak against Leinier Dominguez, who now plays Levon Aronian in the semi-finals of the Berlin FIDE Grand Prix. Leinier had lost to Wesley in their classical game, and it was the same story in the other tiebreak. Richard Rapport lost to Radek Wojtaszek in the first round but bounced back to win the tiebreak and set up a semi-final clash against Hikaru Nakamura. Richard is the only non-US player remaining in the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-7-so-knocked-out-as-dominguez-rapport-advance",
+         "pubDate" : "Fri, 11 Feb 2022 21:21:53 +0000",
+         "title" : "Berlin Grand Prix 7: So out as Dominguez & Rapport advance"
+      },
+      {
          "description" : "The two players who won their round-6 games to force tiebreaks in their respective groups managed to also win their 2-game rapid matches on Friday to reach the semifinals of the FIDE Grand Prix in Berlin. Leinier Dominguez knocked out Wesley So and will face an in-form Levon Aronian, while Rapport eliminated Radoslaw Wojtaszek and thus gained the right to face Hikaru Nakamura in semis. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,7 +98,7 @@ news_feed (
          "title" : "FIDE distributes €30,000 among distinguished veterans"
       },
       {
-         "description" : " Share!Back in 2003, I wrote an article titled, &#8220;Ten of the Best Games Played by Black Masters.&#8221; Included in that list were games such as Tate-Ashley, Tate-Yudasin and Giles-Browne, to name a few. While Paige-Formanek is shown again for prosperity, there have been some worthy additions. Following are five historic games that may have flown [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/11/black-history-month-2022-day-11-historic-games/\">Black History Month 2022-Day 11: Historic Games!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Back in 2003, I wrote an article titled, &#8220;Ten of the Best Games Played by Black Masters.&#8221; Included in that list were games such as Tate-Ashley, Tate-Yudasin and Giles-Browne, to name a few. While Paige-Formanek is shown again for prosperity, there have been some worthy additions. Following are five historic games that may have flown [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/11/black-history-month-2022-day-11-historic-games/\">Black History Month 2022-Day 11: Historic Games!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/11/black-history-month-2022-day-11-historic-games/",
@@ -1154,14 +1178,6 @@ news_feed (
          "title" : "Battle of the Sexes: Women within striking distance"
       },
       {
-         "description" : " Cuba has long been a country of great courage and pride. It has a proud tradition of chess in the memory of Jos&eacute; Ra&uacute;l Capablanca and has produced a number of strong players. Unbeknownst to many, there has been a strong cadre of Cuban players of African ancestry and we are honoring one today. Many [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/02/black-history-month-2022-chess-day-2/\">Black History Month 2022-Day 2: Rogelio Ortega</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/02/black-history-month-2022-chess-day-2/",
-         "pubDate" : "Thu, 03 Feb 2022 00:18:37 +0000",
-         "title" : "Black History Month 2022-Day 2: Rogelio Ortega"
-      },
-      {
          "description" : "GM Hikaru Nakamura won the first week of Arena Kings Season 9 with a score of 3-1 in the final knockout match, defeating second-place GM Jose Eduardo Martinez Alcantara with one game to spare. Nakamura also swept both Titled Tuesday events the day...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1610,14 +1626,6 @@ news_feed (
          "title" : "Survival of the Smartest?"
       },
       {
-         "description" : "Magnus Carlsen missed a win over Vidit but will still clinch tournament victory on Saturday if he draws with Fabiano Caruana while Richard Rapport fails to beat Andrey Esipenko. Magnus will now get a forfeit win in the final round after Daniil Dubov tested positive, while Anish Giri's challenge was ended by a brilliant win for Jorden van Foreest. Caruana goes into the showdown with Magnus in high spirits after a fine win over Praggnanandhaa, while in the Challengers Arjun Erigaisi needs a draw to seal a place in next year's Masters.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-11-carlsen-on-brink-after-dubov-drops-out",
-         "pubDate" : "Sat, 29 Jan 2022 11:53:18 +0000",
-         "title" : "Tata Steel 11: Carlsen on brink after Dubov drops out"
-      },
-      {
          "description" : "Videos: Mihail Marin examines the Berlin Defence with 4.d3 d6 and finds some practical advantages for Black over the standard move 4...Bc5. Christian Bauer presents a new knight sacrifice in the Voronezh Variation of the Alekhine Defence. In this issue's \"Brilliancy\" Imre Hera took the initiative against Zoltan Almasi in the London System after 1.d4 Nf6 2.Nf3 e6 3.Bf4 b6 4.e3 Be7 5.h3 c5 6.Nc3! \"The lucky bag\" is particularly well stocked with 72 (!) extensively annotated games! Among them are analyses by Vladimir Belous, Spyridon Kapnisis, Michal Krasenkow, Krishnan Sasikiran and many others. ChessBase Magazine Extra is the perfect supplement to ChessBase Magazine. Available as a single iss",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1962,14 +1970,6 @@ news_feed (
          "title" : "EP 263- Author Oliver Roeder on the Enduring Appeal of Chess and Other Games "
       },
       {
-         "description" : "GM Magnus Carlsen defeated co-leader GM Shakhriyar Mamedyarov on Tuesday to regain the sole lead at the 2022 Tata Steel Chess Tournament. GM Anish Giri is the only player trailing the world champion by half a point after scoring his fourth full po...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-9",
-         "pubDate" : "Mon, 24 Jan 2022 17:00:00 -0800",
-         "title" : "Tata Steel Chess 2022 R9: Carlsen Regains Sole Lead With Giri Trailing"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2120,22 +2120,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-masters-vidit-gujrathi-remains-among-the-leaders/articleshow/89054013.cms",
          "pubDate" : "Sat, 22 Jan 2022 11:18:36 +0530",
          "title" : "Tata Steel Masters: Vidit Gujrathi remains among the leaders"
-      },
-      {
-         "description" : " From the publisher: \"Grandmasters Kotronias and Ivanov are renowned as leading theoreticians and chess trainers. They offer a unique and world-class repertoire based on 1.d4! They advocate an ambitious approach for White, with the aim to fight for an advantage in any position. This is their first joint effort; they tackle the ever-popular Queen's Gambit <a href=\"http://britishchessnews.com/2022/01/22/your-jungle-guide-to-1-d4-aggressive-enterprise-qga-and-minors/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Your Jungle Guide to 1.d4!: Aggressive Enterprise QGA and Minors</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishc",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/01/22/your-jungle-guide-to-1-d4-aggressive-enterprise-qga-and-minors/",
-         "pubDate" : "Sat, 22 Jan 2022 00:10:25 +0000",
-         "title" : "Your Jungle Guide to 1.d4!: Aggressive Enterprise - QGA and Minors"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1536",
-         "pubDate" : "Fri, 21 Jan 2022 23:20:32 +0000",
-         "title" : "Tata Steel Masters: Thee on top after Round 6"
       }
    ]
 }
