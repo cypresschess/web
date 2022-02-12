@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Game 1 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> semifinals ended with Aronian beating Dominguez after an \"inhuman\" game, while Nakamura won Rapport with a steady and tactical play. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-6.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220212150054_IMG_1948.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220212161433_IMG_2012.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/aronian-and-nakamura-both-win-in-game-1-of-the-fide-grand-prix-2/",
+         "pubDate" : "Sat, 12 Feb 2022 19:21:39 +0000",
+         "title" : "Aronian and Nakamura win Game 1 of the FIDE Grand Prix 2022 Semifinals"
+      },
+      {
+         "description" : " Share!Hello everyone! The Chess Drum's 21st year represents the official coming of age. Last year there was a 20-year reflection highlighting critical events in each year. It was a lot of work, but it was well worth the time and effort. When you embark upon a project, you never know where it will lead. It [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/12/the-chess-drum-is-21-years-old/\">The Chess Drum is 21 years old!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/12/the-chess-drum-is-21-years-old/",
+         "pubDate" : "Sat, 12 Feb 2022 17:19:06 +0000",
+         "title" : "The Chess Drum is 21 years old!"
+      },
+      {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +66,7 @@ news_feed (
          "title" : "Berlin Grand Prix FIDE: the semifinals are set"
       },
       {
-         "description" : "While you are looking this rich diagram position - would you be so kind to show why 22...Kxc8?? loses the game for Black?",
+         "description" : "While you are looking at this rich diagram position - would you be so kind to show why 22...Kxc8?? loses the game for Black?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/one-false-move",
@@ -58,7 +74,7 @@ news_feed (
          "title" : "One false move!"
       },
       {
-         "description" : " Share!26 Frank &#8220;ChessCoach&#8221; JohnsonPhoto by Hyperluxe Hyperluxe is partnering with chess celebrity Frank &#8220;ChessCoach&#8221; Johnson to provide critical guidance in chess culture and tournament organizing. JACKSON, MS, USA, February 10, 2022 /EINPresswire.com/ &#8212; Hyperluxe Gaming which delivers tournament-style Esports is now turning its attention to the world of chess. Competitive chess is a standalone ecosystem. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/11/frank-johnson-hyperluxe-gg-esports-initiative/\">Frank Johnson &#038; Hyperluxe.gg eSports Initiative</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/bl",
+         "description" : " Frank &#8220;ChessCoach&#8221; JohnsonPhoto by Hyperluxe Hyperluxe is partnering with chess celebrity Frank &#8220;ChessCoach&#8221; Johnson to provide critical guidance in chess culture and tournament organizing. JACKSON, MS, USA, February 10, 2022 /EINPresswire.com/ &#8212; Hyperluxe Gaming which delivers tournament-style Esports is now turning its attention to the world of chess. Competitive chess is a standalone ecosystem. With [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/11/frank-johnson-hyperluxe-gg-esports-initiative/\">Frank Johnson &#038; Hyperluxe.gg eSports Initiative</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/11/frank-johnson-hyperluxe-gg-esports-initiative/",
@@ -914,6 +930,14 @@ news_feed (
          "title" : "Berlin GP: Rapport bounces back with brilliant win"
       },
       {
+         "description" : " Here is the publishers blurb from the rear cover : &#8220;A highly adventurous repertoire designed to meet 1 e4 with 1e5 and take the initiative! The main problem Black faces in answering 1 e4 with 1e5 is the plethora of opening systems available to White: the Ruy Lopez, Giuoco Piano, Scotch, Ponziani, King's Gambit, Vienna, <a href=\"http://britishchessnews.com/2022/02/06/a-disreputable-opening-repertoire/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">A Disreputable Opening Repertoire</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/02/06/a-disreputable-opening-repertoire/\">A Disreputable Opening Repert",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/02/06/a-disreputable-opening-repertoire/",
+         "pubDate" : "Sun, 06 Feb 2022 00:10:53 +0000",
+         "title" : "A Disreputable Opening Repertoire"
+      },
+      {
          "description" : "The second round of the the 2022 FIDE Grand Prix produced fierce battles in all the games except from Group C. GM Hikaru Nakamura, GM Radoslaw Wojtaszek, GM Levon Aronian, and GM Leinier Dominguez emerged as sole leaders in their respective groups...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -944,14 +968,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1559",
          "pubDate" : "Sat, 05 Feb 2022 20:42:06 +0000",
          "title" : "Levan Pantsulaia wins 81st Georgian Championship"
-      },
-      {
-         "description" : " <p class=\"lead\">Round 2 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> came to an end with Nakamura, Rapport, and Dominguez winning their games. After today's results Nakamura, Wojtaszek, Aronian, and Dominguez are leading their groups. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2232\" data-ratio=\"1.5\"> <img src=\"https://worldchess.com/news/pictures/A.jpg\" width=\"2232\" height=\"1488\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/FIDE_20220205-08.jpg\" width=\"2232\" height=\"1488\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/FIDE_20220205-01.jpg\" width=\"2232\" height=\"1488\" alt=\"\" /> <img src=\"https://worldchess.com",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nakamura-wins-esipenko-in-a-not-so-boring-round-2-of-the-fide-gr/",
-         "pubDate" : "Sat, 05 Feb 2022 19:47:57 +0000",
-         "title" : "Nakamura Beats Esipenko Who Blunders a Game in Round 2 of the FIDE Grand Prix"
       },
       {
          "description" : "On behalf of All India Chess Federation, I congratulate all the participants and State Associations for their overwhelming support for the successful completion of the",
@@ -1168,14 +1184,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-preview",
          "pubDate" : "Thu, 03 Feb 2022 17:00:00 +0100",
          "title" : "Fighting for the last two spots in the Candidates"
-      },
-      {
-         "description" : " St. Louis is known as a center of chess activity today with its Chess Center and Scholastic Center and as the host of the World Chess Hall of Fame. It is also a magnet for attracting international chess talent to several universities in the area. However, St. Louis had a history long before it became [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/03/black-history-month-2022-day-3-leroy-muhammad/\">Black History Month 2022-Day 3: Leroy Muhammad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/03/black-history-month-2022-day-3-leroy-muhammad/",
-         "pubDate" : "Thu, 03 Feb 2022 13:20:59 +0000",
-         "title" : "Black History Month 2022-Day 3: Leroy Muhammad"
       },
       {
          "description" : " Eastlakes Gungahlin Chess Club is starting its first long time control event this Tuesday. The Ramakrishna Memorial will be a 7 round event, played with a time limit of 60m+30s Alongside this event will be informal 30 minute games, which will be suitable for new players who wish to learn the basics of tournament chess play (using clocks, recording moves etc). The full details for the club can be found at <a href=\"https://sites.google.com/site/belconnenucchessclub\">https://sites.google.com/site/belconnenucchessclub</a> (Scroll down for the Calendar) The first night at any chess club can be daunting for new players. I can remember getting towelled up early on the Woden Chess Club (in 1982), b",
@@ -2080,14 +2088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1538",
          "pubDate" : "Sun, 23 Jan 2022 00:12:29 +0000",
          "title" : "Tata Steel Masters R07: Carlsen moves into the lead"
-      },
-      {
-         "description" : " Magnus Carlsen leads the Tata Steel Masters by half a point from Shakhriyar Mamedyarov after 7 rounds. Carlsen defeated R Praggnanandhaa in 34 moves. After the game Carlsen was pleased with the way he built up his advantage but not the way he let the position then get out of control - 22...Qe6 (22...Qc6 was better) 23.Nxc5 and 28...c4 (28...Bb7 was better) 29.Bxg7! were the two main chances Praggnanandhaa missed. Richard Rapport and Shakhriyar Mamedyarov drew a Sicilian that threatened to get exciting in 29 moves. Jorden Van Foreest inflicted Vidit Gujrathi's first defeat on him and got back to 50% in the process. A topical line of the Nimzo Indian was played with 10.Ne5!? being a practical",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-leads-the-tata-steel-masters-after-7-rounds",
-         "pubDate" : "Sat, 22 Jan 2022 23:02:00 +0400",
-         "title" : "Carlsen leads the Tata Steel Masters after 7 rounds - 7"
       }
    ]
 }
