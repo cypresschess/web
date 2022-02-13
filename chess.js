@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! This day marks 21 years for The Chess Drum and a continued effort to show the universality of chess. More specifically it is a platform to show the contributions of players of African descent. Why is there a need for this? Decades ago, chess media was very myopic in terms of coverage. The focus [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/12/black-history-month-2022-day-12-the-chess-drum/\">Black History Month 2022-Day 12: The Chess Drum</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/12/black-history-month-2022-day-12-the-chess-drum/",
+         "pubDate" : "Sun, 13 Feb 2022 00:47:14 +0000",
+         "title" : "Black History Month 2022-Day 12: The Chess Drum"
+      },
+      {
          "description" : "GM Levon Aronian and GM Hikaru Nakamura outplayed GM Leinier Dominguez and GM Richard Rapport respectively in the first game of the 2022 FIDE Grand Prix first leg semifinals in Berlin, both achieved with the white pieces in contrasting styles. The...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -34,7 +42,7 @@ news_feed (
          "title" : "Aronian and Nakamura win Game 1 of the FIDE Grand Prix 2022 Semifinals"
       },
       {
-         "description" : " Share!Hello everyone! The Chess Drum's 21st year represents the official coming of age. Last year there was a 20-year reflection highlighting critical events in each year. It was a lot of work, but it was well worth the time and effort. When you embark upon a project, you never know where it will lead. It [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/12/the-chess-drum-is-21-years-old/\">The Chess Drum is 21 years old!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Hello everyone! The Chess Drum's 21st year represents the official coming of age. Last year there was a 20-year reflection highlighting critical events in each year. It was a lot of work, but it was well worth the time and effort. When you embark upon a project, you never know where it will lead. It [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/12/the-chess-drum-is-21-years-old/\">The Chess Drum is 21 years old!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/12/the-chess-drum-is-21-years-old/",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1558",
          "pubDate" : "Fri, 04 Feb 2022 23:27:33 +0000",
          "title" : "Aronian leads the pack in the Berlin Grand Prix"
-      },
-      {
-         "description" : " Baraka Shabazz's demure pose is a testament to her confidence and poise. This photo was featured in Chicago Metro News, December 4, 1982 as part of Tony Brown Journal segment. When she burst onto the scene in the early 80s, Baraka Shabazz (pronounced sha-boz) was a curious girl who learned chess in a cabin in [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/04/black-history-month-2022-day-4-baraka-shabazz/\">Black History Month 2022-Day 4: Baraka Shabazz</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/04/black-history-month-2022-day-4-baraka-shabazz/",
-         "pubDate" : "Fri, 04 Feb 2022 15:54:46 +0000",
-         "title" : "Black History Month 2022-Day 4: Baraka Shabazz"
       },
       {
          "description" : "The ECF is running a second Endgame Challenge with IM Lorin D'Costa (above right) and GM Keith Arkell (above left). The challenge will follow a...",
