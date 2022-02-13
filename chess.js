@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chessplus</strong>, the company behind ChessTech, has <a href=\"https://chessplus.net/critical-thinking-through-chess/\">launched a new course</a> <strong>Critical Thinking through Chess</strong>, developed by <strong>Jerry Nash</strong>. Another recent addition is the course on <strong>Chess and Logic</strong> by and with <strong>Rita Atkins</strong>, for which there are <a href=\"https://www.tickettailor.com/events/chessplus/640026\">free places on 18 February</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/new-courses-for-educators/",
+         "pubDate" : "Sun, 13 Feb 2022 16:05:26 +0100",
+         "title" : "New courses for educators"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
+         "pubDate" : "Sun, 13 Feb 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/_ydQ6mFoAJQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-semi-final-game-2-broadcast/",
+         "pubDate" : "Sun, 13 Feb 2022 13:30:00 +0000",
+         "title" : "FIDE Grand Prix Semi-final Game 2 Broadcast"
+      },
+      {
          "description" : " 100 Chess Maxims (by C.D. Locock) has a number of interesting pieces of advice for new (and experienced) players. The issue I have was published prior to 1933 (based on the note by the original owner on the inside cover, and a clipping from the Daily Telegraph dated July 24 1933, which came with the book) Last last set of tips are headed \"How to improve\" and contain the following advice 95. Play, if possible, with players rather better than yourself. Write down your games and play them over afterwards, preferably with your opponent, and try to find out how your play could have been improved. Play consultation games when you get the chance.<br /><br />96. Play through the games (beginning wi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -74,6 +98,14 @@ news_feed (
          "title" : "Aronian and Nakamura pull ahead"
       },
       {
+         "description" : "Levon Aronian and Hikaru Nakamura won their first semifinal games at the FIDE Grand Prix in Berlin. Both players won with the white pieces and only need a draw on Sunday to reach the final of the GP series' first leg. They are facing two players who already came from behind, though, as both Leinier Dominguez and Richard Rapport reached the semis after getting wins on demand in the group stage's final round. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-sf1",
+         "pubDate" : "Sun, 13 Feb 2022 10:00:00 +0100",
+         "title" : "Berlin GP: Aronian and Nakamura score"
+      },
+      {
          "description" : " Share!12 This day marks 21 years for The Chess Drum and a continued effort to show the universality of chess. More specifically it is a platform to show the contributions of players of African descent. Why is there a need for this? Decades ago, chess media was very myopic in terms of coverage. The focus [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/12/black-history-month-2022-day-12-the-chess-drum/\">Black History Month 2022-Day 12: The Chess Drum</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -120,14 +152,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/12/the-chess-drum-is-21-years-old/",
          "pubDate" : "Sat, 12 Feb 2022 17:19:06 +0000",
          "title" : "The Chess Drum is 21 years old!"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
-         "pubDate" : "Sat, 12 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Games and results"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/PtuGpLVK-t0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -810,14 +834,6 @@ news_feed (
          "title" : "Safety first"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> More than fifty female players, mostly Russians, some of them teenagers, received anonymous letters with pornographic pictures and used condoms during the last ten years, culminating during the Grand Swiss in Riga a few months ago according to a <a href=\"https://meduza.io/feature/2022/02/07/eto-pohozhe-na-krik-dushi-no-ya-ne-znayu-o-chem-on-krichit\">report by the Russian investigative website</a> <strong>Meduza</strong>. that identifies a chess teacher who bought himself an IM title in Ukraine as the sender and links him to sexist statements in Russian chess forums. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/more-than-fifty-players-harassed-by/",
-         "pubDate" : "Mon, 07 Feb 2022 22:16:55 +0100",
-         "title" : "More than fifty players harassed by pornographic letters"
-      },
-      {
          "description" : " <p class=\"lead\">Round 4 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with 3 decisive games and some very crucial draws. Nakamura, Aronian, and So are the sole leaders in their groups, while Wojtaszek shares the top with Fedoseev. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-2.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220207145513_IMG_0956.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220207145613_IMG_0959.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <im",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -944,14 +960,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-suffers-hiccup-on-hunt-towards-2900",
          "pubDate" : "Sun, 06 Feb 2022 21:43:51 +0000",
          "title" : "Carlsen suffers hiccup on hunt towards 2900"
-      },
-      {
-         "description" : " <p class=\"lead\">Round 3 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022</a> had 4 decisive games and Nakamura, Wojtaszek, and Aronian being the sole leaders of their groups. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220206150853_IMG_0773.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220206150315_IMG_0762.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220206150214_IMG",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/esipenko-beats-bacrot-and-bounces-back-while-aronian-leads-group/",
-         "pubDate" : "Sun, 06 Feb 2022 19:28:55 +0000",
-         "title" : "Esipenko beats Bacrot and bounces back while Aronian leads Group C with a point ahead"
       },
       {
          "description" : "A talk with his son Lawrence got Jon Speelman thinking about how many Monty Python sketches he could link to specific chess themes. He thus came up with 'dirty forks', 'dead parrots', 'four Yorkshiremen' and 'the Ministry of silly walks'. Enjoy!",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-universities-chess-championship-2022/",
          "pubDate" : "Fri, 28 Jan 2022 07:15:44 +0000",
          "title" : "European Universities Chess Championship 2022"
-      },
-      {
-         "description" : "The 2022 Armenian Championships took place at the Tigran Petrosian Chess House in Yerevan on January 12-23. Manuel Petrosyan and Mariam Mkrtchyan won the national championships - open and women's respectively - for the first time in their careers. | Photos: Armenian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armenian-championships-2022-report",
-         "pubDate" : "Fri, 28 Jan 2022 03:05:00 +0100",
-         "title" : "Petrosyan and Mkrtchyan are the 2022 Armenian champions"
       },
       {
          "description" : "GM Magnus Carlsen continues to lead the 2022 Tata Steel Chess Tournament despite missing a win in his game with GM Vidit Gujrathi in round 11. GM Richard Rapport is half a point behind after getting a forfeit win vs. GM Daniil Dubov, who dropped o...",
