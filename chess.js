@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The two players who have shown the strongest and most stable performances throughout the event reached the final of the FIDE Grand Prix in Berlin. Levon Aronian and Hikaru Nakamura drew with black on Sunday to knock out Leinier Dominguez and Richard Rapport, respectively. Since there was no need for tiebreaks in either match, the finalists will have a rest day on Monday. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-sf2",
+         "pubDate" : "Sun, 13 Feb 2022 21:15:00 +0100",
+         "title" : "Berlin GP: Nakamura and Aronian are the well-deserved finalists"
+      },
+      {
+         "description" : " Share! GM Amon SimutowePhoto © Fred Lucas, https://www.fredlucas.eu If you were following chess in the early 2000s, there is a chance you may have heard of Zambia's Amon Simutowe. I read about this rising talent on kasparovchess.com after coming across an article by South Africa's Mark Rubery. After continuing to dig I realized I was [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/13/black-history-month-2022-day-12-amon-simutowe/\">Black History Month 2022-Day 13: GM Amon Simutowe</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/13/black-history-month-2022-day-12-amon-simutowe/",
+         "pubDate" : "Sun, 13 Feb 2022 18:01:26 +0000",
+         "title" : "Black History Month 2022-Day 13: GM Amon Simutowe"
+      },
+      {
+         "description" : " <p class=\"lead\">Game 2 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> semifinals ended with Nakamura and Aronian both achieving a 1.5-0.5 score against Rapport and Dominguez respectively and advancing to the finals. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/image.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220213150733_IMG_2147.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220213150441_IMG_2143.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://world",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nakamura-and-aronian-are-the-two-fide-grand-prix-2022-finalists/",
+         "pubDate" : "Sun, 13 Feb 2022 17:56:05 +0000",
+         "title" : "Nakamura and Aronian are the two FIDE Grand Prix 2022 finalists"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chessplus</strong>, the company behind ChessTech, has <a href=\"https://chessplus.net/critical-thinking-through-chess/\">launched a new course</a> <strong>Critical Thinking through Chess</strong>, developed by <strong>Jerry Nash</strong>. Another recent addition is the course on <strong>Chess and Logic</strong> by and with <strong>Rita Atkins</strong>, for which there are <a href=\"https://www.tickettailor.com/events/chessplus/640026\">free places on 18 February</a>. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/new-courses-for-educators/",
          "pubDate" : "Sun, 13 Feb 2022 16:05:26 +0100",
          "title" : "New courses for educators"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
-         "pubDate" : "Sun, 13 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/_ydQ6mFoAJQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -106,7 +122,7 @@ news_feed (
          "title" : "Berlin GP: Aronian and Nakamura score"
       },
       {
-         "description" : " Share!12 This day marks 21 years for The Chess Drum and a continued effort to show the universality of chess. More specifically it is a platform to show the contributions of players of African descent. Why is there a need for this? Decades ago, chess media was very myopic in terms of coverage. The focus [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/12/black-history-month-2022-day-12-the-chess-drum/\">Black History Month 2022-Day 12: The Chess Drum</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " This day marks 21 years for The Chess Drum and a continued effort to show the universality of chess. More specifically it is a platform to show the contributions of players of African descent. Why is there a need for this? Decades ago, chess media was very myopic in terms of coverage. The focus in [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/12/black-history-month-2022-day-12-the-chess-drum/\">Black History Month 2022-Day 12: The Chess Drum</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/12/black-history-month-2022-day-12-the-chess-drum/",
@@ -946,14 +962,6 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Berlin R3: Wesley So Joins Other Leaders"
       },
       {
-         "description" : " With three PCR tests left, anything can happen yet,\" says Grischuk The day began with some online drama concerning the correct spelling of one of the players' names. Luckily enough, one of his countrymen saved the day: <a href=\"https://twitter.com/srinathchess/status/1490309650415505408\">https://twitter.com/srinathchess/status/1490309650415505408</a> Once the round began, online commentator <b>Jesse February</b> quickly noticed some interesting facts. \"We almost had the Grand Prix Attack played in the FIDE Grand Prix: we had the Berlin Defense played in Berlin, and today we have the French Defense being played by the French player!\" Most of the games started with 1.e4 (5 out of 8): two Sici",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/levon-elevates-his-game-in-berlin/",
-         "pubDate" : "Sun, 06 Feb 2022 22:52:55 +0000",
-         "title" : "Levon elevates his game in Berlin"
-      },
-      {
          "description" : "Magnus Carlsen suffered a hiccup on his hunt for the 2900 target in the Norwegian League this weekend when he had to settle for a draw against 399 points lower rated IM Geir Sune Tallaksen Ã˜stmoe. In Carlsen's absence on Sunday it got worse for his club Offerspill, as they suffered a sensational 5-1 loss against lowly-rated Nordstrand",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1104,14 +1112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r1",
          "pubDate" : "Sat, 05 Feb 2022 08:15:00 +0100",
          "title" : "Berlin GP: Dubov escapes"
-      },
-      {
-         "description" : " NM Wilbert Paige (1959-1994)Photo by Jerry Bibuld One of the most important chess events in Black history had to have been the Wilbert Paige Memorial. The tournament was held in honor of Philadelphia master Wilbert Paige who died in 1994 in his mid-30s. A product of West Philadelphia High School he teamed with Glenn Bady [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/05/black-history-month-2022-day-5-wilbert-paige-memorial/\">Black History Month 2022-Day 5: Wilbert Paige Memorial</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/05/black-history-month-2022-day-5-wilbert-paige-memorial/",
-         "pubDate" : "Sat, 05 Feb 2022 05:30:24 +0000",
-         "title" : "Black History Month 2022-Day 5: Wilbert Paige Memorial"
       },
       {
          "description" : "The first round of the 2022 FIDE Grand Prix saw three decisive games in an intense start to the group stage of the event. After the first of the total six double round-robin games to be played among players of each group, GM Vladimir Fedoseev and ...",
@@ -2088,14 +2088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1539",
          "pubDate" : "Mon, 24 Jan 2022 00:05:16 +0000",
          "title" : "Tata Steel Masters R08: Mamediarov pulls level with Carlsen"
-      },
-      {
-         "description" : " Magnus Carlsen and Shakhriyar Mamedyarov lead the Tata Steel Masters after 8 of the 13 rounds. They lead by half a point from Anish Giri and Vidit Gujrathi going into the second rest day. Carlsen drew with the black pieces against Sam Shankland. Carlsen played the Von Hennig-Schara Gambit but things didn't get too crazy, after 13...Nd5 the key point is that 16.Rc1 Nxa2 is winning for black, something missed by Shankland initially. The game was balanced after that although the engines think black has a tiny something after 31...Qd5 - as played the game was quickly drawn. Shakhriyar Mamedyarov meanwhile won a sharp English against R Praggnanandhaa that left known theory very early on after hi",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-and-mamedyarov-lead-the-tata-steel-masters-after-8-rounds",
-         "pubDate" : "Sun, 23 Jan 2022 21:25:00 +0400",
-         "title" : "Carlsen and Mamedyarov lead the Tata Steel Masters after 8 rounds - 8"
       }
    ]
 }
