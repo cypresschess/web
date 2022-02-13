@@ -2,7 +2,79 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Share! This day marks 21 years for The Chess Drum and a continued effort to show the universality of chess. More specifically it is a platform to show the contributions of players of African descent. Why is there a need for this? Decades ago, chess media was very myopic in terms of coverage. The focus [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/12/black-history-month-2022-day-12-the-chess-drum/\">Black History Month 2022-Day 12: The Chess Drum</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " 100 Chess Maxims (by C.D. Locock) has a number of interesting pieces of advice for new (and experienced) players. The issue I have was published prior to 1933 (based on the note by the original owner on the inside cover, and a clipping from the Daily Telegraph dated July 24 1933, which came with the book) Last last set of tips are headed \"How to improve\" and contain the following advice 95. Play, if possible, with players rather better than yourself. Write down your games and play them over afterwards, preferably with your opponent, and try to find out how your play could have been improved. Play consultation games when you get the chance.<br /><br />96. Play through the games (beginning wi",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/how-to-improve.html",
+         "pubDate" : "Sun, 13 Feb 2022 12:23:00 +0000",
+         "title" : "How to improve"
+      },
+      {
+         "description" : " The Dutch GM Anish Giri was hacked on Twitter on Saturday night. Apparently, the hacker attacked other grandmasters and shared some pretty nasty DMs to various accounts. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Anish-Giri-hacked-on-Twitter.jpeg\" width=\"1200\" height=\"630\" alt=\"\" /> </div> Twitter was having so much fun last night, but at the same time, everyone was so confused and worried by Giri's mean tweets. The hacker created all kinds of conflicts, shared inappropriate and sexualized info about GMs, and supposedly exposed some of the \"darkest chess secrets\". Meanwhile, Giri was trending No.8 on India's Twitter with fans and friends confirming that tha",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/cyber-attack-anish-giri-was-hacked-on-twitter/",
+         "pubDate" : "Sun, 13 Feb 2022 10:18:56 +0000",
+         "title" : "CYBER ATTACK! Anish Giri was hacked on Twitter"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 66th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about the concept of \"prophylaxis\". | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-66-prophylaxis-2",
+         "pubDate" : "Sun, 13 Feb 2022 11:00:00 +0100",
+         "title" : "Understanding before Moving 66: Prophylaxis (2)"
+      },
+      {
+         "description" : "Hikaru Nakamura and Levon Aronian both have one foot in the Berlin FIDE Grand Prix final after winning dramatic games with the white pieces on Saturday, leaving Richard Rapport and Leinier Dominguez needing to hit back on demand to force tiebreaks. Hikaru said \"you only live once\" after going for an exchange sacrifice and ultimately overcoming Richard's resistance to win in 71 moves. Levon surprised Leinier in the opening and was winning in 21 moves, though there was a wobble before he went on to convert his advantage.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-sf-1-nakamura-aronian-strike",
+         "pubDate" : "Sun, 13 Feb 2022 09:58:07 +0000",
+         "title" : "Berlin Grand Prix SF 1: Nakamura & Aronian strike"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/85sO3oxuvLs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/i-would-keep-my-team-against-magnus-i-wouldnt-have-someone-like/",
+         "pubDate" : "Sun, 13 Feb 2022 09:50:42 +0000",
+         "title" : "\"I would keep my team against Magnus. I wouldn't have someone like Kasparov on my team\" - Hikaru Nakamura"
+      },
+      {
+         "description" : " GM Levon Aronian on his dream team the US, his preference between Fischer and Petrosian, Hikaru's «retirement » and more. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/uVPnXgPb0RI?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fischer-or-petrosian-or-maybe-hikaru/",
+         "pubDate" : "Sun, 13 Feb 2022 09:49:28 +0000",
+         "title" : "Fischer or Petrosian? Or maybe Hikaru?!"
+      },
+      {
+         "description" : " Yuri Averbakh, the world's oldest grandmaster, was born 100 years ago, on 8 February 1922, making him the first grandmaster to reach three figures. Averbakh was awarded the grandmaster title in 1952, and was a world championship candidate in 1953. He scored many tournament successes in the 1950s and 1960s, his solid style making him <a href=\"https://chessimprover.com/yuri-averbakh/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Yuri Averbakh\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/yuri-averbakh/\">Yuri Averbakh</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/yuri-averbakh/",
+         "pubDate" : "Sun, 13 Feb 2022 09:49:19 +0000",
+         "title" : "Yuri Averbakh"
+      },
+      {
+         "description" : "The Grandmasters Dr. Karsten Mueller and Luis Engel have set a ball rolling in Germany with their latest Fritztrainer. GM Lars Bo Hansen designed the four-player model in 2005, and was perhaps ahead of his time. In the 5-part interview with Dr. Karsten Mueller, all four player types are discussed in detail. Today - The Pragmatic.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/player-types-the-pragmatic",
+         "pubDate" : "Sun, 13 Feb 2022 10:37:00 +0100",
+         "title" : "Player Types - The Pragmatic"
+      },
+      {
+         "description" : " The semifinals began punctually with the ceremonial first move by German cabaret artist Matthias Deutschmann on board one. After the customary greetings, Nakamura indicated his intention of opening the game with 1.d4 and Deutschmann firmly moved the d-pawn two steps forward. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220212150054_IMG_1948-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> The rules and regulations of the 2022 FIDE Grand Prix determine a 24.000-euro prize for the winner while the runner-up receives 18.000 euros. Both semifinalists receive a check for 12.000 euros. In addition to the prize money, the winner of the Berlin leg gets 13 Grand P",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/aronian-and-nakamura-pull-ahead/",
+         "pubDate" : "Sun, 13 Feb 2022 09:24:04 +0000",
+         "title" : "Aronian and Nakamura pull ahead"
+      },
+      {
+         "description" : " Share!12 This day marks 21 years for The Chess Drum and a continued effort to show the universality of chess. More specifically it is a platform to show the contributions of players of African descent. Why is there a need for this? Decades ago, chess media was very myopic in terms of coverage. The focus [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/12/black-history-month-2022-day-12-the-chess-drum/\">Black History Month 2022-Day 12: The Chess Drum</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/12/black-history-month-2022-day-12-the-chess-drum/",
@@ -15,7 +87,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-semifinals-g1",
          "pubDate" : "Sat, 12 Feb 2022 16:15:00 -0800",
-         "title" : "2022 FIDE Grand Prix Berlin SF1: Aronian And Nakamura Score Emphatic Wins"
+         "title" : "2022 FIDE Grand Prix Berlin SF1: Aronian, Nakamura Score Emphatic Wins"
       },
       {
          "description" : "",
@@ -898,36 +970,12 @@ news_feed (
          "title" : "Black History Month 2022-Day 6: Theophilus Thompson"
       },
       {
-         "description" : " <p class=\"lead\">Leg 1 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022</a> in Berlin is already in Round 1, and among the press releases, and the player's after-game interviews, WGM Dina Belenkaya makes sure to spice things up with her questions. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/bIJclL_0DPY?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> First was Hikaru Nakamura who spoke his Twitch language once again! The American streamer highlighted that not only d3 but pretty much everything in his game against Esipenko was a \"juicer\". He admitted that it would be fun creating a meme out of t",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/chess-is-fun-at-the-fide-grand-prix-2022/",
-         "pubDate" : "Sun, 06 Feb 2022 14:40:24 +0000",
-         "title" : "Chess is fun at the FIDE Grand Prix 2022"
-      },
-      {
-         "description" : " Welcome to the FIDE World Chess Grand Prix Day Three Live broadcast: <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/NXjMA5DPPSo?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/grand-prix-day-3-live-broadcast/",
-         "pubDate" : "Sun, 06 Feb 2022 14:15:36 +0000",
-         "title" : "Grand Prix Day 3: Live Broadcast"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 65th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the concept of \"prophylaxis\". | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-65-prophylaxis",
          "pubDate" : "Sun, 06 Feb 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 65: Prophylaxis"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/bIJclL_0DPY?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/hikaru-nakamura-my-refrigerator-is-much-more-iconic-then-boks-mi/",
-         "pubDate" : "Sun, 06 Feb 2022 12:58:38 +0000",
-         "title" : "Hikaru Nakamura: \"My refrigerator is much more iconic than Bok's microwave\""
       },
       {
          "description" : " Thanks to my Richmond clubmate Andrew Hebron for sending me a game he played last summer in the British Senior Online Championship, where he was up against GM Keith Arkell, rated more than 400 points above him. Andrew played excellent, solid and sensible chess to reach a double rook ending, but Keith, of course, is <a href=\"https://chessimprover.com/endgame-maestro/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Endgame Maestro\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/endgame-maestro/\">Endgame Maestro</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -976,14 +1024,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r2-nakamura-wojtaszek-aronian-dominguez-lead",
          "pubDate" : "Sat, 05 Feb 2022 15:28:00 -0800",
          "title" : "2022 FIDE Grand Prix Berlin R2: Nakamura, Wojtaszek, Aronian, Dominguez Group Sole Leaders"
-      },
-      {
-         "description" : " <p class=\"lead\">Berlin's Grand Prix second round leaves no stone unturned \"I don't understand why Svidler predicted that everyone will play very safe. In this format you have to risk\". This statement by Alexander Grischuk after his game with Bacrot sums up the general feeling of the players in this new tournament format. With only one player of each group qualifying for the semifinals, cautious play is not to be recommended. Tired of boring 30-move draws, fans all over the world are having the time of their lives enjoying the exciting games delivered each afternoon from the playing venue in Berlin's center. Surrounded by magnificent buildings and monuments (the Brandenburg Gate is in walkin",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/no-risk-no-reward/",
-         "pubDate" : "Sat, 05 Feb 2022 22:31:42 +0000",
-         "title" : "No risk, no reward"
       },
       {
          "description" : "",
@@ -1506,14 +1546,6 @@ news_feed (
          "title" : "Arjun definitely one of our biggest hopes: Anand"
       },
       {
-         "description" : "Magnus Carlsen had wrapped up victory in the Tata Steel Masters with a round to spare and could commentate on chess24 since his scheduled game with Daniil Dubov was a forfeit win. The \"battle\" for 2nd place lasted just minutes as quick draws saw Shakhriyar Mamedyarov and Richard Rapport tie on 8/13, but the remaining four games were great fights, with Praggnanandhaa, Sergey Karjakin and Jorden van Foreest picking up wins. Arjun Erigaisi ended on a high by beating Marc Maurizzi to match his pre-tournament goal of 10.5/13 as he crushed the Challengers.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-13-erigaisi-hits-goal-as-carlsen-commentates-last-round",
-         "pubDate" : "Mon, 31 Jan 2022 13:18:11 +0000",
-         "title" : "Tata Steel 13: Erigaisi hits goal as Carlsen commentates"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1874,14 +1906,6 @@ news_feed (
          "title" : "Tata Steel Chess R11: Carlsen Misses Win, Dubov Tests Positive"
       },
       {
-         "description" : "Last week a chess festival took place in Mari&aacute;nsk&eacute; L&aacute;zne (known as Marienbad in German), Czech Republic, as part of the Czech Chess Tour, with two GM tournaments, three IM tournaments and a number of open events. Among the stars of the festival were the winter landscape and the astounding architecture. | Photos: Arne Bracker / Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-festival-in-marienbad-2022",
-         "pubDate" : "Thu, 27 Jan 2022 17:00:00 +0100",
-         "title" : "Chess festival in Marienbad"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2072,14 +2096,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-and-mamedyarov-lead-the-tata-steel-masters-after-8-rounds",
          "pubDate" : "Sun, 23 Jan 2022 21:25:00 +0400",
          "title" : "Carlsen and Mamedyarov lead the Tata Steel Masters after 8 rounds - 8"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89075706.cms\" />Indian Grandmaster MR Lalith Babu emerged victorious in the Marienbad Open 2022 chess tournament here.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-lalith-babu-wins-tournament-in-czech-republic/articleshow/89075706.cms",
-         "pubDate" : "Sun, 23 Jan 2022 17:22:50 +0530",
-         "title" : "Indian GM Lalith Babu wins tournament in Czech Republic"
       }
    ]
 }
