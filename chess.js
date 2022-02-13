@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Levon Aronian and GM Hikaru Nakamura comfortably neutralized the challenges of GM Leinier Dominguez and GM Richard Rapport respectively in the second game of the semifinal matches to set up an all-American clash in the final of the first leg of...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-semifinals-g2",
+         "pubDate" : "Sun, 13 Feb 2022 14:17:40 -0800",
+         "title" : "2022 FIDE Grand Prix Berlin SF2: Aronian, Nakamura Sail To Finals"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1572",
+         "pubDate" : "Sun, 13 Feb 2022 21:51:13 +0000",
+         "title" : "FIDE Grand Prix Berlin final: Aronian vs Nakamura"
+      },
+      {
+         "description" : "Hikaru Nakamura will take on Levon Aronian in the Berlin FIDE Grand Prix final after both players comfortable drew on demand in the second game of their semi-finals. Levon managed to equalise fully in 14 moves against Leinier Dominguez and made a draw while more than an hour up on the clock. Richard Rapport at least kept his game against Hikaru Nakamura tense, but the US star found all the right moves until Richard, who had played a marathon 20 games in under a month, accepted a draw on move 30 rather than trying to fight for a win from a worse position.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-sf2-it-s-a-nakamura-aronian-final",
+         "pubDate" : "Sun, 13 Feb 2022 21:39:08 +0000",
+         "title" : "Berlin Grand Prix SF2: It's a Nakamura-Aronian final!"
+      },
+      {
          "description" : "The two players who have shown the strongest and most stable performances throughout the event reached the final of the FIDE Grand Prix in Berlin. Levon Aronian and Hikaru Nakamura drew with black on Sunday to knock out Leinier Dominguez and Richard Rapport, respectively. Since there was no need for tiebreaks in either match, the finalists will have a rest day on Monday. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,10 +34,10 @@ news_feed (
          "title" : "Berlin GP: Nakamura and Aronian are the well-deserved finalists"
       },
       {
-         "description" : " Share! GM Amon SimutowePhoto © Fred Lucas, https://www.fredlucas.eu If you were following chess in the early 2000s, there is a chance you may have heard of Zambia's Amon Simutowe. I read about this rising talent on kasparovchess.com after coming across an article by South Africa's Mark Rubery. After continuing to dig I realized I was [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/13/black-history-month-2022-day-12-amon-simutowe/\">Black History Month 2022-Day 13: GM Amon Simutowe</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share! GM Amon SimutowePhoto © Fred Lucas, https://www.fredlucas.eu If you were following chess in the early 2000s, there is a chance you may have heard of Zambia's Amon Simutowe. I read about this rising talent on kasparovchess.com after coming across an article by South Africa's Mark Rubery. After continuing to dig I realized I was [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/13/black-history-month-2022-day-13-amon-simutowe/\">Black History Month 2022-Day 13: GM Amon Simutowe</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/13/black-history-month-2022-day-12-amon-simutowe/",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/13/black-history-month-2022-day-13-amon-simutowe/",
          "pubDate" : "Sun, 13 Feb 2022 18:01:26 +0000",
          "title" : "Black History Month 2022-Day 13: GM Amon Simutowe"
       },
@@ -442,6 +466,14 @@ news_feed (
          "title" : "Aronian and Nakamura are the first FIDE Grand Prix semifinalists"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1565",
+         "pubDate" : "Thu, 10 Feb 2022 20:31:07 +0000",
+         "title" : "Media warm-up for the FIDE Grand Prix held in Belgrade"
+      },
+      {
          "description" : " One powerful piece of African history is often forgotten or ignored and it has a tremendous relationship to chess. It is known that the Moors brought the Persian variant &#8220;Shatranj&#8221; into Spain after the incursion of Tariq ibn-Ziyad. Tariq commanded his 7,000 soldiers across the strait into al-Andalus (modern-day Spain) and landed on Gebal al-Tariq [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/10/black-history-month-2022-day-10-the-moors-of-spain/\">Black History Month 2022-Day 10: The Moors of Spain</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -632,14 +664,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/university-of-texas-at-rio-grande-valley-wins-2nd-annual-kcf-university-cup",
          "pubDate" : "Wed, 09 Feb 2022 10:00:00 +0100",
          "title" : "University of Texas at Rio Grande Valley wins 2nd Annual Kasparov Chess Foundation University Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1565",
-         "pubDate" : "Wed, 09 Feb 2022 07:31:07 +0000",
-         "title" : "Media warm-up for the FIDE Grand Prix held in Belgrade"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel analyzes the fun game between Richard Rapport and Vladimir Fedoseev at the ongoing 2022 FIDE Grand Prix in Berlin. 2022.02.08<br /> Richard Rapport vs Vladimir Fedoseev, FIDE Grand Prix Berlin (2022): E32 Nimzo-Indian, classical variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2243760\">https://www.chessgames.com/perl/chessgame?gid=2243760</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rapport-vs-fedoseev-king-powe",
@@ -1458,14 +1482,6 @@ news_feed (
          "title" : "Battle of the Sexes: Men forge ahead"
       },
       {
-         "description" : "Magnus Carlsen and Ding Liren will top the 16-player field when the Airthings Masters, the first event on the $1.6 million 2022 Meltwater Champions Chess Tour, starts at 18:00 CET on February 19th. Ian Nepomniachtchi, Levon Aronian, Anish Giri and Shakhriyar Mamedyarov are the other Top 10 stars in action, while World Rapid Champions Alexandra Kosteniuk and Nodirbek Abdusattorov both play. 17-year-old Nodirbek is joined by fellow teen stars Praggnanandhaa, Vincent Keymer, Hans Niemann and Andrey Esipenko in one of the youngest Tour line-ups ever assembled.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/airthings-masters-kicks-off-meltwater-champions-chess-tour",
-         "pubDate" : "Tue, 01 Feb 2022 10:00:20 +0000",
-         "title" : "Airthings Masters kicks off Meltwater Champions Chess Tour"
-      },
-      {
          "description" : "ECU is hosting the 1st Quarter Board Meeting in Thessaloniki, Greece on February 4 and 5. The Municipality of Thessaloniki has made the City Hall available for the first day of the meeting to honour the European Chess Union and its presence in the city. The main agenda items of the meeting: 1. The official calendar ECU for the years&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-board-meets-in-thessaloniki/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1944,14 +1960,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-draws-quickly-against-karjakin-and-4-decisive-games-in-tata-steel-masters-round-10",
          "pubDate" : "Wed, 26 Jan 2022 22:20:00 +0400",
          "title" : "Carlsen draws quickly against Karjakin and 4 decisive games in Tata Steel Masters Round 10 - 10"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won Titled Tuesday on January 25 with a score of 10/11 after winning a better rook endgame in the final round against GM Bogdan Daniel Deac. GM Dmitry Andreikin and GM Jose Alcantara finished in second and third, respectively, w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-january-25-titled-tuesday",
-         "pubDate" : "Wed, 26 Jan 2022 10:03:00 -0800",
-         "title" : "Hikaru Nakamura Wins January 25 Titled Tuesday"
       },
       {
          "description" : " At the Dubbo Open each year, the organisers run a novelty blitz event on the Saturday Night. It is a time handicap event, where the difference in rating determines the time difference between the 2 players. However, based in part on an idea by IM Jovan Petronic, there may be another format. Petronic's initial suggestion concerned Swiss Pairings. He wondered if anyone had tried a format where the lowest ranked player in a scoregroup could choose their next opponent (from that group), instead of having the pairing assigned by the computer. Of course there would be issues with floaters and colour allocations, but in looking to deal with those, I came up with a modified format. NB This would on",
