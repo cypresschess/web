@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Levon Aronian and GM Hikaru Nakamura outplayed GM Leinier Dominguez and GM Richard Rapport respectively in the first game of the 2022 FIDE Grand Prix first leg semifinals in Berlin, both achieved with the white pieces in contrasting styles. The...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-semifinals-g1",
+         "pubDate" : "Sat, 12 Feb 2022 16:15:45 -0800",
+         "title" : "2022 FIDE Grand Prix Berlin SF1: Aronian And Nakamura Score Emphatic Wins"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1571",
+         "pubDate" : "Sat, 12 Feb 2022 20:37:59 +0000",
+         "title" : "FIDE Grand Prix: Aronian and Nakamura pull ahead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser exhibits a strong performance in the Lichess Hourly Rapid Arena. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-i-beat-429-people-chess\"><img src=\"http",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-i-beat-429-people-chess",
+         "pubDate" : "Sat, 12 Feb 2022 20:29:41 +0000",
+         "title" : "How I Beat 429 People at Chess..."
+      },
+      {
          "description" : " <p class=\"lead\">Game 1 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> semifinals ended with Aronian beating Dominguez after an \"inhuman\" game, while Nakamura won Rapport with a steady and tactical play. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-6.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220212150054_IMG_1948.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220212161433_IMG_2012.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -23,7 +47,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
          "pubDate" : "Sat, 12 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
+         "title" : "FIDE Grand Prix - Games and results"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/PtuGpLVK-t0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -234,6 +258,14 @@ news_feed (
          "title" : "Berlin GP: Nakamura in semis after wild sixth round"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1567",
+         "pubDate" : "Fri, 11 Feb 2022 08:59:30 +0000",
+         "title" : "1st FIDE - ISF World School Online Chess Cup: Registration continues"
+      },
+      {
          "description" : " The world champion missed a one-move win and halved against an opponent with whom he had already drawn as a nine-year-old Magnus Carlsen's vintage performance at Wijk aan Zee gained the world champion three rating points in his quest for a world record 2900. A week later the Norwegian, 31, gave them all back with interest on a Saturday night in Oslo to Tallaksen Ostmoe, rated 399 points lower than the No 1. The very first meeting 22 years earlier between the then nine-year-old Carlsen, rated under 1000, and the 15-year-old Ostmoe, rated over 2200, had also been a draw and a rating upset, but this was the other way round. <a href=\"https://www.theguardian.com/sport/2022/feb/11/chess-carlsen-l",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -344,14 +376,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/berlin-grand-prix-5-aronian-storms-into-semis",
          "pubDate" : "Thu, 10 Feb 2022 09:04:20 +0000",
          "title" : "Berlin Grand Prix 5: Aronian storms into semis"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1567",
-         "pubDate" : "Thu, 10 Feb 2022 08:59:30 +0000",
-         "title" : "1st FIDE - ISF World School Online Chess Cup: Registration continues"
       },
       {
          "description" : "ECU E-Magazine January 2022 is out! In this edition of the ECU E-Magazine you may read about: 1st quarter ECU Board Meeting 2022 &#8220;A Chess Board for All&#8221; project Hybrid match between ECU Board and Berlin Chess Association Tata Steel Chess 2022 FIDE Grand Prix 2022 Gibraltar Chess Festival 2022 Upcoming events and invitations for ECU events Arbiters&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-january-2022/\">Read More &#187;</a></span>",
@@ -1330,14 +1354,6 @@ news_feed (
          "title" : "January 2022 Chess Puzzle Answer Key "
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel looks at world champion Magnus Carlsen during Tata Steel 2022 in Wijk aan Zee. The mysterious masked Josh marvels at Carlsen's ability to play positions with material imbalances. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-and-material-imbalances-grandmasters-choice-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ywW7xQPTnyM.jp",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-and-material-imbalances-grandmasters-choice-gm-josh-friedel",
-         "pubDate" : "Wed, 02 Feb 2022 05:21:21 +0000",
-         "title" : "Carlsen and Material Imbalances | Grandmaster's Choice - GM Josh Friedel"
-      },
-      {
          "description" : "Top seed Ding Liren is out of the Berlin FIDE Grand Prix after failing to get a visa for travel to Berlin, leaving his Candidates Tournament qualification hopes in ruins. He'll be replaced by Polish star Radoslaw Wojtaszek, while Dmitry Andreikin tested positive and has been replaced by the man who originally just missed out, Andrey Esipenko. Players are still due to arrive in Berlin in the next day or two, so that there are no guarantees those are the final changes.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1914,14 +1930,6 @@ news_feed (
          "title" : "Hikaru Nakamura Wins January 25 Titled Tuesday"
       },
       {
-         "description" : "GM Magnus Carlsen maintained his half-point lead at the 2022 Tata Steel Chess Tournament with three rounds to go. The world champion drew in just 20 minutes with GM Sergey Karjakin and then saw GM Anish Giri splitting the point with GM Jan-Krzyszt...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-10",
-         "pubDate" : "Wed, 26 Jan 2022 04:38:00 -0800",
-         "title" : "Tata Steel Chess 2022 R10: Black Is OK"
-      },
-      {
          "description" : " At the Dubbo Open each year, the organisers run a novelty blitz event on the Saturday Night. It is a time handicap event, where the difference in rating determines the time difference between the 2 players. However, based in part on an idea by IM Jovan Petronic, there may be another format. Petronic's initial suggestion concerned Swiss Pairings. He wondered if anyone had tried a format where the lowest ranked player in a scoregroup could choose their next opponent (from that group), instead of having the pairing assigned by the computer. Of course there would be issues with floaters and colour allocations, but in looking to deal with those, I came up with a modified format. NB This would on",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2080,14 +2088,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-masters-magnus-carlsen-beats-praggnanandhaa-to-grab-lead-vidit-gujrathi-suffers-first-defeat/articleshow/89071060.cms",
          "pubDate" : "Sun, 23 Jan 2022 11:46:39 +0530",
          "title" : "Tata Steel Masters: Carlsen beats Praggnanandhaa to grab lead, Vidit suffers first defeat"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1538",
-         "pubDate" : "Sun, 23 Jan 2022 00:12:29 +0000",
-         "title" : "Tata Steel Masters R07: Carlsen moves into the lead"
       }
    ]
 }
