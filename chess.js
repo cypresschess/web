@@ -14,7 +14,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-semifinals-g1",
-         "pubDate" : "Sat, 12 Feb 2022 16:15:45 -0800",
+         "pubDate" : "Sat, 12 Feb 2022 16:15:00 -0800",
          "title" : "2022 FIDE Grand Prix Berlin SF1: Aronian And Nakamura Score Emphatic Wins"
       },
       {
@@ -2080,14 +2080,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-lalith-babu-wins-tournament-in-czech-republic/articleshow/89075706.cms",
          "pubDate" : "Sun, 23 Jan 2022 17:22:50 +0530",
          "title" : "Indian GM Lalith Babu wins tournament in Czech Republic"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89071060.cms\" />Indian Grandmaster Vidit Santhosh Gujrathi lost his seventh-round game to Jorden Van Foreest while world No. 1 Magnus Carslen got the better of R Praggnanandhaa to go into the lead position in the prestigious Tata Steel Masters chess tournament",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-masters-magnus-carlsen-beats-praggnanandhaa-to-grab-lead-vidit-gujrathi-suffers-first-defeat/articleshow/89071060.cms",
-         "pubDate" : "Sun, 23 Jan 2022 11:46:39 +0530",
-         "title" : "Tata Steel Masters: Carlsen beats Praggnanandhaa to grab lead, Vidit suffers first defeat"
       }
    ]
 }
