@@ -2080,14 +2080,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/gibraltar-international-chess-festival-2022",
          "pubDate" : "Mon, 24 Jan 2022 11:04:00 +0400",
          "title" : "Gibraltar International Chess Festival 2022 - "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1540",
-         "pubDate" : "Mon, 24 Jan 2022 02:37:46 +0000",
-         "title" : "Manuel Petrosyan and Mariam Mkrtchyan win Armenian Champioship"
       }
    ]
 }
