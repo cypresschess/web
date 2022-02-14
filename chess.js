@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Over-the-board chess tournament is resuming in India, starting with National Senior Open and Women 2022 later this month. There will be three consecutive GM Open tournaments at Guwahati, Delhi and Ahmedabad. It starts from 13th March. You can make plans for the three strong events which has a very good prize fund too. Check out the excellent conditions which are being offered for foreign GMs, IMs, WGMs and WIMs at three GM Open events. Photo: Various tournament circulars",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/india-to-host-three-gm-open-tournaments-at-guwahati-delhi-and-gujarat-in-march-2022",
+         "pubDate" : "Mon, 14 Feb 2022 16:00:00 +0100",
+         "title" : "India to host three GM Open tournaments at Guwahati, Delhi and Gujarat in March 2022"
+      },
+      {
+         "description" : " Share! Raphaelle DelahayePhototh√®que © Europe-Echecs France has a storied history and it one of the most iconic countries for chess. It is well-known that Fran√ßois-Andr&eacute; Danican Philidor was one of the first chess pioneers and his Analyse du jeu des √âchecs was a standard chess guide for more than a century. Even military commander Napoleon [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/14/black-history-month-2022-day-14-raphaelle-bujisho/\">Black History Month 2022-Day 14: Raphaelle Bujisho</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/14/black-history-month-2022-day-14-raphaelle-bujisho/",
+         "pubDate" : "Mon, 14 Feb 2022 14:23:00 +0000",
+         "title" : "Black History Month 2022-Day 14: Raphaelle Bujisho"
+      },
+      {
+         "description" : "Caf&eacute; Museum was the meeting place for Viennese chess players in the eighties. Photographer Erich Reismann was a regular guest. Now his reportage from that time is on display at the caf&eacute;, where after a long time chess players are welcome again. Stefan L&ouml;ffler tells us more. | Photos: Erich Reismann (unless stated otherwise)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-returns-to-the-museum",
+         "pubDate" : "Mon, 14 Feb 2022 14:00:00 +0100",
+         "title" : "Chess returns to Vienna's Caf&eacute; Museum"
+      },
+      {
          "description" : "Dear All, &#160; Please find attached herewith list of participants for Sixth Batch (1F) of National Organizer Seminar scheduled to start from 18-20 Feb 2022,Kindly find the ",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -66,7 +90,7 @@ news_feed (
          "title" : "Berlin GP: Nakamura and Aronian are the well-deserved finalists"
       },
       {
-         "description" : " Share! GM Amon SimutowePhoto © Fred Lucas, https://www.fredlucas.eu If you were following chess in the early 2000s, there is a chance you may have heard of Zambia's Amon Simutowe. I read about this rising talent on kasparovchess.com after coming across an article by South Africa's Mark Rubery. After continuing to dig I realized I was [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/13/black-history-month-2022-day-13-amon-simutowe/\">Black History Month 2022-Day 13: GM Amon Simutowe</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " GM Amon SimutowePhoto © Fred Lucas, https://www.fredlucas.eu If you were following chess in the early 2000s, there is a chance you may have heard of Zambia's Amon Simutowe. I read about this rising talent on kasparovchess.com after coming across an article by South Africa's Mark Rubery. After continuing to dig I realized I was already [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/13/black-history-month-2022-day-13-amon-simutowe/\">Black History Month 2022-Day 13: GM Amon Simutowe</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/13/black-history-month-2022-day-13-amon-simutowe/",
@@ -1034,14 +1058,6 @@ news_feed (
          "title" : "Dirty forks and dead parrots"
       },
       {
-         "description" : " Theophilus Thompson as one of the most intriguing figures in the modern American chess era. Born April 21st, 1855, he worked as a 14-year old domestic servant. According to the 1870 U.S. Census, he was living in the home of William Higgins, a County Constable. Two years later, he returned to live with his mother. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/06/black-history-month-2022-day-6-theophilus-thompson/\">Black History Month 2022-Day 6: Theophilus Thompson</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/06/black-history-month-2022-day-6-theophilus-thompson/",
-         "pubDate" : "Sun, 06 Feb 2022 16:18:35 +0000",
-         "title" : "Black History Month 2022-Day 6: Theophilus Thompson"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 65th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the concept of \"prophylaxis\". | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1906,22 +1922,6 @@ news_feed (
          "title" : "Battle of the Sexes"
       },
       {
-         "description" : "This week Robert Ris takes a close how the Hungarian Grandmaster Richard Rapport, who is well-known for his interesting ideas, (successfully) treats the Classical Dutch with Black. Inspiring! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-rapport-plays-the-dutch",
-         "pubDate" : "Fri, 28 Jan 2022 12:40:05 +0100",
-         "title" : "Robert Ris' Fast and Furious: Rapport plays the Dutch"
-      },
-      {
-         "description" : "In a press release the organisers of the Tata Steel tournament in Wijk aan Zee, announced that \"Daniil Dubov will leave the Tata Steel Chess Tournament after testing positive for the corona virus in a PCR test yesterday. This means that the results of his previous matches will stand and that Dubov will forfeit the games against the opponents he was to face in the last three rounds. They are Rapport, Praggnanandhaa and Carlsen respectively.\" | Photo: Press Release Wijk",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/breaking-news-dubov-leaves-tata-steel-chess-tournament",
-         "pubDate" : "Fri, 28 Jan 2022 11:53:58 +0100",
-         "title" : "Breaking news: Dubov leaves Tata Steel Chess Tournament"
-      },
-      {
          "description" : "The European Universities Games, will take place in Lodz, Poland from 14 to 30 July 2022. Student-athletes will compete in as many as 20 disciplines. This means that up to 6,000 players from all over Europe will take part in the Polish edition of the European Universities Games (EUG). Students will compete in the largest academic sport event&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-universities-chess-championship-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2040,22 +2040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1542",
          "pubDate" : "Mon, 24 Jan 2022 22:49:08 +0000",
          "title" : "FIDE welcomes ALRUD as Official Legal Consultant"
-      },
-      {
-         "description" : " Just a quick announcement that my new book Chess for Schools, will, with any luck, be published by Crown House Publishing on 22 April. I'll tell you more later, but here's the blurb. Presents a new approach to promoting chess in primary schools which, by introducing the concepts through a series of mini games, will <a href=\"https://chessimprover.com/chess-for-schools-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess for Schools (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-for-schools-1/\">Chess for Schools (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-for-schools-1/",
-         "pubDate" : "Mon, 24 Jan 2022 15:31:18 +0000",
-         "title" : "Chess for Schools (1)"
-      },
-      {
-         "description" : "We are happy to invite you to European Individual Chess Championship 2022 in Bre≈æice, Slovenia. We are accepting registrations through National Federations only. The registration...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-individual-chess-championship-2022-in-brezice/",
-         "pubDate" : "Mon, 24 Jan 2022 14:54:15 +0000",
-         "title" : "European Individual Chess Championship 2022 in Bre≈æice"
       }
    ]
 }
