@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dear All, &#160; Please find attached herewith list of participants for Sixth Batch (1F) of National Organizer Seminar scheduled to start from 18-20 Feb 2022,Kindly find the ",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/chess-for-everyone-national-organizer-batch-1-f-18-20-feb-2022/",
+         "pubDate" : "Mon, 14 Feb 2022 11:57:32 +0000",
+         "title" : "Chess for Everyone ,National Organizer - Batch 1 F (18-20 Feb ,2022)"
+      },
+      {
+         "description" : "The Meltwater Champions Chess Tour will continue as a regular online event in the coming years. The Play Magnus Group has signed a five-year contract with the Norwegian broadcaster TV-2, which believes in the Tour and broadcasts the tournaments live on television. All in all, viewers followed the first season in 2020/21 for more than 30 million hours. The Airthings Masters, the first tournament of the new season, starts on 19 February with an exciting and young field of players.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-starts-on-19-february",
+         "pubDate" : "Mon, 14 Feb 2022 12:08:47 +0100",
+         "title" : "Airthings Masters starts on 19 February"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1573",
+         "pubDate" : "Mon, 14 Feb 2022 02:04:32 +0000",
+         "title" : "Arbiters' Manual 2022 released"
+      },
+      {
          "description" : "GM Ian Nepomniachtchi won the knockout phase of the inaugural 2022 Rapid Chess Championship tournament presented by Coinbase. GM Anish Giri finished second in the knockout&#38;mdash;after taking first in the preliminary Swiss tournament&#38;mdash;while GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1722,14 +1746,6 @@ news_feed (
          "title" : "Arjun Erigaisi wins Tata Steel Challengers with a round to spare"
       },
       {
-         "description" : "With 8 months left for the Asian Games 2022 to kick start at Hangzhou, China from 10 September, All India Chess Federation is hopeful for",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/india-eyeing-rich-medal-haul-in-asian-games-chess/",
-         "pubDate" : "Sat, 29 Jan 2022 15:01:25 +0000",
-         "title" : "India eyeing rich medal haul in Asian Games Chess"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89205069.cms\" />As chess makes a return to the Asian Games for the first time since the 2010 Guangzhou edition in China, India will be hoping for a medal rush. The AICF (All India Chess Federation), on Saturday, named five-time former World champion Viswanathan Anand as the team mentor. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1906,14 +1922,6 @@ news_feed (
          "title" : "Breaking news: Dubov leaves Tata Steel Chess Tournament"
       },
       {
-         "description" : "Hundreds of different Fritztrainers have been teaching us chess on ChessBase for more than a decade. Maybe you sometimes wonder what else the authors do? \"Meet the Fritztrainer\" takes a look behind the scenes, telling us more about the private life of your favourite chess trainer. We already had the pleasure to talk to the Dutch Fritztrainers GM Jan Werle, and IM Merijn van Delft. Today we speak with another very active Fritztrainer from the Netherlands, who also has his own weekly show on ChessBase - IM Robert Ris.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meet-the-fritztrainer-robert-ris",
-         "pubDate" : "Fri, 28 Jan 2022 10:00:00 +0100",
-         "title" : "Meet The Fritztrainer - Robert Ris"
-      },
-      {
          "description" : "The European Universities Games, will take place in Lodz, Poland from 14 to 30 July 2022. Student-athletes will compete in as many as 20 disciplines. This means that up to 6,000 players from all over Europe will take part in the Polish edition of the European Universities Games (EUG). Students will compete in the largest academic sport event&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-universities-chess-championship-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2048,30 +2056,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-individual-chess-championship-2022-in-brezice/",
          "pubDate" : "Mon, 24 Jan 2022 14:54:15 +0000",
          "title" : "European Individual Chess Championship 2022 in Brežice"
-      },
-      {
-         "description" : " At the risk of sounding like a cranky old man, it is all youtubes and engine this and engine that, where chess learning is concerned (*not really). In the good old days (*not that good, really) learning from books was the go. So when I coach, I still use books, including books on the middlegame written by Max Euwe. Having shown one of my students a couple of games where a nice kingside attack was executed, I was pleased to see him put that knowledge into practice less than 24 hours later. <br /> <b>Lcheng (1787) - Connor5566 (1858) [D06]</b><br />Summer Bootcamp Lightning https://lichess.org/WpWIR21U, 24.01.2022 <script>new PgnViewer( { boardName: \"game1305\", movesFormat: \"default\", pgnStri",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/a-little-bit-of-learning.html",
-         "pubDate" : "Mon, 24 Jan 2022 11:58:00 +0000",
-         "title" : "A little bit of learning"
-      },
-      {
-         "description" : "In 2020, we started a series called \"The Best In\", and interviewed some of the strongest male and female players of Aruba, The Bahamas, Brazil, Trinidad & Tobago, Armenia and Austria. The popular series will continue as a YouTube version with a 1-to-1 Zoom interview, including an analysis of the player's favourite game. We start the new chapter with the coldest country so far - Iceland. And in 2021, Hj&ouml;rvar Steinn Gr&eacute;tarsson has had his best chess year so far. He speaks with us about the chess situation in Iceland, his motivation for the next years, and an interesting, mad story with another \"ginger\" chess fellow - Simon Williams.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-best-in-iceland",
-         "pubDate" : "Mon, 24 Jan 2022 11:00:00 +0100",
-         "title" : "The Best In Iceland"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1541",
-         "pubDate" : "Mon, 24 Jan 2022 09:27:58 +0000",
-         "title" : "FIDE Women's Candidates Tournament and WGP Series 2022-23: Call for bids"
       }
    ]
 }
