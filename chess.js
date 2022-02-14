@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GM Ian Nepomniachtchi won the knockout phase of the inaugural 2022 Rapid Chess Championship presented by Coinbase. GM Anish Giri finished second in the knockout&#38;mdash;after taking first in the preliminary Swiss tournament&#38;mdash;while GMs Jose Edua...",
+         "description" : "GM Ian Nepomniachtchi won the knockout phase of the inaugural 2022 Rapid Chess Championship tournament presented by Coinbase. GM Anish Giri finished second in the knockout&#38;mdash;after taking first in the preliminary Swiss tournament&#38;mdash;while GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-week-1-nepomniachtchi-wins",
@@ -2072,14 +2072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1541",
          "pubDate" : "Mon, 24 Jan 2022 09:27:58 +0000",
          "title" : "FIDE Women's Candidates Tournament and WGP Series 2022-23: Call for bids"
-      },
-      {
-         "description" : " The Gibraltar International Chess Festival takes place 23rd January to 3rd February 2022. Due to Covid-19 the International Open has had to be canceled. In its place is the Gibchess Battle of the Sexes Scheveningen match with 10 men and 10 women playing one game against each other. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/gibraltar-international-chess-festival-2022",
-         "pubDate" : "Mon, 24 Jan 2022 11:04:00 +0400",
-         "title" : "Gibraltar International Chess Festival 2022 - "
       }
    ]
 }
