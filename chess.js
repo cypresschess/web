@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">As soon as elite chess grandmasters fighting for the right to challenge the World Champion finish their games during the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix</a> in Berlin, the positions on the boards (called FENs in chess-speak) are fed into a <a href=\"https://worldchess.com/nft\">complicated AI-algorithm</a> that turns the data from each game into a unique chess piece. An exhibition of the unique art generated from chess positions was held in Berlin's Circle Culture Gallery in Prenzlauer Berg. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/5D23A2C4-EFFF-4DED-BBD4-D34FB88A21CD.jpeg\" width=\"1600\" height=\"1067\" alt",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-nfts-exibited-in-berlins-art-gallery/",
+         "pubDate" : "Mon, 14 Feb 2022 20:22:50 +0000",
+         "title" : "FIDE Grand Prix NFTs Exibited In Berlin's Art Gallery"
+      },
+      {
          "description" : "In the Endgame Magic Show #182 Karsten M&uuml;ller continues to present endgame highlights from the Tata Steel Tournament 2022 in Wijk aan Zee. Among these highlights is a fascinating and instructive rook ending that allows you to test your rook endgame skills. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -986,14 +994,6 @@ news_feed (
          "title" : "A better understanding"
       },
       {
-         "description" : " <p class=\"lead\">BERLIN, Germany - Meduza, a popular Russian-language media, published an <a href=\"https://meduza.io/feature/2022/02/07/eto-pohozhe-na-krik-dushi-no-ya-ne-znayu-o-chem-on-krichit\">explosive investigation</a> about underage female chess players who have been receiving pornographic clippings and used condoms in the mail. The scheme has been going on for decades, and more than 50 victims were identified. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/C4822527-6A0D-48D9-B64D-10C10D37543D.jpeg\" width=\"1600\" height=\"1338\" alt=\"\" /> <div class=\"e2-text-caption\">FIDE Grand Swiss (Womens Section). Photo Mark Livshitz for FIDE</div> </div> Top Russian fema",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/russian-publication-exposes-alleged-criminal-who-sent-pornograph/",
-         "pubDate" : "Mon, 07 Feb 2022 13:05:20 +0000",
-         "title" : "Media Exposes Alleged Criminal Who Sent Pornography and Condoms to Underage Chess Players"
-      },
-      {
          "description" : "MPL 46TH NATIONAL SUB-JUNIOR (UNDER-16) &#38; 37TH NATIONAL SUB-JUNIOR GIRLS (UNDER-16) CHESS CHAMPIONSHIPS-2022 04 Mar to 08 Mar 2022 at Delhi DOWNLOAD CIRCULAR &#160; MPL",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1880,14 +1880,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/announcement-for-international-junior-tournaments/",
          "pubDate" : "Fri, 28 Jan 2022 17:14:54 +0000",
          "title" : "Announcement for International Junior Tournaments"
-      },
-      {
-         "description" : "Lawrence Trent thinks that Paul Keres might be one of the most underrated players in the chess world. Time to witness a special game of his against Ilmar Raud. The tactical combination is quite stunning. It is also time to catch up with the tactics training on ChessBase, and break through the 2400 rating wall. Will it finally work out today?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-12",
-         "pubDate" : "Fri, 28 Jan 2022 17:00:00 +0100",
-         "title" : "Trent's Tactics - An incredible tactic between Keres and Raud"
       },
       {
          "description" : "A judge on Thursday refused to dismiss GM Nona Gaprindashvili&#39;s defamation lawsuit against Netflix, meaning the suit can proceed. The streaming and production company had claimed that because The Queen&#39;s Gambit is a work of fiction, it would be im...",
