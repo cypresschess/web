@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Ian Nepomniachtchi won the knockout phase of the inaugural 2022 Rapid Chess Championship presented by Coinbase. GM Anish Giri finished second in the knockout&#38;mdash;after taking first in the preliminary Swiss tournament&#38;mdash;while GMs Jose Edua...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-week-1-nepomniachtchi-wins",
+         "pubDate" : "Sun, 13 Feb 2022 16:09:00 -0800",
+         "title" : "Rapid Chess Championship Week 1: Nepo Strikes Back And Wins"
+      },
+      {
          "description" : "GM Levon Aronian and GM Hikaru Nakamura comfortably neutralized the challenges of GM Leinier Dominguez and GM Richard Rapport respectively in the second game of the semifinal matches to set up an all-American clash in the final of the first leg of...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-semifinals-g2",
-         "pubDate" : "Sun, 13 Feb 2022 14:17:40 -0800",
+         "pubDate" : "Sun, 13 Feb 2022 14:17:00 -0800",
          "title" : "2022 FIDE Grand Prix Berlin SF2: Aronian, Nakamura Sail To Finals"
       },
       {
@@ -1914,14 +1922,6 @@ news_feed (
          "title" : "European Universities Chess Championship 2022"
       },
       {
-         "description" : "GM Magnus Carlsen continues to lead the 2022 Tata Steel Chess Tournament despite missing a win in his game with GM Vidit Gujrathi in round 11. GM Richard Rapport is half a point behind after getting a forfeit win vs. GM Daniil Dubov, who dropped o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-11",
-         "pubDate" : "Thu, 27 Jan 2022 17:00:00 -0800",
-         "title" : "Tata Steel Chess R11: Carlsen Misses Win, Dubov Tests Positive"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2088,14 +2088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1540",
          "pubDate" : "Mon, 24 Jan 2022 02:37:46 +0000",
          "title" : "Manuel Petrosyan and Mariam Mkrtchyan win Armenian Champioship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1539",
-         "pubDate" : "Mon, 24 Jan 2022 00:05:16 +0000",
-         "title" : "Tata Steel Masters R08: Mamediarov pulls level with Carlsen"
       }
    ]
 }
