@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #182 Karsten M&uuml;ller continues to present endgame highlights from the Tata Steel Tournament 2022 in Wijk aan Zee. Among these highlights is a fascinating and instructive rook ending that allows you to test your rook endgame skills. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-182-with-more-endgame-highlights-of-wijk-2022",
+         "pubDate" : "Mon, 14 Feb 2022 18:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic Show #182 - with more endgame highlights from Wijk 2022"
+      },
+      {
          "description" : "Over-the-board chess tournament is resuming in India, starting with National Senior Open and Women 2022 later this month. There will be three consecutive GM Open tournaments at Guwahati, Delhi and Ahmedabad. It starts from 13th March. You can make plans for the three strong events which has a very good prize fund too. Check out the excellent conditions which are being offered for foreign GMs, IMs, WGMs and WIMs at three GM Open events. Photo: Various tournament circulars",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1904,14 +1912,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty/",
          "pubDate" : "Fri, 28 Jan 2022 13:08:11 +0000",
          "title" : "A Foundation for Beginners Fifty"
-      },
-      {
-         "description" : "The fourth round of the #GibChess Battle of the Sexes at Gibraltar's Garrison Library, ended in a narrow victory for the men's team by 5&frac12;-4&frac12;, wielding the white pieces for the second time. This was Team Sabino's second successive victory, following the women's double success in the first two rounds but of course only game points are relevant and Team Pia remain in the lead by a single point. The score is thus 20&frac12; to the women, 19&frac12; to the men. John Saunders reports. | Photos: John Saunders | Photo: Steven Linares, Gibraltar Minister for Housing, Employment, Youth and Sport, makes the opening move for Eric Rosen against Olga Girya",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-4-team-sabino-catches-up",
-         "pubDate" : "Fri, 28 Jan 2022 13:21:47 +0100",
-         "title" : "Battle of the Sexes, Round 4: Team Sabino catches up"
       },
       {
          "description" : " Once again the Gibraltar Open has been affected by Covid meaning the big open event isn't being held. In its place is the <a href=\"https://www.gibchess.com/\">Match</a> between Team PIA (consisting of strong female players) and Team SABINO (consisting of strong male players). It is being played as a 10 round Scheveningen (ie all players on a team play all the players on the other team), and after 4 rounds, team PIA leads by 20.5-19.5. Team PIA got out to a good start winning the first two rounds, but Team Sabino has narrowed the gap in rounds 3 and 4. Turning out for Team SABINO is Australian GM Bobby Cheng, while Team PIA contains a player very familiar to Australian chess fans, IM Irine Su",
