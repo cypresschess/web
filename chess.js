@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1575",
+         "pubDate" : "Mon, 14 Feb 2022 22:50:40 +0000",
+         "title" : "Borislav Ivkov (1933-2022)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1574",
+         "pubDate" : "Mon, 14 Feb 2022 20:52:14 +0000",
+         "title" : "Yaniela Forgas wins Cuban Women's Championship"
+      },
+      {
+         "description" : " <p class=\"lead\">Casual and professional chess players alike now have access to the unique tool that can convert any chess game into a <a href=\"https://worldchess.com/nft\">uniquely-designed chess piece NFT</a> courtesy of Algorand and FIDE Online Arena, the official gaming platform of the International Chess Federation. The game's data (called 'FEN') is fed into a complicated AI algorithm that generates a unique 3D chess piece which is then minted as an NFT and can be traded, sold, or exchanged on Algorand NFT marketplaces. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/9C0CDF1F-E5F0-48F4-BCEE-1393CE09625B.jpeg\" width=\"2560\" height=\"1440\" alt=\"\" /> <div class=\"e",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/trillions-of-chess-games-can-be-converted-to-beautiful-nfts-on-a/",
+         "pubDate" : "Mon, 14 Feb 2022 20:45:33 +0000",
+         "title" : "Trillions of Chess Games Can Be Converted to Beautiful NFTs on Algorand Blockchain"
+      },
+      {
          "description" : " <p class=\"lead\">As soon as elite chess grandmasters fighting for the right to challenge the World Champion finish their games during the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix</a> in Berlin, the positions on the boards (called FENs in chess-speak) are fed into a <a href=\"https://worldchess.com/nft\">complicated AI-algorithm</a> that turns the data from each game into a unique chess piece. An exhibition of the unique art generated from chess positions was held in Berlin's Circle Culture Gallery in Prenzlauer Berg. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/5D23A2C4-EFFF-4DED-BBD4-D34FB88A21CD.jpeg\" width=\"1600\" height=\"1067\" alt",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -976,14 +1000,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-the-hippopotamus-system-of-defence",
          "pubDate" : "Mon, 07 Feb 2022 16:32:39 +0100",
          "title" : "New: The Hippopotamus system of defence"
-      },
-      {
-         "description" : " Watch the Broadcast live: <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/SsosJhFOzls?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-day-4-broadcast/",
-         "pubDate" : "Mon, 07 Feb 2022 14:00:42 +0000",
-         "title" : "FIDE Grand Prix Day 4 Broadcast"
       },
       {
          "description" : " It has been a while since I have featured Lev Aronian on these pages, but the following game from the current FIDE Grand Prix caught my eye. It wasn't so much the effortless way he gained a winning advantage against Vincent Keymer, but how early in the game he did so. I would say he was clearly winning by move 18, but more so, was completely winning at move 24. I suspect Aronian new he was winning, and Keymer probably knew he was completely lost. Probably the only strong players who may have underestimated Aronian's advantage would have been various chess engines, who gave Aronian a pawn advantage at best. To a human, control of the 7th rank supported by the bishop on d6 was an 'eternal' ad",
@@ -2024,14 +2040,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/25/ep-263-ep-263-author-oliver-roeder-on-the-enduring-appeal-of-chess-and-other-games",
          "pubDate" : "Tue, 25 Jan 2022 13:51:43 +0000",
          "title" : "EP 263- Author Oliver Roeder on the Enduring Appeal of Chess and Other Games "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1542",
-         "pubDate" : "Mon, 24 Jan 2022 22:49:08 +0000",
-         "title" : "FIDE welcomes ALRUD as Official Legal Consultant"
       }
    ]
 }
