@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share!In 2003, Maurice Ashley and Stephen Muhammad joined the roster of participants of the prestigious U.S. Chess Championship, the hallmark of American tournaments. It is a chance for glory and to be included in the annals of history along with the list of luminaries whose plaques now adorn the World Chess Hall-of-Fame museum in St. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/15/black-history-month-2022-day-14-ashley-muhammad/\">Black History Month 2022-Day 14: Ashley &#038; Muhammad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/15/black-history-month-2022-day-14-ashley-muhammad/",
+         "pubDate" : "Tue, 15 Feb 2022 20:21:02 +0000",
+         "title" : "Black History Month 2022-Day 14: Ashley & Muhammad"
+      },
+      {
+         "description" : "The \"Battle of the Sexes\" was a ten-round Scheveningen match between ten male and ten female players that was played from 24 January to 3rd February in Gibraltar. The men won 53-47, and looking back on the match, Irina Bulmaga (pictured), who commentated the games live in Gibraltar, wonders if and why the men were better at team-building and what this match says about women's chess. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/irina-bulmaga-looks-back-on-the-battle-of-the-sexes-match-in-gibraltar",
+         "pubDate" : "Tue, 15 Feb 2022 20:00:00 +0100",
+         "title" : "Irina Bulmaga looks back on the \"Battle of the Sexes\" match in Gibraltar"
+      },
+      {
+         "description" : " <p class=\"lead\">Game 1 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> finals between Hikaru Nakamura and Levon Aronian ended in an eventful draw. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-7.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220215150809_IMG_2277.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220215150407_IMG_2271.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220215150342_IMG_2269.jpg\" width=\"2560\" height",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nakamura-and-aronian-drew-game-1-of-the-fide-grand-prix-2022/",
+         "pubDate" : "Tue, 15 Feb 2022 18:42:45 +0000",
+         "title" : "Nakamura and Aronian drew Game 1 of the FIDE Grand Prix 2022"
+      },
+      {
+         "description" : " &#8220;A dream becomes a goal when action is taken toward its achievement&#8221; Bo Bennett (businessman) This variation can be unleashed against unsuspected players who like to use the Fried Liver attack. This is the most likely to happen at club level. It is at that level when many see it being played often. Players learn <a href=\"https://chessimprover.com/need-sure-points-two-knights-defence-traxler-wilkes-barre-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Two Knights Defence, Traxler Wilkes-Barre Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-two-knights-defence-traxl",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-two-knights-defence-traxler-wilkes-barre-variation-edition/",
+         "pubDate" : "Tue, 15 Feb 2022 18:10:25 +0000",
+         "title" : "Need sure points? Two Knights Defence, Traxler Wilkes-Barre Variation Edition"
+      },
+      {
+         "description" : "For the first time since 2013 we have two WIM Invitational Women's Norm tournaments in London on 07-11 April 2022. 1. \"ECF Women's Norm Event...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/she-plays-to-win/",
+         "pubDate" : "Tue, 15 Feb 2022 17:50:13 +0000",
+         "title" : "She Plays to Win"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1578",
+         "pubDate" : "Tue, 15 Feb 2022 15:03:46 +0000",
+         "title" : "Groups for Second Leg of FIDE Grand Prix 2022 announced"
+      },
+      {
+         "description" : "The Chess.com Players League has been wildly popular, leading to a 20% increase in games played in December 2021 alone. Leagues have also given the Chess.com community another way to track progress in its favorite game. With Leagues came an opport...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-announces-leagues-contest-winners",
+         "pubDate" : "Tue, 15 Feb 2022 06:17:00 -0800",
+         "title" : "Announcing Winners Of The Chess.com Leagues Contest"
+      },
+      {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -85,17 +141,25 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1576",
-         "pubDate" : "Tue, 15 Feb 2022 00:12:02 +0000",
-         "title" : "Andreikin replaces Ding in Belgrade"
+         "link" : "https://www.fide.com/news/1577",
+         "pubDate" : "Tue, 15 Feb 2022 06:20:20 +0000",
+         "title" : "FIDE Trainers' Commission continues its program of Seminars & Workshops in 2022"
       },
       {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1575",
-         "pubDate" : "Mon, 14 Feb 2022 22:50:40 +0000",
+         "pubDate" : "Tue, 15 Feb 2022 05:50:40 +0000",
          "title" : "Borislav Ivkov (1933-2022)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1576",
+         "pubDate" : "Tue, 15 Feb 2022 00:12:02 +0000",
+         "title" : "Andreikin replaces Ding in Belgrade"
       },
       {
          "description" : "",
@@ -138,7 +202,7 @@ news_feed (
          "title" : "India to host three GM Open tournaments at Guwahati, Delhi and Gujarat in March 2022"
       },
       {
-         "description" : " Share!84 Raphaelle DelahayePhotothèque � Europe-Echecs France has a storied history and it one of the most iconic countries for chess. It is well-known that François-Andr&eacute; Danican Philidor was one of the first chess pioneers and his Analyse du jeu des Échecs was a standard chess guide for more than a century. Even military commander Napoleon [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/14/black-history-month-2022-day-14-raphaelle-bujisho/\">Black History Month 2022-Day 14: Raphaelle Bujisho</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Raphaelle DelahayePhotothèque � Europe-Echecs France has a storied history and it one of the most iconic countries for chess. It is well-known that François-Andr&eacute; Danican Philidor was one of the first chess pioneers and his Analyse du jeu des Échecs was a standard chess guide for more than a century. Even military commander Napoleon Bonaparte [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/14/black-history-month-2022-day-14-raphaelle-bujisho/\">Black History Month 2022-Day 14: Raphaelle Bujisho</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/14/black-history-month-2022-day-14-raphaelle-bujisho/",
@@ -786,14 +850,6 @@ news_feed (
          "title" : "Game of the Week #502: Aronian vs Vidit, Berlin, Grand Prix 2022"
       },
       {
-         "description" : " <p class=\"lead\">Round 5 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with Aronian winning against Keymer in Group C, and moving to the semifinals with a round to spare. Nakamura and So remain the sole leaders of Groups A and D respectively, while Wojtaszek and Fedoseev being the co-leaders of Group B. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-3.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/Ulrich-Krause-(First-move).jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pi",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/aronian-moves-to-the-semifinals-with-a-round-to-spare-at-the-fid/",
-         "pubDate" : "Wed, 09 Feb 2022 19:11:49 +0000",
-         "title" : "Aronian moves to the semifinals with a round to spare at the FIDE Grand Prix Series 2022"
-      },
-      {
          "description" : "GM Kirill Shevchenko, who also won Titled Tuesday on June 15, 2021, won the early tournament on February 8 and finished third in the late tournament. GM Ian Nepomniachtchi won the late tournament. Both players won outright, Shevchenko with 10/11...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1104,14 +1160,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/berlin-grand-prix-3-so-takes-lead-as-aronian-pulls-clear",
          "pubDate" : "Mon, 07 Feb 2022 10:09:16 +0000",
          "title" : "Berlin Grand Prix 3: So takes lead as Aronian pulls clear"
-      },
-      {
-         "description" : " Scholastic chess has grown by leaps and bounds over the past few decades. With Supernationals drawing over 5500+ players from across the country, times have never been better to start playing chess. When Supernationals VI set a record for 5577 players, it demonstrated how far scholastic chess has grown. There have been many stories of [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/07/black-history-month-2022-day-7-phillys-roberts-vaux-jr-high/\">Black History Month 2022-Day 7: Philly's Roberts Vaux Jr. High</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/07/black-history-month-2022-day-7-phillys-roberts-vaux-jr-high/",
-         "pubDate" : "Mon, 07 Feb 2022 06:08:52 +0000",
-         "title" : "Black History Month 2022-Day 7: Philly's Roberts Vaux Jr. High"
       },
       {
          "description" : "",
@@ -1834,14 +1882,6 @@ news_feed (
          "title" : "Carlsen wins the Tata Steel Masters and Erigaisi the Challengers both with a round to spare - 12"
       },
       {
-         "description" : "The #GibChess Battle of the Sexes reached its halfway point at Gibraltar's Garrison Library on Friday 28 January with a tense 5-5 draw in round five, with the women having White on all boards. The women thus still lead the men by a single point, with 25&frac12; points to the men's 24&frac12;. The match is beautifully poised for a tense second half when play resumes on Sunday | Report and photos by John Saunders",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-2022-round-5",
-         "pubDate" : "Sat, 29 Jan 2022 19:00:00 +0100",
-         "title" : "Battle of the Sexes, Round 5: A tense draw"
-      },
-      {
          "description" : "GM Sergey Karjakin, GM Praggnanandhaa R., and GM Jorden van Foreest finished their&#38;nbsp;2022 Tata Steel Chess Tournament with wins in the final round on Sunday. GM Magnus Carlsen had already won the tournament with a round to spare and got a forfe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1928,14 +1968,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/announcement-for-international-junior-tournaments/",
          "pubDate" : "Fri, 28 Jan 2022 17:14:54 +0000",
          "title" : "Announcement for International Junior Tournaments"
-      },
-      {
-         "description" : "A judge on Thursday refused to dismiss GM Nona Gaprindashvili&#39;s defamation lawsuit against Netflix, meaning the suit can proceed. The streaming and production company had claimed that because The Queen&#39;s Gambit is a work of fiction, it would be im...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gaprindashvilis-defamation-lawsuit-against-netflix-can-proceed",
-         "pubDate" : "Fri, 28 Jan 2022 06:59:00 -0800",
-         "title" : "Gaprindashvili's Defamation Lawsuit Against Netflix Can Proceed"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1ac2ca25-ea04-42e3-be38-ecd135d92611/ES2.jpg\" data-image-dimensions=\"382x180\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61f3ef174abbc5621ba931ff\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1ac2ca25-ea04-42e3-be38-ecd135d92611/ES2.jpg?format=1000w\" /> </figure> <p class=\"\"><a href=\"https://www.perpetualchesspod.com/recaptured\" target=\"_blank\"><em>Chess Books Recaptured</em></a><em> </em>is back to discuss one of my favorite chess books ever, Mikhail Sher",
@@ -2048,22 +2080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1544",
          "pubDate" : "Tue, 25 Jan 2022 21:46:37 +0000",
          "title" : "Tata Steel Masters R09: Carlsen wins, regains the lead"
-      },
-      {
-         "description" : " Magnus Carlsen beat joint leader Shakhriyar Mamedyarov to take the sole lead in the Tata Steel Masters. The game was a sharp open Catalan. Carlsen wasn't surprised that Mamedyarov gave up the exchange and he had decent compensation for it but after 18...h6? (18...Be6 and the game continues) things fell apart for black at rapid speed. Anish Giri stayed in contention by beating Sam Shankland in a drawish theoretical endgame. After 24...b6? (24...e4 or Nf7 were necessary) 25.g4! Shankland's position just collapsed. Vidit Gujrathi stayed in contention after holding a tricky endgame against Richard Rapport. Sergey Karjakin won a wild game where he really took some risks against Praggnanandhaa to",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-beats-mamedyarov-to-regain-the-sole-lead-of-the-tata-steel-masters-after-9-rounds",
-         "pubDate" : "Tue, 25 Jan 2022 23:07:00 +0400",
-         "title" : "Carlsen beats Mamedyarov to regain the sole lead of the Tata Steel Masters after 9 Rounds - 9"
-      },
-      {
-         "description" : " &#8220;Life begins at the end of your comfort zone&#8221; Neale Donald Walsch Chess variants have a chance to keep kids interested in playing chess despite the tough competition from the computer games. In one past article posted here I shared my first foray into Three Check Chess. This week I am ready to share another game <a href=\"https://chessimprover.com/three-check-chess-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Three Check Chess (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/three-check-chess-2/\">Three Check Chess (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/three-check-chess-2/",
-         "pubDate" : "Tue, 25 Jan 2022 16:35:30 +0000",
-         "title" : "Three Check Chess (2)"
       }
    ]
 }
