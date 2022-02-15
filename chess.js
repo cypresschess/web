@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
+         "pubDate" : "Tue, 15 Feb 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix Final - Live!"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/58ca094b-dc87-4371-86b9-f4fe682ee581/JEremy3.jpg\" data-image-dimensions=\"435x219\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"620baed702d83b13a72baa93\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/58ca094b-dc87-4371-86b9-f4fe682ee581/JEremy3.jpg?format=1000w\" /> </figure> <p class=\"\">This week's<a href=\"https://www.perpetualchesspod.com/adultimprover\"><span> Adult Improver Edition</span></a> of Perpetual Chess features NM Jeremy Kane: Blitz specialist, USCF",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/2/15/ep-266-nm-jeremy-kane-adult-improver-series",
+         "pubDate" : "Tue, 15 Feb 2022 13:50:11 +0000",
+         "title" : "EP 266- NM Jeremy Kane (Adult Improver Series) "
+      },
+      {
+         "description" : " <p class=\"lead\">FIDE, chess governing body, <a href=\"https://fide.com/news/1576\">announced today</a> that Ding Liren, a Chinese Grandmaster and world's number 3, has been replaced in the Grand Prix Series by Russian chess player Andreikin. According to the officials, Ding was unable to get the EU visa, and now he effectively looses the chance to qualify for the Candidates Tournament that is planned for June 2022. Ding is one of the strongest players in the world and would be among the favorites to win the Candidates, but he was not able to qualify for the tournament amid the recently changed qualification criteria and his visa mishaps. The news that Ding is likely to miss the Candidates has",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/ding-liren-worlds-number-3-replaced-in-the-grand-prix-series/",
+         "pubDate" : "Tue, 15 Feb 2022 13:48:35 +0000",
+         "title" : "Ding Liren, World's Number 3, Replaced in the Grand Prix Series"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/8EeNde-S6eI?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-finals-g1-broadcast/",
+         "pubDate" : "Tue, 15 Feb 2022 13:10:17 +0000",
+         "title" : "FIDE Grand Prix Finals G1 Broadcast"
+      },
+      {
+         "description" : " The first World Junior Champion, Borislav Ivkov has passed away at the age of 88. He won the title in 1951, which also signalled the start of a successful career. He qualified for the Candidates Matches in 1964 (losing to Larsen in the 1st round), and represented Yugoslavia in the Chess Olympiad 12 times. He also had the distinction of beating 5 World Champions (including Fischer) and being Yugoslavian Champion 3 times. <b>Ivkov,Borislav - Penrose,Jonathan [D15]</b><br />Wch U20 final-A Copenhagen (6), 1953 <script>new PgnViewer( { boardName: \"game1310\", movesFormat: \"default\", pgnString:'1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.Nc3 dxc4 5.e3 b5 6.a4 b4 7.Na2 e6 8.Bxc4 Be7 9.O-O O-O 10.b3 Bb7 11.Bb2 Nbd",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/borislav-ivkov.html",
+         "pubDate" : "Tue, 15 Feb 2022 13:01:00 +0000",
+         "title" : "Borislav Ivkov"
+      },
+      {
          "description" : "For the first time, the Saint Louis Chess Club will host The American Cup, highlighting an exciting and unique double elimination format. This new format and tournament will bring world class chess masters to America's chess capital to compete in a fierce do-or-die struggle for $300,000 total in prize money. With a double elimination format, fans can expect The American Cup to have a combination of exciting chess play, stunning upsets, and epic comebacks. Press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -978,14 +1018,6 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Berlin R4: Aronian, So Emerge Front-runners"
       },
       {
-         "description" : " <p class=\"lead\">The participants in the Berlin Grand Prix have a maximum of exactly fifteen minutes to play their first move on the board after the arbiter starts the round. However, elite players are generally already seated or at least in the building five or ten minutes earlier. So, at the start of today's round four, when GM Pentala Harikrishna played 1.e4 and his opponent GM Alexei Shirov was clearly absent, you could sense the nervousness around the room. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-02-08_00-32-41.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://w",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/aronian-and-so-make-their-claim/",
-         "pubDate" : "Mon, 07 Feb 2022 23:35:03 +0000",
-         "title" : "Aronian and So make their claim"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1016,14 +1048,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/safety-first",
          "pubDate" : "Mon, 07 Feb 2022 23:00:00 +0100",
          "title" : "Safety first"
-      },
-      {
-         "description" : " <p class=\"lead\">Round 4 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with 3 decisive games and some very crucial draws. Nakamura, Aronian, and So are the sole leaders in their groups, while Wojtaszek shares the top with Fedoseev. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-2.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220207145513_IMG_0956.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220207145613_IMG_0959.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <im",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nakamura-aronian-and-so-the-sole-leader-after-round-4-of-the-fid/",
-         "pubDate" : "Mon, 07 Feb 2022 19:52:19 +0000",
-         "title" : "Nakamura, Aronian, and So the sole leader after Round 4 of the FIDE Grand Prix 2022"
       },
       {
          "description" : "WARNING: This reporting includes disturbing information of a sexual nature. Letters with pages from porn magazines and used condoms have been sent to at least 15 female chess players for over a decade. This troubling news was revealed today by t...",
@@ -1850,14 +1874,6 @@ news_feed (
          "title" : "Survival of the Smartest?"
       },
       {
-         "description" : "Videos: Mihail Marin examines the Berlin Defence with 4.d3 d6 and finds some practical advantages for Black over the standard move 4...Bc5. Christian Bauer presents a new knight sacrifice in the Voronezh Variation of the Alekhine Defence. In this issue's \"Brilliancy\" Imre Hera took the initiative against Zoltan Almasi in the London System after 1.d4 Nf6 2.Nf3 e6 3.Bf4 b6 4.e3 Be7 5.h3 c5 6.Nc3! \"The lucky bag\" is particularly well stocked with 72 (!) extensively annotated games! Among them are analyses by Vladimir Belous, Spyridon Kapnisis, Michal Krasenkow, Krishnan Sasikiran and many others. ChessBase Magazine Extra is the perfect supplement to ChessBase Magazine. Available as a single iss",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-extra-205",
-         "pubDate" : "Sat, 29 Jan 2022 11:00:00 +0100",
-         "title" : "New: ChessBase Magazine Extra #205"
-      },
-      {
          "description" : "In an essay for TheArticle published on December 7 last year, Jay Elwes posed here a provocative question: who was the greatest artist of the twentieth century? Ella Fitzgerald was Jay's answer. I would prefer to nominate Marcel Duchamp, about whom I have also written previously in this column. Duchamp's reputation is based on both []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -2048,14 +2064,6 @@ news_feed (
          "link" : "https://chessimprover.com/three-check-chess-2/",
          "pubDate" : "Tue, 25 Jan 2022 16:35:30 +0000",
          "title" : "Three Check Chess (2)"
-      },
-      {
-         "description" : "<a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1643118388401-GMIV0Q0ONF3AONKE241J/20217_roederoliver_ctonyluong.jpg\" data-image-dimensions=\"1802x2700\" data-image-focal-point=\"0.5,0.5\" alt=\"20217_roederoliver_ctonyluong.jpg\" data-load=\"false\" data-image-id=\"61efff2fe51c0671231b2749\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1643118388401-GMIV0Q0ONF3AONKE241J/20217_roederoliver_ctonyluong.jpg?format=1000w\" /><br> </a> <a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-ima",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/25/ep-263-ep-263-author-oliver-roeder-on-the-enduring-appeal-of-chess-and-other-games",
-         "pubDate" : "Tue, 25 Jan 2022 13:51:43 +0000",
-         "title" : "EP 263- Author Oliver Roeder on the Enduring Appeal of Chess and Other Games "
       }
    ]
 }
