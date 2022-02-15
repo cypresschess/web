@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Share!In 2003, Maurice Ashley and Stephen Muhammad joined the roster of participants of the prestigious U.S. Chess Championship, the hallmark of American tournaments. It is a chance for glory and to be included in the annals of history along with the list of luminaries whose plaques now adorn the World Chess Hall-of-Fame museum in St. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/15/black-history-month-2022-day-14-ashley-muhammad/\">Black History Month 2022-Day 14: Ashley &#038; Muhammad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League kicks off its Spring season. Join NM Caleb Denby for the move-by-move. 2022.02.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-corporate-chess-league-virtual-spring-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wi1hnwo0vdw.jpg?itok=QrlmrKhw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-corporate-chess-league-virtual-spring-1",
+         "pubDate" : "Tue, 15 Feb 2022 20:33:25 +0000",
+         "title" : "2022 Saint Louis Corporate Chess League: Virtual Spring #1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani takes on the French Defense, using Parimarjan Negi&#039;s book &quot;1.e4 vs The French, Caro-Kann and Philidor.&quot; BUY THE BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> 2022.02.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1e4-vs-french-che",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/1e4-vs-french-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Tue, 15 Feb 2022 20:33:25 +0000",
+         "title" : "1.e4 vs The French | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> This new tournament will bring world class chess masters to America&#039;s chess capital to compete in a fierce do or die struggle for $300,000 in prize money. With a double elimination format, fans can expect the American Cup to have a combination of exciting chess play, stunning upsets, and epic comebacks. Join a commentary team TBA for the move-by-move. 2022.04.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-day-1\"><i",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-1",
+         "pubDate" : "Tue, 15 Feb 2022 20:33:25 +0000",
+         "title" : "The American Cup 2022: Day 1"
+      },
+      {
+         "description" : " Share!In 2003, Maurice Ashley and Stephen Muhammad joined the roster of participants of the prestigious U.S. Chess Championship, the hallmark of American tournaments. It is a chance for glory and to be included in the annals of history along with the list of luminaries whose plaques now adorn the World Chess Hall-of-Fame museum in St. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/15/black-history-month-2022-day-15-ashley-muhammad/\">Black History Month 2022-Day 15: Ashley &#038; Muhammad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/15/black-history-month-2022-day-14-ashley-muhammad/",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/15/black-history-month-2022-day-15-ashley-muhammad/",
          "pubDate" : "Tue, 15 Feb 2022 20:21:02 +0000",
-         "title" : "Black History Month 2022-Day 14: Ashley & Muhammad"
+         "title" : "Black History Month 2022-Day 15: Ashley & Muhammad"
       },
       {
          "description" : "The \"Battle of the Sexes\" was a ten-round Scheveningen match between ten male and ten female players that was played from 24 January to 3rd February in Gibraltar. The men won 53-47, and looking back on the match, Irina Bulmaga (pictured), who commentated the games live in Gibraltar, wonders if and why the men were better at team-building and what this match says about women's chess. | Photo: David Llada",
@@ -922,28 +946,12 @@ news_feed (
          "title" : "Rapport vs. Fedoseev: King Power in Berlin | Grandmaster's Choice - GM Josh Friedel | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows how he won the Saint Louis Master Lab II, a classical six-player double round robin tournament held over two weekends in February 2022 at the Chess Club. The mysterious masked Caleb placed second at the first Master Lab in October 2019. 2022.02.08<br /> Prateek Nemmali vs. Caleb Denby, 2022: B13 Caro-Kann, exchange variation<br /> Vinee Thatiparthi vs. Denby, 2022: B10 Caro-Kann, closed (Breyer) variation<br /> Denby vs Prateek Nemmali, 2022: D53 Queen&#039;s Gambit Declined, 4.Bg5 Be7, 5.e3 O-O </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-i-won-stl-master-lab-2-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 09 Feb 2022 02:26:21 +0000",
-         "title" : "How I Won STL Master Lab 2 | Road to 2000 - NM Caleb Denby"
-      },
-      {
          "description" : " GM Yuri Averbakh has just turned 100 years old, which I'm guessing makes him the oldest GM ever. Born in 1922 his chess career start before World War II, but really flourished after the war finished. He played in the 1953 Candidates Match, and was a regular competitor up until the 1990's (an even played a few games as late as 2007). He was renowned endgame theorist writing a number of important books in this field. In the 1950' and 60's he travelled to a number of non Warsaw-Pact countries, as part of chess goodwill tours. He played in the Australian Championship in 1960, as a guest players, and scored 14/15. During that event he faced most of the leading Australian players, including forme",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/02/happy-100-yuri.html",
          "pubDate" : "Tue, 08 Feb 2022 22:34:00 +0000",
          "title" : "Happy 100 Yuri"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess class on a topic of his choice. 2022.02.08<br /> Richard Rapport vs Vladimir Fedoseev, FIDE Grand Prix Berlin (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2243760\">https://www.chessgames.com/perl/chessgame?gid=2243760</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rapport-fedoseev-king-power-grandmasters-choice-gm-josh-friedel-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/fil",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rapport-fedoseev-king-power-grandmasters-choice-gm-josh-friedel-lichessorg",
-         "pubDate" : "Tue, 08 Feb 2022 20:26:00 +0000",
-         "title" : "Rapport - Fedoseev King Power | Grandmaster's Choice - GM Josh Friedel | lichess.org"
       },
       {
          "description" : "Yury Averbakh is the world's oldest living Grandmaster. In his prime, he was one of the strongest players in the USSR and the world, and in 1953 he took part in the legendary Candidates Tournament in Zurich. After his active career Averbakch worked as author, editor, theoretician, second and official. Today, 8 February, he turns 100! Congratulations! | Photo: Averbakh at the match USA vs. USSR, New York City, 1954 (via D. Griffith)",
@@ -1608,14 +1616,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-ratings-february-2022",
          "pubDate" : "Wed, 02 Feb 2022 09:23:08 +0100",
          "title" : "FIDE ratings February 2022"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> January 2022 Chess Puzzle Answer Key </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">Chess Puzzles</div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/january-2022-chess-puzzle-answer-key",
-         "pubDate" : "Wed, 02 Feb 2022 06:00:00 +0000",
-         "title" : "January 2022 Chess Puzzle Answer Key "
       },
       {
          "description" : "Top seed Ding Liren is out of the Berlin FIDE Grand Prix after failing to get a visa for travel to Berlin, leaving his Candidates Tournament qualification hopes in ruins. He'll be replaced by Polish star Radoslaw Wojtaszek, while Dmitry Andreikin tested positive and has been replaced by the man who originally just missed out, Andrey Esipenko. Players are still due to arrive in Berlin in the next day or two, so that there are no guarantees those are the final changes.",
