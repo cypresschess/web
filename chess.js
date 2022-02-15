@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time, the Saint Louis Chess Club will host The American Cup, highlighting an exciting and unique double elimination format. This new format and tournament will bring world class chess masters to America's chess capital to compete in a fierce do-or-die struggle for $300,000 total in prize money. With a double elimination format, fans can expect The American Cup to have a combination of exciting chess play, stunning upsets, and epic comebacks. Press release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/double-knockout-in-saint-louis",
+         "pubDate" : "Tue, 15 Feb 2022 13:00:00 +0100",
+         "title" : "Double knockout in Saint Louis"
+      },
+      {
+         "description" : "On 8 February Yury Averbakh celebrated his 100th birthday. GM Sergey Yanovsky visited the jubilarian and presented him with the Golden Plaque of the Russian Chess Federation. An exhibition was opened in his honour at the Central Chess Club. Averbakh received countless congratulations and was greeted per video by FIDE President Arkady Dvorkovich and Garry Kasparov. | Photos: Sergey Yanovsky and Vladimir Barsky (Russian Chess Federation)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-chess-federation-honours-yury-averbakh",
+         "pubDate" : "Tue, 15 Feb 2022 12:30:34 +0100",
+         "title" : "Russian Chess Federation honours Yury Averbakh"
+      },
+      {
+         "description" : "The European Chess Union invites the National federations members to submit bids for the organization of the official European Chess Championships in 2024 including combined bids for next years.&#160; The bids must be submitted exclusively in the Bid form regulated by the ECU (in the attachment). For any additional documents delivered separately from the bid form, it must&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/invitation-for-bids-european-chess-championships-2024/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/invitation-for-bids-european-chess-championships-2024/",
+         "pubDate" : "Tue, 15 Feb 2022 09:26:02 +0000",
+         "title" : "INVITATION FOR BIDS - EUROPEAN CHESS CHAMPIONSHIPS 2024"
+      },
+      {
          "description" : "Knights can fork kings, queen and rooks, but in endgames they are often surprisingly helpless against rooks. In the diagrammed position Black's passed pawn on the h-file looks dangerous but the white rooks have everything under control. What did White play to win the game?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1842,14 +1866,6 @@ news_feed (
          "title" : "The colour of silence: art, chess and synaesthesia"
       },
       {
-         "description" : "In the diagram position White has a shortcut to victory, enabling him to hunt down Black's king ... or his queen on h1! Can you work it all out in your head?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/no-endgame-technique-required",
-         "pubDate" : "Sat, 29 Jan 2022 09:00:00 +0100",
-         "title" : "No endgame technique required!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89196948.cms\" />Five-time chess world champion Viswanathan Anand has been roped in as a mentor of the Indian players looking to break into the team for the Asian Games in Hangzhou, China, where the sport will make a comeback after a gap of 12 years.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1864,14 +1880,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-masters-vidit-gujrathi-holds-magnus-carlsen-to-draw-r-praggnanandhaa-loses-to-fabiano-caruana/articleshow/89195233.cms",
          "pubDate" : "Sat, 29 Jan 2022 11:22:08 +0530",
          "title" : "Tata Steel Masters: Vidit Gujrathi holds Magnus Carlsen to draw, R Praggnanandhaa loses to Fabiano Caruana"
-      },
-      {
-         "description" : "Endgame studies sometimes go to extremes, e.g. by demonstrating a win in 584(!) moves in a study, in which King, Rook, two Bishops (standing on the same colour), and pawn fight against King, Queen and Pawn. But are these and similar studies relevant for the theory of the endgame or practical games? It depends. Siegfried Hornecker takes a closer look.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-endgame-studies-endgame-theory",
-         "pubDate" : "Sat, 29 Jan 2022 06:00:00 +0100",
-         "title" : "Study of the Month: Endgame Studies, Endgame Theory"
       },
       {
          "description" : "",
