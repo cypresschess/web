@@ -50,7 +50,7 @@ news_feed (
          "title" : "India to host three GM Open tournaments at Guwahati, Delhi and Gujarat in March 2022"
       },
       {
-         "description" : " Share! Raphaelle DelahayePhotothèque � Europe-Echecs France has a storied history and it one of the most iconic countries for chess. It is well-known that François-Andr&eacute; Danican Philidor was one of the first chess pioneers and his Analyse du jeu des Échecs was a standard chess guide for more than a century. Even military commander Napoleon [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/14/black-history-month-2022-day-14-raphaelle-bujisho/\">Black History Month 2022-Day 14: Raphaelle Bujisho</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!84 Raphaelle DelahayePhotothèque � Europe-Echecs France has a storied history and it one of the most iconic countries for chess. It is well-known that François-Andr&eacute; Danican Philidor was one of the first chess pioneers and his Analyse du jeu des Échecs was a standard chess guide for more than a century. Even military commander Napoleon [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/14/black-history-month-2022-day-14-raphaelle-bujisho/\">Black History Month 2022-Day 14: Raphaelle Bujisho</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/14/black-history-month-2022-day-14-raphaelle-bujisho/",
@@ -1784,6 +1784,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-wins-tata-steel-challengers-with-a-round-to-spare/articleshow/89207312.cms",
          "pubDate" : "Sat, 29 Jan 2022 21:09:32 +0530",
          "title" : "Arjun Erigaisi wins Tata Steel Challengers with a round to spare"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89205069.cms\" />As chess makes a return to the Asian Games for the first time since the 2010 Guangzhou edition in China, India will be hoping for a medal rush. The AICF (All India Chess Federation), on Saturday, named five-time former World champion Viswanathan Anand as the team mentor. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-expects-strong-finish-for-india-at-asian-games/articleshow/89205069.cms",
+         "pubDate" : "Sat, 29 Jan 2022 19:16:24 +0530",
+         "title" : "AICF expects strong finish for India at Asian Games"
       },
       {
          "description" : " Chess in Canberra has received some fantastic media coverage of the last few years, due in no small part to James Buckley. He is a sports writer for the Canberra Times, as well as being a more than handy chess player. As a result, a lot of chess coverage ends up being featured in the sports section (alongside cricket or rugby), rather than being relegated to the 'lifestyle' section. Towards the end of February, James is taking part in a 'Special Forces Challenge' to raise money for the Terry Campese Foundation. Along with a number of other Canberra sporting and business identities, James is spending 30 hours being put through the wringer by a 'bunch of ex-army types'. While most of the chal",
