@@ -1786,14 +1786,6 @@ news_feed (
          "title" : "Arjun Erigaisi wins Tata Steel Challengers with a round to spare"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89205069.cms\" />As chess makes a return to the Asian Games for the first time since the 2010 Guangzhou edition in China, India will be hoping for a medal rush. The AICF (All India Chess Federation), on Saturday, named five-time former World champion Viswanathan Anand as the team mentor. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-expects-strong-finish-for-india-at-asian-games/articleshow/89205069.cms",
-         "pubDate" : "Sat, 29 Jan 2022 19:16:24 +0530",
-         "title" : "AICF expects strong finish for India at Asian Games"
-      },
-      {
          "description" : " Chess in Canberra has received some fantastic media coverage of the last few years, due in no small part to James Buckley. He is a sports writer for the Canberra Times, as well as being a more than handy chess player. As a result, a lot of chess coverage ends up being featured in the sports section (alongside cricket or rugby), rather than being relegated to the 'lifestyle' section. Towards the end of February, James is taking part in a 'Special Forces Challenge' to raise money for the Terry Campese Foundation. Along with a number of other Canberra sporting and business identities, James is spending 30 hours being put through the wringer by a 'bunch of ex-army types'. While most of the chal",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
