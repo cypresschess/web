@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Knights can fork kings, queen and rooks, but in endgames they are often surprisingly helpless against rooks. In the diagrammed position Black's passed pawn on the h-file looks dangerous but the white rooks have everything under control. What did White play to win the game?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/black-s-knight-s-knightmare",
+         "pubDate" : "Tue, 15 Feb 2022 09:00:00 +0100",
+         "title" : "Black's knight's knightmare"
+      },
+      {
+         "description" : "The English newspaper \"The Guardian\" recently published an interview with Garry Kasparov in which the 13th World Champion openly talks about his chess career, his political activities, his loss against Deep Blue, and how it feels to be thrown into jail. | Photo: Saint Louis Chess Center",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/garry-kasparov-talks-about-his-life",
+         "pubDate" : "Tue, 15 Feb 2022 08:50:00 +0100",
+         "title" : "Garry Kasparov talks about his life"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1576",
+         "pubDate" : "Tue, 15 Feb 2022 00:12:02 +0000",
+         "title" : "Andreikin replaces Ding in Belgrade"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1850,14 +1874,6 @@ news_feed (
          "title" : "Study of the Month: Endgame Studies, Endgame Theory"
       },
       {
-         "description" : "Anish Giri is all but out of contention for first place at the Tata Steel Masters tournament, as he was defeated by Jorden van Foreest in Friday's eleventh round. Magnus Carlsen signed a draw against Vidit Gujrathi and has a half-point lead over Richard Rapport going into the final weekend of the event. Moreover, Carlsen will get a free point in the last round, when he was supposed to face Daniil Dubov, who had to leave the tournament after testing positive for Covid-19. | Photo: Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r11",
-         "pubDate" : "Sat, 29 Jan 2022 05:55:00 +0100",
-         "title" : "Tata Steel R11: Van Foreest takes down Giri"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1872,14 +1888,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-12",
          "pubDate" : "Fri, 28 Jan 2022 12:18:00 -0800",
          "title" : "Tata Steel Chess 2022 R12: Carlsen Wins With Round To Spare"
-      },
-      {
-         "description" : "In his Power Play Show, GM Daniel King looks at tactical moments from the Tata Steel tournaments. The main game under consideration is Caruana vs Rapport which is more strategic and displays Rapport's ambitious and somewhat unorthodox style. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-tata-tactics",
-         "pubDate" : "Fri, 28 Jan 2022 18:30:00 +0100",
-         "title" : "Daniel King's Power Play Show: Tata tactics"
       },
       {
          "description" : "",
