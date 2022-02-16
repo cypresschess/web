@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! Wyndham Orlando Resort (International Drive) From March 13th-15th, Florida &#8220;the sunshine state&#8221; will be hosting its statewide scholastic tournament with nine sections. The entry fee for scholastic players is a nominal $40 by February 25th. There is no onsite entry so make your plans ahead of time! Check floridachess.org for details or click on [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/16/chess-in-2022-heating-up-the-sunshine-state/\">Chess in 2022 heating up the Sunshine State!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/16/chess-in-2022-heating-up-the-sunshine-state/",
+         "pubDate" : "Wed, 16 Feb 2022 05:17:24 +0000",
+         "title" : "Chess in 2022 heating up the Sunshine State!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Katerina Nemcova talks about short-term positional play in chess. The mysterious masked Katerina gives insight into her own development as a player. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-play-short-term-plans-grandmasters-choice-wgm-katerina-nemcova-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Kq7129BnWJs.jpg?itok=7lNkyHY-\" alt",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Learn from Your WORST Games | Road to 2000 - NM Caleb Denby"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Katerina Nemcova talks about short-term positional play in chess. 2022.02.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-play-short-term-plans-grandmasters-choice-wgm-katerina-nemcova\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Kq7129BnWJs.jpg?itok=7lNkyHY-\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Katerina Nemcova talks about short-term positional play in chess. The mysterious masked Katerina gives insight into her own development as a player. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-play-short-term-plans-grandmasters-choice-wgm-katerina-nemcova\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Kq7129BnWJs.jpg?itok=7lNkyHY-\" alt=\"\" /></a><",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/positional-play-short-term-plans-grandmasters-choice-wgm-katerina-nemcova",
@@ -74,7 +82,7 @@ news_feed (
          "title" : "The American Cup 2022: Day 1"
       },
       {
-         "description" : " Share!In 2003, Maurice Ashley and Stephen Muhammad joined the roster of participants of the prestigious U.S. Chess Championship, the hallmark of American tournaments. It is a chance for glory and to be included in the annals of history along with the list of luminaries whose plaques now adorn the World Chess Hall-of-Fame museum in St. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/15/black-history-month-2022-day-15-ashley-muhammad/\">Black History Month 2022-Day 15: Ashley &#038; Muhammad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " In 2003, Maurice Ashley and Stephen Muhammad joined the roster of participants of the prestigious U.S. Chess Championship, the hallmark of American tournaments. It is a chance for glory and to be included in the annals of history along with the list of luminaries whose plaques now adorn the World Chess Hall-of-Fame museum in St. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/15/black-history-month-2022-day-15-ashley-muhammad/\">Black History Month 2022-Day 15: Ashley &#038; Muhammad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/15/black-history-month-2022-day-15-ashley-muhammad/",
@@ -106,7 +114,7 @@ news_feed (
          "title" : "Need sure points? Two Knights Defence, Traxler Wilkes-Barre Variation Edition"
       },
       {
-         "description" : "For the first time since 2013 we have two WIM Invitational Women's Norm tournaments in London on 07-11 April 2022. 1. \"ECF Women's Norm Event...",
+         "description" : "For the first time since 2013, we have two WIM Invitational Women's Norm tournaments in London on 7th-11th April 2022. ECF Women's Norm Event 2022...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/she-plays-to-win/",
@@ -135,7 +143,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
          "pubDate" : "Tue, 15 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix Final - Live!"
+         "title" : "FIDE Grand Prix Final - Games and results"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/58ca094b-dc87-4371-86b9-f4fe682ee581/JEremy3.jpg\" data-image-dimensions=\"435x219\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"620baed702d83b13a72baa93\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/58ca094b-dc87-4371-86b9-f4fe682ee581/JEremy3.jpg?format=1000w\" /> </figure> <p class=\"\">This week's<a href=\"https://www.perpetualchesspod.com/adultimprover\"><span> Adult Improver Edition</span></a> of Perpetual Chess features NM Jeremy Kane: Blitz specialist, USCF",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/yuri-averbakh-100-years",
          "pubDate" : "Mon, 07 Feb 2022 22:29:00 -0800",
          "title" : "Yuri Averbakh, The Oldest Living Grandmaster, Turns 100"
-      },
-      {
-         "description" : " &#8220;I've never heard of him.&#8221; This is a statement I've heard many times when referring to FM Morris Giles. In covering Black players in the U.S. or &#8220;African-Americans&#8221; as we are commonly called, there are those who invoke vivid memories. Of course, we have heard of Maurice Ashley and Emory Tate, for good reason. Perhaps [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/08/black-history-month-2022-day-8-fm-morris-giles/\">Black History Month 2022-Day 8: FM Morris Giles</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/08/black-history-month-2022-day-8-fm-morris-giles/",
-         "pubDate" : "Tue, 08 Feb 2022 06:11:10 +0000",
-         "title" : "Black History Month 2022-Day 8: FM Morris Giles"
       },
       {
          "description" : "Yuri Lvovich Averbakh was born 100 years ago today. As a boy, he saw Emanuel Lasker play, and he went on to witness almost the entire rise and fall of the Soviet School of Chess, winning the USSR Championship in 1954 and tying for first place with Mark Taimanov and Boris Spassky two years later. For the occasion, FM Yosha Iglesias looks back on the remarkable life of the oldest ever Grandmaster.",
@@ -2056,14 +2056,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/novelty-blitz-format.html",
          "pubDate" : "Wed, 26 Jan 2022 12:15:00 +0000",
          "title" : "Novelty blitz format?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89130551.cms\" />Indian Grandmaster Vidit Gujrathi drew with Richard Rapport of Hungary in the ninth round to be in joint third place with 5.5 points in the Tata Steel Masters chess tournament here.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/vidit-gujrathi-draws-with-richard-rapport-in-joint-third-place-magnus-carlsen-in-lead/articleshow/89130551.cms",
-         "pubDate" : "Wed, 26 Jan 2022 10:18:35 +0530",
-         "title" : "Tata Steel Masters: Vidit draws with Rapport to be joint 3rd, Carlsen in lead"
       }
    ]
 }
