@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">In just two weeks, Belgrade will host the second leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022.</a> Sixteen GMs will participate and claim their position in the 2022 Candidates Tournaments, but unfortunately, Ding Liren is not one of them. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/table-1.png\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> The news that <a href=\"https://worldchess.com/news/all/ding-liren-worlds-number-3-replaced-in-the-grand-prix-series/\">Ding Liren is likely to miss the Candidates</a> has shocked the chess world once more. Liren missed the first leg of the Grand Prix because he f",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-pools-for-the-second-leg-of-the-fide-world-chess-grand-prix/",
+         "pubDate" : "Wed, 16 Feb 2022 12:17:57 +0000",
+         "title" : "The pools for the second leg of the FIDE World Chess Grand Prix 2022 in Belgrade"
+      },
+      {
+         "description" : "On 14 February the Yugoslav-Serbian grandmaster Borislav Ivkov died in Belgrade at the age of 88. In 1951 Ivkov was World Junior Champion and in the 1960s and 1970s he was one of the world's best players. He made it to the Candidates in 1965, and who played in the Interzonal Tournaments in 1967, 1970, 1973, and 1979. | Photo: Durch National Archive",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-borislav-ivkov-12-november-1933-14-february-2022",
+         "pubDate" : "Wed, 16 Feb 2022 12:58:07 +0100",
+         "title" : "Remembering Borislav Ivkov (12 November 1933 - 14 February 2022)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1556",
+         "pubDate" : "Wed, 16 Feb 2022 11:06:23 +0000",
+         "title" : "FIDE introduces the use of electronic scoresheets in cooperation with Clono"
+      },
+      {
          "description" : " <p class=\"lead\">As the Berlin leg of the FIDE Grand Prix Series 2022 draws to a close, the pools for the second leg are determined. The Belgrade leg runs from 28 February to 14 March and features 16 elite chess players vying for a prize fund of €150,000 and the last two spots in the Candidates Tournament scheduled to take place in Madrid this June.  <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/sEpETc67brU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> The draw ceremony, held over Zoom, was chaired by the Chief Arbiter and identified the pools of players for the second leg of the Series.  <br /> As before the first leg, for th",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -872,14 +896,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/2022-lifeline-bookfair.html",
          "pubDate" : "Thu, 10 Feb 2022 11:57:00 +0000",
          "title" : "2022 Lifeline Bookfair"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/LCB67FLwm_k?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/sometimes-i-really-dislike-my-opponents-after-the-games-vidit-gu/",
-         "pubDate" : "Thu, 10 Feb 2022 09:22:04 +0000",
-         "title" : "\"Sometimes I really dislike my opponents after the games\" - Vidit Gujrathi"
       },
       {
          "description" : "Levon Aronian is in the Berlin FIDE Grand Prix semi-finals and now the new US no. 1 on the live rating list after winning a thriller against Vincent Keymer. Hikaru Nakamura defeated Alexander Grischuk's King's Indian Defence in style but still faces a showdown against Andrey Esipenko in the last round, after the 19-year-old beat Etienne Bacrot. Wesley So leads Group D, but Leinier Dominguez beat Harikrishna to move to within half a point, while Group B is wide open, with Radek Wojtaszek and Vladimir Fedoseev neck and neck with Richard Rapport half a point back.",
@@ -1890,14 +1906,6 @@ news_feed (
          "title" : "Player Types - The Activist"
       },
       {
-         "description" : "Magnus Carlsen beat Fabiano Caruana to claim his eighth tournament title in Wijk aan Zee with a round to spare. The world champion will not even need to show up for Sunday's final round, as the organizers of the tournament confirmed that Daniil Dubov will not be playing despite testing negative to a second Covid-19 PCR test. Meanwhile, Arjun Erigaisi clinched the title in the Challengers, thus getting an invitation to next year's main event. | Photo: Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r12",
-         "pubDate" : "Sun, 30 Jan 2022 07:10:00 +0100",
-         "title" : "Magnus Carlsen grabs eighth title in Wijk aan Zee"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2056,14 +2064,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-draws-quickly-against-karjakin-and-4-decisive-games-in-tata-steel-masters-round-10",
          "pubDate" : "Wed, 26 Jan 2022 22:20:00 +0400",
          "title" : "Carlsen draws quickly against Karjakin and 4 decisive games in Tata Steel Masters Round 10 - 10"
-      },
-      {
-         "description" : " At the Dubbo Open each year, the organisers run a novelty blitz event on the Saturday Night. It is a time handicap event, where the difference in rating determines the time difference between the 2 players. However, based in part on an idea by IM Jovan Petronic, there may be another format. Petronic's initial suggestion concerned Swiss Pairings. He wondered if anyone had tried a format where the lowest ranked player in a scoregroup could choose their next opponent (from that group), instead of having the pairing assigned by the computer. Of course there would be issues with floaters and colour allocations, but in looking to deal with those, I came up with a modified format. NB This would on",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/novelty-blitz-format.html",
-         "pubDate" : "Wed, 26 Jan 2022 12:15:00 +0000",
-         "title" : "Novelty blitz format?"
       }
    ]
 }
