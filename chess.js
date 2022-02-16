@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Game 2 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> finals between Hikaru Nakamura and Levon Aronian ended in a peaceful draw. Tomorrow's tiebreaks will decide the winner of the first leg. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-8.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220216150618_IMG_2420.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220216150551_IMG_2418.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/n",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-2022-aronian-and-nakamura-go-to-tiebreaks/",
+         "pubDate" : "Wed, 16 Feb 2022 16:01:06 +0000",
+         "title" : "FIDE Grand Prix 2022: Aronian and Nakamura go to tiebreaks"
+      },
+      {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -856,14 +864,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1568",
          "pubDate" : "Thu, 10 Feb 2022 22:26:22 +0000",
          "title" : "FIDE Grand Prix: Nakamura joins Aronian in semifinals"
-      },
-      {
-         "description" : " <p class=\"lead\">Round 6 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with Nakamura and Aronian being the semifinalists of Group A and C. Tomorrow, Wojtaszek-Rapport and Dominguez-So games will determine the Group B and D semifinalists respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-4.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220210154727_IMG_1551.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220210154238_IMG_1548.jpg\" width=\"2560\" height=\"",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/aronian-and-nakamura-are-the-first-fide-grand-prix-semifinalists/",
-         "pubDate" : "Thu, 10 Feb 2022 20:37:30 +0000",
-         "title" : "Aronian and Nakamura are the first FIDE Grand Prix semifinalists"
       },
       {
          "description" : "",
