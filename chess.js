@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">As the Berlin leg of the FIDE Grand Prix Series 2022 draws to a close, the pools for the second leg are determined. The Belgrade leg runs from 28 February to 14 March and features 16 elite chess players vying for a prize fund of €150,000 and the last two spots in the Candidates Tournament scheduled to take place in Madrid this June.  <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/sEpETc67brU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> The draw ceremony, held over Zoom, was chaired by the Chief Arbiter and identified the pools of players for the second leg of the Series.  <br /> As before the first leg, for th",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/pools-for-the-second-leg-of-the-fide-grand-prix-series-2022-to-b/",
+         "pubDate" : "Wed, 16 Feb 2022 09:57:34 +0000",
+         "title" : "Pools For the Second Leg of the FIDE Grand Prix Series 2022 to be held in Serbia announced"
+      },
+      {
+         "description" : "GM Borislav Ivkov, the first World Junior Champion, three-time Yugoslav champion, and former world championship candidate who defeated five world champions of chess, died on Monday at the age of 88. The news was confirmed by FIDE. &#34;To be honest,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/borislav-ivkov-chess-obituary",
+         "pubDate" : "Wed, 16 Feb 2022 01:54:00 -0800",
+         "title" : "Borislav Ivkov, 1933-2022"
+      },
+      {
+         "description" : "Hikaru Nakamura had the white pieces in the first game of the final at the FIDE Grand Prix in Berlin. Nakamura was on the back foot after playing what his opponent Levon Aronian considered to be an \"erroneous\" plan. However, Aronian could not make the most of his advantage and ended up needing to show precision to hold a 54-move draw. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-f1",
+         "pubDate" : "Wed, 16 Feb 2022 10:30:00 +0100",
+         "title" : "Berlin GP Final: An exciting draw"
+      },
+      {
+         "description" : "Levon Aronian won a pawn and had chances to score a hugely important win with the black pieces in Game 1 of the Berlin FIDE Grand Prix Final, but a complicated middlegame suddenly left Hikaru Nakamura as the player pushing for victory. Only what Hikaru called an \"amazing\" defence saved the day for Levon, who let his opponent queen a pawn but was just in time to force a draw by perpetual check. Levon will now have White in Wednesday's Game 2.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/berlin-gp-final-1-nakamura-aronian-both-dodge-bullets",
+         "pubDate" : "Wed, 16 Feb 2022 09:17:57 +0000",
+         "title" : "Berlin GP Final 1: Nakamura & Aronian both dodge bullets"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -62,8 +94,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-finals-g1",
-         "pubDate" : "Tue, 15 Feb 2022 14:12:25 -0800",
-         "title" : "2022 FIDE Grand Prix Berlin F1: Memorable Clash Ends In Thrilling Draw"
+         "pubDate" : "Tue, 15 Feb 2022 14:12:00 -0800",
+         "title" : "2022 FIDE Grand Prix Berlin Final: Memorable 1st Clash Ends In Thrilling Draw"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The Corporate Chess League kicks off its Spring season. Join NM Caleb Denby for the move-by-move. 2022.02.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-corporate-chess-league-virtual-spring-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wi1hnwo0vdw.jpg?itok=QrlmrKhw\" alt=\"\" /></a></div>",
@@ -144,14 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-announces-leagues-contest-winners",
          "pubDate" : "Tue, 15 Feb 2022 06:17:00 -0800",
          "title" : "Announcing Winners Of The Chess.com Leagues Contest"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
-         "pubDate" : "Tue, 15 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix Final - Games and results"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/58ca094b-dc87-4371-86b9-f4fe682ee581/JEremy3.jpg\" data-image-dimensions=\"435x219\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"620baed702d83b13a72baa93\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/58ca094b-dc87-4371-86b9-f4fe682ee581/JEremy3.jpg?format=1000w\" /> </figure> <p class=\"\">This week's<a href=\"https://www.perpetualchesspod.com/adultimprover\"><span> Adult Improver Edition</span></a> of Perpetual Chess features NM Jeremy Kane: Blitz specialist, USCF",
@@ -888,14 +912,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r5",
          "pubDate" : "Wed, 09 Feb 2022 15:33:00 -0800",
          "title" : "2022 FIDE Grand Prix Berlin R5: Aronian Qualifies, Tense Last Group Round Awaits"
-      },
-      {
-         "description" : " Today's round in the Berlin Grand Prix began with a bit of drama. The president of the German Chess Federation, Ullrich Krause, had been invited to execute the first \"ceremonial\" move on GM Vincent Keymer's board. However, while fifteen of the sixteen players were already firmly seated, most of them fully concentrated, Keymer's opponent - GM Levon Aronian - had yet to appear. The signs of relief on Chief Arbiter Ivan Syrovy's face when Aronian finally stepped into the playing venue at exactly 14.59 were clearly visible. The former Armenian player, now representing the USA, greeted his opponent and awaited 1.d4, in this case played by Krause, and the round was on. <div class=\"e2-text-picture",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-2022-levon-aronian-first-semifinalist/",
-         "pubDate" : "Wed, 09 Feb 2022 23:30:51 +0000",
-         "title" : "FIDE Grand Prix 2022: Levon Aronian, first semifinalist"
       },
       {
          "description" : "A week after finishing in third place, IM Le Tuan Minh earned a victory in the second week of Arena Kings Season 9 on Wednesday. He defeated GM Vugar Rasulov in a close 3-2 final (+2 -1 =2). Semifinalists GM Oleksandr Bortnyk and GM Jose Martine...",
@@ -1642,14 +1658,6 @@ news_feed (
          "title" : "FIDE ratings February 2022"
       },
       {
-         "description" : "Top seed Ding Liren is out of the Berlin FIDE Grand Prix after failing to get a visa for travel to Berlin, leaving his Candidates Tournament qualification hopes in ruins. He'll be replaced by Polish star Radoslaw Wojtaszek, while Dmitry Andreikin tested positive and has been replaced by the man who originally just missed out, Andrey Esipenko. Players are still due to arrive in Berlin in the next day or two, so that there are no guarantees those are the final changes.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-grand-prix-in-turmoil-as-players-forced-to-pull-out",
-         "pubDate" : "Tue, 01 Feb 2022 17:55:39 +0000",
-         "title" : "FIDE Grand Prix in turmoil as players forced to pull out"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1904,14 +1912,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-wins-the-tata-steel-masters-and-erigaisi-the-challengers-both-with-a-round-to-spare",
          "pubDate" : "Sat, 29 Jan 2022 22:58:00 +0400",
          "title" : "Carlsen wins the Tata Steel Masters and Erigaisi the Challengers both with a round to spare - 12"
-      },
-      {
-         "description" : "GM Sergey Karjakin, GM Praggnanandhaa R., and GM Jorden van Foreest finished their&#38;nbsp;2022 Tata Steel Chess Tournament with wins in the final round on Sunday. GM Magnus Carlsen had already won the tournament with a round to spare and got a forfe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-13",
-         "pubDate" : "Sat, 29 Jan 2022 07:50:00 -0800",
-         "title" : "Tata Steel Chess 2022 R13: Karjakin, Praggnanandhaa, Van Foreest Score"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89207312.cms\" />Grandmaster Arjun Erigaisi became the fourth Indian player after P Harikrishna, B Adhiban and Vidit Gujrathi to win the Tata Steel Challengers event at Wijk Aan Zee in The Netherlands on Saturday evening. ",
