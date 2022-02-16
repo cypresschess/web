@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1580",
+         "pubDate" : "Wed, 16 Feb 2022 09:00:33 +0000",
+         "title" : "FIDE Podcast: New episode now available"
+      },
+      {
          "description" : " Share! Wyndham Orlando Resort (International Drive) From March 13th-15th, Florida &#8220;the sunshine state&#8221; will be hosting its statewide scholastic tournament with nine sections. The entry fee for scholastic players is a nominal $40 by February 25th. There is no onsite entry so make your plans ahead of time! Check floridachess.org for details or click on [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/16/chess-in-2022-heating-up-the-sunshine-state/\">Chess in 2022 heating up the Sunshine State!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
