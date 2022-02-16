@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Katerina Nemcova talks about short-term positional play in chess. The mysterious masked Katerina gives insight into her own development as a player. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-play-short-term-plans-grandmasters-choice-wgm-katerina-nemcova-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Kq7129BnWJs.jpg?itok=7lNkyHY-\" alt",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/positional-play-short-term-plans-grandmasters-choice-wgm-katerina-nemcova-lichessorg",
+         "pubDate" : "Wed, 16 Feb 2022 02:33:25 +0000",
+         "title" : "Positional Play: Short-Term Plans | Grandmaster's Choice - WGM Katerina Nemcova | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. The mysterious masked Caleb shows the only game he lost from the 2022 Master Lab tournament in Saint Louis. 2022.02.15<br /> Julian Proleiko vs. Caleb Denby, 2022: B18 Caro-Kann, classical variation<br /> Denby vs. Arjun Puri, 2022: D10 Queen&#039;s Gambit Declined Slav defence, exchange variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learn-your-worst-games-ro",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/learn-your-worst-games-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 16 Feb 2022 02:33:25 +0000",
+         "title" : "Learn from Your WORST Games | Road to 2000 - NM Caleb Denby"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Katerina Nemcova talks about short-term positional play in chess. 2022.02.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-play-short-term-plans-grandmasters-choice-wgm-katerina-nemcova\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Kq7129BnWJs.jpg?itok=7lNkyHY-\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -840,22 +856,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-january-2022/",
          "pubDate" : "Thu, 10 Feb 2022 08:43:49 +0000",
          "title" : "ECU E-MAGAZINE JANUARY 2022"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> How do the pros train for tournaments? From deep opening preparation to middle game ideas, learn how to best equip yourself for competition. The mysterious masked Josh... 2022.02.10<br /> Daniil Dubov vs Vincent Keymer, FIDE Grand Prix Berlin (2022): B12 Caro-Kann, advance variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2246151\">https://www.chessgames.com/perl/chessgame?gid=2246151</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-p",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-josh-friedel-lichessorg",
-         "pubDate" : "Thu, 10 Feb 2022 08:27:21 +0000",
-         "title" : "Prepare Like A Pro - GM Josh Friedel | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani tests viewers with the scariest tactics test. Solve up to 64 puzzles with the rest of the class. 2022.02.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactical-scare-exam-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Wx5fGdVwhRg.jpg?itok=W_LYPGmI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tactical-scare-exam-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 10 Feb 2022 02:26:53 +0000",
-         "title" : "Tactical SCARE Exam! | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "Levon Aronian became the first player to secure a spot in the semifinals of the FIDE Grand Prix in Berlin. The US grandmaster qualified to the knockout stage with one round to spare after getting an unsurmountable 1&frac12;-point lead in pool C. Suspense remains in the other three pools, though, with seven players going into Thursday's sixth round still with chances of getting one of the three remaining spots. | Photos: World Chess",
