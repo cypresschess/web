@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Katerina Nemcova talks about short-term positional play in chess. 2022.02.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-play-short-term-plans-grandmasters-choice-wgm-katerina-nemcova\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Kq7129BnWJs.jpg?itok=7lNkyHY-\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/positional-play-short-term-plans-grandmasters-choice-wgm-katerina-nemcova",
+         "pubDate" : "Tue, 15 Feb 2022 23:33:23 +0000",
+         "title" : "Positional Play: Short-Term Plans | Grandmaster's Choice - WGM Katerina Nemcova"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2022.02.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learn-your-worst-games-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gvmMqCuySs4.jpg?itok=s5FakNWx\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/learn-your-worst-games-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Tue, 15 Feb 2022 23:33:23 +0000",
+         "title" : "Learn from Your WORST Games | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1579",
+         "pubDate" : "Tue, 15 Feb 2022 22:40:53 +0000",
+         "title" : "Exciting chess in the FIDE Grand Prix Berlin final"
+      },
+      {
+         "description" : "GM Hikaru Nakamura and GM Levon Aronian were involved in a memorable clash in the first game of the 2022 FIDE Grand Prix first leg finals in Berlin. Both the players had the upper hand at different points of the game which ended in a draw by perpe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-finals-g1",
+         "pubDate" : "Tue, 15 Feb 2022 14:12:25 -0800",
+         "title" : "2022 FIDE Grand Prix Berlin F1: Memorable Clash Ends In Thrilling Draw"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The Corporate Chess League kicks off its Spring season. Join NM Caleb Denby for the move-by-move. 2022.02.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-corporate-chess-league-virtual-spring-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wi1hnwo0vdw.jpg?itok=QrlmrKhw\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -928,22 +960,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/university-of-texas-at-rio-grande-valley-wins-2nd-annual-kcf-university-cup",
          "pubDate" : "Wed, 09 Feb 2022 10:00:00 +0100",
          "title" : "University of Texas at Rio Grande Valley wins 2nd Annual Kasparov Chess Foundation University Cup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel analyzes the fun game between Richard Rapport and Vladimir Fedoseev at the ongoing 2022 FIDE Grand Prix in Berlin. 2022.02.08<br /> Richard Rapport vs Vladimir Fedoseev, FIDE Grand Prix Berlin (2022): E32 Nimzo-Indian, classical variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2243760\">https://www.chessgames.com/perl/chessgame?gid=2243760</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rapport-vs-fedoseev-king-powe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rapport-vs-fedoseev-king-power-berlin-grandmasters-choice-gm-josh-friedel",
-         "pubDate" : "Wed, 09 Feb 2022 05:26:21 +0000",
-         "title" : "Rapport vs. Fedoseev: King Power in Berlin | Grandmaster's Choice - GM Josh Friedel"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel teaches a chess class on a topic of his choice. 2022.02.08<br /> Richard Rapport vs Vladimir Fedoseev, FIDE Grand Prix Berlin (2022): E32 Nimzo-Indian, classical variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2243760\">https://www.chessgames.com/perl/chessgame?gid=2243760</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rapport-vs-fedoseev-king-power-berlin-grandmasters-choice-gm-josh-friedel-lichessorg\"><img src=\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rapport-vs-fedoseev-king-power-berlin-grandmasters-choice-gm-josh-friedel-lichessorg",
-         "pubDate" : "Wed, 09 Feb 2022 02:26:21 +0000",
-         "title" : "Rapport vs. Fedoseev: King Power in Berlin | Grandmaster's Choice - GM Josh Friedel | lichess.org"
       },
       {
          "description" : " GM Yuri Averbakh has just turned 100 years old, which I'm guessing makes him the oldest GM ever. Born in 1922 his chess career start before World War II, but really flourished after the war finished. He played in the 1953 Candidates Match, and was a regular competitor up until the 1990's (an even played a few games as late as 2007). He was renowned endgame theorist writing a number of important books in this field. In the 1950' and 60's he travelled to a number of non Warsaw-Pact countries, as part of chess goodwill tours. He played in the Australian Championship in 1960, as a guest players, and scored 14/15. During that event he faced most of the leading Australian players, including forme",
@@ -1946,14 +1962,6 @@ news_feed (
          "title" : "Tata Steel Masters R11: Carlsen leads, Rapport moves to second position"
       },
       {
-         "description" : "GM Magnus Carlsen secured his eighth victory in Wijk aan Zee with a round to spare. The world champion defeated GM Fabiano Caruana on Saturday and now leads the 2022 Tata Steel Chess Tournament by a full point. He will earn a forfeit win tomorrow ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tata-steel-chess-2022-round-12",
-         "pubDate" : "Fri, 28 Jan 2022 12:18:00 -0800",
-         "title" : "Tata Steel Chess 2022 R12: Carlsen Wins With Round To Spare"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2056,30 +2064,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/vidit-gujrathi-draws-with-richard-rapport-in-joint-third-place-magnus-carlsen-in-lead/articleshow/89130551.cms",
          "pubDate" : "Wed, 26 Jan 2022 10:18:35 +0530",
          "title" : "Tata Steel Masters: Vidit draws with Rapport to be joint 3rd, Carlsen in lead"
-      },
-      {
-         "description" : " From the publisher: \"I have aimed to find a good balance of verbal explanations without ignoring the hardcore variations you have to know. In case you find some of the analyses a bit too long, don't be discouraged! They have been included mainly to illustrate the thematic ideas and show in which direction the game <a href=\"http://britishchessnews.com/2022/01/26/beat-the-anti-sicilians/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Beat the Anti-Sicilians</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/01/26/beat-the-anti-sicilians/\">Beat the Anti-Sicilians</a> appeared first on <a rel=\"nofollow\" href=\"",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/01/26/beat-the-anti-sicilians/",
-         "pubDate" : "Wed, 26 Jan 2022 00:10:12 +0000",
-         "title" : "Beat the Anti-Sicilians"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1543",
-         "pubDate" : "Tue, 25 Jan 2022 22:08:53 +0000",
-         "title" : "Belarusian Championship: Maksim Tsaruk and Kseniya Zeliantsova clinch titles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1544",
-         "pubDate" : "Tue, 25 Jan 2022 21:46:37 +0000",
-         "title" : "Tata Steel Masters R09: Carlsen wins, regains the lead"
       }
    ]
 }
