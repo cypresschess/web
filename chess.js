@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
+         "pubDate" : "Wed, 16 Feb 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix Final - Live!"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/2pY2aeRhN0w?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-finals-g2-broadcast/",
+         "pubDate" : "Wed, 16 Feb 2022 13:02:42 +0000",
+         "title" : "FIDE Grand Prix Finals G2 Broadcast"
+      },
+      {
          "description" : " <p class=\"lead\">In just two weeks, Belgrade will host the second leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022.</a> Sixteen GMs will participate and claim their position in the 2022 Candidates Tournaments, but unfortunately, Ding Liren is not one of them. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/table-1.png\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> The news that <a href=\"https://worldchess.com/news/all/ding-liren-worlds-number-3-replaced-in-the-grand-prix-series/\">Ding Liren is likely to miss the Candidates</a> has shocked the chess world once more. Liren missed the first leg of the Grand Prix because he f",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -872,14 +888,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-an-exciting-gambit",
          "pubDate" : "Thu, 10 Feb 2022 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: An exciting gambit"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/A5zUxY3PRjA?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-day-6-broadcast/",
-         "pubDate" : "Thu, 10 Feb 2022 13:15:00 +0000",
-         "title" : "FIDE Grand Prix Day 6 Broadcast"
       },
       {
          "description" : "In the 1970s Boris Gulko was one of the best players in the USSR and the world, and he is one of the few players who has a positive score against Kasparov. In 1976, after Kortschnoi had fled the USSR, Gulko refused to sign a critical statement against Kortschnoi, and as a result Gulko was targeted by the authorities. For seven years, Gulko fought to emigrate from the Soviet Union, and in 1986 he moved to the USA, where he continued his chess career. On 9 February 2022 Gulko celebrated his 75th birthday. | Photo: Les Glassman",
@@ -1896,14 +1904,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/not-quite-finish-intended.html",
          "pubDate" : "Sun, 30 Jan 2022 11:58:00 +0000",
          "title" : "Not quite the finish intended"
-      },
-      {
-         "description" : "The Grandmasters Dr. Karsten Mueller and Luis Engel have set a ball rolling in Germany with their latest Fritztrainer. GM Lars Bo Hansen designed the four-player model in 2005, and was perhaps ahead of his time. In the 5-part interview with Dr. Karsten Mueller, all four player types are discussed in detail. Today - The Activist.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/player-types-the-activist",
-         "pubDate" : "Sun, 30 Jan 2022 10:00:00 +0100",
-         "title" : "Player Types - The Activist"
       },
       {
          "description" : "",
