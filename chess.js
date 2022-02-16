@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Vladimir Fedoseev won his first Titled Tuesday in nearly a year, while GM Hans Niemann earned his first-ever victory. For the first time in the three weeks since Titled Tuesday expanded to two tournaments, no one placed in the top five in both ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fedoseev-neimann-win-titled-tuesday-feburary-15-2022",
+         "pubDate" : "Wed, 16 Feb 2022 11:26:21 -0800",
+         "title" : "Fedoseev, Niemann Claim Titled Tuesday Victories"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1582",
+         "pubDate" : "Wed, 16 Feb 2022 19:24:01 +0000",
+         "title" : "FIDE Grand Prix final: Aronian and Nakamura to battle it out in tiebreak"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1581",
+         "pubDate" : "Wed, 16 Feb 2022 18:33:04 +0000",
+         "title" : "FIDE delegation makes tour of Latin America"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Reporting stronger than expected <a href=\"https://drive.google.com/file/d/1fW9gy897VrbAEXa1OM8so6clJYsD0vbm/view?usp=sharing\">Q4 figures</a>, the <strong>Play Magnus Group</strong> has raised its goal for 2025 from $60 million turnover to $100+ million in bookings, defying a <a href=\"https://live.euronext.com/en/product/equities/NO0010890726-MERK\">stock evaluation near its all-time low</a>, and announced a collaboration with <strong><a href=\"https://www.animocabrands.com/about\">Animoca Brands</a></strong>, a Hongkong marketing agency specializing in games and blockchain. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/pmg-raises-expectations/",
+         "pubDate" : "Wed, 16 Feb 2022 19:25:44 +0100",
+         "title" : "PMG raises expectations"
+      },
+      {
+         "description" : "A 29-move draw in game 2 of the FIDE Grand Prix final means the winner of the event will be decided in Thursday's tiebreaks. The short game was not without excitement, though, as the players entered a sharp line in which White had the more comfortable position but had to contend with Black grabbing material on the queenside. Hikaru Nakamura will have the white pieces in the first rapid game tomorrow. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-f2",
+         "pubDate" : "Wed, 16 Feb 2022 19:20:00 +0100",
+         "title" : "Berlin GP: Tiebreaks it is"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #503 Merijn van Delft takes at a theoretically interesting game in the Italian, which Leinier Dominguez and Wesley So played at the FIDE Grand Prix in Berlin. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-503-l-dominguez-vs-w-so-berlin-grand-prix-2022",
+         "pubDate" : "Wed, 16 Feb 2022 18:00:00 +0100",
+         "title" : "Game of the Week #503: L. Dominguez vs W. So, Berlin, Grand Prix 2022"
+      },
+      {
          "description" : " <p class=\"lead\">Game 2 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> finals between Hikaru Nakamura and Levon Aronian ended in a peaceful draw. Tomorrow's tiebreaks will decide the winner of the first leg. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-8.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220216150618_IMG_2420.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220216150551_IMG_2418.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/n",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -10,12 +58,12 @@ news_feed (
          "title" : "FIDE Grand Prix 2022: Aronian and Nakamura go to tiebreaks"
       },
       {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "description" : "On 14 February the Yugoslav-Serbian grandmaster Borislav Ivkov died in Belgrade at the age of 88. In 1951 Ivkov was World Junior Champion and in the 1960s and 1970s he was one of the world's best players. He made it to the Candidates in 1965, and played in the Interzonal Tournaments in 1967, 1970, 1973, and 1979. | Photo: Durch National Archive",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
-         "pubDate" : "Wed, 16 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix Final - Live!"
+         "link" : "https://en.chessbase.com/post/remembering-borislav-ivkov-12-november-1933-14-february-2022",
+         "pubDate" : "Wed, 16 Feb 2022 14:05:00 +0100",
+         "title" : "Remembering Borislav Ivkov (12 November 1933 - 14 February 2022)"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/2pY2aeRhN0w?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -26,20 +74,20 @@ news_feed (
          "title" : "FIDE Grand Prix Finals G2 Broadcast"
       },
       {
+         "description" : "In his \"Weekly Show\" Lawrence Trent analyses the first game of the final of the FIDE Grand Prix in Berlin between Hikaru Nakamura and Levon Aronian, which was a hard-fought draw. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-grand-prix-berlin-2",
+         "pubDate" : "Wed, 16 Feb 2022 14:00:00 +0100",
+         "title" : "The Weekly Show: The final of the Grand Prix Berlin"
+      },
+      {
          "description" : " <p class=\"lead\">In just two weeks, Belgrade will host the second leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022.</a> Sixteen GMs will participate and claim their position in the 2022 Candidates Tournaments, but unfortunately, Ding Liren is not one of them. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/table-1.png\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> The news that <a href=\"https://worldchess.com/news/all/ding-liren-worlds-number-3-replaced-in-the-grand-prix-series/\">Ding Liren is likely to miss the Candidates</a> has shocked the chess world once more. Liren missed the first leg of the Grand Prix because he f",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/the-pools-for-the-second-leg-of-the-fide-world-chess-grand-prix/",
          "pubDate" : "Wed, 16 Feb 2022 12:17:57 +0000",
          "title" : "The pools for the second leg of the FIDE World Chess Grand Prix 2022 in Belgrade"
-      },
-      {
-         "description" : "On 14 February the Yugoslav-Serbian grandmaster Borislav Ivkov died in Belgrade at the age of 88. In 1951 Ivkov was World Junior Champion and in the 1960s and 1970s he was one of the world's best players. He made it to the Candidates in 1965, and who played in the Interzonal Tournaments in 1967, 1970, 1973, and 1979. | Photo: Durch National Archive",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-borislav-ivkov-12-november-1933-14-february-2022",
-         "pubDate" : "Wed, 16 Feb 2022 12:58:07 +0100",
-         "title" : "Remembering Borislav Ivkov (12 November 1933 - 14 February 2022)"
       },
       {
          "description" : "",
@@ -176,6 +224,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/15/black-history-month-2022-day-15-ashley-muhammad/",
          "pubDate" : "Tue, 15 Feb 2022 20:21:02 +0000",
          "title" : "Black History Month 2022-Day 15: Ashley & Muhammad"
+      },
+      {
+         "description" : "Chess.com is happy to foster the growth of the royal game by giving $25,000 to help fund the 2022 North American Chess Cup for Youth With Disabilities happening June 21 through 26. This amount will help the organizers to invest in staff for the ev...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-funds-north-american-chess-cup",
+         "pubDate" : "Tue, 15 Feb 2022 12:14:00 -0800",
+         "title" : "Chess.com Gives $25,000 To Fund North American Chess Cup For Children With Disabilities"
       },
       {
          "description" : "The \"Battle of the Sexes\" was a ten-round Scheveningen match between ten male and ten female players that was played from 24 January to 3rd February in Gibraltar. The men won 53-47, and looking back on the match, Irina Bulmaga (pictured), who commentated the games live in Gibraltar, wonders if and why the men were better at team-building and what this match says about women's chess. | Photo: David Llada",
@@ -1162,14 +1218,6 @@ news_feed (
          "title" : "Berlin GP: So and Fedoseev score crucial wins"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The world's oldest IM and correspondence-GM <strong>Abram Khasin</strong>, coach of Razuvaev, Gulko and Bareev, <a href=\"https://ruchess.ru/en/persons_of_day/abram_khasin/\">passed away</a> in Essen, Germany, where he lived since twenty years, days before his 99th birthday. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/abram-khasin-1923-2022/",
-         "pubDate" : "Mon, 07 Feb 2022 23:16:14 +0100",
-         "title" : "Abram Khasin (1923-2022)"
-      },
-      {
          "description" : "Passed pawns are particularly powerful in queen endgames because the mobility of the queen helps to support the advance of the pawns. However, king safety is also an issue. In the diagrammed position Black's a-pawn is far advanced, but Black's king has to find a way to hide from the enemy checks. How can Black protect her king, queen the pawn and win the game?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1642,14 +1690,6 @@ news_feed (
          "title" : "French Grandmaster Gilles Mirallès dies at the age of 55"
       },
       {
-         "description" : "The FIDE Grand Prix will start on February 4 with its first leg in Berlin without the top seed GM Ding Liren. The Chinese player failed to obtain a visa in time to be able to travel to Germany and has been replaced by GM Radoslaw Wojtaszek. GM Dmi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ding-liren-fide-grand-prix-2022",
-         "pubDate" : "Wed, 02 Feb 2022 06:00:00 -0800",
-         "title" : "Top Seed Ding Liren Misses Out On FIDE Grand Prix"
-      },
-      {
          "description" : "Round eight of the #GibChess Battle of Sexes, held at Gibraltar's Garrison Library on Tuesday 1 February, resulted in a 5&frac12;-4&frac12; victory for Team Sabino with the White pieces, increasing their overall score to 42&frac12;-37&frac12; - a lead of five points for the men's team with two rounds to go. The battle is now well and truly joined, with various chances coming and going, but the men's team lead is starting to look hard to overturn. Report and photos by John Saunders.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1762,14 +1802,6 @@ news_feed (
          "title" : "Composed yet ruthless: Arjun Erigaisi"
       },
       {
-         "description" : "Chess.com&#39;s traditional weekly event for streamers Arena Kings is back for its ninth season, starting on February 2 at 9 a.m. PST/18:00 CET. With a $45,000 prize fund, this season promises to be the most exciting yet! Last season, GM Hikaru Naka...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-arena-kings-season-9",
-         "pubDate" : "Mon, 31 Jan 2022 09:39:00 -0800",
-         "title" : "Arena Kings Is Back For Season 9 On February 2"
-      },
-      {
          "description" : "Chess is an integral part of the lives of Pia Cramling and her daughter Anna. But mother and daughter are successful in very different ways. While Pia Cramling has been one of the world's best women player for decades, Anna Cramling Bell&oacute;n has now become a successful chess streamer. But both pursue a common goal. As they explain in an interview with Tatiana Flores, they both want to promote chess and bring more women into the community.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1866,14 +1898,6 @@ news_feed (
          "title" : "A selection of brilliancies: Spassky faces the Sicilian"
       },
       {
-         "description" : "Besides Magnus Carlsen, who got a win by forfeit over Daniil Dubov, Praggnanandhaa, Sergey Karjakin and Jorden van Foreest also scored full points in the last round of the Tata Steel Masters tournament. Meanwhile, Arjun Erigaisi (pictured), who had secured first place in the Challengers with a round to spare, collected yet another victory to finish the event with a remarkable 10&frac12;/13 score. | Replay all the games with computer analysis. Full report to follow shortly!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-live",
-         "pubDate" : "Sun, 30 Jan 2022 19:25:00 +0100",
-         "title" : "Tata Steel Chess - Games and results"
-      },
-      {
          "description" : " With Magnus Carlsen having wrapped up first place in the Tata Steel Masters and out of action because his opponent Daniil Dubov had tested positive for Covid-19 it looked like there might not be much of interest on the final day. Quick draws in the games Richard Rapport vs Anish Giri very quickly followed by Shakhriyar Mamedyarov against Fabiano Caruana meant that intrigue over the top four was over too. The remaining four games however were all full of interest and white won three and there was a wild draw in the fourth. Sergey Karjakin said he was extremely upset about his loss to Sam Shankland in Round 12 and implied he might easily have taken a quick draw under the right circumstances. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1888,14 +1912,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-rook-ending-from-southport/",
          "pubDate" : "Sun, 30 Jan 2022 14:20:37 +0000",
          "title" : "A Rook Ending from Southport"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 64th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the \"power of the diagonal\". | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-64-the-power-of-the-diagonal",
-         "pubDate" : "Sun, 30 Jan 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 64: The power of the diagonal"
       },
       {
          "description" : " As I type this, Magnus Carlsen is enjoying another victory at the Tata Steel tournament, aided in part by a last round walkover win against Daniil Dubov. This was due to fact that Dubov had to leave the tournament early, having tested positive to Covid 3 rounds before the end. While this could be considered a bit of bad luck for Dubov, it should be noted that he also defaulted his game against Giri after being required to wear a mask due to a positive test of a close contact. In the end Carlsen finished on 9.5/13 (+6=7-0) including wins against players who finished just behind him in the standings. There had been talk of Carlsen breaking the 2900 rating mark before the event began, and if h",
@@ -2056,14 +2072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1545",
          "pubDate" : "Wed, 26 Jan 2022 21:16:22 +0000",
          "title" : "30 Federations will receive free training from FIDE licensed trainers"
-      },
-      {
-         "description" : " Magnus Carlsen was content to take a quick draw with black against Sergey Karjakin in Round 10 of the Tata Steel Masters. Karjakin had taken all sorts of risks yesterday against Praggnanandhaa but today didn't even try against Carlsen. Behind Carlsen no-one got closer, Anish Giri drew and Vidit Gujrathi lost to Praggnanandhaa a sharp game he had chances to win. The final day off is on Thursday. Former leader Shakhriyar Mamedyarov drew with black in a an interesting Open Catalan. Anish Giri stayed in second place after drawing against Jan Krzysztof Dubov in a sharp English where perhaps he had to be careful. Fabiano Caruana has had a very up and down tournament, today it was down again as he",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-draws-quickly-against-karjakin-and-4-decisive-games-in-tata-steel-masters-round-10",
-         "pubDate" : "Wed, 26 Jan 2022 22:20:00 +0400",
-         "title" : "Carlsen draws quickly against Karjakin and 4 decisive games in Tata Steel Masters Round 10 - 10"
       }
    ]
 }
