@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Watch Live: <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/vdrhoRN1eyE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-tie-breaks/",
+         "pubDate" : "Thu, 17 Feb 2022 07:53:48 +0000",
+         "title" : "FIDE Grand Prix Tie-Breaks"
+      },
+      {
          "description" : " Share! Marcus Mosiah Garvey The Chess Drum is billed as a Pan-African website. One of the biggest inspirations for this site was the Honorable Marcus Mosiah Garvey. This Jamaican visionary immigrated to the United States and set forth one of the most important social movements in American history. At its height, the Universal Negro Improvement [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/16/black-history-month-2022-day-16-pan-african-chess/\">Black History Month 2022-Day 16: Pan-African Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -944,14 +952,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r6",
          "pubDate" : "Thu, 10 Feb 2022 17:17:00 -0800",
          "title" : "2022 FIDE Grand Prix Berlin R6: Nakamura Reaches Semifinals On Day Of Nerves"
-      },
-      {
-         "description" : " The final round of the qualifying stage was without any doubt the most exciting chess witnessed in Berlin during the last few days. With a lot at stake all the games (with the exception of Aronian - Dubov) were fought to the bitter end. The ceremonial first move was executed by Richard Lutz, CEO of Deutsche Bahn (German Railways). Mr. Lutz is a strong player himself and Deutsche Bahn has been a regular supporter of chess in Germany over the years. He opened the game for Vidit with 1.c4 against local player Vincent Keymer and the games were on! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220210150126_IMG_1500-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nakamura-joins-aronian-in-the-semifinals-of-the-fide-grand-prix/",
-         "pubDate" : "Thu, 10 Feb 2022 23:51:26 +0000",
-         "title" : "Nakamura joins Aronian in the semifinals of the FIDE Grand Prix in Berlin"
       },
       {
          "description" : "",
