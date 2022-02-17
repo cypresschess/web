@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! Marcus Mosiah Garvey The Chess Drum is billed as a Pan-African website. One of the biggest inspirations for this site was the Honorable Marcus Mosiah Garvey. This Jamaican visionary immigrated to the United States and set forth one of the most important social movements in American history. At its height, the Universal Negro Improvement [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/16/black-history-month-2022-day-16-pan-african-chess/\">Black History Month 2022-Day 16: Pan-African Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/16/black-history-month-2022-day-16-pan-african-chess/",
+         "pubDate" : "Thu, 17 Feb 2022 03:27:33 +0000",
+         "title" : "Black History Month 2022-Day 16: Pan-African Chess"
+      },
+      {
          "description" : "Chess &#38; Bridge have announced there will be an England v Sweden Challenge Match between Grandmaster David Howell (England) and Grandmaster Nils Grandelius (Sweden) in...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -202,7 +210,7 @@ news_feed (
          "title" : "FIDE Podcast: New episode now available"
       },
       {
-         "description" : " Share! Wyndham Orlando Resort (International Drive) From March 13th-15th, Florida &#8220;the sunshine state&#8221; will be hosting its statewide scholastic tournament with nine sections. The entry fee for scholastic players is a nominal $40 by February 25th. There is no onsite entry so make your plans ahead of time! Check floridachess.org for details or click on [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/16/chess-in-2022-heating-up-the-sunshine-state/\">Chess in 2022 heating up the Sunshine State!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Wyndham Orlando Resort (International Drive) From March 13th-15th, Florida &#8220;the sunshine state&#8221; will be hosting its statewide scholastic tournament with nine sections. The entry fee for scholastic players is a nominal $40 by February 25th. There is no onsite entry so make your plans ahead of time! Check floridachess.org for details or click on image [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/16/chess-in-2022-heating-up-the-sunshine-state/\">Chess in 2022 heating up the Sunshine State!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/16/chess-in-2022-heating-up-the-sunshine-state/",
@@ -1056,14 +1064,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nepomniachtchi-wins-shevchenko-nearly-sweeps-feb-8-titled-tuesday",
          "pubDate" : "Wed, 09 Feb 2022 09:43:00 -0800",
          "title" : "Nepomniachtchi Wins, Shevchenko Nearly Sweeps Titled Tuesday"
-      },
-      {
-         "description" : " IM Robert Gwaze on his way to gold!Photo by Jerry Bibuld At this year's 2022 Chess Olympiad in Moscow, Russia, we will commemorate the 20th year of Zimbabwean IM Robert Gwaze winning the gold medal for his 9/9 performance. This feat took place in the fall of 2002 in Bled, Slovenia, and sent triumphant tremors [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/09/black-history-month-2022-day-9-robert-gwazes-gold/\">Black History Month 2022-Day 9: Robert Gwaze's Gold!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/09/black-history-month-2022-day-9-robert-gwazes-gold/",
-         "pubDate" : "Wed, 09 Feb 2022 14:27:26 +0000",
-         "title" : "Black History Month 2022-Day 9: Robert Gwaze's Gold!"
       },
       {
          "description" : " Chess Training can be tough and dull sometimes. Group Training can boost your moral &#38; connect you with like-minded people. This can be extremely beneficial. Not only for your mental sanity but also for your Chess improvement. So do I recommend working in a group? As frequently is the case, my answer is it depends [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/group-training/\">Chess Group Training</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
