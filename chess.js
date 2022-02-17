@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">The winner of the first leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022 Series</a> will be decided on tiebreaks. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220217150241_IMG_2518.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> Hikaru Nakamura from Group A and Levon Aronian from Group C are the FIDE Grand Prix 2022 finalists. After a 1-1 score in the finals, the two GMs face each other in a - as it seems - intense playoff. <p class=\"lead\">Nakamura-Aronian | Game 1 The first game of the tiebreaks started with the Ruy Lopez and Nakamura had a healthy extra pawn, pushing to win. Along the game Aronian equa",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/who-is-going-to-be-the-winner-of-the-first-leg-of-the-fide-grand/",
+         "pubDate" : "Thu, 17 Feb 2022 15:00:03 +0000",
+         "title" : "Who is going to be the winner of the first leg of the FIDE Grand Prix Series 2022? | LIVE BLOG"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
+         "pubDate" : "Thu, 17 Feb 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix Final - Live!"
+      },
+      {
+         "description" : " \"Bobby Fischer would've never faced Spassky with his girlfriend at his side.\"<div>This one of the more interesting quotes from the Netflix series \"Money Heist\". As with a lot of series that have the criminal mastermind up against the police, there is a lot of chess symbolism scattered throughout. The pensive stare at the chessboard, moving pieces to show the next stage of the plan, and just the general \"chess = smart\" vibe, this series employs a lot of these tropes. </div><div>Nonetheless, they don't overdo it, instead using these shots only when necessary. The rest of the time, it is an incredibly enjoyable heist series, where the good/bad guys are always one step of the police. If you hav",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/money-heist.html",
+         "pubDate" : "Thu, 17 Feb 2022 12:01:00 +0000",
+         "title" : "Money Heist"
+      },
+      {
+         "description" : "The Enter Null Move feature in ChessBase helps chess coaches demonstrate opening tabiyas, middlegame attacking ideas, and endgame plans. It's also perfect for figuring out missing moves on students' scoresheets or for Knight's Tours. National Master Jeffrey Ashton explains.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-for-coaches-showing-a-plan",
+         "pubDate" : "Thu, 17 Feb 2022 11:58:58 +0100",
+         "title" : "ChessBase for Coaches: Showing a Plan"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Metric Design</strong> and <strong>Feed Oslo</strong> have developed a <a href=\"https://www.kreativtforum.no/arbeider/ny-visuell-identitet-og-nettside-for-norges-sjakkforbund\">new visual design</a> for the <strong>Norwegian Chess Federation</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/norwegian-federation-with-new-look/",
+         "pubDate" : "Thu, 17 Feb 2022 11:34:05 +0100",
+         "title" : "Norwegian federation with new look"
+      },
+      {
+         "description" : "GMs Wesley So, Maxime Vachier-Lagrave, Shakhriyar Mamedyarov, Alireza Firouzja, Fabiano Caruana, Ian Nepomniachtchi, Levon Aronian, Richard Rapport, and Leinier Dominguez are the &#34;full-tour&#34; participants of the 2022 Grand Chess Tour. World champio...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-grand-chess-tour-participants",
+         "pubDate" : "Thu, 17 Feb 2022 01:27:00 -0800",
+         "title" : "Firouzja Among 'Full' Grand Chess Tour Participants But Not Carlsen Or Nakamura"
+      },
+      {
+         "description" : "It will be a ten-game encounter, with five games at slow time control, five fast. In March Swedish grandmaster Nils Grandelius will play English grandmaster David Howell in London. The event is part of the 30th anniversary celebrations of the founding of the London Chess Centre and the relaunching of CHESS Magazine. Press release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-match",
+         "pubDate" : "Thu, 17 Feb 2022 10:00:00 +0100",
+         "title" : "England vs. Sweden Challenge Match"
+      },
+      {
+         "description" : " Last week I started a new Twitch stream with my old friend, IM Andrew Martin. Echoing our Master Chess Roadshow seminars of the 1990s, we decided to call it the Master Chess Web Show. The Twitch stream can be found here and I've also been uploading the shows to Youtube. Please follow us on Twitch <a href=\"https://chessimprover.com/the-master-chess-web-show/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Master Chess Web Show\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-master-chess-web-show/\">The Master Chess Web Show</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/the-master-chess-web-show/",
+         "pubDate" : "Thu, 17 Feb 2022 08:35:12 +0000",
+         "title" : "The Master Chess Web Show"
+      },
+      {
          "description" : " Watch Live: <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/vdrhoRN1eyE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -10,7 +74,7 @@ news_feed (
          "title" : "FIDE Grand Prix Tie-Breaks"
       },
       {
-         "description" : " Share! Marcus Mosiah Garvey The Chess Drum is billed as a Pan-African website. One of the biggest inspirations for this site was the Honorable Marcus Mosiah Garvey. This Jamaican visionary immigrated to the United States and set forth one of the most important social movements in American history. At its height, the Universal Negro Improvement [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/16/black-history-month-2022-day-16-pan-african-chess/\">Black History Month 2022-Day 16: Pan-African Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share! Marcus Mosiah Garvey The Chess Drum is billed as a Pan-African website. One of the biggest inspirations for this site was the Honorable Marcus Mosiah Garvey. This Jamaican visionary immigrated to the United States and set forth one of the most important social movements in American history. It started as a small grassroots movement [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/16/black-history-month-2022-day-16-pan-african-chess/\">Black History Month 2022-Day 16: Pan-African Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/16/black-history-month-2022-day-16-pan-african-chess/",
@@ -594,14 +658,6 @@ news_feed (
          "title" : "Nakamura and Aronian are the two FIDE Grand Prix 2022 finalists"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chessplus</strong>, the company behind ChessTech, has <a href=\"https://chessplus.net/critical-thinking-through-chess/\">launched a new course</a> <strong>Critical Thinking through Chess</strong>, developed by <strong>Jerry Nash</strong>. Another recent addition is the course on <strong>Chess and Logic</strong> by and with <strong>Rita Atkins</strong>, for which there are <a href=\"https://www.tickettailor.com/events/chessplus/640026\">free places on 18 February</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/new-courses-for-educators/",
-         "pubDate" : "Sun, 13 Feb 2022 16:05:26 +0100",
-         "title" : "New courses for educators"
-      },
-      {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/_ydQ6mFoAJQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -856,14 +912,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-3",
          "pubDate" : "Fri, 11 Feb 2022 18:00:00 +0100",
          "title" : "Daniel King's Power Play Show: The Archbishop and the Octopus Knight"
-      },
-      {
-         "description" : " <p class=\"lead\">The tiebreaks of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with Rapport and Dominguez being the semifinalists of Group B and D respectively. Tomorrow in the semifinals Rapport will face Nakamura, while Dominguez will fight against Aronian for a spot in the Grand Prix finals. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-5.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220211150354_IMG_1717.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/2022021",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/rapport-and-dominguez-will-face-nakamura-and-aronian-in-the-semi/",
-         "pubDate" : "Fri, 11 Feb 2022 16:48:45 +0000",
-         "title" : "Rapport and Dominguez will face Nakamura and Aronian in the semifinals of the FIDE Grand Prix 2022"
       },
       {
          "description" : "If you think of a massively creative chess player, who comes to mind? Tal? Larsen? Creativity in chess is fairly important, to find \"impossible\" moves in a chess game. Moves, which would never cross your mind. But regularly, these are the moves which can decide a game in a beautiful way. Svitlana was taught creativity in chess by one of her coaches, and passes her knowledge on to us.",
@@ -1386,14 +1434,6 @@ news_feed (
          "title" : "Berlin GP: Rapport bounces back with brilliant win"
       },
       {
-         "description" : " Here is the publishers blurb from the rear cover : &#8220;A highly adventurous repertoire designed to meet 1 e4 with 1e5 and take the initiative! The main problem Black faces in answering 1 e4 with 1e5 is the plethora of opening systems available to White: the Ruy Lopez, Giuoco Piano, Scotch, Ponziani, King's Gambit, Vienna, <a href=\"http://britishchessnews.com/2022/02/06/a-disreputable-opening-repertoire/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">A Disreputable Opening Repertoire</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/02/06/a-disreputable-opening-repertoire/\">A Disreputable Opening Repert",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/02/06/a-disreputable-opening-repertoire/",
-         "pubDate" : "Sun, 06 Feb 2022 00:10:53 +0000",
-         "title" : "A Disreputable Opening Repertoire"
-      },
-      {
          "description" : "The second round of the the 2022 FIDE Grand Prix produced fierce battles in all the games except from Group C. GM Hikaru Nakamura, GM Radoslaw Wojtaszek, GM Levon Aronian, and GM Leinier Dominguez emerged as sole leaders in their respective groups...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1658,14 +1698,6 @@ news_feed (
          "title" : "Nakamura Wins Arena Kings After Titled Tuesday Sweep"
       },
       {
-         "description" : "On the first Tuesday of the revamped Titled Tuesday with two tournaments a day, a familiar face won both events: GM Hikaru Nakamura, who twice scored 9.5/11. Also earning a prize in both tournaments was GM Jose Martinez, who finished fourth in the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-sweeps-new-titled-tuesday",
-         "pubDate" : "Wed, 02 Feb 2022 10:57:03 -0800",
-         "title" : "Nakamura Sweeps New Titled Tuesday"
-      },
-      {
          "description" : "The 11-year-old Candidate Master from the Ukraine is streaming regularly on Twitch.tv and YouTube. But his passion for chess and streaming started even earlier. In our interview, Tykhon tells us how he learned to play chess, what Minecraft has to do with his English-speaking skills, and why he always seems to be in a good mood. Furthermore, we take a look at one of his favourite games, including nice, insightful analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1818,14 +1850,6 @@ news_feed (
          "title" : "A strong duo: An interview with Pia and Anna Cramling"
       },
       {
-         "description" : "The well-known author and Grandmaster Mihail Marin is Karsten M&uuml;ller's guest in the Endgame Magic Show #180. Mihail talks about his forthcoming ChessBase products, and Karsten and he look at endgame highlights from the Sitges Open 2021. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-180-with-mihail-marin-endgame-highlights-of-the-sitges-open-2021",
-         "pubDate" : "Mon, 31 Jan 2022 17:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #180 - with Mihail Marin: Endgame highlights of the Sitges Open 2021"
-      },
-      {
          "description" : "Airports Authority of India awarding Sports Scholarships and contract engagement to promising young sportspersons. The objective of contract engagement is with a view to giving",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1872,22 +1896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1552",
          "pubDate" : "Mon, 31 Jan 2022 12:09:25 +0000",
          "title" : "FIDE launches a new podcast"
-      },
-      {
-         "description" : "Round six of the #GibChess Battle of Sexes, held at Gibraltar's Garrison Library on Sunday 30 January, saw the men's team win by 6&frac12;-3&frac12; on the day and, for the first time, move into the lead in the overall match by 31 points to 29. It was round of missed chances and swings of fortune as players became tired and the tension increased. For the first time since our arrival the sun shone outdoors, but not indoors on the women's games as they didn't get their fair share of whatever luck was going. Four rounds remain, and now it is the women's team who need to fight back if they are to share the top prize of &pound;75,000. Report and photos: John Saunders",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-men-catch-up",
-         "pubDate" : "Mon, 31 Jan 2022 09:45:09 +0100",
-         "title" : "Battle of the Sexes: Men catch up"
-      },
-      {
-         "description" : "Besides Magnus Carlsen, who got a win by forfeit over Daniil Dubov, Praggnanandhaa, Sergey Karjakin and Jorden van Foreest also scored full points in the last round of the Tata Steel Masters tournament. Meanwhile, Arjun Erigaisi, who had secured first place in the Challengers with a round to spare, collected yet another victory to finish the event with a remarkable 10&frac12;/13 score. | Photo: Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2022-r13",
-         "pubDate" : "Mon, 31 Jan 2022 03:45:00 +0100",
-         "title" : "Tata Steel R13: Wins for Pragg, Karjakin and Van Foreest"
       },
       {
          "description" : "",
@@ -2048,22 +2056,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-universities-chess-championship-2022/",
          "pubDate" : "Fri, 28 Jan 2022 07:15:44 +0000",
          "title" : "European Universities Chess Championship 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1547",
-         "pubDate" : "Thu, 27 Jan 2022 15:06:22 +0000",
-         "title" : "FIDE holds round table on \"Chess in Prisons\" project"
-      },
-      {
-         "description" : "The European Chess Union launches the campaign &#8220;A Chessboard for All&#8221; with the aim of donating specially made chessboards to blind or visually impaired children and young people throughout Europe. The donation will also be distributed to general schools and special schools for inclusive educational activities. Distribution will begin in February 2022. The programme is inspired by the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/a-chess-board-for-all/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/a-chess-board-for-all/",
-         "pubDate" : "Thu, 27 Jan 2022 08:52:16 +0000",
-         "title" : "A Chess Board for All!"
       }
    ]
 }
