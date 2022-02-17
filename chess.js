@@ -5,6 +5,46 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1584",
+         "pubDate" : "Thu, 17 Feb 2022 19:50:31 +0000",
+         "title" : "Hikaru Nakamura wins first leg of FIDE Grand Prix Series 2022"
+      },
+      {
+         "description" : " The five-time US champion with more than a million Twitch followers had not played classical chess for two years Hikaru Nakamura defeated Levon Aronian 3-1 in the all-American Fide Grand Prix first leg final at Berlin on Thursday as the five-time US champion, who has become a Twitch stremer with more than a million followers, showed his speed skills by winning both 15-minute rapids after two classical games were drawn. Nakamura needed a wildcard from the Fide president to compete in Berlin, and that decision drew sharp criticism from Arkady Dvorkovich's Russian compatriots, but his games were full of energy and ideas. The <a href=\"https://chess24.com/en/watch/live-tournaments/fide-grand-pri",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/feb/17/hikaru-nakamura-wins-3-1-in-berlin-as-popular-streamer-leads-grand-prix",
+         "pubDate" : "Thu, 17 Feb 2022 19:31:25 +0000",
+         "title" : "Hikaru Nakamura wins in Berlin as popular chess streamer leads Grand Prix"
+      },
+      {
+         "description" : "Hikaru Nakamura defeated Levon Aronian in tiebreaks to win the first leg of the FIDE Grand Prix in Berlin. The hard-fought final match had seen two draws in the classical games. In the two rapid encounters that broke the tie, Nakamura showed better nerves in the last stage of the games to take home the title, 13 Grand Prix points and 24,000 Euros. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-f3",
+         "pubDate" : "Thu, 17 Feb 2022 19:30:00 +0100",
+         "title" : "Nakamura beats Aronian in tiebreaks, wins Berlin Grand Prix"
+      },
+      {
+         "description" : "GM Raunak Sadhwani earned the win in the third week of the ninth season of Arena Kings on Wednesday, holding off IM Le Tuan Minh in the finals with a score of&#38;nbsp; 3-2, which just stopped Le from a second consecutive victory.&#38;nbsp; The semifina...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-arena-kings-season-9-week-3-sadhwani-wins",
+         "pubDate" : "Thu, 17 Feb 2022 08:41:56 -0800",
+         "title" : "Sadhwani Takes Week 3 In Arena Kings Season 9"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Ding Liren</strong> told <strong>German Press Agency</strong> that he dropped out of the <strong>Grand Prix</strong>, because <strong>FIDE</strong> refused to guarantee him a place in the third tournament and would only let him play if a place opens up and his visum for Germany was still not granted. The world number 3 also didn't like the prospect to be put in quarantine upon his return to China. So the top player was replaced before the <a href=\"https://www.fide.com/news/1578\">second tournament in Belgrade</a> starts on 28 February. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/fide-didnt-guaranteed-ding-place/",
+         "pubDate" : "Thu, 17 Feb 2022 17:16:41 +0100",
+         "title" : "FIDE didn't guarantee Ding place"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1583",
          "pubDate" : "Thu, 17 Feb 2022 15:33:30 +0000",
          "title" : "FIDE PDC Continental Meeting held in Mexico"
@@ -23,7 +63,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
          "pubDate" : "Thu, 17 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix Final - Live!"
+         "title" : "FIDE Grand Prix Final - Games and results"
       },
       {
          "description" : " \"Bobby Fischer would've never faced Spassky with his girlfriend at his side.\"<div>This one of the more interesting quotes from the Netflix series \"Money Heist\". As with a lot of series that have the criminal mastermind up against the police, there is a lot of chess symbolism scattered throughout. The pensive stare at the chessboard, moving pieces to show the next stage of the plan, and just the general \"chess = smart\" vibe, this series employs a lot of these tropes. </div><div>Nonetheless, they don't overdo it, instead using these shots only when necessary. The rest of the time, it is an incredibly enjoyable heist series, where the good/bad guys are always one step of the police. If you hav",
@@ -176,14 +216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1581",
          "pubDate" : "Wed, 16 Feb 2022 18:33:04 +0000",
          "title" : "FIDE delegation makes tour of Latin America"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Reporting stronger than expected <a href=\"https://drive.google.com/file/d/1fW9gy897VrbAEXa1OM8so6clJYsD0vbm/view?usp=sharing\">Q4 figures</a>, the <strong>Play Magnus Group</strong> has raised its goal for 2025 from $60 million turnover to $100+ million in bookings, defying a <a href=\"https://live.euronext.com/en/product/equities/NO0010890726-MERK\">stock evaluation near its all-time low</a>, and announced a collaboration with <strong><a href=\"https://www.animocabrands.com/about\">Animoca Brands</a></strong>, a Hongkong marketing agency specializing in games and blockchain. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/pmg-raises-expectations/",
-         "pubDate" : "Wed, 16 Feb 2022 19:25:44 +0100",
-         "title" : "PMG raises expectations"
       },
       {
          "description" : "A 29-move draw in game 2 of the FIDE Grand Prix final means the winner of the event will be decided in Thursday's tiebreaks. The short game was not without excitement, though, as the players entered a sharp line in which White had the more comfortable position but had to contend with Black grabbing material on the queenside. Hikaru Nakamura will have the white pieces in the first rapid game tomorrow. | Photos: World Chess",
@@ -1706,14 +1738,6 @@ news_feed (
          "title" : "Battle of the Sexes: Women within striking distance"
       },
       {
-         "description" : "GM Hikaru Nakamura won the first week of Arena Kings Season 9 with a score of 3-1 in the final knockout match, defeating second-place GM Jose Eduardo Martinez Alcantara with one game to spare. Nakamura also swept both Titled Tuesday events the day...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arena-kings-season-9-week-1-nakamura-wins",
-         "pubDate" : "Wed, 02 Feb 2022 16:05:42 -0800",
-         "title" : "Nakamura Wins Arena Kings After Titled Tuesday Sweep"
-      },
-      {
          "description" : "The 11-year-old Candidate Master from the Ukraine is streaming regularly on Twitch.tv and YouTube. But his passion for chess and streaming started even earlier. In our interview, Tykhon tells us how he learned to play chess, what Minecraft has to do with his English-speaking skills, and why he always seems to be in a good mood. Furthermore, we take a look at one of his favourite games, including nice, insightful analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1856,14 +1880,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/arjun-erigaisi-profile-2022",
          "pubDate" : "Tue, 01 Feb 2022 04:00:00 +0100",
          "title" : "Composed yet ruthless: Arjun Erigaisi"
-      },
-      {
-         "description" : "Chess is an integral part of the lives of Pia Cramling and her daughter Anna. But mother and daughter are successful in very different ways. While Pia Cramling has been one of the world's best women player for decades, Anna Cramling Bell&oacute;n has now become a successful chess streamer. But both pursue a common goal. As they explain in an interview with Tatiana Flores, they both want to promote chess and bring more women into the community.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-strong-duo-an-interview-with-pia-and-anna-cramling",
-         "pubDate" : "Mon, 31 Jan 2022 17:04:17 +0100",
-         "title" : "A strong duo: An interview with Pia and Anna Cramling"
       },
       {
          "description" : "Airports Authority of India awarding Sports Scholarships and contract engagement to promising young sportspersons. The objective of contract engagement is with a view to giving",
