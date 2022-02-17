@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " <p class=\"lead\">The winner of the first leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022 Series</a> will be decided on tiebreaks. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220217150241_IMG_2518.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> Hikaru Nakamura from Group A and Levon Aronian from Group C are the FIDE Grand Prix 2022 finalists. After a 1-1 score in the finals, the two GMs face each other in a - as it seems - intense playoff. <p class=\"lead\">Nakamura-Aronian | Game 1 The first game of the tiebreaks started with the Ruy Lopez and Nakamura had a healthy extra pawn, pushing to win. Along the game Aronian equa",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1583",
+         "pubDate" : "Thu, 17 Feb 2022 15:33:30 +0000",
+         "title" : "FIDE PDC Continental Meeting held in Mexico"
+      },
+      {
+         "description" : " <p class=\"lead\">The winner of the first leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022 Series</a> was decided on tiebreaks with the American GM and streamer, Hikaru Nakamura, achieving an impressive 2-0 score against Levon Aronian. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220217150241_IMG_2518.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220217150220_IMG_2515.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220217150144_IMG_2508.jpg\" width=\"2560\" height=\"1707\"",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/who-is-going-to-be-the-winner-of-the-first-leg-of-the-fide-grand/",
          "pubDate" : "Thu, 17 Feb 2022 15:00:03 +0000",
-         "title" : "Who is going to be the winner of the first leg of the FIDE Grand Prix Series 2022? | LIVE BLOG"
+         "title" : "Hikaru Nakamura is the winner of the first leg of the FIDE Grand Prix Series 2022"
       },
       {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
@@ -1432,6 +1440,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r2",
          "pubDate" : "Sun, 06 Feb 2022 03:50:00 +0100",
          "title" : "Berlin GP: Rapport bounces back with brilliant win"
+      },
+      {
+         "description" : " Here is the publishers blurb from the rear cover : &#8220;A highly adventurous repertoire designed to meet 1 e4 with 1e5 and take the initiative! The main problem Black faces in answering 1 e4 with 1e5 is the plethora of opening systems available to White: the Ruy Lopez, Giuoco Piano, Scotch, Ponziani, King's Gambit, Vienna, <a href=\"http://britishchessnews.com/2022/02/06/a-disreputable-opening-repertoire/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">A Disreputable Opening Repertoire</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/02/06/a-disreputable-opening-repertoire/\">A Disreputable Opening Repert",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/02/06/a-disreputable-opening-repertoire/",
+         "pubDate" : "Sun, 06 Feb 2022 00:10:53 +0000",
+         "title" : "A Disreputable Opening Repertoire"
       },
       {
          "description" : "The second round of the the 2022 FIDE Grand Prix produced fierce battles in all the games except from Group C. GM Hikaru Nakamura, GM Radoslaw Wojtaszek, GM Levon Aronian, and GM Leinier Dominguez emerged as sole leaders in their respective groups...",
