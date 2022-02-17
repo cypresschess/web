@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess &#38; Bridge have announced there will be an England v Sweden Challenge Match between Grandmaster David Howell (England) and Grandmaster Nils Grandelius (Sweden) in...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/england-v-sweden-challenge-match/",
+         "pubDate" : "Thu, 17 Feb 2022 00:23:11 +0000",
+         "title" : "England v Sweden Challenge Match"
+      },
+      {
+         "description" : "\"One of us is very wrong about the evaluation\", said Hikaru Nakamura after a tense battle in the second game of the Berlin FIDE Grand Prix final suddenly ended in a draw. It was perhaps Hikaru who was wrong, since Levon Aronian did have a significant advantage until blundering into that draw, though it certainly wasn't the kind of advantage that you expect to easily convert into a win against a top player. Hikaru and Levon will now play a rapid tiebreak on Thursday to decide who wins the first leg of the 2022 FIDE Grand Prix.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-final-2-tiebreaks-it-is",
+         "pubDate" : "Wed, 16 Feb 2022 22:53:19 +0000",
+         "title" : "Berlin Grand Prix Final 2: Tiebreaks it is!"
+      },
+      {
+         "description" : "The second game of the final between GM Levon Aronian and GM Hikaru Nakamura ended in a draw in only 29 moves after a threefold repetition, leaving the scores tied at the end of the classical games of the final of the 2022 FIDE Grand Prix first le...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-final-game-2",
+         "pubDate" : "Wed, 16 Feb 2022 14:27:00 -0800",
+         "title" : "2022 FIDE Grand Prix Berlin Final: Match Moves To Tiebreak After Short Skirmish"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The $1,4 million <strong>Grand Chess Tour</strong> 2022 will have to do without world champion <strong>Magnus Carlsen</strong> and world number three <strong>Ding Liren</strong> at its <a href=\"https://grandchesstour.org/2022-grand-chess-tour/overiew\">five events in four cities</a> Bucharest, Warsow, Zagreb and Saint Louis between May and September. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/neither-carlsen-nor-ding-at-grand/",
+         "pubDate" : "Wed, 16 Feb 2022 22:52:53 +0100",
+         "title" : "Neither Carlsen nor Ding at Grand Chess Tour"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Secretlab</strong>, a producer of high end chairs for gamers, <a href=\"https://chess24.com/tour/secretlab-partners-with-tour/\">is designing a special chair</a> for the <strong>Champions Chess Tour</strong> that begins its 2022 edition on Saturday. The US company <a href=\"https://www.chess.com/news/view/chess-partnership-secretlab\">formerly partnered</a> with <strong>Chess.com</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/gaming-chair-producer-secretlab/",
+         "pubDate" : "Wed, 16 Feb 2022 22:39:11 +0100",
+         "title" : "Gaming chair producer Secretlab changes sides"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Jack Li</strong>, a digital game designer, <a href=\"https://jackli.gg/chessle/\">launched</a> <strong>Chessle</strong> where you guess opening sequences in the same way as in the popular <strong>Wordle</strong> game that has been bought by the New York Times. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/a-wordle-for-chess/",
+         "pubDate" : "Wed, 16 Feb 2022 22:22:10 +0100",
+         "title" : "A Wordle for chess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows the value of analyzing and learning from your own losses. The mysterious masked Caleb shows the only game he lost from the 2022 Master Lab tournament in Saint Louis. 2022.02.15<br /> Julian Proleiko vs. Caleb Denby, 2022: B18 Caro-Kann, classical variation<br /> Denby vs. Arjun Puri, 2022: D10 Queen&#039;s Gambit Declined Slav defence, exchange variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learn-your-worst-games-road-20",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/learn-your-worst-games-road-2000-nm-caleb-denby-0",
+         "pubDate" : "Wed, 16 Feb 2022 20:34:39 +0000",
+         "title" : "Learn from Your WORST Games! | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Katerina Nemcova talks about short-term positional play in chess, because plans change. The mysterious masked Katerina gives insight into her own development as a player and short-term planning. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-play-short-term-plans-grandmasters-choice-wgm-katerina-nemcova-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/positional-play-short-term-plans-grandmasters-choice-wgm-katerina-nemcova-0",
+         "pubDate" : "Wed, 16 Feb 2022 20:34:39 +0000",
+         "title" : "Positional Play: Short-Term Plans | Grandmaster's Choice - WGM Katerina Nemcova"
+      },
+      {
          "description" : "GM Vladimir Fedoseev won his first Titled Tuesday in nearly a year, while GM Hans Niemann earned his first-ever victory. For the first time in the three weeks since Titled Tuesday expanded to two tournaments, no one placed in the top five in both ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -818,30 +882,6 @@ news_feed (
          "title" : "Bishop or Fool"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> During the <strong>ECU</strong> board meeting in Thessaloniki, a team played a hybrid match via <strong>Tornelo</strong> against a team from the <strong>Berlin Chess Association</strong> that ended in a 2:2. Five seconds per move increment turned out too little, as one player on each side overstepped the time. <strong>Millennium</strong>'s Supreme Tournament 55 electronic boards worked well. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/hybrid-test-with-ecu/",
-         "pubDate" : "Fri, 11 Feb 2022 12:51:22 +0100",
-         "title" : "Hybrid test with ECU"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Austrian Chess Federation</strong> has moved its headquarter from Graz to the Haus des Sports in Vienna and hired its top player <strong>Markus Ragger</strong> as Sport Director and <strong>Annika Fr&ouml;wis</strong>, a female national team player, as office manager. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/ragger-is-sport-director/",
-         "pubDate" : "Fri, 11 Feb 2022 12:45:31 +0100",
-         "title" : "Ragger is Sport Director"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel gives insight on opening preparation at the highest level of chess. How do the pros train for tournaments? From deep opening preparation to middle game ideas, learn how to best equip yourself for competition. The mysterious masked Josh uses Daniil Dubov's Caro-Kann against Vincent Keymer at the 2022 FIDE Grand Prix Berlin as Exhibit A. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prep-caro-kann-dubov-prepare-pro-gm-josh-friedel\"><img src",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/prep-caro-kann-dubov-prepare-pro-gm-josh-friedel",
-         "pubDate" : "Fri, 11 Feb 2022 11:28:21 +0000",
-         "title" : "Prep the Caro-Kann like Dubov! | Prepare Like A Pro - GM Josh Friedel"
-      },
-      {
          "description" : "Hikaru Nakamura is in the semi-finals of the Berlin FIDE Grand Prix after surviving a dead-lost position against Andrey Esipenko. Hikaru will face either Radek Wojtaszek or Richard Rapport, after Rapport beat Vladimir Fedoseev with the black pieces while Radek was somewhat lucky to draw what had been an overwhelmingly winning position against Grigoriy Oparin. Levon Aronian's semi-final opponent is also undecided, after Wesley So spoilt a good position against Harikrishna and now plays a tiebreak against Leinier Dominguez, who beat Alexei Shirov on demand.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -888,14 +928,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-one/",
          "pubDate" : "Fri, 11 Feb 2022 07:02:26 +0000",
          "title" : "A Foundation for Beginners Fifty One"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> How do the pros train for tournaments? From deep opening preparation to middle game ideas, learn how to best equip yourself for competition. The mysterious masked Josh... 2022.02.10<br /> Daniil Dubov vs Vincent Keymer, FIDE Grand Prix Berlin (2022): B12 Caro-Kann, advance variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2246151\">https://www.chessgames.com/perl/chessgame?gid=2246151</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-p",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-josh-friedel",
-         "pubDate" : "Fri, 11 Feb 2022 05:27:48 +0000",
-         "title" : "Prepare Like A Pro - GM Josh Friedel"
       },
       {
          "description" : "The last round of the group stage of the 2022 FIDE Grand Prix first leg produced high-voltage drama in Berlin with GM Hikaru Nakamura joining GM Levon Aronian for the semifinal lineup after winning Group A and Group C respectively. It was a day of...",
@@ -1168,14 +1200,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no1-2022/",
          "pubDate" : "Tue, 08 Feb 2022 08:08:38 +0000",
          "title" : "Communique of the ECU Board Meeting CL No1/2022"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A fully revised and extended <strong><a href=\"https://handbook.fide.com/chapter/EthicsAndDisciplinaryCode2022\">Ethics and Disciplinary Code</a></strong> was approved by the <strong>FIDE General Assembly</strong> and will come into action on 1 April 2022. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/new-ethics-code-valid-from-april/",
-         "pubDate" : "Tue, 08 Feb 2022 08:35:33 +0100",
-         "title" : "New Ethics Code valid from April"
       },
       {
          "description" : "GM Yuri Averbakh, the oldest living grandmaster in the world, turns 100 today. After recovering from Covid last summer, he seems to be back in shape again and says he still analyzes endgames to keep his mind sharp. Born February 8, 1922, in Kalu...",
@@ -1522,14 +1546,6 @@ news_feed (
          "title" : "BCET Awards 2022"
       },
       {
-         "description" : "Keymer-Dubov, Esipenko-Grischuk, Bacrot-Nakamura and Aronian-Vidit are among the games to look forward to as the 2022 FIDE Grand Prix begins in Berlin on Friday 4th February at 15:00 CET. Ding Liren, who failed to get a visa, and Dmitry Andreikin, who tested positive, are absent, but the remaining 14 players have made it to Berlin, including Daniil Dubov, who has twice tested negative since he was forced to pull out of the Tata Steel Masters.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-grand-prix-starts-today-in-berlin",
-         "pubDate" : "Fri, 04 Feb 2022 09:28:44 +0000",
-         "title" : "FIDE Grand Prix starts today in Berlin"
-      },
-      {
          "description" : "Vasyl \"Chucky\" Ivanchuk is one of the most original of all top players, but for more than a year he has not played an official game. However, he is still enjoying chess and is now trying his hand at streaming. On his new YouTube channel \"IvanchukChess\" the former world's number two explains and analyses current games. | Photo: Lennart Ootes / World Rapid Championship 2016",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1656,14 +1672,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tykhon-cherniaiev-professional-streamer-minecrafter-and-chess-prodigy",
          "pubDate" : "Wed, 02 Feb 2022 19:08:51 +0100",
          "title" : "Tykhon Cherniaiev - Professional Streamer, Minecrafter, and Chess Prodigy"
-      },
-      {
-         "description" : "Note: We initially announced this content on February 1, but due to changes in the Grand Prix field, have restarted the contest. IF YOU VOTED YESTERDAY AND STILL WISH TO PARTICIPATE, PLEASE COMPLETE THE NEW FORM. Welcome to the Chess.com 2022 Gr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-grand-prix-fantasy-contest",
-         "pubDate" : "Wed, 02 Feb 2022 10:06:00 -0800",
-         "title" : "Join Chess.com's Free Grand Prix Fantasy Contest For Chance At Share Of $3,000"
       },
       {
          "description" : "In his \"Game of the Week\" show #501 Merijn van Delft takes a look at the final rounds of the Tata Steel tournament in Wijk aan Zee, and focuses on Magnus Carlsen's fine and crucial win with Black against Fabiano Caruana. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2056,22 +2064,6 @@ news_feed (
          "link" : "https://www.europechess.org/a-chess-board-for-all/",
          "pubDate" : "Thu, 27 Jan 2022 08:52:16 +0000",
          "title" : "A Chess Board for All!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1546",
-         "pubDate" : "Wed, 26 Jan 2022 22:24:43 +0000",
-         "title" : "Tata Steel Masters R10: Carlsen stays in front"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1545",
-         "pubDate" : "Wed, 26 Jan 2022 21:16:22 +0000",
-         "title" : "30 Federations will receive free training from FIDE licensed trainers"
       }
    ]
 }
