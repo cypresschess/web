@@ -2080,14 +2080,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/battle-of-sexes.html",
          "pubDate" : "Fri, 28 Jan 2022 12:18:00 +0000",
          "title" : "Battle of the Sexes"
-      },
-      {
-         "description" : "The European Universities Games, will take place in Lodz, Poland from 14 to 30 July 2022. Student-athletes will compete in as many as 20 disciplines. This means that up to 6,000 players from all over Europe will take part in the Polish edition of the European Universities Games (EUG). Students will compete in the largest academic sport event&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-universities-chess-championship-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-universities-chess-championship-2022/",
-         "pubDate" : "Fri, 28 Jan 2022 07:15:44 +0000",
-         "title" : "European Universities Chess Championship 2022"
       }
    ]
 }
