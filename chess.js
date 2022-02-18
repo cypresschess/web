@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Airthings Masters, the first event on the $1.6 million Meltwater Champions Chess Tour, kicks off Saturday 19th February with World Champion Magnus Carlsen topping a field full of ambitious young players. Fighting chess will be rewarded in 2022, both with cash for wins and a Season Bonus Fund of up to $200,000. David Smerdon's Fighting Chess Index will be used to award prizes, while there are also prizes for performing above expectations or playing brilliant games. New Tour ratings are being introduced to chart how players perform online.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/champions-chess-tour-to-reward-fighting-chess",
+         "pubDate" : "Fri, 18 Feb 2022 19:01:59 +0000",
+         "title" : "Champions Chess Tour to reward fighting chess"
+      },
+      {
+         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour with a glittering lineup featuring Magnus Carlsen and the new male and female world rapid champions. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-preview",
+         "pubDate" : "Fri, 18 Feb 2022 19:00:00 +0100",
+         "title" : "Airthings Masters kicks off 2022 Champions Chess Tour"
+      },
+      {
          "description" : "In his Power Play Show, GM Daniel King looks at a couple of games with a similar strategic pattern. In the first game we see Magnus Carlsen in action in the Norwegian League - and then we see a second game with a related theme, which was played by Ulf Andersson some years ago. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-carlsen-messes-up",
          "pubDate" : "Fri, 18 Feb 2022 17:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Carlsen messes up"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Borislav \"Bora\" Ivkov</strong>, the first junior world champion in 1951, who participated in five Interzonal Tournaments, beat Bobby Fischer twice and represented Yugoslavia in twelve Chess Olympiads, <a href=\"https://en.chessbase.com/post/remembering-borislav-ivkov-12-november-1933-14-february-2022\">didn't survive a Covid-19 infection</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/bora-ivkov-1933-2022/",
+         "pubDate" : "Fri, 18 Feb 2022 16:54:47 +0100",
+         "title" : "Bora Ivkov (1933-2022)"
+      },
+      {
+         "description" : " The Airthings Masters is the first event in the new season of the online Meltwater Champions Chess Tour. The event is hosted by Chess24 and takes place February 19th to 26th 2022. The format is mostly the same as last season with a 16 player 15 round rapid round robin preliminary stage and an 8 player knockout phase. The KO phase is slightly accelerated with only one 4 game mini-match before a blitz tie-break in the quarter and semi-finals but the final is still over two mini-matches before the tie-break. Players: Magnus Carlsen, Ding Liren, Ian Nepomniachtchi, Anish Giri, Levon Aronian, Shakhriyar Mamedyarov, Jan-Krzysztof Duda, Andrey Esipenko, Quang Liem Le, Vladislav Artemiev, Vincent K",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/airthings-masters-2022",
+         "pubDate" : "Fri, 18 Feb 2022 18:48:00 +0400",
+         "title" : "Airthings Masters 2022 - Games and Results"
       },
       {
          "description" : "The Collegiate Chess League kicked off its fourth season last weekend. This was the first round of seven and the start to what will surely make for another exciting season. Below is a recap of all the week one highlights and a preview of what will...",
@@ -232,14 +264,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/neither-carlsen-nor-ding-at-grand/",
          "pubDate" : "Wed, 16 Feb 2022 22:52:53 +0100",
          "title" : "Neither Carlsen nor Ding at Grand Chess Tour"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Secretlab</strong>, a producer of high end chairs for gamers, <a href=\"https://chess24.com/tour/secretlab-partners-with-tour/\">is designing a special chair</a> for the <strong>Champions Chess Tour</strong> that begins its 2022 edition on Saturday. The US company <a href=\"https://www.chess.com/news/view/chess-partnership-secretlab\">formerly partnered</a> with <strong>Chess.com</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/gaming-chair-producer-secretlab/",
-         "pubDate" : "Wed, 16 Feb 2022 22:39:11 +0100",
-         "title" : "Gaming chair producer Secretlab changes sides"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Jack Li</strong>, a digital game designer, <a href=\"https://jackli.gg/chessle/\">launched</a> <strong>Chessle</strong> where you guess opening sequences in the same way as in the popular <strong>Wordle</strong> game that has been bought by the New York Times. </div> ",
@@ -1522,14 +1546,6 @@ news_feed (
          "title" : "Player Types - The Reflector"
       },
       {
-         "description" : "Hikaru Nakamura wasn't bored in Round 2 of the FIDE Grand Prix in Berlin as he scored a brilliant win over Andrey Esipenko, the player Sergey Karjakin felt should have got a wildcard ahead of Hikaru. Richard Rapport found an extraordinary king march to bounce back and beat Vladimir Fedoseev, while Leinier Dominguez was rewarded for playing the Sicilian against Alexei Shirov. The other games were drawn, though Alexander Grischuk's Pirc almost backfired against Etienne Bacrot, while Radek Wojtaszek was a whisker away from moving to 2/2.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-2-nakamura-statement-win-rapport-masterpiece",
-         "pubDate" : "Sun, 06 Feb 2022 08:26:05 +0000",
-         "title" : "Berlin GP 2: Nakamura \"statement\" win, Rapport masterpiece"
-      },
-      {
          "description" : "In an exciting second round at the FIDE Grand Prix in Berlin, three players obtained full points in remarkable style. Hikaru Nakamura and Leinier Dominguez won to take the lead in their respective groups, while Richard Rapport bounced back from a first-round loss by taking down Vladimir Fedoseev in a game that featured a positional piece sacrifice and exceptional tactical accuracy. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1858,14 +1874,6 @@ news_feed (
          "title" : "Praggnanandhaa to feature in Airthings Masters Chess"
       },
       {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess and it also provides arsenal for the tournament player. Issue 205 offers games from several major events, FIDE Grand Swiss Tournament, USA and Russian Championships and European Team Championship, 2287 games (21 annotated), 11 opening surveys, lectures and exercises for training. Annotators include Alireza Firouzja, Anish Giri and Nikita Vitiugov among others. The icing on the cake is the Robert H&uuml;bner Special, a tribute to a great player who crossed swords with the best of them all, from Bobby Fischer to Garry Kasparov. Our columnist Nagesh Havanur takes a look. | Photo: Magnus Carlsen vs Alireza Firouzja, Norway Che",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-205-a-question-of-strong-will-and-cool-nerves",
-         "pubDate" : "Tue, 01 Feb 2022 17:00:00 +0100",
-         "title" : "CBM 205: A Question of Strong Will and Cool Nerves"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e93c1c3f-1168-4e65-a2fa-580efd9fa11e/ES3.jpg\" data-image-dimensions=\"579x288\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61f93a50b0779b5b7a4c8687\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e93c1c3f-1168-4e65-a2fa-580efd9fa11e/ES3.jpg?format=1000w\" /> </figure> <p class=\"\">This week I am joined by the founder of the <a href=\"https://www.berkeleychessschool.org\">Berkeley Chess School</a> (BCS), Elizabeth Shaughnessy. The Berkeley Chess School is a Califor",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2048,22 +2056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1549",
          "pubDate" : "Fri, 28 Jan 2022 22:56:53 +0000",
          "title" : "Tata Steel Masters R11: Carlsen leads, Rapport moves to second position"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1548",
-         "pubDate" : "Fri, 28 Jan 2022 17:26:25 +0000",
-         "title" : "\"I Fight to the End!\" championship and fundraiser returns in April"
-      },
-      {
-         "description" : "The following international junior tournaments are coming up in Rhodes, Greece &#8212; European Schools Championship 20th 30th April World Cadets &#38; Youth Rapid &#38;...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/announcement-for-international-junior-tournaments/",
-         "pubDate" : "Fri, 28 Jan 2022 17:14:54 +0000",
-         "title" : "Announcement for International Junior Tournaments"
       }
    ]
 }
