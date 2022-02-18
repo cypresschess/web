@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Hikaru Nakamura has won the first FIDE Grand Prix event of the year, defeating Lev Aronian in the final 3-1 (Nakamura winning both rapid tie-break games) The fact that both players qualified for the final could be considered a little surprising, given their age relative to the rest of the field. The fact that Nakamura then won the final was even more of a shock, as he has hardly lifted a piece in 2 years, concentrating on streaming instead. Nonetheless the result showed that the group of \"thirty something\" Super GM's still will take some beating by the next generation of GM's. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/kind-of-unexpected.html",
+         "pubDate" : "Fri, 18 Feb 2022 12:16:00 +0000",
+         "title" : "Kind of unexpected"
+      },
+      {
+         "description" : "Are you weary of feverishly watching for novelties in the Najdorf, or following tedious battles over the chessboard? Looking for something different? In the January issue of CHESS Magazine there was a small collection of delightful problems that caught our eye. They were selected and annotated by Graham Phythian. Today we show you the positions without any solutions, which will be supplied in a week. You can however figure them out on your own, with the help of the built-in engines in our replay app.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-magazine-quiz",
+         "pubDate" : "Fri, 18 Feb 2022 12:00:00 +0100",
+         "title" : "CHESS Magazine quiz"
+      },
+      {
+         "description" : " Last week, we started looking at creating combinations of moves that would set up either a pin or skewer. We'll keep this going next week. This week, I want to share something I learned when I recently went back to school for physical computing, laying out road maps to solve problems. I literally mean a <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-two/\">A Foundation for Beginners Fifty Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-two/",
+         "pubDate" : "Fri, 18 Feb 2022 08:29:46 +0000",
+         "title" : "A Foundation for Beginners Fifty Two"
+      },
+      {
          "description" : " Share!Born September 28th, 1941, Walter Harris is known as the first Black chess player to earn the U.S. Chess Federation National Master title. There are a number of articles about Harris on The Chess Drum, twice as an interview subject {2006 (phone), 2014 (in-person)}. Walter Harris in action against Bill Slater at the Marshall Chess [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/17/black-history-month-2022-day-17-walter-harris/\">Black History Month 2022-Day 17: Walter Harris</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1866,22 +1890,6 @@ news_feed (
          "title" : "Carbon versus Silicon"
       },
       {
-         "description" : "In the diagrammed position it is Black to move and draw. In fact, as endgame books and tablebases know this position is a theoretical draw. However, it occurred at the end of a rapid game and with only seconds on the clock Black failed to find the right move. Can you do better?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-theoretical-draw-but",
-         "pubDate" : "Tue, 01 Feb 2022 09:00:00 +0100",
-         "title" : "A theoretical draw, but..."
-      },
-      {
-         "description" : "Last Saturday, Arjun Erigaisi won the Tata Steel Challengers tournament with a round to spare. Despite having secured tournament victory, the Indian collected one more win on Sunday, thus finishing the event with a remarkable 10&frac12;/13 score. We take a look at some of Arjun's most successful performances, and reflect on the change of attitude that has worked so well for him. | Photo: Lennart Ootes - Tata Steel Chess Tournament 2022",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arjun-erigaisi-profile-2022",
-         "pubDate" : "Tue, 01 Feb 2022 04:00:00 +0100",
-         "title" : "Composed yet ruthless: Arjun Erigaisi"
-      },
-      {
          "description" : "Airports Authority of India awarding Sports Scholarships and contract engagement to promising young sportspersons. The objective of contract engagement is with a view to giving",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2072,14 +2080,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty/",
          "pubDate" : "Fri, 28 Jan 2022 13:08:11 +0000",
          "title" : "A Foundation for Beginners Fifty"
-      },
-      {
-         "description" : " Once again the Gibraltar Open has been affected by Covid meaning the big open event isn't being held. In its place is the <a href=\"https://www.gibchess.com/\">Match</a> between Team PIA (consisting of strong female players) and Team SABINO (consisting of strong male players). It is being played as a 10 round Scheveningen (ie all players on a team play all the players on the other team), and after 4 rounds, team PIA leads by 20.5-19.5. Team PIA got out to a good start winning the first two rounds, but Team Sabino has narrowed the gap in rounds 3 and 4. Turning out for Team SABINO is Australian GM Bobby Cheng, while Team PIA contains a player very familiar to Australian chess fans, IM Irine Su",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/battle-of-sexes.html",
-         "pubDate" : "Fri, 28 Jan 2022 12:18:00 +0000",
-         "title" : "Battle of the Sexes"
       }
    ]
 }
