@@ -26,6 +26,14 @@ news_feed (
          "title" : "Nakamura beats Aronian in tiebreaks, wins Berlin Grand Prix"
       },
       {
+         "description" : "GM Hikaru Nakamura demonstrated his superiority in quicker time controls by defeating fellow-American GM Levon Aronian with a clean 2-0 score in the rapid chess tiebreak of the final to emerge as the winner of the 2022 FIDE Grand Prix first leg in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-final-tiebreak-nakamura-wins",
+         "pubDate" : "Thu, 17 Feb 2022 10:26:00 -0800",
+         "title" : "2022 FIDE Grand Prix Berlin Final: Nakamura Wins First Leg After 2-0 Tiebreak Sweep"
+      },
+      {
          "description" : "GM Raunak Sadhwani earned the win in the third week of the ninth season of Arena Kings on Wednesday, holding off IM Le Tuan Minh in the finals with a score of&#38;nbsp; 3-2, which just stopped Le from a second consecutive victory.&#38;nbsp; The semifina...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1608,14 +1616,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/can-artificial-intelligence-identify-your-playing-style",
          "pubDate" : "Fri, 04 Feb 2022 13:11:28 +0100",
          "title" : "Can Artificial Intelligence identify your playing style?"
-      },
-      {
-         "description" : "The Battle of the Sexes Chess Tournament concluded on Thursday in Gibraltar with a 53-47 score for the men&#39;s team. This team event, with evenly paired men and women on opposing sides, took place at Gibraltar&#39;s Garrison Library and replaced the tra...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gibraltar-2022-battle-of-the-sexes",
-         "pubDate" : "Fri, 04 Feb 2022 04:00:00 -0800",
-         "title" : "Men Victorious In Gibraltar's Battle of the Sexes"
       },
       {
          "description" : "In his Power Play Show, GM Daniel King looks at two Tata Steel classics, played seven years apart, but in the same opening. It's interesting and worth comparing the strategies of the two victors, Magnus Carlsen and Arjun Erigaisi. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
