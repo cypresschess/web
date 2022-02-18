@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Power Play Show, GM Daniel King looks at a couple of games with a similar strategic pattern. In the first game we see Magnus Carlsen in action in the Norwegian League - and then we see a second game with a related theme, which was played by Ulf Andersson some years ago. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-carlsen-messes-up",
+         "pubDate" : "Fri, 18 Feb 2022 17:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Carlsen messes up"
+      },
+      {
+         "description" : "The Collegiate Chess League kicked off its fourth season last weekend. This was the first round of seven and the start to what will surely make for another exciting season. Below is a recap of all the week one highlights and a preview of what will...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-round-1",
+         "pubDate" : "Fri, 18 Feb 2022 06:39:04 -0800",
+         "title" : "Collegiate Chess League Season 4 Round 1"
+      },
+      {
+         "description" : "The FIDE Trainers' Seminar organized by All India Chess Federation with the support of Government of India Ministry of Youth Affairs &#38; Sports and got",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-trainers-seminar-kick-starts-at-shimla/",
+         "pubDate" : "Fri, 18 Feb 2022 13:22:16 +0000",
+         "title" : "FIDE Trainers' Seminar kick starts at Shimla"
+      },
+      {
          "description" : " Hikaru Nakamura has won the first FIDE Grand Prix event of the year, defeating Lev Aronian in the final 3-1 (Nakamura winning both rapid tie-break games) The fact that both players qualified for the final could be considered a little surprising, given their age relative to the rest of the field. The fact that Nakamura then won the final was even more of a shock, as he has hardly lifted a piece in 2 years, concentrating on streaming instead. Nonetheless the result showed that the group of \"thirty something\" Super GM's still will take some beating by the next generation of GM's. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1594,14 +1618,6 @@ news_feed (
          "title" : "Berlin GP: Dubov escapes"
       },
       {
-         "description" : "The first round of the 2022 FIDE Grand Prix saw three decisive games in an intense start to the group stage of the event. After the first of the total six double round-robin games to be played among players of each group, GM Vladimir Fedoseev and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r1-wojtaszek-fedoseev-aronian-start-with-wins",
-         "pubDate" : "Fri, 04 Feb 2022 15:58:00 -0800",
-         "title" : "2022 FIDE Grand Prix Berlin R1: Wojtaszek, Fedoseev, Aronian Start With Wins"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1866,14 +1882,6 @@ news_feed (
          "title" : "2022 ACT Lightning Championship "
       },
       {
-         "description" : "Round seven of the #GibChess Battle of Sexes, held at Gibraltar's Garrison Library on Monday 31 January, resulted in a 6-4 victory for Team Sabino with the black pieces, increasing their overall score to 37-33 - a lead of four points. But, once again, it could have been very different if Team Pia had taken all the chances offered in what was a particularly tense and hard-fought round. | Photo: Sir David Steel, Governor of Gibraltar, by John Saunders.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-men-forge-ahead",
-         "pubDate" : "Tue, 01 Feb 2022 11:57:23 +0100",
-         "title" : "Battle of the Sexes: Men forge ahead"
-      },
-      {
          "description" : "ECU is hosting the 1st Quarter Board Meeting in Thessaloniki, Greece on February 4 and 5. The Municipality of Thessaloniki has made the City Hall available for the first day of the meeting to honour the European Chess Union and its presence in the city. The main agenda items of the meeting: 1. The official calendar ECU for the years&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-board-meets-in-thessaloniki/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "https://chessimprover.com/carbon-versus-silicon/",
          "pubDate" : "Tue, 01 Feb 2022 08:42:50 +0000",
          "title" : "Carbon versus Silicon"
-      },
-      {
-         "description" : "Airports Authority of India awarding Sports Scholarships and contract engagement to promising young sportspersons. The objective of contract engagement is with a view to giving",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/airports-authority-of-india-contract-scholarship-scheme/",
-         "pubDate" : "Mon, 31 Jan 2022 15:43:30 +0000",
-         "title" : "Airports Authority of India Contract & Scholarship Scheme"
       },
       {
          "description" : "The Mind Sports Olympiad are excited to share with you our plans for two major competitions in 2022. For the first time ever we are...",
@@ -2064,22 +2064,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/announcement-for-international-junior-tournaments/",
          "pubDate" : "Fri, 28 Jan 2022 17:14:54 +0000",
          "title" : "Announcement for International Junior Tournaments"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1ac2ca25-ea04-42e3-be38-ecd135d92611/ES2.jpg\" data-image-dimensions=\"382x180\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61f3ef174abbc5621ba931ff\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1ac2ca25-ea04-42e3-be38-ecd135d92611/ES2.jpg?format=1000w\" /> </figure> <p class=\"\"><a href=\"https://www.perpetualchesspod.com/recaptured\" target=\"_blank\"><em>Chess Books Recaptured</em></a><em> </em>is back to discuss one of my favorite chess books ever, Mikhail Sher",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/1/28/book-recap-23-discussing-shereshevskys-endgame-strategy-with-dr-kevin-scull",
-         "pubDate" : "Fri, 28 Jan 2022 13:31:02 +0000",
-         "title" : "Book Recap #23- Discussing Shereshevsky's Endgame Strategy with Dr. Kevin Scull "
-      },
-      {
-         "description" : " This week, we're going to start looking at what makes up the core of any good tactic, the combination. The combination is simply a series of moves that set up and execute a tactic. All tactics require a combination of moves to be made in order for them to be executed. Of course, you could <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty/\">A Foundation for Beginners Fifty</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty/",
-         "pubDate" : "Fri, 28 Jan 2022 13:08:11 +0000",
-         "title" : "A Foundation for Beginners Fifty"
       }
    ]
 }
