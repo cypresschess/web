@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share!Born September 28th, 1941, Walter Harris is known as the first Black chess player to earn the U.S. Chess Federation National Master title. There are a number of articles about Harris on The Chess Drum, twice as an interview subject {2006 (phone), 2014 (in-person)}. Walter Harris in action against Bill Slater at the Marshall Chess [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/17/black-history-month-2022-day-17-walter-harris/\">Black History Month 2022-Day 17: Walter Harris</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/17/black-history-month-2022-day-17-walter-harris/",
+         "pubDate" : "Fri, 18 Feb 2022 01:44:41 +0000",
+         "title" : "Black History Month 2022-Day 17: Walter Harris"
+      },
+      {
+         "description" : "Hikaru Nakamura beat Levon Aronian 2:0 in tiebreaks to clinch victory in the Berlin FIDE Grand Prix, putting him in pole position in the race to pick up one of the two Candidates Tournament spots available through the Grand Prix series. It was a remarkable return after two years away from classical chess for Hikaru, who finished unbeaten and more than justified his wild card spot. The final tiebreak games were nervous, with Levon missing chances to draw the first game before Hikaru defended a tough position in the second well to wrap up victory.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-returns-to-triumph-in-berlin-grand-prix",
+         "pubDate" : "Fri, 18 Feb 2022 00:59:21 +0000",
+         "title" : "Nakamura returns to triumph in Berlin Grand Prix"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -130,7 +146,7 @@ news_feed (
          "title" : "FIDE Grand Prix Tie-Breaks"
       },
       {
-         "description" : " Share! Marcus Mosiah Garvey The Chess Drum is billed as a Pan-African website. One of the biggest inspirations for this site was the Honorable Marcus Mosiah Garvey. This Jamaican visionary immigrated to the United States and set forth one of the most important social movements in American history. It started as a small grassroots movement [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/16/black-history-month-2022-day-16-pan-african-chess/\">Black History Month 2022-Day 16: Pan-African Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Marcus Mosiah Garvey The Chess Drum is billed as a Pan-African website. One of the biggest inspirations for this site was the Honorable Marcus Mosiah Garvey. This Jamaican visionary immigrated to the United States and set forth one of the most important social movements in American history. It started as a small grassroots movement with [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/16/black-history-month-2022-day-16-pan-african-chess/\">Black History Month 2022-Day 16: Pan-African Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/16/black-history-month-2022-day-16-pan-african-chess/",
@@ -1066,14 +1082,6 @@ news_feed (
          "title" : "Media warm-up for the FIDE Grand Prix held in Belgrade"
       },
       {
-         "description" : " One powerful piece of African history is often forgotten or ignored and it has a tremendous relationship to chess. It is known that the Moors brought the Persian variant &#8220;Shatranj&#8221; into Spain after the incursion of Tariq ibn-Ziyad. Tariq commanded his 7,000 soldiers across the strait into al-Andalus (modern-day Spain) and landed on Gebal al-Tariq [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/10/black-history-month-2022-day-10-the-moors-of-spain/\">Black History Month 2022-Day 10: The Moors of Spain</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/10/black-history-month-2022-day-10-the-moors-of-spain/",
-         "pubDate" : "Thu, 10 Feb 2022 18:58:34 +0000",
-         "title" : "Black History Month 2022-Day 10: The Moors of Spain"
-      },
-      {
          "description" : "This week Robert Ris shows why the almost forgotten Schara von Hennig Gambit (1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4) has become popular again and attracts players like Grischuk and Jorden van Foreest. Ris also shows a clear game-plan for Black that will help you to try this exciting gambit with success! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1536,14 +1544,6 @@ news_feed (
          "link" : "https://aicf.in/regulations-mpl-58th-senior-national-47th-national-women-chess-championships-2022/",
          "pubDate" : "Sat, 05 Feb 2022 10:14:22 +0000",
          "title" : "Regulations : MPL 58th Senior National & 47th National Women Chess Championships-2022"
-      },
-      {
-         "description" : "Top seed Levon Aronian began the Berlin Grand Prix with a win as he defeated Vidit in a topsy-turvy game, but perhaps the most noteworthy result was Ding Liren's late replacement Radek Wojtaszek overpowering Richard Rapport. Their B Group is the most combative so far, with Vladimir Fedoseev also getting an early grip and never letting go against Grigoriy Oparin. The five remaining games were drawn, with Alexander Grischuk getting into time trouble before missing a great chance to defeat Andrey Esipenko. ",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-1-aronian-wojtaszek-fedoseev-win",
-         "pubDate" : "Sat, 05 Feb 2022 09:58:11 +0000",
-         "title" : "Berlin Grand Prix 1: Aronian, Wojtaszek & Fedoseev win"
       },
       {
          "description" : " Now, more than ever, is a good time to recognise to great work that King O'Malley's does to support the Canberra community. Chess players will already recognise O'Malley's as both the venue and sponsor of Street Chess, having provided a venue for chess players every Saturday for over 15 years. But they also support a number of charitable activities including Movember, World's Greatest Shave and Skin Check Champions. They also host a number of community activities such as painting classes, a Pint of Science and charity trivia competitions. So today when a group of anti-vaxxer's turned up to the pub, I was not surprised that they dishonestly claimed that they were being discriminated against.",
