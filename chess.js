@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Opposite-coloured bishops favour the attacker - in the diagrammed position it is Black to move, and do you see how Black can exploit the superiority on \"his squares\"?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-surprising-attack",
+         "pubDate" : "Sat, 19 Feb 2022 09:00:00 +0100",
+         "title" : "A surprising attack"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. The 2022 Spring Chess Classic is comprised of two 10-player Round Robin tournaments. Over the course of 9 days, these competitors will compete for $36,000 in prize money and gain valuable experience in a top-level event. 2022.03.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1858,14 +1866,6 @@ news_feed (
          "title" : "Reschedule of FIDE Arbiter Seminar at Kanpur"
       },
       {
-         "description" : "In his \"Weekly Show\" Lawrence Trent, who is currently in Gibraltar to commentate the games of the \"Battle of the Sexes\" with Irina Bulmaga, looks at highlights from this entertaining event. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-the-ongoing-battle-of-the-sexes",
-         "pubDate" : "Wed, 02 Feb 2022 11:30:00 +0100",
-         "title" : "The Weekly Show: The ongoing Battle of the Sexes"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2040,22 +2040,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-colour-of-silence-art-chess-and-synaesthesia/",
          "pubDate" : "Sat, 29 Jan 2022 09:00:47 +0000",
          "title" : "The colour of silence: art, chess and synaesthesia"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89196948.cms\" />Five-time chess world champion Viswanathan Anand has been roped in as a mentor of the Indian players looking to break into the team for the Asian Games in Hangzhou, China, where the sport will make a comeback after a gap of 12 years.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/legendary-viswanathan-anand-to-mentor-indian-chess-players-ahead-of-asian-games/articleshow/89196948.cms",
-         "pubDate" : "Sat, 29 Jan 2022 12:47:35 +0530",
-         "title" : "Viswanathan Anand to mentor Indian chess players ahead of Asian Games"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89195233.cms\" />Indian Grandmaster Vidit Gujrathi held world No. 1 Magnus Carlsen to a draw in the 11th round of the Tata Steel Masters chess tournament to jointly occupy the fourth place with six points.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-masters-vidit-gujrathi-holds-magnus-carlsen-to-draw-r-praggnanandhaa-loses-to-fabiano-caruana/articleshow/89195233.cms",
-         "pubDate" : "Sat, 29 Jan 2022 11:22:08 +0530",
-         "title" : "Tata Steel Masters: Vidit Gujrathi holds Magnus Carlsen to draw, R Praggnanandhaa loses to Fabiano Caruana"
       }
    ]
 }
