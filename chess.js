@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. The 2022 Spring Chess Classic is comprised of two 10-player Round Robin tournaments. Over the course of 9 days, these competitors will compete for $36,000 in prize money and gain valuable experience in a top-level event. 2022.03.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-1",
+         "pubDate" : "Fri, 18 Feb 2022 23:37:09 +0000",
+         "title" : "2022 Spring Chess Classic: Round 1"
+      },
+      {
+         "description" : " Share!Chess enthusiasts around the world have enjoyed the game for centuries and are familiar with its Indian origins. However, there are alternate theories of how chess was spread. Some have suggested that chess played today descended from Africa. I have heard this suggestion made by chess enthusiasts based on a particular image of Queen Nefertari. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/18/black-history-month-2022-day-18-nefertari-senet/\">Black History Month 2022-Day 18: Queen Nefertari &#038; Senet</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/18/black-history-month-2022-day-18-nefertari-senet/",
+         "pubDate" : "Fri, 18 Feb 2022 22:50:50 +0000",
+         "title" : "Black History Month 2022-Day 18: Queen Nefertari & Senet"
+      },
+      {
+         "description" : "The total Prize Fund Increased to $1.4 million across all five tournaments. The nine players are Wesley So Maxime Vachier-Lagrave, Shakhriyar Mamedyarov, Alireza Firouzja, Fabiano Caruana, Ian Nepomniachtchi, Levon Aronian, Richard Rapport, and Leinier Dominguez. | Photo: grandchesstour.org",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/full-tour-participants-confirmed-for-the-2022-grand-chess-tour",
+         "pubDate" : "Fri, 18 Feb 2022 22:31:22 +0100",
+         "title" : "Full Tour Participants confirmed for the 2022 Grand Chess Tour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser faces a Ruy Lopez in a slow, instructive, classical game. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/i-played-perfectly-versus-ruy-lopez-instructive-cl",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/i-played-perfectly-versus-ruy-lopez-instructive-classical-chess",
+         "pubDate" : "Fri, 18 Feb 2022 20:36:48 +0000",
+         "title" : "I Played Perfectly Versus the Ruy Lopez... (Instructive Classical Chess)"
+      },
+      {
          "description" : "The Airthings Masters, the first event on the $1.6 million Meltwater Champions Chess Tour, kicks off Saturday 19th February with World Champion Magnus Carlsen topping a field full of ambitious young players. Fighting chess will be rewarded in 2022, both with cash for wins and a Season Bonus Fund of up to $200,000. David Smerdon's Fighting Chess Index will be used to award prizes, while there are also prizes for performing above expectations or playing brilliant games. New Tour ratings are being introduced to chart how players perform online.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -82,7 +114,7 @@ news_feed (
          "title" : "A Foundation for Beginners Fifty Two"
       },
       {
-         "description" : " Share!Born September 28th, 1941, Walter Harris is known as the first Black chess player to earn the U.S. Chess Federation National Master title. There are a number of articles about Harris on The Chess Drum, twice as an interview subject {2006 (phone), 2014 (in-person)}. Walter Harris in action against Bill Slater at the Marshall Chess [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/17/black-history-month-2022-day-17-walter-harris/\">Black History Month 2022-Day 17: Walter Harris</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Born September 28th, 1941, Walter Harris is known as the first Black chess player to earn the U.S. Chess Federation National Master title. There are a number of articles about Harris on The Chess Drum, twice as an interview subject {2006 (phone), 2014 (in-person)}. Walter Harris in action against Bill Slater at the Marshall Chess [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/17/black-history-month-2022-day-17-walter-harris/\">Black History Month 2022-Day 17: Walter Harris</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/17/black-history-month-2022-day-17-walter-harris/",
@@ -488,14 +520,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/1e4-vs-french-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
          "pubDate" : "Tue, 15 Feb 2022 20:33:25 +0000",
          "title" : "1.e4 vs The French | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> This new tournament will bring world class chess masters to America&#039;s chess capital to compete in a fierce do or die struggle for $300,000 in prize money. With a double elimination format, fans can expect the American Cup to have a combination of exciting chess play, stunning upsets, and epic comebacks. Join a commentary team TBA for the move-by-move. 2022.04.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-day-1\"><i",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-1",
-         "pubDate" : "Tue, 15 Feb 2022 20:33:25 +0000",
-         "title" : "The American Cup 2022: Day 1"
       },
       {
          "description" : " In 2003, Maurice Ashley and Stephen Muhammad joined the roster of participants of the prestigious U.S. Chess Championship, the hallmark of American tournaments. It is a chance for glory and to be included in the annals of history along with the list of luminaries whose plaques now adorn the World Chess Hall-of-Fame museum in St. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/15/black-history-month-2022-day-15-ashley-muhammad/\">Black History Month 2022-Day 15: Ashley &#038; Muhammad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -906,14 +930,6 @@ news_feed (
          "title" : "FIDE Grand Prix: Aronian and Nakamura pull ahead"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Harrison Keyser exhibits a strong performance in the Lichess Hourly Rapid Arena. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-i-beat-429-people-chess\"><img src=\"http",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-i-beat-429-people-chess",
-         "pubDate" : "Sat, 12 Feb 2022 20:29:41 +0000",
-         "title" : "How I Beat 429 People at Chess..."
-      },
-      {
          "description" : " <p class=\"lead\">Game 1 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> semifinals ended with Aronian beating Dominguez after an \"inhuman\" game, while Nakamura won Rapport with a steady and tactical play. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-6.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220212150054_IMG_1948.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220212161433_IMG_2012.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1064,14 +1080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1569",
          "pubDate" : "Fri, 11 Feb 2022 14:58:11 +0000",
          "title" : "FIDE distributes €30,000 among distinguished veterans"
-      },
-      {
-         "description" : " Back in 2003, I wrote an article titled, &#8220;Ten of the Best Games Played by Black Masters.&#8221; Included in that list were games such as Tate-Ashley, Tate-Yudasin and Giles-Browne, to name a few. While Paige-Formanek is shown again for prosperity, there have been some worthy additions. Following are five historic games that may have flown [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/11/black-history-month-2022-day-11-historic-games/\">Black History Month 2022-Day 11: Historic Games!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/11/black-history-month-2022-day-11-historic-games/",
-         "pubDate" : "Fri, 11 Feb 2022 14:30:13 +0000",
-         "title" : "Black History Month 2022-Day 11: Historic Games!"
       },
       {
          "description" : " The trip to the Lifeline Bookfair was almost incident free* and I picked up a few books while I was there. As usual I came home with some books I already owned, although in this case 2 of the 3 books were deliberate purchases (the third was an American reprint of The Mammoth Book of Chess, under another name). One book which I definitely did not own was \"Assess Your Chess Fast\" by GM Alberic O'Kelly de Galway. Published in 1976, it followed the tried and true teaching method of devoting a chapter to a specific topic, and then providing test positions at the end. The topics were pretty mixed up, starting with \"The Ferocious Pawns\" and ending with \"Hidden Strategical Possibilities in the Midd",
@@ -1850,14 +1858,6 @@ news_feed (
          "title" : "The Weekly Show: The ongoing Battle of the Sexes"
       },
       {
-         "description" : "FIDE has published the new world ranking list. Since hardly any tournaments were played in January and the Tata Steel tournament was not taken into account for the February list, there are virtually no changes at the top. Magnus Carlsen continues to be the world's number one with a huge margin, Alireza Firouzja is in second place and the only other player with a rating of +2800.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-february-2022",
-         "pubDate" : "Wed, 02 Feb 2022 09:23:08 +0100",
-         "title" : "FIDE ratings February 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2048,14 +2048,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-masters-vidit-gujrathi-holds-magnus-carlsen-to-draw-r-praggnanandhaa-loses-to-fabiano-caruana/articleshow/89195233.cms",
          "pubDate" : "Sat, 29 Jan 2022 11:22:08 +0530",
          "title" : "Tata Steel Masters: Vidit Gujrathi holds Magnus Carlsen to draw, R Praggnanandhaa loses to Fabiano Caruana"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1549",
-         "pubDate" : "Fri, 28 Jan 2022 22:56:53 +0000",
-         "title" : "Tata Steel Masters R11: Carlsen leads, Rapport moves to second position"
       }
    ]
 }
