@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Another big chess series kicks off for 2022, with the Airthings Masters starting in a few hours. Part of the Meltwater Champions Chess Tour, the first event starts with an online rapidplay RR, with 16 players from around the world. The format has been sped up, to provide more exciting chess, so there will be 4 rounds per day in the preliminary section. The top 8 players will then qualify for the KO final. For local (Canberra) viewers, the tournament begins at 4am, but you may be able to catch the last couple of games of the day, if you wake early enough. The <a href=\"https://chess24.com/tour/\">official hompage</a> for the tournament has more details, including schedules and tournament forma",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/airthings-masters.html",
+         "pubDate" : "Sat, 19 Feb 2022 12:38:00 +0000",
+         "title" : "Airthings Masters"
+      },
+      {
          "description" : "One game of chess played by Karl Marx does exist (see the link below) but it must be regarded as apocryphal. In this game, Marx achieves a level of chessboard brilliance, matching that of games attributed to Napoleon Bonaparte, which are known to be fabricated. Surely, if Karl Marx had been that strong at chess, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -2016,30 +2024,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-wins-the-tata-steel-masters-and-erigaisi-the-challengers-both-with-a-round-to-spare",
          "pubDate" : "Sat, 29 Jan 2022 22:58:00 +0400",
          "title" : "Carlsen wins the Tata Steel Masters and Erigaisi the Challengers both with a round to spare - 12"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89207312.cms\" />Grandmaster Arjun Erigaisi became the fourth Indian player after P Harikrishna, B Adhiban and Vidit Gujrathi to win the Tata Steel Challengers event at Wijk Aan Zee in The Netherlands on Saturday evening. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-wins-tata-steel-challengers-with-a-round-to-spare/articleshow/89207312.cms",
-         "pubDate" : "Sat, 29 Jan 2022 21:09:32 +0530",
-         "title" : "Arjun Erigaisi wins Tata Steel Challengers with a round to spare"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89205069.cms\" />As chess makes a return to the Asian Games for the first time since the 2010 Guangzhou edition in China, India will be hoping for a medal rush. The AICF (All India Chess Federation), on Saturday, named five-time former World champion Viswanathan Anand as the team mentor. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-expects-strong-finish-for-india-at-asian-games/articleshow/89205069.cms",
-         "pubDate" : "Sat, 29 Jan 2022 19:16:24 +0530",
-         "title" : "AICF expects strong finish for India at Asian Games"
-      },
-      {
-         "description" : " Chess in Canberra has received some fantastic media coverage of the last few years, due in no small part to James Buckley. He is a sports writer for the Canberra Times, as well as being a more than handy chess player. As a result, a lot of chess coverage ends up being featured in the sports section (alongside cricket or rugby), rather than being relegated to the 'lifestyle' section. Towards the end of February, James is taking part in a 'Special Forces Challenge' to raise money for the Terry Campese Foundation. Along with a number of other Canberra sporting and business identities, James is spending 30 hours being put through the wringer by a 'bunch of ex-army types'. While most of the chal",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/survival-of-smartest.html",
-         "pubDate" : "Sat, 29 Jan 2022 12:35:00 +0000",
-         "title" : "Survival of the Smartest?"
       }
    ]
 }
