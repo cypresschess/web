@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2022-02-18","21","<a href=http://www.uschess.org/msa/XtblMain.php?202202181492 target=' blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2022-02-18","14","<a href=http://www.uschess.org/msa/XtblMain.php?202202181432 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2022-02-11","31","<a href=http://www.uschess.org/msa/XtblMain.php?202202118462 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-02-11","12","<a href=http://www.uschess.org/msa/XtblMain.php?202202118452 target=' blank'>FBCC 2022 PRE-VALENTINE'S OPEN/FBCC</a>",
 "CYPRESS","2022-02-11","18","<a href=http://www.uschess.org/msa/XtblMain.php?202202118372 target=' blank'>KNIGHTS OF CYPRESS</a>",
@@ -197,6 +199,4 @@ jtable([
 "KATY","2021-03-20","14","<a href=http://www.uschess.org/msa/XtblMain.php?202103202392 target=' blank'>SR CHESSKNIGHTS 03202021</a>",
 "SPRING","2021-03-20","19","<a href=http://www.uschess.org/msa/XtblMain.php?202103202022 target=' blank'>DER SPRINGERS G/75</a>",
 "SPRING","2021-03-19","17","<a href=http://www.uschess.org/msa/XtblMain.php?202103191602 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2021-03-19","6","<a href=http://www.uschess.org/msa/XtblMain.php?202103191582 target=' blank'>FBCC 2021 CHESSPLAYERS HATE COVID O</a>",
-"HOUSTON","2021-03-13","81","<a href=http://www.uschess.org/msa/XtblMain.php?202103130142 target=' blank'>TCR: SUGAR LAND OPEN AIR CHESS TOURNAMENT</a>",
 ]);
