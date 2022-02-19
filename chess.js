@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One game of chess played by Karl Marx does exist (see the link below) but it must be regarded as apocryphal. In this game, Marx achieves a level of chessboard brilliance, matching that of games attributed to Napoleon Bonaparte, which are known to be fabricated. Surely, if Karl Marx had been that strong at chess, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/which-marx-played-better-chess-karl-or-groucho/",
+         "pubDate" : "Sat, 19 Feb 2022 10:55:56 +0000",
+         "title" : "Which Marx played better chess: Karl or Groucho?"
+      },
+      {
+         "description" : " <p class=\"lead\">Hikaru Nakamura won the first leg of the FIDE Grand Prix Series 2022, organized by World Chess in a thrilling tie-break. The US Grandmaster won 13 Grand Prix Points and is now a favorite to qualify for the Candidates Tournament. Nakamura also took home €24,000 in prize money. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220217174755_IMG_2648.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220217174613_IMG_2635.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photos: World Chess</div> </div> This vict",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/hikaru-nakamura-wins-the-first-leg-of-the-fide-grand-prix-series/",
+         "pubDate" : "Sat, 19 Feb 2022 09:55:31 +0000",
+         "title" : "Hikaru Nakamura Wins The First Leg of The FIDE Grand Prix Series 2022"
+      },
+      {
          "description" : "Opposite-coloured bishops favour the attacker - in the diagrammed position it is Black to move, and do you see how Black can exploit the superiority on \"his squares\"?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -992,14 +1008,6 @@ news_feed (
          "link" : "https://www.thearticle.com/norwegian-clue/",
          "pubDate" : "Sat, 12 Feb 2022 10:00:09 +0000",
          "title" : "Norwegian clue"
-      },
-      {
-         "description" : " \"That's what chess is. You train so hard and then everything depends on that crucial few seconds of decision making\". Wesley So's final reflection after losing his semifinal sums up very well the extreme difficulty of being an elite chess professional. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220211150149_IMG_1710-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220211150325_IMG_1715-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220211150240_IMG_1713-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/berlin-grand-prix-fide-the-semifinals-are-set/",
-         "pubDate" : "Sat, 12 Feb 2022 09:02:11 +0000",
-         "title" : "Berlin Grand Prix FIDE: the semifinals are set"
       },
       {
          "description" : "While you are looking at this rich diagram position - would you be so kind to show why 22...Kxc8?? loses the game for Black?",
@@ -2032,14 +2040,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/survival-of-smartest.html",
          "pubDate" : "Sat, 29 Jan 2022 12:35:00 +0000",
          "title" : "Survival of the Smartest?"
-      },
-      {
-         "description" : "In an essay for TheArticle published on December 7 last year, Jay Elwes posed here a provocative question: who was the greatest artist of the twentieth century? Ella Fitzgerald was Jay's answer. I would prefer to nominate Marcel Duchamp, about whom I have also written previously in this column. Duchamp's reputation is based on both []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-colour-of-silence-art-chess-and-synaesthesia/",
-         "pubDate" : "Sat, 29 Jan 2022 09:00:47 +0000",
-         "title" : "The colour of silence: art, chess and synaesthesia"
       }
    ]
 }
