@@ -18,6 +18,14 @@ news_feed (
          "title" : "Black History Month 2022-Day 18: Queen Nefertari & Senet"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1585",
+         "pubDate" : "Fri, 18 Feb 2022 22:46:00 +0000",
+         "title" : "\"Chess for Mental Health\" International Conference announced"
+      },
+      {
          "description" : "The total Prize Fund Increased to $1.4 million across all five tournaments. The nine players are Wesley So Maxime Vachier-Lagrave, Shakhriyar Mamedyarov, Alireza Firouzja, Fabiano Caruana, Ian Nepomniachtchi, Levon Aronian, Richard Rapport, and Leinier Dominguez. | Photo: grandchesstour.org",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
