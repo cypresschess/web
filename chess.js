@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share!Dr. James McCune Smith is a man we don't hear of during Black History Month. This multitalented and multifaceted man was known more in the areas of literary scholarship, medicine, and social activism than in chess. If you knew this man, chances are that you are a 19th-century American history buff. Sometimes a single article, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/19/black-history-month-2022-day-19-james-mccune-smith/\">Black History Month 2022-Day 19: James McCune Smith</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/19/black-history-month-2022-day-19-james-mccune-smith/",
+         "pubDate" : "Sat, 19 Feb 2022 19:05:18 +0000",
+         "title" : "Black History Month 2022-Day 19: James McCune Smith"
+      },
+      {
+         "description" : "Due to runway maintenance at Port Blair airport, flights are not available to travel to Port Blair for participants and lecturers. Considering the same, AICF",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-arbiter-seminar-11-13-march-2022-shift-of-venue/",
+         "pubDate" : "Sat, 19 Feb 2022 17:17:35 +0000",
+         "title" : "Fide Arbiter Seminar (11-13 March 2022) Shift of Venue"
+      },
+      {
+         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
+         "pubDate" : "Sat, 19 Feb 2022 17:55:00 +0100",
+         "title" : "Airthings Masters - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1586",
+         "pubDate" : "Sat, 19 Feb 2022 16:41:51 +0000",
+         "title" : "Mahammad Muradli wins Azerbaijan Championship"
+      },
+      {
          "description" : " Another big chess series kicks off for 2022, with the Airthings Masters starting in a few hours. Part of the Meltwater Champions Chess Tour, the first event starts with an online rapidplay RR, with 16 players from around the world. The format has been sped up, to provide more exciting chess, so there will be 4 rounds per day in the preliminary section. The top 8 players will then qualify for the KO final. For local (Canberra) viewers, the tournament begins at 4am, but you may be able to catch the last couple of games of the day, if you wake early enough. The <a href=\"https://chess24.com/tour/\">official hompage</a> for the tournament has more details, including schedules and tournament forma",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -42,7 +74,7 @@ news_feed (
          "title" : "2022 Spring Chess Classic: Round 1"
       },
       {
-         "description" : " Share!Chess enthusiasts around the world have enjoyed the game for centuries and are familiar with its Indian origins. However, there are alternate theories of how chess was spread. Some have suggested that chess played today descended from Africa. I have heard this suggestion made by chess enthusiasts based on a particular image of Queen Nefertari. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/18/black-history-month-2022-day-18-nefertari-senet/\">Black History Month 2022-Day 18: Queen Nefertari &#038; Senet</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Chess enthusiasts around the world have enjoyed the game for centuries and are familiar with its Indian origins. However, there are alternate theories of how chess was spread. Some have suggested that chess played today descended from Africa. I have heard this suggestion made by chess enthusiasts based on a particular image of Queen Nefertari. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/18/black-history-month-2022-day-18-nefertari-senet/\">Black History Month 2022-Day 18: Queen Nefertari &#038; Senet</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/18/black-history-month-2022-day-18-nefertari-senet/",
@@ -1026,14 +1058,6 @@ news_feed (
          "title" : "One false move!"
       },
       {
-         "description" : " Frank &#8220;ChessCoach&#8221; JohnsonPhoto by Hyperluxe Hyperluxe is partnering with chess celebrity Frank &#8220;ChessCoach&#8221; Johnson to provide critical guidance in chess culture and tournament organizing. JACKSON, MS, USA, February 10, 2022 /EINPresswire.com/ &#8212; Hyperluxe Gaming which delivers tournament-style Esports is now turning its attention to the world of chess. Competitive chess is a standalone ecosystem. With [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/11/frank-johnson-hyperluxe-gg-esports-initiative/\">Frank Johnson &#038; Hyperluxe.gg eSports Initiative</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/11/frank-johnson-hyperluxe-gg-esports-initiative/",
-         "pubDate" : "Fri, 11 Feb 2022 23:41:45 +0000",
-         "title" : "Frank Johnson & Hyperluxe.gg eSports Initiative"
-      },
-      {
          "description" : "GM Leinier Dominguez and GM Richard Rapport defeated GM Wesley So and GM Radoslaw Wojtaszek respectively in the rapid tiebreak games with identical 1.5-0.5 victories to reach the semifinals of the 2022 FIDE Grand Prix in Berlin. Ironically, the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1866,22 +1890,6 @@ news_feed (
          "title" : "French Grandmaster Gilles Mirallès dies at the age of 55"
       },
       {
-         "description" : "Round eight of the #GibChess Battle of Sexes, held at Gibraltar's Garrison Library on Tuesday 1 February, resulted in a 5&frac12;-4&frac12; victory for Team Sabino with the White pieces, increasing their overall score to 42&frac12;-37&frac12; - a lead of five points for the men's team with two rounds to go. The battle is now well and truly joined, with various chances coming and going, but the men's team lead is starting to look hard to overturn. Report and photos by John Saunders.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-men-increase-lead",
-         "pubDate" : "Wed, 02 Feb 2022 14:30:19 +0100",
-         "title" : "Battle of the Sexes: Men increase lead"
-      },
-      {
-         "description" : "Due to the UP election, AICF decided to reschedule the Arbiter Seminar at Kanpur and now the seminar will be held from 25-27 Feb 2022.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/reschedule-of-fide-arbiter-seminar-at-kanpur/",
-         "pubDate" : "Wed, 02 Feb 2022 11:49:51 +0000",
-         "title" : "Reschedule of FIDE Arbiter Seminar at Kanpur"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2016,14 +2024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1550",
          "pubDate" : "Sat, 29 Jan 2022 23:17:18 +0000",
          "title" : "Carlsen wins Tata Steel Masters 2022 with a round to spare"
-      },
-      {
-         "description" : " Magnus Carlsen won his eighth Tata Steel Masters title (2008 shared - 2010, 2013, 2015, 2016, 2018, 2019 and now 2022) by winning his fifth game of the event. Carlsen said he was very motivated today in his game against Fabiano Caruana who likewise was looking for a fight. This was Carlsen's final game of the tournament as he was due to play Daniil Dubov in the final round but who has tested positive for Covid-19. It not surprisingly seemed important to Carlsen that this tournament victory wasn't due to this default. Caruana played a Rossolimo Sicilian with white but didn't get much and the game was equal after 19.Qa3 (19.c4!?) then after 26.f3 Caruana allowed the strong exchange sacrifice ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/carlsen-wins-the-tata-steel-masters-and-erigaisi-the-challengers-both-with-a-round-to-spare",
-         "pubDate" : "Sat, 29 Jan 2022 22:58:00 +0400",
-         "title" : "Carlsen wins the Tata Steel Masters and Erigaisi the Challengers both with a round to spare - 12"
       }
    ]
 }
