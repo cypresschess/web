@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The ACT and South Australia played a junior challenge tournament today, over 18(+2) boards. Using the Tornelo platform, and zoom supervision, the event was over 6 rounds, with a time limit of 15m+5s. It was played as a team swiss, which is like a normal swiss except players from the same team do not play each other. As the ACT had 18 players, and SA ended up with 20, a separate 2 player team (SA2) was required. Having played under this format a few times, the ACT team shot out to quite a large lead. However, once the South Australian players got used to the format, the margin narrowed over the last two rounds. In the end the ACT scored 59 points, and SA scored 53. The top scorers were James",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/act-v-sa-junior-challenge.html",
+         "pubDate" : "Sun, 20 Feb 2022 11:47:00 +0000",
+         "title" : "ACT v SA - Junior Challenge"
+      },
+      {
+         "description" : "The Grandmasters Dr. Karsten Mueller and Luis Engel have set a ball rolling in Germany with their latest Fritztrainer. GM Lars Bo Hansen designed the four-player model in 2005, and was perhaps ahead of his time. In the 5-part interview with Dr. Karsten Mueller, all four player types are discussed in detail. Today - The Theorist.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/player-types-the-theorist",
+         "pubDate" : "Sun, 20 Feb 2022 12:00:00 +0100",
+         "title" : "Player Types - The Theorist"
+      },
+      {
          "description" : "Ding Liren leads with 10/12 after Day 1 of the Airthings Masters, the first event of the 2022 season of the $1.6 million Meltwater Champions Chess Tour. The players took the fighting chess message to heart, with just 9 draws in 32 games, as Magnus Carlsen suffered a first day meltdown. After a good start against Vladislav Artemiev he struggled against Nodirbek Abdusattorov before losing to both Tour debutant Andrey Esipenko and World Championship challenger Ian Nepomniachtchi. Hans Niemann, Eric Hansen and Vincent Keymer all impressed as higher-rated rivals struggled.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1882,14 +1898,6 @@ news_feed (
          "title" : "Game of the Week #501: Caruana vs Carlsen, Wijk aan Zee 2022"
       },
       {
-         "description" : "There are a couple of different pawn weaknesses in chess. Often, spotting those weaknesses is the most common technique, used by professional chess players, to gain an advantage. Svitlana helps us to identify the fragile pawns, and making the correct, smart moves, once we understand the situation on the board.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-29",
-         "pubDate" : "Wed, 02 Feb 2022 17:01:00 +0100",
-         "title" : "Svitlana's Smart Moves - Finding pawn weaknesses"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2008,14 +2016,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-rook-ending-from-southport/",
          "pubDate" : "Sun, 30 Jan 2022 14:20:37 +0000",
          "title" : "A Rook Ending from Southport"
-      },
-      {
-         "description" : " As I type this, Magnus Carlsen is enjoying another victory at the Tata Steel tournament, aided in part by a last round walkover win against Daniil Dubov. This was due to fact that Dubov had to leave the tournament early, having tested positive to Covid 3 rounds before the end. While this could be considered a bit of bad luck for Dubov, it should be noted that he also defaulted his game against Giri after being required to wear a mask due to a positive test of a close contact. In the end Carlsen finished on 9.5/13 (+6=7-0) including wins against players who finished just behind him in the standings. There had been talk of Carlsen breaking the 2900 rating mark before the event began, and if h",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/01/not-quite-finish-intended.html",
-         "pubDate" : "Sun, 30 Jan 2022 11:58:00 +0000",
-         "title" : "Not quite the finish intended"
       }
    ]
 }
