@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">The <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> kicked off yesterday with 16 of the strongest players in the world, among them the World Champion Magnus Carlsen, the 2021 Challenger Ian Nepomniachtchi, the World Rapid Champion Nodirbek Abdusattorov, and the World No.3 Ding Liren, who is leading the Tour after Day 1. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/49164468847_2171208eeb_3k-scaled.jpeg\" width=\"2560\" height=\"1688\" alt=\"\" /> <div class=\"e2-text-caption\">Ding Liren | Image courtesy of Grand Chess Tour</div> </div> The news that Ding Liren <a href=\"https://worldchess.com/news/all/ding-liren-worlds-number",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/ding-liren-missed-the-candidates-but-is-now-leading-the-champion/",
+         "pubDate" : "Sun, 20 Feb 2022 16:23:36 +0000",
+         "title" : "Ding Liren missed the Candidates but is now leading the Champions Chess Tour 2022"
+      },
+      {
+         "description" : " <p class=\"lead\">The <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> started on Saturday the 19th of February, with a new format, and 16 elite players competing for 9 titles, the crown of the overall Tour Champion, and $1.6 million! On Day 1, the World Champion Magnus Carlsen suffered 2 terrible losses, and is currently No.11 in the standings. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-02-20-at-4.40.51-PM.png\" width=\"1349\" height=\"721\" alt=\"\" /> <div class=\"e2-text-caption\">Official broadcast of the first day of the Champions Chess Tour. A moment from Carlsen vs Abdusattorov.</div> </div> Carlsen kicked off the day",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/carlsen-loses-to-esipenko-and-nepomniachtchi-on-day-1-of-the-cha/",
+         "pubDate" : "Sun, 20 Feb 2022 15:13:28 +0000",
+         "title" : "Carlsen loses to Esipenko and Nepomniachtchi on Day 1 of the Champions Chess Tour 2022"
+      },
+      {
+         "description" : " <p class=\"lead\">Magnus Carlsen, the world's highest-rated chess player and current World Champion, is at the bottom of the tournament his company has organized, and he is still the star of the show, because the main topic in chess in the last decade is not only chess theory and performance, but also who will manage to beat Carlsen. Hence Carlsen's losses generate more buzz than anything else, and those who beat him become instant chess celebrities. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6A2BBC76-C152-4368-A9A9-7942B7EFF840.jpeg\" width=\"1600\" height=\"900\" alt=\"\" /> <div class=\"e2-text-caption\">Official broadcast of the first day of the Champions Chess To",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/magnus-carlsen-is-the-star-of-his-own-show-thank-you-very-much/",
+         "pubDate" : "Sun, 20 Feb 2022 14:10:15 +0000",
+         "title" : "Magnus Carlsen Is the Star of His Own Show, Thank You Very Much"
+      },
+      {
+         "description" : " Yuri Averbakh celebrated his 100th birthday the other day. Another Soviet player from the same vintage just missed celebrating his 99th birthday. Abram Khasin had a long and remarkable life. He was born in Ukraine on 15 February 1923, and died in Essen, Germany, where he had spent the last 20 years of his life, <a href=\"https://chessimprover.com/abram-khasin-1923-2022/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Abram Khasin (1923-2022)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/abram-khasin-1923-2022/\">Abram Khasin (1923-2022)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/abram-khasin-1923-2022/",
+         "pubDate" : "Sun, 20 Feb 2022 14:04:22 +0000",
+         "title" : "Abram Khasin (1923-2022)"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 67th instalment of his ChessBase show \"Understanding before Moving\", Herman reveals why it is important to play against strong opponents to improve and shows how important it is to keep a flexible mindset. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-67-changing-sides",
+         "pubDate" : "Sun, 20 Feb 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 67: Changing sides"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89706014.cms\" />The Airthings Masters kicked off the new 2022 Meltwater Champions Chess Tour season with a day of drama that saw Magnus Carlsen suffer a nightmare start to the defence of his crown on Saturday. Magnus began the $1.6 million Tour with a regulation clean win over last year's breakout star Vladislav Artemiev in Round 1. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/airthings-masters-chinas-ling-diren-leads-after-day-1/articleshow/89706014.cms",
+         "pubDate" : "Sun, 20 Feb 2022 19:18:34 +0530",
+         "title" : "Airthings Masters: China's Ling Diren leads after Day 1"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1587",
+         "pubDate" : "Sun, 20 Feb 2022 13:46:52 +0000",
+         "title" : "Carlsen suffers nightmare start as curtain raises on 2022 Tour"
+      },
+      {
          "description" : " The ACT and South Australia played a junior challenge tournament today, over 18(+2) boards. Using the Tornelo platform, and zoom supervision, the event was over 6 rounds, with a time limit of 15m+5s. It was played as a team swiss, which is like a normal swiss except players from the same team do not play each other. As the ACT had 18 players, and SA ended up with 20, a separate 2 player team (SA2) was required. Having played under this format a few times, the ACT team shot out to quite a large lead. However, once the South Australian players got used to the format, the margin narrowed over the last two rounds. In the end the ACT scored 59 points, and SA scored 53. The top scorers were James",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1002,14 +1058,6 @@ news_feed (
          "title" : "Player Types - The Pragmatic"
       },
       {
-         "description" : " The semifinals began punctually with the ceremonial first move by German cabaret artist Matthias Deutschmann on board one. After the customary greetings, Nakamura indicated his intention of opening the game with 1.d4 and Deutschmann firmly moved the d-pawn two steps forward. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220212150054_IMG_1948-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> The rules and regulations of the 2022 FIDE Grand Prix determine a 24.000-euro prize for the winner while the runner-up receives 18.000 euros. Both semifinalists receive a check for 12.000 euros. In addition to the prize money, the winner of the Berlin leg gets 13 Grand P",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/aronian-and-nakamura-pull-ahead/",
-         "pubDate" : "Sun, 13 Feb 2022 09:24:04 +0000",
-         "title" : "Aronian and Nakamura pull ahead"
-      },
-      {
          "description" : "Levon Aronian and Hikaru Nakamura won their first semifinal games at the FIDE Grand Prix in Berlin. Both players won with the white pieces and only need a draw on Sunday to reach the final of the GP series' first leg. They are facing two players who already came from behind, though, as both Leinier Dominguez and Richard Rapport reached the semis after getting wins on demand in the group stage's final round. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1042,28 +1090,12 @@ news_feed (
          "title" : "FIDE Grand Prix: Aronian and Nakamura pull ahead"
       },
       {
-         "description" : " <p class=\"lead\">Game 1 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> semifinals ended with Aronian beating Dominguez after an \"inhuman\" game, while Nakamura won Rapport with a steady and tactical play. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-6.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220212150054_IMG_1948.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220212161433_IMG_2012.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/aronian-and-nakamura-both-win-in-game-1-of-the-fide-grand-prix-2/",
-         "pubDate" : "Sat, 12 Feb 2022 19:21:39 +0000",
-         "title" : "Aronian and Nakamura win Game 1 of the FIDE Grand Prix 2022 Semifinals"
-      },
-      {
          "description" : " Hello everyone! The Chess Drum's 21st year represents the official coming of age. Last year there was a 20-year reflection highlighting critical events in each year. It was a lot of work, but it was well worth the time and effort. When you embark upon a project, you never know where it will lead. It [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/12/the-chess-drum-is-21-years-old/\">The Chess Drum is 21 years old!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/12/the-chess-drum-is-21-years-old/",
          "pubDate" : "Sat, 12 Feb 2022 17:19:06 +0000",
          "title" : "The Chess Drum is 21 years old!"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/PtuGpLVK-t0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-semi-final-game-1-broadcast/",
-         "pubDate" : "Sat, 12 Feb 2022 13:30:00 +0000",
-         "title" : "FIDE Grand Prix Semi-final Game 1 Broadcast"
       },
       {
          "description" : "The Airthings Masters, the first event on the $1.6 million 2022 Meltwater Champions Chess Tour, kicks off one week today on Saturday 19th February at 18:00 CET. The pairings are out for the 4-day Prelims, with World Chess Champion Magnus Carlsen starting with games against four of his biggest current and future rivals, Vladislav Artemiev, Nodirbek Abdusattorov, Andrey Esipenko and Ian Nepomniachtchi.",
@@ -1890,14 +1922,6 @@ news_feed (
          "title" : "Tykhon Cherniaiev - Professional Streamer, Minecrafter, and Chess Prodigy"
       },
       {
-         "description" : "In his \"Game of the Week\" show #501 Merijn van Delft takes a look at the final rounds of the Tata Steel tournament in Wijk aan Zee, and focuses on Magnus Carlsen's fine and crucial win with Black against Fabiano Caruana. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-501-caruana-vs-carlsen-wijk-aan-zee-2022",
-         "pubDate" : "Wed, 02 Feb 2022 18:30:00 +0100",
-         "title" : "Game of the Week #501: Caruana vs Carlsen, Wijk aan Zee 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2008,14 +2032,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/wins-for-karjakin-van-foreest-and-praggnanandhaa-on-the-final-day-of-the-tata-steel-masters",
          "pubDate" : "Sun, 30 Jan 2022 20:47:00 +0400",
          "title" : "Wins for Karjakin, Van Foreest and Praggnanandhaa on the final day of the Tata Steel Masters - 13"
-      },
-      {
-         "description" : " Southport. A place Nigel knows well, I believe. I went there myself once, probably in the late 1960s, when visiting relations in nearby Ormskirk. But if I'd visited in 1905 I'd have witnessed the 2nd British Chess Championships, where the great Henry Ernest Atkins ran out a comfortable winner of the top section. Here's a <a href=\"https://chessimprover.com/a-rook-ending-from-southport/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Rook Ending from Southport\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-rook-ending-from-southport/\">A Rook Ending from Southport</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Ches",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-rook-ending-from-southport/",
-         "pubDate" : "Sun, 30 Jan 2022 14:20:37 +0000",
-         "title" : "A Rook Ending from Southport"
       }
    ]
 }
