@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser showcases sharp lines in the Portuguese Gambit! This video will summon Brazilians. Ol&aacute; Brasil! Diga ol&aacute; nos coment&aacute;rios :) Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/ArcG3\">https://www.youtube.com/c/ArcG3</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/what-portuguese-gambit",
+         "pubDate" : "Sat, 19 Feb 2022 20:38:46 +0000",
+         "title" : "What is the Portuguese Gambit?"
+      },
+      {
          "description" : " Share!Dr. James McCune Smith is a man we don't hear of during Black History Month. This multitalented and multifaceted man was known more in the areas of literary scholarship, medicine, and social activism than in chess. If you knew this man, chances are that you are a 19th-century American history buff. Sometimes a single article, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/19/black-history-month-2022-day-19-james-mccune-smith/\">Black History Month 2022-Day 19: James McCune Smith</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -23,7 +31,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
          "pubDate" : "Sat, 19 Feb 2022 17:55:00 +0100",
-         "title" : "Airthings Masters - Live!"
+         "title" : "Airthings Masters - Games and results"
       },
       {
          "description" : "",
@@ -584,14 +592,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-corporate-chess-league-virtual-spring-1",
          "pubDate" : "Tue, 15 Feb 2022 20:33:25 +0000",
          "title" : "2022 Saint Louis Corporate Chess League: Virtual Spring #1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani takes on the French Defense, using Parimarjan Negi&#039;s book &quot;1.e4 vs The French, Caro-Kann and Philidor.&quot; BUY THE BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> 2022.02.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1e4-vs-french-che",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/1e4-vs-french-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Tue, 15 Feb 2022 20:33:25 +0000",
-         "title" : "1.e4 vs The French | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : " In 2003, Maurice Ashley and Stephen Muhammad joined the roster of participants of the prestigious U.S. Chess Championship, the hallmark of American tournaments. It is a chance for glory and to be included in the annals of history along with the list of luminaries whose plaques now adorn the World Chess Hall-of-Fame museum in St. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/15/black-history-month-2022-day-15-ashley-muhammad/\">Black History Month 2022-Day 15: Ashley &#038; Muhammad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -2016,14 +2016,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/01/not-quite-finish-intended.html",
          "pubDate" : "Sun, 30 Jan 2022 11:58:00 +0000",
          "title" : "Not quite the finish intended"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1550",
-         "pubDate" : "Sat, 29 Jan 2022 23:17:18 +0000",
-         "title" : "Carlsen wins Tata Steel Masters 2022 with a round to spare"
       }
    ]
 }
