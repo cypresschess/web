@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ding Liren had the best start at the Airthings Masters online tournament. The Chinese scored 10/12 points after winning three games and drawing one on the first day of action. Ian Nepomniachtchi and Andrey Esipenko are placed second and third, while Magnus Carlsen is currently eleventh after losing in rounds 3 and 4, against Esipenko and Nepomniachtchi respectively. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d1",
+         "pubDate" : "Sun, 20 Feb 2022 04:35:00 +0100",
+         "title" : "Airthings Masters: Ding leads, Carlsen struggles"
+      },
+      {
+         "description" : "The Airthings Masters, the first leg of the 2022 Meltwater Champions Chess Tour, began on February 19. GM Ding Liren leads after the first day with a score of 10/12, a point ahead of GM Ian Nepomniachtchi, on 9/12, and two points ahead of third-pl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-airthings-masters-day-1-ding-leads",
+         "pubDate" : "Sat, 19 Feb 2022 17:37:25 -0800",
+         "title" : "Airthings Masters Day 1: Ding Leads, Carlsen Falters"
+      },
+      {
+         "description" : "The organizers of the Tata Steel Tournament in Wijk aan Zee are known for inviting promising talents. Praggnanandhaa Rameshbabu made his debut in the Masters this year. Thorsten Cmiel analyses Pragg's games and shares some reflexions about the youngster's performance. | Photos: Lennart Ootes, Jurriaan Hoefsmit - Tata Steel Chess Tournament 2022",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/praggnanandhaa-in-wijk-aan-zee-analyses-and-reflections",
+         "pubDate" : "Sat, 19 Feb 2022 23:20:00 +0100",
+         "title" : "Praggnanandhaa in Wijk aan Zee: Analyses and reflections"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Harrison Keyser showcases sharp lines in the Portuguese Gambit! This video will summon Brazilians. Ol&aacute; Brasil! Diga ol&aacute; nos coment&aacute;rios :) Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/ArcG3\">https://www.youtube.com/c/ArcG3</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://aicf.in/fide-arbiter-seminar-11-13-march-2022-shift-of-venue/",
          "pubDate" : "Sat, 19 Feb 2022 17:17:35 +0000",
          "title" : "Fide Arbiter Seminar (11-13 March 2022) Shift of Venue"
-      },
-      {
-         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
-         "pubDate" : "Sat, 19 Feb 2022 17:55:00 +0100",
-         "title" : "Airthings Masters - Games and results"
       },
       {
          "description" : "",
@@ -1626,14 +1642,6 @@ news_feed (
          "title" : "A Disreputable Opening Repertoire"
       },
       {
-         "description" : "The second round of the the 2022 FIDE Grand Prix produced fierce battles in all the games except from Group C. GM Hikaru Nakamura, GM Radoslaw Wojtaszek, GM Levon Aronian, and GM Leinier Dominguez emerged as sole leaders in their respective groups...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r2-nakamura-wojtaszek-aronian-dominguez-lead",
-         "pubDate" : "Sat, 05 Feb 2022 15:28:00 -0800",
-         "title" : "2022 FIDE Grand Prix Berlin R2: Nakamura, Wojtaszek, Aronian, Dominguez Group Sole Leaders"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1880,14 +1888,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-29",
          "pubDate" : "Wed, 02 Feb 2022 17:01:00 +0100",
          "title" : "Svitlana's Smart Moves - Finding pawn weaknesses"
-      },
-      {
-         "description" : "Last Friday, 28 January, the French Grandmaster Gilles Mirallès passed away at the age of 55 in Ferney-Voltaire. Mirallès was French junior champion, two-time national champion and often played for France in team events. For a time he ran a chess school in Geneva. | Photo: Chess School Geneva",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/french-grandmaster-gilles-miralles-dies-at-the-age-of-55",
-         "pubDate" : "Wed, 02 Feb 2022 15:08:26 +0100",
-         "title" : "French Grandmaster Gilles Mirallès dies at the age of 55"
       },
       {
          "description" : "",
