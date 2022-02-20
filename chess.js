@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ding Liren leads with 10/12 after Day 1 of the Airthings Masters, the first event of the 2022 season of the $1.6 million Meltwater Champions Chess Tour. The players took the fighting chess message to heart, with just 9 draws in 32 games, as Magnus Carlsen suffered a first day meltdown. After a good start against Vladislav Artemiev he struggled against Nodirbek Abdusattorov before losing to both Tour debutant Andrey Esipenko and World Championship challenger Ian Nepomniachtchi. Hans Niemann, Eric Hansen and Vincent Keymer all impressed as higher-rated rivals struggled.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/airthings-masters-1-ding-leads-as-carlsen-collapses",
+         "pubDate" : "Sun, 20 Feb 2022 08:41:25 +0000",
+         "title" : "Airthings Masters 1: Ding leads as Carlsen collapses"
+      },
+      {
          "description" : "Ding Liren had the best start at the Airthings Masters online tournament. The Chinese scored 10/12 points after winning three games and drawing one on the first day of action. Ian Nepomniachtchi and Andrey Esipenko are placed second and third, while Magnus Carlsen is currently eleventh after losing in rounds 3 and 4, against Esipenko and Nepomniachtchi respectively. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-airthings-masters-day-1-ding-leads",
-         "pubDate" : "Sat, 19 Feb 2022 17:37:25 -0800",
+         "pubDate" : "Sat, 19 Feb 2022 17:37:00 -0800",
          "title" : "Airthings Masters Day 1: Ding Leads, Carlsen Falters"
       },
       {
@@ -34,7 +42,7 @@ news_feed (
          "title" : "What is the Portuguese Gambit?"
       },
       {
-         "description" : " Share!Dr. James McCune Smith is a man we don't hear of during Black History Month. This multitalented and multifaceted man was known more in the areas of literary scholarship, medicine, and social activism than in chess. If you knew this man, chances are that you are a 19th-century American history buff. Sometimes a single article, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/19/black-history-month-2022-day-19-james-mccune-smith/\">Black History Month 2022-Day 19: James McCune Smith</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!50Dr. James McCune Smith is a man we don't hear of during Black History Month. This multitalented and multifaceted man was known more in the areas of literary scholarship, medicine, and social activism than in chess. If you knew this man, chances are that you are a 19th-century American history buff. Sometimes a single article, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/19/black-history-month-2022-day-19-james-mccune-smith/\">Black History Month 2022-Day 19: James McCune Smith</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/19/black-history-month-2022-day-19-james-mccune-smith/",
@@ -1584,14 +1592,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r3-so-joins-leaders",
          "pubDate" : "Sun, 06 Feb 2022 16:27:00 -0800",
          "title" : "2022 FIDE Grand Prix Berlin R3: Wesley So Joins Other Leaders"
-      },
-      {
-         "description" : "Magnus Carlsen suffered a hiccup on his hunt for the 2900 target in the Norwegian League this weekend when he had to settle for a draw against 399 points lower rated IM Geir Sune Tallaksen Østmoe. In Carlsen's absence on Sunday it got worse for his club Offerspill, as they suffered a sensational 5-1 loss against lowly-rated Nordstrand",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-suffers-hiccup-on-hunt-towards-2900",
-         "pubDate" : "Sun, 06 Feb 2022 21:43:51 +0000",
-         "title" : "Carlsen suffers hiccup on hunt towards 2900"
       },
       {
          "description" : "A talk with his son Lawrence got Jon Speelman thinking about how many Monty Python sketches he could link to specific chess themes. He thus came up with 'dirty forks', 'dead parrots', 'four Yorkshiremen' and 'the Ministry of silly walks'. Enjoy!",
