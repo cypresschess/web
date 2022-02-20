@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share!In this Black History Month, we honor our Afro-Latino chess kindred as part of our shared history. The Chess Drum has spent 21 years covering chess around the globe and while the site has presented coverage of major international events, it has focused its energy on the African Diaspora. One of the segments that the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/20/black-history-month-2022-day-20-afro-latino-chess/\">Black History Month 2022-Day 20: Afro-Latino Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/20/black-history-month-2022-day-20-afro-latino-chess/",
+         "pubDate" : "Sun, 20 Feb 2022 20:13:35 +0000",
+         "title" : "Black History Month 2022-Day 20: Afro-Latino Chess"
+      },
+      {
+         "description" : "The $1.4 million 2022 Grand Chess Tour will be without crowd-pleasers Magnus Carlsen and Hikaru Nakamura as full-tour participants, but world no. 2 Alireza Firouzja makes his debut as part of the main field in a tour that will consist of two classical events and three rapid and blitz tournaments over just five months.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-nakamura-missing-in-2022-grand-chess-tour-field",
+         "pubDate" : "Sun, 20 Feb 2022 18:40:50 +0000",
+         "title" : "Carlsen & Nakamura missing in 2022 Grand Chess Tour field"
+      },
+      {
+         "description" : "Star columnist Jon Speelman continues to link chess positions with Monty Python sketches. Readers pitched in with further suggestions, and in particular one noted the unexpected absence of the expectedly 'Unexpected Spanish Inquisition'!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-164",
+         "pubDate" : "Sun, 20 Feb 2022 18:25:00 +0100",
+         "title" : "Christmas knights"
+      },
+      {
+         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
+         "pubDate" : "Sun, 20 Feb 2022 17:45:00 +0100",
+         "title" : "Airthings Masters - Live!"
+      },
+      {
          "description" : " <p class=\"lead\">The <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> kicked off yesterday with 16 of the strongest players in the world, among them the World Champion Magnus Carlsen, the 2021 Challenger Ian Nepomniachtchi, the World Rapid Champion Nodirbek Abdusattorov, and the World No.3 Ding Liren, who is leading the Tour after Day 1. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/49164468847_2171208eeb_3k-scaled.jpeg\" width=\"2560\" height=\"1688\" alt=\"\" /> <div class=\"e2-text-caption\">Ding Liren | Image courtesy of Grand Chess Tour</div> </div> The news that Ding Liren <a href=\"https://worldchess.com/news/all/ding-liren-worlds-number",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -114,7 +146,7 @@ news_feed (
          "title" : "What is the Portuguese Gambit?"
       },
       {
-         "description" : " Share!50Dr. James McCune Smith is a man we don't hear of during Black History Month. This multitalented and multifaceted man was known more in the areas of literary scholarship, medicine, and social activism than in chess. If you knew this man, chances are that you are a 19th-century American history buff. Sometimes a single article, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/19/black-history-month-2022-day-19-james-mccune-smith/\">Black History Month 2022-Day 19: James McCune Smith</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Dr. James McCune Smith is a man we don't hear of during Black History Month. This multitalented and multifaceted man was known more in the areas of literary scholarship, medicine, and social activism than in chess. If you knew this man, chances are that you are a 19th-century American history buff. Sometimes a single article, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/19/black-history-month-2022-day-19-james-mccune-smith/\">Black History Month 2022-Day 19: James McCune Smith</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/19/black-history-month-2022-day-19-james-mccune-smith/",
@@ -1090,14 +1122,6 @@ news_feed (
          "title" : "FIDE Grand Prix: Aronian and Nakamura pull ahead"
       },
       {
-         "description" : " Hello everyone! The Chess Drum's 21st year represents the official coming of age. Last year there was a 20-year reflection highlighting critical events in each year. It was a lot of work, but it was well worth the time and effort. When you embark upon a project, you never know where it will lead. It [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/12/the-chess-drum-is-21-years-old/\">The Chess Drum is 21 years old!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/12/the-chess-drum-is-21-years-old/",
-         "pubDate" : "Sat, 12 Feb 2022 17:19:06 +0000",
-         "title" : "The Chess Drum is 21 years old!"
-      },
-      {
          "description" : "The Airthings Masters, the first event on the $1.6 million 2022 Meltwater Champions Chess Tour, kicks off one week today on Saturday 19th February at 18:00 CET. The pairings are out for the 4-day Prelims, with World Chess Champion Magnus Carlsen starting with games against four of his biggest current and future rivals, Vladislav Artemiev, Nodirbek Abdusattorov, Andrey Esipenko and Ian Nepomniachtchi.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1610,14 +1634,6 @@ news_feed (
          "title" : "Battle of the Sexes: Men triumph!"
       },
       {
-         "description" : "Wesley So beating Alexei Shirov to catch Leinier Dominguez in the Pool D lead was the one change among the leaders after Round 3 of the Berlin FIDE Grand Prix. Levon Aronian pulled a full point clear in Pool C after winning a model positional game against Vincent Keymer while Daniil Dubov lost to Vidit. Andrei Esipenko bounced back to beat Etienne Bacrot and get within a point of Hikaru Nakamura, who drew a thriller against Alexander Grischuk, with Oparin-Rapport and Fedoseev-Wojtaszek also edge-of-your-seat draws.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-3-so-takes-lead-as-aronian-pulls-clear",
-         "pubDate" : "Mon, 07 Feb 2022 10:09:16 +0000",
-         "title" : "Berlin Grand Prix 3: So takes lead as Aronian pulls clear"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1906,22 +1922,6 @@ news_feed (
          "title" : "Battle of the Sexes: Final round - Live"
       },
       {
-         "description" : "Round nine of the #GibChess Battle of Sexes, held at Gibraltar's Garrison Library saw a turnaround in fortunes as the women's team ran out 6-4 winners on the day. This still leaves them three points behind the men's team going into the final round (in which they will have the black pieces) requiring a 6&frac12;-3&frac12; score to force a tie-break or a 7-3 score to win the match outright. Report and photos by John Saunders.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-women-within-striking-distance",
-         "pubDate" : "Thu, 03 Feb 2022 10:11:29 +0100",
-         "title" : "Battle of the Sexes: Women within striking distance"
-      },
-      {
-         "description" : "The 11-year-old Candidate Master from the Ukraine is streaming regularly on Twitch.tv and YouTube. But his passion for chess and streaming started even earlier. In our interview, Tykhon tells us how he learned to play chess, what Minecraft has to do with his English-speaking skills, and why he always seems to be in a good mood. Furthermore, we take a look at one of his favourite games, including nice, insightful analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tykhon-cherniaiev-professional-streamer-minecrafter-and-chess-prodigy",
-         "pubDate" : "Wed, 02 Feb 2022 19:08:51 +0100",
-         "title" : "Tykhon Cherniaiev - Professional Streamer, Minecrafter, and Chess Prodigy"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2016,22 +2016,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1551",
          "pubDate" : "Sun, 30 Jan 2022 21:13:41 +0000",
          "title" : "Winners crowned in Wijk aan Zee"
-      },
-      {
-         "description" : "When Boris Spassky, World Champion from 1969 to 1972, had to play the Sicilian with the white pieces, he seemed to get particularly inspired. Today, the living legend from Leningrad turns 85, and to celebrate him we share a selection of brilliant games he played with 1.e4 c5 during his illustrious career. | Photo: Gerhard Hund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/spassky-plays-the-sicilian",
-         "pubDate" : "Sun, 30 Jan 2022 19:30:00 +0100",
-         "title" : "A selection of brilliancies: Spassky faces the Sicilian"
-      },
-      {
-         "description" : " With Magnus Carlsen having wrapped up first place in the Tata Steel Masters and out of action because his opponent Daniil Dubov had tested positive for Covid-19 it looked like there might not be much of interest on the final day. Quick draws in the games Richard Rapport vs Anish Giri very quickly followed by Shakhriyar Mamedyarov against Fabiano Caruana meant that intrigue over the top four was over too. The remaining four games however were all full of interest and white won three and there was a wild draw in the fourth. Sergey Karjakin said he was extremely upset about his loss to Sam Shankland in Round 12 and implied he might easily have taken a quick draw under the right circumstances. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/84th-tata-steel-chess-tournament-2022/wins-for-karjakin-van-foreest-and-praggnanandhaa-on-the-final-day-of-the-tata-steel-masters",
-         "pubDate" : "Sun, 30 Jan 2022 20:47:00 +0400",
-         "title" : "Wins for Karjakin, Van Foreest and Praggnanandhaa on the final day of the Tata Steel Masters - 13"
       }
    ]
 }
