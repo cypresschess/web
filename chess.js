@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECF's former Membership Secretary Christine Adams, who retired a while ago, has agreed to help out on Mondays with email and telephone enquiries concerning...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/membership-mondays/",
+         "pubDate" : "Mon, 21 Feb 2022 15:52:00 +0000",
+         "title" : "Membership Mondays"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89729766.cms\" />Teenaged Indian Grandmaster R Praggnanandhaa stunned world no. 1 Magnus Carlsen in the eighth round of the Airthings Masters online rapid chess tournament, becoming only the third from the country to clinch a victory over the Norwegian superstar.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-was-just-enjoying-myself-says-teen-gm-praggnanandhaa-after-stunning-world-no-1-carlsen-in-airthings-masters/articleshow/89729766.cms",
+         "pubDate" : "Mon, 21 Feb 2022 19:48:21 +0530",
+         "title" : "I was just enjoying myself, says Praggnanandhaa after stunning Carlsen"
+      },
+      {
+         "description" : "Ian Nepomniachtchi is almost certain to reach the knockout stage at the Airthings Masters, as he grabbed a 4-point lead after a strong performance on the second day of the preliminaries. Sharing second place are Ding Liren and Eric Hansen, while Magnus Carlsen stands two points behind the chasers after losing his round-8 game against 16-year-old Praggnanandhaa. | Photo: Maria Emelianova / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d2",
+         "pubDate" : "Mon, 21 Feb 2022 14:00:00 +0100",
+         "title" : "Airthings Masters: Nepo grabs the lead"
+      },
+      {
          "description" : " <p class=\"lead\">Day 2 of the <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> was not only eventful but also exciting, with Carlsen manifesting his great comeback until he lost against the 16-year-old Indian chess prodigy, Rameshbabu Praggnanandhaa. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/30767870714_698a39058c_c.jpg\" width=\"799\" height=\"532\" alt=\"\" /> <div class=\"e2-text-caption\">London_Chess_Classic_2016_Day3-9 | <a href=\"https://www.flickr.com/photos/144873154@N02/30767870714/\">Wolfgang Jekel</a></div> </div> After a <a href=\"https://worldchess.com/news/all/carlsen-loses-to-esipenko-and-nepomniachtchi-on-day-1-of-the-cha/\">d",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -18,20 +42,28 @@ news_feed (
          "title" : "An interview with Carissa Yip"
       },
       {
-         "description" : "We are a research group at the University of Edinburgh conducting a study on chess knowledge and memory in children. If you have a child...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/university-of-edinburgh-chess-study-attn-parents/",
-         "pubDate" : "Mon, 21 Feb 2022 10:51:35 +0000",
-         "title" : "University of Edinburgh chess study - attn. parents"
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Champions Chess Tour</strong> announced that <strong>Puma SE</strong>, the third biggest sportswear brand, <a href=\"https://chess24.com/en/read/news/puma-partners-with-magnus-carlsen-and-champions-chess-tour\">signed a multi-year partnership</a>. PUMA CEO <strong>Bj&ouml;rn Gulden</strong> is a former football professional from Norway. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/puma-partners-with-champions-tour/",
+         "pubDate" : "Mon, 21 Feb 2022 12:34:28 +0100",
+         "title" : "Puma partners with Champions Tour"
       },
       {
          "description" : "The 16-year-old beat Carlsen at the Airthings Masters, a 16-player online rapid tournament.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/33340336/r-praggnanandhaa-16-becomes-only-third-indian-beat-magnus-carlsen-stunning-upset?device=featurephone",
-         "pubDate" : "Mon, 21 Feb 2022 05:28:37 -0500",
+         "pubDate" : "Mon, 21 Feb 2022 06:23:03 -0500",
          "title" : "Praggnanandhaa, 16, becomes only third Indian to beat Carlsen in stunning upset"
+      },
+      {
+         "description" : "We are a research group at the University of Edinburgh conducting a study on chess knowledge and memory in children. If you have a child...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/university-of-edinburgh-chess-study-attn-parents/",
+         "pubDate" : "Mon, 21 Feb 2022 10:51:35 +0000",
+         "title" : "University of Edinburgh chess study - attn. parents"
       },
       {
          "description" : "Ian Nepomniachtchi played the King's Gambit as three wins and a draw took him four points clear at the top of the Airthings Masters table. World Champion Magnus Carlsen is back on track to qualify for the knockout, but three smooth wins were followed by a shock defeat to 16-year-old Indian prodigy Praggnanandhaa, who also took down Levon Aronian. 17-year-old Vincent Keymer beat Anish Giri and Nodirbek Abdusattorov, but Eric Hansen stole the day by beating Jan-Krzysztof Duda and Shakhriyar Mamedyarov to tie Ding for 2nd place.",
@@ -144,14 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-week-2-caruana-wins",
          "pubDate" : "Sun, 20 Feb 2022 09:06:00 -0800",
          "title" : "Rapid Chess Championship Week 2: Caruana Wins"
-      },
-      {
-         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
-         "pubDate" : "Sun, 20 Feb 2022 17:45:00 +0100",
-         "title" : "Airthings Masters - Games and results"
       },
       {
          "description" : " <p class=\"lead\">The <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> kicked off yesterday with 16 of the strongest players in the world, among them the World Champion Magnus Carlsen, the 2021 Challenger Ian Nepomniachtchi, the World Rapid Champion Nodirbek Abdusattorov, and the World No.3 Ding Liren, who is leading the Tour after Day 1. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/49164468847_2171208eeb_3k-scaled.jpeg\" width=\"2560\" height=\"1688\" alt=\"\" /> <div class=\"e2-text-caption\">Ding Liren | Image courtesy of Grand Chess Tour</div> </div> The news that Ding Liren <a href=\"https://worldchess.com/news/all/ding-liren-worlds-number",
@@ -624,14 +648,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/neither-carlsen-nor-ding-at-grand/",
          "pubDate" : "Wed, 16 Feb 2022 22:52:53 +0100",
          "title" : "Neither Carlsen nor Ding at Grand Chess Tour"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Jack Li</strong>, a digital game designer, <a href=\"https://jackli.gg/chessle/\">launched</a> <strong>Chessle</strong> where you guess opening sequences in the same way as in the popular <strong>Wordle</strong> game that has been bought by the New York Times. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/a-wordle-for-chess/",
-         "pubDate" : "Wed, 16 Feb 2022 22:22:10 +0100",
-         "title" : "A Wordle for chess"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows the value of analyzing and learning from your own losses. The mysterious masked Caleb shows the only game he lost from the 2022 Master Lab tournament in Saint Louis. 2022.02.15<br /> Julian Proleiko vs. Caleb Denby, 2022: B18 Caro-Kann, classical variation<br /> Denby vs. Arjun Puri, 2022: D10 Queen&#039;s Gambit Declined Slav defence, exchange variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learn-your-worst-games-road-20",
@@ -2032,38 +2048,6 @@ news_feed (
          "link" : "https://chessimprover.com/carbon-versus-silicon/",
          "pubDate" : "Tue, 01 Feb 2022 08:42:50 +0000",
          "title" : "Carbon versus Silicon"
-      },
-      {
-         "description" : "The Mind Sports Olympiad are excited to share with you our plans for two major competitions in 2022. For the first time ever we are...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/mind-sports-olympiad-2022/",
-         "pubDate" : "Mon, 31 Jan 2022 15:06:51 +0000",
-         "title" : "Mind Sports Olympiad 2022"
-      },
-      {
-         "description" : "The John Robinson Youth Chess Trust is funding bursaries (free entry) to the 3rd EJCOA Invitational, which takes place on 23-27 February at The Chess...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/junior-bursaries-3rd-ejcoa-invitational-youth-training-tournament/",
-         "pubDate" : "Mon, 31 Jan 2022 14:28:36 +0000",
-         "title" : "Junior bursaries - 3rd EJCOA Invitational Youth Training Tournament"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89251671.cms\" />Arjun Erigaisi didn't put a foot wrong during his triumphant run at the Tata Steel Chess Challengers which concluded at the Wijk Aan Zee on Sunday. The 18-year-old from Warangal made everyone take notice when he bagged the Tata Steel Rapid in Kolkata in November last year. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-definitely-one-of-our-biggest-hopes-anand/articleshow/89251671.cms",
-         "pubDate" : "Mon, 31 Jan 2022 19:28:37 +0530",
-         "title" : "Arjun definitely one of our biggest hopes: Anand"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1553",
-         "pubDate" : "Mon, 31 Jan 2022 12:39:18 +0000",
-         "title" : "Workshop: Increase your inner strength"
       }
    ]
 }
