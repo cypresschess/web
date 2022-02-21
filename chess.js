@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Day 2 of the <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> was not only eventful but also exciting, with Carlsen manifesting his great comeback until he lost against the 16-year-old Indian chess prodigy, Rameshbabu Praggnanandhaa. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/30767870714_698a39058c_c.jpg\" width=\"799\" height=\"532\" alt=\"\" /> <div class=\"e2-text-caption\">London_Chess_Classic_2016_Day3-9 | <a href=\"https://www.flickr.com/photos/144873154@N02/30767870714/\">Wolfgang Jekel</a></div> </div> After a <a href=\"https://worldchess.com/news/all/carlsen-loses-to-esipenko-and-nepomniachtchi-on-day-1-of-the-cha/\">d",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/champions-chess-tour-2022-day-2-pragg-is-the-youngest-player-to/",
+         "pubDate" : "Mon, 21 Feb 2022 12:14:36 +0000",
+         "title" : "Champions Chess Tour 2022 Day 2: Pragg is the youngest player to ever beat Carlsen"
+      },
+      {
+         "description" : "In an exclusive interview with Tatiana Flores, Carissa Yip talks about her chess career, her studies, some of her most important games, memorable chess moments, and shares her chess schedule for this year! | Photo: Austin Fuller (Saint Louis Chess Club)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/an-interview-with-carissa-yip",
+         "pubDate" : "Mon, 21 Feb 2022 12:47:49 +0100",
+         "title" : "An interview with Carissa Yip"
+      },
+      {
+         "description" : "We are a research group at the University of Edinburgh conducting a study on chess knowledge and memory in children. If you have a child...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/university-of-edinburgh-chess-study-attn-parents/",
+         "pubDate" : "Mon, 21 Feb 2022 10:51:35 +0000",
+         "title" : "University of Edinburgh chess study - attn. parents"
+      },
+      {
+         "description" : "The 16-year-old beat Carlsen at the Airthings Masters, a 16-player online rapid tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33340336/r-praggnanandhaa-16-becomes-only-third-indian-beat-magnus-carlsen-stunning-upset?device=featurephone",
+         "pubDate" : "Mon, 21 Feb 2022 05:28:37 -0500",
+         "title" : "Praggnanandhaa, 16, becomes only third Indian to beat Carlsen in stunning upset"
+      },
+      {
+         "description" : "Ian Nepomniachtchi played the King's Gambit as three wins and a draw took him four points clear at the top of the Airthings Masters table. World Champion Magnus Carlsen is back on track to qualify for the knockout, but three smooth wins were followed by a shock defeat to 16-year-old Indian prodigy Praggnanandhaa, who also took down Levon Aronian. 17-year-old Vincent Keymer beat Anish Giri and Nodirbek Abdusattorov, but Eric Hansen stole the day by beating Jan-Krzysztof Duda and Shakhriyar Mamedyarov to tie Ding for 2nd place.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/airthings-masters-2-nepo-cruises-as-pragg-ends-carlsen-comeback",
+         "pubDate" : "Mon, 21 Feb 2022 10:26:04 +0000",
+         "title" : "Airthings Masters 2: Nepo cruises as Pragg ends Carlsen comeback"
+      },
+      {
+         "description" : "A special multi-event dedicated to the Women's Chess takes place the weekend 26-27 February in Monaco. The program is supported by European Chess Union and FIDE Development fund and includes: A. Saturday 26th February : 10:00 -13:00- Atrium of the Casino de Monte-Carlo. Simultaneous Prince Albert Ier GM Pia Cramling : 16 players IM Almira Skripchenko : 16 players Follows&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-gala-26-27-february/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-gala-26-27-february/",
+         "pubDate" : "Mon, 21 Feb 2022 10:06:12 +0000",
+         "title" : "European Women's Chess Gala - 26 & 27 February"
+      },
+      {
+         "description" : "&#8212; from Alan Burke Stan was very well known by many of our long-serving members for his duties both for the Manchester Chess Federation as...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rip-stan-goodall/",
+         "pubDate" : "Mon, 21 Feb 2022 09:29:24 +0000",
+         "title" : "RIP Stan Goodall"
+      },
+      {
+         "description" : "Nigel Crucefix 1963-2022 It is with immense sadness that Trowbridge Chess Club shares the news of the sudden death of Nigel Crucefix, aged 58. Nigel...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rip-nigel-crucefix/",
+         "pubDate" : "Mon, 21 Feb 2022 09:23:28 +0000",
+         "title" : "RIP Nigel Crucefix"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89717585.cms\" />Young Indian Grandmaster R Praggnanandhaa stunned world no 1 Magnus Carlsen in the eighth round of the Airthings Masters, an online rapid chess tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-stuns-world-no-1-magnus-carlsen-in-airthings-masters-chess/articleshow/89717585.cms",
-         "pubDate" : "Mon, 21 Feb 2022 11:23:21 +0530",
+         "pubDate" : "Mon, 21 Feb 2022 14:53:02 +0530",
          "title" : "Praggnanandhaa stuns World No. 1 Carlsen in Airthings Masters"
+      },
+      {
+         "description" : "Sports company PUMA has signed a long-term agreement with Norwegian Chess Grandmaster Magnus Carlsen and with the Meltwater Champions Chess Tour. Through the partnership with Magnus and the Tour, PUMA will connect the world of chess with the world of sport performance by creating engaging content and activations for chess fans around the world.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/puma-partners-with-magnus-carlsen-and-champions-chess-tour",
+         "pubDate" : "Mon, 21 Feb 2022 09:00:01 +0000",
+         "title" : "PUMA partners with Magnus Carlsen and Champions Chess Tour"
       },
       {
          "description" : "",
@@ -18,7 +90,7 @@ news_feed (
          "title" : "Teen star topples Carlsen as Russian takes Airthings Masters lead"
       },
       {
-         "description" : "After two days and eight rounds of play at the Airthings Masters, former World Championship Challenger GM Ian Nepomniachtchi of Russia is leading the field by four points, while World Champion Magnus Carlsen is trailing him and another three playe...",
+         "description" : "After two days and eight rounds of play at the Airthings Masters, former world championship challenger GM Ian Nepomniachtchi of Russia is leading the field by four points, while World Champion Magnus Carlsen is trailing him and another three playe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-2",
@@ -42,7 +114,7 @@ news_feed (
          "title" : "Groups for Second Leg of FIDE Grand Prix 2022 announced"
       },
       {
-         "description" : " Share!In this Black History Month, we honor our Afro-Latino chess kindred as part of our shared history. The Chess Drum has spent 21 years covering chess around the globe and while the site has presented coverage of major international events, it has focused its energy on the African Diaspora. One of the segments that the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/20/black-history-month-2022-day-20-afro-latino-chess/\">Black History Month 2022-Day 20: Afro-Latino Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!100In this Black History Month, we honor our Afro-Latino chess kindred as part of our shared history. The Chess Drum has spent 21 years covering chess around the globe and while the site has presented coverage of major international events, it has focused its energy on the African Diaspora. One of the segments that the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/20/black-history-month-2022-day-20-afro-latino-chess/\">Black History Month 2022-Day 20: Afro-Latino Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/20/black-history-month-2022-day-20-afro-latino-chess/",
@@ -1106,14 +1178,6 @@ news_feed (
          "title" : "\"I would keep my team against Magnus. I wouldn't have someone like Kasparov on my team\" - Hikaru Nakamura"
       },
       {
-         "description" : " GM Levon Aronian on his dream team the US, his preference between Fischer and Petrosian, Hikaru's «retirement » and more. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/uVPnXgPb0RI?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fischer-or-petrosian-or-maybe-hikaru/",
-         "pubDate" : "Sun, 13 Feb 2022 09:49:28 +0000",
-         "title" : "Fischer or Petrosian? Or maybe Hikaru?!"
-      },
-      {
          "description" : " Yuri Averbakh, the world's oldest grandmaster, was born 100 years ago, on 8 February 1922, making him the first grandmaster to reach three figures. Averbakh was awarded the grandmaster title in 1952, and was a world championship candidate in 1953. He scored many tournament successes in the 1950s and 1960s, his solid style making him <a href=\"https://chessimprover.com/yuri-averbakh/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Yuri Averbakh\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/yuri-averbakh/\">Yuri Averbakh</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1530,14 +1594,6 @@ news_feed (
          "title" : "The Winning Academy 5: What to do with a bishop pair?"
       },
       {
-         "description" : "Wesley So crashed through against Leinier Dominguez to seize a full-point lead at the top of Pool D with just two rounds to go. Levon Aronian also leads by a point in Pool C after a draw against Vidit, while Daniil Dubov caught Vincent Keymer out in the opening to win the other game in that group. Hikaru Nakamura still leads Alexander Grischuk and Andrey Esipenko by half a point after a fiery draw against Etienne Bacrot, while Group B is the hardest to call after Vladimir Fedoseev beat Grigoriy Oparin to catch Radek Wojtaszek.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-4-wesley-so-takes-sole-lead",
-         "pubDate" : "Tue, 08 Feb 2022 11:11:47 +0000",
-         "title" : "Berlin Grand Prix 4: Wesley So takes sole lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1584,14 +1640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/yuri-averbakh-100-years",
          "pubDate" : "Mon, 07 Feb 2022 22:29:00 -0800",
          "title" : "Yuri Averbakh, The Oldest Living Grandmaster, Turns 100"
-      },
-      {
-         "description" : "Yuri Lvovich Averbakh was born 100 years ago today. As a boy, he saw Emanuel Lasker play, and he went on to witness almost the entire rise and fall of the Soviet School of Chess, winning the USSR Championship in 1954 and tying for first place with Mark Taimanov and Boris Spassky two years later. For the occasion, FM Yosha Iglesias looks back on the remarkable life of the oldest ever Grandmaster.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/yuri-averbakh-celebrates-100th-birthday",
-         "pubDate" : "Tue, 08 Feb 2022 06:00:00 +0000",
-         "title" : "Yuri Averbakh celebrates his 100th birthday"
       },
       {
          "description" : "GM Levon Aronian consolidated his position while GM Wesley So defeated GM Leinier Dominguez in a crucial game, as both opened a full point lead on 3/4 in Group C and Group D respectively at the end of the fourth round of the 2022 FIDE Grand Prix a...",
@@ -1930,14 +1978,6 @@ news_feed (
          "title" : "National Final Rankings 2021"
       },
       {
-         "description" : "Each position can be observed and dissected differently by players of varying strength. The more one knows about various aspects of the game, the more nuances one looks for. A beginner may not understand why someone would spend plenty of time thinking in a position that occurred numerous times, while a strong master will try to rummage through the previous plans and come up with something original. GM Sundararajan Kidambi shows various examples to illustrate this idea. | Photo: Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-the-footsteps-of-a-plan-sundararjan",
-         "pubDate" : "Thu, 03 Feb 2022 13:00:00 +0100",
-         "title" : "In the footsteps of a plan"
-      },
-      {
          "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. Before the 10th and final round the men (team Sabino) are three points ahead and lead by 46&frac12;-43&frac12;. But the women (team Pia) still have chances to catch up. Round 10 starts at 11:00 local time (5:00 ET, 10:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2024,14 +2064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1553",
          "pubDate" : "Mon, 31 Jan 2022 12:39:18 +0000",
          "title" : "Workshop: Increase your inner strength"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1552",
-         "pubDate" : "Mon, 31 Jan 2022 12:09:25 +0000",
-         "title" : "FIDE launches a new podcast"
       }
    ]
 }
