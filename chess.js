@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1589",
+         "pubDate" : "Sun, 20 Feb 2022 22:11:51 +0000",
+         "title" : "Teen star topples Carlsen as Russian takes Airthings Masters lead"
+      },
+      {
+         "description" : "After two days and eight rounds of play at the Airthings Masters, former World Championship Challenger GM Ian Nepomniachtchi of Russia is leading the field by four points, while World Champion Magnus Carlsen is trailing him and another three playe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-2",
+         "pubDate" : "Sun, 20 Feb 2022 13:17:00 -0800",
+         "title" : "Airthings Masters Day 2: Nepomniachtchi Takes The Lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1588",
+         "pubDate" : "Sun, 20 Feb 2022 21:13:29 +0000",
+         "title" : "Sandro Mareco wins Iberoamericano Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1578",
+         "pubDate" : "Sun, 20 Feb 2022 21:03:46 +0000",
+         "title" : "Groups for Second Leg of FIDE Grand Prix 2022 announced"
+      },
+      {
          "description" : " Share!In this Black History Month, we honor our Afro-Latino chess kindred as part of our shared history. The Chess Drum has spent 21 years covering chess around the globe and while the site has presented coverage of major international events, it has focused its energy on the African Diaspora. One of the segments that the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/20/black-history-month-2022-day-20-afro-latino-chess/\">Black History Month 2022-Day 20: Afro-Latino Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -26,12 +58,20 @@ news_feed (
          "title" : "Christmas knights"
       },
       {
+         "description" : "GM Fabiano Caruana won the knockout phase of week two of the 2022 Rapid Chess Championship tournament presented by Coinbase. GM Hikaru Nakamura finished second in the knockout&#38;mdash;after taking first in the preliminary Swiss tournament, like GM A...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-week-2-caruana-wins",
+         "pubDate" : "Sun, 20 Feb 2022 09:06:00 -0800",
+         "title" : "Rapid Chess Championship Week 2: Caruana Wins"
+      },
+      {
          "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
          "pubDate" : "Sun, 20 Feb 2022 17:45:00 +0100",
-         "title" : "Airthings Masters - Live!"
+         "title" : "Airthings Masters - Games and results"
       },
       {
          "description" : " <p class=\"lead\">The <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> kicked off yesterday with 16 of the strongest players in the world, among them the World Champion Magnus Carlsen, the 2021 Challenger Ian Nepomniachtchi, the World Rapid Champion Nodirbek Abdusattorov, and the World No.3 Ding Liren, who is leading the Tour after Day 1. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/49164468847_2171208eeb_3k-scaled.jpeg\" width=\"2560\" height=\"1688\" alt=\"\" /> <div class=\"e2-text-caption\">Ding Liren | Image courtesy of Grand Chess Tour</div> </div> The news that Ding Liren <a href=\"https://worldchess.com/news/all/ding-liren-worlds-number",
@@ -125,7 +165,7 @@ news_feed (
          "description" : "The Airthings Masters, the first leg of the 2022 Meltwater Champions Chess Tour, began on February 19. GM Ding Liren leads after the first day with a score of 10/12, a point ahead of GM Ian Nepomniachtchi, on 9/12, and two points ahead of third-pl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-airthings-masters-day-1-ding-leads",
+         "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-1",
          "pubDate" : "Sat, 19 Feb 2022 17:37:00 -0800",
          "title" : "Airthings Masters Day 1: Ding Leads, Carlsen Falters"
       },
@@ -768,14 +808,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/she-plays-to-win/",
          "pubDate" : "Tue, 15 Feb 2022 17:50:13 +0000",
          "title" : "She Plays to Win"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1578",
-         "pubDate" : "Tue, 15 Feb 2022 15:03:46 +0000",
-         "title" : "Groups for Second Leg of FIDE Grand Prix 2022 announced"
       },
       {
          "description" : "The Chess.com Players League has been wildly popular, leading to a 20% increase in games played in December 2021 alone. Leagues have also given the Chess.com community another way to track progress in its favorite game. With Leagues came an opport...",
@@ -1586,14 +1618,6 @@ news_feed (
          "title" : "Safety first"
       },
       {
-         "description" : "WARNING: This reporting includes disturbing information of a sexual nature. Letters with pages from porn magazines and used condoms have been sent to at least 15 female chess players for over a decade. This troubling news was revealed today by t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vulgar-letters-chess-meduza",
-         "pubDate" : "Mon, 07 Feb 2022 11:11:00 -0800",
-         "title" : "Vulgar Letters Were Sent To Female Chess Players For Over A Decade"
-      },
-      {
          "description" : "The well-known author and Grandmaster Mihail Marin is Karsten M&uuml;ller's guest in the Endgame Magic Show #181, and Mihail and Karsten look at highlights from the Tata Steel Tournament in Wijk aan Zee 2022. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1648,14 +1672,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r3",
          "pubDate" : "Mon, 07 Feb 2022 06:10:00 +0100",
          "title" : "Berlin GP: Aronian in full control"
-      },
-      {
-         "description" : "The third round of the 2022 FIDE Grand Prix produced fighting games on all the boards in all the groups, though the leaders remain unchanged except for Group D, where GM Wesley So joined the lead with GM Leinier Dominguez on 2/3. In Group C, GM Le...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r3-so-joins-leaders",
-         "pubDate" : "Sun, 06 Feb 2022 16:27:00 -0800",
-         "title" : "2022 FIDE Grand Prix Berlin R3: Wesley So Joins Other Leaders"
       },
       {
          "description" : "A talk with his son Lawrence got Jon Speelman thinking about how many Monty Python sketches he could link to specific chess themes. He thus came up with 'dirty forks', 'dead parrots', 'four Yorkshiremen' and 'the Ministry of silly walks'. Enjoy!",
@@ -2008,14 +2024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1552",
          "pubDate" : "Mon, 31 Jan 2022 12:09:25 +0000",
          "title" : "FIDE launches a new podcast"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1551",
-         "pubDate" : "Sun, 30 Jan 2022 21:13:41 +0000",
-         "title" : "Winners crowned in Wijk aan Zee"
       }
    ]
 }
