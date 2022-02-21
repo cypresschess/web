@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89717585.cms\" />Young Indian Grandmaster R Praggnanandhaa stunned world no 1 Magnus Carlsen in the eighth round of the Airthings Masters, an online rapid chess tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-stuns-world-no-1-magnus-carlsen-in-airthings-masters-chess/articleshow/89717585.cms",
+         "pubDate" : "Mon, 21 Feb 2022 11:23:21 +0530",
+         "title" : "Praggnanandhaa stuns World No. 1 Carlsen in Airthings Masters"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
