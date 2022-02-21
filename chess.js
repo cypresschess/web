@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
+         "pubDate" : "Mon, 21 Feb 2022 17:45:00 +0100",
+         "title" : "Airthings Masters - Live!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Meltwater Champions Chess Tour</strong> announced that <strong>Puma SE</strong>, the third biggest sportswear brand, <a href=\"https://chess24.com/en/read/news/puma-partners-with-magnus-carlsen-and-champions-chess-tour\">signed a multi-year partnership</a> with the tour and with Magnus Carlsen personally. PUMA CEO <strong>Bj&ouml;rn Gulden</strong> is a former football professional from Norway. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/puma-partners-with-champions-tour/",
+         "pubDate" : "Mon, 21 Feb 2022 17:35:55 +0100",
+         "title" : "Puma partners with Champions Tour"
+      },
+      {
          "description" : "The ECF's former Membership Secretary Christine Adams, who retired a while ago, has agreed to help out on Mondays with email and telephone enquiries concerning...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/an-interview-with-carissa-yip",
          "pubDate" : "Mon, 21 Feb 2022 12:47:49 +0100",
          "title" : "An interview with Carissa Yip"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Champions Chess Tour</strong> announced that <strong>Puma SE</strong>, the third biggest sportswear brand, <a href=\"https://chess24.com/en/read/news/puma-partners-with-magnus-carlsen-and-champions-chess-tour\">signed a multi-year partnership</a>. PUMA CEO <strong>Bj&ouml;rn Gulden</strong> is a former football professional from Norway. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/puma-partners-with-champions-tour/",
-         "pubDate" : "Mon, 21 Feb 2022 12:34:28 +0100",
-         "title" : "Puma partners with Champions Tour"
       },
       {
          "description" : "The 16-year-old beat Carlsen at the Airthings Masters, a 16-player online rapid tournament.",
@@ -1968,14 +1976,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/battle-of-the-sexes-men-triumph",
          "pubDate" : "Thu, 03 Feb 2022 17:18:51 +0100",
          "title" : "Battle of the Sexes: Men triumph!"
-      },
-      {
-         "description" : "The Candidates Tournament is scheduled to take place in Madrid later this year, and there are only two spots still up for grabs, with these two qualifiers set to be decided at the FIDE Grand Prix Series. The first leg of the series kicks off tomorrow in Berlin, only three days after FIDE announced that Ding Liren and Dmitry Andreikin will not make it to the German capital - Radoslaw Wojtaszek and Andrey Esipenko are their replacements.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-preview",
-         "pubDate" : "Thu, 03 Feb 2022 17:00:00 +0100",
-         "title" : "Fighting for the last two spots in the Candidates"
       },
       {
          "description" : " Eastlakes Gungahlin Chess Club is starting its first long time control event this Tuesday. The Ramakrishna Memorial will be a 7 round event, played with a time limit of 60m+30s Alongside this event will be informal 30 minute games, which will be suitable for new players who wish to learn the basics of tournament chess play (using clocks, recording moves etc). The full details for the club can be found at <a href=\"https://sites.google.com/site/belconnenucchessclub\">https://sites.google.com/site/belconnenucchessclub</a> (Scroll down for the Calendar) The first night at any chess club can be daunting for new players. I can remember getting towelled up early on the Woden Chess Club (in 1982), b",
