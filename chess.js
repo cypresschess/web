@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Ian Nepomniachtchi is in the lead by a massive seven-point margin, while GMs Magnus Carlsen, Vladislav Artemiev, and Vincent Keymer are top contenders for qualifying spots. How to watch? The games of the Airthings Masters preliminaries can b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-3",
+         "pubDate" : "Mon, 21 Feb 2022 15:31:50 -0800",
+         "title" : "Airthings Masters Day 3: Nepo Maintains Lead; Carlsen Leaps To Second"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1590",
+         "pubDate" : "Mon, 21 Feb 2022 22:10:04 +0000",
+         "title" : "Nepomniachtchi continues to lead; Carlsen is joint-second"
+      },
+      {
          "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -426,7 +442,7 @@ news_feed (
          "title" : "Bora Ivkov (1933-2022)"
       },
       {
-         "description" : " The Airthings Masters is the first event in the new season of the online Meltwater Champions Chess Tour. The event is hosted by Chess24 and takes place February 19th to 26th 2022. The format is mostly the same as last season with a 16 player 15 round rapid round robin preliminary stage and an 8 player knockout phase. The KO phase is slightly accelerated with only one 4 game mini-match before a blitz tie-break in the quarter and semi-finals but the final is still over two mini-matches before the tie-break. Players: Magnus Carlsen, Ding Liren, Ian Nepomniachtchi, Anish Giri, Levon Aronian, Shakhriyar Mamedyarov, Jan-Krzysztof Duda, Andrey Esipenko, Quang Liem Le, Vladislav Artemiev, Vincent K",
+         "description" : " The Airthings Masters is the first event in the new season of the online Meltwater Champions Chess Tour. The event is hosted by Chess24 and takes place February 19th to 26th 2022. The format is mostly the same as last season with a 16 player 15 round rapid round robin preliminary stage and an 8 player knockout phase. In the preliminaries there are three points for a win and one for a draw and money for each win. The KO phase is slightly accelerated with only one 4 game mini-match before a blitz tie-break in the quarter and semi-finals but the final is still over two mini-matches before the tie-break. Players: Magnus Carlsen, Ding Liren, Ian Nepomniachtchi, Anish Giri, Levon Aronian, Shakhri",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/airthings-masters-2022",
@@ -1664,14 +1680,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/yuri-averbakh-100-years",
          "pubDate" : "Mon, 07 Feb 2022 22:29:00 -0800",
          "title" : "Yuri Averbakh, The Oldest Living Grandmaster, Turns 100"
-      },
-      {
-         "description" : "GM Levon Aronian consolidated his position while GM Wesley So defeated GM Leinier Dominguez in a crucial game, as both opened a full point lead on 3/4 in Group C and Group D respectively at the end of the fourth round of the 2022 FIDE Grand Prix a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r4",
-         "pubDate" : "Mon, 07 Feb 2022 16:50:00 -0800",
-         "title" : "2022 FIDE Grand Prix Berlin R4: Aronian, So Emerge Front-runners"
       },
       {
          "description" : "",
