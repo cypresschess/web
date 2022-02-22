@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi is through to the quarterfinals of the Airthings Masters on a day when he could afford to squander two completely winning positions. Behind him, however, there's mayhem, with only three points, or one win, separating 2nd place Magnus Carlsen from 10th place Levon Aronian. Only the Top 8 qualify, with Vincent Keymer and Eric Hansen, who beat Magnus, still in that pack with three games to go. It can change fast, as Vladislav Artemiev showed on Day 3, when he won three games and climbed from 10th to 3rd.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/airthings-masters-3-nepo-through-as-magnus-mouse-slips",
+         "pubDate" : "Tue, 22 Feb 2022 12:01:46 +0000",
+         "title" : "Airthings Masters 3: Nepo through as Magnus mouse-slips"
+      },
+      {
+         "description" : "The Master Section of the 13th Annual Southwest Class Championships, February 17-21, ended in a tie for first between International Masters Christopher Yoo and Zurab Javakhadze, with 7.5 out of 9. Woman International Master Alice Lee made an International Master norm. Alexey Root reports from Fort Worth, Texas. | Photo: Courtesy of the Lee family",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/yoo-javakhadze-are-chess-winners-international-master-norm-for-lee",
+         "pubDate" : "Tue, 22 Feb 2022 13:00:00 +0100",
+         "title" : "Yoo, Javakhadze are Chess Winners, International Master Norm for Lee"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89748951.cms\" />It was a hobby acquired from his sister but R Praggnanandhaa made chess his life's calling pretty early on, picking up the nuances of the game at an age when most kids are classified as toddlers.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-sisters-hobby-shaped-young-chess-wizard-praggnanandhaas-life/articleshow/89748951.cms",
+         "pubDate" : "Tue, 22 Feb 2022 16:18:07 +0530",
+         "title" : "How sister's hobby shaped young chess wizard Praggnanandhaa's life"
+      },
+      {
          "description" : "In rook endings, rooks usually belong behind passed pawns. Of course, there are exceptions to this rule but it is still a good guideline to find good moves in rook endings. In the diagrammed position it is White to move. How can she get her rook behind a passed pawn and win the endgame?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "Victory against Magnus Carlsen one of the best till date for me: Praggnanandhaa"
       },
       {
-         "description" : " Share! Alfred Blake Carlin was larger than life figure in New Orleans chess. Carlin's large physical size matched his personality and he was a well-respected chess player and coach. He was one of the few Black masters (Senior Master) in the south and was a five-time Louisiana state champion (1981, 1983, 1990, 1991, 1996). Carlin [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/21/black-history-month-2022-day-21-alfred-blake-carlin/\">Black History Month 2022-Day 21: Alfred Blake Carlin</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!50 Alfred Blake Carlin was larger than life figure in New Orleans chess. Carlin's large physical size matched his personality and he was a well-respected chess player and coach. He was one of the few Black masters (Senior Master) in the south and was a five-time Louisiana state champion (1981, 1983, 1990, 1991, 1996). Carlin [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/21/black-history-month-2022-day-21-alfred-blake-carlin/\">Black History Month 2022-Day 21: Alfred Blake Carlin</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/21/black-history-month-2022-day-21-alfred-blake-carlin/",
@@ -63,7 +87,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
          "pubDate" : "Mon, 21 Feb 2022 17:45:00 +0100",
-         "title" : "Airthings Masters - Live!"
+         "title" : "Airthings Masters - Games and results"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Meltwater Champions Chess Tour</strong> announced that <strong>Puma SE</strong>, the third biggest sportswear brand, <a href=\"https://chess24.com/en/read/news/puma-partners-with-magnus-carlsen-and-champions-chess-tour\">signed a multi-year partnership</a> with the tour and with Magnus Carlsen personally. PUMA CEO <strong>Bj&ouml;rn Gulden</strong> is a former football professional from Norway. </div> ",
@@ -98,7 +122,7 @@ news_feed (
          "title" : "Airthings Masters: Nepo grabs the lead"
       },
       {
-         "description" : " <p class=\"lead\">Day 2 of the <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> was not only eventful but also exciting, with Carlsen manifesting his great comeback until he lost against the 16-year-old Indian chess prodigy, Rameshbabu Praggnanandhaa. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/30767870714_698a39058c_c.jpg\" width=\"799\" height=\"532\" alt=\"\" /> <div class=\"e2-text-caption\">London_Chess_Classic_2016_Day3-9 | <a href=\"https://www.flickr.com/photos/144873154@N02/30767870714/\">Wolfgang Jekel</a></div> </div> After a <a href=\"https://worldchess.com/news/all/carlsen-loses-to-esipenko-and-nepomniachtchi-on-day-1-of-the-cha/\">d",
+         "description" : " <p class=\"lead\">Day 2 of the <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> was not only eventful but also exciting, with Carlsen manifesting his great comeback until he lost against the 16-year-old Indian chess prodigy, Rameshbabu Praggnanandhaa. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/3F1A0562-BEA8-4032-9B38-C7F59D59B465.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Anastasia Korolkova/FIDE</div> </div> After a <a href=\"https://worldchess.com/news/all/carlsen-loses-to-esipenko-and-nepomniachtchi-on-day-1-of-the-cha/\">disappointing Day 1</a> for the World Champion, Day 2 looked like a fasci",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/champions-chess-tour-2022-day-2-pragg-is-the-youngest-player-to/",
@@ -1586,14 +1610,6 @@ news_feed (
          "title" : "Chess Group Training"
       },
       {
-         "description" : "Top-level chess has taken giant steps towards professionalisation in recent years with higher prizes, global TV broadcasts and major events online. For the athletes who can spend up to eight hours at the board, their chairs are now also playing an increasingly significant role.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/game-of-thrones-why-picking-the-right-chair-is-vital-in-chess-even-for-carlsen",
-         "pubDate" : "Wed, 09 Feb 2022 12:38:11 +0000",
-         "title" : "Game of Thrones: Why picking the right chair is vital in chess - even for Carlsen"
-      },
-      {
          "description" : "In his \"Weekly Show\" Lawrence Trent takes a look at the Berlin Grand Prix, focusing on the smooth positional masterpiece Aronian-Keymer from round 3. Lawrence also talks about Yuri Averbakh, who turned 100 on 8 February 2022. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1962,14 +1978,6 @@ news_feed (
          "title" : "BCET Awards 2022"
       },
       {
-         "description" : "Vasyl \"Chucky\" Ivanchuk is one of the most original of all top players, but for more than a year he has not played an official game. However, he is still enjoying chess and is now trying his hand at streaming. On his new YouTube channel \"IvanchukChess\" the former world's number two explains and analyses current games. | Photo: Lennart Ootes / World Rapid Championship 2016",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ivanchuk-starts-streaming",
-         "pubDate" : "Fri, 04 Feb 2022 09:22:45 +0100",
-         "title" : "Ivanchuk starts streaming"
-      },
-      {
          "description" : "Eighteen-year-old Arjun has won two Tata Steel events in two continents, broken into the top 100, and is hoping to catch a sponsor's eye.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -2048,30 +2056,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/2/1/ep-264-elizabeth-shaughnessy-founder-of-the-berkeley-chess-school",
          "pubDate" : "Tue, 01 Feb 2022 13:49:49 +0000",
          "title" : "EP 264- Elizabeth Shaughnessy (Founder of the Berkeley Chess School) "
-      },
-      {
-         "description" : " The 2022 ACT Lightning Championship was held this evening at the Eastlake Gungahlin Chess Club. A field of 27 players took part in the first ACT Chess Association event of the year. The 9 round event attracted a strong field, with the top 7 seeds rated above 2000, while the mid point of the field was around 1680. The event was closely contested throughout, with Harry Press emerging victorious with 7.5/9. He was closely followed by Fred Litchfield on 7, with FM Michael Kethro on 6.5. Press got off to a slow start, losing to Wenlin Yin in round 3, before winning 5 straight (including wins over Kethro and Litchfield) before a final round draw with Max Albert secured outright first. This draw e",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/2022-act-lightning-championship.html",
-         "pubDate" : "Tue, 01 Feb 2022 11:54:00 +0000",
-         "title" : "2022 ACT Lightning Championship "
-      },
-      {
-         "description" : "ECU is hosting the 1st Quarter Board Meeting in Thessaloniki, Greece on February 4 and 5. The Municipality of Thessaloniki has made the City Hall available for the first day of the meeting to honour the European Chess Union and its presence in the city. The main agenda items of the meeting: 1. The official calendar ECU for the years&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-board-meets-in-thessaloniki/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-board-meets-in-thessaloniki/",
-         "pubDate" : "Tue, 01 Feb 2022 08:55:59 +0000",
-         "title" : "ECU Board meets in Thessaloniki"
-      },
-      {
-         "description" : " &#8220;The human mind isn't a computer; it cannot progress in an orderly fashion down a list of candidate moves and rank them by a score down to the hundredth of a pawn the way a chess machine does. Even the most disciplined human mind wanders in the heat of competition&#8221; GM Garry Kasparov This week <a href=\"https://chessimprover.com/carbon-versus-silicon/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Carbon versus Silicon\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/carbon-versus-silicon/\">Carbon versus Silicon</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/carbon-versus-silicon/",
-         "pubDate" : "Tue, 01 Feb 2022 08:42:50 +0000",
-         "title" : "Carbon versus Silicon"
       }
    ]
 }
