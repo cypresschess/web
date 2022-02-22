@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! William E. Griffin on page 101 of The Rice Gambit by H. Keidanz (New York, 1905). William Earnest Griffin is a chess player you may not know, but one whose words will make an indelible impression. According to the February 1905 issue of the American Chess Bulletin (page 34), Griffin was Born in the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/22/black-history-month-2022-day-22-william-earnest-griffin/\">Black History Month 2022-Day 22: William Earnest Griffin</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/22/black-history-month-2022-day-22-william-earnest-griffin/",
+         "pubDate" : "Tue, 22 Feb 2022 19:09:11 +0000",
+         "title" : "Black History Month 2022-Day 22: William Earnest Griffin"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1591",
+         "pubDate" : "Tue, 22 Feb 2022 18:16:41 +0000",
+         "title" : "Andrea Nicole Garcia wins Honduran Women's Championship"
+      },
+      {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-54/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (54)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-54/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (54)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-54/",
+         "pubDate" : "Tue, 22 Feb 2022 16:52:36 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (54)"
+      },
+      {
+         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
+         "pubDate" : "Tue, 22 Feb 2022 17:45:00 +0100",
+         "title" : "Airthings Masters - Live!"
+      },
+      {
          "description" : " <p class=\"lead\">On Day 2 of the <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> the 16-year-old Indian chess prodigy Rameshbabu Praggnanandaa beat Carlsen and became the headline in major international media. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-02-22-at-4.53.21-PM.png\" width=\"2120\" height=\"1412\" alt=\"\" /> <div class=\"e2-text-caption\">Indian chess prodigy Rameshbabu Praggnanandhaa poses for a photograph on his arrival at an airport in Chennai after becoming the world's second youngest chess grandmaster ever [File: Arun Sankar/AFP]</div> </div> The moment Pragg took down the World Champion he became the young",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -106,7 +138,7 @@ news_feed (
          "title" : "Victory against Magnus Carlsen one of the best till date for me: Praggnanandhaa"
       },
       {
-         "description" : " Share!50 Alfred Blake Carlin was larger than life figure in New Orleans chess. Carlin's large physical size matched his personality and he was a well-respected chess player and coach. He was one of the few Black masters (Senior Master) in the south and was a five-time Louisiana state champion (1981, 1983, 1990, 1991, 1996). Carlin [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/21/black-history-month-2022-day-21-alfred-blake-carlin/\">Black History Month 2022-Day 21: Alfred Blake Carlin</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Alfred Blake Carlin was larger than life figure in New Orleans chess. Carlin's large physical size matched his personality and he was a well-respected chess player and coach. He was one of the few Black masters (Senior Master) in the south and was a five-time Louisiana state champion (1981, 1983, 1990, 1991, 1996). Carlin was [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/21/black-history-month-2022-day-21-alfred-blake-carlin/\">Black History Month 2022-Day 21: Alfred Blake Carlin</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/21/black-history-month-2022-day-21-alfred-blake-carlin/",
@@ -1258,14 +1290,6 @@ news_feed (
          "title" : "Berlin GP: Nakamura and Aronian are the well-deserved finalists"
       },
       {
-         "description" : " GM Amon SimutowePhoto © Fred Lucas, https://www.fredlucas.eu If you were following chess in the early 2000s, there is a chance you may have heard of Zambia's Amon Simutowe. I read about this rising talent on kasparovchess.com after coming across an article by South Africa's Mark Rubery. After continuing to dig I realized I was already [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/13/black-history-month-2022-day-13-amon-simutowe/\">Black History Month 2022-Day 13: GM Amon Simutowe</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/13/black-history-month-2022-day-13-amon-simutowe/",
-         "pubDate" : "Sun, 13 Feb 2022 18:01:26 +0000",
-         "title" : "Black History Month 2022-Day 13: GM Amon Simutowe"
-      },
-      {
          "description" : " <p class=\"lead\">Game 2 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> semifinals ended with Nakamura and Aronian both achieving a 1.5-0.5 score against Rapport and Dominguez respectively and advancing to the finals. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/image.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220213150733_IMG_2147.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220213150441_IMG_2143.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://world",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1938,14 +1962,6 @@ news_feed (
          "title" : "Bogoljubow's tricky minority attack"
       },
       {
-         "description" : "The FIDE Grand Prix series kicked off on Friday in Berlin. Out of the eight games played in the first round, three finished decisively, although perhaps two of the draws were the most entertaining to follow live - Daniil Dubov escaped against Vincent Keymer (pictured), after the latter entered a sharp opening variation, while Alexander Grischuk failed to find a killer blow in an endgame against Andrey Esipenko. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r1",
-         "pubDate" : "Sat, 05 Feb 2022 08:15:00 +0100",
-         "title" : "Berlin GP: Dubov escapes"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2040,14 +2056,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
          "pubDate" : "Thu, 03 Feb 2022 10:55:00 +0100",
          "title" : "Battle of the Sexes: Final round - Live"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1554",
-         "pubDate" : "Tue, 01 Feb 2022 16:55:47 +0000",
-         "title" : "FIDE Grand Prix 2022: Ding and Andreikin replaced by Esipenko and Wojtaszek"
       }
    ]
 }
