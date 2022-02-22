@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89739443.cms\" />Sixteen-year-old R Praggnanandhaa isn't an unknown commodity in Indian chess circles. But what he did in the early hours of Monday made the world of 64 squares sit up and take note.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/victory-against-magnus-carlsen-one-of-the-best-till-date-for-me-praggnanandhaa/articleshow/89739443.cms",
+         "pubDate" : "Tue, 22 Feb 2022 09:39:18 +0530",
+         "title" : "Victory against Magnus Carlsen one of the best till date for me: Praggnanandhaa"
+      },
+      {
+         "description" : " Share! Alfred Blake Carlin was larger than life figure in New Orleans chess. Carlin's large physical size matched his personality and he was a well-respected chess player and coach. He was one of the few Black masters (Senior Master) in the south and was a five-time Louisiana state champion (1981, 1983, 1990, 1991, 1996). Carlin [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/21/black-history-month-2022-day-21-alfred-blake-carlin/\">Black History Month 2022-Day 21: Alfred Blake Carlin</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/21/black-history-month-2022-day-21-alfred-blake-carlin/",
+         "pubDate" : "Tue, 22 Feb 2022 01:25:46 +0000",
+         "title" : "Black History Month 2022-Day 21: Alfred Blake Carlin"
+      },
+      {
          "description" : "GM Ian Nepomniachtchi is in the lead by a massive seven-point margin, while GMs Magnus Carlsen, Vladislav Artemiev, and Vincent Keymer are top contenders for qualifying spots. How to watch? The games of the Airthings Masters preliminaries can b...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -170,7 +186,7 @@ news_feed (
          "title" : "Groups for Second Leg of FIDE Grand Prix 2022 announced"
       },
       {
-         "description" : " Share!100In this Black History Month, we honor our Afro-Latino chess kindred as part of our shared history. The Chess Drum has spent 21 years covering chess around the globe and while the site has presented coverage of major international events, it has focused its energy on the African Diaspora. One of the segments that the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/20/black-history-month-2022-day-20-afro-latino-chess/\">Black History Month 2022-Day 20: Afro-Latino Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " In this Black History Month, we honor our Afro-Latino chess kindred as part of our shared history. The Chess Drum has spent 21 years covering chess around the globe and while the site has presented coverage of major international events, it has focused its energy on the African Diaspora. One of the segments that the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/20/black-history-month-2022-day-20-afro-latino-chess/\">Black History Month 2022-Day 20: Afro-Latino Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/20/black-history-month-2022-day-20-afro-latino-chess/",
@@ -1240,14 +1256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-sf1",
          "pubDate" : "Sun, 13 Feb 2022 10:00:00 +0100",
          "title" : "Berlin GP: Aronian and Nakamura score"
-      },
-      {
-         "description" : " This day marks 21 years for The Chess Drum and a continued effort to show the universality of chess. More specifically it is a platform to show the contributions of players of African descent. Why is there a need for this? Decades ago, chess media was very myopic in terms of coverage. The focus in [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/12/black-history-month-2022-day-12-the-chess-drum/\">Black History Month 2022-Day 12: The Chess Drum</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/12/black-history-month-2022-day-12-the-chess-drum/",
-         "pubDate" : "Sun, 13 Feb 2022 00:47:14 +0000",
-         "title" : "Black History Month 2022-Day 12: The Chess Drum"
       },
       {
          "description" : "GM Levon Aronian and GM Hikaru Nakamura outplayed GM Leinier Dominguez and GM Richard Rapport respectively in the first game of the 2022 FIDE Grand Prix first leg semifinals in Berlin, both achieved with the white pieces in contrasting styles. The...",
