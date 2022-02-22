@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In rook endings, rooks usually belong behind passed pawns. Of course, there are exceptions to this rule but it is still a good guideline to find good moves in rook endings. In the diagrammed position it is White to move. How can she get her rook behind a passed pawn and win the endgame?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-good-guideline",
+         "pubDate" : "Tue, 22 Feb 2022 09:00:00 +0100",
+         "title" : "A good guideline"
+      },
+      {
+         "description" : "Werner Keym is a teacher (of French and Latin) and a musician who has organised more than 300 concerts in his town. In 2010, he ran for Mayor of Meisenheim and won in a landslide. Now in retirement he devotes his time to the family - he has six grandchildren - and to his hobbies. The foremost of them is problem chess, where he is the is one of the most creative problemists we know. Today he turns 80, and we celebrate with samples of his work. Prepare for an hour of fun.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-octogenarian-puzzle-master",
+         "pubDate" : "Tue, 22 Feb 2022 08:04:05 +0100",
+         "title" : "The octogenarian puzzle master"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89740976.cms\" />Continuing his good run, India's teen prodigy R Praggnanandhaa registered wins against fellow Grandmasters Andrey Esipenko and Alexandra Kosteniuk in rounds 10 and 12 of the Airthings Masters, an online rapid chess tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-follows-up-win-over-magnus-carlsen-with-2-more-victories-in-airthings-masters/articleshow/89740976.cms",
+         "pubDate" : "Tue, 22 Feb 2022 10:57:53 +0530",
+         "title" : "Praggnanandhaa follows up win over Carlsen with 2 more victories in Airthings Masters"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89739443.cms\" />Sixteen-year-old R Praggnanandhaa isn't an unknown commodity in Indian chess circles. But what he did in the early hours of Monday made the world of 64 squares sit up and take note.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -22,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-3",
-         "pubDate" : "Mon, 21 Feb 2022 15:31:50 -0800",
+         "pubDate" : "Mon, 21 Feb 2022 15:31:00 -0800",
          "title" : "Airthings Masters Day 3: Nepo Maintains Lead; Carlsen Leaps To Second"
       },
       {
@@ -1976,22 +2000,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-grand-prix-leg-1-berlin-2022",
          "pubDate" : "Thu, 3 Feb 2022 21:56:00 +0400",
          "title" : "FIDE Grand Prix Leg 1 Berlin 2022 - "
-      },
-      {
-         "description" : "This week Robert Ris shows how Black can spice up things in the Scotch Four Knights (1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4), a line that enjoys the reputation of being very solid for White, by sacrificing a knight on move five. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-scotch-four-knights-with-5-nxe4",
-         "pubDate" : "Thu, 03 Feb 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: The Scotch Four Knights with 5...Nxe4!?"
-      },
-      {
-         "description" : "In the final round the men's team needed four points to be sure of overall success. They managed to go undefeated as three of their number won their games to reach a score of 6&frac12;. The winners on the final day were Bobby Cheng, who beat Jovi Houska; Ravi Haria, who beat Olga Girya; and Bilel Bellahcene, who defeated Marie Sebag (her only loss of the event). Balazs Csonka drew his game with Marsel Efroimski and this was enough to secure his second grandmaster norm. Interim report and photos by John Saunders.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-men-triumph",
-         "pubDate" : "Thu, 03 Feb 2022 17:18:51 +0100",
-         "title" : "Battle of the Sexes: Men triumph!"
       },
       {
          "description" : " Eastlakes Gungahlin Chess Club is starting its first long time control event this Tuesday. The Ramakrishna Memorial will be a 7 round event, played with a time limit of 60m+30s Alongside this event will be informal 30 minute games, which will be suitable for new players who wish to learn the basics of tournament chess play (using clocks, recording moves etc). The full details for the club can be found at <a href=\"https://sites.google.com/site/belconnenucchessclub\">https://sites.google.com/site/belconnenucchessclub</a> (Scroll down for the Calendar) The first night at any chess club can be daunting for new players. I can remember getting towelled up early on the Woden Chess Club (in 1982), b",
