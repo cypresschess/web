@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">On Day 2 of the <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> the 16-year-old Indian chess prodigy Rameshbabu Praggnanandaa beat Carlsen and became the headline in major international media. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-02-22-at-4.53.21-PM.png\" width=\"2120\" height=\"1412\" alt=\"\" /> <div class=\"e2-text-caption\">Indian chess prodigy Rameshbabu Praggnanandhaa poses for a photograph on his arrival at an airport in Chennai after becoming the world's second youngest chess grandmaster ever [File: Arun Sankar/AFP]</div> </div> The moment Pragg took down the World Champion he became the young",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/16-year-old-rameshbabu-praggnanandaa-hit-the-headlines-overnight/",
+         "pubDate" : "Tue, 22 Feb 2022 14:54:48 +0000",
+         "title" : "16-year-old Rameshbabu Praggnanandaa hit the headlines overnight"
+      },
+      {
+         "description" : "Today, the German chess historian Michael Negele celebrates his 65th birthday! Negele published widely about a variety of topics but his main focus was and is the life and work of Emanuel Lasker, and he was one of the driving forces in editing an extensive three-volume biography about the German World Champion. | Photos: German Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-historian-michael-negele-turns-65",
+         "pubDate" : "Tue, 22 Feb 2022 15:00:00 +0100",
+         "title" : "Chess historian Michael Negele turns 65!"
+      },
+      {
+         "description" : "A fierce battle to reach the knockout awaits on day 4 of the Airthings Masters preliminary stage. Only Ian Nepomniachtchi has secured a spot in the quarterfinals, as he has an overwhelming 7-point lead going into the final three rounds of the all-play-all stage. Magnus Carlsen is one of three players sharing second place. The world champion recently contracted Covid and confessed to a lack of energy. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d3",
+         "pubDate" : "Tue, 22 Feb 2022 14:35:00 +0100",
+         "title" : "Airthings Masters: The plot thickens"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/d10e2183-0d8e-4a49-9ac8-2bd5af846681/q7YtlQ2X_400x400.jpg\" data-image-dimensions=\"400x400\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6214e4f0557793739d02f430\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/d10e2183-0d8e-4a49-9ac8-2bd5af846681/q7YtlQ2X_400x400.jpg?format=1000w\" /> </figure> <iframe scrolling=\"no\" src=\"https://playlist.megaphone.fm?e=BLU9323042155\" width=\"100%\" frameborder=\"0\" data-preserve-html-node=\"true\" height=\"200\"></iframe><p class=\"\">C",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/2/22/pauq1ld4qaxw2a7yj336ml7b252q9u",
+         "pubDate" : "Tue, 22 Feb 2022 13:30:22 +0000",
+         "title" : "EP 267- NM Nelson Lopez (of the ChessVibes YouTube Channel)"
+      },
+      {
+         "description" : "Are you looking for a simple, easy-to-learn repertoire against 1.e4? Then the Scandinavian with 3&hellip;Qd8 is yours! After 1.e4 d5 2.exd5 Qxd5 3.Nc3 the retreat 3&hellip;Qd8 leads to a very solid type position for Black. At the expense of two tempi, the pawn structure has been defined, and hence a clear developing plan can be made for our minor pieces.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-robert-ris-the-smooth-scandinavian-defence-with-3-qd8-2",
+         "pubDate" : "Tue, 22 Feb 2022 14:25:37 +0100",
+         "title" : "New: Robert Ris - The smooth Scandinavian Defence with 3&hellip;Qd8"
+      },
+      {
+         "description" : " Just a quick update on the 2022 O2C Doeberl Cup. Entries for the tournament have already passed to 100 mark (in fact 120 at the time of this post). The Premier already has 5 GM's, 1 WGM and 4 IM's registered. With overseas visitors now allowed into the country, a number of OS players have already registered. To try and balance the numbers in each section, the entry requirements have been relaxed a little. Having a FIDE rating above the ACF cutoff now qualifies you for a section as well, meaning that it is easier to get into a higher section. The rule about using your rating at the time of entry still applies, so some players may wish to enter before the end of this month (before new ACF rat",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/2022-o2c-doeberl-cup-7-weeks-out.html",
+         "pubDate" : "Tue, 22 Feb 2022 12:58:00 +0000",
+         "title" : "2022 O2C Doeberl Cup - 7 weeks out"
+      },
+      {
          "description" : "Ian Nepomniachtchi is through to the quarterfinals of the Airthings Masters on a day when he could afford to squander two completely winning positions. Behind him, however, there's mayhem, with only three points, or one win, separating 2nd place Magnus Carlsen from 10th place Levon Aronian. Only the Top 8 qualify, with Vincent Keymer and Eric Hansen, who beat Magnus, still in that pack with three games to go. It can change fast, as Vladislav Artemiev showed on Day 3, when he won three games and climbed from 10th to 3rd.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -80,14 +128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1590",
          "pubDate" : "Mon, 21 Feb 2022 22:10:04 +0000",
          "title" : "Nepomniachtchi continues to lead; Carlsen is joint-second"
-      },
-      {
-         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
-         "pubDate" : "Mon, 21 Feb 2022 17:45:00 +0100",
-         "title" : "Airthings Masters - Games and results"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Meltwater Champions Chess Tour</strong> announced that <strong>Puma SE</strong>, the third biggest sportswear brand, <a href=\"https://chess24.com/en/read/news/puma-partners-with-magnus-carlsen-and-champions-chess-tour\">signed a multi-year partnership</a> with the tour and with Magnus Carlsen personally. PUMA CEO <strong>Bj&ouml;rn Gulden</strong> is a former football professional from Norway. </div> ",
@@ -1250,14 +1290,6 @@ news_feed (
          "title" : "How to improve"
       },
       {
-         "description" : " The Dutch GM Anish Giri was hacked on Twitter on Saturday night. Apparently, the hacker attacked other grandmasters and shared some pretty nasty DMs to various accounts. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Anish-Giri-hacked-on-Twitter.jpeg\" width=\"1200\" height=\"630\" alt=\"\" /> </div> Twitter was having so much fun last night, but at the same time, everyone was so confused and worried by Giri's mean tweets. The hacker created all kinds of conflicts, shared inappropriate and sexualized info about GMs, and supposedly exposed some of the \"darkest chess secrets\". Meanwhile, Giri was trending No.8 on India's Twitter with fans and friends confirming that tha",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/cyber-attack-anish-giri-was-hacked-on-twitter/",
-         "pubDate" : "Sun, 13 Feb 2022 10:18:56 +0000",
-         "title" : "CYBER ATTACK! Anish Giri was hacked on Twitter"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 66th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about the concept of \"prophylaxis\". | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1272,14 +1304,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/berlin-grand-prix-sf-1-nakamura-aronian-strike",
          "pubDate" : "Sun, 13 Feb 2022 09:58:07 +0000",
          "title" : "Berlin Grand Prix SF 1: Nakamura & Aronian strike"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/85sO3oxuvLs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/i-would-keep-my-team-against-magnus-i-wouldnt-have-someone-like/",
-         "pubDate" : "Sun, 13 Feb 2022 09:50:42 +0000",
-         "title" : "\"I would keep my team against Magnus. I wouldn't have someone like Kasparov on my team\" - Hikaru Nakamura"
       },
       {
          "description" : " Yuri Averbakh, the world's oldest grandmaster, was born 100 years ago, on 8 February 1922, making him the first grandmaster to reach three figures. Averbakh was awarded the grandmaster title in 1952, and was a world championship candidate in 1953. He scored many tournament successes in the 1950s and 1960s, his solid style making him <a href=\"https://chessimprover.com/yuri-averbakh/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Yuri Averbakh\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/yuri-averbakh/\">Yuri Averbakh</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1954,22 +1978,6 @@ news_feed (
          "title" : "NATIONAL CHESS CHAMPIONSHIPS 2021-22"
       },
       {
-         "description" : "Ashton Anderson, a computer scientist at the University of Toronto, wanted to know whether chess players have a unique playing style. To answer that question, he and his team gathered more than \"50 million human games played on the Lichess website. They collected games by players who had played at least 1000 times and sampled sequences of up to 32 moves from those games. ... [Then] they gave the system 100 games from each of about 3000 known players, and 100 fresh games from a mystery player. The system ... identified the mystery player 86% of the time.\" An article in \"Science\" takes a closer look at the pros and cons of this experiment. | Photo: Xi Jian/stock.com | Source: \"Science\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/can-artificial-intelligence-identify-your-playing-style",
-         "pubDate" : "Fri, 04 Feb 2022 13:11:28 +0100",
-         "title" : "Can Artificial Intelligence identify your playing style?"
-      },
-      {
-         "description" : "In his Power Play Show, GM Daniel King looks at two Tata Steel classics, played seven years apart, but in the same opening. It's interesting and worth comparing the strategies of the two victors, Magnus Carlsen and Arjun Erigaisi. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-two-tata-classics",
-         "pubDate" : "Fri, 04 Feb 2022 13:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Two Tata classics"
-      },
-      {
          "description" : "We are inviting nominations for the BCET Awards 2022. With over the board chess resuming in 2021 after a break of nearly 18 months we...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2040,22 +2048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1554",
          "pubDate" : "Tue, 01 Feb 2022 16:55:47 +0000",
          "title" : "FIDE Grand Prix 2022: Ding and Andreikin replaced by Esipenko and Wojtaszek"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89281347.cms\" />India's R Praggnanandhaa will be featuring at the Airthings Masters online super-tournament which will kick off this year's Meltwater Champions Chess Tour that has a glittering line-up featuring Magnus Carlsen and the new male and female World Rapid champions.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-to-feature-in-airthings-masters-chess/articleshow/89281347.cms",
-         "pubDate" : "Tue, 01 Feb 2022 21:53:55 +0530",
-         "title" : "Praggnanandhaa to feature in Airthings Masters Chess"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e93c1c3f-1168-4e65-a2fa-580efd9fa11e/ES3.jpg\" data-image-dimensions=\"579x288\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"61f93a50b0779b5b7a4c8687\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e93c1c3f-1168-4e65-a2fa-580efd9fa11e/ES3.jpg?format=1000w\" /> </figure> <p class=\"\">This week I am joined by the founder of the <a href=\"https://www.berkeleychessschool.org\">Berkeley Chess School</a> (BCS), Elizabeth Shaughnessy. The Berkeley Chess School is a Califor",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/2/1/ep-264-elizabeth-shaughnessy-founder-of-the-berkeley-chess-school",
-         "pubDate" : "Tue, 01 Feb 2022 13:49:49 +0000",
-         "title" : "EP 264- Elizabeth Shaughnessy (Founder of the Berkeley Chess School) "
       }
    ]
 }
