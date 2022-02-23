@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Katerina Nemcova gives a chess lecture all about pawn power. The mysterious masked Katerina... 2022.02.22<br /> Anatoly Karpov vs Svetozar Gligoric, San Antonio (1972)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1067695\">https://www.chessgames.com/perl/chessgame?gid=1067695</a><br /> Leif Erlend Johannessen vs Hikaru Nakamura, GMA (2002)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1248937\">https://www.chessgames.com/perl/chessgame?gid=1248937</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-l",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/pawns-%E2%99%9F-grandmasters-choice-wgm-katerina-nemcova",
+         "pubDate" : "Wed, 23 Feb 2022 05:42:43 +0000",
+         "title" : "Pawns ♟ | Grandmaster's Choice - WGM Katerina Nemcova"
+      },
+      {
+         "description" : "Praggnanandhaa scored five wins from 15 rounds, drew four games and lost six.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33351468/r-praggnanandhaa-misses-quarterfinals-finishing-11th-airthings-masters?device=featurephone",
+         "pubDate" : "Wed, 23 Feb 2022 00:25:41 -0500",
+         "title" : "Airthings Masters: Praggnanandhaa misses out on quarterfinals after finishing 11th"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89763879.cms\" />Indian Grandmaster R Praggnanandhaa defeated Russia's Vladislav Artemiev in the 15th and final round of the preliminary phase of the Airthings Masters, an online rapid chess tournament, but missed out on qualifying for the quarterfinals.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-finishes-11th-in-airthings-masters-misses-out-on-quarterfinals/articleshow/89763879.cms",
+         "pubDate" : "Wed, 23 Feb 2022 10:06:00 +0530",
+         "title" : "R Praggnanandhaa finishes 11th in Airthings Masters, misses out on quarterfinals"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby will surprise you with the a3 Nimzo, so you can surprise your next chess opponent! The mysterious masked Caleb... </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/surprise-its-a3-nimzo-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DRMwhq0kjbE.jpg?itok=Gnm5p0qB\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1008,14 +1032,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/positional-play-short-term-plans-grandmasters-choice-wgm-katerina-nemcova-lichessorg",
          "pubDate" : "Wed, 16 Feb 2022 02:33:25 +0000",
          "title" : "Positional Play: Short-Term Plans | Grandmaster's Choice - WGM Katerina Nemcova | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. The mysterious masked Caleb shows the only game he lost from the 2022 Master Lab tournament in Saint Louis. 2022.02.15<br /> Julian Proleiko vs. Caleb Denby, 2022: B18 Caro-Kann, classical variation<br /> Denby vs. Arjun Puri, 2022: D10 Queen&#039;s Gambit Declined Slav defence, exchange variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learn-your-worst-games-ro",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/learn-your-worst-games-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 16 Feb 2022 02:33:25 +0000",
-         "title" : "Learn from Your WORST Games | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : "",
