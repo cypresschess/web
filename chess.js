@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby will surprise you with the a3 Nimzo, so you can surprise your next chess opponent! The mysterious masked Caleb... </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/surprise-its-a3-nimzo-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DRMwhq0kjbE.jpg?itok=Gnm5p0qB\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/surprise-its-a3-nimzo-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 23 Feb 2022 02:42:27 +0000",
+         "title" : "Surprise! It's the a3 Nimzo! | Road to 2000 - NM Caleb Denby"
+      },
+      {
          "description" : "GM Ian Nepomniachtchi won the preliminary stage of the Airthings Masters. Pre-tournament favorites GMs Magnus Carlsen and Ding Liren are also in. They will be challenged by a well-represented group of young stars when the knockout stage begins tom...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-4",
-         "pubDate" : "Tue, 22 Feb 2022 16:19:19 -0800",
+         "pubDate" : "Tue, 22 Feb 2022 16:19:00 -0800",
          "title" : "Airthings Masters Day 4: Nepo, Carlsen, Ding To Face Young Stars In Upcoming Knockouts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Katerina Nemcova gives a chess lecture all about pawn power. The mysterious masked Katerina... 2022.02.22<br /> Anatoly Karpov vs Svetozar Gligoric, San Antonio (1972)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1067695\">https://www.chessgames.com/perl/chessgame?gid=1067695</a><br /> Leif Erlend Johannessen vs Hikaru Nakamura, GMA (2002)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1248937\">https://www.chessgames.com/perl/chessgame?gid=1248937</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-l",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/pawns-%E2%99%9F-grandmasters-choice-wgm-katerina-nemcova-lichessorg",
+         "pubDate" : "Tue, 22 Feb 2022 23:42:40 +0000",
+         "title" : "Pawns ♟ | Grandmaster's Choice - WGM Katerina Nemcova | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby will surprise you with the a3 Nimzo, so you can surprise your next chess opponent! 2022.02.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/surprise-your-opponents-a3-nimzo-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DRMwhq0kjbE.jpg?itok=Gnm5p0qB\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/surprise-your-opponents-a3-nimzo-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Tue, 22 Feb 2022 23:42:40 +0000",
+         "title" : "Surprise Your Opponents with the a3 Nimzo | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
          "description" : "",
@@ -18,7 +42,7 @@ news_feed (
          "title" : "Kosteniuk halts losing streak as Nepomniachtchi dominates"
       },
       {
-         "description" : " Share! William E. Griffin on page 101 of The Rice Gambit by H. Keidanz (New York, 1905). William Earnest Griffin is a chess player you may not know, but one whose words will make an indelible impression. According to the February 1905 issue of the American Chess Bulletin (page 34), Griffin was Born in the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/22/black-history-month-2022-day-22-william-earnest-griffin/\">Black History Month 2022-Day 22: William Earnest Griffin</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!6 William E. Griffin on page 101 of The Rice Gambit by H. Keidanz (New York, 1905). William Earnest Griffin is a chess player you may not know, but one whose words will make an indelible impression. According to the February 1905 issue of the American Chess Bulletin (page 34), Griffin was Born in the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/22/black-history-month-2022-day-22-william-earnest-griffin/\">Black History Month 2022-Day 22: William Earnest Griffin</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/22/black-history-month-2022-day-22-william-earnest-griffin/",
@@ -994,22 +1018,6 @@ news_feed (
          "title" : "Learn from Your WORST Games | Road to 2000 - NM Caleb Denby"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Katerina Nemcova talks about short-term positional play in chess. The mysterious masked Katerina gives insight into her own development as a player. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-play-short-term-plans-grandmasters-choice-wgm-katerina-nemcova\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Kq7129BnWJs.jpg?itok=7lNkyHY-\" alt=\"\" /></a><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/positional-play-short-term-plans-grandmasters-choice-wgm-katerina-nemcova",
-         "pubDate" : "Tue, 15 Feb 2022 23:33:23 +0000",
-         "title" : "Positional Play: Short-Term Plans | Grandmaster's Choice - WGM Katerina Nemcova"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2022.02.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learn-your-worst-games-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gvmMqCuySs4.jpg?itok=s5FakNWx\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/learn-your-worst-games-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Tue, 15 Feb 2022 23:33:23 +0000",
-         "title" : "Learn from Your WORST Games | Road to 2000 - NM Caleb Denby | lichess.org"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1024,14 +1032,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-finals-g1",
          "pubDate" : "Tue, 15 Feb 2022 14:12:00 -0800",
          "title" : "2022 FIDE Grand Prix Berlin Final: Memorable 1st Clash Ends In Thrilling Draw"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League kicks off its Spring season. Join NM Caleb Denby for the move-by-move. 2022.02.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-corporate-chess-league-virtual-spring-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wi1hnwo0vdw.jpg?itok=QrlmrKhw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-corporate-chess-league-virtual-spring-1",
-         "pubDate" : "Tue, 15 Feb 2022 20:33:25 +0000",
-         "title" : "2022 Saint Louis Corporate Chess League: Virtual Spring #1"
       },
       {
          "description" : " In 2003, Maurice Ashley and Stephen Muhammad joined the roster of participants of the prestigious U.S. Chess Championship, the hallmark of American tournaments. It is a chance for glory and to be included in the annals of history along with the list of luminaries whose plaques now adorn the World Chess Hall-of-Fame museum in St. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/15/black-history-month-2022-day-15-ashley-muhammad/\">Black History Month 2022-Day 15: Ashley &#038; Muhammad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
