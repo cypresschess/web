@@ -2,11 +2,59 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The former world champion <strong>Anatoly Karpov</strong> is among the 351 members of the Russian parliament who have <a href=\"https://www.euronews.com/my-europe/2022/02/22/eu-sanctions-351-russian-lawmakers-who-voted-to-recognise-ukraine-s-separatist-republics\">banned by the EU to travel and are subject to freezing their assets</a> as a sanction after voting for the recognition of the People Republics of Donetsk and Lugansk, which comes equal to annecting the cities in Eastern Ukraine into Russia. </div> ",
+         "description" : "After two years in post, IA Alan Atkinson (far left) is looking to move on from the ECF Manager of Arbiters role. We would like...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/new-ecf-manager-of-arbiters-2/",
+         "pubDate" : "Wed, 23 Feb 2022 15:30:09 +0000",
+         "title" : "New ECF Manager of Arbiters"
+      },
+      {
+         "description" : "Underdogs Vincent Keymer and Eric Hansen qualified to the knockout stage of the Airthings Masters on Tuesday. On the other hand, the likes of Anish Giri, Levon Aronian and Shakhriyar Mamedyarov did not make the cut. Ian Nepomniachtchi was the clear winner of the round-robin with a commanding score of 29/45 points.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d4",
+         "pubDate" : "Wed, 23 Feb 2022 16:05:00 +0100",
+         "title" : "Airthings Masters: Keymer and Hansen make the cut"
+      },
+      {
+         "description" : " <p class=\"lead\">The <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> reached the quarterfinals with the Top8 players of the tour. Magnus Carlsen managed to save a spot despite his poor performance, while Nepomniachtchi was crowned the king of the prelim stage. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-02-23-at-3.57.30-PM.png\" width=\"2350\" height=\"1476\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Niki Riga / World Chess</div> </div> Russia's No.1 Ian Nepomniachtchi has had an excellent tour so far, scoring 29 points and moving to the quarterfinals with ease against the German GM Vincent Keymer. Keymer made quite ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nepomniachtchi-was-crowned-the-king-of-the-prelim-stage-of-the-c/",
+         "pubDate" : "Wed, 23 Feb 2022 13:59:27 +0000",
+         "title" : "Nepomniachtchi was crowned the king of the prelim stage of the Champions Chess Tour 2022"
+      },
+      {
+         "description" : " Here are the latest two videos from The Master Chess Web Show in which Andrew and I look at some more great games. Since last week we've also put a web site up where viewers can send in questions in questions via the contact form. After next week we'll be running three shows a week, <a href=\"https://chessimprover.com/the-master-chess-web-show-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Master Chess Web Show (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-master-chess-web-show-2/\">The Master Chess Web Show (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/the-master-chess-web-show-2/",
+         "pubDate" : "Wed, 23 Feb 2022 13:57:04 +0000",
+         "title" : "The Master Chess Web Show (2)"
+      },
+      {
+         "description" : " Mark Scully, sometime chess player, sometime lawyer, once wrote that in times long past, the earth consisted of at least 10,000 independent territories. This has now been reduced to around 195, give or take a few self declared/non recognised territories (eg <a href=\"https://en.wikipedia.org/wiki/Principality_of_Hutt_River\">Principality of Hutt River</a>) FIDE have slightly less member nations, although they have extended membership to a number of non-country federations The International Correspondence Chess Federation follow a similar model. However, with Correspondence Chess less constrained by travel, they also organise events for 'States and Regions'. A multi divisional championship of ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/regional-representation.html",
+         "pubDate" : "Wed, 23 Feb 2022 13:18:00 +0000",
+         "title" : "Regional Representation"
+      },
+      {
+         "description" : "Svitlana's former coach taught her to solve chess studies frequently. The idea is bending the mind a little more than usual to find the solutions. Chess compositions normally have \"only moves\", or at least a very narrow path to crack the puzzle. We take a look at some beautiful brain-teasers.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-31",
+         "pubDate" : "Wed, 23 Feb 2022 14:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - How to solve chess studies"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The former world champion <strong>Anatoly Karpov</strong> is among the 351 members of the Russian parliament who are <a href=\"https://www.euronews.com/my-europe/2022/02/22/eu-sanctions-351-russian-lawmakers-who-voted-to-recognise-ukraine-s-separatist-republics\">banned by the EU to travel and are subject to freezing their assets</a> as a sanction after voting for the recognition of the People Republics of Donetsk and Lugansk, which comes equal to annecting the cities in Eastern Ukraine into Russia. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/karpov-sanctioned-by-eu/",
-         "pubDate" : "Wed, 23 Feb 2022 11:49:56 +0100",
+         "pubDate" : "Wed, 23 Feb 2022 12:36:44 +0100",
          "title" : "Karpov sanctioned by EU"
       },
       {
@@ -112,14 +160,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-54/",
          "pubDate" : "Tue, 22 Feb 2022 16:52:36 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (54)"
-      },
-      {
-         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
-         "pubDate" : "Tue, 22 Feb 2022 17:45:00 +0100",
-         "title" : "Airthings Masters - Games and results"
       },
       {
          "description" : " <p class=\"lead\">On Day 2 of the <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> the 16-year-old Indian chess prodigy Rameshbabu Praggnanandaa beat Carlsen and became the headline in major international media. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-02-22-at-4.53.21-PM.png\" width=\"2120\" height=\"1412\" alt=\"\" /> <div class=\"e2-text-caption\">Indian chess prodigy Rameshbabu Praggnanandhaa poses for a photograph on his arrival at an airport in Chennai after becoming the world's second youngest chess grandmaster ever [File: Arun Sankar/AFP]</div> </div> The moment Pragg took down the World Champion he became the young",
@@ -1346,14 +1386,6 @@ news_feed (
          "title" : "Nakamura and Aronian are the two FIDE Grand Prix 2022 finalists"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/_ydQ6mFoAJQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-semi-final-game-2-broadcast/",
-         "pubDate" : "Sun, 13 Feb 2022 13:30:00 +0000",
-         "title" : "FIDE Grand Prix Semi-final Game 2 Broadcast"
-      },
-      {
          "description" : " 100 Chess Maxims (by C.D. Locock) has a number of interesting pieces of advice for new (and experienced) players. The issue I have was published prior to 1933 (based on the note by the original owner on the inside cover, and a clipping from the Daily Telegraph dated July 24 1933, which came with the book) Last last set of tips are headed \"How to improve\" and contain the following advice 95. Play, if possible, with players rather better than yourself. Write down your games and play them over afterwards, preferably with your opponent, and try to find out how your play could have been improved. Play consultation games when you get the chance.<br /><br />96. Play through the games (beginning wi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1519,7 +1551,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-30",
          "pubDate" : "Fri, 11 Feb 2022 17:02:00 +0100",
-         "title" : "Ivanchuk and Shirov demonstrate creativity in chess"
+         "title" : "Svitlana's Smart Moves - Ivanchuk and Shirov demonstrate creativity in chess"
       },
       {
          "description" : "",
@@ -1984,14 +2016,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/dumbernats.html",
          "pubDate" : "Sat, 05 Feb 2022 09:08:00 +0000",
          "title" : "Dumbernats"
-      },
-      {
-         "description" : "In the diagram position Black's active rooks are hitting f2, his queen g5 is eyeing the Rc1 - and yet White unperturbedly continued 30. b4-b5! Can you spot the idea behind this advance?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bogoljubow-s-tricky-minority-attack",
-         "pubDate" : "Sat, 05 Feb 2022 09:00:00 +0100",
-         "title" : "Bogoljubow's tricky minority attack"
       },
       {
          "description" : "",
