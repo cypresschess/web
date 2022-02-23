@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Ian Nepomniachtchi won the preliminary stage of the Airthings Masters. Pre-tournament favorites GMs Magnus Carlsen and Ding Liren are also in. They will be challenged by a well-represented group of young stars when the knockout stage begins tom...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-4",
+         "pubDate" : "Tue, 22 Feb 2022 16:19:19 -0800",
+         "title" : "Airthings Masters Day 4: Nepo, Carlsen, Ding To Face Young Stars In Upcoming Knockouts"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1592",
+         "pubDate" : "Tue, 22 Feb 2022 22:50:20 +0000",
+         "title" : "Kosteniuk halts losing streak as Nepomniachtchi dominates"
+      },
+      {
          "description" : " Share! William E. Griffin on page 101 of The Rice Gambit by H. Keidanz (New York, 1905). William Earnest Griffin is a chess player you may not know, but one whose words will make an indelible impression. According to the February 1905 issue of the American Chess Bulletin (page 34), Griffin was Born in the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/22/black-history-month-2022-day-22-william-earnest-griffin/\">Black History Month 2022-Day 22: William Earnest Griffin</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -31,7 +47,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
          "pubDate" : "Tue, 22 Feb 2022 17:45:00 +0100",
-         "title" : "Airthings Masters - Live!"
+         "title" : "Airthings Masters - Games and results"
       },
       {
          "description" : " <p class=\"lead\">On Day 2 of the <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> the 16-year-old Indian chess prodigy Rameshbabu Praggnanandaa beat Carlsen and became the headline in major international media. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-02-22-at-4.53.21-PM.png\" width=\"2120\" height=\"1412\" alt=\"\" /> <div class=\"e2-text-caption\">Indian chess prodigy Rameshbabu Praggnanandhaa poses for a photograph on his arrival at an airport in Chennai after becoming the world's second youngest chess grandmaster ever [File: Arun Sankar/AFP]</div> </div> The moment Pragg took down the World Champion he became the young",
@@ -50,14 +66,6 @@ news_feed (
          "title" : "Chess historian Michael Negele turns 65!"
       },
       {
-         "description" : "A fierce battle to reach the knockout awaits on day 4 of the Airthings Masters preliminary stage. Only Ian Nepomniachtchi has secured a spot in the quarterfinals, as he has an overwhelming 7-point lead going into the final three rounds of the all-play-all stage. Magnus Carlsen is one of three players sharing second place. The world champion recently contracted Covid and confessed to a lack of energy. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d3",
-         "pubDate" : "Tue, 22 Feb 2022 14:35:00 +0100",
-         "title" : "Airthings Masters: The plot thickens"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/d10e2183-0d8e-4a49-9ac8-2bd5af846681/q7YtlQ2X_400x400.jpg\" data-image-dimensions=\"400x400\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6214e4f0557793739d02f430\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/d10e2183-0d8e-4a49-9ac8-2bd5af846681/q7YtlQ2X_400x400.jpg?format=1000w\" /> </figure> <iframe scrolling=\"no\" src=\"https://playlist.megaphone.fm?e=BLU9323042155\" width=\"100%\" frameborder=\"0\" data-preserve-html-node=\"true\" height=\"200\"></iframe><p class=\"\">C",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -72,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-robert-ris-the-smooth-scandinavian-defence-with-3-qd8-2",
          "pubDate" : "Tue, 22 Feb 2022 14:25:37 +0100",
          "title" : "New: Robert Ris - The smooth Scandinavian Defence with 3&hellip;Qd8"
+      },
+      {
+         "description" : "A fierce battle to reach the knockout awaits on day 4 of the Airthings Masters preliminary stage. Only Ian Nepomniachtchi has secured a spot in the quarterfinals, as he has an overwhelming 7-point lead going into the final three rounds of the all-play-all stage. Magnus Carlsen is one of three players sharing second place. The world champion recently contracted Covid and confessed to a lack of energy. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d3",
+         "pubDate" : "Tue, 22 Feb 2022 14:15:00 +0100",
+         "title" : "Airthings Masters: The plot thickens"
       },
       {
          "description" : " Just a quick update on the 2022 O2C Doeberl Cup. Entries for the tournament have already passed to 100 mark (in fact 120 at the time of this post). The Premier already has 5 GM's, 1 WGM and 4 IM's registered. With overseas visitors now allowed into the country, a number of OS players have already registered. To try and balance the numbers in each section, the entry requirements have been relaxed a little. Having a FIDE rating above the ACF cutoff now qualifies you for a section as well, meaning that it is easier to get into a higher section. The rule about using your rating at the time of entry still applies, so some players may wish to enter before the end of this month (before new ACF rat",
@@ -1768,14 +1784,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no1-2022/",
          "pubDate" : "Tue, 08 Feb 2022 08:08:38 +0000",
          "title" : "Communique of the ECU Board Meeting CL No1/2022"
-      },
-      {
-         "description" : "GM Yuri Averbakh, the oldest living grandmaster in the world, turns 100 today. After recovering from Covid last summer, he seems to be back in shape again and says he still analyzes endgames to keep his mind sharp. Born February 8, 1922, in Kalu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yuri-averbakh-100-years",
-         "pubDate" : "Mon, 07 Feb 2022 22:29:00 -0800",
-         "title" : "Yuri Averbakh, The Oldest Living Grandmaster, Turns 100"
       },
       {
          "description" : "",
