@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The former world champion <strong>Anatoly Karpov</strong> is among the 351 members of the Russian parliament who have <a href=\"https://www.euronews.com/my-europe/2022/02/22/eu-sanctions-351-russian-lawmakers-who-voted-to-recognise-ukraine-s-separatist-republics\">banned by the EU to travel and are subject to freezing their assets</a> as a sanction after voting for the recognition of the People Republics of Donetsk and Lugansk, which comes equal to annecting the cities in Eastern Ukraine into Russia. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/karpov-sanctioned-by-eu/",
+         "pubDate" : "Wed, 23 Feb 2022 11:49:56 +0100",
+         "title" : "Karpov sanctioned by EU"
+      },
+      {
+         "description" : "Anish Giri and Levon Aronian were the star names who lost out on a frantic last day of the Airthings Masters Prelims, with Levon losing in 20 moves to Andrey Esipenko in the final round while Anish was unable to beat Magnus Carlsen on demand. Ian Nepomniachtchi finished top, with Magnus taking clear second, while underdogs Eric Hansen and Vincent Keymer kept their nerve to reach the playoffs. It's Nepo-Keymer, Hansen-Esipenko, Artemiev-Ding Liren and Le-Carlsen in Wednesday's quarterfinals.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/airthings-masters-4-giri-and-aronian-knocked-out",
+         "pubDate" : "Wed, 23 Feb 2022 10:11:15 +0000",
+         "title" : "Airthings Masters 4: Giri and Aronian knocked out"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89771353.cms\" />Prime Minister Narendra Modi has taken note of R Praggnanandhaa's monumental victory over world champion Magnus Carlsen, saying the entire country is rejoicing in the success of the young genius.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/proud-of-praggnanandhaas-accomplishment-of-winning-against-carlsen-pm-narendra-modi/articleshow/89771353.cms",
+         "pubDate" : "Wed, 23 Feb 2022 15:12:29 +0530",
+         "title" : "Proud of Praggnanandhaa's accomplishment of winning against Carlsen: PM Narendra Modi"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Katerina Nemcova gives a chess lecture all about pawn power. The mysterious masked Katerina... 2022.02.22<br /> Anatoly Karpov vs Svetozar Gligoric, San Antonio (1972)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1067695\">https://www.chessgames.com/perl/chessgame?gid=1067695</a><br /> Leif Erlend Johannessen vs Hikaru Nakamura, GMA (2002)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1248937\">https://www.chessgames.com/perl/chessgame?gid=1248937</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-l",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -866,14 +890,6 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Berlin Final: Match Moves To Tiebreak After Short Skirmish"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The $1,4 million <strong>Grand Chess Tour</strong> 2022 will have to do without world champion <strong>Magnus Carlsen</strong> and world number three <strong>Ding Liren</strong> at its <a href=\"https://grandchesstour.org/2022-grand-chess-tour/overiew\">five events in four cities</a> Bucharest, Warsow, Zagreb and Saint Louis between May and September. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/neither-carlsen-nor-ding-at-grand/",
-         "pubDate" : "Wed, 16 Feb 2022 22:52:53 +0100",
-         "title" : "Neither Carlsen nor Ding at Grand Chess Tour"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows the value of analyzing and learning from your own losses. The mysterious masked Caleb shows the only game he lost from the 2022 Master Lab tournament in Saint Louis. 2022.02.15<br /> Julian Proleiko vs. Caleb Denby, 2022: B18 Caro-Kann, classical variation<br /> Denby vs. Arjun Puri, 2022: D10 Queen&#039;s Gambit Declined Slav defence, exchange variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learn-your-worst-games-road-20",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1616,14 +1632,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/2022-lifeline-bookfair.html",
          "pubDate" : "Thu, 10 Feb 2022 11:57:00 +0000",
          "title" : "2022 Lifeline Bookfair"
-      },
-      {
-         "description" : "Levon Aronian is in the Berlin FIDE Grand Prix semi-finals and now the new US no. 1 on the live rating list after winning a thriller against Vincent Keymer. Hikaru Nakamura defeated Alexander Grischuk's King's Indian Defence in style but still faces a showdown against Andrey Esipenko in the last round, after the 19-year-old beat Etienne Bacrot. Wesley So leads Group D, but Leinier Dominguez beat Harikrishna to move to within half a point, while Group B is wide open, with Radek Wojtaszek and Vladimir Fedoseev neck and neck with Richard Rapport half a point back.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-5-aronian-storms-into-semis",
-         "pubDate" : "Thu, 10 Feb 2022 09:04:20 +0000",
-         "title" : "Berlin Grand Prix 5: Aronian storms into semis"
       },
       {
          "description" : "ECU E-Magazine January 2022 is out! In this edition of the ECU E-Magazine you may read about: 1st quarter ECU Board Meeting 2022 &#8220;A Chess Board for All&#8221; project Hybrid match between ECU Board and Berlin Chess Association Tata Steel Chess 2022 FIDE Grand Prix 2022 Gibraltar Chess Festival 2022 Upcoming events and invitations for ECU events Arbiters&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-january-2022/\">Read More &#187;</a></span>",
