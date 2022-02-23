@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show, Merijn van Delft looks at Ian Nepomniachtchi's win over Magnus Carlsen from the Airthings Masters. Playing black, Nepo outplayed the world champion on his way to winning the preliminary stage of the online tournament. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-504",
+         "pubDate" : "Wed, 23 Feb 2022 21:10:00 +0100",
+         "title" : "Game of the Week #504: Nepo outplays Carlsen"
+      },
+      {
+         "description" : "MPL 58th Senior National Chess Championship-2022 All The participants are here by requested to find the following details for accommodation purpose Kartar Guest House &#38;Hotel",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022-2/",
+         "pubDate" : "Wed, 23 Feb 2022 18:01:22 +0000",
+         "title" : "MPL 58th Senior National Chess Championship-2022"
+      },
+      {
+         "description" : "Submission of Negative Covid-19 test result is mandatory for participation in MPL 58th Senior National Chess Championship 2022 at Kanpur. Facility for test available at",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022/",
+         "pubDate" : "Wed, 23 Feb 2022 17:17:32 +0000",
+         "title" : "MPL 58th Senior National Chess Championship-2022"
+      },
+      {
+         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
+         "pubDate" : "Wed, 23 Feb 2022 17:45:00 +0100",
+         "title" : "Airthings Masters QF - Live!"
+      },
+      {
+         "description" : "GM&#38;nbsp;Baadur Jobava and GM Daniel Naroditsky, some of the earliest winners of Titled Tuesday back in 2014, won Titled Tuesday again on February 22, 2022. Neither player needed the tiebreak system as Jobava had the best score of the day with 10/1...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jobava-naroditsky-win-titled-tuesday-february-22-2022",
+         "pubDate" : "Wed, 23 Feb 2022 07:51:00 -0800",
+         "title" : "Throwback Tuesday? Jobava, Naroditsky Win 2/22/22 Titled Tuesday"
+      },
+      {
          "description" : "After two years in post, IA Alan Atkinson (far left) is looking to move on from the ECF Manager of Arbiters role. We would like...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -479,7 +519,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/carlsen-loses-to-esipenko-and-nepomniachtchi-on-day-1-of-the-cha/",
          "pubDate" : "Sun, 20 Feb 2022 15:13:28 +0000",
-         "title" : "Carlsen loses to Esipenko and Nepomniachtchi on Day 1 of the Champions Chess Tour 2022"
+         "title" : "Carlsen loses to Esipenko, Nepo on Day 1 of the Champions Chess Tour 2022"
       },
       {
          "description" : " <p class=\"lead\">Magnus Carlsen, the world's highest-rated chess player and current World Champion, is at the bottom of the tournament his company has organized, and he is still the star of the show, because the main topic in chess in the last decade is not only chess theory and performance, but also who will manage to beat Carlsen. Hence Carlsen's losses generate more buzz than anything else, and those who beat him become instant chess celebrities. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6A2BBC76-C152-4368-A9A9-7942B7EFF840.jpeg\" width=\"1600\" height=\"900\" alt=\"\" /> <div class=\"e2-text-caption\">Official broadcast of the first day of the Champions Chess To",
@@ -1714,14 +1754,6 @@ news_feed (
          "title" : "Game of the Week #502: Aronian vs Vidit, Berlin, Grand Prix 2022"
       },
       {
-         "description" : "GM Kirill Shevchenko, who also won Titled Tuesday on June 15, 2021, won the early tournament on February 8 and finished third in the late tournament. GM Ian Nepomniachtchi won the late tournament. Both players won outright, Shevchenko with 10/11...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nepomniachtchi-wins-shevchenko-nearly-sweeps-feb-8-titled-tuesday",
-         "pubDate" : "Wed, 09 Feb 2022 09:43:00 -0800",
-         "title" : "Nepomniachtchi Wins, Shevchenko Nearly Sweeps Titled Tuesday"
-      },
-      {
          "description" : " Chess Training can be tough and dull sometimes. Group Training can boost your moral &#38; connect you with like-minded people. This can be extremely beneficial. Not only for your mental sanity but also for your Chess improvement. So do I recommend working in a group? As frequently is the case, my answer is it depends [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/group-training/\">Chess Group Training</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1954,14 +1986,6 @@ news_feed (
          "title" : "Player Types - The Reflector"
       },
       {
-         "description" : "In an exciting second round at the FIDE Grand Prix in Berlin, three players obtained full points in remarkable style. Hikaru Nakamura and Leinier Dominguez won to take the lead in their respective groups, while Richard Rapport bounced back from a first-round loss by taking down Vladimir Fedoseev in a game that featured a positional piece sacrifice and exceptional tactical accuracy. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r2",
-         "pubDate" : "Sun, 06 Feb 2022 03:50:00 +0100",
-         "title" : "Berlin GP: Rapport bounces back with brilliant win"
-      },
-      {
          "description" : " Here is the publishers blurb from the rear cover : &#8220;A highly adventurous repertoire designed to meet 1 e4 with 1e5 and take the initiative! The main problem Black faces in answering 1 e4 with 1e5 is the plethora of opening systems available to White: the Ruy Lopez, Giuoco Piano, Scotch, Ponziani, King's Gambit, Vienna, <a href=\"http://britishchessnews.com/2022/02/06/a-disreputable-opening-repertoire/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">A Disreputable Opening Repertoire</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/02/06/a-disreputable-opening-repertoire/\">A Disreputable Opening Repert",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2096,14 +2120,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/the-first-night.html",
          "pubDate" : "Thu, 03 Feb 2022 13:05:00 +0000",
          "title" : "The first night"
-      },
-      {
-         "description" : "Category Download National U-8 Girls Final Ranking Download National U-8 Open Final Ranking Download Final Standings U-10, U-12, U-14 &#38; National Schools Final Ranking Download",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-final-ranking-2021/",
-         "pubDate" : "Thu, 03 Feb 2022 12:10:41 +0000",
-         "title" : "National Final Rankings 2021"
       },
       {
          "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. Before the 10th and final round the men (team Sabino) are three points ahead and lead by 46&frac12;-43&frac12;. But the women (team Pia) still have chances to catch up. Round 10 starts at 11:00 local time (5:00 ET, 10:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
