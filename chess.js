@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this article, statistician Bruno Wiesend reports on a scientific controversy about a study on the \"Influence of intelligence and practice on the development of skills\". The author considers the results of the study to be wrong due to methodological errors. | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/do-chess-players-and-scientists-need-intelligence",
+         "pubDate" : "Thu, 24 Feb 2022 17:00:00 +0100",
+         "title" : "Do Chess Players and Scientists Need Intelligence?"
+      },
+      {
+         "description" : "Magnus Carlsen and Ian Nepomniachtchi may be on course for a World Championship rematch after beating Liem Quang Le and Vincent Keymer to reach the Airthings Masters semi-finals. They both won one game and drew three, but there was more drama elsewhere. Andrey Esipenko found a brilliant queen sacrifice to take the lead against Eric Hansen, and the Canadian GM's attempts to win on demand led to another loss in the final game. Ding Liren suffered heartbreak as he was a move or two away from sealing victory with a round to spare before Vladislav Artemiev staged a comeback.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/airthings-masters-5-carlsen-artemiev-nepo-esipenko-in-the-semis",
+         "pubDate" : "Thu, 24 Feb 2022 15:35:27 +0000",
+         "title" : "Airthings Masters 5: Carlsen-Artemiev & Nepo-Esipenko"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1596",
+         "pubDate" : "Thu, 24 Feb 2022 15:18:21 +0000",
+         "title" : "Statement of FIDE Council regarding official FIDE chess competitions and events in Russia"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1595",
+         "pubDate" : "Thu, 24 Feb 2022 13:57:24 +0000",
+         "title" : "FIDE PDC continental meeting held in Kampala, Uganda"
+      },
+      {
+         "description" : " <p class=\"lead\">The <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> reached the semifinals with 3 Russians and Magnus Carlsen putting more flag colors on the leaderboard. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-02-24-at-3.34.49-PM.png\" width=\"2356\" height=\"1562\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Niki Riga / World Chess</div> </div> Ian Nepomniachtchi scored a decisive third-game point against Vincent Keymer and won the match to advance to the Tour's semifinals. Later the Russian GM admitted that the Russia/Ukraine crisis has affected him. <a href=\"https://twitter.com/TarjeiJS/status/1496576749114646",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/this-whole-situation-is-really-sad-for-me-nepo-states-after-his/",
+         "pubDate" : "Thu, 24 Feb 2022 13:36:04 +0000",
+         "title" : "\"This whole situation is really sad for me\" Nepo states after his advance to the Champions Chess Tour 2022 semifinals"
+      },
+      {
+         "description" : "Anwesh Upadhyaya, 30, is a resident doctor and International Master who moved to Ukraine to have better tournament opportunities.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33360098/indian-chess-im-ukraine-russia-war-alone-kyiv-apartment?device=featurephone",
+         "pubDate" : "Thu, 24 Feb 2022 08:31:45 -0500",
+         "title" : "'I don't know what to expect anymore': Alone in his Kyiv apartment, Indian chess IM faces uncertain future"
+      },
+      {
+         "description" : "The 2022 Azerbaijani Championship took place in Nakhchivan on 4-18 February. Unlike previous events, this year's championship was held in two stages, with a 9-round Swiss tournament followed by a 4-player knockout. Mahammad Muradli beat Musratdin Iskandarov to grab his second national title. | Photos: Azebaijani Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mahammad-muradli-wins-azerbaijani-championsip-2022",
+         "pubDate" : "Thu, 24 Feb 2022 14:00:00 +0100",
+         "title" : "Mahammad Muradli wins Azerbaijani Championship"
+      },
+      {
+         "description" : "Ajax Amsterdam vs Benfica Lisbon is one of the quarter-final matches in the 2022 Football Champions League. Ajax whetted the appetite for the clash with a virtual chess game, in which two fans look back on the history and on the great players of the two clubs. Yesterday, the first game of the real quarter-final match ended in a 2-2 draw.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-football-match-as-a-chess-game-ajax-amsterdam-vs-benfica-lissabon",
+         "pubDate" : "Thu, 24 Feb 2022 13:53:24 +0100",
+         "title" : "A football match as a chess game: Ajax Amsterdam vs Benfica Lissabon"
+      },
+      {
          "description" : " Modern Opening Chess Theory (MOCT) was a publication that covered various events in the 1960's and 70'. I picked up a copy of issue No. 104, which covered the 1969 Palma de Mallorca tournament, and was written by Bob Wade. The tournament was probably the strongest event in 1969 ( it included Spassky, Petrosian, and Korchnoi), but was won by Bent Larsen. What was remarkable about this was that he started with 2 losses and was only on 2/5, after losing a 3rd game. He then scored 10/12 to finish outright 1st on 12/17. Petrosian finished 2nd on 11.5, although the 14 move final round draw showed he was content with 2nd, rather than fighting for 1st Here is the 1st game for Larsen in the event, w",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1474,14 +1538,6 @@ news_feed (
          "title" : "Berlin GP: Nakamura and Aronian are the well-deserved finalists"
       },
       {
-         "description" : " <p class=\"lead\">Game 2 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> semifinals ended with Nakamura and Aronian both achieving a 1.5-0.5 score against Rapport and Dominguez respectively and advancing to the finals. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/image.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220213150733_IMG_2147.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220213150441_IMG_2143.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://world",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nakamura-and-aronian-are-the-two-fide-grand-prix-2022-finalists/",
-         "pubDate" : "Sun, 13 Feb 2022 17:56:05 +0000",
-         "title" : "Nakamura and Aronian are the two FIDE Grand Prix 2022 finalists"
-      },
-      {
          "description" : " 100 Chess Maxims (by C.D. Locock) has a number of interesting pieces of advice for new (and experienced) players. The issue I have was published prior to 1933 (based on the note by the original owner on the inside cover, and a clipping from the Daily Telegraph dated July 24 1933, which came with the book) Last last set of tips are headed \"How to improve\" and contain the following advice 95. Play, if possible, with players rather better than yourself. Write down your games and play them over afterwards, preferably with your opponent, and try to find out how your play could have been improved. Play consultation games when you get the chance.<br /><br />96. Play through the games (beginning wi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1664,14 +1720,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/bishop-or-fool.html",
          "pubDate" : "Fri, 11 Feb 2022 12:03:00 +0000",
          "title" : "Bishop or Fool"
-      },
-      {
-         "description" : "Hikaru Nakamura is in the semi-finals of the Berlin FIDE Grand Prix after surviving a dead-lost position against Andrey Esipenko. Hikaru will face either Radek Wojtaszek or Richard Rapport, after Rapport beat Vladimir Fedoseev with the black pieces while Radek was somewhat lucky to draw what had been an overwhelmingly winning position against Grigoriy Oparin. Levon Aronian's semi-final opponent is also undecided, after Wesley So spoilt a good position against Harikrishna and now plays a tiebreak against Leinier Dominguez, who beat Alexei Shirov on demand.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-6-nakamura-s-great-escape",
-         "pubDate" : "Fri, 11 Feb 2022 09:52:42 +0000",
-         "title" : "Berlin Grand Prix 6: Nakamura's great escape"
       },
       {
          "description" : "As part of the Berlin Grand Prix, members of the Berlin Chess Association played a friendly \"hybrid\" four-board match against members of the ECU Board. The ECU team played from Thessaloniki, the Berlin team from Berlin, and after an exciting battle the match of the officials ended with a 2-2 tie.",
@@ -1970,36 +2018,12 @@ news_feed (
          "title" : "Regulations : MPL National Junior & National Sub-Junior Chess Championship 2022"
       },
       {
-         "description" : "The final round (ten) of the Battle of the Sexes match-tournament, held at Gibraltar, saw the men's team win by 6&frac12;-3&frac12; to finish overall winners by 53-47. The winners on the final day were Bobby Cheng, who beat Jovi Houska; Ravi Haria, who beat Olga Girya; and Bilel Bellahcene, who defeated Marie Sebag (her only loss of the event). Balazs Csonka drew his game with Marsel Efroimski and this was enough to secure his second grandmaster norm.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-men-triumph-2",
-         "pubDate" : "Mon, 07 Feb 2022 12:00:00 +0100",
-         "title" : "Battle of the Sexes: Men triumph!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1561",
          "pubDate" : "Mon, 07 Feb 2022 05:28:24 +0000",
          "title" : "FIDE Grand Prix: Levon elevates his game in Berlin"
-      },
-      {
-         "description" : "Fighting chess has been the rule rather than the exception at the FIDE Grand Prix in Berlin, as Sunday's third round marked the halway point of the group stage. Round 3 saw half the games ending decisively, with Levon Aronian becoming the first player to score two wins in the event. Aronian now has a full-point lead over Vidit Gujrathi in group C. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r3",
-         "pubDate" : "Mon, 07 Feb 2022 06:10:00 +0100",
-         "title" : "Berlin GP: Aronian in full control"
-      },
-      {
-         "description" : "A talk with his son Lawrence got Jon Speelman thinking about how many Monty Python sketches he could link to specific chess themes. He thus came up with 'dirty forks', 'dead parrots', 'four Yorkshiremen' and 'the Ministry of silly walks'. Enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-163",
-         "pubDate" : "Sun, 06 Feb 2022 20:00:00 +0100",
-         "title" : "Dirty forks and dead parrots"
       },
       {
          "description" : " Thanks to my Richmond clubmate Andrew Hebron for sending me a game he played last summer in the British Senior Online Championship, where he was up against GM Keith Arkell, rated more than 400 points above him. Andrew played excellent, solid and sensible chess to reach a double rook ending, but Keith, of course, is <a href=\"https://chessimprover.com/endgame-maestro/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Endgame Maestro\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/endgame-maestro/\">Endgame Maestro</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2136,14 +2160,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-grand-prix-leg-1-berlin-2022",
          "pubDate" : "Thu, 3 Feb 2022 21:56:00 +0400",
          "title" : "FIDE Grand Prix Leg 1 Berlin 2022 - "
-      },
-      {
-         "description" : " Eastlakes Gungahlin Chess Club is starting its first long time control event this Tuesday. The Ramakrishna Memorial will be a 7 round event, played with a time limit of 60m+30s Alongside this event will be informal 30 minute games, which will be suitable for new players who wish to learn the basics of tournament chess play (using clocks, recording moves etc). The full details for the club can be found at <a href=\"https://sites.google.com/site/belconnenucchessclub\">https://sites.google.com/site/belconnenucchessclub</a> (Scroll down for the Calendar) The first night at any chess club can be daunting for new players. I can remember getting towelled up early on the Woden Chess Club (in 1982), b",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/the-first-night.html",
-         "pubDate" : "Thu, 03 Feb 2022 13:05:00 +0000",
-         "title" : "The first night"
       }
    ]
 }
