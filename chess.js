@@ -34,7 +34,7 @@ news_feed (
          "title" : "Nakamura Makes Triumphant Return In Arena Kings Season 9 (Week 4)"
       },
       {
-         "description" : "GMs Magnus Carlsen, Ian Nepomniachtchi, Vladislav Artemiev, and Andrey Esipenko won their respective matches to move on to the semifinals. How to watch? The games of the Airthings Masters knockouts can be found here as part of our live events p...",
+         "description" : "GMs Magnus Carlsen, Ian Nepomniachtchi, Vladislav Artemiev, and Andrey Esipenko won their respective quarterfinals matches of the Airthings Masters to move on to the semifinals. How to watch? The games of the Airthings Masters knockouts can be ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-5",
