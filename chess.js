@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Modern Opening Chess Theory (MOCT) was a publication that covered various events in the 1960's and 70'. I picked up a copy of issue No. 104, which covered the 1969 Palma de Mallorca tournament, and was written by Bob Wade. The tournament was probably the strongest event in 1969 ( it included Spassky, Petrosian, and Korchnoi), but was won by Bent Larsen. What was remarkable about this was that he started with 2 losses and was only on 2/5, after losing a 3rd game. He then scored 10/12 to finish outright 1st on 12/17. Petrosian finished 2nd on 11.5, although the 14 move final round draw showed he was content with 2nd, rather than fighting for 1st Here is the 1st game for Larsen in the event, w",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/slow-start-strong-finish.html",
+         "pubDate" : "Thu, 24 Feb 2022 12:18:00 +0000",
+         "title" : "Slow start, strong finish"
+      },
+      {
+         "description" : "Savielly Tartakower was an elite master throughout his career of nearly half a century. Although he never quite reached the chess summit, he is remembered fondly as a colorful figure who enriched the game immensely. On the occasion of the 135th anniversary of his birth on 21 February, it is fitting to look back at his life and legacy. | Photo: Wikipedia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-the-unforgettable-savielly-tartakower-21-february-1887-4-february-1956",
+         "pubDate" : "Thu, 24 Feb 2022 10:55:05 +0100",
+         "title" : "Remembering the unforgettable Savielly Tartakower (21 February, 1887 - 4 February, 1956)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89796609.cms\" />Most in the country were asleep when one of India's finest young chess brains created history. The 16-year-old Praggu woke his father up to break the news to him, messaged coach RB Ramesh and enjoyed a few hours of sound sleep before social media started buzzing with his achievement -- a win over world champion Magnus Carlsen.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-punished-magnus-carlsen-for-unjustified-risks-is-on-his-way-to-the-top-viswanathan-anand/articleshow/89796609.cms",
+         "pubDate" : "Thu, 24 Feb 2022 14:42:18 +0530",
+         "title" : "Praggu punished Carlsen for unjustified risks: Vishy Anand"
+      },
+      {
          "description" : "Ding Liren was about to become the first player to reach the semifinals of the Airthings Masters, as he had a 1-point lead and a winning position in game 3 of his match against Vladislav Artemiev. However, the Chinese wasted his chances and lost both that game and the next one to get knocked out of the competition. Magnus Carlsen, Ian Nepomniachtchi and Andrey Esipenko also moved on to the semifinals. | Photo: Vladimir Barsky",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-5",
          "pubDate" : "Wed, 23 Feb 2022 15:46:00 -0800",
          "title" : "Airthings Masters Day 5: Nepo, Carlsen, Artemiev, Esipenko Win"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1593",
-         "pubDate" : "Wed, 23 Feb 2022 23:07:04 +0000",
-         "title" : "FIDE delegation visits Kakuma Refugee Camp in support of Chess for Protection project"
       },
       {
          "description" : "Going into the final round, Jaime Santos was the sole leader at the Ibero-American Championship in Mexico City. The Spaniard fell at the last hurdle, though, as he was defeated by top seed Jorge Cori. Sandro Mareco (pictured) profited from this result, as he clinched tournament victory by beating Omar Almeida with the white pieces. | Photo: Club Obras / La Naci&oacute;n",
@@ -1986,14 +2002,6 @@ news_feed (
          "title" : "Dirty forks and dead parrots"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 65th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about the concept of \"prophylaxis\". | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-65-prophylaxis",
-         "pubDate" : "Sun, 06 Feb 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 65: Prophylaxis"
-      },
-      {
          "description" : " Thanks to my Richmond clubmate Andrew Hebron for sending me a game he played last summer in the British Senior Online Championship, where he was up against GM Keith Arkell, rated more than 400 points above him. Andrew played excellent, solid and sensible chess to reach a double rook ending, but Keith, of course, is <a href=\"https://chessimprover.com/endgame-maestro/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Endgame Maestro\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/endgame-maestro/\">Endgame Maestro</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2136,14 +2144,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/the-first-night.html",
          "pubDate" : "Thu, 03 Feb 2022 13:05:00 +0000",
          "title" : "The first night"
-      },
-      {
-         "description" : "The \"Battle of the Sexes\" in Gibraltar is a ten-round Scheveningen match between ten male and ten female players. Before the 10th and final round the men (team Sabino) are three points ahead and lead by 46&frac12;-43&frac12;. But the women (team Pia) still have chances to catch up. Round 10 starts at 11:00 local time (5:00 ET, 10:00 UTC). Follow the games live and with commentary by Lawrence Trent and Irina Bulmaga.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/battle-of-the-sexes-round-1",
-         "pubDate" : "Thu, 03 Feb 2022 10:55:00 +0100",
-         "title" : "Battle of the Sexes: Final round - Live"
       }
    ]
 }
