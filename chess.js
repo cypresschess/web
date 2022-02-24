@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ding Liren was about to become the first player to reach the semifinals of the Airthings Masters, as he had a 1-point lead and a winning position in game 3 of his match against Vladislav Artemiev. However, the Chinese wasted his chances and lost both that game and the next one to get knocked out of the competition. Magnus Carlsen, Ian Nepomniachtchi and Andrey Esipenko also moved on to the semifinals. | Photo: Vladimir Barsky",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d5",
+         "pubDate" : "Thu, 24 Feb 2022 03:25:00 +0100",
+         "title" : "Airthings Masters QF: Artemiev knocks out Ding"
+      },
+      {
+         "description" : " Share! The 1992 African-American Unity Tournament Series was a novel idea and 30 years later, has never lost its relevance. If there is one aspect of the Hall of Fame career of Maurice Ashley that is overlooked or perhaps underrated, it is his visionary ideas. We know about his ambitious tournaments such as the HB [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/23/black-history-month-2022-day-23-ashleys-unity-tournament-series-1992/\">Black History Month 2022-Day 23: Ashley's Unity Tournament Series (1992)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/23/black-history-month-2022-day-23-ashleys-unity-tournament-series-1992/",
+         "pubDate" : "Thu, 24 Feb 2022 01:08:35 +0000",
+         "title" : "Black History Month 2022-Day 23: Ashley's Unity Tournament Series (1992)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1594",
+         "pubDate" : "Thu, 24 Feb 2022 00:23:05 +0000",
+         "title" : "Three Russians power into semis of Airthings Masters"
+      },
+      {
          "description" : "After missing two straight weeks during his victory in the first part of the FIDE Grand Prix, GM Hikaru Nakamura returned to Arena Kings for the fourth week of season nine and took home the victory in the finals over GM Baadur Jobava. The semifina...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022/",
          "pubDate" : "Wed, 23 Feb 2022 17:17:32 +0000",
          "title" : "MPL 58th Senior National Chess Championship-2022"
-      },
-      {
-         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
-         "pubDate" : "Wed, 23 Feb 2022 17:45:00 +0100",
-         "title" : "Airthings Masters QF - Games and results"
       },
       {
          "description" : "GM&#38;nbsp;Baadur Jobava and GM Daniel Naroditsky, some of the earliest winners of Titled Tuesday back in 2014, won Titled Tuesday again on February 22, 2022. Neither player needed the tiebreak system as Jobava had the best score of the day with 10/1...",
@@ -146,7 +162,7 @@ news_feed (
          "title" : "Proud of Praggnanandhaa's accomplishment of winning against Carlsen: PM Narendra Modi"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Katerina Nemcova gives a chess lecture all about pawn power. The mysterious masked Katerina... 2022.02.22<br /> Anatoly Karpov vs Svetozar Gligoric, San Antonio (1972)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1067695\">https://www.chessgames.com/perl/chessgame?gid=1067695</a><br /> Leif Erlend Johannessen vs Hikaru Nakamura, GMA (2002)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1248937\">https://www.chessgames.com/perl/chessgame?gid=1248937</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-l",
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Katerina Nemcova gives a chess lecture all about pawn power. The mysterious masked Katerina begins by asking to simply identify what it is that pawns do. 2022.02.22<br /> Anatoly Karpov vs Svetozar Gligoric, San Antonio (1972)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1067695\">https://www.chessgames.com/perl/chessgame?gid=1067695</a><br /> Leif Erlend Johannessen vs Hikaru Nakamura, GMA (2002)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1248937\">https://www.chessgames.com/perl/chessgame?gid=1248937</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">C",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/pawns-%E2%99%9F-grandmasters-choice-wgm-katerina-nemcova",
@@ -170,7 +186,7 @@ news_feed (
          "title" : "R Praggnanandhaa finishes 11th in Airthings Masters, misses out on quarterfinals"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby will surprise you with the a3 Nimzo, so you can surprise your next chess opponent! The mysterious masked Caleb... </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/surprise-its-a3-nimzo-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DRMwhq0kjbE.jpg?itok=Gnm5p0qB\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby will surprise you with the 4.a3 Nimzo, so you can surprise your next chess opponent! The mysterious masked Caleb shows what to do instead of 4.f3. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/surprise-its-a3-nimzo-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DRMwhq0kjbE.jpg?itok=Gnm5p0qB\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/surprise-its-a3-nimzo-road-2000-nm-caleb-denby",
@@ -210,7 +226,7 @@ news_feed (
          "title" : "Kosteniuk halts losing streak as Nepomniachtchi dominates"
       },
       {
-         "description" : " Share!6 William E. Griffin on page 101 of The Rice Gambit by H. Keidanz (New York, 1905). William Earnest Griffin is a chess player you may not know, but one whose words will make an indelible impression. According to the February 1905 issue of the American Chess Bulletin (page 34), Griffin was Born in the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/22/black-history-month-2022-day-22-william-earnest-griffin/\">Black History Month 2022-Day 22: William Earnest Griffin</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " William E. Griffin on page 101 of The Rice Gambit by H. Keidanz (New York, 1905). William Earnest Griffin is a chess player you may not know, but one whose words will make an indelible impression. According to the February 1905 issue of the American Chess Bulletin (page 34), Griffin was Born in the backwoods [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/22/black-history-month-2022-day-22-william-earnest-griffin/\">Black History Month 2022-Day 22: William Earnest Griffin</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/22/black-history-month-2022-day-22-william-earnest-griffin/",
@@ -1368,14 +1384,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/india-to-host-three-gm-open-tournaments-at-guwahati-delhi-and-gujarat-in-march-2022",
          "pubDate" : "Mon, 14 Feb 2022 16:00:00 +0100",
          "title" : "India to host three GM Open tournaments at Guwahati, Delhi and Gujarat in March 2022"
-      },
-      {
-         "description" : " Raphaelle DelahayePhotothèque � Europe-Echecs France has a storied history and it one of the most iconic countries for chess. It is well-known that François-Andr&eacute; Danican Philidor was one of the first chess pioneers and his Analyse du jeu des Échecs was a standard chess guide for more than a century. Even military commander Napoleon Bonaparte [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/14/black-history-month-2022-day-14-raphaelle-bujisho/\">Black History Month 2022-Day 14: Raphaelle Bujisho</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/14/black-history-month-2022-day-14-raphaelle-bujisho/",
-         "pubDate" : "Mon, 14 Feb 2022 14:23:00 +0000",
-         "title" : "Black History Month 2022-Day 14: Raphaelle Bujisho"
       },
       {
          "description" : "Caf&eacute; Museum was the meeting place for Viennese chess players in the eighties. Photographer Erich Reismann was a regular guest. Now his reportage from that time is on display at the caf&eacute;, where after a long time chess players are welcome again. Stefan L&ouml;ffler tells us more. | Photos: Erich Reismann (unless stated otherwise)",
