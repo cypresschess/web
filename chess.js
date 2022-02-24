@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has revealed it will hold an extraordinary meeting to \"review\" all planned official chess events in Russia in response to Russia's invasion of Ukraine. It comes after the world governing body came under intense pressure to strip Russia of its flagship Chess Olympiad - the chess equivalent of the FIFA World Cup - which is due to be held in Moscow this July-August.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-to-review-moscow-olympiad-as-pressure-grow-to-act-on-ukraine-invasion",
+         "pubDate" : "Thu, 24 Feb 2022 18:31:01 +0000",
+         "title" : "FIDE under pressure to strip Russia of Chess Olympiad"
+      },
+      {
+         "description" : "The second week of the Collegiate Chess League wrapped up last weekend, and many matches were rescheduled due to numerous colleges traveling to play over-the-board in the regional US Amateur Team events that were also taking place. Many CCL teams ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-round-2",
+         "pubDate" : "Thu, 24 Feb 2022 10:15:00 -0800",
+         "title" : "Collegiate Chess League Season 4 Round 2"
+      },
+      {
+         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
+         "pubDate" : "Thu, 24 Feb 2022 17:45:00 +0100",
+         "title" : "Airthings Masters SF - Live!"
+      },
+      {
          "description" : "In this article, statistician Bruno Wiesend reports on a scientific controversy about a study on the \"Influence of intelligence and practice on the development of skills\". The author considers the results of the study to be wrong due to methodological errors. | Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -170,7 +194,7 @@ news_feed (
          "title" : "Throwback Tuesday? Jobava, Naroditsky Win 2/22/22 Titled Tuesday"
       },
       {
-         "description" : "After two years in post, IA Alan Atkinson (far left) is looking to move on from the ECF Manager of Arbiters role. We would like...",
+         "description" : "After two years in post, IA Alan Atkinson (far left) is looking to move on from the ECF Manager of Arbiters role. We would like to thank Alan for his...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/new-ecf-manager-of-arbiters-2/",
@@ -466,7 +490,7 @@ news_feed (
          "title" : "Puma partners with Champions Tour"
       },
       {
-         "description" : "The ECF's former Membership Secretary Christine Adams, who retired a while ago, has agreed to help out on Mondays with email and telephone enquiries concerning...",
+         "description" : "The ECF's former Membership Secretary Christine Adams, who retired a while ago, has agreed to help out on Mondays with email and telephone enquiries concerning ECF membership. The ECF office...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/membership-mondays/",
@@ -514,7 +538,7 @@ news_feed (
          "title" : "Praggnanandhaa, 16, becomes only third Indian to beat Carlsen in stunning upset"
       },
       {
-         "description" : "We are a research group at the University of Edinburgh conducting a study on chess knowledge and memory in children. If you have a child...",
+         "description" : "We are a research group at the University of Edinburgh conducting a study on chess knowledge and memory in children. If you have a child between the ages of eight...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/university-of-edinburgh-chess-study-attn-parents/",
@@ -538,7 +562,7 @@ news_feed (
          "title" : "European Women's Chess Gala - 26 & 27 February"
       },
       {
-         "description" : "&#8212; from Alan Burke Stan was very well known by many of our long-serving members for his duties both for the Manchester Chess Federation as...",
+         "description" : "&#8212; from Alan Burke Stan was very well known by many of our long-serving members for his duties both for the Manchester Chess Federation as well as for the ECF...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/rip-stan-goodall/",
@@ -546,7 +570,7 @@ news_feed (
          "title" : "RIP Stan Goodall"
       },
       {
-         "description" : "Nigel Crucefix 1963-2022 It is with immense sadness that Trowbridge Chess Club shares the news of the sudden death of Nigel Crucefix, aged 58. Nigel...",
+         "description" : "Nigel Crucefix 1963-2022 It is with immense sadness that Trowbridge Chess Club shares the news of the sudden death of Nigel Crucefix, aged 58. Nigel joined the Bradford-on-Avon Club (as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/rip-nigel-crucefix/",
@@ -1074,7 +1098,7 @@ news_feed (
          "title" : "Black History Month 2022-Day 16: Pan-African Chess"
       },
       {
-         "description" : "Chess &#38; Bridge have announced there will be an England v Sweden Challenge Match between Grandmaster David Howell (England) and Grandmaster Nils Grandelius (Sweden) in...",
+         "description" : "Chess &#38; Bridge have announced there will be an England v Sweden Challenge Match between Grandmaster David Howell (England) and Grandmaster Nils Grandelius (Sweden) in London this March. The event...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/england-v-sweden-challenge-match/",
@@ -1314,7 +1338,7 @@ news_feed (
          "title" : "Need sure points? Two Knights Defence, Traxler Wilkes-Barre Variation Edition"
       },
       {
-         "description" : "For the first time since 2013, we have two WIM Invitational Women's Norm tournaments in London on 7th-11th April 2022. ECF Women's Norm Event 2022...",
+         "description" : "For the first time since 2013, we have two WIM Invitational Women's Norm tournaments in London on 7th-11th April 2022. ECF Women's Norm Event 2022 organised by Agnieszka Milewska, the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/she-plays-to-win/",
@@ -1642,14 +1666,6 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Berlin Group Tiebreaks: Dominguez, Rapport Qualify With Swift Victories"
       },
       {
-         "description" : "Wesley So's hopes of reaching the 2022 Candidates Tournament suffered a heavy blow as he lost his tiebreak against Leinier Dominguez, who now plays Levon Aronian in the semi-finals of the Berlin FIDE Grand Prix. Leinier had lost to Wesley in their classical game, and it was the same story in the other tiebreak. Richard Rapport lost to Radek Wojtaszek in the first round but bounced back to win the tiebreak and set up a semi-final clash against Hikaru Nakamura. Richard is the only non-US player remaining in the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-7-so-knocked-out-as-dominguez-rapport-advance",
-         "pubDate" : "Fri, 11 Feb 2022 21:21:53 +0000",
-         "title" : "Berlin Grand Prix 7: So out as Dominguez & Rapport advance"
-      },
-      {
          "description" : "The two players who won their round-6 games to force tiebreaks in their respective groups managed to also win their 2-game rapid matches on Friday to reach the semifinals of the FIDE Grand Prix in Berlin. Leinier Dominguez knocked out Wesley So and will face an in-form Levon Aronian, while Rapport eliminated Radoslaw Wojtaszek and thus gained the right to face Hikaru Nakamura in semis. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1760,14 +1776,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-one/",
          "pubDate" : "Fri, 11 Feb 2022 07:02:26 +0000",
          "title" : "A Foundation for Beginners Fifty One"
-      },
-      {
-         "description" : "The last round of the group stage of the 2022 FIDE Grand Prix first leg produced high-voltage drama in Berlin with GM Hikaru Nakamura joining GM Levon Aronian for the semifinal lineup after winning Group A and Group C respectively. It was a day of...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r6",
-         "pubDate" : "Thu, 10 Feb 2022 17:17:00 -0800",
-         "title" : "2022 FIDE Grand Prix Berlin R6: Nakamura Reaches Semifinals On Day Of Nerves"
       },
       {
          "description" : "",
@@ -1938,7 +1946,7 @@ news_feed (
          "title" : "Regulations : Triple International Grandmasters Tournaments in March 2022"
       },
       {
-         "description" : "I am pleased to invite you on behalf of the IPCA to participate in the 21st IPCA World Individual Chess Championship for the Physically Disabled...",
+         "description" : "I am pleased to invite you on behalf of the IPCA to participate in the 21st IPCA World Individual Chess Championship for the Physically Disabled 2022 in Ashdod, Israel from...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ipca-world-individual-chess-championship/",
@@ -1992,14 +2000,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-181-with-mihail-marin-endgame-highlights-of-wijk-2022",
          "pubDate" : "Mon, 07 Feb 2022 19:00:00 +0100",
          "title" : "Karsten M&uuml;ller's Endgame Magic Show #181 - with Mihail Marin: Endgame highlights of Wijk 2022"
-      },
-      {
-         "description" : "What is the Hippopotamus system of defence? The idea is that, at the beginning of the game, Black develops within his own first three ranks. He constructs a solid, flexible and hopefully stable position, awaiting events. At the right moment, he will strike back! The Hippopotamus was given the name by an eccentric English amateur player JC Thompson, back in the 1950's. It seems as good a name as any. Given the right conditions, Black will emerge from the chessboard swamp and crush all before them.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-the-hippopotamus-system-of-defence",
-         "pubDate" : "Mon, 07 Feb 2022 16:32:39 +0100",
-         "title" : "New: The Hippopotamus system of defence"
       },
       {
          "description" : " It has been a while since I have featured Lev Aronian on these pages, but the following game from the current FIDE Grand Prix caught my eye. It wasn't so much the effortless way he gained a winning advantage against Vincent Keymer, but how early in the game he did so. I would say he was clearly winning by move 18, but more so, was completely winning at move 24. I suspect Aronian new he was winning, and Keymer probably knew he was completely lost. Probably the only strong players who may have underestimated Aronian's advantage would have been various chess engines, who gave Aronian a pawn advantage at best. To a human, control of the 7th rank supported by the bishop on d6 was an 'eternal' ad",
@@ -2098,7 +2098,7 @@ news_feed (
          "title" : "Aronian leads the pack in the Berlin Grand Prix"
       },
       {
-         "description" : "The ECF is running a second Endgame Challenge with IM Lorin D'Costa (above right) and GM Keith Arkell (above left). The challenge will follow a...",
+         "description" : "The ECF is running a second Endgame Challenge with IM Lorin D'Costa (above right) and GM Keith Arkell (above left). The challenge will follow a similar format to the December...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-endgame-challenge-two-15-16-february/",
@@ -2122,7 +2122,7 @@ news_feed (
          "title" : "NATIONAL CHESS CHAMPIONSHIPS 2021-22"
       },
       {
-         "description" : "We are inviting nominations for the BCET Awards 2022. With over the board chess resuming in 2021 after a break of nearly 18 months we...",
+         "description" : "We are inviting nominations for the BCET Awards 2022. With over the board chess resuming in 2021 after a break of nearly 18 months we will be interested to hear...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2144,22 +2144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1557",
          "pubDate" : "Thu, 03 Feb 2022 20:50:14 +0000",
          "title" : "2022 FIDE Grand Prix kicks off in Berlin"
-      },
-      {
-         "description" : " The world champion won Tata Steel Wijk aan Zee for a record eighth time and felt 'really good' about his play Magnus Carlsen was a class apart from his rivals last week at Tata Steel Wijk aan Zee, the \"chess Wimbledon\". The No 1 capped a dominant performance with a virtuoso final game against an old rival, an unbeaten 9.5/13 total, and a record eighth victory. He has finished first at Wijk on more than half his appearances there, and the organisers have promised a gold-plated trophy if he makes it to 10 victories at the small Dutch North Sea resort. Norway's world champion, 31, said that he felt \"really good about my play. To some extent I took the obvious chances and left the more difficul",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/feb/03/chess-magnus-carlsen-wijk-aan-zee-leonard-barden",
-         "pubDate" : "Thu, 03 Feb 2022 18:03:06 +0000",
-         "title" : "Chess: Carlsen a class apart as world No 1 dominates at 'chess Wimbledon'"
-      },
-      {
-         "description" : " The first leg of three FIDE Grand Prix takes place in Berlin 4th to 17th February. Players will compete in two out of the three legs and the best two combined results will qualify for the Candidates. There are four pools of four players. The winners of each pool meet in a final KO phase to decide the winner. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-prix-leg-1-berlin-2022",
-         "pubDate" : "Thu, 3 Feb 2022 21:56:00 +0400",
-         "title" : "FIDE Grand Prix Leg 1 Berlin 2022 - "
       }
    ]
 }
