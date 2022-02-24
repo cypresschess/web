@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After missing two straight weeks during his victory in the first part of the FIDE Grand Prix, GM Hikaru Nakamura returned to Arena Kings for the fourth week of season nine and took home the victory in the finals over GM Baadur Jobava. The semifina...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-arena-kings-season-9-week-4-nakamura-wins",
+         "pubDate" : "Wed, 23 Feb 2022 16:20:00 -0800",
+         "title" : "Nakamura Makes Triumphant Return In Arena Kings Season 9 (Week 4)"
+      },
+      {
+         "description" : "GMs Magnus Carlsen, Ian Nepomniachtchi, Vladislav Artemiev, and Andrey Esipenko won their respective matches to move on to the semifinals. How to watch? The games of the Airthings Masters knockouts can be found here as part of our live events p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-5",
+         "pubDate" : "Wed, 23 Feb 2022 15:46:00 -0800",
+         "title" : "Airthings Masters Day 5: Nepo, Carlsen, Artemiev, Esipenko Win"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1593",
+         "pubDate" : "Wed, 23 Feb 2022 23:07:04 +0000",
+         "title" : "FIDE delegation visits Kakuma Refugee Camp in support of Chess for Protection project"
+      },
+      {
+         "description" : "Going into the final round, Jaime Santos was the sole leader at the Ibero-American Championship in Mexico City. The Spaniard fell at the last hurdle, though, as he was defeated by top seed Jorge Cori. Sandro Mareco (pictured) profited from this result, as he clinched tournament victory by beating Omar Almeida with the white pieces. | Photo: Club Obras / La Naci&oacute;n",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ibero-american-championsip-2022-mexico",
+         "pubDate" : "Wed, 23 Feb 2022 22:10:00 +0100",
+         "title" : "Sandro Mareco wins Ibero-American Championship in Mexico"
+      },
+      {
          "description" : "In his \"Game of the Week\" show, Merijn van Delft looks at Ian Nepomniachtchi's win over Magnus Carlsen from the Airthings Masters. Playing black, Nepo outplayed the world champion on his way to winning the preliminary stage of the online tournament. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -31,7 +63,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
          "pubDate" : "Wed, 23 Feb 2022 17:45:00 +0100",
-         "title" : "Airthings Masters QF - Live!"
+         "title" : "Airthings Masters QF - Games and results"
       },
       {
          "description" : "GM&#38;nbsp;Baadur Jobava and GM Daniel Naroditsky, some of the earliest winners of Titled Tuesday back in 2014, won Titled Tuesday again on February 22, 2022. Neither player needed the tiebreak system as Jobava had the best score of the day with 10/1...",
@@ -50,14 +82,6 @@ news_feed (
          "title" : "New ECF Manager of Arbiters"
       },
       {
-         "description" : "Underdogs Vincent Keymer and Eric Hansen qualified to the knockout stage of the Airthings Masters on Tuesday. On the other hand, the likes of Anish Giri, Levon Aronian and Shakhriyar Mamedyarov did not make the cut. Ian Nepomniachtchi was the clear winner of the round-robin with a commanding score of 29/45 points.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d4",
-         "pubDate" : "Wed, 23 Feb 2022 16:05:00 +0100",
-         "title" : "Airthings Masters: Keymer and Hansen make the cut"
-      },
-      {
          "description" : " <p class=\"lead\">The <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> reached the quarterfinals with the Top8 players of the tour. Magnus Carlsen managed to save a spot despite his poor performance, while Nepomniachtchi was crowned the king of the prelim stage. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-02-23-at-3.57.30-PM.png\" width=\"2350\" height=\"1476\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Niki Riga / World Chess</div> </div> Russia's No.1 Ian Nepomniachtchi has had an excellent tour so far, scoring 29 points and moving to the quarterfinals with ease against the German GM Vincent Keymer. Keymer made quite ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -74,20 +98,28 @@ news_feed (
          "title" : "The Master Chess Web Show (2)"
       },
       {
+         "description" : "Svitlana's former coach taught her to solve chess studies frequently. The idea is bending the mind a little more than usual to find the solutions. Chess compositions normally have \"only moves\", or at least a very narrow path to crack the puzzle. We take a look at some beautiful brain-teasers.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-31",
+         "pubDate" : "Wed, 23 Feb 2022 14:30:00 +0100",
+         "title" : "Svitlana's Smart Moves - How to solve chess studies"
+      },
+      {
+         "description" : "Underdogs Vincent Keymer and Eric Hansen qualified to the knockout stage of the Airthings Masters on Tuesday. On the other hand, the likes of Anish Giri, Levon Aronian and Shakhriyar Mamedyarov did not make the cut. Ian Nepomniachtchi was the clear winner of the round-robin with a commanding score of 29/45 points.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d4",
+         "pubDate" : "Wed, 23 Feb 2022 14:25:00 +0100",
+         "title" : "Airthings Masters: Keymer and Hansen make the cut"
+      },
+      {
          "description" : " Mark Scully, sometime chess player, sometime lawyer, once wrote that in times long past, the earth consisted of at least 10,000 independent territories. This has now been reduced to around 195, give or take a few self declared/non recognised territories (eg <a href=\"https://en.wikipedia.org/wiki/Principality_of_Hutt_River\">Principality of Hutt River</a>) FIDE have slightly less member nations, although they have extended membership to a number of non-country federations The International Correspondence Chess Federation follow a similar model. However, with Correspondence Chess less constrained by travel, they also organise events for 'States and Regions'. A multi divisional championship of ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/02/regional-representation.html",
          "pubDate" : "Wed, 23 Feb 2022 13:18:00 +0000",
          "title" : "Regional Representation"
-      },
-      {
-         "description" : "Svitlana's former coach taught her to solve chess studies frequently. The idea is bending the mind a little more than usual to find the solutions. Chess compositions normally have \"only moves\", or at least a very narrow path to crack the puzzle. We take a look at some beautiful brain-teasers.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-31",
-         "pubDate" : "Wed, 23 Feb 2022 14:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - How to solve chess studies"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The former world champion <strong>Anatoly Karpov</strong> is among the 351 members of the Russian parliament who are <a href=\"https://www.euronews.com/my-europe/2022/02/22/eu-sanctions-351-russian-lawmakers-who-voted-to-recognise-ukraine-s-separatist-republics\">banned by the EU to travel and are subject to freezing their assets</a> as a sanction after voting for the recognition of the People Republics of Donetsk and Lugansk, which comes equal to annecting the cities in Eastern Ukraine into Russia. </div> ",
@@ -1722,22 +1754,6 @@ news_feed (
          "title" : "Berlin GP: Aronian qualifies with a round to spare"
       },
       {
-         "description" : "GM Levon Aronian won a tense tactical game with the black pieces against GM Vincent Keymer to reach 4/5 and qualify with a round to spare from Group C to the semifinals of the 2022 FIDE Grand Prix first leg in Berlin. Though GM Hikaru Nakamura won...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-r5",
-         "pubDate" : "Wed, 09 Feb 2022 15:33:00 -0800",
-         "title" : "2022 FIDE Grand Prix Berlin R5: Aronian Qualifies, Tense Last Group Round Awaits"
-      },
-      {
-         "description" : "A week after finishing in third place, IM Le Tuan Minh earned a victory in the second week of Arena Kings Season 9 on Wednesday. He defeated GM Vugar Rasulov in a close 3-2 final (+2 -1 =2). Semifinalists GM Oleksandr Bortnyk and GM Jose Martine...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arena-kings-season-9-week-2-le-tuan-minh-wins",
-         "pubDate" : "Wed, 09 Feb 2022 14:45:43 -0800",
-         "title" : "Le Tuan Minh Scores A Knockout In Arena Kings Season 9"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1976,14 +1992,6 @@ news_feed (
          "link" : "https://chessimprover.com/endgame-maestro/",
          "pubDate" : "Sun, 06 Feb 2022 11:06:18 +0000",
          "title" : "Endgame Maestro"
-      },
-      {
-         "description" : "The Grandmasters Dr. Karsten Mueller and Luis Engel have set a ball rolling in Germany with their latest Fritztrainer. GM Lars Bo Hansen designed the four-player model in 2005, and was perhaps ahead of his time. In the 5-part interview with Dr. Karsten Mueller, all four player types are discussed in detail. Today - The Reflector.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/player-types-the-reflector2",
-         "pubDate" : "Sun, 06 Feb 2022 12:00:00 +0100",
-         "title" : "Player Types - The Reflector"
       },
       {
          "description" : " Here is the publishers blurb from the rear cover : &#8220;A highly adventurous repertoire designed to meet 1 e4 with 1e5 and take the initiative! The main problem Black faces in answering 1 e4 with 1e5 is the plethora of opening systems available to White: the Ruy Lopez, Giuoco Piano, Scotch, Ponziani, King's Gambit, Vienna, <a href=\"http://britishchessnews.com/2022/02/06/a-disreputable-opening-repertoire/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">A Disreputable Opening Repertoire</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/02/06/a-disreputable-opening-repertoire/\">A Disreputable Opening Repert",
