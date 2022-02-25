@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It&#39;s GM Magnus Carlsen and GM Ian Nepomniachtchi who will renew their rivalry when they meet in the final match played over two days of competition. Both of these chess giants won their respective semifinal matches by a score of 2.5-0.5. How to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-6",
+         "pubDate" : "Thu, 24 Feb 2022 16:08:00 -0800",
+         "title" : "Airthings Masters Day 6: Nepo, Carlsen Meet Again In Finals"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1597",
+         "pubDate" : "Thu, 24 Feb 2022 22:04:23 +0000",
+         "title" : "Carlsen and Nepomniachtchi set up final"
+      },
+      {
          "description" : "FIDE has revealed it will hold an extraordinary meeting to \"review\" all planned official chess events in Russia in response to Russia's invasion of Ukraine. It comes after the world governing body came under intense pressure to strip Russia of its flagship Chess Olympiad - the chess equivalent of the FIFA World Cup - which is due to be held in Moscow this July-August.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -23,7 +39,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
          "pubDate" : "Thu, 24 Feb 2022 17:45:00 +0100",
-         "title" : "Airthings Masters SF - Live!"
+         "title" : "Airthings Masters SF - Games and results"
       },
       {
          "description" : "In this article, statistician Bruno Wiesend reports on a scientific controversy about a study on the \"Influence of intelligence and practice on the development of skills\". The author considers the results of the study to be wrong due to methodological errors. | Photo: Pixabay",
@@ -1690,14 +1706,6 @@ news_feed (
          "title" : "Semifinals set in FIDE Grand Prix: Aronian - Dominguez and Nakamura - Rapport"
       },
       {
-         "description" : "The Collegiate Chess League&#39;s fourth season is set to begin on February 12, 2022, and runs until the finals on May 21. Last season was our largest ever with over 1,000 players representing 160 teams from 80 schools from around the world. This se...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-spring-2022",
-         "pubDate" : "Fri, 11 Feb 2022 10:25:22 -0800",
-         "title" : "Collegiate Chess League Spring 2022: All The Information"
-      },
-      {
          "description" : "The incidents span more than ten years and at least 15 victims; issue is being investigated by Latvian police.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -2136,14 +2144,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/33206270/arjun-erigaisi-chess-newest-breakout-player?device=featurephone",
          "pubDate" : "Fri, 4 Feb 2022 01:05:16 -0500",
          "title" : "Arjun Erigaisi: Chess' newest breakout player"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1557",
-         "pubDate" : "Thu, 03 Feb 2022 20:50:14 +0000",
-         "title" : "2022 FIDE Grand Prix kicks off in Berlin"
       }
    ]
 }
