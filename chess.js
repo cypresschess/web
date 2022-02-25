@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kanpur (25 Feb 22) :- Bengaluru based R Parthasarathy held eleventh seed Grandmaster Sankalp Gupta of Maharashtra in the opening round of the MPL 58th Senior",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022-parthasarathy-holds-sankalp/",
+         "pubDate" : "Fri, 25 Feb 2022 12:14:45 +0000",
+         "title" : "MPL 58th Senior National Chess Championship-2022 : Parthasarathy holds Sankalp"
+      },
+      {
+         "description" : " As a consequence of the Russian invasion of The Ukraine, FIDE are looking at whether it is appropriate to hold any major chess events in Russia in the foreseeable future. A brief statement was released by FIDE on this matter, indicating that they plan to consult with the relevant commissions and federations. Already there has been a number of comments by leading players (and other chess identities) asking that the Moscow Olympiad either not take place, or be moved (which is less likely). A few have gone as far as to ask for the resignation of FIDE President Arkady Dvorkovich, based on his connections with the Russian government. At this stage Federations have not been asked for their opinio",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/2022-chess-olympiad-in-serious-doubt.html",
+         "pubDate" : "Fri, 25 Feb 2022 11:50:00 +0000",
+         "title" : "2022 Chess Olympiad in serious doubt"
+      },
+      {
+         "description" : "Did you solve the Sam Loyd problem? The key is the move you would least expect! A week ago we showed you a small collection of delightful problems from the January issue of CHESS Magazine. Today we give you the solutions, annotated by Graham Phythian. You can figure out all the variations with the help of the built-in engines in our replay app.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-magazine-quiz-2",
+         "pubDate" : "Fri, 25 Feb 2022 12:00:00 +0100",
+         "title" : "CHESS Magazine quiz"
+      },
+      {
+         "description" : "Magnus Carlsen and Ian Nepomniachtchi will revisit their World Championship match in Dubai after both players made it through to the Airthings Masters final with a game to spare. Magnus crushed Vladislav Artemiev with the white pieces, ground out a 102-move win with Black and eased into the final with a draw. Ian confessed \"I can't calculate any lines\" as he both survived and missed a win in the 1st game before going on to defeat Andrey Esipenko twice to reach the showdown with Magnus.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/airthings-masters-6-it-s-a-carlsen-nepo-rematch",
+         "pubDate" : "Fri, 25 Feb 2022 10:58:23 +0000",
+         "title" : "Airthings Masters 6: It's a Carlsen-Nepo rematch!"
+      },
+      {
+         "description" : " Two weeks ago, we looked at a position that will form the basis for creating a combination that set up a tactic called a skewer. A combination is simply a series of moves that allow you to create a tactical opportunity. Since the majority of tactics don't appear out of thin air, you need to <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-three/\">A Foundation for Beginners Fifty Three</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\"",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-three/",
+         "pubDate" : "Fri, 25 Feb 2022 08:58:33 +0000",
+         "title" : "A Foundation for Beginners Fifty Three"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89822546.cms\" />Alone in his apartment and every bit scared, former Indian national rapid chess champion Anwesh Upadhyaya is one among the several of his compatriots stuck in Ukraine amid a Russian invasion and is desperately hoping to be evacuated from the country which has been his home since 2012.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -34,7 +74,7 @@ news_feed (
          "title" : "LIVE GAMES : MPL 58TH SENIOR NATIONAL CHESS CHAMPIONSHIP-2022"
       },
       {
-         "description" : " Share! Frank Street became a National Master in June 1965 and in the same year, graced the cover of Chess life magazine. As a 21-year old Street had just won the U.S. Amateur Championship and would go on to win the club champion of the Washington Chess Divan, defeating fellow master, Kenneth Clayton. Street also [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/24/black-history-month-2022-day-24-frank-street/\">Black History Month 2022-Day 24: Frank Street</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!32 Frank Street became a National Master in June 1965 and in the same year, graced the cover of Chess life magazine. As a 20-year old Street had just won the U.S. Amateur Championship and would go on to win the club champion of the Washington Chess Divan, defeating fellow master, Kenneth Clayton. Street also [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/24/black-history-month-2022-day-24-frank-street/\">Black History Month 2022-Day 24: Frank Street</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/24/black-history-month-2022-day-24-frank-street/",
@@ -200,6 +240,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-5",
          "pubDate" : "Wed, 23 Feb 2022 15:46:00 -0800",
          "title" : "Airthings Masters Day 5: Nepo, Carlsen, Artemiev, Esipenko Win"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1593",
+         "pubDate" : "Wed, 23 Feb 2022 23:07:04 +0000",
+         "title" : "FIDE delegation visits Kakuma Refugee Camp in support of Chess for Protection project"
       },
       {
          "description" : "Going into the final round, Jaime Santos was the sole leader at the Ibero-American Championship in Mexico City. The Spaniard fell at the last hurdle, though, as he was defeated by top seed Jorge Cori. Sandro Mareco (pictured) profited from this result, as he clinched tournament victory by beating Omar Almeida with the white pieces. | Photo: Club Obras / La Naci&oacute;n",
@@ -1666,14 +1714,6 @@ news_feed (
          "title" : "FIDE Grand Prix: Aronian and Nakamura pull ahead"
       },
       {
-         "description" : "The Airthings Masters, the first event on the $1.6 million 2022 Meltwater Champions Chess Tour, kicks off one week today on Saturday 19th February at 18:00 CET. The pairings are out for the 4-day Prelims, with World Chess Champion Magnus Carlsen starting with games against four of his biggest current and future rivals, Vladislav Artemiev, Nodirbek Abdusattorov, Andrey Esipenko and Ian Nepomniachtchi.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/airthings-masters-pairings-tough-start-for-magnus",
-         "pubDate" : "Sat, 12 Feb 2022 13:13:17 +0000",
-         "title" : "Airthings Masters pairings: Tough start for Magnus"
-      },
-      {
          "description" : "The \"Lucky bag\" of ChessBase Magazine Extra has never been so extensively and diversely filled as in Extra #205! The new issue offers no less than 73 annotated games, including two tricky training exercises by GM Sasikiran. GM Kapnisis presents various opening ideas (\"Scotch advance\", \"Benoni strikes\", \"Petroff rook shifts\", \"English castling\"), plus analyses by Edouard, Krasenkow, Sumets and many more. However, Imre Hera's analysis of his game against his compatriot Zoltan Almasi from the Hungarian League - \"The brilliancy\" of this issue - is right at the top of the \"Lucky bag\". For his success against the higher-rated opponent, Hera employed a surprise in the popular London System: after 1",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2026,14 +2066,6 @@ news_feed (
          "title" : "Safety first"
       },
       {
-         "description" : "The well-known author and Grandmaster Mihail Marin is Karsten M&uuml;ller's guest in the Endgame Magic Show #181, and Mihail and Karsten look at highlights from the Tata Steel Tournament in Wijk aan Zee 2022. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-181-with-mihail-marin-endgame-highlights-of-wijk-2022",
-         "pubDate" : "Mon, 07 Feb 2022 19:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #181 - with Mihail Marin: Endgame highlights of Wijk 2022"
-      },
-      {
          "description" : " It has been a while since I have featured Lev Aronian on these pages, but the following game from the current FIDE Grand Prix caught my eye. It wasn't so much the effortless way he gained a winning advantage against Vincent Keymer, but how early in the game he did so. I would say he was clearly winning by move 18, but more so, was completely winning at move 24. I suspect Aronian new he was winning, and Keymer probably knew he was completely lost. Probably the only strong players who may have underestimated Aronian's advantage would have been various chess engines, who gave Aronian a pawn advantage at best. To a human, control of the 7th rank supported by the bishop on d6 was an 'eternal' ad",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2058,14 +2090,6 @@ news_feed (
          "title" : "FIDE Grand Prix: Levon elevates his game in Berlin"
       },
       {
-         "description" : " Thanks to my Richmond clubmate Andrew Hebron for sending me a game he played last summer in the British Senior Online Championship, where he was up against GM Keith Arkell, rated more than 400 points above him. Andrew played excellent, solid and sensible chess to reach a double rook ending, but Keith, of course, is <a href=\"https://chessimprover.com/endgame-maestro/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Endgame Maestro\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/endgame-maestro/\">Endgame Maestro</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/endgame-maestro/",
-         "pubDate" : "Sun, 06 Feb 2022 11:06:18 +0000",
-         "title" : "Endgame Maestro"
-      },
-      {
          "description" : " Here is the publishers blurb from the rear cover : &#8220;A highly adventurous repertoire designed to meet 1 e4 with 1e5 and take the initiative! The main problem Black faces in answering 1 e4 with 1e5 is the plethora of opening systems available to White: the Ruy Lopez, Giuoco Piano, Scotch, Ponziani, King's Gambit, Vienna, <a href=\"http://britishchessnews.com/2022/02/06/a-disreputable-opening-repertoire/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">A Disreputable Opening Repertoire</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/02/06/a-disreputable-opening-repertoire/\">A Disreputable Opening Repert",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2088,14 +2112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1559",
          "pubDate" : "Sat, 05 Feb 2022 20:42:06 +0000",
          "title" : "Levan Pantsulaia wins 81st Georgian Championship"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, I congratulate all the participants and State Associations for their overwhelming support for the successful completion of the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/results-national-arbiter-examination-under-chess-for-everyone-project/",
-         "pubDate" : "Sat, 05 Feb 2022 11:10:06 +0000",
-         "title" : "Results : National Arbiter Examination under Chess for Everyone project"
       },
       {
          "description" : "Recent parallels in the worlds of physical and mental sport have raised some interesting questions. Global opinion is divided on the problems of Novak Djokovic's ejection by the government, from the Australian Tennis Open Tournament. Indeed, the eventual victory in that event of Rafael Nadal, who has now moved into the lead in terms of []",
@@ -2136,14 +2152,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/humble-bundle.html",
          "pubDate" : "Fri, 04 Feb 2022 12:34:00 +0000",
          "title" : "Humble Bundle"
-      },
-      {
-         "description" : "We are inviting nominations for the BCET Awards 2022. With over the board chess resuming in 2021 after a break of nearly 18 months we will be interested to hear...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
-         "pubDate" : "Fri, 04 Feb 2022 10:10:08 +0000",
-         "title" : "BCET Awards 2022"
       }
    ]
 }
