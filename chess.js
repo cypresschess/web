@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Chess Olympiad, scheduled for July 26-August 9, won&#39;t take place in Russia. This was announced by FIDE following Russia&#39;s invasion in Ukraine. Note that you can find Chess.com&#39;s stance on the issue here. This year&#39;s Olympiad was suppo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-olympiad-not-in-russia",
+         "pubDate" : "Fri, 25 Feb 2022 08:10:00 -0800",
+         "title" : "FIDE Olympiad Won't Take Place In Russia; Ukrainian Federation Asks For Russian Ban"
+      },
+      {
+         "description" : "Trent's Tactics is back, and the timing couldn't be more strange. Lawrence and Arne talk about the current events in the Ukraine, and although the tactics work out brilliantly, the progress in the training section fails miserably. Most probably because there are other things on the host's minds. Nonetheless, the tactics continue and make you think of something different for a brief moment.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-14",
+         "pubDate" : "Fri, 25 Feb 2022 17:00:00 +0100",
+         "title" : "Trent's Tactics - An uncomfortable situation"
+      },
+      {
+         "description" : "The world governing body decided in an extraordinary meeting today to find a new host for the event following Russia's invasion of Ukraine. In doing so, FIDE follows Uefa moving the Champions League final to Paris and the FIA stripping Russia of its Formula 1 Grand Prix.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-strips-russia-of-showpiece-chess-olympiad",
+         "pubDate" : "Fri, 25 Feb 2022 15:20:19 +0000",
+         "title" : "FIDE strips Russia of showpiece Chess Olympiad"
+      },
+      {
+         "description" : "Tata Steel 2022: analysis from Duda, Giri, Grandelius, Mamedyarov, Praggnanandhaa, Shankland, Erigaisi and Vogel. Peter Heine Nielsen and Dorian Rogozenco (video) take a close look at two Catalan wins by the World Champion and tournament winner. With CBM experts you see more: videos by King, Knaak, Marin, M&uuml;ller, Reeh, Ris, Rogozenco and Werle - total playing time over 5 hours! Plus eleven opening articles with recommendations for your repertoire, e.g. \"Steamrolling the Reti\" (1.Nf3 d5 2.c4 d4 3.b4 g5!?), \"A versatile Ruy Lopez\" (1. e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 Part I) or \"London queen sortie\" (1.d4 d5 2.Nf3 Nf6 3.Bf4 c5 4.e3 Nc6 5.Nbd2 Qb6 6.dxc5 Qxb2). Last but not least: The \"Special\" o",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-206-the-best-of-tata-steel-2022-special-on-levon-aronian-steamroller-against-reti-and-much-more",
+         "pubDate" : "Fri, 25 Feb 2022 16:00:00 +0100",
+         "title" : "CBM #206: The best of Tata Steel 2022, \"Special\" on Levon Aronian, \"Steamroller against Reti\" and much more"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/b8b0f89e-40c2-4809-a84f-7424040282a9/Surface.final2.jpg\" data-image-dimensions=\"522x262\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6218ea65fc2f1c0dd65187db\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/b8b0f89e-40c2-4809-a84f-7424040282a9/Surface.final2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Me, Matt Fletcher and NM Gopal Menon (pictured clockwise) </figcaption> </figure> <p class=\"\"><a href=\"https://www.perpetualchess",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/2/25/book-recap-24-",
+         "pubDate" : "Fri, 25 Feb 2022 14:43:45 +0000",
+         "title" : "Book Recap #24- Discussing GM Jan Markos' Under the Surface with NM Gopal Menon and Matt Fletcher"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1598",
+         "pubDate" : "Fri, 25 Feb 2022 14:12:45 +0000",
+         "title" : "44th Chess Olympiad and FIDE Congress will not take place in Russia"
+      },
+      {
+         "description" : " <p class=\"lead\">The <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> finals are about to start with the World Champion Magnus Carlsen and the 2021 Challenger Ian Nepomniachtchi facing each other. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51737194061_db548f15d1_c.jpg\" width=\"799\" height=\"533\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen / FIDE</div> </div> Tour's semi-finals kicked off with a numb vibe after Russia's invasion of Ukraine overnight. The - so far - leader of the tour, Ian Nepomniachtchi, along with Andrey Esipenko and Vladislav Artemiev expressed their desire to continue in the tournament, but they were b",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-2021-world-championship-match-on-replay-but-faster/",
+         "pubDate" : "Fri, 25 Feb 2022 14:05:14 +0000",
+         "title" : "The 2021 World Championship Match on replay but&hellip;faster!"
+      },
+      {
+         "description" : "There are grandmasters and grandmasters. But there is only one Averbakh. This month he turned 100 and set a record in longevity. He is the oldest grandmaster in chess history. The other day ChessBase paid him a tribute and accolades are still pouring in from the chess world. Not many are aware that he has written his autobiography. Our columnist takes a look. The first part of this series tells us how it all began. | Photo Credit: Chess Federation of Russia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/averbakh-on-averbakh-how-it-all-began",
+         "pubDate" : "Fri, 25 Feb 2022 14:00:00 +0100",
+         "title" : "Averbakh on Averbakh: How it all began"
+      },
+      {
          "description" : "Kanpur (25 Feb 22) :- Bengaluru based R Parthasarathy held eleventh seed Grandmaster Sankalp Gupta of Maharashtra in the opening round of the MPL 58th Senior",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -96,6 +160,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-6",
          "pubDate" : "Thu, 24 Feb 2022 16:08:00 -0800",
          "title" : "Airthings Masters Day 6: Nepo, Carlsen Meet Again In Finals"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1593",
+         "pubDate" : "Thu, 24 Feb 2022 23:07:04 +0000",
+         "title" : "FIDE delegation visits Kakuma Refugee Camp in support of Chess for Protection project"
       },
       {
          "description" : "",
@@ -240,14 +312,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-5",
          "pubDate" : "Wed, 23 Feb 2022 15:46:00 -0800",
          "title" : "Airthings Masters Day 5: Nepo, Carlsen, Artemiev, Esipenko Win"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1593",
-         "pubDate" : "Wed, 23 Feb 2022 23:07:04 +0000",
-         "title" : "FIDE delegation visits Kakuma Refugee Camp in support of Chess for Protection project"
       },
       {
          "description" : "Going into the final round, Jaime Santos was the sole leader at the Ibero-American Championship in Mexico City. The Spaniard fell at the last hurdle, though, as he was defeated by top seed Jorge Cori. Sandro Mareco (pictured) profited from this result, as he clinched tournament victory by beating Omar Almeida with the white pieces. | Photo: Club Obras / La Naci&oacute;n",
@@ -1554,14 +1618,6 @@ news_feed (
          "title" : "Trillions of Chess Games Can Be Converted to Beautiful NFTs on Algorand Blockchain"
       },
       {
-         "description" : " <p class=\"lead\">As soon as elite chess grandmasters fighting for the right to challenge the World Champion finish their games during the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix</a> in Berlin, the positions on the boards (called FENs in chess-speak) are fed into a <a href=\"https://worldchess.com/nft\">complicated AI-algorithm</a> that turns the data from each game into a unique chess piece. An exhibition of the unique art generated from chess positions was held in Berlin's Circle Culture Gallery in Prenzlauer Berg. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/5D23A2C4-EFFF-4DED-BBD4-D34FB88A21CD.jpeg\" width=\"1600\" height=\"1067\" alt",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-nfts-exibited-in-berlins-art-gallery/",
-         "pubDate" : "Mon, 14 Feb 2022 20:22:50 +0000",
-         "title" : "FIDE Grand Prix NFTs Exibited In Berlin's Art Gallery"
-      },
-      {
          "description" : "In the Endgame Magic Show #182 Karsten M&uuml;ller continues to present endgame highlights from the Tata Steel Tournament 2022 in Wijk aan Zee. Among these highlights is a fascinating and instructive rook ending that allows you to test your rook endgame skills. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1666,14 +1722,6 @@ news_feed (
          "title" : "Understanding before Moving 66: Prophylaxis (2)"
       },
       {
-         "description" : "Hikaru Nakamura and Levon Aronian both have one foot in the Berlin FIDE Grand Prix final after winning dramatic games with the white pieces on Saturday, leaving Richard Rapport and Leinier Dominguez needing to hit back on demand to force tiebreaks. Hikaru said \"you only live once\" after going for an exchange sacrifice and ultimately overcoming Richard's resistance to win in 71 moves. Levon surprised Leinier in the opening and was winning in 21 moves, though there was a wobble before he went on to convert his advantage.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-sf-1-nakamura-aronian-strike",
-         "pubDate" : "Sun, 13 Feb 2022 09:58:07 +0000",
-         "title" : "Berlin Grand Prix SF 1: Nakamura & Aronian strike"
-      },
-      {
          "description" : " Yuri Averbakh, the world's oldest grandmaster, was born 100 years ago, on 8 February 1922, making him the first grandmaster to reach three figures. Averbakh was awarded the grandmaster title in 1952, and was a world championship candidate in 1953. He scored many tournament successes in the 1950s and 1960s, his solid style making him <a href=\"https://chessimprover.com/yuri-averbakh/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Yuri Averbakh\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/yuri-averbakh/\">Yuri Averbakh</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1752,14 +1800,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r7",
          "pubDate" : "Fri, 11 Feb 2022 20:15:00 +0100",
          "title" : "Berlin GP: Dominguez and Rapport win tiebreakers, reach semis"
-      },
-      {
-         "description" : "Speed-addicted Chess.com members have a lot of reasons to celebrate as the 2022 Bullet Chess Championship approaches. Top players will battle for their piece of the $100,000 prize fund, with the qualifiers starting on February 21. This year&#39;s pr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-bullet-chess-championship-2022",
-         "pubDate" : "Fri, 11 Feb 2022 10:58:00 -0800",
-         "title" : "Chess.com Announces The 2022 Bullet Chess Championship"
       },
       {
          "description" : "",
@@ -1994,14 +2034,6 @@ news_feed (
          "title" : "EP 265- GM Simon Williams (aka the Ginger GM) returns"
       },
       {
-         "description" : "The pair of bishops can be a powerful weapon. If you know what to do with them. In the fifth installment of \"The Winning Academy\" Jan Markos shows what you should do to convert the advantage of having the pair of bishops into a winning position.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-5-what-to-do-with-a-bishop-pair",
-         "pubDate" : "Tue, 08 Feb 2022 14:00:00 +0100",
-         "title" : "The Winning Academy 5: What to do with a bishop pair?"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2048,22 +2080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1563",
          "pubDate" : "Mon, 07 Feb 2022 23:06:29 +0000",
          "title" : "FIDE Grand Prix: Aronian and So make their claim "
-      },
-      {
-         "description" : "Round 4 of the FIDE Grand Prix in Berlin saw three games ending decisively, each of them in a different group. Going into the rest day, three of the four pools have sole leaders - Hikaru Nakamura, Levon Aronian and Welsey So - while in pool B Radoslaw Wojtaszek and Vladimir Fedoseev (pictured) are sharing first place after the latter obtained a convincing victory over Grigoriy Oparin. | Photos. World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r4",
-         "pubDate" : "Mon, 07 Feb 2022 23:20:00 +0100",
-         "title" : "Berlin GP: So and Fedoseev score crucial wins"
-      },
-      {
-         "description" : "Passed pawns are particularly powerful in queen endgames because the mobility of the queen helps to support the advance of the pawns. However, king safety is also an issue. In the diagrammed position Black's a-pawn is far advanced, but Black's king has to find a way to hide from the enemy checks. How can Black protect her king, queen the pawn and win the game?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/safety-first",
-         "pubDate" : "Mon, 07 Feb 2022 23:00:00 +0100",
-         "title" : "Safety first"
       },
       {
          "description" : " It has been a while since I have featured Lev Aronian on these pages, but the following game from the current FIDE Grand Prix caught my eye. It wasn't so much the effortless way he gained a winning advantage against Vincent Keymer, but how early in the game he did so. I would say he was clearly winning by move 18, but more so, was completely winning at move 24. I suspect Aronian new he was winning, and Keymer probably knew he was completely lost. Probably the only strong players who may have underestimated Aronian's advantage would have been various chess engines, who gave Aronian a pawn advantage at best. To a human, control of the 7th rank supported by the bishop on d6 was an 'eternal' ad",
@@ -2136,22 +2152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1558",
          "pubDate" : "Fri, 04 Feb 2022 23:27:33 +0000",
          "title" : "Aronian leads the pack in the Berlin Grand Prix"
-      },
-      {
-         "description" : "The ECF is running a second Endgame Challenge with IM Lorin D'Costa (above right) and GM Keith Arkell (above left). The challenge will follow a similar format to the December...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-endgame-challenge-two-15-16-february/",
-         "pubDate" : "Fri, 04 Feb 2022 12:47:03 +0000",
-         "title" : "ECF Endgame Challenge Two - 15/16 February"
-      },
-      {
-         "description" : " I'm a big fan of <a href=\"https://www.humblebundle.com/\">Humble Bundle</a>, which is a fantastic source for eBooks and computer games. I have seen to odd chess item included in other bundles, but nothing above the 'Chess for Beginners' level. In case I have missed something, have they ever released a chess book, or chess software bundle? <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/humble-bundle.html",
-         "pubDate" : "Fri, 04 Feb 2022 12:34:00 +0000",
-         "title" : "Humble Bundle"
       }
    ]
 }
