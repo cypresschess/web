@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89822546.cms\" />Alone in his apartment and every bit scared, former Indian national rapid chess champion Anwesh Upadhyaya is one among the several of his compatriots stuck in Ukraine amid a Russian invasion and is desperately hoping to be evacuated from the country which has been his home since 2012.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-player-anwesh-upadhyaya-stuck-in-ukraine-says-situation-scary/articleshow/89822546.cms",
+         "pubDate" : "Fri, 25 Feb 2022 13:41:15 +0530",
+         "title" : "Indian chess player Anwesh stuck in Ukraine, says situation scary"
+      },
+      {
+         "description" : "Anwesh Upadhyaya, 30, is a resident doctor and International Master who moved to Ukraine to have better tournament opportunities.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33360098/indian-chess-im-ukraine-russia-war-alone-kyiv-apartment?device=featurephone",
+         "pubDate" : "Fri, 25 Feb 2022 01:55:56 -0500",
+         "title" : "'I don't know what to expect anymore': Alone in his Kyiv apartment, Indian chess IM faces uncertain future"
+      },
+      {
          "description" : "It has been a tough day for everyone. Vladimir Putin's appalling decision to invade Ukraine has shocked the world, and his actions have been condemned by most world leaders. At the Airthings Masters, three out of four semifinalists hail from Russia, with Ian Nepomniachtchi confessing after beating Andrey Esipenko, \"I can't think\". Nepo will face Magnus Carlsen in the finals of the online tournament, in a rematch of the recent contest for the World Championship title. | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -103,15 +119,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/this-whole-situation-is-really-sad-for-me-nepo-states-after-his/",
          "pubDate" : "Thu, 24 Feb 2022 13:36:04 +0000",
-         "title" : "\"This whole situation is really sad for me\" Nepo states after his advance to the Champions Chess Tour 2022 semifinals"
-      },
-      {
-         "description" : "Anwesh Upadhyaya, 30, is a resident doctor and International Master who moved to Ukraine to have better tournament opportunities.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33360098/indian-chess-im-ukraine-russia-war-alone-kyiv-apartment?device=featurephone",
-         "pubDate" : "Thu, 24 Feb 2022 08:31:45 -0500",
-         "title" : "'I don't know what to expect anymore': Alone in his Kyiv apartment, Indian chess IM faces uncertain future"
+         "title" : "Nepo: \"This whole situation is really sad for me\""
       },
       {
          "description" : "The 2022 Azerbaijani Championship took place in Nakhchivan on 4-18 February. Unlike previous events, this year's championship was held in two stages, with a 9-round Swiss tournament followed by a 4-player knockout. Mahammad Muradli beat Musratdin Iskandarov to grab his second national title. | Photos: Azebaijani Chess Federation",
@@ -2136,14 +2144,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
          "pubDate" : "Fri, 04 Feb 2022 10:10:08 +0000",
          "title" : "BCET Awards 2022"
-      },
-      {
-         "description" : "Eighteen-year-old Arjun has won two Tata Steel events in two continents, broken into the top 100, and is hoping to catch a sponsor's eye.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33206270/arjun-erigaisi-chess-newest-breakout-player?device=featurephone",
-         "pubDate" : "Fri, 4 Feb 2022 01:05:16 -0500",
-         "title" : "Arjun Erigaisi: Chess' newest breakout player"
       }
    ]
 }
