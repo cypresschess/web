@@ -2,7 +2,55 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 2022 Chess Olympiad, scheduled for July 26-August 9, won&#39;t take place in Russia. This was announced by FIDE following Russia&#39;s invasion in Ukraine. Note that you can find Chess.com&#39;s stance on the issue here. This year&#39;s Olympiad was suppo...",
+         "description" : "The International Chess Federation has announced today its decision that the 44th Chess Olympiad, one of its flagship events, will not take place in Russia. This championship, in which teams from approximately 190 countries compete for two weeks, was supposed to take place in Moscow from July 26 July to August 8. FIDE press release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/breaking-news-2022-chess-olympiad-to-be-moved-from-moscow",
+         "pubDate" : "Fri, 25 Feb 2022 19:57:37 +0100",
+         "title" : "Breaking news: 2022 Chess Olympiad to be moved from Moscow"
+      },
+      {
+         "description" : "In his Power Play Show, GM Daniel King looks at developments in opening variations that particularly interest him: the Modern Variation of the King's Gambit where Nepomniachtchi continues to score well; and Aronian's handling of the Caro-Kann Exchange Variation. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-king-s-gambit-lives",
+         "pubDate" : "Fri, 25 Feb 2022 19:56:56 +0100",
+         "title" : "Daniel King's Power Play Show: The King's Gambit lives again"
+      },
+      {
+         "description" : "MPL 47th NATIONAL WOMEN CHESS CHAMPIONSHIP-2022. MPL 47th National Women Chess Championship was inaugurated by the chief guest Prof.Deepak Kumar Behera,Vice-Chancellor,KIIS University in the presence",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/iinauguration-report-of-mpl-47th-national-women-chess-championship-2022/",
+         "pubDate" : "Fri, 25 Feb 2022 17:15:39 +0000",
+         "title" : "Inauguration report of MPL 47th National Women Chess Championship-2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1599",
+         "pubDate" : "Fri, 25 Feb 2022 16:50:56 +0000",
+         "title" : "2022 Chess Olympiad to be moved from Moscow"
+      },
+      {
+         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
+         "pubDate" : "Fri, 25 Feb 2022 17:45:00 +0100",
+         "title" : "Airthings Masters Finals - Live!"
+      },
+      {
+         "description" : " Share! Due to the rapidly evolving situation in Ukraine, the chess world was bracing for an announcement about FIDE's position on the matter and the upcoming 2022 Chess Olympiad. The Chess Olympiad was scheduled to begin in Moscow from July 26th to August 8th, 2022. This followed the cancellation of the 2020 Chess Olympiad in [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/25/fide-postpones-the-2022-chess-olympiad/\">FIDE postpones the 2022 Chess Olympiad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/25/fide-postpones-the-2022-chess-olympiad/",
+         "pubDate" : "Fri, 25 Feb 2022 16:33:31 +0000",
+         "title" : "FIDE postpones the 2022 Chess Olympiad"
+      },
+      {
+         "description" : "The 2022 Chess Olympiad, scheduled for July 26-August 9, won&#39;t take place in Russia. This was announced by FIDE following Russia&#39;s invasion into Ukraine. Note that you can find Chess.com&#39;s stance on this topic here. This year&#39;s Olympiad was su...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-olympiad-not-in-russia",
@@ -138,7 +186,7 @@ news_feed (
          "title" : "LIVE GAMES : MPL 58TH SENIOR NATIONAL CHESS CHAMPIONSHIP-2022"
       },
       {
-         "description" : " Share!32 Frank Street became a National Master in June 1965 and in the same year, graced the cover of Chess life magazine. As a 20-year old Street had just won the U.S. Amateur Championship and would go on to win the club champion of the Washington Chess Divan, defeating fellow master, Kenneth Clayton. Street also [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/24/black-history-month-2022-day-24-frank-street/\">Black History Month 2022-Day 24: Frank Street</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Frank Street became a National Master in June 1965 and in the same year, graced the cover of Chess life magazine. As a 20-year old Street had just won the U.S. Amateur Championship and would go on to win the club champion of the Washington Chess Divan, defeating fellow master, Kenneth Clayton. Street also famously [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/24/black-history-month-2022-day-24-frank-street/\">Black History Month 2022-Day 24: Frank Street</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/24/black-history-month-2022-day-24-frank-street/",
@@ -1426,14 +1474,6 @@ news_feed (
          "title" : "FIDE Podcast: New episode now available"
       },
       {
-         "description" : " Wyndham Orlando Resort (International Drive) From March 13th-15th, Florida &#8220;the sunshine state&#8221; will be hosting its statewide scholastic tournament with nine sections. The entry fee for scholastic players is a nominal $40 by February 25th. There is no onsite entry so make your plans ahead of time! Check floridachess.org for details or click on image [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/16/chess-in-2022-heating-up-the-sunshine-state/\">Chess in 2022 heating up the Sunshine State!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/16/chess-in-2022-heating-up-the-sunshine-state/",
-         "pubDate" : "Wed, 16 Feb 2022 05:17:24 +0000",
-         "title" : "Chess in 2022 heating up the Sunshine State!"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Katerina Nemcova talks about short-term positional play in chess. The mysterious masked Katerina gives insight into her own development as a player. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-play-short-term-plans-grandmasters-choice-wgm-katerina-nemcova-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Kq7129BnWJs.jpg?itok=7lNkyHY-\" alt",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1986,14 +2026,6 @@ news_feed (
          "title" : "Austria no.1 Markus Ragger teaches Grunfeld Defence"
       },
       {
-         "description" : "The Kasparov Chess Foundation organized the second annual KCF University Cup which was played on lichess.org and hosted on chessstream.com on the weekend of February 5 and 6, 2022. The tournament attracted students from every continent and from over thirty countries. With nearly 700 participants, the event was a resounding success. | Photo: Garry Kasparov | Photo: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/university-of-texas-at-rio-grande-valley-wins-2nd-annual-kcf-university-cup",
-         "pubDate" : "Wed, 09 Feb 2022 10:00:00 +0100",
-         "title" : "University of Texas at Rio Grande Valley wins 2nd Annual Kasparov Chess Foundation University Cup"
-      },
-      {
          "description" : " GM Yuri Averbakh has just turned 100 years old, which I'm guessing makes him the oldest GM ever. Born in 1922 his chess career start before World War II, but really flourished after the war finished. He played in the 1953 Candidates Match, and was a regular competitor up until the 1990's (an even played a few games as late as 2007). He was renowned endgame theorist writing a number of important books in this field. In the 1950' and 60's he travelled to a number of non Warsaw-Pact countries, as part of chess goodwill tours. He played in the Australian Championship in 1960, as a guest players, and scored 14/15. During that event he faced most of the leading Australian players, including forme",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2002,28 +2034,12 @@ news_feed (
          "title" : "Happy 100 Yuri"
       },
       {
-         "description" : "Yury Averbakh is the world's oldest living Grandmaster. In his prime, he was one of the strongest players in the USSR and the world, and in 1953 he took part in the legendary Candidates Tournament in Zurich. After his active career Averbakch worked as author, editor, theoretician, second and official. Today, 8 February, he turns 100! Congratulations! | Photo: Averbakh at the match USA vs. USSR, New York City, 1954 (via D. Griffith)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/congratulations-yury-averbakh-turns-100",
-         "pubDate" : "Tue, 08 Feb 2022 19:00:00 +0100",
-         "title" : "Congratulations! Yury Averbakh turns 100!"
-      },
-      {
          "description" : " &#8220;The beauty of a move lies not in its appearance but in the thought behind it&#8221; A. Nimzovich Playing a blunder is devastating. It is also expected in games played by regular players. In the rare occasion it happens to the best, they are received with mixed feelings. On one hand they provide a high <a href=\"https://chessimprover.com/blunder-in-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Blunder in 1\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/blunder-in-1/\">Blunder in 1</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/blunder-in-1/",
          "pubDate" : "Tue, 08 Feb 2022 15:23:36 +0000",
          "title" : "Blunder in 1"
-      },
-      {
-         "description" : "After gaining 3.1 rating points by scoring a brilliant 9&frac12;/13 at the Tata Steel Masters, Carlsen gave up 4.1 rating points by drawing a single game in Norway. Geir Sune Tallaksen Ostmoe, an International Master and chess composer, showcased his endgame abilities to defend an inferior position with the black pieces until getting an outstanding 84-move draw against the world champion. | Screenshot: Sjakkforbundet / Twitch",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/geir-sune-ostmoe-draws-magnus-carlsen",
-         "pubDate" : "Tue, 08 Feb 2022 16:00:00 +0100",
-         "title" : "Tallaksen Ostmoe, rated 2466, holds Magnus Carlsen to a draw"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e4d27c07-0408-4411-9c63-d7828a0f83dd/Simon.final.jpg\" data-image-dimensions=\"433x218\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6202745412b373322cc074f4\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e4d27c07-0408-4411-9c63-d7828a0f83dd/Simon.final.jpg?format=1000w\" /> </figure> <p class=\"\">GM SImon William, aka \"The Ginger GM\" is an entertaining and popular commentator, <a href=\"https://www.youtube.com/c/GingerGM\" target=\"_blank\">YouTube Creator</a>, <a h",
@@ -2088,14 +2104,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/a-better-understanding.html",
          "pubDate" : "Mon, 07 Feb 2022 13:07:00 +0000",
          "title" : "A better understanding"
-      },
-      {
-         "description" : "MPL 46TH NATIONAL SUB-JUNIOR (UNDER-16) &#38; 37TH NATIONAL SUB-JUNIOR GIRLS (UNDER-16) CHESS CHAMPIONSHIPS-2022 04 Mar to 08 Mar 2022 at Delhi DOWNLOAD CIRCULAR &#160; MPL",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/regulations-mpl-national-junior-national-sub-junior-chess-championship-2022/",
-         "pubDate" : "Mon, 07 Feb 2022 11:58:13 +0000",
-         "title" : "Regulations : MPL National Junior & National Sub-Junior Chess Championship 2022"
       },
       {
          "description" : "",
