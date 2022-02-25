@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It has been a tough day for everyone. Vladimir Putin's appalling decision to invade Ukraine has shocked the world, and his actions have been condemned by most world leaders. At the Airthings Masters, three out of four semifinalists hail from Russia, with Ian Nepomniachtchi confessing after beating Andrey Esipenko, \"I can't think\". Nepo will face Magnus Carlsen in the finals of the online tournament, in a rematch of the recent contest for the World Championship title. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d6",
+         "pubDate" : "Fri, 25 Feb 2022 05:25:00 +0100",
+         "title" : "Airthings Masters SF: Carlsen and Nepo reach the final"
+      },
+      {
+         "description" : "CLICK HERE FOR LIVE GAMES",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-mpl-58th-senior-national-chess-championship-2022/",
+         "pubDate" : "Fri, 25 Feb 2022 03:34:54 +0000",
+         "title" : "LIVE GAMES : MPL 58TH SENIOR NATIONAL CHESS CHAMPIONSHIP-2022"
+      },
+      {
+         "description" : " Share! Frank Street became a National Master in June 1965 and in the same year, graced the cover of Chess life magazine. As a 21-year old Street had just won the U.S. Amateur Championship and would go on to win the club champion of the Washington Chess Divan, defeating fellow master, Kenneth Clayton. Street also [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/24/black-history-month-2022-day-24-frank-street/\">Black History Month 2022-Day 24: Frank Street</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/24/black-history-month-2022-day-24-frank-street/",
+         "pubDate" : "Fri, 25 Feb 2022 02:42:11 +0000",
+         "title" : "Black History Month 2022-Day 24: Frank Street"
+      },
+      {
+         "description" : "CLICK HERE FOR LIVE GAMES",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-mpl-47th-national-women-chess-championship-2022/",
+         "pubDate" : "Fri, 25 Feb 2022 02:40:16 +0000",
+         "title" : "LIVE GAMES : MPL 47TH NATIONAL WOMEN CHESS CHAMPIONSHIP-2022"
+      },
+      {
          "description" : "It&#39;s GM Magnus Carlsen and GM Ian Nepomniachtchi who will renew their rivalry when they meet in the final match played over two days of competition. Both of these chess giants won their respective semifinal matches by a score of 2.5-0.5. How to ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -32,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-round-2",
          "pubDate" : "Thu, 24 Feb 2022 10:15:00 -0800",
          "title" : "Collegiate Chess League Season 4 Round 2"
-      },
-      {
-         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
-         "pubDate" : "Thu, 24 Feb 2022 17:45:00 +0100",
-         "title" : "Airthings Masters SF - Games and results"
       },
       {
          "description" : "In this article, statistician Bruno Wiesend reports on a scientific controversy about a study on the \"Influence of intelligence and practice on the development of skills\". The author considers the results of the study to be wrong due to methodological errors. | Photo: Pixabay",
@@ -138,7 +162,7 @@ news_feed (
          "title" : "Airthings Masters QF: Artemiev knocks out Ding"
       },
       {
-         "description" : " Share! The 1992 African-American Unity Tournament Series was a novel idea and 30 years later, has never lost its relevance. If there is one aspect of the Hall of Fame career of Maurice Ashley that is overlooked or perhaps underrated, it is his visionary ideas. We know about his ambitious tournaments such as the HB [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/23/black-history-month-2022-day-23-ashleys-unity-tournament-series-1992/\">Black History Month 2022-Day 23: Ashley's Unity Tournament Series (1992)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " The 1992 African-American Unity Tournament Series was a novel idea and 30 years later, has never lost its relevance. If there is one aspect of the Hall of Fame career of Maurice Ashley that is overlooked or perhaps underrated, it is his visionary ideas. We know about his ambitious tournaments such as the HB Global [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/23/black-history-month-2022-day-23-ashleys-unity-tournament-series-1992/\">Black History Month 2022-Day 23: Ashley's Unity Tournament Series (1992)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/23/black-history-month-2022-day-23-ashleys-unity-tournament-series-1992/",
@@ -1314,14 +1338,6 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Berlin Final: Memorable 1st Clash Ends In Thrilling Draw"
       },
       {
-         "description" : " In 2003, Maurice Ashley and Stephen Muhammad joined the roster of participants of the prestigious U.S. Chess Championship, the hallmark of American tournaments. It is a chance for glory and to be included in the annals of history along with the list of luminaries whose plaques now adorn the World Chess Hall-of-Fame museum in St. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/15/black-history-month-2022-day-15-ashley-muhammad/\">Black History Month 2022-Day 15: Ashley &#038; Muhammad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/15/black-history-month-2022-day-15-ashley-muhammad/",
-         "pubDate" : "Tue, 15 Feb 2022 20:21:02 +0000",
-         "title" : "Black History Month 2022-Day 15: Ashley & Muhammad"
-      },
-      {
          "description" : "Chess.com is happy to foster the growth of the royal game by giving $25,000 to help fund the 2022 North American Chess Cup for Youth With Disabilities happening June 21 through 26. This amount will help the organizers to invest in staff for the ev...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2082,14 +2098,6 @@ news_feed (
          "title" : "Kangaroo caught"
       },
       {
-         "description" : "MPL 58th Senior National Chess Championship-2022 25 Feb to 03 Mar 2022 at Kanpur Total Prize Fund : Rs. 30,00,000/- DOWNLOAD CIRCULAR For Accommodation please contact",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/regulations-mpl-58th-senior-national-47th-national-women-chess-championships-2022/",
-         "pubDate" : "Sat, 05 Feb 2022 10:14:22 +0000",
-         "title" : "Regulations : MPL 58th Senior National & 47th National Women Chess Championships-2022"
-      },
-      {
          "description" : " Now, more than ever, is a good time to recognise to great work that King O'Malley's does to support the Canberra community. Chess players will already recognise O'Malley's as both the venue and sponsor of Street Chess, having provided a venue for chess players every Saturday for over 15 years. But they also support a number of charitable activities including Movember, World's Greatest Shave and Skin Check Champions. They also host a number of community activities such as painting classes, a Pint of Science and charity trivia competitions. So today when a group of anti-vaxxer's turned up to the pub, I was not surprised that they dishonestly claimed that they were being discriminated against.",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2120,14 +2128,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/humble-bundle.html",
          "pubDate" : "Fri, 04 Feb 2022 12:34:00 +0000",
          "title" : "Humble Bundle"
-      },
-      {
-         "description" : "Considering the unprecedented situation of pandemic, cancellation of National Championships as well as international events like Olympiad, Asian Games, World Team Chess Championships and mandatory",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-chess-championships-2021-22/",
-         "pubDate" : "Fri, 04 Feb 2022 12:26:59 +0000",
-         "title" : "NATIONAL CHESS CHAMPIONSHIPS 2021-22"
       },
       {
          "description" : "We are inviting nominations for the BCET Awards 2022. With over the board chess resuming in 2021 after a break of nearly 18 months we will be interested to hear...",
