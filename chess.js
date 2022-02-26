@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen won the first event of the 2022 Meltwater Champions Chess Tour as he beat Ian Nepomniachtchi in the finals of the Airthings Masters. After drawing the first set on Friday, the world champion won the second 4-game mini-match by a 2&frac12;-&frac12; score. Nepo did not go down easy, though it was Carlsen who performed at a higher level at the critical points in games 2 and 3.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d8",
+         "pubDate" : "Sat, 26 Feb 2022 23:50:00 +0100",
+         "title" : "Magnus Carlsen convincingly wins Airthings Masters"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1602",
+         "pubDate" : "Sat, 26 Feb 2022 21:50:31 +0000",
+         "title" : "Magnus Carlsen wins Airthings Masters"
+      },
+      {
+         "description" : "World Champion GM Magnus Carlsen won the 2022 Airthings Masters by defeating GM Ian Nepomniachtchi on the second day of their match by the count of 2.5-0.5. How to watch? The games of the Airthings Masters knockouts can be found here as part of...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-8",
+         "pubDate" : "Sat, 26 Feb 2022 13:39:00 -0800",
+         "title" : "Airthings Masters Day 8: Carlsen Wins First Leg Of Champions Tour"
+      },
+      {
          "description" : "There are only 2 spots left in the 2022 Candidates Tournament, and those 2 places will be granted to the players who perform best in the FIDE Grand Prix 2022. The Grand Prix consists of 3 tournaments played between February and April. We already know the winner of the first leg, Hikaru Nakamura, who beat Levon Aronian in tiebreaks. Players can only participate in 2 of the 3 tournaments, so they need to make every point count. The 1st leg of the FIDE Grand Prix 2022 was held in Berlin, the 2nd leg will take place in Belgrade, and the 3rd and last leg will be back in Berlin.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -34,14 +58,6 @@ news_feed (
          "title" : "MPL 47th National Women Chess Championship-2022-report of round 2 &3"
       },
       {
-         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
-         "pubDate" : "Sat, 26 Feb 2022 17:45:00 +0100",
-         "title" : "Airthings Masters Finals - Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -72,6 +88,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/airthings-masters-7-all-draws-but-carlsen-nepo-is-a-thriller",
          "pubDate" : "Sat, 26 Feb 2022 12:48:28 +0000",
          "title" : "Airthings Masters 7: All draws, but Carlsen-Nepo is a thriller"
+      },
+      {
+         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
+         "pubDate" : "Sat, 26 Feb 2022 13:45:00 +0100",
+         "title" : "Airthings Masters Finals - Games and results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89851180.cms\" />International Master Koustav Chatterjee of West Bengal held top seed Grandmaster B Adhiban of PSPB to a creditable draw in the third round of the 58th Senior National Chess Championship here on Saturday. Playing white side of the English Opening, Adhiban agreed to sign the peace treaty with his West Bengal opponent after 73 moves in an opposite colour bishop and rook ending.",
@@ -1882,14 +1906,6 @@ news_feed (
          "title" : "Berlin GP: Aronian and Nakamura score"
       },
       {
-         "description" : "GM Levon Aronian and GM Hikaru Nakamura outplayed GM Leinier Dominguez and GM Richard Rapport respectively in the first game of the 2022 FIDE Grand Prix first leg semifinals in Berlin, both achieved with the white pieces in contrasting styles. The...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-semifinals-g1",
-         "pubDate" : "Sat, 12 Feb 2022 16:15:00 -0800",
-         "title" : "2022 FIDE Grand Prix Berlin SF1: Aronian, Nakamura Score Emphatic Wins"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2066,14 +2082,6 @@ news_feed (
          "title" : "ECU E-MAGAZINE JANUARY 2022"
       },
       {
-         "description" : "Levon Aronian became the first player to secure a spot in the semifinals of the FIDE Grand Prix in Berlin. The US grandmaster qualified to the knockout stage with one round to spare after getting an unsurmountable 1&frac12;-point lead in pool C. Suspense remains in the other three pools, though, with seven players going into Thursday's sixth round still with chances of getting one of the three remaining spots. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r5",
-         "pubDate" : "Thu, 10 Feb 2022 02:35:00 +0100",
-         "title" : "Berlin GP: Aronian qualifies with a round to spare"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2176,22 +2184,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/02/06/a-disreputable-opening-repertoire/",
          "pubDate" : "Sun, 06 Feb 2022 00:10:53 +0000",
          "title" : "A Disreputable Opening Repertoire"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1560",
-         "pubDate" : "Sat, 05 Feb 2022 22:30:56 +0000",
-         "title" : "FIDE Grand Prix Day 2: No risk, no reward"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1559",
-         "pubDate" : "Sat, 05 Feb 2022 20:42:06 +0000",
-         "title" : "Levan Pantsulaia wins 81st Georgian Championship"
       }
    ]
 }
