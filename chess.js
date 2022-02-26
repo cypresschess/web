@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Magnus Carlsen and Ian Nepomniachtchi drew all their games during day one of the final match. Carlsen has to be disappointed not to take the first set because he was winning in three out of the four games. Credit goes to Nepomniachtchi for his...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-7",
+         "pubDate" : "Fri, 25 Feb 2022 14:52:53 -0800",
+         "title" : "Airthings Masters Day 7: Nepomniachtchi, Carlsen Draw First Four Final Games"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1600",
+         "pubDate" : "Fri, 25 Feb 2022 22:46:16 +0000",
+         "title" : "Carlsen and Nepomniachtchi play out epic 2-2 draw on first day of final"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> As expected after the Russian invasion in Ukraine, FIDE doesn't risk a wide boycott and has <a href=\"https://fide.com/news/1599\">declared that the Chess Olympiad, Chess Olympiad for People with Disabilities and FIDE Congress 2022 won't take place in Moscow</a>. The FIDE Council will hold an extraordinary meeting on Sunday to discuss how to rescue its main event scheduled five months from now. FIDE Managing Director Dana Reizniece-Ozola has <a href=\"https://www.facebook.com/dana.reizniece/posts/10228557426381022\">condemned the Russian action and is urging her colleagues to drop FIDE's Russian sponsorships</a> and relocate all operational activities o",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/fide-rules-out-moscow/",
+         "pubDate" : "Fri, 25 Feb 2022 22:24:06 +0100",
+         "title" : "FIDE rules out Moscow"
+      },
+      {
          "description" : "The International Chess Federation has announced today its decision that the 44th Chess Olympiad, one of its flagship events, will not take place in Russia. This championship, in which teams from approximately 190 countries compete for two weeks, was supposed to take place in Moscow from July 26 July to August 8. FIDE press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1258,14 +1282,6 @@ news_feed (
          "title" : "ChessBase for Coaches: Showing a Plan"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Metric Design</strong> and <strong>Feed Oslo</strong> have developed a <a href=\"https://www.kreativtforum.no/arbeider/ny-visuell-identitet-og-nettside-for-norges-sjakkforbund\">new visual design</a> for the <strong>Norwegian Chess Federation</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/norwegian-federation-with-new-look/",
-         "pubDate" : "Thu, 17 Feb 2022 11:34:05 +0100",
-         "title" : "Norwegian federation with new look"
-      },
-      {
          "description" : "GMs Wesley So, Maxime Vachier-Lagrave, Shakhriyar Mamedyarov, Alireza Firouzja, Fabiano Caruana, Ian Nepomniachtchi, Levon Aronian, Richard Rapport, and Leinier Dominguez are the &#34;full-tour&#34; participants of the 2022 Grand Chess Tour. World champio...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1826,14 +1842,6 @@ news_feed (
          "title" : "One false move!"
       },
       {
-         "description" : "GM Leinier Dominguez and GM Richard Rapport defeated GM Wesley So and GM Radoslaw Wojtaszek respectively in the rapid tiebreak games with identical 1.5-0.5 victories to reach the semifinals of the 2022 FIDE Grand Prix in Berlin. Ironically, the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-group-tiebreaks",
-         "pubDate" : "Fri, 11 Feb 2022 14:37:00 -0800",
-         "title" : "2022 FIDE Grand Prix Berlin Group Tiebreaks: Dominguez, Rapport Qualify With Swift Victories"
-      },
-      {
          "description" : "The two players who won their round-6 games to force tiebreaks in their respective groups managed to also win their 2-game rapid matches on Friday to reach the semifinals of the FIDE Grand Prix in Berlin. Leinier Dominguez knocked out Wesley So and will face an in-form Levon Aronian, while Rapport eliminated Radoslaw Wojtaszek and thus gained the right to face Hikaru Nakamura in semis. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2152,14 +2160,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/dumbernats.html",
          "pubDate" : "Sat, 05 Feb 2022 09:08:00 +0000",
          "title" : "Dumbernats"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1558",
-         "pubDate" : "Fri, 04 Feb 2022 23:27:33 +0000",
-         "title" : "Aronian leads the pack in the Berlin Grand Prix"
       }
    ]
 }
