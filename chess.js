@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There are only 2 spots left in the 2022 Candidates Tournament, and those 2 places will be granted to the players who perform best in the FIDE Grand Prix 2022. The Grand Prix consists of 3 tournaments played between February and April. We already know the winner of the first leg, Hikaru Nakamura, who beat Levon Aronian in tiebreaks. Players can only participate in 2 of the 3 tournaments, so they need to make every point count. The 1st leg of the FIDE Grand Prix 2022 was held in Berlin, the 2nd leg will take place in Belgrade, and the 3rd and last leg will be back in Berlin.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-grand-prix-2022-qualifying-for-the-candidates-tournament",
+         "pubDate" : "Sat, 26 Feb 2022 18:12:55 +0000",
+         "title" : "FIDE Grand Prix 2022: Qualifying for the Candidates Tournament"
+      },
+      {
+         "description" : "The FIDE Trainers &#38; Double Arbiter Seminar organized by All India Chess Federation with the support of Government of India Ministry of Youth Affairs &#38;",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/triple-seminar-25-27-feb-2022-running-successfully-in-india/",
+         "pubDate" : "Sat, 26 Feb 2022 18:08:00 +0000",
+         "title" : "Triple Seminar running successfully in Patna,Kanpur & Guwahati (25-27 Feb 2022 )"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk accepts three Antichess challenges on lichess.org. Antichess, or losing chess, is won by losing all of your pieces or being stalemated. Capturing is mandatory when possible. 10.02.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-you-play-antichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/K0hp9tJDabA.jpg?itok=wBYOgLRi\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-you-play-antichess",
+         "pubDate" : "Sat, 26 Feb 2022 17:47:44 +0000",
+         "title" : "THIS is how you play ANTICHESS"
+      },
+      {
+         "description" : "MPL 47th National Women Chess Championship-2022 Report of round-2 &#38;3 Velpula Sarayu of Telengana held the current Asian Junior Girls Champion WIM Savitha Shri in",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-47th-national-women-chess-championship-2022-report-of-round-2-3/",
+         "pubDate" : "Sat, 26 Feb 2022 17:37:09 +0000",
+         "title" : "MPL 47th National Women Chess Championship-2022-report of round 2 &3"
+      },
+      {
+         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
+         "pubDate" : "Sat, 26 Feb 2022 17:45:00 +0100",
+         "title" : "Airthings Masters Finals - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1234,14 +1274,6 @@ news_feed (
          "title" : "Collegiate Chess League Season 4 Round 1"
       },
       {
-         "description" : "The FIDE Trainers' Seminar organized by All India Chess Federation with the support of Government of India Ministry of Youth Affairs &#38; Sports and got",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-trainers-seminar-kick-starts-at-shimla/",
-         "pubDate" : "Fri, 18 Feb 2022 13:22:16 +0000",
-         "title" : "FIDE Trainers' Seminar kick starts at Shimla"
-      },
-      {
          "description" : " Hikaru Nakamura has won the first FIDE Grand Prix event of the year, defeating Lev Aronian in the final 3-1 (Nakamura winning both rapid tie-break games) The fact that both players qualified for the final could be considered a little surprising, given their age relative to the rest of the field. The fact that Nakamura then won the final was even more of a shock, as he has hardly lifted a piece in 2 years, concentrating on streaming instead. Nonetheless the result showed that the group of \"thirty something\" Super GM's still will take some beating by the next generation of GM's. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1554,28 +1586,12 @@ news_feed (
          "title" : "Berlin GP Final: An exciting draw"
       },
       {
-         "description" : "Levon Aronian won a pawn and had chances to score a hugely important win with the black pieces in Game 1 of the Berlin FIDE Grand Prix Final, but a complicated middlegame suddenly left Hikaru Nakamura as the player pushing for victory. Only what Hikaru called an \"amazing\" defence saved the day for Levon, who let his opponent queen a pawn but was just in time to force a draw by perpetual check. Levon will now have White in Wednesday's Game 2.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/berlin-gp-final-1-nakamura-aronian-both-dodge-bullets",
-         "pubDate" : "Wed, 16 Feb 2022 09:17:57 +0000",
-         "title" : "Berlin GP Final 1: Nakamura & Aronian both dodge bullets"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1580",
          "pubDate" : "Wed, 16 Feb 2022 09:00:33 +0000",
          "title" : "FIDE Podcast: New episode now available"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Katerina Nemcova talks about short-term positional play in chess. The mysterious masked Katerina gives insight into her own development as a player. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-play-short-term-plans-grandmasters-choice-wgm-katerina-nemcova-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Kq7129BnWJs.jpg?itok=7lNkyHY-\" alt",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/positional-play-short-term-plans-grandmasters-choice-wgm-katerina-nemcova-lichessorg",
-         "pubDate" : "Wed, 16 Feb 2022 02:33:25 +0000",
-         "title" : "Positional Play: Short-Term Plans | Grandmaster's Choice - WGM Katerina Nemcova | lichess.org"
       },
       {
          "description" : "",
@@ -1776,14 +1792,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-returns-to-the-museum",
          "pubDate" : "Mon, 14 Feb 2022 14:00:00 +0100",
          "title" : "Chess returns to Vienna's Caf&eacute; Museum"
-      },
-      {
-         "description" : "Dear All, &#160; Please find attached herewith list of participants for Sixth Batch (1F) of National Organizer Seminar scheduled to start from 18-20 Feb 2022,Kindly find the ",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/chess-for-everyone-national-organizer-batch-1-f-18-20-feb-2022/",
-         "pubDate" : "Mon, 14 Feb 2022 11:57:32 +0000",
-         "title" : "Chess for Everyone ,National Organizer - Batch 1 F (18-20 Feb ,2022)"
       },
       {
          "description" : "The Meltwater Champions Chess Tour will continue as a regular online event in the coming years. The Play Magnus Group has signed a five-year contract with the Norwegian broadcaster TV-2, which believes in the Tour and broadcasts the tournaments live on television. All in all, viewers followed the first season in 2020/21 for more than 30 million hours. The Airthings Masters, the first tournament of the new season, starts on 19 February with an exciting and young field of players.",
@@ -2072,14 +2080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1566",
          "pubDate" : "Wed, 09 Feb 2022 21:20:02 +0000",
          "title" : "FIDE Grand Prix: Levon Aronian, first semifinalist"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #502 Merijn van Delft takes a look at the FIDE Grand Prix in Berlin, and shows how Levon Aronian defeated Vidit Gujrathi in the very first round of the tournament in a fine game that might prove crucial at the end. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-502-aronian-vs-vidit-berlin-grand-prix-2022",
-         "pubDate" : "Wed, 09 Feb 2022 20:58:24 +0100",
-         "title" : "Game of the Week #502: Aronian vs Vidit, Berlin, Grand Prix 2022"
       },
       {
          "description" : " Chess Training can be tough and dull sometimes. Group Training can boost your moral &#38; connect you with like-minded people. This can be extremely beneficial. Not only for your mental sanity but also for your Chess improvement. So do I recommend working in a group? As frequently is the case, my answer is it depends [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/group-training/\">Chess Group Training</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
