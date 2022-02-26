@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89851180.cms\" />International Master Koustav Chatterjee of West Bengal held top seed Grandmaster B Adhiban of PSPB to a creditable draw in the third round of the 58th Senior National Chess Championship here on Saturday. Playing white side of the English Opening, Adhiban agreed to sign the peace treaty with his West Bengal opponent after 73 moves in an opposite colour bishop and rook ending.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/koustav-holds-top-seed-adhiban-in-senior-national-chess-championship/articleshow/89851180.cms",
+         "pubDate" : "Sat, 26 Feb 2022 17:20:49 +0530",
+         "title" : "Koustav holds top seed Adhiban in Senior National Chess Championship"
+      },
+      {
+         "description" : "It is fitting that in the Year of the Tiger, which started earlier this month, according to the oriental astrological calendar, the publishers Elk and Ruby have completed their magnum opus two volume epic on the career of Tigran (\"The Tiger\") Petrosian. Petrosian Year by Year: Volume II (1963-1984) is that eagerly awaited second volume on the life []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/year-of-the-tigran/",
+         "pubDate" : "Sat, 26 Feb 2022 11:47:56 +0000",
+         "title" : "Year of the Tigran"
+      },
+      {
+         "description" : "Following the invasion of the sovereign state of Ukraine by the Russian army on February 24, the humanitarian crisis and the consequences for sports and chess events, the Board of ECU will hold an extraordinary meeting on Thursday, March 03, to assess the situation and decide on various measures. Any European national federation wishing to submit a proposal&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/press-release-ukraine/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/press-release-ukraine/",
+         "pubDate" : "Sat, 26 Feb 2022 11:39:38 +0000",
+         "title" : "Press release - #Ukraine"
+      },
+      {
+         "description" : "Kanpur (26 Feb 22) :- International Master Koustav Chatterjee of West Bengal held top seed Grandmaster B Adhiban of PSPB to a creditable draw in",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022-koustav-holds-top-seed-adhiban/",
+         "pubDate" : "Sat, 26 Feb 2022 11:21:38 +0000",
+         "title" : "MPL 58th Senior National Chess Championship-2022 : Koustav holds top seed Adhiban"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89846558.cms\" />The Indian chess federation is bidding to host the 44th Chess Olympiad that has been moved out of Russia, said a senior official of All India Chess Federation (AICF).",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-bidding-to-host-chess-olympiad-2022/articleshow/89846558.cms",
+         "pubDate" : "Sat, 26 Feb 2022 13:42:18 +0530",
+         "title" : "India bidding to host Chess Olympiad 2022"
+      },
+      {
          "description" : "The diagram shows a seemingly normal position with an isolated pawn on d4. However, White has played the loosening move b2-b4, and this allows Black to get the advantage. What can Black do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2066,14 +2106,6 @@ news_feed (
          "title" : "FIDE World Championship Match 2023 - Call for bids"
       },
       {
-         "description" : "1st GUWAHATI INTERNATIONAL OPEN GRANDMASTERS CHESS TOURNAMENT 13-20 March 2022 Venue : DTRP INDOOR STADIUM RG Baruah Road, Guwahati AICF EVENT CODE : 280085/ASM /",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/regulations-triple-international-grandmasters-tournaments-in-march-2022/",
-         "pubDate" : "Tue, 08 Feb 2022 09:11:43 +0000",
-         "title" : "Regulations : Triple International Grandmasters Tournaments in March 2022"
-      },
-      {
          "description" : "I am pleased to invite you on behalf of the IPCA to participate in the 21st IPCA World Individual Chess Championship for the Physically Disabled 2022 in Ashdod, Israel from...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2144,22 +2176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1559",
          "pubDate" : "Sat, 05 Feb 2022 20:42:06 +0000",
          "title" : "Levan Pantsulaia wins 81st Georgian Championship"
-      },
-      {
-         "description" : "Recent parallels in the worlds of physical and mental sport have raised some interesting questions. Global opinion is divided on the problems of Novak Djokovic's ejection by the government, from the Australian Tennis Open Tournament. Indeed, the eventual victory in that event of Rafael Nadal, who has now moved into the lead in terms of []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/kangaroo-caught/",
-         "pubDate" : "Sat, 05 Feb 2022 10:38:04 +0000",
-         "title" : "Kangaroo caught"
-      },
-      {
-         "description" : " Now, more than ever, is a good time to recognise to great work that King O'Malley's does to support the Canberra community. Chess players will already recognise O'Malley's as both the venue and sponsor of Street Chess, having provided a venue for chess players every Saturday for over 15 years. But they also support a number of charitable activities including Movember, World's Greatest Shave and Skin Check Champions. They also host a number of community activities such as painting classes, a Pint of Science and charity trivia competitions. So today when a group of anti-vaxxer's turned up to the pub, I was not surprised that they dishonestly claimed that they were being discriminated against.",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/dumbernats.html",
-         "pubDate" : "Sat, 05 Feb 2022 09:08:00 +0000",
-         "title" : "Dumbernats"
       }
    ]
 }
