@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1601",
+         "pubDate" : "Sat, 26 Feb 2022 14:46:38 +0000",
+         "title" : "Second leg of FIDE Grand Prix starts in Belgrade on February 28"
+      },
+      {
+         "description" : "Humans formed belief systems based on stellar bodies. If you ask an astrologer about it, he might tell you his beliefs which of those have the most influence on your life. If you ask a scientist, he will likely name at least two: Sun and Earth. Ancient cultures already measured a phenomenon that - relative to each other - Earth rotates around the sun as well as around its own axis. A full rotation around itself is called a \"day\", a full rotation around the sun a \"year\". Relatively speaking, that is in relation to the sun, Earth returns to its current position after one year. One hundred such rotations are called a \"century\". A man who is on Earth for such a time is called a \"centennial\". A c",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-the-centennial",
+         "pubDate" : "Sat, 26 Feb 2022 14:00:00 +0100",
+         "title" : "Study of the Month: The Centennial"
+      },
+      {
+         "description" : "Fide's move came after mounting pressure from players and commentators to not hold any chess events in Russia following the military action in Ukraine.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33375259/india-offers-host-chess-olympiad-russia-stripped-showpiece-event?device=featurephone",
+         "pubDate" : "Sat, 26 Feb 2022 07:59:26 -0500",
+         "title" : "India offers to host chess Olympiad after Russia removed"
+      },
+      {
+         "description" : "Magnus Carlsen and Ian Nepomniachtchi needed six games before a decisive result in Dubai. In the Airthings Masters final we've also had four draws after four games, but seldom have draws been so thrilling! Both players missed great chances in rollercoaster games, with Magnus summing up afterwards, \"we clearly both missed chances, but I think overall the result is fair enough\". The final must end on Sunday, with blitz and potentially Armageddon if the score is tied after rapid chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/airthings-masters-7-all-draws-but-carlsen-nepo-is-a-thriller",
+         "pubDate" : "Sat, 26 Feb 2022 12:48:28 +0000",
+         "title" : "Airthings Masters 7: All draws, but Carlsen-Nepo is a thriller"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89851180.cms\" />International Master Koustav Chatterjee of West Bengal held top seed Grandmaster B Adhiban of PSPB to a creditable draw in the third round of the 58th Senior National Chess Championship here on Saturday. Playing white side of the English Opening, Adhiban agreed to sign the peace treaty with his West Bengal opponent after 73 moves in an opposite colour bishop and rook ending.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1794,14 +1826,6 @@ news_feed (
          "title" : "FIDE Grand Prix Berlin final: Aronian vs Nakamura"
       },
       {
-         "description" : "Hikaru Nakamura will take on Levon Aronian in the Berlin FIDE Grand Prix final after both players comfortable drew on demand in the second game of their semi-finals. Levon managed to equalise fully in 14 moves against Leinier Dominguez and made a draw while more than an hour up on the clock. Richard Rapport at least kept his game against Hikaru Nakamura tense, but the US star found all the right moves until Richard, who had played a marathon 20 games in under a month, accepted a draw on move 30 rather than trying to fight for a win from a worse position.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-sf2-it-s-a-nakamura-aronian-final",
-         "pubDate" : "Sun, 13 Feb 2022 21:39:08 +0000",
-         "title" : "Berlin Grand Prix SF2: It's a Nakamura-Aronian final!"
-      },
-      {
          "description" : "The two players who have shown the strongest and most stable performances throughout the event reached the final of the FIDE Grand Prix in Berlin. Levon Aronian and Hikaru Nakamura drew with black on Sunday to knock out Leinier Dominguez and Richard Rapport, respectively. Since there was no need for tiebreaks in either match, the finalists will have a rest day on Monday. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2064,14 +2088,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/group-training/",
          "pubDate" : "Wed, 09 Feb 2022 14:00:00 +0000",
          "title" : "Chess Group Training"
-      },
-      {
-         "description" : "In his \"Weekly Show\" Lawrence Trent takes a look at the Berlin Grand Prix, focusing on the smooth positional masterpiece Aronian-Keymer from round 3. Lawrence also talks about Yuri Averbakh, who turned 100 on 8 February 2022. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-grand-prix-berlin",
-         "pubDate" : "Wed, 09 Feb 2022 12:00:00 +0100",
-         "title" : "The Weekly Show: Grand Prix Berlin"
       },
       {
          "description" : " GM Yuri Averbakh has just turned 100 years old, which I'm guessing makes him the oldest GM ever. Born in 1922 his chess career start before World War II, but really flourished after the war finished. He played in the 1953 Candidates Match, and was a regular competitor up until the 1990's (an even played a few games as late as 2007). He was renowned endgame theorist writing a number of important books in this field. In the 1950' and 60's he travelled to a number of non Warsaw-Pact countries, as part of chess goodwill tours. He played in the Australian Championship in 1960, as a guest players, and scored 14/15. During that event he faced most of the leading Australian players, including forme",
