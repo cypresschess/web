@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The diagram shows a seemingly normal position with an isolated pawn on d4. However, White has played the loosening move b2-b4, and this allows Black to get the advantage. What can Black do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/test-your-iqp-iq",
+         "pubDate" : "Sat, 26 Feb 2022 09:00:00 +0100",
+         "title" : "Test your IQP-IQ"
+      },
+      {
+         "description" : "While the quarterfinals and the semifinals of the Airthings Masters lasted a single day, the finals consist of two 'sets'. The first one, played on Friday, saw Magnus Carlsen and Ian Nepomniachtchi signing four straight draws. But the lack of decisive results does not mean there was a lack of excitement. To the contrary, the games were hard-fought and enthralling. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d7",
+         "pubDate" : "Sat, 26 Feb 2022 05:45:00 +0100",
+         "title" : "Airthings Masters Final: Exciting draws"
+      },
+      {
          "description" : " Share! Watu Kobese with his Xhosa-language chess book, &#8220;Masidlale Uthimba&#8220;. Photo by Mariska Morris. IM Watu Kobese has been the most recognizable chess player South Africa has ever produced. His life is one of many stories. Learning chess at the age of four, Kobese learned the game by watching his father Arthur Kobese and would [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/25/black-history-month-2022-day-25-im-watu-kobese/\">Black History Month 2022-Day 25: IM Watu Kobese</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1599",
          "pubDate" : "Fri, 25 Feb 2022 16:50:56 +0000",
          "title" : "2022 Chess Olympiad to be moved from Moscow"
-      },
-      {
-         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
-         "pubDate" : "Fri, 25 Feb 2022 17:45:00 +0100",
-         "title" : "Airthings Masters Finals - Games and results"
       },
       {
          "description" : " Due to the rapidly evolving situation in Ukraine, the chess world was bracing for an announcement about FIDE's position on the matter and the upcoming 2022 Chess Olympiad. The Chess Olympiad was scheduled to begin in Moscow from July 26th to August 8th, 2022. This followed the cancellation of the 2020 Chess Olympiad in Minsk, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/25/fide-postpones-the-2022-chess-olympiad/\">FIDE postpones the 2022 Chess Olympiad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -2024,14 +2032,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-grand-prix-berlin",
          "pubDate" : "Wed, 09 Feb 2022 12:00:00 +0100",
          "title" : "The Weekly Show: Grand Prix Berlin"
-      },
-      {
-         "description" : "There are plenty of openings to choose from and learn. Which one to prepare and where to begin? We are here to solve that dilemma. Austria no.1 and FIDE Trainer Markus Ragger explained the basics of the Grunfeld Defence. He even included his most recent games in this two volume ChessBase DVD. The opening course has been created with thorough research and utmost care because he himself plays it in his career. Check out the 100+ minutes long interactive session with IM Sagar Shah where Markus Ragger shows and explains a lot of lines of the popular opening and answers audience questions too. Photo: ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/austria-no-1-markus-ragger-teaches-grunfeld-defence",
-         "pubDate" : "Wed, 09 Feb 2022 11:09:18 +0100",
-         "title" : "Austria no.1 Markus Ragger teaches Grunfeld Defence"
       },
       {
          "description" : " GM Yuri Averbakh has just turned 100 years old, which I'm guessing makes him the oldest GM ever. Born in 1922 his chess career start before World War II, but really flourished after the war finished. He played in the 1953 Candidates Match, and was a regular competitor up until the 1990's (an even played a few games as late as 2007). He was renowned endgame theorist writing a number of important books in this field. In the 1950' and 60's he travelled to a number of non Warsaw-Pact countries, as part of chess goodwill tours. He played in the Australian Championship in 1960, as a guest players, and scored 14/15. During that event he faced most of the leading Australian players, including forme",
