@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! Watu Kobese with his Xhosa-language chess book, &#8220;Masidlale Uthimba&#8220;. Photo by Mariska Morris. IM Watu Kobese has been the most recognizable chess player South Africa has ever produced. His life is one of many stories. Learning chess at the age of four, Kobese learned the game by watching his father Arthur Kobese and would [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/25/black-history-month-2022-day-25-im-watu-kobese/\">Black History Month 2022-Day 25: IM Watu Kobese</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/25/black-history-month-2022-day-25-im-watu-kobese/",
+         "pubDate" : "Sat, 26 Feb 2022 03:38:55 +0000",
+         "title" : "Black History Month 2022-Day 25: IM Watu Kobese"
+      },
+      {
          "description" : "GMs Magnus Carlsen and Ian Nepomniachtchi drew all their games during day one of the final match. Carlsen has to be disappointed not to take the first set because he was winning in three out of the four games. Credit goes to Nepomniachtchi for his...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -63,10 +71,10 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
          "pubDate" : "Fri, 25 Feb 2022 17:45:00 +0100",
-         "title" : "Airthings Masters Finals - Live!"
+         "title" : "Airthings Masters Finals - Games and results"
       },
       {
-         "description" : " Share! Due to the rapidly evolving situation in Ukraine, the chess world was bracing for an announcement about FIDE's position on the matter and the upcoming 2022 Chess Olympiad. The Chess Olympiad was scheduled to begin in Moscow from July 26th to August 8th, 2022. This followed the cancellation of the 2020 Chess Olympiad in [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/25/fide-postpones-the-2022-chess-olympiad/\">FIDE postpones the 2022 Chess Olympiad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Due to the rapidly evolving situation in Ukraine, the chess world was bracing for an announcement about FIDE's position on the matter and the upcoming 2022 Chess Olympiad. The Chess Olympiad was scheduled to begin in Moscow from July 26th to August 8th, 2022. This followed the cancellation of the 2020 Chess Olympiad in Minsk, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/25/fide-postpones-the-2022-chess-olympiad/\">FIDE postpones the 2022 Chess Olympiad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/25/fide-postpones-the-2022-chess-olympiad/",
@@ -994,7 +1002,7 @@ news_feed (
          "title" : "Praggnanandhaa in Wijk aan Zee: Analyses and reflections"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Harrison Keyser showcases sharp lines in the Portuguese Gambit! This video will summon Brazilians. Ol&aacute; Brasil! Diga ol&aacute; nos coment&aacute;rios :) Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/ArcG3\">https://www.youtube.com/c/ArcG3</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what",
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser showcases sharp lines in the Portuguese Gambit (aka Jadoul Gambit)! This video will summon Brazilians. Ol&aacute; Brasil! Diga ol&aacute; nos coment&aacute;rios :) Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/ArcG3\">https://www.youtube.com/c/ArcG3</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/what-portuguese-gambit",
@@ -1312,14 +1320,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-grand-prix-tie-breaks/",
          "pubDate" : "Thu, 17 Feb 2022 07:53:48 +0000",
          "title" : "FIDE Grand Prix Tie-Breaks"
-      },
-      {
-         "description" : " Marcus Mosiah Garvey The Chess Drum is billed as a Pan-African website. One of the biggest inspirations for this site was the Honorable Marcus Mosiah Garvey. This Jamaican visionary immigrated to the United States and set forth one of the most important social movements in American history. It started as a small grassroots movement with [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/16/black-history-month-2022-day-16-pan-african-chess/\">Black History Month 2022-Day 16: Pan-African Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/16/black-history-month-2022-day-16-pan-african-chess/",
-         "pubDate" : "Thu, 17 Feb 2022 03:27:33 +0000",
-         "title" : "Black History Month 2022-Day 16: Pan-African Chess"
       },
       {
          "description" : "Chess &#38; Bridge have announced there will be an England v Sweden Challenge Match between Grandmaster David Howell (England) and Grandmaster Nils Grandelius (Sweden) in London this March. The event...",
