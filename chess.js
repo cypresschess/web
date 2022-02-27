@@ -2176,14 +2176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1561",
          "pubDate" : "Mon, 07 Feb 2022 05:28:24 +0000",
          "title" : "FIDE Grand Prix: Levon elevates his game in Berlin"
-      },
-      {
-         "description" : " Here is the publishers blurb from the rear cover : &#8220;A highly adventurous repertoire designed to meet 1 e4 with 1e5 and take the initiative! The main problem Black faces in answering 1 e4 with 1e5 is the plethora of opening systems available to White: the Ruy Lopez, Giuoco Piano, Scotch, Ponziani, King's Gambit, Vienna, <a href=\"http://britishchessnews.com/2022/02/06/a-disreputable-opening-repertoire/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">A Disreputable Opening Repertoire</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/02/06/a-disreputable-opening-repertoire/\">A Disreputable Opening Repert",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/02/06/a-disreputable-opening-repertoire/",
-         "pubDate" : "Sun, 06 Feb 2022 00:10:53 +0000",
-         "title" : "A Disreputable Opening Repertoire"
       }
    ]
 }
