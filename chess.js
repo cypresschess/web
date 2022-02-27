@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new ChessBase Magazine #206 once again offers a wealth of ideas and recommendations for your repertoire. Besides the three opening videos by Jan Werle, Daniel King and Mihail Marin as well as Rainer Knaak's trap collection, the new issue contains eleven opening articles covering a broad spectrum: from a sharp gambit in the Caro-Kann Advance Variation via \"Ruy Lopez for structuralists\" (Delayed Exchange Variation) to the new Gruenfeld trend 5.Bd2 c5!?. Imre Hera, meanwhile, takes up a radical idea against the Reti Opening with which David Navara shocked his opponent, GM Markowski, in 2011: after 1.Nf3 d5 2.c4 d4 3.b4 the creative artist continued with the novelty 3...g5!? and then also le",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/full-speed-against-the-reti",
+         "pubDate" : "Sun, 27 Feb 2022 13:00:00 +0100",
+         "title" : "Full speed against the Reti!"
+      },
+      {
+         "description" : "Kanpur (27 Feb 22) :- International Master Koustav Chatterjee of West Bengal continued with his impressive show and downed fourth seed and two time national",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022-koustav-on-song-five-share-lead/",
+         "pubDate" : "Sun, 27 Feb 2022 11:54:03 +0000",
+         "title" : "MPL 58th Senior National Chess Championship-2022 : Koustav on song; five share lead"
+      },
+      {
+         "description" : " <p class=\"lead\">The <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> ended after an epic final. The World Champion Magnus Carlsen won the Tour against the 2021 Challenger Ian Nepomniaachtchi, despite his grim start of the tournament. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51716045090_01ce17506c_k-(1).jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen / FIDE</div> </div> <a href=\"https://worldchess.com/news/all/carlsen-loses-to-esipenko-and-nepomniachtchi-on-day-1-of-the-cha/\">Day 1 of the Tour</a> was not so promising for Carlsen and certainly couldn't foreshadow his advance to the finals.",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/carlsen-is-the-winner-of-the-champions-chess-our-2022/",
+         "pubDate" : "Sun, 27 Feb 2022 10:40:46 +0000",
+         "title" : "Carlsen is the winner of the Champions Chess Tour 2022"
+      },
+      {
+         "description" : "CLICK HERE FOR LIVE GAMES",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/lilve-mpl-58th-senior-national-chess-championship-2022/",
+         "pubDate" : "Sun, 27 Feb 2022 08:42:33 +0000",
+         "title" : "LIVE : MPL 58TH SENIOR NATIONAL CHESS CHAMPIONSHIP-2022"
+      },
+      {
          "description" : "World Chess Champion Magnus Carlsen has won the first event on the $1.6 million 2022 Meltwater Champions Chess after defeating Ian Nepomniachtchi with a game to spare on the 2nd day of the final. It was a repeat of the Dubai World Chess Championship match as five hard-fought draws were followed by a victory for Magnus in Game 6. Nepo had chances of hitting back in the next game but instead he went from winning to lost in the space of a few moves. Magnus said his next event will likely be the next Tour event, starting March 19th.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -376,14 +408,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/airthings-masters-2022-d6",
          "pubDate" : "Fri, 25 Feb 2022 05:25:00 +0100",
          "title" : "Airthings Masters SF: Carlsen and Nepo reach the final"
-      },
-      {
-         "description" : "CLICK HERE FOR LIVE GAMES",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-mpl-58th-senior-national-chess-championship-2022/",
-         "pubDate" : "Fri, 25 Feb 2022 03:34:54 +0000",
-         "title" : "LIVE GAMES : MPL 58TH SENIOR NATIONAL CHESS CHAMPIONSHIP-2022"
       },
       {
          "description" : " Frank Street became a National Master in June 1965 and in the same year, graced the cover of Chess life magazine. As a 20-year old Street had just won the U.S. Amateur Championship and would go on to win the club champion of the Washington Chess Divan, defeating fellow master, Kenneth Clayton. Street also famously [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/24/black-history-month-2022-day-24-frank-street/\">Black History Month 2022-Day 24: Frank Street</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -1186,14 +1210,6 @@ news_feed (
          "title" : "Black History Month 2022-Day 19: James McCune Smith"
       },
       {
-         "description" : "Due to runway maintenance at Port Blair airport, flights are not available to travel to Port Blair for participants and lecturers. Considering the same, AICF",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-arbiter-seminar-11-13-march-2022-shift-of-venue/",
-         "pubDate" : "Sat, 19 Feb 2022 17:17:35 +0000",
-         "title" : "Fide Arbiter Seminar (11-13 March 2022) Shift of Venue"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1794,14 +1810,6 @@ news_feed (
          "title" : "Yaniela Forgas wins Cuban Women's Championship"
       },
       {
-         "description" : " <p class=\"lead\">Casual and professional chess players alike now have access to the unique tool that can convert any chess game into a <a href=\"https://worldchess.com/nft\">uniquely-designed chess piece NFT</a> courtesy of Algorand and FIDE Online Arena, the official gaming platform of the International Chess Federation. The game's data (called 'FEN') is fed into a complicated AI algorithm that generates a unique 3D chess piece which is then minted as an NFT and can be traded, sold, or exchanged on Algorand NFT marketplaces. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/9C0CDF1F-E5F0-48F4-BCEE-1393CE09625B.jpeg\" width=\"2560\" height=\"1440\" alt=\"\" /> <div class=\"e",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/trillions-of-chess-games-can-be-converted-to-beautiful-nfts-on-a/",
-         "pubDate" : "Mon, 14 Feb 2022 20:45:33 +0000",
-         "title" : "Trillions of Chess Games Can Be Converted to Beautiful NFTs on Algorand Blockchain"
-      },
-      {
          "description" : "In the Endgame Magic Show #182 Karsten M&uuml;ller continues to present endgame highlights from the Tata Steel Tournament 2022 in Wijk aan Zee. Among these highlights is a fascinating and instructive rook ending that allows you to test your rook endgame skills. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2064,14 +2072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-an-exciting-gambit",
          "pubDate" : "Thu, 10 Feb 2022 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: An exciting gambit"
-      },
-      {
-         "description" : "In the 1970s Boris Gulko was one of the best players in the USSR and the world, and he is one of the few players who has a positive score against Kasparov. In 1976, after Kortschnoi had fled the USSR, Gulko refused to sign a critical statement against Kortschnoi, and as a result Gulko was targeted by the authorities. For seven years, Gulko fought to emigrate from the Soviet Union, and in 1986 he moved to the USA, where he continued his chess career. On 9 February 2022 Gulko celebrated his 75th birthday. | Photo: Les Glassman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/boris-gulko-turns-75",
-         "pubDate" : "Thu, 10 Feb 2022 13:09:21 +0100",
-         "title" : "Boris Gulko turns 75!"
       },
       {
          "description" : " Tomorrow is the start of the 2022 Lifeline Bookfair. Hopefully i will be able to pick up a few new (second hand) chess books, although a little birdy has already told me that there may only be around 30 books on offer. This isn't actually a bad number, but most of them may be repeats of books I already own. Normally a trip to the bookfair is a fairly placid outing, but if anyone has been paying attention to what has been happening in Canberra over the last week, it might be a little spicier. The book fair is located next to a major campground, which has hosted a large number of anti-vaxx/sov cits/no madate protestors. As any good protest (and I have been to a few) does involve disrupting wh",
