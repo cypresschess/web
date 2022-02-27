@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "𝗗𝗿. 𝗦𝗮𝗻𝗷𝗮𝘆 𝗞𝗮𝗽𝗼𝗼𝗿, 𝘈𝘐𝘊𝘍 𝘗𝘳𝘦𝘴𝘪𝘥𝘦𝘯𝘵, had a great interactive session with the Grandmasters participating in the �𝗣𝗟 𝗦𝗲𝗻𝗶𝗼𝗿 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗖𝗵𝗲𝘀𝘀 𝗖𝗵𝗮𝗺𝗽𝗶𝗼𝗻𝘀𝗵𝗶𝗽 𝟮𝟬𝟮𝟮 today. They discussed",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-president-great-interactive-session-with-the-grandmasters/",
+         "pubDate" : "Sun, 27 Feb 2022 16:29:45 +0000",
+         "title" : "AICF President, great interactive session with the Grandmasters"
+      },
+      {
+         "description" : "The English Chess Federation (ECF) agrees with FIDE Council's recently announced decision that the 44th Chess Olympiad, including the competition for players with disabilities, as well as the FIDE Congress,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ukraine-statement/",
+         "pubDate" : "Sun, 27 Feb 2022 14:36:52 +0000",
+         "title" : "Ukraine - statement"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 68th instalment of his ChessBase show \"Understanding before Moving\", Herman shows some ideas of how to play against the King's Indian. | Photo: Tommy Grooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-68-ideas-in-the-king-s-indian",
+         "pubDate" : "Sun, 27 Feb 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 68: Ideas in the King's Indian"
+      },
+      {
+         "description" : " The ACT Junior Chess League held the first face to face junior chess event of the year, the ACT Junior Lightning Championship. An enthusiastic group turned up to play in the 11 round event, with a mixture of experienced players, and newcomers trying the event for the first time. In the end Charles Huang proved unstoppable, with a perfect 11 from 11. In second place was Larry Cheng, with Connor Amoore in outright third. The tournament ran smoothly (with no crying!), and the event followed the required health protocols. As we were playing at one of local Canberra High Schools, we did require masks for all players, but this don't seem to be a problem. Hopefully there will be a few more events ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/junior-chess-back-on-in-canberra.html",
+         "pubDate" : "Sun, 27 Feb 2022 13:12:00 +0000",
+         "title" : "Junior chess back on in Canberra"
+      },
+      {
          "description" : "The new ChessBase Magazine #206 once again offers a wealth of ideas and recommendations for your repertoire. Besides the three opening videos by Jan Werle, Daniel King and Mihail Marin as well as Rainer Knaak's trap collection, the new issue contains eleven opening articles covering a broad spectrum: from a sharp gambit in the Caro-Kann Advance Variation via \"Ruy Lopez for structuralists\" (Delayed Exchange Variation) to the new Gruenfeld trend 5.Bd2 c5!?. Imre Hera, meanwhile, takes up a radical idea against the Reti Opening with which David Navara shocked his opponent, GM Markowski, in 2011: after 1.Nf3 d5 2.c4 d4 3.b4 the creative artist continued with the novelty 3...g5!? and then also le",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +82,7 @@ news_feed (
          "title" : "Magnus Carlsen wins Airthings Masters"
       },
       {
-         "description" : " Share!Playing on both sides of the border, Michael Schleifer was the top junior in Canada and rose through the ranks to compete in the Canadian Closed. Schleifer, known as &#8220;Schlee&#8221; to his friends, starred in the New York Open as a young master. He earned his FM title in 1997 and his IM title a [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/26/black-history-month-2022-day-25-im-michael-schleifer/\">Black History Month 2022-Day 26: IM Michael Schleifer</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!9Playing on both sides of the border, Michael Schleifer was the top junior in Canada and rose through the ranks to compete in the Canadian Closed. Schleifer, known as &#8220;Schlee&#8221; to his friends, starred in the New York Open as a young master. He earned his FM title in 1997 and his IM title a [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/26/black-history-month-2022-day-25-im-michael-schleifer/\">Black History Month 2022-Day 26: IM Michael Schleifer</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/26/black-history-month-2022-day-25-im-michael-schleifer/",
@@ -607,14 +639,6 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022-2/",
          "pubDate" : "Wed, 23 Feb 2022 18:01:22 +0000",
-         "title" : "MPL 58th Senior National Chess Championship-2022"
-      },
-      {
-         "description" : "Submission of Negative Covid-19 test result is mandatory for participation in MPL 58th Senior National Chess Championship 2022 at Kanpur. Facility for test available at",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022/",
-         "pubDate" : "Wed, 23 Feb 2022 17:17:32 +0000",
          "title" : "MPL 58th Senior National Chess Championship-2022"
       },
       {
@@ -2064,14 +2088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1565",
          "pubDate" : "Thu, 10 Feb 2022 20:31:07 +0000",
          "title" : "Media warm-up for the FIDE Grand Prix held in Belgrade"
-      },
-      {
-         "description" : "This week Robert Ris shows why the almost forgotten Schara von Hennig Gambit (1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4) has become popular again and attracts players like Grischuk and Jorden van Foreest. Ris also shows a clear game-plan for Black that will help you to try this exciting gambit with success! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-an-exciting-gambit",
-         "pubDate" : "Thu, 10 Feb 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: An exciting gambit"
       },
       {
          "description" : " Tomorrow is the start of the 2022 Lifeline Bookfair. Hopefully i will be able to pick up a few new (second hand) chess books, although a little birdy has already told me that there may only be around 30 books on offer. This isn't actually a bad number, but most of them may be repeats of books I already own. Normally a trip to the bookfair is a fairly placid outing, but if anyone has been paying attention to what has been happening in Canberra over the last week, it might be a little spicier. The book fair is located next to a major campground, which has hosted a large number of anti-vaxx/sov cits/no madate protestors. As any good protest (and I have been to a few) does involve disrupting wh",
