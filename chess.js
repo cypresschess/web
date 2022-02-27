@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "𝗗𝗿. 𝗦𝗮𝗻𝗷𝗮𝘆 𝗞𝗮𝗽𝗼𝗼𝗿, 𝘈𝘐𝘊𝘍 𝘗𝘳𝘦𝘴𝘪𝘥𝘦𝘯𝘵, had a great interactive session with the Grandmasters participating in the �𝗣𝗟 𝗦𝗲𝗻𝗶𝗼𝗿 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗖𝗵𝗲𝘀𝘀 𝗖𝗵𝗮𝗺𝗽𝗶𝗼𝗻𝘀𝗵𝗶𝗽 𝟮𝟬𝟮𝟮 today. They discussed",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1603",
+         "pubDate" : "Sun, 27 Feb 2022 19:40:52 +0000",
+         "title" : "The Official Statement of FIDE Council"
+      },
+      {
+         "description" : " Share! Kenneth Clayton is a trailblazer for many reasons. A distinguished man with a presence that commanded respect, he was one of the earliest pioneers of Black chess more specifically African-American chess. He won the 1963 U.S. Amateur Championship in thrilling fashion and would precede Frank Street who won the tournament in 1965. Clayton was [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/27/black-history-month-2022-day-27-kenneth-clayton/\">Black History Month 2022-Day 27: Kenneth Clayton</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/27/black-history-month-2022-day-27-kenneth-clayton/",
+         "pubDate" : "Sun, 27 Feb 2022 18:18:15 +0000",
+         "title" : "Black History Month 2022-Day 27: Kenneth Clayton"
+      },
+      {
+         "description" : "The situation in Ukraine is constantly changing, with fierce battles in cities all over the country, including the capital Kyiv. The concern for the safety of Ukrainian players is growing in the chess world and chess24 reached out to some of them, who shared their story about what they are experiencing.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ukrainian-chess-grandmasters-caught-in-a-warzone",
+         "pubDate" : "Sun, 27 Feb 2022 18:14:05 +0000",
+         "title" : "Ukrainian Chess Grandmasters caught in a warzone"
+      },
+      {
+         "description" : "WIM Priyanka Nuttaki of Andhra Pradesh, IM Soumya Swaminathan of PSPB ended their game in peace with IM Vaishali R of Tamil Nadu and WIM",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-47th-national-women-chess-championship-2022-report-of-round-4-5/",
+         "pubDate" : "Sun, 27 Feb 2022 16:41:46 +0000",
+         "title" : "MPL 47th National Women Chess Championship-2022-Report of round 4 & 5"
+      },
+      {
+         "description" : "𝗗𝗿. 𝗦𝗮𝗻𝗷𝗮𝘆 𝗞𝗮𝗽𝗼𝗼𝗿, AICF President, had a great interactive session with the Grandmasters participating in the �𝗣𝗟 𝗦𝗲𝗻𝗶𝗼𝗿 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗖𝗵𝗲𝘀𝘀 𝗖𝗵𝗮𝗺𝗽𝗶𝗼𝗻𝘀𝗵𝗶𝗽 𝟮𝟬𝟮𝟮 today. They discussed",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/aicf-president-great-interactive-session-with-the-grandmasters/",
@@ -82,10 +114,10 @@ news_feed (
          "title" : "Magnus Carlsen wins Airthings Masters"
       },
       {
-         "description" : " Share!9Playing on both sides of the border, Michael Schleifer was the top junior in Canada and rose through the ranks to compete in the Canadian Closed. Schleifer, known as &#8220;Schlee&#8221; to his friends, starred in the New York Open as a young master. He earned his FM title in 1997 and his IM title a [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/26/black-history-month-2022-day-25-im-michael-schleifer/\">Black History Month 2022-Day 26: IM Michael Schleifer</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Playing on both sides of the border, Michael Schleifer was the top junior in Canada and rose through the ranks to compete in the Canadian Closed. Schleifer, known as &#8220;Schlee&#8221; to his friends, starred in the New York Open as a young master. He earned his FM title in 1997 and his IM title a [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/26/black-history-month-2022-day-26-im-michael-schleifer/\">Black History Month 2022-Day 26: IM Michael Schleifer</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/26/black-history-month-2022-day-25-im-michael-schleifer/",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/26/black-history-month-2022-day-26-im-michael-schleifer/",
          "pubDate" : "Sun, 27 Feb 2022 04:58:33 +0000",
          "title" : "Black History Month 2022-Day 26: IM Michael Schleifer"
       },
@@ -632,14 +664,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-504",
          "pubDate" : "Wed, 23 Feb 2022 21:10:00 +0100",
          "title" : "Game of the Week #504: Nepo outplays Carlsen"
-      },
-      {
-         "description" : "MPL 58th Senior National Chess Championship-2022 All The participants are here by requested to find the following details for accommodation purpose Kartar Guest House &#38;Hotel",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022-2/",
-         "pubDate" : "Wed, 23 Feb 2022 18:01:22 +0000",
-         "title" : "MPL 58th Senior National Chess Championship-2022"
       },
       {
          "description" : "GM&#38;nbsp;Baadur Jobava and GM Daniel Naroditsky, some of the earliest winners of Titled Tuesday back in 2014, won Titled Tuesday again on February 22, 2022. Neither player needed the tiebreak system as Jobava had the best score of the day with 10/1...",
@@ -1282,14 +1306,6 @@ news_feed (
          "title" : "2022 Spring Chess Classic: Round 1"
       },
       {
-         "description" : " Chess enthusiasts around the world have enjoyed the game for centuries and are familiar with its Indian origins. However, there are alternate theories of how chess was spread. Some have suggested that chess played today descended from Africa. I have heard this suggestion made by chess enthusiasts based on a particular image of Queen Nefertari. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/18/black-history-month-2022-day-18-nefertari-senet/\">Black History Month 2022-Day 18: Queen Nefertari &#038; Senet</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/18/black-history-month-2022-day-18-nefertari-senet/",
-         "pubDate" : "Fri, 18 Feb 2022 22:50:50 +0000",
-         "title" : "Black History Month 2022-Day 18: Queen Nefertari & Senet"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1384,14 +1400,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-two/",
          "pubDate" : "Fri, 18 Feb 2022 08:29:46 +0000",
          "title" : "A Foundation for Beginners Fifty Two"
-      },
-      {
-         "description" : "Hikaru Nakamura beat Levon Aronian 2:0 in tiebreaks to clinch victory in the Berlin FIDE Grand Prix, putting him in pole position in the race to pick up one of the two Candidates Tournament spots available through the Grand Prix series. It was a remarkable return after two years away from classical chess for Hikaru, who finished unbeaten and more than justified his wild card spot. The final tiebreak games were nervous, with Levon missing chances to draw the first game before Hikaru defended a tough position in the second well to wrap up victory.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-returns-to-triumph-in-berlin-grand-prix",
-         "pubDate" : "Fri, 18 Feb 2022 00:59:21 +0000",
-         "title" : "Nakamura returns to triumph in Berlin Grand Prix"
       },
       {
          "description" : "",
