@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Chess Champion Magnus Carlsen has won the first event on the $1.6 million 2022 Meltwater Champions Chess after defeating Ian Nepomniachtchi with a game to spare on the 2nd day of the final. It was a repeat of the Dubai World Chess Championship match as five hard-fought draws were followed by a victory for Magnus in Game 6. Nepo had chances of hitting back in the next game but instead he went from winning to lost in the space of a few moves. Magnus said his next event will likely be the next Tour event, starting March 19th.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-triumphs-in-airthings-masters",
+         "pubDate" : "Sun, 27 Feb 2022 08:09:08 +0000",
+         "title" : "Magnus Carlsen triumphs in Airthings Masters"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89864471.cms\" />Magnus Carlsen bagged the first event of the 2022 Meltwater Champions Chess Tour, the Airthings Masters, after overcoming Ian Nepomniachtchi with a classy display on Saturday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-wins-airthings-masters/articleshow/89864471.cms",
+         "pubDate" : "Sun, 27 Feb 2022 10:50:37 +0530",
+         "title" : "Magnus Carlsen wins Airthings Masters"
+      },
+      {
+         "description" : " Share!Playing on both sides of the border, Michael Schleifer was the top junior in Canada and rose through the ranks to compete in the Canadian Closed. Schleifer, known as &#8220;Schlee&#8221; to his friends, starred in the New York Open as a young master. He earned his FM title in 1997 and his IM title a [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/26/black-history-month-2022-day-25-im-michael-schleifer/\">Black History Month 2022-Day 26: IM Michael Schleifer</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/26/black-history-month-2022-day-25-im-michael-schleifer/",
+         "pubDate" : "Sun, 27 Feb 2022 04:58:33 +0000",
+         "title" : "Black History Month 2022-Day 26: IM Michael Schleifer"
+      },
+      {
          "description" : "Magnus Carlsen won the first event of the 2022 Meltwater Champions Chess Tour as he beat Ian Nepomniachtchi in the finals of the Airthings Masters. After drawing the first set on Friday, the world champion won the second 4-game mini-match by a 2&frac12;-&frac12; score. Nepo did not go down easy, though it was Carlsen who performed at a higher level at the critical points in games 2 and 3.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -154,7 +178,7 @@ news_feed (
          "title" : "Airthings Masters Final: Exciting draws"
       },
       {
-         "description" : " Share! Watu Kobese with his Xhosa-language chess book, &#8220;Masidlale Uthimba&#8220;. Photo by Mariska Morris. IM Watu Kobese has been the most recognizable chess player South Africa has ever produced. His life is one of many stories. Learning chess at the age of four, Kobese learned the game by watching his father Arthur Kobese and would [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/25/black-history-month-2022-day-25-im-watu-kobese/\">Black History Month 2022-Day 25: IM Watu Kobese</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Watu Kobese with his Xhosa-language chess book, &#8220;Masidlale Uthimba&#8220;. Photo by Mariska Morris. IM Watu Kobese has been the most recognizable chess player South Africa has ever produced. His life is one of many stories. Learning chess at the age of four, Kobese learned the game by watching his father Arthur Kobese and would later [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/25/black-history-month-2022-day-25-im-watu-kobese/\">Black History Month 2022-Day 25: IM Watu Kobese</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/25/black-history-month-2022-day-25-im-watu-kobese/",
@@ -1322,14 +1346,6 @@ news_feed (
          "title" : "A Foundation for Beginners Fifty Two"
       },
       {
-         "description" : " Born September 28th, 1941, Walter Harris is known as the first Black chess player to earn the U.S. Chess Federation National Master title. There are a number of articles about Harris on The Chess Drum, twice as an interview subject {2006 (phone), 2014 (in-person)}. Walter Harris in action against Bill Slater at the Marshall Chess [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/17/black-history-month-2022-day-17-walter-harris/\">Black History Month 2022-Day 17: Walter Harris</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/17/black-history-month-2022-day-17-walter-harris/",
-         "pubDate" : "Fri, 18 Feb 2022 01:44:41 +0000",
-         "title" : "Black History Month 2022-Day 17: Walter Harris"
-      },
-      {
          "description" : "Hikaru Nakamura beat Levon Aronian 2:0 in tiebreaks to clinch victory in the Berlin FIDE Grand Prix, putting him in pole position in the race to pick up one of the two Candidates Tournament spots available through the Grand Prix series. It was a remarkable return after two years away from classical chess for Hikaru, who finished unbeaten and more than justified his wild card spot. The final tiebreak games were nervous, with Levon missing chances to draw the first game before Hikaru defended a tough position in the second well to wrap up victory.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1464,14 +1480,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/england-v-sweden-challenge-match/",
          "pubDate" : "Thu, 17 Feb 2022 00:23:11 +0000",
          "title" : "England v Sweden Challenge Match"
-      },
-      {
-         "description" : "\"One of us is very wrong about the evaluation\", said Hikaru Nakamura after a tense battle in the second game of the Berlin FIDE Grand Prix final suddenly ended in a draw. It was perhaps Hikaru who was wrong, since Levon Aronian did have a significant advantage until blundering into that draw, though it certainly wasn't the kind of advantage that you expect to easily convert into a win against a top player. Hikaru and Levon will now play a rapid tiebreak on Thursday to decide who wins the first leg of the 2022 FIDE Grand Prix.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/berlin-grand-prix-final-2-tiebreaks-it-is",
-         "pubDate" : "Wed, 16 Feb 2022 22:53:19 +0000",
-         "title" : "Berlin Grand Prix Final 2: Tiebreaks it is!"
       },
       {
          "description" : "The second game of the final between GM Levon Aronian and GM Hikaru Nakamura ended in a draw in only 29 moves after a threefold repetition, leaving the scores tied at the end of the classical games of the final of the 2022 FIDE Grand Prix first le...",
