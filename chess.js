@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Russia, the biggest superpower in chess, has been effectively banned from the game it considers its own alongside its neighbour Belarus. FIDE, the world governing body of chess, took the momentous step to take action against both countries at an emergency meeting of its FIDE Council held today. ",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-bans-russia-from-holding-chess-events",
+         "pubDate" : "Sun, 27 Feb 2022 21:54:36 +0000",
+         "title" : "Russia and Belarus banned from world chess events, Karjakin to face ethics case"
+      },
+      {
+         "description" : "Following an extraordinary meeting of the FIDE Council held on Sunday, the International Chess Federation has officially condemned Russia&#39;s invasion in Ukraine and taken a number of measures against Russia and Belarus, including a ban on hosting o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-council-ukraine-belarus-russia",
+         "pubDate" : "Sun, 27 Feb 2022 13:15:00 -0800",
+         "title" : "FIDE Condemns Military Action; Takes Measures Against Russia, Belarus"
+      },
+      {
+         "description" : "The most exciting and talked-about game of the 2021 World Championship was game 6. Statistically, the sixth game of a World Championship match has yielded more decisive results than any other game. This one proved to be no exception, as records kept tumbling. The game had various layers of action and consequences. GM Sundararajan Kidambi explains the game arising out of Catalan opening. | Photo: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/an-epic-catalan-battle-world-chess-championship-2021",
+         "pubDate" : "Sun, 27 Feb 2022 22:00:00 +0100",
+         "title" : "An epic Catalan battle"
+      },
+      {
+         "description" : " Former Italian international Stefano Bruzzi, who emigrated to England in the 1960s and played for Surbiton Chess Club for many years, died recently. I only had the honour of playing him on one occasion, in 2015. By that time he was often happy with a short draw, and I've never been averse either, so the <a href=\"https://chessimprover.com/stefano-bruzzi/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stefano Bruzzi\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stefano-bruzzi/\">Stefano Bruzzi</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/stefano-bruzzi/",
+         "pubDate" : "Sun, 27 Feb 2022 20:27:15 +0000",
+         "title" : "Stefano Bruzzi"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -120,6 +152,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/26/black-history-month-2022-day-26-im-michael-schleifer/",
          "pubDate" : "Sun, 27 Feb 2022 04:58:33 +0000",
          "title" : "Black History Month 2022-Day 26: IM Michael Schleifer"
+      },
+      {
+         "description" : "(Originally posted HERE on the CFC Forums) The Chess Federation of Canada condemns the Russian Federation invasion of the sovereign nation of Ukraine. We reject the stated pretexts and justifications advanced for this evil and illegal act and urge the Russian Federation to leave Ukraine immediately and cease waging war against the Ukrainian people. All parties should work together to reach a resolution that respects Ukrainian sovereignty and their democratic right of self determination.",
+         "iconLink" : "https://cypresschess.github.io/web/canada2.png",
+         "iconName" : "Canadian<br>Chess",
+         "link" : "https://www.chess.ca/en/news/2022/02/27/cfc-condemns-russian-invasion-of-ukraine/",
+         "pubDate" : "Sun, 27 Feb 2022 00:00:00 +0000",
+         "title" : "CFC condemns Russian invasion of Ukraine"
       },
       {
          "description" : "Magnus Carlsen won the first event of the 2022 Meltwater Champions Chess Tour as he beat Ian Nepomniachtchi in the finals of the Airthings Masters. After drawing the first set on Friday, the world champion won the second 4-game mini-match by a 2&frac12;-&frac12; score. Nepo did not go down easy, though it was Carlsen who performed at a higher level at the critical points in games 2 and 3.",
@@ -1330,14 +1370,6 @@ news_feed (
          "title" : "I Played Perfectly Versus the Ruy Lopez... (Instructive Classical Chess)"
       },
       {
-         "description" : "The Airthings Masters, the first event on the $1.6 million Meltwater Champions Chess Tour, kicks off Saturday 19th February with World Champion Magnus Carlsen topping a field full of ambitious young players. Fighting chess will be rewarded in 2022, both with cash for wins and a Season Bonus Fund of up to $200,000. David Smerdon's Fighting Chess Index will be used to award prizes, while there are also prizes for performing above expectations or playing brilliant games. New Tour ratings are being introduced to chart how players perform online.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/champions-chess-tour-to-reward-fighting-chess",
-         "pubDate" : "Fri, 18 Feb 2022 19:01:59 +0000",
-         "title" : "Champions Chess Tour to reward fighting chess"
-      },
-      {
          "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour with a glittering lineup featuring Magnus Carlsen and the new male and female world rapid champions. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1890,14 +1922,6 @@ news_feed (
          "title" : "Rapid Chess Championship Week 1: Nepo Strikes Back And Wins"
       },
       {
-         "description" : "GM Levon Aronian and GM Hikaru Nakamura comfortably neutralized the challenges of GM Leinier Dominguez and GM Richard Rapport respectively in the second game of the semifinal matches to set up an all-American clash in the final of the first leg of...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-semifinals-g2",
-         "pubDate" : "Sun, 13 Feb 2022 14:17:00 -0800",
-         "title" : "2022 FIDE Grand Prix Berlin SF2: Aronian, Nakamura Sail To Finals"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2050,14 +2074,6 @@ news_feed (
          "title" : "Hybrid Match: ECU Board vs Berlin Chess Association"
       },
       {
-         "description" : "Frequent evaluation swings in tense-filled encounters made for an exciting sixth round at the FIDE Grand Prix in Berlin. In the end, the one player who secured a spot in the semifinals on Thursday was Hikaru Nakamura. Naka and Levon Aronian, who qualified after round 5, will face the winners of Friday's playoffs. In the rapid and blitz tiebreakers, Richard Rapport will face Radoslaw Wojtaszek, and Wesley So will play Leinier Dominguez. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r6",
-         "pubDate" : "Fri, 11 Feb 2022 10:10:00 +0100",
-         "title" : "Berlin GP: Nakamura in semis after wild sixth round"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2136,14 +2152,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/happy-100-yuri.html",
          "pubDate" : "Tue, 08 Feb 2022 22:34:00 +0000",
          "title" : "Happy 100 Yuri"
-      },
-      {
-         "description" : " &#8220;The beauty of a move lies not in its appearance but in the thought behind it&#8221; A. Nimzovich Playing a blunder is devastating. It is also expected in games played by regular players. In the rare occasion it happens to the best, they are received with mixed feelings. On one hand they provide a high <a href=\"https://chessimprover.com/blunder-in-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Blunder in 1\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/blunder-in-1/\">Blunder in 1</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/blunder-in-1/",
-         "pubDate" : "Tue, 08 Feb 2022 15:23:36 +0000",
-         "title" : "Blunder in 1"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e4d27c07-0408-4411-9c63-d7828a0f83dd/Simon.final.jpg\" data-image-dimensions=\"433x218\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6202745412b373322cc074f4\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e4d27c07-0408-4411-9c63-d7828a0f83dd/Simon.final.jpg?format=1000w\" /> </figure> <p class=\"\">GM SImon William, aka \"The Ginger GM\" is an entertaining and popular commentator, <a href=\"https://www.youtube.com/c/GingerGM\" target=\"_blank\">YouTube Creator</a>, <a h",
