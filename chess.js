@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grandmasters Dr. Karsten Mueller and Luis Engel have set a ball rolling in Germany with their latest Fritztrainer. GM Lars Bo Hansen designed the four-player model in 2005, and was perhaps ahead of his time. In the 5-part interview with Dr. Karsten Mueller, all four player types are discussed in detail. Today - The Activist.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/player-types-the-summary",
+         "pubDate" : "Mon, 28 Feb 2022 06:05:25 +0100",
+         "title" : "Player Types - The Summary"
+      },
+      {
          "description" : "An extraordinary meeting of the FIDE Council took place on Sunday to address the issues related to Russia's invasion of Ukraine. Among other decisions, the council decided to ban Russia and Belarus from organizing official FIDE competitions, to terminate sponsorship agreements with Belarusian and Russian sanctioned and/or state-controlled companies, and to condemn public statements from members of the chess community who support unjustified military action - i.e. Sergey Karjakin and Sergey Shipov. | Pictured: GM Oleksandr Sulypa, captain of the Ukrainian chess team, armed in the city of Lviv",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +66,7 @@ news_feed (
          "title" : "The Official Statement of FIDE Council"
       },
       {
-         "description" : " Share! Kenneth Clayton is a trailblazer for many reasons. A distinguished man with a presence that commanded respect, he was one of the earliest pioneers of Black chess more specifically African-American chess. He won the 1963 U.S. Amateur Championship in thrilling fashion and would precede Frank Street who won the tournament in 1965. Clayton was [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/27/black-history-month-2022-day-27-kenneth-clayton/\">Black History Month 2022-Day 27: Kenneth Clayton</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!128 Kenneth Clayton is a trailblazer for many reasons. A distinguished man with a presence that commanded respect, he was one of the earliest pioneers of Black chess more specifically African-American chess. He won the 1963 U.S. Amateur Championship in thrilling fashion and would precede Frank Street who won the tournament in 1965. Clayton was [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/27/black-history-month-2022-day-27-kenneth-clayton/\">Black History Month 2022-Day 27: Kenneth Clayton</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/27/black-history-month-2022-day-27-kenneth-clayton/",
@@ -2050,14 +2058,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: The Archbishop and the Octopus Knight"
       },
       {
-         "description" : "If you think of a massively creative chess player, who comes to mind? Tal? Larsen? Creativity in chess is fairly important, to find \"impossible\" moves in a chess game. Moves, which would never cross your mind. But regularly, these are the moves which can decide a game in a beautiful way. Svitlana was taught creativity in chess by one of her coaches, and passes her knowledge on to us.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-30",
-         "pubDate" : "Fri, 11 Feb 2022 17:02:00 +0100",
-         "title" : "Svitlana's Smart Moves - Ivanchuk and Shirov demonstrate creativity in chess"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2208,14 +2208,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/a-better-understanding.html",
          "pubDate" : "Mon, 07 Feb 2022 13:07:00 +0000",
          "title" : "A better understanding"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1561",
-         "pubDate" : "Mon, 07 Feb 2022 05:28:24 +0000",
-         "title" : "FIDE Grand Prix: Levon elevates his game in Berlin"
       }
    ]
 }
