@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An extraordinary meeting of the FIDE Council took place on Sunday to address the issues related to Russia's invasion of Ukraine. Among other decisions, the council decided to ban Russia and Belarus from organizing official FIDE competitions, to terminate sponsorship agreements with Belarusian and Russian sanctioned and/or state-controlled companies, and to condemn public statements from members of the chess community who support unjustified military action - i.e. Sergey Karjakin and Sergey Shipov. | Pictured: GM Oleksandr Sulypa, captain of the Ukrainian chess team, armed in the city of Lviv",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-council-condemns-russia-military-action",
+         "pubDate" : "Mon, 28 Feb 2022 04:00:00 +0100",
+         "title" : "FIDE Council condemns Russia's military action"
+      },
+      {
          "description" : "An all-American semifinals led GM Fabiano Caruana to best the field for the second week in a row, winning week three of the 2022 Rapid Chess Championship presented by Coinbase. GM Jeffery Xiong finished second while the other American heroes, GM H...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "FIDE Condemns Military Action; Takes Measures Against Russia, Belarus"
       },
       {
-         "description" : "The most exciting and talked-about game of the 2021 World Championship was game 6. Statistically, the sixth game of a World Championship match has yielded more decisive results than any other game. This one proved to be no exception, as records kept tumbling. The game had various layers of action and consequences. GM Sundararajan Kidambi explains the game arising out of Catalan opening. | Photo: Shahid Ahmed",
+         "description" : "The most exciting and talked-about game of the 2021 World Championship was game 6. Statistically, the sixth game of a World Championship match has yielded more decisive results than any other game. This one proved to be no exception, as records kept tumbling. The game had various layers of action and consequences. GM Sundararajan Kidambi explains the game arising out of a Catalan opening. | Photo: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/an-epic-catalan-battle-world-chess-championship-2021",
@@ -2064,14 +2072,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/bishop-or-fool.html",
          "pubDate" : "Fri, 11 Feb 2022 12:03:00 +0000",
          "title" : "Bishop or Fool"
-      },
-      {
-         "description" : "As part of the Berlin Grand Prix, members of the Berlin Chess Association played a friendly \"hybrid\" four-board match against members of the ECU Board. The ECU team played from Thessaloniki, the Berlin team from Berlin, and after an exciting battle the match of the officials ended with a 2-2 tie.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hybrid-match-ecu-board-vs-berlin-chess-association",
-         "pubDate" : "Fri, 11 Feb 2022 10:44:35 +0100",
-         "title" : "Hybrid Match: ECU Board vs Berlin Chess Association"
       },
       {
          "description" : "",
