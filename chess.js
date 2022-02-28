@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Grandmasters Dr. Karsten Mueller and Luis Engel have set a ball rolling in Germany with their latest Fritztrainer. GM Lars Bo Hansen designed the four-player model in 2005, and was perhaps ahead of his time. In the 5-part interview with Dr. Karsten Mueller, all four player types are discussed in detail. Today - The Activist.",
+         "description" : "Wednesday 4th May to Sunday 8th May 2022 at the Holiday Inn Kenilworth-Warwick, 212 Abbey End, Kenilworth CV8 1ED. Over 50 - players must be aged 50 or over on...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-seniors-championships-2022/",
+         "pubDate" : "Mon, 28 Feb 2022 08:52:30 +0000",
+         "title" : "English Seniors Championships 2022"
+      },
+      {
+         "description" : "The 30-year-old is a resident doctor in a city hospital and moved to Ukraine in 2012 to have better chess tournament opportunities.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33390116/indian-chess-im-anwesh-upadhyaya-caught-ukraine-amid-russia-war?device=featurephone",
+         "pubDate" : "Mon, 28 Feb 2022 02:49:01 -0500",
+         "title" : "Indian chess IM in Ukraine is safe in Kyiv but faces tough call on trek to border"
+      },
+      {
+         "description" : "The Grandmasters Dr. Karsten Mueller and Luis Engel have set a ball rolling in Germany with their latest Fritztrainer. GM Lars Bo Hansen designed the four-player model in 2005, and was perhaps ahead of his time. In the 5-part interview with Dr. Karsten Mueller, all four player types are discussed in detail. Today - The Summary, and questions about all four types.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/player-types-the-summary",
