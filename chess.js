@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Russia attacked Ukraine. We are witnessing a humanitarian catastrophe that appears to be as painful as it is unnecessary. We very much hope for a peaceful solution. We changed our logo into a sign of peace to show our support for Ukraine and as a call for an immediate ceasefire. While the war is taking place in Ukraine, World Chess will use the anti-war logo in all of its broadcasts and will join the chess community and the world in calling for peace. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-02-28_17-22-32.jpg\" width=\"1280\" height=\"720\" alt=\"\" /> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-changes-logo-to-anti-war-version/",
+         "pubDate" : "Mon, 28 Feb 2022 16:23:06 +0000",
+         "title" : "World Chess Changes Logo to Anti-War Version"
+      },
+      {
+         "description" : "This week Robert Ris presents the \"Ukrainian Immortal\", a fantastic game, in which White slowly develops a strong attack, which he crowns with a series of sacrifices. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-ukrainian-immortal",
+         "pubDate" : "Mon, 28 Feb 2022 16:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: The Ukrainian Immortal"
+      },
+      {
          "description" : "Shri Bharat Singh Chauhan, Hony Secretary of All India Chess Federation met Sports loving Chief Minister of Tamil Nadu Thiru M K Stalin today at",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1850,14 +1866,6 @@ news_feed (
          "title" : "Ding Liren, World's Number 3, Replaced in the Grand Prix Series"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/8EeNde-S6eI?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-finals-g1-broadcast/",
-         "pubDate" : "Tue, 15 Feb 2022 13:10:17 +0000",
-         "title" : "FIDE Grand Prix Finals G1 Broadcast"
-      },
-      {
          "description" : " The first World Junior Champion, Borislav Ivkov has passed away at the age of 88. He won the title in 1951, which also signalled the start of a successful career. He qualified for the Candidates Matches in 1964 (losing to Larsen in the 1st round), and represented Yugoslavia in the Chess Olympiad 12 times. He also had the distinction of beating 5 World Champions (including Fischer) and being Yugoslavian Champion 3 times. <b>Ivkov,Borislav - Penrose,Jonathan [D15]</b><br />Wch U20 final-A Copenhagen (6), 1953 <script>new PgnViewer( { boardName: \"game1310\", movesFormat: \"default\", pgnString:'1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.Nc3 dxc4 5.e3 b5 6.a4 b4 7.Na2 e6 8.Bxc4 Be7 9.O-O O-O 10.b3 Bb7 11.Bb2 Nbd",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2064,14 +2072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/one-false-move",
          "pubDate" : "Sat, 12 Feb 2022 09:00:00 +0100",
          "title" : "One false move!"
-      },
-      {
-         "description" : "The two players who won their round-6 games to force tiebreaks in their respective groups managed to also win their 2-game rapid matches on Friday to reach the semifinals of the FIDE Grand Prix in Berlin. Leinier Dominguez knocked out Wesley So and will face an in-form Levon Aronian, while Rapport eliminated Radoslaw Wojtaszek and thus gained the right to face Hikaru Nakamura in semis. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-r7",
-         "pubDate" : "Fri, 11 Feb 2022 20:15:00 +0100",
-         "title" : "Berlin GP: Dominguez and Rapport win tiebreakers, reach semis"
       },
       {
          "description" : "",
