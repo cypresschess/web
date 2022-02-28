@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An all-American semifinals led GM Fabiano Caruana to best the field for the second week in a row, winning week three of the 2022 Rapid Chess Championship presented by Coinbase. GM Jeffery Xiong finished second while the other American heroes, GM H...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-week-3-caruana-wins",
+         "pubDate" : "Sun, 27 Feb 2022 17:17:21 -0800",
+         "title" : "Rapid Chess Championship Week 3: Caruana Wins Second Consecutive Week"
+      },
+      {
          "description" : "Russia, the biggest superpower in chess, has been effectively banned from the game it considers its own alongside its neighbour Belarus. FIDE, the world governing body of chess, took the momentous step to take action against both countries at an emergency meeting of its FIDE Council held today. ",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/fide-bans-russia-from-holding-chess-events",
          "pubDate" : "Sun, 27 Feb 2022 21:54:36 +0000",
-         "title" : "Russia and Belarus banned from world chess events, Karjakin to face ethics case"
+         "title" : "Russia and Belarus banned from holding world chess events, Karjakin to face ethics case"
       },
       {
          "description" : "Following an extraordinary meeting of the FIDE Council held on Sunday, the International Chess Federation has officially condemned Russia&#39;s invasion in Ukraine and taken a number of measures against Russia and Belarus, including a ban on hosting o...",
@@ -1912,14 +1920,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1573",
          "pubDate" : "Mon, 14 Feb 2022 02:04:32 +0000",
          "title" : "Arbiters' Manual 2022 released"
-      },
-      {
-         "description" : "GM Ian Nepomniachtchi won the knockout phase of the inaugural 2022 Rapid Chess Championship tournament presented by Coinbase. GM Anish Giri finished second in the knockout&#38;mdash;after taking first in the preliminary Swiss tournament&#38;mdash;while GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-week-1-nepomniachtchi-wins",
-         "pubDate" : "Sun, 13 Feb 2022 16:09:00 -0800",
-         "title" : "Rapid Chess Championship Week 1: Nepo Strikes Back And Wins"
       },
       {
          "description" : "",
