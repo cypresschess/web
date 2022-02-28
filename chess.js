@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Shri Bharat Singh Chauhan, Hony Secretary of All India Chess Federation met Sports loving Chief Minister of Tamil Nadu Thiru M K Stalin today at",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-secretary-met-chief-minister-of-tamil-nadu/",
+         "pubDate" : "Mon, 28 Feb 2022 12:33:34 +0000",
+         "title" : "AICF Secretary met Chief Minister of Tamil Nadu"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89898950.cms\" />Young Grandmasters Arjun Erigaisi of Telangana and D Gukesh of Tamil Nadu grabbed the joint lead with 5.5 points at the end of the sixth round in the MPL 58th Senior National Chess Championship on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-gukesh-in-lead-in-senior-national-chess/articleshow/89898950.cms",
+         "pubDate" : "Mon, 28 Feb 2022 18:00:21 +0530",
+         "title" : "Arjun Erigaisi, Gukesh in lead in senior national chess"
+      },
+      {
          "description" : " One thing that I overlooked when planning the 2022 Doeberl Cup was to increase the <a href=\"https://www.doeberlcup.com.au/prizes.html\">prize money</a> for the Blitz event. There were over 120 players in 2021, although almost all the top players gave it a miss. Based on (a) the size of the field and (b) attracting stronger players, the prize pool for the 2022 Kinford Consulting Doeberl Cup Blitz has been increased 50% to $890. First prize is now $250 (up from $150), while other prizes have bee added (or increased). Once again the tournament will take place on Saturday night (16th April) and will be both FIDE and ACF rated. <br /> <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -432,14 +448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-king-s-gambit-lives",
          "pubDate" : "Fri, 25 Feb 2022 19:56:56 +0100",
          "title" : "Daniel King's Power Play Show: The King's Gambit lives again"
-      },
-      {
-         "description" : "MPL 47th NATIONAL WOMEN CHESS CHAMPIONSHIP-2022. MPL 47th National Women Chess Championship was inaugurated by the chief guest Prof.Deepak Kumar Behera,Vice-Chancellor,KIIS University in the presence",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/iinauguration-report-of-mpl-47th-national-women-chess-championship-2022/",
-         "pubDate" : "Fri, 25 Feb 2022 17:15:39 +0000",
-         "title" : "Inauguration report of MPL 47th National Women Chess Championship-2022"
       },
       {
          "description" : "",
@@ -2224,14 +2232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1563",
          "pubDate" : "Mon, 07 Feb 2022 23:06:29 +0000",
          "title" : "FIDE Grand Prix: Aronian and So make their claim "
-      },
-      {
-         "description" : " It has been a while since I have featured Lev Aronian on these pages, but the following game from the current FIDE Grand Prix caught my eye. It wasn't so much the effortless way he gained a winning advantage against Vincent Keymer, but how early in the game he did so. I would say he was clearly winning by move 18, but more so, was completely winning at move 24. I suspect Aronian new he was winning, and Keymer probably knew he was completely lost. Probably the only strong players who may have underestimated Aronian's advantage would have been various chess engines, who gave Aronian a pawn advantage at best. To a human, control of the 7th rank supported by the bishop on d6 was an 'eternal' ad",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/a-better-understanding.html",
-         "pubDate" : "Mon, 07 Feb 2022 13:07:00 +0000",
-         "title" : "A better understanding"
       }
    ]
 }
