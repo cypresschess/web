@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the second week of March, the French capital will host the \"Chess for Mental Health\" international event. The conference will cover various topics related to mental health, including autism, DYS, concentration, hyperactivity. The event's keynote is how chess can improve multiple aspects of mental health.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-for-mental-health-conference-2022",
+         "pubDate" : "Mon, 28 Feb 2022 21:00:00 +0100",
+         "title" : "French Chess Federation organizes \"Chess for Mental Health\" conference"
+      },
+      {
+         "description" : "European Women's Chess Gala, a special multi-event dedicated to Women's Chess, took place on 26-27 February in Monaco. The event started with activities on Saturday, 26th of February. IM Almira Skripchenko and GM Pia Cramling had the simultaneous exhibition, playing a simul on 16 boards. The Prince Albert II of Monaco participated in the simultaneous exhibition. The chess&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-gala-concluded-in-monaco/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-gala-concluded-in-monaco/",
+         "pubDate" : "Mon, 28 Feb 2022 19:45:50 +0000",
+         "title" : "European Women's Chess Gala concluded in Monaco"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1604",
+         "pubDate" : "Mon, 28 Feb 2022 17:14:09 +0000",
+         "title" : "Parligras and Ciolacu win Romanian Championship"
+      },
+      {
+         "description" : "WGM Divya Deshmukh (MAH) took the sole lead with 5.5 points by defeating her state mate WIM Chitlange Sakshi. The game between the top seed",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-47th-national-women-chess-championship-2022-report-of-round-6-7-wgm-divya-deshmukh-took-the-sole-lead/",
+         "pubDate" : "Mon, 28 Feb 2022 17:06:51 +0000",
+         "title" : "MPL 47th National Women Chess Championship-2022 Report of round-6 & 7 WGM Divya Deshmukh took the Sole lead."
+      },
+      {
+         "description" : "In the Endgame Magic Show #183 Karsten M&uuml;ller presents endgame highlights from the Airthings Masters, the online rapid tournament which World Champion Magnus Carlsen won last Saturday by defeating Ian Nepomniachtchi in the finals. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-183-endgame-highlights-from-the-airthings-masters",
+         "pubDate" : "Mon, 28 Feb 2022 18:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic Show #183: Endgame highlights from the Airthings Masters"
+      },
+      {
          "description" : " Russia attacked Ukraine. We are witnessing a humanitarian catastrophe that appears to be as painful as it is unnecessary. We very much hope for a peaceful solution. We changed our logo into a sign of peace to show our support for Ukraine and as a call for an immediate ceasefire. While the war is taking place in Ukraine, World Chess will use the anti-war logo in all of its broadcasts and will join the chess community and the world in calling for peace. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-02-28_17-22-32.jpg\" width=\"1280\" height=\"720\" alt=\"\" /> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -384,14 +424,6 @@ news_feed (
          "link" : "https://www.europechess.org/press-release-ukraine/",
          "pubDate" : "Sat, 26 Feb 2022 11:39:38 +0000",
          "title" : "Press release - #Ukraine"
-      },
-      {
-         "description" : "Kanpur (26 Feb 22) :- International Master Koustav Chatterjee of West Bengal held top seed Grandmaster B Adhiban of PSPB to a creditable draw in",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022-koustav-holds-top-seed-adhiban/",
-         "pubDate" : "Sat, 26 Feb 2022 11:21:38 +0000",
-         "title" : "MPL 58th Senior National Chess Championship-2022 : Koustav holds top seed Adhiban"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89846558.cms\" />The Indian chess federation is bidding to host the 44th Chess Olympiad that has been moved out of Russia, said a senior official of All India Chess Federation (AICF).",
@@ -2050,28 +2082,12 @@ news_feed (
          "title" : "FIDE Grand Prix: Aronian and Nakamura pull ahead"
       },
       {
-         "description" : "The \"Lucky bag\" of ChessBase Magazine Extra has never been so extensively and diversely filled as in Extra #205! The new issue offers no less than 73 annotated games, including two tricky training exercises by GM Sasikiran. GM Kapnisis presents various opening ideas (\"Scotch advance\", \"Benoni strikes\", \"Petroff rook shifts\", \"English castling\"), plus analyses by Edouard, Krasenkow, Sumets and many more. However, Imre Hera's analysis of his game against his compatriot Zoltan Almasi from the Hungarian League - \"The brilliancy\" of this issue - is right at the top of the \"Lucky bag\". For his success against the higher-rated opponent, Hera employed a surprise in the popular London System: after 1",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/strong-resource-in-the-london-system",
-         "pubDate" : "Sat, 12 Feb 2022 12:00:00 +0100",
-         "title" : "Strong resource in the London System"
-      },
-      {
          "description" : "Did Sherlock Holmes play chess? In the canonical novels and short stories there are references to chess in three of his adventures: \"The Blanched Soldier\", \"The Mazarin Stone\" and \"The Retired Colourman\". Meanwhile, in many of the movie and stage adaptations, Holmes is standardly credited with fiendish chess skills, often pitted, of course, against his arch-nemesis, Professor Moriarty. I have studied the []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/norwegian-clue/",
          "pubDate" : "Sat, 12 Feb 2022 10:00:09 +0000",
          "title" : "Norwegian clue"
-      },
-      {
-         "description" : "While you are looking at this rich diagram position - would you be so kind to show why 22...Kxc8?? loses the game for Black?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/one-false-move",
-         "pubDate" : "Sat, 12 Feb 2022 09:00:00 +0100",
-         "title" : "One false move!"
       },
       {
          "description" : "",
