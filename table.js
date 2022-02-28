@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2022-02-27","14","<a href=http://www.uschess.org/msa/XtblMain.php?202202276032 target=' blank'>HOUSTON FEB 27 SUNDAY SWISS</a>",
+"HOUSTON","2022-02-26","219","<a href=http://www.uschess.org/msa/XtblMain.php?202202264932 target=' blank'>TCR: TCA REGION V SCHOLASTIC CHAMPIONSHIP</a>",
 "CYPRESS","2022-02-25","8","<a href=http://www.uschess.org/msa/XtblMain.php?202202254712 target=' blank'>A</a>",
 "SPRING","2022-02-25","34","<a href=http://www.uschess.org/msa/XtblMain.php?202202254512 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2022-02-01  - 02-22","12","<a href=http://www.uschess.org/msa/XtblMain.php?202202223562 target=' blank'>FEBRUARY TUESDAY NIGHT SWISS</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2021-04-03","5","<a href=http://www.uschess.org/msa/XtblMain.php?202104035972 target=' blank'>THE SATURDAY KNIGHTS</a>",
 "KATY","2021-04-03","12","<a href=http://www.uschess.org/msa/XtblMain.php?202104032412 target=' blank'>SR CHESSKNIGHTS 04032021</a>",
 "LEAGUE CITY","2021-04-03","733","<a href=http://www.uschess.org/msa/XtblMain.php?202104031662 target=' blank'>2021 TEXAS SCHOLASTIC CHESS CHAMPIO</a>",
-"SPRING","2021-04-02","31","<a href=http://www.uschess.org/msa/XtblMain.php?202104025442 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2021-03-27","4","<a href=http://www.uschess.org/msa/XtblMain.php?202103273712 target=' blank'>FBCC 2021 MARCH MAELSTROM OPEN</a>",
 ]);
