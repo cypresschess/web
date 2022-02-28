@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " One thing that I overlooked when planning the 2022 Doeberl Cup was to increase the <a href=\"https://www.doeberlcup.com.au/prizes.html\">prize money</a> for the Blitz event. There were over 120 players in 2021, although almost all the top players gave it a miss. Based on (a) the size of the field and (b) attracting stronger players, the prize pool for the 2022 Kinford Consulting Doeberl Cup Blitz has been increased 50% to $890. First prize is now $250 (up from $150), while other prizes have bee added (or increased). Once again the tournament will take place on Saturday night (16th April) and will be both FIDE and ACF rated. <br /> <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/02/blitz-boost.html",
+         "pubDate" : "Mon, 28 Feb 2022 12:24:00 +0000",
+         "title" : "Blitz boost"
+      },
+      {
+         "description" : "Kanpur (28 Feb 22) :- With 5.5 points in the kitty, young Grandmasters Arjun Erigaisi of Telangana and D Gukesh of Tamil Nadu share the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022-arjun-and-gukesh-share-lead/",
+         "pubDate" : "Mon, 28 Feb 2022 12:00:26 +0000",
+         "title" : "MPL 58th Senior National Chess Championship-2022 : Arjun and Gukesh share lead"
+      },
+      {
+         "description" : "You know the problem: can you place eight queens on a chessboard so that now two queens threaten each other. There are 92 distinct ways of doing this. But how about on larger chessboards? For 27×27 board people have worked out that there are exactly 234,907,967,154,122,528 ways. Now a Harward mathematician Michael Simkin has come up with an almost-definitive answer for any number queens on a corresponding chessboard. Warning: his result can lead to dizziness and fainting spells.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/harvard-mathematician-solves-150-year-old-chess-problem",
+         "pubDate" : "Mon, 28 Feb 2022 13:00:00 +0100",
+         "title" : "Harvard mathematician solves 150-year-old chess problem"
+      },
+      {
+         "description" : "𝗗𝗿. 𝗦𝗮𝗻𝗷𝗮𝘆 𝗞𝗮𝗽𝗼𝗼𝗿, 𝘈𝘐𝘊𝘍 𝘗𝘳𝘦𝘴𝘪𝘥𝘦𝘯𝘵, and Kanpur's leading 𝘖𝘱𝘩𝘵𝘩𝘢𝘭𝘮𝘰𝘭𝘰𝘨𝘪𝘴𝘵, 𝘓𝘪𝘧𝘦 𝘊𝘰𝘢𝘤𝘩, 𝘔𝘦𝘥𝘪𝘤𝘰-𝘚𝘰𝘤𝘪𝘢𝘭 𝘌𝘯𝘵𝘳𝘦𝘱𝘳𝘦𝘯𝘦𝘶𝘳, 𝗗𝗿. 𝗔𝘃𝗮𝗱𝗵 𝗗𝘂𝗯𝗲𝘆 and 𝘌𝘯𝘵𝘳𝘦𝘱𝘳𝘦𝘯𝘦𝘶𝘳 &#38; 𝘗𝘩𝘪𝘭𝘢𝘯𝘵𝘩𝘳𝘰𝘱𝘪𝘴𝘵, �𝗿. 𝗚𝗮𝘂𝗿𝗮𝘃 𝗦𝗲𝘁𝗵𝗶, rang the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/%f0%9d%97%a0%f0%9d%97%a3%f0%9d%97%9f-%f0%9d%97%a6%f0%9d%97%b2%f0%9d%97%bb%f0%9d%97%b6%f0%9d%97%bc%f0%9d%97%bf-%f0%9d%97%a1%f0%9d%97%ae%f0%9d%98%81%f0%9d%97%b6%f0%9d%97%bc%f0%9d%97%bb%f0%9d%97%ae/",
+         "pubDate" : "Mon, 28 Feb 2022 09:15:04 +0000",
+         "title" : "�𝗣𝗟 𝗦𝗲𝗻𝗶𝗼𝗿 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗖𝗵𝗲𝘀𝘀 𝗖𝗵𝗮𝗺𝗽𝗶𝗼𝗻𝘀𝗵𝗶𝗽 𝟮𝟬𝟮𝟮"
+      },
+      {
+         "description" : "The English Chess Federation (ECF) agrees with FIDE Council's recently announced decision that the 44th Chess Olympiad, including the competition for players with disabilities, as well as the FIDE Congress,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ukraine-statement/",
+         "pubDate" : "Mon, 28 Feb 2022 09:10:52 +0000",
+         "title" : "Ukraine - statement"
+      },
+      {
          "description" : "Wednesday 4th May to Sunday 8th May 2022 at the Holiday Inn Kenilworth-Warwick, 212 Abbey End, Kenilworth CV8 1ED. Over 50 - players must be aged 50 or over on...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -26,7 +66,7 @@ news_feed (
          "title" : "Player Types - The Summary"
       },
       {
-         "description" : "An extraordinary meeting of the FIDE Council took place on Sunday to address the issues related to Russia's invasion of Ukraine. Among other decisions, the council decided to ban Russia and Belarus from organizing official FIDE competitions, to terminate sponsorship agreements with Belarusian and Russian sanctioned and/or state-controlled companies, and to condemn public statements from members of the chess community who support unjustified military action - i.e. Sergey Karjakin and Sergey Shipov. | Pictured: GM Oleksandr Sulypa, captain of the Ukrainian chess team, armed in the city of Lviv",
+         "description" : "An extraordinary meeting of the FIDE Council took place on Sunday to address the issues related to Russia's invasion of Ukraine. Among other decisions, the council decided to ban Russia and Belarus from organizing official FIDE competitions, to terminate sponsorship agreements with Belarusian and Russian sanctioned and/or state-controlled companies, and to condemn public statements from members of the chess community who support unjustified military action - i.e. Sergey Karjakin and Sergey Shipov.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-council-condemns-russia-military-action",
@@ -38,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-week-3-caruana-wins",
-         "pubDate" : "Sun, 27 Feb 2022 17:17:21 -0800",
+         "pubDate" : "Sun, 27 Feb 2022 17:17:00 -0800",
          "title" : "Rapid Chess Championship Week 3: Caruana Wins Second Consecutive Week"
       },
       {
@@ -112,14 +152,6 @@ news_feed (
          "link" : "https://aicf.in/aicf-president-great-interactive-session-with-the-grandmasters/",
          "pubDate" : "Sun, 27 Feb 2022 16:29:45 +0000",
          "title" : "AICF President, great interactive session with the Grandmasters"
-      },
-      {
-         "description" : "The English Chess Federation (ECF) agrees with FIDE Council's recently announced decision that the 44th Chess Olympiad, including the competition for players with disabilities, as well as the FIDE Congress,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ukraine-statement/",
-         "pubDate" : "Sun, 27 Feb 2022 14:36:52 +0000",
-         "title" : "Ukraine - statement"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 68th instalment of his ChessBase show \"Understanding before Moving\", Herman shows some ideas of how to play against the King's Indian. | Photo: Tommy Grooten",
@@ -490,14 +522,6 @@ news_feed (
          "title" : "Averbakh on Averbakh: How it all began"
       },
       {
-         "description" : "Kanpur (25 Feb 22) :- Bengaluru based R Parthasarathy held eleventh seed Grandmaster Sankalp Gupta of Maharashtra in the opening round of the MPL 58th Senior",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022-parthasarathy-holds-sankalp/",
-         "pubDate" : "Fri, 25 Feb 2022 12:14:45 +0000",
-         "title" : "MPL 58th Senior National Chess Championship-2022 : Parthasarathy holds Sankalp"
-      },
-      {
          "description" : " As a consequence of the Russian invasion of The Ukraine, FIDE are looking at whether it is appropriate to hold any major chess events in Russia in the foreseeable future. A brief statement was released by FIDE on this matter, indicating that they plan to consult with the relevant commissions and federations. Already there has been a number of comments by leading players (and other chess identities) asking that the Moscow Olympiad either not take place, or be moved (which is less likely). A few have gone as far as to ask for the resignation of FIDE President Arkady Dvorkovich, based on his connections with the Russian government. At this stage Federations have not been asked for their opinio",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -560,14 +584,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/24/black-history-month-2022-day-24-frank-street/",
          "pubDate" : "Fri, 25 Feb 2022 02:42:11 +0000",
          "title" : "Black History Month 2022-Day 24: Frank Street"
-      },
-      {
-         "description" : "CLICK HERE FOR LIVE GAMES",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-mpl-47th-national-women-chess-championship-2022/",
-         "pubDate" : "Fri, 25 Feb 2022 02:40:16 +0000",
-         "title" : "LIVE GAMES : MPL 47TH NATIONAL WOMEN CHESS CHAMPIONSHIP-2022"
       },
       {
          "description" : "It&#39;s GM Magnus Carlsen and GM Ian Nepomniachtchi who will renew their rivalry when they meet in the final match played over two days of competition. Both of these chess giants won their respective semifinal matches by a score of 2.5-0.5. How to ...",
@@ -2064,14 +2080,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/33264972/dronavalli-harika-women-chess-players-targeted-sexually-abusive-mails?device=featurephone",
          "pubDate" : "Fri, 11 Feb 2022 12:12:35 -0500",
          "title" : "Harika among women chess players targeted by sexually abusive mails"
-      },
-      {
-         "description" : "In his Power Play Show, GM Daniel King looks at two of his favourite themes - the Octopus Knight and the Starfish Bishop - which occurred in games from the Berlin Grand Prix. Daniel will feature these masterful strategic performances from Levon Aronian and Daniil Dubov. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-3",
-         "pubDate" : "Fri, 11 Feb 2022 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: The Archbishop and the Octopus Knight"
       },
       {
          "description" : "",
