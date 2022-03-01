@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; I am a subscriber and supporter of the American Chess Magazine. Every couple of months I enjoy reading the latest issue and <a href=\"https://chessimprover.com/chess-2022-january-exotic-wackos/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 January Exotic Wackos\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-january-exotic-wackos/\">Chess 2022 January Exotic Wackos</a> appeared first on <a rel=\"nofollow\" href=\"https",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-2022-january-exotic-wackos/",
+         "pubDate" : "Tue, 01 Mar 2022 09:36:46 +0000",
+         "title" : "Chess 2022 - January Exotic Wackos"
+      },
+      {
+         "description" : "Last Tuesday Werner Keym, one of the most creative problemists we know, turned 80, and we celebrated his birthday with samples from his book \"Anything but Average\". Today we give you the solutions to the truly unique problems, hoping you enjoyed them and were able to come up with the solutions yourself.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-octogenarian-puzzle-master-2",
+         "pubDate" : "Tue, 01 Mar 2022 09:33:55 +0100",
+         "title" : "Octogenarian puzzle master solutions"
+      },
+      {
          "description" : "Alexander Grischuk, Nikita Vitiugov, Dmitry Andreikin, Vladimir Fedoseev and Alexandr Predke will play in Belgrade as the 2022 FIDE Grand Prix resumes under the cloud of Russia's invasion of Ukraine. It may be the last time Russian chess players are able to compete for some time, since on the eve of the tournament the IOC recommended that no Russian or Belarusian sportsmen be allowed to take part in international competitions. Top seed for the tournament is Shakhriyar Mamedyarov, one of 9 players making their Grand Prix debut.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/belgrade-grand-prix-begins-under-shadow-of-war",
          "pubDate" : "Tue, 01 Mar 2022 08:25:17 +0000",
          "title" : "Belgrade Grand Prix begins under shadow of war"
+      },
+      {
+         "description" : "Sometimes it is difficult to convert an extra knight into a full point: Black to move and win.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-magic-knight-2",
+         "pubDate" : "Tue, 01 Mar 2022 09:00:00 +0100",
+         "title" : "A magic knight"
+      },
+      {
+         "description" : " The FIDE Grand Prix Leg 2 takes place in Belgrade Tuesday 1st to Monday 14th Mar 2022. There are group stages 4 players 6 rounds, the winners of each group then play the knockout phase. Players: Grischuk, Andreikin, Shankland, Bacrot, Rapport, Vidit, Fedoseev, Shirov, Giri, Vitiugov, Harikrishna, Tabatabaei, Mamedyarov, MVL, Yu Yangyi and Predke. This is the second of three such events. Nakamura won the first, the final leg is back in Berlin Mon 21st Mar to Mon 4th Apr 2022.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-prix-leg-2-belgrade-2022",
+         "pubDate" : "Tue, 1 Mar 2022 08:53:00 +0400",
+         "title" : "FIDE Grand Prix Leg 2 Belgrade 2022 - Games and Results"
       },
       {
          "description" : " Share! International Master Emory TatePhoto by Daaim Shabazz Before his passing in 2015, International Master Emory Tate was one of the most recognizable figures in the American chess scene. In this last tribute for Black History Month, we will feature the man, the myth, the legend. The legacy continues. With a warrior persona and his [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/28/black-history-month-2022-day-28-im-emory-tate/\">Black History Month 2022-Day 28: IM Emory Tate</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -2050,14 +2082,6 @@ news_feed (
          "title" : "How to improve"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 66th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about the concept of \"prophylaxis\". | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-66-prophylaxis-2",
-         "pubDate" : "Sun, 13 Feb 2022 11:00:00 +0100",
-         "title" : "Understanding before Moving 66: Prophylaxis (2)"
-      },
-      {
          "description" : " Yuri Averbakh, the world's oldest grandmaster, was born 100 years ago, on 8 February 1922, making him the first grandmaster to reach three figures. Averbakh was awarded the grandmaster title in 1952, and was a world championship candidate in 1953. He scored many tournament successes in the 1950s and 1960s, his solid style making him <a href=\"https://chessimprover.com/yuri-averbakh/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Yuri Averbakh\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/yuri-averbakh/\">Yuri Averbakh</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2072,14 +2096,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/player-types-the-pragmatic",
          "pubDate" : "Sun, 13 Feb 2022 10:37:00 +0100",
          "title" : "Player Types - The Pragmatic"
-      },
-      {
-         "description" : "Levon Aronian and Hikaru Nakamura won their first semifinal games at the FIDE Grand Prix in Berlin. Both players won with the white pieces and only need a draw on Sunday to reach the final of the GP series' first leg. They are facing two players who already came from behind, though, as both Leinier Dominguez and Richard Rapport reached the semis after getting wins on demand in the group stage's final round. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-sf1",
-         "pubDate" : "Sun, 13 Feb 2022 10:00:00 +0100",
-         "title" : "Berlin GP: Aronian and Nakamura score"
       },
       {
          "description" : "",
@@ -2146,14 +2162,6 @@ news_feed (
          "title" : "Chess: Carlsen loses hard-won rating points in a single Oslo club match"
       },
       {
-         "description" : " This week we are going to look at some examples to get you used to creating basic combinations. We'll start with a simple skewer that can be executed in a single move and then add additional pieces to this initial position to force you into creating a sequence of moves that will end up with <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-one/\">A Foundation for Beginners Fifty One</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Che",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-one/",
-         "pubDate" : "Fri, 11 Feb 2022 07:02:26 +0000",
-         "title" : "A Foundation for Beginners Fifty One"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2216,22 +2224,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/2/8/ep-265-gm-simon-williams-aka-the-ginger-gm-returns",
          "pubDate" : "Tue, 08 Feb 2022 13:49:48 +0000",
          "title" : "EP 265- GM Simon Williams (aka the Ginger GM) returns"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1562",
-         "pubDate" : "Tue, 08 Feb 2022 09:44:25 +0000",
-         "title" : "FIDE World Championship Match 2023 - Call for bids"
-      },
-      {
-         "description" : "I am pleased to invite you on behalf of the IPCA to participate in the 21st IPCA World Individual Chess Championship for the Physically Disabled 2022 in Ashdod, Israel from...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ipca-world-individual-chess-championship/",
-         "pubDate" : "Tue, 08 Feb 2022 08:35:06 +0000",
-         "title" : "IPCA World Individual Chess Championship"
       }
    ]
 }
