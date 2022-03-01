@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
+         "pubDate" : "Tue, 01 Mar 2022 14:55:00 +0100",
+         "title" : "Belgrade Grand Prix - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89926789.cms\" />Five players, including defending champion Aravindh Chithambaram occupy the joint lead with 6.5 points each after eight rounds in the MPL 58th Senior National Chess Championship on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/senior-national-chess-five-players-share-lead/articleshow/89926789.cms",
+         "pubDate" : "Tue, 01 Mar 2022 18:31:53 +0530",
+         "title" : "Senior national chess: Five players share lead"
+      },
+      {
+         "description" : "One round to spare in the MPL 47th National Women Chess Championship WGM Divya Deshmukh continues the winning spree with 7.5 points here at International",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-47-th-national-women-chess-championship-2022-report-of-round-8/",
+         "pubDate" : "Tue, 01 Mar 2022 12:51:37 +0000",
+         "title" : "MPL 47 th National Women Chess Championship-2022 Report of round-8"
+      },
+      {
+         "description" : "All India Chess Federation wishes a very happy birthday to sports loving Chief Minister of Tamil Nadu Thiru M K Stalin. Many congratulations Sir!!",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/happy-birthday-thiru-m-k-stalin/",
+         "pubDate" : "Tue, 01 Mar 2022 12:50:41 +0000",
+         "title" : "Happy Birthday Thiru M K Stalin"
+      },
+      {
+         "description" : "FIDE has issued a statement condemning Russia's attack on Ukraine, terminating all sponsorship contracts with Russian companies and excluding Russia and Belarus as venues for FIDE tournaments. This also affects the 2022 Chess Olympiad. The Indian Chess Federation is now offering to host the event at short notice.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/india-offers-to-host-44-chess-olympiad",
+         "pubDate" : "Tue, 01 Mar 2022 13:48:23 +0100",
+         "title" : "India offers to host 44. Chess Olympiad"
+      },
+      {
+         "description" : "The second leg of the FIDE Grand Prix series kicks off today in Belgrade, as the fight to get the two final spots in the Candidates Tournament continues. Three strong contenders to get the coveted spots begin their campaign in the series - i.e. Anish Giri, Shakhriyar Mamedyarov and Maxime Vachier-Lagrave. | Photo: The opening ceremony, held in the ballroom of 'Dom Grade', a building from the 1920s which was once home to the Serbian Royal Guard",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-preview",
+         "pubDate" : "Tue, 01 Mar 2022 13:40:00 +0100",
+         "title" : "Second leg of Grand Prix kicks off in Belgrade"
+      },
+      {
+         "description" : "Anwesh Upadhyaya arrived in Lviv, around 70 kilometers from the Polish border early on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33396850/ukraine-russia-invasion-india-im-flee-kyiv?device=featurephone",
+         "pubDate" : "Tue, 1 Mar 2022 07:11:42 -0500",
+         "title" : "Indian IM in Ukraine manages to flee Kyiv in packed train"
+      },
+      {
+         "description" : "Kanpur (01 Mar 22) :- The MPL 58th Senior National Chess Championship at Ganges Club, Kanpur heading for an exciting finish as five players are now",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022-five-share-lead-senior-nationals-heading-for-an-exciting-finish/",
+         "pubDate" : "Tue, 01 Mar 2022 12:07:05 +0000",
+         "title" : "MPL 58th Senior National Chess Championship-2022 : Five share lead; Senior Nationals heading for an exciting finish"
+      },
+      {
          "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; I am a subscriber and supporter of the American Chess Magazine. Every couple of months I enjoy reading the latest issue and <a href=\"https://chessimprover.com/chess-2022-january-exotic-wackos/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 January Exotic Wackos\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-january-exotic-wackos/\">Chess 2022 January Exotic Wackos</a> appeared first on <a rel=\"nofollow\" href=\"https",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -330,14 +394,6 @@ news_feed (
          "title" : "Carlsen is the winner of the Champions Chess Tour 2022"
       },
       {
-         "description" : "CLICK HERE FOR LIVE GAMES",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/lilve-mpl-58th-senior-national-chess-championship-2022/",
-         "pubDate" : "Sun, 27 Feb 2022 08:42:33 +0000",
-         "title" : "LIVE : MPL 58TH SENIOR NATIONAL CHESS CHAMPIONSHIP-2022"
-      },
-      {
          "description" : "World Chess Champion Magnus Carlsen has won the first event on the $1.6 million 2022 Meltwater Champions Chess after defeating Ian Nepomniachtchi with a game to spare on the 2nd day of the final. It was a repeat of the Dubai World Chess Championship match as five hard-fought draws were followed by a victory for Magnus in Game 6. Nepo had chances of hitting back in the next game but instead he went from winning to lost in the space of a few moves. Magnus said his next event will likely be the next Tour event, starting March 19th.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -402,28 +458,12 @@ news_feed (
          "title" : "FIDE Grand Prix 2022: Qualifying for the Candidates Tournament"
       },
       {
-         "description" : "The FIDE Trainers &#38; Double Arbiter Seminar organized by All India Chess Federation with the support of Government of India Ministry of Youth Affairs &#38;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/triple-seminar-25-27-feb-2022-running-successfully-in-india/",
-         "pubDate" : "Sat, 26 Feb 2022 18:08:00 +0000",
-         "title" : "Triple Seminar running successfully in Patna,Kanpur & Guwahati (25-27 Feb 2022 )"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk accepts three Antichess challenges on lichess.org. Antichess, or losing chess, is won by losing all of your pieces or being stalemated. Capturing is mandatory when possible. 10.02.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-you-play-antichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/K0hp9tJDabA.jpg?itok=wBYOgLRi\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/how-you-play-antichess",
          "pubDate" : "Sat, 26 Feb 2022 17:47:44 +0000",
          "title" : "THIS is how you play ANTICHESS"
-      },
-      {
-         "description" : "MPL 47th National Women Chess Championship-2022 Report of round-2 &#38;3 Velpula Sarayu of Telengana held the current Asian Junior Girls Champion WIM Savitha Shri in",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-47th-national-women-chess-championship-2022-report-of-round-2-3/",
-         "pubDate" : "Sat, 26 Feb 2022 17:37:09 +0000",
-         "title" : "MPL 47th National Women Chess Championship-2022-report of round 2 &3"
       },
       {
          "description" : "",
@@ -2034,22 +2074,6 @@ news_feed (
          "title" : "India to host three GM Open tournaments at Guwahati, Delhi and Gujarat in March 2022"
       },
       {
-         "description" : "Caf&eacute; Museum was the meeting place for Viennese chess players in the eighties. Photographer Erich Reismann was a regular guest. Now his reportage from that time is on display at the caf&eacute;, where after a long time chess players are welcome again. Stefan L&ouml;ffler tells us more. | Photos: Erich Reismann (unless stated otherwise)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-returns-to-the-museum",
-         "pubDate" : "Mon, 14 Feb 2022 14:00:00 +0100",
-         "title" : "Chess returns to Vienna's Caf&eacute; Museum"
-      },
-      {
-         "description" : "The Meltwater Champions Chess Tour will continue as a regular online event in the coming years. The Play Magnus Group has signed a five-year contract with the Norwegian broadcaster TV-2, which believes in the Tour and broadcasts the tournaments live on television. All in all, viewers followed the first season in 2020/21 for more than 30 million hours. The Airthings Masters, the first tournament of the new season, starts on 19 February with an exciting and young field of players.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-starts-on-19-february",
-         "pubDate" : "Mon, 14 Feb 2022 12:08:47 +0100",
-         "title" : "Airthings Masters starts on 19 February"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2064,14 +2088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1572",
          "pubDate" : "Sun, 13 Feb 2022 21:51:13 +0000",
          "title" : "FIDE Grand Prix Berlin final: Aronian vs Nakamura"
-      },
-      {
-         "description" : "The two players who have shown the strongest and most stable performances throughout the event reached the final of the FIDE Grand Prix in Berlin. Levon Aronian and Hikaru Nakamura drew with black on Sunday to knock out Leinier Dominguez and Richard Rapport, respectively. Since there was no need for tiebreaks in either match, the finalists will have a rest day on Monday. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-sf2",
-         "pubDate" : "Sun, 13 Feb 2022 21:15:00 +0100",
-         "title" : "Berlin GP: Nakamura and Aronian are the well-deserved finalists"
       },
       {
          "description" : " 100 Chess Maxims (by C.D. Locock) has a number of interesting pieces of advice for new (and experienced) players. The issue I have was published prior to 1933 (based on the note by the original owner on the inside cover, and a clipping from the Daily Telegraph dated July 24 1933, which came with the book) Last last set of tips are headed \"How to improve\" and contain the following advice 95. Play, if possible, with players rather better than yourself. Write down your games and play them over afterwards, preferably with your opponent, and try to find out how your play could have been improved. Play consultation games when you get the chance.<br /><br />96. Play through the games (beginning wi",
@@ -2216,14 +2232,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/happy-100-yuri.html",
          "pubDate" : "Tue, 08 Feb 2022 22:34:00 +0000",
          "title" : "Happy 100 Yuri"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e4d27c07-0408-4411-9c63-d7828a0f83dd/Simon.final.jpg\" data-image-dimensions=\"433x218\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6202745412b373322cc074f4\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e4d27c07-0408-4411-9c63-d7828a0f83dd/Simon.final.jpg?format=1000w\" /> </figure> <p class=\"\">GM SImon William, aka \"The Ginger GM\" is an entertaining and popular commentator, <a href=\"https://www.youtube.com/c/GingerGM\" target=\"_blank\">YouTube Creator</a>, <a h",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/2/8/ep-265-gm-simon-williams-aka-the-ginger-gm-returns",
-         "pubDate" : "Tue, 08 Feb 2022 13:49:48 +0000",
-         "title" : "EP 265- GM Simon Williams (aka the Ginger GM) returns"
       }
    ]
 }
