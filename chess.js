@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Day 1 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 in Belgrade</a> ended with Andreikin and Vidit being the early leader of Groups A and C respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"800\" data-ratio=\"1.498127340824\"> <img src=\"https://worldchess.com/news/pictures/A-9.jpg\" width=\"800\" height=\"534\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51911936611_32904927a5_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51911937181_00de6b0327_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51911964611_5e4d54da37_k.jpg\" wid",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/vidit-and-andreikin-the-early-leaders-of-the-fide-grand-prix-202/",
+         "pubDate" : "Tue, 01 Mar 2022 19:13:08 +0000",
+         "title" : "Vidit and Andreikin the early leaders of the FIDE Grand Prix 2022 in Belgrade"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89930180.cms\" />Grandmaster Arjun Erigasi defeated IM V Pranav to jump into sole lead with 7.5 points after nine rounds in the ongoing MPL 58th Senior National Chess Championship on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/senior-national-chess-arjun-erigaisi-beats-pranav-enjoys-sole-lead/articleshow/89930180.cms",
+         "pubDate" : "Tue, 01 Mar 2022 22:08:18 +0530",
+         "title" : "Senior national chess: Arjun Erigaisi beats Pranav; enjoys sole lead"
+      },
+      {
          "description" : "Tata Steel 2022 is the top tournament in ChessBase Magazine #206, with Jan-Krzysztof Duda, Arjun Erigaisi, Anish Giri, Nils Grandelius, Shakhriyar Mamedyarov, Praggnanandhaa Rameshbabu, Sam Shankland and Roven Vogel commenting on their best games from Wijk aan Zee. In addition, Peter Heine Nielsen and Dorian Rogozenco (video) analyse two Catalan wins by the World Champion and clear tournament winner. \"The Analysis\" of the issue this time is contributed by Nils Grandelius, who got the chance to test his \"own invention\" against Magnus Carlsen. Take a look!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1920,14 +1936,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1556",
          "pubDate" : "Wed, 16 Feb 2022 11:06:23 +0000",
          "title" : "FIDE introduces the use of electronic scoresheets in cooperation with Clono"
-      },
-      {
-         "description" : " <p class=\"lead\">As the Berlin leg of the FIDE Grand Prix Series 2022 draws to a close, the pools for the second leg are determined. The Belgrade leg runs from 28 February to 14 March and features 16 elite chess players vying for a prize fund of €150,000 and the last two spots in the Candidates Tournament scheduled to take place in Madrid this June.  <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/sEpETc67brU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> The draw ceremony, held over Zoom, was chaired by the Chief Arbiter and identified the pools of players for the second leg of the Series.  <br /> As before the first leg, for th",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/pools-for-the-second-leg-of-the-fide-grand-prix-series-2022-to-b/",
-         "pubDate" : "Wed, 16 Feb 2022 09:57:34 +0000",
-         "title" : "Pools For the Second Leg of the FIDE Grand Prix Series 2022 to be held in Serbia announced"
       },
       {
          "description" : "GM Borislav Ivkov, the first World Junior Champion, three-time Yugoslav champion, and former world championship candidate who defeated five world champions of chess, died on Monday at the age of 88. The news was confirmed by FIDE. &#34;To be honest,...",
