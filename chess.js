@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">The second leg of the 2022 Fide Grand Prix series was officially opened in Belgrade, Serbia. In the next 14 days, 16 top world players will try to advance in the 2022 GP series in hope of securing one of the two places leading to the Candidates Tournament <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-01_00-55-55.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\"><a href=\"https://www.flickr.com/photos/fide/albums/72177720297019949/with/51909276892/\">Photo</a>: Mark Livshitz (FIDE)</div> </div> The Opening Ceremony was held at the ballroom of the \"Dom Grade\" venue - an impressive building from the 1920s, which was",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-opening-ceremony-of-the-second-leg-of-the-fide-grand-prix-se/",
+         "pubDate" : "Mon, 28 Feb 2022 23:58:51 +0000",
+         "title" : "The Opening Ceremony of The Second Leg of The FIDE Grand Prix Series 2022 Took Place in Belgrade"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1605",
+         "pubDate" : "Mon, 28 Feb 2022 22:17:54 +0000",
+         "title" : "The second leg of FIDE Grand Prix 2022 kicks off in Belgrade"
+      },
+      {
          "description" : "In the second week of March, the French capital will host the \"Chess for Mental Health\" international event. The conference will cover various topics related to mental health, including autism, DYS, concentration, hyperactivity. The event's keynote is how chess can improve multiple aspects of mental health.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1890,14 +1906,6 @@ news_feed (
          "title" : "EP 266- NM Jeremy Kane (Adult Improver Series) "
       },
       {
-         "description" : " <p class=\"lead\">FIDE, chess governing body, <a href=\"https://fide.com/news/1576\">announced today</a> that Ding Liren, a Chinese Grandmaster and world's number 3, has been replaced in the Grand Prix Series by Russian chess player Andreikin. According to the officials, Ding was unable to get the EU visa, and now he effectively looses the chance to qualify for the Candidates Tournament that is planned for June 2022. Ding is one of the strongest players in the world and would be among the favorites to win the Candidates, but he was not able to qualify for the tournament amid the recently changed qualification criteria and his visa mishaps. The news that Ding is likely to miss the Candidates has",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/ding-liren-worlds-number-3-replaced-in-the-grand-prix-series/",
-         "pubDate" : "Tue, 15 Feb 2022 13:48:35 +0000",
-         "title" : "Ding Liren, World's Number 3, Replaced in the Grand Prix Series"
-      },
-      {
          "description" : " The first World Junior Champion, Borislav Ivkov has passed away at the age of 88. He won the title in 1951, which also signalled the start of a successful career. He qualified for the Candidates Matches in 1964 (losing to Larsen in the 1st round), and represented Yugoslavia in the Chess Olympiad 12 times. He also had the distinction of beating 5 World Champions (including Fischer) and being Yugoslavian Champion 3 times. <b>Ivkov,Borislav - Penrose,Jonathan [D15]</b><br />Wch U20 final-A Copenhagen (6), 1953 <script>new PgnViewer( { boardName: \"game1310\", movesFormat: \"default\", pgnString:'1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.Nc3 dxc4 5.e3 b5 6.a4 b4 7.Na2 e6 8.Bxc4 Be7 9.O-O O-O 10.b3 Bb7 11.Bb2 Nbd",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2240,14 +2248,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no1-2022/",
          "pubDate" : "Tue, 08 Feb 2022 08:08:38 +0000",
          "title" : "Communique of the ECU Board Meeting CL No1/2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1563",
-         "pubDate" : "Mon, 07 Feb 2022 23:06:29 +0000",
-         "title" : "FIDE Grand Prix: Aronian and So make their claim "
       }
    ]
 }
