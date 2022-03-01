@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alexander Grischuk, Nikita Vitiugov, Dmitry Andreikin, Vladimir Fedoseev and Alexandr Predke will play in Belgrade as the 2022 FIDE Grand Prix resumes under the cloud of Russia's invasion of Ukraine. It may be the last time Russian chess players are able to compete for some time, since on the eve of the tournament the IOC recommended that no Russian or Belarusian sportsmen be allowed to take part in international competitions. Top seed for the tournament is Shakhriyar Mamedyarov, one of 9 players making their Grand Prix debut.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/belgrade-grand-prix-begins-under-shadow-of-war",
+         "pubDate" : "Tue, 01 Mar 2022 08:25:17 +0000",
+         "title" : "Belgrade Grand Prix begins under shadow of war"
+      },
+      {
          "description" : " Share! International Master Emory TatePhoto by Daaim Shabazz Before his passing in 2015, International Master Emory Tate was one of the most recognizable figures in the American chess scene. In this last tribute for Black History Month, we will feature the man, the myth, the legend. The legacy continues. With a warrior persona and his [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/28/black-history-month-2022-day-28-im-emory-tate/\">Black History Month 2022-Day 28: IM Emory Tate</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -15,7 +23,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/the-opening-ceremony-of-the-second-leg-of-the-fide-grand-prix-se/",
          "pubDate" : "Mon, 28 Feb 2022 23:58:51 +0000",
-         "title" : "The Opening Ceremony of The Second Leg of The FIDE Grand Prix Series 2022 Took Place in Belgrade"
+         "title" : "Second Leg of the Grand Prix Series Opens in Belgrade"
       },
       {
          "description" : "",
@@ -34,7 +42,7 @@ news_feed (
          "title" : "French Chess Federation organizes \"Chess for Mental Health\" conference"
       },
       {
-         "description" : "European Women's Chess Gala, a special multi-event dedicated to Women's Chess, took place on 26-27 February in Monaco. The event started with activities on Saturday, 26th of February. IM Almira Skripchenko and GM Pia Cramling had the simultaneous exhibition, playing a simul on 16 boards. The Prince Albert II of Monaco participated in the simultaneous exhibition. The chess&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-gala-concluded-in-monaco/\">Read More &#187;</a></span>",
+         "description" : "European Women's Chess Gala, a special multi-event dedicated to Women's Chess, took place on 26-27 February in Monaco. The events supported by Monaco State, European Chess Union and FIDE Development fund. The event started with activities on Saturday, 26th of February. IM Almira Skripchenko and GM Pia Cramling had the simultaneous exhibition, playing a simul on 16 boards.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-gala-concluded-in-monaco/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-womens-chess-gala-concluded-in-monaco/",
@@ -1386,14 +1394,6 @@ news_feed (
          "title" : "Player Types - The Theorist"
       },
       {
-         "description" : "Ding Liren leads with 10/12 after Day 1 of the Airthings Masters, the first event of the 2022 season of the $1.6 million Meltwater Champions Chess Tour. The players took the fighting chess message to heart, with just 9 draws in 32 games, as Magnus Carlsen suffered a first day meltdown. After a good start against Vladislav Artemiev he struggled against Nodirbek Abdusattorov before losing to both Tour debutant Andrey Esipenko and World Championship challenger Ian Nepomniachtchi. Hans Niemann, Eric Hansen and Vincent Keymer all impressed as higher-rated rivals struggled.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/airthings-masters-1-ding-leads-as-carlsen-collapses",
-         "pubDate" : "Sun, 20 Feb 2022 08:41:25 +0000",
-         "title" : "Airthings Masters 1: Ding leads as Carlsen collapses"
-      },
-      {
          "description" : "Ding Liren had the best start at the Airthings Masters online tournament. The Chinese scored 10/12 points after winning three games and drawing one on the first day of action. Ian Nepomniachtchi and Andrey Esipenko are placed second and third, while Magnus Carlsen is currently eleventh after losing in rounds 3 and 4, against Esipenko and Nepomniachtchi respectively. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2232,22 +2232,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ipca-world-individual-chess-championship/",
          "pubDate" : "Tue, 08 Feb 2022 08:35:06 +0000",
          "title" : "IPCA World Individual Chess Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1564",
-         "pubDate" : "Tue, 08 Feb 2022 08:13:54 +0000",
-         "title" : "The oldest living Grandmaster Yuri Averbakh turns 100"
-      },
-      {
-         "description" : "The ECU Board Meeting took place in Thessaloniki, Greece on the 4th and 5th of February 2022. The main session took place in Thessaloniki City Council Hall on 4th of February. The Board was welcomed by the Deputy Mayor Mr. Nikolaos Zeimpekis and the President of the Greek Chess Federation Mr. Stathis Efstathopoulos. Main information and decisions: The&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no1-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no1-2022/",
-         "pubDate" : "Tue, 08 Feb 2022 08:08:38 +0000",
-         "title" : "Communique of the ECU Board Meeting CL No1/2022"
       }
    ]
 }
