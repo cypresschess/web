@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Tata Steel 2022 is the top tournament in ChessBase Magazine #206, with Jan-Krzysztof Duda, Arjun Erigaisi, Anish Giri, Nils Grandelius, Shakhriyar Mamedyarov, Praggnanandhaa Rameshbabu, Sam Shankland and Roven Vogel commenting on their best games from Wijk aan Zee. In addition, Peter Heine Nielsen and Dorian Rogozenco (video) analyse two Catalan wins by the World Champion and clear tournament winner. \"The Analysis\" of the issue this time is contributed by Nils Grandelius, who got the chance to test his \"own invention\" against Magnus Carlsen. Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-the-way-i-like-it-most",
+         "pubDate" : "Tue, 01 Mar 2022 17:00:00 +0100",
+         "title" : "\"Chess the way I like it most\""
+      },
+      {
+         "description" : "The second leg of the 2022 FIDE Grand Prix Series opened yesterday in Belgrade, and the first round kicked off today in the Crown Plaza Belgrade Hotel. Minister of Youth and Sports of Serbia Mr. Vanja Udovicic and President of Serbian Chess Federation Mr. Dragan Lazic made the first ceremonial move in the game between Richard Rapport and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/2nd-leg-of-fide-grand-prix-2022-starts-in-belgrade/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/2nd-leg-of-fide-grand-prix-2022-starts-in-belgrade/",
+         "pubDate" : "Tue, 01 Mar 2022 15:49:38 +0000",
+         "title" : "2nd leg of FIDE Grand Prix 2022 starts in Belgrade"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/aa2a95c0-f8c6-4874-9277-d77842e0223b/World.Open.jpg\" data-image-dimensions=\"573x289\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"621e34a81ee23c373148fc3e\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/aa2a95c0-f8c6-4874-9277-d77842e0223b/World.Open.jpg?format=1000w\" /> </figure> <p class=\"\">This week on Perpetual Chess I am joined by co-authors of a great new book, <a href=\"https://www.newinchess.com/world-open\" target=\"_blank\"><em>Winning the World Open</em",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/1/ep-268-gm-joel-benjamin-and-harold-scott-on-winning-the-world-open",
+         "pubDate" : "Tue, 01 Mar 2022 15:07:30 +0000",
+         "title" : "EP 268- GM Joel Benjamin and Harold Scott on Winning the World Open "
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/RPyxW2HPstU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-round-1/",
+         "pubDate" : "Tue, 01 Mar 2022 15:04:38 +0000",
+         "title" : "FIDE Grand Prix in Belgrade: Round 1"
+      },
+      {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,6 +74,14 @@ news_feed (
          "title" : "India offers to host 44. Chess Olympiad"
       },
       {
+         "description" : "Anwesh Upadhyaya arrived in Lviv, around 70 kilometers from the Polish border early on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33396850/ukraine-russia-invasion-india-im-flee-kyiv?device=featurephone",
+         "pubDate" : "Tue, 1 Mar 2022 07:45:44 -0500",
+         "title" : "Indian IM in Ukraine manages to flee Kyiv in packed train"
+      },
+      {
          "description" : "The second leg of the FIDE Grand Prix series kicks off today in Belgrade, as the fight to get the two final spots in the Candidates Tournament continues. Three strong contenders to get the coveted spots begin their campaign in the series - i.e. Anish Giri, Shakhriyar Mamedyarov and Maxime Vachier-Lagrave. | Photo: The opening ceremony, held in the ballroom of 'Dom Grade', a building from the 1920s which was once home to the Serbian Royal Guard",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,12 +90,12 @@ news_feed (
          "title" : "Second leg of Grand Prix kicks off in Belgrade"
       },
       {
-         "description" : "Anwesh Upadhyaya arrived in Lviv, around 70 kilometers from the Polish border early on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33396850/ukraine-russia-invasion-india-im-flee-kyiv?device=featurephone",
-         "pubDate" : "Tue, 1 Mar 2022 07:11:42 -0500",
-         "title" : "Indian IM in Ukraine manages to flee Kyiv in packed train"
+         "description" : " The St Louis Spring Chess Classic marks the return of the regular, and strong classic events at the Saint Louis Chess Club. It takes place March 1st to 11th. Two 10 player Round Robins - the A group: Jeffery Xiong, Samuel Sevian, Ray Robson, Illya Nyzhnyk, Dariusz Swiercz, Hans Moke Niemann, Mikhail Al. Antipov, Aram Hakobyan, Aleksandr Lenderman and Kamil Dragun.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/st-louis-spring-chess-classic-2022",
+         "pubDate" : "Tue, 1 Mar 2022 16:16:00 +0400",
+         "title" : "St Louis Spring Chess Classic 2022 - Games and Results"
       },
       {
          "description" : "Kanpur (01 Mar 22) :- The MPL 58th Senior National Chess Championship at Ganges Club, Kanpur heading for an exciting finish as five players are now",
@@ -64,6 +104,14 @@ news_feed (
          "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022-five-share-lead-senior-nationals-heading-for-an-exciting-finish/",
          "pubDate" : "Tue, 01 Mar 2022 12:07:05 +0000",
          "title" : "MPL 58th Senior National Chess Championship-2022 : Five share lead; Senior Nationals heading for an exciting finish"
+      },
+      {
+         "description" : " The England vs. Sweden Challenge Match is a classical match between David Howell and Nils Grandelius which takes place in London Wed 2nd Mar to Sat 12th Mar 2022. The match is over two classical time controls 120 minutes + 30 minutes plus 30 seconds a move and then the second half will have 90 minutes instead of 120 minutes to start. The event is being staged as part of the 30th anniversary celebrations of the founding of the London Chess Centre and the relaunching of CHESS Magazine. The match will be held at the Residence of Sweden's Ambassador to the United Kingdom Mikaela Kumlin Granit.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/england-vs.-sweden-challenge-match-2022",
+         "pubDate" : "Tue, 1 Mar 2022 16:06:00 +0400",
+         "title" : "England vs. Sweden Challenge Match 2022 - "
       },
       {
          "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; I am a subscriber and supporter of the American Chess Magazine. Every couple of months I enjoy reading the latest issue and <a href=\"https://chessimprover.com/chess-2022-january-exotic-wackos/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 January Exotic Wackos\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-january-exotic-wackos/\">Chess 2022 January Exotic Wackos</a> appeared first on <a rel=\"nofollow\" href=\"https",
@@ -1938,14 +1986,6 @@ news_feed (
          "title" : "Irina Bulmaga looks back on the \"Battle of the Sexes\" match in Gibraltar"
       },
       {
-         "description" : " <p class=\"lead\">Game 1 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> finals between Hikaru Nakamura and Levon Aronian ended in an eventful draw. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-7.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220215150809_IMG_2277.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220215150407_IMG_2271.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220215150342_IMG_2269.jpg\" width=\"2560\" height",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nakamura-and-aronian-drew-game-1-of-the-fide-grand-prix-2022/",
-         "pubDate" : "Tue, 15 Feb 2022 18:42:45 +0000",
-         "title" : "Nakamura and Aronian drew Game 1 of the FIDE Grand Prix 2022"
-      },
-      {
          "description" : " &#8220;A dream becomes a goal when action is taken toward its achievement&#8221; Bo Bennett (businessman) This variation can be unleashed against unsuspected players who like to use the Fried Liver attack. This is the most likely to happen at club level. It is at that level when many see it being played often. Players learn <a href=\"https://chessimprover.com/need-sure-points-two-knights-defence-traxler-wilkes-barre-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Two Knights Defence, Traxler Wilkes-Barre Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-two-knights-defence-traxl",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2064,14 +2104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-182-with-more-endgame-highlights-of-wijk-2022",
          "pubDate" : "Mon, 14 Feb 2022 18:00:00 +0100",
          "title" : "Karsten M&uuml;ller's Endgame Magic Show #182 - with more endgame highlights from Wijk 2022"
-      },
-      {
-         "description" : "Over-the-board chess tournament is resuming in India, starting with National Senior Open and Women 2022 later this month. There will be three consecutive GM Open tournaments at Guwahati, Delhi and Ahmedabad. It starts from 13th March. You can make plans for the three strong events which has a very good prize fund too. Check out the excellent conditions which are being offered for foreign GMs, IMs, WGMs and WIMs at three GM Open events. Photo: Various tournament circulars",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/india-to-host-three-gm-open-tournaments-at-guwahati-delhi-and-gujarat-in-march-2022",
-         "pubDate" : "Mon, 14 Feb 2022 16:00:00 +0100",
-         "title" : "India to host three GM Open tournaments at Guwahati, Delhi and Gujarat in March 2022"
       },
       {
          "description" : "",
