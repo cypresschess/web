@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! International Master Emory TatePhoto by Daaim Shabazz Before his passing in 2015, International Master Emory Tate was one of the most recognizable figures in the American chess scene. In this last tribute for Black History Month, we will feature the man, the myth, the legend. The legacy continues. With a warrior persona and his [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/28/black-history-month-2022-day-28-im-emory-tate/\">Black History Month 2022-Day 28: IM Emory Tate</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/02/28/black-history-month-2022-day-28-im-emory-tate/",
+         "pubDate" : "Tue, 01 Mar 2022 04:02:53 +0000",
+         "title" : "Black History Month 2022-Day 28: IM Emory Tate"
+      },
+      {
          "description" : " <p class=\"lead\">The second leg of the 2022 Fide Grand Prix series was officially opened in Belgrade, Serbia. In the next 14 days, 16 top world players will try to advance in the 2022 GP series in hope of securing one of the two places leading to the Candidates Tournament <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-01_00-55-55.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\"><a href=\"https://www.flickr.com/photos/fide/albums/72177720297019949/with/51909276892/\">Photo</a>: Mark Livshitz (FIDE)</div> </div> The Opening Ceremony was held at the ballroom of the \"Dom Grade\" venue - an impressive building from the 1920s, which was",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -210,7 +218,7 @@ news_feed (
          "title" : "The Official Statement of FIDE Council"
       },
       {
-         "description" : " Share!128 Kenneth Clayton is a trailblazer for many reasons. A distinguished man with a presence that commanded respect, he was one of the earliest pioneers of Black chess more specifically African-American chess. He won the 1963 U.S. Amateur Championship in thrilling fashion and would precede Frank Street who won the tournament in 1965. Clayton was [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/27/black-history-month-2022-day-27-kenneth-clayton/\">Black History Month 2022-Day 27: Kenneth Clayton</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Kenneth Clayton is a trailblazer for many reasons. A distinguished man with a presence that commanded respect, he was one of the earliest pioneers of Black chess more specifically African-American chess. He won the 1963 U.S. Amateur Championship in thrilling fashion and would precede Frank Street who won the tournament in 1965. Clayton was born [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/27/black-history-month-2022-day-27-kenneth-clayton/\">Black History Month 2022-Day 27: Kenneth Clayton</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/27/black-history-month-2022-day-27-kenneth-clayton/",
@@ -1416,14 +1424,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/what-portuguese-gambit",
          "pubDate" : "Sat, 19 Feb 2022 20:38:46 +0000",
          "title" : "What is the Portuguese Gambit?"
-      },
-      {
-         "description" : " Dr. James McCune Smith is a man we don't hear of during Black History Month. This multitalented and multifaceted man was known more in the areas of literary scholarship, medicine, and social activism than in chess. If you knew this man, chances are that you are a 19th-century American history buff. Sometimes a single article, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/19/black-history-month-2022-day-19-james-mccune-smith/\">Black History Month 2022-Day 19: James McCune Smith</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/19/black-history-month-2022-day-19-james-mccune-smith/",
-         "pubDate" : "Sat, 19 Feb 2022 19:05:18 +0000",
-         "title" : "Black History Month 2022-Day 19: James McCune Smith"
       },
       {
          "description" : "",
