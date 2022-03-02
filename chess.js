@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Half the games ended decisively on opening day at the second leg of the FIDE Grand Prix in Belgrade. Dmitry Andreikin and Vidit Gujrathi are leading their pools after beating Alexander Grischuk and Alexei Shirov respectively. Meanwhile, both games finished decisively in pool C, with Anish Giri and Nikita Vitiugov scoring full points in the first round. Two draws were seen in pool D. | Photos: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-r1",
+         "pubDate" : "Wed, 02 Mar 2022 04:45:00 +0100",
+         "title" : "Belgrade GP: Andreikin stuns Grischuk"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -88,14 +96,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-round-1/",
          "pubDate" : "Tue, 01 Mar 2022 15:04:38 +0000",
          "title" : "FIDE Grand Prix in Belgrade: Round 1"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
-         "pubDate" : "Tue, 01 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix - Games and results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89926789.cms\" />Five players, including defending champion Aravindh Chithambaram occupy the joint lead with 6.5 points each after eight rounds in the MPL 58th Senior National Chess Championship on Tuesday.",
