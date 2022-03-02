@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kanpur (02 Mar 22) :- Tamil Nadu Grandmaster D Gukesh defeated former national champion Abhijeet Gupta of the PSPB in the penultimate round to catch",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022-gukesh-beat-abhijeet-senior-nationals-heading-to-the-photo-finish/",
+         "pubDate" : "Wed, 02 Mar 2022 12:38:26 +0000",
+         "title" : "MPL 58th Senior National Chess Championship-2022 : Gukesh beat Abhijeet; Senior Nationals heading to the photo finish"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1608",
+         "pubDate" : "Wed, 02 Mar 2022 12:28:05 +0000",
+         "title" : "World Teams Championship 2022 postponed to November 2022"
+      },
+      {
          "description" : " There is a huge difference between having an advantage, and converting that advantage. The gap is often so large that there is room for a step in between, which is increasing your advantage. During post-mortems I've often heard players sat \"I thought I was winning here\", without actually being able to say why. Here is a game from the current Grand Prix series where White does a good job of slowing improving his position, based on the plan of targeting weaknesses in Black's position. This starts around move 15 when Black has an isolated e pawn. By forcing Black to defend this weakness, White is able to improve his position, creating further weaknesses in Black's position. As the game continu",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -536,14 +552,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/full-speed-against-the-reti",
          "pubDate" : "Sun, 27 Feb 2022 13:00:00 +0100",
          "title" : "Full speed against the Reti!"
-      },
-      {
-         "description" : "Kanpur (27 Feb 22) :- International Master Koustav Chatterjee of West Bengal continued with his impressive show and downed fourth seed and two time national",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022-koustav-on-song-five-share-lead/",
-         "pubDate" : "Sun, 27 Feb 2022 11:54:03 +0000",
-         "title" : "MPL 58th Senior National Chess Championship-2022 : Koustav on song; five share lead"
       },
       {
          "description" : " <p class=\"lead\">The <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> ended after an epic final. The World Champion Magnus Carlsen won the Tour against the 2021 Challenger Ian Nepomniaachtchi, despite his grim start of the tournament. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51716045090_01ce17506c_k-(1).jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen / FIDE</div> </div> <a href=\"https://worldchess.com/news/all/carlsen-loses-to-esipenko-and-nepomniachtchi-on-day-1-of-the-cha/\">Day 1 of the Tour</a> was not so promising for Carlsen and certainly couldn't foreshadow his advance to the finals.",
