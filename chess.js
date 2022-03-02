@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Day 2 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 in Belgrade</a> ended with Anish Giri and Vidit Gujrathi leading Groups B and C respectively with a full point, while Grischuk suffered his second loss in a row. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.4992679355783\"> <img src=\"https://worldchess.com/news/pictures/A-10.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51914750790_9b1285b5f0_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51914549495_d19eb2f72e_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/giri-and-vidit-lead-their-groups-with-a-full-point-at-the-fide-g/",
+         "pubDate" : "Wed, 02 Mar 2022 18:39:07 +0000",
+         "title" : "Giri and Vidit lead their groups with a full point at the FIDE Grand Prix 2022"
+      },
+      {
+         "description" : " This week on The Master Chess Web Show Andrew Martin and I looked at some more nice games and even answered the first viewer's question. We'll be doing more of this in future, but please submit any questions via our web site as we may need to prepare in advance. Here are the videos from <a href=\"https://chessimprover.com/the-master-chess-web-show-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Master Chess Web Show (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-master-chess-web-show-3/\">The Master Chess Web Show (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/the-master-chess-web-show-3/",
+         "pubDate" : "Wed, 02 Mar 2022 18:20:57 +0000",
+         "title" : "The Master Chess Web Show (3)"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Hikaru Nakamura</strong> and <strong>Levy Rozman</strong> led a charity stream that raised $132,724 for <strong>CARE Ukraine</strong> and was supported by <strong>Chess.com</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/streamers-collect-132724-for/",
+         "pubDate" : "Wed, 02 Mar 2022 19:16:01 +0100",
+         "title" : "Streamers collect $132,724 for Ukraine"
+      },
+      {
+         "description" : "GMs Jose Martinez and Aryan Tari won Titled Tuesday on March 1. They both held off GM Hikaru Nakamura, who finished third in the early tournament and second in the late event while streaming for 12 hours to support Ukraine. GM Raunak Sadhwani fini...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martinez-tari-win-titled-tuesday-march-1-2022",
+         "pubDate" : "Wed, 02 Mar 2022 09:30:03 -0800",
+         "title" : "Martinez, Tari Win March 1 Titled Tuesday"
+      },
+      {
          "description" : "FIDE published its new World Ranking List. World Champion Magnus Carlsen remains the clear number one but did not make any significant progress towards the 2900 mark - Carlsen gained points by winning in Wijk but lost these points again in one game in the Norwegian league. The winner of the Challengers in Wijk, Arjun Erigaisi, is now among the top 100, and Hikaru Nakamura is back in the top 20.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -55,7 +87,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
          "pubDate" : "Wed, 02 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix - Live!"
+         "title" : "Belgrade Grand Prix - Games and results"
       },
       {
          "description" : "Kanpur (02 Mar 22) :- Tamil Nadu Grandmaster D Gukesh defeated former national champion Abhijeet Gupta of the PSPB in the penultimate round to catch",
@@ -1786,14 +1818,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Carlsen messes up"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Borislav \"Bora\" Ivkov</strong>, the first junior world champion in 1951, who participated in five Interzonal Tournaments, beat Bobby Fischer twice and represented Yugoslavia in twelve Chess Olympiads, <a href=\"https://en.chessbase.com/post/remembering-borislav-ivkov-12-november-1933-14-february-2022\">didn't survive a Covid-19 infection</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/bora-ivkov-1933-2022/",
-         "pubDate" : "Fri, 18 Feb 2022 16:54:47 +0100",
-         "title" : "Bora Ivkov (1933-2022)"
-      },
-      {
          "description" : " The Airthings Masters is the first event in the new season of the online Meltwater Champions Chess Tour. The event is hosted by Chess24 and takes place February 19th to 26th 2022. The format is mostly the same as last season with a 16 player 15 round rapid round robin preliminary stage and an 8 player knockout phase. In the preliminaries there are three points for a win and one for a draw and money for each win. The KO phase is slightly accelerated with only one 4 game mini-match before a blitz tie-break in the quarter and semi-finals but the final is still over two mini-matches before the tie-break. Players: Magnus Carlsen, Ding Liren, Ian Nepomniachtchi, Anish Giri, Levon Aronian, Shakhri",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2018,14 +2042,6 @@ news_feed (
          "title" : "Game of the Week #503: L. Dominguez vs W. So, Berlin, Grand Prix 2022"
       },
       {
-         "description" : " <p class=\"lead\">Game 2 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> finals between Hikaru Nakamura and Levon Aronian ended in a peaceful draw. Tomorrow's tiebreaks will decide the winner of the first leg. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-8.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220216150618_IMG_2420.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220216150551_IMG_2418.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/n",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-2022-aronian-and-nakamura-go-to-tiebreaks/",
-         "pubDate" : "Wed, 16 Feb 2022 16:01:06 +0000",
-         "title" : "FIDE Grand Prix 2022: Aronian and Nakamura go to tiebreaks"
-      },
-      {
          "description" : "On 14 February the Yugoslav-Serbian grandmaster Borislav Ivkov died in Belgrade at the age of 88. In 1951 Ivkov was World Junior Champion and in the 1960s and 1970s he was one of the world's best players. He made it to the Candidates in 1965, and played in the Interzonal Tournaments in 1967, 1970, 1973, and 1979. | Photo: Durch National Archive",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2088,14 +2104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-finals-g1",
          "pubDate" : "Tue, 15 Feb 2022 14:12:00 -0800",
          "title" : "2022 FIDE Grand Prix Berlin Final: Memorable 1st Clash Ends In Thrilling Draw"
-      },
-      {
-         "description" : "Chess.com is happy to foster the growth of the royal game by giving $25,000 to help fund the 2022 North American Chess Cup for Youth With Disabilities happening June 21 through 26. This amount will help the organizers to invest in staff for the ev...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-funds-north-american-chess-cup",
-         "pubDate" : "Tue, 15 Feb 2022 12:14:00 -0800",
-         "title" : "Chess.com Gives $25,000 To Fund North American Chess Cup For Children With Disabilities"
       },
       {
          "description" : "The \"Battle of the Sexes\" was a ten-round Scheveningen match between ten male and ten female players that was played from 24 January to 3rd February in Gibraltar. The men won 53-47, and looking back on the match, Irina Bulmaga (pictured), who commentated the games live in Gibraltar, wonders if and why the men were better at team-building and what this match says about women's chess. | Photo: David Llada",
@@ -2208,14 +2216,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/how-to-improve.html",
          "pubDate" : "Sun, 13 Feb 2022 12:23:00 +0000",
          "title" : "How to improve"
-      },
-      {
-         "description" : " Yuri Averbakh, the world's oldest grandmaster, was born 100 years ago, on 8 February 1922, making him the first grandmaster to reach three figures. Averbakh was awarded the grandmaster title in 1952, and was a world championship candidate in 1953. He scored many tournament successes in the 1950s and 1960s, his solid style making him <a href=\"https://chessimprover.com/yuri-averbakh/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Yuri Averbakh\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/yuri-averbakh/\">Yuri Averbakh</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/yuri-averbakh/",
-         "pubDate" : "Sun, 13 Feb 2022 09:49:19 +0000",
-         "title" : "Yuri Averbakh"
       },
       {
          "description" : "The Grandmasters Dr. Karsten Mueller and Luis Engel have set a ball rolling in Germany with their latest Fritztrainer. GM Lars Bo Hansen designed the four-player model in 2005, and was perhaps ahead of his time. In the 5-part interview with Dr. Karsten Mueller, all four player types are discussed in detail. Today - The Pragmatic.",
