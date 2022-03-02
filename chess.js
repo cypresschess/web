@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " There is a huge difference between having an advantage, and converting that advantage. The gap is often so large that there is room for a step in between, which is increasing your advantage. During post-mortems I've often heard players sat \"I thought I was winning here\", without actually being able to say why. Here is a game from the current Grand Prix series where White does a good job of slowing improving his position, based on the plan of targeting weaknesses in Black's position. This starts around move 15 when Black has an isolated e pawn. By forcing Black to defend this weakness, White is able to improve his position, creating further weaknesses in Black's position. As the game continu",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/good-technique.html",
+         "pubDate" : "Wed, 02 Mar 2022 12:27:00 +0000",
+         "title" : "Good Technique"
+      },
+      {
+         "description" : "The Belgrade FIDE Grand Prix opened on Tuesday with 50% of the games ending decisively. Alexander Grischuk suffered a loss to his Russian compatriot Dmitry Andreikin and said afterwards, referring to the invasion of Ukraine, that he was \"very sad, very pained with what is going on\". There were also wins for Nikita Vitiugov, Anish Giri and Vidit, while Maxime Vachier-Lagrave needed all his escapology skills to survive against Alexandr Predke.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/belgrade-gp-1-grischuk-pained-by-war-loses-to-andreikin",
+         "pubDate" : "Wed, 02 Mar 2022 11:26:05 +0000",
+         "title" : "Belgrade GP 1: Grischuk \"pained\" by war, loses to Andreikin"
+      },
+      {
+         "description" : "The love of most chess players for the bishop-pair is both strong and irrational. We all know that having the \"bishop-pair\" advantage should be beneficial, but - as discussed in the previous part of The Winning Academy - we barely know how to make full use of them. I would like to show you how this irrational love for the two bishops leads to poor practical decisions. The price players are willing to pay for the bishop-pair is quite often far too high. An arm and a leg. And more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-6-hypnotised-by-the-bishops",
+         "pubDate" : "Wed, 02 Mar 2022 12:00:00 +0100",
+         "title" : "The Winning Academy 6: Hypnotised by the bishops"
+      },
+      {
+         "description" : "The chess International Master went through the uncrowded Dołhobycz&oacute;w-Uhryniv border and is now headed to Warsaw.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33403834/ukraine-russia-invasion-india-im-reach-poland-headed-warsaw?device=featurephone",
+         "pubDate" : "Wed, 2 Mar 2022 04:17:48 -0500",
+         "title" : "Indian IM in Ukraine manages to reach Poland"
+      },
+      {
+         "description" : "From 23rd to 27th February a strong international Open took place in Kragero, Norway. After nine rounds Dutch Grandmaster Lucas van Foreest and GM Boris Chatalbashev from Denmark shared first place but van Foreest won the tournament on tiebreak. | Photo: (from left to right) Geir Sune Tallaksen Ostmoe, Chatalbashev, van Foreest | Photos: Chess Club Kragero",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lucas-van-foreest-wins-kragero-resort-international",
+         "pubDate" : "Wed, 02 Mar 2022 09:48:26 +0100",
+         "title" : "Lucas van Foreest wins Kragero Resort International"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89941175.cms\" />The All India Chess Federation (AICF), which will be bidding to host the 44th edition of the Chess Olympiad later this year, has submitted its guarantee of USD 10 million to the world body, FIDE.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -55,7 +95,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/alexander-grischuk-on-the-russias-invasion-of-ukraine-its-extrem/",
          "pubDate" : "Tue, 01 Mar 2022 23:31:00 +0000",
-         "title" : "Alexander Grischuk on the Russia's invasion of Ukraine:\"It's Extremely Painful for Me\"."
+         "title" : "Alexander Grischuk on Russia's invasion of Ukraine:\"It's Extremely Painful for Me\"."
       },
       {
          "description" : "",
@@ -1490,14 +1530,6 @@ news_feed (
          "title" : "Black History Month 2022-Day 20: Afro-Latino Chess"
       },
       {
-         "description" : "The $1.4 million 2022 Grand Chess Tour will be without crowd-pleasers Magnus Carlsen and Hikaru Nakamura as full-tour participants, but world no. 2 Alireza Firouzja makes his debut as part of the main field in a tour that will consist of two classical events and three rapid and blitz tournaments over just five months.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-nakamura-missing-in-2022-grand-chess-tour-field",
-         "pubDate" : "Sun, 20 Feb 2022 18:40:50 +0000",
-         "title" : "Carlsen & Nakamura missing in 2022 Grand Chess Tour field"
-      },
-      {
          "description" : "Star columnist Jon Speelman continues to link chess positions with Monty Python sketches. Readers pitched in with further suggestions, and in particular one noted the unexpected absence of the expectedly 'Unexpected Spanish Inquisition'!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2136,14 +2168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1574",
          "pubDate" : "Mon, 14 Feb 2022 20:52:14 +0000",
          "title" : "Yaniela Forgas wins Cuban Women's Championship"
-      },
-      {
-         "description" : "In the Endgame Magic Show #182 Karsten M&uuml;ller continues to present endgame highlights from the Tata Steel Tournament 2022 in Wijk aan Zee. Among these highlights is a fascinating and instructive rook ending that allows you to test your rook endgame skills. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-182-with-more-endgame-highlights-of-wijk-2022",
-         "pubDate" : "Mon, 14 Feb 2022 18:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #182 - with more endgame highlights from Wijk 2022"
       },
       {
          "description" : "",
