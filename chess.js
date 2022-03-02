@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It was the first of two Chess960 weeks in Season 9 of Arena Kings when GM Vugar Rasulov emerged victorious, defeating GM Oleksandr Bortnyk in the finals by a 3.5-2.5 score. Bortnyk had advanced by defeating GM Hikaru Nakamura in the semifinals, wh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rasulov-wins-arena-kings-season-9-week-5",
+         "pubDate" : "Wed, 02 Mar 2022 14:25:13 -0800",
+         "title" : "Rasulov The Chess960 Arena King In Season 9 Week 5"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1610",
+         "pubDate" : "Wed, 02 Mar 2022 21:35:21 +0000",
+         "title" : "FIDE Chess Olympiad 2026 - Call for bids"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1609",
+         "pubDate" : "Wed, 02 Mar 2022 20:38:20 +0000",
+         "title" : "FIDE Grand Swiss & Women's Grand Swiss 2023 - Call for bids"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1603",
+         "pubDate" : "Wed, 02 Mar 2022 19:40:52 +0000",
+         "title" : "The Official Statement of FIDE Council"
+      },
+      {
          "description" : " <p class=\"lead\">Day 2 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 in Belgrade</a> ended with Anish Giri and Vidit Gujrathi leading Groups B and C respectively with a full point, while Grischuk suffered his second loss in a row. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.4992679355783\"> <img src=\"https://worldchess.com/news/pictures/A-10.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51914750790_9b1285b5f0_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51914549495_d19eb2f72e_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -576,14 +608,6 @@ news_feed (
          "link" : "https://chessimprover.com/stefano-bruzzi/",
          "pubDate" : "Sun, 27 Feb 2022 20:27:15 +0000",
          "title" : "Stefano Bruzzi"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1603",
-         "pubDate" : "Sun, 27 Feb 2022 19:40:52 +0000",
-         "title" : "The Official Statement of FIDE Council"
       },
       {
          "description" : " Kenneth Clayton is a trailblazer for many reasons. A distinguished man with a presence that commanded respect, he was one of the earliest pioneers of Black chess more specifically African-American chess. He won the 1963 U.S. Amateur Championship in thrilling fashion and would precede Frank Street who won the tournament in 1965. Clayton was born [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/27/black-history-month-2022-day-27-kenneth-clayton/\">Black History Month 2022-Day 27: Kenneth Clayton</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -2098,14 +2122,6 @@ news_feed (
          "title" : "Exciting chess in the FIDE Grand Prix Berlin final"
       },
       {
-         "description" : "GM Hikaru Nakamura and GM Levon Aronian were involved in a memorable clash in the first game of the 2022 FIDE Grand Prix first leg finals in Berlin. Both the players had the upper hand at different points of the game which ended in a draw by perpe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-finals-g1",
-         "pubDate" : "Tue, 15 Feb 2022 14:12:00 -0800",
-         "title" : "2022 FIDE Grand Prix Berlin Final: Memorable 1st Clash Ends In Thrilling Draw"
-      },
-      {
          "description" : "The \"Battle of the Sexes\" was a ten-round Scheveningen match between ten male and ten female players that was played from 24 January to 3rd February in Gibraltar. The men won 53-47, and looking back on the match, Irina Bulmaga (pictured), who commentated the games live in Gibraltar, wonders if and why the men were better at team-building and what this match says about women's chess. | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2320,14 +2336,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-january-2022/",
          "pubDate" : "Thu, 10 Feb 2022 08:43:49 +0000",
          "title" : "ECU E-MAGAZINE JANUARY 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1566",
-         "pubDate" : "Wed, 09 Feb 2022 21:20:02 +0000",
-         "title" : "FIDE Grand Prix: Levon Aronian, first semifinalist"
       }
    ]
 }
