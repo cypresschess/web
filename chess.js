@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89941175.cms\" />The All India Chess Federation (AICF), which will be bidding to host the 44th edition of the Chess Olympiad later this year, has submitted its guarantee of USD 10 million to the world body, FIDE.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-submits-guarantee-towards-bid-to-host-olympiad/articleshow/89941175.cms",
+         "pubDate" : "Wed, 02 Mar 2022 12:37:36 +0530",
+         "title" : "AICF submits guarantee towards bid to host Olympiad"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89937905.cms\" /> Maharashtra's youngest Women Grand Master (WGM) Divya Deshmukh is all set to become Vidarbha's first senior national women chess champion.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-topples-top-seed-vaishali-set-to-become-senior-national-chess-champion/articleshow/89937905.cms",
+         "pubDate" : "Wed, 02 Mar 2022 10:21:33 +0530",
+         "title" : "Divya set to become senior national chess champion"
+      },
+      {
          "description" : "Half the games ended decisively on opening day at the second leg of the FIDE Grand Prix in Belgrade. Dmitry Andreikin and Vidit Gujrathi are leading their pools after beating Alexander Grischuk and Alexei Shirov respectively. Meanwhile, both games finished decisively in pool C, with Anish Giri and Nikita Vitiugov scoring full points in the first round. Two draws were seen in pool D. | Photos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-r1",
          "pubDate" : "Wed, 02 Mar 2022 04:45:00 +0100",
          "title" : "Belgrade GP: Andreikin stuns Grischuk"
+      },
+      {
+         "description" : "The first round of the group stage in the 2022 FIDE Grand Prix in Belgrade saw four decisive games, three hard-fought draws, and several surprises. After the first of six rounds, GM Dmitriy Andreikin has taken the lead in Group A, GMs Anish Giri a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-r1",
+         "pubDate" : "Tue, 01 Mar 2022 17:44:00 -0800",
+         "title" : "2022 FIDE Grand Prix Belgrade R1: Four Wins, Lots of Excitement"
       },
       {
          "description" : "",
@@ -2024,14 +2048,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/she-plays-to-win/",
          "pubDate" : "Tue, 15 Feb 2022 17:50:13 +0000",
          "title" : "She Plays to Win"
-      },
-      {
-         "description" : "The Chess.com Players League has been wildly popular, leading to a 20% increase in games played in December 2021 alone. Leagues have also given the Chess.com community another way to track progress in its favorite game. With Leagues came an opport...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-leagues-contest-winners",
-         "pubDate" : "Tue, 15 Feb 2022 06:17:00 -0800",
-         "title" : "Announcing Winners Of The Chess.com Leagues Contest"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/58ca094b-dc87-4371-86b9-f4fe682ee581/JEremy3.jpg\" data-image-dimensions=\"435x219\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"620baed702d83b13a72baa93\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/58ca094b-dc87-4371-86b9-f4fe682ee581/JEremy3.jpg?format=1000w\" /> </figure> <p class=\"\">This week's<a href=\"https://www.perpetualchesspod.com/adultimprover\"><span> Adult Improver Edition</span></a> of Perpetual Chess features NM Jeremy Kane: Blitz specialist, USCF",
