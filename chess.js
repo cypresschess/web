@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE published its new World Ranking List. World Champion Magnus Carlsen remains the clear number one but did not make any significant progress towards the 2900 mark - Carlsen gained points by winning in Wijk but lost these points again in one game in the Norwegian league. The winner of the Challengers in Wijk, Arjun Erigaisi, is now among the top 100, and Hikaru Nakamura is back in the top 20.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-march-2022",
+         "pubDate" : "Wed, 02 Mar 2022 17:16:08 +0100",
+         "title" : "FIDE ratings March 2022"
+      },
+      {
+         "description" : "Magnus Carlsen famously stated:\"I Don't Believe in Fortresses\". But obviously, he was referring to positions which look like a fortress, but are nothing else than a \"Papier-mâch&eacute;\". Svitlana shows us some real fortress ideas, positions, how to build them up, and defend them correctly.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-32",
+         "pubDate" : "Wed, 02 Mar 2022 17:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - How to build a fortress"
+      },
+      {
+         "description" : "Sergey Karjakin has infuriated the chess world through his recent controversial comments on social media supporting Russian President Vladimir Putin and the Russian invasion of Ukraine. The grandmaster is also facing an ethics case brought by FIDE and risks suspension from tournament play. Now organisers in Stavanger and London say the Russian 32-year-old is no longer welcome at their tournaments.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/sergey-karjakin-shunned-by-top-chess-events",
+         "pubDate" : "Wed, 02 Mar 2022 15:20:09 +0000",
+         "title" : "Sergey Karjakin shunned by top chess events"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The former world champion and <strong>FIDE</strong>-ambassador <strong>Anatoly Karpov</strong> is among the 351 members of the Russian parliament who are <a href=\"https://www.euronews.com/my-europe/2022/02/22/eu-sanctions-351-russian-lawmakers-who-voted-to-recognise-ukraine-s-separatist-republics\">banned by the EU to travel and are subject to freezing their assets</a> as a sanction after voting for the recognition of the People Republics of Donetsk and Lugansk, which comes equal to annecting the cities in Eastern Ukraine into Russia. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/karpov-sanctioned-by-eu/",
+         "pubDate" : "Wed, 02 Mar 2022 16:14:11 +0100",
+         "title" : "Karpov sanctioned by EU"
+      },
+      {
+         "description" : " Note from Noël: This is a guest post by a Next Level Chess reader who goes by 'Ringofbarahir' on several Chess platforms (Chessable/Chess.com/Lichess). He is an adult chess improver and looks back on his first year in chess. The clarity of his insights struck me and that's why I'm very happy to share the article [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/5-key-lessons-first-year/\">5 Key Lessons I learned In My First Year Playing Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/5-key-lessons-first-year/",
+         "pubDate" : "Wed, 02 Mar 2022 15:00:00 +0000",
+         "title" : "5 Key Lessons I learned In My First Year Playing Chess"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> <a href=\"https://www.fide.com/news/1608\">postponed</a> the <strong>Men's World Team Championship</strong> in Jerusalem from April to November because Ukraine couldn't play and Russia shouldn't play. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/world-teams-postponed/",
+         "pubDate" : "Wed, 02 Mar 2022 15:51:04 +0100",
+         "title" : "World Teams postponed"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
+         "pubDate" : "Wed, 02 Mar 2022 14:55:00 +0100",
+         "title" : "Belgrade Grand Prix - Live!"
+      },
+      {
          "description" : "Kanpur (02 Mar 22) :- Tamil Nadu Grandmaster D Gukesh defeated former national champion Abhijeet Gupta of the PSPB in the penultimate round to catch",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1146,14 +1202,6 @@ news_feed (
          "title" : "Regional Representation"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The former world champion <strong>Anatoly Karpov</strong> is among the 351 members of the Russian parliament who are <a href=\"https://www.euronews.com/my-europe/2022/02/22/eu-sanctions-351-russian-lawmakers-who-voted-to-recognise-ukraine-s-separatist-republics\">banned by the EU to travel and are subject to freezing their assets</a> as a sanction after voting for the recognition of the People Republics of Donetsk and Lugansk, which comes equal to annecting the cities in Eastern Ukraine into Russia. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/karpov-sanctioned-by-eu/",
-         "pubDate" : "Wed, 23 Feb 2022 12:36:44 +0100",
-         "title" : "Karpov sanctioned by EU"
-      },
-      {
          "description" : "Anish Giri and Levon Aronian were the star names who lost out on a frantic last day of the Airthings Masters Prelims, with Levon losing in 20 moves to Andrey Esipenko in the final round while Anish was unable to beat Magnus Carlsen on demand. Ian Nepomniachtchi finished top, with Magnus taking clear second, while underdogs Eric Hansen and Vincent Keymer kept their nerve to reach the playoffs. It's Nepo-Keymer, Hansen-Esipenko, Artemiev-Ding Liren and Le-Carlsen in Wednesday's quarterfinals.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1488,14 +1536,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-stuns-world-no-1-magnus-carlsen-in-airthings-masters-chess/articleshow/89717585.cms",
          "pubDate" : "Mon, 21 Feb 2022 14:53:02 +0530",
          "title" : "Praggnanandhaa stuns World No. 1 Carlsen in Airthings Masters"
-      },
-      {
-         "description" : "Sports company PUMA has signed a long-term agreement with Norwegian Chess Grandmaster Magnus Carlsen and with the Meltwater Champions Chess Tour. Through the partnership with Magnus and the Tour, PUMA will connect the world of chess with the world of sport performance by creating engaging content and activations for chess fans around the world.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/puma-partners-with-magnus-carlsen-and-champions-chess-tour",
-         "pubDate" : "Mon, 21 Feb 2022 09:00:01 +0000",
-         "title" : "PUMA partners with Magnus Carlsen and Champions Chess Tour"
       },
       {
          "description" : "",
@@ -1834,14 +1874,6 @@ news_feed (
          "title" : "Sadhwani Takes Week 3 In Arena Kings Season 9"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Ding Liren</strong> told <strong>German Press Agency</strong> that he dropped out of the <strong>Grand Prix</strong>, because <strong>FIDE</strong> refused to guarantee him a place in the third tournament and would only let him play if a place opens up and his visum for Germany was still not granted. The world number 3 also didn't like the prospect to be put in quarantine upon his return to China. So the top player was replaced before the <a href=\"https://www.fide.com/news/1578\">second tournament in Belgrade</a> starts on 28 February. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/fide-didnt-guaranteed-ding-place/",
-         "pubDate" : "Thu, 17 Feb 2022 17:16:41 +0100",
-         "title" : "FIDE didn't guarantee Ding place"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2114,36 +2146,12 @@ news_feed (
          "title" : "Double knockout in Saint Louis"
       },
       {
-         "description" : "On 8 February Yury Averbakh celebrated his 100th birthday. GM Sergey Yanovsky visited the jubilarian and presented him with the Golden Plaque of the Russian Chess Federation. An exhibition was opened in his honour at the Central Chess Club. Averbakh received countless congratulations and was greeted per video by FIDE President Arkady Dvorkovich and Garry Kasparov. | Photos: Sergey Yanovsky and Vladimir Barsky (Russian Chess Federation)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-chess-federation-honours-yury-averbakh",
-         "pubDate" : "Tue, 15 Feb 2022 12:30:34 +0100",
-         "title" : "Russian Chess Federation honours Yury Averbakh"
-      },
-      {
          "description" : "The European Chess Union invites the National federations members to submit bids for the organization of the official European Chess Championships in 2024 including combined bids for next years.&#160; The bids must be submitted exclusively in the Bid form regulated by the ECU (in the attachment). For any additional documents delivered separately from the bid form, it must&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/invitation-for-bids-european-chess-championships-2024/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/invitation-for-bids-european-chess-championships-2024/",
          "pubDate" : "Tue, 15 Feb 2022 09:26:02 +0000",
          "title" : "INVITATION FOR BIDS - EUROPEAN CHESS CHAMPIONSHIPS 2024"
-      },
-      {
-         "description" : "Knights can fork kings, queen and rooks, but in endgames they are often surprisingly helpless against rooks. In the diagrammed position Black's passed pawn on the h-file looks dangerous but the white rooks have everything under control. What did White play to win the game?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/black-s-knight-s-knightmare",
-         "pubDate" : "Tue, 15 Feb 2022 09:00:00 +0100",
-         "title" : "Black's knight's knightmare"
-      },
-      {
-         "description" : "The English newspaper \"The Guardian\" recently published an interview with Garry Kasparov in which the 13th World Champion openly talks about his chess career, his political activities, his loss against Deep Blue, and how it feels to be thrown into jail. | Photo: Saint Louis Chess Center",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/garry-kasparov-talks-about-his-life",
-         "pubDate" : "Tue, 15 Feb 2022 08:50:00 +0100",
-         "title" : "Garry Kasparov talks about his life"
       },
       {
          "description" : "",
@@ -2320,14 +2328,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1566",
          "pubDate" : "Wed, 09 Feb 2022 21:20:02 +0000",
          "title" : "FIDE Grand Prix: Levon Aronian, first semifinalist"
-      },
-      {
-         "description" : " Chess Training can be tough and dull sometimes. Group Training can boost your moral &#38; connect you with like-minded people. This can be extremely beneficial. Not only for your mental sanity but also for your Chess improvement. So do I recommend working in a group? As frequently is the case, my answer is it depends [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/group-training/\">Chess Group Training</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/group-training/",
-         "pubDate" : "Wed, 09 Feb 2022 14:00:00 +0000",
-         "title" : "Chess Group Training"
       }
    ]
 }
