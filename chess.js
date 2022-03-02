@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1607",
+         "pubDate" : "Wed, 02 Mar 2022 00:01:45 +0000",
+         "title" : "FIDE Grand Prix Belgrade: Round 1 Recap"
+      },
+      {
+         "description" : " <p class=\"lead\">The second leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE World Chess Grand Prix</a> got off to a sharp start with four players securing victories and four games ending in a draw The first round was opened with a brief ceremony where the players were welcomed by the Serbian minister for sport, Vanja Udovicic, who was one of the world's best ever water polo players (the sport is very popular in Serbia and southern Europe). Together with the head of the Serbian Chess Federation Dragan Lazic, Mr Udovicic made the first move in the game between Richard Rapport and Nikita Vitiugov. The first round of the second leg of the FIDE Grand Prix concluded with Dmit",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/belgrade-grand-prix-round-one/",
+         "pubDate" : "Wed, 02 Mar 2022 00:00:42 +0000",
+         "title" : "Belgrade Grand Prix | Round One"
+      },
+      {
+         "description" : " <p class=\"lead\">After Round 1 of the second leg of the FIDE Grand Prix in Belgrade Russian Grandmaster Alexander Grischuk made a statement and shared his feeling about Russia's attack on Ukraine. \"Now I don't think I will be able to recover at all. I am very sad, very pained with what is going on. I will not use the word 'war' because it's prohibited in our media and I want them to be able to quote me. I was and would support Russia in 99% of international conflicts but this time I cannot manage to do that. In my view what we are doing is very wrong from both moral view and practical view. And maybe our government, our president think that if they stop what's going on they will have to resi",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/alexander-grischuk-on-the-russias-invasion-of-ukraine-its-extrem/",
+         "pubDate" : "Tue, 01 Mar 2022 23:31:00 +0000",
+         "title" : "Alexander Grischuk on the Russia's invasion of Ukraine:\"It's Extremely Painful for Me\"."
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1606",
+         "pubDate" : "Tue, 01 Mar 2022 22:25:23 +0000",
+         "title" : "Erigaisi, Nakamura and Aronian move up in March rating list"
+      },
+      {
          "description" : " <p class=\"lead\">Day 1 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 in Belgrade</a> ended with Andreikin and Vidit being the early leader of Groups A and C respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"800\" data-ratio=\"1.498127340824\"> <img src=\"https://worldchess.com/news/pictures/A-9.jpg\" width=\"800\" height=\"534\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51911936611_32904927a5_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51911937181_00de6b0327_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51911964611_5e4d54da37_k.jpg\" wid",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/vidit-and-andreikin-the-early-leaders-of-the-fide-grand-prix-202/",
          "pubDate" : "Tue, 01 Mar 2022 19:13:08 +0000",
          "title" : "Vidit and Andreikin the early leaders of the FIDE Grand Prix 2022 in Belgrade"
+      },
+      {
+         "description" : " The FIDE Grand Prix Leg 2 takes place in Belgrade Tuesday 1st to Monday 14th Mar 2022. There are group stages 4 players 6 rounds, the winners of each group then play the knockout phase. Players: Grischuk, Andreikin, Shankland, Bacrot, Rapport, Vidit, Fedoseev, Shirov, Giri, Vitiugov, Harikrishna, Tabatabaei, Mamedyarov, MVL, Yu Yangyi and Predke. This is the second of three such events. Nakamura won the first, the final leg is back in Berlin Mon 21st Mar to Mon 4th Apr 2022.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-prix-leg-2-belgrade-2022",
+         "pubDate" : "Tue, 1 Mar 2022 22:18:00 +0400",
+         "title" : "FIDE Grand Prix Leg 2 Belgrade 2022 - Games and Results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89930180.cms\" />Grandmaster Arjun Erigasi defeated IM V Pranav to jump into sole lead with 7.5 points after nine rounds in the ongoing MPL 58th Senior National Chess Championship on Tuesday.",
@@ -55,7 +95,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
          "pubDate" : "Tue, 01 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix - Live!"
+         "title" : "Belgrade Grand Prix - Games and results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89926789.cms\" />Five players, including defending champion Aravindh Chithambaram occupy the joint lead with 6.5 points each after eight rounds in the MPL 58th Senior National Chess Championship on Tuesday.",
@@ -160,14 +200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-magic-knight-2",
          "pubDate" : "Tue, 01 Mar 2022 09:00:00 +0100",
          "title" : "A magic knight"
-      },
-      {
-         "description" : " The FIDE Grand Prix Leg 2 takes place in Belgrade Tuesday 1st to Monday 14th Mar 2022. There are group stages 4 players 6 rounds, the winners of each group then play the knockout phase. Players: Grischuk, Andreikin, Shankland, Bacrot, Rapport, Vidit, Fedoseev, Shirov, Giri, Vitiugov, Harikrishna, Tabatabaei, Mamedyarov, MVL, Yu Yangyi and Predke. This is the second of three such events. Nakamura won the first, the final leg is back in Berlin Mon 21st Mar to Mon 4th Apr 2022.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-prix-leg-2-belgrade-2022",
-         "pubDate" : "Tue, 1 Mar 2022 08:53:00 +0400",
-         "title" : "FIDE Grand Prix Leg 2 Belgrade 2022 - Games and Results"
       },
       {
          "description" : " Share! International Master Emory TatePhoto by Daaim Shabazz Before his passing in 2015, International Master Emory Tate was one of the most recognizable figures in the American chess scene. In this last tribute for Black History Month, we will feature the man, the myth, the legend. The legacy continues. With a warrior persona and his [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/28/black-history-month-2022-day-28-im-emory-tate/\">Black History Month 2022-Day 28: IM Emory Tate</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -1906,28 +1938,12 @@ news_feed (
          "title" : "Remembering Borislav Ivkov (12 November 1933 - 14 February 2022)"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/2pY2aeRhN0w?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-finals-g2-broadcast/",
-         "pubDate" : "Wed, 16 Feb 2022 13:02:42 +0000",
-         "title" : "FIDE Grand Prix Finals G2 Broadcast"
-      },
-      {
          "description" : "In his \"Weekly Show\" Lawrence Trent analyses the first game of the final of the FIDE Grand Prix in Berlin between Hikaru Nakamura and Levon Aronian, which was a hard-fought draw. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-weekly-show-grand-prix-berlin-2",
          "pubDate" : "Wed, 16 Feb 2022 14:00:00 +0100",
          "title" : "The Weekly Show: The final of the Grand Prix Berlin"
-      },
-      {
-         "description" : " <p class=\"lead\">In just two weeks, Belgrade will host the second leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022.</a> Sixteen GMs will participate and claim their position in the 2022 Candidates Tournaments, but unfortunately, Ding Liren is not one of them. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/table-1.png\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> The news that <a href=\"https://worldchess.com/news/all/ding-liren-worlds-number-3-replaced-in-the-grand-prix-series/\">Ding Liren is likely to miss the Candidates</a> has shocked the chess world once more. Liren missed the first leg of the Grand Prix because he f",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-pools-for-the-second-leg-of-the-fide-world-chess-grand-prix/",
-         "pubDate" : "Wed, 16 Feb 2022 12:17:57 +0000",
-         "title" : "The pools for the second leg of the FIDE World Chess Grand Prix 2022 in Belgrade"
       },
       {
          "description" : "",
@@ -2264,14 +2280,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/group-training/",
          "pubDate" : "Wed, 09 Feb 2022 14:00:00 +0000",
          "title" : "Chess Group Training"
-      },
-      {
-         "description" : " GM Yuri Averbakh has just turned 100 years old, which I'm guessing makes him the oldest GM ever. Born in 1922 his chess career start before World War II, but really flourished after the war finished. He played in the 1953 Candidates Match, and was a regular competitor up until the 1990's (an even played a few games as late as 2007). He was renowned endgame theorist writing a number of important books in this field. In the 1950' and 60's he travelled to a number of non Warsaw-Pact countries, as part of chess goodwill tours. He played in the Australian Championship in 1960, as a guest players, and scored 14/15. During that event he faced most of the leading Australian players, including forme",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/happy-100-yuri.html",
-         "pubDate" : "Tue, 08 Feb 2022 22:34:00 +0000",
-         "title" : "Happy 100 Yuri"
       }
    ]
 }
