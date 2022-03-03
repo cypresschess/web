@@ -2,12 +2,100 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In an appeal to Vladimir Putin, the President of Russia, a large number of prominent Russian chess players call for a ceasefire and peace in Ukraine. \"It is unbearably painful for us to see the catastrophe that is happening these days to our peoples.\" The courageous appeal appeared on the Russian sports site \"Championat\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leading-chess-players-of-russia-appeal-for-peace-and-ceasefire",
+         "pubDate" : "Thu, 03 Mar 2022 20:46:20 +0100",
+         "title" : "Leading chess players of Russia appeal to Putin for peace and ceasefire"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Let's rename the King's Indian after the country where this heroic opening was developed. The country that is defending our liberty. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/yellow-as-cornfields-blue-as-the.1920.jpeg\" title=\"Yellow as cornfields, blue as the sky. \" data-title=\"Yellow as cornfields, blue as the sky.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/yellow-as-cornfields-blue-as-the.480.jpeg\" alt=\"Yellow as cornfields, blue as the sky.\" srcset=\"https://www.chesstech.org/files/yellow-as-cornfields-blue-as-the.480.jpeg 1x, https://www.chesstech.or",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/ukrainian-defence/",
+         "pubDate" : "Thu, 03 Mar 2022 20:26:33 +0100",
+         "title" : "Ukrainian Defence"
+      },
+      {
+         "description" : " India plans to replace Moscow as host of the 150-nation event, next month's World Teams is postponed, and the former world title challenger faces a Fide disciplinary hearing International chess has moved swiftly to adjust to Russia's war against Ukraine. Major events have switched venues or been postponed, Russian sponsors have been removed, while a former world title challenger has been shunned for his pro-invasion stance, with further penalties possible. India is the strongly favoured candidate to host the 150-nation Olympiad, the game's flagship team event, after Moscow was stripped of the competition last week by Fide, the global chess body. The Indian chess scene is vibrant with talent",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/mar/03/chess-india-makes-olympiad-bid-while-sergey-karjakin-shunned-after-invasion",
+         "pubDate" : "Thu, 03 Mar 2022 18:52:26 +0000",
+         "title" : "Chess: India makes Olympiad bid while Sergey Karjakin shunned after invasion"
+      },
+      {
+         "description" : "The only winner of the opening round in the A-tournament of the Saint Louis Spring Classic 2022 was Jeffrey Xiong. He won against Mikhail Antipov and will play Dariusz Swiercz today. In the B-tournament three games ended with a win. Round 2 starts at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
+         "pubDate" : "Thu, 03 Mar 2022 19:30:00 +0100",
+         "title" : "Saint Louis Spring Classic 2022 - Live"
+      },
+      {
+         "description" : " <p class=\"lead\">Day 3 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 in Belgrade</a> ended with Group C being the only decisive group, Group D continuing with draws, and Giri still leading Group B with a full point. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.4992679355783\"> <img src=\"https://worldchess.com/news/pictures/A-11.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51916387795_7de4762381_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51916387425_5eb2a18bb5_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.c",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/rapport-beats-vidit-to-co-lead-group-c-while-giri-is-still-a-poi/",
+         "pubDate" : "Thu, 03 Mar 2022 17:54:38 +0000",
+         "title" : "Rapport beats Vidit to co-lead Group C while Giri is still a point ahead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.05<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5\">https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-4-lichessorg",
+         "pubDate" : "Thu, 03 Mar 2022 17:51:43 +0000",
+         "title" : "2022 Spring Chess Classic: Round 4 | lichess.org"
+      },
+      {
+         "description" : "Forty-four top Russian chess players published an open letter to the President of the Russian Federation, Vladimir Putin, voicing firm opposition to the war in Ukraine and expressing solidarity with the people of Ukraine. Signees include the most ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/stop-the-war-44-top-russian-players-publish-open-letter-to-putin",
+         "pubDate" : "Thu, 03 Mar 2022 09:37:00 -0800",
+         "title" : "'Stop the war.' 44 Top Russian Players Publish Open Letter To Putin"
+      },
+      {
+         "description" : "Russia's top chess players and, it appears, its chess federation, have appealed directly to President Vladimir Putin to stop the war as the game reels from the fall-out of the invasion of Ukraine. In an open letter published today, a list of highly-decorated players that reads like a who's who of Russian chess, said it is \"unbearably painful for us to see the catastrophe that is happening\".",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/russian-chess-players-tell-putin-to-stop-the-war",
+         "pubDate" : "Thu, 03 Mar 2022 17:20:58 +0000",
+         "title" : "Russian chess players tell Putin to 'stop the war'"
+      },
+      {
+         "description" : "This week Robert Ris takes a look at a miniature played at the highest level: at the Airthings Masters Online Rapid Tournament World Champion Magnus Carlsen defeated Jan-Krzysztof Duda with a swift attack and won a short and instructive game. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-miniature-between-two-top-players",
+         "pubDate" : "Thu, 03 Mar 2022 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A miniature between two top players"
+      },
+      {
+         "description" : " As <a href=\"https://www.championat.com/other/news-4626621-veduschie-shahmatisty-rossii-napisali-obraschenie-k-prezidentu-rf.html\">Championat and Yana Metlyova revealed</a>, Russia's leading chess players made an official appeal to the President of the Russian Federation regarding the Russian invasion of Ukraine. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Untitled-design-(1).jpg\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> \"We oppose military actions on the territory of Ukraine and call for an early ceasefire and a peaceful solution to the conflict through dialogue and diplomatic negotiations. It is unbearably painful for us to see the catastrophe that is ha",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/russian-chess-players-ask-for-peace/",
+         "pubDate" : "Thu, 03 Mar 2022 16:59:11 +0000",
+         "title" : "Russian chess players ask for peace"
+      },
+      {
          "description" : "Final Round Report &#160; In the final round Divya and Soumya signed a peace treaty. Divya maintained her spectacular form and won the MPL 47th",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/mpl-47-th-national-women-chess-championship-2022divya-deshmukh-crowned-national-women-champion/",
          "pubDate" : "Thu, 03 Mar 2022 16:26:41 +0000",
          "title" : "MPL 47 th National Women Chess Championship-2022:Divya Deshmukh crowned National Women Champion"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 34 Russian chess personalities, including challenger <strong>Ian Nepomniachtchi</strong>, national team players and employees of the <strong>Russian Chess Federation</strong> <a href=\"http://chess-news.ru/node/28810\">signed an open letter</a> to Russian dictator <strong>Vladimir Putin</strong> requesting to end the \"military operation on the territory of Ukraine\", a euphemism required by Russian censorship. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/russian-players-appeal-to-end-the/",
+         "pubDate" : "Thu, 03 Mar 2022 17:13:42 +0100",
+         "title" : "Russian players appeal to end the war"
       },
       {
          "description" : "In the current ChessBase Magazine the Sicilian Taimanov Variation (1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6) is taken to task from two sides at once. The super-modern 7.g4 came onto the board at the Tata Steel 2022 in the game Grandelius-Carlsen, we have already presented the Swede's analysis to you recently. There is also a complete opening article by IM Christian Braun on precisely this variation in CBM #206. A \"dangerous weapon for White\", because Black has development problems, whereas White can quickly castle long... The concept, which Jan Werle looks at in his opening video on the basis of a game by Alireza Firouzja, is completely different: after 7.Nxc6 bxc6 8.Qd3 Nf6 ",
@@ -264,14 +352,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/sergey-karjakin-shunned-by-top-chess-events",
          "pubDate" : "Wed, 02 Mar 2022 15:20:09 +0000",
          "title" : "Sergey Karjakin shunned by top chess events"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The former world champion and <strong>FIDE</strong>-ambassador <strong>Anatoly Karpov</strong> is among the 351 members of the Russian parliament who are <a href=\"https://www.euronews.com/my-europe/2022/02/22/eu-sanctions-351-russian-lawmakers-who-voted-to-recognise-ukraine-s-separatist-republics\">banned by the EU to travel and are subject to freezing their assets</a> as a sanction after voting for the recognition of the People Republics of Donetsk and Lugansk, which comes equal to annecting the cities in Eastern Ukraine into Russia. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/karpov-sanctioned-by-eu/",
-         "pubDate" : "Wed, 02 Mar 2022 16:14:11 +0100",
-         "title" : "Karpov sanctioned by EU"
       },
       {
          "description" : " Note from Noël: This is a guest post by a Next Level Chess reader who goes by 'Ringofbarahir' on several Chess platforms (Chessable/Chess.com/Lichess). He is an adult chess improver and looks back on his first year in chess. The clarity of his insights struck me and that's why I'm very happy to share the article [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/5-key-lessons-first-year/\">5 Key Lessons I learned In My First Year Playing Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -1562,14 +1642,6 @@ news_feed (
          "title" : "2022 O2C Doeberl Cup - 7 weeks out"
       },
       {
-         "description" : "Ian Nepomniachtchi is through to the quarterfinals of the Airthings Masters on a day when he could afford to squander two completely winning positions. Behind him, however, there's mayhem, with only three points, or one win, separating 2nd place Magnus Carlsen from 10th place Levon Aronian. Only the Top 8 qualify, with Vincent Keymer and Eric Hansen, who beat Magnus, still in that pack with three games to go. It can change fast, as Vladislav Artemiev showed on Day 3, when he won three games and climbed from 10th to 3rd.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/airthings-masters-3-nepo-through-as-magnus-mouse-slips",
-         "pubDate" : "Tue, 22 Feb 2022 12:01:46 +0000",
-         "title" : "Airthings Masters 3: Nepo through as Magnus mouse-slips"
-      },
-      {
          "description" : "The Master Section of the 13th Annual Southwest Class Championships, February 17-21, ended in a tie for first between International Masters Christopher Yoo and Zurab Javakhadze, with 7.5 out of 9. Woman International Master Alice Lee made an International Master norm. Alexey Root reports from Fort Worth, Texas. | Photo: Courtesy of the Lee family",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1640,14 +1712,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1590",
          "pubDate" : "Mon, 21 Feb 2022 22:10:04 +0000",
          "title" : "Nepomniachtchi continues to lead; Carlsen is joint-second"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Meltwater Champions Chess Tour</strong> announced that <strong>Puma SE</strong>, the third biggest sportswear brand, <a href=\"https://chess24.com/en/read/news/puma-partners-with-magnus-carlsen-and-champions-chess-tour\">signed a multi-year partnership</a> with the tour and with Magnus Carlsen personally. PUMA CEO <strong>Bj&ouml;rn Gulden</strong> is a former football professional from Norway. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/puma-partners-with-champions-tour/",
-         "pubDate" : "Mon, 21 Feb 2022 17:35:55 +0100",
-         "title" : "Puma partners with Champions Tour"
       },
       {
          "description" : "The ECF's former Membership Secretary Christine Adams, who retired a while ago, has agreed to help out on Mondays with email and telephone enquiries concerning ECF membership. The ECF office...",
@@ -1810,14 +1874,6 @@ news_feed (
          "title" : "Carlsen loses to Esipenko, Nepo on Day 1 of the Champions Chess Tour 2022"
       },
       {
-         "description" : " <p class=\"lead\">Magnus Carlsen, the world's highest-rated chess player and current World Champion, is at the bottom of the tournament his company has organized, and he is still the star of the show, because the main topic in chess in the last decade is not only chess theory and performance, but also who will manage to beat Carlsen. Hence Carlsen's losses generate more buzz than anything else, and those who beat him become instant chess celebrities. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6A2BBC76-C152-4368-A9A9-7942B7EFF840.jpeg\" width=\"1600\" height=\"900\" alt=\"\" /> <div class=\"e2-text-caption\">Official broadcast of the first day of the Champions Chess To",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/magnus-carlsen-is-the-star-of-his-own-show-thank-you-very-much/",
-         "pubDate" : "Sun, 20 Feb 2022 14:10:15 +0000",
-         "title" : "Magnus Carlsen Is the Star of His Own Show, Thank You Very Much"
-      },
-      {
          "description" : " Yuri Averbakh celebrated his 100th birthday the other day. Another Soviet player from the same vintage just missed celebrating his 99th birthday. Abram Khasin had a long and remarkable life. He was born in Ukraine on 15 February 1923, and died in Essen, Germany, where he had spent the last 20 years of his life, <a href=\"https://chessimprover.com/abram-khasin-1923-2022/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Abram Khasin (1923-2022)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/abram-khasin-1923-2022/\">Abram Khasin (1923-2022)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1922,14 +1978,6 @@ news_feed (
          "title" : "Which Marx played better chess: Karl or Groucho?"
       },
       {
-         "description" : " <p class=\"lead\">Hikaru Nakamura won the first leg of the FIDE Grand Prix Series 2022, organized by World Chess in a thrilling tie-break. The US Grandmaster won 13 Grand Prix Points and is now a favorite to qualify for the Candidates Tournament. Nakamura also took home €24,000 in prize money. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220217174755_IMG_2648.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220217174613_IMG_2635.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photos: World Chess</div> </div> This vict",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/hikaru-nakamura-wins-the-first-leg-of-the-fide-grand-prix-series/",
-         "pubDate" : "Sat, 19 Feb 2022 09:55:31 +0000",
-         "title" : "Hikaru Nakamura Wins The First Leg of The FIDE Grand Prix Series 2022"
-      },
-      {
          "description" : "Opposite-coloured bishops favour the attacker - in the diagrammed position it is Black to move, and do you see how Black can exploit the superiority on \"his squares\"?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1960,14 +2008,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/full-tour-participants-confirmed-for-the-2022-grand-chess-tour",
          "pubDate" : "Fri, 18 Feb 2022 22:31:22 +0100",
          "title" : "Full Tour Participants confirmed for the 2022 Grand Chess Tour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Harrison Keyser faces a Ruy Lopez in a slow, instructive, classical game. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/i-played-perfectly-versus-ruy-lopez-instructive-cl",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/i-played-perfectly-versus-ruy-lopez-instructive-classical-chess",
-         "pubDate" : "Fri, 18 Feb 2022 20:36:48 +0000",
-         "title" : "I Played Perfectly Versus the Ruy Lopez... (Instructive Classical Chess)"
       },
       {
          "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour with a glittering lineup featuring Magnus Carlsen and the new male and female world rapid champions. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
@@ -2042,14 +2082,6 @@ news_feed (
          "title" : "Hikaru Nakamura wins in Berlin as popular chess streamer leads Grand Prix"
       },
       {
-         "description" : "Hikaru Nakamura defeated Levon Aronian in tiebreaks to win the first leg of the FIDE Grand Prix in Berlin. The hard-fought final match had seen two draws in the classical games. In the two rapid encounters that broke the tie, Nakamura showed better nerves in the last stage of the games to take home the title, 13 Grand Prix points and 24,000 Euros. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-f3",
-         "pubDate" : "Thu, 17 Feb 2022 19:30:00 +0100",
-         "title" : "Nakamura beats Aronian in tiebreaks, wins Berlin Grand Prix"
-      },
-      {
          "description" : "GM Hikaru Nakamura demonstrated his superiority in quicker time controls by defeating fellow-American GM Levon Aronian with a clean 2-0 score in the rapid chess tiebreak of the final to emerge as the winner of the 2022 FIDE Grand Prix first leg in...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2090,14 +2122,6 @@ news_feed (
          "title" : "Money Heist"
       },
       {
-         "description" : "The Enter Null Move feature in ChessBase helps chess coaches demonstrate opening tabiyas, middlegame attacking ideas, and endgame plans. It's also perfect for figuring out missing moves on students' scoresheets or for Knight's Tours. National Master Jeffrey Ashton explains.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-for-coaches-showing-a-plan",
-         "pubDate" : "Thu, 17 Feb 2022 11:58:58 +0100",
-         "title" : "ChessBase for Coaches: Showing a Plan"
-      },
-      {
          "description" : "GMs Wesley So, Maxime Vachier-Lagrave, Shakhriyar Mamedyarov, Alireza Firouzja, Fabiano Caruana, Ian Nepomniachtchi, Levon Aronian, Richard Rapport, and Leinier Dominguez are the &#34;full-tour&#34; participants of the 2022 Grand Chess Tour. World champio...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2128,14 +2152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-final-game-2",
          "pubDate" : "Wed, 16 Feb 2022 14:27:00 -0800",
          "title" : "2022 FIDE Grand Prix Berlin Final: Match Moves To Tiebreak After Short Skirmish"
-      },
-      {
-         "description" : "GM Vladimir Fedoseev won his first Titled Tuesday in nearly a year, while GM Hans Niemann earned his first-ever victory. For the first time in the three weeks since Titled Tuesday expanded to two tournaments, no one placed in the top five in both ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fedoseev-neimann-win-titled-tuesday-feburary-15-2022",
-         "pubDate" : "Wed, 16 Feb 2022 11:26:21 -0800",
-         "title" : "Fedoseev, Niemann Claim Titled Tuesday Victories"
       },
       {
          "description" : "",
