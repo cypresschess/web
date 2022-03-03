@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Final Round Report &#160; In the final round Divya and Soumya signed a peace treaty. Divya maintained her spectacular form and won the MPL 47th",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-47-th-national-women-chess-championship-2022divya-deshmukh-crowned-national-women-champion/",
+         "pubDate" : "Thu, 03 Mar 2022 16:26:41 +0000",
+         "title" : "MPL 47 th National Women Chess Championship-2022:Divya Deshmukh crowned National Women Champion"
+      },
+      {
+         "description" : "In the current ChessBase Magazine the Sicilian Taimanov Variation (1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6) is taken to task from two sides at once. The super-modern 7.g4 came onto the board at the Tata Steel 2022 in the game Grandelius-Carlsen, we have already presented the Swede's analysis to you recently. There is also a complete opening article by IM Christian Braun on precisely this variation in CBM #206. A \"dangerous weapon for White\", because Black has development problems, whereas White can quickly castle long... The concept, which Jan Werle looks at in his opening video on the basis of a game by Alireza Firouzja, is completely different: after 7.Nxc6 bxc6 8.Qd3 Nf6 ",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/double-attack-on-the-taimanov-variation",
+         "pubDate" : "Thu, 03 Mar 2022 15:00:00 +0100",
+         "title" : "Double attack on the Taimanov Variation"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
+         "pubDate" : "Thu, 03 Mar 2022 14:55:00 +0100",
+         "title" : "Belgrade Grand Prix - Live!"
+      },
+      {
+         "description" : "Two players have a 1-point lead in their respective pools going into round 3 of the FIDE Grand Prix preliminaries in Belgrade. Anish Giri and Vidit Gujrathi kicked off the event with back-to-back wins and are the sole leaders in pools B and C. In pool A, Sam Shankland joined Dmitry Andreikin in the lead thanks to a win over Alexander Grischuk. In pool D, both games were drawn for a second consecutive day. | Photos: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-r2",
+         "pubDate" : "Thu, 03 Mar 2022 14:45:00 +0100",
+         "title" : "Belgrade GP: Vidit and Giri sole leaders in their pools"
+      },
+      {
+         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organising a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match will take place from 2 to 12 March and will be played at the Swedish Ambassador's residence in London. The first game ended in a draw, the second game starts at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-match-2",
+         "pubDate" : "Thu, 03 Mar 2022 14:45:00 +0100",
+         "title" : "England vs Sweden Challenge Match"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/IQriGLi_FNU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-round-3/",
+         "pubDate" : "Thu, 03 Mar 2022 13:15:51 +0000",
+         "title" : "FIDE Grand Prix in Belgrade: Round 3"
+      },
+      {
+         "description" : "Whether for in-class work or for homework, worksheets help students review and practice chess. Creating worksheets-then printing, formatting, and sharing them-are tasks that every chess coach undertakes. In this article, National Master Jeffrey Ashton shows how ChessBase makes these tasks easier.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-for-coaches-creating-a-worksheet",
+         "pubDate" : "Thu, 03 Mar 2022 14:00:00 +0100",
+         "title" : "ChessBase for Coaches: Creating a Worksheet"
+      },
+      {
+         "description" : "Kanpur (03 Mar 22) :- Second seed Telangana Grandmaster Arjun Erigaisi becomes National Chess Champion after signing the peace treaty with former champion Sethuraman S",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022-arjun-erigaisi-crowned-national-champion/",
+         "pubDate" : "Thu, 03 Mar 2022 12:56:38 +0000",
+         "title" : "MPL 58th Senior National Chess Championship-2022 : Arjun Erigaisi crowned national champion"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1612",
+         "pubDate" : "Thu, 03 Mar 2022 12:50:43 +0000",
+         "title" : "FIDE-ISF World School Online Chess Cup 2022 postponed"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89972050.cms\" />Grandmaster Arjun Erigaisi of Telangana won the 58th edition of Senior National Chess Championship here on Thursday, edging out fellow GMs of Tamil Nadu D Gukesh and P Iniyan in a tie-breaker after the trio finished on 8.5 points each. Gukesh had to settle for a draw against Aryan Chopra while Iniyan moved up to 8.5 points with a fine win over fellow GM Mitrabha Guha of West Bengal.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/erigaisi-is-new-national-chess-champion-gukesh-iniyan-lose-out-in-tie-break/articleshow/89972050.cms",
+         "pubDate" : "Thu, 03 Mar 2022 17:50:00 +0530",
+         "title" : "Erigaisi is new national chess champion; Gukesh, Iniyan lose out in tie-break"
+      },
+      {
          "description" : "Anish Giri and Vidit both won again in Round 2 to take a full-point lead in their FIDE Belgrade Grand Prix pools. Anish took down Nikita Vitiugov in 32 moves, while Vidit had to work much harder but eventually overcame the resistance of Vladimir Fedoseev in the longest game of the day. Sam Shankland exploited a mistake by Alexander Grischuk to score the day's only other win, with MVL-Mamedyarov standing out as the day's most spectacular draw.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -208,14 +288,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/world-teams-postponed/",
          "pubDate" : "Wed, 02 Mar 2022 15:51:04 +0100",
          "title" : "World Teams postponed"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
-         "pubDate" : "Wed, 02 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix - Games and results"
       },
       {
          "description" : "Kanpur (02 Mar 22) :- Tamil Nadu Grandmaster D Gukesh defeated former national champion Abhijeet Gupta of the PSPB in the penultimate round to catch",
@@ -720,22 +792,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ukrainian-chess-grandmasters-caught-in-a-warzone",
          "pubDate" : "Sun, 27 Feb 2022 18:14:05 +0000",
          "title" : "Ukrainian Chess Grandmasters caught in a warzone"
-      },
-      {
-         "description" : "WIM Priyanka Nuttaki of Andhra Pradesh, IM Soumya Swaminathan of PSPB ended their game in peace with IM Vaishali R of Tamil Nadu and WIM",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-47th-national-women-chess-championship-2022-report-of-round-4-5/",
-         "pubDate" : "Sun, 27 Feb 2022 16:41:46 +0000",
-         "title" : "MPL 47th National Women Chess Championship-2022-Report of round 4 & 5"
-      },
-      {
-         "description" : "𝗗𝗿. 𝗦𝗮𝗻𝗷𝗮𝘆 𝗞𝗮𝗽𝗼𝗼𝗿, AICF President, had a great interactive session with the Grandmasters participating in the �𝗣𝗟 𝗦𝗲𝗻𝗶𝗼𝗿 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗖𝗵𝗲𝘀𝘀 𝗖𝗵𝗮𝗺𝗽𝗶𝗼𝗻𝘀𝗵𝗶𝗽 𝟮𝟬𝟮𝟮 today. They discussed",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-president-great-interactive-session-with-the-grandmasters/",
-         "pubDate" : "Sun, 27 Feb 2022 16:29:45 +0000",
-         "title" : "AICF President, great interactive session with the Grandmasters"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 68th instalment of his ChessBase show \"Understanding before Moving\", Herman shows some ideas of how to play against the King's Indian. | Photo: Tommy Grooten",
@@ -2018,14 +2074,6 @@ news_feed (
          "title" : "FIDE PDC Continental Meeting held in Mexico"
       },
       {
-         "description" : " <p class=\"lead\">The winner of the first leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022 Series</a> was decided on tiebreaks with the American GM and streamer, Hikaru Nakamura, achieving an impressive 2-0 score against Levon Aronian. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220217150241_IMG_2518.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220217150220_IMG_2515.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220217150144_IMG_2508.jpg\" width=\"2560\" height=\"1707\"",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/who-is-going-to-be-the-winner-of-the-first-leg-of-the-fide-grand/",
-         "pubDate" : "Thu, 17 Feb 2022 15:00:03 +0000",
-         "title" : "Hikaru Nakamura is the winner of the first leg of the FIDE Grand Prix Series 2022"
-      },
-      {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2056,14 +2104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-grand-chess-tour-participants",
          "pubDate" : "Thu, 17 Feb 2022 01:27:00 -0800",
          "title" : "Firouzja Among 'Full' Grand Chess Tour Participants But Not Carlsen Or Nakamura"
-      },
-      {
-         "description" : "It will be a ten-game encounter, with five games at slow time control, five fast. In March Swedish grandmaster Nils Grandelius will play English grandmaster David Howell in London. The event is part of the 30th anniversary celebrations of the founding of the London Chess Centre and the relaunching of CHESS Magazine. Press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-match",
-         "pubDate" : "Thu, 17 Feb 2022 10:00:00 +0100",
-         "title" : "England vs. Sweden Challenge Match"
       },
       {
          "description" : " Last week I started a new Twitch stream with my old friend, IM Andrew Martin. Echoing our Master Chess Roadshow seminars of the 1990s, we decided to call it the Master Chess Web Show. The Twitch stream can be found here and I've also been uploading the shows to Youtube. Please follow us on Twitch <a href=\"https://chessimprover.com/the-master-chess-web-show/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Master Chess Web Show\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-master-chess-web-show/\">The Master Chess Web Show</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2112,30 +2152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1581",
          "pubDate" : "Wed, 16 Feb 2022 18:33:04 +0000",
          "title" : "FIDE delegation makes tour of Latin America"
-      },
-      {
-         "description" : "A 29-move draw in game 2 of the FIDE Grand Prix final means the winner of the event will be decided in Thursday's tiebreaks. The short game was not without excitement, though, as the players entered a sharp line in which White had the more comfortable position but had to contend with Black grabbing material on the queenside. Hikaru Nakamura will have the white pieces in the first rapid game tomorrow. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-f2",
-         "pubDate" : "Wed, 16 Feb 2022 19:20:00 +0100",
-         "title" : "Berlin GP: Tiebreaks it is"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #503 Merijn van Delft takes at a theoretically interesting game in the Italian, which Leinier Dominguez and Wesley So played at the FIDE Grand Prix in Berlin. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-503-l-dominguez-vs-w-so-berlin-grand-prix-2022",
-         "pubDate" : "Wed, 16 Feb 2022 18:00:00 +0100",
-         "title" : "Game of the Week #503: L. Dominguez vs W. So, Berlin, Grand Prix 2022"
-      },
-      {
-         "description" : "On 14 February the Yugoslav-Serbian grandmaster Borislav Ivkov died in Belgrade at the age of 88. In 1951 Ivkov was World Junior Champion and in the 1960s and 1970s he was one of the world's best players. He made it to the Candidates in 1965, and played in the Interzonal Tournaments in 1967, 1970, 1973, and 1979. | Photo: Durch National Archive",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-borislav-ivkov-12-november-1933-14-february-2022",
-         "pubDate" : "Wed, 16 Feb 2022 14:05:00 +0100",
-         "title" : "Remembering Borislav Ivkov (12 November 1933 - 14 February 2022)"
       },
       {
          "description" : "",
