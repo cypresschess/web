@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second round of the group stage in the 2022 FIDE Grand Prix in Belgrade featured intense battles and some notable high points. In Group A, GM Sam Shankland won to join GM Dmitry Andreikin in the lead. In Groups B and C, GM Anish Giri and GM Vi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-r2",
+         "pubDate" : "Wed, 02 Mar 2022 19:26:41 -0800",
+         "title" : "2022 FIDE Grand Prix Belgrade R2: Giri and Vidit Charge, Grischuk Crashes"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Spring Chess Classic is back! The Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.02<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5\">https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Sta",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-2-lichessorg",
+         "pubDate" : "Thu, 03 Mar 2022 02:51:05 +0000",
+         "title" : "2022 Spring Chess Classic: Round 2 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.02<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5\">https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-3-lichessorg",
+         "pubDate" : "Thu, 03 Mar 2022 02:51:05 +0000",
+         "title" : "2022 Spring Chess Classic: Round 3 | lichess.org"
+      },
+      {
          "description" : " <p class=\"lead\">Three victories, five draws and Grischuk's second defeat in a row have marked the second day of the Belgrade leg of the Grand Prix <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-03_01-22-47-(2).jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-03_01-22-45-(2).jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-03_01-22-45.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-03_01-22-46-(3).jpg\" width=\"1280\" height=",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2018,22 +2042,6 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Berlin Final: Match Moves To Tiebreak After Short Skirmish"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows the value of analyzing and learning from your own losses. The mysterious masked Caleb shows the only game he lost from the 2022 Master Lab tournament in Saint Louis. 2022.02.15<br /> Julian Proleiko vs. Caleb Denby, 2022: B18 Caro-Kann, classical variation<br /> Denby vs. Arjun Puri, 2022: D10 Queen&#039;s Gambit Declined Slav defence, exchange variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learn-your-worst-games-road-20",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/learn-your-worst-games-road-2000-nm-caleb-denby-0",
-         "pubDate" : "Wed, 16 Feb 2022 20:34:39 +0000",
-         "title" : "Learn from Your WORST Games! | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Katerina Nemcova talks about short-term positional play in chess, because plans change. The mysterious masked Katerina gives insight into her own development as a player and short-term planning. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-play-short-term-plans-grandmasters-choice-wgm-katerina-nemcova-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/positional-play-short-term-plans-grandmasters-choice-wgm-katerina-nemcova-0",
-         "pubDate" : "Wed, 16 Feb 2022 20:34:39 +0000",
-         "title" : "Positional Play: Short-Term Plans | Grandmaster's Choice - WGM Katerina Nemcova"
-      },
-      {
          "description" : "GM Vladimir Fedoseev won his first Titled Tuesday in nearly a year, while GM Hans Niemann earned his first-ever victory. For the first time in the three weeks since Titled Tuesday expanded to two tournaments, no one placed in the top five in both ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2096,14 +2104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1556",
          "pubDate" : "Wed, 16 Feb 2022 11:06:23 +0000",
          "title" : "FIDE introduces the use of electronic scoresheets in cooperation with Clono"
-      },
-      {
-         "description" : "GM Borislav Ivkov, the first World Junior Champion, three-time Yugoslav champion, and former world championship candidate who defeated five world champions of chess, died on Monday at the age of 88. The news was confirmed by FIDE. &#34;To be honest,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/borislav-ivkov-chess-obituary",
-         "pubDate" : "Wed, 16 Feb 2022 01:54:00 -0800",
-         "title" : "Borislav Ivkov, 1933-2022"
       },
       {
          "description" : "Hikaru Nakamura had the white pieces in the first game of the final at the FIDE Grand Prix in Berlin. Nakamura was on the back foot after playing what his opponent Levon Aronian considered to be an \"erroneous\" plan. However, Aronian could not make the most of his advantage and ended up needing to show precision to hold a 54-move draw. | Photos: World Chess",
