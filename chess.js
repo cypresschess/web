@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anish Giri and Vidit both won again in Round 2 to take a full-point lead in their FIDE Belgrade Grand Prix pools. Anish took down Nikita Vitiugov in 32 moves, while Vidit had to work much harder but eventually overcame the resistance of Vladimir Fedoseev in the longest game of the day. Sam Shankland exploited a mistake by Alexander Grischuk to score the day's only other win, with MVL-Mamedyarov standing out as the day's most spectacular draw.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/belgrade-gp-2-giri-and-vidit-with-perfect-start",
+         "pubDate" : "Thu, 03 Mar 2022 11:14:01 +0000",
+         "title" : "Belgrade GP 2: Giri and Vidit with perfect start"
+      },
+      {
+         "description" : "The International Chess Federation (FIDE) has decided to postpone the World Teams Championship 2022 to November 2022. The rights to host the tournament are retained by the Israeli Chess Federation. Press release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-postpones-world-team-championship-to-november-2022",
+         "pubDate" : "Thu, 03 Mar 2022 11:03:32 +0100",
+         "title" : "FIDE postpones World Team Championship to November 2022"
+      },
+      {
+         "description" : "IM Andrew Martin and GM Nigel Davies are a good team of experienced trainers. In the 1990s, they formed the \"Master Chess Roadshow\" and toured England to help players all over the country to get better and to have fun with chess. Now, the band is back together: with the Chess Web Show, three weekly shows on Twitch and a YouTube channel!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-band-is-back-together-nigel-davies-and-andrew-martin-start-master-chess-web-show",
+         "pubDate" : "Thu, 03 Mar 2022 11:00:00 +0100",
+         "title" : "The band is back together! - Nigel Davies and Andrew Martin start Master Chess Web Show"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show, Merijn van Delft looks at the interesting Sicilian A. Grischuk and D. Andreikin played in the first round of the FIDE Grand Prix in Belgrade. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-505-a-grischuk-vs-d-andreikin",
+         "pubDate" : "Thu, 03 Mar 2022 10:48:42 +0100",
+         "title" : "Game of the Week #505: A. Grischuk vs D. Andreikin"
+      },
+      {
          "description" : "Due to the current events, Lawrence and Arne decided to show this episode from early February today, instead of last week. Lawrence built his setup up in Barcelona, and shows us some golden Keres tactics right from the openings. The more often we keep repeating, and recognizing the patterns, the better we will get. In the tactics training, we slowly move towards 2500.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +80,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-grand-prix-belgrade-round-2/",
          "pubDate" : "Thu, 03 Mar 2022 00:24:45 +0000",
          "title" : "FIDE Grand Prix Belgrade: Round 2"
+      },
+      {
+         "description" : " From the publishers blurb: &#8220;Vasily Smyslov, the seventh world champion, had a long and illustrious chess career. He played close to 3,000 tournament games over seven decades, from the time of Lasker and Capablanca to the days of Anand and Carlsen. From 1948 to 1958, Smyslov participated in four world championships, becoming world champion in <a href=\"http://britishchessnews.com/2022/03/03/the-life-and-games-of-vasily-smyslov-volume-i-the-early-years-1921-1948/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Life and Games of Vasily Smyslov Volume I: The Early Years 1921-1948</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/03/03/the-life-and-games-of-vasily-smyslov-volume-i-the-early-years-1921-1948/",
+         "pubDate" : "Thu, 03 Mar 2022 00:10:13 +0000",
+         "title" : "The Life and Games of Vasily Smyslov Volume I: The Early Years 1921-1948"
       },
       {
          "description" : "",
@@ -1610,14 +1650,6 @@ news_feed (
          "title" : "University of Edinburgh chess study - attn. parents"
       },
       {
-         "description" : "Ian Nepomniachtchi played the King's Gambit as three wins and a draw took him four points clear at the top of the Airthings Masters table. World Champion Magnus Carlsen is back on track to qualify for the knockout, but three smooth wins were followed by a shock defeat to 16-year-old Indian prodigy Praggnanandhaa, who also took down Levon Aronian. 17-year-old Vincent Keymer beat Anish Giri and Nodirbek Abdusattorov, but Eric Hansen stole the day by beating Jan-Krzysztof Duda and Shakhriyar Mamedyarov to tie Ding for 2nd place.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/airthings-masters-2-nepo-cruises-as-pragg-ends-carlsen-comeback",
-         "pubDate" : "Mon, 21 Feb 2022 10:26:04 +0000",
-         "title" : "Airthings Masters 2: Nepo cruises as Pragg ends Carlsen comeback"
-      },
-      {
          "description" : "A special multi-event dedicated to the Women's Chess takes place the weekend 26-27 February in Monaco. The program is supported by European Chess Union and FIDE Development fund and includes: A. Saturday 26th February : 10:00 -13:00- Atrium of the Casino de Monte-Carlo. Simultaneous Prince Albert Ier GM Pia Cramling : 16 players IM Almira Skripchenko : 16 players Follows&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-gala-26-27-february/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2106,28 +2138,12 @@ news_feed (
          "title" : "Remembering Borislav Ivkov (12 November 1933 - 14 February 2022)"
       },
       {
-         "description" : "In his \"Weekly Show\" Lawrence Trent analyses the first game of the final of the FIDE Grand Prix in Berlin between Hikaru Nakamura and Levon Aronian, which was a hard-fought draw. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-grand-prix-berlin-2",
-         "pubDate" : "Wed, 16 Feb 2022 14:00:00 +0100",
-         "title" : "The Weekly Show: The final of the Grand Prix Berlin"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1556",
          "pubDate" : "Wed, 16 Feb 2022 11:06:23 +0000",
          "title" : "FIDE introduces the use of electronic scoresheets in cooperation with Clono"
-      },
-      {
-         "description" : "Hikaru Nakamura had the white pieces in the first game of the final at the FIDE Grand Prix in Berlin. Nakamura was on the back foot after playing what his opponent Levon Aronian considered to be an \"erroneous\" plan. However, Aronian could not make the most of his advantage and ended up needing to show precision to hold a 54-move draw. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-f1",
-         "pubDate" : "Wed, 16 Feb 2022 10:30:00 +0100",
-         "title" : "Berlin GP Final: An exciting draw"
       },
       {
          "description" : "",
@@ -2144,14 +2160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1579",
          "pubDate" : "Tue, 15 Feb 2022 22:40:53 +0000",
          "title" : "Exciting chess in the FIDE Grand Prix Berlin final"
-      },
-      {
-         "description" : "The \"Battle of the Sexes\" was a ten-round Scheveningen match between ten male and ten female players that was played from 24 January to 3rd February in Gibraltar. The men won 53-47, and looking back on the match, Irina Bulmaga (pictured), who commentated the games live in Gibraltar, wonders if and why the men were better at team-building and what this match says about women's chess. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/irina-bulmaga-looks-back-on-the-battle-of-the-sexes-match-in-gibraltar",
-         "pubDate" : "Tue, 15 Feb 2022 20:00:00 +0100",
-         "title" : "Irina Bulmaga looks back on the \"Battle of the Sexes\" match in Gibraltar"
       },
       {
          "description" : " &#8220;A dream becomes a goal when action is taken toward its achievement&#8221; Bo Bennett (businessman) This variation can be unleashed against unsuspected players who like to use the Fried Liver attack. This is the most likely to happen at club level. It is at that level when many see it being played often. Players learn <a href=\"https://chessimprover.com/need-sure-points-two-knights-defence-traxler-wilkes-barre-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Two Knights Defence, Traxler Wilkes-Barre Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-two-knights-defence-traxl",
@@ -2336,22 +2344,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1565",
          "pubDate" : "Thu, 10 Feb 2022 20:31:07 +0000",
          "title" : "Media warm-up for the FIDE Grand Prix held in Belgrade"
-      },
-      {
-         "description" : " Tomorrow is the start of the 2022 Lifeline Bookfair. Hopefully i will be able to pick up a few new (second hand) chess books, although a little birdy has already told me that there may only be around 30 books on offer. This isn't actually a bad number, but most of them may be repeats of books I already own. Normally a trip to the bookfair is a fairly placid outing, but if anyone has been paying attention to what has been happening in Canberra over the last week, it might be a little spicier. The book fair is located next to a major campground, which has hosted a large number of anti-vaxx/sov cits/no madate protestors. As any good protest (and I have been to a few) does involve disrupting wh",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/2022-lifeline-bookfair.html",
-         "pubDate" : "Thu, 10 Feb 2022 11:57:00 +0000",
-         "title" : "2022 Lifeline Bookfair"
-      },
-      {
-         "description" : "ECU E-Magazine January 2022 is out! In this edition of the ECU E-Magazine you may read about: 1st quarter ECU Board Meeting 2022 &#8220;A Chess Board for All&#8221; project Hybrid match between ECU Board and Berlin Chess Association Tata Steel Chess 2022 FIDE Grand Prix 2022 Gibraltar Chess Festival 2022 Upcoming events and invitations for ECU events Arbiters&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-january-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-january-2022/",
-         "pubDate" : "Thu, 10 Feb 2022 08:43:49 +0000",
-         "title" : "ECU E-MAGAZINE JANUARY 2022"
       }
    ]
 }
