@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Due to the current events, Lawrence and Arne decided to show this episode from early February today, instead of last week. Lawrence built his setup up in Barcelona, and shows us some golden Keres tactics right from the openings. The more often we keep repeating, and recognizing the patterns, the better we will get. In the tactics training, we slowly move towards 2500.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-15",
+         "pubDate" : "Thu, 03 Mar 2022 08:29:47 +0100",
+         "title" : "Trent's Tactics - Paul Keres masters openings"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89960546.cms\" />Much like the Khadilkar sisters' dominance from 1974-83 and a 16-year-old Humpy's achievement in 2003, Divya did the unthinkable at the 47th National Women's Chess Championship in Bhubaneshwar on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-r2",
-         "pubDate" : "Wed, 02 Mar 2022 19:26:41 -0800",
+         "pubDate" : "Wed, 02 Mar 2022 19:26:00 -0800",
          "title" : "2022 FIDE Grand Prix Belgrade R2: Giri and Vidit Charge, Grischuk Crashes"
       },
       {
@@ -2176,14 +2184,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/borislav-ivkov.html",
          "pubDate" : "Tue, 15 Feb 2022 13:01:00 +0000",
          "title" : "Borislav Ivkov"
-      },
-      {
-         "description" : "For the first time, the Saint Louis Chess Club will host The American Cup, highlighting an exciting and unique double elimination format. This new format and tournament will bring world class chess masters to America's chess capital to compete in a fierce do-or-die struggle for $300,000 total in prize money. With a double elimination format, fans can expect The American Cup to have a combination of exciting chess play, stunning upsets, and epic comebacks. Press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/double-knockout-in-saint-louis",
-         "pubDate" : "Tue, 15 Feb 2022 13:00:00 +0100",
-         "title" : "Double knockout in Saint Louis"
       },
       {
          "description" : "The European Chess Union invites the National federations members to submit bids for the organization of the official European Chess Championships in 2024 including combined bids for next years.&#160; The bids must be submitted exclusively in the Bid form regulated by the ECU (in the attachment). For any additional documents delivered separately from the bid form, it must&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/invitation-for-bids-european-chess-championships-2024/\">Read More &#187;</a></span>",
