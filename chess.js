@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Three victories, five draws and Grischuk's second defeat in a row have marked the second day of the Belgrade leg of the Grand Prix <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-03_01-22-47-(2).jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-03_01-22-45-(2).jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-03_01-22-45.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-03_01-22-46-(3).jpg\" width=\"1280\" height=",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-belgrade-round-2/",
+         "pubDate" : "Thu, 03 Mar 2022 00:24:45 +0000",
+         "title" : "FIDE Grand Prix Belgrade: Round 2"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1611",
+         "pubDate" : "Wed, 02 Mar 2022 23:55:19 +0000",
+         "title" : "FIDE Grand Prix Belgrade: Round 2 Recap"
+      },
+      {
          "description" : "It was the first of two Chess960 weeks in Season 9 of Arena Kings when GM Vugar Rasulov emerged victorious, defeating GM Oleksandr Bortnyk in the finals by a 3.5-2.5 score. Bortnyk had advanced by defeating GM Hikaru Nakamura in the semifinals, wh...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1794,7 +1810,7 @@ news_feed (
          "title" : "A surprising attack"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. The 2022 Spring Chess Classic is comprised of two 10-player Round Robin tournaments. Over the course of 9 days, these competitors will compete for $36,000 in prize money and gain valuable experience in a top-level event. 2022.03.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"",
+         "description" : "<div class=\"body text-secondary\"> The 2022 Spring Chess Classic is back! The Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.02<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5\">https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCS",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-1",
@@ -1984,14 +2000,6 @@ news_feed (
          "link" : "https://chessimprover.com/the-master-chess-web-show/",
          "pubDate" : "Thu, 17 Feb 2022 08:35:12 +0000",
          "title" : "The Master Chess Web Show"
-      },
-      {
-         "description" : " Watch Live: <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/vdrhoRN1eyE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-tie-breaks/",
-         "pubDate" : "Thu, 17 Feb 2022 07:53:48 +0000",
-         "title" : "FIDE Grand Prix Tie-Breaks"
       },
       {
          "description" : "Chess &#38; Bridge have announced there will be an England v Sweden Challenge Match between Grandmaster David Howell (England) and Grandmaster Nils Grandelius (Sweden) in London this March. The event...",
