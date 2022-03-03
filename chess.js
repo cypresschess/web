@@ -14,7 +14,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/ukrainian-defence/",
-         "pubDate" : "Thu, 03 Mar 2022 20:26:33 +0100",
+         "pubDate" : "Thu, 03 Mar 2022 20:37:28 +0100",
          "title" : "Ukrainian Defence"
       },
       {
@@ -226,7 +226,7 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Belgrade R2: Giri and Vidit Charge, Grischuk Crashes"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The Spring Chess Classic is back! The Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.02<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5\">https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Sta",
+         "description" : "<div class=\"body text-secondary\"> The Spring Chess Classic is back! The Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.03<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-2/aIn5OlAW\">https://lichess.org/broadcast/2022-spring-chess-classic/round-2/aIn5OlAW</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Sta",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-2-lichessorg",
@@ -2368,14 +2368,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1568",
          "pubDate" : "Thu, 10 Feb 2022 22:26:22 +0000",
          "title" : "FIDE Grand Prix: Nakamura joins Aronian in semifinals"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1565",
-         "pubDate" : "Thu, 10 Feb 2022 20:31:07 +0000",
-         "title" : "Media warm-up for the FIDE Grand Prix held in Belgrade"
       }
    ]
 }
