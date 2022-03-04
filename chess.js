@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Board of the European Chess Union met in extraordinary session on Thursday 3rd of March to discuss the situation in Ukraine and appropriate measures. The European Chess Union strongly condemns the Russian invasion of Ukraine, the involvement of Belarus and expresses its solidarity and support for the Ukrainian people. We feel deep sorrow for all the victims of the war and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-suspends-the-russian-and-belarusian-chess-federations/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-suspends-the-russian-and-belarusian-chess-federations/",
+         "pubDate" : "Fri, 04 Mar 2022 06:50:46 +0000",
+         "title" : "ECU suspends the Russian and Belarusian Chess Federations."
+      },
+      {
          "description" : "Two wins and six draws&#38;mdash;those were the results of today&#39;s efforts in the 2022 FIDE Grand Prix leg two in Belgrade. In Group A, B, and D, all of the games ended in draws, which means that GM Dmitry Andreikin and GM Sam Shankland continue to sh...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-round-3",
-         "pubDate" : "Thu, 03 Mar 2022 20:10:07 -0800",
+         "pubDate" : "Thu, 03 Mar 2022 20:10:00 -0800",
          "title" : "2022 FIDE Grand Prix Belgrade R3: Rapport And Fedoseev Win, Many Draws"
       },
       {
@@ -480,6 +488,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-submits-guarantee-towards-bid-to-host-olympiad/articleshow/89941175.cms",
          "pubDate" : "Wed, 02 Mar 2022 12:37:36 +0530",
          "title" : "AICF submits guarantee towards bid to host Olympiad"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89937905.cms\" /> Maharashtra's youngest Women Grand Master (WGM) Divya Deshmukh is all set to become Vidarbha's first senior national women chess champion.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-topples-top-seed-vaishali-set-to-become-senior-national-chess-champion/articleshow/89937905.cms",
+         "pubDate" : "Wed, 02 Mar 2022 10:21:33 +0530",
+         "title" : "Divya set to become senior national chess champion"
       },
       {
          "description" : "Half the games ended decisively on opening day at the second leg of the FIDE Grand Prix in Belgrade. Dmitry Andreikin and Vidit Gujrathi are leading their pools after beating Alexander Grischuk and Alexei Shirov respectively. Meanwhile, both games finished decisively in pool C, with Anish Giri and Nikita Vitiugov scoring full points in the first round. Two draws were seen in pool D. | Photos: Mark Livshitz",
