@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organising a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match will take place from 2 to 12 March and will be played at the Swedish Ambassador's residence in London. The first two games ended in a draw, the third game starts at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-match-2",
+         "pubDate" : "Fri, 04 Mar 2022 17:00:00 +0100",
+         "title" : "England vs Sweden Challenge Match"
+      },
+      {
+         "description" : "\"Never move the queen out early\", runs the old maxim. And yet... In his Power Play Show, GM Daniel King examines two cases from the FIDE Grand Prix tournament in Belgrade where, in the open Sicilian, White plays an early queen move. Neither is ridiculous, at least theoretically... | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-never-move-the-queen-out-early",
+         "pubDate" : "Fri, 04 Mar 2022 17:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: \"Never move the queen out early\""
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>ECU</strong> has suspended the <strong>Chess Federation of Russia</strong> and <strong>Belarusian Chess Federation</strong> with immediate effect: No events can take place there, no officials will get any role and no teams can participate in ECU events. Individuals can only participate if they change the federation or participate under the <strong>FIDE</strong> flag. Players should contact federations@fide.com </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/ecu-suspends-russia-and-belarus/",
+         "pubDate" : "Fri, 04 Mar 2022 15:36:58 +0100",
+         "title" : "ECU suspends Russia and Belarus"
+      },
+      {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,14 +184,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/mar/03/chess-india-makes-olympiad-bid-while-sergey-karjakin-shunned-after-invasion",
          "pubDate" : "Thu, 03 Mar 2022 18:52:26 +0000",
          "title" : "Chess: India makes Olympiad bid while Sergey Karjakin shunned after invasion"
-      },
-      {
-         "description" : "The only winner of the opening round in the A-tournament of the Saint Louis Spring Classic 2022 was Jeffrey Xiong. He won against Mikhail Antipov and will play Dariusz Swiercz today. In the B-tournament three games ended with a win. Round 2 starts at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
-         "pubDate" : "Thu, 03 Mar 2022 19:30:00 +0100",
-         "title" : "Saint Louis Spring Classic 2022 - Live"
       },
       {
          "description" : " <p class=\"lead\">Day 3 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 in Belgrade</a> ended with Group C being the only decisive group, Group D continuing with draws, and Giri still leading Group B with a full point. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.4992679355783\"> <img src=\"https://worldchess.com/news/pictures/A-11.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51916387795_7de4762381_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51916387425_5eb2a18bb5_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.c",
@@ -1186,14 +1202,6 @@ news_feed (
          "title" : "Carlsen and Nepomniachtchi play out epic 2-2 draw on first day of final"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> As expected after the Russian invasion in Ukraine, FIDE doesn't risk a wide boycott and has <a href=\"https://fide.com/news/1599\">declared that the Chess Olympiad, Chess Olympiad for People with Disabilities and FIDE Congress 2022 won't take place in Moscow</a>. The FIDE Council will hold an extraordinary meeting on Sunday to discuss how to rescue its main event scheduled five months from now. FIDE Managing Director Dana Reizniece-Ozola has <a href=\"https://www.facebook.com/dana.reizniece/posts/10228557426381022\">condemned the Russian action and is urging her colleagues to drop FIDE's Russian sponsorships</a> and relocate all operational activities o",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/fide-rules-out-moscow/",
-         "pubDate" : "Fri, 25 Feb 2022 22:24:06 +0100",
-         "title" : "FIDE rules out Moscow"
-      },
-      {
          "description" : "The International Chess Federation has announced today its decision that the 44th Chess Olympiad, one of its flagship events, will not take place in Russia. This championship, in which teams from approximately 190 countries compete for two weeks, was supposed to take place in Moscow from July 26 July to August 8. FIDE press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2066,14 +2074,6 @@ news_feed (
          "title" : "Full Tour Participants confirmed for the 2022 Grand Chess Tour"
       },
       {
-         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour with a glittering lineup featuring Magnus Carlsen and the new male and female world rapid champions. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-preview",
-         "pubDate" : "Fri, 18 Feb 2022 19:00:00 +0100",
-         "title" : "Airthings Masters kicks off 2022 Champions Chess Tour"
-      },
-      {
          "description" : " The Airthings Masters is the first event in the new season of the online Meltwater Champions Chess Tour. The event is hosted by Chess24 and takes place February 19th to 26th 2022. The format is mostly the same as last season with a 16 player 15 round rapid round robin preliminary stage and an 8 player knockout phase. In the preliminaries there are three points for a win and one for a draw and money for each win. The KO phase is slightly accelerated with only one 4 game mini-match before a blitz tie-break in the quarter and semi-finals but the final is still over two mini-matches before the tie-break. Players: Magnus Carlsen, Ding Liren, Ian Nepomniachtchi, Anish Giri, Levon Aronian, Shakhri",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2360,14 +2360,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/33264972/dronavalli-harika-women-chess-players-targeted-sexually-abusive-mails?device=featurephone",
          "pubDate" : "Fri, 11 Feb 2022 12:12:35 -0500",
          "title" : "Harika among women chess players targeted by sexually abusive mails"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1569",
-         "pubDate" : "Fri, 11 Feb 2022 14:58:11 +0000",
-         "title" : "FIDE distributes €30,000 among distinguished veterans"
       }
    ]
 }
