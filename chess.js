@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1614",
+         "pubDate" : "Fri, 04 Mar 2022 00:42:13 +0000",
+         "title" : "Indian Championships: Erigaisi and Deshmukh clinch titles"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.06<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5\">https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -274,6 +282,14 @@ news_feed (
          "title" : "2022 Spring Chess Classic: Round 3 | lichess.org"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1610",
+         "pubDate" : "Thu, 03 Mar 2022 00:35:21 +0000",
+         "title" : "FIDE Chess Olympiad 2026 - Call for bids"
+      },
+      {
          "description" : " <p class=\"lead\">Three victories, five draws and Grischuk's second defeat in a row have marked the second day of the Belgrade leg of the Grand Prix <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-03_01-22-47-(2).jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-03_01-22-45-(2).jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-03_01-22-45.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-03_01-22-46-(3).jpg\" width=\"1280\" height=",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -304,14 +320,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/rasulov-wins-arena-kings-season-9-week-5",
          "pubDate" : "Wed, 02 Mar 2022 14:25:13 -0800",
          "title" : "Rasulov The Chess960 Arena King In Season 9 Week 5"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1610",
-         "pubDate" : "Wed, 02 Mar 2022 21:35:21 +0000",
-         "title" : "FIDE Chess Olympiad 2026 - Call for bids"
       },
       {
          "description" : "",
