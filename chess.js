@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.06<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5\">https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-5-lichessorg",
+         "pubDate" : "Thu, 03 Mar 2022 23:52:05 +0000",
+         "title" : "2022 Spring Chess Classic: Round 5 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Spring Chess Classic is back! The Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.03<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-2/aIn5OlAW\">https://lichess.org/broadcast/2022-spring-chess-classic/round-2/aIn5OlAW</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Sta",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-2",
+         "pubDate" : "Thu, 03 Mar 2022 23:52:05 +0000",
+         "title" : "2022 Spring Chess Classic: Round 2"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1613",
+         "pubDate" : "Thu, 03 Mar 2022 23:26:52 +0000",
+         "title" : "FIDE Grand Prix Belgrade: Round 3 Recap"
+      },
+      {
+         "description" : " <p class=\"lead\">Pool C is the only group where both games had a decisive outcome, while the rest ended in a draw <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51915970886_b34a70e392_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> </div> Richard Rapport stopped Vidit Gujrathi and Vladimir Fedoseev delivered a blow to Alexei Shirov in Group C. All other games in the remaining three pools ended with a draw. The first move in today's round was made by two chess legends - Alisa Maric (the former contender for the title of women's world champion) and Nigel Short (who played Garry Kasparov in 1993 for the world chess crown). They made the first move in the game between V",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-belgrade-round-3-recap/",
+         "pubDate" : "Thu, 03 Mar 2022 23:13:50 +0000",
+         "title" : "FIDE Grand Prix Belgrade: Round 3 Recap"
+      },
+      {
          "description" : "In an appeal to Vladimir Putin, the President of Russia, a large number of prominent Russian chess players call for a ceasefire and peace in Ukraine. \"It is unbearably painful for us to see the catastrophe that is happening these days to our peoples.\" The courageous appeal appeared on the Russian sports site \"Championat\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -111,7 +143,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
          "pubDate" : "Thu, 03 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix - Live!"
+         "title" : "Belgrade Grand Prix - Games and results"
       },
       {
          "description" : "Two players have a 1-point lead in their respective pools going into round 3 of the FIDE Grand Prix preliminaries in Belgrade. Anish Giri and Vidit Gujrathi kicked off the event with back-to-back wins and are the sole leaders in pools B and C. In pool A, Sam Shankland joined Dmitry Andreikin in the lead thanks to a win over Alexander Grischuk. In pool D, both games were drawn for a second consecutive day. | Photos: Mark Livshitz",
@@ -1866,14 +1898,6 @@ news_feed (
          "title" : "Ding Liren missed the Candidates but is now leading the Champions Chess Tour 2022"
       },
       {
-         "description" : " <p class=\"lead\">The <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> started on Saturday the 19th of February, with a new format, and 16 elite players competing for 9 titles, the crown of the overall Tour Champion, and $1.6 million! On Day 1, the World Champion Magnus Carlsen suffered 2 terrible losses, and is currently No.11 in the standings. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-02-20-at-4.40.51-PM.png\" width=\"1349\" height=\"721\" alt=\"\" /> <div class=\"e2-text-caption\">Official broadcast of the first day of the Champions Chess Tour. A moment from Carlsen vs Abdusattorov.</div> </div> Carlsen kicked off the day",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/carlsen-loses-to-esipenko-and-nepomniachtchi-on-day-1-of-the-cha/",
-         "pubDate" : "Sun, 20 Feb 2022 15:13:28 +0000",
-         "title" : "Carlsen loses to Esipenko, Nepo on Day 1 of the Champions Chess Tour 2022"
-      },
-      {
          "description" : " Yuri Averbakh celebrated his 100th birthday the other day. Another Soviet player from the same vintage just missed celebrating his 99th birthday. Abram Khasin had a long and remarkable life. He was born in Ukraine on 15 February 1923, and died in Essen, Germany, where he had spent the last 20 years of his life, <a href=\"https://chessimprover.com/abram-khasin-1923-2022/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Abram Khasin (1923-2022)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/abram-khasin-1923-2022/\">Abram Khasin (1923-2022)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1946,14 +1970,6 @@ news_feed (
          "title" : "Praggnanandhaa in Wijk aan Zee: Analyses and reflections"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Harrison Keyser showcases sharp lines in the Portuguese Gambit (aka Jadoul Gambit)! This video will summon Brazilians. Ol&aacute; Brasil! Diga ol&aacute; nos coment&aacute;rios :) Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/ArcG3\">https://www.youtube.com/c/ArcG3</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/what-portuguese-gambit",
-         "pubDate" : "Sat, 19 Feb 2022 20:38:46 +0000",
-         "title" : "What is the Portuguese Gambit?"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1984,14 +2000,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-surprising-attack",
          "pubDate" : "Sat, 19 Feb 2022 09:00:00 +0100",
          "title" : "A surprising attack"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The 2022 Spring Chess Classic is back! The Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.02<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5\">https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-1",
-         "pubDate" : "Fri, 18 Feb 2022 23:37:09 +0000",
-         "title" : "2022 Spring Chess Classic: Round 1"
       },
       {
          "description" : "",
@@ -2360,14 +2368,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/feb/11/chess-carlsen-loses-hard-won-rating-points-in-a-single-oslo-club-match",
          "pubDate" : "Fri, 11 Feb 2022 08:00:44 +0000",
          "title" : "Chess: Carlsen loses hard-won rating points in a single Oslo club match"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1568",
-         "pubDate" : "Thu, 10 Feb 2022 22:26:22 +0000",
-         "title" : "FIDE Grand Prix: Nakamura joins Aronian in semifinals"
       }
    ]
 }
