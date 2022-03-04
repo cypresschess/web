@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two wins and six draws&#38;mdash;those were the results of today&#39;s efforts in the 2022 FIDE Grand Prix leg two in Belgrade. In Group A, B, and D, all of the games ended in draws, which means that GM Dmitry Andreikin and GM Sam Shankland continue to sh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-round-3",
+         "pubDate" : "Thu, 03 Mar 2022 20:10:07 -0800",
+         "title" : "2022 FIDE Grand Prix Belgrade R3: Rapport And Fedoseev Win, Many Draws"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -472,14 +480,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-submits-guarantee-towards-bid-to-host-olympiad/articleshow/89941175.cms",
          "pubDate" : "Wed, 02 Mar 2022 12:37:36 +0530",
          "title" : "AICF submits guarantee towards bid to host Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89937905.cms\" /> Maharashtra's youngest Women Grand Master (WGM) Divya Deshmukh is all set to become Vidarbha's first senior national women chess champion.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-topples-top-seed-vaishali-set-to-become-senior-national-chess-champion/articleshow/89937905.cms",
-         "pubDate" : "Wed, 02 Mar 2022 10:21:33 +0530",
-         "title" : "Divya set to become senior national chess champion"
       },
       {
          "description" : "Half the games ended decisively on opening day at the second leg of the FIDE Grand Prix in Belgrade. Dmitry Andreikin and Vidit Gujrathi are leading their pools after beating Alexander Grischuk and Alexei Shirov respectively. Meanwhile, both games finished decisively in pool C, with Anish Giri and Nikita Vitiugov scoring full points in the first round. Two draws were seen in pool D. | Photos: Mark Livshitz",
@@ -2160,14 +2160,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/england-v-sweden-challenge-match/",
          "pubDate" : "Thu, 17 Feb 2022 00:23:11 +0000",
          "title" : "England v Sweden Challenge Match"
-      },
-      {
-         "description" : "The second game of the final between GM Levon Aronian and GM Hikaru Nakamura ended in a draw in only 29 moves after a threefold repetition, leaving the scores tied at the end of the classical games of the final of the 2022 FIDE Grand Prix first le...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-final-game-2",
-         "pubDate" : "Wed, 16 Feb 2022 14:27:00 -0800",
-         "title" : "2022 FIDE Grand Prix Berlin Final: Match Moves To Tiebreak After Short Skirmish"
       },
       {
          "description" : "",
