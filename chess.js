@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Click on the Image to Watch",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-mpl-national-sub-junior-and-national-sub-junior-girls-chess-championship-2022/",
+         "pubDate" : "Fri, 04 Mar 2022 12:05:12 +0000",
+         "title" : "Live: MPL National Sub-Junior and National Sub-Junior Girls Chess Championship 2022"
+      },
+      {
+         "description" : "Levon Aronian, is the \"hero\" of ChessBase Magazine #206. In the new issue, our authors - David Navara, Adhiban Baskaran and Romain Edouard among others - comment on their favourite games of the top player. This has resulted in a collection of 19 special encounters from 1994 (U12 World Championship!) to 2021. In addition, Mihail Marin's contribution is entitled \"Levon Aronian's strategic universe\" and Karsten Mueller presents a selection of the Armenian's best endgames. You can watch the video from Mueller's endgame contribution as well as Adrien Demuth's analysis of the game Aronian-Ponomariov (Lausanne 2001) here - enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-206-special-levon-aronian",
+         "pubDate" : "Fri, 04 Mar 2022 13:00:00 +0100",
+         "title" : "CBM #206 Special: Levon Aronian"
+      },
+      {
+         "description" : "Richard Rapport described it as \"kind of a must-win game\" as he defeated Vidit to end the Indian star's perfect start to the Belgrade FIDE Grand Prix and catch him on 2/3. Pool C also saw the only other decisive action of Round 3 as Vladimir Fedoseev defeated Alexei Shirov to move to 1.5/3. Elsewhere there were relatively quiet draws, though Anish Giri played a stylish queen sacrifice to tie his game against Harikrishna. That result left him as the only player with the sole lead in any of the pools.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/belgrade-gp-3-rapport-beats-and-catches-vidit",
+         "pubDate" : "Fri, 04 Mar 2022 09:46:29 +0000",
+         "title" : "Belgrade GP 3: Rapport beats and catches Vidit"
+      },
+      {
          "description" : "The&#160;Board of&#160;the&#160;European Chess Union&#160;met in extraordinary session on Thursday 3rd of March to discuss the situation in Ukraine and appropriate measures. The European Chess Union strongly condemns the Russian invasion of Ukraine, the involvement of Belarus and expresses its solidarity and support for the Ukrainian people. We feel deep sorrow for all the victims of the war and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-suspends-the-russian-and-belarusian-chess-federations/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -176,14 +200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-r2",
          "pubDate" : "Thu, 03 Mar 2022 14:45:00 +0100",
          "title" : "Belgrade GP: Vidit and Giri sole leaders in their pools"
-      },
-      {
-         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organising a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match will take place from 2 to 12 March and will be played at the Swedish Ambassador's residence in London. The first game ended in a draw, the second game starts at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-match-2",
-         "pubDate" : "Thu, 03 Mar 2022 14:45:00 +0100",
-         "title" : "England vs Sweden Challenge Match"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/IQriGLi_FNU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -824,14 +840,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/harvard-mathematician-solves-150-year-old-chess-problem",
          "pubDate" : "Mon, 28 Feb 2022 13:00:00 +0100",
          "title" : "Harvard mathematician solves 150-year-old chess problem"
-      },
-      {
-         "description" : "𝗗𝗿. 𝗦𝗮𝗻𝗷𝗮𝘆 𝗞𝗮𝗽𝗼𝗼𝗿, 𝘈𝘐𝘊𝘍 𝘗𝘳𝘦𝘴𝘪𝘥𝘦𝘯𝘵, and Kanpur's leading 𝘖𝘱𝘩𝘵𝘩𝘢𝘭𝘮𝘰𝘭𝘰𝘨𝘪𝘴𝘵, 𝘓𝘪𝘧𝘦 𝘊𝘰𝘢𝘤𝘩, 𝘔𝘦𝘥𝘪𝘤𝘰-𝘚𝘰𝘤𝘪𝘢𝘭 𝘌𝘯𝘵𝘳𝘦𝘱𝘳𝘦𝘯𝘦𝘶𝘳, 𝗗𝗿. 𝗔𝘃𝗮𝗱𝗵 𝗗𝘂𝗯𝗲𝘆 and 𝘌𝘯𝘵𝘳𝘦𝘱𝘳𝘦𝘯𝘦𝘶𝘳 &#38; 𝘗𝘩𝘪𝘭𝘢𝘯𝘵𝘩𝘳𝘰𝘱𝘪𝘴𝘵, �𝗿. 𝗚𝗮𝘂𝗿𝗮𝘃 𝗦𝗲𝘁𝗵𝗶, rang the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/%f0%9d%97%a0%f0%9d%97%a3%f0%9d%97%9f-%f0%9d%97%a6%f0%9d%97%b2%f0%9d%97%bb%f0%9d%97%b6%f0%9d%97%bc%f0%9d%97%bf-%f0%9d%97%a1%f0%9d%97%ae%f0%9d%98%81%f0%9d%97%b6%f0%9d%97%bc%f0%9d%97%bb%f0%9d%97%ae/",
-         "pubDate" : "Mon, 28 Feb 2022 09:15:04 +0000",
-         "title" : "�𝗣𝗟 𝗦𝗲𝗻𝗶𝗼𝗿 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗖𝗵𝗲𝘀𝘀 𝗖𝗵𝗮𝗺𝗽𝗶𝗼𝗻𝘀𝗵𝗶𝗽 𝟮𝟬𝟮𝟮"
       },
       {
          "description" : "The English Chess Federation (ECF) agrees with FIDE Council's recently announced decision that the 44th Chess Olympiad, including the competition for players with disabilities, as well as the FIDE Congress,...",
@@ -1544,14 +1552,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/regional-representation.html",
          "pubDate" : "Wed, 23 Feb 2022 13:18:00 +0000",
          "title" : "Regional Representation"
-      },
-      {
-         "description" : "Anish Giri and Levon Aronian were the star names who lost out on a frantic last day of the Airthings Masters Prelims, with Levon losing in 20 moves to Andrey Esipenko in the final round while Anish was unable to beat Magnus Carlsen on demand. Ian Nepomniachtchi finished top, with Magnus taking clear second, while underdogs Eric Hansen and Vincent Keymer kept their nerve to reach the playoffs. It's Nepo-Keymer, Hansen-Esipenko, Artemiev-Ding Liren and Le-Carlsen in Wednesday's quarterfinals.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/airthings-masters-4-giri-and-aronian-knocked-out",
-         "pubDate" : "Wed, 23 Feb 2022 10:11:15 +0000",
-         "title" : "Airthings Masters 4: Giri and Aronian knocked out"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89771353.cms\" />Prime Minister Narendra Modi has taken note of R Praggnanandhaa's monumental victory over world champion Magnus Carlsen, saying the entire country is rejoicing in the success of the young genius.",
@@ -2360,22 +2360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1569",
          "pubDate" : "Fri, 11 Feb 2022 14:58:11 +0000",
          "title" : "FIDE distributes €30,000 among distinguished veterans"
-      },
-      {
-         "description" : " The trip to the Lifeline Bookfair was almost incident free* and I picked up a few books while I was there. As usual I came home with some books I already owned, although in this case 2 of the 3 books were deliberate purchases (the third was an American reprint of The Mammoth Book of Chess, under another name). One book which I definitely did not own was \"Assess Your Chess Fast\" by GM Alberic O'Kelly de Galway. Published in 1976, it followed the tried and true teaching method of devoting a chapter to a specific topic, and then providing test positions at the end. The topics were pretty mixed up, starting with \"The Ferocious Pawns\" and ending with \"Hidden Strategical Possibilities in the Midd",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/bishop-or-fool.html",
-         "pubDate" : "Fri, 11 Feb 2022 12:03:00 +0000",
-         "title" : "Bishop or Fool"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1567",
-         "pubDate" : "Fri, 11 Feb 2022 08:59:30 +0000",
-         "title" : "1st FIDE - ISF World School Online Chess Cup: Registration continues"
       }
    ]
 }
