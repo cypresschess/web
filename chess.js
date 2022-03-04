@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
+         "pubDate" : "Fri, 04 Mar 2022 14:55:00 +0100",
+         "title" : "Belgrade Grand Prix - Live!"
+      },
+      {
+         "description" : "The highlight of day 3 at the FIDE Grand Prix in Belgrade was Richard Rapport's victory over Vidit Gujrathi. The Hungarian thus caught his round-3 opponent in the lead of pool C. The one other decisive result on Thursday was seen in the same group, as Vladimir Fedoseev got the better of Alexei Shirov. Anish Giri played a remarkable queen sacrifice against Pentala Harikrishna - the game finished in a draw. | Photos: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-r3",
+         "pubDate" : "Fri, 04 Mar 2022 14:30:00 +0100",
+         "title" : "Belgrade GP: Rapport wins, shares the lead"
+      },
+      {
+         "description" : " After the cancellation of the 2022 Moscow Olympiad, FIDE have requested bids from other federations. At this stage it appears India have submitted a bid, but there is still a few days left for other federations to bid. I have heard (third hand I think), that at least 2 European federations are considering bids, while a suggested Middle East bid may not be feasible due to the short notice. Although I am pretty sure that the FIDE Federations won't be part of the decision (due to the urgency of finding a venue), India would at least make travel quicker and cheaper. And based on comments I heard at a conference I attended this evening, the Asian Chess Federation (and countries) would strongly s",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/2022-olympiad-speculation.html",
+         "pubDate" : "Fri, 04 Mar 2022 13:18:00 +0000",
+         "title" : "2022 Olympiad speculation"
+      },
+      {
+         "description" : "The FIDE Trainers &#38; Arbiter Seminar organized by All India Chess Federation with the support of Government of India Ministry of Youth Affairs &#38; Sports",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/dual-seminar-kick-starts-in-bengaluru-shimla-25-27-feb-2022/",
+         "pubDate" : "Fri, 04 Mar 2022 13:01:27 +0000",
+         "title" : "Dual Seminar kick starts in Bengaluru & Shimla (25-27 Feb 2022 )"
+      },
+      {
+         "description" : "The MPL National Sub-Junior and National Sub-Junior Girls Chess Championship 2022 began at IGI Stadium ,New Delhi . The five day long championship has been",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/rolliking-start-to-mpl-national-sub-junior-and-national-sub-junior-girls-chess-championship-2022/",
+         "pubDate" : "Fri, 04 Mar 2022 12:55:10 +0000",
+         "title" : "Rolliking start to MPL National Sub-Junior and National Sub-Junior Girls Chess Championship 2022"
+      },
+      {
+         "description" : "The world is witnessing a catastrophe in Ukraine. Many of us are also anxious over the safety and well-being of chess players in the war-torn land. News on their current situation is coming in, but it is not enough to address all our concerns about them. We would be better placed to offer sympathy and help to players in Ukraine if we share information on their plight. It is in this spirit that our columnist has made the appeal to readers here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/an-appeal-to-readers",
+         "pubDate" : "Fri, 04 Mar 2022 13:41:00 +0100",
+         "title" : "An appeal to readers"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/w5JqWD4yQZs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-round-4/",
+         "pubDate" : "Fri, 04 Mar 2022 12:36:23 +0000",
+         "title" : "FIDE Grand Prix in Belgrade: Round 4"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Let's rename the King's Indian after the country where this heroic opening was developed. The country that is defending our liberty. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/2022/ukrainian-defence.1920.png\" title=\"Ukrainian Defence Illustration: Gustaf Mossakowski, Diagram by lichess\" data-title=\"Ukrainian Defence (Illustration: Gustaf Mossakowski, Diagram by lichess)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/2022/ukrainian-defence.480.png\" alt=\"Ukrainian Defence\" srcset=\"https://www.chesstech.org/files/2022/ukrainian-defence.480.png 1x, https://www.c",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/ukrainian-defence/",
+         "pubDate" : "Fri, 04 Mar 2022 13:14:16 +0100",
+         "title" : "Ukrainian Defence"
+      },
+      {
          "description" : "Click on the Image to Watch",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -90,14 +154,6 @@ news_feed (
          "title" : "Leading chess players of Russia appeal to Putin for peace and ceasefire"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Let's rename the King's Indian after the country where this heroic opening was developed. The country that is defending our liberty. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/yellow-as-cornfields-blue-as-the.1920.jpeg\" title=\"Yellow as cornfields, blue as the sky. \" data-title=\"Yellow as cornfields, blue as the sky.\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/yellow-as-cornfields-blue-as-the.480.jpeg\" alt=\"Yellow as cornfields, blue as the sky.\" srcset=\"https://www.chesstech.org/files/yellow-as-cornfields-blue-as-the.480.jpeg 1x, https://www.chesstech.or",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/ukrainian-defence/",
-         "pubDate" : "Thu, 03 Mar 2022 20:37:28 +0100",
-         "title" : "Ukrainian Defence"
-      },
-      {
          "description" : " India plans to replace Moscow as host of the 150-nation event, next month's World Teams is postponed, and the former world title challenger faces a Fide disciplinary hearing International chess has moved swiftly to adjust to Russia's war against Ukraine. Major events have switched venues or been postponed, Russian sponsors have been removed, while a former world title challenger has been shunned for his pro-invasion stance, with further penalties possible. India is the strongly favoured candidate to host the 150-nation Olympiad, the game's flagship team event, after Moscow was stripped of the competition last week by Fide, the global chess body. The Indian chess scene is vibrant with talent",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -184,14 +240,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/double-attack-on-the-taimanov-variation",
          "pubDate" : "Thu, 03 Mar 2022 15:00:00 +0100",
          "title" : "Double attack on the Taimanov Variation"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
-         "pubDate" : "Thu, 03 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix - Games and results"
       },
       {
          "description" : "Two players have a 1-point lead in their respective pools going into round 3 of the FIDE Grand Prix preliminaries in Belgrade. Anish Giri and Vidit Gujrathi kicked off the event with back-to-back wins and are the sole leaders in pools B and C. In pool A, Sam Shankland joined Dmitry Andreikin in the lead thanks to a win over Alexander Grischuk. In pool D, both games were drawn for a second consecutive day. | Photos: Mark Livshitz",
@@ -426,10 +474,10 @@ news_feed (
          "title" : "Sergey Karjakin shunned by top chess events"
       },
       {
-         "description" : " Note from Noël: This is a guest post by a Next Level Chess reader who goes by 'Ringofbarahir' on several Chess platforms (Chessable/Chess.com/Lichess). He is an adult chess improver and looks back on his first year in chess. The clarity of his insights struck me and that's why I'm very happy to share the article [] The post <a rel=\"nofollow\" href=\"https://nextlevelchess.blog/5-key-lessons-first-year/\">5 Key Lessons I learned In My First Year Playing Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : " Note from Noël: This is a guest post by a Next Level Chess reader who goes by 'Ringofbarahir' on several Chess platforms (Chessable/Chess.com/Lichess). He is an adult chess improver and looks back on his first year in chess. The clarity of his insights struck me and that's why I'm very happy to share the article [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/5-key-lessons-first-year/\">5 Key Lessons I learned In My First Year Playing Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/5-key-lessons-first-year/",
+         "link" : "http://nextlevelchess.blog/5-key-lessons-first-year/",
          "pubDate" : "Wed, 02 Mar 2022 15:00:00 +0000",
          "title" : "5 Key Lessons I learned In My First Year Playing Chess"
       },
@@ -802,14 +850,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: The Ukrainian Immortal"
       },
       {
-         "description" : "Shri Bharat Singh Chauhan, Hony Secretary of All India Chess Federation met Sports loving Chief Minister of Tamil Nadu Thiru M K Stalin today at",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-secretary-met-chief-minister-of-tamil-nadu/",
-         "pubDate" : "Mon, 28 Feb 2022 12:33:34 +0000",
-         "title" : "AICF Secretary met Chief Minister of Tamil Nadu"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89898950.cms\" />Young Grandmasters Arjun Erigaisi of Telangana and D Gukesh of Tamil Nadu grabbed the joint lead with 5.5 points at the end of the sixth round in the MPL 58th Senior National Chess Championship on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -824,14 +864,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/blitz-boost.html",
          "pubDate" : "Mon, 28 Feb 2022 12:24:00 +0000",
          "title" : "Blitz boost"
-      },
-      {
-         "description" : "Kanpur (28 Feb 22) :- With 5.5 points in the kitty, young Grandmasters Arjun Erigaisi of Telangana and D Gukesh of Tamil Nadu share the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022-arjun-and-gukesh-share-lead/",
-         "pubDate" : "Mon, 28 Feb 2022 12:00:26 +0000",
-         "title" : "MPL 58th Senior National Chess Championship-2022 : Arjun and Gukesh share lead"
       },
       {
          "description" : "You know the problem: can you place eight queens on a chessboard so that now two queens threaten each other. There are 92 distinct ways of doing this. But how about on larger chessboards? For 27×27 board people have worked out that there are exactly 234,907,967,154,122,528 ways. Now a Harward mathematician Michael Simkin has come up with an almost-definitive answer for any number queens on a corresponding chessboard. Warning: his result can lead to dizziness and fainting spells.",
@@ -1914,14 +1946,6 @@ news_feed (
          "title" : "Rapid Chess Championship Week 2: Caruana Wins"
       },
       {
-         "description" : " <p class=\"lead\">The <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> kicked off yesterday with 16 of the strongest players in the world, among them the World Champion Magnus Carlsen, the 2021 Challenger Ian Nepomniachtchi, the World Rapid Champion Nodirbek Abdusattorov, and the World No.3 Ding Liren, who is leading the Tour after Day 1. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/49164468847_2171208eeb_3k-scaled.jpeg\" width=\"2560\" height=\"1688\" alt=\"\" /> <div class=\"e2-text-caption\">Ding Liren | Image courtesy of Grand Chess Tour</div> </div> The news that Ding Liren <a href=\"https://worldchess.com/news/all/ding-liren-worlds-number",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/ding-liren-missed-the-candidates-but-is-now-leading-the-champion/",
-         "pubDate" : "Sun, 20 Feb 2022 16:23:36 +0000",
-         "title" : "Ding Liren missed the Candidates but is now leading the Champions Chess Tour 2022"
-      },
-      {
          "description" : " Yuri Averbakh celebrated his 100th birthday the other day. Another Soviet player from the same vintage just missed celebrating his 99th birthday. Abram Khasin had a long and remarkable life. He was born in Ukraine on 15 February 1923, and died in Essen, Germany, where he had spent the last 20 years of his life, <a href=\"https://chessimprover.com/abram-khasin-1923-2022/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Abram Khasin (1923-2022)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/abram-khasin-1923-2022/\">Abram Khasin (1923-2022)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2050,14 +2074,6 @@ news_feed (
          "title" : "Airthings Masters kicks off 2022 Champions Chess Tour"
       },
       {
-         "description" : "In his Power Play Show, GM Daniel King looks at a couple of games with a similar strategic pattern. In the first game we see Magnus Carlsen in action in the Norwegian League - and then we see a second game with a related theme, which was played by Ulf Andersson some years ago. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-carlsen-messes-up",
-         "pubDate" : "Fri, 18 Feb 2022 17:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Carlsen messes up"
-      },
-      {
          "description" : " The Airthings Masters is the first event in the new season of the online Meltwater Champions Chess Tour. The event is hosted by Chess24 and takes place February 19th to 26th 2022. The format is mostly the same as last season with a 16 player 15 round rapid round robin preliminary stage and an 8 player knockout phase. In the preliminaries there are three points for a win and one for a draw and money for each win. The KO phase is slightly accelerated with only one 4 game mini-match before a blitz tie-break in the quarter and semi-finals but the final is still over two mini-matches before the tie-break. Players: Magnus Carlsen, Ding Liren, Ian Nepomniachtchi, Anish Giri, Levon Aronian, Shakhri",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2080,14 +2096,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/kind-of-unexpected.html",
          "pubDate" : "Fri, 18 Feb 2022 12:16:00 +0000",
          "title" : "Kind of unexpected"
-      },
-      {
-         "description" : "Are you weary of feverishly watching for novelties in the Najdorf, or following tedious battles over the chessboard? Looking for something different? In the January issue of CHESS Magazine there was a small collection of delightful problems that caught our eye. They were selected and annotated by Graham Phythian. Today we show you the positions without any solutions, which will be supplied in a week. You can however figure them out on your own, with the help of the built-in engines in our replay app.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-magazine-quiz",
-         "pubDate" : "Fri, 18 Feb 2022 12:00:00 +0100",
-         "title" : "CHESS Magazine quiz"
       },
       {
          "description" : " Last week, we started looking at creating combinations of moves that would set up either a pin or skewer. We'll keep this going next week. This week, I want to share something I learned when I recently went back to school for physical computing, laying out road maps to solve problems. I literally mean a <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-two/\">A Foundation for Beginners Fifty Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover",
