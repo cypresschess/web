@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Grand Chess Tour joins organisers in banning former World Championship challenger Sergey Karjakin from taking part in their tournaments, and says the Russian 32-year-old \"can no longer associate our organization with him\". The ban is another blow for the world number 18, who also faces an ethics case and risks being thrown out of the Candidates tournament.",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1615",
+         "pubDate" : "Fri, 04 Mar 2022 20:40:43 +0000",
+         "title" : "Salinas Herrera and Gomez Barrera win Chilean Championships"
+      },
+      {
+         "description" : "The Grand Chess Tour has joined other organisers in banning former World Championship challenger Sergey Karjakin from taking part in their tournaments, and say of the Russian 32-year-old that \"we can no longer associate our organization with him\". The ban is another blow for the world number 18, who also faces a FIDE ethics case and risks being thrown out of the Candidates Tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/grand-chess-tour-bans-sergey-karjakin",
@@ -402,7 +410,7 @@ news_feed (
          "title" : "2022 Spring Chess Classic: Round 2 | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.02<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5\">https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
+         "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.04<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5\">https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-3-lichessorg",
