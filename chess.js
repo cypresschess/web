@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Grand Chess Tour joins organisers in banning former World Championship challenger Sergey Karjakin from taking part in their tournaments, and says the Russian 32-year-old \"can no longer associate our organization with him\". The ban is another blow for the world number 18, who also faces an ethics case and risks being thrown out of the Candidates tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/grand-chess-tour-bans-sergey-karjakin",
+         "pubDate" : "Fri, 04 Mar 2022 20:16:53 +0000",
+         "title" : "Grand Chess Tour joins organisers in Sergey Karjakin ban"
+      },
+      {
+         "description" : "The Collegiate Chess League&#39;s third week concluded last weekend, and the matches were packed with brilliant games filled with tactics and sacrifices. Now that we are deeper into the season, the matches are also becoming more closely contested with...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-round-3",
+         "pubDate" : "Fri, 04 Mar 2022 11:35:36 -0800",
+         "title" : "Collegiate Chess League Season 4 Round 3"
+      },
+      {
+         "description" : " <p class=\"lead\">Round 4 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 in Belgrade</a> ended with Group D breaking free from the draws and GM Maxime Vachier-Lagrave being the clear leader. At the same time Giri is steadily the leader of Group B with the highest score in the whole tournament. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.4992679355783\"> <img src=\"https://worldchess.com/news/pictures/A-12.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51917665106_d5b256b9fe_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51916697512_8e147cab",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/mvl-won-against-predke-the-only-decisive-game-of-day-4-of-the-gp/",
+         "pubDate" : "Fri, 04 Mar 2022 18:45:56 +0000",
+         "title" : "MVL won against Predke, the only decisive game of Day 4 of the GP"
+      },
+      {
+         "description" : "Jeffrey Xiong started with 2.0/2 into the Saint Louis Spring Classic and now is sole leader in the A-tournament. In round 3 Xiong plays against Aram Hakobyan. GM Christopher Repka from Slovakia leads the B-tournament. Round 3 starts at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
+         "pubDate" : "Fri, 04 Mar 2022 19:30:00 +0100",
+         "title" : "Saint Louis Spring Classic 2022 - Live"
+      },
+      {
          "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organising a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match will take place from 2 to 12 March and will be played at the Swedish Ambassador's residence in London. The first two games ended in a draw, the third game starts at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -55,7 +87,7 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/dual-seminar-kick-starts-in-bengaluru-shimla-25-27-feb-2022/",
          "pubDate" : "Fri, 04 Mar 2022 13:01:27 +0000",
-         "title" : "Dual Seminar kick starts in Bengaluru & Shimla (25-27 Feb 2022 )"
+         "title" : "Dual Seminar kick starts in Bengaluru & Shimla (04-06 March 2022 )"
       },
       {
          "description" : "The MPL National Sub-Junior and National Sub-Junior Girls Chess Championship 2022 began at IGI Stadium ,New Delhi . The five day long championship has been",
@@ -1410,14 +1442,6 @@ news_feed (
          "title" : "Do Chess Players and Scientists Need Intelligence?"
       },
       {
-         "description" : "Magnus Carlsen and Ian Nepomniachtchi may be on course for a World Championship rematch after beating Liem Quang Le and Vincent Keymer to reach the Airthings Masters semi-finals. They both won one game and drew three, but there was more drama elsewhere. Andrey Esipenko found a brilliant queen sacrifice to take the lead against Eric Hansen, and the Canadian GM's attempts to win on demand led to another loss in the final game. Ding Liren suffered heartbreak as he was a move or two away from sealing victory with a round to spare before Vladislav Artemiev staged a comeback.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/airthings-masters-5-carlsen-artemiev-nepo-esipenko-in-the-semis",
-         "pubDate" : "Thu, 24 Feb 2022 15:35:27 +0000",
-         "title" : "Airthings Masters 5: Carlsen-Artemiev & Nepo-Esipenko"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1834,14 +1858,6 @@ news_feed (
          "title" : "Airthings Masters: Nepo grabs the lead"
       },
       {
-         "description" : " <p class=\"lead\">Day 2 of the <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> was not only eventful but also exciting, with Carlsen manifesting his great comeback until he lost against the 16-year-old Indian chess prodigy, Rameshbabu Praggnanandhaa. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/3F1A0562-BEA8-4032-9B38-C7F59D59B465.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Anastasia Korolkova/FIDE</div> </div> After a <a href=\"https://worldchess.com/news/all/carlsen-loses-to-esipenko-and-nepomniachtchi-on-day-1-of-the-cha/\">disappointing Day 1</a> for the World Champion, Day 2 looked like a fasci",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/champions-chess-tour-2022-day-2-pragg-is-the-youngest-player-to/",
-         "pubDate" : "Mon, 21 Feb 2022 12:14:36 +0000",
-         "title" : "Champions Chess Tour 2022 Day 2: Pragg is the youngest player to ever beat Carlsen"
-      },
-      {
          "description" : "In an exclusive interview with Tatiana Flores, Carissa Yip talks about her chess career, her studies, some of her most important games, memorable chess moments, and shares her chess schedule for this year! | Photo: Austin Fuller (Saint Louis Chess Club)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2066,14 +2082,6 @@ news_feed (
          "title" : "\"Chess for Mental Health\" International Conference announced"
       },
       {
-         "description" : "The total Prize Fund Increased to $1.4 million across all five tournaments. The nine players are Wesley So Maxime Vachier-Lagrave, Shakhriyar Mamedyarov, Alireza Firouzja, Fabiano Caruana, Ian Nepomniachtchi, Levon Aronian, Richard Rapport, and Leinier Dominguez. | Photo: grandchesstour.org",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/full-tour-participants-confirmed-for-the-2022-grand-chess-tour",
-         "pubDate" : "Fri, 18 Feb 2022 22:31:22 +0100",
-         "title" : "Full Tour Participants confirmed for the 2022 Grand Chess Tour"
-      },
-      {
          "description" : " The Airthings Masters is the first event in the new season of the online Meltwater Champions Chess Tour. The event is hosted by Chess24 and takes place February 19th to 26th 2022. The format is mostly the same as last season with a 16 player 15 round rapid round robin preliminary stage and an 8 player knockout phase. In the preliminaries there are three points for a win and one for a draw and money for each win. The KO phase is slightly accelerated with only one 4 game mini-match before a blitz tie-break in the quarter and semi-finals but the final is still over two mini-matches before the tie-break. Players: Magnus Carlsen, Ding Liren, Ian Nepomniachtchi, Anish Giri, Levon Aronian, Shakhri",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2160,14 +2168,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/money-heist.html",
          "pubDate" : "Thu, 17 Feb 2022 12:01:00 +0000",
          "title" : "Money Heist"
-      },
-      {
-         "description" : "GMs Wesley So, Maxime Vachier-Lagrave, Shakhriyar Mamedyarov, Alireza Firouzja, Fabiano Caruana, Ian Nepomniachtchi, Levon Aronian, Richard Rapport, and Leinier Dominguez are the &#34;full-tour&#34; participants of the 2022 Grand Chess Tour. World champio...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-grand-chess-tour-participants",
-         "pubDate" : "Thu, 17 Feb 2022 01:27:00 -0800",
-         "title" : "Firouzja Among 'Full' Grand Chess Tour Participants But Not Carlsen Or Nakamura"
       },
       {
          "description" : " Last week I started a new Twitch stream with my old friend, IM Andrew Martin. Echoing our Master Chess Roadshow seminars of the 1990s, we decided to call it the Master Chess Web Show. The Twitch stream can be found here and I've also been uploading the shows to Youtube. Please follow us on Twitch <a href=\"https://chessimprover.com/the-master-chess-web-show/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Master Chess Web Show\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-master-chess-web-show/\">The Master Chess Web Show</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2344,22 +2344,6 @@ news_feed (
          "link" : "https://www.thearticle.com/norwegian-clue/",
          "pubDate" : "Sat, 12 Feb 2022 10:00:09 +0000",
          "title" : "Norwegian clue"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1570",
-         "pubDate" : "Fri, 11 Feb 2022 18:43:20 +0000",
-         "title" : "Semifinals set in FIDE Grand Prix: Aronian - Dominguez and Nakamura - Rapport"
-      },
-      {
-         "description" : "The incidents span more than ten years and at least 15 victims; issue is being investigated by Latvian police.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33264972/dronavalli-harika-women-chess-players-targeted-sexually-abusive-mails?device=featurephone",
-         "pubDate" : "Fri, 11 Feb 2022 12:12:35 -0500",
-         "title" : "Harika among women chess players targeted by sexually abusive mails"
       }
    ]
 }
