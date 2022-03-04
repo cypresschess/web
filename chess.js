@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Board of the European Chess Union met in extraordinary session on Thursday 3rd of March to discuss the situation in Ukraine and appropriate measures. The European Chess Union strongly condemns the Russian invasion of Ukraine, the involvement of Belarus and expresses its solidarity and support for the Ukrainian people. We feel deep sorrow for all the victims of the war and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-suspends-the-russian-and-belarusian-chess-federations/\">Read More &#187;</a></span>",
+         "description" : "The&#160;Board of&#160;the&#160;European Chess Union&#160;met in extraordinary session on Thursday 3rd of March to discuss the situation in Ukraine and appropriate measures. The European Chess Union strongly condemns the Russian invasion of Ukraine, the involvement of Belarus and expresses its solidarity and support for the Ukrainian people. We feel deep sorrow for all the victims of the war and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-suspends-the-russian-and-belarusian-chess-federations/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-suspends-the-russian-and-belarusian-chess-federations/",
@@ -2376,14 +2376,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1567",
          "pubDate" : "Fri, 11 Feb 2022 08:59:30 +0000",
          "title" : "1st FIDE - ISF World School Online Chess Cup: Registration continues"
-      },
-      {
-         "description" : " The world champion missed a one-move win and halved against an opponent with whom he had already drawn as a nine-year-old Magnus Carlsen's vintage performance at Wijk aan Zee gained the world champion three rating points in his quest for a world record 2900. A week later the Norwegian, 31, gave them all back with interest on a Saturday night in Oslo to Tallaksen Ostmoe, rated 399 points lower than the No 1. The very first meeting 22 years earlier between the then nine-year-old Carlsen, rated under 1000, and the 15-year-old Ostmoe, rated over 2200, had also been a draw and a rating upset, but this was the other way round. <a href=\"https://www.theguardian.com/sport/2022/feb/11/chess-carlsen-l",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/feb/11/chess-carlsen-loses-hard-won-rating-points-in-a-single-oslo-club-match",
-         "pubDate" : "Fri, 11 Feb 2022 08:00:44 +0000",
-         "title" : "Chess: Carlsen loses hard-won rating points in a single Oslo club match"
       }
    ]
 }
