@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Seven out of eight games finished drawn in Friday's fourth round of the preliminaries at the FIDE Grand Prix in Belgrade. The only winner of the day was Maxime Vachier-Lagrave. The Frenchman's win was the first one of the event in pool D. With two rounds to go in the double round-robins, MVL and Anish Giri are sole leaders in their pools. | Photos: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-r4",
+         "pubDate" : "Sat, 05 Mar 2022 17:45:00 +0100",
+         "title" : "Belgrade GP: MVL beats Predke, breaks drawing spell"
+      },
+      {
          "description" : "The 18-year-old GM Arjun Erigaisi won the 58th MPL National Senior Championship, and 16-year-old WGM Divya Deshmukh clinched the 47th MPL National Women&#39;s Championship.&#38;nbsp; Scoring 8.5 points out of 11 rounds, Arjun tied for first place with G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -184,14 +192,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/mvl-won-against-predke-the-only-decisive-game-of-day-4-of-the-gp/",
          "pubDate" : "Fri, 04 Mar 2022 18:45:56 +0000",
          "title" : "MVL won against Predke, the only decisive game of Day 4 of the GP"
-      },
-      {
-         "description" : "Aram Hakobyan took down former sole leader Jeffery Xiong in round 3 to climb to shared first place. Joining Hakobyan is Ray Robson, who got the better of Kamil Dragun to go into the fourth round with a 2&frac12;/3 score. | Replay the games with computer analysis. Round 4 starts Saturday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
-         "pubDate" : "Fri, 04 Mar 2022 19:30:00 +0100",
-         "title" : "Saint Louis Spring Classic 2022 - Robson and Hakobyan in the lead"
       },
       {
          "description" : "\"Never move the queen out early\", runs the old maxim. And yet... In his Power Play Show, GM Daniel King examines two cases from the FIDE Grand Prix tournament in Belgrade where, in the open Sicilian, White plays an early queen move. Neither is ridiculous, at least theoretically... | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -848,6 +848,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-round-1/",
          "pubDate" : "Tue, 01 Mar 2022 15:04:38 +0000",
          "title" : "FIDE Grand Prix in Belgrade: Round 1"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89926789.cms\" />Five players, including defending champion Aravindh Chithambaram occupy the joint lead with 6.5 points each after eight rounds in the MPL 58th Senior National Chess Championship on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/senior-national-chess-five-players-share-lead/articleshow/89926789.cms",
+         "pubDate" : "Tue, 01 Mar 2022 18:31:53 +0530",
+         "title" : "Senior national chess: Five players share lead"
       },
       {
          "description" : "One round to spare in the MPL 47th National Women Chess Championship WGM Divya Deshmukh continues the winning spree with 7.5 points here at International",
