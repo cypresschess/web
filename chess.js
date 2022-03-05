@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">A day of draws in the Grand Prix as Maxime Vachier-Lagrave is the only one to score a victory, producing a first decisive game in Pool D The fourth round of the second leg of the FIDE Grand Prix was mostly calm as seven out of eight games ended in a draw. The only one to win was the World Blitz champion and seasoned top-class player, Maxime Vachier-Lagrave (MVL), who scored an important victory in Pool D, breaking a three-round long cycle of draws in that group. In the overall results, Anish Giri is doing best with 3/5, leading Pool B, followed by five GMs on 2.5 points: Andreikin and Shankland (leaders in Pool A), Rapport and Gujrathi (leaders in Pool C) and MVL, who leads ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-belgrade-round-4-recap/",
+         "pubDate" : "Fri, 04 Mar 2022 23:34:57 +0000",
+         "title" : "FIDE Grand Prix Belgrade: Round 4 Recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1616",
+         "pubDate" : "Fri, 04 Mar 2022 22:58:52 +0000",
+         "title" : "FIDE Grand Prix Belgrade: Round 4 Recap"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/grand-chess-tour-bans-sergey-karjakin",
          "pubDate" : "Fri, 04 Mar 2022 20:16:53 +0000",
          "title" : "Grand Chess Tour joins organisers in Sergey Karjakin ban"
+      },
+      {
+         "description" : "The fourth round of FIDE Grand Prix Belgrade saw seven draws and only one win, nearly everything remained at a status quo. This means that GMs Sam Shankland and Dmitry Andreikin remain in the lead in Group A. In Group B, GM Anish Giri retains hi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-round-4",
+         "pubDate" : "Fri, 04 Mar 2022 11:54:00 -0800",
+         "title" : "FIDE Grand Prix Belgrade Report Day 4: MVL Wins, Takes Lead In Group D"
       },
       {
          "description" : "The Collegiate Chess League&#39;s third week concluded last weekend, and the matches were packed with brilliant games filled with tactics and sacrifices. Now that we are deeper into the season, the matches are also becoming more closely contested with...",
@@ -2144,14 +2168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-final-tiebreak-nakamura-wins",
          "pubDate" : "Thu, 17 Feb 2022 10:26:00 -0800",
          "title" : "2022 FIDE Grand Prix Berlin Final: Nakamura Wins First Leg After 2-0 Tiebreak Sweep"
-      },
-      {
-         "description" : "GM Raunak Sadhwani earned the win in the third week of the ninth season of Arena Kings on Wednesday, holding off IM Le Tuan Minh in the finals with a score of&#38;nbsp; 3-2, which just stopped Le from a second consecutive victory.&#38;nbsp; The semifina...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-arena-kings-season-9-week-3-sadhwani-wins",
-         "pubDate" : "Thu, 17 Feb 2022 08:41:56 -0800",
-         "title" : "Sadhwani Takes Week 3 In Arena Kings Season 9"
       },
       {
          "description" : "",
