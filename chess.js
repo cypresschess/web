@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Bullet Chess Championship presented by DigitalOcean kicked off with some excellent performances by traditional bullet favorites such as GMs Hikaru Nakamura and Daniel Naroditsky, who both convincingly won matches they were heavily favored...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bullet-chess-championship-round-of-16-tang-defeats-caruana-in-thrilling-tiebreak",
+         "pubDate" : "Fri, 04 Mar 2022 18:57:23 -0800",
+         "title" : "Bullet Chess Championship Round Of 16: Tang Defeats Caruana In Thrilling Tiebreak"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.04<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-3/JC4nQJbi\">https://lichess.org/broadcast/2022-spring-chess-classic/round-3/JC4nQJbi</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-3",
+         "pubDate" : "Sat, 05 Mar 2022 02:53:06 +0000",
+         "title" : "2022 Spring Chess Classic: Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to JJ Ali Marandi during the 2022 Spring Chess Classic. 2022.03.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-jj-ali-marandi-interview-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/s6K1Vu_SkDk.jpg?itok=ZbL7EfKz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-jj-ali-marandi-interview-round-2",
+         "pubDate" : "Sat, 05 Mar 2022 02:53:06 +0000",
+         "title" : "2022 Spring Chess Classic: JJ Ali Marandi Interview | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.07<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5\">https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-6-lichessorg",
+         "pubDate" : "Fri, 04 Mar 2022 23:53:04 +0000",
+         "title" : "2022 Spring Chess Classic: Round 6 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Chris Repka during the 2022 Spring Chess Classic. 2022.03.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-chris-repka-interview-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QllCBdeys_U.jpg?itok=q3lzvtdM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-chris-repka-interview-round-1",
+         "pubDate" : "Fri, 04 Mar 2022 23:53:04 +0000",
+         "title" : "2022 Spring Chess Classic: Chris Repka Interview | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Fabiano Caruana during the 2022 Spring Chess Classic. 2022.03.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-fabiano-caruana-interview-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DU4uAv3f4k0.jpg?itok=Mo4HUAOj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-fabiano-caruana-interview-round-1",
+         "pubDate" : "Fri, 04 Mar 2022 23:53:04 +0000",
+         "title" : "2022 Spring Chess Classic: Fabiano Caruana Interview | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Jeffery Xiong during the 2022 Spring Chess Classic. 2022.03.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-jeffery-xiong-interview-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Wj7Do6bWIB0.jpg?itok=bLtXHVyr\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-jeffery-xiong-interview-round-1",
+         "pubDate" : "Fri, 04 Mar 2022 23:53:04 +0000",
+         "title" : "2022 Spring Chess Classic: Jeffery Xiong Interview | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Elshan Moradiabadi during the 2022 Spring Chess Classic. 2022.03.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-elshan-moradiabadi-interview-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qRbHA8WiYu0.jpg?itok=H8LC8DX-\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-elshan-moradiabadi-interview-round-1",
+         "pubDate" : "Fri, 04 Mar 2022 23:53:04 +0000",
+         "title" : "2022 Spring Chess Classic: Elshan Moradiabadi Interview | Round 1"
+      },
+      {
          "description" : " <p class=\"lead\">A day of draws in the Grand Prix as Maxime Vachier-Lagrave is the only one to score a victory, producing a first decisive game in Pool D The fourth round of the second leg of the FIDE Grand Prix was mostly calm as seven out of eight games ended in a draw. The only one to win was the World Blitz champion and seasoned top-class player, Maxime Vachier-Lagrave (MVL), who scored an important victory in Pool D, breaking a three-round long cycle of draws in that group. In the overall results, Anish Giri is doing best with 3/5, leading Pool B, followed by five GMs on 2.5 points: Andreikin and Shankland (leaders in Pool A), Rapport and Gujrathi (leaders in Pool C) and MVL, who leads ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -424,22 +488,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-r2",
          "pubDate" : "Wed, 02 Mar 2022 19:26:00 -0800",
          "title" : "2022 FIDE Grand Prix Belgrade R2: Giri and Vidit Charge, Grischuk Crashes"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Spring Chess Classic is back! The Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.03<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-2/aIn5OlAW\">https://lichess.org/broadcast/2022-spring-chess-classic/round-2/aIn5OlAW</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Sta",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-2-lichessorg",
-         "pubDate" : "Thu, 03 Mar 2022 02:51:05 +0000",
-         "title" : "2022 Spring Chess Classic: Round 2 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.04<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5\">https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-3-lichessorg",
-         "pubDate" : "Thu, 03 Mar 2022 02:51:05 +0000",
-         "title" : "2022 Spring Chess Classic: Round 3 | lichess.org"
       },
       {
          "description" : "",
@@ -1146,14 +1194,6 @@ news_feed (
          "title" : "FIDE Grand Prix 2022: Qualifying for the Candidates Tournament"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk accepts three Antichess challenges on lichess.org. Antichess, or losing chess, is won by losing all of your pieces or being stalemated. Capturing is mandatory when possible. 10.02.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-you-play-antichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/K0hp9tJDabA.jpg?itok=wBYOgLRi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-you-play-antichess",
-         "pubDate" : "Sat, 26 Feb 2022 17:47:44 +0000",
-         "title" : "THIS is how you play ANTICHESS"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1658,14 +1698,6 @@ news_feed (
          "title" : "Proud of Praggnanandhaa's accomplishment of winning against Carlsen: PM Narendra Modi"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Katerina Nemcova gives a chess lecture all about pawn power. The mysterious masked Katerina begins by asking to simply identify what it is that pawns do. 2022.02.22<br /> Anatoly Karpov vs Svetozar Gligoric, San Antonio (1972)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1067695\">https://www.chessgames.com/perl/chessgame?gid=1067695</a><br /> Leif Erlend Johannessen vs Hikaru Nakamura, GMA (2002)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1248937\">https://www.chessgames.com/perl/chessgame?gid=1248937</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">C",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/pawns-%E2%99%9F-grandmasters-choice-wgm-katerina-nemcova",
-         "pubDate" : "Wed, 23 Feb 2022 05:42:43 +0000",
-         "title" : "Pawns ♟ | Grandmaster's Choice - WGM Katerina Nemcova"
-      },
-      {
          "description" : "Praggnanandhaa scored five wins from 15 rounds, drew four games and lost six.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1682,36 +1714,12 @@ news_feed (
          "title" : "R Praggnanandhaa finishes 11th in Airthings Masters, misses out on quarterfinals"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby will surprise you with the 4.a3 Nimzo, so you can surprise your next chess opponent! The mysterious masked Caleb shows what to do instead of 4.f3. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/surprise-its-a3-nimzo-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DRMwhq0kjbE.jpg?itok=Gnm5p0qB\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/surprise-its-a3-nimzo-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 23 Feb 2022 02:42:27 +0000",
-         "title" : "Surprise! It's the a3 Nimzo! | Road to 2000 - NM Caleb Denby"
-      },
-      {
          "description" : "GM Ian Nepomniachtchi won the preliminary stage of the Airthings Masters. Pre-tournament favorites GMs Magnus Carlsen and Ding Liren are also in. They will be challenged by a well-represented group of young stars when the knockout stage begins tom...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-4",
          "pubDate" : "Tue, 22 Feb 2022 16:19:00 -0800",
          "title" : "Airthings Masters Day 4: Nepo, Carlsen, Ding To Face Young Stars In Upcoming Knockouts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Katerina Nemcova gives a chess lecture all about pawn power. The mysterious masked Katerina... 2022.02.22<br /> Anatoly Karpov vs Svetozar Gligoric, San Antonio (1972)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1067695\">https://www.chessgames.com/perl/chessgame?gid=1067695</a><br /> Leif Erlend Johannessen vs Hikaru Nakamura, GMA (2002)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1248937\">https://www.chessgames.com/perl/chessgame?gid=1248937</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-l",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/pawns-%E2%99%9F-grandmasters-choice-wgm-katerina-nemcova-lichessorg",
-         "pubDate" : "Tue, 22 Feb 2022 23:42:40 +0000",
-         "title" : "Pawns ♟ | Grandmaster's Choice - WGM Katerina Nemcova | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby will surprise you with the a3 Nimzo, so you can surprise your next chess opponent! 2022.02.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/surprise-your-opponents-a3-nimzo-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DRMwhq0kjbE.jpg?itok=Gnm5p0qB\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/surprise-your-opponents-a3-nimzo-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Tue, 22 Feb 2022 23:42:40 +0000",
-         "title" : "Surprise Your Opponents with the a3 Nimzo | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
          "description" : "",
@@ -2160,14 +2168,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/feb/17/hikaru-nakamura-wins-3-1-in-berlin-as-popular-streamer-leads-grand-prix",
          "pubDate" : "Thu, 17 Feb 2022 19:31:25 +0000",
          "title" : "Hikaru Nakamura wins in Berlin as popular chess streamer leads Grand Prix"
-      },
-      {
-         "description" : "GM Hikaru Nakamura demonstrated his superiority in quicker time controls by defeating fellow-American GM Levon Aronian with a clean 2-0 score in the rapid chess tiebreak of the final to emerge as the winner of the 2022 FIDE Grand Prix first leg in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-final-tiebreak-nakamura-wins",
-         "pubDate" : "Thu, 17 Feb 2022 10:26:00 -0800",
-         "title" : "2022 FIDE Grand Prix Berlin Final: Nakamura Wins First Leg After 2-0 Tiebreak Sweep"
       },
       {
          "description" : "",
