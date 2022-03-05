@@ -850,14 +850,6 @@ news_feed (
          "title" : "FIDE Grand Prix in Belgrade: Round 1"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89926789.cms\" />Five players, including defending champion Aravindh Chithambaram occupy the joint lead with 6.5 points each after eight rounds in the MPL 58th Senior National Chess Championship on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/senior-national-chess-five-players-share-lead/articleshow/89926789.cms",
-         "pubDate" : "Tue, 01 Mar 2022 18:31:53 +0530",
-         "title" : "Senior national chess: Five players share lead"
-      },
-      {
          "description" : "One round to spare in the MPL 47th National Women Chess Championship WGM Divya Deshmukh continues the winning spree with 7.5 points here at International",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
