@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Norway Chess and London Chess Classic tournaments as well as the Grand Chess Tour have decided not to invite GM Sergey Karjakin to their tournaments anymore as the Russian GM continues to support Russia&#39;s warfare in Ukraine. Also this week, th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/grand-chess-tour-ban-karjakin-ecu-suspends-belarusian-russian-federations",
+         "pubDate" : "Sat, 05 Mar 2022 03:43:00 -0800",
+         "title" : "Top Tournaments Ban Karjakin; ECU Suspends Belarusian, Russian Federations"
+      },
+      {
+         "description" : "The Russian President, Vladimir Putin, has in the past earned grudging admiration from some quarters for his presumed geopolitical strategic \"chess\" skills. In particular, his annexation of Crimea, while successfully maintaining lucrative energy sales to western democracies. Now, though, the new heir to Ivan the Terrible has switched to poker, with notably less facility. Chess is primarily []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/but-i-am-a-ukrainian/",
+         "pubDate" : "Sat, 05 Mar 2022 11:29:23 +0000",
+         "title" : "'But I am a Ukrainian'"
+      },
+      {
+         "description" : "The Board of the European Chess Union met in an extraordinary session this week. The organization strongly condemned the Russian invasion of Ukraine, the involvement of Belarus, and expressed its solidarity for the Ukrainian people. Notably, the Board decided to suspend the Russian and Belarusian Chess Federations. Individual players from these countries will be excluded from all ECU competitions unless they change federation or by their expressed will represent the FIDE flag in the rating list.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ecu-suspends-the-russian-and-belarusian-chess-federations",
+         "pubDate" : "Sat, 05 Mar 2022 11:00:00 +0100",
+         "title" : "ECU suspends the Russian and Belarusian Chess Federations"
+      },
+      {
          "description" : "Black king on e7, unprotected queen a5 - White's threat in the diagrammed position is obvious, and not even 17...Bb6 could prevent him from making a good catch. Your call!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,12 +162,12 @@ news_feed (
          "title" : "MVL won against Predke, the only decisive game of Day 4 of the GP"
       },
       {
-         "description" : "Jeffrey Xiong started with 2.0/2 into the Saint Louis Spring Classic and now is sole leader in the A-tournament. In round 3 Xiong plays against Aram Hakobyan. GM Christopher Repka from Slovakia leads the B-tournament. Round 3 starts at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center.",
+         "description" : "Aram Hakobyan took down former sole leader Jeffery Xiong in round 3 to climb to shared first place. Joining Hakobyan is Ray Robson, who got the better of Kamil Dragun to go into the fourth round with a 2&frac12;/3 score. | Replay the games with computer analysis. Round 4 starts Saturday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
          "pubDate" : "Fri, 04 Mar 2022 19:30:00 +0100",
-         "title" : "Saint Louis Spring Classic 2022 - Live"
+         "title" : "Saint Louis Spring Classic 2022 - Robson and Hakobyan in the lead"
       },
       {
          "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organising a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match will take place from 2 to 12 March and will be played at the Swedish Ambassador's residence in London. The first two games ended in a draw, the third game starts at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
@@ -175,7 +199,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
          "pubDate" : "Fri, 04 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix - Live!"
+         "title" : "Belgrade Grand Prix - Games and results"
       },
       {
          "description" : "The highlight of day 3 at the FIDE Grand Prix in Belgrade was Richard Rapport's victory over Vidit Gujrathi. The Hungarian thus caught his round-3 opponent in the lead of pool C. The one other decisive result on Thursday was seen in the same group, as Vladimir Fedoseev got the better of Alexei Shirov. Anish Giri played a remarkable queen sacrifice against Pentala Harikrishna - the game finished in a draw. | Photos: Mark Livshitz",
@@ -2066,28 +2090,12 @@ news_feed (
          "title" : "Player Types - The Theorist"
       },
       {
-         "description" : "Ding Liren had the best start at the Airthings Masters online tournament. The Chinese scored 10/12 points after winning three games and drawing one on the first day of action. Ian Nepomniachtchi and Andrey Esipenko are placed second and third, while Magnus Carlsen is currently eleventh after losing in rounds 3 and 4, against Esipenko and Nepomniachtchi respectively. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d1",
-         "pubDate" : "Sun, 20 Feb 2022 04:35:00 +0100",
-         "title" : "Airthings Masters: Ding leads, Carlsen struggles"
-      },
-      {
          "description" : "The Airthings Masters, the first leg of the 2022 Meltwater Champions Chess Tour, began on February 19. GM Ding Liren leads after the first day with a score of 10/12, a point ahead of GM Ian Nepomniachtchi, on 9/12, and two points ahead of third-pl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-1",
          "pubDate" : "Sat, 19 Feb 2022 17:37:00 -0800",
          "title" : "Airthings Masters Day 1: Ding Leads, Carlsen Falters"
-      },
-      {
-         "description" : "The organizers of the Tata Steel Tournament in Wijk aan Zee are known for inviting promising talents. Praggnanandhaa Rameshbabu made his debut in the Masters this year. Thorsten Cmiel analyses Pragg's games and shares some reflexions about the youngster's performance. | Photos: Lennart Ootes, Jurriaan Hoefsmit - Tata Steel Chess Tournament 2022",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/praggnanandhaa-in-wijk-aan-zee-analyses-and-reflections",
-         "pubDate" : "Sat, 19 Feb 2022 23:20:00 +0100",
-         "title" : "Praggnanandhaa in Wijk aan Zee: Analyses and reflections"
       },
       {
          "description" : "",
@@ -2128,14 +2136,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/airthings-masters-2022",
          "pubDate" : "Fri, 18 Feb 2022 18:48:00 +0400",
          "title" : "Airthings Masters 2022 - Games and Results"
-      },
-      {
-         "description" : "The Collegiate Chess League kicked off its fourth season last weekend. This was the first round of seven and the start to what will surely make for another exciting season. Below is a recap of all the week one highlights and a preview of what will...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-round-1",
-         "pubDate" : "Fri, 18 Feb 2022 06:39:04 -0800",
-         "title" : "Collegiate Chess League Season 4 Round 1"
       },
       {
          "description" : " Hikaru Nakamura has won the first FIDE Grand Prix event of the year, defeating Lev Aronian in the final 3-1 (Nakamura winning both rapid tie-break games) The fact that both players qualified for the final could be considered a little surprising, given their age relative to the rest of the field. The fact that Nakamura then won the final was even more of a shock, as he has hardly lifted a piece in 2 years, concentrating on streaming instead. Nonetheless the result showed that the group of \"thirty something\" Super GM's still will take some beating by the next generation of GM's. ",
@@ -2360,14 +2360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1571",
          "pubDate" : "Sat, 12 Feb 2022 20:37:59 +0000",
          "title" : "FIDE Grand Prix: Aronian and Nakamura pull ahead"
-      },
-      {
-         "description" : "Did Sherlock Holmes play chess? In the canonical novels and short stories there are references to chess in three of his adventures: \"The Blanched Soldier\", \"The Mazarin Stone\" and \"The Retired Colourman\". Meanwhile, in many of the movie and stage adaptations, Holmes is standardly credited with fiendish chess skills, often pitted, of course, against his arch-nemesis, Professor Moriarty. I have studied the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/norwegian-clue/",
-         "pubDate" : "Sat, 12 Feb 2022 10:00:09 +0000",
-         "title" : "Norwegian clue"
       }
    ]
 }
