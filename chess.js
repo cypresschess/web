@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1617",
+         "pubDate" : "Sat, 05 Mar 2022 20:21:08 +0000",
+         "title" : "Second season of FIDE Chessable Academy starts on Chessable Classroom"
+      },
+      {
+         "description" : "Aram Hakobyan took down former sole leader Jeffery Xiong in round 3 to climb to shared first place. Joining Hakobyan is Ray Robson, who got the better of Kamil Dragun to go into the fourth round with a 2&frac12;/3 score. | Replay the games with computer analysis. Round 4 starts Saturday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
+         "pubDate" : "Sat, 05 Mar 2022 19:45:00 +0100",
+         "title" : "Saint Louis Spring Classic 2022 - Live!"
+      },
+      {
          "description" : "Seven out of eight games finished drawn in Friday's fourth round of the preliminaries at the FIDE Grand Prix in Belgrade. The only winner of the day was Maxime Vachier-Lagrave. The Frenchman's win was the first one of the event in pool D. With two rounds to go in the double round-robins, MVL and Anish Giri are sole leaders in their pools. | Photos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2088,14 +2104,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/act-v-sa-junior-challenge.html",
          "pubDate" : "Sun, 20 Feb 2022 11:47:00 +0000",
          "title" : "ACT v SA - Junior Challenge"
-      },
-      {
-         "description" : "The Grandmasters Dr. Karsten Mueller and Luis Engel have set a ball rolling in Germany with their latest Fritztrainer. GM Lars Bo Hansen designed the four-player model in 2005, and was perhaps ahead of his time. In the 5-part interview with Dr. Karsten Mueller, all four player types are discussed in detail. Today - The Theorist.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/player-types-the-theorist",
-         "pubDate" : "Sun, 20 Feb 2022 12:00:00 +0100",
-         "title" : "Player Types - The Theorist"
       },
       {
          "description" : "",
