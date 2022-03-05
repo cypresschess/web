@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Aram Hakobyan during the 2022 Spring Chess Classic. 2022.03.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-aram-hakobyan-interview-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mtRNjkG7AYI.jpg?itok=06kWAaHv\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-aram-hakobyan-interview-round-2",
+         "pubDate" : "Sat, 05 Mar 2022 20:53:50 +0000",
+         "title" : "2022 Spring Chess Classic: Aram Hakobyan Interview | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Ray Robson during the 2022 Spring Chess Classic. 2022.03.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-ray-robson-interview-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gNntQAqu7Tk.jpg?itok=Y0XtSYMB\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-ray-robson-interview-round-2",
+         "pubDate" : "Sat, 05 Mar 2022 20:53:50 +0000",
+         "title" : "2022 Spring Chess Classic: Ray Robson Interview | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Robert Hungaski during the 2022 Spring Chess Classic. 2022.03.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-robert-hungaski-interview-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SiZiXPsq7RU.jpg?itok=U0HBC7tG\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-robert-hungaski-interview-round-2",
+         "pubDate" : "Sat, 05 Mar 2022 20:53:50 +0000",
+         "title" : "2022 Spring Chess Classic: Robert Hungaski Interview | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Chris Repka during the 2022 Spring Chess Classic. 2022.03.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-chris-repka-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SZ_7L_Bmcfo.jpg?itok=ZUoaNeKd\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-chris-repka-interview-round-3",
+         "pubDate" : "Sat, 05 Mar 2022 20:53:50 +0000",
+         "title" : "2022 Spring Chess Classic: Chris Repka Interview | Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Ray Robson during the 2022 Spring Chess Classic. 2022.03.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-ray-robson-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Viu8TwJwBgs.jpg?itok=hQhp7i2I\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-ray-robson-interview-round-3",
+         "pubDate" : "Sat, 05 Mar 2022 20:53:50 +0000",
+         "title" : "2022 Spring Chess Classic: Ray Robson Interview | Round 3"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -16,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
          "pubDate" : "Sat, 05 Mar 2022 19:45:00 +0100",
          "title" : "Saint Louis Spring Classic 2022 - Live!"
+      },
+      {
+         "description" : " The Bundesliga 2021-22 season takes place Sat 5th Mar to Sun 10th Jul 2022. This accelerated German Bundesliga season will take just four months to complete. There are 16 teams and Baden Baden will again be favourites to win the title.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2021-22",
+         "pubDate" : "Sat, 5 Mar 2022 21:18:00 +0400",
+         "title" : "Bundesliga 2021-22 - "
       },
       {
          "description" : "Seven out of eight games finished drawn in Friday's fourth round of the preliminaries at the FIDE Grand Prix in Belgrade. The only winner of the day was Maxime Vachier-Lagrave. The Frenchman's win was the first one of the event in pool D. With two rounds to go in the double round-robins, MVL and Anish Giri are sole leaders in their pools. | Photos: Mark Livshitz",
@@ -34,12 +82,12 @@ news_feed (
          "title" : "Arjun Erigaisi, Divya Deshmukh Clinch Indian National Championships"
       },
       {
-         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organising a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. The first three games ended in a draw. Game 4 starts Saturday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
+         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. After three draws, Howell took the lead by scoring an 83-move win on Saturday. Game 4 starts Sunday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-match-2",
          "pubDate" : "Sat, 05 Mar 2022 14:30:00 +0100",
-         "title" : "England vs Sweden Challenge - Game 4 Live!"
+         "title" : "England vs Sweden Challenge - Howell takes the lead"
       },
       {
          "description" : "Maxime Vachier-Lagrave won a spectacular game in the Najdorf Sicilian to end a run of 7 draws in Pool D of the Belgrade FIDE Grand Prix and take the sole lead. There were missed chances for Yu Yangyi against Shakhriyar Mamedyarov, and for Sam Shankland against Etienne Bacrot, as all the remaining Round 4 games ended in draws, ensuring a tense battle ahead in the final two rounds of the group stages.",
@@ -136,22 +184,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-fabiano-caruana-interview-round-1",
          "pubDate" : "Fri, 04 Mar 2022 23:53:04 +0000",
          "title" : "2022 Spring Chess Classic: Fabiano Caruana Interview | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Jeffery Xiong during the 2022 Spring Chess Classic. 2022.03.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-jeffery-xiong-interview-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Wj7Do6bWIB0.jpg?itok=bLtXHVyr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-jeffery-xiong-interview-round-1",
-         "pubDate" : "Fri, 04 Mar 2022 23:53:04 +0000",
-         "title" : "2022 Spring Chess Classic: Jeffery Xiong Interview | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Elshan Moradiabadi during the 2022 Spring Chess Classic. 2022.03.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-elshan-moradiabadi-interview-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qRbHA8WiYu0.jpg?itok=H8LC8DX-\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-elshan-moradiabadi-interview-round-1",
-         "pubDate" : "Fri, 04 Mar 2022 23:53:04 +0000",
-         "title" : "2022 Spring Chess Classic: Elshan Moradiabadi Interview | Round 1"
       },
       {
          "description" : " <p class=\"lead\">A day of draws in the Grand Prix as Maxime Vachier-Lagrave is the only one to score a victory, producing a first decisive game in Pool D The fourth round of the second leg of the FIDE Grand Prix was mostly calm as seven out of eight games ended in a draw. The only one to win was the World Blitz champion and seasoned top-class player, Maxime Vachier-Lagrave (MVL), who scored an important victory in Pool D, breaking a three-round long cycle of draws in that group. In the overall results, Anish Giri is doing best with 3/5, leading Pool B, followed by five GMs on 2.5 points: Andreikin and Shankland (leaders in Pool A), Rapport and Gujrathi (leaders in Pool C) and MVL, who leads ",
@@ -338,22 +370,6 @@ news_feed (
          "title" : "Indian Championships: Erigaisi and Deshmukh clinch titles"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.06<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5\">https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-5-lichessorg",
-         "pubDate" : "Thu, 03 Mar 2022 23:52:05 +0000",
-         "title" : "2022 Spring Chess Classic: Round 5 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Spring Chess Classic is back! The Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.03<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-2/aIn5OlAW\">https://lichess.org/broadcast/2022-spring-chess-classic/round-2/aIn5OlAW</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Sta",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-2",
-         "pubDate" : "Thu, 03 Mar 2022 23:52:05 +0000",
-         "title" : "2022 Spring Chess Classic: Round 2"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -392,14 +408,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/rapport-beats-vidit-to-co-lead-group-c-while-giri-is-still-a-poi/",
          "pubDate" : "Thu, 03 Mar 2022 17:54:38 +0000",
          "title" : "Rapport beats Vidit to co-lead Group C while Giri is still a point ahead"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.05<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5\">https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-4-lichessorg",
-         "pubDate" : "Thu, 03 Mar 2022 17:51:43 +0000",
-         "title" : "2022 Spring Chess Classic: Round 4 | lichess.org"
       },
       {
          "description" : "Forty-four top Russian chess players published an open letter to the President of the Russian Federation, Vladimir Putin, voicing firm opposition to the war in Ukraine and expressing solidarity with the people of Ukraine. Signees include the most ...",
@@ -2360,14 +2368,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/player-types-the-pragmatic",
          "pubDate" : "Sun, 13 Feb 2022 10:37:00 +0100",
          "title" : "Player Types - The Pragmatic"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1571",
-         "pubDate" : "Sat, 12 Feb 2022 20:37:59 +0000",
-         "title" : "FIDE Grand Prix: Aronian and Nakamura pull ahead"
       }
    ]
 }
