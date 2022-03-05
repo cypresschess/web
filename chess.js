@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Black king on e7, unprotected queen a5 - White's threat in the diagrammed position is obvious, and not even 17...Bb6 could prevent him from making a good catch. Your call!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/exposed",
+         "pubDate" : "Sat, 05 Mar 2022 09:00:00 +0100",
+         "title" : "Exposed"
+      },
+      {
+         "description" : "MPL 46th National Sub Junior Open and Girls Chess Championship 2022 All Top Seeded players with march of Winning in Open 3rd Seeded Bhilva Nilaya",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-46th-national-sub-junior-open-and-girls-chess-championship-2022day-1/",
+         "pubDate" : "Sat, 05 Mar 2022 06:28:21 +0000",
+         "title" : "MPL 46th National Sub Junior Open and Girls Chess Championship 2022:Day 1"
+      },
+      {
          "description" : "The 2022 Bullet Chess Championship presented by DigitalOcean kicked off with some excellent performances by traditional bullet favorites such as GMs Hikaru Nakamura and Daniel Naroditsky, who both convincingly won matches they were heavily favored...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -944,14 +960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1604",
          "pubDate" : "Mon, 28 Feb 2022 17:14:09 +0000",
          "title" : "Parligras and Ciolacu win Romanian Championship"
-      },
-      {
-         "description" : "WGM Divya Deshmukh (MAH) took the sole lead with 5.5 points by defeating her state mate WIM Chitlange Sakshi. The game between the top seed",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-47th-national-women-chess-championship-2022-report-of-round-6-7-wgm-divya-deshmukh-took-the-sole-lead/",
-         "pubDate" : "Mon, 28 Feb 2022 17:06:51 +0000",
-         "title" : "MPL 47th National Women Chess Championship-2022 Report of round-6 & 7 WGM Divya Deshmukh took the Sole lead."
       },
       {
          "description" : "In the Endgame Magic Show #183 Karsten M&uuml;ller presents endgame highlights from the Airthings Masters, the online rapid tournament which World Champion Magnus Carlsen won last Saturday by defeating Ian Nepomniachtchi in the finals. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -2104,14 +2112,6 @@ news_feed (
          "link" : "https://www.thearticle.com/which-marx-played-better-chess-karl-or-groucho/",
          "pubDate" : "Sat, 19 Feb 2022 10:55:56 +0000",
          "title" : "Which Marx played better chess: Karl or Groucho?"
-      },
-      {
-         "description" : "Opposite-coloured bishops favour the attacker - in the diagrammed position it is Black to move, and do you see how Black can exploit the superiority on \"his squares\"?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-surprising-attack",
-         "pubDate" : "Sat, 19 Feb 2022 09:00:00 +0100",
-         "title" : "A surprising attack"
       },
       {
          "description" : "",
