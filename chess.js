@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 18-year-old GM Arjun Erigaisi won the 58th MPL National Senior Championship, and 16-year-old WGM Divya Deshmukh clinched the 47th MPL National Women&#39;s Championship.&#38;nbsp; Scoring 8.5 points out of 11 rounds, Arjun tied for first place with G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-erigaisi-divya-deshmukh-clinch-indian-national-championships",
+         "pubDate" : "Sat, 05 Mar 2022 06:53:00 -0800",
+         "title" : "Arjun Erigaisi, Divya Deshmukh Clinch Indian National Championships"
+      },
+      {
+         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organising a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. The first three games ended in a draw. Game 4 starts Saturday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-match-2",
+         "pubDate" : "Sat, 05 Mar 2022 14:30:00 +0100",
+         "title" : "England vs Sweden Challenge - Game 4 Live!"
+      },
+      {
+         "description" : "Maxime Vachier-Lagrave won a spectacular game in the Najdorf Sicilian to end a run of 7 draws in Pool D of the Belgrade FIDE Grand Prix and take the sole lead. There were missed chances for Yu Yangyi against Shakhriyar Mamedyarov, and for Sam Shankland against Etienne Bacrot, as all the remaining Round 4 games ended in draws, ensuring a tense battle ahead in the final two rounds of the group stages.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/belgrade-grand-prix-4-mvl-breaks-the-deadlock",
+         "pubDate" : "Sat, 05 Mar 2022 13:07:15 +0000",
+         "title" : "Belgrade Grand Prix 4: MVL breaks the deadlock"
+      },
+      {
          "description" : "The Norway Chess and London Chess Classic tournaments as well as the Grand Chess Tour have decided not to invite GM Sergey Karjakin to their tournaments anymore as the Russian GM continues to support Russia&#39;s warfare in Ukraine. Also this week, th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -42,11 +66,11 @@ news_feed (
          "title" : "MPL 46th National Sub Junior Open and Girls Chess Championship 2022:Day 1"
       },
       {
-         "description" : "The 2022 Bullet Chess Championship presented by DigitalOcean kicked off with some excellent performances by traditional bullet favorites such as GMs Hikaru Nakamura and Daniel Naroditsky, who both convincingly won matches they were heavily favored...",
+         "description" : "The 2022 Bullet Chess Championship presented by DigitalOcean kicked off with excellent performances by traditional bullet favorites such as GMs Hikaru Nakamura and Daniel Naroditsky, who both convincingly won matches they were heavily favored in, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/bullet-chess-championship-round-of-16-tang-defeats-caruana-in-thrilling-tiebreak",
-         "pubDate" : "Fri, 04 Mar 2022 18:57:23 -0800",
+         "pubDate" : "Fri, 04 Mar 2022 18:57:00 -0800",
          "title" : "Bullet Chess Championship Round Of 16: Tang Defeats Caruana In Thrilling Tiebreak"
       },
       {
@@ -168,14 +192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
          "pubDate" : "Fri, 04 Mar 2022 19:30:00 +0100",
          "title" : "Saint Louis Spring Classic 2022 - Robson and Hakobyan in the lead"
-      },
-      {
-         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organising a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match will take place from 2 to 12 March and will be played at the Swedish Ambassador's residence in London. The first two games ended in a draw, the third game starts at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-match-2",
-         "pubDate" : "Fri, 04 Mar 2022 17:00:00 +0100",
-         "title" : "England vs Sweden Challenge Match"
       },
       {
          "description" : "\"Never move the queen out early\", runs the old maxim. And yet... In his Power Play Show, GM Daniel King examines two cases from the FIDE Grand Prix tournament in Belgrade where, in the open Sicilian, White plays an early queen move. Neither is ridiculous, at least theoretically... | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -1522,14 +1538,6 @@ news_feed (
          "title" : "Carlsen and Nepomniachtchi set up final"
       },
       {
-         "description" : "FIDE has revealed it will hold an extraordinary meeting to \"review\" all planned official chess events in Russia in response to Russia's invasion of Ukraine. It comes after the world governing body came under intense pressure to strip Russia of its flagship Chess Olympiad - the chess equivalent of the FIFA World Cup - which is due to be held in Moscow this July-August.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-to-review-moscow-olympiad-as-pressure-grow-to-act-on-ukraine-invasion",
-         "pubDate" : "Thu, 24 Feb 2022 18:31:01 +0000",
-         "title" : "FIDE under pressure to strip Russia of Chess Olympiad"
-      },
-      {
          "description" : "The second week of the Collegiate Chess League wrapped up last weekend, and many matches were rescheduled due to numerous colleges traveling to play over-the-board in the regional US Amateur Team events that were also taking place. Many CCL teams ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2088,14 +2096,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/player-types-the-theorist",
          "pubDate" : "Sun, 20 Feb 2022 12:00:00 +0100",
          "title" : "Player Types - The Theorist"
-      },
-      {
-         "description" : "The Airthings Masters, the first leg of the 2022 Meltwater Champions Chess Tour, began on February 19. GM Ding Liren leads after the first day with a score of 10/12, a point ahead of GM Ian Nepomniachtchi, on 9/12, and two points ahead of third-pl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-1",
-         "pubDate" : "Sat, 19 Feb 2022 17:37:00 -0800",
-         "title" : "Airthings Masters Day 1: Ding Leads, Carlsen Falters"
       },
       {
          "description" : "",
