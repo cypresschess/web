@@ -1,4 +1,8 @@
 jtable([
+"SPRING","2022-03-04","22","<a href=http://www.uschess.org/msa/XtblMain.php?202203048202 target=' blank'>THE FRIDAY KNIGHTS</a>",
+"HOUSTON","2022-03-04","9","<a href=http://www.uschess.org/msa/XtblMain.php?202203048192 target=' blank'>F7  SCHOLASTIC BLITZ WARMUP TOURNAM</a>",
+"SUGAR LAND","2022-03-04","11","<a href=http://www.uschess.org/msa/XtblMain.php?202203048182 target=' blank'>FBCC 2022 IN LIKE A LION OPEN</a>",
+"CYPRESS","2022-03-04","18","<a href=http://www.uschess.org/msa/XtblMain.php?202203048112 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2022-02-27","14","<a href=http://www.uschess.org/msa/XtblMain.php?202202276032 target=' blank'>HOUSTON FEB 27 SUNDAY SWISS</a>",
 "HOUSTON","2022-02-26","219","<a href=http://www.uschess.org/msa/XtblMain.php?202202264932 target=' blank'>TCR: TCA REGION V SCHOLASTIC CHAMPIONSHIP</a>",
 "CYPRESS","2022-02-25","8","<a href=http://www.uschess.org/msa/XtblMain.php?202202254712 target=' blank'>A</a>",
@@ -195,8 +199,4 @@ jtable([
 "SPRING","2021-04-16","32","<a href=http://www.uschess.org/msa/XtblMain.php?202104169332 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "KATY","2021-04-10","17","<a href=http://www.uschess.org/msa/XtblMain.php?202104102432 target=' blank'>SR CHESSKNIGHTS 04102021</a>",
 "SPRING","2021-04-09","32","<a href=http://www.uschess.org/msa/XtblMain.php?202104097522 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2021-04-09","6","<a href=http://www.uschess.org/msa/XtblMain.php?202104097512 target=' blank'>FBCC 2021 PRIMAVERA OPEN</a>",
-"SPRING","2021-04-03","5","<a href=http://www.uschess.org/msa/XtblMain.php?202104035972 target=' blank'>THE SATURDAY KNIGHTS</a>",
-"KATY","2021-04-03","12","<a href=http://www.uschess.org/msa/XtblMain.php?202104032412 target=' blank'>SR CHESSKNIGHTS 04032021</a>",
-"LEAGUE CITY","2021-04-03","733","<a href=http://www.uschess.org/msa/XtblMain.php?202104031662 target=' blank'>2021 TEXAS SCHOLASTIC CHESS CHAMPIO</a>",
 ]);
