@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Fide Arbiter &#38; Fide Trainer Seminar held in Shimla &#38; Bangalore from 04-06 March 2022 ends in a high note , find out some",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/dual-seminar-04-06-march-2022-ends-in-a-high-note/",
+         "pubDate" : "Sun, 06 Mar 2022 16:05:47 +0000",
+         "title" : "Dual Seminar (04-06 March 2022) Ends in a high note"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/-v4HgysuUnw?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-round-5/",
+         "pubDate" : "Sun, 06 Mar 2022 14:12:41 +0000",
+         "title" : "FIDE Grand Prix in Belgrade: Round 5"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 69th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to show ideas in the King's Indian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-68-ideas-in-the-king-s-indian-2",
+         "pubDate" : "Sun, 06 Mar 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 69: Ideas in the King's Indian (2)"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
+         "pubDate" : "Sun, 06 Mar 2022 14:55:00 +0100",
+         "title" : "Belgrade Grand Prix - Live!"
+      },
+      {
+         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. After three draws, Howell took the lead by scoring an 83-move win on Saturday. Game 4 starts Sunday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-match-2",
+         "pubDate" : "Sun, 06 Mar 2022 14:30:00 +0100",
+         "title" : "England vs Sweden Challenge - Game 5 Live!"
+      },
+      {
          "description" : " For no particular reason I decided to see what was opening in the Bundesliga, which is running as I speak. Almost all the games were still in the opening stage, and yet one game was already finished. At first I thought it was a forfeit, or even worse, a mobile phone default, but instead it was just a misplayed opening that was quickly punished. White didn't play any outright blunders (in the usual sense), but every move seemed to make the position worse. Realising that f2 was about fall, White decided that they had seen enough. <br /> <b>Pitl,Jarno (1988) - Wegerle,Joerg (2404) [A04]</b><br />Schachbundesliga chess24.com (2.8), 06.03.2022 <script>new PgnViewer( { boardName: \"game1315\", move",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -106,12 +146,12 @@ news_feed (
          "title" : "Second season of FIDE Chessable Academy starts on Chessable Classroom"
       },
       {
-         "description" : "Aram Hakobyan took down former sole leader Jeffery Xiong in round 3 to climb to shared first place. Joining Hakobyan is Ray Robson, who got the better of Kamil Dragun to go into the fourth round with a 2&frac12;/3 score. | Replay the games with computer analysis. Round 4 starts Saturday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center.",
+         "description" : "Aram Hakobyan and Ray Robson are leading the standings after four rounds. Three players stand a half point back, including Hans Niemann and Ilya Nyzhnyk, who got full points with white on Saturday. | Replay the games with computer analysis. Round 4 starts Saturday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
          "pubDate" : "Sat, 05 Mar 2022 19:45:00 +0100",
-         "title" : "Saint Louis Spring Classic 2022 - Live!"
+         "title" : "Saint Louis Spring Classic 2022 - Niemann and Nyzhnyk score"
       },
       {
          "description" : " The Bundesliga 2021-22 season takes place Sat 5th Mar to Sun 10th Jul 2022. This accelerated German Bundesliga season will take just four months to complete. There are 16 teams and Baden Baden will again be favourites to win the title.",
@@ -136,14 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/arjun-erigaisi-divya-deshmukh-clinch-indian-national-championships",
          "pubDate" : "Sat, 05 Mar 2022 06:53:00 -0800",
          "title" : "Arjun Erigaisi, Divya Deshmukh Clinch Indian National Championships"
-      },
-      {
-         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. After three draws, Howell took the lead by scoring an 83-move win on Saturday. Game 4 starts Sunday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-match-2",
-         "pubDate" : "Sat, 05 Mar 2022 14:30:00 +0100",
-         "title" : "England vs Sweden Challenge - Howell takes the lead"
       },
       {
          "description" : "Maxime Vachier-Lagrave won a spectacular game in the Najdorf Sicilian to end a run of 7 draws in Pool D of the Belgrade FIDE Grand Prix and take the sole lead. There were missed chances for Yu Yangyi against Shakhriyar Mamedyarov, and for Sam Shankland against Etienne Bacrot, as all the remaining Round 4 games ended in draws, ensuring a tense battle ahead in the final two rounds of the group stages.",
@@ -272,14 +304,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/ecu-suspends-russia-and-belarus/",
          "pubDate" : "Fri, 04 Mar 2022 15:36:58 +0100",
          "title" : "ECU suspends Russia and Belarus"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
-         "pubDate" : "Fri, 04 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix - Games and results"
       },
       {
          "description" : "The highlight of day 3 at the FIDE Grand Prix in Belgrade was Richard Rapport's victory over Vidit Gujrathi. The Hungarian thus caught his round-3 opponent in the lead of pool C. The one other decisive result on Thursday was seen in the same group, as Vladimir Fedoseev got the better of Alexei Shirov. Anish Giri played a remarkable queen sacrifice against Pentala Harikrishna - the game finished in a draw. | Photos: Mark Livshitz",
@@ -904,14 +928,6 @@ news_feed (
          "link" : "https://aicf.in/mpl-47-th-national-women-chess-championship-2022-report-of-round-8/",
          "pubDate" : "Tue, 01 Mar 2022 12:51:37 +0000",
          "title" : "MPL 47 th National Women Chess Championship-2022 Report of round-8"
-      },
-      {
-         "description" : "All India Chess Federation wishes a very happy birthday to sports loving Chief Minister of Tamil Nadu Thiru M K Stalin. Many congratulations Sir!!",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/happy-birthday-thiru-m-k-stalin/",
-         "pubDate" : "Tue, 01 Mar 2022 12:50:41 +0000",
-         "title" : "Happy Birthday Thiru M K Stalin"
       },
       {
          "description" : "FIDE has issued a statement condemning Russia's attack on Ukraine, terminating all sponsorship contracts with Russian companies and excluding Russia and Belarus as venues for FIDE tournaments. This also affects the 2022 Chess Olympiad. The Indian Chess Federation is now offering to host the event at short notice.",
@@ -1826,14 +1842,6 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (54)"
       },
       {
-         "description" : " <p class=\"lead\">On Day 2 of the <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> the 16-year-old Indian chess prodigy Rameshbabu Praggnanandaa beat Carlsen and became the headline in major international media. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-02-22-at-4.53.21-PM.png\" width=\"2120\" height=\"1412\" alt=\"\" /> <div class=\"e2-text-caption\">Indian chess prodigy Rameshbabu Praggnanandhaa poses for a photograph on his arrival at an airport in Chennai after becoming the world's second youngest chess grandmaster ever [File: Arun Sankar/AFP]</div> </div> The moment Pragg took down the World Champion he became the young",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/16-year-old-rameshbabu-praggnanandaa-hit-the-headlines-overnight/",
-         "pubDate" : "Tue, 22 Feb 2022 14:54:48 +0000",
-         "title" : "16-year-old Rameshbabu Praggnanandaa hit the headlines overnight"
-      },
-      {
          "description" : "Today, the German chess historian Michael Negele celebrates his 65th birthday! Negele published widely about a variety of topics but his main focus was and is the life and work of Emanuel Lasker, and he was one of the driving forces in editing an extensive three-volume biography about the German World Champion. | Photos: German Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2088,14 +2096,6 @@ news_feed (
          "link" : "https://chessimprover.com/abram-khasin-1923-2022/",
          "pubDate" : "Sun, 20 Feb 2022 14:04:22 +0000",
          "title" : "Abram Khasin (1923-2022)"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 67th instalment of his ChessBase show \"Understanding before Moving\", Herman reveals why it is important to play against strong opponents to improve and shows how important it is to keep a flexible mindset. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-67-changing-sides",
-         "pubDate" : "Sun, 20 Feb 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 67: Changing sides"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89706014.cms\" />The Airthings Masters kicked off the new 2022 Meltwater Champions Chess Tour season with a day of drama that saw Magnus Carlsen suffer a nightmare start to the defence of his crown on Saturday. Magnus began the $1.6 million Tour with a regulation clean win over last year's breakout star Vladislav Artemiev in Round 1. ",
