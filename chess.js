@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Round 5 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 in Belgrade</a> ended with Rapport winning against Vidit and taking the lead of Group C, while all the other standings stayed the same. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51921950051_ded83e6e29_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: Mark Livshitz / FIDE</div> </div> Round 5 started with the ACP President and FIDE Councilor GM Aleksandar Colovic making the ceremonial first move on the board of the Shankland - Andreikin game. This game was also the first result of the day with the two co-leaders of <b>Group A<",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/rapport-wins-against-vidit-and-takes-the-lead-of-group-c/",
+         "pubDate" : "Sun, 06 Mar 2022 19:03:14 +0000",
+         "title" : "Rapport wins against Vidit and takes the lead of Group C"
+      },
+      {
+         "description" : "In the opening rounds of the Belgrade Grand Prix there were two splendid instances of defensive queen sacrifices. These remarkable efforts set Jon Speelman thinking about defence in general. He thus turned to one of his favourite books, The Middlegame by Max Euwe and Hans Kramer, and cherry-picked a couple of games from the chapters on Steinitz and Lasker. | Pictured: Emanuel Lasker / Collection of the World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-165",
+         "pubDate" : "Sun, 06 Mar 2022 20:00:00 +0100",
+         "title" : "Inspired defence"
+      },
+      {
+         "description" : "Aram Hakobyan and Ray Robson are leading the standings after four rounds. Three players stand a half point back, including Hans Niemann and Ilya Nyzhnyk, who both got full points with the white pieces on Saturday. | Replay the games with computer analysis. Round 5 starts Sunday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
+         "pubDate" : "Sun, 06 Mar 2022 19:45:00 +0100",
+         "title" : "Saint Louis Spring Classic 2022 - Live!"
+      },
+      {
+         "description" : "The ECF Board confirms that individual players and officials with a Russian or Belarusian FIDE registration will be excluded from all ECF-organised competitions until further notice. The ECF Board urges...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ukraine-statement-update/",
+         "pubDate" : "Sun, 06 Mar 2022 18:22:47 +0000",
+         "title" : "Ukraine - statement update"
+      },
+      {
+         "description" : " Sixty or so years ago, the pioneering books of Raymond Bott and Stanley Morrison played an important role in the popularisation of chess amongst primary school children. Their first book, Chess for Children, was so popular that a follow-up, The Chess Apprentice (later retitled More Chess for Children) was also published. They were outstanding books <a href=\"https://chessimprover.com/chess-apprentice/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Apprentice\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-apprentice/\">Chess Apprentice</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-apprentice/",
+         "pubDate" : "Sun, 06 Mar 2022 17:24:22 +0000",
+         "title" : "Chess Apprentice"
+      },
+      {
+         "description" : "Rating favourite Arjun Erigaisi won the MPL 58th National Senior Chess Championship 2022, which took place from February 25 to March 3 in the city of Kanpur. Arjun edged past D Gukesh and Iniyan P on tiebreaks. All three of them scored 8&frac12;/11 points. Only four players younger than Arjun have won the National Senior title in Indian chess history. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arjun-erigaisi-wins-indian-national-championship-2022",
+         "pubDate" : "Sun, 06 Mar 2022 18:00:00 +0100",
+         "title" : "Arjun Erigaisi wins Indian National Championship"
+      },
+      {
          "description" : "The Fide Arbiter &#38; Fide Trainer Seminar held in Shimla &#38; Bangalore from 04-06 March 2022 ends in a high note , find out some",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -144,14 +192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1617",
          "pubDate" : "Sat, 05 Mar 2022 20:21:08 +0000",
          "title" : "Second season of FIDE Chessable Academy starts on Chessable Classroom"
-      },
-      {
-         "description" : "Aram Hakobyan and Ray Robson are leading the standings after four rounds. Three players stand a half point back, including Hans Niemann and Ilya Nyzhnyk, who got full points with white on Saturday. | Replay the games with computer analysis. Round 4 starts Saturday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
-         "pubDate" : "Sat, 05 Mar 2022 19:45:00 +0100",
-         "title" : "Saint Louis Spring Classic 2022 - Niemann and Nyzhnyk score"
       },
       {
          "description" : " The Bundesliga 2021-22 season takes place Sat 5th Mar to Sun 10th Jul 2022. This accelerated German Bundesliga season will take just four months to complete. There are 16 teams and Baden Baden will again be favourites to win the title.",
@@ -1738,14 +1778,6 @@ news_feed (
          "title" : "New ECF Manager of Arbiters"
       },
       {
-         "description" : " <p class=\"lead\">The <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> reached the quarterfinals with the Top8 players of the tour. Magnus Carlsen managed to save a spot despite his poor performance, while Nepomniachtchi was crowned the king of the prelim stage. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-02-23-at-3.57.30-PM.png\" width=\"2350\" height=\"1476\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Niki Riga / World Chess</div> </div> Russia's No.1 Ian Nepomniachtchi has had an excellent tour so far, scoring 29 points and moving to the quarterfinals with ease against the German GM Vincent Keymer. Keymer made quite ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nepomniachtchi-was-crowned-the-king-of-the-prelim-stage-of-the-c/",
-         "pubDate" : "Wed, 23 Feb 2022 13:59:27 +0000",
-         "title" : "Nepomniachtchi was crowned the king of the prelim stage of the Champions Chess Tour 2022"
-      },
-      {
          "description" : " Here are the latest two videos from The Master Chess Web Show in which Andrew and I look at some more great games. Since last week we've also put a web site up where viewers can send in questions in questions via the contact form. After next week we'll be running three shows a week, <a href=\"https://chessimprover.com/the-master-chess-web-show-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Master Chess Web Show (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-master-chess-web-show-2/\">The Master Chess Web Show (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1978,14 +2010,6 @@ news_feed (
          "title" : "Airthings Masters: Nepo grabs the lead"
       },
       {
-         "description" : "In an exclusive interview with Tatiana Flores, Carissa Yip talks about her chess career, her studies, some of her most important games, memorable chess moments, and shares her chess schedule for this year! | Photo: Austin Fuller (Saint Louis Chess Club)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/an-interview-with-carissa-yip",
-         "pubDate" : "Mon, 21 Feb 2022 12:47:49 +0100",
-         "title" : "An interview with Carissa Yip"
-      },
-      {
          "description" : "The 16-year-old beat Carlsen at the Airthings Masters, a 16-player online rapid tournament.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -2072,14 +2096,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/20/black-history-month-2022-day-20-afro-latino-chess/",
          "pubDate" : "Sun, 20 Feb 2022 20:13:35 +0000",
          "title" : "Black History Month 2022-Day 20: Afro-Latino Chess"
-      },
-      {
-         "description" : "Star columnist Jon Speelman continues to link chess positions with Monty Python sketches. Readers pitched in with further suggestions, and in particular one noted the unexpected absence of the expectedly 'Unexpected Spanish Inquisition'!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-164",
-         "pubDate" : "Sun, 20 Feb 2022 18:25:00 +0100",
-         "title" : "Christmas knights"
       },
       {
          "description" : "GM Fabiano Caruana won the knockout phase of week two of the 2022 Rapid Chess Championship tournament presented by Coinbase. GM Hikaru Nakamura finished second in the knockout&#38;mdash;after taking first in the preliminary Swiss tournament, like GM A...",
@@ -2272,14 +2288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1579",
          "pubDate" : "Tue, 15 Feb 2022 22:40:53 +0000",
          "title" : "Exciting chess in the FIDE Grand Prix Berlin final"
-      },
-      {
-         "description" : " &#8220;A dream becomes a goal when action is taken toward its achievement&#8221; Bo Bennett (businessman) This variation can be unleashed against unsuspected players who like to use the Fried Liver attack. This is the most likely to happen at club level. It is at that level when many see it being played often. Players learn <a href=\"https://chessimprover.com/need-sure-points-two-knights-defence-traxler-wilkes-barre-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Two Knights Defence, Traxler Wilkes-Barre Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-two-knights-defence-traxl",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-two-knights-defence-traxler-wilkes-barre-variation-edition/",
-         "pubDate" : "Tue, 15 Feb 2022 18:10:25 +0000",
-         "title" : "Need sure points? Two Knights Defence, Traxler Wilkes-Barre Variation Edition"
       },
       {
          "description" : "For the first time since 2013, we have two WIM Invitational Women's Norm tournaments in London on 7th-11th April 2022. ECF Women's Norm Event 2022 organised by Agnieszka Milewska, the...",
