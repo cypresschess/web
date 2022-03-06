@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " For no particular reason I decided to see what was opening in the Bundesliga, which is running as I speak. Almost all the games were still in the opening stage, and yet one game was already finished. At first I thought it was a forfeit, or even worse, a mobile phone default, but instead it was just a misplayed opening that was quickly punished. White didn't play any outright blunders (in the usual sense), but every move seemed to make the position worse. Realising that f2 was about fall, White decided that they had seen enough. <br /> <b>Pitl,Jarno (1988) - Wegerle,Joerg (2404) [A04]</b><br />Schachbundesliga chess24.com (2.8), 06.03.2022 <script>new PgnViewer( { boardName: \"game1315\", move",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/a-curious-miniature.html",
+         "pubDate" : "Sun, 06 Mar 2022 10:44:00 +0000",
+         "title" : "A curious miniature "
+      },
+      {
          "description" : "The third seed player Harshad S of Tamil Nadu held for draw by lower rated Paarth Salvi of Goa. They both played a marathon game",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2352,22 +2360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1572",
          "pubDate" : "Sun, 13 Feb 2022 21:51:13 +0000",
          "title" : "FIDE Grand Prix Berlin final: Aronian vs Nakamura"
-      },
-      {
-         "description" : " 100 Chess Maxims (by C.D. Locock) has a number of interesting pieces of advice for new (and experienced) players. The issue I have was published prior to 1933 (based on the note by the original owner on the inside cover, and a clipping from the Daily Telegraph dated July 24 1933, which came with the book) Last last set of tips are headed \"How to improve\" and contain the following advice 95. Play, if possible, with players rather better than yourself. Write down your games and play them over afterwards, preferably with your opponent, and try to find out how your play could have been improved. Play consultation games when you get the chance.<br /><br />96. Play through the games (beginning wi",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/how-to-improve.html",
-         "pubDate" : "Sun, 13 Feb 2022 12:23:00 +0000",
-         "title" : "How to improve"
-      },
-      {
-         "description" : "The Grandmasters Dr. Karsten Mueller and Luis Engel have set a ball rolling in Germany with their latest Fritztrainer. GM Lars Bo Hansen designed the four-player model in 2005, and was perhaps ahead of his time. In the 5-part interview with Dr. Karsten Mueller, all four player types are discussed in detail. Today - The Pragmatic.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/player-types-the-pragmatic",
-         "pubDate" : "Sun, 13 Feb 2022 10:37:00 +0100",
-         "title" : "Player Types - The Pragmatic"
       }
    ]
 }
