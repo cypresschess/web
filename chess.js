@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.05<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-4/AVUnwupv\">https://lichess.org/broadcast/2022-spring-chess-classic/round-4/AVUnwupv</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-4",
+         "pubDate" : "Sat, 05 Mar 2022 23:53:48 +0000",
+         "title" : "2022 Spring Chess Classic: Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Chris Repka during the 2022 Spring Chess Classic. 2022.03.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-chris-repka-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/l3bh27UUPZI.jpg?itok=S_ULKbso\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-chris-repka-interview-round-4",
+         "pubDate" : "Sat, 05 Mar 2022 23:53:48 +0000",
+         "title" : "2022 Spring Chess Classic: Chris Repka Interview | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Illya Nyzhnyk during the 2022 Spring Chess Classic. 2022.03.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-illya-nyzhnyk-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-8H3VuPU5V0.jpg?itok=KT3HWq7J\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-illya-nyzhnyk-interview-round-4",
+         "pubDate" : "Sat, 05 Mar 2022 23:53:48 +0000",
+         "title" : "2022 Spring Chess Classic: Illya Nyzhnyk Interview | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Abhimanyu Mishra during the 2022 Spring Chess Classic. 2022.03.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-abhi-mishra-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/53IhS5LJ-gg.jpg?itok=IkRBN-oh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-abhi-mishra-interview-round-4",
+         "pubDate" : "Sat, 05 Mar 2022 23:53:48 +0000",
+         "title" : "2022 Spring Chess Classic: Abhi Mishra Interview | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Christopher Yoo during the 2022 Spring Chess Classic. 2022.03.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-christopher-yoo-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PPaZ82C4x1I.jpg?itok=jgOsfFQX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-christopher-yoo-interview-round-4",
+         "pubDate" : "Sat, 05 Mar 2022 23:53:48 +0000",
+         "title" : "2022 Spring Chess Classic: Christopher Yoo Interview | Round 4"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Aram Hakobyan during the 2022 Spring Chess Classic. 2022.03.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-aram-hakobyan-interview-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mtRNjkG7AYI.jpg?itok=06kWAaHv\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -144,46 +184,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bullet-chess-championship-round-of-16-tang-defeats-caruana-in-thrilling-tiebreak",
          "pubDate" : "Fri, 04 Mar 2022 18:57:00 -0800",
          "title" : "Bullet Chess Championship Round Of 16: Tang Defeats Caruana In Thrilling Tiebreak"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.04<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-3/JC4nQJbi\">https://lichess.org/broadcast/2022-spring-chess-classic/round-3/JC4nQJbi</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-3",
-         "pubDate" : "Sat, 05 Mar 2022 02:53:06 +0000",
-         "title" : "2022 Spring Chess Classic: Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to JJ Ali Marandi during the 2022 Spring Chess Classic. 2022.03.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-jj-ali-marandi-interview-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/s6K1Vu_SkDk.jpg?itok=ZbL7EfKz\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-jj-ali-marandi-interview-round-2",
-         "pubDate" : "Sat, 05 Mar 2022 02:53:06 +0000",
-         "title" : "2022 Spring Chess Classic: JJ Ali Marandi Interview | Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.07<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5\">https://lichess.org/broadcast/2022-spring-chess-classic/round-1/Srk2X2w5</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-6-lichessorg",
-         "pubDate" : "Fri, 04 Mar 2022 23:53:04 +0000",
-         "title" : "2022 Spring Chess Classic: Round 6 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Chris Repka during the 2022 Spring Chess Classic. 2022.03.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-chris-repka-interview-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QllCBdeys_U.jpg?itok=q3lzvtdM\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-chris-repka-interview-round-1",
-         "pubDate" : "Fri, 04 Mar 2022 23:53:04 +0000",
-         "title" : "2022 Spring Chess Classic: Chris Repka Interview | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Fabiano Caruana during the 2022 Spring Chess Classic. 2022.03.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-fabiano-caruana-interview-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DU4uAv3f4k0.jpg?itok=Mo4HUAOj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-fabiano-caruana-interview-round-1",
-         "pubDate" : "Fri, 04 Mar 2022 23:53:04 +0000",
-         "title" : "2022 Spring Chess Classic: Fabiano Caruana Interview | Round 1"
       },
       {
          "description" : " <p class=\"lead\">A day of draws in the Grand Prix as Maxime Vachier-Lagrave is the only one to score a victory, producing a first decisive game in Pool D The fourth round of the second leg of the FIDE Grand Prix was mostly calm as seven out of eight games ended in a draw. The only one to win was the World Blitz champion and seasoned top-class player, Maxime Vachier-Lagrave (MVL), who scored an important victory in Pool D, breaking a three-round long cycle of draws in that group. In the overall results, Anish Giri is doing best with 3/5, leading Pool B, followed by five GMs on 2.5 points: Andreikin and Shankland (leaders in Pool A), Rapport and Gujrathi (leaders in Pool C) and MVL, who leads ",
