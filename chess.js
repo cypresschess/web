@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third seed player Harshad S of Tamil Nadu held for draw by lower rated Paarth Salvi of Goa. They both played a marathon game",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-46th-national-sub-junior-open-and-girls-chess-championship-2022-3rd-seed-harshad-s-of-tamil-nadu-held-for-draw-by-paarth-salvi-of-goa/",
+         "pubDate" : "Sun, 06 Mar 2022 07:49:55 +0000",
+         "title" : "MPL 46th National Sub Junior Open and Girls Chess Championship 2022 3rd Seed Harshad S of Tamil Nadu held for draw by Paarth Salvi of Goa"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.05<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-4/AVUnwupv\">https://lichess.org/broadcast/2022-spring-chess-classic/round-4/AVUnwupv</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/st-louis-spring-chess-classic-2022",
          "pubDate" : "Tue, 1 Mar 2022 16:16:00 +0400",
          "title" : "St Louis Spring Chess Classic 2022 - Games and Results"
-      },
-      {
-         "description" : "Kanpur (01 Mar 22) :- The MPL 58th Senior National Chess Championship at Ganges Club, Kanpur heading for an exciting finish as five players are now",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022-five-share-lead-senior-nationals-heading-for-an-exciting-finish/",
-         "pubDate" : "Tue, 01 Mar 2022 12:07:05 +0000",
-         "title" : "MPL 58th Senior National Chess Championship-2022 : Five share lead; Senior Nationals heading for an exciting finish"
       },
       {
          "description" : " The England vs. Sweden Challenge Match is a classical match between David Howell and Nils Grandelius which takes place in London Wed 2nd Mar to Sat 12th Mar 2022. The match is over two classical time controls 120 minutes + 30 minutes plus 30 seconds a move and then the second half will have 90 minutes instead of 120 minutes to start. The event is being staged as part of the 30th anniversary celebrations of the founding of the London Chess Centre and the relaunching of CHESS Magazine. The match will be held at the Residence of Sweden's Ambassador to the United Kingdom Mikaela Kumlin Granit.",
