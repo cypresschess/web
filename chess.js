@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Round 6 of the FIDE Grand Prix 2022 in Belgrade ended with Richard Rapport, Dmitry Andreikin, Anish Giri, and Maxime Vachier-Lagrave being the semifinalists of Pool A, B, C and D. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.4992679355783\"> <img src=\"https://worldchess.com/news/pictures/51923374422_057cd31cb9_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51924330324_8cc965be03_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51924687159_bea6e42f6a_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51924689029_4b",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/andreikin-giri-rapport-and-mvl-are-fide-grand-prix-semifinalists/",
+         "pubDate" : "Mon, 07 Mar 2022 19:45:27 +0000",
+         "title" : "Andreikin, Giri, Rapport and MVL Are FIDE Grand Prix Semifinalists"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1621",
+         "pubDate" : "Mon, 07 Mar 2022 19:00:21 +0000",
+         "title" : "Dominican Championships: Arvelo and Rosario Almanzar claim titles"
+      },
+      {
+         "description" : "Ray Robson defeated Mikhail Antipov in round 5 to grab the sole lead in the A group. Ilya Nyzhnyk and Aram Hakobyan stand a half point back. | Replay the games with computer analysis. Round 6 starts Monday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
+         "pubDate" : "Mon, 07 Mar 2022 19:45:00 +0100",
+         "title" : "Saint Louis Spring Classic 2022 - Robson in the lead"
+      },
+      {
+         "description" : "In the Endgame Magic Show #184 Karsten M&uuml;ller presents endgame highlights from the FIDE Grand Prix in Berlin, which was won by Hikaru Nakamura. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-184-endgame-highlights-from-the-fide-grand-prix-in-berlin",
+         "pubDate" : "Mon, 07 Mar 2022 18:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic Show #184: Endgame highlights from the FIDE Grand Prix in Berlin"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong>, <strong>chess24</strong> and prominent female players <a href=\"https://www.fide.com/news/1620\">join forces for a fundraising stream</a> from 17.00 CET this Tuesday, the <strong>International Women's Day</strong>, with proceeds going to Ukraine. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/womens-day-fundraiser-for-ukraine/",
+         "pubDate" : "Mon, 07 Mar 2022 17:39:10 +0100",
+         "title" : "Women's Day fundraiser for Ukraine"
+      },
+      {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Nb3gqx7huNs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -184,14 +224,6 @@ news_feed (
          "link" : "https://aicf.in/dual-seminar-04-06-march-2022-ends-in-a-high-note/",
          "pubDate" : "Sun, 06 Mar 2022 16:05:47 +0000",
          "title" : "Dual Seminar (04-06 March 2022) Ends in a high note"
-      },
-      {
-         "description" : "Ray Robson defeated Mikhail Antipov in round 5 to grab the sole lead in the A group. Ilya Nyzhnyk and Aram Hakobyan stand a half point back. | Replay the games with computer analysis. Round 6 starts Monday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
-         "pubDate" : "Sun, 06 Mar 2022 17:00:00 +0100",
-         "title" : "Saint Louis Spring Classic 2022 - Robson in the lead"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/-v4HgysuUnw?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -378,7 +410,7 @@ news_feed (
          "title" : "Bullet Chess Championship Round Of 16: Tang Defeats Caruana In Thrilling Tiebreak"
       },
       {
-         "description" : " <p class=\"lead\">A day of draws in the Grand Prix as Maxime Vachier-Lagrave is the only one to score a victory, producing a first decisive game in Pool D The fourth round of the second leg of the FIDE Grand Prix was mostly calm as seven out of eight games ended in a draw. The only one to win was the World Blitz champion and seasoned top-class player, Maxime Vachier-Lagrave (MVL), who scored an important victory in Pool D, breaking a three-round long cycle of draws in that group. In the overall results, Anish Giri is doing best with 3/5, leading Pool B, followed by five GMs on 2.5 points: Andreikin and Shankland (leaders in Pool A), Rapport and Gujrathi (leaders in Pool C) and MVL, who leads ",
+         "description" : " <p class=\"lead\">A day of draws in the Grand Prix as Maxime Vachier-Lagrave is the only one to score a victory, producing a first decisive game in Pool D <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-05_00-34-17.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> The fourth round of the second leg of the FIDE Grand Prix was mostly calm as seven out of eight games ended in a draw. The only one to win was the World Blitz champion and seasoned top-class player, Maxime Vachier-Lagrave (MVL), who scored an important victory in Pool D, breaking a three-round long cycle of draws in that group. In the overall results, Anish Giri is doing best with 3/5, leadin",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/fide-grand-prix-belgrade-round-4-recap/",
@@ -874,14 +906,6 @@ news_feed (
          "title" : "5 Key Lessons I learned In My First Year Playing Chess"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> <a href=\"https://www.fide.com/news/1608\">postponed</a> the <strong>Men's World Team Championship</strong> in Jerusalem from April to November because Ukraine couldn't play and Russia shouldn't play. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/world-teams-postponed/",
-         "pubDate" : "Wed, 02 Mar 2022 15:51:04 +0100",
-         "title" : "World Teams postponed"
-      },
-      {
          "description" : "Kanpur (02 Mar 22) :- Tamil Nadu Grandmaster D Gukesh defeated former national champion Abhijeet Gupta of the PSPB in the penultimate round to catch",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1352,14 +1376,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/full-speed-against-the-reti",
          "pubDate" : "Sun, 27 Feb 2022 13:00:00 +0100",
          "title" : "Full speed against the Reti!"
-      },
-      {
-         "description" : " <p class=\"lead\">The <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> ended after an epic final. The World Champion Magnus Carlsen won the Tour against the 2021 Challenger Ian Nepomniaachtchi, despite his grim start of the tournament. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51716045090_01ce17506c_k-(1).jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen / FIDE</div> </div> <a href=\"https://worldchess.com/news/all/carlsen-loses-to-esipenko-and-nepomniachtchi-on-day-1-of-the-cha/\">Day 1 of the Tour</a> was not so promising for Carlsen and certainly couldn't foreshadow his advance to the finals.",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/carlsen-is-the-winner-of-the-champions-chess-our-2022/",
-         "pubDate" : "Sun, 27 Feb 2022 10:40:46 +0000",
-         "title" : "Carlsen is the winner of the Champions Chess Tour 2022"
       },
       {
          "description" : "World Chess Champion Magnus Carlsen has won the first event on the $1.6 million 2022 Meltwater Champions Chess after defeating Ian Nepomniachtchi with a game to spare on the 2nd day of the final. It was a repeat of the Dubai World Chess Championship match as five hard-fought draws were followed by a victory for Magnus in Game 6. Nepo had chances of hitting back in the next game but instead he went from winning to lost in the space of a few moves. Magnus said his next event will likely be the next Tour event, starting March 19th.",
@@ -1984,14 +2000,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/2022-o2c-doeberl-cup-7-weeks-out.html",
          "pubDate" : "Tue, 22 Feb 2022 12:58:00 +0000",
          "title" : "2022 O2C Doeberl Cup - 7 weeks out"
-      },
-      {
-         "description" : "The Master Section of the 13th Annual Southwest Class Championships, February 17-21, ended in a tie for first between International Masters Christopher Yoo and Zurab Javakhadze, with 7.5 out of 9. Woman International Master Alice Lee made an International Master norm. Alexey Root reports from Fort Worth, Texas. | Photo: Courtesy of the Lee family",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/yoo-javakhadze-are-chess-winners-international-master-norm-for-lee",
-         "pubDate" : "Tue, 22 Feb 2022 13:00:00 +0100",
-         "title" : "Yoo, Javakhadze are Chess Winners, International Master Norm for Lee"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89748951.cms\" />It was a hobby acquired from his sister but R Praggnanandhaa made chess his life's calling pretty early on, picking up the nuances of the game at an age when most kids are classified as toddlers.",
