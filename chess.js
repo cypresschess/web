@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Top 2 seeded players of open section IM Pranav V and IM Pranesh M both from Tamil Nadu jointly share the lead 5 points each.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-46th-national-sub-junior-open-and-girls-chess-championship-2022report/",
+         "pubDate" : "Mon, 07 Mar 2022 12:27:01 +0000",
+         "title" : "MPL 46th National Sub Junior Open and Girls Chess Championship 2022:Report"
+      },
+      {
+         "description" : "To my astonishment, not to mention extreme admiration, forty-four of Russia's leading chess Grandmasters, including last year's world title challenger Ian Nepomniachtchi and the top female player Alexandra Kosteniuk (pictured above), have written an open letter to President Putin denouncing his war against Ukraine. These bold paragons of the chess community are thereby risking not []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/red-letter-day-how-russian-chess-defied-putin/",
+         "pubDate" : "Mon, 07 Mar 2022 12:00:53 +0000",
+         "title" : "Red letter day: how Russian chess defied Putin"
+      },
+      {
+         "description" : "Richard Rapport gambled and won in Round 5 of the Belgrade FIDE Grand Prix as he defeated Vidit to take a one-point lead in Pool C going into the final round. Vladimir Fedoseev was knocked out of contention by Alexei Shirov, whose fine attacking win was the day's only other decisive game. The draws meant that Anish Giri is also only a draw away from guaranteeing a semi-final place, while Maxime Vachier-Lagrave continues to lead in Pool D. Dmitry Andreikin, Sam Shankland and Etienne Bacrot are all still in the hunt in Pool A.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/belgrade-grand-prix-5-rapport-giri-on-verge-of-semis",
+         "pubDate" : "Mon, 07 Mar 2022 11:24:52 +0000",
+         "title" : "Belgrade GP 5: Rapport & Giri on verge of semis"
+      },
+      {
+         "description" : "For those who haven't recently done any calculation training, there is the Calculation Training Booster. After all, every chess brain needs regular stimulation, as you don't want to become a lazy player - avoiding calculating critical variations or simply failing to calculate properly.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-robert-ris-calculation-training-booster",
+         "pubDate" : "Mon, 07 Mar 2022 12:00:00 +0100",
+         "title" : "New - Robert Ris: Calculation Training Booster"
+      },
+      {
+         "description" : "Richard Rapport and Anish Giri will enter the last round of the preliminaries at the Belgrade Grand Prix with 1-point leads in their respective pools. Rapport scored a crucial win on Sunday, as he got the better of Vidit Gujrathi with the black pieces. In the same group, Alexei Shirov obtained his first win of the series by beating Vladimir Fedoseev in a sharp encounter. | Photos: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-r5",
+         "pubDate" : "Mon, 07 Mar 2022 11:15:00 +0100",
+         "title" : "Belgrade GP: Fire on board"
+      },
+      {
          "description" : "GM Levon Aronian won the fourth week of the 2022 Rapid Chess Championship tournament presented by Coinbase.&#38;nbsp;Last week&#39;s winner, GM Fabiano Caruana, finished second. GM Hikaru Nakamura finished first in the preliminary Swiss tournament but fel...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -82,14 +122,6 @@ news_feed (
          "title" : "Inspired defence"
       },
       {
-         "description" : "Aram Hakobyan and Ray Robson are leading the standings after four rounds. Three players stand a half point back, including Hans Niemann and Ilya Nyzhnyk, who both got full points with the white pieces on Saturday. | Replay the games with computer analysis. Round 5 starts Sunday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
-         "pubDate" : "Sun, 06 Mar 2022 19:45:00 +0100",
-         "title" : "Saint Louis Spring Classic 2022 - Live!"
-      },
-      {
          "description" : "The ECF Board confirms that individual players and officials with a Russian or Belarusian FIDE registration will be excluded from all ECF-organised competitions until further notice. The ECF Board urges...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -122,6 +154,14 @@ news_feed (
          "title" : "Dual Seminar (04-06 March 2022) Ends in a high note"
       },
       {
+         "description" : "Ray Robson defeated Mikhail Antipov in round 5 to grab the sole lead in the A group. Ilya Nyzhnyk and Aram Hakobyan stand a half point back. | Replay the games with computer analysis. Round 6 starts Monday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
+         "pubDate" : "Sun, 06 Mar 2022 17:00:00 +0100",
+         "title" : "Saint Louis Spring Classic 2022 - Robson in the lead"
+      },
+      {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/-v4HgysuUnw?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -136,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-68-ideas-in-the-king-s-indian-2",
          "pubDate" : "Sun, 06 Mar 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 69: Ideas in the King's Indian (2)"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
-         "pubDate" : "Sun, 06 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix - Games and results"
       },
       {
          "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. Howell managed to keep the lead in a lengthy game 5 on Sunday. After a rest day, game 6 will be played Tuesday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
@@ -1002,14 +1034,6 @@ news_feed (
          "title" : "Senior national chess: Five players share lead"
       },
       {
-         "description" : "One round to spare in the MPL 47th National Women Chess Championship WGM Divya Deshmukh continues the winning spree with 7.5 points here at International",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-47-th-national-women-chess-championship-2022-report-of-round-8/",
-         "pubDate" : "Tue, 01 Mar 2022 12:51:37 +0000",
-         "title" : "MPL 47 th National Women Chess Championship-2022 Report of round-8"
-      },
-      {
          "description" : "FIDE has issued a statement condemning Russia's attack on Ukraine, terminating all sponsorship contracts with Russian companies and excluding Russia and Belarus as venues for FIDE tournaments. This also affects the 2022 Chess Olympiad. The Indian Chess Federation is now offering to host the event at short notice.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1594,14 +1618,6 @@ news_feed (
          "title" : "CHESS Magazine quiz"
       },
       {
-         "description" : "Magnus Carlsen and Ian Nepomniachtchi will revisit their World Championship match in Dubai after both players made it through to the Airthings Masters final with a game to spare. Magnus crushed Vladislav Artemiev with the white pieces, ground out a 102-move win with Black and eased into the final with a draw. Ian confessed \"I can't calculate any lines\" as he both survived and missed a win in the 1st game before going on to defeat Andrey Esipenko twice to reach the showdown with Magnus.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/airthings-masters-6-it-s-a-carlsen-nepo-rematch",
-         "pubDate" : "Fri, 25 Feb 2022 10:58:23 +0000",
-         "title" : "Airthings Masters 6: It's a Carlsen-Nepo rematch!"
-      },
-      {
          "description" : " Two weeks ago, we looked at a position that will form the basis for creating a combination that set up a tactic called a skewer. A combination is simply a series of moves that allow you to create a tactical opportunity. Since the majority of tactics don't appear out of thin air, you need to <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-three/\">A Foundation for Beginners Fifty Three</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\"",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2032,14 +2048,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-was-just-enjoying-myself-says-teen-gm-praggnanandhaa-after-stunning-world-no-1-carlsen-in-airthings-masters/articleshow/89729766.cms",
          "pubDate" : "Mon, 21 Feb 2022 19:48:21 +0530",
          "title" : "I was just enjoying myself, says Praggnanandhaa after stunning Carlsen"
-      },
-      {
-         "description" : "Ian Nepomniachtchi is almost certain to reach the knockout stage at the Airthings Masters, as he grabbed a 4-point lead after a strong performance on the second day of the preliminaries. Sharing second place are Ding Liren and Eric Hansen, while Magnus Carlsen stands two points behind the chasers after losing his round-8 game against 16-year-old Praggnanandhaa. | Photo: Maria Emelianova / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d2",
-         "pubDate" : "Mon, 21 Feb 2022 14:00:00 +0100",
-         "title" : "Airthings Masters: Nepo grabs the lead"
       },
       {
          "description" : "The 16-year-old beat Carlsen at the Airthings Masters, a 16-player online rapid tournament.",
