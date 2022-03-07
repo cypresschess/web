@@ -135,7 +135,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
          "pubDate" : "Sun, 06 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix - Live!"
+         "title" : "Belgrade Grand Prix - Games and results"
       },
       {
          "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. Howell managed to keep the lead in a lengthy game 5 on Sunday. After a rest day, game 6 will be played Tuesday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
@@ -2368,14 +2368,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1574",
          "pubDate" : "Mon, 14 Feb 2022 20:52:14 +0000",
          "title" : "Yaniela Forgas wins Cuban Women's Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1573",
-         "pubDate" : "Mon, 14 Feb 2022 02:04:32 +0000",
-         "title" : "Arbiters' Manual 2022 released"
       }
    ]
 }
