@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Nb3gqx7huNs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-round-6/",
+         "pubDate" : "Mon, 07 Mar 2022 14:50:51 +0000",
+         "title" : "FIDE Grand Prix in Belgrade: Round 6"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1620",
+         "pubDate" : "Mon, 07 Mar 2022 14:29:36 +0000",
+         "title" : "Chess for Ukraine: FIDE announces a series of fundraising events on Women's Day"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
+         "pubDate" : "Mon, 07 Mar 2022 14:55:00 +0100",
+         "title" : "Belgrade Grand Prix - Live!"
+      },
+      {
          "description" : "Under the motto \"Chess4Peace\" and in solidarity with the people in Ukraine, the Emanuel Lasker Society has issued an appeal for donations. If you want to help, you can donate to an account set up by the Emanuel Lasker Society.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,7 +154,7 @@ news_feed (
          "title" : "Inspired defence"
       },
       {
-         "description" : "The ECF Board confirms that individual players and officials with a Russian or Belarusian FIDE registration will be excluded from all ECF-organised competitions until further notice. The ECF Board urges...",
+         "description" : "The ECF Board confirms that individual players and officials with a Russian or Belarusian FIDE registration will be excluded from all ECF-organised competitions until further...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ukraine-statement-update/",
@@ -1210,7 +1234,7 @@ news_feed (
          "title" : "Harvard mathematician solves 150-year-old chess problem"
       },
       {
-         "description" : "The English Chess Federation (ECF) agrees with FIDE Council's recently announced decision that the 44th Chess Olympiad, including the competition for players with disabilities, as well as the FIDE Congress,...",
+         "description" : "The English Chess Federation (ECF) agrees with FIDE Council's recently announced decision that the 44th Chess Olympiad, including the competition for players with disabilities, as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ukraine-statement/",
@@ -1218,7 +1242,7 @@ news_feed (
          "title" : "Ukraine - statement"
       },
       {
-         "description" : "Wednesday 4th May to Sunday 8th May 2022 at the Holiday Inn Kenilworth-Warwick, 212 Abbey End, Kenilworth CV8 1ED. Over 50 - players must be aged 50 or over on...",
+         "description" : "Wednesday 4th May to Sunday 8th May 2022 at the Holiday Inn Kenilworth-Warwick, 212 Abbey End, Kenilworth CV8 1ED. Over 50 - players must be...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/english-seniors-championships-2022/",
@@ -1594,14 +1618,6 @@ news_feed (
          "title" : "44th Chess Olympiad and FIDE Congress will not take place in Russia"
       },
       {
-         "description" : " <p class=\"lead\">The <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> finals are about to start with the World Champion Magnus Carlsen and the 2021 Challenger Ian Nepomniachtchi facing each other. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51737194061_db548f15d1_c.jpg\" width=\"799\" height=\"533\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen / FIDE</div> </div> Tour's semi-finals kicked off with a numb vibe after Russia's invasion of Ukraine overnight. The - so far - leader of the tour, Ian Nepomniachtchi, along with Andrey Esipenko and Vladislav Artemiev expressed their desire to continue in the tournament, but they were b",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-2021-world-championship-match-on-replay-but-faster/",
-         "pubDate" : "Fri, 25 Feb 2022 14:05:14 +0000",
-         "title" : "The 2021 World Championship Match on replay but&hellip;faster!"
-      },
-      {
          "description" : "There are grandmasters and grandmasters. But there is only one Averbakh. This month he turned 100 and set a record in longevity. He is the oldest grandmaster in chess history. The other day ChessBase paid him a tribute and accolades are still pouring in from the chess world. Not many are aware that he has written his autobiography. Our columnist takes a look. The first part of this series tells us how it all began. | Photo Credit: Chess Federation of Russia",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1826,7 +1842,7 @@ news_feed (
          "title" : "Throwback Tuesday? Jobava, Naroditsky Win 2/22/22 Titled Tuesday"
       },
       {
-         "description" : "After two years in post, IA Alan Atkinson (far left) is looking to move on from the ECF Manager of Arbiters role. We would like to thank Alan for his...",
+         "description" : "After two years in post, IA Alan Atkinson (far left) is looking to move on from the ECF Manager of Arbiters role. We would like...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/new-ecf-manager-of-arbiters-2/",
@@ -1986,14 +2002,6 @@ news_feed (
          "title" : "How sister's hobby shaped young chess wizard Praggnanandhaa's life"
       },
       {
-         "description" : "In rook endings, rooks usually belong behind passed pawns. Of course, there are exceptions to this rule but it is still a good guideline to find good moves in rook endings. In the diagrammed position it is White to move. How can she get her rook behind a passed pawn and win the endgame?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-good-guideline",
-         "pubDate" : "Tue, 22 Feb 2022 09:00:00 +0100",
-         "title" : "A good guideline"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89740976.cms\" />Continuing his good run, India's teen prodigy R Praggnanandhaa registered wins against fellow Grandmasters Andrey Esipenko and Alexandra Kosteniuk in rounds 10 and 12 of the Airthings Masters, an online rapid chess tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2034,7 +2042,7 @@ news_feed (
          "title" : "Nepomniachtchi continues to lead; Carlsen is joint-second"
       },
       {
-         "description" : "The ECF's former Membership Secretary Christine Adams, who retired a while ago, has agreed to help out on Mondays with email and telephone enquiries concerning ECF membership. The ECF office...",
+         "description" : "The ECF's former Membership Secretary Christine Adams, who retired a while ago, has agreed to help out on Mondays with email and telephone enquiries concerning...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/membership-mondays/",
@@ -2058,7 +2066,7 @@ news_feed (
          "title" : "Praggnanandhaa, 16, becomes only third Indian to beat Carlsen in stunning upset"
       },
       {
-         "description" : "We are a research group at the University of Edinburgh conducting a study on chess knowledge and memory in children. If you have a child between the ages of eight...",
+         "description" : "We are a research group at the University of Edinburgh conducting a study on chess knowledge and memory in children. If you have a child...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/university-of-edinburgh-chess-study-attn-parents/",
@@ -2074,7 +2082,7 @@ news_feed (
          "title" : "European Women's Chess Gala - 26 & 27 February"
       },
       {
-         "description" : "&#8212; from Alan Burke Stan was very well known by many of our long-serving members for his duties both for the Manchester Chess Federation as well as for the ECF...",
+         "description" : "&#8212; from Alan Burke Stan was very well known by many of our long-serving members for his duties both for the Manchester Chess Federation as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/rip-stan-goodall/",
@@ -2082,7 +2090,7 @@ news_feed (
          "title" : "RIP Stan Goodall"
       },
       {
-         "description" : "Nigel Crucefix 1963-2022 It is with immense sadness that Trowbridge Chess Club shares the news of the sudden death of Nigel Crucefix, aged 58. Nigel joined the Bradford-on-Avon Club (as...",
+         "description" : "Nigel Crucefix 1963-2022 It is with immense sadness that Trowbridge Chess Club shares the news of the sudden death of Nigel Crucefix, aged 58. Nigel...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/rip-nigel-crucefix/",
@@ -2266,7 +2274,7 @@ news_feed (
          "title" : "The Master Chess Web Show"
       },
       {
-         "description" : "Chess &#38; Bridge have announced there will be an England v Sweden Challenge Match between Grandmaster David Howell (England) and Grandmaster Nils Grandelius (Sweden) in London this March. The event...",
+         "description" : "Chess &#38; Bridge have announced there will be an England v Sweden Challenge Match between Grandmaster David Howell (England) and Grandmaster Nils Grandelius (Sweden) in...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/england-v-sweden-challenge-match/",
@@ -2314,7 +2322,7 @@ news_feed (
          "title" : "Exciting chess in the FIDE Grand Prix Berlin final"
       },
       {
-         "description" : "For the first time since 2013, we have two WIM Invitational Women's Norm tournaments in London on 7th-11th April 2022. ECF Women's Norm Event 2022 organised by Agnieszka Milewska, the...",
+         "description" : "For the first time since 2013, we have two WIM Invitational Women's Norm tournaments in London on 7th-11th April 2022. ECF Women's Norm Event 2022...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/she-plays-to-win/",
