@@ -5,6 +5,7 @@ jtable([
 "CYPRESS","2022-03-04","18","<a href=http://www.uschess.org/msa/XtblMain.php?202203048112 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2022-02-27","14","<a href=http://www.uschess.org/msa/XtblMain.php?202202276032 target=' blank'>HOUSTON FEB 27 SUNDAY SWISS</a>",
 "HOUSTON","2022-02-26","219","<a href=http://www.uschess.org/msa/XtblMain.php?202202264932 target=' blank'>TCR: TCA REGION V SCHOLASTIC CHAMPIONSHIP</a>",
+"CYPRESS","2022-02-25","8","<a href=http://www.uschess.org/msa/XtblMain.php?202202259132 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "CYPRESS","2022-02-25","8","<a href=http://www.uschess.org/msa/XtblMain.php?202202254712 target=' blank'>A</a>",
 "SPRING","2022-02-25","34","<a href=http://www.uschess.org/msa/XtblMain.php?202202254512 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2022-02-01  - 02-22","12","<a href=http://www.uschess.org/msa/XtblMain.php?202202223562 target=' blank'>FEBRUARY TUESDAY NIGHT SWISS</a>",
@@ -198,5 +199,4 @@ jtable([
 "KATY","2021-04-17","15","<a href=http://www.uschess.org/msa/XtblMain.php?202104172452 target=' blank'>SR CHESSKNIGHTS 04172021</a>",
 "SPRING","2021-04-16","32","<a href=http://www.uschess.org/msa/XtblMain.php?202104169332 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "KATY","2021-04-10","17","<a href=http://www.uschess.org/msa/XtblMain.php?202104102432 target=' blank'>SR CHESSKNIGHTS 04102021</a>",
-"SPRING","2021-04-09","32","<a href=http://www.uschess.org/msa/XtblMain.php?202104097522 target=' blank'>THE FRIDAY KNIGHTS</a>",
 ]);
