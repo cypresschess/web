@@ -138,12 +138,12 @@ news_feed (
          "title" : "Belgrade Grand Prix - Live!"
       },
       {
-         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. After three draws, Howell took the lead by scoring an 83-move win on Saturday. Game 4 starts Sunday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
+         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. Howell managed to keep the lead in a lengthy game 5 on Sunday. After a rest day, game 6 will be played Tuesday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-match-2",
          "pubDate" : "Sun, 06 Mar 2022 14:30:00 +0100",
-         "title" : "England vs Sweden Challenge - Game 5 Live!"
+         "title" : "England vs Sweden Challenge - Howell keeps the lead"
       },
       {
          "description" : " For no particular reason I decided to see what was opening in the Bundesliga, which is running as I speak. Almost all the games were still in the opening stage, and yet one game was already finished. At first I thought it was a forfeit, or even worse, a mobile phone default, but instead it was just a misplayed opening that was quickly punished. White didn't play any outright blunders (in the usual sense), but every move seemed to make the position worse. Realising that f2 was about fall, White decided that they had seen enough. <br /> <b>Pitl,Jarno (1988) - Wegerle,Joerg (2404) [A04]</b><br />Schachbundesliga chess24.com (2.8), 06.03.2022 <script>new PgnViewer( { boardName: \"game1315\", move",
