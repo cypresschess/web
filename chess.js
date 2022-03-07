@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1619",
+         "pubDate" : "Mon, 07 Mar 2022 00:16:28 +0000",
+         "title" : "FIDE Grand Prix Belgrade: Round 5 Recap"
+      },
+      {
+         "description" : " <p class=\"lead\">Twists and turns in round five set a scene for a tense final day in the group stage of the Grand Prix Following a day of rest, 16 top-world players gathered in the \"Atlantic-Pacific\" playing hall of the Belgrade Crowne Plaza Hotel, for the final rounds of the group stage of the Grand Prix. With two more games to play before the knockout, the tension was high. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-07_01-07-58.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-07_01-08-48.jpg\" width=\"1280\" height=\"853\" alt",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-belgrade-round-5-recap/",
+         "pubDate" : "Mon, 07 Mar 2022 00:10:45 +0000",
+         "title" : "FIDE Grand Prix Belgrade: Round 5 Recap"
+      },
+      {
+         "description" : "Drama on Sunday was taken care of courtesy of Group C, where both games found victors, most importantly by GM Richard Rapport, who is leading by a full point ahead of the last round. In Group A, two draws mean that GM Dmitry Andreikin and GM Sam S...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2002-fide-grand-prix-belgrade-round-5",
+         "pubDate" : "Sun, 06 Mar 2022 16:07:00 -0800",
+         "title" : "FIDE Grand Prix Belgrade R5: Rapport Wins To Take Lead In Group C"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.06<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-5/pbt3dh1g\">https://lichess.org/broadcast/2022-spring-chess-classic/round-5/pbt3dh1g</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-5",
+         "pubDate" : "Sun, 06 Mar 2022 23:54:55 +0000",
+         "title" : "2022 Spring Chess Classic: Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Illya Nyzhnyk during the 2022 Spring Chess Classic. 2022.03.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-illya-nyzhnyk-interview-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bKW01Luq7C8.jpg?itok=WYkFXT13\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-illya-nyzhnyk-interview-round-5",
+         "pubDate" : "Sun, 06 Mar 2022 23:54:55 +0000",
+         "title" : "2022 Spring Chess Classic: Illya Nyzhnyk Interview | Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Sam Sevian during the 2022 Spring Chess Classic. 2022.03.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-sam-sevian-interview-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MnmU5M-rwdw.jpg?itok=u-MoS0W1\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-sam-sevian-interview-round-5",
+         "pubDate" : "Sun, 06 Mar 2022 23:54:55 +0000",
+         "title" : "2022 Spring Chess Classic: Sam Sevian Interview | Round 5"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1618",
+         "pubDate" : "Sun, 06 Mar 2022 21:35:56 +0000",
+         "title" : "FIDE adopts simplified procedure for playing under FIDE flag"
+      },
+      {
          "description" : " <p class=\"lead\">Round 5 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 in Belgrade</a> ended with Rapport winning against Vidit and taking the lead of Group C, while all the other standings stayed the same. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51921950051_ded83e6e29_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: Mark Livshitz / FIDE</div> </div> Round 5 started with the ACP President and FIDE Councilor GM Aleksandar Colovic making the ceremonial first move on the board of the Shankland - Andreikin game. This game was also the first result of the day with the two co-leaders of <b>Group A<",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -160,30 +216,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-ray-robson-interview-round-2",
          "pubDate" : "Sat, 05 Mar 2022 20:53:50 +0000",
          "title" : "2022 Spring Chess Classic: Ray Robson Interview | Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Robert Hungaski during the 2022 Spring Chess Classic. 2022.03.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-robert-hungaski-interview-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SiZiXPsq7RU.jpg?itok=U0HBC7tG\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-robert-hungaski-interview-round-2",
-         "pubDate" : "Sat, 05 Mar 2022 20:53:50 +0000",
-         "title" : "2022 Spring Chess Classic: Robert Hungaski Interview | Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Chris Repka during the 2022 Spring Chess Classic. 2022.03.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-chris-repka-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SZ_7L_Bmcfo.jpg?itok=ZUoaNeKd\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-chris-repka-interview-round-3",
-         "pubDate" : "Sat, 05 Mar 2022 20:53:50 +0000",
-         "title" : "2022 Spring Chess Classic: Chris Repka Interview | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Ray Robson during the 2022 Spring Chess Classic. 2022.03.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-ray-robson-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Viu8TwJwBgs.jpg?itok=hQhp7i2I\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-ray-robson-interview-round-3",
-         "pubDate" : "Sat, 05 Mar 2022 20:53:50 +0000",
-         "title" : "2022 Spring Chess Classic: Ray Robson Interview | Round 3"
       },
       {
          "description" : "",
@@ -1658,14 +1690,6 @@ news_feed (
          "title" : "FIDE PDC continental meeting held in Kampala, Uganda"
       },
       {
-         "description" : " <p class=\"lead\">The <a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour 2022</a> reached the semifinals with 3 Russians and Magnus Carlsen putting more flag colors on the leaderboard. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-02-24-at-3.34.49-PM.png\" width=\"2356\" height=\"1562\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Niki Riga / World Chess</div> </div> Ian Nepomniachtchi scored a decisive third-game point against Vincent Keymer and won the match to advance to the Tour's semifinals. Later the Russian GM admitted that the Russia/Ukraine crisis has affected him. <a href=\"https://twitter.com/TarjeiJS/status/1496576749114646",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/this-whole-situation-is-really-sad-for-me-nepo-states-after-his/",
-         "pubDate" : "Thu, 24 Feb 2022 13:36:04 +0000",
-         "title" : "Nepo: \"This whole situation is really sad for me\""
-      },
-      {
          "description" : "The 2022 Azerbaijani Championship took place in Nakhchivan on 4-18 February. Unlike previous events, this year's championship was held in two stages, with a 9-round Swiss tournament followed by a 4-player knockout. Mahammad Muradli beat Musratdin Iskandarov to grab his second national title. | Photos: Azebaijani Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2098,14 +2122,6 @@ news_feed (
          "title" : "Black History Month 2022-Day 20: Afro-Latino Chess"
       },
       {
-         "description" : "GM Fabiano Caruana won the knockout phase of week two of the 2022 Rapid Chess Championship tournament presented by Coinbase. GM Hikaru Nakamura finished second in the knockout&#38;mdash;after taking first in the preliminary Swiss tournament, like GM A...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-week-2-caruana-wins",
-         "pubDate" : "Sun, 20 Feb 2022 09:06:00 -0800",
-         "title" : "Rapid Chess Championship Week 2: Caruana Wins"
-      },
-      {
          "description" : " Yuri Averbakh celebrated his 100th birthday the other day. Another Soviet player from the same vintage just missed celebrating his 99th birthday. Abram Khasin had a long and remarkable life. He was born in Ukraine on 15 February 1923, and died in Essen, Germany, where he had spent the last 20 years of his life, <a href=\"https://chessimprover.com/abram-khasin-1923-2022/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Abram Khasin (1923-2022)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/abram-khasin-1923-2022/\">Abram Khasin (1923-2022)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2360,14 +2376,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1573",
          "pubDate" : "Mon, 14 Feb 2022 02:04:32 +0000",
          "title" : "Arbiters' Manual 2022 released"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1572",
-         "pubDate" : "Sun, 13 Feb 2022 21:51:13 +0000",
-         "title" : "FIDE Grand Prix Berlin final: Aronian vs Nakamura"
       }
    ]
 }
