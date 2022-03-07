@@ -63,7 +63,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
          "pubDate" : "Mon, 07 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix - Live!"
+         "title" : "Belgrade Grand Prix - Games and results"
       },
       {
          "description" : "Under the motto \"Chess4Peace\" and in solidarity with the people in Ukraine, the Emanuel Lasker Society has issued an appeal for donations. If you want to help, you can donate to an account set up by the Emanuel Lasker Society.",
