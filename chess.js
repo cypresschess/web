@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Levon Aronian won the fourth week of the 2022 Rapid Chess Championship tournament presented by Coinbase.&#38;nbsp;Last week&#39;s winner, GM Fabiano Caruana, finished second. GM Hikaru Nakamura finished first in the preliminary Swiss tournament but fel...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-week-4-aronian-wins",
+         "pubDate" : "Sun, 06 Mar 2022 20:41:36 -0800",
+         "title" : "Rapid Chess Championship Week 4: Aronian Wins Knockout"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2088,14 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1589",
          "pubDate" : "Sun, 20 Feb 2022 22:11:51 +0000",
          "title" : "Teen star topples Carlsen as Russian takes Airthings Masters lead"
-      },
-      {
-         "description" : "After two days and eight rounds of play at the Airthings Masters, former world championship challenger GM Ian Nepomniachtchi of Russia is leading the field by four points, while World Champion Magnus Carlsen is trailing him and another three playe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-2",
-         "pubDate" : "Sun, 20 Feb 2022 13:17:00 -0800",
-         "title" : "Airthings Masters Day 2: Nepomniachtchi Takes The Lead"
       },
       {
          "description" : "",
