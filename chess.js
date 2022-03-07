@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Under the motto \"Chess4Peace\" and in solidarity with the people in Ukraine, the Emanuel Lasker Society has issued an appeal for donations. If you want to help, you can donate to an account set up by the Emanuel Lasker Society.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess4peace-the-emanuel-lasker-society-appeals-for-donations-to-help-ukraine",
+         "pubDate" : "Mon, 07 Mar 2022 14:22:59 +0100",
+         "title" : "\"chess4peace\": The Emanuel Lasker Society appeals for donations to help Ukraine"
+      },
+      {
          "description" : "Top 2 seeded players of open section IM Pranav V and IM Pranesh M both from Tamil Nadu jointly share the lead 5 points each.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -46,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-week-4-aronian-wins",
-         "pubDate" : "Sun, 06 Mar 2022 20:41:36 -0800",
+         "pubDate" : "Sun, 06 Mar 2022 20:41:00 -0800",
          "title" : "Rapid Chess Championship Week 4: Aronian Wins Knockout"
       },
       {
@@ -1984,14 +1992,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-good-guideline",
          "pubDate" : "Tue, 22 Feb 2022 09:00:00 +0100",
          "title" : "A good guideline"
-      },
-      {
-         "description" : "Werner Keym is a teacher (of French and Latin) and a musician who has organised more than 300 concerts in his town. In 2010, he ran for Mayor of Meisenheim and won in a landslide. Now in retirement he devotes his time to the family - he has six grandchildren - and to his hobbies. The foremost of them is problem chess, where he is the is one of the most creative problemists we know. Today he turns 80, and we celebrate with samples of his work. Prepare for an hour of fun.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-octogenarian-puzzle-master",
-         "pubDate" : "Tue, 22 Feb 2022 08:04:05 +0100",
-         "title" : "The octogenarian puzzle master"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89740976.cms\" />Continuing his good run, India's teen prodigy R Praggnanandhaa registered wins against fellow Grandmasters Andrey Esipenko and Alexandra Kosteniuk in rounds 10 and 12 of the Airthings Masters, an online rapid chess tournament.",
