@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After six rounds Ray Robson is in sole lead with 4.5/6 at the Saint Louis Spring Classic. Samuel Sevian and Ilya Nyzhnyk follow with 4.0/6 each. | Round 7 starts Tuesday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
+         "pubDate" : "Tue, 08 Mar 2022 19:45:00 +0100",
+         "title" : "Saint Louis Spring Classic 2022 - Live!"
+      },
+      {
+         "description" : "Second seed Pranesh M of Tamil Nadu and eighth seed Tania Boramanikar of Maharashtra becomes national sub-junior champions in the MPL National Sub-Junior &#38; National",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-to-pranesh-m-tanisha/",
+         "pubDate" : "Tue, 08 Mar 2022 17:40:17 +0000",
+         "title" : "Congratulations to Pranesh M & Tanisha"
+      },
+      {
+         "description" : "Today is International Women's Day, also in chess. The first strong female chess champion was Vera Menchik. Jos&eacute; Raul Capablanca, who died 80 years ago today, on 8 March 1942, was one of many strong players who respected her. Vera Menchik died 26 June 1944 during a German V-1 flying bomb attack on London during World War II. Now it's war again. \"Love is more important than victory\", says musician Jason Kouchak and is currently writing a musical about Vera Menchik.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/thoughts-on-international-women-s-day-remembering-vera-menchik",
+         "pubDate" : "Tue, 08 Mar 2022 18:00:00 +0100",
+         "title" : "Thoughts on International Women's Day: Remembering Vera Menchik"
+      },
+      {
          "description" : "To celebrate International Women's Day, we're kicking off a series of interviews with women from all over the chess world. We'll be speaking to everyone from top female players, to authors, commentators, streamers, and people who work behind the scenes for different chess companies. Today and tomorrow, we're focusing on the Meltwater Champions Chess Tour and some of the women who power it.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -216,14 +240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1621",
          "pubDate" : "Mon, 07 Mar 2022 19:00:21 +0000",
          "title" : "Dominican Championships: Arvelo and Rosario Almanzar claim titles"
-      },
-      {
-         "description" : "Ray Robson defeated Mikhail Antipov in round 5 to grab the sole lead in the A group. Ilya Nyzhnyk and Aram Hakobyan stand a half point back. | Replay the games with computer analysis. Round 6 starts Monday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
-         "pubDate" : "Mon, 07 Mar 2022 19:45:00 +0100",
-         "title" : "Saint Louis Spring Classic 2022 - Live!"
       },
       {
          "description" : "In the Endgame Magic Show #184 Karsten M&uuml;ller presents endgame highlights from the FIDE Grand Prix in Berlin, which was won by Hikaru Nakamura. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -1072,14 +1088,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/5-key-lessons-first-year/",
          "pubDate" : "Wed, 02 Mar 2022 15:00:00 +0000",
          "title" : "5 Key Lessons I learned In My First Year Playing Chess"
-      },
-      {
-         "description" : "Kanpur (02 Mar 22) :- Tamil Nadu Grandmaster D Gukesh defeated former national champion Abhijeet Gupta of the PSPB in the penultimate round to catch",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022-gukesh-beat-abhijeet-senior-nationals-heading-to-the-photo-finish/",
-         "pubDate" : "Wed, 02 Mar 2022 12:38:26 +0000",
-         "title" : "MPL 58th Senior National Chess Championship-2022 : Gukesh beat Abhijeet; Senior Nationals heading to the photo finish"
       },
       {
          "description" : "",
@@ -1984,14 +1992,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ibero-american-championsip-2022-mexico",
          "pubDate" : "Wed, 23 Feb 2022 22:10:00 +0100",
          "title" : "Sandro Mareco wins Ibero-American Championship in Mexico"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show, Merijn van Delft looks at Ian Nepomniachtchi's win over Magnus Carlsen from the Airthings Masters. Playing black, Nepo outplayed the world champion on his way to winning the preliminary stage of the online tournament. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-504",
-         "pubDate" : "Wed, 23 Feb 2022 21:10:00 +0100",
-         "title" : "Game of the Week #504: Nepo outplays Carlsen"
       },
       {
          "description" : "After two years in post, IA Alan Atkinson (far left) is looking to move on from the ECF Manager of Arbiters role. We would like...",
