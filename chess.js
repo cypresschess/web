@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The acronym \"LPDO\" was probably coined by the English player Mike Cook, who used it to explain the majority of his losses in a 100-game blitz match against John Nunn. But it was Nunn who made the term popular by talking about this blitz match in his book \"Secrets of Practical Chess\". Keeping \"LPDO\" in mind might help to reduce blundering pieces, even in the endgame. In the diagrammed position Black's rook and knight are both \"loose\". How did White manage to make them \"drop off\"?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/loose-pieces-drop-off-lpdo",
+         "pubDate" : "Tue, 08 Mar 2022 09:00:00 +0100",
+         "title" : "Loose Pieces Drop Off (LPDO)"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.07<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-6/R43TFqRD\">https://lichess.org/broadcast/2022-spring-chess-classic/round-6/R43TFqRD</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2008,14 +2016,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-robert-ris-the-smooth-scandinavian-defence-with-3-qd8-2",
          "pubDate" : "Tue, 22 Feb 2022 14:25:37 +0100",
          "title" : "New: Robert Ris - The smooth Scandinavian Defence with 3&hellip;Qd8"
-      },
-      {
-         "description" : "A fierce battle to reach the knockout awaits on day 4 of the Airthings Masters preliminary stage. Only Ian Nepomniachtchi has secured a spot in the quarterfinals, as he has an overwhelming 7-point lead going into the final three rounds of the all-play-all stage. Magnus Carlsen is one of three players sharing second place. The world champion recently contracted Covid and confessed to a lack of energy. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d3",
-         "pubDate" : "Tue, 22 Feb 2022 14:15:00 +0100",
-         "title" : "Airthings Masters: The plot thickens"
       },
       {
          "description" : " Just a quick update on the 2022 O2C Doeberl Cup. Entries for the tournament have already passed to 100 mark (in fact 120 at the time of this post). The Premier already has 5 GM's, 1 WGM and 4 IM's registered. With overseas visitors now allowed into the country, a number of OS players have already registered. To try and balance the numbers in each section, the entry requirements have been relaxed a little. Having a FIDE rating above the ACF cutoff now qualifies you for a section as well, meaning that it is easier to get into a higher section. The rule about using your rating at the time of entry still applies, so some players may wish to enter before the end of this month (before new ACF rat",
