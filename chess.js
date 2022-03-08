@@ -2,7 +2,135 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The acronym \"LPDO\" was probably coined by the English player Mike Cook, who used it to explain the majority of his losses in a 100-game blitz match against John Nunn. But it was Nunn who made the term popular by talking about this blitz match in his book \"Secrets of Practical Chess\". Keeping \"LPDO\" in mind might help to reduce blundering pieces, even in the endgame. In the diagrammed position Black's rook and knight are both \"loose\". How did White manage to make them \"drop off\"?",
+         "description" : "To celebrate International Women's Day, we're kicking off a series of interviews with women from all over the chess world. We'll be speaking to everyone from top female players, to authors, commentators, streamers, and people who work behind the scenes for different chess companies. Today and tomorrow, we're focusing on the Meltwater Champions Chess Tour and some of the women who power it.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/international-women-s-day-women-who-power-the-tour-part-1",
+         "pubDate" : "Tue, 08 Mar 2022 16:23:12 +0000",
+         "title" : "International Women's Day: Powering the Tour, part 1"
+      },
+      {
+         "description" : "Chess.com is thrilled to announce that the 2022 Women&#39;s Speed Chess Championship has been confirmed and is set to start on May 24. The event was born from a partnership between Chess.com and FIDE and is the most important online tournament for tit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-womens-speed-chess-championship-2022",
+         "pubDate" : "Tue, 08 Mar 2022 08:00:00 -0800",
+         "title" : "Announcing The 2022 FIDE Chess.com Women's Speed Chess Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1623",
+         "pubDate" : "Tue, 08 Mar 2022 15:49:38 +0000",
+         "title" : "Women's Speed Chess Championship 20202 announced"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90083267.cms\" />Aggression is one of the strengths of India's chess sensation R Praggnanandhaa but improving his time management skills is one of the areas where the teenager will have to work on, said his coach RB Ramesh.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/there-is-still-room-for-improvement-in-praggnanandhaas-game-says-coach-ramesh/articleshow/90083267.cms",
+         "pubDate" : "Tue, 08 Mar 2022 21:03:51 +0530",
+         "title" : "There is still room for improvement in Praggnanandhaa's game, says coach Ramesh"
+      },
+      {
+         "description" : "All pools at the preliminaries of the FIDE Grand Prix in Belgrade had a clear winner after Monday's sixth and final round. Dmitry Andreikin, Anish Giri, Richard Rapport and Maxime Vachier-Lagrave moved on to the semifinals, and will get a rest day before the knockout stage, as no tiebreaks were needed in the qualifiers. | Photos: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-r6",
+         "pubDate" : "Tue, 08 Mar 2022 16:20:00 +0100",
+         "title" : "Belgrade GP: Andreikin wins rollercoaster game to reach knockout"
+      },
+      {
+         "description" : "ChessBase Magazine #206 once again offers a wealth of ideas and recommendations for your repertoire. Besides the three opening videos by Jan Werle, Daniel King and Mihail Marin as well as Rainer Knaak's collection of \"Topical opening traps\", the new issue contains eleven opening articles covering a broad spectrum: Reti, Caro-Kann, Sicilian Nimzowitsch and Taimanov Variation, Petroff, Ruy Lopez, London System, Slav, Gruenfeld and King's Indian - everywhere there are exciting ideas to get to know. In his article Evgeny Postny examines the queen sortie 5...Qb6 in the London System. In the highly topical variation, White sacrifices a pawn after 6.dxc5 Qxb2 7.Rb1 Qc3 8.Bb5. So it's straight to th",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-queen-sortie",
+         "pubDate" : "Tue, 08 Mar 2022 16:00:00 +0100",
+         "title" : "London queen sortie"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/724979b0-5ccb-4e03-812c-81df0296a302/Jen2.jpg\" data-image-dimensions=\"511x259\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6227664e4501d34983a22d8a\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/724979b0-5ccb-4e03-812c-81df0296a302/Jen2.jpg?format=1000w\" /> </figure> <p class=\"\">My guest today is Jen Shahade. Jen, is a champion chess and poker player, an author, an award winning podcaster and the Woman's Program Director at US Chess. It was the perfect time ",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/8/ep-269-jen-shahade-on-her-new-book-and-chess-in-the-queens-gambit-age",
+         "pubDate" : "Tue, 08 Mar 2022 14:26:32 +0000",
+         "title" : "EP 269- Jen Shahade on her New Book and Chess in the Queen's Gambit Age "
+      },
+      {
+         "description" : " &#8220;Developed by the British player James Mason Named after the 1922 London tournament&#8221; Wikipedia Many club players choose 1. e4 as their opening choice from very early in their chess careers. It makes sense because it gives them the opportunity to play open games where they can practice and improve their tactical skills. Playing 1. <a href=\"https://chessimprover.com/need-sure-points-queens-pawn-game-london-system-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Queen's Pawn Game. London System edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-queens-pawn-game-london-system-edition/\">Need ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-queens-pawn-game-london-system-edition/",
+         "pubDate" : "Tue, 08 Mar 2022 14:16:00 +0000",
+         "title" : "Need sure points? Queen's Pawn Game. London System edition"
+      },
+      {
+         "description" : "Dave sadly passed away yesterday [2/3/22] after a short spell in hospital. He will be greatly missed by Chester members. Our thoughts are with his...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rip-david-robertson/",
+         "pubDate" : "Tue, 08 Mar 2022 14:08:26 +0000",
+         "title" : "RIP David Robertson"
+      },
+      {
+         "description" : "Last week the European Chess Union strongly condemned the Russian invasion of Ukraine, the involvement of Belarus and expressed its solidarity and support for the Ukrainian people. With immediate effect, and acting within its constitutional powers, the ECU suspended the Russian and Belarusian Chess Federations. They also appealed for wide-spread support for their efforts. Now they are pleased to announce the first very kind offers (reaching them) of support and solidarity to Ukrainian Chess friends.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-support-of-ukrainian-chess",
+         "pubDate" : "Tue, 08 Mar 2022 14:51:54 +0100",
+         "title" : "European support of Ukrainian chess"
+      },
+      {
+         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. After five games Howell, who won game four while all the other games ended in a draw, leads 3-2. Game 6 starts Tuesday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-game-6-live",
+         "pubDate" : "Tue, 08 Mar 2022 14:30:00 +0100",
+         "title" : "England vs Sweden Challenge - Game 6 live"
+      },
+      {
+         "description" : "Dmitry Andreikin will play Anish Giri in the Belgrade FIDE Grand Prix semi-finals after dramatically winning a lost position against Etienne Bacrot. Any other result would have given Sam Shankland a chance in a playoff. The other semi-final will be Richard Rapport vs. Maxime Vachier-Lagrave after Richard cruised to a draw against Alexei Shirov while Maxime drew a thriller against Shakhriyar Mamedyarov. Yu Yangyi could have forced a playoff with a win over Alexandr Predke, but instead the Russian grandmaster won with the black pieces.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/belgrade-fide-gp-6-shankland-heartbreak",
+         "pubDate" : "Tue, 08 Mar 2022 13:19:38 +0000",
+         "title" : "Belgrade FIDE GP 6: Shankland heartbreak"
+      },
+      {
+         "description" : " An important update for players wishing to play in either the O2C Doeberl Cup Major and Minor. The Monir event (Under 1600 ACF) reached the 80 player limit late last week. As a result we have extended the size of the event to 120, but it is unlikely that it will be increased further. At the moment there are 20 places left in the Major (Under 2000 ACF), so if you wish to play the Major, you should get your entries in quick. At the moment there are over 200 entries for the event, and with 5 weeks before the event starts, a field well in excess of 300 is expected. If you are eligible for two divisions (due to an overlap in rating requirements), picking the less crowded of the 2 would be great ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/2022-o2c-doeberl-cup-major-and-minor.html",
+         "pubDate" : "Tue, 08 Mar 2022 12:54:00 +0000",
+         "title" : "2022 O2C Doeberl Cup Major and Minor"
+      },
+      {
+         "description" : "International Women's Day March 8th, 2022 is a global day celebrating the social, economic, cultural, and political achievements of women. The day also...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/international-womens-day-2/",
+         "pubDate" : "Tue, 08 Mar 2022 10:50:12 +0000",
+         "title" : "International Women's Day"
+      },
+      {
+         "description" : "ECU E-Magazine February 2022 is out. In this edition of the ECU Magazine you may read about: ECU extraordinary Board Meeting decisions Establishment of #SupportUkraineChess communication channel European Women's Chess Gala FIDE Grand Prix 2022 events in Berlin and Belgrade Invitation for bids for ECU events in 2024 Arbiters Corner Fun Zone The February 2022 edition of&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-february-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-february-2022/",
+         "pubDate" : "Tue, 08 Mar 2022 09:06:08 +0000",
+         "title" : "ECU E-MAGAZINE FEBRUARY 2022"
+      },
+      {
+         "description" : "It was Aron Nimzowitsch (pictured) who coined the paradoxical expression \"The threat is stronger than its execution.\" This phrase sounds catchy and smart but if you think about it, you start to wonder how a threat can actually ever be stronger than its execution. Jan Markos has a number of good answers. (Foto: L'Echiquier 1931)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-7-why-is-the-threat-stronger-than-its-execution",
+         "pubDate" : "Tue, 08 Mar 2022 10:00:00 +0100",
+         "title" : "The Winning Academy 7: Why is the threat stronger than its execution?"
+      },
+      {
+         "description" : "The acronym \"LPDO\" was probably coined by the English player Mike Cook, who used it to explain the majority of his losses in a 100-game blitz match against John Nunn. But it was Nunn who made the term popular by talking about this blitz match in his book \"Secrets of Practical Chess\". Keeping \"LPDO\" in mind might help to reduce blundering pieces, even in the endgame. In the diagrammed position Black's rook and bishop are both \"loose\". How did White manage to let them \"drop off\"?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/loose-pieces-drop-off-lpdo",
@@ -320,14 +448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-68-ideas-in-the-king-s-indian-2",
          "pubDate" : "Sun, 06 Mar 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 69: Ideas in the King's Indian (2)"
-      },
-      {
-         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. Howell managed to keep the lead in a lengthy game 5 on Sunday. After a rest day, game 6 will be played Tuesday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-match-2",
-         "pubDate" : "Sun, 06 Mar 2022 14:30:00 +0100",
-         "title" : "England vs Sweden Challenge - Howell keeps the lead"
       },
       {
          "description" : " For no particular reason I decided to see what was opening in the Bundesliga, which is running as I speak. Almost all the games were still in the opening stage, and yet one game was already finished. At first I thought it was a forfeit, or even worse, a mobile phone default, but instead it was just a misplayed opening that was quickly punished. White didn't play any outright blunders (in the usual sense), but every move seemed to make the position worse. Realising that f2 was about fall, White decided that they had seen enough. <br /> <b>Pitl,Jarno (1988) - Wegerle,Joerg (2404) [A04]</b><br />Schachbundesliga chess24.com (2.8), 06.03.2022 <script>new PgnViewer( { boardName: \"game1315\", move",
@@ -1506,14 +1626,6 @@ news_feed (
          "title" : "India offers to host chess Olympiad after Russia removed"
       },
       {
-         "description" : "Magnus Carlsen and Ian Nepomniachtchi needed six games before a decisive result in Dubai. In the Airthings Masters final we've also had four draws after four games, but seldom have draws been so thrilling! Both players missed great chances in rollercoaster games, with Magnus summing up afterwards, \"we clearly both missed chances, but I think overall the result is fair enough\". The final must end on Sunday, with blitz and potentially Armageddon if the score is tied after rapid chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/airthings-masters-7-all-draws-but-carlsen-nepo-is-a-thriller",
-         "pubDate" : "Sat, 26 Feb 2022 12:48:28 +0000",
-         "title" : "Airthings Masters 7: All draws, but Carlsen-Nepo is a thriller"
-      },
-      {
          "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1640,14 +1752,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-trent-s-tactics-14",
          "pubDate" : "Fri, 25 Feb 2022 17:00:00 +0100",
          "title" : "Trent's Tactics - An uncomfortable situation"
-      },
-      {
-         "description" : "The world governing body decided in an extraordinary meeting today to find a new host for the event following Russia's invasion of Ukraine. In doing so, FIDE follows Uefa moving the Champions League final to Paris and the FIA stripping Russia of its Formula 1 Grand Prix.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-strips-russia-of-showpiece-chess-olympiad",
-         "pubDate" : "Fri, 25 Feb 2022 15:20:19 +0000",
-         "title" : "FIDE strips Russia of showpiece Chess Olympiad"
       },
       {
          "description" : "Tata Steel 2022: analysis from Duda, Giri, Grandelius, Mamedyarov, Praggnanandhaa, Shankland, Erigaisi and Vogel. Peter Heine Nielsen and Dorian Rogozenco (video) take a close look at two Catalan wins by the World Champion and tournament winner. With CBM experts you see more: videos by King, Knaak, Marin, M&uuml;ller, Reeh, Ris, Rogozenco and Werle - total playing time over 5 hours! Plus eleven opening articles with recommendations for your repertoire, e.g. \"Steamrolling the Reti\" (1.Nf3 d5 2.c4 d4 3.b4 g5!?), \"A versatile Ruy Lopez\" (1. e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 Part I) or \"London queen sortie\" (1.d4 d5 2.Nf3 Nf6 3.Bf4 c5 4.e3 Nc6 5.Nbd2 Qb6 6.dxc5 Qxb2). Last but not least: The \"Special\" o",
@@ -1890,14 +1994,6 @@ news_feed (
          "title" : "Game of the Week #504: Nepo outplays Carlsen"
       },
       {
-         "description" : "GM&#38;nbsp;Baadur Jobava and GM Daniel Naroditsky, some of the earliest winners of Titled Tuesday back in 2014, won Titled Tuesday again on February 22, 2022. Neither player needed the tiebreak system as Jobava had the best score of the day with 10/1...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jobava-naroditsky-win-titled-tuesday-february-22-2022",
-         "pubDate" : "Wed, 23 Feb 2022 07:51:00 -0800",
-         "title" : "Throwback Tuesday? Jobava, Naroditsky Win 2/22/22 Titled Tuesday"
-      },
-      {
          "description" : "After two years in post, IA Alan Atkinson (far left) is looking to move on from the ECF Manager of Arbiters role. We would like...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1912,22 +2008,6 @@ news_feed (
          "link" : "https://chessimprover.com/the-master-chess-web-show-2/",
          "pubDate" : "Wed, 23 Feb 2022 13:57:04 +0000",
          "title" : "The Master Chess Web Show (2)"
-      },
-      {
-         "description" : "Svitlana's former coach taught her to solve chess studies frequently. The idea is bending the mind a little more than usual to find the solutions. Chess compositions normally have \"only moves\", or at least a very narrow path to crack the puzzle. We take a look at some beautiful brain-teasers.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-31",
-         "pubDate" : "Wed, 23 Feb 2022 14:30:00 +0100",
-         "title" : "Svitlana's Smart Moves - How to solve chess studies"
-      },
-      {
-         "description" : "Underdogs Vincent Keymer and Eric Hansen qualified to the knockout stage of the Airthings Masters on Tuesday. On the other hand, the likes of Anish Giri, Levon Aronian and Shakhriyar Mamedyarov did not make the cut. Ian Nepomniachtchi was the clear winner of the round-robin with a commanding score of 29/45 points.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d4",
-         "pubDate" : "Wed, 23 Feb 2022 14:25:00 +0100",
-         "title" : "Airthings Masters: Keymer and Hansen make the cut"
       },
       {
          "description" : " Mark Scully, sometime chess player, sometime lawyer, once wrote that in times long past, the earth consisted of at least 10,000 independent territories. This has now been reduced to around 195, give or take a few self declared/non recognised territories (eg <a href=\"https://en.wikipedia.org/wiki/Principality_of_Hutt_River\">Principality of Hutt River</a>) FIDE have slightly less member nations, although they have extended membership to a number of non-country federations The International Correspondence Chess Federation follow a similar model. However, with Correspondence Chess less constrained by travel, they also organise events for 'States and Regions'. A multi divisional championship of ",
@@ -1994,28 +2074,12 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (54)"
       },
       {
-         "description" : "Today, the German chess historian Michael Negele celebrates his 65th birthday! Negele published widely about a variety of topics but his main focus was and is the life and work of Emanuel Lasker, and he was one of the driving forces in editing an extensive three-volume biography about the German World Champion. | Photos: German Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-historian-michael-negele-turns-65",
-         "pubDate" : "Tue, 22 Feb 2022 15:00:00 +0100",
-         "title" : "Chess historian Michael Negele turns 65!"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/d10e2183-0d8e-4a49-9ac8-2bd5af846681/q7YtlQ2X_400x400.jpg\" data-image-dimensions=\"400x400\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6214e4f0557793739d02f430\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/d10e2183-0d8e-4a49-9ac8-2bd5af846681/q7YtlQ2X_400x400.jpg?format=1000w\" /> </figure> <iframe scrolling=\"no\" src=\"https://playlist.megaphone.fm?e=BLU9323042155\" width=\"100%\" frameborder=\"0\" data-preserve-html-node=\"true\" height=\"200\"></iframe><p class=\"\">C",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/2/22/pauq1ld4qaxw2a7yj336ml7b252q9u",
          "pubDate" : "Tue, 22 Feb 2022 13:30:22 +0000",
          "title" : "EP 267- NM Nelson Lopez (of the ChessVibes YouTube Channel)"
-      },
-      {
-         "description" : "Are you looking for a simple, easy-to-learn repertoire against 1.e4? Then the Scandinavian with 3&hellip;Qd8 is yours! After 1.e4 d5 2.exd5 Qxd5 3.Nc3 the retreat 3&hellip;Qd8 leads to a very solid type position for Black. At the expense of two tempi, the pawn structure has been defined, and hence a clear developing plan can be made for our minor pieces.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-robert-ris-the-smooth-scandinavian-defence-with-3-qd8-2",
-         "pubDate" : "Tue, 22 Feb 2022 14:25:37 +0100",
-         "title" : "New: Robert Ris - The smooth Scandinavian Defence with 3&hellip;Qd8"
       },
       {
          "description" : " Just a quick update on the 2022 O2C Doeberl Cup. Entries for the tournament have already passed to 100 mark (in fact 120 at the time of this post). The Premier already has 5 GM's, 1 WGM and 4 IM's registered. With overseas visitors now allowed into the country, a number of OS players have already registered. To try and balance the numbers in each section, the entry requirements have been relaxed a little. Having a FIDE rating above the ACF cutoff now qualifies you for a section as well, meaning that it is easier to get into a higher section. The rule about using your rating at the time of entry still applies, so some players may wish to enter before the end of this month (before new ACF rat",
@@ -2170,14 +2234,6 @@ news_feed (
          "title" : "Abram Khasin (1923-2022)"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89706014.cms\" />The Airthings Masters kicked off the new 2022 Meltwater Champions Chess Tour season with a day of drama that saw Magnus Carlsen suffer a nightmare start to the defence of his crown on Saturday. Magnus began the $1.6 million Tour with a regulation clean win over last year's breakout star Vladislav Artemiev in Round 1. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/airthings-masters-chinas-ling-diren-leads-after-day-1/articleshow/89706014.cms",
-         "pubDate" : "Sun, 20 Feb 2022 19:18:34 +0530",
-         "title" : "Airthings Masters: China's Ling Diren leads after Day 1"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2290,22 +2346,6 @@ news_feed (
          "title" : "Money Heist"
       },
       {
-         "description" : " Last week I started a new Twitch stream with my old friend, IM Andrew Martin. Echoing our Master Chess Roadshow seminars of the 1990s, we decided to call it the Master Chess Web Show. The Twitch stream can be found here and I've also been uploading the shows to Youtube. Please follow us on Twitch <a href=\"https://chessimprover.com/the-master-chess-web-show/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Master Chess Web Show\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-master-chess-web-show/\">The Master Chess Web Show</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/the-master-chess-web-show/",
-         "pubDate" : "Thu, 17 Feb 2022 08:35:12 +0000",
-         "title" : "The Master Chess Web Show"
-      },
-      {
-         "description" : "Chess &#38; Bridge have announced there will be an England v Sweden Challenge Match between Grandmaster David Howell (England) and Grandmaster Nils Grandelius (Sweden) in...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/england-v-sweden-challenge-match/",
-         "pubDate" : "Thu, 17 Feb 2022 00:23:11 +0000",
-         "title" : "England v Sweden Challenge Match"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2344,38 +2384,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1579",
          "pubDate" : "Tue, 15 Feb 2022 22:40:53 +0000",
          "title" : "Exciting chess in the FIDE Grand Prix Berlin final"
-      },
-      {
-         "description" : "For the first time since 2013, we have two WIM Invitational Women's Norm tournaments in London on 7th-11th April 2022. ECF Women's Norm Event 2022...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/she-plays-to-win/",
-         "pubDate" : "Tue, 15 Feb 2022 17:50:13 +0000",
-         "title" : "She Plays to Win"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/58ca094b-dc87-4371-86b9-f4fe682ee581/JEremy3.jpg\" data-image-dimensions=\"435x219\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"620baed702d83b13a72baa93\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/58ca094b-dc87-4371-86b9-f4fe682ee581/JEremy3.jpg?format=1000w\" /> </figure> <p class=\"\">This week's<a href=\"https://www.perpetualchesspod.com/adultimprover\"><span> Adult Improver Edition</span></a> of Perpetual Chess features NM Jeremy Kane: Blitz specialist, USCF",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/2/15/ep-266-nm-jeremy-kane-adult-improver-series",
-         "pubDate" : "Tue, 15 Feb 2022 13:50:11 +0000",
-         "title" : "EP 266- NM Jeremy Kane (Adult Improver Series) "
-      },
-      {
-         "description" : " The first World Junior Champion, Borislav Ivkov has passed away at the age of 88. He won the title in 1951, which also signalled the start of a successful career. He qualified for the Candidates Matches in 1964 (losing to Larsen in the 1st round), and represented Yugoslavia in the Chess Olympiad 12 times. He also had the distinction of beating 5 World Champions (including Fischer) and being Yugoslavian Champion 3 times. <b>Ivkov,Borislav - Penrose,Jonathan [D15]</b><br />Wch U20 final-A Copenhagen (6), 1953 <script>new PgnViewer( { boardName: \"game1310\", movesFormat: \"default\", pgnString:'1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.Nc3 dxc4 5.e3 b5 6.a4 b4 7.Na2 e6 8.Bxc4 Be7 9.O-O O-O 10.b3 Bb7 11.Bb2 Nbd",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/borislav-ivkov.html",
-         "pubDate" : "Tue, 15 Feb 2022 13:01:00 +0000",
-         "title" : "Borislav Ivkov"
-      },
-      {
-         "description" : "The European Chess Union invites the National federations members to submit bids for the organization of the official European Chess Championships in 2024 including combined bids for next years.&#160; The bids must be submitted exclusively in the Bid form regulated by the ECU (in the attachment). For any additional documents delivered separately from the bid form, it must&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/invitation-for-bids-european-chess-championships-2024/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/invitation-for-bids-european-chess-championships-2024/",
-         "pubDate" : "Tue, 15 Feb 2022 09:26:02 +0000",
-         "title" : "INVITATION FOR BIDS - EUROPEAN CHESS CHAMPIONSHIPS 2024"
       }
    ]
 }
