@@ -1202,7 +1202,7 @@ news_feed (
          "title" : "A magic knight"
       },
       {
-         "description" : " Share! International Master Emory TatePhoto by Daaim Shabazz Before his passing in 2015, International Master Emory Tate was one of the most recognizable figures in the American chess scene. In this last tribute for Black History Month, we will feature the man, the myth, the legend. The legacy continues. With a warrior persona and his [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/28/black-history-month-2022-day-28-im-emory-tate/\">Black History Month 2022-Day 28: IM Emory Tate</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!376 International Master Emory TatePhoto by Daaim Shabazz Before his passing in 2015, International Master Emory Tate was one of the most recognizable figures in the American chess scene. In this last tribute for Black History Month, we will feature the man, the myth, the legend. The legacy continues. With a warrior persona and his [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/28/black-history-month-2022-day-28-im-emory-tate/\">Black History Month 2022-Day 28: IM Emory Tate</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/02/28/black-history-month-2022-day-28-im-emory-tate/",
@@ -2376,22 +2376,6 @@ news_feed (
          "link" : "https://www.europechess.org/invitation-for-bids-european-chess-championships-2024/",
          "pubDate" : "Tue, 15 Feb 2022 09:26:02 +0000",
          "title" : "INVITATION FOR BIDS - EUROPEAN CHESS CHAMPIONSHIPS 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1577",
-         "pubDate" : "Tue, 15 Feb 2022 06:20:20 +0000",
-         "title" : "FIDE Trainers' Commission continues its program of Seminars & Workshops in 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1575",
-         "pubDate" : "Tue, 15 Feb 2022 05:50:40 +0000",
-         "title" : "Borislav Ivkov (1933-2022)"
       }
    ]
 }
