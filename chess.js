@@ -10,6 +10,14 @@ news_feed (
          "title" : "Saint Louis Spring Classic 2022 - Live!"
       },
       {
+         "description" : "In light of the ongoing war in Ukraine, and under the roof of the Year of the Woman in Chess, the FIDE Commission for Women's Chess established a fundraiser for Ukrainian chess players and their families affected now by war. Also, the FIDE Women's Commission, in partnership with Chess24, has prepared a series of events on the Women's Day to support Ukrainian chess players and their families.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-for-ukraine-fundraising-events",
+         "pubDate" : "Tue, 08 Mar 2022 19:45:00 +0100",
+         "title" : "Chess for Ukraine: FIDE announces series of fundraising events on Women's Day"
+      },
+      {
          "description" : "Second seed Pranesh M of Tamil Nadu and eighth seed Tania Boramanikar of Maharashtra becomes national sub-junior champions in the MPL National Sub-Junior &#38; National",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1986,14 +1994,6 @@ news_feed (
          "title" : "Airthings Masters Day 5: Nepo, Carlsen, Artemiev, Esipenko Win"
       },
       {
-         "description" : "Going into the final round, Jaime Santos was the sole leader at the Ibero-American Championship in Mexico City. The Spaniard fell at the last hurdle, though, as he was defeated by top seed Jorge Cori. Sandro Mareco (pictured) profited from this result, as he clinched tournament victory by beating Omar Almeida with the white pieces. | Photo: Club Obras / La Naci&oacute;n",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ibero-american-championsip-2022-mexico",
-         "pubDate" : "Wed, 23 Feb 2022 22:10:00 +0100",
-         "title" : "Sandro Mareco wins Ibero-American Championship in Mexico"
-      },
-      {
          "description" : "After two years in post, IA Alan Atkinson (far left) is looking to move on from the ECF Manager of Arbiters role. We would like...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2376,14 +2376,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1580",
          "pubDate" : "Wed, 16 Feb 2022 09:00:33 +0000",
          "title" : "FIDE Podcast: New episode now available"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1579",
-         "pubDate" : "Tue, 15 Feb 2022 22:40:53 +0000",
-         "title" : "Exciting chess in the FIDE Grand Prix Berlin final"
       }
    ]
 }
