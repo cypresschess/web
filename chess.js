@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "CLICK HERE FOR LIVE GAMES",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-mpl-50th-national-junior-under-20-35th-national-junior-girls-under-20-chess-championships-2022/",
+         "pubDate" : "Wed, 09 Mar 2022 06:45:59 +0000",
+         "title" : "LIVE GAMES : MPL 50TH NATIONAL JUNIOR (UNDER-20) & 35TH NATIONAL JUNIOR GIRLS (UNDER-20) CHESS CHAMPIONSHIPS-2022"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.08<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-7/Dl5fhURP\">https://lichess.org/broadcast/2022-spring-chess-classic/round-7/Dl5fhURP</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -26,12 +34,12 @@ news_feed (
          "title" : "2022 Spring Chess Classic: Hans Niemann Interview | Round 7"
       },
       {
-         "description" : "After six rounds Ray Robson is in sole lead with 4.5/6 at the Saint Louis Spring Classic. Samuel Sevian and Ilya Nyzhnyk follow with 4.0/6 each. | Round 7 starts Tuesday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center.",
+         "description" : "After seven rounds Ray Robson is in sole lead with 5.0/7 at the Saint Louis Spring Classic. Samuel Sevian and Ilya Nyzhnyk follow a half point back. | Round 8 starts Wednesday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
          "pubDate" : "Tue, 08 Mar 2022 19:45:00 +0100",
-         "title" : "Saint Louis Spring Classic 2022 - Live!"
+         "title" : "Saint Louis Spring Classic 2022 - Robson tops the standings"
       },
       {
          "description" : "In light of the ongoing war in Ukraine, and under the roof of the Year of the Woman in Chess, the FIDE Commission for Women's Chess established a fundraiser for Ukrainian chess players and their families affected now by war. Also, the FIDE Women's Commission, in partnership with Chess24, has prepared a series of events on the Women's Day to support Ukrainian chess players and their families.",
@@ -304,14 +312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1620",
          "pubDate" : "Mon, 07 Mar 2022 14:29:36 +0000",
          "title" : "Chess for Ukraine: FIDE announces a series of fundraising events on Women's Day"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
-         "pubDate" : "Mon, 07 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix - Games and results"
       },
       {
          "description" : "Under the motto \"Chess4Peace\" and in solidarity with the people in Ukraine, the Emanuel Lasker Society has issued an appeal for donations. If you want to help, you can donate to an account set up by the Emanuel Lasker Society.",
@@ -896,14 +896,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-for-coaches-creating-a-worksheet",
          "pubDate" : "Thu, 03 Mar 2022 14:00:00 +0100",
          "title" : "ChessBase for Coaches: Creating a Worksheet"
-      },
-      {
-         "description" : "Kanpur (03 Mar 22) :- Second seed Telangana Grandmaster Arjun Erigaisi becomes National Chess Champion after signing the peace treaty with former champion Sethuraman S",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-58th-senior-national-chess-championship-2022-arjun-erigaisi-crowned-national-champion/",
-         "pubDate" : "Thu, 03 Mar 2022 12:56:38 +0000",
-         "title" : "MPL 58th Senior National Chess Championship-2022 : Arjun Erigaisi crowned national champion"
       },
       {
          "description" : "",
@@ -1992,6 +1984,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-5",
          "pubDate" : "Wed, 23 Feb 2022 15:46:00 -0800",
          "title" : "Airthings Masters Day 5: Nepo, Carlsen, Artemiev, Esipenko Win"
+      },
+      {
+         "description" : "Going into the final round, Jaime Santos was the sole leader at the Ibero-American Championship in Mexico City. The Spaniard fell at the last hurdle, though, as he was defeated by top seed Jorge Cori. Sandro Mareco (pictured) profited from this result, as he clinched tournament victory by beating Omar Almeida with the white pieces. | Photo: Club Obras / La Naci&oacute;n",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ibero-american-championsip-2022-mexico",
+         "pubDate" : "Wed, 23 Feb 2022 22:10:00 +0100",
+         "title" : "Sandro Mareco wins Ibero-American Championship in Mexico"
       },
       {
          "description" : "After two years in post, IA Alan Atkinson (far left) is looking to move on from the ECF Manager of Arbiters role. We would like...",
