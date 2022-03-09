@@ -2,6 +2,118 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #506, Merijn van Delft shows how Richard Rapport, who is known for his creative play, played on the queenside, in the center and on the kingside to win a crucial game against Vidit at the FIDE Grand Prix in Belgrade. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-506-r-rapport-vs-s-vidit",
+         "pubDate" : "Wed, 09 Mar 2022 17:00:00 +0100",
+         "title" : "Game of the Week #506: R. Rapport vs S. Vidit"
+      },
+      {
+         "description" : "America&#x2019;s best chess players will return to the Saint Louis Chess Club to battle over the board from April 18 April 29, 2022 in a brand new and exciting tournament, the American Cup. &#xA0;With $300,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in this double-elimination knockout []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/american-chess-cup-2022-participants/",
+         "pubDate" : "Wed, 09 Mar 2022 15:52:36 +0000",
+         "title" : "American Chess Cup 2022 - participants"
+      },
+      {
+         "description" : " The term Grandmaster Draw most likely brings a sad image to your mind. Two lazy Grandmasters are leaving the table after only a couple of Minutes and another Berlin defense move-repetition. This is not wrong, but also not entirely right. Even though most quick draws between Grandmasters look similar, the energy &#38; motivation behind them [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/grandmaster-draw-explained/\">Grandmaster Draws Explained</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/grandmaster-draw-explained/",
+         "pubDate" : "Wed, 09 Mar 2022 15:00:00 +0000",
+         "title" : "Grandmaster Draws Explained"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90106247.cms\" />After coming close to winning a few over-the-board (OTB) events in the last one year, Grandmaster SL Narayanan crossed the finish line by bagging the Grandiscacchi Cattolica International Open in Cattolica, Italy on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-aim-is-to-cross-the-2700-elo-rating-narayanan/articleshow/90106247.cms",
+         "pubDate" : "Wed, 09 Mar 2022 20:04:48 +0530",
+         "title" : "The aim is to cross the 2700 ELO rating: Narayanan"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/OzBHkjRMPMc?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-semi-final-game-1/",
+         "pubDate" : "Wed, 09 Mar 2022 14:13:21 +0000",
+         "title" : "FIDE Grand Prix in Belgrade: Semi-final Game 1"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
+         "pubDate" : "Wed, 09 Mar 2022 14:55:00 +0100",
+         "title" : "Belgrade Grand Prix SF - Live!"
+      },
+      {
+         "description" : "The Italian Spring Tour 2022 features four strong tournaments. One of them is the 1st Grandiscacchi Cattolica International which ended with an Indian double victory. After nine rounds seven players shared first place with 6.5/9 each, but S.L. Narayanan (pictured) had the best tiebreak and won the tournament. Praggnanandhaa finished second. | Photo: ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/s-l-narayanan-wins-cattolica-international",
+         "pubDate" : "Wed, 09 Mar 2022 14:53:56 +0100",
+         "title" : "S.L. Narayanan wins Cattolica International"
+      },
+      {
+         "description" : "Grandmaster and profilic trainer Evgeny Romanov has become the first top player to change federations since FIDE stopped Russians from competing under the national flag due to the invasion of Ukraine. The move could be the start of a rush of Russian and Belarussian grandmasters changing federations.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/russian-grandmaster-changes-federation",
+         "pubDate" : "Wed, 09 Mar 2022 13:37:04 +0000",
+         "title" : "First Russian Grandmaster changes federation since ban"
+      },
+      {
+         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. After six games Howell, who won game four while all the other games ended in a draw, leads 3.5-2.5. Game 7 starts Wednesday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-game-6-live",
+         "pubDate" : "Wed, 09 Mar 2022 14:30:00 +0100",
+         "title" : "England vs Sweden Challenge - Game 6 live"
+      },
+      {
+         "description" : " This week Andrew and I ran three Master Chess Web Shows, the agendas being as follows: Monday The Monday show is devoted to readers' questions, with these three being addressed: 1) How should Black play against the 3.e5 Bf5 4.Ne2 e6 5.Ng3 Bg6 6.h4 line of the Caro-Kann? 2) What is the best ever King's <a href=\"https://chessimprover.com/master-chess-web-show-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-4/\">Master Chess Web Show (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/master-chess-web-show-4/",
+         "pubDate" : "Wed, 09 Mar 2022 13:09:35 +0000",
+         "title" : "Master Chess Web Show (4)"
+      },
+      {
+         "description" : " The pools for the last round of <a href=\"https://worldchess.com/series/grandprix2022\">the FIDE Grand Prix</a> have been determined. The Berlin stage will be held from 21 March to 4 April at the World Chess Club Berlin. The event featuring 16 elite chess players competing for a prize fund of €150,000 and the last two places in the Candidates' tournament scheduled to take place in Madrid in June. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/table-2.png\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> The draw ceremony, held over Zoom, was chaired by Chief Arbiter Klaus Deventer and identified the pools of players for the last leg of the Series via randomized sele",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/pools-for-the-third-leg-of-the-fide-grand-prix-series-2022-to-be/",
+         "pubDate" : "Wed, 09 Mar 2022 13:02:14 +0000",
+         "title" : "Pools For the Third Leg of the FIDE Grand Prix Series 2022 Announced"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1625",
+         "pubDate" : "Wed, 09 Mar 2022 12:47:21 +0000",
+         "title" : "Pools for third leg of FIDE Grand Prix 2022 announced "
+      },
+      {
+         "description" : "On 5 March 2022 Dr. Siegbert Tarrasch would have celebrated his 160th birthday. Throughout his life Tarrasch, who was a medical practitioner by profession, remained an amateur, but at his prime he was one of the world's best players, if not the best. Tarrasch was also a prolific and popular writer whose books have influenced countless players. Eugene Manlapao takes a look at the career of this great player and teacher.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/siegbert-tarrasch-player-thinker-and-teacher-extraordinaire-march-5-1862-february-17-1934",
+         "pubDate" : "Wed, 09 Mar 2022 13:30:15 +0100",
+         "title" : "Siegbert Tarrasch: Player, Thinker, and Teacher Extraordinaire (5 March 1862- 17 February 1934)"
+      },
+      {
+         "description" : "It may not be International Women's Day anymore, but that doesn't mean chess24 is finished celebrating the work of our inspirational female figures.Today we're continuing with Part 2 of our interviews with the women who power the Meltwater Champions Chess Tour. After this, there will be more!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/international-women-s-day-women-who-power-the-tour-part-2",
+         "pubDate" : "Wed, 09 Mar 2022 11:41:00 +0000",
+         "title" : "International Women's Day: Powering the Tour, part 2"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -192,14 +304,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-support-of-ukrainian-chess",
          "pubDate" : "Tue, 08 Mar 2022 14:51:54 +0100",
          "title" : "European support of Ukrainian chess"
-      },
-      {
-         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. After five games Howell, who won game four while all the other games ended in a draw, leads 3-2. Game 6 starts Tuesday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-game-6-live",
-         "pubDate" : "Tue, 08 Mar 2022 14:30:00 +0100",
-         "title" : "England vs Sweden Challenge - Game 6 live"
       },
       {
          "description" : "Dmitry Andreikin will play Anish Giri in the Belgrade FIDE Grand Prix semi-finals after dramatically winning a lost position against Etienne Bacrot. Any other result would have given Sam Shankland a chance in a playoff. The other semi-final will be Richard Rapport vs. Maxime Vachier-Lagrave after Richard cruised to a draw against Alexei Shirov while Maxime drew a thriller against Shakhriyar Mamedyarov. Yu Yangyi could have forced a playoff with a win over Alexandr Predke, but instead the Russian grandmaster won with the black pieces.",
@@ -1034,14 +1138,6 @@ news_feed (
          "title" : "Game of the Week #505: A. Grischuk vs D. Andreikin"
       },
       {
-         "description" : "After one-year hiatus caused by the pandemic situation, the Chilean Chess Federation held National Championships 2022 from February 18-27 (open and women). Both tournaments were OTB 12-player round-robins with classical time control. The only GM in the open section&#160;Pablo Salinas Herrera&#160;crushed the competition &#x2013; conceding his opponents only three draws and took gold with an []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/salinas-herrera-and-gomez-barrera-win-chilean-chess-championship-2022/",
-         "pubDate" : "Thu, 03 Mar 2022 09:42:00 +0000",
-         "title" : "Salinas Herrera and Gomez Barrera win Chilean Chess Championship 2022"
-      },
-      {
          "description" : "Due to the current events, Lawrence and Arne decided to show this episode from early February today, instead of last week. Lawrence built his setup up in Barcelona, and shows us some golden Keres tactics right from the openings. The more often we keep repeating, and recognizing the patterns, the better we will get. In the tactics training, we slowly move towards 2500.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1346,14 +1442,6 @@ news_feed (
          "title" : "EP 268- GM Joel Benjamin and Harold Scott on Winning the World Open "
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/RPyxW2HPstU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-round-1/",
-         "pubDate" : "Tue, 01 Mar 2022 15:04:38 +0000",
-         "title" : "FIDE Grand Prix in Belgrade: Round 1"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89926789.cms\" />Five players, including defending champion Aravindh Chithambaram occupy the joint lead with 6.5 points each after eight rounds in the MPL 58th Senior National Chess Championship on Tuesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1440,14 +1528,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/28/black-history-month-2022-day-28-im-emory-tate/",
          "pubDate" : "Tue, 01 Mar 2022 04:02:53 +0000",
          "title" : "Black History Month 2022-Day 28: IM Emory Tate"
-      },
-      {
-         "description" : " <p class=\"lead\">The second leg of the 2022 Fide Grand Prix series was officially opened in Belgrade, Serbia. In the next 14 days, 16 top world players will try to advance in the 2022 GP series in hope of securing one of the two places leading to the Candidates Tournament <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-01_00-55-55.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\"><a href=\"https://www.flickr.com/photos/fide/albums/72177720297019949/with/51909276892/\">Photo</a>: Mark Livshitz (FIDE)</div> </div> The Opening Ceremony was held at the ballroom of the \"Dom Grade\" venue - an impressive building from the 1920s, which was",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-opening-ceremony-of-the-second-leg-of-the-fide-grand-prix-se/",
-         "pubDate" : "Mon, 28 Feb 2022 23:58:51 +0000",
-         "title" : "Second Leg of the Grand Prix Series Opens in Belgrade"
       },
       {
          "description" : "",
@@ -1642,14 +1722,6 @@ news_feed (
          "title" : "Full speed against the Reti!"
       },
       {
-         "description" : "World Chess Champion Magnus Carlsen has won the first event on the $1.6 million 2022 Meltwater Champions Chess after defeating Ian Nepomniachtchi with a game to spare on the 2nd day of the final. It was a repeat of the Dubai World Chess Championship match as five hard-fought draws were followed by a victory for Magnus in Game 6. Nepo had chances of hitting back in the next game but instead he went from winning to lost in the space of a few moves. Magnus said his next event will likely be the next Tour event, starting March 19th.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-triumphs-in-airthings-masters",
-         "pubDate" : "Sun, 27 Feb 2022 08:09:08 +0000",
-         "title" : "Magnus Carlsen triumphs in Airthings Masters"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89864471.cms\" />Magnus Carlsen bagged the first event of the 2022 Meltwater Champions Chess Tour, the Airthings Masters, after overcoming Ian Nepomniachtchi with a classy display on Saturday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1696,14 +1768,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-8",
          "pubDate" : "Sat, 26 Feb 2022 13:39:00 -0800",
          "title" : "Airthings Masters Day 8: Carlsen Wins First Leg Of Champions Tour"
-      },
-      {
-         "description" : "There are only 2 spots left in the 2022 Candidates Tournament, and those 2 places will be granted to the players who perform best in the FIDE Grand Prix 2022. The Grand Prix consists of 3 tournaments played between February and April. We already know the winner of the first leg, Hikaru Nakamura, who beat Levon Aronian in tiebreaks. Players can only participate in 2 of the 3 tournaments, so they need to make every point count. The 1st leg of the FIDE Grand Prix 2022 was held in Berlin, the 2nd leg will take place in Belgrade, and the 3rd and last leg will be back in Berlin.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-grand-prix-2022-qualifying-for-the-candidates-tournament",
-         "pubDate" : "Sat, 26 Feb 2022 18:12:55 +0000",
-         "title" : "FIDE Grand Prix 2022: Qualifying for the Candidates Tournament"
       },
       {
          "description" : "",
@@ -2002,22 +2066,6 @@ news_feed (
          "title" : "FIDE PDC continental meeting held in Kampala, Uganda"
       },
       {
-         "description" : "The 2022 Azerbaijani Championship took place in Nakhchivan on 4-18 February. Unlike previous events, this year's championship was held in two stages, with a 9-round Swiss tournament followed by a 4-player knockout. Mahammad Muradli beat Musratdin Iskandarov to grab his second national title. | Photos: Azebaijani Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mahammad-muradli-wins-azerbaijani-championsip-2022",
-         "pubDate" : "Thu, 24 Feb 2022 14:00:00 +0100",
-         "title" : "Mahammad Muradli wins Azerbaijani Championship"
-      },
-      {
-         "description" : "Ajax Amsterdam vs Benfica Lisbon is one of the quarter-final matches in the 2022 Football Champions League. Ajax whetted the appetite for the clash with a virtual chess game, in which two fans look back on the history and on the great players of the two clubs. Yesterday, the first game of the real quarter-final match ended in a 2-2 draw.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-football-match-as-a-chess-game-ajax-amsterdam-vs-benfica-lissabon",
-         "pubDate" : "Thu, 24 Feb 2022 13:53:24 +0100",
-         "title" : "A football match as a chess game: Ajax Amsterdam vs Benfica Lissabon"
-      },
-      {
          "description" : " Modern Opening Chess Theory (MOCT) was a publication that covered various events in the 1960's and 70'. I picked up a copy of issue No. 104, which covered the 1969 Palma de Mallorca tournament, and was written by Bob Wade. The tournament was probably the strongest event in 1969 ( it included Spassky, Petrosian, and Korchnoi), but was won by Bent Larsen. What was remarkable about this was that he started with 2 losses and was only on 2/5, after losing a 3rd game. He then scored 10/12 to finish outright 1st on 12/17. Petrosian finished 2nd on 11.5, although the 14 move final round draw showed he was content with 2nd, rather than fighting for 1st Here is the 1st game for Larsen in the event, w",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2026,28 +2074,12 @@ news_feed (
          "title" : "Slow start, strong finish"
       },
       {
-         "description" : "Savielly Tartakower was an elite master throughout his career of nearly half a century. Although he never quite reached the chess summit, he is remembered fondly as a colorful figure who enriched the game immensely. On the occasion of the 135th anniversary of his birth on 21 February, it is fitting to look back at his life and legacy. | Photo: Wikipedia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-the-unforgettable-savielly-tartakower-21-february-1887-4-february-1956",
-         "pubDate" : "Thu, 24 Feb 2022 10:55:05 +0100",
-         "title" : "Remembering the unforgettable Savielly Tartakower (21 February, 1887 - 4 February, 1956)"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89796609.cms\" />Most in the country were asleep when one of India's finest young chess brains created history. The 16-year-old Praggu woke his father up to break the news to him, messaged coach RB Ramesh and enjoyed a few hours of sound sleep before social media started buzzing with his achievement -- a win over world champion Magnus Carlsen.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-punished-magnus-carlsen-for-unjustified-risks-is-on-his-way-to-the-top-viswanathan-anand/articleshow/89796609.cms",
          "pubDate" : "Thu, 24 Feb 2022 14:42:18 +0530",
          "title" : "Praggu punished Carlsen for unjustified risks: Vishy Anand"
-      },
-      {
-         "description" : "Ding Liren was about to become the first player to reach the semifinals of the Airthings Masters, as he had a 1-point lead and a winning position in game 3 of his match against Vladislav Artemiev. However, the Chinese wasted his chances and lost both that game and the next one to get knocked out of the competition. Magnus Carlsen, Ian Nepomniachtchi and Andrey Esipenko also moved on to the semifinals. | Photo: Vladimir Barsky",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d5",
-         "pubDate" : "Thu, 24 Feb 2022 03:25:00 +0100",
-         "title" : "Airthings Masters QF: Artemiev knocks out Ding"
       },
       {
          "description" : " The 1992 African-American Unity Tournament Series was a novel idea and 30 years later, has never lost its relevance. If there is one aspect of the Hall of Fame career of Maurice Ashley that is overlooked or perhaps underrated, it is his visionary ideas. We know about his ambitious tournaments such as the HB Global [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/23/black-history-month-2022-day-23-ashleys-unity-tournament-series-1992/\">Black History Month 2022-Day 23: Ashley's Unity Tournament Series (1992)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -2274,14 +2306,6 @@ news_feed (
          "title" : "RIP Nigel Crucefix"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89717585.cms\" />Young Indian Grandmaster R Praggnanandhaa stunned world no 1 Magnus Carlsen in the eighth round of the Airthings Masters, an online rapid chess tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-stuns-world-no-1-magnus-carlsen-in-airthings-masters-chess/articleshow/89717585.cms",
-         "pubDate" : "Mon, 21 Feb 2022 14:53:02 +0530",
-         "title" : "Praggnanandhaa stuns World No. 1 Carlsen in Airthings Masters"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2384,14 +2408,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/kind-of-unexpected.html",
          "pubDate" : "Fri, 18 Feb 2022 12:16:00 +0000",
          "title" : "Kind of unexpected"
-      },
-      {
-         "description" : " Last week, we started looking at creating combinations of moves that would set up either a pin or skewer. We'll keep this going next week. This week, I want to share something I learned when I recently went back to school for physical computing, laying out road maps to solve problems. I literally mean a <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-two/\">A Foundation for Beginners Fifty Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-two/",
-         "pubDate" : "Fri, 18 Feb 2022 08:29:46 +0000",
-         "title" : "A Foundation for Beginners Fifty Two"
       },
       {
          "description" : "",
