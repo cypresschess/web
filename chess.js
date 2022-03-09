@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After seven rounds Ray Robson is in sole lead with 5.0/7 at the Saint Louis Spring Classic. Samuel Sevian and Ilya Nyzhnyk follow a half point back. | Round 8 starts Wednesday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
+         "pubDate" : "Wed, 09 Mar 2022 19:45:00 +0100",
+         "title" : "Saint Louis Spring Classic 2022 - Round 8 live"
+      },
+      {
+         "description" : " <p class=\"lead\">Round 1 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 semifinals</a> ended with Rapport winning against MVL and moving closer to the final, while Giri and Andreikin ended a complicated game in a draw agreement. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.4992679355783\"> <img src=\"https://worldchess.com/news/pictures/A-13.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51928807560_67b9281403_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51928805740_1ee7fd5642_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/rapport-beats-mvl-and-moves-closer-to-the-fide-grand-prix-finals/",
+         "pubDate" : "Wed, 09 Mar 2022 17:49:05 +0000",
+         "title" : "Rapport beats MVL and moves closer to the FIDE Grand Prix finals"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won the early edition of Titled Tuesday on March 8, scoring 9.5/11 after defeating GM Daniil Dubov in the final round and winning on tiebreaks. Dubov went on to win the late edition and was the only player to reach the top five ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-dubov-win-titled-tuesday-march-8-2022",
+         "pubDate" : "Wed, 09 Mar 2022 09:09:30 -0800",
+         "title" : "Nakamura Reclaims Titled Tuesday; Dubov Wins Late, Nearly Sweeps"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #506, Merijn van Delft shows how Richard Rapport, who is known for his creative play, played on the queenside, in the center and on the kingside to win a crucial game against Vidit at the FIDE Grand Prix in Belgrade. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -200,14 +224,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-hans-niemann-interview-round-7",
          "pubDate" : "Tue, 08 Mar 2022 23:56:58 +0000",
          "title" : "2022 Spring Chess Classic: Hans Niemann Interview | Round 7"
-      },
-      {
-         "description" : "After seven rounds Ray Robson is in sole lead with 5.0/7 at the Saint Louis Spring Classic. Samuel Sevian and Ilya Nyzhnyk follow a half point back. | Round 8 starts Wednesday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
-         "pubDate" : "Tue, 08 Mar 2022 19:45:00 +0100",
-         "title" : "Saint Louis Spring Classic 2022 - Robson tops the standings"
       },
       {
          "description" : "In light of the ongoing war in Ukraine, and under the roof of the Year of the Woman in Chess, the FIDE Commission for Women's Chess established a fundraiser for Ukrainian chess players and their families affected now by war. Also, the FIDE Women's Commission, in partnership with Chess24, has prepared a series of events on the Women's Day to support Ukrainian chess players and their families.",
@@ -432,6 +448,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-grand-prix-belgrade-round-6-recap/",
          "pubDate" : "Mon, 07 Mar 2022 22:28:51 +0000",
          "title" : "FIDE Grand Prix Belgrade: Round 6 Recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1626",
+         "pubDate" : "Mon, 07 Mar 2022 22:10:06 +0000",
+         "title" : "FIDE Workshop for Changes in Regulations held online"
       },
       {
          "description" : " <p class=\"lead\">Round 6 of the FIDE Grand Prix 2022 in Belgrade ended with Richard Rapport, Dmitry Andreikin, Anish Giri, and Maxime Vachier-Lagrave being the semifinalists of Pool A, B, C and D. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.4992679355783\"> <img src=\"https://worldchess.com/news/pictures/51924330324_8cc965be03_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51923374422_057cd31cb9_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51924687159_bea6e42f6a_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51924689029_4b",
@@ -1394,14 +1418,6 @@ news_feed (
          "title" : "Erigaisi, Nakamura and Aronian move up in March rating list"
       },
       {
-         "description" : " <p class=\"lead\">Day 1 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 in Belgrade</a> ended with Andreikin and Vidit being the early leader of Groups A and C respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"800\" data-ratio=\"1.498127340824\"> <img src=\"https://worldchess.com/news/pictures/A-9.jpg\" width=\"800\" height=\"534\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51911936611_32904927a5_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51911937181_00de6b0327_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51911964611_5e4d54da37_k.jpg\" wid",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/vidit-and-andreikin-the-early-leaders-of-the-fide-grand-prix-202/",
-         "pubDate" : "Tue, 01 Mar 2022 19:13:08 +0000",
-         "title" : "Vidit and Andreikin the early leaders of the FIDE Grand Prix 2022 in Belgrade"
-      },
-      {
          "description" : " The FIDE Grand Prix Leg 2 takes place in Belgrade Tuesday 1st to Monday 14th Mar 2022. There are group stages 4 players 6 rounds, the winners of each group then play the knockout phase. Players: Grischuk, Andreikin, Shankland, Bacrot, Rapport, Vidit, Fedoseev, Shirov, Giri, Vitiugov, Harikrishna, Tabatabaei, Mamedyarov, MVL, Yu Yangyi and Predke. This is the second of three such events. Nakamura won the first, the final leg is back in Berlin Mon 21st Mar to Mon 4th Apr 2022.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2106,14 +2122,6 @@ news_feed (
          "title" : "Nakamura Makes Triumphant Return In Arena Kings Season 9 (Week 4)"
       },
       {
-         "description" : "GMs Magnus Carlsen, Ian Nepomniachtchi, Vladislav Artemiev, and Andrey Esipenko won their respective quarterfinals matches of the Airthings Masters to move on to the semifinals. How to watch? The games of the Airthings Masters knockouts can be ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-5",
-         "pubDate" : "Wed, 23 Feb 2022 15:46:00 -0800",
-         "title" : "Airthings Masters Day 5: Nepo, Carlsen, Artemiev, Esipenko Win"
-      },
-      {
          "description" : "After two years in post, IA Alan Atkinson (far left) is looking to move on from the ECF Manager of Arbiters role. We would like...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2448,22 +2456,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/money-heist.html",
          "pubDate" : "Thu, 17 Feb 2022 12:01:00 +0000",
          "title" : "Money Heist"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1582",
-         "pubDate" : "Wed, 16 Feb 2022 19:24:01 +0000",
-         "title" : "FIDE Grand Prix final: Aronian and Nakamura to battle it out in tiebreak"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1581",
-         "pubDate" : "Wed, 16 Feb 2022 18:33:04 +0000",
-         "title" : "FIDE delegation makes tour of Latin America"
       }
    ]
 }
