@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1624",
+         "pubDate" : "Wed, 09 Mar 2022 11:40:29 +0000",
+         "title" : "FIDE and Chess24 hold a fundraising marathon for Ukraine on Women's Day"
+      },
+      {
          "description" : "The&#xA0;March Lichess Blitz Titled Arena&#xA0;was won by&#xA0;GM Shant Sargsyan, a young Armenian super GM who is a former World U16 champion. In what was one of the closest Titled Arenas ever, Sargsyan was only really able to clinch the tournament in the final few minutes as he won two games back-to-back. Two other young and []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -2440,14 +2448,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1581",
          "pubDate" : "Wed, 16 Feb 2022 18:33:04 +0000",
          "title" : "FIDE delegation makes tour of Latin America"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1556",
-         "pubDate" : "Wed, 16 Feb 2022 11:06:23 +0000",
-         "title" : "FIDE introduces the use of electronic scoresheets in cooperation with Clono"
       }
    ]
 }
