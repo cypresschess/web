@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;March Lichess Blitz Titled Arena&#xA0;was won by&#xA0;GM Shant Sargsyan, a young Armenian super GM who is a former World U16 champion. In what was one of the closest Titled Arenas ever, Sargsyan was only really able to clinch the tournament in the final few minutes as he won two games back-to-back. Two other young and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-shant-sargsyan-wins-lichess-titled-arena/",
+         "pubDate" : "Wed, 09 Mar 2022 09:58:12 +0000",
+         "title" : "GM Shant Sargsyan wins Lichess titled arena"
+      },
+      {
+         "description" : "For the first time, the Saint Louis Chess Club will host&#xA0;The American Cup 2022, highlighting an exciting and unique double elimination format. This new format and tournament will bring world class chess masters to America&#x2019;s chess capital to compete in a fierce do-or-die struggle for $300,000 total in prize money. Live games and coverage will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/american-chess-cup-2022-live/",
+         "pubDate" : "Wed, 09 Mar 2022 09:51:39 +0000",
+         "title" : "American Chess Cup 2022 LIVE"
+      },
+      {
+         "description" : "For the first time, the Saint Louis Chess Club will host&#160;The American Cup 2022, highlighting an exciting and unique double elimination format. This new format and tournament will bring world class chess masters to America's chess capital to compete in a fierce do-or-die struggle for $300,000 total in prize money. With a double elimination format, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-american-chess-cup-2022/",
+         "pubDate" : "Wed, 09 Mar 2022 09:49:00 +0000",
+         "title" : "The American Chess Cup 2022"
+      },
+      {
+         "description" : "The final sixth round of the group stage of the Grand Prix finished in Belgrade, with four clear winners progressing to the semi-finals. Despite players such as Richard Rapport and Anish Giri entering the round as comfortable leaders in their groups, it was a tense day as things could have still gone wrong []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-grand-prix-belgrade-round-6/",
+         "pubDate" : "Wed, 09 Mar 2022 09:30:54 +0000",
+         "title" : "FIDE Grand Prix Belgrade: Round 6"
+      },
+      {
+         "description" : "The Split Chess Open is going to take place 16-24 July 2022 in Hotel Zagreb. It will be a 9 rounds Swiss with a prize fund of 8500 eur. Two additional blitz and rapid events add an extra 1500 eur to the prize fund. 11. SPLIT OPEN: CHESS FESTIVAL 2022 ORGANIZER:&#xA0;CHESS CLUB BRDA SPLITSPONSORS:&#xA0;CITY OF []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/split-chess-open-2022/",
+         "pubDate" : "Wed, 09 Mar 2022 09:22:01 +0000",
+         "title" : "Split Chess Open 2022"
+      },
+      {
+         "description" : "In his \"Weekly Show\" Lawrence Trent talks a bit about the Grand Prix in Belgrade, but the focus of the show is game 1 of the Sweden-England Challenge match between Nils Grandelius and David Howell. In the first game, Nils missed a number of great opportunities to win in a funky sideline of the Berlin but David defended resolutely and the game ended in a draw. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-david-howell-vs-nils-grandelius",
+         "pubDate" : "Wed, 09 Mar 2022 09:30:34 +0100",
+         "title" : "The Weekly Show: David Howell vs Nils Grandelius"
+      },
+      {
          "description" : "CLICK HERE FOR LIVE GAMES",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -186,6 +234,14 @@ news_feed (
          "title" : "The Winning Academy 7: Why is the threat stronger than its execution?"
       },
       {
+         "description" : "Computer chess continues to make headlines. This time Elon Musk commented on Massimo Rainmakers1973 post on Shannon's number, &#8220;Chess is a simple game. Understandable when all we had to play with were squirrels and rocks, but now we have computers&#8221; The tweet of Elon Musk coincides with the start on the Premier Division of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/elon-musk-now-we-have-computers-in-chess-tweetoftheday/",
+         "pubDate" : "Tue, 08 Mar 2022 08:53:00 +0000",
+         "title" : "Elon Musk - now we have computers in chess #TweetOftheDay"
+      },
+      {
          "description" : "The acronym \"LPDO\" was probably coined by the English player Mike Cook, who used it to explain the majority of his losses in a 100-game blitz match against John Nunn. But it was Nunn who made the term popular by talking about this blitz match in his book \"Secrets of Practical Chess\". Keeping \"LPDO\" in mind might help to reduce blundering pieces, even in the endgame. In the diagrammed position Black's rook and bishop are both \"loose\". How did White manage to let them \"drop off\"?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -360,6 +416,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-r5",
          "pubDate" : "Mon, 07 Mar 2022 11:15:00 +0100",
          "title" : "Belgrade GP: Fire on board"
+      },
+      {
+         "description" : "Tamil Nadu Grandmaster D Gukesh defeated former national champion Abhijeet Gupta of the PSPB in the penultimate round to catch up with overnight sole leader second seed Arjun Erigaisi of Telangana, which paved the way for a photo finish at the 58th&#160;edition of Senior National Chess Championship sponsored by MPL Sports Foundation here at Ganges []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mpl-58th-senior-national-chess-championship-2022-heading-for-a-photo-finish/",
+         "pubDate" : "Mon, 07 Mar 2022 08:45:00 +0000",
+         "title" : "MPL 58th Senior National Chess Championship 2022 heading for a photo finish"
       },
       {
          "description" : "GM Levon Aronian won the fourth week of the 2022 Rapid Chess Championship tournament presented by Coinbase.&#38;nbsp;Last week&#39;s winner, GM Fabiano Caruana, finished second. GM Hikaru Nakamura finished first in the preliminary Swiss tournament but fel...",
@@ -576,6 +640,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ecu-suspends-the-russian-and-belarusian-chess-federations",
          "pubDate" : "Sat, 05 Mar 2022 11:00:00 +0100",
          "title" : "ECU suspends the Russian and Belarusian Chess Federations"
+      },
+      {
+         "description" : "Gian Carlo Arvelo and Raydily Rosario Alm&#xE1;nzar are new chess champions of the Dominican Republic. The Open and Women&#x2019;s Championships, Swiss tournaments with classical time control, were held from February 18 to March 06 (with a long break from February 20-25 in the open competition).&#160; The 18th rated Gian Carlo Arvelo produced a major sensation []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gian-carlo-arvelo-and-raydily-rosario-almanzar-are-new-chess-champions-of-the-dominican-republic/",
+         "pubDate" : "Sat, 05 Mar 2022 09:33:00 +0000",
+         "title" : "Gian Carlo Arvelo and Raydily Rosario Alm&aacute;nzar are new chess champions of the Dominican Republic"
+      },
+      {
+         "description" : "Magnus Carlsen has won the first event of the 2022 Meltwater Champions Chess Tour, the Airthings Masters, after overcoming Ian Nepomniachtchi with a classy display today. The World Champion was hugely-impressive in the 16-player online super-tournament knockout stages having struggled at times during the round-robin. Then on day 2 of the final, after five draws []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-wins-airthings-masters-2022/",
+         "pubDate" : "Sat, 05 Mar 2022 08:45:00 +0000",
+         "title" : "Magnus Carlsen wins Airthings Masters 2022"
       },
       {
          "description" : "Black king on e7, unprotected queen a5 - White's threat in the diagrammed position is obvious, and not even 17...Bb6 could prevent him from making a good catch. Your call!",
@@ -944,6 +1024,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-505-a-grischuk-vs-d-andreikin",
          "pubDate" : "Thu, 03 Mar 2022 10:48:42 +0100",
          "title" : "Game of the Week #505: A. Grischuk vs D. Andreikin"
+      },
+      {
+         "description" : "After one-year hiatus caused by the pandemic situation, the Chilean Chess Federation held National Championships 2022 from February 18-27 (open and women). Both tournaments were OTB 12-player round-robins with classical time control. The only GM in the open section&#160;Pablo Salinas Herrera&#160;crushed the competition &#x2013; conceding his opponents only three draws and took gold with an []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/salinas-herrera-and-gomez-barrera-win-chilean-chess-championship-2022/",
+         "pubDate" : "Thu, 03 Mar 2022 09:42:00 +0000",
+         "title" : "Salinas Herrera and Gomez Barrera win Chilean Chess Championship 2022"
       },
       {
          "description" : "Due to the current events, Lawrence and Arne decided to show this episode from early February today, instead of last week. Lawrence built his setup up in Barcelona, and shows us some golden Keres tactics right from the openings. The more often we keep repeating, and recognizing the patterns, the better we will get. In the tactics training, we slowly move towards 2500.",
@@ -1986,14 +2074,6 @@ news_feed (
          "title" : "Airthings Masters Day 5: Nepo, Carlsen, Artemiev, Esipenko Win"
       },
       {
-         "description" : "Going into the final round, Jaime Santos was the sole leader at the Ibero-American Championship in Mexico City. The Spaniard fell at the last hurdle, though, as he was defeated by top seed Jorge Cori. Sandro Mareco (pictured) profited from this result, as he clinched tournament victory by beating Omar Almeida with the white pieces. | Photo: Club Obras / La Naci&oacute;n",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ibero-american-championsip-2022-mexico",
-         "pubDate" : "Wed, 23 Feb 2022 22:10:00 +0100",
-         "title" : "Sandro Mareco wins Ibero-American Championship in Mexico"
-      },
-      {
          "description" : "After two years in post, IA Alan Atkinson (far left) is looking to move on from the ECF Manager of Arbiters role. We would like...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2368,14 +2448,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1556",
          "pubDate" : "Wed, 16 Feb 2022 11:06:23 +0000",
          "title" : "FIDE introduces the use of electronic scoresheets in cooperation with Clono"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1580",
-         "pubDate" : "Wed, 16 Feb 2022 09:00:33 +0000",
-         "title" : "FIDE Podcast: New episode now available"
       }
    ]
 }
