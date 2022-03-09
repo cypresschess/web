@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.08<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-7/Dl5fhURP\">https://lichess.org/broadcast/2022-spring-chess-classic/round-7/Dl5fhURP</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-7",
+         "pubDate" : "Tue, 08 Mar 2022 23:56:58 +0000",
+         "title" : "2022 Spring Chess Classic: Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews JJ Ali Marandi during Round 7 of the Spring Chess Classic. 2022.03.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-jj-ali-marandi-interview-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lm_N7K5IXf0.jpg?itok=0owRunTi\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-jj-ali-marandi-interview-round-7",
+         "pubDate" : "Tue, 08 Mar 2022 23:56:58 +0000",
+         "title" : "2022 Spring Chess Classic: JJ Ali Marandi Interview | Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Hans Niemann during Round 7 of the Spring Chess Classic. 2022.03.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-hans-niemann-interview-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mE9eAF6KYak.jpg?itok=0ZpbHYgg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-hans-niemann-interview-round-7",
+         "pubDate" : "Tue, 08 Mar 2022 23:56:58 +0000",
+         "title" : "2022 Spring Chess Classic: Hans Niemann Interview | Round 7"
+      },
+      {
          "description" : "After six rounds Ray Robson is in sole lead with 4.5/6 at the Saint Louis Spring Classic. Samuel Sevian and Ilya Nyzhnyk follow with 4.0/6 each. | Round 7 starts Tuesday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/international-women-s-day-women-who-power-the-tour-part-1",
          "pubDate" : "Tue, 08 Mar 2022 16:23:12 +0000",
          "title" : "International Women's Day: Powering the Tour, part 1"
-      },
-      {
-         "description" : "Chess.com is thrilled to announce that the 2022 Women&#39;s Speed Chess Championship has been confirmed and is set to start on May 24. The event was born from a partnership between Chess.com and FIDE and is the most important online tournament for tit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-womens-speed-chess-championship-2022",
-         "pubDate" : "Tue, 08 Mar 2022 08:00:00 -0800",
-         "title" : "Announcing The 2022 FIDE Chess.com Women's Speed Chess Championship"
       },
       {
          "description" : "",
@@ -200,6 +216,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-abhi-mishra-interview-round-6",
          "pubDate" : "Tue, 08 Mar 2022 02:56:01 +0000",
          "title" : "2022 Spring Chess Classic: Abhi Mishra Interview | Round 6"
+      },
+      {
+         "description" : "Chess.com is thrilled to announce that the 2022 Women&#39;s Speed Chess Championship has been confirmed and is set to start on May 24. The event was born from a partnership between Chess.com and FIDE and is the most important online tournament for tit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-womens-speed-chess-championship-2022",
+         "pubDate" : "Mon, 07 Mar 2022 16:05:00 -0800",
+         "title" : "Announcing The 2022 FIDE Chess.com Women's Speed Chess Championship"
       },
       {
          "description" : "",
@@ -488,30 +512,6 @@ news_feed (
          "link" : "https://aicf.in/mpl-46th-national-sub-junior-open-and-girls-chess-championship-2022-3rd-seed-harshad-s-of-tamil-nadu-held-for-draw-by-paarth-salvi-of-goa/",
          "pubDate" : "Sun, 06 Mar 2022 07:49:55 +0000",
          "title" : "MPL 46th National Sub Junior Open and Girls Chess Championship 2022 3rd Seed Harshad S of Tamil Nadu held for draw by Paarth Salvi of Goa"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.05<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-4/AVUnwupv\">https://lichess.org/broadcast/2022-spring-chess-classic/round-4/AVUnwupv</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-4",
-         "pubDate" : "Sat, 05 Mar 2022 23:53:48 +0000",
-         "title" : "2022 Spring Chess Classic: Round 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Chris Repka during the 2022 Spring Chess Classic. 2022.03.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-chris-repka-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/l3bh27UUPZI.jpg?itok=S_ULKbso\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-chris-repka-interview-round-4",
-         "pubDate" : "Sat, 05 Mar 2022 23:53:48 +0000",
-         "title" : "2022 Spring Chess Classic: Chris Repka Interview | Round 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Illya Nyzhnyk during the 2022 Spring Chess Classic. 2022.03.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-illya-nyzhnyk-interview-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-8H3VuPU5V0.jpg?itok=KT3HWq7J\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-illya-nyzhnyk-interview-round-4",
-         "pubDate" : "Sat, 05 Mar 2022 23:53:48 +0000",
-         "title" : "2022 Spring Chess Classic: Illya Nyzhnyk Interview | Round 4"
       },
       {
          "description" : "",
