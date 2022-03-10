@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two exciting games were seen at the start of the FIDE Grand Prix semifinals in Belgrade. Richard Rapport scored a crucial win over Maxime Vachier-Lagrave and now only needs a draw on Thursday to vastly increase his chances of qualifying to the Candidates Tournament. Meanwhile, Anish Giri gave up two exchanges and got a favourable position out of a sharp Sicilian against Dmitry Andreikin. | Photos: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-sf1",
+         "pubDate" : "Thu, 10 Mar 2022 06:35:00 +0100",
+         "title" : "Belgrade GP: A big step forward for Rapport"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.09<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-8/CeItyNOB\">https://lichess.org/broadcast/2022-spring-chess-classic/round-8/CeItyNOB</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -42,20 +50,20 @@ news_feed (
          "title" : "Belgrade Grand Prix - Knockout: Day One Recap"
       },
       {
-         "description" : "From the pool phase of the 2022 FIDE Grand Prix&#38;nbsp;in Belgrade, GMs Dmitry Andreikin, Anish Giri, Richard Rapport, and Maxime Vachier-Lagrave qualified to the semifinals, with Andreikin and Giri meeting in one match while Rapport and Vachier Lag...",
+         "description" : "From the pool phase of the 2022 FIDE Grand Prix&#38;nbsp;in Belgrade, GMs Dmitry Andreikin, Anish Giri, Richard Rapport, and Maxime Vachier-Lagrave qualified to the semifinals, with Andreikin and Giri meeting in one match while Rapport and Vachier-Lag...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-semifinals-day-1",
-         "pubDate" : "Wed, 09 Mar 2022 13:10:05 -0800",
+         "pubDate" : "Wed, 09 Mar 2022 13:10:00 -0800",
          "title" : "2022 FIDE Grand Prix Belgrade Semifinals Day 1: Rapport Wins!"
       },
       {
-         "description" : "After seven rounds Ray Robson is in sole lead with 5.0/7 at the Saint Louis Spring Classic. Samuel Sevian and Ilya Nyzhnyk follow a half point back. | Round 8 starts Wednesday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center. | Photo: Crystal Fuller",
+         "description" : "Samuel Sevian took down former sole leader Ray Robson in round 8 of the Saint Louis Spring Classic. Going into Thursday's final round, Sevian is sharing first place with Ukrainian GM Ilya Nyzhnyk, who got the better of Aram Hakobyan in round 8. | Round 9 starts Thursday at 11:00 local time (18:00 CET, 17:00 UTC) with live commentary from the Saint Louis Chess Center. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
          "pubDate" : "Wed, 09 Mar 2022 19:45:00 +0100",
-         "title" : "Saint Louis Spring Classic 2022 - Round 8 live"
+         "title" : "Saint Louis Spring Classic 2022 - Sevian takes down Robson"
       },
       {
          "description" : " <p class=\"lead\">Round 1 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 semifinals</a> ended with Rapport winning against MVL and moving closer to the final, while Giri and Andreikin ended a complicated game in a draw agreement. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.4992679355783\"> <img src=\"https://worldchess.com/news/pictures/A-13.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51928807560_67b9281403_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51928805740_1ee7fd5642_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://",
@@ -112,14 +120,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-semi-final-game-1/",
          "pubDate" : "Wed, 09 Mar 2022 14:13:21 +0000",
          "title" : "FIDE Grand Prix in Belgrade: Semi-final Game 1"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
-         "pubDate" : "Wed, 09 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix SF - Games and results"
       },
       {
          "description" : "The Italian Spring Tour 2022 features four strong tournaments. One of them is the 1st Grandiscacchi Cattolica International which ended with an Indian double victory. After nine rounds seven players shared first place with 6.5/9 each, but S.L. Narayanan (pictured) had the best tiebreak and won the tournament. Praggnanandhaa finished second. | Photo: ChessBase India",
