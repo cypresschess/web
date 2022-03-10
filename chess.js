@@ -119,7 +119,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
          "pubDate" : "Wed, 09 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix SF - Live!"
+         "title" : "Belgrade Grand Prix SF - Games and results"
       },
       {
          "description" : "The Italian Spring Tour 2022 features four strong tournaments. One of them is the 1st Grandiscacchi Cattolica International which ended with an Indian double victory. After nine rounds seven players shared first place with 6.5/9 each, but S.L. Narayanan (pictured) had the best tiebreak and won the tournament. Praggnanandhaa finished second. | Photo: ChessBase India",
