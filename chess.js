@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wednesday&#39;s games of the 2022 FIDE Grand Prix&#38;nbsp;in Belgrade saw GM Richard Rapport win with the white pieces against GM Maxime Vachier-Lagrave, whereas the game between GM Anish Giri and GM Dmitry Andreikin ended in a draw after wild complicati...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-semifinals-day-2",
+         "pubDate" : "Thu, 10 Mar 2022 11:52:31 -0800",
+         "title" : "2022 FIDE Grand Prix Belgrade Semifinals Day 2: Rapport Magic"
+      },
+      {
+         "description" : " <p class=\"lead\">Round 2 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 semifinals</a> ended with an amazing game between Maxime Vachier-Lagrave and Richard Rapport. The French GM couldn't cash out his winning position and Rapport moves to the finals. Anish Giri and Dmitry Andreikin will face each other in tomorrow's tiebreaks. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.4992679355783\"> <img src=\"https://worldchess.com/news/pictures/A-14.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51930747770_db52316385_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.co",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/mvl-misses-his-chance-and-rapport-moves-to-the-fide-grand-prix-f/",
+         "pubDate" : "Thu, 10 Mar 2022 18:57:37 +0000",
+         "title" : "MVL misses his chance and Rapport moves to the FIDE Grand Prix finals"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Illya Nyzhnyk during Round<br /> 8 of the Spring Chess Classic. 2022.03.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-illya-nyzhnyk-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rezIOQT7VaU.jpg?itok=i8EFZZOD\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-illya-nyzhnyk-interview-round-8",
+         "pubDate" : "Thu, 10 Mar 2022 17:58:17 +0000",
+         "title" : "2022 Spring Chess Classic: Illya Nyzhnyk Interview | Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Jeffery Xiong during Round<br /> 8 of the Spring Chess Classic. 2022.03.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-jeffery-xiong-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mOOYXZZ1WRA.jpg?itok=qzvvl5TY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-jeffery-xiong-interview-round-8",
+         "pubDate" : "Thu, 10 Mar 2022 17:58:17 +0000",
+         "title" : "2022 Spring Chess Classic: Jeffery Xiong Interview | Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Christopher Yoo during Round<br /> 8 of the Spring Chess Classic. 2022.03.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-christopher-yoo-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UIEljVyyktI.jpg?itok=A9oxtHtE\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-christopher-yoo-interview-round-8",
+         "pubDate" : "Thu, 10 Mar 2022 17:58:17 +0000",
+         "title" : "2022 Spring Chess Classic: Christopher Yoo Interview | Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Abhimanyu Mishra during Round<br /> 8 of the Spring Chess Classic. 2022.03.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-abhi-mishra-interview-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wgjl9pVt50I.jpg?itok=UNG_fOGu\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-abhi-mishra-interview-round-8",
+         "pubDate" : "Thu, 10 Mar 2022 17:58:17 +0000",
+         "title" : "2022 Spring Chess Classic: Abhi Mishra Interview | Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser reviews the deadliest, most egregious, and most embarrassing blunders from the second leg of the FIDE Grand Prix. Who will qualify for the candidates tournament? Are grandmasters really all just robots? This video may hold the answers to such questions. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/ArcG3\">https://www.youtube.com/c/ArcG3</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/top-6-blunders-fide-grand-prix-2022-leg-2",
+         "pubDate" : "Thu, 10 Mar 2022 17:58:17 +0000",
+         "title" : "TOP 6 BLUNDERS from the FIDE Grand Prix 2022, Leg 2"
+      },
+      {
+         "description" : "Samuel Sevian took down former sole leader Ray Robson in round 8 of the Saint Louis Spring Classic. Going into Thursday's final round, Sevian is sharing first place with Ukrainian GM Ilya Nyzhnyk, who got the better of Aram Hakobyan in round 8. | Round 9 starts Thursday at 11:00 local time (18:00 CET, 17:00 UTC) with live commentary from the Saint Louis Chess Center.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
+         "pubDate" : "Thu, 10 Mar 2022 17:45:00 +0100",
+         "title" : "Saint Louis Spring Classic 2022 - Round 9 Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-championships-2022/",
+         "pubDate" : "Thu, 10 Mar 2022 16:41:04 +0000",
+         "title" : "The English Championships 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1628",
+         "pubDate" : "Thu, 10 Mar 2022 16:21:03 +0000",
+         "title" : "The First Global Interactive Community Chess Simul"
+      },
+      {
          "description" : "At the beginning of February, the now 12-year old chess talent Tykhon Cherniaiev from Ukraine was about to start a new show on ChessBase called \"Challenge Cherniaiev\". But then Russia invaded Ukraine and Tykhon and his family had to flee from their home in Kharkiv. Fortunately, many chess fans offered help and Tykhon and his family are now safely housed in a ChessBase flat in Hamburg.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,14 +216,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-semifinals-day-1",
          "pubDate" : "Wed, 09 Mar 2022 13:10:00 -0800",
          "title" : "2022 FIDE Grand Prix Belgrade Semifinals Day 1: Rapport Wins!"
-      },
-      {
-         "description" : "Samuel Sevian took down former sole leader Ray Robson in round 8 of the Saint Louis Spring Classic. Going into Thursday's final round, Sevian is sharing first place with Ukrainian GM Ilya Nyzhnyk, who got the better of Aram Hakobyan in round 8. | Round 9 starts Thursday at 11:00 local time (18:00 CET, 17:00 UTC) with live commentary from the Saint Louis Chess Center. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
-         "pubDate" : "Wed, 09 Mar 2022 19:45:00 +0100",
-         "title" : "Saint Louis Spring Classic 2022 - Sevian takes down Robson"
       },
       {
          "description" : " <p class=\"lead\">Round 1 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 semifinals</a> ended with Rapport winning against MVL and moving closer to the final, while Giri and Andreikin ended a complicated game in a draw agreement. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.4992679355783\"> <img src=\"https://worldchess.com/news/pictures/A-13.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51928807560_67b9281403_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51928805740_1ee7fd5642_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://",
@@ -506,30 +578,6 @@ news_feed (
          "title" : "2022 Spring Chess Classic: Round 6"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Semen Khanin during Round 6 of the 2022 Spring Chess Classic. 2022.03.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-sam-khanin-interview-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Wmej7qtbKYY.jpg?itok=ebrVT0Uk\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-sam-khanin-interview-round-6",
-         "pubDate" : "Tue, 08 Mar 2022 02:56:01 +0000",
-         "title" : "2022 Spring Chess Classic: Sam Khanin Interview | Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Aleksandr Lenderman during Round 6 of the 2022 Spring Chess Classic. 2022.03.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-alex-lenderman-interview-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iWdxifXX2yw.jpg?itok=BZ9i-zJE\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-alex-lenderman-interview-round-6",
-         "pubDate" : "Tue, 08 Mar 2022 02:56:01 +0000",
-         "title" : "2022 Spring Chess Classic: Alex Lenderman Interview | Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Abhimanyu Mishra during Round 6 of the 2022 Spring Chess Classic. 2022.03.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-abhi-mishra-interview-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wjDsPjGrgkU.jpg?itok=-4KSOBKr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-abhi-mishra-interview-round-6",
-         "pubDate" : "Tue, 08 Mar 2022 02:56:01 +0000",
-         "title" : "2022 Spring Chess Classic: Abhi Mishra Interview | Round 6"
-      },
-      {
          "description" : "Chess.com is thrilled to announce that the 2022 Women&#39;s Speed Chess Championship has been confirmed and is set to start on May 24. The event was born from a partnership between Chess.com and FIDE and is the most important online tournament for tit...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -720,22 +768,6 @@ news_feed (
          "link" : "https://www.chess.ca/en/news/2022/03/07/kingston-easter-chess/",
          "pubDate" : "Mon, 07 Mar 2022 00:00:00 +0000",
          "title" : "Canadian Closed, Zonals, Easter Sectionals (Kingston) Announced"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.06<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-5/pbt3dh1g\">https://lichess.org/broadcast/2022-spring-chess-classic/round-5/pbt3dh1g</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-5",
-         "pubDate" : "Sun, 06 Mar 2022 23:54:55 +0000",
-         "title" : "2022 Spring Chess Classic: Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Illya Nyzhnyk during the 2022 Spring Chess Classic. 2022.03.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-illya-nyzhnyk-interview-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bKW01Luq7C8.jpg?itok=WYkFXT13\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-illya-nyzhnyk-interview-round-5",
-         "pubDate" : "Sun, 06 Mar 2022 23:54:55 +0000",
-         "title" : "2022 Spring Chess Classic: Illya Nyzhnyk Interview | Round 5"
       },
       {
          "description" : "",
@@ -1344,14 +1376,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1603",
          "pubDate" : "Wed, 02 Mar 2022 19:40:52 +0000",
          "title" : "The Official Statement of FIDE Council"
-      },
-      {
-         "description" : " <p class=\"lead\">Day 2 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 in Belgrade</a> ended with Anish Giri and Vidit Gujrathi leading Groups B and C respectively with a full point, while Grischuk suffered his second loss in a row. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.4992679355783\"> <img src=\"https://worldchess.com/news/pictures/A-10.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51914750790_9b1285b5f0_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51914549495_d19eb2f72e_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/giri-and-vidit-lead-their-groups-with-a-full-point-at-the-fide-g/",
-         "pubDate" : "Wed, 02 Mar 2022 18:39:07 +0000",
-         "title" : "Giri and Vidit lead their groups with a full point at the FIDE Grand Prix 2022"
       },
       {
          "description" : " This week on The Master Chess Web Show Andrew Martin and I looked at some more nice games and even answered the first viewer's question. We'll be doing more of this in future, but please submit any questions via our web site as we may need to prepare in advance. Here are the videos from <a href=\"https://chessimprover.com/the-master-chess-web-show-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Master Chess Web Show (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-master-chess-web-show-3/\">The Master Chess Web Show (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2002,14 +2026,6 @@ news_feed (
          "title" : "FIDE postpones the 2022 Chess Olympiad"
       },
       {
-         "description" : "The 2022 Chess Olympiad, scheduled for July 26-August 9, won&#39;t take place in Russia. This was announced by FIDE following Russia&#39;s invasion into Ukraine. Note that you can find Chess.com&#39;s stance on this topic here. This year&#39;s Olympiad was su...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-olympiad-not-in-russia",
-         "pubDate" : "Fri, 25 Feb 2022 08:10:00 -0800",
-         "title" : "FIDE Olympiad Won't Take Place In Russia; Ukrainian Federation Asks For Russian Ban"
-      },
-      {
          "description" : "Trent's Tactics is back, and the timing couldn't be more strange. Lawrence and Arne talk about the current events in the Ukraine, and although the tactics work out brilliantly, the progress in the training section fails miserably. Most probably because there are other things on the host's minds. Nonetheless, the tactics continue and make you think of something different for a brief moment.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2330,14 +2346,6 @@ news_feed (
          "title" : "RIP Stan Goodall"
       },
       {
-         "description" : "Nigel Crucefix 1963-2022 It is with immense sadness that Trowbridge Chess Club shares the news of the sudden death of Nigel Crucefix, aged 58. Nigel...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rip-nigel-crucefix/",
-         "pubDate" : "Mon, 21 Feb 2022 09:23:28 +0000",
-         "title" : "RIP Nigel Crucefix"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2440,22 +2448,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/kind-of-unexpected.html",
          "pubDate" : "Fri, 18 Feb 2022 12:16:00 +0000",
          "title" : "Kind of unexpected"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1584",
-         "pubDate" : "Thu, 17 Feb 2022 19:50:31 +0000",
-         "title" : "Hikaru Nakamura wins first leg of FIDE Grand Prix Series 2022"
-      },
-      {
-         "description" : " The five-time US champion with more than a million Twitch followers had not played classical chess for two years Hikaru Nakamura defeated Levon Aronian 3-1 in the all-American Fide Grand Prix first leg final at Berlin on Thursday as the five-time US champion, who has become a Twitch stremer with more than a million followers, showed his speed skills by winning both 15-minute rapids after two classical games were drawn. Nakamura needed a wildcard from the Fide president to compete in Berlin, and that decision drew sharp criticism from Arkady Dvorkovich's Russian compatriots, but his games were full of energy and ideas. The <a href=\"https://chess24.com/en/watch/live-tournaments/fide-grand-pri",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/feb/17/hikaru-nakamura-wins-3-1-in-berlin-as-popular-streamer-leads-grand-prix",
-         "pubDate" : "Thu, 17 Feb 2022 19:31:25 +0000",
-         "title" : "Hikaru Nakamura wins in Berlin as popular chess streamer leads Grand Prix"
       }
    ]
 }
