@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the beginning of February, the now 12-year old chess talent Tykhon Cherniaiev from Ukraine was about to start a new show on ChessBase called \"Challenge Cherniaiev\". But then Russia invaded Ukraine and Tykhon and his family had to flee from their home in Kharkiv. Fortunately, many chess fans offered help and Tykhon and his family are now safely housed in a ChessBase flat in Hamburg.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tykhon-is-safe",
+         "pubDate" : "Thu, 10 Mar 2022 16:23:37 +0100",
+         "title" : "Tykhon is safe!"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/mjGWXi7zQ_c?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-semi-final-game-2/",
+         "pubDate" : "Thu, 10 Mar 2022 14:19:33 +0000",
+         "title" : "FIDE Grand Prix in Belgrade: Semi-final Game 2"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
+         "pubDate" : "Thu, 10 Mar 2022 14:55:00 +0100",
+         "title" : "Belgrade Grand Prix SF - Live!"
+      },
+      {
+         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. Grandelious, who was trailing the match after losing game four, bounced back by winning game 7. With three games to go both players now have 3.5 points. Game 8 starts Thursday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-game-6-live",
+         "pubDate" : "Thu, 10 Mar 2022 14:30:00 +0100",
+         "title" : "England vs Sweden Challenge - Game 8 live"
+      },
+      {
+         "description" : " One of the most famous games in chess history is the Morphy 'Opera Box Game'. I often show it to students I coach, and now know it off by heart. I even thought I knew it when I was a lot younger, but it seems that I only knew the first few moves, and forgot the rest! <br /> <b>Press,Shaun - Mathe,Richard [C41]</b><br />ACT Junior Championship, 19.11.1983 <script>new PgnViewer( { boardName: \"game1316\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 d6 3.d4 Bg4 4.dxe5 Bxf3 5.Qxf3 dxe5 6.Bc4 Nf6 7.O-O Qd4 8.Bd3 Nc6 9.Nc3 a6 10.Rd1 Qd6 11.Be3 Qe7 12.Bc4 h6 13.Nd5 Nxd5 14.Bxd5 Na5 15.Bd2 c6 16.Bxa5 cxd5 17.exd5 Qc5 18.Bc3 O-O-O 19.Bxe5 Qxc2 20.Rac1 Qxc1 21.Rxc1+ Kd7 22.Qxf7+ Be7 23.d6 Rhe8 24.",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/not-knowing-classics.html",
+         "pubDate" : "Thu, 10 Mar 2022 12:56:00 +0000",
+         "title" : "Not knowing the classics "
+      },
+      {
+         "description" : "\"Of course we're glad to have escaped,\" says Anwesh. \"But Ukraine isn't a place we can cut off from our minds.\"",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33467976/ukraine-russia-invasion-india-chess-im-reaches-india-traumatic-experience?device=featurephone",
+         "pubDate" : "Thu, 10 Mar 2022 07:27:46 -0500",
+         "title" : "Indian chess IM Anwesh back home after surviving 'traumatic' experience in Ukraine"
+      },
+      {
          "description" : "Garry Kasparov has long been an avowed opponent of Vladimir Putin, and in 2015 he issued a strong warning about Putin and his political aims in his book \"Winter is Coming\". In an interview with the American TV programme \"Amanpour and Company\", Kasparov now talks about the war in Ukraine, Putin's political rise, the failure of the West to oppose Putin and possible sanctions against Russia. Passionate, informed and eloquent.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1450,14 +1498,6 @@ news_feed (
          "title" : "FIDE Grand Prix Belgrade: Round 1 Recap"
       },
       {
-         "description" : " <p class=\"lead\">The second leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE World Chess Grand Prix</a> got off to a sharp start with four players securing victories and four games ending in a draw The first round was opened with a brief ceremony where the players were welcomed by the Serbian minister for sport, Vanja Udovicic, who was one of the world's best ever water polo players (the sport is very popular in Serbia and southern Europe). Together with the head of the Serbian Chess Federation Dragan Lazic, Mr Udovicic made the first move in the game between Richard Rapport and Nikita Vitiugov. The first round of the second leg of the FIDE Grand Prix concluded with Dmit",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/belgrade-grand-prix-round-one/",
-         "pubDate" : "Wed, 02 Mar 2022 00:00:42 +0000",
-         "title" : "Belgrade Grand Prix | Round One"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2002,28 +2042,12 @@ news_feed (
          "title" : "44th Chess Olympiad and FIDE Congress will not take place in Russia"
       },
       {
-         "description" : "There are grandmasters and grandmasters. But there is only one Averbakh. This month he turned 100 and set a record in longevity. He is the oldest grandmaster in chess history. The other day ChessBase paid him a tribute and accolades are still pouring in from the chess world. Not many are aware that he has written his autobiography. Our columnist takes a look. The first part of this series tells us how it all began. | Photo Credit: Chess Federation of Russia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/averbakh-on-averbakh-how-it-all-began",
-         "pubDate" : "Fri, 25 Feb 2022 14:00:00 +0100",
-         "title" : "Averbakh on Averbakh: How it all began"
-      },
-      {
          "description" : " As a consequence of the Russian invasion of The Ukraine, FIDE are looking at whether it is appropriate to hold any major chess events in Russia in the foreseeable future. A brief statement was released by FIDE on this matter, indicating that they plan to consult with the relevant commissions and federations. Already there has been a number of comments by leading players (and other chess identities) asking that the Moscow Olympiad either not take place, or be moved (which is less likely). A few have gone as far as to ask for the resignation of FIDE President Arkady Dvorkovich, based on his connections with the Russian government. At this stage Federations have not been asked for their opinio",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/02/2022-chess-olympiad-in-serious-doubt.html",
          "pubDate" : "Fri, 25 Feb 2022 11:50:00 +0000",
          "title" : "2022 Chess Olympiad in serious doubt"
-      },
-      {
-         "description" : "Did you solve the Sam Loyd problem? The key is the move you would least expect! A week ago we showed you a small collection of delightful problems from the January issue of CHESS Magazine. Today we give you the solutions, annotated by Graham Phythian. You can figure out all the variations with the help of the built-in engines in our replay app.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-magazine-quiz-2",
-         "pubDate" : "Fri, 25 Feb 2022 12:00:00 +0100",
-         "title" : "CHESS Magazine quiz"
       },
       {
          "description" : " Two weeks ago, we looked at a position that will form the basis for creating a combination that set up a tactic called a skewer. A combination is simply a series of moves that allow you to create a tactical opportunity. Since the majority of tactics don't appear out of thin air, you need to <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-three/\">A Foundation for Beginners Fifty Three</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\"",
@@ -2048,14 +2072,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/33360098/indian-chess-im-ukraine-russia-war-alone-kyiv-apartment?device=featurephone",
          "pubDate" : "Fri, 25 Feb 2022 01:55:56 -0500",
          "title" : "'I don't know what to expect anymore': Alone in his Kyiv apartment, Indian chess IM faces uncertain future"
-      },
-      {
-         "description" : "It has been a tough day for everyone. Vladimir Putin's appalling decision to invade Ukraine has shocked the world, and his actions have been condemned by most world leaders. At the Airthings Masters, three out of four semifinalists hail from Russia, with Ian Nepomniachtchi confessing after beating Andrey Esipenko, \"I can't think\". Nepo will face Magnus Carlsen in the finals of the online tournament, in a rematch of the recent contest for the World Championship title. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d6",
-         "pubDate" : "Fri, 25 Feb 2022 05:25:00 +0100",
-         "title" : "Airthings Masters SF: Carlsen and Nepo reach the final"
       },
       {
          "description" : " Frank Street became a National Master in June 1965 and in the same year, graced the cover of Chess life magazine. As a 20-year old Street had just won the U.S. Amateur Championship and would go on to win the club champion of the Washington Chess Divan, defeating fellow master, Kenneth Clayton. Street also famously [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/24/black-history-month-2022-day-24-frank-street/\">Black History Month 2022-Day 24: Frank Street</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -2440,22 +2456,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/feb/17/hikaru-nakamura-wins-3-1-in-berlin-as-popular-streamer-leads-grand-prix",
          "pubDate" : "Thu, 17 Feb 2022 19:31:25 +0000",
          "title" : "Hikaru Nakamura wins in Berlin as popular chess streamer leads Grand Prix"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1583",
-         "pubDate" : "Thu, 17 Feb 2022 15:33:30 +0000",
-         "title" : "FIDE PDC Continental Meeting held in Mexico"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the first leg of the series taking place in Berlin on February 4 to 17. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
-         "pubDate" : "Thu, 17 Feb 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix Final - Games and results"
       }
    ]
 }
