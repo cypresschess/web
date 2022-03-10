@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.09<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-8/CeItyNOB\">https://lichess.org/broadcast/2022-spring-chess-classic/round-8/CeItyNOB</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-8",
+         "pubDate" : "Wed, 09 Mar 2022 23:57:45 +0000",
+         "title" : "2022 Spring Chess Classic: Round 8"
+      },
+      {
+         "description" : "The 2022 Bullet Chess Championship presented by DigitalOcean&#38;nbsp;resumed today with a blockbuster lineup of matches that featured the world&#39;s number one bullet chess player GM&#38;nbsp;Hikaru Nakamura as well as a masterclass from &#34;The Prophet,&#34; GM&#38;n...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bullet-chess-championship-quarterfinals-naroditsky-masterclass-sets-up-showdown-with-nakamura",
+         "pubDate" : "Wed, 09 Mar 2022 15:01:00 -0800",
+         "title" : "Bullet Chess Championship Quarterfinals: Naroditsky Masterclass Sets Up Showdown With Nakamura"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won the sixth week of Arena Kings on Wednesday, just moments before beginning a quarterfinal match in the Bullet Chess Championship. He defeated GM Oleksandr Bortnyk in the Arena Kings final.&#38;nbsp; This week&#39;s semifinalists we...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-arena-kings-season-9-week-6",
+         "pubDate" : "Wed, 09 Mar 2022 14:38:40 -0800",
+         "title" : "Nakamura Reclaims Arena Kings Season 9 Throne In Week 6"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1627",
+         "pubDate" : "Wed, 09 Mar 2022 22:03:57 +0000",
+         "title" : "FIDE Grand Prix Belgrade - Knockout: Day One Recap"
+      },
+      {
+         "description" : " <p class=\"lead\">Richard Rapport defeats Maxime-Vachier-Lagrave as White, while Giri and Andreikin draw <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-09_22-48-49.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-09_22-48-38.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-09_22-48-41.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-09_22-48-46.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pi",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/belgrade-grand-prix-knockout-day-one-recap/",
+         "pubDate" : "Wed, 09 Mar 2022 21:51:25 +0000",
+         "title" : "Belgrade Grand Prix - Knockout: Day One Recap"
+      },
+      {
+         "description" : "From the pool phase of the 2022 FIDE Grand Prix&#38;nbsp;in Belgrade, GMs Dmitry Andreikin, Anish Giri, Richard Rapport, and Maxime Vachier-Lagrave qualified to the semifinals, with Andreikin and Giri meeting in one match while Rapport and Vachier Lag...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-semifinals-day-1",
+         "pubDate" : "Wed, 09 Mar 2022 13:10:05 -0800",
+         "title" : "2022 FIDE Grand Prix Belgrade Semifinals Day 1: Rapport Wins!"
+      },
+      {
          "description" : "After seven rounds Ray Robson is in sole lead with 5.0/7 at the Saint Louis Spring Classic. Samuel Sevian and Ilya Nyzhnyk follow a half point back. | Round 8 starts Wednesday at 13:00 local time (20:00 CET, 19:00 UTC) with live commentary from the Saint Louis Chess Center. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -594,7 +642,7 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Belgrade R5: Rapport Wins To Take Lead In Group C"
       },
       {
-         "description" : "(Original was posted HERE) KEC 2022 Announcement (Kingston Easter Chess) This is the KEC 2022 ANNOUNCEMENT, as of the morning of Monday, March 7th. Especially given changing pandemic conditions, this will be updated as applicable. KEC 2022 sections (all 5 sections rated both FIDE &amp; CFC): Zonals/Closed championships: - Canada Zonal, - Canada Women Zonal Easter Sectionals: U2200, U1900, U1600 When Wednesday, April 13th: - Welcome @ 630pm, - Round 1 @ 7pm Thursday, April 14th: - Round 2 @ 10am, - Round 3 @ 5pm Friday, April 15th: - Round 4 @ 10am, - Round 5 @ 5pm Saturday, April 16th: - TBD activities, - Round 6 @ 5pm Sunday: April 17th: - Round 7 @ 10am, - Round 8 @ 5pm Monday: April 18th:",
+         "description" : "(Original was posted HERE) KEC 2022 Announcement (Kingston Easter Chess) This is the KEC 2022 ANNOUNCEMENT, now updated as of Wednesday, March 9th. Especially given changing pandemic conditions, this will be updated as applicable. KEC 2022 sections (all 5 sections rated both FIDE &amp; CFC): Zonals/Closed championships: - Canada Zonal, - Canada Women Zonal Easter Sectionals: U2200, U1900, U1600 When Wednesday, April 13th: - Welcome @ 630pm, - Round 1 @ 7pm Thursday, April 14th: - Round 2 @ 10am, - Round 3 @ 5pm Friday, April 15th: - Round 4 @ 10am, - Round 5 @ 5pm Saturday, April 16th: - TBD activities, - Round 6 @ 5pm Sunday: April 17th: - Round 7 @ 10am, - Round 8 @ 5pm Monday: April 18th:",
          "iconLink" : "https://cypresschess.github.io/web/canada2.png",
          "iconName" : "Canadian<br>Chess",
          "link" : "https://www.chess.ca/en/news/2022/03/07/kingston-easter-chess/",
@@ -616,14 +664,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-illya-nyzhnyk-interview-round-5",
          "pubDate" : "Sun, 06 Mar 2022 23:54:55 +0000",
          "title" : "2022 Spring Chess Classic: Illya Nyzhnyk Interview | Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Sam Sevian during the 2022 Spring Chess Classic. 2022.03.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-sam-sevian-interview-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MnmU5M-rwdw.jpg?itok=u-MoS0W1\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-sam-sevian-interview-round-5",
-         "pubDate" : "Sun, 06 Mar 2022 23:54:55 +0000",
-         "title" : "2022 Spring Chess Classic: Sam Sevian Interview | Round 5"
       },
       {
          "description" : "",
@@ -1402,14 +1442,6 @@ news_feed (
          "title" : "Belgrade Grand Prix | Round One"
       },
       {
-         "description" : " <p class=\"lead\">After Round 1 of the second leg of the FIDE Grand Prix in Belgrade Russian Grandmaster Alexander Grischuk made a statement and shared his feeling about Russia's attack on Ukraine. \"Now I don't think I will be able to recover at all. I am very sad, very pained with what is going on. I will not use the word 'war' because it's prohibited in our media and I want them to be able to quote me. I was and would support Russia in 99% of international conflicts but this time I cannot manage to do that. In my view what we are doing is very wrong from both moral view and practical view. And maybe our government, our president think that if they stop what's going on they will have to resi",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/alexander-grischuk-on-the-russias-invasion-of-ukraine-its-extrem/",
-         "pubDate" : "Tue, 01 Mar 2022 23:31:00 +0000",
-         "title" : "Alexander Grischuk on Russia's invasion of Ukraine:\"It's Extremely Painful for Me\"."
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2026,14 +2058,6 @@ news_feed (
          "title" : "Black History Month 2022-Day 24: Frank Street"
       },
       {
-         "description" : "It&#39;s GM Magnus Carlsen and GM Ian Nepomniachtchi who will renew their rivalry when they meet in the final match played over two days of competition. Both of these chess giants won their respective semifinal matches by a score of 2.5-0.5. How to ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-6",
-         "pubDate" : "Thu, 24 Feb 2022 16:08:00 -0800",
-         "title" : "Airthings Masters Day 6: Nepo, Carlsen Meet Again In Finals"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2048,14 +2072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1597",
          "pubDate" : "Thu, 24 Feb 2022 22:04:23 +0000",
          "title" : "Carlsen and Nepomniachtchi set up final"
-      },
-      {
-         "description" : "The second week of the Collegiate Chess League wrapped up last weekend, and many matches were rescheduled due to numerous colleges traveling to play over-the-board in the regional US Amateur Team events that were also taking place. Many CCL teams ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-round-2",
-         "pubDate" : "Thu, 24 Feb 2022 10:15:00 -0800",
-         "title" : "Collegiate Chess League Season 4 Round 2"
       },
       {
          "description" : "In this article, statistician Bruno Wiesend reports on a scientific controversy about a study on the \"Influence of intelligence and practice on the development of skills\". The author considers the results of the study to be wrong due to methodological errors. | Photo: Pixabay",
@@ -2112,14 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1594",
          "pubDate" : "Thu, 24 Feb 2022 00:23:05 +0000",
          "title" : "Three Russians power into semis of Airthings Masters"
-      },
-      {
-         "description" : "After missing two straight weeks during his victory in the first part of the FIDE Grand Prix, GM Hikaru Nakamura returned to Arena Kings for the fourth week of season nine and took home the victory in the finals over GM Baadur Jobava. The semifina...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-arena-kings-season-9-week-4-nakamura-wins",
-         "pubDate" : "Wed, 23 Feb 2022 16:20:00 -0800",
-         "title" : "Nakamura Makes Triumphant Return In Arena Kings Season 9 (Week 4)"
       },
       {
          "description" : "After two years in post, IA Alan Atkinson (far left) is looking to move on from the ECF Manager of Arbiters role. We would like...",
