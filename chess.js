@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Garry Kasparov has long been an avowed opponent of Vladimir Putin, and in 2015 he issued a strong warning about Putin and his political aims in his book \"Winter is Coming\". In an interview with the American TV programme \"Amanpour and Company\", Kasparov now talks about the war in Ukraine, Putin's political rise, the failure of the West to oppose Putin and possible sanctions against Russia. Passionate, informed and eloquent.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/garry-kasparov-on-russia-s-attack-on-ukraine",
+         "pubDate" : "Thu, 10 Mar 2022 13:00:00 +0100",
+         "title" : "Garry Kasparov on Russia's Attack on Ukraine"
+      },
+      {
+         "description" : "The pools for the last leg of the FIDE Grand Prix have been determined. The tournament in Berlin will be held from 21 March to 4 April at the World Chess Club Berlin. The event features 16 elite chess players competing for a prize fund of €150,000 and the last two places in the Candidates Tournament scheduled to take place in Madrid in June. Press Release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pools-for-third-leg-of-fide-grand-prix-2022-announced",
+         "pubDate" : "Thu, 10 Mar 2022 11:55:58 +0100",
+         "title" : "Pools for third leg of FIDE Grand Prix 2022 announced"
+      },
+      {
+         "description" : "Richard Rapport credited his wife with an idea in the Gr&uuml;nfeld that caught Maxime Vachier-Lagrave off-guard and put the Hungarian no. 1 on the verge of the final. Maxime must now win on Thursday to take their match to tiebreaks. Giri-Andreikin ended in a draw, but only after a thrilling game where Anish Giri missed a huge chance to beat Dmitry Andreikin. A draw was agreed in a position where it still wasn't clear if Giri's bishop pair would be sufficient to counter Andreikin's two rooks.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/belgrade-gp-semis-1-rapport-beats-mvl",
+         "pubDate" : "Thu, 10 Mar 2022 10:33:49 +0000",
+         "title" : "Belgrade GP Semis 1: Rapport beats MVL"
+      },
+      {
+         "description" : "The Prague Chess Festival 2022 will take place 7-17 June. It will consist of a Masters 10 player round robin event, Challengers and Futures tournaments. The Masters have already confirmed three top players GM David Navara, GM Le Quang Liem and GM Salem Saleh. More: The story of the 2021 Prague Chess here The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/prague-chess-festival-2022-participants-and-information/",
+         "pubDate" : "Thu, 10 Mar 2022 10:18:36 +0000",
+         "title" : "Prague Chess Festival 2022 - participants and information"
+      },
+      {
          "description" : "Two exciting games were seen at the start of the FIDE Grand Prix semifinals in Belgrade. Richard Rapport scored a crucial win over Maxime Vachier-Lagrave and now only needs a draw on Thursday to vastly increase his chances of qualifying to the Candidates Tournament. Meanwhile, Anish Giri gave up two exchanges and got a favourable position out of a sharp Sicilian against Dmitry Andreikin. | Photos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,14 +168,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/russian-grandmaster-changes-federation",
          "pubDate" : "Wed, 09 Mar 2022 13:37:04 +0000",
          "title" : "First Russian Grandmaster changes federation since ban"
-      },
-      {
-         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. After six games Howell, who won game four while all the other games ended in a draw, leads 3.5-2.5. Game 7 starts Wednesday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-game-6-live",
-         "pubDate" : "Wed, 09 Mar 2022 14:30:00 +0100",
-         "title" : "England vs Sweden Challenge - Game 6 live"
       },
       {
          "description" : " This week Andrew and I ran three Master Chess Web Shows, the agendas being as follows: Monday The Monday show is devoted to readers' questions, with these three being addressed: 1) How should Black play against the 3.e5 Bf5 4.Ne2 e6 5.Ng3 Bg6 6.h4 line of the Caro-Kann? 2) What is the best ever King's <a href=\"https://chessimprover.com/master-chess-web-show-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-4/\">Master Chess Web Show (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -824,14 +848,6 @@ news_feed (
          "link" : "https://www.chessdom.com/gian-carlo-arvelo-and-raydily-rosario-almanzar-are-new-chess-champions-of-the-dominican-republic/",
          "pubDate" : "Sat, 05 Mar 2022 09:33:00 +0000",
          "title" : "Gian Carlo Arvelo and Raydily Rosario Alm&aacute;nzar are new chess champions of the Dominican Republic"
-      },
-      {
-         "description" : "Magnus Carlsen has won the first event of the 2022 Meltwater Champions Chess Tour, the Airthings Masters, after overcoming Ian Nepomniachtchi with a classy display today. The World Champion was hugely-impressive in the 16-player online super-tournament knockout stages having struggled at times during the round-robin. Then on day 2 of the final, after five draws []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-wins-airthings-masters-2022/",
-         "pubDate" : "Sat, 05 Mar 2022 08:45:00 +0000",
-         "title" : "Magnus Carlsen wins Airthings Masters 2022"
       },
       {
          "description" : "Black king on e7, unprotected queen a5 - White's threat in the diagrammed position is obvious, and not even 17...Bb6 could prevent him from making a good catch. Your call!",
@@ -1738,14 +1754,6 @@ news_feed (
          "title" : "Black History Month 2022-Day 27: Kenneth Clayton"
       },
       {
-         "description" : "The situation in Ukraine is constantly changing, with fierce battles in cities all over the country, including the capital Kyiv. The concern for the safety of Ukrainian players is growing in the chess world and chess24 reached out to some of them, who shared their story about what they are experiencing.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ukrainian-chess-grandmasters-caught-in-a-warzone",
-         "pubDate" : "Sun, 27 Feb 2022 18:14:05 +0000",
-         "title" : "Ukrainian Chess Grandmasters caught in a warzone"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 68th instalment of his ChessBase show \"Understanding before Moving\", Herman shows some ideas of how to play against the King's Indian. | Photo: Tommy Grooten",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2072,14 +2080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1597",
          "pubDate" : "Thu, 24 Feb 2022 22:04:23 +0000",
          "title" : "Carlsen and Nepomniachtchi set up final"
-      },
-      {
-         "description" : "In this article, statistician Bruno Wiesend reports on a scientific controversy about a study on the \"Influence of intelligence and practice on the development of skills\". The author considers the results of the study to be wrong due to methodological errors. | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/do-chess-players-and-scientists-need-intelligence",
-         "pubDate" : "Thu, 24 Feb 2022 17:00:00 +0100",
-         "title" : "Do Chess Players and Scientists Need Intelligence?"
       },
       {
          "description" : "",
@@ -2456,14 +2456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-1-live",
          "pubDate" : "Thu, 17 Feb 2022 14:55:00 +0100",
          "title" : "FIDE Grand Prix Final - Games and results"
-      },
-      {
-         "description" : " \"Bobby Fischer would've never faced Spassky with his girlfriend at his side.\"<div>This one of the more interesting quotes from the Netflix series \"Money Heist\". As with a lot of series that have the criminal mastermind up against the police, there is a lot of chess symbolism scattered throughout. The pensive stare at the chessboard, moving pieces to show the next stage of the plan, and just the general \"chess = smart\" vibe, this series employs a lot of these tropes. </div><div>Nonetheless, they don't overdo it, instead using these shots only when necessary. The rest of the time, it is an incredibly enjoyable heist series, where the good/bad guys are always one step of the police. If you hav",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/money-heist.html",
-         "pubDate" : "Thu, 17 Feb 2022 12:01:00 +0000",
-         "title" : "Money Heist"
       }
    ]
 }
