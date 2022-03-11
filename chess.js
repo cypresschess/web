@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">The semifinals of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 in Belgrade</a> brought Anish Giri and Dmitry Andreikin in the tiebreaks. Andreikin managed to win the rapid tiebreaks with a 1.5-0.5 score and will face Rapport in the finals tomorrow. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51930381721_7fb1d50df7_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: Mark Livshitz / FIDE</div> </div> The semifinal tiebreaks between Dmitry Andreikin and Anish Giri started with a peaceful first game and a draw by repetition. The second game was in Giri's favor until a miscalculation by th",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/andreikin-is-the-second-finalist-of-the-fide-grand-prix-2022-in/",
+         "pubDate" : "Fri, 11 Mar 2022 15:35:05 +0000",
+         "title" : "Andreikin is the second finalist of the FIDE Grand Prix 2022 in Belgrade"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/V2TqVx7wy3s?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-semi-final-tie-break/",
+         "pubDate" : "Fri, 11 Mar 2022 14:14:41 +0000",
+         "title" : "FIDE Grand Prix in Belgrade: Semi-final Tie-Break"
+      },
+      {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -255,7 +271,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
          "pubDate" : "Thu, 10 Mar 2022 17:45:00 +0100",
-         "title" : "Saint Louis Spring Classic 2022 - Round 9 Live!"
+         "title" : "Saint Louis Spring Classic 2022 - Games and results"
       },
       {
          "description" : "",
@@ -1290,14 +1306,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: A miniature between two top players"
       },
       {
-         "description" : " As <a href=\"https://www.championat.com/other/news-4626621-veduschie-shahmatisty-rossii-napisali-obraschenie-k-prezidentu-rf.html\">Championat and Yana Metlyova revealed</a>, Russia's leading chess players made an official appeal to the President of the Russian Federation regarding the Russian invasion of Ukraine. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Untitled-design-(1).jpg\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> \"We oppose military actions on the territory of Ukraine and call for an early ceasefire and a peaceful solution to the conflict through dialogue and diplomatic negotiations. It is unbearably painful for us to see the catastrophe that is ha",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/russian-chess-players-ask-for-peace/",
-         "pubDate" : "Thu, 03 Mar 2022 16:59:11 +0000",
-         "title" : "Russian chess players ask for peace"
-      },
-      {
          "description" : "Final Round Report &#160; In the final round Divya and Soumya signed a peace treaty. Divya maintained her spectacular form and won the MPL 47th",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1328,14 +1336,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-r2",
          "pubDate" : "Thu, 03 Mar 2022 14:45:00 +0100",
          "title" : "Belgrade GP: Vidit and Giri sole leaders in their pools"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/IQriGLi_FNU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-round-3/",
-         "pubDate" : "Thu, 03 Mar 2022 13:15:51 +0000",
-         "title" : "FIDE Grand Prix in Belgrade: Round 3"
       },
       {
          "description" : "Whether for in-class work or for homework, worksheets help students review and practice chess. Creating worksheets-then printing, formatting, and sharing them-are tasks that every chess coach undertakes. In this article, National Master Jeffrey Ashton shows how ChessBase makes these tasks easier.",
@@ -2440,14 +2440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1585",
          "pubDate" : "Fri, 18 Feb 2022 22:46:00 +0000",
          "title" : "\"Chess for Mental Health\" International Conference announced"
-      },
-      {
-         "description" : " The Airthings Masters is the first event in the new season of the online Meltwater Champions Chess Tour. The event is hosted by Chess24 and takes place February 19th to 26th 2022. The format is mostly the same as last season with a 16 player 15 round rapid round robin preliminary stage and an 8 player knockout phase. In the preliminaries there are three points for a win and one for a draw and money for each win. The KO phase is slightly accelerated with only one 4 game mini-match before a blitz tie-break in the quarter and semi-finals but the final is still over two mini-matches before the tie-break. Players: Magnus Carlsen, Ding Liren, Ian Nepomniachtchi, Anish Giri, Levon Aronian, Shakhri",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/airthings-masters-2022",
-         "pubDate" : "Fri, 18 Feb 2022 18:48:00 +0400",
-         "title" : "Airthings Masters 2022 - Games and Results"
       }
    ]
 }
