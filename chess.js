@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
+         "pubDate" : "Fri, 11 Mar 2022 14:55:00 +0100",
+         "title" : "Belgrade Grand Prix SF - Live!"
+      },
+      {
+         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. After winning game 8 Howell leads 4.5-3.5. Game 9 starts Friday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-game-6-live",
+         "pubDate" : "Fri, 11 Mar 2022 14:30:00 +0100",
+         "title" : "England vs Sweden Challenge - Game 9 live"
+      },
+      {
+         "description" : " The concept of 'pay to win' games has always offended me. If you are not familiar with the concept, it is essentially allowing you to pay extra money to a free game, to receive benefits that other players do not get. It is a business model for some games, which while profitable, can annoy an existing user base. More so if the game starts out as 'free forever' before it isn't. In the past I played a few games like this, but as soon as they became 'p2w' I lost interest. But having said that, I do wonder what 'p2w' chess might look like. eg Buying takebacks, Rejecting your opponents first choice, two moves in a row, castling after moving your king Some of these are probably too drastic (Playin",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/pay-to-win-chess.html",
+         "pubDate" : "Fri, 11 Mar 2022 12:42:00 +0000",
+         "title" : "Pay to win - Chess?"
+      },
+      {
          "description" : "Efim Geller, one of Ukraine's greatest chess talents, would have turned 97 years old on March 8 this year. An extraordinary player, he also had a doctorate in Physical Education, and worked as a second to Tigran Petrosian, Boris Spassky and Anatoly Karpov. Experts estimate Geller was among the top ten players in the world for about twenty years.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1994,14 +2018,6 @@ news_feed (
          "title" : "Test your IQP-IQ"
       },
       {
-         "description" : "While the quarterfinals and the semifinals of the Airthings Masters lasted a single day, the finals consist of two 'sets'. The first one, played on Friday, saw Magnus Carlsen and Ian Nepomniachtchi signing four straight draws. But the lack of decisive results does not mean there was a lack of excitement. To the contrary, the games were hard-fought and enthralling. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d7",
-         "pubDate" : "Sat, 26 Feb 2022 05:45:00 +0100",
-         "title" : "Airthings Masters Final: Exciting draws"
-      },
-      {
          "description" : " Watu Kobese with his Xhosa-language chess book, &#8220;Masidlale Uthimba&#8220;. Photo by Mariska Morris. IM Watu Kobese has been the most recognizable chess player South Africa has ever produced. His life is one of many stories. Learning chess at the age of four, Kobese learned the game by watching his father Arthur Kobese and would later [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/25/black-history-month-2022-day-25-im-watu-kobese/\">Black History Month 2022-Day 25: IM Watu Kobese</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2016,14 +2032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1600",
          "pubDate" : "Fri, 25 Feb 2022 22:46:16 +0000",
          "title" : "Carlsen and Nepomniachtchi play out epic 2-2 draw on first day of final"
-      },
-      {
-         "description" : "The International Chess Federation has announced today its decision that the 44th Chess Olympiad, one of its flagship events, will not take place in Russia. This championship, in which teams from approximately 190 countries compete for two weeks, was supposed to take place in Moscow from July 26 July to August 8. FIDE press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/breaking-news-2022-chess-olympiad-to-be-moved-from-moscow",
-         "pubDate" : "Fri, 25 Feb 2022 19:57:37 +0100",
-         "title" : "Breaking news: 2022 Chess Olympiad to be moved from Moscow"
       },
       {
          "description" : "",
