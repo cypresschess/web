@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Efim Geller, one of Ukraine's greatest chess talents, would have turned 97 years old on March 8 this year. An extraordinary player, he also had a doctorate in Physical Education, and worked as a second to Tigran Petrosian, Boris Spassky and Anatoly Karpov. Experts estimate Geller was among the top ten players in the world for about twenty years.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/born-in-odessa-efim-geller",
+         "pubDate" : "Fri, 11 Mar 2022 13:00:00 +0100",
+         "title" : "Born in Odessa: Efim Geller"
+      },
+      {
+         "description" : "The 22nd European Women's Chess Championship will take place from 19th August 1st September in Prague, Czech Republic. The event will be played in 11 rounds, Swiss system, with time control 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per move, starting from /move one.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-individual-chess-championship-2022-official-invitation/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-individual-chess-championship-2022-official-invitation/",
+         "pubDate" : "Fri, 11 Mar 2022 11:23:45 +0000",
+         "title" : "European Women's Individual Chess Championship 2022 - Official invitation"
+      },
+      {
+         "description" : "Richard Rapport is the first player through to the final of the Belgrade FIDE Grand Prix after stunning Maxime Vachier-Lagrave and watching chess fans by going for the sharpest possible opening with the black pieces in a game he only needed to draw. It seemed an inspired choice as he got an endgame that looked an easy draw, but a few slips and Maxime came incredibly close to the win he needed. Andreikin-Giri also saw an offbeat opening, but the quiet draw that followed means the players return for tiebreaks on Friday.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/belgrade-gp-rapport-in-final-andreikin-giri-goes-to-tiebreaks",
+         "pubDate" : "Fri, 11 Mar 2022 10:10:04 +0000",
+         "title" : "Belgrade GP: Rapport in final, Andreikin-Giri goes to tiebreaks"
+      },
+      {
+         "description" : "This week Robert Ris takes a look at a game he played in the Icelandic Team Championships against IM Bjorn Thorfinsson. In the Bishop's Opening (1.e4 e5 2.Bc4) Robert followed a nice attacking scheme for White inspired by a game between Firouzja and Carlsen. Robert will discuss the ins and outs of this plan and also explain why it is actually not doo dangerous (at least if Black knows what to do of course). | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-bishop-s-opening",
+         "pubDate" : "Fri, 11 Mar 2022 11:03:57 +0100",
+         "title" : "Robert Ris' Fast and Furious: The Bishop's Opening"
+      },
+      {
          "description" : " The 250-player international tournament in Iceland will be staged with zero Covid restrictions, and provides a breakthrough chance for young English talents Half a century on from 1972, the Bobby Fischer v Boris Spassky series in Reykjavik remains the most famous of all world championship matches. It triggered a global chess boom, not least in Britain where for a brief period a galaxy of talent made England the No 2 chess nation behind the Soviet Union. Reykjavik has another tradition, its annual international open first staged in 1964 when the legendary Mikhail Tal outclassed the field with 12.5/13. The 2022 edition at the Harpa Conference Centre from 6-12 April has a tight schedule of nin",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -250,14 +282,6 @@ news_feed (
          "title" : "Garry Kasparov on Russia's Attack on Ukraine"
       },
       {
-         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. Grandelious, who was trailing the match after losing game four, bounced back by winning game 7. With three games to go both players now have 3.5 points. Game 8 starts Thursday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-game-6-live",
-         "pubDate" : "Thu, 10 Mar 2022 14:30:00 +0100",
-         "title" : "England vs Sweden Challenge - Game 8 live"
-      },
-      {
          "description" : " One of the most famous games in chess history is the Morphy 'Opera Box Game'. I often show it to students I coach, and now know it off by heart. I even thought I knew it when I was a lot younger, but it seems that I only knew the first few moves, and forgot the rest! <br /> <b>Press,Shaun - Mathe,Richard [C41]</b><br />ACT Junior Championship, 19.11.1983 <script>new PgnViewer( { boardName: \"game1316\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 d6 3.d4 Bg4 4.dxe5 Bxf3 5.Qxf3 dxe5 6.Bc4 Nf6 7.O-O Qd4 8.Bd3 Nc6 9.Nc3 a6 10.Rd1 Qd6 11.Be3 Qe7 12.Bc4 h6 13.Nd5 Nxd5 14.Bxd5 Na5 15.Bd2 c6 16.Bxa5 cxd5 17.exd5 Qc5 18.Bc3 O-O-O 19.Bxe5 Qxc2 20.Rac1 Qxc1 21.Rxc1+ Kd7 22.Qxf7+ Be7 23.d6 Rhe8 24.",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -295,7 +319,7 @@ news_feed (
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/belgrade-gp-semis-1-rapport-beats-mvl",
          "pubDate" : "Thu, 10 Mar 2022 10:33:49 +0000",
-         "title" : "Belgrade GP Semis 1: Rapport beats MVL"
+         "title" : "Belgrade GP SF 1: Rapport beats MVL"
       },
       {
          "description" : "The Prague Chess Festival 2022 will take place 7-17 June. It will consist of a Masters 10 player round robin event, Challengers and Futures tournaments. The Masters have already confirmed three top players GM David Navara, GM Le Quang Liem and GM Salem Saleh. More: The story of the 2021 Prague Chess here The []",
@@ -1666,14 +1690,6 @@ news_feed (
          "title" : "Octogenarian puzzle master solutions"
       },
       {
-         "description" : "Alexander Grischuk, Nikita Vitiugov, Dmitry Andreikin, Vladimir Fedoseev and Alexandr Predke will play in Belgrade as the 2022 FIDE Grand Prix resumes under the cloud of Russia's invasion of Ukraine. It may be the last time Russian chess players are able to compete for some time, since on the eve of the tournament the IOC recommended that no Russian or Belarusian sportsmen be allowed to take part in international competitions. Top seed for the tournament is Shakhriyar Mamedyarov, one of 9 players making their Grand Prix debut.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/belgrade-grand-prix-begins-under-shadow-of-war",
-         "pubDate" : "Tue, 01 Mar 2022 08:25:17 +0000",
-         "title" : "Belgrade Grand Prix begins under shadow of war"
-      },
-      {
          "description" : "Sometimes it is difficult to convert an extra knight into a full point: Black to move and win.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2010,14 +2026,6 @@ news_feed (
          "title" : "Breaking news: 2022 Chess Olympiad to be moved from Moscow"
       },
       {
-         "description" : "In his Power Play Show, GM Daniel King looks at developments in opening variations that particularly interest him: the Modern Variation of the King's Gambit where Nepomniachtchi continues to score well; and Aronian's handling of the Caro-Kann Exchange Variation. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-king-s-gambit-lives",
-         "pubDate" : "Fri, 25 Feb 2022 19:56:56 +0100",
-         "title" : "Daniel King's Power Play Show: The King's Gambit lives again"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2032,22 +2040,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/25/fide-postpones-the-2022-chess-olympiad/",
          "pubDate" : "Fri, 25 Feb 2022 16:33:31 +0000",
          "title" : "FIDE postpones the 2022 Chess Olympiad"
-      },
-      {
-         "description" : "Trent's Tactics is back, and the timing couldn't be more strange. Lawrence and Arne talk about the current events in the Ukraine, and although the tactics work out brilliantly, the progress in the training section fails miserably. Most probably because there are other things on the host's minds. Nonetheless, the tactics continue and make you think of something different for a brief moment.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-14",
-         "pubDate" : "Fri, 25 Feb 2022 17:00:00 +0100",
-         "title" : "Trent's Tactics - An uncomfortable situation"
-      },
-      {
-         "description" : "Tata Steel 2022: analysis from Duda, Giri, Grandelius, Mamedyarov, Praggnanandhaa, Shankland, Erigaisi and Vogel. Peter Heine Nielsen and Dorian Rogozenco (video) take a close look at two Catalan wins by the World Champion and tournament winner. With CBM experts you see more: videos by King, Knaak, Marin, M&uuml;ller, Reeh, Ris, Rogozenco and Werle - total playing time over 5 hours! Plus eleven opening articles with recommendations for your repertoire, e.g. \"Steamrolling the Reti\" (1.Nf3 d5 2.c4 d4 3.b4 g5!?), \"A versatile Ruy Lopez\" (1. e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 Part I) or \"London queen sortie\" (1.d4 d5 2.Nf3 Nf6 3.Bf4 c5 4.e3 Nc6 5.Nbd2 Qb6 6.dxc5 Qxb2). Last but not least: The \"Special\" o",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-206-the-best-of-tata-steel-2022-special-on-levon-aronian-steamroller-against-reti-and-much-more",
-         "pubDate" : "Fri, 25 Feb 2022 16:00:00 +0100",
-         "title" : "CBM #206: The best of Tata Steel 2022, \"Special\" on Levon Aronian, \"Steamroller against Reti\" and much more"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/b8b0f89e-40c2-4809-a84f-7424040282a9/Surface.final2.jpg\" data-image-dimensions=\"522x262\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6218ea65fc2f1c0dd65187db\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/b8b0f89e-40c2-4809-a84f-7424040282a9/Surface.final2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Me, Matt Fletcher and NM Gopal Menon (pictured clockwise) </figcaption> </figure> <p class=\"\"><a href=\"https://www.perpetualchess",
@@ -2448,14 +2440,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/airthings-masters-2022",
          "pubDate" : "Fri, 18 Feb 2022 18:48:00 +0400",
          "title" : "Airthings Masters 2022 - Games and Results"
-      },
-      {
-         "description" : " Hikaru Nakamura has won the first FIDE Grand Prix event of the year, defeating Lev Aronian in the final 3-1 (Nakamura winning both rapid tie-break games) The fact that both players qualified for the final could be considered a little surprising, given their age relative to the rest of the field. The fact that Nakamura then won the final was even more of a shock, as he has hardly lifted a piece in 2 years, concentrating on streaming instead. Nonetheless the result showed that the group of \"thirty something\" Super GM's still will take some beating by the next generation of GM's. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/kind-of-unexpected.html",
-         "pubDate" : "Fri, 18 Feb 2022 12:16:00 +0000",
-         "title" : "Kind of unexpected"
       }
    ]
 }
