@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Biel Chess Festival 2022 is going to take place 10-24 of July offering a staggering of thirteen chess tournaments. Last year, the final list of participants for our main event (GMT) could be announced only 48 hours before the official opening of the Festival. This year, it is four months in advance that we can []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/biel-chess-2022-announced/",
+         "pubDate" : "Fri, 11 Mar 2022 06:32:55 +0000",
+         "title" : "Biel Chess 2022 announced"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi talks to our hosts after his ninth round game in the Spring Chess Classic. 2022.03.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-jj-ali-marandi-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n3o1hAwKA2c.jpg?itok=qX-E2bTN\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -88,6 +96,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-bullet-chess-championship-losers-round-2-bortnyk-erigaisi-jacobson-martinez-win",
          "pubDate" : "Thu, 10 Mar 2022 15:54:00 -0800",
          "title" : "Bullet Chess Championship Losers Round 2: Bortnyk, Erigaisi, Jacobson, Martinez Advance"
+      },
+      {
+         "description" : "The first round of the semi-finals of the second leg of the Grand Prix, which followed the qualification phase, saw one decisive result and one draw. Richard Rapport&#160;defeated&#160;Maxime Vachier-Lagrave. Before this game, the two had played eight classical games, five of which were drawn and three were won by the Frenchman. Despite the head-to-head record []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/richard-rapport-fide-grand-prix-2022",
+         "pubDate" : "Thu, 10 Mar 2022 23:47:00 +0000",
+         "title" : "Richard Rapport defeats Maxime-Vachier-Lagrave in FIDE Chess Grand Prix Belgrade 2022"
       },
       {
          "description" : " <p class=\"lead\">Rapport eliminated MVL as Andreikin and Giri go to tiebreaks The second round of the semi-finals of the second leg of the Grand Prix saw two draws. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-43.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-33.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-37.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-53.jpg\" width=\"1280\" he",
@@ -762,14 +778,6 @@ news_feed (
          "title" : "Belgrade GP: Fire on board"
       },
       {
-         "description" : "Tamil Nadu Grandmaster D Gukesh defeated former national champion Abhijeet Gupta of the PSPB in the penultimate round to catch up with overnight sole leader second seed Arjun Erigaisi of Telangana, which paved the way for a photo finish at the 58th&#160;edition of Senior National Chess Championship sponsored by MPL Sports Foundation here at Ganges []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mpl-58th-senior-national-chess-championship-2022-heading-for-a-photo-finish/",
-         "pubDate" : "Mon, 07 Mar 2022 08:45:00 +0000",
-         "title" : "MPL 58th Senior National Chess Championship 2022 heading for a photo finish"
-      },
-      {
          "description" : "GM Levon Aronian won the fourth week of the 2022 Rapid Chess Championship tournament presented by Coinbase.&#38;nbsp;Last week&#39;s winner, GM Fabiano Caruana, finished second. GM Hikaru Nakamura finished first in the preliminary Swiss tournament but fel...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -960,14 +968,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ecu-suspends-the-russian-and-belarusian-chess-federations",
          "pubDate" : "Sat, 05 Mar 2022 11:00:00 +0100",
          "title" : "ECU suspends the Russian and Belarusian Chess Federations"
-      },
-      {
-         "description" : "Gian Carlo Arvelo and Raydily Rosario Alm&#xE1;nzar are new chess champions of the Dominican Republic. The Open and Women&#x2019;s Championships, Swiss tournaments with classical time control, were held from February 18 to March 06 (with a long break from February 20-25 in the open competition).&#160; The 18th rated Gian Carlo Arvelo produced a major sensation []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gian-carlo-arvelo-and-raydily-rosario-almanzar-are-new-chess-champions-of-the-dominican-republic/",
-         "pubDate" : "Sat, 05 Mar 2022 09:33:00 +0000",
-         "title" : "Gian Carlo Arvelo and Raydily Rosario Alm&aacute;nzar are new chess champions of the Dominican Republic"
       },
       {
          "description" : "Black king on e7, unprotected queen a5 - White's threat in the diagrammed position is obvious, and not even 17...Bb6 could prevent him from making a good catch. Your call!",
