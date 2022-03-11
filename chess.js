@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 250-player international tournament in Iceland will be staged with zero Covid restrictions, and provides a breakthrough chance for young English talents Half a century on from 1972, the Bobby Fischer v Boris Spassky series in Reykjavik remains the most famous of all world championship matches. It triggered a global chess boom, not least in Britain where for a brief period a galaxy of talent made England the No 2 chess nation behind the Soviet Union. Reykjavik has another tradition, its annual international open first staged in 1964 when the legendary Mikhail Tal outclassed the field with 12.5/13. The 2022 edition at the Harpa Conference Centre from 6-12 April has a tight schedule of nin",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/mar/11/chess-bobby-fischer-v-boris-spassky-1972-remembered-at-reykjavik-open",
+         "pubDate" : "Fri, 11 Mar 2022 08:00:25 +0000",
+         "title" : "Chess: Bobby Fischer v Boris Spassky 1972 remembered at Reykjavik Open"
+      },
+      {
+         "description" : "The European Individual Chess Championship 2022 will take place between 26 March and 7 April at Terme &#x10C;ate&#x17E; near Bre&#x17E;ice in Slovenia. Here is the participants list of the EICC 2022. 1 GM Navara David&#160; CZE 2700 2 GM Korobov Anton&#160; UKR 2695 3 GM Anton Guijarro David&#160; ESP 2694 4 GM Saric Ivan&#160; CRO []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/eicc-2022-european-individual-chess-participants/",
+         "pubDate" : "Fri, 11 Mar 2022 07:54:41 +0000",
+         "title" : "EICC 2022 - European Individual Chess participants"
+      },
+      {
+         "description" : "FM James Canty aka Jedi Master and FM Waldo Serrano havte been awarded their official FIDE titles. GM Hikaru Nakamura also sent his congratulations",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fm-james-canty-and-fm-waldo-serrano-awarded-chess-titles/",
+         "pubDate" : "Fri, 11 Mar 2022 07:20:34 +0000",
+         "title" : "FM James Canty and FM Waldo Serrano awarded chess titles"
+      },
+      {
          "description" : "Biel Chess Festival 2022 is going to take place 10-24 of July offering a staggering of thirteen chess tournaments. Last year, the final list of participants for our main event (GMT) could be announced only 48 hours before the official opening of the Festival. This year, it is four months in advance that we can []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -90,6 +114,14 @@ news_feed (
          "title" : "2022 Spring Chess Classic: Round 9"
       },
       {
+         "description" : "The second round of FIDE Grand Prix Belgrade semifinals saw two draws. After yesterday's win in round 1, Hungarian Richard Rapport secured a place in the finals by holding Maxime Vachier-Lagrave to a draw in a very exciting game that saw lots twists and turns. Following a draw in the first round of the semi-finals,&#160;Dmitry []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/richard-rapport-qualifies-for-the-final-of-the-fide-grand-prix-belgrade-2022/",
+         "pubDate" : "Thu, 10 Mar 2022 23:57:00 +0000",
+         "title" : "Richard Rapport qualifies for the final of the FIDE Grand Prix Belgrade 2022"
+      },
+      {
          "description" : "The second round of the Losers Bracket of the&#38;nbsp;2022 Bullet Chess Championship presented by DigitalOcean&#38;nbsp;ended with four decisive winners: GMs&#38;nbsp;Oleksandr Bortnyk, Arjun Erigaisi,&#38;nbsp;Brandon Jacobson, and Jose Martinez. Notably, the l...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -104,6 +136,14 @@ news_feed (
          "link" : "https://www.chessdom.com/richard-rapport-fide-grand-prix-2022",
          "pubDate" : "Thu, 10 Mar 2022 23:47:00 +0000",
          "title" : "Richard Rapport defeats Maxime-Vachier-Lagrave in FIDE Chess Grand Prix Belgrade 2022"
+      },
+      {
+         "description" : "The European Individual Chess Championship 2022 will take place between 26 March and 7 April at Terme &#x10C;ate&#x17E; near Bre&#x17E;ice in Slovenia. The event is organized by the Chess Federation of Slovenia under the auspices of the European Chess Union (ECU). The official host of the championship is Hotel Spa; accommodation is also available in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-individual-chess-2022/",
+         "pubDate" : "Thu, 10 Mar 2022 23:36:00 +0000",
+         "title" : "European Individual Chess 2022"
       },
       {
          "description" : " <p class=\"lead\">Rapport eliminated MVL as Andreikin and Giri go to tiebreaks The second round of the semi-finals of the second leg of the Grand Prix saw two draws. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-43.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-33.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-37.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-53.jpg\" width=\"1280\" he",
@@ -442,30 +482,6 @@ news_feed (
          "title" : "American Chess Cup 2022 LIVE"
       },
       {
-         "description" : "For the first time, the Saint Louis Chess Club will host&#160;The American Cup 2022, highlighting an exciting and unique double elimination format. This new format and tournament will bring world class chess masters to America's chess capital to compete in a fierce do-or-die struggle for $300,000 total in prize money. With a double elimination format, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-american-chess-cup-2022/",
-         "pubDate" : "Wed, 09 Mar 2022 09:49:00 +0000",
-         "title" : "The American Chess Cup 2022"
-      },
-      {
-         "description" : "The final sixth round of the group stage of the Grand Prix finished in Belgrade, with four clear winners progressing to the semi-finals. Despite players such as Richard Rapport and Anish Giri entering the round as comfortable leaders in their groups, it was a tense day as things could have still gone wrong []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-grand-prix-belgrade-round-6/",
-         "pubDate" : "Wed, 09 Mar 2022 09:30:54 +0000",
-         "title" : "FIDE Grand Prix Belgrade: Round 6"
-      },
-      {
-         "description" : "The Split Chess Open is going to take place 16-24 July 2022 in Hotel Zagreb. It will be a 9 rounds Swiss with a prize fund of 8500 eur. Two additional blitz and rapid events add an extra 1500 eur to the prize fund. 11. SPLIT OPEN: CHESS FESTIVAL 2022 ORGANIZER:&#xA0;CHESS CLUB BRDA SPLITSPONSORS:&#xA0;CITY OF []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/split-chess-open-2022/",
-         "pubDate" : "Wed, 09 Mar 2022 09:22:01 +0000",
-         "title" : "Split Chess Open 2022"
-      },
-      {
          "description" : "In his \"Weekly Show\" Lawrence Trent talks a bit about the Grand Prix in Belgrade, but the focus of the show is game 1 of the Sweden-England Challenge match between Nils Grandelius and David Howell. In the first game, Nils missed a number of great opportunities to win in a funky sideline of the Berlin but David defended resolutely and the game ended in a draw. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-winning-academy-7-why-is-the-threat-stronger-than-its-execution",
          "pubDate" : "Tue, 08 Mar 2022 10:00:00 +0100",
          "title" : "The Winning Academy 7: Why is the threat stronger than its execution?"
-      },
-      {
-         "description" : "Computer chess continues to make headlines. This time Elon Musk commented on Massimo Rainmakers1973 post on Shannon's number, &#8220;Chess is a simple game. Understandable when all we had to play with were squirrels and rocks, but now we have computers&#8221; The tweet of Elon Musk coincides with the start on the Premier Division of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/elon-musk-now-we-have-computers-in-chess-tweetoftheday/",
-         "pubDate" : "Tue, 08 Mar 2022 08:53:00 +0000",
-         "title" : "Elon Musk - now we have computers in chess #TweetOftheDay"
       },
       {
          "description" : "The acronym \"LPDO\" was probably coined by the English player Mike Cook, who used it to explain the majority of his losses in a 100-game blitz match against John Nunn. But it was Nunn who made the term popular by talking about this blitz match in his book \"Secrets of Practical Chess\". Keeping \"LPDO\" in mind might help to reduce blundering pieces, even in the endgame. In the diagrammed position Black's rook and bishop are both \"loose\". How did White manage to let them \"drop off\"?",
