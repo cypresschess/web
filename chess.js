@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With two draws in yesterday&#39;s games, GM Richard Rapport qualified to the final by ousting GM Maxime Vachier-Lagrave, while GM Dmitry Andreikin and GM Anish Giri booked another day of games, in a rapid chess format, to decide who would face Rapport...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-semifinal-tiebreaker",
+         "pubDate" : "Fri, 11 Mar 2022 10:19:00 -0800",
+         "title" : "2022 FIDE Grand Prix Belgrade Semifinal Tiebreaker: Andreikin Wins"
+      },
+      {
+         "description" : "The Collegiate Chess League is officially over halfway through its fourth season. With only three rounds remaining, teams are already fighting for playoff spots, and every match from now on is even more important for the teams&#39; standings leading u...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-round-4",
+         "pubDate" : "Fri, 11 Mar 2022 09:50:44 -0800",
+         "title" : "Collegiate Chess League Season 4 Round 4"
+      },
+      {
+         "description" : " <p class=\"lead\">With 1.5 vs 0.5, Dmitry Andreikin has defeated Anish Giri in the tiebreak match to reach the final of the Belgrade Grand Prix <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-11_18-09-41.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-11_18-09-38.jpg\" width=\"800\" height=\"534\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-11_18-09-35.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-11_18-09-32.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <i",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/dmitry-andreikin-to-play-richard-rapport-in-the-final-of-the-bel/",
+         "pubDate" : "Fri, 11 Mar 2022 17:30:56 +0000",
+         "title" : "Andreikin to Play Rapport In the Final of the Belgrade Grand Prix"
+      },
+      {
+         "description" : " One of my students, who read through my last piece here at the Chess Improver, mentioned that I had not brought up a teaching method I used for calculation training. Chess comes down to thinking ahead and having the ability to do so! All the strategic and tactical skills in the world won't help you <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-four/\">A Foundation for Beginners Fifty Four</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-four/",
+         "pubDate" : "Fri, 11 Mar 2022 17:15:15 +0000",
+         "title" : "A Foundation for Beginners Fifty Four"
+      },
+      {
          "description" : " <p class=\"lead\">The semifinals of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 in Belgrade</a> brought Anish Giri and Dmitry Andreikin in the tiebreaks. Andreikin managed to win the rapid tiebreaks with a 1.5-0.5 score and will face Rapport in the finals tomorrow. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51930381721_7fb1d50df7_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: Mark Livshitz / FIDE</div> </div> The semifinal tiebreaks between Dmitry Andreikin and Anish Giri started with a peaceful first game and a draw by repetition. The second game was in Giri's favor until a miscalculation by th",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1274,14 +1306,6 @@ news_feed (
          "title" : "Chess: India makes Olympiad bid while Sergey Karjakin shunned after invasion"
       },
       {
-         "description" : " <p class=\"lead\">Day 3 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 in Belgrade</a> ended with Group C being the only decisive group, Group D continuing with draws, and Giri still leading Group B with a full point. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.4992679355783\"> <img src=\"https://worldchess.com/news/pictures/A-11.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51916387795_7de4762381_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51916387425_5eb2a18bb5_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.c",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/rapport-beats-vidit-to-co-lead-group-c-while-giri-is-still-a-poi/",
-         "pubDate" : "Thu, 03 Mar 2022 17:54:38 +0000",
-         "title" : "Rapport beats Vidit to co-lead Group C while Giri is still a point ahead"
-      },
-      {
          "description" : "Forty-four top Russian chess players published an open letter to the President of the Russian Federation, Vladimir Putin, voicing firm opposition to the war in Ukraine and expressing solidarity with the people of Ukraine. Signees include the most ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1842,22 +1866,6 @@ news_feed (
          "title" : "FIDE Council condemns Russia's military action"
       },
       {
-         "description" : "An all-American semifinals led GM Fabiano Caruana to best the field for the second week in a row, winning week three of the 2022 Rapid Chess Championship presented by Coinbase. GM Jeffery Xiong finished second while the other American heroes, GM H...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-week-3-caruana-wins",
-         "pubDate" : "Sun, 27 Feb 2022 17:17:00 -0800",
-         "title" : "Rapid Chess Championship Week 3: Caruana Wins Second Consecutive Week"
-      },
-      {
-         "description" : "Following an extraordinary meeting of the FIDE Council held on Sunday, the International Chess Federation has officially condemned Russia&#39;s invasion in Ukraine and taken a number of measures against Russia and Belarus, including a ban on hosting o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-council-ukraine-belarus-russia",
-         "pubDate" : "Sun, 27 Feb 2022 13:15:00 -0800",
-         "title" : "FIDE Condemns Military Action; Takes Measures Against Russia, Belarus"
-      },
-      {
          "description" : "The most exciting and talked-about game of the 2021 World Championship was game 6. Statistically, the sixth game of a World Championship match has yielded more decisive results than any other game. This one proved to be no exception, as records kept tumbling. The game had various layers of action and consequences. GM Sundararajan Kidambi explains the game arising out of a Catalan opening. | Photo: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2384,14 +2392,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/20/black-history-month-2022-day-20-afro-latino-chess/",
          "pubDate" : "Sun, 20 Feb 2022 20:13:35 +0000",
          "title" : "Black History Month 2022-Day 20: Afro-Latino Chess"
-      },
-      {
-         "description" : " Yuri Averbakh celebrated his 100th birthday the other day. Another Soviet player from the same vintage just missed celebrating his 99th birthday. Abram Khasin had a long and remarkable life. He was born in Ukraine on 15 February 1923, and died in Essen, Germany, where he had spent the last 20 years of his life, <a href=\"https://chessimprover.com/abram-khasin-1923-2022/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Abram Khasin (1923-2022)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/abram-khasin-1923-2022/\">Abram Khasin (1923-2022)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/abram-khasin-1923-2022/",
-         "pubDate" : "Sun, 20 Feb 2022 14:04:22 +0000",
-         "title" : "Abram Khasin (1923-2022)"
       },
       {
          "description" : "",
