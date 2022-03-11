@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1630",
+         "pubDate" : "Fri, 11 Mar 2022 19:11:18 +0000",
+         "title" : "FIDE Grand Prix Belgrade: Andreikin set up final with Rapport"
+      },
+      {
+         "description" : "Two creative players are facing each other in a match in London. Nils Grandelius, representing Sweden, is playing David Howell, representing England. In game 7, Grandelius employed an unexpected plan to get a brilliant win with the white pieces. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-a-brilliant-attack-by-nils-grandelius",
+         "pubDate" : "Fri, 11 Mar 2022 19:45:00 +0100",
+         "title" : "Daniel King's Power Play Show: A brilliant attack by Nils Grandelius"
+      },
+      {
          "description" : "With two draws in yesterday&#39;s games, GM Richard Rapport qualified to the final by ousting GM Maxime Vachier-Lagrave, while GM Dmitry Andreikin and GM Anish Giri booked another day of games, in a rapid chess format, to decide who would face Rapport...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -55,7 +71,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
          "pubDate" : "Fri, 11 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix SF - Live!"
+         "title" : "Belgrade Grand Prix SF - Games and results"
       },
       {
          "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. After winning game 8 Howell leads 4.5-3.5. Game 9 starts Friday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
@@ -2016,14 +2032,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-bidding-to-host-chess-olympiad-2022/articleshow/89846558.cms",
          "pubDate" : "Sat, 26 Feb 2022 13:42:18 +0530",
          "title" : "India bidding to host Chess Olympiad 2022"
-      },
-      {
-         "description" : "The diagram shows a seemingly normal position with an isolated pawn on d4. However, White has played the loosening move b2-b4, and this allows Black to get the advantage. What can Black do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/test-your-iqp-iq",
-         "pubDate" : "Sat, 26 Feb 2022 09:00:00 +0100",
-         "title" : "Test your IQP-IQ"
       },
       {
          "description" : " Watu Kobese with his Xhosa-language chess book, &#8220;Masidlale Uthimba&#8220;. Photo by Mariska Morris. IM Watu Kobese has been the most recognizable chess player South Africa has ever produced. His life is one of many stories. Learning chess at the age of four, Kobese learned the game by watching his father Arthur Kobese and would later [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/25/black-history-month-2022-day-25-im-watu-kobese/\">Black History Month 2022-Day 25: IM Watu Kobese</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
