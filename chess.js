@@ -2,11 +2,67 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The final day of the Spring Chess Classic! Playoffs if we need them in either field! Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.10<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-9/TYTT0kRI\">https://lichess.org/broadcast/2022-spring-chess-classic/round-9/TYTT0kRI</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-round-9\"><img src=\"https://saintlouisch",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-9",
+         "pubDate" : "Thu, 10 Mar 2022 23:58:26 +0000",
+         "title" : "2022 Spring Chess Classic: Round 9"
+      },
+      {
+         "description" : "The second round of the Losers Bracket of the&#38;nbsp;2022 Bullet Chess Championship presented by DigitalOcean&#38;nbsp;ended with four decisive winners: GMs&#38;nbsp;Oleksandr Bortnyk, Arjun Erigaisi,&#38;nbsp;Brandon Jacobson, and Jose Martinez. Notably, the l...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-bullet-chess-championship-losers-round-2-bortnyk-erigaisi-jacobson-martinez-win",
+         "pubDate" : "Thu, 10 Mar 2022 15:54:00 -0800",
+         "title" : "Bullet Chess Championship Losers Round 2: Bortnyk, Erigaisi, Jacobson, Martinez Advance"
+      },
+      {
+         "description" : " <p class=\"lead\">Rapport eliminated MVL as Andreikin and Giri go to tiebreaks The second round of the semi-finals of the second leg of the Grand Prix saw two draws. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-43.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-33.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-37.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-53.jpg\" width=\"1280\" he",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/belgrade-grand-prix-knockout-day-two-recap/",
+         "pubDate" : "Thu, 10 Mar 2022 22:03:27 +0000",
+         "title" : "Belgrade Grand Prix - Knockout: Day Two Recap"
+      },
+      {
+         "description" : "Ukraine's former world number 2 Vasyl Ivanchuk has joined calls for Russian players to be banned from all chess events. The 52-year-old put his name to a letter featuring Ukraine's top grandmasters, including Ruslan Ponomariov, Andrey Volokitin and Anton Korobov.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ivanchuk-echoes-call-for-russian-players-to-be-banned",
+         "pubDate" : "Thu, 10 Mar 2022 21:42:54 +0000",
+         "title" : "Ivanchuk echoes call for Russian players to be banned"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1629",
+         "pubDate" : "Thu, 10 Mar 2022 21:19:32 +0000",
+         "title" : "FIDE Grand Prix Belgrade - Knockout: Day Two Recap"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its Spring season. Join NM Caleb Denby for the move-by-move. 2022.03.10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-corporate-chess-league-virtual-spring-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7cQDWoELoqs.jpg?itok=7rspTETr\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-corporate-chess-league-virtual-spring-2",
+         "pubDate" : "Thu, 10 Mar 2022 20:58:20 +0000",
+         "title" : "2022 Saint Louis Corporate Chess League: Virtual Spring #2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The final day of the Spring Chess Classic! Playoffs if we need them in either field! Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.10<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-9/TYTT0kRI\">https://lichess.org/broadcast/2022-spring-chess-classic/round-9/TYTT0kRI</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-round-9-lichessorg\"><img src=\"https://s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-9-lichessorg",
+         "pubDate" : "Thu, 10 Mar 2022 20:58:20 +0000",
+         "title" : "2022 Spring Chess Classic: Round 9 | lichess.org"
+      },
+      {
          "description" : "Wednesday&#39;s games of the 2022 FIDE Grand Prix&#38;nbsp;in Belgrade saw GM Richard Rapport win with the white pieces against GM Maxime Vachier-Lagrave, whereas the game between GM Anish Giri and GM Dmitry Andreikin ended in a draw after wild complicati...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-semifinals-day-2",
-         "pubDate" : "Thu, 10 Mar 2022 11:52:31 -0800",
+         "pubDate" : "Thu, 10 Mar 2022 11:52:00 -0800",
          "title" : "2022 FIDE Grand Prix Belgrade Semifinals Day 2: Rapport Magic"
       },
       {
@@ -122,6 +178,14 @@ news_feed (
          "title" : "Not knowing the classics "
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1625",
+         "pubDate" : "Thu, 10 Mar 2022 12:47:21 +0000",
+         "title" : "Pools for third leg of FIDE Grand Prix 2022 announced "
+      },
+      {
          "description" : "\"Of course we're glad to have escaped,\" says Anwesh. \"But Ukraine isn't a place we can cut off from our minds.\"",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -184,6 +248,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bullet-chess-championship-quarterfinals-naroditsky-masterclass-sets-up-showdown-with-nakamura",
          "pubDate" : "Wed, 09 Mar 2022 15:01:00 -0800",
          "title" : "Bullet Chess Championship Quarterfinals: Naroditsky Masterclass Sets Up Showdown With Nakamura"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1624",
+         "pubDate" : "Wed, 09 Mar 2022 22:40:29 +0000",
+         "title" : "FIDE and Chess24 hold a fundraising marathon for Ukraine on Women's Day"
       },
       {
          "description" : "GM Hikaru Nakamura won the sixth week of Arena Kings on Wednesday, just moments before beginning a quarterfinal match in the Bullet Chess Championship. He defeated GM Oleksandr Bortnyk in the Arena Kings final.&#38;nbsp; This week&#39;s semifinalists we...",
@@ -306,14 +378,6 @@ news_feed (
          "title" : "Pools For the Third Leg of the FIDE Grand Prix Series 2022 Announced"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1625",
-         "pubDate" : "Wed, 09 Mar 2022 12:47:21 +0000",
-         "title" : "Pools for third leg of FIDE Grand Prix 2022 announced "
-      },
-      {
          "description" : "On 5 March 2022 Dr. Siegbert Tarrasch would have celebrated his 160th birthday. Throughout his life Tarrasch, who was a medical practitioner by profession, remained an amateur, but at his prime he was one of the world's best players, if not the best. Tarrasch was also a prolific and popular writer whose books have influenced countless players. Eugene Manlapao takes a look at the career of this great player and teacher.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -328,14 +392,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/international-women-s-day-women-who-power-the-tour-part-2",
          "pubDate" : "Wed, 09 Mar 2022 11:41:00 +0000",
          "title" : "International Women's Day: Powering the Tour, part 2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1624",
-         "pubDate" : "Wed, 09 Mar 2022 11:40:29 +0000",
-         "title" : "FIDE and Chess24 hold a fundraising marathon for Ukraine on Women's Day"
       },
       {
          "description" : "The&#xA0;March Lichess Blitz Titled Arena&#xA0;was won by&#xA0;GM Shant Sargsyan, a young Armenian super GM who is a former World U16 champion. In what was one of the closest Titled Arenas ever, Sargsyan was only really able to clinch the tournament in the final few minutes as he won two games back-to-back. Two other young and []",
@@ -400,22 +456,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-7",
          "pubDate" : "Tue, 08 Mar 2022 23:56:58 +0000",
          "title" : "2022 Spring Chess Classic: Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews JJ Ali Marandi during Round 7 of the Spring Chess Classic. 2022.03.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-jj-ali-marandi-interview-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lm_N7K5IXf0.jpg?itok=0owRunTi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-jj-ali-marandi-interview-round-7",
-         "pubDate" : "Tue, 08 Mar 2022 23:56:58 +0000",
-         "title" : "2022 Spring Chess Classic: JJ Ali Marandi Interview | Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Hans Niemann during Round 7 of the Spring Chess Classic. 2022.03.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-hans-niemann-interview-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mE9eAF6KYak.jpg?itok=0ZpbHYgg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-hans-niemann-interview-round-7",
-         "pubDate" : "Tue, 08 Mar 2022 23:56:58 +0000",
-         "title" : "2022 Spring Chess Classic: Hans Niemann Interview | Round 7"
       },
       {
          "description" : "In light of the ongoing war in Ukraine, and under the roof of the Year of the Woman in Chess, the FIDE Commission for Women's Chess established a fundraiser for Ukrainian chess players and their families affected now by war. Also, the FIDE Women's Commission, in partnership with Chess24, has prepared a series of events on the Women's Day to support Ukrainian chess players and their families.",
@@ -568,14 +608,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/loose-pieces-drop-off-lpdo",
          "pubDate" : "Tue, 08 Mar 2022 09:00:00 +0100",
          "title" : "Loose Pieces Drop Off (LPDO)"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Classic is back! The Spring Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.07<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-6/R43TFqRD\">https://lichess.org/broadcast/2022-spring-chess-classic/round-6/R43TFqRD</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-6",
-         "pubDate" : "Tue, 08 Mar 2022 02:56:01 +0000",
-         "title" : "2022 Spring Chess Classic: Round 6"
       },
       {
          "description" : "Chess.com is thrilled to announce that the 2022 Women&#39;s Speed Chess Championship has been confirmed and is set to start on May 24. The event was born from a partnership between Chess.com and FIDE and is the most important online tournament for tit...",
@@ -1330,14 +1362,6 @@ news_feed (
          "title" : "FIDE Chess Olympiad 2026 - Call for bids"
       },
       {
-         "description" : " <p class=\"lead\">Three victories, five draws and Grischuk's second defeat in a row have marked the second day of the Belgrade leg of the Grand Prix <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-03_01-22-47-(2).jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-03_01-22-45-(2).jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-03_01-22-45.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-03_01-22-46-(3).jpg\" width=\"1280\" height=",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-belgrade-round-2/",
-         "pubDate" : "Thu, 03 Mar 2022 00:24:45 +0000",
-         "title" : "FIDE Grand Prix Belgrade: Round 2"
-      },
-      {
          "description" : " From the publishers blurb: &#8220;Vasily Smyslov, the seventh world champion, had a long and illustrious chess career. He played close to 3,000 tournament games over seven decades, from the time of Lasker and Capablanca to the days of Anand and Carlsen. From 1948 to 1958, Smyslov participated in four world championships, becoming world champion in <a href=\"http://britishchessnews.com/2022/03/03/the-life-and-games-of-vasily-smyslov-volume-i-the-early-years-1921-1948/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Life and Games of Vasily Smyslov Volume I: The Early Years 1921-1948</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1384,14 +1408,6 @@ news_feed (
          "link" : "https://chessimprover.com/the-master-chess-web-show-3/",
          "pubDate" : "Wed, 02 Mar 2022 18:20:57 +0000",
          "title" : "The Master Chess Web Show (3)"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Hikaru Nakamura</strong> and <strong>Levy Rozman</strong> led a charity stream that raised $132,724 for <strong>CARE Ukraine</strong> and was supported by <strong>Chess.com</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/streamers-collect-132724-for/",
-         "pubDate" : "Wed, 02 Mar 2022 19:16:01 +0100",
-         "title" : "Streamers collect $132,724 for Ukraine"
       },
       {
          "description" : "GMs Jose Martinez and Aryan Tari won Titled Tuesday on March 1. They both held off GM Hikaru Nakamura, who finished third in the early tournament and second in the late event while streaming for 12 hours to support Ukraine. GM Raunak Sadhwani fini...",
@@ -1778,14 +1794,6 @@ news_feed (
          "title" : "Rapid Chess Championship Week 3: Caruana Wins Second Consecutive Week"
       },
       {
-         "description" : "Russia, the biggest superpower in chess, has been effectively banned from the game it considers its own alongside its neighbour Belarus. FIDE, the world governing body of chess, took the momentous step to take action against both countries at an emergency meeting of its FIDE Council held today. ",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-bans-russia-from-holding-chess-events",
-         "pubDate" : "Sun, 27 Feb 2022 21:54:36 +0000",
-         "title" : "Russia and Belarus banned from holding world chess events, Karjakin to face ethics case"
-      },
-      {
          "description" : "Following an extraordinary meeting of the FIDE Council held on Sunday, the International Chess Federation has officially condemned Russia&#39;s invasion in Ukraine and taken a number of measures against Russia and Belarus, including a ban on hosting o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1976,14 +1984,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/25/black-history-month-2022-day-25-im-watu-kobese/",
          "pubDate" : "Sat, 26 Feb 2022 03:38:55 +0000",
          "title" : "Black History Month 2022-Day 25: IM Watu Kobese"
-      },
-      {
-         "description" : "GMs Magnus Carlsen and Ian Nepomniachtchi drew all their games during day one of the final match. Carlsen has to be disappointed not to take the first set because he was winning in three out of the four games. Credit goes to Nepomniachtchi for his...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/airthings-masters-2022-day-7",
-         "pubDate" : "Fri, 25 Feb 2022 14:52:53 -0800",
-         "title" : "Airthings Masters Day 7: Nepomniachtchi, Carlsen Draw First Four Final Games"
       },
       {
          "description" : "",
