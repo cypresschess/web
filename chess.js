@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final match of the second leg of the Grand Prix was opened by FIDE Deputy President and renowned grandmaster Bachar Kouatly. Starting with the Petroff, the players moved to the Four Knights game and then switched to the Scottish Game. Somewhat surprisingly,&#xA0;Dmitry Andreikin&#xA0;opted for a very drawish course.&#xA0;The opponents played out a popular line []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dmitry-andreikin-and-richard-rapport-draw-their-first-game-in-the-finals-of-the-fide-grand-prix-belgrade-2022/",
+         "pubDate" : "Sat, 12 Mar 2022 20:29:47 +0000",
+         "title" : "Dmitry Andreikin and Richard Rapport draw their first game in the finals of the FIDE Grand Prix Belgrade 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1633",
+         "pubDate" : "Sat, 12 Mar 2022 20:05:56 +0000",
+         "title" : "FIDE Grand Prix Belgrade Finals: Game One Recap"
+      },
+      {
+         "description" : " <p class=\"lead\">Dmitry Andreikin and Richard Rapport drew their first game in the finals of the Belgrade Grand Prix <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-12_19-41-58.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-12_19-42-02.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-12_19-42-05.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-12_19-42-23.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldches",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/belgrade-grand-prix-finals-game-one-recap/",
+         "pubDate" : "Sat, 12 Mar 2022 18:48:13 +0000",
+         "title" : "Belgrade Grand Prix Finals: Game One Recap"
+      },
+      {
+         "description" : "With GM Dmitry Andreikin&#39;s surprising ousting of GM Anish Giri in yesterday&#39;s rapid play tiebreaker, a final against Hungarian GM Richard Rapport was set in place at the 2022 FIDE Grand Prix&#38;nbsp;in Belgrade. Rapport had, of course, previously eli...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-final-day-1",
+         "pubDate" : "Sat, 12 Mar 2022 10:02:00 -0800",
+         "title" : "2022 FIDE Grand Prix Belgrade Final Day 1: Solid Play"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1632",
+         "pubDate" : "Sat, 12 Mar 2022 17:45:36 +0000",
+         "title" : "FIDE and FFE host international conference \"Chess for Mental Health\""
+      },
+      {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,7 +154,7 @@ news_feed (
          "title" : "Daniel King's Power Play Show: A brilliant attack by Nils Grandelius"
       },
       {
-         "description" : "With two draws in yesterday&#39;s games, GM Richard Rapport qualified to the final by ousting GM Maxime Vachier-Lagrave, while GM Dmitry Andreikin and GM Anish Giri booked another day of games, in a rapid chess format, to decide who would face Rapport...",
+         "description" : "With two draws in yesterday&#39;s games at the 2022 FIDE Grand Prix&#38;nbsp;in Belgrade, GM Richard Rapport qualified to the final by ousting GM Maxime Vachier-Lagrave, while GM Dmitry Andreikin and GM Anish Giri booked another day of games, in a rapid c...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-semifinal-tiebreaker",
@@ -568,14 +608,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-506-r-rapport-vs-s-vidit",
          "pubDate" : "Wed, 09 Mar 2022 17:00:00 +0100",
          "title" : "Game of the Week #506: R. Rapport vs S. Vidit"
-      },
-      {
-         "description" : "America&#x2019;s best chess players will return to the Saint Louis Chess Club to battle over the board from April 18 April 29, 2022 in a brand new and exciting tournament, the American Cup. &#xA0;With $300,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in this double-elimination knockout []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/american-chess-cup-2022-participants/",
-         "pubDate" : "Wed, 09 Mar 2022 15:52:36 +0000",
-         "title" : "American Chess Cup 2022 - participants"
       },
       {
          "description" : " The term Grandmaster Draw most likely brings a sad image to your mind. Two lazy Grandmasters are leaving the table after only a couple of Minutes and another Berlin defense move-repetition. This is not wrong, but also not entirely right. Even though most quick draws between Grandmasters look similar, the energy &#38; motivation behind them [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/grandmaster-draw-explained/\">Grandmaster Draws Explained</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -1282,14 +1314,6 @@ news_feed (
          "title" : "An appeal to readers"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/w5JqWD4yQZs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-round-4/",
-         "pubDate" : "Fri, 04 Mar 2022 12:36:23 +0000",
-         "title" : "FIDE Grand Prix in Belgrade: Round 4"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Let's rename the King's Indian after the country where this heroic opening was developed. The country that is defending our liberty. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/2022/ukrainian-defence.1920.png\" title=\"Ukrainian Defence Illustration: Gustaf Mossakowski, Diagram by lichess\" data-title=\"Ukrainian Defence (Illustration: Gustaf Mossakowski, Diagram by lichess)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/2022/ukrainian-defence.480.png\" alt=\"Ukrainian Defence\" srcset=\"https://www.chesstech.org/files/2022/ukrainian-defence.480.png 1x, https://www.c",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1664,14 +1688,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-r1",
          "pubDate" : "Wed, 02 Mar 2022 04:45:00 +0100",
          "title" : "Belgrade GP: Andreikin stuns Grischuk"
-      },
-      {
-         "description" : "The first round of the group stage in the 2022 FIDE Grand Prix in Belgrade saw four decisive games, three hard-fought draws, and several surprises. After the first of six rounds, GM Dmitriy Andreikin has taken the lead in Group A, GMs Anish Giri a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-r1",
-         "pubDate" : "Tue, 01 Mar 2022 17:44:00 -0800",
-         "title" : "2022 FIDE Grand Prix Belgrade R1: Four Wins, Lots of Excitement"
       },
       {
          "description" : "",
@@ -2432,14 +2448,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/act-v-sa-junior-challenge.html",
          "pubDate" : "Sun, 20 Feb 2022 11:47:00 +0000",
          "title" : "ACT v SA - Junior Challenge"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1586",
-         "pubDate" : "Sat, 19 Feb 2022 16:41:51 +0000",
-         "title" : "Mahammad Muradli wins Azerbaijan Championship"
       }
    ]
 }
