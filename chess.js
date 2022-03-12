@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dmitry Andreikin will face Richard Rapport in the final match of the FIDE Grand Prix's second stage, taking place in Belgrade. The Russian grandmaster got a 1&frac12;-&frac12; win over Anish Giri in a rapid tiebreaker to remain in the fight for overall victory in Serbia's capital. It was a heartbreaking loss for Giri, who had winning chances in both rapid encounters played on Friday. | Photos: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-sf3",
+         "pubDate" : "Sat, 12 Mar 2022 03:00:00 +0100",
+         "title" : "Belgrade GP: Andreikin knocks out Giri"
+      },
+      {
          "description" : "Following a quick draw in the first game of the tiebreaks, Andreikin won as Black against Giri in the second game, despite having an inferiour position. In the finals of the second leg of the Grand Prix, Dmitry Andreikin will be playing a two-game match against Richard Rapport on the 12th and 13th of March. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -104,14 +112,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-semi-final-tie-break/",
          "pubDate" : "Fri, 11 Mar 2022 14:14:41 +0000",
          "title" : "FIDE Grand Prix in Belgrade: Semi-final Tie-Break"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
-         "pubDate" : "Fri, 11 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix SF - Games and results"
       },
       {
          "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. After winning game 8 Howell leads 4.5-3.5. Game 9 starts Friday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
