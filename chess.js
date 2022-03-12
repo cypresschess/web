@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Following a quick draw in the first game of the tiebreaks, Andreikin won as Black against Giri in the second game, despite having an inferiour position. In the finals of the second leg of the Grand Prix, Dmitry Andreikin will be playing a two-game match against Richard Rapport on the 12th and 13th of March. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/andreikin-rapport-is-the-final-of-the-fide-grand-prix-belgrade-2022/",
+         "pubDate" : "Fri, 11 Mar 2022 22:06:11 +0000",
+         "title" : "Andreikin - Rapport is the final of the FIDE Grand Prix Belgrade 2022"
+      },
+      {
+         "description" : "The Rhodes Chess Festival 2022 will be held from 20 April to 4 May, in the five-star Rodos Palace Conference Resort of Rhodes island, and it will be a unique opportunity for players to combine chess with seaside holidays and the traditional Greek Easter celebrations! The Rhodes Chess festival will consist of three events: 20 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/rhodes-chess-festival-2022/",
+         "pubDate" : "Fri, 11 Mar 2022 21:52:03 +0000",
+         "title" : "Rhodes Chess Festival 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1631",
+         "pubDate" : "Fri, 11 Mar 2022 21:45:19 +0000",
+         "title" : "Ekaterina Atalik wins Turkish Women's Championship"
+      },
+      {
+         "description" : "Dmitry Andreikin will play Richard Rapport in the Belgrade FIDE Grand Prix final after defeating Anish Giri 1.5:0.5 in tiebreaks. It was a tough defeat for the Dutch star, who was close to winning in the first game when he took a draw by repetition, and then had a stable advantage in the second before he lost control. Ultimately Anish thought he'd spotted a winning tactic but in fact he allowed Dmitry to reach the final by demonstrating the refutation.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/belgrade-gp-andreikin-hits-back-to-reach-final",
+         "pubDate" : "Fri, 11 Mar 2022 21:19:01 +0000",
+         "title" : "Belgrade GP: Andreikin hits back to reach final"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser faces an incredibly sharp endgame in a slow, instructive, classical game Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/instructive-classical-chess-he-got-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/instructive-classical-chess-he-got-new-queen",
+         "pubDate" : "Fri, 11 Mar 2022 20:59:14 +0000",
+         "title" : "Instructive Classical Chess: He Got A New Queen..."
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -290,14 +330,6 @@ news_feed (
          "title" : "FIDE Grand Prix Belgrade - Knockout: Day Two Recap"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its Spring season. Join NM Caleb Denby for the move-by-move. 2022.03.10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-corporate-chess-league-virtual-spring-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7cQDWoELoqs.jpg?itok=7rspTETr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-corporate-chess-league-virtual-spring-2",
-         "pubDate" : "Thu, 10 Mar 2022 20:58:20 +0000",
-         "title" : "2022 Saint Louis Corporate Chess League: Virtual Spring #2"
-      },
-      {
          "description" : "Wednesday&#39;s games of the 2022 FIDE Grand Prix&#38;nbsp;in Belgrade saw GM Richard Rapport win with the white pieces against GM Maxime Vachier-Lagrave, whereas the game between GM Anish Giri and GM Dmitry Andreikin ended in a draw after wild complicati...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -576,22 +608,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/international-women-s-day-women-who-power-the-tour-part-2",
          "pubDate" : "Wed, 09 Mar 2022 11:41:00 +0000",
          "title" : "International Women's Day: Powering the Tour, part 2"
-      },
-      {
-         "description" : "The&#xA0;March Lichess Blitz Titled Arena&#xA0;was won by&#xA0;GM Shant Sargsyan, a young Armenian super GM who is a former World U16 champion. In what was one of the closest Titled Arenas ever, Sargsyan was only really able to clinch the tournament in the final few minutes as he won two games back-to-back. Two other young and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-shant-sargsyan-wins-lichess-titled-arena/",
-         "pubDate" : "Wed, 09 Mar 2022 09:58:12 +0000",
-         "title" : "GM Shant Sargsyan wins Lichess titled arena"
-      },
-      {
-         "description" : "For the first time, the Saint Louis Chess Club will host&#xA0;The American Cup 2022, highlighting an exciting and unique double elimination format. This new format and tournament will bring world class chess masters to America&#x2019;s chess capital to compete in a fierce do-or-die struggle for $300,000 total in prize money. Live games and coverage will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/american-chess-cup-2022-live/",
-         "pubDate" : "Wed, 09 Mar 2022 09:51:39 +0000",
-         "title" : "American Chess Cup 2022 LIVE"
       },
       {
          "description" : "In his \"Weekly Show\" Lawrence Trent talks a bit about the Grand Prix in Belgrade, but the focus of the show is game 1 of the Sweden-England Challenge match between Nils Grandelius and David Howell. In the first game, Nils missed a number of great opportunities to win in a funky sideline of the Berlin but David defended resolutely and the game ended in a draw. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
@@ -1570,14 +1586,6 @@ news_feed (
          "title" : "Good Technique"
       },
       {
-         "description" : "The Belgrade FIDE Grand Prix opened on Tuesday with 50% of the games ending decisively. Alexander Grischuk suffered a loss to his Russian compatriot Dmitry Andreikin and said afterwards, referring to the invasion of Ukraine, that he was \"very sad, very pained with what is going on\". There were also wins for Nikita Vitiugov, Anish Giri and Vidit, while Maxime Vachier-Lagrave needed all his escapology skills to survive against Alexandr Predke.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/belgrade-gp-1-grischuk-pained-by-war-loses-to-andreikin",
-         "pubDate" : "Wed, 02 Mar 2022 11:26:05 +0000",
-         "title" : "Belgrade GP 1: Grischuk \"pained\" by war, loses to Andreikin"
-      },
-      {
          "description" : "The love of most chess players for the bishop-pair is both strong and irrational. We all know that having the \"bishop-pair\" advantage should be beneficial, but - as discussed in the previous part of The Winning Academy - we barely know how to make full use of them. I would like to show you how this irrational love for the two bishops leads to poor practical decisions. The price players are willing to pay for the bishop-pair is quite often far too high. An arm and a leg. And more.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2440,14 +2448,6 @@ news_feed (
          "link" : "https://www.thearticle.com/which-marx-played-better-chess-karl-or-groucho/",
          "pubDate" : "Sat, 19 Feb 2022 10:55:56 +0000",
          "title" : "Which Marx played better chess: Karl or Groucho?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1585",
-         "pubDate" : "Fri, 18 Feb 2022 22:46:00 +0000",
-         "title" : "\"Chess for Mental Health\" International Conference announced"
       }
    ]
 }
