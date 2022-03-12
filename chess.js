@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
+         "pubDate" : "Sat, 12 Mar 2022 14:55:00 +0100",
+         "title" : "Belgrade Grand Prix Final - Live!"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/T34-dZEPaqs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-final-game-1/",
+         "pubDate" : "Sat, 12 Mar 2022 13:43:06 +0000",
+         "title" : "FIDE Grand Prix in Belgrade: Final Game 1"
+      },
+      {
+         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. Going into the final game, Howell leads by a 5-4 score. Game 10 starts Saturday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-game-6-live",
+         "pubDate" : "Sat, 12 Mar 2022 14:30:00 +0100",
+         "title" : "England vs Sweden Challenge - Game 10 live"
+      },
+      {
          "description" : "Trent's Tactics has a new format since today! From now on, this is your personal, interactive tactic trainer, and Lawrence Trent is your tactical coach. Try to solve the puzzles on the interactive board on your own, pause the video when we tell you to, and use your brain to find the tactical approaches. Lawrence will give you some hints, advice, and techniques to get to reach your goal. Also, please tell us how you like it in the comments.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,14 +160,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-semi-final-tie-break/",
          "pubDate" : "Fri, 11 Mar 2022 14:14:41 +0000",
          "title" : "FIDE Grand Prix in Belgrade: Semi-final Tie-Break"
-      },
-      {
-         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. After winning game 8 Howell leads 4.5-3.5. Game 9 starts Friday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-game-6-live",
-         "pubDate" : "Fri, 11 Mar 2022 14:30:00 +0100",
-         "title" : "England vs Sweden Challenge - Game 9 live"
       },
       {
          "description" : " The concept of 'pay to win' games has always offended me. If you are not familiar with the concept, it is essentially allowing you to pay extra money to a free game, to receive benefits that other players do not get. It is a business model for some games, which while profitable, can annoy an existing user base. More so if the game starts out as 'free forever' before it isn't. In the past I played a few games like this, but as soon as they became 'p2w' I lost interest. But having said that, I do wonder what 'p2w' chess might look like. eg Buying takebacks, Rejecting your opponents first choice, two moves in a row, castling after moving your king Some of these are probably too drastic (Playin",
@@ -1338,14 +1354,6 @@ news_feed (
          "title" : "FIDE Grand Prix Belgrade: Round 3 Recap"
       },
       {
-         "description" : " <p class=\"lead\">Pool C is the only group where both games had a decisive outcome, while the rest ended in a draw <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51915970886_b34a70e392_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> </div> Richard Rapport stopped Vidit Gujrathi and Vladimir Fedoseev delivered a blow to Alexei Shirov in Group C. All other games in the remaining three pools ended with a draw. The first move in today's round was made by two chess legends - Alisa Maric (the former contender for the title of women's world champion) and Nigel Short (who played Garry Kasparov in 1993 for the world chess crown). They made the first move in the game between V",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-belgrade-round-3-recap/",
-         "pubDate" : "Thu, 03 Mar 2022 23:13:50 +0000",
-         "title" : "FIDE Grand Prix Belgrade: Round 3 Recap"
-      },
-      {
          "description" : "In an appeal to Vladimir Putin, the President of Russia, a large number of prominent Russian chess players call for a ceasefire and peace in Ukraine. \"It is unbearably painful for us to see the catastrophe that is happening these days to our peoples.\" The courageous appeal appeared on the Russian sports site \"Championat\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1986,14 +1994,6 @@ news_feed (
          "title" : "CFC condemns Russian invasion of Ukraine"
       },
       {
-         "description" : "Magnus Carlsen won the first event of the 2022 Meltwater Champions Chess Tour as he beat Ian Nepomniachtchi in the finals of the Airthings Masters. After drawing the first set on Friday, the world champion won the second 4-game mini-match by a 2&frac12;-&frac12; score. Nepo did not go down easy, though it was Carlsen who performed at a higher level at the critical points in games 2 and 3.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-d8",
-         "pubDate" : "Sat, 26 Feb 2022 23:50:00 +0100",
-         "title" : "Magnus Carlsen convincingly wins Airthings Masters"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2440,14 +2440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1586",
          "pubDate" : "Sat, 19 Feb 2022 16:41:51 +0000",
          "title" : "Mahammad Muradli wins Azerbaijan Championship"
-      },
-      {
-         "description" : " Another big chess series kicks off for 2022, with the Airthings Masters starting in a few hours. Part of the Meltwater Champions Chess Tour, the first event starts with an online rapidplay RR, with 16 players from around the world. The format has been sped up, to provide more exciting chess, so there will be 4 rounds per day in the preliminary section. The top 8 players will then qualify for the KO final. For local (Canberra) viewers, the tournament begins at 4am, but you may be able to catch the last couple of games of the day, if you wake early enough. The <a href=\"https://chess24.com/tour/\">official hompage</a> for the tournament has more details, including schedules and tournament forma",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/airthings-masters.html",
-         "pubDate" : "Sat, 19 Feb 2022 12:38:00 +0000",
-         "title" : "Airthings Masters"
       }
    ]
 }
