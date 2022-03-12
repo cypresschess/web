@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Trent's Tactics has a new format since today! From now on, this is your personal, interactive tactic trainer, and Lawrence Trent is your tactical coach. Try to solve the puzzles on the interactive board on your own, pause the video when we tell you to, and use your brain to find the tactical approaches. Lawrence will give you some hints, advice, and techniques to get to reach your goal. Also, please tell us how you like it in the comments.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-16",
+         "pubDate" : "Sat, 12 Mar 2022 12:00:00 +0100",
+         "title" : "NEW: Trent's Tactics - Cutting off, like Kasparov"
+      },
+      {
+         "description" : "What is paranoia? It is not jealousy, that green eyed monster, which doth mock the meat it feeds on. But Iago's warning to Othello fits paranoia far better than jealousy. Paranoia refers to suspicion of a nonexistent threat, whereas jealousy envies that, owned by another, which one covets for one's own possession. I doubt that []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/putin-paranoia-and-chess/",
+         "pubDate" : "Sat, 12 Mar 2022 09:30:58 +0000",
+         "title" : "Putin, paranoia and chess"
+      },
+      {
          "description" : "In the diagram position 35.Rxg6+! would have led to victory for White - if followed by the right checks after 35...Kh7. Can you find them all?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1994,14 +2010,6 @@ news_feed (
          "title" : "Second leg of FIDE Grand Prix starts in Belgrade on February 28"
       },
       {
-         "description" : "Humans formed belief systems based on stellar bodies. If you ask an astrologer about it, he might tell you his beliefs which of those have the most influence on your life. If you ask a scientist, he will likely name at least two: Sun and Earth. Ancient cultures already measured a phenomenon that - relative to each other - Earth rotates around the sun as well as around its own axis. A full rotation around itself is called a \"day\", a full rotation around the sun a \"year\". Relatively speaking, that is in relation to the sun, Earth returns to its current position after one year. One hundred such rotations are called a \"century\". A man who is on Earth for such a time is called a \"centennial\". A c",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-the-centennial",
-         "pubDate" : "Sat, 26 Feb 2022 14:00:00 +0100",
-         "title" : "Study of the Month: The Centennial"
-      },
-      {
          "description" : "Fide's move came after mounting pressure from players and commentators to not hold any chess events in Russia following the military action in Ukraine.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -2440,14 +2448,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/airthings-masters.html",
          "pubDate" : "Sat, 19 Feb 2022 12:38:00 +0000",
          "title" : "Airthings Masters"
-      },
-      {
-         "description" : "One game of chess played by Karl Marx does exist (see the link below) but it must be regarded as apocryphal. In this game, Marx achieves a level of chessboard brilliance, matching that of games attributed to Napoleon Bonaparte, which are known to be fabricated. Surely, if Karl Marx had been that strong at chess, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/which-marx-played-better-chess-karl-or-groucho/",
-         "pubDate" : "Sat, 19 Feb 2022 10:55:56 +0000",
-         "title" : "Which Marx played better chess: Karl or Groucho?"
       }
    ]
 }
