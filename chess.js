@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position 35.Rxg6+! would have led to victory for White - if followed by the right checks after 35...Kh7. Can you find them all?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/only-one-check-wins",
+         "pubDate" : "Sat, 12 Mar 2022 09:00:00 +0100",
+         "title" : "Only one check wins!"
+      },
+      {
          "description" : "Dmitry Andreikin will face Richard Rapport in the final match of the FIDE Grand Prix's second stage, taking place in Belgrade. The Russian grandmaster got a 1&frac12;-&frac12; win over Anish Giri in a rapid tiebreaker to remain in the fight for overall victory in Serbia's capital. It was a heartbreaking loss for Giri, who had winning chances in both rapid encounters played on Friday. | Photos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2000,14 +2008,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/33375259/india-offers-host-chess-olympiad-russia-stripped-showpiece-event?device=featurephone",
          "pubDate" : "Sat, 26 Feb 2022 07:59:26 -0500",
          "title" : "India offers to host chess Olympiad after Russia removed"
-      },
-      {
-         "description" : "The Airthings Masters tournament kicks off this year's Meltwater Champions Chess Tour. Sixteen players in total will battle it out in the round-robin stage of the online event before eight go forward to the knockout stage. The tournament will take place on February 19-26, with the action kicking off daily at 18.00 CET.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2022-live",
-         "pubDate" : "Sat, 26 Feb 2022 13:45:00 +0100",
-         "title" : "Airthings Masters Finals - Games and results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89851180.cms\" />International Master Koustav Chatterjee of West Bengal held top seed Grandmaster B Adhiban of PSPB to a creditable draw in the third round of the 58th Senior National Chess Championship here on Saturday. Playing white side of the English Opening, Adhiban agreed to sign the peace treaty with his West Bengal opponent after 73 moves in an opposite colour bishop and rook ending.",
