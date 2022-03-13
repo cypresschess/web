@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sixth seed IM Neelash Saha of West Bengal and top seed WIM Priyanka Nutakki of Andhra Pradesh becomes national junior champions in the MPL National",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-neelash-saha-priyanka/",
+         "pubDate" : "Sun, 13 Mar 2022 18:52:53 +0000",
+         "title" : "Congratulations Neelash Saha & Priyanka"
+      },
+      {
+         "description" : " <p class=\"lead\">In the final he beat Dmitry Andreikin with a score of 1.5:0.5. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.4992679355783\"> <img src=\"https://worldchess.com/news/pictures/51936022401_fa4a70393f_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51936336029_3efb8010f5_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photo: Mark Livshitz</div> </div> <div style=\"position: relative; width: 600px; max-width: 100%; padding-bottom: min(calc(100% + 190px), 790px);\"><iframe src=\"https://widget.k8stage.worldchess.com/?theme=dark&cb-theme=worldchess&pgn=https://worldchess.com/",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/richard-rapport-is-the-winner-of-the-second-leg-of-the-fide-gran/",
+         "pubDate" : "Sun, 13 Mar 2022 18:45:54 +0000",
+         "title" : "Richard Rapport is the winner of the second leg of the FIDE Grand Prix Series 2022"
+      },
+      {
+         "description" : " I've written a few posts about the wrong chess books: books which are popular and often recommended by well-intentioned but ill-informed posters on social media. They might be the only book the poster has ever read, or the book he read several decades ago when he was learning chess. But the world has moved on. <a href=\"https://chessimprover.com/logical-chess-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Logical Chess (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/logical-chess-1/\">Logical Chess (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/logical-chess-1/",
+         "pubDate" : "Sun, 13 Mar 2022 17:42:55 +0000",
+         "title" : "Logical Chess (1)"
+      },
+      {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/_OUqpv1k-gU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1146,14 +1170,6 @@ news_feed (
          "title" : "Dual Seminar (04-06 March 2022) Ends in a high note"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/-v4HgysuUnw?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-round-5/",
-         "pubDate" : "Sun, 06 Mar 2022 14:12:41 +0000",
-         "title" : "FIDE Grand Prix in Belgrade: Round 5"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 69th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to show ideas in the King's Indian. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1464,14 +1480,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-miniature-between-two-top-players",
          "pubDate" : "Thu, 03 Mar 2022 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: A miniature between two top players"
-      },
-      {
-         "description" : "Final Round Report &#160; In the final round Divya and Soumya signed a peace treaty. Divya maintained her spectacular form and won the MPL 47th",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-47-th-national-women-chess-championship-2022divya-deshmukh-crowned-national-women-champion/",
-         "pubDate" : "Thu, 03 Mar 2022 16:26:41 +0000",
-         "title" : "MPL 47 th National Women Chess Championship-2022:Divya Deshmukh crowned National Women Champion"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 34 Russian chess personalities, including challenger <strong>Ian Nepomniachtchi</strong>, national team players and employees of the <strong>Russian Chess Federation</strong> <a href=\"http://chess-news.ru/node/28810\">signed an open letter</a> to Russian dictator <strong>Vladimir Putin</strong> requesting to end the \"military operation on the territory of Ukraine\", a euphemism required by Russian censorship. </div> ",
@@ -2304,14 +2312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1591",
          "pubDate" : "Tue, 22 Feb 2022 18:16:41 +0000",
          "title" : "Andrea Nicole Garcia wins Honduran Women's Championship"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-54/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (54)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-54/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (54)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-54/",
-         "pubDate" : "Tue, 22 Feb 2022 16:52:36 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (54)"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/d10e2183-0d8e-4a49-9ac8-2bd5af846681/q7YtlQ2X_400x400.jpg\" data-image-dimensions=\"400x400\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6214e4f0557793739d02f430\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/d10e2183-0d8e-4a49-9ac8-2bd5af846681/q7YtlQ2X_400x400.jpg?format=1000w\" /> </figure> <iframe scrolling=\"no\" src=\"https://playlist.megaphone.fm?e=BLU9323042155\" width=\"100%\" frameborder=\"0\" data-preserve-html-node=\"true\" height=\"200\"></iframe><p class=\"\">C",
