@@ -18,14 +18,6 @@ news_feed (
          "title" : "Arena-system tournaments are now on FIDE Online Arena"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/brabo.png",
-         "iconName" : "Chess-Brabo",
-         "link" : "http://chess-brabo.blogspot.com/2022/03/the-end.html",
-         "pubDate" : "Sun, 13 Mar 2022 07:40:00 +0000",
-         "title" : "The end"
-      },
-      {
          "description" : "1st Guwahati International Open Grandmasters Chess Tournament 2022 is taking place 13-20 March. A total of 238 players will participate in the 10 rounds Swiss event. Top seeded is GM Pavel Ponkratov in the company of other international players like GM Ramirez Delgado, GM Christian Rios, GM Mosadeghpour, GM Azer Mirzoev, etc. Local top GMs []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -2456,14 +2448,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1587",
          "pubDate" : "Sun, 20 Feb 2022 13:46:52 +0000",
          "title" : "Carlsen suffers nightmare start as curtain raises on 2022 Tour"
-      },
-      {
-         "description" : " The ACT and South Australia played a junior challenge tournament today, over 18(+2) boards. Using the Tornelo platform, and zoom supervision, the event was over 6 rounds, with a time limit of 15m+5s. It was played as a team swiss, which is like a normal swiss except players from the same team do not play each other. As the ACT had 18 players, and SA ended up with 20, a separate 2 player team (SA2) was required. Having played under this format a few times, the ACT team shot out to quite a large lead. However, once the South Australian players got used to the format, the margin narrowed over the last two rounds. In the end the ACT scored 59 points, and SA scored 53. The top scorers were James",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/act-v-sa-junior-challenge.html",
-         "pubDate" : "Sun, 20 Feb 2022 11:47:00 +0000",
-         "title" : "ACT v SA - Junior Challenge"
       }
    ]
 }
