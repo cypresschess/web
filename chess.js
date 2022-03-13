@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The plane carrying Dmitry Andreikin's family arrived in Belgrade 7 hours later than scheduled, so that instead of sleeping before the final of the FIDE Grand Prix he'd been up almost all night. That showed in the first game, as Dmitry met Richard Rapport's already solid Petroff Defence by heading for what he called an \"absolutely drawish position\". The game dragged on a lot longer than might have been expected, but it did end in a draw, so it's all-square going into Sunday's final classical game in Belgrade.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/belgrade-gp-final-1-sleepless-night-and-a-slow-start",
+         "pubDate" : "Sat, 12 Mar 2022 22:24:08 +0000",
+         "title" : "Belgrade GP Final 1: Sleepless night and a slow start"
+      },
+      {
+         "description" : " GM Ian Rogers has entered the world of live streaming, covering the current Ballarat Begonia Open at <a href=\"https://www.twitch.tv/gmianr\">https://www.twitch.tv/gmianr</a> He plans to follow this up with coverage of the 2022 O2C Doeberl Cup next month. The move to online coverage is both as a consequence of current covid rules, but also an understanding that technology has advanced to a level where the traditional in person lecture has been replaced with online versions. There are theree rounds of the Ballarat tournament today, so if you tune in from around 10am (I think) you should be able to watch around 12 hours of tournament play. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/australian-tournament-streaming.html",
+         "pubDate" : "Sat, 12 Mar 2022 21:43:00 +0000",
+         "title" : "Australian Tournament Streaming"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser faces a strong chess player who seems to have a promising chess career ahead of him. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/future-world-champion-b",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/future-world-champion-beats-me-fair-and-square",
+         "pubDate" : "Sat, 12 Mar 2022 21:00:28 +0000",
+         "title" : "Future World Champion Beats Me Fair and Square"
+      },
+      {
          "description" : "The final match of the second leg of the Grand Prix was opened by FIDE Deputy President and renowned grandmaster Bachar Kouatly. Starting with the Petroff, the players moved to the Four Knights game and then switched to the Scottish Game. Somewhat surprisingly,&#xA0;Dmitry Andreikin&#xA0;opted for a very drawish course.&#xA0;The opponents played out a popular line []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -88,6 +112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/only-one-check-wins",
          "pubDate" : "Sat, 12 Mar 2022 09:00:00 +0100",
          "title" : "Only one check wins!"
+      },
+      {
+         "description" : "GM Abhijeet Gupta is the winner of the 31st PSPB Inter Unit Individual Chess Championship 2022. Gupta scored 6,5/8, half a point ahead of GM Lalith Babu, GM Krishnan Sasikiran, and GM Adhiban. The top performing woman in the event was GM Humpy Koneru with 5,5/8. Final standings 1 GM Gupta Abhijeet&#160; 2551 6,5 2 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-abhijeet-gupta-wins-inter-unit-individual-chess-championship-2022/",
+         "pubDate" : "Sat, 12 Mar 2022 07:15:00 +0000",
+         "title" : "GM Abhijeet Gupta wins Inter Unit Individual Chess Championship 2022"
       },
       {
          "description" : "Dmitry Andreikin will face Richard Rapport in the final match of the FIDE Grand Prix's second stage, taking place in Belgrade. The Russian grandmaster got a 1&frac12;-&frac12; win over Anish Giri in a rapid tiebreaker to remain in the fight for overall victory in Serbia's capital. It was a heartbreaking loss for Giri, who had winning chances in both rapid encounters played on Friday. | Photos: Mark Livshitz",
@@ -346,14 +378,6 @@ news_feed (
          "title" : "Belgrade GP: Rapport escapes, reaches final"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The final day of the Spring Chess Classic! Playoffs if we need them in either field! Join GMs Alejandro Ramirez and Cristian Chirila for the move-by-move. 2022.03.10<br /> USChessChamps.com<br /> <a href=\"https://lichess.org/broadcast/2022-spring-chess-classic/round-9/TYTT0kRI\">https://lichess.org/broadcast/2022-spring-chess-classic/round-9/TYTT0kRI</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-round-9\"><img src=\"https://saintlouisch",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-round-9",
-         "pubDate" : "Thu, 10 Mar 2022 23:58:26 +0000",
-         "title" : "2022 Spring Chess Classic: Round 9"
-      },
-      {
          "description" : "The second round of FIDE Grand Prix Belgrade semifinals saw two draws. After yesterday's win in round 1, Hungarian Richard Rapport secured a place in the finals by holding Maxime Vachier-Lagrave to a draw in a very exciting game that saw lots twists and turns. Following a draw in the first round of the semi-finals,&#160;Dmitry []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -520,14 +544,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/belgrade-gp-semis-1-rapport-beats-mvl",
          "pubDate" : "Thu, 10 Mar 2022 10:33:49 +0000",
          "title" : "Belgrade GP SF 1: Rapport beats MVL"
-      },
-      {
-         "description" : "The Prague Chess Festival 2022 will take place 7-17 June. It will consist of a Masters 10 player round robin event, Challengers and Futures tournaments. The Masters have already confirmed three top players GM David Navara, GM Le Quang Liem and GM Salem Saleh. More: The story of the 2021 Prague Chess here The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/prague-chess-festival-2022-participants-and-information/",
-         "pubDate" : "Thu, 10 Mar 2022 10:18:36 +0000",
-         "title" : "Prague Chess Festival 2022 - participants and information"
       },
       {
          "description" : "Two exciting games were seen at the start of the FIDE Grand Prix semifinals in Belgrade. Richard Rapport scored a crucial win over Maxime Vachier-Lagrave and now only needs a draw on Thursday to vastly increase his chances of qualifying to the Candidates Tournament. Meanwhile, Anish Giri gave up two exchanges and got a favourable position out of a sharp Sicilian against Dmitry Andreikin. | Photos: Mark Livshitz",
@@ -1608,14 +1624,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-32",
          "pubDate" : "Wed, 02 Mar 2022 17:00:00 +0100",
          "title" : "Svitlana's Smart Moves - How to build a fortress"
-      },
-      {
-         "description" : "Sergey Karjakin has infuriated the chess world through his recent controversial comments on social media supporting Russian President Vladimir Putin and the Russian invasion of Ukraine. The grandmaster is also facing an ethics case brought by FIDE and risks suspension from tournament play. Now organisers in Stavanger and London say the Russian 32-year-old is no longer welcome at their tournaments.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/sergey-karjakin-shunned-by-top-chess-events",
-         "pubDate" : "Wed, 02 Mar 2022 15:20:09 +0000",
-         "title" : "Sergey Karjakin shunned by top chess events"
       },
       {
          "description" : " Note from Noël: This is a guest post by a Next Level Chess reader who goes by 'Ringofbarahir' on several Chess platforms (Chessable/Chess.com/Lichess). He is an adult chess improver and looks back on his first year in chess. The clarity of his insights struck me and that's why I'm very happy to share the article [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/5-key-lessons-first-year/\">5 Key Lessons I learned In My First Year Playing Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
