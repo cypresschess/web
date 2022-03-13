@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/brabo.png",
+         "iconName" : "Chess-Brabo",
+         "link" : "http://chess-brabo.blogspot.com/2022/03/the-end.html",
+         "pubDate" : "Sun, 13 Mar 2022 07:40:00 +0000",
+         "title" : "The end"
+      },
+      {
+         "description" : "1st Guwahati International Open Grandmasters Chess Tournament 2022 is taking place 13-20 March. A total of 238 players will participate in the 10 rounds Swiss event. Top seeded is GM Pavel Ponkratov in the company of other international players like GM Ramirez Delgado, GM Christian Rios, GM Mosadeghpour, GM Azer Mirzoev, etc. Local top GMs []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1st-guwahati-international-open-grandmasters-chess-tournament-2022/",
+         "pubDate" : "Sun, 13 Mar 2022 07:21:52 +0000",
+         "title" : "1st Guwahati International Open Grandmasters Chess Tournament 2022"
+      },
+      {
+         "description" : "The K-12 State Championship of North Carolina is happening March 11-13, 2022. This is the first time the event is held in two years. 450+ players participate in the event K-12 chess championship, which is a qualifier for the for Rockefeller, Barber and Denker National Invitational Chess Tournaments. The event is sponsored by the Charlotte []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2022-north-carolina-k-12-chess-championship-with-450-players/",
+         "pubDate" : "Sun, 13 Mar 2022 06:53:46 +0000",
+         "title" : "2022 North Carolina K-12 Chess Championship with 450+ players"
+      },
+      {
+         "description" : "The Saint Louis Spring Classic had a thrilling final day of action. In the A group, Sam Sevian prevailed after beating Ilya Nyzhnyk in a rapid playoff. In the B group, the youngest grandmaster in history Abhimanyu Mishra (pictured) won the event with an impressive Tournament Rating Performance. | Photo: Crytal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sam-sevian-abhimanyu-mishra-saint-louis-spring-classic",
+         "pubDate" : "Sun, 13 Mar 2022 06:25:00 +0100",
+         "title" : "Sam Sevian and Abhimanyu Mishra triumph in Saint Louis"
+      },
+      {
          "description" : "The plane carrying Dmitry Andreikin's family arrived in Belgrade 7 hours later than scheduled, so that instead of sleeping before the final of the FIDE Grand Prix he'd been up almost all night. That showed in the first game, as Dmitry met Richard Rapport's already solid Petroff Defence by heading for what he called an \"absolutely drawish position\". The game dragged on a lot longer than might have been expected, but it did end in a draw, so it's all-square going into Sunday's final classical game in Belgrade.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -71,7 +103,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
          "pubDate" : "Sat, 12 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix Final - Live!"
+         "title" : "Belgrade Grand Prix Final - Games and results"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/T34-dZEPaqs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -392,22 +424,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-bullet-chess-championship-losers-round-2-bortnyk-erigaisi-jacobson-martinez-win",
          "pubDate" : "Thu, 10 Mar 2022 15:54:00 -0800",
          "title" : "Bullet Chess Championship Losers Round 2: Bortnyk, Erigaisi, Jacobson, Martinez Advance"
-      },
-      {
-         "description" : "The first round of the semi-finals of the second leg of the Grand Prix, which followed the qualification phase, saw one decisive result and one draw. Richard Rapport&#160;defeated&#160;Maxime Vachier-Lagrave. Before this game, the two had played eight classical games, five of which were drawn and three were won by the Frenchman. Despite the head-to-head record []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/richard-rapport-fide-grand-prix-2022",
-         "pubDate" : "Thu, 10 Mar 2022 23:47:00 +0000",
-         "title" : "Richard Rapport defeats Maxime-Vachier-Lagrave in FIDE Chess Grand Prix Belgrade 2022"
-      },
-      {
-         "description" : "The European Individual Chess Championship 2022 will take place between 26 March and 7 April at Terme &#x10C;ate&#x17E; near Bre&#x17E;ice in Slovenia. The event is organized by the Chess Federation of Slovenia under the auspices of the European Chess Union (ECU). The official host of the championship is Hotel Spa; accommodation is also available in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-individual-chess-2022/",
-         "pubDate" : "Thu, 10 Mar 2022 23:36:00 +0000",
-         "title" : "European Individual Chess 2022"
       },
       {
          "description" : " <p class=\"lead\">Rapport eliminated MVL as Andreikin and Giri go to tiebreaks The second round of the semi-finals of the second leg of the Grand Prix saw two draws. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-43.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-33.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-37.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-53.jpg\" width=\"1280\" he",
@@ -1986,14 +2002,6 @@ news_feed (
          "title" : "Junior chess back on in Canberra"
       },
       {
-         "description" : "The new ChessBase Magazine #206 once again offers a wealth of ideas and recommendations for your repertoire. Besides the three opening videos by Jan Werle, Daniel King and Mihail Marin as well as Rainer Knaak's trap collection, the new issue contains eleven opening articles covering a broad spectrum: from a sharp gambit in the Caro-Kann Advance Variation via \"Ruy Lopez for structuralists\" (Delayed Exchange Variation) to the new Gruenfeld trend 5.Bd2 c5!?. Imre Hera, meanwhile, takes up a radical idea against the Reti Opening with which David Navara shocked his opponent, GM Markowski, in 2011: after 1.Nf3 d5 2.c4 d4 3.b4 the creative artist continued with the novelty 3...g5!? and then also le",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/full-speed-against-the-reti",
-         "pubDate" : "Sun, 27 Feb 2022 13:00:00 +0100",
-         "title" : "Full speed against the Reti!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89864471.cms\" />Magnus Carlsen bagged the first event of the 2022 Meltwater Champions Chess Tour, the Airthings Masters, after overcoming Ian Nepomniachtchi with a classy display on Saturday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2306,7 +2314,7 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (54)"
       },
       {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/d10e2183-0d8e-4a49-9ac8-2bd5af846681/q7YtlQ2X_400x400.jpg\" data-image-dimensions=\"400x400\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6214e4f0557793739d02f430\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/d10e2183-0d8e-4a49-9ac8-2bd5af846681/q7YtlQ2X_400x400.jpg?format=1000w\" /> </figure> <iframe scrolling=\"no\" src=\"https://playlist.megaphone.fm?e=BLU9323042155\" width=\"100%\" frameborder=\"0\" data-preserve-html-node=\"true\" height=\"200\"></iframe> <p class=\"\">",
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/d10e2183-0d8e-4a49-9ac8-2bd5af846681/q7YtlQ2X_400x400.jpg\" data-image-dimensions=\"400x400\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6214e4f0557793739d02f430\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/d10e2183-0d8e-4a49-9ac8-2bd5af846681/q7YtlQ2X_400x400.jpg?format=1000w\" /> </figure> <iframe scrolling=\"no\" src=\"https://playlist.megaphone.fm?e=BLU9323042155\" width=\"100%\" frameborder=\"0\" data-preserve-html-node=\"true\" height=\"200\"></iframe><p class=\"\">C",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/2/22/pauq1ld4qaxw2a7yj336ml7b252q9u",
