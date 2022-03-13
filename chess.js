@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">With 1.5 vs 0.5, Richard Rapport defeated Dmitry Andreikin in the FIDE Grand Prix second leg final <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-43.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> Following a draw in the first game of the finals, Hungarian Grandmaster Richard Rapport won the second game against the two-time Russian champion, Dmitry Andreikin. In the final minutes of the game, in a position that seemed completely equal for Black, Rapport (who played as White) found a way to throw Andreikin off his balance and snatch victory. <h2>Fortune favours the bold</h2> <div class=\"e2-text-picture\"> <div class=\"fotoram",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-richard-rapport-triumphs-in-belgrade/",
+         "pubDate" : "Sun, 13 Mar 2022 22:58:36 +0000",
+         "title" : "FIDE Grand Prix: Richard Rapport triumphs in Belgrade"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1634",
+         "pubDate" : "Sun, 13 Mar 2022 22:54:04 +0000",
+         "title" : "FIDE Grand Prix: Richard Rapport triumphs in Belgrade"
+      },
+      {
+         "description" : "GM Hikaru Nakamura&#38;nbsp;seized first place in the fifth week of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, holding his nerve after a series of close matches against a number of the world&#39;s best players. Nakamura finished ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-week-5-nakamura-wins",
+         "pubDate" : "Sun, 13 Mar 2022 15:50:15 -0700",
+         "title" : "Rapid Chess Championship Week 5: Nakamura Bests Aronian"
+      },
+      {
+         "description" : "On the first day&#38;nbsp;of the final in the second leg of the 2022 FIDE Grand Prix&#38;nbsp;in Belgrade, Russian GM Dmitry Andreikin and Hungarian GM Richard Rapport played a solid, correct draw. After his dramatic last-round win of the pool play agains...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-final-day-2-rapport-wins",
+         "pubDate" : "Sun, 13 Mar 2022 13:09:00 -0700",
+         "title" : "2022 FIDE Grand Prix Belgrade Final Day 2: Rapport Gambles And Wins"
+      },
+      {
          "description" : "Sixth seed IM Neelash Saha of West Bengal and top seed WIM Priyanka Nutakki of Andhra Pradesh becomes national junior champions in the MPL National",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1122,14 +1154,6 @@ news_feed (
          "title" : "FIDE adopts simplified procedure for playing under FIDE flag"
       },
       {
-         "description" : " <p class=\"lead\">Round 5 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 in Belgrade</a> ended with Rapport winning against Vidit and taking the lead of Group C, while all the other standings stayed the same. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51921950051_ded83e6e29_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: Mark Livshitz / FIDE</div> </div> Round 5 started with the ACP President and FIDE Councilor GM Aleksandar Colovic making the ceremonial first move on the board of the Shankland - Andreikin game. This game was also the first result of the day with the two co-leaders of <b>Group A<",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/rapport-wins-against-vidit-and-takes-the-lead-of-group-c/",
-         "pubDate" : "Sun, 06 Mar 2022 19:03:14 +0000",
-         "title" : "Rapport wins against Vidit and takes the lead of Group C"
-      },
-      {
          "description" : "In the opening rounds of the Belgrade Grand Prix there were two splendid instances of defensive queen sacrifices. These remarkable efforts set Jon Speelman thinking about defence in general. He thus turned to one of his favourite books, The Middlegame by Max Euwe and Hans Kramer, and cherry-picked a couple of games from the chapters on Steinitz and Lasker. | Pictured: Emanuel Lasker / Collection of the World Chess Hall of Fame",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1610,14 +1634,6 @@ news_feed (
          "title" : "FIDE Grand Prix Belgrade: Round 2 Recap"
       },
       {
-         "description" : "It was the first of two Chess960 weeks in Season 9 of Arena Kings when GM Vugar Rasulov emerged victorious, defeating GM Oleksandr Bortnyk in the finals by a 3.5-2.5 score. Bortnyk had advanced by defeating GM Hikaru Nakamura in the semifinals, wh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rasulov-wins-arena-kings-season-9-week-5",
-         "pubDate" : "Wed, 02 Mar 2022 14:25:13 -0800",
-         "title" : "Rasulov The Chess960 Arena King In Season 9 Week 5"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1640,14 +1656,6 @@ news_feed (
          "link" : "https://chessimprover.com/the-master-chess-web-show-3/",
          "pubDate" : "Wed, 02 Mar 2022 18:20:57 +0000",
          "title" : "The Master Chess Web Show (3)"
-      },
-      {
-         "description" : "GMs Jose Martinez and Aryan Tari won Titled Tuesday on March 1. They both held off GM Hikaru Nakamura, who finished third in the early tournament and second in the late event while streaming for 12 hours to support Ukraine. GM Raunak Sadhwani fini...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/martinez-tari-win-titled-tuesday-march-1-2022",
-         "pubDate" : "Wed, 02 Mar 2022 09:30:03 -0800",
-         "title" : "Martinez, Tari Win March 1 Titled Tuesday"
       },
       {
          "description" : "FIDE published its new World Ranking List. World Champion Magnus Carlsen remains the clear number one but did not make any significant progress towards the 2900 mark - Carlsen gained points by winning in Wijk but lost these points again in one game in the Norwegian league. The winner of the Challengers in Wijk, Arjun Erigaisi, is now among the top 100, and Hikaru Nakamura is back in the top 20.",
@@ -2416,38 +2424,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/rip-stan-goodall/",
          "pubDate" : "Mon, 21 Feb 2022 09:29:24 +0000",
          "title" : "RIP Stan Goodall"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1589",
-         "pubDate" : "Sun, 20 Feb 2022 22:11:51 +0000",
-         "title" : "Teen star topples Carlsen as Russian takes Airthings Masters lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1588",
-         "pubDate" : "Sun, 20 Feb 2022 21:13:29 +0000",
-         "title" : "Sandro Mareco wins Iberoamericano Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1578",
-         "pubDate" : "Sun, 20 Feb 2022 21:03:46 +0000",
-         "title" : "Groups for Second Leg of FIDE Grand Prix 2022 announced"
-      },
-      {
-         "description" : " In this Black History Month, we honor our Afro-Latino chess kindred as part of our shared history. The Chess Drum has spent 21 years covering chess around the globe and while the site has presented coverage of major international events, it has focused its energy on the African Diaspora. One of the segments that the [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/20/black-history-month-2022-day-20-afro-latino-chess/\">Black History Month 2022-Day 20: Afro-Latino Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/20/black-history-month-2022-day-20-afro-latino-chess/",
-         "pubDate" : "Sun, 20 Feb 2022 20:13:35 +0000",
-         "title" : "Black History Month 2022-Day 20: Afro-Latino Chess"
       }
    ]
 }
