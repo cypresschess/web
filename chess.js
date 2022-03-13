@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first game of the Belgrade Grand Prix final ended drawn, with Dmitry Andreikin and Richard Rapport playing 37 moves out of a Petroff Defence before signing the peace agreement. Andreikin had to deal with his family's delayed flight the night prior to the game, which prevented him from taking proper rest. The Russian will have the black pieces in Sunday's second game of the final. | Photos: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-f1",
+         "pubDate" : "Sun, 13 Mar 2022 11:20:00 +0100",
+         "title" : "Belgrade GP Final: A quiet draw"
+      },
+      {
+         "description" : " <p class=\"lead\"><a href=\"https://chessarena.com/\">FIDE Online Arena,</a> the official FIDE gaming platform, will feature Arena-system tournaments. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Untitled-design.jpg\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> This type of tournament is available online only and will have action without waiting for the round. Just finish your game and start fighting with your next opponent. In the fixed amount of time you have to earn as many points as you can by winning as many games as you can. You get more points when you win several games in a row. No rounds and you can pause at any time. Choose a tournament in your favourite",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/arena-system-tournaments-are-now-on-fide-online-arena/",
+         "pubDate" : "Sun, 13 Mar 2022 08:51:27 +0000",
+         "title" : "Arena-system tournaments are now on FIDE Online Arena"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/brabo.png",
          "iconName" : "Chess-Brabo",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1632",
          "pubDate" : "Sat, 12 Mar 2022 17:45:36 +0000",
          "title" : "FIDE and FFE host international conference \"Chess for Mental Health\""
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
-         "pubDate" : "Sat, 12 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix Final - Games and results"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/T34-dZEPaqs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -1280,14 +1288,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-round-3",
          "pubDate" : "Fri, 04 Mar 2022 11:35:36 -0800",
          "title" : "Collegiate Chess League Season 4 Round 3"
-      },
-      {
-         "description" : " <p class=\"lead\">Round 4 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 in Belgrade</a> ended with Group D breaking free from the draws and GM Maxime Vachier-Lagrave being the clear leader. At the same time Giri is steadily the leader of Group B with the highest score in the whole tournament. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.4992679355783\"> <img src=\"https://worldchess.com/news/pictures/A-12.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51917665106_d5b256b9fe_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51916697512_8e147cab",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/mvl-won-against-predke-the-only-decisive-game-of-day-4-of-the-gp/",
-         "pubDate" : "Fri, 04 Mar 2022 18:45:56 +0000",
-         "title" : "MVL won against Predke, the only decisive game of Day 4 of the GP"
       },
       {
          "description" : "\"Never move the queen out early\", runs the old maxim. And yet... In his Power Play Show, GM Daniel King examines two cases from the FIDE Grand Prix tournament in Belgrade where, in the open Sicilian, White plays an early queen move. Neither is ridiculous, at least theoretically... | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
