@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The first game of the Belgrade Grand Prix final ended drawn, with Dmitry Andreikin and Richard Rapport playing 37 moves out of a Petroff Defence before signing the peace agreement. Andreikin had to deal with his family's delayed flight the night prior to the game, which prevented him from taking proper rest. The Russian will have the black pieces in Sunday's second game of the final. | Photos: Mark Livshitz",
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/_OUqpv1k-gU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-final-game-2/",
+         "pubDate" : "Sun, 13 Mar 2022 14:09:57 +0000",
+         "title" : "FIDE Grand Prix in Belgrade: Final Game 2"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 70th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to show ideas in the King's Indian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-70-ideas-in-the-king-s-indian-3",
+         "pubDate" : "Sun, 13 Mar 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 70: Ideas in the King's Indian (3)"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
+         "pubDate" : "Sun, 13 Mar 2022 14:55:00 +0100",
+         "title" : "Belgrade Grand Prix Final - Live!"
+      },
+      {
+         "description" : " A bit of an update on what is possibly happening with the 2022 Chess Olympiad. At this stage India seems to be the only federation bidding, and they have put together quite a nice video presentation supporting the bid. The proposed venue city will be Chennai, or more correctly, Mahabalipuram, which is a resort are an hour to the south. At the moment, federations are being asked to comment on the bid (in place of a formal vote), and the PNG Chess Federation is in favour of the bid. For local (ie Australian) chess fans, there are a couple of benefits. The difference in time zones isn't that large, so games can be watched in the evening. Also , for people who wish to watch in person, travel is",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/2022-olympiad-venue.html",
+         "pubDate" : "Sun, 13 Mar 2022 12:26:00 +0000",
+         "title" : "2022 Olympiad Venue"
+      },
+      {
+         "description" : "The first game of the Belgrade Grand Prix final ended drawn, with Dmitry Andreikin and Richard Rapport playing 37 moves out of a Petroff Defence before splitting the point. Andreikin had to deal with his family's delayed flight the night prior to the game, which prevented him from taking proper rest. The Russian will have the black pieces in Sunday's second game of the final. | Photos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-f1",
@@ -1234,14 +1266,6 @@ news_feed (
          "title" : "Bullet Chess Championship Round Of 16: Tang Defeats Caruana In Thrilling Tiebreak"
       },
       {
-         "description" : " <p class=\"lead\">A day of draws in the Grand Prix as Maxime Vachier-Lagrave is the only one to score a victory, producing a first decisive game in Pool D <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-05_00-34-17.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> The fourth round of the second leg of the FIDE Grand Prix was mostly calm as seven out of eight games ended in a draw. The only one to win was the World Blitz champion and seasoned top-class player, Maxime Vachier-Lagrave (MVL), who scored an important victory in Pool D, breaking a three-round long cycle of draws in that group. In the overall results, Anish Giri is doing best with 3/5, leadin",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-belgrade-round-4-recap/",
-         "pubDate" : "Fri, 04 Mar 2022 23:34:57 +0000",
-         "title" : "FIDE Grand Prix Belgrade: Round 4 Recap"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1954,14 +1978,6 @@ news_feed (
          "title" : "FIDE Council condemns Russia's military action"
       },
       {
-         "description" : "The most exciting and talked-about game of the 2021 World Championship was game 6. Statistically, the sixth game of a World Championship match has yielded more decisive results than any other game. This one proved to be no exception, as records kept tumbling. The game had various layers of action and consequences. GM Sundararajan Kidambi explains the game arising out of a Catalan opening. | Photo: Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/an-epic-catalan-battle-world-chess-championship-2021",
-         "pubDate" : "Sun, 27 Feb 2022 22:00:00 +0100",
-         "title" : "An epic Catalan battle"
-      },
-      {
          "description" : " Former Italian international Stefano Bruzzi, who emigrated to England in the 1960s and played for Surbiton Chess Club for many years, died recently. I only had the honour of playing him on one occasion, in 2015. By that time he was often happy with a short draw, and I've never been averse either, so the <a href=\"https://chessimprover.com/stefano-bruzzi/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stefano Bruzzi\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stefano-bruzzi/\">Stefano Bruzzi</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1976,14 +1992,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/27/black-history-month-2022-day-27-kenneth-clayton/",
          "pubDate" : "Sun, 27 Feb 2022 18:18:15 +0000",
          "title" : "Black History Month 2022-Day 27: Kenneth Clayton"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 68th instalment of his ChessBase show \"Understanding before Moving\", Herman shows some ideas of how to play against the King's Indian. | Photo: Tommy Grooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-68-ideas-in-the-king-s-indian",
-         "pubDate" : "Sun, 27 Feb 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 68: Ideas in the King's Indian"
       },
       {
          "description" : " The ACT Junior Chess League held the first face to face junior chess event of the year, the ACT Junior Lightning Championship. An enthusiastic group turned up to play in the 11 round event, with a mixture of experienced players, and newcomers trying the event for the first time. In the end Charles Huang proved unstoppable, with a perfect 11 from 11. In second place was Larry Cheng, with Connor Amoore in outright third. The tournament ran smoothly (with no crying!), and the event followed the required health protocols. As we were playing at one of local Canberra High Schools, we did require masks for all players, but this don't seem to be a problem. Hopefully there will be a few more events ",
@@ -2440,14 +2448,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/20/black-history-month-2022-day-20-afro-latino-chess/",
          "pubDate" : "Sun, 20 Feb 2022 20:13:35 +0000",
          "title" : "Black History Month 2022-Day 20: Afro-Latino Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1587",
-         "pubDate" : "Sun, 20 Feb 2022 13:46:52 +0000",
-         "title" : "Carlsen suffers nightmare start as curtain raises on 2022 Tour"
       }
    ]
 }
