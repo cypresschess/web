@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Richard Rapport shared his thoughts in a press conference after his victory in the FIDE Grand Prix, &#8220;I am very relieved and with lots of happy emotions&#8221;. The way to the title for Richard Rapport:&#xA0;Rapport qualifies from the group stage&#xA0;/&#xA0;Rapport wins game 1 of the semi final&#xA0;and&#xA0;Qualifies for the final&#xA0;/&#xA0;Rapport and Andreikin draw game 1 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/richard-rapport-interview-after-his-victory-in-the-fide-grand-prix/",
+         "pubDate" : "Mon, 14 Mar 2022 06:24:59 +0000",
+         "title" : "Richard Rapport interview after his victory in the FIDE Grand Prix"
+      },
+      {
+         "description" : "Following a draw in the first game of the finals, Hungarian Grandmaster Richard Rapport won the second game against the two-time Russian champion, Dmitry Andreikin. In the final minutes of the game, in a position that seemed completely equal for Black, Rapport (who played as White) found a way to throw Andreikin off his balance []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/richard-rapport-is-the-winner-of-grand-prix-belgrade-2022/",
+         "pubDate" : "Mon, 14 Mar 2022 06:14:41 +0000",
+         "title" : "Richard Rapport is the winner of Grand Prix Belgrade 2022"
+      },
+      {
+         "description" : "A win with white in Sunday's second game of the final gave Richard Rapport tournament victory at the second leg of the FIDE Grand Prix in Belgrade. Rapport beat Dmitry Andreikin after rejecting a draw by triple repetition in a double-edged position. This victory, combined with his reaching the semifinals in the first leg of the series, places him as a clear favourite to get a spot in the Candidates Tournament. | Photos: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-f2",
+         "pubDate" : "Mon, 14 Mar 2022 05:35:00 +0100",
+         "title" : "Rapport tempts fortune, wins Belgrade Grand Prix"
+      },
+      {
          "description" : " <p class=\"lead\">With 1.5 vs 0.5, Richard Rapport defeated Dmitry Andreikin in the FIDE Grand Prix second leg final <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-43.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> Following a draw in the first game of the finals, Hungarian Grandmaster Richard Rapport won the second game against the two-time Russian champion, Dmitry Andreikin. In the final minutes of the game, in a position that seemed completely equal for Black, Rapport (who played as White) found a way to throw Andreikin off his balance and snatch victory. <h2>Fortune favours the bold</h2> <div class=\"e2-text-picture\"> <div class=\"fotoram",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -22,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-week-5-nakamura-wins",
-         "pubDate" : "Sun, 13 Mar 2022 15:50:15 -0700",
+         "pubDate" : "Sun, 13 Mar 2022 15:50:00 -0700",
          "title" : "Rapid Chess Championship Week 5: Nakamura Bests Aronian"
       },
       {
@@ -47,7 +71,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/richard-rapport-is-the-winner-of-the-second-leg-of-the-fide-gran/",
          "pubDate" : "Sun, 13 Mar 2022 18:45:54 +0000",
-         "title" : "Richard Rapport is the winner of the second leg of the FIDE Grand Prix Series 2022"
+         "title" : "Rapport Wins Second Leg of the Grand Prix Series 2022"
       },
       {
          "description" : " I've written a few posts about the wrong chess books: books which are popular and often recommended by well-intentioned but ill-informed posters on social media. They might be the only book the poster has ever read, or the book he read several decades ago when he was learning chess. But the world has moved on. <a href=\"https://chessimprover.com/logical-chess-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Logical Chess (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/logical-chess-1/\">Logical Chess (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -79,7 +103,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
          "pubDate" : "Sun, 13 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix Final - Live!"
+         "title" : "Belgrade Grand Prix Final - Games and results"
       },
       {
          "description" : " A bit of an update on what is possibly happening with the 2022 Chess Olympiad. At this stage India seems to be the only federation bidding, and they have put together quite a nice video presentation supporting the bid. The proposed venue city will be Chennai, or more correctly, Mahabalipuram, which is a resort are an hour to the south. At the moment, federations are being asked to comment on the bid (in place of a formal vote), and the PNG Chess Federation is in favour of the bid. For local (ie Australian) chess fans, there are a couple of benefits. The difference in time zones isn't that large, so games can be watched in the evening. Also , for people who wish to watch in person, travel is",
@@ -418,14 +442,6 @@ news_feed (
          "title" : "FM James Canty and FM Waldo Serrano awarded chess titles"
       },
       {
-         "description" : "Biel Chess Festival 2022 is going to take place 10-24 of July offering a staggering of thirteen chess tournaments. Last year, the final list of participants for our main event (GMT) could be announced only 48 hours before the official opening of the Festival. This year, it is four months in advance that we can []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/biel-chess-2022-announced/",
-         "pubDate" : "Fri, 11 Mar 2022 06:32:55 +0000",
-         "title" : "Biel Chess 2022 announced"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi talks to our hosts after his ninth round game in the Spring Chess Classic. 2022.03.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-jj-ali-marandi-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n3o1hAwKA2c.jpg?itok=qX-E2bTN\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -496,14 +512,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-sf2",
          "pubDate" : "Fri, 11 Mar 2022 01:40:00 +0100",
          "title" : "Belgrade GP: Rapport escapes, reaches final"
-      },
-      {
-         "description" : "The second round of FIDE Grand Prix Belgrade semifinals saw two draws. After yesterday's win in round 1, Hungarian Richard Rapport secured a place in the finals by holding Maxime Vachier-Lagrave to a draw in a very exciting game that saw lots twists and turns. Following a draw in the first round of the semi-finals,&#160;Dmitry []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/richard-rapport-qualifies-for-the-final-of-the-fide-grand-prix-belgrade-2022/",
-         "pubDate" : "Thu, 10 Mar 2022 23:57:00 +0000",
-         "title" : "Richard Rapport qualifies for the final of the FIDE Grand Prix Belgrade 2022"
       },
       {
          "description" : "The second round of the Losers Bracket of the&#38;nbsp;2022 Bullet Chess Championship presented by DigitalOcean&#38;nbsp;ended with four decisive winners: GMs&#38;nbsp;Oleksandr Bortnyk, Arjun Erigaisi,&#38;nbsp;Brandon Jacobson, and Jose Martinez. Notably, the l...",
@@ -1984,14 +1992,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/player-types-the-summary",
          "pubDate" : "Mon, 28 Feb 2022 06:05:25 +0100",
          "title" : "Player Types - The Summary"
-      },
-      {
-         "description" : "An extraordinary meeting of the FIDE Council took place on Sunday to address the issues related to Russia's invasion of Ukraine. Among other decisions, the council decided to ban Russia and Belarus from organizing official FIDE competitions, to terminate sponsorship agreements with Belarusian and Russian sanctioned and/or state-controlled companies, and to condemn public statements from members of the chess community who support unjustified military action - i.e. Sergey Karjakin and Sergey Shipov.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-council-condemns-russia-military-action",
-         "pubDate" : "Mon, 28 Feb 2022 04:00:00 +0100",
-         "title" : "FIDE Council condemns Russia's military action"
       },
       {
          "description" : " Former Italian international Stefano Bruzzi, who emigrated to England in the 1960s and played for Surbiton Chess Club for many years, died recently. I only had the honour of playing him on one occasion, in 2015. By that time he was often happy with a short draw, and I've never been averse either, so the <a href=\"https://chessimprover.com/stefano-bruzzi/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stefano Bruzzi\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stefano-bruzzi/\">Stefano Bruzzi</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
