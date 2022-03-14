@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Cobicistat is a drug that was originally devised for HIV/AIDS therapy. Now a new study shows that it can inhibit the replication of SARS-CoV-2 - which would mean we could have a powerful therapeutical drug against Covid-19. Very encouraging news - but why are we reporting this on a chess news page? Because one of the virologists working on the project happens to be a chess grandmaster. Here's his story. | Photos Lara Gallucci.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/can-a-chess-grandmaster-save-the-world-2",
+         "pubDate" : "Mon, 14 Mar 2022 15:00:00 +0100",
+         "title" : "Can a chess grandmaster save the world?"
+      },
+      {
+         "description" : "CLICK HERE FOR LIVE GAMES",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-1st-guwahati-international-open/",
+         "pubDate" : "Mon, 14 Mar 2022 13:51:51 +0000",
+         "title" : "Live Games : 1st Guwahati International Open"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1635",
+         "pubDate" : "Mon, 14 Mar 2022 13:48:16 +0000",
+         "title" : "Winners of FIDE Grand Prix crowned in Belgrade"
+      },
+      {
+         "description" : " <p class=\"lead\">The second leg of the 2022 FIDE Grand Prix chess series was concluded in Belgrade's Crowne Plaza hotel with the closing ceremony attended by local and international chess representatives, players, and distinguished guests from Serbia and abroad <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/uIHN8oQPjgg?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Following the intonation of the Serbian national anthem, the guests were shown a short video, recapping the events which took place in Belgrade over the past 14 days.<br /> The president of the Serbian Chess Federation, <b>Dragan Lazic</b>, said that Serbia was honoured to ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-closing-ceremony-of-the-belgrade-grand-prix/",
+         "pubDate" : "Mon, 14 Mar 2022 13:33:41 +0000",
+         "title" : "The closing ceremony of the Belgrade Grand Prix"
+      },
+      {
+         "description" : "We still do not know where the Chess Olympiad 2022 will be, but a positive news came from the European Chess Union today. No matter where the Olympiad will be held, for the first time ever it will feature a women team from Cyprus! The men team of Cyprus has participated a total of 25 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-will-have-a-women-team-from-cyprus-tweetoftheday/",
+         "pubDate" : "Mon, 14 Mar 2022 12:50:15 +0000",
+         "title" : "Chess Olympiad 2022 will have a women team from Cyprus #TweetOftheDay"
+      },
+      {
+         "description" : " Miles Patterson (ACT) has won the 2022 Tasmanian Championship Tournament, but not the Tasmanian Championship. Although the tournament is an open event, the state champion title is restricted to local residents. In this case Kevin Bonham and Wynand-Jack Pretorius tied for the title, after finishing equal second. The tournament itself suffered a degree of drama after one of the players had to withdraw on the final morning after testing positive to Covid. A couple of close contacts had to also go into isolation, while a few other players (including the tournament leader) withdrew out of health concerns. The win for Patterson repeats his success from last year, where he also finished outright 1",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/2022-tasmanian-championship.html",
+         "pubDate" : "Mon, 14 Mar 2022 11:57:00 +0000",
+         "title" : "2022 Tasmanian Championship"
+      },
+      {
+         "description" : "I am writing to advise you that my father, Edward Claud Sowden, passed away on the 13th February 2022 aged 85 years after a short...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rip-edward-claud-sowden/",
+         "pubDate" : "Mon, 14 Mar 2022 11:50:52 +0000",
+         "title" : "RIP Edward Claud Sowden"
+      },
+      {
          "description" : "Richard Rapport has a 96% chance of playing in the FIDE Candidates Tournament after defeating Dmitry Andreikin in the second game of the final to win the Belgrade FIDE Grand Prix. The Hungarian no. 1 described his decision to play on with two minutes on his clock rather than take a draw as taking destiny into his own hands and a \"leap of faith\". It was richly rewarded, as Dmitry Andreikin, who commented, \"I can only applaud him\", went astray in complications that neither player could fully fathom.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -328,14 +384,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-sf3",
          "pubDate" : "Sat, 12 Mar 2022 03:00:00 +0100",
          "title" : "Belgrade GP: Andreikin knocks out Giri"
-      },
-      {
-         "description" : "Following a quick draw in the first game of the tiebreaks, Andreikin won as Black against Giri in the second game, despite having an inferiour position. In the finals of the second leg of the Grand Prix, Dmitry Andreikin will be playing a two-game match against Richard Rapport on the 12th and 13th of March. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/andreikin-rapport-is-the-final-of-the-fide-grand-prix-belgrade-2022/",
-         "pubDate" : "Fri, 11 Mar 2022 22:06:11 +0000",
-         "title" : "Andreikin - Rapport is the final of the FIDE Grand Prix Belgrade 2022"
       },
       {
          "description" : "",
@@ -1162,14 +1210,6 @@ news_feed (
          "title" : "FIDE Grand Prix Belgrade: Round 5 Recap"
       },
       {
-         "description" : " <p class=\"lead\">Twists and turns in round five set a scene for a tense final day in the group stage of the Grand Prix Following a day of rest, 16 top-world players gathered in the \"Atlantic-Pacific\" playing hall of the Belgrade Crowne Plaza Hotel, for the final rounds of the group stage of the Grand Prix. With two more games to play before the knockout, the tension was high. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-07_01-07-58.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-07_01-08-48.jpg\" width=\"1280\" height=\"853\" alt",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-belgrade-round-5-recap/",
-         "pubDate" : "Mon, 07 Mar 2022 00:10:45 +0000",
-         "title" : "FIDE Grand Prix Belgrade: Round 5 Recap"
-      },
-      {
          "description" : "Drama on Sunday was taken care of courtesy of Group C, where both games found victors, most importantly by GM Richard Rapport, who is leading by a full point ahead of the last round. In Group A, two draws mean that GM Dmitry Andreikin and GM Sam S...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1448,14 +1488,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/ukrainian-defence/",
          "pubDate" : "Fri, 04 Mar 2022 13:14:16 +0100",
          "title" : "Ukrainian Defence"
-      },
-      {
-         "description" : "Click on the Image to Watch",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-mpl-national-sub-junior-and-national-sub-junior-girls-chess-championship-2022/",
-         "pubDate" : "Fri, 04 Mar 2022 12:05:12 +0000",
-         "title" : "Live: MPL National Sub-Junior and National Sub-Junior Girls Chess Championship 2022"
       },
       {
          "description" : "Levon Aronian, is the \"hero\" of ChessBase Magazine #206. In the new issue, our authors - David Navara, Adhiban Baskaran and Romain Edouard among others - comment on their favourite games of the top player. This has resulted in a collection of 19 special encounters from 1994 (U12 World Championship!) to 2021. In addition, Mihail Marin's contribution is entitled \"Levon Aronian's strategic universe\" and Karsten Mueller presents a selection of the Armenian's best endgames. You can watch the video from Mueller's endgame contribution as well as Adrien Demuth's analysis of the game Aronian-Ponomariov (Lausanne 2001) here - enjoy!",
@@ -1978,14 +2010,6 @@ news_feed (
          "title" : "Blitz boost"
       },
       {
-         "description" : "You know the problem: can you place eight queens on a chessboard so that now two queens threaten each other. There are 92 distinct ways of doing this. But how about on larger chessboards? For 27×27 board people have worked out that there are exactly 234,907,967,154,122,528 ways. Now a Harward mathematician Michael Simkin has come up with an almost-definitive answer for any number queens on a corresponding chessboard. Warning: his result can lead to dizziness and fainting spells.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/harvard-mathematician-solves-150-year-old-chess-problem",
-         "pubDate" : "Mon, 28 Feb 2022 13:00:00 +0100",
-         "title" : "Harvard mathematician solves 150-year-old chess problem"
-      },
-      {
          "description" : "The English Chess Federation (ECF) agrees with FIDE Council's recently announced decision that the 44th Chess Olympiad, including the competition for players with disabilities, as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2400,14 +2424,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/membership-mondays/",
          "pubDate" : "Mon, 21 Feb 2022 15:52:00 +0000",
          "title" : "Membership Mondays"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89729766.cms\" />Teenaged Indian Grandmaster R Praggnanandhaa stunned world no. 1 Magnus Carlsen in the eighth round of the Airthings Masters online rapid chess tournament, becoming only the third from the country to clinch a victory over the Norwegian superstar.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-was-just-enjoying-myself-says-teen-gm-praggnanandhaa-after-stunning-world-no-1-carlsen-in-airthings-masters/articleshow/89729766.cms",
-         "pubDate" : "Mon, 21 Feb 2022 19:48:21 +0530",
-         "title" : "I was just enjoying myself, says Praggnanandhaa after stunning Carlsen"
       }
    ]
 }
