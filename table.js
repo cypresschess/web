@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2022-03-13","14","<a href=http://www.uschess.org/msa/XtblMain.php?202203132602 target=' blank'>MARCH 13 SUNDAY SWISS</a>",
 "SPRING","2022-03-11","28","<a href=http://www.uschess.org/msa/XtblMain.php?202203111212 target=' blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-03-11","10","<a href=http://www.uschess.org/msa/XtblMain.php?202203111052 target=' blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2022-03-06","6","<a href=http://www.uschess.org/msa/XtblMain.php?202203069812 target=' blank'>MARCH 6 SUNDAY SWISS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2021-04-24","55","<a href=http://www.uschess.org/msa/XtblMain.php?202104241912 target=' blank'>NAVARRO MS CHESS TOURNAMENT</a>",
 "SUGAR LAND","2021-04-24","10","<a href=http://www.uschess.org/msa/XtblMain.php?202104241582 target=' blank'>COOL APRIL OPEN</a>",
 "SPRING","2021-04-23","25","<a href=http://www.uschess.org/msa/XtblMain.php?202104231532 target=' blank'>THE FRIDAY KNIGHTS</a>",
-"SPRING","2021-04-17","18","<a href=http://www.uschess.org/msa/XtblMain.php?202104179732 target=' blank'>DER SPRINGERS G/75</a>",
 ]);
