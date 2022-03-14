@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Bullet Chess Championship presented by DigitalOcean&#38;nbsp;soared to new heights today after a dazzling showdown between pre-tournament favorites GM Hikaru Nakamura and GM Daniel Naroditsky, which Nakamura won in stylish fashion. GM An...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-bullet-chess-championship-winners-semifinals-losers-top-8-nakamura-tang-win",
+         "pubDate" : "Mon, 14 Mar 2022 15:30:42 -0700",
+         "title" : "Bullet Chess Championship Winners Semifinals, Losers Top-8: Nakamura, Tang Reach Winners Final"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1636",
+         "pubDate" : "Mon, 14 Mar 2022 21:55:25 +0000",
+         "title" : "Chess chosen as exhibition discipline at Mediterranean Games"
+      },
+      {
          "description" : " Share! In 2010, I wrote an article titled &#8220;Baraka Shabazz: Black Queen of Chess.&#8221; Seven years later came &#8220;Revisiting Baraka Shabazz,&#8221; in which I cited the brutally candid 1988 article titled \"Ex-Queen's Gambit.\" That article was long before the &#8220;Queen's Gambit&#8221; miniseries but had some eerily similar themes. While the movie highlighted the rise of [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/14/promoting-to-a-black-chess-queen/\">Promoting to a Black Chess Queen</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1682,14 +1698,6 @@ news_feed (
          "title" : "Divya first teen after Humpy to emerge senior national chess champ"
       },
       {
-         "description" : "The second round of the group stage in the 2022 FIDE Grand Prix in Belgrade featured intense battles and some notable high points. In Group A, GM Sam Shankland won to join GM Dmitry Andreikin in the lead. In Groups B and C, GM Anish Giri and GM Vi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-r2",
-         "pubDate" : "Wed, 02 Mar 2022 19:26:00 -0800",
-         "title" : "2022 FIDE Grand Prix Belgrade R2: Giri and Vidit Charge, Grischuk Crashes"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2370,7 +2378,7 @@ news_feed (
          "title" : "Andrea Nicole Garcia wins Honduran Women's Championship"
       },
       {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/d10e2183-0d8e-4a49-9ac8-2bd5af846681/q7YtlQ2X_400x400.jpg\" data-image-dimensions=\"400x400\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6214e4f0557793739d02f430\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/d10e2183-0d8e-4a49-9ac8-2bd5af846681/q7YtlQ2X_400x400.jpg?format=1000w\" /> </figure> <iframe scrolling=\"no\" src=\"https://playlist.megaphone.fm?e=BLU9323042155\" width=\"100%\" frameborder=\"0\" data-preserve-html-node=\"true\" height=\"200\"></iframe> <p class=\"\">",
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/d10e2183-0d8e-4a49-9ac8-2bd5af846681/q7YtlQ2X_400x400.jpg\" data-image-dimensions=\"400x400\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6214e4f0557793739d02f430\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/d10e2183-0d8e-4a49-9ac8-2bd5af846681/q7YtlQ2X_400x400.jpg?format=1000w\" /> </figure> <iframe scrolling=\"no\" src=\"https://playlist.megaphone.fm?e=BLU9323042155\" width=\"100%\" frameborder=\"0\" data-preserve-html-node=\"true\" height=\"200\"></iframe><p class=\"\">C",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/2/22/pauq1ld4qaxw2a7yj336ml7b252q9u",
@@ -2416,14 +2424,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/21/black-history-month-2022-day-21-alfred-blake-carlin/",
          "pubDate" : "Tue, 22 Feb 2022 01:25:46 +0000",
          "title" : "Black History Month 2022-Day 21: Alfred Blake Carlin"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1590",
-         "pubDate" : "Mon, 21 Feb 2022 22:10:04 +0000",
-         "title" : "Nepomniachtchi continues to lead; Carlsen is joint-second"
       }
    ]
 }
