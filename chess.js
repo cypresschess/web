@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Richard Rapport has a 96% chance of playing in the FIDE Candidates Tournament after defeating Dmitry Andreikin in the second game of the final to win the Belgrade FIDE Grand Prix. The Hungarian no. 1 described his decision to play on with two minutes on his clock rather than take a draw as taking destiny into his own hands and a \"leap of faith\". It was richly rewarded, as Dmitry Andreikin, who commented, \"I can only applaud him\", went astray in complications that neither player could fully fathom.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/rapport-s-leap-of-faith-wins-belgrade-grand-prix",
+         "pubDate" : "Mon, 14 Mar 2022 11:20:05 +0000",
+         "title" : "Rapport's \"leap of faith\" wins Belgrade Grand Prix"
+      },
+      {
+         "description" : "Ivan Sokolov is well-known for his stunning attacking games. Most of them originate from middlegames, so no wonder he wrote various books about this topic. Now he continues his video series at ChessBase and presents further tools for a better chess understanding with the hedgehog and dynamic pawn structures. Not only as a player, but also through his work as a trainer of various top players, Sokolov knows how to make complex topics understandable through instructive examples. Start improving your understanding of the middlegames now!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-understanding-middlegame-strategies-vol-3-vol-4",
+         "pubDate" : "Mon, 14 Mar 2022 12:16:43 +0100",
+         "title" : "New: Understanding Middlegame Strategies Vol. 3 + Vol. 4"
+      },
+      {
+         "description" : "On the 26th and 27th of February, the English Chess Federation's Director of Women's Chess, Agnieszka Milewska, travelled to Monaco to represent England in the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-chess-womens-gala/",
+         "pubDate" : "Mon, 14 Mar 2022 09:13:26 +0000",
+         "title" : "European Chess Womens Gala"
+      },
+      {
+         "description" : "IM Irina Bulmaga won the 2022 edition of the Romania rapid chess championship. She collected 7,5/9 and scored clear first ahead of WGM Elena-Luminita Cosma with 7,0/9 and WGM Mihaela Sandu, IM Corina-Isabela Peptan, and WIM Silvia-Raluca Sgircea with 6,5/9. Romania women chess championship 2022 standings 1 IM Bulmaga Irina&#160; 2227 7,5 2 WGM Cosma []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/irina-bulmaga-is-women-rapid-chess-champion-of-romania/",
+         "pubDate" : "Mon, 14 Mar 2022 09:01:30 +0000",
+         "title" : "Irina Bulmaga is women rapid chess champion of Romania"
+      },
+      {
+         "description" : "ECU establishes a solidarity fund to support Ukrainian chess players participating in the 2022 European Championships and to provide humanitarian aid. The donations by National Chess federations, entities and individuals can be made through the ECU Bank account with the reference #supportukrainechess https://www.europechess.org/regulations/ecu-bank-account/ or online through the ECU website: https://www.europechess.org/ecu-payments-donations/ The fund will be transparently managed by the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/solidarity-fund-for-ukrainechess/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/solidarity-fund-for-ukrainechess/",
+         "pubDate" : "Mon, 14 Mar 2022 08:51:01 +0000",
+         "title" : "Solidarity Fund for #UkraineChess"
+      },
+      {
+         "description" : "IM David Gavrilescu (ELO 2431) is the rapid chess champion of Romania. He won the 2022 competition with 8,0/9, half a point ahead of GM Constantin Lupulescu (ELO 2623), Teodor-Cosmin Nedelcu (ELO 2000), and IM Alexandru-Vasile David (ELO 2368). IM David Gavrilescu is just 19 years old and a part of a large youth wave []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/david-gavrilescu-is-rapid-chess-champion-of-romania/",
+         "pubDate" : "Mon, 14 Mar 2022 08:25:58 +0000",
+         "title" : "David Gavrilescu is rapid chess champion of Romania"
+      },
+      {
+         "description" : "Richard Rapport has just won the final of the FIDE Grand Prix in Belgrade and added extra 14 ELO points to his rating. This puts him at 7th position in the live rating list with 2776 ELO, two points behind Wesley So and three points ahead of the World Championship finalist Nepomniachtchi. Rapport is just []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fides-top-dominated-by-youth/",
+         "pubDate" : "Mon, 14 Mar 2022 07:53:25 +0000",
+         "title" : "FIDE's top dominated by youth"
+      },
+      {
          "description" : "Richard Rapport shared his thoughts in a press conference after his victory in the FIDE Grand Prix, &#8220;I am very relieved and with lots of happy emotions&#8221;. The way to the title for Richard Rapport:&#xA0;Rapport qualifies from the group stage&#xA0;/&#xA0;Rapport wins game 1 of the semi final&#xA0;and&#xA0;Qualifies for the final&#xA0;/&#xA0;Rapport and Andreikin draw game 1 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -282,14 +338,6 @@ news_feed (
          "title" : "Andreikin - Rapport is the final of the FIDE Grand Prix Belgrade 2022"
       },
       {
-         "description" : "The Rhodes Chess Festival 2022 will be held from 20 April to 4 May, in the five-star Rodos Palace Conference Resort of Rhodes island, and it will be a unique opportunity for players to combine chess with seaside holidays and the traditional Greek Easter celebrations! The Rhodes Chess festival will consist of three events: 20 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rhodes-chess-festival-2022/",
-         "pubDate" : "Fri, 11 Mar 2022 21:52:03 +0000",
-         "title" : "Rhodes Chess Festival 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -424,22 +472,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/mar/11/chess-bobby-fischer-v-boris-spassky-1972-remembered-at-reykjavik-open",
          "pubDate" : "Fri, 11 Mar 2022 08:00:25 +0000",
          "title" : "Chess: Bobby Fischer v Boris Spassky 1972 remembered at Reykjavik Open"
-      },
-      {
-         "description" : "The European Individual Chess Championship 2022 will take place between 26 March and 7 April at Terme &#x10C;ate&#x17E; near Bre&#x17E;ice in Slovenia. Here is the participants list of the EICC 2022. 1 GM Navara David&#160; CZE 2700 2 GM Korobov Anton&#160; UKR 2695 3 GM Anton Guijarro David&#160; ESP 2694 4 GM Saric Ivan&#160; CRO []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/eicc-2022-european-individual-chess-participants/",
-         "pubDate" : "Fri, 11 Mar 2022 07:54:41 +0000",
-         "title" : "EICC 2022 - European Individual Chess participants"
-      },
-      {
-         "description" : "FM James Canty aka Jedi Master and FM Waldo Serrano havte been awarded their official FIDE titles. GM Hikaru Nakamura also sent his congratulations",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fm-james-canty-and-fm-waldo-serrano-awarded-chess-titles/",
-         "pubDate" : "Fri, 11 Mar 2022 07:20:34 +0000",
-         "title" : "FM James Canty and FM Waldo Serrano awarded chess titles"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi talks to our hosts after his ninth round game in the Spring Chess Classic. 2022.03.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-jj-ali-marandi-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n3o1hAwKA2c.jpg?itok=qX-E2bTN\" alt=\"\" /></a></div>",
@@ -1562,14 +1594,6 @@ news_feed (
          "title" : "Erigaisi is new national chess champion; Gukesh, Iniyan lose out in tie-break"
       },
       {
-         "description" : "Anish Giri and Vidit both won again in Round 2 to take a full-point lead in their FIDE Belgrade Grand Prix pools. Anish took down Nikita Vitiugov in 32 moves, while Vidit had to work much harder but eventually overcame the resistance of Vladimir Fedoseev in the longest game of the day. Sam Shankland exploited a mistake by Alexander Grischuk to score the day's only other win, with MVL-Mamedyarov standing out as the day's most spectacular draw.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/belgrade-gp-2-giri-and-vidit-with-perfect-start",
-         "pubDate" : "Thu, 03 Mar 2022 11:14:01 +0000",
-         "title" : "Belgrade GP 2: Giri and Vidit with perfect start"
-      },
-      {
          "description" : "The International Chess Federation (FIDE) has decided to postpone the World Teams Championship 2022 to November 2022. The rights to host the tournament are retained by the Israeli Chess Federation. Press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1986,14 +2010,6 @@ news_feed (
          "title" : "Indian chess IM in Ukraine is safe in Kyiv but faces tough call on trek to border"
       },
       {
-         "description" : "The Grandmasters Dr. Karsten Mueller and Luis Engel have set a ball rolling in Germany with their latest Fritztrainer. GM Lars Bo Hansen designed the four-player model in 2005, and was perhaps ahead of his time. In the 5-part interview with Dr. Karsten Mueller, all four player types are discussed in detail. Today - The Summary, and questions about all four types.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/player-types-the-summary",
-         "pubDate" : "Mon, 28 Feb 2022 06:05:25 +0100",
-         "title" : "Player Types - The Summary"
-      },
-      {
          "description" : " Former Italian international Stefano Bruzzi, who emigrated to England in the 1960s and played for Surbiton Chess Club for many years, died recently. I only had the honour of playing him on one occasion, in 2015. By that time he was often happy with a short draw, and I've never been averse either, so the <a href=\"https://chessimprover.com/stefano-bruzzi/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stefano Bruzzi\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stefano-bruzzi/\">Stefano Bruzzi</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2392,38 +2408,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-was-just-enjoying-myself-says-teen-gm-praggnanandhaa-after-stunning-world-no-1-carlsen-in-airthings-masters/articleshow/89729766.cms",
          "pubDate" : "Mon, 21 Feb 2022 19:48:21 +0530",
          "title" : "I was just enjoying myself, says Praggnanandhaa after stunning Carlsen"
-      },
-      {
-         "description" : "The 16-year-old beat Carlsen at the Airthings Masters, a 16-player online rapid tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33340336/r-praggnanandhaa-16-becomes-only-third-indian-beat-magnus-carlsen-stunning-upset?device=featurephone",
-         "pubDate" : "Mon, 21 Feb 2022 06:23:03 -0500",
-         "title" : "Praggnanandhaa, 16, becomes only third Indian to beat Carlsen in stunning upset"
-      },
-      {
-         "description" : "We are a research group at the University of Edinburgh conducting a study on chess knowledge and memory in children. If you have a child...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/university-of-edinburgh-chess-study-attn-parents/",
-         "pubDate" : "Mon, 21 Feb 2022 10:51:35 +0000",
-         "title" : "University of Edinburgh chess study - attn. parents"
-      },
-      {
-         "description" : "A special multi-event dedicated to the Women's Chess takes place the weekend 26-27 February in Monaco. The program is supported by European Chess Union and FIDE Development fund and includes: A. Saturday 26th February : 10:00 -13:00- Atrium of the Casino de Monte-Carlo. Simultaneous Prince Albert Ier GM Pia Cramling : 16 players IM Almira Skripchenko : 16 players Follows&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-gala-26-27-february/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-gala-26-27-february/",
-         "pubDate" : "Mon, 21 Feb 2022 10:06:12 +0000",
-         "title" : "European Women's Chess Gala - 26 & 27 February"
-      },
-      {
-         "description" : "&#8212; from Alan Burke Stan was very well known by many of our long-serving members for his duties both for the Manchester Chess Federation as...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rip-stan-goodall/",
-         "pubDate" : "Mon, 21 Feb 2022 09:29:24 +0000",
-         "title" : "RIP Stan Goodall"
       }
    ]
 }
