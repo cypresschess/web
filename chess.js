@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 16 years old Daniel Dardha is the young chess star of the 2&#xB0; Festival di Primavera in Cattolica, Emilia-Romagna, Italy. The chess festival takes place March 16-20 and is a 9 rounds Swiss system. GM Daniel Dardha, rated 2540, will have as main competitors GM Jobava Baadur, GM Vitaliy Bernadskiy, GM Sergei Azarov, GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/daniel-dardha-is-the-young-chess-star-at-2-festival-di-primavera/",
+         "pubDate" : "Tue, 15 Mar 2022 07:04:15 +0000",
+         "title" : "Daniel Dardha is the young chess star at 2 ° Festival di Primavera"
+      },
+      {
+         "description" : "The European Women&#x2019;s Individual Chess Championship 2022 is going to take place from 19th August &#x2013; 1st September in Prague, Czech Republic. The event will be played in 11 rounds, Swiss system, and will have a prize fund of 60 000 eur. This is the 22nd edition of the European Individual Women Chess Championship is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-women-individual-chess-championship-2022/",
+         "pubDate" : "Tue, 15 Mar 2022 06:20:29 +0000",
+         "title" : "European Women Individual Chess Championship 2022"
+      },
+      {
          "description" : "In London, a match facing David Howell and Nils Grandelius was held at the residence of the Swedish Ambassador. The occasion was the 30th anniversary of Chess & Bridge. The 10-game confrontation was won by Howell. Three games ended decisively, and all of them had plenty to offer chess-wise. | Photo: Chess & Bridge",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -330,14 +346,6 @@ news_feed (
          "title" : "Future World Champion Beats Me Fair and Square"
       },
       {
-         "description" : "The final match of the second leg of the Grand Prix was opened by FIDE Deputy President and renowned grandmaster Bachar Kouatly. Starting with the Petroff, the players moved to the Four Knights game and then switched to the Scottish Game. Somewhat surprisingly,&#xA0;Dmitry Andreikin&#xA0;opted for a very drawish course.&#xA0;The opponents played out a popular line []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dmitry-andreikin-and-richard-rapport-draw-their-first-game-in-the-finals-of-the-fide-grand-prix-belgrade-2022/",
-         "pubDate" : "Sat, 12 Mar 2022 20:29:47 +0000",
-         "title" : "Dmitry Andreikin and Richard Rapport draw their first game in the finals of the FIDE Grand Prix Belgrade 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -408,14 +416,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/only-one-check-wins",
          "pubDate" : "Sat, 12 Mar 2022 09:00:00 +0100",
          "title" : "Only one check wins!"
-      },
-      {
-         "description" : "GM Abhijeet Gupta is the winner of the 31st PSPB Inter Unit Individual Chess Championship 2022. Gupta scored 6,5/8, half a point ahead of GM Lalith Babu, GM Krishnan Sasikiran, and GM Adhiban. The top performing woman in the event was GM Humpy Koneru with 5,5/8. Final standings 1 GM Gupta Abhijeet&#160; 2551 6,5 2 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-abhijeet-gupta-wins-inter-unit-individual-chess-championship-2022/",
-         "pubDate" : "Sat, 12 Mar 2022 07:15:00 +0000",
-         "title" : "GM Abhijeet Gupta wins Inter Unit Individual Chess Championship 2022"
       },
       {
          "description" : "Dmitry Andreikin will face Richard Rapport in the final match of the FIDE Grand Prix's second stage, taking place in Belgrade. The Russian grandmaster got a 1&frac12;-&frac12; win over Anish Giri in a rapid tiebreaker to remain in the fight for overall victory in Serbia's capital. It was a heartbreaking loss for Giri, who had winning chances in both rapid encounters played on Friday. | Photos: Mark Livshitz",
@@ -2400,22 +2400,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/how-sisters-hobby-shaped-young-chess-wizard-praggnanandhaas-life/articleshow/89748951.cms",
          "pubDate" : "Tue, 22 Feb 2022 16:18:07 +0530",
          "title" : "How sister's hobby shaped young chess wizard Praggnanandhaa's life"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89740976.cms\" />Continuing his good run, India's teen prodigy R Praggnanandhaa registered wins against fellow Grandmasters Andrey Esipenko and Alexandra Kosteniuk in rounds 10 and 12 of the Airthings Masters, an online rapid chess tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-follows-up-win-over-magnus-carlsen-with-2-more-victories-in-airthings-masters/articleshow/89740976.cms",
-         "pubDate" : "Tue, 22 Feb 2022 10:57:53 +0530",
-         "title" : "Praggnanandhaa follows up win over Carlsen with 2 more victories in Airthings Masters"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89739443.cms\" />Sixteen-year-old R Praggnanandhaa isn't an unknown commodity in Indian chess circles. But what he did in the early hours of Monday made the world of 64 squares sit up and take note.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/victory-against-magnus-carlsen-one-of-the-best-till-date-for-me-praggnanandhaa/articleshow/89739443.cms",
-         "pubDate" : "Tue, 22 Feb 2022 09:39:18 +0530",
-         "title" : "Victory against Magnus Carlsen one of the best till date for me: Praggnanandhaa"
       }
    ]
 }
