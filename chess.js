@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FIDE Council have confirmed Chennai as the new host city for the 2022 Chess Olympiad. The exact dates for the Olympiad have not yet been announced, but the organisers have said it will still be late July to early August, in line with the previous dates. The venue will be the Sheraton Mahabalipuram, which is about an hour south of Chennai, with teams staying in the various hotels located in that area. Exact details will be announced shortly. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/olympiad-venue-confirmed.html",
+         "pubDate" : "Tue, 15 Mar 2022 21:21:00 +0000",
+         "title" : "Olympiad Venue Confirmed"
+      },
+      {
+         "description" : "The FIDE Council has approved today the bid presented by the All India Chess Federation (AICF) to host the 2022 Chess Olympiad in Chennai, the capital of the Tamil Nadu state. The exact schedule is still being discussed and will be announced in the coming days, but the event will take place between the end []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/india-to-host-the-chess-olympiad-in-chennai-official-fide-press-release/",
+         "pubDate" : "Tue, 15 Mar 2022 20:55:56 +0000",
+         "title" : "India to host the Chess Olympiad in Chennai - official FIDE press release"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1637",
+         "pubDate" : "Tue, 15 Mar 2022 19:59:16 +0000",
+         "title" : "Chennai to host the 2022 Chess Olympiad"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The second online tournament of the <strong>Meltwater Champions Chess Tour</strong> starting on 19 March will be the Charity Cup and serve as a <a href=\"https://chess24.com/tour/charity-cup-revealed-as-fundraiser-for-unicef/\">fundraiser for UNICEF to support Ukrainian children and families</a>. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "Tour raises funds for Ukraine"
       },
       {
-         "description" : "Breaking: Chess Olympiad 2022 will take place in Chennai, India, confirmed Tamil Nadu Chief Minister MK Stalin MK Stalin. Confirmations from FIDE, AICF, and multiple grandmasters followed. The Chess Olympiad 2022 has gone through multiple hassles. Initially, it was set to be played in Belarus, but following the wave of protests against Alexander Lukashenko and []",
+         "description" : "Breaking: Chess Olympiad 2022 will take place in Chennai, India, confirmed Tamil Nadu Chief Minister MK Stalin. Confirmations from FIDE, AICF, and multiple grandmasters followed. The Chess Olympiad 2022 has gone through multiple hassles. Initially, it was set to be played in Belarus, but following the wave of protests against Alexander Lukashenko and the support []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/chess-olympiad-2022-is-set-to-take-place-in-india-developing-story/",
@@ -296,14 +320,6 @@ news_feed (
          "link" : "https://www.chessdom.com/david-gavrilescu-is-rapid-chess-champion-of-romania/",
          "pubDate" : "Mon, 14 Mar 2022 08:25:58 +0000",
          "title" : "David Gavrilescu is rapid chess champion of Romania"
-      },
-      {
-         "description" : "Richard Rapport has just won the final of the FIDE Grand Prix in Belgrade and added extra 14 ELO points to his rating. This puts him at 7th position in the live rating list with 2776 ELO, two points behind Wesley So and three points ahead of the World Championship finalist Nepomniachtchi. Rapport is just []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fides-top-dominated-by-youth/",
-         "pubDate" : "Mon, 14 Mar 2022 07:53:25 +0000",
-         "title" : "FIDE's top dominated by youth"
       },
       {
          "description" : "A win with white in Sunday's second game of the final gave Richard Rapport tournament victory at the second leg of the FIDE Grand Prix in Belgrade. Rapport beat Dmitry Andreikin after rejecting a draw by triple repetition in a double-edged position. This victory, combined with his reaching the semifinals in the first leg of the series, places him as a clear favourite to get a spot in the Candidates Tournament. | Photos: Mark Livshitz",
@@ -2376,14 +2392,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-finishes-11th-in-airthings-masters-misses-out-on-quarterfinals/articleshow/89763879.cms",
          "pubDate" : "Wed, 23 Feb 2022 10:06:00 +0530",
          "title" : "R Praggnanandhaa finishes 11th in Airthings Masters, misses out on quarterfinals"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1592",
-         "pubDate" : "Tue, 22 Feb 2022 22:50:20 +0000",
-         "title" : "Kosteniuk halts losing streak as Nepomniachtchi dominates"
       }
    ]
 }
