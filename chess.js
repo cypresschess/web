@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With 6.5/9 (four wins, five draws, no loss) Sanan Sjugirov concinvingly won a strong Grandmaster tournament in Belgrade that was played in parallel to the FIDE Grand Prix. Nihal Sarin, Velimir Ivic and Nodirbek Abdusattorov shared places two to four with 5.5/9 each. | Photos: Tournament page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sjugirov-wins-gm-tournament-in-belgrade",
+         "pubDate" : "Tue, 15 Mar 2022 12:07:04 +0100",
+         "title" : "Sanan Sjugirov wins GM tournament in Belgrade"
+      },
+      {
+         "description" : "Shane Battier is a former NBA player who played for Memphis Grizzlies, Huston Rockets, and Miami Heat. Among his many achievements, Shane Battier won two NBA championships with the Miami Heat in 2012 and 2013. Shane Battier is also an avid fan of chess. With a good coach by his side as Maurice Ashley, his []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/shane-battier-is-a-future-chess-star-tweetoftheday/",
+         "pubDate" : "Tue, 15 Mar 2022 10:35:50 +0000",
+         "title" : "Shane Battier is a future chess star #TweetOfTheDay"
+      },
+      {
+         "description" : " &#8220;The human mind isn't a computer; it cannot progress in an orderly fashion down a list of candidate moves and rank them by a score down to the hundredth of a pawn the way a chess machine does. Even the most disciplined human mind wanders in the heat of competition&#8221; GM Garry Kasparov A more <a href=\"https://chessimprover.com/carbon-versus-silicon-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Carbon versus Silicon (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/carbon-versus-silicon-2/\">Carbon versus Silicon (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/carbon-versus-silicon-2/",
+         "pubDate" : "Tue, 15 Mar 2022 09:17:23 +0000",
+         "title" : "Carbon versus Silicon (2)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-charity-marathon-for-ukraine/",
+         "pubDate" : "Tue, 15 Mar 2022 09:06:12 +0000",
+         "title" : "Charity Marathon for Ukraine"
+      },
+      {
+         "description" : "photo by Karsten Wieland. The City of Dresden, the Dresdner Schachfestival e.V. and the European Chess Federation (ECU) have the honour to invite all senior players throughout Europe to participate in the European Senior Team Chess Championship 2022 (categories 50+ and 65+) organised in Dresden (Germany) from 26th October (arrival) to 5th November 2022 (departure). According to the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championship-2022-official-invitation/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2022-official-invitation/",
+         "pubDate" : "Tue, 15 Mar 2022 08:03:47 +0000",
+         "title" : "European Senior Team Chess Championship 2022 - Official invitation"
+      },
+      {
+         "description" : "In the diagrammed position Black is an exchange up but both sides have dangerous passed pawns. What should Black do to make his passed pawn on the g-file more dangerous than White's passed pawn on the b-file?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rook-vs-bishop",
+         "pubDate" : "Tue, 15 Mar 2022 09:00:00 +0100",
+         "title" : "Rook vs bishop"
+      },
+      {
+         "description" : "FIDE President and former Russian Deputy Prime Minister Arkady Dvorkovich breaks his silence and condemns the invasion in Ukraine, using the three-letter word (five letters in Russian) banned in his home country. Dvorkovich offers his condolences in a remarkable interview. \"My thoughts are with Ukrainian civilians,\" the former Kremlin official says as demands for his resignation continue.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/dvorkovich-risks-putin-wrath-by-breaking-silence-on-war",
+         "pubDate" : "Tue, 15 Mar 2022 07:45:56 +0000",
+         "title" : "Dvorkovich risks Putin wrath by breaking silence on war"
+      },
+      {
          "description" : "The 16 years old Daniel Dardha is the young chess star of the 2&#xB0; Festival di Primavera in Cattolica, Emilia-Romagna, Italy. The chess festival takes place March 16-20 and is a 9 rounds Swiss system. GM Daniel Dardha, rated 2540, will have as main competitors GM Jobava Baadur, GM Vitaliy Bernadskiy, GM Sergei Azarov, GM []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/daniel-dardha-is-the-young-chess-star-at-2-festival-di-primavera/",
          "pubDate" : "Tue, 15 Mar 2022 07:04:15 +0000",
          "title" : "Daniel Dardha is the young chess star at 2 ° Festival di Primavera"
+      },
+      {
+         "description" : " The FIDE Grand Prix Leg 2 took place in Belgrade Tuesday 1st to Monday 14th Mar 2022. There are group stages 4 players 6 rounds, the winners of each group then play the knockout phase. Players: Grischuk, Andreikin, Shankland, Bacrot, Rapport, Vidit, Fedoseev, Shirov, Giri, Vitiugov, Harikrishna, Tabatabaei, Mamedyarov, MVL, Yu Yangyi and Predke. This is the second of three such events. Nakamura won the first, the final leg is back in Berlin Mon 21st Mar to Mon 4th Apr 2022. Richard Rapport beat Dmitry Andreikin in the final to all but confirm a Candidates place. He reached the semifinals in the first event and will have to wait on the results of the final leg.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-prix-leg-2-belgrade-2022",
+         "pubDate" : "Tue, 15 Mar 2022 10:38:00 +0400",
+         "title" : "FIDE Grand Prix Leg 2 Belgrade 2022 - Games and Results"
       },
       {
          "description" : "The European Women&#x2019;s Individual Chess Championship 2022 is going to take place from 19th August &#x2013; 1st September in Prague, Czech Republic. The event will be played in 11 rounds, Swiss system, and will have a prize fund of 60 000 eur. This is the 22nd edition of the European Individual Women Chess Championship is []",
@@ -304,14 +368,6 @@ news_feed (
          "link" : "https://www.chessdom.com/1st-guwahati-international-open-grandmasters-chess-tournament-2022/",
          "pubDate" : "Sun, 13 Mar 2022 07:21:52 +0000",
          "title" : "1st Guwahati International Open Grandmasters Chess Tournament 2022"
-      },
-      {
-         "description" : "The K-12 State Championship of North Carolina is happening March 11-13, 2022. This is the first time the event is held in two years. 450+ players participate in the event K-12 chess championship, which is a qualifier for the for Rockefeller, Barber and Denker National Invitational Chess Tournaments. The event is sponsored by the Charlotte []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2022-north-carolina-k-12-chess-championship-with-450-players/",
-         "pubDate" : "Sun, 13 Mar 2022 06:53:46 +0000",
-         "title" : "2022 North Carolina K-12 Chess Championship with 450+ players"
       },
       {
          "description" : "The Saint Louis Spring Classic had a thrilling final day of action. In the A group, Sam Sevian prevailed after beating Ilya Nyzhnyk in a rapid playoff. In the B group, the youngest grandmaster in history Abhimanyu Mishra (pictured) won the event with an impressive Tournament Rating Performance. | Photo: Crytal Fuller",
@@ -1602,14 +1658,6 @@ news_feed (
          "title" : "'Stop the war.' 44 Top Russian Players Publish Open Letter To Putin"
       },
       {
-         "description" : "Russia's top chess players and, it appears, its chess federation, have appealed directly to President Vladimir Putin to stop the war as the game reels from the fall-out of the invasion of Ukraine. In an open letter published today, a list of highly-decorated players that reads like a who's who of Russian chess, said it is \"unbearably painful for us to see the catastrophe that is happening\".",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/russian-chess-players-tell-putin-to-stop-the-war",
-         "pubDate" : "Thu, 03 Mar 2022 17:20:58 +0000",
-         "title" : "Russian chess players tell Putin to 'stop the war'"
-      },
-      {
          "description" : "This week Robert Ris takes a look at a miniature played at the highest level: at the Airthings Masters Online Rapid Tournament World Champion Magnus Carlsen defeated Jan-Krzysztof Duda with a swift attack and won a short and instructive game. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1858,14 +1906,6 @@ news_feed (
          "title" : "Erigaisi, Nakamura and Aronian move up in March rating list"
       },
       {
-         "description" : " The FIDE Grand Prix Leg 2 takes place in Belgrade Tuesday 1st to Monday 14th Mar 2022. There are group stages 4 players 6 rounds, the winners of each group then play the knockout phase. Players: Grischuk, Andreikin, Shankland, Bacrot, Rapport, Vidit, Fedoseev, Shirov, Giri, Vitiugov, Harikrishna, Tabatabaei, Mamedyarov, MVL, Yu Yangyi and Predke. This is the second of three such events. Nakamura won the first, the final leg is back in Berlin Mon 21st Mar to Mon 4th Apr 2022.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-prix-leg-2-belgrade-2022",
-         "pubDate" : "Tue, 1 Mar 2022 22:18:00 +0400",
-         "title" : "FIDE Grand Prix Leg 2 Belgrade 2022 - Games and Results"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89930180.cms\" />Grandmaster Arjun Erigasi defeated IM V Pranav to jump into sole lead with 7.5 points after nine rounds in the ongoing MPL 58th Senior National Chess Championship on Tuesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1962,14 +2002,6 @@ news_feed (
          "title" : "Octogenarian puzzle master solutions"
       },
       {
-         "description" : "Sometimes it is difficult to convert an extra knight into a full point: Black to move and win.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-magic-knight-2",
-         "pubDate" : "Tue, 01 Mar 2022 09:00:00 +0100",
-         "title" : "A magic knight"
-      },
-      {
          "description" : " International Master Emory TatePhoto by Daaim Shabazz Before his passing in 2015, International Master Emory Tate was one of the most recognizable figures in the American chess scene. In this last tribute for Black History Month, we will feature the man, the myth, the legend. The legacy continues. With a warrior persona and his bold [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/28/black-history-month-2022-day-28-im-emory-tate/\">Black History Month 2022-Day 28: IM Emory Tate</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1984,14 +2016,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1605",
          "pubDate" : "Mon, 28 Feb 2022 22:17:54 +0000",
          "title" : "The second leg of FIDE Grand Prix 2022 kicks off in Belgrade"
-      },
-      {
-         "description" : "In the second week of March, the French capital will host the \"Chess for Mental Health\" international event. The conference will cover various topics related to mental health, including autism, DYS, concentration, hyperactivity. The event's keynote is how chess can improve multiple aspects of mental health.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-for-mental-health-conference-2022",
-         "pubDate" : "Mon, 28 Feb 2022 21:00:00 +0100",
-         "title" : "French Chess Federation organizes \"Chess for Mental Health\" conference"
       },
       {
          "description" : "European Women's Chess Gala, a special multi-event dedicated to Women's Chess, took place on 26-27 February in Monaco. The events supported by Monaco State, European Chess Union and FIDE Development fund. The event started with activities on Saturday, 26th of February. IM Almira Skripchenko and GM Pia Cramling had the simultaneous exhibition, playing a simul on 16 boards.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-gala-concluded-in-monaco/\">Read More &#187;</a></span>",
@@ -2314,14 +2338,6 @@ news_feed (
          "title" : "New ECF Manager of Arbiters"
       },
       {
-         "description" : " Here are the latest two videos from The Master Chess Web Show in which Andrew and I look at some more great games. Since last week we've also put a web site up where viewers can send in questions in questions via the contact form. After next week we'll be running three shows a week, <a href=\"https://chessimprover.com/the-master-chess-web-show-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Master Chess Web Show (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-master-chess-web-show-2/\">The Master Chess Web Show (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/the-master-chess-web-show-2/",
-         "pubDate" : "Wed, 23 Feb 2022 13:57:04 +0000",
-         "title" : "The Master Chess Web Show (2)"
-      },
-      {
          "description" : " Mark Scully, sometime chess player, sometime lawyer, once wrote that in times long past, the earth consisted of at least 10,000 independent territories. This has now been reduced to around 195, give or take a few self declared/non recognised territories (eg <a href=\"https://en.wikipedia.org/wiki/Principality_of_Hutt_River\">Principality of Hutt River</a>) FIDE have slightly less member nations, although they have extended membership to a number of non-country federations The International Correspondence Chess Federation follow a similar model. However, with Correspondence Chess less constrained by travel, they also organise events for 'States and Regions'. A multi divisional championship of ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2392,14 +2408,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/2022-o2c-doeberl-cup-7-weeks-out.html",
          "pubDate" : "Tue, 22 Feb 2022 12:58:00 +0000",
          "title" : "2022 O2C Doeberl Cup - 7 weeks out"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89748951.cms\" />It was a hobby acquired from his sister but R Praggnanandhaa made chess his life's calling pretty early on, picking up the nuances of the game at an age when most kids are classified as toddlers.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/how-sisters-hobby-shaped-young-chess-wizard-praggnanandhaas-life/articleshow/89748951.cms",
-         "pubDate" : "Tue, 22 Feb 2022 16:18:07 +0530",
-         "title" : "How sister's hobby shaped young chess wizard Praggnanandhaa's life"
       }
    ]
 }
