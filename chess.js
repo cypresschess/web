@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/80d97f78-021f-49e1-9572-8f13af8bc6c8/CLSMith.jpg\" data-image-dimensions=\"260x260\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6230a96183f79c70896970b3\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/80d97f78-021f-49e1-9572-8f13af8bc6c8/CLSMith.jpg?format=1000w\" /> </figure> <p class=\"\">Cody Smith is a 31 year old Alabama-<a href=\"https://lichess.org/@/CLSmith15\" target=\"_blank\"> Twitch streamer</a>,<strong> </strong>and chess instructor.<strong> </strong> <p ",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/15/ep-270-cody-smith-adult-improver-series",
+         "pubDate" : "Tue, 15 Mar 2022 14:59:21 +0000",
+         "title" : "EP 270- Cody Smith (Adult Improver Series) "
+      },
+      {
+         "description" : "The Charity Chess Cup 2022, the 2nd event on the Meltwater Champions Chess Tour, starts this Saturday March 19th as a @UNICEF fundraiser for children and their families in and around Ukraine. Charity Cup is the second tournament of the Meltwater Champions Tour 2022. Sixteen of the best chess players on the planet will compete []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/charity-chess-cup-2022/",
+         "pubDate" : "Tue, 15 Mar 2022 14:24:58 +0000",
+         "title" : "Charity Chess Cup 2022"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen tops the field for the Charity Cup, the 2nd event on the 2022 Meltwater Champions Chess Tour. The online chess tournament, starting Saturday March 19th, is taking place under the shadow of Russia's war in Ukraine, and will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Ding Liren, Richard Rapport and Women's World Champion Ju Wenjun are among participants from 12 countries, with no Russian players involved.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-tops-field-for-charity-cup-a-unicef-fundraiser",
+         "pubDate" : "Tue, 15 Mar 2022 14:00:03 +0000",
+         "title" : "Magnus Carlsen tops field for Charity Cup, a UNICEF fundraiser"
+      },
+      {
+         "description" : "The International Committee of the Mediterranean Games (ICMG)&#xA0; held &#xA0;its ordinary meeting last&#xA0; weekend in Oran, as a part of the city's preparations to host the 19th edition of the Mediterranean Games this&#xA0;summer. Among others, the Committee made a very important decision related to chess. The 2022 Mediterranean Games, officially known as the 19th Mediterranean []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mediterranean-games-2022-to-feature-chess/",
+         "pubDate" : "Tue, 15 Mar 2022 13:04:01 +0000",
+         "title" : "Mediterranean games 2022 to feature chess"
+      },
+      {
+         "description" : "The American magazine \"Mother Jones\", seven times winner of the \"Magazine of the Year\" award from the American Society of Magazine Editors, just published interviews with 36 prominent personalities from the world of chess about the war in Ukraine. One of them is FIDE President and former Russian Deputy Prime Minister Arkady Dvorkovich, who spoke out against the war: \"My thoughts are with Ukrainian civilians. ... Wars do not just kill priceless lives. Wars kill hopes and aspirations, freeze or destroy relationships and connections.\" | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-president-arkady-dvorkovich-speaks-out-against-the-war-in-ukraine",
+         "pubDate" : "Tue, 15 Mar 2022 13:01:02 +0100",
+         "title" : "FIDE President Arkady Dvorkovich speaks out against the war in Ukraine"
+      },
+      {
          "description" : "With 6.5/9 (four wins, five draws, no loss) Sanan Sjugirov concinvingly won a strong Grandmaster tournament in Belgrade that was played in parallel to the FIDE Grand Prix. Nihal Sarin, Velimir Ivic and Nodirbek Abdusattorov shared places two to four with 5.5/9 each. | Photos: Tournament page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -242,14 +282,6 @@ news_feed (
          "title" : "Richard Rapport interview after his victory in the FIDE Grand Prix"
       },
       {
-         "description" : "Following a draw in the first game of the finals, Hungarian Grandmaster Richard Rapport won the second game against the two-time Russian champion, Dmitry Andreikin. In the final minutes of the game, in a position that seemed completely equal for Black, Rapport (who played as White) found a way to throw Andreikin off his balance []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/richard-rapport-is-the-winner-of-grand-prix-belgrade-2022/",
-         "pubDate" : "Mon, 14 Mar 2022 06:14:41 +0000",
-         "title" : "Richard Rapport is the winner of Grand Prix Belgrade 2022"
-      },
-      {
          "description" : "A win with white in Sunday's second game of the final gave Richard Rapport tournament victory at the second leg of the FIDE Grand Prix in Belgrade. Rapport beat Dmitry Andreikin after rejecting a draw by triple repetition in a double-edged position. This victory, combined with his reaching the semifinals in the first leg of the series, places him as a clear favourite to get a spot in the Candidates Tournament. | Photos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -360,14 +392,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/arena-system-tournaments-are-now-on-fide-online-arena/",
          "pubDate" : "Sun, 13 Mar 2022 08:51:27 +0000",
          "title" : "Arena-system tournaments are now on FIDE Online Arena"
-      },
-      {
-         "description" : "1st Guwahati International Open Grandmasters Chess Tournament 2022 is taking place 13-20 March. A total of 238 players will participate in the 10 rounds Swiss event. Top seeded is GM Pavel Ponkratov in the company of other international players like GM Ramirez Delgado, GM Christian Rios, GM Mosadeghpour, GM Azer Mirzoev, etc. Local top GMs []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1st-guwahati-international-open-grandmasters-chess-tournament-2022/",
-         "pubDate" : "Sun, 13 Mar 2022 07:21:52 +0000",
-         "title" : "1st Guwahati International Open Grandmasters Chess Tournament 2022"
       },
       {
          "description" : "The Saint Louis Spring Classic had a thrilling final day of action. In the A group, Sam Sevian prevailed after beating Ilya Nyzhnyk in a rapid playoff. In the B group, the youngest grandmaster in history Abhimanyu Mishra (pictured) won the event with an impressive Tournament Rating Performance. | Photo: Crytal Fuller",
@@ -1594,14 +1618,6 @@ news_feed (
          "title" : "CBM #206 Special: Levon Aronian"
       },
       {
-         "description" : "Richard Rapport described it as \"kind of a must-win game\" as he defeated Vidit to end the Indian star's perfect start to the Belgrade FIDE Grand Prix and catch him on 2/3. Pool C also saw the only other decisive action of Round 3 as Vladimir Fedoseev defeated Alexei Shirov to move to 1.5/3. Elsewhere there were relatively quiet draws, though Anish Giri played a stylish queen sacrifice to tie his game against Harikrishna. That result left him as the only player with the sole lead in any of the pools.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/belgrade-gp-3-rapport-beats-and-catches-vidit",
-         "pubDate" : "Fri, 04 Mar 2022 09:46:29 +0000",
-         "title" : "Belgrade GP 3: Rapport beats and catches Vidit"
-      },
-      {
          "description" : "The&#160;Board of&#160;the&#160;European Chess Union&#160;met in extraordinary session on Thursday 3rd of March to discuss the situation in Ukraine and appropriate measures. The European Chess Union strongly condemns the Russian invasion of Ukraine, the involvement of Belarus and expresses its solidarity and support for the Ukrainian people. We feel deep sorrow for all the victims of the war and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-suspends-the-russian-and-belarusian-chess-federations/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1994,14 +2010,6 @@ news_feed (
          "title" : "Chess 2022 - January Exotic Wackos"
       },
       {
-         "description" : "Last Tuesday Werner Keym, one of the most creative problemists we know, turned 80, and we celebrated his birthday with samples from his book \"Anything but Average\". Today we give you the solutions to the truly unique problems, hoping you enjoyed them and were able to come up with the solutions yourself.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-octogenarian-puzzle-master-2",
-         "pubDate" : "Tue, 01 Mar 2022 09:33:55 +0100",
-         "title" : "Octogenarian puzzle master solutions"
-      },
-      {
          "description" : " International Master Emory TatePhoto by Daaim Shabazz Before his passing in 2015, International Master Emory Tate was one of the most recognizable figures in the American chess scene. In this last tribute for Black History Month, we will feature the man, the myth, the legend. The legacy continues. With a warrior persona and his bold [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/28/black-history-month-2022-day-28-im-emory-tate/\">Black History Month 2022-Day 28: IM Emory Tate</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2392,22 +2400,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1591",
          "pubDate" : "Tue, 22 Feb 2022 18:16:41 +0000",
          "title" : "Andrea Nicole Garcia wins Honduran Women's Championship"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/d10e2183-0d8e-4a49-9ac8-2bd5af846681/q7YtlQ2X_400x400.jpg\" data-image-dimensions=\"400x400\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6214e4f0557793739d02f430\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/d10e2183-0d8e-4a49-9ac8-2bd5af846681/q7YtlQ2X_400x400.jpg?format=1000w\" /> </figure> <iframe scrolling=\"no\" src=\"https://playlist.megaphone.fm?e=BLU9323042155\" width=\"100%\" frameborder=\"0\" data-preserve-html-node=\"true\" height=\"200\"></iframe><p class=\"\">C",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/2/22/pauq1ld4qaxw2a7yj336ml7b252q9u",
-         "pubDate" : "Tue, 22 Feb 2022 13:30:22 +0000",
-         "title" : "EP 267- NM Nelson Lopez (of the ChessVibes YouTube Channel)"
-      },
-      {
-         "description" : " Just a quick update on the 2022 O2C Doeberl Cup. Entries for the tournament have already passed to 100 mark (in fact 120 at the time of this post). The Premier already has 5 GM's, 1 WGM and 4 IM's registered. With overseas visitors now allowed into the country, a number of OS players have already registered. To try and balance the numbers in each section, the entry requirements have been relaxed a little. Having a FIDE rating above the ACF cutoff now qualifies you for a section as well, meaning that it is easier to get into a higher section. The rule about using your rating at the time of entry still applies, so some players may wish to enter before the end of this month (before new ACF rat",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/2022-o2c-doeberl-cup-7-weeks-out.html",
-         "pubDate" : "Tue, 22 Feb 2022 12:58:00 +0000",
-         "title" : "2022 O2C Doeberl Cup - 7 weeks out"
       }
    ]
 }
