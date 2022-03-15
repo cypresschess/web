@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In London, a match facing David Howell and Nils Grandelius was held at the residence of the Swedish Ambassador. The occasion was the 30th anniversary of Chess & Bridge. The 10-game confrontation was won by Howell. Three games ended decisively, and all of them had plenty to offer chess-wise. | Photo: Chess & Bridge",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/howell-beats-grandelius-england-versus-sweden-2022",
+         "pubDate" : "Tue, 15 Mar 2022 02:00:00 +0100",
+         "title" : "Howell beats Grandelius in England versus Sweden match"
+      },
+      {
          "description" : "The 2022 Bullet Chess Championship presented by DigitalOcean&#38;nbsp;soared to new heights today after a dazzling showdown between pre-tournament favorites GM Hikaru Nakamura and GM Daniel Naroditsky, which Nakamura won in stylish fashion. GM An...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-bullet-chess-championship-winners-semifinals-losers-top-8-nakamura-tang-win",
-         "pubDate" : "Mon, 14 Mar 2022 15:30:42 -0700",
-         "title" : "Bullet Chess Championship Winners Semifinals, Losers Top-8: Nakamura, Tang Reach Winners Final"
+         "pubDate" : "Mon, 14 Mar 2022 15:30:00 -0700",
+         "title" : "Bullet Chess Championship: Nakamura, Tang Reach Winners Final"
       },
       {
          "description" : "",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Chess chosen as exhibition discipline at Mediterranean Games"
       },
       {
-         "description" : " Share! In 2010, I wrote an article titled &#8220;Baraka Shabazz: Black Queen of Chess.&#8221; Seven years later came &#8220;Revisiting Baraka Shabazz,&#8221; in which I cited the brutally candid 1988 article titled \"Ex-Queen's Gambit.\" That article was long before the &#8220;Queen's Gambit&#8221; miniseries but had some eerily similar themes. While the movie highlighted the rise of [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/14/promoting-to-a-black-chess-queen/\">Promoting to a Black Chess Queen</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share! In 2010, I wrote an article titled &#8220;Baraka Shabazz: Black Queen of Chess.&#8221; Seven years later came &#8220;Revisiting Baraka Shabazz,&#8221; in which I cited the brutally candid 1988 article titled \"Ex-Queen's Gambit.\" That article was long before the &#8220;Queen's Gambit&#8221; miniseries but had some eerily similar themes. While the series highlighted the rise of [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/14/promoting-to-a-black-chess-queen/\">Promoting to a Black Chess Queen</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/03/14/promoting-to-a-black-chess-queen/",
@@ -375,7 +383,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-game-6-live",
          "pubDate" : "Sat, 12 Mar 2022 14:30:00 +0100",
-         "title" : "England vs Sweden Challenge - Game 10 live"
+         "title" : "England vs Sweden Challenge - All games"
       },
       {
          "description" : "Trent's Tactics has a new format since today! From now on, this is your personal, interactive tactic trainer, and Lawrence Trent is your tactical coach. Try to solve the puzzles on the interactive board on your own, pause the video when we tell you to, and use your brain to find the tactical approaches. Lawrence will give you some hints, advice, and techniques to get to reach your goal. Also, please tell us how you like it in the comments.",
@@ -2002,14 +2010,6 @@ news_feed (
          "title" : "Parligras and Ciolacu win Romanian Championship"
       },
       {
-         "description" : "In the Endgame Magic Show #183 Karsten M&uuml;ller presents endgame highlights from the Airthings Masters, the online rapid tournament which World Champion Magnus Carlsen won last Saturday by defeating Ian Nepomniachtchi in the finals. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-183-endgame-highlights-from-the-airthings-masters",
-         "pubDate" : "Mon, 28 Feb 2022 18:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #183: Endgame highlights from the Airthings Masters"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89898950.cms\" />Young Grandmasters Arjun Erigaisi of Telangana and D Gukesh of Tamil Nadu grabbed the joint lead with 5.5 points at the end of the sixth round in the MPL 58th Senior National Chess Championship on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2416,14 +2416,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/victory-against-magnus-carlsen-one-of-the-best-till-date-for-me-praggnanandhaa/articleshow/89739443.cms",
          "pubDate" : "Tue, 22 Feb 2022 09:39:18 +0530",
          "title" : "Victory against Magnus Carlsen one of the best till date for me: Praggnanandhaa"
-      },
-      {
-         "description" : " Alfred Blake Carlin was larger than life figure in New Orleans chess. Carlin's large physical size matched his personality and he was a well-respected chess player and coach. He was one of the few Black masters (Senior Master) in the south and was a five-time Louisiana state champion (1981, 1983, 1990, 1991, 1996). Carlin was [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/21/black-history-month-2022-day-21-alfred-blake-carlin/\">Black History Month 2022-Day 21: Alfred Blake Carlin</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/21/black-history-month-2022-day-21-alfred-blake-carlin/",
-         "pubDate" : "Tue, 22 Feb 2022 01:25:46 +0000",
-         "title" : "Black History Month 2022-Day 21: Alfred Blake Carlin"
       }
    ]
 }
