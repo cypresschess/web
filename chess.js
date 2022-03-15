@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Breaking: Chess Olympiad 2022 will take place in Chennai, India, confirmed Tamil Nadu Chief Minister MK Stalin MK Stalin. The Chess Olympiad 2022 has gone through multiple hassles. Initially, it was set to be played in Belarus, but following the wave of protests against Alexander Lukashenko and the support of the Belarus Chess Federation for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-is-set-to-take-place-in-india-developing-story/",
+         "pubDate" : "Tue, 15 Mar 2022 17:46:49 +0000",
+         "title" : "Chess Olympiad 2022 is set to take place in India (developing story)"
+      },
+      {
+         "description" : "The $1.6 million Meltwater Champions Chess Tour will dedicate its next stage to fundraising for the victims of the war in Ukraine, it was announced today. The Charity Cup, starting March 19, will be the second leg of the world's most prestigious elite online chess event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/next-tour-stage-dedicated-to-victims-of-ukraine-war",
+         "pubDate" : "Tue, 15 Mar 2022 17:25:08 +0100",
+         "title" : "Next Tour stage dedicated to victims of Ukraine war"
+      },
+      {
+         "description" : "In his \"Weekly Show\" Lawrence Trent will look at the final of the Howell-Grandelius match (game 8 being the feature game for the show) as well as the final of the FIDE Grand Prix. Lawrence will also discuss the implications of Richard Rapport's victory. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-howell-wins-against-grandelius",
+         "pubDate" : "Tue, 15 Mar 2022 17:00:00 +0100",
+         "title" : "The Weekly Show: Howell wins against Grandelius"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/80d97f78-021f-49e1-9572-8f13af8bc6c8/CLSMith.jpg\" data-image-dimensions=\"260x260\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6230a96183f79c70896970b3\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/80d97f78-021f-49e1-9572-8f13af8bc6c8/CLSMith.jpg?format=1000w\" /> </figure> <p class=\"\">Cody Smith is a 31 year old Alabama-<a href=\"https://lichess.org/@/CLSmith15\" target=\"_blank\"> Twitch streamer</a>,<strong> </strong>and chess instructor.<strong> </strong> <p ",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -272,14 +296,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fides-top-dominated-by-youth/",
          "pubDate" : "Mon, 14 Mar 2022 07:53:25 +0000",
          "title" : "FIDE's top dominated by youth"
-      },
-      {
-         "description" : "Richard Rapport shared his thoughts in a press conference after his victory in the FIDE Grand Prix, &#8220;I am very relieved and with lots of happy emotions&#8221;. The way to the title for Richard Rapport:&#xA0;Rapport qualifies from the group stage&#xA0;/&#xA0;Rapport wins game 1 of the semi final&#xA0;and&#xA0;Qualifies for the final&#xA0;/&#xA0;Rapport and Andreikin draw game 1 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/richard-rapport-interview-after-his-victory-in-the-fide-grand-prix/",
-         "pubDate" : "Mon, 14 Mar 2022 06:24:59 +0000",
-         "title" : "Richard Rapport interview after his victory in the FIDE Grand Prix"
       },
       {
          "description" : "A win with white in Sunday's second game of the final gave Richard Rapport tournament victory at the second leg of the FIDE Grand Prix in Belgrade. Rapport beat Dmitry Andreikin after rejecting a draw by triple repetition in a double-edged position. This victory, combined with his reaching the semifinals in the first leg of the series, places him as a clear favourite to get a spot in the Candidates Tournament. | Photos: Mark Livshitz",
@@ -1962,28 +1978,12 @@ news_feed (
          "title" : "Senior national chess: Five players share lead"
       },
       {
-         "description" : "FIDE has issued a statement condemning Russia's attack on Ukraine, terminating all sponsorship contracts with Russian companies and excluding Russia and Belarus as venues for FIDE tournaments. This also affects the 2022 Chess Olympiad. The Indian Chess Federation is now offering to host the event at short notice.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/india-offers-to-host-44-chess-olympiad",
-         "pubDate" : "Tue, 01 Mar 2022 13:48:23 +0100",
-         "title" : "India offers to host 44. Chess Olympiad"
-      },
-      {
          "description" : "Anwesh Upadhyaya arrived in Lviv, around 70 kilometers from the Polish border early on Tuesday.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/33396850/ukraine-russia-invasion-india-im-flee-kyiv?device=featurephone",
          "pubDate" : "Tue, 1 Mar 2022 07:45:44 -0500",
          "title" : "Indian IM in Ukraine manages to flee Kyiv in packed train"
-      },
-      {
-         "description" : "The second leg of the FIDE Grand Prix series kicks off today in Belgrade, as the fight to get the two final spots in the Candidates Tournament continues. Three strong contenders to get the coveted spots begin their campaign in the series - i.e. Anish Giri, Shakhriyar Mamedyarov and Maxime Vachier-Lagrave. | Photo: The opening ceremony, held in the ballroom of 'Dom Grade', a building from the 1920s which was once home to the Serbian Royal Guard",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-preview",
-         "pubDate" : "Tue, 01 Mar 2022 13:40:00 +0100",
-         "title" : "Second leg of Grand Prix kicks off in Belgrade"
       },
       {
          "description" : " The St Louis Spring Chess Classic marks the return of the regular, and strong classic events at the Saint Louis Chess Club. It takes place March 1st to 11th. Two 10 player Round Robins - the A group: Jeffery Xiong, Samuel Sevian, Ray Robson, Illya Nyzhnyk, Dariusz Swiercz, Hans Moke Niemann, Mikhail Al. Antipov, Aram Hakobyan, Aleksandr Lenderman and Kamil Dragun.",
@@ -2392,14 +2392,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/22/black-history-month-2022-day-22-william-earnest-griffin/",
          "pubDate" : "Tue, 22 Feb 2022 19:09:11 +0000",
          "title" : "Black History Month 2022-Day 22: William Earnest Griffin"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1591",
-         "pubDate" : "Tue, 22 Feb 2022 18:16:41 +0000",
-         "title" : "Andrea Nicole Garcia wins Honduran Women's Championship"
       }
    ]
 }
