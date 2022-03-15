@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Breaking: Chess Olympiad 2022 will take place in Chennai, India, confirmed Tamil Nadu Chief Minister MK Stalin MK Stalin. The Chess Olympiad 2022 has gone through multiple hassles. Initially, it was set to be played in Belarus, but following the wave of protests against Alexander Lukashenko and the support of the Belarus Chess Federation for []",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The second online tournament of the <strong>Meltwater Champions Chess Tour</strong> starting on 19 March will be the Charity Cup and serve as a <a href=\"https://chess24.com/tour/charity-cup-revealed-as-fundraiser-for-unicef/\">fundraiser for UNICEF to support Ukrainian children and families</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/tour-raises-funds-for-ukraine/",
+         "pubDate" : "Tue, 15 Mar 2022 19:24:56 +0100",
+         "title" : "Tour raises funds for Ukraine"
+      },
+      {
+         "description" : "Breaking: Chess Olympiad 2022 will take place in Chennai, India, confirmed Tamil Nadu Chief Minister MK Stalin MK Stalin. Confirmations from FIDE, AICF, and multiple grandmasters followed. The Chess Olympiad 2022 has gone through multiple hassles. Initially, it was set to be played in Belarus, but following the wave of protests against Alexander Lukashenko and []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/chess-olympiad-2022-is-set-to-take-place-in-india-developing-story/",
@@ -1698,14 +1706,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: A miniature between two top players"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 34 Russian chess personalities, including challenger <strong>Ian Nepomniachtchi</strong>, national team players and employees of the <strong>Russian Chess Federation</strong> <a href=\"http://chess-news.ru/node/28810\">signed an open letter</a> to Russian dictator <strong>Vladimir Putin</strong> requesting to end the \"military operation on the territory of Ukraine\", a euphemism required by Russian censorship. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/russian-players-appeal-to-end-the/",
-         "pubDate" : "Thu, 03 Mar 2022 17:13:42 +0100",
-         "title" : "Russian players appeal to end the war"
-      },
-      {
          "description" : "In the current ChessBase Magazine the Sicilian Taimanov Variation (1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6) is taken to task from two sides at once. The super-modern 7.g4 came onto the board at the Tata Steel 2022 in the game Grandelius-Carlsen, we have already presented the Swede's analysis to you recently. There is also a complete opening article by IM Christian Braun on precisely this variation in CBM #206. A \"dangerous weapon for White\", because Black has development problems, whereas White can quickly castle long... The concept, which Jan Werle looks at in his opening video on the basis of a game by Alireza Firouzja, is completely different: after 7.Nxc6 bxc6 8.Qd3 Nf6 ",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2384,14 +2384,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1592",
          "pubDate" : "Tue, 22 Feb 2022 22:50:20 +0000",
          "title" : "Kosteniuk halts losing streak as Nepomniachtchi dominates"
-      },
-      {
-         "description" : " William E. Griffin on page 101 of The Rice Gambit by H. Keidanz (New York, 1905). William Earnest Griffin is a chess player you may not know, but one whose words will make an indelible impression. According to the February 1905 issue of the American Chess Bulletin (page 34), Griffin was Born in the backwoods [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/22/black-history-month-2022-day-22-william-earnest-griffin/\">Black History Month 2022-Day 22: William Earnest Griffin</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/22/black-history-month-2022-day-22-william-earnest-griffin/",
-         "pubDate" : "Tue, 22 Feb 2022 19:09:11 +0000",
-         "title" : "Black History Month 2022-Day 22: William Earnest Griffin"
       }
    ]
 }
