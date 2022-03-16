@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " This is an interview I have long waited to publish. I had the honor to talk to one of the most decorated (Junior) Coaches of the past 2 decades. Grandmaster Ramesh RB has Coached his students to more than 45(!!!) Gold Medals in World (Junior) Events, served as Coach of the Indian National Team for [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/gm-ramesh-on-calculation/\">Gold-Coach GM Ramesh RB On Calculation And How To Train Right</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/gm-ramesh-on-calculation/",
+         "pubDate" : "Wed, 16 Mar 2022 15:00:00 +0000",
+         "title" : "Gold-Coach GM Ramesh RB On Calculation And How To Train Right"
+      },
+      {
          "description" : "From 11 to 13 March the Romanian Rapid, Blitz and Solving Championships took place in Bucharest, at the \"Pentagon Events\" venue and attracted a record number of 212 participants, 163 in the Open section and 49 in the Women's section. Irina Bulmaga (pictured), who won the Solving and the Rapid event, reports. | Teaser Photo: David Llada > All other photos: Florin Ardelean / We Love Sport",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2400,14 +2408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1594",
          "pubDate" : "Thu, 24 Feb 2022 00:23:05 +0000",
          "title" : "Three Russians power into semis of Airthings Masters"
-      },
-      {
-         "description" : "After two years in post, IA Alan Atkinson (far left) is looking to move on from the ECF Manager of Arbiters role. We would like...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/new-ecf-manager-of-arbiters-2/",
-         "pubDate" : "Wed, 23 Feb 2022 15:30:09 +0000",
-         "title" : "New ECF Manager of Arbiters"
       }
    ]
 }
