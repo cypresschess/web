@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Chess Instructor Dr. Dirk Downing talks about his students at Jennings Junior High School in Saint Louis. The students describe the benefits of the scholastic chess program. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-life-jennings-junior-high-school\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Zq6kZHHeEAU.jpg?itok=qcPRUH3Z\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-life-jennings-junior-high-school",
+         "pubDate" : "Wed, 16 Mar 2022 18:04:50 +0000",
+         "title" : "Chess Life at Jennings Junior High School"
+      },
+      {
+         "description" : "Henrik Carlsen speaks about how his son Magnus rose to become World Champion and perhaps the greatest chess player the world has ever seen. He reveals the first time he had to pinch his arm in awe at what his son had accomplished.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/henrik-carlsen-on-moment-pinch-his-arm",
+         "pubDate" : "Wed, 16 Mar 2022 16:22:29 +0000",
+         "title" : "Henrik Carlsen on the moment he had to pinch his arm"
+      },
+      {
+         "description" : " Here's a review of the latest editions of the Master Chess Web Show on Twitch: Saturday This special episode included: 1) A Bobby Fischer classic in what was an unusual opening choice. 2) A shock victory by British amateur Mike Surtees, playing a special gambit recipe against the Caro-Kann. 3) Gawain Jones winning with the <a href=\"https://chessimprover.com/master-chess-web-show-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-5/\">Master Chess Web Show (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/master-chess-web-show-5/",
+         "pubDate" : "Wed, 16 Mar 2022 16:12:05 +0000",
+         "title" : "Master Chess Web Show (5)"
+      },
+      {
+         "description" : "For the second consecutive week, the winners of the March 15&#38;nbsp;Titled Tuesday&#38;nbsp;were GM Daniil Dubov&#38;nbsp;and&#38;nbsp;GM Hikaru Nakamura. Nakamura, GM Dmitry Andreikin, and GM Amin Tabatabaei all finished in the top five in both events, while&#38;n...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dubov-nakamura-win-titled-tuesday-march-15-2022",
+         "pubDate" : "Wed, 16 Mar 2022 08:35:00 -0700",
+         "title" : "Dubov, Nakamura Continue To Crush Titled Tuesday"
+      },
+      {
          "description" : " This is an interview I have long waited to publish. I had the honor to talk to one of the most decorated (Junior) Coaches of the past 2 decades. Grandmaster Ramesh RB has Coached his students to more than 45(!!!) Gold Medals in World (Junior) Events, served as Coach of the Indian National Team for [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/gm-ramesh-on-calculation/\">Gold-Coach GM Ramesh RB On Calculation And How To Train Right</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -866,14 +898,6 @@ news_feed (
          "title" : "2022 Spring Chess Classic: Sam Sevian Interview | Playoff"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its Spring season. Join NM Caleb Denby for the move-by-move. 2022.03.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-corporate-chess-league-virtual-spring-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HCBTC6QQi18.jpg?itok=3hJUdJ-w\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-corporate-chess-league-virtual-spring-3",
-         "pubDate" : "Fri, 11 Mar 2022 02:58:40 +0000",
-         "title" : "2022 Saint Louis Corporate Chess League: Virtual Spring #3"
-      },
-      {
          "description" : "Maxime Vachier-Lagrave got good winning chances but could not bounce back in his match against Richard Rapport at the semifinals of the FIDE Grand Prix in Belgrade. Rapport's resilient defence made him the first finalist of the event. The Hungarian will get a rest day before facing either Anish Giri or Dmitry Andreikin in the final. Giri and Andreikin drew both their semifinal games and will play a rapid and blitz tiebreaker on Friday. | Photos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1610,14 +1634,6 @@ news_feed (
          "title" : "Arjun Erigaisi, Divya Deshmukh Clinch Indian National Championships"
       },
       {
-         "description" : "Maxime Vachier-Lagrave won a spectacular game in the Najdorf Sicilian to end a run of 7 draws in Pool D of the Belgrade FIDE Grand Prix and take the sole lead. There were missed chances for Yu Yangyi against Shakhriyar Mamedyarov, and for Sam Shankland against Etienne Bacrot, as all the remaining Round 4 games ended in draws, ensuring a tense battle ahead in the final two rounds of the group stages.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/belgrade-grand-prix-4-mvl-breaks-the-deadlock",
-         "pubDate" : "Sat, 05 Mar 2022 13:07:15 +0000",
-         "title" : "Belgrade Grand Prix 4: MVL breaks the deadlock"
-      },
-      {
          "description" : "The Norway Chess and London Chess Classic tournaments as well as the Grand Chess Tour have decided not to invite GM Sergey Karjakin to their tournaments anymore as the Russian GM continues to support Russia&#39;s warfare in Ukraine. Also this week, th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1752,14 +1768,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-suspends-the-russian-and-belarusian-chess-federations/",
          "pubDate" : "Fri, 04 Mar 2022 06:50:46 +0000",
          "title" : "ECU suspends the Russian and Belarusian Chess Federations."
-      },
-      {
-         "description" : "Two wins and six draws&#38;mdash;those were the results of today&#39;s efforts in the 2022 FIDE Grand Prix leg two in Belgrade. In Group A, B, and D, all of the games ended in draws, which means that GM Dmitry Andreikin and GM Sam Shankland continue to sh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-round-3",
-         "pubDate" : "Thu, 03 Mar 2022 20:10:00 -0800",
-         "title" : "2022 FIDE Grand Prix Belgrade R3: Rapport And Fedoseev Win, Many Draws"
       },
       {
          "description" : "",
@@ -2312,14 +2320,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/2022-chess-olympiad-in-serious-doubt.html",
          "pubDate" : "Fri, 25 Feb 2022 11:50:00 +0000",
          "title" : "2022 Chess Olympiad in serious doubt"
-      },
-      {
-         "description" : " Two weeks ago, we looked at a position that will form the basis for creating a combination that set up a tactic called a skewer. A combination is simply a series of moves that allow you to create a tactical opportunity. Since the majority of tactics don't appear out of thin air, you need to <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-three/\">A Foundation for Beginners Fifty Three</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\"",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-three/",
-         "pubDate" : "Fri, 25 Feb 2022 08:58:33 +0000",
-         "title" : "A Foundation for Beginners Fifty Three"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89822546.cms\" />Alone in his apartment and every bit scared, former Indian national rapid chess champion Anwesh Upadhyaya is one among the several of his compatriots stuck in Ukraine amid a Russian invasion and is desperately hoping to be evacuated from the country which has been his home since 2012.",
