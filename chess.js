@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Certificates for NATIONAL SENIOR CHESS CHAMPIONSHIPS 25 FEB-03 MARCH 2022 are now available for download. You can download the certificate from the following link",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-of-national-senior-chess-championships-25-feb-03-march-2022kanpur/",
+         "pubDate" : "Wed, 16 Mar 2022 11:04:23 +0000",
+         "title" : "CERTIFICATES OF NATIONAL SENIOR CHESS CHAMPIONSHIPS 25 FEB-03 MARCH 2022,KANPUR"
+      },
+      {
+         "description" : "Chennai, India will host the 44th Chess Olympiad in late July and early August 2022 after the government of Tamil Nadu guaranteed $10 million in funding to host the massive team chess event, that in 2018 featured nearly 1,700 participants. The 2022 Olympiad was originally granted to Belarus, then moved to Russia, and now in the wake of Russia's war on Ukraine has been moved to India. 15th World Chess Champion Vishy Anand, a resident of Chennai, has been an enthusiastic supporter of the bid.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chennai-wins-right-to-host-2022-world-chess-olympiad",
+         "pubDate" : "Wed, 16 Mar 2022 10:36:07 +0000",
+         "title" : "Chennai wins right to host 2022 Chess Olympiad"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1638",
+         "pubDate" : "Wed, 16 Mar 2022 10:11:35 +0000",
+         "title" : "Russia and Belarus teams suspended from FIDE competitions"
+      },
+      {
+         "description" : "European Chess Union in cooperation with FIDE Events Commission, FIDE Women's Commission, co-funded by FIDE Development Fund, organises the Webinar for FIDE International Organisers. The Webinar for FIDE IO will be held from 11th-14th April in English language, with the following topics: Regulations FIDE Events (General Regulations, Specific Regulations, Bid Procedure) Events' Management &#160; Ratings and Titles &hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-webinar-for-fide-international-organizers/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-webinar-for-fide-international-organizers/",
+         "pubDate" : "Wed, 16 Mar 2022 10:03:50 +0000",
+         "title" : "FIDE International Organisers Online Seminar with ECU"
+      },
+      {
+         "description" : "The 'World Cup of Chess' will take place in Chennai in July-August this year.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33515785/india-confirmed-2022-chess-olympiad-hosts-all-need-know?device=featurephone",
+         "pubDate" : "Wed, 16 Mar 2022 04:51:37 -0500",
+         "title" : "India confirmed as 2022 Chess Olympiad hosts: All you need to know"
+      },
+      {
+         "description" : " Indian <a href=\"https://www.youtube.com/channel/UCpjTx5WsF4yqyvGIYY8nuVg\">GM Vidit Santosh Gujrathi</a>, the star of the recently concluded FIDE Grand Prix Series in Berlin and Belgrade, has become the first <a href=\"https://chessarena.com\">FIDE Online Arena</a> ambassador. Arena users will see Vidit supporting young talent on the platform, live streaming and playing online tournaments starting from March 2022. Vidit will also surprise some users with personal congratulations for achieving FOA titles, approved by FIDE. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/IhEmKZSOExM?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Vidit is t",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/vidit-santosh-gujrathi-becomes-the-fide-online-arena-ambassador/",
+         "pubDate" : "Wed, 16 Mar 2022 09:47:24 +0000",
+         "title" : "Vidit Santosh Gujrathi Becomes the FIDE Online Arena Ambassador"
+      },
+      {
+         "description" : "The 44th FIDE Chess Olympiad will be held this summer in Chennai,&#38;nbsp;Tamil Nadu, India. This was announced at a press conference in Chennai on Wednesday, after the FIDE Council had approved the city&#39;s bid the night before. Originally, the event ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chennai-to-host-2022-fide-chess-olympiad",
+         "pubDate" : "Wed, 16 Mar 2022 02:42:00 -0700",
+         "title" : "'Mecca of Chess' Chennai To Host 2022 FIDE Chess Olympiad"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The French Ministry of Education, Youth and Sport has given the French Chess Federation <a href=\"http://echecs.asso.fr/Actu.aspx?Ref=13831\">delegate status, which comes with more rights, support and access to subsidies</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/french-federation-gets-promoted/",
+         "pubDate" : "Wed, 16 Mar 2022 10:41:03 +0100",
+         "title" : "French Federation gets promoted"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After removing the Chess Olympiad 2022 from Moscow <a href=\"https://www.fide.com/news/1637\">FIDE has awarded the event to the only bidder</a>, the All India Chess Federation, which will hold the tournament near its original date at the end of July, early August at <a href=\"https://en.wikipedia.org/wiki/Mamallapuram\">Mamallapuram, a tourist town with hotels, temples and beach 50 km south of Chennai</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/mamallapuram-to-host-chess-olympiad/",
+         "pubDate" : "Wed, 16 Mar 2022 10:29:50 +0100",
+         "title" : "Mamallapuram to host Chess Olympiad"
+      },
+      {
+         "description" : "The \"Chess for Mental Health\" international event was held on 9 March 2022 in Paris. According to the speakers, many recent studies have already highlighted the benefits of playing chess to support the development of children with autism spectrum disorders, the DYS (dyslexia, dyspraxia, dyscalculia) or attention and hyperactivity disorders.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ffe-chess-for-mental-health-2022",
+         "pubDate" : "Wed, 16 Mar 2022 08:00:00 +0100",
+         "title" : "FIDE and FFE host international conference \"Chess for Mental Health\""
+      },
+      {
          "description" : "European Chess Union congratulates to its President, Mr. Zurab Azmaiparashvili on his 62nd anniversary. We wish him a day filled with joy, years full of success and all his dreams to come true! Mr. Zurab Azmaiprashvili was born in Tbilisi, Georgia on 16th March of 1960, and started a rising chess career by winning the Championship of Georgia&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-congratulates-to-its-president-mr-zurab-azmaiparashvili-on-his-birthday-anniversary/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -178,14 +258,6 @@ news_feed (
          "title" : "Daniel Dardha is the young chess star at 2 ° Festival di Primavera"
       },
       {
-         "description" : "The \"Chess for Mental Health\" international event was held on 9 March 2022 in Paris. According to the speakers, many recent studies have already highlighted the benefits of playing chess to support the development of children with autism spectrum disorders, the DYS (dyslexia, dyspraxia, dyscalculia) or attention and hyperactivity disorders.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ffe-chess-for-mental-health-2022",
-         "pubDate" : "Tue, 15 Mar 2022 08:00:00 +0100",
-         "title" : "FIDE and FFE host international conference \"Chess for Mental Health\""
-      },
-      {
          "description" : " The FIDE Grand Prix Leg 2 took place in Belgrade Tuesday 1st to Monday 14th Mar 2022. There are group stages 4 players 6 rounds, the winners of each group then play the knockout phase. Players: Grischuk, Andreikin, Shankland, Bacrot, Rapport, Vidit, Fedoseev, Shirov, Giri, Vitiugov, Harikrishna, Tabatabaei, Mamedyarov, MVL, Yu Yangyi and Predke. This is the second of three such events. Nakamura won the first, the final leg is back in Berlin Mon 21st Mar to Mon 4th Apr 2022. Richard Rapport beat Dmitry Andreikin in the final to all but confirm a Candidates place. He reached the semifinals in the first event and will have to wait on the results of the final leg.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -216,14 +288,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-bullet-chess-championship-winners-semifinals-losers-top-8-nakamura-tang-win",
          "pubDate" : "Mon, 14 Mar 2022 15:30:00 -0700",
          "title" : "Bullet Chess Championship: Nakamura, Tang Reach Winners Final"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1636",
-         "pubDate" : "Mon, 14 Mar 2022 21:55:25 +0000",
-         "title" : "Chess chosen as exhibition discipline at Mediterranean Games"
       },
       {
          "description" : " Share! In 2010, I wrote an article titled &#8220;Baraka Shabazz: Black Queen of Chess.&#8221; Seven years later came &#8220;Revisiting Baraka Shabazz,&#8221; in which I cited the brutally candid 1988 article titled \"Ex-Queen's Gambit.\" That article was long before the &#8220;Queen's Gambit&#8221; miniseries but had some eerily similar themes. While the series highlighted the rise of [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/14/promoting-to-a-black-chess-queen/\">Promoting to a Black Chess Queen</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
@@ -314,12 +378,20 @@ news_feed (
          "title" : "New: Understanding Middlegame Strategies Vol. 3 + Vol. 4"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1636",
+         "pubDate" : "Mon, 14 Mar 2022 10:55:25 +0000",
+         "title" : "Chess chosen as exhibition discipline at Mediterranean Games"
+      },
+      {
          "description" : "On the 26th and 27th of February, the English Chess Federation's Director of Women's Chess, Agnieszka Milewska, travelled to Monaco to represent England in the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/european-chess-womens-gala/",
          "pubDate" : "Mon, 14 Mar 2022 09:13:26 +0000",
-         "title" : "European Chess Womens Gala"
+         "title" : "European Chess Women's Gala"
       },
       {
          "description" : "IM Irina Bulmaga won the 2022 edition of the Romania rapid chess championship. She collected 7,5/9 and scored clear first ahead of WGM Elena-Luminita Cosma with 7,0/9 and WGM Mihaela Sandu, IM Corina-Isabela Peptan, and WIM Silvia-Raluca Sgircea with 6,5/9. Romania women chess championship 2022 standings 1 IM Bulmaga Irina&#160; 2227 7,5 2 WGM Cosma []",
@@ -1314,14 +1386,6 @@ news_feed (
          "title" : "Women's Day fundraiser for Ukraine"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Nb3gqx7huNs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-round-6/",
-         "pubDate" : "Mon, 07 Mar 2022 14:50:51 +0000",
-         "title" : "FIDE Grand Prix in Belgrade: Round 6"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1586,14 +1650,6 @@ news_feed (
          "title" : "Salinas Herrera and Gomez Barrera win Chilean Championships"
       },
       {
-         "description" : "The Grand Chess Tour has joined other organisers in banning former World Championship challenger Sergey Karjakin from taking part in their tournaments, and say of the Russian 32-year-old that \"we can no longer associate our organization with him\". The ban is another blow for the world number 18, who also faces a FIDE ethics case and risks being thrown out of the Candidates Tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/grand-chess-tour-bans-sergey-karjakin",
-         "pubDate" : "Fri, 04 Mar 2022 20:16:53 +0000",
-         "title" : "Grand Chess Tour joins organisers in Sergey Karjakin ban"
-      },
-      {
          "description" : "The fourth round of the FIDE Grand Prix Belgrade saw seven draws and only one win, nearly everything remained at a status quo. This means that GMs Sam Shankland and Dmitry Andreikin remain in the lead in Group A. In Group B, GM Anish Giri retain...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1616,14 +1672,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-never-move-the-queen-out-early",
          "pubDate" : "Fri, 04 Mar 2022 17:00:00 +0100",
          "title" : "Daniel King's Power Play Show: \"Never move the queen out early\""
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>ECU</strong> has suspended the <strong>Chess Federation of Russia</strong> and <strong>Belarusian Chess Federation</strong> with immediate effect: No events can take place there, no officials will get any role and no teams can participate in ECU events. Individuals can only participate if they change the federation or participate under the <strong>FIDE</strong> flag. Players should contact federations@fide.com </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/ecu-suspends-russia-and-belarus/",
-         "pubDate" : "Fri, 04 Mar 2022 15:36:58 +0100",
-         "title" : "ECU suspends Russia and Belarus"
       },
       {
          "description" : "The highlight of day 3 at the FIDE Grand Prix in Belgrade was Richard Rapport's victory over Vidit Gujrathi. The Hungarian thus caught his round-3 opponent in the lead of pool C. The one other decisive result on Thursday was seen in the same group, as Vladimir Fedoseev got the better of Alexei Shirov. Anish Giri played a remarkable queen sacrifice against Pentala Harikrishna - the game finished in a draw. | Photos: Mark Livshitz",
@@ -1650,28 +1698,12 @@ news_feed (
          "title" : "Dual Seminar kick starts in Bengaluru & Shimla (04-06 March 2022 )"
       },
       {
-         "description" : "The MPL National Sub-Junior and National Sub-Junior Girls Chess Championship 2022 began at IGI Stadium ,New Delhi . The five day long championship has been",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/rolliking-start-to-mpl-national-sub-junior-and-national-sub-junior-girls-chess-championship-2022/",
-         "pubDate" : "Fri, 04 Mar 2022 12:55:10 +0000",
-         "title" : "Rolliking start to MPL National Sub-Junior and National Sub-Junior Girls Chess Championship 2022"
-      },
-      {
          "description" : "The world is witnessing a catastrophe in Ukraine. Many of us are also anxious over the safety and well-being of chess players in the war-torn land. News on their current situation is coming in, but it is not enough to address all our concerns about them. We would be better placed to offer sympathy and help to players in Ukraine if we share information on their plight. It is in this spirit that our columnist has made the appeal to readers here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/an-appeal-to-readers",
          "pubDate" : "Fri, 04 Mar 2022 13:41:00 +0100",
          "title" : "An appeal to readers"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Let's rename the King's Indian after the country where this heroic opening was developed. The country that is defending our liberty. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/2022/ukrainian-defence.1920.png\" title=\"Ukrainian Defence Illustration: Gustaf Mossakowski, Diagram by lichess\" data-title=\"Ukrainian Defence (Illustration: Gustaf Mossakowski, Diagram by lichess)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/2022/ukrainian-defence.480.png\" alt=\"Ukrainian Defence\" srcset=\"https://www.chesstech.org/files/2022/ukrainian-defence.480.png 1x, https://www.c",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/ukrainian-defence/",
-         "pubDate" : "Fri, 04 Mar 2022 13:14:16 +0100",
-         "title" : "Ukrainian Defence"
       },
       {
          "description" : "Levon Aronian, is the \"hero\" of ChessBase Magazine #206. In the new issue, our authors - David Navara, Adhiban Baskaran and Romain Edouard among others - comment on their favourite games of the top player. This has resulted in a collection of 19 special encounters from 1994 (U12 World Championship!) to 2021. In addition, Mihail Marin's contribution is entitled \"Levon Aronian's strategic universe\" and Karsten Mueller presents a selection of the Armenian's best endgames. You can watch the video from Mueller's endgame contribution as well as Adrien Demuth's analysis of the game Aronian-Ponomariov (Lausanne 2001) here - enjoy!",
@@ -1728,14 +1760,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/mar/03/chess-india-makes-olympiad-bid-while-sergey-karjakin-shunned-after-invasion",
          "pubDate" : "Thu, 03 Mar 2022 18:52:26 +0000",
          "title" : "Chess: India makes Olympiad bid while Sergey Karjakin shunned after invasion"
-      },
-      {
-         "description" : "Forty-four top Russian chess players published an open letter to the President of the Russian Federation, Vladimir Putin, voicing firm opposition to the war in Ukraine and expressing solidarity with the people of Ukraine. Signees include the most ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/stop-the-war-44-top-russian-players-publish-open-letter-to-putin",
-         "pubDate" : "Thu, 03 Mar 2022 09:37:00 -0800",
-         "title" : "'Stop the war.' 44 Top Russian Players Publish Open Letter To Putin"
       },
       {
          "description" : "This week Robert Ris takes a look at a miniature played at the highest level: at the Airthings Masters Online Rapid Tournament World Champion Magnus Carlsen defeated Jan-Krzysztof Duda with a swift attack and won a short and instructive game. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2376,14 +2400,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/regional-representation.html",
          "pubDate" : "Wed, 23 Feb 2022 13:18:00 +0000",
          "title" : "Regional Representation"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89771353.cms\" />Prime Minister Narendra Modi has taken note of R Praggnanandhaa's monumental victory over world champion Magnus Carlsen, saying the entire country is rejoicing in the success of the young genius.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/proud-of-praggnanandhaas-accomplishment-of-winning-against-carlsen-pm-narendra-modi/articleshow/89771353.cms",
-         "pubDate" : "Wed, 23 Feb 2022 15:12:29 +0530",
-         "title" : "Proud of Praggnanandhaa's accomplishment of winning against Carlsen: PM Narendra Modi"
       }
    ]
 }
