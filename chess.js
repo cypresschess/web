@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 11 to 13 March the Romanian Rapid, Blitz and Solving Championships took place in Bucharest, at the \"Pentagon Events\" venue and attracted a record number of 212 participants, 163 in the Open section and 49 in the Women's section. Irina Bulmaga (pictured), who won the Solving and the Rapid event, reports. | Teaser Photo: David Llada > All other photos: Florin Ardelean / We Love Sport",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-joys-of-chess-the-romanian-blitz-rapid-and-solving-championships",
+         "pubDate" : "Wed, 16 Mar 2022 15:00:00 +0100",
+         "title" : "The joys of chess: The Romanian Blitz, Rapid and Solving Championships"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90273747.cms\" />The 44th Chess Olympiad, to be held in Mahabalipuram about 58 km from here, would see participation of over 150 countries and the tourney would be the biggest-ever sports event to have happened in India, Tamil Nadu Chief Minister M K Stalin said on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/over-150-countries-to-take-part-in-44th-chess-olympiad-says-tamil-nadu-cm-stalin/articleshow/90273747.cms",
+         "pubDate" : "Wed, 16 Mar 2022 19:19:02 +0530",
+         "title" : "Over 150 countries to take part in 44th Chess Olympiad, says TN CM"
+      },
+      {
+         "description" : "Taking into account the current recommendations of the IOC, the FIDE Council suspends the national teams of Russia and Belarus from participation in official FIDE tournaments until further notice. In the individual tournaments of the FIDE World Championship cycle, players from these countries will be able to participate under the FIDE flag. FIDE also commented, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/russia-and-belarus-chess-teams-suspended-from-fide-competitions/",
+         "pubDate" : "Wed, 16 Mar 2022 12:43:55 +0000",
+         "title" : "Russia and Belarus chess teams suspended from FIDE competitions"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90271347.cms\" />World chess governing body FIDE on Wednesday suspended Russia and Belarus from all its tournaments until further notice due to the invasion of Ukraine, jeopardising the two countries' participation in the 44th Chess Olympiad in India later this year.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-body-fide-suspends-russia-and-belarus-from-its-official-events/articleshow/90271347.cms",
+         "pubDate" : "Wed, 16 Mar 2022 17:37:04 +0530",
+         "title" : "World chess body FIDE suspends Russia and Belarus from its official events"
+      },
+      {
          "description" : "The Certificates for NATIONAL SENIOR CHESS CHAMPIONSHIPS 25 FEB-03 MARCH 2022 are now available for download. You can download the certificate from the following link",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -16,6 +48,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/chennai-wins-right-to-host-2022-world-chess-olympiad",
          "pubDate" : "Wed, 16 Mar 2022 10:36:07 +0000",
          "title" : "Chennai wins right to host 2022 Chess Olympiad"
+      },
+      {
+         "description" : "The 'World Cup of Chess' will take place in Chennai in July-August this year.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33515785/india-confirmed-2022-chess-olympiad-hosts-all-need-know?device=featurephone",
+         "pubDate" : "Wed, 16 Mar 2022 05:18:09 -0500",
+         "title" : "India confirmed as 2022 Chess Olympiad hosts: All you need to know"
       },
       {
          "description" : "",
@@ -34,14 +74,6 @@ news_feed (
          "title" : "FIDE International Organisers Online Seminar with ECU"
       },
       {
-         "description" : "The 'World Cup of Chess' will take place in Chennai in July-August this year.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33515785/india-confirmed-2022-chess-olympiad-hosts-all-need-know?device=featurephone",
-         "pubDate" : "Wed, 16 Mar 2022 04:51:37 -0500",
-         "title" : "India confirmed as 2022 Chess Olympiad hosts: All you need to know"
-      },
-      {
          "description" : " Indian <a href=\"https://www.youtube.com/channel/UCpjTx5WsF4yqyvGIYY8nuVg\">GM Vidit Santosh Gujrathi</a>, the star of the recently concluded FIDE Grand Prix Series in Berlin and Belgrade, has become the first <a href=\"https://chessarena.com\">FIDE Online Arena</a> ambassador. Arena users will see Vidit supporting young talent on the platform, live streaming and playing online tournaments starting from March 2022. Vidit will also surprise some users with personal congratulations for achieving FOA titles, approved by FIDE. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/IhEmKZSOExM?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Vidit is t",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -50,7 +82,7 @@ news_feed (
          "title" : "Vidit Santosh Gujrathi Becomes the FIDE Online Arena Ambassador"
       },
       {
-         "description" : "The 44th FIDE Chess Olympiad will be held this summer in Chennai,&#38;nbsp;Tamil Nadu, India. This was announced at a press conference in Chennai on Wednesday, after the FIDE Council had approved the city&#39;s bid the night before. Originally, the event ...",
+         "description" : "The 44th FIDE Chess Olympiad will be held this summer in Chennai,&#38;nbsp;Tamil Nadu, India. This news was announced at a press conference in Chennai on Wednesday, after the FIDE Council had approved the city&#39;s bid the night before. Originally, the e...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chennai-to-host-2022-fide-chess-olympiad",
@@ -408,14 +440,6 @@ news_feed (
          "link" : "https://www.europechess.org/solidarity-fund-for-ukrainechess/",
          "pubDate" : "Mon, 14 Mar 2022 08:51:01 +0000",
          "title" : "Solidarity Fund for #UkraineChess"
-      },
-      {
-         "description" : "IM David Gavrilescu (ELO 2431) is the rapid chess champion of Romania. He won the 2022 competition with 8,0/9, half a point ahead of GM Constantin Lupulescu (ELO 2623), Teodor-Cosmin Nedelcu (ELO 2000), and IM Alexandru-Vasile David (ELO 2368). IM David Gavrilescu is just 19 years old and a part of a large youth wave []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/david-gavrilescu-is-rapid-chess-champion-of-romania/",
-         "pubDate" : "Mon, 14 Mar 2022 08:25:58 +0000",
-         "title" : "David Gavrilescu is rapid chess champion of Romania"
       },
       {
          "description" : "A win with white in Sunday's second game of the final gave Richard Rapport tournament victory at the second leg of the FIDE Grand Prix in Belgrade. Rapport beat Dmitry Andreikin after rejecting a draw by triple repetition in a double-edged position. This victory, combined with his reaching the semifinals in the first leg of the series, places him as a clear favourite to get a spot in the Candidates Tournament. | Photos: Mark Livshitz",
@@ -1954,14 +1978,6 @@ news_feed (
          "title" : "Indian IM in Ukraine manages to reach Poland"
       },
       {
-         "description" : "From 23rd to 27th February a strong international Open took place in Kragero, Norway. After nine rounds Dutch Grandmaster Lucas van Foreest and GM Boris Chatalbashev from Denmark shared first place but van Foreest won the tournament on tiebreak. | Photo: (from left to right) Geir Sune Tallaksen Ostmoe, Chatalbashev, van Foreest | Photos: Chess Club Kragero",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lucas-van-foreest-wins-kragero-resort-international",
-         "pubDate" : "Wed, 02 Mar 2022 09:48:26 +0100",
-         "title" : "Lucas van Foreest wins Kragero Resort International"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89941175.cms\" />The All India Chess Federation (AICF), which will be bidding to host the 44th edition of the Chess Olympiad later this year, has submitted its guarantee of USD 10 million to the world body, FIDE.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2392,14 +2408,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/new-ecf-manager-of-arbiters-2/",
          "pubDate" : "Wed, 23 Feb 2022 15:30:09 +0000",
          "title" : "New ECF Manager of Arbiters"
-      },
-      {
-         "description" : " Mark Scully, sometime chess player, sometime lawyer, once wrote that in times long past, the earth consisted of at least 10,000 independent territories. This has now been reduced to around 195, give or take a few self declared/non recognised territories (eg <a href=\"https://en.wikipedia.org/wiki/Principality_of_Hutt_River\">Principality of Hutt River</a>) FIDE have slightly less member nations, although they have extended membership to a number of non-country federations The International Correspondence Chess Federation follow a similar model. However, with Correspondence Chess less constrained by travel, they also organise events for 'States and Regions'. A multi divisional championship of ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/regional-representation.html",
-         "pubDate" : "Wed, 23 Feb 2022 13:18:00 +0000",
-         "title" : "Regional Representation"
       }
    ]
 }
