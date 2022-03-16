@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has followed the recommendations of the International Olympic Committee and excluded the teams of Russia and Belarus from participating in all official FIDE tournaments.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russia-and-belarus-teams-suspended-from-fide-competitions",
+         "pubDate" : "Wed, 16 Mar 2022 21:52:33 +0100",
+         "title" : "Russia and Belarus teams suspended from FIDE competitions"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Chess Instructor Dr. Dirk Downing talks about his students at Jennings Junior High School in Saint Louis. The students describe the benefits of the scholastic chess program. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-life-jennings-junior-high-school\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Zq6kZHHeEAU.jpg?itok=qcPRUH3Z\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1976,14 +1984,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/good-technique.html",
          "pubDate" : "Wed, 02 Mar 2022 12:27:00 +0000",
          "title" : "Good Technique"
-      },
-      {
-         "description" : "The love of most chess players for the bishop-pair is both strong and irrational. We all know that having the \"bishop-pair\" advantage should be beneficial, but - as discussed in the previous part of The Winning Academy - we barely know how to make full use of them. I would like to show you how this irrational love for the two bishops leads to poor practical decisions. The price players are willing to pay for the bishop-pair is quite often far too high. An arm and a leg. And more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-6-hypnotised-by-the-bishops",
-         "pubDate" : "Wed, 02 Mar 2022 12:00:00 +0100",
-         "title" : "The Winning Academy 6: Hypnotised by the bishops"
       },
       {
          "description" : "The chess International Master went through the uncrowded Dołhobycz&oacute;w-Uhryniv border and is now headed to Warsaw.",
