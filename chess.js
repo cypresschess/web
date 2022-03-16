@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " FIDE have just taken the decision to exclude teams from Russia and Belarus in any official FIDE team competition, at least for the foreseeable future. The most obvious effect of this decision is that both countries will not be able to take part in the upcoming chess Olympiad. This decision does not effect individual players, although in that case, the players themselves are required to play under the FIDE flag (or change federations). In terms of how this effects the Olympiad itself, the loss of the Russian team does make it a little easier for other countries. However it is worth noting that Russia last won the Olympiad in 2002, while countries like Armenia, China and Ukraine have won it m",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/russia-out.html",
+         "pubDate" : "Wed, 16 Mar 2022 21:49:00 +0000",
+         "title" : "Russia Out"
+      },
+      {
+         "description" : "The most exciting matches so far of the 2022 Bullet Chess Championship presented by DigitalOcean&#38;nbsp;were in full swing today, headlined by a clash between bullet titans GM Hikaru Nakamura and GM Andrew Tang. With both players neck and neck until...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-bullet-chess-championship-winners-final-losers-semifinals-nakamura-wins",
+         "pubDate" : "Wed, 16 Mar 2022 14:20:28 -0700",
+         "title" : "Bullet Chess Championship: Nakamura Advances To Grand Finals"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its Spring season. Join NM Caleb Denby for the move-by-move. 2022.04.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-corporate-chess-league-virtual-spring-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/A4bMrb7ABw0.jpg?itok=7ISbr2OC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-corporate-chess-league-virtual-spring-4",
+         "pubDate" : "Wed, 16 Mar 2022 21:04:56 +0000",
+         "title" : "2022 Saint Louis Corporate Chess League: Virtual Spring #4"
+      },
+      {
          "description" : "FIDE has followed the recommendations of the International Olympic Committee and excluded the teams of Russia and Belarus from participating in all official FIDE tournaments.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -898,14 +922,6 @@ news_feed (
          "title" : "2022 Spring Chess Classic: Harshit Raja Interview | Round 9"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Sam Sevian talks to our hosts after his playoff game in the Spring Chess Classic. 2022.03.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-sam-sevian-interview-playoff\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/X8okNYC8gBE.jpg?itok=92vXRy9f\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-sam-sevian-interview-playoff",
-         "pubDate" : "Fri, 11 Mar 2022 02:58:40 +0000",
-         "title" : "2022 Spring Chess Classic: Sam Sevian Interview | Playoff"
-      },
-      {
          "description" : "Maxime Vachier-Lagrave got good winning chances but could not bounce back in his match against Richard Rapport at the semifinals of the FIDE Grand Prix in Belgrade. Rapport's resilient defence made him the first finalist of the event. The Hungarian will get a rest day before facing either Anish Giri or Dmitry Andreikin in the final. Giri and Andreikin drew both their semifinal games and will play a rapid and blitz tiebreaker on Friday. | Photos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1712,14 +1728,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-round-4",
          "pubDate" : "Fri, 04 Mar 2022 11:54:00 -0800",
          "title" : "FIDE Grand Prix Belgrade Report Day 4: MVL Wins, Takes Lead In Group D"
-      },
-      {
-         "description" : "The Collegiate Chess League&#39;s third week concluded last weekend, and the matches were packed with brilliant games filled with tactics and sacrifices. Now that we are deeper into the season, the matches are also becoming more closely contested with...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-round-3",
-         "pubDate" : "Fri, 04 Mar 2022 11:35:36 -0800",
-         "title" : "Collegiate Chess League Season 4 Round 3"
       },
       {
          "description" : "\"Never move the queen out early\", runs the old maxim. And yet... In his Power Play Show, GM Daniel King examines two cases from the FIDE Grand Prix tournament in Belgrade where, in the open Sicilian, White plays an early queen move. Neither is ridiculous, at least theoretically... | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
