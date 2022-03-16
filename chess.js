@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Council has approved today the bid presented by the All India Chess Federation (AICF) to host the 2022 Chess Olympiad in Chennai, the capital of the Tamil Nadu state. The exact schedule is still being discussed and will be announced in the coming days, but the event will take place between the end of July and the beginning of August, not very far off from the dates originally planned.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-to-host-the-2022-chess-olympiad",
+         "pubDate" : "Wed, 16 Mar 2022 02:50:00 +0100",
+         "title" : "Chennai to host the 2022 Chess Olympiad"
+      },
+      {
          "description" : " The FIDE Council have confirmed Chennai as the new host city for the 2022 Chess Olympiad. The exact dates for the Olympiad have not yet been announced, but the organisers have said it will still be late July to early August, in line with the previous dates. The venue will be the Sheraton Mahabalipuram, which is about an hour south of Chennai, with teams staying in the various hotels located in that area. Exact details will be announced shortly. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1960,14 +1968,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/senior-national-chess-arjun-erigaisi-beats-pranav-enjoys-sole-lead/articleshow/89930180.cms",
          "pubDate" : "Tue, 01 Mar 2022 22:08:18 +0530",
          "title" : "Senior national chess: Arjun Erigaisi beats Pranav; enjoys sole lead"
-      },
-      {
-         "description" : "Tata Steel 2022 is the top tournament in ChessBase Magazine #206, with Jan-Krzysztof Duda, Arjun Erigaisi, Anish Giri, Nils Grandelius, Shakhriyar Mamedyarov, Praggnanandhaa Rameshbabu, Sam Shankland and Roven Vogel commenting on their best games from Wijk aan Zee. In addition, Peter Heine Nielsen and Dorian Rogozenco (video) analyse two Catalan wins by the World Champion and clear tournament winner. \"The Analysis\" of the issue this time is contributed by Nils Grandelius, who got the chance to test his \"own invention\" against Magnus Carlsen. Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-the-way-i-like-it-most",
-         "pubDate" : "Tue, 01 Mar 2022 17:00:00 +0100",
-         "title" : "\"Chess the way I like it most\""
       },
       {
          "description" : "The second leg of the 2022 FIDE Grand Prix Series opened yesterday in Belgrade, and the first round kicked off today in the Crown Plaza Belgrade Hotel. Minister of Youth and Sports of Serbia Mr. Vanja Udovicic and President of Serbian Chess Federation Mr. Dragan Lazic made the first ceremonial move in the game between Richard Rapport and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/2nd-leg-of-fide-grand-prix-2022-starts-in-belgrade/\">Read More &#187;</a></span>",
