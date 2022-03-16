@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Chess Union congratulates to its President, Mr. Zurab Azmaiparashvili on his 62nd anniversary. We wish him a day filled with joy, years full of success and all his dreams to come true! Mr. Zurab Azmaiprashvili was born in Tbilisi, Georgia on 16th March of 1960, and started a rising chess career by winning the Championship of Georgia&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-congratulates-to-its-president-mr-zurab-azmaiparashvili-on-his-birthday-anniversary/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-congratulates-to-its-president-mr-zurab-azmaiparashvili-on-his-birthday-anniversary/",
+         "pubDate" : "Wed, 16 Mar 2022 06:13:35 +0000",
+         "title" : "ECU congratulates its President Mr Zurab Azmaiparashvili on his 62nd birthday anniversary!"
+      },
+      {
          "description" : "The FIDE Council has approved today the bid presented by the All India Chess Federation (AICF) to host the 2022 Chess Olympiad in Chennai, the capital of the Tamil Nadu state. The exact schedule is still being discussed and will be announced in the coming days, but the event will take place between the end of July and the beginning of August, not very far off from the dates originally planned.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,6 +176,14 @@ news_feed (
          "link" : "https://www.chessdom.com/daniel-dardha-is-the-young-chess-star-at-2-festival-di-primavera/",
          "pubDate" : "Tue, 15 Mar 2022 07:04:15 +0000",
          "title" : "Daniel Dardha is the young chess star at 2 ° Festival di Primavera"
+      },
+      {
+         "description" : "The \"Chess for Mental Health\" international event was held on 9 March 2022 in Paris. According to the speakers, many recent studies have already highlighted the benefits of playing chess to support the development of children with autism spectrum disorders, the DYS (dyslexia, dyspraxia, dyscalculia) or attention and hyperactivity disorders.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ffe-chess-for-mental-health-2022",
+         "pubDate" : "Tue, 15 Mar 2022 08:00:00 +0100",
+         "title" : "FIDE and FFE host international conference \"Chess for Mental Health\""
       },
       {
          "description" : " The FIDE Grand Prix Leg 2 took place in Belgrade Tuesday 1st to Monday 14th Mar 2022. There are group stages 4 players 6 rounds, the winners of each group then play the knockout phase. Players: Grischuk, Andreikin, Shankland, Bacrot, Rapport, Vidit, Fedoseev, Shirov, Giri, Vitiugov, Harikrishna, Tabatabaei, Mamedyarov, MVL, Yu Yangyi and Predke. This is the second of three such events. Nakamura won the first, the final leg is back in Berlin Mon 21st Mar to Mon 4th Apr 2022. Richard Rapport beat Dmitry Andreikin in the final to all but confirm a Candidates place. He reached the semifinals in the first event and will have to wait on the results of the final leg.",
@@ -1938,14 +1954,6 @@ news_feed (
          "title" : "Divya set to become senior national chess champion"
       },
       {
-         "description" : "Half the games ended decisively on opening day at the second leg of the FIDE Grand Prix in Belgrade. Dmitry Andreikin and Vidit Gujrathi are leading their pools after beating Alexander Grischuk and Alexei Shirov respectively. Meanwhile, both games finished decisively in pool C, with Anish Giri and Nikita Vitiugov scoring full points in the first round. Two draws were seen in pool D. | Photos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-r1",
-         "pubDate" : "Wed, 02 Mar 2022 04:45:00 +0100",
-         "title" : "Belgrade GP: Andreikin stuns Grischuk"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2376,22 +2384,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/proud-of-praggnanandhaas-accomplishment-of-winning-against-carlsen-pm-narendra-modi/articleshow/89771353.cms",
          "pubDate" : "Wed, 23 Feb 2022 15:12:29 +0530",
          "title" : "Proud of Praggnanandhaa's accomplishment of winning against Carlsen: PM Narendra Modi"
-      },
-      {
-         "description" : "Praggnanandhaa scored five wins from 15 rounds, drew four games and lost six.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33351468/r-praggnanandhaa-misses-quarterfinals-finishing-11th-airthings-masters?device=featurephone",
-         "pubDate" : "Wed, 23 Feb 2022 00:25:41 -0500",
-         "title" : "Airthings Masters: Praggnanandhaa misses out on quarterfinals after finishing 11th"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89763879.cms\" />Indian Grandmaster R Praggnanandhaa defeated Russia's Vladislav Artemiev in the 15th and final round of the preliminary phase of the Airthings Masters, an online rapid chess tournament, but missed out on qualifying for the quarterfinals.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-finishes-11th-in-airthings-masters-misses-out-on-quarterfinals/articleshow/89763879.cms",
-         "pubDate" : "Wed, 23 Feb 2022 10:06:00 +0530",
-         "title" : "R Praggnanandhaa finishes 11th in Airthings Masters, misses out on quarterfinals"
       }
    ]
 }
