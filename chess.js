@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1639",
+         "pubDate" : "Thu, 17 Mar 2022 14:15:18 +0000",
+         "title" : "Second workshop on increasing inner strength to be held on March 27"
+      },
+      {
+         "description" : " Share! The FIDE Chess Olympiad will be held later this year in Chennai, India according to a FIDE press release. The decision was made by the FIDE Council yesterday after postponing the event in the aftermath of the invasion of Ukraine by Russian forces. FIDE President Nigel Short announced via Twitter, &#8220;Due to the deteriorating [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/17/india-to-host-fide-chess-olympiad/\">India to host FIDE Chess Olympiad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/03/17/india-to-host-fide-chess-olympiad/",
+         "pubDate" : "Thu, 17 Mar 2022 13:54:52 +0000",
+         "title" : "India to host FIDE Chess Olympiad"
+      },
+      {
+         "description" : "Studying \"Black to play and defend positions\" teaches chess students how to recognize and stop threats. For example, coaches may ask beginners to find ways to stop a back rank mate or the Scholar's Mate. Flipping the board may also help with high-level analysis. National Master Jeffrey Ashton explains how to create positions where the Black chessmen are on the bottom of the diagram, which gives Black's perspective.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-for-coaches-defending-with-black",
+         "pubDate" : "Thu, 17 Mar 2022 14:00:00 +0100",
+         "title" : "ChessBase for Coaches: Defending with Black"
+      },
+      {
          "description" : "The&#xA0;Charity Chess Cup 2022 is the 2nd event on the Meltwater Champions Chess Tour. Follow the live video coverage of the event, with GM David Howell, IM Jovanka Houska &#38; Kaja Snare More about Charity Cup: Charity Cup 2022 participants / Charity Cup 2022 live / Charity Cup 2022 video",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -426,7 +450,7 @@ news_feed (
          "title" : "Bullet Chess Championship: Nakamura, Tang Reach Winners Final"
       },
       {
-         "description" : " Share! In 2010, I wrote an article titled &#8220;Baraka Shabazz: Black Queen of Chess.&#8221; Seven years later came &#8220;Revisiting Baraka Shabazz,&#8221; in which I cited the brutally candid 1988 article titled \"Ex-Queen's Gambit.\" That article was long before the &#8220;Queen's Gambit&#8221; miniseries but had some eerily similar themes. While the series highlighted the rise of [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/14/promoting-to-a-black-chess-queen/\">Promoting to a Black Chess Queen</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " In 2010, I wrote an article titled &#8220;Baraka Shabazz: Black Queen of Chess.&#8221; Seven years later came &#8220;Revisiting Baraka Shabazz,&#8221; in which I cited the brutally candid 1988 article titled \"Ex-Queen's Gambit.\" That article was long before the &#8220;Queen's Gambit&#8221; miniseries but had some eerily similar themes. While the series highlighted the rise of Beth [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/14/promoting-to-a-black-chess-queen/\">Promoting to a Black Chess Queen</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/03/14/promoting-to-a-black-chess-queen/",
@@ -1906,14 +1930,6 @@ news_feed (
          "title" : "Game of the Week #505: A. Grischuk vs D. Andreikin"
       },
       {
-         "description" : "Due to the current events, Lawrence and Arne decided to show this episode from early February today, instead of last week. Lawrence built his setup up in Barcelona, and shows us some golden Keres tactics right from the openings. The more often we keep repeating, and recognizing the patterns, the better we will get. In the tactics training, we slowly move towards 2500.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-15",
-         "pubDate" : "Thu, 03 Mar 2022 08:29:47 +0100",
-         "title" : "Trent's Tactics - Paul Keres masters openings"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89960546.cms\" />Much like the Khadilkar sisters' dominance from 1974-83 and a 16-year-old Humpy's achievement in 2003, Divya did the unthinkable at the 47th National Women's Chess Championship in Bhubaneshwar on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2368,30 +2384,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1597",
          "pubDate" : "Thu, 24 Feb 2022 22:04:23 +0000",
          "title" : "Carlsen and Nepomniachtchi set up final"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1596",
-         "pubDate" : "Thu, 24 Feb 2022 15:18:21 +0000",
-         "title" : "Statement of FIDE Council regarding official FIDE chess competitions and events in Russia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1595",
-         "pubDate" : "Thu, 24 Feb 2022 13:57:24 +0000",
-         "title" : "FIDE PDC continental meeting held in Kampala, Uganda"
-      },
-      {
-         "description" : " Modern Opening Chess Theory (MOCT) was a publication that covered various events in the 1960's and 70'. I picked up a copy of issue No. 104, which covered the 1969 Palma de Mallorca tournament, and was written by Bob Wade. The tournament was probably the strongest event in 1969 ( it included Spassky, Petrosian, and Korchnoi), but was won by Bent Larsen. What was remarkable about this was that he started with 2 losses and was only on 2/5, after losing a 3rd game. He then scored 10/12 to finish outright 1st on 12/17. Petrosian finished 2nd on 11.5, although the 14 move final round draw showed he was content with 2nd, rather than fighting for 1st Here is the 1st game for Larsen in the event, w",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/slow-start-strong-finish.html",
-         "pubDate" : "Thu, 24 Feb 2022 12:18:00 +0000",
-         "title" : "Slow start, strong finish"
       }
    ]
 }
