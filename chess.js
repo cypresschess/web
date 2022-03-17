@@ -5,6 +5,46 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1640",
+         "pubDate" : "Thu, 17 Mar 2022 16:45:45 +0000",
+         "title" : "Workshop: How to Teach Pawn Endings by Artur Jussupow"
+      },
+      {
+         "description" : "Hungary&#x2019;s top star&#xA0;Richard Rapport, the&#xA0;winner of the recent FIDE Grand Prix, gives an exclusive interview to Dina Belenkaya and WorldChess on how chess came into his life, his attitude to pre-arranged draws, his regrets and joys of being a professional chess player and more. Richard Rapport will also make his debut in the Meltwater Champions []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/richard-rapport-in-an-interview-with-worldchess-and-dina-belenkaya/",
+         "pubDate" : "Thu, 17 Mar 2022 16:23:36 +0000",
+         "title" : "Richard Rapport in an interview with WorldChess and Dina Belenkaya"
+      },
+      {
+         "description" : "The rapid and blitz championships of Romania for men and women took place 11-13 March in Bucharest. A total of 150+ players in the open section and 50 players in the women section competed over the board for the 2022 national titles. The many times Romanian champion Constantin Lupulescu won the open blitz and got []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/romania-crowns-rapid-and-blitz-chess-champions/",
+         "pubDate" : "Thu, 17 Mar 2022 16:01:18 +0000",
+         "title" : "Romania crowns rapid and blitz chess champions"
+      },
+      {
+         "description" : "IM Corina-Isabela Peptan is winner of Romanian Blitz Chess Championship 2022. IM Peptan won the blitz event with 8,0/9, half a point ahead of the winner of the rapid championship IM Irina Bulmaga. The bronze is for WGM Elena-Luminita Cosma with 7,0/9. Final standings 1 IM Peptan Corina-Isabela&#160; 2293 8 2 IM Bulmaga Irina&#160; 2184 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-corina-isabela-peptan-is-the-romania-blitz-chess-champion-2022/",
+         "pubDate" : "Thu, 17 Mar 2022 15:44:21 +0000",
+         "title" : "IM Corina-Isabela Peptan is the Romania Blitz Chess Champion 2022"
+      },
+      {
+         "description" : "GM Constantin Lupulescu is the winner of the Romanian Blitz Chess Championship 2022. Lupulescu scored 7,5/8, the same points as GM Daniel-Bogdan Deac, GM Vlad-Christian Jeanu, and GM Ciprian-Costica Nanu, but had a better tiebreak score and won the gold medal. The winner of the rapid chess championship David Gavrilescu finished 5th with 7.0/9. Final []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-constantin-lupulecu-is-the-romania-blitz-chess-champion-2022/",
+         "pubDate" : "Thu, 17 Mar 2022 15:36:41 +0000",
+         "title" : "GM Constantin Lupulecu is the Romania Blitz Chess Champion 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1639",
          "pubDate" : "Thu, 17 Mar 2022 14:15:18 +0000",
          "title" : "Second workshop on increasing inner strength to be held on March 27"
@@ -338,14 +378,6 @@ news_feed (
          "title" : "Magnus Carlsen tops field for Charity Cup, a UNICEF fundraiser"
       },
       {
-         "description" : "The International Committee of the Mediterranean Games (ICMG)&#xA0; held &#xA0;its ordinary meeting last&#xA0; weekend in Oran, as a part of the city's preparations to host the 19th edition of the Mediterranean Games this&#xA0;summer. Among others, the Committee made a very important decision related to chess. The 2022 Mediterranean Games, officially known as the 19th Mediterranean []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mediterranean-games-2022-to-feature-chess/",
-         "pubDate" : "Tue, 15 Mar 2022 13:04:01 +0000",
-         "title" : "Mediterranean games 2022 to feature chess"
-      },
-      {
          "description" : "The American magazine \"Mother Jones\", seven times winner of the \"Magazine of the Year\" award from the American Society of Magazine Editors, just published interviews with 36 prominent personalities from the world of chess about the war in Ukraine. One of them is FIDE President and former Russian Deputy Prime Minister Arkady Dvorkovich, who spoke out against the war: \"My thoughts are with Ukrainian civilians. ... Wars do not just kill priceless lives. Wars kill hopes and aspirations, freeze or destroy relationships and connections.\" | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -360,14 +392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sjugirov-wins-gm-tournament-in-belgrade",
          "pubDate" : "Tue, 15 Mar 2022 12:07:04 +0100",
          "title" : "Sanan Sjugirov wins GM tournament in Belgrade"
-      },
-      {
-         "description" : "Shane Battier is a former NBA player who played for Memphis Grizzlies, Huston Rockets, and Miami Heat. Among his many achievements, Shane Battier won two NBA championships with the Miami Heat in 2012 and 2013. Shane Battier is also an avid fan of chess. With a good coach by his side as Maurice Ashley, his []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/shane-battier-is-a-future-chess-star-tweetoftheday/",
-         "pubDate" : "Tue, 15 Mar 2022 10:35:50 +0000",
-         "title" : "Shane Battier is a future chess star #TweetOfTheDay"
       },
       {
          "description" : " &#8220;The human mind isn't a computer; it cannot progress in an orderly fashion down a list of candidate moves and rank them by a score down to the hundredth of a pawn the way a chess machine does. Even the most disciplined human mind wanders in the heat of competition&#8221; GM Garry Kasparov A more <a href=\"https://chessimprover.com/carbon-versus-silicon-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Carbon versus Silicon (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/carbon-versus-silicon-2/\">Carbon versus Silicon (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -410,28 +434,12 @@ news_feed (
          "title" : "Dvorkovich risks Putin wrath by breaking silence on war"
       },
       {
-         "description" : "The 16 years old Daniel Dardha is the young chess star of the 2&#xB0; Festival di Primavera in Cattolica, Emilia-Romagna, Italy. The chess festival takes place March 16-20 and is a 9 rounds Swiss system. GM Daniel Dardha, rated 2540, will have as main competitors GM Jobava Baadur, GM Vitaliy Bernadskiy, GM Sergei Azarov, GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/daniel-dardha-is-the-young-chess-star-at-2-festival-di-primavera/",
-         "pubDate" : "Tue, 15 Mar 2022 07:04:15 +0000",
-         "title" : "Daniel Dardha is the young chess star at 2 ° Festival di Primavera"
-      },
-      {
          "description" : " The FIDE Grand Prix Leg 2 took place in Belgrade Tuesday 1st to Monday 14th Mar 2022. There are group stages 4 players 6 rounds, the winners of each group then play the knockout phase. Players: Grischuk, Andreikin, Shankland, Bacrot, Rapport, Vidit, Fedoseev, Shirov, Giri, Vitiugov, Harikrishna, Tabatabaei, Mamedyarov, MVL, Yu Yangyi and Predke. This is the second of three such events. Nakamura won the first, the final leg is back in Berlin Mon 21st Mar to Mon 4th Apr 2022. Richard Rapport beat Dmitry Andreikin in the final to all but confirm a Candidates place. He reached the semifinals in the first event and will have to wait on the results of the final leg.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/fide-grand-prix-leg-2-belgrade-2022",
          "pubDate" : "Tue, 15 Mar 2022 10:38:00 +0400",
          "title" : "FIDE Grand Prix Leg 2 Belgrade 2022 - Games and Results"
-      },
-      {
-         "description" : "The European Women&#x2019;s Individual Chess Championship 2022 is going to take place from 19th August &#x2013; 1st September in Prague, Czech Republic. The event will be played in 11 rounds, Swiss system, and will have a prize fund of 60 000 eur. This is the 22nd edition of the European Individual Women Chess Championship is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-women-individual-chess-championship-2022/",
-         "pubDate" : "Tue, 15 Mar 2022 06:20:29 +0000",
-         "title" : "European Women Individual Chess Championship 2022"
       },
       {
          "description" : "In London, a match facing David Howell and Nils Grandelius was held at the residence of the Swedish Ambassador. The occasion was the 30th anniversary of Chess & Bridge. The 10-game confrontation was won by Howell. Three games ended decisively, and all of them had plenty to offer chess-wise. | Photo: Chess & Bridge",
