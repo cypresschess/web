@@ -14,7 +14,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-bullet-chess-championship-winners-final-losers-semifinals-nakamura-wins",
-         "pubDate" : "Wed, 16 Mar 2022 14:20:28 -0700",
+         "pubDate" : "Wed, 16 Mar 2022 14:20:00 -0700",
          "title" : "Bullet Chess Championship: Nakamura Advances To Grand Finals"
       },
       {
@@ -2400,22 +2400,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-punished-magnus-carlsen-for-unjustified-risks-is-on-his-way-to-the-top-viswanathan-anand/articleshow/89796609.cms",
          "pubDate" : "Thu, 24 Feb 2022 14:42:18 +0530",
          "title" : "Praggu punished Carlsen for unjustified risks: Vishy Anand"
-      },
-      {
-         "description" : " The 1992 African-American Unity Tournament Series was a novel idea and 30 years later, has never lost its relevance. If there is one aspect of the Hall of Fame career of Maurice Ashley that is overlooked or perhaps underrated, it is his visionary ideas. We know about his ambitious tournaments such as the HB Global [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/23/black-history-month-2022-day-23-ashleys-unity-tournament-series-1992/\">Black History Month 2022-Day 23: Ashley's Unity Tournament Series (1992)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/23/black-history-month-2022-day-23-ashleys-unity-tournament-series-1992/",
-         "pubDate" : "Thu, 24 Feb 2022 01:08:35 +0000",
-         "title" : "Black History Month 2022-Day 23: Ashley's Unity Tournament Series (1992)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1594",
-         "pubDate" : "Thu, 24 Feb 2022 00:23:05 +0000",
-         "title" : "Three Russians power into semis of Airthings Masters"
       }
    ]
 }
