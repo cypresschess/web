@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;Charity Chess Cup 2022 is the 2nd event on the Meltwater Champions Chess Tour. Follow the live video coverage of the event, with GM David Howell, IM Jovanka Houska &#38; Kaja Snare More about Charity Cup: Charity Cup 2022 participants / Charity Cup 2022 live / Charity Cup 2022 video",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/charity-cup-2022-video/",
+         "pubDate" : "Thu, 17 Mar 2022 10:31:11 +0000",
+         "title" : "Charity Cup 2022 VIDEO"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #507, Merijn van Delft takes a look at an entertaining and sharp Dragon Sicilian, in which Alexandr Fier showed that it is possible to sacrifice a lot of material if your attack is strong enough. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-507-a-wild-sicilian-a-pijpers-vs-a-fier",
+         "pubDate" : "Thu, 17 Mar 2022 11:24:21 +0100",
+         "title" : "Game of the Week #507: A wild Sicilian: A. Pijpers vs A. Fier"
+      },
+      {
+         "description" : "The&#xA0;Charity Chess Cup 2022, the 2nd event on the Meltwater Champions Chess Tour, starts this Saturday March 19th and will be featured with live games, video, and detailed coverage on Chessdom.com. Magnus Carlsen, the reigning World Champion, 2021 Tour Champion and&#xA0;winner of the first event of the 2022 Tour, will return along with a total []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/charity-chess-cup-2022-live/",
+         "pubDate" : "Thu, 17 Mar 2022 10:22:51 +0000",
+         "title" : "Charity Chess Cup 2022 LIVE"
+      },
+      {
+         "description" : "The Italian Spring Tour continued with three Swiss tournaments (GM-Mix A, GM-Mix B, and IM-Mix), in which experienced Grandmasters met young talents. The young players were more successful: Arseniy Nesterov from Russia (born 2003) won the GM-Mix A tournament, the Indian Amit Doshi Moksh (born 2003) won the GM-Mix B tournament, and Simon Knudsen (born 1999) from Germany won the IM-Mix tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/italian-spring-tour-young-players-dominate",
+         "pubDate" : "Thu, 17 Mar 2022 10:18:13 +0100",
+         "title" : "Italian Spring Tour: Young players dominate"
+      },
+      {
          "description" : " FIDE have just taken the decision to exclude teams from Russia and Belarus in any official FIDE team competition, at least for the foreseeable future. The most obvious effect of this decision is that both countries will not be able to take part in the upcoming chess Olympiad. This decision does not effect individual players, although in that case, the players themselves are required to play under the FIDE flag (or change federations). In terms of how this effects the Olympiad itself, the loss of the Russian team does make it a little easier for other countries. However it is worth noting that Russia last won the Olympiad in 2002, while countries like Armenia, China and Ukraine have won it m",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -239,7 +271,7 @@ news_feed (
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/chess-olympiad-2022-is-set-to-take-place-in-india-developing-story/",
          "pubDate" : "Tue, 15 Mar 2022 17:46:49 +0000",
-         "title" : "Chess Olympiad 2022 is set to take place in India (developing story)"
+         "title" : "Chess Olympiad 2022 is set to take place in India"
       },
       {
          "description" : "The $1.6 million Meltwater Champions Chess Tour will dedicate its next stage to fundraising for the victims of the war in Ukraine, it was announced today. The Charity Cup, starting March 19, will be the second leg of the world's most prestigious elite online chess event.",
@@ -266,7 +298,7 @@ news_feed (
          "title" : "EP 270- Cody Smith (Adult Improver Series) "
       },
       {
-         "description" : "The Charity Chess Cup 2022, the 2nd event on the Meltwater Champions Chess Tour, starts this Saturday March 19th as a @UNICEF fundraiser for children and their families in and around Ukraine. Charity Cup is the second tournament of the Meltwater Champions Tour 2022. Sixteen of the best chess players on the planet will compete []",
+         "description" : "The Charity Chess Cup 2022, the 2nd event on the Meltwater Champions Chess Tour, starts this Saturday March 19th as a @UNICEF fundraiser for children and their families in and around Ukraine. Follow: Charity Cup 2022 live&#xA0;/&#xA0;Charity Cup 2022 video Charity Cup is the second tournament of the Meltwater Champions Tour 2022. Sixteen of the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/charity-chess-cup-2022/",
@@ -442,14 +474,6 @@ news_feed (
          "title" : "The closing ceremony of the Belgrade Grand Prix"
       },
       {
-         "description" : "We still do not know where the Chess Olympiad 2022 will be, but a positive news came from the European Chess Union today. No matter where the Olympiad will be held, for the first time ever it will feature a women team from Cyprus! The men team of Cyprus has participated a total of 25 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-will-have-a-women-team-from-cyprus-tweetoftheday/",
-         "pubDate" : "Mon, 14 Mar 2022 12:50:15 +0000",
-         "title" : "Chess Olympiad 2022 will have a women team from Cyprus #TweetOftheDay"
-      },
-      {
          "description" : " Miles Patterson (ACT) has won the 2022 Tasmanian Championship Tournament, but not the Tasmanian Championship. Although the tournament is an open event, the state champion title is restricted to local residents. In this case Kevin Bonham and Wynand-Jack Pretorius tied for the title, after finishing equal second. The tournament itself suffered a degree of drama after one of the players had to withdraw on the final morning after testing positive to Covid. A couple of close contacts had to also go into isolation, while a few other players (including the tournament leader) withdrew out of health concerns. The win for Patterson repeats his success from last year, where he also finished outright 1",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -496,14 +520,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-chess-womens-gala/",
          "pubDate" : "Mon, 14 Mar 2022 09:13:26 +0000",
          "title" : "European Chess Women's Gala"
-      },
-      {
-         "description" : "IM Irina Bulmaga won the 2022 edition of the Romania rapid chess championship. She collected 7,5/9 and scored clear first ahead of WGM Elena-Luminita Cosma with 7,0/9 and WGM Mihaela Sandu, IM Corina-Isabela Peptan, and WIM Silvia-Raluca Sgircea with 6,5/9. Romania women chess championship 2022 standings 1 IM Bulmaga Irina&#160; 2227 7,5 2 WGM Cosma []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/irina-bulmaga-is-women-rapid-chess-champion-of-romania/",
-         "pubDate" : "Mon, 14 Mar 2022 09:01:30 +0000",
-         "title" : "Irina Bulmaga is women rapid chess champion of Romania"
       },
       {
          "description" : "ECU establishes a solidarity fund to support Ukrainian chess players participating in the 2022 European Championships and to provide humanitarian aid. The donations by National Chess federations, entities and individuals can be made through the ECU Bank account with the reference #supportukrainechess https://www.europechess.org/regulations/ecu-bank-account/ or online through the ECU website: https://www.europechess.org/ecu-payments-donations/ The fund will be transparently managed by the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/solidarity-fund-for-ukrainechess/\">Read More &#187;</a></span>",
@@ -1954,22 +1970,6 @@ news_feed (
          "title" : "The Master Chess Web Show (3)"
       },
       {
-         "description" : "FIDE published its new World Ranking List. World Champion Magnus Carlsen remains the clear number one but did not make any significant progress towards the 2900 mark - Carlsen gained points by winning in Wijk but lost these points again in one game in the Norwegian league. The winner of the Challengers in Wijk, Arjun Erigaisi, is now among the top 100, and Hikaru Nakamura is back in the top 20.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-march-2022",
-         "pubDate" : "Wed, 02 Mar 2022 17:16:08 +0100",
-         "title" : "FIDE ratings March 2022"
-      },
-      {
-         "description" : "Magnus Carlsen famously stated:\"I Don't Believe in Fortresses\". But obviously, he was referring to positions which look like a fortress, but are nothing else than a \"Papier-mâch&eacute;\". Svitlana shows us some real fortress ideas, positions, how to build them up, and defend them correctly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-32",
-         "pubDate" : "Wed, 02 Mar 2022 17:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - How to build a fortress"
-      },
-      {
          "description" : " Note from Noël: This is a guest post by a Next Level Chess reader who goes by 'Ringofbarahir' on several Chess platforms (Chessable/Chess.com/Lichess). He is an adult chess improver and looks back on his first year in chess. The clarity of his insights struck me and that's why I'm very happy to share the article [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/5-key-lessons-first-year/\">5 Key Lessons I learned In My First Year Playing Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -2392,14 +2392,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/slow-start-strong-finish.html",
          "pubDate" : "Thu, 24 Feb 2022 12:18:00 +0000",
          "title" : "Slow start, strong finish"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89796609.cms\" />Most in the country were asleep when one of India's finest young chess brains created history. The 16-year-old Praggu woke his father up to break the news to him, messaged coach RB Ramesh and enjoyed a few hours of sound sleep before social media started buzzing with his achievement -- a win over world champion Magnus Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-punished-magnus-carlsen-for-unjustified-risks-is-on-his-way-to-the-top-viswanathan-anand/articleshow/89796609.cms",
-         "pubDate" : "Thu, 24 Feb 2022 14:42:18 +0530",
-         "title" : "Praggu punished Carlsen for unjustified risks: Vishy Anand"
       }
    ]
 }
