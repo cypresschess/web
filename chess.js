@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Bullet Chess Championship presented by DigitalOcean&#38;nbsp;reached its conclusion today with a series of edge-of-the-seat finals matches that resulted in GM Hikaru Nakamura being crowned the champion! Nakamura, undefeated across his matches...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-bullet-chess-championship-grand-finals-nakamura-wins",
+         "pubDate" : "Thu, 17 Mar 2022 14:35:00 -0700",
+         "title" : "Bullet Chess Championship: Nakamura Wins Title, Tang Runner-Up"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Georgiev takes viewers into the mind of professional chess player preparing for tournament play. 2022.03.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-gm-vladimir-georgiev-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oP-TREaaBnM.jpg?itok=Ki405n7d\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-vladimir-georgiev-lichessorg",
+         "pubDate" : "Thu, 17 Mar 2022 21:06:38 +0000",
+         "title" : "Prepare Like A Pro - GM Vladimir Georgiev | lichess.org"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -962,14 +978,6 @@ news_feed (
          "title" : "2022 Spring Chess Classic: Aram Hakobyan Interview | Round 9"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Harshit Raja talks to our hosts after his ninth round game in the Spring Chess Classic. 2022.03.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-harshit-raja-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-cH8WaUSECA.jpg?itok=JTjwydOi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-harshit-raja-interview-round-9",
-         "pubDate" : "Fri, 11 Mar 2022 02:58:40 +0000",
-         "title" : "2022 Spring Chess Classic: Harshit Raja Interview | Round 9"
-      },
-      {
          "description" : "Maxime Vachier-Lagrave got good winning chances but could not bounce back in his match against Richard Rapport at the semifinals of the FIDE Grand Prix in Belgrade. Rapport's resilient defence made him the first finalist of the event. The Hungarian will get a rest day before facing either Anish Giri or Dmitry Andreikin in the final. Giri and Andreikin drew both their semifinal games and will play a rapid and blitz tiebreaker on Friday. | Photos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1770,14 +1778,6 @@ news_feed (
          "title" : "Salinas Herrera and Gomez Barrera win Chilean Championships"
       },
       {
-         "description" : "The fourth round of the FIDE Grand Prix Belgrade saw seven draws and only one win, nearly everything remained at a status quo. This means that GMs Sam Shankland and Dmitry Andreikin remain in the lead in Group A. In Group B, GM Anish Giri retain...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-round-4",
-         "pubDate" : "Fri, 04 Mar 2022 11:54:00 -0800",
-         "title" : "FIDE Grand Prix Belgrade Report Day 4: MVL Wins, Takes Lead In Group D"
-      },
-      {
          "description" : "\"Never move the queen out early\", runs the old maxim. And yet... In his Power Play Show, GM Daniel King examines two cases from the FIDE Grand Prix tournament in Belgrade where, in the open Sicilian, White plays an early queen move. Neither is ridiculous, at least theoretically... | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2376,22 +2376,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/24/black-history-month-2022-day-24-frank-street/",
          "pubDate" : "Fri, 25 Feb 2022 02:42:11 +0000",
          "title" : "Black History Month 2022-Day 24: Frank Street"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1593",
-         "pubDate" : "Thu, 24 Feb 2022 23:07:04 +0000",
-         "title" : "FIDE delegation visits Kakuma Refugee Camp in support of Chess for Protection project"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1597",
-         "pubDate" : "Thu, 24 Feb 2022 22:04:23 +0000",
-         "title" : "Carlsen and Nepomniachtchi set up final"
       }
    ]
 }
