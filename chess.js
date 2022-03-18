@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1642",
+         "pubDate" : "Fri, 18 Mar 2022 10:54:26 +0000",
+         "title" : "Isle of Man to host the FIDE Grand Swiss and Women's Grand Swiss 2023"
+      },
+      {
+         "description" : "The Serbian Championship Semi-final is a 9-round Swiss tournament taking place from 17&#x2013;23 March 2022 in Paracin, Serbia. Four players will qualify for the Serbian Chess Championship 2022 which will be played in December 2022. Participants 1 GM Budisavljevic Luka&#160; 2519 2 IM Cabarkapa Novak&#160; 2483 3 GM Zajic Milan&#160; 2450 4 IM Ratkovic []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbian-chess-championship-2022-semifinal/",
+         "pubDate" : "Fri, 18 Mar 2022 09:38:12 +0000",
+         "title" : "Serbian Chess Championship 2022 semifinal"
+      },
+      {
+         "description" : "This week Robert Ris takes a look at the interesting line Richard Rapport used to defeat Gr&uuml;nfeld expert Maxime Vachier-Lagrave in the Gr&uuml;nfeld and reveals a little secret about the move 12.Rc3!? in the Exchange Variation of the Gr&uuml;nfeld that brought Rapport a crucial win. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-line-against-the-gruenfeld-the-winsemius-variation",
+         "pubDate" : "Fri, 18 Mar 2022 10:35:46 +0100",
+         "title" : "Robert Ris' Fast and Furious: A line against the Gr&uuml;nfeld: The Winsemius Variation"
+      },
+      {
+         "description" : " Richard Rapport is near to becoming one of the eight candidates to challenge for Magnus Carlsen's crown, while six-year-old Kushal Jakhria tied for first at the Blackpool U1850 Intermediate despite being the lowest ranked player Richard Rapport is near to claiming one of the two remaining places in the 2022 Candidates after the Hungarian defeated Russia's Dmitry Andreikin 1.5-0.5 in Belgrade in the second-leg final of the Fide Grand Prix. The action now moves to the third and final leg in Berlin from 21 March to 4 April, which Rapport will sit out while his rivals battle. The <a href=\"https://chess24.com/en/watch/live-tournaments/fide-grand-prix-2022-leg-2-knockout/2/1/2\" title=\"\">decisive ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/mar/18/chess-rapport-closes-in-on-candidates-as-six-year-old-steals-show-at-blackpool",
+         "pubDate" : "Fri, 18 Mar 2022 08:00:53 +0000",
+         "title" : "Chess: Rapport closes in on Candidates as six-year-old steals show at Blackpool"
+      },
+      {
          "description" : "The City of Dresden, the Dresdner Schachfestival e.V. and the European Chess Federation (ECU) have the honour to invite all senior players throughout Europe to participate in the&#xA0;European Senior Team Chess Championship 2022&#xA0;(categories 50+ and 65+) organised in Dresden (Germany) from 26th October (arrival) to 5th November 2022 (departure). According to the ECU tournament rules, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -82,22 +114,6 @@ news_feed (
          "title" : "Romania crowns rapid and blitz chess champions"
       },
       {
-         "description" : "IM Corina-Isabela Peptan is winner of Romanian Blitz Chess Championship 2022. IM Peptan won the blitz event with 8,0/9, half a point ahead of the winner of the rapid championship IM Irina Bulmaga. The bronze is for WGM Elena-Luminita Cosma with 7,0/9. Final standings 1 IM Peptan Corina-Isabela&#160; 2293 8 2 IM Bulmaga Irina&#160; 2184 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-corina-isabela-peptan-is-the-romania-blitz-chess-champion-2022/",
-         "pubDate" : "Thu, 17 Mar 2022 15:44:21 +0000",
-         "title" : "IM Corina-Isabela Peptan is the Romania Blitz Chess Champion 2022"
-      },
-      {
-         "description" : "GM Constantin Lupulescu is the winner of the Romanian Blitz Chess Championship 2022. Lupulescu scored 7,5/8, the same points as GM Daniel-Bogdan Deac, GM Vlad-Christian Jeanu, and GM Ciprian-Costica Nanu, but had a better tiebreak score and won the gold medal. The winner of the rapid chess championship David Gavrilescu finished 5th with 7.0/9. Final []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-constantin-lupulecu-is-the-romania-blitz-chess-champion-2022/",
-         "pubDate" : "Thu, 17 Mar 2022 15:36:41 +0000",
-         "title" : "GM Constantin Lupulecu is the Romania Blitz Chess Champion 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -122,28 +138,12 @@ news_feed (
          "title" : "ChessBase for Coaches: Defending with Black"
       },
       {
-         "description" : "The&#xA0;Charity Chess Cup 2022 is the 2nd event on the Meltwater Champions Chess Tour. Follow the live video coverage of the event, with GM David Howell, IM Jovanka Houska &#38; Kaja Snare More about Charity Cup: Charity Cup 2022 participants / Charity Cup 2022 live / Charity Cup 2022 video",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/charity-cup-2022-video/",
-         "pubDate" : "Thu, 17 Mar 2022 10:31:11 +0000",
-         "title" : "Charity Cup 2022 VIDEO"
-      },
-      {
          "description" : "In his \"Game of the Week\" show #507, Merijn van Delft takes a look at an entertaining and sharp Dragon Sicilian, in which Alexandr Fier showed that it is possible to sacrifice a lot of material if your attack is strong enough. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-507-a-wild-sicilian-a-pijpers-vs-a-fier",
          "pubDate" : "Thu, 17 Mar 2022 11:24:21 +0100",
          "title" : "Game of the Week #507: A wild Sicilian: A. Pijpers vs A. Fier"
-      },
-      {
-         "description" : "The&#xA0;Charity Chess Cup 2022, the 2nd event on the Meltwater Champions Chess Tour, starts this Saturday March 19th and will be featured with live games, video, and detailed coverage on Chessdom.com. Magnus Carlsen, the reigning World Champion, 2021 Tour Champion and&#xA0;winner of the first event of the 2022 Tour, will return along with a total []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/charity-chess-cup-2022-live/",
-         "pubDate" : "Thu, 17 Mar 2022 10:22:51 +0000",
-         "title" : "Charity Chess Cup 2022 LIVE"
       },
       {
          "description" : "The Italian Spring Tour continued with three Swiss tournaments (GM-Mix A, GM-Mix B, and IM-Mix), in which experienced Grandmasters met young talents. The young players were more successful: Arseniy Nesterov from Russia (born 2003) won the GM-Mix A tournament, the Indian Amit Doshi Moksh (born 2003) won the GM-Mix B tournament, and Simon Knudsen (born 1999) from Germany won the IM-Mix tournament.",
@@ -240,14 +240,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/over-150-countries-to-take-part-in-44th-chess-olympiad-says-tamil-nadu-cm-stalin/articleshow/90273747.cms",
          "pubDate" : "Wed, 16 Mar 2022 19:19:02 +0530",
          "title" : "Over 150 countries to take part in 44th Chess Olympiad, says TN CM"
-      },
-      {
-         "description" : "Taking into account the current recommendations of the IOC, the FIDE Council suspends the national teams of Russia and Belarus from participation in official FIDE tournaments until further notice. In the individual tournaments of the FIDE World Championship cycle, players from these countries will be able to participate under the FIDE flag. FIDE also commented, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/russia-and-belarus-chess-teams-suspended-from-fide-competitions/",
-         "pubDate" : "Wed, 16 Mar 2022 12:43:55 +0000",
-         "title" : "Russia and Belarus chess teams suspended from FIDE competitions"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90271347.cms\" />World chess governing body FIDE on Wednesday suspended Russia and Belarus from all its tournaments until further notice due to the invasion of Ukraine, jeopardising the two countries' participation in the 44th Chess Olympiad in India later this year.",
@@ -360,14 +352,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/olympiad-venue-confirmed.html",
          "pubDate" : "Tue, 15 Mar 2022 21:21:00 +0000",
          "title" : "Olympiad Venue Confirmed"
-      },
-      {
-         "description" : "The FIDE Council has approved today the bid presented by the All India Chess Federation (AICF) to host the 2022 Chess Olympiad in Chennai, the capital of the Tamil Nadu state. The exact schedule is still being discussed and will be announced in the coming days, but the event will take place between the end []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/india-to-host-the-chess-olympiad-in-chennai-official-fide-press-release/",
-         "pubDate" : "Tue, 15 Mar 2022 20:55:56 +0000",
-         "title" : "India to host the Chess Olympiad in Chennai - official FIDE press release"
       },
       {
          "description" : "",
@@ -1930,14 +1914,6 @@ news_feed (
          "title" : "FIDE postpones World Team Championship to November 2022"
       },
       {
-         "description" : "IM Andrew Martin and GM Nigel Davies are a good team of experienced trainers. In the 1990s, they formed the \"Master Chess Roadshow\" and toured England to help players all over the country to get better and to have fun with chess. Now, the band is back together: with the Chess Web Show, three weekly shows on Twitch and a YouTube channel!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-band-is-back-together-nigel-davies-and-andrew-martin-start-master-chess-web-show",
-         "pubDate" : "Thu, 03 Mar 2022 11:00:00 +0100",
-         "title" : "The band is back together! - Nigel Davies and Andrew Martin start Master Chess Web Show"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89960546.cms\" />Much like the Khadilkar sisters' dominance from 1974-83 and a 16-year-old Humpy's achievement in 2003, Divya did the unthinkable at the 47th National Women's Chess Championship in Bhubaneshwar on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2352,14 +2328,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/2022-chess-olympiad-in-serious-doubt.html",
          "pubDate" : "Fri, 25 Feb 2022 11:50:00 +0000",
          "title" : "2022 Chess Olympiad in serious doubt"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89822546.cms\" />Alone in his apartment and every bit scared, former Indian national rapid chess champion Anwesh Upadhyaya is one among the several of his compatriots stuck in Ukraine amid a Russian invasion and is desperately hoping to be evacuated from the country which has been his home since 2012.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-player-anwesh-upadhyaya-stuck-in-ukraine-says-situation-scary/articleshow/89822546.cms",
-         "pubDate" : "Fri, 25 Feb 2022 13:41:15 +0530",
-         "title" : "Indian chess player Anwesh stuck in Ukraine, says situation scary"
       }
    ]
 }
