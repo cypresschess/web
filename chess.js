@@ -2296,14 +2296,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/25/black-history-month-2022-day-25-im-watu-kobese/",
          "pubDate" : "Sat, 26 Feb 2022 03:38:55 +0000",
          "title" : "Black History Month 2022-Day 25: IM Watu Kobese"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1600",
-         "pubDate" : "Fri, 25 Feb 2022 22:46:16 +0000",
-         "title" : "Carlsen and Nepomniachtchi play out epic 2-2 draw on first day of final"
       }
    ]
 }
