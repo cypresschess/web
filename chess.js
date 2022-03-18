@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes looks at Jeffery Xiong&#039;s game against Igor Lysyj from the first round of the 2019 Chess World Cup, the largest knockout tournament in the game. Xiong made it all the way to the quarterfinals. 2022.03.17<br /> Igor Lysyj vs Jeffery Xiong, World Cup (2019): D26 Queen&#039;s Gambit Accepted, classical variation, 6.O-O<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1972007\">https://www.chessgames.com/perl/chessgame?gid=1972007</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-vid",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/young-jefferys-2019-world-cup-prepare-pro-wgm-thalia-cervantes",
+         "pubDate" : "Fri, 18 Mar 2022 03:06:38 +0000",
+         "title" : "Young Jeffery's 2019 World Cup | Prepare Like A Pro - WGM Thalia Cervantes"
+      },
+      {
          "description" : " After a break of 2 years the Dubbo Open is back on. It will run on the weekend of the 2nd and 3rd of April, at the usual venue of the Dubbo RSL Club. This is the 20th anniversary of the tournament, and already a sizeable filed has entered. You can enter at the venue from 930 am on Saturday. 1st prize is guaranteed at $800, with other prizes dependant upon entries. Entry is $50 for adults, $35 for concessions, and $25 for juniors. The event is 6 rounds, with a time limit 60m+10s. There is also a tournament dinner and blitz event on the Saturday evening. The current tournament entries are <a href=\"http://tournaments.streetchess.net/dubbo2022/www2022DubboOpen/\">here</a>, and I am the Director ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -976,14 +984,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-dariusz-swiercz-interview-round-9",
          "pubDate" : "Fri, 11 Mar 2022 02:58:40 +0000",
          "title" : "2022 Spring Chess Classic: Dariusz Swiercz Interview | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Abhimanyu Mishra talks to our hosts after his ninth round game in the Spring Chess Classic. 2022.03.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-abhi-mishra-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fhZgBzkeoMg.jpg?itok=Fl-i4heC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-abhi-mishra-interview-round-9",
-         "pubDate" : "Fri, 11 Mar 2022 02:58:40 +0000",
-         "title" : "2022 Spring Chess Classic: Abhi Mishra Interview | Round 9"
       },
       {
          "description" : "Maxime Vachier-Lagrave got good winning chances but could not bounce back in his match against Richard Rapport at the semifinals of the FIDE Grand Prix in Belgrade. Rapport's resilient defence made him the first finalist of the event. The Hungarian will get a rest day before facing either Anish Giri or Dmitry Andreikin in the final. Giri and Andreikin drew both their semifinal games and will play a rapid and blitz tiebreaker on Friday. | Photos: Mark Livshitz",
