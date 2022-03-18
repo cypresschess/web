@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " After a break of 2 years the Dubbo Open is back on. It will run on the weekend of the 2nd and 3rd of April, at the usual venue of the Dubbo RSL Club. This is the 20th anniversary of the tournament, and already a sizeable filed has entered. You can enter at the venue from 930 am on Saturday. 1st prize is guaranteed at $800, with other prizes dependant upon entries. Entry is $50 for adults, $35 for concessions, and $25 for juniors. The event is 6 rounds, with a time limit 60m+10s. There is also a tournament dinner and blitz event on the Saturday evening. The current tournament entries are <a href=\"http://tournaments.streetchess.net/dubbo2022/www2022DubboOpen/\">here</a>, and I am the Director ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/2022-dubbo-open-2-3-april-2022.html",
+         "pubDate" : "Fri, 18 Mar 2022 00:40:00 +0000",
+         "title" : "2022 Dubbo Open - 2-3 April 2022"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes takes viewers into the mind of professional chess player preparing for tournament play. 2022.03.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/young-jefferys-2019-world-cup-prepare-pro-wgm-thalia-cervantes-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oP-TREaaBnM.jpg?itok=Ki405n7d\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/young-jefferys-2019-world-cup-prepare-pro-wgm-thalia-cervantes-lichessorg",
+         "pubDate" : "Fri, 18 Mar 2022 00:06:45 +0000",
+         "title" : "Young Jeffery's 2019 World Cup | Prepare Like A Pro - WGM Thalia Cervantes | lichess.org"
+      },
+      {
          "description" : "The 2022 Bullet Chess Championship presented by DigitalOcean&#38;nbsp;reached its conclusion today with a series of edge-of-the-seat finals matches that resulted in GM Hikaru Nakamura being crowned the champion! Nakamura, undefeated across his matches...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -968,14 +984,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-abhi-mishra-interview-round-9",
          "pubDate" : "Fri, 11 Mar 2022 02:58:40 +0000",
          "title" : "2022 Spring Chess Classic: Abhi Mishra Interview | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Aram Hakobyan talks to our hosts after his ninth round game in the Spring Chess Classic. 2022.03.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-aram-hakobyan-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rI4OWTJckPM.jpg?itok=xnHA1Tne\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-aram-hakobyan-interview-round-9",
-         "pubDate" : "Fri, 11 Mar 2022 02:58:40 +0000",
-         "title" : "2022 Spring Chess Classic: Aram Hakobyan Interview | Round 9"
       },
       {
          "description" : "Maxime Vachier-Lagrave got good winning chances but could not bounce back in his match against Richard Rapport at the semifinals of the FIDE Grand Prix in Belgrade. Rapport's resilient defence made him the first finalist of the event. The Hungarian will get a rest day before facing either Anish Giri or Dmitry Andreikin in the final. Giri and Andreikin drew both their semifinal games and will play a rapid and blitz tiebreaker on Friday. | Photos: Mark Livshitz",
@@ -2368,14 +2376,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/33360098/indian-chess-im-ukraine-russia-war-alone-kyiv-apartment?device=featurephone",
          "pubDate" : "Fri, 25 Feb 2022 01:55:56 -0500",
          "title" : "'I don't know what to expect anymore': Alone in his Kyiv apartment, Indian chess IM faces uncertain future"
-      },
-      {
-         "description" : " Frank Street became a National Master in June 1965 and in the same year, graced the cover of Chess life magazine. As a 20-year old Street had just won the U.S. Amateur Championship and would go on to win the club champion of the Washington Chess Divan, defeating fellow master, Kenneth Clayton. Street also famously [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/24/black-history-month-2022-day-24-frank-street/\">Black History Month 2022-Day 24: Frank Street</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/24/black-history-month-2022-day-24-frank-street/",
-         "pubDate" : "Fri, 25 Feb 2022 02:42:11 +0000",
-         "title" : "Black History Month 2022-Day 24: Frank Street"
       }
    ]
 }
