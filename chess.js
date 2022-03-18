@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Andrey Esipenko is entering the Berlin FIDE Grand Prix 2022. GM Dmitry Andreikin withdrew from the third leg of the FIDE Grand Prix due to personal reasons. GM Esipenko enters the Berlin Grand Prix as the highest rated eligible player in the December 2021 list. Recent article about GM Esipenko and how the young []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-andrey-esipenko-is-entering-the-berlin-fide-grand-prix-2022/",
+         "pubDate" : "Fri, 18 Mar 2022 19:10:56 +0000",
+         "title" : "GM Andrey Esipenko is entering the Berlin FIDE Grand Prix 2022"
+      },
+      {
+         "description" : "The second event on the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Besides Magnus Carlsen, Ding Liren, Richard Rapport and women's world champion Ju Wenjun are among the participants from twelve different countries, with no Russian players involved.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/charity-cup-2022-preview",
+         "pubDate" : "Fri, 18 Mar 2022 20:00:00 +0100",
+         "title" : "Charity Cup, a UNICEF fundraiser, kicks off Saturday"
+      },
+      {
+         "description" : " This week, we will take the concept of thinking three moves ahead and apply it to our original tactical position. We will spread this out over the next few weeks. The process is simple, at least on paper: Come up with three candidate move choices (three possible moves you can make) as White. You'll go <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-five/\">A Foundation for Beginners Fifty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprov",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-five/",
+         "pubDate" : "Fri, 18 Mar 2022 18:48:01 +0000",
+         "title" : "A Foundation for Beginners Fifty Five"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering discusses how to evaluate a given chess position. Learn about counting material, when material value changes, piece activity, and more. The mysterious masked Alex gives real examples. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/surveying-scene-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9UV35OLO6yE.jpg?itok=bioNolmr\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/surveying-scene-beginner-breakdown",
+         "pubDate" : "Fri, 18 Mar 2022 18:07:08 +0000",
+         "title" : "Surveying the Scene | Beginner Breakdown"
+      },
+      {
+         "description" : "In Daniel King's Power Play Show the London System is under investigation - Daniel examines White's options in the opening and wonders whether it is possible to get the advantage. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-a-brilliant-attack-by-nils-grandelius-2",
+         "pubDate" : "Fri, 18 Mar 2022 19:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: The London System - under the microscope"
+      },
+      {
          "description" : "Stockfish, the strongest open source chess engine and current reigning champion of TCEC, leads the Premier Division of the Top Chess Engine Championship. After round 28, Stockfish has 19,5/28 (11 wins, 17 draws) and is clear first. Second position is for Komodo with 18,5/28 (10 wins, 1 loss, 17 draws), while Lc0 is third with []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -24,6 +64,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/an-exclusive-interview-with-vidit-gujrathi/",
          "pubDate" : "Fri, 18 Mar 2022 13:26:54 +0000",
          "title" : "An Exclusive Interview With Vidit Gujrathi"
+      },
+      {
+         "description" : "Week five was the first BYE week scheduled in the regular season, but there was still plenty of action as many teams rescheduled matches to be this weekend. This was also an exciting week for Princeton&#39;s captain GM Andrew Tang who made his way to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-week-5",
+         "pubDate" : "Fri, 18 Mar 2022 06:22:00 -0700",
+         "title" : "Collegiate Chess League Season 4 Week 5"
       },
       {
          "description" : "FIDE Grand Swiss Chess 2023 is going to take place October 23 to November 5, 2023 in Isle of Man. Royal Hall of the Villa Marina in Douglas will host the 159 players 109 in the open section and 50 in the women section. FIDE Grand Swiss is returning to the island after having []",
@@ -58,6 +106,14 @@ news_feed (
          "title" : "Isle of Man to host the FIDE Grand Swiss and Women's Grand Swiss 2023"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1641",
+         "pubDate" : "Fri, 18 Mar 2022 10:10:33 +0000",
+         "title" : "FIDE Grand Prix: Esipenko replaces Andreikin in Berlin"
+      },
+      {
          "description" : "The Serbian Championship Semi-final is a 9-round Swiss tournament taking place from 17&#x2013;23 March 2022 in Paracin, Serbia. Four players will qualify for the Serbian Chess Championship 2022 which will be played in December 2022. Participants 1 GM Budisavljevic Luka&#160; 2519 2 IM Cabarkapa Novak&#160; 2483 3 GM Zajic Milan&#160; 2450 4 IM Ratkovic []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -88,14 +144,6 @@ news_feed (
          "link" : "https://www.chessdom.com/european-senior-team-chess-championship-2022/",
          "pubDate" : "Fri, 18 Mar 2022 06:46:57 +0000",
          "title" : "European Senior Team Chess Championship 2022"
-      },
-      {
-         "description" : "GM Pier Luigi Basso and GM Marin Bosiocic are the leaders of the 2&#xB0; Festival di Primavera. They are tied at the top with perfect 3,0/3, followed by a group of ten players with 2,5/3. Today Bosiocic and Pier Luigi Basso meet on board one, with the white for the Croatian player. Standings after round []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-pier-luigi-basso-and-gm-marin-bosiocic-lead-2-festival-di-primavera/",
-         "pubDate" : "Fri, 18 Mar 2022 06:41:21 +0000",
-         "title" : "GM Pier Luigi Basso and GM Marin Bosiocic lead 2 ° Festival di Primavera"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes looks at Jeffery Xiong&#039;s game against Igor Lysyj from the first round of the 2019 Chess World Cup, the largest knockout tournament in the game. Xiong made it all the way to the quarterfinals. 2022.03.17<br /> Igor Lysyj vs Jeffery Xiong, World Cup (2019): D26 Queen&#039;s Gambit Accepted, classical variation, 6.O-O<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1972007\">https://www.chessgames.com/perl/chessgame?gid=1972007</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-vid",
@@ -1002,14 +1050,6 @@ news_feed (
          "title" : "2022 Spring Chess Classic: Titas Stremavicius Interview | Round 9"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Dariusz Swiercz talks to our hosts after his ninth round game in the Spring Chess Classic. 2022.03.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-dariusz-swiercz-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dlAhcoX5cto.jpg?itok=ae4-HfjN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-dariusz-swiercz-interview-round-9",
-         "pubDate" : "Fri, 11 Mar 2022 02:58:40 +0000",
-         "title" : "2022 Spring Chess Classic: Dariusz Swiercz Interview | Round 9"
-      },
-      {
          "description" : "Maxime Vachier-Lagrave got good winning chances but could not bounce back in his match against Richard Rapport at the semifinals of the FIDE Grand Prix in Belgrade. Rapport's resilient defence made him the first finalist of the event. The Hungarian will get a rest day before facing either Anish Giri or Dmitry Andreikin in the final. Giri and Andreikin drew both their semifinal games and will play a rapid and blitz tiebreaker on Friday. | Photos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1762,14 +1802,6 @@ news_feed (
          "title" : "MPL 46th National Sub Junior Open and Girls Chess Championship 2022:Day 1"
       },
       {
-         "description" : "The 2022 Bullet Chess Championship presented by DigitalOcean kicked off with excellent performances by traditional bullet favorites such as GMs Hikaru Nakamura and Daniel Naroditsky, who both convincingly won matches they were heavily favored in, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bullet-chess-championship-round-of-16-tang-defeats-caruana-in-thrilling-tiebreak",
-         "pubDate" : "Fri, 04 Mar 2022 18:57:00 -0800",
-         "title" : "Bullet Chess Championship Round Of 16: Tang Defeats Caruana In Thrilling Tiebreak"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1880,22 +1912,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-miniature-between-two-top-players",
          "pubDate" : "Thu, 03 Mar 2022 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: A miniature between two top players"
-      },
-      {
-         "description" : "In the current ChessBase Magazine the Sicilian Taimanov Variation (1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6) is taken to task from two sides at once. The super-modern 7.g4 came onto the board at the Tata Steel 2022 in the game Grandelius-Carlsen, we have already presented the Swede's analysis to you recently. There is also a complete opening article by IM Christian Braun on precisely this variation in CBM #206. A \"dangerous weapon for White\", because Black has development problems, whereas White can quickly castle long... The concept, which Jan Werle looks at in his opening video on the basis of a game by Alireza Firouzja, is completely different: after 7.Nxc6 bxc6 8.Qd3 Nf6 ",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/double-attack-on-the-taimanov-variation",
-         "pubDate" : "Thu, 03 Mar 2022 15:00:00 +0100",
-         "title" : "Double attack on the Taimanov Variation"
-      },
-      {
-         "description" : "Two players have a 1-point lead in their respective pools going into round 3 of the FIDE Grand Prix preliminaries in Belgrade. Anish Giri and Vidit Gujrathi kicked off the event with back-to-back wins and are the sole leaders in pools B and C. In pool A, Sam Shankland joined Dmitry Andreikin in the lead thanks to a win over Alexander Grischuk. In pool D, both games were drawn for a second consecutive day. | Photos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-r2",
-         "pubDate" : "Thu, 03 Mar 2022 14:45:00 +0100",
-         "title" : "Belgrade GP: Vidit and Giri sole leaders in their pools"
       },
       {
          "description" : "",
@@ -2170,14 +2186,6 @@ news_feed (
          "title" : "Indian chess IM in Ukraine is safe in Kyiv but faces tough call on trek to border"
       },
       {
-         "description" : " Former Italian international Stefano Bruzzi, who emigrated to England in the 1960s and played for Surbiton Chess Club for many years, died recently. I only had the honour of playing him on one occasion, in 2015. By that time he was often happy with a short draw, and I've never been averse either, so the <a href=\"https://chessimprover.com/stefano-bruzzi/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stefano Bruzzi\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stefano-bruzzi/\">Stefano Bruzzi</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/stefano-bruzzi/",
-         "pubDate" : "Sun, 27 Feb 2022 20:27:15 +0000",
-         "title" : "Stefano Bruzzi"
-      },
-      {
          "description" : " Kenneth Clayton is a trailblazer for many reasons. A distinguished man with a presence that commanded respect, he was one of the earliest pioneers of Black chess more specifically African-American chess. He won the 1963 U.S. Amateur Championship in thrilling fashion and would precede Frank Street who won the tournament in 1965. Clayton was born [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/27/black-history-month-2022-day-27-kenneth-clayton/\">Black History Month 2022-Day 27: Kenneth Clayton</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2288,22 +2296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1600",
          "pubDate" : "Fri, 25 Feb 2022 22:46:16 +0000",
          "title" : "Carlsen and Nepomniachtchi play out epic 2-2 draw on first day of final"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1599",
-         "pubDate" : "Fri, 25 Feb 2022 16:50:56 +0000",
-         "title" : "2022 Chess Olympiad to be moved from Moscow"
-      },
-      {
-         "description" : " Due to the rapidly evolving situation in Ukraine, the chess world was bracing for an announcement about FIDE's position on the matter and the upcoming 2022 Chess Olympiad. The Chess Olympiad was scheduled to begin in Moscow from July 26th to August 8th, 2022. This followed the cancellation of the 2020 Chess Olympiad in Minsk, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/25/fide-postpones-the-2022-chess-olympiad/\">FIDE postpones the 2022 Chess Olympiad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/25/fide-postpones-the-2022-chess-olympiad/",
-         "pubDate" : "Fri, 25 Feb 2022 16:33:31 +0000",
-         "title" : "FIDE postpones the 2022 Chess Olympiad"
       }
    ]
 }
