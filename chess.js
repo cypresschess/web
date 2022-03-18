@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"First restrain, then blockade, finally destroy!\", wrote Aron Nimzowitsch almost a century ago. The art of stopping opponents pawn avalanches was so dear to him, that he dedicated a full book to it. \"Die Blockade\" was published in 1925, in the same year as \"Mein System.\" Jan Markos offers modern examples to show what to do against a phalanx of dangerous pawns. | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-8-how-to-stop-a-pawn-avalanche",
+         "pubDate" : "Fri, 18 Mar 2022 13:00:00 +0100",
+         "title" : "The Winning Academy 8: How to Stop a Pawn Avalanche"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While several federations are demanding his removal from the FIDE Presidency, Putin's party United Russia demanded his removal as chairman of Skolkovo Foundation that runs Russia's main IT campus and incubator after Arkady Dvorkovich spoke out against the war and in sympathy of the Ukrainian population. As the Kremlin's chief economic advisor he was a main driver of Skolkovo and headed it since leaving the government in 2018. <a href=\"https://sk.ru/news/arkadij-dvorkovich-prekrashchaet-polnomochiya-predsedatelya-fonda-skolkovo/\">The 49-year-old duely stepped down</a> and, <a href=\"https://interfax.com/newsroom/top-stories/76981/\">according to the ag",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/dvorkovich-lost-main-job/",
+         "pubDate" : "Fri, 18 Mar 2022 12:39:49 +0100",
+         "title" : "Dvorkovich lost main job"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1506,14 +1522,6 @@ news_feed (
          "title" : "Karsten M&uuml;ller's Endgame Magic Show #184: Endgame highlights from the FIDE Grand Prix in Berlin"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong>, <strong>chess24</strong> and prominent female players <a href=\"https://www.fide.com/news/1620\">join forces for a fundraising stream</a> from 17.00 CET this Tuesday, the <strong>International Women's Day</strong>, with proceeds going to Ukraine. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/womens-day-fundraiser-for-ukraine/",
-         "pubDate" : "Mon, 07 Mar 2022 17:39:10 +0100",
-         "title" : "Women's Day fundraiser for Ukraine"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1904,14 +1912,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/erigaisi-is-new-national-chess-champion-gukesh-iniyan-lose-out-in-tie-break/articleshow/89972050.cms",
          "pubDate" : "Thu, 03 Mar 2022 17:50:00 +0530",
          "title" : "Erigaisi is new national chess champion; Gukesh, Iniyan lose out in tie-break"
-      },
-      {
-         "description" : "The International Chess Federation (FIDE) has decided to postpone the World Teams Championship 2022 to November 2022. The rights to host the tournament are retained by the Israeli Chess Federation. Press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-postpones-world-team-championship-to-november-2022",
-         "pubDate" : "Thu, 03 Mar 2022 11:03:32 +0100",
-         "title" : "FIDE postpones World Team Championship to November 2022"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89960546.cms\" />Much like the Khadilkar sisters' dominance from 1974-83 and a 16-year-old Humpy's achievement in 2003, Divya did the unthinkable at the 47th National Women's Chess Championship in Bhubaneshwar on Wednesday.",
@@ -2320,14 +2320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1598",
          "pubDate" : "Fri, 25 Feb 2022 14:12:45 +0000",
          "title" : "44th Chess Olympiad and FIDE Congress will not take place in Russia"
-      },
-      {
-         "description" : " As a consequence of the Russian invasion of The Ukraine, FIDE are looking at whether it is appropriate to hold any major chess events in Russia in the foreseeable future. A brief statement was released by FIDE on this matter, indicating that they plan to consult with the relevant commissions and federations. Already there has been a number of comments by leading players (and other chess identities) asking that the Moscow Olympiad either not take place, or be moved (which is less likely). A few have gone as far as to ask for the resignation of FIDE President Arkady Dvorkovich, based on his connections with the Russian government. At this stage Federations have not been asked for their opinio",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/2022-chess-olympiad-in-serious-doubt.html",
-         "pubDate" : "Fri, 25 Feb 2022 11:50:00 +0000",
-         "title" : "2022 Chess Olympiad in serious doubt"
       }
    ]
 }
