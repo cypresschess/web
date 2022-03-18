@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The City of Dresden, the Dresdner Schachfestival e.V. and the European Chess Federation (ECU) have the honour to invite all senior players throughout Europe to participate in the&#xA0;European Senior Team Chess Championship 2022&#xA0;(categories 50+ and 65+) organised in Dresden (Germany) from 26th October (arrival) to 5th November 2022 (departure). According to the ECU tournament rules, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-senior-team-chess-championship-2022/",
+         "pubDate" : "Fri, 18 Mar 2022 06:46:57 +0000",
+         "title" : "European Senior Team Chess Championship 2022"
+      },
+      {
+         "description" : "GM Pier Luigi Basso and GM Marin Bosiocic are the leaders of the 2&#xB0; Festival di Primavera. They are tied at the top with perfect 3,0/3, followed by a group of ten players with 2,5/3. Today Bosiocic and Pier Luigi Basso meet on board one, with the white for the Croatian player. Standings after round []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-pier-luigi-basso-and-gm-marin-bosiocic-lead-2-festival-di-primavera/",
+         "pubDate" : "Fri, 18 Mar 2022 06:41:21 +0000",
+         "title" : "GM Pier Luigi Basso and GM Marin Bosiocic lead 2 ° Festival di Primavera"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes looks at Jeffery Xiong&#039;s game against Igor Lysyj from the first round of the 2019 Chess World Cup, the largest knockout tournament in the game. Xiong made it all the way to the quarterfinals. 2022.03.17<br /> Igor Lysyj vs Jeffery Xiong, World Cup (2019): D26 Queen&#039;s Gambit Accepted, classical variation, 6.O-O<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1972007\">https://www.chessgames.com/perl/chessgame?gid=1972007</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-vid",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -90,7 +106,7 @@ news_feed (
          "title" : "Second workshop on increasing inner strength to be held on March 27"
       },
       {
-         "description" : " Share! The FIDE Chess Olympiad will be held later this year in Chennai, India according to a FIDE press release. The decision was made by the FIDE Council yesterday after postponing the event in the aftermath of the invasion of Ukraine by Russian forces. FIDE President Nigel Short announced via Twitter, &#8220;Due to the deteriorating [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/17/india-to-host-fide-chess-olympiad/\">India to host FIDE Chess Olympiad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!124 The FIDE Chess Olympiad will be held later this year in Chennai, India according to a FIDE press release. The decision was made by the FIDE Council yesterday after postponing the event in the aftermath of the invasion of Ukraine by Russian forces. FIDE President Nigel Short announced via Twitter, &#8220;Due to the deteriorating [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/17/india-to-host-fide-chess-olympiad/\">India to host FIDE Chess Olympiad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/03/17/india-to-host-fide-chess-olympiad/",
@@ -370,14 +386,6 @@ news_feed (
          "title" : "Tour raises funds for Ukraine"
       },
       {
-         "description" : "Breaking: Chess Olympiad 2022 will take place in Chennai, India, confirmed Tamil Nadu Chief Minister MK Stalin. Confirmations from FIDE, AICF, and multiple grandmasters followed. The Chess Olympiad 2022 has gone through multiple hassles. Initially, it was set to be played in Belarus, but following the wave of protests against Alexander Lukashenko and the support []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-is-set-to-take-place-in-india-developing-story/",
-         "pubDate" : "Tue, 15 Mar 2022 17:46:49 +0000",
-         "title" : "Chess Olympiad 2022 is set to take place in India"
-      },
-      {
          "description" : "The $1.6 million Meltwater Champions Chess Tour will dedicate its next stage to fundraising for the victims of the war in Ukraine, it was announced today. The Charity Cup, starting March 19, will be the second leg of the world's most prestigious elite online chess event.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -400,14 +408,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/15/ep-270-cody-smith-adult-improver-series",
          "pubDate" : "Tue, 15 Mar 2022 14:59:21 +0000",
          "title" : "EP 270- Cody Smith (Adult Improver Series) "
-      },
-      {
-         "description" : "The Charity Chess Cup 2022, the 2nd event on the Meltwater Champions Chess Tour, starts this Saturday March 19th as a @UNICEF fundraiser for children and their families in and around Ukraine. Follow: Charity Cup 2022 live&#xA0;/&#xA0;Charity Cup 2022 video Charity Cup is the second tournament of the Meltwater Champions Tour 2022. Sixteen of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/charity-chess-cup-2022/",
-         "pubDate" : "Tue, 15 Mar 2022 14:24:58 +0000",
-         "title" : "Charity Chess Cup 2022"
       },
       {
          "description" : "World Chess Champion Magnus Carlsen tops the field for the Charity Cup, the 2nd event on the 2022 Meltwater Champions Chess Tour. The online chess tournament, starting Saturday March 19th, is taking place under the shadow of Russia's war in Ukraine, and will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Ding Liren, Richard Rapport and Women's World Champion Ju Wenjun are among participants from 12 countries, with no Russian players involved.",
@@ -1938,14 +1938,6 @@ news_feed (
          "title" : "The band is back together! - Nigel Davies and Andrew Martin start Master Chess Web Show"
       },
       {
-         "description" : "In his \"Game of the Week\" show, Merijn van Delft looks at the interesting Sicilian A. Grischuk and D. Andreikin played in the first round of the FIDE Grand Prix in Belgrade. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-505-a-grischuk-vs-d-andreikin",
-         "pubDate" : "Thu, 03 Mar 2022 10:48:42 +0100",
-         "title" : "Game of the Week #505: A. Grischuk vs D. Andreikin"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89960546.cms\" />Much like the Khadilkar sisters' dominance from 1974-83 and a 16-year-old Humpy's achievement in 2003, Divya did the unthinkable at the 47th National Women's Chess Championship in Bhubaneshwar on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2368,14 +2360,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-player-anwesh-upadhyaya-stuck-in-ukraine-says-situation-scary/articleshow/89822546.cms",
          "pubDate" : "Fri, 25 Feb 2022 13:41:15 +0530",
          "title" : "Indian chess player Anwesh stuck in Ukraine, says situation scary"
-      },
-      {
-         "description" : "Anwesh Upadhyaya, 30, is a resident doctor and International Master who moved to Ukraine to have better tournament opportunities.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33360098/indian-chess-im-ukraine-russia-war-alone-kyiv-apartment?device=featurephone",
-         "pubDate" : "Fri, 25 Feb 2022 01:55:56 -0500",
-         "title" : "'I don't know what to expect anymore': Alone in his Kyiv apartment, Indian chess IM faces uncertain future"
       }
    ]
 }
