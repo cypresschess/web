@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Stockfish, the strongest open source chess engine and current reigning champion of TCEC, leads the Premier Division of the Top Chess Engine Championship. After round 28, Stockfish has 19,5/28 (11 wins, 17 draws) and is clear first. Second position is for Komodo with 18,5/28 (10 wins, 1 loss, 17 draws), while Lc0 is third with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stockfish-leads-tcec-s22-premier-division-at-halftime/",
+         "pubDate" : "Fri, 18 Mar 2022 14:01:51 +0000",
+         "title" : "Stockfish leads TCEC S22 Premier Division at halftime"
+      },
+      {
+         "description" : "In some openings, having the isolated pawn is the path to continue to middle-, and endgames. But do you know the technique on how to play with an isolated pawn, or against it? Svitlana has the knowledge, of course, and is happy to share it with us.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-34",
+         "pubDate" : "Fri, 18 Mar 2022 15:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - How to play with, and against an isolated pawn"
+      },
+      {
+         "description" : " <p class=\"lead\">GM and streamer Vidit Gujrathi gives an exclusive interview to Dina Belenkaya on his chess journey, his streaming career, his goals, and guilty pleasures. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/TZWel6GB84o?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/an-exclusive-interview-with-vidit-gujrathi/",
+         "pubDate" : "Fri, 18 Mar 2022 13:26:54 +0000",
+         "title" : "An Exclusive Interview With Vidit Gujrathi"
+      },
+      {
+         "description" : "FIDE Grand Swiss Chess 2023 is going to take place October 23 to November 5, 2023 in Isle of Man. Royal Hall of the Villa Marina in Douglas will host the 159 players 109 in the open section and 50 in the women section. FIDE Grand Swiss is returning to the island after having []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-grand-swiss-chess-2022-in-isle-of-man/",
+         "pubDate" : "Fri, 18 Mar 2022 13:18:17 +0000",
+         "title" : "FIDE Grand Swiss Chess 2023 in Isle of Man"
+      },
+      {
          "description" : "\"First restrain, then blockade, finally destroy!\", wrote Aron Nimzowitsch almost a century ago. The art of stopping opponents pawn avalanches was so dear to him, that he dedicated a full book to it. \"Die Blockade\" was published in 1925, in the same year as \"Mein System.\" Jan Markos offers modern examples to show what to do against a phalanx of dangerous pawns. | Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,22 +144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1640",
          "pubDate" : "Thu, 17 Mar 2022 16:45:45 +0000",
          "title" : "Workshop: How to Teach Pawn Endings by Artur Jussupow"
-      },
-      {
-         "description" : "Hungary&#x2019;s top star&#xA0;Richard Rapport, the&#xA0;winner of the recent FIDE Grand Prix, gives an exclusive interview to Dina Belenkaya and WorldChess on how chess came into his life, his attitude to pre-arranged draws, his regrets and joys of being a professional chess player and more. Richard Rapport will also make his debut in the Meltwater Champions []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/richard-rapport-in-an-interview-with-worldchess-and-dina-belenkaya/",
-         "pubDate" : "Thu, 17 Mar 2022 16:23:36 +0000",
-         "title" : "Richard Rapport in an interview with WorldChess and Dina Belenkaya"
-      },
-      {
-         "description" : "The rapid and blitz championships of Romania for men and women took place 11-13 March in Bucharest. A total of 150+ players in the open section and 50 players in the women section competed over the board for the 2022 national titles. The many times Romanian champion Constantin Lupulescu won the open blitz and got []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/romania-crowns-rapid-and-blitz-chess-champions/",
-         "pubDate" : "Thu, 17 Mar 2022 16:01:18 +0000",
-         "title" : "Romania crowns rapid and blitz chess champions"
       },
       {
          "description" : "",
@@ -416,6 +432,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/magnus-carlsen-tops-field-for-charity-cup-a-unicef-fundraiser",
          "pubDate" : "Tue, 15 Mar 2022 14:00:03 +0000",
          "title" : "Magnus Carlsen tops field for Charity Cup, a UNICEF fundraiser"
+      },
+      {
+         "description" : " <p class=\"lead\">Richard Rapport, the winner of the second leg of the FIDE Grand Prix 2022, gives an exclusive interview to Dina Belenkaya on how chess came into his life, his attitude to pre-arranged draws, his regrets and joys of being a professional chess player and more. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/kYKwHK2E2fQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/an-exclusive-interview-with-richard-rapport/",
+         "pubDate" : "Tue, 15 Mar 2022 14:00:00 +0000",
+         "title" : "An Exclusive Interview with Richard Rapport"
       },
       {
          "description" : "The American magazine \"Mother Jones\", seven times winner of the \"Magazine of the Year\" award from the American Society of Magazine Editors, just published interviews with 36 prominent personalities from the world of chess about the war in Ukraine. One of them is FIDE President and former Russian Deputy Prime Minister Arkady Dvorkovich, who spoke out against the war: \"My thoughts are with Ukrainian civilians. ... Wars do not just kill priceless lives. Wars kill hopes and aspirations, freeze or destroy relationships and connections.\" | Photo: David Llada",
@@ -1482,28 +1506,12 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Belgrade R6: Andreikin, Giri, Rapport, MVL Advance"
       },
       {
-         "description" : " <p class=\"lead\">Dmitry Andreikin, Anish Giri, Richard Rapport and Maxime Vachier-Lagrave move on to the next stage of the Grand Prix. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-07_23-25-32.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-07_23-25-06.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-07_23-25-10.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-07_23-25-14.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-belgrade-round-6-recap/",
-         "pubDate" : "Mon, 07 Mar 2022 22:28:51 +0000",
-         "title" : "FIDE Grand Prix Belgrade: Round 6 Recap"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1626",
          "pubDate" : "Mon, 07 Mar 2022 22:10:06 +0000",
          "title" : "FIDE Workshop for Changes in Regulations held online"
-      },
-      {
-         "description" : " <p class=\"lead\">Round 6 of the FIDE Grand Prix 2022 in Belgrade ended with Richard Rapport, Dmitry Andreikin, Anish Giri, and Maxime Vachier-Lagrave being the semifinalists of Pool A, B, C and D. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.4992679355783\"> <img src=\"https://worldchess.com/news/pictures/51924330324_8cc965be03_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51923374422_057cd31cb9_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51924687159_bea6e42f6a_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51924689029_4b",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/andreikin-giri-rapport-and-mvl-are-fide-grand-prix-semifinalists/",
-         "pubDate" : "Mon, 07 Mar 2022 19:45:27 +0000",
-         "title" : "Andreikin, Giri, Rapport and MVL Are FIDE Grand Prix Semifinalists"
       },
       {
          "description" : "",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-r2",
          "pubDate" : "Thu, 03 Mar 2022 14:45:00 +0100",
          "title" : "Belgrade GP: Vidit and Giri sole leaders in their pools"
-      },
-      {
-         "description" : "Whether for in-class work or for homework, worksheets help students review and practice chess. Creating worksheets-then printing, formatting, and sharing them-are tasks that every chess coach undertakes. In this article, National Master Jeffrey Ashton shows how ChessBase makes these tasks easier.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-for-coaches-creating-a-worksheet",
-         "pubDate" : "Thu, 03 Mar 2022 14:00:00 +0100",
-         "title" : "ChessBase for Coaches: Creating a Worksheet"
       },
       {
          "description" : "",
@@ -2312,14 +2312,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/2/25/book-recap-24-",
          "pubDate" : "Fri, 25 Feb 2022 14:43:45 +0000",
          "title" : "Book Recap #24- Discussing GM Jan Markos' Under the Surface with NM Gopal Menon and Matt Fletcher"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1598",
-         "pubDate" : "Fri, 25 Feb 2022 14:12:45 +0000",
-         "title" : "44th Chess Olympiad and FIDE Congress will not take place in Russia"
       }
    ]
 }
