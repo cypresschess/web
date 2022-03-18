@@ -2304,14 +2304,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/25/fide-postpones-the-2022-chess-olympiad/",
          "pubDate" : "Fri, 25 Feb 2022 16:33:31 +0000",
          "title" : "FIDE postpones the 2022 Chess Olympiad"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/b8b0f89e-40c2-4809-a84f-7424040282a9/Surface.final2.jpg\" data-image-dimensions=\"522x262\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6218ea65fc2f1c0dd65187db\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/b8b0f89e-40c2-4809-a84f-7424040282a9/Surface.final2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Me, Matt Fletcher and NM Gopal Menon (pictured clockwise) </figcaption> </figure> <p class=\"\"><a href=\"https://www.perpetualchess",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/2/25/book-recap-24-",
-         "pubDate" : "Fri, 25 Feb 2022 14:43:45 +0000",
-         "title" : "Book Recap #24- Discussing GM Jan Markos' Under the Surface with NM Gopal Menon and Matt Fletcher"
       }
    ]
 }
