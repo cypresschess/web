@@ -42,6 +42,14 @@ news_feed (
          "title" : "Daniel King's Power Play Show: The London System - under the microscope"
       },
       {
+         "description" : " The Charity Cup is the second event of the Meltwater Champions Chess Tour of 2022. The online event is hosted by chess24 and takes place 19th to 26th March 2022. The event is a \"a fundraiser for UNICEF to support their vital humanitarian activities in and around Ukraine.\" There will be no Russian players in the event. Players: Magnus Carlsen, Ding Liren, Richard Rapport, Jan-Krzysztof Duda, Vidit Gujrathi, Pentala Harikrishna, Jorden Van Foreest, Quang Liem Le, David Navara, David Anton, Gawain Jones, Hans Moke Niemann, R Praggnanandhaa, Eric Hansen, Ju Wenjun and Lei Tingjie.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/charity-cup-2022",
+         "pubDate" : "Fri, 18 Mar 2022 19:46:00 +0400",
+         "title" : "Charity Cup 2022 - Games and Results"
+      },
+      {
          "description" : "Stockfish, the strongest open source chess engine and current reigning champion of TCEC, leads the Premier Division of the Top Chess Engine Championship. After round 28, Stockfish has 19,5/28 (11 wins, 17 draws) and is clear first. Second position is for Komodo with 18,5/28 (10 wins, 1 loss, 17 draws), while Lc0 is third with []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
