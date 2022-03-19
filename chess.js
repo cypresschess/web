@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vietnamese star Liem Quang Le and the teenage American&#xA0;Hans Niemann set the pace on day 1 of the Charity Chess Cup 2022 as more than $17,000 was donated to UNICEF. The two underdogs both racked up three wins and a draw to finish&#xA0;unbeaten on 10/12 points. World Champion Magnus Carlsen, meanwhile, ended on a sour []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-and-liem-quang-le-lead-charity-chess-cup-after-round-4/",
+         "pubDate" : "Sat, 19 Mar 2022 21:46:27 +0000",
+         "title" : "Hans Niemann and Liem Quang Le lead Charity Chess Cup after round 4"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Illya Nyzhnyk reveals how he handles the difficult decision when presented with two equally good moves. Originally live on Twitch<br /> 2022.02.07<br /> Titas Stremavicius vs. Illya Nyzhnyk, 2020<br /> Ray Robson vs Illya Nyzhnyk, Spring Chess Classic (A) (2019)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1946987\">https://www.chessgames.com/perl/chessgame?gid=1946987</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/judgment-call-lege",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2256,14 +2264,6 @@ news_feed (
          "link" : "https://www.chess.ca/en/news/2022/02/27/cfc-condemns-russian-invasion-of-ukraine/",
          "pubDate" : "Sun, 27 Feb 2022 00:00:00 +0000",
          "title" : "CFC condemns Russian invasion of Ukraine"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1602",
-         "pubDate" : "Sat, 26 Feb 2022 21:50:31 +0000",
-         "title" : "Magnus Carlsen wins Airthings Masters"
       }
    ]
 }
