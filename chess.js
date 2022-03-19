@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illya Nyzhnyk reveals how he handles the difficult decision when presented with two equally good moves. Originally live on Twitch<br /> 2022.02.07<br /> Titas Stremavicius vs. Illya Nyzhnyk, 2020<br /> Ray Robson vs Illya Nyzhnyk, Spring Chess Classic (A) (2019)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1946987\">https://www.chessgames.com/perl/chessgame?gid=1946987</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/judgment-call-lege",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/judgment-call-legends-saint-louis-gm-illya-nyzhnyk",
+         "pubDate" : "Sat, 19 Mar 2022 18:07:32 +0000",
+         "title" : "Judgment Call | Legends in Saint Louis - GM Illya Nyzhnyk"
+      },
+      {
+         "description" : "The second event of the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Magnus Carlsen, Ding Liren and Richard Rapport head the 16-player field. The tournament is taking place on March 19-26, with the action kicking off daily at 18.00 CET (13.00 ET, 17.00 UTC, 22.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
+         "pubDate" : "Sat, 19 Mar 2022 17:50:00 +0100",
+         "title" : "Charity Cup - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1114,14 +1130,6 @@ news_feed (
          "title" : "2022 Spring Chess Classic: JJ Ali Marandi Interview | Round 9"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Titas Stremavicius talks to our hosts after his ninth round game in the Spring Chess Classic. 2022.03.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-titas-stremavicius-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0itMM2q7onM.jpg?itok=DE86j8J4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-titas-stremavicius-interview-round-9",
-         "pubDate" : "Fri, 11 Mar 2022 02:58:40 +0000",
-         "title" : "2022 Spring Chess Classic: Titas Stremavicius Interview | Round 9"
-      },
-      {
          "description" : "Maxime Vachier-Lagrave got good winning chances but could not bounce back in his match against Richard Rapport at the semifinals of the FIDE Grand Prix in Belgrade. Rapport's resilient defence made him the first finalist of the event. The Hungarian will get a rest day before facing either Anish Giri or Dmitry Andreikin in the final. Giri and Andreikin drew both their semifinal games and will play a rapid and blitz tiebreaker on Friday. | Photos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1904,14 +1912,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/2022-olympiad-speculation.html",
          "pubDate" : "Fri, 04 Mar 2022 13:18:00 +0000",
          "title" : "2022 Olympiad speculation"
-      },
-      {
-         "description" : "The world is witnessing a catastrophe in Ukraine. Many of us are also anxious over the safety and well-being of chess players in the war-torn land. News on their current situation is coming in, but it is not enough to address all our concerns about them. We would be better placed to offer sympathy and help to players in Ukraine if we share information on their plight. It is in this spirit that our columnist has made the appeal to readers here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/an-appeal-to-readers",
-         "pubDate" : "Fri, 04 Mar 2022 13:41:00 +0100",
-         "title" : "An appeal to readers"
       },
       {
          "description" : "The&#160;Board of&#160;the&#160;European Chess Union&#160;met in extraordinary session on Thursday 3rd of March to discuss the situation in Ukraine and appropriate measures. The European Chess Union strongly condemns the Russian invasion of Ukraine, the involvement of Belarus and expresses its solidarity and support for the Ukrainian people. We feel deep sorrow for all the victims of the war and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-suspends-the-russian-and-belarusian-chess-federations/\">Read More &#187;</a></span>",
