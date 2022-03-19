@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After the successful first edition last year, the No-Castling World Masters Tournament will be expanded in Dortmund in July 2022, as former world champions Vladimir Kramnik and Viswanathan Anand will be joined by Krishnan Sasikiran and local hero Daniel Fridman. Concurrently, the Deutschland Grand Prix, the NRW Youth Cup and two opens will take place at the massive festival set to kick off four months from now.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2022-announcement",
+         "pubDate" : "Sat, 19 Mar 2022 08:00:00 +0100",
+         "title" : "No-castling chess back in Dortmund"
+      },
+      {
          "description" : "GM Andrey Esipenko is entering the Berlin FIDE Grand Prix 2022. GM Dmitry Andreikin withdrew from the third leg of the FIDE Grand Prix due to personal reasons. GM Esipenko enters the Berlin Grand Prix as the highest rated eligible player in the December 2021 list. Recent article about GM Esipenko and how the young []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1912,14 +1920,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/mar/03/chess-india-makes-olympiad-bid-while-sergey-karjakin-shunned-after-invasion",
          "pubDate" : "Thu, 03 Mar 2022 18:52:26 +0000",
          "title" : "Chess: India makes Olympiad bid while Sergey Karjakin shunned after invasion"
-      },
-      {
-         "description" : "This week Robert Ris takes a look at a miniature played at the highest level: at the Airthings Masters Online Rapid Tournament World Champion Magnus Carlsen defeated Jan-Krzysztof Duda with a swift attack and won a short and instructive game. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-miniature-between-two-top-players",
-         "pubDate" : "Thu, 03 Mar 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A miniature between two top players"
       },
       {
          "description" : "",
