@@ -5,6 +5,38 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1644",
+         "pubDate" : "Sat, 19 Mar 2022 13:58:49 +0000",
+         "title" : "Chess becomes an official sport at XXIV Central American and Caribbean Games"
+      },
+      {
+         "description" : "World Champion Magnus Carlsen takes on World Cup winner Jan-Krzysztof Duda, a late replacement for Radek Wojtaszek, as the Charity Cup starts today at 18:00 CET. The 2nd stage of the $1.6 million Meltwater Champions Chess Tour features a Tour debut for Richard Rapport, Women's World Champion Ju Wenjun, and another chance for 16-year-old Praggnanandhaa to take on the world's best. The event is being put on with the newest partner of the Tour, NEAR Foundation. NEAR Foundation is responsible for supporting awareness of NEAR and the adoption of related web3 technologies.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-duda-as-charity-cup-starts-today",
+         "pubDate" : "Sat, 19 Mar 2022 13:00:18 +0000",
+         "title" : "Carlsen-Duda as Charity Cup starts today"
+      },
+      {
+         "description" : " Miles Patterson sent me the following game from the 2022 Tasmanian Championship, which he finished in first place. His opponent opened with a double fianchetto defence, which gave White time to launch a typicla dark square attack on the king, swapping the bishop on g7 and pushing the h pawn. g4 to break open the kingside was a good move, and Nxf7 both won material, and essentially finished the game, although Black played on to mate. <br /> <b>Patterson,Miles (2000) - Pretorius,Wynand-Jack (2000) [A04]</b><br />Tasmanian Championship LAPTOP-RNTASBER, 14.03.2022 <script>new PgnViewer( { boardName: \"game1318\", movesFormat: \"default\", pgnString:'1.Nf3 b6 2.g3 Nc6 3.Bg2 g6 4.d4 e6 5.e4 Ba6 6.Be3",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/playing-down-right-flank.html",
+         "pubDate" : "Sat, 19 Mar 2022 12:09:00 +0000",
+         "title" : "Playing down the right flank"
+      },
+      {
+         "description" : "The annual chess match between the teams of Oxford and Cambridge Universities, the Varsity match, has often been described as the Boat Race of the Brain. Last year, the Cambridge boat sank, with almost all hands. After 139 matches the overall score then stood at: Cambridge 60 wins, Oxford 57 and Drawn 22. Last year's catastrophe []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/cambridge-wreck-sighted-the-2022-varsity-chess-match/",
+         "pubDate" : "Sat, 19 Mar 2022 11:42:52 +0000",
+         "title" : "Cambridge wreck sighted: the 2022 Varsity Chess Match"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1643",
          "pubDate" : "Sat, 19 Mar 2022 09:30:15 +0000",
          "title" : "Support Ukrainian Chess Players and their Families"
@@ -32,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dortmund-festival-2022-announcement",
          "pubDate" : "Sat, 19 Mar 2022 08:00:00 +0100",
          "title" : "No-castling chess back in Dortmund"
+      },
+      {
+         "description" : "The Charity Chess Cup 2022, the 2nd event on the Meltwater Champions Chess Tour, starts this Saturday March 19th as a @UNICEF fundraiser for children and their families in and around Ukraine. Follow: Charity Cup 2022 live&#160;/&#160;Charity Cup 2022 video Charity Cup is the second tournament of the Meltwater Champions Tour 2022. Sixteen of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/charity-chess-cup-2022/",
+         "pubDate" : "Sat, 19 Mar 2022 01:24:00 +0000",
+         "title" : "Charity Chess Cup 2022"
       },
       {
          "description" : "GM Andrey Esipenko is entering the Berlin FIDE Grand Prix 2022. GM Dmitry Andreikin withdrew from the third leg of the FIDE Grand Prix due to personal reasons. GM Esipenko enters the Berlin Grand Prix as the highest rated eligible player in the December 2021 list. Recent article about GM Esipenko and how the young []",
@@ -176,14 +216,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/mar/18/chess-rapport-closes-in-on-candidates-as-six-year-old-steals-show-at-blackpool",
          "pubDate" : "Fri, 18 Mar 2022 08:00:53 +0000",
          "title" : "Chess: Rapport closes in on Candidates as six-year-old steals show at Blackpool"
-      },
-      {
-         "description" : "The City of Dresden, the Dresdner Schachfestival e.V. and the European Chess Federation (ECU) have the honour to invite all senior players throughout Europe to participate in the&#xA0;European Senior Team Chess Championship 2022&#xA0;(categories 50+ and 65+) organised in Dresden (Germany) from 26th October (arrival) to 5th November 2022 (departure). According to the ECU tournament rules, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-senior-team-chess-championship-2022/",
-         "pubDate" : "Fri, 18 Mar 2022 06:46:57 +0000",
-         "title" : "European Senior Team Chess Championship 2022"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes looks at Jeffery Xiong&#039;s game against Igor Lysyj from the first round of the 2019 Chess World Cup, the largest knockout tournament in the game. Xiong made it all the way to the quarterfinals. 2022.03.17<br /> Igor Lysyj vs Jeffery Xiong, World Cup (2019): D26 Queen&#039;s Gambit Accepted, classical variation, 6.O-O<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1972007\">https://www.chessgames.com/perl/chessgame?gid=1972007</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-vid",
@@ -1642,14 +1674,6 @@ news_feed (
          "title" : "Red letter day: how Russian chess defied Putin"
       },
       {
-         "description" : "Richard Rapport gambled and won in Round 5 of the Belgrade FIDE Grand Prix as he defeated Vidit to take a one-point lead in Pool C going into the final round. Vladimir Fedoseev was knocked out of contention by Alexei Shirov, whose fine attacking win was the day's only other decisive game. The draws meant that Anish Giri is also only a draw away from guaranteeing a semi-final place, while Maxime Vachier-Lagrave continues to lead in Pool D. Dmitry Andreikin, Sam Shankland and Etienne Bacrot are all still in the hunt in Pool A.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/belgrade-grand-prix-5-rapport-giri-on-verge-of-semis",
-         "pubDate" : "Mon, 07 Mar 2022 11:24:52 +0000",
-         "title" : "Belgrade GP 5: Rapport & Giri on verge of semis"
-      },
-      {
          "description" : "For those who haven't recently done any calculation training, there is the Calculation Training Booster. After all, every chess brain needs regular stimulation, as you don't want to become a lazy player - avoiding calculating critical variations or simply failing to calculate properly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1888,14 +1912,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/an-appeal-to-readers",
          "pubDate" : "Fri, 04 Mar 2022 13:41:00 +0100",
          "title" : "An appeal to readers"
-      },
-      {
-         "description" : "Levon Aronian, is the \"hero\" of ChessBase Magazine #206. In the new issue, our authors - David Navara, Adhiban Baskaran and Romain Edouard among others - comment on their favourite games of the top player. This has resulted in a collection of 19 special encounters from 1994 (U12 World Championship!) to 2021. In addition, Mihail Marin's contribution is entitled \"Levon Aronian's strategic universe\" and Karsten Mueller presents a selection of the Armenian's best endgames. You can watch the video from Mueller's endgame contribution as well as Adrien Demuth's analysis of the game Aronian-Ponomariov (Lausanne 2001) here - enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-206-special-levon-aronian",
-         "pubDate" : "Fri, 04 Mar 2022 13:00:00 +0100",
-         "title" : "CBM #206 Special: Levon Aronian"
       },
       {
          "description" : "The&#160;Board of&#160;the&#160;European Chess Union&#160;met in extraordinary session on Thursday 3rd of March to discuss the situation in Ukraine and appropriate measures. The European Chess Union strongly condemns the Russian invasion of Ukraine, the involvement of Belarus and expresses its solidarity and support for the Ukrainian people. We feel deep sorrow for all the victims of the war and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-suspends-the-russian-and-belarusian-chess-federations/\">Read More &#187;</a></span>",
@@ -2248,46 +2264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1602",
          "pubDate" : "Sat, 26 Feb 2022 21:50:31 +0000",
          "title" : "Magnus Carlsen wins Airthings Masters"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1601",
-         "pubDate" : "Sat, 26 Feb 2022 14:46:38 +0000",
-         "title" : "Second leg of FIDE Grand Prix starts in Belgrade on February 28"
-      },
-      {
-         "description" : "Fide's move came after mounting pressure from players and commentators to not hold any chess events in Russia following the military action in Ukraine.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33375259/india-offers-host-chess-olympiad-russia-stripped-showpiece-event?device=featurephone",
-         "pubDate" : "Sat, 26 Feb 2022 07:59:26 -0500",
-         "title" : "India offers to host chess Olympiad after Russia removed"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89851180.cms\" />International Master Koustav Chatterjee of West Bengal held top seed Grandmaster B Adhiban of PSPB to a creditable draw in the third round of the 58th Senior National Chess Championship here on Saturday. Playing white side of the English Opening, Adhiban agreed to sign the peace treaty with his West Bengal opponent after 73 moves in an opposite colour bishop and rook ending.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/koustav-holds-top-seed-adhiban-in-senior-national-chess-championship/articleshow/89851180.cms",
-         "pubDate" : "Sat, 26 Feb 2022 17:20:49 +0530",
-         "title" : "Koustav holds top seed Adhiban in Senior National Chess Championship"
-      },
-      {
-         "description" : "It is fitting that in the Year of the Tiger, which started earlier this month, according to the oriental astrological calendar, the publishers Elk and Ruby have completed their magnum opus two volume epic on the career of Tigran (\"The Tiger\") Petrosian. Petrosian Year by Year: Volume II (1963-1984) is that eagerly awaited second volume on the life []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/year-of-the-tigran/",
-         "pubDate" : "Sat, 26 Feb 2022 11:47:56 +0000",
-         "title" : "Year of the Tigran"
-      },
-      {
-         "description" : "Following the invasion of the sovereign state of Ukraine by the Russian army on February 24, the humanitarian crisis and the consequences for sports and chess events, the Board of ECU will hold an extraordinary meeting on Thursday, March 03, to assess the situation and decide on various measures. Any European national federation wishing to submit a proposal&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/press-release-ukraine/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/press-release-ukraine/",
-         "pubDate" : "Sat, 26 Feb 2022 11:39:38 +0000",
-         "title" : "Press release - #Ukraine"
       }
    ]
 }
