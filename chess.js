@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1643",
+         "pubDate" : "Sat, 19 Mar 2022 09:30:15 +0000",
+         "title" : "Support Ukrainian Chess Players and their Families"
+      },
+      {
+         "description" : "We are calling all the creative minds to join us for the National Design Contest to design the Logo, Mascot and Tag Line for the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-design-contest-for-olympiad-2022/",
+         "pubDate" : "Sat, 19 Mar 2022 09:14:24 +0000",
+         "title" : "National Design Contest for Olympiad 2022"
+      },
+      {
+         "description" : "The task regarding the diagrammed position is plain and simple: \"White to play and win\". Your call!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/i-see",
+         "pubDate" : "Sat, 19 Mar 2022 09:00:00 +0100",
+         "title" : "I see!"
+      },
+      {
          "description" : "After the successful first edition last year, the No-Castling World Masters Tournament will be expanded in Dortmund in July 2022, as former world champions Vladimir Kramnik and Viswanathan Anand will be joined by Krishnan Sasikiran and local hero Daniel Fridman. Concurrently, the Deutschland Grand Prix, the NRW Youth Cup and two opens will take place at the massive festival set to kick off four months from now.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1858,14 +1882,6 @@ news_feed (
          "title" : "2022 Olympiad speculation"
       },
       {
-         "description" : "The FIDE Trainers &#38; Arbiter Seminar organized by All India Chess Federation with the support of Government of India Ministry of Youth Affairs &#38; Sports",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/dual-seminar-kick-starts-in-bengaluru-shimla-25-27-feb-2022/",
-         "pubDate" : "Fri, 04 Mar 2022 13:01:27 +0000",
-         "title" : "Dual Seminar kick starts in Bengaluru & Shimla (04-06 March 2022 )"
-      },
-      {
          "description" : "The world is witnessing a catastrophe in Ukraine. Many of us are also anxious over the safety and well-being of chess players in the war-torn land. News on their current situation is coming in, but it is not enough to address all our concerns about them. We would be better placed to offer sympathy and help to players in Ukraine if we share information on their plight. It is in this spirit that our columnist has made the appeal to readers here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1904,14 +1920,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1613",
          "pubDate" : "Thu, 03 Mar 2022 23:26:52 +0000",
          "title" : "FIDE Grand Prix Belgrade: Round 3 Recap"
-      },
-      {
-         "description" : "In an appeal to Vladimir Putin, the President of Russia, a large number of prominent Russian chess players call for a ceasefire and peace in Ukraine. \"It is unbearably painful for us to see the catastrophe that is happening these days to our peoples.\" The courageous appeal appeared on the Russian sports site \"Championat\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leading-chess-players-of-russia-appeal-for-peace-and-ceasefire",
-         "pubDate" : "Thu, 03 Mar 2022 20:46:20 +0100",
-         "title" : "Leading chess players of Russia appeal to Putin for peace and ceasefire"
       },
       {
          "description" : " India plans to replace Moscow as host of the 150-nation event, next month's World Teams is postponed, and the former world title challenger faces a Fide disciplinary hearing International chess has moved swiftly to adjust to Russia's war against Ukraine. Major events have switched venues or been postponed, Russian sponsors have been removed, while a former world title challenger has been shunned for his pro-invasion stance, with further penalties possible. India is the strongly favoured candidate to host the 150-nation Olympiad, the game's flagship team event, after Moscow was stripped of the competition last week by Fide, the global chess body. The Indian chess scene is vibrant with talent",
@@ -2280,14 +2288,6 @@ news_feed (
          "link" : "https://www.europechess.org/press-release-ukraine/",
          "pubDate" : "Sat, 26 Feb 2022 11:39:38 +0000",
          "title" : "Press release - #Ukraine"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89846558.cms\" />The Indian chess federation is bidding to host the 44th Chess Olympiad that has been moved out of Russia, said a senior official of All India Chess Federation (AICF).",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-bidding-to-host-chess-olympiad-2022/articleshow/89846558.cms",
-         "pubDate" : "Sat, 26 Feb 2022 13:42:18 +0530",
-         "title" : "India bidding to host Chess Olympiad 2022"
       }
    ]
 }
