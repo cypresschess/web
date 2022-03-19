@@ -2288,14 +2288,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-bidding-to-host-chess-olympiad-2022/articleshow/89846558.cms",
          "pubDate" : "Sat, 26 Feb 2022 13:42:18 +0530",
          "title" : "India bidding to host Chess Olympiad 2022"
-      },
-      {
-         "description" : " Watu Kobese with his Xhosa-language chess book, &#8220;Masidlale Uthimba&#8220;. Photo by Mariska Morris. IM Watu Kobese has been the most recognizable chess player South Africa has ever produced. His life is one of many stories. Learning chess at the age of four, Kobese learned the game by watching his father Arthur Kobese and would later [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/25/black-history-month-2022-day-25-im-watu-kobese/\">Black History Month 2022-Day 25: IM Watu Kobese</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/25/black-history-month-2022-day-25-im-watu-kobese/",
-         "pubDate" : "Sat, 26 Feb 2022 03:38:55 +0000",
-         "title" : "Black History Month 2022-Day 25: IM Watu Kobese"
       }
    ]
 }
