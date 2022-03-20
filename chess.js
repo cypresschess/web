@@ -2240,22 +2240,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/junior-chess-back-on-in-canberra.html",
          "pubDate" : "Sun, 27 Feb 2022 13:12:00 +0000",
          "title" : "Junior chess back on in Canberra"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89864471.cms\" />Magnus Carlsen bagged the first event of the 2022 Meltwater Champions Chess Tour, the Airthings Masters, after overcoming Ian Nepomniachtchi with a classy display on Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-wins-airthings-masters/articleshow/89864471.cms",
-         "pubDate" : "Sun, 27 Feb 2022 10:50:37 +0530",
-         "title" : "Magnus Carlsen wins Airthings Masters"
-      },
-      {
-         "description" : " Playing on both sides of the border, Michael Schleifer was the top junior in Canada and rose through the ranks to compete in the Canadian Closed. Schleifer, known as &#8220;Schlee&#8221; to his friends, starred in the New York Open as a young master. He earned his FM title in 1997 and his IM title a [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/26/black-history-month-2022-day-26-im-michael-schleifer/\">Black History Month 2022-Day 26: IM Michael Schleifer</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/26/black-history-month-2022-day-26-im-michael-schleifer/",
-         "pubDate" : "Sun, 27 Feb 2022 04:58:33 +0000",
-         "title" : "Black History Month 2022-Day 26: IM Michael Schleifer"
       }
    ]
 }
