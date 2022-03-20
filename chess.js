@@ -2,11 +2,43 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 71st instalment of his ChessBase show \"Understanding before Moving\", Herman talks about open and half-open files. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-71-open-and-half-open-files",
+         "pubDate" : "Sun, 20 Mar 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 71: Open and half-open files"
+      },
+      {
+         "description" : "World Champion Magnus Carlsen looked to be on a roll as he ground out two endgame wins in a row on Day 1 of the Charity Cup, but Ding Liren, who had lost to Hans Niemann in the previous game, hit back brilliantly to defeat the Tour leader despite playing at almost 5am in China. That allowed 18-year-old Hans to take the lead with a run of three wins in a row, with only Liem Quang Le able to match him.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/charity-cup-1-ding-beats-carlsen-niemann-le-lead",
+         "pubDate" : "Sun, 20 Mar 2022 13:44:58 +0000",
+         "title" : "Charity Cup 1: Ding beats Carlsen | Niemann & Le lead"
+      },
+      {
+         "description" : "The first four rounds of the Charity Cup left Le Quang Liem and Hans Niemann sharing the lead on 10/12 points (a win is worth 3 points, a draw is worth 1 point). Remarkably, the 18-year-old Niemann defeated Chinese star Ding Liren in the third round. After the loss, however, Ding bounced back brilliantly, getting the better of Magnus Carlsen to end the day on 9/12, a point behind the leaders. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/charity-cup-2022-d1",
+         "pubDate" : "Sun, 20 Mar 2022 13:40:00 +0100",
+         "title" : "Charity Cup: Niemann and Le share the lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1646",
+         "pubDate" : "Sun, 20 Mar 2022 11:43:40 +0000",
+         "title" : "FIDE Candidates 2022 venue and schedule announced"
+      },
+      {
          "description" : "GM Le Quang Liem and GM Hans Niemann, underdogs for overall victory, are sharing the lead after day one at the Charity Cup. In what is the second&#38;nbsp;leg of the 2022 Meltwater Champions Chess Tour, World Champion&#38;nbsp;Magnus Carlsen suffered an e...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-charity-cup-day-1",
-         "pubDate" : "Sun, 20 Mar 2022 03:54:17 -0700",
+         "pubDate" : "Sun, 20 Mar 2022 03:54:00 -0700",
          "title" : "Charity Cup Day 1: Le, Niemann Lead As Ding Beats Carlsen"
       },
       {
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/judgment-call-legends-saint-louis-gm-illya-nyzhnyk",
          "pubDate" : "Sat, 19 Mar 2022 18:07:32 +0000",
          "title" : "Judgment Call | Legends in Saint Louis - GM Illya Nyzhnyk"
-      },
-      {
-         "description" : "The second event of the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Magnus Carlsen, Ding Liren and Richard Rapport head the 16-player field. The tournament is taking place on March 19-26, with the action kicking off daily at 18.00 CET (13.00 ET, 17.00 UTC, 22.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
-         "pubDate" : "Sat, 19 Mar 2022 17:50:00 +0100",
-         "title" : "Charity Cup - Games and results"
       },
       {
          "description" : "",
@@ -1578,14 +1602,6 @@ news_feed (
          "title" : "European support of Ukrainian chess"
       },
       {
-         "description" : "Dmitry Andreikin will play Anish Giri in the Belgrade FIDE Grand Prix semi-finals after dramatically winning a lost position against Etienne Bacrot. Any other result would have given Sam Shankland a chance in a playoff. The other semi-final will be Richard Rapport vs. Maxime Vachier-Lagrave after Richard cruised to a draw against Alexei Shirov while Maxime drew a thriller against Shakhriyar Mamedyarov. Yu Yangyi could have forced a playoff with a win over Alexandr Predke, but instead the Russian grandmaster won with the black pieces.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/belgrade-fide-gp-6-shankland-heartbreak",
-         "pubDate" : "Tue, 08 Mar 2022 13:19:38 +0000",
-         "title" : "Belgrade FIDE GP 6: Shankland heartbreak"
-      },
-      {
          "description" : " An important update for players wishing to play in either the O2C Doeberl Cup Major and Minor. The Monir event (Under 1600 ACF) reached the 80 player limit late last week. As a result we have extended the size of the event to 120, but it is unlikely that it will be increased further. At the moment there are 20 places left in the Major (Under 2000 ACF), so if you wish to play the Major, you should get your entries in quick. At the moment there are over 200 entries for the event, and with 5 weeks before the event starts, a field well in excess of 300 is expected. If you are eligible for two divisions (due to an overlap in rating requirements), picking the less crowded of the 2 would be great ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1922,14 +1938,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: \"Never move the queen out early\""
       },
       {
-         "description" : "The highlight of day 3 at the FIDE Grand Prix in Belgrade was Richard Rapport's victory over Vidit Gujrathi. The Hungarian thus caught his round-3 opponent in the lead of pool C. The one other decisive result on Thursday was seen in the same group, as Vladimir Fedoseev got the better of Alexei Shirov. Anish Giri played a remarkable queen sacrifice against Pentala Harikrishna - the game finished in a draw. | Photos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-r3",
-         "pubDate" : "Fri, 04 Mar 2022 14:30:00 +0100",
-         "title" : "Belgrade GP: Rapport wins, shares the lead"
-      },
-      {
          "description" : " After the cancellation of the 2022 Moscow Olympiad, FIDE have requested bids from other federations. At this stage it appears India have submitted a bid, but there is still a few days left for other federations to bid. I have heard (third hand I think), that at least 2 European federations are considering bids, while a suggested Middle East bid may not be feasible due to the short notice. Although I am pretty sure that the FIDE Federations won't be part of the decision (due to the urgency of finding a venue), India would at least make travel quicker and cheaper. And based on comments I heard at a conference I attended this evening, the Asian Chess Federation (and countries) would strongly s",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2240,14 +2248,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/27/black-history-month-2022-day-27-kenneth-clayton/",
          "pubDate" : "Sun, 27 Feb 2022 18:18:15 +0000",
          "title" : "Black History Month 2022-Day 27: Kenneth Clayton"
-      },
-      {
-         "description" : " The ACT Junior Chess League held the first face to face junior chess event of the year, the ACT Junior Lightning Championship. An enthusiastic group turned up to play in the 11 round event, with a mixture of experienced players, and newcomers trying the event for the first time. In the end Charles Huang proved unstoppable, with a perfect 11 from 11. In second place was Larry Cheng, with Connor Amoore in outright third. The tournament ran smoothly (with no crying!), and the event followed the required health protocols. As we were playing at one of local Canberra High Schools, we did require masks for all players, but this don't seem to be a problem. Hopefully there will be a few more events ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/junior-chess-back-on-in-canberra.html",
-         "pubDate" : "Sun, 27 Feb 2022 13:12:00 +0000",
-         "title" : "Junior chess back on in Canberra"
       }
    ]
 }
