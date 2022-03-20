@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Candidates Chess 2022 will take place in Madrid, June 16 July 7. It will be an 8 player double round robin with some of the world's top Grandmasters. The winner will qualify for the World Championship match later this year. The World Championship Match between the reigning World Champion and the Challenger, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-madrid/",
+         "pubDate" : "Sun, 20 Mar 2022 15:24:16 +0000",
+         "title" : "FIDE Candidates Chess 2022 Madrid"
+      },
+      {
+         "description" : "Russia&#39;s warfare in Ukraine has left Arkady Dvorkovich, a former Russian deputy prime minister, in a precarious situation. Now 24 days into the war, some are calling for the FIDE president to resign while others continue to support him.&#38;nbsp;Altho...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dvorkovich-in-tight-spot-as-fide-president",
+         "pubDate" : "Sun, 20 Mar 2022 08:08:24 -0700",
+         "title" : "Dvorkovich In Tight Spot As FIDE President"
+      },
+      {
+         "description" : "Vidit Gujrathi talks to Kaja Snare after a good first day of the&#xA0;Charity Cup 2022 participants&#xA0;(&#xA0;Charity Cup 2022 live&#xA0;/&#xA0;Charity Cup 2022 video ) He talks about the Meltwater Championships experience and the coming Chess Olympiad 2022 Full report on the first day and the performance of GM Vidit here",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vidit-gujrathi-about-the-chess-olympiad-in-india/",
+         "pubDate" : "Sun, 20 Mar 2022 14:52:21 +0000",
+         "title" : "Vidit Gujrathi about the Chess Olympiad in India"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 71st instalment of his ChessBase show \"Understanding before Moving\", Herman talks about open and half-open files. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1872,14 +1896,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-r4",
          "pubDate" : "Sat, 05 Mar 2022 17:45:00 +0100",
          "title" : "Belgrade GP: MVL beats Predke, breaks drawing spell"
-      },
-      {
-         "description" : "The 18-year-old GM Arjun Erigaisi won the 58th MPL National Senior Championship, and 16-year-old WGM Divya Deshmukh clinched the 47th MPL National Women&#39;s Championship.&#38;nbsp; Scoring 8.5 points out of 11 rounds, Arjun tied for first place with G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-erigaisi-divya-deshmukh-clinch-indian-national-championships",
-         "pubDate" : "Sat, 05 Mar 2022 06:53:00 -0800",
-         "title" : "Arjun Erigaisi, Divya Deshmukh Clinch Indian National Championships"
       },
       {
          "description" : "The Russian President, Vladimir Putin, has in the past earned grudging admiration from some quarters for his presumed geopolitical strategic \"chess\" skills. In particular, his annexation of Crimea, while successfully maintaining lucrative energy sales to western democracies. Now, though, the new heir to Ivan the Terrible has switched to poker, with notably less facility. Chess is primarily []",
