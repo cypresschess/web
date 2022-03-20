@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1648",
+         "pubDate" : "Sun, 20 Mar 2022 22:06:16 +0000",
+         "title" : "Vietnam's speed chess star races ahead in Charity Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1647",
+         "pubDate" : "Sun, 20 Mar 2022 18:13:40 +0000",
+         "title" : "FFE acquires \"delegation\" status in France"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> WGM Katerina Nemcova forces viewers to bend their minds when solving several 2- or 3-move checkmate compositions in Double Exclam!! Originally on Twitch<br /> 2022.02.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/checkmate-compositions-double-exclam-wgm-katerina-nemcova\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9GmmG1xix_o.jpg?itok=BoUSPZKC\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/dvorkovich-in-tight-spot-as-fide-president",
-         "pubDate" : "Sun, 20 Mar 2022 08:08:24 -0700",
+         "pubDate" : "Sun, 20 Mar 2022 08:08:00 -0700",
          "title" : "Dvorkovich In Tight Spot As FIDE President"
       },
       {
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://www.chessdom.com/vidit-gujrathi-about-the-chess-olympiad-in-india/",
          "pubDate" : "Sun, 20 Mar 2022 14:52:21 +0000",
          "title" : "Vidit Gujrathi about the Chess Olympiad in India"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1643",
+         "pubDate" : "Sun, 20 Mar 2022 14:30:15 +0000",
+         "title" : "Support Ukrainian Chess Players and their Families"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 71st instalment of his ChessBase show \"Understanding before Moving\", Herman talks about open and half-open files. | Photo: Pascal Simon",
@@ -120,14 +144,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/judgment-call-legends-saint-louis-gm-illya-nyzhnyk",
          "pubDate" : "Sat, 19 Mar 2022 18:07:32 +0000",
          "title" : "Judgment Call | Legends in Saint Louis - GM Illya Nyzhnyk"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1643",
-         "pubDate" : "Sat, 19 Mar 2022 14:30:15 +0000",
-         "title" : "Support Ukrainian Chess Players and their Families"
       },
       {
          "description" : "",
