@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> WGM Katerina Nemcova forces viewers to bend their minds when solving several 2- or 3-move checkmate compositions in Double Exclam!! Originally on Twitch<br /> 2022.02.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/checkmate-compositions-double-exclam-wgm-katerina-nemcova\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9GmmG1xix_o.jpg?itok=BoUSPZKC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/checkmate-compositions-double-exclam-wgm-katerina-nemcova",
+         "pubDate" : "Sun, 20 Mar 2022 18:08:33 +0000",
+         "title" : "Checkmate Compositions | Double Exclam!! - WGM Katerina Nemcova"
+      },
+      {
+         "description" : "The second event of the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Magnus Carlsen, Ding Liren and Richard Rapport head the 16-player field. The tournament is taking place on March 19-26, with the action kicking off daily at 18.00 CET (13.00 ET, 17.00 UTC, 22.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
+         "pubDate" : "Sun, 20 Mar 2022 17:50:00 +0100",
+         "title" : "Charity Cup - Live!"
+      },
+      {
+         "description" : "Jon Speelman worked as commentator at this year's edition of the long-standing Varsity Match between Oxford and Cambridge Universities. Looking at the games alongside computer-chess expert Matthew Sadler prompted him to reflect on the value of using engines for chess improvement and preparation. | Pictured: The Oxford team - Victor Vasiesiu, Tom O'Gorman, Daniel Karim Abbas, Daniel Sutton, 0Dominic Miller, Filip Mihov, AkShaya Kalaiyalahan, Max French. | Photo: John Saunders",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-166",
+         "pubDate" : "Sun, 20 Mar 2022 17:30:00 +0100",
+         "title" : "A tale of two universities and two engines"
+      },
+      {
          "description" : "The FIDE Candidates Chess 2022 will take place in Madrid, June 16 July 7. It will be an 8 player double round robin with some of the world's top Grandmasters. The winner will qualify for the World Championship match later this year. The World Championship Match between the reigning World Champion and the Challenger, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1202,14 +1226,6 @@ news_feed (
          "title" : "Chess: Bobby Fischer v Boris Spassky 1972 remembered at Reykjavik Open"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi talks to our hosts after his ninth round game in the Spring Chess Classic. 2022.03.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-spring-chess-classic-jj-ali-marandi-interview-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n3o1hAwKA2c.jpg?itok=qX-E2bTN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-spring-chess-classic-jj-ali-marandi-interview-round-9",
-         "pubDate" : "Fri, 11 Mar 2022 02:58:40 +0000",
-         "title" : "2022 Spring Chess Classic: JJ Ali Marandi Interview | Round 9"
-      },
-      {
          "description" : "Maxime Vachier-Lagrave got good winning chances but could not bounce back in his match against Richard Rapport at the semifinals of the FIDE Grand Prix in Belgrade. Rapport's resilient defence made him the first finalist of the event. The Hungarian will get a rest day before facing either Anish Giri or Dmitry Andreikin in the final. Giri and Andreikin drew both their semifinal games and will play a rapid and blitz tiebreaker on Friday. | Photos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1914,14 +1930,6 @@ news_feed (
          "title" : "ECU suspends the Russian and Belarusian Chess Federations"
       },
       {
-         "description" : "Black king on e7, unprotected queen a5 - White's threat in the diagrammed position is obvious, and not even 17...Bb6 could prevent him from making a good catch. Your call!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/exposed",
-         "pubDate" : "Sat, 05 Mar 2022 09:00:00 +0100",
-         "title" : "Exposed"
-      },
-      {
          "description" : "MPL 46th National Sub Junior Open and Girls Chess Championship 2022 All Top Seeded players with march of Winning in Open 3rd Seeded Bhilva Nilaya",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1944,14 +1952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1615",
          "pubDate" : "Fri, 04 Mar 2022 20:40:43 +0000",
          "title" : "Salinas Herrera and Gomez Barrera win Chilean Championships"
-      },
-      {
-         "description" : "\"Never move the queen out early\", runs the old maxim. And yet... In his Power Play Show, GM Daniel King examines two cases from the FIDE Grand Prix tournament in Belgrade where, in the open Sicilian, White plays an early queen move. Neither is ridiculous, at least theoretically... | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-never-move-the-queen-out-early",
-         "pubDate" : "Fri, 04 Mar 2022 17:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: \"Never move the queen out early\""
       },
       {
          "description" : " After the cancellation of the 2022 Moscow Olympiad, FIDE have requested bids from other federations. At this stage it appears India have submitted a bid, but there is still a few days left for other federations to bid. I have heard (third hand I think), that at least 2 European federations are considering bids, while a suggested Middle East bid may not be feasible due to the short notice. Although I am pretty sure that the FIDE Federations won't be part of the decision (due to the urgency of finding a venue), India would at least make travel quicker and cheaper. And based on comments I heard at a conference I attended this evening, the Asian Chess Federation (and countries) would strongly s",
@@ -2256,14 +2256,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/33390116/indian-chess-im-anwesh-upadhyaya-caught-ukraine-amid-russia-war?device=featurephone",
          "pubDate" : "Mon, 28 Feb 2022 02:49:01 -0500",
          "title" : "Indian chess IM in Ukraine is safe in Kyiv but faces tough call on trek to border"
-      },
-      {
-         "description" : " Kenneth Clayton is a trailblazer for many reasons. A distinguished man with a presence that commanded respect, he was one of the earliest pioneers of Black chess more specifically African-American chess. He won the 1963 U.S. Amateur Championship in thrilling fashion and would precede Frank Street who won the tournament in 1965. Clayton was born [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/27/black-history-month-2022-day-27-kenneth-clayton/\">Black History Month 2022-Day 27: Kenneth Clayton</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/27/black-history-month-2022-day-27-kenneth-clayton/",
-         "pubDate" : "Sun, 27 Feb 2022 18:18:15 +0000",
-         "title" : "Black History Month 2022-Day 27: Kenneth Clayton"
       }
    ]
 }
