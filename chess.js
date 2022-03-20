@@ -2256,14 +2256,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/26/black-history-month-2022-day-26-im-michael-schleifer/",
          "pubDate" : "Sun, 27 Feb 2022 04:58:33 +0000",
          "title" : "Black History Month 2022-Day 26: IM Michael Schleifer"
-      },
-      {
-         "description" : "(Originally posted HERE on the CFC Forums) The Chess Federation of Canada condemns the Russian Federation invasion of the sovereign nation of Ukraine. We reject the stated pretexts and justifications advanced for this evil and illegal act and urge the Russian Federation to leave Ukraine immediately and cease waging war against the Ukrainian people. All parties should work together to reach a resolution that respects Ukrainian sovereignty and their democratic right of self determination.",
-         "iconLink" : "https://cypresschess.github.io/web/canada2.png",
-         "iconName" : "Canadian<br>Chess",
-         "link" : "https://www.chess.ca/en/news/2022/02/27/cfc-condemns-russian-invasion-of-ukraine/",
-         "pubDate" : "Sun, 27 Feb 2022 00:00:00 +0000",
-         "title" : "CFC condemns Russian invasion of Ukraine"
       }
    ]
 }
