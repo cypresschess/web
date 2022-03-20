@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Le Quang Liem and GM Hans Niemann, underdogs for overall victory, are sharing the lead after day one at the Charity Cup. In what is the second&#38;nbsp;leg of the 2022 Meltwater Champions Chess Tour, World Champion&#38;nbsp;Magnus Carlsen suffered an e...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-charity-cup-day-1",
+         "pubDate" : "Sun, 20 Mar 2022 03:54:17 -0700",
+         "title" : "Charity Cup Day 1: Le, Niemann Lead As Ding Beats Carlsen"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1645",
+         "pubDate" : "Sun, 20 Mar 2022 10:52:15 +0000",
+         "title" : "Underdogs set pace on first day of Charity Cup as UNICEF donations hit $17,000"
+      },
+      {
+         "description" : " As you saw last week, I wasn't impressed with the annotations in the first game of Chernev's Logical Chess Move by Move. Perhaps I was being a bit unfair. By and large, the notes are serviceable for their purpose: there seemed to be few other basic tactical oversights at least in the main lines. Game <a href=\"https://chessimprover.com/logical-chess-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Logical Chess (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/logical-chess-2/\">Logical Chess (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/logical-chess-2/",
+         "pubDate" : "Sun, 20 Mar 2022 10:00:08 +0000",
+         "title" : "Logical Chess (2)"
+      },
+      {
          "description" : "Vietnamese star Liem Quang Le and the teenage American&#xA0;Hans Niemann set the pace on day 1 of the Charity Chess Cup 2022 as more than $17,000 was donated to UNICEF. The two underdogs both racked up three wins and a draw to finish&#xA0;unbeaten on 10/12 points. World Champion Magnus Carlsen, meanwhile, ended on a sour []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -23,7 +47,15 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
          "pubDate" : "Sat, 19 Mar 2022 17:50:00 +0100",
-         "title" : "Charity Cup - Live!"
+         "title" : "Charity Cup - Games and results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1643",
+         "pubDate" : "Sat, 19 Mar 2022 14:30:15 +0000",
+         "title" : "Support Ukrainian Chess Players and their Families"
       },
       {
          "description" : "",
@@ -56,14 +88,6 @@ news_feed (
          "link" : "https://www.thearticle.com/cambridge-wreck-sighted-the-2022-varsity-chess-match/",
          "pubDate" : "Sat, 19 Mar 2022 11:42:52 +0000",
          "title" : "Cambridge wreck sighted: the 2022 Varsity Chess Match"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1643",
-         "pubDate" : "Sat, 19 Mar 2022 09:30:15 +0000",
-         "title" : "Support Ukrainian Chess Players and their Families"
       },
       {
          "description" : "We are calling all the creative minds to join us for the National Design Contest to design the Logo, Mascot and Tag Line for the",
@@ -1842,14 +1866,6 @@ news_feed (
          "title" : "Arjun Erigaisi, Divya Deshmukh Clinch Indian National Championships"
       },
       {
-         "description" : "The Norway Chess and London Chess Classic tournaments as well as the Grand Chess Tour have decided not to invite GM Sergey Karjakin to their tournaments anymore as the Russian GM continues to support Russia&#39;s warfare in Ukraine. Also this week, th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/grand-chess-tour-ban-karjakin-ecu-suspends-belarusian-russian-federations",
-         "pubDate" : "Sat, 05 Mar 2022 03:43:00 -0800",
-         "title" : "Top Tournaments Ban Karjakin; ECU Suspends Belarusian, Russian Federations"
-      },
-      {
          "description" : "The Russian President, Vladimir Putin, has in the past earned grudging admiration from some quarters for his presumed geopolitical strategic \"chess\" skills. In particular, his annexation of Crimea, while successfully maintaining lucrative energy sales to western democracies. Now, though, the new heir to Ivan the Terrible has switched to poker, with notably less facility. Chess is primarily []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -2144,14 +2160,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/england-vs.-sweden-challenge-match-2022",
          "pubDate" : "Tue, 1 Mar 2022 16:06:00 +0400",
          "title" : "England vs. Sweden Challenge Match 2022 - "
-      },
-      {
-         "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; I am a subscriber and supporter of the American Chess Magazine. Every couple of months I enjoy reading the latest issue and <a href=\"https://chessimprover.com/chess-2022-january-exotic-wackos/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 January Exotic Wackos\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-january-exotic-wackos/\">Chess 2022 January Exotic Wackos</a> appeared first on <a rel=\"nofollow\" href=\"https",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-2022-january-exotic-wackos/",
-         "pubDate" : "Tue, 01 Mar 2022 09:36:46 +0000",
-         "title" : "Chess 2022 - January Exotic Wackos"
       },
       {
          "description" : " International Master Emory TatePhoto by Daaim Shabazz Before his passing in 2015, International Master Emory Tate was one of the most recognizable figures in the American chess scene. In this last tribute for Black History Month, we will feature the man, the myth, the legend. The legacy continues. With a warrior persona and his bold [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/28/black-history-month-2022-day-28-im-emory-tate/\">Black History Month 2022-Day 28: IM Emory Tate</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
