@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The German Bundesliga started its new season, and the first matches brought many fascinating endgames. Karsten was spoiled for choice but in the Endgame Magic Show #186 he presents an absolute highlight in which the much lower-rated player defeated a strong Grandmaster in study-like fashion. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-186-highlights-from-the-german-bundesliga",
+         "pubDate" : "Mon, 21 Mar 2022 18:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic Show #186: Highlights from the German Bundesliga"
+      },
+      {
+         "description" : "The second event of the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Magnus Carlsen, Ding Liren and Richard Rapport head the 16-player field. The tournament is taking place on March 19-26, with the action kicking off daily at 18.00 CET (13.00 ET, 17.00 UTC, 22.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
+         "pubDate" : "Mon, 21 Mar 2022 17:50:00 +0100",
+         "title" : "Charity Cup - Live!"
+      },
+      {
+         "description" : "In reaction to public statements made by Sergey Karjakin about the war in Ukraine, the FIDE and Ethics and Disciplinary Commission banned Karjakin for six months \"from participating as a player in any FIDE rated chess competition, taking effect from the date of this decision, 21 March 2022.\" Therefore, Karjakin will not be able to play in the Candidates Tournament that is scheduled to take place from 16 June to 7 July in Madrid, Spain. Grandmaster Sergei Shipov, who regularly works as a commentator, was not banned by FIDE for his statements about the war because \"in comparison with Sergey Karjakin, Sergei Shipov is considerably less known and has, therefore, a less powerful platform.\" | Pict",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ethics-imposes-a-six-month-ban-on-karjakin",
+         "pubDate" : "Mon, 21 Mar 2022 17:33:54 +0100",
+         "title" : "FIDE Ethics imposes a six-month ban on Karjakin"
+      },
+      {
          "description" : "European Youth Team Chess Championships 2022 will take place from 11 July (arrivals) to 19 July (departures) in the Conference Hall of the 5 stars Lazart Hotel in Thessaloniki which will host also the European Rapid and Blitz Chess Championship 2022 from 19 July to 23 July 2022. The European Youth Team Chess Championships (EYTCC) will include four&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-team-and-european-youth-rapid-blitz-chess-championships-2022-official-invitation/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1978,14 +2002,6 @@ news_feed (
          "title" : "Dual Seminar (04-06 March 2022) Ends in a high note"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 69th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to show ideas in the King's Indian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-68-ideas-in-the-king-s-indian-2",
-         "pubDate" : "Sun, 06 Mar 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 69: Ideas in the King's Indian (2)"
-      },
-      {
          "description" : " For no particular reason I decided to see what was opening in the Bundesliga, which is running as I speak. Almost all the games were still in the opening stage, and yet one game was already finished. At first I thought it was a forfeit, or even worse, a mobile phone default, but instead it was just a misplayed opening that was quickly punished. White didn't play any outright blunders (in the usual sense), but every move seemed to make the position worse. Realising that f2 was about fall, White decided that they had seen enough. <br /> <b>Pitl,Jarno (1988) - Wegerle,Joerg (2404) [A04]</b><br />Schachbundesliga chess24.com (2.8), 06.03.2022 <script>new PgnViewer( { boardName: \"game1315\", move",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2008,14 +2024,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2021-22",
          "pubDate" : "Sat, 5 Mar 2022 21:18:00 +0400",
          "title" : "Bundesliga 2021-22 - "
-      },
-      {
-         "description" : "Seven out of eight games finished drawn in Friday's fourth round of the preliminaries at the FIDE Grand Prix in Belgrade. The only winner of the day was Maxime Vachier-Lagrave. The Frenchman's win was the first one of the event in pool D. With two rounds to go in the double round-robins, MVL and Anish Giri are sole leaders in their pools. | Photos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-r4",
-         "pubDate" : "Sat, 05 Mar 2022 17:45:00 +0100",
-         "title" : "Belgrade GP: MVL beats Predke, breaks drawing spell"
       },
       {
          "description" : "The Russian President, Vladimir Putin, has in the past earned grudging admiration from some quarters for his presumed geopolitical strategic \"chess\" skills. In particular, his annexation of Crimea, while successfully maintaining lucrative energy sales to western democracies. Now, though, the new heir to Ivan the Terrible has switched to poker, with notably less facility. Chess is primarily []",
@@ -2296,14 +2304,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-chess-gala-concluded-in-monaco/",
          "pubDate" : "Mon, 28 Feb 2022 19:45:50 +0000",
          "title" : "European Women's Chess Gala concluded in Monaco"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1604",
-         "pubDate" : "Mon, 28 Feb 2022 17:14:09 +0000",
-         "title" : "Parligras and Ciolacu win Romanian Championship"
       }
    ]
 }
