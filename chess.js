@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Ethics and Disciplinary Commission (EDC) has reached a verdict on the case 2/2022, relating to public statements by grandmasters&#xA0;Sergey Karjakin&#xA0;(FIDE ID 14109603). The Russian player is found guilty by the panel and Karjakin is banned for 6 months from FIDE rated competitions, missing the Candidates Chess 2022. Who can replace Karjakin in the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/who-can-replace-karjakin-for-the-candidates-tournament-2022/",
+         "pubDate" : "Mon, 21 Mar 2022 13:59:12 +0000",
+         "title" : "Who can replace Karjakin for the Candidates Tournament 2022"
+      },
+      {
+         "description" : " <p class=\"lead\">The FIDE Ethics and Disciplinary Commission banned GM Sergey Karjakin from participating as a player in any FIDE rated chess competition, while GM Sergey Shipov faced no sanctions due to his less provocative statements. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Untitled-design-1.jpg\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> It wasn't long after Russia's military invasion of Ukraine that GM Sergey Karjakin started tweeting in favour of the war and spreading propaganda all over his social media channels. The chess community, from companies to influencers, publicly disagreed with the Russian GM and demanded FIDE to take action over this mat",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/gm-sergey-karjakin-is-banned-for-6-months-by-fide-ethics/",
+         "pubDate" : "Mon, 21 Mar 2022 13:41:39 +0000",
+         "title" : "GM Sergey Karjakin is banned for 6 months by FIDE Ethics"
+      },
+      {
          "description" : "Controversial former world title challenger Sergey Karjakin, who sparked widespread criticism for his support of Russia's war in Ukraine, has been banned from all competition by FIDE, it was announced today. The Crimea-born Grandmaster, who switched from representing Ukraine to Russia is 2009, is now stripped of his place in the upcoming Candidates tournament pending any appeal.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "Oceania news"
       },
       {
-         "description" : "The FIDE Ethics and Disciplinary Commission (EDC) has reached a verdict on the case 2/2022, relating to public statements by grandmasters&#xA0;Sergey Karjakin&#xA0;(FIDE ID 14109603) and&#xA0;Sergei Shipov&#xA0;(FIDE ID 4113624). Related: Russia and Belarus Chess teams suspended The EDC First Instance Chamber, formed by Yolander Persaud (Guyana), Ravindra Dongre (India), and Johan Sigeman (Sweden) as Chairperson,&#xA0;unanimously decided []",
+         "description" : "The FIDE Ethics and Disciplinary Commission (EDC) has reached a verdict on the case 2/2022, relating to public statements by grandmasters&#160;Sergey Karjakin&#160;(FIDE ID 14109603) and&#160;Sergei Shipov&#160;(FIDE ID 4113624). Related: Russia and Belarus Chess teams suspended The EDC First Instance Chamber, formed by Yolander Persaud (Guyana), Ravindra Dongre (India), and Johan Sigeman (Sweden) as Chairperson,&#160;unanimously decided []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/karjakin-banned-for-6-months-from-fide-competitions/",
@@ -216,14 +232,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/dvorkovich-in-tight-spot-as-fide-president",
          "pubDate" : "Sun, 20 Mar 2022 08:08:00 -0700",
          "title" : "Dvorkovich In Tight Spot As FIDE President"
-      },
-      {
-         "description" : "Vidit Gujrathi talks to Kaja Snare after a good first day of the&#xA0;Charity Cup 2022 participants&#xA0;(&#xA0;Charity Cup 2022 live&#xA0;/&#xA0;Charity Cup 2022 video ) He talks about the Meltwater Championships experience and the coming Chess Olympiad 2022 Full report on the first day and the performance of GM Vidit here",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vidit-gujrathi-about-the-chess-olympiad-in-india/",
-         "pubDate" : "Sun, 20 Mar 2022 14:52:21 +0000",
-         "title" : "Vidit Gujrathi about the Chess Olympiad in India"
       },
       {
          "description" : "",
@@ -1624,14 +1632,6 @@ news_feed (
          "link" : "https://chessimprover.com/master-chess-web-show-4/",
          "pubDate" : "Wed, 09 Mar 2022 13:09:35 +0000",
          "title" : "Master Chess Web Show (4)"
-      },
-      {
-         "description" : " The pools for the last round of <a href=\"https://worldchess.com/series/grandprix2022\">the FIDE Grand Prix</a> have been determined. The Berlin stage will be held from 21 March to 4 April at the World Chess Club Berlin. The event featuring 16 elite chess players competing for a prize fund of €150,000 and the last two places in the Candidates' tournament scheduled to take place in Madrid in June. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/table-2.png\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> The draw ceremony, held over Zoom, was chaired by Chief Arbiter Klaus Deventer and identified the pools of players for the last leg of the Series via randomized sele",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/pools-for-the-third-leg-of-the-fide-grand-prix-series-2022-to-be/",
-         "pubDate" : "Wed, 09 Mar 2022 13:02:14 +0000",
-         "title" : "Pools For the Third Leg of the FIDE Grand Prix Series 2022 Announced"
       },
       {
          "description" : "On 5 March 2022 Dr. Siegbert Tarrasch would have celebrated his 160th birthday. Throughout his life Tarrasch, who was a medical practitioner by profession, remained an amateur, but at his prime he was one of the world's best players, if not the best. Tarrasch was also a prolific and popular writer whose books have influenced countless players. Eugene Manlapao takes a look at the career of this great player and teacher.",
