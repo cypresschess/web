@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">The third and final leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022 organized by World Chess</a> kicks off in Berlin. For the next 13 days, the attention of chess fans all over the world will be focused on World Chess Club Berlin, a chess venue in the German capital where the chess superstars will compete for 150,000 euros and more importantly for the last two spots in the upcoming Candidates' Tournament. The challenge is not an easy one, as the winner of the second stage, Grandmaster Richard Rapport, has almost secured the first spot, but the strongest chess players competing in the last leg are ready to fight. <div class=\"e2-tex",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-last-leg-of-the-fide-grand-prix-in-berlin-is-about-to-start/",
+         "pubDate" : "Mon, 21 Mar 2022 18:24:33 +0000",
+         "title" : "The Last Leg of the FIDE Grand Prix in Berlin is about to start"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Love is in the air! Alex Moellering shows how to find the perfect soulmate, roommate, and checkmate, using examples from famous matches. See tricks, traps, and sacrifices beginners can play in the opening and middlegame. Originally on Twitch<br /> 2022.03.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-find-perfect-mate-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumb",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-find-perfect-mate-beginner-breakdown",
+         "pubDate" : "Mon, 21 Mar 2022 18:09:12 +0000",
+         "title" : "How to Find the PERFECT Mate! | Beginner Breakdown"
+      },
+      {
          "description" : "The German Bundesliga started its new season, and the first matches brought many fascinating endgames. Karsten was spoiled for choice but in the Endgame Magic Show #186 he presents an absolute highlight in which the much lower-rated player defeated a strong Grandmaster in study-like fashion. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
          "pubDate" : "Mon, 21 Mar 2022 17:50:00 +0100",
          "title" : "Charity Cup - Live!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Ethics Commission</strong> <a href=\"https://www.fide.com/news/1650\">bans</a> <strong>Sergey Karjakin</strong> for six months from any FIDE rated events with immediate effect for his pro-war, anti-Ukrainian statements on social media. Since it costs the Russian challenger of 2016 his place in the Candidates Tournament, the <strong>Chess Federation of Russia</strong> <a href=\"https://t.me/ruchessfed/176\">announced an appeal</a>. Whereas the <strong>ECU</strong> has suspended the federations of Russia and Belarus, FIDE only banned teams from both countries. If the appeal is rejected, the open place in the Candidates Tournament goes to ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/karjakin-banned-and-russia-will/",
+         "pubDate" : "Mon, 21 Mar 2022 17:36:35 +0100",
+         "title" : "Karjakin banned, Russia will appeal"
       },
       {
          "description" : "In reaction to public statements made by Sergey Karjakin about the war in Ukraine, the FIDE and Ethics and Disciplinary Commission banned Karjakin for six months \"from participating as a player in any FIDE rated chess competition, taking effect from the date of this decision, 21 March 2022.\" Therefore, Karjakin will not be able to play in the Candidates Tournament that is scheduled to take place from 16 June to 7 July in Madrid, Spain. Grandmaster Sergei Shipov, who regularly works as a commentator, was not banned by FIDE for his statements about the war because \"in comparison with Sergey Karjakin, Sergei Shipov is considerably less known and has, therefore, a less powerful platform.\" | Pict",
@@ -1298,14 +1322,6 @@ news_feed (
          "title" : "Belgrade GP: Andreikin hits back to reach final"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Harrison Keyser faces an incredibly sharp endgame in a slow, instructive, classical game Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/instructive-classical-chess-he-got-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/instructive-classical-chess-he-got-new-queen",
-         "pubDate" : "Fri, 11 Mar 2022 20:59:14 +0000",
-         "title" : "Instructive Classical Chess: He Got A New Queen..."
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1664,14 +1680,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/the-aim-is-to-cross-the-2700-elo-rating-narayanan/articleshow/90106247.cms",
          "pubDate" : "Wed, 09 Mar 2022 20:04:48 +0530",
          "title" : "The aim is to cross the 2700 ELO rating: Narayanan"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/OzBHkjRMPMc?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-semi-final-game-1/",
-         "pubDate" : "Wed, 09 Mar 2022 14:13:21 +0000",
-         "title" : "FIDE Grand Prix in Belgrade: Semi-final Game 1"
       },
       {
          "description" : "The Italian Spring Tour 2022 features four strong tournaments. One of them is the 1st Grandiscacchi Cattolica International which ended with an Indian double victory. After nine rounds seven players shared first place with 6.5/9 each, but S.L. Narayanan (pictured) had the best tiebreak and won the tournament. Praggnanandhaa finished second. | Photo: ChessBase India",
