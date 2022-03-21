@@ -2312,14 +2312,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/02/28/black-history-month-2022-day-28-im-emory-tate/",
          "pubDate" : "Tue, 01 Mar 2022 04:02:53 +0000",
          "title" : "Black History Month 2022-Day 28: IM Emory Tate"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1605",
-         "pubDate" : "Mon, 28 Feb 2022 22:17:54 +0000",
-         "title" : "The second leg of FIDE Grand Prix 2022 kicks off in Belgrade"
       }
    ]
 }
