@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The FIDE Ethics and Disciplinary Commission (EDC) has reached a verdict on the case 2/2022, relating to public statements by grandmasters&#xA0;Sergey Karjakin&#xA0;(FIDE ID 14109603). The Russian player is found guilty by the panel and Karjakin is banned for 6 months from FIDE rated competitions, missing the Candidates Chess 2022. Who can replace Karjakin in the []",
+         "description" : "Sergey Karjakin was banned by FIDE for 6 months and will miss the Candidates Chess 2022 (who can substitute Karjakin in the competition here). Sergey Karjakin strongly disagreed with the FIDE's ban on his official Telegram channel. He noted that he is disappointed with FIDE's decision, although he does not find it unexpected. Sergey Karjakin []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/karjakin-comments-on-the-ban-by-fide/",
+         "pubDate" : "Mon, 21 Mar 2022 14:32:21 +0000",
+         "title" : "Karjakin comments on the ban by FIDE"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90358530.cms\" />Russian grandmaster Sergey Karjakin has been banned from competition for six months because of his support for Russia's invasion of Ukraine, the International Chess Federation (FIDE) said on Monday. The 32-year-old Karjakin, who challenged Magnus Carlsen for the world title in 2016, has defended his country's actions on social media in recent weeks, drawing intense criticism from the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gm-sergey-karjakin-banned-for-six-months-over-pro-russia-comments/articleshow/90358530.cms",
+         "pubDate" : "Mon, 21 Mar 2022 19:52:57 +0530",
+         "title" : "GM Karjakin banned for six months over pro-Russia comments"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90358280.cms\" />Grandmasters Arjun Erigaise and Abhijeet Gupta will start as favourites when the 19th edition of the Delhi International open chess tournament gets underway on Tuesday. Arjun starts as the top seed, while defending champion and five-time Commonwealth champion Abhijeet will be the third seed. Russian Pavel Ponkratov has been seeded second.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmasters-arjun-abhijeet-start-as-favourites-in-delhi-international-open-chess/articleshow/90358280.cms",
+         "pubDate" : "Mon, 21 Mar 2022 19:33:42 +0530",
+         "title" : "GMs Arjun, Abhijeet start as favourites in Delhi International Open chess"
+      },
+      {
+         "description" : "The FIDE Ethics and Disciplinary Commission (EDC) has reached a verdict on the case 2/2022, relating to public statements by grandmasters&#160;Sergey Karjakin&#160;(FIDE ID 14109603). The Russian player is found guilty by the panel and Karjakin is banned for 6 months from FIDE rated competitions, missing the Candidates Chess 2022. Who can replace Karjakin in the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/who-can-replace-karjakin-for-the-candidates-tournament-2022/",
          "pubDate" : "Mon, 21 Mar 2022 13:59:12 +0000",
          "title" : "Who can replace Karjakin for the Candidates Tournament 2022"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90358205.cms\" />Weeks after getting the better of World champion Magnus Carlsen, young gun R Praggnanandhaa took another big scalp in the Meltwater Champions Chess Tour, beating world No.3 Ding Liren in the final round of the day at the ongoing Charity Cup on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/charity-cup-praggnanandhaa-beats-ding-liren-lies-sixth/articleshow/90358205.cms",
+         "pubDate" : "Mon, 21 Mar 2022 19:25:55 +0530",
+         "title" : "Charity Cup: Praggnanandhaa beats Ding Liren, lies sixth"
       },
       {
          "description" : " <p class=\"lead\">The FIDE Ethics and Disciplinary Commission banned GM Sergey Karjakin from participating as a player in any FIDE rated chess competition, while GM Sergey Shipov faced no sanctions due to his less provocative statements. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Untitled-design-1.jpg\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> It wasn't long after Russia's military invasion of Ukraine that GM Sergey Karjakin started tweeting in favour of the war and spreading propaganda all over his social media channels. The chess community, from companies to influencers, publicly disagreed with the Russian GM and demanded FIDE to take action over this mat",
@@ -34,7 +66,7 @@ news_feed (
          "title" : "Oceania news"
       },
       {
-         "description" : "The FIDE Ethics and Disciplinary Commission (EDC) has reached a verdict on the case 2/2022, relating to public statements by grandmasters&#160;Sergey Karjakin&#160;(FIDE ID 14109603) and&#160;Sergei Shipov&#160;(FIDE ID 4113624). Related: Russia and Belarus Chess teams suspended The EDC First Instance Chamber, formed by Yolander Persaud (Guyana), Ravindra Dongre (India), and Johan Sigeman (Sweden) as Chairperson,&#160;unanimously decided []",
+         "description" : "The FIDE Ethics and Disciplinary Commission (EDC) has reached a verdict on the case 2/2022, relating to public statements by grandmasters&#xA0;Sergey Karjakin&#xA0;(FIDE ID 14109603) and&#xA0;Sergei Shipov&#xA0;(FIDE ID 4113624). Related: Russia and Belarus Chess teams suspended The EDC First Instance Chamber, formed by Yolander Persaud (Guyana), Ravindra Dongre (India), and Johan Sigeman (Sweden) as Chairperson,&#xA0;unanimously decided []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/karjakin-banned-for-6-months-from-fide-competitions/",
@@ -45,7 +77,7 @@ news_feed (
          "description" : "The FIDE Ethics and Disciplinary Commission (EDC) has banned GM Sergey Karjakin for six months from participating as a player in any FIDE rated chess competition. The 32-year-old Russian grandmaster, who is a fierce supporter of Russian president ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/breaking-karjakin-banned-for-6-months",
+         "link" : "https://www.chess.com/news/view/sergey-karjakin-banned-for-6-months",
          "pubDate" : "Mon, 21 Mar 2022 05:43:00 -0700",
          "title" : "BREAKING: Karjakin Banned For 6 Months, Misses Out On Candidates"
       },
@@ -216,14 +248,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-166",
          "pubDate" : "Sun, 20 Mar 2022 17:30:00 +0100",
          "title" : "A tale of two universities and two engines"
-      },
-      {
-         "description" : "The FIDE Candidates Chess 2022 will take place in Madrid, June 16 July 7. It will be an 8 player double round robin with some of the world's top Grandmasters. The winner will qualify for the World Championship match later this year. The World Championship Match between the reigning World Champion and the Challenger, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-madrid/",
-         "pubDate" : "Sun, 20 Mar 2022 15:24:16 +0000",
-         "title" : "FIDE Candidates Chess 2022 Madrid"
       },
       {
          "description" : "Russia&#39;s warfare in Ukraine has left Arkady Dvorkovich, a former Russian deputy prime minister, in a precarious situation. Now 24 days into the war, some are calling for the FIDE president to resign while others continue to support him.&#38;nbsp;Altho...",
