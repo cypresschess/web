@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pavel Ponkratov is the winner of the 1st Guwahati Chess Open. The top seeded player in the participants list Ponkratov scored 8,5/10, the same points as GM Fawzy Adham, but won the gold with a better tiebreak. Third place is for IM Nitin S. A total of 256 players participated in the event FM Aradhya []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pavel-ponkratov-wins-1st-guwahati-chess-open/",
+         "pubDate" : "Mon, 21 Mar 2022 07:04:39 +0000",
+         "title" : "Pavel Ponkratov wins 1st Guwahati Chess Open"
+      },
+      {
+         "description" : "The ECF Directors at their recent Board meeting agreed that the ECF will until further notice offer free ECF membership to all Ukrainians with a...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-memberships-ukraine/",
+         "pubDate" : "Mon, 21 Mar 2022 06:38:47 +0000",
+         "title" : "ECF memberships - Ukraine"
+      },
+      {
+         "description" : "Le Quang Liem is sole leader of the Charity Chess Cup 2022 after day 2 of the Prelims. The former World Blitz Champion, who is now a university chess coach, scored three wins and a draw to stay unbeaten in the event being held as a fundraiser for UNICEF. The Vietnamese Grandmaster collected 20 points []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/le-quang-liem-is-sole-leader-of-the-charity-cup-after-day-2/",
+         "pubDate" : "Mon, 21 Mar 2022 06:33:09 +0000",
+         "title" : "Le Quang Liem is sole leader of the Charity Cup after day 2"
+      },
+      {
          "description" : "GM Maxim Matlakov won the knockout phase of week six of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase. GM Dmitry Andreikin finished second in both the knockout and the Swiss tournament. GMs Daniil Dubov and Vladimir Fedoseev ma...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -336,14 +360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1641",
          "pubDate" : "Fri, 18 Mar 2022 10:10:33 +0000",
          "title" : "FIDE Grand Prix: Esipenko replaces Andreikin in Berlin"
-      },
-      {
-         "description" : "The Serbian Championship Semi-final is a 9-round Swiss tournament taking place from 17&#x2013;23 March 2022 in Paracin, Serbia. Four players will qualify for the Serbian Chess Championship 2022 which will be played in December 2022. Participants 1 GM Budisavljevic Luka&#160; 2519 2 IM Cabarkapa Novak&#160; 2483 3 GM Zajic Milan&#160; 2450 4 IM Ratkovic []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/serbian-chess-championship-2022-semifinal/",
-         "pubDate" : "Fri, 18 Mar 2022 09:38:12 +0000",
-         "title" : "Serbian Chess Championship 2022 semifinal"
       },
       {
          "description" : "This week Robert Ris takes a look at the interesting line Richard Rapport used to defeat Gr&uuml;nfeld expert Maxime Vachier-Lagrave in the Gr&uuml;nfeld and reveals a little secret about the move 12.Rc3!? in the Exchange Variation of the Gr&uuml;nfeld that brought Rapport a crucial win. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
