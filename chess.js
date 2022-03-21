@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE Grand Prix Berlin 2022 is the final leg of the Grand Prix series that will determine the participants in the Candidates Chess 2022. With Richard Rapport practically qualified after winning the Belgrade Grand Prix, just one spot is available for grabs. FIDE Grand Prix Berlin 2022 is going to take place March 21 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-grand-prix-berlin-2022/",
+         "pubDate" : "Mon, 21 Mar 2022 11:27:36 +0000",
+         "title" : "FIDE Grand Prix Berlin 2022"
+      },
+      {
+         "description" : "FIDE Grand Prix Berlin 2022 is the final leg of the Grand Prix series that will determine the participants in the Candidates Chess 2022. With Richard Rapport practically qualified after winning the Belgrade Grand Prix, just one spot is available for grabs. Live games from the Berlin Grand Prix will be daily on Chessdom.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/berlin-grand-prix-2022-live/",
+         "pubDate" : "Mon, 21 Mar 2022 11:25:24 +0000",
+         "title" : "Berlin Grand Prix 2022 LIVE"
+      },
+      {
+         "description" : "Liem Quang Le said \"this is amazing\" as he won three games and drew one for a second day in a row to take a 4-point lead at the top of the Charity Cup table. Magnus Carlsen is also well on course to qualify for the knockout stages as he also won three games, though he lost again, this time to David Navara, with the Czech no. 1 the player who most improved his chances. Jan-Krzysztof Duda remains unbeaten and level with Magnus in second place, while 16-year-old Praggnanandhaa took down world no. 3 Ding Liren to squeeze into the Top 8.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/charity-cup-2-le-leads-carlsen-duda-follow",
+         "pubDate" : "Mon, 21 Mar 2022 11:13:11 +0000",
+         "title" : "Charity Cup 2: Le leads, Carlsen & Duda follow"
+      },
+      {
+         "description" : "Teams desirous to participate in the National Team Chess Championship are requested to make the necessary payment of Rs. 3750/Rs. 6250 as the case may",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/notice-national-team-national-team-for-women-chess-championship-2022/",
+         "pubDate" : "Mon, 21 Mar 2022 11:06:53 +0000",
+         "title" : "Notice : National Team & National Team for Women Chess Championship 2022"
+      },
+      {
+         "description" : "Hans Niemann had a strong Day 1 at the Charity Chess Cup 2022 where he emerged a leader of the event. In Day 2 he played against the World Champion Magnus Carlsen. Here is the game and the thoughts of the commentators at the end of it.",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-vs-hans-niemannvideo-and-game/",
+         "pubDate" : "Mon, 21 Mar 2022 10:35:00 +0000",
+         "title" : "Magnus Carlsen vs Hans Niemann(video and game)"
+      },
+      {
+         "description" : "On the third episode of The Late Knight Show, Askild Bryn and David Howell speak to popular British Grandmaster Simon Williams, who reveals the secrets behind his success. How did he get into chess? Who is his \"nemesis\"? And how did he get locked in his room, almost missing his final GM norm?",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/the-late-knight-show-simon-williams",
+         "pubDate" : "Mon, 21 Mar 2022 10:29:04 +0000",
+         "title" : "The Late Knight Show: Simon 'GingerGM' Williams"
+      },
+      {
+         "description" : "Actively participate in some tactics training again! This time we concentrate on the process of solving tactics, and how to use your pattern recognition to conquer interesting puzzles. Lawrence chose two examples, played in Moscow and Leningrad. In the ChessBase tactics training, we solve one of the most beautiful tactics.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-17",
+         "pubDate" : "Mon, 21 Mar 2022 10:15:43 +0100",
+         "title" : "Trent's Tactics - Russian tactics from 1924 and 1940"
+      },
+      {
+         "description" : "GM Le Quang Liem continues to lead the preliminaries of the 2022 Meltwater Champions Chess Tour&#39;s&#38;nbsp;Charity Cup. With three wins on the second day, World Champion&#38;nbsp;Magnus Carlsen&#38;nbsp;is now in second place together with GM Jan-Krzysztof Du...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-charity-cup-day-2",
+         "pubDate" : "Mon, 21 Mar 2022 01:35:26 -0700",
+         "title" : "Charity Cup Day 2: Carlsen, Duda Trailing As Leader Le Hits h3 Twice"
+      },
+      {
+         "description" : "Andrey Esipenko shared his thoughts during the Charity Chess Cup 2022. Esipenko's favorite opening is the Italian opening and his style depends on his mood. More about Charity Cup:&#xA0;Charity Cup 2022 live&#xA0;/&#xA0;Charity Cup 2022 video)&#xA0;Round reports:&#xA0;Hans Niemann and Liem Quang Le lead&#xA0;after Day 1&#xA0;/&#xA0;Le Quang Liem is sole leader after Day 2",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/interview-with-andrey-esipenko/",
+         "pubDate" : "Mon, 21 Mar 2022 08:33:29 +0000",
+         "title" : "Interview with Andrey Esipenko"
+      },
+      {
+         "description" : "After the successful start of the No Castling Chess last year, the NC World Masters will be expanded in Dortmund in July 2022: The two world chess champions Vladimir Kramnik and Viswanathan Anand will meet two more strong grandmasters in a double-round tournament: the winner of the NC Sparkassen Online Open 2021 Krishnan Sasikiran (India) []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/no-castling-chess-2022/",
+         "pubDate" : "Mon, 21 Mar 2022 07:50:49 +0000",
+         "title" : "No Castling Chess 2022"
+      },
+      {
          "description" : "Pavel Ponkratov is the winner of the 1st Guwahati Chess Open. The top seeded player in the participants list Ponkratov scored 8,5/10, the same points as GM Fawzy Adham, but won the gold with a better tiebreak. Third place is for IM Nitin S. A total of 256 players participated in the event FM Aradhya []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -30,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-6-matlakov-wins",
-         "pubDate" : "Sun, 20 Mar 2022 19:27:44 -0700",
+         "pubDate" : "Sun, 20 Mar 2022 19:27:00 -0700",
          "title" : "Rapid Chess Championship Week 6: Matlakov Wins Knockout"
       },
       {
@@ -162,14 +242,6 @@ news_feed (
          "title" : "Logical Chess (2)"
       },
       {
-         "description" : "Vietnamese star Liem Quang Le and the teenage American&#xA0;Hans Niemann set the pace on day 1 of the Charity Chess Cup 2022 as more than $17,000 was donated to UNICEF. The two underdogs both racked up three wins and a draw to finish&#xA0;unbeaten on 10/12 points. World Champion Magnus Carlsen, meanwhile, ended on a sour []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-and-liem-quang-le-lead-charity-chess-cup-after-round-4/",
-         "pubDate" : "Sat, 19 Mar 2022 21:46:27 +0000",
-         "title" : "Hans Niemann and Liem Quang Le lead Charity Chess Cup after round 4"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Illya Nyzhnyk reveals how he handles the difficult decision when presented with two equally good moves. Originally live on Twitch<br /> 2022.02.07<br /> Titas Stremavicius vs. Illya Nyzhnyk, 2020<br /> Ray Robson vs Illya Nyzhnyk, Spring Chess Classic (A) (2019)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1946987\">https://www.chessgames.com/perl/chessgame?gid=1946987</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/judgment-call-lege",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -234,22 +306,6 @@ news_feed (
          "title" : "No-castling chess back in Dortmund"
       },
       {
-         "description" : "The Charity Chess Cup 2022, the 2nd event on the Meltwater Champions Chess Tour, starts this Saturday March 19th as a @UNICEF fundraiser for children and their families in and around Ukraine. Follow: Charity Cup 2022 live&#160;/&#160;Charity Cup 2022 video Charity Cup is the second tournament of the Meltwater Champions Tour 2022. Sixteen of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/charity-chess-cup-2022/",
-         "pubDate" : "Sat, 19 Mar 2022 01:24:00 +0000",
-         "title" : "Charity Chess Cup 2022"
-      },
-      {
-         "description" : "GM Andrey Esipenko is entering the Berlin FIDE Grand Prix 2022. GM Dmitry Andreikin withdrew from the third leg of the FIDE Grand Prix due to personal reasons. GM Esipenko enters the Berlin Grand Prix as the highest rated eligible player in the December 2021 list. Recent article about GM Esipenko and how the young []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-andrey-esipenko-is-entering-the-berlin-fide-grand-prix-2022/",
-         "pubDate" : "Fri, 18 Mar 2022 19:10:56 +0000",
-         "title" : "GM Andrey Esipenko is entering the Berlin FIDE Grand Prix 2022"
-      },
-      {
          "description" : "The second event on the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Besides Magnus Carlsen, Ding Liren, Richard Rapport and women's world champion Ju Wenjun are among the participants from twelve different countries, with no Russian players involved.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -290,14 +346,6 @@ news_feed (
          "title" : "Charity Cup 2022 - Games and Results"
       },
       {
-         "description" : "Stockfish, the strongest open source chess engine and current reigning champion of TCEC, leads the Premier Division of the Top Chess Engine Championship. After round 28, Stockfish has 19,5/28 (11 wins, 17 draws) and is clear first. Second position is for Komodo with 18,5/28 (10 wins, 1 loss, 17 draws), while Lc0 is third with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stockfish-leads-tcec-s22-premier-division-at-halftime/",
-         "pubDate" : "Fri, 18 Mar 2022 14:01:51 +0000",
-         "title" : "Stockfish leads TCEC S22 Premier Division at halftime"
-      },
-      {
          "description" : "In some openings, having the isolated pawn is the path to continue to middle-, and endgames. But do you know the technique on how to play with an isolated pawn, or against it? Svitlana has the knowledge, of course, and is happy to share it with us.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -320,14 +368,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-week-5",
          "pubDate" : "Fri, 18 Mar 2022 06:22:00 -0700",
          "title" : "Collegiate Chess League Season 4 Week 5"
-      },
-      {
-         "description" : "FIDE Grand Swiss Chess 2023 is going to take place October 23 to November 5, 2023 in Isle of Man. Royal Hall of the Villa Marina in Douglas will host the 159 players 109 in the open section and 50 in the women section. FIDE Grand Swiss is returning to the island after having []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-grand-swiss-chess-2022-in-isle-of-man/",
-         "pubDate" : "Fri, 18 Mar 2022 13:18:17 +0000",
-         "title" : "FIDE Grand Swiss Chess 2023 in Isle of Man"
       },
       {
          "description" : "\"First restrain, then blockade, finally destroy!\", wrote Aron Nimzowitsch almost a century ago. The art of stopping opponents pawn avalanches was so dear to him, that he dedicated a full book to it. \"Die Blockade\" was published in 1925, in the same year as \"Mein System.\" Jan Markos offers modern examples to show what to do against a phalanx of dangerous pawns. | Photo: Pixabay",
@@ -1562,14 +1602,6 @@ news_feed (
          "title" : "Siegbert Tarrasch: Player, Thinker, and Teacher Extraordinaire (5 March 1862- 17 February 1934)"
       },
       {
-         "description" : "It may not be International Women's Day anymore, but that doesn't mean chess24 is finished celebrating the work of our inspirational female figures.Today we're continuing with Part 2 of our interviews with the women who power the Meltwater Champions Chess Tour. After this, there will be more!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/international-women-s-day-women-who-power-the-tour-part-2",
-         "pubDate" : "Wed, 09 Mar 2022 11:41:00 +0000",
-         "title" : "International Women's Day: Powering the Tour, part 2"
-      },
-      {
          "description" : "In his \"Weekly Show\" Lawrence Trent talks a bit about the Grand Prix in Belgrade, but the focus of the show is game 1 of the Sweden-England Challenge match between Nils Grandelius and David Howell. In the first game, Nils missed a number of great opportunities to win in a funky sideline of the Berlin but David defended resolutely and the game ended in a draw. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1608,14 +1640,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/thoughts-on-international-women-s-day-remembering-vera-menchik",
          "pubDate" : "Tue, 08 Mar 2022 18:00:00 +0100",
          "title" : "Thoughts on International Women's Day: Remembering Vera Menchik"
-      },
-      {
-         "description" : "To celebrate International Women's Day, we're kicking off a series of interviews with women from all over the chess world. We'll be speaking to everyone from top female players, to authors, commentators, streamers, and people who work behind the scenes for different chess companies. Today and tomorrow, we're focusing on the Meltwater Champions Chess Tour and some of the women who power it.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/international-women-s-day-women-who-power-the-tour-part-1",
-         "pubDate" : "Tue, 08 Mar 2022 16:23:12 +0000",
-         "title" : "International Women's Day: Powering the Tour, part 1"
       },
       {
          "description" : "",
@@ -1826,14 +1850,6 @@ news_feed (
          "title" : "Belgrade GP: Fire on board"
       },
       {
-         "description" : "GM Levon Aronian won the fourth week of the 2022 Rapid Chess Championship tournament presented by Coinbase.&#38;nbsp;Last week&#39;s winner, GM Fabiano Caruana, finished second. GM Hikaru Nakamura finished first in the preliminary Swiss tournament but fel...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-week-4-aronian-wins",
-         "pubDate" : "Sun, 06 Mar 2022 20:41:00 -0800",
-         "title" : "Rapid Chess Championship Week 4: Aronian Wins Knockout"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1952,22 +1968,6 @@ news_feed (
          "link" : "https://www.thearticle.com/but-i-am-a-ukrainian/",
          "pubDate" : "Sat, 05 Mar 2022 11:29:23 +0000",
          "title" : "'But I am a Ukrainian'"
-      },
-      {
-         "description" : "The Board of the European Chess Union met in an extraordinary session this week. The organization strongly condemned the Russian invasion of Ukraine, the involvement of Belarus, and expressed its solidarity for the Ukrainian people. Notably, the Board decided to suspend the Russian and Belarusian Chess Federations. Individual players from these countries will be excluded from all ECU competitions unless they change federation or by their expressed will represent the FIDE flag in the rating list.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ecu-suspends-the-russian-and-belarusian-chess-federations",
-         "pubDate" : "Sat, 05 Mar 2022 11:00:00 +0100",
-         "title" : "ECU suspends the Russian and Belarusian Chess Federations"
-      },
-      {
-         "description" : "MPL 46th National Sub Junior Open and Girls Chess Championship 2022 All Top Seeded players with march of Winning in Open 3rd Seeded Bhilva Nilaya",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-46th-national-sub-junior-open-and-girls-chess-championship-2022day-1/",
-         "pubDate" : "Sat, 05 Mar 2022 06:28:21 +0000",
-         "title" : "MPL 46th National Sub Junior Open and Girls Chess Championship 2022:Day 1"
       },
       {
          "description" : "",
@@ -2264,30 +2264,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/02/blitz-boost.html",
          "pubDate" : "Mon, 28 Feb 2022 12:24:00 +0000",
          "title" : "Blitz boost"
-      },
-      {
-         "description" : "The English Chess Federation (ECF) agrees with FIDE Council's recently announced decision that the 44th Chess Olympiad, including the competition for players with disabilities, as...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ukraine-statement/",
-         "pubDate" : "Mon, 28 Feb 2022 09:10:52 +0000",
-         "title" : "Ukraine - statement"
-      },
-      {
-         "description" : "Wednesday 4th May to Sunday 8th May 2022 at the Holiday Inn Kenilworth-Warwick, 212 Abbey End, Kenilworth CV8 1ED. Over 50 - players must be...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-seniors-championships-2022/",
-         "pubDate" : "Mon, 28 Feb 2022 08:52:30 +0000",
-         "title" : "English Seniors Championships 2022"
-      },
-      {
-         "description" : "The 30-year-old is a resident doctor in a city hospital and moved to Ukraine in 2012 to have better chess tournament opportunities.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33390116/indian-chess-im-anwesh-upadhyaya-caught-ukraine-amid-russia-war?device=featurephone",
-         "pubDate" : "Mon, 28 Feb 2022 02:49:01 -0500",
-         "title" : "Indian chess IM in Ukraine is safe in Kyiv but faces tough call on trek to border"
       }
    ]
 }
