@@ -2,14 +2,6 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Sergey Karjakin was banned by FIDE for 6 months and will miss the Candidates Chess 2022 (who can substitute Karjakin in the competition here). Sergey Karjakin strongly disagreed with the FIDE's ban on his official Telegram channel. He noted that he is disappointed with FIDE's decision, although he does not find it unexpected. Sergey Karjakin []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/karjakin-comments-on-the-ban-by-fide/",
-         "pubDate" : "Mon, 21 Mar 2022 14:32:21 +0000",
-         "title" : "Karjakin comments on the ban by FIDE"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90358530.cms\" />Russian grandmaster Sergey Karjakin has been banned from competition for six months because of his support for Russia's invasion of Ukraine, the International Chess Federation (FIDE) said on Monday. The 32-year-old Karjakin, who challenged Magnus Carlsen for the world title in 2016, has defended his country's actions on social media in recent weeks, drawing intense criticism from the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -42,12 +34,28 @@ news_feed (
          "title" : "Charity Cup: Praggnanandhaa beats Ding Liren, lies sixth"
       },
       {
+         "description" : "The FIDE Ethics and Disciplinary Commission (EDC) has reached a verdict on the case 2/2022, relating to public statements by grandmasters&#160;Sergey Karjakin&#160;(FIDE ID 14109603) and&#160;Sergei Shipov&#160;(FIDE ID 4113624). Related: Russia and Belarus Chess teams suspended The EDC First Instance Chamber, formed by Yolander Persaud (Guyana), Ravindra Dongre (India), and Johan Sigeman (Sweden) as Chairperson,&#160;unanimously decided []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/karjakin-banned-for-6-months-from-fide-competitions/",
+         "pubDate" : "Mon, 21 Mar 2022 13:49:00 +0000",
+         "title" : "Karjakin banned for 6 months from FIDE competitions"
+      },
+      {
          "description" : " <p class=\"lead\">The FIDE Ethics and Disciplinary Commission banned GM Sergey Karjakin from participating as a player in any FIDE rated chess competition, while GM Sergey Shipov faced no sanctions due to his less provocative statements. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Untitled-design-1.jpg\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> It wasn't long after Russia's military invasion of Ukraine that GM Sergey Karjakin started tweeting in favour of the war and spreading propaganda all over his social media channels. The chess community, from companies to influencers, publicly disagreed with the Russian GM and demanded FIDE to take action over this mat",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/gm-sergey-karjakin-is-banned-for-6-months-by-fide-ethics/",
          "pubDate" : "Mon, 21 Mar 2022 13:41:39 +0000",
          "title" : "GM Sergey Karjakin is banned for 6 months by FIDE Ethics"
+      },
+      {
+         "description" : "Sergey Karjakin was banned by FIDE for 6 months and will miss the Candidates Chess 2022 (who can substitute Karjakin in the competition here). Sergey Karjakin strongly disagreed with the FIDE's ban on his official Telegram channel. He noted that he is disappointed with FIDE's decision, although he does not find it unexpected. Sergey Karjakin []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/karjakin-comments-on-the-ban-by-fide/",
+         "pubDate" : "Mon, 21 Mar 2022 13:11:00 +0000",
+         "title" : "Karjakin comments on the ban by FIDE"
       },
       {
          "description" : "Controversial former world title challenger Sergey Karjakin, who sparked widespread criticism for his support of Russia's war in Ukraine, has been banned from all competition by FIDE, it was announced today. The Crimea-born Grandmaster, who switched from representing Ukraine to Russia is 2009, is now stripped of his place in the upcoming Candidates tournament pending any appeal.",
@@ -64,14 +72,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/oceania-news.html",
          "pubDate" : "Mon, 21 Mar 2022 12:52:00 +0000",
          "title" : "Oceania news"
-      },
-      {
-         "description" : "The FIDE Ethics and Disciplinary Commission (EDC) has reached a verdict on the case 2/2022, relating to public statements by grandmasters&#xA0;Sergey Karjakin&#xA0;(FIDE ID 14109603) and&#xA0;Sergei Shipov&#xA0;(FIDE ID 4113624). Related: Russia and Belarus Chess teams suspended The EDC First Instance Chamber, formed by Yolander Persaud (Guyana), Ravindra Dongre (India), and Johan Sigeman (Sweden) as Chairperson,&#xA0;unanimously decided []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/karjakin-banned-for-6-months-from-fide-competitions/",
-         "pubDate" : "Mon, 21 Mar 2022 12:49:32 +0000",
-         "title" : "Karjakin banned for 6 months from FIDE competitions"
       },
       {
          "description" : "The FIDE Ethics and Disciplinary Commission (EDC) has banned GM Sergey Karjakin for six months from participating as a player in any FIDE rated chess competition. The 32-year-old Russian grandmaster, who is a fierce supporter of Russian president ...",
