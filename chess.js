@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Youth Team Chess Championships 2022 will take place from 11 July (arrivals) to 19 July (departures) in the Conference Hall of the 5 stars Lazart Hotel in Thessaloniki which will host also the European Rapid and Blitz Chess Championship 2022 from 19 July to 23 July 2022. The European Youth Team Chess Championships (EYTCC) []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-team-and-european-youth-rapid-blitz-chess-championships-2022/",
+         "pubDate" : "Mon, 21 Mar 2022 21:09:55 +0000",
+         "title" : "European Youth Team and European Youth Rapid & Blitz Chess Championships 2022"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -272,14 +280,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-memberships-ukraine/",
          "pubDate" : "Mon, 21 Mar 2022 06:38:47 +0000",
          "title" : "ECF memberships - Ukraine"
-      },
-      {
-         "description" : "Le Quang Liem is sole leader of the Charity Chess Cup 2022 after day 2 of the Prelims. The former World Blitz Champion, who is now a university chess coach, scored three wins and a draw to stay unbeaten in the event being held as a fundraiser for UNICEF. The Vietnamese Grandmaster collected 20 points []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/le-quang-liem-is-sole-leader-of-the-charity-cup-after-day-2/",
-         "pubDate" : "Mon, 21 Mar 2022 06:33:09 +0000",
-         "title" : "Le Quang Liem is sole leader of the Charity Cup after day 2"
       },
       {
          "description" : "GM Maxim Matlakov won the knockout phase of week six of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase. GM Dmitry Andreikin finished second in both the knockout and the Swiss tournament. GMs Daniil Dubov and Vladimir Fedoseev ma...",
