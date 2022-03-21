@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Controversial former world title challenger Sergey Karjakin, who sparked widespread criticism for his support of Russia's war in Ukraine, has been banned from all competition by FIDE, it was announced today. The Crimea-born Grandmaster, who switched from representing Ukraine to Russia is 2009, is now stripped of his place in the upcoming Candidates tournament pending any appeal.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/sergey-karjakin-banned-from-chess-for-6-months-over-ukraine-stance",
+         "pubDate" : "Mon, 21 Mar 2022 12:57:50 +0000",
+         "title" : "Russian grandmaster Sergey Karjakin banned from chess for 6 months over Ukraine stance"
+      },
+      {
+         "description" : " The last 2 years has seen very little chess activity in Oceania , for obvious reasons. Apart from some online participation in FIDE and Asian events, it has been pretty quiet. Signs of life are starting to appear though, with the decision to hold the 2023 Oceania in Melbourne in January 2023. Teams are starting to get themselves organised for the Olympiad, and there is also talk of a possible Oceania Juniors in 2022 (or 23), and an Oceania Seniors. Unlike almost all other FIDE zones, air travel is the key to the success of these events, so hopefully the opening of borders between the various countries will see renewed enthusiasm for these tournaments. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/oceania-news.html",
+         "pubDate" : "Mon, 21 Mar 2022 12:52:00 +0000",
+         "title" : "Oceania news"
+      },
+      {
+         "description" : "The FIDE Ethics and Disciplinary Commission (EDC) has reached a verdict on the case 2/2022, relating to public statements by grandmasters&#xA0;Sergey Karjakin&#xA0;(FIDE ID 14109603) and&#xA0;Sergei Shipov&#xA0;(FIDE ID 4113624). Related: Russia and Belarus Chess teams suspended The EDC First Instance Chamber, formed by Yolander Persaud (Guyana), Ravindra Dongre (India), and Johan Sigeman (Sweden) as Chairperson,&#xA0;unanimously decided []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/karjakin-banned-for-6-months-from-fide-competitions/",
+         "pubDate" : "Mon, 21 Mar 2022 12:49:32 +0000",
+         "title" : "Karjakin banned for 6 months from FIDE competitions"
+      },
+      {
+         "description" : "The FIDE Ethics and Disciplinary Commission (EDC) has banned GM Sergey Karjakin for six months from participating as a player in any FIDE rated chess competition. The 32-year-old Russian grandmaster, who is a fierce supporter of Russian president ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/breaking-karjakin-banned-for-6-months",
+         "pubDate" : "Mon, 21 Mar 2022 05:43:00 -0700",
+         "title" : "BREAKING: Karjakin Banned For 6 Months, Misses Out On Candidates"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1650",
+         "pubDate" : "Mon, 21 Mar 2022 12:24:35 +0000",
+         "title" : "FIDE Ethics imposes a 6-month ban on Karjakin"
+      },
+      {
+         "description" : "47 National Women Certificates are Out (25 feb to 03-Mar) MPL 47th National Women Chess Championship are out to download. click the link given below",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/47-national-women-certificates/",
+         "pubDate" : "Mon, 21 Mar 2022 11:53:59 +0000",
+         "title" : "47 National Women Certificates"
+      },
+      {
+         "description" : "Le Quang Liem is the sole leader of the Charity Cup preliminaries after eight rounds. The Vietnamese grandmaster won six out of eight games so far to go into day 3 with an unbeaten 20/24 score. A full four points behind stand Magnus Carlsen and Jan-Krzysztof Duda in shared second place. The single round-robin continues until Tuesday, when half the participants in the 16-player field will move on to the knockout stage. | Photo: Andreas Kontokanis",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/charity-cup-2022-d2",
+         "pubDate" : "Mon, 21 Mar 2022 12:40:00 +0100",
+         "title" : "Charity Cup: Le leads, Pragg impresses"
+      },
+      {
          "description" : "FIDE Grand Prix Berlin 2022 is the final leg of the Grand Prix series that will determine the participants in the Candidates Chess 2022. With Richard Rapport practically qualified after winning the Belgrade Grand Prix, just one spot is available for grabs. FIDE Grand Prix Berlin 2022 is going to take place March 21 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -62,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-charity-cup-day-2",
-         "pubDate" : "Mon, 21 Mar 2022 01:35:26 -0700",
+         "pubDate" : "Mon, 21 Mar 2022 01:35:00 -0700",
          "title" : "Charity Cup Day 2: Carlsen, Duda Trailing As Leader Le Hits h3 Twice"
       },
       {
@@ -136,14 +192,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/checkmate-compositions-double-exclam-wgm-katerina-nemcova",
          "pubDate" : "Sun, 20 Mar 2022 18:08:33 +0000",
          "title" : "Checkmate Compositions | Double Exclam!! - WGM Katerina Nemcova"
-      },
-      {
-         "description" : "The second event of the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Magnus Carlsen, Ding Liren and Richard Rapport head the 16-player field. The tournament is taking place on March 19-26, with the action kicking off daily at 18.00 CET (13.00 ET, 17.00 UTC, 22.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
-         "pubDate" : "Sun, 20 Mar 2022 17:50:00 +0100",
-         "title" : "Charity Cup - Games and results"
       },
       {
          "description" : "Jon Speelman worked as commentator at this year's edition of the long-standing Varsity Match between Oxford and Cambridge Universities. Looking at the games alongside computer-chess expert Matthew Sadler prompted him to reflect on the value of using engines for chess improvement and preparation. | Pictured: The Oxford team - Victor Vasiesiu, Tom O'Gorman, Daniel Karim Abbas, Daniel Sutton, 0Dominic Miller, Filip Mihov, AkShaya Kalaiyalahan, Max French. | Photo: John Saunders",
@@ -1570,14 +1618,6 @@ news_feed (
          "title" : "S.L. Narayanan wins Cattolica International"
       },
       {
-         "description" : "Grandmaster and profilic trainer Evgeny Romanov has become the first top player to change federations since FIDE stopped Russians from competing under the national flag due to the invasion of Ukraine. The move could be the start of a rush of Russian and Belarussian grandmasters changing federations.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/russian-grandmaster-changes-federation",
-         "pubDate" : "Wed, 09 Mar 2022 13:37:04 +0000",
-         "title" : "First Russian Grandmaster changes federation since ban"
-      },
-      {
          "description" : " This week Andrew and I ran three Master Chess Web Shows, the agendas being as follows: Monday The Monday show is devoted to readers' questions, with these three being addressed: 1) How should Black play against the 3.e5 Bf5 4.Ne2 e6 5.Ng3 Bg6 6.h4 line of the Caro-Kann? 2) What is the best ever King's <a href=\"https://chessimprover.com/master-chess-web-show-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-4/\">Master Chess Web Show (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1770,14 +1810,6 @@ news_feed (
          "title" : "Bullet Chess Championship 2022: Erigaisi, Bortnyk Advance In Losers Bracket"
       },
       {
-         "description" : "Wow! The last round of the FIDE Grand Prix Belgrade pool phase turned out to be everything we could have hoped for or more.&#38;nbsp; In Group A, GM Dmitry Andreikin emerged as the victor after winning a turbulent game. GM Anish Giri punched his tic...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-round-6",
-         "pubDate" : "Mon, 07 Mar 2022 14:50:00 -0800",
-         "title" : "2022 FIDE Grand Prix Belgrade R6: Andreikin, Giri, Rapport, MVL Advance"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1928,14 +1960,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/a-curious-miniature.html",
          "pubDate" : "Sun, 06 Mar 2022 10:44:00 +0000",
          "title" : "A curious miniature "
-      },
-      {
-         "description" : "The third seed player Harshad S of Tamil Nadu held for draw by lower rated Paarth Salvi of Goa. They both played a marathon game",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-46th-national-sub-junior-open-and-girls-chess-championship-2022-3rd-seed-harshad-s-of-tamil-nadu-held-for-draw-by-paarth-salvi-of-goa/",
-         "pubDate" : "Sun, 06 Mar 2022 07:49:55 +0000",
-         "title" : "MPL 46th National Sub Junior Open and Girls Chess Championship 2022 3rd Seed Harshad S of Tamil Nadu held for draw by Paarth Salvi of Goa"
       },
       {
          "description" : "",
@@ -2248,22 +2272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1604",
          "pubDate" : "Mon, 28 Feb 2022 17:14:09 +0000",
          "title" : "Parligras and Ciolacu win Romanian Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89898950.cms\" />Young Grandmasters Arjun Erigaisi of Telangana and D Gukesh of Tamil Nadu grabbed the joint lead with 5.5 points at the end of the sixth round in the MPL 58th Senior National Chess Championship on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-gukesh-in-lead-in-senior-national-chess/articleshow/89898950.cms",
-         "pubDate" : "Mon, 28 Feb 2022 18:00:21 +0530",
-         "title" : "Arjun Erigaisi, Gukesh in lead in senior national chess"
-      },
-      {
-         "description" : " One thing that I overlooked when planning the 2022 Doeberl Cup was to increase the <a href=\"https://www.doeberlcup.com.au/prizes.html\">prize money</a> for the Blitz event. There were over 120 players in 2021, although almost all the top players gave it a miss. Based on (a) the size of the field and (b) attracting stronger players, the prize pool for the 2022 Kinford Consulting Doeberl Cup Blitz has been increased 50% to $890. First prize is now $250 (up from $150), while other prizes have bee added (or increased). Once again the tournament will take place on Saturday night (16th April) and will be both FIDE and ACF rated. <br /> <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/02/blitz-boost.html",
-         "pubDate" : "Mon, 28 Feb 2022 12:24:00 +0000",
-         "title" : "Blitz boost"
       }
    ]
 }
