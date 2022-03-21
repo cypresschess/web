@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Maxim Matlakov won the knockout phase of week six of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase. GM Dmitry Andreikin finished second in both the knockout and the Swiss tournament. GMs Daniil Dubov and Vladimir Fedoseev ma...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-6-matlakov-wins",
+         "pubDate" : "Sun, 20 Mar 2022 19:27:44 -0700",
+         "title" : "Rapid Chess Championship Week 6: Matlakov Wins Knockout"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -31,7 +39,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
          "pubDate" : "Sun, 20 Mar 2022 17:50:00 +0100",
-         "title" : "Charity Cup - Live!"
+         "title" : "Charity Cup - Games and results"
       },
       {
          "description" : "Jon Speelman worked as commentator at this year's edition of the long-standing Varsity Match between Oxford and Cambridge Universities. Looking at the games alongside computer-chess expert Matthew Sadler prompted him to reflect on the value of using engines for chess improvement and preparation. | Pictured: The Oxford team - Victor Vasiesiu, Tom O'Gorman, Daniel Karim Abbas, Daniel Sutton, 0Dominic Miller, Filip Mihov, AkShaya Kalaiyalahan, Max French. | Photo: John Saunders",
@@ -1816,14 +1824,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1619",
          "pubDate" : "Mon, 07 Mar 2022 00:16:28 +0000",
          "title" : "FIDE Grand Prix Belgrade: Round 5 Recap"
-      },
-      {
-         "description" : "Drama on Sunday was taken care of courtesy of Group C, where both games found victors, most importantly by GM Richard Rapport, who is leading by a full point ahead of the last round. In Group A, two draws mean that GM Dmitry Andreikin and GM Sam S...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-round-5",
-         "pubDate" : "Sun, 06 Mar 2022 16:07:00 -0800",
-         "title" : "2022 FIDE Grand Prix Belgrade R5: Rapport Wins To Take Lead In Group C"
       },
       {
          "description" : "(Original was posted HERE) KEC 2022 Announcement (Kingston Easter Chess) This is the KEC 2022 ANNOUNCEMENT, now updated as of Wednesday, March 9th. Especially given changing pandemic conditions, this will be updated as applicable. KEC 2022 sections (all 5 sections rated both FIDE &amp; CFC): Zonals/Closed championships: - Canada Zonal, - Canada Women Zonal Easter Sectionals: U2200, U1900, U1600 When Wednesday, April 13th: - Welcome @ 630pm, - Round 1 @ 7pm Thursday, April 14th: - Round 2 @ 10am, - Round 3 @ 5pm Friday, April 15th: - Round 4 @ 10am, - Round 5 @ 5pm Saturday, April 16th: - TBD activities, - Round 6 @ 5pm Sunday: April 17th: - Round 7 @ 10am, - Round 8 @ 5pm Monday: April 18th:",
