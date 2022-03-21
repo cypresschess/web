@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1651",
+         "pubDate" : "Mon, 21 Mar 2022 19:15:08 +0000",
+         "title" : "Final leg of FIDE Grand Prix kicks off in Berlin"
+      },
+      {
+         "description" : "The third and the last event of the 2022 FIDE Grand Prix 2022 series opens today in Berlin and takes place from 21st March 4th April. The system of play will be the same as within the first two events held in Berlin and Belgrade. 16 participants will be separated in 4 pools and they will compete&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/the-last-fide-grand-prix-2022-event-starts-in-berlin/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/the-last-fide-grand-prix-2022-event-starts-in-berlin/",
+         "pubDate" : "Mon, 21 Mar 2022 19:10:15 +0000",
+         "title" : "The last FIDE Grand Prix 2022 event starts in Berlin"
+      },
+      {
          "description" : " <p class=\"lead\">The third and final leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022 organized by World Chess</a> kicks off in Berlin. For the next 13 days, the attention of chess fans all over the world will be focused on World Chess Club Berlin, a chess venue in the German capital where the chess superstars will compete for 150,000 euros and more importantly for the last two spots in the upcoming Candidates' Tournament. The challenge is not an easy one, as the winner of the second stage, Grandmaster Richard Rapport, has almost secured the first spot, but the strongest chess players competing in the last leg are ready to fight. <div class=\"e2-tex",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -314,14 +330,6 @@ news_feed (
          "title" : "Dvorkovich In Tight Spot As FIDE President"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1643",
-         "pubDate" : "Sun, 20 Mar 2022 14:30:15 +0000",
-         "title" : "Support Ukrainian Chess Players and their Families"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 71st instalment of his ChessBase show \"Understanding before Moving\", Herman talks about open and half-open files. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -352,6 +360,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1646",
          "pubDate" : "Sun, 20 Mar 2022 11:43:40 +0000",
          "title" : "FIDE Candidates 2022 venue and schedule announced"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1643",
+         "pubDate" : "Sun, 20 Mar 2022 11:30:15 +0000",
+         "title" : "Support Ukrainian Chess Players and their Families"
       },
       {
          "description" : "GM Le Quang Liem and GM Hans Niemann, underdogs for overall victory, are sharing the lead after day one at the Charity Cup. In what is the second&#38;nbsp;leg of the 2022 Meltwater Champions Chess Tour, World Champion&#38;nbsp;Magnus Carlsen suffered an e...",
@@ -2304,14 +2320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1605",
          "pubDate" : "Mon, 28 Feb 2022 22:17:54 +0000",
          "title" : "The second leg of FIDE Grand Prix 2022 kicks off in Belgrade"
-      },
-      {
-         "description" : "European Women's Chess Gala, a special multi-event dedicated to Women's Chess, took place on 26-27 February in Monaco. The events supported by Monaco State, European Chess Union and FIDE Development fund. The event started with activities on Saturday, 26th of February. IM Almira Skripchenko and GM Pia Cramling had the simultaneous exhibition, playing a simul on 16 boards.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-gala-concluded-in-monaco/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-gala-concluded-in-monaco/",
-         "pubDate" : "Mon, 28 Feb 2022 19:45:50 +0000",
-         "title" : "European Women's Chess Gala concluded in Monaco"
       }
    ]
 }
