@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Round 1 of the third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with GMs Levon Aronian, Leinier Dominguez, Alexandr Predke, and Nikita Vitiugov leading their Groups. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-15.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220322151307_IMG_3910.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220322151241_IMG_3909.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictur",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/aronian-dominguez-predke-and-vitiugov-lead-the-fide-gp-after-rou/",
+         "pubDate" : "Tue, 22 Mar 2022 19:29:01 +0000",
+         "title" : "Aronian, Dominguez, Predke, and Vitiugov lead the FIDE GP after Round 1"
+      },
+      {
+         "description" : " <p class=\"lead\">FIDE Online Arena introduces gorgeous new widgets. The widgets, available for dark and light color schemes, allow chess players, bloggers, and the media to easily embed and display games on their sites and blogs in a beautiful way. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/8AD5D101-D004-44E0-91E7-C95C272DB1F9.jpeg\" width=\"1600\" height=\"973\" alt=\"\" /> <div class=\"e2-text-caption\">Widget for all games, played and broadcast, is available on FIDE Online Arena</div> </div> From now on, all games played or broadcast by FIDE Online Arena, are available for embedding. This might be especially useful for chess bloggers and media which cover chess - ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-chess-arena-introduces-official-widgets/",
+         "pubDate" : "Tue, 22 Mar 2022 18:56:43 +0000",
+         "title" : "FIDE Chess Arena Introduces Official Widgets"
+      },
+      {
+         "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; A few weeks ago I shared with you a couple of puzzles with totally unexpected solutions from the &#8220;Chess 2022 Day-to-Day Calendar: <a href=\"https://chessimprover.com/chess-2022-january-top-pics/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 January Top Pics\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-january-top-pics/\">Chess 2022 January Top Pics</a> appeared first on <a rel=\"nofollow\" href=\"https://chess",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-2022-january-top-pics/",
+         "pubDate" : "Tue, 22 Mar 2022 18:09:13 +0000",
+         "title" : "Chess 2022 - January Top Pics"
+      },
+      {
+         "description" : "The second event of the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Magnus Carlsen, Ding Liren and Richard Rapport head the 16-player field. The tournament is taking place on March 19-26, with the action kicking off daily at 18.00 CET (13.00 ET, 17.00 UTC, 22.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
+         "pubDate" : "Tue, 22 Mar 2022 17:50:00 +0100",
+         "title" : "Charity Cup - Live!"
+      },
+      {
          "description" : "The Kremlin dramatically intervened in the row over Sergey Karjakin's worldwide chess ban today as Vladimir Putin's press spokesman called on FIDE to revise its ruling. Dmitry Peskov, who is also chairman of the Board of Trustees of the Russian Chess Federation, told Russian news agency TASS that chess \"must be beyond politics\".",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1650,14 +1682,6 @@ news_feed (
          "title" : "Ukrainian Chess Players In Times Of War"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/mjGWXi7zQ_c?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-semi-final-game-2/",
-         "pubDate" : "Thu, 10 Mar 2022 14:19:33 +0000",
-         "title" : "FIDE Grand Prix in Belgrade: Semi-final Game 2"
-      },
-      {
          "description" : "Garry Kasparov has long been an avowed opponent of Vladimir Putin, and in 2015 he issued a strong warning about Putin and his political aims in his book \"Winter is Coming\". In an interview with the American TV programme \"Amanpour and Company\", Kasparov now talks about the war in Ukraine, Putin's political rise, the failure of the West to oppose Putin and possible sanctions against Russia. Passionate, informed and eloquent.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1736,14 +1760,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1627",
          "pubDate" : "Wed, 09 Mar 2022 22:03:57 +0000",
          "title" : "FIDE Grand Prix Belgrade - Knockout: Day One Recap"
-      },
-      {
-         "description" : " <p class=\"lead\">Richard Rapport defeats Maxime-Vachier-Lagrave as White, while Giri and Andreikin draw <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-09_22-48-49.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-09_22-48-38.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-09_22-48-41.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-09_22-48-46.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pi",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/belgrade-grand-prix-knockout-day-one-recap/",
-         "pubDate" : "Wed, 09 Mar 2022 21:51:25 +0000",
-         "title" : "Belgrade Grand Prix - Knockout: Day One Recap"
       },
       {
          "description" : "From the pool phase of the 2022 FIDE Grand Prix&#38;nbsp;in Belgrade, GMs Dmitry Andreikin, Anish Giri, Richard Rapport, and Maxime Vachier-Lagrave qualified to the semifinals, with Andreikin and Giri meeting in one match while Rapport and Vachier-Lag...",
@@ -2026,14 +2042,6 @@ news_feed (
          "title" : "Red letter day: how Russian chess defied Putin"
       },
       {
-         "description" : "For those who haven't recently done any calculation training, there is the Calculation Training Booster. After all, every chess brain needs regular stimulation, as you don't want to become a lazy player - avoiding calculating critical variations or simply failing to calculate properly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-robert-ris-calculation-training-booster",
-         "pubDate" : "Mon, 07 Mar 2022 12:00:00 +0100",
-         "title" : "New - Robert Ris: Calculation Training Booster"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2224,14 +2232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1603",
          "pubDate" : "Wed, 02 Mar 2022 19:40:52 +0000",
          "title" : "The Official Statement of FIDE Council"
-      },
-      {
-         "description" : " This week on The Master Chess Web Show Andrew Martin and I looked at some more nice games and even answered the first viewer's question. We'll be doing more of this in future, but please submit any questions via our web site as we may need to prepare in advance. Here are the videos from <a href=\"https://chessimprover.com/the-master-chess-web-show-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Master Chess Web Show (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-master-chess-web-show-3/\">The Master Chess Web Show (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/the-master-chess-web-show-3/",
-         "pubDate" : "Wed, 02 Mar 2022 18:20:57 +0000",
-         "title" : "The Master Chess Web Show (3)"
       },
       {
          "description" : " Note from Noël: This is a guest post by a Next Level Chess reader who goes by 'Ringofbarahir' on several Chess platforms (Chessable/Chess.com/Lichess). He is an adult chess improver and looks back on his first year in chess. The clarity of his insights struck me and that's why I'm very happy to share the article [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/5-key-lessons-first-year/\">5 Key Lessons I learned In My First Year Playing Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
