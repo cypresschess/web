@@ -55,7 +55,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
          "pubDate" : "Mon, 21 Mar 2022 17:50:00 +0100",
-         "title" : "Charity Cup - Live!"
+         "title" : "Charity Cup - Games and results"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Ethics Commission</strong> <a href=\"https://www.fide.com/news/1650\">bans</a> <strong>Sergey Karjakin</strong> for six months from any FIDE rated events with immediate effect for his pro-war, anti-Ukrainian statements on social media. Since it costs the Russian challenger of 2016 his place in the Candidates Tournament, the <strong>Chess Federation of Russia</strong> <a href=\"https://t.me/ruchessfed/176\">announced an appeal</a>. Whereas the <strong>ECU</strong> has suspended the federations of Russia and Belarus, FIDE only banned teams from both countries. If the appeal is rejected, the open place in the Candidates Tournament goes to ",
