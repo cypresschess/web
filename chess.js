@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We request you to please find the live Link Page for 19th Delhi Open GM Chess Tournament 2022 https://delhichess.com/live/delhiopen2022/tfd.html",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-page-for-delhi-open-2022/",
+         "pubDate" : "Tue, 22 Mar 2022 08:37:54 +0000",
+         "title" : "Live Link PAGE for Delhi Open 2022"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/0K73vC-14CQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-round-1/",
+         "pubDate" : "Tue, 22 Mar 2022 08:14:25 +0000",
+         "title" : "FIDE Grand Prix in Berlin: Round 1"
+      },
+      {
+         "description" : "In the diagrammed position it is White to move and he has to think about the pawn endgame that will arise after the imminent exchange of rooks. What should White play to get a winning pawn endgame?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-strong-king",
+         "pubDate" : "Tue, 22 Mar 2022 09:00:00 +0100",
+         "title" : "A strong king"
+      },
+      {
          "description" : "Grandmaster, National Champion and someone who is training his sights to battle with the best &#x2013; Arjun Erigaise starts as the top seed and hot favorite for the crown in the 19th edition of the Delhi International open chess tournament 2022 that kickstarts at the Tivoli Garden resorts here. Defending champion of 2020, Grandmaster and []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -175,7 +199,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sergey-karjakin-banned-for-6-months",
          "pubDate" : "Mon, 21 Mar 2022 05:43:00 -0700",
-         "title" : "BREAKING: Karjakin Banned For 6 Months, Misses Out On Candidates"
+         "title" : "Karjakin Banned For 6 Months, Misses Out On Candidates"
       },
       {
          "description" : "",
@@ -186,7 +210,7 @@ news_feed (
          "title" : "FIDE Ethics imposes a 6-month ban on Karjakin"
       },
       {
-         "description" : "47 National Women Certificates are Out (25 feb to 03-Mar) MPL 47th National Women Chess Championship are out to download. click the link given below",
+         "description" : "47 National Women Certificates are Out (25 feb to 03-Mar) MPL 47th National Women Chess Championship &#8220;Certificates&#8221; are out to download. Click the link given",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/47-national-women-certificates/",
@@ -210,7 +234,7 @@ news_feed (
          "title" : "FIDE Grand Prix Berlin 2022"
       },
       {
-         "description" : "FIDE Grand Prix Berlin 2022 is the final leg of the Grand Prix series that will determine the participants in the Candidates Chess 2022. With Richard Rapport practically qualified after winning the Belgrade Grand Prix, just one spot is available for grabs. Live games from the Berlin Grand Prix will be daily on Chessdom.com",
+         "description" : "FIDE Grand Prix Berlin 2022 is the final leg of the Grand Prix series that will determine the participants in the Candidates Chess 2022. With Richard Rapport practically qualified after winning the Belgrade Grand Prix, just one spot is available for grabs. Live games from the Berlin Grand Prix will be daily on Chessdom.com Round []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/berlin-grand-prix-2022-live/",
@@ -1658,14 +1682,6 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Belgrade Semifinals Day 1: Rapport Wins!"
       },
       {
-         "description" : " <p class=\"lead\">Round 1 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 semifinals</a> ended with Rapport winning against MVL and moving closer to the final, while Giri and Andreikin ended a complicated game in a draw agreement. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.4992679355783\"> <img src=\"https://worldchess.com/news/pictures/A-13.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51928807560_67b9281403_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51928805740_1ee7fd5642_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/rapport-beats-mvl-and-moves-closer-to-the-fide-grand-prix-finals/",
-         "pubDate" : "Wed, 09 Mar 2022 17:49:05 +0000",
-         "title" : "Rapport beats MVL and moves closer to the FIDE Grand Prix finals"
-      },
-      {
          "description" : "GM Hikaru Nakamura won the early edition of Titled Tuesday on March 8, scoring 9.5/11 after defeating GM Daniil Dubov in the final round and winning on tiebreaks. Dubov went on to win the late edition and was the only player to reach the top five ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2008,22 +2024,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-apprentice/",
          "pubDate" : "Sun, 06 Mar 2022 17:24:22 +0000",
          "title" : "Chess Apprentice"
-      },
-      {
-         "description" : "Rating favourite Arjun Erigaisi won the MPL 58th National Senior Chess Championship 2022, which took place from February 25 to March 3 in the city of Kanpur. Arjun edged past D Gukesh and Iniyan P on tiebreaks. All three of them scored 8&frac12;/11 points. Only four players younger than Arjun have won the National Senior title in Indian chess history. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arjun-erigaisi-wins-indian-national-championship-2022",
-         "pubDate" : "Sun, 06 Mar 2022 18:00:00 +0100",
-         "title" : "Arjun Erigaisi wins Indian National Championship"
-      },
-      {
-         "description" : "The Fide Arbiter &#38; Fide Trainer Seminar held in Shimla &#38; Bangalore from 04-06 March 2022 ends in a high note , find out some",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/dual-seminar-04-06-march-2022-ends-in-a-high-note/",
-         "pubDate" : "Sun, 06 Mar 2022 16:05:47 +0000",
-         "title" : "Dual Seminar (04-06 March 2022) Ends in a high note"
       },
       {
          "description" : " For no particular reason I decided to see what was opening in the Bundesliga, which is running as I speak. Almost all the games were still in the opening stage, and yet one game was already finished. At first I thought it was a forfeit, or even worse, a mobile phone default, but instead it was just a misplayed opening that was quickly punished. White didn't play any outright blunders (in the usual sense), but every move seemed to make the position worse. Realising that f2 was about fall, White decided that they had seen enough. <br /> <b>Pitl,Jarno (1988) - Wegerle,Joerg (2404) [A04]</b><br />Schachbundesliga chess24.com (2.8), 06.03.2022 <script>new PgnViewer( { boardName: \"game1315\", move",
