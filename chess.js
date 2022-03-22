@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kremlin dramatically intervened in the row over Sergey Karjakin's worldwide chess ban today as Vladimir Putin's press spokesman called on FIDE to revise its ruling. Dmitry Peskov, who is also chairman of the Board of Trustees of the Russian Chess Federation, told Russian news agency TASS that chess \"must be beyond politics\".",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/kremlin-orders-fide-to-overturn-sergey-karjakin-s-worldwide-chess-ban",
+         "pubDate" : "Tue, 22 Mar 2022 15:49:17 +0000",
+         "title" : "Kremlin calls on FIDE to overturn Sergey Karjakin's worldwide chess ban"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Accounts of several unnamed Russian oligarchs <a href=\"https://www.chess.com/blog/CHESScom/on-the-invasion-of-ukraine?ref_id=43524416\">were identified and closed</a> by <strong>Chess.com</strong>, which has also sent the open anti-war-letter by Russian players to its members in Russia and Belarus. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/oligarchs-banned-on-chesscom/",
+         "pubDate" : "Tue, 22 Mar 2022 15:32:38 +0100",
+         "title" : "Oligarchs banned on Chess.com"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/bcbfd35b-6e78-41ca-986d-ffcb6eead9f8/Hans2.jpg\" data-image-dimensions=\"352x235\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6239d9901cc234022c1d887e\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/bcbfd35b-6e78-41ca-986d-ffcb6eead9f8/Hans2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by <a href=\"https://imrosen.com\">IM Eric Rosen </a> </figcaption> </figure> <p class=\"\">18 year old GM Hans Niemann is a rising star in the c",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -938,14 +954,6 @@ news_feed (
          "title" : "French Federation gets promoted"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After removing the Chess Olympiad 2022 from Moscow <a href=\"https://www.fide.com/news/1637\">FIDE has awarded the event to the only bidder</a>, the All India Chess Federation, which will hold the tournament near its original date at the end of July, early August at <a href=\"https://en.wikipedia.org/wiki/Mamallapuram\">Mamallapuram, a tourist town with hotels, temples and beach 50 km south of Chennai</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/mamallapuram-to-host-chess-olympiad/",
-         "pubDate" : "Wed, 16 Mar 2022 10:29:50 +0100",
-         "title" : "Mamallapuram to host Chess Olympiad"
-      },
-      {
          "description" : "The \"Chess for Mental Health\" international event was held on 9 March 2022 in Paris. According to the speakers, many recent studies have already highlighted the benefits of playing chess to support the development of children with autism spectrum disorders, the DYS (dyslexia, dyspraxia, dyscalculia) or attention and hyperactivity disorders.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1536,14 +1544,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-individual-chess-championship-2022-official-invitation/",
          "pubDate" : "Fri, 11 Mar 2022 11:23:45 +0000",
          "title" : "European Women's Individual Chess Championship 2022 - Official invitation"
-      },
-      {
-         "description" : "Richard Rapport is the first player through to the final of the Belgrade FIDE Grand Prix after stunning Maxime Vachier-Lagrave and watching chess fans by going for the sharpest possible opening with the black pieces in a game he only needed to draw. It seemed an inspired choice as he got an endgame that looked an easy draw, but a few slips and Maxime came incredibly close to the win he needed. Andreikin-Giri also saw an offbeat opening, but the quiet draw that followed means the players return for tiebreaks on Friday.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/belgrade-gp-rapport-in-final-andreikin-giri-goes-to-tiebreaks",
-         "pubDate" : "Fri, 11 Mar 2022 10:10:04 +0000",
-         "title" : "Belgrade GP: Rapport in final, Andreikin-Giri goes to tiebreaks"
       },
       {
          "description" : "This week Robert Ris takes a look at a game he played in the Icelandic Team Championships against IM Bjorn Thorfinsson. In the Bishop's Opening (1.e4 e5 2.Bc4) Robert followed a nice attacking scheme for White inspired by a game between Firouzja and Carlsen. Robert will discuss the ins and outs of this plan and also explain why it is actually not doo dangerous (at least if Black knows what to do of course). | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2296,22 +2296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1606",
          "pubDate" : "Tue, 01 Mar 2022 22:25:23 +0000",
          "title" : "Erigaisi, Nakamura and Aronian move up in March rating list"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89930180.cms\" />Grandmaster Arjun Erigasi defeated IM V Pranav to jump into sole lead with 7.5 points after nine rounds in the ongoing MPL 58th Senior National Chess Championship on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/senior-national-chess-arjun-erigaisi-beats-pranav-enjoys-sole-lead/articleshow/89930180.cms",
-         "pubDate" : "Tue, 01 Mar 2022 22:08:18 +0530",
-         "title" : "Senior national chess: Arjun Erigaisi beats Pranav; enjoys sole lead"
-      },
-      {
-         "description" : "The second leg of the 2022 FIDE Grand Prix Series opened yesterday in Belgrade, and the first round kicked off today in the Crown Plaza Belgrade Hotel. Minister of Youth and Sports of Serbia Mr. Vanja Udovicic and President of Serbian Chess Federation Mr. Dragan Lazic made the first ceremonial move in the game between Richard Rapport and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/2nd-leg-of-fide-grand-prix-2022-starts-in-belgrade/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/2nd-leg-of-fide-grand-prix-2022-starts-in-belgrade/",
-         "pubDate" : "Tue, 01 Mar 2022 15:49:38 +0000",
-         "title" : "2nd leg of FIDE Grand Prix 2022 starts in Belgrade"
       }
    ]
 }
