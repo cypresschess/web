@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/bcbfd35b-6e78-41ca-986d-ffcb6eead9f8/Hans2.jpg\" data-image-dimensions=\"352x235\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6239d9901cc234022c1d887e\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/bcbfd35b-6e78-41ca-986d-ffcb6eead9f8/Hans2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by <a href=\"https://imrosen.com\">IM Eric Rosen </a> </figcaption> </figure> <p class=\"\">18 year old GM Hans Niemann is a rising star in the c",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/22/ep-271-ep-271-gm-hans-niemann-on-his-rapid-climb-up-the-chess-rankings-and-whats-next-for-him-in-2022",
+         "pubDate" : "Tue, 22 Mar 2022 14:16:53 +0000",
+         "title" : "EP 271- GM Hans Niemann on his Rapid Climb up the Chess Rankings and What's Next for Him in 2022"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Geir Nesheim</strong>, the former general secretary of the <strong>Norwegian Chess Federation</strong> where he started the successful Sjakk &amp; Samfunn (chess and society) programme, is the new chairman of the FIDE Social Commission. <strong>Paris Klerides</strong> stepped down for personal motives. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/nesheim-heads-social-commission/",
+         "pubDate" : "Tue, 22 Mar 2022 15:11:49 +0100",
+         "title" : "Nesheim heads Social Commission"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
+         "pubDate" : "Tue, 22 Mar 2022 14:50:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : "Levon Aronian will take on Hikaru Nakamura in Round 1 as the 3rd and final leg of the 2022 FIDE Grand Prix begins in Berlin today, Tuesday 22 March. The 16 players, who also include Anish Giri, Maxime Vachier-Lagrave, Shakhriyar Mamedyarov and Wesley So, are battling it out for up to two places in the FIDE Candidates Tournament, though it's likely Richard Rapport, who has already played two events, will take one of the spots. Andrey Esipenko was a late replacement for Dmitry Andreikin.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aronian-nakamura-as-final-fide-grand-prix-begins",
+         "pubDate" : "Tue, 22 Mar 2022 13:18:16 +0000",
+         "title" : "Aronian-Nakamura as final FIDE Grand Prix begins"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90379108.cms\" />Vietnamese star Liem Quang Le's hot streak showed no signs of cooling down as the Charity Cup's Prelim stage enters its final three rounds on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/charity-cup-liem-quang-le-continues-to-lead-the-show/articleshow/90379108.cms",
+         "pubDate" : "Tue, 22 Mar 2022 18:48:03 +0530",
+         "title" : "Charity Cup: Liem Quang Le continues to lead the show"
+      },
+      {
+         "description" : " The FIDE Ethics Commission has suspended GM Sergey Karjakin for 6 months for his comments supporting Russia during the current invasion of Ukraine by that country. To be honest I am astonished that they even decided to hear the case, let alone suspend him. For me, the right to say dumb, hurtful, stupid, offensive or ignorant words, is met with the right to say that the first speaker is dumb, hurtful, stupid, offensive and ignorant. In the case of Karjakin, his comments have been rightfully condemned, his invitations to tournaments are likely to disappear, and anything he says is countered by people who point out he is lying about many things. Banning him is unlikely to change his opinions, ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/karjakin-gets-6-months.html",
+         "pubDate" : "Tue, 22 Mar 2022 12:56:00 +0000",
+         "title" : "Karjakin gets 6 months"
+      },
+      {
+         "description" : "FIDE Grand Prix Berlin 2022 is the final leg of the Grand Prix series that will determine the participants in the Candidates Chess 2022. With Richard Rapport practically qualified after winning the Belgrade Grand Prix, just one spot is available for grabs. Live games from the Berlin Grand Prix will be daily on Chessdom.com Round []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/berlin-grand-prix-2022-live/",
+         "pubDate" : "Tue, 22 Mar 2022 11:25:00 +0000",
+         "title" : "Berlin Grand Prix 2022 LIVE"
+      },
+      {
          "description" : "The International Chess Federation, together with its Chess in Education Commission (EDU) and Chess Scientific Research Institute (CSRI), is pleased to announce the 4th Chess...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -26,12 +82,20 @@ news_feed (
          "title" : "Charity Cup 3: Carlsen gets Praggnanandhaa revenge"
       },
       {
-         "description" : "On an excellent third day of the&#38;nbsp;Charity Cup,&#38;nbsp;GM Jorden van Foreest&#38;nbsp;scored three wins and a draw to move to third place.&#38;nbsp;GM Le Quang Liem&#38;nbsp;scored &#34;plus one&#34; and continues to lead ahead of GM&#38;nbsp;Magnus Carlsen. How to ...",
+         "description" : "On an excellent third day of the&#38;nbsp;Charity Cup,&#38;nbsp;GM Jorden van Foreest&#38;nbsp;scored three wins and a draw to move to third place.&#38;nbsp;GM Le Quang Liem&#38;nbsp;scored &#34;plus one&#34; and continues to lead GM&#38;nbsp;Magnus Carlsen. How to watch? ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-charity-cup-day-3",
          "pubDate" : "Tue, 22 Mar 2022 02:45:00 -0700",
          "title" : "Charity Cup Day 3: Van Foreest Shines"
+      },
+      {
+         "description" : " The 3rd and final leg of the FIDE Grand Prix takes place in Berlin 22nd March to 4th April 2022. Richard Rapport has posted a very strong score in the series and has a very high chance of qualifying for the Candidates. The winner of the first leg Hikaru Nakamura will also be strong favourite to take the second place if he gets out of the group stages here (Aronian, Oparin and Esipenko are his rivals). Aronian, Dominguez and MVL are all players who have strong chances of a Candidates place if they win this leg. Poor finishes in their first grand prix events means that even a win here will probably not be enough for many of the players. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-prix-leg-3-berlin-2022",
+         "pubDate" : "Tue, 22 Mar 2022 13:12:00 +0400",
+         "title" : "FIDE Grand Prix Leg 3 Berlin 2022 - Games and Results"
       },
       {
          "description" : "We request you to please find the live Link Page for 19th Delhi Open GM Chess Tournament 2022 https://delhichess.com/live/delhiopen2022/tfd.html",
@@ -272,14 +336,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-grand-prix-berlin-2022/",
          "pubDate" : "Mon, 21 Mar 2022 11:27:36 +0000",
          "title" : "FIDE Grand Prix Berlin 2022"
-      },
-      {
-         "description" : "FIDE Grand Prix Berlin 2022 is the final leg of the Grand Prix series that will determine the participants in the Candidates Chess 2022. With Richard Rapport practically qualified after winning the Belgrade Grand Prix, just one spot is available for grabs. Live games from the Berlin Grand Prix will be daily on Chessdom.com Round []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/berlin-grand-prix-2022-live/",
-         "pubDate" : "Mon, 21 Mar 2022 11:25:24 +0000",
-         "title" : "Berlin Grand Prix 2022 LIVE"
       },
       {
          "description" : "Liem Quang Le said \"this is amazing\" as he won three games and drew one for a second day in a row to take a 4-point lead at the top of the Charity Cup table. Magnus Carlsen is also well on course to qualify for the knockout stages as he also won three games, though he lost again, this time to David Navara, with the Czech no. 1 the player who most improved his chances. Jan-Krzysztof Duda remains unbeaten and level with Magnus in second place, while 16-year-old Praggnanandhaa took down world no. 3 Ding Liren to squeeze into the Top 8.",
@@ -930,14 +986,6 @@ news_feed (
          "title" : "Chennai to host the 2022 Chess Olympiad"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The second online tournament of the <strong>Meltwater Champions Chess Tour</strong> starting on 19 March will be the Charity Cup and serve as a <a href=\"https://chess24.com/tour/charity-cup-revealed-as-fundraiser-for-unicef/\">fundraiser for UNICEF to support Ukrainian children and families</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/tour-raises-funds-for-ukraine/",
-         "pubDate" : "Tue, 15 Mar 2022 19:24:56 +0100",
-         "title" : "Tour raises funds for Ukraine"
-      },
-      {
          "description" : "The $1.6 million Meltwater Champions Chess Tour will dedicate its next stage to fundraising for the victims of the war in Ukraine, it was announced today. The Charity Cup, starting March 19, will be the second leg of the world's most prestigious elite online chess event.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1538,14 +1586,6 @@ news_feed (
          "title" : "Belgrade Grand Prix - Knockout: Day Two Recap"
       },
       {
-         "description" : "Ukraine's former world number 2 Vasyl Ivanchuk has joined calls for Russian players to be banned from all chess events. The 52-year-old put his name to a letter featuring Ukraine's top grandmasters, including Ruslan Ponomariov, Andrey Volokitin and Anton Korobov.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ivanchuk-echoes-call-for-russian-players-to-be-banned",
-         "pubDate" : "Thu, 10 Mar 2022 21:42:54 +0000",
-         "title" : "Ivanchuk echoes call for Russian players to be banned"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1994,14 +2034,6 @@ news_feed (
          "title" : "New - Robert Ris: Calculation Training Booster"
       },
       {
-         "description" : "Richard Rapport and Anish Giri will enter the last round of the preliminaries at the Belgrade Grand Prix with 1-point leads in their respective pools. Rapport scored a crucial win on Sunday, as he got the better of Vidit Gujrathi with the black pieces. In the same group, Alexei Shirov obtained his first win of the series by beating Vladimir Fedoseev in a sharp encounter. | Photos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-r5",
-         "pubDate" : "Mon, 07 Mar 2022 11:15:00 +0100",
-         "title" : "Belgrade GP: Fire on board"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2280,46 +2312,6 @@ news_feed (
          "link" : "https://www.europechess.org/2nd-leg-of-fide-grand-prix-2022-starts-in-belgrade/",
          "pubDate" : "Tue, 01 Mar 2022 15:49:38 +0000",
          "title" : "2nd leg of FIDE Grand Prix 2022 starts in Belgrade"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/aa2a95c0-f8c6-4874-9277-d77842e0223b/World.Open.jpg\" data-image-dimensions=\"573x289\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"621e34a81ee23c373148fc3e\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/aa2a95c0-f8c6-4874-9277-d77842e0223b/World.Open.jpg?format=1000w\" /> </figure> <p class=\"\">This week on Perpetual Chess I am joined by co-authors of a great new book, <a href=\"https://www.newinchess.com/world-open\" target=\"_blank\"><em>Winning the World Open</em",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/1/ep-268-gm-joel-benjamin-and-harold-scott-on-winning-the-world-open",
-         "pubDate" : "Tue, 01 Mar 2022 15:07:30 +0000",
-         "title" : "EP 268- GM Joel Benjamin and Harold Scott on Winning the World Open "
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89926789.cms\" />Five players, including defending champion Aravindh Chithambaram occupy the joint lead with 6.5 points each after eight rounds in the MPL 58th Senior National Chess Championship on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/senior-national-chess-five-players-share-lead/articleshow/89926789.cms",
-         "pubDate" : "Tue, 01 Mar 2022 18:31:53 +0530",
-         "title" : "Senior national chess: Five players share lead"
-      },
-      {
-         "description" : "Anwesh Upadhyaya arrived in Lviv, around 70 kilometers from the Polish border early on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33396850/ukraine-russia-invasion-india-im-flee-kyiv?device=featurephone",
-         "pubDate" : "Tue, 1 Mar 2022 07:45:44 -0500",
-         "title" : "Indian IM in Ukraine manages to flee Kyiv in packed train"
-      },
-      {
-         "description" : " The St Louis Spring Chess Classic marks the return of the regular, and strong classic events at the Saint Louis Chess Club. It takes place March 1st to 11th. Two 10 player Round Robins - the A group: Jeffery Xiong, Samuel Sevian, Ray Robson, Illya Nyzhnyk, Dariusz Swiercz, Hans Moke Niemann, Mikhail Al. Antipov, Aram Hakobyan, Aleksandr Lenderman and Kamil Dragun.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/st-louis-spring-chess-classic-2022",
-         "pubDate" : "Tue, 1 Mar 2022 16:16:00 +0400",
-         "title" : "St Louis Spring Chess Classic 2022 - Games and Results"
-      },
-      {
-         "description" : " The England vs. Sweden Challenge Match is a classical match between David Howell and Nils Grandelius which takes place in London Wed 2nd Mar to Sat 12th Mar 2022. The match is over two classical time controls 120 minutes + 30 minutes plus 30 seconds a move and then the second half will have 90 minutes instead of 120 minutes to start. The event is being staged as part of the 30th anniversary celebrations of the founding of the London Chess Centre and the relaunching of CHESS Magazine. The match will be held at the Residence of Sweden's Ambassador to the United Kingdom Mikaela Kumlin Granit.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/england-vs.-sweden-challenge-match-2022",
-         "pubDate" : "Tue, 1 Mar 2022 16:06:00 +0400",
-         "title" : "England vs. Sweden Challenge Match 2022 - "
       }
    ]
 }
