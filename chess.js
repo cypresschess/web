@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Grandmaster, National Champion and someone who is training his sights to battle with the best &#x2013; Arjun Erigaise starts as the top seed and hot favorite for the crown in the 19th edition of the Delhi International open chess tournament 2022 that kickstarts at the Tivoli Garden resorts here. Defending champion of 2020, Grandmaster and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/delhi-chess-2022/",
+         "pubDate" : "Tue, 22 Mar 2022 06:48:47 +0000",
+         "title" : "Delhi Chess 2022"
+      },
+      {
+         "description" : "Magnus Carlsen is now clear second and within striking distance of the first place in Charity Cup 2022. Le Quang Liem is still the sole leader after three days of solid performance, while Jorden Van Foorest rushes into third. More about Charity Cup:&#xA0;Charity Cup 2022 participants and preview&#xA0;/&#xA0;Charity Cup 2022 live&#xA0;/&#xA0;Charity Cup 2022 video)&#xA0;Round reports:&#xA0;Hans []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-inches-closer-to-the-top-le-quang-liem-still-leads/",
+         "pubDate" : "Tue, 22 Mar 2022 06:25:17 +0000",
+         "title" : "Carlsen inches closer to the top, Le Quang Liem still leads"
+      },
+      {
          "description" : "With three rounds to go, Le Quang Liem is still the sole leader of the preliminaries at the Charity Cup. The Vietnamese stands three points ahead of second-placed Magnus Carlsen and has already secured a spot in the knockout stage. On day 3, Jorden van Foreest was the highest scorer, as he collected three wins and a draw. Moreover, the Dutchman had a superior position in the one game he drew, against Carlsen. | Photo: Jurriaan Hoefsmit - Tata Steel Chess Tournament 2021",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -256,22 +272,6 @@ news_feed (
          "link" : "https://www.chessdom.com/interview-with-andrey-esipenko/",
          "pubDate" : "Mon, 21 Mar 2022 08:33:29 +0000",
          "title" : "Interview with Andrey Esipenko"
-      },
-      {
-         "description" : "After the successful start of the No Castling Chess last year, the NC World Masters will be expanded in Dortmund in July 2022: The two world chess champions Vladimir Kramnik and Viswanathan Anand will meet two more strong grandmasters in a double-round tournament: the winner of the NC Sparkassen Online Open 2021 Krishnan Sasikiran (India) []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/no-castling-chess-2022/",
-         "pubDate" : "Mon, 21 Mar 2022 07:50:49 +0000",
-         "title" : "No Castling Chess 2022"
-      },
-      {
-         "description" : "Pavel Ponkratov is the winner of the 1st Guwahati Chess Open. The top seeded player in the participants list Ponkratov scored 8,5/10, the same points as GM Fawzy Adham, but won the gold with a better tiebreak. Third place is for IM Nitin S. A total of 256 players participated in the event FM Aradhya []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pavel-ponkratov-wins-1st-guwahati-chess-open/",
-         "pubDate" : "Mon, 21 Mar 2022 07:04:39 +0000",
-         "title" : "Pavel Ponkratov wins 1st Guwahati Chess Open"
       },
       {
          "description" : "The ECF Directors at their recent Board meeting agreed that the ECF will until further notice offer free ECF membership to all Ukrainians with a...",
@@ -2304,14 +2304,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/england-vs.-sweden-challenge-match-2022",
          "pubDate" : "Tue, 1 Mar 2022 16:06:00 +0400",
          "title" : "England vs. Sweden Challenge Match 2022 - "
-      },
-      {
-         "description" : " International Master Emory TatePhoto by Daaim Shabazz Before his passing in 2015, International Master Emory Tate was one of the most recognizable figures in the American chess scene. In this last tribute for Black History Month, we will feature the man, the myth, the legend. The legacy continues. With a warrior persona and his bold [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/02/28/black-history-month-2022-day-28-im-emory-tate/\">Black History Month 2022-Day 28: IM Emory Tate</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/02/28/black-history-month-2022-day-28-im-emory-tate/",
-         "pubDate" : "Tue, 01 Mar 2022 04:02:53 +0000",
-         "title" : "Black History Month 2022-Day 28: IM Emory Tate"
       }
    ]
 }
