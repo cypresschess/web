@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski begins his series on building a chess plan. 2022.03.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/building-chess-plan-grandmasters-choice-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bhBs4WsCxM4.jpg?itok=16ZTUn-U\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/building-chess-plan-grandmasters-choice-gm-robert-hungaski",
+         "pubDate" : "Tue, 22 Mar 2022 21:10:16 +0000",
+         "title" : "Building a Chess Plan | Grandmaster's Choice - GM Robert Hungaski"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2022.03.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/road-2000-nm-caleb-denby-lichensorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pw3mvvAqI38.jpg?itok=feGRrRRZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/road-2000-nm-caleb-denby-lichensorg",
+         "pubDate" : "Tue, 22 Mar 2022 21:10:16 +0000",
+         "title" : "Road to 2000 - NM Caleb Denby | lichens.org"
+      },
+      {
+         "description" : "Levon Aronian was interviewed by Dina Belenkaya after round 1 of the FIDE Grand Prix in Berlin. He is one of the players who can qualify for the Candidates 2022 and has sharply increased his chances after defeating Hikaru Nakamura at the start of the event (replay Aronian Nakamura here). Aronian talked about the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levon-aronian-about-the-candidates-2022-and-karjakin-case/",
+         "pubDate" : "Tue, 22 Mar 2022 21:06:54 +0000",
+         "title" : "Levon Aronian about the Candidates 2022 and Karjakin case"
+      },
+      {
          "description" : " <p class=\"lead\">Round 1 of the third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with GMs Levon Aronian, Leinier Dominguez, Alexandr Predke, and Nikita Vitiugov leading their Groups. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-15.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220322151307_IMG_3910.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220322151241_IMG_3909.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictur",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -434,14 +458,6 @@ news_feed (
          "title" : "Charity Cup Day 2: Carlsen, Duda Trailing As Leader Le Hits h3 Twice"
       },
       {
-         "description" : "Andrey Esipenko shared his thoughts during the Charity Chess Cup 2022. Esipenko's favorite opening is the Italian opening and his style depends on his mood. More about Charity Cup:&#xA0;Charity Cup 2022 live&#xA0;/&#xA0;Charity Cup 2022 video)&#xA0;Round reports:&#xA0;Hans Niemann and Liem Quang Le lead&#xA0;after Day 1&#xA0;/&#xA0;Le Quang Liem is sole leader after Day 2",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/interview-with-andrey-esipenko/",
-         "pubDate" : "Mon, 21 Mar 2022 08:33:29 +0000",
-         "title" : "Interview with Andrey Esipenko"
-      },
-      {
          "description" : "The ECF Directors at their recent Board meeting agreed that the ECF will until further notice offer free ECF membership to all Ukrainians with a...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -856,14 +872,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/russia-and-belarus-teams-suspended-from-fide-competitions",
          "pubDate" : "Wed, 16 Mar 2022 21:52:33 +0100",
          "title" : "Russia and Belarus teams suspended from FIDE competitions"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Chess Instructor Dr. Dirk Downing talks about his students at Jennings Junior High School in Saint Louis. The students describe the benefits of the scholastic chess program. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-life-jennings-junior-high-school\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Zq6kZHHeEAU.jpg?itok=qcPRUH3Z\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-life-jennings-junior-high-school",
-         "pubDate" : "Wed, 16 Mar 2022 18:04:50 +0000",
-         "title" : "Chess Life at Jennings Junior High School"
       },
       {
          "description" : "Henrik Carlsen speaks about how his son Magnus rose to become World Champion and perhaps the greatest chess player the world has ever seen. He reveals the first time he had to pinch his arm in awe at what his son had accomplished.",
@@ -1384,14 +1392,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/australian-tournament-streaming.html",
          "pubDate" : "Sat, 12 Mar 2022 21:43:00 +0000",
          "title" : "Australian Tournament Streaming"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Harrison Keyser faces a strong chess player who seems to have a promising chess career ahead of him. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/future-world-champion-b",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/future-world-champion-beats-me-fair-and-square",
-         "pubDate" : "Sat, 12 Mar 2022 21:00:28 +0000",
-         "title" : "Future World Champion Beats Me Fair and Square"
       },
       {
          "description" : "",
@@ -2288,14 +2288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1607",
          "pubDate" : "Wed, 02 Mar 2022 00:01:45 +0000",
          "title" : "FIDE Grand Prix Belgrade: Round 1 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1606",
-         "pubDate" : "Tue, 01 Mar 2022 22:25:23 +0000",
-         "title" : "Erigaisi, Nakamura and Aronian move up in March rating list"
       }
    ]
 }
