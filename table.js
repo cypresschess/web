@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2022-03-18  - 03-20","302","<a href=http://www.uschess.org/msa/XtblMain.php?202203206552 target='_blank'>2022 LONE STAR OPEN CHAMPIONSHIPS</a>",
 "SPRING","2022-03-18","18","<a href=http://www.uschess.org/msa/XtblMain.php?202203184922 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-03-18","8","<a href=http://www.uschess.org/msa/XtblMain.php?202203184902 target='_blank'>TOURNAMENTS/FBCC 2022 ST. PATRICK O</a>",
 "CYPRESS","2022-03-18","12","<a href=http://www.uschess.org/msa/XtblMain.php?202203184852 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2021-05-07","10","<a href=http://www.uschess.org/msa/XtblMain.php?202105075812 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "KATY","2021-05-01","16","<a href=http://www.uschess.org/msa/XtblMain.php?202105012492 target='_blank'>SR HESSKNIGHTS 5012021</a>",
 "SPRING","2021-04-30","24","<a href=http://www.uschess.org/msa/XtblMain.php?202104303382 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2021-04-30","6","<a href=http://www.uschess.org/msa/XtblMain.php?202104303362 target='_blank'>FBCC 2021 APRIL CLOSING</a>",
 ]);
