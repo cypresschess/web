@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The International Chess Federation, together with its Chess in Education Commission (EDU) and Chess Scientific Research Institute (CSRI), is pleased to announce the 4th Chess...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/4th-chess-in-education-lecturer-course/",
+         "pubDate" : "Tue, 22 Mar 2022 11:04:40 +0000",
+         "title" : "4th Chess in Education Lecturer course"
+      },
+      {
+         "description" : "Citing personal reasons, Dmitry Andreikin withdrew from the third leg of the FIDE Grand Prix. Andrey Esipenko (pictured), who also played in the first leg as a replacement, stepped in. The tournament is set to take place in Berlin, with two spots in the Candidates still up for grabs, albeit it is highly unlikely for Richard Rapport not to get one of those after his victory in Belgrade. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-preview",
+         "pubDate" : "Tue, 22 Mar 2022 11:20:00 +0100",
+         "title" : "Third stage of the Grand Prix kicks off without Andreikin"
+      },
+      {
+         "description" : "Magnus Carlsen made up for his loss to Praggnanandhaa in the Airthings Masters with a convincing win with the black pieces on Day 3 of the Charity Cup. Magnus, like leader Liem Quang Le, has wrapped up qualification with a day to spare, while Pragg joins David Navara and David Anton just outside the Top 8 going into the final three rounds. There were starring performances for Jorden van Foreest, Vidit and Ju Wenjun on Monday, with Jan-Krzysztof Duda admitting to tilting as he lost three games in a row before recovering in the final round.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/charity-cup-3-carlsen-gets-praggnanandhaa-revenge",
+         "pubDate" : "Tue, 22 Mar 2022 10:16:49 +0000",
+         "title" : "Charity Cup 3: Carlsen gets Praggnanandhaa revenge"
+      },
+      {
+         "description" : "On an excellent third day of the&#38;nbsp;Charity Cup,&#38;nbsp;GM Jorden van Foreest&#38;nbsp;scored three wins and a draw to move to third place.&#38;nbsp;GM Le Quang Liem&#38;nbsp;scored &#34;plus one&#34; and continues to lead ahead of GM&#38;nbsp;Magnus Carlsen. How to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-charity-cup-day-3",
+         "pubDate" : "Tue, 22 Mar 2022 02:45:00 -0700",
+         "title" : "Charity Cup Day 3: Van Foreest Shines"
+      },
+      {
          "description" : "We request you to please find the live Link Page for 19th Delhi Open GM Chess Tournament 2022 https://delhichess.com/live/delhiopen2022/tfd.html",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -48,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/charity-cup-2022-d3",
          "pubDate" : "Tue, 22 Mar 2022 03:40:00 +0100",
          "title" : "Charity Cup: Van Foreest almost perfect on day 3"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1652",
+         "pubDate" : "Mon, 21 Mar 2022 23:15:49 +0000",
+         "title" : "Geir Nesheim, new Chair of the Social Commission"
       },
       {
          "description" : "European Youth Team Chess Championships 2022 will take place from 11 July (arrivals) to 19 July (departures) in the Conference Hall of the 5 stars Lazart Hotel in Thessaloniki which will host also the European Rapid and Blitz Chess Championship 2022 from 19 July to 23 July 2022. The European Youth Team Chess Championships (EYTCC) []",
@@ -1618,14 +1658,6 @@ news_feed (
          "title" : "Pools for third leg of FIDE Grand Prix 2022 announced"
       },
       {
-         "description" : "Richard Rapport credited his wife with an idea in the Gr&uuml;nfeld that caught Maxime Vachier-Lagrave off-guard and put the Hungarian no. 1 on the verge of the final. Maxime must now win on Thursday to take their match to tiebreaks. Giri-Andreikin ended in a draw, but only after a thrilling game where Anish Giri missed a huge chance to beat Dmitry Andreikin. A draw was agreed in a position where it still wasn't clear if Giri's bishop pair would be sufficient to counter Andreikin's two rooks.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/belgrade-gp-semis-1-rapport-beats-mvl",
-         "pubDate" : "Thu, 10 Mar 2022 10:33:49 +0000",
-         "title" : "Belgrade GP SF 1: Rapport beats MVL"
-      },
-      {
          "description" : "Two exciting games were seen at the start of the FIDE Grand Prix semifinals in Belgrade. Richard Rapport scored a crucial win over Maxime Vachier-Lagrave and now only needs a draw on Thursday to vastly increase his chances of qualifying to the Candidates Tournament. Meanwhile, Anish Giri gave up two exchanges and got a favourable position out of a sharp Sicilian against Dmitry Andreikin. | Photos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1898,14 +1930,6 @@ news_feed (
          "title" : "FIDE Grand Prix Belgrade: Round 6 Recap"
       },
       {
-         "description" : "The 2022 Bullet Chess Championship presented by DigitalOcean continued today with the first round of the Losers Bracket. Although these players lost their first match in this double-elimination tournament, they are some of the fastest bullet chess...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bullet-chess-championship-2022-erigaisi-bortnyk-advance-in-losers-bracket",
-         "pubDate" : "Mon, 07 Mar 2022 15:07:00 -0800",
-         "title" : "Bullet Chess Championship 2022: Erigaisi, Bortnyk Advance In Losers Bracket"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2000,14 +2024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1618",
          "pubDate" : "Sun, 06 Mar 2022 21:35:56 +0000",
          "title" : "FIDE adopts simplified procedure for playing under FIDE flag"
-      },
-      {
-         "description" : "In the opening rounds of the Belgrade Grand Prix there were two splendid instances of defensive queen sacrifices. These remarkable efforts set Jon Speelman thinking about defence in general. He thus turned to one of his favourite books, The Middlegame by Max Euwe and Hans Kramer, and cherry-picked a couple of games from the chapters on Steinitz and Lasker. | Pictured: Emanuel Lasker / Collection of the World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-165",
-         "pubDate" : "Sun, 06 Mar 2022 20:00:00 +0100",
-         "title" : "Inspired defence"
       },
       {
          "description" : "The ECF Board confirms that individual players and officials with a Russian or Belarusian FIDE registration will be excluded from all ECF-organised competitions until further...",
