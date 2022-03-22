@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With three rounds to go, Le Quang Liem is still the sole leader of the preliminaries at the Charity Cup. The Vietnamese stands three points ahead of second-placed Magnus Carlsen and has already secured a spot in the knockout stage. On day 3, Jorden van Foreest was the highest scorer, as he collected three wins and a draw. Moreover, the Dutchman had a superior position in the one game he drew, against Carlsen. | Photo: Jurriaan Hoefsmit - Tata Steel Chess Tournament 2021",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/charity-cup-2022-d3",
+         "pubDate" : "Tue, 22 Mar 2022 03:40:00 +0100",
+         "title" : "Charity Cup: Van Foreest almost perfect on day 3"
+      },
+      {
          "description" : "European Youth Team Chess Championships 2022 will take place from 11 July (arrivals) to 19 July (departures) in the Conference Hall of the 5 stars Lazart Hotel in Thessaloniki which will host also the European Rapid and Blitz Chess Championship 2022 from 19 July to 23 July 2022. The European Youth Team Chess Championships (EYTCC) []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-186-highlights-from-the-german-bundesliga",
          "pubDate" : "Mon, 21 Mar 2022 18:00:00 +0100",
          "title" : "Karsten M&uuml;ller's Endgame Magic Show #186: Highlights from the German Bundesliga"
-      },
-      {
-         "description" : "The second event of the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Magnus Carlsen, Ding Liren and Richard Rapport head the 16-player field. The tournament is taking place on March 19-26, with the action kicking off daily at 18.00 CET (13.00 ET, 17.00 UTC, 22.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
-         "pubDate" : "Mon, 21 Mar 2022 17:50:00 +0100",
-         "title" : "Charity Cup - Games and results"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Ethics Commission</strong> <a href=\"https://www.fide.com/news/1650\">bans</a> <strong>Sergey Karjakin</strong> for six months from any FIDE rated events with immediate effect for his pro-war, anti-Ukrainian statements on social media. Since it costs the Russian challenger of 2016 his place in the Candidates Tournament, the <strong>Chess Federation of Russia</strong> <a href=\"https://t.me/ruchessfed/176\">announced an appeal</a>. Whereas the <strong>ECU</strong> has suspended the federations of Russia and Belarus, FIDE only banned teams from both countries. If the appeal is rejected, the open place in the Candidates Tournament goes to ",
