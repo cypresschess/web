@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A frantic end to the Charity Cup's Prelim stage saw Indian teen Praggnanandhaa narrowly miss out on&#xA0;a place in the knockout as&#xA0;Magnus Carlsen and Liem Quang Le sailed through. Pragg, the wonderkid from Chennai, had put himself in pole position to qualify with a stunning penultimate round win over World Cup winner Jan-Krzysztof Duda. More []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/le-quang-liem-wins-the-prelims-of-charity-cup/",
+         "pubDate" : "Wed, 23 Mar 2022 07:24:31 +0000",
+         "title" : "Le Quang Liem wins the Prelims of Charity Cup"
+      },
+      {
+         "description" : "Russian grandmaster Alexander Grischuk was quoted by Sports.ru on the decision of the International Chess Federation (FIDE) to ban Sergey Karyakin for six months. &#8220;Although I personally disagree with Sergey, I think that a person should have the right to express his opinion. [&#x2026;] When they first started talking about a possible disqualification, I thought []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grischuk-comments-on-the-ban-of-karjakin/",
+         "pubDate" : "Wed, 23 Mar 2022 06:52:04 +0000",
+         "title" : "Grischuk comments on the ban of Karjakin"
+      },
+      {
+         "description" : "Hikaru Nakamura analyses his game with Levon Aronian from round 1 from the FIDE Grand Prix in Berlin 2022 and comments on his ban in Twitch. Berlin Round 1:&#xA0;Vitiugov &#x2013; Tabatabaei&#xA0;/&#xA0;Anish Giri &#x2013; Yu Yangyi&#xA0;/&#xA0;Sam Shankland &#x2013; Wesley So&#xA0;/&#xA0;Predke &#x2013; Vachier-Lagrave&#xA0;/&#xA0;Dubov &#x2013; Dominguez&#xA0;/&#xA0;Vincent Keymer &#x2013; Mamedyarov&#xA0;/&#xA0;Esipenko &#x2013; Oparin&#xA0;/&#xA0;Aronian &#x2013; Nakamura&#xA0;Next:&#xA0;America Chess Cup 2022",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-banned-on-twitch/",
+         "pubDate" : "Wed, 23 Mar 2022 06:30:24 +0000",
+         "title" : "Hikaru Nakamura banned on Twitch"
+      },
+      {
+         "description" : "PUMA Brand Ambassador and Premier League star Christian Pulisic will be scoring in a very different game on Wednesday chess. The American will face-off against a 10-year-old app version of the reigning World Champion Magnus Carlsen in a very special Play Magnus Charity Chess Challenge for the&#xA0;Meltwater Champions Chess Tour. More about Charity Cup: []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/christian-pulisic-vs-magnus-carlsen/",
+         "pubDate" : "Wed, 23 Mar 2022 06:19:24 +0000",
+         "title" : "Christian Pulisic vs Magnus Carlsen"
+      },
+      {
+         "description" : "National Champion Arjun Erigaisi began the tournament campaign in style beating Manigandan S S. at the start of the 19th&#xA0;Delhi&#xA0;International Grandmasters Chess tournament 5-times Commonwealth Champion and defending&#xA0;champion of 2020, Grandmaster Abhijeet Gupta made a winning start at the expense of Women International Master Angela Franco Valencia of Colombia while fresh from his title triumph []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/arjun-erigaise-starts-with-a-win-in-delhi-chess-open-2022/",
+         "pubDate" : "Wed, 23 Mar 2022 06:00:12 +0000",
+         "title" : "Arjun Erigaise starts with a win in Delhi Chess Open 2022"
+      },
+      {
          "description" : "In an exciting first round, the third leg of the Grand Prix series saw four players getting off to winning starts at Berlin's Unter den Linden. Levon Aronian and Leinier Dominguez got crucial wins against direct contenders Hikaru Nakamura and Daniil Dubov, while Nikita Vitiugov got the better of Amin Tabatabaei, the lowest-rated player in pool D. The most surprising result of the day was Alexandr Predke's win over Maxime Vachier-Lagrave. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -258,7 +298,7 @@ news_feed (
          "title" : "Delhi Chess 2022"
       },
       {
-         "description" : "Magnus Carlsen is now clear second and within striking distance of the first place in Charity Cup 2022. Le Quang Liem is still the sole leader after three days of solid performance, while Jorden Van Foorest rushes into third. More about Charity Cup:&#xA0;Charity Cup 2022 participants and preview&#xA0;/&#xA0;Charity Cup 2022 live&#xA0;/&#xA0;Charity Cup 2022 video)&#xA0;Round reports:&#xA0;Hans []",
+         "description" : "Magnus Carlsen is now clear second and within striking distance of the first place in Charity Cup 2022. Le Quang Liem is still the sole leader after three days of solid performance, while Jorden Van Foorest rushes into third. More about Charity Cup:&#160;Charity Cup 2022 participants and preview&#160;/&#160;Charity Cup 2022 live&#160;/&#160;Charity Cup 2022 video)&#160;Round reports:&#160;Hans []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/carlsen-inches-closer-to-the-top-le-quang-liem-still-leads/",
@@ -280,14 +320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1652",
          "pubDate" : "Mon, 21 Mar 2022 23:15:49 +0000",
          "title" : "Geir Nesheim, new Chair of the Social Commission"
-      },
-      {
-         "description" : "European Youth Team Chess Championships 2022 will take place from 11 July (arrivals) to 19 July (departures) in the Conference Hall of the 5 stars Lazart Hotel in Thessaloniki which will host also the European Rapid and Blitz Chess Championship 2022 from 19 July to 23 July 2022. The European Youth Team Chess Championships (EYTCC) []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-team-and-european-youth-rapid-blitz-chess-championships-2022/",
-         "pubDate" : "Mon, 21 Mar 2022 21:09:55 +0000",
-         "title" : "European Youth Team and European Youth Rapid & Blitz Chess Championships 2022"
       },
       {
          "description" : "",
@@ -370,14 +402,6 @@ news_feed (
          "title" : "GMs Arjun, Abhijeet start as favourites in Delhi International Open chess"
       },
       {
-         "description" : "The FIDE Ethics and Disciplinary Commission (EDC) has reached a verdict on the case 2/2022, relating to public statements by grandmasters&#160;Sergey Karjakin&#160;(FIDE ID 14109603). The Russian player is found guilty by the panel and Karjakin is banned for 6 months from FIDE rated competitions, missing the Candidates Chess 2022. Who can replace Karjakin in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/who-can-replace-karjakin-for-the-candidates-tournament-2022/",
-         "pubDate" : "Mon, 21 Mar 2022 13:59:12 +0000",
-         "title" : "Who can replace Karjakin for the Candidates Tournament 2022"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90358205.cms\" />Weeks after getting the better of World champion Magnus Carlsen, young gun R Praggnanandhaa took another big scalp in the Meltwater Champions Chess Tour, beating world No.3 Ding Liren in the final round of the day at the ongoing Charity Cup on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -386,28 +410,12 @@ news_feed (
          "title" : "Charity Cup: Praggnanandhaa beats Ding Liren, lies sixth"
       },
       {
-         "description" : "The FIDE Ethics and Disciplinary Commission (EDC) has reached a verdict on the case 2/2022, relating to public statements by grandmasters&#160;Sergey Karjakin&#160;(FIDE ID 14109603) and&#160;Sergei Shipov&#160;(FIDE ID 4113624). Related: Russia and Belarus Chess teams suspended The EDC First Instance Chamber, formed by Yolander Persaud (Guyana), Ravindra Dongre (India), and Johan Sigeman (Sweden) as Chairperson,&#160;unanimously decided []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/karjakin-banned-for-6-months-from-fide-competitions/",
-         "pubDate" : "Mon, 21 Mar 2022 13:49:00 +0000",
-         "title" : "Karjakin banned for 6 months from FIDE competitions"
-      },
-      {
          "description" : " <p class=\"lead\">The FIDE Ethics and Disciplinary Commission banned GM Sergey Karjakin from participating as a player in any FIDE rated chess competition, while GM Sergey Shipov faced no sanctions due to his less provocative statements. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Untitled-design-1.jpg\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> It wasn't long after Russia's military invasion of Ukraine that GM Sergey Karjakin started tweeting in favour of the war and spreading propaganda all over his social media channels. The chess community, from companies to influencers, publicly disagreed with the Russian GM and demanded FIDE to take action over this mat",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/gm-sergey-karjakin-is-banned-for-6-months-by-fide-ethics/",
          "pubDate" : "Mon, 21 Mar 2022 13:41:39 +0000",
          "title" : "GM Sergey Karjakin is banned for 6 months by FIDE Ethics"
-      },
-      {
-         "description" : "Sergey Karjakin was banned by FIDE for 6 months and will miss the Candidates Chess 2022 (who can substitute Karjakin in the competition here). Sergey Karjakin strongly disagreed with the FIDE's ban on his official Telegram channel. He noted that he is disappointed with FIDE's decision, although he does not find it unexpected. Sergey Karjakin []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/karjakin-comments-on-the-ban-by-fide/",
-         "pubDate" : "Mon, 21 Mar 2022 13:11:00 +0000",
-         "title" : "Karjakin comments on the ban by FIDE"
       },
       {
          "description" : "Controversial former world title challenger Sergey Karjakin, who sparked widespread criticism for his support of Russia's war in Ukraine, has been banned from all competition by FIDE, it was announced today. The Crimea-born Grandmaster, who switched from representing Ukraine to Russia is 2009, is now stripped of his place in the upcoming Candidates tournament pending any appeal.",
@@ -456,14 +464,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/charity-cup-2022-d2",
          "pubDate" : "Mon, 21 Mar 2022 12:40:00 +0100",
          "title" : "Charity Cup: Le leads, Pragg impresses"
-      },
-      {
-         "description" : "FIDE Grand Prix Berlin 2022 is the final leg of the Grand Prix series that will determine the participants in the Candidates Chess 2022. With Richard Rapport practically qualified after winning the Belgrade Grand Prix, just one spot is available for grabs. FIDE Grand Prix Berlin 2022 is going to take place March 21 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-grand-prix-berlin-2022/",
-         "pubDate" : "Mon, 21 Mar 2022 11:27:36 +0000",
-         "title" : "FIDE Grand Prix Berlin 2022"
       },
       {
          "description" : "Liem Quang Le said \"this is amazing\" as he won three games and drew one for a second day in a row to take a 4-point lead at the top of the Charity Cup table. Magnus Carlsen is also well on course to qualify for the knockout stages as he also won three games, though he lost again, this time to David Navara, with the Czech no. 1 the player who most improved his chances. Jan-Krzysztof Duda remains unbeaten and level with Magnus in second place, while 16-year-old Praggnanandhaa took down world no. 3 Ding Liren to squeeze into the Top 8.",
@@ -2272,14 +2272,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/33403834/ukraine-russia-invasion-india-im-reach-poland-headed-warsaw?device=featurephone",
          "pubDate" : "Wed, 2 Mar 2022 04:17:48 -0500",
          "title" : "Indian IM in Ukraine manages to reach Poland"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89941175.cms\" />The All India Chess Federation (AICF), which will be bidding to host the 44th edition of the Chess Olympiad later this year, has submitted its guarantee of USD 10 million to the world body, FIDE.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-submits-guarantee-towards-bid-to-host-olympiad/articleshow/89941175.cms",
-         "pubDate" : "Wed, 02 Mar 2022 12:37:36 +0530",
-         "title" : "AICF submits guarantee towards bid to host Olympiad"
       }
    ]
 }
