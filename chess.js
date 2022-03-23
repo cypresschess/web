@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Here's my summary of this week's Master Chess Web Shows. There was a departure from the usual schedule because of guest appearances, and these were such fun that we'll be doing some more: Monday On Monday we had FIDE Master Charlie Storey on the show, and he described how he started out in chess and <a href=\"https://chessimprover.com/master-chess-web-show-6/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (6)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-6/\">Master Chess Web Show (6)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/master-chess-web-show-6/",
+         "pubDate" : "Wed, 23 Mar 2022 15:25:02 +0000",
+         "title" : "Master Chess Web Show (6)"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
+         "pubDate" : "Wed, 23 Mar 2022 14:50:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/hBEQr-hF2Bk?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-round-2/",
+         "pubDate" : "Wed, 23 Mar 2022 13:25:43 +0000",
+         "title" : "FIDE Grand Prix in Berlin: Round 2"
+      },
+      {
+         "description" : "Last week, the Canadian WIM spoke about the isolated pawn in depth. In this episode, she talks about the hanging pawns, which evenly often occur in similar openings. The dynamic is different, and Svitlana lets us play with both sides again, fighting with, and against the hanging pawns, trying to find the best moves.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-35",
+         "pubDate" : "Wed, 23 Mar 2022 14:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - How to play with, and against hanging pawns"
+      },
+      {
+         "description" : "The International Chess Federation FIDE banned yesterday Sergey Karjakin from all its events. As Karjakin decided not to appeal, this means he will not be able to participate&#160;in&#160;Candidates Chess 2022. (See who can substitute Karjakin in the Candidates here). This is another blow for Russia after the&#160;Chess Olympiad 2022 was moved to India&#160;and&#160;Russian and Belarus []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kremlin-reacts-to-the-ban-of-sergey-karjakin/",
+         "pubDate" : "Wed, 23 Mar 2022 12:45:02 +0000",
+         "title" : "Kremlin reacts to the ban of Sergey Karjakin"
+      },
+      {
+         "description" : "The final day of the Charity Cup preliminaries had its fair share of drama, with half the players getting knocked out of the competition after 15 rounds. Praggnanandhaa and Richard Rapport did not make the cut, with Pragg missing winning chances before losing his last game of the prelims against David Anton. Anton, who came from scoring wins in the two previous rounds, climbed all the way up to fourth place thanks to this victory and will face Jan-Krzysztof Duda in the quarterfinals. | Photo: Alina l'Ami",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/charity-cup-2022-d4",
+         "pubDate" : "Wed, 23 Mar 2022 13:30:00 +0100",
+         "title" : "Charity Cup: Anton wins three in a row to reach knockout"
+      },
+      {
+         "description" : "After the third double round robin of the Top Chess Engine Championship S22 Premier Division KomodoDragon has reduced the distance with Stockfish to just half a point. The open source chess engine Stockfish is still in the lead with 28,0/42 (14 wins, 28 draws, 0 losses), while KomodoDragon is second with 27,5/42 (15 wins, 25 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/komododragon-reduces-distance-with-stockfish-to-just-half-a-point/",
+         "pubDate" : "Wed, 23 Mar 2022 11:52:19 +0000",
+         "title" : "KomodoDragon reduces distance with Stockfish to just half a point"
+      },
+      {
+         "description" : "Magnus Carlsen was furious with himself for missing a win against Liem Quang Le but conceded, \"clearly the highlight of the Preliminaries is Liem's performance and play,\" as his opponent went on to finish top. A thrilling climax saw Vidit, Praggnanandhaa and Richard Rapport just miss out on the quarterfinals as Hans Niemann and David Navara made it through. It's Le-Navara, Carlsen-Niemann, Anton-Duda and Ding-Van Foreest in Wednesday's quartefinalfinals.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/charity-cup-4-le-wins-rapport-pragg-vidit-miss-out",
+         "pubDate" : "Wed, 23 Mar 2022 11:40:47 +0000",
+         "title" : "Charity Cup 4: Le wins | Rapport, Pragg & Vidit miss out"
+      },
+      {
          "description" : "This year the Romanian Championships took place from 21 to 27 February at Eforie Nord. In Spring and Summer, Eforie Nord is full of tourists but in the off-season it was quiet, and the tranquility of the place made Eforie the perfect location to play chess. Mircea-Emilian Parligras (pictured) won the Open Championship with 7.0/9, Alessia Ciolacu won the Women's Championship with 7.5/9. | Photos: Florin Ardelean / We Love Sport",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,15 +74,31 @@ news_feed (
          "title" : "Mircea Parligras and Alessia Ciolacu are the new Romanian Champions"
       },
       {
+         "description" : "The&#xA0;Charity Chess Cup 2022, the 2nd event on the Meltwater Champions Chess Tour, starts this Saturday March 19th and will be featured with live games, video, and detailed coverage on Chessdom.com. Magnus Carlsen, the reigning World Champion, 2021 Tour Champion and&#xA0;winner of the first event of the 2022 Tour, will return along with a total []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/charity-chess-cup-2022-live/",
+         "pubDate" : "Wed, 23 Mar 2022 10:22:00 +0000",
+         "title" : "Charity Chess Cup 2022 LIVE"
+      },
+      {
          "description" : "GM David Navara&#38;nbsp;just made it into the knockout phase of the&#38;nbsp;Charity Cup&#38;nbsp;as the Czech GM had the better tiebreak over GM&#38;nbsp;Richard Rapport&#38;nbsp;and GM&#38;nbsp;Praggnanandhaa R.,&#38;nbsp;who won a brilliant game in the penultimate round....",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-charity-cup-day-4",
-         "pubDate" : "Wed, 23 Mar 2022 02:58:43 -0700",
+         "pubDate" : "Wed, 23 Mar 2022 02:58:00 -0700",
          "title" : "Charity Cup Day 4: Praggnanandhaa Eliminated Despite Brilliancy"
       },
       {
-         "description" : "A frantic end to the Charity Cup's Prelim stage saw Indian teen Praggnanandhaa narrowly miss out on&#xA0;a place in the knockout as&#xA0;Magnus Carlsen and Liem Quang Le sailed through. Pragg, the wonderkid from Chennai, had put himself in pole position to qualify with a stunning penultimate round win over World Cup winner Jan-Krzysztof Duda. More []",
+         "description" : "Levon Aronian got a huge boost to his Candidates Tournament qualification chances as he opened the final stage of the FIDE Grand Prix with a win over Hikaru Nakamura. The US star was caught out in the opening, as was Maxime Vachier-Lagrave, who stumbled into a pawn sacrifice by Alexandr Predke and lost in just 23 moves. There were also wins for Nikita Vitiugov over Amin Tabatabaei, and for Leinier Dominguez over Daniil Dubov.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aronian-shocks-nakamura-as-final-berlin-gp-begins",
+         "pubDate" : "Wed, 23 Mar 2022 09:45:00 +0000",
+         "title" : "Aronian shocks Nakamura as final Berlin GP begins"
+      },
+      {
+         "description" : "A frantic end to the Charity Cup's Prelim stage saw Indian teen Praggnanandhaa narrowly miss out on&#160;a place in the knockout as&#160;Magnus Carlsen and Liem Quang Le sailed through. Pragg, the wonderkid from Chennai, had put himself in pole position to qualify with a stunning penultimate round win over World Cup winner Jan-Krzysztof Duda. More []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/le-quang-liem-wins-the-prelims-of-charity-cup/",
@@ -106,7 +186,7 @@ news_feed (
          "title" : "Grand Prix #3 Berlin: Race to the Candidates! | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
-         "description" : "The International Chess Federation FIDE banned yesterday Sergey Karjakin from all its events. As Karjakin decided not to appeal, this means he will not be able to participate&#xA0;in&#xA0;Candidates Chess 2022. (See who can substitute Karjakin in the Candidates here). Karjakin attended a pro-Putin rally&#xA0;organised by Sima-Land, the corporate sponsors of the 2020 Candidates Tournament, with []",
+         "description" : "The International Chess Federation FIDE banned yesterday Sergey Karjakin from all its events. As Karjakin decided not to appeal, this means he will not be able to participate&#160;in&#160;Candidates Chess 2022. (See who can substitute Karjakin in the Candidates here). Karjakin attended a pro-Putin rally&#160;organised by Sima-Land, the corporate sponsors of the 2020 Candidates Tournament, with []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/denis-khismatullin-supports-karjakin-on-and-off-the-board/",
@@ -178,14 +258,6 @@ news_feed (
          "title" : "Chess 2022 - January Top Pics"
       },
       {
-         "description" : "The second event of the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Magnus Carlsen, Ding Liren and Richard Rapport head the 16-player field. The tournament is taking place on March 19-26, with the action kicking off daily at 18.00 CET (13.00 ET, 17.00 UTC, 22.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
-         "pubDate" : "Tue, 22 Mar 2022 17:50:00 +0100",
-         "title" : "Charity Cup - Live!"
-      },
-      {
          "description" : "The Kremlin dramatically intervened in the row over Sergey Karjakin's worldwide chess ban today as Vladimir Putin's press spokesman called on FIDE to revise its ruling. Dmitry Peskov, who is also chairman of the Board of Trustees of the Russian Chess Federation, told Russian news agency TASS that chess \"must be beyond politics\".",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -240,14 +312,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/karjakin-gets-6-months.html",
          "pubDate" : "Tue, 22 Mar 2022 12:56:00 +0000",
          "title" : "Karjakin gets 6 months"
-      },
-      {
-         "description" : "FIDE Grand Prix Berlin 2022 is the final leg of the Grand Prix series that will determine the participants in the Candidates Chess 2022. With Richard Rapport practically qualified after winning the Belgrade Grand Prix, just one spot is available for grabs. Live games from the Berlin Grand Prix will be daily on Chessdom.com Round []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/berlin-grand-prix-2022-live/",
-         "pubDate" : "Tue, 22 Mar 2022 11:25:00 +0000",
-         "title" : "Berlin Grand Prix 2022 LIVE"
       },
       {
          "description" : "The International Chess Federation, together with its Chess in Education Commission (EDU) and Chess Scientific Research Institute (CSRI), is pleased to announce the 4th Chess...",
@@ -312,22 +376,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-strong-king",
          "pubDate" : "Tue, 22 Mar 2022 09:00:00 +0100",
          "title" : "A strong king"
-      },
-      {
-         "description" : "Grandmaster, National Champion and someone who is training his sights to battle with the best &#x2013; Arjun Erigaise starts as the top seed and hot favorite for the crown in the 19th edition of the Delhi International open chess tournament 2022 that kickstarts at the Tivoli Garden resorts here. Defending champion of 2020, Grandmaster and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/delhi-chess-2022/",
-         "pubDate" : "Tue, 22 Mar 2022 06:48:47 +0000",
-         "title" : "Delhi Chess 2022"
-      },
-      {
-         "description" : "Magnus Carlsen is now clear second and within striking distance of the first place in Charity Cup 2022. Le Quang Liem is still the sole leader after three days of solid performance, while Jorden Van Foorest rushes into third. More about Charity Cup:&#160;Charity Cup 2022 participants and preview&#160;/&#160;Charity Cup 2022 live&#160;/&#160;Charity Cup 2022 video)&#160;Round reports:&#160;Hans []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-inches-closer-to-the-top-le-quang-liem-still-leads/",
-         "pubDate" : "Tue, 22 Mar 2022 06:25:17 +0000",
-         "title" : "Carlsen inches closer to the top, Le Quang Liem still leads"
       },
       {
          "description" : "With three rounds to go, Le Quang Liem is still the sole leader of the preliminaries at the Charity Cup. The Vietnamese stands three points ahead of second-placed Magnus Carlsen and has already secured a spot in the knockout stage. On day 3, Jorden van Foreest was the highest scorer, as he collected three wins and a draw. Moreover, the Dutchman had a superior position in the one game he drew, against Carlsen. | Photo: Jurriaan Hoefsmit - Tata Steel Chess Tournament 2021",
@@ -1426,14 +1474,6 @@ news_feed (
          "title" : "Sam Sevian and Abhimanyu Mishra triumph in Saint Louis"
       },
       {
-         "description" : "The plane carrying Dmitry Andreikin's family arrived in Belgrade 7 hours later than scheduled, so that instead of sleeping before the final of the FIDE Grand Prix he'd been up almost all night. That showed in the first game, as Dmitry met Richard Rapport's already solid Petroff Defence by heading for what he called an \"absolutely drawish position\". The game dragged on a lot longer than might have been expected, but it did end in a draw, so it's all-square going into Sunday's final classical game in Belgrade.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/belgrade-gp-final-1-sleepless-night-and-a-slow-start",
-         "pubDate" : "Sat, 12 Mar 2022 22:24:08 +0000",
-         "title" : "Belgrade GP Final 1: Sleepless night and a slow start"
-      },
-      {
          "description" : " GM Ian Rogers has entered the world of live streaming, covering the current Ballarat Begonia Open at <a href=\"https://www.twitch.tv/gmianr\">https://www.twitch.tv/gmianr</a> He plans to follow this up with coverage of the 2022 O2C Doeberl Cup next month. The move to online coverage is both as a consequence of current covid rules, but also an understanding that technology has advanced to a level where the traditional in person lecture has been replaced with online versions. There are theree rounds of the Ballarat tournament today, so if you tune in from around 10am (I think) you should be able to watch around 12 hours of tournament play. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1528,14 +1568,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1631",
          "pubDate" : "Fri, 11 Mar 2022 21:45:19 +0000",
          "title" : "Ekaterina Atalik wins Turkish Women's Championship"
-      },
-      {
-         "description" : "Dmitry Andreikin will play Richard Rapport in the Belgrade FIDE Grand Prix final after defeating Anish Giri 1.5:0.5 in tiebreaks. It was a tough defeat for the Dutch star, who was close to winning in the first game when he took a draw by repetition, and then had a stable advantage in the second before he lost control. Ultimately Anish thought he'd spotted a winning tactic but in fact he allowed Dmitry to reach the final by demonstrating the refutation.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/belgrade-gp-andreikin-hits-back-to-reach-final",
-         "pubDate" : "Fri, 11 Mar 2022 21:19:01 +0000",
-         "title" : "Belgrade GP: Andreikin hits back to reach final"
       },
       {
          "description" : "",
@@ -1656,14 +1688,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-bullet-chess-championship-losers-round-2-bortnyk-erigaisi-jacobson-martinez-win",
          "pubDate" : "Thu, 10 Mar 2022 15:54:00 -0800",
          "title" : "Bullet Chess Championship Losers Round 2: Bortnyk, Erigaisi, Jacobson, Martinez Advance"
-      },
-      {
-         "description" : " <p class=\"lead\">Rapport eliminated MVL as Andreikin and Giri go to tiebreaks The second round of the semi-finals of the second leg of the Grand Prix saw two draws. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-43.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-33.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-37.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-53.jpg\" width=\"1280\" he",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/belgrade-grand-prix-knockout-day-two-recap/",
-         "pubDate" : "Thu, 10 Mar 2022 22:03:27 +0000",
-         "title" : "Belgrade Grand Prix - Knockout: Day Two Recap"
       },
       {
          "description" : "",
@@ -1994,14 +2018,6 @@ news_feed (
          "title" : "The Winning Academy 7: Why is the threat stronger than its execution?"
       },
       {
-         "description" : "The acronym \"LPDO\" was probably coined by the English player Mike Cook, who used it to explain the majority of his losses in a 100-game blitz match against John Nunn. But it was Nunn who made the term popular by talking about this blitz match in his book \"Secrets of Practical Chess\". Keeping \"LPDO\" in mind might help to reduce blundering pieces, even in the endgame. In the diagrammed position Black's rook and bishop are both \"loose\". How did White manage to let them \"drop off\"?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/loose-pieces-drop-off-lpdo",
-         "pubDate" : "Tue, 08 Mar 2022 09:00:00 +0100",
-         "title" : "Loose Pieces Drop Off (LPDO)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2024,14 +2040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1621",
          "pubDate" : "Mon, 07 Mar 2022 19:00:21 +0000",
          "title" : "Dominican Championships: Arvelo and Rosario Almanzar claim titles"
-      },
-      {
-         "description" : "In the Endgame Magic Show #184 Karsten M&uuml;ller presents endgame highlights from the FIDE Grand Prix in Berlin, which was won by Hikaru Nakamura. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-184-endgame-highlights-from-the-fide-grand-prix-in-berlin",
-         "pubDate" : "Mon, 07 Mar 2022 18:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #184: Endgame highlights from the FIDE Grand Prix in Berlin"
       },
       {
          "description" : "",
@@ -2088,14 +2096,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ukraine-statement-update/",
          "pubDate" : "Sun, 06 Mar 2022 18:22:47 +0000",
          "title" : "Ukraine - statement update"
-      },
-      {
-         "description" : " Sixty or so years ago, the pioneering books of Raymond Bott and Stanley Morrison played an important role in the popularisation of chess amongst primary school children. Their first book, Chess for Children, was so popular that a follow-up, The Chess Apprentice (later retitled More Chess for Children) was also published. They were outstanding books <a href=\"https://chessimprover.com/chess-apprentice/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Apprentice\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-apprentice/\">Chess Apprentice</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-apprentice/",
-         "pubDate" : "Sun, 06 Mar 2022 17:24:22 +0000",
-         "title" : "Chess Apprentice"
       },
       {
          "description" : " For no particular reason I decided to see what was opening in the Bundesliga, which is running as I speak. Almost all the games were still in the opening stage, and yet one game was already finished. At first I thought it was a forfeit, or even worse, a mobile phone default, but instead it was just a misplayed opening that was quickly punished. White didn't play any outright blunders (in the usual sense), but every move seemed to make the position worse. Realising that f2 was about fall, White decided that they had seen enough. <br /> <b>Pitl,Jarno (1988) - Wegerle,Joerg (2404) [A04]</b><br />Schachbundesliga chess24.com (2.8), 06.03.2022 <script>new PgnViewer( { boardName: \"game1315\", move",
@@ -2248,30 +2248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1603",
          "pubDate" : "Wed, 02 Mar 2022 19:40:52 +0000",
          "title" : "The Official Statement of FIDE Council"
-      },
-      {
-         "description" : " Note from Noël: This is a guest post by a Next Level Chess reader who goes by 'Ringofbarahir' on several Chess platforms (Chessable/Chess.com/Lichess). He is an adult chess improver and looks back on his first year in chess. The clarity of his insights struck me and that's why I'm very happy to share the article [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/5-key-lessons-first-year/\">5 Key Lessons I learned In My First Year Playing Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/5-key-lessons-first-year/",
-         "pubDate" : "Wed, 02 Mar 2022 15:00:00 +0000",
-         "title" : "5 Key Lessons I learned In My First Year Playing Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1608",
-         "pubDate" : "Wed, 02 Mar 2022 12:28:05 +0000",
-         "title" : "World Teams Championship 2022 postponed to November 2022"
-      },
-      {
-         "description" : " There is a huge difference between having an advantage, and converting that advantage. The gap is often so large that there is room for a step in between, which is increasing your advantage. During post-mortems I've often heard players sat \"I thought I was winning here\", without actually being able to say why. Here is a game from the current Grand Prix series where White does a good job of slowing improving his position, based on the plan of targeting weaknesses in Black's position. This starts around move 15 when Black has an isolated e pawn. By forcing Black to defend this weakness, White is able to improve his position, creating further weaknesses in Black's position. As the game continu",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/good-technique.html",
-         "pubDate" : "Wed, 02 Mar 2022 12:27:00 +0000",
-         "title" : "Good Technique"
       }
    ]
 }
