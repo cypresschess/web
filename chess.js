@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This year the Romanian Championships took place from 21 to 27 February at Eforie Nord. In Spring and Summer, Eforie Nord is full of tourists but in the off-season it was quiet, and the tranquility of the place made Eforie the perfect location to play chess. Mircea-Emilian Parligras (pictured) won the Open Championship with 7.0/9, Alessia Ciolacu won the Women's Championship with 7.5/9. | Photos: Florin Ardelean / We Love Sport",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mircea-parligras-and-alessia-ciolacu-are-the-new-romanian-champions",
+         "pubDate" : "Wed, 23 Mar 2022 12:00:00 +0100",
+         "title" : "Mircea Parligras and Alessia Ciolacu are the new Romanian Champions"
+      },
+      {
          "description" : "GM David Navara&#38;nbsp;just made it into the knockout phase of the&#38;nbsp;Charity Cup&#38;nbsp;as the Czech GM had the better tiebreak over GM&#38;nbsp;Richard Rapport&#38;nbsp;and GM&#38;nbsp;Praggnanandhaa R.,&#38;nbsp;who won a brilliant game in the penultimate round....",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2032,14 +2040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1620",
          "pubDate" : "Mon, 07 Mar 2022 14:29:36 +0000",
          "title" : "Chess for Ukraine: FIDE announces a series of fundraising events on Women's Day"
-      },
-      {
-         "description" : "Under the motto \"Chess4Peace\" and in solidarity with the people in Ukraine, the Emanuel Lasker Society has issued an appeal for donations. If you want to help, you can donate to an account set up by the Emanuel Lasker Society.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess4peace-the-emanuel-lasker-society-appeals-for-donations-to-help-ukraine",
-         "pubDate" : "Mon, 07 Mar 2022 14:22:59 +0100",
-         "title" : "\"chess4peace\": The Emanuel Lasker Society appeals for donations to help Ukraine"
       },
       {
          "description" : "Top 2 seeded players of open section IM Pranav V and IM Pranesh M both from Tamil Nadu jointly share the lead 5 points each.",
