@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first round of the final leg of the 2022&#38;nbsp;FIDE Grand Prix&#38;nbsp;saw four decisive games. Each group has a clear leader, with GMs Levon Aronian, Leinier Dominguez Perez, Alexandr Predke, and Nikita Vitiugov all leading their respective group...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-round-1",
+         "pubDate" : "Tue, 22 Mar 2022 18:03:00 -0700",
+         "title" : "2022 FIDE Grand Prix Berlin Leg 3, R1: Four Wins, Fighting Chess"
+      },
+      {
+         "description" : " <p class=\"lead\">The third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE World Chess Grand Prix</a> started with four decisive games and four games ended in a draw. The 16 players are split into four pools with four participants each and day 1 saw one draw and one win in each pool. Levon Aronian, Leinier Dominguez, Alexandr Predke and Nikita Vitiugov left the playing hall with a full point. There will be six rounds in total in the group stage and the winner of each pool progresses to the knockout semi-final, and the two winners meet in the final. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://world",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/berlin-grand-prix-round-one/",
+         "pubDate" : "Wed, 23 Mar 2022 01:00:20 +0000",
+         "title" : "Berlin Grand Prix Round One"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at the first day of Group Stage play in the third tournament of the FIDE Grand Prix 2022. Find the event format at <a href=\"https://en.wikipedia.org/wiki/FIDE_Grand_Prix_2022\">https://en.wikipedia.org/wiki/FIDE_Grand_Prix_2022</a>. 2022.03.22<br /> Levon Aronian vs. Hikaru Nakamura, 2022: D20 Queen&#039;s Gambit Accepted, 3.e4<br /> <a href=\"https://lichess.org/broadcast/fide-grand-prix-2022-leg-3--group-stage/round-1/WAMSBiRV\">https://lichess.org/broadcast/fide-grand-prix-2022-leg-3--group-stage/ro...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grand-prix-3-berlin-race-candidates-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Wed, 23 Mar 2022 00:10:03 +0000",
+         "title" : "Grand Prix #3 Berlin: Race to the Candidates! | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
+         "description" : "The International Chess Federation FIDE banned yesterday Sergey Karjakin from all its events. As Karjakin decided not to appeal, this means he will not be able to participate&#xA0;in&#xA0;Candidates Chess 2022. (See who can substitute Karjakin in the Candidates here). Karjakin attended a pro-Putin rally&#xA0;organised by Sima-Land, the corporate sponsors of the 2020 Candidates Tournament, with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/denis-khismatullin-supports-karjakin-on-and-off-the-board/",
+         "pubDate" : "Tue, 22 Mar 2022 23:46:00 +0000",
+         "title" : "Denis Khismatullin supports Karjakin on and off the board"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1654",
+         "pubDate" : "Tue, 22 Mar 2022 23:22:04 +0000",
+         "title" : "FIDE Grand Prix Berlin - Round 1 Recap"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski begins his series on building a chess plan. 2022.03.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/building-chess-plan-grandmasters-choice-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bhBs4WsCxM4.jpg?itok=16ZTUn-U\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -426,14 +466,6 @@ news_feed (
          "title" : "Notice : National Team & National Team for Women Chess Championship 2022"
       },
       {
-         "description" : "Hans Niemann had a strong Day 1 at the Charity Chess Cup 2022 where he emerged a leader of the event. In Day 2 he played against the World Champion Magnus Carlsen. Here is the game and the thoughts of the commentators at the end of it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-vs-hans-niemannvideo-and-game/",
-         "pubDate" : "Mon, 21 Mar 2022 10:35:00 +0000",
-         "title" : "Magnus Carlsen vs Hans Niemann(video and game)"
-      },
-      {
          "description" : "On the third episode of The Late Knight Show, Askild Bryn and David Howell speak to popular British Grandmaster Simon Williams, who reveals the secrets behind his success. How did he get into chess? Who is his \"nemesis\"? And how did he get locked in his room, almost missing his final GM norm?",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -856,14 +888,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-bullet-chess-championship-winners-final-losers-semifinals-nakamura-wins",
          "pubDate" : "Wed, 16 Mar 2022 14:20:00 -0700",
          "title" : "Bullet Chess Championship: Nakamura Advances To Grand Finals"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League continues its Spring season. Join NM Caleb Denby for the move-by-move. 2022.04.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-corporate-chess-league-virtual-spring-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/A4bMrb7ABw0.jpg?itok=7ISbr2OC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-corporate-chess-league-virtual-spring-4",
-         "pubDate" : "Wed, 16 Mar 2022 21:04:56 +0000",
-         "title" : "2022 Saint Louis Corporate Chess League: Virtual Spring #4"
       },
       {
          "description" : "FIDE has followed the recommendations of the International Olympic Committee and excluded the teams of Russia and Belarus from participating in all official FIDE tournaments.",
@@ -1634,14 +1658,6 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Belgrade Semifinals Day 2: Rapport Magic"
       },
       {
-         "description" : " <p class=\"lead\">Round 2 of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 semifinals</a> ended with an amazing game between Maxime Vachier-Lagrave and Richard Rapport. The French GM couldn't cash out his winning position and Rapport moves to the finals. Anish Giri and Dmitry Andreikin will face each other in tomorrow's tiebreaks. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.4992679355783\"> <img src=\"https://worldchess.com/news/pictures/A-14.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51930747770_db52316385_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.co",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/mvl-misses-his-chance-and-rapport-moves-to-the-fide-grand-prix-f/",
-         "pubDate" : "Thu, 10 Mar 2022 18:57:37 +0000",
-         "title" : "MVL misses his chance and Rapport moves to the FIDE Grand Prix finals"
-      },
-      {
          "description" : "Samuel Sevian took down former sole leader Ray Robson in round 8 of the Saint Louis Spring Classic. Going into Thursday's final round, Sevian is sharing first place with Ukrainian GM Ilya Nyzhnyk, who got the better of Aram Hakobyan in round 8. | Round 9 starts Thursday at 11:00 local time (18:00 CET, 17:00 UTC) with live commentary from the Saint Louis Chess Center.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1970,14 +1986,6 @@ news_feed (
          "title" : "Loose Pieces Drop Off (LPDO)"
       },
       {
-         "description" : "Chess.com is thrilled to announce that the 2022 Women&#39;s Speed Chess Championship has been confirmed and is set to start on May 24. The event was born from a partnership between Chess.com and FIDE and is the most important online tournament for tit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-womens-speed-chess-championship-2022",
-         "pubDate" : "Mon, 07 Mar 2022 16:05:00 -0800",
-         "title" : "Announcing The 2022 FIDE Chess.com Women's Speed Chess Championship"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2280,14 +2288,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-topples-top-seed-vaishali-set-to-become-senior-national-chess-champion/articleshow/89937905.cms",
          "pubDate" : "Wed, 02 Mar 2022 10:21:33 +0530",
          "title" : "Divya set to become senior national chess champion"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1607",
-         "pubDate" : "Wed, 02 Mar 2022 00:01:45 +0000",
-         "title" : "FIDE Grand Prix Belgrade: Round 1 Recap"
       }
    ]
 }
