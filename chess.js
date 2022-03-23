@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Wearing blue and yellow, GM Wesley So gave an interview to WGM Dina Belenkaya commenting on Russia's invasion of Ukraine as well as the statements of GM Sergey Karjakin. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Untitled-design-2.jpg\" width=\"1920\" height=\"1080\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Niki Riga</div> </div> Wesley So is currently in Berlin, participating in the third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022.</a> After Round 2 and his draw against Predke, Dina Belenkaya interviewed So and couldn't help but notice his blue-yellow clothing. So responded that it was a t",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/its-not-just-about-political-opinion-its-about-the-killing-of-in/",
+         "pubDate" : "Wed, 23 Mar 2022 17:59:32 +0000",
+         "title" : "\"It's not just about political opinion, it's about the killing of innocent Ukrainians\" GM Wesley So states about the war"
+      },
+      {
+         "description" : " Losing a chess game hurts. It certainly hurt me a lot in my professional days. Sometimes I needed days or weeks to recover mentally from a bad loss. For a while I thought this was just a \"me\" thing. That I was way too invested and couldn't handle losses well. While there is certainly some [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/why-losing-at-chess-hurts-so-much-and-the-antidote/\">Why Losing At Chess Hurts So Much (And The Antidote)</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/why-losing-at-chess-hurts-so-much-and-the-antidote/",
+         "pubDate" : "Wed, 23 Mar 2022 16:53:14 +0000",
+         "title" : "Why Losing At Chess Hurts So Much (And The Antidote)"
+      },
+      {
+         "description" : "The second event of the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Magnus Carlsen, Ding Liren and Richard Rapport head the 16-player field. The tournament is taking place on March 19-26, with the action kicking off daily at 18.00 CET (13.00 ET, 17.00 UTC, 22.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
+         "pubDate" : "Wed, 23 Mar 2022 17:50:00 +0100",
+         "title" : "Charity Cup QF - Live!"
+      },
+      {
+         "description" : "It took the 2022 FIDE Grand Prix, where GMs Hikaru Nakamura and Daniil Dubov were both playing on Tuesday, to break their two-week Titled Tuesday winning streak. In their places were GM Ian Nepomniachtchi, winning the early tournament, and GM Dmit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nepomniachtchi-andreikin-win-titled-tuesday-march-22-2022",
+         "pubDate" : "Wed, 23 Mar 2022 09:16:48 -0700",
+         "title" : "Nepomniachtchi, Andreikin Win March 22 Titled Tuesday"
+      },
+      {
          "description" : " Here's my summary of this week's Master Chess Web Shows. There was a departure from the usual schedule because of guest appearances, and these were such fun that we'll be doing some more: Monday On Monday we had FIDE Master Charlie Storey on the show, and he described how he started out in chess and <a href=\"https://chessimprover.com/master-chess-web-show-6/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (6)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-6/\">Master Chess Web Show (6)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/master-chess-web-show-6/",
          "pubDate" : "Wed, 23 Mar 2022 15:25:02 +0000",
          "title" : "Master Chess Web Show (6)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1655",
+         "pubDate" : "Wed, 23 Mar 2022 14:09:29 +0000",
+         "title" : "FIDE Council meeting: List of decisions"
       },
       {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
@@ -40,6 +80,14 @@ news_feed (
          "link" : "https://www.chessdom.com/kremlin-reacts-to-the-ban-of-sergey-karjakin/",
          "pubDate" : "Wed, 23 Mar 2022 12:45:02 +0000",
          "title" : "Kremlin reacts to the ban of Sergey Karjakin"
+      },
+      {
+         "description" : "A list of athletes who retired on their terms, at their peak, much like Ashleigh Barty did on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/33576267/ash-barty-michael-jordan-elite-athletes-retiring-their-peak?device=featurephone",
+         "pubDate" : "Wed, 23 Mar 2022 07:39:36 -0500",
+         "title" : "Ash Barty to Michael Jordan - elite athletes retiring at their peak"
       },
       {
          "description" : "The final day of the Charity Cup preliminaries had its fair share of drama, with half the players getting knocked out of the competition after 15 rounds. Praggnanandhaa and Richard Rapport did not make the cut, with Pragg missing winning chances before losing his last game of the prelims against David Anton. Anton, who came from scoring wins in the two previous rounds, climbed all the way up to fourth place thanks to this victory and will face Jan-Krzysztof Duda in the quarterfinals. | Photo: Alina l'Ami",
@@ -312,6 +360,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/karjakin-gets-6-months.html",
          "pubDate" : "Tue, 22 Mar 2022 12:56:00 +0000",
          "title" : "Karjakin gets 6 months"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1643",
+         "pubDate" : "Tue, 22 Mar 2022 11:30:15 +0000",
+         "title" : "Support Ukrainian Chess Players and their Families"
       },
       {
          "description" : "The International Chess Federation, together with its Chess in Education Commission (EDU) and Chess Scientific Research Institute (CSRI), is pleased to announce the 4th Chess...",
@@ -664,14 +720,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/charity-cup-2022-d1",
          "pubDate" : "Sun, 20 Mar 2022 13:40:00 +0100",
          "title" : "Charity Cup: Niemann and Le share the lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1643",
-         "pubDate" : "Sun, 20 Mar 2022 11:30:15 +0000",
-         "title" : "Support Ukrainian Chess Players and their Families"
       },
       {
          "description" : "GM Le Quang Liem and GM Hans Niemann, underdogs for overall victory, are sharing the lead after day one at the Charity Cup. In what is the second&#38;nbsp;leg of the 2022 Meltwater Champions Chess Tour, World Champion&#38;nbsp;Magnus Carlsen suffered an e...",
@@ -1626,14 +1674,6 @@ news_feed (
          "title" : "Andreikin is the second finalist of the FIDE Grand Prix 2022 in Belgrade"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/V2TqVx7wy3s?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-semi-final-tie-break/",
-         "pubDate" : "Fri, 11 Mar 2022 14:14:41 +0000",
-         "title" : "FIDE Grand Prix in Belgrade: Semi-final Tie-Break"
-      },
-      {
          "description" : " The concept of 'pay to win' games has always offended me. If you are not familiar with the concept, it is essentially allowing you to pay extra money to a free game, to receive benefits that other players do not get. It is a business model for some games, which while profitable, can annoy an existing user base. More so if the game starts out as 'free forever' before it isn't. In the past I played a few games like this, but as soon as they became 'p2w' I lost interest. But having said that, I do wonder what 'p2w' chess might look like. eg Buying takebacks, Rejecting your opponents first choice, two moves in a row, castling after moving your king Some of these are probably too drastic (Playin",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1826,14 +1866,6 @@ news_feed (
          "title" : "FIDE Grand Prix Belgrade - Knockout: Day One Recap"
       },
       {
-         "description" : "From the pool phase of the 2022 FIDE Grand Prix&#38;nbsp;in Belgrade, GMs Dmitry Andreikin, Anish Giri, Richard Rapport, and Maxime Vachier-Lagrave qualified to the semifinals, with Andreikin and Giri meeting in one match while Rapport and Vachier-Lag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-semifinals-day-1",
-         "pubDate" : "Wed, 09 Mar 2022 13:10:00 -0800",
-         "title" : "2022 FIDE Grand Prix Belgrade Semifinals Day 1: Rapport Wins!"
-      },
-      {
          "description" : "In his \"Game of the Week\" show #506, Merijn van Delft shows how Richard Rapport, who is known for his creative play, played on the queenside, in the center and on the kingside to win a crucial game against Vidit at the FIDE Grand Prix in Belgrade. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2008,14 +2040,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-february-2022/",
          "pubDate" : "Tue, 08 Mar 2022 09:06:08 +0000",
          "title" : "ECU E-MAGAZINE FEBRUARY 2022"
-      },
-      {
-         "description" : "It was Aron Nimzowitsch (pictured) who coined the paradoxical expression \"The threat is stronger than its execution.\" This phrase sounds catchy and smart but if you think about it, you start to wonder how a threat can actually ever be stronger than its execution. Jan Markos has a number of good answers. (Foto: L'Echiquier 1931)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-7-why-is-the-threat-stronger-than-its-execution",
-         "pubDate" : "Tue, 08 Mar 2022 10:00:00 +0100",
-         "title" : "The Winning Academy 7: Why is the threat stronger than its execution?"
       },
       {
          "description" : "",
