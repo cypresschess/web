@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM David Navara&#38;nbsp;just made it into the knockout phase of the&#38;nbsp;Charity Cup&#38;nbsp;as the Czech GM had the better tiebreak over GM&#38;nbsp;Richard Rapport&#38;nbsp;and GM&#38;nbsp;Praggnanandhaa R.,&#38;nbsp;who won a brilliant game in the penultimate round....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-charity-cup-day-4",
+         "pubDate" : "Wed, 23 Mar 2022 02:58:43 -0700",
+         "title" : "Charity Cup Day 4: Praggnanandhaa Eliminated Despite Brilliancy"
+      },
+      {
          "description" : "A frantic end to the Charity Cup's Prelim stage saw Indian teen Praggnanandhaa narrowly miss out on&#xA0;a place in the knockout as&#xA0;Magnus Carlsen and Liem Quang Le sailed through. Pragg, the wonderkid from Chennai, had put himself in pole position to qualify with a stunning penultimate round win over World Cup winner Jan-Krzysztof Duda. More []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -71,7 +79,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-round-1",
          "pubDate" : "Tue, 22 Mar 2022 18:03:00 -0700",
-         "title" : "2022 FIDE Grand Prix Berlin Leg 3, R1: Four Wins, Fighting Chess"
+         "title" : "FIDE Grand Prix Berlin Leg 3, R1: 4 Wins, Fighting Chess"
       },
       {
          "description" : " <p class=\"lead\">The third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE World Chess Grand Prix</a> started with four decisive games and four games ended in a draw. The 16 players are split into four pools with four participants each and day 1 saw one draw and one win in each pool. Levon Aronian, Leinier Dominguez, Alexandr Predke and Nikita Vitiugov left the playing hall with a full point. There will be six rounds in total in the group stage and the winner of each pool progresses to the knockout semi-final, and the two winners meet in the final. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://world",
@@ -128,6 +136,14 @@ news_feed (
          "link" : "https://www.chessdom.com/levon-aronian-about-the-candidates-2022-and-karjakin-case/",
          "pubDate" : "Tue, 22 Mar 2022 21:06:54 +0000",
          "title" : "Levon Aronian about the Candidates 2022 and Karjakin case"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1653",
+         "pubDate" : "Tue, 22 Mar 2022 20:49:24 +0000",
+         "title" : "Ahmed Adly, new Chair of the Athletes Commission"
       },
       {
          "description" : " <p class=\"lead\">Round 1 of the third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with GMs Levon Aronian, Leinier Dominguez, Alexandr Predke, and Nikita Vitiugov leading their Groups. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-15.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220322151307_IMG_3910.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220322151241_IMG_3909.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictur",
@@ -317,14 +333,6 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1652",
-         "pubDate" : "Mon, 21 Mar 2022 23:15:49 +0000",
-         "title" : "Geir Nesheim, new Chair of the Social Commission"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1651",
          "pubDate" : "Mon, 21 Mar 2022 19:15:08 +0000",
          "title" : "Final leg of FIDE Grand Prix kicks off in Berlin"
@@ -458,6 +466,14 @@ news_feed (
          "title" : "47 National Women Certificates"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1646",
+         "pubDate" : "Mon, 21 Mar 2022 11:43:40 +0000",
+         "title" : "FIDE Candidates 2022 venue and schedule announced"
+      },
+      {
          "description" : "Le Quang Liem is the sole leader of the Charity Cup preliminaries after eight rounds. The Vietnamese grandmaster won six out of eight games so far to go into day 3 with an unbeaten 20/24 score. A full four points behind stand Magnus Carlsen and Jan-Krzysztof Duda in shared second place. The single round-robin continues until Tuesday, when half the participants in the 16-player field will move on to the knockout stage. | Photo: Andreas Kontokanis",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -488,6 +504,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/the-late-knight-show-simon-williams",
          "pubDate" : "Mon, 21 Mar 2022 10:29:04 +0000",
          "title" : "The Late Knight Show: Simon 'GingerGM' Williams"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1652",
+         "pubDate" : "Mon, 21 Mar 2022 10:15:49 +0000",
+         "title" : "Geir Nesheim, new Chair of the Social Commission"
       },
       {
          "description" : "Actively participate in some tactics training again! This time we concentrate on the process of solving tactics, and how to use your pattern recognition to conquer interesting puzzles. Lawrence chose two examples, played in Moscow and Leningrad. In the ChessBase tactics training, we solve one of the most beautiful tactics.",
@@ -584,14 +608,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/charity-cup-2022-d1",
          "pubDate" : "Sun, 20 Mar 2022 13:40:00 +0100",
          "title" : "Charity Cup: Niemann and Le share the lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1646",
-         "pubDate" : "Sun, 20 Mar 2022 11:43:40 +0000",
-         "title" : "FIDE Candidates 2022 venue and schedule announced"
       },
       {
          "description" : "",
@@ -1786,14 +1802,6 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Belgrade Semifinals Day 1: Rapport Wins!"
       },
       {
-         "description" : "GM Hikaru Nakamura won the early edition of Titled Tuesday on March 8, scoring 9.5/11 after defeating GM Daniil Dubov in the final round and winning on tiebreaks. Dubov went on to win the late edition and was the only player to reach the top five ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-dubov-win-titled-tuesday-march-8-2022",
-         "pubDate" : "Wed, 09 Mar 2022 09:09:30 -0800",
-         "title" : "Nakamura Reclaims Titled Tuesday; Dubov Wins Late, Nearly Sweeps"
-      },
-      {
          "description" : "In his \"Game of the Week\" show #506, Merijn van Delft shows how Richard Rapport, who is known for his creative play, played on the queenside, in the center and on the kingside to win a crucial game against Vidit at the FIDE Grand Prix in Belgrade. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2264,14 +2272,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/good-technique.html",
          "pubDate" : "Wed, 02 Mar 2022 12:27:00 +0000",
          "title" : "Good Technique"
-      },
-      {
-         "description" : "The chess International Master went through the uncrowded Dołhobycz&oacute;w-Uhryniv border and is now headed to Warsaw.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33403834/ukraine-russia-invasion-india-im-reach-poland-headed-warsaw?device=featurephone",
-         "pubDate" : "Wed, 2 Mar 2022 04:17:48 -0500",
-         "title" : "Indian IM in Ukraine manages to reach Poland"
       }
    ]
 }
