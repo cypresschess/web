@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " <p class=\"lead\">Wearing blue and yellow, GM Wesley So gave an interview to WGM Dina Belenkaya commenting on Russia's invasion of Ukraine as well as the statements of GM Sergey Karjakin. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Untitled-design-2.jpg\" width=\"1920\" height=\"1080\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Niki Riga</div> </div> Wesley So is currently in Berlin, participating in the third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022.</a> After Round 2 and his draw against Predke, Dina Belenkaya interviewed So and couldn't help but notice his blue-yellow clothing. So responded that it was a t",
+         "description" : " <p class=\"lead\">Round 2 of the third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with 8 draws. GMs Levon Aronian, Leinier Dominguez, Alexandr Predke, and Nikita Vitiugov are still leading their Groups with 1.5/2. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-16.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220323151435_IMG_4230.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220323151332_IMG_4227.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"http",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/round-2-of-the-fide-grand-prix-in-berlin-finished-with-8-draws/",
+         "pubDate" : "Wed, 23 Mar 2022 19:20:31 +0000",
+         "title" : "Round 2 of the FIDE Grand Prix in Berlin finished with 8 draws"
+      },
+      {
+         "description" : "In his \"Weekly Show\" Lawrence Trent talks about the Charity Cup but his main focus in on the FIDE Grand Prix in Berlin and the implications for the Candidates. Lawrence analyses the big upset from round 1, the game Alexandr Predke vs Maxime Vachier-Lagrave, in which the Russian GM took apart the French maestro who completely underestimated the danger in his position. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-the-fide-grand-prix-in-berlin",
+         "pubDate" : "Wed, 23 Mar 2022 20:09:24 +0100",
+         "title" : "The Weekly Show: The FIDE Grand Prix in Berlin"
+      },
+      {
+         "description" : " <p class=\"lead\">Wearing blue and yellow, GM Wesley So gave an interview to WGM Dina Belenkaya commenting on Russia's invasion of Ukraine as well as the statements of GM Sergey Karjakin. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/xfCh8ADdt0E?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Wesley So is currently in Berlin, participating in the third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022.</a> After Round 2 and his draw against Predke, Dina Belenkaya interviewed So and couldn't help but notice his blue-yellow clothing. So responded that it was a theme shirt that he has worn in the",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/its-not-just-about-political-opinion-its-about-the-killing-of-in/",
@@ -1666,14 +1682,6 @@ news_feed (
          "title" : "A Foundation for Beginners Fifty Four"
       },
       {
-         "description" : " <p class=\"lead\">The semifinals of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 in Belgrade</a> brought Anish Giri and Dmitry Andreikin in the tiebreaks. Andreikin managed to win the rapid tiebreaks with a 1.5-0.5 score and will face Rapport in the finals tomorrow. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51930381721_7fb1d50df7_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: Mark Livshitz / FIDE</div> </div> The semifinal tiebreaks between Dmitry Andreikin and Anish Giri started with a peaceful first game and a draw by repetition. The second game was in Giri's favor until a miscalculation by th",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/andreikin-is-the-second-finalist-of-the-fide-grand-prix-2022-in/",
-         "pubDate" : "Fri, 11 Mar 2022 15:35:05 +0000",
-         "title" : "Andreikin is the second finalist of the FIDE Grand Prix 2022 in Belgrade"
-      },
-      {
          "description" : " The concept of 'pay to win' games has always offended me. If you are not familiar with the concept, it is essentially allowing you to pay extra money to a free game, to receive benefits that other players do not get. It is a business model for some games, which while profitable, can annoy an existing user base. More so if the game starts out as 'free forever' before it isn't. In the past I played a few games like this, but as soon as they became 'p2w' I lost interest. But having said that, I do wonder what 'p2w' chess might look like. eg Buying takebacks, Rejecting your opponents first choice, two moves in a row, castling after moving your king Some of these are probably too drastic (Playin",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2008,14 +2016,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/rip-david-robertson/",
          "pubDate" : "Tue, 08 Mar 2022 14:08:26 +0000",
          "title" : "RIP David Robertson"
-      },
-      {
-         "description" : "Last week the European Chess Union strongly condemned the Russian invasion of Ukraine, the involvement of Belarus and expressed its solidarity and support for the Ukrainian people. With immediate effect, and acting within its constitutional powers, the ECU suspended the Russian and Belarusian Chess Federations. They also appealed for wide-spread support for their efforts. Now they are pleased to announce the first very kind offers (reaching them) of support and solidarity to Ukrainian Chess friends.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-support-of-ukrainian-chess",
-         "pubDate" : "Tue, 08 Mar 2022 14:51:54 +0100",
-         "title" : "European support of Ukrainian chess"
       },
       {
          "description" : " An important update for players wishing to play in either the O2C Doeberl Cup Major and Minor. The Monir event (Under 1600 ACF) reached the 80 player limit late last week. As a result we have extended the size of the event to 120, but it is unlikely that it will be increased further. At the moment there are 20 places left in the Major (Under 2000 ACF), so if you wish to play the Major, you should get your entries in quick. At the moment there are over 200 entries for the event, and with 5 weeks before the event starts, a field well in excess of 300 is expected. If you are eligible for two divisions (due to an overlap in rating requirements), picking the less crowded of the 2 would be great ",
