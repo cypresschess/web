@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In an exciting first round, the third leg of the Grand Prix series saw four players getting off to winning starts at Berlin's Unter den Linden. Levon Aronian and Leinier Dominguez got crucial wins against direct contenders Hikaru Nakamura and Daniil Dubov, while Nikita Vitiugov got the better of Amin Tabatabaei, the lowest-rated player in pool D. The most surprising result of the day was Alexandr Predke's win over Maxime Vachier-Lagrave. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r1",
+         "pubDate" : "Wed, 23 Mar 2022 04:50:00 +0100",
+         "title" : "Berlin GP: Aronian and Dominguez score crucial wins"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at the first day of Group Stage play in the third tournament of the FIDE Grand Prix 2022. Find the event format at <a href=\"https://en.wikipedia.org/wiki/FIDE_Grand_Prix_2022\">https://en.wikipedia.org/wiki/FIDE_Grand_Prix_2022</a>. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grand-prix-3-berlin-race-candidates-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/pub",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grand-prix-3-berlin-race-candidates-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 23 Mar 2022 03:10:07 +0000",
+         "title" : "Grand Prix #3 Berlin: Race to the Candidates! | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski begins his series on building a chess plan. 2022.03.22<br /> Alan Pichot vs. Robert Hungaski, 2022: C82 Ruy Lopez, open, Dilworth variation<br /> <a href=\"https://www.chess.com/az/events/2022-floripa-chess-open/06/Pichot_Alan-Hungaski_Robert\">https://www.chess.com/az/events/2022-floripa-chess-open/06/Pichot_Alan-H...</a><br /> Magnus Carlsen vs Hans Moke Niemann, Charity Cup (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2257531\">https://www.chessgames.com/perl/chessgame?gid=2257531</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/planning-ahead-chess-grandmasters-choice-gm-robert-hungaski",
+         "pubDate" : "Wed, 23 Mar 2022 03:10:07 +0000",
+         "title" : "Planning Ahead in Chess | Grandmaster's Choice - GM Robert Hungaski"
+      },
+      {
          "description" : "The first round of the final leg of the 2022&#38;nbsp;FIDE Grand Prix&#38;nbsp;saw four decisive games. Each group has a clear leader, with GMs Levon Aronian, Leinier Dominguez Perez, Alexandr Predke, and Nikita Vitiugov all leading their respective group...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -128,14 +152,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/nesheim-heads-social-commission/",
          "pubDate" : "Tue, 22 Mar 2022 15:11:49 +0100",
          "title" : "Nesheim heads Social Commission"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
-         "pubDate" : "Tue, 22 Mar 2022 14:50:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
       },
       {
          "description" : "Levon Aronian will take on Hikaru Nakamura in Round 1 as the 3rd and final leg of the 2022 FIDE Grand Prix begins in Berlin today, Tuesday 22 March. The 16 players, who also include Anish Giri, Maxime Vachier-Lagrave, Shakhriyar Mamedyarov and Wesley So, are battling it out for up to two places in the FIDE Candidates Tournament, though it's likely Richard Rapport, who has already played two events, will take one of the spots. Andrey Esipenko was a late replacement for Dmitry Andreikin.",
@@ -802,28 +818,12 @@ news_feed (
          "title" : "2022 Dubbo Open - 2-3 April 2022"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes takes viewers into the mind of professional chess player preparing for tournament play. 2022.03.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/young-jefferys-2019-world-cup-prepare-pro-wgm-thalia-cervantes-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oP-TREaaBnM.jpg?itok=Ki405n7d\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/young-jefferys-2019-world-cup-prepare-pro-wgm-thalia-cervantes-lichessorg",
-         "pubDate" : "Fri, 18 Mar 2022 00:06:45 +0000",
-         "title" : "Young Jeffery's 2019 World Cup | Prepare Like A Pro - WGM Thalia Cervantes | lichess.org"
-      },
-      {
          "description" : "The 2022 Bullet Chess Championship presented by DigitalOcean&#38;nbsp;reached its conclusion today with a series of edge-of-the-seat finals matches that resulted in GM Hikaru Nakamura being crowned the champion! Nakamura, undefeated across his matches...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-bullet-chess-championship-grand-finals-nakamura-wins",
          "pubDate" : "Thu, 17 Mar 2022 14:35:00 -0700",
          "title" : "Bullet Chess Championship: Nakamura Wins Title, Tang Runner-Up"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Georgiev takes viewers into the mind of professional chess player preparing for tournament play. 2022.03.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-gm-vladimir-georgiev-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oP-TREaaBnM.jpg?itok=Ki405n7d\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-vladimir-georgiev-lichessorg",
-         "pubDate" : "Thu, 17 Mar 2022 21:06:38 +0000",
-         "title" : "Prepare Like A Pro - GM Vladimir Georgiev | lichess.org"
       },
       {
          "description" : "",
@@ -2280,14 +2280,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-submits-guarantee-towards-bid-to-host-olympiad/articleshow/89941175.cms",
          "pubDate" : "Wed, 02 Mar 2022 12:37:36 +0530",
          "title" : "AICF submits guarantee towards bid to host Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89937905.cms\" /> Maharashtra's youngest Women Grand Master (WGM) Divya Deshmukh is all set to become Vidarbha's first senior national women chess champion.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-topples-top-seed-vaishali-set-to-become-senior-national-chess-champion/articleshow/89937905.cms",
-         "pubDate" : "Wed, 02 Mar 2022 10:21:33 +0530",
-         "title" : "Divya set to become senior national chess champion"
       }
    ]
 }
