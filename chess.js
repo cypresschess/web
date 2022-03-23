@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second round of the third and final leg of the 2022 FIDE Grand Prix&#38;nbsp;saw no decisive games. Each group continues to have a clear leader, with GMs Levon Aronian, Leinier Dominguez Perez, Alexandr Predke, and Nikita Vitiugov all leading thei...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-round-2",
+         "pubDate" : "Wed, 23 Mar 2022 15:37:32 -0700",
+         "title" : "FIDE Grand Prix Berlin Leg 3, R2: 8 Draws"
+      },
+      {
+         "description" : "The players from the FIDE Grand Prix in Berlin give their opinion on the case of Sergey Karjakin. In a series of interviews by Dina Belenkaya, they share their thoughts on the ban and the whole situation around the Karjakin case. More:&#xA0;International Chess Federation FIDE banned Sergey Karjakin&#xA0;/&#xA0;Karjakin decided not to appeal&#xA0;/&#xA0;Candidates Chess 2022 in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-prix-players-comment-on-the-situation-with-karjakin/",
+         "pubDate" : "Wed, 23 Mar 2022 22:29:09 +0000",
+         "title" : "Grand Prix players comment on the situation with Karjakin"
+      },
+      {
+         "description" : "Arena Kings returned on March 23 after a one-week hiatus as GM Jose Martinez came back from down 2-1 to defeat IM Renato Terry in an all-Peru final.&#38;nbsp;The semifinalists this week were&#38;nbsp;GM Sergey Zhigalko&#38;nbsp;and IM&#38;nbsp;Mahammad Muradli as...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martinez-wins-arena-kings-season-9-week-7",
+         "pubDate" : "Wed, 23 Mar 2022 14:48:13 -0700",
+         "title" : "Martinez Wins Arena Kings Season 9 Week 7"
+      },
+      {
+         "description" : "Magnus Carlsen and Liem Quang Le, the two form horses, both put in&#xA0;dominant performances&#xA0;today to storm&#xA0;into the semi-finals of the Charity Cup. Carlsen&#xA0;clinched a 2.5-0.5 victory over&#xA0;the young American hope Hans Niemann&#xA0;to go through to the next stage of the UNICEF fundraiser with a game to spare. More about Charity Cup:&#xA0;Charity Cup 2022 participants and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-vs-ding-and-liem-vs-duda-are-the-quarterfinals-of-the-charity-cup/",
+         "pubDate" : "Wed, 23 Mar 2022 21:15:46 +0000",
+         "title" : "Carlsen vs Ding and Liem vs Duda are the quarterfinals of the Charity Cup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> How did aspiring players become established Grandmasters? Explore their struggles, triumphs and unexpected twists on the path to the coveted Grandmaster Title. Taught by GM Denes Boros. 2022.03.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rise-rapport-how-become-grandmaster-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wV4gL0ti6fw.jpg?itok=yqadVP",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rise-rapport-how-become-grandmaster-gm-denes-boros-lichessorg",
+         "pubDate" : "Wed, 23 Mar 2022 21:10:56 +0000",
+         "title" : "The Rise of The Rapport | How To Become a Grandmaster - GM Denes Boros | lichess.org"
+      },
+      {
+         "description" : "In an interview with Dina Belenkaya, Anish Giri was politically correct on the case of Karjakin. &#8220;This is unprecedented situation [] Always in such decisions you have sides that say it is not harsh enough and sides that say it is too harsh. You have the full spectrum.&#8221; However, Giri was critical of FIDE's regulations []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-is-politically-correct-on-karjakins-case-criticizes-candidates-replacement-procedure/",
+         "pubDate" : "Wed, 23 Mar 2022 20:54:41 +0000",
+         "title" : "Anish Giri is politically correct on Karjakin's case, criticizes Candidates replacement procedure"
+      },
+      {
          "description" : " <p class=\"lead\">Round 2 of the third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with 8 draws. GMs Levon Aronian, Leinier Dominguez, Alexandr Predke, and Nikita Vitiugov are still leading their Groups with 1.5/2. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-16.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220323151435_IMG_4230.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220323151332_IMG_4227.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"http",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -72,14 +120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
          "pubDate" : "Wed, 23 Mar 2022 14:50:00 +0100",
          "title" : "FIDE Grand Prix - Live!"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/hBEQr-hF2Bk?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-round-2/",
-         "pubDate" : "Wed, 23 Mar 2022 13:25:43 +0000",
-         "title" : "FIDE Grand Prix in Berlin: Round 2"
       },
       {
          "description" : "Last week, the Canadian WIM spoke about the isolated pawn in depth. In this episode, she talks about the hanging pawns, which evenly often occur in similar openings. The dynamic is different, and Svitlana lets us play with both sides again, fighting with, and against the hanging pawns, trying to find the best moves.",
@@ -194,14 +234,6 @@ news_feed (
          "title" : "Christian Pulisic vs Magnus Carlsen"
       },
       {
-         "description" : "National Champion Arjun Erigaisi began the tournament campaign in style beating Manigandan S S. at the start of the 19th&#xA0;Delhi&#xA0;International Grandmasters Chess tournament 5-times Commonwealth Champion and defending&#xA0;champion of 2020, Grandmaster Abhijeet Gupta made a winning start at the expense of Women International Master Angela Franco Valencia of Colombia while fresh from his title triumph []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arjun-erigaise-starts-with-a-win-in-delhi-chess-open-2022/",
-         "pubDate" : "Wed, 23 Mar 2022 06:00:12 +0000",
-         "title" : "Arjun Erigaise starts with a win in Delhi Chess Open 2022"
-      },
-      {
          "description" : "In an exciting first round, the third leg of the Grand Prix series saw four players getting off to winning starts at Berlin's Unter den Linden. Levon Aronian and Leinier Dominguez got crucial wins against direct contenders Hikaru Nakamura and Daniil Dubov, while Nikita Vitiugov got the better of Amin Tabatabaei, the lowest-rated player in pool D. The most surprising result of the day was Alexandr Predke's win over Maxime Vachier-Lagrave. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -210,7 +242,7 @@ news_feed (
          "title" : "Berlin GP: Aronian and Dominguez score crucial wins"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at the first day of Group Stage play in the third tournament of the FIDE Grand Prix 2022. Find the event format at <a href=\"https://en.wikipedia.org/wiki/FIDE_Grand_Prix_2022\">https://en.wikipedia.org/wiki/FIDE_Grand_Prix_2022</a>. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grand-prix-3-berlin-race-candidates-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/pub",
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at Aronian vs. Nakamura from the first day of Group Stage play in the third tournament of the FIDE Grand Prix 2022. Find the event format at <a href=\"https://en.wikipedia.org/wiki/FIDE_Grand_Prix_2022\">https://en.wikipedia.org/wiki/FIDE_Grand_Prix_2022</a>. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grand-prix-3-berlin-race-candidates-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/style",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/grand-prix-3-berlin-race-candidates-road-2000-nm-caleb-denby",
@@ -218,7 +250,7 @@ news_feed (
          "title" : "Grand Prix #3 Berlin: Race to the Candidates! | Road to 2000 - NM Caleb Denby"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski begins his series on building a chess plan. 2022.03.22<br /> Alan Pichot vs. Robert Hungaski, 2022: C82 Ruy Lopez, open, Dilworth variation<br /> <a href=\"https://www.chess.com/az/events/2022-floripa-chess-open/06/Pichot_Alan-Hungaski_Robert\">https://www.chess.com/az/events/2022-floripa-chess-open/06/Pichot_Alan-H...</a><br /> Magnus Carlsen vs Hans Moke Niemann, Charity Cup (2022)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2257531\">https://www.chessgames.com/perl/chessgame?gid=2257531</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski begins his series on building a chess plan. Learn to identify what's important. Robert shows his game against Argentina's #2 at the 2022 Floripa Open. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/planning-ahead-chess-grandmasters-choice-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bhBs4WsCxM4.jpg?itok=16ZTUn-U\" alt=\"\" /></a></d",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/planning-ahead-chess-grandmasters-choice-gm-robert-hungaski",
@@ -250,14 +282,6 @@ news_feed (
          "title" : "Grand Prix #3 Berlin: Race to the Candidates! | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
-         "description" : "The International Chess Federation FIDE banned yesterday Sergey Karjakin from all its events. As Karjakin decided not to appeal, this means he will not be able to participate&#160;in&#160;Candidates Chess 2022. (See who can substitute Karjakin in the Candidates here). Karjakin attended a pro-Putin rally&#160;organised by Sima-Land, the corporate sponsors of the 2020 Candidates Tournament, with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/denis-khismatullin-supports-karjakin-on-and-off-the-board/",
-         "pubDate" : "Tue, 22 Mar 2022 23:46:00 +0000",
-         "title" : "Denis Khismatullin supports Karjakin on and off the board"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -280,14 +304,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/road-2000-nm-caleb-denby-lichensorg",
          "pubDate" : "Tue, 22 Mar 2022 21:10:16 +0000",
          "title" : "Road to 2000 - NM Caleb Denby | lichens.org"
-      },
-      {
-         "description" : "Levon Aronian was interviewed by Dina Belenkaya after round 1 of the FIDE Grand Prix in Berlin. He is one of the players who can qualify for the Candidates 2022 and has sharply increased his chances after defeating Hikaru Nakamura at the start of the event (replay Aronian Nakamura here). Aronian talked about the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/levon-aronian-about-the-candidates-2022-and-karjakin-case/",
-         "pubDate" : "Tue, 22 Mar 2022 21:06:54 +0000",
-         "title" : "Levon Aronian about the Candidates 2022 and Karjakin case"
       },
       {
          "description" : "",
@@ -936,14 +952,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/mar/18/chess-rapport-closes-in-on-candidates-as-six-year-old-steals-show-at-blackpool",
          "pubDate" : "Fri, 18 Mar 2022 08:00:53 +0000",
          "title" : "Chess: Rapport closes in on Candidates as six-year-old steals show at Blackpool"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes looks at Jeffery Xiong&#039;s game against Igor Lysyj from the first round of the 2019 Chess World Cup, the largest knockout tournament in the game. Xiong made it all the way to the quarterfinals. 2022.03.17<br /> Igor Lysyj vs Jeffery Xiong, World Cup (2019): D26 Queen&#039;s Gambit Accepted, classical variation, 6.O-O<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1972007\">https://www.chessgames.com/perl/chessgame?gid=1972007</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-vid",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/young-jefferys-2019-world-cup-prepare-pro-wgm-thalia-cervantes",
-         "pubDate" : "Fri, 18 Mar 2022 03:06:38 +0000",
-         "title" : "Young Jeffery's 2019 World Cup | Prepare Like A Pro - WGM Thalia Cervantes"
       },
       {
          "description" : " After a break of 2 years the Dubbo Open is back on. It will run on the weekend of the 2nd and 3rd of April, at the usual venue of the Dubbo RSL Club. This is the 20th anniversary of the tournament, and already a sizeable filed has entered. You can enter at the venue from 930 am on Saturday. 1st prize is guaranteed at $800, with other prizes dependant upon entries. Entry is $50 for adults, $35 for concessions, and $25 for juniors. The event is 6 rounds, with a time limit 60m+10s. There is also a tournament dinner and blitz event on the Saturday evening. The current tournament entries are <a href=\"http://tournaments.streetchess.net/dubbo2022/www2022DubboOpen/\">here</a>, and I am the Director ",
@@ -1682,6 +1690,14 @@ news_feed (
          "title" : "A Foundation for Beginners Fifty Four"
       },
       {
+         "description" : " <p class=\"lead\">The semifinals of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 in Belgrade</a> brought Anish Giri and Dmitry Andreikin in the tiebreaks. Andreikin managed to win the rapid tiebreaks with a 1.5-0.5 score and will face Rapport in the finals tomorrow. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51930381721_7fb1d50df7_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: Mark Livshitz / FIDE</div> </div> The semifinal tiebreaks between Dmitry Andreikin and Anish Giri started with a peaceful first game and a draw by repetition. The second game was in Giri's favor until a miscalculation by th",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/andreikin-is-the-second-finalist-of-the-fide-grand-prix-2022-in/",
+         "pubDate" : "Fri, 11 Mar 2022 15:35:05 +0000",
+         "title" : "Andreikin is the second finalist of the FIDE Grand Prix 2022 in Belgrade"
+      },
+      {
          "description" : " The concept of 'pay to win' games has always offended me. If you are not familiar with the concept, it is essentially allowing you to pay extra money to a free game, to receive benefits that other players do not get. It is a business model for some games, which while profitable, can annoy an existing user base. More so if the game starts out as 'free forever' before it isn't. In the past I played a few games like this, but as soon as they became 'p2w' I lost interest. But having said that, I do wonder what 'p2w' chess might look like. eg Buying takebacks, Rejecting your opponents first choice, two moves in a row, castling after moving your king Some of these are probably too drastic (Playin",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1842,28 +1858,12 @@ news_feed (
          "title" : "Belgrade GP: A big step forward for Rapport"
       },
       {
-         "description" : "The 2022 Bullet Chess Championship presented by DigitalOcean&#38;nbsp;resumed today with a blockbuster lineup of matches that featured the world&#39;s number one bullet chess player GM&#38;nbsp;Hikaru Nakamura as well as a masterclass from &#34;The Prophet,&#34; GM&#38;n...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bullet-chess-championship-quarterfinals-naroditsky-masterclass-sets-up-showdown-with-nakamura",
-         "pubDate" : "Wed, 09 Mar 2022 15:01:00 -0800",
-         "title" : "Bullet Chess Championship Quarterfinals: Naroditsky Masterclass Sets Up Showdown With Nakamura"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1624",
          "pubDate" : "Wed, 09 Mar 2022 22:40:29 +0000",
          "title" : "FIDE and Chess24 hold a fundraising marathon for Ukraine on Women's Day"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won the sixth week of Arena Kings on Wednesday, just moments before beginning a quarterfinal match in the Bullet Chess Championship. He defeated GM Oleksandr Bortnyk in the Arena Kings final.&#38;nbsp; This week&#39;s semifinalists we...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-arena-kings-season-9-week-6",
-         "pubDate" : "Wed, 09 Mar 2022 14:38:40 -0800",
-         "title" : "Nakamura Reclaims Arena Kings Season 9 Throne In Week 6"
       },
       {
          "description" : "",
@@ -2256,22 +2256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1611",
          "pubDate" : "Wed, 02 Mar 2022 23:55:19 +0000",
          "title" : "FIDE Grand Prix Belgrade: Round 2 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1609",
-         "pubDate" : "Wed, 02 Mar 2022 20:38:20 +0000",
-         "title" : "FIDE Grand Swiss & Women's Grand Swiss 2023 - Call for bids"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1603",
-         "pubDate" : "Wed, 02 Mar 2022 19:40:52 +0000",
-         "title" : "The Official Statement of FIDE Council"
       }
    ]
 }
