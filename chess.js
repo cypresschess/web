@@ -1986,14 +1986,6 @@ news_feed (
          "title" : "Master Chess Web Show (4)"
       },
       {
-         "description" : "On 5 March 2022 Dr. Siegbert Tarrasch would have celebrated his 160th birthday. Throughout his life Tarrasch, who was a medical practitioner by profession, remained an amateur, but at his prime he was one of the world's best players, if not the best. Tarrasch was also a prolific and popular writer whose books have influenced countless players. Eugene Manlapao takes a look at the career of this great player and teacher.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/siegbert-tarrasch-player-thinker-and-teacher-extraordinaire-march-5-1862-february-17-1934",
-         "pubDate" : "Wed, 09 Mar 2022 13:30:15 +0100",
-         "title" : "Siegbert Tarrasch: Player, Thinker, and Teacher Extraordinaire (5 March 1862- 17 February 1934)"
-      },
-      {
          "description" : "CLICK HERE FOR LIVE GAMES",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2232,14 +2224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1613",
          "pubDate" : "Thu, 03 Mar 2022 23:26:52 +0000",
          "title" : "FIDE Grand Prix Belgrade: Round 3 Recap"
-      },
-      {
-         "description" : " India plans to replace Moscow as host of the 150-nation event, next month's World Teams is postponed, and the former world title challenger faces a Fide disciplinary hearing International chess has moved swiftly to adjust to Russia's war against Ukraine. Major events have switched venues or been postponed, Russian sponsors have been removed, while a former world title challenger has been shunned for his pro-invasion stance, with further penalties possible. India is the strongly favoured candidate to host the 150-nation Olympiad, the game's flagship team event, after Moscow was stripped of the competition last week by Fide, the global chess body. The Indian chess scene is vibrant with talent",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/mar/03/chess-india-makes-olympiad-bid-while-sergey-karjakin-shunned-after-invasion",
-         "pubDate" : "Thu, 03 Mar 2022 18:52:26 +0000",
-         "title" : "Chess: India makes Olympiad bid while Sergey Karjakin shunned after invasion"
       }
    ]
 }
