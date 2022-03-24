@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Polish star Jan-Krzysztof Duda&#xA0;reached his first&#xA0;Meltwater Champions Chess Tour&#xA0;final today with a gritty win over the in-form Liem Quang Le. The 23-year-old World Cup winner&#xA0;will face World Champion Magnus Carlsen in the Charity Cup finale after the overall Tour leader dispatched Ding Liren, of China. Duda has built a reputation&#xA0;as Carlsen's&#xA0;&#8220;nemesis&#8221; having ended the&#xA0;world No.1's []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-jan-krzysztof-duda-is-the-charity-cup-2022-final/",
+         "pubDate" : "Thu, 24 Mar 2022 22:06:12 +0000",
+         "title" : "Magnus Carlsen - Jan-Krzysztof Duda is the Charity Cup 2022 final"
+      },
+      {
          "description" : "This week Robert Ris takes has a close look at a new idea in the Italian in which White sacrifices a pawn, castles queenside and throws all his pieces at the black king. This concept worked out fantastically for White in the game Van Foreest-Navara that was played recently in the Charity Cup. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -352,14 +360,6 @@ news_feed (
          "link" : "https://www.chessdom.com/grischuk-comments-on-the-ban-of-karjakin/",
          "pubDate" : "Wed, 23 Mar 2022 06:52:04 +0000",
          "title" : "Grischuk comments on the ban of Karjakin"
-      },
-      {
-         "description" : "Hikaru Nakamura analyses his game with Levon Aronian from round 1 from the FIDE Grand Prix in Berlin 2022 and comments on his ban in Twitch. Berlin Round 1:&#xA0;Vitiugov &#x2013; Tabatabaei&#xA0;/&#xA0;Anish Giri &#x2013; Yu Yangyi&#xA0;/&#xA0;Sam Shankland &#x2013; Wesley So&#xA0;/&#xA0;Predke &#x2013; Vachier-Lagrave&#xA0;/&#xA0;Dubov &#x2013; Dominguez&#xA0;/&#xA0;Vincent Keymer &#x2013; Mamedyarov&#xA0;/&#xA0;Esipenko &#x2013; Oparin&#xA0;/&#xA0;Aronian &#x2013; Nakamura&#xA0;Next:&#xA0;America Chess Cup 2022",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-banned-on-twitch/",
-         "pubDate" : "Wed, 23 Mar 2022 06:30:24 +0000",
-         "title" : "Hikaru Nakamura banned on Twitch"
       },
       {
          "description" : "In an exciting first round, the third leg of the Grand Prix series saw four players getting off to winning starts at Berlin's Unter den Linden. Levon Aronian and Leinier Dominguez got crucial wins against direct contenders Hikaru Nakamura and Daniil Dubov, while Nikita Vitiugov got the better of Amin Tabatabaei, the lowest-rated player in pool D. The most surprising result of the day was Alexandr Predke's win over Maxime Vachier-Lagrave. | Photos: World Chess",
@@ -2216,14 +2216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1614",
          "pubDate" : "Fri, 04 Mar 2022 00:42:13 +0000",
          "title" : "Indian Championships: Erigaisi and Deshmukh clinch titles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1613",
-         "pubDate" : "Thu, 03 Mar 2022 23:26:52 +0000",
-         "title" : "FIDE Grand Prix Belgrade: Round 3 Recap"
       }
    ]
 }
