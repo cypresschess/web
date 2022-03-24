@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice, based on the teachings of Parimarjan Negi and his book. BUY THE BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1e4-vs-philidor-part-1-chess-and-psychology",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/1e4-vs-philidor-part-1-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 24 Mar 2022 03:11:00 +0000",
+         "title" : "1.e4 vs The Philidor: Part 1 | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : " <p class=\"lead\">It was a peaceful, but by no means uneventful day at FIDE Grand Prix Berlin although all eight games in Round 2 were drawn. \"Let's talk about how dramatically the situation changed in every group after today's round\" joked the tournament commentator GM Evgeny Miroshnichenko and certainly, the standings have not changed at all as we have the same leaders as after Round 1 in each pool, namely Levon Aronian, Leinier Dominguez, Alexandr Predke, and Nikita Vitiugov. Round 2 results still don't tell the entire story, as, despite peaceful outcomes, the games were hard-fought and enthralling. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1647",
          "pubDate" : "Sun, 20 Mar 2022 18:13:40 +0000",
          "title" : "FFE acquires \"delegation\" status in France"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> WGM Katerina Nemcova forces viewers to bend their minds when solving several 2- or 3-move checkmate compositions in Double Exclam!! Originally on Twitch<br /> 2022.02.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/checkmate-compositions-double-exclam-wgm-katerina-nemcova\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9GmmG1xix_o.jpg?itok=BoUSPZKC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/checkmate-compositions-double-exclam-wgm-katerina-nemcova",
-         "pubDate" : "Sun, 20 Mar 2022 18:08:33 +0000",
-         "title" : "Checkmate Compositions | Double Exclam!! - WGM Katerina Nemcova"
       },
       {
          "description" : "Jon Speelman worked as commentator at this year's edition of the long-standing Varsity Match between Oxford and Cambridge Universities. Looking at the games alongside computer-chess expert Matthew Sadler prompted him to reflect on the value of using engines for chess improvement and preparation. | Pictured: The Oxford team - Victor Vasiesiu, Tom O'Gorman, Daniel Karim Abbas, Daniel Sutton, 0Dominic Miller, Filip Mihov, AkShaya Kalaiyalahan, Max French. | Photo: John Saunders",
