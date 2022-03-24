@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">It was a peaceful, but by no means uneventful day at FIDE Grand Prix Berlin although all eight games in Round 2 were drawn. \"Let's talk about how dramatically the situation changed in every group after today's round\" joked the tournament commentator GM Evgeny Miroshnichenko and certainly, the standings have not changed at all as we have the same leaders as after Round 1 in each pool, namely Levon Aronian, Leinier Dominguez, Alexandr Predke, and Nikita Vitiugov. Round 2 results still don't tell the entire story, as, despite peaceful outcomes, the games were hard-fought and enthralling. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-berlin-round-2-recap/",
+         "pubDate" : "Thu, 24 Mar 2022 00:13:38 +0000",
+         "title" : "FIDE Grand Prix Berlin - Round 2 Recap"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2022.03.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/negi-finally-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YC3jVnRHelw.jpg?itok=RianHILr\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/negi-finally-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Thu, 24 Mar 2022 00:11:00 +0000",
+         "title" : "Negi! Finally! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros begins his new series which profiles a specific grandmaster's rise to the title. First, it's Boros's countryman, Richard Rapport. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rise-rapport-how-become-grandmaster-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wV4gL0ti6fw.jpg?itok=yqadVPML\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rise-rapport-how-become-grandmaster-gm-denes-boros",
+         "pubDate" : "Thu, 24 Mar 2022 00:11:00 +0000",
+         "title" : "The Rise of The Rapport | How To Become a Grandmaster - GM Denes Boros"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1656",
+         "pubDate" : "Wed, 23 Mar 2022 23:14:37 +0000",
+         "title" : "FIDE Grand Prix Berlin - Round 2 Recap"
+      },
+      {
          "description" : "The second round of the third and final leg of the 2022 FIDE Grand Prix&#38;nbsp;saw no decisive games. Each group continues to have a clear leader, with GMs Levon Aronian, Leinier Dominguez Perez, Alexandr Predke, and Nikita Vitiugov all leading thei...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-round-2",
-         "pubDate" : "Wed, 23 Mar 2022 15:37:32 -0700",
-         "title" : "FIDE Grand Prix Berlin Leg 3, R2: 8 Draws"
+         "pubDate" : "Wed, 23 Mar 2022 15:37:00 -0700",
+         "title" : "2022 FIDE Grand Prix Berlin Leg 3, R2: 8 Draws"
       },
       {
          "description" : "The players from the FIDE Grand Prix in Berlin give their opinion on the case of Sergey Karjakin. In a series of interviews by Dina Belenkaya, they share their thoughts on the ban and the whole situation around the Karjakin case. More:&#xA0;International Chess Federation FIDE banned Sergey Karjakin&#xA0;/&#xA0;Karjakin decided not to appeal&#xA0;/&#xA0;Candidates Chess 2022 in []",
@@ -263,7 +295,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-round-1",
          "pubDate" : "Tue, 22 Mar 2022 18:03:00 -0700",
-         "title" : "FIDE Grand Prix Berlin Leg 3, R1: 4 Wins, Fighting Chess"
+         "title" : "2022 FIDE Grand Prix Berlin Leg 3, R1: 4 Wins, Fighting Chess"
       },
       {
          "description" : " <p class=\"lead\">The third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE World Chess Grand Prix</a> started with four decisive games and four games ended in a draw. The 16 players are split into four pools with four participants each and day 1 saw one draw and one win in each pool. Levon Aronian, Leinier Dominguez, Alexandr Predke and Nikita Vitiugov left the playing hall with a full point. There will be six rounds in total in the group stage and the winner of each pool progresses to the knockout semi-final, and the two winners meet in the final. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://world",
@@ -778,14 +810,6 @@ news_feed (
          "title" : "Logical Chess (2)"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illya Nyzhnyk reveals how he handles the difficult decision when presented with two equally good moves. Originally live on Twitch<br /> 2022.02.07<br /> Titas Stremavicius vs. Illya Nyzhnyk, 2020<br /> Ray Robson vs Illya Nyzhnyk, Spring Chess Classic (A) (2019)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1946987\">https://www.chessgames.com/perl/chessgame?gid=1946987</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/judgment-call-lege",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/judgment-call-legends-saint-louis-gm-illya-nyzhnyk",
-         "pubDate" : "Sat, 19 Mar 2022 18:07:32 +0000",
-         "title" : "Judgment Call | Legends in Saint Louis - GM Illya Nyzhnyk"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -856,14 +880,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-five/",
          "pubDate" : "Fri, 18 Mar 2022 18:48:01 +0000",
          "title" : "A Foundation for Beginners Fifty Five"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering discusses how to evaluate a given chess position. Learn about counting material, when material value changes, piece activity, and more. The mysterious masked Alex gives real examples. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/surveying-scene-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9UV35OLO6yE.jpg?itok=bioNolmr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/surveying-scene-beginner-breakdown",
-         "pubDate" : "Fri, 18 Mar 2022 18:07:08 +0000",
-         "title" : "Surveying the Scene | Beginner Breakdown"
       },
       {
          "description" : "In Daniel King's Power Play Show the London System is under investigation - Daniel examines White's options in the opening and wonders whether it is possible to get the advantage. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -1690,14 +1706,6 @@ news_feed (
          "title" : "A Foundation for Beginners Fifty Four"
       },
       {
-         "description" : " <p class=\"lead\">The semifinals of the <a href=\"https://chessarena.com/broadcasts/13605\">FIDE Grand Prix 2022 in Belgrade</a> brought Anish Giri and Dmitry Andreikin in the tiebreaks. Andreikin managed to win the rapid tiebreaks with a 1.5-0.5 score and will face Rapport in the finals tomorrow. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51930381721_7fb1d50df7_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: Mark Livshitz / FIDE</div> </div> The semifinal tiebreaks between Dmitry Andreikin and Anish Giri started with a peaceful first game and a draw by repetition. The second game was in Giri's favor until a miscalculation by th",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/andreikin-is-the-second-finalist-of-the-fide-grand-prix-2022-in/",
-         "pubDate" : "Fri, 11 Mar 2022 15:35:05 +0000",
-         "title" : "Andreikin is the second finalist of the FIDE Grand Prix 2022 in Belgrade"
-      },
-      {
          "description" : " The concept of 'pay to win' games has always offended me. If you are not familiar with the concept, it is essentially allowing you to pay extra money to a free game, to receive benefits that other players do not get. It is a business model for some games, which while profitable, can annoy an existing user base. More so if the game starts out as 'free forever' before it isn't. In the past I played a few games like this, but as soon as they became 'p2w' I lost interest. But having said that, I do wonder what 'p2w' chess might look like. eg Buying takebacks, Rejecting your opponents first choice, two moves in a row, castling after moving your king Some of these are probably too drastic (Playin",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2232,30 +2240,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-first-teen-after-koneru-humpy-to-emerge-senior-national-chess-champion/articleshow/89960546.cms",
          "pubDate" : "Thu, 03 Mar 2022 09:56:36 +0530",
          "title" : "Divya first teen after Humpy to emerge senior national chess champ"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1610",
-         "pubDate" : "Thu, 03 Mar 2022 00:35:21 +0000",
-         "title" : "FIDE Chess Olympiad 2026 - Call for bids"
-      },
-      {
-         "description" : " From the publishers blurb: &#8220;Vasily Smyslov, the seventh world champion, had a long and illustrious chess career. He played close to 3,000 tournament games over seven decades, from the time of Lasker and Capablanca to the days of Anand and Carlsen. From 1948 to 1958, Smyslov participated in four world championships, becoming world champion in <a href=\"http://britishchessnews.com/2022/03/03/the-life-and-games-of-vasily-smyslov-volume-i-the-early-years-1921-1948/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Life and Games of Vasily Smyslov Volume I: The Early Years 1921-1948</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/03/03/the-life-and-games-of-vasily-smyslov-volume-i-the-early-years-1921-1948/",
-         "pubDate" : "Thu, 03 Mar 2022 00:10:13 +0000",
-         "title" : "The Life and Games of Vasily Smyslov Volume I: The Early Years 1921-1948"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1611",
-         "pubDate" : "Wed, 02 Mar 2022 23:55:19 +0000",
-         "title" : "FIDE Grand Prix Belgrade: Round 2 Recap"
       }
    ]
 }
