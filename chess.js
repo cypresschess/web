@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #508, Merijn van Delft looks at two impressive games Le Quang Liem played at the Charity Cup - in both games Le demonstrated Black's attacking potential in the Italian. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-508-le-quang-liem-beats-the-italian",
+         "pubDate" : "Thu, 24 Mar 2022 16:00:00 +0100",
+         "title" : "Game of the Week #508: Le Quang Liem beats the Italian"
+      },
+      {
+         "description" : "George Henry McKenzie led an interesting life and was one the strongest players of the 19th century but today he is almost forgotten. Born in Scotland and a soldier by profession, McKenzie lived in Germany, France, South Africa and India until he finally settled in the US. On the occasion of McKenzie's 185th birthday Eugene Manlapao takes a look at the life and at the chess career of this American Master.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/george-henry-mackenzie-the-forgotten-american-chess-ace-march-24-1837-april-14-1891",
+         "pubDate" : "Thu, 24 Mar 2022 15:33:23 +0100",
+         "title" : "George Henry Mackenzie: The Forgotten American Chess Ace (March 24, 1837-April 14, 1891)"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
+         "pubDate" : "Thu, 24 Mar 2022 14:50:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/RBf8aIeN660?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-pools-round-3/",
+         "pubDate" : "Thu, 24 Mar 2022 13:22:26 +0000",
+         "title" : "FIDE Grand Prix in Berlin: Pools Round 3"
+      },
+      {
+         "description" : " While picking up the latest Humble Bundle (Stand with Ukraine), I came across a curious game called Pawnbarian. It is a mixture of chess, deck building, and dungeon crawler, all packed into one. In the game, you are the Pawnbarian, he is called upon to defeat a host of enemies (goblins, monsters etc). You play cards to move your piece on the 5x5 board, either trying to attack the monsters, or run away from them. The cards initially match existing chess pieces (and their moves), but as you progress, you can but more cards to add to your deck (which often have additional effects). As you progress through the dungeon the monsters become harder to beat, and you have to do a bit of preplanning o",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/pawnbarian.html",
+         "pubDate" : "Thu, 24 Mar 2022 11:35:00 +0000",
+         "title" : "Pawnbarian"
+      },
+      {
          "description" : "World Chess Champion Magnus Carlsen will take on world no. 3 Ding Liren in the semi-finals of the Charity Cup after a day on which the favourites all made it through their matches without the need for tiebreaks. Magnus (vs Hans Niemann) and Ding (vs. Jorden van Foreest) both won with a game to spare, as did Jan-Krzysztof Duda against David Anton. David Navara managed to hit back after losing the first game against Liem Quang Le, but the Vietnamese star won the third game and cruised through in the last.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -14,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-charity-cup-day-quarterfinals",
-         "pubDate" : "Thu, 24 Mar 2022 02:41:12 -0700",
+         "pubDate" : "Thu, 24 Mar 2022 02:41:00 -0700",
          "title" : "Charity Cup Day 5: Carlsen-Ding, Le-Duda In Semifinals"
       },
       {
@@ -1706,14 +1746,6 @@ news_feed (
          "title" : "Collegiate Chess League Season 4 Round 4"
       },
       {
-         "description" : " <p class=\"lead\">With 1.5 vs 0.5, Dmitry Andreikin has defeated Anish Giri in the tiebreak match to reach the final of the Belgrade Grand Prix <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-11_18-09-41.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-11_18-09-38.jpg\" width=\"800\" height=\"534\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-11_18-09-35.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-11_18-09-32.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <i",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/dmitry-andreikin-to-play-richard-rapport-in-the-final-of-the-bel/",
-         "pubDate" : "Fri, 11 Mar 2022 17:30:56 +0000",
-         "title" : "Andreikin to Play Rapport In the Final of the Belgrade Grand Prix"
-      },
-      {
          "description" : " One of my students, who read through my last piece here at the Chess Improver, mentioned that I had not brought up a teaching method I used for calculation training. Chess comes down to thinking ahead and having the ability to do so! All the strategic and tactical skills in the world won't help you <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-four/\">A Foundation for Beginners Fifty Four</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1970,14 +2002,6 @@ news_feed (
          "title" : "Congratulations to Pranesh M & Tanisha"
       },
       {
-         "description" : "Today is International Women's Day, also in chess. The first strong female chess champion was Vera Menchik. Jos&eacute; Raul Capablanca, who died 80 years ago today, on 8 March 1942, was one of many strong players who respected her. Vera Menchik died 26 June 1944 during a German V-1 flying bomb attack on London during World War II. Now it's war again. \"Love is more important than victory\", says musician Jason Kouchak and is currently writing a musical about Vera Menchik.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/thoughts-on-international-women-s-day-remembering-vera-menchik",
-         "pubDate" : "Tue, 08 Mar 2022 18:00:00 +0100",
-         "title" : "Thoughts on International Women's Day: Remembering Vera Menchik"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1992,22 +2016,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/there-is-still-room-for-improvement-in-praggnanandhaas-game-says-coach-ramesh/articleshow/90083267.cms",
          "pubDate" : "Tue, 08 Mar 2022 21:03:51 +0530",
          "title" : "There is still room for improvement in Praggnanandhaa's game, says coach Ramesh"
-      },
-      {
-         "description" : "All pools at the preliminaries of the FIDE Grand Prix in Belgrade had a clear winner after Monday's sixth and final round. Dmitry Andreikin, Anish Giri, Richard Rapport and Maxime Vachier-Lagrave moved on to the semifinals, and will get a rest day before the knockout stage, as no tiebreaks were needed in the qualifiers. | Photos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-r6",
-         "pubDate" : "Tue, 08 Mar 2022 16:20:00 +0100",
-         "title" : "Belgrade GP: Andreikin wins rollercoaster game to reach knockout"
-      },
-      {
-         "description" : "ChessBase Magazine #206 once again offers a wealth of ideas and recommendations for your repertoire. Besides the three opening videos by Jan Werle, Daniel King and Mihail Marin as well as Rainer Knaak's collection of \"Topical opening traps\", the new issue contains eleven opening articles covering a broad spectrum: Reti, Caro-Kann, Sicilian Nimzowitsch and Taimanov Variation, Petroff, Ruy Lopez, London System, Slav, Gruenfeld and King's Indian - everywhere there are exciting ideas to get to know. In his article Evgeny Postny examines the queen sortie 5...Qb6 in the London System. In the highly topical variation, White sacrifices a pawn after 6.dxc5 Qxb2 7.Rb1 Qc3 8.Bb5. So it's straight to th",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-queen-sortie",
-         "pubDate" : "Tue, 08 Mar 2022 16:00:00 +0100",
-         "title" : "London queen sortie"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/724979b0-5ccb-4e03-812c-81df0296a302/Jen2.jpg\" data-image-dimensions=\"511x259\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6227664e4501d34983a22d8a\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/724979b0-5ccb-4e03-812c-81df0296a302/Jen2.jpg?format=1000w\" /> </figure> <p class=\"\">My guest today is Jen Shahade. Jen, is a champion chess and poker player, an author, an award winning podcaster and the Woman's Program Director at US Chess. It was the perfect time ",
@@ -2224,22 +2232,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/mar/03/chess-india-makes-olympiad-bid-while-sergey-karjakin-shunned-after-invasion",
          "pubDate" : "Thu, 03 Mar 2022 18:52:26 +0000",
          "title" : "Chess: India makes Olympiad bid while Sergey Karjakin shunned after invasion"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1612",
-         "pubDate" : "Thu, 03 Mar 2022 12:50:43 +0000",
-         "title" : "FIDE-ISF World School Online Chess Cup 2022 postponed"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89972050.cms\" />Grandmaster Arjun Erigaisi of Telangana won the 58th edition of Senior National Chess Championship here on Thursday, edging out fellow GMs of Tamil Nadu D Gukesh and P Iniyan in a tie-breaker after the trio finished on 8.5 points each. Gukesh had to settle for a draw against Aryan Chopra while Iniyan moved up to 8.5 points with a fine win over fellow GM Mitrabha Guha of West Bengal.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/erigaisi-is-new-national-chess-champion-gukesh-iniyan-lose-out-in-tie-break/articleshow/89972050.cms",
-         "pubDate" : "Thu, 03 Mar 2022 17:50:00 +0530",
-         "title" : "Erigaisi is new national chess champion; Gukesh, Iniyan lose out in tie-break"
       }
    ]
 }
