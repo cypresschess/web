@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week Robert Ris takes has a close look at a new idea in the Italian in which White sacrifices a pawn, castles queenside and throws all his pieces at the black king. This concept worked out fantastically for White in the game Van Foreest-Navara that was played recently in the Charity Cup. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-castling-queenside-in-the-italian",
+         "pubDate" : "Thu, 24 Mar 2022 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Castling queenside in the Italian"
+      },
+      {
+         "description" : "The second event of the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Magnus Carlsen, Ding Liren and Richard Rapport head the 16-player field. The tournament is taking place on March 19-26, with the action kicking off daily at 18.00 CET (13.00 ET, 17.00 UTC, 22.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
+         "pubDate" : "Thu, 24 Mar 2022 17:50:00 +0100",
+         "title" : "Charity Cup SF - Live!"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #508, Merijn van Delft looks at two impressive games Le Quang Liem played at the Charity Cup - in both games Le demonstrated Black's attacking potential in the Italian. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/pawnbarian.html",
          "pubDate" : "Thu, 24 Mar 2022 11:35:00 +0000",
          "title" : "Pawnbarian"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1649",
+         "pubDate" : "Thu, 24 Mar 2022 11:15:40 +0000",
+         "title" : "Fourth Chess in Education Lecturer course announced"
       },
       {
          "description" : "World Chess Champion Magnus Carlsen will take on world no. 3 Ding Liren in the semi-finals of the Charity Cup after a day on which the favourites all made it through their matches without the need for tiebreaks. Magnus (vs Hans Niemann) and Ding (vs. Jorden van Foreest) both won with a game to spare, as did Jan-Krzysztof Duda against David Anton. David Navara managed to hit back after losing the first game against Liem Quang Le, but the Vietnamese star won the third game and cruised through in the last.",
@@ -90,7 +114,7 @@ news_feed (
          "title" : "Berlin GP: Eight draws, players share their opinion on Karjakin's ban"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice, based on the teachings of Parimarjan Negi and his book. BUY THE BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1e4-vs-philidor-part-1-chess-and-psychology",
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani takes on the Philidor Defense, based on the teachings of Parimarjan Negi and his book. BUY NEGI'S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1e4-vs-philidor-part-1-chess-and-psychology-im-dorsa-dera",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/1e4-vs-philidor-part-1-chess-and-psychology-im-dorsa-derakhshani",
@@ -1970,28 +1994,12 @@ news_feed (
          "title" : "Siegbert Tarrasch: Player, Thinker, and Teacher Extraordinaire (5 March 1862- 17 February 1934)"
       },
       {
-         "description" : "In his \"Weekly Show\" Lawrence Trent talks a bit about the Grand Prix in Belgrade, but the focus of the show is game 1 of the Sweden-England Challenge match between Nils Grandelius and David Howell. In the first game, Nils missed a number of great opportunities to win in a funky sideline of the Berlin but David defended resolutely and the game ended in a draw. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-david-howell-vs-nils-grandelius",
-         "pubDate" : "Wed, 09 Mar 2022 09:30:34 +0100",
-         "title" : "The Weekly Show: David Howell vs Nils Grandelius"
-      },
-      {
          "description" : "CLICK HERE FOR LIVE GAMES",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/live-games-mpl-50th-national-junior-under-20-35th-national-junior-girls-under-20-chess-championships-2022/",
          "pubDate" : "Wed, 09 Mar 2022 06:45:59 +0000",
          "title" : "LIVE GAMES : MPL 50TH NATIONAL JUNIOR (UNDER-20) & 35TH NATIONAL JUNIOR GIRLS (UNDER-20) CHESS CHAMPIONSHIPS-2022"
-      },
-      {
-         "description" : "In light of the ongoing war in Ukraine, and under the roof of the Year of the Woman in Chess, the FIDE Commission for Women's Chess established a fundraiser for Ukrainian chess players and their families affected now by war. Also, the FIDE Women's Commission, in partnership with Chess24, has prepared a series of events on the Women's Day to support Ukrainian chess players and their families.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-for-ukraine-fundraising-events",
-         "pubDate" : "Tue, 08 Mar 2022 19:45:00 +0100",
-         "title" : "Chess for Ukraine: FIDE announces series of fundraising events on Women's Day"
       },
       {
          "description" : "Second seed Pranesh M of Tamil Nadu and eighth seed Tania Boramanikar of Maharashtra becomes national sub-junior champions in the MPL National Sub-Junior &#38; National",
