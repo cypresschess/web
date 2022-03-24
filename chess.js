@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All eight games played on Wednesday at the FIDE Grand Prix in Berlin finished drawn, which means Levon Aronian, Leinier Dominguez, Alexandr Predke and Nikita Vitiugov continue to lead their respective pools. After the round was over, Dina Belenkaya asked the players to share their opinion on FIDE's decision to ban Sergey Karjakin from competitive chess for six months. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r2",
+         "pubDate" : "Thu, 24 Mar 2022 05:45:00 +0100",
+         "title" : "Berlin GP: Eight draws, players share their opinion on Karjakin's ban"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice, based on the teachings of Parimarjan Negi and his book. BUY THE BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1e4-vs-philidor-part-1-chess-and-psychology",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -152,14 +160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1655",
          "pubDate" : "Wed, 23 Mar 2022 14:09:29 +0000",
          "title" : "FIDE Council meeting: List of decisions"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
-         "pubDate" : "Wed, 23 Mar 2022 14:50:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
       },
       {
          "description" : "Last week, the Canadian WIM spoke about the isolated pawn in depth. In this episode, she talks about the hanging pawns, which evenly often occur in similar openings. The dynamic is different, and Svitlana lets us play with both sides again, fighting with, and against the hanging pawns, trying to find the best moves.",
@@ -2232,14 +2232,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/erigaisi-is-new-national-chess-champion-gukesh-iniyan-lose-out-in-tie-break/articleshow/89972050.cms",
          "pubDate" : "Thu, 03 Mar 2022 17:50:00 +0530",
          "title" : "Erigaisi is new national chess champion; Gukesh, Iniyan lose out in tie-break"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/89960546.cms\" />Much like the Khadilkar sisters' dominance from 1974-83 and a 16-year-old Humpy's achievement in 2003, Divya did the unthinkable at the 47th National Women's Chess Championship in Bhubaneshwar on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-first-teen-after-koneru-humpy-to-emerge-senior-national-chess-champion/articleshow/89960546.cms",
-         "pubDate" : "Thu, 03 Mar 2022 09:56:36 +0530",
-         "title" : "Divya first teen after Humpy to emerge senior national chess champ"
       }
    ]
 }
