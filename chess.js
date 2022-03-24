@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Chess Champion Magnus Carlsen will take on world no. 3 Ding Liren in the semi-finals of the Charity Cup after a day on which the favourites all made it through their matches without the need for tiebreaks. Magnus (vs Hans Niemann) and Ding (vs. Jorden van Foreest) both won with a game to spare, as did Jan-Krzysztof Duda against David Anton. David Navara managed to hit back after losing the first game against Liem Quang Le, but the Vietnamese star won the third game and cruised through in the last.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/charity-cup-qf-it-s-carlsen-ding-in-the-semis",
+         "pubDate" : "Thu, 24 Mar 2022 10:56:14 +0000",
+         "title" : "Charity Cup QF: It's Carlsen-Ding in the semis"
+      },
+      {
+         "description" : "The semifinals of the 2022 Charity Cup will see the matches GM Magnus Carlsen vs. GM Ding Liren and GM Le Quang Liem&#38;nbsp;vs. GM Jan-Krzysztof Duda. These four players eliminated GMs&#38;nbsp;Hans Niemann, Jorden van Foreest, David Navara, and David A...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-charity-cup-day-quarterfinals",
+         "pubDate" : "Thu, 24 Mar 2022 02:41:12 -0700",
+         "title" : "Charity Cup Day 5: Carlsen-Ding, Le-Duda In Semifinals"
+      },
+      {
+         "description" : "Chinese Chess Association will start a series of qualifing tournaments for the 19th Asian Games at end of this month, informed the chess journalist Liang Ziming. All top players are required to play including Ding Liren, Wei Yi, Bu Xiangzhi, Yu Yangyi, Hou Yifan, Ju Wenjun, Tan Zhongyi, Lei Tingjie. The 2022 Asian Games, also []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/19th-asian-games-2022-chess-qualifiers/",
+         "pubDate" : "Thu, 24 Mar 2022 09:36:07 +0000",
+         "title" : "19th Asian Games 2022 - chess qualifiers"
+      },
+      {
+         "description" : "The 7th Rapid Chess Championship of the Francophonie was organized this year on March 19 &#38; 20 jointly by the Lyon Olympique Echecs and the Francophone Chess Association (AIDEF) in partnership with the Auvergne-Rhône-Alpes Region, in the premises of the magnificent Hotel of Region. It brought together 169 participants from 13 countries, including 8 Grand Masters, 11 International&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/french-grandmaster-maxime-lagarde-wins-the-7th-francophone-rapid-chess-championship/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/french-grandmaster-maxime-lagarde-wins-the-7th-francophone-rapid-chess-championship/",
+         "pubDate" : "Thu, 24 Mar 2022 09:18:18 +0000",
+         "title" : "French grandmaster Maxime Lagarde wins the 7th Francophone Rapid Chess Championship"
+      },
+      {
+         "description" : "Rating favourites Magnus Carlsen, Ding Liren, Jan-Krzysztof Duda and Le Quang Liem all won their quarterfinal matches at the Charity Cup. Out of the four, only Le needed four games to defeat David Navara, as the remaining three winners of the day managed to knock out their opponents after only three encounters. | Photo: Alina l'Ami",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/charity-cup-2022-d5",
+         "pubDate" : "Thu, 24 Mar 2022 09:40:00 +0100",
+         "title" : "Charity Cup: Favourites prevail"
+      },
+      {
          "description" : "All eight games played on Wednesday at the FIDE Grand Prix in Berlin finished drawn, which means Levon Aronian, Leinier Dominguez, Alexandr Predke and Nikita Vitiugov continue to lead their respective pools. After the round was over, Dina Belenkaya asked the players to share their opinion on FIDE's decision to ban Sergey Karjakin from competitive chess for six months. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,14 +170,6 @@ news_feed (
          "title" : "Why Losing At Chess Hurts So Much (And The Antidote)"
       },
       {
-         "description" : "The second event of the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Magnus Carlsen, Ding Liren and Richard Rapport head the 16-player field. The tournament is taking place on March 19-26, with the action kicking off daily at 18.00 CET (13.00 ET, 17.00 UTC, 22.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
-         "pubDate" : "Wed, 23 Mar 2022 17:50:00 +0100",
-         "title" : "Charity Cup QF - Live!"
-      },
-      {
          "description" : "It took the 2022 FIDE Grand Prix, where GMs Hikaru Nakamura and Daniil Dubov were both playing on Tuesday, to break their two-week Titled Tuesday winning streak. In their places were GM Ian Nepomniachtchi, winning the early tournament, and GM Dmit...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -264,14 +296,6 @@ news_feed (
          "link" : "https://www.chessdom.com/hikaru-nakamura-banned-on-twitch/",
          "pubDate" : "Wed, 23 Mar 2022 06:30:24 +0000",
          "title" : "Hikaru Nakamura banned on Twitch"
-      },
-      {
-         "description" : "PUMA Brand Ambassador and Premier League star Christian Pulisic will be scoring in a very different game on Wednesday chess. The American will face-off against a 10-year-old app version of the reigning World Champion Magnus Carlsen in a very special Play Magnus Charity Chess Challenge for the&#xA0;Meltwater Champions Chess Tour. More about Charity Cup: []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/christian-pulisic-vs-magnus-carlsen/",
-         "pubDate" : "Wed, 23 Mar 2022 06:19:24 +0000",
-         "title" : "Christian Pulisic vs Magnus Carlsen"
       },
       {
          "description" : "In an exciting first round, the third leg of the Grand Prix series saw four players getting off to winning starts at Berlin's Unter den Linden. Levon Aronian and Leinier Dominguez got crucial wins against direct contenders Hikaru Nakamura and Daniil Dubov, while Nikita Vitiugov got the better of Amin Tabatabaei, the lowest-rated player in pool D. The most surprising result of the day was Alexandr Predke's win over Maxime Vachier-Lagrave. | Photos: World Chess",
@@ -1402,14 +1426,6 @@ news_feed (
          "title" : "RIP Edward Claud Sowden"
       },
       {
-         "description" : "Richard Rapport has a 96% chance of playing in the FIDE Candidates Tournament after defeating Dmitry Andreikin in the second game of the final to win the Belgrade FIDE Grand Prix. The Hungarian no. 1 described his decision to play on with two minutes on his clock rather than take a draw as taking destiny into his own hands and a \"leap of faith\". It was richly rewarded, as Dmitry Andreikin, who commented, \"I can only applaud him\", went astray in complications that neither player could fully fathom.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/rapport-s-leap-of-faith-wins-belgrade-grand-prix",
-         "pubDate" : "Mon, 14 Mar 2022 11:20:05 +0000",
-         "title" : "Rapport's \"leap of faith\" wins Belgrade Grand Prix"
-      },
-      {
          "description" : "Ivan Sokolov is well-known for his stunning attacking games. Most of them originate from middlegames, so no wonder he wrote various books about this topic. Now he continues his video series at ChessBase and presents further tools for a better chess understanding with the hedgehog and dynamic pawn structures. Not only as a player, but also through his work as a trainer of various top players, Sokolov knows how to make complex topics understandable through instructive examples. Start improving your understanding of the middlegames now!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1808,14 +1824,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tykhon-is-safe",
          "pubDate" : "Thu, 10 Mar 2022 16:23:37 +0100",
          "title" : "Tykhon is safe!"
-      },
-      {
-         "description" : "On Thursday, February 24, 2022, 19-year-old GM Kirill Shevchenko and his family woke up from the sounds of numerous explosions not far from them. They took their documents and went to the basement, where they stayed all day and tried to follow the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ukrainian-chess-players-in-times-of-war",
-         "pubDate" : "Thu, 10 Mar 2022 06:53:00 -0800",
-         "title" : "Ukrainian Chess Players In Times Of War"
       },
       {
          "description" : "Garry Kasparov has long been an avowed opponent of Vladimir Putin, and in 2015 he issued a strong warning about Putin and his political aims in his book \"Winter is Coming\". In an interview with the American TV programme \"Amanpour and Company\", Kasparov now talks about the war in Ukraine, Putin's political rise, the failure of the West to oppose Putin and possible sanctions against Russia. Passionate, informed and eloquent.",
