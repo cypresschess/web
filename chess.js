@@ -618,6 +618,14 @@ news_feed (
          "title" : "Aronian-Nakamura as final FIDE Grand Prix begins"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90379108.cms\" />Vietnamese star Liem Quang Le's hot streak showed no signs of cooling down as the Charity Cup's Prelim stage enters its final three rounds on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/charity-cup-liem-quang-le-continues-to-lead-the-show/articleshow/90379108.cms",
+         "pubDate" : "Tue, 22 Mar 2022 13:18:03 +0000",
+         "title" : "Charity Cup: Liem Quang Le continues to lead the show"
+      },
+      {
          "description" : " The FIDE Ethics Commission has suspended GM Sergey Karjakin for 6 months for his comments supporting Russia during the current invasion of Ukraine by that country. To be honest I am astonished that they even decided to hear the case, let alone suspend him. For me, the right to say dumb, hurtful, stupid, offensive or ignorant words, is met with the right to say that the first speaker is dumb, hurtful, stupid, offensive and ignorant. In the case of Karjakin, his comments have been rightfully condemned, his invitations to tournaments are likely to disappear, and anything he says is countered by people who point out he is lying about many things. Banning him is unlikely to change his opinions, ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -760,6 +768,30 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-and-european-youth-rapid-blitz-chess-championships-2022-official-invitation/",
          "pubDate" : "Mon, 21 Mar 2022 16:25:04 +0000",
          "title" : "European Youth Team and European Youth Rapid & Blitz Chess Championships 2022 - Official invitation"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90358530.cms\" />Russian grandmaster Sergey Karjakin has been banned from competition for six months because of his support for Russia's invasion of Ukraine, the International Chess Federation (FIDE) said on Monday. The 32-year-old Karjakin, who challenged Magnus Carlsen for the world title in 2016, has defended his country's actions on social media in recent weeks, drawing intense criticism from the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gm-sergey-karjakin-banned-for-six-months-over-pro-russia-comments/articleshow/90358530.cms",
+         "pubDate" : "Mon, 21 Mar 2022 14:22:57 +0000",
+         "title" : "GM Karjakin banned for six months over pro-Russia comments"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90358280.cms\" />Grandmasters Arjun Erigaise and Abhijeet Gupta will start as favourites when the 19th edition of the Delhi International open chess tournament gets underway on Tuesday. Arjun starts as the top seed, while defending champion and five-time Commonwealth champion Abhijeet will be the third seed. Russian Pavel Ponkratov has been seeded second.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmasters-arjun-abhijeet-start-as-favourites-in-delhi-international-open-chess/articleshow/90358280.cms",
+         "pubDate" : "Mon, 21 Mar 2022 14:03:42 +0000",
+         "title" : "GMs Arjun, Abhijeet start as favourites in Delhi International Open chess"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90358205.cms\" />Weeks after getting the better of World champion Magnus Carlsen, young gun R Praggnanandhaa took another big scalp in the Meltwater Champions Chess Tour, beating world No.3 Ding Liren in the final round of the day at the ongoing Charity Cup on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/charity-cup-praggnanandhaa-beats-ding-liren-lies-sixth/articleshow/90358205.cms",
+         "pubDate" : "Mon, 21 Mar 2022 13:55:55 +0000",
+         "title" : "Charity Cup: Praggnanandhaa beats Ding Liren, lies sixth"
       },
       {
          "description" : " <p class=\"lead\">The FIDE Ethics and Disciplinary Commission banned GM Sergey Karjakin from participating as a player in any FIDE rated chess competition, while GM Sergey Shipov faced no sanctions due to his less provocative statements. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Untitled-design-1.jpg\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> It wasn't long after Russia's military invasion of Ukraine that GM Sergey Karjakin started tweeting in favour of the war and spreading propaganda all over his social media channels. The chess community, from companies to influencers, publicly disagreed with the Russian GM and demanded FIDE to take action over this mat",
@@ -1256,6 +1288,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-joys-of-chess-the-romanian-blitz-rapid-and-solving-championships",
          "pubDate" : "Wed, 16 Mar 2022 15:00:00 +0100",
          "title" : "The joys of chess: The Romanian Blitz, Rapid and Solving Championships"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90273747.cms\" />The 44th Chess Olympiad, to be held in Mahabalipuram about 58 km from here, would see participation of over 150 countries and the tourney would be the biggest-ever sports event to have happened in India, Tamil Nadu Chief Minister M K Stalin said on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/over-150-countries-to-take-part-in-44th-chess-olympiad-says-tamil-nadu-cm-stalin/articleshow/90273747.cms",
+         "pubDate" : "Wed, 16 Mar 2022 13:49:02 +0000",
+         "title" : "Over 150 countries to take part in 44th Chess Olympiad, says TN CM"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90271347.cms\" />World chess governing body FIDE on Wednesday suspended Russia and Belarus from all its tournaments until further notice due to the invasion of Ukraine, jeopardising the two countries' participation in the 44th Chess Olympiad in India later this year.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-body-fide-suspends-russia-and-belarus-from-its-official-events/articleshow/90271347.cms",
+         "pubDate" : "Wed, 16 Mar 2022 12:07:04 +0000",
+         "title" : "World chess body FIDE suspends Russia and Belarus from its official events"
       },
       {
          "description" : "The Certificates for NATIONAL SENIOR CHESS CHAMPIONSHIPS 25 FEB-03 MARCH 2022 are now available for download. You can download the certificate from the following link",
@@ -1962,6 +2010,14 @@ news_feed (
          "title" : "Grandmaster Draws Explained"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90106247.cms\" />After coming close to winning a few over-the-board (OTB) events in the last one year, Grandmaster SL Narayanan crossed the finish line by bagging the Grandiscacchi Cattolica International Open in Cattolica, Italy on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-aim-is-to-cross-the-2700-elo-rating-narayanan/articleshow/90106247.cms",
+         "pubDate" : "Wed, 09 Mar 2022 14:34:48 +0000",
+         "title" : "The aim is to cross the 2700 ELO rating: Narayanan"
+      },
+      {
          "description" : " This week Andrew and I ran three Master Chess Web Shows, the agendas being as follows: Monday The Monday show is devoted to readers' questions, with these three being addressed: 1) How should Black play against the 3.e5 Bf5 4.Ne2 e6 5.Ng3 Bg6 6.h4 line of the Caro-Kann? 2) What is the best ever King's <a href=\"https://chessimprover.com/master-chess-web-show-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-4/\">Master Chess Web Show (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1992,6 +2048,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1623",
          "pubDate" : "Tue, 08 Mar 2022 15:49:38 +0000",
          "title" : "Women's Speed Chess Championship 20202 announced"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90083267.cms\" />Aggression is one of the strengths of India's chess sensation R Praggnanandhaa but improving his time management skills is one of the areas where the teenager will have to work on, said his coach RB Ramesh.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/there-is-still-room-for-improvement-in-praggnanandhaas-game-says-coach-ramesh/articleshow/90083267.cms",
+         "pubDate" : "Tue, 08 Mar 2022 15:33:51 +0000",
+         "title" : "There is still room for improvement in Praggnanandhaa's game, says coach Ramesh"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/724979b0-5ccb-4e03-812c-81df0296a302/Jen2.jpg\" data-image-dimensions=\"511x259\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6227664e4501d34983a22d8a\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/724979b0-5ccb-4e03-812c-81df0296a302/Jen2.jpg?format=1000w\" /> </figure> <p class=\"\">My guest today is Jen Shahade. Jen, is a champion chess and poker player, an author, an award winning podcaster and the Woman's Program Director at US Chess. It was the perfect time ",
