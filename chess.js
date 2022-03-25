@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Income Tax Department, West Bengal &#38; Sikkim is going to recruit meritorious sportspersons in the posts of Inspector of Income Tax, Tax Assistant and Multi-Tasking",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/recruitment-of-meritorious-sportspersons-in-the-income-tax-department-west-bengal-sikkim/",
+         "pubDate" : "Fri, 25 Mar 2022 11:04:13 +0000",
+         "title" : "Recruitment of meritorious sportspersons in the Income Tax Department, West Bengal & Sikkim"
+      },
+      {
+         "description" : "World Champion Magnus Carlsen will take on World Cup Winner Jan-Krzysztof Duda in the Charity Cup final after both players impressed in the semi-finals. Magnus defeated Ding Liren 3:1 in a hard-fought battle against the player he called, \"clearly the best player who's not in the Candidates at the moment\". Jan-Krzysztof Duda beat Liem Quang Le 2.5:1.5 in a match decided on a first game where Duda was on the ropes but eventually hit back to grab a crucial win.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/charity-cup-sf-carlsen-and-duda-reach-final",
+         "pubDate" : "Fri, 25 Mar 2022 10:19:03 +0000",
+         "title" : "Charity Cup SF: Carlsen and Duda reach final"
+      },
+      {
+         "description" : "The final of the 2022 Charity Cup will be played between GM Magnus Carlsen and GM Jan-Krzysztof Duda, the Polish player who ended Carlsen&#39;s 125-game unbeaten streak in October 2020 and who eliminated the world champion from the 2021 FIDE World Cup...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-charity-cup-semifinals",
+         "pubDate" : "Fri, 25 Mar 2022 02:27:00 -0700",
+         "title" : "Charity Cup Day 6: Carlsen To Meet Nemesis Duda In Final"
+      },
+      {
+         "description" : "Referring to the open letter from the Ukrainian Chess Federation dated 23.03.2022 and the upcoming European Chess Championship in Slovenia, we have to inform that ECU and the Slovenian Chess Federation have done everything in their power to support the participation of Ukrainian chess players in the Championship&#160;being in contact also with&#160;the Ukrainian Chess Federation.&#160; The ECU Board,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-statement-on-eicc2022-in-slovenia/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-statement-on-eicc2022-in-slovenia/",
+         "pubDate" : "Fri, 25 Mar 2022 09:23:16 +0000",
+         "title" : "ECU Statement on EICC2022 in Slovenia"
+      },
+      {
+         "description" : " Fide's ban on Sergey Karjakin provides an opportunity in the current series to decide Magnus Carlsen's next challenger China's world No 3 Ding Liren could make an unlikely late bid for a place in the Candidates tournament that will decide Magnus Carlsen's next challenger. Ding's chances seemed to have vanished when visa problems prevented him competing in the current Grand Prix series in Berlin which will qualify two winners for the Candidates at Madrid in June, but a possible lifeline has appeared due to Fide's six-month ban on Sergey Karjakin, who had qualified for Madrid via the 2021 World Cup but <a href=\"https://www.theguardian.com/sport/2022/mar/21/sergey-karjakin-banned-chess-fide-ru",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/mar/25/chess-china-ding-liren-could-make-unlikely-late-bid-for-candidates-place-magnus-carlsen",
+         "pubDate" : "Fri, 25 Mar 2022 08:00:23 +0000",
+         "title" : "Chess: China's Ding Liren could make unlikely late bid for Candidates place"
+      },
+      {
+         "description" : "Magnus Carlsen and Jan-Krzysztof Duda defeated Ding Liren and Le Quang Liem respectively to reach the final of the Charity Cup. Much like in the quarterfinals, no tiebreaks were seen in the semifinals. Carlsen and Duda will face off in a 2-set match starting Friday, with each set a 4-game rapid confrontation. | Photo: Lennart Ootes (Archive)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/charity-cup-2022-d6",
+         "pubDate" : "Fri, 25 Mar 2022 09:00:00 +0100",
+         "title" : "Charity Cup: Carlsen and Duda reach the final"
+      },
+      {
          "description" : "In the one game that had a decisive result in round 3 of the Berlin Grand Prix, 17-year-old Vincent Keymer defeated Daniil Dubov to catch Leinier Dominguez in the lead of pool B. In pool A, Grigoriy Oparin managed to get a clearly superior position against Hikaru Nakamura, but failed to finish the US grandmaster off in a tactical middlegame. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-castling-queenside-in-the-italian",
          "pubDate" : "Thu, 24 Mar 2022 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Castling queenside in the Italian"
-      },
-      {
-         "description" : "The second event of the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Magnus Carlsen, Ding Liren and Richard Rapport head the 16-player field. The tournament is taking place on March 19-26, with the action kicking off daily at 18.00 CET (13.00 ET, 17.00 UTC, 22.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
-         "pubDate" : "Thu, 24 Mar 2022 17:50:00 +0100",
-         "title" : "Charity Cup SF - Live!"
       },
       {
          "description" : "In his \"Game of the Week\" show #508, Merijn van Delft looks at two impressive games Le Quang Liem played at the Charity Cup - in both games Le demonstrated Black's attacking potential in the Italian. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1418,14 +1458,6 @@ news_feed (
          "title" : "Rook vs bishop"
       },
       {
-         "description" : "FIDE President and former Russian Deputy Prime Minister Arkady Dvorkovich breaks his silence and condemns the invasion in Ukraine, using the three-letter word (five letters in Russian) banned in his home country. Dvorkovich offers his condolences in a remarkable interview. \"My thoughts are with Ukrainian civilians,\" the former Kremlin official says as demands for his resignation continue.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/dvorkovich-risks-putin-wrath-by-breaking-silence-on-war",
-         "pubDate" : "Tue, 15 Mar 2022 07:45:56 +0000",
-         "title" : "Dvorkovich risks Putin wrath by breaking silence on war"
-      },
-      {
          "description" : " The FIDE Grand Prix Leg 2 took place in Belgrade Tuesday 1st to Monday 14th Mar 2022. There are group stages 4 players 6 rounds, the winners of each group then play the knockout phase. Players: Grischuk, Andreikin, Shankland, Bacrot, Rapport, Vidit, Fedoseev, Shirov, Giri, Vitiugov, Harikrishna, Tabatabaei, Mamedyarov, MVL, Yu Yangyi and Predke. This is the second of three such events. Nakamura won the first, the final leg is back in Berlin Mon 21st Mar to Mon 4th Apr 2022. Richard Rapport beat Dmitry Andreikin in the final to all but confirm a Candidates place. He reached the semifinals in the first event and will have to wait on the results of the final leg.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1842,14 +1874,6 @@ news_feed (
          "title" : "Belgrade GP: Rapport escapes, reaches final"
       },
       {
-         "description" : "The second round of the Losers Bracket of the&#38;nbsp;2022 Bullet Chess Championship presented by DigitalOcean&#38;nbsp;ended with four decisive winners: GMs&#38;nbsp;Oleksandr Bortnyk, Arjun Erigaisi,&#38;nbsp;Brandon Jacobson, and Jose Martinez. Notably, the l...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-bullet-chess-championship-losers-round-2-bortnyk-erigaisi-jacobson-martinez-win",
-         "pubDate" : "Thu, 10 Mar 2022 15:54:00 -0800",
-         "title" : "Bullet Chess Championship Losers Round 2: Bortnyk, Erigaisi, Jacobson, Martinez Advance"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2104,14 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1620",
          "pubDate" : "Mon, 07 Mar 2022 14:29:36 +0000",
          "title" : "Chess for Ukraine: FIDE announces a series of fundraising events on Women's Day"
-      },
-      {
-         "description" : "Top 2 seeded players of open section IM Pranav V and IM Pranesh M both from Tamil Nadu jointly share the lead 5 points each.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-46th-national-sub-junior-open-and-girls-chess-championship-2022report/",
-         "pubDate" : "Mon, 07 Mar 2022 12:27:01 +0000",
-         "title" : "MPL 46th National Sub Junior Open and Girls Chess Championship 2022:Report"
       },
       {
          "description" : "To my astonishment, not to mention extreme admiration, forty-four of Russia's leading chess Grandmasters, including last year's world title challenger Ian Nepomniachtchi and the top female player Alexandra Kosteniuk (pictured above), have written an open letter to President Putin denouncing his war against Ukraine. These bold paragons of the chess community are thereby risking not []",
