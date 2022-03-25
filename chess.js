@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! In most team competitions, teammates don't play each other, but retired U.S. Marine Corps Master Sergeant Steven Rollins thought of a novel way that allows teammates to play each other without adversely affecting the team score. In 2014, his &#8220;Rollins Military System&#8221; was included as Rule 31A1 in the U.S. Chess Rule Book. Kobe [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/\">The Steven Rollins Chess Rule</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/",
+         "pubDate" : "Fri, 25 Mar 2022 19:33:33 +0000",
+         "title" : "The Steven Rollins Chess Rule"
+      },
+      {
+         "description" : " <p class=\"lead\">It was an exciting day at the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> just before the free day. Round 4 ended with 5 decisive games and Oparin taking the lead of Group A with 2.5/4. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-17.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220325151327_IMG_4761.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220325151158_IMG_4756.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pict",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/5-decisive-games-with-oparin-taking-the-lead-of-group-a-in-r4-of/",
+         "pubDate" : "Fri, 25 Mar 2022 19:12:13 +0000",
+         "title" : "5 decisive games with Oparin taking the lead of Group A in R4 of the FIDE GP"
+      },
+      {
+         "description" : "After five rounds of the regular season, most teams know where they stand in the race to make the playoffs. With only two rounds remaining, many teams are facing must-win situations going into round six, and the teams at the top are fighting to cl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-round-5",
+         "pubDate" : "Fri, 25 Mar 2022 12:08:24 -0700",
+         "title" : "Collegiate Chess League Season 4 Round 5"
+      },
+      {
+         "description" : "In this week's edition of the Power Play Show, GM Daniel King focuses on a gambit line of the Italian Opening that has caught the attention of elite players. To illustrate his ideas, King analyses a spectacular game, in which White's strategy paid off beautifully. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-a-trendy-gambit-in-the-giuoco-piano",
+         "pubDate" : "Fri, 25 Mar 2022 19:50:00 +0100",
+         "title" : "Daniel King's Power Play Show: A trendy gambit in the Giuoco Piano"
+      },
+      {
+         "description" : "In this post, guest writer Alex Crompton shares how he increased his rating from 300 to 1500 points in just 9 months, starting from complete beginner level as an adult.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/from-300-to-1500-in-9-months",
+         "pubDate" : "Fri, 25 Mar 2022 17:21:09 +0000",
+         "title" : "How I went from 300-1500 in 9 months"
+      },
+      {
+         "description" : "The second event of the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Magnus Carlsen, Ding Liren and Richard Rapport head the 16-player field. The tournament is taking place on March 19-26, with the action kicking off daily at 18.00 CET (13.00 ET, 17.00 UTC, 22.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
+         "pubDate" : "Fri, 25 Mar 2022 17:50:00 +0100",
+         "title" : "Charity Cup Finals - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1658",
+         "pubDate" : "Fri, 25 Mar 2022 16:17:27 +0000",
+         "title" : "FIDE Veterans Support Program 2022: A tribute"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessable-support-for-the-ecf-and-english-chess/",
+         "pubDate" : "Fri, 25 Mar 2022 16:01:56 +0000",
+         "title" : "Chessable support for the English Chess Federation and English Chess"
+      },
+      {
          "description" : "Chess.com is excited to announce the 2022&#38;nbsp;Junior Speed Chess Championship presented by SIG which will showcase 16 of the brightest under-20 stars in the world fighting for a prize fund of&#38;nbsp;$35,000. Qualifiers begin on March 31&#38;nbsp;and ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -18,7 +82,7 @@ news_feed (
          "title" : "FIDE Grand Prix - Live!"
       },
       {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/f07a8c09-7af8-4289-a64f-d27f4a0f03f8/mammoth2.jpg\" data-image-dimensions=\"442x249\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"623dc43aee3487035074c71f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/f07a8c09-7af8-4289-a64f-d27f4a0f03f8/mammoth2.jpg?format=1000w\" /> </figure> <p class=\"\"><em>Chess Books Recaptured </em>returns to discuss an excellent game compilation book,<a href=\"https://www.amazon.com/Mammoth-Worlds-Greatest-Chess-Games-ebook/dp/B08V23CZM5/",
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/06cc653c-ca87-48f3-b47f-a636ed26e99e/mammoth3.jpg\" data-image-dimensions=\"550x276\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"623de366654dd52be017e093\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/06cc653c-ca87-48f3-b47f-a636ed26e99e/mammoth3.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">I was joined by guest co-host Christopher Chabris, and we were paid a visit by the co-author and editor, FM Graham Burgess </figcaption> </fi",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/25/book-recap-25-the-mammoth-book-of-the-worlds-greatest-chess-games-with-nm-chrisopher-chabris-and-fm-graham-burgess",
@@ -1194,7 +1258,7 @@ news_feed (
          "title" : "Second workshop on increasing inner strength to be held on March 27"
       },
       {
-         "description" : " Share!124 The FIDE Chess Olympiad will be held later this year in Chennai, India according to a FIDE press release. The decision was made by the FIDE Council yesterday after postponing the event in the aftermath of the invasion of Ukraine by Russian forces. FIDE President Nigel Short announced via Twitter, &#8220;Due to the deteriorating [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/17/india-to-host-fide-chess-olympiad/\">India to host FIDE Chess Olympiad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " The FIDE Chess Olympiad will be held later this year in Chennai, India according to a FIDE press release. The decision was made by the FIDE Council yesterday after postponing the event in the aftermath of the invasion of Ukraine by Russian forces. FIDE President Nigel Short announced via Twitter, &#8220;Due to the deteriorating geopolitical [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/17/india-to-host-fide-chess-olympiad/\">India to host FIDE Chess Olympiad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/03/17/india-to-host-fide-chess-olympiad/",
@@ -1432,14 +1496,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/15/ep-270-cody-smith-adult-improver-series",
          "pubDate" : "Tue, 15 Mar 2022 14:59:21 +0000",
          "title" : "EP 270- Cody Smith (Adult Improver Series) "
-      },
-      {
-         "description" : "World Chess Champion Magnus Carlsen tops the field for the Charity Cup, the 2nd event on the 2022 Meltwater Champions Chess Tour. The online chess tournament, starting Saturday March 19th, is taking place under the shadow of Russia's war in Ukraine, and will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Ding Liren, Richard Rapport and Women's World Champion Ju Wenjun are among participants from 12 countries, with no Russian players involved.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-tops-field-for-charity-cup-a-unicef-fundraiser",
-         "pubDate" : "Tue, 15 Mar 2022 14:00:03 +0000",
-         "title" : "Magnus Carlsen tops field for Charity Cup, a UNICEF fundraiser"
       },
       {
          "description" : " <p class=\"lead\">Richard Rapport, the winner of the second leg of the FIDE Grand Prix 2022, gives an exclusive interview to Dina Belenkaya on how chess came into his life, his attitude to pre-arranged draws, his regrets and joys of being a professional chess player and more. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/kYKwHK2E2fQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -1722,14 +1778,6 @@ news_feed (
          "title" : "Belgrade GP Final: A quiet draw"
       },
       {
-         "description" : " <p class=\"lead\"><a href=\"https://chessarena.com/\">FIDE Online Arena,</a> the official FIDE gaming platform, will feature Arena-system tournaments. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Untitled-design.jpg\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> This type of tournament is available online only and will have action without waiting for the round. Just finish your game and start fighting with your next opponent. In the fixed amount of time you have to earn as many points as you can by winning as many games as you can. You get more points when you win several games in a row. No rounds and you can pause at any time. Choose a tournament in your favourite",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/arena-system-tournaments-are-now-on-fide-online-arena/",
-         "pubDate" : "Sun, 13 Mar 2022 08:51:27 +0000",
-         "title" : "Arena-system tournaments are now on FIDE Online Arena"
-      },
-      {
          "description" : "The Saint Louis Spring Classic had a thrilling final day of action. In the A group, Sam Sevian prevailed after beating Ilya Nyzhnyk in a rapid playoff. In the B group, the youngest grandmaster in history Abhimanyu Mishra (pictured) won the event with an impressive Tournament Rating Performance. | Photo: Crytal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1832,14 +1880,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-a-brilliant-attack-by-nils-grandelius",
          "pubDate" : "Fri, 11 Mar 2022 19:45:00 +0100",
          "title" : "Daniel King's Power Play Show: A brilliant attack by Nils Grandelius"
-      },
-      {
-         "description" : "With two draws in yesterday&#39;s games at the 2022 FIDE Grand Prix&#38;nbsp;in Belgrade, GM Richard Rapport qualified to the final by ousting GM Maxime Vachier-Lagrave, while GM Dmitry Andreikin and GM Anish Giri booked another day of games, in a rapid c...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-semifinal-tiebreaker",
-         "pubDate" : "Fri, 11 Mar 2022 10:19:00 -0800",
-         "title" : "2022 FIDE Grand Prix Belgrade Semifinal Tiebreaker: Andreikin Wins"
       },
       {
          "description" : " One of my students, who read through my last piece here at the Chess Improver, mentioned that I had not brought up a teaching method I used for calculation training. Chess comes down to thinking ahead and having the ability to do so! All the strategic and tactical skills in the world won't help you <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-four/\">A Foundation for Beginners Fifty Four</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.",
@@ -1968,22 +2008,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/33467976/ukraine-russia-invasion-india-chess-im-reaches-india-traumatic-experience?device=featurephone",
          "pubDate" : "Thu, 10 Mar 2022 07:27:46 -0500",
          "title" : "Indian chess IM Anwesh back home after surviving 'traumatic' experience in Ukraine"
-      },
-      {
-         "description" : "The pools for the last leg of the FIDE Grand Prix have been determined. The tournament in Berlin will be held from 21 March to 4 April at the World Chess Club Berlin. The event features 16 elite chess players competing for a prize fund of €150,000 and the last two places in the Candidates Tournament scheduled to take place in Madrid in June. Press Release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pools-for-third-leg-of-fide-grand-prix-2022-announced",
-         "pubDate" : "Thu, 10 Mar 2022 11:55:58 +0100",
-         "title" : "Pools for third leg of FIDE Grand Prix 2022 announced"
-      },
-      {
-         "description" : "Two exciting games were seen at the start of the FIDE Grand Prix semifinals in Belgrade. Richard Rapport scored a crucial win over Maxime Vachier-Lagrave and now only needs a draw on Thursday to vastly increase his chances of qualifying to the Candidates Tournament. Meanwhile, Anish Giri gave up two exchanges and got a favourable position out of a sharp Sicilian against Dmitry Andreikin. | Photos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-sf1",
-         "pubDate" : "Thu, 10 Mar 2022 06:35:00 +0100",
-         "title" : "Belgrade GP: A big step forward for Rapport"
       },
       {
          "description" : "",
