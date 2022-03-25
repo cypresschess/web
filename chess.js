@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " To help ACT players prepare for the upcoming O2C Doeberl Cup, the ACT Junior Chess League is organising a small warmup event. It is a 5 round FIDE rated event, and has attracted 22 players. The semi-invitational event targeted local juniors who are playing in the Premier, Major or Minor, as well as adult players taking part. The tournament is being played as a single section, with a time control of 90m+30s While there is no live coverage of the event, you can follow the results at <a href=\"http://tournaments.streetchess.net/\">http://tournaments.streetchess.net/</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/a-short-warm-up-event.html",
+         "pubDate" : "Fri, 25 Mar 2022 21:24:00 +0000",
+         "title" : "A short warm up event "
+      },
+      {
          "description" : " Share! In most team competitions, teammates don't play each other, but retired U.S. Marine Corps Master Sergeant Steven Rollins thought of a novel way that allows teammates to play each other without adversely affecting the team score. In 2014, his &#8220;Rollins Military System&#8221; was included as Rule 31A1 in the U.S. Chess Rule Book. Kobe [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/\">The Steven Rollins Chess Rule</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2232,22 +2240,6 @@ news_feed (
          "link" : "https://www.thearticle.com/but-i-am-a-ukrainian/",
          "pubDate" : "Sat, 05 Mar 2022 11:29:23 +0000",
          "title" : "'But I am a Ukrainian'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1616",
-         "pubDate" : "Fri, 04 Mar 2022 22:58:52 +0000",
-         "title" : "FIDE Grand Prix Belgrade: Round 4 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1615",
-         "pubDate" : "Fri, 04 Mar 2022 20:40:43 +0000",
-         "title" : "Salinas Herrera and Gomez Barrera win Chilean Championships"
       }
    ]
 }
