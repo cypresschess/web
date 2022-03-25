@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com is excited to announce the 2022&#38;nbsp;Junior Speed Chess Championship presented by SIG which will showcase 16 of the brightest under-20 stars in the world fighting for a prize fund of&#38;nbsp;$35,000. Qualifiers begin on March 31&#38;nbsp;and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-2022-junior-speed-chess-championship",
+         "pubDate" : "Fri, 25 Mar 2022 07:00:00 -0700",
+         "title" : "Announcing The 2022 Junior Speed Chess Championship"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
+         "pubDate" : "Fri, 25 Mar 2022 14:50:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/f07a8c09-7af8-4289-a64f-d27f4a0f03f8/mammoth2.jpg\" data-image-dimensions=\"442x249\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"623dc43aee3487035074c71f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/f07a8c09-7af8-4289-a64f-d27f4a0f03f8/mammoth2.jpg?format=1000w\" /> </figure> <p class=\"\"><em>Chess Books Recaptured </em>returns to discuss an excellent game compilation book,<a href=\"https://www.amazon.com/Mammoth-Worlds-Greatest-Chess-Games-ebook/dp/B08V23CZM5/",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/25/book-recap-25-the-mammoth-book-of-the-worlds-greatest-chess-games-with-nm-chrisopher-chabris-and-fm-graham-burgess",
+         "pubDate" : "Fri, 25 Mar 2022 13:32:14 +0000",
+         "title" : "Book Recap #25- The Mammoth Book of the World's Greatest Chess Games with NM Chrisopher Chabris and FM Graham Burgess "
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/aAVg6UPi_pI?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-pools-round-4/",
+         "pubDate" : "Fri, 25 Mar 2022 13:05:03 +0000",
+         "title" : "FIDE Grand Prix in Berlin: Pools Round 4"
+      },
+      {
+         "description" : "\"Chess has often been used as a metaphor for the conduct of war. 'Gambit', 'zugzwang', 'checkmate', 'stalemate' are all chess terms which are often heard when describing events in the social sphere, especially in the realm of politics, diplomacy and warfare,\" writes Milan Dinic in the March 1st issue of the British Chess Magazine. The young Editor offers a lively commentary on how the war in Ukraine has affected chess all over the world. This issue also includes an interview with veteran Ukrainian grandmaster Alexander Beliavsky.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bcm-on-chess-and-war",
+         "pubDate" : "Fri, 25 Mar 2022 13:00:00 +0100",
+         "title" : "BCM: On Chess and War"
+      },
+      {
          "description" : "Income Tax Department, West Bengal &#38; Sikkim is going to recruit meritorious sportspersons in the posts of Inspector of Income Tax, Tax Assistant and Multi-Tasking",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -18,7 +58,7 @@ news_feed (
          "title" : "Charity Cup SF: Carlsen and Duda reach final"
       },
       {
-         "description" : "The final of the 2022 Charity Cup will be played between GM Magnus Carlsen and GM Jan-Krzysztof Duda, the Polish player who ended Carlsen&#39;s 125-game unbeaten streak in October 2020 and who eliminated the world champion from the 2021 FIDE World Cup...",
+         "description" : "The final of the 2022 Charity Cup will be played between GM Magnus Carlsen and GM Jan-Krzysztof Duda, the Polish player who ended Carlsen&#39;s 125-game unbeaten streak in October 2020 and eliminated the world champion from the 2021 FIDE World Cup. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-charity-cup-semifinals",
@@ -48,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/charity-cup-2022-d6",
          "pubDate" : "Fri, 25 Mar 2022 09:00:00 +0100",
          "title" : "Charity Cup: Carlsen and Duda reach the final"
+      },
+      {
+         "description" : "The 94th FIDE Congress will be organised by the All India Chess Federation in Chennai from July 31 to August 9, with August 7 as the date for FIDE elections.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33590842/india-host-2022-chess-olympiad-july-28-august-10?device=featurephone",
+         "pubDate" : "Fri, 25 Mar 2022 02:29:29 -0500",
+         "title" : "India to host 2022 Chess Olympiad from July 28 to August 10"
       },
       {
          "description" : "In the one game that had a decisive result in round 3 of the Berlin Grand Prix, 17-year-old Vincent Keymer defeated Daniil Dubov to catch Leinier Dominguez in the lead of pool B. In pool A, Grigoriy Oparin managed to get a clearly superior position against Hikaru Nakamura, but failed to finish the US grandmaster off in a tactical middlegame. | Photos: World Chess",
@@ -570,14 +618,6 @@ news_feed (
          "title" : "Aronian-Nakamura as final FIDE Grand Prix begins"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90379108.cms\" />Vietnamese star Liem Quang Le's hot streak showed no signs of cooling down as the Charity Cup's Prelim stage enters its final three rounds on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/charity-cup-liem-quang-le-continues-to-lead-the-show/articleshow/90379108.cms",
-         "pubDate" : "Tue, 22 Mar 2022 18:48:03 +0530",
-         "title" : "Charity Cup: Liem Quang Le continues to lead the show"
-      },
-      {
          "description" : " The FIDE Ethics Commission has suspended GM Sergey Karjakin for 6 months for his comments supporting Russia during the current invasion of Ukraine by that country. To be honest I am astonished that they even decided to hear the case, let alone suspend him. For me, the right to say dumb, hurtful, stupid, offensive or ignorant words, is met with the right to say that the first speaker is dumb, hurtful, stupid, offensive and ignorant. In the case of Karjakin, his comments have been rightfully condemned, his invitations to tournaments are likely to disappear, and anything he says is countered by people who point out he is lying about many things. Banning him is unlikely to change his opinions, ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -592,14 +632,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1643",
          "pubDate" : "Tue, 22 Mar 2022 11:30:15 +0000",
          "title" : "Support Ukrainian Chess Players and their Families"
-      },
-      {
-         "description" : "The International Chess Federation, together with its Chess in Education Commission (EDU) and Chess Scientific Research Institute (CSRI), is pleased to announce the 4th Chess...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/4th-chess-in-education-lecturer-course/",
-         "pubDate" : "Tue, 22 Mar 2022 11:04:40 +0000",
-         "title" : "4th Chess in Education Lecturer course"
       },
       {
          "description" : "Citing personal reasons, Dmitry Andreikin withdrew from the third leg of the FIDE Grand Prix. Andrey Esipenko (pictured), who also played in the first leg as a replacement, stepped in. The tournament is set to take place in Berlin, with two spots in the Candidates still up for grabs, albeit it is highly unlikely for Richard Rapport not to get one of those after his victory in Belgrade. | Photos: World Chess",
@@ -728,30 +760,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-and-european-youth-rapid-blitz-chess-championships-2022-official-invitation/",
          "pubDate" : "Mon, 21 Mar 2022 16:25:04 +0000",
          "title" : "European Youth Team and European Youth Rapid & Blitz Chess Championships 2022 - Official invitation"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90358530.cms\" />Russian grandmaster Sergey Karjakin has been banned from competition for six months because of his support for Russia's invasion of Ukraine, the International Chess Federation (FIDE) said on Monday. The 32-year-old Karjakin, who challenged Magnus Carlsen for the world title in 2016, has defended his country's actions on social media in recent weeks, drawing intense criticism from the chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gm-sergey-karjakin-banned-for-six-months-over-pro-russia-comments/articleshow/90358530.cms",
-         "pubDate" : "Mon, 21 Mar 2022 19:52:57 +0530",
-         "title" : "GM Karjakin banned for six months over pro-Russia comments"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90358280.cms\" />Grandmasters Arjun Erigaise and Abhijeet Gupta will start as favourites when the 19th edition of the Delhi International open chess tournament gets underway on Tuesday. Arjun starts as the top seed, while defending champion and five-time Commonwealth champion Abhijeet will be the third seed. Russian Pavel Ponkratov has been seeded second.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmasters-arjun-abhijeet-start-as-favourites-in-delhi-international-open-chess/articleshow/90358280.cms",
-         "pubDate" : "Mon, 21 Mar 2022 19:33:42 +0530",
-         "title" : "GMs Arjun, Abhijeet start as favourites in Delhi International Open chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90358205.cms\" />Weeks after getting the better of World champion Magnus Carlsen, young gun R Praggnanandhaa took another big scalp in the Meltwater Champions Chess Tour, beating world No.3 Ding Liren in the final round of the day at the ongoing Charity Cup on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/charity-cup-praggnanandhaa-beats-ding-liren-lies-sixth/articleshow/90358205.cms",
-         "pubDate" : "Mon, 21 Mar 2022 19:25:55 +0530",
-         "title" : "Charity Cup: Praggnanandhaa beats Ding Liren, lies sixth"
       },
       {
          "description" : " <p class=\"lead\">The FIDE Ethics and Disciplinary Commission banned GM Sergey Karjakin from participating as a player in any FIDE rated chess competition, while GM Sergey Shipov faced no sanctions due to his less provocative statements. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Untitled-design-1.jpg\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> It wasn't long after Russia's military invasion of Ukraine that GM Sergey Karjakin started tweeting in favour of the war and spreading propaganda all over his social media channels. The chess community, from companies to influencers, publicly disagreed with the Russian GM and demanded FIDE to take action over this mat",
@@ -1250,22 +1258,6 @@ news_feed (
          "title" : "The joys of chess: The Romanian Blitz, Rapid and Solving Championships"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90273747.cms\" />The 44th Chess Olympiad, to be held in Mahabalipuram about 58 km from here, would see participation of over 150 countries and the tourney would be the biggest-ever sports event to have happened in India, Tamil Nadu Chief Minister M K Stalin said on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/over-150-countries-to-take-part-in-44th-chess-olympiad-says-tamil-nadu-cm-stalin/articleshow/90273747.cms",
-         "pubDate" : "Wed, 16 Mar 2022 19:19:02 +0530",
-         "title" : "Over 150 countries to take part in 44th Chess Olympiad, says TN CM"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90271347.cms\" />World chess governing body FIDE on Wednesday suspended Russia and Belarus from all its tournaments until further notice due to the invasion of Ukraine, jeopardising the two countries' participation in the 44th Chess Olympiad in India later this year.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-body-fide-suspends-russia-and-belarus-from-its-official-events/articleshow/90271347.cms",
-         "pubDate" : "Wed, 16 Mar 2022 17:37:04 +0530",
-         "title" : "World chess body FIDE suspends Russia and Belarus from its official events"
-      },
-      {
          "description" : "The Certificates for NATIONAL SENIOR CHESS CHAMPIONSHIPS 25 FEB-03 MARCH 2022 are now available for download. You can download the certificate from the following link",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1714,14 +1706,6 @@ news_feed (
          "title" : "FIDE Grand Prix Belgrade Finals: Game One Recap"
       },
       {
-         "description" : " <p class=\"lead\">Dmitry Andreikin and Richard Rapport drew their first game in the finals of the Belgrade Grand Prix <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-12_19-41-58.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-12_19-42-02.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-12_19-42-05.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-12_19-42-23.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldches",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/belgrade-grand-prix-finals-game-one-recap/",
-         "pubDate" : "Sat, 12 Mar 2022 18:48:13 +0000",
-         "title" : "Belgrade Grand Prix Finals: Game One Recap"
-      },
-      {
          "description" : "With GM Dmitry Andreikin&#39;s surprising ousting of GM Anish Giri in yesterday&#39;s rapid play tiebreaker, a final against Hungarian GM Richard Rapport was set in place at the 2022 FIDE Grand Prix&#38;nbsp;in Belgrade. Rapport had, of course, previously eli...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1808,14 +1792,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-semifinal-tiebreaker",
          "pubDate" : "Fri, 11 Mar 2022 10:19:00 -0800",
          "title" : "2022 FIDE Grand Prix Belgrade Semifinal Tiebreaker: Andreikin Wins"
-      },
-      {
-         "description" : "The Collegiate Chess League is officially over halfway through its fourth season. With only three rounds remaining, teams are already fighting for playoff spots, and every match from now on is even more important for the teams&#39; standings leading u...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-round-4",
-         "pubDate" : "Fri, 11 Mar 2022 09:50:44 -0800",
-         "title" : "Collegiate Chess League Season 4 Round 4"
       },
       {
          "description" : " One of my students, who read through my last piece here at the Chess Improver, mentioned that I had not brought up a teaching method I used for calculation training. Chess comes down to thinking ahead and having the ability to do so! All the strategic and tactical skills in the world won't help you <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-four/\">A Foundation for Beginners Fifty Four</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.",
@@ -1978,36 +1954,12 @@ news_feed (
          "title" : "FIDE Grand Prix Belgrade - Knockout: Day One Recap"
       },
       {
-         "description" : "In his \"Game of the Week\" show #506, Merijn van Delft shows how Richard Rapport, who is known for his creative play, played on the queenside, in the center and on the kingside to win a crucial game against Vidit at the FIDE Grand Prix in Belgrade. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-506-r-rapport-vs-s-vidit",
-         "pubDate" : "Wed, 09 Mar 2022 17:00:00 +0100",
-         "title" : "Game of the Week #506: R. Rapport vs S. Vidit"
-      },
-      {
          "description" : " The term Grandmaster Draw most likely brings a sad image to your mind. Two lazy Grandmasters are leaving the table after only a couple of Minutes and another Berlin defense move-repetition. This is not wrong, but also not entirely right. Even though most quick draws between Grandmasters look similar, the energy &#38; motivation behind them [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/grandmaster-draw-explained/\">Grandmaster Draws Explained</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "http://nextlevelchess.blog/grandmaster-draw-explained/",
          "pubDate" : "Wed, 09 Mar 2022 15:00:00 +0000",
          "title" : "Grandmaster Draws Explained"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90106247.cms\" />After coming close to winning a few over-the-board (OTB) events in the last one year, Grandmaster SL Narayanan crossed the finish line by bagging the Grandiscacchi Cattolica International Open in Cattolica, Italy on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-aim-is-to-cross-the-2700-elo-rating-narayanan/articleshow/90106247.cms",
-         "pubDate" : "Wed, 09 Mar 2022 20:04:48 +0530",
-         "title" : "The aim is to cross the 2700 ELO rating: Narayanan"
-      },
-      {
-         "description" : "The Italian Spring Tour 2022 features four strong tournaments. One of them is the 1st Grandiscacchi Cattolica International which ended with an Indian double victory. After nine rounds seven players shared first place with 6.5/9 each, but S.L. Narayanan (pictured) had the best tiebreak and won the tournament. Praggnanandhaa finished second. | Photo: ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/s-l-narayanan-wins-cattolica-international",
-         "pubDate" : "Wed, 09 Mar 2022 14:53:56 +0100",
-         "title" : "S.L. Narayanan wins Cattolica International"
       },
       {
          "description" : " This week Andrew and I ran three Master Chess Web Shows, the agendas being as follows: Monday The Monday show is devoted to readers' questions, with these three being addressed: 1) How should Black play against the 3.e5 Bf5 4.Ne2 e6 5.Ng3 Bg6 6.h4 line of the Caro-Kann? 2) What is the best ever King's <a href=\"https://chessimprover.com/master-chess-web-show-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-4/\">Master Chess Web Show (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2040,14 +1992,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1623",
          "pubDate" : "Tue, 08 Mar 2022 15:49:38 +0000",
          "title" : "Women's Speed Chess Championship 20202 announced"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90083267.cms\" />Aggression is one of the strengths of India's chess sensation R Praggnanandhaa but improving his time management skills is one of the areas where the teenager will have to work on, said his coach RB Ramesh.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/there-is-still-room-for-improvement-in-praggnanandhaas-game-says-coach-ramesh/articleshow/90083267.cms",
-         "pubDate" : "Tue, 08 Mar 2022 21:03:51 +0530",
-         "title" : "There is still room for improvement in Praggnanandhaa's game, says coach Ramesh"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/724979b0-5ccb-4e03-812c-81df0296a302/Jen2.jpg\" data-image-dimensions=\"511x259\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6227664e4501d34983a22d8a\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/724979b0-5ccb-4e03-812c-81df0296a302/Jen2.jpg?format=1000w\" /> </figure> <p class=\"\">My guest today is Jen Shahade. Jen, is a champion chess and poker player, an author, an award winning podcaster and the Woman's Program Director at US Chess. It was the perfect time ",
@@ -2216,14 +2160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1615",
          "pubDate" : "Fri, 04 Mar 2022 20:40:43 +0000",
          "title" : "Salinas Herrera and Gomez Barrera win Chilean Championships"
-      },
-      {
-         "description" : " After the cancellation of the 2022 Moscow Olympiad, FIDE have requested bids from other federations. At this stage it appears India have submitted a bid, but there is still a few days left for other federations to bid. I have heard (third hand I think), that at least 2 European federations are considering bids, while a suggested Middle East bid may not be feasible due to the short notice. Although I am pretty sure that the FIDE Federations won't be part of the decision (due to the urgency of finding a venue), India would at least make travel quicker and cheaper. And based on comments I heard at a conference I attended this evening, the Asian Chess Federation (and countries) would strongly s",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/2022-olympiad-speculation.html",
-         "pubDate" : "Fri, 04 Mar 2022 13:18:00 +0000",
-         "title" : "2022 Olympiad speculation"
       }
    ]
 }
