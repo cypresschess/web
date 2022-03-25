@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third round of leg three of the 2022 FIDE Grand Prix&#38;nbsp;produced only one decisive game. With today&#38;rsquo;s win, GM Vincent Keymer joins GM Leinier Dominguez Perez in the lead in Group B. All the other games ended in draws and so the other g...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-round-3",
+         "pubDate" : "Thu, 24 Mar 2022 19:32:09 -0700",
+         "title" : "2022 FIDE Grand Prix Berlin Leg 3, R3: Keymer Wins, Nakamura Escapes"
+      },
+      {
+         "description" : "FIDE Grand Prix Berlin 2022&#xA0;is the final leg of the Grand Prix series that will determine the participants in the&#xA0;Candidates Chess 2022. With&#xA0;Richard Rapport&#xA0;practically qualified after winning the&#xA0;Belgrade Grand Prix, just one spot is available for grabs. Replay games / See players videos The third leg of the FIDE World Chess Grand Prix got off []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-grand-prix-berlin-the-first-three-rounds/",
+         "pubDate" : "Fri, 25 Mar 2022 01:46:25 +0000",
+         "title" : "FIDE Grand Prix Berlin - the first three rounds"
+      },
+      {
+         "description" : "Jan-Krzysztof Duda, one of the 8 players to compete in the Candidates Chess 2022, is in the finals of the Charity Cup 2022. He is going to meet Magnus Carlsen at the finals and celebrated it tweeting &#8220;Is there something better then two days practice with world champion and get paid for that?&#8221; Indeed, it []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/practice-with-the-world-chess-champion-and-get-paid-for-that-tweetoftheday/",
+         "pubDate" : "Fri, 25 Mar 2022 01:30:30 +0000",
+         "title" : "Practice with the World Chess Champion&hellip; and get paid for that! #TweetOftheDay"
+      },
+      {
+         "description" : " <p class=\"lead\">The local hero Vincent Keymer outplayed Daniil Dubov and joined Leinier Dominguez in the lead of Pool B. The rest of the games finished in a draw in the third round of the final stage of the Grand Prix series, thus Levon Aronian, Alexandr Predke, and Nikita Vitiugov kept their lead in other groups. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220324165117_IMG_4575.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220324182332_IMG_4658.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/2022032419",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-berlin-round-3-recap/",
+         "pubDate" : "Fri, 25 Mar 2022 00:34:27 +0000",
+         "title" : "FIDE Grand Prix Berlin - Round 3 Recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1657",
+         "pubDate" : "Thu, 24 Mar 2022 22:58:49 +0000",
+         "title" : "FIDE Grand Prix Berlin - Round 3 Recap"
+      },
+      {
          "description" : "Polish star Jan-Krzysztof Duda&#xA0;reached his first&#xA0;Meltwater Champions Chess Tour&#xA0;final today with a gritty win over the in-form Liem Quang Le. The 23-year-old World Cup winner&#xA0;will face World Champion Magnus Carlsen in the Charity Cup finale after the overall Tour leader dispatched Ding Liren, of China. Duda has built a reputation&#xA0;as Carlsen's&#xA0;&#8220;nemesis&#8221; having ended the&#xA0;world No.1's []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -186,7 +226,7 @@ news_feed (
          "title" : "Martinez Wins Arena Kings Season 9 Week 7"
       },
       {
-         "description" : "Magnus Carlsen and Liem Quang Le, the two form horses, both put in&#xA0;dominant performances&#xA0;today to storm&#xA0;into the semi-finals of the Charity Cup. Carlsen&#xA0;clinched a 2.5-0.5 victory over&#xA0;the young American hope Hans Niemann&#xA0;to go through to the next stage of the UNICEF fundraiser with a game to spare. More about Charity Cup:&#xA0;Charity Cup 2022 participants and []",
+         "description" : "Magnus Carlsen and Liem Quang Le, the two form horses, both put in&#160;dominant performances&#160;today to storm&#160;into the semi-finals of the Charity Cup. Carlsen&#160;clinched a 2.5-0.5 victory over&#160;the young American hope Hans Niemann&#160;to go through to the next stage of the UNICEF fundraiser with a game to spare. More about Charity Cup:&#160;Charity Cup 2022 participants and []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/carlsen-vs-ding-and-liem-vs-duda-are-the-quarterfinals-of-the-charity-cup/",
@@ -344,22 +384,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/aronian-shocks-nakamura-as-final-berlin-gp-begins",
          "pubDate" : "Wed, 23 Mar 2022 09:45:00 +0000",
          "title" : "Aronian shocks Nakamura as final Berlin GP begins"
-      },
-      {
-         "description" : "A frantic end to the Charity Cup's Prelim stage saw Indian teen Praggnanandhaa narrowly miss out on&#160;a place in the knockout as&#160;Magnus Carlsen and Liem Quang Le sailed through. Pragg, the wonderkid from Chennai, had put himself in pole position to qualify with a stunning penultimate round win over World Cup winner Jan-Krzysztof Duda. More []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/le-quang-liem-wins-the-prelims-of-charity-cup/",
-         "pubDate" : "Wed, 23 Mar 2022 07:24:31 +0000",
-         "title" : "Le Quang Liem wins the Prelims of Charity Cup"
-      },
-      {
-         "description" : "Russian grandmaster Alexander Grischuk was quoted by Sports.ru on the decision of the International Chess Federation (FIDE) to ban Sergey Karyakin for six months. &#8220;Although I personally disagree with Sergey, I think that a person should have the right to express his opinion. [&#x2026;] When they first started talking about a possible disqualification, I thought []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grischuk-comments-on-the-ban-of-karjakin/",
-         "pubDate" : "Wed, 23 Mar 2022 06:52:04 +0000",
-         "title" : "Grischuk comments on the ban of Karjakin"
       },
       {
          "description" : "In an exciting first round, the third leg of the Grand Prix series saw four players getting off to winning starts at Berlin's Unter den Linden. Levon Aronian and Leinier Dominguez got crucial wins against direct contenders Hikaru Nakamura and Daniil Dubov, while Nikita Vitiugov got the better of Amin Tabatabaei, the lowest-rated player in pool D. The most surprising result of the day was Alexandr Predke's win over Maxime Vachier-Lagrave. | Photos: World Chess",
@@ -1682,14 +1706,6 @@ news_feed (
          "title" : "FIDE and FFE host international conference \"Chess for Mental Health\""
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/T34-dZEPaqs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-final-game-1/",
-         "pubDate" : "Sat, 12 Mar 2022 13:43:06 +0000",
-         "title" : "FIDE Grand Prix in Belgrade: Final Game 1"
-      },
-      {
          "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. Going into the final game, Howell leads by a 5-4 score. Game 10 starts Saturday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1840,14 +1856,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1629",
          "pubDate" : "Thu, 10 Mar 2022 21:19:32 +0000",
          "title" : "FIDE Grand Prix Belgrade - Knockout: Day Two Recap"
-      },
-      {
-         "description" : "Wednesday&#39;s games of the 2022 FIDE Grand Prix&#38;nbsp;in Belgrade saw GM Richard Rapport win with the white pieces against GM Maxime Vachier-Lagrave, whereas the game between GM Anish Giri and GM Dmitry Andreikin ended in a draw after wild complicati...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-semifinals-day-2",
-         "pubDate" : "Thu, 10 Mar 2022 11:52:00 -0800",
-         "title" : "2022 FIDE Grand Prix Belgrade Semifinals Day 2: Rapport Magic"
       },
       {
          "description" : "Samuel Sevian took down former sole leader Ray Robson in round 8 of the Saint Louis Spring Classic. Going into Thursday's final round, Sevian is sharing first place with Ukrainian GM Ilya Nyzhnyk, who got the better of Aram Hakobyan in round 8. | Round 9 starts Thursday at 11:00 local time (18:00 CET, 17:00 UTC) with live commentary from the Saint Louis Chess Center.",
@@ -2208,14 +2216,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-suspends-the-russian-and-belarusian-chess-federations/",
          "pubDate" : "Fri, 04 Mar 2022 06:50:46 +0000",
          "title" : "ECU suspends the Russian and Belarusian Chess Federations."
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1614",
-         "pubDate" : "Fri, 04 Mar 2022 00:42:13 +0000",
-         "title" : "Indian Championships: Erigaisi and Deshmukh clinch titles"
       }
    ]
 }
