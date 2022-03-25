@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the one game that had a decisive result in round 3 of the Berlin Grand Prix, 17-year-old Vincent Keymer defeated Daniil Dubov to catch Leinier Dominguez in the lead of pool B. In pool A, Grigoriy Oparin managed to get a clearly superior position against Hikaru Nakamura, but failed to finish the US grandmaster off in a tactical middlegame. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r3",
+         "pubDate" : "Fri, 25 Mar 2022 05:30:00 +0100",
+         "title" : "Berlin GP: Keymer outplays Dubov"
+      },
+      {
          "description" : "The third round of leg three of the 2022 FIDE Grand Prix&#38;nbsp;produced only one decisive game. With today&#38;rsquo;s win, GM Vincent Keymer joins GM Leinier Dominguez Perez in the lead in Group B. All the other games ended in draws and so the other g...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-round-3",
-         "pubDate" : "Thu, 24 Mar 2022 19:32:09 -0700",
+         "pubDate" : "Thu, 24 Mar 2022 19:32:00 -0700",
          "title" : "2022 FIDE Grand Prix Berlin Leg 3, R3: Keymer Wins, Nakamura Escapes"
       },
       {
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/george-henry-mackenzie-the-forgotten-american-chess-ace-march-24-1837-april-14-1891",
          "pubDate" : "Thu, 24 Mar 2022 15:33:23 +0100",
          "title" : "George Henry Mackenzie: The Forgotten American Chess Ace (March 24, 1837-April 14, 1891)"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
-         "pubDate" : "Thu, 24 Mar 2022 14:50:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/RBf8aIeN660?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -2208,14 +2208,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/2022-olympiad-speculation.html",
          "pubDate" : "Fri, 04 Mar 2022 13:18:00 +0000",
          "title" : "2022 Olympiad speculation"
-      },
-      {
-         "description" : "The&#160;Board of&#160;the&#160;European Chess Union&#160;met in extraordinary session on Thursday 3rd of March to discuss the situation in Ukraine and appropriate measures. The European Chess Union strongly condemns the Russian invasion of Ukraine, the involvement of Belarus and expresses its solidarity and support for the Ukrainian people. We feel deep sorrow for all the victims of the war and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-suspends-the-russian-and-belarusian-chess-federations/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-suspends-the-russian-and-belarusian-chess-federations/",
-         "pubDate" : "Fri, 04 Mar 2022 06:50:46 +0000",
-         "title" : "ECU suspends the Russian and Belarusian Chess Federations."
       }
    ]
 }
