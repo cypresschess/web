@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen is on the brink of winning a second Meltwater Champions Chess Tour event in a row after a near-flawless performance in the first match of the Charity Cup final. The World Champion and reigning Tour Champion was at his imperious best as he dispatched Poland's World Cup winner Jan-Krzysztof Duda in just three []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-takes-lead-over-duda-in-charity-cup-final/",
+         "pubDate" : "Sat, 26 Mar 2022 07:03:24 +0000",
+         "title" : "Carlsen takes lead over Duda in Charity Cup final"
+      },
+      {
          "description" : "The fourth round of leg three of the 2022 FIDE Grand Prix&#38;nbsp;saw no fewer than five decisive games.&#38;nbsp;GM Grigoriy Oparin&#39;s win in Group A means that he takes the lead. In the same group, GM Hikaru Nakamura&#38;nbsp;defeated GM Levon Aronian&#38;nbsp;...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-round-4",
          "pubDate" : "Fri, 25 Mar 2022 19:03:00 -0700",
          "title" : "Nakamura Wins On Demand: 2022 FIDE Grand Prix Berlin Leg 3, Round 4"
+      },
+      {
+         "description" : "The&#160;Charity Chess Cup 2022, the 2nd event on the Meltwater Champions Chess Tour, starts this Saturday March 19th and will be featured with live games, video, and detailed coverage on Chessdom.com. Magnus Carlsen, the reigning World Champion, 2021 Tour Champion and&#160;winner of the first event of the 2022 Tour, will return along with a total []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/charity-chess-cup-2022-live/",
+         "pubDate" : "Sat, 26 Mar 2022 01:15:00 +0000",
+         "title" : "Charity Chess Cup 2022 LIVE"
       },
       {
          "description" : "Magnus Carlsen is close to winning a 2nd Meltwater Champions Chess Tour event in a row after scoring a 2.5:0.5 victory over Jan-Krzysztof Duda on Day 1 of the Charity Cup final. The first game was a nail-biting draw before Magnus won the next two games that he described as \"exceptionally interesting from a strategic point of view\". Duda's task now is to win Saturday's match on demand and force tiebreaks.",
@@ -258,7 +274,7 @@ news_feed (
          "title" : "FIDE Grand Prix Berlin - Round 3 Recap"
       },
       {
-         "description" : "Polish star Jan-Krzysztof Duda&#xA0;reached his first&#xA0;Meltwater Champions Chess Tour&#xA0;final today with a gritty win over the in-form Liem Quang Le. The 23-year-old World Cup winner&#xA0;will face World Champion Magnus Carlsen in the Charity Cup finale after the overall Tour leader dispatched Ding Liren, of China. Duda has built a reputation&#xA0;as Carlsen's&#xA0;&#8220;nemesis&#8221; having ended the&#xA0;world No.1's []",
+         "description" : "Polish star Jan-Krzysztof Duda&#160;reached his first&#160;Meltwater Champions Chess Tour&#160;final today with a gritty win over the in-form Liem Quang Le. The 23-year-old World Cup winner&#160;will face World Champion Magnus Carlsen in the Charity Cup finale after the overall Tour leader dispatched Ding Liren, of China. Duda has built a reputation&#160;as Carlsen's&#160;&#8220;nemesis&#8221; having ended the&#160;world No.1's []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/magnus-carlsen-jan-krzysztof-duda-is-the-charity-cup-2022-final/",
@@ -538,14 +554,6 @@ news_feed (
          "title" : "Charity Cup: Anton wins three in a row to reach knockout"
       },
       {
-         "description" : "After the third double round robin of the Top Chess Engine Championship S22 Premier Division KomodoDragon has reduced the distance with Stockfish to just half a point. The open source chess engine Stockfish is still in the lead with 28,0/42 (14 wins, 28 draws, 0 losses), while KomodoDragon is second with 27,5/42 (15 wins, 25 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/komododragon-reduces-distance-with-stockfish-to-just-half-a-point/",
-         "pubDate" : "Wed, 23 Mar 2022 11:52:19 +0000",
-         "title" : "KomodoDragon reduces distance with Stockfish to just half a point"
-      },
-      {
          "description" : "Magnus Carlsen was furious with himself for missing a win against Liem Quang Le but conceded, \"clearly the highlight of the Preliminaries is Liem's performance and play,\" as his opponent went on to finish top. A thrilling climax saw Vidit, Praggnanandhaa and Richard Rapport just miss out on the quarterfinals as Hans Niemann and David Navara made it through. It's Le-Navara, Carlsen-Niemann, Anton-Duda and Ding-Van Foreest in Wednesday's quartefinalfinals.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -560,14 +568,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mircea-parligras-and-alessia-ciolacu-are-the-new-romanian-champions",
          "pubDate" : "Wed, 23 Mar 2022 12:00:00 +0100",
          "title" : "Mircea Parligras and Alessia Ciolacu are the new Romanian Champions"
-      },
-      {
-         "description" : "The&#xA0;Charity Chess Cup 2022, the 2nd event on the Meltwater Champions Chess Tour, starts this Saturday March 19th and will be featured with live games, video, and detailed coverage on Chessdom.com. Magnus Carlsen, the reigning World Champion, 2021 Tour Champion and&#xA0;winner of the first event of the 2022 Tour, will return along with a total []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/charity-chess-cup-2022-live/",
-         "pubDate" : "Wed, 23 Mar 2022 10:22:00 +0000",
-         "title" : "Charity Chess Cup 2022 LIVE"
       },
       {
          "description" : "GM David Navara&#38;nbsp;just made it into the knockout phase of the&#38;nbsp;Charity Cup&#38;nbsp;as the Czech GM had the better tiebreak over GM&#38;nbsp;Richard Rapport&#38;nbsp;and GM&#38;nbsp;Praggnanandhaa R.,&#38;nbsp;who won a brilliant game in the penultimate round....",
