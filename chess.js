@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Due to recent events, in these times of turmoil that have divided the world, I will this time not speak on behalf of the WFCC, but on behalf of my own, my personal opinion. | Photos: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-gens-una-sumus-friendship-tourneys",
+         "pubDate" : "Sat, 26 Mar 2022 16:00:00 +0100",
+         "title" : "Study of the Month - Gens una sumus: Friendship tourneys"
+      },
+      {
+         "description" : "The European Individual Chess Championship 2022 opens today and takes place from 26th March 6th April in Terme Catez, Slovenia. The European Individual Chess Championship 2022 is a qualifying event for the FIDE World Cup 2023. &#160;According to FIDE regulations for World Cup and the ECU Board decision, 20 players will qualify. 320 players coming from about&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2022-opens-today/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2022-opens-today/",
+         "pubDate" : "Sat, 26 Mar 2022 13:16:41 +0000",
+         "title" : "European Individual Chess Championship 2022 opens today"
+      },
+      {
+         "description" : " A few years ago I mentioned a game called Smess (AKA Ninny Chess, or All the King's Men). It is a board game very similar to chess, but with different game mechanics and strategies. A similar game (invented around the same time) was Ploy. Ploy was a 2 or 4 player game, where the direction the pieces could move was imprinted on the piece itself (each piece was a disk). Some pieces had a single direction, while more powerful pieces had 2,3 or 4 directions. However, the pieces could be rotated, instead of moving, to enable them to move in entirely different directions. Although the game is out of print, it can be played at various online game platforms. In my old collection of board game books",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/games-that-are-chess-like.html",
+         "pubDate" : "Sat, 26 Mar 2022 12:36:00 +0000",
+         "title" : "Games that are chess \"like\""
+      },
+      {
          "description" : "Two quiet rounds were followed by a day full of excitement at the third leg of the FIDE Grand Prix. Five games finished decisively, and remarkably three of the winners beat the players who had defeated them in the first round of the event - i.e. Hikaru Nakamura beat Levon Aronian, Maxime Vachier-Lagrave beat Alexandr Predke, and Amin Tabatabaei beat Nikita Vitiugov. Grigoriy Oparin and Shakhriyar Mamedyarov also scored full points, leaving the field wide open with two rounds to go. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-charity-cup-final-match-1",
-         "pubDate" : "Sat, 26 Mar 2022 02:51:24 -0700",
+         "pubDate" : "Sat, 26 Mar 2022 02:51:00 -0700",
          "title" : "Charity Cup Day 7: Carlsen Leads In Final After 'Fascinating' 1st Match"
       },
       {
@@ -2010,14 +2034,6 @@ news_feed (
          "title" : "The First Global Interactive Community Chess Simul"
       },
       {
-         "description" : "At the beginning of February, the now 12-year old chess talent Tykhon Cherniaiev from Ukraine was about to start a new show on ChessBase called \"Challenge Cherniaiev\". But then Russia invaded Ukraine and Tykhon and his family had to flee from their home in Kharkiv. Fortunately, many chess fans offered help and Tykhon and his family are now safely housed in a ChessBase flat in Hamburg.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tykhon-is-safe",
-         "pubDate" : "Thu, 10 Mar 2022 16:23:37 +0100",
-         "title" : "Tykhon is safe!"
-      },
-      {
          "description" : " One of the most famous games in chess history is the Morphy 'Opera Box Game'. I often show it to students I coach, and now know it off by heart. I even thought I knew it when I was a lot younger, but it seems that I only knew the first few moves, and forgot the rest! <br /> <b>Press,Shaun - Mathe,Richard [C41]</b><br />ACT Junior Championship, 19.11.1983 <script>new PgnViewer( { boardName: \"game1316\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 d6 3.d4 Bg4 4.dxe5 Bxf3 5.Qxf3 dxe5 6.Bc4 Nf6 7.O-O Qd4 8.Bd3 Nc6 9.Nc3 a6 10.Rd1 Qd6 11.Be3 Qe7 12.Bc4 h6 13.Nd5 Nxd5 14.Bxd5 Na5 15.Bd2 c6 16.Bxa5 cxd5 17.exd5 Qc5 18.Bc3 O-O-O 19.Bxe5 Qxc2 20.Rac1 Qxc1 21.Rxc1+ Kd7 22.Qxf7+ Be7 23.d6 Rhe8 24.",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2152,14 +2168,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/international-womens-day-2/",
          "pubDate" : "Tue, 08 Mar 2022 10:50:12 +0000",
          "title" : "International Women's Day"
-      },
-      {
-         "description" : "ECU E-Magazine February 2022 is out. In this edition of the ECU Magazine you may read about: ECU extraordinary Board Meeting decisions Establishment of #SupportUkraineChess communication channel European Women's Chess Gala FIDE Grand Prix 2022 events in Berlin and Belgrade Invitation for bids for ECU events in 2024 Arbiters Corner Fun Zone The February 2022 edition of&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-february-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-february-2022/",
-         "pubDate" : "Tue, 08 Mar 2022 09:06:08 +0000",
-         "title" : "ECU E-MAGAZINE FEBRUARY 2022"
       },
       {
          "description" : "",
