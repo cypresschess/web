@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen continued with his amazing performance in the Charity Cup final. After defeating 2,5:0,5 Duda yesterday, he started the second days of the final with a beautiful game , sacrificing the knight on e4. More about Charity Cup:&#xA0;Charity Cup 2022 participants and preview&#xA0;/&#xA0;Charity Cup 2022 live&#xA0;/&#xA0;Charity Cup 2022 video)&#xA0;Round reports:&#xA0;Hans Niemann and Liem Quang []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-with-a-masterpiece-against-duda-replay-game/",
+         "pubDate" : "Sat, 26 Mar 2022 18:33:52 +0000",
+         "title" : "Magnus Carlsen with a masterpiece against Duda (replay game)"
+      },
+      {
+         "description" : "The European Individual Chess Championship 2022 will take place between 26 March and 7 April at Terme &#x10C;ate&#x17E; near Bre&#x17E;ice in Slovenia. The event is organized by the Chess Federation of Slovenia under the auspices of the European Chess Union (ECU). The official host of the championship is Hotel Spa; accommodation is also available in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-individual-chess-2022/",
+         "pubDate" : "Sat, 26 Mar 2022 18:17:00 +0000",
+         "title" : "European Individual Chess 2022"
+      },
+      {
+         "description" : "Five games out of eight ended with decisive results in Round 4 of the final stage of the Fide Grand Prix Series. In a crucial game for the overall Grand Prix standings,&#xA0;Hikaru Nakamura&#xA0;defeated&#xA0;Levon Aronian&#xA0;and caught up with him.&#xA0;Grigoriy Oparin&#xA0;outplayed&#xA0;Andrey Esipenko&#xA0;and took the lead in Pool A, leaving Levon and Hikaru half a point behind. The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nakamura-aronian-10-in-round-4-of-the-berlin-grand-prix/",
+         "pubDate" : "Sat, 26 Mar 2022 18:14:00 +0000",
+         "title" : "Nakamura - Aronian 1:0 in round 4 of the Berlin Grand Prix"
+      },
+      {
+         "description" : "The second event of the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Magnus Carlsen, Ding Liren and Richard Rapport head the 16-player field. The tournament is taking place on March 19-26, with the action kicking off daily at 18.00 CET (13.00 ET, 17.00 UTC, 22.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
+         "pubDate" : "Sat, 26 Mar 2022 17:50:00 +0100",
+         "title" : "Charity Cup Finals - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90464520.cms\" />National champion Arjun Erigaisi returned to the joint lead by defeating International Master Shyam Nikhil in the seventh round of the 19th Delhi International open chess tournament on Saturday. With this victory, Erigaisi joined Grandmasters Lalith Babu M R and Karthik Venkataraman who played out a draw against each other at the top of the table.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-back-in-joint-lead-at-delhi-international-open-chess/articleshow/90464520.cms",
+         "pubDate" : "Sat, 26 Mar 2022 15:57:23 +0000",
+         "title" : "Arjun Erigaisi back in joint lead at Delhi International Open"
+      },
+      {
          "description" : "Due to recent events, in these times of turmoil that have divided the world, I will this time not speak on behalf of the WFCC, but on behalf of my own, my personal opinion. | Photos: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/study-of-the-month-gens-una-sumus-friendship-tourneys",
          "pubDate" : "Sat, 26 Mar 2022 16:00:00 +0100",
          "title" : "Study of the Month - Gens una sumus: Friendship tourneys"
+      },
+      {
+         "description" : "With a 2&frac12;-&frac12; victory over Jan-Krzysztof Duda, Magnus Carlsen grabbed the lead in the finals of the Charity Cup. The world champion won games 2 and 3 to go into the second set of the match only needing a draw to secure tournament victory. All three encounters on Friday were hard-fought strategic battles, with Carlsen describing them as \"exceptionally interesting\". | Photo: Alina l'Ami (2017)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/charity-cup-2022-d7",
+         "pubDate" : "Sat, 26 Mar 2022 15:55:00 +0100",
+         "title" : "Charity Cup Finals: Carlsen gets clear win in first set"
       },
       {
          "description" : "The European Individual Chess Championship 2022 opens today and takes place from 26th March 6th April in Terme Catez, Slovenia. The European Individual Chess Championship 2022 is a qualifying event for the FIDE World Cup 2023. &#160;According to FIDE regulations for World Cup and the ECU Board decision, 20 players will qualify. 320 players coming from about&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2022-opens-today/\">Read More &#187;</a></span>",
@@ -111,7 +159,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/nakamura-takes-revenge-against-aronian-while-oparin-emerges-as-t/",
          "pubDate" : "Sat, 26 Mar 2022 00:37:06 +0000",
-         "title" : "Nakamura takes revenge against Aronian, while Oparin emerges as the sole leader in Pool A"
+         "title" : "Nakamura takes revenge against Aronian"
       },
       {
          "description" : "",
@@ -168,14 +216,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/from-300-to-1500-in-9-months",
          "pubDate" : "Fri, 25 Mar 2022 17:21:09 +0000",
          "title" : "How I went from 300-1500 in 9 months"
-      },
-      {
-         "description" : "The second event of the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Magnus Carlsen, Ding Liren and Richard Rapport head the 16-player field. The tournament is taking place on March 19-26, with the action kicking off daily at 18.00 CET (13.00 ET, 17.00 UTC, 22.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
-         "pubDate" : "Fri, 25 Mar 2022 17:50:00 +0100",
-         "title" : "Charity Cup Finals - Live!"
       },
       {
          "description" : "",
@@ -298,7 +338,7 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Berlin Leg 3, R3: Keymer Wins, Nakamura Escapes"
       },
       {
-         "description" : "FIDE Grand Prix Berlin 2022&#xA0;is the final leg of the Grand Prix series that will determine the participants in the&#xA0;Candidates Chess 2022. With&#xA0;Richard Rapport&#xA0;practically qualified after winning the&#xA0;Belgrade Grand Prix, just one spot is available for grabs. Replay games / See players videos The third leg of the FIDE World Chess Grand Prix got off []",
+         "description" : "FIDE Grand Prix Berlin 2022&#160;is the final leg of the Grand Prix series that will determine the participants in the&#160;Candidates Chess 2022. With&#160;Richard Rapport&#160;practically qualified after winning the&#160;Belgrade Grand Prix, just one spot is available for grabs. Replay games / See players videos The third leg of the FIDE World Chess Grand Prix got off []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-grand-prix-berlin-the-first-three-rounds/",
@@ -482,14 +522,6 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Berlin Leg 3, R2: 8 Draws"
       },
       {
-         "description" : "The players from the FIDE Grand Prix in Berlin give their opinion on the case of Sergey Karjakin. In a series of interviews by Dina Belenkaya, they share their thoughts on the ban and the whole situation around the Karjakin case. More:&#xA0;International Chess Federation FIDE banned Sergey Karjakin&#xA0;/&#xA0;Karjakin decided not to appeal&#xA0;/&#xA0;Candidates Chess 2022 in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-prix-players-comment-on-the-situation-with-karjakin/",
-         "pubDate" : "Wed, 23 Mar 2022 22:29:09 +0000",
-         "title" : "Grand Prix players comment on the situation with Karjakin"
-      },
-      {
          "description" : "Arena Kings returned on March 23 after a one-week hiatus as GM Jose Martinez came back from down 2-1 to defeat IM Renato Terry in an all-Peru final.&#38;nbsp;The semifinalists this week were&#38;nbsp;GM Sergey Zhigalko&#38;nbsp;and IM&#38;nbsp;Mahammad Muradli as...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -498,28 +530,12 @@ news_feed (
          "title" : "Martinez Wins Arena Kings Season 9 Week 7"
       },
       {
-         "description" : "Magnus Carlsen and Liem Quang Le, the two form horses, both put in&#160;dominant performances&#160;today to storm&#160;into the semi-finals of the Charity Cup. Carlsen&#160;clinched a 2.5-0.5 victory over&#160;the young American hope Hans Niemann&#160;to go through to the next stage of the UNICEF fundraiser with a game to spare. More about Charity Cup:&#160;Charity Cup 2022 participants and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-vs-ding-and-liem-vs-duda-are-the-quarterfinals-of-the-charity-cup/",
-         "pubDate" : "Wed, 23 Mar 2022 21:15:46 +0000",
-         "title" : "Carlsen vs Ding and Liem vs Duda are the quarterfinals of the Charity Cup"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> How did aspiring players become established Grandmasters? Explore their struggles, triumphs and unexpected twists on the path to the coveted Grandmaster Title. Taught by GM Denes Boros. 2022.03.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rise-rapport-how-become-grandmaster-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wV4gL0ti6fw.jpg?itok=yqadVP",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/rise-rapport-how-become-grandmaster-gm-denes-boros-lichessorg",
          "pubDate" : "Wed, 23 Mar 2022 21:10:56 +0000",
          "title" : "The Rise of The Rapport | How To Become a Grandmaster - GM Denes Boros | lichess.org"
-      },
-      {
-         "description" : "In an interview with Dina Belenkaya, Anish Giri was politically correct on the case of Karjakin. &#8220;This is unprecedented situation [] Always in such decisions you have sides that say it is not harsh enough and sides that say it is too harsh. You have the full spectrum.&#8221; However, Giri was critical of FIDE's regulations []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-is-politically-correct-on-karjakins-case-criticizes-candidates-replacement-procedure/",
-         "pubDate" : "Wed, 23 Mar 2022 20:54:41 +0000",
-         "title" : "Anish Giri is politically correct on Karjakin's case, criticizes Candidates replacement procedure"
       },
       {
          "description" : " <p class=\"lead\">Round 2 of the third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with 8 draws. GMs Levon Aronian, Leinier Dominguez, Alexandr Predke, and Nikita Vitiugov are still leading their Groups with 1.5/2. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-16.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220323151435_IMG_4230.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220323151332_IMG_4227.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"http",
@@ -2010,14 +2026,6 @@ news_feed (
          "title" : "FIDE Grand Prix Belgrade - Knockout: Day Two Recap"
       },
       {
-         "description" : "Samuel Sevian took down former sole leader Ray Robson in round 8 of the Saint Louis Spring Classic. Going into Thursday's final round, Sevian is sharing first place with Ukrainian GM Ilya Nyzhnyk, who got the better of Aram Hakobyan in round 8. | Round 9 starts Thursday at 11:00 local time (18:00 CET, 17:00 UTC) with live commentary from the Saint Louis Chess Center.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-spring-classic-2022",
-         "pubDate" : "Thu, 10 Mar 2022 17:45:00 +0100",
-         "title" : "Saint Louis Spring Classic 2022 - Games and results"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2256,14 +2264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1617",
          "pubDate" : "Sat, 05 Mar 2022 20:21:08 +0000",
          "title" : "Second season of FIDE Chessable Academy starts on Chessable Classroom"
-      },
-      {
-         "description" : " The Bundesliga 2021-22 season takes place Sat 5th Mar to Sun 10th Jul 2022. This accelerated German Bundesliga season will take just four months to complete. There are 16 teams and Baden Baden will again be favourites to win the title.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2021-22",
-         "pubDate" : "Sat, 5 Mar 2022 21:18:00 +0400",
-         "title" : "Bundesliga 2021-22 - "
       }
    ]
 }
