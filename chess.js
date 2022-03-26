@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two quiet rounds were followed by a day full of excitement at the third leg of the FIDE Grand Prix. Five games finished decisively, and remarkably three of the winners beat the players who had defeated them in the first round of the event - i.e. Hikaru Nakamura beat Levon Aronian, Maxime Vachier-Lagrave beat Alexandr Predke, and Amin Tabatabaei beat Nikita Vitiugov. Grigoriy Oparin and Shakhriyar Mamedyarov also scored full points, leaving the field wide open with two rounds to go. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r4",
+         "pubDate" : "Sat, 26 Mar 2022 11:40:00 +0100",
+         "title" : "Berlin GP: Wide open"
+      },
+      {
+         "description" : "On Friday GM Magnus Carlsen&#38;nbsp;convincingly won the first of two matches vs. GM Jan-Krzysztof Duda&#38;nbsp;in the final of the&#38;nbsp;2022 Charity Cup. Carlsen described the affair as &#34;fascinating&#34; and the last two games as &#34;exceptionally interesting...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-charity-cup-final-match-1",
+         "pubDate" : "Sat, 26 Mar 2022 02:51:24 -0700",
+         "title" : "Charity Cup Day 7: Carlsen Leads In Final After 'Fascinating' 1st Match"
+      },
+      {
+         "description" : "My late friend Tony Buzan, educational guru and inventor of Mind Maps also developed the concept of the Mastermind Group: individuals who, for various reasons, could prove a source of personal inspiration and motivation. My youthful Mastermind group (I had at an early age stumbled on the idea, if not the nomenclature) included the musical genius []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/napoleon-beethoven-and-the-turk/",
+         "pubDate" : "Sat, 26 Mar 2022 09:03:44 +0000",
+         "title" : "Napoleon, Beethoven and the Turk"
+      },
+      {
+         "description" : "The 7th Rapid Chess Championship of the Francophonie was organized this year on March 19 &#38; 20 jointly by the Lyon Olympique Echecs and the Francophone Chess Association (AIDEF) in partnership with the Auvergne-Rh&#xF4;ne-Alpes Region, in the premises of the magnificent Hotel of Region, informs the ECU official website. It brought together 169 participants from []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/maxime-lagarde-is-francophone-rapid-chess-champion/",
+         "pubDate" : "Sat, 26 Mar 2022 08:49:58 +0000",
+         "title" : "Maxime Lagarde is Francophone Rapid Chess Champion"
+      },
+      {
+         "description" : "In the diagrammed position Black found a fantastic way to make White's loose position collapse - please follow in the footsteps of Rustam Kasimdzhanov!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-classic",
+         "pubDate" : "Sat, 26 Mar 2022 09:00:00 +0100",
+         "title" : "Bundesliga classic"
+      },
+      {
          "description" : "Magnus Carlsen is on the brink of winning a second Meltwater Champions Chess Tour event in a row after a near-flawless performance in the first match of the Charity Cup final. The World Champion and reigning Tour Champion was at his imperious best as he dispatched Poland's World Cup winner Jan-Krzysztof Duda in just three []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -136,14 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-2022-junior-speed-chess-championship",
          "pubDate" : "Fri, 25 Mar 2022 07:00:00 -0700",
          "title" : "Announcing The 2022 Junior Speed Chess Championship"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
-         "pubDate" : "Fri, 25 Mar 2022 14:50:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/06cc653c-ca87-48f3-b47f-a636ed26e99e/mammoth3.jpg\" data-image-dimensions=\"550x276\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"623de366654dd52be017e093\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/06cc653c-ca87-48f3-b47f-a636ed26e99e/mammoth3.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">I was joined by guest co-host Christopher Chabris, and we were paid a visit by the co-author and editor, FM Graham Burgess </figcaption> </fi",
@@ -528,14 +560,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-35",
          "pubDate" : "Wed, 23 Mar 2022 14:00:00 +0100",
          "title" : "Svitlana's Smart Moves - How to play with, and against hanging pawns"
-      },
-      {
-         "description" : "The International Chess Federation FIDE banned yesterday Sergey Karjakin from all its events. As Karjakin decided not to appeal, this means he will not be able to participate&#160;in&#160;Candidates Chess 2022. (See who can substitute Karjakin in the Candidates here). This is another blow for Russia after the&#160;Chess Olympiad 2022 was moved to India&#160;and&#160;Russian and Belarus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kremlin-reacts-to-the-ban-of-sergey-karjakin/",
-         "pubDate" : "Wed, 23 Mar 2022 12:45:02 +0000",
-         "title" : "Kremlin reacts to the ban of Sergey Karjakin"
       },
       {
          "description" : "A list of athletes who retired on their terms, at their peak, much like Ashleigh Barty did on Wednesday.",
@@ -1746,14 +1770,6 @@ news_feed (
          "title" : "Rapid Chess Championship Week 5: Nakamura Bests Aronian"
       },
       {
-         "description" : "On the first day&#38;nbsp;of the final in the second leg of the 2022 FIDE Grand Prix&#38;nbsp;in Belgrade, Russian GM Dmitry Andreikin and Hungarian GM Richard Rapport played a solid, correct draw. After his dramatic last-round win of the pool play agains...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-final-day-2-rapport-wins",
-         "pubDate" : "Sun, 13 Mar 2022 13:09:00 -0700",
-         "title" : "2022 FIDE Grand Prix Belgrade Final Day 2: Rapport Gambles And Wins"
-      },
-      {
          "description" : "Sixth seed IM Neelash Saha of West Bengal and top seed WIM Priyanka Nutakki of Andhra Pradesh becomes national junior champions in the MPL National",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2002,14 +2018,6 @@ news_feed (
          "title" : "Tykhon is safe!"
       },
       {
-         "description" : "Garry Kasparov has long been an avowed opponent of Vladimir Putin, and in 2015 he issued a strong warning about Putin and his political aims in his book \"Winter is Coming\". In an interview with the American TV programme \"Amanpour and Company\", Kasparov now talks about the war in Ukraine, Putin's political rise, the failure of the West to oppose Putin and possible sanctions against Russia. Passionate, informed and eloquent.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/garry-kasparov-on-russia-s-attack-on-ukraine",
-         "pubDate" : "Thu, 10 Mar 2022 14:35:00 +0100",
-         "title" : "Garry Kasparov on Russia's Attack on Ukraine"
-      },
-      {
          "description" : " One of the most famous games in chess history is the Morphy 'Opera Box Game'. I often show it to students I coach, and now know it off by heart. I even thought I knew it when I was a lot younger, but it seems that I only knew the first few moves, and forgot the rest! <br /> <b>Press,Shaun - Mathe,Richard [C41]</b><br />ACT Junior Championship, 19.11.1983 <script>new PgnViewer( { boardName: \"game1316\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 d6 3.d4 Bg4 4.dxe5 Bxf3 5.Qxf3 dxe5 6.Bc4 Nf6 7.O-O Qd4 8.Bd3 Nc6 9.Nc3 a6 10.Rd1 Qd6 11.Be3 Qe7 12.Bc4 h6 13.Nd5 Nxd5 14.Bxd5 Na5 15.Bd2 c6 16.Bxa5 cxd5 17.exd5 Qc5 18.Bc3 O-O-O 19.Bxe5 Qxc2 20.Rac1 Qxc1 21.Rxc1+ Kd7 22.Qxf7+ Be7 23.d6 Rhe8 24.",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2248,14 +2256,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2021-22",
          "pubDate" : "Sat, 5 Mar 2022 21:18:00 +0400",
          "title" : "Bundesliga 2021-22 - "
-      },
-      {
-         "description" : "The Russian President, Vladimir Putin, has in the past earned grudging admiration from some quarters for his presumed geopolitical strategic \"chess\" skills. In particular, his annexation of Crimea, while successfully maintaining lucrative energy sales to western democracies. Now, though, the new heir to Ivan the Terrible has switched to poker, with notably less facility. Chess is primarily []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/but-i-am-a-ukrainian/",
-         "pubDate" : "Sat, 05 Mar 2022 11:29:23 +0000",
-         "title" : "'But I am a Ukrainian'"
       }
    ]
 }
