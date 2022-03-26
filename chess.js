@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth round of leg three of the 2022 FIDE Grand Prix&#38;nbsp;saw no fewer than five decisive games.&#38;nbsp;GM Grigoriy Oparin&#39;s win in Group A means that he takes the lead. In the same group, GM Hikaru Nakamura&#38;nbsp;defeated GM Levon Aronian&#38;nbsp;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-round-4",
+         "pubDate" : "Fri, 25 Mar 2022 19:03:00 -0700",
+         "title" : "Nakamura Wins On Demand: 2022 FIDE Grand Prix Berlin Leg 3, Round 4"
+      },
+      {
+         "description" : "Magnus Carlsen is close to winning a 2nd Meltwater Champions Chess Tour event in a row after scoring a 2.5:0.5 victory over Jan-Krzysztof Duda on Day 1 of the Charity Cup final. The first game was a nail-biting draw before Magnus won the next two games that he described as \"exceptionally interesting from a strategic point of view\". Duda's task now is to win Saturday's match on demand and force tiebreaks.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/charity-cup-final-1-carlsen-leads-after-exceptionally-interesting-games",
+         "pubDate" : "Sat, 26 Mar 2022 00:37:54 +0000",
+         "title" : "Charity Cup Final 1: Carlsen leads after \"exceptionally interesting\" games"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1660",
+         "pubDate" : "Sat, 26 Mar 2022 00:37:12 +0000",
+         "title" : "FIDE President Arkady Dvorkovich turns 50"
+      },
+      {
+         "description" : " <p class=\"lead\">Five games out of eight finished with decisive results on the fourth round of the final stage of the FIDE Grand Prix Series organised by World Chess. In a crucial game for the overall Grand Prix standings, Hikaru Nakamura defeated Levon Aronian and caught up with him. Grigoriy Oparin outplayed Andrey Esipenko and took the lead in Poll A, leaving Levon and Hikaru half a point behind. The game between Leinier Dominguez and Daniil Dubov ended in a draw; Leinier thus remained in the lead of Pool B, now shared with Shakhriyar Mamedyarov who outplayed Vincent Keymer. Maxime Vachier-Lagrave also took revenge on Alexandr Predke, and before the free day Pool C ends up with all player",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nakamura-takes-revenge-against-aronian-while-oparin-emerges-as-t/",
+         "pubDate" : "Sat, 26 Mar 2022 00:37:06 +0000",
+         "title" : "Nakamura takes revenge against Aronian, while Oparin emerges as the sole leader in Pool A"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1659",
+         "pubDate" : "Fri, 25 Mar 2022 23:23:30 +0000",
+         "title" : "FIDE Grand Prix Berlin - Round 4 Recap"
+      },
+      {
          "description" : " To help ACT players prepare for the upcoming O2C Doeberl Cup, the ACT Junior Chess League is organising a small warmup event. It is a 5 round FIDE rated event, and has attracted 22 players. The semi-invitational event targeted local juniors who are playing in the Premier, Major or Minor, as well as adult players taking part. The tournament is being played as a single section, with a time control of 90m+30s While there is no live coverage of the event, you can follow the results at <a href=\"http://tournaments.streetchess.net/\">http://tournaments.streetchess.net/</a> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1386,14 +1426,6 @@ news_feed (
          "title" : "CERTIFICATES OF NATIONAL SENIOR CHESS CHAMPIONSHIPS 25 FEB-03 MARCH 2022,KANPUR"
       },
       {
-         "description" : "Chennai, India will host the 44th Chess Olympiad in late July and early August 2022 after the government of Tamil Nadu guaranteed $10 million in funding to host the massive team chess event, that in 2018 featured nearly 1,700 participants. The 2022 Olympiad was originally granted to Belarus, then moved to Russia, and now in the wake of Russia's war on Ukraine has been moved to India. 15th World Chess Champion Vishy Anand, a resident of Chennai, has been an enthusiastic supporter of the bid.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chennai-wins-right-to-host-2022-world-chess-olympiad",
-         "pubDate" : "Wed, 16 Mar 2022 10:36:07 +0000",
-         "title" : "Chennai wins right to host 2022 Chess Olympiad"
-      },
-      {
          "description" : "The 'World Cup of Chess' will take place in Chennai in July-August this year.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1746,14 +1778,6 @@ news_feed (
          "title" : "Logical Chess (1)"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/_OUqpv1k-gU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-belgrade-final-game-2/",
-         "pubDate" : "Sun, 13 Mar 2022 14:09:57 +0000",
-         "title" : "FIDE Grand Prix in Belgrade: Final Game 2"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 70th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to show ideas in the King's Indian. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1808,14 +1832,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1633",
          "pubDate" : "Sat, 12 Mar 2022 20:05:56 +0000",
          "title" : "FIDE Grand Prix Belgrade Finals: Game One Recap"
-      },
-      {
-         "description" : "With GM Dmitry Andreikin&#39;s surprising ousting of GM Anish Giri in yesterday&#39;s rapid play tiebreaker, a final against Hungarian GM Richard Rapport was set in place at the 2022 FIDE Grand Prix&#38;nbsp;in Belgrade. Rapport had, of course, previously eli...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-belgrade-final-day-1",
-         "pubDate" : "Sat, 12 Mar 2022 10:02:00 -0800",
-         "title" : "2022 FIDE Grand Prix Belgrade Final Day 1: Solid Play"
       },
       {
          "description" : "",
