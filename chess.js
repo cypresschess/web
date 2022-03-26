@@ -130,6 +130,14 @@ news_feed (
          "title" : "Nakamura Wins On Demand: 2022 FIDE Grand Prix Berlin Leg 3, Round 4"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1659",
+         "pubDate" : "Sat, 26 Mar 2022 01:23:30 +0000",
+         "title" : "FIDE Grand Prix Berlin - Round 4 Recap"
+      },
+      {
          "description" : "The&#160;Charity Chess Cup 2022, the 2nd event on the Meltwater Champions Chess Tour, starts this Saturday March 19th and will be featured with live games, video, and detailed coverage on Chessdom.com. Magnus Carlsen, the reigning World Champion, 2021 Tour Champion and&#160;winner of the first event of the 2022 Tour, will return along with a total []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -160,14 +168,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nakamura-takes-revenge-against-aronian-while-oparin-emerges-as-t/",
          "pubDate" : "Sat, 26 Mar 2022 00:37:06 +0000",
          "title" : "Nakamura takes revenge against Aronian"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1659",
-         "pubDate" : "Fri, 25 Mar 2022 23:23:30 +0000",
-         "title" : "FIDE Grand Prix Berlin - Round 4 Recap"
       },
       {
          "description" : " To help ACT players prepare for the upcoming O2C Doeberl Cup, the ACT Junior Chess League is organising a small warmup event. It is a 5 round FIDE rated event, and has attracted 22 players. The semi-invitational event targeted local juniors who are playing in the Premier, Major or Minor, as well as adult players taking part. The tournament is being played as a single section, with a time control of 90m+30s While there is no live coverage of the event, you can follow the results at <a href=\"http://tournaments.streetchess.net/\">http://tournaments.streetchess.net/</a> ",
@@ -2256,14 +2256,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/a-curious-miniature.html",
          "pubDate" : "Sun, 06 Mar 2022 10:44:00 +0000",
          "title" : "A curious miniature "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1617",
-         "pubDate" : "Sat, 05 Mar 2022 20:21:08 +0000",
-         "title" : "Second season of FIDE Chessable Academy starts on Chessable Classroom"
       }
    ]
 }
