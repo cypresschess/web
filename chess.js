@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Levon Aronian and Hikaru Nakamura both won big games in the penultimate round of the FIDE Grand Prix as Grigoriy Oparin's stay as sole leader of Pool A proved short-lived. There are now no sole leaders anywhere, with the most drama taking place in Pool C, where Wesley So took down Maxime Vachier-Lagrave to join Sam Shankland in the lead. All games were drawn in Pools B and D, with Yu Yangyi letting Amin Tabatabaei escape just when it looked certain he was going to score a crucial win.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aronian-nakamura-so-shankland-all-win-on-us-day-in-berlin",
+         "pubDate" : "Sun, 27 Mar 2022 20:46:45 +0000",
+         "title" : "Aronian, Nakamura, So & Shankland all win on US day in Berlin"
+      },
+      {
+         "description" : " The 22nd European Individual Championship take place Sun 27th Mar to Thu 7th Apr 2022 in Terme Catez, Slovenia. David Navara, Anton Korobov, David Anton Guijarro, Ivan Saric etc ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/22nd-european-individual-championship-2022",
+         "pubDate" : "Sun, 27 Mar 2022 23:07:00 +0400",
+         "title" : "22nd European Individual Championship 2022 - Games and Results"
+      },
+      {
          "description" : " <p class=\"lead\">Round 5 of the third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with Aronian, Nakamura and So, Shankland co-leading Group A and C respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-18.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220327140928_IMG_4961.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220327140658_IMG_4952.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220327140504_IMG_",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/aronian-nakamura-and-so-shankland-co-lead-group-a-and-c-respecti/",
          "pubDate" : "Sun, 27 Mar 2022 18:16:18 +0000",
-         "title" : "Aronian, Nakamura and So, Shankland co-lead Group A and C respectively after R5 of the FIDE GP"
+         "title" : "Nakamura Wins, FIDE Grand Prix Gets Tense"
       },
       {
          "description" : " If you read the sort of chess books I grew up with, you sometimes get the impression that a queenside pawn majority is, in itself, enough to win the game. In my continuing series on Chernev's Logical Chess Move by Move, there's a game of this nature. Capablanca Villegas (Simul 1914) is Game 30 <a href=\"https://chessimprover.com/logical-chess-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Logical Chess (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/logical-chess-3/\">Logical Chess (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1234,14 +1250,6 @@ news_feed (
          "title" : "Understanding before Moving 71: Open and half-open files"
       },
       {
-         "description" : "World Champion Magnus Carlsen looked to be on a roll as he ground out two endgame wins in a row on Day 1 of the Charity Cup, but Ding Liren, who had lost to Hans Niemann in the previous game, hit back brilliantly to defeat the Tour leader despite playing at almost 5am in China. That allowed 18-year-old Hans to take the lead with a run of three wins in a row, with only Liem Quang Le able to match him.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/charity-cup-1-ding-beats-carlsen-niemann-le-lead",
-         "pubDate" : "Sun, 20 Mar 2022 13:44:58 +0000",
-         "title" : "Charity Cup 1: Ding beats Carlsen | Niemann & Le lead"
-      },
-      {
          "description" : "The first four rounds of the Charity Cup left Le Quang Liem and Hans Niemann sharing the lead on 10/12 points (a win is worth 3 points, a draw is worth 1 point). Remarkably, the 18-year-old Niemann defeated Chinese star Ding Liren in the third round. After the loss, however, Ding bounced back brilliantly, getting the better of Magnus Carlsen to end the day on 9/12, a point behind the leaders. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2264,14 +2272,6 @@ news_feed (
          "link" : "https://www.chess.ca/en/news/2022/03/07/kingston-easter-chess/",
          "pubDate" : "Mon, 07 Mar 2022 00:00:00 +0000",
          "title" : "Canadian Closed, Zonals, Easter Sectionals (Kingston) Announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1618",
-         "pubDate" : "Sun, 06 Mar 2022 21:35:56 +0000",
-         "title" : "FIDE adopts simplified procedure for playing under FIDE flag"
       }
    ]
 }
