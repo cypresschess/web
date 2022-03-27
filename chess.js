@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Half of the games ended with decisive results in Round 5 of the final stage of the FIDE Grand Prix Series organized by World Chess. It was a very successful day for the American players as four of them, including Levon Aronian, Hikaru Nakamura, and Wesley So, defeated their opponents and thus all of them are leading in their groups. Hikaru Nakamura's persistence is rewarded, as he won a difficult ending against Grigoriy Oparin and was caught in the lead of Pool A his main rival Levon Aronian, who outplayed Andrey Esipenko. Vincent Keymer earned a draw in his game against Daniil Dubov with precise defence. Leinier Dominguez and Shakhriyar Mamedyarov draw their game and remain",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/round-5-report-good-day-for-the-american-players/",
+         "pubDate" : "Sun, 27 Mar 2022 23:20:23 +0000",
+         "title" : "Round 5 Report, Good day for the American players!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1663",
+         "pubDate" : "Sun, 27 Mar 2022 22:00:06 +0000",
+         "title" : "FIDE Grand Prix Berlin - Round 5 Recap"
+      },
+      {
          "description" : "Levon Aronian and Hikaru Nakamura both won big games in the penultimate round of the FIDE Grand Prix as Grigoriy Oparin's stay as sole leader of Pool A proved short-lived. There are now no sole leaders anywhere, with the most drama taking place in Pool C, where Wesley So took down Maxime Vachier-Lagrave to join Sam Shankland in the lead. All games were drawn in Pools B and D, with Yu Yangyi letting Amin Tabatabaei escape just when it looked certain he was going to score a crucial win.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1808,14 +1824,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1635",
          "pubDate" : "Mon, 14 Mar 2022 13:48:16 +0000",
          "title" : "Winners of FIDE Grand Prix crowned in Belgrade"
-      },
-      {
-         "description" : " <p class=\"lead\">The second leg of the 2022 FIDE Grand Prix chess series was concluded in Belgrade's Crowne Plaza hotel with the closing ceremony attended by local and international chess representatives, players, and distinguished guests from Serbia and abroad <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/uIHN8oQPjgg?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Following the intonation of the Serbian national anthem, the guests were shown a short video, recapping the events which took place in Belgrade over the past 14 days.<br /> The president of the Serbian Chess Federation, <b>Dragan Lazic</b>, said that Serbia was honoured to ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-closing-ceremony-of-the-belgrade-grand-prix/",
-         "pubDate" : "Mon, 14 Mar 2022 13:33:41 +0000",
-         "title" : "The closing ceremony of the Belgrade Grand Prix"
       },
       {
          "description" : " Miles Patterson (ACT) has won the 2022 Tasmanian Championship Tournament, but not the Tasmanian Championship. Although the tournament is an open event, the state champion title is restricted to local residents. In this case Kevin Bonham and Wynand-Jack Pretorius tied for the title, after finishing equal second. The tournament itself suffered a degree of drama after one of the players had to withdraw on the final morning after testing positive to Covid. A couple of close contacts had to also go into isolation, while a few other players (including the tournament leader) withdrew out of health concerns. The win for Patterson repeats his success from last year, where he also finished outright 1",
