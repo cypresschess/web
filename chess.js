@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After FIDE's ban on Sergey Karjakin for 6 months , a replacement for the Russian player at the Candiadates Chess 2022 was needed. By the current regulations, the player to enter the event will be selected by rating (something that Anish Giri vigorously protested in an interview during the ongoing Grand Prix in Berlin). In []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-liren-to-play-12-classical-games-in-china-hangzhou-2022/",
+         "pubDate" : "Sun, 27 Mar 2022 06:00:45 +0000",
+         "title" : "Ding Liren to play 12 classical games in HangZhou, starts his quest for Candidates"
+      },
+      {
+         "description" : "The&#xA0;European Individual Chess Championship 2022&#xA0;will take place between 26 March and 7 April at Terme &#x10C;ate&#x17E; near Bre&#x17E;ice in Slovenia. The event is organized by the Chess Federation of Slovenia under the auspices of the European Chess Union (ECU). The official host of the championship is Hotel Spa; accommodation is also available in other hotels, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-individual-chess-2022-round-1-pairings/",
+         "pubDate" : "Sun, 27 Mar 2022 05:26:28 +0000",
+         "title" : "European Individual Chess 2022, round 1 pairings"
+      },
+      {
+         "description" : "Magnus Carlsen is the Charity Chess Cup 2022 champion after winning a thrilling final against Jan-Krzysztof Duda. This makes it perfect 3 out of 3 titles this year for Carlsen, after he won earlier Tata Steel Chess and Airthings Masters. More about Charity Cup:&#xA0;Charity Cup 2022 participants and preview&#xA0;/&#xA0;Charity Cup 2022 live&#xA0;/&#xA0;Charity Cup 2022 video)&#xA0;Round []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-is-the-charity-chess-cup-champion/",
+         "pubDate" : "Sun, 27 Mar 2022 05:09:35 +0000",
+         "title" : "Magnus Carlsen is the Charity Chess Cup champion"
+      },
+      {
          "description" : "Magnus Carlsen made it two Meltwater Champions Chess Tour events, two victories, as he won the Charity Cup, but his overriding emotion was \"huge relief\" after withstanding a comeback by Jan-Krzysztof Duda. Magnus won a brilliant first game of the final day and was a move or two away from clinching the title with two games to spare, but one blunder and Duda stormed back to win two games in a row. Magnus was rocking, but he composed himself to win the blitz playoff 2:0 and take the trophy. Meanwhile over $150,000 was raised for Unicef's work in and around Ukraine.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -23,7 +47,7 @@ news_feed (
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/european-individual-chess-2022/",
          "pubDate" : "Sat, 26 Mar 2022 18:17:00 +0000",
-         "title" : "European Individual Chess 2022"
+         "title" : "European Individual Chess 2022 LIVE"
       },
       {
          "description" : "Five games out of eight ended with decisive results in Round 4 of the final stage of the Fide Grand Prix Series. In a crucial game for the overall Grand Prix standings,&#xA0;Hikaru Nakamura&#xA0;defeated&#xA0;Levon Aronian&#xA0;and caught up with him.&#xA0;Grigoriy Oparin&#xA0;outplayed&#xA0;Andrey Esipenko&#xA0;and took the lead in Pool A, leaving Levon and Hikaru half a point behind. The []",
@@ -354,14 +378,6 @@ news_feed (
          "title" : "FIDE Grand Prix Berlin - the first three rounds"
       },
       {
-         "description" : "Jan-Krzysztof Duda, one of the 8 players to compete in the Candidates Chess 2022, is in the finals of the Charity Cup 2022. He is going to meet Magnus Carlsen at the finals and celebrated it tweeting &#8220;Is there something better then two days practice with world champion and get paid for that?&#8221; Indeed, it []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/practice-with-the-world-chess-champion-and-get-paid-for-that-tweetoftheday/",
-         "pubDate" : "Fri, 25 Mar 2022 01:30:30 +0000",
-         "title" : "Practice with the World Chess Champion&hellip; and get paid for that! #TweetOftheDay"
-      },
-      {
          "description" : " <p class=\"lead\">The local hero Vincent Keymer outplayed Daniil Dubov and joined Leinier Dominguez in the lead of Pool B. The rest of the games finished in a draw in the third round of the final stage of the Grand Prix series, thus Levon Aronian, Alexandr Predke, and Nikita Vitiugov kept their lead in other groups. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220324165117_IMG_4575.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220324182332_IMG_4658.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/2022032419",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -376,14 +392,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1657",
          "pubDate" : "Thu, 24 Mar 2022 22:58:49 +0000",
          "title" : "FIDE Grand Prix Berlin - Round 3 Recap"
-      },
-      {
-         "description" : "Polish star Jan-Krzysztof Duda&#160;reached his first&#160;Meltwater Champions Chess Tour&#160;final today with a gritty win over the in-form Liem Quang Le. The 23-year-old World Cup winner&#160;will face World Champion Magnus Carlsen in the Charity Cup finale after the overall Tour leader dispatched Ding Liren, of China. Duda has built a reputation&#160;as Carlsen's&#160;&#8220;nemesis&#8221; having ended the&#160;world No.1's []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-jan-krzysztof-duda-is-the-charity-cup-2022-final/",
-         "pubDate" : "Thu, 24 Mar 2022 22:06:12 +0000",
-         "title" : "Magnus Carlsen - Jan-Krzysztof Duda is the Charity Cup 2022 final"
       },
       {
          "description" : "This week Robert Ris takes has a close look at a new idea in the Italian in which White sacrifices a pawn, castles queenside and throws all his pieces at the black king. This concept worked out fantastically for White in the game Van Foreest-Navara that was played recently in the Charity Cup. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -448,14 +456,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-charity-cup-day-quarterfinals",
          "pubDate" : "Thu, 24 Mar 2022 02:41:00 -0700",
          "title" : "Charity Cup Day 5: Carlsen-Ding, Le-Duda In Semifinals"
-      },
-      {
-         "description" : "Chinese Chess Association will start a series of qualifing tournaments for the 19th Asian Games at end of this month, informed the chess journalist Liang Ziming. All top players are required to play including Ding Liren, Wei Yi, Bu Xiangzhi, Yu Yangyi, Hou Yifan, Ju Wenjun, Tan Zhongyi, Lei Tingjie. The 2022 Asian Games, also []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/19th-asian-games-2022-chess-qualifiers/",
-         "pubDate" : "Thu, 24 Mar 2022 09:36:07 +0000",
-         "title" : "19th Asian Games 2022 - chess qualifiers"
       },
       {
          "description" : "The 7th Rapid Chess Championship of the Francophonie was organized this year on March 19 &#38; 20 jointly by the Lyon Olympique Echecs and the Francophone Chess Association (AIDEF) in partnership with the Auvergne-Rhône-Alpes Region, in the premises of the magnificent Hotel of Region. It brought together 169 participants from 13 countries, including 8 Grand Masters, 11 International&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/french-grandmaster-maxime-lagarde-wins-the-7th-francophone-rapid-chess-championship/\">Read More &#187;</a></span>",
