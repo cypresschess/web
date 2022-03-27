@@ -2,7 +2,63 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GM Magnus Carlsen&#38;nbsp;won the 2022 Charity Cup&#38;nbsp;on Saturday after beating GM Jan-Krzysztof Duda&#38;nbsp;in a playoff, necessary as the Polish grandmaster managed to win the second regular match. After he won the Airthings Masters, this was the...",
+         "description" : "After getting a clear victory on Friday and kicking off Saturday's second set with a win, Magnus Carlsen seemed to be headed to a swift triumph in the final of the Charity Cup. However, Jan-Krzysztof Duda did not just give up, as he incredibly scored back-to-back wins to take the match to tiebreakers. In the blitz encounters, Carlsen regained his composure and won both games to claim his second consecutive title in the Champions Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/charity-cup-2022-d8",
+         "pubDate" : "Sun, 27 Mar 2022 15:30:00 +0100",
+         "title" : "Carlsen beats Duda in thrilling match, wins Charity Cup"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 72nd instalment of his ChessBase show \"Understanding before Moving\", Herman talks about pawn chains in the French Defense. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-72-pawn-chains-in-the-french-defense-1",
+         "pubDate" : "Sun, 27 Mar 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 72: Pawn chains in the French Defense (1)"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
+         "pubDate" : "Sun, 27 Mar 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90477810.cms\" />Top seed Arjun Erigaisi, Harsha Bharathakoti and D Gukesh on Sunday emerged as joint leaders at the 19th edition of Delhi International Open Grandmasters Chess tournament. With just two rounds remaining, the tournament is heading for an exciting finish as the three Indians are now leading the standings with seven points.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-harsha-and-gukesh-emerge-joint-leaders-at-delhi-international-open-chess/articleshow/90477810.cms",
+         "pubDate" : "Sun, 27 Mar 2022 13:36:18 +0000",
+         "title" : "Arjun, Harsha and Gukesh emerge joint leaders at Delhi International Open"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1662",
+         "pubDate" : "Sun, 27 Mar 2022 13:00:22 +0000",
+         "title" : "'Huge relief' for Carlsen as champ survived Duda's spirited comeback to win Charity Cup"
+      },
+      {
+         "description" : "Hikaru Nakamura, Maxime Vachier-Lagrave and Amin Tabatabaei hit back in Round 4 after losing to Levon Aronian, Alexandr Predke and Nikita Vitiugov in Round 1 of the final leg of the FIDE Grand Prix. That left two groups with all four players locked together on 2/2, Mamedyarov and Leinier Dominguez in the lead in Pool B, and Grigoriy Oparin the shock sole leader in Pool A after favourites Levon and Hikaru traded blows.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-strikes-back-in-the-fide-grand-prix",
+         "pubDate" : "Sun, 27 Mar 2022 12:02:05 +0000",
+         "title" : "Nakamura strikes back in the FIDE Grand Prix"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/mrSwJPSdn8Y?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-pools-round-5/",
+         "pubDate" : "Sun, 27 Mar 2022 11:33:20 +0000",
+         "title" : "FIDE Grand Prix in Berlin: Pools Round 5"
+      },
+      {
+         "description" : "GM Magnus Carlsen&#38;nbsp;won the 2022 Charity Cup&#38;nbsp;on Saturday after beating GM Jan-Krzysztof Duda&#38;nbsp;in a playoff, necessary as the Polish grandmaster won the second regular match. Having won the Airthings Masters, this tournament is the&#38;nb...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-2022-charity-cup",
@@ -42,6 +98,14 @@ news_feed (
          "title" : "Carlsen wins Charity Cup after Duda fightback"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1661",
+         "pubDate" : "Sat, 26 Mar 2022 19:59:51 +0000",
+         "title" : "Winners crowned at Sao Tome and Principe Chess Championship"
+      },
+      {
          "description" : "Magnus Carlsen continued with his amazing performance in the Charity Cup final. After defeating 2,5:0,5 Duda yesterday, he started the second days of the final with a beautiful game , sacrificing the knight on e4. More about Charity Cup:&#xA0;Charity Cup 2022 participants and preview&#xA0;/&#xA0;Charity Cup 2022 live&#xA0;/&#xA0;Charity Cup 2022 video)&#xA0;Round reports:&#xA0;Hans Niemann and Liem Quang []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -66,14 +130,6 @@ news_feed (
          "title" : "Nakamura - Aronian 1:0 in round 4 of the Berlin Grand Prix"
       },
       {
-         "description" : "The second event of the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Magnus Carlsen, Ding Liren and Richard Rapport head the 16-player field. The tournament is taking place on March 19-26, with the action kicking off daily at 18.00 CET (13.00 ET, 17.00 UTC, 22.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
-         "pubDate" : "Sat, 26 Mar 2022 17:50:00 +0100",
-         "title" : "Charity Cup Finals - Games and results"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90464520.cms\" />National champion Arjun Erigaisi returned to the joint lead by defeating International Master Shyam Nikhil in the seventh round of the 19th Delhi International open chess tournament on Saturday. With this victory, Erigaisi joined Grandmasters Lalith Babu M R and Karthik Venkataraman who played out a draw against each other at the top of the table.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -90,12 +146,12 @@ news_feed (
          "title" : "Study of the Month - Gens una sumus: Friendship tourneys"
       },
       {
-         "description" : "With a 2&frac12;-&frac12; victory over Jan-Krzysztof Duda, Magnus Carlsen grabbed the lead in the finals of the Charity Cup. The world champion won games 2 and 3 to go into the second set of the match only needing a draw to secure tournament victory. All three encounters on Friday were hard-fought strategic battles, with Carlsen describing them as \"exceptionally interesting\". | Photo: Alina l'Ami (2017)",
+         "description" : "The second event of the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Magnus Carlsen, Ding Liren and Richard Rapport head the 16-player field. The tournament is taking place on March 19-26, with the action kicking off daily at 18.00 CET (13.00 ET, 17.00 UTC, 22.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/charity-cup-2022-d7",
-         "pubDate" : "Sat, 26 Mar 2022 15:55:00 +0100",
-         "title" : "Charity Cup Finals: Carlsen gets clear win in first set"
+         "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
+         "pubDate" : "Sat, 26 Mar 2022 15:50:00 +0100",
+         "title" : "Charity Cup Finals - Games and results"
       },
       {
          "description" : "The European Individual Chess Championship 2022 opens today and takes place from 26th March 6th April in Terme Catez, Slovenia. The European Individual Chess Championship 2022 is a qualifying event for the FIDE World Cup 2023. &#160;According to FIDE regulations for World Cup and the ECU Board decision, 20 players will qualify. 320 players coming from about&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2022-opens-today/\">Read More &#187;</a></span>",
@@ -152,6 +208,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/bundesliga-classic",
          "pubDate" : "Sat, 26 Mar 2022 09:00:00 +0100",
          "title" : "Bundesliga classic"
+      },
+      {
+         "description" : "With a 2&frac12;-&frac12; victory over Jan-Krzysztof Duda, Magnus Carlsen grabbed the lead in the finals of the Charity Cup. The world champion won games 2 and 3 to go into the second set of the match only needing a draw to secure tournament victory. All three encounters on Friday were hard-fought strategic battles, with Carlsen describing them as \"exceptionally interesting\". | Photo: Alina l'Ami (2017)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/charity-cup-2022-d7",
+         "pubDate" : "Sat, 26 Mar 2022 08:55:00 +0100",
+         "title" : "Charity Cup Finals: Carlsen gets clear win in first set"
       },
       {
          "description" : "Magnus Carlsen is on the brink of winning a second Meltwater Champions Chess Tour event in a row after a near-flawless performance in the first match of the Charity Cup final. The World Champion and reigning Tour Champion was at his imperious best as he dispatched Poland's World Cup winner Jan-Krzysztof Duda in just three []",
@@ -432,6 +496,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-pools-round-3/",
          "pubDate" : "Thu, 24 Mar 2022 13:22:26 +0000",
          "title" : "FIDE Grand Prix in Berlin: Pools Round 3"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1643",
+         "pubDate" : "Thu, 24 Mar 2022 12:30:15 +0000",
+         "title" : "Support Ukrainian Chess Players and their Families"
       },
       {
          "description" : " While picking up the latest Humble Bundle (Stand with Ukraine), I came across a curious game called Pawnbarian. It is a mixture of chess, deck building, and dungeon crawler, all packed into one. In the game, you are the Pawnbarian, he is called upon to defeat a host of enemies (goblins, monsters etc). You play cards to move your piece on the 5x5 board, either trying to attack the monsters, or run away from them. The cards initially match existing chess pieces (and their moves), but as you progress, you can but more cards to add to your deck (which often have additional effects). As you progress through the dungeon the monsters become harder to beat, and you have to do a bit of preplanning o",
@@ -826,14 +898,6 @@ news_feed (
          "title" : "Karjakin gets 6 months"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1643",
-         "pubDate" : "Tue, 22 Mar 2022 11:30:15 +0000",
-         "title" : "Support Ukrainian Chess Players and their Families"
-      },
-      {
          "description" : "Citing personal reasons, Dmitry Andreikin withdrew from the third leg of the FIDE Grand Prix. Andrey Esipenko (pictured), who also played in the first leg as a replacement, stepped in. The tournament is set to take place in Berlin, with two spots in the Candidates still up for grabs, albeit it is highly unlikely for Richard Rapport not to get one of those after his victory in Belgrade. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1200,14 +1264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1644",
          "pubDate" : "Sat, 19 Mar 2022 13:58:49 +0000",
          "title" : "Chess becomes an official sport at XXIV Central American and Caribbean Games"
-      },
-      {
-         "description" : "World Champion Magnus Carlsen takes on World Cup winner Jan-Krzysztof Duda, a late replacement for Radek Wojtaszek, as the Charity Cup starts today at 18:00 CET. The 2nd stage of the $1.6 million Meltwater Champions Chess Tour features a Tour debut for Richard Rapport, Women's World Champion Ju Wenjun, and another chance for 16-year-old Praggnanandhaa to take on the world's best. The event is being put on with the newest partner of the Tour, NEAR Foundation. NEAR Foundation is responsible for supporting awareness of NEAR and the adoption of related web3 technologies.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-duda-as-charity-cup-starts-today",
-         "pubDate" : "Sat, 19 Mar 2022 13:00:18 +0000",
-         "title" : "Carlsen-Duda as Charity Cup starts today"
       },
       {
          "description" : " Miles Patterson sent me the following game from the 2022 Tasmanian Championship, which he finished in first place. His opponent opened with a double fianchetto defence, which gave White time to launch a typicla dark square attack on the king, swapping the bishop on g7 and pushing the h pawn. g4 to break open the kingside was a good move, and Nxf7 both won material, and essentially finished the game, although Black played on to mate. <br /> <b>Patterson,Miles (2000) - Pretorius,Wynand-Jack (2000) [A04]</b><br />Tasmanian Championship LAPTOP-RNTASBER, 14.03.2022 <script>new PgnViewer( { boardName: \"game1318\", movesFormat: \"default\", pgnString:'1.Nf3 b6 2.g3 Nc6 3.Bg2 g6 4.d4 e6 5.e4 Ba6 6.Be3",
@@ -1818,14 +1874,6 @@ news_feed (
          "title" : "Congratulations Neelash Saha & Priyanka"
       },
       {
-         "description" : " <p class=\"lead\">In the final he beat Dmitry Andreikin with a score of 1.5:0.5. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.4992679355783\"> <img src=\"https://worldchess.com/news/pictures/51936022401_fa4a70393f_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/51936336029_3efb8010f5_k.jpg\" width=\"2048\" height=\"1366\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photo: Mark Livshitz</div> </div> <div style=\"position: relative; width: 600px; max-width: 100%; padding-bottom: min(calc(100% + 190px), 790px);\"><iframe src=\"https://widget.k8stage.worldchess.com/?theme=dark&cb-theme=worldchess&pgn=https://worldchess.com/",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/richard-rapport-is-the-winner-of-the-second-leg-of-the-fide-gran/",
-         "pubDate" : "Sun, 13 Mar 2022 18:45:54 +0000",
-         "title" : "Rapport Wins Second Leg of the Grand Prix Series 2022"
-      },
-      {
          "description" : " I've written a few posts about the wrong chess books: books which are popular and often recommended by well-intentioned but ill-informed posters on social media. They might be the only book the poster has ever read, or the book he read several decades ago when he was learning chess. But the world has moved on. <a href=\"https://chessimprover.com/logical-chess-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Logical Chess (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/logical-chess-1/\">Logical Chess (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1994,28 +2042,12 @@ news_feed (
          "title" : "European Women's Individual Chess Championship 2022 - Official invitation"
       },
       {
-         "description" : "This week Robert Ris takes a look at a game he played in the Icelandic Team Championships against IM Bjorn Thorfinsson. In the Bishop's Opening (1.e4 e5 2.Bc4) Robert followed a nice attacking scheme for White inspired by a game between Firouzja and Carlsen. Robert will discuss the ins and outs of this plan and also explain why it is actually not doo dangerous (at least if Black knows what to do of course). | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-bishop-s-opening",
-         "pubDate" : "Fri, 11 Mar 2022 11:03:57 +0100",
-         "title" : "Robert Ris' Fast and Furious: The Bishop's Opening"
-      },
-      {
          "description" : " The 250-player international tournament in Iceland will be staged with zero Covid restrictions, and provides a breakthrough chance for young English talents Half a century on from 1972, the Bobby Fischer v Boris Spassky series in Reykjavik remains the most famous of all world championship matches. It triggered a global chess boom, not least in Britain where for a brief period a galaxy of talent made England the No 2 chess nation behind the Soviet Union. Reykjavik has another tradition, its annual international open first staged in 1964 when the legendary Mikhail Tal outclassed the field with 12.5/13. The 2022 edition at the Harpa Conference Centre from 6-12 April has a tight schedule of nin",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/mar/11/chess-bobby-fischer-v-boris-spassky-1972-remembered-at-reykjavik-open",
          "pubDate" : "Fri, 11 Mar 2022 08:00:25 +0000",
          "title" : "Chess: Bobby Fischer v Boris Spassky 1972 remembered at Reykjavik Open"
-      },
-      {
-         "description" : "Maxime Vachier-Lagrave got good winning chances but could not bounce back in his match against Richard Rapport at the semifinals of the FIDE Grand Prix in Belgrade. Rapport's resilient defence made him the first finalist of the event. The Hungarian will get a rest day before facing either Anish Giri or Dmitry Andreikin in the final. Giri and Andreikin drew both their semifinal games and will play a rapid and blitz tiebreaker on Friday. | Photos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-sf2",
-         "pubDate" : "Fri, 11 Mar 2022 01:40:00 +0100",
-         "title" : "Belgrade GP: Rapport escapes, reaches final"
       },
       {
          "description" : "",
@@ -2226,7 +2258,7 @@ news_feed (
          "title" : "FIDE Grand Prix Belgrade: Round 5 Recap"
       },
       {
-         "description" : "(Original was posted HERE) KEC 2022 Announcement (Kingston Easter Chess) This is the KEC 2022 ANNOUNCEMENT, now updated as of Wednesday, March 9th. Especially given changing pandemic conditions, this will be updated as applicable. KEC 2022 sections (all 5 sections rated both FIDE &amp; CFC): Zonals/Closed championships: - Canada Zonal, - Canada Women Zonal Easter Sectionals: U2200, U1900, U1600 When Wednesday, April 13th: - Welcome @ 630pm, - Round 1 @ 7pm Thursday, April 14th: - Round 2 @ 10am, - Round 3 @ 5pm Friday, April 15th: - Round 4 @ 10am, - Round 5 @ 5pm Saturday, April 16th: - TBD activities, - Round 6 @ 5pm Sunday: April 17th: - Round 7 @ 10am, - Round 8 @ 5pm Monday: April 18th:",
+         "description" : "(Original was posted HERE) KEC 2022 Announcement (Kingston Easter Chess) This is the KEC 2022 ANNOUNCEMENT, now updated as of Sunday, March 27th. Especially given changing pandemic conditions, this will be updated as applicable. KEC 2022 sections - all sections rated both FIDE &amp; CFC (and FQE for FQE#s): Zonals/Closed championships: - Canada Zonal, - Canada Women Zonal Easter Sectionals: U2200, U1900, U1600 When Wednesday, April 13th: - Welcome @ 630pm, - Round 1 @ 7pm Thursday, April 14th: - Round 2 @ 10am, - Round 3 @ 5pm Friday, April 15th: - Round 4 @ 10am, - Round 5 @ 5pm Saturday, April 16th: - TBD activities, - Round 6 @ 5pm Sunday: April 17th: - Round 7 @ 10am, - Round 8 @ 5pm Mon",
          "iconLink" : "https://cypresschess.github.io/web/canada2.png",
          "iconName" : "Canadian<br>Chess",
          "link" : "https://www.chess.ca/en/news/2022/03/07/kingston-easter-chess/",
