@@ -218,7 +218,7 @@ news_feed (
          "title" : "A short warm up event "
       },
       {
-         "description" : " Share! In most team competitions, teammates don't play each other, but retired U.S. Marine Corps Master Sergeant Steven Rollins thought of a novel way that allows teammates to play each other without adversely affecting the team score. In 2014, his &#8220;Rollins Military System&#8221; was included as Rule 31A1 in the U.S. Chess Rule Book. Kobe [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/\">The Steven Rollins Chess Rule</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!592 In most team competitions, teammates don't play each other, but retired U.S. Marine Corps Master Sergeant Steven Rollins thought of a novel way that allows teammates to play each other without adversely affecting the team score. In 2014, his &#8220;Rollins Military System&#8221; was included as Rule 31A1 in the U.S. Chess Rule Book. Kobe [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/\">The Steven Rollins Chess Rule</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/",
@@ -2248,14 +2248,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ukraine-statement-update/",
          "pubDate" : "Sun, 06 Mar 2022 18:22:47 +0000",
          "title" : "Ukraine - statement update"
-      },
-      {
-         "description" : " For no particular reason I decided to see what was opening in the Bundesliga, which is running as I speak. Almost all the games were still in the opening stage, and yet one game was already finished. At first I thought it was a forfeit, or even worse, a mobile phone default, but instead it was just a misplayed opening that was quickly punished. White didn't play any outright blunders (in the usual sense), but every move seemed to make the position worse. Realising that f2 was about fall, White decided that they had seen enough. <br /> <b>Pitl,Jarno (1988) - Wegerle,Joerg (2404) [A04]</b><br />Schachbundesliga chess24.com (2.8), 06.03.2022 <script>new PgnViewer( { boardName: \"game1315\", move",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/a-curious-miniature.html",
-         "pubDate" : "Sun, 06 Mar 2022 10:44:00 +0000",
-         "title" : "A curious miniature "
       }
    ]
 }
