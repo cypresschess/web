@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen made it two Meltwater Champions Chess Tour events, two victories, as he won the Charity Cup, but his overriding emotion was \"huge relief\" after withstanding a comeback by Jan-Krzysztof Duda. Magnus won a brilliant first game of the final day and was a move or two away from clinching the title with two games to spare, but one blunder and Duda stormed back to win two games in a row. Magnus was rocking, but he composed himself to win the blitz playoff 2:0 and take the trophy. Meanwhile over $150,000 was raised for Unicef's work in and around Ukraine.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-wins-charity-cup-after-duda-fightback",
+         "pubDate" : "Sun, 27 Mar 2022 02:15:15 +0000",
+         "title" : "Carlsen wins Charity Cup after Duda fightback"
+      },
+      {
          "description" : "Magnus Carlsen continued with his amazing performance in the Charity Cup final. After defeating 2,5:0,5 Duda yesterday, he started the second days of the final with a beautiful game , sacrificing the knight on e4. More about Charity Cup:&#xA0;Charity Cup 2022 participants and preview&#xA0;/&#xA0;Charity Cup 2022 live&#xA0;/&#xA0;Charity Cup 2022 video)&#xA0;Round reports:&#xA0;Hans Niemann and Liem Quang []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -31,7 +39,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
          "pubDate" : "Sat, 26 Mar 2022 17:50:00 +0100",
-         "title" : "Charity Cup Finals - Live!"
+         "title" : "Charity Cup Finals - Games and results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90464520.cms\" />National champion Arjun Erigaisi returned to the joint lead by defeating International Master Shyam Nikhil in the seventh round of the 19th Delhi International open chess tournament on Saturday. With this victory, Erigaisi joined Grandmasters Lalith Babu M R and Karthik Venkataraman who played out a draw against each other at the top of the table.",
@@ -1424,14 +1432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/russia-and-belarus-teams-suspended-from-fide-competitions",
          "pubDate" : "Wed, 16 Mar 2022 21:52:33 +0100",
          "title" : "Russia and Belarus teams suspended from FIDE competitions"
-      },
-      {
-         "description" : "Henrik Carlsen speaks about how his son Magnus rose to become World Champion and perhaps the greatest chess player the world has ever seen. He reveals the first time he had to pinch his arm in awe at what his son had accomplished.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/henrik-carlsen-on-moment-pinch-his-arm",
-         "pubDate" : "Wed, 16 Mar 2022 16:22:29 +0000",
-         "title" : "Henrik Carlsen on the moment he had to pinch his arm"
       },
       {
          "description" : " Here's a review of the latest editions of the Master Chess Web Show on Twitch: Saturday This special episode included: 1) A Bobby Fischer classic in what was an unusual opening choice. 2) A shock victory by British amateur Mike Surtees, playing a special gambit recipe against the Caro-Kann. 3) Gawain Jones winning with the <a href=\"https://chessimprover.com/master-chess-web-show-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-5/\">Master Chess Web Show (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
