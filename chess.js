@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Round 5 of the third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with Aronian, Nakamura and So, Shankland co-leading Group A and C respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-18.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220327140928_IMG_4961.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220327140658_IMG_4952.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220327140504_IMG_",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/aronian-nakamura-and-so-shankland-co-lead-group-a-and-c-respecti/",
+         "pubDate" : "Sun, 27 Mar 2022 18:16:18 +0000",
+         "title" : "Aronian, Nakamura and So, Shankland co-lead Group A and C respectively after R5 of the FIDE GP"
+      },
+      {
+         "description" : " If you read the sort of chess books I grew up with, you sometimes get the impression that a queenside pawn majority is, in itself, enough to win the game. In my continuing series on Chernev's Logical Chess Move by Move, there's a game of this nature. Capablanca Villegas (Simul 1914) is Game 30 <a href=\"https://chessimprover.com/logical-chess-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Logical Chess (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/logical-chess-3/\">Logical Chess (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/logical-chess-3/",
+         "pubDate" : "Sun, 27 Mar 2022 17:42:32 +0000",
+         "title" : "Logical Chess (3)"
+      },
+      {
          "description" : "After getting a clear victory on Friday and kicking off Saturday's second set with a win, Magnus Carlsen seemed to be headed to a swift triumph in the final of the Charity Cup. However, Jan-Krzysztof Duda did not just give up, as he incredibly scored back-to-back wins to take the match to tiebreakers. In the blitz encounters, Carlsen regained his composure and won both games to claim his second consecutive title in the Champions Chess Tour.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1850,14 +1866,6 @@ news_feed (
          "title" : "Rapport tempts fortune, wins Belgrade Grand Prix"
       },
       {
-         "description" : " <p class=\"lead\">With 1.5 vs 0.5, Richard Rapport defeated Dmitry Andreikin in the FIDE Grand Prix second leg final <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-03-10_23-01-43.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> Following a draw in the first game of the finals, Hungarian Grandmaster Richard Rapport won the second game against the two-time Russian champion, Dmitry Andreikin. In the final minutes of the game, in a position that seemed completely equal for Black, Rapport (who played as White) found a way to throw Andreikin off his balance and snatch victory. <h2>Fortune favours the bold</h2> <div class=\"e2-text-picture\"> <div class=\"fotoram",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-richard-rapport-triumphs-in-belgrade/",
-         "pubDate" : "Sun, 13 Mar 2022 22:58:36 +0000",
-         "title" : "FIDE Grand Prix: Richard Rapport triumphs in Belgrade"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2178,14 +2186,6 @@ news_feed (
          "title" : "EP 269- Jen Shahade on her New Book and Chess in the Queen's Gambit Age "
       },
       {
-         "description" : " &#8220;Developed by the British player James Mason Named after the 1922 London tournament&#8221; Wikipedia Many club players choose 1. e4 as their opening choice from very early in their chess careers. It makes sense because it gives them the opportunity to play open games where they can practice and improve their tactical skills. Playing 1. <a href=\"https://chessimprover.com/need-sure-points-queens-pawn-game-london-system-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Queen's Pawn Game. London System edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-queens-pawn-game-london-system-edition/\">Need ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-queens-pawn-game-london-system-edition/",
-         "pubDate" : "Tue, 08 Mar 2022 14:16:00 +0000",
-         "title" : "Need sure points? Queen's Pawn Game. London System edition"
-      },
-      {
          "description" : "Dave sadly passed away yesterday [2/3/22] after a short spell in hospital. He will be greatly missed by Chester members. Our thoughts are with his...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2272,14 +2272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1618",
          "pubDate" : "Sun, 06 Mar 2022 21:35:56 +0000",
          "title" : "FIDE adopts simplified procedure for playing under FIDE flag"
-      },
-      {
-         "description" : "The ECF Board confirms that individual players and officials with a Russian or Belarusian FIDE registration will be excluded from all ECF-organised competitions until further...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ukraine-statement-update/",
-         "pubDate" : "Sun, 06 Mar 2022 18:22:47 +0000",
-         "title" : "Ukraine - statement update"
       }
    ]
 }
