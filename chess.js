@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Magnus Carlsen&#38;nbsp;won the 2022 Charity Cup&#38;nbsp;on Saturday after beating GM Jan-Krzysztof Duda&#38;nbsp;in a playoff, necessary as the Polish grandmaster managed to win the second regular match. After he won the Airthings Masters, this was the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-2022-charity-cup",
+         "pubDate" : "Sun, 27 Mar 2022 03:06:00 -0700",
+         "title" : "Carlsen Wins 2022 Charity Cup"
+      },
+      {
          "description" : "After FIDE's ban on Sergey Karjakin for 6 months , a replacement for the Russian player at the Candiadates Chess 2022 was needed. By the current regulations, the player to enter the event will be selected by rating (something that Anish Giri vigorously protested in an interview during the ongoing Grand Prix in Berlin). In []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1800,14 +1808,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1634",
          "pubDate" : "Sun, 13 Mar 2022 22:54:04 +0000",
          "title" : "FIDE Grand Prix: Richard Rapport triumphs in Belgrade"
-      },
-      {
-         "description" : "GM Hikaru Nakamura&#38;nbsp;seized first place in the fifth week of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, holding his nerve after a series of close matches against a number of the world&#39;s best players. Nakamura finished ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-week-5-nakamura-wins",
-         "pubDate" : "Sun, 13 Mar 2022 15:50:00 -0700",
-         "title" : "Rapid Chess Championship Week 5: Nakamura Bests Aronian"
       },
       {
          "description" : "Sixth seed IM Neelash Saha of West Bengal and top seed WIM Priyanka Nutakki of Andhra Pradesh becomes national junior champions in the MPL National",
