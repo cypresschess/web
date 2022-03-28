@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fifth round of leg three of the 2022 FIDE Grand Prix&#38;nbsp;saw four decisive games. The wins by GMs&#38;nbsp;Hikaru Nakamura&#38;nbsp;and Levon Aronian&#38;nbsp;mean that they lead in Group A. In Group B,&#38;nbsp;GMs&#38;nbsp;Leinier Dominguez Perez&#38;nbsp;and&#38;nbsp...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-round-5",
+         "pubDate" : "Sun, 27 Mar 2022 19:21:30 -0700",
+         "title" : "Nakamura Wins Again, Leads With Aronian: 2022 FIDE Grand Prix Berlin Leg 3, Round 5"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1664",
+         "pubDate" : "Mon, 28 Mar 2022 00:09:26 +0000",
+         "title" : "FIDE World Cup & Women's World Cup 2023 - Call for bids"
+      },
+      {
          "description" : " <p class=\"lead\">Half of the games ended with decisive results in Round 5 of the final stage of the FIDE Grand Prix Series organized by World Chess. It was a very successful day for the American players as four of them, including Levon Aronian, Hikaru Nakamura, and Wesley So, defeated their opponents and thus all of them are leading in their groups. Hikaru Nakamura's persistence is rewarded, as he won a difficult ending against Grigoriy Oparin and was caught in the lead of Pool A his main rival Levon Aronian, who outplayed Andrey Esipenko. Vincent Keymer earned a draw in his game against Daniil Dubov with precise defence. Leinier Dominguez and Shakhriyar Mamedyarov draw their game and remain",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1778,14 +1794,6 @@ news_feed (
          "title" : "Howell beats Grandelius in England versus Sweden match"
       },
       {
-         "description" : "The 2022 Bullet Chess Championship presented by DigitalOcean&#38;nbsp;soared to new heights today after a dazzling showdown between pre-tournament favorites GM Hikaru Nakamura and GM Daniel Naroditsky, which Nakamura won in stylish fashion. GM An...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-bullet-chess-championship-winners-semifinals-losers-top-8-nakamura-tang-win",
-         "pubDate" : "Mon, 14 Mar 2022 15:30:00 -0700",
-         "title" : "Bullet Chess Championship: Nakamura, Tang Reach Winners Final"
-      },
-      {
          "description" : " In 2010, I wrote an article titled &#8220;Baraka Shabazz: Black Queen of Chess.&#8221; Seven years later came &#8220;Revisiting Baraka Shabazz,&#8221; in which I cited the brutally candid 1988 article titled \"Ex-Queen's Gambit.\" That article was long before the &#8220;Queen's Gambit&#8221; miniseries but had some eerily similar themes. While the series highlighted the rise of Beth [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/14/promoting-to-a-black-chess-queen/\">Promoting to a Black Chess Queen</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2264,22 +2272,6 @@ news_feed (
          "link" : "https://www.thearticle.com/red-letter-day-how-russian-chess-defied-putin/",
          "pubDate" : "Mon, 07 Mar 2022 12:00:53 +0000",
          "title" : "Red letter day: how Russian chess defied Putin"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1619",
-         "pubDate" : "Mon, 07 Mar 2022 00:16:28 +0000",
-         "title" : "FIDE Grand Prix Belgrade: Round 5 Recap"
-      },
-      {
-         "description" : "(Original was posted HERE) KEC 2022 Announcement (Kingston Easter Chess) This is the KEC 2022 ANNOUNCEMENT, now updated as of Sunday, March 27th. Especially given changing pandemic conditions, this will be updated as applicable. KEC 2022 sections - all sections rated both FIDE &amp; CFC (and FQE for FQE#s): Zonals/Closed championships: - Canada Zonal, - Canada Women Zonal Easter Sectionals: U2200, U1900, U1600 When Wednesday, April 13th: - Welcome @ 630pm, - Round 1 @ 7pm Thursday, April 14th: - Round 2 @ 10am, - Round 3 @ 5pm Friday, April 15th: - Round 4 @ 10am, - Round 5 @ 5pm Saturday, April 16th: - TBD activities, - Round 6 @ 5pm Sunday: April 17th: - Round 7 @ 10am, - Round 8 @ 5pm Mon",
-         "iconLink" : "https://cypresschess.github.io/web/canada2.png",
-         "iconName" : "Canadian<br>Chess",
-         "link" : "https://www.chess.ca/en/news/2022/03/07/kingston-easter-chess/",
-         "pubDate" : "Mon, 07 Mar 2022 00:00:00 +0000",
-         "title" : "Canadian Closed, Zonals, Easter Sectionals (Kingston) Announced"
       }
    ]
 }
