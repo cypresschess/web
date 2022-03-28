@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hikaru Nakamura and Richard Rapport are in the Candidates Tournament after Hikaru's win over Andrey Esipenko ensured that the two would finish 1st and 2nd in the FIDE Grand Prix. All the results went Hikaru's way, as his key rivals Levon Aronian, Anish Giri and Leinier Dominguez all lost, while Maxime Vachier-Lagrave was held to a draw by Sam Shankland. Amin Tabatabaei is the surprise player already confirmed alongside Hikaru in the Berlin semi-finals, while So-Shankland and Mamedyarov-Keymer will play tiebreaks on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-and-rapport-qualify-for-the-candidates",
+         "pubDate" : "Mon, 28 Mar 2022 19:52:05 +0000",
+         "title" : "Nakamura and Rapport qualify for the Candidates"
+      },
+      {
          "description" : " <p class=\"lead\">Richard Rapport scored 20 Grand Prix points (7 points in the first leg for reaching semis + 13 points in the second for winning the event), while Hikaru has secured at least the same number (13 points in the first leg for winning the event + at least 7 points in the third leg for advancing into semis). <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220328150747_IMG_5223-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> In the last and decisive round of the pool stage of the FIDE Grand Prix organized by World Chess Hikaru Nakamura defeated Andrey Esipenko and became the winner of Pool A. He",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -95,7 +103,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
          "pubDate" : "Mon, 28 Mar 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
+         "title" : "FIDE Grand Prix - Games and results"
       },
       {
          "description" : "On Sunday, the European Individual Championship (\"EICC\") began in Terme Čatež (Slovenia). Players from Russia and Belarus are not allowed to take part but a lot of Ukrainian players are present. With a rating of 2700 David Navara is the top seed. Round 2 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
@@ -1320,14 +1328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/charity-cup-2022-d2",
          "pubDate" : "Mon, 21 Mar 2022 12:40:00 +0100",
          "title" : "Charity Cup: Le leads, Pragg impresses"
-      },
-      {
-         "description" : "Liem Quang Le said \"this is amazing\" as he won three games and drew one for a second day in a row to take a 4-point lead at the top of the Charity Cup table. Magnus Carlsen is also well on course to qualify for the knockout stages as he also won three games, though he lost again, this time to David Navara, with the Czech no. 1 the player who most improved his chances. Jan-Krzysztof Duda remains unbeaten and level with Magnus in second place, while 16-year-old Praggnanandhaa took down world no. 3 Ding Liren to squeeze into the Top 8.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/charity-cup-2-le-leads-carlsen-duda-follow",
-         "pubDate" : "Mon, 21 Mar 2022 11:13:11 +0000",
-         "title" : "Charity Cup 2: Le leads, Carlsen & Duda follow"
       },
       {
          "description" : "Teams desirous to participate in the National Team Chess Championship are requested to make the necessary payment of Rs. 3750/Rs. 6250 as the case may",
