@@ -2264,22 +2264,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/international-womens-day-2/",
          "pubDate" : "Tue, 08 Mar 2022 10:50:12 +0000",
          "title" : "International Women's Day"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1622",
-         "pubDate" : "Mon, 07 Mar 2022 23:11:04 +0000",
-         "title" : "FIDE Grand Prix Belgrade: Round 6 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1626",
-         "pubDate" : "Mon, 07 Mar 2022 22:10:06 +0000",
-         "title" : "FIDE Workshop for Changes in Regulations held online"
       }
    ]
 }
