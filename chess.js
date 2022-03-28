@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Richard Rapport scored 20 Grand Prix points (7 points in the first leg for reaching semis + 13 points in the second for winning the event), while Hikaru has secured at least the same number (13 points in the first leg for winning the event + at least 7 points in the third leg for advancing into semis). <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220328150747_IMG_5223-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> In the last and decisive round of the pool stage of the FIDE Grand Prix organized by World Chess Hikaru Nakamura defeated Andrey Esipenko and became the winner of Pool A. He",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/hikaru-nakamura-and-richard-rapport-are-officially-in-the-candid/",
+         "pubDate" : "Mon, 28 Mar 2022 19:14:52 +0000",
+         "title" : "Hikaru Nakamura and Richard Rapport are officially in the Candidates!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about the tactical motif known as the pin, and shows how powerful this double-edged tactic can be when played by grandmasters. Originally on Twitch<br /> 2022.03.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pin-mightier-sword-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9kwwlYcfBLI.jpg?itok=EmshIY2G\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/pin-mightier-sword-beginner-breakdown",
+         "pubDate" : "Mon, 28 Mar 2022 18:15:06 +0000",
+         "title" : "The Pin is Mightier Than The Sword | Beginner Breakdown"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1010,14 +1026,6 @@ news_feed (
          "title" : "Building a Chess Plan | Grandmaster's Choice - GM Robert Hungaski"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2022.03.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/road-2000-nm-caleb-denby-lichensorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pw3mvvAqI38.jpg?itok=feGRrRRZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/road-2000-nm-caleb-denby-lichensorg",
-         "pubDate" : "Tue, 22 Mar 2022 21:10:16 +0000",
-         "title" : "Road to 2000 - NM Caleb Denby | lichens.org"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1528,14 +1536,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-34",
          "pubDate" : "Fri, 18 Mar 2022 15:00:00 +0100",
          "title" : "Svitlana's Smart Moves - How to play with, and against an isolated pawn"
-      },
-      {
-         "description" : " <p class=\"lead\">GM and streamer Vidit Gujrathi gives an exclusive interview to Dina Belenkaya on his chess journey, his streaming career, his goals, and guilty pleasures. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/TZWel6GB84o?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/an-exclusive-interview-with-vidit-gujrathi/",
-         "pubDate" : "Fri, 18 Mar 2022 13:26:54 +0000",
-         "title" : "An Exclusive Interview With Vidit Gujrathi"
       },
       {
          "description" : "Week five was the first BYE week scheduled in the regular season, but there was still plenty of action as many teams rescheduled matches to be this weekend. This was also an exciting week for Princeton&#39;s captain GM Andrew Tang who made his way to ...",
@@ -2280,14 +2280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1626",
          "pubDate" : "Mon, 07 Mar 2022 22:10:06 +0000",
          "title" : "FIDE Workshop for Changes in Regulations held online"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1621",
-         "pubDate" : "Mon, 07 Mar 2022 19:00:21 +0000",
-         "title" : "Dominican Championships: Arvelo and Rosario Almanzar claim titles"
       }
    ]
 }
