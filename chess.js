@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "India B team consists of Md Imran, Sharon Rafael, Mritunjay Mahadevan, Jaivardhan Raj, Rosh Jain and non-playing Captain TJ Suresh Kumar won the Online Asian",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/online-asian-nations-cup-under-14-team-chess-championship-2022-double-delight-for-india/",
+         "pubDate" : "Mon, 28 Mar 2022 11:28:42 +0000",
+         "title" : "Online Asian Nations Cup Under-14 Team Chess Championship-2022 : Double delight for India"
+      },
+      {
+         "description" : "European Corporate Chess Championship 2022, organized by CC&#38;O- Chess Communication &#38; Organization, under the auspices of European Chess Union, will take place from 17th-20th June 2022 in Rotterdam, Netherlands. The tournament will be played on&#xA0;a luxury cruise ship of Royal Spido&#xA0;(named James Cook), while sailing in the Rotterdam harbour. Any corporate entity is allowed to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-corporate-chess-championship-2022/",
+         "pubDate" : "Mon, 28 Mar 2022 10:57:05 +0000",
+         "title" : "European Corporate Chess Championship 2022"
+      },
+      {
+         "description" : "European Corporate Chess Championship 2022, organized by CC&#38;O- Chess Communication &#38; Organization, under the auspices of European Chess Union, will take place from 17th-20th June 2022 in Rotterdam, Netherlands. The tournament will be played on a luxury cruise ship of Royal Spido (named James Cook), while sailing in the Rotterdam harbour. Any corporate entity is allowed to register&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-corporate-chess-championship-2020-official-invitation/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-corporate-chess-championship-2020-official-invitation/",
+         "pubDate" : "Mon, 28 Mar 2022 10:07:30 +0000",
+         "title" : "EUROPEAN CORPORATE CHESS CHAMPIONSHIP 2022- Official invitation"
+      },
+      {
+         "description" : "India&#x2019;s own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the country. The&#xA0;MPL Indian Chess Tour&#xA0;is the first regional expansion of the world-renowned&#xA0;Meltwater Champions Chess Tour (where this year Carlsen won Airthings Masters and just yesterday the Charity Chess Cup). Its launch underlines []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mpl-indian-chess-tour-2022/",
+         "pubDate" : "Mon, 28 Mar 2022 10:07:23 +0000",
+         "title" : "MPL Indian Chess Tour 2022"
+      },
+      {
+         "description" : "The European Individual Chess Championship 2022 kicked off yesterday in Terme Catez, Slovenia. ECU President Mr. Zurab Azmaiparashvili and President of Slovenian Chess Federation Mr. Milan Brglez addressed the players shortly before the start of the first round, wished them luck and a joyful stay in Slovenia. ECU President then made a first ceremonial move on the first&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2022-kicked-off-yesterday/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2022-kicked-off-yesterday/",
+         "pubDate" : "Mon, 28 Mar 2022 10:06:37 +0000",
+         "title" : "European Individual Chess Championship 2022 kicked off yesterday"
+      },
+      {
+         "description" : "The schedule and venue of the FIDE Candidates Tournament 2022 have been recently announced by FIDE. The double round-robin tournament will be played at the magnificent Palacio de Santoña, a centrally located historic building in Madrid. The first round will take place on June 17.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-announcement",
+         "pubDate" : "Mon, 28 Mar 2022 10:58:36 +0100",
+         "title" : "FIDE Candidates 2022: Venue and schedule announced"
+      },
+      {
+         "description" : "Belgrade, the city where Richard Rapport just won the Grand Prix, is going to hold its traditional March tournament. Celebrating the International Women&#x2019;s Day &#x2013; 8th March with a strong chess tournament is a tradition in Belgrade since 1965. This event is in the select group of the tournaments with the longest continuity in the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/53rd-international-womens-grandmaster-chess-tournament/",
+         "pubDate" : "Mon, 28 Mar 2022 09:51:26 +0000",
+         "title" : "53rd International Women's Grandmaster Chess Tournament"
+      },
+      {
+         "description" : "18-year-old newly-crowned Indian Chess Champion Arjun Erigaisi tops the bill as the $100,000 MPL Indian Chess Tour starts on March 31st. The new $100,000 online Tour features four 16-player tournaments, with the winner of each event qualifying for the Meltwater Champions Chess Tour. The four winners and four next highest scoring players on the Tour also qualify for a knockout final with a $10,000 top prize.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mpl-indian-chess-tour-starts-march-31st",
+         "pubDate" : "Mon, 28 Mar 2022 09:30:01 +0000",
+         "title" : "$100,000 MPL Indian Chess Tour starts March 31st"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering discusses common mating combinations that exploit weaknesses on the back rank. Solve tactics with the mysterious masked Alex! Originally on Twitch<br /> 2022.03.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/combinations-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wyeWVmLJEh0.jpg?itok=lrorGXMd\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -10,7 +74,15 @@ news_feed (
          "title" : "Combinations | Beginner Breakdown"
       },
       {
-         "description" : "The fifth round of leg three of the 2022 FIDE Grand Prix&#38;nbsp;saw four decisive games. The wins by GMs&#38;nbsp;Hikaru Nakamura&#38;nbsp;and Levon Aronian&#38;nbsp;mean that they lead in Group A. In Group B,&#38;nbsp;GMs&#38;nbsp;Leinier Dominguez Perez&#38;nbsp;and&#38;nbsp...",
+         "description" : "Four players representing the United States scored full points in round 5 of the Berlin Grand Prix. Levon Aronian and Hikaru Nakamura both won and are now sharing the lead in pool A, much like Wesley So and Sam Shankland, who are now co-leaders in pool C. Given round-5's results, we are likely to see tiebreaks after Monday's final round, as none of the four groups has a sole leader at the moment. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r5",
+         "pubDate" : "Mon, 28 Mar 2022 05:45:00 +0100",
+         "title" : "Berlin GP: A great day for team USA"
+      },
+      {
+         "description" : "The fascinating battle for the Candidates qualification continues as both GMs&#38;nbsp;Hikaru Nakamura&#38;nbsp;and Levon Aronian&#38;nbsp;won their games in Berlin on Sunday. The two are leading Group A together. The fifth round of leg three of the 2022 FI...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-round-5",
@@ -154,14 +226,6 @@ news_feed (
          "title" : "Magnus Carlsen is the Charity Chess Cup champion"
       },
       {
-         "description" : "Four players representing the United States scored full points in round 5 of the Berlin Grand Prix. Levon Aronian and Hikaru Nakamura both won and are now sharing the lead in pool A, much like Wesley So and Sam Shankland, who are now co-leaders in pool C. Given round-5's results, we are likely to see tiebreaks after Monday's final round, as none of the four groups has a sole leader at the moment. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r5",
-         "pubDate" : "Sun, 27 Mar 2022 05:45:00 +0100",
-         "title" : "Berlin GP: A great day for team USA"
-      },
-      {
          "description" : "Magnus Carlsen made it two Meltwater Champions Chess Tour events, two victories, as he won the Charity Cup, but his overriding emotion was \"huge relief\" after withstanding a comeback by Jan-Krzysztof Duda. Magnus won a brilliant first game of the final day and was a move or two away from clinching the title with two games to spare, but one blunder and Duda stormed back to win two games in a row. Magnus was rocking, but he composed himself to win the blitz playoff 2:0 and take the trophy. Meanwhile over $150,000 was raised for Unicef's work in and around Ukraine.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -290,14 +354,6 @@ news_feed (
          "title" : "Charity Cup Finals: Carlsen gets clear win in first set"
       },
       {
-         "description" : "Magnus Carlsen is on the brink of winning a second Meltwater Champions Chess Tour event in a row after a near-flawless performance in the first match of the Charity Cup final. The World Champion and reigning Tour Champion was at his imperious best as he dispatched Poland's World Cup winner Jan-Krzysztof Duda in just three []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-takes-lead-over-duda-in-charity-cup-final/",
-         "pubDate" : "Sat, 26 Mar 2022 07:03:24 +0000",
-         "title" : "Carlsen takes lead over Duda in Charity Cup final"
-      },
-      {
          "description" : "The fourth round of leg three of the 2022 FIDE Grand Prix&#38;nbsp;saw no fewer than five decisive games.&#38;nbsp;GM Grigoriy Oparin&#39;s win in Group A means that he takes the lead. In the same group, GM Hikaru Nakamura&#38;nbsp;defeated GM Levon Aronian&#38;nbsp;...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -312,14 +368,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1659",
          "pubDate" : "Sat, 26 Mar 2022 01:23:30 +0000",
          "title" : "FIDE Grand Prix Berlin - Round 4 Recap"
-      },
-      {
-         "description" : "The&#160;Charity Chess Cup 2022, the 2nd event on the Meltwater Champions Chess Tour, starts this Saturday March 19th and will be featured with live games, video, and detailed coverage on Chessdom.com. Magnus Carlsen, the reigning World Champion, 2021 Tour Champion and&#160;winner of the first event of the 2022 Tour, will return along with a total []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/charity-chess-cup-2022-live/",
-         "pubDate" : "Sat, 26 Mar 2022 01:15:00 +0000",
-         "title" : "Charity Chess Cup 2022 LIVE"
       },
       {
          "description" : "Magnus Carlsen is close to winning a 2nd Meltwater Champions Chess Tour event in a row after scoring a 2.5:0.5 victory over Jan-Krzysztof Duda on Day 1 of the Charity Cup final. The first game was a nail-biting draw before Magnus won the next two games that he described as \"exceptionally interesting from a strategic point of view\". Duda's task now is to win Saturday's match on demand and force tiebreaks.",
@@ -512,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-round-3",
          "pubDate" : "Thu, 24 Mar 2022 19:32:00 -0700",
          "title" : "2022 FIDE Grand Prix Berlin Leg 3, R3: Keymer Wins, Nakamura Escapes"
-      },
-      {
-         "description" : "FIDE Grand Prix Berlin 2022&#160;is the final leg of the Grand Prix series that will determine the participants in the&#160;Candidates Chess 2022. With&#160;Richard Rapport&#160;practically qualified after winning the&#160;Belgrade Grand Prix, just one spot is available for grabs. Replay games / See players videos The third leg of the FIDE World Chess Grand Prix got off []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-grand-prix-berlin-the-first-three-rounds/",
-         "pubDate" : "Fri, 25 Mar 2022 01:46:25 +0000",
-         "title" : "FIDE Grand Prix Berlin - the first three rounds"
       },
       {
          "description" : " <p class=\"lead\">The local hero Vincent Keymer outplayed Daniil Dubov and joined Leinier Dominguez in the lead of Pool B. The rest of the games finished in a draw in the third round of the final stage of the Grand Prix series, thus Levon Aronian, Alexandr Predke, and Nikita Vitiugov kept their lead in other groups. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220324165117_IMG_4575.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220324182332_IMG_4658.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/2022032419",
@@ -1194,14 +1234,6 @@ news_feed (
          "title" : "Notice : National Team & National Team for Women Chess Championship 2022"
       },
       {
-         "description" : "On the third episode of The Late Knight Show, Askild Bryn and David Howell speak to popular British Grandmaster Simon Williams, who reveals the secrets behind his success. How did he get into chess? Who is his \"nemesis\"? And how did he get locked in his room, almost missing his final GM norm?",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/the-late-knight-show-simon-williams",
-         "pubDate" : "Mon, 21 Mar 2022 10:29:04 +0000",
-         "title" : "The Late Knight Show: Simon 'GingerGM' Williams"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1874,14 +1906,6 @@ news_feed (
          "title" : "European Chess Women's Gala"
       },
       {
-         "description" : "ECU establishes a solidarity fund to support Ukrainian chess players participating in the 2022 European Championships and to provide humanitarian aid. The donations by National Chess federations, entities and individuals can be made through the ECU Bank account with the reference #supportukrainechess https://www.europechess.org/regulations/ecu-bank-account/ or online through the ECU website: https://www.europechess.org/ecu-payments-donations/ The fund will be transparently managed by the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/solidarity-fund-for-ukrainechess/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/solidarity-fund-for-ukrainechess/",
-         "pubDate" : "Mon, 14 Mar 2022 08:51:01 +0000",
-         "title" : "Solidarity Fund for #UkraineChess"
-      },
-      {
          "description" : "A win with white in Sunday's second game of the final gave Richard Rapport tournament victory at the second leg of the FIDE Grand Prix in Belgrade. Rapport beat Dmitry Andreikin after rejecting a draw by triple repetition in a double-edged position. This victory, combined with his reaching the semifinals in the first leg of the series, places him as a clear favourite to get a spot in the Candidates Tournament. | Photos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2066,14 +2090,6 @@ news_feed (
          "title" : "Born in Odessa: Efim Geller"
       },
       {
-         "description" : "The 22nd European Women's Chess Championship will take place from 19th August 1st September in Prague, Czech Republic. The event will be played in 11 rounds, Swiss system, with time control 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per move, starting from /move one.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-individual-chess-championship-2022-official-invitation/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-individual-chess-championship-2022-official-invitation/",
-         "pubDate" : "Fri, 11 Mar 2022 11:23:45 +0000",
-         "title" : "European Women's Individual Chess Championship 2022 - Official invitation"
-      },
-      {
          "description" : " The 250-player international tournament in Iceland will be staged with zero Covid restrictions, and provides a breakthrough chance for young English talents Half a century on from 1972, the Bobby Fischer v Boris Spassky series in Reykjavik remains the most famous of all world championship matches. It triggered a global chess boom, not least in Britain where for a brief period a galaxy of talent made England the No 2 chess nation behind the Soviet Union. Reykjavik has another tradition, its annual international open first staged in 1964 when the legendary Mikhail Tal outclassed the field with 12.5/13. The 2022 edition at the Harpa Conference Centre from 6-12 April has a tight schedule of nin",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2176,14 +2192,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-mpl-50th-national-junior-under-20-35th-national-junior-girls-under-20-chess-championships-2022/",
          "pubDate" : "Wed, 09 Mar 2022 06:45:59 +0000",
          "title" : "LIVE GAMES : MPL 50TH NATIONAL JUNIOR (UNDER-20) & 35TH NATIONAL JUNIOR GIRLS (UNDER-20) CHESS CHAMPIONSHIPS-2022"
-      },
-      {
-         "description" : "Second seed Pranesh M of Tamil Nadu and eighth seed Tania Boramanikar of Maharashtra becomes national sub-junior champions in the MPL National Sub-Junior &#38; National",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-to-pranesh-m-tanisha/",
-         "pubDate" : "Tue, 08 Mar 2022 17:40:17 +0000",
-         "title" : "Congratulations to Pranesh M & Tanisha"
       },
       {
          "description" : "",
