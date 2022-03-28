@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering discusses common mating combinations that exploit weaknesses on the back rank. Solve tactics with the mysterious masked Alex! Originally on Twitch<br /> 2022.03.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/combinations-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wyeWVmLJEh0.jpg?itok=lrorGXMd\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/combinations-beginner-breakdown",
+         "pubDate" : "Mon, 28 Mar 2022 06:14:54 +0000",
+         "title" : "Combinations | Beginner Breakdown"
+      },
+      {
          "description" : "The fifth round of leg three of the 2022 FIDE Grand Prix&#38;nbsp;saw four decisive games. The wins by GMs&#38;nbsp;Hikaru Nakamura&#38;nbsp;and Levon Aronian&#38;nbsp;mean that they lead in Group A. In Group B,&#38;nbsp;GMs&#38;nbsp;Leinier Dominguez Perez&#38;nbsp;and&#38;nbsp...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1048,14 +1056,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/the-last-leg-of-the-fide-grand-prix-in-berlin-is-about-to-start/",
          "pubDate" : "Mon, 21 Mar 2022 18:24:33 +0000",
          "title" : "The Last Leg of the FIDE Grand Prix in Berlin is about to start"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Love is in the air! Alex Moellering shows how to find the perfect soulmate, roommate, and checkmate, using examples from famous matches. See tricks, traps, and sacrifices beginners can play in the opening and middlegame. Originally on Twitch<br /> 2022.03.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-find-perfect-mate-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumb",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-find-perfect-mate-beginner-breakdown",
-         "pubDate" : "Mon, 21 Mar 2022 18:09:12 +0000",
-         "title" : "How to Find the PERFECT Mate! | Beginner Breakdown"
       },
       {
          "description" : "The German Bundesliga started its new season, and the first matches brought many fascinating endgames. Karsten was spoiled for choice but in the Endgame Magic Show #186 he presents an absolute highlight in which the much lower-rated player defeated a strong Grandmaster in study-like fashion. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
