@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-round-5",
-         "pubDate" : "Sun, 27 Mar 2022 19:21:30 -0700",
+         "pubDate" : "Sun, 27 Mar 2022 19:21:00 -0700",
          "title" : "Nakamura Wins Again, Leads With Aronian: 2022 FIDE Grand Prix Berlin Leg 3, Round 5"
       },
       {
@@ -82,14 +82,6 @@ news_feed (
          "title" : "Understanding before Moving 72: Pawn chains in the French Defense (1)"
       },
       {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
-         "pubDate" : "Sun, 27 Mar 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90477810.cms\" />Top seed Arjun Erigaisi, Harsha Bharathakoti and D Gukesh on Sunday emerged as joint leaders at the 19th edition of Delhi International Open Grandmasters Chess tournament. With just two rounds remaining, the tournament is heading for an exciting finish as the three Indians are now leading the standings with seven points.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -152,6 +144,14 @@ news_feed (
          "link" : "https://www.chessdom.com/magnus-carlsen-is-the-charity-chess-cup-champion/",
          "pubDate" : "Sun, 27 Mar 2022 05:09:35 +0000",
          "title" : "Magnus Carlsen is the Charity Chess Cup champion"
+      },
+      {
+         "description" : "Four players representing the United States scored full points in round 5 of the Berlin Grand Prix. Levon Aronian and Hikaru Nakamura both won and are now sharing the lead in pool A, much like Wesley So and Sam Shankland, who are now co-leaders in pool C. Given round-5's results, we are likely to see tiebreaks after Monday's final round, as none of the four groups has a sole leader at the moment. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r5",
+         "pubDate" : "Sun, 27 Mar 2022 05:45:00 +0100",
+         "title" : "Berlin GP: A great day for team USA"
       },
       {
          "description" : "Magnus Carlsen made it two Meltwater Champions Chess Tour events, two victories, as he won the Charity Cup, but his overriding emotion was \"huge relief\" after withstanding a comeback by Jan-Krzysztof Duda. Magnus won a brilliant first game of the final day and was a move or two away from clinching the title with two games to spare, but one blunder and Duda stormed back to win two games in a row. Magnus was rocking, but he composed himself to win the blitz playoff 2:0 and take the trophy. Meanwhile over $150,000 was raised for Unicef's work in and around Ukraine.",
