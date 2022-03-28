@@ -2,6 +2,110 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1665",
+         "pubDate" : "Mon, 28 Mar 2022 17:33:54 +0000",
+         "title" : "Richard Rapport and Hikaru Nakamura qualify for Candidates 2022"
+      },
+      {
+         "description" : " <p class=\"lead\">After Round 6 of the third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022,</a> GMs Hikaru Nakamura and Richard Rapport qualify for the 2022 Candidates Tournament <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220328150747_IMG_5223.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220211150421_IMG_1719-(1).jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photos: Pierre Adenis/World Chess</div> </div> Round 6 of the Grand Prix was more revealing than we would expect, wi",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/rapport-and-nakamura-qualify-for-the-2022-candidates-tournament/",
+         "pubDate" : "Mon, 28 Mar 2022 17:08:18 +0000",
+         "title" : "Rapport and Nakamura qualify for the 2022 Candidates Tournament"
+      },
+      {
+         "description" : "Before the knockout phase of the&#38;nbsp;2022 FIDE Grand Prix&#39;s third leg in Berlin even started, the fight for the FIDE Candidates tournament was decided today: GMs&#38;nbsp;Hikaru Nakamura&#38;nbsp;and GM Richard Rapport made it. Winning his third game i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-rapport-qualify-for-2022-fide-candidates",
+         "pubDate" : "Mon, 28 Mar 2022 10:08:00 -0700",
+         "title" : "BREAKING: Nakamura, Rapport Qualify For FIDE Candidates"
+      },
+      {
+         "description" : "The Kragero Open had a large and strong field which led to many games with fascinating endgames. In his Endgame Magic Show #187 Karsten M&uuml;ller presents seven of these endgames. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-187-highlights-from-the-kragero-open",
+         "pubDate" : "Mon, 28 Mar 2022 18:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic Show #187: Highlights from the Kragero Open"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90500835.cms\" />Defending champion Abhijeet Gupta defeated Iran's Poormosavi Seyed Kian in the penultimate round to take a joint lead in the 19th Delhi International open chess tournament on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/abhijeet-gupta-back-in-joint-lead-at-delhi-international-open-chess/articleshow/90500835.cms",
+         "pubDate" : "Mon, 28 Mar 2022 14:44:42 +0000",
+         "title" : "Abhijeet Gupta back in joint lead at Delhi International Open Chess"
+      },
+      {
+         "description" : "GM Ding Liren started a 12-game tournament in Hangzhou, China with three wins in two days, which brought him back to second place in the world rankings. According to the Chinese GM&#39;s upcoming schedule, he will reach the 30 rated games that he need...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ding-liren-world-number-two-candidates",
+         "pubDate" : "Mon, 28 Mar 2022 07:11:00 -0700",
+         "title" : "Ding Liren Back To World #2, Plans To Reach 30 Rated Games Needed For Candidates"
+      },
+      {
+         "description" : " Finding the right time to resign after it has all gone wrong is a fine art. I usually play on for a little longer than I should, hoping that something might turn up. On the other hand, some players (especially strong ones) will throw in the towel early especially when playing even stronger opponents. Jan Hein Donner went this way after misplaying the opening against Smyslov back in 1965. The assessment of the position isn't that terrible (White ends up a pawn ahead), but Donner may not have have wished to spend the rest of the day defending a position that would eventually be lost. <br /> <b>Smyslov,Vassily - Donner,Jan Hein [E06]</b><br />Capablanca Memorial Havana (9), 1965 <script>new Pg",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/pulling-pin.html",
+         "pubDate" : "Mon, 28 Mar 2022 14:02:00 +0000",
+         "title" : "Pulling the pin"
+      },
+      {
+         "description" : "In a historic edition of the Premier division of TCEC, defending champion Stockfish qualified for the Superfinal half a point ahead of Komodo Dragon, who was in turn three points ahead of 3rd placed Leela Chess Zero. TCEC Premire division final standings / Report after DRR2 / Report after DRR3 Stockfish did not have it []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stockfish-wins-tcec-season-22-premier-division/",
+         "pubDate" : "Mon, 28 Mar 2022 13:56:59 +0000",
+         "title" : "Stockfish wins TCEC Season 22 Premier Division"
+      },
+      {
+         "description" : "GM Dmitry Andreikin&#38;nbsp;won week seven of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Le Quang Liem in a hard-fought final blitz playoff. GM Fabiano Caruana won the Swiss tournament and made it to the semifinal...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-7-andreikin-wins",
+         "pubDate" : "Mon, 28 Mar 2022 06:56:00 -0700",
+         "title" : "Rapid Chess Championship Week 7: Andreikin Wins Knockout"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
+         "pubDate" : "Mon, 28 Mar 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : "On Sunday, the European Individual Championship (\"EICC\") began in Terme Čatež (Slovenia). Players from Russia and Belarus are not allowed to take part but a lot of Ukrainian players are present. With a rating of 2700 David Navara is the top seed. Round 2 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
+         "pubDate" : "Mon, 28 Mar 2022 14:55:00 +0100",
+         "title" : "European Individual Chess Championship (EICC), Round 2 - live"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/-E6ZHwDjwZ8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-pools-round-6/",
+         "pubDate" : "Mon, 28 Mar 2022 13:19:03 +0000",
+         "title" : "FIDE Grand Prix in Berlin: Pools Round 6"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90497954.cms\" />Reigning national champion Arjun Erigaisi will be the star attraction at the $1,00,000 prize money MPL Indian Chess Tour, an elite online event beginning on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-to-headline-indian-chess-tour/articleshow/90497954.cms",
+         "pubDate" : "Mon, 28 Mar 2022 12:40:02 +0000",
+         "title" : "Arjun Erigaisi to headline Indian Chess Tour"
+      },
+      {
          "description" : "India B team consists of Md Imran, Sharon Rafael, Mritunjay Mahadevan, Jaivardhan Raj, Rosh Jain and non-playing Captain TJ Suresh Kumar won the Online Asian",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -218,7 +322,7 @@ news_feed (
          "title" : "European Individual Chess 2022, round 1 pairings"
       },
       {
-         "description" : "Magnus Carlsen is the Charity Chess Cup 2022 champion after winning a thrilling final against Jan-Krzysztof Duda. This makes it perfect 3 out of 3 titles this year for Carlsen, after he won earlier Tata Steel Chess and Airthings Masters. More about Charity Cup:&#xA0;Charity Cup 2022 participants and preview&#xA0;/&#xA0;Charity Cup 2022 live&#xA0;/&#xA0;Charity Cup 2022 video)&#xA0;Round []",
+         "description" : "Magnus Carlsen is the Charity Chess Cup 2022 champion after winning a thrilling final against Jan-Krzysztof Duda. This makes it perfect 3 out of 3 titles this year for Carlsen, after he won earlier Tata Steel Chess and Airthings Masters. More about Charity Cup:&#160;Charity Cup 2022 participants and preview&#160;/&#160;Charity Cup 2022 live&#160;/&#160;Charity Cup 2022 video)&#160;Round []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/magnus-carlsen-is-the-charity-chess-cup-champion/",
@@ -328,14 +432,6 @@ news_feed (
          "link" : "https://www.thearticle.com/napoleon-beethoven-and-the-turk/",
          "pubDate" : "Sat, 26 Mar 2022 09:03:44 +0000",
          "title" : "Napoleon, Beethoven and the Turk"
-      },
-      {
-         "description" : "The 7th Rapid Chess Championship of the Francophonie was organized this year on March 19 &#38; 20 jointly by the Lyon Olympique Echecs and the Francophone Chess Association (AIDEF) in partnership with the Auvergne-Rh&#xF4;ne-Alpes Region, in the premises of the magnificent Hotel of Region, informs the ECU official website. It brought together 169 participants from []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/maxime-lagarde-is-francophone-rapid-chess-champion/",
-         "pubDate" : "Sat, 26 Mar 2022 08:49:58 +0000",
-         "title" : "Maxime Lagarde is Francophone Rapid Chess Champion"
       },
       {
          "description" : "In the diagrammed position Black found a fantastic way to make White's loose position collapse - please follow in the footsteps of Rustam Kasimdzhanov!",
@@ -1570,14 +1666,6 @@ news_feed (
          "title" : "Russia Out"
       },
       {
-         "description" : "The most exciting matches so far of the 2022 Bullet Chess Championship presented by DigitalOcean&#38;nbsp;were in full swing today, headlined by a clash between bullet titans GM Hikaru Nakamura and GM Andrew Tang. With both players neck and neck until...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-bullet-chess-championship-winners-final-losers-semifinals-nakamura-wins",
-         "pubDate" : "Wed, 16 Mar 2022 14:20:00 -0700",
-         "title" : "Bullet Chess Championship: Nakamura Advances To Grand Finals"
-      },
-      {
          "description" : "FIDE has followed the recommendations of the International Olympic Committee and excluded the teams of Russia and Belarus from participating in all official FIDE tournaments.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1592,14 +1680,6 @@ news_feed (
          "link" : "https://chessimprover.com/master-chess-web-show-5/",
          "pubDate" : "Wed, 16 Mar 2022 16:12:05 +0000",
          "title" : "Master Chess Web Show (5)"
-      },
-      {
-         "description" : "For the second consecutive week, the winners of the March 15&#38;nbsp;Titled Tuesday&#38;nbsp;were GM Daniil Dubov&#38;nbsp;and&#38;nbsp;GM Hikaru Nakamura. Nakamura, GM Dmitry Andreikin, and GM Amin Tabatabaei all finished in the top five in both events, while&#38;n...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dubov-nakamura-win-titled-tuesday-march-15-2022",
-         "pubDate" : "Wed, 16 Mar 2022 08:35:00 -0700",
-         "title" : "Dubov, Nakamura Continue To Crush Titled Tuesday"
       },
       {
          "description" : " This is an interview I have long waited to publish. I had the honor to talk to one of the most decorated (Junior) Coaches of the past 2 decades. Grandmaster Ramesh RB has Coached his students to more than 45(!!!) Gold Medals in World (Junior) Events, served as Coach of the Indian National Team for [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/gm-ramesh-on-calculation/\">Gold-Coach GM Ramesh RB On Calculation And How To Train Right</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -1664,22 +1744,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-webinar-for-fide-international-organizers/",
          "pubDate" : "Wed, 16 Mar 2022 10:03:50 +0000",
          "title" : "FIDE International Organisers Online Seminar with ECU"
-      },
-      {
-         "description" : " Indian <a href=\"https://www.youtube.com/channel/UCpjTx5WsF4yqyvGIYY8nuVg\">GM Vidit Santosh Gujrathi</a>, the star of the recently concluded FIDE Grand Prix Series in Berlin and Belgrade, has become the first <a href=\"https://chessarena.com\">FIDE Online Arena</a> ambassador. Arena users will see Vidit supporting young talent on the platform, live streaming and playing online tournaments starting from March 2022. Vidit will also surprise some users with personal congratulations for achieving FOA titles, approved by FIDE. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/IhEmKZSOExM?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Vidit is t",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/vidit-santosh-gujrathi-becomes-the-fide-online-arena-ambassador/",
-         "pubDate" : "Wed, 16 Mar 2022 09:47:24 +0000",
-         "title" : "Vidit Santosh Gujrathi Becomes the FIDE Online Arena Ambassador"
-      },
-      {
-         "description" : "The 44th FIDE Chess Olympiad will be held this summer in Chennai,&#38;nbsp;Tamil Nadu, India. This news was announced at a press conference in Chennai on Wednesday, after the FIDE Council had approved the city&#39;s bid the night before. Originally, the e...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chennai-to-host-2022-fide-chess-olympiad",
-         "pubDate" : "Wed, 16 Mar 2022 02:42:00 -0700",
-         "title" : "'Mecca of Chess' Chennai To Host 2022 FIDE Chess Olympiad"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The French Ministry of Education, Youth and Sport has given the French Chess Federation <a href=\"http://echecs.asso.fr/Actu.aspx?Ref=13831\">delegate status, which comes with more rights, support and access to subsidies</a>. </div> ",
@@ -1752,14 +1816,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/15/ep-270-cody-smith-adult-improver-series",
          "pubDate" : "Tue, 15 Mar 2022 14:59:21 +0000",
          "title" : "EP 270- Cody Smith (Adult Improver Series) "
-      },
-      {
-         "description" : " <p class=\"lead\">Richard Rapport, the winner of the second leg of the FIDE Grand Prix 2022, gives an exclusive interview to Dina Belenkaya on how chess came into his life, his attitude to pre-arranged draws, his regrets and joys of being a professional chess player and more. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/kYKwHK2E2fQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/an-exclusive-interview-with-richard-rapport/",
-         "pubDate" : "Tue, 15 Mar 2022 14:00:00 +0000",
-         "title" : "An Exclusive Interview with Richard Rapport"
       },
       {
          "description" : "The American magazine \"Mother Jones\", seven times winner of the \"Magazine of the Year\" award from the American Society of Magazine Editors, just published interviews with 36 prominent personalities from the world of chess about the war in Ukraine. One of them is FIDE President and former Russian Deputy Prime Minister Arkady Dvorkovich, who spoke out against the war: \"My thoughts are with Ukrainian civilians. ... Wars do not just kill priceless lives. Wars kill hopes and aspirations, freeze or destroy relationships and connections.\" | Photo: David Llada",
@@ -2026,22 +2082,6 @@ news_feed (
          "title" : "Putin, paranoia and chess"
       },
       {
-         "description" : "In the diagram position 35.Rxg6+! would have led to victory for White - if followed by the right checks after 35...Kh7. Can you find them all?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/only-one-check-wins",
-         "pubDate" : "Sat, 12 Mar 2022 09:00:00 +0100",
-         "title" : "Only one check wins!"
-      },
-      {
-         "description" : "Dmitry Andreikin will face Richard Rapport in the final match of the FIDE Grand Prix's second stage, taking place in Belgrade. The Russian grandmaster got a 1&frac12;-&frac12; win over Anish Giri in a rapid tiebreaker to remain in the fight for overall victory in Serbia's capital. It was a heartbreaking loss for Giri, who had winning chances in both rapid encounters played on Friday. | Photos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-sf3",
-         "pubDate" : "Sat, 12 Mar 2022 03:00:00 +0100",
-         "title" : "Belgrade GP: Andreikin knocks out Giri"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2058,14 +2098,6 @@ news_feed (
          "title" : "FIDE Grand Prix Belgrade: Andreikin set up final with Rapport"
       },
       {
-         "description" : "Two creative players are facing each other in a match in London. Nils Grandelius, representing Sweden, is playing David Howell, representing England. In game 7, Grandelius employed an unexpected plan to get a brilliant win with the white pieces. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-a-brilliant-attack-by-nils-grandelius",
-         "pubDate" : "Fri, 11 Mar 2022 19:45:00 +0100",
-         "title" : "Daniel King's Power Play Show: A brilliant attack by Nils Grandelius"
-      },
-      {
          "description" : " One of my students, who read through my last piece here at the Chess Improver, mentioned that I had not brought up a teaching method I used for calculation training. Chess comes down to thinking ahead and having the ability to do so! All the strategic and tactical skills in the world won't help you <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-four/\">A Foundation for Beginners Fifty Four</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2080,14 +2112,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/pay-to-win-chess.html",
          "pubDate" : "Fri, 11 Mar 2022 12:42:00 +0000",
          "title" : "Pay to win - Chess?"
-      },
-      {
-         "description" : "Efim Geller, one of Ukraine's greatest chess talents, would have turned 97 years old on March 8 this year. An extraordinary player, he also had a doctorate in Physical Education, and worked as a second to Tigran Petrosian, Boris Spassky and Anatoly Karpov. Experts estimate Geller was among the top ten players in the world for about twenty years.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/born-in-odessa-efim-geller",
-         "pubDate" : "Fri, 11 Mar 2022 13:00:00 +0100",
-         "title" : "Born in Odessa: Efim Geller"
       },
       {
          "description" : " The 250-player international tournament in Iceland will be staged with zero Covid restrictions, and provides a breakthrough chance for young English talents Half a century on from 1972, the Bobby Fischer v Boris Spassky series in Reykjavik remains the most famous of all world championship matches. It triggered a global chess boom, not least in Britain where for a brief period a galaxy of talent made England the No 2 chess nation behind the Soviet Union. Reykjavik has another tradition, its annual international open first staged in 1964 when the legendary Mikhail Tal outclassed the field with 12.5/13. The 2022 edition at the Harpa Conference Centre from 6-12 April has a tight schedule of nin",
@@ -2264,22 +2288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1621",
          "pubDate" : "Mon, 07 Mar 2022 19:00:21 +0000",
          "title" : "Dominican Championships: Arvelo and Rosario Almanzar claim titles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1620",
-         "pubDate" : "Mon, 07 Mar 2022 14:29:36 +0000",
-         "title" : "Chess for Ukraine: FIDE announces a series of fundraising events on Women's Day"
-      },
-      {
-         "description" : "To my astonishment, not to mention extreme admiration, forty-four of Russia's leading chess Grandmasters, including last year's world title challenger Ian Nepomniachtchi and the top female player Alexandra Kosteniuk (pictured above), have written an open letter to President Putin denouncing his war against Ukraine. These bold paragons of the chess community are thereby risking not []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/red-letter-day-how-russian-chess-defied-putin/",
-         "pubDate" : "Mon, 07 Mar 2022 12:00:53 +0000",
-         "title" : "Red letter day: how Russian chess defied Putin"
       }
    ]
 }
