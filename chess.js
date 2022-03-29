@@ -10,6 +10,14 @@ news_feed (
          "title" : "Berlin GP: Nakamura in the Candidates"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alejandro Ramirez spotlights games played by Ukrainian Grandmaster Vereslav Eingorn. Originally on Twitch<br /> 2022.03.15<br /> Vereslav S Eingorn vs Yaacov Zilberman, Oberwart Open (1994)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1499312\">https://www.chessgames.com/perl/chessgame?gid=1499312</a><br /> Vereslav S Eingorn vs Viktor Kupreichik, USSR Championship (1987)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1087681\">https://www.chessgames.com/perl/chessgame?gid=1087681</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"fie",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/vereslav-eingorn-legends-saint-louis-gm-alejandro-ramirez",
+         "pubDate" : "Tue, 29 Mar 2022 03:15:34 +0000",
+         "title" : "Vereslav Eingorn | Legends in Saint Louis - GM Alejandro Ramirez"
+      },
+      {
          "description" : "Hikaru Nakamura and Richard Rapport are in the Candidates Tournament after Hikaru's win over Andrey Esipenko ensured that the two would finish 1st and 2nd in the FIDE Grand Prix. All the results went Hikaru's way, as his key rivals Levon Aronian, Anish Giri and Leinier Dominguez all lost, while Maxime Vachier-Lagrave was held to a draw by Sam Shankland. Amin Tabatabaei is the surprise player already confirmed alongside Hikaru in the Berlin semi-finals, while So-Shankland and Mamedyarov-Keymer will play tiebreaks on Tuesday.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -50,12 +58,12 @@ news_feed (
          "title" : "Rapport and Nakamura qualify for the 2022 Candidates Tournament"
       },
       {
-         "description" : "Before the knockout phase of the&#38;nbsp;2022 FIDE Grand Prix&#39;s third leg in Berlin even started, the fight for the FIDE Candidates tournament was decided today: GMs&#38;nbsp;Hikaru Nakamura&#38;nbsp;and GM Richard Rapport made it. Winning his third game i...",
+         "description" : "With today&#38;rsquo;s victory in the sixth round of the&#38;nbsp;2022 FIDE Grand Prix&#39;s third leg, American GM Hikaru Nakamura&#38;nbsp;scored a hat trick and won Group A, securing a spot in the semifinals, and joined GM Richard Rapport as the qualifiers fro...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-rapport-qualify-for-2022-fide-candidates",
          "pubDate" : "Mon, 28 Mar 2022 10:08:00 -0700",
-         "title" : "BREAKING: Nakamura, Rapport Qualify For FIDE Candidates"
+         "title" : "Nakamura, Rapport In For FIDE Candidates: 2022 FIDE Grand Prix Berlin Leg 3, Round 6"
       },
       {
          "description" : "The Kragero Open had a large and strong field which led to many games with fascinating endgames. In his Endgame Magic Show #187 Karsten M&uuml;ller presents seven of these endgames. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -1024,14 +1032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1654",
          "pubDate" : "Tue, 22 Mar 2022 23:22:04 +0000",
          "title" : "FIDE Grand Prix Berlin - Round 1 Recap"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski begins his series on building a chess plan. 2022.03.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/building-chess-plan-grandmasters-choice-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bhBs4WsCxM4.jpg?itok=16ZTUn-U\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/building-chess-plan-grandmasters-choice-gm-robert-hungaski",
-         "pubDate" : "Tue, 22 Mar 2022 21:10:16 +0000",
-         "title" : "Building a Chess Plan | Grandmaster's Choice - GM Robert Hungaski"
       },
       {
          "description" : "",
