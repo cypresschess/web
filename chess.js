@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Starting today, all Fritz 18 users will receive an additional engine as a free update: Fritz 18 Neuronal. The new engine Fritz 18 Neuronal achieves an increase in playing strength of about 120 ELO points compared to the classic Fritz 18 engine at shorter time controls. Simply start Fritz 18 and start the automatically offered update! Then the new engine will be installed!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/free-fritz18-update-fritz18neuronal-engine",
+         "pubDate" : "Tue, 29 Mar 2022 12:00:00 +0100",
+         "title" : "Free Fritz update: AI engine \"Fritz 18 Neuronal\""
+      },
+      {
+         "description" : "National Sub-Junior (04-08, March 2022) Certificates are Out to Download National Sub-Junior and National Sub-Junior Girls Chess Championship 2022 Certificates are out to download for",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/47489-2/",
+         "pubDate" : "Tue, 29 Mar 2022 10:32:35 +0000",
+         "title" : "National Sub-Junior (04-08, March 2022) Certificates are Out to Download"
+      },
+      {
+         "description" : "Registration is now open for this year's MSO Grand Prix, which commences on April 15. The goal of the MSO Grand Prix is to continue...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2022-mso-grand-prix/",
+         "pubDate" : "Tue, 29 Mar 2022 10:14:15 +0000",
+         "title" : "2022 MSO Grand Prix"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1667",
+         "pubDate" : "Tue, 29 Mar 2022 10:12:15 +0000",
+         "title" : "FIDE Podcast: A new episode featuring Hou Yifan released"
+      },
+      {
          "description" : "In the diagrammed position White has a far advanced c-pawn but Black is two pawns up, and if White queens the c-pawn the black pawns will decide the day. But White can save the game. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,14 +152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-7-andreikin-wins",
          "pubDate" : "Mon, 28 Mar 2022 06:56:00 -0700",
          "title" : "Rapid Chess Championship Week 7: Andreikin Wins Knockout"
-      },
-      {
-         "description" : "On Sunday, the European Individual Championship (\"EICC\") began in Terme Čatež (Slovenia). Players from Russia and Belarus are not allowed to take part but a lot of Ukrainian players are present. With a rating of 2700 David Navara is the top seed. Round 2 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
-         "pubDate" : "Mon, 28 Mar 2022 14:55:00 +0100",
-         "title" : "European Individual Chess Championship (EICC), Round 2 - live"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/-E6ZHwDjwZ8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -2210,14 +2234,6 @@ news_feed (
          "title" : "Master Chess Web Show (4)"
       },
       {
-         "description" : "CLICK HERE FOR LIVE GAMES",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-mpl-50th-national-junior-under-20-35th-national-junior-girls-under-20-chess-championships-2022/",
-         "pubDate" : "Wed, 09 Mar 2022 06:45:59 +0000",
-         "title" : "LIVE GAMES : MPL 50TH NATIONAL JUNIOR (UNDER-20) & 35TH NATIONAL JUNIOR GIRLS (UNDER-20) CHESS CHAMPIONSHIPS-2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2256,14 +2272,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/2022-o2c-doeberl-cup-major-and-minor.html",
          "pubDate" : "Tue, 08 Mar 2022 12:54:00 +0000",
          "title" : "2022 O2C Doeberl Cup Major and Minor"
-      },
-      {
-         "description" : "International Women's Day March 8th, 2022 is a global day celebrating the social, economic, cultural, and political achievements of women. The day also...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/international-womens-day-2/",
-         "pubDate" : "Tue, 08 Mar 2022 10:50:12 +0000",
-         "title" : "International Women's Day"
       }
    ]
 }
