@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Wesley So defeated Sam Shankland in the rapid tie-break games with 1.5-0.5 score to reach the semifinal of the third stage of the FIDE Grand Prix Series organised by World Chess in Berlin. The tiebreak games were played with the quicker time control of 15 minutes per game with an increment of 10 seconds per move starting on the first move. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220329160454_IMG_5474.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220329153841_IMG_5446.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/round-report-wesley-so-and-shakhriyar-mamedyarov-are-in-the-semi/",
+         "pubDate" : "Tue, 29 Mar 2022 18:22:31 +0000",
+         "title" : "Round Report: Wesley So and Shakhriyar Mamedyarov are in the semifinal!"
+      },
+      {
+         "description" : "Grandmaster and National Champion Arjun Erigaisi came up with another inspired effort and crashed through the defenses of Karthik Venkataraman to annex the 19th Delhi International open chess tournament that concluded here at the Tivoli Gardens. Starting the day in a five-way lead and having the best tiebreak, Arjun left nothing to chance as he []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/arjun-erigaisi-wins-delhi-chess-open/",
+         "pubDate" : "Tue, 29 Mar 2022 18:16:32 +0000",
+         "title" : "Arjun Erigaisi wins Delhi Chess Open"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Georgiev puts himself under the microscope for Sunday Double Exclam!! lecture. Originally on Twitch<br /> 2022.03.15<br /> Evgeny Gleizerov vs Vladimir Georgiev, Turin Open (2000)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2248750\">https://www.chessgames.com/perl/chessgame?gid=2248750</a><br /> Viorel Iordachescu vs Vladimir Georgiev, Italian Team Championship (2014)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1753975\">https://www.chessgames.com/perl/chessgame?gid=1753975</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div cla",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/georgievs-brilliant-games-double-exclam-gm-vladimir-georgiev",
+         "pubDate" : "Tue, 29 Mar 2022 18:15:47 +0000",
+         "title" : "Georgiev's Brilliant Games!! | Double Exclam!! - GM Vladimir Georgiev"
+      },
+      {
          "description" : "Lawrence has found a position, which looks familiar to many of us. We just have to calculate, as good as we can, how to win the game. The important lesson is, that many variations can lead to a position which is slightly better, but not clearly won. A so-called insurance. We can put this variation in the back of our head, and keep on finding a better way to win. If everything fails, we use the variation with the small advantage.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,20 +58,20 @@ news_feed (
          "title" : "Karjakin mulling appeal against six-month ban for pro-Russia comments"
       },
       {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
-         "pubDate" : "Tue, 29 Mar 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
-      },
-      {
          "description" : "On Sunday, the European Individual Championship (\"EICC\") began in Terme Čatež (Slovenia). After two rounds no less than 41 players share the lead with 2.0/2, among them top seed David Navara and a couple of strong juniors. Round 3 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
          "pubDate" : "Tue, 29 Mar 2022 14:55:00 +0100",
          "title" : "European Individual Chess Championship (EICC), Round 3 - live"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
+         "pubDate" : "Tue, 29 Mar 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix - Games and results"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/bebaee68-6b3c-4b1f-821a-3f3309c2883a/Neal2.jpg\" data-image-dimensions=\"321x184\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62430b99139f387a45e63e18\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/bebaee68-6b3c-4b1f-821a-3f3309c2883a/Neal2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Neal Bruce with his #chesspunks mug </figcaption> </figure> <figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-imag",
@@ -112,6 +136,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/retreat-to-advance-2",
          "pubDate" : "Tue, 29 Mar 2022 09:00:00 +0100",
          "title" : "Retreat to advance"
+      },
+      {
+         "description" : "Hikaru Nakamura&#xA0;and&#xA0;Richard Rapport&#xA0;are officially in the Candidates Chess 2022. Richard Rapport scored 20 Grand Prix points (7 points in the first leg for reaching semis + 13 points in the second for winning the event) with Belgrade GP as key event, while Hikaru has secured at least the same number (13 points in the first []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-and-richard-rapport-qualify-for-candidates-2022/",
+         "pubDate" : "Tue, 29 Mar 2022 05:04:00 +0000",
+         "title" : "Hikaru Nakamura and Richard Rapport qualify for Candidates 2022"
       },
       {
          "description" : "All results in round 6 of the Berlin Grand Prix favoured Hikaru Nakamura, as he won pool A and secured a spot in the Candidates Tournament after beating Andrey Esipenko with the black pieces. The four players who could have leapfrogged the US grandmaster in the overall standings of the series had they also reached the semis were knocked out on Monday - i.e. Levon Aronian (also from pool A), Leinier Dominguez, Maxime Vachier-Lagrave and Anish Giri. The one other player who made it to semis was Amin Tabatabaei, who got a convincing victory over Giri to win pool D. | Photos: World Chess",
@@ -488,22 +520,6 @@ news_feed (
          "link" : "https://www.chessdom.com/magnus-carlsen-with-a-masterpiece-against-duda-replay-game/",
          "pubDate" : "Sat, 26 Mar 2022 18:33:52 +0000",
          "title" : "Magnus Carlsen with a masterpiece against Duda (replay game)"
-      },
-      {
-         "description" : "The European Individual Chess Championship 2022 will take place between 26 March and 7 April at Terme &#x10C;ate&#x17E; near Bre&#x17E;ice in Slovenia. The event is organized by the Chess Federation of Slovenia under the auspices of the European Chess Union (ECU). The official host of the championship is Hotel Spa; accommodation is also available in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-individual-chess-2022/",
-         "pubDate" : "Sat, 26 Mar 2022 18:17:00 +0000",
-         "title" : "European Individual Chess 2022 LIVE"
-      },
-      {
-         "description" : "Five games out of eight ended with decisive results in Round 4 of the final stage of the Fide Grand Prix Series. In a crucial game for the overall Grand Prix standings,&#xA0;Hikaru Nakamura&#xA0;defeated&#xA0;Levon Aronian&#xA0;and caught up with him.&#xA0;Grigoriy Oparin&#xA0;outplayed&#xA0;Andrey Esipenko&#xA0;and took the lead in Pool A, leaving Levon and Hikaru half a point behind. The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nakamura-aronian-10-in-round-4-of-the-berlin-grand-prix/",
-         "pubDate" : "Sat, 26 Mar 2022 18:14:00 +0000",
-         "title" : "Nakamura - Aronian 1:0 in round 4 of the Berlin Grand Prix"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90464520.cms\" />National champion Arjun Erigaisi returned to the joint lead by defeating International Master Shyam Nikhil in the seventh round of the 19th Delhi International open chess tournament on Saturday. With this victory, Erigaisi joined Grandmasters Lalith Babu M R and Karthik Venkataraman who played out a draw against each other at the top of the table.",
@@ -1122,14 +1138,6 @@ news_feed (
          "title" : "Berlin Grand Prix Round One"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at the first day of Group Stage play in the third tournament of the FIDE Grand Prix 2022. Find the event format at <a href=\"https://en.wikipedia.org/wiki/FIDE_Grand_Prix_2022\">https://en.wikipedia.org/wiki/FIDE_Grand_Prix_2022</a>. 2022.03.22<br /> Levon Aronian vs. Hikaru Nakamura, 2022: D20 Queen&#039;s Gambit Accepted, 3.e4<br /> <a href=\"https://lichess.org/broadcast/fide-grand-prix-2022-leg-3--group-stage/round-1/WAMSBiRV\">https://lichess.org/broadcast/fide-grand-prix-2022-leg-3--group-stage/ro...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grand-prix-3-berlin-race-candidates-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Wed, 23 Mar 2022 00:10:03 +0000",
-         "title" : "Grand Prix #3 Berlin: Race to the Candidates! | Road to 2000 - NM Caleb Denby | lichess.org"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1264,14 +1272,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-page-for-delhi-open-2022/",
          "pubDate" : "Tue, 22 Mar 2022 08:37:54 +0000",
          "title" : "Live Link PAGE for Delhi Open 2022"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/0K73vC-14CQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-round-1/",
-         "pubDate" : "Tue, 22 Mar 2022 08:14:25 +0000",
-         "title" : "FIDE Grand Prix in Berlin: Round 1"
       },
       {
          "description" : "In the diagrammed position it is White to move and he has to think about the pawn endgame that will arise after the imminent exchange of rooks. What should White play to get a winning pawn endgame?",
