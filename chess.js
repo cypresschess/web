@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagrammed position White has a far advanced c-pawn but Black is two pawns up, and if White queens the c-pawn the black pawns will decide the day. But White can save the game. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/retreat-to-advance-2",
+         "pubDate" : "Tue, 29 Mar 2022 09:00:00 +0100",
+         "title" : "Retreat to advance"
+      },
+      {
          "description" : "All results in round 6 of the Berlin Grand Prix favoured Hikaru Nakamura, as he won pool A and secured a spot in the Candidates Tournament after beating Andrey Esipenko with the black pieces. The four players who could have leapfrogged the US grandmaster in the overall standings of the series had they also reached the semis were knocked out on Monday - i.e. Levon Aronian (also from pool A), Leinier Dominguez, Maxime Vachier-Lagrave and Anish Giri. The one other player who made it to semis was Amin Tabatabaei, who got a convincing victory over Giri to win pool D. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +66,7 @@ news_feed (
          "title" : "Rapport and Nakamura qualify for the 2022 Candidates Tournament"
       },
       {
-         "description" : "With today&#38;rsquo;s victory in the sixth round of the&#38;nbsp;2022 FIDE Grand Prix&#39;s third leg, American GM Hikaru Nakamura&#38;nbsp;scored a hat trick and won Group A, securing a spot in the semifinals, and joined GM Richard Rapport as the qualifiers fro...",
+         "description" : "With today&#38;rsquo;s victory in the sixth round of the&#38;nbsp;2022 FIDE Grand Prix&#39;s third leg, GM&#38;nbsp;Hikaru Nakamura&#38;nbsp;scored a hat trick and won Group A, securing a spot in the semifinals. More importantly, the American GM joined GM Richard Rap...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-rapport-qualify-for-2022-fide-candidates",
@@ -2064,14 +2072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-game-6-live",
          "pubDate" : "Sat, 12 Mar 2022 14:30:00 +0100",
          "title" : "England vs Sweden Challenge - All games"
-      },
-      {
-         "description" : "Trent's Tactics has a new format since today! From now on, this is your personal, interactive tactic trainer, and Lawrence Trent is your tactical coach. Try to solve the puzzles on the interactive board on your own, pause the video when we tell you to, and use your brain to find the tactical approaches. Lawrence will give you some hints, advice, and techniques to get to reach your goal. Also, please tell us how you like it in the comments.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-16",
-         "pubDate" : "Sat, 12 Mar 2022 12:00:00 +0100",
-         "title" : "NEW: Trent's Tactics - Cutting off, like Kasparov"
       },
       {
          "description" : "What is paranoia? It is not jealousy, that green eyed monster, which doth mock the meat it feeds on. But Iago's warning to Othello fits paranoia far better than jealousy. Paranoia refers to suspicion of a nonexistent threat, whereas jealousy envies that, owned by another, which one covets for one's own possession. I doubt that []",
