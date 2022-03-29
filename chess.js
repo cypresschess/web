@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So&#xA0;defeated&#xA0;Sam Shankland&#xA0;in the rapid tiebreak games by a score of 1&#xBD;:&#xBD; to reach the semifinals of the third stage of the FIDE Grand Prix Series organised by World Chess in Berlin. The tiebreak games were played with the quicker time control of 15 minutes per game with an increment of 10 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-and-mamedyarov-advance-to-fide-grand-prix-semifinals/",
+         "pubDate" : "Tue, 29 Mar 2022 21:23:01 +0000",
+         "title" : "Wesley So and Mamedyarov advance to FIDE Grand Prix semifinals"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski continues his series on building a chess plan. Learn to identify what&#039;s important. 2022.03.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/planning-ahead-chess-2-grandmasters-choice-gm-robert-hungaski-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Fk4TjItDkxk.jpg?itok=vaFSFxjZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/planning-ahead-chess-2-grandmasters-choice-gm-robert-hungaski-lichessorg",
+         "pubDate" : "Tue, 29 Mar 2022 21:15:52 +0000",
+         "title" : "Planning Ahead in Chess #2 | Grandmaster's Choice - GM Robert Hungaski | lichess.org"
+      },
+      {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-55/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (55)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-55/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (55)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-55/",
+         "pubDate" : "Tue, 29 Mar 2022 21:12:59 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (55)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1668",
+         "pubDate" : "Tue, 29 Mar 2022 19:40:59 +0000",
+         "title" : "FIDE Grand Prix Berlin: So and Mamedyarov advance to semifinals"
+      },
+      {
          "description" : " <p class=\"lead\">Wesley So defeated Sam Shankland in the rapid tie-break games with 1.5-0.5 score to reach the semifinal of the third stage of the FIDE Grand Prix Series organised by World Chess in Berlin. The tiebreak games were played with the quicker time control of 15 minutes per game with an increment of 10 seconds per move starting on the first move. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220329160454_IMG_5474.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220329153841_IMG_5446.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -512,14 +544,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1661",
          "pubDate" : "Sat, 26 Mar 2022 19:59:51 +0000",
          "title" : "Winners crowned at Sao Tome and Principe Chess Championship"
-      },
-      {
-         "description" : "Magnus Carlsen continued with his amazing performance in the Charity Cup final. After defeating 2,5:0,5 Duda yesterday, he started the second days of the final with a beautiful game , sacrificing the knight on e4. More about Charity Cup:&#xA0;Charity Cup 2022 participants and preview&#xA0;/&#xA0;Charity Cup 2022 live&#xA0;/&#xA0;Charity Cup 2022 video)&#xA0;Round reports:&#xA0;Hans Niemann and Liem Quang []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-with-a-masterpiece-against-duda-replay-game/",
-         "pubDate" : "Sat, 26 Mar 2022 18:33:52 +0000",
-         "title" : "Magnus Carlsen with a masterpiece against Duda (replay game)"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90464520.cms\" />National champion Arjun Erigaisi returned to the joint lead by defeating International Master Shyam Nikhil in the seventh round of the 19th Delhi International open chess tournament on Saturday. With this victory, Erigaisi joined Grandmasters Lalith Babu M R and Karthik Venkataraman who played out a draw against each other at the top of the table.",
@@ -1112,14 +1136,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/grand-prix-3-berlin-race-candidates-road-2000-nm-caleb-denby",
          "pubDate" : "Wed, 23 Mar 2022 03:10:07 +0000",
          "title" : "Grand Prix #3 Berlin: Race to the Candidates! | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski begins his series on building a chess plan. Learn to identify what's important. Robert shows his game against Argentina's #2 at the 2022 Floripa Open. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/planning-ahead-chess-grandmasters-choice-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bhBs4WsCxM4.jpg?itok=16ZTUn-U\" alt=\"\" /></a></d",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/planning-ahead-chess-grandmasters-choice-gm-robert-hungaski",
-         "pubDate" : "Wed, 23 Mar 2022 03:10:07 +0000",
-         "title" : "Planning Ahead in Chess | Grandmaster's Choice - GM Robert Hungaski"
       },
       {
          "description" : "The first round of the final leg of the 2022&#38;nbsp;FIDE Grand Prix&#38;nbsp;saw four decisive games. Each group has a clear leader, with GMs Levon Aronian, Leinier Dominguez Perez, Alexandr Predke, and Nikita Vitiugov all leading their respective group...",
@@ -2248,14 +2264,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/the-aim-is-to-cross-the-2700-elo-rating-narayanan/articleshow/90106247.cms",
          "pubDate" : "Wed, 09 Mar 2022 14:34:48 +0000",
          "title" : "The aim is to cross the 2700 ELO rating: Narayanan"
-      },
-      {
-         "description" : " This week Andrew and I ran three Master Chess Web Shows, the agendas being as follows: Monday The Monday show is devoted to readers' questions, with these three being addressed: 1) How should Black play against the 3.e5 Bf5 4.Ne2 e6 5.Ng3 Bg6 6.h4 line of the Caro-Kann? 2) What is the best ever King's <a href=\"https://chessimprover.com/master-chess-web-show-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-4/\">Master Chess Web Show (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/master-chess-web-show-4/",
-         "pubDate" : "Wed, 09 Mar 2022 13:09:35 +0000",
-         "title" : "Master Chess Web Show (4)"
       }
    ]
 }
