@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Lawrence has found a position, which looks familiar to many of us. We just have to calculate, as good as we can, how to win the game. The important lesson is, that many variations can lead to a position which is slightly better, but not clearly won. A so-called insurance. We can put this variation in the back of our head, and keep on finding a better way to win. If everything fails, we use the variation with the small advantage.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-18",
+         "pubDate" : "Tue, 29 Mar 2022 17:00:00 +0100",
+         "title" : "Trent's Tactics - The insurance"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90524221.cms\" />Grandmaster and national champion Arjun Erigaisi came up with yet another inspired effort and crashed through the defences of Karthik Venkataraman to win the 19th Delhi International open chess tournament on Tuesday. Earlier this month the young man had won the National Championship at Kanpur quite easily and that means his winnings this month are Rs 10 lakh in all.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-wins-delhi-international-chess-title/articleshow/90524221.cms",
+         "pubDate" : "Tue, 29 Mar 2022 15:09:59 +0000",
+         "title" : "Arjun Erigaisi wins Delhi International Chess title"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90524262.cms\" />Russian grandmaster Sergey Karjakin is considering appealing against his six-month ban from competition for supporting Russia's invasion of Ukraine, he told Russian news agency TASS on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/karjakin-mulling-appeal-against-six-month-ban-for-pro-russia-comments/articleshow/90524262.cms",
+         "pubDate" : "Tue, 29 Mar 2022 15:05:26 +0000",
+         "title" : "Karjakin mulling appeal against six-month ban for pro-Russia comments"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
+         "pubDate" : "Tue, 29 Mar 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : "On Sunday, the European Individual Championship (\"EICC\") began in Terme Čatež (Slovenia). After two rounds no less than 41 players share the lead with 2.0/2, among them top seed David Navara and a couple of strong juniors. Round 3 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
+         "pubDate" : "Tue, 29 Mar 2022 14:55:00 +0100",
+         "title" : "European Individual Chess Championship (EICC), Round 3 - live"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/bebaee68-6b3c-4b1f-821a-3f3309c2883a/Neal2.jpg\" data-image-dimensions=\"321x184\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62430b99139f387a45e63e18\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/bebaee68-6b3c-4b1f-821a-3f3309c2883a/Neal2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Neal Bruce with his #chesspunks mug </figcaption> </figure> <figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-imag",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/29/ep-272-posiitional-puzzle-book-championship-with-neal-bruce",
+         "pubDate" : "Tue, 29 Mar 2022 13:41:02 +0000",
+         "title" : "EP 272- \"Positional Puzzle Book Championship\" with Neal Bruce"
+      },
+      {
+         "description" : "After two rounds 41 players with 2.0/2 share the lead at the European Individual Championship. One of them is the 15-year old strong junior Aydin Suleymanli (pictured) from Azerbaijan who defeated Anton Korobov in round two. | Photos: SZS/Luka Rifelj",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-strong-juniors",
+         "pubDate" : "Tue, 29 Mar 2022 14:07:28 +0100",
+         "title" : "European Championship: Strong juniors"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/iDClBQd3i00?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-berlin-pools-tie-breaks/",
+         "pubDate" : "Tue, 29 Mar 2022 12:38:08 +0000",
+         "title" : "FIDE Grand Prix Berlin: Pools Tie-Breaks"
+      },
+      {
          "description" : "Starting today, all Fritz 18 users will receive an additional engine as a free update: Fritz 18 Neuronal. The new engine Fritz 18 Neuronal achieves an increase in playing strength of about 120 ELO points compared to the classic Fritz 18 engine at shorter time controls. Simply start Fritz 18 and start the automatically offered update! Then the new engine will be installed!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +98,7 @@ news_feed (
          "title" : "FIDE Podcast: A new episode featuring Hou Yifan released"
       },
       {
-         "description" : "In the diagrammed position White has a far advanced c-pawn but Black is two pawns up, and if White queens the c-pawn the black pawns will decide the day. But White can save the game. How?",
+         "description" : "Rook endings have a large drawish tendency and in this case I thought that White can hold with a study-like defense. But ChessBase reader Frits Fritschy proved me wrong.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/retreat-to-advance-2",
@@ -66,7 +130,7 @@ news_feed (
          "title" : "Nakamura and Rapport qualify for the Candidates"
       },
       {
-         "description" : " <p class=\"lead\">Richard Rapport scored 20 Grand Prix points (7 points in the first leg for reaching semis + 13 points in the second for winning the event), while Hikaru has secured at least the same number (13 points in the first leg for winning the event + at least 7 points in the third leg for advancing into semis). <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220328150747_IMG_5223-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> In the last and decisive round of the pool stage of the FIDE Grand Prix organized by World Chess Hikaru Nakamura defeated Andrey Esipenko and became the winner of Pool A. He",
+         "description" : " <p class=\"lead\">Richard Rapport scored 20 Grand Prix points (7 points in the first leg for reaching semis + 13 points in the second for winning the event), while Hikaru has secured at least the same number (13 points in the first leg for winning the event + at least 7 points in the third leg for advancing into semis). <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220328183255_IMG_5339.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> In the last and decisive round of the pool stage of the FIDE Grand Prix organized by World Chess Hikaru Nakamura defeated Andrey Esipenko and became the winner of Pool A. He p",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/hikaru-nakamura-and-richard-rapport-are-officially-in-the-candid/",
@@ -1298,14 +1362,6 @@ news_feed (
          "title" : "Charity Cup: Praggnanandhaa beats Ding Liren, lies sixth"
       },
       {
-         "description" : " <p class=\"lead\">The FIDE Ethics and Disciplinary Commission banned GM Sergey Karjakin from participating as a player in any FIDE rated chess competition, while GM Sergey Shipov faced no sanctions due to his less provocative statements. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Untitled-design-1.jpg\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> It wasn't long after Russia's military invasion of Ukraine that GM Sergey Karjakin started tweeting in favour of the war and spreading propaganda all over his social media channels. The chess community, from companies to influencers, publicly disagreed with the Russian GM and demanded FIDE to take action over this mat",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/gm-sergey-karjakin-is-banned-for-6-months-by-fide-ethics/",
-         "pubDate" : "Mon, 21 Mar 2022 13:41:39 +0000",
-         "title" : "GM Sergey Karjakin is banned for 6 months by FIDE Ethics"
-      },
-      {
          "description" : "Controversial former world title challenger Sergey Karjakin, who sparked widespread criticism for his support of Russia's war in Ukraine, has been banned from all competition by FIDE, it was announced today. The Crimea-born Grandmaster, who switched from representing Ukraine to Russia is 2009, is now stripped of his place in the upcoming Candidates tournament pending any appeal.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2026,14 +2082,6 @@ news_feed (
          "title" : "Logical Chess (1)"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 70th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to show ideas in the King's Indian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-70-ideas-in-the-king-s-indian-3",
-         "pubDate" : "Sun, 13 Mar 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 70: Ideas in the King's Indian (3)"
-      },
-      {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2048,22 +2096,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/2022-olympiad-venue.html",
          "pubDate" : "Sun, 13 Mar 2022 12:26:00 +0000",
          "title" : "2022 Olympiad Venue"
-      },
-      {
-         "description" : "The first game of the Belgrade Grand Prix final ended drawn, with Dmitry Andreikin and Richard Rapport playing 37 moves out of a Petroff Defence before splitting the point. Andreikin had to deal with his family's delayed flight the night prior to the game, which prevented him from taking proper rest. The Russian will have the black pieces in Sunday's second game of the final. | Photos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-f1",
-         "pubDate" : "Sun, 13 Mar 2022 11:20:00 +0100",
-         "title" : "Belgrade GP Final: A quiet draw"
-      },
-      {
-         "description" : "The Saint Louis Spring Classic had a thrilling final day of action. In the A group, Sam Sevian prevailed after beating Ilya Nyzhnyk in a rapid playoff. In the B group, the youngest grandmaster in history Abhimanyu Mishra (pictured) won the event with an impressive Tournament Rating Performance. | Photo: Crytal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sam-sevian-abhimanyu-mishra-saint-louis-spring-classic",
-         "pubDate" : "Sun, 13 Mar 2022 06:25:00 +0100",
-         "title" : "Sam Sevian and Abhimanyu Mishra triumph in Saint Louis"
       },
       {
          "description" : " GM Ian Rogers has entered the world of live streaming, covering the current Ballarat Begonia Open at <a href=\"https://www.twitch.tv/gmianr\">https://www.twitch.tv/gmianr</a> He plans to follow this up with coverage of the 2022 O2C Doeberl Cup next month. The move to online coverage is both as a consequence of current covid rules, but also an understanding that technology has advanced to a level where the traditional in person lecture has been replaced with online versions. There are theree rounds of the Ballarat tournament today, so if you tune in from around 10am (I think) you should be able to watch around 12 hours of tournament play. ",
@@ -2088,14 +2120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1632",
          "pubDate" : "Sat, 12 Mar 2022 17:45:36 +0000",
          "title" : "FIDE and FFE host international conference \"Chess for Mental Health\""
-      },
-      {
-         "description" : "On the occasion of its 30th anniversary, the \"London Chess Center\" is organizing a match between two top Grandmasters: David Howell from England and Nils Grandelius from Sweden. The match is taking place from 2 to 12 March at the Swedish Ambassador's residence in London. Going into the final game, Howell leads by a 5-4 score. Game 10 starts Saturday at 15:00 CET (2pm GMT, 9:00 am ET). Follow the game live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/england-vs-sweden-challenge-game-6-live",
-         "pubDate" : "Sat, 12 Mar 2022 14:30:00 +0100",
-         "title" : "England vs Sweden Challenge - All games"
       },
       {
          "description" : "What is paranoia? It is not jealousy, that green eyed monster, which doth mock the meat it feeds on. But Iago's warning to Othello fits paranoia far better than jealousy. Paranoia refers to suspicion of a nonexistent threat, whereas jealousy envies that, owned by another, which one covets for one's own possession. I doubt that []",
@@ -2248,30 +2272,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/there-is-still-room-for-improvement-in-praggnanandhaas-game-says-coach-ramesh/articleshow/90083267.cms",
          "pubDate" : "Tue, 08 Mar 2022 15:33:51 +0000",
          "title" : "There is still room for improvement in Praggnanandhaa's game, says coach Ramesh"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/724979b0-5ccb-4e03-812c-81df0296a302/Jen2.jpg\" data-image-dimensions=\"511x259\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6227664e4501d34983a22d8a\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/724979b0-5ccb-4e03-812c-81df0296a302/Jen2.jpg?format=1000w\" /> </figure> <p class=\"\">My guest today is Jen Shahade. Jen, is a champion chess and poker player, an author, an award winning podcaster and the Woman's Program Director at US Chess. It was the perfect time ",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/8/ep-269-jen-shahade-on-her-new-book-and-chess-in-the-queens-gambit-age",
-         "pubDate" : "Tue, 08 Mar 2022 14:26:32 +0000",
-         "title" : "EP 269- Jen Shahade on her New Book and Chess in the Queen's Gambit Age "
-      },
-      {
-         "description" : "Dave sadly passed away yesterday [2/3/22] after a short spell in hospital. He will be greatly missed by Chester members. Our thoughts are with his...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rip-david-robertson/",
-         "pubDate" : "Tue, 08 Mar 2022 14:08:26 +0000",
-         "title" : "RIP David Robertson"
-      },
-      {
-         "description" : " An important update for players wishing to play in either the O2C Doeberl Cup Major and Minor. The Monir event (Under 1600 ACF) reached the 80 player limit late last week. As a result we have extended the size of the event to 120, but it is unlikely that it will be increased further. At the moment there are 20 places left in the Major (Under 2000 ACF), so if you wish to play the Major, you should get your entries in quick. At the moment there are over 200 entries for the event, and with 5 weeks before the event starts, a field well in excess of 300 is expected. If you are eligible for two divisions (due to an overlap in rating requirements), picking the less crowded of the 2 would be great ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/2022-o2c-doeberl-cup-major-and-minor.html",
-         "pubDate" : "Tue, 08 Mar 2022 12:54:00 +0000",
-         "title" : "2022 O2C Doeberl Cup Major and Minor"
       }
    ]
 }
