@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All results in round 6 of the Berlin Grand Prix favoured Hikaru Nakamura, as he won pool A and secured a spot in the Candidates Tournament after beating Andrey Esipenko with the black pieces. The four players who could have leapfrogged the US grandmaster in the overall standings of the series had they also reached the semis were knocked out on Monday - i.e. Levon Aronian (also from pool A), Leinier Dominguez, Maxime Vachier-Lagrave and Anish Giri. The one other player who made it to semis was Amin Tabatabaei, who got a convincing victory over Giri to win pool D. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r6",
+         "pubDate" : "Tue, 29 Mar 2022 04:50:00 +0100",
+         "title" : "Berlin GP: Nakamura in the Candidates"
+      },
+      {
          "description" : "Hikaru Nakamura and Richard Rapport are in the Candidates Tournament after Hikaru's win over Andrey Esipenko ensured that the two would finish 1st and 2nd in the FIDE Grand Prix. All the results went Hikaru's way, as his key rivals Levon Aronian, Anish Giri and Leinier Dominguez all lost, while Maxime Vachier-Lagrave was held to a draw by Sam Shankland. Amin Tabatabaei is the surprise player already confirmed alongside Hikaru in the Berlin semi-finals, while So-Shankland and Mamedyarov-Keymer will play tiebreaks on Tuesday.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -96,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-7-andreikin-wins",
          "pubDate" : "Mon, 28 Mar 2022 06:56:00 -0700",
          "title" : "Rapid Chess Championship Week 7: Andreikin Wins Knockout"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
-         "pubDate" : "Mon, 28 Mar 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Games and results"
       },
       {
          "description" : "On Sunday, the European Individual Championship (\"EICC\") began in Terme Čatež (Slovenia). Players from Russia and Belarus are not allowed to take part but a lot of Ukrainian players are present. With a rating of 2700 David Navara is the top seed. Round 2 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
