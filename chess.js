@@ -10,6 +10,14 @@ news_feed (
          "title" : "Trent's Tactics - The insurance"
       },
       {
+         "description" : " <p class=\"lead\">The <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> tiebreaks ended with Mamedyarov and So promoting to the semifinals against Nakamura and Tabatabaei respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220329150558_IMG_5445.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220329150428_IMG_5441.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photos: Pierre Adenis/World Chess</div> </div> The Rapid tiebreaks started with two decisive games. Both Mamedyarov and So wo",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/mamedyarov-and-so-are-in-the-fide-grand-prix-semifinals/",
+         "pubDate" : "Tue, 29 Mar 2022 15:45:19 +0000",
+         "title" : "Mamedyarov and So are in the FIDE Grand Prix Semifinals"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90524221.cms\" />Grandmaster and national champion Arjun Erigaisi came up with yet another inspired effort and crashed through the defences of Karthik Venkataraman to win the 19th Delhi International open chess tournament on Tuesday. Earlier this month the young man had won the National Championship at Kanpur quite easily and that means his winnings this month are Rs 10 lakh in all.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1298,14 +1306,6 @@ news_feed (
          "title" : "The last FIDE Grand Prix 2022 event starts in Berlin"
       },
       {
-         "description" : " <p class=\"lead\">The third and final leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022 organized by World Chess</a> kicks off in Berlin. For the next 13 days, the attention of chess fans all over the world will be focused on World Chess Club Berlin, a chess venue in the German capital where the chess superstars will compete for 150,000 euros and more importantly for the last two spots in the upcoming Candidates' Tournament. The challenge is not an easy one, as the winner of the second stage, Grandmaster Richard Rapport, has almost secured the first spot, but the strongest chess players competing in the last leg are ready to fight. <div class=\"e2-tex",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-last-leg-of-the-fide-grand-prix-in-berlin-is-about-to-start/",
-         "pubDate" : "Mon, 21 Mar 2022 18:24:33 +0000",
-         "title" : "The Last Leg of the FIDE Grand Prix in Berlin is about to start"
-      },
-      {
          "description" : "The German Bundesliga started its new season, and the first matches brought many fascinating endgames. Karsten was spoiled for choice but in the Endgame Magic Show #186 he presents an absolute highlight in which the much lower-rated player defeated a strong Grandmaster in study-like fashion. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2256,22 +2256,6 @@ news_feed (
          "link" : "https://chessimprover.com/master-chess-web-show-4/",
          "pubDate" : "Wed, 09 Mar 2022 13:09:35 +0000",
          "title" : "Master Chess Web Show (4)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1623",
-         "pubDate" : "Tue, 08 Mar 2022 15:49:38 +0000",
-         "title" : "Women's Speed Chess Championship 20202 announced"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90083267.cms\" />Aggression is one of the strengths of India's chess sensation R Praggnanandhaa but improving his time management skills is one of the areas where the teenager will have to work on, said his coach RB Ramesh.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/there-is-still-room-for-improvement-in-praggnanandhaas-game-says-coach-ramesh/articleshow/90083267.cms",
-         "pubDate" : "Tue, 08 Mar 2022 15:33:51 +0000",
-         "title" : "There is still room for improvement in Praggnanandhaa's game, says coach Ramesh"
       }
    ]
 }
