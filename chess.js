@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Wesley So takes the lead in the match against Tabatabaei, while Nakamura and Mamedyarov finish their game in a draw. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220330153721_IMG_5610.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/A-19.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photos: World Chess</div> </div> In the first round of the semifinals of the third stage of the FIDE Grand Prix in Berlin organised by World Chess Wesley So managed to convert his advantage into a full point against Amin Ta",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-semi-finals-round-report/",
+         "pubDate" : "Wed, 30 Mar 2022 20:19:58 +0000",
+         "title" : "FIDE Grand Prix Semi-Finals Round Report"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1669",
+         "pubDate" : "Wed, 30 Mar 2022 19:04:17 +0000",
+         "title" : "FIDE Grand Prix Berlin Semis: Round 1 Recap"
+      },
+      {
          "description" : "The 2022 President&#39;s Cup returns to over-the-board for the first time since 2019, and the best four teams from the 2022 Pan-American Intercollegiate Team Championship have been invited to Texas Tech University to compete for the U.S. College Champ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1144,14 +1160,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/martinez-wins-arena-kings-season-9-week-7",
          "pubDate" : "Wed, 23 Mar 2022 14:48:13 -0700",
          "title" : "Martinez Wins Arena Kings Season 9 Week 7"
-      },
-      {
-         "description" : " <p class=\"lead\">Round 2 of the third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with 8 draws. GMs Levon Aronian, Leinier Dominguez, Alexandr Predke, and Nikita Vitiugov are still leading their Groups with 1.5/2. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-16.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220323151435_IMG_4230.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220323151332_IMG_4227.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"http",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/round-2-of-the-fide-grand-prix-in-berlin-finished-with-8-draws/",
-         "pubDate" : "Wed, 23 Mar 2022 19:20:31 +0000",
-         "title" : "Round 2 of the FIDE Grand Prix in Berlin finished with 8 draws"
       },
       {
          "description" : "In his \"Weekly Show\" Lawrence Trent talks about the Charity Cup but his main focus in on the FIDE Grand Prix in Berlin and the implications for the Candidates. Lawrence analyses the big upset from round 1, the game Alexandr Predke vs Maxime Vachier-Lagrave, in which the Russian GM took apart the French maestro who completely underestimated the danger in his position. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
