@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Chess has introduced an innovation that will likely add a new dimension to the way fans watch chess (and other mind sports, for that matter!). They have developed - and will roll out today - a tool that tracks the players' heart rate over video signal (without playing having to wear a pulse-tracking device). Please find the press release below and tune in today to see the technology in action during the semi-finals of the Grand Prix in Berlin. Press release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/players-heart-rate-in-chess-broadcasts",
+         "pubDate" : "Wed, 30 Mar 2022 17:00:00 +0100",
+         "title" : "Players' heart rate in chess broadcasts"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
+         "pubDate" : "Wed, 30 Mar 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : "On Sunday, the European Individual Championship (\"EICC\") began in Terme Čatež (Slovenia). After four rounds, seven players still have a 3/3 perfect score, including 17-year-old Danish rising star Jonas Buhl Bjerre. Round 4 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
+         "pubDate" : "Wed, 30 Mar 2022 14:55:00 +0100",
+         "title" : "European Individual Chess Championship (EICC), Round 4 - live"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/VqkA7MlAf08?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-semi-final/",
+         "pubDate" : "Wed, 30 Mar 2022 13:15:05 +0000",
+         "title" : "FIDE Grand Prix in Berlin: Semi-Final"
+      },
+      {
+         "description" : " Only a few days before the 2022 Dubbo Open starts. The field is starting to take shape, and at this stage there are over 30 players entered. Current top seed is Cameron McGowan (2233), with two of Australian leading female players WIM Biljana Dekic and WFM Alana Chibnall seeded 2nd and 3rd. The tournament starts on Saturday 2nd April at 10:30 am at the Dubbo RSL Club. It runs for 6 rounds (3 Saturday and 3 Sunday) and has a 1st prize of $800. The current list of entries can be <a href=\"http://tournaments.streetchess.net/dubbo2022/www2022DubboOpen/\">seen here</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/03/dubbo-2022.html",
+         "pubDate" : "Wed, 30 Mar 2022 12:54:00 +0000",
+         "title" : "Dubbo 2022"
+      },
+      {
          "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the country.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1194,14 +1234,6 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Berlin Leg 3, R1: 4 Wins, Fighting Chess"
       },
       {
-         "description" : " <p class=\"lead\">The third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE World Chess Grand Prix</a> started with four decisive games and four games ended in a draw. The 16 players are split into four pools with four participants each and day 1 saw one draw and one win in each pool. Levon Aronian, Leinier Dominguez, Alexandr Predke and Nikita Vitiugov left the playing hall with a full point. There will be six rounds in total in the group stage and the winner of each pool progresses to the knockout semi-final, and the two winners meet in the final. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://world",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/berlin-grand-prix-round-one/",
-         "pubDate" : "Wed, 23 Mar 2022 01:00:20 +0000",
-         "title" : "Berlin Grand Prix Round One"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1978,14 +2010,6 @@ news_feed (
          "title" : "European Senior Team Chess Championship 2022 - Official invitation"
       },
       {
-         "description" : "In the diagrammed position Black is an exchange up but both sides have dangerous passed pawns. What should Black do to make his passed pawn on the g-file more dangerous than White's passed pawn on the b-file?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rook-vs-bishop",
-         "pubDate" : "Tue, 15 Mar 2022 09:00:00 +0100",
-         "title" : "Rook vs bishop"
-      },
-      {
          "description" : " The FIDE Grand Prix Leg 2 took place in Belgrade Tuesday 1st to Monday 14th Mar 2022. There are group stages 4 players 6 rounds, the winners of each group then play the knockout phase. Players: Grischuk, Andreikin, Shankland, Bacrot, Rapport, Vidit, Fedoseev, Shirov, Giri, Vitiugov, Harikrishna, Tabatabaei, Mamedyarov, MVL, Yu Yangyi and Predke. This is the second of three such events. Nakamura won the first, the final leg is back in Berlin Mon 21st Mar to Mon 4th Apr 2022. Richard Rapport beat Dmitry Andreikin in the final to all but confirm a Candidates place. He reached the semifinals in the first event and will have to wait on the results of the final leg.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1994,28 +2018,12 @@ news_feed (
          "title" : "FIDE Grand Prix Leg 2 Belgrade 2022 - Games and Results"
       },
       {
-         "description" : "In London, a match facing David Howell and Nils Grandelius was held at the residence of the Swedish Ambassador. The occasion was the 30th anniversary of Chess & Bridge. The 10-game confrontation was won by Howell. Three games ended decisively, and all of them had plenty to offer chess-wise. | Photo: Chess & Bridge",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/howell-beats-grandelius-england-versus-sweden-2022",
-         "pubDate" : "Tue, 15 Mar 2022 02:00:00 +0100",
-         "title" : "Howell beats Grandelius in England versus Sweden match"
-      },
-      {
          "description" : " In 2010, I wrote an article titled &#8220;Baraka Shabazz: Black Queen of Chess.&#8221; Seven years later came &#8220;Revisiting Baraka Shabazz,&#8221; in which I cited the brutally candid 1988 article titled \"Ex-Queen's Gambit.\" That article was long before the &#8220;Queen's Gambit&#8221; miniseries but had some eerily similar themes. While the series highlighted the rise of Beth [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/14/promoting-to-a-black-chess-queen/\">Promoting to a Black Chess Queen</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/03/14/promoting-to-a-black-chess-queen/",
          "pubDate" : "Mon, 14 Mar 2022 17:16:57 +0000",
          "title" : "Promoting to a Black Chess Queen"
-      },
-      {
-         "description" : "Sipke and Karsten look at recent endgames and analyse three endgames of Sipke. In one of these endgames he had two minor pieces against a rook and won in style. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-185-with-dutch-gm-sipke-ernst",
-         "pubDate" : "Mon, 14 Mar 2022 18:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #185 - with Dutch GM Sipke Ernst"
       },
       {
          "description" : "Cobicistat is a drug that was originally devised for HIV/AIDS therapy. Now a new study shows that it can inhibit the replication of SARS-CoV-2 - which would mean we could have a powerful therapeutical drug against Covid-19. Very encouraging news - but why are we reporting this on a chess news page? Because one of the virologists working on the project happens to be a chess grandmaster. Here's his story. | Photos Lara Gallucci.",
@@ -2248,22 +2256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1627",
          "pubDate" : "Wed, 09 Mar 2022 22:03:57 +0000",
          "title" : "FIDE Grand Prix Belgrade - Knockout: Day One Recap"
-      },
-      {
-         "description" : " The term Grandmaster Draw most likely brings a sad image to your mind. Two lazy Grandmasters are leaving the table after only a couple of Minutes and another Berlin defense move-repetition. This is not wrong, but also not entirely right. Even though most quick draws between Grandmasters look similar, the energy &#38; motivation behind them [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/grandmaster-draw-explained/\">Grandmaster Draws Explained</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/grandmaster-draw-explained/",
-         "pubDate" : "Wed, 09 Mar 2022 15:00:00 +0000",
-         "title" : "Grandmaster Draws Explained"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90106247.cms\" />After coming close to winning a few over-the-board (OTB) events in the last one year, Grandmaster SL Narayanan crossed the finish line by bagging the Grandiscacchi Cattolica International Open in Cattolica, Italy on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-aim-is-to-cross-the-2700-elo-rating-narayanan/articleshow/90106247.cms",
-         "pubDate" : "Wed, 09 Mar 2022 14:34:48 +0000",
-         "title" : "The aim is to cross the 2700 ELO rating: Narayanan"
       }
    ]
 }
