@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 President&#39;s Cup returns to over-the-board for the first time since 2019, and the best four teams from the 2022 Pan-American Intercollegiate Team Championship have been invited to Texas Tech University to compete for the U.S. College Champ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/presidents-cup-2022",
+         "pubDate" : "Wed, 30 Mar 2022 11:02:15 -0700",
+         "title" : "President's Cup 2022: All The Information"
+      },
+      {
+         "description" : "After yesterday&#39;s tiebreaks, GMs Hikaru Nakamura, Shakhriyar Mamedyarov, Wesley So, and Amin Tabatabaei were ready for the semifinals in the&#38;nbsp;2022 FIDE Grand Prix&#38;nbsp;with Nakamura facing Mamedyarov in one match and So meeting Tabatabaei in t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-semifinals-day-1",
+         "pubDate" : "Wed, 30 Mar 2022 10:37:00 -0700",
+         "title" : "Wesley So Wins First Game: 2022 FIDE Grand Prix Berlin Leg 3, Semifinals Day 1"
+      },
+      {
+         "description" : " <p class=\"lead\">The <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> semifinals ended with Wesley So winning against Amin Tabatabaei, and Hikaru Namamura drawing against Shakhriyar Mamedyarov. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-19.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220330154232_IMG_5618.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220330153721_IMG_5610.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/202203301",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/so-wins-the-first-game-of-the-gp-semifinals-against-tabatabaei/",
+         "pubDate" : "Wed, 30 Mar 2022 16:33:46 +0000",
+         "title" : "So wins the first game of the GP semifinals against Tabatabaei"
+      },
+      {
+         "description" : "On a well-deserved off day in the 2022 FIDE Grand Prix after becoming a candidate for the world championship for the first time since 2016, GM Hikaru Nakamura won the early Titled Tuesday tournament on March 29. Meanwhile, GM Dmitry Andreikin co...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-andreikin-win-titled-tuesday-march-29-2022",
+         "pubDate" : "Wed, 30 Mar 2022 09:28:10 -0700",
+         "title" : "Nakamura Wins Titled Tuesday On Break, Andreikin Continues Run"
+      },
+      {
          "description" : "World Chess has introduced an innovation that will likely add a new dimension to the way fans watch chess (and other mind sports, for that matter!). They have developed - and will roll out today - a tool that tracks the players' heart rate over video signal (without playing having to wear a pulse-tracking device). Please find the press release below and tune in today to see the technology in action during the semi-finals of the Grand Prix in Berlin. Press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +42,12 @@ news_feed (
          "title" : "Players' heart rate in chess broadcasts"
       },
       {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
-         "pubDate" : "Wed, 30 Mar 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
+         "description" : " In 2019, at the tender age of 23 years old, I organized a Rapid Chess Tournament in Switzerland. I brought this up in a recent interview on 64: A Chess podcast and David asked me to write an article about it. So, here I am, this one is for you David! I hope this inspires [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/organize-a-chess-tournament/\">How To Organize A Chess Tournament (20'000$ Budget)</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/organize-a-chess-tournament/",
+         "pubDate" : "Wed, 30 Mar 2022 15:55:23 +0000",
+         "title" : "How To Organize A Chess Tournament (20'000$ Budget)"
       },
       {
          "description" : "On Sunday, the European Individual Championship (\"EICC\") began in Terme Čatež (Slovenia). After four rounds, seven players still have a 3/3 perfect score, including 17-year-old Danish rising star Jonas Buhl Bjerre. Round 4 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
@@ -24,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
          "pubDate" : "Wed, 30 Mar 2022 14:55:00 +0100",
          "title" : "European Individual Chess Championship (EICC), Round 4 - live"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
+         "pubDate" : "Wed, 30 Mar 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/VqkA7MlAf08?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -1122,14 +1162,6 @@ news_feed (
          "title" : "The Weekly Show: The FIDE Grand Prix in Berlin"
       },
       {
-         "description" : " <p class=\"lead\">Wearing blue and yellow, GM Wesley So gave an interview to WGM Dina Belenkaya commenting on Russia's invasion of Ukraine as well as the statements of GM Sergey Karjakin. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/xfCh8ADdt0E?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Wesley So is currently in Berlin, participating in the third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022.</a> After Round 2 and his draw against Predke, Dina Belenkaya interviewed So and couldn't help but notice his blue-yellow clothing. So responded that it was a theme shirt that he has worn in the",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/its-not-just-about-political-opinion-its-about-the-killing-of-in/",
-         "pubDate" : "Wed, 23 Mar 2022 17:59:32 +0000",
-         "title" : "\"It's not just about political opinion, it's about the killing of innocent Ukrainians\" GM Wesley So states about the war"
-      },
-      {
          "description" : " Losing a chess game hurts. It certainly hurt me a lot in my professional days. Sometimes I needed days or weeks to recover mentally from a bad loss. For a while I thought this was just a \"me\" thing. That I was way too invested and couldn't handle losses well. While there is certainly some [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/why-losing-at-chess-hurts-so-much-and-the-antidote/\">Why Losing At Chess Hurts So Much (And The Antidote)</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1562,14 +1594,6 @@ news_feed (
          "title" : "A tale of two universities and two engines"
       },
       {
-         "description" : "Russia&#39;s warfare in Ukraine has left Arkady Dvorkovich, a former Russian deputy prime minister, in a precarious situation. Now 24 days into the war, some are calling for the FIDE president to resign while others continue to support him.&#38;nbsp;Altho...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dvorkovich-in-tight-spot-as-fide-president",
-         "pubDate" : "Sun, 20 Mar 2022 08:08:00 -0700",
-         "title" : "Dvorkovich In Tight Spot As FIDE President"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 71st instalment of his ChessBase show \"Understanding before Moving\", Herman talks about open and half-open files. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1584,14 +1608,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/charity-cup-2022-d1",
          "pubDate" : "Sun, 20 Mar 2022 13:40:00 +0100",
          "title" : "Charity Cup: Niemann and Le share the lead"
-      },
-      {
-         "description" : "GM Le Quang Liem and GM Hans Niemann, underdogs for overall victory, are sharing the lead after day one at the Charity Cup. In what is the second&#38;nbsp;leg of the 2022 Meltwater Champions Chess Tour, World Champion&#38;nbsp;Magnus Carlsen suffered an e...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-charity-cup-day-1",
-         "pubDate" : "Sun, 20 Mar 2022 03:54:00 -0700",
-         "title" : "Charity Cup Day 1: Le, Niemann Lead As Ding Beats Carlsen"
       },
       {
          "description" : "",
@@ -1696,14 +1712,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-34",
          "pubDate" : "Fri, 18 Mar 2022 15:00:00 +0100",
          "title" : "Svitlana's Smart Moves - How to play with, and against an isolated pawn"
-      },
-      {
-         "description" : "Week five was the first BYE week scheduled in the regular season, but there was still plenty of action as many teams rescheduled matches to be this weekend. This was also an exciting week for Princeton&#39;s captain GM Andrew Tang who made his way to ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-week-5",
-         "pubDate" : "Fri, 18 Mar 2022 06:22:00 -0700",
-         "title" : "Collegiate Chess League Season 4 Week 5"
       },
       {
          "description" : "\"First restrain, then blockade, finally destroy!\", wrote Aron Nimzowitsch almost a century ago. The art of stopping opponents pawn avalanches was so dear to him, that he dedicated a full book to it. \"Die Blockade\" was published in 1925, in the same year as \"Mein System.\" Jan Markos offers modern examples to show what to do against a phalanx of dangerous pawns. | Photo: Pixabay",
