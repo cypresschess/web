@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes his game from the 2022 Mid-America Open in Clayton, Saint Louis. See how he defeated a strong opponent&#039;s Old Indian Defense. 2022.03.29<br /> Caleb Denby vs. Timothy Radermacher, 2022: A55 Old Indian, main line </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beating-old-indian-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnai",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/beating-old-indian-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 30 Mar 2022 03:16:01 +0000",
+         "title" : "Beating the Old Indian | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "Yesterday&#39;s results at the&#38;nbsp;2022 FIDE Grand Prix&#38;nbsp;third leg awarded chess fans with a bonus day of chess with two tiebreak matches on Tuesday to decide who should make it through from Groups B and C.&#38;nbsp; In Group B, GM Shakhriyar Mamed...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-group-tiebreaks",
+         "pubDate" : "Tue, 29 Mar 2022 17:39:00 -0700",
+         "title" : "Mamedyarov, So Win Groups: 2022 FIDE Grand Prix Berlin Leg 3, Group Tiebreaks"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski continues his series on building a chess plan. Learn to identify what&#039;s important. 2022.03.29<br /> Robert Andrew Hungaski vs Harshit Raja, Spring Chess Classic (2022): D02 London System<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2256472\">https://www.chessgames.com/perl/chessgame?gid=2256472</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/trends-opening-prep-grandmasters-choice-gm-robert-hungaski-lichessorg\"><i",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/trends-opening-prep-grandmasters-choice-gm-robert-hungaski-lichessorg",
+         "pubDate" : "Wed, 30 Mar 2022 00:15:50 +0000",
+         "title" : "Trends in Opening Prep | Grandmaster's Choice - GM Robert Hungaski | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes his games from the 2022 Mid-America Open in Clayton, Saint Louis. See how he defeated a strong opponent&#039;s Old Indian Defense. 2022.03.29<br /> Caleb Denby vs. Timothy Radermacher, 2022: A55 Old Indian, main line </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beating-old-indian-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/beating-old-indian-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Wed, 30 Mar 2022 00:15:50 +0000",
+         "title" : "Beating the Old Indian | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
          "description" : "Wesley So&#xA0;defeated&#xA0;Sam Shankland&#xA0;in the rapid tiebreak games by a score of 1&#xBD;:&#xBD; to reach the semifinals of the third stage of the FIDE Grand Prix Series organised by World Chess in Berlin. The tiebreak games were played with the quicker time control of 15 minutes per game with an increment of 10 seconds per move []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -970,14 +1002,6 @@ news_feed (
          "title" : "Negi! Finally! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros begins his new series which profiles a specific grandmaster's rise to the title. First, it's Boros's countryman, Richard Rapport. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rise-rapport-how-become-grandmaster-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wV4gL0ti6fw.jpg?itok=yqadVPML\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rise-rapport-how-become-grandmaster-gm-denes-boros",
-         "pubDate" : "Thu, 24 Mar 2022 00:11:00 +0000",
-         "title" : "The Rise of The Rapport | How To Become a Grandmaster - GM Denes Boros"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1000,14 +1024,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/martinez-wins-arena-kings-season-9-week-7",
          "pubDate" : "Wed, 23 Mar 2022 14:48:13 -0700",
          "title" : "Martinez Wins Arena Kings Season 9 Week 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> How did aspiring players become established Grandmasters? Explore their struggles, triumphs and unexpected twists on the path to the coveted Grandmaster Title. Taught by GM Denes Boros. 2022.03.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rise-rapport-how-become-grandmaster-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wV4gL0ti6fw.jpg?itok=yqadVP",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rise-rapport-how-become-grandmaster-gm-denes-boros-lichessorg",
-         "pubDate" : "Wed, 23 Mar 2022 21:10:56 +0000",
-         "title" : "The Rise of The Rapport | How To Become a Grandmaster - GM Denes Boros | lichess.org"
       },
       {
          "description" : " <p class=\"lead\">Round 2 of the third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with 8 draws. GMs Levon Aronian, Leinier Dominguez, Alexandr Predke, and Nikita Vitiugov are still leading their Groups with 1.5/2. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-16.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220323151435_IMG_4230.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220323151332_IMG_4227.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"http",
@@ -1128,14 +1144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r1",
          "pubDate" : "Wed, 23 Mar 2022 04:50:00 +0100",
          "title" : "Berlin GP: Aronian and Dominguez score crucial wins"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at Aronian vs. Nakamura from the first day of Group Stage play in the third tournament of the FIDE Grand Prix 2022. Find the event format at <a href=\"https://en.wikipedia.org/wiki/FIDE_Grand_Prix_2022\">https://en.wikipedia.org/wiki/FIDE_Grand_Prix_2022</a>. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grand-prix-3-berlin-race-candidates-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/style",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grand-prix-3-berlin-race-candidates-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 23 Mar 2022 03:10:07 +0000",
-         "title" : "Grand Prix #3 Berlin: Race to the Candidates! | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : "The first round of the final leg of the 2022&#38;nbsp;FIDE Grand Prix&#38;nbsp;saw four decisive games. Each group has a clear leader, with GMs Levon Aronian, Leinier Dominguez Perez, Alexandr Predke, and Nikita Vitiugov all leading their respective group...",
@@ -1704,14 +1712,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/2022-dubbo-open-2-3-april-2022.html",
          "pubDate" : "Fri, 18 Mar 2022 00:40:00 +0000",
          "title" : "2022 Dubbo Open - 2-3 April 2022"
-      },
-      {
-         "description" : "The 2022 Bullet Chess Championship presented by DigitalOcean&#38;nbsp;reached its conclusion today with a series of edge-of-the-seat finals matches that resulted in GM Hikaru Nakamura being crowned the champion! Nakamura, undefeated across his matches...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-bullet-chess-championship-grand-finals-nakamura-wins",
-         "pubDate" : "Thu, 17 Mar 2022 14:35:00 -0700",
-         "title" : "Bullet Chess Championship: Nakamura Wins Title, Tang Runner-Up"
       },
       {
          "description" : "",
