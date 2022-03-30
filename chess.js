@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The March 30 Arena Kings&#38;nbsp;featured one of the more entertaining knockout rounds of the season, although it ended fairly predictably with a victory for&#38;nbsp;GM Hikaru Nakamura. He defeated IM Le Tuan Minh&#38;nbsp;in the final in a 3-0 sweep. The s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-arena-kings-season-9-week-8",
+         "pubDate" : "Wed, 30 Mar 2022 15:24:28 -0700",
+         "title" : "Nakamura's Nearly Perfect Knockout Claims Arena Kings Season 9 Week 8"
+      },
+      {
+         "description" : "Wesley So won a pawn and then never gave Amin Tabatabaei a chance as he took a huge step towards the final of the last Berlin FIDE Grand Prix. In the other semi-final Hikara Nakamura claimed, \"I just didn't want to do anything too exciting,\" as he explained he was already trying to safeguard any openings that might come in handy in the Candidates Tournament. The unambitious approach allowed Shakhriyar Mamedyarov to take over, but the game never caught fire before it ended in a 30-move draw.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/wesley-so-strikes-first-in-grand-prix-semi-finals",
+         "pubDate" : "Wed, 30 Mar 2022 22:11:13 +0000",
+         "title" : "Wesley So strikes first in Grand Prix semi-finals"
+      },
+      {
          "description" : " <p class=\"lead\">Wesley So takes the lead in the match against Tabatabaei, while Nakamura and Mamedyarov finish their game in a draw. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220330153721_IMG_5610.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/A-19.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photos: World Chess</div> </div> In the first round of the semifinals of the third stage of the FIDE Grand Prix in Berlin organised by World Chess Wesley So managed to convert his advantage into a full point against Amin Ta",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1362,14 +1378,6 @@ news_feed (
          "title" : "Third stage of the Grand Prix kicks off without Andreikin"
       },
       {
-         "description" : "Magnus Carlsen made up for his loss to Praggnanandhaa in the Airthings Masters with a convincing win with the black pieces on Day 3 of the Charity Cup. Magnus, like leader Liem Quang Le, has wrapped up qualification with a day to spare, while Pragg joins David Navara and David Anton just outside the Top 8 going into the final three rounds. There were starring performances for Jorden van Foreest, Vidit and Ju Wenjun on Monday, with Jan-Krzysztof Duda admitting to tilting as he lost three games in a row before recovering in the final round.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/charity-cup-3-carlsen-gets-praggnanandhaa-revenge",
-         "pubDate" : "Tue, 22 Mar 2022 10:16:49 +0000",
-         "title" : "Charity Cup 3: Carlsen gets Praggnanandhaa revenge"
-      },
-      {
          "description" : "On an excellent third day of the&#38;nbsp;Charity Cup,&#38;nbsp;GM Jorden van Foreest&#38;nbsp;scored three wins and a draw to move to third place.&#38;nbsp;GM Le Quang Liem&#38;nbsp;scored &#34;plus one&#34; and continues to lead GM&#38;nbsp;Magnus Carlsen. How to watch? ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1568,14 +1576,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-memberships-ukraine/",
          "pubDate" : "Mon, 21 Mar 2022 06:38:47 +0000",
          "title" : "ECF memberships - Ukraine"
-      },
-      {
-         "description" : "GM Maxim Matlakov won the knockout phase of week six of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase. GM Dmitry Andreikin finished second in both the knockout and the Swiss tournament. GMs Daniil Dubov and Vladimir Fedoseev ma...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-6-matlakov-wins",
-         "pubDate" : "Sun, 20 Mar 2022 19:27:00 -0700",
-         "title" : "Rapid Chess Championship Week 6: Matlakov Wins Knockout"
       },
       {
          "description" : "",
@@ -2256,22 +2256,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/33467976/ukraine-russia-invasion-india-chess-im-reaches-india-traumatic-experience?device=featurephone",
          "pubDate" : "Thu, 10 Mar 2022 07:27:46 -0500",
          "title" : "Indian chess IM Anwesh back home after surviving 'traumatic' experience in Ukraine"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1624",
-         "pubDate" : "Wed, 09 Mar 2022 22:40:29 +0000",
-         "title" : "FIDE and Chess24 hold a fundraising marathon for Ukraine on Women's Day"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1627",
-         "pubDate" : "Wed, 09 Mar 2022 22:03:57 +0000",
-         "title" : "FIDE Grand Prix Belgrade - Knockout: Day One Recap"
       }
    ]
 }
