@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the country.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-announced",
+         "pubDate" : "Wed, 30 Mar 2022 12:00:00 +0100",
+         "title" : "MPL Indian Chess Tour announced"
+      },
+      {
          "description" : "Starting today, all Fritz 18 users will receive an additional engine as a free update: Fritz 18 Neuronal. The new engine Fritz 18 Neuronal achieves an increase in playing strength of about 120 ELO points compared to the classic Fritz 18 engine at shorter time controls. Simply start Fritz 18 and start the automatically offered update! Then the new engine will be installed!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/free-fritz18-update-fritz18neuronal-engine",
-         "pubDate" : "Wed, 30 Mar 2022 08:40:00 +0100",
+         "pubDate" : "Wed, 30 Mar 2022 11:55:00 +0100",
          "title" : "Free Fritz update: AI engine \"Fritz 18 Neuronal\""
+      },
+      {
+         "description" : "It's Mamedyarov-Nakamura and So-Tabatabaei in the last semi-finals of the FIDE Grand Prix series after Shakhriyar Mamedyarov and Wesley So emerged victorious in tiebreaks. Shakh opened with a win against 17-year-old Vincent Keymer but was full of praise for how his young opponent struck back before finally losing only in blitz. Wesley also took the early lead against Sam Shankland but lived dangerously in the second game before escaping with a draw that saw him reach the knockout.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mamedyarov-and-so-reach-grand-prix-semifinals",
+         "pubDate" : "Wed, 30 Mar 2022 10:47:24 +0000",
+         "title" : "Mamedyarov and So reach Grand Prix semi-finals"
+      },
+      {
+         "description" : " <p class=\"lead\">World Chess is introducing chess broadcasting innovation that might add a new dimension to the way fans watch chess (and other table sports, for that matter!). Today, <a href=\"https://www.youtube.com/watch?v=VqkA7MlAf08\">tune in</a> to the official Grand Prix broadcast to follow the players' heart beats! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/DEDC4324-4ACA-4384-A584-2ECF0A44BE4A.jpeg\" width=\"1280\" height=\"720\" alt=\"\" /> <div class=\"e2-text-caption\">One of the broadcasting screens of the official World Chess broadcast. It will showcase players' heart beat from time to time</div> </div> The official broadcast of the final rounds of the FID",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/chess-broadcasting-to-include-players-heart-rate-determined-by-a/",
+         "pubDate" : "Wed, 30 Mar 2022 09:53:55 +0000",
+         "title" : "Chess Broadcasting to Include Players' Heart Rate Determined by AI"
+      },
+      {
+         "description" : "In his \"Weekly Show\" Lawrence Trent will continue his coverage of the Berlin Grand Prix. He will take a close look at the performance of Hikaru Nakamura who qualified for the Candidates in Berlin. But the game of the day will be Aronian-Esipenko from round 5, in which White started rather unassumingly and then suddenly launched an attack out of nowhere, which led to a quick win. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-the-fide-grand-prix-in-berlin-2",
+         "pubDate" : "Wed, 30 Mar 2022 10:00:00 +0100",
+         "title" : "The Weekly Show: The FIDE Grand Prix in Berlin"
+      },
+      {
+         "description" : "Wesley So and Shakhriyar Mamedyarov, the rating favourites in Tuesday's rapid and blitz tiebreakers at the Berlin Grand Prix, defeated Sam Shankland and Vincent Keymer and thus advanced to the event's semifinals. So will face Amin Tabatabaei, while Mamedyarov will play Hikaru Nakamura in 2-game matches starting Wednesday. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r7",
+         "pubDate" : "Wed, 30 Mar 2022 09:45:00 +0100",
+         "title" : "Berlin GP: So and Mamedyarov make it to the semifinals"
+      },
+      {
+         "description" : " <p class=\"lead\">Russian Grandmaster Sergey Karjakin has been banned for 6 months by FIDE's Ethics Commission for supporting Russia's invasion in Ukraine and <a href=\"https://www.fide.com/news/1650\">allegedly damaging the reputation of FIDE</a>, the sport's governing body. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/97842112-BA5D-4290-BD18-C1B956650D72.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Karjakin challenged Magnus Carlsen in 2016 in New York and lost the match on tie-breaks. He was leading after 8 rounds.</div> </div> For the 32-year-old chess player, the ban means missing the Candidates Tournament, the key event of the Wor",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/sergey-karjakin-said-to-take-fide-to-court/",
+         "pubDate" : "Wed, 30 Mar 2022 08:15:17 +0000",
+         "title" : "Sergey Karjakin Said To Take FIDE to Court"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes his game from the 2022 Mid-America Open in Clayton, Saint Louis. See how he defeated a strong opponent&#039;s Old Indian Defense. 2022.03.29<br /> Caleb Denby vs. Timothy Radermacher, 2022: A55 Old Indian, main line </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beating-old-indian-mid-america-open-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_emb",
@@ -152,14 +200,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/karjakin-mulling-appeal-against-six-month-ban-for-pro-russia-comments/articleshow/90524262.cms",
          "pubDate" : "Tue, 29 Mar 2022 15:05:26 +0000",
          "title" : "Karjakin mulling appeal against six-month ban for pro-Russia comments"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
-         "pubDate" : "Tue, 29 Mar 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Games and results"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/bebaee68-6b3c-4b1f-821a-3f3309c2883a/Neal2.jpg\" data-image-dimensions=\"321x184\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62430b99139f387a45e63e18\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/bebaee68-6b3c-4b1f-821a-3f3309c2883a/Neal2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Neal Bruce with his #chesspunks mug </figcaption> </figure> <figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-imag",
@@ -1178,22 +1218,6 @@ news_feed (
          "title" : "Ahmed Adly, new Chair of the Athletes Commission"
       },
       {
-         "description" : " <p class=\"lead\">Round 1 of the third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with GMs Levon Aronian, Leinier Dominguez, Alexandr Predke, and Nikita Vitiugov leading their Groups. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-15.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220322151307_IMG_3910.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220322151241_IMG_3909.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictur",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/aronian-dominguez-predke-and-vitiugov-lead-the-fide-gp-after-rou/",
-         "pubDate" : "Tue, 22 Mar 2022 19:29:01 +0000",
-         "title" : "Aronian, Dominguez, Predke, and Vitiugov lead the FIDE GP after Round 1"
-      },
-      {
-         "description" : " <p class=\"lead\">FIDE Online Arena introduces gorgeous new widgets. The widgets, available for dark and light color schemes, allow chess players, bloggers, and the media to easily embed and display games on their sites and blogs in a beautiful way. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/8AD5D101-D004-44E0-91E7-C95C272DB1F9.jpeg\" width=\"1600\" height=\"973\" alt=\"\" /> <div class=\"e2-text-caption\">Widget for all games, played and broadcast, is available on FIDE Online Arena</div> </div> From now on, all games played or broadcast by FIDE Online Arena, are available for embedding. This might be especially useful for chess bloggers and media which cover chess - ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-chess-arena-introduces-official-widgets/",
-         "pubDate" : "Tue, 22 Mar 2022 18:56:43 +0000",
-         "title" : "FIDE Chess Arena Introduces Official Widgets"
-      },
-      {
          "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; A few weeks ago I shared with you a couple of puzzles with totally unexpected solutions from the &#8220;Chess 2022 Day-to-Day Calendar: <a href=\"https://chessimprover.com/chess-2022-january-top-pics/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 January Top Pics\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-january-top-pics/\">Chess 2022 January Top Pics</a> appeared first on <a rel=\"nofollow\" href=\"https://chess",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1384,14 +1408,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/charity-cup-praggnanandhaa-beats-ding-liren-lies-sixth/articleshow/90358205.cms",
          "pubDate" : "Mon, 21 Mar 2022 13:55:55 +0000",
          "title" : "Charity Cup: Praggnanandhaa beats Ding Liren, lies sixth"
-      },
-      {
-         "description" : "Controversial former world title challenger Sergey Karjakin, who sparked widespread criticism for his support of Russia's war in Ukraine, has been banned from all competition by FIDE, it was announced today. The Crimea-born Grandmaster, who switched from representing Ukraine to Russia is 2009, is now stripped of his place in the upcoming Candidates tournament pending any appeal.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/sergey-karjakin-banned-from-chess-for-6-months-over-ukraine-stance",
-         "pubDate" : "Mon, 21 Mar 2022 12:57:50 +0000",
-         "title" : "Russian grandmaster Sergey Karjakin banned from chess for 6 months over Ukraine stance"
       },
       {
          "description" : " The last 2 years has seen very little chess activity in Oceania , for obvious reasons. Apart from some online participation in FIDE and Asian events, it has been pretty quiet. Signs of life are starting to appear though, with the decision to hold the 2023 Oceania in Melbourne in January 2023. Teams are starting to get themselves organised for the Olympiad, and there is also talk of a possible Oceania Juniors in 2022 (or 23), and an Oceania Seniors. Unlike almost all other FIDE zones, air travel is the key to the success of these events, so hopefully the opening of borders between the various countries will see renewed enthusiasm for these tournaments. <br /> ",
@@ -2042,14 +2058,6 @@ news_feed (
          "title" : "RIP Edward Claud Sowden"
       },
       {
-         "description" : "Ivan Sokolov is well-known for his stunning attacking games. Most of them originate from middlegames, so no wonder he wrote various books about this topic. Now he continues his video series at ChessBase and presents further tools for a better chess understanding with the hedgehog and dynamic pawn structures. Not only as a player, but also through his work as a trainer of various top players, Sokolov knows how to make complex topics understandable through instructive examples. Start improving your understanding of the middlegames now!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-understanding-middlegame-strategies-vol-3-vol-4",
-         "pubDate" : "Mon, 14 Mar 2022 12:16:43 +0100",
-         "title" : "New: Understanding Middlegame Strategies Vol. 3 + Vol. 4"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2064,14 +2072,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-chess-womens-gala/",
          "pubDate" : "Mon, 14 Mar 2022 09:13:26 +0000",
          "title" : "European Chess Women's Gala"
-      },
-      {
-         "description" : "A win with white in Sunday's second game of the final gave Richard Rapport tournament victory at the second leg of the FIDE Grand Prix in Belgrade. Rapport beat Dmitry Andreikin after rejecting a draw by triple repetition in a double-edged position. This victory, combined with his reaching the semifinals in the first leg of the series, places him as a clear favourite to get a spot in the Candidates Tournament. | Photos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-f2",
-         "pubDate" : "Mon, 14 Mar 2022 05:35:00 +0100",
-         "title" : "Rapport tempts fortune, wins Belgrade Grand Prix"
       },
       {
          "description" : "",
