@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Starting today, all Fritz 18 users will receive an additional engine as a free update: Fritz 18 Neuronal. The new engine Fritz 18 Neuronal achieves an increase in playing strength of about 120 ELO points compared to the classic Fritz 18 engine at shorter time controls. Simply start Fritz 18 and start the automatically offered update! Then the new engine will be installed!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/free-fritz18-update-fritz18neuronal-engine",
+         "pubDate" : "Wed, 30 Mar 2022 08:40:00 +0100",
+         "title" : "Free Fritz update: AI engine \"Fritz 18 Neuronal\""
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes his game from the 2022 Mid-America Open in Clayton, Saint Louis. See how he defeated a strong opponent&#039;s Old Indian Defense. 2022.03.29<br /> Caleb Denby vs. Timothy Radermacher, 2022: A55 Old Indian, main line </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beating-old-indian-mid-america-open-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_emb",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/beating-old-indian-mid-america-open-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 30 Mar 2022 06:15:59 +0000",
+         "title" : "Beating the Old Indian at Mid-America Open | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski talks about modern trends in chess opening preparation. See a prime example of opening preparation of the London System in Hungaski&#039;s game against Harshit Raja from the 2022 Spring Chess Classic in Saint Louis. 2022.03.29<br /> Robert Andrew Hungaski vs Harshit Raja, Spring Chess Classic (2022): D02 London System<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2256472\">https://www.chessgames.com/perl/chessgame?gid=2256472</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/trends-opening-prep-grandmasters-choice-gm-robert-hungaski",
+         "pubDate" : "Wed, 30 Mar 2022 06:15:59 +0000",
+         "title" : "Trends in Opening Prep | Grandmaster's Choice - GM Robert Hungaski"
+      },
+      {
+         "description" : "Finding novelties is a fun way for students to learn how to use a database to annotate chess games. Novelties, loosely defined, are new moves but not necessarily good moves. National Master Jeffrey Ashton explains.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-for-coaches-finding-novelties",
+         "pubDate" : "Wed, 30 Mar 2022 06:30:00 +0100",
+         "title" : "ChessBase for Coaches: Finding Novelties"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes his game from the 2022 Mid-America Open in Clayton, Saint Louis. See how he defeated a strong opponent&#039;s Old Indian Defense. 2022.03.29<br /> Caleb Denby vs. Timothy Radermacher, 2022: A55 Old Indian, main line </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beating-old-indian-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnai",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -122,14 +154,6 @@ news_feed (
          "title" : "Karjakin mulling appeal against six-month ban for pro-Russia comments"
       },
       {
-         "description" : "On Sunday, the European Individual Championship (\"EICC\") began in Terme Čatež (Slovenia). After two rounds no less than 41 players share the lead with 2.0/2, among them top seed David Navara and a couple of strong juniors. Round 3 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
-         "pubDate" : "Tue, 29 Mar 2022 14:55:00 +0100",
-         "title" : "European Individual Chess Championship (EICC), Round 3 - live"
-      },
-      {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,14 +184,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-grand-prix-berlin-pools-tie-breaks/",
          "pubDate" : "Tue, 29 Mar 2022 12:38:08 +0000",
          "title" : "FIDE Grand Prix Berlin: Pools Tie-Breaks"
-      },
-      {
-         "description" : "Starting today, all Fritz 18 users will receive an additional engine as a free update: Fritz 18 Neuronal. The new engine Fritz 18 Neuronal achieves an increase in playing strength of about 120 ELO points compared to the classic Fritz 18 engine at shorter time controls. Simply start Fritz 18 and start the automatically offered update! Then the new engine will be installed!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/free-fritz18-update-fritz18neuronal-engine",
-         "pubDate" : "Tue, 29 Mar 2022 12:00:00 +0100",
-         "title" : "Free Fritz update: AI engine \"Fritz 18 Neuronal\""
       },
       {
          "description" : "National Sub-Junior (04-08, March 2022) Certificates are Out to Download National Sub-Junior and National Sub-Junior Girls Chess Championship 2022 Certificates are out to download for",
@@ -978,28 +994,12 @@ news_feed (
          "title" : "Berlin GP: Eight draws, players share their opinion on Karjakin's ban"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani takes on the Philidor Defense, based on the teachings of Parimarjan Negi and his book. BUY NEGI'S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1e4-vs-philidor-part-1-chess-and-psychology-im-dorsa-dera",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/1e4-vs-philidor-part-1-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 24 Mar 2022 03:11:00 +0000",
-         "title" : "1.e4 vs The Philidor: Part 1 | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
          "description" : " <p class=\"lead\">It was a peaceful, but by no means uneventful day at FIDE Grand Prix Berlin although all eight games in Round 2 were drawn. \"Let's talk about how dramatically the situation changed in every group after today's round\" joked the tournament commentator GM Evgeny Miroshnichenko and certainly, the standings have not changed at all as we have the same leaders as after Round 1 in each pool, namely Levon Aronian, Leinier Dominguez, Alexandr Predke, and Nikita Vitiugov. Round 2 results still don't tell the entire story, as, despite peaceful outcomes, the games were hard-fought and enthralling. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/fide-grand-prix-berlin-round-2-recap/",
          "pubDate" : "Thu, 24 Mar 2022 00:13:38 +0000",
          "title" : "FIDE Grand Prix Berlin - Round 2 Recap"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on a topic of her choice. 2022.03.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/negi-finally-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YC3jVnRHelw.jpg?itok=RianHILr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/negi-finally-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Thu, 24 Mar 2022 00:11:00 +0000",
-         "title" : "Negi! Finally! | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "",
