@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vladimir Putin uses athletes for his propaganda. But Russian chess grandmaster Daniil Dubov is standing up to the Russian leader and the war in Ukraine. In an interview with Europe's premier news magazine, the 25-year-old explains why he is willing to take that risk. \"Nuclear war could break out and I could miss the end of the world while analysing the Italian opening.\" | Photo: Jacek Prondzynski/Newspix/Imago",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dubov-the-only-way-to-change-anything-in-russia-is-a-revolution",
+         "pubDate" : "Thu, 31 Mar 2022 21:00:00 +0100",
+         "title" : "Dubov: \"The only way to change anything in Russia is a revolution\""
+      },
+      {
+         "description" : "This week Robert Ris takes an in-depth look at the miniature Predke vs. Vachier-Lagrave from the Grand Prix series in Berlin, featuring a sharp line in the Symmetrical English. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-predke-miniature-berlin",
+         "pubDate" : "Thu, 31 Mar 2022 20:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Predke's miniature in Berlin"
+      },
+      {
+         "description" : "If we were to assume that there really is something to astrology - that people born in autumn really do tick a little differently from those born in spring - might we have a useful clue to our opponent's strategy in a chess game by asking about their star sign? Perhaps we would also involuntarily expect for a typical Dutchman to prefer a different strategy than a full-blooded Sicilian.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aries-and-their-strategy",
+         "pubDate" : "Thu, 31 Mar 2022 19:15:00 +0100",
+         "title" : "Aries and their strategy"
+      },
+      {
+         "description" : " <p class=\"lead\">Round 2 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> semifinals ended with Tabatabaei winning against So and Mamedyarov drawing against Nakamura. With these results, both pairings move to the semifinals tiebreaks. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220331152256_IMG_5741.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220331154630_IMG_5753.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220331154700_IMG_5754.jpg\" width=\"2560\" height=\"1707\"",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/tabatabaei-beats-so-on-round-2-of-the-fide-grand-prix-semifinals/",
+         "pubDate" : "Thu, 31 Mar 2022 16:47:14 +0000",
+         "title" : "Tabatabaei Beats So In Round 2 of the Grand Prix Semifinals"
+      },
+      {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/wL_SqXmTWRE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-semi-finals-game-2/",
          "pubDate" : "Thu, 31 Mar 2022 15:08:38 +0000",
          "title" : "FIDE Grand Prix in Berlin: Semi-finals Game 2"
+      },
+      {
+         "description" : "Starting today, all Fritz 18 users will receive an additional engine as a free update: Fritz 18 Neuronal. The new engine Fritz 18 Neuronal achieves an increase in playing strength of about 120 ELO points compared to the classic Fritz 18 engine at shorter time controls. Simply start Fritz 18 and start the automatically offered update! Then the new engine will be installed!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/free-fritz18-update-fritz18neuronal-engine",
+         "pubDate" : "Thu, 31 Mar 2022 15:15:00 +0100",
+         "title" : "Free Fritz update: AI engine \"Fritz 18 Neuronal\""
       },
       {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
@@ -63,7 +103,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-2022-live",
          "pubDate" : "Thu, 31 Mar 2022 12:00:00 +0100",
-         "title" : "MPL Indian Chess Tour - Live!"
+         "title" : "MPL Indian Chess Tour - Games and results"
       },
       {
          "description" : "Adhiban takes on Sethuraman and Harika takes on Arjun Erigaisi as the $100,000 MPL Indian Chess Tour begins today, Thursday 31 March at 15:30 IST (06:00 ET, 12:00 CEST). 16 players are competing in the first of four online chess tournaments that will qualify each winner both to the MPL Indian Chess Tour final and to an event on the $1.6 million Meltwater Champions Chess Tour. There are 15 rounds over the next four days, with all the action broadcast live here on chess24.",
@@ -186,14 +226,6 @@ news_feed (
          "title" : "Nakamura Wins Titled Tuesday On Break, Andreikin Continues Run"
       },
       {
-         "description" : "Starting today, all Fritz 18 users will receive an additional engine as a free update: Fritz 18 Neuronal. The new engine Fritz 18 Neuronal achieves an increase in playing strength of about 120 ELO points compared to the classic Fritz 18 engine at shorter time controls. Simply start Fritz 18 and start the automatically offered update! Then the new engine will be installed!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/free-fritz18-update-fritz18neuronal-engine",
-         "pubDate" : "Wed, 30 Mar 2022 17:05:00 +0100",
-         "title" : "Free Fritz update: AI engine \"Fritz 18 Neuronal\""
-      },
-      {
          "description" : "World Chess has introduced an innovation that will likely add a new dimension to the way fans watch chess (and other mind sports, for that matter!). They have developed - and will roll out today - a tool that tracks the players' heart rate over video signal (without playing having to wear a pulse-tracking device). Please find the press release below and tune in today to see the technology in action during the semi-finals of the Grand Prix in Berlin. Press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -226,12 +258,12 @@ news_feed (
          "title" : "Dubbo 2022"
       },
       {
-         "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the country.",
+         "description" : "Finding novelties is a fun way for students to learn how to use a database to annotate chess games. Novelties, loosely defined, are new moves but not necessarily good moves. National Master Jeffrey Ashton explains.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-announced",
-         "pubDate" : "Wed, 30 Mar 2022 12:00:00 +0100",
-         "title" : "MPL Indian Chess Tour announced"
+         "link" : "https://en.chessbase.com/post/chessbase-for-coaches-finding-novelties",
+         "pubDate" : "Wed, 30 Mar 2022 12:05:00 +0100",
+         "title" : "ChessBase for Coaches: Finding Novelties"
       },
       {
          "description" : "It's Mamedyarov-Nakamura and So-Tabatabaei in the last semi-finals of the FIDE Grand Prix series after Shakhriyar Mamedyarov and Wesley So emerged victorious in tiebreaks. Shakh opened with a win against 17-year-old Vincent Keymer but was full of praise for how his young opponent struck back before finally losing only in blitz. Wesley also took the early lead against Sam Shankland but lived dangerously in the second game before escaping with a draw that saw him reach the knockout.",
@@ -274,6 +306,14 @@ news_feed (
          "title" : "Sergey Karjakin Said To Take FIDE to Court"
       },
       {
+         "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the country.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-announced",
+         "pubDate" : "Wed, 30 Mar 2022 09:15:00 +0100",
+         "title" : "MPL Indian Chess Tour announced"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes his game from the 2022 Mid-America Open in Clayton, Saint Louis. See how he defeated a strong opponent&#039;s Old Indian Defense. 2022.03.29<br /> Caleb Denby vs. Timothy Radermacher, 2022: A55 Old Indian, main line </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beating-old-indian-mid-america-open-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_emb",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -288,14 +328,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/trends-opening-prep-grandmasters-choice-gm-robert-hungaski",
          "pubDate" : "Wed, 30 Mar 2022 06:15:59 +0000",
          "title" : "Trends in Opening Prep | Grandmaster's Choice - GM Robert Hungaski"
-      },
-      {
-         "description" : "Finding novelties is a fun way for students to learn how to use a database to annotate chess games. Novelties, loosely defined, are new moves but not necessarily good moves. National Master Jeffrey Ashton explains.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-for-coaches-finding-novelties",
-         "pubDate" : "Wed, 30 Mar 2022 06:30:00 +0100",
-         "title" : "ChessBase for Coaches: Finding Novelties"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes his game from the 2022 Mid-America Open in Clayton, Saint Louis. See how he defeated a strong opponent&#039;s Old Indian Defense. 2022.03.29<br /> Caleb Denby vs. Timothy Radermacher, 2022: A55 Old Indian, main line </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beating-old-indian-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnai",
@@ -946,7 +978,7 @@ news_feed (
          "title" : "A short warm up event "
       },
       {
-         "description" : " Share!592 In most team competitions, teammates don't play each other, but retired U.S. Marine Corps Master Sergeant Steven Rollins thought of a novel way that allows teammates to play each other without adversely affecting the team score. In 2014, his &#8220;Rollins Military System&#8221; was included as Rule 31A1 in the U.S. Chess Rule Book. Kobe [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/\">The Steven Rollins Chess Rule</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!636 In most team competitions, teammates don't play each other, but retired U.S. Marine Corps Master Sergeant Steven Rollins thought of a novel way that allows teammates to play each other without adversely affecting the team score. In 2014, his &#8220;Rollins Military System&#8221; was included as Rule 31A1 in the U.S. Chess Rule Book. Kobe [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/\">The Steven Rollins Chess Rule</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/",
@@ -1144,14 +1176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/george-henry-mackenzie-the-forgotten-american-chess-ace-march-24-1837-april-14-1891",
          "pubDate" : "Thu, 24 Mar 2022 15:33:23 +0100",
          "title" : "George Henry Mackenzie: The Forgotten American Chess Ace (March 24, 1837-April 14, 1891)"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/RBf8aIeN660?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-pools-round-3/",
-         "pubDate" : "Thu, 24 Mar 2022 13:22:26 +0000",
-         "title" : "FIDE Grand Prix in Berlin: Pools Round 3"
       },
       {
          "description" : "",
@@ -1978,28 +2002,12 @@ news_feed (
          "title" : "French Federation gets promoted"
       },
       {
-         "description" : "The \"Chess for Mental Health\" international event was held on 9 March 2022 in Paris. According to the speakers, many recent studies have already highlighted the benefits of playing chess to support the development of children with autism spectrum disorders, the DYS (dyslexia, dyspraxia, dyscalculia) or attention and hyperactivity disorders.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ffe-chess-for-mental-health-2022",
-         "pubDate" : "Wed, 16 Mar 2022 08:00:00 +0100",
-         "title" : "FIDE and FFE host international conference \"Chess for Mental Health\""
-      },
-      {
          "description" : "European Chess Union congratulates to its President, Mr. Zurab Azmaiparashvili on his 62nd anniversary. We wish him a day filled with joy, years full of success and all his dreams to come true! Mr. Zurab Azmaiprashvili was born in Tbilisi, Georgia on 16th March of 1960, and started a rising chess career by winning the Championship of Georgia&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-congratulates-to-its-president-mr-zurab-azmaiparashvili-on-his-birthday-anniversary/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-congratulates-to-its-president-mr-zurab-azmaiparashvili-on-his-birthday-anniversary/",
          "pubDate" : "Wed, 16 Mar 2022 06:13:35 +0000",
          "title" : "ECU congratulates its President Mr Zurab Azmaiparashvili on his 62nd birthday anniversary!"
-      },
-      {
-         "description" : "The FIDE Council has approved today the bid presented by the All India Chess Federation (AICF) to host the 2022 Chess Olympiad in Chennai, the capital of the Tamil Nadu state. The exact schedule is still being discussed and will be announced in the coming days, but the event will take place between the end of July and the beginning of August, not very far off from the dates originally planned.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-to-host-the-2022-chess-olympiad",
-         "pubDate" : "Wed, 16 Mar 2022 02:50:00 +0100",
-         "title" : "Chennai to host the 2022 Chess Olympiad"
       },
       {
          "description" : " The FIDE Council have confirmed Chennai as the new host city for the 2022 Chess Olympiad. The exact dates for the Olympiad have not yet been announced, but the organisers have said it will still be late July to early August, in line with the previous dates. The venue will be the Sheraton Mahabalipuram, which is about an hour south of Chennai, with teams staying in the various hotels located in that area. Exact details will be announced shortly. ",
@@ -2016,14 +2024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1637",
          "pubDate" : "Tue, 15 Mar 2022 19:59:16 +0000",
          "title" : "Chennai to host the 2022 Chess Olympiad"
-      },
-      {
-         "description" : "The $1.6 million Meltwater Champions Chess Tour will dedicate its next stage to fundraising for the victims of the war in Ukraine, it was announced today. The Charity Cup, starting March 19, will be the second leg of the world's most prestigious elite online chess event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/next-tour-stage-dedicated-to-victims-of-ukraine-war",
-         "pubDate" : "Tue, 15 Mar 2022 17:25:08 +0100",
-         "title" : "Next Tour stage dedicated to victims of Ukraine war"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/80d97f78-021f-49e1-9572-8f13af8bc6c8/CLSMith.jpg\" data-image-dimensions=\"260x260\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6230a96183f79c70896970b3\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/80d97f78-021f-49e1-9572-8f13af8bc6c8/CLSMith.jpg?format=1000w\" /> </figure> <p class=\"\">Cody Smith is a 31 year old Alabama-<a href=\"https://lichess.org/@/CLSmith15\" target=\"_blank\"> Twitch streamer</a>,<strong> </strong>and chess instructor.<strong> </strong> <p ",
@@ -2232,22 +2232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1629",
          "pubDate" : "Thu, 10 Mar 2022 21:19:32 +0000",
          "title" : "FIDE Grand Prix Belgrade - Knockout: Day Two Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-championships-2022/",
-         "pubDate" : "Thu, 10 Mar 2022 16:41:04 +0000",
-         "title" : "The English Championships 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1628",
-         "pubDate" : "Thu, 10 Mar 2022 16:21:03 +0000",
-         "title" : "The First Global Interactive Community Chess Simul"
       }
    ]
 }
