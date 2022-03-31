@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"Who cares!\" said Hikaru Nakamura when he learned that he'd clinched overall victory in the 2022 FIDE Grand Prix with a draw against Shakhriyar Mamedyarov. His point was that there are no separate prizes this time round for the overall results. Meanwhile there's still unfinished business in Berlin, with both semi-finals to be decided in tiebreaks on Friday after Wesley So made a move that both players initially thought was winning, only to realise there was a refutation which almost instantly decided the game in Amin Tabatabaei's favour.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-wins-grand-prix-both-semis-go-to-tiebreaks",
+         "pubDate" : "Thu, 31 Mar 2022 22:56:03 +0000",
+         "title" : "Nakamura wins Grand Prix | Both semis go to tiebreaks"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1670",
+         "pubDate" : "Thu, 31 Mar 2022 22:42:20 +0000",
+         "title" : "FIDE Grand Prix Berlin: Semifinals go to tiebreaks"
+      },
+      {
+         "description" : " <p class=\"lead\">In the second round of the semifinals of the third stage of the FIDE Grand Prix in Berlin organised by World Chess, Shakhriyar Mamedyarov and Hikaru Nakamura made a second draw and will continue fighting for a spot in the final on the tiebreak tomorrow. After a huge blunder by Wesley So, Amin Tabatabaei bounced back in the second game of the semifinal and took their match to the tiebreaks! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220331155024_IMG_5758-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> With today's half-point, Hikaru Nakamura has secured victory in the overall 2022 FID",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-berlin-semis-game-2-recap/",
+         "pubDate" : "Thu, 31 Mar 2022 22:15:37 +0000",
+         "title" : "FIDE Grand Prix Berlin Semis: Game 2 Recap"
+      },
+      {
+         "description" : "GM Hikaru Nakamura&#38;nbsp;won the&#38;nbsp;2022 FIDE Grand Prix&#38;nbsp;series by earning a half-point against GM&#38;nbsp;Shakhriyar Mamedyarov&#38;nbsp;on Thursday. Although there are still games to be played in the third leg, Nakamura has already earned more po...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-semifinals-day-2",
+         "pubDate" : "Thu, 31 Mar 2022 14:30:24 -0700",
+         "title" : "Nakamura Early Winner Of Series: 2022 FIDE Grand Prix Berlin Leg 3, Semifinals Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Saint Louis Chess Club presents a brand new tournament, the American Cup, featuring an exciting (and rare) double elimination format. World-class chess masters come to America&#039;s chess capital to compete in a fierce do-or-die struggle for $300,000 in prize money. With a double elimination format, fans can expect the American Cup to have a combination of exciting chess play, stunning upsets, and epic comebacks. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-promo",
+         "pubDate" : "Thu, 31 Mar 2022 21:17:46 +0000",
+         "title" : "The American Cup 2022 | Promo"
+      },
+      {
+         "description" : "Five rounds have been played at the European Individual Chess Championship 2022 in Terme Catez, Slovenia, and five players tie for the top scoring 4.5 points, each. Can Emre (TUR, 2578), Sargissian Gabriel (ARM, 2681), Bluebaum Matthias (GER, 2642), Kuzubov Yuriy (UKR, 2639) and Jobava Baadur (GEO, 2588) head the crosstable anticipating the 6th round. 18 players are&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2022-r5-report/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2022-r5-report/",
+         "pubDate" : "Thu, 31 Mar 2022 21:14:50 +0000",
+         "title" : "European Individual Chess Championship 2022 - R5 report"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Ukrainians make the strongest contingent with 35 players and 5 coaches at the <strong>European Championship</strong> in Catez. The Slovenian organisers have provided some free rooms and accommodation whereas the <strong>ECU</strong> has waived the fees. The <strong>Government of Ukraine</strong> granted players between 18 and 60 special permissions to represent their country at the board. The <strong>Belarus Chess Federation</strong> retracted its players when it was announced that they couldn't represent their country. Only four Russians take part, two of whom are juniors, one is a senior and the fourth is married in Germany and about to change fed",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/slovenia-and-ecu-support-ukrainians/",
+         "pubDate" : "Thu, 31 Mar 2022 21:43:14 +0100",
+         "title" : "Slovenia and ECU support Ukrainians"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Hikaru Nakamura</strong> and <strong>Richard Rapport</strong> <a href=\"https://worldchess.com\">qualified</a> at the <strong>Grand Prix</strong> for the <strong>Candidates Tournament</strong> that will take place in Madrid from 17 June to 4 July (or 5 July if equality on the first place leads to a tiebreak). The place of the banned <strong>Sergey Karjakin</strong> will probably go to current world number two <strong>Ding Liren</strong> who is underway <a href=\"https://chess24.com/en/watch/live-tournaments/hangzhou-grandmaster-2022/7/1/1\">in Chinese events</a> to complete enough rated games before 1 May. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/nakamura-rapport-and-probably-ding/",
+         "pubDate" : "Thu, 31 Mar 2022 21:35:26 +0100",
+         "title" : "Nakamura, Rapport and probably Ding"
+      },
+      {
          "description" : "Vladimir Putin uses athletes for his propaganda. But Russian chess grandmaster Daniil Dubov is standing up to the Russian leader and the war in Ukraine. In an interview with Europe's premier news magazine, the 25-year-old explains why he is willing to take that risk. \"Nuclear war could break out and I could miss the end of the world while analysing the Italian opening.\" | Photo: Jacek Prondzynski/Newspix/Imago",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +82,14 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Predke's miniature in Berlin"
       },
       {
+         "description" : " The MPL Indian Chess Tour 1st Leg takes place Thu 31st Mar to Sun 3rd Apr 2022 hosted by Chess24. This event is an extension of the online Meltwater Champions Chess Tour and has 5 qualifying places for the main tour. There are 4 legs and a final. The format is a straight rapid round robin of 16 players.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/mpl-indian-chess-tour-1st-leg-2022",
+         "pubDate" : "Thu, 31 Mar 2022 22:36:00 +0400",
+         "title" : "MPL Indian Chess Tour 1st Leg 2022 - Games and Results"
+      },
+      {
          "description" : "If we were to assume that there really is something to astrology - that people born in autumn really do tick a little differently from those born in spring - might we have a useful clue to our opponent's strategy in a chess game by asking about their star sign? Perhaps we would also involuntarily expect for a typical Dutchman to prefer a different strategy than a full-blooded Sicilian.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +104,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/tabatabaei-beats-so-on-round-2-of-the-fide-grand-prix-semifinals/",
          "pubDate" : "Thu, 31 Mar 2022 16:47:14 +0000",
          "title" : "Tabatabaei Beats So In Round 2 of the Grand Prix Semifinals"
+      },
+      {
+         "description" : "The&#38;nbsp;2022 Junior Speed Chess Championship presented by SIG commenced today with a series of hard-fought matches where IMs reigned supreme. IM Aronyak Ghosh&#38;nbsp;was the deserving winner after taking down WGM Zhu&#38;nbsp;Jiner&#38;nbsp;and IM Rahul Sr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-qualifier-1",
+         "pubDate" : "Thu, 31 Mar 2022 09:46:00 -0700",
+         "title" : "Ghosh Advances To Main Event: 2022 Junior Speed Chess Championship Qualifier 1"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/wL_SqXmTWRE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -698,14 +778,6 @@ news_feed (
          "title" : "$100,000 MPL Indian Chess Tour starts March 31st"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering discusses common mating combinations that exploit weaknesses on the back rank. Solve tactics with the mysterious masked Alex! Originally on Twitch<br /> 2022.03.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/combinations-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wyeWVmLJEh0.jpg?itok=lrorGXMd\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/combinations-beginner-breakdown",
-         "pubDate" : "Mon, 28 Mar 2022 06:14:54 +0000",
-         "title" : "Combinations | Beginner Breakdown"
-      },
-      {
          "description" : "Four players representing the United States scored full points in round 5 of the Berlin Grand Prix. Levon Aronian and Hikaru Nakamura both won and are now sharing the lead in pool A, much like Wesley So and Sam Shankland, who are now co-leaders in pool C. Given round-5's results, we are likely to see tiebreaks after Monday's final round, as none of the four groups has a sole leader at the moment. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1138,14 +1210,6 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Berlin Leg 3, R3: Keymer Wins, Nakamura Escapes"
       },
       {
-         "description" : " <p class=\"lead\">The local hero Vincent Keymer outplayed Daniil Dubov and joined Leinier Dominguez in the lead of Pool B. The rest of the games finished in a draw in the third round of the final stage of the Grand Prix series, thus Levon Aronian, Alexandr Predke, and Nikita Vitiugov kept their lead in other groups. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220324165117_IMG_4575.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220324182332_IMG_4658.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/2022032419",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-berlin-round-3-recap/",
-         "pubDate" : "Fri, 25 Mar 2022 00:34:27 +0000",
-         "title" : "FIDE Grand Prix Berlin - Round 3 Recap"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1402,14 +1466,6 @@ news_feed (
          "title" : "Chess 2022 - January Top Pics"
       },
       {
-         "description" : "The Kremlin dramatically intervened in the row over Sergey Karjakin's worldwide chess ban today as Vladimir Putin's press spokesman called on FIDE to revise its ruling. Dmitry Peskov, who is also chairman of the Board of Trustees of the Russian Chess Federation, told Russian news agency TASS that chess \"must be beyond politics\".",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/kremlin-orders-fide-to-overturn-sergey-karjakin-s-worldwide-chess-ban",
-         "pubDate" : "Tue, 22 Mar 2022 15:49:17 +0000",
-         "title" : "Kremlin calls on FIDE to overturn Sergey Karjakin's worldwide chess ban"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Accounts of several unnamed Russian oligarchs <a href=\"https://www.chess.com/blog/CHESScom/on-the-invasion-of-ukraine?ref_id=43524416\">were identified and closed</a> by <strong>Chess.com</strong>, which has also sent the open anti-war-letter by Russian players to its members in Russia and Belarus. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1578,14 +1634,6 @@ news_feed (
          "title" : "Oceania news"
       },
       {
-         "description" : "The FIDE Ethics and Disciplinary Commission (EDC) has banned GM Sergey Karjakin for six months from participating as a player in any FIDE rated chess competition. The 32-year-old Russian grandmaster, who is a fierce supporter of Russian president ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sergey-karjakin-banned-for-6-months",
-         "pubDate" : "Mon, 21 Mar 2022 05:43:00 -0700",
-         "title" : "Karjakin Banned For 6 Months, Misses Out On Candidates"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1640,14 +1688,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-trent-s-tactics-17",
          "pubDate" : "Mon, 21 Mar 2022 10:15:43 +0100",
          "title" : "Trent's Tactics - Russian tactics from 1924 and 1940"
-      },
-      {
-         "description" : "GM Le Quang Liem continues to lead the preliminaries of the 2022 Meltwater Champions Chess Tour&#39;s&#38;nbsp;Charity Cup. With three wins on the second day, World Champion&#38;nbsp;Magnus Carlsen&#38;nbsp;is now in second place together with GM Jan-Krzysztof Du...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-charity-cup-day-2",
-         "pubDate" : "Mon, 21 Mar 2022 01:35:00 -0700",
-         "title" : "Charity Cup Day 2: Carlsen, Duda Trailing As Leader Le Hits h3 Twice"
       },
       {
          "description" : "The ECF Directors at their recent Board meeting agreed that the ECF will until further notice offer free ECF membership to all Ukrainians with a...",
@@ -1808,14 +1848,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-winning-academy-8-how-to-stop-a-pawn-avalanche",
          "pubDate" : "Fri, 18 Mar 2022 13:00:00 +0100",
          "title" : "The Winning Academy 8: How to Stop a Pawn Avalanche"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While several federations are demanding his removal from the FIDE Presidency, Putin's party United Russia demanded his removal as chairman of Skolkovo Foundation that runs Russia's main IT campus and incubator after Arkady Dvorkovich spoke out against the war and in sympathy of the Ukrainian population. As the Kremlin's chief economic advisor he was a main driver of Skolkovo and headed it since leaving the government in 2018. <a href=\"https://sk.ru/news/arkadij-dvorkovich-prekrashchaet-polnomochiya-predsedatelya-fonda-skolkovo/\">The 49-year-old duely stepped down</a> and, <a href=\"https://interfax.com/newsroom/top-stories/76981/\">according to the ag",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/dvorkovich-lost-main-job/",
-         "pubDate" : "Fri, 18 Mar 2022 12:39:49 +0100",
-         "title" : "Dvorkovich lost main job"
       },
       {
          "description" : "",
@@ -1994,14 +2026,6 @@ news_feed (
          "title" : "FIDE International Organisers Online Seminar with ECU"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The French Ministry of Education, Youth and Sport has given the French Chess Federation <a href=\"http://echecs.asso.fr/Actu.aspx?Ref=13831\">delegate status, which comes with more rights, support and access to subsidies</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/french-federation-gets-promoted/",
-         "pubDate" : "Wed, 16 Mar 2022 10:41:03 +0100",
-         "title" : "French Federation gets promoted"
-      },
-      {
          "description" : "European Chess Union congratulates to its President, Mr. Zurab Azmaiparashvili on his 62nd anniversary. We wish him a day filled with joy, years full of success and all his dreams to come true! Mr. Zurab Azmaiprashvili was born in Tbilisi, Georgia on 16th March of 1960, and started a rising chess career by winning the Championship of Georgia&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-congratulates-to-its-president-mr-zurab-azmaiparashvili-on-his-birthday-anniversary/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2048,14 +2072,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-charity-marathon-for-ukraine/",
          "pubDate" : "Tue, 15 Mar 2022 09:06:12 +0000",
          "title" : "Charity Marathon for Ukraine"
-      },
-      {
-         "description" : "photo by Karsten Wieland. The City of Dresden, the Dresdner Schachfestival e.V. and the European Chess Federation (ECU) have the honour to invite all senior players throughout Europe to participate in the European Senior Team Chess Championship 2022 (categories 50+ and 65+) organised in Dresden (Germany) from 26th October (arrival) to 5th November 2022 (departure). According to the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championship-2022-official-invitation/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2022-official-invitation/",
-         "pubDate" : "Tue, 15 Mar 2022 08:03:47 +0000",
-         "title" : "European Senior Team Chess Championship 2022 - Official invitation"
       },
       {
          "description" : " The FIDE Grand Prix Leg 2 took place in Belgrade Tuesday 1st to Monday 14th Mar 2022. There are group stages 4 players 6 rounds, the winners of each group then play the knockout phase. Players: Grischuk, Andreikin, Shankland, Bacrot, Rapport, Vidit, Fedoseev, Shirov, Giri, Vitiugov, Harikrishna, Tabatabaei, Mamedyarov, MVL, Yu Yangyi and Predke. This is the second of three such events. Nakamura won the first, the final leg is back in Berlin Mon 21st Mar to Mon 4th Apr 2022. Richard Rapport beat Dmitry Andreikin in the final to all but confirm a Candidates place. He reached the semifinals in the first event and will have to wait on the results of the final leg.",
@@ -2224,14 +2240,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/mar/11/chess-bobby-fischer-v-boris-spassky-1972-remembered-at-reykjavik-open",
          "pubDate" : "Fri, 11 Mar 2022 08:00:25 +0000",
          "title" : "Chess: Bobby Fischer v Boris Spassky 1972 remembered at Reykjavik Open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1629",
-         "pubDate" : "Thu, 10 Mar 2022 21:19:32 +0000",
-         "title" : "FIDE Grand Prix Belgrade - Knockout: Day Two Recap"
       }
    ]
 }
