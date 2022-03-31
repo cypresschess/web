@@ -82,14 +82,6 @@ news_feed (
          "title" : "How To Organize A Chess Tournament (20'000$ Budget)"
       },
       {
-         "description" : "On Sunday, the European Individual Championship (\"EICC\") began in Terme Čatež (Slovenia). After four rounds, seven players still have a 3/3 perfect score, including 17-year-old Danish rising star Jonas Buhl Bjerre. Round 4 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
-         "pubDate" : "Wed, 30 Mar 2022 14:55:00 +0100",
-         "title" : "European Individual Chess Championship (EICC), Round 4 - live"
-      },
-      {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2024,6 +2016,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2022-official-invitation/",
          "pubDate" : "Tue, 15 Mar 2022 08:03:47 +0000",
          "title" : "European Senior Team Chess Championship 2022 - Official invitation"
+      },
+      {
+         "description" : "In the diagrammed position Black is an exchange up but both sides have dangerous passed pawns. What should Black do to make his passed pawn on the g-file more dangerous than White's passed pawn on the b-file?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rook-vs-bishop",
+         "pubDate" : "Tue, 15 Mar 2022 09:00:00 +0100",
+         "title" : "Rook vs bishop"
       },
       {
          "description" : " The FIDE Grand Prix Leg 2 took place in Belgrade Tuesday 1st to Monday 14th Mar 2022. There are group stages 4 players 6 rounds, the winners of each group then play the knockout phase. Players: Grischuk, Andreikin, Shankland, Bacrot, Rapport, Vidit, Fedoseev, Shirov, Giri, Vitiugov, Harikrishna, Tabatabaei, Mamedyarov, MVL, Yu Yangyi and Predke. This is the second of three such events. Nakamura won the first, the final leg is back in Berlin Mon 21st Mar to Mon 4th Apr 2022. Richard Rapport beat Dmitry Andreikin in the final to all but confirm a Candidates place. He reached the semifinals in the first event and will have to wait on the results of the final leg.",
