@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So beat Amin Tabatabaei in their first semifinal encounter at the FIDE Grand Prix in Berlin, and now only needs a draw on Thursday to reach the final of the two-week event. In the other semi, Hikaru Nakamura could not get much with white against Shakhriyar Mamedyarov in a game that was agreed drawn after 30 moves. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-sf1",
+         "pubDate" : "Thu, 31 Mar 2022 12:10:00 +0100",
+         "title" : "Berlin GP: So with a foot in the final"
+      },
+      {
+         "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the Asian country. A prize pot of $100,000 is at stake in the MPL event plus golden tickets to the elite Champions Chess Tour. Leg 1 will be a four-day rapid chess tournament running from March 31 to April 3, starting every day at 15:30 IST / 12 CEST. The time control is 15m + 10s.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-2022-live",
+         "pubDate" : "Thu, 31 Mar 2022 12:00:00 +0100",
+         "title" : "MPL Indian Chess Tour - Live!"
+      },
+      {
+         "description" : "One system ruffled up the chess world in the last decade - the London System. Svitlana couldn't stay away from this system either, and it is now a part of her repertoire. How to play it? What to take care of? Time for some smart moves!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-36",
+         "pubDate" : "Thu, 31 Mar 2022 11:39:29 +0100",
+         "title" : "Svitlana's Smart Moves - The London System"
+      },
+      {
+         "description" : "Adhiban takes on Sethuraman and Harika takes on Arjun Erigaisi as the $100,000 MPL Indian Chess Tour begins today, Thursday 31 March at 15:30 IST (06:00 ET, 12:00 CEST). 16 players are competing in the first of four online chess tournaments that will qualify each winner both to the MPL Indian Chess Tour final and to an event on the $1.6 million Meltwater Champions Chess Tour. There are 15 rounds over the next four days, with all the action broadcast live here on chess24.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mpl-indian-chess-tour-starts-today",
+         "pubDate" : "Thu, 31 Mar 2022 09:17:12 +0000",
+         "title" : "MPL Indian Chess Tour starts today"
+      },
+      {
+         "description" : "India&#x2019;s own&#160;elite online chess tour&#160;starts on March 31 with a star-studded line-up of&#160;16 top talents&#160;from every corner of the country. The&#160;MPL Indian Chess Tour&#160;is the first regional expansion of the world-renowned&#160;Meltwater Champions Chess Tour (where this year&#160;Carlsen won Airthings Masters&#160;and just yesterday the&#160;Charity Chess Cup). Its launch underlines the incredible boom in chess interest in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mpl-india-chess-2022-live/",
+         "pubDate" : "Thu, 31 Mar 2022 08:54:40 +0000",
+         "title" : "MPL India Chess 2022 LIVE"
+      },
+      {
+         "description" : " There were two shows this week, on Tuesday and Wednesday. From next week we'll be running just one on Tuesdays as it's not easy to keep up with this phrenetic rate of production! Tuesday On Tuesday we had another guest, the former British Champion Paul Littlewood. Paul showed us some of him memorable games and <a href=\"https://chessimprover.com/master-chess-web-show-7/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (7)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-7/\">Master Chess Web Show (7)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/master-chess-web-show-7/",
+         "pubDate" : "Thu, 31 Mar 2022 08:22:39 +0000",
+         "title" : "Master Chess Web Show (7)"
+      },
+      {
+         "description" : "The 3rd edition of the Gujarat International GrandMaster Chess Open is going to take place March 31 April 7 in Karnavati Club, S.G.Highway, Ahmedabad. A total of 377 players of which 60 titled are going to participate. Top seeded are GM Neuris Delgado Ramirez, GM Boris Savchenko, GM Stany, and GM Bharathakoti Harsha. This []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gujarat-chess-open-2022-with-377-players/",
+         "pubDate" : "Thu, 31 Mar 2022 08:00:00 +0000",
+         "title" : "Gujarat Chess Open 2022 with 377 players"
+      },
+      {
+         "description" : "FIDE Grand Prix Berlin 2022 is the final leg of the Grand Prix series that will determine the participants in the Candidates Chess 2022. With Richard Rapport practically qualified after winning the Belgrade Grand Prix, just one spot is available for grabs. Live games from the Berlin Grand Prix will be daily on Chessdom.com Round []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/berlin-grand-prix-2022-live/",
+         "pubDate" : "Thu, 31 Mar 2022 07:10:00 +0000",
+         "title" : "Berlin Grand Prix 2022 LIVE"
+      },
+      {
+         "description" : "The European Individual Chess Championship 2022 will take place between 26 March and 7 April at Terme &#x10C;ate&#x17E; near Bre&#x17E;ice in Slovenia. The event is organized by the Chess Federation of Slovenia under the auspices of the European Chess Union (ECU). The official host of the championship is Hotel Spa; accommodation is also available in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-individual-chess-2022/",
+         "pubDate" : "Thu, 31 Mar 2022 07:00:00 +0000",
+         "title" : "European Individual Chess 2022 LIVE"
+      },
+      {
+         "description" : " From the publishers' blurb: &#8220;The revolutionary Wilhelm Steinitz (1836-1900) considered himself to be in the vanguard of an emerging, late-19th century 'Modern' school, which embraced a new, essentially scientific vitality in its methods of research, analysis, evaluation, planning, experiment and even belligerent fight. Steinitz, who dominated the chess world in the shadow of a more <a href=\"http://britishchessnews.com/2022/03/31/modern-chess-from-steinitz-to-the-21st-century/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Modern Chess- From Steinitz to the 21st Century</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britis",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/03/31/modern-chess-from-steinitz-to-the-21st-century/",
+         "pubDate" : "Thu, 31 Mar 2022 00:10:45 +0000",
+         "title" : "Modern Chess- From Steinitz to the 21st Century"
+      },
+      {
          "description" : "The March 30 Arena Kings&#38;nbsp;featured one of the more entertaining knockout rounds of the season, although it ended fairly predictably with a victory for&#38;nbsp;GM Hikaru Nakamura. He defeated IM Le Tuan Minh&#38;nbsp;in the final in a 3-0 sweep. The s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -66,6 +146,14 @@ news_feed (
          "title" : "Nakamura Wins Titled Tuesday On Break, Andreikin Continues Run"
       },
       {
+         "description" : "Starting today, all Fritz 18 users will receive an additional engine as a free update: Fritz 18 Neuronal. The new engine Fritz 18 Neuronal achieves an increase in playing strength of about 120 ELO points compared to the classic Fritz 18 engine at shorter time controls. Simply start Fritz 18 and start the automatically offered update! Then the new engine will be installed!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/free-fritz18-update-fritz18neuronal-engine",
+         "pubDate" : "Wed, 30 Mar 2022 17:05:00 +0100",
+         "title" : "Free Fritz update: AI engine \"Fritz 18 Neuronal\""
+      },
+      {
          "description" : "World Chess has introduced an innovation that will likely add a new dimension to the way fans watch chess (and other mind sports, for that matter!). They have developed - and will roll out today - a tool that tracks the players' heart rate over video signal (without playing having to wear a pulse-tracking device). Please find the press release below and tune in today to see the technology in action during the semi-finals of the Grand Prix in Berlin. Press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,14 +168,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/organize-a-chess-tournament/",
          "pubDate" : "Wed, 30 Mar 2022 15:55:23 +0000",
          "title" : "How To Organize A Chess Tournament (20'000$ Budget)"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
-         "pubDate" : "Wed, 30 Mar 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/VqkA7MlAf08?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -112,14 +192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-announced",
          "pubDate" : "Wed, 30 Mar 2022 12:00:00 +0100",
          "title" : "MPL Indian Chess Tour announced"
-      },
-      {
-         "description" : "Starting today, all Fritz 18 users will receive an additional engine as a free update: Fritz 18 Neuronal. The new engine Fritz 18 Neuronal achieves an increase in playing strength of about 120 ELO points compared to the classic Fritz 18 engine at shorter time controls. Simply start Fritz 18 and start the automatically offered update! Then the new engine will be installed!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/free-fritz18-update-fritz18neuronal-engine",
-         "pubDate" : "Wed, 30 Mar 2022 11:55:00 +0100",
-         "title" : "Free Fritz update: AI engine \"Fritz 18 Neuronal\""
       },
       {
          "description" : "It's Mamedyarov-Nakamura and So-Tabatabaei in the last semi-finals of the FIDE Grand Prix series after Shakhriyar Mamedyarov and Wesley So emerged victorious in tiebreaks. Shakh opened with a win against 17-year-old Vincent Keymer but was full of praise for how his young opponent struck back before finally losing only in blitz. Wesley also took the early lead against Sam Shankland but lived dangerously in the second game before escaping with a draw that saw him reach the knockout.",
@@ -546,14 +618,6 @@ news_feed (
          "title" : "FIDE Candidates 2022: Venue and schedule announced"
       },
       {
-         "description" : "Belgrade, the city where Richard Rapport just won the Grand Prix, is going to hold its traditional March tournament. Celebrating the International Women&#x2019;s Day &#x2013; 8th March with a strong chess tournament is a tradition in Belgrade since 1965. This event is in the select group of the tournaments with the longest continuity in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/53rd-international-womens-grandmaster-chess-tournament/",
-         "pubDate" : "Mon, 28 Mar 2022 09:51:26 +0000",
-         "title" : "53rd International Women's Grandmaster Chess Tournament"
-      },
-      {
          "description" : "18-year-old newly-crowned Indian Chess Champion Arjun Erigaisi tops the bill as the $100,000 MPL Indian Chess Tour starts on March 31st. The new $100,000 online Tour features four 16-player tournaments, with the winner of each event qualifying for the Meltwater Champions Chess Tour. The four winners and four next highest scoring players on the Tour also qualify for a knockout final with a $10,000 top prize.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -696,30 +760,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-wins-2022-charity-cup",
          "pubDate" : "Sun, 27 Mar 2022 03:06:00 -0700",
          "title" : "Carlsen Wins 2022 Charity Cup"
-      },
-      {
-         "description" : "After FIDE's ban on Sergey Karjakin for 6 months , a replacement for the Russian player at the Candiadates Chess 2022 was needed. By the current regulations, the player to enter the event will be selected by rating (something that Anish Giri vigorously protested in an interview during the ongoing Grand Prix in Berlin). In []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-liren-to-play-12-classical-games-in-china-hangzhou-2022/",
-         "pubDate" : "Sun, 27 Mar 2022 06:00:45 +0000",
-         "title" : "Ding Liren to play 12 classical games in HangZhou, starts his quest for Candidates"
-      },
-      {
-         "description" : "The&#xA0;European Individual Chess Championship 2022&#xA0;will take place between 26 March and 7 April at Terme &#x10C;ate&#x17E; near Bre&#x17E;ice in Slovenia. The event is organized by the Chess Federation of Slovenia under the auspices of the European Chess Union (ECU). The official host of the championship is Hotel Spa; accommodation is also available in other hotels, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-individual-chess-2022-round-1-pairings/",
-         "pubDate" : "Sun, 27 Mar 2022 05:26:28 +0000",
-         "title" : "European Individual Chess 2022, round 1 pairings"
-      },
-      {
-         "description" : "Magnus Carlsen is the Charity Chess Cup 2022 champion after winning a thrilling final against Jan-Krzysztof Duda. This makes it perfect 3 out of 3 titles this year for Carlsen, after he won earlier Tata Steel Chess and Airthings Masters. More about Charity Cup:&#160;Charity Cup 2022 participants and preview&#160;/&#160;Charity Cup 2022 live&#160;/&#160;Charity Cup 2022 video)&#160;Round []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-is-the-charity-chess-cup-champion/",
-         "pubDate" : "Sun, 27 Mar 2022 05:09:35 +0000",
-         "title" : "Magnus Carlsen is the Charity Chess Cup champion"
       },
       {
          "description" : "Magnus Carlsen made it two Meltwater Champions Chess Tour events, two victories, as he won the Charity Cup, but his overriding emotion was \"huge relief\" after withstanding a comeback by Jan-Krzysztof Duda. Magnus won a brilliant first game of the final day and was a move or two away from clinching the title with two games to spare, but one blunder and Duda stormed back to win two games in a row. Magnus was rocking, but he composed himself to win the blitz playoff 2:0 and take the trophy. Meanwhile over $150,000 was raised for Unicef's work in and around Ukraine.",
@@ -1336,14 +1376,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/nesheim-heads-social-commission/",
          "pubDate" : "Tue, 22 Mar 2022 15:11:49 +0100",
          "title" : "Nesheim heads Social Commission"
-      },
-      {
-         "description" : "Levon Aronian will take on Hikaru Nakamura in Round 1 as the 3rd and final leg of the 2022 FIDE Grand Prix begins in Berlin today, Tuesday 22 March. The 16 players, who also include Anish Giri, Maxime Vachier-Lagrave, Shakhriyar Mamedyarov and Wesley So, are battling it out for up to two places in the FIDE Candidates Tournament, though it's likely Richard Rapport, who has already played two events, will take one of the spots. Andrey Esipenko was a late replacement for Dmitry Andreikin.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aronian-nakamura-as-final-fide-grand-prix-begins",
-         "pubDate" : "Tue, 22 Mar 2022 13:18:16 +0000",
-         "title" : "Aronian-Nakamura as final FIDE Grand Prix begins"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90379108.cms\" />Vietnamese star Liem Quang Le's hot streak showed no signs of cooling down as the Charity Cup's Prelim stage enters its final three rounds on Tuesday.",
@@ -1986,14 +2018,6 @@ news_feed (
          "title" : "FIDE President Arkady Dvorkovich speaks out against the war in Ukraine"
       },
       {
-         "description" : "With 6.5/9 (four wins, five draws, no loss) Sanan Sjugirov concinvingly won a strong Grandmaster tournament in Belgrade that was played in parallel to the FIDE Grand Prix. Nihal Sarin, Velimir Ivic and Nodirbek Abdusattorov shared places two to four with 5.5/9 each. | Photos: Tournament page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sjugirov-wins-gm-tournament-in-belgrade",
-         "pubDate" : "Tue, 15 Mar 2022 12:07:04 +0100",
-         "title" : "Sanan Sjugirov wins GM tournament in Belgrade"
-      },
-      {
          "description" : " &#8220;The human mind isn't a computer; it cannot progress in an orderly fashion down a list of candidate moves and rank them by a score down to the hundredth of a pawn the way a chess machine does. Even the most disciplined human mind wanders in the heat of competition&#8221; GM Garry Kasparov A more <a href=\"https://chessimprover.com/carbon-versus-silicon-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Carbon versus Silicon (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/carbon-versus-silicon-2/\">Carbon versus Silicon (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2016,14 +2040,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2022-official-invitation/",
          "pubDate" : "Tue, 15 Mar 2022 08:03:47 +0000",
          "title" : "European Senior Team Chess Championship 2022 - Official invitation"
-      },
-      {
-         "description" : "In the diagrammed position Black is an exchange up but both sides have dangerous passed pawns. What should Black do to make his passed pawn on the g-file more dangerous than White's passed pawn on the b-file?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rook-vs-bishop",
-         "pubDate" : "Tue, 15 Mar 2022 09:00:00 +0100",
-         "title" : "Rook vs bishop"
       },
       {
          "description" : " The FIDE Grand Prix Leg 2 took place in Belgrade Tuesday 1st to Monday 14th Mar 2022. There are group stages 4 players 6 rounds, the winners of each group then play the knockout phase. Players: Grischuk, Andreikin, Shankland, Bacrot, Rapport, Vidit, Fedoseev, Shirov, Giri, Vitiugov, Harikrishna, Tabatabaei, Mamedyarov, MVL, Yu Yangyi and Predke. This is the second of three such events. Nakamura won the first, the final leg is back in Berlin Mon 21st Mar to Mon 4th Apr 2022. Richard Rapport beat Dmitry Andreikin in the final to all but confirm a Candidates place. He reached the semifinals in the first event and will have to wait on the results of the final leg.",
@@ -2184,14 +2200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1630",
          "pubDate" : "Fri, 11 Mar 2022 19:11:18 +0000",
          "title" : "FIDE Grand Prix Belgrade: Andreikin set up final with Rapport"
-      },
-      {
-         "description" : " One of my students, who read through my last piece here at the Chess Improver, mentioned that I had not brought up a teaching method I used for calculation training. Chess comes down to thinking ahead and having the ability to do so! All the strategic and tactical skills in the world won't help you <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-four/\">A Foundation for Beginners Fifty Four</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-four/",
-         "pubDate" : "Fri, 11 Mar 2022 17:15:15 +0000",
-         "title" : "A Foundation for Beginners Fifty Four"
       },
       {
          "description" : " The concept of 'pay to win' games has always offended me. If you are not familiar with the concept, it is essentially allowing you to pay extra money to a free game, to receive benefits that other players do not get. It is a business model for some games, which while profitable, can annoy an existing user base. More so if the game starts out as 'free forever' before it isn't. In the past I played a few games like this, but as soon as they became 'p2w' I lost interest. But having said that, I do wonder what 'p2w' chess might look like. eg Buying takebacks, Rejecting your opponents first choice, two moves in a row, castling after moving your king Some of these are probably too drastic (Playin",
