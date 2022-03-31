@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/wL_SqXmTWRE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-semi-finals-game-2/",
+         "pubDate" : "Thu, 31 Mar 2022 15:08:38 +0000",
+         "title" : "FIDE Grand Prix in Berlin: Semi-finals Game 2"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
+         "pubDate" : "Thu, 31 Mar 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : "On Sunday, the European Individual Championship (\"EICC\") began in Terme Čatež (Slovenia). After four rounds, Icelandic grandmaster Gudmundur Kjartansson is in the sole lead as the only player to have scored four consecutive wins. Round 5 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
+         "pubDate" : "Thu, 31 Mar 2022 14:55:00 +0100",
+         "title" : "European Individual Chess Championship (EICC), Round 5 - live"
+      },
+      {
+         "description" : "FIDE President Mr. Arkady Dovorkovich arrived in India for a three day visit to see the preparation and discuss the road map ahead of the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/welcome-to-fide-president-mr-arkady-dvorkovich/",
+         "pubDate" : "Thu, 31 Mar 2022 13:35:05 +0000",
+         "title" : "Welcome to FIDE President Mr. Arkady Dvorkovich"
+      },
+      {
+         "description" : "The ECF is working with the Ukrainian Chess Federation to help Ukrainian refugees who wish to come to the UK. Any ECF members who are...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/hosting-ukrainian-refugees/",
+         "pubDate" : "Thu, 31 Mar 2022 13:06:53 +0000",
+         "title" : "Hosting Ukrainian refugees"
+      },
+      {
          "description" : "Wesley So beat Amin Tabatabaei in their first semifinal encounter at the FIDE Grand Prix in Berlin, and now only needs a draw on Thursday to reach the final of the two-week event. In the other semi, Hikaru Nakamura could not get much with white against Shakhriyar Mamedyarov in a game that was agreed drawn after 30 moves. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +50,20 @@ news_feed (
          "title" : "Berlin GP: So with a foot in the final"
       },
       {
+         "description" : "One system ruffled up the chess world in the last decade - the London System. Svitlana couldn't stay away from this system either, and it is now a part of her repertoire. How to play it? What to take care of? Time for some smart moves!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-36",
+         "pubDate" : "Thu, 31 Mar 2022 12:05:00 +0100",
+         "title" : "Svitlana's Smart Moves - The London System"
+      },
+      {
          "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the Asian country. A prize pot of $100,000 is at stake in the MPL event plus golden tickets to the elite Champions Chess Tour. Leg 1 will be a four-day rapid chess tournament running from March 31 to April 3, starting every day at 15:30 IST / 12 CEST. The time control is 15m + 10s.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-2022-live",
          "pubDate" : "Thu, 31 Mar 2022 12:00:00 +0100",
          "title" : "MPL Indian Chess Tour - Live!"
-      },
-      {
-         "description" : "One system ruffled up the chess world in the last decade - the London System. Svitlana couldn't stay away from this system either, and it is now a part of her repertoire. How to play it? What to take care of? Time for some smart moves!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-36",
-         "pubDate" : "Thu, 31 Mar 2022 11:39:29 +0100",
-         "title" : "Svitlana's Smart Moves - The London System"
       },
       {
          "description" : "Adhiban takes on Sethuraman and Harika takes on Arjun Erigaisi as the $100,000 MPL Indian Chess Tour begins today, Thursday 31 March at 15:30 IST (06:00 ET, 12:00 CEST). 16 players are competing in the first of four online chess tournaments that will qualify each winner both to the MPL Indian Chess Tour final and to an event on the $1.6 million Meltwater Champions Chess Tour. There are 15 rounds over the next four days, with all the action broadcast live here on chess24.",
@@ -1178,14 +1218,6 @@ news_feed (
          "title" : "Berlin GP: Eight draws, players share their opinion on Karjakin's ban"
       },
       {
-         "description" : " <p class=\"lead\">It was a peaceful, but by no means uneventful day at FIDE Grand Prix Berlin although all eight games in Round 2 were drawn. \"Let's talk about how dramatically the situation changed in every group after today's round\" joked the tournament commentator GM Evgeny Miroshnichenko and certainly, the standings have not changed at all as we have the same leaders as after Round 1 in each pool, namely Levon Aronian, Leinier Dominguez, Alexandr Predke, and Nikita Vitiugov. Round 2 results still don't tell the entire story, as, despite peaceful outcomes, the games were hard-fought and enthralling. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-berlin-round-2-recap/",
-         "pubDate" : "Thu, 24 Mar 2022 00:13:38 +0000",
-         "title" : "FIDE Grand Prix Berlin - Round 2 Recap"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1994,28 +2026,12 @@ news_feed (
          "title" : "Next Tour stage dedicated to victims of Ukraine war"
       },
       {
-         "description" : "In his \"Weekly Show\" Lawrence Trent will look at the final of the Howell-Grandelius match (game 8 being the feature game for the show) as well as the final of the FIDE Grand Prix. Lawrence will also discuss the implications of Richard Rapport's victory. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-howell-wins-against-grandelius",
-         "pubDate" : "Tue, 15 Mar 2022 17:00:00 +0100",
-         "title" : "The Weekly Show: Howell wins against Grandelius"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/80d97f78-021f-49e1-9572-8f13af8bc6c8/CLSMith.jpg\" data-image-dimensions=\"260x260\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6230a96183f79c70896970b3\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/80d97f78-021f-49e1-9572-8f13af8bc6c8/CLSMith.jpg?format=1000w\" /> </figure> <p class=\"\">Cody Smith is a 31 year old Alabama-<a href=\"https://lichess.org/@/CLSmith15\" target=\"_blank\"> Twitch streamer</a>,<strong> </strong>and chess instructor.<strong> </strong> <p ",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/15/ep-270-cody-smith-adult-improver-series",
          "pubDate" : "Tue, 15 Mar 2022 14:59:21 +0000",
          "title" : "EP 270- Cody Smith (Adult Improver Series) "
-      },
-      {
-         "description" : "The American magazine \"Mother Jones\", seven times winner of the \"Magazine of the Year\" award from the American Society of Magazine Editors, just published interviews with 36 prominent personalities from the world of chess about the war in Ukraine. One of them is FIDE President and former Russian Deputy Prime Minister Arkady Dvorkovich, who spoke out against the war: \"My thoughts are with Ukrainian civilians. ... Wars do not just kill priceless lives. Wars kill hopes and aspirations, freeze or destroy relationships and connections.\" | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-president-arkady-dvorkovich-speaks-out-against-the-war-in-ukraine",
-         "pubDate" : "Tue, 15 Mar 2022 13:01:02 +0100",
-         "title" : "FIDE President Arkady Dvorkovich speaks out against the war in Ukraine"
       },
       {
          "description" : " &#8220;The human mind isn't a computer; it cannot progress in an orderly fashion down a list of candidate moves and rank them by a score down to the hundredth of a pawn the way a chess machine does. Even the most disciplined human mind wanders in the heat of competition&#8221; GM Garry Kasparov A more <a href=\"https://chessimprover.com/carbon-versus-silicon-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Carbon versus Silicon (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/carbon-versus-silicon-2/\">Carbon versus Silicon (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2120,14 +2136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1634",
          "pubDate" : "Sun, 13 Mar 2022 22:54:04 +0000",
          "title" : "FIDE Grand Prix: Richard Rapport triumphs in Belgrade"
-      },
-      {
-         "description" : "Sixth seed IM Neelash Saha of West Bengal and top seed WIM Priyanka Nutakki of Andhra Pradesh becomes national junior champions in the MPL National",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-neelash-saha-priyanka/",
-         "pubDate" : "Sun, 13 Mar 2022 18:52:53 +0000",
-         "title" : "Congratulations Neelash Saha & Priyanka"
       },
       {
          "description" : " I've written a few posts about the wrong chess books: books which are popular and often recommended by well-intentioned but ill-informed posters on social media. They might be the only book the poster has ever read, or the book he read several decades ago when he was learning chess. But the world has moved on. <a href=\"https://chessimprover.com/logical-chess-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Logical Chess (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/logical-chess-1/\">Logical Chess (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2240,30 +2248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1628",
          "pubDate" : "Thu, 10 Mar 2022 16:21:03 +0000",
          "title" : "The First Global Interactive Community Chess Simul"
-      },
-      {
-         "description" : " One of the most famous games in chess history is the Morphy 'Opera Box Game'. I often show it to students I coach, and now know it off by heart. I even thought I knew it when I was a lot younger, but it seems that I only knew the first few moves, and forgot the rest! <br /> <b>Press,Shaun - Mathe,Richard [C41]</b><br />ACT Junior Championship, 19.11.1983 <script>new PgnViewer( { boardName: \"game1316\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 d6 3.d4 Bg4 4.dxe5 Bxf3 5.Qxf3 dxe5 6.Bc4 Nf6 7.O-O Qd4 8.Bd3 Nc6 9.Nc3 a6 10.Rd1 Qd6 11.Be3 Qe7 12.Bc4 h6 13.Nd5 Nxd5 14.Bxd5 Na5 15.Bd2 c6 16.Bxa5 cxd5 17.exd5 Qc5 18.Bc3 O-O-O 19.Bxe5 Qxc2 20.Rac1 Qxc1 21.Rxc1+ Kd7 22.Qxf7+ Be7 23.d6 Rhe8 24.",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/not-knowing-classics.html",
-         "pubDate" : "Thu, 10 Mar 2022 12:56:00 +0000",
-         "title" : "Not knowing the classics "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1625",
-         "pubDate" : "Thu, 10 Mar 2022 12:47:21 +0000",
-         "title" : "Pools for third leg of FIDE Grand Prix 2022 announced "
-      },
-      {
-         "description" : "\"Of course we're glad to have escaped,\" says Anwesh. \"But Ukraine isn't a place we can cut off from our minds.\"",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33467976/ukraine-russia-invasion-india-chess-im-reaches-india-traumatic-experience?device=featurephone",
-         "pubDate" : "Thu, 10 Mar 2022 07:27:46 -0500",
-         "title" : "Indian chess IM Anwesh back home after surviving 'traumatic' experience in Ukraine"
       }
    ]
 }
