@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share! Business Meets Kids kicks off a spring event featuring former Real Madrid star Esteban Granero as he will participate in a tandem chess match with youth at the Marbella Golf Club. Swedish Grandmaster Pontus Carlsson is the brainchild of Business Meets Kids and has been holding events since 2018. In a couple of weeks [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/\">Business Meets Chess &#038; Kids Spring 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/",
+         "pubDate" : "Fri, 01 Apr 2022 23:16:19 +0000",
+         "title" : "Business Meets Chess & Kids&hellip; Spring 2022!"
+      },
+      {
          "description" : "FIDE President Arkady Dvorkovich visited Delhi to sign a contract with the All India Chess Federation granting the Asian country the rights to host this year's Olympiad. At a press conference, Dvorkovich announced his intention to run for a second term as FIDE President, and informed that Vishy Anand would actively support him in his reelection bid. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-semifinals-tiebreaks",
-         "pubDate" : "Fri, 01 Apr 2022 13:04:26 -0700",
+         "pubDate" : "Fri, 01 Apr 2022 13:04:00 -0700",
          "title" : "Nakamura, So To Meet In Final: 2022 FIDE Grand Prix Berlin Leg 3, Semifinals Tiebreaks"
       },
       {
@@ -26,7 +34,7 @@ news_feed (
          "title" : "Daniel King's Power Play Show: The main line of the Rossolimo"
       },
       {
-         "description" : "GM Viswanathan Anand is supporting FIDE President Arkady Dvorkovich in his bid for a second term as FIDE President. Both were present at a press conference in New Delhi on Friday, where Dvorkovich announced that he will be standing for re-election...",
+         "description" : "GM Viswanathan Anand is supporting FIDE President Arkady Dvorkovich in his bid for a second term as FIDE President. Both were present at a press conference in New Delhi on Friday, where Dvorkovich announced that he will be running for re-election....",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/dvorkovich-to-run-for-2nd-term-supported-by-anand",
@@ -202,7 +210,7 @@ news_feed (
          "title" : "Chess: Carlsen's rivals prepare for Candidates as No 1 wins after hiccup"
       },
       {
-         "description" : " Share!6 Daaim Shabazz, The Chess Drum Recently chess.com featured &#8220;Chess Through an African Lens&#8221; written by this author. The reception was very positive, but it is surprising how few had been exposed to this information about the African Diaspora which is a testament to how chess media lacks a true representation of the vast chess [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/\">Chess in African Diaspora 2022</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Daaim Shabazz, The Chess Drum Recently chess.com featured &#8220;Chess Through an African Lens&#8221; written by this author. The reception was very positive, but it is surprising how few had been exposed to this information about the African Diaspora which is a testament to how chess media lacks a true representation of the vast chess universe. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/\">Chess in African Diaspora 2022</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/",
