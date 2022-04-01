@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Stumbled across this on youtube. Not a win for PNG, but still good to see some recognition <br /> <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/X_ZlEbFJsmw\" width=\"320\" youtube-src-id=\"X_ZlEbFJsmw\"></iframe></div><br /> <br /> <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/found-this-on-youtube.html",
+         "pubDate" : "Fri, 01 Apr 2022 02:31:00 +0000",
+         "title" : "Found this on Youtube"
+      },
+      {
+         "description" : "A heavy underdog, Amin Tabatabaei continues his excellent run at the third leg of the Grand Prix series in Berlin. The Iranian star bounced back in his semifinal match against Wesley So by scoring a remarkable 30-move victory to take the encounter to tiebreaks. Meanwhile, Shakhriyar Mamedyarov and Hikaru Nakamura drew for a second day in a row and will also decide their match in rapid and blitz. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-sf2",
+         "pubDate" : "Fri, 01 Apr 2022 03:05:00 +0100",
+         "title" : "Berlin GP: Tabatabaei bounces back"
+      },
+      {
+         "description" : "Chess.com is happy to announce the release of v4, the new version of our mobile iOS app. With this release, both our iOS and Android apps have made many improvements to make your mobile experience even better. Many of our members worldwide have ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-v4-ios-android",
+         "pubDate" : "Thu, 31 Mar 2022 17:46:00 -0700",
+         "title" : "Try Out The New Chess.com v4 on iOS and Android"
+      },
+      {
          "description" : "\"Who cares!\" said Hikaru Nakamura when he learned that he'd clinched overall victory in the 2022 FIDE Grand Prix with a draw against Shakhriyar Mamedyarov. His point was that there are no separate prizes this time round for the overall results. Meanwhile there's still unfinished business in Berlin, with both semi-finals to be decided in tiebreaks on Friday after Wesley So made a move that both players initially thought was winning, only to realise there was a refutation which almost instantly decided the game in Amin Tabatabaei's favour.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -30,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-semifinals-day-2",
-         "pubDate" : "Thu, 31 Mar 2022 14:30:24 -0700",
+         "pubDate" : "Thu, 31 Mar 2022 14:30:00 -0700",
          "title" : "Nakamura Early Winner Of Series: 2022 FIDE Grand Prix Berlin Leg 3, Semifinals Day 2"
       },
       {
@@ -128,14 +152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/free-fritz18-update-fritz18neuronal-engine",
          "pubDate" : "Thu, 31 Mar 2022 15:15:00 +0100",
          "title" : "Free Fritz update: AI engine \"Fritz 18 Neuronal\""
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
-         "pubDate" : "Thu, 31 Mar 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
       },
       {
          "description" : "On Sunday, the European Individual Championship (\"EICC\") began in Terme Čatež (Slovenia). After four rounds, Icelandic grandmaster Gudmundur Kjartansson is in the sole lead as the only player to have scored four consecutive wins. Round 5 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
@@ -1512,14 +1528,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-preview",
          "pubDate" : "Tue, 22 Mar 2022 11:20:00 +0100",
          "title" : "Third stage of the Grand Prix kicks off without Andreikin"
-      },
-      {
-         "description" : "On an excellent third day of the&#38;nbsp;Charity Cup,&#38;nbsp;GM Jorden van Foreest&#38;nbsp;scored three wins and a draw to move to third place.&#38;nbsp;GM Le Quang Liem&#38;nbsp;scored &#34;plus one&#34; and continues to lead GM&#38;nbsp;Magnus Carlsen. How to watch? ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-charity-cup-day-3",
-         "pubDate" : "Tue, 22 Mar 2022 02:45:00 -0700",
-         "title" : "Charity Cup Day 3: Van Foreest Shines"
       },
       {
          "description" : " The 3rd and final leg of the FIDE Grand Prix takes place in Berlin 22nd March to 4th April 2022. Richard Rapport has posted a very strong score in the series and has a very high chance of qualifying for the Candidates. The winner of the first leg Hikaru Nakamura will also be strong favourite to take the second place if he gets out of the group stages here (Aronian, Oparin and Esipenko are his rivals). Aronian, Dominguez and MVL are all players who have strong chances of a Candidates place if they win this leg. Poor finishes in their first grand prix events means that even a win here will probably not be enough for many of the players. ",
