@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two years ago, to the day, we reported that Garry Kasparov had launched a project called \"Corochess\", introducing a new chess table that would enforce full social distancing during the pandemic. Now a Russian leader has taken it a step further. His table is designed to ensure that he cannot be physically attacked during a game. Take a look at what his future mastches will look like.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chess-table-to-ensure-security",
+         "pubDate" : "Fri, 01 Apr 2022 08:00:00 +0100",
+         "title" : "New chess table to ensure security"
+      },
+      {
+         "description" : " Share! Daaim Shabazz, The Chess Drum Recently chess.com featured &#8220;Chess Through an African Lens&#8221; written by this author. The reception was very positive, but it is surprising how few had been exposed to this information about the African Diaspora which is a testament to how chess media lacks a true representation of the vast chess [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/\">Chess in African Diaspora 2022</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/",
+         "pubDate" : "Fri, 01 Apr 2022 04:15:36 +0000",
+         "title" : "Chess in African Diaspora 2022"
+      },
+      {
          "description" : " Stumbled across this on youtube. Not a win for PNG, but still good to see some recognition <br /> <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/X_ZlEbFJsmw\" width=\"320\" youtube-src-id=\"X_ZlEbFJsmw\"></iframe></div><br /> <br /> <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -192,14 +208,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-36",
          "pubDate" : "Thu, 31 Mar 2022 12:05:00 +0100",
          "title" : "Svitlana's Smart Moves - The London System"
-      },
-      {
-         "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the Asian country. A prize pot of $100,000 is at stake in the MPL event plus golden tickets to the elite Champions Chess Tour. Leg 1 will be a four-day rapid chess tournament running from March 31 to April 3, starting every day at 15:30 IST / 12 CEST. The time control is 15m + 10s.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-2022-live",
-         "pubDate" : "Thu, 31 Mar 2022 12:00:00 +0100",
-         "title" : "MPL Indian Chess Tour - Games and results"
       },
       {
          "description" : "Adhiban takes on Sethuraman and Harika takes on Arjun Erigaisi as the $100,000 MPL Indian Chess Tour begins today, Thursday 31 March at 15:30 IST (06:00 ET, 12:00 CEST). 16 players are competing in the first of four online chess tournaments that will qualify each winner both to the MPL Indian Chess Tour final and to an event on the $1.6 million Meltwater Champions Chess Tour. There are 15 rounds over the next four days, with all the action broadcast live here on chess24.",
@@ -1066,7 +1074,7 @@ news_feed (
          "title" : "A short warm up event "
       },
       {
-         "description" : " Share!636 In most team competitions, teammates don't play each other, but retired U.S. Marine Corps Master Sergeant Steven Rollins thought of a novel way that allows teammates to play each other without adversely affecting the team score. In 2014, his &#8220;Rollins Military System&#8221; was included as Rule 31A1 in the U.S. Chess Rule Book. Kobe [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/\">The Steven Rollins Chess Rule</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " In most team competitions, teammates don't play each other, but retired U.S. Marine Corps Master Sergeant Steven Rollins thought of a novel way that allows teammates to play each other without adversely affecting the team score. In 2014, his &#8220;Rollins Military System&#8221; was included as Rule 31A1 in the U.S. Chess Rule Book. Kobe Bryant, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/\">The Steven Rollins Chess Rule</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/",
