@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Opening videos: Robert Ris shows the latest trends in the Hennig-Schara Gambit. Mihail Marin presents a Fianchetto setup against the Gruenfeld and King's Indian. Total playing time of the videos: just under one hour. \"Lucky bag\" with over 80 analyses by Anish Giri, Nijat Abasov, Romain Edouard, Marie Sebag and many others. In \"The brilliancy\" between the new rapid chess champion Nodirbek Abdusattorov and world champion Magnus Carlsen - commented by Anish Giri! - with 1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.e4 Bb4 a trendy variation of the English Opening appeared on the board. ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. Available as a single issue or by subscription (6 is",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-extra-206",
+         "pubDate" : "Fri, 01 Apr 2022 14:30:00 +0100",
+         "title" : "New: ChessBase Magazine Extra #206"
+      },
+      {
          "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the Asian country. A prize pot of $100,000 is at stake in the MPL event plus golden tickets to the elite Champions Chess Tour. Leg 1 will be a four-day rapid chess tournament running from March 31 to April 3, starting every day at 15:30 IST / 12 CEST. The time control is 15m + 10s.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2000,14 +2008,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/gm-ramesh-on-calculation/",
          "pubDate" : "Wed, 16 Mar 2022 15:00:00 +0000",
          "title" : "Gold-Coach GM Ramesh RB On Calculation And How To Train Right"
-      },
-      {
-         "description" : "From 11 to 13 March the Romanian Rapid, Blitz and Solving Championships took place in Bucharest, at the \"Pentagon Events\" venue and attracted a record number of 212 participants, 163 in the Open section and 49 in the Women's section. Irina Bulmaga (pictured), who won the Solving and the Rapid event, reports. | Teaser Photo: David Llada > All other photos: Florin Ardelean / We Love Sport",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-joys-of-chess-the-romanian-blitz-rapid-and-solving-championships",
-         "pubDate" : "Wed, 16 Mar 2022 15:00:00 +0100",
-         "title" : "The joys of chess: The Romanian Blitz, Rapid and Solving Championships"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90273747.cms\" />The 44th Chess Olympiad, to be held in Mahabalipuram about 58 km from here, would see participation of over 150 countries and the tourney would be the biggest-ever sports event to have happened in India, Tamil Nadu Chief Minister M K Stalin said on Wednesday.",
