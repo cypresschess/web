@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
+         "pubDate" : "Fri, 01 Apr 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : "On Sunday, the European Individual Championship (\"EICC\") kicked off in Terme Čatež, Slovenia. Former sole leader Gudmundur Kjartansson was defeated by Gabriel Sargissian in round 5, allowing Sargissian and four other players to climb to shared first place on 4&frac12;/5 points. | Round 6 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
+         "pubDate" : "Fri, 01 Apr 2022 14:55:00 +0100",
+         "title" : "European Individual Chess Championship (EICC), Round 6 - live"
+      },
+      {
          "description" : "Opening videos: Robert Ris shows the latest trends in the Hennig-Schara Gambit. Mihail Marin presents a Fianchetto setup against the Gruenfeld and King's Indian. Total playing time of the videos: just under one hour. \"Lucky bag\" with over 80 analyses by Anish Giri, Nijat Abasov, Romain Edouard, Marie Sebag and many others. In \"The brilliancy\" between the new rapid chess champion Nodirbek Abdusattorov and world champion Magnus Carlsen - commented by Anish Giri! - with 1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.e4 Bb4 a trendy variation of the English Opening appeared on the board. ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. Available as a single issue or by subscription (6 is",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/new-chessbase-magazine-extra-206",
          "pubDate" : "Fri, 01 Apr 2022 14:30:00 +0100",
          "title" : "New: ChessBase Magazine Extra #206"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/bQBnnmYT5Fs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-semi-finals-tie-breaks/",
+         "pubDate" : "Fri, 01 Apr 2022 12:38:54 +0000",
+         "title" : "FIDE Grand Prix in Berlin: Semi-finals Tie-breaks"
       },
       {
          "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the Asian country. A prize pot of $100,000 is at stake in the MPL event plus golden tickets to the elite Champions Chess Tour. Leg 1 will be a four-day rapid chess tournament running from March 31 to April 3, starting every day at 15:30 IST / 12 CEST. The time control is 15m + 10s.",
@@ -1170,14 +1194,6 @@ news_feed (
          "title" : "Book Recap #25- The Mammoth Book of the World's Greatest Chess Games with NM Chrisopher Chabris and FM Graham Burgess "
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/aAVg6UPi_pI?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-pools-round-4/",
-         "pubDate" : "Fri, 25 Mar 2022 13:05:03 +0000",
-         "title" : "FIDE Grand Prix in Berlin: Pools Round 4"
-      },
-      {
          "description" : "\"Chess has often been used as a metaphor for the conduct of war. 'Gambit', 'zugzwang', 'checkmate', 'stalemate' are all chess terms which are often heard when describing events in the social sphere, especially in the realm of politics, diplomacy and warfare,\" writes Milan Dinic in the March 1st issue of the British Chess Magazine. The young Editor offers a lively commentary on how the war in Ukraine has affected chess all over the world. This issue also includes an interview with veteran Ukrainian grandmaster Alexander Beliavsky.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1970,28 +1986,12 @@ news_feed (
          "title" : "Game of the Week #507: A wild Sicilian: A. Pijpers vs A. Fier"
       },
       {
-         "description" : "The Italian Spring Tour continued with three Swiss tournaments (GM-Mix A, GM-Mix B, and IM-Mix), in which experienced Grandmasters met young talents. The young players were more successful: Arseniy Nesterov from Russia (born 2003) won the GM-Mix A tournament, the Indian Amit Doshi Moksh (born 2003) won the GM-Mix B tournament, and Simon Knudsen (born 1999) from Germany won the IM-Mix tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/italian-spring-tour-young-players-dominate",
-         "pubDate" : "Thu, 17 Mar 2022 10:18:13 +0100",
-         "title" : "Italian Spring Tour: Young players dominate"
-      },
-      {
          "description" : " FIDE have just taken the decision to exclude teams from Russia and Belarus in any official FIDE team competition, at least for the foreseeable future. The most obvious effect of this decision is that both countries will not be able to take part in the upcoming chess Olympiad. This decision does not effect individual players, although in that case, the players themselves are required to play under the FIDE flag (or change federations). In terms of how this effects the Olympiad itself, the loss of the Russian team does make it a little easier for other countries. However it is worth noting that Russia last won the Olympiad in 2002, while countries like Armenia, China and Ukraine have won it m",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/03/russia-out.html",
          "pubDate" : "Wed, 16 Mar 2022 21:49:00 +0000",
          "title" : "Russia Out"
-      },
-      {
-         "description" : "FIDE has followed the recommendations of the International Olympic Committee and excluded the teams of Russia and Belarus from participating in all official FIDE tournaments.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russia-and-belarus-teams-suspended-from-fide-competitions",
-         "pubDate" : "Wed, 16 Mar 2022 21:52:33 +0100",
-         "title" : "Russia and Belarus teams suspended from FIDE competitions"
       },
       {
          "description" : " Here's a review of the latest editions of the Master Chess Web Show on Twitch: Saturday This special episode included: 1) A Bobby Fischer classic in what was an unusual opening choice. 2) A shock victory by British amateur Mike Surtees, playing a special gambit recipe against the Caro-Kann. 3) Gawain Jones winning with the <a href=\"https://chessimprover.com/master-chess-web-show-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-5/\">Master Chess Web Show (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
@@ -2248,14 +2248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1630",
          "pubDate" : "Fri, 11 Mar 2022 19:11:18 +0000",
          "title" : "FIDE Grand Prix Belgrade: Andreikin set up final with Rapport"
-      },
-      {
-         "description" : " The concept of 'pay to win' games has always offended me. If you are not familiar with the concept, it is essentially allowing you to pay extra money to a free game, to receive benefits that other players do not get. It is a business model for some games, which while profitable, can annoy an existing user base. More so if the game starts out as 'free forever' before it isn't. In the past I played a few games like this, but as soon as they became 'p2w' I lost interest. But having said that, I do wonder what 'p2w' chess might look like. eg Buying takebacks, Rejecting your opponents first choice, two moves in a row, castling after moving your king Some of these are probably too drastic (Playin",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/pay-to-win-chess.html",
-         "pubDate" : "Fri, 11 Mar 2022 12:42:00 +0000",
-         "title" : "Pay to win - Chess?"
       }
    ]
 }
