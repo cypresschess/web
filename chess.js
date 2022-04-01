@@ -2256,14 +2256,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/pay-to-win-chess.html",
          "pubDate" : "Fri, 11 Mar 2022 12:42:00 +0000",
          "title" : "Pay to win - Chess?"
-      },
-      {
-         "description" : " The 250-player international tournament in Iceland will be staged with zero Covid restrictions, and provides a breakthrough chance for young English talents Half a century on from 1972, the Bobby Fischer v Boris Spassky series in Reykjavik remains the most famous of all world championship matches. It triggered a global chess boom, not least in Britain where for a brief period a galaxy of talent made England the No 2 chess nation behind the Soviet Union. Reykjavik has another tradition, its annual international open first staged in 1964 when the legendary Mikhail Tal outclassed the field with 12.5/13. The 2022 edition at the Harpa Conference Centre from 6-12 April has a tight schedule of nin",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/mar/11/chess-bobby-fischer-v-boris-spassky-1972-remembered-at-reykjavik-open",
-         "pubDate" : "Fri, 11 Mar 2022 08:00:25 +0000",
-         "title" : "Chess: Bobby Fischer v Boris Spassky 1972 remembered at Reykjavik Open"
       }
    ]
 }
