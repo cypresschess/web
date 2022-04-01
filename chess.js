@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the Asian country. A prize pot of $100,000 is at stake in the MPL event plus golden tickets to the elite Champions Chess Tour. Leg 1 will be a four-day rapid chess tournament running from March 31 to April 3, starting every day at 15:30 IST / 12 CEST. The time control is 15m + 10s.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-2022-live",
+         "pubDate" : "Fri, 01 Apr 2022 11:50:00 +0100",
+         "title" : "MPL Indian Chess Tour - Live!"
+      },
+      {
+         "description" : " We'll look at the position from last week and examine the idea of \"the squares left behind\" in greater detail this week. I know there's a lot being thrown at you in terms of analyzing a given position, which is known as positional analysis in chess. However, the greater your ability to look at a <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-six/\">A Foundation for Beginners Fifty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">Th",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-six/",
+         "pubDate" : "Fri, 01 Apr 2022 08:41:22 +0000",
+         "title" : "A Foundation for Beginners Fifty Six"
+      },
+      {
          "description" : " China's world No 2, Ding Liren, is poised to join Hikaru Nakamura, Alireza Firouzja and five other top GMs in the Candidates, while Carlsen wins online despite scare The field is almost complete for the eight-player 2022 Candidates at Madrid in June, which will decide Magnus Carlsen's next world title challenger. It promises to be a vintage occasion. The event which remains in the memory among recent Candidates is London 2013, when Carlsen and Vlad Kramnik battled to become Vishy Anand's challenger. Both made a hash of the final round before the Norwegian won through. Now, in 2022, there are at least four players who can be argued as favourites. <a href=\"https://www.theguardian.com/sport/20",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -176,14 +192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/free-fritz18-update-fritz18neuronal-engine",
          "pubDate" : "Thu, 31 Mar 2022 15:15:00 +0100",
          "title" : "Free Fritz update: AI engine \"Fritz 18 Neuronal\""
-      },
-      {
-         "description" : "On Sunday, the European Individual Championship (\"EICC\") began in Terme Čatež (Slovenia). After four rounds, Icelandic grandmaster Gudmundur Kjartansson is in the sole lead as the only player to have scored four consecutive wins. Round 5 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
-         "pubDate" : "Thu, 31 Mar 2022 14:55:00 +0100",
-         "title" : "European Individual Chess Championship (EICC), Round 5 - live"
       },
       {
          "description" : "FIDE President Mr. Arkady Dovorkovich arrived in India for a three day visit to see the preparation and discuss the road map ahead of the",
@@ -858,7 +866,7 @@ news_feed (
          "title" : "Aronian, Nakamura, So & Shankland all win on US day in Berlin"
       },
       {
-         "description" : " The 22nd European Individual Championship take place Sun 27th Mar to Thu 7th Apr 2022 in Terme Catez, Slovenia. David Navara, Anton Korobov, David Anton Guijarro, Ivan Saric etc ",
+         "description" : " The 22nd European Individual Championship take place Sun 27th Mar to Thu 7th Apr 2022 in Terme Catez, Slovenia. David Navara, Anton Korobov, David Anton Guijarro, Ivan Saric etc. It's not particularly easy for me to engineer a 15 minute delay in a live feed which is why I'm not covering this live.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/22nd-european-individual-championship-2022",
@@ -2176,14 +2184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1634",
          "pubDate" : "Sun, 13 Mar 2022 22:54:04 +0000",
          "title" : "FIDE Grand Prix: Richard Rapport triumphs in Belgrade"
-      },
-      {
-         "description" : " I've written a few posts about the wrong chess books: books which are popular and often recommended by well-intentioned but ill-informed posters on social media. They might be the only book the poster has ever read, or the book he read several decades ago when he was learning chess. But the world has moved on. <a href=\"https://chessimprover.com/logical-chess-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Logical Chess (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/logical-chess-1/\">Logical Chess (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/logical-chess-1/",
-         "pubDate" : "Sun, 13 Mar 2022 17:42:55 +0000",
-         "title" : "Logical Chess (1)"
       },
       {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
