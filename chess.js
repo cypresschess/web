@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The FIDE Congress will also held in Chennai on the sidelines of the Olympiad.",
+         "description" : "GM Viswanathan Anand is supporting FIDE President Arkady Dvorkovich in his bid for a second term as FIDE President. Both were present at a press conference in New Delhi on Friday, where Dvorkovich announced that he will be standing for re-election...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dvorkovich-to-run-for-2nd-term-supported-by-anand",
+         "pubDate" : "Fri, 01 Apr 2022 12:12:35 -0700",
+         "title" : "Dvorkovich To Run For 2nd Term, Supported By Anand"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1674",
+         "pubDate" : "Fri, 01 Apr 2022 19:04:49 +0000",
+         "title" : "FIDE Grand Prix Berlin: Nakamura and So face off in final"
+      },
+      {
+         "description" : "The former world champion is slowly transitioning from strictly being a player to dabbling in a wider variety of roles.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33645565/viswanathan-anand-support-fide-president-dvorkovichs-re-election-bid?device=featurephone",
-         "pubDate" : "Fri, 1 Apr 2022 10:34:44 -0500",
-         "title" : "Anand to support FIDE president re-election bid"
+         "link" : "https://www.espn.com/chess/story/_/id/33645565/viswanathan-anand-support-fide-president-arkady-dvorkovichs-re-election-bid?device=featurephone",
+         "pubDate" : "Fri, 1 Apr 2022 13:57:29 -0500",
+         "title" : "I see myself as an advisor, not administrator - Anand on possible future role with FIDE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1673",
+         "pubDate" : "Fri, 01 Apr 2022 17:52:37 +0000",
+         "title" : "Arkady Dvorkovich will run for reelection"
+      },
+      {
+         "description" : "Bharat Singh Chauhan and Arkady Dvorkovich signed the contract for the Chess Olympiad 2022 in Chennai. Here is the video of the moment of the signing of the Chess Olympiad Chennai contract. Read the full news here",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-chennai-signing-of-the-contract-video/",
+         "pubDate" : "Fri, 01 Apr 2022 17:31:24 +0000",
+         "title" : "Chess Olympiad Chennai - signing of the contract (VIDEO)"
+      },
+      {
+         "description" : " <p class=\"lead\">Hikaru Nakamura and Wesley So won their matches and will meet in the final of the third stage of the FIDE Grand Prix in Berlin organised by World Chess. Both Americans defeated their opponents Shakhriyar Mamedyarov and Amin Tabatabaei with a 2:0 score. <h2>Wesley So will have White pieces in the first game of the final match on the 2nd of April.</h2> <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/20220401163446_IMG_5905.jpg\" width=\"2560\" height=\"1706\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220401154622_IMG_5883.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </di",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-berlin-semis-tie-breaks-recap/",
+         "pubDate" : "Fri, 01 Apr 2022 17:23:11 +0000",
+         "title" : "FIDE Grand Prix Berlin Semis: Tie-Breaks Recap"
+      },
+      {
+         "description" : "Indian great Vishy Anand has joined Arkady Dvorkovich's campaign to be re-elected as FIDE President, it was announced today. The five-time World Champion was pictured alongside Dvorkovich at an event in Delhi. It follows FIDE's decision to strip Russia of its flagship international team event on February 25, one day after Russia invaded Ukraine.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/vishy-anand-joins-dvorkovich-s-bid-for-second-term-as-fide-president",
+         "pubDate" : "Fri, 01 Apr 2022 16:52:02 +0000",
+         "title" : "Vishy Anand joins Dvorkovich's bid for second term as FIDE president"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> At a press conference in Delhi, coinciding with a visit by Russian Foreign Minister <strong>Sergey Lavrov</strong> and after signing the contract for the <strong>Chess Olympiad</strong> in Mamallapuram, <strong>Arkady Dvorkovich</strong> <a href=\"https://fide.com/news/1672\">confirmed that he still seeks a second term</a> as <strong>FIDE</strong> President despite being citizen of Russia that isolated itself by invading Ukraine. Former world champion <strong>Vishy Anand</strong> joins his ticket. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/dvorkovich-seeks-second-term/",
+         "pubDate" : "Fri, 01 Apr 2022 17:21:39 +0100",
+         "title" : "Dvorkovich seeks second term"
+      },
+      {
+         "description" : "FIDE and India agreed this March 15th that the Chess Olympiad 2022 will be moved to Chennai. Initially, it was set to be played in Belarus, but following the wave of protests against Alexander Lukashenko and the support of the Belarus Chess Federation for the protests it was obvious that a change was needed.&#xA0; Last []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dream-accomplished-congratulations-india-tweetoftheday/",
+         "pubDate" : "Fri, 01 Apr 2022 16:03:53 +0000",
+         "title" : "Dream accomplished! Congratulations, India! #TweetofTheDay"
       },
       {
          "description" : "Rashid Nezhmetdinov was largely considered to be one of the sharpest players in the chess world, although he never reached the Grandmaster title. Certainly, it is worth to spend a few days in the Mega Database browsing through his 500+ games.",
@@ -858,28 +922,12 @@ news_feed (
          "title" : "Online Asian Nations Cup Under-14 Team Chess Championship-2022 : Double delight for India"
       },
       {
-         "description" : "European Corporate Chess Championship 2022, organized by CC&#38;O- Chess Communication &#38; Organization, under the auspices of European Chess Union, will take place from 17th-20th June 2022 in Rotterdam, Netherlands. The tournament will be played on&#xA0;a luxury cruise ship of Royal Spido&#xA0;(named James Cook), while sailing in the Rotterdam harbour. Any corporate entity is allowed to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-corporate-chess-championship-2022/",
-         "pubDate" : "Mon, 28 Mar 2022 10:57:05 +0000",
-         "title" : "European Corporate Chess Championship 2022"
-      },
-      {
          "description" : "European Corporate Chess Championship 2022, organized by CC&#38;O- Chess Communication &#38; Organization, under the auspices of European Chess Union, will take place from 17th-20th June 2022 in Rotterdam, Netherlands. The tournament will be played on a luxury cruise ship of Royal Spido (named James Cook), while sailing in the Rotterdam harbour. Any corporate entity is allowed to register&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-corporate-chess-championship-2020-official-invitation/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-corporate-chess-championship-2020-official-invitation/",
          "pubDate" : "Mon, 28 Mar 2022 10:07:30 +0000",
          "title" : "EUROPEAN CORPORATE CHESS CHAMPIONSHIP 2022- Official invitation"
-      },
-      {
-         "description" : "India&#x2019;s own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the country. The&#xA0;MPL Indian Chess Tour&#xA0;is the first regional expansion of the world-renowned&#xA0;Meltwater Champions Chess Tour (where this year Carlsen won Airthings Masters and just yesterday the Charity Chess Cup). Its launch underlines []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mpl-indian-chess-tour-2022/",
-         "pubDate" : "Mon, 28 Mar 2022 10:07:23 +0000",
-         "title" : "MPL Indian Chess Tour 2022"
       },
       {
          "description" : "The European Individual Chess Championship 2022 kicked off yesterday in Terme Catez, Slovenia. ECU President Mr. Zurab Azmaiparashvili and President of Slovenian Chess Federation Mr. Milan Brglez addressed the players shortly before the start of the first round, wished them luck and a joyful stay in Slovenia. ECU President then made a first ceremonial move on the first&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2022-kicked-off-yesterday/\">Read More &#187;</a></span>",
@@ -1160,14 +1208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1660",
          "pubDate" : "Sat, 26 Mar 2022 00:37:12 +0000",
          "title" : "FIDE President Arkady Dvorkovich turns 50"
-      },
-      {
-         "description" : " <p class=\"lead\">Five games out of eight finished with decisive results on the fourth round of the final stage of the FIDE Grand Prix Series organised by World Chess. In a crucial game for the overall Grand Prix standings, Hikaru Nakamura defeated Levon Aronian and caught up with him. Grigoriy Oparin outplayed Andrey Esipenko and took the lead in Poll A, leaving Levon and Hikaru half a point behind. The game between Leinier Dominguez and Daniil Dubov ended in a draw; Leinier thus remained in the lead of Pool B, now shared with Shakhriyar Mamedyarov who outplayed Vincent Keymer. Maxime Vachier-Lagrave also took revenge on Alexandr Predke, and before the free day Pool C ends up with all player",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nakamura-takes-revenge-against-aronian-while-oparin-emerges-as-t/",
-         "pubDate" : "Sat, 26 Mar 2022 00:37:06 +0000",
-         "title" : "Nakamura takes revenge against Aronian"
       },
       {
          "description" : " To help ACT players prepare for the upcoming O2C Doeberl Cup, the ACT Junior Chess League is organising a small warmup event. It is a 5 round FIDE rated event, and has attracted 22 players. The semi-invitational event targeted local juniors who are playing in the Premier, Major or Minor, as well as adult players taking part. The tournament is being played as a single section, with a time control of 90m+30s While there is no live coverage of the event, you can follow the results at <a href=\"http://tournaments.streetchess.net/\">http://tournaments.streetchess.net/</a> ",
@@ -1530,28 +1570,12 @@ news_feed (
          "title" : "Charity Cup Day 4: Praggnanandhaa Eliminated Despite Brilliancy"
       },
       {
-         "description" : "Levon Aronian got a huge boost to his Candidates Tournament qualification chances as he opened the final stage of the FIDE Grand Prix with a win over Hikaru Nakamura. The US star was caught out in the opening, as was Maxime Vachier-Lagrave, who stumbled into a pawn sacrifice by Alexandr Predke and lost in just 23 moves. There were also wins for Nikita Vitiugov over Amin Tabatabaei, and for Leinier Dominguez over Daniil Dubov.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aronian-shocks-nakamura-as-final-berlin-gp-begins",
-         "pubDate" : "Wed, 23 Mar 2022 09:45:00 +0000",
-         "title" : "Aronian shocks Nakamura as final Berlin GP begins"
-      },
-      {
          "description" : "In an exciting first round, the third leg of the Grand Prix series saw four players getting off to winning starts at Berlin's Unter den Linden. Levon Aronian and Leinier Dominguez got crucial wins against direct contenders Hikaru Nakamura and Daniil Dubov, while Nikita Vitiugov got the better of Amin Tabatabaei, the lowest-rated player in pool D. The most surprising result of the day was Alexandr Predke's win over Maxime Vachier-Lagrave. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r1",
          "pubDate" : "Wed, 23 Mar 2022 04:50:00 +0100",
          "title" : "Berlin GP: Aronian and Dominguez score crucial wins"
-      },
-      {
-         "description" : "The first round of the final leg of the 2022&#38;nbsp;FIDE Grand Prix&#38;nbsp;saw four decisive games. Each group has a clear leader, with GMs Levon Aronian, Leinier Dominguez Perez, Alexandr Predke, and Nikita Vitiugov all leading their respective group...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-round-1",
-         "pubDate" : "Tue, 22 Mar 2022 18:03:00 -0700",
-         "title" : "2022 FIDE Grand Prix Berlin Leg 3, R1: 4 Wins, Fighting Chess"
       },
       {
          "description" : "",
@@ -1680,14 +1704,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-186-highlights-from-the-german-bundesliga",
          "pubDate" : "Mon, 21 Mar 2022 18:00:00 +0100",
          "title" : "Karsten M&uuml;ller's Endgame Magic Show #186: Highlights from the German Bundesliga"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Ethics Commission</strong> <a href=\"https://www.fide.com/news/1650\">bans</a> <strong>Sergey Karjakin</strong> for six months from any FIDE rated events with immediate effect for his pro-war, anti-Ukrainian statements on social media. Since it costs the Russian challenger of 2016 his place in the Candidates Tournament, the <strong>Chess Federation of Russia</strong> <a href=\"https://t.me/ruchessfed/176\">announced an appeal</a>. Whereas the <strong>ECU</strong> has suspended the federations of Russia and Belarus, FIDE only banned teams from both countries. If the appeal is rejected, the open place in the Candidates Tournament goes to ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/karjakin-banned-and-russia-will/",
-         "pubDate" : "Mon, 21 Mar 2022 17:36:35 +0100",
-         "title" : "Karjakin banned, Russia will appeal"
       },
       {
          "description" : "In reaction to public statements made by Sergey Karjakin about the war in Ukraine, the FIDE and Ethics and Disciplinary Commission banned Karjakin for six months \"from participating as a player in any FIDE rated chess competition, taking effect from the date of this decision, 21 March 2022.\" Therefore, Karjakin will not be able to play in the Candidates Tournament that is scheduled to take place from 16 June to 7 July in Madrid, Spain. Grandmaster Sergei Shipov, who regularly works as a commentator, was not banned by FIDE for his statements about the war because \"in comparison with Sergey Karjakin, Sergei Shipov is considerably less known and has, therefore, a less powerful platform.\" | Pict",
@@ -2272,14 +2288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1631",
          "pubDate" : "Fri, 11 Mar 2022 21:45:19 +0000",
          "title" : "Ekaterina Atalik wins Turkish Women's Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1630",
-         "pubDate" : "Fri, 11 Mar 2022 19:11:18 +0000",
-         "title" : "FIDE Grand Prix Belgrade: Andreikin set up final with Rapport"
       }
    ]
 }
