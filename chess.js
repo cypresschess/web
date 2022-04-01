@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " China's world No 2, Ding Liren, is poised to join Hikaru Nakamura, Alireza Firouzja and five other top GMs in the Candidates, while Carlsen wins online despite scare The field is almost complete for the eight-player 2022 Candidates at Madrid in June, which will decide Magnus Carlsen's next world title challenger. It promises to be a vintage occasion. The event which remains in the memory among recent Candidates is London 2013, when Carlsen and Vlad Kramnik battled to become Vishy Anand's challenger. Both made a hash of the final round before the Norwegian won through. Now, in 2022, there are at least four players who can be argued as favourites. <a href=\"https://www.theguardian.com/sport/20",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/apr/01/chess-carlsens-rivals-prepare-for-candidates-as-no-1-wins-after-hiccup",
+         "pubDate" : "Fri, 01 Apr 2022 07:00:16 +0000",
+         "title" : "Chess: Carlsen's rivals prepare for Candidates as No 1 wins after hiccup"
+      },
+      {
          "description" : "Two years ago, to the day, we reported that Garry Kasparov had launched a project called \"Corochess\", introducing a new chess table that would enforce full social distancing during the pandemic. Now a Russian leader has taken it a step further. His table is designed to ensure that he cannot be physically attacked during a game. Take a look at what his future mastches will look like.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
