@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Congress will also held in Chennai on the sidelines of the Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33645565/viswanathan-anand-support-fide-president-dvorkovichs-re-election-bid?device=featurephone",
+         "pubDate" : "Fri, 1 Apr 2022 10:34:44 -0500",
+         "title" : "Anand to support FIDE president re-election bid"
+      },
+      {
+         "description" : "Rashid Nezhmetdinov was largely considered to be one of the sharpest players in the chess world, although he never reached the Grandmaster title. Certainly, it is worth to spend a few days in the Mega Database browsing through his 500+ games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-19",
+         "pubDate" : "Fri, 01 Apr 2022 16:15:00 +0100",
+         "title" : "Trent's Tactics - Outrageous moves by Nezhmetdinov"
+      },
+      {
+         "description" : " <p class=\"lead\"> The tiebreaks of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> semifinals ended with Wesley So and Hikaru Nakamura winning both games against Tabatabaei and Mamedyarov respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-20.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220401150318_IMG_5848.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220401150238_IMG_5845.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictu",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nakamura-and-so-are-the-fide-grand-prix-finalists/",
+         "pubDate" : "Fri, 01 Apr 2022 14:55:19 +0000",
+         "title" : "Nakamura and So are the FIDE Grand Prix finalists"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90596459.cms\" />Five-time World Chess champion Viswanathan Anand on Friday confirmed that he will be actively supporting current FIDE president Arkady Dvorkovich's re-election bid, an indication of his growing interest in being a part of the game's administration in near future. The FIDE Congress will be held in Chennai on the sidelines of the Chess Olympiad to be held from July 28 to August 10.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-set-to-actively-support-fide-president-dvorkovichs-re-election-bid/articleshow/90596459.cms",
+         "pubDate" : "Fri, 01 Apr 2022 14:38:55 +0000",
+         "title" : "Anand set to actively support FIDE president Dvorkovich's re-election bid"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1672",
+         "pubDate" : "Fri, 01 Apr 2022 14:35:09 +0000",
+         "title" : "FIDE signs contract with AICF for the 2022 Chess Olympiad"
+      },
+      {
+         "description" : "International Chess Federation (FIDE) President Mr. Arkady Dvorkovich officially handed over the hosting rights to India for the organization of the FIDE 44th World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-president-mr-arkady-dvorkovich-officially-hands-over-hosting-rights-to-india-for-fide-44th-world-chess-olympiad-2022/",
+         "pubDate" : "Fri, 01 Apr 2022 14:31:21 +0000",
+         "title" : "FIDE President Mr. Arkady Dvorkovich officially hands over hosting rights to India for FIDE 44th World Chess Olympiad 2022"
+      },
+      {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +66,14 @@ news_feed (
          "title" : "European Individual Chess Championship (EICC), Round 6 - live"
       },
       {
+         "description" : "It is with great sadness we report that David Anderton passed away today, 1st April 2022. A full obituary will follow, but this is a...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/david-anderton-rip/",
+         "pubDate" : "Fri, 01 Apr 2022 13:31:16 +0000",
+         "title" : "David Anderton RIP"
+      },
+      {
          "description" : "Opening videos: Robert Ris shows the latest trends in the Hennig-Schara Gambit. Mihail Marin presents a Fianchetto setup against the Gruenfeld and King's Indian. Total playing time of the videos: just under one hour. \"Lucky bag\" with over 80 analyses by Anish Giri, Nijat Abasov, Romain Edouard, Marie Sebag and many others. In \"The brilliancy\" between the new rapid chess champion Nodirbek Abdusattorov and world champion Magnus Carlsen - commented by Anish Giri! - with 1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.e4 Bb4 a trendy variation of the English Opening appeared on the board. ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. Available as a single issue or by subscription (6 is",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +88,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-semi-finals-tie-breaks/",
          "pubDate" : "Fri, 01 Apr 2022 12:38:54 +0000",
          "title" : "FIDE Grand Prix in Berlin: Semi-finals Tie-breaks"
+      },
+      {
+         "description" : "Two years ago, to the day, we reported that Garry Kasparov had launched a project called \"Corochess\", introducing a new chess table that would enforce full social distancing during the pandemic. Now a Russian leader has taken it a step further. His table is designed to ensure that he cannot be physically attacked during a game. Take a look at what his future mastches will look like.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chess-table-to-ensure-security",
+         "pubDate" : "Fri, 01 Apr 2022 12:05:00 +0100",
+         "title" : "New chess table to ensure security"
       },
       {
          "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the Asian country. A prize pot of $100,000 is at stake in the MPL event plus golden tickets to the elite Champions Chess Tour. Leg 1 will be a four-day rapid chess tournament running from March 31 to April 3, starting every day at 15:30 IST / 12 CEST. The time control is 15m + 10s.",
@@ -58,15 +122,7 @@ news_feed (
          "title" : "Chess: Carlsen's rivals prepare for Candidates as No 1 wins after hiccup"
       },
       {
-         "description" : "Two years ago, to the day, we reported that Garry Kasparov had launched a project called \"Corochess\", introducing a new chess table that would enforce full social distancing during the pandemic. Now a Russian leader has taken it a step further. His table is designed to ensure that he cannot be physically attacked during a game. Take a look at what his future mastches will look like.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chess-table-to-ensure-security",
-         "pubDate" : "Fri, 01 Apr 2022 08:00:00 +0100",
-         "title" : "New chess table to ensure security"
-      },
-      {
-         "description" : " Share! Daaim Shabazz, The Chess Drum Recently chess.com featured &#8220;Chess Through an African Lens&#8221; written by this author. The reception was very positive, but it is surprising how few had been exposed to this information about the African Diaspora which is a testament to how chess media lacks a true representation of the vast chess [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/\">Chess in African Diaspora 2022</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!6 Daaim Shabazz, The Chess Drum Recently chess.com featured &#8220;Chess Through an African Lens&#8221; written by this author. The reception was very positive, but it is surprising how few had been exposed to this information about the African Diaspora which is a testament to how chess media lacks a true representation of the vast chess [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/\">Chess in African Diaspora 2022</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/",
@@ -90,7 +146,7 @@ news_feed (
          "title" : "Berlin GP: Tabatabaei bounces back"
       },
       {
-         "description" : "Chess.com is happy to announce the release of v4, the new version of our mobile iOS app. With this release, both our iOS and Android apps have made many improvements to make your mobile experience even better. Many of our members worldwide have ...",
+         "description" : "Chess.com is happy to announce the release of v4, the new version of our mobile iOS app. With this release, both our iOS and Android apps now share our newest interface with many improvements to make your mobile chess experience better! Many of ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-v4-ios-android",
@@ -1130,14 +1186,6 @@ news_feed (
          "title" : "The Steven Rollins Chess Rule"
       },
       {
-         "description" : " <p class=\"lead\">It was an exciting day at the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> just before the free day. Round 4 ended with 5 decisive games and Oparin taking the lead of Group A with 2.5/4. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-17.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220325151327_IMG_4761.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220325151158_IMG_4756.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pict",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/5-decisive-games-with-oparin-taking-the-lead-of-group-a-in-r4-of/",
-         "pubDate" : "Fri, 25 Mar 2022 19:12:13 +0000",
-         "title" : "5 decisive games with Oparin taking the lead of Group A in R4 of the FIDE GP"
-      },
-      {
          "description" : "After five rounds of the regular season, most teams know where they stand in the race to make the playoffs. With only two rounds remaining, many teams are facing must-win situations going into round six, and the teams at the top are fighting to cl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1978,14 +2026,6 @@ news_feed (
          "title" : "ChessBase for Coaches: Defending with Black"
       },
       {
-         "description" : "In his \"Game of the Week\" show #507, Merijn van Delft takes a look at an entertaining and sharp Dragon Sicilian, in which Alexandr Fier showed that it is possible to sacrifice a lot of material if your attack is strong enough. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-507-a-wild-sicilian-a-pijpers-vs-a-fier",
-         "pubDate" : "Thu, 17 Mar 2022 11:24:21 +0100",
-         "title" : "Game of the Week #507: A wild Sicilian: A. Pijpers vs A. Fier"
-      },
-      {
          "description" : " FIDE have just taken the decision to exclude teams from Russia and Belarus in any official FIDE team competition, at least for the foreseeable future. The most obvious effect of this decision is that both countries will not be able to take part in the upcoming chess Olympiad. This decision does not effect individual players, although in that case, the players themselves are required to play under the FIDE flag (or change federations). In terms of how this effects the Olympiad itself, the loss of the Russian team does make it a little easier for other countries. However it is worth noting that Russia last won the Olympiad in 2002, while countries like Armenia, China and Ukraine have won it m",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2128,14 +2168,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/can-a-chess-grandmaster-save-the-world-2",
          "pubDate" : "Mon, 14 Mar 2022 15:00:00 +0100",
          "title" : "Can a chess grandmaster save the world?"
-      },
-      {
-         "description" : "CLICK HERE FOR LIVE GAMES",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-1st-guwahati-international-open/",
-         "pubDate" : "Mon, 14 Mar 2022 13:51:51 +0000",
-         "title" : "Live Games : 1st Guwahati International Open"
       },
       {
          "description" : "",
