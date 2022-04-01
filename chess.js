@@ -2,11 +2,35 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE President Arkady Dvorkovich visited Delhi to sign a contract with the All India Chess Federation granting the Asian country the rights to host this year's Olympiad. At a press conference, Dvorkovich announced his intention to run for a second term as FIDE President, and informed that Vishy Anand would actively support him in his reelection bid. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anand-supports-dvorkovich-re-election",
+         "pubDate" : "Fri, 01 Apr 2022 22:10:00 +0100",
+         "title" : "Anand set to support Dvorkovich's reelection bid"
+      },
+      {
+         "description" : "Yesterday a couple of things became clear: GM Hikaru Nakamura&#38;nbsp;won the&#38;nbsp;2022 FIDE Grand Prix&#38;nbsp;series and the results in the semifinals meant that we would have the pleasure of not just one tiebreaker but two. Although not without his s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-semifinals-tiebreaks",
+         "pubDate" : "Fri, 01 Apr 2022 13:04:26 -0700",
+         "title" : "Nakamura, So To Meet In Final: 2022 FIDE Grand Prix Berlin Leg 3, Semifinals Tiebreaks"
+      },
+      {
+         "description" : "In this week's edition of the Power Play Show, GM Daniel King focuses on a battle in the main line of the Rossolimo between Jan-Krzysztof Duda and Magnus Carlsen. Outstanding tactical finishes from the Charity Cup are also presented! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-rossolimo-main-line",
+         "pubDate" : "Fri, 01 Apr 2022 20:25:00 +0100",
+         "title" : "Daniel King's Power Play Show: The main line of the Rossolimo"
+      },
+      {
          "description" : "GM Viswanathan Anand is supporting FIDE President Arkady Dvorkovich in his bid for a second term as FIDE President. Both were present at a press conference in New Delhi on Friday, where Dvorkovich announced that he will be standing for re-election...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/dvorkovich-to-run-for-2nd-term-supported-by-anand",
-         "pubDate" : "Fri, 01 Apr 2022 12:12:35 -0700",
+         "pubDate" : "Fri, 01 Apr 2022 12:12:00 -0700",
          "title" : "Dvorkovich To Run For 2nd Term, Supported By Anand"
       },
       {
@@ -120,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
          "pubDate" : "Fri, 01 Apr 2022 14:55:00 +0100",
          "title" : "FIDE Grand Prix - Live!"
-      },
-      {
-         "description" : "On Sunday, the European Individual Championship (\"EICC\") kicked off in Terme Čatež, Slovenia. Former sole leader Gudmundur Kjartansson was defeated by Gabriel Sargissian in round 5, allowing Sargissian and four other players to climb to shared first place on 4&frac12;/5 points. | Round 6 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
-         "pubDate" : "Fri, 01 Apr 2022 14:55:00 +0100",
-         "title" : "European Individual Chess Championship (EICC), Round 6 - live"
       },
       {
          "description" : "It is with great sadness we report that David Anderton passed away today, 1st April 2022. A full obituary will follow, but this is a...",
@@ -1562,14 +1578,6 @@ news_feed (
          "title" : "Mircea Parligras and Alessia Ciolacu are the new Romanian Champions"
       },
       {
-         "description" : "GM David Navara&#38;nbsp;just made it into the knockout phase of the&#38;nbsp;Charity Cup&#38;nbsp;as the Czech GM had the better tiebreak over GM&#38;nbsp;Richard Rapport&#38;nbsp;and GM&#38;nbsp;Praggnanandhaa R.,&#38;nbsp;who won a brilliant game in the penultimate round....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-charity-cup-day-4",
-         "pubDate" : "Wed, 23 Mar 2022 02:58:00 -0700",
-         "title" : "Charity Cup Day 4: Praggnanandhaa Eliminated Despite Brilliancy"
-      },
-      {
          "description" : "In an exciting first round, the third leg of the Grand Prix series saw four players getting off to winning starts at Berlin's Unter den Linden. Levon Aronian and Leinier Dominguez got crucial wins against direct contenders Hikaru Nakamura and Daniil Dubov, while Nikita Vitiugov got the better of Amin Tabatabaei, the lowest-rated player in pool D. The most surprising result of the day was Alexandr Predke's win over Maxime Vachier-Lagrave. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2034,14 +2042,6 @@ news_feed (
          "title" : "India to host FIDE Chess Olympiad"
       },
       {
-         "description" : "Studying \"Black to play and defend positions\" teaches chess students how to recognize and stop threats. For example, coaches may ask beginners to find ways to stop a back rank mate or the Scholar's Mate. Flipping the board may also help with high-level analysis. National Master Jeffrey Ashton explains how to create positions where the Black chessmen are on the bottom of the diagram, which gives Black's perspective.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-for-coaches-defending-with-black",
-         "pubDate" : "Thu, 17 Mar 2022 14:00:00 +0100",
-         "title" : "ChessBase for Coaches: Defending with Black"
-      },
-      {
          "description" : " FIDE have just taken the decision to exclude teams from Russia and Belarus in any official FIDE team competition, at least for the foreseeable future. The most obvious effect of this decision is that both countries will not be able to take part in the upcoming chess Olympiad. This decision does not effect individual players, although in that case, the players themselves are required to play under the FIDE flag (or change federations). In terms of how this effects the Olympiad itself, the loss of the Russian team does make it a little easier for other countries. However it is worth noting that Russia last won the Olympiad in 2002, while countries like Armenia, China and Ukraine have won it m",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2280,14 +2280,6 @@ news_feed (
          "link" : "https://www.thearticle.com/putin-paranoia-and-chess/",
          "pubDate" : "Sat, 12 Mar 2022 09:30:58 +0000",
          "title" : "Putin, paranoia and chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1631",
-         "pubDate" : "Fri, 11 Mar 2022 21:45:19 +0000",
-         "title" : "Ekaterina Atalik wins Turkish Women's Championship"
       }
    ]
 }
