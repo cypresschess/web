@@ -7,10 +7,10 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
          "pubDate" : "Sat, 02 Apr 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
+         "title" : "FIDE Grand Prix Final - Live!"
       },
       {
-         "description" : "On Sunday, the European Individual Championship (\"EICC\") kicked off in Terme Čatež, Slovenia. Former sole leader Gudmundur Kjartansson was defeated by Gabriel Sargissian in round 5, allowing Sargissian and four other players to climb to shared first place on 4&frac12;/5 points. | Round 6 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
+         "description" : "On Sunday, the European Individual Championship (\"EICC\") kicked off in Terme Čatež, Slovenia. German grandmaster Matthias Bluebaum beat Emre Can in round 6 to grab the sole lead on 5&frac12;/6 points. | Round 7 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
@@ -18,12 +18,12 @@ news_feed (
          "title" : "European Individual Chess Championship (EICC), Round 7 - live"
       },
       {
-         "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the Asian country. A prize pot of $100,000 is at stake in the MPL event plus golden tickets to the elite Champions Chess Tour. Leg 1 will be a four-day rapid chess tournament running from March 31 to April 3, starting every day at 15:30 IST / 12 CEST. The time control is 15m + 10s.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-2022-live",
-         "pubDate" : "Sat, 02 Apr 2022 11:50:00 +0100",
-         "title" : "MPL Indian Chess Tour - Live!"
+         "description" : "The game of chess is predicated on the clash between White and Black, two eternal opposites in a Manichaean struggle. Chess can serve, and has served, as a metaphor for any archetypal battle, for example between Faust and Mephistopheles, the Kaiser and King George V, Vladimir Putin and the West or God and the Devil. []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/white-saviours-black-saved-the-chessboard-as-a-battlefield/",
+         "pubDate" : "Sat, 02 Apr 2022 13:50:30 +0000",
+         "title" : "White saviours, Black saved: the chessboard as a battlefield"
       },
       {
          "description" : "Please find the link of Gujarat Gm Tournament Live link https://view.livechesscloud.com/#57846b3a-60f9-47ea-8c32-dd85a8cb0cc7",
@@ -80,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/anand-supports-dvorkovich-re-election",
          "pubDate" : "Fri, 01 Apr 2022 22:10:00 +0100",
          "title" : "Anand set to support Dvorkovich's reelection bid"
+      },
+      {
+         "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the Asian country. A prize pot of $100,000 is at stake in the MPL event plus golden tickets to the elite Champions Chess Tour. Leg 1 will be a four-day rapid chess tournament running from March 31 to April 3, starting every day at 15:30 IST / 12 CEST. The time control is 15m + 10s.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-2022-live",
+         "pubDate" : "Fri, 01 Apr 2022 22:00:00 +0100",
+         "title" : "MPL Indian Chess Tour - Live!"
       },
       {
          "description" : "Yesterday a couple of things became clear: GM Hikaru Nakamura&#38;nbsp;won the&#38;nbsp;2022 FIDE Grand Prix&#38;nbsp;series and the results in the semifinals meant that we would have the pleasure of not just one tiebreaker but two. Although not without his s...",
