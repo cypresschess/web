@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagrammed position, Black has full control over the long diagonal and the e-file. Now it's time to turn these factors into something concrete. How would you proceed?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/challengers-challenge-i",
+         "pubDate" : "Sat, 02 Apr 2022 09:00:00 +0100",
+         "title" : "Challengers challenge I"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90606020.cms\" />Sports administration could be Indian chess legend Viswanathan Anand's next stopover. The five-time world champion on Friday confirmed his involvement in current FIDE president Arkady Dvorkovich's re-election campaign, though ruling himself out of the contest for any office-bearer's post.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anands-new-innings-a-role-in-fide/articleshow/90606020.cms",
+         "pubDate" : "Sat, 02 Apr 2022 06:40:33 +0000",
+         "title" : "Viswanathan Anand's new innings - a role in FIDE?"
+      },
+      {
+         "description" : "Hikaru Nakamura and Wesley So moved on to the final of the FIDE Grand Prix in Berlin after getting 2-0 victories in the tiebreaks of the semifinals. The American duo showed excellent rapidplay skills, moving quickly and confidently even in somewhat inferior positions. Nakamura's pair of wins allowed him to climb to first place in the rapid-chess live ratings list. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-sf3",
+         "pubDate" : "Sat, 02 Apr 2022 06:30:00 +0100",
+         "title" : "Berlin GP: Nakamura and So win tiebreakers, reach final"
+      },
+      {
          "description" : " Share! Business Meets Kids kicks off a spring event featuring former Real Madrid star Esteban Granero as he will participate in a tandem chess match with youth at the Marbella Golf Club. Swedish Grandmaster Pontus Carlsson is the brainchild of Business Meets Kids and has been holding events since 2018. In a couple of weeks [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/\">Business Meets Chess &#038; Kids Spring 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -106,6 +130,14 @@ news_feed (
          "title" : "Dream accomplished! Congratulations, India! #TweetofTheDay"
       },
       {
+         "description" : "Opening videos: Robert Ris shows the latest trends in the Hennig-Schara Gambit. Mihail Marin presents a Fianchetto setup against the Gruenfeld and King's Indian. Total playing time of the videos: just under one hour. \"Lucky bag\" with over 80 analyses by Anish Giri, Nijat Abasov, Romain Edouard, Marie Sebag and many others. In \"The brilliancy\" between the new rapid chess champion Nodirbek Abdusattorov and world champion Magnus Carlsen - commented by Anish Giri! - with 1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.e4 Bb4 a trendy variation of the English Opening appeared on the board. ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. Available as a single issue or by subscription (6 is",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-extra-206",
+         "pubDate" : "Fri, 01 Apr 2022 16:30:00 +0100",
+         "title" : "New: ChessBase Magazine Extra #206"
+      },
+      {
          "description" : "Rashid Nezhmetdinov was largely considered to be one of the sharpest players in the chess world, although he never reached the Grandmaster title. Certainly, it is worth to spend a few days in the Mega Database browsing through his 500+ games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -146,28 +178,12 @@ news_feed (
          "title" : "FIDE President Mr. Arkady Dvorkovich officially hands over hosting rights to India for FIDE 44th World Chess Olympiad 2022"
       },
       {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
-         "pubDate" : "Fri, 01 Apr 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix - Live!"
-      },
-      {
          "description" : "It is with great sadness we report that David Anderton passed away today, 1st April 2022. A full obituary will follow, but this is a...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/david-anderton-rip/",
          "pubDate" : "Fri, 01 Apr 2022 13:31:16 +0000",
          "title" : "David Anderton RIP"
-      },
-      {
-         "description" : "Opening videos: Robert Ris shows the latest trends in the Hennig-Schara Gambit. Mihail Marin presents a Fianchetto setup against the Gruenfeld and King's Indian. Total playing time of the videos: just under one hour. \"Lucky bag\" with over 80 analyses by Anish Giri, Nijat Abasov, Romain Edouard, Marie Sebag and many others. In \"The brilliancy\" between the new rapid chess champion Nodirbek Abdusattorov and world champion Magnus Carlsen - commented by Anish Giri! - with 1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.e4 Bb4 a trendy variation of the English Opening appeared on the board. ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. Available as a single issue or by subscription (6 is",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-extra-206",
-         "pubDate" : "Fri, 01 Apr 2022 14:30:00 +0100",
-         "title" : "New: ChessBase Magazine Extra #206"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/bQBnnmYT5Fs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -184,14 +200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-chess-table-to-ensure-security",
          "pubDate" : "Fri, 01 Apr 2022 12:05:00 +0100",
          "title" : "New chess table to ensure security"
-      },
-      {
-         "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the Asian country. A prize pot of $100,000 is at stake in the MPL event plus golden tickets to the elite Champions Chess Tour. Leg 1 will be a four-day rapid chess tournament running from March 31 to April 3, starting every day at 15:30 IST / 12 CEST. The time control is 15m + 10s.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-2022-live",
-         "pubDate" : "Fri, 01 Apr 2022 11:50:00 +0100",
-         "title" : "MPL Indian Chess Tour - Live!"
       },
       {
          "description" : " We'll look at the position from last week and examine the idea of \"the squares left behind\" in greater detail this week. I know there's a lot being thrown at you in terms of analyzing a given position, which is known as positional analysis in chess. However, the greater your ability to look at a <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-six/\">A Foundation for Beginners Fifty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">Th",
