@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2022-04-01","16","<a href=http://www.uschess.org/msa/XtblMain.php?202204011402 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2022-04-01","23","<a href=http://www.uschess.org/msa/XtblMain.php?202204011292 target='_blank'>TES</a>",
 "HOUSTON","2022-03-27","10","<a href=http://www.uschess.org/msa/XtblMain.php?202203279032 target='_blank'>MARCH 27 SUNDAY SWISS</a>",
 "SPRING","2022-03-25","21","<a href=http://www.uschess.org/msa/XtblMain.php?202203257862 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-03-25","22","<a href=http://www.uschess.org/msa/XtblMain.php?202203257802 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2021-05-15","8","<a href=http://www.uschess.org/msa/XtblMain.php?202105157742 target='_blank'>DER SPRINGERS</a>",
 "KATY","2021-05-15","13","<a href=http://www.uschess.org/msa/XtblMain.php?202105152522 target='_blank'>SR HESSKNIGHTS 5152021</a>",
 "SPRING","2021-05-14","24","<a href=http://www.uschess.org/msa/XtblMain.php?202105147372 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2021-05-07  - 05-09","100","<a href=http://www.uschess.org/msa/XtblMain.php?202105096232 target='_blank'>TCR: WEST HOUSTON CHESS OPEN I</a>",
-"HOUSTON","2021-05-08","107","<a href=http://www.uschess.org/msa/XtblMain.php?202105086112 target='_blank'>ST THOMAS HS CHESS TOURNAMENT</a>",
 ]);
