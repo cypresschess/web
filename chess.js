@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
+         "pubDate" : "Sat, 02 Apr 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix - Live!"
+      },
+      {
+         "description" : "On Sunday, the European Individual Championship (\"EICC\") kicked off in Terme Čatež, Slovenia. Former sole leader Gudmundur Kjartansson was defeated by Gabriel Sargissian in round 5, allowing Sargissian and four other players to climb to shared first place on 4&frac12;/5 points. | Round 6 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
+         "pubDate" : "Sat, 02 Apr 2022 14:55:00 +0100",
+         "title" : "European Individual Chess Championship (EICC), Round 7 - live"
+      },
+      {
          "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the Asian country. A prize pot of $100,000 is at stake in the MPL event plus golden tickets to the elite Champions Chess Tour. Leg 1 will be a four-day rapid chess tournament running from March 31 to April 3, starting every day at 15:30 IST / 12 CEST. The time control is 15m + 10s.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2002,14 +2018,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - How to play with, and against an isolated pawn"
       },
       {
-         "description" : "\"First restrain, then blockade, finally destroy!\", wrote Aron Nimzowitsch almost a century ago. The art of stopping opponents pawn avalanches was so dear to him, that he dedicated a full book to it. \"Die Blockade\" was published in 1925, in the same year as \"Mein System.\" Jan Markos offers modern examples to show what to do against a phalanx of dangerous pawns. | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-8-how-to-stop-a-pawn-avalanche",
-         "pubDate" : "Fri, 18 Mar 2022 13:00:00 +0100",
-         "title" : "The Winning Academy 8: How to Stop a Pawn Avalanche"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2024,14 +2032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1641",
          "pubDate" : "Fri, 18 Mar 2022 10:10:33 +0000",
          "title" : "FIDE Grand Prix: Esipenko replaces Andreikin in Berlin"
-      },
-      {
-         "description" : "This week Robert Ris takes a look at the interesting line Richard Rapport used to defeat Gr&uuml;nfeld expert Maxime Vachier-Lagrave in the Gr&uuml;nfeld and reveals a little secret about the move 12.Rc3!? in the Exchange Variation of the Gr&uuml;nfeld that brought Rapport a crucial win. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-line-against-the-gruenfeld-the-winsemius-variation",
-         "pubDate" : "Fri, 18 Mar 2022 10:35:46 +0100",
-         "title" : "Robert Ris' Fast and Furious: A line against the Gr&uuml;nfeld: The Winsemius Variation"
       },
       {
          "description" : " Richard Rapport is near to becoming one of the eight candidates to challenge for Magnus Carlsen's crown, while six-year-old Kushal Jakhria tied for first at the Blackpool U1850 Intermediate despite being the lowest ranked player Richard Rapport is near to claiming one of the two remaining places in the 2022 Candidates after the Hungarian defeated Russia's Dmitry Andreikin 1.5-0.5 in Belgrade in the second-leg final of the Fide Grand Prix. The action now moves to the third and final leg in Berlin from 21 March to 4 April, which Rapport will sit out while his rivals battle. The <a href=\"https://chess24.com/en/watch/live-tournaments/fide-grand-prix-2022-leg-2-knockout/2/1/2\" title=\"\">decisive ",
