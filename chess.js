@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Game 1 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> finals between Wesley So and Hikaru Nakamura ended in a draw. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220402150007_IMG_5950-(1).jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: Pierre Adenis/World Chess</div> </div> Wesley So and Hikaru Nakamura face each other at the FIDE Grand Prix finals. Nakamura has already won leg one of the Grand Prix and qualified for the 2022 Candidates along with Richard Rapport. The chess community has noticed that after Round 6 and his secured spot at the Candidates, Nakamura doesn't sho",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nakamura-and-so-draw-game-1-of-the-fide-grand-prix-finals/",
+         "pubDate" : "Sat, 02 Apr 2022 14:43:26 +0000",
+         "title" : "Nakamura and So draw Game 1 of the FIDE Grand Prix finals"
+      },
+      {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,7 +74,7 @@ news_feed (
          "title" : "Berlin GP: Nakamura and So win tiebreakers, reach final"
       },
       {
-         "description" : " Share! Business Meets Kids kicks off a spring event featuring former Real Madrid star Esteban Granero as he will participate in a tandem chess match with youth at the Marbella Golf Club. Swedish Grandmaster Pontus Carlsson is the brainchild of Business Meets Kids and has been holding events since 2018. In a couple of weeks [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/\">Business Meets Chess &#038; Kids Spring 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!16 Business Meets Kids kicks off a spring event featuring former Real Madrid star Esteban Granero as he will participate in a tandem chess match with youth at the Marbella Golf Club. Swedish Grandmaster Pontus Carlsson is the brainchild of Business Meets Kids and has been holding events since 2018. In a couple of weeks [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/\">Business Meets Chess &#038; Kids Spring 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/",
@@ -1144,14 +1152,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/nakamura-strikes-back-in-the-fide-grand-prix",
          "pubDate" : "Sun, 27 Mar 2022 12:02:05 +0000",
          "title" : "Nakamura strikes back in the FIDE Grand Prix"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/mrSwJPSdn8Y?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-pools-round-5/",
-         "pubDate" : "Sun, 27 Mar 2022 11:33:20 +0000",
-         "title" : "FIDE Grand Prix in Berlin: Pools Round 5"
       },
       {
          "description" : "GM Magnus Carlsen&#38;nbsp;won the 2022 Charity Cup&#38;nbsp;on Saturday after beating GM Jan-Krzysztof Duda&#38;nbsp;in a playoff, necessary as the Polish grandmaster won the second regular match. Having won the Airthings Masters, this tournament is the&#38;nb...",
