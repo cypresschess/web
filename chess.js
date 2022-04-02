@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the Asian country. A prize pot of $100,000 is at stake in the MPL event plus golden tickets to the elite Champions Chess Tour. Leg 1 will be a four-day rapid chess tournament running from March 31 to April 3, starting every day at 15:30 IST / 12 CEST. The time control is 15m + 10s.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-2022-live",
+         "pubDate" : "Sat, 02 Apr 2022 11:50:00 +0100",
+         "title" : "MPL Indian Chess Tour - Live!"
+      },
+      {
+         "description" : "Please find the link of Gujarat Gm Tournament Live link https://view.livechesscloud.com/#57846b3a-60f9-47ea-8c32-dd85a8cb0cc7",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/gujarat-gm-2022-live-link/",
+         "pubDate" : "Sat, 02 Apr 2022 10:31:50 +0000",
+         "title" : "Gujarat GM 2022 Live link"
+      },
+      {
+         "description" : "Hikaru Nakamura is now back to being the world no. 1 in both rapid and blitz chess after defeating Shakhriyar Mamedyarov 2:0 in tiebreaks to reach the final of the last FIDE Grand Prix and overtake Magnus Carlsen on the rating list. He'll take on Wesley So, who also scored a 2:0 win over Amin Tabatabaei, but in fact both losing semi-finalists had great chances to clinch victory, with Amin close to winning in both games.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-overtakes-carlsen-as-rapid-no-1",
+         "pubDate" : "Sat, 02 Apr 2022 09:10:08 +0000",
+         "title" : "Nakamura overtakes Carlsen as rapid no. 1"
+      },
+      {
          "description" : "In the diagrammed position, Black has full control over the long diagonal and the e-file. Now it's time to turn these factors into something concrete. How would you proceed?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1578,14 +1602,6 @@ news_feed (
          "title" : "Charity Cup: Anton wins three in a row to reach knockout"
       },
       {
-         "description" : "Magnus Carlsen was furious with himself for missing a win against Liem Quang Le but conceded, \"clearly the highlight of the Preliminaries is Liem's performance and play,\" as his opponent went on to finish top. A thrilling climax saw Vidit, Praggnanandhaa and Richard Rapport just miss out on the quarterfinals as Hans Niemann and David Navara made it through. It's Le-Navara, Carlsen-Niemann, Anton-Duda and Ding-Van Foreest in Wednesday's quartefinalfinals.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/charity-cup-4-le-wins-rapport-pragg-vidit-miss-out",
-         "pubDate" : "Wed, 23 Mar 2022 11:40:47 +0000",
-         "title" : "Charity Cup 4: Le wins | Rapport, Pragg & Vidit miss out"
-      },
-      {
          "description" : "This year the Romanian Championships took place from 21 to 27 February at Eforie Nord. In Spring and Summer, Eforie Nord is full of tourists but in the off-season it was quiet, and the tranquility of the place made Eforie the perfect location to play chess. Mircea-Emilian Parligras (pictured) won the Open Championship with 7.0/9, Alessia Ciolacu won the Women's Championship with 7.5/9. | Photos: Florin Ardelean / We Love Sport",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2098,14 +2114,6 @@ news_feed (
          "title" : "World chess body FIDE suspends Russia and Belarus from its official events"
       },
       {
-         "description" : "The Certificates for NATIONAL SENIOR CHESS CHAMPIONSHIPS 25 FEB-03 MARCH 2022 are now available for download. You can download the certificate from the following link",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-of-national-senior-chess-championships-25-feb-03-march-2022kanpur/",
-         "pubDate" : "Wed, 16 Mar 2022 11:04:23 +0000",
-         "title" : "CERTIFICATES OF NATIONAL SENIOR CHESS CHAMPIONSHIPS 25 FEB-03 MARCH 2022,KANPUR"
-      },
-      {
          "description" : "The 'World Cup of Chess' will take place in Chennai in July-August this year.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -2288,14 +2296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1632",
          "pubDate" : "Sat, 12 Mar 2022 17:45:36 +0000",
          "title" : "FIDE and FFE host international conference \"Chess for Mental Health\""
-      },
-      {
-         "description" : "What is paranoia? It is not jealousy, that green eyed monster, which doth mock the meat it feeds on. But Iago's warning to Othello fits paranoia far better than jealousy. Paranoia refers to suspicion of a nonexistent threat, whereas jealousy envies that, owned by another, which one covets for one's own possession. I doubt that []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/putin-paranoia-and-chess/",
-         "pubDate" : "Sat, 12 Mar 2022 09:30:58 +0000",
-         "title" : "Putin, paranoia and chess"
       }
    ]
 }
