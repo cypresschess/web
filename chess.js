@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Over the last month chess24 released a real treat for chess fans around the globe: an exclusive 10-hour video series for Premium members, offering a behind-the-scenes look at the 2021 World Chess Championship Match. Magnus Carlsen's seconds revealed details about the World Champion's preparation for his match against Ian Nepomniachtchi.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/inside-team-magnus-a-complete-video-series",
+         "pubDate" : "Sat, 02 Apr 2022 16:05:50 +0000",
+         "title" : "\"I am surprised we still didn't mention Anish Giri\""
+      },
+      {
+         "description" : " <p class=\"lead\">Wesley So and Hikaru Nakamura drew the first game of the third stage of the FIDE Grand Prix organized by World Chess after a long theoretical debate. Hikaru Nakamura will have White pieces in the second game of the mini-match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220402150106_IMG_5952.jpg\" width=\"2560\" height=\"1706\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> Both players arrived at the empty playing hall today for the final match. All other players have been already eliminated in the previous rounds and both players felt a bit lonely playing in the venue despite the presence of many spectators who visited ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-berlin-finals-game-1-recap/",
+         "pubDate" : "Sat, 02 Apr 2022 15:50:49 +0000",
+         "title" : "FIDE Grand Prix Berlin Finals: Game 1 Recap"
+      },
+      {
          "description" : " <p class=\"lead\">Game 1 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> finals between Wesley So and Hikaru Nakamura ended in a draw. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220402150007_IMG_5950-(1).jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: Pierre Adenis/World Chess</div> </div> Wesley So and Hikaru Nakamura face each other at the FIDE Grand Prix finals. Nakamura has already won leg one of the Grand Prix and qualified for the 2022 Candidates along with Richard Rapport. The chess community has noticed that after Round 6 and his secured spot at the Candidates, Nakamura doesn't sho",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1098,14 +1114,6 @@ news_feed (
          "title" : "22nd European Individual Championship 2022 - Games and Results"
       },
       {
-         "description" : " <p class=\"lead\">Round 5 of the third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> ended with Aronian, Nakamura and So, Shankland co-leading Group A and C respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-18.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220327140928_IMG_4961.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220327140658_IMG_4952.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220327140504_IMG_",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/aronian-nakamura-and-so-shankland-co-lead-group-a-and-c-respecti/",
-         "pubDate" : "Sun, 27 Mar 2022 18:16:18 +0000",
-         "title" : "Nakamura Wins, FIDE Grand Prix Gets Tense"
-      },
-      {
          "description" : " If you read the sort of chess books I grew up with, you sometimes get the impression that a queenside pawn majority is, in itself, enough to win the game. In my continuing series on Chernev's Logical Chess Move by Move, there's a game of this nature. Capablanca Villegas (Simul 1914) is Game 30 <a href=\"https://chessimprover.com/logical-chess-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Logical Chess (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/logical-chess-3/\">Logical Chess (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1496,14 +1504,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1649",
          "pubDate" : "Thu, 24 Mar 2022 11:15:40 +0000",
          "title" : "Fourth Chess in Education Lecturer course announced"
-      },
-      {
-         "description" : "World Chess Champion Magnus Carlsen will take on world no. 3 Ding Liren in the semi-finals of the Charity Cup after a day on which the favourites all made it through their matches without the need for tiebreaks. Magnus (vs Hans Niemann) and Ding (vs. Jorden van Foreest) both won with a game to spare, as did Jan-Krzysztof Duda against David Anton. David Navara managed to hit back after losing the first game against Liem Quang Le, but the Vietnamese star won the third game and cruised through in the last.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/charity-cup-qf-it-s-carlsen-ding-in-the-semis",
-         "pubDate" : "Thu, 24 Mar 2022 10:56:14 +0000",
-         "title" : "Charity Cup QF: It's Carlsen-Ding in the semis"
       },
       {
          "description" : "The semifinals of the 2022 Charity Cup will see the matches GM Magnus Carlsen vs. GM Ding Liren and GM Le Quang Liem&#38;nbsp;vs. GM Jan-Krzysztof Duda. These four players eliminated GMs&#38;nbsp;Hans Niemann, Jorden van Foreest, David Navara, and David A...",
