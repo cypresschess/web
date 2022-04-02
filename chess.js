@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The final match of the FIDE Grand Prix in Berlin kicked off with a quick draw. Hikaru Nakamura had the white pieces, but was content with keeping things under control in a game that only left theory on move 27. Wesley So happily followed suit, as his opponent has yet to lose a single classical game with the white pieces since his return to over-the-board competitions. | Photos: World Chess",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>David Anderton</strong> <a href=\"https://britishchessnews.com/2020/08/02/happy-birthday-cm-david-william-anderton-obe-02-viii-1941/\">passed away</a> at 80 after serving the <strong>English Chess Federation</strong> as team captain, legal counsel and in other roles for more than fifty years. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/david-anderson-1941-2022/",
+         "pubDate" : "Sat, 02 Apr 2022 21:59:30 +0100",
+         "title" : "David Anderson (1941-2022)"
+      },
+      {
+         "description" : "Wesley So and Hikaru Nakamura made a quiet and at times puzzling start to the FIDE Grand Prix final in Berlin, with a 30-move draw. Wesley took long pauses, but essentially he followed a game he'd played against Jeffery Xiong in last year's US Championship for 27 moves, before playing a novelty that led to an instant draw. The twist was that this time he was playing from the white side after finding himself under pressure in that previous game with Black.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/so-and-nakamura-in-quiet-start-to-grand-prix-final",
+         "pubDate" : "Sat, 02 Apr 2022 20:44:27 +0000",
+         "title" : "So and Nakamura in quiet start to Grand Prix final"
+      },
+      {
+         "description" : "The final match of the FIDE Grand Prix in Berlin kicked off with a quick draw. Wesley So had the white pieces, but was content with keeping things under control in a game that only left theory on move 27. Hikaru Nakamura happily followed suit, as he will get a chance to get ahead on the scoreboard when he gets white on Sunday. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-f1",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1675",
          "pubDate" : "Sat, 02 Apr 2022 17:30:08 +0000",
          "title" : "FIDE Grand Prix Berlin Final: Game 1 Recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1676",
+         "pubDate" : "Sat, 02 Apr 2022 16:51:53 +0000",
+         "title" : "Richard Rapport reaches career-high in April rating list"
       },
       {
          "description" : "Over the last month chess24 released a real treat for chess fans around the globe: an exclusive 10-hour video series for Premium members, offering a behind-the-scenes look at the 2021 World Chess Championship Match. Magnus Carlsen's seconds revealed details about the World Champion's preparation for his match against Ian Nepomniachtchi.",
@@ -1402,14 +1426,6 @@ news_feed (
          "title" : "Recruitment of meritorious sportspersons in the Income Tax Department, West Bengal & Sikkim"
       },
       {
-         "description" : "World Champion Magnus Carlsen will take on World Cup Winner Jan-Krzysztof Duda in the Charity Cup final after both players impressed in the semi-finals. Magnus defeated Ding Liren 3:1 in a hard-fought battle against the player he called, \"clearly the best player who's not in the Candidates at the moment\". Jan-Krzysztof Duda beat Liem Quang Le 2.5:1.5 in a match decided on a first game where Duda was on the ropes but eventually hit back to grab a crucial win.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/charity-cup-sf-carlsen-and-duda-reach-final",
-         "pubDate" : "Fri, 25 Mar 2022 10:19:03 +0000",
-         "title" : "Charity Cup SF: Carlsen and Duda reach final"
-      },
-      {
          "description" : "The final of the 2022 Charity Cup will be played between GM Magnus Carlsen and GM Jan-Krzysztof Duda, the Polish player who ended Carlsen&#39;s 125-game unbeaten streak in October 2020 and eliminated the world champion from the 2021 FIDE World Cup. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1688,14 +1704,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/22/ep-271-ep-271-gm-hans-niemann-on-his-rapid-climb-up-the-chess-rankings-and-whats-next-for-him-in-2022",
          "pubDate" : "Tue, 22 Mar 2022 14:16:53 +0000",
          "title" : "EP 271- GM Hans Niemann on his Rapid Climb up the Chess Rankings and What's Next for Him in 2022"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Geir Nesheim</strong>, the former general secretary of the <strong>Norwegian Chess Federation</strong> where he started the successful Sjakk &amp; Samfunn (chess and society) programme, is the new chairman of the FIDE Social Commission. <strong>Paris Klerides</strong> stepped down for personal motives. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/nesheim-heads-social-commission/",
-         "pubDate" : "Tue, 22 Mar 2022 15:11:49 +0100",
-         "title" : "Nesheim heads Social Commission"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90379108.cms\" />Vietnamese star Liem Quang Le's hot streak showed no signs of cooling down as the Charity Cup's Prelim stage enters its final three rounds on Tuesday.",
@@ -2288,22 +2296,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/2022-olympiad-venue.html",
          "pubDate" : "Sun, 13 Mar 2022 12:26:00 +0000",
          "title" : "2022 Olympiad Venue"
-      },
-      {
-         "description" : " GM Ian Rogers has entered the world of live streaming, covering the current Ballarat Begonia Open at <a href=\"https://www.twitch.tv/gmianr\">https://www.twitch.tv/gmianr</a> He plans to follow this up with coverage of the 2022 O2C Doeberl Cup next month. The move to online coverage is both as a consequence of current covid rules, but also an understanding that technology has advanced to a level where the traditional in person lecture has been replaced with online versions. There are theree rounds of the Ballarat tournament today, so if you tune in from around 10am (I think) you should be able to watch around 12 hours of tournament play. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/australian-tournament-streaming.html",
-         "pubDate" : "Sat, 12 Mar 2022 21:43:00 +0000",
-         "title" : "Australian Tournament Streaming"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1633",
-         "pubDate" : "Sat, 12 Mar 2022 20:05:56 +0000",
-         "title" : "FIDE Grand Prix Belgrade Finals: Game One Recap"
       }
    ]
 }
