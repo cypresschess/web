@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final match of the FIDE Grand Prix in Berlin kicked off with a quick draw. Hikaru Nakamura had the white pieces, but was content with keeping things under control in a game that only left theory on move 27. Wesley So happily followed suit, as his opponent has yet to lose a single classical game with the white pieces since his return to over-the-board competitions. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-f1",
+         "pubDate" : "Sat, 02 Apr 2022 20:15:00 +0100",
+         "title" : "Berlin GP Final: Following theory"
+      },
+      {
+         "description" : "With clear victories in Friday&#39;s tiebreakers, American GMs&#38;nbsp;Hikaru Nakamura&#38;nbsp;and Wesley So were set to meet in the final of the third leg of the&#38;nbsp;2022 FIDE Grand Prix&#38;nbsp;series.&#38;nbsp;&#38;nbsp; The first game of the final, with So play...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-final-day-1",
+         "pubDate" : "Sat, 02 Apr 2022 11:44:00 -0700",
+         "title" : "Draw In Game 1: 2022 FIDE Grand Prix Berlin Leg 3, Final Day 1"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1675",
+         "pubDate" : "Sat, 02 Apr 2022 17:30:08 +0000",
+         "title" : "FIDE Grand Prix Berlin Final: Game 1 Recap"
+      },
+      {
          "description" : "Over the last month chess24 released a real treat for chess fans around the globe: an exclusive 10-hour video series for Premium members, offering a behind-the-scenes look at the 2021 World Chess Championship Match. Magnus Carlsen's seconds revealed details about the World Champion's preparation for his match against Ian Nepomniachtchi.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nakamura-and-so-draw-game-1-of-the-fide-grand-prix-finals/",
          "pubDate" : "Sat, 02 Apr 2022 14:43:26 +0000",
          "title" : "Nakamura and So draw Game 1 of the FIDE Grand Prix finals"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
-         "pubDate" : "Sat, 02 Apr 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix Final - Live!"
       },
       {
          "description" : "On Sunday, the European Individual Championship (\"EICC\") kicked off in Terme Čatež, Slovenia. German grandmaster Matthias Bluebaum beat Emre Can in round 6 to grab the sole lead on 5&frac12;/6 points. | Round 7 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
@@ -82,14 +98,6 @@ news_feed (
          "title" : "Viswanathan Anand's new innings - a role in FIDE?"
       },
       {
-         "description" : "Hikaru Nakamura and Wesley So moved on to the final of the FIDE Grand Prix in Berlin after getting 2-0 victories in the tiebreaks of the semifinals. The American duo showed excellent rapidplay skills, moving quickly and confidently even in somewhat inferior positions. Nakamura's pair of wins allowed him to climb to first place in the rapid-chess live ratings list. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-sf3",
-         "pubDate" : "Sat, 02 Apr 2022 06:30:00 +0100",
-         "title" : "Berlin GP: Nakamura and So win tiebreakers, reach final"
-      },
-      {
          "description" : " Share!16 Business Meets Kids kicks off a spring event featuring former Real Madrid star Esteban Granero as he will participate in a tandem chess match with youth at the Marbella Golf Club. Swedish Grandmaster Pontus Carlsson is the brainchild of Business Meets Kids and has been holding events since 2018. In a couple of weeks [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/\">Business Meets Chess &#038; Kids Spring 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -114,6 +122,14 @@ news_feed (
          "title" : "MPL Indian Chess Tour - Live!"
       },
       {
+         "description" : "Hikaru Nakamura and Wesley So moved on to the final of the FIDE Grand Prix in Berlin after getting 2-0 victories in the tiebreaks of the semifinals. The American duo showed excellent rapidplay skills, moving quickly and confidently even in somewhat inferior positions. Nakamura's pair of wins allowed him to climb to first place in the rapid-chess live ratings list. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-sf3",
+         "pubDate" : "Fri, 01 Apr 2022 22:00:00 +0100",
+         "title" : "Berlin GP: Nakamura and So win tiebreakers, reach final"
+      },
+      {
          "description" : "Yesterday a couple of things became clear: GM Hikaru Nakamura&#38;nbsp;won the&#38;nbsp;2022 FIDE Grand Prix&#38;nbsp;series and the results in the semifinals meant that we would have the pleasure of not just one tiebreaker but two. Although not without his s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -136,14 +152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/dvorkovich-to-run-for-2nd-term-supported-by-anand",
          "pubDate" : "Fri, 01 Apr 2022 12:12:00 -0700",
          "title" : "Dvorkovich To Run For 2nd Term, Supported By Anand"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1674",
-         "pubDate" : "Fri, 01 Apr 2022 19:04:49 +0000",
-         "title" : "FIDE Grand Prix Berlin: Nakamura and So face off in final"
       },
       {
          "description" : "The former world champion is slowly transitioning from strictly being a player to dabbling in a wider variety of roles.",
@@ -186,12 +194,28 @@ news_feed (
          "title" : "Vishy Anand joins Dvorkovich's bid for second term as FIDE president"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1672",
+         "pubDate" : "Fri, 01 Apr 2022 16:35:09 +0000",
+         "title" : "FIDE signs contract with AICF for the 2022 Chess Olympiad"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> At a press conference in Delhi, coinciding with a visit by Russian Foreign Minister <strong>Sergey Lavrov</strong> and after signing the contract for the <strong>Chess Olympiad</strong> in Mamallapuram, <strong>Arkady Dvorkovich</strong> <a href=\"https://fide.com/news/1672\">confirmed that he still seeks a second term</a> as <strong>FIDE</strong> President despite being citizen of Russia that isolated itself by invading Ukraine. Former world champion <strong>Vishy Anand</strong> joins his ticket. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/dvorkovich-seeks-second-term/",
          "pubDate" : "Fri, 01 Apr 2022 17:21:39 +0100",
          "title" : "Dvorkovich seeks second term"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1674",
+         "pubDate" : "Fri, 01 Apr 2022 16:04:49 +0000",
+         "title" : "FIDE Grand Prix Berlin: Nakamura and So face off in final"
       },
       {
          "description" : "FIDE and India agreed this March 15th that the Chess Olympiad 2022 will be moved to Chennai. Initially, it was set to be played in Belarus, but following the wave of protests against Alexander Lukashenko and the support of the Belarus Chess Federation for the protests it was obvious that a change was needed.&#xA0; Last []",
@@ -232,14 +256,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-set-to-actively-support-fide-president-dvorkovichs-re-election-bid/articleshow/90596459.cms",
          "pubDate" : "Fri, 01 Apr 2022 14:38:55 +0000",
          "title" : "Anand set to actively support FIDE president Dvorkovich's re-election bid"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1672",
-         "pubDate" : "Fri, 01 Apr 2022 14:35:09 +0000",
-         "title" : "FIDE signs contract with AICF for the 2022 Chess Olympiad"
       },
       {
          "description" : "International Chess Federation (FIDE) President Mr. Arkady Dvorkovich officially handed over the hosting rights to India for the organization of the FIDE 44th World Chess",
@@ -1578,14 +1594,6 @@ news_feed (
          "title" : "Why Losing At Chess Hurts So Much (And The Antidote)"
       },
       {
-         "description" : "It took the 2022 FIDE Grand Prix, where GMs Hikaru Nakamura and Daniil Dubov were both playing on Tuesday, to break their two-week Titled Tuesday winning streak. In their places were GM Ian Nepomniachtchi, winning the early tournament, and GM Dmit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nepomniachtchi-andreikin-win-titled-tuesday-march-22-2022",
-         "pubDate" : "Wed, 23 Mar 2022 09:16:48 -0700",
-         "title" : "Nepomniachtchi, Andreikin Win March 22 Titled Tuesday"
-      },
-      {
          "description" : " Here's my summary of this week's Master Chess Web Shows. There was a departure from the usual schedule because of guest appearances, and these were such fun that we'll be doing some more: Monday On Monday we had FIDE Master Charlie Storey on the show, and he described how he started out in chess and <a href=\"https://chessimprover.com/master-chess-web-show-6/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (6)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-6/\">Master Chess Web Show (6)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2296,14 +2304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1633",
          "pubDate" : "Sat, 12 Mar 2022 20:05:56 +0000",
          "title" : "FIDE Grand Prix Belgrade Finals: Game One Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1632",
-         "pubDate" : "Sat, 12 Mar 2022 17:45:36 +0000",
-         "title" : "FIDE and FFE host international conference \"Chess for Mental Health\""
       }
    ]
 }
