@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1678",
+         "pubDate" : "Sun, 03 Apr 2022 19:51:39 +0000",
+         "title" : "FIDE marks World Autism Awareness Day with panel discussion on Chess and ASD"
+      },
+      {
          "description" : "A second quick draw in the final of the Berlin Grand Prix means the match will be decided in rapid (and potentially blitz) tiebreakers on Monday. The second draw between Hikaru Nakamura and Wesley So was even shorter than the first one, as the players went through the motions in a game that followed what has become an infamous line of the Berlin Defence. The game lasted less than half an hour. | Photo: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
