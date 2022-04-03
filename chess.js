@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After a long theoretical debate, Wesley So and Hikaru Nakamura drew the first game in the final of the third leg of the FIDE Grand Prix Series organized by World Chess. Hikaru Nakamura will have white pieces in the second game of the mini-match. More about the FIDE Grand Prix: All about the&#xA0;FIDE Grand Prix []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-hikaru-nakamura-1-2-1-2/",
+         "pubDate" : "Sun, 03 Apr 2022 07:06:41 +0000",
+         "title" : "Wesley So - Hikaru Nakamura 1/2-1/2"
+      },
+      {
          "description" : " The 2022 Dubbo Open has attracted a good field of 37 players. The top 2 seeds are Cameron McGowan and FM Michael Kethro, with a solid field of 1750-2000 rated players making up the next 7 seeds. After the first 3 rounds, McGowan, Kethro and WFM Alana Chibnall lead with 3/3. Close behind on 2.5 are WFM Kristine Quek, WIM Biljana Dekic and Kye Walls. The round 4 pairings see McGowan play Kethro on the top board, with Dekic v Chibnall on board 2. After the 3rd round the traditional time handicap blitz event was held. Players were given a time bonus/penalty based on their rating, meaning that higher rated players might start with only 2 or 3 minutes on their click (versus their opponents 5). Th",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1016,14 +1024,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/pulling-pin.html",
          "pubDate" : "Mon, 28 Mar 2022 14:02:00 +0000",
          "title" : "Pulling the pin"
-      },
-      {
-         "description" : "In a historic edition of the Premier division of TCEC, defending champion Stockfish qualified for the Superfinal half a point ahead of Komodo Dragon, who was in turn three points ahead of 3rd placed Leela Chess Zero. TCEC Premire division final standings / Report after DRR2 / Report after DRR3 Stockfish did not have it []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stockfish-wins-tcec-season-22-premier-division/",
-         "pubDate" : "Mon, 28 Mar 2022 13:56:59 +0000",
-         "title" : "Stockfish wins TCEC Season 22 Premier Division"
       },
       {
          "description" : "GM Dmitry Andreikin&#38;nbsp;won week seven of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Le Quang Liem in a hard-fought final blitz playoff. GM Fabiano Caruana won the Swiss tournament and made it to the semifinal...",
