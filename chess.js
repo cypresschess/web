@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "American GMs&#38;nbsp;Hikaru Nakamura&#38;nbsp;and Wesley So are playing in the final to decide the outcome of the third and final leg of the&#38;nbsp;2022 FIDE Grand Prix&#38;nbsp;series.&#38;nbsp;&#38;nbsp; The second game of the final, with Nakamura playing the whit...",
+         "description" : "A second quick draw in the final of the Berlin Grand Prix means the match will be decided in rapid (and potentially blitz) tiebreakers on Monday. The second draw between Hikaru Nakamura and Wesley So was even shorter than the first one, as the players went through the motions in a game that followed what has become an infamous line of the Berlin Defence. The game lasted less than half an hour. | Photo: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-f2",
+         "pubDate" : "Sun, 03 Apr 2022 19:20:00 +0100",
+         "title" : "Berlin GP: Nothing to see here"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1677",
+         "pubDate" : "Sun, 03 Apr 2022 16:36:56 +0000",
+         "title" : "FIDE Grand Prix Berlin: Final goes to tiebreaker"
+      },
+      {
+         "description" : " <p class=\"lead\">Hikaru Nakamura and Wesley So drew their second game in the final match of the third stage of the FIDE Grand Prix organised by World Chess and the fate of the winner's trophy will be determined tomorrow during the tiebreaks. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220403150951_IMG_6053.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> Hikaru Nakamura picked White for the first rapid game against Wesley So during the drawing of lots procedure. It was a short draw in the Berlin Variation of the Ruy Lopez today where both players deviated from the playable lines and quickly entered a fam",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/second-draw-in-the-fide-grand-prix-finals/",
+         "pubDate" : "Sun, 03 Apr 2022 16:08:37 +0000",
+         "title" : "Second Draw in the FIDE Grand Prix finals"
+      },
+      {
+         "description" : "American GMs&#38;nbsp;Hikaru Nakamura&#38;nbsp;and Wesley So also drew their second game in the final of the third and final leg of the&#38;nbsp;2022 FIDE Grand Prix. The players quickly repeated moves in a line in the Berlin Ruy Lopez which they have played ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-final-day-2",
-         "pubDate" : "Sun, 03 Apr 2022 08:06:08 -0700",
-         "title" : "Quick Draw on Sunday, Tiebreaker Next: 2022 FIDE Grand Prix Berlin Leg 3, Final Day 2"
+         "pubDate" : "Sun, 03 Apr 2022 08:06:00 -0700",
+         "title" : "Quick Draw On Sunday, Tiebreaker Next: 2022 FIDE Grand Prix Berlin Leg 3, Final Day 2"
       },
       {
          "description" : "It can be confusing when the opponent's pieces don't go where you were expecting them to go. After looking at a couple of games from the recent Grand Prix by Amin Tabatabaei, Jon Speelman decided to write about unexpected defensive moves! | Pictured: Murray Chandler, Jonathan Speelman and Jonathan Mestel at the British Zonal in February 1987",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-73-pawn-chains-in-the-french-defense-2",
          "pubDate" : "Sun, 03 Apr 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 73: Pawn chains in the French Defense (2)"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
-         "pubDate" : "Sun, 03 Apr 2022 15:00:00 +0100",
-         "title" : "FIDE Grand Prix Final - Live!"
       },
       {
          "description" : "On Sunday, the European Individual Championship (\"EICC\") kicked off in Terme Čatež, Slovenia. German grandmaster Matthias Bluebaum has won six games in a row and is the sole leader with 6&frac12;/7 points. Gabriel Sargissian stands in sole second place, a half point back. | Round 8 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
@@ -1176,14 +1192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1664",
          "pubDate" : "Mon, 28 Mar 2022 00:09:26 +0000",
          "title" : "FIDE World Cup & Women's World Cup 2023 - Call for bids"
-      },
-      {
-         "description" : " <p class=\"lead\">Half of the games ended with decisive results in Round 5 of the final stage of the FIDE Grand Prix Series organized by World Chess. It was a very successful day for the American players as four of them, including Levon Aronian, Hikaru Nakamura, and Wesley So, defeated their opponents and thus all of them are leading in their groups. Hikaru Nakamura's persistence is rewarded, as he won a difficult ending against Grigoriy Oparin and was caught in the lead of Pool A his main rival Levon Aronian, who outplayed Andrey Esipenko. Vincent Keymer earned a draw in his game against Daniil Dubov with precise defence. Leinier Dominguez and Shakhriyar Mamedyarov draw their game and remain",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/round-5-report-good-day-for-the-american-players/",
-         "pubDate" : "Sun, 27 Mar 2022 23:20:23 +0000",
-         "title" : "Round 5 Report, Good day for the American players!"
       },
       {
          "description" : "",
