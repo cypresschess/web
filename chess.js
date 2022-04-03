@@ -2296,14 +2296,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-chess-womens-gala/",
          "pubDate" : "Mon, 14 Mar 2022 09:13:26 +0000",
          "title" : "European Chess Women's Gala"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1634",
-         "pubDate" : "Sun, 13 Mar 2022 22:54:04 +0000",
-         "title" : "FIDE Grand Prix: Richard Rapport triumphs in Belgrade"
       }
    ]
 }
