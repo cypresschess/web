@@ -2288,14 +2288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
          "pubDate" : "Sun, 13 Mar 2022 14:55:00 +0100",
          "title" : "Belgrade Grand Prix Final - Games and results"
-      },
-      {
-         "description" : " A bit of an update on what is possibly happening with the 2022 Chess Olympiad. At this stage India seems to be the only federation bidding, and they have put together quite a nice video presentation supporting the bid. The proposed venue city will be Chennai, or more correctly, Mahabalipuram, which is a resort are an hour to the south. At the moment, federations are being asked to comment on the bid (in place of a formal vote), and the PNG Chess Federation is in favour of the bid. For local (ie Australian) chess fans, there are a couple of benefits. The difference in time zones isn't that large, so games can be watched in the evening. Also , for people who wish to watch in person, travel is",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/2022-olympiad-venue.html",
-         "pubDate" : "Sun, 13 Mar 2022 12:26:00 +0000",
-         "title" : "2022 Olympiad Venue"
       }
    ]
 }
