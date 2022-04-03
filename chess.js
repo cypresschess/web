@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2022 Dubbo Open has attracted a good field of 37 players. The top 2 seeds are Cameron McGowan and FM Michael Kethro, with a solid field of 1750-2000 rated players making up the next 7 seeds. After the first 3 rounds, McGowan, Kethro and WFM Alana Chibnall lead with 3/3. Close behind on 2.5 are WFM Kristine Quek, WIM Biljana Dekic and Kye Walls. The round 4 pairings see McGowan play Kethro on the top board, with Dekic v Chibnall on board 2. After the 3rd round the traditional time handicap blitz event was held. Players were given a time bonus/penalty based on their rating, meaning that higher rated players might start with only 2 or 3 minutes on their click (versus their opponents 5). Th",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/2022-dubbo-open-day-1.html",
+         "pubDate" : "Sat, 02 Apr 2022 23:49:00 +0000",
+         "title" : "2022 Dubbo Open - Day 1"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>David Anderton</strong> <a href=\"https://britishchessnews.com/2020/08/02/happy-birthday-cm-david-william-anderton-obe-02-viii-1941/\">passed away</a> at 80 after serving the <strong>English Chess Federation</strong> as team captain, legal counsel and in other roles for more than fifty years. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
