@@ -82,14 +82,6 @@ news_feed (
          "title" : "Nakamura and So draw Game 1 of the FIDE Grand Prix finals"
       },
       {
-         "description" : "On Sunday, the European Individual Championship (\"EICC\") kicked off in Terme Čatež, Slovenia. German grandmaster Matthias Bluebaum beat Emre Can in round 6 to grab the sole lead on 5&frac12;/6 points. | Round 7 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
-         "pubDate" : "Sat, 02 Apr 2022 14:55:00 +0100",
-         "title" : "European Individual Chess Championship (EICC), Round 7 - live"
-      },
-      {
          "description" : "The game of chess is predicated on the clash between White and Black, two eternal opposites in a Manichaean struggle. Chess can serve, and has served, as a metaphor for any archetypal battle, for example between Faust and Mephistopheles, the Kaiser and King George V, Vladimir Putin and the West or God and the Devil. []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -144,14 +136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/anand-supports-dvorkovich-re-election",
          "pubDate" : "Fri, 01 Apr 2022 22:10:00 +0100",
          "title" : "Anand set to support Dvorkovich's reelection bid"
-      },
-      {
-         "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the Asian country. A prize pot of $100,000 is at stake in the MPL event plus golden tickets to the elite Champions Chess Tour. Leg 1 will be a four-day rapid chess tournament running from March 31 to April 3, starting every day at 15:30 IST / 12 CEST. The time control is 15m + 10s.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-2022-live",
-         "pubDate" : "Fri, 01 Apr 2022 22:00:00 +0100",
-         "title" : "MPL Indian Chess Tour - Live!"
       },
       {
          "description" : "Hikaru Nakamura and Wesley So moved on to the final of the FIDE Grand Prix in Berlin after getting 2-0 victories in the tiebreaks of the semifinals. The American duo showed excellent rapidplay skills, moving quickly and confidently even in somewhat inferior positions. Nakamura's pair of wins allowed him to climb to first place in the rapid-chess live ratings list. | Photos: World Chess",
@@ -2048,6 +2032,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-34",
          "pubDate" : "Fri, 18 Mar 2022 15:00:00 +0100",
          "title" : "Svitlana's Smart Moves - How to play with, and against an isolated pawn"
+      },
+      {
+         "description" : "\"First restrain, then blockade, finally destroy!\", wrote Aron Nimzowitsch almost a century ago. The art of stopping opponents pawn avalanches was so dear to him, that he dedicated a full book to it. \"Die Blockade\" was published in 1925, in the same year as \"Mein System.\" Jan Markos offers modern examples to show what to do against a phalanx of dangerous pawns. | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-8-how-to-stop-a-pawn-avalanche",
+         "pubDate" : "Fri, 18 Mar 2022 13:00:00 +0100",
+         "title" : "The Winning Academy 8: How to Stop a Pawn Avalanche"
       },
       {
          "description" : "",
