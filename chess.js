@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "American GMs&#38;nbsp;Hikaru Nakamura&#38;nbsp;and Wesley So are playing in the final to decide the outcome of the third and final leg of the&#38;nbsp;2022 FIDE Grand Prix&#38;nbsp;series.&#38;nbsp;&#38;nbsp; The second game of the final, with Nakamura playing the whit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-final-day-2",
+         "pubDate" : "Sun, 03 Apr 2022 08:06:08 -0700",
+         "title" : "Quick Draw on Sunday, Tiebreaker Next: 2022 FIDE Grand Prix Berlin Leg 3, Final Day 2"
+      },
+      {
+         "description" : "It can be confusing when the opponent's pieces don't go where you were expecting them to go. After looking at a couple of games from the recent Grand Prix by Amin Tabatabaei, Jon Speelman decided to write about unexpected defensive moves! | Pictured: Murray Chandler, Jonathan Speelman and Jonathan Mestel at the British Zonal in February 1987",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-167",
+         "pubDate" : "Sun, 03 Apr 2022 15:30:00 +0100",
+         "title" : "Defence and the unforeseeability of voluntary rerouting"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 7rrd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about pawn chains in the French Defense. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-73-pawn-chains-in-the-french-defense-2",
+         "pubDate" : "Sun, 03 Apr 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 73: Pawn chains in the French Defense (2)"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
+         "pubDate" : "Sun, 03 Apr 2022 15:00:00 +0100",
+         "title" : "FIDE Grand Prix Final - Live!"
+      },
+      {
+         "description" : "On Sunday, the European Individual Championship (\"EICC\") kicked off in Terme Čatež, Slovenia. German grandmaster Matthias Bluebaum has won six games in a row and is the sole leader with 6&frac12;/7 points. Gabriel Sargissian stands in sole second place, a half point back. | Round 8 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
+         "pubDate" : "Sun, 03 Apr 2022 14:55:00 +0100",
+         "title" : "European Individual Chess Championship (EICC), Round 8 - live"
+      },
+      {
+         "description" : " The 6 round 2022 Dubbo Open finished in a tie for first between FM Michael Kethro and Cameron McGowan. After their 4th round game ended in a draw, both had to navigate some tricky pairings over the last 2 rounds. Kethro looked to have the harder time of it, having to fight very hard against WIM Biljana Dekic in round 5, and fending off an inspired Braiden Cox in the final round. McGowan also managed to win his final two games (against WFM Kristine Quek and WFM Alana Chibnall) to leave both players on 5.5/6. In third place was rising star Lucas Ni, who only lost to Kethro, winning all his other games. There were a number of good performances by new players on the tournament scene, with unrat",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/2022-dubbo-open-kethro-and-mcgowan-tie.html",
+         "pubDate" : "Sun, 03 Apr 2022 13:40:00 +0000",
+         "title" : "2022 Dubbo Open - Kethro and McGowan tie for 1st"
+      },
+      {
+         "description" : " Game 32 of Chernev's Logical Chess Move by Move, Canal Capablanca Budapest 1929, is a strange one. A classic example, I think, of annotation by result and reputation. We'll whizz through the opening quickly to reach the crucial part of the game. 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 <a href=\"https://chessimprover.com/logical-chess-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Logical Chess (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/logical-chess-4/\">Logical Chess (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/logical-chess-4/",
+         "pubDate" : "Sun, 03 Apr 2022 13:11:42 +0000",
+         "title" : "Logical Chess (4)"
+      },
+      {
          "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the Asian country. A prize pot of $100,000 is at stake in the MPL event plus golden tickets to the elite Champions Chess Tour. Leg 1 will be a four-day rapid chess tournament running from March 31 to April 3, starting every day at 15:30 IST / 12 CEST. The time control is 15m + 10s.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1586,14 +1642,6 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Berlin Leg 3, R2: 8 Draws"
       },
       {
-         "description" : "Arena Kings returned on March 23 after a one-week hiatus as GM Jose Martinez came back from down 2-1 to defeat IM Renato Terry in an all-Peru final.&#38;nbsp;The semifinalists this week were&#38;nbsp;GM Sergey Zhigalko&#38;nbsp;and IM&#38;nbsp;Mahammad Muradli as...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/martinez-wins-arena-kings-season-9-week-7",
-         "pubDate" : "Wed, 23 Mar 2022 14:48:13 -0700",
-         "title" : "Martinez Wins Arena Kings Season 9 Week 7"
-      },
-      {
          "description" : "In his \"Weekly Show\" Lawrence Trent talks about the Charity Cup but his main focus in on the FIDE Grand Prix in Berlin and the implications for the Candidates. Lawrence analyses the big upset from round 1, the game Alexandr Predke vs Maxime Vachier-Lagrave, in which the Russian GM took apart the French maestro who completely underestimated the danger in his position. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1994,22 +2042,6 @@ news_feed (
          "title" : "I see!"
       },
       {
-         "description" : "After the successful first edition last year, the No-Castling World Masters Tournament will be expanded in Dortmund in July 2022, as former world champions Vladimir Kramnik and Viswanathan Anand will be joined by Krishnan Sasikiran and local hero Daniel Fridman. Concurrently, the Deutschland Grand Prix, the NRW Youth Cup and two opens will take place at the massive festival set to kick off four months from now.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2022-announcement",
-         "pubDate" : "Sat, 19 Mar 2022 08:00:00 +0100",
-         "title" : "No-castling chess back in Dortmund"
-      },
-      {
-         "description" : "The second event on the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Besides Magnus Carlsen, Ding Liren, Richard Rapport and women's world champion Ju Wenjun are among the participants from twelve different countries, with no Russian players involved.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/charity-cup-2022-preview",
-         "pubDate" : "Fri, 18 Mar 2022 20:00:00 +0100",
-         "title" : "Charity Cup, a UNICEF fundraiser, kicks off Saturday"
-      },
-      {
          "description" : " This week, we will take the concept of thinking three moves ahead and apply it to our original tactical position. We will spread this out over the next few weeks. The process is simple, at least on paper: Come up with three candidate move choices (three possible moves you can make) as White. You'll go <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-five/\">A Foundation for Beginners Fifty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprov",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2018,28 +2050,12 @@ news_feed (
          "title" : "A Foundation for Beginners Fifty Five"
       },
       {
-         "description" : "In Daniel King's Power Play Show the London System is under investigation - Daniel examines White's options in the opening and wonders whether it is possible to get the advantage. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-a-brilliant-attack-by-nils-grandelius-2",
-         "pubDate" : "Fri, 18 Mar 2022 19:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: The London System - under the microscope"
-      },
-      {
          "description" : " The Charity Cup is the second event of the Meltwater Champions Chess Tour of 2022. The online event is hosted by chess24 and takes place 19th to 26th March 2022. The event is a \"a fundraiser for UNICEF to support their vital humanitarian activities in and around Ukraine.\" There will be no Russian players in the event. Players: Magnus Carlsen, Ding Liren, Richard Rapport, Jan-Krzysztof Duda, Vidit Gujrathi, Pentala Harikrishna, Jorden Van Foreest, Quang Liem Le, David Navara, David Anton, Gawain Jones, Hans Moke Niemann, R Praggnanandhaa, Eric Hansen, Ju Wenjun and Lei Tingjie.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/charity-cup-2022",
          "pubDate" : "Fri, 18 Mar 2022 19:46:00 +0400",
          "title" : "Charity Cup 2022 - Games and Results"
-      },
-      {
-         "description" : "In some openings, having the isolated pawn is the path to continue to middle-, and endgames. But do you know the technique on how to play with an isolated pawn, or against it? Svitlana has the knowledge, of course, and is happy to share it with us.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-34",
-         "pubDate" : "Fri, 18 Mar 2022 15:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - How to play with, and against an isolated pawn"
       },
       {
          "description" : "",
@@ -2194,14 +2210,6 @@ news_feed (
          "title" : "EP 270- Cody Smith (Adult Improver Series) "
       },
       {
-         "description" : " &#8220;The human mind isn't a computer; it cannot progress in an orderly fashion down a list of candidate moves and rank them by a score down to the hundredth of a pawn the way a chess machine does. Even the most disciplined human mind wanders in the heat of competition&#8221; GM Garry Kasparov A more <a href=\"https://chessimprover.com/carbon-versus-silicon-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Carbon versus Silicon (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/carbon-versus-silicon-2/\">Carbon versus Silicon (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/carbon-versus-silicon-2/",
-         "pubDate" : "Tue, 15 Mar 2022 09:17:23 +0000",
-         "title" : "Carbon versus Silicon (2)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2280,14 +2288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1634",
          "pubDate" : "Sun, 13 Mar 2022 22:54:04 +0000",
          "title" : "FIDE Grand Prix: Richard Rapport triumphs in Belgrade"
-      },
-      {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the second leg of the series taking place in Belgrade on March 1-14. The new format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-2-live",
-         "pubDate" : "Sun, 13 Mar 2022 14:55:00 +0100",
-         "title" : "Belgrade Grand Prix Final - Games and results"
       }
    ]
 }
