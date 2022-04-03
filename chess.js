@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the Asian country. A prize pot of $100,000 is at stake in the MPL event plus golden tickets to the elite Champions Chess Tour. Leg 1 will be a four-day rapid chess tournament running from March 31 to April 3, starting every day at 15:30 IST / 12 CEST. The time control is 15m + 10s.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-2022-live",
+         "pubDate" : "Sun, 03 Apr 2022 12:00:00 +0100",
+         "title" : "MPL Indian Chess Tour - Live!"
+      },
+      {
+         "description" : "Ding Liren needs to paly a total of 26 classical games to qualify for the Candidates 2022. After Nakamura and Rapport qualified from the Grand Prix, only one spot remains open that of Sergey Karjakin, who was banned by&#160;FIDE for 6 months. Ding Liren has just completed 12 out of the 26 required games, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-liren-completes-12-games-of-his-candidates-quest-now-2-in-the-world-with-2811-elo/",
+         "pubDate" : "Sun, 03 Apr 2022 10:51:54 +0000",
+         "title" : "Ding Liren completes 12 games of his Candidates quest, now #2 in the world with 2811 ELO"
+      },
+      {
          "description" : "After a long theoretical debate, Wesley So and Hikaru Nakamura drew the first game in the final of the third leg of the FIDE Grand Prix Series organized by World Chess. Hikaru Nakamura will have white pieces in the second game of the mini-match. More about the FIDE Grand Prix: All about the&#xA0;FIDE Grand Prix []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -920,14 +936,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/retreat-to-advance-2",
          "pubDate" : "Tue, 29 Mar 2022 09:00:00 +0100",
          "title" : "Retreat to advance"
-      },
-      {
-         "description" : "Hikaru Nakamura&#xA0;and&#xA0;Richard Rapport&#xA0;are officially in the Candidates Chess 2022. Richard Rapport scored 20 Grand Prix points (7 points in the first leg for reaching semis + 13 points in the second for winning the event) with Belgrade GP as key event, while Hikaru has secured at least the same number (13 points in the first []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-and-richard-rapport-qualify-for-candidates-2022/",
-         "pubDate" : "Tue, 29 Mar 2022 05:04:00 +0000",
-         "title" : "Hikaru Nakamura and Richard Rapport qualify for Candidates 2022"
       },
       {
          "description" : "All results in round 6 of the Berlin Grand Prix favoured Hikaru Nakamura, as he won pool A and secured a spot in the Candidates Tournament after beating Andrey Esipenko with the black pieces. The four players who could have leapfrogged the US grandmaster in the overall standings of the series had they also reached the semis were knocked out on Monday - i.e. Levon Aronian (also from pool A), Leinier Dominguez, Maxime Vachier-Lagrave and Anish Giri. The one other player who made it to semis was Amin Tabatabaei, who got a convincing victory over Giri to win pool D. | Photos: World Chess",
@@ -2032,14 +2040,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-34",
          "pubDate" : "Fri, 18 Mar 2022 15:00:00 +0100",
          "title" : "Svitlana's Smart Moves - How to play with, and against an isolated pawn"
-      },
-      {
-         "description" : "\"First restrain, then blockade, finally destroy!\", wrote Aron Nimzowitsch almost a century ago. The art of stopping opponents pawn avalanches was so dear to him, that he dedicated a full book to it. \"Die Blockade\" was published in 1925, in the same year as \"Mein System.\" Jan Markos offers modern examples to show what to do against a phalanx of dangerous pawns. | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-8-how-to-stop-a-pawn-avalanche",
-         "pubDate" : "Fri, 18 Mar 2022 13:00:00 +0100",
-         "title" : "The Winning Academy 8: How to Stop a Pawn Avalanche"
       },
       {
          "description" : "",
