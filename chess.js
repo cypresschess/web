@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the beginning of April, the FIDE published its new ranking list. With a rating of 2864 Magnus Carlsen continues to lead the Top 100 by a wide margin - he is exactly 60 points ahead of Alireza Firouzja, who has a rating of 2804 and is officially the world's number two. Richard Rapport climbed to seventh place and now has a rating of 2776. Hou Yifan leads the women's ranking list, Firouzja is the best junior and Zhu Jiner is number one on the girl's list.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-april-2022",
+         "pubDate" : "Mon, 04 Apr 2022 13:09:45 +0100",
+         "title" : "FIDE ratings April 2022"
+      },
+      {
+         "description" : "Ilford Chess Club's President and long-time stalwart, Syd Kalinsky, has died at the age of 89. This is a great loss to the club and...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rip-syd-kalinsky/",
+         "pubDate" : "Mon, 04 Apr 2022 10:25:51 +0000",
+         "title" : "Syd Kalinsky RIP"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/G-ZUf5ywB5w?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-grand-prix-berlin-final-tie-breaks/",
+         "pubDate" : "Mon, 04 Apr 2022 10:17:10 +0000",
+         "title" : "FIDE Grand Prix Berlin: Final Tie-Breaks"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-73-pawn-chains-in-the-french-defense-2",
          "pubDate" : "Sun, 03 Apr 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 73: Pawn chains in the French Defense (2)"
-      },
-      {
-         "description" : "On Sunday, the European Individual Championship (\"EICC\") kicked off in Terme Čatež, Slovenia. German grandmaster Matthias Bluebaum has won six games in a row and is the sole leader with 6&frac12;/7 points. Gabriel Sargissian stands in sole second place, a half point back. | Round 8 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
-         "pubDate" : "Sun, 03 Apr 2022 14:55:00 +0100",
-         "title" : "European Individual Chess Championship (EICC), Round 8 - live"
       },
       {
          "description" : " The 6 round 2022 Dubbo Open finished in a tie for first between FM Michael Kethro and Cameron McGowan. After their 4th round game ended in a draw, both had to navigate some tricky pairings over the last 2 rounds. Kethro looked to have the harder time of it, having to fight very hard against WIM Biljana Dekic in round 5, and fending off an inspired Braiden Cox in the final round. McGowan also managed to win his final two games (against WFM Kristine Quek and WFM Alana Chibnall) to leave both players on 5.5/6. In third place was rising star Lucas Ni, who only lost to Kethro, winning all his other games. There were a number of good performances by new players on the tournament scene, with unrat",
@@ -1144,14 +1160,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-7-andreikin-wins",
          "pubDate" : "Mon, 28 Mar 2022 06:56:00 -0700",
          "title" : "Rapid Chess Championship Week 7: Andreikin Wins Knockout"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/-E6ZHwDjwZ8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-pools-round-6/",
-         "pubDate" : "Mon, 28 Mar 2022 13:19:03 +0000",
-         "title" : "FIDE Grand Prix in Berlin: Pools Round 6"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90497954.cms\" />Reigning national champion Arjun Erigaisi will be the star attraction at the $1,00,000 prize money MPL Indian Chess Tour, an elite online event beginning on Thursday.",
@@ -2288,14 +2296,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/rip-edward-claud-sowden/",
          "pubDate" : "Mon, 14 Mar 2022 11:50:52 +0000",
          "title" : "RIP Edward Claud Sowden"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1636",
-         "pubDate" : "Mon, 14 Mar 2022 10:55:25 +0000",
-         "title" : "Chess chosen as exhibition discipline at Mediterranean Games"
       }
    ]
 }
