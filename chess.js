@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the context of better communication between the whole European chess community and the ECU in particular, we have decided to focus in the next period on constant information of journalists who edit chess columns or report on chess via television, radio or the internet. This recording must be done in order to inform the chess friends on&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/journalists-directory/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/journalists-directory/",
+         "pubDate" : "Mon, 04 Apr 2022 06:12:17 +0000",
+         "title" : "Journalists Directory"
+      },
+      {
          "description" : "18-year-old Indian Champion Arjun Erigaisi's run of incredible results continued in the 1st leg of the MPL Indian Chess Tour as he scored +7 to clinch victory and a place not just in the MPL Indian Chess Tour final but in an upcoming stage of the Meltwater Champions Chess Tour. When asked his secret, Arjun echoed Bobby Fischer's \"I just got good\", as he stated, \"things just started going my way\". Raunak Sadhwani took second, with Gukesh and Ganguly 3rd, while Harika Dronvalli just missed out on automatic qualification for the next tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2192,14 +2200,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-webinar-for-fide-international-organizers/",
          "pubDate" : "Wed, 16 Mar 2022 10:03:50 +0000",
          "title" : "FIDE International Organisers Online Seminar with ECU"
-      },
-      {
-         "description" : "European Chess Union congratulates to its President, Mr. Zurab Azmaiparashvili on his 62nd anniversary. We wish him a day filled with joy, years full of success and all his dreams to come true! Mr. Zurab Azmaiprashvili was born in Tbilisi, Georgia on 16th March of 1960, and started a rising chess career by winning the Championship of Georgia&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-congratulates-to-its-president-mr-zurab-azmaiparashvili-on-his-birthday-anniversary/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-congratulates-to-its-president-mr-zurab-azmaiparashvili-on-his-birthday-anniversary/",
-         "pubDate" : "Wed, 16 Mar 2022 06:13:35 +0000",
-         "title" : "ECU congratulates its President Mr Zurab Azmaiparashvili on his 62nd birthday anniversary!"
       },
       {
          "description" : " The FIDE Council have confirmed Chennai as the new host city for the 2022 Chess Olympiad. The exact dates for the Olympiad have not yet been announced, but the organisers have said it will still be late July to early August, in line with the previous dates. The venue will be the Sheraton Mahabalipuram, which is about an hour south of Chennai, with teams staying in the various hotels located in that area. Exact details will be announced shortly. ",
