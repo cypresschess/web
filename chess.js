@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Arjun Erigaisi won his fourth consecutive individual tournament as he bagged the first leg of the MPL Indian Chess Tour. This was his fifth overall triumph of the year 2022. He qualified to the Tour finals and will also play at the Meltwater Champions Chess Tour. Runner-up Raunak Sadhwani scored only two draws in the 15-round event, while Gukesh and Surya Ganguly were placed third and fourth. The top eight finishers get an automatic invitation to the next leg, which is scheduled to take place in June.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arjun-erigaisi-clinches-first-leg-of-the-mpl-indian-chess-tour",
+         "pubDate" : "Mon, 04 Apr 2022 22:40:00 +0100",
+         "title" : "Arjun Erigaisi clinches victory at first leg of the MPL Indian Chess Tour"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1681",
+         "pubDate" : "Mon, 04 Apr 2022 20:04:24 +0000",
+         "title" : "Wesley So wins FIDE Grand Prix Berlin"
+      },
+      {
+         "description" : "With draws in both of the two classical games, American GMs&#38;nbsp;Hikaru Nakamura&#38;nbsp;and Wesley So&#38;nbsp;were set to decide who would win the third and final leg of the&#38;nbsp;2022 FIDE Grand Prix&#38;nbsp;in a rapid-play tiebreaker. After an intense dr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-final-tiebreaks",
+         "pubDate" : "Mon, 04 Apr 2022 12:54:00 -0700",
+         "title" : "So Wins Final: 2022 FIDE Grand Prix Berlin Leg 3, Final Tiebreaks"
+      },
+      {
          "description" : " <p class=\"lead\">Wesley So wins the third leg of the FIDE Grand Prix Series 2022, organized by World Chess; Hikaru Nakamura wins the FIDE Grand Prix Series 2022; Nakamura and Richard Rapport qualify for the FIDE Candidates Tournament to be held in Madrid later this year. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4721104082806\"> <img src=\"https://worldchess.com/news/pictures/0V8A9937.JPG\" width=\"2560\" height=\"1739\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220404154150_IMG_6133.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/0V8A9663.JPG\" width=\"2560\" height=\"1783\" alt=\"\" /> <img src=\"https://w",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -18,7 +42,7 @@ news_feed (
          "title" : "Rapid Chess Championship Week 8: Maghsoodloo Wins Swiss And Knockout"
       },
       {
-         "description" : "The Good Knight is a popular chess pub in Oslo that has received worldwide attention and is frequented by chess amateurs, grandmasters, the world chess champion and even Hollywood stars. On the new episode of The Late Knight Show the founder Kristoffer Gressli shares the inside story how it all started and how it's going.",
+         "description" : "The Good Knight is a popular chess pub in Oslo that has received worldwide attention and is frequented by chess amateurs, grandmasters, the world chess champion and even Hollywood stars. On the new episode of The Late Knight Show the founder Kristoffer Gressli shares the inside story of how it all started and how it's going.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/frequented-by-chess-fans-celebrities-worldchampion-inside-story-good-knight",
@@ -1666,14 +1690,6 @@ news_feed (
          "title" : "Fourth Chess in Education Lecturer course announced"
       },
       {
-         "description" : "The semifinals of the 2022 Charity Cup will see the matches GM Magnus Carlsen vs. GM Ding Liren and GM Le Quang Liem&#38;nbsp;vs. GM Jan-Krzysztof Duda. These four players eliminated GMs&#38;nbsp;Hans Niemann, Jorden van Foreest, David Navara, and David A...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-charity-cup-day-quarterfinals",
-         "pubDate" : "Thu, 24 Mar 2022 02:41:00 -0700",
-         "title" : "Charity Cup Day 5: Carlsen-Ding, Le-Duda In Semifinals"
-      },
-      {
          "description" : "The 7th Rapid Chess Championship of the Francophonie was organized this year on March 19 &#38; 20 jointly by the Lyon Olympique Echecs and the Francophone Chess Association (AIDEF) in partnership with the Auvergne-Rhône-Alpes Region, in the premises of the magnificent Hotel of Region. It brought together 169 participants from 13 countries, including 8 Grand Masters, 11 International&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/french-grandmaster-maxime-lagarde-wins-the-7th-francophone-rapid-chess-championship/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2040,14 +2056,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-71-open-and-half-open-files",
          "pubDate" : "Sun, 20 Mar 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 71: Open and half-open files"
-      },
-      {
-         "description" : "The first four rounds of the Charity Cup left Le Quang Liem and Hans Niemann sharing the lead on 10/12 points (a win is worth 3 points, a draw is worth 1 point). Remarkably, the 18-year-old Niemann defeated Chinese star Ding Liren in the third round. After the loss, however, Ding bounced back brilliantly, getting the better of Magnus Carlsen to end the day on 9/12, a point behind the leaders. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/charity-cup-2022-d1",
-         "pubDate" : "Sun, 20 Mar 2022 13:40:00 +0100",
-         "title" : "Charity Cup: Niemann and Le share the lead"
       },
       {
          "description" : "",
