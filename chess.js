@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Good Knight is a popular chess pub in Oslo that has received worldwide attention and is frequented by chess amateurs, grandmasters, the world chess champion and even Hollywood stars. On the new episode of The Late Knight Show the founder Kristoffer Gressli shares the inside story how it all started and how it's going.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/frequented-by-chess-fans-celebrities-worldchampion-inside-story-good-knight",
+         "pubDate" : "Mon, 04 Apr 2022 15:00:29 +0000",
+         "title" : "Frequented by chess fans, celebrities & the world champion: The inside story of The Good Knight"
+      },
+      {
+         "description" : " <p class=\"lead\">The <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022</a> came to an end with Wesley So winning the third leg in Berlin by beating Hikaru Nakamura in the finals tiebreaks with a 1.5-0.5 score. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-21.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220404150457_IMG_6118.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220404150400_IMG_6115.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/wesley-so-is-the-winner-of-the-third-leg-of-the-fide-grand-prix/",
+         "pubDate" : "Mon, 04 Apr 2022 14:55:27 +0000",
+         "title" : "Wesley So is the winner of the third leg of the FIDE Grand Prix 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1680",
+         "pubDate" : "Mon, 04 Apr 2022 14:41:45 +0000",
+         "title" : "Lajos Portisch celebrates his 85th birthday"
+      },
+      {
+         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
+         "pubDate" : "Mon, 04 Apr 2022 14:55:00 +0100",
+         "title" : "FIDE Grand Prix Final - Live!"
+      },
+      {
+         "description" : "Today, round 9 of the European Individual Championship (\"EICC\") in Terme Čatež, Slovenia, will be played. With three rounds to go German grandmaster Matthias Bluebaum leads with 7.0/8 and is half a point ahead of GM Gabriel Sargissian from Armenia and eleven players with 6.0/8 each. | Round 9 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
+         "pubDate" : "Mon, 04 Apr 2022 14:55:00 +0100",
+         "title" : "European Individual Chess Championship (EICC), Round 9 - live"
+      },
+      {
+         "description" : "Russian Grandmaster Sergey Karjakin is developing his own online chess platform. In his telegram channel, he shared, &#8220;Together with the largest Russian IT company, I am participating in the development of a chess portal! We have an excellent symbiosis between professional programmers and chess players.&#8221; Karjakin added that the portal aims to hold online competitions []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sergey-karjakin-is-developing-his-own-online-chess-platform/",
+         "pubDate" : "Mon, 04 Apr 2022 13:38:02 +0000",
+         "title" : "Sergey Karjakin is developing his own online chess platform"
+      },
+      {
+         "description" : "Hikaru Nakamura&#xA0;and&#xA0;Welsey So&#xA0;drew their second game in the final match of the third stage of the FIDE Grand Prix organised by World Chess. The winner of the event will be determined tomorrow in a tiebreaker. Hikaru Nakamura picked White for the first rapid game against Wesley So during the drawing of lots procedure. It was []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-grand-prix-final-goes-to-tiebreaks/",
+         "pubDate" : "Mon, 04 Apr 2022 13:37:57 +0000",
+         "title" : "FIDE Grand Prix final goes to tiebreaks"
+      },
+      {
          "description" : "At the beginning of April, the FIDE published its new ranking list. With a rating of 2864 Magnus Carlsen continues to lead the Top 100 by a wide margin - he is exactly 60 points ahead of Alireza Firouzja, who has a rating of 2804 and is officially the world's number two. Richard Rapport climbed to seventh place and now has a rating of 2776. Hou Yifan leads the women's ranking list, Firouzja is the best junior and Zhu Jiner is number one on the girl's list.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -914,14 +970,6 @@ news_feed (
          "title" : "Beating the Old Indian | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
-         "description" : "Wesley So&#xA0;defeated&#xA0;Sam Shankland&#xA0;in the rapid tiebreak games by a score of 1&#xBD;:&#xBD; to reach the semifinals of the third stage of the FIDE Grand Prix Series organised by World Chess in Berlin. The tiebreak games were played with the quicker time control of 15 minutes per game with an increment of 10 seconds per move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-and-mamedyarov-advance-to-fide-grand-prix-semifinals/",
-         "pubDate" : "Tue, 29 Mar 2022 21:23:01 +0000",
-         "title" : "Wesley So and Mamedyarov advance to FIDE Grand Prix semifinals"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski continues his series on building a chess plan. Learn to identify what&#039;s important. 2022.03.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/planning-ahead-chess-2-grandmasters-choice-gm-robert-hungaski-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Fk4TjItDkxk.jpg?itok=vaFSFxjZ\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -952,14 +1000,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/round-report-wesley-so-and-shakhriyar-mamedyarov-are-in-the-semi/",
          "pubDate" : "Tue, 29 Mar 2022 18:22:31 +0000",
          "title" : "Round Report: Wesley So and Shakhriyar Mamedyarov are in the semifinal!"
-      },
-      {
-         "description" : "Grandmaster and National Champion Arjun Erigaisi came up with another inspired effort and crashed through the defenses of Karthik Venkataraman to annex the 19th Delhi International open chess tournament that concluded here at the Tivoli Gardens. Starting the day in a five-way lead and having the best tiebreak, Arjun left nothing to chance as he []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arjun-erigaisi-wins-delhi-chess-open/",
-         "pubDate" : "Tue, 29 Mar 2022 18:16:32 +0000",
-         "title" : "Arjun Erigaisi wins Delhi Chess Open"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Georgiev puts himself under the microscope for Sunday Double Exclam!! lecture. Originally on Twitch<br /> 2022.03.15<br /> Evgeny Gleizerov vs Vladimir Georgiev, Turin Open (2000)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2248750\">https://www.chessgames.com/perl/chessgame?gid=2248750</a><br /> Viorel Iordachescu vs Vladimir Georgiev, Italian Team Championship (2014)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1753975\">https://www.chessgames.com/perl/chessgame?gid=1753975</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div cla",
@@ -1104,14 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1665",
          "pubDate" : "Mon, 28 Mar 2022 17:33:54 +0000",
          "title" : "Richard Rapport and Hikaru Nakamura qualify for Candidates 2022"
-      },
-      {
-         "description" : " <p class=\"lead\">After Round 6 of the third leg of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022,</a> GMs Hikaru Nakamura and Richard Rapport qualify for the 2022 Candidates Tournament <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220328150747_IMG_5223.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220211150421_IMG_1719-(1).jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photos: Pierre Adenis/World Chess</div> </div> Round 6 of the Grand Prix was more revealing than we would expect, wi",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/rapport-and-nakamura-qualify-for-the-2022-candidates-tournament/",
-         "pubDate" : "Mon, 28 Mar 2022 17:08:18 +0000",
-         "title" : "Rapport and Nakamura qualify for the 2022 Candidates Tournament"
       },
       {
          "description" : "With today&#38;rsquo;s victory in the sixth round of the&#38;nbsp;2022 FIDE Grand Prix&#39;s third leg, GM&#38;nbsp;Hikaru Nakamura&#38;nbsp;scored a hat trick and won Group A, securing a spot in the semifinals. More importantly, the American GM joined GM Richard Rap...",
@@ -1424,14 +1456,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1659",
          "pubDate" : "Sat, 26 Mar 2022 01:23:30 +0000",
          "title" : "FIDE Grand Prix Berlin - Round 4 Recap"
-      },
-      {
-         "description" : "Magnus Carlsen is close to winning a 2nd Meltwater Champions Chess Tour event in a row after scoring a 2.5:0.5 victory over Jan-Krzysztof Duda on Day 1 of the Charity Cup final. The first game was a nail-biting draw before Magnus won the next two games that he described as \"exceptionally interesting from a strategic point of view\". Duda's task now is to win Saturday's match on demand and force tiebreaks.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/charity-cup-final-1-carlsen-leads-after-exceptionally-interesting-games",
-         "pubDate" : "Sat, 26 Mar 2022 00:37:54 +0000",
-         "title" : "Charity Cup Final 1: Carlsen leads after \"exceptionally interesting\" games"
       },
       {
          "description" : "",
@@ -2074,14 +2098,6 @@ news_feed (
          "title" : "National Design Contest for Olympiad 2022"
       },
       {
-         "description" : "The task regarding the diagrammed position is plain and simple: \"White to play and win\". Your call!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/i-see",
-         "pubDate" : "Sat, 19 Mar 2022 09:00:00 +0100",
-         "title" : "I see!"
-      },
-      {
          "description" : " This week, we will take the concept of thinking three moves ahead and apply it to our original tactical position. We will spread this out over the next few weeks. The process is simple, at least on paper: Come up with three candidate move choices (three possible moves you can make) as White. You'll go <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-five/\">A Foundation for Beginners Fifty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprov",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2264,38 +2280,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/03/14/promoting-to-a-black-chess-queen/",
          "pubDate" : "Mon, 14 Mar 2022 17:16:57 +0000",
          "title" : "Promoting to a Black Chess Queen"
-      },
-      {
-         "description" : "Cobicistat is a drug that was originally devised for HIV/AIDS therapy. Now a new study shows that it can inhibit the replication of SARS-CoV-2 - which would mean we could have a powerful therapeutical drug against Covid-19. Very encouraging news - but why are we reporting this on a chess news page? Because one of the virologists working on the project happens to be a chess grandmaster. Here's his story. | Photos Lara Gallucci.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/can-a-chess-grandmaster-save-the-world-2",
-         "pubDate" : "Mon, 14 Mar 2022 15:00:00 +0100",
-         "title" : "Can a chess grandmaster save the world?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1635",
-         "pubDate" : "Mon, 14 Mar 2022 13:48:16 +0000",
-         "title" : "Winners of FIDE Grand Prix crowned in Belgrade"
-      },
-      {
-         "description" : " Miles Patterson (ACT) has won the 2022 Tasmanian Championship Tournament, but not the Tasmanian Championship. Although the tournament is an open event, the state champion title is restricted to local residents. In this case Kevin Bonham and Wynand-Jack Pretorius tied for the title, after finishing equal second. The tournament itself suffered a degree of drama after one of the players had to withdraw on the final morning after testing positive to Covid. A couple of close contacts had to also go into isolation, while a few other players (including the tournament leader) withdrew out of health concerns. The win for Patterson repeats his success from last year, where he also finished outright 1",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/2022-tasmanian-championship.html",
-         "pubDate" : "Mon, 14 Mar 2022 11:57:00 +0000",
-         "title" : "2022 Tasmanian Championship"
-      },
-      {
-         "description" : "I am writing to advise you that my father, Edward Claud Sowden, passed away on the 13th February 2022 aged 85 years after a short...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rip-edward-claud-sowden/",
-         "pubDate" : "Mon, 14 Mar 2022 11:50:52 +0000",
-         "title" : "RIP Edward Claud Sowden"
       }
    ]
 }
