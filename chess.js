@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "18-year-old Indian Champion Arjun Erigaisi's run of incredible results continued in the 1st leg of the MPL Indian Chess Tour as he scored +7 to clinch victory and a place not just in the MPL Indian Chess Tour final but in an upcoming stage of the Meltwater Champions Chess Tour. When asked his secret, Arjun echoed Bobby Fischer's \"I just got good\", as he stated, \"things just started going my way\". Raunak Sadhwani took second, with Gukesh and Ganguly 3rd, while Harika Dronvalli just missed out on automatic qualification for the next tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/arjun-erigaisi-wins-1st-leg-of-mpl-indian-chess-tour",
+         "pubDate" : "Mon, 04 Apr 2022 01:08:35 +0000",
+         "title" : "Arjun Erigaisi wins 1st leg of MPL Indian Chess Tour"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -39,7 +47,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-final-day-2",
          "pubDate" : "Sun, 03 Apr 2022 08:06:00 -0700",
-         "title" : "Quick Draw On Sunday, Tiebreaker Next: 2022 FIDE Grand Prix Berlin Leg 3, Final Day 2"
+         "title" : "Tiebreaks Reached: 2022 FIDE Grand Prix Berlin Leg 3, Final Day 2"
       },
       {
          "description" : "It can be confusing when the opponent's pieces don't go where you were expecting them to go. After looking at a couple of games from the recent Grand Prix by Amin Tabatabaei, Jon Speelman decided to write about unexpected defensive moves! | Pictured: Murray Chandler, Jonathan Speelman and Jonathan Mestel at the British Zonal in February 1987",
@@ -1440,14 +1448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-a-trendy-gambit-in-the-giuoco-piano",
          "pubDate" : "Fri, 25 Mar 2022 19:50:00 +0100",
          "title" : "Daniel King's Power Play Show: A trendy gambit in the Giuoco Piano"
-      },
-      {
-         "description" : "In this post, guest writer Alex Crompton shares how he increased his rating from 300 to 1500 points in just 9 months, starting from complete beginner level as an adult.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/from-300-to-1500-in-9-months",
-         "pubDate" : "Fri, 25 Mar 2022 17:21:09 +0000",
-         "title" : "How I went from 300-1500 in 9 months"
       },
       {
          "description" : "",
