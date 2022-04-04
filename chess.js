@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1679",
+         "pubDate" : "Mon, 04 Apr 2022 09:18:25 +0000",
+         "title" : "FIDE announces World Senior Team Championship 50+ and 65+"
+      },
+      {
          "description" : "In the context of better communication between the whole European chess community and the ECU in particular, we have decided to focus in the next period on constant information of journalists who edit chess columns or report on chess via television, radio or the internet. This recording must be done in order to inform the chess friends on&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/journalists-directory/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2288,14 +2296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1636",
          "pubDate" : "Mon, 14 Mar 2022 10:55:25 +0000",
          "title" : "Chess chosen as exhibition discipline at Mediterranean Games"
-      },
-      {
-         "description" : "On the 26th and 27th of February, the English Chess Federation's Director of Women's Chess, Agnieszka Milewska, travelled to Monaco to represent England in the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-chess-womens-gala/",
-         "pubDate" : "Mon, 14 Mar 2022 09:13:26 +0000",
-         "title" : "European Chess Women's Gala"
       }
    ]
 }
