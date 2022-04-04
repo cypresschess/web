@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Wesley So wins the third leg of the FIDE Grand Prix Series 2022, organized by World Chess; Hikaru Nakamura wins the FIDE Grand Prix Series 2022; Nakamura and Richard Rapport qualify for the FIDE Candidates Tournament to be held in Madrid later this year. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4721104082806\"> <img src=\"https://worldchess.com/news/pictures/0V8A9937.JPG\" width=\"2560\" height=\"1739\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220404154150_IMG_6133.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/0V8A9663.JPG\" width=\"2560\" height=\"1783\" alt=\"\" /> <img src=\"https://w",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/hikaru-nakamura-triumphs-in-berlin/",
+         "pubDate" : "Mon, 04 Apr 2022 16:49:20 +0000",
+         "title" : "Hikaru Nakamura Triumphs in Berlin"
+      },
+      {
+         "description" : "GM Parham Maghsoodloo was the winner of the eighth week of the&#38;nbsp;2022 Rapid Chess Championship tournament presented by Coinbase, emerging victorious from an action-packed final against GM Jeffery Xiong. Maghsoodloo was also able to top the Sw...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-8-maghsoodloo-wins",
+         "pubDate" : "Mon, 04 Apr 2022 08:55:00 -0700",
+         "title" : "Rapid Chess Championship Week 8: Maghsoodloo Wins Swiss And Knockout"
+      },
+      {
          "description" : "The Good Knight is a popular chess pub in Oslo that has received worldwide attention and is frequented by chess amateurs, grandmasters, the world chess champion and even Hollywood stars. On the new episode of The Late Knight Show the founder Kristoffer Gressli shares the inside story how it all started and how it's going.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1122,14 +1138,6 @@ news_feed (
          "title" : "Nakamura and Rapport qualify for the Candidates"
       },
       {
-         "description" : " <p class=\"lead\">Richard Rapport scored 20 Grand Prix points (7 points in the first leg for reaching semis + 13 points in the second for winning the event), while Hikaru has secured at least the same number (13 points in the first leg for winning the event + at least 7 points in the third leg for advancing into semis). <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220328183255_IMG_5339.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> In the last and decisive round of the pool stage of the FIDE Grand Prix organized by World Chess Hikaru Nakamura defeated Andrey Esipenko and became the winner of Pool A. He p",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/hikaru-nakamura-and-richard-rapport-are-officially-in-the-candid/",
-         "pubDate" : "Mon, 28 Mar 2022 19:14:52 +0000",
-         "title" : "Hikaru Nakamura and Richard Rapport are officially in the Candidates!"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about the tactical motif known as the pin, and shows how powerful this double-edged tactic can be when played by grandmasters. Originally on Twitch<br /> 2022.03.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pin-mightier-sword-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9kwwlYcfBLI.jpg?itok=EmshIY2G\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1698,14 +1706,6 @@ news_feed (
          "title" : "FIDE Grand Prix Berlin - Round 2 Recap"
       },
       {
-         "description" : "The second round of the third and final leg of the 2022 FIDE Grand Prix&#38;nbsp;saw no decisive games. Each group continues to have a clear leader, with GMs Levon Aronian, Leinier Dominguez Perez, Alexandr Predke, and Nikita Vitiugov all leading thei...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-round-2",
-         "pubDate" : "Wed, 23 Mar 2022 15:37:00 -0700",
-         "title" : "2022 FIDE Grand Prix Berlin Leg 3, R2: 8 Draws"
-      },
-      {
          "description" : "In his \"Weekly Show\" Lawrence Trent talks about the Charity Cup but his main focus in on the FIDE Grand Prix in Berlin and the implications for the Candidates. Lawrence analyses the big upset from round 1, the game Alexandr Predke vs Maxime Vachier-Lagrave, in which the Russian GM took apart the French maestro who completely underestimated the danger in his position. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2272,14 +2272,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-grand-prix-leg-2-belgrade-2022",
          "pubDate" : "Tue, 15 Mar 2022 10:38:00 +0400",
          "title" : "FIDE Grand Prix Leg 2 Belgrade 2022 - Games and Results"
-      },
-      {
-         "description" : " In 2010, I wrote an article titled &#8220;Baraka Shabazz: Black Queen of Chess.&#8221; Seven years later came &#8220;Revisiting Baraka Shabazz,&#8221; in which I cited the brutally candid 1988 article titled \"Ex-Queen's Gambit.\" That article was long before the &#8220;Queen's Gambit&#8221; miniseries but had some eerily similar themes. While the series highlighted the rise of Beth [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/14/promoting-to-a-black-chess-queen/\">Promoting to a Black Chess Queen</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/03/14/promoting-to-a-black-chess-queen/",
-         "pubDate" : "Mon, 14 Mar 2022 17:16:57 +0000",
-         "title" : "Promoting to a Black Chess Queen"
       }
    ]
 }
