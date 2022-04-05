@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With a 1&frac12;-&frac12; victory in Monday's rapid tiebreakers, Wesley So became the winner of the FIDE Grand Prix's third leg in Berlin. So beat Hikaru Nakamura with the white pieces in game 2 of the playoff to take home €24,000 in prize money and finish the series in third place overall. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-f3",
+         "pubDate" : "Tue, 05 Apr 2022 15:15:00 +0100",
+         "title" : "So beats Nakamura, wins Berlin Grand Prix"
+      },
+      {
+         "description" : "On Chess24.com on Sunday April 10th at 10.00am, with ECF Director of Women's Chess Agnieszka Milewska click here",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/women-in-chess-global-exchange-forum/",
+         "pubDate" : "Tue, 05 Apr 2022 14:14:02 +0000",
+         "title" : "Women in Chess Global Exchange Forum"
+      },
+      {
+         "description" : "In what has become an annual&#38;nbsp;24-hour charity chess marathon organized by the&#38;nbsp;English Chess Federation, the British Red Cross&#38;nbsp;Disasters Emergency Committee (DEC) raised over&#38;nbsp;&#38;pound;18,000 ($23,636) last weekend for its Ukraine c...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/24-hour-ecf-chess-marathon-raises-over-ps18-000-for-red-cross-support-of-ukraine",
+         "pubDate" : "Tue, 05 Apr 2022 06:55:00 -0700",
+         "title" : "24-Hour ECF Chess Marathon Raises Over &pound;18,000 For Red Cross Support Of Ukraine"
+      },
+      {
+         "description" : "Today, round 10 of the European Individual Championship (\"EICC\") in Terme Čatež, Slovenia, will be played. With two rounds to go German grandmaster Matthias Bluebaum leads with 7.5/9 and is half a point ahead of three players - IM Abdulla Gadimbayli, GM Gabriel Sargissian and GM Maxime Lagarde - who all have 7.0/9. | Round 10 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
+         "pubDate" : "Tue, 05 Apr 2022 14:55:00 +0100",
+         "title" : "European Individual Chess Championship (EICC), Round 10 - live"
+      },
+      {
+         "description" : " I have decided to have one of my sporadic attempts at studying chess (properly) again. My target is Rook and Pawn endings, not only because I need to improve in this area, but also because I need to improve how I study. Famously Capablanca studied and understood over 1000 Rook and Pawn positions, and while I doubt I will get to that number, understanding the key positions can't hurt. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/the-joy-of-study.html",
+         "pubDate" : "Tue, 05 Apr 2022 13:31:00 +0000",
+         "title" : "The joy of study"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/574ee51c-0c80-44eb-8c61-fbc76ac79e13/Johansn.jpg\" data-image-dimensions=\"1728x820\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"624c407dfe3ab95bc7bb040d\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/574ee51c-0c80-44eb-8c61-fbc76ac79e13/Johansn.jpg?format=1000w\" /> </figure> <p class=\"\">My guest this week is renowned trainer, author, and 2006 Swedish National Champion, GM Johan Hellsten. Johan is best known for his excellent book/Chessable course, <a href=\"ht",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/4/5/ep-273-ep-273-gm-johan-hellsten-on-chess-improvement-the-origins-of-his-excellent-books-and-his-favorite-otb-memories",
+         "pubDate" : "Tue, 05 Apr 2022 13:19:08 +0000",
+         "title" : "EP 273- EP 273- GM Johan Hellsten on Chess Improvement, the Inspirations for his \"Mastering Chess\" Book Series, and his favorite OTB Memories "
+      },
+      {
+         "description" : "In his Endgame Magic Show #189 Karsten M&uuml;ller talks with Elisabeth P&auml;htz about the endgame. Elisabeth, World Junior Girls Champion in 2005, European Women's Rapid Champion in 2018, and currently number 13 on the women's ranking list, has an active style, and this also shows in her endgames, e.g. in an entertaining game against Zhansaya Abdumalik at the Online-FIDE-Steinitz-Memorial 2020. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-show-189-with-elisabeth-paehtz",
+         "pubDate" : "Tue, 05 Apr 2022 14:00:00 +0100",
+         "title" : "Endgame Magic Show #189 with Elisabeth P&auml;htz"
+      },
+      {
+         "description" : "Magnus Carlsen has broken his silence and weighed in on FIDE's ban of Sergey Karjakin for the first time. The World Champion thinks the controversial Russian wants to become a \"martyr\", says he strongly disagrees with his Russian rival, but is unsure whether it was correct to ban him from chess competitions and strip him of a spot in the Candidates.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-on-karjakin-these-types-of-attitudes-can-t-be-accepted",
+         "pubDate" : "Tue, 05 Apr 2022 12:37:08 +0000",
+         "title" : "Carlsen on Karjakin: \"These types of attitudes can't be accepted\""
+      },
+      {
+         "description" : "The Superfinal for the highest title in computer chess starts today at 17:00 UTC and you can follow it live at the official site and TCEC Twitch TV. The TCEC S22 Superfinal will be 100 games match between the reigning champion Stockfish and the challenger KomodoDragon. The opening book is created by Jeroen Noomen and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tcec-s22-superfinal-starts-today/",
+         "pubDate" : "Tue, 05 Apr 2022 11:42:30 +0000",
+         "title" : "TCEC S22 Superfinal starts today"
+      },
+      {
          "description" : "Magnus Carlsen has commented the situation with&#xA0;FIDE's 6 months ban on Karjakin. The World Champion is unsure whether it was right to exclude Karjakin from all competitions under the auspices of FIDE. More on Sergey Karjakin&#x2019;s case:&#xA0;Karjakin ban by FIDE announced&#xA0;/&#xA0;Karjakin posts comments on the ban, decides not to appeal, but&#xA0;Kremlin supports Karjakin&#xA0;/ Top players []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -143,7 +215,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
          "pubDate" : "Mon, 04 Apr 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix Final - Live!"
+         "title" : "FIDE Grand Prix Final - Games and results"
       },
       {
          "description" : "Russian Grandmaster Sergey Karjakin is developing his own online chess platform. In his telegram channel, he shared, &#8220;Together with the largest Russian IT company, I am participating in the development of a chess portal! We have an excellent symbiosis between professional programmers and chess players.&#8221; Karjakin added that the portal aims to hold online competitions []",
@@ -279,7 +351,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-2022-live",
          "pubDate" : "Sun, 03 Apr 2022 12:00:00 +0100",
-         "title" : "MPL Indian Chess Tour - Live!"
+         "title" : "MPL Indian Chess Tour - Games and results"
       },
       {
          "description" : "Ding Liren needs to paly a total of 26 classical games to qualify for the Candidates 2022. After Nakamura and Rapport qualified from the Grand Prix, only one spot remains open that of Sergey Karjakin, who was banned by&#160;FIDE for 6 months. Ding Liren has just completed 12 out of the 26 required games, []",
@@ -832,14 +904,6 @@ news_feed (
          "link" : "https://chessimprover.com/master-chess-web-show-7/",
          "pubDate" : "Thu, 31 Mar 2022 08:22:39 +0000",
          "title" : "Master Chess Web Show (7)"
-      },
-      {
-         "description" : "The 3rd edition of the Gujarat International GrandMaster Chess Open is going to take place March 31 April 7 in Karnavati Club, S.G.Highway, Ahmedabad. A total of 377 players of which 60 titled are going to participate. Top seeded are GM Neuris Delgado Ramirez, GM Boris Savchenko, GM Stany, and GM Bharathakoti Harsha. This []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gujarat-chess-open-2022-with-377-players/",
-         "pubDate" : "Thu, 31 Mar 2022 08:00:00 +0000",
-         "title" : "Gujarat Chess Open 2022 with 377 players"
       },
       {
          "description" : " From the publishers' blurb: &#8220;The revolutionary Wilhelm Steinitz (1836-1900) considered himself to be in the vanguard of an emerging, late-19th century 'Modern' school, which embraced a new, essentially scientific vitality in its methods of research, analysis, evaluation, planning, experiment and even belligerent fight. Steinitz, who dominated the chess world in the shadow of a more <a href=\"http://britishchessnews.com/2022/03/31/modern-chess-from-steinitz-to-the-21st-century/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Modern Chess- From Steinitz to the 21st Century</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britis",
@@ -1418,14 +1482,6 @@ news_feed (
          "title" : "Carlsen Wins 2022 Charity Cup"
       },
       {
-         "description" : "Magnus Carlsen made it two Meltwater Champions Chess Tour events, two victories, as he won the Charity Cup, but his overriding emotion was \"huge relief\" after withstanding a comeback by Jan-Krzysztof Duda. Magnus won a brilliant first game of the final day and was a move or two away from clinching the title with two games to spare, but one blunder and Duda stormed back to win two games in a row. Magnus was rocking, but he composed himself to win the blitz playoff 2:0 and take the trophy. Meanwhile over $150,000 was raised for Unicef's work in and around Ukraine.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-wins-charity-cup-after-duda-fightback",
-         "pubDate" : "Sun, 27 Mar 2022 02:15:15 +0000",
-         "title" : "Carlsen wins Charity Cup after Duda fightback"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1664,14 +1720,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r3",
          "pubDate" : "Fri, 25 Mar 2022 05:30:00 +0100",
          "title" : "Berlin GP: Keymer outplays Dubov"
-      },
-      {
-         "description" : "The third round of leg three of the 2022 FIDE Grand Prix&#38;nbsp;produced only one decisive game. With today&#38;rsquo;s win, GM Vincent Keymer joins GM Leinier Dominguez Perez in the lead in Group B. All the other games ended in draws and so the other g...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-round-3",
-         "pubDate" : "Thu, 24 Mar 2022 19:32:00 -0700",
-         "title" : "2022 FIDE Grand Prix Berlin Leg 3, R3: Keymer Wins, Nakamura Escapes"
       },
       {
          "description" : "",
@@ -2026,14 +2074,6 @@ news_feed (
          "title" : "FIDE Candidates 2022 venue and schedule announced"
       },
       {
-         "description" : "Le Quang Liem is the sole leader of the Charity Cup preliminaries after eight rounds. The Vietnamese grandmaster won six out of eight games so far to go into day 3 with an unbeaten 20/24 score. A full four points behind stand Magnus Carlsen and Jan-Krzysztof Duda in shared second place. The single round-robin continues until Tuesday, when half the participants in the 16-player field will move on to the knockout stage. | Photo: Andreas Kontokanis",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/charity-cup-2022-d2",
-         "pubDate" : "Mon, 21 Mar 2022 12:40:00 +0100",
-         "title" : "Charity Cup: Le leads, Pragg impresses"
-      },
-      {
          "description" : "Teams desirous to participate in the National Team Chess Championship are requested to make the necessary payment of Rs. 3750/Rs. 6250 as the case may",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2048,14 +2088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1652",
          "pubDate" : "Mon, 21 Mar 2022 10:15:49 +0000",
          "title" : "Geir Nesheim, new Chair of the Social Commission"
-      },
-      {
-         "description" : "Actively participate in some tactics training again! This time we concentrate on the process of solving tactics, and how to use your pattern recognition to conquer interesting puzzles. Lawrence chose two examples, played in Moscow and Leningrad. In the ChessBase tactics training, we solve one of the most beautiful tactics.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-17",
-         "pubDate" : "Mon, 21 Mar 2022 10:15:43 +0100",
-         "title" : "Trent's Tactics - Russian tactics from 1924 and 1940"
       },
       {
          "description" : "The ECF Directors at their recent Board meeting agreed that the ECF will until further notice offer free ECF membership to all Ukrainians with a...",
@@ -2080,14 +2112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1647",
          "pubDate" : "Sun, 20 Mar 2022 18:13:40 +0000",
          "title" : "FFE acquires \"delegation\" status in France"
-      },
-      {
-         "description" : "Jon Speelman worked as commentator at this year's edition of the long-standing Varsity Match between Oxford and Cambridge Universities. Looking at the games alongside computer-chess expert Matthew Sadler prompted him to reflect on the value of using engines for chess improvement and preparation. | Pictured: The Oxford team - Victor Vasiesiu, Tom O'Gorman, Daniel Karim Abbas, Daniel Sutton, 0Dominic Miller, Filip Mihov, AkShaya Kalaiyalahan, Max French. | Photo: John Saunders",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-166",
-         "pubDate" : "Sun, 20 Mar 2022 17:30:00 +0100",
-         "title" : "A tale of two universities and two engines"
       },
       {
          "description" : "",
@@ -2272,14 +2296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1637",
          "pubDate" : "Tue, 15 Mar 2022 19:59:16 +0000",
          "title" : "Chennai to host the 2022 Chess Olympiad"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/80d97f78-021f-49e1-9572-8f13af8bc6c8/CLSMith.jpg\" data-image-dimensions=\"260x260\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6230a96183f79c70896970b3\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/80d97f78-021f-49e1-9572-8f13af8bc6c8/CLSMith.jpg?format=1000w\" /> </figure> <p class=\"\">Cody Smith is a 31 year old Alabama-<a href=\"https://lichess.org/@/CLSmith15\" target=\"_blank\"> Twitch streamer</a>,<strong> </strong>and chess instructor.<strong> </strong> <p ",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/15/ep-270-cody-smith-adult-improver-series",
-         "pubDate" : "Tue, 15 Mar 2022 14:59:21 +0000",
-         "title" : "EP 270- Cody Smith (Adult Improver Series) "
       }
    ]
 }
