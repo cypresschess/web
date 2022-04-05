@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The diagrammed position is tricky: Black is two dangerous passed pawns up but it is White to move and the rook on h7 is hanging. Now, should White take the rook or look for something better to save the draw?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-tactics-3",
+         "pubDate" : "Tue, 05 Apr 2022 09:00:00 +0100",
+         "title" : "Endgame tactics"
+      },
+      {
          "description" : "Arjun Erigaisi won his fourth consecutive individual tournament as he bagged the first leg of the MPL Indian Chess Tour. This was his fifth overall triumph of the year 2022. He qualified to the Tour finals and will also play at the Meltwater Champions Chess Tour. Runner-up Raunak Sadhwani scored only two draws in the 15-round event, while Gukesh and Surya Ganguly were placed third and fourth. The top eight finishers get an automatic invitation to the next leg, which is scheduled to take place in June.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2042,14 +2050,6 @@ news_feed (
          "title" : "A tale of two universities and two engines"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 71st instalment of his ChessBase show \"Understanding before Moving\", Herman talks about open and half-open files. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-71-open-and-half-open-files",
-         "pubDate" : "Sun, 20 Mar 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 71: Open and half-open files"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2264,14 +2264,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-charity-marathon-for-ukraine/",
          "pubDate" : "Tue, 15 Mar 2022 09:06:12 +0000",
          "title" : "Charity Marathon for Ukraine"
-      },
-      {
-         "description" : " The FIDE Grand Prix Leg 2 took place in Belgrade Tuesday 1st to Monday 14th Mar 2022. There are group stages 4 players 6 rounds, the winners of each group then play the knockout phase. Players: Grischuk, Andreikin, Shankland, Bacrot, Rapport, Vidit, Fedoseev, Shirov, Giri, Vitiugov, Harikrishna, Tabatabaei, Mamedyarov, MVL, Yu Yangyi and Predke. This is the second of three such events. Nakamura won the first, the final leg is back in Berlin Mon 21st Mar to Mon 4th Apr 2022. Richard Rapport beat Dmitry Andreikin in the final to all but confirm a Candidates place. He reached the semifinals in the first event and will have to wait on the results of the final leg.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-prix-leg-2-belgrade-2022",
-         "pubDate" : "Tue, 15 Mar 2022 10:38:00 +0400",
-         "title" : "FIDE Grand Prix Leg 2 Belgrade 2022 - Games and Results"
       }
    ]
 }
