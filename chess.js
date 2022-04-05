@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Since it is likely that Sergey Karjakin will not play in the upcoming Candidates Tournament - his six-month ban is still pending a potential appeal - the spot left behind by the Russian will be filled by the highest-rated, eligible player in FIDE's ranking list published on May 1. Ding Liren is the clear frontrunner in this race, but he only played 4 games since June 2021, with the regulations stipulating that a minimum of 30 games are needed to be eligible. Ding is quickly making up for lost ground, as three events have been organized in China to get him to play the 26 games needed by the end of the month. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ding-liren-wins-quadruple-round-robin-hangzhou",
+         "pubDate" : "Tue, 05 Apr 2022 23:30:00 +0100",
+         "title" : "Ding Liren wins quadruple round-robin in Hangzhou"
+      },
+      {
          "description" : "US Chess Champion Wesley So defeated Hikaru Nakamura in tiebreaks to win the final event of the 2022 FIDE Grand Prix and finish in 3rd place in the overall standings. Wesley needed just two rapid games to clinch the title, with the rollercoaster first game ending in a draw before Hikaru blundered a piece in a difficult position in the second. Hikaru noted he'd lost all interest in the event since achieving the main goal of qualifying for the Candidates Tournament, while Wesley talked about his World Championship chances after Magnus retires.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2002,14 +2010,6 @@ news_feed (
          "title" : "Karsten M&uuml;ller's Endgame Magic Show #186: Highlights from the German Bundesliga"
       },
       {
-         "description" : "In reaction to public statements made by Sergey Karjakin about the war in Ukraine, the FIDE and Ethics and Disciplinary Commission banned Karjakin for six months \"from participating as a player in any FIDE rated chess competition, taking effect from the date of this decision, 21 March 2022.\" Therefore, Karjakin will not be able to play in the Candidates Tournament that is scheduled to take place from 16 June to 7 July in Madrid, Spain. Grandmaster Sergei Shipov, who regularly works as a commentator, was not banned by FIDE for his statements about the war because \"in comparison with Sergey Karjakin, Sergei Shipov is considerably less known and has, therefore, a less powerful platform.\" | Pict",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ethics-imposes-a-six-month-ban-on-karjakin",
-         "pubDate" : "Mon, 21 Mar 2022 17:33:54 +0100",
-         "title" : "FIDE Ethics imposes a six-month ban on Karjakin"
-      },
-      {
          "description" : "European Youth Team Chess Championships 2022 will take place from 11 July (arrivals) to 19 July (departures) in the Conference Hall of the 5 stars Lazart Hotel in Thessaloniki which will host also the European Rapid and Blitz Chess Championship 2022 from 19 July to 23 July 2022. The European Youth Team Chess Championships (EYTCC) will include four&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-team-and-european-youth-rapid-blitz-chess-championships-2022-official-invitation/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2280,22 +2280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1638",
          "pubDate" : "Wed, 16 Mar 2022 10:11:35 +0000",
          "title" : "Russia and Belarus teams suspended from FIDE competitions"
-      },
-      {
-         "description" : " The FIDE Council have confirmed Chennai as the new host city for the 2022 Chess Olympiad. The exact dates for the Olympiad have not yet been announced, but the organisers have said it will still be late July to early August, in line with the previous dates. The venue will be the Sheraton Mahabalipuram, which is about an hour south of Chennai, with teams staying in the various hotels located in that area. Exact details will be announced shortly. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/olympiad-venue-confirmed.html",
-         "pubDate" : "Tue, 15 Mar 2022 21:21:00 +0000",
-         "title" : "Olympiad Venue Confirmed"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1637",
-         "pubDate" : "Tue, 15 Mar 2022 19:59:16 +0000",
-         "title" : "Chennai to host the 2022 Chess Olympiad"
       }
    ]
 }
