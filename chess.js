@@ -106,14 +106,6 @@ news_feed (
          "title" : "FIDE ratings April 2022"
       },
       {
-         "description" : "Ilford Chess Club's President and long-time stalwart, Syd Kalinsky, has died at the age of 89. This is a great loss to the club and...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rip-syd-kalinsky/",
-         "pubDate" : "Mon, 04 Apr 2022 10:25:51 +0000",
-         "title" : "Syd Kalinsky RIP"
-      },
-      {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/G-ZUf5ywB5w?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
