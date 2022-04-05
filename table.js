@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2022-04-03","4","<a href=http://www.uschess.org/msa/XtblMain.php?202204033392 target='_blank'>APRIL 3RD  SUNDAY SWISS</a>",
 "HOUSTON","2022-04-02","19","<a href=http://www.uschess.org/msa/XtblMain.php?202204021952 target='_blank'>3 ROUND SATURDAY SWISS (AN INDIVIDU</a>",
 "SPRING","2022-04-01","16","<a href=http://www.uschess.org/msa/XtblMain.php?202204011402 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-04-01","23","<a href=http://www.uschess.org/msa/XtblMain.php?202204011292 target='_blank'>TES</a>",
@@ -198,5 +199,4 @@ jtable([
 "CYPRESS","2021-05-21","10","<a href=http://www.uschess.org/msa/XtblMain.php?202105211062 target='_blank'>KOC</a>",
 "LEAGUE CITY","2021-05-15","24","<a href=http://www.uschess.org/msa/XtblMain.php?202105159272 target='_blank'>2021 TEXAS SCHOLASTIC INVITATIONALS</a>",
 "SPRING","2021-05-15","8","<a href=http://www.uschess.org/msa/XtblMain.php?202105157742 target='_blank'>DER SPRINGERS</a>",
-"KATY","2021-05-15","13","<a href=http://www.uschess.org/msa/XtblMain.php?202105152522 target='_blank'>SR HESSKNIGHTS 5152021</a>",
 ]);
