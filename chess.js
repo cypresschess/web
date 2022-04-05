@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "US Chess Champion Wesley So defeated Hikaru Nakamura in tiebreaks to win the final event of the 2022 FIDE Grand Prix and finish in 3rd place in the overall standings. Wesley needed just two rapid games to clinch the title, with the rollercoaster first game ending in a draw before Hikaru blundered a piece in a difficult position in the second. Hikaru noted he'd lost all interest in the event since achieving the main goal of qualifying for the Candidates Tournament, while Wesley talked about his World Championship chances after Magnus retires.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/wesley-so-clinches-final-grand-prix-victory",
+         "pubDate" : "Tue, 05 Apr 2022 19:21:05 +0000",
+         "title" : "Wesley So clinches final Grand Prix victory"
+      },
+      {
          "description" : "With a 1&frac12;-&frac12; victory in Monday's rapid tiebreakers, Wesley So became the winner of the FIDE Grand Prix's third leg in Berlin. So beat Hikaru Nakamura with the white pieces in game 2 of the playoff to take home €24,000 in prize money and finish the series in third place overall. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1464,14 +1472,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1662",
          "pubDate" : "Sun, 27 Mar 2022 13:00:22 +0000",
          "title" : "'Huge relief' for Carlsen as champ survived Duda's spirited comeback to win Charity Cup"
-      },
-      {
-         "description" : "Hikaru Nakamura, Maxime Vachier-Lagrave and Amin Tabatabaei hit back in Round 4 after losing to Levon Aronian, Alexandr Predke and Nikita Vitiugov in Round 1 of the final leg of the FIDE Grand Prix. That left two groups with all four players locked together on 2/2, Mamedyarov and Leinier Dominguez in the lead in Pool B, and Grigoriy Oparin the shock sole leader in Pool A after favourites Levon and Hikaru traded blows.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-strikes-back-in-the-fide-grand-prix",
-         "pubDate" : "Sun, 27 Mar 2022 12:02:05 +0000",
-         "title" : "Nakamura strikes back in the FIDE Grand Prix"
       },
       {
          "description" : "GM Magnus Carlsen&#38;nbsp;won the 2022 Charity Cup&#38;nbsp;on Saturday after beating GM Jan-Krzysztof Duda&#38;nbsp;in a playoff, necessary as the Polish grandmaster won the second regular match. Having won the Airthings Masters, this tournament is the&#38;nb...",
