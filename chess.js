@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen has commented the situation with&#xA0;FIDE's 6 months ban on Karjakin. The World Champion is unsure whether it was right to exclude Karjakin from all competitions under the auspices of FIDE. More on Sergey Karjakin&#x2019;s case:&#xA0;Karjakin ban by FIDE announced&#xA0;/&#xA0;Karjakin posts comments on the ban, decides not to appeal, but&#xA0;Kremlin supports Karjakin&#xA0;/ Top players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-is-unsure-sergey-karjakins-ban-was-right-says-it-sets-a-precedent-in-chess/",
+         "pubDate" : "Tue, 05 Apr 2022 11:13:55 +0000",
+         "title" : "Magnus Carlsen is unsure Sergey Karjakin's ban was right, says it sets a precedent in chess"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #509, Merijn van Delft shows how Hikaru Nakamura won against Andrey Esipenko in the final round of the preliminaries at the FIDE Grand Prix in Berlin - it was an interesting, tense fighting game and winning it guaranteed Nakamura a place in the Candidates. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-509-esipenko-vs-nakamura",
+         "pubDate" : "Tue, 05 Apr 2022 11:12:41 +0100",
+         "title" : "Game of the Week #509: Esipenko vs Nakamura"
+      },
+      {
+         "description" : "The last battle of the entire 2022 FIDE Grand Prix series organised by World Chess has finished on the 4th of April. In the final match tiebreaker,&#xA0;Wesley So&#xA0;outplayed&#xA0;Hikaru Nakamura&#xA0;by a score of 1&#xBD;:&#xBD; and won the third leg&#xA0;of the Grand Prix in Berlin. The tournament winner and the runner-up looked happy at the closing ceremony []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-is-the-winner-of-berlin-chess-grand-prix-2022/",
+         "pubDate" : "Tue, 05 Apr 2022 10:11:37 +0000",
+         "title" : "Wesley So is the winner of Berlin Chess Grand Prix 2022"
+      },
+      {
+         "description" : "The English Chess Federation's 24-hour charity marathon for Ukraine took place over the weekend of 02/04 to 03/04 on Chess.com to raise funds for the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-red-cross-charity-marathon-for-ukraine/",
+         "pubDate" : "Tue, 05 Apr 2022 09:46:59 +0000",
+         "title" : "ECF Red Cross Charity Marathon for Ukraine"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1682",
+         "pubDate" : "Tue, 05 Apr 2022 08:36:51 +0000",
+         "title" : "Israel to host 21st IPCA World Individual Chess Championship 2022"
+      },
+      {
+         "description" : "The ECF Yearbook 2022 is now available. Features this year include &#8212; Ravi Haria England's Newest GM; Chess in the Time of Coronavirus; Guildford's...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-yearbook-2022/",
+         "pubDate" : "Tue, 05 Apr 2022 08:11:21 +0000",
+         "title" : "ECF Yearbook 2022"
+      },
+      {
          "description" : "The diagrammed position is tricky: Black is two dangerous passed pawns up but it is White to move and the rook on h7 is hanging. Now, should White take the rook or look for something better to save the draw?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/endgame-tactics-3",
          "pubDate" : "Tue, 05 Apr 2022 09:00:00 +0100",
          "title" : "Endgame tactics"
+      },
+      {
+         "description" : " \"What is the object of playing a gambit opening? To acquire a reputation of being a dashing player at the cost of losing a game.\" The Queen's Gambit series If you do a Google search for the Queen's Gambit opening, you find out it is one of the oldest known chess openings. It was first <a href=\"https://chessimprover.com/need-sure-points-queens-gambit-declined-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Queen's Gambit Declined Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-queens-gambit-declined-edition/\">Need sure points? Queen's Gambit Declined Edition</a> appeared first on <a rel=\"nofollow",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-queens-gambit-declined-edition/",
+         "pubDate" : "Tue, 05 Apr 2022 07:58:56 +0000",
+         "title" : "Need sure points? Queen's Gambit Declined Edition"
+      },
+      {
+         "description" : "After 9 played rounds at the European Individual Chess Championship 2022 in Terme Catez, Slovenia, GM Matthias Bluebaum (GER, 2642) is the sole leader of the event scoring 7.5 points. After a quick draw in the round 9 against his compatriot GM Nisipeanu Liviu-Dieter (GER, 2652), Bluebaum kept the leadership just two rounds before the end of the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/matthias-bluebaum-in-sole-leadership-after-9-rounds-of-european-individual-chess-championship-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/matthias-bluebaum-in-sole-leadership-after-9-rounds-of-european-individual-chess-championship-2022/",
+         "pubDate" : "Tue, 05 Apr 2022 07:32:02 +0000",
+         "title" : "Matthias Bluebaum in sole leadership after 9 rounds of European Individual Chess Championship 2022"
       },
       {
          "description" : "Arjun Erigaisi won his fourth consecutive individual tournament as he bagged the first leg of the MPL Indian Chess Tour. This was his fifth overall triumph of the year 2022. He qualified to the Tour finals and will also play at the Meltwater Champions Chess Tour. Runner-up Raunak Sadhwani scored only two draws in the 15-round event, while Gukesh and Surya Ganguly were placed third and fourth. The top eight finishers get an automatic invitation to the next leg, which is scheduled to take place in June.",
@@ -80,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
          "pubDate" : "Mon, 04 Apr 2022 14:55:00 +0100",
          "title" : "FIDE Grand Prix Final - Live!"
-      },
-      {
-         "description" : "Today, round 9 of the European Individual Championship (\"EICC\") in Terme Čatež, Slovenia, will be played. With three rounds to go German grandmaster Matthias Bluebaum leads with 7.0/8 and is half a point ahead of GM Gabriel Sargissian from Armenia and eleven players with 6.0/8 each. | Round 9 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
-         "pubDate" : "Mon, 04 Apr 2022 14:55:00 +0100",
-         "title" : "European Individual Chess Championship (EICC), Round 9 - live"
       },
       {
          "description" : "Russian Grandmaster Sergey Karjakin is developing his own online chess platform. In his telegram channel, he shared, &#8220;Together with the largest Russian IT company, I am participating in the development of a chess portal! We have an excellent symbiosis between professional programmers and chess players.&#8221; Karjakin added that the portal aims to hold online competitions []",
@@ -784,22 +840,6 @@ news_feed (
          "link" : "https://www.chessdom.com/gujarat-chess-open-2022-with-377-players/",
          "pubDate" : "Thu, 31 Mar 2022 08:00:00 +0000",
          "title" : "Gujarat Chess Open 2022 with 377 players"
-      },
-      {
-         "description" : "FIDE Grand Prix Berlin 2022 is the final leg of the Grand Prix series that will determine the participants in the Candidates Chess 2022. With Richard Rapport practically qualified after winning the Belgrade Grand Prix, just one spot is available for grabs. Live games from the Berlin Grand Prix will be daily on Chessdom.com Round []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/berlin-grand-prix-2022-live/",
-         "pubDate" : "Thu, 31 Mar 2022 07:10:00 +0000",
-         "title" : "Berlin Grand Prix 2022 LIVE"
-      },
-      {
-         "description" : "The European Individual Chess Championship 2022 will take place between 26 March and 7 April at Terme &#x10C;ate&#x17E; near Bre&#x17E;ice in Slovenia. The event is organized by the Chess Federation of Slovenia under the auspices of the European Chess Union (ECU). The official host of the championship is Hotel Spa; accommodation is also available in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-individual-chess-2022/",
-         "pubDate" : "Thu, 31 Mar 2022 07:00:00 +0000",
-         "title" : "European Individual Chess 2022 LIVE"
       },
       {
          "description" : " From the publishers' blurb: &#8220;The revolutionary Wilhelm Steinitz (1836-1900) considered himself to be in the vanguard of an emerging, late-19th century 'Modern' school, which embraced a new, essentially scientific vitality in its methods of research, analysis, evaluation, planning, experiment and even belligerent fight. Steinitz, who dominated the chess world in the shadow of a more <a href=\"http://britishchessnews.com/2022/03/31/modern-chess-from-steinitz-to-the-21st-century/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Modern Chess- From Steinitz to the 21st Century</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britis",
@@ -2178,14 +2218,6 @@ news_feed (
          "title" : "Russia Out"
       },
       {
-         "description" : " Here's a review of the latest editions of the Master Chess Web Show on Twitch: Saturday This special episode included: 1) A Bobby Fischer classic in what was an unusual opening choice. 2) A shock victory by British amateur Mike Surtees, playing a special gambit recipe against the Caro-Kann. 3) Gawain Jones winning with the <a href=\"https://chessimprover.com/master-chess-web-show-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-5/\">Master Chess Web Show (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/master-chess-web-show-5/",
-         "pubDate" : "Wed, 16 Mar 2022 16:12:05 +0000",
-         "title" : "Master Chess Web Show (5)"
-      },
-      {
          "description" : " This is an interview I have long waited to publish. I had the honor to talk to one of the most decorated (Junior) Coaches of the past 2 decades. Grandmaster Ramesh RB has Coached his students to more than 45(!!!) Gold Medals in World (Junior) Events, served as Coach of the Indian National Team for [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/gm-ramesh-on-calculation/\">Gold-Coach GM Ramesh RB On Calculation And How To Train Right</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -2226,14 +2258,6 @@ news_feed (
          "title" : "Russia and Belarus teams suspended from FIDE competitions"
       },
       {
-         "description" : "European Chess Union in cooperation with FIDE Events Commission, FIDE Women's Commission, co-funded by FIDE Development Fund, organises the Webinar for FIDE International Organisers. The Webinar for FIDE IO will be held from 11th-14th April in English language, with the following topics: Regulations FIDE Events (General Regulations, Specific Regulations, Bid Procedure) Events' Management &#160; Ratings and Titles &hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-webinar-for-fide-international-organizers/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-webinar-for-fide-international-organizers/",
-         "pubDate" : "Wed, 16 Mar 2022 10:03:50 +0000",
-         "title" : "FIDE International Organisers Online Seminar with ECU"
-      },
-      {
          "description" : " The FIDE Council have confirmed Chennai as the new host city for the 2022 Chess Olympiad. The exact dates for the Olympiad have not yet been announced, but the organisers have said it will still be late July to early August, in line with the previous dates. The venue will be the Sheraton Mahabalipuram, which is about an hour south of Chennai, with teams staying in the various hotels located in that area. Exact details will be announced shortly. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2256,14 +2280,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/15/ep-270-cody-smith-adult-improver-series",
          "pubDate" : "Tue, 15 Mar 2022 14:59:21 +0000",
          "title" : "EP 270- Cody Smith (Adult Improver Series) "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-charity-marathon-for-ukraine/",
-         "pubDate" : "Tue, 15 Mar 2022 09:06:12 +0000",
-         "title" : "Charity Marathon for Ukraine"
       }
    ]
 }
