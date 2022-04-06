@@ -2,12 +2,92 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Shortly after winning the 2022 FIDE Grand Prix and qualifying for the FIDE Candidates Tournament, GM Hikaru Nakamura&#38;nbsp;won the ninth week of&#38;nbsp;Arena Kings&#38;nbsp;(making it two weeks in a row). He won in the final with a score of 3-1 against G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-another-one-arena-kings-season-9-week-9",
+         "pubDate" : "Wed, 06 Apr 2022 15:45:00 -0700",
+         "title" : "Nakamura Wins Another One: Arena Kings Season 9 Week 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros begins his new series which profiles a specific grandmaster's rise to the title. First, it's Boros's countryman, Richard Rapport. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rise-rapport-episode-i-how-become-grandmaster-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wV4gL0ti6fw.jpg?itok=yqadVPML\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rise-rapport-episode-i-how-become-grandmaster-gm-denes-boros",
+         "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
+         "title" : "The Rise of The Rapport: Episode I | How To Become a Grandmaster - GM Denes Boros"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani takes on the Philidor Defense, based on the teachings of Parimarjan Negi and his book. BUY NEGI'S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1e4-vs-philidor-part-1-chess-and-psychology-im-dorsa-dera",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/1e4-vs-philidor-part-1-chess-and-psychology-im-dorsa-derakhshani-0",
+         "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
+         "title" : "1.e4 vs. The Philidor: Part 1 | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Saint Louis Chess Club presents a brand new tournament, the American Cup, featuring an exciting (and rare) double elimination format. See the best American chess players, and the best players living in America! The A Tournament is: So, Caruana, Aronian, Dominguez, Shankland, Xiong, Sevian, and Robson. The B Tournament is: Krush, Tsolakidou, Zatonskih, Tokhirjonova, Abrahamyan, Nemcova, Alice Lee, and Rui Yang Yan. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-promo",
+         "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
+         "title" : "The American Cup 2022 | Promo"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani marches on with the French Defense, based on the teachings of Parimarjan Negi and his book. Today, it&#039;s all about the Winawer. BUY NEGI&#039;S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> 2022.04.06<br /> STUDY: ??? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wra",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/1e4-vs-french-part-3-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
+         "title" : "1.e4 vs. The French: Part 3 | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros begins his new series which profiles a specific grandmaster&#039;s rise to the title. First, it&#039;s Boros&#039;s countryman, Richard Rapport. 2022.04.06 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rise-rapport-episode-iii-how-become-grandmaster-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0F3yN1I8Ghs.jpg?itok=UaIwlwZz\" a",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rise-rapport-episode-iii-how-become-grandmaster-gm-denes-boros-lichessorg",
+         "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
+         "title" : "The Rise of The Rapport: Episode III | How To Become a Grandmaster - GM Denes Boros | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros continues his series on Richard Rapport&#039;s rise to the GM chess title. Originally on Twitch<br /> 2022.03.30<br /> Yu Lie vs Richard Rapport, First Saturday februar GM (2010)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1586738\">https://www.chessgames.com/perl/chessgame?gid=1586738</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rise-rapport-episode-ii-how-become-grandmaster-gm-denes-boros\"><img src=\"https://saintloui",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rise-rapport-episode-ii-how-become-grandmaster-gm-denes-boros",
+         "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
+         "title" : "The Rise of The Rapport: Episode II | How To Become a Grandmaster - GM Denes Boros"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani takes on the French Defense, based on the teachings of Parimarjan Negi and his book. BUY NEGI&#039;S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> Originally on Twitch<br /> 2022.03.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1e4-vs-french-pa",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/1e4-vs-french-part-1-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
+         "title" : "1.e4 vs. The French: Part 1 | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues on with the French Defense, based on the teachings of Parimarjan Negi and his book. BUY NEGI&#039;S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> Originally on Twitch<br /> 2022.03.30 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1e4-vs-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/1e4-vs-french-part-2-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
+         "title" : "1.e4 vs. The French: Part 2 | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1683",
+         "pubDate" : "Wed, 06 Apr 2022 22:18:43 +0000",
+         "title" : "Matthias Bluebaum wins European Individual Championship"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #510, Merijn van Delft takes a look at the European Championships and analyses a \"streetfighting\" win of Julian Kramer, a young German player, who scored his first GM norm at the European Championships. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-510",
          "pubDate" : "Wed, 06 Apr 2022 19:00:44 +0100",
-         "title" : "Game of the Week #510:"
+         "title" : "Game of the Week #510: Julian Kramer's fighting victory"
       },
       {
          "description" : "GM Oleksandr Bortnyk and GM Ian Nepomniachtchi earned Titled Tuesday victories on April 5. GM Vladimir Fedoseev had to settle for second place in both events, and by a thin tiebreak margin in the late tournament. GM Alexey Sarana and IM Volodar Mu...",
@@ -882,14 +962,6 @@ news_feed (
          "title" : "Nakamura Early Winner Of Series: 2022 FIDE Grand Prix Berlin Leg 3, Semifinals Day 2"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The Saint Louis Chess Club presents a brand new tournament, the American Cup, featuring an exciting (and rare) double elimination format. World-class chess masters come to America&#039;s chess capital to compete in a fierce do-or-die struggle for $300,000 in prize money. With a double elimination format, fans can expect the American Cup to have a combination of exciting chess play, stunning upsets, and epic comebacks. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-promo",
-         "pubDate" : "Thu, 31 Mar 2022 21:17:46 +0000",
-         "title" : "The American Cup 2022 | Promo"
-      },
-      {
          "description" : "Five rounds have been played at the European Individual Chess Championship 2022 in Terme Catez, Slovenia, and five players tie for the top scoring 4.5 points, each. Can Emre (TUR, 2578), Sargissian Gabriel (ARM, 2681), Bluebaum Matthias (GER, 2642), Kuzubov Yuriy (UKR, 2639) and Jobava Baadur (GEO, 2588) head the crosstable anticipating the 6th round. 18 players are&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2022-r5-report/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1202,44 +1274,12 @@ news_feed (
          "title" : "Trends in Opening Prep | Grandmaster's Choice - GM Robert Hungaski"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes his game from the 2022 Mid-America Open in Clayton, Saint Louis. See how he defeated a strong opponent&#039;s Old Indian Defense. 2022.03.29<br /> Caleb Denby vs. Timothy Radermacher, 2022: A55 Old Indian, main line </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beating-old-indian-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnai",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/beating-old-indian-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 30 Mar 2022 03:16:01 +0000",
-         "title" : "Beating the Old Indian | Road to 2000 - NM Caleb Denby"
-      },
-      {
          "description" : "Yesterday&#39;s results at the&#38;nbsp;2022 FIDE Grand Prix&#38;nbsp;third leg awarded chess fans with a bonus day of chess with two tiebreak matches on Tuesday to decide who should make it through from Groups B and C.&#38;nbsp; In Group B, GM Shakhriyar Mamed...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-group-tiebreaks",
          "pubDate" : "Tue, 29 Mar 2022 17:39:00 -0700",
          "title" : "Mamedyarov, So Win Groups: 2022 FIDE Grand Prix Berlin Leg 3, Group Tiebreaks"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski continues his series on building a chess plan. Learn to identify what&#039;s important. 2022.03.29<br /> Robert Andrew Hungaski vs Harshit Raja, Spring Chess Classic (2022): D02 London System<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2256472\">https://www.chessgames.com/perl/chessgame?gid=2256472</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/trends-opening-prep-grandmasters-choice-gm-robert-hungaski-lichessorg\"><i",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/trends-opening-prep-grandmasters-choice-gm-robert-hungaski-lichessorg",
-         "pubDate" : "Wed, 30 Mar 2022 00:15:50 +0000",
-         "title" : "Trends in Opening Prep | Grandmaster's Choice - GM Robert Hungaski | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes his games from the 2022 Mid-America Open in Clayton, Saint Louis. See how he defeated a strong opponent&#039;s Old Indian Defense. 2022.03.29<br /> Caleb Denby vs. Timothy Radermacher, 2022: A55 Old Indian, main line </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beating-old-indian-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/beating-old-indian-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Wed, 30 Mar 2022 00:15:50 +0000",
-         "title" : "Beating the Old Indian | Road to 2000 - NM Caleb Denby | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski continues his series on building a chess plan. Learn to identify what&#039;s important. 2022.03.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/planning-ahead-chess-2-grandmasters-choice-gm-robert-hungaski-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Fk4TjItDkxk.jpg?itok=vaFSFxjZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/planning-ahead-chess-2-grandmasters-choice-gm-robert-hungaski-lichessorg",
-         "pubDate" : "Tue, 29 Mar 2022 21:15:52 +0000",
-         "title" : "Planning Ahead in Chess #2 | Grandmaster's Choice - GM Robert Hungaski | lichess.org"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-55/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (55)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-55/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (55)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
@@ -1264,14 +1304,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/round-report-wesley-so-and-shakhriyar-mamedyarov-are-in-the-semi/",
          "pubDate" : "Tue, 29 Mar 2022 18:22:31 +0000",
          "title" : "Round Report: Wesley So and Shakhriyar Mamedyarov are in the semifinal!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Georgiev puts himself under the microscope for Sunday Double Exclam!! lecture. Originally on Twitch<br /> 2022.03.15<br /> Evgeny Gleizerov vs Vladimir Georgiev, Turin Open (2000)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2248750\">https://www.chessgames.com/perl/chessgame?gid=2248750</a><br /> Viorel Iordachescu vs Vladimir Georgiev, Italian Team Championship (2014)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1753975\">https://www.chessgames.com/perl/chessgame?gid=1753975</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div cla",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/georgievs-brilliant-games-double-exclam-gm-vladimir-georgiev",
-         "pubDate" : "Tue, 29 Mar 2022 18:15:47 +0000",
-         "title" : "Georgiev's Brilliant Games!! | Double Exclam!! - GM Vladimir Georgiev"
       },
       {
          "description" : "Lawrence has found a position, which looks familiar to many of us. We just have to calculate, as good as we can, how to win the game. The important lesson is, that many variations can lead to a position which is slightly better, but not clearly won. A so-called insurance. We can put this variation in the back of our head, and keep on finding a better way to win. If everything fails, we use the variation with the small advantage.",
@@ -1370,28 +1402,12 @@ news_feed (
          "title" : "Berlin GP: Nakamura in the Candidates"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alejandro Ramirez spotlights games played by Ukrainian Grandmaster Vereslav Eingorn. Originally on Twitch<br /> 2022.03.15<br /> Vereslav S Eingorn vs Yaacov Zilberman, Oberwart Open (1994)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1499312\">https://www.chessgames.com/perl/chessgame?gid=1499312</a><br /> Vereslav S Eingorn vs Viktor Kupreichik, USSR Championship (1987)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1087681\">https://www.chessgames.com/perl/chessgame?gid=1087681</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"fie",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/vereslav-eingorn-legends-saint-louis-gm-alejandro-ramirez",
-         "pubDate" : "Tue, 29 Mar 2022 03:15:34 +0000",
-         "title" : "Vereslav Eingorn | Legends in Saint Louis - GM Alejandro Ramirez"
-      },
-      {
          "description" : "Hikaru Nakamura and Richard Rapport are in the Candidates Tournament after Hikaru's win over Andrey Esipenko ensured that the two would finish 1st and 2nd in the FIDE Grand Prix. All the results went Hikaru's way, as his key rivals Levon Aronian, Anish Giri and Leinier Dominguez all lost, while Maxime Vachier-Lagrave was held to a draw by Sam Shankland. Amin Tabatabaei is the surprise player already confirmed alongside Hikaru in the Berlin semi-finals, while So-Shankland and Mamedyarov-Keymer will play tiebreaks on Tuesday.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/nakamura-and-rapport-qualify-for-the-candidates",
          "pubDate" : "Mon, 28 Mar 2022 19:52:05 +0000",
          "title" : "Nakamura and Rapport qualify for the Candidates"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about the tactical motif known as the pin, and shows how powerful this double-edged tactic can be when played by grandmasters. Originally on Twitch<br /> 2022.03.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pin-mightier-sword-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9kwwlYcfBLI.jpg?itok=EmshIY2G\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/pin-mightier-sword-beginner-breakdown",
-         "pubDate" : "Mon, 28 Mar 2022 18:15:06 +0000",
-         "title" : "The Pin is Mightier Than The Sword | Beginner Breakdown"
       },
       {
          "description" : "",
@@ -1752,14 +1768,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chessable-support-for-the-ecf-and-english-chess/",
          "pubDate" : "Fri, 25 Mar 2022 16:01:56 +0000",
          "title" : "Chessable support for the English Chess Federation and English Chess"
-      },
-      {
-         "description" : "Chess.com is excited to announce the 2022&#38;nbsp;Junior Speed Chess Championship presented by SIG which will showcase 16 of the brightest under-20 stars in the world fighting for a prize fund of&#38;nbsp;$35,000. Qualifiers begin on March 31&#38;nbsp;and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-2022-junior-speed-chess-championship",
-         "pubDate" : "Fri, 25 Mar 2022 07:00:00 -0700",
-         "title" : "Announcing The 2022 Junior Speed Chess Championship"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/06cc653c-ca87-48f3-b47f-a636ed26e99e/mammoth3.jpg\" data-image-dimensions=\"550x276\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"623de366654dd52be017e093\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/06cc653c-ca87-48f3-b47f-a636ed26e99e/mammoth3.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">I was joined by guest co-host Christopher Chabris, and we were paid a visit by the co-author and editor, FM Graham Burgess </figcaption> </fi",
@@ -2256,14 +2264,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/03/17/india-to-host-fide-chess-olympiad/",
          "pubDate" : "Thu, 17 Mar 2022 13:54:52 +0000",
          "title" : "India to host FIDE Chess Olympiad"
-      },
-      {
-         "description" : " FIDE have just taken the decision to exclude teams from Russia and Belarus in any official FIDE team competition, at least for the foreseeable future. The most obvious effect of this decision is that both countries will not be able to take part in the upcoming chess Olympiad. This decision does not effect individual players, although in that case, the players themselves are required to play under the FIDE flag (or change federations). In terms of how this effects the Olympiad itself, the loss of the Russian team does make it a little easier for other countries. However it is worth noting that Russia last won the Olympiad in 2002, while countries like Armenia, China and Ukraine have won it m",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/russia-out.html",
-         "pubDate" : "Wed, 16 Mar 2022 21:49:00 +0000",
-         "title" : "Russia Out"
       }
    ]
 }
