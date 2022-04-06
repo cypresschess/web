@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Chess in School conference with Erasmus+ meetings and programs will take place from 11th-14th May 2022 in Zurich, Switzerland. Chess in school conference under the name &#8220;Chess: a Game to be Spread in School&#8221; (CGS) will be held on 14th of May, in Dorint Airport Hotel. The Conference will be held in the English language and it&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-a-game-to-be-spread-in-school-conference/\">Read More &#187;</a></span>",
+         "description" : "In an interview for the Norwegian newspaper VG, Magnus Carlsen talked about the recent developments involving Sergey Karjakin. The world champion clearly stated that he disagrees with his colleague's stance, but also noted that he is not sure whether banning him from official tournaments was the right decision. | Photo: Albert Silver",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-karjakin-wants-to-become-a-martyr",
+         "pubDate" : "Wed, 06 Apr 2022 09:22:33 +0100",
+         "title" : "Carlsen: \"Karjakin wants to become a martyr\""
+      },
+      {
+         "description" : "The Romanian Grand Prix Super Chess Rapid 2022 aka GP Romania is going to start this April 30 at the Palace of the Parliament in Bucharest. GP Romania 2022 will consist of 5 open qualifying tournaments three tournaments will consist in classic chess and two in rapid chess and a grand final &#x2013; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/romanian-grand-prix-super-chess-rapid-2022/",
+         "pubDate" : "Wed, 06 Apr 2022 07:29:47 +0000",
+         "title" : "Romanian Grand Prix Super Chess Rapid 2022"
+      },
+      {
+         "description" : "The Grand Chess Tour 2022&#xA0;in magnificent&#xA0;fashion with $1.4&#xA0;million total prize fund allocated between 5 events. It will once again feature 2 classical chess tournaments&#xA0;and 3 rapid &#38; blitz tournaments spanning across Europe and United States. With the&#xA0;addition of an new event in Warsaw, Poland, fans can look forward to another entertaining and thrilling season. Leading []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-chess-tour-2022/",
+         "pubDate" : "Wed, 06 Apr 2022 07:18:24 +0000",
+         "title" : "Grand Chess Tour 2022"
+      },
+      {
+         "description" : "The Chess in School conference with Erasmus+ meetings and programs will take place from 11th-14th May 2022 in Zurich, Switzerland. Chess in school conference under the name &#8220;Chess: a Game to be Spread in Schools&#8221; (CGS) will be held on 14th of May, in Dorint Airport Hotel. The Conference will be held in the English language and it&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-a-game-to-be-spread-in-school-conference/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/chess-a-game-to-be-spread-in-school-conference/",
          "pubDate" : "Wed, 06 Apr 2022 06:42:13 +0000",
-         "title" : "\"Chess: a Game to be Spread in School\" Conference"
+         "title" : "\"Chess: a Game to be Spread in Schools\"Conference"
       },
       {
          "description" : "National Junior Certificates (09-13, march), Gurugram National Junior Chess Championship 2022 Certificates are out to download. Link : https://aicf.online/National-Junior-M.html The above list is only for Boys",
@@ -634,14 +658,6 @@ news_feed (
          "title" : "FIDE Grand Prix Berlin: Nakamura and So face off in final"
       },
       {
-         "description" : "FIDE and India agreed this March 15th that the Chess Olympiad 2022 will be moved to Chennai. Initially, it was set to be played in Belarus, but following the wave of protests against Alexander Lukashenko and the support of the Belarus Chess Federation for the protests it was obvious that a change was needed.&#xA0; Last []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dream-accomplished-congratulations-india-tweetoftheday/",
-         "pubDate" : "Fri, 01 Apr 2022 16:03:53 +0000",
-         "title" : "Dream accomplished! Congratulations, India! #TweetofTheDay"
-      },
-      {
          "description" : "Opening videos: Robert Ris shows the latest trends in the Hennig-Schara Gambit. Mihail Marin presents a Fianchetto setup against the Gruenfeld and King's Indian. Total playing time of the videos: just under one hour. \"Lucky bag\" with over 80 analyses by Anish Giri, Nijat Abasov, Romain Edouard, Marie Sebag and many others. In \"The brilliancy\" between the new rapid chess champion Nodirbek Abdusattorov and world champion Magnus Carlsen - commented by Anish Giri! - with 1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.e4 Bb4 a trendy variation of the English Opening appeared on the board. ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. Available as a single issue or by subscription (6 is",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -920,14 +936,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/mpl-indian-chess-tour-starts-today",
          "pubDate" : "Thu, 31 Mar 2022 09:17:12 +0000",
          "title" : "MPL Indian Chess Tour starts today"
-      },
-      {
-         "description" : "India&#x2019;s own&#160;elite online chess tour&#160;starts on March 31 with a star-studded line-up of&#160;16 top talents&#160;from every corner of the country. The&#160;MPL Indian Chess Tour&#160;is the first regional expansion of the world-renowned&#160;Meltwater Champions Chess Tour (where this year&#160;Carlsen won Airthings Masters&#160;and just yesterday the&#160;Charity Chess Cup). Its launch underlines the incredible boom in chess interest in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mpl-india-chess-2022-live/",
-         "pubDate" : "Thu, 31 Mar 2022 08:54:40 +0000",
-         "title" : "MPL India Chess 2022 LIVE"
       },
       {
          "description" : " There were two shows this week, on Tuesday and Wednesday. From next week we'll be running just one on Tuesdays as it's not easy to keep up with this phrenetic rate of production! Tuesday On Tuesday we had another guest, the former British Champion Paul Littlewood. Paul showed us some of him memorable games and <a href=\"https://chessimprover.com/master-chess-web-show-7/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (7)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-7/\">Master Chess Web Show (7)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2016,14 +2024,6 @@ news_feed (
          "link" : "https://www.europechess.org/the-last-fide-grand-prix-2022-event-starts-in-berlin/",
          "pubDate" : "Mon, 21 Mar 2022 19:10:15 +0000",
          "title" : "The last FIDE Grand Prix 2022 event starts in Berlin"
-      },
-      {
-         "description" : "The German Bundesliga started its new season, and the first matches brought many fascinating endgames. Karsten was spoiled for choice but in the Endgame Magic Show #186 he presents an absolute highlight in which the much lower-rated player defeated a strong Grandmaster in study-like fashion. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-186-highlights-from-the-german-bundesliga",
-         "pubDate" : "Mon, 21 Mar 2022 18:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #186: Highlights from the German Bundesliga"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90358530.cms\" />Russian grandmaster Sergey Karjakin has been banned from competition for six months because of his support for Russia's invasion of Ukraine, the International Chess Federation (FIDE) said on Monday. The 32-year-old Karjakin, who challenged Magnus Carlsen for the world title in 2016, has defended his country's actions on social media in recent weeks, drawing intense criticism from the chess world.",
