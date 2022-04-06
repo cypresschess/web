@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Weekly Show\" Lawrence Trent talks about the European Individual Championships with a special mention to the young Azeri star Abdulla Gadimbayli who, prior to round ten, was on a magnificent 7.0/9, gaining 40 rating points and undoubtedly a GM norm in the process. Lawrence also talks about the MPL Indian Chess Tour and finals of the Berlin Grand Prix. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-the-european-championships",
+         "pubDate" : "Wed, 06 Apr 2022 12:51:27 +0100",
+         "title" : "The Weekly Show: The European Championships"
+      },
+      {
+         "description" : "Tykhon Cherniaiev is a Ukrainian Candidate Master, a double world U10 chess champion in Rapid and Blitz. The young talent (Elo 2209) turned 12 on first of March, during the war in Ukraine. The family fled the country and is safe in Hamburg, Germany. Would you like to meet the lad, play against him? Well, then join our stream this evening at 4:30 p.m. European time. There will also be a number of young super-talents present.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meet-him-in-this-stream",
+         "pubDate" : "Wed, 06 Apr 2022 12:06:19 +0100",
+         "title" : "Meet him in this stream!"
+      },
+      {
+         "description" : "To: European National Chess Federations Re: Invitation for the ECU General Assembly and the ECU Elections 2022 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly and the ECU Elections to be held in Chennai, India&#160;on 6th&#160;&#160;of August 2022. According to the published schedule of the FIDE Congress 2022 in Chennai,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-general-assembly-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-general-assembly-2022/",
+         "pubDate" : "Wed, 06 Apr 2022 09:07:28 +0000",
+         "title" : "ECU GENERAL ASSEMBLY 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1671",
+         "pubDate" : "Wed, 06 Apr 2022 09:00:34 +0000",
+         "title" : "Panama to host World School Chess Championship 2022"
+      },
+      {
          "description" : "In an interview for the Norwegian newspaper VG, Magnus Carlsen talked about the recent developments involving Sergey Karjakin. The world champion clearly stated that he disagrees with his colleague's stance, but also noted that he is not sure whether banning him from official tournaments was the right decision. | Photo: Albert Silver",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/24-hour-ecf-chess-marathon-raises-over-ps18-000-for-red-cross-support-of-ukraine",
          "pubDate" : "Tue, 05 Apr 2022 06:55:00 -0700",
          "title" : "24-Hour ECF Chess Marathon Raises Over &pound;18,000 For Red Cross Support Of Ukraine"
-      },
-      {
-         "description" : "Today, round 10 of the European Individual Championship (\"EICC\") in Terme Čatež, Slovenia, will be played. With two rounds to go German grandmaster Matthias Bluebaum leads with 7.5/9 and is half a point ahead of three players - IM Abdulla Gadimbayli, GM Gabriel Sargissian and GM Maxime Lagarde - who all have 7.0/9. | Round 10 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
-         "pubDate" : "Tue, 05 Apr 2022 14:55:00 +0100",
-         "title" : "European Individual Chess Championship (EICC), Round 10 - live"
       },
       {
          "description" : " I have decided to have one of my sporadic attempts at studying chess (properly) again. My target is Rook and Pawn endings, not only because I need to improve in this area, but also because I need to improve how I study. Famously Capablanca studied and understood over 1000 Rook and Pawn positions, and while I doubt I will get to that number, understanding the key positions can't hurt. ",
@@ -258,14 +282,6 @@ news_feed (
          "title" : "Wesley So is the winner of the third leg of the FIDE Grand Prix 2022"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1680",
-         "pubDate" : "Mon, 04 Apr 2022 14:41:45 +0000",
-         "title" : "Lajos Portisch celebrates his 85th birthday"
-      },
-      {
          "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -290,6 +306,14 @@ news_feed (
          "title" : "FIDE Grand Prix final goes to tiebreaks"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1679",
+         "pubDate" : "Mon, 04 Apr 2022 12:18:25 +0000",
+         "title" : "FIDE announces World Senior Team Championship 50+ and 65+"
+      },
+      {
          "description" : "At the beginning of April, the FIDE published its new ranking list. With a rating of 2864 Magnus Carlsen continues to lead the Top 100 by a wide margin - he is exactly 60 points ahead of Alireza Firouzja, who has a rating of 2804 and is officially the world's number two. Richard Rapport climbed to seventh place and now has a rating of 2776. Hou Yifan leads the women's ranking list, Firouzja is the best junior and Zhu Jiner is number one on the girl's list.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -298,20 +322,20 @@ news_feed (
          "title" : "FIDE ratings April 2022"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1680",
+         "pubDate" : "Mon, 04 Apr 2022 11:41:45 +0000",
+         "title" : "Lajos Portisch celebrates his 85th birthday"
+      },
+      {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/G-ZUf5ywB5w?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/fide-grand-prix-berlin-final-tie-breaks/",
          "pubDate" : "Mon, 04 Apr 2022 10:17:10 +0000",
          "title" : "FIDE Grand Prix Berlin: Final Tie-Breaks"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1679",
-         "pubDate" : "Mon, 04 Apr 2022 09:18:25 +0000",
-         "title" : "FIDE announces World Senior Team Championship 50+ and 65+"
       },
       {
          "description" : "In the context of better communication between the whole European chess community and the ECU in particular, we have decided to focus in the next period on constant information of journalists who edit chess columns or report on chess via television, radio or the internet. This recording must be done in order to inform the chess friends on&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/journalists-directory/\">Read More &#187;</a></span>",
@@ -2002,28 +2026,12 @@ news_feed (
          "title" : "A strong king"
       },
       {
-         "description" : "With three rounds to go, Le Quang Liem is still the sole leader of the preliminaries at the Charity Cup. The Vietnamese stands three points ahead of second-placed Magnus Carlsen and has already secured a spot in the knockout stage. On day 3, Jorden van Foreest was the highest scorer, as he collected three wins and a draw. Moreover, the Dutchman had a superior position in the one game he drew, against Carlsen. | Photo: Jurriaan Hoefsmit - Tata Steel Chess Tournament 2021",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/charity-cup-2022-d3",
-         "pubDate" : "Tue, 22 Mar 2022 03:40:00 +0100",
-         "title" : "Charity Cup: Van Foreest almost perfect on day 3"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1651",
          "pubDate" : "Mon, 21 Mar 2022 19:15:08 +0000",
          "title" : "Final leg of FIDE Grand Prix kicks off in Berlin"
-      },
-      {
-         "description" : "The third and the last event of the 2022 FIDE Grand Prix 2022 series opens today in Berlin and takes place from 21st March 4th April. The system of play will be the same as within the first two events held in Berlin and Belgrade. 16 participants will be separated in 4 pools and they will compete&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/the-last-fide-grand-prix-2022-event-starts-in-berlin/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/the-last-fide-grand-prix-2022-event-starts-in-berlin/",
-         "pubDate" : "Mon, 21 Mar 2022 19:10:15 +0000",
-         "title" : "The last FIDE Grand Prix 2022 event starts in Berlin"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90358530.cms\" />Russian grandmaster Sergey Karjakin has been banned from competition for six months because of his support for Russia's invasion of Ukraine, the International Chess Federation (FIDE) said on Monday. The 32-year-old Karjakin, who challenged Magnus Carlsen for the world title in 2016, has defended his country's actions on social media in recent weeks, drawing intense criticism from the chess world.",
@@ -2264,22 +2272,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-body-fide-suspends-russia-and-belarus-from-its-official-events/articleshow/90271347.cms",
          "pubDate" : "Wed, 16 Mar 2022 12:07:04 +0000",
          "title" : "World chess body FIDE suspends Russia and Belarus from its official events"
-      },
-      {
-         "description" : "The 'World Cup of Chess' will take place in Chennai in July-August this year.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33515785/india-confirmed-2022-chess-olympiad-hosts-all-need-know?device=featurephone",
-         "pubDate" : "Wed, 16 Mar 2022 05:18:09 -0500",
-         "title" : "India confirmed as 2022 Chess Olympiad hosts: All you need to know"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1638",
-         "pubDate" : "Wed, 16 Mar 2022 10:11:35 +0000",
-         "title" : "Russia and Belarus teams suspended from FIDE competitions"
       }
    ]
 }
