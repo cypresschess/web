@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 1 starts at 17.00 CEST on Wednesday. Follow the games live with computer analysis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
+         "pubDate" : "Wed, 06 Apr 2022 16:55:00 +0100",
+         "title" : "Reykjavik Open - Live!"
+      },
+      {
+         "description" : " This is part 2 of my interview with famous Coach, Grandmaster Ramesh RB. If you haven't read part1 yet, then make sure to check that one out first! Also, go check out Ramesh's Online Chess Training service, PROChessTraining. I've myself trained in the Elite Group. What you get for the little price you pay is [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/gm-ramesh-part-2/\">Gold-Coach GM Ramesh RB On Calculation And How To Train Part 2</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/gm-ramesh-part-2/",
+         "pubDate" : "Wed, 06 Apr 2022 14:00:00 +0000",
+         "title" : "Gold-Coach GM Ramesh RB On Calculation And How To Train Part 2"
+      },
+      {
          "description" : "Today, the eleventh and last round of the European Individual Championship (\"EICC\") in Terme Čatež, Slovenia, will be played. Matthias Bluebaum and Gabriel Sargissian share the lead with 8.0/10, three players follow with 7.5/10 each. The 20 best players in the European Championship qualify for the World Cup. | Round 11 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2018,14 +2034,6 @@ news_feed (
          "title" : "Karjakin gets 6 months"
       },
       {
-         "description" : "Citing personal reasons, Dmitry Andreikin withdrew from the third leg of the FIDE Grand Prix. Andrey Esipenko (pictured), who also played in the first leg as a replacement, stepped in. The tournament is set to take place in Berlin, with two spots in the Candidates still up for grabs, albeit it is highly unlikely for Richard Rapport not to get one of those after his victory in Belgrade. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-preview",
-         "pubDate" : "Tue, 22 Mar 2022 11:20:00 +0100",
-         "title" : "Third stage of the Grand Prix kicks off without Andreikin"
-      },
-      {
          "description" : " The 3rd and final leg of the FIDE Grand Prix takes place in Berlin 22nd March to 4th April 2022. Richard Rapport has posted a very strong score in the series and has a very high chance of qualifying for the Candidates. The winner of the first leg Hikaru Nakamura will also be strong favourite to take the second place if he gets out of the group stages here (Aronian, Oparin and Esipenko are his rivals). Aronian, Dominguez and MVL are all players who have strong chances of a Candidates place if they win this leg. Poor finishes in their first grand prix events means that even a win here will probably not be enough for many of the players. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2256,22 +2264,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/russia-out.html",
          "pubDate" : "Wed, 16 Mar 2022 21:49:00 +0000",
          "title" : "Russia Out"
-      },
-      {
-         "description" : " This is an interview I have long waited to publish. I had the honor to talk to one of the most decorated (Junior) Coaches of the past 2 decades. Grandmaster Ramesh RB has Coached his students to more than 45(!!!) Gold Medals in World (Junior) Events, served as Coach of the Indian National Team for [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/gm-ramesh-on-calculation/\">Gold-Coach GM Ramesh RB On Calculation And How To Train Right</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/gm-ramesh-on-calculation/",
-         "pubDate" : "Wed, 16 Mar 2022 15:00:00 +0000",
-         "title" : "Gold-Coach GM Ramesh RB On Calculation And How To Train Right"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90273747.cms\" />The 44th Chess Olympiad, to be held in Mahabalipuram about 58 km from here, would see participation of over 150 countries and the tourney would be the biggest-ever sports event to have happened in India, Tamil Nadu Chief Minister M K Stalin said on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/over-150-countries-to-take-part-in-44th-chess-olympiad-says-tamil-nadu-cm-stalin/articleshow/90273747.cms",
-         "pubDate" : "Wed, 16 Mar 2022 13:49:02 +0000",
-         "title" : "Over 150 countries to take part in 44th Chess Olympiad, says TN CM"
       }
    ]
 }
