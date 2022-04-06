@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, the eleventh and last round of the European Individual Championship (\"EICC\") in Terme Čatež, Slovenia, will be played. Matthias Bluebaum and Gabriel Sargissian share the lead with 8.0/10, three players follow with 7.5/10 each. The 20 best players in the European Championship qualify for the World Cup. | Round 11 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
+         "pubDate" : "Wed, 06 Apr 2022 14:55:00 +0100",
+         "title" : "European Individual Chess Championship (EICC), Round 11 - live"
+      },
+      {
+         "description" : "Junior chess remains extremely popular in England with a thriving educational and competitive scene. There are many organisations and service providers including for profits, charities...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/junior-development-pathway-consultation/",
+         "pubDate" : "Wed, 06 Apr 2022 12:05:17 +0000",
+         "title" : "Junior Development Pathway consultation"
+      },
+      {
          "description" : "In his \"Weekly Show\" Lawrence Trent talks about the European Individual Championships with a special mention to the young Azeri star Abdulla Gadimbayli who, prior to round ten, was on a magnificent 7.0/9, gaining 40 rating points and undoubtedly a GM norm in the process. Lawrence also talks about the MPL Indian Chess Tour and finals of the Berlin Grand Prix. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-weekly-show-the-european-championships",
          "pubDate" : "Wed, 06 Apr 2022 12:51:27 +0100",
          "title" : "The Weekly Show: The European Championships"
+      },
+      {
+         "description" : " This week's episode of the Master Chess Web Show featured an interview with GM Jon Levitt, who these days makes a living on what might be described as &#8216;cricket arbitrage'. With cricket on hold, during the Covid lockdowns, he turned his attention to writing a book entitled Contemplating Comedy, a reflection on different types of <a href=\"https://chessimprover.com/master-chess-web-show-8/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (8)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-8/\">Master Chess Web Show (8)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess I",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/master-chess-web-show-8/",
+         "pubDate" : "Wed, 06 Apr 2022 11:40:58 +0000",
+         "title" : "Master Chess Web Show (8)"
       },
       {
          "description" : "Tykhon Cherniaiev is a Ukrainian Candidate Master, a double world U10 chess champion in Rapid and Blitz. The young talent (Elo 2209) turned 12 on first of March, during the war in Ukraine. The family fled the country and is safe in Hamburg, Germany. Would you like to meet the lad, play against him? Well, then join our stream this evening at 4:30 p.m. European time. There will also be a number of young super-talents present.",
@@ -2018,14 +2042,6 @@ news_feed (
          "title" : "Live Link PAGE for Delhi Open 2022"
       },
       {
-         "description" : "In the diagrammed position it is White to move and he has to think about the pawn endgame that will arise after the imminent exchange of rooks. What should White play to get a winning pawn endgame?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-strong-king",
-         "pubDate" : "Tue, 22 Mar 2022 09:00:00 +0100",
-         "title" : "A strong king"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2170,14 +2186,6 @@ news_feed (
          "title" : "Cambridge wreck sighted: the 2022 Varsity Chess Match"
       },
       {
-         "description" : " This week, we will take the concept of thinking three moves ahead and apply it to our original tactical position. We will spread this out over the next few weeks. The process is simple, at least on paper: Come up with three candidate move choices (three possible moves you can make) as White. You'll go <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-five/\">A Foundation for Beginners Fifty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprov",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-five/",
-         "pubDate" : "Fri, 18 Mar 2022 18:48:01 +0000",
-         "title" : "A Foundation for Beginners Fifty Five"
-      },
-      {
          "description" : " The Charity Cup is the second event of the Meltwater Champions Chess Tour of 2022. The online event is hosted by chess24 and takes place 19th to 26th March 2022. The event is a \"a fundraiser for UNICEF to support their vital humanitarian activities in and around Ukraine.\" There will be no Russian players in the event. Players: Magnus Carlsen, Ding Liren, Richard Rapport, Jan-Krzysztof Duda, Vidit Gujrathi, Pentala Harikrishna, Jorden Van Foreest, Quang Liem Le, David Navara, David Anton, Gawain Jones, Hans Moke Niemann, R Praggnanandhaa, Eric Hansen, Ju Wenjun and Lei Tingjie.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2264,14 +2272,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/over-150-countries-to-take-part-in-44th-chess-olympiad-says-tamil-nadu-cm-stalin/articleshow/90273747.cms",
          "pubDate" : "Wed, 16 Mar 2022 13:49:02 +0000",
          "title" : "Over 150 countries to take part in 44th Chess Olympiad, says TN CM"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90271347.cms\" />World chess governing body FIDE on Wednesday suspended Russia and Belarus from all its tournaments until further notice due to the invasion of Ukraine, jeopardising the two countries' participation in the 44th Chess Olympiad in India later this year.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-body-fide-suspends-russia-and-belarus-from-its-official-events/articleshow/90271347.cms",
-         "pubDate" : "Wed, 16 Mar 2022 12:07:04 +0000",
-         "title" : "World chess body FIDE suspends Russia and Belarus from its official events"
       }
    ]
 }
