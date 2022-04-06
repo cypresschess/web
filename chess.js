@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "National Junior Certificates (09-13, march), Gurugram National Junior Chess Championship 2022 Certificates are out to download. Link : https://aicf.online/National-Junior-M.html Note : Certificates are according to players",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-junior-certificates-are-out/",
+         "pubDate" : "Wed, 06 Apr 2022 02:41:44 +0000",
+         "title" : "National Junior Certificates are Out"
+      },
+      {
          "description" : "Since it is likely that Sergey Karjakin will not play in the upcoming Candidates Tournament - his six-month ban is still pending a potential appeal - the spot left behind by the Russian will be filled by the highest-rated, eligible player in FIDE's ranking list published on May 1. Ding Liren is the clear frontrunner in this race, but he only played 4 games since June 2021, with the regulations stipulating that a minimum of 30 games are needed to be eligible. Ding is quickly making up for lost ground, as three events have been organized in China to get him to play the 26 games needed by the end of the month. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2152,14 +2160,6 @@ news_feed (
          "link" : "https://www.thearticle.com/cambridge-wreck-sighted-the-2022-varsity-chess-match/",
          "pubDate" : "Sat, 19 Mar 2022 11:42:52 +0000",
          "title" : "Cambridge wreck sighted: the 2022 Varsity Chess Match"
-      },
-      {
-         "description" : "We are calling all the creative minds to join us for the National Design Contest to design the Logo, Mascot and Tag Line for the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-design-contest-for-olympiad-2022/",
-         "pubDate" : "Sat, 19 Mar 2022 09:14:24 +0000",
-         "title" : "National Design Contest for Olympiad 2022"
       },
       {
          "description" : " This week, we will take the concept of thinking three moves ahead and apply it to our original tactical position. We will spread this out over the next few weeks. The process is simple, at least on paper: Come up with three candidate move choices (three possible moves you can make) as White. You'll go <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-five/\">A Foundation for Beginners Fifty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprov",
