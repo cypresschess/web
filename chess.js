@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #510, Merijn van Delft takes a look at the European Championships and analyses a \"streetfighting\" win of Julian Kramer, a young German player, who scored his first GM norm at the European Championships. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-510",
+         "pubDate" : "Wed, 06 Apr 2022 19:00:44 +0100",
+         "title" : "Game of the Week #510:"
+      },
+      {
+         "description" : "GM Oleksandr Bortnyk and GM Ian Nepomniachtchi earned Titled Tuesday victories on April 5. GM Vladimir Fedoseev had to settle for second place in both events, and by a thin tiebreak margin in the late tournament. GM Alexey Sarana and IM Volodar Mu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bortnyk-nepomniachtchi-win-titled-tuesday-april-5-2022",
+         "pubDate" : "Wed, 06 Apr 2022 09:10:54 -0700",
+         "title" : "Bortnyk Breaks Titled Tuesday Drought, Nepomniachtchi Wins Late"
+      },
+      {
          "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 1 starts at 17.00 CEST on Wednesday. Follow the games live with computer analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1770,14 +1786,6 @@ news_feed (
          "title" : "Recruitment of meritorious sportspersons in the Income Tax Department, West Bengal & Sikkim"
       },
       {
-         "description" : "The final of the 2022 Charity Cup will be played between GM Magnus Carlsen and GM Jan-Krzysztof Duda, the Polish player who ended Carlsen&#39;s 125-game unbeaten streak in October 2020 and eliminated the world champion from the 2021 FIDE World Cup. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-charity-cup-semifinals",
-         "pubDate" : "Fri, 25 Mar 2022 02:27:00 -0700",
-         "title" : "Charity Cup Day 6: Carlsen To Meet Nemesis Duda In Final"
-      },
-      {
          "description" : "Referring to the open letter from the Ukrainian Chess Federation dated 23.03.2022 and the upcoming European Chess Championship in Slovenia, we have to inform that ECU and the Slovenian Chess Federation have done everything in their power to support the participation of Ukrainian chess players in the Championship&#160;being in contact also with&#160;the Ukrainian Chess Federation.&#160; The ECU Board,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-statement-on-eicc2022-in-slovenia/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1968,14 +1976,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mircea-parligras-and-alessia-ciolacu-are-the-new-romanian-champions",
          "pubDate" : "Wed, 23 Mar 2022 12:00:00 +0100",
          "title" : "Mircea Parligras and Alessia Ciolacu are the new Romanian Champions"
-      },
-      {
-         "description" : "In an exciting first round, the third leg of the Grand Prix series saw four players getting off to winning starts at Berlin's Unter den Linden. Levon Aronian and Leinier Dominguez got crucial wins against direct contenders Hikaru Nakamura and Daniil Dubov, while Nikita Vitiugov got the better of Amin Tabatabaei, the lowest-rated player in pool D. The most surprising result of the day was Alexandr Predke's win over Maxime Vachier-Lagrave. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r1",
-         "pubDate" : "Wed, 23 Mar 2022 04:50:00 +0100",
-         "title" : "Berlin GP: Aronian and Dominguez score crucial wins"
       },
       {
          "description" : "",
