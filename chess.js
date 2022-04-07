@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Follow these links &#8212; https://chess24.com/en/watch/live-tournaments/ecf-womens-norm-event-2022#live https://chess24.com/en/watch/live-tournaments/1st-she-plays-to-win-international-2022#live (image courtesy of Netflix)",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-womens-norm-event-2022-she-plays-to-win/",
+         "pubDate" : "Thu, 07 Apr 2022 07:00:05 +0000",
+         "title" : "ECF Women's Norm Event 2022/She Plays To Win"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros concludes his series on Richard Rapport's rise to the GM chess title. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rise-rapport-episode-iii-how-become-grandmaster-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0F3yN1I8Ghs.jpg?itok=UaIwlwZz\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
