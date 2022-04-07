@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros concludes his series on Richard Rapport's rise to the GM chess title. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rise-rapport-episode-iii-how-become-grandmaster-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0F3yN1I8Ghs.jpg?itok=UaIwlwZz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rise-rapport-episode-iii-how-become-grandmaster-gm-denes-boros",
+         "pubDate" : "Thu, 07 Apr 2022 01:20:22 +0000",
+         "title" : "The Rise of The Rapport: Episode III | How To Become a Grandmaster - GM Denes Boros"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani marches on with the French Defense, based on the teachings of Parimarjan Negi and his book. Today, it&#039;s all about the Winawer. BUY NEGI&#039;S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> 2022.04.06 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/b",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/1e4-vs-french-part-3-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 07 Apr 2022 01:20:22 +0000",
+         "title" : "1.e4 vs. The French: Part 3 | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "Shortly after winning the 2022 FIDE Grand Prix and qualifying for the FIDE Candidates Tournament, GM Hikaru Nakamura&#38;nbsp;won the ninth week of&#38;nbsp;Arena Kings&#38;nbsp;(making it two weeks in a row). He won in the final with a score of 3-1 against G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -202,7 +218,7 @@ news_feed (
          "title" : "\"Chess: a Game to be Spread in Schools\"Conference"
       },
       {
-         "description" : "National Junior Certificates (09-13, march), Gurugram National Junior Chess Championship 2022 Certificates are out to download. Link : https://aicf.online/National-Junior-M.html The above list is only for Boys",
+         "description" : "National Junior Certificates (09-13, march), Gurugram National Junior Chess Championship 2022 Certificates are out to download. Male : https://aicf.online/National-Junior-M.html Female : https://aicf.online/National-Junior-G.html Any correction please",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/national-junior-certificates-are-out/",
@@ -1256,22 +1272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-announced",
          "pubDate" : "Wed, 30 Mar 2022 09:15:00 +0100",
          "title" : "MPL Indian Chess Tour announced"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes his game from the 2022 Mid-America Open in Clayton, Saint Louis. See how he defeated a strong opponent&#039;s Old Indian Defense. 2022.03.29<br /> Caleb Denby vs. Timothy Radermacher, 2022: A55 Old Indian, main line </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beating-old-indian-mid-america-open-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_emb",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/beating-old-indian-mid-america-open-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 30 Mar 2022 06:15:59 +0000",
-         "title" : "Beating the Old Indian at Mid-America Open | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski talks about modern trends in chess opening preparation. See a prime example of opening preparation of the London System in Hungaski&#039;s game against Harshit Raja from the 2022 Spring Chess Classic in Saint Louis. 2022.03.29<br /> Robert Andrew Hungaski vs Harshit Raja, Spring Chess Classic (2022): D02 London System<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2256472\">https://www.chessgames.com/perl/chessgame?gid=2256472</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/trends-opening-prep-grandmasters-choice-gm-robert-hungaski",
-         "pubDate" : "Wed, 30 Mar 2022 06:15:59 +0000",
-         "title" : "Trends in Opening Prep | Grandmaster's Choice - GM Robert Hungaski"
       },
       {
          "description" : "Yesterday&#39;s results at the&#38;nbsp;2022 FIDE Grand Prix&#38;nbsp;third leg awarded chess fans with a bonus day of chess with two tiebreak matches on Tuesday to decide who should make it through from Groups B and C.&#38;nbsp; In Group B, GM Shakhriyar Mamed...",
