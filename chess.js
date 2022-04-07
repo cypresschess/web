@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Magnus Carlsen once again tops the field of this year&#39;s Norway Chess tournament, scheduled for&#38;nbsp;May 30-June 10, 2022 in Stavanger, Norway. A surprising name this year is that of GM Wang Hao, who comes back from retirement. The tournament ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/norway-chess-2022-participants",
+         "pubDate" : "Thu, 07 Apr 2022 08:02:00 -0700",
+         "title" : "Norway Chess Field Announced: Wang Hao Returns From Retirement"
+      },
+      {
+         "description" : "Norway Chess organisers today revealed a lineup with several surprises for this year's 10th edition of the super tournament, which takes place May 31 - June 11. 4-time winner Magnus Carlsen expectedly heads the field, but Richard Rapport and Teimour Radjabov, who will take part in the Candidates tournament just six days after their final game in Stavanger, have both accepted inviations. So have ex-world champions Viswanathan Anand, Veselin Topalov and Chinese retiree Wang Hao.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/rapport-radjabov-joins-norway-chess-despite-candidates-participation",
+         "pubDate" : "Thu, 07 Apr 2022 14:59:33 +0000",
+         "title" : "Rapport & Radjabov included in surprising Norway Chess lineup"
+      },
+      {
+         "description" : " The 2022 O2C Doeberl Cup starts in a week. At this stage there are 347 players entered across the 4 sections, easily breaking last years record of 330 players. At the moment the Minor is full (with 120 players), while the other events still have a few places available (the Premier has 19). For anyone wondering why we have these limits in place, venue size and equipment are the major considerations. However there is also the issue of tournament management, with 7 round events having a natural limit on the size of the field. Even with accelerated pairings, having more than 128 players in any event makes finding a clear winner tricky. The Premier section starts next Thursday (14th April), with",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-1-week-to-go.html",
+         "pubDate" : "Thu, 07 Apr 2022 13:49:00 +0000",
+         "title" : "2022 O2C Doeberl Cup - 1 week to go"
+      },
+      {
+         "description" : "GM&#38;nbsp;Matthias Bluebaum won the 2022 European Championship&#38;nbsp;in Terme Catez, Slovenia on Wednesday. The German grandmaster edged out GM Gabriel Sargissian on tiebreak. Bronze went to the 2018 champion, GM Ivan Saric, of Croatia. The top 20 pl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/matthias-bluebaum-wins-2022-european-championship",
+         "pubDate" : "Thu, 07 Apr 2022 06:39:13 -0700",
+         "title" : "Matthias Bluebaum Wins 2022 European Championship"
+      },
+      {
+         "description" : "In the last weeks, we added a lot of chess interactivity to the ChessBase news pages. Replaying games is now optimized for mobile devices. There is a pleasing new layout for annotated games. Social sharing has been radically improved. Diagrams have grown a dirty little secret. Live broadcasts with multiple boards can be configured easily.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-technology-for-the-chessbase-news",
+         "pubDate" : "Thu, 07 Apr 2022 13:41:20 +0100",
+         "title" : "New Technology for the ChessBase News"
+      },
+      {
+         "description" : "&#34;At the end of the day there was little incentive,&#34; GM Hikaru Nakamura&#38;nbsp;said about his quick draw against GM Wesley So in the final of the third leg of the FIDE Grand Prix.&#38;nbsp;Both players commented on it in an interview after the tournament...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-so-quick-draw-berlin-2022",
+         "pubDate" : "Thu, 07 Apr 2022 05:38:55 -0700",
+         "title" : "Nakamura On Quick Draw With So: 'There Was Little Incentive'"
+      },
+      {
+         "description" : " <p class=\"lead\">The answer nowadays is simple. GM Sergey Karjakin is the current common ground of the World Champion Magnus Carlsen, the Director-General of FIDE Emil Sutovsky, Twitter's sensation Mr.Dodgy, and the Chinese GM Ding Liren. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/N_R04072.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">World Chess</div> </div> <h2>Carlsen on Karjakin</h2> In an interview for <a href=\"https://www.vg.no/sport/i/Or7lob/magnus-carlsen-usikker-paa-utestengelsen-av-karjakin-oensker-aa-bli-martyr\">the Norwegian newspaper VG,</a> Magnus Carlsen stated that he disagrees with Karjakin, but he is not sure whethe",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/what-do-carlsen-sutovsky-mr-dodgy-and-liren-have-in-common/",
+         "pubDate" : "Thu, 07 Apr 2022 12:03:21 +0000",
+         "title" : "What do Carlsen, Sutovsky, Mr. Dodgy, and Liren have in common?"
+      },
+      {
          "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 2 starts at 11.00 CEST on Wednesday. Follow the games live with computer analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1378,14 +1434,6 @@ news_feed (
          "title" : "European Championship: Strong juniors"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/iDClBQd3i00?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-berlin-pools-tie-breaks/",
-         "pubDate" : "Tue, 29 Mar 2022 12:38:08 +0000",
-         "title" : "FIDE Grand Prix Berlin: Pools Tie-Breaks"
-      },
-      {
          "description" : "National Sub-Junior (04-08, March 2022) Certificates are Out to Download National Sub-Junior and National Sub-Junior Girls Chess Championship 2022 Certificates are out to download for",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1570,14 +1618,6 @@ news_feed (
          "title" : "FIDE Grand Prix Berlin - Round 5 Recap"
       },
       {
-         "description" : "Levon Aronian and Hikaru Nakamura both won big games in the penultimate round of the FIDE Grand Prix as Grigoriy Oparin's stay as sole leader of Pool A proved short-lived. There are now no sole leaders anywhere, with the most drama taking place in Pool C, where Wesley So took down Maxime Vachier-Lagrave to join Sam Shankland in the lead. All games were drawn in Pools B and D, with Yu Yangyi letting Amin Tabatabaei escape just when it looked certain he was going to score a crucial win.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aronian-nakamura-so-shankland-all-win-on-us-day-in-berlin",
-         "pubDate" : "Sun, 27 Mar 2022 20:46:45 +0000",
-         "title" : "Aronian, Nakamura, So & Shankland all win on US day in Berlin"
-      },
-      {
          "description" : " The 22nd European Individual Championship take place Sun 27th Mar to Thu 7th Apr 2022 in Terme Catez, Slovenia. David Navara, Anton Korobov, David Anton Guijarro, Ivan Saric etc. It's not particularly easy for me to engineer a 15 minute delay in a live feed which is why I'm not covering this live.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1624,14 +1664,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1662",
          "pubDate" : "Sun, 27 Mar 2022 13:00:22 +0000",
          "title" : "'Huge relief' for Carlsen as champ survived Duda's spirited comeback to win Charity Cup"
-      },
-      {
-         "description" : "GM Magnus Carlsen&#38;nbsp;won the 2022 Charity Cup&#38;nbsp;on Saturday after beating GM Jan-Krzysztof Duda&#38;nbsp;in a playoff, necessary as the Polish grandmaster won the second regular match. Having won the Airthings Masters, this tournament is the&#38;nb...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-2022-charity-cup",
-         "pubDate" : "Sun, 27 Mar 2022 03:06:00 -0700",
-         "title" : "Carlsen Wins 2022 Charity Cup"
       },
       {
          "description" : "",
@@ -1690,14 +1722,6 @@ news_feed (
          "title" : "Berlin GP: Wide open"
       },
       {
-         "description" : "On Friday GM Magnus Carlsen&#38;nbsp;convincingly won the first of two matches vs. GM Jan-Krzysztof Duda&#38;nbsp;in the final of the&#38;nbsp;2022 Charity Cup. Carlsen described the affair as &#34;fascinating&#34; and the last two games as &#34;exceptionally interesting...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-charity-cup-final-match-1",
-         "pubDate" : "Sat, 26 Mar 2022 02:51:00 -0700",
-         "title" : "Charity Cup Day 7: Carlsen Leads In Final After 'Fascinating' 1st Match"
-      },
-      {
          "description" : "My late friend Tony Buzan, educational guru and inventor of Mind Maps also developed the concept of the Mastermind Group: individuals who, for various reasons, could prove a source of personal inspiration and motivation. My youthful Mastermind group (I had at an early age stumbled on the idea, if not the nomenclature) included the musical genius []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1720,14 +1744,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/charity-cup-2022-d7",
          "pubDate" : "Sat, 26 Mar 2022 08:55:00 +0100",
          "title" : "Charity Cup Finals: Carlsen gets clear win in first set"
-      },
-      {
-         "description" : "The fourth round of leg three of the 2022 FIDE Grand Prix&#38;nbsp;saw no fewer than five decisive games.&#38;nbsp;GM Grigoriy Oparin&#39;s win in Group A means that he takes the lead. In the same group, GM Hikaru Nakamura&#38;nbsp;defeated GM Levon Aronian&#38;nbsp;...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-round-4",
-         "pubDate" : "Fri, 25 Mar 2022 19:03:00 -0700",
-         "title" : "Nakamura Wins On Demand: 2022 FIDE Grand Prix Berlin Leg 3, Round 4"
       },
       {
          "description" : "",
@@ -1976,14 +1992,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/33576267/ash-barty-michael-jordan-elite-athletes-retiring-their-peak?device=featurephone",
          "pubDate" : "Wed, 23 Mar 2022 07:39:36 -0500",
          "title" : "Ash Barty to Michael Jordan - elite athletes retiring at their peak"
-      },
-      {
-         "description" : "The final day of the Charity Cup preliminaries had its fair share of drama, with half the players getting knocked out of the competition after 15 rounds. Praggnanandhaa and Richard Rapport did not make the cut, with Pragg missing winning chances before losing his last game of the prelims against David Anton. Anton, who came from scoring wins in the two previous rounds, climbed all the way up to fourth place thanks to this victory and will face Jan-Krzysztof Duda in the quarterfinals. | Photo: Alina l'Ami",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/charity-cup-2022-d4",
-         "pubDate" : "Wed, 23 Mar 2022 13:30:00 +0100",
-         "title" : "Charity Cup: Anton wins three in a row to reach knockout"
       },
       {
          "description" : "",
@@ -2248,22 +2256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1640",
          "pubDate" : "Thu, 17 Mar 2022 16:45:45 +0000",
          "title" : "Workshop: How to Teach Pawn Endings by Artur Jussupow"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1639",
-         "pubDate" : "Thu, 17 Mar 2022 14:15:18 +0000",
-         "title" : "Second workshop on increasing inner strength to be held on March 27"
-      },
-      {
-         "description" : " The FIDE Chess Olympiad will be held later this year in Chennai, India according to a FIDE press release. The decision was made by the FIDE Council yesterday after postponing the event in the aftermath of the invasion of Ukraine by Russian forces. FIDE President Nigel Short announced via Twitter, &#8220;Due to the deteriorating geopolitical [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/17/india-to-host-fide-chess-olympiad/\">India to host FIDE Chess Olympiad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/03/17/india-to-host-fide-chess-olympiad/",
-         "pubDate" : "Thu, 17 Mar 2022 13:54:52 +0000",
-         "title" : "India to host FIDE Chess Olympiad"
       }
    ]
 }
