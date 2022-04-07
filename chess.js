@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 2 starts at 11.00 CEST on Wednesday. Follow the games live with computer analysis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
+         "pubDate" : "Thu, 07 Apr 2022 10:55:00 +0100",
+         "title" : "Reykjavik Open - Live!"
+      },
+      {
+         "description" : "The German Grandmaster Matthias Bl&uuml;baum is the new European Champion. In the final round of the European Championships he played against GM Ivan Saric from Croatia, who needed to win this crucial game to become European Champion, but a draw secured Bl&uuml;baum the title. After eleven rounds he and GM Gabriel Sargissian from Armenia both had 8.5/11 but Bl&uuml;baum had the better tiebreak and won the tournament. | Photos: �ZS/Luka Rifelj",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/matthias-bluebaum-wins-european-championship-2022",
+         "pubDate" : "Thu, 07 Apr 2022 10:33:37 +0100",
+         "title" : "Matthias Bl&uuml;baum wins European Championship 2022!"
+      },
+      {
+         "description" : "The European Individual Chess Championship 2022 concluded yesterday in Terme Catez, Slovenia. After 11 played rounds with more than 300 participants, German Grandmaster Matthias Bluebaum (GER, 2642) won the Championship scoring 8 points. Bluebaum maintained the leadership from the 5th round and in the end tied for the first place with Sargissian Gabrial (ARM, 2681) who had the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/matthias-bluebaum-wins-european-individual-chess-championship-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/matthias-bluebaum-wins-european-individual-chess-championship-2022/",
+         "pubDate" : "Thu, 07 Apr 2022 08:37:28 +0000",
+         "title" : "Matthias Bluebaum wins European Individual Chess Championship 2022"
+      },
+      {
          "description" : "Follow these links &#8212; https://chess24.com/en/watch/live-tournaments/ecf-womens-norm-event-2022#live https://chess24.com/en/watch/live-tournaments/1st-she-plays-to-win-international-2022#live (image courtesy of Netflix)",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -120,14 +144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bortnyk-nepomniachtchi-win-titled-tuesday-april-5-2022",
          "pubDate" : "Wed, 06 Apr 2022 09:10:54 -0700",
          "title" : "Bortnyk Breaks Titled Tuesday Drought, Nepomniachtchi Wins Late"
-      },
-      {
-         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 1 starts at 17.00 CEST on Wednesday. Follow the games live with computer analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
-         "pubDate" : "Wed, 06 Apr 2022 16:55:00 +0100",
-         "title" : "Reykjavik Open - Live!"
       },
       {
          "description" : " This is part 2 of my interview with famous Coach, Grandmaster Ramesh RB. If you haven't read part1 yet, then make sure to check that one out first! Also, go check out Ramesh's Online Chess Training service, PROChessTraining. I've myself trained in the Elite Group. What you get for the little price you pay is [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/gm-ramesh-part-2/\">Gold-Coach GM Ramesh RB On Calculation And How To Train Part 2</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -1746,14 +1762,6 @@ news_feed (
          "title" : "The Steven Rollins Chess Rule"
       },
       {
-         "description" : "After five rounds of the regular season, most teams know where they stand in the race to make the playoffs. With only two rounds remaining, many teams are facing must-win situations going into round six, and the teams at the top are fighting to cl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-round-5",
-         "pubDate" : "Fri, 25 Mar 2022 12:08:24 -0700",
-         "title" : "Collegiate Chess League Season 4 Round 5"
-      },
-      {
          "description" : "In this week's edition of the Power Play Show, GM Daniel King focuses on a gambit line of the Italian Opening that has caught the attention of elite players. To illustrate his ideas, King analyses a spectacular game, in which White's strategy paid off beautifully. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1898,14 +1906,6 @@ news_feed (
          "title" : "Fourth Chess in Education Lecturer course announced"
       },
       {
-         "description" : "The 7th Rapid Chess Championship of the Francophonie was organized this year on March 19 &#38; 20 jointly by the Lyon Olympique Echecs and the Francophone Chess Association (AIDEF) in partnership with the Auvergne-Rhône-Alpes Region, in the premises of the magnificent Hotel of Region. It brought together 169 participants from 13 countries, including 8 Grand Masters, 11 International&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/french-grandmaster-maxime-lagarde-wins-the-7th-francophone-rapid-chess-championship/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/french-grandmaster-maxime-lagarde-wins-the-7th-francophone-rapid-chess-championship/",
-         "pubDate" : "Thu, 24 Mar 2022 09:18:18 +0000",
-         "title" : "French grandmaster Maxime Lagarde wins the 7th Francophone Rapid Chess Championship"
-      },
-      {
          "description" : "Rating favourites Magnus Carlsen, Ding Liren, Jan-Krzysztof Duda and Le Quang Liem all won their quarterfinal matches at the Charity Cup. Out of the four, only Le needed four games to defeat David Navara, as the remaining three winners of the day managed to knock out their opponents after only three encounters. | Photo: Alina l'Ami",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1984,14 +1984,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/charity-cup-2022-d4",
          "pubDate" : "Wed, 23 Mar 2022 13:30:00 +0100",
          "title" : "Charity Cup: Anton wins three in a row to reach knockout"
-      },
-      {
-         "description" : "This year the Romanian Championships took place from 21 to 27 February at Eforie Nord. In Spring and Summer, Eforie Nord is full of tourists but in the off-season it was quiet, and the tranquility of the place made Eforie the perfect location to play chess. Mircea-Emilian Parligras (pictured) won the Open Championship with 7.0/9, Alessia Ciolacu won the Women's Championship with 7.5/9. | Photos: Florin Ardelean / We Love Sport",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mircea-parligras-and-alessia-ciolacu-are-the-new-romanian-champions",
-         "pubDate" : "Wed, 23 Mar 2022 12:00:00 +0100",
-         "title" : "Mircea Parligras and Alessia Ciolacu are the new Romanian Champions"
       },
       {
          "description" : "",
