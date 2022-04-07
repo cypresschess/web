@@ -78,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-so-quick-draw-berlin-2022",
-         "pubDate" : "Thu, 07 Apr 2022 05:38:55 -0700",
+         "pubDate" : "Thu, 07 Apr 2022 05:38:00 -0700",
          "title" : "Nakamura On Quick Draw With So: 'There Was Little Incentive'"
       },
       {
