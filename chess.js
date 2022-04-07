@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "People across the globe observe April 2 as World Autism Awareness Day. To commemorate the day, a supervision panel of the Infinite Chess FIDE Project was held online. The initiative aims to enhance knowledge and awareness about chess for children with ASD, give practical advice to teachers and parents, study the benefits of introducing chess and develop teaching methods.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-asd-world-autism-awareness-day",
+         "pubDate" : "Thu, 07 Apr 2022 20:05:00 +0100",
+         "title" : "Panel discussion on chess and ASD to mark World Autism Awareness Day"
+      },
+      {
+         "description" : "The European Senior Chess Championship will be held in Lublin, Poland from 4th July 2022 (day of arrival) to 14th July 2022 (day of departure). The Championship will be held in Arche Hotel Lublin. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. The European Senior Individual Chess Championship is&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2022-official-regulations/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-chess-championship-2022-official-regulations/",
+         "pubDate" : "Thu, 07 Apr 2022 18:44:03 +0000",
+         "title" : "European Senior Chess Championship 2022 - Official regulations"
+      },
+      {
+         "description" : "This week Robert Ris takes a look at the game Saric-Abasov played in the 10th round of the European Individual Championships - a model game that illustrates how to attack the Sicilian. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-model-game-against-the-sicilian",
+         "pubDate" : "Thu, 07 Apr 2022 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A model game against the Sicilian"
+      },
+      {
+         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 3 starts at 18.00 CEST on Wednesday. Follow the games live with computer analysis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
+         "pubDate" : "Thu, 07 Apr 2022 17:55:00 +0100",
+         "title" : "Reykjavik Open - Live!"
+      },
+      {
          "description" : "GM Magnus Carlsen once again tops the field of this year&#39;s Norway Chess tournament, scheduled for&#38;nbsp;May 30-June 10, 2022 in Stavanger, Norway. A surprising name this year is that of GM Wang Hao, who comes back from retirement. The tournament ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -10,12 +42,12 @@ news_feed (
          "title" : "Norway Chess Field Announced: Wang Hao Returns From Retirement"
       },
       {
-         "description" : "Norway Chess organisers today revealed a lineup with several surprises for this year's 10th edition of the super tournament, which takes place May 31 - June 11. 4-time winner Magnus Carlsen expectedly heads the field, but Richard Rapport and Teimour Radjabov, who will take part in the Candidates tournament just six days after their final game in Stavanger, have both accepted inviations. So have ex-world champions Viswanathan Anand, Veselin Topalov and Chinese retiree Wang Hao.",
+         "description" : "The Norway Chess organisers today revealed a line-up with several surprises for this year's 10th edition of the super tournament, which takes place from May 31 to June 11. 4-time winner Magnus Carlsen heads the field, as expected, but Richard Rapport and Teimour Radjabov, who will take part in the Candidates Tournament just six days after their final game in Stavanger, have both accepted invitations. So have ex-World Champions Viswanathan Anand and Veselin Topalov, and Wang Hao, who announced his retirement last year.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/rapport-radjabov-joins-norway-chess-despite-candidates-participation",
          "pubDate" : "Thu, 07 Apr 2022 14:59:33 +0000",
-         "title" : "Rapport & Radjabov included in surprising Norway Chess lineup"
+         "title" : "Rapport & Radjabov included in surprise Norway Chess line-up"
       },
       {
          "description" : " The 2022 O2C Doeberl Cup starts in a week. At this stage there are 347 players entered across the 4 sections, easily breaking last years record of 330 players. At the moment the Minor is full (with 120 players), while the other events still have a few places available (the Premier has 19). For anyone wondering why we have these limits in place, venue size and equipment are the major considerations. However there is also the issue of tournament management, with 7 round events having a natural limit on the size of the field. Even with accelerated pairings, having more than 128 players in any event makes finding a clear winner tricky. The Premier section starts next Thursday (14th April), with",
@@ -30,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/matthias-bluebaum-wins-2022-european-championship",
-         "pubDate" : "Thu, 07 Apr 2022 06:39:13 -0700",
+         "pubDate" : "Thu, 07 Apr 2022 06:39:00 -0700",
          "title" : "Matthias Bluebaum Wins 2022 European Championship"
       },
       {
@@ -56,14 +88,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/what-do-carlsen-sutovsky-mr-dodgy-and-liren-have-in-common/",
          "pubDate" : "Thu, 07 Apr 2022 12:03:21 +0000",
          "title" : "What do Carlsen, Sutovsky, Mr. Dodgy, and Liren have in common?"
-      },
-      {
-         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 2 starts at 11.00 CEST on Wednesday. Follow the games live with computer analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
-         "pubDate" : "Thu, 07 Apr 2022 10:55:00 +0100",
-         "title" : "Reykjavik Open - Live!"
       },
       {
          "description" : "The German Grandmaster Matthias Bl&uuml;baum is the new European Champion. In the final round of the European Championships he played against GM Ivan Saric from Croatia, who needed to win this crucial game to become European Champion, but a draw secured Bl&uuml;baum the title. After eleven rounds he and GM Gabriel Sargissian from Armenia both had 8.5/11 but Bl&uuml;baum had the better tiebreak and won the tournament. | Photos: ÅZS/Luka Rifelj",
@@ -215,7 +239,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
          "pubDate" : "Wed, 06 Apr 2022 14:55:00 +0100",
-         "title" : "European Individual Chess Championship (EICC), Round 11 - live"
+         "title" : "European Individual Chess Championship (EICC) - Games and results"
       },
       {
          "description" : "Junior chess remains extremely popular in England with a thriving educational and competitive scene. There are many organisations and service providers including for profits, charities...",
@@ -1826,14 +1850,6 @@ news_feed (
          "title" : "Recruitment of meritorious sportspersons in the Income Tax Department, West Bengal & Sikkim"
       },
       {
-         "description" : "Referring to the open letter from the Ukrainian Chess Federation dated 23.03.2022 and the upcoming European Chess Championship in Slovenia, we have to inform that ECU and the Slovenian Chess Federation have done everything in their power to support the participation of Ukrainian chess players in the Championship&#160;being in contact also with&#160;the Ukrainian Chess Federation.&#160; The ECU Board,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-statement-on-eicc2022-in-slovenia/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-statement-on-eicc2022-in-slovenia/",
-         "pubDate" : "Fri, 25 Mar 2022 09:23:16 +0000",
-         "title" : "ECU Statement on EICC2022 in Slovenia"
-      },
-      {
          "description" : " Fide's ban on Sergey Karjakin provides an opportunity in the current series to decide Magnus Carlsen's next challenger China's world No 3 Ding Liren could make an unlikely late bid for a place in the Candidates tournament that will decide Magnus Carlsen's next challenger. Ding's chances seemed to have vanished when visa problems prevented him competing in the current Grand Prix series in Berlin which will qualify two winners for the Candidates at Madrid in June, but a possible lifeline has appeared due to Fide's six-month ban on Sergey Karjakin, who had qualified for Madrid via the 2021 World Cup but <a href=\"https://www.theguardian.com/sport/2022/mar/21/sergey-karjakin-banned-chess-fide-ru",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1946,14 +1962,6 @@ news_feed (
          "title" : "FIDE Grand Prix Berlin - Round 2 Recap"
       },
       {
-         "description" : "In his \"Weekly Show\" Lawrence Trent talks about the Charity Cup but his main focus in on the FIDE Grand Prix in Berlin and the implications for the Candidates. Lawrence analyses the big upset from round 1, the game Alexandr Predke vs Maxime Vachier-Lagrave, in which the Russian GM took apart the French maestro who completely underestimated the danger in his position. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-the-fide-grand-prix-in-berlin",
-         "pubDate" : "Wed, 23 Mar 2022 20:09:24 +0100",
-         "title" : "The Weekly Show: The FIDE Grand Prix in Berlin"
-      },
-      {
          "description" : " Losing a chess game hurts. It certainly hurt me a lot in my professional days. Sometimes I needed days or weeks to recover mentally from a bad loss. For a while I thought this was just a \"me\" thing. That I was way too invested and couldn't handle losses well. While there is certainly some [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/why-losing-at-chess-hurts-so-much-and-the-antidote/\">Why Losing At Chess Hurts So Much (And The Antidote)</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM NoÃ«l Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1976,14 +1984,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1655",
          "pubDate" : "Wed, 23 Mar 2022 14:09:29 +0000",
          "title" : "FIDE Council meeting: List of decisions"
-      },
-      {
-         "description" : "Last week, the Canadian WIM spoke about the isolated pawn in depth. In this episode, she talks about the hanging pawns, which evenly often occur in similar openings. The dynamic is different, and Svitlana lets us play with both sides again, fighting with, and against the hanging pawns, trying to find the best moves.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-35",
-         "pubDate" : "Wed, 23 Mar 2022 14:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - How to play with, and against hanging pawns"
       },
       {
          "description" : "A list of athletes who retired on their terms, at their peak, much like Ashleigh Barty did on Wednesday.",
@@ -2248,14 +2248,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/2022-dubbo-open-2-3-april-2022.html",
          "pubDate" : "Fri, 18 Mar 2022 00:40:00 +0000",
          "title" : "2022 Dubbo Open - 2-3 April 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1640",
-         "pubDate" : "Thu, 17 Mar 2022 16:45:45 +0000",
-         "title" : "Workshop: How to Teach Pawn Endings by Artur Jussupow"
       }
    ]
 }
