@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Matthias Bluebaum is the winner of the European Individual Chess Championship 2022 that concluded in Terme Catez, Slovenia. After 11 played rounds with more than 300 participants, German Grandmaster Matthias Bluebaum (GER, 2642) won the Championship scoring 8 points. Bluebaum maintained the leadership from the 5th round and in the end tied for the first []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/matthias-bluebaum-is-the-winner-of-eicc-2022/",
+         "pubDate" : "Fri, 08 Apr 2022 11:25:07 +0000",
+         "title" : "Matthias Bluebaum is the winner of EICC 2022"
+      },
+      {
+         "description" : " <p class=\"lead\">GM Wesley So and Lotis Key give an exclusive interview to Dina Belenkaya on chess path, how they meet each other, the necessity of quitting social media and more. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/XyJu4O1OnzQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/exclusive-interview-with-gm-wesley-so-and-lotis-key/",
+         "pubDate" : "Fri, 08 Apr 2022 09:17:35 +0000",
+         "title" : "Exclusive Interview with GM Wesley So and Lotis Key"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After publicly trading punches with its two times winner <strong>Sergey Karjakin</strong>, <strong>Norway Chess</strong> has <a href=\"https://norwaychess.no/en/players-2022/\">published the invitees</a> for its tenth edition on 31 May to 10 June in Stavanger, including <strong>Magnus Carlsen</strong> (as always), semi-retired stars and two participants of the Candidates Tournament starting on 17 June, <strong>Rich&aacute;rd Rapport</strong> and <strong>Teimour Radjabov</strong>, who supported Putin and the Azerbaijan attack on Nagorno-Karabakh on social media. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/controversial-invitees-at-stavanger/",
+         "pubDate" : "Fri, 08 Apr 2022 09:11:51 +0100",
+         "title" : "Controversial invitees at Stavanger"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Under its <a href=\"https://www.chesstech.org/2021/postponed-election-in-romania/\">new leadership</a> the <strong>Romanian Chess Federation</strong> announced a <a href=\"https://frsah.ro/gp-romania-en/\">100 000€ Grand Prix</a> of two rapid and three classical tournaments. The first event on 30 April-1 May in Bucharest precedes the inaugural classical tournament of the <strong>Grand Chess Tour 2022</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/romanian-grand-prix-announced/",
+         "pubDate" : "Fri, 08 Apr 2022 08:28:39 +0100",
+         "title" : "Romanian Grand Prix announced"
+      },
+      {
          "description" : " World No 7 defeated Hikaru Nakamura but missed out on a place among eight Candidates to face Magnus Carlsen for the world title Wesley So won the low-key final leg of the Fide Grand Prix in Berlin on Monday, but the US world No 7 missed out on what mattered to him most, qualification for June's world title Candidates in Madrid. So and Hikaru Nakamura, who was already sure of overall Grand Prix victory and a Candidates place, made little effort in their two classical games. The second ended after just a few minutes play with what has become the standard tacitly agreed fast drawing sequence for top grandmaster chess, a Ruy Lopez Berlin Defence <a href=\"https://www.chessgames.com/perl/chessgam",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -906,14 +938,6 @@ news_feed (
          "title" : "Arkady Dvorkovich will run for reelection"
       },
       {
-         "description" : "Bharat Singh Chauhan and Arkady Dvorkovich signed the contract for the Chess Olympiad 2022 in Chennai. Here is the video of the moment of the signing of the Chess Olympiad Chennai contract. Read the full news here",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-chennai-signing-of-the-contract-video/",
-         "pubDate" : "Fri, 01 Apr 2022 17:31:24 +0000",
-         "title" : "Chess Olympiad Chennai - signing of the contract (VIDEO)"
-      },
-      {
          "description" : " <p class=\"lead\">Hikaru Nakamura and Wesley So won their matches and will meet in the final of the third stage of the FIDE Grand Prix in Berlin organised by World Chess. Both Americans defeated their opponents Shakhriyar Mamedyarov and Amin Tabatabaei with a 2:0 score. <h2>Wesley So will have White pieces in the first game of the final match on the 2nd of April.</h2> <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/20220401163446_IMG_5905.jpg\" width=\"2560\" height=\"1706\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220401154622_IMG_5883.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </di",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1112,14 +1136,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/slovenia-and-ecu-support-ukrainians/",
          "pubDate" : "Thu, 31 Mar 2022 21:43:14 +0100",
          "title" : "Slovenia and ECU support Ukrainians"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Hikaru Nakamura</strong> and <strong>Richard Rapport</strong> <a href=\"https://worldchess.com\">qualified</a> at the <strong>Grand Prix</strong> for the <strong>Candidates Tournament</strong> that will take place in Madrid from 17 June to 4 July (or 5 July if equality on the first place leads to a tiebreak). The place of the banned <strong>Sergey Karjakin</strong> will probably go to current world number two <strong>Ding Liren</strong> who is underway <a href=\"https://chess24.com/en/watch/live-tournaments/hangzhou-grandmaster-2022/7/1/1\">in Chinese events</a> to complete enough rated games before 1 May. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/nakamura-rapport-and-probably-ding/",
-         "pubDate" : "Thu, 31 Mar 2022 21:35:26 +0100",
-         "title" : "Nakamura, Rapport and probably Ding"
       },
       {
          "description" : "Vladimir Putin uses athletes for his propaganda. But Russian chess grandmaster Daniil Dubov is standing up to the Russian leader and the war in Ukraine. In an interview with Europe's premier news magazine, the 25-year-old explains why he is willing to take that risk. \"Nuclear war could break out and I could miss the end of the world while analysing the Italian opening.\" | Photo: Jacek Prondzynski/Newspix/Imago",
@@ -1432,14 +1448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-trent-s-tactics-18",
          "pubDate" : "Tue, 29 Mar 2022 17:00:00 +0100",
          "title" : "Trent's Tactics - The insurance"
-      },
-      {
-         "description" : " <p class=\"lead\">The <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> tiebreaks ended with Mamedyarov and So promoting to the semifinals against Nakamura and Tabatabaei respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220329150558_IMG_5445.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220329150428_IMG_5441.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photos: Pierre Adenis/World Chess</div> </div> The Rapid tiebreaks started with two decisive games. Both Mamedyarov and So wo",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/mamedyarov-and-so-are-in-the-fide-grand-prix-semifinals/",
-         "pubDate" : "Tue, 29 Mar 2022 15:45:19 +0000",
-         "title" : "Mamedyarov and So are in the FIDE Grand Prix Semifinals"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90524221.cms\" />Grandmaster and national champion Arjun Erigaisi came up with yet another inspired effort and crashed through the defences of Karthik Venkataraman to win the 19th Delhi International open chess tournament on Tuesday. Earlier this month the young man had won the National Championship at Kanpur quite easily and that means his winnings this month are Rs 10 lakh in all.",
@@ -2026,14 +2034,6 @@ news_feed (
          "title" : "Chess 2022 - January Top Pics"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Accounts of several unnamed Russian oligarchs <a href=\"https://www.chess.com/blog/CHESScom/on-the-invasion-of-ukraine?ref_id=43524416\">were identified and closed</a> by <strong>Chess.com</strong>, which has also sent the open anti-war-letter by Russian players to its members in Russia and Belarus. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/oligarchs-banned-on-chesscom/",
-         "pubDate" : "Tue, 22 Mar 2022 15:32:38 +0100",
-         "title" : "Oligarchs banned on Chess.com"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/bcbfd35b-6e78-41ca-986d-ffcb6eead9f8/Hans2.jpg\" data-image-dimensions=\"352x235\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6239d9901cc234022c1d887e\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/bcbfd35b-6e78-41ca-986d-ffcb6eead9f8/Hans2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by <a href=\"https://imrosen.com\">IM Eric Rosen </a> </figcaption> </figure> <p class=\"\">18 year old GM Hans Niemann is a rising star in the c",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2224,30 +2224,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/charity-cup-2022",
          "pubDate" : "Fri, 18 Mar 2022 19:46:00 +0400",
          "title" : "Charity Cup 2022 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1642",
-         "pubDate" : "Fri, 18 Mar 2022 10:54:26 +0000",
-         "title" : "Isle of Man to host the FIDE Grand Swiss and Women's Grand Swiss 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1641",
-         "pubDate" : "Fri, 18 Mar 2022 10:10:33 +0000",
-         "title" : "FIDE Grand Prix: Esipenko replaces Andreikin in Berlin"
-      },
-      {
-         "description" : " Richard Rapport is near to becoming one of the eight candidates to challenge for Magnus Carlsen's crown, while six-year-old Kushal Jakhria tied for first at the Blackpool U1850 Intermediate despite being the lowest ranked player Richard Rapport is near to claiming one of the two remaining places in the 2022 Candidates after the Hungarian defeated Russia's Dmitry Andreikin 1.5-0.5 in Belgrade in the second-leg final of the Fide Grand Prix. The action now moves to the third and final leg in Berlin from 21 March to 4 April, which Rapport will sit out while his rivals battle. The <a href=\"https://chess24.com/en/watch/live-tournaments/fide-grand-prix-2022-leg-2-knockout/2/1/2\" title=\"\">decisive ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/mar/18/chess-rapport-closes-in-on-candidates-as-six-year-old-steals-show-at-blackpool",
-         "pubDate" : "Fri, 18 Mar 2022 08:00:53 +0000",
-         "title" : "Chess: Rapport closes in on Candidates as six-year-old steals show at Blackpool"
       }
    ]
 }
