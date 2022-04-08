@@ -10,6 +10,14 @@ news_feed (
          "title" : "Reykjavik Open - Live!"
       },
       {
+         "description" : "Chess.com is pleased to have released a reorganized and more intuitive navigation bar, where everything&#38;nbsp;is where it should be. The changes may look subtle, but we think they will prove to be a major improvement. Here is a comparison of the ol...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-new-navbar-updated-search",
+         "pubDate" : "Fri, 08 Apr 2022 08:04:00 -0700",
+         "title" : "New Navbar With Updated Search"
+      },
+      {
          "description" : " \"500 Chess Questions Answered\" is a book a purchased recently. Written by GM Andy Soltis, it is basically a FAQ for chess, covering everything from learning strategies to how tournaments are run. One section is titled \"Rulebook\" and deals with common questions. One question is whether knights must always face forward, and of course the answer is no. But what I did not know was that Kasparov always had his knights face left. I'm not sure which way I face my knights (probably forwards) but I guess this means it isn't an issue for me. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1602,14 +1610,6 @@ news_feed (
          "title" : "Pulling the pin"
       },
       {
-         "description" : "GM Dmitry Andreikin&#38;nbsp;won week seven of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Le Quang Liem in a hard-fought final blitz playoff. GM Fabiano Caruana won the Swiss tournament and made it to the semifinal...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-7-andreikin-wins",
-         "pubDate" : "Mon, 28 Mar 2022 06:56:00 -0700",
-         "title" : "Rapid Chess Championship Week 7: Andreikin Wins Knockout"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90497954.cms\" />Reigning national champion Arjun Erigaisi will be the star attraction at the $1,00,000 prize money MPL Indian Chess Tour, an elite online event beginning on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2224,14 +2224,6 @@ news_feed (
          "link" : "https://www.thearticle.com/cambridge-wreck-sighted-the-2022-varsity-chess-match/",
          "pubDate" : "Sat, 19 Mar 2022 11:42:52 +0000",
          "title" : "Cambridge wreck sighted: the 2022 Varsity Chess Match"
-      },
-      {
-         "description" : " The Charity Cup is the second event of the Meltwater Champions Chess Tour of 2022. The online event is hosted by chess24 and takes place 19th to 26th March 2022. The event is a \"a fundraiser for UNICEF to support their vital humanitarian activities in and around Ukraine.\" There will be no Russian players in the event. Players: Magnus Carlsen, Ding Liren, Richard Rapport, Jan-Krzysztof Duda, Vidit Gujrathi, Pentala Harikrishna, Jorden Van Foreest, Quang Liem Le, David Navara, David Anton, Gawain Jones, Hans Moke Niemann, R Praggnanandhaa, Eric Hansen, Ju Wenjun and Lei Tingjie.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/charity-cup-2022",
-         "pubDate" : "Fri, 18 Mar 2022 19:46:00 +0400",
-         "title" : "Charity Cup 2022 - Games and Results"
       }
    ]
 }
