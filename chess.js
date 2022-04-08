@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 4 starts at 17.00 CEST on Friday. Follow the games live with computer analysis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
+         "pubDate" : "Fri, 08 Apr 2022 16:55:00 +0100",
+         "title" : "Reykjavik Open - Live!"
+      },
+      {
+         "description" : " \"500 Chess Questions Answered\" is a book a purchased recently. Written by GM Andy Soltis, it is basically a FAQ for chess, covering everything from learning strategies to how tournaments are run. One section is titled \"Rulebook\" and deals with common questions. One question is whether knights must always face forward, and of course the answer is no. But what I did not know was that Kasparov always had his knights face left. I'm not sure which way I face my knights (probably forwards) but I guess this means it isn't an issue for me. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/front-facing-knights.html",
+         "pubDate" : "Fri, 08 Apr 2022 13:31:00 +0000",
+         "title" : "Front facing knights"
+      },
+      {
+         "description" : "At the end of last year, the Uzbek Grandmaster Nodirbek Abdusattorov won the World Rapid Championship in Warsaw at the age of 17, becoming the youngest World Rapid Champion of all time. In the course of the event he defeated Fabiano Caruana, Levon Aronian, Ian Nepomniachtchi - and Magnus Carlsen! \"What a fight!\" writes Anish Giri about Abdusattorov's encounter with the World Champion in his analysis for ChessBase Magazine Extra #206. It's \"The brilliancy\" of the new issue. Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-brilliancy",
+         "pubDate" : "Fri, 08 Apr 2022 13:40:00 +0100",
+         "title" : "\"The brilliancy\""
+      },
+      {
+         "description" : "Norway Chess 2022 is going to take place May 31st to June 10th in Stavanger. It is going to be a 10 player round robin with Magnus Carlsen (who recently won Airthings Masters and Charity Chess Cup), Richard Rapport (who won the Grand Prix Belgrade and qualified for the Candidates Chess 2022), Wesley So (recent []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/norway-chess-2022/",
+         "pubDate" : "Fri, 08 Apr 2022 11:59:04 +0000",
+         "title" : "Norway Chess 2022"
+      },
+      {
          "description" : "Matthias Bluebaum is the winner of the European Individual Chess Championship 2022 that concluded in Terme Catez, Slovenia. After 11 played rounds with more than 300 participants, German Grandmaster Matthias Bluebaum (GER, 2642) won the Championship scoring 8 points. Bluebaum maintained the leadership from the 5th round and in the end tied for the first []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -744,14 +776,6 @@ news_feed (
          "link" : "https://www.chessdom.com/ding-liren-completes-12-games-of-his-candidates-quest-now-2-in-the-world-with-2811-elo/",
          "pubDate" : "Sun, 03 Apr 2022 10:51:54 +0000",
          "title" : "Ding Liren completes 12 games of his Candidates quest, now #2 in the world with 2811 ELO"
-      },
-      {
-         "description" : "After a long theoretical debate, Wesley So and Hikaru Nakamura drew the first game in the final of the third leg of the FIDE Grand Prix Series organized by World Chess. Hikaru Nakamura will have white pieces in the second game of the mini-match. More about the FIDE Grand Prix: All about the&#xA0;FIDE Grand Prix []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-hikaru-nakamura-1-2-1-2/",
-         "pubDate" : "Sun, 03 Apr 2022 07:06:41 +0000",
-         "title" : "Wesley So - Hikaru Nakamura 1/2-1/2"
       },
       {
          "description" : " The 2022 Dubbo Open has attracted a good field of 37 players. The top 2 seeds are Cameron McGowan and FM Michael Kethro, with a solid field of 1750-2000 rated players making up the next 7 seeds. After the first 3 rounds, McGowan, Kethro and WFM Alana Chibnall lead with 3/3. Close behind on 2.5 are WFM Kristine Quek, WIM Biljana Dekic and Kye Walls. The round 4 pairings see McGowan play Kethro on the top board, with Dekic v Chibnall on board 2. After the 3rd round the traditional time handicap blitz event was held. Players were given a time bonus/penalty based on their rating, meaning that higher rated players might start with only 2 or 3 minutes on their click (versus their opponents 5). Th",
@@ -1952,22 +1976,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1649",
          "pubDate" : "Thu, 24 Mar 2022 11:15:40 +0000",
          "title" : "Fourth Chess in Education Lecturer course announced"
-      },
-      {
-         "description" : "Rating favourites Magnus Carlsen, Ding Liren, Jan-Krzysztof Duda and Le Quang Liem all won their quarterfinal matches at the Charity Cup. Out of the four, only Le needed four games to defeat David Navara, as the remaining three winners of the day managed to knock out their opponents after only three encounters. | Photo: Alina l'Ami",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/charity-cup-2022-d5",
-         "pubDate" : "Thu, 24 Mar 2022 09:40:00 +0100",
-         "title" : "Charity Cup: Favourites prevail"
-      },
-      {
-         "description" : "All eight games played on Wednesday at the FIDE Grand Prix in Berlin finished drawn, which means Levon Aronian, Leinier Dominguez, Alexandr Predke and Nikita Vitiugov continue to lead their respective pools. After the round was over, Dina Belenkaya asked the players to share their opinion on FIDE's decision to ban Sergey Karjakin from competitive chess for six months. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r2",
-         "pubDate" : "Thu, 24 Mar 2022 05:45:00 +0100",
-         "title" : "Berlin GP: Eight draws, players share their opinion on Karjakin's ban"
       },
       {
          "description" : "",
