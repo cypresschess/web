@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " World No 7 defeated Hikaru Nakamura but missed out on a place among eight Candidates to face Magnus Carlsen for the world title Wesley So won the low-key final leg of the Fide Grand Prix in Berlin on Monday, but the US world No 7 missed out on what mattered to him most, qualification for June's world title Candidates in Madrid. So and Hikaru Nakamura, who was already sure of overall Grand Prix victory and a Candidates place, made little effort in their two classical games. The second ended after just a few minutes play with what has become the standard tacitly agreed fast drawing sequence for top grandmaster chess, a Ruy Lopez Berlin Defence <a href=\"https://www.chessgames.com/perl/chessgam",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/apr/08/chess-wesley-so-wins-in-berlin-but-laments-failure-to-qualify-for-candidates",
+         "pubDate" : "Fri, 08 Apr 2022 07:00:15 +0000",
+         "title" : "Chess: Wesley So wins in Berlin but laments failure to qualify for Candidates"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The Corporate Chess League concludes its Spring regular season. Join NM Caleb Denby for the move-by-move. 2022.04.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-corporate-chess-league-virtual-spring-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6T3yBW-2GQY.jpg?itok=9-2Qjcwk\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
