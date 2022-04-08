@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel gives the first-ever Double Exclam!! class. The mysterious masked Josh shows game with inspirational, strong moves. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/friedels-inspirational-moves-double-exclam-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Scvaos7uRa8.jpg?itok=drhVMDwS\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/friedels-inspirational-moves-double-exclam-gm-josh-friedel",
+         "pubDate" : "Fri, 08 Apr 2022 22:22:42 +0000",
+         "title" : "Friedel's Inspirational Moves!! | Double Exclam!! - GM Josh Friedel"
+      },
+      {
+         "description" : " The Kvika Reykjavik Open takes place Wed 6th to Tue 12th April 2022. The leading players are mostly talented juniors with a big contingent from India: Pouya Idani, D Gukesh, Hans Moke Niemann, B Adhiban, Raunak Sadhwani, R Praggnanandhaa, Abhijeet Gupta, Max Warmerdam etc.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/kvika-reykjavik-open-2022",
+         "pubDate" : "Fri, 8 Apr 2022 21:00:00 +0400",
+         "title" : "Kvika Reykjavik Open 2022 - "
+      },
+      {
+         "description" : " The 10th Norway Chess tournament takes place in Stavanger May 31st to June 10th 2022. The field is: Magnus Carlsen, Richard Rapport, Wesley So, Shakhriyar Mamedyravov, Anish Giri, Teymur Rajabov, Viswanathan Anand, Maxime Vachier-Lagrave, Veselin Topalov and Wang Hao. This year with other tournaments clashing and the reluctance to invite Russian players means that the field is a little weaker than in recent years where they mostly went for the best players going down the rating list. That said the field is plenty interesting enough. I am a little surprised they didn't use the opportunity to invite another Norwegian player, likely Aryan Tari (I strongly believe that if you have a prestigious",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/10th-norway-chess-tournament-2022",
+         "pubDate" : "Fri, 8 Apr 2022 20:51:00 +0400",
+         "title" : "10th Norway Chess Tournament 2022 - Games and Results"
+      },
+      {
          "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 4 starts at 17.00 CEST on Friday. Follow the games live with computer analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -280,14 +304,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/rise-rapport-episode-ii-how-become-grandmaster-gm-denes-boros",
          "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
          "title" : "The Rise of The Rapport: Episode II | How To Become a Grandmaster - GM Denes Boros"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani takes on the French Defense, based on the teachings of Parimarjan Negi and his book. BUY NEGI&#039;S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> Originally on Twitch<br /> 2022.03.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1e4-vs-french-pa",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/1e4-vs-french-part-1-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
-         "title" : "1.e4 vs. The French: Part 1 | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "",
@@ -591,7 +607,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-final-tiebreaks",
          "pubDate" : "Mon, 04 Apr 2022 12:54:00 -0700",
-         "title" : "So Wins Final: 2022 FIDE Grand Prix Berlin Leg 3, Final Tiebreaks"
+         "title" : "Wesley So Wins 2022 FIDE Grand Prix Berlin Leg 3 Final"
       },
       {
          "description" : " <p class=\"lead\">Wesley So wins the third leg of the FIDE Grand Prix Series 2022, organized by World Chess; Hikaru Nakamura wins the FIDE Grand Prix Series 2022; Nakamura and Richard Rapport qualify for the FIDE Candidates Tournament to be held in Madrid later this year. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4721104082806\"> <img src=\"https://worldchess.com/news/pictures/0V8A9937.JPG\" width=\"2560\" height=\"1739\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220404154150_IMG_6133.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/0V8A9663.JPG\" width=\"2560\" height=\"1783\" alt=\"\" /> <img src=\"https://w",
