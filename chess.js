@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League concludes its Spring regular season. Join NM Caleb Denby for the move-by-move. 2022.04.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-corporate-chess-league-virtual-spring-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6T3yBW-2GQY.jpg?itok=9-2Qjcwk\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-corporate-chess-league-virtual-spring-5",
+         "pubDate" : "Fri, 08 Apr 2022 04:22:12 +0000",
+         "title" : "2022 Saint Louis Corporate Chess League: Virtual Spring #5"
+      },
+      {
          "description" : "The Kvika Reykjav&iacute;k Open kicked off on Tuesday, with one round played on opening day and a double round on Wednesday. Hans Niemann (United States) and Lukasz Jarmula (Poland) are the only players to have won all three of their games. No fewer than 31 players stand a half point back, including a number of Indian rising stars. | Pictured: Top seed Pouya Idani (Iran) | Photo: Thorsteinn Magnusson",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -200,14 +208,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/1e4-vs-french-part-1-chess-and-psychology-im-dorsa-derakhshani",
          "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
          "title" : "1.e4 vs. The French: Part 1 | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues on with the French Defense, based on the teachings of Parimarjan Negi and his book. BUY NEGI&#039;S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> Originally on Twitch<br /> 2022.03.30 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1e4-vs-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/1e4-vs-french-part-2-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
-         "title" : "1.e4 vs. The French: Part 2 | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "",
