@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kvika Reykjav&iacute;k Open kicked off on Tuesday, with one round played on opening day and a double round on Wednesday. Hans Niemann (United States) and Lukasz Jarmula (Poland) are the only players to have won all three of their games. No fewer than 31 players stand a half point back, including a number of Indian rising stars. | Pictured: Top seed Pouya Idani (Iran) | Photo: Thorsteinn Magnusson",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-r3",
+         "pubDate" : "Fri, 08 Apr 2022 03:20:00 +0100",
+         "title" : "Reykjavik Open: Niemann and Jarmula on 3 out of 3"
+      },
+      {
+         "description" : "The 2022 Junior Speed Chess Championship presented by SIG continued today with the second qualifier in which GM Andrew Hong ousted&#38;nbsp;GM Brandon Jacobson in a thrilling final match that went all the way to the final game of the bullet tiebreaker...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-qualifier-2",
+         "pubDate" : "Thu, 07 Apr 2022 16:49:08 -0700",
+         "title" : "Hong Wins Tense Tiebreaker: 2022 Junior Speed Chess Championship Qualifier 2"
+      },
+      {
          "description" : "People across the globe observe April 2 as World Autism Awareness Day. To commemorate the day, a supervision panel of the Infinite Chess FIDE Project was held online. The initiative aims to enhance knowledge and awareness about chess for children with ASD, give practical advice to teachers and parents, study the benefits of introducing chess and develop teaching methods.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-model-game-against-the-sicilian",
          "pubDate" : "Thu, 07 Apr 2022 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: A model game against the Sicilian"
-      },
-      {
-         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 3 starts at 18.00 CEST on Wednesday. Follow the games live with computer analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
-         "pubDate" : "Thu, 07 Apr 2022 17:55:00 +0100",
-         "title" : "Reykjavik Open - Live!"
       },
       {
          "description" : "GM Magnus Carlsen once again tops the field of this year&#39;s Norway Chess tournament, scheduled for&#38;nbsp;May 30-June 10, 2022 in Stavanger, Norway. A surprising name this year is that of GM Wang Hao, who comes back from retirement. The tournament ...",
@@ -1618,14 +1626,6 @@ news_feed (
          "title" : "Berlin GP: A great day for team USA"
       },
       {
-         "description" : "The fascinating battle for the Candidates qualification continues as both GMs&#38;nbsp;Hikaru Nakamura&#38;nbsp;and Levon Aronian&#38;nbsp;won their games in Berlin on Sunday. The two are leading Group A together. The fifth round of leg three of the 2022 FI...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-round-5",
-         "pubDate" : "Sun, 27 Mar 2022 19:21:00 -0700",
-         "title" : "Nakamura Wins Again, Leads With Aronian: 2022 FIDE Grand Prix Berlin Leg 3, Round 5"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2240,14 +2240,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/mar/18/chess-rapport-closes-in-on-candidates-as-six-year-old-steals-show-at-blackpool",
          "pubDate" : "Fri, 18 Mar 2022 08:00:53 +0000",
          "title" : "Chess: Rapport closes in on Candidates as six-year-old steals show at Blackpool"
-      },
-      {
-         "description" : " After a break of 2 years the Dubbo Open is back on. It will run on the weekend of the 2nd and 3rd of April, at the usual venue of the Dubbo RSL Club. This is the 20th anniversary of the tournament, and already a sizeable filed has entered. You can enter at the venue from 930 am on Saturday. 1st prize is guaranteed at $800, with other prizes dependant upon entries. Entry is $50 for adults, $35 for concessions, and $25 for juniors. The event is 6 rounds, with a time limit 60m+10s. There is also a tournament dinner and blitz event on the Saturday evening. The current tournament entries are <a href=\"http://tournaments.streetchess.net/dubbo2022/www2022DubboOpen/\">here</a>, and I am the Director ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/2022-dubbo-open-2-3-april-2022.html",
-         "pubDate" : "Fri, 18 Mar 2022 00:40:00 +0000",
-         "title" : "2022 Dubbo Open - 2-3 April 2022"
       }
    ]
 }
