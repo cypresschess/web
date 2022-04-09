@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Announcing the College Ambassador Program! Chess.com is excited to announce the launch of our College Ambassador Program!&#38;nbsp;This program is designed to empower college students to grow their chess club while also sharing the great game of che...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/college-ambassador-program",
+         "pubDate" : "Sat, 09 Apr 2022 12:22:54 -0700",
+         "title" : "Chess.com's College Ambassador Program"
+      },
+      {
+         "description" : "The Mitropa Cup 2022 will be held from 27th April 8th May in the Sports complex (COSEC)&#160;of Corti, Corsica/Italy. The following chess federations are entitled to take part in the Mitropa Cup 2022:&#160;Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland.&#160; The tournament will be held in two sections: the open section, and the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mitropa-cup-2022-official-invitation/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/mitropa-cup-2022-official-invitation/",
+         "pubDate" : "Sat, 09 Apr 2022 18:16:40 +0000",
+         "title" : "Mitropa Cup 2022 - Official invitation"
+      },
+      {
+         "description" : "Round six is in the books, and only one round remains in the regular season before the playoffs. The University of Texas at Rio Grande Valley is now the only team at 6-0 in division one and looks to go 7-0 to complete the perfect season before the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-round-6",
+         "pubDate" : "Sat, 09 Apr 2022 10:48:53 -0700",
+         "title" : "UTRGV Goes for Perfect Season: Collegiate Chess League Season 4 Round 6"
+      },
+      {
          "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 4 starts at 17.00 CEST on Friday. Follow the games live with computer analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1418,14 +1442,6 @@ news_feed (
          "title" : "So wins the first game of the GP semifinals against Tabatabaei"
       },
       {
-         "description" : "On a well-deserved off day in the 2022 FIDE Grand Prix after becoming a candidate for the world championship for the first time since 2016, GM Hikaru Nakamura won the early Titled Tuesday tournament on March 29. Meanwhile, GM Dmitry Andreikin co...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-andreikin-win-titled-tuesday-march-29-2022",
-         "pubDate" : "Wed, 30 Mar 2022 09:28:10 -0700",
-         "title" : "Nakamura Wins Titled Tuesday On Break, Andreikin Continues Run"
-      },
-      {
          "description" : "World Chess has introduced an innovation that will likely add a new dimension to the way fans watch chess (and other mind sports, for that matter!). They have developed - and will roll out today - a tool that tracks the players' heart rate over video signal (without playing having to wear a pulse-tracking device). Please find the press release below and tune in today to see the technology in action during the semi-finals of the Grand Prix in Berlin. Press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1512,14 +1528,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-announced",
          "pubDate" : "Wed, 30 Mar 2022 09:15:00 +0100",
          "title" : "MPL Indian Chess Tour announced"
-      },
-      {
-         "description" : "Yesterday&#39;s results at the&#38;nbsp;2022 FIDE Grand Prix&#38;nbsp;third leg awarded chess fans with a bonus day of chess with two tiebreak matches on Tuesday to decide who should make it through from Groups B and C.&#38;nbsp; In Group B, GM Shakhriyar Mamed...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-group-tiebreaks",
-         "pubDate" : "Tue, 29 Mar 2022 17:39:00 -0700",
-         "title" : "Mamedyarov, So Win Groups: 2022 FIDE Grand Prix Berlin Leg 3, Group Tiebreaks"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-55/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (55)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-55/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (55)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
@@ -1680,14 +1688,6 @@ news_feed (
          "link" : "https://aicf.in/online-asian-nations-cup-under-14-team-chess-championship-2022-double-delight-for-india/",
          "pubDate" : "Mon, 28 Mar 2022 11:28:42 +0000",
          "title" : "Online Asian Nations Cup Under-14 Team Chess Championship-2022 : Double delight for India"
-      },
-      {
-         "description" : "European Corporate Chess Championship 2022, organized by CC&#38;O- Chess Communication &#38; Organization, under the auspices of European Chess Union, will take place from 17th-20th June 2022 in Rotterdam, Netherlands. The tournament will be played on a luxury cruise ship of Royal Spido (named James Cook), while sailing in the Rotterdam harbour. Any corporate entity is allowed to register&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-corporate-chess-championship-2020-official-invitation/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-corporate-chess-championship-2020-official-invitation/",
-         "pubDate" : "Mon, 28 Mar 2022 10:07:30 +0000",
-         "title" : "EUROPEAN CORPORATE CHESS CHAMPIONSHIP 2022- Official invitation"
       },
       {
          "description" : "The schedule and venue of the FIDE Candidates Tournament 2022 have been recently announced by FIDE. The double round-robin tournament will be played at the magnificent Palacio de Santoña, a centrally located historic building in Madrid. The first round will take place on June 17.",
