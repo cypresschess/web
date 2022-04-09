@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagrammed position, White had a spectacular way to attack Black's exposed king. Readers of this column may dare anything - just trust your intuition!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/challengers-challenge-ii",
+         "pubDate" : "Sat, 09 Apr 2022 09:00:00 +0100",
+         "title" : "Challengers challenge II"
+      },
+      {
+         "description" : "The International Open German Championship for Women will be held from 27th April 1st May in Best Western Plus Plaza Hotel Darmstadt. The event is open to all interested players, regardless of their title or rating. The International Open German Championship for Women will be played in 7 rounds, Swiss system, with time control:&#160;90 min for 40&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/international-open-german-championship-for-women/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/international-open-german-championship-for-women/",
+         "pubDate" : "Sat, 09 Apr 2022 07:20:20 +0000",
+         "title" : "International Open German Championship for Women"
+      },
+      {
+         "description" : "The Romanian Chess Federation launches the project of the Romanian Grand Prix series of 6 events with a total prize fund of 100.000 EUR, aiming to support the top performance in Romanian Chess. Romanian Grand Prix 2022 will consist of 5 open qualifying tournaments and the final closed tournament, with participation of the best Romanian chess players. Three&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/super-chess-rapid-event-in-romania/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/super-chess-rapid-event-in-romania/",
+         "pubDate" : "Sat, 09 Apr 2022 06:07:12 +0000",
+         "title" : "Super Chess Rapid event in Romania"
+      },
+      {
          "description" : "The final qualifier of the&#38;nbsp;2022 Junior Speed Chess Championship presented by SIG was won by IM Mahammad Muradli in a dominating display of chess. Muradli swept his final matchup 8-0 in a resounding victory over IM Platon Galperin and also won...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1650,14 +1674,6 @@ news_feed (
          "title" : "EUROPEAN CORPORATE CHESS CHAMPIONSHIP 2022- Official invitation"
       },
       {
-         "description" : "The European Individual Chess Championship 2022 kicked off yesterday in Terme Catez, Slovenia. ECU President Mr. Zurab Azmaiparashvili and President of Slovenian Chess Federation Mr. Milan Brglez addressed the players shortly before the start of the first round, wished them luck and a joyful stay in Slovenia. ECU President then made a first ceremonial move on the first&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2022-kicked-off-yesterday/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2022-kicked-off-yesterday/",
-         "pubDate" : "Mon, 28 Mar 2022 10:06:37 +0000",
-         "title" : "European Individual Chess Championship 2022 kicked off yesterday"
-      },
-      {
          "description" : "The schedule and venue of the FIDE Candidates Tournament 2022 have been recently announced by FIDE. The double round-robin tournament will be played at the magnificent Palacio de Santoña, a centrally located historic building in Madrid. The first round will take place on June 17.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1776,14 +1792,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
          "pubDate" : "Sat, 26 Mar 2022 15:50:00 +0100",
          "title" : "Charity Cup Finals - Games and results"
-      },
-      {
-         "description" : "The European Individual Chess Championship 2022 opens today and takes place from 26th March 6th April in Terme Catez, Slovenia. The European Individual Chess Championship 2022 is a qualifying event for the FIDE World Cup 2023. &#160;According to FIDE regulations for World Cup and the ECU Board decision, 20 players will qualify. 320 players coming from about&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2022-opens-today/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2022-opens-today/",
-         "pubDate" : "Sat, 26 Mar 2022 13:16:41 +0000",
-         "title" : "European Individual Chess Championship 2022 opens today"
       },
       {
          "description" : " A few years ago I mentioned a game called Smess (AKA Ninny Chess, or All the King's Men). It is a board game very similar to chess, but with different game mechanics and strategies. A similar game (invented around the same time) was Ploy. Ploy was a 2 or 4 player game, where the direction the pieces could move was imprinted on the piece itself (each piece was a disk). Some pieces had a single direction, while more powerful pieces had 2,3 or 4 directions. However, the pieces could be rotated, instead of moving, to enable them to move in entirely different directions. Although the game is out of print, it can be played at various online game platforms. In my old collection of board game books",
@@ -1960,14 +1968,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-508-le-quang-liem-beats-the-italian",
          "pubDate" : "Thu, 24 Mar 2022 16:00:00 +0100",
          "title" : "Game of the Week #508: Le Quang Liem beats the Italian"
-      },
-      {
-         "description" : "George Henry McKenzie led an interesting life and was one the strongest players of the 19th century but today he is almost forgotten. Born in Scotland and a soldier by profession, McKenzie lived in Germany, France, South Africa and India until he finally settled in the US. On the occasion of McKenzie's 185th birthday Eugene Manlapao takes a look at the life and at the chess career of this American Master.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/george-henry-mackenzie-the-forgotten-american-chess-ace-march-24-1837-april-14-1891",
-         "pubDate" : "Thu, 24 Mar 2022 15:33:23 +0100",
-         "title" : "George Henry Mackenzie: The Forgotten American Chess Ace (March 24, 1837-April 14, 1891)"
       },
       {
          "description" : "",
