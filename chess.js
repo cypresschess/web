@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering gives you a rook workout! See puzzles that feature rooks in the starring role. Originally on Twitch<br /> 2022.03.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-moves-rookies-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/U6oZY6wP6GE.jpg?itok=mfk1IFc2\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rook-moves-rookies-beginner-breakdown",
+         "pubDate" : "Sat, 09 Apr 2022 22:23:18 +0000",
+         "title" : "Rook Moves for Rookies | Beginner Breakdown"
+      },
+      {
          "description" : "Announcing the College Ambassador Program! Chess.com is excited to announce the launch of our College Ambassador Program!&#38;nbsp;This program is designed to empower college students to grow their chess club while also sharing the great game of che...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -38,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-bracket-contest",
-         "pubDate" : "Sat, 09 Apr 2022 08:11:23 -0700",
+         "pubDate" : "Sat, 09 Apr 2022 08:11:00 -0700",
          "title" : "2022 Junior Speed Chess Championship Bracket Contest"
       },
       {
@@ -376,14 +384,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/rise-rapport-episode-iii-how-become-grandmaster-gm-denes-boros-lichessorg",
          "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
          "title" : "The Rise of The Rapport: Episode III | How To Become a Grandmaster - GM Denes Boros | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros continues his series on Richard Rapport&#039;s rise to the GM chess title. Originally on Twitch<br /> 2022.03.30<br /> Yu Lie vs Richard Rapport, First Saturday februar GM (2010)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1586738\">https://www.chessgames.com/perl/chessgame?gid=1586738</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rise-rapport-episode-ii-how-become-grandmaster-gm-denes-boros\"><img src=\"https://saintloui",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rise-rapport-episode-ii-how-become-grandmaster-gm-denes-boros",
-         "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
-         "title" : "The Rise of The Rapport: Episode II | How To Become a Grandmaster - GM Denes Boros"
       },
       {
          "description" : "",
