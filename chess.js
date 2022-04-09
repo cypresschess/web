@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final qualifier of the&#38;nbsp;2022 Junior Speed Chess Championship presented by SIG was won by IM Mahammad Muradli in a dominating display of chess. Muradli swept his final matchup 8-0 in a resounding victory over IM Platon Galperin and also won...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-qualifier-3",
+         "pubDate" : "Fri, 08 Apr 2022 18:15:24 -0700",
+         "title" : "Muradli Sweeps Final 8-0: 2022 Junior Speed Chess Championship Qualifier 3"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel gives the first-ever Double Exclam!! class. The mysterious masked Josh shows game with inspirational, strong moves. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/friedels-inspirational-moves-double-exclam-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Scvaos7uRa8.jpg?itok=drhVMDwS\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1608,14 +1616,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/abhijeet-gupta-back-in-joint-lead-at-delhi-international-open-chess/articleshow/90500835.cms",
          "pubDate" : "Mon, 28 Mar 2022 14:44:42 +0000",
          "title" : "Abhijeet Gupta back in joint lead at Delhi International Open Chess"
-      },
-      {
-         "description" : "GM Ding Liren started a 12-game tournament in Hangzhou, China with three wins in two days, which brought him back to second place in the world rankings. According to the Chinese GM&#39;s upcoming schedule, he will reach the 30 rated games that he need...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ding-liren-world-number-two-candidates",
-         "pubDate" : "Mon, 28 Mar 2022 07:11:00 -0700",
-         "title" : "Ding Liren Back To World #2, Plans To Reach 30 Rated Games Needed For Candidates"
       },
       {
          "description" : " Finding the right time to resign after it has all gone wrong is a fine art. I usually play on for a little longer than I should, hoping that something might turn up. On the other hand, some players (especially strong ones) will throw in the towel early especially when playing even stronger opponents. Jan Hein Donner went this way after misplaying the opening against Smyslov back in 1965. The assessment of the position isn't that terrible (White ends up a pawn ahead), but Donner may not have have wished to spend the rest of the day defending a position that would eventually be lost. <br /> <b>Smyslov,Vassily - Donner,Jan Hein [E06]</b><br />Capablanca Memorial Havana (9), 1965 <script>new Pg",
