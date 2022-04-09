@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 4 starts at 17.00 CEST on Friday. Follow the games live with computer analysis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
+         "pubDate" : "Sat, 09 Apr 2022 16:55:00 +0100",
+         "title" : "Reykjavik Open - Live!"
+      },
+      {
+         "description" : "The main event of the&#38;nbsp;2022 Junior Speed Chess Championship presented by SIG gets going on Monday, April 11, and Chess.com is running a contest for you the viewer as well!&#38;nbsp;We are offering $1,500 in cash prizes and over a dozen diamond mem...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-bracket-contest",
+         "pubDate" : "Sat, 09 Apr 2022 08:11:23 -0700",
+         "title" : "2022 Junior Speed Chess Championship Bracket Contest"
+      },
+      {
          "description" : "From 31 May to 10 June, the Norway Chess Tournament will be held for the tenth time in Stavanger. The lineup is headed by Magnus Carlsen, who will be joined by a number of very active players and a few surprising inclusions. Vishy Anand and Veselin Topalov do not play often lately, but will make their way to Stavanger, much like Richard Rapport and Teimour Radjabov, who will participate despite having to play the Candidates shortly after the event comes to an end. Perhaps the most surprising participant, though, is Wang Hao, who had announced his retirement from professional competitions about a year ago.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2022-participants",
          "pubDate" : "Sat, 09 Apr 2022 13:40:00 +0100",
          "title" : "Anand, Topalov and semi-retired Wang to play at Norway Chess"
+      },
+      {
+         "description" : "What is it about the number sixty that so attracts chess writers? One would have expected the iconic number to have been 64, eight times eight, the total number of squares on the chessboard. The fashion began, following on from the extended success of one of the most important chess books ever written, Bobby Fischer: []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/life-begins-at-sixty/",
+         "pubDate" : "Sat, 09 Apr 2022 10:41:38 +0000",
+         "title" : "Life begins at sixty"
       },
       {
          "description" : "In the diagrammed position, White had a spectacular way to attack Black's exposed king. Readers of this column may dare anything - just trust your intuition!",
@@ -1618,14 +1642,6 @@ news_feed (
          "title" : "Richard Rapport and Hikaru Nakamura qualify for Candidates 2022"
       },
       {
-         "description" : "With today&#38;rsquo;s victory in the sixth round of the&#38;nbsp;2022 FIDE Grand Prix&#39;s third leg, GM&#38;nbsp;Hikaru Nakamura&#38;nbsp;scored a hat trick and won Group A, securing a spot in the semifinals. More importantly, the American GM joined GM Richard Rap...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-rapport-qualify-for-2022-fide-candidates",
-         "pubDate" : "Mon, 28 Mar 2022 10:08:00 -0700",
-         "title" : "Nakamura, Rapport In For FIDE Candidates: 2022 FIDE Grand Prix Berlin Leg 3, Round 6"
-      },
-      {
          "description" : "The Kragero Open had a large and strong field which led to many games with fascinating endgames. In his Endgame Magic Show #187 Karsten M&uuml;ller presents seven of these endgames. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1962,14 +1978,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Castling queenside in the Italian"
       },
       {
-         "description" : "In his \"Game of the Week\" show #508, Merijn van Delft looks at two impressive games Le Quang Liem played at the Charity Cup - in both games Le demonstrated Black's attacking potential in the Italian. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-508-le-quang-liem-beats-the-italian",
-         "pubDate" : "Thu, 24 Mar 2022 16:00:00 +0100",
-         "title" : "Game of the Week #508: Le Quang Liem beats the Italian"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2216,14 +2224,6 @@ news_feed (
          "link" : "https://chessimprover.com/logical-chess-2/",
          "pubDate" : "Sun, 20 Mar 2022 10:00:08 +0000",
          "title" : "Logical Chess (2)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1644",
-         "pubDate" : "Sat, 19 Mar 2022 13:58:49 +0000",
-         "title" : "Chess becomes an official sport at XXIV Central American and Caribbean Games"
       }
    ]
 }
