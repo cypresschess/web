@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 31 May to 10 June, the Norway Chess Tournament will be held for the tenth time in Stavanger. The lineup is headed by Magnus Carlsen, who will be joined by a number of very active players and a few surprising inclusions. Vishy Anand and Veselin Topalov do not play often lately, but will make their way to Stavanger, much like Richard Rapport and Teimour Radjabov, who will participate despite having to play the Candidates shortly after the event comes to an end. Perhaps the most surprising participant, though, is Wang Hao, who had announced his retirement from professional competitions about a year ago.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-participants",
+         "pubDate" : "Sat, 09 Apr 2022 13:40:00 +0100",
+         "title" : "Anand, Topalov and semi-retired Wang to play at Norway Chess"
+      },
+      {
          "description" : "In the diagrammed position, White had a spectacular way to attack Black's exposed king. Readers of this column may dare anything - just trust your intuition!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/10th-norway-chess-tournament-2022",
          "pubDate" : "Fri, 8 Apr 2022 20:51:00 +0400",
          "title" : "10th Norway Chess Tournament 2022 - Games and Results"
-      },
-      {
-         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 4 starts at 17.00 CEST on Friday. Follow the games live with computer analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
-         "pubDate" : "Fri, 08 Apr 2022 16:55:00 +0100",
-         "title" : "Reykjavik Open - Live!"
       },
       {
          "description" : "Chess.com is pleased to have released a reorganized and more intuitive navigation bar, where everything&#38;nbsp;is where it should be. The changes may look subtle, but we think they will prove to be a major improvement. Here is a comparison of the ol...",
@@ -146,6 +146,14 @@ news_feed (
          "title" : "2022 Saint Louis Corporate Chess League: Virtual Spring #5"
       },
       {
+         "description" : "People across the globe observe April 2 as World Autism Awareness Day. To commemorate the day, a supervision panel of the Infinite Chess FIDE Project was held online. The initiative aims to enhance knowledge and awareness about chess for children with ASD, give practical advice to teachers and parents, study the benefits of introducing chess and develop teaching methods.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-asd-world-autism-awareness-day",
+         "pubDate" : "Fri, 08 Apr 2022 03:30:00 +0100",
+         "title" : "Panel discussion on chess and ASD to mark World Autism Awareness Day"
+      },
+      {
          "description" : "The Kvika Reykjav&iacute;k Open kicked off on Tuesday, with one round played on opening day and a double round on Wednesday. Hans Niemann (United States) and Lukasz Jarmula (Poland) are the only players to have won all three of their games. No fewer than 31 players stand a half point back, including a number of Indian rising stars. | Pictured: Top seed Pouya Idani (Iran) | Photo: Thorsteinn Magnusson",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,14 +168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-qualifier-2",
          "pubDate" : "Thu, 07 Apr 2022 16:49:08 -0700",
          "title" : "Hong Wins Tense Tiebreaker: 2022 Junior Speed Chess Championship Qualifier 2"
-      },
-      {
-         "description" : "People across the globe observe April 2 as World Autism Awareness Day. To commemorate the day, a supervision panel of the Infinite Chess FIDE Project was held online. The initiative aims to enhance knowledge and awareness about chess for children with ASD, give practical advice to teachers and parents, study the benefits of introducing chess and develop teaching methods.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-asd-world-autism-awareness-day",
-         "pubDate" : "Thu, 07 Apr 2022 20:05:00 +0100",
-         "title" : "Panel discussion on chess and ASD to mark World Autism Awareness Day"
       },
       {
          "description" : "The European Senior Chess Championship will be held in Lublin, Poland from 4th July 2022 (day of arrival) to 14th July 2022 (day of departure). The Championship will be held in Arche Hotel Lublin. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. The European Senior Individual Chess Championship is&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2022-official-regulations/\">Read More &#187;</a></span>",
@@ -2224,22 +2224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1644",
          "pubDate" : "Sat, 19 Mar 2022 13:58:49 +0000",
          "title" : "Chess becomes an official sport at XXIV Central American and Caribbean Games"
-      },
-      {
-         "description" : " Miles Patterson sent me the following game from the 2022 Tasmanian Championship, which he finished in first place. His opponent opened with a double fianchetto defence, which gave White time to launch a typicla dark square attack on the king, swapping the bishop on g7 and pushing the h pawn. g4 to break open the kingside was a good move, and Nxf7 both won material, and essentially finished the game, although Black played on to mate. <br /> <b>Patterson,Miles (2000) - Pretorius,Wynand-Jack (2000) [A04]</b><br />Tasmanian Championship LAPTOP-RNTASBER, 14.03.2022 <script>new PgnViewer( { boardName: \"game1318\", movesFormat: \"default\", pgnString:'1.Nf3 b6 2.g3 Nc6 3.Bg2 g6 4.d4 e6 5.e4 Ba6 6.Be3",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/playing-down-right-flank.html",
-         "pubDate" : "Sat, 19 Mar 2022 12:09:00 +0000",
-         "title" : "Playing down the right flank"
-      },
-      {
-         "description" : "The annual chess match between the teams of Oxford and Cambridge Universities, the Varsity match, has often been described as the Boat Race of the Brain. Last year, the Cambridge boat sank, with almost all hands. After 139 matches the overall score then stood at: Cambridge 60 wins, Oxford 57 and Drawn 22. Last year's catastrophe []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/cambridge-wreck-sighted-the-2022-varsity-chess-match/",
-         "pubDate" : "Sat, 19 Mar 2022 11:42:52 +0000",
-         "title" : "Cambridge wreck sighted: the 2022 Varsity Chess Match"
       }
    ]
 }
