@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> GM Hungaski discusses and analyzes a game played between Levon Aronian and Andrey Esipenko from the the third tournament of the FIDE Grand Prix in Berlin. Originally on Twitch<br /> 2022.03.28<br /> Levon Aronian vs Andrey Esipenko, FIDE Grand Prix Leg 3 (2022): E51 Nimzo-Indian, 4.e3 e8g8, 5.Nf3 d7d5<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2259810\">https://www.chessgames.com/perl/chessgame?gid=2259810</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hr",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-fide-grand-prix-leg-3-aronian-vs-esipenko-puzzlers-paradise-gm-robert-hungaski",
+         "pubDate" : "Sun, 10 Apr 2022 22:23:55 +0000",
+         "title" : "2022 FIDE Grand Prix Leg 3: Aronian vs. Esipenko | Puzzler's Paradise - GM Robert Hungaski"
+      },
+      {
          "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 7 starts at 18.00 CEST on Sunday. Follow the games live with computer analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -392,14 +400,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/1e4-vs-french-part-3-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
          "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
          "title" : "1.e4 vs. The French: Part 3 | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros begins his new series which profiles a specific grandmaster&#039;s rise to the title. First, it&#039;s Boros&#039;s countryman, Richard Rapport. 2022.04.06 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rise-rapport-episode-iii-how-become-grandmaster-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0F3yN1I8Ghs.jpg?itok=UaIwlwZz\" a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rise-rapport-episode-iii-how-become-grandmaster-gm-denes-boros-lichessorg",
-         "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
-         "title" : "The Rise of The Rapport: Episode III | How To Become a Grandmaster - GM Denes Boros | lichess.org"
       },
       {
          "description" : "",
@@ -1978,14 +1978,6 @@ news_feed (
          "title" : "India to host 2022 Chess Olympiad from July 28 to August 10"
       },
       {
-         "description" : "In the one game that had a decisive result in round 3 of the Berlin Grand Prix, 17-year-old Vincent Keymer defeated Daniil Dubov to catch Leinier Dominguez in the lead of pool B. In pool A, Grigoriy Oparin managed to get a clearly superior position against Hikaru Nakamura, but failed to finish the US grandmaster off in a tactical middlegame. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r3",
-         "pubDate" : "Fri, 25 Mar 2022 05:30:00 +0100",
-         "title" : "Berlin GP: Keymer outplays Dubov"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2208,14 +2200,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-memberships-ukraine/",
          "pubDate" : "Mon, 21 Mar 2022 06:38:47 +0000",
          "title" : "ECF memberships - Ukraine"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1648",
-         "pubDate" : "Sun, 20 Mar 2022 22:06:16 +0000",
-         "title" : "Vietnam's speed chess star races ahead in Charity Cup"
       }
    ]
 }
