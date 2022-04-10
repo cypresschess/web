@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 74th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about pieces that are out of play. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-74-pieces-that-are-out-of-play-and-how-to-exploit-them",
+         "pubDate" : "Sun, 10 Apr 2022 13:00:00 +0100",
+         "title" : "Understanding before Moving 74: Pieces that are out of play - and how to exploit them"
+      },
+      {
+         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 6 starts at 11.00 CEST on Sunday. Follow the games live with computer analysis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
+         "pubDate" : "Sun, 10 Apr 2022 10:55:00 +0100",
+         "title" : "Reykjavik Open - Live!"
+      },
+      {
          "description" : " How would you assess this position, with Black to move? Perhaps you think White can look forward to playing on the f-file against Black's doubled pawns, with moves like Bc4 and Qf3 to come. I could imagine thinking like that myself if I had this position in a blitz game. It comes from an old <a href=\"https://chessimprover.com/four-knights-fiasco/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Four Knights Fiasco\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/four-knights-fiasco/\">Four Knights Fiasco</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-round-6",
          "pubDate" : "Sat, 09 Apr 2022 10:48:53 -0700",
          "title" : "UTRGV Goes for Perfect Season: Collegiate Chess League Season 4 Round 6"
-      },
-      {
-         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 4 starts at 17.00 CEST on Friday. Follow the games live with computer analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
-         "pubDate" : "Sat, 09 Apr 2022 16:55:00 +0100",
-         "title" : "Reykjavik Open - Live!"
       },
       {
          "description" : "The main event of the&#38;nbsp;2022 Junior Speed Chess Championship presented by SIG gets going on Monday, April 11, and Chess.com is running a contest for you the viewer as well!&#38;nbsp;We are offering $1,500 in cash prizes and over a dozen diamond mem...",
@@ -1978,14 +1986,6 @@ news_feed (
          "title" : "FIDE Grand Prix Berlin - Round 3 Recap"
       },
       {
-         "description" : "This week Robert Ris takes has a close look at a new idea in the Italian in which White sacrifices a pawn, castles queenside and throws all his pieces at the black king. This concept worked out fantastically for White in the game Van Foreest-Navara that was played recently in the Charity Cup. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-castling-queenside-in-the-italian",
-         "pubDate" : "Thu, 24 Mar 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Castling queenside in the Italian"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2216,14 +2216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1647",
          "pubDate" : "Sun, 20 Mar 2022 18:13:40 +0000",
          "title" : "FFE acquires \"delegation\" status in France"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1645",
-         "pubDate" : "Sun, 20 Mar 2022 10:52:15 +0000",
-         "title" : "Underdogs set pace on first day of Charity Cup as UNICEF donations hit $17,000"
       }
    ]
 }
