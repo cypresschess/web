@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " How would you assess this position, with Black to move? Perhaps you think White can look forward to playing on the f-file against Black's doubled pawns, with moves like Bc4 and Qf3 to come. I could imagine thinking like that myself if I had this position in a blitz game. It comes from an old <a href=\"https://chessimprover.com/four-knights-fiasco/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Four Knights Fiasco\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/four-knights-fiasco/\">Four Knights Fiasco</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/four-knights-fiasco/",
+         "pubDate" : "Sun, 10 Apr 2022 09:41:36 +0000",
+         "title" : "Four Knights Fiasco"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering gives you a rook workout! See puzzles that feature rooks in the starring role. Originally on Twitch<br /> 2022.03.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-moves-rookies-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/U6oZY6wP6GE.jpg?itok=mfk1IFc2\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2216,14 +2224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1645",
          "pubDate" : "Sun, 20 Mar 2022 10:52:15 +0000",
          "title" : "Underdogs set pace on first day of Charity Cup as UNICEF donations hit $17,000"
-      },
-      {
-         "description" : " As you saw last week, I wasn't impressed with the annotations in the first game of Chernev's Logical Chess Move by Move. Perhaps I was being a bit unfair. By and large, the notes are serviceable for their purpose: there seemed to be few other basic tactical oversights at least in the main lines. Game <a href=\"https://chessimprover.com/logical-chess-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Logical Chess (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/logical-chess-2/\">Logical Chess (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/logical-chess-2/",
-         "pubDate" : "Sun, 20 Mar 2022 10:00:08 +0000",
-         "title" : "Logical Chess (2)"
       }
    ]
 }
