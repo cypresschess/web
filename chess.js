@@ -18,7 +18,7 @@ news_feed (
          "title" : "Chess.com's College Ambassador Program"
       },
       {
-         "description" : "The Mitropa Cup 2022 will be held from 27th April 8th May in the Sports complex (COSEC)&#160;of Corti, Corsica/Italy. The following chess federations are entitled to take part in the Mitropa Cup 2022:&#160;Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland.&#160; The tournament will be held in two sections: the open section, and the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mitropa-cup-2022-official-invitation/\">Read More &#187;</a></span>",
+         "description" : "The Mitropa Cup 2022 will be held from 27th April 8th May in the Sports complex (COSEC) of Corti, Corsica, France. The following chess federations are entitled to take part in the Mitropa Cup 2022:&#160;Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland.&#160; The tournament will be held in two sections: the open section, and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mitropa-cup-2022-official-invitation/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/mitropa-cup-2022-official-invitation/",
