@@ -122,14 +122,6 @@ news_feed (
          "title" : "10th Norway Chess Tournament 2022 - Games and Results"
       },
       {
-         "description" : "Chess.com is pleased to have released a reorganized and more intuitive navigation bar, where everything&#38;nbsp;is where it should be. The changes may look subtle, but we think they will prove to be a major improvement. Here is a comparison of the ol...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-new-navbar-updated-search",
-         "pubDate" : "Fri, 08 Apr 2022 08:04:00 -0700",
-         "title" : "New Navbar With Updated Search"
-      },
-      {
          "description" : " \"500 Chess Questions Answered\" is a book a purchased recently. Written by GM Andy Soltis, it is basically a FAQ for chess, covering everything from learning strategies to how tournaments are run. One section is titled \"Rulebook\" and deals with common questions. One question is whether knights must always face forward, and of course the answer is no. But what I did not know was that Kasparov always had his knights face left. I'm not sure which way I face my knights (probably forwards) but I guess this means it isn't an issue for me. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1440,6 +1432,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/so-wins-the-first-game-of-the-gp-semifinals-against-tabatabaei/",
          "pubDate" : "Wed, 30 Mar 2022 16:33:46 +0000",
          "title" : "So wins the first game of the GP semifinals against Tabatabaei"
+      },
+      {
+         "description" : "On a well-deserved off day in the 2022 FIDE Grand Prix after becoming a candidate for the world championship for the first time since 2016, GM Hikaru Nakamura won the early Titled Tuesday tournament on March 29. Meanwhile, GM Dmitry Andreikin co...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-andreikin-win-titled-tuesday-march-29-2022",
+         "pubDate" : "Wed, 30 Mar 2022 09:28:10 -0700",
+         "title" : "Nakamura Wins Titled Tuesday On Break, Andreikin Continues Run"
       },
       {
          "description" : "World Chess has introduced an innovation that will likely add a new dimension to the way fans watch chess (and other mind sports, for that matter!). They have developed - and will roll out today - a tool that tracks the players' heart rate over video signal (without playing having to wear a pulse-tracking device). Please find the press release below and tune in today to see the technology in action during the semi-finals of the Grand Prix in Berlin. Press release.",
