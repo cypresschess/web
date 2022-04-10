@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 7 starts at 18.00 CEST on Sunday. Follow the games live with computer analysis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
+         "pubDate" : "Sun, 10 Apr 2022 17:55:00 +0100",
+         "title" : "Reykjavik Open - Live!"
+      },
+      {
+         "description" : "Lukasz Jurmala had taken the sole lead at the Reykjav&iacute;k Open by beating Hans Niemann in round 4. The Polish grandmaster drew top seed Pouya Idani in round 5 to remain in sole first place, but a loss to Danish GM Mads Andersen has now left him sharing second place a half point behind the leaders. Besides Andersen, Johann Hjartarson, Praggnanandhaa (pictured) and Max Warmerdam also won in Sunday's early round and are now sharing the lead on 5/6 points. | Photo: Thorsteinn Magnusson",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-r5",
+         "pubDate" : "Sun, 10 Apr 2022 17:20:00 +0100",
+         "title" : "Reykjavik Open: Four co-leaders as Andersen beats Jurmala"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 74th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about pieces that are out of play. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-74-pieces-that-are-out-of-play-and-how-to-exploit-them",
          "pubDate" : "Sun, 10 Apr 2022 13:00:00 +0100",
          "title" : "Understanding before Moving 74: Pieces that are out of play - and how to exploit them"
-      },
-      {
-         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 6 starts at 11.00 CEST on Sunday. Follow the games live with computer analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
-         "pubDate" : "Sun, 10 Apr 2022 10:55:00 +0100",
-         "title" : "Reykjavik Open - Live!"
       },
       {
          "description" : " How would you assess this position, with Black to move? Perhaps you think White can look forward to playing on the f-file against Black's doubled pawns, with moves like Bc4 and Qf3 to come. I could imagine thinking like that myself if I had this position in a blitz game. It comes from an old <a href=\"https://chessimprover.com/four-knights-fiasco/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Four Knights Fiasco\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/four-knights-fiasco/\">Four Knights Fiasco</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2208,14 +2216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1648",
          "pubDate" : "Sun, 20 Mar 2022 22:06:16 +0000",
          "title" : "Vietnam's speed chess star races ahead in Charity Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1647",
-         "pubDate" : "Sun, 20 Mar 2022 18:13:40 +0000",
-         "title" : "FFE acquires \"delegation\" status in France"
       }
    ]
 }
