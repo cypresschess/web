@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Between 16 and 24 June 1954 a match was held in New York's Hotel Roosevelt between the Soviet and the US chess teams. The eight-board, four-round match ended with a decisive 20-12 victory for the Soviets. In an article for the New York Times ahead of the match, US chess champion Samuel Reshevsky shared his thoughts on how the Soviets (whom he kept calling 'the Russians') became so good at chess and why this was so important to them. The Britisch Chess Magazine have reproduced this article, which shares a view on the role chess had, both as an internal and external weapon, for the Soviets.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bcm-reshevsky-on-russian-chess",
+         "pubDate" : "Mon, 11 Apr 2022 21:00:00 +0100",
+         "title" : "BCM: Reshevsky on Russian chess"
+      },
+      {
+         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 7 starts at 18.00 CEST on Sunday. Follow the games live with computer analysis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
+         "pubDate" : "Mon, 11 Apr 2022 17:55:00 +0100",
+         "title" : "Reykjavik Open - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1686",
+         "pubDate" : "Mon, 11 Apr 2022 16:03:39 +0000",
+         "title" : "Winners crowned at 2022 US High School Chess Championship "
+      },
+      {
+         "description" : "In the 6th round of the Reykjavik Open, the local Grandmaster Johann Hjartarson failed to play what would have been the most incredible bishop underpromotion in chess history! It's an opportunity for us to discover, or rediscover, the five most amazing bishop underpromotions.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/the-5-most-amazing-bishop-underpromotions",
+         "pubDate" : "Mon, 11 Apr 2022 15:57:37 +0000",
+         "title" : "The 5 most amazing bishop underpromotions"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1762,14 +1794,6 @@ news_feed (
          "title" : "FIDE Candidates 2022: Venue and schedule announced"
       },
       {
-         "description" : "18-year-old newly-crowned Indian Chess Champion Arjun Erigaisi tops the bill as the $100,000 MPL Indian Chess Tour starts on March 31st. The new $100,000 online Tour features four 16-player tournaments, with the winner of each event qualifying for the Meltwater Champions Chess Tour. The four winners and four next highest scoring players on the Tour also qualify for a knockout final with a $10,000 top prize.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mpl-indian-chess-tour-starts-march-31st",
-         "pubDate" : "Mon, 28 Mar 2022 09:30:01 +0000",
-         "title" : "$100,000 MPL Indian Chess Tour starts March 31st"
-      },
-      {
          "description" : "Four players representing the United States scored full points in round 5 of the Berlin Grand Prix. Levon Aronian and Hikaru Nakamura both won and are now sharing the lead in pool A, much like Wesley So and Sam Shankland, who are now co-leaders in pool C. Given round-5's results, we are likely to see tiebreaks after Monday's final round, as none of the four groups has a sole leader at the moment. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1906,14 +1930,6 @@ news_feed (
          "title" : "Bundesliga classic"
       },
       {
-         "description" : "With a 2&frac12;-&frac12; victory over Jan-Krzysztof Duda, Magnus Carlsen grabbed the lead in the finals of the Charity Cup. The world champion won games 2 and 3 to go into the second set of the match only needing a draw to secure tournament victory. All three encounters on Friday were hard-fought strategic battles, with Carlsen describing them as \"exceptionally interesting\". | Photo: Alina l'Ami (2017)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/charity-cup-2022-d7",
-         "pubDate" : "Sat, 26 Mar 2022 08:55:00 +0100",
-         "title" : "Charity Cup Finals: Carlsen gets clear win in first set"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1944,14 +1960,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/",
          "pubDate" : "Fri, 25 Mar 2022 19:33:33 +0000",
          "title" : "The Steven Rollins Chess Rule"
-      },
-      {
-         "description" : "In this week's edition of the Power Play Show, GM Daniel King focuses on a gambit line of the Italian Opening that has caught the attention of elite players. To illustrate his ideas, King analyses a spectacular game, in which White's strategy paid off beautifully. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-a-trendy-gambit-in-the-giuoco-piano",
-         "pubDate" : "Fri, 25 Mar 2022 19:50:00 +0100",
-         "title" : "Daniel King's Power Play Show: A trendy gambit in the Giuoco Piano"
       },
       {
          "description" : "",
@@ -2136,14 +2144,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-page-for-delhi-open-2022/",
          "pubDate" : "Tue, 22 Mar 2022 08:37:54 +0000",
          "title" : "Live Link PAGE for Delhi Open 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1651",
-         "pubDate" : "Mon, 21 Mar 2022 19:15:08 +0000",
-         "title" : "Final leg of FIDE Grand Prix kicks off in Berlin"
       }
    ]
 }
