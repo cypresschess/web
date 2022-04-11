@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura&#38;nbsp;won week nine of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating longtime rival GM Levon Aronian in the knockout final.&#38;nbsp; GM Vladimir Fedoseev&#38;nbsp;won the Swiss tournament and made it to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-9-nakamura-wins",
+         "pubDate" : "Sun, 10 Apr 2022 16:35:39 -0700",
+         "title" : "Nakamura Wins Knockout: Rapid Chess Championship Week 9"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> GM Hungaski discusses and analyzes a game played between Levon Aronian and Andrey Esipenko from the the third tournament of the FIDE Grand Prix in Berlin. Originally on Twitch<br /> 2022.03.28<br /> Levon Aronian vs Andrey Esipenko, FIDE Grand Prix Leg 3 (2022): E51 Nimzo-Indian, 4.e3 e8g8, 5.Nf3 d7d5<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2259810\">https://www.chessgames.com/perl/chessgame?gid=2259810</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hr",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1456,14 +1464,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/so-wins-the-first-game-of-the-gp-semifinals-against-tabatabaei/",
          "pubDate" : "Wed, 30 Mar 2022 16:33:46 +0000",
          "title" : "So wins the first game of the GP semifinals against Tabatabaei"
-      },
-      {
-         "description" : "On a well-deserved off day in the 2022 FIDE Grand Prix after becoming a candidate for the world championship for the first time since 2016, GM Hikaru Nakamura won the early Titled Tuesday tournament on March 29. Meanwhile, GM Dmitry Andreikin co...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-andreikin-win-titled-tuesday-march-29-2022",
-         "pubDate" : "Wed, 30 Mar 2022 09:28:10 -0700",
-         "title" : "Nakamura Wins Titled Tuesday On Break, Andreikin Continues Run"
       },
       {
          "description" : "World Chess has introduced an innovation that will likely add a new dimension to the way fans watch chess (and other mind sports, for that matter!). They have developed - and will roll out today - a tool that tracks the players' heart rate over video signal (without playing having to wear a pulse-tracking device). Please find the press release below and tune in today to see the technology in action during the semi-finals of the Grand Prix in Berlin. Press release.",
