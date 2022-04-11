@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1685",
+         "pubDate" : "Mon, 11 Apr 2022 14:53:40 +0000",
+         "title" : "The Exchange Forum: Facts and Myths about Gender in Chess"
+      },
+      {
+         "description" : " The 2022 O2C Doeberl Cup is only a few days away, so I thought I would dig up an interesting miniature from the past. White brought his queen out too early, and as a result saw it kicked all around the board. <br /> <b>Hoffmann, Achim - Bartlett, Stephen [B32]</b><br />Doeberl Cup, 2004 <script>new PgnViewer( { boardName: \"game1320\", movesFormat: \"default\", pgnString:'1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.Qd3 ({White has a number of choices in this position including} 8. Qc7) (8.Qxf6 Nxf6) (8. Qd1 {However the text move appears to be a novelty.}) 8... Nge7 9. g3 $2 d5 $1 10. exd5 Bf5 {Suddenly White finds himself in an awkward position. Attempts to w",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/a-quick-doeberl-game.html",
+         "pubDate" : "Mon, 11 Apr 2022 13:32:00 +0000",
+         "title" : "A quick Doeberl game"
+      },
+      {
+         "description" : "Ding Liren, currently the world's number three, has very good chances to play in the Candidates Tournament as the highest-rated, eligible player in FIDE's ranking list published on 1 May. However, to qualify and to replace the suspended Sergey Karjakin, Ding needs to have played 30 FIDE-rated games from May 2021 to May 2022. When Karjakin was suspended by the FIDE for supporting Russia's invasion of Ukraine, Ding had just played four of the required 30 games, but now he is catching up: after a four-player, twelve-round tournament in Hangzhou, he played a six-game match against Wei Yi. After five draws, Ding won the last game and the match. | Photos: Imedia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ding-liren-on-his-way-to-the-candidates",
+         "pubDate" : "Mon, 11 Apr 2022 13:45:49 +0100",
+         "title" : "Ding Liren on his way to the Candidates"
+      },
+      {
+         "description" : "Thanks to back-to-back wins in Sunday's double round, Max Warmerdam climbed to sole first place at the Reykjavik Open. The Dutch grandmaster defeated Simon Williams and Johann Hjartarson to become the only player to go into Monday's round 8 with a 6/7 score. Five players stand a half point behind - Pouya Idani, Praggnanandhaa, Mads Andersen, Matthieu Cornette and Tania Sachdev. | Photo: Thorsteinn Magnusson",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-r7",
+         "pubDate" : "Mon, 11 Apr 2022 13:25:00 +0100",
+         "title" : "Reykjavik Open: Warmerdam takes the lead"
+      },
+      {
          "description" : "With over 1,300 articles, the Opening Encyclopaedia 2022 covers the entire range of openings. A huge fund of ideas and high-quality analyses! In the new edition, the number of articles has increased - 66 new opening articles and 388 new opening overviews have been added compared to the previous year. New feature - GM Dorian Rogozenco goes into detail about the latest opening trends in top chess, with many videos.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +80,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-fide-grand-prix-leg-3-aronian-vs-esipenko-puzzlers-paradise-gm-robert-hungaski",
          "pubDate" : "Sun, 10 Apr 2022 22:23:55 +0000",
          "title" : "2022 FIDE Grand Prix Leg 3: Aronian vs. Esipenko | Puzzler's Paradise - GM Robert Hungaski"
-      },
-      {
-         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 7 starts at 18.00 CEST on Sunday. Follow the games live with computer analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
-         "pubDate" : "Sun, 10 Apr 2022 17:55:00 +0100",
-         "title" : "Reykjavik Open - Live!"
       },
       {
          "description" : "Lukasz Jurmala had taken the sole lead at the Reykjav&iacute;k Open by beating Hans Niemann in round 4. The Polish grandmaster drew top seed Pouya Idani in round 5 to remain in sole first place, but a loss to Danish GM Mads Andersen has now left him sharing second place a half point behind the leaders. Besides Andersen, Johann Hjartarson, Praggnanandhaa (pictured) and Max Warmerdam also won in Sunday's early round and are now sharing the lead on 5/6 points. | Photo: Thorsteinn Magnusson",
@@ -1954,14 +1978,6 @@ news_feed (
          "title" : "Book Recap #25- The Mammoth Book of the World's Greatest Chess Games with NM Chrisopher Chabris and FM Graham Burgess "
       },
       {
-         "description" : "\"Chess has often been used as a metaphor for the conduct of war. 'Gambit', 'zugzwang', 'checkmate', 'stalemate' are all chess terms which are often heard when describing events in the social sphere, especially in the realm of politics, diplomacy and warfare,\" writes Milan Dinic in the March 1st issue of the British Chess Magazine. The young Editor offers a lively commentary on how the war in Ukraine has affected chess all over the world. This issue also includes an interview with veteran Ukrainian grandmaster Alexander Beliavsky.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bcm-on-chess-and-war",
-         "pubDate" : "Fri, 25 Mar 2022 13:00:00 +0100",
-         "title" : "BCM: On Chess and War"
-      },
-      {
          "description" : "Income Tax Department, West Bengal &#38; Sikkim is going to recruit meritorious sportspersons in the posts of Inspector of Income Tax, Tax Assistant and Multi-Tasking",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2128,62 +2144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1651",
          "pubDate" : "Mon, 21 Mar 2022 19:15:08 +0000",
          "title" : "Final leg of FIDE Grand Prix kicks off in Berlin"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90358530.cms\" />Russian grandmaster Sergey Karjakin has been banned from competition for six months because of his support for Russia's invasion of Ukraine, the International Chess Federation (FIDE) said on Monday. The 32-year-old Karjakin, who challenged Magnus Carlsen for the world title in 2016, has defended his country's actions on social media in recent weeks, drawing intense criticism from the chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gm-sergey-karjakin-banned-for-six-months-over-pro-russia-comments/articleshow/90358530.cms",
-         "pubDate" : "Mon, 21 Mar 2022 14:22:57 +0000",
-         "title" : "GM Karjakin banned for six months over pro-Russia comments"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90358280.cms\" />Grandmasters Arjun Erigaise and Abhijeet Gupta will start as favourites when the 19th edition of the Delhi International open chess tournament gets underway on Tuesday. Arjun starts as the top seed, while defending champion and five-time Commonwealth champion Abhijeet will be the third seed. Russian Pavel Ponkratov has been seeded second.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmasters-arjun-abhijeet-start-as-favourites-in-delhi-international-open-chess/articleshow/90358280.cms",
-         "pubDate" : "Mon, 21 Mar 2022 14:03:42 +0000",
-         "title" : "GMs Arjun, Abhijeet start as favourites in Delhi International Open chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90358205.cms\" />Weeks after getting the better of World champion Magnus Carlsen, young gun R Praggnanandhaa took another big scalp in the Meltwater Champions Chess Tour, beating world No.3 Ding Liren in the final round of the day at the ongoing Charity Cup on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/charity-cup-praggnanandhaa-beats-ding-liren-lies-sixth/articleshow/90358205.cms",
-         "pubDate" : "Mon, 21 Mar 2022 13:55:55 +0000",
-         "title" : "Charity Cup: Praggnanandhaa beats Ding Liren, lies sixth"
-      },
-      {
-         "description" : " The last 2 years has seen very little chess activity in Oceania , for obvious reasons. Apart from some online participation in FIDE and Asian events, it has been pretty quiet. Signs of life are starting to appear though, with the decision to hold the 2023 Oceania in Melbourne in January 2023. Teams are starting to get themselves organised for the Olympiad, and there is also talk of a possible Oceania Juniors in 2022 (or 23), and an Oceania Seniors. Unlike almost all other FIDE zones, air travel is the key to the success of these events, so hopefully the opening of borders between the various countries will see renewed enthusiasm for these tournaments. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/oceania-news.html",
-         "pubDate" : "Mon, 21 Mar 2022 12:52:00 +0000",
-         "title" : "Oceania news"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1650",
-         "pubDate" : "Mon, 21 Mar 2022 12:24:35 +0000",
-         "title" : "FIDE Ethics imposes a 6-month ban on Karjakin"
-      },
-      {
-         "description" : "47 National Women Certificates are Out (25 feb to 03-Mar) MPL 47th National Women Chess Championship &#8220;Certificates&#8221; are out to download. Click the link given",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/47-national-women-certificates/",
-         "pubDate" : "Mon, 21 Mar 2022 11:53:59 +0000",
-         "title" : "47 National Women Certificates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1646",
-         "pubDate" : "Mon, 21 Mar 2022 11:43:40 +0000",
-         "title" : "FIDE Candidates 2022 venue and schedule announced"
       }
    ]
 }
