@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Amateur Chess Championship 2022 will take place from 13th August (arrival day) to 21st August 2022 (departure day) in Hotel Aristos****, located in the city of Zagreb, Croatia. The event will be played in three rating categories: U2300, U2000 and U1700. A player must not have a published FIDE rating of 2300 or greater for at&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-championship-2022-official-regulations/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-amateur-chess-championship-2022-official-regulations/",
+         "pubDate" : "Mon, 11 Apr 2022 07:16:12 +0000",
+         "title" : "European Amateur Chess Championship 2022 - Official regulations"
+      },
+      {
+         "description" : "Please find the Live Link for MPL 34th National U12 Chess Championship 2022 https://delhichess.com/live/u12/tfd.html &#160;",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-for-mpl-34th-national-u12-chess-championship-2022/",
+         "pubDate" : "Mon, 11 Apr 2022 07:03:08 +0000",
+         "title" : "Live Link for MPL 34th National U12 Chess Championship 2022"
+      },
+      {
          "description" : "GM Hikaru Nakamura&#38;nbsp;won week nine of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating longtime rival GM Levon Aronian in the knockout final.&#38;nbsp; GM Vladimir Fedoseev&#38;nbsp;won the Swiss tournament and made it to ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-9-nakamura-wins",
-         "pubDate" : "Sun, 10 Apr 2022 16:35:39 -0700",
+         "pubDate" : "Sun, 10 Apr 2022 16:35:00 -0700",
          "title" : "Nakamura Wins Knockout: Rapid Chess Championship Week 9"
       },
       {
@@ -1274,14 +1290,6 @@ news_feed (
          "title" : "Nakamura Early Winner Of Series: 2022 FIDE Grand Prix Berlin Leg 3, Semifinals Day 2"
       },
       {
-         "description" : "Five rounds have been played at the European Individual Chess Championship 2022 in Terme Catez, Slovenia, and five players tie for the top scoring 4.5 points, each. Can Emre (TUR, 2578), Sargissian Gabriel (ARM, 2681), Bluebaum Matthias (GER, 2642), Kuzubov Yuriy (UKR, 2639) and Jobava Baadur (GEO, 2588) head the crosstable anticipating the 6th round. 18 players are&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2022-r5-report/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2022-r5-report/",
-         "pubDate" : "Thu, 31 Mar 2022 21:14:50 +0000",
-         "title" : "European Individual Chess Championship 2022 - R5 report"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Ukrainians make the strongest contingent with 35 players and 5 coaches at the <strong>European Championship</strong> in Catez. The Slovenian organisers have provided some free rooms and accommodation whereas the <strong>ECU</strong> has waived the fees. The <strong>Government of Ukraine</strong> granted players between 18 and 60 special permissions to represent their country at the board. The <strong>Belarus Chess Federation</strong> retracted its players when it was announced that they couldn't represent their country. Only four Russians take part, two of whom are juniors, one is a senior and the fourth is married in Germany and about to change fed",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -2178,28 +2186,12 @@ news_feed (
          "title" : "FIDE Candidates 2022 venue and schedule announced"
       },
       {
-         "description" : "Teams desirous to participate in the National Team Chess Championship are requested to make the necessary payment of Rs. 3750/Rs. 6250 as the case may",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/notice-national-team-national-team-for-women-chess-championship-2022/",
-         "pubDate" : "Mon, 21 Mar 2022 11:06:53 +0000",
-         "title" : "Notice : National Team & National Team for Women Chess Championship 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1652",
          "pubDate" : "Mon, 21 Mar 2022 10:15:49 +0000",
          "title" : "Geir Nesheim, new Chair of the Social Commission"
-      },
-      {
-         "description" : "The ECF Directors at their recent Board meeting agreed that the ECF will until further notice offer free ECF membership to all Ukrainians with a...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-memberships-ukraine/",
-         "pubDate" : "Mon, 21 Mar 2022 06:38:47 +0000",
-         "title" : "ECF memberships - Ukraine"
       }
    ]
 }
