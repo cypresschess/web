@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With over 1,300 articles, the Opening Encyclopaedia 2022 covers the entire range of openings. A huge fund of ideas and high-quality analyses! In the new edition, the number of articles has increased - 66 new opening articles and 388 new opening overviews have been added compared to the previous year. New feature - GM Dorian Rogozenco goes into detail about the latest opening trends in top chess, with many videos.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-opening-encyclopaedia-2022",
+         "pubDate" : "Mon, 11 Apr 2022 11:18:18 +0100",
+         "title" : "NEW: Opening Encyclopaedia 2022!"
+      },
+      {
+         "description" : "The ECU E-Magazine March 2022 is out! The March 2022 edition of the ECU E-Magazine can be read online together with interactive links on the following link, or it can be downloaded in PDF format down below. In this edition of the ECU E-Magazine you may read about: European Individual Chess Championship 2022 FIDE Grand Prix 2022 ECU&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-march-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-march-2022/",
+         "pubDate" : "Mon, 11 Apr 2022 09:43:56 +0000",
+         "title" : "ECU E-MAGAZINE MARCH 2022"
+      },
+      {
          "description" : "The European Amateur Chess Championship 2022 will take place from 13th August (arrival day) to 21st August 2022 (departure day) in Hotel Aristos****, located in the city of Zagreb, Croatia. The event will be played in three rating categories: U2300, U2000 and U1700. A player must not have a published FIDE rating of 2300 or greater for at&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-championship-2022-official-regulations/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -818,14 +834,6 @@ news_feed (
          "title" : "FIDE Grand Prix Berlin: Final Tie-Breaks"
       },
       {
-         "description" : "In the context of better communication between the whole European chess community and the ECU in particular, we have decided to focus in the next period on constant information of journalists who edit chess columns or report on chess via television, radio or the internet. This recording must be done in order to inform the chess friends on&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/journalists-directory/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/journalists-directory/",
-         "pubDate" : "Mon, 04 Apr 2022 06:12:17 +0000",
-         "title" : "Journalists Directory"
-      },
-      {
          "description" : "18-year-old Indian Champion Arjun Erigaisi's run of incredible results continued in the 1st leg of the MPL Indian Chess Tour as he scored +7 to clinch victory and a place not just in the MPL Indian Chess Tour final but in an upcoming stage of the Meltwater Champions Chess Tour. When asked his secret, Arjun echoed Bobby Fischer's \"I just got good\", as he stated, \"things just started going my way\". Raunak Sadhwani took second, with Gukesh and Ganguly 3rd, while Harika Dronvalli just missed out on automatic qualification for the next tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1042,7 +1050,7 @@ news_feed (
          "title" : "Viswanathan Anand's new innings - a role in FIDE?"
       },
       {
-         "description" : " Share!16 Business Meets Kids kicks off a spring event featuring former Real Madrid star Esteban Granero as he will participate in a tandem chess match with youth at the Marbella Golf Club. Swedish Grandmaster Pontus Carlsson is the brainchild of Business Meets Kids and has been holding events since 2018. In a couple of weeks [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/\">Business Meets Chess &#038; Kids Spring 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!34 Business Meets Kids kicks off a spring event featuring former Real Madrid star Esteban Granero as he will participate in a tandem chess match with youth at the Marbella Golf Club. Swedish Grandmaster Pontus Carlsson is the brainchild of Business Meets Kids and has been holding events since 2018. In a couple of weeks [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/\">Business Meets Chess &#038; Kids Spring 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/",
@@ -1186,12 +1194,12 @@ news_feed (
          "title" : "FIDE President Mr. Arkady Dvorkovich officially hands over hosting rights to India for FIDE 44th World Chess Olympiad 2022"
       },
       {
-         "description" : "It is with great sadness we report that David Anderton passed away today, 1st April 2022. A full obituary will follow, but this is a...",
+         "description" : "It is with great sadness we report that David Anderton passed away today, 1st April 2022. This is a great loss. Our condolences go out...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/david-anderton-rip/",
          "pubDate" : "Fri, 01 Apr 2022 13:31:16 +0000",
-         "title" : "David Anderton RIP"
+         "title" : "David Anderton RIP (updated)"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/bQBnnmYT5Fs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -1970,14 +1978,6 @@ news_feed (
          "title" : "Chess: China's Ding Liren could make unlikely late bid for Candidates place"
       },
       {
-         "description" : "Magnus Carlsen and Jan-Krzysztof Duda defeated Ding Liren and Le Quang Liem respectively to reach the final of the Charity Cup. Much like in the quarterfinals, no tiebreaks were seen in the semifinals. Carlsen and Duda will face off in a 2-set match starting Friday, with each set a 4-game rapid confrontation. | Photo: Lennart Ootes (Archive)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/charity-cup-2022-d6",
-         "pubDate" : "Fri, 25 Mar 2022 09:00:00 +0100",
-         "title" : "Charity Cup: Carlsen and Duda reach the final"
-      },
-      {
          "description" : "The 94th FIDE Congress will be organised by the All India Chess Federation in Chennai from July 31 to August 9, with August 7 as the date for FIDE elections.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -2184,14 +2184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1646",
          "pubDate" : "Mon, 21 Mar 2022 11:43:40 +0000",
          "title" : "FIDE Candidates 2022 venue and schedule announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1652",
-         "pubDate" : "Mon, 21 Mar 2022 10:15:49 +0000",
-         "title" : "Geir Nesheim, new Chair of the Social Commission"
       }
    ]
 }
