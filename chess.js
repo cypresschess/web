@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#38;nbsp;2022 Junior Speed Chess Championship presented by SIG began today with the first round of 16 match between GMs Brandon Jacobson&#38;nbsp;and Arseniy Nesterov,&#38;nbsp;which the former won after a suspenseful match that ended 14.5-12.5 in favor o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-jacobson-nesterov",
+         "pubDate" : "Mon, 11 Apr 2022 15:46:01 -0700",
+         "title" : "Jacobson Dispatches Nesterov: 2022 Junior Speed Chess Championship Round Of 16"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Robert Hungaski shows some brilliant moves of his own from a game in Saint Louis against Sam Khanin, and another against Diego Valerga from Montevideo 2022. Originally on Twitch<br /> 2022.03.28<br /> Semen Khanin vs Robert Andrew Hungaski, Spring Chess Classic (2022): C11 French, Steinitz, Boleslavsky variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2256500\">https://www.chessgames.com/perl/chessgame?gid=2256500</a><br /> Robert Hungaski vs. Diego Valerga, 2022: E25 Nimzo-Indian, Saemisch, Romanovsky variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/roberts-brilliancy-over-khanin-double-exclam-gm-robert-hungaski",
+         "pubDate" : "Mon, 11 Apr 2022 22:25:18 +0000",
+         "title" : "Robert's Brilliancy over Khanin | Double Exclam!! - GM Robert Hungaski"
+      },
+      {
+         "description" : "In Karsten M&uuml;ller's \"Endgame Magic Show #189\" Karsten and Arne K&auml;hler look at rook endings, and take a particularly close look at the rook endgame 4 vs 3 pawns on one side to show important drawing formations. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-188-good-to-know-rook-endings",
+         "pubDate" : "Mon, 11 Apr 2022 21:46:12 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic Show #189: Good to know - rook endings"
+      },
+      {
          "description" : "Between 16 and 24 June 1954 a match was held in New York's Hotel Roosevelt between the Soviet and the US chess teams. The eight-board, four-round match ended with a decisive 20-12 victory for the Soviets. In an article for the New York Times ahead of the match, US chess champion Samuel Reshevsky shared his thoughts on how the Soviets (whom he kept calling 'the Russians') became so good at chess and why this was so important to them. The Britisch Chess Magazine have reproduced this article, which shares a view on the role chess had, both as an internal and external weapon, for the Soviets.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "BCM: Reshevsky on Russian chess"
       },
       {
-         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 7 starts at 18.00 CEST on Sunday. Follow the games live with computer analysis.",
+         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 8 starts at 18.00 CEST on Monday. Follow the games live with computer analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
@@ -488,14 +512,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/american-cup-2022-promo",
          "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
          "title" : "The American Cup 2022 | Promo"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani marches on with the French Defense, based on the teachings of Parimarjan Negi and his book. Today, it&#039;s all about the Winawer. BUY NEGI&#039;S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> 2022.04.06<br /> STUDY: ??? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wra",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/1e4-vs-french-part-3-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
-         "title" : "1.e4 vs. The French: Part 3 | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "",
@@ -1522,14 +1538,6 @@ news_feed (
          "title" : "President's Cup 2022: All The Information"
       },
       {
-         "description" : "After yesterday&#39;s tiebreaks, GMs Hikaru Nakamura, Shakhriyar Mamedyarov, Wesley So, and Amin Tabatabaei were ready for the semifinals in the&#38;nbsp;2022 FIDE Grand Prix&#38;nbsp;with Nakamura facing Mamedyarov in one match and So meeting Tabatabaei in t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-semifinals-day-1",
-         "pubDate" : "Wed, 30 Mar 2022 10:37:00 -0700",
-         "title" : "Wesley So Wins First Game: 2022 FIDE Grand Prix Berlin Leg 3, Semifinals Day 1"
-      },
-      {
          "description" : " <p class=\"lead\">The <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> semifinals ended with Wesley So winning against Amin Tabatabaei, and Hikaru Namamura drawing against Shakhriyar Mamedyarov. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-19.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220330154232_IMG_5618.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220330153721_IMG_5610.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/202203301",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1920,14 +1928,6 @@ news_feed (
          "link" : "https://www.thearticle.com/napoleon-beethoven-and-the-turk/",
          "pubDate" : "Sat, 26 Mar 2022 09:03:44 +0000",
          "title" : "Napoleon, Beethoven and the Turk"
-      },
-      {
-         "description" : "In the diagrammed position Black found a fantastic way to make White's loose position collapse - please follow in the footsteps of Rustam Kasimdzhanov!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-classic",
-         "pubDate" : "Sat, 26 Mar 2022 09:00:00 +0100",
-         "title" : "Bundesliga classic"
       },
       {
          "description" : "",
