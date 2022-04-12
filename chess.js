@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Praggnanandhaa entered the final round of the Reykjavik Open sharing the lead with Max Warmerdam and Mads Andersen. Warmerdam and Andersen played on top board and signed a 16-move draw, while Pragg's position deteriorated slowly but surely in his game against Gukesh. The latter eventually reached a winning position, but back-to-back blunders not only gave away his advantage but even allowed his opponent to get the full point. Thus, 16-year-old Praggnanandhaa became the ourtight winner of the event! | Photo: Hallfr&iacute;ður Sigurðard&oacute;ttir (from round 4)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-r9",
+         "pubDate" : "Tue, 12 Apr 2022 23:50:00 +0100",
+         "title" : "Pragg beats Gukesh after sudden twist, wins Reykjavik Open"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard teaches a chess class on a topic of his choice. 2022.04.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-masterpieces-exchange-sacrifice-grandmasters-choice-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SJyPvBKHL0w.jpg?itok=4EoxMAZi\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/attacking-masterpieces-exchange-sacrifice-grandmasters-choice-gm-romain-%C3%A9douard",
+         "pubDate" : "Tue, 12 Apr 2022 22:26:05 +0000",
+         "title" : "Attacking Masterpieces: Exchange Sacrifice | Grandmaster's Choice - GM Romain Édouard"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1688",
+         "pubDate" : "Tue, 12 Apr 2022 20:32:28 +0000",
+         "title" : "Pragganandhaa wins 2022 Reykjavik Open"
+      },
+      {
+         "description" : " <p class=\"lead\">There's a lot going on in the official FIDE gaming platform! We've set up a FIDE Online Arena news digest to keep you up-to-date! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/image.png\" width=\"1600\" height=\"800\" alt=\"\" /> </div> <h2>Big Announcement</h2> On April 28, <a href=\"https://chessarena.com/tournaments/17311\">the very first tournament with GM Vidit Gujrathi</a>, one of the strongest players in the world and the FIDE Online Arena ambassador, will be held at the FIDE Online Arena! The Indian Grandmaster and Arena Ambassador will also be streaming during the tournament. <a href=\"https://chessarena.com/tournaments/17311\">Join</a>, play wit",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-online-arena-weekly-digest/",
+         "pubDate" : "Tue, 12 Apr 2022 19:49:51 +0000",
+         "title" : "FIDE Online Arena Weekly Digest"
+      },
+      {
          "description" : "The first 10 videos of chess24's Inside Team Magnus, an exclusive 10-hour video series for Premium members on Magnus Carlsen's World Championship match against Ian Nepomniachtchi, were released last month. Today you can watch three more behind-the-scenes episodes with Peter Heine Nielsen, Jan Gustafsson and Laurent Fressinet.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -50,22 +82,6 @@ news_feed (
          "title" : "Unveiling of new chess tables in Russell Square Gardens"
       },
       {
-         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. Read the full report on round 8. | The ninth and final round starts at 13.00 CEST on Tuesday. Follow the games live with computer analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
-         "pubDate" : "Tue, 12 Apr 2022 12:45:00 +0100",
-         "title" : "Reykjavik Open - Live!"
-      },
-      {
-         "description" : "Mads Andersen and Praggnanandhaa scored full points on Monday to join Max Warmerdam in the lead of the Reykjavik Open. In the final round, Andersen will have the white pieces against Warmerdam, while Pragg will face his compatriot Gukesh with black. Gukesh is one of seven players currently standing a half point behind the leaders. | Photo: Thorsteinn Magnusson",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-r8",
-         "pubDate" : "Tue, 12 Apr 2022 12:25:00 +0100",
-         "title" : "Reykjavik Open: Pragg and Andersen score"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -82,12 +98,36 @@ news_feed (
          "title" : "Chess 2022 - February Exotic Wackos"
       },
       {
+         "description" : "Between 16 and 24 June 1954 a match was held in New York's Hotel Roosevelt between the Soviet and the US chess teams. The eight-board, four-round match ended with a decisive 20-12 victory for the Soviets. In an article for the New York Times ahead of the match, US chess champion Samuel Reshevsky shared his thoughts on how the Soviets (whom he kept calling 'the Russians') became so good at chess and why this was so important to them. The Britisch Chess Magazine have reproduced this article, which shares a view on the role chess had, both as an internal and external weapon, for the Soviets.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bcm-reshevsky-on-russian-chess",
+         "pubDate" : "Tue, 12 Apr 2022 09:05:00 +0100",
+         "title" : "BCM: Reshevsky on Russian chess"
+      },
+      {
          "description" : "Having a pawn majority is usually a positional plus because pawn majorities allow you to create passed pawns. But creating these passed pawns usually requires tactical and technical precision. Which Black demonstrated in the diagrammed position. What did Black do to win the game?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-pleasant-potential-of-pawn-majorities",
          "pubDate" : "Tue, 12 Apr 2022 09:00:00 +0100",
          "title" : "The pleasant potential of pawn majorities"
+      },
+      {
+         "description" : "Mads Andersen and Praggnanandhaa scored full points on Monday to join Max Warmerdam in the lead of the Reykjavik Open. In the final round, Andersen will have the white pieces against Warmerdam, while Pragg will face his compatriot Gukesh with black. Gukesh is one of seven players currently standing a half point behind the leaders. | Photo: Thorsteinn Magnusson",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-r8",
+         "pubDate" : "Tue, 12 Apr 2022 08:55:00 +0100",
+         "title" : "Reykjavik Open: Pragg and Andersen score"
+      },
+      {
+         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Replay all available games with computer analysis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
+         "pubDate" : "Tue, 12 Apr 2022 08:45:00 +0100",
+         "title" : "Reykjavik Open - Games and results"
       },
       {
          "description" : "The&#38;nbsp;2022 Junior Speed Chess Championship presented by SIG began today with the first round of 16 match between GMs Brandon Jacobson&#38;nbsp;and Arseniy Nesterov,&#38;nbsp;which the former won after a suspenseful match that ended 14.5-12.5 in favor o...",
@@ -112,14 +152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-188-good-to-know-rook-endings",
          "pubDate" : "Mon, 11 Apr 2022 21:46:12 +0100",
          "title" : "Karsten M&uuml;ller's Endgame Magic Show #189: Good to know - rook endings"
-      },
-      {
-         "description" : "Between 16 and 24 June 1954 a match was held in New York's Hotel Roosevelt between the Soviet and the US chess teams. The eight-board, four-round match ended with a decisive 20-12 victory for the Soviets. In an article for the New York Times ahead of the match, US chess champion Samuel Reshevsky shared his thoughts on how the Soviets (whom he kept calling 'the Russians') became so good at chess and why this was so important to them. The Britisch Chess Magazine have reproduced this article, which shares a view on the role chess had, both as an internal and external weapon, for the Soviets.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bcm-reshevsky-on-russian-chess",
-         "pubDate" : "Mon, 11 Apr 2022 21:00:00 +0100",
-         "title" : "BCM: Reshevsky on Russian chess"
       },
       {
          "description" : "",
@@ -584,14 +616,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/1e4-vs-philidor-part-1-chess-and-psychology-im-dorsa-derakhshani-0",
          "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
          "title" : "1.e4 vs. The Philidor: Part 1 | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Saint Louis Chess Club presents a brand new tournament, the American Cup, featuring an exciting (and rare) double elimination format. See the best American chess players, and the best players living in America! The A Tournament is: So, Caruana, Aronian, Dominguez, Shankland, Xiong, Sevian, and Robson. The B Tournament is: Krush, Tsolakidou, Zatonskih, Tokhirjonova, Abrahamyan, Nemcova, Alice Lee, and Rui Yang Yan. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-promo",
-         "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
-         "title" : "The American Cup 2022 | Promo"
       },
       {
          "description" : "",
@@ -1722,14 +1746,6 @@ news_feed (
          "title" : "FIDE Grand Prix Berlin: So and Mamedyarov advance to semifinals"
       },
       {
-         "description" : " <p class=\"lead\">Wesley So defeated Sam Shankland in the rapid tie-break games with 1.5-0.5 score to reach the semifinal of the third stage of the FIDE Grand Prix Series organised by World Chess in Berlin. The tiebreak games were played with the quicker time control of 15 minutes per game with an increment of 10 seconds per move starting on the first move. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220329160454_IMG_5474.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220329153841_IMG_5446.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/round-report-wesley-so-and-shakhriyar-mamedyarov-are-in-the-semi/",
-         "pubDate" : "Tue, 29 Mar 2022 18:22:31 +0000",
-         "title" : "Round Report: Wesley So and Shakhriyar Mamedyarov are in the semifinal!"
-      },
-      {
          "description" : "Lawrence has found a position, which looks familiar to many of us. We just have to calculate, as good as we can, how to win the game. The important lesson is, that many variations can lead to a position which is slightly better, but not clearly won. A so-called insurance. We can put this variation in the back of our head, and keep on finding a better way to win. If everything fails, we use the variation with the small advantage.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1912,14 +1928,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/charity-cup-2022-d8",
          "pubDate" : "Sun, 27 Mar 2022 15:30:00 +0100",
          "title" : "Carlsen beats Duda in thrilling match, wins Charity Cup"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 72nd instalment of his ChessBase show \"Understanding before Moving\", Herman talks about pawn chains in the French Defense. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-72-pawn-chains-in-the-french-defense-1",
-         "pubDate" : "Sun, 27 Mar 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 72: Pawn chains in the French Defense (1)"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90477810.cms\" />Top seed Arjun Erigaisi, Harsha Bharathakoti and D Gukesh on Sunday emerged as joint leaders at the 19th edition of Delhi International Open Grandmasters Chess tournament. With just two rounds remaining, the tournament is heading for an exciting finish as the three Indians are now leading the standings with seven points.",
@@ -2120,22 +2128,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/33576267/ash-barty-michael-jordan-elite-athletes-retiring-their-peak?device=featurephone",
          "pubDate" : "Wed, 23 Mar 2022 07:39:36 -0500",
          "title" : "Ash Barty to Michael Jordan - elite athletes retiring at their peak"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1654",
-         "pubDate" : "Tue, 22 Mar 2022 23:22:04 +0000",
-         "title" : "FIDE Grand Prix Berlin - Round 1 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1653",
-         "pubDate" : "Tue, 22 Mar 2022 20:49:24 +0000",
-         "title" : "Ahmed Adly, new Chair of the Athletes Commission"
       }
    ]
 }
