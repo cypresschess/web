@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2d5e3eb6-e3d6-4149-aa8e-256f367a4181/Paul3.jpg\" data-image-dimensions=\"1736x873\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"625588aa13e4b945b461f696\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2d5e3eb6-e3d6-4149-aa8e-256f367a4181/Paul3.jpg?format=1000w\" /> </figure> <p class=\"\">The Perpetual Chess <a href=\"https://www.perpetualchesspod.com/adultimprover\" target=\"_blank\">Adult Improver Series</a> is back, but this time with a twist. We feature a senior gu",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/4/12/ep-274-paul-hedrick-adult-improver-series-with-guest-co-host-han-schut",
+         "pubDate" : "Tue, 12 Apr 2022 14:14:59 +0000",
+         "title" : "EP 274- Paul Hedrick (Adult Improver Series) with guest co-host Han Schut "
+      },
+      {
+         "description" : "On Thursday May 12th 2022 13.30 to 15.00 at the Caf&eacute; Tropea, Russell Square Gardens. We will be joined by Malcolm Pein, International Chess Master,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/unveiling-of-new-chess-tables-in-russell-square-gardens/",
+         "pubDate" : "Tue, 12 Apr 2022 13:08:06 +0000",
+         "title" : "Unveiling of new chess tables in Russell Square Gardens"
+      },
+      {
          "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. Read the full report on round 8. | The ninth and final round starts at 13.00 CEST on Tuesday. Follow the games live with computer analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -727,7 +743,7 @@ news_feed (
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/4/5/ep-273-ep-273-gm-johan-hellsten-on-chess-improvement-the-origins-of-his-excellent-books-and-his-favorite-otb-memories",
          "pubDate" : "Tue, 05 Apr 2022 13:19:08 +0000",
-         "title" : "EP 273- EP 273- GM Johan Hellsten on Chess Improvement, the Inspirations for his \"Mastering Chess\" Book Series, and his favorite OTB Memories "
+         "title" : " EP 273- GM Johan Hellsten on Chess Improvement, the Inspirations for his \"Mastering Chess\" Book Series, and his favorite OTB Memories "
       },
       {
          "description" : "In his Endgame Magic Show #189 Karsten M&uuml;ller talks with Elisabeth P&auml;htz about the endgame. Elisabeth, World Junior Girls Champion in 2005, European Women's Rapid Champion in 2018, and currently number 13 on the women's ranking list, has an active style, and this also shows in her endgames, e.g. in an entertaining game against Zhansaya Abdumalik at the Online-FIDE-Steinitz-Memorial 2020. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -2112,30 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1653",
          "pubDate" : "Tue, 22 Mar 2022 20:49:24 +0000",
          "title" : "Ahmed Adly, new Chair of the Athletes Commission"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/bcbfd35b-6e78-41ca-986d-ffcb6eead9f8/Hans2.jpg\" data-image-dimensions=\"352x235\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6239d9901cc234022c1d887e\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/bcbfd35b-6e78-41ca-986d-ffcb6eead9f8/Hans2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by <a href=\"https://imrosen.com\">IM Eric Rosen </a> </figcaption> </figure> <p class=\"\">18 year old GM Hans Niemann is a rising star in the c",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/22/ep-271-ep-271-gm-hans-niemann-on-his-rapid-climb-up-the-chess-rankings-and-whats-next-for-him-in-2022",
-         "pubDate" : "Tue, 22 Mar 2022 14:16:53 +0000",
-         "title" : "EP 271- GM Hans Niemann on his Rapid Climb up the Chess Rankings and What's Next for Him in 2022"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90379108.cms\" />Vietnamese star Liem Quang Le's hot streak showed no signs of cooling down as the Charity Cup's Prelim stage enters its final three rounds on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/charity-cup-liem-quang-le-continues-to-lead-the-show/articleshow/90379108.cms",
-         "pubDate" : "Tue, 22 Mar 2022 13:18:03 +0000",
-         "title" : "Charity Cup: Liem Quang Le continues to lead the show"
-      },
-      {
-         "description" : " The FIDE Ethics Commission has suspended GM Sergey Karjakin for 6 months for his comments supporting Russia during the current invasion of Ukraine by that country. To be honest I am astonished that they even decided to hear the case, let alone suspend him. For me, the right to say dumb, hurtful, stupid, offensive or ignorant words, is met with the right to say that the first speaker is dumb, hurtful, stupid, offensive and ignorant. In the case of Karjakin, his comments have been rightfully condemned, his invitations to tournaments are likely to disappear, and anything he says is countered by people who point out he is lying about many things. Banning him is unlikely to change his opinions, ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/karjakin-gets-6-months.html",
-         "pubDate" : "Tue, 22 Mar 2022 12:56:00 +0000",
-         "title" : "Karjakin gets 6 months"
       }
    ]
 }
