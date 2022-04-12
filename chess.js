@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Having a pawn majority is usually a positional plus because pawn majorities allow you to create passed pawns. But creating these passed pawns usually requires tactical and technical precision. Which Black demonstrated in the diagrammed position. What did Black do to win the game?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-pleasant-potential-of-pawn-majorities",
+         "pubDate" : "Tue, 12 Apr 2022 09:00:00 +0100",
+         "title" : "The pleasant potential of pawn majorities"
+      },
+      {
          "description" : "The&#38;nbsp;2022 Junior Speed Chess Championship presented by SIG began today with the first round of 16 match between GMs Brandon Jacobson&#38;nbsp;and Arseniy Nesterov,&#38;nbsp;which the former won after a suspenseful match that ended 14.5-12.5 in favor o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1912,14 +1920,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/games-that-are-chess-like.html",
          "pubDate" : "Sat, 26 Mar 2022 12:36:00 +0000",
          "title" : "Games that are chess \"like\""
-      },
-      {
-         "description" : "Two quiet rounds were followed by a day full of excitement at the third leg of the FIDE Grand Prix. Five games finished decisively, and remarkably three of the winners beat the players who had defeated them in the first round of the event - i.e. Hikaru Nakamura beat Levon Aronian, Maxime Vachier-Lagrave beat Alexandr Predke, and Amin Tabatabaei beat Nikita Vitiugov. Grigoriy Oparin and Shakhriyar Mamedyarov also scored full points, leaving the field wide open with two rounds to go. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r4",
-         "pubDate" : "Sat, 26 Mar 2022 11:40:00 +0100",
-         "title" : "Berlin GP: Wide open"
       },
       {
          "description" : "My late friend Tony Buzan, educational guru and inventor of Mind Maps also developed the concept of the Mastermind Group: individuals who, for various reasons, could prove a source of personal inspiration and motivation. My youthful Mastermind group (I had at an early age stumbled on the idea, if not the nomenclature) included the musical genius []",
