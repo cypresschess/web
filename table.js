@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2022-04-10","12","<a href=http://www.uschess.org/msa/XtblMain.php?202204106212 target='_blank'>APRIL 10TH  SUNDAY SWISS</a>",
 "HOUSTON","2022-04-09","126","<a href=http://www.uschess.org/msa/XtblMain.php?202204095432 target='_blank'>UNIVERSITY OF HOUSTON</a>",
 "SPRING","2022-04-08","22","<a href=http://www.uschess.org/msa/XtblMain.php?202204084842 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-04-08","26","<a href=http://www.uschess.org/msa/XtblMain.php?202204084772 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "CYPRESS","2021-05-28","15","<a href=http://www.uschess.org/msa/XtblMain.php?202105281542 target='_blank'>05212021KOFC</a>",
 "SUGAR LAND","2021-05-28","11","<a href=http://www.uschess.org/msa/XtblMain.php?202105281492 target='_blank'>FBCC 2021 MAY 28 OPEN</a>",
 "SPRING","2021-05-21","20","<a href=http://www.uschess.org/msa/XtblMain.php?202105219502 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2021-05-21","11","<a href=http://www.uschess.org/msa/XtblMain.php?202105219492 target='_blank'>FBCC 2011 FIRST DAY OF SPRING</a>",
 ]);
