@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first 10 videos of chess24's Inside Team Magnus, an exclusive 10-hour video series for Premium members on Magnus Carlsen's World Championship match against Ian Nepomniachtchi, were released last month. Today you can watch three more behind-the-scenes episodes with Peter Heine Nielsen, Jan Gustafsson and Laurent Fressinet.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/team-magnus-on-how-carlsen-clinched-5th-title",
+         "pubDate" : "Tue, 12 Apr 2022 18:30:25 +0000",
+         "title" : "Team Magnus on how Carlsen clinched his 5th title"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90806347.cms\" />Young Indian Grandmaster R Pragganandhaa on Tuesday won the prestigious Reykjavik Open chess tournament with 7.5 points from nine rounds. The 16-year-old Pragganandhaa defeated compatriot GM D Gukesh in the final round to emerge sole winner.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-praggnanandhaa-wins-reykjavik-open-chess-tournament/articleshow/90806347.cms",
+         "pubDate" : "Tue, 12 Apr 2022 17:16:36 +0000",
+         "title" : "Indian GM Praggnanandhaa wins Reykjavik Open chess"
+      },
+      {
          "description" : "In his \"Weekly Show\" Lawrence Trent focuses on the Reykjavik Open and the featured game is Pragg's destruction of Cornette in Round 8. Lawrence will also briefly talk about Ding Liren and the Candidates. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1792,14 +1808,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r6",
          "pubDate" : "Tue, 29 Mar 2022 04:50:00 +0100",
          "title" : "Berlin GP: Nakamura in the Candidates"
-      },
-      {
-         "description" : "Hikaru Nakamura and Richard Rapport are in the Candidates Tournament after Hikaru's win over Andrey Esipenko ensured that the two would finish 1st and 2nd in the FIDE Grand Prix. All the results went Hikaru's way, as his key rivals Levon Aronian, Anish Giri and Leinier Dominguez all lost, while Maxime Vachier-Lagrave was held to a draw by Sam Shankland. Amin Tabatabaei is the surprise player already confirmed alongside Hikaru in the Berlin semi-finals, while So-Shankland and Mamedyarov-Keymer will play tiebreaks on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-and-rapport-qualify-for-the-candidates",
-         "pubDate" : "Mon, 28 Mar 2022 19:52:05 +0000",
-         "title" : "Nakamura and Rapport qualify for the Candidates"
       },
       {
          "description" : "",
