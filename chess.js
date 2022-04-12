@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. Read the full report on round 8. | The ninth and final round starts at 13.00 CEST on Tuesday. Follow the games live with computer analysis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
+         "pubDate" : "Tue, 12 Apr 2022 12:45:00 +0100",
+         "title" : "Reykjavik Open - Live!"
+      },
+      {
+         "description" : "Mads Andersen and Praggnanandhaa scored full points on Monday to join Max Warmerdam in the lead of the Reykjavik Open. In the final round, Andersen will have the white pieces against Warmerdam, while Pragg will face his compatriot Gukesh with black. Gukesh is one of seven players currently standing a half point behind the leaders. | Photo: Thorsteinn Magnusson",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-r8",
+         "pubDate" : "Tue, 12 Apr 2022 12:25:00 +0100",
+         "title" : "Reykjavik Open: Pragg and Andersen score"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1687",
+         "pubDate" : "Tue, 12 Apr 2022 08:47:58 +0000",
+         "title" : "FIDE World Rapid and Blitz Championships and World Women's Rapid and Blitz Championships 2022 - Call for bids"
+      },
+      {
+         "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; The month of February contained an increased number of nice puzzles. This is going to be the subject of another blog entry <a href=\"https://chessimprover.com/chess-2022-february-exotic-wackos/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 February Exotic Wackos\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-february-exotic-wackos/\">Chess 2022 February Exotic Wackos</a> appeared first on <a rel=\"nofollow\" href=\"ht",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-2022-february-exotic-wackos/",
+         "pubDate" : "Tue, 12 Apr 2022 08:19:34 +0000",
+         "title" : "Chess 2022 - February Exotic Wackos"
+      },
+      {
          "description" : "Having a pawn majority is usually a positional plus because pawn majorities allow you to create passed pawns. But creating these passed pawns usually requires tactical and technical precision. Which Black demonstrated in the diagrammed position. What did Black do to win the game?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/bcm-reshevsky-on-russian-chess",
          "pubDate" : "Mon, 11 Apr 2022 21:00:00 +0100",
          "title" : "BCM: Reshevsky on Russian chess"
-      },
-      {
-         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Round 8 starts at 18.00 CEST on Monday. Follow the games live with computer analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
-         "pubDate" : "Mon, 11 Apr 2022 17:55:00 +0100",
-         "title" : "Reykjavik Open - Live!"
       },
       {
          "description" : "",
@@ -1906,14 +1930,6 @@ news_feed (
          "title" : "Study of the Month - Gens una sumus: Friendship tourneys"
       },
       {
-         "description" : "The second event of the 2022 Meltwater Champions Chess Tour, the Charity Cup, will focus on raising funds for UNICEF to support children and their families within or fleeing Ukraine. Magnus Carlsen, Ding Liren and Richard Rapport head the 16-player field. The tournament is taking place on March 19-26, with the action kicking off daily at 18.00 CET (13.00 ET, 17.00 UTC, 22.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/charity-cup-2022-live",
-         "pubDate" : "Sat, 26 Mar 2022 15:50:00 +0100",
-         "title" : "Charity Cup Finals - Games and results"
-      },
-      {
          "description" : " A few years ago I mentioned a game called Smess (AKA Ninny Chess, or All the King's Men). It is a board game very similar to chess, but with different game mechanics and strategies. A similar game (invented around the same time) was Ploy. Ploy was a 2 or 4 player game, where the direction the pieces could move was imprinted on the piece itself (each piece was a disk). Some pieces had a single direction, while more powerful pieces had 2,3 or 4 directions. However, the pieces could be rotated, instead of moving, to enable them to move in entirely different directions. Although the game is out of print, it can be played at various online game platforms. In my old collection of board game books",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2098,14 +2114,6 @@ news_feed (
          "title" : "Ahmed Adly, new Chair of the Athletes Commission"
       },
       {
-         "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; A few weeks ago I shared with you a couple of puzzles with totally unexpected solutions from the &#8220;Chess 2022 Day-to-Day Calendar: <a href=\"https://chessimprover.com/chess-2022-january-top-pics/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 January Top Pics\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-january-top-pics/\">Chess 2022 January Top Pics</a> appeared first on <a rel=\"nofollow\" href=\"https://chess",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-2022-january-top-pics/",
-         "pubDate" : "Tue, 22 Mar 2022 18:09:13 +0000",
-         "title" : "Chess 2022 - January Top Pics"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/bcbfd35b-6e78-41ca-986d-ffcb6eead9f8/Hans2.jpg\" data-image-dimensions=\"352x235\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6239d9901cc234022c1d887e\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/bcbfd35b-6e78-41ca-986d-ffcb6eead9f8/Hans2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by <a href=\"https://imrosen.com\">IM Eric Rosen </a> </figcaption> </figure> <p class=\"\">18 year old GM Hans Niemann is a rising star in the c",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2128,22 +2136,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/karjakin-gets-6-months.html",
          "pubDate" : "Tue, 22 Mar 2022 12:56:00 +0000",
          "title" : "Karjakin gets 6 months"
-      },
-      {
-         "description" : " The 3rd and final leg of the FIDE Grand Prix takes place in Berlin 22nd March to 4th April 2022. Richard Rapport has posted a very strong score in the series and has a very high chance of qualifying for the Candidates. The winner of the first leg Hikaru Nakamura will also be strong favourite to take the second place if he gets out of the group stages here (Aronian, Oparin and Esipenko are his rivals). Aronian, Dominguez and MVL are all players who have strong chances of a Candidates place if they win this leg. Poor finishes in their first grand prix events means that even a win here will probably not be enough for many of the players. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-prix-leg-3-berlin-2022",
-         "pubDate" : "Tue, 22 Mar 2022 13:12:00 +0400",
-         "title" : "FIDE Grand Prix Leg 3 Berlin 2022 - Games and Results"
-      },
-      {
-         "description" : "We request you to please find the live Link Page for 19th Delhi Open GM Chess Tournament 2022 https://delhichess.com/live/delhiopen2022/tfd.html",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-page-for-delhi-open-2022/",
-         "pubDate" : "Tue, 22 Mar 2022 08:37:54 +0000",
-         "title" : "Live Link PAGE for Delhi Open 2022"
       }
    ]
 }
