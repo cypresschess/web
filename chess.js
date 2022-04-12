@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Weekly Show\" Lawrence Trent focuses on the Reykjavik Open and the featured game is Pragg's destruction of Cornette in Round 8. Lawrence will also briefly talk about Ding Liren and the Candidates. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-the-reykjavik-open",
+         "pubDate" : "Tue, 12 Apr 2022 18:00:00 +0100",
+         "title" : "The Weekly Show: The Reykjavik Open"
+      },
+      {
+         "description" : "Last Sunday, GM Hikaru Nakamura joined commentators GM Yasser Seirawan and GM Daniel Naroditsky after winning the week nine Rapid Chess Championship knockout and explained his Candidates preparation, his mentality going into one of the biggest eve...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-interview-2022-fide-candidates-chess",
+         "pubDate" : "Tue, 12 Apr 2022 08:48:45 -0700",
+         "title" : "Nakamura On The Candidates: 'Am I The Oldest Player In The Field?!'"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2d5e3eb6-e3d6-4149-aa8e-256f367a4181/Paul3.jpg\" data-image-dimensions=\"1736x873\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"625588aa13e4b945b461f696\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2d5e3eb6-e3d6-4149-aa8e-256f367a4181/Paul3.jpg?format=1000w\" /> </figure> <p class=\"\">The Perpetual Chess <a href=\"https://www.perpetualchesspod.com/adultimprover\" target=\"_blank\">Adult Improver Series</a> is back, but this time with a twist. We feature a senior gu",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -1578,14 +1594,6 @@ news_feed (
          "title" : "FIDE Grand Prix Berlin Semis: Round 1 Recap"
       },
       {
-         "description" : "The 2022 President&#39;s Cup returns to over-the-board for the first time since 2019, and the best four teams from the 2022 Pan-American Intercollegiate Team Championship have been invited to Texas Tech University to compete for the U.S. College Champ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/presidents-cup-2022",
-         "pubDate" : "Wed, 30 Mar 2022 11:02:15 -0700",
-         "title" : "President's Cup 2022: All The Information"
-      },
-      {
          "description" : " <p class=\"lead\">The <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> semifinals ended with Wesley So winning against Amin Tabatabaei, and Hikaru Namamura drawing against Shakhriyar Mamedyarov. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-19.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220330154232_IMG_5618.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220330153721_IMG_5610.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/202203301",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1936,14 +1944,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-back-in-joint-lead-at-delhi-international-open-chess/articleshow/90464520.cms",
          "pubDate" : "Sat, 26 Mar 2022 15:57:23 +0000",
          "title" : "Arjun Erigaisi back in joint lead at Delhi International Open"
-      },
-      {
-         "description" : "Due to recent events, in these times of turmoil that have divided the world, I will this time not speak on behalf of the WFCC, but on behalf of my own, my personal opinion. | Photos: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-gens-una-sumus-friendship-tourneys",
-         "pubDate" : "Sat, 26 Mar 2022 16:00:00 +0100",
-         "title" : "Study of the Month - Gens una sumus: Friendship tourneys"
       },
       {
          "description" : " A few years ago I mentioned a game called Smess (AKA Ninny Chess, or All the King's Men). It is a board game very similar to chess, but with different game mechanics and strategies. A similar game (invented around the same time) was Ploy. Ploy was a 2 or 4 player game, where the direction the pieces could move was imprinted on the piece itself (each piece was a disk). Some pieces had a single direction, while more powerful pieces had 2,3 or 4 directions. However, the pieces could be rotated, instead of moving, to enable them to move in entirely different directions. Although the game is out of print, it can be played at various online game platforms. In my old collection of board game books",
