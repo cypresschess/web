@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After four rounds four players - Arjun Erigasi, Emre Can, Aram Hakobyan and Kaido Kulaots - share the lead with 3.5/4 each at the strong Fagernes Open in Norway. Round 5 starts Wednesday, 13 April, at 14.00 local time (8.00 Eastern Time, 12.00 UTC). Follow the games live. | Photo: Tom Eriksen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fagernes-open-round-5-live",
+         "pubDate" : "Wed, 13 Apr 2022 13:45:00 +0100",
+         "title" : "Fagernes Open, Round 5: Live"
+      },
+      {
          "description" : "GM Praggnanandhaa R. scored one of his career&#39;s best achievements so far by winning the 2022 Kvika Reykjavik Open in Iceland on Tuesday. The only 16-year-old Indian grandmaster won a crucial and dramatic game against his compatriot GM Gukesh D. (1...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -126,7 +134,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-interview-2022-fide-candidates-chess",
-         "pubDate" : "Tue, 12 Apr 2022 08:48:45 -0700",
+         "pubDate" : "Tue, 12 Apr 2022 08:48:00 -0700",
          "title" : "Nakamura On The Candidates: 'Am I The Oldest Player In The Field?!'"
       },
       {
@@ -1890,14 +1898,6 @@ news_feed (
          "title" : "Online Asian Nations Cup Under-14 Team Chess Championship-2022 : Double delight for India"
       },
       {
-         "description" : "The schedule and venue of the FIDE Candidates Tournament 2022 have been recently announced by FIDE. The double round-robin tournament will be played at the magnificent Palacio de Santoña, a centrally located historic building in Madrid. The first round will take place on June 17.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-announcement",
-         "pubDate" : "Mon, 28 Mar 2022 10:58:36 +0100",
-         "title" : "FIDE Candidates 2022: Venue and schedule announced"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2120,14 +2120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1655",
          "pubDate" : "Wed, 23 Mar 2022 14:09:29 +0000",
          "title" : "FIDE Council meeting: List of decisions"
-      },
-      {
-         "description" : "A list of athletes who retired on their terms, at their peak, much like Ashleigh Barty did on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/33576267/ash-barty-michael-jordan-elite-athletes-retiring-their-peak?device=featurephone",
-         "pubDate" : "Wed, 23 Mar 2022 07:39:36 -0500",
-         "title" : "Ash Barty to Michael Jordan - elite athletes retiring at their peak"
       }
    ]
 }
