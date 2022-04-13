@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grand Chess Tour (GCT) has confirmed the seven wildcard players for the Superbet Chess Classic Romania and the Superbet Rapid & Blitz Poland, which will take place from 4 May to 14 May. The first leg of the GCT, the Superbet Chess Classic Romania will include all nine full tour players and one wildcard player, Romanian Grandmaster Bogdan-Daniel Deac. The Superbet Chess Classic Romania is sponsored by Superbet Foundation, One United and First Bank and features a 10 player round-robin battle for a total of $350,000 in prize money. Press Release...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-superbet-chess-classic-romania-superbet-rapid-blitz-poland-wildcards-announced",
+         "pubDate" : "Wed, 13 Apr 2022 08:58:05 +0100",
+         "title" : "The Superbet Chess Classic Romania & Superbet Rapid & Blitz Poland Wildcards Announced"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at his games from the 2022 Bill Wright Saint Louis Open, one of the premier open tournaments in the city. See how Caleb finished tied 2nd. 2022.04.12<br /> Caleb Denby vs. Vinee Thatiparthi, 2022: D32 Queen&#039;s Gambit Declined, Tarrasch defence<br /> Jordan Cohen vs. Denby, 2022: A03 Bird&#039;s opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caleb-2022-saint-louis-open-road-2000-nm-caleb-denby\"><img src=\"https://saintlo",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1920,14 +1928,6 @@ news_feed (
          "link" : "https://chessimprover.com/logical-chess-3/",
          "pubDate" : "Sun, 27 Mar 2022 17:42:32 +0000",
          "title" : "Logical Chess (3)"
-      },
-      {
-         "description" : "After getting a clear victory on Friday and kicking off Saturday's second set with a win, Magnus Carlsen seemed to be headed to a swift triumph in the final of the Charity Cup. However, Jan-Krzysztof Duda did not just give up, as he incredibly scored back-to-back wins to take the match to tiebreakers. In the blitz encounters, Carlsen regained his composure and won both games to claim his second consecutive title in the Champions Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/charity-cup-2022-d8",
-         "pubDate" : "Sun, 27 Mar 2022 15:30:00 +0100",
-         "title" : "Carlsen beats Duda in thrilling match, wins Charity Cup"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90477810.cms\" />Top seed Arjun Erigaisi, Harsha Bharathakoti and D Gukesh on Sunday emerged as joint leaders at the 19th edition of Delhi International Open Grandmasters Chess tournament. With just two rounds remaining, the tournament is heading for an exciting finish as the three Indians are now leading the standings with seven points.",
