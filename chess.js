@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #511, Merijn van Delft takes a look at Praggnanandhaa's inspired attacking win against French Grandmaster Matthieu Cornette at the strong Reykjavik Open, in which \"Pragg\" finished sole first. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-3",
+         "pubDate" : "Wed, 13 Apr 2022 18:00:00 +0100",
+         "title" : "Game of the Week #511: Praggnanandhaa vs Cornette"
+      },
+      {
+         "description" : "&#34;Ukraine is now on the frontline of the global war of freedom against tyranny,&#34; was one of several powerful quotes from GM Garry Kasparov in a TED Talk published on Tuesday&#38;mdash;the day before his 59th birthday today. The pro-democracy activist a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kasparov-ted-talk-russia-war-ukraine-putin",
+         "pubDate" : "Wed, 13 Apr 2022 09:59:29 -0700",
+         "title" : "Kasparov In TED Talk: 'Meeting Evil Halfway Is Still A Victory For Evil'"
+      },
+      {
+         "description" : "World Rapid Champion GM Nodirbek Abdusattorov won the early edition of Titled Tuesday while GM Hikaru Nakamura, who did not play last week, won the late tournament. Both players took their tournament outright with a score of 10/11. It was also a r...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/abdusattorov-nakamura-win-titled-tuesday-april-12-2022",
+         "pubDate" : "Wed, 13 Apr 2022 09:28:57 -0700",
+         "title" : "Nakamura Returns To Titled Tuesday, Splits Week With Abdusattorov"
+      },
+      {
          "description" : "\"Winter is Coming\" is the title of a book by Garry Kasparov published in 2015. In it he warned that Russia's descent from a nascent democracy into a full-blown dictatorship under Vladimir Putin made it a threat to the West and world peace. \"Garry could be forgiven for declaring: I bloody told you so,\" writes Malcolm Pein in the April 2022 edition of CHESS Magazine. In it he describes the consequences the Russian invasion of Ukraine has for the world of chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1546,14 +1570,6 @@ news_feed (
          "title" : "FIDE Grand Prix Berlin Semis: Game 2 Recap"
       },
       {
-         "description" : "GM Hikaru Nakamura&#38;nbsp;won the&#38;nbsp;2022 FIDE Grand Prix&#38;nbsp;series by earning a half-point against GM&#38;nbsp;Shakhriyar Mamedyarov&#38;nbsp;on Thursday. Although there are still games to be played in the third leg, Nakamura has already earned more po...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-semifinals-day-2",
-         "pubDate" : "Thu, 31 Mar 2022 14:30:00 -0700",
-         "title" : "Nakamura Early Winner Of Series: 2022 FIDE Grand Prix Berlin Leg 3, Semifinals Day 2"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Ukrainians make the strongest contingent with 35 players and 5 coaches at the <strong>European Championship</strong> in Catez. The Slovenian organisers have provided some free rooms and accommodation whereas the <strong>ECU</strong> has waived the fees. The <strong>Government of Ukraine</strong> granted players between 18 and 60 special permissions to represent their country at the board. The <strong>Belarus Chess Federation</strong> retracted its players when it was announced that they couldn't represent their country. Only four Russians take part, two of whom are juniors, one is a senior and the fourth is married in Germany and about to change fed",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1600,14 +1616,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/tabatabaei-beats-so-on-round-2-of-the-fide-grand-prix-semifinals/",
          "pubDate" : "Thu, 31 Mar 2022 16:47:14 +0000",
          "title" : "Tabatabaei Beats So In Round 2 of the Grand Prix Semifinals"
-      },
-      {
-         "description" : "The&#38;nbsp;2022 Junior Speed Chess Championship presented by SIG commenced today with a series of hard-fought matches where IMs reigned supreme. IM Aronyak Ghosh&#38;nbsp;was the deserving winner after taking down WGM Zhu&#38;nbsp;Jiner&#38;nbsp;and IM Rahul Sr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-qualifier-1",
-         "pubDate" : "Thu, 31 Mar 2022 09:46:00 -0700",
-         "title" : "Ghosh Advances To Main Event: 2022 Junior Speed Chess Championship Qualifier 1"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/wL_SqXmTWRE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -1898,14 +1906,6 @@ news_feed (
          "title" : "Richard Rapport and Hikaru Nakamura qualify for Candidates 2022"
       },
       {
-         "description" : "The Kragero Open had a large and strong field which led to many games with fascinating endgames. In his Endgame Magic Show #187 Karsten M&uuml;ller presents seven of these endgames. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-187-highlights-from-the-kragero-open",
-         "pubDate" : "Mon, 28 Mar 2022 18:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #187: Highlights from the Kragero Open"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90500835.cms\" />Defending champion Abhijeet Gupta defeated Iran's Poormosavi Seyed Kian in the penultimate round to take a joint lead in the 19th Delhi International open chess tournament on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2136,14 +2136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1656",
          "pubDate" : "Wed, 23 Mar 2022 23:14:37 +0000",
          "title" : "FIDE Grand Prix Berlin - Round 2 Recap"
-      },
-      {
-         "description" : " Losing a chess game hurts. It certainly hurt me a lot in my professional days. Sometimes I needed days or weeks to recover mentally from a bad loss. For a while I thought this was just a \"me\" thing. That I was way too invested and couldn't handle losses well. While there is certainly some [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/why-losing-at-chess-hurts-so-much-and-the-antidote/\">Why Losing At Chess Hurts So Much (And The Antidote)</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/why-losing-at-chess-hurts-so-much-and-the-antidote/",
-         "pubDate" : "Wed, 23 Mar 2022 16:53:14 +0000",
-         "title" : "Why Losing At Chess Hurts So Much (And The Antidote)"
       }
    ]
 }
