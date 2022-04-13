@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at his games from the 2022 Bill Wright Saint Louis Open, one of the premier open tournaments in the city. See how Caleb finished tied 2nd. 2022.04.12<br /> Caleb Denby vs. Vinee Thatiparthi, 2022: D32 Queen&#039;s Gambit Declined, Tarrasch defence<br /> Jordan Cohen vs. Denby, 2022: ??? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caleb-2022-saint-louis-open-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sit",
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at his games from the 2022 Bill Wright Saint Louis Open, one of the premier open tournaments in the city. See how Caleb finished tied 2nd. 2022.04.12<br /> Caleb Denby vs. Vinee Thatiparthi, 2022: D32 Queen&#039;s Gambit Declined, Tarrasch defence<br /> Jordan Cohen vs. Denby, 2022: A03 Bird&#039;s opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caleb-2022-saint-louis-open-road-2000-nm-caleb-denby\"><img src=\"https://saintlo",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/caleb-2022-saint-louis-open-road-2000-nm-caleb-denby",
