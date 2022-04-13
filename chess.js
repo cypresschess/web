@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"Winter is Coming\" is the title of a book by Garry Kasparov published in 2015. In it he warned that Russia's descent from a nascent democracy into a full-blown dictatorship under Vladimir Putin made it a threat to the West and world peace. \"Garry could be forgiven for declaring: I bloody told you so,\" writes Malcolm Pein in the April 2022 edition of CHESS Magazine. In it he describes the consequences the Russian invasion of Ukraine has for the world of chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/winter-has-come",
+         "pubDate" : "Wed, 13 Apr 2022 16:16:51 +0100",
+         "title" : "Winter Has Come"
+      },
+      {
+         "description" : "After the moves 1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 Black usually chooses the classical Tarrasch Defence with 4...exd5. 4...cxd4, on the other hand, leads to the Schara von Hennig Gambit. Still quite popular in the 90s, this gambit went out of fashion in the meantime. But recently a series of online games at the highest level (above all thanks to Alexander Grischuk) generated new interest. Robert Ris presents the latest developments in his opening video for the ChessBase Magazine Extra #206. Watch an excerpt from his video analysis!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trends-in-the-schara-von-hennig-gambit",
+         "pubDate" : "Wed, 13 Apr 2022 16:00:00 +0100",
+         "title" : "New trends in the Schara von Hennig Gambit"
+      },
+      {
+         "description" : " For this week's show we managed to arrange another special guest, the British chess legend Raymond Keene. Besides being a Grandmaster, Keene was awarded an OBE by the Queen herself. He currently spends his time organizing mind sports events, as well as writing for The British Chess Magazine and The Article. In the show we <a href=\"https://chessimprover.com/master-chess-web-show-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-9/\">Master Chess Web Show (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/master-chess-web-show-9/",
+         "pubDate" : "Wed, 13 Apr 2022 14:37:12 +0000",
+         "title" : "Master Chess Web Show (9)"
+      },
+      {
+         "description" : "The Mitropa Cup 2022 will be held from 27th April &#x2013; 8th May in the Sports complex (COSEC)&#xA0;of Corte, Corsica, France. The following chess federations are entitled to take part in the Mitropa Cup 2022:&#xA0;Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland. Replay: Mitropa Cup 2021 information / Mitropa Cup 2021 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mitropa-chess-cup-2022/",
+         "pubDate" : "Wed, 13 Apr 2022 14:15:38 +0000",
+         "title" : "Mitropa Chess Cup 2022"
+      },
+      {
+         "description" : " After writing an article on different types of short Grandmaster draws, it is time to zoom in on the saddest category: pre-arranged draws. Yes, there are even cases of match-fixing wins &#38; losses, but they are much less common than pre-arranged draws. I'm not writing this article to accuse players. That is also why I [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/pre-arranged/\">The Dark Side Of Chess: Match-Fixing</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/pre-arranged/",
+         "pubDate" : "Wed, 13 Apr 2022 14:00:00 +0000",
+         "title" : "The Dark Side Of Chess: Match-Fixing"
+      },
+      {
+         "description" : " <p class=\"lead\">It's been two years since the last Reykjavik Open due to the pandemic. This year the prestigious tournament opened its doors again in Iceland for the 36th time with GM Rameshbabu Praggnanandhaa winning the tournament impressively. Two more Indians, GM Abhimanyu Mishra and IM Tania Sachdev, also made a great appearance. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Rameshbabu-Praggnanandhaa-scaled.jpg\" width=\"2560\" height=\"1600\" alt=\"\" /> </div> A bit more than a month after Praggnanandhaa became <a href=\"https://worldchess.com/news/all/champions-chess-tour-2022-day-2-pragg-is-the-youngest-player-to/\">the youngest player to beat the World Champi",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/16-year-old-indian-gm-rameshbabu-praggnanandhaa-wins-2022-reykja/",
+         "pubDate" : "Wed, 13 Apr 2022 13:42:11 +0000",
+         "title" : "16-year-old Indian GM Praggnanandhaa Wins 2022 Reykjavik Open"
+      },
+      {
+         "description" : " If you cannot make it to Canberra for the 2022 O2C Doeberl Cup, you can always follow it online. Chess24 are carrying the top boards from the Premier on their website (<a href=\"https://chess24.com/en/watch/live-tournaments/doeberl-cup-2022/1/1/1\">click here</a> for the direct link)/ GM Ian Rogers is also doing commentary on the games, via his <a href=\"https://www.twitch.tv/gmianr\">twitch stream</a> Coverage for both events begins at 1315 (Canberra time) tommorow. For the full tournament results (plus lots of other info) go to <a href=\"http://www.doeberlcup.com.au\">www.doeberlcup.com.au</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-coverage.html",
+         "pubDate" : "Wed, 13 Apr 2022 13:27:00 +0000",
+         "title" : "2022 O2C Doeberl Cup - Coverage"
+      },
+      {
          "description" : "After four rounds four players - Arjun Erigasi, Emre Can, Aram Hakobyan and Kaido Kulaots - share the lead with 3.5/4 each at the strong Fagernes Open in Norway. Round 5 starts Wednesday, 13 April, at 14.00 local time (8.00 Eastern Time, 12.00 UTC). Follow the games live. | Photo: Tom Eriksen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -15,7 +71,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2022-reykjavik-open",
          "pubDate" : "Wed, 13 Apr 2022 03:54:00 -0700",
-         "title" : "Praggnanandhaa Wins 2022 Reykjavik Open"
+         "title" : "Praggnanandhaa Wins 2022 Reykjavik Open, Tournament Of Missed Underpromotions"
       },
       {
          "description" : "Who am I? Tactician or position player? Attacker or defender? Should I play 1.d4 or 1.e4? Sicilian or French? If you know your strengths and weaknesses you will score more points and you will be more successful. In their \"Player Types\" ChessBase course Karsten M&uuml;ller and Luis Engel take a close look at playing styles, and in an extensive interview Karsten M&uuml;ller reveals a few things they discovered.",
@@ -1010,14 +1066,6 @@ news_feed (
          "title" : "FIDE Grand Prix Final - Games and results"
       },
       {
-         "description" : "Russian Grandmaster Sergey Karjakin is developing his own online chess platform. In his telegram channel, he shared, &#8220;Together with the largest Russian IT company, I am participating in the development of a chess portal! We have an excellent symbiosis between professional programmers and chess players.&#8221; Karjakin added that the portal aims to hold online competitions []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sergey-karjakin-is-developing-his-own-online-chess-platform/",
-         "pubDate" : "Mon, 04 Apr 2022 13:38:02 +0000",
-         "title" : "Sergey Karjakin is developing his own online chess platform"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1738,14 +1786,6 @@ news_feed (
          "title" : "Berlin GP: So and Mamedyarov make it to the semifinals"
       },
       {
-         "description" : " <p class=\"lead\">Russian Grandmaster Sergey Karjakin has been banned for 6 months by FIDE's Ethics Commission for supporting Russia's invasion in Ukraine and <a href=\"https://www.fide.com/news/1650\">allegedly damaging the reputation of FIDE</a>, the sport's governing body. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/97842112-BA5D-4290-BD18-C1B956650D72.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Karjakin challenged Magnus Carlsen in 2016 in New York and lost the match on tie-breaks. He was leading after 8 rounds.</div> </div> For the 32-year-old chess player, the ban means missing the Candidates Tournament, the key event of the Wor",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/sergey-karjakin-said-to-take-fide-to-court/",
-         "pubDate" : "Wed, 30 Mar 2022 08:15:17 +0000",
-         "title" : "Sergey Karjakin Said To Take FIDE to Court"
-      },
-      {
          "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the country.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2104,22 +2144,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/why-losing-at-chess-hurts-so-much-and-the-antidote/",
          "pubDate" : "Wed, 23 Mar 2022 16:53:14 +0000",
          "title" : "Why Losing At Chess Hurts So Much (And The Antidote)"
-      },
-      {
-         "description" : " Here's my summary of this week's Master Chess Web Shows. There was a departure from the usual schedule because of guest appearances, and these were such fun that we'll be doing some more: Monday On Monday we had FIDE Master Charlie Storey on the show, and he described how he started out in chess and <a href=\"https://chessimprover.com/master-chess-web-show-6/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (6)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-6/\">Master Chess Web Show (6)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/master-chess-web-show-6/",
-         "pubDate" : "Wed, 23 Mar 2022 15:25:02 +0000",
-         "title" : "Master Chess Web Show (6)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1655",
-         "pubDate" : "Wed, 23 Mar 2022 14:09:29 +0000",
-         "title" : "FIDE Council meeting: List of decisions"
       }
    ]
 }
