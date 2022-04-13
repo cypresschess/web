@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Praggnanandhaa R. scored one of his career&#39;s best achievements so far by winning the 2022 Kvika Reykjavik Open in Iceland on Tuesday. The only 16-year-old Indian grandmaster won a crucial and dramatic game against his compatriot GM Gukesh D. (1...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2022-reykjavik-open",
+         "pubDate" : "Wed, 13 Apr 2022 03:54:00 -0700",
+         "title" : "Praggnanandhaa Wins 2022 Reykjavik Open"
+      },
+      {
+         "description" : "Who am I? Tactician or position player? Attacker or defender? Should I play 1.d4 or 1.e4? Sicilian or French? If you know your strengths and weaknesses you will score more points and you will be more successful. In their \"Player Types\" ChessBase course Karsten M&uuml;ller and Luis Engel take a close look at playing styles, and in an extensive interview Karsten M&uuml;ller reveals a few things they discovered.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/player-types-an-interview-with-karsten-mueller",
+         "pubDate" : "Wed, 13 Apr 2022 10:00:00 +0100",
+         "title" : "Player types - an interview with Karsten M&uuml;ller"
+      },
+      {
+         "description" : "The VI Open Internacional de ajedrez Semana Santa en Torrevieja (Alicante) 2022 is going to take place 13-17 April in Spain. A total of 450 players from 41 countries will participate in the event, including 19 GMs and 23 IMs. Top seeded is GM Karen Grigoryan, while the young U18 star GM Daniel Dardha is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vi-open-internacional-de-ajedrez-semana-santa-en-torrevieja-alicante-2022/",
+         "pubDate" : "Wed, 13 Apr 2022 08:48:10 +0000",
+         "title" : "VI Open Internacional de ajedrez Semana Santa en Torrevieja (Alicante) 2022"
+      },
+      {
+         "description" : "The Grand Chess Tour (GCT) has confirmed the seven wildcard players for the&#xA0;Grand Chess Tour Chess Classic Romania&#xA0;and the&#xA0;Grand Chess Tour Rapid &#38; Blitz Poland. The first leg of the GCT, the Chess Classic Romania will include all nine full tour players and one wildcard player, Romanian Grandmaster Bogdan-Daniel Deac. The Superbet Chess Classic Romania []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-chess-tour-2022-romania-participants-announced/",
+         "pubDate" : "Wed, 13 Apr 2022 08:38:46 +0000",
+         "title" : "Grand Chess Tour 2022 Romania - participants announced"
+      },
+      {
          "description" : "The Grand Chess Tour (GCT) has confirmed the seven wildcard players for the Superbet Chess Classic Romania and the Superbet Rapid & Blitz Poland, which will take place from 4 May to 14 May. The first leg of the GCT, the Superbet Chess Classic Romania will include all nine full tour players and one wildcard player, Romanian Grandmaster Bogdan-Daniel Deac. The Superbet Chess Classic Romania is sponsored by Superbet Foundation, One United and First Bank and features a 10 player round-robin battle for a total of $350,000 in prize money. Press Release...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-superbet-chess-classic-romania-superbet-rapid-blitz-poland-wildcards-announced",
          "pubDate" : "Wed, 13 Apr 2022 08:58:05 +0100",
          "title" : "The Superbet Chess Classic Romania & Superbet Rapid & Blitz Poland Wildcards Announced"
+      },
+      {
+         "description" : "ECU 101 The SMART Method to Teach Chess Seminar will take place Online on 11th and 12th June 2022. Course information: Course ID: ECU101 Duration: 2 days Dates: 11-12 June 2022 Time: Please note, all times are in London Time Day1 09.00 12.00 13.00 16.00 Day2 09.00 12.00 13.00 16.00 Language: English Fee: &pound;150 Early bird: (Register until the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu101-the-smart-method-to-teach-chess/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu101-the-smart-method-to-teach-chess/",
+         "pubDate" : "Wed, 13 Apr 2022 07:47:12 +0000",
+         "title" : "ECU101 - The SMART Method to Teach Chess"
+      },
+      {
+         "description" : "The Reykjavik Open 2022 took place from 4th-12th April 2022 in Harpa Concert Hall of Iceland. After 9 played rounds Praggnanandhaa R (IND, 2624) became the sole Winner of the event scoring 7.5 points. Praggnanandhaa won the intense last round game against his compatriot Gukesh D (IND, 2637) to leap on the top and win the tournament. Four&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/praggnanandhaa-wins-reykjavik-open-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/praggnanandhaa-wins-reykjavik-open-2022/",
+         "pubDate" : "Wed, 13 Apr 2022 07:35:38 +0000",
+         "title" : "Praggnanandhaa wins Reykjavik Open 2022"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at his games from the 2022 Bill Wright Saint Louis Open, one of the premier open tournaments in the city. See how Caleb finished tied 2nd. 2022.04.12<br /> Caleb Denby vs. Vinee Thatiparthi, 2022: D32 Queen&#039;s Gambit Declined, Tarrasch defence<br /> Jordan Cohen vs. Denby, 2022: A03 Bird&#039;s opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caleb-2022-saint-louis-open-road-2000-nm-caleb-denby\"><img src=\"https://saintlo",
@@ -738,14 +786,6 @@ news_feed (
          "title" : "Grand Chess Tour 2022"
       },
       {
-         "description" : "The Chess in School conference with Erasmus+ meetings and programs will take place from 11th-14th May 2022 in Zurich, Switzerland. Chess in school conference under the name &#8220;Chess: a Game to be Spread in Schools&#8221; (CGS) will be held on 14th of May, in Dorint Airport Hotel. The Conference will be held in the English language and it&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-a-game-to-be-spread-in-school-conference/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/chess-a-game-to-be-spread-in-school-conference/",
-         "pubDate" : "Wed, 06 Apr 2022 06:42:13 +0000",
-         "title" : "\"Chess: a Game to be Spread in Schools\"Conference"
-      },
-      {
          "description" : "National Junior Certificates (09-13, march), Gurugram National Junior Chess Championship 2022 Certificates are out to download. Male : https://aicf.online/National-Junior-M.html Female : https://aicf.online/National-Junior-G.html Any correction please",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -898,14 +938,6 @@ news_feed (
          "title" : "Need sure points? Queen's Gambit Declined Edition"
       },
       {
-         "description" : "After 9 played rounds at the European Individual Chess Championship 2022 in Terme Catez, Slovenia, GM Matthias Bluebaum (GER, 2642) is the sole leader of the event scoring 7.5 points. After a quick draw in the round 9 against his compatriot GM Nisipeanu Liviu-Dieter (GER, 2652), Bluebaum kept the leadership just two rounds before the end of the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/matthias-bluebaum-in-sole-leadership-after-9-rounds-of-european-individual-chess-championship-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/matthias-bluebaum-in-sole-leadership-after-9-rounds-of-european-individual-chess-championship-2022/",
-         "pubDate" : "Tue, 05 Apr 2022 07:32:02 +0000",
-         "title" : "Matthias Bluebaum in sole leadership after 9 rounds of European Individual Chess Championship 2022"
-      },
-      {
          "description" : "Arjun Erigaisi won his fourth consecutive individual tournament as he bagged the first leg of the MPL Indian Chess Tour. This was his fifth overall triumph of the year 2022. He qualified to the Tour finals and will also play at the Meltwater Champions Chess Tour. Runner-up Raunak Sadhwani scored only two draws in the 15-round event, while Gukesh and Surya Ganguly were placed third and fourth. The top eight finishers get an automatic invitation to the next leg, which is scheduled to take place in June.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -976,14 +1008,6 @@ news_feed (
          "link" : "https://www.chessdom.com/sergey-karjakin-is-developing-his-own-online-chess-platform/",
          "pubDate" : "Mon, 04 Apr 2022 13:38:02 +0000",
          "title" : "Sergey Karjakin is developing his own online chess platform"
-      },
-      {
-         "description" : "Hikaru Nakamura&#xA0;and&#xA0;Welsey So&#xA0;drew their second game in the final match of the third stage of the FIDE Grand Prix organised by World Chess. The winner of the event will be determined tomorrow in a tiebreaker. Hikaru Nakamura picked White for the first rapid game against Wesley So during the drawing of lots procedure. It was []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-grand-prix-final-goes-to-tiebreaks/",
-         "pubDate" : "Mon, 04 Apr 2022 13:37:57 +0000",
-         "title" : "FIDE Grand Prix final goes to tiebreaks"
       },
       {
          "description" : "",
@@ -1104,14 +1128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-2022-live",
          "pubDate" : "Sun, 03 Apr 2022 12:00:00 +0100",
          "title" : "MPL Indian Chess Tour - Games and results"
-      },
-      {
-         "description" : "Ding Liren needs to paly a total of 26 classical games to qualify for the Candidates 2022. After Nakamura and Rapport qualified from the Grand Prix, only one spot remains open that of Sergey Karjakin, who was banned by&#160;FIDE for 6 months. Ding Liren has just completed 12 out of the 26 required games, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-liren-completes-12-games-of-his-candidates-quest-now-2-in-the-world-with-2811-elo/",
-         "pubDate" : "Sun, 03 Apr 2022 10:51:54 +0000",
-         "title" : "Ding Liren completes 12 games of his Candidates quest, now #2 in the world with 2811 ELO"
       },
       {
          "description" : " The 2022 Dubbo Open has attracted a good field of 37 players. The top 2 seeds are Cameron McGowan and FM Michael Kethro, with a solid field of 1750-2000 rated players making up the next 7 seeds. After the first 3 rounds, McGowan, Kethro and WFM Alana Chibnall lead with 3/3. Close behind on 2.5 are WFM Kristine Quek, WIM Biljana Dekic and Kye Walls. The round 4 pairings see McGowan play Kethro on the top board, with Dekic v Chibnall on board 2. After the 3rd round the traditional time handicap blitz event was held. Players were given a time bonus/penalty based on their rating, meaning that higher rated players might start with only 2 or 3 minutes on their click (versus their opponents 5). Th",
@@ -1610,14 +1626,6 @@ news_feed (
          "title" : "Modern Chess- From Steinitz to the 21st Century"
       },
       {
-         "description" : "The March 30 Arena Kings&#38;nbsp;featured one of the more entertaining knockout rounds of the season, although it ended fairly predictably with a victory for&#38;nbsp;GM Hikaru Nakamura. He defeated IM Le Tuan Minh&#38;nbsp;in the final in a 3-0 sweep. The s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-arena-kings-season-9-week-8",
-         "pubDate" : "Wed, 30 Mar 2022 15:24:28 -0700",
-         "title" : "Nakamura's Nearly Perfect Knockout Claims Arena Kings Season 9 Week 8"
-      },
-      {
          "description" : "Wesley So won a pawn and then never gave Amin Tabatabaei a chance as he took a huge step towards the final of the last Berlin FIDE Grand Prix. In the other semi-final Hikara Nakamura claimed, \"I just didn't want to do anything too exciting,\" as he explained he was already trying to safeguard any openings that might come in handy in the Candidates Tournament. The unambitious approach allowed Shakhriyar Mamedyarov to take over, but the game never caught fire before it ended in a 30-move draw.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-candidates-2022-announcement",
          "pubDate" : "Mon, 28 Mar 2022 10:58:36 +0100",
          "title" : "FIDE Candidates 2022: Venue and schedule announced"
-      },
-      {
-         "description" : "Four players representing the United States scored full points in round 5 of the Berlin Grand Prix. Levon Aronian and Hikaru Nakamura both won and are now sharing the lead in pool A, much like Wesley So and Sam Shankland, who are now co-leaders in pool C. Given round-5's results, we are likely to see tiebreaks after Monday's final round, as none of the four groups has a sole leader at the moment. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r5",
-         "pubDate" : "Mon, 28 Mar 2022 05:45:00 +0100",
-         "title" : "Berlin GP: A great day for team USA"
       },
       {
          "description" : "",
