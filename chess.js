@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Doeberl Chess Cup 2022 is going to take place 14-18 April in Canberra, Australia. GM Hrant Melkumyan, the winner of the 2019 Deoberl Cup, is the top seeded in the event. Scroll down for full participants list. Throwback: Nisipeanu and Vajda share first place in 2014 Live games Doeberl Chess Cup 2022 Doeberl Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/doeberl-chess-cup-2022/",
+         "pubDate" : "Wed, 13 Apr 2022 22:27:22 +0000",
+         "title" : "Doeberl Chess Cup 2022"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani marches on with the Philidor Defense, based on the teachings of Parimarjan Negi and his book. BUY NEGI&#039;S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> 2022.04.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1e4-vs-philidor-part-2-chess-and-p",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/1e4-vs-philidor-part-2-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Wed, 13 Apr 2022 22:27:16 +0000",
+         "title" : "1.e4 vs. The Philidor: Part 2 | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
+         "description" : "GM Hikaru Nakamura&#38;nbsp;won his third consecutive Arena Kings on April 13 and has now claimed victory in all six weeks he&#39;s played in Season 9. For the second straight week, GM Oleksandr Bortnyk was Nakamura&#39;s opponent in the final while the semif...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-arena-kings-season-9-week-10",
+         "pubDate" : "Wed, 13 Apr 2022 14:38:05 -0700",
+         "title" : "Nakamura Continues To Reign Over Arena Kings In Season 9 Week 10"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #511, Merijn van Delft takes a look at Praggnanandhaa's inspired attacking win against French Grandmaster Matthieu Cornette at the strong Reykjavik Open, in which \"Pragg\" finished sole first. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -152,6 +176,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/caleb-2022-saint-louis-open-road-2000-nm-caleb-denby",
          "pubDate" : "Wed, 13 Apr 2022 01:26:17 +0000",
          "title" : "Caleb at the 2022 Saint Louis Open | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "An eventful Kvika Reykjavik Open came to an end yesterday as 245 players from 39 countries played their final moves of the event. The Indian sensation&#160;Praggnanandhaa&#160;was the soler winner clocking in with an impressive 7&#xBD; pionts in the 9 rounds. The prize giving ceremony was held at the Reykjavik Ciy Hall and&#160;Pawel Bartoszek, member of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/praggnanandhaa-wins-reykjavik-chess-2022/",
+         "pubDate" : "Tue, 12 Apr 2022 23:12:00 +0000",
+         "title" : "Praggnanandhaa wins Reykjavik Chess 2022"
       },
       {
          "description" : "Praggnanandhaa entered the final round of the Reykjavik Open sharing the lead with Max Warmerdam and Mads Andersen. Warmerdam and Andersen played on top board and signed a 16-move draw, while Pragg's position deteriorated slowly but surely in his game against Gukesh. The latter eventually reached a winning position, but back-to-back blunders not only gave away his advantage but even allowed his opponent to get the full point. Thus, 16-year-old Praggnanandhaa became the ourtight winner of the event! | Photo: Hallfr&iacute;ður Sigurðard&oacute;ttir (from round 4)",
@@ -754,14 +786,6 @@ news_feed (
          "title" : "Nakamura Wins Another One: Arena Kings Season 9 Week 9"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros begins his new series which profiles a specific grandmaster's rise to the title. First, it's Boros's countryman, Richard Rapport. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rise-rapport-episode-i-how-become-grandmaster-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wV4gL0ti6fw.jpg?itok=yqadVPML\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rise-rapport-episode-i-how-become-grandmaster-gm-denes-boros",
-         "pubDate" : "Wed, 06 Apr 2022 22:19:23 +0000",
-         "title" : "The Rise of The Rapport: Episode I | How To Become a Grandmaster - GM Denes Boros"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -962,28 +986,12 @@ news_feed (
          "title" : "TCEC S22 Superfinal starts today"
       },
       {
-         "description" : "Magnus Carlsen has commented the situation with&#xA0;FIDE's 6 months ban on Karjakin. The World Champion is unsure whether it was right to exclude Karjakin from all competitions under the auspices of FIDE. More on Sergey Karjakin&#x2019;s case:&#xA0;Karjakin ban by FIDE announced&#xA0;/&#xA0;Karjakin posts comments on the ban, decides not to appeal, but&#xA0;Kremlin supports Karjakin&#xA0;/ Top players []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-is-unsure-sergey-karjakins-ban-was-right-says-it-sets-a-precedent-in-chess/",
-         "pubDate" : "Tue, 05 Apr 2022 11:13:55 +0000",
-         "title" : "Magnus Carlsen is unsure Sergey Karjakin's ban was right, says it sets a precedent in chess"
-      },
-      {
          "description" : "In his \"Game of the Week\" show #509, Merijn van Delft shows how Hikaru Nakamura won against Andrey Esipenko in the final round of the preliminaries at the FIDE Grand Prix in Berlin - it was an interesting, tense fighting game and winning it guaranteed Nakamura a place in the Candidates. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-509-esipenko-vs-nakamura",
          "pubDate" : "Tue, 05 Apr 2022 11:12:41 +0100",
          "title" : "Game of the Week #509: Esipenko vs Nakamura"
-      },
-      {
-         "description" : "The last battle of the entire 2022 FIDE Grand Prix series organised by World Chess has finished on the 4th of April. In the final match tiebreaker,&#xA0;Wesley So&#xA0;outplayed&#xA0;Hikaru Nakamura&#xA0;by a score of 1&#xBD;:&#xBD; and won the third leg&#xA0;of the Grand Prix in Berlin. The tournament winner and the runner-up looked happy at the closing ceremony []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-is-the-winner-of-berlin-chess-grand-prix-2022/",
-         "pubDate" : "Tue, 05 Apr 2022 10:11:37 +0000",
-         "title" : "Wesley So is the winner of Berlin Chess Grand Prix 2022"
       },
       {
          "description" : "The English Chess Federation's 24-hour charity marathon for Ukraine took place over the weekend of 02/04 to 03/04 on Chess.com to raise funds for the...",
@@ -1536,14 +1544,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-sf2",
          "pubDate" : "Fri, 01 Apr 2022 03:05:00 +0100",
          "title" : "Berlin GP: Tabatabaei bounces back"
-      },
-      {
-         "description" : "Chess.com is happy to announce the release of v4, the new version of our mobile iOS app. With this release, both our iOS and Android apps now share our newest interface with many improvements to make your mobile chess experience better! Many of ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-v4-ios-android",
-         "pubDate" : "Thu, 31 Mar 2022 17:46:00 -0700",
-         "title" : "Try Out The New Chess.com v4 on iOS and Android"
       },
       {
          "description" : "\"Who cares!\" said Hikaru Nakamura when he learned that he'd clinched overall victory in the 2022 FIDE Grand Prix with a draw against Shakhriyar Mamedyarov. His point was that there are no separate prizes this time round for the overall results. Meanwhile there's still unfinished business in Berlin, with both semi-finals to be decided in tiebreaks on Friday after Wesley So made a move that both players initially thought was winning, only to realise there was a refutation which almost instantly decided the game in Amin Tabatabaei's favour.",
@@ -2128,14 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1649",
          "pubDate" : "Thu, 24 Mar 2022 11:15:40 +0000",
          "title" : "Fourth Chess in Education Lecturer course announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1656",
-         "pubDate" : "Wed, 23 Mar 2022 23:14:37 +0000",
-         "title" : "FIDE Grand Prix Berlin - Round 2 Recap"
       }
    ]
 }
