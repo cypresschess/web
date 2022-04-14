@@ -1378,7 +1378,7 @@ news_feed (
          "title" : "Viswanathan Anand's new innings - a role in FIDE?"
       },
       {
-         "description" : " Share!34 Business Meets Kids kicks off a spring event featuring former Real Madrid star Esteban Granero as he will participate in a tandem chess match with youth at the Marbella Golf Club. Swedish Grandmaster Pontus Carlsson is the brainchild of Business Meets Kids and has been holding events since 2018. In a couple of weeks [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/\">Business Meets Chess &#038; Kids Spring 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Share!34 Business Meets Kids kicks off a spring event featuring former Real Madrid star Esteban Granero as he will participate in a tandem chess match with youth at the Marbella Golf Club. Swedish Grandmaster Pontus Carlsson is the brainchild of Business Meets Kids and has been holding events since 2018. In a couple of weeks <a href=\"https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Business Meets Chess &#038; Kids Spring 2022!\"</span></a> The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/\">Business Meets Chess &#038; Kids Spring 2022!</a> appeared first on <",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/",
@@ -1562,7 +1562,7 @@ news_feed (
          "title" : "Chess: Carlsen's rivals prepare for Candidates as No 1 wins after hiccup"
       },
       {
-         "description" : " Daaim Shabazz, The Chess Drum Recently chess.com featured &#8220;Chess Through an African Lens&#8221; written by this author. The reception was very positive, but it is surprising how few had been exposed to this information about the African Diaspora which is a testament to how chess media lacks a true representation of the vast chess universe. [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/\">Chess in African Diaspora 2022</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " Daaim Shabazz, The Chess Drum Recently chess.com featured &#8220;Chess Through an African Lens&#8221; written by this author. The reception was very positive, but it is surprising how few had been exposed to this information about the African Diaspora which is a testament to how chess media lacks a true representation of the vast chess universe. <a href=\"https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess in African Diaspora 2022\"</span></a> The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/\">Chess in African Diaspora 2022</a> appear",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/",
@@ -2050,7 +2050,7 @@ news_feed (
          "title" : "A short warm up event "
       },
       {
-         "description" : " In most team competitions, teammates don't play each other, but retired U.S. Marine Corps Master Sergeant Steven Rollins thought of a novel way that allows teammates to play each other without adversely affecting the team score. In 2014, his &#8220;Rollins Military System&#8221; was included as Rule 31A1 in the U.S. Chess Rule Book. Kobe Bryant, [] The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/\">The Steven Rollins Chess Rule</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum | The Original Pan-African Chess Website</a>. ",
+         "description" : " In most team competitions, teammates don't play each other, but retired U.S. Marine Corps Master Sergeant Steven Rollins thought of a novel way that allows teammates to play each other without adversely affecting the team score. In 2014, his &#8220;Rollins Military System&#8221; was included as Rule 31A1 in the U.S. Chess Rule Book. Kobe Bryant, <a href=\"https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Steven Rollins Chess Rule\"</span></a> The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/\">The Steven Rollins Chess Rule</a> appeared f",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/",
@@ -2112,14 +2112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1657",
          "pubDate" : "Thu, 24 Mar 2022 22:58:49 +0000",
          "title" : "FIDE Grand Prix Berlin - Round 3 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1643",
-         "pubDate" : "Thu, 24 Mar 2022 12:30:15 +0000",
-         "title" : "Support Ukrainian Chess Players and their Families"
       }
    ]
 }
