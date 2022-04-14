@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Fagernes Open is a 9-round open tournament taking place at the touristic valley of Valdres in Norway. After five rounds, eight players are sharing the lead on 4 points, including top seed Arjun Erigaisi. Round 6 starts Thursday, April 14, at 14.00 CEST. Follow the games live with computer analyses. | Photo: Tom Eriksen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fagernes-open-2022-live",
+         "pubDate" : "Thu, 14 Apr 2022 13:55:00 +0100",
+         "title" : "Fagernes Open, Round 6: Live"
+      },
+      {
          "description" : "A strong open tournament is taking place at the small Norwegian city of Fagernes. Six players rated 2600 or above made their way to the touristic destination located three hours north of Oslo. After five rounds (out of nine), eight players are sharing the lead on 4 points, including top seed Arjun Erigaisi. | Photo: Tom Eriksen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1874,14 +1882,6 @@ news_feed (
          "title" : "EP 272- \"Positional Puzzle Book Championship\" with Neal Bruce"
       },
       {
-         "description" : "After two rounds 41 players with 2.0/2 share the lead at the European Individual Championship. One of them is the 15-year old strong junior Aydin Suleymanli (pictured) from Azerbaijan who defeated Anton Korobov in round two. | Photos: SZS/Luka Rifelj",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-strong-juniors",
-         "pubDate" : "Tue, 29 Mar 2022 14:07:28 +0100",
-         "title" : "European Championship: Strong juniors"
-      },
-      {
          "description" : "National Sub-Junior (04-08, March 2022) Certificates are Out to Download National Sub-Junior and National Sub-Junior Girls Chess Championship 2022 Certificates are out to download for",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2120,14 +2120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1643",
          "pubDate" : "Thu, 24 Mar 2022 12:30:15 +0000",
          "title" : "Support Ukrainian Chess Players and their Families"
-      },
-      {
-         "description" : " While picking up the latest Humble Bundle (Stand with Ukraine), I came across a curious game called Pawnbarian. It is a mixture of chess, deck building, and dungeon crawler, all packed into one. In the game, you are the Pawnbarian, he is called upon to defeat a host of enemies (goblins, monsters etc). You play cards to move your piece on the 5x5 board, either trying to attack the monsters, or run away from them. The cards initially match existing chess pieces (and their moves), but as you progress, you can but more cards to add to your deck (which often have additional effects). As you progress through the dungeon the monsters become harder to beat, and you have to do a bit of preplanning o",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/pawnbarian.html",
-         "pubDate" : "Thu, 24 Mar 2022 11:35:00 +0000",
-         "title" : "Pawnbarian"
       }
    ]
 }
