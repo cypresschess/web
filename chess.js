@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week Robert Ris takes a look at the game Niemann-Thorhallsson from the Reykjavik Open. The young American Hans Moke Niemann is one of the main experts of the Jobava-London System and in this game he managed to defeat the experienced Icelandic GM Thorhallsson in only 21 moves. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-winning-with-the-jobava-london-system",
+         "pubDate" : "Thu, 14 Apr 2022 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Winning with the Jobava-London System"
+      },
+      {
+         "description" : "The English Chess Federation's 24-hour charity marathon for Ukraine took place over the weekend of 02/04 to 03/04 on Chess.com to raise funds for the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-marathon-for-ukraine-results/",
+         "pubDate" : "Thu, 14 Apr 2022 16:12:29 +0000",
+         "title" : "ECF Marathon for Ukraine - results"
+      },
+      {
          "description" : "The Fagernes Open is a 9-round open tournament taking place at the touristic valley of Valdres in Norway. After five rounds, eight players are sharing the lead on 4 points, including top seed Arjun Erigaisi. Round 6 starts Thursday, April 14, at 14.00 CEST. Follow the games live with computer analyses. | Photo: Tom Eriksen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1850,14 +1866,6 @@ news_feed (
          "title" : "FIDE Grand Prix Berlin: So and Mamedyarov advance to semifinals"
       },
       {
-         "description" : "Lawrence has found a position, which looks familiar to many of us. We just have to calculate, as good as we can, how to win the game. The important lesson is, that many variations can lead to a position which is slightly better, but not clearly won. A so-called insurance. We can put this variation in the back of our head, and keep on finding a better way to win. If everything fails, we use the variation with the small advantage.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-18",
-         "pubDate" : "Tue, 29 Mar 2022 17:00:00 +0100",
-         "title" : "Trent's Tactics - The insurance"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90524221.cms\" />Grandmaster and national champion Arjun Erigaisi came up with yet another inspired effort and crashed through the defences of Karthik Venkataraman to win the 19th Delhi International open chess tournament on Tuesday. Earlier this month the young man had won the National Championship at Kanpur quite easily and that means his winnings this month are Rs 10 lakh in all.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2064,14 +2072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1658",
          "pubDate" : "Fri, 25 Mar 2022 16:17:27 +0000",
          "title" : "FIDE Veterans Support Program 2022: A tribute"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessable-support-for-the-ecf-and-english-chess/",
-         "pubDate" : "Fri, 25 Mar 2022 16:01:56 +0000",
-         "title" : "Chessable support for the English Chess Federation and English Chess"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/06cc653c-ca87-48f3-b47f-a636ed26e99e/mammoth3.jpg\" data-image-dimensions=\"550x276\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"623de366654dd52be017e093\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/06cc653c-ca87-48f3-b47f-a636ed26e99e/mammoth3.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">I was joined by guest co-host Christopher Chabris, and we were paid a visit by the co-author and editor, FM Graham Burgess </figcaption> </fi",
