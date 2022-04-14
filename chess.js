@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Support the stream: <a href=\"https://streamlabs.com/stlchessclub\">https://streamlabs.com/stlchessclub</a> International Master Dorsa Derakhshani marches on with the Philidor Defense, based on the teachings of Parimarjan Negi and his book. BUY NEGI&#039;S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> 2022.04.13<br /> C41 Philidor, Improved Hanham variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/1e4-vs-philidor-part-2-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 14 Apr 2022 01:27:18 +0000",
+         "title" : "1.e4 vs. The Philidor: Part 2 | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "The Doeberl Chess Cup 2022 is going to take place 14-18 April in Canberra, Australia. GM Hrant Melkumyan, the winner of the 2019 Deoberl Cup, is the top seeded in the event. Scroll down for full participants list. Throwback: Nisipeanu and Vajda share first place in 2014 Live games Doeberl Chess Cup 2022 Doeberl Chess []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -26,6 +34,14 @@ news_feed (
          "title" : "Nakamura Continues To Reign Over Arena Kings In Season 9 Week 10"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1689",
+         "pubDate" : "Wed, 13 Apr 2022 20:29:16 +0000",
+         "title" : "FIDE Executive Director attends symposium in Corsica"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #511, Merijn van Delft takes a look at Praggnanandhaa's inspired attacking win against French Grandmaster Matthieu Cornette at the strong Reykjavik Open, in which \"Pragg\" finished sole first. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/kasparov-ted-talk-russia-war-ukraine-putin",
-         "pubDate" : "Wed, 13 Apr 2022 09:59:29 -0700",
+         "pubDate" : "Wed, 13 Apr 2022 09:59:00 -0700",
          "title" : "Kasparov In TED Talk: 'Meeting Evil Halfway Is Still A Victory For Evil'"
       },
       {
@@ -170,7 +186,7 @@ news_feed (
          "title" : "Praggnanandhaa wins Reykjavik Open 2022"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at his games from the 2022 Bill Wright Saint Louis Open, one of the premier open tournaments in the city. See how Caleb finished tied 2nd. 2022.04.12<br /> Caleb Denby vs. Vinee Thatiparthi, 2022: D32 Queen&#039;s Gambit Declined, Tarrasch defence<br /> Jordan Cohen vs. Denby, 2022: A03 Bird&#039;s opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caleb-2022-saint-louis-open-road-2000-nm-caleb-denby\"><img src=\"https://saintlo",
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at two of his games from the 2022 Bill Wright Saint Louis Open, one of the premier open tournaments in the city. See how Caleb finished tied 2nd, losing out on 1st at the last moment. 2022.04.12<br /> Caleb Denby vs. Vinee Thatiparthi, 2022: D32 Queen&#039;s Gambit Declined, Tarrasch defence<br /> Jordan Cohen vs. Denby, 2022: A03 Bird&#039;s opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caleb-2022-saint-louis-open-road-2",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/caleb-2022-saint-louis-open-road-2000-nm-caleb-denby",
@@ -194,7 +210,7 @@ news_feed (
          "title" : "Pragg beats Gukesh after sudden twist, wins Reykjavik Open"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard teaches a chess class on a topic of his choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-masterpieces-exchange-sacrifice-grandmasters-choice-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SJyPvBKHL0w.jpg?itok=4EoxMAZi\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard debuts as Resident GM at the Club! See attacking masterpieces, featuring strong exchange sacrifices. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-masterpieces-exchange-sacrifice-grandmasters-choice-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SJyPvBKHL0w.jpg?itok=4EoxMAZi\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/attacking-masterpieces-exchange-sacrifice-grandmasters-choice-gm-romain-%C3%A9douard",
@@ -768,14 +784,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/rise-rapport-episode-iii-how-become-grandmaster-gm-denes-boros",
          "pubDate" : "Thu, 07 Apr 2022 01:20:22 +0000",
          "title" : "The Rise of The Rapport: Episode III | How To Become a Grandmaster - GM Denes Boros"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani marches on with the French Defense, based on the teachings of Parimarjan Negi and his book. Today, it&#039;s all about the Winawer. BUY NEGI&#039;S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> 2022.04.06 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/b",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/1e4-vs-french-part-3-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 07 Apr 2022 01:20:22 +0000",
-         "title" : "1.e4 vs. The French: Part 3 | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "Shortly after winning the 2022 FIDE Grand Prix and qualifying for the FIDE Candidates Tournament, GM Hikaru Nakamura&#38;nbsp;won the ninth week of&#38;nbsp;Arena Kings&#38;nbsp;(making it two weeks in a row). He won in the final with a score of 3-1 against G...",
