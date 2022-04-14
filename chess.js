@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Day 1 of the 2022 O2C Doeberl Cup saw a couple of big upsets. FM Albert Winkelman scored a full point against current Australian Champion GM Temur Kuybokaov, while IM Gary Lane lost to a much lower rated Nethaji Rathinalingam. Currently 8 players are tied for first with 2 wins, including GM's Daniel Fernandez, Hrant Melkumyan and Bobby Cheng. Day 2 sees the start of the supporting events, with another 280 players arriving for the Major, Minor and Under 1200. Assuming everyone makes it to Canberra, this will break last years record of 330 players. Todays rounds start at 1pm and you can follow games from the top boards on various chess sites including Chess24, chess.com and Licchess. <b>Winke",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-day-1.html",
+         "pubDate" : "Thu, 14 Apr 2022 22:46:00 +0000",
+         "title" : "2022 O2C Doeberl Cup - Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard uses one of his best preparations ever to show how to use ChessBase to improve your chess game. 2022.04.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-use-chessbase-prepare-pro-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/634igXYzkbI.jpg?itok=_zg42D6Y\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-use-chessbase-prepare-pro-gm-romain-%C3%A9douard",
+         "pubDate" : "Thu, 14 Apr 2022 22:27:59 +0000",
+         "title" : "How to Use ChessBase | Prepare Like A Pro - GM Romain Édouard"
+      },
+      {
          "description" : "This week Robert Ris takes a look at the game Niemann-Thorhallsson from the Reykjavik Open. The young American Hans Moke Niemann is one of the main experts of the Jobava-London System and in this game he managed to defeat the experienced Icelandic GM Thorhallsson in only 21 moves. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -842,14 +858,6 @@ news_feed (
          "title" : "ECF Women's Norm Event 2022/She Plays To Win"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros concludes his series on Richard Rapport's rise to the GM chess title. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rise-rapport-episode-iii-how-become-grandmaster-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0F3yN1I8Ghs.jpg?itok=UaIwlwZz\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rise-rapport-episode-iii-how-become-grandmaster-gm-denes-boros",
-         "pubDate" : "Thu, 07 Apr 2022 01:20:22 +0000",
-         "title" : "The Rise of The Rapport: Episode III | How To Become a Grandmaster - GM Denes Boros"
-      },
-      {
          "description" : "Shortly after winning the 2022 FIDE Grand Prix and qualifying for the FIDE Candidates Tournament, GM Hikaru Nakamura&#38;nbsp;won the ninth week of&#38;nbsp;Arena Kings&#38;nbsp;(making it two weeks in a row). He won in the final with a score of 3-1 against G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1394,7 +1402,7 @@ news_feed (
          "title" : "Viswanathan Anand's new innings - a role in FIDE?"
       },
       {
-         "description" : " Share!34 Business Meets Kids kicks off a spring event featuring former Real Madrid star Esteban Granero as he will participate in a tandem chess match with youth at the Marbella Golf Club. Swedish Grandmaster Pontus Carlsson is the brainchild of Business Meets Kids and has been holding events since 2018. In a couple of weeks <a href=\"https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Business Meets Chess &#038; Kids Spring 2022!\"</span></a> The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/\">Business Meets Chess &#038; Kids Spring 2022!</a> appeared first on <",
+         "description" : " Share!34 Business Meets Kids kicks off a spring event featuring former Real Madrid star Esteban Granero as he will participate in a tandem chess match with youth at the Marbella Golf Club. Swedish Grandmaster Pontus Carlsson is the brainchild of Business Meets Kids and has been holding events since 2018. In a couple of weeks The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/\">Business Meets Chess &#038; Kids Spring 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/",
@@ -1578,7 +1586,7 @@ news_feed (
          "title" : "Chess: Carlsen's rivals prepare for Candidates as No 1 wins after hiccup"
       },
       {
-         "description" : " Daaim Shabazz, The Chess Drum Recently chess.com featured &#8220;Chess Through an African Lens&#8221; written by this author. The reception was very positive, but it is surprising how few had been exposed to this information about the African Diaspora which is a testament to how chess media lacks a true representation of the vast chess universe. <a href=\"https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess in African Diaspora 2022\"</span></a> The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/\">Chess in African Diaspora 2022</a> appear",
+         "description" : " Daaim Shabazz, The Chess Drum Recently chess.com featured &#8220;Chess Through an African Lens&#8221; written by this author. The reception was very positive, but it is surprising how few had been exposed to this information about the African Diaspora which is a testament to how chess media lacks a true representation of the vast chess universe. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/\">Chess in African Diaspora 2022</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/",
@@ -2050,7 +2058,7 @@ news_feed (
          "title" : "A short warm up event "
       },
       {
-         "description" : " In most team competitions, teammates don't play each other, but retired U.S. Marine Corps Master Sergeant Steven Rollins thought of a novel way that allows teammates to play each other without adversely affecting the team score. In 2014, his &#8220;Rollins Military System&#8221; was included as Rule 31A1 in the U.S. Chess Rule Book. Kobe Bryant, <a href=\"https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Steven Rollins Chess Rule\"</span></a> The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/\">The Steven Rollins Chess Rule</a> appeared f",
+         "description" : " In most team competitions, teammates don't play each other, but retired U.S. Marine Corps Master Sergeant Steven Rollins thought of a novel way that allows teammates to play each other without adversely affecting the team score. In 2014, his &#8220;Rollins Military System&#8221; was included as Rule 31A1 in the U.S. Chess Rule Book. Kobe Bryant, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/\">The Steven Rollins Chess Rule</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/",
@@ -2096,14 +2104,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/33590842/india-host-2022-chess-olympiad-july-28-august-10?device=featurephone",
          "pubDate" : "Fri, 25 Mar 2022 02:29:29 -0500",
          "title" : "India to host 2022 Chess Olympiad from July 28 to August 10"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1657",
-         "pubDate" : "Thu, 24 Mar 2022 22:58:49 +0000",
-         "title" : "FIDE Grand Prix Berlin - Round 3 Recap"
       }
    ]
 }
