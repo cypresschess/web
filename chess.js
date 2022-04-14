@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A strong open tournament is taking place at the small Norwegian city of Fagernes. Six players rated 2600 or above made their way to the touristic destination located three hours north of Oslo. After five rounds (out of nine), eight players are sharing the lead on 4 points, including top seed Arjun Erigaisi. | Photo: Tom Eriksen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fagernes-open-2022-r5",
+         "pubDate" : "Thu, 14 Apr 2022 13:00:00 +0100",
+         "title" : "Fagernes Open: Crowded at the top"
+      },
+      {
+         "description" : "As has only just become known, the long-time organiser and tournament director of the Biel Chess Festival, Peter Burri, has died. Burri was involved in the organisation for 40 years and was the tournament director of the traditional tournament for 20 years. The 55th edition in summer will be played as a memorial tournament for him.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/peter-burri-1957-2022",
+         "pubDate" : "Thu, 14 Apr 2022 12:00:00 +0100",
+         "title" : "Peter Burri: 1957-2022"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen will take on seven rivals in the Oslo Esports Cup, the first time the $1.6 million Meltwater Champions Chess Tour has featured all players competing from the same venue. The $210,000 event, which starts Friday April 22nd, includes World Cup winner Jan-Krzysztof Duda, who pushed Magnus to tiebreaks in the Charity Cup, and 16-year-old Indian prodigy Praggnanandhaa, who gets one of four wildcards to the first of three Majors on the $1.6 million Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-to-take-on-7-stars-in-oslo-esports-cup",
+         "pubDate" : "Thu, 14 Apr 2022 09:24:55 +0000",
+         "title" : "Magnus Carlsen to take on 7 stars in Oslo Esports Cup"
+      },
+      {
+         "description" : "After the Airthings Masters 2022 and the Charity Cup 2022, both won by Magnus Carlsen, the Meltwater Champions Chess Tour breaks new ground next week with the launch of the first fully in-person esports event in chess the Oslo Esports Cup. A star-studded gala event will open the tournament as Norway&#x2019;s World Champion&#xA0;Magnus Carlsen&#xA0;goes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/oslo-esports-chess-cup-the-first-meltwater-major-announced/",
+         "pubDate" : "Thu, 14 Apr 2022 09:12:22 +0000",
+         "title" : "Oslo Esports Chess Cup, the first Meltwater Major announced"
+      },
+      {
+         "description" : "How do you build an opening repertoire and learn the variations? Fritz 18 offers many possibilities for this, and you can even compare your learning success with other users. In a short series of tutorials, we show you how to do it. In the first episode, we deal with learning and testing the opening repertoire. The next episodes will deal with building the opening repertoire. With the new \"Easy Game\" mode in Fritz 18, you can check your knowledge of an existing repertoire, and you can replay and practise it. Let's go!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/opening-training-with-fritz-18-1",
+         "pubDate" : "Thu, 14 Apr 2022 10:00:00 +0100",
+         "title" : "Opening training with Fritz 18 (1)"
+      },
+      {
+         "description" : "Financial Times has published an article, dedicated to the just finished Reykjavik Chess Open and the win of Praggnanandhaa. &#8220;Half a century ago, Bobby Fischer captured Boris Spassky&#x2019;s world title in Reykjavik and sparked a global chess boom,&#8221; starts the analysis of FT and continues: India, the fastest-rising chess nation, has a quartet of teenage []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ft-com-chesss-icons-are-now-carlsen-and-stockfish/",
+         "pubDate" : "Thu, 14 Apr 2022 08:36:00 +0000",
+         "title" : "FT.com: chess's icons are now Carlsen and Stockfish"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani marches on with the Philidor Defense, based on the teachings of Parimarjan Negi and his book. BUY NEGI&#039;S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> 2022.04.13<br /> C41 Philidor, Improved Hanham variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -106,7 +154,7 @@ news_feed (
          "title" : "The Dark Side Of Chess: Match-Fixing"
       },
       {
-         "description" : " <p class=\"lead\">It's been two years since the last Reykjavik Open due to the pandemic. This year the prestigious tournament opened its doors again in Iceland for the 36th time with GM Rameshbabu Praggnanandhaa winning the tournament impressively. Two more Indians, GM Abhimanyu Mishra and IM Tania Sachdev, also made a great appearance. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Rameshbabu-Praggnanandhaa-scaled.jpg\" width=\"2560\" height=\"1600\" alt=\"\" /> </div> A bit more than a month after Praggnanandhaa became <a href=\"https://worldchess.com/news/all/champions-chess-tour-2022-day-2-pragg-is-the-youngest-player-to/\">the youngest player to beat the World Champi",
+         "description" : " <p class=\"lead\">It's been two years since the last Reykjavik Open due to the pandemic. This year the prestigious tournament opened its doors again in Iceland for the 36th time with GM Rameshbabu Praggnanandhaa winning the tournament impressively. GM Abhimanyu Mishra and IM Tania Sachdev, also made a great appearance. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Rameshbabu-Praggnanandhaa-scaled.jpg\" width=\"2560\" height=\"1600\" alt=\"\" /> </div> A bit more than a month after Praggnanandhaa became <a href=\"https://worldchess.com/news/all/champions-chess-tour-2022-day-2-pragg-is-the-youngest-player-to/\">the youngest player to beat the World Champion Magnus Carlsen<",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/16-year-old-indian-gm-rameshbabu-praggnanandhaa-wins-2022-reykja/",
@@ -120,14 +168,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-coverage.html",
          "pubDate" : "Wed, 13 Apr 2022 13:27:00 +0000",
          "title" : "2022 O2C Doeberl Cup - Coverage"
-      },
-      {
-         "description" : "After four rounds four players - Arjun Erigasi, Emre Can, Aram Hakobyan and Kaido Kulaots - share the lead with 3.5/4 each at the strong Fagernes Open in Norway. Round 5 starts Wednesday, 13 April, at 14.00 local time (8.00 Eastern Time, 12.00 UTC). Follow the games live. | Photo: Tom Eriksen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fagernes-open-round-5-live",
-         "pubDate" : "Wed, 13 Apr 2022 13:45:00 +0100",
-         "title" : "Fagernes Open, Round 5: Live"
       },
       {
          "description" : "GM Praggnanandhaa R. scored one of his career&#39;s best achievements so far by winning the 2022 Kvika Reykjavik Open in Iceland on Tuesday. The only 16-year-old Indian grandmaster won a crucial and dramatic game against his compatriot GM Gukesh D. (1...",
@@ -898,14 +938,6 @@ news_feed (
          "title" : "Romanian Grand Prix Super Chess Rapid 2022"
       },
       {
-         "description" : "The Grand Chess Tour 2022&#xA0;in magnificent&#xA0;fashion with $1.4&#xA0;million total prize fund allocated between 5 events. It will once again feature 2 classical chess tournaments&#xA0;and 3 rapid &#38; blitz tournaments spanning across Europe and United States. With the&#xA0;addition of an new event in Warsaw, Poland, fans can look forward to another entertaining and thrilling season. Leading []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-2022/",
-         "pubDate" : "Wed, 06 Apr 2022 07:18:24 +0000",
-         "title" : "Grand Chess Tour 2022"
-      },
-      {
          "description" : "National Junior Certificates (09-13, march), Gurugram National Junior Chess Championship 2022 Certificates are out to download. Male : https://aicf.online/National-Junior-M.html Female : https://aicf.online/National-Junior-G.html Any correction please",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -984,14 +1016,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-on-karjakin-these-types-of-attitudes-can-t-be-accepted",
          "pubDate" : "Tue, 05 Apr 2022 12:37:08 +0000",
          "title" : "Carlsen on Karjakin: \"These types of attitudes can't be accepted\""
-      },
-      {
-         "description" : "The Superfinal for the highest title in computer chess starts today at 17:00 UTC and you can follow it live at the official site and TCEC Twitch TV. The TCEC S22 Superfinal will be 100 games match between the reigning champion Stockfish and the challenger KomodoDragon. The opening book is created by Jeroen Noomen and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tcec-s22-superfinal-starts-today/",
-         "pubDate" : "Tue, 05 Apr 2022 11:42:30 +0000",
-         "title" : "TCEC S22 Superfinal starts today"
       },
       {
          "description" : "In his \"Game of the Week\" show #509, Merijn van Delft shows how Hikaru Nakamura won against Andrey Esipenko in the final round of the preliminaries at the FIDE Grand Prix in Berlin - it was an interesting, tense fighting game and winning it guaranteed Nakamura a place in the Candidates. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1770,14 +1794,6 @@ news_feed (
          "title" : "ChessBase for Coaches: Finding Novelties"
       },
       {
-         "description" : "It's Mamedyarov-Nakamura and So-Tabatabaei in the last semi-finals of the FIDE Grand Prix series after Shakhriyar Mamedyarov and Wesley So emerged victorious in tiebreaks. Shakh opened with a win against 17-year-old Vincent Keymer but was full of praise for how his young opponent struck back before finally losing only in blitz. Wesley also took the early lead against Sam Shankland but lived dangerously in the second game before escaping with a draw that saw him reach the knockout.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mamedyarov-and-so-reach-grand-prix-semifinals",
-         "pubDate" : "Wed, 30 Mar 2022 10:47:24 +0000",
-         "title" : "Mamedyarov and So reach Grand Prix semi-finals"
-      },
-      {
          "description" : " <p class=\"lead\">World Chess is introducing chess broadcasting innovation that might add a new dimension to the way fans watch chess (and other table sports, for that matter!). Today, <a href=\"https://www.youtube.com/watch?v=VqkA7MlAf08\">tune in</a> to the official Grand Prix broadcast to follow the players' heart beats! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/DEDC4324-4ACA-4384-A584-2ECF0A44BE4A.jpeg\" width=\"1280\" height=\"720\" alt=\"\" /> <div class=\"e2-text-caption\">One of the broadcasting screens of the official World Chess broadcast. It will showcase players' heart beat from time to time</div> </div> The official broadcast of the final rounds of the FID",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1888,22 +1904,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1667",
          "pubDate" : "Tue, 29 Mar 2022 10:12:15 +0000",
          "title" : "FIDE Podcast: A new episode featuring Hou Yifan released"
-      },
-      {
-         "description" : "Rook endings have a large drawish tendency and in this case I thought that White can hold with a study-like defense. But ChessBase reader Frits Fritschy proved me wrong.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/retreat-to-advance-2",
-         "pubDate" : "Tue, 29 Mar 2022 09:00:00 +0100",
-         "title" : "Retreat to advance"
-      },
-      {
-         "description" : "All results in round 6 of the Berlin Grand Prix favoured Hikaru Nakamura, as he won pool A and secured a spot in the Candidates Tournament after beating Andrey Esipenko with the black pieces. The four players who could have leapfrogged the US grandmaster in the overall standings of the series had they also reached the semis were knocked out on Monday - i.e. Levon Aronian (also from pool A), Leinier Dominguez, Maxime Vachier-Lagrave and Anish Giri. The one other player who made it to semis was Amin Tabatabaei, who got a convincing victory over Giri to win pool D. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r6",
-         "pubDate" : "Tue, 29 Mar 2022 04:50:00 +0100",
-         "title" : "Berlin GP: Nakamura in the Candidates"
       },
       {
          "description" : "",
@@ -2128,14 +2128,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/pawnbarian.html",
          "pubDate" : "Thu, 24 Mar 2022 11:35:00 +0000",
          "title" : "Pawnbarian"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1649",
-         "pubDate" : "Thu, 24 Mar 2022 11:15:40 +0000",
-         "title" : "Fourth Chess in Education Lecturer course announced"
       }
    ]
 }
