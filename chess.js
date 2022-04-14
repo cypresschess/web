@@ -26,20 +26,20 @@ news_feed (
          "title" : "Fagernes Open, Round 6: Live"
       },
       {
-         "description" : "A strong open tournament is taking place at the small Norwegian city of Fagernes. Six players rated 2600 or above made their way to the touristic destination located three hours north of Oslo. After five rounds (out of nine), eight players are sharing the lead on 4 points, including top seed Arjun Erigaisi. | Photo: Tom Eriksen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fagernes-open-2022-r5",
-         "pubDate" : "Thu, 14 Apr 2022 13:00:00 +0100",
-         "title" : "Fagernes Open: Crowded at the top"
-      },
-      {
          "description" : "As has only just become known, the long-time organiser and tournament director of the Biel Chess Festival, Peter Burri, has died. Burri was involved in the organisation for 40 years and was the tournament director of the traditional tournament for 20 years. The 55th edition in summer will be played as a memorial tournament for him.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/peter-burri-1957-2022",
          "pubDate" : "Thu, 14 Apr 2022 12:00:00 +0100",
          "title" : "Peter Burri: 1957-2022"
+      },
+      {
+         "description" : "A strong open tournament is taking place at the small Norwegian city of Fagernes. Six players rated 2600 or above made their way to the touristic destination located three hours north of Oslo. After five rounds (out of nine), eight players are sharing the lead on 4 points, including top seed Arjun Erigaisi. | Photo: Tom Eriksen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fagernes-open-2022-r5",
+         "pubDate" : "Thu, 14 Apr 2022 11:55:00 +0100",
+         "title" : "Fagernes Open: Crowded at the top"
       },
       {
          "description" : "World Chess Champion Magnus Carlsen will take on seven rivals in the Oslo Esports Cup, the first time the $1.6 million Meltwater Champions Chess Tour has featured all players competing from the same venue. The $210,000 event, which starts Friday April 22nd, includes World Cup winner Jan-Krzysztof Duda, who pushed Magnus to tiebreaks in the Charity Cup, and 16-year-old Indian prodigy Praggnanandhaa, who gets one of four wildcards to the first of three Majors on the $1.6 million Tour.",
@@ -1840,14 +1840,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r7",
          "pubDate" : "Wed, 30 Mar 2022 09:45:00 +0100",
          "title" : "Berlin GP: So and Mamedyarov make it to the semifinals"
-      },
-      {
-         "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the country.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-announced",
-         "pubDate" : "Wed, 30 Mar 2022 09:15:00 +0100",
-         "title" : "MPL Indian Chess Tour announced"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-55/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (55)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-55/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (55)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
