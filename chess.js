@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Supervisory Board of the <strong>Chess Federation of Russia</strong>, that includes Putin's speaker <strong>Dmitry Peskov</strong> and Minister of Defense <strong>Sergey Shoigu</strong>, <a href=\"https://www.championat.com/other/news-4665729-federaciya-shahmat-rossii-prinyala-reshenie-o-vstuplenii-v-aziatskuyu-shahmatnuyu-federaciyu.html\">has decided</a> to join the <strong>Asian Chess Federation</strong>. The <strong>European Chess Union</strong> has not received a request to leave for this unprecedented move and is checking the regulations before issuing a statement. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/russia-voted-to-join-asian-chess/",
+         "pubDate" : "Fri, 15 Apr 2022 10:02:38 +0100",
+         "title" : "Russia voted to join Asian Chess Federation"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1690",
+         "pubDate" : "Fri, 15 Apr 2022 09:01:39 +0000",
+         "title" : "Trainer Workshop: \"How to Teach Calculations\" by Artur Jussupow"
+      },
+      {
+         "description" : "The Meltwater Champions Chess Tour breaks new ground next week with the launch of its first fully in-person esports event, the Oslo Esports Cup. Carlsen, who tops the tour standings, heads a line-up of eight of the world's best chess players, which also includes the likes of Anish Giri and Jan-Krzysztof Duda. The first Major of the season will run from April 22 to 28.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-announcement",
+         "pubDate" : "Fri, 15 Apr 2022 10:00:00 +0100",
+         "title" : "Oslo Esports Cup: Champions Chess Tour's first fully in-person event"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Pawel Kaprzak</strong>, winner of the Best Chess Startup 2020, has launched a bot to analyse chess positions. It works by tweeting a position and \"scan white\" or \"scan black\" to <strong>@ChessvisionAI</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/chessvision-analysis-bot-on-twitter/",
+         "pubDate" : "Fri, 15 Apr 2022 09:59:04 +0100",
+         "title" : "Chessvision analysis bot on Twitter"
+      },
+      {
+         "description" : " This week, we are going to wrap up the last six weeks of work on tactics. I'm actually spreading out the end of this part of our middle-game studies through next week because we covered so much information. This week, I'll summarize what we have covered so far, to give those of you having trouble <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-seven/\">A Foundation for Beginners Fifty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprove",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-seven/",
+         "pubDate" : "Fri, 15 Apr 2022 08:08:12 +0000",
+         "title" : "A Foundation for Beginners Fifty Seven"
+      },
+      {
          "description" : " India's Rameshbabu Praggnanandhaa, 16, won first prize and the youngest GM Abhimanyu Mishra, 13, of the US, tied for second India's Rameshbabu Praggnanandhaa, 16, widely forecast as a future world class grandmaster, added to his growing reputation on Tuesday when he won the €5,000 first prize at the Reykjavik Open with an unbeaten 7.5/9. Earlier in his career, the Chennai teenager was the youngest ever international master, among the youngest ever GMs and the second youngest to reach a 2600 Fide rating. He was singled out <a href=\"https://www.theguardian.com/sport/2016/oct/21/rameshbabu-praggnanandhaa-world-grandmaster-record\" title=\"\">in this column</a> more than five years ago for an 18",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1498,14 +1538,6 @@ news_feed (
          "title" : "FIDE signs contract with AICF for the 2022 Chess Olympiad"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> At a press conference in Delhi, coinciding with a visit by Russian Foreign Minister <strong>Sergey Lavrov</strong> and after signing the contract for the <strong>Chess Olympiad</strong> in Mamallapuram, <strong>Arkady Dvorkovich</strong> <a href=\"https://fide.com/news/1672\">confirmed that he still seeks a second term</a> as <strong>FIDE</strong> President despite being citizen of Russia that isolated itself by invading Ukraine. Former world champion <strong>Vishy Anand</strong> joins his ticket. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/dvorkovich-seeks-second-term/",
-         "pubDate" : "Fri, 01 Apr 2022 17:21:39 +0100",
-         "title" : "Dvorkovich seeks second term"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1640,14 +1672,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-grand-prix-berlin-semis-game-2-recap/",
          "pubDate" : "Thu, 31 Mar 2022 22:15:37 +0000",
          "title" : "FIDE Grand Prix Berlin Semis: Game 2 Recap"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Ukrainians make the strongest contingent with 35 players and 5 coaches at the <strong>European Championship</strong> in Catez. The Slovenian organisers have provided some free rooms and accommodation whereas the <strong>ECU</strong> has waived the fees. The <strong>Government of Ukraine</strong> granted players between 18 and 60 special permissions to represent their country at the board. The <strong>Belarus Chess Federation</strong> retracted its players when it was announced that they couldn't represent their country. Only four Russians take part, two of whom are juniors, one is a senior and the fourth is married in Germany and about to change fed",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/slovenia-and-ecu-support-ukrainians/",
-         "pubDate" : "Thu, 31 Mar 2022 21:43:14 +0100",
-         "title" : "Slovenia and ECU support Ukrainians"
       },
       {
          "description" : "Vladimir Putin uses athletes for his propaganda. But Russian chess grandmaster Daniil Dubov is standing up to the Russian leader and the war in Ukraine. In an interview with Europe's premier news magazine, the 25-year-old explains why he is willing to take that risk. \"Nuclear war could break out and I could miss the end of the world while analysing the Italian opening.\" | Photo: Jacek Prondzynski/Newspix/Imago",
@@ -1850,14 +1874,6 @@ news_feed (
          "title" : "The Weekly Show: The FIDE Grand Prix in Berlin"
       },
       {
-         "description" : "Wesley So and Shakhriyar Mamedyarov, the rating favourites in Tuesday's rapid and blitz tiebreakers at the Berlin Grand Prix, defeated Sam Shankland and Vincent Keymer and thus advanced to the event's semifinals. So will face Amin Tabatabaei, while Mamedyarov will play Hikaru Nakamura in 2-game matches starting Wednesday. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r7",
-         "pubDate" : "Wed, 30 Mar 2022 09:45:00 +0100",
-         "title" : "Berlin GP: So and Mamedyarov make it to the semifinals"
-      },
-      {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-55/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (55)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-55/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (55)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1986,14 +2002,6 @@ news_feed (
          "title" : "22nd European Individual Championship 2022 - Games and Results"
       },
       {
-         "description" : " If you read the sort of chess books I grew up with, you sometimes get the impression that a queenside pawn majority is, in itself, enough to win the game. In my continuing series on Chernev's Logical Chess Move by Move, there's a game of this nature. Capablanca Villegas (Simul 1914) is Game 30 <a href=\"https://chessimprover.com/logical-chess-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Logical Chess (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/logical-chess-3/\">Logical Chess (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/logical-chess-3/",
-         "pubDate" : "Sun, 27 Mar 2022 17:42:32 +0000",
-         "title" : "Logical Chess (3)"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90477810.cms\" />Top seed Arjun Erigaisi, Harsha Bharathakoti and D Gukesh on Sunday emerged as joint leaders at the 19th edition of Delhi International Open Grandmasters Chess tournament. With just two rounds remaining, the tournament is heading for an exciting finish as the three Indians are now leading the standings with seven points.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2088,22 +2096,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/25/book-recap-25-the-mammoth-book-of-the-worlds-greatest-chess-games-with-nm-chrisopher-chabris-and-fm-graham-burgess",
          "pubDate" : "Fri, 25 Mar 2022 13:32:14 +0000",
          "title" : "Book Recap #25- The Mammoth Book of the World's Greatest Chess Games with NM Chrisopher Chabris and FM Graham Burgess "
-      },
-      {
-         "description" : "Income Tax Department, West Bengal &#38; Sikkim is going to recruit meritorious sportspersons in the posts of Inspector of Income Tax, Tax Assistant and Multi-Tasking",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/recruitment-of-meritorious-sportspersons-in-the-income-tax-department-west-bengal-sikkim/",
-         "pubDate" : "Fri, 25 Mar 2022 11:04:13 +0000",
-         "title" : "Recruitment of meritorious sportspersons in the Income Tax Department, West Bengal & Sikkim"
-      },
-      {
-         "description" : " Fide's ban on Sergey Karjakin provides an opportunity in the current series to decide Magnus Carlsen's next challenger China's world No 3 Ding Liren could make an unlikely late bid for a place in the Candidates tournament that will decide Magnus Carlsen's next challenger. Ding's chances seemed to have vanished when visa problems prevented him competing in the current Grand Prix series in Berlin which will qualify two winners for the Candidates at Madrid in June, but a possible lifeline has appeared due to Fide's six-month ban on Sergey Karjakin, who had qualified for Madrid via the 2021 World Cup but <a href=\"https://www.theguardian.com/sport/2022/mar/21/sergey-karjakin-banned-chess-fide-ru",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/mar/25/chess-china-ding-liren-could-make-unlikely-late-bid-for-candidates-place-magnus-carlsen",
-         "pubDate" : "Fri, 25 Mar 2022 08:00:23 +0000",
-         "title" : "Chess: China's Ding Liren could make unlikely late bid for Candidates place"
       }
    ]
 }
