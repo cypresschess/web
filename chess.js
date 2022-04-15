@@ -82,14 +82,6 @@ news_feed (
          "title" : "ECF Marathon for Ukraine - results"
       },
       {
-         "description" : "The Fagernes Open is a 9-round open tournament taking place at the touristic valley of Valdres in Norway. After five rounds, eight players are sharing the lead on 4 points, including top seed Arjun Erigaisi. Round 6 starts Thursday, April 14, at 14.00 CEST. Follow the games live with computer analyses. | Photo: Tom Eriksen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fagernes-open-2022-live",
-         "pubDate" : "Thu, 14 Apr 2022 13:55:00 +0100",
-         "title" : "Fagernes Open, Round 6: Live"
-      },
-      {
          "description" : "As has only just become known, the long-time organiser and tournament director of the Biel Chess Festival, Peter Burri, has died. Burri was involved in the organisation for 40 years and was the tournament director of the traditional tournament for 20 years. The 55th edition in summer will be played as a memorial tournament for him.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -578,12 +570,12 @@ news_feed (
          "title" : "2022 FIDE Grand Prix Leg 3: Aronian vs. Esipenko | Puzzler's Paradise - GM Robert Hungaski"
       },
       {
-         "description" : "Lukasz Jurmala had taken the sole lead at the Reykjav&iacute;k Open by beating Hans Niemann in round 4. The Polish grandmaster drew top seed Pouya Idani in round 5 to remain in sole first place, but a loss to Danish GM Mads Andersen has now left him sharing second place a half point behind the leaders. Besides Andersen, Johann Hjartarson, Praggnanandhaa (pictured) and Max Warmerdam also won in Sunday's early round and are now sharing the lead on 5/6 points. | Photo: Thorsteinn Magnusson",
+         "description" : "Lukasz Jarmula had taken the sole lead at the Reykjav&iacute;k Open by beating Hans Niemann in round 4. The Polish grandmaster drew top seed Pouya Idani in round 5 to remain in sole first place, but a loss to Danish GM Mads Andersen has now left him sharing second place a half point behind the leaders. Besides Andersen, Johann Hjartarson, Praggnanandhaa (pictured) and Max Warmerdam also won in Sunday's early round and are now sharing the lead on 5/6 points. | Photo: Thorsteinn Magnusson",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/reykjavik-open-2022-r5",
          "pubDate" : "Sun, 10 Apr 2022 17:20:00 +0100",
-         "title" : "Reykjavik Open: Four co-leaders as Andersen beats Jurmala"
+         "title" : "Reykjavik Open: Four co-leaders as Andersen beats Jarmula"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 74th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about pieces that are out of play. | Photo: Pascal Simon",
@@ -1872,6 +1864,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-the-fide-grand-prix-in-berlin-2",
          "pubDate" : "Wed, 30 Mar 2022 10:00:00 +0100",
          "title" : "The Weekly Show: The FIDE Grand Prix in Berlin"
+      },
+      {
+         "description" : "Wesley So and Shakhriyar Mamedyarov, the rating favourites in Tuesday's rapid and blitz tiebreakers at the Berlin Grand Prix, defeated Sam Shankland and Vincent Keymer and thus advanced to the event's semifinals. So will face Amin Tabatabaei, while Mamedyarov will play Hikaru Nakamura in 2-game matches starting Wednesday. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r7",
+         "pubDate" : "Wed, 30 Mar 2022 09:45:00 +0100",
+         "title" : "Berlin GP: So and Mamedyarov make it to the semifinals"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-55/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (55)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-55/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (55)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
