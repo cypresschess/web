@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We have just reached the halfway mark of the TCEC Season 22 Superfinal. Defending champion Stockfish leads Komodo Dragon by 12 points (+17 -5 =28), a dominant performance that all but ensures that it will win the Superfinal. Stockfish signaled its intent straight from the get-go by&#xA0;winning the first opening with its signature move g4!, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stockfish-takes-dominating-lead-at-halfway-in-the-tcec-season-22-superfinal/",
+         "pubDate" : "Fri, 15 Apr 2022 14:27:06 +0000",
+         "title" : "Stockfish takes dominating lead at halfway in the TCEC Season 22 Superfinal"
+      },
+      {
+         "description" : "Friedrich Schiller has, in my mind, always been associated with chess, since I became familiar with his ideas about the nature of play. Actually identifying a specific, undeniable reference to chess in Schiller's oeuvre has, however, proved more elusive. On my desk I have a number of books which retain a permanent position and are []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/freedom-chess-and-friedrich-schiller/",
+         "pubDate" : "Fri, 15 Apr 2022 13:16:23 +0000",
+         "title" : "Freedom, chess and Friedrich Schiller"
+      },
+      {
+         "description" : "The Fagernes Open is a 9-round open tournament taking place at the touristic valley of Valdres in Norway. After six rounds, eleven players are sharing the lead on 4&frac12; points, including top seed Arjun Erigaisi. Round 7 starts Friday, April 15, at 14.00 CEST. Follow the games live with computer analyses. | Photo: Tom Eriksen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fagernes-open-2022-live",
+         "pubDate" : "Fri, 15 Apr 2022 13:55:00 +0100",
+         "title" : "Fagernes Open, Round 7: Live"
+      },
+      {
+         "description" : " Levon's fiancee Anita Ayvazyan gives an exclusive interview to WGM Dina Belenkaya about moving to America, her artist career, the pros and cons of being in a relationship with a professional chess player and more! <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Hk9_StBp8Zw?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/exclusive-interview-with-ani-ayvazyan/",
+         "pubDate" : "Fri, 15 Apr 2022 12:10:06 +0000",
+         "title" : "Exclusive Interview With Ani Ayvazyan"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1691",
+         "pubDate" : "Fri, 15 Apr 2022 11:34:28 +0000",
+         "title" : "Qualification Commission renews its leadership"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Supervisory Board of the <strong>Chess Federation of Russia</strong>, that includes Putin's speaker <strong>Dmitry Peskov</strong> and Minister of Defense <strong>Sergey Shoigu</strong>, <a href=\"https://www.championat.com/other/news-4665729-federaciya-shahmat-rossii-prinyala-reshenie-o-vstuplenii-v-aziatskuyu-shahmatnuyu-federaciyu.html\">has decided</a> to join the <strong>Asian Chess Federation</strong>. The <strong>European Chess Union</strong> has not received a request to leave for this unprecedented move and is checking the regulations before issuing a statement. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1002,14 +1042,6 @@ news_feed (
          "title" : "Carlsen: \"Karjakin wants to become a martyr\""
       },
       {
-         "description" : "The Romanian Grand Prix Super Chess Rapid 2022 aka GP Romania is going to start this April 30 at the Palace of the Parliament in Bucharest. GP Romania 2022 will consist of 5 open qualifying tournaments three tournaments will consist in classic chess and two in rapid chess and a grand final &#x2013; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/romanian-grand-prix-super-chess-rapid-2022/",
-         "pubDate" : "Wed, 06 Apr 2022 07:29:47 +0000",
-         "title" : "Romanian Grand Prix Super Chess Rapid 2022"
-      },
-      {
          "description" : "National Junior Certificates (09-13, march), Gurugram National Junior Chess Championship 2022 Certificates are out to download. Male : https://aicf.online/National-Junior-M.html Female : https://aicf.online/National-Junior-G.html Any correction please",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1850,30 +1882,6 @@ news_feed (
          "title" : "ChessBase for Coaches: Finding Novelties"
       },
       {
-         "description" : " <p class=\"lead\">World Chess is introducing chess broadcasting innovation that might add a new dimension to the way fans watch chess (and other table sports, for that matter!). Today, <a href=\"https://www.youtube.com/watch?v=VqkA7MlAf08\">tune in</a> to the official Grand Prix broadcast to follow the players' heart beats! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/DEDC4324-4ACA-4384-A584-2ECF0A44BE4A.jpeg\" width=\"1280\" height=\"720\" alt=\"\" /> <div class=\"e2-text-caption\">One of the broadcasting screens of the official World Chess broadcast. It will showcase players' heart beat from time to time</div> </div> The official broadcast of the final rounds of the FID",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/chess-broadcasting-to-include-players-heart-rate-determined-by-a/",
-         "pubDate" : "Wed, 30 Mar 2022 09:53:55 +0000",
-         "title" : "Chess Broadcasting to Include Players' Heart Rate Determined by AI"
-      },
-      {
-         "description" : "In his \"Weekly Show\" Lawrence Trent will continue his coverage of the Berlin Grand Prix. He will take a close look at the performance of Hikaru Nakamura who qualified for the Candidates in Berlin. But the game of the day will be Aronian-Esipenko from round 5, in which White started rather unassumingly and then suddenly launched an attack out of nowhere, which led to a quick win. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-the-fide-grand-prix-in-berlin-2",
-         "pubDate" : "Wed, 30 Mar 2022 10:00:00 +0100",
-         "title" : "The Weekly Show: The FIDE Grand Prix in Berlin"
-      },
-      {
-         "description" : "Wesley So and Shakhriyar Mamedyarov, the rating favourites in Tuesday's rapid and blitz tiebreakers at the Berlin Grand Prix, defeated Sam Shankland and Vincent Keymer and thus advanced to the event's semifinals. So will face Amin Tabatabaei, while Mamedyarov will play Hikaru Nakamura in 2-game matches starting Wednesday. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-r7",
-         "pubDate" : "Wed, 30 Mar 2022 09:45:00 +0100",
-         "title" : "Berlin GP: So and Mamedyarov make it to the semifinals"
-      },
-      {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-55/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (55)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-55/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (55)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2088,14 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1658",
          "pubDate" : "Fri, 25 Mar 2022 16:17:27 +0000",
          "title" : "FIDE Veterans Support Program 2022: A tribute"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/06cc653c-ca87-48f3-b47f-a636ed26e99e/mammoth3.jpg\" data-image-dimensions=\"550x276\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"623de366654dd52be017e093\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/06cc653c-ca87-48f3-b47f-a636ed26e99e/mammoth3.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">I was joined by guest co-host Christopher Chabris, and we were paid a visit by the co-author and editor, FM Graham Burgess </figcaption> </fi",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/25/book-recap-25-the-mammoth-book-of-the-worlds-greatest-chess-games-with-nm-chrisopher-chabris-and-fm-graham-burgess",
-         "pubDate" : "Fri, 25 Mar 2022 13:32:14 +0000",
-         "title" : "Book Recap #25- The Mammoth Book of the World's Greatest Chess Games with NM Chrisopher Chabris and FM Graham Burgess "
       }
    ]
 }
