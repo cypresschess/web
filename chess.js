@@ -37,6 +37,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1684",
+         "pubDate" : "Fri, 15 Apr 2022 11:52:00 +0000",
+         "title" : "Ten years of Chicago chess in jail"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1691",
          "pubDate" : "Fri, 15 Apr 2022 11:34:28 +0000",
          "title" : "Qualification Commission renews its leadership"
