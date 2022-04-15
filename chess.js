@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this week's edition of the Power Play Show, GM Daniel King features two games played by Praggnanandhaa at the Reykjavik Open. The prodigy's keen instinct to attack is in full display! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-attack-with-pragg",
+         "pubDate" : "Fri, 15 Apr 2022 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Attack with Pragg"
+      },
+      {
+         "description" : "Another dramatic match ensued at the&#38;nbsp;2022 Junior Speed Chess Championship presented by SIG on Thursday, with GM Awonder Liang edging out GM Andrew Hong by a mere point after winning the final game of the match. It was a tough bout, with non...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-liang-hong",
+         "pubDate" : "Fri, 15 Apr 2022 08:36:19 -0700",
+         "title" : "Liang Edges Out Hong In 2022 Junior Speed Chess Championship Round Of 16"
+      },
+      {
          "description" : "We have just reached the halfway mark of the TCEC Season 22 Superfinal. Defending champion Stockfish leads Komodo Dragon by 12 points (+17 -5 =28), a dominant performance that all but ensures that it will win the Superfinal. Stockfish signaled its intent straight from the get-go by&#xA0;winning the first opening with its signature move g4!, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1522,14 +1538,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: The main line of the Rossolimo"
       },
       {
-         "description" : "GM Viswanathan Anand is supporting FIDE President Arkady Dvorkovich in his bid for a second term as FIDE President. Both were present at a press conference in New Delhi on Friday, where Dvorkovich announced that he will be running for re-election....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dvorkovich-to-run-for-2nd-term-supported-by-anand",
-         "pubDate" : "Fri, 01 Apr 2022 12:12:00 -0700",
-         "title" : "Dvorkovich To Run For 2nd Term, Supported By Anand"
-      },
-      {
          "description" : "The former world champion is slowly transitioning from strictly being a player to dabbling in a wider variety of roles.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1658,7 +1666,7 @@ news_feed (
          "title" : "Chess: Carlsen's rivals prepare for Candidates as No 1 wins after hiccup"
       },
       {
-         "description" : " Daaim Shabazz, The Chess Drum Recently chess.com featured &#8220;Chess Through an African Lens&#8221; written by this author. The reception was very positive, but it is surprising how few had been exposed to this information about the African Diaspora which is a testament to how chess media lacks a true representation of the vast chess universe. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/\">Chess in African Diaspora 2022</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
+         "description" : " Recently chess.com featured &#8220;Chess Through an African Lens&#8221; written by this author. The reception was very positive, but it is surprising how few had been exposed to this information about the African Diaspora which is a testament to how chess media lacks a true representation of the vast chess universe. Over the past 21 years, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/\">Chess in African Diaspora 2022</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/",
@@ -1882,14 +1890,6 @@ news_feed (
          "title" : "Dubbo 2022"
       },
       {
-         "description" : "Finding novelties is a fun way for students to learn how to use a database to annotate chess games. Novelties, loosely defined, are new moves but not necessarily good moves. National Master Jeffrey Ashton explains.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-for-coaches-finding-novelties",
-         "pubDate" : "Wed, 30 Mar 2022 12:05:00 +0100",
-         "title" : "ChessBase for Coaches: Finding Novelties"
-      },
-      {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-55/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (55)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-55/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (55)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2096,14 +2096,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/",
          "pubDate" : "Fri, 25 Mar 2022 19:33:33 +0000",
          "title" : "The Steven Rollins Chess Rule"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1658",
-         "pubDate" : "Fri, 25 Mar 2022 16:17:27 +0000",
-         "title" : "FIDE Veterans Support Program 2022: A tribute"
       }
    ]
 }
