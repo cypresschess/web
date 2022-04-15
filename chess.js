@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Kirill Shevchenko&#38;nbsp;advanced today at the&#38;nbsp;2022 Junior Speed Chess Championship presented by SIG with a hard-fought match victory over GM Shamsiddin Vokhidov. Though Shevchenko led throughout, the match reached its climax when he had to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-shevchenko-vokhidov",
+         "pubDate" : "Fri, 15 Apr 2022 15:38:33 -0700",
+         "title" : "Shevchenko Defeats Vokhidov In 2022 Junior Speed Chess Championship Round Of 16"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While the <strong>Chess Federation of Russia</strong> prepares its move to the <strong>Asian Chess Federation</strong>, it goes unnoticed how many Russian top players are out of the country. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/predke.1920.gif\" title=\"Alexandr Predke and his girlfriend Marina Severin didn't return to Russia from the Berlin Grand Prix and went to Istanbul instead. photo: private\" data-title=\"Alexandr Predke and his girlfriend Marina Severin didn't return to Russia from the Berlin Grand Prix and went to Istanbul instead. (photo: private)\" class=\"js-img\"> <img itempr",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/leaving-russia/",
+         "pubDate" : "Fri, 15 Apr 2022 22:56:12 +0100",
+         "title" : "Leaving Russia"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Peter Burri, who had been on the organisation team of the <strong>Biel Chess Festival</strong> for more than forty years, twenty of which at its helm, <a href=\"https://www.bielchessfestival.ch/news/2022/Todesanzeige-PeBu.html\">has passed away</a>. This year's festival on 10-24 July is dedicated to commemorate him. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/peter-burri-1957-2022/",
+         "pubDate" : "Fri, 15 Apr 2022 22:40:57 +0100",
+         "title" : "Peter Burri 1957-2022"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> On Tuesday, we marked the incredibly quick success of MU's Chess Team and the global name it is making for itself. Just three years in the making, our team has scored national and international wins under the leadership of head coach (and Grandmaster) Cristian Chirila. Several top-tier players from across the globe are now coming to MU to compete with this team. We know there's still more to do - including winning a national championship. </div><div class=\"field field-name-field-feature-image-caption field-type-text field-label-hidden field-wrapper\">Interim Dean Cooper Drury, Head Coach Cristian Chirila, Rex Sinquefield, President Choi and Dr. Jeanne Sinquef",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mizzou-president-choi%E2%80%99s-blog-applauding-our-chess-team-and-supporters",
+         "pubDate" : "Fri, 15 Apr 2022 19:44:16 +0000",
+         "title" : "Mizzou President Choi's Blog - Applauding our Chess Team and supporters"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Pawel Kacprzak</strong>, winner of the Best Chess Startup 2020 with <a href=\"https://twitter.chessvision.ai/\">ChessvisonAI</a>, has launched a bot to analyse chess positions. It works by tweeting a position and \"scan white\" or \"scan black\" to <strong><a href=\"https://twitter.com/ChessvisionAI\">@ChessvisionAI</a></strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/chessvision-analysis-bot-on-twitter/",
+         "pubDate" : "Fri, 15 Apr 2022 19:40:23 +0100",
+         "title" : "Chessvision analysis bot on Twitter"
+      },
+      {
          "description" : "In this week's edition of the Power Play Show, GM Daniel King features two games played by Praggnanandhaa at the Reykjavik Open. The prodigy's keen instinct to attack is in full display! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,14 +128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-announcement",
          "pubDate" : "Fri, 15 Apr 2022 10:00:00 +0100",
          "title" : "Oslo Esports Cup: Champions Chess Tour's first fully in-person event"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Pawel Kaprzak</strong>, winner of the Best Chess Startup 2020, has launched a bot to analyse chess positions. It works by tweeting a position and \"scan white\" or \"scan black\" to <strong>@ChessvisionAI</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/chessvision-analysis-bot-on-twitter/",
-         "pubDate" : "Fri, 15 Apr 2022 09:59:04 +0100",
-         "title" : "Chessvision analysis bot on Twitter"
       },
       {
          "description" : " This week, we are going to wrap up the last six weeks of work on tactics. I'm actually spreading out the end of this part of our middle-game studies through next week because we covered so much information. This week, I'll summarize what we have covered so far, to give those of you having trouble <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-seven/\">A Foundation for Beginners Fifty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprove",
@@ -818,28 +850,12 @@ news_feed (
          "title" : "Controversial invitees at Stavanger"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Under its <a href=\"https://www.chesstech.org/2021/postponed-election-in-romania/\">new leadership</a> the <strong>Romanian Chess Federation</strong> announced a <a href=\"https://frsah.ro/gp-romania-en/\">100 000€ Grand Prix</a> of two rapid and three classical tournaments. The first event on 30 April-1 May in Bucharest precedes the inaugural classical tournament of the <strong>Grand Chess Tour 2022</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/romanian-grand-prix-announced/",
-         "pubDate" : "Fri, 08 Apr 2022 08:28:39 +0100",
-         "title" : "Romanian Grand Prix announced"
-      },
-      {
          "description" : " World No 7 defeated Hikaru Nakamura but missed out on a place among eight Candidates to face Magnus Carlsen for the world title Wesley So won the low-key final leg of the Fide Grand Prix in Berlin on Monday, but the US world No 7 missed out on what mattered to him most, qualification for June's world title Candidates in Madrid. So and Hikaru Nakamura, who was already sure of overall Grand Prix victory and a Candidates place, made little effort in their two classical games. The second ended after just a few minutes play with what has become the standard tacitly agreed fast drawing sequence for top grandmaster chess, a Ruy Lopez Berlin Defence <a href=\"https://www.chessgames.com/perl/chessgam",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/apr/08/chess-wesley-so-wins-in-berlin-but-laments-failure-to-qualify-for-candidates",
          "pubDate" : "Fri, 08 Apr 2022 07:00:15 +0000",
          "title" : "Chess: Wesley So wins in Berlin but laments failure to qualify for Candidates"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League concludes its Spring regular season. Join NM Caleb Denby for the move-by-move. 2022.04.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-corporate-chess-league-virtual-spring-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6T3yBW-2GQY.jpg?itok=9-2Qjcwk\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-corporate-chess-league-virtual-spring-5",
-         "pubDate" : "Fri, 08 Apr 2022 04:22:12 +0000",
-         "title" : "2022 Saint Louis Corporate Chess League: Virtual Spring #5"
       },
       {
          "description" : "People across the globe observe April 2 as World Autism Awareness Day. To commemorate the day, a supervision panel of the Infinite Chess FIDE Project was held online. The initiative aims to enhance knowledge and awareness about chess for children with ASD, give practical advice to teachers and parents, study the benefits of introducing chess and develop teaching methods.",
@@ -1386,14 +1402,6 @@ news_feed (
          "title" : "2022 Dubbo Open - Day 1"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>David Anderton</strong> <a href=\"https://britishchessnews.com/2020/08/02/happy-birthday-cm-david-william-anderton-obe-02-viii-1941/\">passed away</a> at 80 after serving the <strong>English Chess Federation</strong> as team captain, legal counsel and in other roles for more than fifty years. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/david-anderson-1941-2022/",
-         "pubDate" : "Sat, 02 Apr 2022 21:59:30 +0100",
-         "title" : "David Anderson (1941-2022)"
-      },
-      {
          "description" : "Wesley So and Hikaru Nakamura made a quiet and at times puzzling start to the FIDE Grand Prix final in Berlin, with a 30-move draw. Wesley took long pauses, but essentially he followed a game he'd played against Jeffery Xiong in last year's US Championship for 27 moves, before playing a novelty that led to an instant draw. The twist was that this time he was playing from the white side after finding himself under pressure in that previous game with Black.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1520,14 +1528,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-sf3",
          "pubDate" : "Fri, 01 Apr 2022 22:00:00 +0100",
          "title" : "Berlin GP: Nakamura and So win tiebreakers, reach final"
-      },
-      {
-         "description" : "Yesterday a couple of things became clear: GM Hikaru Nakamura&#38;nbsp;won the&#38;nbsp;2022 FIDE Grand Prix&#38;nbsp;series and the results in the semifinals meant that we would have the pleasure of not just one tiebreaker but two. Although not without his s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-semifinals-tiebreaks",
-         "pubDate" : "Fri, 01 Apr 2022 13:04:00 -0700",
-         "title" : "Nakamura, So To Meet In Final: 2022 FIDE Grand Prix Berlin Leg 3, Semifinals Tiebreaks"
       },
       {
          "description" : "In this week's edition of the Power Play Show, GM Daniel King focuses on a battle in the main line of the Rossolimo between Jan-Krzysztof Duda and Magnus Carlsen. Outstanding tactical finishes from the Charity Cup are also presented! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -2080,22 +2080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1660",
          "pubDate" : "Sat, 26 Mar 2022 00:37:12 +0000",
          "title" : "FIDE President Arkady Dvorkovich turns 50"
-      },
-      {
-         "description" : " To help ACT players prepare for the upcoming O2C Doeberl Cup, the ACT Junior Chess League is organising a small warmup event. It is a 5 round FIDE rated event, and has attracted 22 players. The semi-invitational event targeted local juniors who are playing in the Premier, Major or Minor, as well as adult players taking part. The tournament is being played as a single section, with a time control of 90m+30s While there is no live coverage of the event, you can follow the results at <a href=\"http://tournaments.streetchess.net/\">http://tournaments.streetchess.net/</a> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/a-short-warm-up-event.html",
-         "pubDate" : "Fri, 25 Mar 2022 21:24:00 +0000",
-         "title" : "A short warm up event "
-      },
-      {
-         "description" : " In most team competitions, teammates don't play each other, but retired U.S. Marine Corps Master Sergeant Steven Rollins thought of a novel way that allows teammates to play each other without adversely affecting the team score. In 2014, his &#8220;Rollins Military System&#8221; was included as Rule 31A1 in the U.S. Chess Rule Book. Kobe Bryant, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/\">The Steven Rollins Chess Rule</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/03/25/the-steven-rollins-chess-rule/",
-         "pubDate" : "Fri, 25 Mar 2022 19:33:33 +0000",
-         "title" : "The Steven Rollins Chess Rule"
       }
    ]
 }
