@@ -10,7 +10,7 @@ news_feed (
          "title" : "2022 O2C Doeberl Cup - Day 1"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard uses one of his best preparations ever to show how to use ChessBase to improve your chess game. 2022.04.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-use-chessbase-prepare-pro-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/634igXYzkbI.jpg?itok=_zg42D6Y\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard uses one of his best preparations ever to show how to use ChessBase to improve your chess game. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-use-chessbase-prepare-pro-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/634igXYzkbI.jpg?itok=_zg42D6Y\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/how-use-chessbase-prepare-pro-gm-romain-%C3%A9douard",
