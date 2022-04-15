@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " India's Rameshbabu Praggnanandhaa, 16, won first prize and the youngest GM Abhimanyu Mishra, 13, of the US, tied for second India's Rameshbabu Praggnanandhaa, 16, widely forecast as a future world class grandmaster, added to his growing reputation on Tuesday when he won the €5,000 first prize at the Reykjavik Open with an unbeaten 7.5/9. Earlier in his career, the Chennai teenager was the youngest ever international master, among the youngest ever GMs and the second youngest to reach a 2600 Fide rating. He was singled out <a href=\"https://www.theguardian.com/sport/2016/oct/21/rameshbabu-praggnanandhaa-world-grandmaster-record\" title=\"\">in this column</a> more than five years ago for an 18",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/apr/15/chess-teenagers-top-reykjavik-while-english-hopes-fade-at-the-finish",
+         "pubDate" : "Fri, 15 Apr 2022 07:00:24 +0000",
+         "title" : "Chess: Teenagers top in Reykjavik while English hopes fade at the finish"
+      },
+      {
          "description" : " Day 1 of the 2022 O2C Doeberl Cup saw a couple of big upsets. FM Albert Winkelman scored a full point against current Australian Champion GM Temur Kuybokaov, while IM Gary Lane lost to a much lower rated Nethaji Rathinalingam. Currently 8 players are tied for first with 2 wins, including GM's Daniel Fernandez, Hrant Melkumyan and Bobby Cheng. Day 2 sees the start of the supporting events, with another 280 players arriving for the Major, Minor and Under 1200. Assuming everyone makes it to Canberra, this will break last years record of 330 players. Todays rounds start at 1pm and you can follow games from the top boards on various chess sites including Chess24, chess.com and Licchess. <b>Winke",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2096,14 +2104,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/mar/25/chess-china-ding-liren-could-make-unlikely-late-bid-for-candidates-place-magnus-carlsen",
          "pubDate" : "Fri, 25 Mar 2022 08:00:23 +0000",
          "title" : "Chess: China's Ding Liren could make unlikely late bid for Candidates place"
-      },
-      {
-         "description" : "The 94th FIDE Congress will be organised by the All India Chess Federation in Chennai from July 31 to August 9, with August 7 as the date for FIDE elections.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33590842/india-host-2022-chess-olympiad-july-28-august-10?device=featurephone",
-         "pubDate" : "Fri, 25 Mar 2022 02:29:29 -0500",
-         "title" : "India to host 2022 Chess Olympiad from July 28 to August 10"
       }
    ]
 }
