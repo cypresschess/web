@@ -2064,22 +2064,6 @@ news_feed (
          "link" : "https://www.thearticle.com/napoleon-beethoven-and-the-turk/",
          "pubDate" : "Sat, 26 Mar 2022 09:03:44 +0000",
          "title" : "Napoleon, Beethoven and the Turk"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1659",
-         "pubDate" : "Sat, 26 Mar 2022 01:23:30 +0000",
-         "title" : "FIDE Grand Prix Berlin - Round 4 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1660",
-         "pubDate" : "Sat, 26 Mar 2022 00:37:12 +0000",
-         "title" : "FIDE President Arkady Dvorkovich turns 50"
       }
    ]
 }
