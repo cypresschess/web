@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last weekend, the final rounds of the Czech Extraliga took place in a central event. Nový Bor had secured overall victory long before the end of the season. The team from Brno, which is always supported by sports presenter Inna Puhajkov&aacute;, finished in second place. | Photos: Vladimir Jagr",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/novy-bor-wins-czech-extraliga-2022",
+         "pubDate" : "Sat, 16 Apr 2022 09:00:00 +0100",
+         "title" : "Nový Bor wins the Czech Extraliga"
+      },
+      {
+         "description" : "In the diagrammed position, White has just answered the typical KI advance 8...e5 with the space-gaining 9.d5. Black's Nc6 is attacked - where would you put it?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/test-your-king-s-indian-iq",
+         "pubDate" : "Sat, 16 Apr 2022 09:00:00 +0100",
+         "title" : "Test your King's Indian IQ"
+      },
+      {
+         "description" : " The 2nd day of the 2022 O2C Doeberl Cup saw the start of the Major, Minor and Under 1200 events. Due to a few last minute withdrawals, visa problems, and travel issues, the tournament fell just short of last years record numbers, with around 225 players sitting down at the board. The Premier saw rounds 3 and 4 played, with GM Bobby Cheng holding the outright lead with 4/4. He was followed by GM's Daniel Fernandez and Hrant Melkumyan, with a large group of players on 3. There were a few upsets in this round, the most notable being a win for Harry Press over IM Junta Ikeda. The Major saw the first 2 rounds played, with a number of players on 2/2, including top seed Ryan Lane, and overseas vis",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-day-2.html",
+         "pubDate" : "Sat, 16 Apr 2022 04:36:00 +0000",
+         "title" : "2022 O2C Doeberl Cup - Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser punishes a weak opening with a flamboyant attack. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/launching-my-greek-gift-13-moves\"><img src=\"https://saintl",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/launching-my-greek-gift-13-moves",
+         "pubDate" : "Sat, 16 Apr 2022 04:28:44 +0000",
+         "title" : "Launching My Greek Gift in 13 Moves"
+      },
+      {
+         "description" : "Easter Saturday (16 April) sees the start of the Swiss Young Masters tournament in Basel, a 10-player round robin event designed to give young Swiss players the opportunity to fight for rating points and norms. The traditional tournament will take place in Basel for the first time. The games will be broadcast live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/swiss-young-masters-2022-preview",
+         "pubDate" : "Sat, 16 Apr 2022 05:20:00 +0100",
+         "title" : "Swiss Young Masters kicks off in Basel"
+      },
+      {
          "description" : "GM Kirill Shevchenko&#38;nbsp;advanced today at the&#38;nbsp;2022 Junior Speed Chess Championship presented by SIG with a hard-fought match victory over GM Shamsiddin Vokhidov. Though Shevchenko led throughout, the match reached its climax when he had to ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -154,7 +194,7 @@ news_feed (
          "title" : "2022 O2C Doeberl Cup - Day 1"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard uses one of his best preparations ever to show how to use ChessBase to improve your chess game. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-use-chessbase-prepare-pro-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/634igXYzkbI.jpg?itok=_zg42D6Y\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard uses one of his best preparations ever as Black to show how to use ChessBase to improve your chess game. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-use-chessbase-prepare-pro-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/634igXYzkbI.jpg?itok=_zg42D6Y\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/how-use-chessbase-prepare-pro-gm-romain-%C3%A9douard",
@@ -776,14 +816,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-qualifier-3",
          "pubDate" : "Fri, 08 Apr 2022 18:15:24 -0700",
          "title" : "Muradli Sweeps Final 8-0: 2022 Junior Speed Chess Championship Qualifier 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Friedel gives the first-ever Double Exclam!! class. The mysterious masked Josh shows game with inspirational, strong moves. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/friedels-inspirational-moves-double-exclam-gm-josh-friedel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Scvaos7uRa8.jpg?itok=drhVMDwS\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/friedels-inspirational-moves-double-exclam-gm-josh-friedel",
-         "pubDate" : "Fri, 08 Apr 2022 22:22:42 +0000",
-         "title" : "Friedel's Inspirational Moves!! | Double Exclam!! - GM Josh Friedel"
       },
       {
          "description" : " The Kvika Reykjavik Open takes place Wed 6th to Tue 12th April 2022. The leading players are mostly talented juniors with a big contingent from India: Pouya Idani, D Gukesh, Hans Moke Niemann, B Adhiban, Raunak Sadhwani, R Praggnanandhaa, Abhijeet Gupta, Max Warmerdam etc.",
@@ -1786,22 +1818,6 @@ news_feed (
          "title" : "Hosting Ukrainian refugees"
       },
       {
-         "description" : "Wesley So beat Amin Tabatabaei in their first semifinal encounter at the FIDE Grand Prix in Berlin, and now only needs a draw on Thursday to reach the final of the two-week event. In the other semi, Hikaru Nakamura could not get much with white against Shakhriyar Mamedyarov in a game that was agreed drawn after 30 moves. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-sf1",
-         "pubDate" : "Thu, 31 Mar 2022 12:10:00 +0100",
-         "title" : "Berlin GP: So with a foot in the final"
-      },
-      {
-         "description" : "One system ruffled up the chess world in the last decade - the London System. Svitlana couldn't stay away from this system either, and it is now a part of her repertoire. How to play it? What to take care of? Time for some smart moves!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-36",
-         "pubDate" : "Thu, 31 Mar 2022 12:05:00 +0100",
-         "title" : "Svitlana's Smart Moves - The London System"
-      },
-      {
          "description" : "Adhiban takes on Sethuraman and Harika takes on Arjun Erigaisi as the $100,000 MPL Indian Chess Tour begins today, Thursday 31 March at 15:30 IST (06:00 ET, 12:00 CEST). 16 players are competing in the first of four online chess tournaments that will qualify each winner both to the MPL Indian Chess Tour final and to an event on the $1.6 million Meltwater Champions Chess Tour. There are 15 rounds over the next four days, with all the action broadcast live here on chess24.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1856,14 +1872,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/so-wins-the-first-game-of-the-gp-semifinals-against-tabatabaei/",
          "pubDate" : "Wed, 30 Mar 2022 16:33:46 +0000",
          "title" : "So wins the first game of the GP semifinals against Tabatabaei"
-      },
-      {
-         "description" : "World Chess has introduced an innovation that will likely add a new dimension to the way fans watch chess (and other mind sports, for that matter!). They have developed - and will roll out today - a tool that tracks the players' heart rate over video signal (without playing having to wear a pulse-tracking device). Please find the press release below and tune in today to see the technology in action during the semi-finals of the Grand Prix in Berlin. Press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/players-heart-rate-in-chess-broadcasts",
-         "pubDate" : "Wed, 30 Mar 2022 17:00:00 +0100",
-         "title" : "Players' heart rate in chess broadcasts"
       },
       {
          "description" : " In 2019, at the tender age of 23 years old, I organized a Rapid Chess Tournament in Switzerland. I brought this up in a recent interview on 64: A Chess podcast and David asked me to write an article about it. So, here I am, this one is for you David! I hope this inspires [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/organize-a-chess-tournament/\">How To Organize A Chess Tournament (20'000$ Budget)</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
