@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Reykjavik Open was British chess player Tallulah Roberts' first international chess tournament, but despite scoring a good performance on the board, the 23-year-old says she was harassed and mentions several unpleasant incidents during the tournament. The organisers on Iceland are now investigating the incidents.",
+         "description" : "The Reykjavik Open was British chess player Tallulah Roberts' first international chess tournament, but despite scoring a good performance on the board, the 23-year-old says she was harassed and mentions several unpleasant incidents during the tournament. The Iceland organisers are now investigating the reports.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/female-player-reports-harassment-in-reykjavik-open",
          "pubDate" : "Sat, 16 Apr 2022 13:30:13 +0000",
          "title" : "Female chess player reports harassment in Reykjavik Open"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While the <strong>Chess Federation of Russia</strong> prepares its move to the <strong>Asian Chess Federation</strong>, it goes unnoticed how many Russian top players are out of the country. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/predke.1920.gif\" title=\"Alexandr Predke and his girlfriend Marina Severin didn't return to Russia from the Berlin Grand Prix and went to Istanbul instead. photo: private\" data-title=\"Alexandr Predke and his girlfriend Marina Severin didn't return to Russia from the Berlin Grand Prix and went to Istanbul instead. (photo: private)\" class=\"js-img\"> <img itempr",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/leaving-russia/",
+         "pubDate" : "Sat, 16 Apr 2022 13:50:58 +0100",
+         "title" : "Leaving Russia"
       },
       {
          "description" : "The Fagernes Open is a 9-round open tournament taking place at the touristic valley of Valdres in Norway. After seven rounds, Alexander Donchenko, Aryan Chopra and Semen Mitusov are sharing the lead on 5&frac12; points. Round 8 starts Saturday, April 16, at 13.00 CEST. Follow the games live with computer analyses. | Photo: Tom Eriksen",
@@ -72,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-shevchenko-vokhidov",
          "pubDate" : "Fri, 15 Apr 2022 15:38:33 -0700",
          "title" : "Shevchenko Defeats Vokhidov In 2022 Junior Speed Chess Championship Round Of 16"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While the <strong>Chess Federation of Russia</strong> prepares its move to the <strong>Asian Chess Federation</strong>, it goes unnoticed how many Russian top players are out of the country. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/predke.1920.gif\" title=\"Alexandr Predke and his girlfriend Marina Severin didn't return to Russia from the Berlin Grand Prix and went to Istanbul instead. photo: private\" data-title=\"Alexandr Predke and his girlfriend Marina Severin didn't return to Russia from the Berlin Grand Prix and went to Istanbul instead. (photo: private)\" class=\"js-img\"> <img itempr",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/leaving-russia/",
-         "pubDate" : "Fri, 15 Apr 2022 22:56:12 +0100",
-         "title" : "Leaving Russia"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Peter Burri, who had been on the organisation team of the <strong>Biel Chess Festival</strong> for more than forty years, twenty of which at its helm, <a href=\"https://www.bielchessfestival.ch/news/2022/Todesanzeige-PeBu.html\">has passed away</a>. This year's festival on 10-24 July is dedicated to commemorate him. </div> ",
