@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Reykjavik Open was British chess player Tallulah Roberts' first international chess tournament, but despite scoring a good performance on the board, the 23-year-old says she was harassed and mentions several unpleasant incidents during the tournament. The organisers on Iceland are now investigating the incidents.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/female-player-reports-harassment-in-reykjavik-open",
+         "pubDate" : "Sat, 16 Apr 2022 13:30:13 +0000",
+         "title" : "Female chess player reports harassment in Reykjavik Open"
+      },
+      {
          "description" : "The Fagernes Open is a 9-round open tournament taking place at the touristic valley of Valdres in Norway. After seven rounds, Alexander Donchenko, Aryan Chopra and Semen Mitusov are sharing the lead on 5&frac12; points. Round 8 starts Saturday, April 16, at 13.00 CEST. Follow the games live with computer analyses. | Photo: Tom Eriksen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1842,14 +1850,6 @@ news_feed (
          "title" : "Modern Chess- From Steinitz to the 21st Century"
       },
       {
-         "description" : "Wesley So won a pawn and then never gave Amin Tabatabaei a chance as he took a huge step towards the final of the last Berlin FIDE Grand Prix. In the other semi-final Hikara Nakamura claimed, \"I just didn't want to do anything too exciting,\" as he explained he was already trying to safeguard any openings that might come in handy in the Candidates Tournament. The unambitious approach allowed Shakhriyar Mamedyarov to take over, but the game never caught fire before it ended in a 30-move draw.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/wesley-so-strikes-first-in-grand-prix-semi-finals",
-         "pubDate" : "Wed, 30 Mar 2022 22:11:13 +0000",
-         "title" : "Wesley So strikes first in Grand Prix semi-finals"
-      },
-      {
          "description" : " <p class=\"lead\">Wesley So takes the lead in the match against Tabatabaei, while Nakamura and Mamedyarov finish their game in a draw. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220330153721_IMG_5610.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/A-19.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photos: World Chess</div> </div> In the first round of the semifinals of the third stage of the FIDE Grand Prix in Berlin organised by World Chess Wesley So managed to convert his advantage into a full point against Amin Ta",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2056,14 +2056,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-back-in-joint-lead-at-delhi-international-open-chess/articleshow/90464520.cms",
          "pubDate" : "Sat, 26 Mar 2022 15:57:23 +0000",
          "title" : "Arjun Erigaisi back in joint lead at Delhi International Open"
-      },
-      {
-         "description" : " A few years ago I mentioned a game called Smess (AKA Ninny Chess, or All the King's Men). It is a board game very similar to chess, but with different game mechanics and strategies. A similar game (invented around the same time) was Ploy. Ploy was a 2 or 4 player game, where the direction the pieces could move was imprinted on the piece itself (each piece was a disk). Some pieces had a single direction, while more powerful pieces had 2,3 or 4 directions. However, the pieces could be rotated, instead of moving, to enable them to move in entirely different directions. Although the game is out of print, it can be played at various online game platforms. In my old collection of board game books",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/games-that-are-chess-like.html",
-         "pubDate" : "Sat, 26 Mar 2022 12:36:00 +0000",
-         "title" : "Games that are chess \"like\""
       }
    ]
 }
