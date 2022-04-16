@@ -2048,14 +2048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1661",
          "pubDate" : "Sat, 26 Mar 2022 19:59:51 +0000",
          "title" : "Winners crowned at Sao Tome and Principe Chess Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90464520.cms\" />National champion Arjun Erigaisi returned to the joint lead by defeating International Master Shyam Nikhil in the seventh round of the 19th Delhi International open chess tournament on Saturday. With this victory, Erigaisi joined Grandmasters Lalith Babu M R and Karthik Venkataraman who played out a draw against each other at the top of the table.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-back-in-joint-lead-at-delhi-international-open-chess/articleshow/90464520.cms",
-         "pubDate" : "Sat, 26 Mar 2022 15:57:23 +0000",
-         "title" : "Arjun Erigaisi back in joint lead at Delhi International Open"
       }
    ]
 }
