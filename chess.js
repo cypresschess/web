@@ -2064,14 +2064,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/games-that-are-chess-like.html",
          "pubDate" : "Sat, 26 Mar 2022 12:36:00 +0000",
          "title" : "Games that are chess \"like\""
-      },
-      {
-         "description" : "My late friend Tony Buzan, educational guru and inventor of Mind Maps also developed the concept of the Mastermind Group: individuals who, for various reasons, could prove a source of personal inspiration and motivation. My youthful Mastermind group (I had at an early age stumbled on the idea, if not the nomenclature) included the musical genius []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/napoleon-beethoven-and-the-turk/",
-         "pubDate" : "Sat, 26 Mar 2022 09:03:44 +0000",
-         "title" : "Napoleon, Beethoven and the Turk"
       }
    ]
 }
