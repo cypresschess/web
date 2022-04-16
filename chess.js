@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Day 3 of the 2022 O2C Doeberl Cup saw plenty of action, with the Premier, Major and Minor in full swing. The Under 1200 Tournament finished it's two day run, while the Saturday evening Kinnford Consulting Blitz attracted a record 136 players. After 6 rounds of the Premier, 3 GM's share the lead on 5/6. GM Daniel Fernandez (ENG) beat GM Bobby Cheng (AUS) in Round 5, before drawing with FM Chris Wallis in Round 6. Cheng bounced back from his round 5 loss, beating FM Dusan Stojic in the next round to also move to 5. GM Hrant Melkumyan was the third player to finish the day tied for first, drawing with GM Temur Kuybokarov and then beating IM Gary Lane. In the Major, there are 4 players tied for",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-day-3.html",
+         "pubDate" : "Sat, 16 Apr 2022 22:22:00 +0000",
+         "title" : "2022 O2C Doeberl Cup - Day 3"
+      },
+      {
          "description" : "The Reykjavik Open was British chess player Tallulah Roberts' first international chess tournament, but despite scoring a good performance on the board, the 23-year-old says she was harassed and mentions several unpleasant incidents during the tournament. The Iceland organisers are now investigating the reports.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -758,7 +766,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/college-ambassador-program",
-         "pubDate" : "Sat, 09 Apr 2022 12:22:54 -0700",
+         "pubDate" : "Sat, 09 Apr 2022 12:22:00 -0700",
          "title" : "Chess.com's College Ambassador Program"
       },
       {
@@ -2040,14 +2048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1662",
          "pubDate" : "Sun, 27 Mar 2022 13:00:22 +0000",
          "title" : "'Huge relief' for Carlsen as champ survived Duda's spirited comeback to win Charity Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1661",
-         "pubDate" : "Sat, 26 Mar 2022 19:59:51 +0000",
-         "title" : "Winners crowned at Sao Tome and Principe Chess Championship"
       }
    ]
 }
