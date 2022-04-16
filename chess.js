@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Fagernes Open is a 9-round open tournament taking place at the touristic valley of Valdres in Norway. After seven rounds, Alexander Donchenko, Aryan Chopra and Semen Mitusov are sharing the lead on 5&frac12; points. Round 8 starts Saturday, April 16, at 13.00 CEST. Follow the games live with computer analyses. | Photo: Tom Eriksen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fagernes-open-2022-live",
+         "pubDate" : "Sat, 16 Apr 2022 12:55:00 +0100",
+         "title" : "Fagernes Open, Round 8: Live"
+      },
+      {
+         "description" : "Every chess player has a unique style of preparing - some like to study classics, some follow the latest updates, others rely heavily on engines. However, there is one common thread between most of the top elite-level players: they have all studied the classics. Thus, GM Sundararajan Kidambi decided to decode Jose Raul Capablanca's brilliance and showcased it with a few examples. He posed an important question: if the best of the best learned and got inspired by the studying the classics, why can't we do the same?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/capablanca-the-chess-machine-sundararajan-kidambi",
+         "pubDate" : "Sat, 16 Apr 2022 12:15:00 +0100",
+         "title" : "Capablanca, the chess machine"
+      },
+      {
          "description" : "Last weekend, the final rounds of the Czech Extraliga took place in a central event. Nový Bor had secured overall victory long before the end of the season. The team from Brno, which is always supported by sports presenter Inna Puhajkov&aacute;, finished in second place. | Photos: Vladimir Jagr",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,14 +128,6 @@ news_feed (
          "link" : "https://www.thearticle.com/freedom-chess-and-friedrich-schiller/",
          "pubDate" : "Fri, 15 Apr 2022 13:16:23 +0000",
          "title" : "Freedom, chess and Friedrich Schiller"
-      },
-      {
-         "description" : "The Fagernes Open is a 9-round open tournament taking place at the touristic valley of Valdres in Norway. After six rounds, eleven players are sharing the lead on 4&frac12; points, including top seed Arjun Erigaisi. Round 7 starts Friday, April 15, at 14.00 CEST. Follow the games live with computer analyses. | Photo: Tom Eriksen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fagernes-open-2022-live",
-         "pubDate" : "Fri, 15 Apr 2022 13:55:00 +0100",
-         "title" : "Fagernes Open, Round 7: Live"
       },
       {
          "description" : " Levon's fiancee Anita Ayvazyan gives an exclusive interview to WGM Dina Belenkaya about moving to America, her artist career, the pros and cons of being in a relationship with a professional chess player and more! <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Hk9_StBp8Zw?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -1792,14 +1800,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-semi-finals-game-2/",
          "pubDate" : "Thu, 31 Mar 2022 15:08:38 +0000",
          "title" : "FIDE Grand Prix in Berlin: Semi-finals Game 2"
-      },
-      {
-         "description" : "Starting today, all Fritz 18 users will receive an additional engine as a free update: Fritz 18 Neuronal. The new engine Fritz 18 Neuronal achieves an increase in playing strength of about 120 ELO points compared to the classic Fritz 18 engine at shorter time controls. Simply start Fritz 18 and start the automatically offered update! Then the new engine will be installed!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/free-fritz18-update-fritz18neuronal-engine",
-         "pubDate" : "Thu, 31 Mar 2022 15:15:00 +0100",
-         "title" : "Free Fritz update: AI engine \"Fritz 18 Neuronal\""
       },
       {
          "description" : "FIDE President Mr. Arkady Dovorkovich arrived in India for a three day visit to see the preparation and discuss the road map ahead of the",
