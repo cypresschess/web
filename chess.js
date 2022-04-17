@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Fagernes Open is a 9-round open tournament taking place at the touristic valley of Valdres in Norway. With one round to go, Indian GM Aryan Chopra is the sole leader of the event. Frode Urkedal, Alexander Donchenko and Krishnan Sasikiran stand a half point back. Round 9 starts Sunday, April 17, at 09.00 CEST. Follow the games live with computer analyses. | Photo: Tom Eriksen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fagernes-open-2022-live",
+         "pubDate" : "Sun, 17 Apr 2022 08:55:00 +0100",
+         "title" : "Fagernes Open, Round 9: Live"
+      },
+      {
          "description" : "America's best chess players will return to the Saint Louis Chess Club to battle over the board on April 18-29 in a brand new and exciting tournament, the American Cup. With $300,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +66,7 @@ news_feed (
          "title" : "Nový Bor wins the Czech Extraliga"
       },
       {
-         "description" : " The 2nd day of the 2022 O2C Doeberl Cup saw the start of the Major, Minor and Under 1200 events. Due to a few last minute withdrawals, visa problems, and travel issues, the tournament fell just short of last years record numbers, with around 225 players sitting down at the board. The Premier saw rounds 3 and 4 played, with GM Bobby Cheng holding the outright lead with 4/4. He was followed by GM's Daniel Fernandez and Hrant Melkumyan, with a large group of players on 3. There were a few upsets in this round, the most notable being a win for Harry Press over IM Junta Ikeda. The Major saw the first 2 rounds played, with a number of players on 2/2, including top seed Ryan Lane, and overseas vis",
+         "description" : " The 2nd day of the 2022 O2C Doeberl Cup saw the start of the Major, Minor and Under 1200 events. Due to a few last minute withdrawals, visa problems, and travel issues, the tournament fell just short of last years record numbers, with around <s>225</s>325 players sitting down at the board. The Premier saw rounds 3 and 4 played, with GM Bobby Cheng holding the outright lead with 4/4. He was followed by GM's Daniel Fernandez and Hrant Melkumyan, with a large group of players on 3. There were a few upsets in this round, the most notable being a win for Harry Press over IM Junta Ikeda. The Major saw the first 2 rounds played, with a number of players on 2/2, including top seed Ryan Lane, and ov",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-day-2.html",
@@ -1792,14 +1800,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/mpl-indian-chess-tour-1st-leg-2022",
          "pubDate" : "Thu, 31 Mar 2022 22:36:00 +0400",
          "title" : "MPL Indian Chess Tour 1st Leg 2022 - Games and Results"
-      },
-      {
-         "description" : "If we were to assume that there really is something to astrology - that people born in autumn really do tick a little differently from those born in spring - might we have a useful clue to our opponent's strategy in a chess game by asking about their star sign? Perhaps we would also involuntarily expect for a typical Dutchman to prefer a different strategy than a full-blooded Sicilian.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aries-and-their-strategy",
-         "pubDate" : "Thu, 31 Mar 2022 19:15:00 +0100",
-         "title" : "Aries and their strategy"
       },
       {
          "description" : " <p class=\"lead\">Round 2 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> semifinals ended with Tabatabaei winning against So and Mamedyarov drawing against Nakamura. With these results, both pairings move to the semifinals tiebreaks. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220331152256_IMG_5741.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220331154630_IMG_5753.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220331154700_IMG_5754.jpg\" width=\"2560\" height=\"1707\"",
