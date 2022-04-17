@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 75th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how to put pressure on your opponent. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-75-how-to-pressure-your-opponent",
+         "pubDate" : "Sun, 17 Apr 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 75: How to pressure your opponent"
+      },
+      {
          "description" : "St. Petersburg 1914 is one of the most memorable tournaments in history. What has made it a landmark chess event? Was it because it was the first true super-tournament of the 20th century and chess' modern age? Was it because it drew together the legendary trio of Emanuel Lasker, Jose Raul Capablanca, and Alexander Alekhine for the first time? Was it because it provided one of the most dramatic and riveting finishes of all time in top-level chess? The reasons are plenty, all of which call for a revisit of the tournament a century and eight years after its passing.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1794,14 +1802,6 @@ news_feed (
          "title" : "FIDE Grand Prix Berlin Semis: Game 2 Recap"
       },
       {
-         "description" : "Vladimir Putin uses athletes for his propaganda. But Russian chess grandmaster Daniil Dubov is standing up to the Russian leader and the war in Ukraine. In an interview with Europe's premier news magazine, the 25-year-old explains why he is willing to take that risk. \"Nuclear war could break out and I could miss the end of the world while analysing the Italian opening.\" | Photo: Jacek Prondzynski/Newspix/Imago",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dubov-the-only-way-to-change-anything-in-russia-is-a-revolution",
-         "pubDate" : "Thu, 31 Mar 2022 21:00:00 +0100",
-         "title" : "Dubov: \"The only way to change anything in Russia is a revolution\""
-      },
-      {
          "description" : " The MPL Indian Chess Tour 1st Leg takes place Thu 31st Mar to Sun 3rd Apr 2022 hosted by Chess24. This event is an extension of the online Meltwater Champions Chess Tour and has 5 qualifying places for the main tour. There are 4 legs and a final. The format is a straight rapid round robin of 16 players.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2032,22 +2032,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/22nd-european-individual-championship-2022",
          "pubDate" : "Sun, 27 Mar 2022 23:07:00 +0400",
          "title" : "22nd European Individual Championship 2022 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90477810.cms\" />Top seed Arjun Erigaisi, Harsha Bharathakoti and D Gukesh on Sunday emerged as joint leaders at the 19th edition of Delhi International Open Grandmasters Chess tournament. With just two rounds remaining, the tournament is heading for an exciting finish as the three Indians are now leading the standings with seven points.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-harsha-and-gukesh-emerge-joint-leaders-at-delhi-international-open-chess/articleshow/90477810.cms",
-         "pubDate" : "Sun, 27 Mar 2022 13:36:18 +0000",
-         "title" : "Arjun, Harsha and Gukesh emerge joint leaders at Delhi International Open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1662",
-         "pubDate" : "Sun, 27 Mar 2022 13:00:22 +0000",
-         "title" : "'Huge relief' for Carlsen as champ survived Duda's spirited comeback to win Charity Cup"
       }
    ]
 }
