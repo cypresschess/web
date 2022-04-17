@@ -10,6 +10,14 @@ news_feed (
          "title" : "Revisiting St. Petersburg 1914 - (April 21, 1914 - May 22, 1914)"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 1700 participants plus parents and coaches are <a href=\"http://www.echecs.asso.fr/Actu.aspx?Ref=13887\">expected at the <strong>French Youth Championship</strong></a> that starts in Agen on this Sunday coinciding with the launch of <strong>Deuxième Cerveau</strong> (second brain), a project to educate young players about nutrition and help them to adopt healthier eating and drinking habits in cooperation with <strong>Oviva</strong>, a Swiss health tech company. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/nutrition-for-chess-project-launched/",
+         "pubDate" : "Sun, 17 Apr 2022 09:54:05 +0100",
+         "title" : "Nutrition for chess project launched"
+      },
+      {
          "description" : " While researching GE Wainwright I came across this game concluding wit a sharp rook ending in which he, on two occasions, played a move converting a win into a loss. &#124;Yes, you'd be correct in inferring that, in between, his opponent also converted a win into a loss. In one of his last games, after <a href=\"https://chessimprover.com/pushing-passed-pawns/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Pushing Passed Pawns\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/pushing-passed-pawns/\">Pushing Passed Pawns</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -31,7 +39,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/american-cup-2022-announcement",
          "pubDate" : "Sun, 17 Apr 2022 02:15:00 +0100",
-         "title" : "Starting Wendesday: the American Cup"
+         "title" : "Starting Wednesday: the American Cup"
       },
       {
          "description" : " Day 3 of the 2022 O2C Doeberl Cup saw plenty of action, with the Premier, Major and Minor in full swing. The Under 1200 Tournament finished it's two day run, while the Saturday evening Kinnford Consulting Blitz attracted a record 136 players. After 6 rounds of the Premier, 3 GM's share the lead on 5/6. GM Daniel Fernandez (ENG) beat GM Bobby Cheng (AUS) in Round 5, before drawing with FM Chris Wallis in Round 6. Cheng bounced back from his round 5 loss, beating FM Dusan Stojic in the next round to also move to 5. GM Hrant Melkumyan was the third player to finish the day tied for first, drawing with GM Temur Kuybokarov and then beating IM Gary Lane. In the Major, there are 4 players tied for",
@@ -920,14 +928,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/exclusive-interview-with-gm-wesley-so-and-lotis-key/",
          "pubDate" : "Fri, 08 Apr 2022 09:17:35 +0000",
          "title" : "Exclusive Interview with GM Wesley So and Lotis Key"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After publicly trading punches with its two times winner <strong>Sergey Karjakin</strong>, <strong>Norway Chess</strong> has <a href=\"https://norwaychess.no/en/players-2022/\">published the invitees</a> for its tenth edition on 31 May to 10 June in Stavanger, including <strong>Magnus Carlsen</strong> (as always), semi-retired stars and two participants of the Candidates Tournament starting on 17 June, <strong>Rich&aacute;rd Rapport</strong> and <strong>Teimour Radjabov</strong>, who supported Putin and the Azerbaijan attack on Nagorno-Karabakh on social media. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/controversial-invitees-at-stavanger/",
-         "pubDate" : "Fri, 08 Apr 2022 09:11:51 +0100",
-         "title" : "Controversial invitees at Stavanger"
       },
       {
          "description" : " World No 7 defeated Hikaru Nakamura but missed out on a place among eight Candidates to face Magnus Carlsen for the world title Wesley So won the low-key final leg of the Fide Grand Prix in Berlin on Monday, but the US world No 7 missed out on what mattered to him most, qualification for June's world title Candidates in Madrid. So and Hikaru Nakamura, who was already sure of overall Grand Prix victory and a Candidates place, made little effort in their two classical games. The second ended after just a few minutes play with what has become the standard tacitly agreed fast drawing sequence for top grandmaster chess, a Ruy Lopez Berlin Defence <a href=\"https://www.chessgames.com/perl/chessgam",
