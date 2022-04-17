@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "St. Petersburg 1914 is one of the most memorable tournaments in history. What has made it a landmark chess event? Was it because it was the first true super-tournament of the 20th century and chess' modern age? Was it because it drew together the legendary trio of Emanuel Lasker, Jose Raul Capablanca, and Alexander Alekhine for the first time? Was it because it provided one of the most dramatic and riveting finishes of all time in top-level chess? The reasons are plenty, all of which call for a revisit of the tournament a century and eight years after its passing.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/revisiting-st-petersburg-1914-april-21-1914-may-22-1914",
+         "pubDate" : "Sun, 17 Apr 2022 10:00:00 +0100",
+         "title" : "Revisiting St. Petersburg 1914 - (April 21, 1914 - May 22, 1914)"
+      },
+      {
+         "description" : " While researching GE Wainwright I came across this game concluding wit a sharp rook ending in which he, on two occasions, played a move converting a win into a loss. &#124;Yes, you'd be correct in inferring that, in between, his opponent also converted a win into a loss. In one of his last games, after <a href=\"https://chessimprover.com/pushing-passed-pawns/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Pushing Passed Pawns\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/pushing-passed-pawns/\">Pushing Passed Pawns</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/pushing-passed-pawns/",
+         "pubDate" : "Sun, 17 Apr 2022 08:21:36 +0000",
+         "title" : "Pushing Passed Pawns"
+      },
+      {
          "description" : "The Fagernes Open is a 9-round open tournament taking place at the touristic valley of Valdres in Norway. With one round to go, Indian GM Aryan Chopra is the sole leader of the event. Frode Urkedal, Alexander Donchenko and Krishnan Sasikiran stand a half point back. Round 9 starts Sunday, April 17, at 09.00 CEST. Follow the games live with computer analyses. | Photo: Tom Eriksen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1786,14 +1802,6 @@ news_feed (
          "title" : "Dubov: \"The only way to change anything in Russia is a revolution\""
       },
       {
-         "description" : "This week Robert Ris takes an in-depth look at the miniature Predke vs. Vachier-Lagrave from the Grand Prix series in Berlin, featuring a sharp line in the Symmetrical English. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-predke-miniature-berlin",
-         "pubDate" : "Thu, 31 Mar 2022 20:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Predke's miniature in Berlin"
-      },
-      {
          "description" : " The MPL Indian Chess Tour 1st Leg takes place Thu 31st Mar to Sun 3rd Apr 2022 hosted by Chess24. This event is an extension of the online Meltwater Champions Chess Tour and has 5 qualifying places for the main tour. There are 4 legs and a final. The format is a straight rapid round robin of 16 players.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1904,14 +1912,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/dubbo-2022.html",
          "pubDate" : "Wed, 30 Mar 2022 12:54:00 +0000",
          "title" : "Dubbo 2022"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-55/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (55)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-55/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (55)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-55/",
-         "pubDate" : "Tue, 29 Mar 2022 21:12:59 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (55)"
       },
       {
          "description" : "",
