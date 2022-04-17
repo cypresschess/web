@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski looks at two games played by Levon Aronian at the 2022 FIDE Grand Prix Berlin (third tournament). Levon had success, as his opponents Hikaru Nakamura and Leinier Dominguez accepted his Queen's Gambit. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-queens-gambit-again-levon-grandmasters-choice-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbn",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/play-queens-gambit-again-levon-grandmasters-choice-gm-robert-hungaski",
+         "pubDate" : "Sun, 17 Apr 2022 22:30:15 +0000",
+         "title" : "Play the Queen's Gambit Again, Levon! | Grandmaster's Choice - GM Robert Hungaski"
+      },
+      {
+         "description" : " The 2020 O2C Doeberl Cup is set for an exciting finish, with the top 2 seeds GM Hrant Melkumyn and GM Temur Kuybokarov sharing the lead on 6.5/8. Recovering from a round 2 loss to FM Albert Winkelman, Kuybokarov has scored 5.5/6 to catch Melkumyan, who conceded draws to Kuybokarov, GM Daniel Fernandez, and GM Bobby Cheng. Half a point behind is Fernandez, while on 5.5 are Cheng, IM Rishi Sardana, FM Jack Puccini, IM Gary Lane, IM Igor Bjelobrk, and Fred Litchfield. Fernandez v Kuybokarov is the top board pairing with Bjelobrk playing Melkumyan on board 2. In the Major (Under 2000) Mars Qi leads with 6/6. However Fergus Chiverton could tie for first if he wins their top board clash in round ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-day-4.html",
+         "pubDate" : "Sun, 17 Apr 2022 22:28:00 +0000",
+         "title" : "2022 O2C Doeberl Cup - Day 4"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1692",
+         "pubDate" : "Sun, 17 Apr 2022 20:28:30 +0000",
+         "title" : "Martin Haubro wins 2022 Danish Championship"
+      },
+      {
          "description" : "Chess is always tense, and the closer you get to lifting the tension, the tenser it normally gets. This is something that stronger players often exploit against weaker opposition. Grandmaster Jon Speelman uses three notable games to explore this all-important subject, including a fascinating encounter between Reuben Fine and Jose Raul Capablanca. | Pictured: Erich Gottlieb Eliskases",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +74,7 @@ news_feed (
          "title" : "Starting Wednesday: the American Cup"
       },
       {
-         "description" : "The Fagernes Open is a 9-round open tournament taking place at the touristic valley of Valdres in Norway. With one round to go, Indian GM Aryan Chopra is the sole leader of the event. Frode Urkedal, Alexander Donchenko and Krishnan Sasikiran stand a half point back. Round 9 starts Sunday, April 17, at 09.00 CEST. Follow the games live with computer analyses. | Photo: Tom Eriksen",
+         "description" : "The Fagernes Open took place at the touristic valley of Valdres in Norway on April 10-17. Indian grandmasters Krishnan Sasikiran and Aryan Chopra topped the standings table with 7/9 points. Sasikiran was declared the champion thanks to his better tiebreak score. Frode Urkedal from Norway got third place. | Photo: Tom Eriksen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fagernes-open-2022-live",
@@ -800,14 +824,6 @@ news_feed (
          "link" : "https://chessimprover.com/four-knights-fiasco/",
          "pubDate" : "Sun, 10 Apr 2022 09:41:36 +0000",
          "title" : "Four Knights Fiasco"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering gives you a rook workout! See puzzles that feature rooks in the starring role. Originally on Twitch<br /> 2022.03.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-moves-rookies-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/U6oZY6wP6GE.jpg?itok=mfk1IFc2\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rook-moves-rookies-beginner-breakdown",
-         "pubDate" : "Sat, 09 Apr 2022 22:23:18 +0000",
-         "title" : "Rook Moves for Rookies | Beginner Breakdown"
       },
       {
          "description" : "Announcing the College Ambassador Program! Chess.com is excited to announce the launch of our College Ambassador Program!&#38;nbsp;This program is designed to empower college students to grow their chess club while also sharing the great game of che...",
@@ -2016,14 +2032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1664",
          "pubDate" : "Mon, 28 Mar 2022 00:09:26 +0000",
          "title" : "FIDE World Cup & Women's World Cup 2023 - Call for bids"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1663",
-         "pubDate" : "Sun, 27 Mar 2022 22:00:06 +0000",
-         "title" : "FIDE Grand Prix Berlin - Round 5 Recap"
       }
    ]
 }
