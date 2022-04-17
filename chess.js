@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "America's best chess players will return to the Saint Louis Chess Club to battle over the board on April 18-29 in a brand new and exciting tournament, the American Cup. With $300,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2022-announcement",
+         "pubDate" : "Sun, 17 Apr 2022 02:15:00 +0100",
+         "title" : "Starting Wendesday: the American Cup"
+      },
+      {
          "description" : " Day 3 of the 2022 O2C Doeberl Cup saw plenty of action, with the Premier, Major and Minor in full swing. The Under 1200 Tournament finished it's two day run, while the Saturday evening Kinnford Consulting Blitz attracted a record 136 players. After 6 rounds of the Premier, 3 GM's share the lead on 5/6. GM Daniel Fernandez (ENG) beat GM Bobby Cheng (AUS) in Round 5, before drawing with FM Chris Wallis in Round 6. Cheng bounced back from his round 5 loss, beating FM Dusan Stojic in the next round to also move to 5. GM Hrant Melkumyan was the third player to finish the day tied for first, drawing with GM Temur Kuybokarov and then beating IM Gary Lane. In the Major, there are 4 players tied for",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -26,14 +34,6 @@ news_feed (
          "title" : "Leaving Russia"
       },
       {
-         "description" : "The Fagernes Open is a 9-round open tournament taking place at the touristic valley of Valdres in Norway. After seven rounds, Alexander Donchenko, Aryan Chopra and Semen Mitusov are sharing the lead on 5&frac12; points. Round 8 starts Saturday, April 16, at 13.00 CEST. Follow the games live with computer analyses. | Photo: Tom Eriksen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fagernes-open-2022-live",
-         "pubDate" : "Sat, 16 Apr 2022 12:55:00 +0100",
-         "title" : "Fagernes Open, Round 8: Live"
-      },
-      {
          "description" : "Every chess player has a unique style of preparing - some like to study classics, some follow the latest updates, others rely heavily on engines. However, there is one common thread between most of the top elite-level players: they have all studied the classics. Thus, GM Sundararajan Kidambi decided to decode Jose Raul Capablanca's brilliance and showcased it with a few examples. He posed an important question: if the best of the best learned and got inspired by the studying the classics, why can't we do the same?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,20 +42,20 @@ news_feed (
          "title" : "Capablanca, the chess machine"
       },
       {
-         "description" : "Last weekend, the final rounds of the Czech Extraliga took place in a central event. Nový Bor had secured overall victory long before the end of the season. The team from Brno, which is always supported by sports presenter Inna Puhajkov&aacute;, finished in second place. | Photos: Vladimir Jagr",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/novy-bor-wins-czech-extraliga-2022",
-         "pubDate" : "Sat, 16 Apr 2022 09:00:00 +0100",
-         "title" : "Nový Bor wins the Czech Extraliga"
-      },
-      {
          "description" : "In the diagrammed position, White has just answered the typical KI advance 8...e5 with the space-gaining 9.d5. Black's Nc6 is attacked - where would you put it?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/test-your-king-s-indian-iq",
          "pubDate" : "Sat, 16 Apr 2022 09:00:00 +0100",
          "title" : "Test your King's Indian IQ"
+      },
+      {
+         "description" : "Last weekend, the final rounds of the Czech Extraliga took place in a central event. Nový Bor had secured overall victory long before the end of the season. The team from Brno, which is always supported by sports presenter Inna Puhajkov&aacute;, finished in second place. | Photos: Vladimir Jagr",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/novy-bor-wins-czech-extraliga-2022",
+         "pubDate" : "Sat, 16 Apr 2022 09:00:00 +0100",
+         "title" : "Nový Bor wins the Czech Extraliga"
       },
       {
          "description" : " The 2nd day of the 2022 O2C Doeberl Cup saw the start of the Major, Minor and Under 1200 events. Due to a few last minute withdrawals, visa problems, and travel issues, the tournament fell just short of last years record numbers, with around 225 players sitting down at the board. The Premier saw rounds 3 and 4 played, with GM Bobby Cheng holding the outright lead with 4/4. He was followed by GM's Daniel Fernandez and Hrant Melkumyan, with a large group of players on 3. There were a few upsets in this round, the most notable being a win for Harry Press over IM Junta Ikeda. The Major saw the first 2 rounds played, with a number of players on 2/2, including top seed Ryan Lane, and overseas vis",
