@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Levon Aronian won week 10 of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, besting GM Alexander Grischuk in the knockout final.&#38;nbsp; GM Hikaru Nakamura&#38;nbsp;won the Swiss tournament and made it to the semifinals along wi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-10-aronian-wins",
+         "pubDate" : "Sun, 17 Apr 2022 17:59:00 -0700",
+         "title" : "Aronian Clinches Knockout: Rapid Chess Championship Week 10"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski looks at two games played by Levon Aronian at the 2022 FIDE Grand Prix Berlin (third tournament). Levon had success, as his opponents Hikaru Nakamura and Leinier Dominguez accepted his Queen's Gambit. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-queens-gambit-again-levon-grandmasters-choice-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbn",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1530,14 +1538,6 @@ news_feed (
          "title" : "Berlin GP Final: Following theory"
       },
       {
-         "description" : "With clear victories in Friday&#39;s tiebreakers, American GMs&#38;nbsp;Hikaru Nakamura&#38;nbsp;and Wesley So were set to meet in the final of the third leg of the&#38;nbsp;2022 FIDE Grand Prix&#38;nbsp;series.&#38;nbsp;&#38;nbsp; The first game of the final, with So play...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-final-day-1",
-         "pubDate" : "Sat, 02 Apr 2022 11:44:00 -0700",
-         "title" : "Draw In Game 1: 2022 FIDE Grand Prix Berlin Leg 3, Final Day 1"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2024,14 +2024,6 @@ news_feed (
          "link" : "https://aicf.in/online-asian-nations-cup-under-14-team-chess-championship-2022-double-delight-for-india/",
          "pubDate" : "Mon, 28 Mar 2022 11:28:42 +0000",
          "title" : "Online Asian Nations Cup Under-14 Team Chess Championship-2022 : Double delight for India"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1664",
-         "pubDate" : "Mon, 28 Mar 2022 00:09:26 +0000",
-         "title" : "FIDE World Cup & Women's World Cup 2023 - Call for bids"
       }
    ]
 }
