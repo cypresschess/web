@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Gukesh won his first classical tournament of the year at the 48th edition of the La Roda International Open. He obtained an unbeaten 8/9 score to finish a half point ahead of the competition. Haik Martirosyan from Armenia secured second place as the only player who got 7&frac12;/9 points. Five players scored 7/9, with Praggnanandhaa and Raunak Sadhwani getting third and fourth places respectively on tiebreaks. | Photo: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-triumphs-at-la-roda-open-2022",
+         "pubDate" : "Mon, 18 Apr 2022 23:15:00 +0100",
+         "title" : "Gukesh triumphs at La Roda Open"
+      },
+      {
+         "description" : " <p class=\"lead\">In an <a href=\"https://www.vg.no/sport/i/G3Llvl/her-forklarer-carlsen-hvorfor-han-trolig-gir-fra-seg-vm-tittelen\">interview with VG</a>, a Norwegian news site, Magnus Carlsen, the undefeated World Chess Champion, gave the strongest indication to date that he will not defend his title, come the World Chess Championship match next year. But he can still change his mind. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/69D102F2-60FF-478B-8277-D9A23E7402A3.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen in London in 2018. He won his match against Fabiano Caruana.</div> </div> Our Norwegian is a bit rusty, but it'",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/magnus-carlsen-will-really-really-give-up-his-championship-title/",
+         "pubDate" : "Mon, 18 Apr 2022 21:18:33 +0000",
+         "title" : "Magnus Carlsen Will Really, Really Give Up His Championship Title, Maybe"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering discusses some of the tricky ideas when using the knight. Learn about forks, outposts, and smothered mate. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/knights-tale-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ghrPTwVf3Lg.jpg?itok=0-cth1sH\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1762,14 +1778,6 @@ news_feed (
          "title" : "FIDE Grand Prix Berlin: Nakamura and So face off in final"
       },
       {
-         "description" : "Opening videos: Robert Ris shows the latest trends in the Hennig-Schara Gambit. Mihail Marin presents a Fianchetto setup against the Gruenfeld and King's Indian. Total playing time of the videos: just under one hour. \"Lucky bag\" with over 80 analyses by Anish Giri, Nijat Abasov, Romain Edouard, Marie Sebag and many others. In \"The brilliancy\" between the new rapid chess champion Nodirbek Abdusattorov and world champion Magnus Carlsen - commented by Anish Giri! - with 1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.e4 Bb4 a trendy variation of the English Opening appeared on the board. ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. Available as a single issue or by subscription (6 is",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-extra-206",
-         "pubDate" : "Fri, 01 Apr 2022 16:30:00 +0100",
-         "title" : "New: ChessBase Magazine Extra #206"
-      },
-      {
          "description" : " <p class=\"lead\"> The tiebreaks of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> semifinals ended with Wesley So and Hikaru Nakamura winning both games against Tabatabaei and Mamedyarov respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-20.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220401150318_IMG_5848.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220401150238_IMG_5845.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictu",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1944,14 +1952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1669",
          "pubDate" : "Wed, 30 Mar 2022 19:04:17 +0000",
          "title" : "FIDE Grand Prix Berlin Semis: Round 1 Recap"
-      },
-      {
-         "description" : " <p class=\"lead\">The <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> semifinals ended with Wesley So winning against Amin Tabatabaei, and Hikaru Namamura drawing against Shakhriyar Mamedyarov. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-19.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220330154232_IMG_5618.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220330153721_IMG_5610.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/202203301",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/so-wins-the-first-game-of-the-gp-semifinals-against-tabatabaei/",
-         "pubDate" : "Wed, 30 Mar 2022 16:33:46 +0000",
-         "title" : "So wins the first game of the GP semifinals against Tabatabaei"
       },
       {
          "description" : " In 2019, at the tender age of 23 years old, I organized a Rapid Chess Tournament in Switzerland. I brought this up in a recent interview on 64: A Chess podcast and David asked me to write an article about it. So, here I am, this one is for you David! I hope this inspires [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/organize-a-chess-tournament/\">How To Organize A Chess Tournament (20'000$ Budget)</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
