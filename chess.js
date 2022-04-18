@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kindly find attached live games link for the MPL 31st National Under - 18 Open &#38; Girls Chess Championships 2022 ongoing on Dr. Mahalingam College of Engineering &#38; Technology,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-the-mpl-31st-national-under-18-open-girls-chess-championships-2022/",
+         "pubDate" : "Mon, 18 Apr 2022 05:52:39 +0000",
+         "title" : "live games link for the MPL 31st National Under - 18 Open & Girls Chess Championships 2022"
+      },
+      {
          "description" : "GM Levon Aronian won week 10 of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, besting GM Alexander Grischuk in the knockout final.&#38;nbsp; GM Hikaru Nakamura&#38;nbsp;won the Swiss tournament and made it to the semifinals along wi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
