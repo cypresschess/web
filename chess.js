@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Endgame Magic Show #190 Karsten M&uuml;ller looks at endgame highlights from the Bundesliga. On 9 and 10 of April the 16 teams in Germany's top league played rounds 3 and 4 of the current season, which led to a number of fascinating endgames which Karsten wants to share with his viewers. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-show-190-endgame-highlights-from-the-bundesliga",
+         "pubDate" : "Mon, 18 Apr 2022 18:00:00 +0100",
+         "title" : "Endgame Magic Show #190: Endgame highlights from the Bundesliga"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90913994.cms\" />The 100-day countdown for the 44th Chess Olympiad, to be held here later this year, began on Monday with the legendary Viswanathan Anand terming the tournament a life-time opportunity for youngsters to catch a glimpse of their idols.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1666,6 +1674,14 @@ news_feed (
          "title" : "Challengers challenge I"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90606020.cms\" />Sports administration could be Indian chess legend Viswanathan Anand's next stopover. The five-time world champion on Friday confirmed his involvement in current FIDE president Arkady Dvorkovich's re-election campaign, though ruling himself out of the contest for any office-bearer's post.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anands-new-innings-a-role-in-fide/articleshow/90606020.cms",
+         "pubDate" : "Sat, 02 Apr 2022 06:40:33 +0000",
+         "title" : "Viswanathan Anand's new innings - a role in FIDE?"
+      },
+      {
          "description" : " Share!34 Business Meets Kids kicks off a spring event featuring former Real Madrid star Esteban Granero as he will participate in a tandem chess match with youth at the Marbella Golf Club. Swedish Grandmaster Pontus Carlsson is the brainchild of Business Meets Kids and has been holding events since 2018. In a couple of weeks The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/\">Business Meets Chess &#038; Kids Spring 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1752,14 +1768,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-chessbase-magazine-extra-206",
          "pubDate" : "Fri, 01 Apr 2022 16:30:00 +0100",
          "title" : "New: ChessBase Magazine Extra #206"
-      },
-      {
-         "description" : "Rashid Nezhmetdinov was largely considered to be one of the sharpest players in the chess world, although he never reached the Grandmaster title. Certainly, it is worth to spend a few days in the Mega Database browsing through his 500+ games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-19",
-         "pubDate" : "Fri, 01 Apr 2022 16:15:00 +0100",
-         "title" : "Trent's Tactics - Outrageous moves by Nezhmetdinov"
       },
       {
          "description" : " <p class=\"lead\"> The tiebreaks of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> semifinals ended with Wesley So and Hikaru Nakamura winning both games against Tabatabaei and Mamedyarov respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-20.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220401150318_IMG_5848.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220401150238_IMG_5845.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictu",
@@ -2016,14 +2024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1667",
          "pubDate" : "Tue, 29 Mar 2022 10:12:15 +0000",
          "title" : "FIDE Podcast: A new episode featuring Hou Yifan released"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1665",
-         "pubDate" : "Mon, 28 Mar 2022 17:33:54 +0000",
-         "title" : "Richard Rapport and Hikaru Nakamura qualify for Candidates 2022"
       }
    ]
 }
