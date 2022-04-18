@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90913994.cms\" />The 100-day countdown for the 44th Chess Olympiad, to be held here later this year, began on Monday with the legendary Viswanathan Anand terming the tournament a life-time opportunity for youngsters to catch a glimpse of their idols.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-lifetime-opportunity-for-youngsters-says-viswanathan-anand-as-100-day-countdown-for-chess-olympiad-begins/articleshow/90913994.cms",
+         "pubDate" : "Mon, 18 Apr 2022 11:59:51 +0000",
+         "title" : "A lifetime opportunity for youngsters, says Anand as 100-day countdown for Chess Olympiad begins"
+      },
+      {
+         "description" : " GM Hrant Melkumyan (Armenia) is the winner of the 2022 O2C Doeberl Cup, scoring 7.5/8, after winning his last round game against IM Igor Bjelobrk. He was tied for 1st with GM Temur Kuybokarov going into the final rounds, but a draw between Kuybokarov, and GM Daniel Fernandez (ENG) saw Kuybokarov finish 2nd (on 7 points), and Fernandez tie for 3rd with IM Rishi Sardana. This was the 2nd win for Melkumyan, who had previously won in 2019, but the first as a local Canberran, having been resident here for the past 2 years. He becomes the 2nd local player to win the event, the first being Tony Weidenhofer in 1973. Melkumyan took home $5000 in prize money, with Kuybokarov picking up $3000 for 2nd.",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-win-for-gm-hrant.html",
+         "pubDate" : "Mon, 18 Apr 2022 11:49:00 +0000",
+         "title" : "2022 O2C Doeberl Cup - Win for GM Hrant Melkumyan"
+      },
+      {
          "description" : "Krishnan Sasikiran was one of three players who entered the final round of the Fagernes Open a half point behind sole leader Aryan Chopra. Sasikiran beat Alexander Donchenko with black to catch up with Aryan, who drew Frode Urkedal on top board. Out of the two Indians, it was Sasikiran who claimed the title, as he had the better tiebreak score at the end of the event. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2024,22 +2040,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/abhijeet-gupta-back-in-joint-lead-at-delhi-international-open-chess/articleshow/90500835.cms",
          "pubDate" : "Mon, 28 Mar 2022 14:44:42 +0000",
          "title" : "Abhijeet Gupta back in joint lead at Delhi International Open Chess"
-      },
-      {
-         "description" : " Finding the right time to resign after it has all gone wrong is a fine art. I usually play on for a little longer than I should, hoping that something might turn up. On the other hand, some players (especially strong ones) will throw in the towel early especially when playing even stronger opponents. Jan Hein Donner went this way after misplaying the opening against Smyslov back in 1965. The assessment of the position isn't that terrible (White ends up a pawn ahead), but Donner may not have have wished to spend the rest of the day defending a position that would eventually be lost. <br /> <b>Smyslov,Vassily - Donner,Jan Hein [E06]</b><br />Capablanca Memorial Havana (9), 1965 <script>new Pg",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/pulling-pin.html",
-         "pubDate" : "Mon, 28 Mar 2022 14:02:00 +0000",
-         "title" : "Pulling the pin"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90497954.cms\" />Reigning national champion Arjun Erigaisi will be the star attraction at the $1,00,000 prize money MPL Indian Chess Tour, an elite online event beginning on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-to-headline-indian-chess-tour/articleshow/90497954.cms",
-         "pubDate" : "Mon, 28 Mar 2022 12:40:02 +0000",
-         "title" : "Arjun Erigaisi to headline Indian Chess Tour"
       }
    ]
 }
