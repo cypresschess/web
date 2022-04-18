@@ -1666,14 +1666,6 @@ news_feed (
          "title" : "Challengers challenge I"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90606020.cms\" />Sports administration could be Indian chess legend Viswanathan Anand's next stopover. The five-time world champion on Friday confirmed his involvement in current FIDE president Arkady Dvorkovich's re-election campaign, though ruling himself out of the contest for any office-bearer's post.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anands-new-innings-a-role-in-fide/articleshow/90606020.cms",
-         "pubDate" : "Sat, 02 Apr 2022 06:40:33 +0000",
-         "title" : "Viswanathan Anand's new innings - a role in FIDE?"
-      },
-      {
          "description" : " Share!34 Business Meets Kids kicks off a spring event featuring former Real Madrid star Esteban Granero as he will participate in a tandem chess match with youth at the Marbella Golf Club. Swedish Grandmaster Pontus Carlsson is the brainchild of Business Meets Kids and has been holding events since 2018. In a couple of weeks The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/\">Business Meets Chess &#038; Kids Spring 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2032,14 +2024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1665",
          "pubDate" : "Mon, 28 Mar 2022 17:33:54 +0000",
          "title" : "Richard Rapport and Hikaru Nakamura qualify for Candidates 2022"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90500835.cms\" />Defending champion Abhijeet Gupta defeated Iran's Poormosavi Seyed Kian in the penultimate round to take a joint lead in the 19th Delhi International open chess tournament on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/abhijeet-gupta-back-in-joint-lead-at-delhi-international-open-chess/articleshow/90500835.cms",
-         "pubDate" : "Mon, 28 Mar 2022 14:44:42 +0000",
-         "title" : "Abhijeet Gupta back in joint lead at Delhi International Open Chess"
       }
    ]
 }
