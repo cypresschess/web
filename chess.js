@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Krishnan Sasikiran was one of three players who entered the final round of the Fagernes Open a half point behind sole leader Aryan Chopra. Sasikiran beat Alexander Donchenko with black to catch up with Aryan, who drew Frode Urkedal on top board. Out of the two Indians, it was Sasikiran who claimed the title, as he had the better tiebreak score at the end of the event. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fagernes-open-2022-r9",
+         "pubDate" : "Mon, 18 Apr 2022 12:20:00 +0100",
+         "title" : "Sasikiran beats Donchenko to clinch Fagernes Open"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1693",
+         "pubDate" : "Mon, 18 Apr 2022 09:57:57 +0000",
+         "title" : "FIDE Trainer Seminar for Spanish Americas held online"
+      },
+      {
+         "description" : " Arkady Dvorkovich, 50, a former Russian deputy-prime minister, is having a really, really hard term as a FIDE president. He had to steer the organization during the Covid pandemic and now is campaigning for the second term amid the war with Ukraine. He is the only Russian who heads an international sports organization. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/00F80262-9130-40CD-B942-0F803BC9A1B5.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Arkady Dvorkovich in Moscow</div> </div> Last week, the Swiss Ministry of Sport <a href=\"https://www.swissinfo.ch/eng/switzerland-wants-russian-and-belarusians-excluded-from-sports-federations",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/pressure-mounts-on-fide-president-not-to-seek-re-election/",
+         "pubDate" : "Mon, 18 Apr 2022 09:02:52 +0000",
+         "title" : "Pressure Mounts on FIDE President Not to Seek Re-election"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90909002.cms\" /> Young Indian Grandmaster D Gukesh emerged victorious in the 48th La Roda International Open Chess tournament here, scoring eight points from nine rounds.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-title-at-la-roda-international-tourney/articleshow/90909002.cms",
+         "pubDate" : "Mon, 18 Apr 2022 08:35:16 +0000",
+         "title" : "Indian GM Gukesh wins title at La Roda International tourney"
+      },
+      {
          "description" : "Kindly find attached live games link for the MPL 31st National Under - 18 Open &#38; Girls Chess Championships 2022 ongoing on Dr. Mahalingam College of Engineering &#38; Technology,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1762,14 +1794,6 @@ news_feed (
          "title" : "FIDE Grand Prix in Berlin: Semi-finals Tie-breaks"
       },
       {
-         "description" : "Two years ago, to the day, we reported that Garry Kasparov had launched a project called \"Corochess\", introducing a new chess table that would enforce full social distancing during the pandemic. Now a Russian leader has taken it a step further. His table is designed to ensure that he cannot be physically attacked during a game. Take a look at what his future mastches will look like.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chess-table-to-ensure-security",
-         "pubDate" : "Fri, 01 Apr 2022 12:05:00 +0100",
-         "title" : "New chess table to ensure security"
-      },
-      {
          "description" : " We'll look at the position from last week and examine the idea of \"the squares left behind\" in greater detail this week. I know there's a lot being thrown at you in terms of analyzing a given position, which is known as positional analysis in chess. However, the greater your ability to look at a <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-six/\">A Foundation for Beginners Fifty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">Th",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1922,14 +1946,6 @@ news_feed (
          "title" : "How To Organize A Chess Tournament (20'000$ Budget)"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/VqkA7MlAf08?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-semi-final/",
-         "pubDate" : "Wed, 30 Mar 2022 13:15:05 +0000",
-         "title" : "FIDE Grand Prix in Berlin: Semi-Final"
-      },
-      {
          "description" : " Only a few days before the 2022 Dubbo Open starts. The field is starting to take shape, and at this stage there are over 30 players entered. Current top seed is Cameron McGowan (2233), with two of Australian leading female players WIM Biljana Dekic and WFM Alana Chibnall seeded 2nd and 3rd. The tournament starts on Saturday 2nd April at 10:30 am at the Dubbo RSL Club. It runs for 6 rounds (3 Saturday and 3 Sunday) and has a 1st prize of $800. The current list of entries can be <a href=\"http://tournaments.streetchess.net/dubbo2022/www2022DubboOpen/\">seen here</a> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2024,14 +2040,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-to-headline-indian-chess-tour/articleshow/90497954.cms",
          "pubDate" : "Mon, 28 Mar 2022 12:40:02 +0000",
          "title" : "Arjun Erigaisi to headline Indian Chess Tour"
-      },
-      {
-         "description" : "India B team consists of Md Imran, Sharon Rafael, Mritunjay Mahadevan, Jaivardhan Raj, Rosh Jain and non-playing Captain TJ Suresh Kumar won the Online Asian",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/online-asian-nations-cup-under-14-team-chess-championship-2022-double-delight-for-india/",
-         "pubDate" : "Mon, 28 Mar 2022 11:28:42 +0000",
-         "title" : "Online Asian Nations Cup Under-14 Team Chess Championship-2022 : Double delight for India"
       }
    ]
 }
