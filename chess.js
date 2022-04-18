@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering discusses some of the tricky ideas when using the knight. Learn about forks, outposts, and smothered mate. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/knights-tale-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ghrPTwVf3Lg.jpg?itok=0-cth1sH\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/knights-tale-beginner-breakdown",
+         "pubDate" : "Mon, 18 Apr 2022 19:30:44 +0000",
+         "title" : "A Knight's Tale | Beginner Breakdown"
+      },
+      {
          "description" : "In his Endgame Magic Show #190 Karsten M&uuml;ller looks at endgame highlights from the Bundesliga. On 9 and 10 of April the 16 teams in Germany's top league played rounds 3 and 4 of the current season, which led to a number of fascinating endgames which Karsten wants to share with his viewers. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -864,14 +872,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-9-nakamura-wins",
          "pubDate" : "Sun, 10 Apr 2022 16:35:00 -0700",
          "title" : "Nakamura Wins Knockout: Rapid Chess Championship Week 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Hungaski discusses and analyzes a game played between Levon Aronian and Andrey Esipenko from the the third tournament of the FIDE Grand Prix in Berlin. Originally on Twitch<br /> 2022.03.28<br /> Levon Aronian vs Andrey Esipenko, FIDE Grand Prix Leg 3 (2022): E51 Nimzo-Indian, 4.e3 e8g8, 5.Nf3 d7d5<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2259810\">https://www.chessgames.com/perl/chessgame?gid=2259810</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hr",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-fide-grand-prix-leg-3-aronian-vs-esipenko-puzzlers-paradise-gm-robert-hungaski",
-         "pubDate" : "Sun, 10 Apr 2022 22:23:55 +0000",
-         "title" : "2022 FIDE Grand Prix Leg 3: Aronian vs. Esipenko | Puzzler's Paradise - GM Robert Hungaski"
       },
       {
          "description" : "Lukasz Jarmula had taken the sole lead at the Reykjav&iacute;k Open by beating Hans Niemann in round 4. The Polish grandmaster drew top seed Pouya Idani in round 5 to remain in sole first place, but a loss to Danish GM Mads Andersen has now left him sharing second place a half point behind the leaders. Besides Andersen, Johann Hjartarson, Praggnanandhaa (pictured) and Max Warmerdam also won in Sunday's early round and are now sharing the lead on 5/6 points. | Photo: Thorsteinn Magnusson",
