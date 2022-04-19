@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With over 1,300 articles, the Opening Encyclopaedia 2022 covers the entire range of openings. A huge fund of ideas and high-quality analyses! In the new edition, the number of articles has increased - 66 new opening articles and 388 new opening overviews have been added compared to the previous year. The following article shows you how to \"Find Ideas for your Repertoire\"!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/peek-insight-the-chessbase-opening-encyclopedia-2022",
+         "pubDate" : "Tue, 19 Apr 2022 19:00:00 +0100",
+         "title" : "How to find ideas for your repertoire: The ChessBase Opening Encyclopedia 2022"
+      },
+      {
+         "description" : "The European School Chess Championship 2022 takes place from 20th-30th April in Rhodes, Greece. The event kicks off on Thursday, 21st of April, with the Opening ceremony which will be held shortly before the start of the first round. More than 170 players from more than 22 European federations registered for the event which will be played in&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2022-starts/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-school-chess-championship-2022-starts/",
+         "pubDate" : "Tue, 19 Apr 2022 17:05:03 +0000",
+         "title" : "European School Chess Championship 2022 starts"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1695",
          "pubDate" : "Tue, 19 Apr 2022 15:16:07 +0000",
          "title" : "Queens' Online Chess Festival 2022: Registration opens"
+      },
+      {
+         "description" : " The American Cup takes place in Saint Louis 20th to 30th April 2022. The format is double elimination knockout. This is going to be quite tricky to put into game files but basically to be eliminated you have to lose two matches, even in the final one of the finalists will have lost a match and the other won't and so there's potentially a second chance for one of the finalists if they lose. Players: Aronian, Caruana, So, Dominguez, Shankland, Sevian, Xiong and Robson. There's also a women's event with Krush, Zatonskih, Tsolakidou, Tokhirjonova, Nemcova, Alice Lee, Abrahamyan and Ruiyang Yan. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2022",
+         "pubDate" : "Tue, 19 Apr 2022 18:48:00 +0400",
+         "title" : "American Cup 2022 - "
       },
       {
          "description" : "In a new interview published by the Norwegian newspaper Verdens Gang, Magnus Carlsen again talks about why he is seriously considering not playing another match for the World Championship title. \"I will make that decision later. But if there are some who expect and hope that I will say yes to playing, then I have to prepare them for a disappointment\", said the long-time world number one. | Photo: Anna Shtourman / FIDE",
@@ -1258,14 +1282,6 @@ news_feed (
          "title" : "Matthias Bl&uuml;baum wins European Championship 2022!"
       },
       {
-         "description" : "The European Individual Chess Championship 2022 concluded yesterday in Terme Catez, Slovenia. After 11 played rounds with more than 300 participants, German Grandmaster Matthias Bluebaum (GER, 2642) won the Championship scoring 8 points. Bluebaum maintained the leadership from the 5th round and in the end tied for the first place with Sargissian Gabrial (ARM, 2681) who had the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/matthias-bluebaum-wins-european-individual-chess-championship-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/matthias-bluebaum-wins-european-individual-chess-championship-2022/",
-         "pubDate" : "Thu, 07 Apr 2022 08:37:28 +0000",
-         "title" : "Matthias Bluebaum wins European Individual Chess Championship 2022"
-      },
-      {
          "description" : "Follow these links &#8212; https://chess24.com/en/watch/live-tournaments/ecf-womens-norm-event-2022#live https://chess24.com/en/watch/live-tournaments/1st-she-plays-to-win-international-2022#live (image courtesy of Netflix)",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1752,14 +1768,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/nakamura-overtakes-carlsen-as-rapid-no-1",
          "pubDate" : "Sat, 02 Apr 2022 09:10:08 +0000",
          "title" : "Nakamura overtakes Carlsen as rapid no. 1"
-      },
-      {
-         "description" : "In the diagrammed position, Black has full control over the long diagonal and the e-file. Now it's time to turn these factors into something concrete. How would you proceed?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/challengers-challenge-i",
-         "pubDate" : "Sat, 02 Apr 2022 09:00:00 +0100",
-         "title" : "Challengers challenge I"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90606020.cms\" />Sports administration could be Indian chess legend Viswanathan Anand's next stopover. The five-time world champion on Friday confirmed his involvement in current FIDE president Arkady Dvorkovich's re-election campaign, though ruling himself out of the contest for any office-bearer's post.",
