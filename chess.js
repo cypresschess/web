@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In knight endgames activity, dominance and zugzwang often play a major role. The diagrammed position is from a game between Vladislav Artemiev and Magnus Carlsen from the Airthings Masters Tournament 2022. How did the World Champion force the win?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-magic",
+         "pubDate" : "Tue, 19 Apr 2022 09:00:00 +0100",
+         "title" : "Magnus Magic"
+      },
+      {
+         "description" : "Arjun Erigaisi, who recently won Delhi Chess 2022 and won the MPL Indian Chess Tour first leg, is the top seeded player in Menorca Open 2022. The tournament is going to take place 20-24 April and is going to feature impressive Indian participation GM Nihal Sarin, GM Gukesh, GM Adhiban, GM Raunak Sadhwani, GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/arjun-erigaisi-is-top-seeded-in-menorca/",
+         "pubDate" : "Tue, 19 Apr 2022 06:50:44 +0000",
+         "title" : "Arjun Erigaisi is top seeded in Menorca"
+      },
+      {
+         "description" : "GM Hrant Melkumyan is the winner of the 2022 Doeberl Cup. Melkumyan secured the gold with 7,5/9, ahead of Temur Kuybokarov with 7,0/9. Here are the winners by category PREMIER 1st Place:&#160;GM Hrant Melkumyan (ARM) 7.5/9 Best Female:&#160;WGM Jilin Zhang (AUS)Bedi Cup (Best Australian Junior):&#160;Ryder Testolin (AUS)U2000 Medallion:&#160;CM Lalit Prasad (AUS)U2200 Medallion:&#160;Matthew Clarke (AUS)Fighting Fund:&#160;IM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-hrant-melkumyan-wins-doeberl-cup-2022/",
+         "pubDate" : "Tue, 19 Apr 2022 06:07:49 +0000",
+         "title" : "GM Hrant Melkumyan wins Doeberl Cup 2022"
+      },
+      {
+         "description" : "GM Jules Moussard is the winner of the 2022 edition of Open Internacional de ajedrez Semana Santa en Torrevieja. The French Grandmaster collected 8,0/9, half a point ahead of GM Karen Grigoryan and GM Eduardo Iturrizaga. A total of 450 participants entered the event, one of the largest chess opens in recent times. Final standings []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-jules-moussard-is-the-winner-of-torrevieja-2022/",
+         "pubDate" : "Tue, 19 Apr 2022 05:47:53 +0000",
+         "title" : "GM Jules Moussard is the winner of Torrevieja 2022"
+      },
+      {
+         "description" : "He's back! Jan Gustafsson, a key member of Team Magnus for the last three World Championship matches, will be answering your questions in a new Jan's Opening Clinic. chess24 Premium members get to ask Jan any question on chess openings and Jan will then film a series of shows where he tackles each question in turn. Simply leave a question under this article to get some personal tips from a chess openings guru!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/jan-s-opening-clinic-27",
+         "pubDate" : "Tue, 19 Apr 2022 04:03:37 +0000",
+         "title" : "Jan's Opening Clinic 27"
+      },
+      {
          "description" : " IM Christopher Yoo was victorious in his round of 16 match today against GM Rameshbabu Praggnanandhaa in the&#38;nbsp;2022 Junior Speed Chess Championship&#38;nbsp;presented by SIG. Few points separated the players for the majority of the match, but i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -650,14 +690,6 @@ news_feed (
          "title" : "Caleb at the 2022 Saint Louis Open | Road to 2000 - NM Caleb Denby"
       },
       {
-         "description" : "An eventful Kvika Reykjavik Open came to an end yesterday as 245 players from 39 countries played their final moves of the event. The Indian sensation&#160;Praggnanandhaa&#160;was the soler winner clocking in with an impressive 7&#xBD; pionts in the 9 rounds. The prize giving ceremony was held at the Reykjavik Ciy Hall and&#160;Pawel Bartoszek, member of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/praggnanandhaa-wins-reykjavik-chess-2022/",
-         "pubDate" : "Tue, 12 Apr 2022 23:12:00 +0000",
-         "title" : "Praggnanandhaa wins Reykjavik Chess 2022"
-      },
-      {
          "description" : "Praggnanandhaa entered the final round of the Reykjavik Open sharing the lead with Max Warmerdam and Mads Andersen. Warmerdam and Andersen played on top board and signed a 16-move draw, while Pragg's position deteriorated slowly but surely in his game against Gukesh. The latter eventually reached a winning position, but back-to-back blunders not only gave away his advantage but even allowed his opponent to get the full point. Thus, 16-year-old Praggnanandhaa became the ourtight winner of the event! | Photo: Hallfr&iacute;ður Sigurðard&oacute;ttir (from round 4)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1032,22 +1064,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-brilliancy",
          "pubDate" : "Fri, 08 Apr 2022 13:40:00 +0100",
          "title" : "\"The brilliancy\""
-      },
-      {
-         "description" : "Norway Chess 2022 is going to take place May 31st to June 10th in Stavanger. It is going to be a 10 player round robin with Magnus Carlsen (who recently won Airthings Masters and Charity Chess Cup), Richard Rapport (who won the Grand Prix Belgrade and qualified for the Candidates Chess 2022), Wesley So (recent []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/norway-chess-2022/",
-         "pubDate" : "Fri, 08 Apr 2022 11:59:04 +0000",
-         "title" : "Norway Chess 2022"
-      },
-      {
-         "description" : "Matthias Bluebaum is the winner of the European Individual Chess Championship 2022 that concluded in Terme Catez, Slovenia. After 11 played rounds with more than 300 participants, German Grandmaster Matthias Bluebaum (GER, 2642) won the Championship scoring 8 points. Bluebaum maintained the leadership from the 5th round and in the end tied for the first []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/matthias-bluebaum-is-the-winner-of-eicc-2022/",
-         "pubDate" : "Fri, 08 Apr 2022 11:25:07 +0000",
-         "title" : "Matthias Bluebaum is the winner of EICC 2022"
       },
       {
          "description" : " <p class=\"lead\">GM Wesley So and Lotis Key give an exclusive interview to Dina Belenkaya on chess path, how they meet each other, the necessity of quitting social media and more. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/XyJu4O1OnzQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -1722,14 +1738,6 @@ news_feed (
          "title" : "Berlin GP: Nakamura and So win tiebreakers, reach final"
       },
       {
-         "description" : "In this week's edition of the Power Play Show, GM Daniel King focuses on a battle in the main line of the Rossolimo between Jan-Krzysztof Duda and Magnus Carlsen. Outstanding tactical finishes from the Charity Cup are also presented! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-rossolimo-main-line",
-         "pubDate" : "Fri, 01 Apr 2022 20:25:00 +0100",
-         "title" : "Daniel King's Power Play Show: The main line of the Rossolimo"
-      },
-      {
          "description" : "The former world champion is slowly transitioning from strictly being a player to dabbling in a wider variety of roles.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1807,7 +1815,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/david-anderton-rip/",
          "pubDate" : "Fri, 01 Apr 2022 13:31:16 +0000",
-         "title" : "David Anderton RIP (updated)"
+         "title" : "David Anderton RIP (updated 19/4/22)"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/bQBnnmYT5Fs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -1912,14 +1920,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/hosting-ukrainian-refugees/",
          "pubDate" : "Thu, 31 Mar 2022 13:06:53 +0000",
          "title" : "Hosting Ukrainian refugees"
-      },
-      {
-         "description" : "Adhiban takes on Sethuraman and Harika takes on Arjun Erigaisi as the $100,000 MPL Indian Chess Tour begins today, Thursday 31 March at 15:30 IST (06:00 ET, 12:00 CEST). 16 players are competing in the first of four online chess tournaments that will qualify each winner both to the MPL Indian Chess Tour final and to an event on the $1.6 million Meltwater Champions Chess Tour. There are 15 rounds over the next four days, with all the action broadcast live here on chess24.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mpl-indian-chess-tour-starts-today",
-         "pubDate" : "Thu, 31 Mar 2022 09:17:12 +0000",
-         "title" : "MPL Indian Chess Tour starts today"
       },
       {
          "description" : " There were two shows this week, on Tuesday and Wednesday. From next week we'll be running just one on Tuesdays as it's not easy to keep up with this phrenetic rate of production! Tuesday On Tuesday we had another guest, the former British Champion Paul Littlewood. Paul showed us some of him memorable games and <a href=\"https://chessimprover.com/master-chess-web-show-7/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (7)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-7/\">Master Chess Web Show (7)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
