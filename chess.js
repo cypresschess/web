@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard walks through great attacking games, and identifies the moments to pounce. 2022.04.19 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-masterpieces-moment-go-it-grandmasters-choice-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LtkOnIxuE9o.jpg?itok=jtIJAaYG\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/attacking-masterpieces-moment-go-it-grandmasters-choice-gm-romain-%C3%A9douard",
+         "pubDate" : "Tue, 19 Apr 2022 22:31:50 +0000",
+         "title" : "Attacking Masterpieces: The Moment To Go For It | Grandmaster's Choice - GM Romain Édouard"
+      },
+      {
          "description" : "With over 1,300 articles, the Opening Encyclopaedia 2022 covers the entire range of openings. A huge fund of ideas and high-quality analyses! In the new edition, the number of articles has increased - 66 new opening articles and 388 new opening overviews have been added compared to the previous year. The following article shows you how to \"Find Ideas for your Repertoire\"!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -920,14 +928,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-jacobson-nesterov",
          "pubDate" : "Mon, 11 Apr 2022 15:46:01 -0700",
          "title" : "Jacobson Dispatches Nesterov: 2022 Junior Speed Chess Championship Round Of 16"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Robert Hungaski shows some brilliant moves of his own from a game in Saint Louis against Sam Khanin, and another against Diego Valerga from Montevideo 2022. Originally on Twitch<br /> 2022.03.28<br /> Semen Khanin vs Robert Andrew Hungaski, Spring Chess Classic (2022): C11 French, Steinitz, Boleslavsky variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2256500\">https://www.chessgames.com/perl/chessgame?gid=2256500</a><br /> Robert Hungaski vs. Diego Valerga, 2022: E25 Nimzo-Indian, Saemisch, Romanovsky variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/roberts-brilliancy-over-khanin-double-exclam-gm-robert-hungaski",
-         "pubDate" : "Mon, 11 Apr 2022 22:25:18 +0000",
-         "title" : "Robert's Brilliancy over Khanin | Double Exclam!! - GM Robert Hungaski"
       },
       {
          "description" : "In Karsten M&uuml;ller's \"Endgame Magic Show #189\" Karsten and Arne K&auml;hler look at rook endings, and take a particularly close look at the rook endgame 4 vs 3 pawns on one side to show important drawing formations. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -2000,14 +2000,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/03/dubbo-2022.html",
          "pubDate" : "Wed, 30 Mar 2022 12:54:00 +0000",
          "title" : "Dubbo 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1668",
-         "pubDate" : "Tue, 29 Mar 2022 19:40:59 +0000",
-         "title" : "FIDE Grand Prix Berlin: So and Mamedyarov advance to semifinals"
       }
    ]
 }
