@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " IM Christopher Yoo was victorious in his round of 16 match today against GM Rameshbabu Praggnanandhaa in the&#38;nbsp;2022 Junior Speed Chess Championship&#38;nbsp;presented by SIG. Few points separated the players for the majority of the match, but i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-round-of-16-praggnanandhaa-yoo",
+         "pubDate" : "Mon, 18 Apr 2022 18:12:00 -0700",
+         "title" : "Yoo Eliminates Pragg: 2022 Junior Speed Chess Championship Round Of 16"
+      },
+      {
          "description" : "Gukesh won his first classical tournament of the year at the 48th edition of the La Roda International Open. He obtained an unbeaten 8/9 score to finish a half point ahead of the competition. Haik Martirosyan from Armenia secured second place as the only player who got 7&frac12;/9 points. Five players scored 7/9, with Praggnanandhaa and Raunak Sadhwani getting third and fourth places respectively on tiebreaks. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1544,14 +1552,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/second-draw-in-the-fide-grand-prix-finals/",
          "pubDate" : "Sun, 03 Apr 2022 16:08:37 +0000",
          "title" : "Second Draw in the FIDE Grand Prix finals"
-      },
-      {
-         "description" : "American GMs&#38;nbsp;Hikaru Nakamura&#38;nbsp;and Wesley So also drew their second game in the final of the third and final leg of the&#38;nbsp;2022 FIDE Grand Prix. The players quickly repeated moves in a line in the Berlin Ruy Lopez which they have played ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-final-day-2",
-         "pubDate" : "Sun, 03 Apr 2022 08:06:00 -0700",
-         "title" : "Tiebreaks Reached: 2022 FIDE Grand Prix Berlin Leg 3, Final Day 2"
       },
       {
          "description" : "It can be confusing when the opponent's pieces don't go where you were expecting them to go. After looking at a couple of games from the recent Grand Prix by Amin Tabatabaei, Jon Speelman decided to write about unexpected defensive moves! | Pictured: Murray Chandler, Jonathan Speelman and Jonathan Mestel at the British Zonal in February 1987",
