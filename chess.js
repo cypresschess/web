@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1695",
+         "pubDate" : "Tue, 19 Apr 2022 15:16:07 +0000",
+         "title" : "Queens' Online Chess Festival 2022: Registration opens"
+      },
+      {
+         "description" : "In a new interview published by the Norwegian newspaper Verdens Gang, Magnus Carlsen again talks about why he is seriously considering not playing another match for the World Championship title. \"I will make that decision later. But if there are some who expect and hope that I will say yes to playing, then I have to prepare them for a disappointment\", said the long-time world number one. | Photo: Anna Shtourman / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-interview-vg-april-2022",
+         "pubDate" : "Tue, 19 Apr 2022 15:35:10 +0100",
+         "title" : "Carlsen: \"I am not closer to playing another match for the title\""
+      },
+      {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-56/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (56)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-56/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (56)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-56/",
+         "pubDate" : "Tue, 19 Apr 2022 13:51:47 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (56)"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/76ff4def-b130-4bac-9654-71451340f403/Ali2.jpg\" data-image-dimensions=\"410x369\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"625db3bfb239a401574b23df\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/76ff4def-b130-4bac-9654-71451340f403/Ali2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by John Upham, courtesy of <a href=\"https://britishchessnews.com/2020/01/20/happy-birthday-im-ali-mortazavi-20-i-1971/\">British Chess News </a>",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/4/18/ep-275-im-ali-mortazavi",
+         "pubDate" : "Tue, 19 Apr 2022 13:17:41 +0000",
+         "title" : "EP 275- IM Ali Mortazavi- A CEO and Successful Stock Investor on how the Challenges of Chess Help Everything Else Seem Easier"
+      },
+      {
+         "description" : "&#34;If anyone expects or hopes that I will say yes, I have to prepare them for disappointment,&#34; said Magnus Carlsen in an&#38;nbsp;interview with Norway&#39;s biggest newspaper on Monday. The world champion repeated his earlier statements that he is not sure...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-reiterates-uncertainty-of-defending-world-title",
+         "pubDate" : "Tue, 19 Apr 2022 05:37:00 -0700",
+         "title" : "Carlsen Reiterates Uncertainty Of Defending World Title"
+      },
+      {
+         "description" : "The Chess Academy of Armenia organizes four international chess events during the Summer in Armenia: 13th Karen Asrian Memorial (6th-16th June, Yerevan, Armenia) 1st International Youth Chess Festival (17th-26th June, Yerevan, Armenia) Chess Summer Camp with renowned chess players and Grandmasters (29th June 6th July, Aghveran, Armenia) Stepan Avagyan International Open Chess Tournament (7th-16th July, Jermuk, Armenia)&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/international-chess-events-in-armenia/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/international-chess-events-in-armenia/",
+         "pubDate" : "Tue, 19 Apr 2022 12:02:53 +0000",
+         "title" : "International Chess Events in Armenia"
+      },
+      {
          "description" : "The Spanish town of Torrevieja, located on the Costa Blanca in the province of Alicante, hosted the sixth edition of the Open \"Semana Santa\" this Easter weekend. French grandmaster Jules Moussard won the event, as the only player among the 400+ participants who scored 8/9 points. Karen Grigoryan from Armenia and Eduardo Iturrizaga, who recently transferred to the Spanish federation, finished second and third respectively. | Photos: Patricia Claros Aguilar",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1306,14 +1354,6 @@ news_feed (
          "title" : "Meet him in this stream!"
       },
       {
-         "description" : "To: European National Chess Federations Re: Invitation for the ECU General Assembly and the ECU Elections 2022 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly and the ECU Elections to be held in Chennai, India&#160;on 6th&#160;&#160;of August 2022. According to the published schedule of the FIDE Congress 2022 in Chennai,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-general-assembly-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-general-assembly-2022/",
-         "pubDate" : "Wed, 06 Apr 2022 09:07:28 +0000",
-         "title" : "ECU GENERAL ASSEMBLY 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1488,14 +1528,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/hikaru-nakamura-triumphs-in-berlin/",
          "pubDate" : "Mon, 04 Apr 2022 16:49:20 +0000",
          "title" : "Hikaru Nakamura Triumphs in Berlin"
-      },
-      {
-         "description" : "GM Parham Maghsoodloo was the winner of the eighth week of the&#38;nbsp;2022 Rapid Chess Championship tournament presented by Coinbase, emerging victorious from an action-packed final against GM Jeffery Xiong. Maghsoodloo was also able to top the Sw...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-8-maghsoodloo-wins",
-         "pubDate" : "Mon, 04 Apr 2022 08:55:00 -0700",
-         "title" : "Rapid Chess Championship Week 8: Maghsoodloo Wins Swiss And Knockout"
       },
       {
          "description" : "The Good Knight is a popular chess pub in Oslo that has received worldwide attention and is frequented by chess amateurs, grandmasters, the world chess champion and even Hollywood stars. On the new episode of The Late Knight Show the founder Kristoffer Gressli shares the inside story of how it all started and how it's going.",
@@ -1746,14 +1778,6 @@ news_feed (
          "title" : "Business Meets Chess & Kids&hellip; Spring 2022!"
       },
       {
-         "description" : "FIDE President Arkady Dvorkovich visited Delhi to sign a contract with the All India Chess Federation granting the Asian country the rights to host this year's Olympiad. At a press conference, Dvorkovich announced his intention to run for a second term as FIDE President, and informed that Vishy Anand would actively support him in his reelection bid. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anand-supports-dvorkovich-re-election",
-         "pubDate" : "Fri, 01 Apr 2022 22:10:00 +0100",
-         "title" : "Anand set to support Dvorkovich's reelection bid"
-      },
-      {
          "description" : "The former world champion is slowly transitioning from strictly being a player to dabbling in a wider variety of roles.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1930,14 +1954,6 @@ news_feed (
          "title" : "Hosting Ukrainian refugees"
       },
       {
-         "description" : " There were two shows this week, on Tuesday and Wednesday. From next week we'll be running just one on Tuesdays as it's not easy to keep up with this phrenetic rate of production! Tuesday On Tuesday we had another guest, the former British Champion Paul Littlewood. Paul showed us some of him memorable games and <a href=\"https://chessimprover.com/master-chess-web-show-7/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (7)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-7/\">Master Chess Web Show (7)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/master-chess-web-show-7/",
-         "pubDate" : "Thu, 31 Mar 2022 08:22:39 +0000",
-         "title" : "Master Chess Web Show (7)"
-      },
-      {
          "description" : " From the publishers' blurb: &#8220;The revolutionary Wilhelm Steinitz (1836-1900) considered himself to be in the vanguard of an emerging, late-19th century 'Modern' school, which embraced a new, essentially scientific vitality in its methods of research, analysis, evaluation, planning, experiment and even belligerent fight. Steinitz, who dominated the chess world in the shadow of a more <a href=\"http://britishchessnews.com/2022/03/31/modern-chess-from-steinitz-to-the-21st-century/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Modern Chess- From Steinitz to the 21st Century</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britis",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1984,30 +2000,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1668",
          "pubDate" : "Tue, 29 Mar 2022 19:40:59 +0000",
          "title" : "FIDE Grand Prix Berlin: So and Mamedyarov advance to semifinals"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90524221.cms\" />Grandmaster and national champion Arjun Erigaisi came up with yet another inspired effort and crashed through the defences of Karthik Venkataraman to win the 19th Delhi International open chess tournament on Tuesday. Earlier this month the young man had won the National Championship at Kanpur quite easily and that means his winnings this month are Rs 10 lakh in all.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-wins-delhi-international-chess-title/articleshow/90524221.cms",
-         "pubDate" : "Tue, 29 Mar 2022 15:09:59 +0000",
-         "title" : "Arjun Erigaisi wins Delhi International Chess title"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90524262.cms\" />Russian grandmaster Sergey Karjakin is considering appealing against his six-month ban from competition for supporting Russia's invasion of Ukraine, he told Russian news agency TASS on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/karjakin-mulling-appeal-against-six-month-ban-for-pro-russia-comments/articleshow/90524262.cms",
-         "pubDate" : "Tue, 29 Mar 2022 15:05:26 +0000",
-         "title" : "Karjakin mulling appeal against six-month ban for pro-Russia comments"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/bebaee68-6b3c-4b1f-821a-3f3309c2883a/Neal2.jpg\" data-image-dimensions=\"321x184\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62430b99139f387a45e63e18\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/bebaee68-6b3c-4b1f-821a-3f3309c2883a/Neal2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Neal Bruce with his #chesspunks mug </figcaption> </figure> <figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-imag",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/29/ep-272-posiitional-puzzle-book-championship-with-neal-bruce",
-         "pubDate" : "Tue, 29 Mar 2022 13:41:02 +0000",
-         "title" : "EP 272- \"Positional Puzzle Book Championship\" with Neal Bruce"
       }
    ]
 }
