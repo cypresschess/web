@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Spanish town of Torrevieja, located on the Costa Blanca in the province of Alicante, hosted the sixth edition of the Open \"Semana Santa\" this Easter weekend. French grandmaster Jules Moussard won the event, as the only player among the 400+ participants who scored 8/9 points. Karen Grigoryan from Armenia and Eduardo Iturrizaga, who recently transferred to the Spanish federation, finished second and third respectively. | Photos: Patricia Claros Aguilar",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jules-moussard-wins-semana-santa-in-torrevieja-2022",
+         "pubDate" : "Tue, 19 Apr 2022 12:40:00 +0100",
+         "title" : "Jules Moussard wins Semana Santa Open in Torrevieja"
+      },
+      {
+         "description" : "Magnus Carlsen says he is still \"not 100 percent certain\" he will give up his title, but reiterates that it's unlikely he will play another match, adding more details on the reasons. The World Champion remains commited to playing on the Meltwater Champions Chess Tour and talks about his plans for the rest of the year.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-explains-why-he-is-unlikely-to-player-another-world-championship-match",
+         "pubDate" : "Tue, 19 Apr 2022 09:48:06 +0000",
+         "title" : "Carlsen on why he is unlikely to play another title match"
+      },
+      {
          "description" : "In knight endgames activity, dominance and zugzwang often play a major role. The diagrammed position is from a game between Vladislav Artemiev and Magnus Carlsen from the Airthings Masters Tournament 2022. How did the World Champion force the win?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/magnus-magic",
          "pubDate" : "Tue, 19 Apr 2022 09:00:00 +0100",
          "title" : "Magnus Magic"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1694",
+         "pubDate" : "Tue, 19 Apr 2022 07:52:49 +0000",
+         "title" : "FIDE announces long-term cooperation with the Scheinberg family"
       },
       {
          "description" : "Arjun Erigaisi, who recently won Delhi Chess 2022 and won the MPL Indian Chess Tour first leg, is the top seeded player in Menorca Open 2022. The tournament is going to take place 20-24 April and is going to feature impressive Indian participation GM Nihal Sarin, GM Gukesh, GM Adhiban, GM Raunak Sadhwani, GM []",
@@ -1730,14 +1754,6 @@ news_feed (
          "title" : "Anand set to support Dvorkovich's reelection bid"
       },
       {
-         "description" : "Hikaru Nakamura and Wesley So moved on to the final of the FIDE Grand Prix in Berlin after getting 2-0 victories in the tiebreaks of the semifinals. The American duo showed excellent rapidplay skills, moving quickly and confidently even in somewhat inferior positions. Nakamura's pair of wins allowed him to climb to first place in the rapid-chess live ratings list. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-sf3",
-         "pubDate" : "Fri, 01 Apr 2022 22:00:00 +0100",
-         "title" : "Berlin GP: Nakamura and So win tiebreakers, reach final"
-      },
-      {
          "description" : "The former world champion is slowly transitioning from strictly being a player to dabbling in a wider variety of roles.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1856,14 +1872,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/found-this-on-youtube.html",
          "pubDate" : "Fri, 01 Apr 2022 02:31:00 +0000",
          "title" : "Found this on Youtube"
-      },
-      {
-         "description" : "\"Who cares!\" said Hikaru Nakamura when he learned that he'd clinched overall victory in the 2022 FIDE Grand Prix with a draw against Shakhriyar Mamedyarov. His point was that there are no separate prizes this time round for the overall results. Meanwhile there's still unfinished business in Berlin, with both semi-finals to be decided in tiebreaks on Friday after Wesley So made a move that both players initially thought was winning, only to realise there was a refutation which almost instantly decided the game in Amin Tabatabaei's favour.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-wins-grand-prix-both-semis-go-to-tiebreaks",
-         "pubDate" : "Thu, 31 Mar 2022 22:56:03 +0000",
-         "title" : "Nakamura wins Grand Prix | Both semis go to tiebreaks"
       },
       {
          "description" : "",
@@ -2000,30 +2008,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/3/29/ep-272-posiitional-puzzle-book-championship-with-neal-bruce",
          "pubDate" : "Tue, 29 Mar 2022 13:41:02 +0000",
          "title" : "EP 272- \"Positional Puzzle Book Championship\" with Neal Bruce"
-      },
-      {
-         "description" : "National Sub-Junior (04-08, March 2022) Certificates are Out to Download National Sub-Junior and National Sub-Junior Girls Chess Championship 2022 Certificates are out to download for",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/47489-2/",
-         "pubDate" : "Tue, 29 Mar 2022 10:32:35 +0000",
-         "title" : "National Sub-Junior (04-08, March 2022) Certificates are Out to Download"
-      },
-      {
-         "description" : "Registration is now open for this year's MSO Grand Prix, which commences on April 15. The goal of the MSO Grand Prix is to continue...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2022-mso-grand-prix/",
-         "pubDate" : "Tue, 29 Mar 2022 10:14:15 +0000",
-         "title" : "2022 MSO Grand Prix"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1667",
-         "pubDate" : "Tue, 29 Mar 2022 10:12:15 +0000",
-         "title" : "FIDE Podcast: A new episode featuring Hou Yifan released"
       }
    ]
 }
