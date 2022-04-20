@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard walks through great attacking games, and identifies the moments to pounce. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-masterpieces-moment-strike-grandmasters-choice-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LtkOnIxuE9o.jpg?itok=jtIJAaYG\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/attacking-masterpieces-moment-strike-grandmasters-choice-gm-romain-%C3%A9douard",
+         "pubDate" : "Wed, 20 Apr 2022 01:32:01 +0000",
+         "title" : "Attacking Masterpieces: The Moment To Strike! | Grandmaster's Choice - GM Romain Édouard"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby throws tools at you! Get on the road! The road to chess! 2022.04.19<br /> Caleb Denby vs. Sho Glashausser, 2022: D31 Queen&#039;s Gambit Declined, Janowski variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-open-part-2-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/o7K8zEIG1go.jpg?itok=jbL5yxvr\" alt=\"\" /></a",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/saint-louis-open-part-2-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 20 Apr 2022 01:32:01 +0000",
+         "title" : "Saint Louis Open: Part 2 | Road to 2000 - NM Caleb Denby"
+      },
+      {
          "description" : "The 2022 Junior Speed Chess Championship&#38;nbsp;presented by SIG continued today with the return of the two-time champion, GM Nihal Sarin, as he took on IM Aronyak Ghosh in their round of 16 match. Nihal was in a fighting mood and pushed for a win i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -794,28 +810,12 @@ news_feed (
          "title" : "Praggnanandhaa wins Reykjavik Open 2022"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at two of his games from the 2022 Bill Wright Saint Louis Open, one of the premier open tournaments in the city. See how Caleb finished tied 2nd, losing out on 1st at the last moment. 2022.04.12<br /> Caleb Denby vs. Vinee Thatiparthi, 2022: D32 Queen&#039;s Gambit Declined, Tarrasch defence<br /> Jordan Cohen vs. Denby, 2022: A03 Bird&#039;s opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caleb-2022-saint-louis-open-road-2",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caleb-2022-saint-louis-open-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 13 Apr 2022 01:26:17 +0000",
-         "title" : "Caleb at the 2022 Saint Louis Open | Road to 2000 - NM Caleb Denby"
-      },
-      {
          "description" : "Praggnanandhaa entered the final round of the Reykjavik Open sharing the lead with Max Warmerdam and Mads Andersen. Warmerdam and Andersen played on top board and signed a 16-move draw, while Pragg's position deteriorated slowly but surely in his game against Gukesh. The latter eventually reached a winning position, but back-to-back blunders not only gave away his advantage but even allowed his opponent to get the full point. Thus, 16-year-old Praggnanandhaa became the ourtight winner of the event! | Photo: Hallfr&iacute;ður Sigurðard&oacute;ttir (from round 4)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/reykjavik-open-2022-r9",
          "pubDate" : "Tue, 12 Apr 2022 23:50:00 +0100",
          "title" : "Pragg beats Gukesh after sudden twist, wins Reykjavik Open"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard debuts as Resident GM at the Club! See attacking masterpieces, featuring strong exchange sacrifices. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-masterpieces-exchange-sacrifice-grandmasters-choice-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SJyPvBKHL0w.jpg?itok=4EoxMAZi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/attacking-masterpieces-exchange-sacrifice-grandmasters-choice-gm-romain-%C3%A9douard",
-         "pubDate" : "Tue, 12 Apr 2022 22:26:05 +0000",
-         "title" : "Attacking Masterpieces: Exchange Sacrifice | Grandmaster's Choice - GM Romain Édouard"
       },
       {
          "description" : "",
