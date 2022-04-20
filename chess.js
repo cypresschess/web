@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Russia's attack on Ukraine also affects Russian chess professionals. A number of players voiced criticism or signed an appeal for peace, and a number of top Grandmasters such as Nikita Vitiugov (pictured), Russian Champion of 2021, Alexandr Predke, Dmitry Andreikin and others, have left Russia to play under the FIDE flag, to change federations or to settle in other countries. | Photo: Nikita Vitiugov at the World Cup 2019 | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-grandmasters-leave-russia",
+         "pubDate" : "Wed, 20 Apr 2022 09:03:03 +0100",
+         "title" : "Top Grandmasters leave Russia"
+      },
+      {
+         "description" : "The European School Chess Championship 2022 takes place from 20th-30th April in Rhodes, Greece. The event kicks off on Thursday, 21st of April, with the Opening ceremony which will be held shortly before the start of the first round. More than 190 players from more than 22 European federations registered for the event which will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-schools-chess-championship-2022-with-190-players/",
+         "pubDate" : "Wed, 20 Apr 2022 07:14:48 +0000",
+         "title" : "European Schools Chess Championship 2022 with 190 players"
+      },
+      {
+         "description" : "Capablanca Memorial 2022 is taking place 19-28 April in La Habana, Cuba. This year the event features strong round robins for men and women as well as an open event. In the men round robin, aka Grupo Elite, the ten players are GM Sandro Mareco, GM Hans Niemann, GM Surya Ganguly, GM Mustafa Yilmaz, GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/capablanca-memorial-2022/",
+         "pubDate" : "Wed, 20 Apr 2022 06:15:13 +0000",
+         "title" : "Capablanca Memorial 2022"
+      },
+      {
+         "description" : "Capablanca Memorial 2022 is taking place 19-28 April in La Habana, Cuba. This year the event features strong round robins for men and women as well as an open event. In the women round robin the players are WGM Deisy Cori Tello, IM Irina Bulmaga, IM Oliwia Kiolbasa, IM Carolina Lujan, IM Lisandra Ordaz Valdes, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/capablanca-memorial-premier-live/",
+         "pubDate" : "Wed, 20 Apr 2022 06:08:12 +0000",
+         "title" : "Capablanca Memorial Premier LIVE"
+      },
+      {
+         "description" : "Capablanca Memorial 2022 is taking place 19-28 April in La Habana, Cuba. This year the event features strong round robins for men and women as well as an open event. In the men round robin, aka Grupo Elite, the ten players are GM Sandro Mareco, GM Hans Niemann, GM Surya Ganguly, GM Mustafa Yilmaz, GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/capablanca-memorial-elite-live/",
+         "pubDate" : "Wed, 20 Apr 2022 06:08:08 +0000",
+         "title" : "Capablanca Memorial Elite LIVE"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard walks through great attacking games, and identifies the moments to pounce. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-masterpieces-moment-strike-grandmasters-choice-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LtkOnIxuE9o.jpg?itok=jtIJAaYG\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -642,14 +682,6 @@ news_feed (
          "title" : "1.e4 vs. The Philidor: Part 2 | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
-         "description" : "The Doeberl Chess Cup 2022 is going to take place 14-18 April in Canberra, Australia. GM Hrant Melkumyan, the winner of the 2019 Deoberl Cup, is the top seeded in the event. Scroll down for full participants list. Throwback: Nisipeanu and Vajda share first place in 2014 Live games Doeberl Chess Cup 2022 Doeberl Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/doeberl-chess-cup-2022/",
-         "pubDate" : "Wed, 13 Apr 2022 22:27:22 +0000",
-         "title" : "Doeberl Chess Cup 2022"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani marches on with the Philidor Defense, based on the teachings of Parimarjan Negi and his book. BUY NEGI&#039;S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> 2022.04.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1e4-vs-philidor-part-2-chess-and-p",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -722,14 +754,6 @@ news_feed (
          "title" : "Master Chess Web Show (9)"
       },
       {
-         "description" : "The Mitropa Cup 2022 will be held from 27th April &#x2013; 8th May in the Sports complex (COSEC)&#xA0;of Corte, Corsica, France. The following chess federations are entitled to take part in the Mitropa Cup 2022:&#xA0;Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland. Replay: Mitropa Cup 2021 information / Mitropa Cup 2021 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mitropa-chess-cup-2022/",
-         "pubDate" : "Wed, 13 Apr 2022 14:15:38 +0000",
-         "title" : "Mitropa Chess Cup 2022"
-      },
-      {
          "description" : " After writing an article on different types of short Grandmaster draws, it is time to zoom in on the saddest category: pre-arranged draws. Yes, there are even cases of match-fixing wins &#38; losses, but they are much less common than pre-arranged draws. I'm not writing this article to accuse players. That is also why I [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/pre-arranged/\">The Dark Side Of Chess: Match-Fixing</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -768,22 +792,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/player-types-an-interview-with-karsten-mueller",
          "pubDate" : "Wed, 13 Apr 2022 10:00:00 +0100",
          "title" : "Player types - an interview with Karsten M&uuml;ller"
-      },
-      {
-         "description" : "The VI Open Internacional de ajedrez Semana Santa en Torrevieja (Alicante) 2022 is going to take place 13-17 April in Spain. A total of 450 players from 41 countries will participate in the event, including 19 GMs and 23 IMs. Top seeded is GM Karen Grigoryan, while the young U18 star GM Daniel Dardha is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vi-open-internacional-de-ajedrez-semana-santa-en-torrevieja-alicante-2022/",
-         "pubDate" : "Wed, 13 Apr 2022 08:48:10 +0000",
-         "title" : "VI Open Internacional de ajedrez Semana Santa en Torrevieja (Alicante) 2022"
-      },
-      {
-         "description" : "The Grand Chess Tour (GCT) has confirmed the seven wildcard players for the&#xA0;Grand Chess Tour Chess Classic Romania&#xA0;and the&#xA0;Grand Chess Tour Rapid &#38; Blitz Poland. The first leg of the GCT, the Chess Classic Romania will include all nine full tour players and one wildcard player, Romanian Grandmaster Bogdan-Daniel Deac. The Superbet Chess Classic Romania []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-2022-romania-participants-announced/",
-         "pubDate" : "Wed, 13 Apr 2022 08:38:46 +0000",
-         "title" : "Grand Chess Tour 2022 Romania - participants announced"
       },
       {
          "description" : "The Grand Chess Tour (GCT) has confirmed the seven wildcard players for the Superbet Chess Classic Romania and the Superbet Rapid & Blitz Poland, which will take place from 4 May to 14 May. The first leg of the GCT, the Superbet Chess Classic Romania will include all nine full tour players and one wildcard player, Romanian Grandmaster Bogdan-Daniel Deac. The Superbet Chess Classic Romania is sponsored by Superbet Foundation, One United and First Bank and features a 10 player round-robin battle for a total of $350,000 in prize money. Press Release...",
@@ -1696,14 +1704,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/so-and-nakamura-in-quiet-start-to-grand-prix-final",
          "pubDate" : "Sat, 02 Apr 2022 20:44:27 +0000",
          "title" : "So and Nakamura in quiet start to Grand Prix final"
-      },
-      {
-         "description" : "The final match of the FIDE Grand Prix in Berlin kicked off with a quick draw. Wesley So had the white pieces, but was content with keeping things under control in a game that only left theory on move 27. Hikaru Nakamura happily followed suit, as he will get a chance to get ahead on the scoreboard when he gets white on Sunday. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-f1",
-         "pubDate" : "Sat, 02 Apr 2022 20:15:00 +0100",
-         "title" : "Berlin GP Final: Following theory"
       },
       {
          "description" : "",
