@@ -2,7 +2,55 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Today, the first round of the American Cup, a knockout tournament with special rules, will be played. Almost all top players from the US take part in this event, which is organised by the Saint Louis Chess Center. They fight for a prize fund of 300,000 USD, and the three top seeded players are Levon Aronian (2785), Fabiano Caruana (2781) and Wesley So (2778). The first round starts at 13.00 local time.",
+         "description" : "ECU Educational Commission releases a project &#8220;Chess in Education Portal&#8221;. The project has been developed since 2021 with the support of the FIDE Development fund. The &#8220;Chess in Education Portal&#8221; is a guide to creating chess projects. Whether you are organizing a federation, chess club, chess-themed event, a competitive tournament or a school program, it takes considerable effort&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-in-education-portal/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/chess-in-education-portal/",
+         "pubDate" : "Wed, 20 Apr 2022 19:09:46 +0000",
+         "title" : "Chess in Education Portal"
+      },
+      {
+         "description" : "Today the American Cup starts in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Round 1 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
+         "pubDate" : "Wed, 20 Apr 2022 19:45:00 +0100",
+         "title" : "American Cup, Round 1 - Live games and commentary"
+      },
+      {
+         "description" : " This week's show featured someone we would have liked to interview, Wilhelm Steinitz. A great chess innovator, Steinitz was also a great tactician who won some truly brilliant games, and in this show we present three of them: Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-10/\">Master Chess Web Show (10)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/master-chess-web-show-10/",
+         "pubDate" : "Wed, 20 Apr 2022 18:21:54 +0000",
+         "title" : "Master Chess Web Show (10)"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #512, Merijn van Delft takes a look at a fine positional exchange sacrifice with which the 18-year old Indian star Arjun Erigaisi defeated his countryman Chopra Aryan in round 4 of the Fagernes Open in Norway. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-4",
+         "pubDate" : "Wed, 20 Apr 2022 18:00:00 +0100",
+         "title" : "Game of the Week #512: Arjun Erigaisi vs Chopra Aryan"
+      },
+      {
+         "description" : "The ever-smiling Nigerian boy who made it to the news a bit over three years ago continues to climb the rating ladder. Tanitoluwa Adewumi, better known as Tani, is 11 years old and has just grabbed his first IM norm at the New York Spring Invitational. Once a refugee escaping a terrorist group, he is now a household name in the chess world. | Photo: Kayode Adewumi",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tani-adewumi-clinches-first-im-norm",
+         "pubDate" : "Wed, 20 Apr 2022 17:35:00 +0100",
+         "title" : "Tani Adewumi clinches first IM norm in New York"
+      },
+      {
+         "description" : "There were multiway ties at the top in both Titled Tuesday tournaments on April 19, but they produced two familiar winners. GM Hikaru Nakamura had the best tiebreaks of three players on 9.5/11 in the early tournament, while GM Dmitry Andreikin won...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-andreikin-win-titled-tuesday-april-19-2022",
+         "pubDate" : "Wed, 20 Apr 2022 08:47:15 -0700",
+         "title" : "Closely Contested Titled Tuesdays Go To Nakamura, Andreikin"
+      },
+      {
+         "description" : "Today, the first round of the American Cup, a knockout tournament with special rules, will be played. Almost all top players from the US take part in this event, which is organised by the Saint Louis Chess Center. They fight for a prize fund of 300,000 USD, and the three top seeded players are Levon Aronian (2785), Fabiano Caruana (2781) and Wesley So (2778). The first round starts at 13.00 local time. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/start-of-the-american-cup",
@@ -1266,14 +1314,6 @@ news_feed (
          "title" : "Hong Wins Tense Tiebreaker: 2022 Junior Speed Chess Championship Qualifier 2"
       },
       {
-         "description" : "The European Senior Chess Championship will be held in Lublin, Poland from 4th July 2022 (day of arrival) to 14th July 2022 (day of departure). The Championship will be held in Arche Hotel Lublin. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. The European Senior Individual Chess Championship is&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2022-official-regulations/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-chess-championship-2022-official-regulations/",
-         "pubDate" : "Thu, 07 Apr 2022 18:44:03 +0000",
-         "title" : "European Senior Chess Championship 2022 - Official regulations"
-      },
-      {
          "description" : "This week Robert Ris takes a look at the game Saric-Abasov played in the 10th round of the European Individual Championships - a model game that illustrates how to attack the Sicilian. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1490,14 +1530,6 @@ news_feed (
          "title" : "Women in Chess Global Exchange Forum"
       },
       {
-         "description" : "In what has become an annual&#38;nbsp;24-hour charity chess marathon organized by the&#38;nbsp;English Chess Federation, the British Red Cross&#38;nbsp;Disasters Emergency Committee (DEC) raised over&#38;nbsp;&#38;pound;18,000 ($23,636) last weekend for its Ukraine c...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/24-hour-ecf-chess-marathon-raises-over-ps18-000-for-red-cross-support-of-ukraine",
-         "pubDate" : "Tue, 05 Apr 2022 06:55:00 -0700",
-         "title" : "24-Hour ECF Chess Marathon Raises Over &pound;18,000 For Red Cross Support Of Ukraine"
-      },
-      {
          "description" : " I have decided to have one of my sporadic attempts at studying chess (properly) again. My target is Rook and Pawn endings, not only because I need to improve in this area, but also because I need to improve how I study. Famously Capablanca studied and understood over 1000 Rook and Pawn positions, and while I doubt I will get to that number, understanding the key positions can't hurt. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1618,28 +1650,12 @@ news_feed (
          "title" : "Wesley So is the winner of the third leg of the FIDE Grand Prix 2022"
       },
       {
-         "description" : "The last two spots in the upcoming Candidates Tournament will be decided in the FIDE Grand Prix Series, with the third leg of the series taking place in Berlin starting March 22. The format consists of four-player double round-robins and a knockout stage. Follow the games live with expert commentary starting at 15.00 CET (09.00 ET, 19.30 IST)!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-live",
-         "pubDate" : "Mon, 04 Apr 2022 14:55:00 +0100",
-         "title" : "FIDE Grand Prix Final - Games and results"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1679",
          "pubDate" : "Mon, 04 Apr 2022 12:18:25 +0000",
          "title" : "FIDE announces World Senior Team Championship 50+ and 65+"
-      },
-      {
-         "description" : "At the beginning of April, the FIDE published its new ranking list. With a rating of 2864 Magnus Carlsen continues to lead the Top 100 by a wide margin - he is exactly 60 points ahead of Alireza Firouzja, who has a rating of 2804 and is officially the world's number two. Richard Rapport climbed to seventh place and now has a rating of 2776. Hou Yifan leads the women's ranking list, Firouzja is the best junior and Zhu Jiner is number one on the girl's list.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-april-2022",
-         "pubDate" : "Mon, 04 Apr 2022 13:09:45 +0100",
-         "title" : "FIDE ratings April 2022"
       },
       {
          "description" : "",
@@ -1672,14 +1688,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1678",
          "pubDate" : "Sun, 03 Apr 2022 19:51:39 +0000",
          "title" : "FIDE marks World Autism Awareness Day with panel discussion on Chess and ASD"
-      },
-      {
-         "description" : "A second quick draw in the final of the Berlin Grand Prix means the match will be decided in rapid (and potentially blitz) tiebreakers on Monday. The second draw between Hikaru Nakamura and Wesley So was even shorter than the first one, as the players went through the motions in a game that followed what has become an infamous line of the Berlin Defence. The game lasted less than half an hour. | Photo: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-f2",
-         "pubDate" : "Sun, 03 Apr 2022 19:20:00 +0100",
-         "title" : "Berlin GP: Nothing to see here"
       },
       {
          "description" : "",
@@ -1898,14 +1906,6 @@ news_feed (
          "title" : "FIDE Grand Prix in Berlin: Semi-finals Tie-breaks"
       },
       {
-         "description" : " We'll look at the position from last week and examine the idea of \"the squares left behind\" in greater detail this week. I know there's a lot being thrown at you in terms of analyzing a given position, which is known as positional analysis in chess. However, the greater your ability to look at a <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-six/\">A Foundation for Beginners Fifty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">Th",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-six/",
-         "pubDate" : "Fri, 01 Apr 2022 08:41:22 +0000",
-         "title" : "A Foundation for Beginners Fifty Six"
-      },
-      {
          "description" : " China's world No 2, Ding Liren, is poised to join Hikaru Nakamura, Alireza Firouzja and five other top GMs in the Candidates, while Carlsen wins online despite scare The field is almost complete for the eight-player 2022 Candidates at Madrid in June, which will decide Magnus Carlsen's next world title challenger. It promises to be a vintage occasion. The event which remains in the memory among recent Candidates is London 2013, when Carlsen and Vlad Kramnik battled to become Vishy Anand's challenger. Both made a hash of the final round before the Norwegian won through. Now, in 2022, there are at least four players who can be argued as favourites. <a href=\"https://www.theguardian.com/sport/20",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2000,22 +2000,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-grand-prix-semi-finals-round-report/",
          "pubDate" : "Wed, 30 Mar 2022 20:19:58 +0000",
          "title" : "FIDE Grand Prix Semi-Finals Round Report"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1669",
-         "pubDate" : "Wed, 30 Mar 2022 19:04:17 +0000",
-         "title" : "FIDE Grand Prix Berlin Semis: Round 1 Recap"
-      },
-      {
-         "description" : " In 2019, at the tender age of 23 years old, I organized a Rapid Chess Tournament in Switzerland. I brought this up in a recent interview on 64: A Chess podcast and David asked me to write an article about it. So, here I am, this one is for you David! I hope this inspires [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/organize-a-chess-tournament/\">How To Organize A Chess Tournament (20'000$ Budget)</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/organize-a-chess-tournament/",
-         "pubDate" : "Wed, 30 Mar 2022 15:55:23 +0000",
-         "title" : "How To Organize A Chess Tournament (20'000$ Budget)"
       }
    ]
 }
