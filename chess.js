@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana had to study, play tournaments, and Arne had the flu, and also played tournaments. Finally, the coach and her student are back with a new episode. This time, Svitlana takes us on a trip to some of Bobby Fischer's classical games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-37",
+         "pubDate" : "Wed, 20 Apr 2022 12:53:39 +0100",
+         "title" : "Svitlana's Smart Moves - The Classics by Bobby Fischer"
+      },
+      {
+         "description" : "Details for this year's ECF Awards are now available and can be found here (PDF), together with information on how to apply and the assessment...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/nominations-invited-for-this-years-ecf-awards-2/",
+         "pubDate" : "Wed, 20 Apr 2022 10:53:19 +0000",
+         "title" : "Nominations invited for this year's ECF Awards"
+      },
+      {
          "description" : "Russia's attack on Ukraine also affects Russian chess professionals. A number of players voiced criticism or signed an appeal for peace, and a number of top Grandmasters such as Nikita Vitiugov (pictured), Russian Champion of 2021, Alexandr Predke, Dmitry Andreikin and others, have left Russia to play under the FIDE flag, to change federations or to settle in other countries. | Photo: Nikita Vitiugov at the World Cup 2019 | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/top-grandmasters-leave-russia",
          "pubDate" : "Wed, 20 Apr 2022 09:03:03 +0100",
          "title" : "Top Grandmasters leave Russia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at a game he played at the 2022 Bill Wright Saint Louis Open. 2022.04.19<br /> Caleb Denby vs. Sho Glashausser, 2022: D31 Queen&#039;s Gambit Declined, Janowski variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/playing-janowski-qgd-saint-louis-open-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/o7K8zEIG1go.jpg?it",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/playing-janowski-qgd-saint-louis-open-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 20 Apr 2022 07:32:11 +0000",
+         "title" : "Playing Janowski QGD at the Saint Louis Open | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : "The European School Chess Championship 2022 takes place from 20th-30th April in Rhodes, Greece. The event kicks off on Thursday, 21st of April, with the Opening ceremony which will be held shortly before the start of the first round. More than 190 players from more than 22 European federations registered for the event which will []",
@@ -42,7 +66,7 @@ news_feed (
          "title" : "Capablanca Memorial Elite LIVE"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard walks through great attacking games, and identifies the moments to pounce. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-masterpieces-moment-strike-grandmasters-choice-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LtkOnIxuE9o.jpg?itok=jtIJAaYG\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard walks through great attacking games, and identifies the moments to pounce.<br /> See Daniil Dubov's brilliance in one of Edouard favorite games ever. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-masterpieces-moment-strike-grandmasters-choice-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LtkOnIxuE9o.jpg?itok=jtIJAaY",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/attacking-masterpieces-moment-strike-grandmasters-choice-gm-romain-%C3%A9douard",
@@ -680,14 +704,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/1e4-vs-philidor-part-2-chess-and-psychology-im-dorsa-derakhshani",
          "pubDate" : "Thu, 14 Apr 2022 01:27:18 +0000",
          "title" : "1.e4 vs. The Philidor: Part 2 | Chess and Psychology - IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani marches on with the Philidor Defense, based on the teachings of Parimarjan Negi and his book. BUY NEGI&#039;S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> 2022.04.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1e4-vs-philidor-part-2-chess-and-p",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/1e4-vs-philidor-part-2-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Wed, 13 Apr 2022 22:27:16 +0000",
-         "title" : "1.e4 vs. The Philidor: Part 2 | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "GM Hikaru Nakamura&#38;nbsp;won his third consecutive Arena Kings on April 13 and has now claimed victory in all six weeks he&#39;s played in Season 9. For the second straight week, GM Oleksandr Bortnyk was Nakamura&#39;s opponent in the final while the semif...",
@@ -1680,14 +1696,6 @@ news_feed (
          "link" : "https://chessimprover.com/logical-chess-4/",
          "pubDate" : "Sun, 03 Apr 2022 13:11:42 +0000",
          "title" : "Logical Chess (4)"
-      },
-      {
-         "description" : "India's own elite online chess tour starts on March 31 with a star-studded line-up of 16 top talents from every corner of the Asian country. A prize pot of $100,000 is at stake in the MPL event plus golden tickets to the elite Champions Chess Tour. Leg 1 will be a four-day rapid chess tournament running from March 31 to April 3, starting every day at 15:30 IST / 12 CEST. The time control is 15m + 10s.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mpl-indian-chess-tour-2022-live",
-         "pubDate" : "Sun, 03 Apr 2022 12:00:00 +0100",
-         "title" : "MPL Indian Chess Tour - Games and results"
       },
       {
          "description" : " The 2022 Dubbo Open has attracted a good field of 37 players. The top 2 seeds are Cameron McGowan and FM Michael Kethro, with a solid field of 1750-2000 rated players making up the next 7 seeds. After the first 3 rounds, McGowan, Kethro and WFM Alana Chibnall lead with 3/3. Close behind on 2.5 are WFM Kristine Quek, WIM Biljana Dekic and Kye Walls. The round 4 pairings see McGowan play Kethro on the top board, with Dekic v Chibnall on board 2. After the 3rd round the traditional time handicap blitz event was held. Players were given a time bonus/penalty based on their rating, meaning that higher rated players might start with only 2 or 3 minutes on their click (versus their opponents 5). Th",
