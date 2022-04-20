@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.20<br /> USChessChamps.com ROUND 1 | GAME 1<br /> Levon Aronian vs. Ray Robson<br /> Dominguez vs. Sam Shankland<br /> Wesley So vs. Sam Sevian<br /> Fabiano Caruana vs. Jeffery Xiong </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-1-lichessorg",
+         "pubDate" : "Wed, 20 Apr 2022 19:32:45 +0000",
+         "title" : "The American Cup 2022: Day 1 | lichess.org"
+      },
+      {
          "description" : "ECU Educational Commission releases a project &#8220;Chess in Education Portal&#8221;. The project has been developed since 2021 with the support of the FIDE Development fund. The &#8220;Chess in Education Portal&#8221; is a guide to creating chess projects. Whether you are organizing a federation, chess club, chess-themed event, a competitive tournament or a school program, it takes considerable effort&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-in-education-portal/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/opening-training-with-fritz-18-1",
          "pubDate" : "Thu, 14 Apr 2022 10:00:00 +0100",
          "title" : "Opening training with Fritz 18 (1)"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani marches on with the Philidor Defense, based on the teachings of Parimarjan Negi and his book. BUY NEGI&#039;S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> 2022.04.13<br /> C41 Philidor, Improved Hanham variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/1e4-vs-philidor-part-2-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 14 Apr 2022 01:27:18 +0000",
-         "title" : "1.e4 vs. The Philidor: Part 2 | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "GM Hikaru Nakamura&#38;nbsp;won his third consecutive Arena Kings on April 13 and has now claimed victory in all six weeks he&#39;s played in Season 9. For the second straight week, GM Oleksandr Bortnyk was Nakamura&#39;s opponent in the final while the semif...",
@@ -1992,14 +1992,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/03/31/modern-chess-from-steinitz-to-the-21st-century/",
          "pubDate" : "Thu, 31 Mar 2022 00:10:45 +0000",
          "title" : "Modern Chess- From Steinitz to the 21st Century"
-      },
-      {
-         "description" : " <p class=\"lead\">Wesley So takes the lead in the match against Tabatabaei, while Nakamura and Mamedyarov finish their game in a draw. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220330153721_IMG_5610.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/A-19.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photos: World Chess</div> </div> In the first round of the semifinals of the third stage of the FIDE Grand Prix in Berlin organised by World Chess Wesley So managed to convert his advantage into a full point against Amin Ta",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-semi-finals-round-report/",
-         "pubDate" : "Wed, 30 Mar 2022 20:19:58 +0000",
-         "title" : "FIDE Grand Prix Semi-Finals Round Report"
       }
    ]
 }
