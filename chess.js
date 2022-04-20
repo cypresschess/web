@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, the first round of the American Cup, a knockout tournament with special rules, will be played. Almost all top players from the US take part in this event, which is organised by the Saint Louis Chess Center. They fight for a prize fund of 300,000 USD, and the three top seeded players are Levon Aronian (2785), Fabiano Caruana (2781) and Wesley So (2778). The first round starts at 13.00 local time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/start-of-the-american-cup",
+         "pubDate" : "Wed, 20 Apr 2022 16:00:00 +0100",
+         "title" : "Start of the American Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1696",
+         "pubDate" : "Wed, 20 Apr 2022 13:59:49 +0000",
+         "title" : "FIDE increases Olympiad travel grants"
+      },
+      {
+         "description" : " Another successful O2C Doeberl Cup has been run and done. In the tournament has 329 players in the main events (1 less than last year) and 136 in the Blitz (which was more than last year). So it is kind of a record field, without actually being a record field! Although the tournament itself is finished, there is still some organisational work today. prize money is being transferred to the lucky winners, while refunds are being made some unlucky entrants. In fact if anything stood out about this years events, it was the number of players who entered, and then un-entered before the start. In some cases there were good medical reasons (including being a covid close contact), but for others, it",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-winding-down.html",
+         "pubDate" : "Wed, 20 Apr 2022 13:06:00 +0000",
+         "title" : "2022 O2C Doeberl Cup - winding down"
+      },
+      {
+         "description" : "In his \"Weekly Show\" Lawrence Trent covers a bunch of important open tournaments that have just taken place, namely the Fagernes Open, La Roda Open and Torrevieja. Game of the day will be the fantastic win by Gukesh vs Mikhalevski at the La Roda Open. Another demonstration of just how tough it is to play against this group of super talents from India. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-swiss-open-tournaments",
+         "pubDate" : "Wed, 20 Apr 2022 13:48:18 +0100",
+         "title" : "The Weekly Show: Easter Opens"
+      },
+      {
+         "description" : "For the first time, the Saint Louis Chess Club will host&#160;The American Cup 2022, highlighting an exciting and unique double elimination format. This new format and tournament will bring world class chess masters to America&#x2019;s chess capital to compete in a fierce do-or-die struggle for $300,000 total in prize money. Live games and coverage will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/american-chess-cup-2022-live/",
+         "pubDate" : "Wed, 20 Apr 2022 12:21:00 +0000",
+         "title" : "American Chess Cup 2022 LIVE"
+      },
+      {
+         "description" : "The India Rapid and Blitz Chess Championship 2022 are going to take place 27-29 April in Nashik. A total of 123 players are starting in the event. Top seeded is Aravindh Chithambaram, and he is accompanied by GN Gopal, Deepan Chakkravarthy, Ghosh Diptayan, Sriram Jha, Nitin S, etc. Scroll down for the full participants list. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/india-rapid-and-blitz-chess-championship-2022/",
+         "pubDate" : "Wed, 20 Apr 2022 12:16:19 +0000",
+         "title" : "India Rapid and Blitz Chess Championship 2022"
+      },
+      {
          "description" : "Svitlana had to study, play tournaments, and Arne had the flu, and also played tournaments. Finally, the coach and her student are back with a new episode. This time, Svitlana takes us on a trip to some of Bobby Fischer's classical games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-37",
          "pubDate" : "Wed, 20 Apr 2022 12:53:39 +0100",
          "title" : "Svitlana's Smart Moves - The Classics by Bobby Fischer"
+      },
+      {
+         "description" : "The new Chess in Education portal by the ECU EDU Commission is released. The portal is a guide to creating chess projects from the inception of the idea, through the funding, to the final execution of the project. The Chess in Education portal also contains a library of successful chess projects from Europe. Visit []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-in-education-portal-by-ecu-edu-commission-launched/",
+         "pubDate" : "Wed, 20 Apr 2022 11:38:47 +0000",
+         "title" : "Chess in Education Portal by ECU EDU Commission launched"
       },
       {
          "description" : "Details for this year's ECF Awards are now available and can be found here (PDF), together with information on how to apply and the assessment...",
@@ -64,6 +120,14 @@ news_feed (
          "link" : "https://www.chessdom.com/capablanca-memorial-elite-live/",
          "pubDate" : "Wed, 20 Apr 2022 06:08:08 +0000",
          "title" : "Capablanca Memorial Elite LIVE"
+      },
+      {
+         "description" : "He's back! Jan Gustafsson, a key member of Team Magnus for the last three World Championship matches, will be answering your questions in a new Jan's Opening Clinic. chess24 Premium members get to ask Jan any question on chess openings and Jan will then film a series of shows where he tackles each question in turn. Simply leave a question under this article to get some personal tips from a chess openings guru!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/jan-s-opening-clinic-27",
+         "pubDate" : "Wed, 20 Apr 2022 04:03:00 +0000",
+         "title" : "Jan's Opening Clinic 27"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard walks through great attacking games, and identifies the moments to pounce.<br /> See Daniil Dubov's brilliance in one of Edouard favorite games ever. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-masterpieces-moment-strike-grandmasters-choice-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LtkOnIxuE9o.jpg?itok=jtIJAaY",
@@ -224,14 +288,6 @@ news_feed (
          "link" : "https://www.chessdom.com/gm-jules-moussard-is-the-winner-of-torrevieja-2022/",
          "pubDate" : "Tue, 19 Apr 2022 05:47:53 +0000",
          "title" : "GM Jules Moussard is the winner of Torrevieja 2022"
-      },
-      {
-         "description" : "He's back! Jan Gustafsson, a key member of Team Magnus for the last three World Championship matches, will be answering your questions in a new Jan's Opening Clinic. chess24 Premium members get to ask Jan any question on chess openings and Jan will then film a series of shows where he tackles each question in turn. Simply leave a question under this article to get some personal tips from a chess openings guru!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/jan-s-opening-clinic-27",
-         "pubDate" : "Tue, 19 Apr 2022 04:03:37 +0000",
-         "title" : "Jan's Opening Clinic 27"
       },
       {
          "description" : " IM Christopher Yoo was victorious in his round of 16 match today against GM Rameshbabu Praggnanandhaa in the&#38;nbsp;2022 Junior Speed Chess Championship&#38;nbsp;presented by SIG. Few points separated the players for the majority of the match, but i...",
@@ -538,14 +594,6 @@ news_feed (
          "title" : "Liang Edges Out Hong In 2022 Junior Speed Chess Championship Round Of 16"
       },
       {
-         "description" : "We have just reached the halfway mark of the TCEC Season 22 Superfinal. Defending champion Stockfish leads Komodo Dragon by 12 points (+17 -5 =28), a dominant performance that all but ensures that it will win the Superfinal. Stockfish signaled its intent straight from the get-go by&#xA0;winning the first opening with its signature move g4!, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stockfish-takes-dominating-lead-at-halfway-in-the-tcec-season-22-superfinal/",
-         "pubDate" : "Fri, 15 Apr 2022 14:27:06 +0000",
-         "title" : "Stockfish takes dominating lead at halfway in the TCEC Season 22 Superfinal"
-      },
-      {
          "description" : "Friedrich Schiller has, in my mind, always been associated with chess, since I became familiar with his ideas about the nature of play. Actually identifying a specific, undeniable reference to chess in Schiller's oeuvre has, however, proved more elusive. On my desk I have a number of books which retain a permanent position and are []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -674,28 +722,12 @@ news_feed (
          "title" : "Magnus Carlsen to take on 7 stars in Oslo Esports Cup"
       },
       {
-         "description" : "After the Airthings Masters 2022 and the Charity Cup 2022, both won by Magnus Carlsen, the Meltwater Champions Chess Tour breaks new ground next week with the launch of the first fully in-person esports event in chess the Oslo Esports Cup. A star-studded gala event will open the tournament as Norway&#x2019;s World Champion&#xA0;Magnus Carlsen&#xA0;goes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/oslo-esports-chess-cup-the-first-meltwater-major-announced/",
-         "pubDate" : "Thu, 14 Apr 2022 09:12:22 +0000",
-         "title" : "Oslo Esports Chess Cup, the first Meltwater Major announced"
-      },
-      {
          "description" : "How do you build an opening repertoire and learn the variations? Fritz 18 offers many possibilities for this, and you can even compare your learning success with other users. In a short series of tutorials, we show you how to do it. In the first episode, we deal with learning and testing the opening repertoire. The next episodes will deal with building the opening repertoire. With the new \"Easy Game\" mode in Fritz 18, you can check your knowledge of an existing repertoire, and you can replay and practise it. Let's go!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/opening-training-with-fritz-18-1",
          "pubDate" : "Thu, 14 Apr 2022 10:00:00 +0100",
          "title" : "Opening training with Fritz 18 (1)"
-      },
-      {
-         "description" : "Financial Times has published an article, dedicated to the just finished Reykjavik Chess Open and the win of Praggnanandhaa. &#8220;Half a century ago, Bobby Fischer captured Boris Spassky&#x2019;s world title in Reykjavik and sparked a global chess boom,&#8221; starts the analysis of FT and continues: India, the fastest-rising chess nation, has a quartet of teenage []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ft-com-chesss-icons-are-now-carlsen-and-stockfish/",
-         "pubDate" : "Thu, 14 Apr 2022 08:36:00 +0000",
-         "title" : "FT.com: chess's icons are now Carlsen and Stockfish"
       },
       {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani marches on with the Philidor Defense, based on the teachings of Parimarjan Negi and his book. BUY NEGI&#039;S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> 2022.04.13<br /> C41 Philidor, Improved Hanham variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a ",
@@ -1666,22 +1698,6 @@ news_feed (
          "title" : "Second Draw in the FIDE Grand Prix finals"
       },
       {
-         "description" : "It can be confusing when the opponent's pieces don't go where you were expecting them to go. After looking at a couple of games from the recent Grand Prix by Amin Tabatabaei, Jon Speelman decided to write about unexpected defensive moves! | Pictured: Murray Chandler, Jonathan Speelman and Jonathan Mestel at the British Zonal in February 1987",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-167",
-         "pubDate" : "Sun, 03 Apr 2022 15:30:00 +0100",
-         "title" : "Defence and the unforeseeability of voluntary rerouting"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 7rrd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about pawn chains in the French Defense. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-73-pawn-chains-in-the-french-defense-2",
-         "pubDate" : "Sun, 03 Apr 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 73: Pawn chains in the French Defense (2)"
-      },
-      {
          "description" : " The 6 round 2022 Dubbo Open finished in a tie for first between FM Michael Kethro and Cameron McGowan. After their 4th round game ended in a draw, both had to navigate some tricky pairings over the last 2 rounds. Kethro looked to have the harder time of it, having to fight very hard against WIM Biljana Dekic in round 5, and fending off an inspired Braiden Cox in the final round. McGowan also managed to win his final two games (against WFM Kristine Quek and WFM Alana Chibnall) to leave both players on 5.5/6. In third place was rising star Lucas Ni, who only lost to Kethro, winning all his other games. There were a number of good performances by new players on the tournament scene, with unrat",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2000,14 +2016,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/organize-a-chess-tournament/",
          "pubDate" : "Wed, 30 Mar 2022 15:55:23 +0000",
          "title" : "How To Organize A Chess Tournament (20'000$ Budget)"
-      },
-      {
-         "description" : " Only a few days before the 2022 Dubbo Open starts. The field is starting to take shape, and at this stage there are over 30 players entered. Current top seed is Cameron McGowan (2233), with two of Australian leading female players WIM Biljana Dekic and WFM Alana Chibnall seeded 2nd and 3rd. The tournament starts on Saturday 2nd April at 10:30 am at the Dubbo RSL Club. It runs for 6 rounds (3 Saturday and 3 Sunday) and has a 1st prize of $800. The current list of entries can be <a href=\"http://tournaments.streetchess.net/dubbo2022/www2022DubboOpen/\">seen here</a> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/03/dubbo-2022.html",
-         "pubDate" : "Wed, 30 Mar 2022 12:54:00 +0000",
-         "title" : "Dubbo 2022"
       }
    ]
 }
