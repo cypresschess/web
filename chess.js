@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Junior Speed Chess Championship&#38;nbsp;presented by SIG continued today with the return of the two-time champion, GM Nihal Sarin, as he took on IM Aronyak Ghosh in their round of 16 match. Nihal was in a fighting mood and pushed for a win i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-round-of-16-nihal-ghosh",
+         "pubDate" : "Tue, 19 Apr 2022 17:33:39 -0700",
+         "title" : "Nihal Topples Ghosh: 2022 Junior Speed Chess Championship Round Of 16"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard walks through great attacking games, and identifies the moments to pounce. 2022.04.19 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-masterpieces-moment-go-it-grandmasters-choice-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LtkOnIxuE9o.jpg?itok=jtIJAaYG\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1528,14 +1536,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1681",
          "pubDate" : "Mon, 04 Apr 2022 20:04:24 +0000",
          "title" : "Wesley So wins FIDE Grand Prix Berlin"
-      },
-      {
-         "description" : "With draws in both of the two classical games, American GMs&#38;nbsp;Hikaru Nakamura&#38;nbsp;and Wesley So&#38;nbsp;were set to decide who would win the third and final leg of the&#38;nbsp;2022 FIDE Grand Prix&#38;nbsp;in a rapid-play tiebreaker. After an intense dr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-grand-prix-berlin-leg-3-final-tiebreaks",
-         "pubDate" : "Mon, 04 Apr 2022 12:54:00 -0700",
-         "title" : "Wesley So Wins 2022 FIDE Grand Prix Berlin Leg 3 Final"
       },
       {
          "description" : " <p class=\"lead\">Wesley So wins the third leg of the FIDE Grand Prix Series 2022, organized by World Chess; Hikaru Nakamura wins the FIDE Grand Prix Series 2022; Nakamura and Richard Rapport qualify for the FIDE Candidates Tournament to be held in Madrid later this year. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4721104082806\"> <img src=\"https://worldchess.com/news/pictures/0V8A9937.JPG\" width=\"2560\" height=\"1739\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220404154150_IMG_6133.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/0V8A9663.JPG\" width=\"2560\" height=\"1783\" alt=\"\" /> <img src=\"https://w",
