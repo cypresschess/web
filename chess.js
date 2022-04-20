@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Sam Shankland after his draw against Leinier Dominguez in Game 1 of their Champion's Bracket match. 2022.04.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sam-shankland-i-think-its-fantastic-format-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jpiFe-X8g_o.jpg?itok=r9YAfSwU\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sam-shankland-i-think-its-fantastic-format-day-1",
+         "pubDate" : "Wed, 20 Apr 2022 22:32:54 +0000",
+         "title" : "Sam Shankland: I Think it's a Fantastic Format | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Leinier Dominguez after his draw against Sam Shankland in Game 1 of their Champion's Bracket match. 2022.04.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/leinier-dominguez-wasnt-expecting-b5-line-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JArVnH3ue2A.jpg?itok=U5DpV_E0\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/leinier-dominguez-wasnt-expecting-b5-line-day-1",
+         "pubDate" : "Wed, 20 Apr 2022 22:32:54 +0000",
+         "title" : "Leinier Dominguez: Wasn't Expecting b5 Line | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Levon Aronian after his win against Ray Robson in Game 1 of their Champion's Bracket match. 2022.04.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-aronian-i-had-never-played-ray-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yDR9ltZQ4oI.jpg?itok=GRhVPjIW\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/levon-aronian-i-had-never-played-ray-day-1",
+         "pubDate" : "Wed, 20 Apr 2022 22:32:54 +0000",
+         "title" : "Levon Aronian: I Had Never Played Ray | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Sam Sevian after his win against Wesley So in Game 1 of their Champion's Bracket match. 2022.04.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sam-sevian-it-was-crazy-game-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Ak2WdvYc0Zc.jpg?itok=7d6No3Wd\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sam-sevian-it-was-crazy-game-day-1",
+         "pubDate" : "Wed, 20 Apr 2022 22:32:54 +0000",
+         "title" : "Sam Sevian: It Was a Crazy Game | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Anna Zatonskih after her win against Tatev Abrahamyan in Game 1 of their Champion's Bracket match. 2022.04.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anna-zatonskih-tatev-blitzed-last-ten-moves-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YAwntVSblec.jpg?itok=j9m2bqM-\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/anna-zatonskih-tatev-blitzed-last-ten-moves-day-1",
+         "pubDate" : "Wed, 20 Apr 2022 22:32:54 +0000",
+         "title" : "Anna Zatonskih: Tatev Blitzed the Last Ten Moves | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Fabiano Caruana after his draw against Jeffery Xiong in Game 1 of their Champion's Bracket match. 2022.04.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-time-control-unforgiving-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zGUMVGxVLas.jpg?itok=Ar6RdngB\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-time-control-unforgiving-day-1",
+         "pubDate" : "Wed, 20 Apr 2022 22:32:54 +0000",
+         "title" : "Fabiano Caruana: The Time Control is Unforgiving | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Irina Krush after her win against Ruiyang Yan in Game 1 of their Champion's Bracket match. 2022.04.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-my-idea-against-ruiyang-worked-well-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kp1GEsJqOFM.jpg?itok=Y50XisR0\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/irina-krush-my-idea-against-ruiyang-worked-well-day-1",
+         "pubDate" : "Wed, 20 Apr 2022 22:32:54 +0000",
+         "title" : "Irina Krush: My Idea Against Ruiyang Worked Well | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Begin Tokhirjonova after her win against Katerina Nemcova in Game 1 of their Champion's Bracket match. 2022.04.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-tokhirjonova-i-hoped-she-would-make-mistake-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TNjwooBdpME.jpg?itok=uBM0NSLm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/begim-tokhirjonova-i-hoped-she-would-make-mistake-day-1",
+         "pubDate" : "Wed, 20 Apr 2022 22:32:54 +0000",
+         "title" : "Begim Tokhirjonova: I Hoped She Would Make a Mistake | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.21<br /> USChessChamps.com ROUND 1 | GAME 2<br /> Ray Robson vs. Levon Aronian<br /> Sam Shankland vs. Dominguez<br /> Sam Sevian vs. Wesley So<br /> Jeffery Xiong vs. Fabiano Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-2-lichessorg",
+         "pubDate" : "Wed, 20 Apr 2022 22:32:54 +0000",
+         "title" : "The American Cup 2022: Day 2 | lichess.org"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1697",
+         "pubDate" : "Wed, 20 Apr 2022 21:48:39 +0000",
+         "title" : "Sandro Mareco and Sandra Guillen win LXVII Mexico National Open Championship "
+      },
+      {
+         "description" : "GM Hikaru Nakamura&#38;nbsp;won his fourth consecutive Arena Kings on April 20 with a score of 3.5-0.5 in the final and has continued a streak of winning every time he&#39;s played in Season 9, seven in total. GM Vagur Rasulov&#38;nbsp;finished as a finalist ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-arena-kings-season-9-week-11",
+         "pubDate" : "Wed, 20 Apr 2022 14:45:00 -0700",
+         "title" : "Nakamura Wins Fourth Week Straight: Arena Kings Season 9 Week 11"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.20<br /> USChessChamps.com ROUND 1 | GAME 1<br /> Levon Aronian vs. Ray Robson<br /> Dominguez vs. Sam Shankland<br /> Wesley So vs. Sam Sevian<br /> Fabiano Caruana vs. Jeffery Xiong </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -138,14 +226,6 @@ news_feed (
          "title" : "Top Grandmasters leave Russia"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at a game he played at the 2022 Bill Wright Saint Louis Open. 2022.04.19<br /> Caleb Denby vs. Sho Glashausser, 2022: D31 Queen&#039;s Gambit Declined, Janowski variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/playing-janowski-qgd-saint-louis-open-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/o7K8zEIG1go.jpg?it",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/playing-janowski-qgd-saint-louis-open-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 20 Apr 2022 07:32:11 +0000",
-         "title" : "Playing Janowski QGD at the Saint Louis Open | Road to 2000 - NM Caleb Denby"
-      },
-      {
          "description" : "The European School Chess Championship 2022 takes place from 20th-30th April in Rhodes, Greece. The event kicks off on Thursday, 21st of April, with the Opening ceremony which will be held shortly before the start of the first round. More than 190 players from more than 22 European federations registered for the event which will []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -186,36 +266,12 @@ news_feed (
          "title" : "Jan's Opening Clinic 27"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard walks through great attacking games, and identifies the moments to pounce.<br /> See Daniil Dubov's brilliance in one of Edouard favorite games ever. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-masterpieces-moment-strike-grandmasters-choice-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LtkOnIxuE9o.jpg?itok=jtIJAaY",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/attacking-masterpieces-moment-strike-grandmasters-choice-gm-romain-%C3%A9douard",
-         "pubDate" : "Wed, 20 Apr 2022 01:32:01 +0000",
-         "title" : "Attacking Masterpieces: The Moment To Strike! | Grandmaster's Choice - GM Romain Édouard"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby throws tools at you! Get on the road! The road to chess! 2022.04.19<br /> Caleb Denby vs. Sho Glashausser, 2022: D31 Queen&#039;s Gambit Declined, Janowski variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-open-part-2-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/o7K8zEIG1go.jpg?itok=jbL5yxvr\" alt=\"\" /></a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/saint-louis-open-part-2-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 20 Apr 2022 01:32:01 +0000",
-         "title" : "Saint Louis Open: Part 2 | Road to 2000 - NM Caleb Denby"
-      },
-      {
          "description" : "The 2022 Junior Speed Chess Championship&#38;nbsp;presented by SIG continued today with the return of the two-time champion, GM Nihal Sarin, as he took on IM Aronyak Ghosh in their round of 16 match. Nihal was in a fighting mood and pushed for a win i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-round-of-16-nihal-ghosh",
          "pubDate" : "Tue, 19 Apr 2022 17:33:39 -0700",
          "title" : "Nihal Topples Ghosh: 2022 Junior Speed Chess Championship Round Of 16"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard walks through great attacking games, and identifies the moments to pounce. 2022.04.19 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-masterpieces-moment-go-it-grandmasters-choice-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LtkOnIxuE9o.jpg?itok=jtIJAaYG\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/attacking-masterpieces-moment-go-it-grandmasters-choice-gm-romain-%C3%A9douard",
-         "pubDate" : "Tue, 19 Apr 2022 22:31:50 +0000",
-         "title" : "Attacking Masterpieces: The Moment To Go For It | Grandmaster's Choice - GM Romain Édouard"
       },
       {
          "description" : "With over 1,300 articles, the Opening Encyclopaedia 2022 covers the entire range of openings. A huge fund of ideas and high-quality analyses! In the new edition, the number of articles has increased - 66 new opening articles and 388 new opening overviews have been added compared to the previous year. The following article shows you how to \"Find Ideas for your Repertoire\"!",
@@ -370,14 +426,6 @@ news_feed (
          "title" : "Magnus Carlsen Will Really, Really Give Up His Championship Title, Maybe"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering discusses some of the tricky ideas when using the knight. Learn about forks, outposts, and smothered mate. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/knights-tale-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ghrPTwVf3Lg.jpg?itok=0-cth1sH\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/knights-tale-beginner-breakdown",
-         "pubDate" : "Mon, 18 Apr 2022 19:30:44 +0000",
-         "title" : "A Knight's Tale | Beginner Breakdown"
-      },
-      {
          "description" : "In his Endgame Magic Show #190 Karsten M&uuml;ller looks at endgame highlights from the Bundesliga. On 9 and 10 of April the 16 teams in Germany's top league played rounds 3 and 4 of the current season, which led to a number of fascinating endgames which Karsten wants to share with his viewers. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -448,14 +496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-10-aronian-wins",
          "pubDate" : "Sun, 17 Apr 2022 17:59:00 -0700",
          "title" : "Aronian Clinches Knockout: Rapid Chess Championship Week 10"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski looks at two games played by Levon Aronian at the 2022 FIDE Grand Prix Berlin (third tournament). Levon had success, as his opponents Hikaru Nakamura and Leinier Dominguez accepted his Queen's Gambit. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/play-queens-gambit-again-levon-grandmasters-choice-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbn",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/play-queens-gambit-again-levon-grandmasters-choice-gm-robert-hungaski",
-         "pubDate" : "Sun, 17 Apr 2022 22:30:15 +0000",
-         "title" : "Play the Queen's Gambit Again, Levon! | Grandmaster's Choice - GM Robert Hungaski"
       },
       {
          "description" : " The 2020 O2C Doeberl Cup is set for an exciting finish, with the top 2 seeds GM Hrant Melkumyn and GM Temur Kuybokarov sharing the lead on 6.5/8. Recovering from a round 2 loss to FM Albert Winkelman, Kuybokarov has scored 5.5/6 to catch Melkumyan, who conceded draws to Kuybokarov, GM Daniel Fernandez, and GM Bobby Cheng. Half a point behind is Fernandez, while on 5.5 are Cheng, IM Rishi Sardana, FM Jack Puccini, IM Gary Lane, IM Igor Bjelobrk, and Fred Litchfield. Fernandez v Kuybokarov is the top board pairing with Bjelobrk playing Melkumyan on board 2. In the Major (Under 2000) Mars Qi leads with 6/6. However Fergus Chiverton could tie for first if he wins their top board clash in round ",
@@ -586,14 +626,6 @@ news_feed (
          "title" : "2022 O2C Doeberl Cup - Day 2"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Harrison Keyser punishes a weak opening with a flamboyant attack. Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/launching-my-greek-gift-13-moves\"><img src=\"https://saintl",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/launching-my-greek-gift-13-moves",
-         "pubDate" : "Sat, 16 Apr 2022 04:28:44 +0000",
-         "title" : "Launching My Greek Gift in 13 Moves"
-      },
-      {
          "description" : "Easter Saturday (16 April) sees the start of the Swiss Young Masters tournament in Basel, a 10-player round robin event designed to give young Swiss players the opportunity to fight for rating points and norms. The traditional tournament will take place in Basel for the first time. The games will be broadcast live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -616,14 +648,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/peter-burri-1957-2022/",
          "pubDate" : "Fri, 15 Apr 2022 22:40:57 +0100",
          "title" : "Peter Burri 1957-2022"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> On Tuesday, we marked the incredibly quick success of MU's Chess Team and the global name it is making for itself. Just three years in the making, our team has scored national and international wins under the leadership of head coach (and Grandmaster) Cristian Chirila. Several top-tier players from across the globe are now coming to MU to compete with this team. We know there's still more to do - including winning a national championship. </div><div class=\"field field-name-field-feature-image-caption field-type-text field-label-hidden field-wrapper\">Interim Dean Cooper Drury, Head Coach Cristian Chirila, Rex Sinquefield, President Choi and Dr. Jeanne Sinquef",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mizzou-president-choi%E2%80%99s-blog-applauding-our-chess-team-and-supporters",
-         "pubDate" : "Fri, 15 Apr 2022 19:44:16 +0000",
-         "title" : "Mizzou President Choi's Blog - Applauding our Chess Team and supporters"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Pawel Kacprzak</strong>, winner of the Best Chess Startup 2020 with <a href=\"https://twitter.chessvision.ai/\">ChessvisonAI</a>, has launched a bot to analyse chess positions. It works by tweeting a position and \"scan white\" or \"scan black\" to <strong><a href=\"https://twitter.com/ChessvisionAI\">@ChessvisionAI</a></strong>. </div> ",
@@ -728,14 +752,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-day-1.html",
          "pubDate" : "Thu, 14 Apr 2022 22:46:00 +0000",
          "title" : "2022 O2C Doeberl Cup - Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard uses one of his best preparations ever as Black to show how to use ChessBase to improve your chess game. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-use-chessbase-prepare-pro-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/634igXYzkbI.jpg?itok=_zg42D6Y\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-use-chessbase-prepare-pro-gm-romain-%C3%A9douard",
-         "pubDate" : "Thu, 14 Apr 2022 22:27:59 +0000",
-         "title" : "How to Use ChessBase | Prepare Like A Pro - GM Romain Édouard"
       },
       {
          "description" : "This week Robert Ris takes a look at the game Niemann-Thorhallsson from the Reykjavik Open. The young American Hans Moke Niemann is one of the main experts of the Jobava-London System and in this game he managed to defeat the experienced Icelandic GM Thorhallsson in only 21 moves. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1416,14 +1432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-510",
          "pubDate" : "Wed, 06 Apr 2022 19:00:44 +0100",
          "title" : "Game of the Week #510: Julian Kramer's fighting victory"
-      },
-      {
-         "description" : "GM Oleksandr Bortnyk and GM Ian Nepomniachtchi earned Titled Tuesday victories on April 5. GM Vladimir Fedoseev had to settle for second place in both events, and by a thin tiebreak margin in the late tournament. GM Alexey Sarana and IM Volodar Mu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bortnyk-nepomniachtchi-win-titled-tuesday-april-5-2022",
-         "pubDate" : "Wed, 06 Apr 2022 09:10:54 -0700",
-         "title" : "Bortnyk Breaks Titled Tuesday Drought, Nepomniachtchi Wins Late"
       },
       {
          "description" : " This is part 2 of my interview with famous Coach, Grandmaster Ramesh RB. If you haven't read part1 yet, then make sure to check that one out first! Also, go check out Ramesh's Online Chess Training service, PROChessTraining. I've myself trained in the Elite Group. What you get for the little price you pay is [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/gm-ramesh-part-2/\">Gold-Coach GM Ramesh RB On Calculation And How To Train Part 2</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
