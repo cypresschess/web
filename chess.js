@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week Robert Ris analyses how the young Indian Gukesh used a relatively new concept in the Sicilian Richter-Rauzer to win a nice and crucial game at the La Roda Open. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-new-approach-for-white-in-the-richter-rauzer",
+         "pubDate" : "Thu, 21 Apr 2022 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A new approach for White in the Richter-Rauzer"
+      },
+      {
+         "description" : "It was a nobrainer decision for the young guy who started writing ChessBase 37 years ago: Hit arrow-right to execute a move. The number of people replaying games in some kind of chess software can be assumed to be in the millions. So the number of cursor-right chess keystrokes in nearly 40 years is probably a couple of hundred billions (US). Maybe even a trillion (10^12). Not clear whether this is a life time software achievement to be proud of. But its time to grant the poor arrow keys a bit of rest with some cool new replaying functionality.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arrow-right-less-chess",
+         "pubDate" : "Thu, 21 Apr 2022 17:54:45 +0100",
+         "title" : "Arrow-right-less Chess"
+      },
+      {
+         "description" : "Chess.com is delighted to announce the Chess.com World Championship (CWC), our biggest tournament ever. With a total prize fund of $1,000,000, including $500,000 for our final live event at the five-star 1 Hotel in Toronto, Canada, this is an even...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-world-championship-million-dollar-announcement",
+         "pubDate" : "Thu, 21 Apr 2022 09:04:39 -0700",
+         "title" : "Announcing The $1,000,000 Chess.com World Championship"
+      },
+      {
+         "description" : "Chess.com is extremely excited to announce that verified accounts are coming to Chess.com beginning April 21. Have you ever wanted a simple way for other members to know that you&#38;mdash;and, perhaps more importantly, your opponents&#38;mdash;are a kn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-verified",
+         "pubDate" : "Thu, 21 Apr 2022 08:17:00 -0700",
+         "title" : "Chess.com Announces Verified Accounts"
+      },
+      {
          "description" : "A massive chess festival took place in Chihuahua, Mexico on April 12-17. Almost a thousand participants played in the numerous open tournaments, which included events for women, amateurs and different age categories. In the main event, Argentinian GM Sandro Mareco was the outright winner after scoring 7&frac12; out of 9 points. Pablo Salinas (Chile), Kevin Cori (Peru) and Luis Ibarra (Mexico) finished a half point. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1426,14 +1458,6 @@ news_feed (
          "title" : "New Technology for the ChessBase News"
       },
       {
-         "description" : "&#34;At the end of the day there was little incentive,&#34; GM Hikaru Nakamura&#38;nbsp;said about his quick draw against GM Wesley So in the final of the third leg of the FIDE Grand Prix.&#38;nbsp;Both players commented on it in an interview after the tournament...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-so-quick-draw-berlin-2022",
-         "pubDate" : "Thu, 07 Apr 2022 05:38:00 -0700",
-         "title" : "Nakamura On Quick Draw With So: 'There Was Little Incentive'"
-      },
-      {
          "description" : " <p class=\"lead\">The answer nowadays is simple. GM Sergey Karjakin is the current common ground of the World Champion Magnus Carlsen, the Director-General of FIDE Emil Sutovsky, Twitter's sensation Mr.Dodgy, and the Chinese GM Ding Liren. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/N_R04072.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">World Chess</div> </div> <h2>Carlsen on Karjakin</h2> In an interview for <a href=\"https://www.vg.no/sport/i/Or7lob/magnus-carlsen-usikker-paa-utestengelsen-av-karjakin-oensker-aa-bli-martyr\">the Norwegian newspaper VG,</a> Magnus Carlsen stated that he disagrees with Karjakin, but he is not sure whethe",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1594,28 +1618,12 @@ news_feed (
          "title" : " EP 273- GM Johan Hellsten on Chess Improvement, the Inspirations for his \"Mastering Chess\" Book Series, and his favorite OTB Memories "
       },
       {
-         "description" : "In his Endgame Magic Show #189 Karsten M&uuml;ller talks with Elisabeth P&auml;htz about the endgame. Elisabeth, World Junior Girls Champion in 2005, European Women's Rapid Champion in 2018, and currently number 13 on the women's ranking list, has an active style, and this also shows in her endgames, e.g. in an entertaining game against Zhansaya Abdumalik at the Online-FIDE-Steinitz-Memorial 2020. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-show-189-with-elisabeth-paehtz",
-         "pubDate" : "Tue, 05 Apr 2022 14:00:00 +0100",
-         "title" : "Endgame Magic Show #189 with Elisabeth P&auml;htz"
-      },
-      {
          "description" : "Magnus Carlsen has broken his silence and weighed in on FIDE's ban of Sergey Karjakin for the first time. The World Champion thinks the controversial Russian wants to become a \"martyr\", says he strongly disagrees with his Russian rival, but is unsure whether it was correct to ban him from chess competitions and strip him of a spot in the Candidates.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/carlsen-on-karjakin-these-types-of-attitudes-can-t-be-accepted",
          "pubDate" : "Tue, 05 Apr 2022 12:37:08 +0000",
          "title" : "Carlsen on Karjakin: \"These types of attitudes can't be accepted\""
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #509, Merijn van Delft shows how Hikaru Nakamura won against Andrey Esipenko in the final round of the preliminaries at the FIDE Grand Prix in Berlin - it was an interesting, tense fighting game and winning it guaranteed Nakamura a place in the Candidates. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-509-esipenko-vs-nakamura",
-         "pubDate" : "Tue, 05 Apr 2022 11:12:41 +0100",
-         "title" : "Game of the Week #509: Esipenko vs Nakamura"
       },
       {
          "description" : "The English Chess Federation's 24-hour charity marathon for Ukraine took place over the weekend of 02/04 to 03/04 on Chess.com to raise funds for the...",
@@ -1976,14 +1984,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/mpl-indian-chess-tour-1st-leg-2022",
          "pubDate" : "Thu, 31 Mar 2022 22:36:00 +0400",
          "title" : "MPL Indian Chess Tour 1st Leg 2022 - Games and Results"
-      },
-      {
-         "description" : " <p class=\"lead\">Round 2 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> semifinals ended with Tabatabaei winning against So and Mamedyarov drawing against Nakamura. With these results, both pairings move to the semifinals tiebreaks. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/20220331152256_IMG_5741.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220331154630_IMG_5753.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220331154700_IMG_5754.jpg\" width=\"2560\" height=\"1707\"",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/tabatabaei-beats-so-on-round-2-of-the-fide-grand-prix-semifinals/",
-         "pubDate" : "Thu, 31 Mar 2022 16:47:14 +0000",
-         "title" : "Tabatabaei Beats So In Round 2 of the Grand Prix Semifinals"
       }
    ]
 }
