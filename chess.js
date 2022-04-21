@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A massive chess festival took place in Chihuahua, Mexico on April 12-17. Almost a thousand participants played in the numerous open tournaments, which included events for women, amateurs and different age categories. In the main event, Argentinian GM Sandro Mareco was the outright winner after scoring 7&frac12; out of 9 points. Pablo Salinas (Chile), Kevin Cori (Peru) and Luis Ibarra (Mexico) finished a half point. | Photo: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sandro-mareco-wins-mexico-open-2022",
+         "pubDate" : "Thu, 21 Apr 2022 16:00:00 +0100",
+         "title" : "Sandro Mareco victorious at Mexico Open"
+      },
+      {
+         "description" : "Defending champion Stockfish is the winner of the Top Chess Engine Championship Season 22. It was up a near-decisive twelve points at the&#xA0;half-way mark, and although Komodo Dragon slowed the bleeding somewhat in the second half of the Superfinal, Stockfish's lead has&#xA0;grown to&#xA0;+18 as of time of writing (game 88/100).&#xA0;Stockfish not only won in dominating []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stockfish-wins-tcec-season-22-sets-records/",
+         "pubDate" : "Thu, 21 Apr 2022 14:09:26 +0000",
+         "title" : "Stockfish wins TCEC Season 22, sets records"
+      },
+      {
+         "description" : " During the ACT Junior Rapid Championships, I witnessed not one, but two R v B endings (no pawns mind you). As the players involved were relatively inexperienced, finding the correct defence proved elusive. It is a draw if the side with the Bishop can get their king into the corner of the opposite colour to the bishop, as stalemate tricks then save the day. In the first case the weaker side got their king caught in the middle of the back rank and lost the bishop to zugswang. In the second game, the defending side found a better strategy, putting the side with the rook into check, and then pointing out an illegal move when the rook was moved. After resetting the position I pointed out that to",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/r-v-b.html",
+         "pubDate" : "Thu, 21 Apr 2022 13:19:00 +0000",
+         "title" : "R v B"
+      },
+      {
+         "description" : "What makes a world champion? Magnus Carlsen got together with another of his country's world-class athletes, Olympic champion hurdler Karsten Warholm, to ponder exactly this question ahead of tomorrow's Oslo Esports Cup.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/Carlsen+talks+about+going+for+gold+with+Karsten+Warholm",
+         "pubDate" : "Thu, 21 Apr 2022 13:00:00 +0000",
+         "title" : "Rising to glory: Carlsen talks about going for gold with champion hurdler Karsten Warholm"
+      },
+      {
+         "description" : "With 7.5/9 the Armenian Grandmaster Hrant Melkumyan was sole first at this year's Doeberl Cup in Canberra, Australia. The tournament has been held since 1963 and is Australia's most prestigious chess event. It is named after the Austrian self-made businessman Erich Doeberl, who emigrated to Australia in 1955. | Photo: Rosemary Doeberl, daughter of Erich Doeberl, with Hrant Melkumyan (Photo: Chesslife)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hrant-melkumyan-wins-doeberl-cup",
+         "pubDate" : "Thu, 21 Apr 2022 13:46:26 +0100",
+         "title" : "Hrant Melkumyan wins Doeberl Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1698",
+         "pubDate" : "Thu, 21 Apr 2022 12:02:29 +0000",
+         "title" : "American Cup 2022: Day 1 Recap"
+      },
+      {
          "description" : "The inaugural American Cup kicked off today with plenty of decisive action as several players drew first blood in their individual matches within the Champions Bracket. Samuel Sevian (pictured) caused the biggest upset: he won with Black against Wesley So. | Photos: Austin and Crystal Fuller, Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,11 +58,11 @@ news_feed (
          "title" : "American Cup, Day 1, Recap: Plenty of action"
       },
       {
-         "description" : "GM Sam Sevian is on the brink of a 2700+ rating after beating the reigning U.S. Champion Wesley So in the first round of The American Cup. This brand new tournament, featuring a double elimination bracket, started on Wednesday in St. Louis, USA. ...",
+         "description" : "GM Sam Sevian is on the brink of a 2700+ rating after beating the reigning U.S. Champion Wesley So in the first round of The American Cup. This brand-new tournament, featuring a double-elimination bracket, started on Wednesday in St. Louis. How ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/the-american-cup-2022-day-1",
-         "pubDate" : "Thu, 21 Apr 2022 02:21:39 -0700",
+         "pubDate" : "Thu, 21 Apr 2022 02:21:00 -0700",
          "title" : "The American Cup Day 1: Sevian Upsets So"
       },
       {
@@ -162,14 +210,6 @@ news_feed (
          "title" : "Chess in Education Portal"
       },
       {
-         "description" : "Today the American Cup starts in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Round 1 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
-         "pubDate" : "Wed, 20 Apr 2022 19:45:00 +0100",
-         "title" : "American Cup, Round 1 - Live games and commentary"
-      },
-      {
          "description" : " This week's show featured someone we would have liked to interview, Wilhelm Steinitz. A great chess innovator, Steinitz was also a great tactician who won some truly brilliant games, and in this show we present three of them: Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-10/\">Master Chess Web Show (10)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -304,14 +344,6 @@ news_feed (
          "link" : "https://www.chessdom.com/capablanca-memorial-premier-live/",
          "pubDate" : "Wed, 20 Apr 2022 06:08:12 +0000",
          "title" : "Capablanca Memorial Premier LIVE"
-      },
-      {
-         "description" : "Capablanca Memorial 2022 is taking place 19-28 April in La Habana, Cuba. This year the event features strong round robins for men and women as well as an open event. In the men round robin, aka Grupo Elite, the ten players are GM Sandro Mareco, GM Hans Niemann, GM Surya Ganguly, GM Mustafa Yilmaz, GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/capablanca-memorial-elite-live/",
-         "pubDate" : "Wed, 20 Apr 2022 06:08:08 +0000",
-         "title" : "Capablanca Memorial Elite LIVE"
       },
       {
          "description" : "He's back! Jan Gustafsson, a key member of Team Magnus for the last three World Championship matches, will be answering your questions in a new Jan's Opening Clinic. chess24 Premium members get to ask Jan any question on chess openings and Jan will then film a series of shows where he tackles each question in turn. Simply leave a question under this article to get some personal tips from a chess openings guru!",
@@ -1610,14 +1642,6 @@ news_feed (
          "title" : "ECF Yearbook 2022"
       },
       {
-         "description" : "The diagrammed position is tricky: Black is two dangerous passed pawns up but it is White to move and the rook on h7 is hanging. Now, should White take the rook or look for something better to save the draw?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-tactics-3",
-         "pubDate" : "Tue, 05 Apr 2022 09:00:00 +0100",
-         "title" : "Endgame tactics"
-      },
-      {
          "description" : " \"What is the object of playing a gambit opening? To acquire a reputation of being a dashing player at the cost of losing a game.\" The Queen's Gambit series If you do a Google search for the Queen's Gambit opening, you find out it is one of the oldest known chess openings. It was first <a href=\"https://chessimprover.com/need-sure-points-queens-gambit-declined-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Queen's Gambit Declined Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-queens-gambit-declined-edition/\">Need sure points? Queen's Gambit Declined Edition</a> appeared first on <a rel=\"nofollow",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1850,14 +1874,6 @@ news_feed (
          "title" : "FIDE Grand Prix Berlin Semis: Tie-Breaks Recap"
       },
       {
-         "description" : "Indian great Vishy Anand has joined Arkady Dvorkovich's campaign to be re-elected as FIDE President, it was announced today. The five-time World Champion was pictured alongside Dvorkovich at an event in Delhi. It follows FIDE's decision to strip Russia of its flagship international team event on February 25, one day after Russia invaded Ukraine.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/vishy-anand-joins-dvorkovich-s-bid-for-second-term-as-fide-president",
-         "pubDate" : "Fri, 01 Apr 2022 16:52:02 +0000",
-         "title" : "Vishy Anand joins Dvorkovich's bid for second term as FIDE president"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1968,30 +1984,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/tabatabaei-beats-so-on-round-2-of-the-fide-grand-prix-semifinals/",
          "pubDate" : "Thu, 31 Mar 2022 16:47:14 +0000",
          "title" : "Tabatabaei Beats So In Round 2 of the Grand Prix Semifinals"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/wL_SqXmTWRE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-semi-finals-game-2/",
-         "pubDate" : "Thu, 31 Mar 2022 15:08:38 +0000",
-         "title" : "FIDE Grand Prix in Berlin: Semi-finals Game 2"
-      },
-      {
-         "description" : "FIDE President Mr. Arkady Dovorkovich arrived in India for a three day visit to see the preparation and discuss the road map ahead of the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/welcome-to-fide-president-mr-arkady-dvorkovich/",
-         "pubDate" : "Thu, 31 Mar 2022 13:35:05 +0000",
-         "title" : "Welcome to FIDE President Mr. Arkady Dvorkovich"
-      },
-      {
-         "description" : "The ECF is working with the Ukrainian Chess Federation to help Ukrainian refugees who wish to come to the UK. Any ECF members who are...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/hosting-ukrainian-refugees/",
-         "pubDate" : "Thu, 31 Mar 2022 13:06:53 +0000",
-         "title" : "Hosting Ukrainian refugees"
       }
    ]
 }
