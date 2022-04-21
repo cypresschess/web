@@ -18,6 +18,14 @@ news_feed (
          "title" : "American Cup, Round 2 - Live games and commentary"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The online gambling company <strong>Kindred Group</strong> has <a href=\"https://www.kindredgroup.com/media/press-releases/2022/unibet-extends-global-sponsorship-with-five-time-chess-world-champion-magnus-carlsen/\">renewed for two more years</a> the sponsorship contract of its sports betting brand <strong>Unibet</strong> with <strong>Magnus Carlsen</strong> and the <strong>Offerspill</strong> club he founded in 2019 for two more years. The world champion is currently endorsing Kindred's \"zero percent\" campaign with the goal not to make any more revenues from compulsory gamblers. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/two-more-years-with-unibet/",
+         "pubDate" : "Thu, 21 Apr 2022 19:37:34 +0100",
+         "title" : "Two more years with Unibet"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -127,7 +135,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/the-american-cup-2022-day-1",
          "pubDate" : "Thu, 21 Apr 2022 02:21:00 -0700",
-         "title" : "Sevian Upsets So: American Cup Day 1"
+         "title" : "Sevian Upsets So: The American Cup Day 1"
       },
       {
          "description" : "Women&#x2019;s German Chess Masters 2022 will be held from 22&#x2013;30 April in Best Western Plus Plaza Hotel Darmstadt. It is a 10-player round-robin tournament with Hanna Marie Klek, Dinara Wagner, Lara Schulze, Melanie Lubbe, Sarah Papp, Josefine Heinemann, Elena Kopke, Jana Schneider, Antonia Ziegenfuss, and Brigitte Burchardt. Women&#x2019;s German Chess Masters 2022 participants TTITLE NAME []",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/female-player-reports-harassment-in-reykjavik-open",
          "pubDate" : "Sat, 16 Apr 2022 13:30:13 +0000",
          "title" : "Female chess player reports harassment in Reykjavik Open"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While the <strong>Chess Federation of Russia</strong> prepares its move to the <strong>Asian Chess Federation</strong>, it goes unnoticed how many Russian top players are out of the country. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/predke.1920.gif\" title=\"Alexandr Predke and his girlfriend Marina Severin didn't return to Russia from the Berlin Grand Prix and went to Istanbul instead. photo: private\" data-title=\"Alexandr Predke and his girlfriend Marina Severin didn't return to Russia from the Berlin Grand Prix and went to Istanbul instead. (photo: private)\" class=\"js-img\"> <img itempr",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/leaving-russia/",
-         "pubDate" : "Sat, 16 Apr 2022 13:50:58 +0100",
-         "title" : "Leaving Russia"
       },
       {
          "description" : "Every chess player has a unique style of preparing - some like to study classics, some follow the latest updates, others rely heavily on engines. However, there is one common thread between most of the top elite-level players: they have all studied the classics. Thus, GM Sundararajan Kidambi decided to decode Jose Raul Capablanca's brilliance and showcased it with a few examples. He posed an important question: if the best of the best learned and got inspired by the studying the classics, why can't we do the same?",
