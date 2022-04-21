@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural American Cup kicked off today with plenty of decisive action as several players drew first blood in their individual matches within the Champions Bracket. Samuel Sevian (pictured) caused the biggest upset: he won with Black against Wesley So. | Photos: Austin and Crystal Fuller, Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-day-1-recap-plenty-of-action",
+         "pubDate" : "Thu, 21 Apr 2022 10:31:18 +0100",
+         "title" : "American Cup, Day 1, Recap: Plenty of action"
+      },
+      {
+         "description" : "GM Sam Sevian is on the brink of a 2700+ rating after beating the reigning U.S. Champion Wesley So in the first round of The American Cup. This brand new tournament, featuring a double elimination bracket, started on Wednesday in St. Louis, USA. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-american-cup-2022-day-1",
+         "pubDate" : "Thu, 21 Apr 2022 02:21:39 -0700",
+         "title" : "The American Cup Day 1: Sevian Upsets So"
+      },
+      {
+         "description" : "Women&#x2019;s German Chess Masters 2022 will be held from 22&#x2013;30 April in Best Western Plus Plaza Hotel Darmstadt. It is a 10-player round-robin tournament with Hanna Marie Klek, Dinara Wagner, Lara Schulze, Melanie Lubbe, Sarah Papp, Josefine Heinemann, Elena Kopke, Jana Schneider, Antonia Ziegenfuss, and Brigitte Burchardt. Women&#x2019;s German Chess Masters 2022 participants TTITLE NAME []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/womens-german-chess-masters-2022/",
+         "pubDate" : "Thu, 21 Apr 2022 09:09:33 +0000",
+         "title" : "Women's German Chess Masters 2022"
+      },
+      {
+         "description" : "Zhaoqin Peng is three times Chinese women's chess championship, in 1987, 1990 and 1993. Peng has won the Dutch women's championship an unprecedented fourteen times. She tied for first with Alexandra Kosteniuk at the European Women's Chess Championship of 2004 in Dresden, and took the silver medal on tiebreak this brought her the GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/16th-chess-olympic-event-for-zhaoqin-peng-tweetoftheday/",
+         "pubDate" : "Thu, 21 Apr 2022 08:39:58 +0000",
+         "title" : "16th Chess Olympic event for Zhaoqin Peng! #TweetOftheDay"
+      },
+      {
+         "description" : "By IM Kostya Kavutskiy The inaugural American Cup kicked off today with plenty of decisive action as several players drew first blood in their individual matches within the Champions Bracket.&#xA0;More: &#xA0;American Chess Cup 2022 preview&#xA0;/&#xA0;Participants&#xA0;/&#xA0;American Cup 2022 live&#xA0;/&#xA0;Official website Champions Bracket Open Field Champions Bracket Women&#x2019;s Field In this exciting new format, the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/many-decisive-games-at-the-start-of-the-american-chess-cup-2022/",
+         "pubDate" : "Thu, 21 Apr 2022 08:17:24 +0000",
+         "title" : "Many decisive games at the start of the American Chess Cup 2022"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A service portal to promote projects, mainly in educational chess, has been launched by the <strong>ECU Education Commission</strong> with support from the <strong>FIDE</strong> <strong>Development Fund</strong>. Among its first products is a <a href=\"https://projects.europechess.org/?p=205\">brochure on project planning and funding</a>. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -392,30 +432,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1694",
          "pubDate" : "Tue, 19 Apr 2022 07:52:49 +0000",
          "title" : "FIDE announces long-term cooperation with the Scheinberg family"
-      },
-      {
-         "description" : "Arjun Erigaisi, who recently won Delhi Chess 2022 and won the MPL Indian Chess Tour first leg, is the top seeded player in Menorca Open 2022. The tournament is going to take place 20-24 April and is going to feature impressive Indian participation GM Nihal Sarin, GM Gukesh, GM Adhiban, GM Raunak Sadhwani, GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arjun-erigaisi-is-top-seeded-in-menorca/",
-         "pubDate" : "Tue, 19 Apr 2022 06:50:44 +0000",
-         "title" : "Arjun Erigaisi is top seeded in Menorca"
-      },
-      {
-         "description" : "GM Hrant Melkumyan is the winner of the 2022 Doeberl Cup. Melkumyan secured the gold with 7,5/9, ahead of Temur Kuybokarov with 7,0/9. Here are the winners by category PREMIER 1st Place:&#160;GM Hrant Melkumyan (ARM) 7.5/9 Best Female:&#160;WGM Jilin Zhang (AUS)Bedi Cup (Best Australian Junior):&#160;Ryder Testolin (AUS)U2000 Medallion:&#160;CM Lalit Prasad (AUS)U2200 Medallion:&#160;Matthew Clarke (AUS)Fighting Fund:&#160;IM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-hrant-melkumyan-wins-doeberl-cup-2022/",
-         "pubDate" : "Tue, 19 Apr 2022 06:07:49 +0000",
-         "title" : "GM Hrant Melkumyan wins Doeberl Cup 2022"
-      },
-      {
-         "description" : "GM Jules Moussard is the winner of the 2022 edition of Open Internacional de ajedrez Semana Santa en Torrevieja. The French Grandmaster collected 8,0/9, half a point ahead of GM Karen Grigoryan and GM Eduardo Iturrizaga. A total of 450 participants entered the event, one of the largest chess opens in recent times. Final standings []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-jules-moussard-is-the-winner-of-torrevieja-2022/",
-         "pubDate" : "Tue, 19 Apr 2022 05:47:53 +0000",
-         "title" : "GM Jules Moussard is the winner of Torrevieja 2022"
       },
       {
          "description" : " IM Christopher Yoo was victorious in his round of 16 match today against GM Rameshbabu Praggnanandhaa in the&#38;nbsp;2022 Junior Speed Chess Championship&#38;nbsp;presented by SIG. Few points separated the players for the majority of the match, but i...",
@@ -1410,14 +1426,6 @@ news_feed (
          "title" : "ECF Women's Norm Event 2022/She Plays To Win"
       },
       {
-         "description" : "Shortly after winning the 2022 FIDE Grand Prix and qualifying for the FIDE Candidates Tournament, GM Hikaru Nakamura&#38;nbsp;won the ninth week of&#38;nbsp;Arena Kings&#38;nbsp;(making it two weeks in a row). He won in the final with a score of 3-1 against G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-another-one-arena-kings-season-9-week-9",
-         "pubDate" : "Wed, 06 Apr 2022 15:45:00 -0700",
-         "title" : "Nakamura Wins Another One: Arena Kings Season 9 Week 9"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1616,14 +1624,6 @@ news_feed (
          "link" : "https://chessimprover.com/need-sure-points-queens-gambit-declined-edition/",
          "pubDate" : "Tue, 05 Apr 2022 07:58:56 +0000",
          "title" : "Need sure points? Queen's Gambit Declined Edition"
-      },
-      {
-         "description" : "Arjun Erigaisi won his fourth consecutive individual tournament as he bagged the first leg of the MPL Indian Chess Tour. This was his fifth overall triumph of the year 2022. He qualified to the Tour finals and will also play at the Meltwater Champions Chess Tour. Runner-up Raunak Sadhwani scored only two draws in the 15-round event, while Gukesh and Surya Ganguly were placed third and fourth. The top eight finishers get an automatic invitation to the next leg, which is scheduled to take place in June.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arjun-erigaisi-clinches-first-leg-of-the-mpl-indian-chess-tour",
-         "pubDate" : "Mon, 04 Apr 2022 22:40:00 +0100",
-         "title" : "Arjun Erigaisi clinches victory at first leg of the MPL Indian Chess Tour"
       },
       {
          "description" : "",
