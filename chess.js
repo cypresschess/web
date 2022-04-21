@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"The chess world isn't a safe place for us,\" says popular chess streamer Tallulah Roberts, aka \"lularobs\", recounting an incident at the blitz tournament of the Reykjavik Open 2022. Jamaal S. Abdul-Alim, 2013 Chess Journalist of the Year, explains \"why chess tournaments can be hostile for women and girls\". | Photo: Reykjavik Open",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/why-chess-tournaments-can-be-hostile-for-women-and-girls",
+         "pubDate" : "Thu, 21 Apr 2022 20:03:33 +0100",
+         "title" : "Why chess tournaments can be hostile for women and girls"
+      },
+      {
+         "description" : "The American Cup kicked off Wednesday in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Round 2 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
+         "pubDate" : "Thu, 21 Apr 2022 19:50:00 +0100",
+         "title" : "American Cup, Round 2 - Live games and commentary"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1699",
+         "pubDate" : "Thu, 21 Apr 2022 18:29:02 +0000",
+         "title" : "51st Mar del Plata Open: Andres Rodriguez clinches the title"
+      },
+      {
+         "description" : "Chess.com is partnering with treasure.chess.com to offer an experimental NFT marketplace where players, creators, and collectors can create, trade, buy, and sell NFTs made from their Chess.com games. NFTs are a widely popular, and controversial,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/treasure-chess",
+         "pubDate" : "Thu, 21 Apr 2022 11:22:10 -0700",
+         "title" : "Announcing Treasure Chess: A Chess NFT Marketplace"
+      },
+      {
          "description" : "This week Robert Ris analyses how the young Indian Gukesh used a relatively new concept in the Sicilian Richter-Rauzer to win a nice and crucial game at the La Roda Open. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,20 +50,20 @@ news_feed (
          "title" : "Arrow-right-less Chess"
       },
       {
-         "description" : "Chess.com is delighted to announce the Chess.com World Championship (CWC), our biggest tournament ever. With a total prize fund of $1,000,000, including $500,000 for our final live event at the five-star 1 Hotel in Toronto, Canada, this is an even...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-world-championship-million-dollar-announcement",
-         "pubDate" : "Thu, 21 Apr 2022 09:04:39 -0700",
-         "title" : "Announcing The $1,000,000 Chess.com World Championship"
-      },
-      {
          "description" : "Chess.com is extremely excited to announce that verified accounts are coming to Chess.com beginning April 21. Have you ever wanted a simple way for other members to know that you&#38;mdash;and, perhaps more importantly, your opponents&#38;mdash;are a kn...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chesscom-verified",
          "pubDate" : "Thu, 21 Apr 2022 08:17:00 -0700",
          "title" : "Chess.com Announces Verified Accounts"
+      },
+      {
+         "description" : " The Oslo Esports Cup is the first Meltwater Champions Chess Tour event to take place not online but at a venue Fri 22nd Apr 2022\tThu 28th Apr 2022. Players: Carlsen, Giri, Mamedyarov, Duda, Van Foreest, Le Quang Liem, Praggnanandhaa and Eric Hansen play in this round robin of 4 game mini-matches. This is the first tour classic of the season.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/oslo-esports-cup-2022",
+         "pubDate" : "Thu, 21 Apr 2022 19:10:00 +0400",
+         "title" : "Oslo Esports Cup 2022 - Games and Results"
       },
       {
          "description" : "A massive chess festival took place in Chihuahua, Mexico on April 12-17. Almost a thousand participants played in the numerous open tournaments, which included events for women, amateurs and different age categories. In the main event, Argentinian GM Sandro Mareco was the outright winner after scoring 7&frac12; out of 9 points. Pablo Salinas (Chile), Kevin Cori (Peru) and Luis Ibarra (Mexico) finished a half point. | Photo: Official site",
@@ -95,7 +127,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/the-american-cup-2022-day-1",
          "pubDate" : "Thu, 21 Apr 2022 02:21:00 -0700",
-         "title" : "The American Cup Day 1: Sevian Upsets So"
+         "title" : "Sevian Upsets So: American Cup Day 1"
       },
       {
          "description" : "Women&#x2019;s German Chess Masters 2022 will be held from 22&#x2013;30 April in Best Western Plus Plaza Hotel Darmstadt. It is a 10-player round-robin tournament with Hanna Marie Klek, Dinara Wagner, Lara Schulze, Melanie Lubbe, Sarah Papp, Josefine Heinemann, Elena Kopke, Jana Schneider, Antonia Ziegenfuss, and Brigitte Burchardt. Women&#x2019;s German Chess Masters 2022 participants TTITLE NAME []",
@@ -232,6 +264,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-arena-kings-season-9-week-11",
          "pubDate" : "Wed, 20 Apr 2022 14:45:00 -0700",
          "title" : "Nakamura Wins Fourth Week Straight: Arena Kings Season 9 Week 11"
+      },
+      {
+         "description" : "Chess.com is delighted to announce the Chess.com World Championship (CWC), our biggest tournament ever. With a total prize fund of $1,000,000, including $500,000 for our final live event at the five-star 1 Hotel in Toronto, Canada, this is an even...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-world-championship-million-dollar-announcement",
+         "pubDate" : "Wed, 20 Apr 2022 13:09:00 -0700",
+         "title" : "Announcing The $1,000,000 Chess.com World Championship"
       },
       {
          "description" : "ECU Educational Commission releases a project &#8220;Chess in Education Portal&#8221;. The project has been developed since 2021 with the support of the FIDE Development fund. The &#8220;Chess in Education Portal&#8221; is a guide to creating chess projects. Whether you are organizing a federation, chess club, chess-themed event, a competitive tournament or a school program, it takes considerable effort&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-in-education-portal/\">Read More &#187;</a></span>",
@@ -1442,14 +1482,6 @@ news_feed (
          "title" : "2022 O2C Doeberl Cup - 1 week to go"
       },
       {
-         "description" : "GM&#38;nbsp;Matthias Bluebaum won the 2022 European Championship&#38;nbsp;in Terme Catez, Slovenia on Wednesday. The German grandmaster edged out GM Gabriel Sargissian on tiebreak. Bronze went to the 2018 champion, GM Ivan Saric, of Croatia. The top 20 pl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/matthias-bluebaum-wins-2022-european-championship",
-         "pubDate" : "Thu, 07 Apr 2022 06:39:00 -0700",
-         "title" : "Matthias Bluebaum Wins 2022 European Championship"
-      },
-      {
          "description" : "In the last weeks, we added a lot of chess interactivity to the ChessBase news pages. Replaying games is now optimized for mobile devices. There is a pleasing new layout for annotated games. Social sharing has been radically improved. Diagrams have grown a dirty little secret. Live broadcasts with multiple boards can be configured easily.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1570,28 +1602,12 @@ news_feed (
          "title" : "National Junior Certificates are Out"
       },
       {
-         "description" : "Since it is likely that Sergey Karjakin will not play in the upcoming Candidates Tournament - his six-month ban is still pending a potential appeal - the spot left behind by the Russian will be filled by the highest-rated, eligible player in FIDE's ranking list published on May 1. Ding Liren is the clear frontrunner in this race, but he only played 4 games since June 2021, with the regulations stipulating that a minimum of 30 games are needed to be eligible. Ding is quickly making up for lost ground, as three events have been organized in China to get him to play the 26 games needed by the end of the month. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ding-liren-wins-quadruple-round-robin-hangzhou",
-         "pubDate" : "Tue, 05 Apr 2022 23:30:00 +0100",
-         "title" : "Ding Liren wins quadruple round-robin in Hangzhou"
-      },
-      {
          "description" : "US Chess Champion Wesley So defeated Hikaru Nakamura in tiebreaks to win the final event of the 2022 FIDE Grand Prix and finish in 3rd place in the overall standings. Wesley needed just two rapid games to clinch the title, with the rollercoaster first game ending in a draw before Hikaru blundered a piece in a difficult position in the second. Hikaru noted he'd lost all interest in the event since achieving the main goal of qualifying for the Candidates Tournament, while Wesley talked about his World Championship chances after Magnus retires.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/wesley-so-clinches-final-grand-prix-victory",
          "pubDate" : "Tue, 05 Apr 2022 19:21:05 +0000",
          "title" : "Wesley So clinches final Grand Prix victory"
-      },
-      {
-         "description" : "With a 1&frac12;-&frac12; victory in Monday's rapid tiebreakers, Wesley So became the winner of the FIDE Grand Prix's third leg in Berlin. So beat Hikaru Nakamura with the white pieces in game 2 of the playoff to take home €24,000 in prize money and finish the series in third place overall. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-prix-2022-leg-3-f3",
-         "pubDate" : "Tue, 05 Apr 2022 15:15:00 +0100",
-         "title" : "So beats Nakamura, wins Berlin Grand Prix"
       },
       {
          "description" : "On Chess24.com on Sunday April 10th at 10.00am, with ECF Director of Women's Chess Agnieszka Milewska click here",
@@ -1976,14 +1992,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-grand-prix-berlin-semis-game-2-recap/",
          "pubDate" : "Thu, 31 Mar 2022 22:15:37 +0000",
          "title" : "FIDE Grand Prix Berlin Semis: Game 2 Recap"
-      },
-      {
-         "description" : " The MPL Indian Chess Tour 1st Leg takes place Thu 31st Mar to Sun 3rd Apr 2022 hosted by Chess24. This event is an extension of the online Meltwater Champions Chess Tour and has 5 qualifying places for the main tour. There are 4 legs and a final. The format is a straight rapid round robin of 16 players.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/mpl-indian-chess-tour-1st-leg-2022",
-         "pubDate" : "Thu, 31 Mar 2022 22:36:00 +0400",
-         "title" : "MPL Indian Chess Tour 1st Leg 2022 - Games and Results"
       }
    ]
 }
