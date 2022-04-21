@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-day-3-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-3-lichessorg",
+         "pubDate" : "Thu, 21 Apr 2022 01:33:04 +0000",
+         "title" : "The American Cup 2022: Day 3 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-day-4-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-4-lichessorg",
+         "pubDate" : "Thu, 21 Apr 2022 01:33:04 +0000",
+         "title" : "The American Cup 2022: Day 4 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-day-5-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-5-lichessorg",
+         "pubDate" : "Thu, 21 Apr 2022 01:33:04 +0000",
+         "title" : "The American Cup 2022: Day 5 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-day-6-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-6-lichessorg",
+         "pubDate" : "Thu, 21 Apr 2022 01:33:04 +0000",
+         "title" : "The American Cup 2022: Day 6 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-day-7-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-7-lichessorg",
+         "pubDate" : "Thu, 21 Apr 2022 01:33:04 +0000",
+         "title" : "The American Cup 2022: Day 7 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.27<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-day-8-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-8-lichessorg",
+         "pubDate" : "Thu, 21 Apr 2022 01:33:04 +0000",
+         "title" : "The American Cup 2022: Day 8 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.28<br /> USChessChamps.com FINAL ROUND | GAME 2 FINAL ROUND | GAME 2 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-day-9-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styl",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-9-lichessorg",
+         "pubDate" : "Thu, 21 Apr 2022 01:33:04 +0000",
+         "title" : "The American Cup 2022: Day 9 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.29<br /> USChessChamps.com SUPERFINAL SUPERFINAL </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-day-10-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_i",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-10-lichessorg",
+         "pubDate" : "Thu, 21 Apr 2022 01:33:04 +0000",
+         "title" : "The American Cup 2022: Day 10 | lichess.org"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Sam Shankland after his draw against Leinier Dominguez in Game 1 of their Champion's Bracket match. 2022.04.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sam-shankland-i-think-its-fantastic-format-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jpiFe-X8g_o.jpg?itok=r9YAfSwU\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -18,62 +82,6 @@ news_feed (
          "title" : "Leinier Dominguez: Wasn't Expecting b5 Line | Day 1"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Levon Aronian after his win against Ray Robson in Game 1 of their Champion's Bracket match. 2022.04.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-aronian-i-had-never-played-ray-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yDR9ltZQ4oI.jpg?itok=GRhVPjIW\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/levon-aronian-i-had-never-played-ray-day-1",
-         "pubDate" : "Wed, 20 Apr 2022 22:32:54 +0000",
-         "title" : "Levon Aronian: I Had Never Played Ray | Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Sam Sevian after his win against Wesley So in Game 1 of their Champion's Bracket match. 2022.04.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sam-sevian-it-was-crazy-game-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Ak2WdvYc0Zc.jpg?itok=7d6No3Wd\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sam-sevian-it-was-crazy-game-day-1",
-         "pubDate" : "Wed, 20 Apr 2022 22:32:54 +0000",
-         "title" : "Sam Sevian: It Was a Crazy Game | Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Anna Zatonskih after her win against Tatev Abrahamyan in Game 1 of their Champion's Bracket match. 2022.04.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anna-zatonskih-tatev-blitzed-last-ten-moves-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YAwntVSblec.jpg?itok=j9m2bqM-\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/anna-zatonskih-tatev-blitzed-last-ten-moves-day-1",
-         "pubDate" : "Wed, 20 Apr 2022 22:32:54 +0000",
-         "title" : "Anna Zatonskih: Tatev Blitzed the Last Ten Moves | Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Fabiano Caruana after his draw against Jeffery Xiong in Game 1 of their Champion's Bracket match. 2022.04.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-time-control-unforgiving-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zGUMVGxVLas.jpg?itok=Ar6RdngB\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-time-control-unforgiving-day-1",
-         "pubDate" : "Wed, 20 Apr 2022 22:32:54 +0000",
-         "title" : "Fabiano Caruana: The Time Control is Unforgiving | Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Irina Krush after her win against Ruiyang Yan in Game 1 of their Champion's Bracket match. 2022.04.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-my-idea-against-ruiyang-worked-well-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kp1GEsJqOFM.jpg?itok=Y50XisR0\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/irina-krush-my-idea-against-ruiyang-worked-well-day-1",
-         "pubDate" : "Wed, 20 Apr 2022 22:32:54 +0000",
-         "title" : "Irina Krush: My Idea Against Ruiyang Worked Well | Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Begin Tokhirjonova after her win against Katerina Nemcova in Game 1 of their Champion's Bracket match. 2022.04.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-tokhirjonova-i-hoped-she-would-make-mistake-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TNjwooBdpME.jpg?itok=uBM0NSLm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/begim-tokhirjonova-i-hoped-she-would-make-mistake-day-1",
-         "pubDate" : "Wed, 20 Apr 2022 22:32:54 +0000",
-         "title" : "Begim Tokhirjonova: I Hoped She Would Make a Mistake | Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.21<br /> USChessChamps.com ROUND 1 | GAME 2<br /> Ray Robson vs. Levon Aronian<br /> Sam Shankland vs. Dominguez<br /> Sam Sevian vs. Wesley So<br /> Jeffery Xiong vs. Fabiano Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-2-lichessorg",
-         "pubDate" : "Wed, 20 Apr 2022 22:32:54 +0000",
-         "title" : "The American Cup 2022: Day 2 | lichess.org"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -88,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-arena-kings-season-9-week-11",
          "pubDate" : "Wed, 20 Apr 2022 14:45:00 -0700",
          "title" : "Nakamura Wins Fourth Week Straight: Arena Kings Season 9 Week 11"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.20<br /> USChessChamps.com ROUND 1 | GAME 1<br /> Levon Aronian vs. Ray Robson<br /> Dominguez vs. Sam Shankland<br /> Wesley So vs. Sam Sevian<br /> Fabiano Caruana vs. Jeffery Xiong </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-1-lichessorg",
-         "pubDate" : "Wed, 20 Apr 2022 19:32:45 +0000",
-         "title" : "The American Cup 2022: Day 1 | lichess.org"
       },
       {
          "description" : "ECU Educational Commission releases a project &#8220;Chess in Education Portal&#8221;. The project has been developed since 2021 with the support of the FIDE Development fund. The &#8220;Chess in Education Portal&#8221; is a guide to creating chess projects. Whether you are organizing a federation, chess club, chess-themed event, a competitive tournament or a school program, it takes considerable effort&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-in-education-portal/\">Read More &#187;</a></span>",
@@ -1992,14 +1992,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/hosting-ukrainian-refugees/",
          "pubDate" : "Thu, 31 Mar 2022 13:06:53 +0000",
          "title" : "Hosting Ukrainian refugees"
-      },
-      {
-         "description" : " From the publishers' blurb: &#8220;The revolutionary Wilhelm Steinitz (1836-1900) considered himself to be in the vanguard of an emerging, late-19th century 'Modern' school, which embraced a new, essentially scientific vitality in its methods of research, analysis, evaluation, planning, experiment and even belligerent fight. Steinitz, who dominated the chess world in the shadow of a more <a href=\"http://britishchessnews.com/2022/03/31/modern-chess-from-steinitz-to-the-21st-century/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Modern Chess- From Steinitz to the 21st Century</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britis",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/03/31/modern-chess-from-steinitz-to-the-21st-century/",
-         "pubDate" : "Thu, 31 Mar 2022 00:10:45 +0000",
-         "title" : "Modern Chess- From Steinitz to the 21st Century"
       }
    ]
 }
