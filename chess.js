@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A service portal to promote projects, mainly in educational chess, has been launched by the <strong>ECU Education Commission</strong> with support from the <strong>FIDE</strong> <strong>Development Fund</strong>. Among its first products is a <a href=\"https://projects.europechess.org/?p=205\">brochure on project planning and funding</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/ecu-promotes-projects-through-new/",
+         "pubDate" : "Thu, 21 Apr 2022 04:38:02 +0100",
+         "title" : "ECU promotes projects through new portal"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The sponsors of the <strong>Grand Swiss</strong> and <strong>Chess.com</strong>-investors <strong>Isai and Mark Scheinberg</strong>, who became billionaires through <strong>PokerStars</strong>, <a href=\"https://www.fide.com/news/1694\">agreed</a> with <strong>FIDE</strong> to sponsor one major tournament each year until 2026. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/scheinberg-family-commits-until-2026/",
+         "pubDate" : "Thu, 21 Apr 2022 04:27:16 +0100",
+         "title" : "Scheinberg family commits until 2026"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-day-3-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -650,14 +666,6 @@ news_feed (
          "title" : "Peter Burri 1957-2022"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Pawel Kacprzak</strong>, winner of the Best Chess Startup 2020 with <a href=\"https://twitter.chessvision.ai/\">ChessvisonAI</a>, has launched a bot to analyse chess positions. It works by tweeting a position and \"scan white\" or \"scan black\" to <strong><a href=\"https://twitter.com/ChessvisionAI\">@ChessvisionAI</a></strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/chessvision-analysis-bot-on-twitter/",
-         "pubDate" : "Fri, 15 Apr 2022 19:40:23 +0100",
-         "title" : "Chessvision analysis bot on Twitter"
-      },
-      {
          "description" : "In this week's edition of the Power Play Show, GM Daniel King features two games played by Praggnanandhaa at the Reykjavik Open. The prodigy's keen instinct to attack is in full display! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -704,14 +712,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1691",
          "pubDate" : "Fri, 15 Apr 2022 11:34:28 +0000",
          "title" : "Qualification Commission renews its leadership"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Supervisory Board of the <strong>Chess Federation of Russia</strong>, that includes Putin's speaker <strong>Dmitry Peskov</strong> and Minister of Defense <strong>Sergey Shoigu</strong>, <a href=\"https://www.championat.com/other/news-4665729-federaciya-shahmat-rossii-prinyala-reshenie-o-vstuplenii-v-aziatskuyu-shahmatnuyu-federaciyu.html\">has decided</a> to join the <strong>Asian Chess Federation</strong>. The <strong>European Chess Union</strong> has not received a request to leave for this unprecedented move and is checking the regulations before issuing a statement. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/russia-voted-to-join-asian-chess/",
-         "pubDate" : "Fri, 15 Apr 2022 10:02:38 +0100",
-         "title" : "Russia voted to join Asian Chess Federation"
       },
       {
          "description" : "",
