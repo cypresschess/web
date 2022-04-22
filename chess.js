@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An action packed day saw five matches decided in the playoffs and one match (Caruana-Xiong) made it all the way to Armageddon, finishing in a dramatic time scramble. After all was said and done, Aronian, Dominguez, Sevian, and Caruana from the Open Field along with Krush, Tokhirjonova, Lee, and Abrahamyan from the Women's Field advanced to the next stage of the Champions Bracket. | Photos: Austin and Crystal Fuller, Saint Louis Chess Club, Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-day-2-recap-tiebreaks-and-an-armageddon",
+         "pubDate" : "Fri, 22 Apr 2022 12:06:54 +0100",
+         "title" : "American Cup, Day 2, Recap: Tiebreaks and an Armageddon"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1700",
+         "pubDate" : "Fri, 22 Apr 2022 10:24:52 +0000",
+         "title" : "American Cup: Day 2 Recap"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91001581.cms\" />The All India Chess Federation (AICF) is going all out to make the 44th FIDE Chess Olympiad a success, including giving subsidies to the participating nations.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-subsidies-for-participating-nations-aicf-goes-all-out-to-make-it-huge/articleshow/91001581.cms",
+         "pubDate" : "Fri, 22 Apr 2022 09:58:33 +0000",
+         "title" : "Chess Olympiad: Subsidies for participating nations, AICF goes all out to make it huge"
+      },
+      {
+         "description" : "This is just a friendly reminder that ECF will be charging game fee (&pound;18 adult, &pound;6 junior) to leagues and clubs who send in non-members'...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/attn-league-and-club-secretaries/",
+         "pubDate" : "Fri, 22 Apr 2022 09:53:25 +0000",
+         "title" : "Attn. League and Club Secretaries"
+      },
+      {
+         "description" : "For Wesley So to win the American Cup he now has to win the Elimination bracket first after he fell to defeat against Sam Sevian, who crossed 2700 for the first time. All the other matches in the open section went to tiebreaks, with Fabiano Caruana \"a little bit disgusted\" after defeating Jeffery Xiong in Armageddon only when his opponent lost on time in a winning position. Levon Aronian edged past Ray Robson and Leinier Dominguez overcame Sam Shankland, while 12-year-old Alice Lee is through to the Women's semi-finals.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/american-cup-sevian-shocks-so-as-caruana-escapes",
+         "pubDate" : "Fri, 22 Apr 2022 09:18:39 +0000",
+         "title" : "American Cup: Sevian shocks So as Caruana escapes"
+      },
+      {
+         "description" : " We've spent the last few months examining how you should go about selecting a move and some basic tactical ideas. While I didn't introduce you to every tactic you need to know, rest assured that you'll meet those other tactics in upcoming articles. The ground we covered may have seemed vast, however, you can use <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-eight/\">A Foundation for Beginners Fifty Eight</a> appeared first on <a rel=\"nofollow\" href=\"http",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-eight/",
+         "pubDate" : "Fri, 22 Apr 2022 07:47:29 +0000",
+         "title" : "A Foundation for Beginners Fifty Eight"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Through a marathon of rated games in China, <strong>Ding Liren</strong> has completed the requirement of 30 games between 1 June 2021 and 30 April 2022 to take over as highest rated player the spot of banned <strong>Sergey Karjakin</strong> at the <strong>Candidates Tournament</strong> in Madrid, unless the Russian appeal at CAS succeeds. Ding has also narrowly overtaken Firouzja in the <a href=\"https://2700chess.com\">rating list</a> and is number two again. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/ding-qualified-for-candidates/",
+         "pubDate" : "Fri, 22 Apr 2022 08:36:58 +0100",
+         "title" : "Ding qualified for Candidates"
+      },
+      {
          "description" : " Norway's world champion says he felt more comfortable before 2013 when he knew he was the best player and that later too much of his identity became linked to the championship title Magnus Carlsen has again stated that he is \"unlikely\" to defend his world title against the winner of the eight-player Candidates scheduled for Madrid in June and explained that he felt more comfortable in the years before 2013 when he was ranked No 1 but had not yet defeated India's Vishy Anand in the world title match in Chennai. Since then Carlsen has won five championship matches - twice against Anand, and one each against Russia's Sergey Karjakin, Fabiano Caruana of the US, and Russia's Ian Nepolmiachtchi. ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -14,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/the-american-cup-2022-day-2",
-         "pubDate" : "Thu, 21 Apr 2022 23:53:24 -0700",
+         "pubDate" : "Thu, 21 Apr 2022 23:53:00 -0700",
          "title" : "Caruana Survives Armageddon Rollercoaster: The American Cup Day 2"
       },
       {
@@ -304,22 +360,6 @@ news_feed (
          "link" : "https://www.chessdom.com/many-decisive-games-at-the-start-of-the-american-chess-cup-2022/",
          "pubDate" : "Thu, 21 Apr 2022 08:17:24 +0000",
          "title" : "Many decisive games at the start of the American Chess Cup 2022"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A service portal to promote projects, mainly in educational chess, has been launched by the <strong>ECU Education Commission</strong> with support from the <strong>FIDE</strong> <strong>Development Fund</strong>. Among its first products is a <a href=\"https://projects.europechess.org/?p=205\">brochure on project planning and funding</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/ecu-promotes-projects-through-new/",
-         "pubDate" : "Thu, 21 Apr 2022 04:38:02 +0100",
-         "title" : "ECU promotes projects through new portal"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The sponsors of the <strong>Grand Swiss</strong> and <strong>Chess.com</strong>-investors <strong>Isai and Mark Scheinberg</strong>, who became billionaires through <strong>PokerStars</strong>, <a href=\"https://www.fide.com/news/1694\">agreed</a> with <strong>FIDE</strong> to sponsor one major tournament each year until 2026. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/scheinberg-family-commits-until-2026/",
-         "pubDate" : "Thu, 21 Apr 2022 04:27:16 +0100",
-         "title" : "Scheinberg family commits until 2026"
       },
       {
          "description" : "",
@@ -1626,14 +1666,6 @@ news_feed (
          "title" : "Panama to host World School Chess Championship 2022"
       },
       {
-         "description" : "In an interview for the Norwegian newspaper VG, Magnus Carlsen talked about the recent developments involving Sergey Karjakin. The world champion clearly stated that he disagrees with his colleague's stance, but also noted that he is not sure whether banning him from official tournaments was the right decision. | Photo: Albert Silver",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-karjakin-wants-to-become-a-martyr",
-         "pubDate" : "Wed, 06 Apr 2022 09:22:33 +0100",
-         "title" : "Carlsen: \"Karjakin wants to become a martyr\""
-      },
-      {
          "description" : "National Junior Certificates (09-13, march), Gurugram National Junior Chess Championship 2022 Certificates are out to download. Male : https://aicf.online/National-Junior-M.html Female : https://aicf.online/National-Junior-G.html Any correction please",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1810,14 +1842,6 @@ news_feed (
          "title" : "2022 Dubbo Open - Kethro and McGowan tie for 1st"
       },
       {
-         "description" : " Game 32 of Chernev's Logical Chess Move by Move, Canal Capablanca Budapest 1929, is a strange one. A classic example, I think, of annotation by result and reputation. We'll whizz through the opening quickly to reach the crucial part of the game. 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 <a href=\"https://chessimprover.com/logical-chess-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Logical Chess (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/logical-chess-4/\">Logical Chess (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/logical-chess-4/",
-         "pubDate" : "Sun, 03 Apr 2022 13:11:42 +0000",
-         "title" : "Logical Chess (4)"
-      },
-      {
          "description" : " The 2022 Dubbo Open has attracted a good field of 37 players. The top 2 seeds are Cameron McGowan and FM Michael Kethro, with a solid field of 1750-2000 rated players making up the next 7 seeds. After the first 3 rounds, McGowan, Kethro and WFM Alana Chibnall lead with 3/3. Close behind on 2.5 are WFM Kristine Quek, WIM Biljana Dekic and Kye Walls. The round 4 pairings see McGowan play Kethro on the top board, with Dekic v Chibnall on board 2. After the 3rd round the traditional time handicap blitz event was held. Players were given a time bonus/penalty based on their rating, meaning that higher rated players might start with only 2 or 3 minutes on their click (versus their opponents 5). Th",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1888,14 +1912,6 @@ news_feed (
          "link" : "https://aicf.in/gujarat-gm-2022-live-link/",
          "pubDate" : "Sat, 02 Apr 2022 10:31:50 +0000",
          "title" : "Gujarat GM 2022 Live link"
-      },
-      {
-         "description" : "Hikaru Nakamura is now back to being the world no. 1 in both rapid and blitz chess after defeating Shakhriyar Mamedyarov 2:0 in tiebreaks to reach the final of the last FIDE Grand Prix and overtake Magnus Carlsen on the rating list. He'll take on Wesley So, who also scored a 2:0 win over Amin Tabatabaei, but in fact both losing semi-finalists had great chances to clinch victory, with Amin close to winning in both games.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-overtakes-carlsen-as-rapid-no-1",
-         "pubDate" : "Sat, 02 Apr 2022 09:10:08 +0000",
-         "title" : "Nakamura overtakes Carlsen as rapid no. 1"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90606020.cms\" />Sports administration could be Indian chess legend Viswanathan Anand's next stopover. The five-time world champion on Friday confirmed his involvement in current FIDE president Arkady Dvorkovich's re-election campaign, though ruling himself out of the contest for any office-bearer's post.",
