@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this week's edition of the Power Play Show, GM Daniel King continues to look at the fortunes of two extremely talented Indian players, Praggnanandhaa and Gukesh! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-pragg-gukesh",
+         "pubDate" : "Fri, 22 Apr 2022 17:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Pragg and Gukesh grab the prizes"
+      },
+      {
+         "description" : "This Saturday, 23 April 2022, from 13.00 CEST (7.00 ET, 11.00 UTC) to 16.00 CEST will see a solidarity match between teams from Norway and Ukraine. Magnus Carlsen leads the Norwegian team that meets in the Good Knight Pub in the centre of Oslo. Former world number two Vasyl Ivanchuk leads the Ukrainian side. The match will be streamed in English from the Good Knight pub on the channel of the Offerspill chess club on Twitch.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/solidarity-match-norway-ukraine-with-carlsen-and-ivanchuk",
+         "pubDate" : "Fri, 22 Apr 2022 15:49:47 +0100",
+         "title" : "Solidarity match Norway - Ukraine with Carlsen and Ivanchuk"
+      },
+      {
+         "description" : "Today at Trent's Tactics, we are about to solve one of the hardest puzzles we ever had on the show. The three examples by GM Alexander G. Beliavsky are beautifully gathered, and have a twist!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-20",
+         "pubDate" : "Fri, 22 Apr 2022 15:42:01 +0100",
+         "title" : "Trent's Tactics - Beliavsky's masterful tactics"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The biggest chess website <a href=\"https://www.chess.com/news/view/chesscom-world-championship-million-dollar-announcement\">announced</a> the <strong>Chess.com World Championship</strong> with $1 million in prizes, half of which go to eight finalists meeting in Toronto on 31 October to 5 November. Qualifiers for non-titled players start online on 1 May and require verified membership. Since <strong>Chess.com</strong> is a sponsor of the official world championship, <strong>FIDE</strong> is expected to waive the restrictions signed by participants of its cycle not to play in any world championship run by third parties. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/chesscom-announced-own-world/",
+         "pubDate" : "Fri, 22 Apr 2022 15:06:37 +0100",
+         "title" : "Chess.com announced own world championship"
+      },
+      {
+         "description" : "Magnus Carlsen will take on Jan-Krzysztof Duda in a 4-game match today as the Oslo Esports Cup, the 1st Major on the $1.6 million Meltwater Champions Chess Tour, starts at 18:00 CEST (12:00 ET, 21:30 IST). We've also got Giri-Hansen, Jorden van Foreest-Praggnanandhaa and Mamedyarov-Le as the $210,000 event starts with all the players gathered together in one venue in Oslo. Tania Sachdev is joined by Sagar Shah, Maurice Ashley and Lawrence Trent for a Pre-Show from 17:00 CEST!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-duda-as-the-oslo-esports-cup-begins",
+         "pubDate" : "Fri, 22 Apr 2022 12:51:11 +0000",
+         "title" : "Carlsen-Duda as the Oslo Esports Cup begins"
+      },
+      {
+         "description" : " It has been a busy week for me, but the upside is I did get to add to my collection of weird chess incidents. Todays Junior Rapidplay event was for Under 18 Juniors, which normally sees a little more commons sense play. Nonetheless there was a QvQ ending (without pawns) that was *not* draw after one player thought that they were losing their queen to a skewer, missing the fact that the king to move and defend their queen! Reaching back to the Doeberl Cup there was a disputed result between two junior players in the blitz. Both players claimed they had one (which was kind of true), although one player said he won the 'real' game, but then lost the 'practice' game. The second player simply sa",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/more-adventures-in-arbiting.html",
+         "pubDate" : "Fri, 22 Apr 2022 12:16:00 +0000",
+         "title" : "More adventures in arbiting"
+      },
+      {
          "description" : "An action packed day saw five matches decided in the playoffs and one match (Caruana-Xiong) made it all the way to Armageddon, finishing in a dramatic time scramble. After all was said and done, Aronian, Dominguez, Sevian, and Caruana from the Open Field along with Krush, Tokhirjonova, Lee, and Abrahamyan from the Women's Field advanced to the next stage of the Champions Bracket. | Photos: Austin and Crystal Fuller, Saint Louis Chess Club, Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +106,7 @@ news_feed (
          "title" : "Ding qualified for Candidates"
       },
       {
-         "description" : " Norway's world champion says he felt more comfortable before 2013 when he knew he was the best player and that later too much of his identity became linked to the championship title Magnus Carlsen has again stated that he is \"unlikely\" to defend his world title against the winner of the eight-player Candidates scheduled for Madrid in June and explained that he felt more comfortable in the years before 2013 when he was ranked No 1 but had not yet defeated India's Vishy Anand in the world title match in Chennai. Since then Carlsen has won five championship matches - twice against Anand, and one each against Russia's Sergey Karjakin, Fabiano Caruana of the US, and Russia's Ian Nepolmiachtchi. ",
+         "description" : " Norway's world champion says he felt more comfortable before 2013 when he knew he was the best player and that later too much of his identity became linked to the championship title Magnus Carlsen has again stated that he is \"unlikely\" to defend his world title against the winner of the eight-player Candidates scheduled for Madrid in June and explained that he felt more comfortable in the years before 2013 when he was ranked No 1 but had not yet defeated India's Vishy Anand in the world title match in Chennai. Since then Carlsen has won five championship matches - twice against Anand, and one each against Russia's Sergey Karjakin, Fabiano Caruana of the US, and Russia's Ian Nepomniachtchi. ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/apr/22/chess-magnus-carlsen-unlikely-to-defend-crown-but-questions-remain",
@@ -71,7 +119,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/the-american-cup-2022-day-2",
          "pubDate" : "Thu, 21 Apr 2022 23:53:00 -0700",
-         "title" : "Caruana Survives Armageddon Rollercoaster: The American Cup Day 2"
+         "title" : "Caruana Survives Armageddon Roller Coaster: The American Cup Day 2"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Oslo Esports Cup</strong> starting this Friday with <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-oslo-esports-cup-2022/2/1/1\">games every day after 18.00 CET</a> comes <a href=\"https://chess24.com/en/read/news/magnus-carlsen-to-take-on-7-stars-in-oslo-esports-cup\">with three experiments</a>: The first <strong>Meltwater Champions Chess Tour</strong> event without finals is a round robin of one day matches between eight players. It is the first event for which the players don't compete from home but all meet in the same venue, a TV studio in Oslo. And all streamers have been invited to stream the co",
@@ -208,22 +256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/why-chess-tournaments-can-be-hostile-for-women-and-girls",
          "pubDate" : "Thu, 21 Apr 2022 20:03:33 +0100",
          "title" : "Why chess tournaments can be hostile for women and girls"
-      },
-      {
-         "description" : "The American Cup kicked off Wednesday in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Round 2 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
-         "pubDate" : "Thu, 21 Apr 2022 19:50:00 +0100",
-         "title" : "American Cup, Round 2 - Live games and commentary"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The online gambling company <strong>Kindred Group</strong> has <a href=\"https://www.kindredgroup.com/media/press-releases/2022/unibet-extends-global-sponsorship-with-five-time-chess-world-champion-magnus-carlsen/\">renewed for two more years</a> the sponsorship contract of its sports betting brand <strong>Unibet</strong> with <strong>Magnus Carlsen</strong> and the <strong>Offerspill</strong> club he founded in 2019 for two more years. The world champion is currently endorsing Kindred's \"zero percent\" campaign with the goal not to make any more revenues from compulsory gamblers. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/two-more-years-with-unibet/",
-         "pubDate" : "Thu, 21 Apr 2022 19:37:34 +0100",
-         "title" : "Two more years with Unibet"
       },
       {
          "description" : "",
@@ -1634,28 +1666,12 @@ news_feed (
          "title" : "Junior Development Pathway consultation"
       },
       {
-         "description" : "In his \"Weekly Show\" Lawrence Trent talks about the European Individual Championships with a special mention to the young Azeri star Abdulla Gadimbayli who, prior to round ten, was on a magnificent 7.0/9, gaining 40 rating points and undoubtedly a GM norm in the process. Lawrence also talks about the MPL Indian Chess Tour and finals of the Berlin Grand Prix. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-the-european-championships",
-         "pubDate" : "Wed, 06 Apr 2022 12:51:27 +0100",
-         "title" : "The Weekly Show: The European Championships"
-      },
-      {
          "description" : " This week's episode of the Master Chess Web Show featured an interview with GM Jon Levitt, who these days makes a living on what might be described as &#8216;cricket arbitrage'. With cricket on hold, during the Covid lockdowns, he turned his attention to writing a book entitled Contemplating Comedy, a reflection on different types of <a href=\"https://chessimprover.com/master-chess-web-show-8/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (8)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-8/\">Master Chess Web Show (8)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess I",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/master-chess-web-show-8/",
          "pubDate" : "Wed, 06 Apr 2022 11:40:58 +0000",
          "title" : "Master Chess Web Show (8)"
-      },
-      {
-         "description" : "Tykhon Cherniaiev is a Ukrainian Candidate Master, a double world U10 chess champion in Rapid and Blitz. The young talent (Elo 2209) turned 12 on first of March, during the war in Ukraine. The family fled the country and is safe in Hamburg, Germany. Would you like to meet the lad, play against him? Well, then join our stream this evening at 4:30 p.m. European time. There will also be a number of young super-talents present.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meet-him-in-this-stream",
-         "pubDate" : "Wed, 06 Apr 2022 12:06:19 +0100",
-         "title" : "Meet him in this stream!"
       },
       {
          "description" : "",
@@ -1874,14 +1890,6 @@ news_feed (
          "title" : "Richard Rapport reaches career-high in April rating list"
       },
       {
-         "description" : "Over the last month chess24 released a real treat for chess fans around the globe: an exclusive 10-hour video series for Premium members, offering a behind-the-scenes look at the 2021 World Chess Championship Match. Magnus Carlsen's seconds revealed details about the World Champion's preparation for his match against Ian Nepomniachtchi.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/inside-team-magnus-a-complete-video-series",
-         "pubDate" : "Sat, 02 Apr 2022 16:05:50 +0000",
-         "title" : "\"I am surprised we still didn't mention Anish Giri\""
-      },
-      {
          "description" : " <p class=\"lead\">Wesley So and Hikaru Nakamura drew the first game of the third stage of the FIDE Grand Prix organized by World Chess after a long theoretical debate. Hikaru Nakamura will have White pieces in the second game of the mini-match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220402150106_IMG_5952.jpg\" width=\"2560\" height=\"1706\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> Both players arrived at the empty playing hall today for the final match. All other players have been already eliminated in the previous rounds and both players felt a bit lonely playing in the venue despite the presence of many spectators who visited ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1968,46 +1976,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1674",
          "pubDate" : "Fri, 01 Apr 2022 16:04:49 +0000",
          "title" : "FIDE Grand Prix Berlin: Nakamura and So face off in final"
-      },
-      {
-         "description" : " <p class=\"lead\"> The tiebreaks of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> semifinals ended with Wesley So and Hikaru Nakamura winning both games against Tabatabaei and Mamedyarov respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-20.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220401150318_IMG_5848.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220401150238_IMG_5845.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictu",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nakamura-and-so-are-the-fide-grand-prix-finalists/",
-         "pubDate" : "Fri, 01 Apr 2022 14:55:19 +0000",
-         "title" : "Nakamura and So are the FIDE Grand Prix finalists"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90596459.cms\" />Five-time World Chess champion Viswanathan Anand on Friday confirmed that he will be actively supporting current FIDE president Arkady Dvorkovich's re-election bid, an indication of his growing interest in being a part of the game's administration in near future. The FIDE Congress will be held in Chennai on the sidelines of the Chess Olympiad to be held from July 28 to August 10.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-set-to-actively-support-fide-president-dvorkovichs-re-election-bid/articleshow/90596459.cms",
-         "pubDate" : "Fri, 01 Apr 2022 14:38:55 +0000",
-         "title" : "Anand set to actively support FIDE president Dvorkovich's re-election bid"
-      },
-      {
-         "description" : "International Chess Federation (FIDE) President Mr. Arkady Dvorkovich officially handed over the hosting rights to India for the organization of the FIDE 44th World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-president-mr-arkady-dvorkovich-officially-hands-over-hosting-rights-to-india-for-fide-44th-world-chess-olympiad-2022/",
-         "pubDate" : "Fri, 01 Apr 2022 14:31:21 +0000",
-         "title" : "FIDE President Mr. Arkady Dvorkovich officially hands over hosting rights to India for FIDE 44th World Chess Olympiad 2022"
-      },
-      {
-         "description" : "It is with great sadness we report that David Anderton passed away today, 1st April 2022. This is a great loss. Our condolences go out...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/david-anderton-rip/",
-         "pubDate" : "Fri, 01 Apr 2022 13:31:16 +0000",
-         "title" : "David Anderton RIP (updated 19/4/22)"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/bQBnnmYT5Fs?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-semi-finals-tie-breaks/",
-         "pubDate" : "Fri, 01 Apr 2022 12:38:54 +0000",
-         "title" : "FIDE Grand Prix in Berlin: Semi-finals Tie-breaks"
       }
    ]
 }
