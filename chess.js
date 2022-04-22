@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Norway's world champion says he felt more comfortable before 2013 when he knew he was the best player and that later too much of his identity became linked to the championship title Magnus Carlsen has again stated that he is \"unlikely\" to defend his world title against the winner of the eight-player Candidates scheduled for Madrid in June and explained that he felt more comfortable in the years before 2013 when he was ranked No 1 but had not yet defeated India's Vishy Anand in the world title match in Chennai. Since then Carlsen has won five championship matches - twice against Anand, and one each against Russia's Sergey Karjakin, Fabiano Caruana of the US, and Russia's Ian Nepolmiachtchi. ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/apr/22/chess-magnus-carlsen-unlikely-to-defend-crown-but-questions-remain",
+         "pubDate" : "Fri, 22 Apr 2022 07:00:18 +0000",
+         "title" : "Chess: Magnus Carlsen 'unlikely' to defend crown, but questions remain"
+      },
+      {
+         "description" : "A &#34;disgusted&#34; GM Fabiano Caruana won his match on the second day of The American Cup from a hopeless position as GM Jeffery Xiong&#38;nbsp;lost on time.&#38;nbsp;GM Sam Sevian indeed reached a 2700+ live rating by drawing his second game with GM&#38;nbsp;Wesl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-american-cup-2022-day-2",
+         "pubDate" : "Thu, 21 Apr 2022 23:53:24 -0700",
+         "title" : "Caruana Survives Armageddon Rollercoaster: The American Cup Day 2"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Oslo Esports Cup</strong> starting this Friday with <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-oslo-esports-cup-2022/2/1/1\">games every day after 18.00 CET</a> comes <a href=\"https://chess24.com/en/read/news/magnus-carlsen-to-take-on-7-stars-in-oslo-esports-cup\">with three experiments</a>: The first <strong>Meltwater Champions Chess Tour</strong> event without finals is a round robin of one day matches between eight players. It is the first event for which the players don't compete from home but all meet in the same venue, a TV studio in Oslo. And all streamers have been invited to stream the co",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/a-tour-stop-with-three-experiments/",
+         "pubDate" : "Fri, 22 Apr 2022 07:23:49 +0100",
+         "title" : "A tour stop with three experiments"
+      },
+      {
+         "description" : " <p class=\"lead\">In an exclusive interview with World Chess, Maxime Vachier-Lagrave, a French \"super GM\" (a chess-speak for one of the world's strongest chess players), said that on his way to becoming an elite chess player, he thought that he reached his peak at 2680. At that level, he could not secure enough stable income to feel safe. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/gp3mgnSxlVk?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> 2680 is a rating that very few people will ever reach (you earn a grandmaster title, the highest in the sport, at 2500). Yet MVL still failed to earn stable income. Most players make money by coac",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/mvl-i-struggled-to-make-ends-meet-at-2680-the-future-was-insecur/",
+         "pubDate" : "Fri, 22 Apr 2022 05:27:58 +0000",
+         "title" : "MVL: I Struggled to Make Ends Meet at 2680. The Future Was Insecure"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90995007.cms\" />World no. 1 Magnus Carlsen remains the undisputed king of chess. However, the 31-year-old, who won his fifth World title last year, may not defend the crown next year.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/not-sure-about-defending-world-title-magnus-carlsen/articleshow/90995007.cms",
+         "pubDate" : "Fri, 22 Apr 2022 05:15:39 +0000",
+         "title" : "Not sure about defending world title: Magnus Carlsen"
+      },
+      {
          "description" : "Dear Sir/Mam Greetings ! As you are aware that the 44th Chess Olympiad is going to be held at Mahabalipuram ,Chennai from 28 July -10",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -704,14 +744,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/revisiting-st-petersburg-1914-april-21-1914-may-22-1914",
          "pubDate" : "Sun, 17 Apr 2022 10:00:00 +0100",
          "title" : "Revisiting St. Petersburg 1914 - (April 21, 1914 - May 22, 1914)"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 1700 participants plus parents and coaches are <a href=\"http://www.echecs.asso.fr/Actu.aspx?Ref=13887\">expected at the <strong>French Youth Championship</strong></a> that starts in Agen on this Sunday coinciding with the launch of <strong>Deuxième Cerveau</strong> (second brain), a project to educate young players about nutrition and help them to adopt healthier eating and drinking habits in cooperation with <strong>Oviva</strong>, a Swiss health tech company. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/nutrition-for-chess-project-launched/",
-         "pubDate" : "Sun, 17 Apr 2022 09:54:05 +0100",
-         "title" : "Nutrition for chess project launched"
       },
       {
          "description" : " While researching GE Wainwright I came across this game concluding wit a sharp rook ending in which he, on two occasions, played a move converting a win into a loss. &#124;Yes, you'd be correct in inferring that, in between, his opponent also converted a win into a loss. In one of his last games, after <a href=\"https://chessimprover.com/pushing-passed-pawns/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Pushing Passed Pawns\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/pushing-passed-pawns/\">Pushing Passed Pawns</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1474,14 +1506,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: A model game against the Sicilian"
       },
       {
-         "description" : "GM Magnus Carlsen once again tops the field of this year&#39;s Norway Chess tournament, scheduled for&#38;nbsp;May 30-June 10, 2022 in Stavanger, Norway. A surprising name this year is that of GM Wang Hao, who comes back from retirement. The tournament ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/norway-chess-2022-participants",
-         "pubDate" : "Thu, 07 Apr 2022 08:02:00 -0700",
-         "title" : "Norway Chess Field Announced: Wang Hao Returns From Retirement"
-      },
-      {
          "description" : "The Norway Chess organisers today revealed a line-up with several surprises for this year's 10th edition of the super tournament, which takes place from May 31 to June 11. 4-time winner Magnus Carlsen heads the field, as expected, but Richard Rapport and Teimour Radjabov, who will take part in the Candidates Tournament just six days after their final game in Stavanger, have both accepted invitations. So have ex-World Champions Viswanathan Anand and Veselin Topalov, and Wang Hao, who announced his retirement last year.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1968,14 +1992,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-grand-prix-in-berlin-semi-finals-tie-breaks/",
          "pubDate" : "Fri, 01 Apr 2022 12:38:54 +0000",
          "title" : "FIDE Grand Prix in Berlin: Semi-finals Tie-breaks"
-      },
-      {
-         "description" : " China's world No 2, Ding Liren, is poised to join Hikaru Nakamura, Alireza Firouzja and five other top GMs in the Candidates, while Carlsen wins online despite scare The field is almost complete for the eight-player 2022 Candidates at Madrid in June, which will decide Magnus Carlsen's next world title challenger. It promises to be a vintage occasion. The event which remains in the memory among recent Candidates is London 2013, when Carlsen and Vlad Kramnik battled to become Vishy Anand's challenger. Both made a hash of the final round before the Norwegian won through. Now, in 2022, there are at least four players who can be argued as favourites. <a href=\"https://www.theguardian.com/sport/20",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/apr/01/chess-carlsens-rivals-prepare-for-candidates-as-no-1-wins-after-hiccup",
-         "pubDate" : "Fri, 01 Apr 2022 07:00:16 +0000",
-         "title" : "Chess: Carlsen's rivals prepare for Candidates as No 1 wins after hiccup"
       }
    ]
 }
