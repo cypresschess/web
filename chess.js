@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup kicked off Wednesday in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Round 3 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
+         "pubDate" : "Fri, 22 Apr 2022 19:50:00 +0100",
+         "title" : "American Cup, Round 3 - Live games and commentary"
+      },
+      {
+         "description" : "The Meltwater Champions Chess Tour breaks new ground with the launch of its first fully in-person esports event, the Oslo Esports Cup, taking place on April 22-28. Carlsen heads an 8-player elite line-up. Participants will go head-to-head in one four-game match a day for seven days. Play begins daily at 18:00 CEST / 16:00 UTC.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-live",
+         "pubDate" : "Fri, 22 Apr 2022 17:45:00 +0100",
+         "title" : "Oslo Esports Cup - Live!"
+      },
+      {
          "description" : "In this week's edition of the Power Play Show, GM Daniel King continues to look at the fortunes of two extremely talented Indian players, Praggnanandhaa and Gukesh! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,11 +42,11 @@ news_feed (
          "title" : "Trent's Tactics - Beliavsky's masterful tactics"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The biggest chess website <a href=\"https://www.chess.com/news/view/chesscom-world-championship-million-dollar-announcement\">announced</a> the <strong>Chess.com World Championship</strong> with $1 million in prizes, half of which go to eight finalists meeting in Toronto on 31 October to 5 November. Qualifiers for non-titled players start online on 1 May and require verified membership. Since <strong>Chess.com</strong> is a sponsor of the official world championship, <strong>FIDE</strong> is expected to waive the restrictions signed by participants of its cycle not to play in any world championship run by third parties. </div> ",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The biggest chess website <a href=\"https://www.chess.com/news/view/chesscom-world-championship-million-dollar-announcement\">announced</a> the <strong>Chess.com World Championship</strong> with $1 million in prizes, half of which go to eight finalists meeting in Toronto on 31 October to 5 November. Qualifiers for non-titled players start online on 1 May and require verified membership. Since <strong>Chess.com</strong> is a sponsor of the official world championship, <strong>FIDE</strong> is expected not to enforce the clause signed by all participants of the Grand Swiss, World Cup, Grand Prix or Candidates Tournament not to play in any world champion",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/chesscom-announced-own-world/",
-         "pubDate" : "Fri, 22 Apr 2022 15:06:37 +0100",
+         "pubDate" : "Fri, 22 Apr 2022 15:36:36 +0100",
          "title" : "Chess.com announced own world championship"
       },
       {
@@ -1634,28 +1650,12 @@ news_feed (
          "title" : "Matthias Bluebaum wins European Individual Championship"
       },
       {
-         "description" : "In his \"Game of the Week\" show #510, Merijn van Delft takes a look at the European Championships and analyses a \"streetfighting\" win of Julian Kramer, a young German player, who scored his first GM norm at the European Championships. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-510",
-         "pubDate" : "Wed, 06 Apr 2022 19:00:44 +0100",
-         "title" : "Game of the Week #510: Julian Kramer's fighting victory"
-      },
-      {
          "description" : " This is part 2 of my interview with famous Coach, Grandmaster Ramesh RB. If you haven't read part1 yet, then make sure to check that one out first! Also, go check out Ramesh's Online Chess Training service, PROChessTraining. I've myself trained in the Elite Group. What you get for the little price you pay is [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/gm-ramesh-part-2/\">Gold-Coach GM Ramesh RB On Calculation And How To Train Part 2</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "http://nextlevelchess.blog/gm-ramesh-part-2/",
          "pubDate" : "Wed, 06 Apr 2022 14:00:00 +0000",
          "title" : "Gold-Coach GM Ramesh RB On Calculation And How To Train Part 2"
-      },
-      {
-         "description" : "Today, the eleventh and last round of the European Individual Championship (\"EICC\") in Terme Čatež, Slovenia, will be played. Matthias Bluebaum and Gabriel Sargissian share the lead with 8.0/10, three players follow with 7.5/10 each. The 20 best players in the European Championship qualify for the World Cup. | Round 11 starts at 15:00 local time (9:00 am ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-individual-chess-championship-eicc-round-2-live",
-         "pubDate" : "Wed, 06 Apr 2022 14:55:00 +0100",
-         "title" : "European Individual Chess Championship (EICC) - Games and results"
       },
       {
          "description" : "Junior chess remains extremely popular in England with a thriving educational and competitive scene. There are many organisations and service providers including for profits, charities...",
@@ -1936,46 +1936,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/",
          "pubDate" : "Fri, 01 Apr 2022 23:16:19 +0000",
          "title" : "Business Meets Chess & Kids&hellip; Spring 2022!"
-      },
-      {
-         "description" : "The former world champion is slowly transitioning from strictly being a player to dabbling in a wider variety of roles.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33645565/viswanathan-anand-support-fide-president-arkady-dvorkovichs-re-election-bid?device=featurephone",
-         "pubDate" : "Fri, 1 Apr 2022 13:57:29 -0500",
-         "title" : "I see myself as an advisor, not administrator - Anand on possible future role with FIDE"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1673",
-         "pubDate" : "Fri, 01 Apr 2022 17:52:37 +0000",
-         "title" : "Arkady Dvorkovich will run for reelection"
-      },
-      {
-         "description" : " <p class=\"lead\">Hikaru Nakamura and Wesley So won their matches and will meet in the final of the third stage of the FIDE Grand Prix in Berlin organised by World Chess. Both Americans defeated their opponents Shakhriyar Mamedyarov and Amin Tabatabaei with a 2:0 score. <h2>Wesley So will have White pieces in the first game of the final match on the 2nd of April.</h2> <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/20220401163446_IMG_5905.jpg\" width=\"2560\" height=\"1706\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220401154622_IMG_5883.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> </di",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-berlin-semis-tie-breaks-recap/",
-         "pubDate" : "Fri, 01 Apr 2022 17:23:11 +0000",
-         "title" : "FIDE Grand Prix Berlin Semis: Tie-Breaks Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1672",
-         "pubDate" : "Fri, 01 Apr 2022 16:35:09 +0000",
-         "title" : "FIDE signs contract with AICF for the 2022 Chess Olympiad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1674",
-         "pubDate" : "Fri, 01 Apr 2022 16:04:49 +0000",
-         "title" : "FIDE Grand Prix Berlin: Nakamura and So face off in final"
       }
    ]
 }
