@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> This stream continues at <a href=\"https://youtu.be/dp6pm60VlDk\">https://youtu.be/dp6pm60VlDk</a><br /> This stream continues at <a href=\"https://youtu.be/dp6pm60VlDk\">https://youtu.be/dp6pm60VlDk</a><br /> This stream continues at <a href=\"https://youtu.be/dp6pm60VlDk\">https://youtu.be/dp6pm60VlDk</a> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-2-regular-rounds",
+         "pubDate" : "Fri, 22 Apr 2022 01:33:25 +0000",
+         "title" : "The American Cup 2022: Day 2 | Regular Rounds"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Alice Lee after her win against Stavroula Tsolakidou in the playoff of their Champion's Bracket match. 2022.04.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-still-bit-shock-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KUTWCRWIBCs.jpg?itok=cyiLIyJN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lee-still-bit-shock-day-2",
+         "pubDate" : "Fri, 22 Apr 2022 01:33:25 +0000",
+         "title" : "Alice Lee: Still a Bit in Shock! | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Fabiano Caruana after his win against Jeffery Xiong in the playoff of their Champion's Bracket match. 2022.04.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-disgusted-after-victory-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kVWiIHwKWMs.jpg?itok=utmFQQQI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-disgusted-after-victory-day-2",
+         "pubDate" : "Fri, 22 Apr 2022 01:33:25 +0000",
+         "title" : "Fabiano Caruana: Disgusted after a Victory? | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana and Jeffery Xiong play an armageddon game in the playoff of their first round match in The American Cup 2022. 2022.04.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/armageddon-caruana-vs-xiong-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FqfJFuIqA5I.jpg?itok=QTBgsJgN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/armageddon-caruana-vs-xiong-day-2",
+         "pubDate" : "Fri, 22 Apr 2022 01:33:25 +0000",
+         "title" : "Armageddon: Caruana vs. Xiong | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.21<br /> USChessChamps.com ROUND 1 | GAME 2<br /> Ray Robson vs. Levon Aronian<br /> Sam Shankland vs. Dominguez<br /> Sam Sevian vs. Wesley So<br /> Jeffery Xiong vs. Fabiano Caruana<br /> PLUS PLAYOFFS, IF NECESSARY </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-2-playoffs",
+         "pubDate" : "Fri, 22 Apr 2022 01:33:25 +0000",
+         "title" : "The American Cup 2022: Day 2 Playoffs"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The players talk about returning to over-the-board play without masks before The American Cup 2022. 2022.04.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-back-normal\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2WAEghQ42Wc.jpg?itok=bad_HNgW\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -40,46 +80,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/sam-shankland-40-underdog-playoff-day-2",
          "pubDate" : "Thu, 21 Apr 2022 22:33:29 +0000",
          "title" : "Sam Shankland: 40% Underdog in Playoff | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Leinier Dominguez after his draw against Sam Shankland in Game 2 of their Champion's Bracket match. 2022.04.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/leinier-dominguez-not-useful-consider-favorite-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MIHBHIppwqs.jpg?itok=3aJAI2xI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/leinier-dominguez-not-useful-consider-favorite-day-2",
-         "pubDate" : "Thu, 21 Apr 2022 22:33:29 +0000",
-         "title" : "Leinier Dominguez: Not Useful to Consider the Favorite | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Wesley So after his draw against Sam Sevian in Game 2 of their Champion's Bracket match. 2022.04.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-sevian-hard-worker-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WGHNttdTGok.jpg?itok=DEkM5Bu7\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-sevian-hard-worker-day-2",
-         "pubDate" : "Thu, 21 Apr 2022 22:33:29 +0000",
-         "title" : "Wesley So: Sevian a Hard Worker | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Sam Sevian after his draw against Wesley So in Game 2 of their Champion's Bracket match. 2022.04.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sam-sevian-newly-minted-2700-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VNMx_ul8vhM.jpg?itok=qOvv4B8O\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sam-sevian-newly-minted-2700-day-2",
-         "pubDate" : "Thu, 21 Apr 2022 22:33:29 +0000",
-         "title" : "Sam Sevian: Newly-Minted 2700! | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Irina Krush after her draw against Ruiyang Yan in Game 2 of their Champion's Bracket match. 2022.04.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-conserve-energy-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u9OVPFUoJS8.jpg?itok=_4QnG3Rb\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/irina-krush-conserve-energy-day-2",
-         "pubDate" : "Thu, 21 Apr 2022 22:33:29 +0000",
-         "title" : "Irina Krush: Conserve Energy | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Alice Lee after her draw against Stavroula Tsolakidou in Game 2 of their Champion's Bracket match. 2022.04.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-anything-can-happen-playoff-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QcNM8QcxE_A.jpg?itok=8rRAdFMJ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-anything-can-happen-playoff-day-2",
-         "pubDate" : "Thu, 21 Apr 2022 22:33:29 +0000",
-         "title" : "Alice Lee: Anything Can Happen in a Playoff | Day 2"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> leads the Norwegian side in a charity online rapid match against Ukraine this Saturday from 13.00 to 16.15 CET, which is also the second day of the <strong>Oslo Esports Cup</strong>, a <strong><a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour</a></strong> event, scheduled from 18.00 CET. The Oslo team, completed by <strong>Aryan Tari</strong>, <strong>Johan-Sebastian Christiansen</strong> and <strong>Lars Oskar Hauge</strong> meets at the <strong>Good Knight</strong> pub, while <strong>Vasyl Ivanchuk</strong>, <strong>Kirill Shevchenko</strong>, <strong>Yuriy Kuzubov</strong> and <strong>Alexander Moi",
@@ -1968,14 +1968,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/",
          "pubDate" : "Fri, 01 Apr 2022 04:15:36 +0000",
          "title" : "Chess in African Diaspora 2022"
-      },
-      {
-         "description" : " Stumbled across this on youtube. Not a win for PNG, but still good to see some recognition <br /> <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/X_ZlEbFJsmw\" width=\"320\" youtube-src-id=\"X_ZlEbFJsmw\"></iframe></div><br /> <br /> <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/04/found-this-on-youtube.html",
-         "pubDate" : "Fri, 01 Apr 2022 02:31:00 +0000",
-         "title" : "Found this on Youtube"
       }
    ]
 }
