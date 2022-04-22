@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dear Sir/Mam Greetings ! As you are aware that the 44th Chess Olympiad is going to be held at Mahabalipuram ,Chennai from 28 July -10",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/kind-attention-aicf-office-temporarily-shifted-to-mahabalipuram-chennai/",
+         "pubDate" : "Fri, 22 Apr 2022 04:22:12 +0000",
+         "title" : "Kind Attention : AICF Office Temporarily Shifted to Mahabalipuram, Chennai"
+      },
+      {
+         "description" : "Get a once in a lifetime chance to be a part of the grandest chess event 44th Chess Olympiad 2022, Chennai. For the first",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/call-for-volunteers-for-chess-olympiad-2022-chennai/",
+         "pubDate" : "Fri, 22 Apr 2022 03:56:58 +0000",
+         "title" : "Call for Volunteers for Chess Olympiad 2022, Chennai"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> This stream continues at <a href=\"https://youtu.be/dp6pm60VlDk\">https://youtu.be/dp6pm60VlDk</a><br /> This stream continues at <a href=\"https://youtu.be/dp6pm60VlDk\">https://youtu.be/dp6pm60VlDk</a><br /> This stream continues at <a href=\"https://youtu.be/dp6pm60VlDk\">https://youtu.be/dp6pm60VlDk</a> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1960,14 +1976,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/apr/01/chess-carlsens-rivals-prepare-for-candidates-as-no-1-wins-after-hiccup",
          "pubDate" : "Fri, 01 Apr 2022 07:00:16 +0000",
          "title" : "Chess: Carlsen's rivals prepare for Candidates as No 1 wins after hiccup"
-      },
-      {
-         "description" : " Recently chess.com featured &#8220;Chess Through an African Lens&#8221; written by this author. The reception was very positive, but it is surprising how few had been exposed to this information about the African Diaspora which is a testament to how chess media lacks a true representation of the vast chess universe. Over the past 21 years, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/\">Chess in African Diaspora 2022</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/04/01/chess-in-african-diaspora-2022/",
-         "pubDate" : "Fri, 01 Apr 2022 04:15:36 +0000",
-         "title" : "Chess in African Diaspora 2022"
       }
    ]
 }
