@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An experienced trainer, Ivan Sokolov has worked with the Iranian team for a number of years, helping the likes of Alireza Firouzja and Parham Maghsoodloo to develop their talent. In his first FritzTrainer series for ChessBase, he showcases a pragmatic style, focusing on general ideas rather than specific lines. One of the games analysed in the section devoted to rolling pawns is Boris Gelfand versus Aleksey Dreev from Tilburg 1993, which included a couple of magnificent long-term sacrifices by Black!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sokolov-middlegames-pawn-rollers",
+         "pubDate" : "Fri, 22 Apr 2022 22:45:00 +0100",
+         "title" : "A middlegame lesson by Ivan Sokolov: Rolling pawns"
+      },
+      {
+         "description" : "\"He deserves to lose!\" said Peter Leko after Magnus Carlsen played 1.f3, but the World Champion had winning chances before drawing that game against Jan-Krzysztof Duda on the way to a 2.5:0.5 victory in Round 1 of the Oslo Esports Cup. Praggnanandhaa matched Magnus all the way, also winning two games with the black pieces, as he overcame Jorden van Foreest. Anish Giri won a rollercoaster 3rd game to defeat Eric Hansen, while Shakhriyar Mamedyarov took advantage of a Liem Quang Le mouse-slip on a day where no tiebreaks were needed.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/oslo-esports-cup-1-carlsen-plays-1-f3-as-he-and-pragg-crush",
+         "pubDate" : "Fri, 22 Apr 2022 20:53:21 +0000",
+         "title" : "Oslo Esports Cup 1: Carlsen plays 1.f3 as he and Pragg crush"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1701",
+         "pubDate" : "Fri, 22 Apr 2022 20:49:23 +0000",
+         "title" : "Oslo Esports Cup starts with thumping win for Carlsen"
+      },
+      {
          "description" : "The American Cup kicked off Wednesday in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Round 3 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
          "pubDate" : "Fri, 22 Apr 2022 19:50:00 +0100",
          "title" : "American Cup, Round 3 - Live games and commentary"
+      },
+      {
+         "description" : " The Friendly Solidarity Match Norway-Ukraine match takes place on Tornelo on Saturday 23rd April 13:00 CET. The fundraiser will have donations to the following 6 organsations: Red Cross, Norwegian Refugee Council, Caritas, Save the Children, Norwegian Church Aid and UNICEF Norway. Teams: Ukraine (Lviv Chess Federation) : Ivanchuk, Shevchenko, Kuzubov and Moiseenko. Norway (Offerspill Sjakklubb) Carlsen, Tari, Christiansen and Hauge. Four rounds - the players play all four players in the opposite team.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/friendly-solidarity-match-norway-ukraine-2022",
+         "pubDate" : "Fri, 22 Apr 2022 21:50:00 +0400",
+         "title" : "Friendly Solidarity Match Norway-Ukraine 2022 - Games and Results"
       },
       {
          "description" : "The Meltwater Champions Chess Tour breaks new ground with the launch of its first fully in-person esports event, the Oslo Esports Cup, taking place on April 22-28. Carlsen heads an 8-player elite line-up. Participants will go head-to-head in one four-game match a day for seven days. Play begins daily at 18:00 CEST / 16:00 UTC.",
@@ -1626,14 +1658,6 @@ news_feed (
          "title" : "What do Carlsen, Sutovsky, Mr. Dodgy, and Liren have in common?"
       },
       {
-         "description" : "The German Grandmaster Matthias Bl&uuml;baum is the new European Champion. In the final round of the European Championships he played against GM Ivan Saric from Croatia, who needed to win this crucial game to become European Champion, but a draw secured Bl&uuml;baum the title. After eleven rounds he and GM Gabriel Sargissian from Armenia both had 8.5/11 but Bl&uuml;baum had the better tiebreak and won the tournament. | Photos: ÅZS/Luka Rifelj",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/matthias-bluebaum-wins-european-championship-2022",
-         "pubDate" : "Thu, 07 Apr 2022 10:33:37 +0100",
-         "title" : "Matthias Bl&uuml;baum wins European Championship 2022!"
-      },
-      {
          "description" : "Follow these links &#8212; https://chess24.com/en/watch/live-tournaments/ecf-womens-norm-event-2022#live https://chess24.com/en/watch/live-tournaments/1st-she-plays-to-win-international-2022#live (image courtesy of Netflix)",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1866,14 +1890,6 @@ news_feed (
          "title" : "2022 Dubbo Open - Day 1"
       },
       {
-         "description" : "Wesley So and Hikaru Nakamura made a quiet and at times puzzling start to the FIDE Grand Prix final in Berlin, with a 30-move draw. Wesley took long pauses, but essentially he followed a game he'd played against Jeffery Xiong in last year's US Championship for 27 moves, before playing a novelty that led to an instant draw. The twist was that this time he was playing from the white side after finding himself under pressure in that previous game with Black.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/so-and-nakamura-in-quiet-start-to-grand-prix-final",
-         "pubDate" : "Sat, 02 Apr 2022 20:44:27 +0000",
-         "title" : "So and Nakamura in quiet start to Grand Prix final"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1928,14 +1944,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anands-new-innings-a-role-in-fide/articleshow/90606020.cms",
          "pubDate" : "Sat, 02 Apr 2022 06:40:33 +0000",
          "title" : "Viswanathan Anand's new innings - a role in FIDE?"
-      },
-      {
-         "description" : " Share!34 Business Meets Kids kicks off a spring event featuring former Real Madrid star Esteban Granero as he will participate in a tandem chess match with youth at the Marbella Golf Club. Swedish Grandmaster Pontus Carlsson is the brainchild of Business Meets Kids and has been holding events since 2018. In a couple of weeks The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/\">Business Meets Chess &#038; Kids Spring 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/04/01/business-meets-kids/",
-         "pubDate" : "Fri, 01 Apr 2022 23:16:19 +0000",
-         "title" : "Business Meets Chess & Kids&hellip; Spring 2022!"
       }
    ]
 }
