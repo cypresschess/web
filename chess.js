@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " This is a guest article by my amazing girlfriend WFM Alessia Santeramo. She writes about her recent experience at a closed OTB Classical Chess Tournament. Check Alessia out on her Twitch &#38; YouTube and leave her a follow :-). Enjoy! Finally, I've played my first OTB tournament after 2,5 years of just playing online chess. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/8-things-i-learned-from-failing-to-get-a-wim-norm/\">8 Things I Learned From Failing To Get A WIM-Norm</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/8-things-i-learned-from-failing-to-get-a-wim-norm/",
+         "pubDate" : "Sat, 23 Apr 2022 13:05:56 +0000",
+         "title" : "8 Things I Learned From Failing To Get A WIM-Norm"
+      },
+      {
          "description" : "This Saturday, 23 April 2022, from 13.00 CEST (7.00 ET, 11.00 UTC) to 16.00 CEST will see a solidarity match between teams from Norway and Ukraine. Magnus Carlsen leads the Norwegian team that meets in the Good Knight Pub in the centre of Oslo. Former world number two Vasyl Ivanchuk leads the Ukrainian side. The match will be streamed in English from the Good Knight pub on the channel of the Offerspill chess club on Twitch. Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,28 +146,12 @@ news_feed (
          "title" : "Oslo Esports Cup starts with thumping win for Carlsen"
       },
       {
-         "description" : "The American Cup kicked off Wednesday in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Round 3 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
-         "pubDate" : "Fri, 22 Apr 2022 19:50:00 +0100",
-         "title" : "American Cup, Round 3 - Live games and commentary"
-      },
-      {
          "description" : " The Friendly Solidarity Match Norway-Ukraine match takes place on Tornelo on Saturday 23rd April 13:00 CET. The fundraiser will have donations to the following 6 organsations: Red Cross, Norwegian Refugee Council, Caritas, Save the Children, Norwegian Church Aid and UNICEF Norway. Teams: Ukraine (Lviv Chess Federation) : Ivanchuk, Shevchenko, Kuzubov and Moiseenko. Norway (Offerspill Sjakklubb) Carlsen, Tari, Christiansen and Hauge. Four rounds - the players play all four players in the opposite team.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/friendly-solidarity-match-norway-ukraine-2022",
          "pubDate" : "Fri, 22 Apr 2022 21:50:00 +0400",
          "title" : "Friendly Solidarity Match Norway-Ukraine 2022 - Games and Results"
-      },
-      {
-         "description" : "The Meltwater Champions Chess Tour breaks new ground with the launch of its first fully in-person esports event, the Oslo Esports Cup, taking place on April 22-28. Carlsen heads an 8-player elite line-up. Participants will go head-to-head in one four-game match a day for seven days. Play begins daily at 18:00 CEST / 16:00 UTC.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-live",
-         "pubDate" : "Fri, 22 Apr 2022 17:45:00 +0100",
-         "title" : "Oslo Esports Cup - Live!"
       },
       {
          "description" : "In this week's edition of the Power Play Show, GM Daniel King continues to look at the fortunes of two extremely talented Indian players, Praggnanandhaa and Gukesh! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -994,20 +986,20 @@ news_feed (
          "title" : "Capablanca, the chess machine"
       },
       {
-         "description" : "Last weekend, the final rounds of the Czech Extraliga took place in a central event. Nový Bor had secured overall victory long before the end of the season. The team from Brno, which is always supported by sports presenter Inna Puhajkov&aacute;, finished in second place. | Photos: Vladimir Jagr",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/novy-bor-wins-czech-extraliga-2022",
-         "pubDate" : "Sat, 16 Apr 2022 09:00:00 +0100",
-         "title" : "Nový Bor wins the Czech Extraliga"
-      },
-      {
          "description" : "In the diagrammed position, White has just answered the typical KI advance 8...e5 with the space-gaining 9.d5. Black's Nc6 is attacked - where would you put it?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/test-your-king-s-indian-iq",
          "pubDate" : "Sat, 16 Apr 2022 09:00:00 +0100",
          "title" : "Test your King's Indian IQ"
+      },
+      {
+         "description" : "Last weekend, the final rounds of the Czech Extraliga took place in a central event. Nový Bor had secured overall victory long before the end of the season. The team from Brno, which is always supported by sports presenter Inna Puhajkov&aacute;, finished in second place. | Photos: Vladimir Jagr",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/novy-bor-wins-czech-extraliga-2022",
+         "pubDate" : "Sat, 16 Apr 2022 09:00:00 +0100",
+         "title" : "Nový Bor wins the Czech Extraliga"
       },
       {
          "description" : " The 2nd day of the 2022 O2C Doeberl Cup saw the start of the Major, Minor and Under 1200 events. Due to a few last minute withdrawals, visa problems, and travel issues, the tournament fell just short of last years record numbers, with around <s>225</s>325 players sitting down at the board. The Premier saw rounds 3 and 4 played, with GM Bobby Cheng holding the outright lead with 4/4. He was followed by GM's Daniel Fernandez and Hrant Melkumyan, with a large group of players on 3. There were a few upsets in this round, the most notable being a win for Harry Press over IM Junta Ikeda. The Major saw the first 2 rounds played, with a number of players on 2/2, including top seed Ryan Lane, and ov",
@@ -1674,6 +1666,14 @@ news_feed (
          "title" : "Reykjavik Open: Niemann and Jarmula on 3 out of 3"
       },
       {
+         "description" : "This week Robert Ris takes a look at the game Saric-Abasov played in the 10th round of the European Individual Championships - a model game that illustrates how to attack the Sicilian. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-model-game-against-the-sicilian",
+         "pubDate" : "Thu, 07 Apr 2022 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A model game against the Sicilian"
+      },
+      {
          "description" : "The Norway Chess organisers today revealed a line-up with several surprises for this year's 10th edition of the super tournament, which takes place from May 31 to June 11. 4-time winner Magnus Carlsen heads the field, as expected, but Richard Rapport and Teimour Radjabov, who will take part in the Candidates Tournament just six days after their final game in Stavanger, have both accepted invitations. So have ex-World Champions Viswanathan Anand and Veselin Topalov, and Wang Hao, who announced his retirement last year.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1688,6 +1688,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-1-week-to-go.html",
          "pubDate" : "Thu, 07 Apr 2022 13:49:00 +0000",
          "title" : "2022 O2C Doeberl Cup - 1 week to go"
+      },
+      {
+         "description" : "In the last weeks, we added a lot of chess interactivity to the ChessBase news pages. Replaying games is now optimized for mobile devices. There is a pleasing new layout for annotated games. Social sharing has been radically improved. Diagrams have grown a dirty little secret. Live broadcasts with multiple boards can be configured easily.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-technology-for-the-chessbase-news",
+         "pubDate" : "Thu, 07 Apr 2022 13:41:20 +0100",
+         "title" : "New Technology for the ChessBase News"
       },
       {
          "description" : " <p class=\"lead\">The answer nowadays is simple. GM Sergey Karjakin is the current common ground of the World Champion Magnus Carlsen, the Director-General of FIDE Emil Sutovsky, Twitter's sensation Mr.Dodgy, and the Chinese GM Ding Liren. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/N_R04072.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">World Chess</div> </div> <h2>Carlsen on Karjakin</h2> In an interview for <a href=\"https://www.vg.no/sport/i/Or7lob/magnus-carlsen-usikker-paa-utestengelsen-av-karjakin-oensker-aa-bli-martyr\">the Norwegian newspaper VG,</a> Magnus Carlsen stated that he disagrees with Karjakin, but he is not sure whethe",
@@ -1944,22 +1952,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-grand-prix-berlin-finals-game-1-recap/",
          "pubDate" : "Sat, 02 Apr 2022 15:50:49 +0000",
          "title" : "FIDE Grand Prix Berlin Finals: Game 1 Recap"
-      },
-      {
-         "description" : " <p class=\"lead\">Game 1 of the <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix 2022</a> finals between Wesley So and Hikaru Nakamura ended in a draw. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220402150007_IMG_5950-(1).jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: Pierre Adenis/World Chess</div> </div> Wesley So and Hikaru Nakamura face each other at the FIDE Grand Prix finals. Nakamura has already won leg one of the Grand Prix and qualified for the 2022 Candidates along with Richard Rapport. The chess community has noticed that after Round 6 and his secured spot at the Candidates, Nakamura doesn't sho",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nakamura-and-so-draw-game-1-of-the-fide-grand-prix-finals/",
-         "pubDate" : "Sat, 02 Apr 2022 14:43:26 +0000",
-         "title" : "Nakamura and So draw Game 1 of the FIDE Grand Prix finals"
-      },
-      {
-         "description" : "The game of chess is predicated on the clash between White and Black, two eternal opposites in a Manichaean struggle. Chess can serve, and has served, as a metaphor for any archetypal battle, for example between Faust and Mephistopheles, the Kaiser and King George V, Vladimir Putin and the West or God and the Devil. []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/white-saviours-black-saved-the-chessboard-as-a-battlefield/",
-         "pubDate" : "Sat, 02 Apr 2022 13:50:30 +0000",
-         "title" : "White saviours, Black saved: the chessboard as a battlefield"
       }
    ]
 }
