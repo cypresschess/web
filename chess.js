@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An action packed day saw five matches decided in the playoffs and one match (Caruana-Xiong) made it all the way to Armageddon, finishing in a dramatic time scramble. After all was said and done, Aronian, Dominguez, Sevian, and Caruana from the Open Field along with Krush, Tokhirjonova, Lee, and Abrahamyan from the Women&#x2019;s Field advanced []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/five-matches-decided-in-playoffs-in-the-american-cup-2022/",
+         "pubDate" : "Fri, 22 Apr 2022 23:49:54 +0000",
+         "title" : "Five matches decided in playoffs in the American Cup 2022"
+      },
+      {
+         "description" : "The world's&#xA0;first fully in-person chess esports event, the Oslo Esports Cup, got under way on Friday with World Champion Magnus Carlsen in imperious form. Carlsen, who is going for a hat-trick of wins in the&#xA0;Meltwater Champions Chess Tour, rounded off the challenge of Polish No.1 Jan-Krzysztof Duda with a thumping 2.5-0.5 victory. The Norwegian even []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/75382-2/",
+         "pubDate" : "Fri, 22 Apr 2022 23:38:49 +0000",
+         "title" : "Carlsen, Praggnanandhaa, Mamedyarov and Giri victorious in day 1 of Oslo Esports Cup"
+      },
+      {
+         "description" : "After the&#xA0;Airthings Masters 2022&#xA0;and the&#xA0;Charity Cup 2022, both won by Magnus Carlsen, the Meltwater Champions Chess Tour breaks new ground next week with the launch of the first fully in-person esports event in chess &#x2013; the Oslo Esports Cup. A star-studded gala event will open the tournament as Norway&#x2019;s World Champion&#xA0;Magnus Carlsen&#xA0;goes for an unprecedented []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/oslo-esports-cup-live/",
+         "pubDate" : "Fri, 22 Apr 2022 23:34:11 +0000",
+         "title" : "Oslo Esports Cup LIVE"
+      },
+      {
          "description" : "An experienced trainer, Ivan Sokolov has worked with the Iranian team for a number of years, helping the likes of Alireza Firouzja and Parham Maghsoodloo to develop their talent. In his first FritzTrainer series for ChessBase, he showcases a pragmatic style, focusing on general ideas rather than specific lines. One of the games analysed in the section devoted to rolling pawns is Boris Gelfand versus Aleksey Dreev from Tilburg 1993, which included a couple of magnificent long-term sacrifices by Black!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -584,30 +608,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/top-grandmasters-leave-russia",
          "pubDate" : "Wed, 20 Apr 2022 09:03:03 +0100",
          "title" : "Top Grandmasters leave Russia"
-      },
-      {
-         "description" : "The European School Chess Championship 2022 takes place from 20th-30th April in Rhodes, Greece. The event kicks off on Thursday, 21st of April, with the Opening ceremony which will be held shortly before the start of the first round. More than 190 players from more than 22 European federations registered for the event which will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-schools-chess-championship-2022-with-190-players/",
-         "pubDate" : "Wed, 20 Apr 2022 07:14:48 +0000",
-         "title" : "European Schools Chess Championship 2022 with 190 players"
-      },
-      {
-         "description" : "Capablanca Memorial 2022 is taking place 19-28 April in La Habana, Cuba. This year the event features strong round robins for men and women as well as an open event. In the men round robin, aka Grupo Elite, the ten players are GM Sandro Mareco, GM Hans Niemann, GM Surya Ganguly, GM Mustafa Yilmaz, GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/capablanca-memorial-2022/",
-         "pubDate" : "Wed, 20 Apr 2022 06:15:13 +0000",
-         "title" : "Capablanca Memorial 2022"
-      },
-      {
-         "description" : "Capablanca Memorial 2022 is taking place 19-28 April in La Habana, Cuba. This year the event features strong round robins for men and women as well as an open event. In the women round robin the players are WGM Deisy Cori Tello, IM Irina Bulmaga, IM Oliwia Kiolbasa, IM Carolina Lujan, IM Lisandra Ordaz Valdes, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/capablanca-memorial-premier-live/",
-         "pubDate" : "Wed, 20 Apr 2022 06:08:12 +0000",
-         "title" : "Capablanca Memorial Premier LIVE"
       },
       {
          "description" : "He's back! Jan Gustafsson, a key member of Team Magnus for the last three World Championship matches, will be answering your questions in a new Jan's Opening Clinic. chess24 Premium members get to ask Jan any question on chess openings and Jan will then film a series of shows where he tackles each question in turn. Simply leave a question under this article to get some personal tips from a chess openings guru!",
