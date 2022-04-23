@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This Saturday, 23 April 2022, from 13.00 CEST (7.00 ET, 11.00 UTC) to 16.00 CEST will see a solidarity match between teams from Norway and Ukraine. Magnus Carlsen leads the Norwegian team that meets in the Good Knight Pub in the centre of Oslo. Former world number two Vasyl Ivanchuk leads the Ukrainian side. The match will be streamed in English from the Good Knight pub on the channel of the Offerspill chess club on Twitch. Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/solidarity-match-norway-ukraine-with-carlsen-and-ivanchuk-live",
+         "pubDate" : "Sat, 23 Apr 2022 12:45:00 +0100",
+         "title" : "Solidarity match Norway - Ukraine with Carlsen and Ivanchuk: live"
+      },
+      {
+         "description" : "Four players were knocked out of the American Cup as the first day of Elimination matches took place, with Robson Shankland and Nemcova Yan lasting all the way until Armageddon.&#xA0; In the Champions Bracket, GM Leinier Dominguez dealt a lethal blow to GM Levon Aronian, while FM Alice Lee won a fine technical []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/four-players-were-knocked-out-of-the-american-cup/",
+         "pubDate" : "Sat, 23 Apr 2022 11:20:40 +0000",
+         "title" : "Four players were knocked out of the American Cup"
+      },
+      {
+         "description" : "GMs Magnus Carlsen, Anish Giri, Praggnanadhaa R., and Shakhriyar Mamedyarov won their respective matches in the first round of the Oslo Esports Cup&#38;mdash;no tiebreaks were necessary. Both Carlsen and Praggnanadhaa needed only three games to win th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/no-tiebreaks-necessary-oslo-esports-cup-day-1",
+         "pubDate" : "Sat, 23 Apr 2022 03:15:00 -0700",
+         "title" : "No Tiebreaks Necessary: Oslo Esports Cup Day 1"
+      },
+      {
+         "description" : "Day three of The American Cup featured one win in each of the Championship Brackets. GM Leinier Dominguez&#38;nbsp;won as Black against&#38;nbsp;GM Levon Aronian&#38;nbsp;in Group A and FM Alice Lee defeated WGM Tatev Abrahamyan&#38;nbsp;in Group B. In the Elim...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-american-cup-day-3",
+         "pubDate" : "Sat, 23 Apr 2022 02:20:21 -0700",
+         "title" : "Dominguez Strikes With Black: The American Cup Day 3"
+      },
+      {
+         "description" : "The world's top chess authorities have already voted to rebuke Russia for its egregious invasion of Ukraine. The unanimous decision by the International Chess Federation (FIDÉ) to ban Russians from competing under their own flag, and deprive the country of the Chess Olympiad, originally scheduled for Moscow this summer, is extraordinary. This is not just []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/ukraine-and-world-chess-whose-side-is-dvorkovich-on/",
+         "pubDate" : "Sat, 23 Apr 2022 09:14:22 +0000",
+         "title" : "Ukraine and world chess: whose side is Dvorkovich on?"
+      },
+      {
+         "description" : "This Saturday, April 23rd at 3pm CEST, the 17-year-old German No. 1 Vincent Keymer plays Banter Blitz here on chess24. FM Yosha Iglesias takes the opportunity to look back on his five most remarkable victories.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/vincent-keymer-s-5-most-impressive-wins",
+         "pubDate" : "Sat, 23 Apr 2022 08:12:47 +0000",
+         "title" : "Vincent Keymer's 5 most impressive wins"
+      },
+      {
          "description" : "The diagram shows a theoretical Sicilian position in which White has just opened the g-file. Recapturing with 16...Nxf6? now is a well-known mistake - do you see why?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/notes-from-the-najdorf",
          "pubDate" : "Sat, 23 Apr 2022 09:00:00 +0100",
          "title" : "Notes from the Najdorf"
+      },
+      {
+         "description" : " <p class=\"lead\">World Champion Magnus Carlsen scored a convincing win over Polish No.1 Jan-Krzysztof Duda in the first round of the eponymous event, <a href=\"https://chess24.com/tour/oslo-esports-cup-starts-with-thumping-win-for-carlsen/\">Meltwater Champions Chess Tour</a>. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/103E1C52-A16B-46DF-A32E-212418047973.jpeg\" width=\"1600\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">Carlsen against Duda, round 1 of the E-Sports Cup</div> </div> The $210,000 all-play-all event is the new season of the online event organized by Carlsen's company, PlayMagnus. It will be played over seven days in Oslo and, according to t",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/champions-tour-under-way-blockbuster-with-predictable-scenario/",
+         "pubDate" : "Sat, 23 Apr 2022 07:31:54 +0000",
+         "title" : "Champions Tour Under Way: Blockbuster With Predictable Scenario"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91023507.cms\" />The world's first fully in-person chess esports event, the Oslo Esports Cup, got under way on Friday with India's young gun R Praggnanandhaa dispatching his opponent, the Dutchman Jorden van Foreest, in only three games 2.5-0.5.",
@@ -80,14 +136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
          "pubDate" : "Fri, 22 Apr 2022 19:50:00 +0100",
          "title" : "American Cup, Round 3 - Live games and commentary"
-      },
-      {
-         "description" : " The Friendly Solidarity Match Norway-Ukraine match takes place on Tornelo on Saturday 23rd April 13:00 CET. The fundraiser will have donations to the following 6 organsations: Red Cross, Norwegian Refugee Council, Caritas, Save the Children, Norwegian Church Aid and UNICEF Norway. Teams: Ukraine (Lviv Chess Federation) : Ivanchuk, Shevchenko, Kuzubov and Moiseenko. Norway (Offerspill Sjakklubb) Carlsen, Tari, Christiansen and Hauge. Four rounds - the players play all four players in the opposite team.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/friendly-solidarity-match-norway-ukraine-2022",
-         "pubDate" : "Fri, 22 Apr 2022 21:50:00 +0400",
-         "title" : "Friendly Solidarity Match Norway-Ukraine 2022 - Games and Results"
       },
       {
          "description" : "The Meltwater Champions Chess Tour breaks new ground with the launch of its first fully in-person esports event, the Oslo Esports Cup, taking place on April 22-28. Carlsen heads an 8-player elite line-up. Participants will go head-to-head in one four-game match a day for seven days. Play begins daily at 18:00 CEST / 16:00 UTC.",
@@ -394,14 +442,6 @@ news_feed (
          "title" : "Chess.com Announces Verified Accounts"
       },
       {
-         "description" : " The Oslo Esports Cup is the first Meltwater Champions Chess Tour event to take place not online but at a venue Fri 22nd Apr 2022\tThu 28th Apr 2022. Players: Carlsen, Giri, Mamedyarov, Duda, Van Foreest, Le Quang Liem, Praggnanandhaa and Eric Hansen play in this round robin of 4 game mini-matches. This is the first tour classic of the season.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/oslo-esports-cup-2022",
-         "pubDate" : "Thu, 21 Apr 2022 19:10:00 +0400",
-         "title" : "Oslo Esports Cup 2022 - Games and Results"
-      },
-      {
          "description" : "A massive chess festival took place in Chihuahua, Mexico on April 12-17. Almost a thousand participants played in the numerous open tournaments, which included events for women, amateurs and different age categories. In the main event, Argentinian GM Sandro Mareco was the outright winner after scoring 7&frac12; out of 9 points. Pablo Salinas (Chile), Kevin Cori (Peru) and Luis Ibarra (Mexico) finished a half point. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -610,14 +650,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - The Classics by Bobby Fischer"
       },
       {
-         "description" : "The new Chess in Education portal by the ECU EDU Commission is released. The portal is a guide to creating chess projects from the inception of the idea, through the funding, to the final execution of the project. The Chess in Education portal also contains a library of successful chess projects from Europe. Visit []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-in-education-portal-by-ecu-edu-commission-launched/",
-         "pubDate" : "Wed, 20 Apr 2022 11:38:47 +0000",
-         "title" : "Chess in Education Portal by ECU EDU Commission launched"
-      },
-      {
          "description" : "Details for this year's ECF Awards are now available and can be found here (PDF), together with information on how to apply and the assessment...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -672,14 +704,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1695",
          "pubDate" : "Tue, 19 Apr 2022 15:16:07 +0000",
          "title" : "Queens' Online Chess Festival 2022: Registration opens"
-      },
-      {
-         "description" : " The American Cup takes place in Saint Louis 20th to 30th April 2022. The format is double elimination knockout. This is going to be quite tricky to put into game files but basically to be eliminated you have to lose two matches, even in the final one of the finalists will have lost a match and the other won't and so there's potentially a second chance for one of the finalists if they lose. Players: Aronian, Caruana, So, Dominguez, Shankland, Sevian, Xiong and Robson. There's also a women's event with Krush, Zatonskih, Tsolakidou, Tokhirjonova, Nemcova, Alice Lee, Abrahamyan and Ruiyang Yan. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2022",
-         "pubDate" : "Tue, 19 Apr 2022 18:48:00 +0400",
-         "title" : "American Cup 2022 - "
       },
       {
          "description" : "In a new interview published by the Norwegian newspaper Verdens Gang, Magnus Carlsen again talks about why he is seriously considering not playing another match for the World Championship title. \"I will make that decision later. But if there are some who expect and hope that I will say yes to playing, then I have to prepare them for a disappointment\", said the long-time world number one. | Photo: Anna Shtourman / FIDE",
@@ -1554,30 +1578,6 @@ news_feed (
          "title" : "International Open German Championship for Women"
       },
       {
-         "description" : "The final qualifier of the&#38;nbsp;2022 Junior Speed Chess Championship presented by SIG was won by IM Mahammad Muradli in a dominating display of chess. Muradli swept his final matchup 8-0 in a resounding victory over IM Platon Galperin and also won...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-qualifier-3",
-         "pubDate" : "Fri, 08 Apr 2022 18:15:24 -0700",
-         "title" : "Muradli Sweeps Final 8-0: 2022 Junior Speed Chess Championship Qualifier 3"
-      },
-      {
-         "description" : " The Kvika Reykjavik Open takes place Wed 6th to Tue 12th April 2022. The leading players are mostly talented juniors with a big contingent from India: Pouya Idani, D Gukesh, Hans Moke Niemann, B Adhiban, Raunak Sadhwani, R Praggnanandhaa, Abhijeet Gupta, Max Warmerdam etc.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/kvika-reykjavik-open-2022",
-         "pubDate" : "Fri, 8 Apr 2022 21:00:00 +0400",
-         "title" : "Kvika Reykjavik Open 2022 - "
-      },
-      {
-         "description" : " The 10th Norway Chess tournament takes place in Stavanger May 31st to June 10th 2022. The field is: Magnus Carlsen, Richard Rapport, Wesley So, Shakhriyar Mamedyravov, Anish Giri, Teymur Rajabov, Viswanathan Anand, Maxime Vachier-Lagrave, Veselin Topalov and Wang Hao. This year with other tournaments clashing and the reluctance to invite Russian players means that the field is a little weaker than in recent years where they mostly went for the best players going down the rating list. That said the field is plenty interesting enough. I am a little surprised they didn't use the opportunity to invite another Norwegian player, likely Aryan Tari (I strongly believe that if you have a prestigious",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/10th-norway-chess-tournament-2022",
-         "pubDate" : "Fri, 8 Apr 2022 20:51:00 +0400",
-         "title" : "10th Norway Chess Tournament 2022 - Games and Results"
-      },
-      {
          "description" : " \"500 Chess Questions Answered\" is a book a purchased recently. Written by GM Andy Soltis, it is basically a FAQ for chess, covering everything from learning strategies to how tournaments are run. One section is titled \"Rulebook\" and deals with common questions. One question is whether knights must always face forward, and of course the answer is no. But what I did not know was that Kasparov always had his knights face left. I'm not sure which way I face my knights (probably forwards) but I guess this means it isn't an issue for me. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1624,22 +1624,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/reykjavik-open-2022-r3",
          "pubDate" : "Fri, 08 Apr 2022 03:20:00 +0100",
          "title" : "Reykjavik Open: Niemann and Jarmula on 3 out of 3"
-      },
-      {
-         "description" : "The 2022 Junior Speed Chess Championship presented by SIG continued today with the second qualifier in which GM Andrew Hong ousted&#38;nbsp;GM Brandon Jacobson in a thrilling final match that went all the way to the final game of the bullet tiebreaker...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-qualifier-2",
-         "pubDate" : "Thu, 07 Apr 2022 16:49:08 -0700",
-         "title" : "Hong Wins Tense Tiebreaker: 2022 Junior Speed Chess Championship Qualifier 2"
-      },
-      {
-         "description" : "This week Robert Ris takes a look at the game Saric-Abasov played in the 10th round of the European Individual Championships - a model game that illustrates how to attack the Sicilian. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-model-game-against-the-sicilian",
-         "pubDate" : "Thu, 07 Apr 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A model game against the Sicilian"
       },
       {
          "description" : "The Norway Chess organisers today revealed a line-up with several surprises for this year's 10th edition of the super tournament, which takes place from May 31 to June 11. 4-time winner Magnus Carlsen heads the field, as expected, but Richard Rapport and Teimour Radjabov, who will take part in the Candidates Tournament just six days after their final game in Stavanger, have both accepted invitations. So have ex-World Champions Viswanathan Anand and Veselin Topalov, and Wang Hao, who announced his retirement last year.",
@@ -1850,14 +1834,6 @@ news_feed (
          "title" : "FIDE Grand Prix Berlin: Final Tie-Breaks"
       },
       {
-         "description" : "18-year-old Indian Champion Arjun Erigaisi's run of incredible results continued in the 1st leg of the MPL Indian Chess Tour as he scored +7 to clinch victory and a place not just in the MPL Indian Chess Tour final but in an upcoming stage of the Meltwater Champions Chess Tour. When asked his secret, Arjun echoed Bobby Fischer's \"I just got good\", as he stated, \"things just started going my way\". Raunak Sadhwani took second, with Gukesh and Ganguly 3rd, while Harika Dronvalli just missed out on automatic qualification for the next tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/arjun-erigaisi-wins-1st-leg-of-mpl-indian-chess-tour",
-         "pubDate" : "Mon, 04 Apr 2022 01:08:35 +0000",
-         "title" : "Arjun Erigaisi wins 1st leg of MPL Indian Chess Tour"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1936,14 +1912,6 @@ news_feed (
          "link" : "https://www.thearticle.com/white-saviours-black-saved-the-chessboard-as-a-battlefield/",
          "pubDate" : "Sat, 02 Apr 2022 13:50:30 +0000",
          "title" : "White saviours, Black saved: the chessboard as a battlefield"
-      },
-      {
-         "description" : "Please find the link of Gujarat Gm Tournament Live link https://view.livechesscloud.com/#57846b3a-60f9-47ea-8c32-dd85a8cb0cc7",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/gujarat-gm-2022-live-link/",
-         "pubDate" : "Sat, 02 Apr 2022 10:31:50 +0000",
-         "title" : "Gujarat GM 2022 Live link"
       }
    ]
 }
