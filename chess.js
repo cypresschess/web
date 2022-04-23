@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The diagram shows a theoretical Sicilian position in which White has just opened the g-file. Recapturing with 16...Nxf6? now is a well-known mistake - do you see why?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/notes-from-the-najdorf",
+         "pubDate" : "Sat, 23 Apr 2022 09:00:00 +0100",
+         "title" : "Notes from the Najdorf"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91023507.cms\" />The world's first fully in-person chess esports event, the Oslo Esports Cup, got under way on Friday with India's young gun R Praggnanandhaa dispatching his opponent, the Dutchman Jorden van Foreest, in only three games 2.5-0.5.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/oslo-esports-cup-pragg-starts-off-with-a-win/articleshow/91023507.cms",
+         "pubDate" : "Sat, 23 Apr 2022 06:17:55 +0000",
+         "title" : "Oslo Esports Cup: Pragg starts off with a win"
+      },
+      {
+         "description" : "The European School Chess Championship 2022 kicked off yesterday in Rhodes, Greece. The event was opened shortly before the first round with speeches of the ECU President Mr. Zurab Azmaiparashvili the Vice Governor of South Aegean Sea Mr. Nikos Nikolis and ECU Secretary General Mr. Theodoros Tsorbatzoglou. The ECU president made the first ceremonial move to open the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2022-opens/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-school-chess-championship-2022-opens/",
+         "pubDate" : "Sat, 23 Apr 2022 05:32:29 +0000",
+         "title" : "European School Chess Championship 2022 opens"
+      },
+      {
          "description" : "An action packed day saw five matches decided in the playoffs and one match (Caruana-Xiong) made it all the way to Armageddon, finishing in a dramatic time scramble. After all was said and done, Aronian, Dominguez, Sevian, and Caruana from the Open Field along with Krush, Tokhirjonova, Lee, and Abrahamyan from the Women&#x2019;s Field advanced []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1530,14 +1554,6 @@ news_feed (
          "title" : "International Open German Championship for Women"
       },
       {
-         "description" : "The Romanian Chess Federation launches the project of the Romanian Grand Prix series of 6 events with a total prize fund of 100.000 EUR, aiming to support the top performance in Romanian Chess. Romanian Grand Prix 2022 will consist of 5 open qualifying tournaments and the final closed tournament, with participation of the best Romanian chess players. Three&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/super-chess-rapid-event-in-romania/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/super-chess-rapid-event-in-romania/",
-         "pubDate" : "Sat, 09 Apr 2022 06:07:12 +0000",
-         "title" : "Super Chess Rapid event in Romania"
-      },
-      {
          "description" : "The final qualifier of the&#38;nbsp;2022 Junior Speed Chess Championship presented by SIG was won by IM Mahammad Muradli in a dominating display of chess. Muradli swept his final matchup 8-0 in a resounding victory over IM Platon Galperin and also won...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1640,14 +1656,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-1-week-to-go.html",
          "pubDate" : "Thu, 07 Apr 2022 13:49:00 +0000",
          "title" : "2022 O2C Doeberl Cup - 1 week to go"
-      },
-      {
-         "description" : "In the last weeks, we added a lot of chess interactivity to the ChessBase news pages. Replaying games is now optimized for mobile devices. There is a pleasing new layout for annotated games. Social sharing has been radically improved. Diagrams have grown a dirty little secret. Live broadcasts with multiple boards can be configured easily.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-technology-for-the-chessbase-news",
-         "pubDate" : "Thu, 07 Apr 2022 13:41:20 +0100",
-         "title" : "New Technology for the ChessBase News"
       },
       {
          "description" : " <p class=\"lead\">The answer nowadays is simple. GM Sergey Karjakin is the current common ground of the World Champion Magnus Carlsen, the Director-General of FIDE Emil Sutovsky, Twitter's sensation Mr.Dodgy, and the Chinese GM Ding Liren. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/N_R04072.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">World Chess</div> </div> <h2>Carlsen on Karjakin</h2> In an interview for <a href=\"https://www.vg.no/sport/i/Or7lob/magnus-carlsen-usikker-paa-utestengelsen-av-karjakin-oensker-aa-bli-martyr\">the Norwegian newspaper VG,</a> Magnus Carlsen stated that he disagrees with Karjakin, but he is not sure whethe",
@@ -1936,14 +1944,6 @@ news_feed (
          "link" : "https://aicf.in/gujarat-gm-2022-live-link/",
          "pubDate" : "Sat, 02 Apr 2022 10:31:50 +0000",
          "title" : "Gujarat GM 2022 Live link"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90606020.cms\" />Sports administration could be Indian chess legend Viswanathan Anand's next stopover. The five-time world champion on Friday confirmed his involvement in current FIDE president Arkady Dvorkovich's re-election campaign, though ruling himself out of the contest for any office-bearer's post.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anands-new-innings-a-role-in-fide/articleshow/90606020.cms",
-         "pubDate" : "Sat, 02 Apr 2022 06:40:33 +0000",
-         "title" : "Viswanathan Anand's new innings - a role in FIDE?"
       }
    ]
 }
