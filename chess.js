@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share!National Master Jerald Times told The Chess Drum a month ago about a troubling saga involving his tenure at the Success Academy Charter Schools (SACS). Serving as the Chess Program Director he alleged that the organization held discriminatory practices within the organization. He then filed a discriminatory lawsuit against SACS. In a scathing 23-page legal The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/23/jerald-times-embroiled-in-legal-chess-battle/\">Jerald Times scores victory in legal chess battle</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/04/23/jerald-times-embroiled-in-legal-chess-battle/",
+         "pubDate" : "Sat, 23 Apr 2022 22:54:49 +0000",
+         "title" : "Jerald Times scores victory in legal chess battle"
+      },
+      {
+         "description" : "Teen sensation Rameshbabu Praggnanandhaa leads the Oslo Esports Cup after a stunning win over world number 10 Shakrhiyar Mamedyarov. The 16-year-old from Chennai blew away the oldest player in the field with two game wins to take the Round 2 match 2.5 to 0.5. It followed up Pragg's impressive Round 1 match win over Jorden []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/praggnanandhaa-shines-in-oslo-esports-chess-cup-r2/",
+         "pubDate" : "Sat, 23 Apr 2022 22:12:57 +0000",
+         "title" : "Praggnanandhaa shines in Oslo Esports Chess Cup R2"
+      },
+      {
+         "description" : "16-year-old Praggnanandhaa is the sole leader of the Oslo Esports Cup after winning with a game to spare for a second day in a row, this time against Shakhriyar Mamedyarov. Magnus Carlsen mouse-slipped away his queen in the first game of his match against Liem Quang Le, and though he bounced back in style in Game 3 his pushing for a win with Black in Game 4 backfired. There were first wins for Jorden van Foreest, who beat Eric Hansen, and Jan-Krzysztof Duda, who powered to a 2:0 victory in blitz after drawing all four rapid games against Anish Giri.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/oslo-esports-cup-2-pragg-leads-as-le-beats-carlsen",
+         "pubDate" : "Sat, 23 Apr 2022 22:02:47 +0000",
+         "title" : "Oslo Esports Cup 2: Pragg leads as Le beats Carlsen"
+      },
+      {
          "description" : "The American Cup kicked off Wednesday in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Round 4 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -576,14 +600,6 @@ news_feed (
          "link" : "https://www.chessdom.com/16th-chess-olympic-event-for-zhaoqin-peng-tweetoftheday/",
          "pubDate" : "Thu, 21 Apr 2022 08:39:58 +0000",
          "title" : "16th Chess Olympic event for Zhaoqin Peng! #TweetOftheDay"
-      },
-      {
-         "description" : "By IM Kostya Kavutskiy The inaugural American Cup kicked off today with plenty of decisive action as several players drew first blood in their individual matches within the Champions Bracket.&#xA0;More: &#xA0;American Chess Cup 2022 preview&#xA0;/&#xA0;Participants&#xA0;/&#xA0;American Cup 2022 live&#xA0;/&#xA0;Official website Champions Bracket Open Field Champions Bracket Women&#x2019;s Field In this exciting new format, the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/many-decisive-games-at-the-start-of-the-american-chess-cup-2022/",
-         "pubDate" : "Thu, 21 Apr 2022 08:17:24 +0000",
-         "title" : "Many decisive games at the start of the American Chess Cup 2022"
       },
       {
          "description" : "",
@@ -1856,14 +1872,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/hikaru-nakamura-triumphs-in-berlin/",
          "pubDate" : "Mon, 04 Apr 2022 16:49:20 +0000",
          "title" : "Hikaru Nakamura Triumphs in Berlin"
-      },
-      {
-         "description" : "The Good Knight is a popular chess pub in Oslo that has received worldwide attention and is frequented by chess amateurs, grandmasters, the world chess champion and even Hollywood stars. On the new episode of The Late Knight Show the founder Kristoffer Gressli shares the inside story of how it all started and how it's going.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/frequented-by-chess-fans-celebrities-worldchampion-inside-story-good-knight",
-         "pubDate" : "Mon, 04 Apr 2022 15:00:29 +0000",
-         "title" : "Frequented by chess fans, celebrities & the world champion: The inside story of The Good Knight"
       },
       {
          "description" : " <p class=\"lead\">The <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022</a> came to an end with Wesley So winning the third leg in Berlin by beating Hikaru Nakamura in the finals tiebreaks with a 1.5-0.5 score. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-21.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220404150457_IMG_6118.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220404150400_IMG_6115.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/",
