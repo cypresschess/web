@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup kicked off Wednesday in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Round 4 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
+         "pubDate" : "Sat, 23 Apr 2022 19:45:00 +0100",
+         "title" : "American Cup, Round 4 - Live games and commentary"
+      },
+      {
+         "description" : "At the time of the last article, Stockfish had already won the TCEC Season 22 Superfinal, but it was still pursuing two potential records: the record for the most decisive Superfinal, and an &#8216;undefeated' Superfinal where it loses no openings. Unfortunately for Stockfish fans, Stockfish failed to break the first record its final score []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stockfish-wins-the-tcec-season-22-superfinal-by-19-points/",
+         "pubDate" : "Sat, 23 Apr 2022 18:10:28 +0000",
+         "title" : "Stockfish wins the TCEC Season 22 Superfinal by 19 points"
+      },
+      {
+         "description" : "The Meltwater Champions Chess Tour breaks new ground with the launch of its first fully in-person esports event, the Oslo Esports Cup, taking place on April 22-28. Carlsen heads an 8-player elite line-up. Participants will go head-to-head in one four-game match a day for seven days. Play begins daily at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-live",
+         "pubDate" : "Sat, 23 Apr 2022 17:40:00 +0100",
+         "title" : "Oslo Esports Cup, Round 2 - Live!"
+      },
+      {
+         "description" : "The 51st edition of Mar del Plata Open took place from April 9-16 in the second-largest city in Buenos Aires province. The event gathered 282 participants from eight countries, including 35 titled players. GM Andres Rodriguez Vila took a decisive victory in the last round to score 8 points and win the tournament. WFM Mar&#xED;a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/andres-rodriguez-wins-51st-mar-del-plata-open/",
+         "pubDate" : "Sat, 23 Apr 2022 15:44:13 +0000",
+         "title" : "Andres Rodriguez wins 51st Mar del Plata Open"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1703",
+         "pubDate" : "Sat, 23 Apr 2022 15:25:53 +0000",
+         "title" : "World Book Day: Chess Perspective"
+      },
+      {
          "description" : " This is a guest article by my amazing girlfriend WFM Alessia Santeramo. She writes about her recent experience at a closed OTB Classical Chess Tournament. Check Alessia out on her Twitch &#38; YouTube and leave her a follow :-). Enjoy! Finally, I've played my first OTB tournament after 2,5 years of just playing online chess. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/8-things-i-learned-from-failing-to-get-a-wim-norm/\">8 Things I Learned From Failing To Get A WIM-Norm</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -640,22 +680,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-swiss-open-tournaments",
          "pubDate" : "Wed, 20 Apr 2022 13:48:18 +0100",
          "title" : "The Weekly Show: Easter Opens"
-      },
-      {
-         "description" : "For the first time, the Saint Louis Chess Club will host&#160;The American Cup 2022, highlighting an exciting and unique double elimination format. This new format and tournament will bring world class chess masters to America&#x2019;s chess capital to compete in a fierce do-or-die struggle for $300,000 total in prize money. Live games and coverage will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/american-chess-cup-2022-live/",
-         "pubDate" : "Wed, 20 Apr 2022 12:21:00 +0000",
-         "title" : "American Chess Cup 2022 LIVE"
-      },
-      {
-         "description" : "The India Rapid and Blitz Chess Championship 2022 are going to take place 27-29 April in Nashik. A total of 123 players are starting in the event. Top seeded is Aravindh Chithambaram, and he is accompanied by GN Gopal, Deepan Chakkravarthy, Ghosh Diptayan, Sriram Jha, Nitin S, etc. Scroll down for the full participants list. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/india-rapid-and-blitz-chess-championship-2022/",
-         "pubDate" : "Wed, 20 Apr 2022 12:16:19 +0000",
-         "title" : "India Rapid and Blitz Chess Championship 2022"
       },
       {
          "description" : "Svitlana had to study, play tournaments, and Arne had the flu, and also played tournaments. Finally, the coach and her student are back with a new episode. This time, Svitlana takes us on a trip to some of Bobby Fischer's classical games.",
@@ -1666,14 +1690,6 @@ news_feed (
          "title" : "Reykjavik Open: Niemann and Jarmula on 3 out of 3"
       },
       {
-         "description" : "This week Robert Ris takes a look at the game Saric-Abasov played in the 10th round of the European Individual Championships - a model game that illustrates how to attack the Sicilian. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-model-game-against-the-sicilian",
-         "pubDate" : "Thu, 07 Apr 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A model game against the Sicilian"
-      },
-      {
          "description" : "The Norway Chess organisers today revealed a line-up with several surprises for this year's 10th edition of the super tournament, which takes place from May 31 to June 11. 4-time winner Magnus Carlsen heads the field, as expected, but Richard Rapport and Teimour Radjabov, who will take part in the Candidates Tournament just six days after their final game in Stavanger, have both accepted invitations. So have ex-World Champions Viswanathan Anand and Veselin Topalov, and Wang Hao, who announced his retirement last year.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1688,14 +1704,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-1-week-to-go.html",
          "pubDate" : "Thu, 07 Apr 2022 13:49:00 +0000",
          "title" : "2022 O2C Doeberl Cup - 1 week to go"
-      },
-      {
-         "description" : "In the last weeks, we added a lot of chess interactivity to the ChessBase news pages. Replaying games is now optimized for mobile devices. There is a pleasing new layout for annotated games. Social sharing has been radically improved. Diagrams have grown a dirty little secret. Live broadcasts with multiple boards can be configured easily.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-technology-for-the-chessbase-news",
-         "pubDate" : "Thu, 07 Apr 2022 13:41:20 +0100",
-         "title" : "New Technology for the ChessBase News"
       },
       {
          "description" : " <p class=\"lead\">The answer nowadays is simple. GM Sergey Karjakin is the current common ground of the World Champion Magnus Carlsen, the Director-General of FIDE Emil Sutovsky, Twitter's sensation Mr.Dodgy, and the Chinese GM Ding Liren. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/N_R04072.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">World Chess</div> </div> <h2>Carlsen on Karjakin</h2> In an interview for <a href=\"https://www.vg.no/sport/i/Or7lob/magnus-carlsen-usikker-paa-utestengelsen-av-karjakin-oensker-aa-bli-martyr\">the Norwegian newspaper VG,</a> Magnus Carlsen stated that he disagrees with Karjakin, but he is not sure whethe",
@@ -1928,30 +1936,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/2022-dubbo-open-day-1.html",
          "pubDate" : "Sat, 02 Apr 2022 23:49:00 +0000",
          "title" : "2022 Dubbo Open - Day 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1675",
-         "pubDate" : "Sat, 02 Apr 2022 17:30:08 +0000",
-         "title" : "FIDE Grand Prix Berlin Final: Game 1 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1676",
-         "pubDate" : "Sat, 02 Apr 2022 16:51:53 +0000",
-         "title" : "Richard Rapport reaches career-high in April rating list"
-      },
-      {
-         "description" : " <p class=\"lead\">Wesley So and Hikaru Nakamura drew the first game of the third stage of the FIDE Grand Prix organized by World Chess after a long theoretical debate. Hikaru Nakamura will have White pieces in the second game of the mini-match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220402150106_IMG_5952.jpg\" width=\"2560\" height=\"1706\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> Both players arrived at the empty playing hall today for the final match. All other players have been already eliminated in the previous rounds and both players felt a bit lonely playing in the venue despite the presence of many spectators who visited ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-berlin-finals-game-1-recap/",
-         "pubDate" : "Sat, 02 Apr 2022 15:50:49 +0000",
-         "title" : "FIDE Grand Prix Berlin Finals: Game 1 Recap"
       }
    ]
 }
