@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen said he couldn't calculate and was just playing on intuition, but his play looked inspired as he defeated Anish Giri with a game to spare to move into 2nd place in the Oslo Esports Cup. Next up for Magnus is 16-year-old Praggnanandhaa, who leads by 3 points after reaching a perfect 9/9 by winning a rollercoaster final game against Liem Le. Jan-Krzysztof Duda beat Jorden van Foreest with a game to spare, while Mamedyarov-Hansen saw Eric hold on to win the fourth game and get off the mark after the players had previously traded blows.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/oslo-esports-cup-3-carlsen-beats-giri-before-pragg-showdown",
+         "pubDate" : "Sun, 24 Apr 2022 21:54:00 +0000",
+         "title" : "Oslo Esports Cup 3: Carlsen beats Giri before Pragg showdown"
+      },
+      {
+         "description" : "Rameshbabu Praggnanandhaa is &#8220;having fun&#8221; after recording a third straight match-win today to continue his perfect start to the elite Oslo Esports Cup. India's 16-year-old superstar-in-the-making is the&#xA0;only player with 9/9 points&#xA0;and has won the maximum $22,500 so far after he crushed Liem Quang Le with a game to spare. Pragg now faces World Champion []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pragg-is-on-fire-at-the-oslo-esports-cup/",
+         "pubDate" : "Sun, 24 Apr 2022 21:26:11 +0000",
+         "title" : "Pragg is on fire at the Oslo Esports Cup"
+      },
+      {
+         "description" : "Yesterday, Chess.com was banned by the Russian government agency Roscomnadzor, the &#34;Federal Service for Supervision of Communications, Information Technology and Mass Media.&#34; Roscomnadzor is responsible for censorship within Russia, a busy occupat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-com-banned-by-russia",
+         "pubDate" : "Sun, 24 Apr 2022 13:52:37 -0700",
+         "title" : "Chess.com Banned By Russia"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Fabiano Caruana after his draw with Sam Sevian in Game 1 of their championship bracket match. 2022.04.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-my-double-edged-opening-was-gamble-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dk7kZAlDUTU.jpg?itok=S_1oPD6r\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -112,6 +136,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/russian-doll.html",
          "pubDate" : "Sun, 24 Apr 2022 13:13:00 +0000",
          "title" : "Russian Doll"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1706",
+         "pubDate" : "Sun, 24 Apr 2022 13:03:58 +0000",
+         "title" : "Ukraine wins over Norway in solidarity match"
       },
       {
          "description" : "",
@@ -328,14 +360,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2022-opens/",
          "pubDate" : "Sat, 23 Apr 2022 05:32:29 +0000",
          "title" : "European School Chess Championship 2022 opens"
-      },
-      {
-         "description" : "An action packed day saw five matches decided in the playoffs and one match (Caruana-Xiong) made it all the way to Armageddon, finishing in a dramatic time scramble. After all was said and done, Aronian, Dominguez, Sevian, and Caruana from the Open Field along with Krush, Tokhirjonova, Lee, and Abrahamyan from the Women&#x2019;s Field advanced []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/five-matches-decided-in-playoffs-in-the-american-cup-2022/",
-         "pubDate" : "Fri, 22 Apr 2022 23:49:54 +0000",
-         "title" : "Five matches decided in playoffs in the American Cup 2022"
       },
       {
          "description" : "An experienced trainer, Ivan Sokolov has worked with the Iranian team for a number of years, helping the likes of Alireza Firouzja and Parham Maghsoodloo to develop their talent. In his first FritzTrainer series for ChessBase, he showcases a pragmatic style, focusing on general ideas rather than specific lines. One of the games analysed in the section devoted to rolling pawns is Boris Gelfand versus Aleksey Dreev from Tilburg 1993, which included a couple of magnificent long-term sacrifices by Black!",
@@ -1674,14 +1698,6 @@ news_feed (
          "title" : "Mitropa Cup 2022 - Official invitation"
       },
       {
-         "description" : "Round six is in the books, and only one round remains in the regular season before the playoffs. The University of Texas at Rio Grande Valley is now the only team at 6-0 in division one and looks to go 7-0 to complete the perfect season before the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-round-6",
-         "pubDate" : "Sat, 09 Apr 2022 10:48:53 -0700",
-         "title" : "UTRGV Goes for Perfect Season: Collegiate Chess League Season 4 Round 6"
-      },
-      {
          "description" : "From 31 May to 10 June, the Norway Chess Tournament will be held for the tenth time in Stavanger. The lineup is headed by Magnus Carlsen, who will be joined by a number of very active players and a few surprising inclusions. Vishy Anand and Veselin Topalov do not play often lately, but will make their way to Stavanger, much like Richard Rapport and Teimour Radjabov, who will participate despite having to play the Candidates shortly after the event comes to an end. Perhaps the most surprising participant, though, is Wang Hao, who had announced his retirement from professional competitions about a year ago.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1872,14 +1888,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/4/5/ep-273-ep-273-gm-johan-hellsten-on-chess-improvement-the-origins-of-his-excellent-books-and-his-favorite-otb-memories",
          "pubDate" : "Tue, 05 Apr 2022 13:19:08 +0000",
          "title" : " EP 273- GM Johan Hellsten on Chess Improvement, the Inspirations for his \"Mastering Chess\" Book Series, and his favorite OTB Memories "
-      },
-      {
-         "description" : "Magnus Carlsen has broken his silence and weighed in on FIDE's ban of Sergey Karjakin for the first time. The World Champion thinks the controversial Russian wants to become a \"martyr\", says he strongly disagrees with his Russian rival, but is unsure whether it was correct to ban him from chess competitions and strip him of a spot in the Candidates.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-on-karjakin-these-types-of-attitudes-can-t-be-accepted",
-         "pubDate" : "Tue, 05 Apr 2022 12:37:08 +0000",
-         "title" : "Carlsen on Karjakin: \"These types of attitudes can't be accepted\""
       },
       {
          "description" : "The English Chess Federation's 24-hour charity marathon for Ukraine took place over the weekend of 02/04 to 03/04 on Chess.com to raise funds for the...",
