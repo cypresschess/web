@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM&#38;nbsp;Rameshbabu Praggnanandhaa remains the sole leader of the event after day three with nine points and zero losses. He is followed in the standings by GM&#38;nbsp;Magnus Carlsen&#38;nbsp;with six points; after him, we find the GMs&#38;nbsp;Jan-Krzysztof ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oslo-esports-cup-day-3",
+         "pubDate" : "Sun, 24 Apr 2022 15:34:16 -0700",
+         "title" : "Praggnanandhaa Leads, Carlsen Recovers: Oslo Esports Cup Day 3"
+      },
+      {
          "description" : "Magnus Carlsen said he couldn't calculate and was just playing on intuition, but his play looked inspired as he defeated Anish Giri with a game to spare to move into 2nd place in the Oslo Esports Cup. Next up for Magnus is 16-year-old Praggnanandhaa, who leads by 3 points after reaching a perfect 9/9 by winning a rollercoaster final game against Liem Le. Jan-Krzysztof Duda beat Jorden van Foreest with a game to spare, while Mamedyarov-Hansen saw Eric hold on to win the fourth game and get off the mark after the players had previously traded blows.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1680,14 +1688,6 @@ news_feed (
          "link" : "https://chessimprover.com/four-knights-fiasco/",
          "pubDate" : "Sun, 10 Apr 2022 09:41:36 +0000",
          "title" : "Four Knights Fiasco"
-      },
-      {
-         "description" : "Announcing the College Ambassador Program! Chess.com is excited to announce the launch of our College Ambassador Program!&#38;nbsp;This program is designed to empower college students to grow their chess club while also sharing the great game of che...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/college-ambassador-program",
-         "pubDate" : "Sat, 09 Apr 2022 12:22:00 -0700",
-         "title" : "Chess.com's College Ambassador Program"
       },
       {
          "description" : "The Mitropa Cup 2022 will be held from 27th April 8th May in the Sports complex (COSEC) of Corti, Corsica, France. The following chess federations are entitled to take part in the Mitropa Cup 2022:&#160;Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland.&#160; The tournament will be held in two sections: the open section, and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mitropa-cup-2022-official-invitation/\">Read More &#187;</a></span>",
