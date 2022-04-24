@@ -298,6 +298,14 @@ news_feed (
          "title" : "Oslo Esports Cup starts with thumping win for Carlsen"
       },
       {
+         "description" : " The Friendly Solidarity Match Norway-Ukraine match takes place on Tornelo on Saturday 23rd April 13:00 CET. The fundraiser will have donations to the following 6 organsations: Red Cross, Norwegian Refugee Council, Caritas, Save the Children, Norwegian Church Aid and UNICEF Norway. Teams: Ukraine (Lviv Chess Federation) : Ivanchuk, Shevchenko, Kuzubov and Moiseenko. Norway (Offerspill Sjakklubb) Carlsen, Tari, Christiansen and Hauge. Four rounds - the players play all four players in the opposite team.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/friendly-solidarity-match-norway-ukraine-2022",
+         "pubDate" : "Fri, 22 Apr 2022 21:50:00 +0400",
+         "title" : "Friendly Solidarity Match Norway-Ukraine 2022 - Games and Results"
+      },
+      {
          "description" : "In this week's edition of the Power Play Show, GM Daniel King continues to look at the fortunes of two extremely talented Indian players, Praggnanandhaa and Gukesh! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -594,6 +602,14 @@ news_feed (
          "title" : "Chess.com Announces Verified Accounts"
       },
       {
+         "description" : " The Oslo Esports Cup is the first Meltwater Champions Chess Tour event to take place not online but at a venue Fri 22nd Apr 2022\tThu 28th Apr 2022. Players: Carlsen, Giri, Mamedyarov, Duda, Van Foreest, Le Quang Liem, Praggnanandhaa and Eric Hansen play in this round robin of 4 game mini-matches. This is the first tour classic of the season.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/oslo-esports-cup-2022",
+         "pubDate" : "Thu, 21 Apr 2022 19:10:00 +0400",
+         "title" : "Oslo Esports Cup 2022 - Games and Results"
+      },
+      {
          "description" : "A massive chess festival took place in Chihuahua, Mexico on April 12-17. Almost a thousand participants played in the numerous open tournaments, which included events for women, amateurs and different age categories. In the main event, Argentinian GM Sandro Mareco was the outright winner after scoring 7&frac12; out of 9 points. Pablo Salinas (Chile), Kevin Cori (Peru) and Luis Ibarra (Mexico) finished a half point. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -808,6 +824,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1695",
          "pubDate" : "Tue, 19 Apr 2022 15:16:07 +0000",
          "title" : "Queens' Online Chess Festival 2022: Registration opens"
+      },
+      {
+         "description" : " The American Cup takes place in Saint Louis 20th to 30th April 2022. The format is double elimination knockout. This is going to be quite tricky to put into game files but basically to be eliminated you have to lose two matches, even in the final one of the finalists will have lost a match and the other won't and so there's potentially a second chance for one of the finalists if they lose. Players: Aronian, Caruana, So, Dominguez, Shankland, Sevian, Xiong and Robson. There's also a women's event with Krush, Zatonskih, Tsolakidou, Tokhirjonova, Nemcova, Alice Lee, Abrahamyan and Ruiyang Yan. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2022",
+         "pubDate" : "Tue, 19 Apr 2022 18:48:00 +0400",
+         "title" : "American Cup 2022 - "
       },
       {
          "description" : "In a new interview published by the Norwegian newspaper Verdens Gang, Magnus Carlsen again talks about why he is seriously considering not playing another match for the World Championship title. \"I will make that decision later. But if there are some who expect and hope that I will say yes to playing, then I have to prepare them for a disappointment\", said the long-time world number one. | Photo: Anna Shtourman / FIDE",
@@ -1674,6 +1698,22 @@ news_feed (
          "title" : "International Open German Championship for Women"
       },
       {
+         "description" : " The Kvika Reykjavik Open takes place Wed 6th to Tue 12th April 2022. The leading players are mostly talented juniors with a big contingent from India: Pouya Idani, D Gukesh, Hans Moke Niemann, B Adhiban, Raunak Sadhwani, R Praggnanandhaa, Abhijeet Gupta, Max Warmerdam etc.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/kvika-reykjavik-open-2022",
+         "pubDate" : "Fri, 8 Apr 2022 21:00:00 +0400",
+         "title" : "Kvika Reykjavik Open 2022 - "
+      },
+      {
+         "description" : " The 10th Norway Chess tournament takes place in Stavanger May 31st to June 10th 2022. The field is: Magnus Carlsen, Richard Rapport, Wesley So, Shakhriyar Mamedyravov, Anish Giri, Teymur Rajabov, Viswanathan Anand, Maxime Vachier-Lagrave, Veselin Topalov and Wang Hao. This year with other tournaments clashing and the reluctance to invite Russian players means that the field is a little weaker than in recent years where they mostly went for the best players going down the rating list. That said the field is plenty interesting enough. I am a little surprised they didn't use the opportunity to invite another Norwegian player, likely Aryan Tari (I strongly believe that if you have a prestigious",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/10th-norway-chess-tournament-2022",
+         "pubDate" : "Fri, 8 Apr 2022 20:51:00 +0400",
+         "title" : "10th Norway Chess Tournament 2022 - Games and Results"
+      },
+      {
          "description" : " \"500 Chess Questions Answered\" is a book a purchased recently. Written by GM Andy Soltis, it is basically a FAQ for chess, covering everything from learning strategies to how tournaments are run. One section is titled \"Rulebook\" and deals with common questions. One question is whether knights must always face forward, and of course the answer is no. But what I did not know was that Kasparov always had his knights face left. I'm not sure which way I face my knights (probably forwards) but I guess this means it isn't an issue for me. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1912,22 +1952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1678",
          "pubDate" : "Sun, 03 Apr 2022 19:51:39 +0000",
          "title" : "FIDE marks World Autism Awareness Day with panel discussion on Chess and ASD"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1677",
-         "pubDate" : "Sun, 03 Apr 2022 16:36:56 +0000",
-         "title" : "FIDE Grand Prix Berlin: Final goes to tiebreaker"
-      },
-      {
-         "description" : " <p class=\"lead\">Hikaru Nakamura and Wesley So drew their second game in the final match of the third stage of the FIDE Grand Prix organised by World Chess and the fate of the winner's trophy will be determined tomorrow during the tiebreaks. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220403150951_IMG_6053.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> Hikaru Nakamura picked White for the first rapid game against Wesley So during the drawing of lots procedure. It was a short draw in the Berlin Variation of the Ruy Lopez today where both players deviated from the playable lines and quickly entered a fam",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/second-draw-in-the-fide-grand-prix-finals/",
-         "pubDate" : "Sun, 03 Apr 2022 16:08:37 +0000",
-         "title" : "Second Draw in the FIDE Grand Prix finals"
       }
    ]
 }
