@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Some of you may be aware that underpromotions to bishops have been in the news recently. These are popular with endgame study and problem composers but are very rare over the board. (I'm excluding positions where your opponent will capture whatever piece you choose, where your opponent will mate you at the other end of <a href=\"https://chessimprover.com/underpromotion/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Underpromotion\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/underpromotion/\">Underpromotion</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/underpromotion/",
+         "pubDate" : "Sun, 24 Apr 2022 07:06:04 +0000",
+         "title" : "Underpromotion"
+      },
+      {
          "description" : "GM Rameshbabu Praggnanandhaa emerged as the sole and unbeaten leader of the Oslo Esports Cup after day two with six points, followed by GM Anish Giri with four points. Behind him stand GMs Magnus Carlsen,&#38;nbsp;Shakhriyar Mamedyarov,&#38;nbsp;Jorden va...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1848,14 +1856,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-yearbook-2022/",
          "pubDate" : "Tue, 05 Apr 2022 08:11:21 +0000",
          "title" : "ECF Yearbook 2022"
-      },
-      {
-         "description" : " \"What is the object of playing a gambit opening? To acquire a reputation of being a dashing player at the cost of losing a game.\" The Queen's Gambit series If you do a Google search for the Queen's Gambit opening, you find out it is one of the oldest known chess openings. It was first <a href=\"https://chessimprover.com/need-sure-points-queens-gambit-declined-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Queen's Gambit Declined Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-queens-gambit-declined-edition/\">Need sure points? Queen's Gambit Declined Edition</a> appeared first on <a rel=\"nofollow",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-queens-gambit-declined-edition/",
-         "pubDate" : "Tue, 05 Apr 2022 07:58:56 +0000",
-         "title" : "Need sure points? Queen's Gambit Declined Edition"
       },
       {
          "description" : "",
