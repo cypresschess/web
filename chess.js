@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup kicked off Wednesday in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Day 5 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
+         "pubDate" : "Sun, 24 Apr 2022 19:45:00 +0100",
+         "title" : "American Cup, Day 5 - Live games and commentary"
+      },
+      {
+         "description" : "Have you ever wondered what would Anish Giri do if he weren't a professional chess player? Anish Giri answers 9 questions we all thought about: What is your best chess game ever? Who is your favorite actor? What is your go-to song to get pumped? If the Good-Knight bar were to name a drink after []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/what-would-anish-giri-do-if-he-werent-a-professional-chess-player-his-answer-may-surprise-you/",
+         "pubDate" : "Sun, 24 Apr 2022 17:49:26 +0000",
+         "title" : "What would Anish Giri do if he weren't a professional chess player? His answer may surprise you&hellip;"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91056485.cms\" /> Teenaged Indian Grandmaster D Gukesh on Sunday won the Menorca Open chess tournament, his second title win in as many weeks. Indian players dominated, taking seven spots in the top 10 with Aryan Chopra finishing runner-up. The 15-year old GM scored six points from seven rounds to clinch first place and earned 1,600 Euros as prize money.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-menorca-open-chess-tourney/articleshow/91056485.cms",
+         "pubDate" : "Sun, 24 Apr 2022 17:48:24 +0000",
+         "title" : "Indian GM Gukesh wins Menorca Open chess tourney"
+      },
+      {
+         "description" : "15-year-old Indian Grandmaster Gukesh D won the 1st Chess Menorca Open which was played from 20th to 24th April 2022 at Hotel Princesa Playa, Menorca, Spain. Gukesh scored 6 points to be the sole winner of the event and the outstanding performance brought him 13.4 rating points. With live rating of 2660, Gukesh leaped to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gukesh-d-wins-menorca-open-and-becomes-the-youngest-indian-ever-to-break-into-world-top-100/",
+         "pubDate" : "Sun, 24 Apr 2022 16:53:43 +0000",
+         "title" : "Gukesh D wins Menorca Open and becomes the youngest Indian ever to break into World Top 100"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.22<br /> USChessChamps.com ROUND 2 | GAME 1<br /> Levon Aronian vs. Dominguez<br /> Sam Sevian vs. Fabiano Caruana RAPID ELIMINATION MATCHES<br /> Ray Robson vs. Sam Shankland<br /> Wesley So vs. Jeffery Xiong ROUND 2 | GAME 1<br /> Irina Krush vs. Tokhirjonova<br /> Alice Lee vs. Abrahamyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><d",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-3",
+         "pubDate" : "Sun, 24 Apr 2022 16:35:08 +0000",
+         "title" : "The American Cup 2022: Day 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.23<br /> USChessChamps.com ROUND 2 | GAME 2<br /> Dominguez vs. Levon Aronian<br /> Fabiano Caruana vs. Sam Sevian<br /> PLUS PLAYOFFS, IF NECESSARY ROUND 2 | GAME 2<br /> Tokhirjonova vs. Irina Krush<br /> Abrahamyan vs. Alice Lee<br /> PLUS PLAYOFFS, IF NECESSARY </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-4",
+         "pubDate" : "Sun, 24 Apr 2022 16:35:08 +0000",
+         "title" : "The American Cup 2022: Day 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Leinier Dominguez after his win over Levon Aronian in Game 1 of their championship bracket match. 2022.04.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/leinier-dominguez-aronian-played-opening-dubiously-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zsHn3MPpouA.jpg?itok=ecEwZtSf\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/leinier-dominguez-aronian-played-opening-dubiously-day-3",
+         "pubDate" : "Sun, 24 Apr 2022 16:35:08 +0000",
+         "title" : "Leinier Dominguez: Aronian Played the Opening Dubiously | Day 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Alice Lee after her win over Tatev Abrahamyan in Game 1 of their championship bracket match. 2022.04.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-beneficiary-bad-bishop-sac-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eN8-MSD2vCw.jpg?itok=YLyQL3Fd\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lee-beneficiary-bad-bishop-sac-day-3",
+         "pubDate" : "Sun, 24 Apr 2022 16:35:08 +0000",
+         "title" : "Alice Lee: Beneficiary of Bad Bishop Sac | Day 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Fabiano Caruana after his draw with Sam Sevian in Game 1 of their championship bracket match. 2022.04.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-caruana-my-double-edged-opening-was-gamble-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dk7kZAlDUTU.jpg?itok=S_1oPD6r\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabi-caruana-my-double-edged-opening-was-gamble-day-3",
+         "pubDate" : "Sun, 24 Apr 2022 16:35:08 +0000",
+         "title" : "Fabi Caruana: My Double-Edged Opening was a Gamble | Day 3"
+      },
+      {
          "description" : "The Meltwater Champions Chess Tour breaks new ground with the launch of its first fully in-person esports event, the Oslo Esports Cup, taking place on April 22-28. Carlsen heads an 8-player elite line-up. Participants will go head-to-head in one four-game match a day for seven days. Play begins daily at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -258,22 +330,6 @@ news_feed (
          "title" : "Five matches decided in playoffs in the American Cup 2022"
       },
       {
-         "description" : "The world's&#xA0;first fully in-person chess esports event, the Oslo Esports Cup, got under way on Friday with World Champion Magnus Carlsen in imperious form. Carlsen, who is going for a hat-trick of wins in the&#xA0;Meltwater Champions Chess Tour, rounded off the challenge of Polish No.1 Jan-Krzysztof Duda with a thumping 2.5-0.5 victory. The Norwegian even []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/75382-2/",
-         "pubDate" : "Fri, 22 Apr 2022 23:38:49 +0000",
-         "title" : "Carlsen, Praggnanandhaa, Mamedyarov and Giri victorious in day 1 of Oslo Esports Cup"
-      },
-      {
-         "description" : "After the&#xA0;Airthings Masters 2022&#xA0;and the&#xA0;Charity Cup 2022, both won by Magnus Carlsen, the Meltwater Champions Chess Tour breaks new ground next week with the launch of the first fully in-person esports event in chess &#x2013; the Oslo Esports Cup. A star-studded gala event will open the tournament as Norway&#x2019;s World Champion&#xA0;Magnus Carlsen&#xA0;goes for an unprecedented []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/oslo-esports-cup-live/",
-         "pubDate" : "Fri, 22 Apr 2022 23:34:11 +0000",
-         "title" : "Oslo Esports Cup LIVE"
-      },
-      {
          "description" : "An experienced trainer, Ivan Sokolov has worked with the Iranian team for a number of years, helping the likes of Alireza Firouzja and Parham Maghsoodloo to develop their talent. In his first FritzTrainer series for ChessBase, he showcases a pragmatic style, focusing on general ideas rather than specific lines. One of the games analysed in the section devoted to rolling pawns is Boris Gelfand versus Aleksey Dreev from Tilburg 1993, which included a couple of magnificent long-term sacrifices by Black!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -296,14 +352,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1701",
          "pubDate" : "Fri, 22 Apr 2022 20:49:23 +0000",
          "title" : "Oslo Esports Cup starts with thumping win for Carlsen"
-      },
-      {
-         "description" : " The Friendly Solidarity Match Norway-Ukraine match takes place on Tornelo on Saturday 23rd April 13:00 CET. The fundraiser will have donations to the following 6 organsations: Red Cross, Norwegian Refugee Council, Caritas, Save the Children, Norwegian Church Aid and UNICEF Norway. Teams: Ukraine (Lviv Chess Federation) : Ivanchuk, Shevchenko, Kuzubov and Moiseenko. Norway (Offerspill Sjakklubb) Carlsen, Tari, Christiansen and Hauge. Four rounds - the players play all four players in the opposite team.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/friendly-solidarity-match-norway-ukraine-2022",
-         "pubDate" : "Fri, 22 Apr 2022 21:50:00 +0400",
-         "title" : "Friendly Solidarity Match Norway-Ukraine 2022 - Games and Results"
       },
       {
          "description" : "In this week's edition of the Power Play Show, GM Daniel King continues to look at the fortunes of two extremely talented Indian players, Praggnanandhaa and Gukesh! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -506,46 +554,6 @@ news_feed (
          "title" : "The American Cup 2022: Day 2 Playoffs"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The players talk about returning to over-the-board play without masks before The American Cup 2022. 2022.04.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-back-normal\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2WAEghQ42Wc.jpg?itok=bad_HNgW\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-back-normal",
-         "pubDate" : "Thu, 21 Apr 2022 22:33:29 +0000",
-         "title" : "The American Cup 2022: Back to Normal"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Begin Tokhirjonova after her draw against Katerina Nemcova in Game 2 of their Champion's Bracket match. 2022.04.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-tokhirjonova-first-advance-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SyR_mz8YAXs.jpg?itok=APWeXczM\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/begim-tokhirjonova-first-advance-day-2",
-         "pubDate" : "Thu, 21 Apr 2022 22:33:29 +0000",
-         "title" : "Begim Tokhirjonova: First to Advance | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Fabiano Caruana after his draw against Jeffery Xiong in Game 2 of their Champion's Bracket match. 2022.04.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-under-pressure-opening-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PPUgz9p5zhY.jpg?itok=qJnwW8Ep\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-under-pressure-opening-day-2",
-         "pubDate" : "Thu, 21 Apr 2022 22:33:29 +0000",
-         "title" : "Fabiano Caruana: Under Pressure from the Opening | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Jeffery Xiong after his draw against Fabiano Caruana in Game 2 of their Champion's Bracket match. 2022.04.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jeffery-xiong-fortunate-hold-draw-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nZ-HpJYo_XY.jpg?itok=r_4RQ89v\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jeffery-xiong-fortunate-hold-draw-day-2",
-         "pubDate" : "Thu, 21 Apr 2022 22:33:29 +0000",
-         "title" : "Jeffery Xiong: Fortunate to Hold a Draw | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Sam Shankland after his draw against Leinier Dominguez in Game 2 of their Champion's Bracket match. 2022.04.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sam-shankland-40-underdog-playoff-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sMjHFv1Q22I.jpg?itok=lUsvSD9i\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sam-shankland-40-underdog-playoff-day-2",
-         "pubDate" : "Thu, 21 Apr 2022 22:33:29 +0000",
-         "title" : "Sam Shankland: 40% Underdog in Playoff | Day 2"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> leads the Norwegian side in a charity online rapid match against Ukraine this Saturday from 13.00 to 16.15 CET, which is also the second day of the <strong>Oslo Esports Cup</strong>, a <strong><a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour</a></strong> event, scheduled from 18.00 CET. The Oslo team, completed by <strong>Aryan Tari</strong>, <strong>Johan-Sebastian Christiansen</strong> and <strong>Lars Oskar Hauge</strong> meets at the <strong>Good Knight</strong> pub, while <strong>Vasyl Ivanchuk</strong>, <strong>Kirill Shevchenko</strong>, <strong>Yuriy Kuzubov</strong> and <strong>Alexander Moi",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-chesscom-verified",
          "pubDate" : "Thu, 21 Apr 2022 08:17:00 -0700",
          "title" : "Chess.com Announces Verified Accounts"
-      },
-      {
-         "description" : " The Oslo Esports Cup is the first Meltwater Champions Chess Tour event to take place not online but at a venue Fri 22nd Apr 2022\tThu 28th Apr 2022. Players: Carlsen, Giri, Mamedyarov, Duda, Van Foreest, Le Quang Liem, Praggnanandhaa and Eric Hansen play in this round robin of 4 game mini-matches. This is the first tour classic of the season.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/oslo-esports-cup-2022",
-         "pubDate" : "Thu, 21 Apr 2022 19:10:00 +0400",
-         "title" : "Oslo Esports Cup 2022 - Games and Results"
       },
       {
          "description" : "A massive chess festival took place in Chihuahua, Mexico on April 12-17. Almost a thousand participants played in the numerous open tournaments, which included events for women, amateurs and different age categories. In the main event, Argentinian GM Sandro Mareco was the outright winner after scoring 7&frac12; out of 9 points. Pablo Salinas (Chile), Kevin Cori (Peru) and Luis Ibarra (Mexico) finished a half point. | Photo: Official site",
@@ -824,14 +824,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1695",
          "pubDate" : "Tue, 19 Apr 2022 15:16:07 +0000",
          "title" : "Queens' Online Chess Festival 2022: Registration opens"
-      },
-      {
-         "description" : " The American Cup takes place in Saint Louis 20th to 30th April 2022. The format is double elimination knockout. This is going to be quite tricky to put into game files but basically to be eliminated you have to lose two matches, even in the final one of the finalists will have lost a match and the other won't and so there's potentially a second chance for one of the finalists if they lose. Players: Aronian, Caruana, So, Dominguez, Shankland, Sevian, Xiong and Robson. There's also a women's event with Krush, Zatonskih, Tsolakidou, Tokhirjonova, Nemcova, Alice Lee, Abrahamyan and Ruiyang Yan. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2022",
-         "pubDate" : "Tue, 19 Apr 2022 18:48:00 +0400",
-         "title" : "American Cup 2022 - "
       },
       {
          "description" : "In a new interview published by the Norwegian newspaper Verdens Gang, Magnus Carlsen again talks about why he is seriously considering not playing another match for the World Championship title. \"I will make that decision later. But if there are some who expect and hope that I will say yes to playing, then I have to prepare them for a disappointment\", said the long-time world number one. | Photo: Anna Shtourman / FIDE",
@@ -1698,22 +1690,6 @@ news_feed (
          "title" : "International Open German Championship for Women"
       },
       {
-         "description" : " The Kvika Reykjavik Open takes place Wed 6th to Tue 12th April 2022. The leading players are mostly talented juniors with a big contingent from India: Pouya Idani, D Gukesh, Hans Moke Niemann, B Adhiban, Raunak Sadhwani, R Praggnanandhaa, Abhijeet Gupta, Max Warmerdam etc.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/kvika-reykjavik-open-2022",
-         "pubDate" : "Fri, 8 Apr 2022 21:00:00 +0400",
-         "title" : "Kvika Reykjavik Open 2022 - "
-      },
-      {
-         "description" : " The 10th Norway Chess tournament takes place in Stavanger May 31st to June 10th 2022. The field is: Magnus Carlsen, Richard Rapport, Wesley So, Shakhriyar Mamedyravov, Anish Giri, Teymur Rajabov, Viswanathan Anand, Maxime Vachier-Lagrave, Veselin Topalov and Wang Hao. This year with other tournaments clashing and the reluctance to invite Russian players means that the field is a little weaker than in recent years where they mostly went for the best players going down the rating list. That said the field is plenty interesting enough. I am a little surprised they didn't use the opportunity to invite another Norwegian player, likely Aryan Tari (I strongly believe that if you have a prestigious",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/10th-norway-chess-tournament-2022",
-         "pubDate" : "Fri, 8 Apr 2022 20:51:00 +0400",
-         "title" : "10th Norway Chess Tournament 2022 - Games and Results"
-      },
-      {
          "description" : " \"500 Chess Questions Answered\" is a book a purchased recently. Written by GM Andy Soltis, it is basically a FAQ for chess, covering everything from learning strategies to how tournaments are run. One section is titled \"Rulebook\" and deals with common questions. One question is whether knights must always face forward, and of course the answer is no. But what I did not know was that Kasparov always had his knights face left. I'm not sure which way I face my knights (probably forwards) but I guess this means it isn't an issue for me. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1744,14 +1720,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/apr/08/chess-wesley-so-wins-in-berlin-but-laments-failure-to-qualify-for-candidates",
          "pubDate" : "Fri, 08 Apr 2022 07:00:15 +0000",
          "title" : "Chess: Wesley So wins in Berlin but laments failure to qualify for Candidates"
-      },
-      {
-         "description" : "People across the globe observe April 2 as World Autism Awareness Day. To commemorate the day, a supervision panel of the Infinite Chess FIDE Project was held online. The initiative aims to enhance knowledge and awareness about chess for children with ASD, give practical advice to teachers and parents, study the benefits of introducing chess and develop teaching methods.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-asd-world-autism-awareness-day",
-         "pubDate" : "Fri, 08 Apr 2022 03:30:00 +0100",
-         "title" : "Panel discussion on chess and ASD to mark World Autism Awareness Day"
       },
       {
          "description" : "The Norway Chess organisers today revealed a line-up with several surprises for this year's 10th edition of the super tournament, which takes place from May 31 to June 11. 4-time winner Magnus Carlsen heads the field, as expected, but Richard Rapport and Teimour Radjabov, who will take part in the Candidates Tournament just six days after their final game in Stavanger, have both accepted invitations. So have ex-World Champions Viswanathan Anand and Veselin Topalov, and Wang Hao, who announced his retirement last year.",
