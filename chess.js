@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ChessBase Opening Encyclopedia contains a collection of all opening surveys from the ChessBase Magazine and much more. Among other things, the new issue of the Opening Encyclopedia includes videos by GM Dorian Rogozenco in which he presents current opening trends in modern top level chess. Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/exploring-the-chessbase-opening-encyclopedia-dorian-rogozenco-s-shows-current-opening-trends",
+         "pubDate" : "Sun, 24 Apr 2022 12:00:00 +0100",
+         "title" : "Exploring the ChessBase Opening Encyclopedia: Dorian Rogozenco shows current opening trends"
+      },
+      {
+         "description" : " <p class=\"lead\">Popular chess site chess.com has been blocked by Russian authorities for alleged violations against Russian chess players. Sergey Karjakin, Russian elite Grandmaster and outspoken Putin supporter has been recently banned by the site and appealed to the authorities to investigate chess.com. The site has voiced support for Ukraine after Russia attacked the country. Later, chess.com switched the flag of its Russian members to FIDE. According to Karjakin, this amounts to a severe violation of Russia's rules. The country's Prosecutor's office has requested to ban the site. Chess.com has been active in Russia and recently invested in Russian-languages streaming, adding Alexandra K",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/popular-site-chess-com-blocked-by-russian-authorities/",
+         "pubDate" : "Sun, 24 Apr 2022 09:40:30 +0000",
+         "title" : "Popular Site Chess.com Blocked by Russian Authorities"
+      },
+      {
+         "description" : "After&#160;FIDE&#x2019;s ban on Sergey Karjakin for 6 months, a replacement for the Russian player at the&#160;Candiadates Chess 2022&#160;was needed. By the current regulations, the player to enter the event will be selected by rating considering the FIDE rating list published on May 1 (something that&#160;Anish Giri vigorously protested in an interview&#160;during the ongoing Grand []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-liren-finishes-the-quest-to-be-eligible-for-candidates-tournament/",
+         "pubDate" : "Sun, 24 Apr 2022 09:20:23 +0000",
+         "title" : "Ding Liren finishes the quest to be eligible for Candidates Tournament"
+      },
+      {
+         "description" : "The Chess Academy of Armenia and the Armenian Chess Federation organize four international chess events from June 6th July 16th: 13th Karen Asrian Memorial&#160;(6th-16th June, Yerevan, Armenia) 1st International Youth Chess Festival&#160;(17th-26th June, Yerevan, Armenia) Chess Summer Camp&#160;with renowned chess players and Grandmasters (29th June &#x2013; 6th July, Aghveran, Armenia) Stepan Avagyan International Open []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/international-chess-events-in-armenia/",
+         "pubDate" : "Sun, 24 Apr 2022 08:19:36 +0000",
+         "title" : "International Chess Events in Armenia"
+      },
+      {
          "description" : " Some of you may be aware that underpromotions to bishops have been in the news recently. These are popular with endgame study and problem composers but are very rare over the board. (I'm excluding positions where your opponent will capture whatever piece you choose, where your opponent will mate you at the other end of <a href=\"https://chessimprover.com/underpromotion/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Underpromotion\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/underpromotion/\">Underpromotion</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -600,22 +632,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/the-american-cup-2022-day-1",
          "pubDate" : "Thu, 21 Apr 2022 02:21:00 -0700",
          "title" : "Sevian Upsets So: The American Cup Day 1"
-      },
-      {
-         "description" : "Women&#x2019;s German Chess Masters 2022 will be held from 22&#x2013;30 April in Best Western Plus Plaza Hotel Darmstadt. It is a 10-player round-robin tournament with Hanna Marie Klek, Dinara Wagner, Lara Schulze, Melanie Lubbe, Sarah Papp, Josefine Heinemann, Elena Kopke, Jana Schneider, Antonia Ziegenfuss, and Brigitte Burchardt. Women&#x2019;s German Chess Masters 2022 participants TTITLE NAME []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-german-chess-masters-2022/",
-         "pubDate" : "Thu, 21 Apr 2022 09:09:33 +0000",
-         "title" : "Women's German Chess Masters 2022"
-      },
-      {
-         "description" : "Zhaoqin Peng is three times Chinese women's chess championship, in 1987, 1990 and 1993. Peng has won the Dutch women's championship an unprecedented fourteen times. She tied for first with Alexandra Kosteniuk at the European Women's Chess Championship of 2004 in Dresden, and took the silver medal on tiebreak this brought her the GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/16th-chess-olympic-event-for-zhaoqin-peng-tweetoftheday/",
-         "pubDate" : "Thu, 21 Apr 2022 08:39:58 +0000",
-         "title" : "16th Chess Olympic event for Zhaoqin Peng! #TweetOftheDay"
       },
       {
          "description" : "",
@@ -1704,14 +1720,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-asd-world-autism-awareness-day",
          "pubDate" : "Fri, 08 Apr 2022 03:30:00 +0100",
          "title" : "Panel discussion on chess and ASD to mark World Autism Awareness Day"
-      },
-      {
-         "description" : "The Kvika Reykjav&iacute;k Open kicked off on Tuesday, with one round played on opening day and a double round on Wednesday. Hans Niemann (United States) and Lukasz Jarmula (Poland) are the only players to have won all three of their games. No fewer than 31 players stand a half point back, including a number of Indian rising stars. | Pictured: Top seed Pouya Idani (Iran) | Photo: Thorsteinn Magnusson",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-r3",
-         "pubDate" : "Fri, 08 Apr 2022 03:20:00 +0100",
-         "title" : "Reykjavik Open: Niemann and Jarmula on 3 out of 3"
       },
       {
          "description" : "The Norway Chess organisers today revealed a line-up with several surprises for this year's 10th edition of the super tournament, which takes place from May 31 to June 11. 4-time winner Magnus Carlsen heads the field, as expected, but Richard Rapport and Teimour Radjabov, who will take part in the Candidates Tournament just six days after their final game in Stavanger, have both accepted invitations. So have ex-World Champions Viswanathan Anand and Veselin Topalov, and Wang Hao, who announced his retirement last year.",
