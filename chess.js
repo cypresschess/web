@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Meltwater Champions Chess Tour breaks new ground with the launch of its first fully in-person esports event, the Oslo Esports Cup, taking place on April 22-28. Carlsen heads an 8-player elite line-up. Participants will go head-to-head in one four-game match a day for seven days. Play begins daily at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-live",
+         "pubDate" : "Sun, 24 Apr 2022 17:00:00 +0100",
+         "title" : "Oslo Esports Cup, Round 3 - Live!"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 76th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how hanging pawns can come under pressure. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-76-hanging-pawns-under-pressure",
+         "pubDate" : "Sun, 24 Apr 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 76: Hanging pawns under pressure"
+      },
+      {
+         "description" : " Share!FIDE Master Tani Adewumi is growing up right before our eyes. He recently notched the first of three required &#8220;norms&#8221; for the title of International Master. It was only three years ago that the story broke of an 8-year-old winning the New York Scholastic State Title. A New York Times story broke about his Nigerian The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/24/first-im-norm-for-tani-adewumi/\">First IM norm for Tani Adewumi!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/04/24/first-im-norm-for-tani-adewumi/",
+         "pubDate" : "Sun, 24 Apr 2022 13:23:28 +0000",
+         "title" : "First IM norm for Tani Adewumi!"
+      },
+      {
+         "description" : " The 2nd series of \"Russian Doll\" (Netflix) has just been released, and I watched all 7 episodes over 3 days. In one of the episodes the two main characters are playing chess in a New York park, while discussing (or explaining) a plot point. The game ends with one player claiming checkmate and walking away, and the other player suddenly realising it is stalemate instead. Based on the shot of the board I think the game they played was composed by Sam Loyd, and is in fact the shortest game that ends in stalemate. The moves are <strong style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box; color: #212121; font-family: &quot;Open sans&quot;; font-size: 16px; font-variant-ligatures: ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/russian-doll.html",
+         "pubDate" : "Sun, 24 Apr 2022 13:13:00 +0000",
+         "title" : "Russian Doll"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1705",
+         "pubDate" : "Sun, 24 Apr 2022 12:54:52 +0000",
+         "title" : "American Cup: Day 4 Recap"
+      },
+      {
+         "description" : "GM Leinier Dominguez, GM Fabiano Caruana, GM Irina Krush, and FM Alice Lee all advanced to the finals of the Champions Bracket today, after defeating their respective opponents in the semifinals, relegating them to the Elimination Bracket. While the finalists get a rest day tomorrow, the second round of the Elimination Bracket will feature the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-leinier-dominguez-is-the-final-in-the-champions-bracket-of-the-american-cup/",
+         "pubDate" : "Sun, 24 Apr 2022 12:25:14 +0000",
+         "title" : "Fabiano Caruana - Leinier Dominguez is the final in the Champions Bracket of the American Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1704",
+         "pubDate" : "Sun, 24 Apr 2022 11:53:18 +0000",
+         "title" : "Drama in Round 2 of the Oslo Esports Cup"
+      },
+      {
          "description" : "The ChessBase Opening Encyclopedia contains a collection of all opening surveys from the ChessBase Magazine and much more. Among other things, the new issue of the Opening Encyclopedia includes videos by GM Dorian Rogozenco in which he presents current opening trends in modern top level chess. Take a look!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,11 +102,11 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/oslo-esports-cup-day-2",
-         "pubDate" : "Sat, 23 Apr 2022 17:11:28 -0700",
+         "pubDate" : "Sat, 23 Apr 2022 17:11:00 -0700",
          "title" : "Blunders and Comebacks: Oslo Esports Cup Day 2"
       },
       {
-         "description" : " Share!National Master Jerald Times told The Chess Drum a month ago about a troubling saga involving his tenure at the Success Academy Charter Schools (SACS). Serving as the Chess Program Director he alleged that the organization held discriminatory practices within the organization. He then filed a discriminatory complaint against SACS. In a scathing 23-page legal The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/23/jerald-times-embroiled-in-legal-chess-battle/\">Jerald Times scores victory in legal chess battle</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
+         "description" : " National Master Jerald Times told The Chess Drum a month ago about a troubling saga involving his tenure at the Success Academy Charter Schools (SACS). Serving as the Chess Program Director he alleged that the organization held discriminatory practices within the organization. He then filed a discriminatory complaint against SACS. In a scathing 23-page legal The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/23/jerald-times-embroiled-in-legal-chess-battle/\">Jerald Times scores victory in legal chess battle</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/04/23/jerald-times-embroiled-in-legal-chess-battle/",
@@ -66,20 +122,12 @@ news_feed (
          "title" : "Praggnanandhaa shines in Oslo Esports Chess Cup R2"
       },
       {
-         "description" : "16-year-old Praggnanandhaa is the sole leader of the Oslo Esports Cup after winning with a game to spare for a second day in a row, this time against Shakhriyar Mamedyarov. Magnus Carlsen mouse-slipped away his queen in the first game of his match against Liem Quang Le, and though he bounced back in style in Game 3 his pushing for a win with Black in Game 4 backfired. There were first wins for Jorden van Foreest, who beat Eric Hansen, and Jan-Krzysztof Duda, who powered to a 2:0 victory in blitz after drawing all four rapid games against Anish Giri.",
+         "description" : "16-year-old Praggnanandhaa is the sole leader of the Oslo Esports Cup after winning with a game to spare for a second day in a row, this time against Shakhriyar Mamedyarov. Magnus Carlsen mouse-slipped away his queen in the first game against Liem Le, and though he bounced back in style in Game 3 his pushing for a win with Black in Game 4 backfired. There were first wins for Jorden van Foreest, who beat Eric Hansen with \"the novelty of the year\", and Jan-Krzysztof Duda, who powered to a 2:0 victory in blitz after drawing all four rapid games against Anish Giri.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/oslo-esports-cup-2-pragg-leads-as-le-beats-carlsen",
          "pubDate" : "Sat, 23 Apr 2022 22:02:47 +0000",
          "title" : "Oslo Esports Cup 2: Pragg leads as Le beats Carlsen"
-      },
-      {
-         "description" : "The American Cup kicked off Wednesday in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Round 4 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
-         "pubDate" : "Sat, 23 Apr 2022 19:45:00 +0100",
-         "title" : "American Cup, Round 4 - Live games and commentary"
       },
       {
          "description" : "At the time of the last article, Stockfish had already won the TCEC Season 22 Superfinal, but it was still pursuing two potential records: the record for the most decisive Superfinal, and an &#8216;undefeated' Superfinal where it loses no openings. Unfortunately for Stockfish fans, Stockfish failed to break the first record its final score []",
@@ -88,14 +136,6 @@ news_feed (
          "link" : "https://www.chessdom.com/stockfish-wins-the-tcec-season-22-superfinal-by-19-points/",
          "pubDate" : "Sat, 23 Apr 2022 18:10:28 +0000",
          "title" : "Stockfish wins the TCEC Season 22 Superfinal by 19 points"
-      },
-      {
-         "description" : "The Meltwater Champions Chess Tour breaks new ground with the launch of its first fully in-person esports event, the Oslo Esports Cup, taking place on April 22-28. Carlsen heads an 8-player elite line-up. Participants will go head-to-head in one four-game match a day for seven days. Play begins daily at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-live",
-         "pubDate" : "Sat, 23 Apr 2022 17:40:00 +0100",
-         "title" : "Oslo Esports Cup, Round 2 - Live!"
       },
       {
          "description" : "The 51st edition of Mar del Plata Open took place from April 9-16 in the second-largest city in Buenos Aires province. The event gathered 282 participants from eight countries, including 35 titled players. GM Andres Rodriguez Vila took a decisive victory in the last round to score 8 points and win the tournament. WFM Mar&#xED;a []",
@@ -256,14 +296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1701",
          "pubDate" : "Fri, 22 Apr 2022 20:49:23 +0000",
          "title" : "Oslo Esports Cup starts with thumping win for Carlsen"
-      },
-      {
-         "description" : " The Friendly Solidarity Match Norway-Ukraine match takes place on Tornelo on Saturday 23rd April 13:00 CET. The fundraiser will have donations to the following 6 organsations: Red Cross, Norwegian Refugee Council, Caritas, Save the Children, Norwegian Church Aid and UNICEF Norway. Teams: Ukraine (Lviv Chess Federation) : Ivanchuk, Shevchenko, Kuzubov and Moiseenko. Norway (Offerspill Sjakklubb) Carlsen, Tari, Christiansen and Hauge. Four rounds - the players play all four players in the opposite team.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/friendly-solidarity-match-norway-ukraine-2022",
-         "pubDate" : "Fri, 22 Apr 2022 21:50:00 +0400",
-         "title" : "Friendly Solidarity Match Norway-Ukraine 2022 - Games and Results"
       },
       {
          "description" : "In this week's edition of the Power Play Show, GM Daniel King continues to look at the fortunes of two extremely talented Indian players, Praggnanandhaa and Gukesh! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -562,28 +594,12 @@ news_feed (
          "title" : "Chess.com Announces Verified Accounts"
       },
       {
-         "description" : " The Oslo Esports Cup is the first Meltwater Champions Chess Tour event to take place not online but at a venue Fri 22nd Apr 2022\tThu 28th Apr 2022. Players: Carlsen, Giri, Mamedyarov, Duda, Van Foreest, Le Quang Liem, Praggnanandhaa and Eric Hansen play in this round robin of 4 game mini-matches. This is the first tour classic of the season.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/oslo-esports-cup-2022",
-         "pubDate" : "Thu, 21 Apr 2022 19:10:00 +0400",
-         "title" : "Oslo Esports Cup 2022 - Games and Results"
-      },
-      {
          "description" : "A massive chess festival took place in Chihuahua, Mexico on April 12-17. Almost a thousand participants played in the numerous open tournaments, which included events for women, amateurs and different age categories. In the main event, Argentinian GM Sandro Mareco was the outright winner after scoring 7&frac12; out of 9 points. Pablo Salinas (Chile), Kevin Cori (Peru) and Luis Ibarra (Mexico) finished a half point. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sandro-mareco-wins-mexico-open-2022",
          "pubDate" : "Thu, 21 Apr 2022 16:00:00 +0100",
          "title" : "Sandro Mareco victorious at Mexico Open"
-      },
-      {
-         "description" : "Defending champion Stockfish is the winner of the Top Chess Engine Championship Season 22. It was up a near-decisive twelve points at the&#xA0;half-way mark, and although Komodo Dragon slowed the bleeding somewhat in the second half of the Superfinal, Stockfish's lead has&#xA0;grown to&#xA0;+18 as of time of writing (game 88/100).&#xA0;Stockfish not only won in dominating []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stockfish-wins-tcec-season-22-sets-records/",
-         "pubDate" : "Thu, 21 Apr 2022 14:09:26 +0000",
-         "title" : "Stockfish wins TCEC Season 22, sets records"
       },
       {
          "description" : " During the ACT Junior Rapid Championships, I witnessed not one, but two R v B endings (no pawns mind you). As the players involved were relatively inexperienced, finding the correct defence proved elusive. It is a draw if the side with the Bishop can get their king into the corner of the opposite colour to the bishop, as stalemate tricks then save the day. In the first case the weaker side got their king caught in the middle of the back rank and lost the bishop to zugswang. In the second game, the defending side found a better strategy, putting the side with the rook into check, and then pointing out an illegal move when the rook was moved. After resetting the position I pointed out that to",
@@ -792,14 +808,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1695",
          "pubDate" : "Tue, 19 Apr 2022 15:16:07 +0000",
          "title" : "Queens' Online Chess Festival 2022: Registration opens"
-      },
-      {
-         "description" : " The American Cup takes place in Saint Louis 20th to 30th April 2022. The format is double elimination knockout. This is going to be quite tricky to put into game files but basically to be eliminated you have to lose two matches, even in the final one of the finalists will have lost a match and the other won't and so there's potentially a second chance for one of the finalists if they lose. Players: Aronian, Caruana, So, Dominguez, Shankland, Sevian, Xiong and Robson. There's also a women's event with Krush, Zatonskih, Tsolakidou, Tokhirjonova, Nemcova, Alice Lee, Abrahamyan and Ruiyang Yan. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2022",
-         "pubDate" : "Tue, 19 Apr 2022 18:48:00 +0400",
-         "title" : "American Cup 2022 - "
       },
       {
          "description" : "In a new interview published by the Norwegian newspaper Verdens Gang, Magnus Carlsen again talks about why he is seriously considering not playing another match for the World Championship title. \"I will make that decision later. But if there are some who expect and hope that I will say yes to playing, then I have to prepare them for a disappointment\", said the long-time world number one. | Photo: Anna Shtourman / FIDE",
@@ -1666,22 +1674,6 @@ news_feed (
          "title" : "International Open German Championship for Women"
       },
       {
-         "description" : " The Kvika Reykjavik Open takes place Wed 6th to Tue 12th April 2022. The leading players are mostly talented juniors with a big contingent from India: Pouya Idani, D Gukesh, Hans Moke Niemann, B Adhiban, Raunak Sadhwani, R Praggnanandhaa, Abhijeet Gupta, Max Warmerdam etc.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/kvika-reykjavik-open-2022",
-         "pubDate" : "Fri, 8 Apr 2022 21:00:00 +0400",
-         "title" : "Kvika Reykjavik Open 2022 - "
-      },
-      {
-         "description" : " The 10th Norway Chess tournament takes place in Stavanger May 31st to June 10th 2022. The field is: Magnus Carlsen, Richard Rapport, Wesley So, Shakhriyar Mamedyravov, Anish Giri, Teymur Rajabov, Viswanathan Anand, Maxime Vachier-Lagrave, Veselin Topalov and Wang Hao. This year with other tournaments clashing and the reluctance to invite Russian players means that the field is a little weaker than in recent years where they mostly went for the best players going down the rating list. That said the field is plenty interesting enough. I am a little surprised they didn't use the opportunity to invite another Norwegian player, likely Aryan Tari (I strongly believe that if you have a prestigious",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/10th-norway-chess-tournament-2022",
-         "pubDate" : "Fri, 8 Apr 2022 20:51:00 +0400",
-         "title" : "10th Norway Chess Tournament 2022 - Games and Results"
-      },
-      {
          "description" : " \"500 Chess Questions Answered\" is a book a purchased recently. Written by GM Andy Soltis, it is basically a FAQ for chess, covering everything from learning strategies to how tournaments are run. One section is titled \"Rulebook\" and deals with common questions. One question is whether knights must always face forward, and of course the answer is no. But what I did not know was that Kasparov always had his knights face left. I'm not sure which way I face my knights (probably forwards) but I guess this means it isn't an issue for me. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1936,14 +1928,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/second-draw-in-the-fide-grand-prix-finals/",
          "pubDate" : "Sun, 03 Apr 2022 16:08:37 +0000",
          "title" : "Second Draw in the FIDE Grand Prix finals"
-      },
-      {
-         "description" : " The 6 round 2022 Dubbo Open finished in a tie for first between FM Michael Kethro and Cameron McGowan. After their 4th round game ended in a draw, both had to navigate some tricky pairings over the last 2 rounds. Kethro looked to have the harder time of it, having to fight very hard against WIM Biljana Dekic in round 5, and fending off an inspired Braiden Cox in the final round. McGowan also managed to win his final two games (against WFM Kristine Quek and WFM Alana Chibnall) to leave both players on 5.5/6. In third place was rising star Lucas Ni, who only lost to Kethro, winning all his other games. There were a number of good performances by new players on the tournament scene, with unrat",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/04/2022-dubbo-open-kethro-and-mcgowan-tie.html",
-         "pubDate" : "Sun, 03 Apr 2022 13:40:00 +0000",
-         "title" : "2022 Dubbo Open - Kethro and McGowan tie for 1st"
       }
    ]
 }
