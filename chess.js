@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Share!National Master Jerald Times told The Chess Drum a month ago about a troubling saga involving his tenure at the Success Academy Charter Schools (SACS). Serving as the Chess Program Director he alleged that the organization held discriminatory practices within the organization. He then filed a discriminatory lawsuit against SACS. In a scathing 23-page legal The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/23/jerald-times-embroiled-in-legal-chess-battle/\">Jerald Times scores victory in legal chess battle</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
+         "description" : "GM Rameshbabu Praggnanandhaa emerged as the sole and unbeaten leader of the Oslo Esports Cup after day two with six points, followed by GM Anish Giri with four points. Behind him stand GMs Magnus Carlsen,&#38;nbsp;Shakhriyar Mamedyarov,&#38;nbsp;Jorden va...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oslo-esports-cup-day-2",
+         "pubDate" : "Sat, 23 Apr 2022 17:11:28 -0700",
+         "title" : "Blunders and Comebacks: Oslo Esports Cup Day 2"
+      },
+      {
+         "description" : " Share!National Master Jerald Times told The Chess Drum a month ago about a troubling saga involving his tenure at the Success Academy Charter Schools (SACS). Serving as the Chess Program Director he alleged that the organization held discriminatory practices within the organization. He then filed a discriminatory complaint against SACS. In a scathing 23-page legal The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/23/jerald-times-embroiled-in-legal-chess-battle/\">Jerald Times scores victory in legal chess battle</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/04/23/jerald-times-embroiled-in-legal-chess-battle/",
@@ -1602,14 +1610,6 @@ news_feed (
          "title" : "UTRGV Goes for Perfect Season: Collegiate Chess League Season 4 Round 6"
       },
       {
-         "description" : "The main event of the&#38;nbsp;2022 Junior Speed Chess Championship presented by SIG gets going on Monday, April 11, and Chess.com is running a contest for you the viewer as well!&#38;nbsp;We are offering $1,500 in cash prizes and over a dozen diamond mem...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-bracket-contest",
-         "pubDate" : "Sat, 09 Apr 2022 08:11:00 -0700",
-         "title" : "2022 Junior Speed Chess Championship Bracket Contest"
-      },
-      {
          "description" : "From 31 May to 10 June, the Norway Chess Tournament will be held for the tenth time in Stavanger. The lineup is headed by Magnus Carlsen, who will be joined by a number of very active players and a few surprising inclusions. Vishy Anand and Veselin Topalov do not play often lately, but will make their way to Stavanger, much like Richard Rapport and Teimour Radjabov, who will participate despite having to play the Candidates shortly after the event comes to an end. Perhaps the most surprising participant, though, is Wang Hao, who had announced his retirement from professional competitions about a year ago.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1936,14 +1936,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/2022-dubbo-open-kethro-and-mcgowan-tie.html",
          "pubDate" : "Sun, 03 Apr 2022 13:40:00 +0000",
          "title" : "2022 Dubbo Open - Kethro and McGowan tie for 1st"
-      },
-      {
-         "description" : " The 2022 Dubbo Open has attracted a good field of 37 players. The top 2 seeds are Cameron McGowan and FM Michael Kethro, with a solid field of 1750-2000 rated players making up the next 7 seeds. After the first 3 rounds, McGowan, Kethro and WFM Alana Chibnall lead with 3/3. Close behind on 2.5 are WFM Kristine Quek, WIM Biljana Dekic and Kye Walls. The round 4 pairings see McGowan play Kethro on the top board, with Dekic v Chibnall on board 2. After the 3rd round the traditional time handicap blitz event was held. Players were given a time bonus/penalty based on their rating, meaning that higher rated players might start with only 2 or 3 minutes on their click (versus their opponents 5). Th",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/04/2022-dubbo-open-day-1.html",
-         "pubDate" : "Sat, 02 Apr 2022 23:49:00 +0000",
-         "title" : "2022 Dubbo Open - Day 1"
       }
    ]
 }
