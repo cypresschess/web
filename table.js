@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2022-04-23  - 04-24","58","<a href=http://www.uschess.org/msa/XtblMain.php?202204241572 target='_blank'>$3,200 HOUSTON CHESS STUDIO SPRING</a>",
+"HOUSTON","2022-04-23","410","<a href=http://www.uschess.org/msa/XtblMain.php?202204231042 target='_blank'>T H ROGERS TOURNAMENT</a>",
 "SPRING","2022-04-22","18","<a href=http://www.uschess.org/msa/XtblMain.php?202204220372 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-04-22","6","<a href=http://www.uschess.org/msa/XtblMain.php?202204220342 target='_blank'>FBCC04222022</a>",
 "CYPRESS","2022-04-22","14","<a href=http://www.uschess.org/msa/XtblMain.php?202204220262 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -197,6 +199,4 @@ jtable([
 "CYPRESS","2021-06-11","13","<a href=http://www.uschess.org/msa/XtblMain.php?202106116582 target='_blank'>11JUN21</a>",
 "SPRING","2021-06-11","20","<a href=http://www.uschess.org/msa/XtblMain.php?202106116312 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2021-06-04","12","<a href=http://www.uschess.org/msa/XtblMain.php?202106046932 target='_blank'>KOFC 04JUN21</a>",
-"CYPRESS","2021-06-04","4","<a href=http://www.uschess.org/msa/XtblMain.php?202106044722 target='_blank'>JUNE 4 SECTION B</a>",
-"SPRING","2021-06-04","23","<a href=http://www.uschess.org/msa/XtblMain.php?202106043802 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
