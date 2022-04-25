@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup kicked off Wednesday in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Day 6 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
+         "pubDate" : "Mon, 25 Apr 2022 19:45:00 +0100",
+         "title" : "American Cup, Day 6 - Live games and commentary"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The open source chess server has <a href=\"https://lichess.org/blog/YmXOfxEAAB4AJh8A/announcing-the-lichess-world-championship\">announced</a> that its monthly <strong>Titled Arena</strong> tournaments will from on be called the <strong>Lichess World Championship</strong> following <a href=\"https://www.chess.com/article/view/chesscom-world-championship-2022\"><strong>Chess.com</strong>'s announcement</a> with <strong>FIDE</strong>'s apparent consent. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/and-so-does-lichess/",
+         "pubDate" : "Mon, 25 Apr 2022 18:39:45 +0100",
+         "title" : "And so does Lichess"
+      },
+      {
+         "description" : " <p class=\"lead\">World Chess today introduced Prize Money Tournaments - online tournaments with entry fees and monetary prizes. The Prize Money Tournaments will be organized by World Chess and select partners, such as federations and clubs, and will allow chess players to play for actual monetary prizes, similar to the offline events. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0EF0F22B-243C-4285-866E-8B64023B35A3.jpeg\" width=\"1600\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">FIDE Online Arena front page</div> </div> Setting up and participating in a <a href=\"https://chessarena.com/tournaments/17818\">Prize Money Tournament</a> on FIDE Online Arena, t",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-introduces-prize-money-tournaments/",
+         "pubDate" : "Mon, 25 Apr 2022 17:22:03 +0000",
+         "title" : "World Chess Introduces Prize Money Tournaments"
+      },
+      {
          "description" : "The Meltwater Champions Chess Tour breaks new ground with the launch of its first fully in-person esports event, the Oslo Esports Cup, taking place on April 22-28. Carlsen heads an 8-player elite line-up. Participants will go head-to-head in one four-game match a day for seven days. Play begins daily at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-show-191-highlights-from-the-charity-cup",
          "pubDate" : "Mon, 25 Apr 2022 17:00:00 +0100",
          "title" : "Endgame Magic Show #191: Highlights from the Charity Cup"
+      },
+      {
+         "description" : "GM Alexey Sarana won week 11 of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Andrey Esipenko in the knockout final.&#38;nbsp; GM Hikaru Nakamura&#38;nbsp;won the Swiss tournament and made it to the semifinals along wit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-11-sarana-wins",
+         "pubDate" : "Mon, 25 Apr 2022 08:33:19 -0700",
+         "title" : "Sarana's First Knockout Victory: Rapid Chess Championship Week 11"
       },
       {
          "description" : "",
@@ -656,14 +688,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/armageddon-caruana-vs-xiong-day-2",
          "pubDate" : "Fri, 22 Apr 2022 01:33:25 +0000",
          "title" : "Armageddon: Caruana vs. Xiong | Day 2"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> leads the Norwegian side in a charity online rapid match against Ukraine this Saturday from 13.00 to 16.15 CET, which is also the second day of the <strong>Oslo Esports Cup</strong>, a <strong><a href=\"https://chess24.com/tour/\">Meltwater Champions Chess Tour</a></strong> event, scheduled from 18.00 CET. The Oslo team, completed by <strong>Aryan Tari</strong>, <strong>Johan-Sebastian Christiansen</strong> and <strong>Lars Oskar Hauge</strong> meets at the <strong>Good Knight</strong> pub, while <strong>Vasyl Ivanchuk</strong>, <strong>Kirill Shevchenko</strong>, <strong>Yuriy Kuzubov</strong> and <strong>Alexander Moi",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/carlsen-to-play-in-ukraine-charity/",
-         "pubDate" : "Thu, 21 Apr 2022 21:42:04 +0100",
-         "title" : "Carlsen to play in Ukraine charity match"
       },
       {
          "description" : "\"The chess world isn't a safe place for us,\" says popular chess streamer Tallulah Roberts, aka \"lularobs\", recounting an incident at the blitz tournament of the Reykjavik Open 2022. Jamaal S. Abdul-Alim, 2013 Chess Journalist of the Year, explains \"why chess tournaments can be hostile for women and girls\". | Photo: Reykjavik Open",
@@ -1722,28 +1746,12 @@ news_feed (
          "title" : "Live Link for MPL 34th National U12 Chess Championship 2022"
       },
       {
-         "description" : "GM Hikaru Nakamura&#38;nbsp;won week nine of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating longtime rival GM Levon Aronian in the knockout final.&#38;nbsp; GM Vladimir Fedoseev&#38;nbsp;won the Swiss tournament and made it to ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-9-nakamura-wins",
-         "pubDate" : "Sun, 10 Apr 2022 16:35:00 -0700",
-         "title" : "Nakamura Wins Knockout: Rapid Chess Championship Week 9"
-      },
-      {
          "description" : "Lukasz Jarmula had taken the sole lead at the Reykjav&iacute;k Open by beating Hans Niemann in round 4. The Polish grandmaster drew top seed Pouya Idani in round 5 to remain in sole first place, but a loss to Danish GM Mads Andersen has now left him sharing second place a half point behind the leaders. Besides Andersen, Johann Hjartarson, Praggnanandhaa (pictured) and Max Warmerdam also won in Sunday's early round and are now sharing the lead on 5/6 points. | Photo: Thorsteinn Magnusson",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/reykjavik-open-2022-r5",
          "pubDate" : "Sun, 10 Apr 2022 17:20:00 +0100",
          "title" : "Reykjavik Open: Four co-leaders as Andersen beats Jarmula"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 74th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about pieces that are out of play. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-74-pieces-that-are-out-of-play-and-how-to-exploit-them",
-         "pubDate" : "Sun, 10 Apr 2022 13:00:00 +0100",
-         "title" : "Understanding before Moving 74: Pieces that are out of play - and how to exploit them"
       },
       {
          "description" : " How would you assess this position, with Black to move? Perhaps you think White can look forward to playing on the f-file against Black's doubled pawns, with moves like Bc4 and Qf3 to come. I could imagine thinking like that myself if I had this position in a blitz game. It comes from an old <a href=\"https://chessimprover.com/four-knights-fiasco/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Four Knights Fiasco\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/four-knights-fiasco/\">Four Knights Fiasco</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1944,22 +1952,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-yearbook-2022/",
          "pubDate" : "Tue, 05 Apr 2022 08:11:21 +0000",
          "title" : "ECF Yearbook 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1681",
-         "pubDate" : "Mon, 04 Apr 2022 20:04:24 +0000",
-         "title" : "Wesley So wins FIDE Grand Prix Berlin"
-      },
-      {
-         "description" : " <p class=\"lead\">Wesley So wins the third leg of the FIDE Grand Prix Series 2022, organized by World Chess; Hikaru Nakamura wins the FIDE Grand Prix Series 2022; Nakamura and Richard Rapport qualify for the FIDE Candidates Tournament to be held in Madrid later this year. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4721104082806\"> <img src=\"https://worldchess.com/news/pictures/0V8A9937.JPG\" width=\"2560\" height=\"1739\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220404154150_IMG_6133.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/0V8A9663.JPG\" width=\"2560\" height=\"1783\" alt=\"\" /> <img src=\"https://w",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/hikaru-nakamura-triumphs-in-berlin/",
-         "pubDate" : "Mon, 04 Apr 2022 16:49:20 +0000",
-         "title" : "Hikaru Nakamura Triumphs in Berlin"
       }
    ]
 }
