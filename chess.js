@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After three rounds 16-year old Indian talent Praggnaanandhaa is sole leader at the Oslo Esports Cup and the only player who won all three matches. In round three Pragg defeated the Vietnamese Grandmaster Le Quang Liem. Magnus Carlsen, who seems to suffer from a severe cold, won against Anish Giri and after two wins and one loss he is in second place.| Photos and pictures: PM Group",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oslo-esports-cup-praggnanandhaa-wins-third-match-in-a-row",
+         "pubDate" : "Mon, 25 Apr 2022 11:39:30 +0100",
+         "title" : "Oslo Esports Cup: Praggnanandhaa wins third match in a row"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1707",
+         "pubDate" : "Mon, 25 Apr 2022 09:39:35 +0000",
+         "title" : "Praggnanandhaa wins third straight match in the Oslo Esports Cup"
+      },
+      {
+         "description" : "It is with great sadness we report that David Anderton passed away today, 1st April 2022. This is a great loss. Our condolences go out...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/david-anderton-rip/",
+         "pubDate" : "Mon, 25 Apr 2022 08:00:16 +0000",
+         "title" : "David Anderton RIP (updated 25/4/22)"
+      },
+      {
          "description" : "GM&#38;nbsp;Rameshbabu Praggnanandhaa remains the sole leader of the event after day three with nine points and zero losses. He is followed in the standings by GM&#38;nbsp;Magnus Carlsen&#38;nbsp;with six points; after him, we find the GMs&#38;nbsp;Jan-Krzysztof ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1722,14 +1746,6 @@ news_feed (
          "title" : "Challengers challenge II"
       },
       {
-         "description" : "The International Open German Championship for Women will be held from 27th April 1st May in Best Western Plus Plaza Hotel Darmstadt. The event is open to all interested players, regardless of their title or rating. The International Open German Championship for Women will be played in 7 rounds, Swiss system, with time control:&#160;90 min for 40&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/international-open-german-championship-for-women/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/international-open-german-championship-for-women/",
-         "pubDate" : "Sat, 09 Apr 2022 07:20:20 +0000",
-         "title" : "International Open German Championship for Women"
-      },
-      {
          "description" : " The Kvika Reykjavik Open takes place Wed 6th to Tue 12th April 2022. The leading players are mostly talented juniors with a big contingent from India: Pouya Idani, D Gukesh, Hans Moke Niemann, B Adhiban, Raunak Sadhwani, R Praggnanandhaa, Abhijeet Gupta, Max Warmerdam etc.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1752,14 +1768,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/front-facing-knights.html",
          "pubDate" : "Fri, 08 Apr 2022 13:31:00 +0000",
          "title" : "Front facing knights"
-      },
-      {
-         "description" : "At the end of last year, the Uzbek Grandmaster Nodirbek Abdusattorov won the World Rapid Championship in Warsaw at the age of 17, becoming the youngest World Rapid Champion of all time. In the course of the event he defeated Fabiano Caruana, Levon Aronian, Ian Nepomniachtchi - and Magnus Carlsen! \"What a fight!\" writes Anish Giri about Abdusattorov's encounter with the World Champion in his analysis for ChessBase Magazine Extra #206. It's \"The brilliancy\" of the new issue. Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-brilliancy",
-         "pubDate" : "Fri, 08 Apr 2022 13:40:00 +0100",
-         "title" : "\"The brilliancy\""
       },
       {
          "description" : " <p class=\"lead\">GM Wesley So and Lotis Key give an exclusive interview to Dina Belenkaya on chess path, how they meet each other, the necessity of quitting social media and more. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/XyJu4O1OnzQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -1952,14 +1960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1680",
          "pubDate" : "Mon, 04 Apr 2022 11:41:45 +0000",
          "title" : "Lajos Portisch celebrates his 85th birthday"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/G-ZUf5ywB5w?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-grand-prix-berlin-final-tie-breaks/",
-         "pubDate" : "Mon, 04 Apr 2022 10:17:10 +0000",
-         "title" : "FIDE Grand Prix Berlin: Final Tie-Breaks"
       }
    ]
 }
