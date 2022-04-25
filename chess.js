@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I usually enjoy getting feedback about this blog, even more so when it is face to face. One of the more recent comments (made in person), was that I include lots of 'obscure club games'. While these are normally my own games, I do feature games by other club players (if I can grab the scoresheets). This time however, it is one of my recent games that I will feature. The takeaway from this game is twofold. A missed tempo on the opening can lead to a space disadvantage in the middlegame. This then leads to problems defending an unsafe king. <br /> <b>Press,Shaun - Mildenhall,Stephen [A30]</b><br />Murphy Memorial, 12.04.2022 <script>new PgnViewer( { boardName: \"game1322\", movesFormat: \"defaul",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/obscure-club-games.html",
+         "pubDate" : "Mon, 25 Apr 2022 13:14:00 +0000",
+         "title" : "Obscure club games"
+      },
+      {
+         "description" : "Just a day after the Russian assault on Ukraine began, Anna Muzychuk and her sister Mariya, after careful deliberation, decided to flee the country. They undertook a harrowing journey to Poland and then to Germany and Spain, where they are now \"stranded.\" Frederic Friedel asked Anna to tell us what the escape from their war-torn country was like. Read her vivid description.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/escape-from-lviv",
+         "pubDate" : "Mon, 25 Apr 2022 14:00:00 +0100",
+         "title" : "Escape from Lviv"
+      },
+      {
+         "description" : "Grandmasters Fabiano Caruana (pictured) and Irina Krush are one step closer to the finals of the American Cup, after winning the first games of their final matches in the Champions Bracket. This means GM Leinier Dominguez and FM Alice Lee are in a must-win situation in Monday to force a playoff. | Photos: Bryan Adams and Lennart Ootes, Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-day-5-recap",
+         "pubDate" : "Mon, 25 Apr 2022 13:40:58 +0100",
+         "title" : "American Cup, Day 5, Recap: Fine games and a strong novelty"
+      },
+      {
+         "description" : "Dear All AICF is going to conduct Medical Evaluation of the age of Chess Players will be held at Chennai on 6th and 7th June,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/medical-evaluation-of-the-age-of-chess-players-will-be-held-at-chennai-on-6th-and-7th-june-2022/",
+         "pubDate" : "Mon, 25 Apr 2022 11:39:40 +0000",
+         "title" : "Medical Evaluation of the age of Chess Players will be held at Chennai on 6th and 7th June, 2022."
+      },
+      {
          "description" : "After three rounds 16-year old Indian talent Praggnaanandhaa is sole leader at the Oslo Esports Cup and the only player who won all three matches. In round three Pragg defeated the Vietnamese Grandmaster Le Quang Liem. Magnus Carlsen, who seems to suffer from a severe cold, won against Anish Giri and after two wins and one loss he is in second place.| Photos and pictures: PM Group",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,14 +98,6 @@ news_feed (
          "title" : "Fabiano Caruana: My Double-Edged Opening was a Gamble | Day 3"
       },
       {
-         "description" : "The American Cup kicked off Wednesday in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Day 5 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
-         "pubDate" : "Sun, 24 Apr 2022 19:45:00 +0100",
-         "title" : "American Cup, Day 5 - Live games and commentary"
-      },
-      {
          "description" : "Have you ever wondered what would Anish Giri do if he weren't a professional chess player? Anish Giri answers 9 questions we all thought about: What is your best chess game ever? Who is your favorite actor? What is your go-to song to get pumped? If the Good-Knight bar were to name a drink after []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -136,14 +160,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/fabi-caruana-my-double-edged-opening-was-gamble-day-3",
          "pubDate" : "Sun, 24 Apr 2022 16:35:08 +0000",
          "title" : "Fabi Caruana: My Double-Edged Opening was a Gamble | Day 3"
-      },
-      {
-         "description" : "The Meltwater Champions Chess Tour breaks new ground with the launch of its first fully in-person esports event, the Oslo Esports Cup, taking place on April 22-28. Carlsen heads an 8-player elite line-up. Participants will go head-to-head in one four-game match a day for seven days. Play begins daily at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-live",
-         "pubDate" : "Sun, 24 Apr 2022 17:00:00 +0100",
-         "title" : "Oslo Esports Cup, Round 3 - Live!"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 76th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how hanging pawns can come under pressure. | Photo: Pascal Simon",
@@ -1944,22 +1960,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/wesley-so-is-the-winner-of-the-third-leg-of-the-fide-grand-prix/",
          "pubDate" : "Mon, 04 Apr 2022 14:55:27 +0000",
          "title" : "Wesley So is the winner of the third leg of the FIDE Grand Prix 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1679",
-         "pubDate" : "Mon, 04 Apr 2022 12:18:25 +0000",
-         "title" : "FIDE announces World Senior Team Championship 50+ and 65+"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1680",
-         "pubDate" : "Mon, 04 Apr 2022 11:41:45 +0000",
-         "title" : "Lajos Portisch celebrates his 85th birthday"
       }
    ]
 }
