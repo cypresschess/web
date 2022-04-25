@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Meltwater Champions Chess Tour breaks new ground with the launch of its first fully in-person esports event, the Oslo Esports Cup, taking place on April 22-28. Carlsen heads an 8-player elite line-up. Participants will go head-to-head in one four-game match a day for seven days. Play begins daily at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-live",
+         "pubDate" : "Mon, 25 Apr 2022 17:00:00 +0100",
+         "title" : "Oslo Esports Cup, Round 4 - Live!"
+      },
+      {
+         "description" : "In his Endgame Magic Show #191 Karsten M&uuml;ller looks back to the Charity Cup, the second tournament of the Meltwater Chess Champions Tour series of online rapid tournaments, which was played from 19 to 26 March. Magnus Carlsen won after beating Jan-Krzysztof Duda in the final. The Charity Cup brought a lot of interesting endgames and Karsten selected some highlights. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-show-191-highlights-from-the-charity-cup",
+         "pubDate" : "Mon, 25 Apr 2022 17:00:00 +0100",
+         "title" : "Endgame Magic Show #191: Highlights from the Charity Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1708",
+         "pubDate" : "Mon, 25 Apr 2022 15:19:00 +0000",
+         "title" : "Second Intercontinental Online Chess Championship for Prisoners announced"
+      },
+      {
          "description" : " I usually enjoy getting feedback about this blog, even more so when it is face to face. One of the more recent comments (made in person), was that I include lots of 'obscure club games'. While these are normally my own games, I do feature games by other club players (if I can grab the scoresheets). This time however, it is one of my recent games that I will feature. The takeaway from this game is twofold. A missed tempo on the opening can lead to a space disadvantage in the middlegame. This then leads to problems defending an unsafe king. <br /> <b>Press,Shaun - Mildenhall,Stephen [A30]</b><br />Murphy Memorial, 12.04.2022 <script>new PgnViewer( { boardName: \"game1322\", movesFormat: \"defaul",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1738,28 +1762,12 @@ news_feed (
          "title" : "Mitropa Cup 2022 - Official invitation"
       },
       {
-         "description" : "From 31 May to 10 June, the Norway Chess Tournament will be held for the tenth time in Stavanger. The lineup is headed by Magnus Carlsen, who will be joined by a number of very active players and a few surprising inclusions. Vishy Anand and Veselin Topalov do not play often lately, but will make their way to Stavanger, much like Richard Rapport and Teimour Radjabov, who will participate despite having to play the Candidates shortly after the event comes to an end. Perhaps the most surprising participant, though, is Wang Hao, who had announced his retirement from professional competitions about a year ago.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2022-participants",
-         "pubDate" : "Sat, 09 Apr 2022 13:40:00 +0100",
-         "title" : "Anand, Topalov and semi-retired Wang to play at Norway Chess"
-      },
-      {
          "description" : "What is it about the number sixty that so attracts chess writers? One would have expected the iconic number to have been 64, eight times eight, the total number of squares on the chessboard. The fashion began, following on from the extended success of one of the most important chess books ever written, Bobby Fischer: []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/life-begins-at-sixty/",
          "pubDate" : "Sat, 09 Apr 2022 10:41:38 +0000",
          "title" : "Life begins at sixty"
-      },
-      {
-         "description" : "In the diagrammed position, White had a spectacular way to attack Black's exposed king. Readers of this column may dare anything - just trust your intuition!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/challengers-challenge-ii",
-         "pubDate" : "Sat, 09 Apr 2022 09:00:00 +0100",
-         "title" : "Challengers challenge II"
       },
       {
          "description" : " The Kvika Reykjavik Open takes place Wed 6th to Tue 12th April 2022. The leading players are mostly talented juniors with a big contingent from India: Pouya Idani, D Gukesh, Hans Moke Niemann, B Adhiban, Raunak Sadhwani, R Praggnanandhaa, Abhijeet Gupta, Max Warmerdam etc.",
@@ -1952,14 +1960,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/hikaru-nakamura-triumphs-in-berlin/",
          "pubDate" : "Mon, 04 Apr 2022 16:49:20 +0000",
          "title" : "Hikaru Nakamura Triumphs in Berlin"
-      },
-      {
-         "description" : " <p class=\"lead\">The <a href=\"https://worldchess.com/series/grandprix2022\">FIDE Grand Prix Series 2022</a> came to an end with Wesley So winning the third leg in Berlin by beating Hikaru Nakamura in the finals tiebreaks with a 1.5-0.5 score. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/A-21.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220404150457_IMG_6118.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/20220404150400_IMG_6115.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/wesley-so-is-the-winner-of-the-third-leg-of-the-fide-grand-prix/",
-         "pubDate" : "Mon, 04 Apr 2022 14:55:27 +0000",
-         "title" : "Wesley So is the winner of the third leg of the FIDE Grand Prix 2022"
       }
    ]
 }
