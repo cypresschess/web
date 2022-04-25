@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-com-banned-by-russia",
-         "pubDate" : "Sun, 24 Apr 2022 13:52:37 -0700",
+         "pubDate" : "Sun, 24 Apr 2022 13:52:00 -0700",
          "title" : "Chess.com Banned By Russia"
       },
       {
