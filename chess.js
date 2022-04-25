@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen upped his game for the big occasion today as he ended young pretender Rameshbabu Praggnanandhaa&#x2019;s unbeaten streak to go level at the top of the Oslo Esports Cup leaderboard. The World Champion shrugged off the illness he has suffered since the start of the&#xA0;Meltwater Champions Chess Tour&#xA0;event to brush aside the challenge of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-praggnanandhaa-30-at-oslo-esports-cup/",
+         "pubDate" : "Mon, 25 Apr 2022 22:29:25 +0000",
+         "title" : "Carlsen - Praggnanandhaa 3:0 at Oslo Esports Cup"
+      },
+      {
+         "description" : "Magnus Carlsen has caught Praggnanandhaa in the lead of Oslo Esports Cup after scoring a crushing 3:0 victory in their Round 4 match. The World Champion, who has now won five rapid games in a row, said afterwards, \"I am the best - I don't have any doubt about that, but you gotta prove it when you play!\" Liem Quang Le also won with a game to spare, against Eric Hansen, while Jorden van Foreest and Jan-Krzysztof Duda both won blitz playoffs 2:0, against Anish Giri and Shakhriyar Mamedyarov.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/oslo-esports-4-carlsen-beats-praggnanandhaa-3-0",
+         "pubDate" : "Mon, 25 Apr 2022 21:36:04 +0000",
+         "title" : "Oslo Esports 4: Carlsen beats Praggnanandhaa 3:0"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1709",
+         "pubDate" : "Mon, 25 Apr 2022 21:32:24 +0000",
+         "title" : "Carlsen crushes Praggnanandhaa to go joint-top of leaderboard"
+      },
+      {
+         "description" : "The 15th edition of the Serbian National Youth Chess Festival commenced today in Novi Sad with the Serbian Youth Rapid Chess Championship 2022. The festival features rapid, blitz and classical chess events, taking place from April 26 May 3. 186 kids compete in the rapid and blitz championships, and starting Wednesday is the main []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/more-than-200-kids-taking-part-in-serbian-youth-chess-championship-2022/",
+         "pubDate" : "Mon, 25 Apr 2022 21:27:35 +0000",
+         "title" : "More than 200 kids taking part in Serbian Youth Chess Championship 2022"
+      },
+      {
+         "description" : "The 1st &#8220;Mikis Theodorakis&#8221; international chess tournament kicked off today in Chania, a city on the northwest coast of the Greek island of Crete. The event takes place from April 25 to May 1 and it will be played in 9 rounds, Swiss system. 73 players from 11 countries take part in the event fighting []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1st-mikis-theodorakis-international-chess-tournament-in-chania/",
+         "pubDate" : "Mon, 25 Apr 2022 21:09:27 +0000",
+         "title" : "1st \"Mikis Theodorakis\" international chess tournament in Chania"
+      },
+      {
+         "description" : "After day four&#38;mdash;halfway through the event&#38;mdash;GM&#38;nbsp;Magnus Carlsen&#38;nbsp;shares the lead with GM&#38;nbsp;Rameshbabu Praggnanandhaa at nine points after defeating him in their match today. GMs&#38;nbsp;Jan-Krzysztof Duda&#38;nbsp;and Le Quang Liem&#38;nbs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oslo-esports-cup-day-4",
+         "pubDate" : "Mon, 25 Apr 2022 14:07:00 -0700",
+         "title" : "Carlsen Joins The Lead: Oslo Esports Cup 4"
+      },
+      {
+         "description" : "The 2022 Junior Speed Chess Championship&#38;nbsp;presented by SIG saw a tenacious turnaround today: a nearly-down-and-out GM Arjun Erigaisi flipped a colossal deficit to overcome staunch IM Denis Lazavik.&#38;nbsp; Erigaisi upped the heat in the 3+1 se...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-round-of-16-erigaisi-lazavik",
+         "pubDate" : "Mon, 25 Apr 2022 13:34:00 -0700",
+         "title" : "Erigaisi Stuns With Comeback: 2022 Junior Speed Chess Championship Round Of 16"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.24<br /> USChessChamps.com ROUND 3 | GAME 1<br /> Dominguez vs. Fabiano Caruana RAPID ELIMINATION MATCHES<br /> Sam Sevian vs. Ray Robson<br /> Levon Aronian vs. Wesley So ROUND 3 | GAME 1<br /> Irina Krush vs. Alice Lee </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-5",
+         "pubDate" : "Mon, 25 Apr 2022 19:35:54 +0000",
+         "title" : "The American Cup 2022: Day 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The players give their thoughts on the new, unusual format that ranges across all time controls. 2022.04.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-new-format\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fqhZgr1e948.jpg?itok=ZmtchnKv\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-new-format",
+         "pubDate" : "Mon, 25 Apr 2022 19:35:54 +0000",
+         "title" : "The American Cup 2022: New Format"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Tatev Abrahamyan after her win over Katerina Nemcova in the rapid elimination bracket. 2022.04.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tatev-abrahamyan-holds-nemcova-bay-advances-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EUVWWk07oGI.jpg?itok=7qUC8xja\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tatev-abrahamyan-holds-nemcova-bay-advances-day-5",
+         "pubDate" : "Mon, 25 Apr 2022 19:35:54 +0000",
+         "title" : "Tatev Abrahamyan: Holds Nemcova at Bay, Advances | Day 5"
+      },
+      {
          "description" : "The American Cup kicked off Wednesday in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Day 6 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -118,7 +198,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/oslo-esports-cup-day-3",
-         "pubDate" : "Sun, 24 Apr 2022 15:34:16 -0700",
+         "pubDate" : "Sun, 24 Apr 2022 15:34:00 -0700",
          "title" : "Praggnanandhaa Leads, Carlsen Recovers: Oslo Esports Cup Day 3"
       },
       {
@@ -346,22 +426,6 @@ news_feed (
          "title" : "Oslo Esports Cup 2: Pragg leads as Le beats Carlsen"
       },
       {
-         "description" : "At the time of the last article, Stockfish had already won the TCEC Season 22 Superfinal, but it was still pursuing two potential records: the record for the most decisive Superfinal, and an &#8216;undefeated' Superfinal where it loses no openings. Unfortunately for Stockfish fans, Stockfish failed to break the first record its final score []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stockfish-wins-the-tcec-season-22-superfinal-by-19-points/",
-         "pubDate" : "Sat, 23 Apr 2022 18:10:28 +0000",
-         "title" : "Stockfish wins the TCEC Season 22 Superfinal by 19 points"
-      },
-      {
-         "description" : "The 51st edition of Mar del Plata Open took place from April 9-16 in the second-largest city in Buenos Aires province. The event gathered 282 participants from eight countries, including 35 titled players. GM Andres Rodriguez Vila took a decisive victory in the last round to score 8 points and win the tournament. WFM Mar&#xED;a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/andres-rodriguez-wins-51st-mar-del-plata-open/",
-         "pubDate" : "Sat, 23 Apr 2022 15:44:13 +0000",
-         "title" : "Andres Rodriguez wins 51st Mar del Plata Open"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -384,14 +448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/solidarity-match-norway-ukraine-with-carlsen-and-ivanchuk-live",
          "pubDate" : "Sat, 23 Apr 2022 12:45:00 +0100",
          "title" : "Solidarity match Norway - Ukraine with Carlsen and Ivanchuk: live"
-      },
-      {
-         "description" : "Four players were knocked out of the American Cup as the first day of Elimination matches took place, with Robson Shankland and Nemcova Yan lasting all the way until Armageddon.&#xA0; In the Champions Bracket, GM Leinier Dominguez dealt a lethal blow to GM Levon Aronian, while FM Alice Lee won a fine technical []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/four-players-were-knocked-out-of-the-american-cup/",
-         "pubDate" : "Sat, 23 Apr 2022 11:20:40 +0000",
-         "title" : "Four players were knocked out of the American Cup"
       },
       {
          "description" : "",
@@ -666,30 +722,6 @@ news_feed (
          "title" : "The American Cup 2022: Day 2 | Regular Rounds"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Alice Lee after her win against Stavroula Tsolakidou in the playoff of their Champion's Bracket match. 2022.04.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-still-bit-shock-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KUTWCRWIBCs.jpg?itok=cyiLIyJN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-still-bit-shock-day-2",
-         "pubDate" : "Fri, 22 Apr 2022 01:33:25 +0000",
-         "title" : "Alice Lee: Still a Bit in Shock! | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Fabiano Caruana after his win against Jeffery Xiong in the playoff of their Champion's Bracket match. 2022.04.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-disgusted-after-victory-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kVWiIHwKWMs.jpg?itok=utmFQQQI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-disgusted-after-victory-day-2",
-         "pubDate" : "Fri, 22 Apr 2022 01:33:25 +0000",
-         "title" : "Fabiano Caruana: Disgusted after a Victory? | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana and Jeffery Xiong play an armageddon game in the playoff of their first round match in The American Cup 2022. 2022.04.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/armageddon-caruana-vs-xiong-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FqfJFuIqA5I.jpg?itok=QTBgsJgN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/armageddon-caruana-vs-xiong-day-2",
-         "pubDate" : "Fri, 22 Apr 2022 01:33:25 +0000",
-         "title" : "Armageddon: Caruana vs. Xiong | Day 2"
-      },
-      {
          "description" : "\"The chess world isn't a safe place for us,\" says popular chess streamer Tallulah Roberts, aka \"lularobs\", recounting an incident at the blitz tournament of the Reykjavik Open 2022. Jamaal S. Abdul-Alim, 2013 Chess Journalist of the Year, explains \"why chess tournaments can be hostile for women and girls\". | Photo: Reykjavik Open",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -730,7 +762,7 @@ news_feed (
          "title" : "Arrow-right-less Chess"
       },
       {
-         "description" : "Chess.com is extremely excited to announce that verified accounts are coming to Chess.com beginning April 21. Have you ever wanted a simple way for other members to know that you&#38;mdash;and, perhaps more importantly, your opponents&#38;mdash;are a kn...",
+         "description" : "Chess.com is excited to announce that verified accounts are coming to Chess.com beginning April 21. It&#39;s been one of our goals to offer online prize events open to all our members in an environment where everyone can trust that they are playing ag...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chesscom-verified",
@@ -1578,14 +1610,6 @@ news_feed (
          "title" : "The Weekly Show: The Reykjavik Open"
       },
       {
-         "description" : "Last Sunday, GM Hikaru Nakamura joined commentators GM Yasser Seirawan and GM Daniel Naroditsky after winning the week nine Rapid Chess Championship knockout and explained his Candidates preparation, his mentality going into one of the biggest eve...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-interview-2022-fide-candidates-chess",
-         "pubDate" : "Tue, 12 Apr 2022 08:48:00 -0700",
-         "title" : "Nakamura On The Candidates: 'Am I The Oldest Player In The Field?!'"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2d5e3eb6-e3d6-4149-aa8e-256f367a4181/Paul3.jpg\" data-image-dimensions=\"1736x873\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"625588aa13e4b945b461f696\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2d5e3eb6-e3d6-4149-aa8e-256f367a4181/Paul3.jpg?format=1000w\" /> </figure> <p class=\"\">The Perpetual Chess <a href=\"https://www.perpetualchesspod.com/adultimprover\" target=\"_blank\">Adult Improver Series</a> is back, but this time with a twist. We feature a senior gu",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -1648,14 +1672,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
          "pubDate" : "Tue, 12 Apr 2022 08:45:00 +0100",
          "title" : "Reykjavik Open - Games and results"
-      },
-      {
-         "description" : "The&#38;nbsp;2022 Junior Speed Chess Championship presented by SIG began today with the first round of 16 match between GMs Brandon Jacobson&#38;nbsp;and Arseniy Nesterov,&#38;nbsp;which the former won after a suspenseful match that ended 14.5-12.5 in favor o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-jacobson-nesterov",
-         "pubDate" : "Mon, 11 Apr 2022 15:46:01 -0700",
-         "title" : "Jacobson Dispatches Nesterov: 2022 Junior Speed Chess Championship Round Of 16"
       },
       {
          "description" : "In Karsten M&uuml;ller's \"Endgame Magic Show #189\" Karsten and Arne K&auml;hler look at rook endings, and take a particularly close look at the rook endgame 4 vs 3 pawns on one side to show important drawing formations. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -1896,14 +1912,6 @@ news_feed (
          "link" : "https://aicf.in/national-junior-certificates-are-out/",
          "pubDate" : "Wed, 06 Apr 2022 02:41:44 +0000",
          "title" : "National Junior Certificates are Out"
-      },
-      {
-         "description" : "US Chess Champion Wesley So defeated Hikaru Nakamura in tiebreaks to win the final event of the 2022 FIDE Grand Prix and finish in 3rd place in the overall standings. Wesley needed just two rapid games to clinch the title, with the rollercoaster first game ending in a draw before Hikaru blundered a piece in a difficult position in the second. Hikaru noted he'd lost all interest in the event since achieving the main goal of qualifying for the Candidates Tournament, while Wesley talked about his World Championship chances after Magnus retires.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/wesley-so-clinches-final-grand-prix-victory",
-         "pubDate" : "Tue, 05 Apr 2022 19:21:05 +0000",
-         "title" : "Wesley So clinches final Grand Prix victory"
       },
       {
          "description" : "On Chess24.com on Sunday April 10th at 10.00am, with ECF Director of Women's Chess Agnieszka Milewska click here",
