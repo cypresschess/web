@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagrammed position White is a piece up but Black's queenside pawns look dangerous. However, the white bishop has everything under control. How does White stop the black pawns and win the game?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/trust-the-bishop",
+         "pubDate" : "Tue, 26 Apr 2022 09:00:00 +0100",
+         "title" : "Trust the bishop"
+      },
+      {
+         "description" : "In the Thornton Trap, a player castles queenside, giving check, to win an unprotected rook. National Master Jeffrey Ashton discusses the Thornton Trap and how to search for examples of it using the ChessBase Manoeuvres Search.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-for-coaches-the-thornton-trap",
+         "pubDate" : "Tue, 26 Apr 2022 08:04:03 +0100",
+         "title" : "ChessBase for Coaches: The Thornton Trap"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.25<br /> USChessChamps.com ROUND 3 | GAME 2<br /> Dominguez vs. Fabiano Caruana<br /> PLUS PLAYOFFS, IF NECESSARY RAPID ELIMINATION MATCH<br /> Ray Robson vs. Levon Aronian ROUND 3 | GAME 2<br /> Alice Lee vs. Irina Krush<br /> PLUS PLAYOFFS, IF NECESSARY </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-vide",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-6",
+         "pubDate" : "Tue, 26 Apr 2022 04:36:31 +0000",
+         "title" : "The American Cup 2022: Day 6"
+      },
+      {
+         "description" : "Please find the link for live games links for National Under-10 National Under-10 Girls (34th MPL National Under-10 Girls Chess Championship 2022) Link https://view.livechesscloud.com#cb60138f-6fcc-4c3e-b0d8-726c01780f9e National",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-game-link-for-national-under-10-reg/",
+         "pubDate" : "Tue, 26 Apr 2022 03:31:21 +0000",
+         "title" : "Live game link for National Under-10 -reg"
+      },
+      {
          "description" : "Magnus Carlsen talked with his team members about retirement from World Championship for years already, his team members Peter Heine Nielsen, Laurent Fressinet and Jan Gustafsson revealed in the conclusion of chess24's exclusive video series of his match in Dubai. The last three episodes of Inside Team Magnus were released last week.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/team-magnus-on-carlsens-last-rodeo-topic-for-quite-few-years",
+         "link" : "https://chess24.com/en/read/news/team-magnus-on-carlsens-last-rodeo",
          "pubDate" : "Tue, 26 Apr 2022 03:22:29 +0000",
-         "title" : "Team Magnus on Carlsen's 'last rodeo': \"A topic for quite a few years\""
+         "title" : "Team Magnus on Carlsen's \"last rodeo\""
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Tatev Abrahamyan after her win over Begim Tokhirjonova in the playoff of their elimination match. 2022.04.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tatev-abrahamyan-back-and-forth-begim-day-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tCWe-jM8znI.jpg?itok=XpDTcFDr\" alt=\"\" /></a></div>",
@@ -280,14 +312,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-com-banned-by-russia",
          "pubDate" : "Sun, 24 Apr 2022 13:52:00 -0700",
          "title" : "Chess.com Banned By Russia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Fabiano Caruana after his draw with Sam Sevian in Game 1 of their championship bracket match. 2022.04.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-my-double-edged-opening-was-gamble-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dk7kZAlDUTU.jpg?itok=S_1oPD6r\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-my-double-edged-opening-was-gamble-day-3",
-         "pubDate" : "Sun, 24 Apr 2022 19:35:22 +0000",
-         "title" : "Fabiano Caruana: My Double-Edged Opening was a Gamble | Day 3"
       },
       {
          "description" : "Have you ever wondered what would Anish Giri do if he weren't a professional chess player? Anish Giri answers 9 questions we all thought about: What is your best chess game ever? Who is your favorite actor? What is your go-to song to get pumped? If the Good-Knight bar were to name a drink after []",
@@ -1768,14 +1792,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-for-mpl-34th-national-u12-chess-championship-2022/",
          "pubDate" : "Mon, 11 Apr 2022 07:03:08 +0000",
          "title" : "Live Link for MPL 34th National U12 Chess Championship 2022"
-      },
-      {
-         "description" : "Lukasz Jarmula had taken the sole lead at the Reykjav&iacute;k Open by beating Hans Niemann in round 4. The Polish grandmaster drew top seed Pouya Idani in round 5 to remain in sole first place, but a loss to Danish GM Mads Andersen has now left him sharing second place a half point behind the leaders. Besides Andersen, Johann Hjartarson, Praggnanandhaa (pictured) and Max Warmerdam also won in Sunday's early round and are now sharing the lead on 5/6 points. | Photo: Thorsteinn Magnusson",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-r5",
-         "pubDate" : "Sun, 10 Apr 2022 17:20:00 +0100",
-         "title" : "Reykjavik Open: Four co-leaders as Andersen beats Jarmula"
       },
       {
          "description" : " How would you assess this position, with Black to move? Perhaps you think White can look forward to playing on the f-file against Black's doubled pawns, with moves like Bc4 and Qf3 to come. I could imagine thinking like that myself if I had this position in a blitz game. It comes from an old <a href=\"https://chessimprover.com/four-knights-fiasco/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Four Knights Fiasco\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/four-knights-fiasco/\">Four Knights Fiasco</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
