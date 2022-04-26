@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen talked with his team members about retirement from World Championship for years already, his team members Peter Heine Nielsen, Laurent Fressinet and Jan Gustafsson revealed in the conclusion of chess24's exclusive video series of his match in Dubai. The last three episodes of Inside Team Magnus were released last week.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/team-magnus-on-carlsens-last-rodeo-topic-for-quite-few-years",
+         "pubDate" : "Tue, 26 Apr 2022 03:22:29 +0000",
+         "title" : "Team Magnus on Carlsen's 'last rodeo': \"A topic for quite a few years\""
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Tatev Abrahamyan after her win over Begim Tokhirjonova in the playoff of their elimination match. 2022.04.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tatev-abrahamyan-back-and-forth-begim-day-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tCWe-jM8znI.jpg?itok=XpDTcFDr\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tatev-abrahamyan-back-and-forth-begim-day-6",
+         "pubDate" : "Tue, 26 Apr 2022 01:36:32 +0000",
+         "title" : "Tatev Abrahamyan: Back-and-Forth with Begim | Day 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Irina Krush after her win over Alice Lee in Game 1 of their championship bracket match. 2022.04.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-clock-management-was-major-factor-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mWmx39ouQ30.jpg?itok=TD_WM_VJ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/irina-krush-clock-management-was-major-factor-day-5",
+         "pubDate" : "Mon, 25 Apr 2022 22:36:03 +0000",
+         "title" : "Irina Krush: Clock Management was a Major Factor | Day 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Fabiano Caruana after his win over Leinier Dominguez in Game 1 of their championship bracket match. 2022.04.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-solid-win-over-dominguez-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gXnL1_DyRXE.jpg?itok=uKvFivQ7\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-solid-win-over-dominguez-day-5",
+         "pubDate" : "Mon, 25 Apr 2022 22:36:03 +0000",
+         "title" : "Fabiano Caruana: Solid Win over Dominguez | Day 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Levon Aronian after his win over Ray Robson in Game 1 of their rapid elimination match. 2022.04.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-aronian-memorable-second-interview-day-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FT34jtln_kc.jpg?itok=CGO_7eQN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/levon-aronian-memorable-second-interview-day-6",
+         "pubDate" : "Mon, 25 Apr 2022 22:36:03 +0000",
+         "title" : "Levon Aronian: A Memorable Second Interview | Day 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Fabiano Caruana after his draw with Leinier Dominguez in Game 2 of the champions bracket final. 2022.04.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-clinching-champions-bracket-day-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sNKBWe375Dg.jpg?itok=QsCKIrbZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-clinching-champions-bracket-day-6",
+         "pubDate" : "Mon, 25 Apr 2022 22:36:03 +0000",
+         "title" : "Fabiano Caruana: Clinching the Champions Bracket | Day 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Irina Krush after her draw with Alice Lee in Game 2 of their champions bracket final. 2022.04.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-cruising-champions-bracket-victory-day-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hRQfrpkJhlY.jpg?itok=nyCtMeUR\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/irina-krush-cruising-champions-bracket-victory-day-6",
+         "pubDate" : "Mon, 25 Apr 2022 22:36:03 +0000",
+         "title" : "Irina Krush: Cruising to Champions Bracket Victory | Day 6"
+      },
+      {
          "description" : "Magnus Carlsen upped his game for the big occasion today as he ended young pretender Rameshbabu Praggnanandhaa&#x2019;s unbeaten streak to go level at the top of the Oslo Esports Cup leaderboard. The World Champion shrugged off the illness he has suffered since the start of the&#xA0;Meltwater Champions Chess Tour&#xA0;event to brush aside the challenge of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -58,7 +114,7 @@ news_feed (
          "title" : "Erigaisi Stuns With Comeback: 2022 Junior Speed Chess Championship Round Of 16"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.24<br /> USChessChamps.com ROUND 3 | GAME 1<br /> Dominguez vs. Fabiano Caruana RAPID ELIMINATION MATCHES<br /> Sam Sevian vs. Ray Robson<br /> Levon Aronian vs. Wesley So ROUND 3 | GAME 1<br /> Irina Krush vs. Alice Lee </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field",
+         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.24<br /> USChessChamps.com ROUND 3 | GAME 1<br /> Fabiano Caruana<br /> vs. Dominguez RAPID ELIMINATION MATCHES<br /> Sam Sevian vs. Ray Robson<br /> Levon Aronian vs. Wesley So ROUND 3 | GAME 1<br /> Irina Krush vs. Alice Lee </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-5",
@@ -256,46 +312,6 @@ news_feed (
          "link" : "https://www.chessdom.com/gukesh-d-wins-menorca-open-and-becomes-the-youngest-indian-ever-to-break-into-world-top-100/",
          "pubDate" : "Sun, 24 Apr 2022 16:53:43 +0000",
          "title" : "Gukesh D wins Menorca Open and becomes the youngest Indian ever to break into World Top 100"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.22<br /> USChessChamps.com ROUND 2 | GAME 1<br /> Levon Aronian vs. Dominguez<br /> Sam Sevian vs. Fabiano Caruana RAPID ELIMINATION MATCHES<br /> Ray Robson vs. Sam Shankland<br /> Wesley So vs. Jeffery Xiong ROUND 2 | GAME 1<br /> Irina Krush vs. Tokhirjonova<br /> Alice Lee vs. Abrahamyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><d",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-3",
-         "pubDate" : "Sun, 24 Apr 2022 16:35:08 +0000",
-         "title" : "The American Cup 2022: Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.23<br /> USChessChamps.com ROUND 2 | GAME 2<br /> Dominguez vs. Levon Aronian<br /> Fabiano Caruana vs. Sam Sevian<br /> PLUS PLAYOFFS, IF NECESSARY ROUND 2 | GAME 2<br /> Tokhirjonova vs. Irina Krush<br /> Abrahamyan vs. Alice Lee<br /> PLUS PLAYOFFS, IF NECESSARY </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-4",
-         "pubDate" : "Sun, 24 Apr 2022 16:35:08 +0000",
-         "title" : "The American Cup 2022: Day 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Leinier Dominguez after his win over Levon Aronian in Game 1 of their championship bracket match. 2022.04.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/leinier-dominguez-aronian-played-opening-dubiously-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zsHn3MPpouA.jpg?itok=ecEwZtSf\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/leinier-dominguez-aronian-played-opening-dubiously-day-3",
-         "pubDate" : "Sun, 24 Apr 2022 16:35:08 +0000",
-         "title" : "Leinier Dominguez: Aronian Played the Opening Dubiously | Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Alice Lee after her win over Tatev Abrahamyan in Game 1 of their championship bracket match. 2022.04.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-beneficiary-bad-bishop-sac-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eN8-MSD2vCw.jpg?itok=YLyQL3Fd\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-beneficiary-bad-bishop-sac-day-3",
-         "pubDate" : "Sun, 24 Apr 2022 16:35:08 +0000",
-         "title" : "Alice Lee: Beneficiary of Bad Bishop Sac | Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Fabiano Caruana after his draw with Sam Sevian in Game 1 of their championship bracket match. 2022.04.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-caruana-my-double-edged-opening-was-gamble-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dk7kZAlDUTU.jpg?itok=S_1oPD6r\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabi-caruana-my-double-edged-opening-was-gamble-day-3",
-         "pubDate" : "Sun, 24 Apr 2022 16:35:08 +0000",
-         "title" : "Fabi Caruana: My Double-Edged Opening was a Gamble | Day 3"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 76th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how hanging pawns can come under pressure. | Photo: Pascal Simon",
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://aicf.in/call-for-volunteers-for-chess-olympiad-2022-chennai/",
          "pubDate" : "Fri, 22 Apr 2022 03:56:58 +0000",
          "title" : "Call for Volunteers for Chess Olympiad 2022, Chennai"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> This stream continues at <a href=\"https://youtu.be/dp6pm60VlDk\">https://youtu.be/dp6pm60VlDk</a><br /> This stream continues at <a href=\"https://youtu.be/dp6pm60VlDk\">https://youtu.be/dp6pm60VlDk</a><br /> This stream continues at <a href=\"https://youtu.be/dp6pm60VlDk\">https://youtu.be/dp6pm60VlDk</a> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-2-regular-rounds",
-         "pubDate" : "Fri, 22 Apr 2022 01:33:25 +0000",
-         "title" : "The American Cup 2022: Day 2 | Regular Rounds"
       },
       {
          "description" : "\"The chess world isn't a safe place for us,\" says popular chess streamer Tallulah Roberts, aka \"lularobs\", recounting an incident at the blitz tournament of the Reykjavik Open 2022. Jamaal S. Abdul-Alim, 2013 Chess Journalist of the Year, explains \"why chess tournaments can be hostile for women and girls\". | Photo: Reykjavik Open",
@@ -1832,14 +1840,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/apr/08/chess-wesley-so-wins-in-berlin-but-laments-failure-to-qualify-for-candidates",
          "pubDate" : "Fri, 08 Apr 2022 07:00:15 +0000",
          "title" : "Chess: Wesley So wins in Berlin but laments failure to qualify for Candidates"
-      },
-      {
-         "description" : "The Norway Chess organisers today revealed a line-up with several surprises for this year's 10th edition of the super tournament, which takes place from May 31 to June 11. 4-time winner Magnus Carlsen heads the field, as expected, but Richard Rapport and Teimour Radjabov, who will take part in the Candidates Tournament just six days after their final game in Stavanger, have both accepted invitations. So have ex-World Champions Viswanathan Anand and Veselin Topalov, and Wang Hao, who announced his retirement last year.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/rapport-radjabov-joins-norway-chess-despite-candidates-participation",
-         "pubDate" : "Thu, 07 Apr 2022 14:59:33 +0000",
-         "title" : "Rapport & Radjabov included in surprise Norway Chess line-up"
       },
       {
          "description" : " The 2022 O2C Doeberl Cup starts in a week. At this stage there are 347 players entered across the 4 sections, easily breaking last years record of 330 players. At the moment the Minor is full (with 120 players), while the other events still have a few places available (the Premier has 19). For anyone wondering why we have these limits in place, venue size and equipment are the major considerations. However there is also the issue of tournament management, with 7 round events having a natural limit on the size of the field. Even with accelerated pairings, having more than 128 players in any event makes finding a clear winner tricky. The Premier section starts next Thursday (14th April), with",
