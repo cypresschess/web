@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.20<br /> USChessChamps.com ROUND 1 | GAME 1<br /> Levon Aronian vs. Ray Robson<br /> Dominguez vs. Sam Shankland<br /> Wesley So vs. Sam Sevian<br /> Fabiano Caruana vs. Jeffery Xiong </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-5-lichessorg-0",
+         "pubDate" : "Tue, 26 Apr 2022 19:36:50 +0000",
+         "title" : "American Cup 2022: Day 5 | lichess.org"
+      },
+      {
          "description" : "The American Cup kicked off Wednesday in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Day 7 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -296,14 +304,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/american-cup-2022-new-format",
          "pubDate" : "Mon, 25 Apr 2022 19:35:54 +0000",
          "title" : "The American Cup 2022: New Format"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Tatev Abrahamyan after her win over Katerina Nemcova in the rapid elimination bracket. 2022.04.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tatev-abrahamyan-holds-nemcova-bay-advances-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EUVWWk07oGI.jpg?itok=7qUC8xja\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tatev-abrahamyan-holds-nemcova-bay-advances-day-5",
-         "pubDate" : "Mon, 25 Apr 2022 19:35:54 +0000",
-         "title" : "Tatev Abrahamyan: Holds Nemcova at Bay, Advances | Day 5"
       },
       {
          "description" : "The American Cup kicked off Wednesday in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Day 6 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
