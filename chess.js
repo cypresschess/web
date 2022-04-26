@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup kicked off Wednesday in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Day 7 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-day-7-live-games-and-commentary",
+         "pubDate" : "Tue, 26 Apr 2022 19:45:00 +0100",
+         "title" : "American Cup, Day 7 - Live games and commentary"
+      },
+      {
          "description" : "The Meltwater Champions Chess Tour breaks new ground with the launch of its first fully in-person esports event, the Oslo Esports Cup, taking place on April 22-28. Carlsen heads an 8-player elite line-up. Participants will go head-to-head in one four-game match a day for seven days. Play begins daily at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1808,14 +1816,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/a-quick-doeberl-game.html",
          "pubDate" : "Mon, 11 Apr 2022 13:32:00 +0000",
          "title" : "A quick Doeberl game"
-      },
-      {
-         "description" : "Ding Liren, currently the world's number three, has very good chances to play in the Candidates Tournament as the highest-rated, eligible player in FIDE's ranking list published on 1 May. However, to qualify and to replace the suspended Sergey Karjakin, Ding needs to have played 30 FIDE-rated games from May 2021 to May 2022. When Karjakin was suspended by the FIDE for supporting Russia's invasion of Ukraine, Ding had just played four of the required 30 games, but now he is catching up: after a four-player, twelve-round tournament in Hangzhou, he played a six-game match against Wei Yi. After five draws, Ding won the last game and the match. | Photos: Imedia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ding-liren-on-his-way-to-the-candidates",
-         "pubDate" : "Mon, 11 Apr 2022 13:45:49 +0100",
-         "title" : "Ding Liren on his way to the Candidates"
       },
       {
          "description" : "The ECU E-Magazine March 2022 is out! The March 2022 edition of the ECU E-Magazine can be read online together with interactive links on the following link, or it can be downloaded in PDF format down below. In this edition of the ECU E-Magazine you may read about: European Individual Chess Championship 2022 FIDE Grand Prix 2022 ECU&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-march-2022/\">Read More &#187;</a></span>",
