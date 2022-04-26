@@ -2,12 +2,100 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 16-year-old Indian Grandmaster Praggnanandhaa started the Oslo Esports Cup with a series of three won matches. But in his duel against Magnus Carlsen in round four he did not find his rhythm, and Carlsen outplayed his young opponent in all three games to win the match 3-0. After four rounds Carlsen and Pragg now both have 9.0/12 and share the lead in the tournament. | Photos and pictures: Play Magnus Group",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oslo-esports-cup-day-4-carlsen-crushes-praggnanandhha-3-0",
+         "pubDate" : "Tue, 26 Apr 2022 13:09:48 +0100",
+         "title" : "Oslo Esports Cup, Day 4: Carlsen crushes Praggnanandhha 3-0"
+      },
+      {
+         "description" : "Devaluation of chess titles, disrespect to history, possibility for behind the scenes deals, confusion. These are just some of the issues pointed out by chess fans on the internet regarding the recent decision of Chess.com to hold &#8220;Chess.com world championship&#8221;. For those knowing chess history and possessing knowledge of the foundations of the chess world, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-world-championship-might-open-up-a-pandoras-box/",
+         "pubDate" : "Tue, 26 Apr 2022 11:23:50 +0000",
+         "title" : "\"Chess.com world championship\" might open up a Pandora's box"
+      },
+      {
+         "description" : "We cannot help but put Danny Gormally's tweet in our Tweet of the Day column. Discussing the new &#8220;world champion&#8221; title, Danny Gormally in a sarcastic answer to Jon Ludvig Hammer says, &#8220;I have crowned myself world champion of my bedroom.&#8221; Thank you Danny, now we are all champions! Read more: &#8220;Chess.com&#8221; world championship might []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/danny-gormally-crowns-hymself-world-champion-tweetoftheday/",
+         "pubDate" : "Tue, 26 Apr 2022 11:21:16 +0000",
+         "title" : "Danny Gormally crowns hymself world champion #TweetOftheDay"
+      },
+      {
+         "description" : "For many days after the appearance of another &#8220;world champion&#8221; title, the governing body of chess FIDE is silent on the issue. FIDE's silence has spurred into multiple theories ranging from FIDE's looming bankruptcy to direct correlations with the Russia-Ukraine conflict. Read more: &#8220;Chess.com&#8221; world championship might open up a Pandora's box / Video announcement []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-silent-on-the-creation-of-another-world-championship/",
+         "pubDate" : "Tue, 26 Apr 2022 11:20:14 +0000",
+         "title" : "FIDE silent on the creation of another \"world championship\""
+      },
+      {
+         "description" : "Read more: &#8220;Chess.com&#8221; world championship might open up a Pandora's box / Video announcement of the &#8220;Chess.com world championship&#8221; / FIDE silent on the creation of another &#8220;world championship&#8221;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-world-championship-announcement-video/",
+         "pubDate" : "Tue, 26 Apr 2022 11:19:27 +0000",
+         "title" : "\"Chess.com world championship\" announcement VIDEO"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1710",
+         "pubDate" : "Tue, 26 Apr 2022 09:37:41 +0000",
+         "title" : "American Cup: Day 6 Recap"
+      },
+      {
+         "description" : "The following motion was approved at the ECF Council meeting on 23 April That the ECF utterly condemns the regime of Russian President Vladimir...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/motion-on-ukraine-approved-ecf-finance-council-meeting/",
+         "pubDate" : "Tue, 26 Apr 2022 09:32:08 +0000",
+         "title" : "Motion on Ukraine approved - ECF Finance Council Meeting"
+      },
+      {
+         "description" : "Both GM Fabiano Caruana (pictured) and GM Irina Krush managed to qualify to the finals of the American Cup, after drawing the second game and avoiding a playoff in their Champions Bracket matches against GM Leinier Dominguez and FM Alice Lee. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-day-5-recap-2",
+         "pubDate" : "Tue, 26 Apr 2022 09:43:18 +0100",
+         "title" : "American Cup, Day 6: Caruana and Krush qualify to the finals"
+      },
+      {
          "description" : "In the diagrammed position White is a piece up but Black's queenside pawns look dangerous. However, the white bishop has everything under control. How does White stop the black pawns and win the game?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/trust-the-bishop",
          "pubDate" : "Tue, 26 Apr 2022 09:00:00 +0100",
          "title" : "Trust the bishop"
+      },
+      {
+         "description" : "The halfway of the European School Chess Championship 2022 most of the groups got the emerged leaders. The Chairperson of Irish Chess Union Mr. Desmond Beatty made the first ceremonial move at the 5th round of European School Chess Championship 2022 accompanied by ECU Secretary General Mr. Theodoros Tsorbatzoglou. There are four rounds left to be played before&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/5-rounds-played-at-european-school-chess-championship-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/5-rounds-played-at-european-school-chess-championship-2022/",
+         "pubDate" : "Tue, 26 Apr 2022 07:49:44 +0000",
+         "title" : "5 rounds played at European School Chess Championship 2022"
+      },
+      {
+         "description" : "Dear All, Please find attached herewith list of participants for Seventh Batch (1G) of National Organizer Seminar scheduled to start from 30 April -02 May 2022,Please",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/information-for-chess-for-everyone-national-organizer-batch-1-g-30-april-02-may-2022/",
+         "pubDate" : "Tue, 26 Apr 2022 07:38:46 +0000",
+         "title" : "Information for Chess for Everyone ,National Organizer - Batch 1 G (30 April-02 May 2022)"
+      },
+      {
+         "description" : " &#8220;The Exchange Variation is without doubt one of White's best weapons versus the popular Slav Defense. By creating a symmetrical position with an extra tempo, White keeps Black's counter play to a minimum while developing positional pressure&#8221; Silman and Donaldson I am going to acknowledge the elephant in the room by saying this variation is <a href=\"https://chessimprover.com/need-sure-points-queens-gambit-declined-slav-exchange-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Queen's Gambit Declined Slav, Exchange Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-quee",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-queens-gambit-declined-slav-exchange-variation-edition/",
+         "pubDate" : "Tue, 26 Apr 2022 07:38:38 +0000",
+         "title" : "Need sure points? Queen's Gambit Declined Slav, Exchange Variation Edition"
       },
       {
          "description" : "In the Thornton Trap, a player castles queenside, giving check, to win an unprotected rook. National Master Jeffrey Ashton discusses the Thornton Trap and how to search for examples of it using the ChessBase Manoeuvres Search.",
@@ -214,7 +302,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-11-sarana-wins",
-         "pubDate" : "Mon, 25 Apr 2022 08:33:19 -0700",
+         "pubDate" : "Mon, 25 Apr 2022 08:33:00 -0700",
          "title" : "Sarana's First Knockout Victory: Rapid Chess Championship Week 11"
       },
       {
@@ -378,14 +466,6 @@ news_feed (
          "title" : "American Cup: Day 4 Recap"
       },
       {
-         "description" : "GM Leinier Dominguez, GM Fabiano Caruana, GM Irina Krush, and FM Alice Lee all advanced to the finals of the Champions Bracket today, after defeating their respective opponents in the semifinals, relegating them to the Elimination Bracket. While the finalists get a rest day tomorrow, the second round of the Elimination Bracket will feature the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-leinier-dominguez-is-the-final-in-the-champions-bracket-of-the-american-cup/",
-         "pubDate" : "Sun, 24 Apr 2022 12:25:14 +0000",
-         "title" : "Fabiano Caruana - Leinier Dominguez is the final in the Champions Bracket of the American Cup"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -410,22 +490,6 @@ news_feed (
          "title" : "Popular Site Chess.com Blocked by Russian Authorities"
       },
       {
-         "description" : "After&#160;FIDE&#x2019;s ban on Sergey Karjakin for 6 months, a replacement for the Russian player at the&#160;Candiadates Chess 2022&#160;was needed. By the current regulations, the player to enter the event will be selected by rating considering the FIDE rating list published on May 1 (something that&#160;Anish Giri vigorously protested in an interview&#160;during the ongoing Grand []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-liren-finishes-the-quest-to-be-eligible-for-candidates-tournament/",
-         "pubDate" : "Sun, 24 Apr 2022 09:20:23 +0000",
-         "title" : "Ding Liren finishes the quest to be eligible for Candidates Tournament"
-      },
-      {
-         "description" : "The Chess Academy of Armenia and the Armenian Chess Federation organize four international chess events from June 6th July 16th: 13th Karen Asrian Memorial&#160;(6th-16th June, Yerevan, Armenia) 1st International Youth Chess Festival&#160;(17th-26th June, Yerevan, Armenia) Chess Summer Camp&#160;with renowned chess players and Grandmasters (29th June &#x2013; 6th July, Aghveran, Armenia) Stepan Avagyan International Open []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/international-chess-events-in-armenia/",
-         "pubDate" : "Sun, 24 Apr 2022 08:19:36 +0000",
-         "title" : "International Chess Events in Armenia"
-      },
-      {
          "description" : " Some of you may be aware that underpromotions to bishops have been in the news recently. These are popular with endgame study and problem composers but are very rare over the board. (I'm excluding positions where your opponent will capture whatever piece you choose, where your opponent will mate you at the other end of <a href=\"https://chessimprover.com/underpromotion/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Underpromotion\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/underpromotion/\">Underpromotion</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -448,14 +512,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/04/23/jerald-times-embroiled-in-legal-chess-battle/",
          "pubDate" : "Sat, 23 Apr 2022 22:54:49 +0000",
          "title" : "Jerald Times scores victory in legal chess battle"
-      },
-      {
-         "description" : "Teen sensation Rameshbabu Praggnanandhaa leads the Oslo Esports Cup after a stunning win over world number 10 Shakrhiyar Mamedyarov. The 16-year-old from Chennai blew away the oldest player in the field with two game wins to take the Round 2 match 2.5 to 0.5. It followed up Pragg's impressive Round 1 match win over Jorden []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/praggnanandhaa-shines-in-oslo-esports-chess-cup-r2/",
-         "pubDate" : "Sat, 23 Apr 2022 22:12:57 +0000",
-         "title" : "Praggnanandhaa shines in Oslo Esports Chess Cup R2"
       },
       {
          "description" : "16-year-old Praggnanandhaa is the sole leader of the Oslo Esports Cup after winning with a game to spare for a second day in a row, this time against Shakhriyar Mamedyarov. Magnus Carlsen mouse-slipped away his queen in the first game against Liem Le, and though he bounced back in style in Game 3 his pushing for a win with Black in Game 4 backfired. There were first wins for Jorden van Foreest, who beat Eric Hansen with \"the novelty of the year\", and Jan-Krzysztof Duda, who powered to a 2:0 victory in blitz after drawing all four rapid games against Anish Giri.",
@@ -1754,22 +1810,6 @@ news_feed (
          "title" : "Ding Liren on his way to the Candidates"
       },
       {
-         "description" : "Thanks to back-to-back wins in Sunday's double round, Max Warmerdam climbed to sole first place at the Reykjavik Open. The Dutch grandmaster defeated Simon Williams and Johann Hjartarson to become the only player to go into Monday's round 8 with a 6/7 score. Five players stand a half point behind - Pouya Idani, Praggnanandhaa, Mads Andersen, Matthieu Cornette and Tania Sachdev. | Photo: Thorsteinn Magnusson",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-r7",
-         "pubDate" : "Mon, 11 Apr 2022 13:25:00 +0100",
-         "title" : "Reykjavik Open: Warmerdam takes the lead"
-      },
-      {
-         "description" : "With over 1,300 articles, the Opening Encyclopaedia 2022 covers the entire range of openings. A huge fund of ideas and high-quality analyses! In the new edition, the number of articles has increased - 66 new opening articles and 388 new opening overviews have been added compared to the previous year. New feature - GM Dorian Rogozenco goes into detail about the latest opening trends in top chess, with many videos.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-opening-encyclopaedia-2022",
-         "pubDate" : "Mon, 11 Apr 2022 11:18:18 +0100",
-         "title" : "NEW: Opening Encyclopaedia 2022!"
-      },
-      {
          "description" : "The ECU E-Magazine March 2022 is out! The March 2022 edition of the ECU E-Magazine can be read online together with interactive links on the following link, or it can be downloaded in PDF format down below. In this edition of the ECU E-Magazine you may read about: European Individual Chess Championship 2022 FIDE Grand Prix 2022 ECU&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-march-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1800,14 +1840,6 @@ news_feed (
          "link" : "https://chessimprover.com/four-knights-fiasco/",
          "pubDate" : "Sun, 10 Apr 2022 09:41:36 +0000",
          "title" : "Four Knights Fiasco"
-      },
-      {
-         "description" : "The Mitropa Cup 2022 will be held from 27th April 8th May in the Sports complex (COSEC) of Corti, Corsica, France. The following chess federations are entitled to take part in the Mitropa Cup 2022:&#160;Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland.&#160; The tournament will be held in two sections: the open section, and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mitropa-cup-2022-official-invitation/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/mitropa-cup-2022-official-invitation/",
-         "pubDate" : "Sat, 09 Apr 2022 18:16:40 +0000",
-         "title" : "Mitropa Cup 2022 - Official invitation"
       },
       {
          "description" : "What is it about the number sixty that so attracts chess writers? One would have expected the iconic number to have been 64, eight times eight, the total number of squares on the chessboard. The fashion began, following on from the extended success of one of the most important chess books ever written, Bobby Fischer: []",
@@ -1906,14 +1938,6 @@ news_feed (
          "title" : "Junior Development Pathway consultation"
       },
       {
-         "description" : " This week's episode of the Master Chess Web Show featured an interview with GM Jon Levitt, who these days makes a living on what might be described as &#8216;cricket arbitrage'. With cricket on hold, during the Covid lockdowns, he turned his attention to writing a book entitled Contemplating Comedy, a reflection on different types of <a href=\"https://chessimprover.com/master-chess-web-show-8/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (8)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-8/\">Master Chess Web Show (8)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess I",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/master-chess-web-show-8/",
-         "pubDate" : "Wed, 06 Apr 2022 11:40:58 +0000",
-         "title" : "Master Chess Web Show (8)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1952,30 +1976,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/4/5/ep-273-ep-273-gm-johan-hellsten-on-chess-improvement-the-origins-of-his-excellent-books-and-his-favorite-otb-memories",
          "pubDate" : "Tue, 05 Apr 2022 13:19:08 +0000",
          "title" : " EP 273- GM Johan Hellsten on Chess Improvement, the Inspirations for his \"Mastering Chess\" Book Series, and his favorite OTB Memories "
-      },
-      {
-         "description" : "The English Chess Federation's 24-hour charity marathon for Ukraine took place over the weekend of 02/04 to 03/04 on Chess.com to raise funds for the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-red-cross-charity-marathon-for-ukraine/",
-         "pubDate" : "Tue, 05 Apr 2022 09:46:59 +0000",
-         "title" : "ECF Red Cross Charity Marathon for Ukraine"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1682",
-         "pubDate" : "Tue, 05 Apr 2022 08:36:51 +0000",
-         "title" : "Israel to host 21st IPCA World Individual Chess Championship 2022"
-      },
-      {
-         "description" : "The ECF Yearbook 2022 is now available. Features this year include &#8212; Ravi Haria England's Newest GM; Chess in the Time of Coronavirus; Guildford's...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-yearbook-2022/",
-         "pubDate" : "Tue, 05 Apr 2022 08:11:21 +0000",
-         "title" : "ECF Yearbook 2022"
       }
    ]
 }
