@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Meltwater Champions Chess Tour breaks new ground with the launch of its first fully in-person esports event, the Oslo Esports Cup, taking place on April 22-28. Carlsen heads an 8-player elite line-up. Participants will go head-to-head in one four-game match a day for seven days. Play begins daily at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-live",
+         "pubDate" : "Tue, 26 Apr 2022 17:05:00 +0100",
+         "title" : "Oslo Esports Cup, Round 5 - Live!"
+      },
+      {
+         "description" : "After each having won their first game in the Winners&#39; Brackets, GMs Fabiano Caruana and Irina Krush secured the victories in their matches respectively against GM Lenier Dominguez and FM Alice Lee. Meanwhile, in the Elimination Brackets, GM Lev...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-american-cup-day-6",
+         "pubDate" : "Tue, 26 Apr 2022 08:12:50 -0700",
+         "title" : "Caruana & Krush Win Championship Brackets: The American Cup Day 6"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9ba9de00-f7e3-4947-88c0-927bc7cfb7c5/Mcikey3.jpg\" data-image-dimensions=\"397x248\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6267f3ca8834cb2725637a7e\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9ba9de00-f7e3-4947-88c0-927bc7cfb7c5/Mcikey3.jpg?format=1000w\" /> </figure> <p class=\"\">GM Michael \"Mickey\" Adams is a legend of British chess who has been an elite chess player for the last 30 years. He is a former World Champion finalist, the 7 time champion of ",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/4/26/ep-276-gm-michael-adams-stories-and-lessons-from-mickeys-decades-among-the-chess-elite",
+         "pubDate" : "Tue, 26 Apr 2022 13:36:54 +0000",
+         "title" : "EP 276- GM Michael Adams- Stories and Lessons from Mickey's decades Among the Chess Elite "
+      },
+      {
          "description" : "The 16-year-old Indian Grandmaster Praggnanandhaa started the Oslo Esports Cup with a series of three won matches. But in his duel against Magnus Carlsen in round four he did not find his rhythm, and Carlsen outplayed his young opponent in all three games to win the match 3-0. After four rounds Carlsen and Pragg now both have 9.0/12 and share the lead in the tournament. | Photos and pictures: Play Magnus Group",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oslo-esports-cup-day-4-carlsen-crushes-praggnanandhha-3-0",
+         "link" : "https://en.chessbase.com/post/oslo-esports-cup-day-4-carlsen-crushes-praggnanandhaa-3-0",
          "pubDate" : "Tue, 26 Apr 2022 13:09:48 +0100",
-         "title" : "Oslo Esports Cup, Day 4: Carlsen crushes Praggnanandhha 3-0"
+         "title" : "Oslo Esports Cup, Day 4: Carlsen crushes Praggnanandhaa 3-0"
       },
       {
          "description" : "Devaluation of chess titles, disrespect to history, possibility for behind the scenes deals, confusion. These are just some of the issues pointed out by chess fans on the internet regarding the recent decision of Chess.com to hold &#8220;Chess.com world championship&#8221;. For those knowing chess history and possessing knowledge of the foundations of the chess world, []",
@@ -40,6 +64,22 @@ news_feed (
          "link" : "https://www.chessdom.com/chess-com-world-championship-announcement-video/",
          "pubDate" : "Tue, 26 Apr 2022 11:19:27 +0000",
          "title" : "\"Chess.com world championship\" announcement VIDEO"
+      },
+      {
+         "description" : "MrDodgy Invitational 3.0 is going to take place in 2022. The announcement comes from the Tournament Director and CEO of Chefable, MrDogy himself. A real upgrade in the event is planned, changing the motto from &#8220;Bigger Better Harder&#8221; to &#8220;Bigger, Better, Realer&#8220;. MrDodgy Invitational has always been the most important event in chess. Now that []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mrdodgy-invitational-2022/",
+         "pubDate" : "Tue, 26 Apr 2022 11:05:00 +0000",
+         "title" : "MrDodgy Invitational 2022"
+      },
+      {
+         "description" : "Continuing the amazing line of April Fool&#x2019;s humor renaming Chessable ot Chefable, the @ChefableWTF announced, &#x201C;We&#x2019;re pleased to announce the first-ever Chefable World Champignonship! This is YOUR chance to compete with the best eaters in the world to win ONE BILLION MUSHROOMS!&#x201D; If you wonder about the mushrooms, here are some links to digest the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/firstever-chefable-world-champignonship-tweetoftheday/",
+         "pubDate" : "Tue, 26 Apr 2022 11:01:00 +0000",
+         "title" : "First ever Chefable World Champignonship! #TweetOftheDay"
       },
       {
          "description" : "",
@@ -282,14 +322,6 @@ news_feed (
          "title" : "World Chess Introduces Prize Money Tournaments"
       },
       {
-         "description" : "The Meltwater Champions Chess Tour breaks new ground with the launch of its first fully in-person esports event, the Oslo Esports Cup, taking place on April 22-28. Carlsen heads an 8-player elite line-up. Participants will go head-to-head in one four-game match a day for seven days. Play begins daily at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-live",
-         "pubDate" : "Mon, 25 Apr 2022 17:00:00 +0100",
-         "title" : "Oslo Esports Cup, Round 4 - Live!"
-      },
-      {
          "description" : "In his Endgame Magic Show #191 Karsten M&uuml;ller looks back to the Charity Cup, the second tournament of the Meltwater Chess Champions Tour series of online rapid tournaments, which was played from 19 to 26 March. Magnus Carlsen won after beating Jan-Krzysztof Duda in the final. The Charity Cup brought a lot of interesting endgames and Karsten selected some highlights. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -402,28 +434,12 @@ news_feed (
          "title" : "Chess.com Banned By Russia"
       },
       {
-         "description" : "Have you ever wondered what would Anish Giri do if he weren't a professional chess player? Anish Giri answers 9 questions we all thought about: What is your best chess game ever? Who is your favorite actor? What is your go-to song to get pumped? If the Good-Knight bar were to name a drink after []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/what-would-anish-giri-do-if-he-werent-a-professional-chess-player-his-answer-may-surprise-you/",
-         "pubDate" : "Sun, 24 Apr 2022 17:49:26 +0000",
-         "title" : "What would Anish Giri do if he weren't a professional chess player? His answer may surprise you&hellip;"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91056485.cms\" /> Teenaged Indian Grandmaster D Gukesh on Sunday won the Menorca Open chess tournament, his second title win in as many weeks. Indian players dominated, taking seven spots in the top 10 with Aryan Chopra finishing runner-up. The 15-year old GM scored six points from seven rounds to clinch first place and earned 1,600 Euros as prize money.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-menorca-open-chess-tourney/articleshow/91056485.cms",
          "pubDate" : "Sun, 24 Apr 2022 17:48:24 +0000",
          "title" : "Indian GM Gukesh wins Menorca Open chess tourney"
-      },
-      {
-         "description" : "15-year-old Indian Grandmaster Gukesh D won the 1st Chess Menorca Open which was played from 20th to 24th April 2022 at Hotel Princesa Playa, Menorca, Spain. Gukesh scored 6 points to be the sole winner of the event and the outstanding performance brought him 13.4 rating points. With live rating of 2660, Gukesh leaped to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gukesh-d-wins-menorca-open-and-becomes-the-youngest-indian-ever-to-break-into-world-top-100/",
-         "pubDate" : "Sun, 24 Apr 2022 16:53:43 +0000",
-         "title" : "Gukesh D wins Menorca Open and becomes the youngest Indian ever to break into World Top 100"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 76th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how hanging pawns can come under pressure. | Photo: Pascal Simon",
@@ -434,7 +450,7 @@ news_feed (
          "title" : "Understanding before Moving 76: Hanging pawns under pressure"
       },
       {
-         "description" : " Share!8FIDE Master Tani Adewumi is growing up right before our eyes. He recently notched the first of three required &#8220;norms&#8221; for the title of International Master. It was only three years ago that the story broke of an 8-year-old winning the New York Scholastic State Title. A New York Times story broke about his Nigerian The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/24/first-im-norm-for-tani-adewumi/\">First IM norm for Tani Adewumi!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
+         "description" : " Share!154FIDE Master Tani Adewumi is growing up right before our eyes. He recently notched the first of three required &#8220;norms&#8221; for the title of International Master. It was only three years ago that the story broke of an 8-year-old winning the New York Scholastic State Title. A New York Times story broke about his Nigerian The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/24/first-im-norm-for-tani-adewumi/\">First IM norm for Tani Adewumi!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/04/24/first-im-norm-for-tani-adewumi/",
@@ -1610,14 +1626,6 @@ news_feed (
          "title" : "2022 O2C Doeberl Cup - Coverage"
       },
       {
-         "description" : "GM Praggnanandhaa R. scored one of his career&#39;s best achievements so far by winning the 2022 Kvika Reykjavik Open in Iceland on Tuesday. The only 16-year-old Indian grandmaster won a crucial and dramatic game against his compatriot GM Gukesh D. (1...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/praggnanandhaa-wins-2022-reykjavik-open",
-         "pubDate" : "Wed, 13 Apr 2022 03:54:00 -0700",
-         "title" : "Praggnanandhaa Wins 2022 Reykjavik Open, Tournament Of Missed Underpromotions"
-      },
-      {
          "description" : "Who am I? Tactician or position player? Attacker or defender? Should I play 1.d4 or 1.e4? Sicilian or French? If you know your strengths and weaknesses you will score more points and you will be more successful. In their \"Player Types\" ChessBase course Karsten M&uuml;ller and Luis Engel take a close look at playing styles, and in an extensive interview Karsten M&uuml;ller reveals a few things they discovered.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1952,30 +1960,6 @@ news_feed (
          "link" : "https://aicf.in/national-junior-certificates-are-out/",
          "pubDate" : "Wed, 06 Apr 2022 02:41:44 +0000",
          "title" : "National Junior Certificates are Out"
-      },
-      {
-         "description" : "On Chess24.com on Sunday April 10th at 10.00am, with ECF Director of Women's Chess Agnieszka Milewska click here",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/women-in-chess-global-exchange-forum/",
-         "pubDate" : "Tue, 05 Apr 2022 14:14:02 +0000",
-         "title" : "Women in Chess Global Exchange Forum"
-      },
-      {
-         "description" : " I have decided to have one of my sporadic attempts at studying chess (properly) again. My target is Rook and Pawn endings, not only because I need to improve in this area, but also because I need to improve how I study. Famously Capablanca studied and understood over 1000 Rook and Pawn positions, and while I doubt I will get to that number, understanding the key positions can't hurt. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/04/the-joy-of-study.html",
-         "pubDate" : "Tue, 05 Apr 2022 13:31:00 +0000",
-         "title" : "The joy of study"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/574ee51c-0c80-44eb-8c61-fbc76ac79e13/Johansn.jpg\" data-image-dimensions=\"1728x820\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"624c407dfe3ab95bc7bb040d\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/574ee51c-0c80-44eb-8c61-fbc76ac79e13/Johansn.jpg?format=1000w\" /> </figure> <p class=\"\">My guest this week is renowned trainer, author, and 2006 Swedish National Champion, GM Johan Hellsten. Johan is best known for his excellent book/Chessable course, <a href=\"ht",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/4/5/ep-273-ep-273-gm-johan-hellsten-on-chess-improvement-the-origins-of-his-excellent-books-and-his-favorite-otb-memories",
-         "pubDate" : "Tue, 05 Apr 2022 13:19:08 +0000",
-         "title" : " EP 273- GM Johan Hellsten on Chess Improvement, the Inspirations for his \"Mastering Chess\" Book Series, and his favorite OTB Memories "
       }
    ]
 }
