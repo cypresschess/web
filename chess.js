@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1712",
+         "pubDate" : "Tue, 26 Apr 2022 22:16:47 +0000",
+         "title" : "Teen star Praggnanandhaa in pole position"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.20<br /> USChessChamps.com ROUND 1 | GAME 1<br /> Levon Aronian vs. Ray Robson<br /> Dominguez vs. Sam Shankland<br /> Wesley So vs. Sam Sevian<br /> Fabiano Caruana vs. Jeffery Xiong </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/american-cup-day-7-live-games-and-commentary",
          "pubDate" : "Tue, 26 Apr 2022 19:45:00 +0100",
          "title" : "American Cup, Day 7 - Live games and commentary"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Former Putin aide <strong>Arkady Dvorkovich</strong> is sailing towards a second term as <strong>FIDE</strong> President without a serious challenger in sight, but can chess still afford a Russian at its helm? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-04-26-at-15-34.1920.jpeg\" title=\"Arkady Dvorkovich speaking after being elected FIDE President in 2018 with Bachar Kouatly to his left. Peter Doggers / Chess.com\" data-title=\"Arkady Dvorkovich speaking after being elected FIDE President in 2018 with Bachar Kouatly to his left. (Peter Doggers / Chess.com)\" class=\"js-img\"> <",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/four-more-years-with-a-russian/",
+         "pubDate" : "Tue, 26 Apr 2022 18:57:41 +0100",
+         "title" : "Four more years?"
       },
       {
          "description" : "The Meltwater Champions Chess Tour breaks new ground with the launch of its first fully in-person esports event, the Oslo Esports Cup, taking place on April 22-28. Carlsen heads an 8-player elite line-up. Participants will go head-to-head in one four-game match a day for seven days. Play begins daily at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
@@ -792,14 +808,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/the-american-cup-2022-day-2",
          "pubDate" : "Thu, 21 Apr 2022 23:53:00 -0700",
          "title" : "Caruana Survives Armageddon Roller Coaster: The American Cup Day 2"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Oslo Esports Cup</strong> starting this Friday with <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-oslo-esports-cup-2022/2/1/1\">games every day after 18.00 CET</a> comes <a href=\"https://chess24.com/en/read/news/magnus-carlsen-to-take-on-7-stars-in-oslo-esports-cup\">with three experiments</a>: The first <strong>Meltwater Champions Chess Tour</strong> event without finals is a round robin of one day matches between eight players. It is the first event for which the players don't compete from home but all meet in the same venue, a TV studio in Oslo. And all streamers have been invited to stream the co",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/a-tour-stop-with-three-experiments/",
-         "pubDate" : "Fri, 22 Apr 2022 07:23:49 +0100",
-         "title" : "A tour stop with three experiments"
       },
       {
          "description" : " <p class=\"lead\">In an exclusive interview with World Chess, Maxime Vachier-Lagrave, a French \"super GM\" (a chess-speak for one of the world's strongest chess players), said that on his way to becoming an elite chess player, he thought that he reached his peak at 2680. At that level, he could not secure enough stable income to feel safe. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/gp3mgnSxlVk?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> 2680 is a rating that very few people will ever reach (you earn a grandmaster title, the highest in the sport, at 2500). Yet MVL still failed to earn stable income. Most players make money by coac",
