@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Another regular season of Arena Kings in the books, with the Championship Final of Season 9 coming next week. Week 12 ended the way the last four weeks had, with a victory for GM Hikaru Nakamura. Despite falling behind 2-0 in the final against GM ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-arena-kings-season-9-week-12",
+         "pubDate" : "Wed, 27 Apr 2022 14:27:58 -0700",
+         "title" : "Nakamura Pushes Back Bortnyk's Major Challenge In Arena Kings Season 9 Week 12"
+      },
+      {
+         "description" : "London, with its rich chess tradition, has been the scene of many great tournaments. One of these, the London International Tournament of 1883, happened at an important point in history. It is remembered mainly as the event that led to the first World Chess Championship, which, in turn, formalized the title of World Champion. Johannes Zukertort (pictured) won the tournament ahead of Wilhelm Steinitz, and in 1886, three years after London, they played the first official World Championship match against each other.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-1883-prelude-to-the-first-world-championship-match-april-26-1883-june-23-1883",
+         "pubDate" : "Wed, 27 Apr 2022 22:00:00 +0100",
+         "title" : "London 1883: Prelude to the First World Championship Match (April 26, 1883 - June 23, 1883)"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana faces Levon Aronian in Game 1 of 2 of The American Cup 2022 final. Also, in the women&#039;s tournament, Irina Krush and Alice Lee begin their final match. Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.27<br /> USChessChamps.com FINAL ROUND | GAME 1<br /> Fabiano Caruana vs. Levon Aronian FINAL ROUND | GAME 1<br /> Irina Krush vs. Alice Lee </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-aronian-vs-caruana-lichessorg",
+         "pubDate" : "Wed, 27 Apr 2022 19:37:33 +0000",
+         "title" : "The American Cup 2022: Aronian vs. Caruana | lichess.org"
+      },
+      {
          "description" : "In two hard-fought matches in the Elimination Brackets, day seven decided who would make it to the finals of The American Cup and face GMs Fabiano Caruana and Irina Krush. In group A, GM Levon Aronian&#38;nbsp;outlasted GM Lenier Dominguez; in Group...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -384,14 +408,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/levon-aronian-memorable-second-interview-day-6",
          "pubDate" : "Mon, 25 Apr 2022 22:36:03 +0000",
          "title" : "Levon Aronian: A Memorable Second Interview | Day 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Fabiano Caruana after his draw with Leinier Dominguez in Game 2 of the champions bracket final. 2022.04.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-clinching-champions-bracket-day-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sNKBWe375Dg.jpg?itok=QsCKIrbZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-clinching-champions-bracket-day-6",
-         "pubDate" : "Mon, 25 Apr 2022 22:36:03 +0000",
-         "title" : "Fabiano Caruana: Clinching the Champions Bracket | Day 6"
       },
       {
          "description" : "Magnus Carlsen upped his game for the big occasion today as he ended young pretender Rameshbabu Praggnanandhaa&#x2019;s unbeaten streak to go level at the top of the Oslo Esports Cup leaderboard. The World Champion shrugged off the illness he has suffered since the start of the&#xA0;Meltwater Champions Chess Tour&#xA0;event to brush aside the challenge of []",
@@ -1522,14 +1538,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Attack with Pragg"
       },
       {
-         "description" : "Another dramatic match ensued at the&#38;nbsp;2022 Junior Speed Chess Championship presented by SIG on Thursday, with GM Awonder Liang edging out GM Andrew Hong by a mere point after winning the final game of the match. It was a tough bout, with non...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-liang-hong",
-         "pubDate" : "Fri, 15 Apr 2022 08:36:19 -0700",
-         "title" : "Liang Edges Out Hong In 2022 Junior Speed Chess Championship Round Of 16"
-      },
-      {
          "description" : "Friedrich Schiller has, in my mind, always been associated with chess, since I became familiar with his ideas about the nature of play. Actually identifying a specific, undeniable reference to chess in Schiller's oeuvre has, however, proved more elusive. On my desk I have a number of books which retain a permanent position and are []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1832,14 +1840,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/bcm-reshevsky-on-russian-chess",
          "pubDate" : "Tue, 12 Apr 2022 09:05:00 +0100",
          "title" : "BCM: Reshevsky on Russian chess"
-      },
-      {
-         "description" : "Having a pawn majority is usually a positional plus because pawn majorities allow you to create passed pawns. But creating these passed pawns usually requires tactical and technical precision. Which Black demonstrated in the diagrammed position. What did Black do to win the game?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-pleasant-potential-of-pawn-majorities",
-         "pubDate" : "Tue, 12 Apr 2022 09:00:00 +0100",
-         "title" : "The pleasant potential of pawn majorities"
       },
       {
          "description" : "",
