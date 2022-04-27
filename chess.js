@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Both GM Fabiano Caruana and GM Irina Krush managed to qualify to the finals in day 6 of the American Cup, after drawing the second game and avoiding a playoff in their Champions Bracket matches against GM Leinier Dominguez and FM Alice Lee. In the Elimination Bracket, GM Levon Aronian defeated GM Ray Robson 2-0, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levon-aronian-fabiano-caruana-is-the-final-in-the-american-cup-2022/",
+         "pubDate" : "Wed, 27 Apr 2022 11:04:24 +0000",
+         "title" : "Levon Aronian - Fabiano Caruana is the final in the American Cup 2022"
+      },
+      {
+         "description" : "Now close to a week after the creation of a new world championship , there is no official reaction by FIDE. This middleground of no rectification by Chess.com and no reaction by FIDE only fuels the rumors on behind the scenes deals, while at the same time the attrition to the image of chess and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/more-world-championships-less-problems-devalue-deschmalue-tweetoftheday/",
+         "pubDate" : "Wed, 27 Apr 2022 11:03:00 +0000",
+         "title" : "More world championships, less problems - devalue, deschmalue #TweetOftheDay"
+      },
+      {
+         "description" : "After defeating GM Leinier Dominguez in a dramatic playoff, GM Levon Aronian (pictured) qualified for the finals of the 2022 American Cup, where he will face GM Fabiano Caruana for the 1st place prize of $50,000. In the women's field, FM Alice Lee earned herself a rematch in the $25,000 final against GM Irina Krush, after winning an incredibly close match against WGM Tatev Abrahamyan that went all the way to Armageddon. | Photo: Saint Louis Chess Club / Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-day-7-aronian-and-lee-make-it-to-the-finals",
+         "pubDate" : "Wed, 27 Apr 2022 11:00:00 +0100",
+         "title" : "American Cup, Day 7: Aronian and Lee make it to the finals"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1713",
+         "pubDate" : "Wed, 27 Apr 2022 08:38:31 +0000",
+         "title" : "American Cup: Day 7 Recap"
+      },
+      {
+         "description" : " This week we interviewed GM Danny Gormally, who talked to us about life as a chess professional, improvement techniques and his latest book. He also showed us a couple of his games from a recent tournament: Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-11/\">Master Chess Web Show (11)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/master-chess-web-show-11/",
+         "pubDate" : "Wed, 27 Apr 2022 08:38:24 +0000",
+         "title" : "Master Chess Web Show (11)"
+      },
+      {
          "description" : "The new ChessBase Opening Encyclopaedia offers a comprehensive look at the whole of opening theory, with all relevant games, 1300 opening articles and over 7300 opening surveys. If you want to understand and play the most topical and important lines, try the video lessons offered by a wide range of Grandmasters. Arne Bracker presents some authors and variations.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -322,14 +362,6 @@ news_feed (
          "title" : "More than 200 kids taking part in Serbian Youth Chess Championship 2022"
       },
       {
-         "description" : "The 1st &#8220;Mikis Theodorakis&#8221; international chess tournament kicked off today in Chania, a city on the northwest coast of the Greek island of Crete. The event takes place from April 25 to May 1 and it will be played in 9 rounds, Swiss system. 73 players from 11 countries take part in the event fighting []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1st-mikis-theodorakis-international-chess-tournament-in-chania/",
-         "pubDate" : "Mon, 25 Apr 2022 21:09:27 +0000",
-         "title" : "1st \"Mikis Theodorakis\" international chess tournament in Chania"
-      },
-      {
          "description" : "After day four&#38;mdash;halfway through the event&#38;mdash;GM&#38;nbsp;Magnus Carlsen&#38;nbsp;shares the lead with GM&#38;nbsp;Rameshbabu Praggnanandhaa at nine points after defeating him in their match today. GMs&#38;nbsp;Jan-Krzysztof Duda&#38;nbsp;and Le Quang Liem&#38;nbs...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -464,14 +496,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/oslo-esports-cup-3-carlsen-beats-giri-before-pragg-showdown",
          "pubDate" : "Sun, 24 Apr 2022 21:54:00 +0000",
          "title" : "Oslo Esports Cup 3: Carlsen beats Giri before Pragg showdown"
-      },
-      {
-         "description" : "Rameshbabu Praggnanandhaa is &#8220;having fun&#8221; after recording a third straight match-win today to continue his perfect start to the elite Oslo Esports Cup. India's 16-year-old superstar-in-the-making is the&#xA0;only player with 9/9 points&#xA0;and has won the maximum $22,500 so far after he crushed Liem Quang Le with a game to spare. Pragg now faces World Champion []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pragg-is-on-fire-at-the-oslo-esports-cup/",
-         "pubDate" : "Sun, 24 Apr 2022 21:26:11 +0000",
-         "title" : "Pragg is on fire at the Oslo Esports Cup"
       },
       {
          "description" : "Yesterday, Chess.com was banned by the Russian government agency Roscomnadzor, the &#34;Federal Service for Supervision of Communications, Information Technology and Mass Media.&#34; Roscomnadzor is responsible for censorship within Russia, a busy occupat...",
@@ -1794,14 +1818,6 @@ news_feed (
          "title" : "Reykjavik Open: Pragg and Andersen score"
       },
       {
-         "description" : "The Kvika Reykjav&iacute;k Open is taking place on April 6-12 at the Harpa Conference Centre in Iceland's capital. The event is a 9-round Swiss open with double rounds on April 7 and April 10. No fewer than 267 players have registered to participate, including a number of young rising stars. | Replay all available games with computer analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
-         "pubDate" : "Tue, 12 Apr 2022 08:45:00 +0100",
-         "title" : "Reykjavik Open - Games and results"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1856,14 +1872,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-for-mpl-34th-national-u12-chess-championship-2022/",
          "pubDate" : "Mon, 11 Apr 2022 07:03:08 +0000",
          "title" : "Live Link for MPL 34th National U12 Chess Championship 2022"
-      },
-      {
-         "description" : " How would you assess this position, with Black to move? Perhaps you think White can look forward to playing on the f-file against Black's doubled pawns, with moves like Bc4 and Qf3 to come. I could imagine thinking like that myself if I had this position in a blitz game. It comes from an old <a href=\"https://chessimprover.com/four-knights-fiasco/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Four Knights Fiasco\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/four-knights-fiasco/\">Four Knights Fiasco</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/four-knights-fiasco/",
-         "pubDate" : "Sun, 10 Apr 2022 09:41:36 +0000",
-         "title" : "Four Knights Fiasco"
       },
       {
          "description" : "What is it about the number sixty that so attracts chess writers? One would have expected the iconic number to have been 64, eight times eight, the total number of squares on the chessboard. The fashion began, following on from the extended success of one of the most important chess books ever written, Bobby Fischer: []",
@@ -1960,14 +1968,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/junior-development-pathway-consultation/",
          "pubDate" : "Wed, 06 Apr 2022 12:05:17 +0000",
          "title" : "Junior Development Pathway consultation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1671",
-         "pubDate" : "Wed, 06 Apr 2022 09:00:34 +0000",
-         "title" : "Panama to host World School Chess Championship 2022"
       }
    ]
 }
