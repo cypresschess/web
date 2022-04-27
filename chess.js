@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In two hard-fought matches in the Elimination Brackets, day seven decided who would make it to the finals of The American Cup and face GMs Fabiano Caruana and Irina Krush. In group A, GM Levon Aronian&#38;nbsp;outlasted GM Lenier Dominguez; in Group...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-american-cup-day-7",
+         "pubDate" : "Wed, 27 Apr 2022 11:50:19 -0700",
+         "title" : "Aronian, Lee Win In Elimination Brackets: The American Cup Day 7"
+      },
+      {
          "description" : "Levon Aronian and Fabiano Caruana will play the finals of the open section of the American Cup 2022. In the women's section Irina Krush is going to face the young talent Alice Lee. The games of the finals start at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1640,14 +1648,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/opening-training-with-fritz-18-1",
          "pubDate" : "Thu, 14 Apr 2022 10:00:00 +0100",
          "title" : "Opening training with Fritz 18 (1)"
-      },
-      {
-         "description" : "GM Hikaru Nakamura&#38;nbsp;won his third consecutive Arena Kings on April 13 and has now claimed victory in all six weeks he&#39;s played in Season 9. For the second straight week, GM Oleksandr Bortnyk was Nakamura&#39;s opponent in the final while the semif...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-arena-kings-season-9-week-10",
-         "pubDate" : "Wed, 13 Apr 2022 14:38:05 -0700",
-         "title" : "Nakamura Continues To Reign Over Arena Kings In Season 9 Week 10"
       },
       {
          "description" : "",
