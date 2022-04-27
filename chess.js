@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new ChessBase Opening Encyclopaedia offers a comprehensive look at the whole of opening theory, with all relevant games, 1300 opening articles and over 7300 opening surveys. If you want to understand and play the most topical and important lines, try the video lessons offered by a wide range of Grandmasters. Arne Bracker presents some authors and variations.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-chessbase-opening-encyclopedia-opening-videos",
+         "pubDate" : "Wed, 27 Apr 2022 09:00:00 +0100",
+         "title" : "The ChessBase Opening Encyclopedia: Opening Videos"
+      },
+      {
+         "description" : "Please find the link of Live Games for National Rapid Chess Championship 2022 Rapid : https://view.livechesscloud.com/#54c3ebfa-6ecf-4c36-9e50-6458da6cf7df Chess- Results Link : https://chess-results.com/tnr630256.aspx?lan=1",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-mpl-national-rapid-chess-championship-2022/",
+         "pubDate" : "Wed, 27 Apr 2022 05:26:02 +0000",
+         "title" : "Live Games Link for MPL National Rapid Chess Championship 2022"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Levon Aronian after his win against Leinier Dominguez in their elimination bracket match. 2022.04.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-aronian-i-got-far-ill-enjoy-myself-day-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hqvBHbN3-6U.jpg?itok=hryrl13B\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -30,8 +46,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/olso-esports-cup-day-5",
-         "pubDate" : "Tue, 26 Apr 2022 16:29:43 -0700",
-         "title" : "Pragnanandhaa Continues To Lead: Olso Esports Cup Day 5"
+         "pubDate" : "Tue, 26 Apr 2022 16:29:00 -0700",
+         "title" : "Praggnanandhaa Continues To Lead: Oslo Esports Cup Day 5"
       },
       {
          "description" : "",
@@ -1784,14 +1800,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/reykjavik-open-2022-live",
          "pubDate" : "Tue, 12 Apr 2022 08:45:00 +0100",
          "title" : "Reykjavik Open - Games and results"
-      },
-      {
-         "description" : "In Karsten M&uuml;ller's \"Endgame Magic Show #189\" Karsten and Arne K&auml;hler look at rook endings, and take a particularly close look at the rook endgame 4 vs 3 pawns on one side to show important drawing formations. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-188-good-to-know-rook-endings",
-         "pubDate" : "Mon, 11 Apr 2022 21:46:12 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #189: Good to know - rook endings"
       },
       {
          "description" : "",
