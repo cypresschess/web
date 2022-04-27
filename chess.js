@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Levon Aronian after his win against Leinier Dominguez in their elimination bracket match. 2022.04.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-aronian-i-got-far-ill-enjoy-myself-day-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hqvBHbN3-6U.jpg?itok=hryrl13B\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/levon-aronian-i-got-far-ill-enjoy-myself-day-7",
+         "pubDate" : "Wed, 27 Apr 2022 01:37:00 +0000",
+         "title" : "Levon Aronian: I Got This Far; I'll Enjoy Myself | Day 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Alice Lee after her win against Tatev Abrahamyan in their elimination bracket match. 2022.04.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-armageddon-was-%E2%80%9C-bit%E2%80%9D-chaotic-day-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LHhH1BowMcY.jpg?itok=jkJtEGBz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lee-armageddon-was-%E2%80%9C-bit%E2%80%9D-chaotic-day-7",
+         "pubDate" : "Wed, 27 Apr 2022 01:37:00 +0000",
+         "title" : "Alice Lee: Armageddon was \"a Bit\" Chaotic | Day 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.26<br /> USChessChamps.com ELIMINATION MATCH<br /> Dominguez vs. Levon Aronian ELIMINATION MATCH<br /> Alice Lee vs. Abrahamyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-day-7\"><img src=\"https://",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-7",
+         "pubDate" : "Wed, 27 Apr 2022 01:37:00 +0000",
+         "title" : "The American Cup 2022: Day 7"
+      },
+      {
+         "description" : "GM Rameshbabu Praggnanandhaa is again the sole leader of the event after day five. After him comes GM Magnus Carlsen with nine points, closely followed by GMs Jan-Krzysztof Duda, Le Quang Liem and Jorden van Foreest with eight points. Both GMs A...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/olso-esports-cup-day-5",
+         "pubDate" : "Tue, 26 Apr 2022 16:29:43 -0700",
+         "title" : "Pragnanandhaa Continues To Lead: Olso Esports Cup Day 5"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -242,14 +274,6 @@ news_feed (
          "title" : "Fabiano Caruana: Clinching the Champions Bracket | Day 6"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Irina Krush after her draw with Alice Lee in Game 2 of their champions bracket final. 2022.04.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-cruising-champions-bracket-victory-day-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hRQfrpkJhlY.jpg?itok=nyCtMeUR\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/irina-krush-cruising-champions-bracket-victory-day-6",
-         "pubDate" : "Mon, 25 Apr 2022 22:36:03 +0000",
-         "title" : "Irina Krush: Cruising to Champions Bracket Victory | Day 6"
-      },
-      {
          "description" : "Magnus Carlsen upped his game for the big occasion today as he ended young pretender Rameshbabu Praggnanandhaa&#x2019;s unbeaten streak to go level at the top of the Oslo Esports Cup leaderboard. The World Champion shrugged off the illness he has suffered since the start of the&#xA0;Meltwater Champions Chess Tour&#xA0;event to brush aside the challenge of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -304,22 +328,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-round-of-16-erigaisi-lazavik",
          "pubDate" : "Mon, 25 Apr 2022 13:34:00 -0700",
          "title" : "Erigaisi Stuns With Comeback: 2022 Junior Speed Chess Championship Round Of 16"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.24<br /> USChessChamps.com ROUND 3 | GAME 1<br /> Fabiano Caruana<br /> vs. Dominguez RAPID ELIMINATION MATCHES<br /> Sam Sevian vs. Ray Robson<br /> Levon Aronian vs. Wesley So ROUND 3 | GAME 1<br /> Irina Krush vs. Alice Lee </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-5",
-         "pubDate" : "Mon, 25 Apr 2022 19:35:54 +0000",
-         "title" : "The American Cup 2022: Day 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The players give their thoughts on the new, unusual format that ranges across all time controls. 2022.04.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-new-format\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fqhZgr1e948.jpg?itok=ZmtchnKv\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-new-format",
-         "pubDate" : "Mon, 25 Apr 2022 19:35:54 +0000",
-         "title" : "The American Cup 2022: New Format"
       },
       {
          "description" : "The American Cup kicked off Wednesday in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Day 6 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
@@ -1586,14 +1594,6 @@ news_feed (
          "title" : "Kasparov In TED Talk: 'Meeting Evil Halfway Is Still A Victory For Evil'"
       },
       {
-         "description" : "World Rapid Champion GM Nodirbek Abdusattorov won the early edition of Titled Tuesday while GM Hikaru Nakamura, who did not play last week, won the late tournament. Both players took their tournament outright with a score of 10/11. It was also a r...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/abdusattorov-nakamura-win-titled-tuesday-april-12-2022",
-         "pubDate" : "Wed, 13 Apr 2022 09:28:57 -0700",
-         "title" : "Nakamura Returns To Titled Tuesday, Splits Week With Abdusattorov"
-      },
-      {
          "description" : "\"Winter is Coming\" is the title of a book by Garry Kasparov published in 2015. In it he warned that Russia's descent from a nascent democracy into a full-blown dictatorship under Vladimir Putin made it a threat to the West and world peace. \"Garry could be forgiven for declaring: I bloody told you so,\" writes Malcolm Pein in the April 2022 edition of CHESS Magazine. In it he describes the consequences the Russian invasion of Ukraine has for the world of chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1960,14 +1960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1671",
          "pubDate" : "Wed, 06 Apr 2022 09:00:34 +0000",
          "title" : "Panama to host World School Chess Championship 2022"
-      },
-      {
-         "description" : "National Junior Certificates (09-13, march), Gurugram National Junior Chess Championship 2022 Certificates are out to download. Male : https://aicf.online/National-Junior-M.html Female : https://aicf.online/National-Junior-G.html Any correction please",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-junior-certificates-are-out/",
-         "pubDate" : "Wed, 06 Apr 2022 02:41:44 +0000",
-         "title" : "National Junior Certificates are Out"
       }
    ]
 }
