@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Junior Speed Chess Championship quarterfinals, brought to you by SIG, commenced today with GM Nihal Sarin taking on IM Christoper Yoo in an explosive encounter that ended with a 15-11 score in favor of the reigning champion. Proving dom...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-quarterfinal-nihal-yoo",
+         "pubDate" : "Wed, 27 Apr 2022 16:11:05 -0700",
+         "title" : "Nihal Overwhelms Yoo 2022: Junior Speed Chess Championship Quarterfinal"
+      },
+      {
          "description" : "Another regular season of Arena Kings in the books, with the Championship Final of Season 9 coming next week. Week 12 ended the way the last four weeks had, with a victory for GM Hikaru Nakamura. Despite falling behind 2-0 in the final against GM ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1522,14 +1530,6 @@ news_feed (
          "title" : "Swiss Young Masters kicks off in Basel"
       },
       {
-         "description" : "GM Kirill Shevchenko&#38;nbsp;advanced today at the&#38;nbsp;2022 Junior Speed Chess Championship presented by SIG with a hard-fought match victory over GM Shamsiddin Vokhidov. Though Shevchenko led throughout, the match reached its climax when he had to ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-shevchenko-vokhidov",
-         "pubDate" : "Fri, 15 Apr 2022 15:38:33 -0700",
-         "title" : "Shevchenko Defeats Vokhidov In 2022 Junior Speed Chess Championship Round Of 16"
-      },
-      {
          "description" : "In this week's edition of the Power Play Show, GM Daniel King features two games played by Praggnanandhaa at the Reykjavik Open. The prodigy's keen instinct to attack is in full display! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1960,14 +1960,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-womens-norm-event-2022-she-plays-to-win/",
          "pubDate" : "Thu, 07 Apr 2022 07:00:05 +0000",
          "title" : "ECF Women's Norm Event 2022/She Plays To Win"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1683",
-         "pubDate" : "Wed, 06 Apr 2022 22:18:43 +0000",
-         "title" : "Matthias Bluebaum wins European Individual Championship"
       }
    ]
 }
