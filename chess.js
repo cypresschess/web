@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Meltwater Champions Chess Tour breaks new ground with the launch of its first fully in-person esports event, the Oslo Esports Cup, taking place on April 22-28. Carlsen heads an 8-player elite line-up. Participants will go head-to-head in one four-game match a day for seven days. Play begins daily at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-live",
+         "pubDate" : "Wed, 27 Apr 2022 17:05:00 +0100",
+         "title" : "Oslo Esports Cup, Round 6 - Live!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Former Putin aide <strong>Arkady Dvorkovich</strong> is sailing towards a second term as <strong>FIDE</strong> President without a serious challenger in sight, but can chess still afford a Russian at its helm? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-04-26-at-15-34.1920.jpeg\" title=\"Arkady Dvorkovich speaking after being elected FIDE President in 2018 with Bachar Kouatly to his left. Peter Doggers / Chess.com\" data-title=\"Arkady Dvorkovich speaking after being elected FIDE President in 2018 with Bachar Kouatly to his left. (Peter Doggers / Chess.com)\" class=\"js-img\"> <",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/four-more-years-with-a-russian/",
+         "pubDate" : "Wed, 27 Apr 2022 15:06:01 +0100",
+         "title" : "Four more years?"
+      },
+      {
+         "description" : " Broadcasting tournament games used to rely on having your own dedicated website. These days chess platforms have realised that such broadcasts can help bring users in, and have started offering it as a free service. Chess24 were probably the pioneers here, but other platforms are catching up. Both chess.com and lichess contacted me to stream the O2C Doeberl Cup this year, while 'Follow chess' normally carries it as well. If you are an organiser looking to use these services, each platform normally has instructions to follow (eg <a href=\"https://www.chess.com/article/view/how-to-broadcast-your-games-on-chesscom\">https://www.chess.com/article/view/how-to-broadcast-your-games-on-chesscom</a> f",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/broadcast-services.html",
+         "pubDate" : "Wed, 27 Apr 2022 13:37:00 +0000",
+         "title" : "Broadcast Services"
+      },
+      {
+         "description" : "A consolation for all chess fans: even the best sometimes blunder. In Round 5 of the Oslo Esport Cup, World Champion Magnus Carlsen blundered a whole rook against Jorden van Foreest, which cost him the game, the match, and the lead in the tournament. With two rounds to go, Praggnanandhaa, who won his match against Eric Hansen 2.5-0.5, is now again sole first with 12/15 and three points ahead of Carlsen who follows with 9.0/15. | Photos and pictures: Play Magnus Group",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oslo-esports-cup-praggnanandhaa-regains-lead-after-blunder-by-carlsen",
+         "pubDate" : "Wed, 27 Apr 2022 13:55:36 +0100",
+         "title" : "Oslo Esports Cup: Praggnanandhaa regains lead after blunder by Carlsen"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Anish Giri</strong> becomes ambassador of the Play Magnus Group. His contracts includes regular streams for <strong>chess24</strong>, wearing chess24 and Chessable logos, promoting the <strong>Meltwater Champions Chess Tour</strong> and producing more courses for <strong>Chessable</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/anish-giri-signed-up-by-pmg/",
+         "pubDate" : "Wed, 27 Apr 2022 13:03:59 +0100",
+         "title" : "Anish Giri signed up by PMG"
+      },
+      {
+         "description" : "\"I generally know how the pieces move, but with some notable exceptions!\" said Magnus Carlsen after a rook blunder saw him lose to Jorden van Foreest in Round 5 of the Oslo Esports Cup. That allowed 16-year-old Praggnanandhaa to take a 3-point lead with just two rounds to go after defeating Eric Hansen with a game to spare. The other matches were rollercoaster rides that were decided in blitz, with Shakhriyar Mamedyarov beating Giri while Liem Le apologised for ruining Jan-Krzysztof Duda's 24th birthday!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/oslo-esports-cup-5-pragg-leads-again-as-carlsen-crashes",
+         "pubDate" : "Wed, 27 Apr 2022 11:44:08 +0000",
+         "title" : "Oslo Esports Cup 5: Pragg leads again as Carlsen crashes"
+      },
+      {
          "description" : "Both GM Fabiano Caruana and GM Irina Krush managed to qualify to the finals in day 6 of the American Cup, after drawing the second game and avoiding a playoff in their Champions Bracket matches against GM Leinier Dominguez and FM Alice Lee. In the Elimination Bracket, GM Levon Aronian defeated GM Ray Robson 2-0, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -112,22 +160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/american-cup-day-7-live-games-and-commentary",
          "pubDate" : "Tue, 26 Apr 2022 19:45:00 +0100",
          "title" : "American Cup, Day 7 - Live games and commentary"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Former Putin aide <strong>Arkady Dvorkovich</strong> is sailing towards a second term as <strong>FIDE</strong> President without a serious challenger in sight, but can chess still afford a Russian at its helm? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-04-26-at-15-34.1920.jpeg\" title=\"Arkady Dvorkovich speaking after being elected FIDE President in 2018 with Bachar Kouatly to his left. Peter Doggers / Chess.com\" data-title=\"Arkady Dvorkovich speaking after being elected FIDE President in 2018 with Bachar Kouatly to his left. (Peter Doggers / Chess.com)\" class=\"js-img\"> <",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/four-more-years-with-a-russian/",
-         "pubDate" : "Tue, 26 Apr 2022 18:57:41 +0100",
-         "title" : "Four more years?"
-      },
-      {
-         "description" : "The Meltwater Champions Chess Tour breaks new ground with the launch of its first fully in-person esports event, the Oslo Esports Cup, taking place on April 22-28. Carlsen heads an 8-player elite line-up. Participants will go head-to-head in one four-game match a day for seven days. Play begins daily at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-live",
-         "pubDate" : "Tue, 26 Apr 2022 17:05:00 +0100",
-         "title" : "Oslo Esports Cup, Round 5 - Live!"
       },
       {
          "description" : "After each having won their first game in the Winners&#39; Brackets, GMs Fabiano Caruana and Irina Krush secured the victories in their matches respectively against GM Lenier Dominguez and FM Alice Lee. Meanwhile, in the Elimination Brackets, GM Lev...",
@@ -376,14 +408,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-round-of-16-erigaisi-lazavik",
          "pubDate" : "Mon, 25 Apr 2022 13:34:00 -0700",
          "title" : "Erigaisi Stuns With Comeback: 2022 Junior Speed Chess Championship Round Of 16"
-      },
-      {
-         "description" : "The American Cup kicked off Wednesday in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Day 6 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
-         "pubDate" : "Mon, 25 Apr 2022 19:45:00 +0100",
-         "title" : "American Cup, Day 6 - Live games and commentary"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The open source chess server has <a href=\"https://lichess.org/blog/YmXOfxEAAB4AJh8A/announcing-the-lichess-world-championship\">announced</a> that its monthly <strong>Titled Arena</strong> tournaments will from on be called the <strong>Lichess World Championship</strong> following <a href=\"https://www.chess.com/article/view/chesscom-world-championship-2022\"><strong>Chess.com</strong>'s announcement</a> with <strong>FIDE</strong>'s apparent consent. </div> ",
@@ -832,14 +856,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-eight/",
          "pubDate" : "Fri, 22 Apr 2022 07:47:29 +0000",
          "title" : "A Foundation for Beginners Fifty Eight"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Through a marathon of rated games in China, <strong>Ding Liren</strong> has completed the requirement of 30 games between 1 June 2021 and 30 April 2022 to take over as highest rated player the spot of banned <strong>Sergey Karjakin</strong> at the <strong>Candidates Tournament</strong> in Madrid, unless the Russian appeal at CAS succeeds. Ding has also narrowly overtaken Firouzja in the <a href=\"https://2700chess.com\">rating list</a> and is number two again. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/ding-qualified-for-candidates/",
-         "pubDate" : "Fri, 22 Apr 2022 08:36:58 +0100",
-         "title" : "Ding qualified for Candidates"
       },
       {
          "description" : " Norway's world champion says he felt more comfortable before 2013 when he knew he was the best player and that later too much of his identity became linked to the championship title Magnus Carlsen has again stated that he is \"unlikely\" to defend his world title against the winner of the eight-player Candidates scheduled for Madrid in June and explained that he felt more comfortable in the years before 2013 when he was ranked No 1 but had not yet defeated India's Vishy Anand in the world title match in Chennai. Since then Carlsen has won five championship matches - twice against Anand, and one each against Russia's Sergey Karjakin, Fabiano Caruana of the US, and Russia's Ian Nepomniachtchi. ",
@@ -1826,14 +1842,6 @@ news_feed (
          "title" : "Winners crowned at 2022 US High School Chess Championship "
       },
       {
-         "description" : "In the 6th round of the Reykjavik Open, the local Grandmaster Johann Hjartarson failed to play what would have been the most incredible bishop underpromotion in chess history! It's an opportunity for us to discover, or rediscover, the five most amazing bishop underpromotions.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/the-5-most-amazing-bishop-underpromotions",
-         "pubDate" : "Mon, 11 Apr 2022 15:57:37 +0000",
-         "title" : "The 5 most amazing bishop underpromotions"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1952,22 +1960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1683",
          "pubDate" : "Wed, 06 Apr 2022 22:18:43 +0000",
          "title" : "Matthias Bluebaum wins European Individual Championship"
-      },
-      {
-         "description" : " This is part 2 of my interview with famous Coach, Grandmaster Ramesh RB. If you haven't read part1 yet, then make sure to check that one out first! Also, go check out Ramesh's Online Chess Training service, PROChessTraining. I've myself trained in the Elite Group. What you get for the little price you pay is [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/gm-ramesh-part-2/\">Gold-Coach GM Ramesh RB On Calculation And How To Train Part 2</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/gm-ramesh-part-2/",
-         "pubDate" : "Wed, 06 Apr 2022 14:00:00 +0000",
-         "title" : "Gold-Coach GM Ramesh RB On Calculation And How To Train Part 2"
-      },
-      {
-         "description" : "Junior chess remains extremely popular in England with a thriving educational and competitive scene. There are many organisations and service providers including for profits, charities...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/junior-development-pathway-consultation/",
-         "pubDate" : "Wed, 06 Apr 2022 12:05:17 +0000",
-         "title" : "Junior Development Pathway consultation"
       }
    ]
 }
