@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Levon Aronian and Fabiano Caruana will play the finals of the open section of the American Cup 2022. In the women's section Irina Krush is going to face the young talent Alice Lee. The games of the finals start at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
+         "pubDate" : "Wed, 27 Apr 2022 19:45:00 +0100",
+         "title" : "American Cup, Finals - Live games and commentary"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won a Titled Tuesday event for the third straight week on April 26 and was joined in the day&#39;s winners&#39; circle by GM Baadur Jobava after the late tournament. For the second time in three weeks, no one played quite consistently e...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-jobava-win-titled-tuesday-april-26-2022",
+         "pubDate" : "Wed, 27 Apr 2022 09:23:47 -0700",
+         "title" : "Nakamura Wins Titled Tuesday For Third Straight Week, Jobava Victorious In Late"
+      },
+      {
          "description" : "The Meltwater Champions Chess Tour breaks new ground with the launch of its first fully in-person esports event, the Oslo Esports Cup, taking place on April 22-28. Carlsen heads an 8-player elite line-up. Participants will go head-to-head in one four-game match a day for seven days. Play begins daily at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,6 +176,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/american-cup-day-7-live-games-and-commentary",
          "pubDate" : "Tue, 26 Apr 2022 19:45:00 +0100",
          "title" : "American Cup, Day 7 - Live games and commentary"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1711",
+         "pubDate" : "Tue, 26 Apr 2022 18:35:31 +0000",
+         "title" : "Invitation: 44th Chess Olympiad & FIDE Congress 2022"
       },
       {
          "description" : "After each having won their first game in the Winners&#39; Brackets, GMs Fabiano Caruana and Irina Krush secured the victories in their matches respectively against GM Lenier Dominguez and FM Alice Lee. Meanwhile, in the Elimination Brackets, GM Lev...",
@@ -399,7 +423,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/oslo-esports-cup-day-4",
          "pubDate" : "Mon, 25 Apr 2022 14:07:00 -0700",
-         "title" : "Carlsen Joins The Lead: Oslo Esports Cup 4"
+         "title" : "Carlsen Joins The Lead: Oslo Esports Cup Day 4"
       },
       {
          "description" : "The 2022 Junior Speed Chess Championship&#38;nbsp;presented by SIG saw a tenacious turnaround today: a nearly-down-and-out GM Arjun Erigaisi flipped a colossal deficit to overcome staunch IM Denis Lazavik.&#38;nbsp; Erigaisi upped the heat in the 3+1 se...",
@@ -1034,12 +1058,12 @@ news_feed (
          "title" : "Nakamura Wins Fourth Week Straight: Arena Kings Season 9 Week 11"
       },
       {
-         "description" : "Chess.com is delighted to announce the Chess.com World Championship (CWC), our biggest tournament ever. With a total prize fund of $1,000,000, including $500,000 for our final live event at the five-star 1 Hotel in Toronto, Canada, this is an even...",
+         "description" : "Chess.com is delighted to announce the Chess.com Global Championship (CGC), our biggest tournament ever. With a total prize fund of $1,000,000, including $500,000 for our final live event at the five-star 1 Hotel in Toronto, Canada, this is an eve...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-world-championship-million-dollar-announcement",
+         "link" : "https://www.chess.com/news/view/chesscom-global-championship-million-dollar-announcement",
          "pubDate" : "Wed, 20 Apr 2022 13:09:00 -0700",
-         "title" : "Announcing The $1,000,000 Chess.com World Championship"
+         "title" : "Announcing The $1,000,000 Chess.com Global Championship"
       },
       {
          "description" : "ECU Educational Commission releases a project &#8220;Chess in Education Portal&#8221;. The project has been developed since 2021 with the support of the FIDE Development fund. The &#8220;Chess in Education Portal&#8221; is a guide to creating chess projects. Whether you are organizing a federation, chess club, chess-themed event, a competitive tournament or a school program, it takes considerable effort&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-in-education-portal/\">Read More &#187;</a></span>",
@@ -1642,14 +1666,6 @@ news_feed (
          "title" : "Game of the Week #511: Praggnanandhaa vs Cornette"
       },
       {
-         "description" : "&#34;Ukraine is now on the frontline of the global war of freedom against tyranny,&#34; was one of several powerful quotes from GM Garry Kasparov in a TED Talk published on Tuesday&#38;mdash;the day before his 59th birthday today. The pro-democracy activist a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kasparov-ted-talk-russia-war-ukraine-putin",
-         "pubDate" : "Wed, 13 Apr 2022 09:59:00 -0700",
-         "title" : "Kasparov In TED Talk: 'Meeting Evil Halfway Is Still A Victory For Evil'"
-      },
-      {
          "description" : "\"Winter is Coming\" is the title of a book by Garry Kasparov published in 2015. In it he warned that Russia's descent from a nascent democracy into a full-blown dictatorship under Vladimir Putin made it a threat to the West and world peace. \"Garry could be forgiven for declaring: I bloody told you so,\" writes Malcolm Pein in the April 2022 edition of CHESS Magazine. In it he describes the consequences the Russian invasion of Ukraine has for the world of chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1824,14 +1840,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-pleasant-potential-of-pawn-majorities",
          "pubDate" : "Tue, 12 Apr 2022 09:00:00 +0100",
          "title" : "The pleasant potential of pawn majorities"
-      },
-      {
-         "description" : "Mads Andersen and Praggnanandhaa scored full points on Monday to join Max Warmerdam in the lead of the Reykjavik Open. In the final round, Andersen will have the white pieces against Warmerdam, while Pragg will face his compatriot Gukesh with black. Gukesh is one of seven players currently standing a half point behind the leaders. | Photo: Thorsteinn Magnusson",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-r8",
-         "pubDate" : "Tue, 12 Apr 2022 08:55:00 +0100",
-         "title" : "Reykjavik Open: Pragg and Andersen score"
       },
       {
          "description" : "",
