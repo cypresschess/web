@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1717",
+         "pubDate" : "Thu, 28 Apr 2022 19:14:27 +0000",
+         "title" : "Grand Chess Tour becomes part of the World Championship Cycle"
+      },
+      {
+         "description" : "Levon Aronian and Fabiano Caruana play in the final of the American Cup. Their first game ended in a draw, the second follows today. In the final of the women's tournament Irina Krush leads 1-0 against Alice Lee and is close to winning the tournament. The games of the finals start at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
+         "pubDate" : "Thu, 28 Apr 2022 19:45:00 +0100",
+         "title" : "American Cup, Finals - Live games and commentary"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1716",
+         "pubDate" : "Thu, 28 Apr 2022 16:50:11 +0000",
+         "title" : "FIDE Candidates Tournament: Drawings of lots and pairings"
+      },
+      {
+         "description" : "After nine weeks, the Collegiate Chess League&#39;s fourth regular season has finally come to an end, and the playoffs have begun! The teams&#39; standings have been finalized, and they have been placed in single elimination brackets to fight for their sh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-playoffs",
+         "pubDate" : "Thu, 28 Apr 2022 09:47:55 -0700",
+         "title" : "Collegiate Chess League Season 4: Playoffs"
+      },
+      {
          "description" : "Today, the Esports Cup in Oslo comes to a thrilling finish: before the seventh and final round World Champion Magnus Carlsen and the 16-year-old Indian Grandmaster Pragganandhaa share the lead with 12/18 and they both have chances to win the tournament. In round seven Carlsen plays against Shakhriyar Mamedyarov while Praggnanandhaa plays against Giri. Play starts at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1346,14 +1378,6 @@ news_feed (
          "title" : "EP 275- IM Ali Mortazavi- A CEO and Successful Stock Investor on how the Challenges of Chess Help Everything Else Seem Easier"
       },
       {
-         "description" : "&#34;If anyone expects or hopes that I will say yes, I have to prepare them for disappointment,&#34; said Magnus Carlsen in an&#38;nbsp;interview with Norway&#39;s biggest newspaper on Monday. The world champion repeated his earlier statements that he is not sure...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-reiterates-uncertainty-of-defending-world-title",
-         "pubDate" : "Tue, 19 Apr 2022 05:37:00 -0700",
-         "title" : "Carlsen Reiterates Uncertainty Of Defending World Title"
-      },
-      {
          "description" : "The Chess Academy of Armenia organizes four international chess events during the Summer in Armenia: 13th Karen Asrian Memorial (6th-16th June, Yerevan, Armenia) 1st International Youth Chess Festival (17th-26th June, Yerevan, Armenia) Chess Summer Camp with renowned chess players and Grandmasters (29th June 6th July, Aghveran, Armenia) Stepan Avagyan International Open Chess Tournament (7th-16th July, Jermuk, Armenia)&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/international-chess-events-in-armenia/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1792,14 +1816,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/player-types-an-interview-with-karsten-mueller",
          "pubDate" : "Wed, 13 Apr 2022 10:00:00 +0100",
          "title" : "Player types - an interview with Karsten M&uuml;ller"
-      },
-      {
-         "description" : "The Grand Chess Tour (GCT) has confirmed the seven wildcard players for the Superbet Chess Classic Romania and the Superbet Rapid & Blitz Poland, which will take place from 4 May to 14 May. The first leg of the GCT, the Superbet Chess Classic Romania will include all nine full tour players and one wildcard player, Romanian Grandmaster Bogdan-Daniel Deac. The Superbet Chess Classic Romania is sponsored by Superbet Foundation, One United and First Bank and features a 10 player round-robin battle for a total of $350,000 in prize money. Press Release...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-superbet-chess-classic-romania-superbet-rapid-blitz-poland-wildcards-announced",
-         "pubDate" : "Wed, 13 Apr 2022 08:58:05 +0100",
-         "title" : "The Superbet Chess Classic Romania & Superbet Rapid & Blitz Poland Wildcards Announced"
       },
       {
          "description" : "ECU 101 The SMART Method to Teach Chess Seminar will take place Online on 11th and 12th June 2022. Course information: Course ID: ECU101 Duration: 2 days Dates: 11-12 June 2022 Time: Please note, all times are in London Time Day1 09.00 12.00 13.00 16.00 Day2 09.00 12.00 13.00 16.00 Language: English Fee: &pound;150 Early bird: (Register until the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu101-the-smart-method-to-teach-chess/\">Read More &#187;</a></span>",
