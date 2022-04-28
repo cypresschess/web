@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Junior Speed Chess Championship by SIG continued today with a round of 16 match between GM Raunak Sadhwani and IM Mahammad Muradli, one that featured one of the greatest comebacks in Speed Chess Championship history. The early sections ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-round-of-16-sadhwani-muradli",
+         "pubDate" : "Thu, 28 Apr 2022 16:22:20 -0700",
+         "title" : "Muradli's Miraculous Comeback: 2022 Junior Speed Chess Championship Round Of 16"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1718",
+         "pubDate" : "Thu, 28 Apr 2022 21:37:31 +0000",
+         "title" : "Duda comes from behind to win Oslo Esports Cup"
+      },
+      {
+         "description" : "Polish no. 1 Jan-Krzysztof Duda is the shock winner of the Oslo Esports Cup after his last round victory over Eric Hansen proved enough to claim the title when Magnus Carlsen and Praggnanandhaa crashed to defeat. Both leaders at the start of the day lost two games, with Magnus falling to Shakhriyar Mamedyarov while Anish Giri took down Praggnanandhaa. Liem Le could still have taken the title ahead of Duda, but fell just short of the 3 points he needed when he failed to beat Jorden van Foreest in rapid chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/duda-wins-oslo-esports-cup-as-carlsen-pragg-collapse",
+         "pubDate" : "Thu, 28 Apr 2022 21:04:21 +0000",
+         "title" : "Duda wins Oslo Esports Cup as Carlsen & Pragg collapse"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.28<br /> USChessChamps.com FINAL ROUND | GAME 2<br /> Levon Aronian vs. Fabiano Caruana FINAL ROUND | GAME 2<br /> Alice Lee vs. Irina Krush </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-day-9\"><img ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1314,14 +1338,6 @@ news_feed (
          "title" : "Jan's Opening Clinic 27"
       },
       {
-         "description" : "The 2022 Junior Speed Chess Championship&#38;nbsp;presented by SIG continued today with the return of the two-time champion, GM Nihal Sarin, as he took on IM Aronyak Ghosh in their round of 16 match. Nihal was in a fighting mood and pushed for a win i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-round-of-16-nihal-ghosh",
-         "pubDate" : "Tue, 19 Apr 2022 17:33:39 -0700",
-         "title" : "Nihal Topples Ghosh: 2022 Junior Speed Chess Championship Round Of 16"
-      },
-      {
          "description" : "With over 1,300 articles, the Opening Encyclopaedia 2022 covers the entire range of openings. A huge fund of ideas and high-quality analyses! In the new edition, the number of articles has increased - 66 new opening articles and 388 new opening overviews have been added compared to the previous year. The following article shows you how to \"Find Ideas for your Repertoire\"!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1728,14 +1744,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fagernes-open-2022-r5",
          "pubDate" : "Thu, 14 Apr 2022 11:55:00 +0100",
          "title" : "Fagernes Open: Crowded at the top"
-      },
-      {
-         "description" : "World Chess Champion Magnus Carlsen will take on seven rivals in the Oslo Esports Cup, the first time the $1.6 million Meltwater Champions Chess Tour has featured all players competing from the same venue. The $210,000 event, which starts Friday April 22nd, includes World Cup winner Jan-Krzysztof Duda, who pushed Magnus to tiebreaks in the Charity Cup, and 16-year-old Indian prodigy Praggnanandhaa, who gets one of four wildcards to the first of three Majors on the $1.6 million Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-to-take-on-7-stars-in-oslo-esports-cup",
-         "pubDate" : "Thu, 14 Apr 2022 09:24:55 +0000",
-         "title" : "Magnus Carlsen to take on 7 stars in Oslo Esports Cup"
       },
       {
          "description" : "How do you build an opening repertoire and learn the variations? Fritz 18 offers many possibilities for this, and you can even compare your learning success with other users. In a short series of tutorials, we show you how to do it. In the first episode, we deal with learning and testing the opening repertoire. The next episodes will deal with building the opening repertoire. With the new \"Easy Game\" mode in Fritz 18, you can check your knowledge of an existing repertoire, and you can replay and practise it. Let's go!",
