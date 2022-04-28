@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, the Esports Cup in Oslo comes to a thrilling finish: before the seventh and final round World Champion Magnus Carlsen and the 16-year-old Indian Grandmaster Pragganandhaa share the lead with 12/18 and they both have chances to win the tournament. In round seven Carlsen plays against Shakhriyar Mamedyarov while Praggnanandhaa plays against Giri. Play starts at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-live",
+         "pubDate" : "Thu, 28 Apr 2022 17:05:00 +0100",
+         "title" : "Oslo Esports Cup, Round 7 - Live!"
+      },
+      {
          "description" : "English Chess Federation announces English Championships in May, the British Championship in August, and the relaunched ECF Grand Prix from July 2022 to June 2023, all supported by Chessable. The first in the series of Chessable supported events will be the English Championships which are scheduled to take place in May, with the English Seniors []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/the-american-cup-day-8",
-         "pubDate" : "Thu, 28 Apr 2022 06:35:24 -0700",
+         "pubDate" : "Thu, 28 Apr 2022 06:35:00 -0700",
          "title" : "Krush Dominates In Championship Bracket: The American Cup Day 8"
       },
       {
@@ -1808,14 +1816,6 @@ news_feed (
          "link" : "https://www.europechess.org/praggnanandhaa-wins-reykjavik-open-2022/",
          "pubDate" : "Wed, 13 Apr 2022 07:35:38 +0000",
          "title" : "Praggnanandhaa wins Reykjavik Open 2022"
-      },
-      {
-         "description" : "Praggnanandhaa entered the final round of the Reykjavik Open sharing the lead with Max Warmerdam and Mads Andersen. Warmerdam and Andersen played on top board and signed a 16-move draw, while Pragg's position deteriorated slowly but surely in his game against Gukesh. The latter eventually reached a winning position, but back-to-back blunders not only gave away his advantage but even allowed his opponent to get the full point. Thus, 16-year-old Praggnanandhaa became the ourtight winner of the event! | Photo: Hallfr&iacute;ður Sigurðard&oacute;ttir (from round 4)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2022-r9",
-         "pubDate" : "Tue, 12 Apr 2022 23:50:00 +0100",
-         "title" : "Pragg beats Gukesh after sudden twist, wins Reykjavik Open"
       },
       {
          "description" : "",
