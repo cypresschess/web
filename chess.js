@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The finals of the American Cup kicked off with the first of two classical games in the matches between Aronian - Caruana and Krush - Lee. In the Open, Aronian (pictured) managed to build up a winning endgame advantage but faltered at the last moment, allowing Caruana to escape with a draw. Meanwhile in the Women's Field, Krush displayed her strategic skill once again, outplaying Lee in the early opening and middlegame to take a 1-0 lead in the match. | Photo Courtesy of Saint Louis Chess Club, Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-day-8-aronian-and-caruana-draw-krush-wins-against-lee",
+         "pubDate" : "Thu, 28 Apr 2022 07:33:13 +0100",
+         "title" : "American Cup, Day 8: Aronian and Caruana draw, Krush wins against Lee"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana faces Levon Aronian in Game 1 of 2 of The American Cup 2022 final. Also, in the women&#039;s tournament, Irina Krush and Alice Lee begin their final match. Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.27<br /> USChessChamps.com FINAL ROUND | GAME 1<br /> Fabiano Caruana vs. Levon Aronian FINAL ROUND | GAME 1<br /> Irina Krush vs. Alice Lee </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-c",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1842,14 +1850,6 @@ news_feed (
          "title" : "Chess 2022 - February Exotic Wackos"
       },
       {
-         "description" : "Between 16 and 24 June 1954 a match was held in New York's Hotel Roosevelt between the Soviet and the US chess teams. The eight-board, four-round match ended with a decisive 20-12 victory for the Soviets. In an article for the New York Times ahead of the match, US chess champion Samuel Reshevsky shared his thoughts on how the Soviets (whom he kept calling 'the Russians') became so good at chess and why this was so important to them. The Britisch Chess Magazine have reproduced this article, which shares a view on the role chess had, both as an internal and external weapon, for the Soviets.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bcm-reshevsky-on-russian-chess",
-         "pubDate" : "Tue, 12 Apr 2022 09:05:00 +0100",
-         "title" : "BCM: Reshevsky on Russian chess"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1960,14 +1960,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/what-do-carlsen-sutovsky-mr-dodgy-and-liren-have-in-common/",
          "pubDate" : "Thu, 07 Apr 2022 12:03:21 +0000",
          "title" : "What do Carlsen, Sutovsky, Mr. Dodgy, and Liren have in common?"
-      },
-      {
-         "description" : "Follow these links &#8212; https://chess24.com/en/watch/live-tournaments/ecf-womens-norm-event-2022#live https://chess24.com/en/watch/live-tournaments/1st-she-plays-to-win-international-2022#live (image courtesy of Netflix)",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-womens-norm-event-2022-she-plays-to-win/",
-         "pubDate" : "Thu, 07 Apr 2022 07:00:05 +0000",
-         "title" : "ECF Women's Norm Event 2022/She Plays To Win"
       }
    ]
 }
