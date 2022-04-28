@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana faces Levon Aronian in Game 1 of 2 of The American Cup 2022 final. Also, in the women&#039;s tournament, Irina Krush and Alice Lee begin their final match. Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.27<br /> USChessChamps.com FINAL ROUND | GAME 1<br /> Fabiano Caruana vs. Levon Aronian FINAL ROUND | GAME 1<br /> Irina Krush vs. Alice Lee </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-8",
+         "pubDate" : "Thu, 28 Apr 2022 01:37:43 +0000",
+         "title" : "The American Cup 2022: Day 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Levon Aronian after his draw with Fabiano Caruana in Game 1 of their final match at The American Cup 2022. 2022.04.27<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-aronian-playing-draw-tomorrow-day-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PM8SLUTd9XI.jpg?itok=3f43KGwh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/levon-aronian-playing-draw-tomorrow-day-8",
+         "pubDate" : "Thu, 28 Apr 2022 01:37:43 +0000",
+         "title" : "Levon Aronian: Playing for a Draw Tomorrow | Day 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Grand Chess Tour continues for 2022 in magnificent fashion with $1.4 million total prize fund allocated between 5 events. It will once again feature 2 classical chess tournaments and 3 rapid &amp; blitz tournaments spanning across Europe and United States. With the addition of an new event in Warsaw, Poland, fans can look forward to another entertaining and thrilling season. GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-grand-chess-tou",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-grand-chess-tour-promo",
+         "pubDate" : "Thu, 28 Apr 2022 01:37:43 +0000",
+         "title" : "2022 Grand Chess Tour | PROMO"
+      },
+      {
          "description" : "GMs Magnus Carlsen and Rameshbabu Praggnanandhaa&#38;nbsp;once again share the lead with 12 points after the penultimate day of play. They are followed closely by GMs Jan-Krzysztof Duda and Le Quang Liem, both with 11 points. Behind them, we find GM&#38;n...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -242,14 +266,6 @@ news_feed (
          "title" : "Teen star Praggnanandhaa in pole position"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.20<br /> USChessChamps.com ROUND 1 | GAME 1<br /> Levon Aronian vs. Ray Robson<br /> Dominguez vs. Sam Shankland<br /> Wesley So vs. Sam Sevian<br /> Fabiano Caruana vs. Jeffery Xiong </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-5-lichessorg-0",
-         "pubDate" : "Tue, 26 Apr 2022 19:36:50 +0000",
-         "title" : "American Cup 2022: Day 5 | lichess.org"
-      },
-      {
          "description" : "The American Cup kicked off Wednesday in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Day 7 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -402,14 +418,6 @@ news_feed (
          "title" : "ChessBase for Coaches: The Thornton Trap"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.25<br /> USChessChamps.com ROUND 3 | GAME 2<br /> Dominguez vs. Fabiano Caruana<br /> PLUS PLAYOFFS, IF NECESSARY RAPID ELIMINATION MATCH<br /> Ray Robson vs. Levon Aronian ROUND 3 | GAME 2<br /> Alice Lee vs. Irina Krush<br /> PLUS PLAYOFFS, IF NECESSARY </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-vide",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-6",
-         "pubDate" : "Tue, 26 Apr 2022 04:36:31 +0000",
-         "title" : "The American Cup 2022: Day 6"
-      },
-      {
          "description" : "Please find the link for live games links for National Under-10 National Under-10 Girls (34th MPL National Under-10 Girls Chess Championship 2022) Link https://view.livechesscloud.com#cb60138f-6fcc-4c3e-b0d8-726c01780f9e National",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -424,14 +432,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/team-magnus-on-carlsens-last-rodeo",
          "pubDate" : "Tue, 26 Apr 2022 03:22:29 +0000",
          "title" : "Team Magnus on Carlsen's \"last rodeo\""
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Tatev Abrahamyan after her win over Begim Tokhirjonova in the playoff of their elimination match. 2022.04.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tatev-abrahamyan-back-and-forth-begim-day-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tCWe-jM8znI.jpg?itok=XpDTcFDr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tatev-abrahamyan-back-and-forth-begim-day-6",
-         "pubDate" : "Tue, 26 Apr 2022 01:36:32 +0000",
-         "title" : "Tatev Abrahamyan: Back-and-Forth with Begim | Day 6"
       },
       {
          "description" : "Magnus Carlsen upped his game for the big occasion today as he ended young pretender Rameshbabu Praggnanandhaa&#x2019;s unbeaten streak to go level at the top of the Oslo Esports Cup leaderboard. The World Champion shrugged off the illness he has suffered since the start of the&#xA0;Meltwater Champions Chess Tour&#xA0;event to brush aside the challenge of []",
