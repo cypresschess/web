@@ -2,6 +2,110 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "English Chess Federation announces English Championships in May, the British Championship in August, and the relaunched ECF Grand Prix from July 2022 to June 2023, all supported by Chessable. The first in the series of Chessable supported events will be the English Championships which are scheduled to take place in May, with the English Seniors []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-english-championships-2022/",
+         "pubDate" : "Thu, 28 Apr 2022 14:07:11 +0000",
+         "title" : "Chessable English Championships 2022"
+      },
+      {
+         "description" : "After intense rapid and blitz play action in the Elimination Brackets on Tuesday, the sanity of the Championship Brackets returned on Wednesday with GMs Fabiano Caruana and Levon Aronian meeting in Group A while Group B saw a repeat of GM&#38;nbsp;Iri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-american-cup-day-8",
+         "pubDate" : "Thu, 28 Apr 2022 06:35:24 -0700",
+         "title" : "Krush Dominates In Championship Bracket: The American Cup Day 8"
+      },
+      {
+         "description" : "Arne loves to attack, as you probably know by now. But for many players, attacking is a rather difficult task to fulfil. Svitlana shows us how to attack from scratch. One move in a certain position is all it needs. The purpose, the strategy, and the following tactics are working hand in hand, as Svitlana points out. We also take a look at one of her recently played games OTB.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-38",
+         "pubDate" : "Thu, 28 Apr 2022 13:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - How to start an attack from scratch"
+      },
+      {
+         "description" : "In the long-distance duel between Magnus Carlsen and Praggnanandhaa in the Oslo Esports Cup, round 6 went well for the World Champion: He won his match against Eric Hansen, while Praggnanandhaa lost against Jan-Krzysztof Duda. Before the seventh and last round Praggnanandhaa and Carlsen share the lead with with 12/18 each, but Duda also has theoretical chances to win the tournament. | Photos and pictures: Play Magnus Group",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oslo-esports-cup-round-6-carlsen-wins-praggnanandhaa-loses",
+         "pubDate" : "Thu, 28 Apr 2022 12:39:34 +0100",
+         "title" : "Oslo Esports Cup, Round 6: Carlsen wins, Praggnanandhaa loses"
+      },
+      {
+         "description" : "After global (no pun intended) pressure from the chess community, Chess.com rectified and changed the title of their new event from World Championship to Global Championship. On Twitter with a short video titled &#8220;global > world&#8221; IM Danny Rensch tries to downplay the seriousness of the situation by taking a humorous approach mirroring the creative []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-rectifies-changes-title-of-the-event-from-world-championship-to-global-championship/",
+         "pubDate" : "Thu, 28 Apr 2022 11:08:16 +0000",
+         "title" : "Chess.com rectifies, changes title of the event from World Championship to Global Championship"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen was critical of his play in the penultimate round of the Oslo Esports Cup, but his 2.5:0.5 win over Eric Hansen was enough to take him back into the lead after Praggnanandhaa lost by the same scoreline to Jan-Krzysztof Duda. Liem Le is also in the hunt for 1st place after defeating Anish Giri with some help from a mouse-slip, while Shakhriyar Mamedyarov pulled off a comeback when Jorden van Foreest missed countless chances to wrap up victory.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/oslo-esports-cup-6-carlsen-back-in-front-as-duda-stops-pragg",
+         "pubDate" : "Thu, 28 Apr 2022 11:06:57 +0000",
+         "title" : "Oslo Esports Cup 6: Carlsen back in front as Duda stops Pragg"
+      },
+      {
+         "description" : "Western Asian Youth Chess Championship 2022 will be held at Maldives from 15-23 June 2022 and players participated in the National Age Group Chess Championships-2022",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/western-asian-youth-chess-championship-2022/",
+         "pubDate" : "Thu, 28 Apr 2022 10:42:54 +0000",
+         "title" : "Western Asian Youth Chess Championship 2022"
+      },
+      {
+         "description" : "Magnus Carlsen and Rameshbabu Praggnanandhaa will duke it out for the Oslo Esports Cup title tomorrow after India's&#xA0;boy wonder finally cracked under pressure. Three points ahead going into the penultimate round of the $210,000 event, 16-year-old Pragg&#xA0;suffered a painful quickfire reverse against Poland's World Cup winner Jan-Krzysztof Duda. It handed world No.1 Carlsen a golden []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-and-pragg-neck-in-neck-before-the-final-round-of-the-oslo-esports-cup/",
+         "pubDate" : "Thu, 28 Apr 2022 10:22:51 +0000",
+         "title" : "Carlsen and Pragg neck in neck before the final round of the Oslo Esports Cup"
+      },
+      {
+         "description" : "After the&#xA0;Airthings Masters 2022&#xA0;and the&#xA0;Charity Cup 2022, both won by Magnus Carlsen, the Meltwater Champions Chess Tour breaks new ground next week with the launch of the first fully in-person esports event in chess &#x2013; the Oslo Esports Cup. A star-studded gala event will open the tournament as Norway&#x2019;s World Champion&#xA0;Magnus Carlsen&#xA0;goes for an unprecedented []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/oslo-esports-cup-live/",
+         "pubDate" : "Thu, 28 Apr 2022 10:21:00 +0000",
+         "title" : "Oslo Esports Cup LIVE"
+      },
+      {
+         "description" : "The Queens' Online Chess Festival 2022, a series of continental women's online blitz tournaments, starts on June 05, 2022. The event organized by FIDE Commission",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/queens-online-chess-festival-2022/",
+         "pubDate" : "Thu, 28 Apr 2022 10:01:42 +0000",
+         "title" : "Queens' Online Chess Festival 2022"
+      },
+      {
+         "description" : "Those who have learned their variations with the Fritz Opening Drill may start with the practical exercise: the training game against Fritz 18. For good reason: with its \"Evolving Genius\" mode, Fritz 18 is the ideal partner for practice-oriented opening training. Fritz adjusts its playing strength and you quickly see whether you can play the positions resulting from the newly learned opening. Fritz 18 guides you through the training games as a trainer, gives intelligent hints and thus ensures a motivating sense of achievement. The best practical training for a real game. ChessBase seminar leader Martin Fischer shows how it works and that this opening training is really fun.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tutorial-april-2022-opening-training-with-fritz18-part-02-sparring",
+         "pubDate" : "Thu, 28 Apr 2022 10:00:00 +0100",
+         "title" : "Opening training with Fritz 18 - part II: sparring"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1715",
+         "pubDate" : "Thu, 28 Apr 2022 08:57:42 +0000",
+         "title" : "American Cup: Day 8 Recap"
+      },
+      {
+         "description" : "The 1st Chessable Sunway Formentera Chess Festival starts tomorrow in Formentera the smallest Spanish Balearic island in the Mediterranean Sea. The Festival takes place from April 29 to May 8 with a total prize fund of 20.500 euros and a wide range of events. The main events are Open tournaments: A and B, being []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1st-chessable-sunway-formentera-chess-festival/",
+         "pubDate" : "Thu, 28 Apr 2022 08:22:44 +0000",
+         "title" : "1st Chessable Sunway Formentera Chess Festival"
+      },
+      {
          "description" : "The finals of the American Cup kicked off with the first of two classical games in the matches between Aronian - Caruana and Krush - Lee. In the Open, Aronian (pictured) managed to build up a winning endgame advantage but faltered at the last moment, allowing Caruana to escape with a draw. Meanwhile in the Women's Field, Krush displayed her strategic skill once again, outplaying Lee in the early opening and middlegame to take a 1-0 lead in the match. | Photo Courtesy of Saint Louis Chess Club, Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,8 +142,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/oslo-esports-cup-day-6",
-         "pubDate" : "Wed, 27 Apr 2022 16:59:25 -0700",
-         "title" : "Carlsen's Back In The Lead: Oslo Esports Cup Day 6"
+         "pubDate" : "Wed, 27 Apr 2022 16:59:00 -0700",
+         "title" : "Carlsen Back In The Lead: Oslo Esports Cup Day 6"
       },
       {
          "description" : "",
@@ -110,16 +214,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/the-american-cup-day-7",
-         "pubDate" : "Wed, 27 Apr 2022 11:50:19 -0700",
+         "pubDate" : "Wed, 27 Apr 2022 11:50:00 -0700",
          "title" : "Aronian, Lee Win In Elimination Brackets: The American Cup Day 7"
-      },
-      {
-         "description" : "Levon Aronian and Fabiano Caruana will play the finals of the open section of the American Cup 2022. In the women's section Irina Krush is going to face the young talent Alice Lee. The games of the finals start at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
-         "pubDate" : "Wed, 27 Apr 2022 19:45:00 +0100",
-         "title" : "American Cup, Finals - Live games and commentary"
       },
       {
          "description" : "GM Hikaru Nakamura won a Titled Tuesday event for the third straight week on April 26 and was joined in the day&#39;s winners&#39; circle by GM Baadur Jobava after the late tournament. For the second time in three weeks, no one played quite consistently e...",
@@ -128,14 +224,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-jobava-win-titled-tuesday-april-26-2022",
          "pubDate" : "Wed, 27 Apr 2022 09:23:47 -0700",
          "title" : "Nakamura Wins Titled Tuesday For Third Straight Week, Jobava Victorious In Late"
-      },
-      {
-         "description" : "The Meltwater Champions Chess Tour breaks new ground with the launch of its first fully in-person esports event, the Oslo Esports Cup, taking place on April 22-28. Carlsen heads an 8-player elite line-up. Participants will go head-to-head in one four-game match a day for seven days. Play begins daily at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-live",
-         "pubDate" : "Wed, 27 Apr 2022 17:05:00 +0100",
-         "title" : "Oslo Esports Cup, Round 6 - Live!"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Former Putin aide <strong>Arkady Dvorkovich</strong> is sailing towards a second term as <strong>FIDE</strong> President without a serious challenger in sight, but can chess still afford a Russian at its helm? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-04-26-at-15-34.1920.jpeg\" title=\"Arkady Dvorkovich speaking after being elected FIDE President in 2018 with Bachar Kouatly to his left. Peter Doggers / Chess.com\" data-title=\"Arkady Dvorkovich speaking after being elected FIDE President in 2018 with Bachar Kouatly to his left. (Peter Doggers / Chess.com)\" class=\"js-img\"> <",
@@ -338,30 +426,6 @@ news_feed (
          "title" : "FIDE silent on the creation of another \"world championship\""
       },
       {
-         "description" : "Read more: &#8220;Chess.com&#8221; world championship might open up a Pandora's box / Video announcement of the &#8220;Chess.com world championship&#8221; / FIDE silent on the creation of another &#8220;world championship&#8221;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-world-championship-announcement-video/",
-         "pubDate" : "Tue, 26 Apr 2022 11:19:27 +0000",
-         "title" : "\"Chess.com world championship\" announcement VIDEO"
-      },
-      {
-         "description" : "MrDodgy Invitational 3.0 is going to take place in 2022. The announcement comes from the Tournament Director and CEO of Chefable, MrDogy himself. A real upgrade in the event is planned, changing the motto from &#8220;Bigger Better Harder&#8221; to &#8220;Bigger, Better, Realer&#8220;. MrDodgy Invitational has always been the most important event in chess. Now that []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mrdodgy-invitational-2022/",
-         "pubDate" : "Tue, 26 Apr 2022 11:05:00 +0000",
-         "title" : "MrDodgy Invitational 2022"
-      },
-      {
-         "description" : "Continuing the amazing line of April Fool&#x2019;s humor renaming Chessable ot Chefable, the @ChefableWTF announced, &#x201C;We&#x2019;re pleased to announce the first-ever Chefable World Champignonship! This is YOUR chance to compete with the best eaters in the world to win ONE BILLION MUSHROOMS!&#x201D; If you wonder about the mushrooms, here are some links to digest the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/firstever-chefable-world-champignonship-tweetoftheday/",
-         "pubDate" : "Tue, 26 Apr 2022 11:01:00 +0000",
-         "title" : "First ever Chefable World Champignonship! #TweetOftheDay"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -442,14 +506,6 @@ news_feed (
          "title" : "Team Magnus on Carlsen's \"last rodeo\""
       },
       {
-         "description" : "Magnus Carlsen upped his game for the big occasion today as he ended young pretender Rameshbabu Praggnanandhaa&#x2019;s unbeaten streak to go level at the top of the Oslo Esports Cup leaderboard. The World Champion shrugged off the illness he has suffered since the start of the&#xA0;Meltwater Champions Chess Tour&#xA0;event to brush aside the challenge of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-praggnanandhaa-30-at-oslo-esports-cup/",
-         "pubDate" : "Mon, 25 Apr 2022 22:29:25 +0000",
-         "title" : "Carlsen - Praggnanandhaa 3:0 at Oslo Esports Cup"
-      },
-      {
          "description" : "Magnus Carlsen has caught Praggnanandhaa in the lead of Oslo Esports Cup after scoring a crushing 3:0 victory in their Round 4 match. The World Champion, who has now won five rapid games in a row, said afterwards, \"I am the best - I don't have any doubt about that, but you gotta prove it when you play!\" Liem Quang Le also won with a game to spare, against Eric Hansen, while Jorden van Foreest and Jan-Krzysztof Duda both won blitz playoffs 2:0, against Anish Giri and Shakhriyar Mamedyarov.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -464,14 +520,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1709",
          "pubDate" : "Mon, 25 Apr 2022 21:32:24 +0000",
          "title" : "Carlsen crushes Praggnanandhaa to go joint-top of leaderboard"
-      },
-      {
-         "description" : "The 15th edition of the Serbian National Youth Chess Festival commenced today in Novi Sad with the Serbian Youth Rapid Chess Championship 2022. The festival features rapid, blitz and classical chess events, taking place from April 26 May 3. 186 kids compete in the rapid and blitz championships, and starting Wednesday is the main []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/more-than-200-kids-taking-part-in-serbian-youth-chess-championship-2022/",
-         "pubDate" : "Mon, 25 Apr 2022 21:27:35 +0000",
-         "title" : "More than 200 kids taking part in Serbian Youth Chess Championship 2022"
       },
       {
          "description" : "After day four&#38;mdash;halfway through the event&#38;mdash;GM&#38;nbsp;Magnus Carlsen&#38;nbsp;shares the lead with GM&#38;nbsp;Rameshbabu Praggnanandhaa at nine points after defeating him in their match today. GMs&#38;nbsp;Jan-Krzysztof Duda&#38;nbsp;and Le Quang Liem&#38;nbs...",
@@ -1338,14 +1386,6 @@ news_feed (
          "title" : "FIDE announces long-term cooperation with the Scheinberg family"
       },
       {
-         "description" : " IM Christopher Yoo was victorious in his round of 16 match today against GM Rameshbabu Praggnanandhaa in the&#38;nbsp;2022 Junior Speed Chess Championship&#38;nbsp;presented by SIG. Few points separated the players for the majority of the match, but i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-round-of-16-praggnanandhaa-yoo",
-         "pubDate" : "Mon, 18 Apr 2022 18:12:00 -0700",
-         "title" : "Yoo Eliminates Pragg: 2022 Junior Speed Chess Championship Round Of 16"
-      },
-      {
          "description" : "Gukesh won his first classical tournament of the year at the 48th edition of the La Roda International Open. He obtained an unbeaten 8/9 score to finish a half point ahead of the competition. Haik Martirosyan from Armenia secured second place as the only player who got 7&frac12;/9 points. Five players scored 7/9, with Praggnanandhaa and Raunak Sadhwani getting third and fourth places respectively on tiebreaks. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1794,28 +1834,12 @@ news_feed (
          "title" : "FIDE Online Arena Weekly Digest"
       },
       {
-         "description" : "The first 10 videos of chess24's Inside Team Magnus, an exclusive 10-hour video series for Premium members on Magnus Carlsen's World Championship match against Ian Nepomniachtchi, were released last month. Today you can watch three more behind-the-scenes episodes with Peter Heine Nielsen, Jan Gustafsson and Laurent Fressinet.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/team-magnus-on-how-carlsen-clinched-5th-title",
-         "pubDate" : "Tue, 12 Apr 2022 18:30:25 +0000",
-         "title" : "Team Magnus on how Carlsen clinched his 5th title"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90806347.cms\" />Young Indian Grandmaster R Pragganandhaa on Tuesday won the prestigious Reykjavik Open chess tournament with 7.5 points from nine rounds. The 16-year-old Pragganandhaa defeated compatriot GM D Gukesh in the final round to emerge sole winner.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-praggnanandhaa-wins-reykjavik-open-chess-tournament/articleshow/90806347.cms",
          "pubDate" : "Tue, 12 Apr 2022 17:16:36 +0000",
          "title" : "Indian GM Praggnanandhaa wins Reykjavik Open chess"
-      },
-      {
-         "description" : "In his \"Weekly Show\" Lawrence Trent focuses on the Reykjavik Open and the featured game is Pragg's destruction of Cornette in Round 8. Lawrence will also briefly talk about Ding Liren and the Candidates. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-the-reykjavik-open",
-         "pubDate" : "Tue, 12 Apr 2022 18:00:00 +0100",
-         "title" : "The Weekly Show: The Reykjavik Open"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2d5e3eb6-e3d6-4149-aa8e-256f367a4181/Paul3.jpg\" data-image-dimensions=\"1736x873\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"625588aa13e4b945b461f696\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2d5e3eb6-e3d6-4149-aa8e-256f367a4181/Paul3.jpg?format=1000w\" /> </figure> <p class=\"\">The Perpetual Chess <a href=\"https://www.perpetualchesspod.com/adultimprover\" target=\"_blank\">Adult Improver Series</a> is back, but this time with a twist. We feature a senior gu",
@@ -1944,22 +1968,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/apr/08/chess-wesley-so-wins-in-berlin-but-laments-failure-to-qualify-for-candidates",
          "pubDate" : "Fri, 08 Apr 2022 07:00:15 +0000",
          "title" : "Chess: Wesley So wins in Berlin but laments failure to qualify for Candidates"
-      },
-      {
-         "description" : " The 2022 O2C Doeberl Cup starts in a week. At this stage there are 347 players entered across the 4 sections, easily breaking last years record of 330 players. At the moment the Minor is full (with 120 players), while the other events still have a few places available (the Premier has 19). For anyone wondering why we have these limits in place, venue size and equipment are the major considerations. However there is also the issue of tournament management, with 7 round events having a natural limit on the size of the field. Even with accelerated pairings, having more than 128 players in any event makes finding a clear winner tricky. The Premier section starts next Thursday (14th April), with",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-1-week-to-go.html",
-         "pubDate" : "Thu, 07 Apr 2022 13:49:00 +0000",
-         "title" : "2022 O2C Doeberl Cup - 1 week to go"
-      },
-      {
-         "description" : " <p class=\"lead\">The answer nowadays is simple. GM Sergey Karjakin is the current common ground of the World Champion Magnus Carlsen, the Director-General of FIDE Emil Sutovsky, Twitter's sensation Mr.Dodgy, and the Chinese GM Ding Liren. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/N_R04072.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">World Chess</div> </div> <h2>Carlsen on Karjakin</h2> In an interview for <a href=\"https://www.vg.no/sport/i/Or7lob/magnus-carlsen-usikker-paa-utestengelsen-av-karjakin-oensker-aa-bli-martyr\">the Norwegian newspaper VG,</a> Magnus Carlsen stated that he disagrees with Karjakin, but he is not sure whethe",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/what-do-carlsen-sutovsky-mr-dodgy-and-liren-have-in-common/",
-         "pubDate" : "Thu, 07 Apr 2022 12:03:21 +0000",
-         "title" : "What do Carlsen, Sutovsky, Mr. Dodgy, and Liren have in common?"
       }
    ]
 }
