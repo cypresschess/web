@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.28<br /> USChessChamps.com FINAL ROUND | GAME 2<br /> Levon Aronian vs. Fabiano Caruana FINAL ROUND | GAME 2<br /> Alice Lee vs. Irina Krush </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-day-9\"><img ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-9",
+         "pubDate" : "Thu, 28 Apr 2022 19:38:17 +0000",
+         "title" : "The American Cup 2022: Day 9"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -376,14 +384,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/alice-lee-armageddon-was-%E2%80%9C-bit%E2%80%9D-chaotic-day-7",
          "pubDate" : "Wed, 27 Apr 2022 01:37:00 +0000",
          "title" : "Alice Lee: Armageddon was \"a Bit\" Chaotic | Day 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.26<br /> USChessChamps.com ELIMINATION MATCH<br /> Dominguez vs. Levon Aronian ELIMINATION MATCH<br /> Alice Lee vs. Abrahamyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-day-7\"><img src=\"https://",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-7",
-         "pubDate" : "Wed, 27 Apr 2022 01:37:00 +0000",
-         "title" : "The American Cup 2022: Day 7"
       },
       {
          "description" : "GM Rameshbabu Praggnanandhaa is again the sole leader of the event after day five. After him comes GM Magnus Carlsen with nine points, closely followed by GMs Jan-Krzysztof Duda, Le Quang Liem and Jorden van Foreest with eight points. Both GMs A...",
