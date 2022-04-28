@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Magnus Carlsen and Rameshbabu Praggnanandhaa&#38;nbsp;once again share the lead with 12 points after the penultimate day of play. They are followed closely by GMs Jan-Krzysztof Duda and Le Quang Liem, both with 11 points. Behind them, we find GM&#38;n...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oslo-esports-cup-day-6",
+         "pubDate" : "Wed, 27 Apr 2022 16:59:25 -0700",
+         "title" : "Carlsen's Back In The Lead: Oslo Esports Cup Day 6"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1714",
+         "pubDate" : "Wed, 27 Apr 2022 23:27:04 +0000",
+         "title" : "Carlsen and Praggnanandhaa set up final day shootout"
+      },
+      {
          "description" : "The 2022 Junior Speed Chess Championship quarterfinals, brought to you by SIG, commenced today with GM Nihal Sarin taking on IM Christoper Yoo in an explosive encounter that ended with a 15-11 score in favor of the reigning champion. Proving dom...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-quarterfinal-nihal-yoo",
          "pubDate" : "Wed, 27 Apr 2022 16:11:05 -0700",
          "title" : "Nihal Overwhelms Yoo 2022: Junior Speed Chess Championship Quarterfinal"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Tatev Abrahamyan about her position at Bryght Labs in Kansas City and ChessUp, the company's new AI chessboard. Order at BryghtLabs.com. 2022.04.27<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tatev-abrahamyan-cristian-plays-ai-chessboard-day-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bd4zZX8ITk4.jpg?itok=ISj",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tatev-abrahamyan-cristian-plays-ai-chessboard-day-8",
+         "pubDate" : "Wed, 27 Apr 2022 22:37:30 +0000",
+         "title" : "Tatev Abrahamyan: Cristian Plays the AI Chessboard | Day 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Irina Krush after her win over Alice Lee in Game 1 of their final match at The American Cup 2022. 2022.04.27<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-alice-had-nerve-wracking-day-day-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Rr6pHPLqKS4.jpg?itok=UbJPl6wC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/irina-krush-alice-had-nerve-wracking-day-day-8",
+         "pubDate" : "Wed, 27 Apr 2022 22:37:30 +0000",
+         "title" : "Irina Krush: Alice had a Nerve-Wracking Day | Day 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Fabiano Caruana after his draw with Levon Aronian in Game 1 of their final match at The American Cup 2022. 2022.04.27<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-draw-totally-dead-position-day-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Ayktswm_BNc.jpg?itok=Fxh5anjC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-draw-totally-dead-position-day-8",
+         "pubDate" : "Wed, 27 Apr 2022 22:37:30 +0000",
+         "title" : "Fabiano Caruana: Draw in a Totally Dead Position | Day 8"
       },
       {
          "description" : "Another regular season of Arena Kings in the books, with the Championship Final of Season 9 coming next week. Week 12 ended the way the last four weeks had, with a victory for GM Hikaru Nakamura. Despite falling behind 2-0 in the final against GM ...",
@@ -392,30 +432,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/tatev-abrahamyan-back-and-forth-begim-day-6",
          "pubDate" : "Tue, 26 Apr 2022 01:36:32 +0000",
          "title" : "Tatev Abrahamyan: Back-and-Forth with Begim | Day 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Irina Krush after her win over Alice Lee in Game 1 of their championship bracket match. 2022.04.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-clock-management-was-major-factor-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mWmx39ouQ30.jpg?itok=TD_WM_VJ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/irina-krush-clock-management-was-major-factor-day-5",
-         "pubDate" : "Mon, 25 Apr 2022 22:36:03 +0000",
-         "title" : "Irina Krush: Clock Management was a Major Factor | Day 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Fabiano Caruana after his win over Leinier Dominguez in Game 1 of their championship bracket match. 2022.04.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-solid-win-over-dominguez-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gXnL1_DyRXE.jpg?itok=uKvFivQ7\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-solid-win-over-dominguez-day-5",
-         "pubDate" : "Mon, 25 Apr 2022 22:36:03 +0000",
-         "title" : "Fabiano Caruana: Solid Win over Dominguez | Day 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Levon Aronian after his win over Ray Robson in Game 1 of their rapid elimination match. 2022.04.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-aronian-memorable-second-interview-day-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FT34jtln_kc.jpg?itok=CGO_7eQN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/levon-aronian-memorable-second-interview-day-6",
-         "pubDate" : "Mon, 25 Apr 2022 22:36:03 +0000",
-         "title" : "Levon Aronian: A Memorable Second Interview | Day 6"
       },
       {
          "description" : "Magnus Carlsen upped his game for the big occasion today as he ended young pretender Rameshbabu Praggnanandhaa&#x2019;s unbeaten streak to go level at the top of the Oslo Esports Cup leaderboard. The World Champion shrugged off the illness he has suffered since the start of the&#xA0;Meltwater Champions Chess Tour&#xA0;event to brush aside the challenge of []",
@@ -1400,14 +1416,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-the-mpl-31st-national-under-18-open-girls-chess-championships-2022/",
          "pubDate" : "Mon, 18 Apr 2022 05:52:39 +0000",
          "title" : "live games link for the MPL 31st National Under - 18 Open & Girls Chess Championships 2022"
-      },
-      {
-         "description" : "GM Levon Aronian won week 10 of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, besting GM Alexander Grischuk in the knockout final.&#38;nbsp; GM Hikaru Nakamura&#38;nbsp;won the Swiss tournament and made it to the semifinals along wi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-10-aronian-wins",
-         "pubDate" : "Sun, 17 Apr 2022 17:59:00 -0700",
-         "title" : "Aronian Clinches Knockout: Rapid Chess Championship Week 10"
       },
       {
          "description" : " The 2020 O2C Doeberl Cup is set for an exciting finish, with the top 2 seeds GM Hrant Melkumyn and GM Temur Kuybokarov sharing the lead on 6.5/8. Recovering from a round 2 loss to FM Albert Winkelman, Kuybokarov has scored 5.5/6 to catch Melkumyan, who conceded draws to Kuybokarov, GM Daniel Fernandez, and GM Bobby Cheng. Half a point behind is Fernandez, while on 5.5 are Cheng, IM Rishi Sardana, FM Jack Puccini, IM Gary Lane, IM Igor Bjelobrk, and Fred Litchfield. Fernandez v Kuybokarov is the top board pairing with Bjelobrk playing Melkumyan on board 2. In the Major (Under 2000) Mars Qi leads with 6/6. However Fergus Chiverton could tie for first if he wins their top board clash in round ",
