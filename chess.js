@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " For a brief moment, chess.com thought it would be a good idea to organise a $1,000,000 World Championship. The problem wasn't the prize money, which is certainly a hefty amount, but the name. As there is already an official World Championship, and I'm assuming FIDE haven't sold it off, there might have been a legal problem. So instead of a World Championship, the chess.com event is now the Global Championship. With this change I'm assuming everyone is now happy, except for the afore mentioned flat earthers. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/flat-earthers-miss-out-i-guess.html",
+         "pubDate" : "Fri, 29 Apr 2022 14:33:00 +0000",
+         "title" : "Flat earthers miss out I guess"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Council</strong> <a href=\"https://fide.com/news/1717\">approved an agreement</a> with the <strong>Grand Chess Tour</strong> that the top two finishers of their 2023 resp. 2025 series will qualify for the following <strong>Candidates Tournaments</strong>. This comes down to the end of the <strong>Grand Prix</strong> that had been organised by <strong>World Chess</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/grand-chess-tour-becomes-candidates/",
+         "pubDate" : "Fri, 29 Apr 2022 15:19:02 +0100",
+         "title" : "Grand Chess Tour becomes Candidates qualifier in 2023"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After protests and being ridiculed the $1 million <strong>Chess.com World Championship</strong> <a href=\"https://twitter.com/chesscom/status/1519379483719094273\">has been renamed</a> <strong>Chess.com Global Championship</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/global-change/",
+         "pubDate" : "Fri, 29 Apr 2022 15:09:09 +0100",
+         "title" : "Global change"
+      },
+      {
+         "description" : "The inaugural American Cup crowned its first champions when GM Fabiano Caruana defeated GM Levon Aronian in the final game of the event, and GM Irina Krush confidently drew her game against the sensation of the tournament, FM Alice Lee.&#38;nbsp; Bo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-american-cup-day-9-caruana-krush",
+         "pubDate" : "Fri, 29 Apr 2022 07:05:05 -0700",
+         "title" : "Caruana, Krush Crowned Champions: The American Cup Day 9"
+      },
+      {
+         "description" : "MPL National Rapid Chess Championship 2022 MPL National Rapid Chess Championship 2022 was organized by Nashik District Chess Association on behalf of Maharashtra chess association",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-national-rapid-chess-championship-2022gm-aravindh-chithambaram-clinched-the-title-of-mpl-rapid-national-chess-champion-2022/",
+         "pubDate" : "Fri, 29 Apr 2022 12:55:06 +0000",
+         "title" : "MPL National Rapid Chess Championship 2022:GM Aravindh Chithambaram V R clinched the title of MPL Rapid National Chess Champion -2022"
+      },
+      {
+         "description" : "The French National Championships 2022 for youths and juniors concluded this week in Agen. With participation of more than 1500 kids the event was one of the most numerous chess events for youths in Europe. The Winners are: U20 Yovann GatineauGU20 Sarah DjidjeliU18 Joseph GirelGU18 Camille Blanquet U16 Simon LamazeGU16 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/france-crowns-youth-and-junior-chess-champions-2022/",
+         "pubDate" : "Fri, 29 Apr 2022 12:52:37 +0000",
+         "title" : "France crowns Youth and Junior Chess Champions 2022"
+      },
+      {
+         "description" : "The 27th edition of the TePe Sigeman Chess Tournament will be held from 3-9 May at the Malmo Live conference centre in Malmo, Sweden. Eight players will play the seven rounds robin round tournament and the battlefield is led by GM Jorden van Foreest. The participants list: GM Jorden van Foreest GM Michael Adams GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tepe-sigeman-co-chess-tournament-2022/",
+         "pubDate" : "Fri, 29 Apr 2022 12:19:36 +0000",
+         "title" : "TePe Sigeman & Co Chess Tournament 2022"
+      },
+      {
+         "description" : " The world champion missed a long distance threat and lost three of his seven matches in the Oslo Esports Cup, including Thursday's final round when victory would have ensured first prize An overambitious schedule, a heavy cold and mental fatigue finally caught up with Magnus Carlsen at the Oslo Esports Cup this week. The world champion had won the previous two legs of the online Meltwater Champions Tour, and was expected to make it three in his home city, but it was Poland's Jan-Krzysztof Duda who edged ahead in Thursday's final round. Leading scores were Duda (Poland) 14/21, Le Quang Liem (Vietnam) 13, Carlsen (Norway) and Rameshbabu Praggnanandhaa (India) 12, Shak Mamedyarov (Azerbaijan) ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/apr/29/chess-polands-duda-wins-in-oslo-while-tired-carlsen-fades-at-the-finish",
+         "pubDate" : "Fri, 29 Apr 2022 11:38:53 +0000",
+         "title" : "Chess: Poland's Duda wins in Oslo while tired Carlsen fades at the finish"
+      },
+      {
          "description" : "The complete FIDE Grand Prix 2022 (Berlin I - Belgrade - Berlin II) with analyses by Esipenko, Giri, Oparin, Predke, Shankland, So, Vidit and Vitiugov. In addition, Rogozenco presents two selected games of the winners, Nakamura and Rapport, in the video - \"Trend line put to the test\": Rustam Kasimdzhanov shows new ideas in the English Four Knights Variation with 4.e4 Bc5!? (video) - \"Magnetic square h7!\": How to take apart Black's castling position, tactics training with Oliver Reeh - \"Bent Larsen, the highly creative Dane\": CBM authors analyse their favourite games - \"All in one\": Igor Stohl examines 1.d4 Nf6 2.c4 g6 3.h4!? - \"Complete repertoire against &acute;the Alapin\": Markus Ragger in",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -282,14 +346,6 @@ news_feed (
          "title" : "Carlsen and Pragg neck in neck before the final round of the Oslo Esports Cup"
       },
       {
-         "description" : "After the&#xA0;Airthings Masters 2022&#xA0;and the&#xA0;Charity Cup 2022, both won by Magnus Carlsen, the Meltwater Champions Chess Tour breaks new ground next week with the launch of the first fully in-person esports event in chess &#x2013; the Oslo Esports Cup. A star-studded gala event will open the tournament as Norway&#x2019;s World Champion&#xA0;Magnus Carlsen&#xA0;goes for an unprecedented []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/oslo-esports-cup-live/",
-         "pubDate" : "Thu, 28 Apr 2022 10:21:00 +0000",
-         "title" : "Oslo Esports Cup LIVE"
-      },
-      {
          "description" : "The Queens' Online Chess Festival 2022, a series of continental women's online blitz tournaments, starts on June 05, 2022. The event organized by FIDE Commission",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -304,14 +360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1715",
          "pubDate" : "Thu, 28 Apr 2022 08:57:42 +0000",
          "title" : "American Cup: Day 8 Recap"
-      },
-      {
-         "description" : "The 1st Chessable Sunway Formentera Chess Festival starts tomorrow in Formentera the smallest Spanish Balearic island in the Mediterranean Sea. The Festival takes place from April 29 to May 8 with a total prize fund of 20.500 euros and a wide range of events. The main events are Open tournaments: A and B, being []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1st-chessable-sunway-formentera-chess-festival/",
-         "pubDate" : "Thu, 28 Apr 2022 08:22:44 +0000",
-         "title" : "1st Chessable Sunway Formentera Chess Festival"
       },
       {
          "description" : "The finals of the American Cup kicked off with the first of two classical games in the matches between Aronian - Caruana and Krush - Lee. In the Open, Aronian (pictured) managed to build up a winning endgame advantage but faltered at the last moment, allowing Caruana to escape with a draw. Meanwhile in the Women's Field, Krush displayed her strategic skill once again, outplaying Lee in the early opening and middlegame to take a 1-0 lead in the match. | Photo Courtesy of Saint Louis Chess Club, Bryan Adams",
@@ -1050,14 +1098,6 @@ news_feed (
          "title" : "Trent's Tactics - Beliavsky's masterful tactics"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The biggest chess website <a href=\"https://www.chess.com/news/view/chesscom-world-championship-million-dollar-announcement\">announced</a> the <strong>Chess.com World Championship</strong> with $1 million in prizes, half of which go to eight finalists meeting in Toronto on 31 October to 5 November. Qualifiers for non-titled players start online on 1 May and require verified membership. Since <strong>Chess.com</strong> is a sponsor of the official world championship, <strong>FIDE</strong> is expected not to enforce the clause signed by all participants of the Grand Swiss, World Cup, Grand Prix or Candidates Tournament not to play in any world champion",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/chesscom-announced-own-world/",
-         "pubDate" : "Fri, 22 Apr 2022 15:36:36 +0100",
-         "title" : "Chess.com announced own world championship"
-      },
-      {
          "description" : "Magnus Carlsen will take on Jan-Krzysztof Duda in a 4-game match today as the Oslo Esports Cup, the 1st Major on the $1.6 million Meltwater Champions Chess Tour, starts at 18:00 CEST (12:00 ET, 21:30 IST). We've also got Giri-Hansen, Jorden van Foreest-Praggnanandhaa and Mamedyarov-Le as the $210,000 event starts with all the players gathered together in one venue in Oslo. Tania Sachdev is joined by Sagar Shah, Maurice Ashley and Lawrence Trent for a Pre-Show from 17:00 CEST!",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1296,14 +1336,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-arena-kings-season-9-week-11",
          "pubDate" : "Wed, 20 Apr 2022 14:45:00 -0700",
          "title" : "Nakamura Wins Fourth Week Straight: Arena Kings Season 9 Week 11"
-      },
-      {
-         "description" : "Chess.com is delighted to announce the Chess.com Global Championship (CGC), our biggest tournament ever. With a total prize fund of $1,000,000, including $500,000 for our final live event at the five-star 1 Hotel in Toronto, Canada, this is an eve...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-global-championship-million-dollar-announcement",
-         "pubDate" : "Wed, 20 Apr 2022 13:09:00 -0700",
-         "title" : "Announcing The $1,000,000 Chess.com Global Championship"
       },
       {
          "description" : "ECU Educational Commission releases a project &#8220;Chess in Education Portal&#8221;. The project has been developed since 2021 with the support of the FIDE Development fund. The &#8220;Chess in Education Portal&#8221; is a guide to creating chess projects. Whether you are organizing a federation, chess club, chess-themed event, a competitive tournament or a school program, it takes considerable effort&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-in-education-portal/\">Read More &#187;</a></span>",
@@ -1568,14 +1600,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-title-at-la-roda-international-tourney/articleshow/90909002.cms",
          "pubDate" : "Mon, 18 Apr 2022 08:35:16 +0000",
          "title" : "Indian GM Gukesh wins title at La Roda International tourney"
-      },
-      {
-         "description" : "Kindly find attached live games link for the MPL 31st National Under - 18 Open &#38; Girls Chess Championships 2022 ongoing on Dr. Mahalingam College of Engineering &#38; Technology,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-the-mpl-31st-national-under-18-open-girls-chess-championships-2022/",
-         "pubDate" : "Mon, 18 Apr 2022 05:52:39 +0000",
-         "title" : "live games link for the MPL 31st National Under - 18 Open & Girls Chess Championships 2022"
       },
       {
          "description" : " The 2020 O2C Doeberl Cup is set for an exciting finish, with the top 2 seeds GM Hrant Melkumyn and GM Temur Kuybokarov sharing the lead on 6.5/8. Recovering from a round 2 loss to FM Albert Winkelman, Kuybokarov has scored 5.5/6 to catch Melkumyan, who conceded draws to Kuybokarov, GM Daniel Fernandez, and GM Bobby Cheng. Half a point behind is Fernandez, while on 5.5 are Cheng, IM Rishi Sardana, FM Jack Puccini, IM Gary Lane, IM Igor Bjelobrk, and Fred Litchfield. Fernandez v Kuybokarov is the top board pairing with Bjelobrk playing Melkumyan on board 2. In the Major (Under 2000) Mars Qi leads with 6/6. However Fergus Chiverton could tie for first if he wins their top board clash in round ",
@@ -1984,14 +2008,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/10th-norway-chess-tournament-2022",
          "pubDate" : "Fri, 8 Apr 2022 20:51:00 +0400",
          "title" : "10th Norway Chess Tournament 2022 - Games and Results"
-      },
-      {
-         "description" : " \"500 Chess Questions Answered\" is a book a purchased recently. Written by GM Andy Soltis, it is basically a FAQ for chess, covering everything from learning strategies to how tournaments are run. One section is titled \"Rulebook\" and deals with common questions. One question is whether knights must always face forward, and of course the answer is no. But what I did not know was that Kasparov always had his knights face left. I'm not sure which way I face my knights (probably forwards) but I guess this means it isn't an issue for me. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/04/front-facing-knights.html",
-         "pubDate" : "Fri, 08 Apr 2022 13:31:00 +0000",
-         "title" : "Front facing knights"
       }
    ]
 }
