@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Levon Aronian and Fabiano Caruana play in the final of the American Cup. Their first game ended in a draw, the second follows today. In the final of the women's tournament Irina Krush leads 1-0 against Alice Lee and is close to winning the tournament. The games of the finals start at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
+         "description" : "The complete FIDE Grand Prix 2022 (Berlin I - Belgrade - Berlin II) with analyses by Esipenko, Giri, Oparin, Predke, Shankland, So, Vidit and Vitiugov. In addition, Rogozenco presents two selected games of the winners, Nakamura and Rapport, in the video - \"Trend line put to the test\": Rustam Kasimdzhanov shows new ideas in the English Four Knights Variation with 4.e4 Bc5!? (video) - \"Magnetic square h7!\": How to take apart Black's castling position, tactics training with Oliver Reeh - \"Bent Larsen, the highly creative Dane\": CBM authors analyse their favourite games - \"All in one\": Igor Stohl examines 1.d4 Nf6 2.c4 g6 3.h4!? - \"Complete repertoire against &acute;the Alapin\": Markus Ragger in",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
-         "pubDate" : "Fri, 29 Apr 2022 08:32:43 +0100",
-         "title" : "American Cup, Finals - Live games and commentary"
+         "link" : "https://en.chessbase.com/post/cbm-207-the-best-of-the-fide-grand-prix-special-on-bent-larsen-and-much-more",
+         "pubDate" : "Fri, 29 Apr 2022 12:00:00 +0100",
+         "title" : "CBM #207: The best of the FIDE Grand Prix, \"Special\" on Bent Larsen and much more!"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #513, Merijn van Delft takes a look at the game Jorden van Foreest vs Eric Hansen from the Oslo Esports Cup, in which van Foreest demonstrated a modern way to treat the Maroczy Bind. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-5",
+         "pubDate" : "Fri, 29 Apr 2022 11:00:00 +0100",
+         "title" : "Game of the Week #513: Jorden van Foreest vs Eric Hansen"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1719",
+         "pubDate" : "Fri, 29 Apr 2022 09:42:52 +0000",
+         "title" : "American Cup: Caruana and Crush clinch titles"
+      },
+      {
+         "description" : " Last week, we worked through a position in which it was Black's turn to move. This week, we'll look at the same position, but this time it's White to move. I mentioned that whose turn it is can be decisive in a given position. This week, we'll see how things can change when it's the <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-nine/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Nine\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-nine/\">A Foundation for Beginners Fifty Nine</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess I",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-nine/",
+         "pubDate" : "Fri, 29 Apr 2022 09:30:14 +0000",
+         "title" : "A Foundation for Beginners Fifty Nine"
+      },
+      {
+         "description" : "Capablanca Memorial 2022&#160;took place 19-28 April in La Habana, Cuba. This year the event featured strong round robin tournaments for men and women, as well as an open event.&#160; Hans Niemann won the men round robin event, aka Elite Group, with a round to spare. With a final score of 7.5 points he was two []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/capablanca-memorial-concluded-in-la-habana/",
+         "pubDate" : "Fri, 29 Apr 2022 09:19:02 +0000",
+         "title" : "Capablanca Memorial concluded in La Habana"
+      },
+      {
+         "description" : "Polish star Jan-Krzysztof Duda pulled off a stunning late charge to clinch the $210,000 Oslo Esports Cup, the first Major of the Meltwater Champions Chess Tour season. This win will be a booster for Duda before the Candidates Chess 2022&#xA0;of which we already know the&#xA0;pairings. The 24-year-old took full advantage as both World Champion Magnus []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jan-krzysztof-duda-wins-oslo-esports-cup/",
+         "pubDate" : "Fri, 29 Apr 2022 08:43:32 +0000",
+         "title" : "Jan-Krzysztof Duda wins Oslo Esports Cup"
+      },
+      {
+         "description" : "Fabiano Caruana is the winner of the American Chess Cup 2022. He defeated Levon Aronian in the final with a total score 1,5-0,5 after a decisive final game. With the victory Caruana also won $50 000 and an extra $10 000 bonus from the hefty prize fund. American Chess Cup 2022 preview&#xA0;/&#xA0;Participants&#xA0;/&#xA0;American Cup 2022 live&#xA0;/&#xA0;Many []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-is-the-winner-of-the-american-chess-cup-2022/",
+         "pubDate" : "Fri, 29 Apr 2022 07:35:06 +0000",
+         "title" : "Fabiano Caruana is the winner of the American Chess Cup 2022"
       },
       {
          "description" : "Please check the link of Live Games for MPL National Blitz Chess Championship 2022 Blitz : https://view.livechesscloud.com/#0984df5b-1480-413a-b3e0-a872d1a904de Chess- Results Link : https://chess-results.com/tnr630265.aspx?lan=1 &#160;",
@@ -18,7 +66,7 @@ news_feed (
          "title" : "Live Games Link for MPL National Blitz Chess Championship 2022"
       },
       {
-         "description" : "The FIDE Council has approved a cooperation agreement with the&#xA0;Grand Chess Tour. By virtue of this agreement, the two top finishers of the 2023 and 2025 Series will qualify for the Candidates Chess 2024 and 2026 respectively. Now: Grand Chess Tour 2022 As the Grand Chess Tour is an invitational event many questions remain unanswered. []",
+         "description" : "The FIDE Council has approved a cooperation agreement with the&#160;Grand Chess Tour. By virtue of this agreement, the two top finishers of the 2023 and 2025 Series will qualify for the Candidates Chess 2024 and 2026 respectively. Now: Grand Chess Tour 2022 As the Grand Chess Tour is an invitational event many questions remain unanswered. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/grand-chess-tour-2023-is-part-world-championship-cycle/",
@@ -34,7 +82,7 @@ news_feed (
          "title" : "Fabiano Caruana wins American Cup!"
       },
       {
-         "description" : "The&#xA0;FIDE Candidates Chess 2022&#xA0;was announced in late December last year, with the dates, place and the sponsor. FIDE disclosed the event will take place in Madrid, June 16 July 7 The Candidates Chess 2022 is an 8 player double round robin tournament with some of the world&#x2019;s top Grandmasters. As the players are qualifying []",
+         "description" : "The&#160;FIDE Candidates Chess 2022&#160;was announced in late December last year, with the dates, place and the sponsor. FIDE disclosed the event will take place in Madrid, June 16 July 7 The Candidates Chess 2022 is an 8 player double round robin tournament with some of the world&#x2019;s top Grandmasters. As the players are qualifying []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-candidates-2022-tournament-pairings/",
@@ -128,6 +176,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1717",
          "pubDate" : "Thu, 28 Apr 2022 19:14:27 +0000",
          "title" : "Grand Chess Tour becomes part of the World Championship Cycle"
+      },
+      {
+         "description" : "Levon Aronian and Fabiano Caruana play in the final of the American Cup. Their first game ended in a draw, the second follows today. In the final of the women's tournament Irina Krush leads 1-0 against Alice Lee and is close to winning the tournament. The games of the finals start at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
+         "pubDate" : "Thu, 28 Apr 2022 19:45:43 +0100",
+         "title" : "American Cup, Finals - Live games and commentary"
       },
       {
          "description" : "",
@@ -410,22 +466,6 @@ news_feed (
          "title" : "Oslo Esports Cup 5: Pragg leads again as Carlsen crashes"
       },
       {
-         "description" : "Both GM Fabiano Caruana and GM Irina Krush managed to qualify to the finals in day 6 of the American Cup, after drawing the second game and avoiding a playoff in their Champions Bracket matches against GM Leinier Dominguez and FM Alice Lee. In the Elimination Bracket, GM Levon Aronian defeated GM Ray Robson 2-0, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/levon-aronian-fabiano-caruana-is-the-final-in-the-american-cup-2022/",
-         "pubDate" : "Wed, 27 Apr 2022 11:04:24 +0000",
-         "title" : "Levon Aronian - Fabiano Caruana is the final in the American Cup 2022"
-      },
-      {
-         "description" : "Now close to a week after the creation of a new world championship , there is no official reaction by FIDE. This middleground of no rectification by Chess.com and no reaction by FIDE only fuels the rumors on behind the scenes deals, while at the same time the attrition to the image of chess and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/more-world-championships-less-problems-devalue-deschmalue-tweetoftheday/",
-         "pubDate" : "Wed, 27 Apr 2022 11:03:00 +0000",
-         "title" : "More world championships, less problems - devalue, deschmalue #TweetOftheDay"
-      },
-      {
          "description" : "After defeating GM Leinier Dominguez in a dramatic playoff, GM Levon Aronian (pictured) qualified for the finals of the 2022 American Cup, where he will face GM Fabiano Caruana for the 1st place prize of $50,000. In the women's field, FM Alice Lee earned herself a rematch in the $25,000 final against GM Irina Krush, after winning an incredibly close match against WGM Tatev Abrahamyan that went all the way to Armageddon. | Photo: Saint Louis Chess Club / Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -520,14 +560,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/oslo-esports-cup-day-4-carlsen-crushes-praggnanandhaa-3-0",
          "pubDate" : "Tue, 26 Apr 2022 13:09:48 +0100",
          "title" : "Oslo Esports Cup, Day 4: Carlsen crushes Praggnanandhaa 3-0"
-      },
-      {
-         "description" : "Devaluation of chess titles, disrespect to history, possibility for behind the scenes deals, confusion. These are just some of the issues pointed out by chess fans on the internet regarding the recent decision of Chess.com to hold &#8220;Chess.com world championship&#8221;. For those knowing chess history and possessing knowledge of the foundations of the chess world, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-world-championship-might-open-up-a-pandoras-box/",
-         "pubDate" : "Tue, 26 Apr 2022 11:23:50 +0000",
-         "title" : "\"Chess.com world championship\" might open up a Pandora's box"
       },
       {
          "description" : "",
@@ -1778,28 +1810,12 @@ news_feed (
          "title" : "Fagernes Open: Crowded at the top"
       },
       {
-         "description" : "How do you build an opening repertoire and learn the variations? Fritz 18 offers many possibilities for this, and you can even compare your learning success with other users. In a short series of tutorials, we show you how to do it. In the first episode, we deal with learning and testing the opening repertoire. The next episodes will deal with building the opening repertoire. With the new \"Easy Game\" mode in Fritz 18, you can check your knowledge of an existing repertoire, and you can replay and practise it. Let's go!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/opening-training-with-fritz-18-1",
-         "pubDate" : "Thu, 14 Apr 2022 10:00:00 +0100",
-         "title" : "Opening training with Fritz 18 (1)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1689",
          "pubDate" : "Wed, 13 Apr 2022 20:29:16 +0000",
          "title" : "FIDE Executive Director attends symposium in Corsica"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #511, Merijn van Delft takes a look at Praggnanandhaa's inspired attacking win against French Grandmaster Matthieu Cornette at the strong Reykjavik Open, in which \"Pragg\" finished sole first. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-3",
-         "pubDate" : "Wed, 13 Apr 2022 18:00:00 +0100",
-         "title" : "Game of the Week #511: Praggnanandhaa vs Cornette"
       },
       {
          "description" : " For this week's show we managed to arrange another special guest, the British chess legend Raymond Keene. Besides being a Grandmaster, Keene was awarded an OBE by the Queen herself. He currently spends his time organizing mind sports events, as well as writing for The British Chess Magazine and The Article. In the show we <a href=\"https://chessimprover.com/master-chess-web-show-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-9/\">Master Chess Web Show (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
@@ -1906,14 +1922,6 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Championships and World Women's Rapid and Blitz Championships 2022 - Call for bids"
       },
       {
-         "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; The month of February contained an increased number of nice puzzles. This is going to be the subject of another blog entry <a href=\"https://chessimprover.com/chess-2022-february-exotic-wackos/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 February Exotic Wackos\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-february-exotic-wackos/\">Chess 2022 February Exotic Wackos</a> appeared first on <a rel=\"nofollow\" href=\"ht",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-2022-february-exotic-wackos/",
-         "pubDate" : "Tue, 12 Apr 2022 08:19:34 +0000",
-         "title" : "Chess 2022 - February Exotic Wackos"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1984,14 +1992,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/front-facing-knights.html",
          "pubDate" : "Fri, 08 Apr 2022 13:31:00 +0000",
          "title" : "Front facing knights"
-      },
-      {
-         "description" : " <p class=\"lead\">GM Wesley So and Lotis Key give an exclusive interview to Dina Belenkaya on chess path, how they meet each other, the necessity of quitting social media and more. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/XyJu4O1OnzQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/exclusive-interview-with-gm-wesley-so-and-lotis-key/",
-         "pubDate" : "Fri, 08 Apr 2022 09:17:35 +0000",
-         "title" : "Exclusive Interview with GM Wesley So and Lotis Key"
       }
    ]
 }
