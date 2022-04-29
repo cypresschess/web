@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week Robert Ris analyses how the young American talent Hans Moke Niemann turned the supposedly quiet line with 3.Bb5+ against the Sicilian into a dangerous weapon. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-dangerous-weapon-3-bb5-against-the-sicilian",
+         "pubDate" : "Fri, 29 Apr 2022 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A dangerous weapon? 3.Bb5+ against the Sicilian"
+      },
+      {
+         "description" : " The Oslo Esports Cup was the first Meltwater Champions Chess Tour event to take place not online but at a venue Fri 22nd Apr to Thu 28th Apr 2022. Players: Carlsen, Giri, Mamedyarov, Duda, Van Foreest, Le Quang Liem, Praggnanandhaa and Eric Hansen played in this round robin of 4 game mini-matches. This is the first tour classic of the season. In the final round leaders Magnus Carlsen and R Praggnanandhaa lost their mini-matches allowing Jan-Krzysztof Duda to come through to win the event and Le Quang Liem to finish in second place.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/oslo-esports-cup-2022",
+         "pubDate" : "Fri, 29 Apr 2022 19:10:00 +0400",
+         "title" : "Oslo Esports Cup 2022 - Games and Results"
+      },
+      {
+         "description" : " The American Cup takes place in Saint Louis 20th to 30th April 2022. The format is double elimination knockout. This is going to be quite tricky to put into game files but basically to be eliminated you have to lose two matches, even in the final one of the finalists will have lost a match and the other won't and so there's potentially a second chance for one of the finalists if they lose. Players: Aronian, Caruana, So, Dominguez, Shankland, Sevian, Xiong and Robson. There's also a women's event with Krush, Zatonskih, Tsolakidou, Tokhirjonova, Nemcova, Alice Lee, Abrahamyan and Ruiyang Yan. Fabiano Caruana and Irina Krush won the two main events. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2022",
+         "pubDate" : "Fri, 29 Apr 2022 18:48:00 +0400",
+         "title" : "American Cup 2022 - "
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Jan-Krzysztof Duda</strong> is the <a href=\"https://chess24.com/en/read/news/duda-wins-oslo-esports-cup-as-carlsen-pragg-collapse\">surprise winner</a> of the <strong>Oslo Esports Cup</strong> of the <strong>Meltwater Champions Chess Tour</strong> after overtaking Indian prodigy <strong>Praggnanandhaa</strong> who was alone in the clear lead after five of seven days, <strong>Magnus Carlsen</strong>, who felt sickly throughout, and <strong>Liem Quang</strong> in the last round. All participants played from the tour's Oslo studio, and this set-up shall be repeated in the next \"major\" on 12-20 August in Miami. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/duda-on-the-fast-track/",
+         "pubDate" : "Fri, 29 Apr 2022 15:42:46 +0100",
+         "title" : "Duda on the fast track"
+      },
+      {
          "description" : " For a brief moment, chess.com thought it would be a good idea to organise a $1,000,000 World Championship. The problem wasn't the prize money, which is certainly a hefty amount, but the name. As there is already an official World Championship, and I'm assuming FIDE haven't sold it off, there might have been a legal problem. So instead of a World Championship, the chess.com event is now the Global Championship. With this change I'm assuming everyone is now happy, except for the afore mentioned flat earthers. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -58,7 +90,7 @@ news_feed (
          "title" : "TePe Sigeman & Co Chess Tournament 2022"
       },
       {
-         "description" : " The world champion missed a long distance threat and lost three of his seven matches in the Oslo Esports Cup, including Thursday's final round when victory would have ensured first prize An overambitious schedule, a heavy cold and mental fatigue finally caught up with Magnus Carlsen at the Oslo Esports Cup this week. The world champion had won the previous two legs of the online Meltwater Champions Tour, and was expected to make it three in his home city, but it was Poland's Jan-Krzysztof Duda who edged ahead in Thursday's final round. Leading scores were Duda (Poland) 14/21, Le Quang Liem (Vietnam) 13, Carlsen (Norway) and Rameshbabu Praggnanandhaa (India) 12, Shak Mamedyarov (Azerbaijan) ",
+         "description" : " The world champion missed a long distance threat and lost three of his seven matches in the Oslo Esports Cup, including Thursday's final round when victory would have ensured first prize An overambitious schedule, a heavy cold and mental fatigue finally caught up with Magnus Carlsen at the Oslo Esports Cup this week. The world champion had won the previous two legs of the online Meltwater Champions Tour and was expected to make it three in his home city, but it was Poland's Jan-Krzysztof Duda who edged ahead in Thursday's final round. Leading scores were Duda (Poland) 14/21, Le Quang Liem (Vietnam) 13, Carlsen (Norway) and Rameshbabu Praggnanandhaa (India) 12, Shak Mamedyarov (Azerbaijan) 1",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/apr/29/chess-polands-duda-wins-in-oslo-while-tired-carlsen-fades-at-the-finish",
@@ -722,14 +754,6 @@ news_feed (
          "title" : "Erigaisi Stuns With Comeback: 2022 Junior Speed Chess Championship Round Of 16"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The open source chess server has <a href=\"https://lichess.org/blog/YmXOfxEAAB4AJh8A/announcing-the-lichess-world-championship\">announced</a> that its monthly <strong>Titled Arena</strong> tournaments will from on be called the <strong>Lichess World Championship</strong> following <a href=\"https://www.chess.com/article/view/chesscom-world-championship-2022\"><strong>Chess.com</strong>'s announcement</a> with <strong>FIDE</strong>'s apparent consent. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/and-so-does-lichess/",
-         "pubDate" : "Mon, 25 Apr 2022 18:39:45 +0100",
-         "title" : "And so does Lichess"
-      },
-      {
          "description" : " <p class=\"lead\">World Chess today introduced Prize Money Tournaments - online tournaments with entry fees and monetary prizes. The Prize Money Tournaments will be organized by World Chess and select partners, such as federations and clubs, and will allow chess players to play for actual monetary prizes, similar to the offline events. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0EF0F22B-243C-4285-866E-8B64023B35A3.jpeg\" width=\"1600\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">FIDE Online Arena front page</div> </div> Setting up and participating in a <a href=\"https://chessarena.com/tournaments/17818\">Prize Money Tournament</a> on FIDE Online Arena, t",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1258,14 +1282,6 @@ news_feed (
          "title" : "Chess.com Announces Verified Accounts"
       },
       {
-         "description" : " The Oslo Esports Cup is the first Meltwater Champions Chess Tour event to take place not online but at a venue Fri 22nd Apr 2022\tThu 28th Apr 2022. Players: Carlsen, Giri, Mamedyarov, Duda, Van Foreest, Le Quang Liem, Praggnanandhaa and Eric Hansen play in this round robin of 4 game mini-matches. This is the first tour classic of the season.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/oslo-esports-cup-2022",
-         "pubDate" : "Thu, 21 Apr 2022 19:10:00 +0400",
-         "title" : "Oslo Esports Cup 2022 - Games and Results"
-      },
-      {
          "description" : "A massive chess festival took place in Chihuahua, Mexico on April 12-17. Almost a thousand participants played in the numerous open tournaments, which included events for women, amateurs and different age categories. In the main event, Argentinian GM Sandro Mareco was the outright winner after scoring 7&frac12; out of 9 points. Pablo Salinas (Chile), Kevin Cori (Peru) and Luis Ibarra (Mexico) finished a half point. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1456,14 +1472,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1695",
          "pubDate" : "Tue, 19 Apr 2022 15:16:07 +0000",
          "title" : "Queens' Online Chess Festival 2022: Registration opens"
-      },
-      {
-         "description" : " The American Cup takes place in Saint Louis 20th to 30th April 2022. The format is double elimination knockout. This is going to be quite tricky to put into game files but basically to be eliminated you have to lose two matches, even in the final one of the finalists will have lost a match and the other won't and so there's potentially a second chance for one of the finalists if they lose. Players: Aronian, Caruana, So, Dominguez, Shankland, Sevian, Xiong and Robson. There's also a women's event with Krush, Zatonskih, Tsolakidou, Tokhirjonova, Nemcova, Alice Lee, Abrahamyan and Ruiyang Yan. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2022",
-         "pubDate" : "Tue, 19 Apr 2022 18:48:00 +0400",
-         "title" : "American Cup 2022 - "
       },
       {
          "description" : "In a new interview published by the Norwegian newspaper Verdens Gang, Magnus Carlsen again talks about why he is seriously considering not playing another match for the World Championship title. \"I will make that decision later. But if there are some who expect and hope that I will say yes to playing, then I have to prepare them for a disappointment\", said the long-time world number one. | Photo: Anna Shtourman / FIDE",
@@ -1826,14 +1834,6 @@ news_feed (
          "title" : "Peter Burri: 1957-2022"
       },
       {
-         "description" : "A strong open tournament is taking place at the small Norwegian city of Fagernes. Six players rated 2600 or above made their way to the touristic destination located three hours north of Oslo. After five rounds (out of nine), eight players are sharing the lead on 4 points, including top seed Arjun Erigaisi. | Photo: Tom Eriksen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fagernes-open-2022-r5",
-         "pubDate" : "Thu, 14 Apr 2022 11:55:00 +0100",
-         "title" : "Fagernes Open: Crowded at the top"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1992,22 +1992,6 @@ news_feed (
          "link" : "https://www.thearticle.com/life-begins-at-sixty/",
          "pubDate" : "Sat, 09 Apr 2022 10:41:38 +0000",
          "title" : "Life begins at sixty"
-      },
-      {
-         "description" : " The Kvika Reykjavik Open takes place Wed 6th to Tue 12th April 2022. The leading players are mostly talented juniors with a big contingent from India: Pouya Idani, D Gukesh, Hans Moke Niemann, B Adhiban, Raunak Sadhwani, R Praggnanandhaa, Abhijeet Gupta, Max Warmerdam etc.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/kvika-reykjavik-open-2022",
-         "pubDate" : "Fri, 8 Apr 2022 21:00:00 +0400",
-         "title" : "Kvika Reykjavik Open 2022 - "
-      },
-      {
-         "description" : " The 10th Norway Chess tournament takes place in Stavanger May 31st to June 10th 2022. The field is: Magnus Carlsen, Richard Rapport, Wesley So, Shakhriyar Mamedyravov, Anish Giri, Teymur Rajabov, Viswanathan Anand, Maxime Vachier-Lagrave, Veselin Topalov and Wang Hao. This year with other tournaments clashing and the reluctance to invite Russian players means that the field is a little weaker than in recent years where they mostly went for the best players going down the rating list. That said the field is plenty interesting enough. I am a little surprised they didn't use the opportunity to invite another Norwegian player, likely Aryan Tari (I strongly believe that if you have a prestigious",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/10th-norway-chess-tournament-2022",
-         "pubDate" : "Fri, 8 Apr 2022 20:51:00 +0400",
-         "title" : "10th Norway Chess Tournament 2022 - Games and Results"
       }
    ]
 }
