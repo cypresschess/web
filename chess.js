@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Levon Aronian and Fabiano Caruana play in the final of the American Cup. Their first game ended in a draw, the second follows today. In the final of the women's tournament Irina Krush leads 1-0 against Alice Lee and is close to winning the tournament. The games of the finals start at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
+         "pubDate" : "Fri, 29 Apr 2022 08:32:43 +0100",
+         "title" : "American Cup, Finals - Live games and commentary"
+      },
+      {
+         "description" : "Please check the link of Live Games for MPL National Blitz Chess Championship 2022 Blitz : https://view.livechesscloud.com/#0984df5b-1480-413a-b3e0-a872d1a904de Chess- Results Link : https://chess-results.com/tnr630265.aspx?lan=1 &#160;",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-mpl-national-blitz-chess-championship-2022/",
+         "pubDate" : "Fri, 29 Apr 2022 07:23:42 +0000",
+         "title" : "Live Games Link for MPL National Blitz Chess Championship 2022"
+      },
+      {
+         "description" : "The FIDE Council has approved a cooperation agreement with the&#xA0;Grand Chess Tour. By virtue of this agreement, the two top finishers of the 2023 and 2025 Series will qualify for the Candidates Chess 2024 and 2026 respectively. Now: Grand Chess Tour 2022 As the Grand Chess Tour is an invitational event many questions remain unanswered. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-chess-tour-2023-is-part-world-championship-cycle/",
+         "pubDate" : "Fri, 29 Apr 2022 07:11:24 +0000",
+         "title" : "Grand Chess Tour 2023 is part World Championship Cycle"
+      },
+      {
+         "description" : "GM Fabiano Caruana clinched clear 1st place in the inaugural 2022 American Cup, after defeating GM Levon Aronian in the second classical game of the final. In the Women's Field, GM Irina Krush completed her campaign for the title as well, securing the victory after drawing the second game in her match against FM Alice Lee. | Photo Courtesy of Saint Louis Chess Club, Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fabiano-caruana-wins-american-cup",
+         "pubDate" : "Fri, 29 Apr 2022 07:41:39 +0100",
+         "title" : "Fabiano Caruana wins American Cup!"
+      },
+      {
+         "description" : "The&#xA0;FIDE Candidates Chess 2022&#xA0;was announced in late December last year, with the dates, place and the sponsor. FIDE disclosed the event will take place in Madrid, June 16 July 7 The Candidates Chess 2022 is an 8 player double round robin tournament with some of the world&#x2019;s top Grandmasters. As the players are qualifying []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-tournament-pairings/",
+         "pubDate" : "Fri, 29 Apr 2022 06:14:46 +0000",
+         "title" : "FIDE Candidates 2022 Tournament pairings"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91171783.cms\" />India's teenaged Grandmaster R Praggnanandhaa missed out on the top prize in the USD 210,000 Oslo Esports Cup online rapid chess tournament as he lost 0.5-2.5 to Dutch player Anish Giri in the seventh and final round to finish fourth.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-indian-gm-praggnanandhaa-falters-in-final-round-of-oslo-event-finishes-fourth/articleshow/91171783.cms",
+         "pubDate" : "Fri, 29 Apr 2022 06:13:38 +0000",
+         "title" : "Indian GM Praggnanandhaa falters in final round of Oslo event, finishes fourth"
+      },
+      {
          "description" : "In a surprising development, Jan-Krzysztof Duda leapfrogged Praggnanandhaa and Magnus Carlsen in the final round of the Oslo Esports Cup. The Polish star won the tournament after beating an off-form Eric Hansen and seeing both Carlsen and Pragg quickly losing their matches against Shakhriyar Mamedyarov and Anish Giri. Le Quang Liem, who was tied in points with Duda before the final round, beat Jorden van Foreest in tiebreaks to get sole second place.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/oslo-esports-cup-day-7-duda-wins",
-         "pubDate" : "Thu, 28 Apr 2022 19:26:19 -0700",
+         "pubDate" : "Thu, 28 Apr 2022 19:26:00 -0700",
          "title" : "Duda Wins: Oslo Esports Cup Day 7"
       },
       {
@@ -80,14 +128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1717",
          "pubDate" : "Thu, 28 Apr 2022 19:14:27 +0000",
          "title" : "Grand Chess Tour becomes part of the World Championship Cycle"
-      },
-      {
-         "description" : "Levon Aronian and Fabiano Caruana play in the final of the American Cup. Their first game ended in a draw, the second follows today. In the final of the women's tournament Irina Krush leads 1-0 against Alice Lee and is close to winning the tournament. The games of the finals start at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
-         "pubDate" : "Thu, 28 Apr 2022 19:45:00 +0100",
-         "title" : "American Cup, Finals - Live games and commentary"
       },
       {
          "description" : "",
@@ -488,22 +528,6 @@ news_feed (
          "link" : "https://www.chessdom.com/chess-com-world-championship-might-open-up-a-pandoras-box/",
          "pubDate" : "Tue, 26 Apr 2022 11:23:50 +0000",
          "title" : "\"Chess.com world championship\" might open up a Pandora's box"
-      },
-      {
-         "description" : "We cannot help but put Danny Gormally's tweet in our Tweet of the Day column. Discussing the new &#8220;world champion&#8221; title, Danny Gormally in a sarcastic answer to Jon Ludvig Hammer says, &#8220;I have crowned myself world champion of my bedroom.&#8221; Thank you Danny, now we are all champions! Read more: &#8220;Chess.com&#8221; world championship might []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/danny-gormally-crowns-hymself-world-champion-tweetoftheday/",
-         "pubDate" : "Tue, 26 Apr 2022 11:21:16 +0000",
-         "title" : "Danny Gormally crowns hymself world champion #TweetOftheDay"
-      },
-      {
-         "description" : "For many days after the appearance of another &#8220;world champion&#8221; title, the governing body of chess FIDE is silent on the issue. FIDE's silence has spurred into multiple theories ranging from FIDE's looming bankruptcy to direct correlations with the Russia-Ukraine conflict. Read more: &#8220;Chess.com&#8221; world championship might open up a Pandora's box / Video announcement []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-silent-on-the-creation-of-another-world-championship/",
-         "pubDate" : "Tue, 26 Apr 2022 11:20:14 +0000",
-         "title" : "FIDE silent on the creation of another \"world championship\""
       },
       {
          "description" : "",
@@ -1778,14 +1802,6 @@ news_feed (
          "title" : "Game of the Week #511: Praggnanandhaa vs Cornette"
       },
       {
-         "description" : "\"Winter is Coming\" is the title of a book by Garry Kasparov published in 2015. In it he warned that Russia's descent from a nascent democracy into a full-blown dictatorship under Vladimir Putin made it a threat to the West and world peace. \"Garry could be forgiven for declaring: I bloody told you so,\" writes Malcolm Pein in the April 2022 edition of CHESS Magazine. In it he describes the consequences the Russian invasion of Ukraine has for the world of chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/winter-has-come",
-         "pubDate" : "Wed, 13 Apr 2022 16:16:51 +0100",
-         "title" : "Winter Has Come"
-      },
-      {
          "description" : " For this week's show we managed to arrange another special guest, the British chess legend Raymond Keene. Besides being a Grandmaster, Keene was awarded an OBE by the Queen herself. He currently spends his time organizing mind sports events, as well as writing for The British Chess Magazine and The Article. In the show we <a href=\"https://chessimprover.com/master-chess-web-show-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-9/\">Master Chess Web Show (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1938,14 +1954,6 @@ news_feed (
          "title" : "European Amateur Chess Championship 2022 - Official regulations"
       },
       {
-         "description" : "Please find the Live Link for MPL 34th National U12 Chess Championship 2022 https://delhichess.com/live/u12/tfd.html &#160;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-for-mpl-34th-national-u12-chess-championship-2022/",
-         "pubDate" : "Mon, 11 Apr 2022 07:03:08 +0000",
-         "title" : "Live Link for MPL 34th National U12 Chess Championship 2022"
-      },
-      {
          "description" : "What is it about the number sixty that so attracts chess writers? One would have expected the iconic number to have been 64, eight times eight, the total number of squares on the chessboard. The fashion began, following on from the extended success of one of the most important chess books ever written, Bobby Fischer: []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1984,14 +1992,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/exclusive-interview-with-gm-wesley-so-and-lotis-key/",
          "pubDate" : "Fri, 08 Apr 2022 09:17:35 +0000",
          "title" : "Exclusive Interview with GM Wesley So and Lotis Key"
-      },
-      {
-         "description" : " World No 7 defeated Hikaru Nakamura but missed out on a place among eight Candidates to face Magnus Carlsen for the world title Wesley So won the low-key final leg of the Fide Grand Prix in Berlin on Monday, but the US world No 7 missed out on what mattered to him most, qualification for June's world title Candidates in Madrid. So and Hikaru Nakamura, who was already sure of overall Grand Prix victory and a Candidates place, made little effort in their two classical games. The second ended after just a few minutes play with what has become the standard tacitly agreed fast drawing sequence for top grandmaster chess, a Ruy Lopez Berlin Defence <a href=\"https://www.chessgames.com/perl/chessgam",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/apr/08/chess-wesley-so-wins-in-berlin-but-laments-failure-to-qualify-for-candidates",
-         "pubDate" : "Fri, 08 Apr 2022 07:00:15 +0000",
-         "title" : "Chess: Wesley So wins in Berlin but laments failure to qualify for Candidates"
       }
    ]
 }
