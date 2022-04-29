@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from Bucharest, the Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players (Caruana, Aronian, Firouzja, So, Mamedyarov, Nepomniachtchi, Rapport, Dominguez, and MVL) are joined by a wildcard (Deac) for a classical round robin. Join a commentary team TBA for the move-by-move. 2022.05.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-chess-classic-round-1\"><img src=\"https://saintlouischessclu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-round-1",
+         "pubDate" : "Fri, 29 Apr 2022 22:39:20 +0000",
+         "title" : "2022 Superbet Chess Classic: Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> SELECT TOP GAMES: <a href=\"https://lichess.org/broadcast/2022-american-cup-blitz-tournament/round-1/z6f04J29\">https://lichess.org/broadcast/2022-american-cup-blitz-tournament/round-1...</a> With Caruana and Krush already winning the regular tournament, it&#039;s time for blitz! Thirty-four players, including the field from The American Cup, compete in a 3+2 nine-round Swiss event. Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.29<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-v",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-10",
+         "pubDate" : "Fri, 29 Apr 2022 22:39:20 +0000",
+         "title" : "The American Cup 2022: Day 10"
+      },
+      {
+         "description" : " <p class=\"lead\">Vasil Ivanchuk, a famous Ukrainian Grandmaster, was just breaking down his blitz game against Magnus Carlsen (\"a winning position which I spectacularly lost in just a few moves) when <a href=\"https://youtu.be/2Fz6Q5yWGiA?t=2892\">the air raid alert sirens went off</a>. Kyiv was being bombed again. Ivanchuk, famous for his passion for the game, calmly continued with the analysis. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2B85F77A-BD76-40F8-BFF6-A89257EADC08.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Ivanchuk during Rapid and Blitz Championship in Berlin in 2015. The event was organized by World Chess</div> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/ivanchuk-reviews-his-game-against-carlsen-during-air-raid-alert/",
+         "pubDate" : "Fri, 29 Apr 2022 20:02:48 +0000",
+         "title" : "Ivanchuk Reviews His Game Against Carlsen, Ignores Air Raid Alert"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> SELECT TOP GAMES: <a href=\"https://lichess.org/broadcast/2022-american-cup-blitz-tournament/round-1/z6f04J29\">https://lichess.org/broadcast/2022-american-cup-blitz-tournament/round-1...</a> With Caruana and Krush already winning the regular tournament, it&#039;s time for blitz! Thirty-four players, including the field from The American Cup, compete in a 3+2 nine-round Swiss event. Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.29<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-v",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-blitz-day-10-lichessorg",
+         "pubDate" : "Fri, 29 Apr 2022 19:39:12 +0000",
+         "title" : "The American Cup 2022: BLITZ | Day 10 | lichess.org"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -42,7 +74,7 @@ news_feed (
          "title" : "Oslo Esports Cup 2022 - Games and Results"
       },
       {
-         "description" : " The American Cup takes place in Saint Louis 20th to 30th April 2022. The format is double elimination knockout. This is going to be quite tricky to put into game files but basically to be eliminated you have to lose two matches, even in the final one of the finalists will have lost a match and the other won't and so there's potentially a second chance for one of the finalists if they lose. Players: Aronian, Caruana, So, Dominguez, Shankland, Sevian, Xiong and Robson. There's also a women's event with Krush, Zatonskih, Tsolakidou, Tokhirjonova, Nemcova, Alice Lee, Abrahamyan and Ruiyang Yan. Fabiano Caruana and Irina Krush won the two main events. ",
+         "description" : " The American Cup took place in Saint Louis 20th to 30th April 2022. The format is double elimination knockout. This was a complex format where to be eliminated you had to lose two matches. The second chance game via rapid games. Players: Aronian, Caruana, So, Dominguez, Shankland, Sevian, Xiong and Robson. There was also a women's event with Krush, Zatonskih, Tsolakidou, Tokhirjonova, Nemcova, Alice Lee, Abrahamyan and Ruiyang Yan. Fabiano Caruana and Irina Krush won the two main events. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/american-cup-2022",
@@ -464,30 +496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-quarterfinal-nihal-yoo",
          "pubDate" : "Wed, 27 Apr 2022 16:11:05 -0700",
          "title" : "Nihal Overwhelms Yoo 2022: Junior Speed Chess Championship Quarterfinal"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Tatev Abrahamyan about her position at Bryght Labs in Kansas City and ChessUp, the company's new AI chessboard. Order at BryghtLabs.com. 2022.04.27<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tatev-abrahamyan-cristian-plays-ai-chessboard-day-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bd4zZX8ITk4.jpg?itok=ISj",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tatev-abrahamyan-cristian-plays-ai-chessboard-day-8",
-         "pubDate" : "Wed, 27 Apr 2022 22:37:30 +0000",
-         "title" : "Tatev Abrahamyan: Cristian Plays the AI Chessboard | Day 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Irina Krush after her win over Alice Lee in Game 1 of their final match at The American Cup 2022. 2022.04.27<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-alice-had-nerve-wracking-day-day-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Rr6pHPLqKS4.jpg?itok=UbJPl6wC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/irina-krush-alice-had-nerve-wracking-day-day-8",
-         "pubDate" : "Wed, 27 Apr 2022 22:37:30 +0000",
-         "title" : "Irina Krush: Alice had a Nerve-Wracking Day | Day 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Fabiano Caruana after his draw with Levon Aronian in Game 1 of their final match at The American Cup 2022. 2022.04.27<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-draw-totally-dead-position-day-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Ayktswm_BNc.jpg?itok=Fxh5anjC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-draw-totally-dead-position-day-8",
-         "pubDate" : "Wed, 27 Apr 2022 22:37:30 +0000",
-         "title" : "Fabiano Caruana: Draw in a Totally Dead Position | Day 8"
       },
       {
          "description" : "Another regular season of Arena Kings in the books, with the Championship Final of Season 9 coming next week. Week 12 ended the way the last four weeks had, with a victory for GM Hikaru Nakamura. Despite falling behind 2-0 in the final against GM ...",
