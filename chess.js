@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1720",
+         "pubDate" : "Fri, 29 Apr 2022 19:10:26 +0000",
+         "title" : "Mwale and Priyasha win Malawian Championship"
+      },
+      {
+         "description" : "Leading off the 2022 Grand Chess Tour will be the Superbet Chess Classic held&#xA0;from 3-15 May in Bucharest, Romania. The series of the Grand Chess Tour 2022 events will follow with three rapid &#38; blitz tournaments in Paris, Croatia, and Warsaw; and will conclude with the final classical event, the Sinquefield Cup.&#xA0; Following last year&#x2019;s []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-chess-tour-romania-2022/",
+         "pubDate" : "Fri, 29 Apr 2022 18:50:30 +0000",
+         "title" : "Grand Chess Tour Romania 2022"
+      },
+      {
+         "description" : "The I&#39;M Not A GM Speed Chess Championship (IMSCC) is back for its 2022 edition, starting on May 9. The competition is once more bringing fan-favorite IMs and other masters to vie for their share of the $10,000 prize fund and bragging rights among ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-2022-im-not-a-gm-speed-chess-championship",
+         "pubDate" : "Fri, 29 Apr 2022 11:27:19 -0700",
+         "title" : "Announcing The 2022 I'M Not A GM Speed Chess Championship"
+      },
+      {
          "description" : "This week Robert Ris analyses how the young American talent Hans Moke Niemann turned the supposedly quiet line with 3.Bb5+ against the Sicilian into a dangerous weapon. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -146,7 +170,7 @@ news_feed (
          "title" : "Jan-Krzysztof Duda wins Oslo Esports Cup"
       },
       {
-         "description" : "Fabiano Caruana is the winner of the American Chess Cup 2022. He defeated Levon Aronian in the final with a total score 1,5-0,5 after a decisive final game. With the victory Caruana also won $50 000 and an extra $10 000 bonus from the hefty prize fund. American Chess Cup 2022 preview&#xA0;/&#xA0;Participants&#xA0;/&#xA0;American Cup 2022 live&#xA0;/&#xA0;Many []",
+         "description" : "Fabiano Caruana is the winner of the American Chess Cup 2022. He defeated Levon Aronian in the final with a total score 1,5-0,5 after a decisive final game. With the victory Caruana also won $50 000 and an extra $10 000 bonus from the hefty prize fund. American Chess Cup 2022 preview&#160;/&#160;Participants&#160;/&#160;American Cup 2022 live&#160;/&#160;Many []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fabiano-caruana-is-the-winner-of-the-american-chess-cup-2022/",
@@ -368,14 +392,6 @@ news_feed (
          "link" : "https://aicf.in/western-asian-youth-chess-championship-2022/",
          "pubDate" : "Thu, 28 Apr 2022 10:42:54 +0000",
          "title" : "Western Asian Youth Chess Championship 2022"
-      },
-      {
-         "description" : "Magnus Carlsen and Rameshbabu Praggnanandhaa will duke it out for the Oslo Esports Cup title tomorrow after India's&#xA0;boy wonder finally cracked under pressure. Three points ahead going into the penultimate round of the $210,000 event, 16-year-old Pragg&#xA0;suffered a painful quickfire reverse against Poland's World Cup winner Jan-Krzysztof Duda. It handed world No.1 Carlsen a golden []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-and-pragg-neck-in-neck-before-the-final-round-of-the-oslo-esports-cup/",
-         "pubDate" : "Thu, 28 Apr 2022 10:22:51 +0000",
-         "title" : "Carlsen and Pragg neck in neck before the final round of the Oslo Esports Cup"
       },
       {
          "description" : "The Queens' Online Chess Festival 2022, a series of continental women's online blitz tournaments, starts on June 05, 2022. The event organized by FIDE Commission",
@@ -1344,14 +1360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1697",
          "pubDate" : "Wed, 20 Apr 2022 21:48:39 +0000",
          "title" : "Sandro Mareco and Sandra Guillen win LXVII Mexico National Open Championship "
-      },
-      {
-         "description" : "GM Hikaru Nakamura&#38;nbsp;won his fourth consecutive Arena Kings on April 20 with a score of 3.5-0.5 in the final and has continued a streak of winning every time he&#39;s played in Season 9, seven in total. GM Vagur Rasulov&#38;nbsp;finished as a finalist ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-arena-kings-season-9-week-11",
-         "pubDate" : "Wed, 20 Apr 2022 14:45:00 -0700",
-         "title" : "Nakamura Wins Fourth Week Straight: Arena Kings Season 9 Week 11"
       },
       {
          "description" : "ECU Educational Commission releases a project &#8220;Chess in Education Portal&#8221;. The project has been developed since 2021 with the support of the FIDE Development fund. The &#8220;Chess in Education Portal&#8221; is a guide to creating chess projects. Whether you are organizing a federation, chess club, chess-themed event, a competitive tournament or a school program, it takes considerable effort&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-in-education-portal/\">Read More &#187;</a></span>",
