@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a surprising development, Jan-Krzysztof Duda leapfrogged Praggnanandhaa and Magnus Carlsen in the final round of the Oslo Esports Cup. The Polish star won the tournament after beating an off-form Eric Hansen and seeing both Carlsen and Pragg quickly losing their matches against Shakhriyar Mamedyarov and Anish Giri. Le Quang Liem, who was tied in points with Duda before the final round, beat Jorden van Foreest in tiebreaks to get sole second place.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-final-report",
+         "pubDate" : "Fri, 29 Apr 2022 04:15:00 +0100",
+         "title" : "Duda wins Oslo Esports Cup, Le grabs second place"
+      },
+      {
+         "description" : "After seven intense days of play, GM Jan-Krzysztof Duda&#38;nbsp;prevailed on the leaderboard with 14 points and won the Oslo Esports Cup, the first major of the Meltwater Champions Chess Tour 2022. GM Le Quang Liem finished in second with 13 points...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oslo-esports-cup-day-7-duda-wins",
+         "pubDate" : "Thu, 28 Apr 2022 19:26:19 -0700",
+         "title" : "Duda Wins: Oslo Esports Cup Day 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Irina Krush after her draw against Alice Lee to become the women's champion of The American Cup 2022. 2022.04.28<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-there%E2%80%99s-finally-%E2%80%9Camerican-cup%E2%80%9D-and-i-won-it-day-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Y0itetcFmF4.jpg?itok=8_py",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/irina-krush-there%E2%80%99s-finally-%E2%80%9Camerican-cup%E2%80%9D-and-i-won-it-day-9",
+         "pubDate" : "Fri, 29 Apr 2022 01:38:27 +0000",
+         "title" : "Irina Krush: There's Finally an \"American Cup\" and I Won It | Day 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Executive Director Tony Rich presents the champion's bracelet to Irina Krush. 2022.04.28<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-championship-bracelet-day-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Nk7mkM8xXRk.jpg?itok=BBTmWEok\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/irina-krush-championship-bracelet-day-9",
+         "pubDate" : "Fri, 29 Apr 2022 01:38:27 +0000",
+         "title" : "Irina Krush: The Championship Bracelet | Day 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Executive Director Tony Rich presents the champion's bracelet to Fabiano Caruana. 2022.04.28<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-championship-bracelet-day-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/g_58jirv498.jpg?itok=DdKavDQ6\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-championship-bracelet-day-9",
+         "pubDate" : "Fri, 29 Apr 2022 01:38:27 +0000",
+         "title" : "Fabiano Caruana: The Championship Bracelet | Day 9"
+      },
+      {
          "description" : "The 2022 Junior Speed Chess Championship by SIG continued today with a round of 16 match between GM Raunak Sadhwani and IM Mahammad Muradli, one that featured one of the greatest comebacks in Speed Chess Championship history. The early sections ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -66,14 +106,6 @@ news_feed (
          "title" : "Collegiate Chess League Season 4: Playoffs"
       },
       {
-         "description" : "Today, the Esports Cup in Oslo comes to a thrilling finish: before the seventh and final round World Champion Magnus Carlsen and the 16-year-old Indian Grandmaster Pragganandhaa share the lead with 12/18 and they both have chances to win the tournament. In round seven Carlsen plays against Shakhriyar Mamedyarov while Praggnanandhaa plays against Giri. Play starts at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-live",
-         "pubDate" : "Thu, 28 Apr 2022 17:05:00 +0100",
-         "title" : "Oslo Esports Cup, Round 7 - Live!"
-      },
-      {
          "description" : "English Chess Federation announces English Championships in May, the British Championship in August, and the relaunched ECF Grand Prix from July 2022 to June 2023, all supported by Chessable. The first in the series of Chessable supported events will be the English Championships which are scheduled to take place in May, with the English Seniors []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -96,6 +128,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-38",
          "pubDate" : "Thu, 28 Apr 2022 13:00:00 +0100",
          "title" : "Svitlana's Smart Moves - How to start an attack from scratch"
+      },
+      {
+         "description" : "Those who have learned their variations with the Fritz Opening Drill may start with the practical exercise: the training game against Fritz 18. For good reason: with its \"Evolving Genius\" mode, Fritz 18 is the ideal partner for practice-oriented opening training. Fritz adjusts its playing strength and you quickly see whether you can play the positions resulting from the newly learned opening. Fritz 18 guides you through the training games as a trainer, gives intelligent hints and thus ensures a motivating sense of achievement. The best practical training for a real game. ChessBase seminar leader Martin Fischer shows how it works and that this opening training is really fun.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tutorial-april-2022-opening-training-with-fritz18-part-02-sparring",
+         "pubDate" : "Thu, 28 Apr 2022 12:55:00 +0100",
+         "title" : "Opening training with Fritz 18 - part II: sparring"
+      },
+      {
+         "description" : "Today, the Esports Cup in Oslo comes to a thrilling finish: before the seventh and final round World Champion Magnus Carlsen and the 16-year-old Indian Grandmaster Pragganandhaa share the lead with 12/18 and they both have chances to win the tournament. In round seven Carlsen plays against Shakhriyar Mamedyarov while Praggnanandhaa plays against Giri. Play starts at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-live",
+         "pubDate" : "Thu, 28 Apr 2022 12:50:00 +0100",
+         "title" : "Oslo Esports Cup - Games and standings"
       },
       {
          "description" : "In the long-distance duel between Magnus Carlsen and Praggnanandhaa in the Oslo Esports Cup, round 6 went well for the World Champion: He won his match against Eric Hansen, while Praggnanandhaa lost against Jan-Krzysztof Duda. Before the seventh and last round Praggnanandhaa and Carlsen share the lead with with 12/18 each, but Duda also has theoretical chances to win the tournament. | Photos and pictures: Play Magnus Group",
@@ -152,14 +200,6 @@ news_feed (
          "link" : "https://aicf.in/queens-online-chess-festival-2022/",
          "pubDate" : "Thu, 28 Apr 2022 10:01:42 +0000",
          "title" : "Queens' Online Chess Festival 2022"
-      },
-      {
-         "description" : "Those who have learned their variations with the Fritz Opening Drill may start with the practical exercise: the training game against Fritz 18. For good reason: with its \"Evolving Genius\" mode, Fritz 18 is the ideal partner for practice-oriented opening training. Fritz adjusts its playing strength and you quickly see whether you can play the positions resulting from the newly learned opening. Fritz 18 guides you through the training games as a trainer, gives intelligent hints and thus ensures a motivating sense of achievement. The best practical training for a real game. ChessBase seminar leader Martin Fischer shows how it works and that this opening training is really fun.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tutorial-april-2022-opening-training-with-fritz18-part-02-sparring",
-         "pubDate" : "Thu, 28 Apr 2022 10:00:00 +0100",
-         "title" : "Opening training with Fritz 18 - part II: sparring"
       },
       {
          "description" : "",
@@ -274,14 +314,6 @@ news_feed (
          "title" : "London 1883: Prelude to the First World Championship Match (April 26, 1883 - June 23, 1883)"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana faces Levon Aronian in Game 1 of 2 of The American Cup 2022 final. Also, in the women&#039;s tournament, Irina Krush and Alice Lee begin their final match. Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.27<br /> USChessChamps.com FINAL ROUND | GAME 1<br /> Fabiano Caruana vs. Levon Aronian FINAL ROUND | GAME 1<br /> Irina Krush vs. Alice Lee </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-aronian-vs-caruana-lichessorg",
-         "pubDate" : "Wed, 27 Apr 2022 19:37:33 +0000",
-         "title" : "The American Cup 2022: Aronian vs. Caruana | lichess.org"
-      },
-      {
          "description" : "In two hard-fought matches in the Elimination Brackets, day seven decided who would make it to the finals of The American Cup and face GMs Fabiano Caruana and Irina Krush. In group A, GM Levon Aronian&#38;nbsp;outlasted GM Lenier Dominguez; in Group...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -392,22 +424,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-mpl-national-rapid-chess-championship-2022/",
          "pubDate" : "Wed, 27 Apr 2022 05:26:02 +0000",
          "title" : "Live Games Link for MPL National Rapid Chess Championship 2022"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Levon Aronian after his win against Leinier Dominguez in their elimination bracket match. 2022.04.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-aronian-i-got-far-ill-enjoy-myself-day-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hqvBHbN3-6U.jpg?itok=hryrl13B\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/levon-aronian-i-got-far-ill-enjoy-myself-day-7",
-         "pubDate" : "Wed, 27 Apr 2022 01:37:00 +0000",
-         "title" : "Levon Aronian: I Got This Far; I'll Enjoy Myself | Day 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Alice Lee after her win against Tatev Abrahamyan in their elimination bracket match. 2022.04.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-armageddon-was-%E2%80%9C-bit%E2%80%9D-chaotic-day-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LHhH1BowMcY.jpg?itok=jkJtEGBz\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-armageddon-was-%E2%80%9C-bit%E2%80%9D-chaotic-day-7",
-         "pubDate" : "Wed, 27 Apr 2022 01:37:00 +0000",
-         "title" : "Alice Lee: Armageddon was \"a Bit\" Chaotic | Day 7"
       },
       {
          "description" : "GM Rameshbabu Praggnanandhaa is again the sole leader of the event after day five. After him comes GM Magnus Carlsen with nine points, closely followed by GMs Jan-Krzysztof Duda, Le Quang Liem and Jorden van Foreest with eight points. Both GMs A...",
@@ -1266,14 +1282,6 @@ news_feed (
          "title" : "Tani Adewumi clinches first IM norm in New York"
       },
       {
-         "description" : "There were multiway ties at the top in both Titled Tuesday tournaments on April 19, but they produced two familiar winners. GM Hikaru Nakamura had the best tiebreaks of three players on 9.5/11 in the early tournament, while GM Dmitry Andreikin won...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-andreikin-win-titled-tuesday-april-19-2022",
-         "pubDate" : "Wed, 20 Apr 2022 08:47:15 -0700",
-         "title" : "Closely Contested Titled Tuesdays Go To Nakamura, Andreikin"
-      },
-      {
          "description" : "Today, the first round of the American Cup, a knockout tournament with special rules, will be played. Almost all top players from the US take part in this event, which is organised by the Saint Louis Chess Center. They fight for a prize fund of 300,000 USD, and the three top seeded players are Levon Aronian (2785), Fabiano Caruana (2781) and Wesley So (2778). The first round starts at 13.00 local time. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1776,14 +1784,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/winter-has-come",
          "pubDate" : "Wed, 13 Apr 2022 16:16:51 +0100",
          "title" : "Winter Has Come"
-      },
-      {
-         "description" : "After the moves 1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 Black usually chooses the classical Tarrasch Defence with 4...exd5. 4...cxd4, on the other hand, leads to the Schara von Hennig Gambit. Still quite popular in the 90s, this gambit went out of fashion in the meantime. But recently a series of online games at the highest level (above all thanks to Alexander Grischuk) generated new interest. Robert Ris presents the latest developments in his opening video for the ChessBase Magazine Extra #206. Watch an excerpt from his video analysis!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trends-in-the-schara-von-hennig-gambit",
-         "pubDate" : "Wed, 13 Apr 2022 16:00:00 +0100",
-         "title" : "New trends in the Schara von Hennig Gambit"
       },
       {
          "description" : " For this week's show we managed to arrange another special guest, the British chess legend Raymond Keene. Besides being a Grandmaster, Keene was awarded an OBE by the Queen herself. He currently spends his time organizing mind sports events, as well as writing for The British Chess Magazine and The Article. In the show we <a href=\"https://chessimprover.com/master-chess-web-show-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-9/\">Master Chess Web Show (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
