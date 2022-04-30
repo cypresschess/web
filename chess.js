@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two world champions, Steinitz and Euwe; a chess family, the Cramlings; and plenty of 1.d4 practitioners, Moiseenko, Gaprindashvili, and Miles are born under the zodiac sign of Taurus. Their power lies in their calmness. A proper Taurus acts thoughtfully, prudently, deliberately. They calculate what they do, everything else is considered unreasonable. They may allow their opponent a refreshing nap while they think about the next move. It would be fatal to consider them limited for that reason. | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/taurus-and-their-strategy",
+         "pubDate" : "Sat, 30 Apr 2022 13:00:00 +0100",
+         "title" : "Taurus and their strategy"
+      },
+      {
+         "description" : "New Delhi (30 April 22) :- All Indian Chess Federation( AICF), Indian Government and Tamil Nadu Government are ensuring that the forthcoming Chess Olympiad scheduled",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sports-minister-anurag-thakur-reviews-the-preparedness-for-the-chess-olympiad/",
+         "pubDate" : "Sat, 30 Apr 2022 09:25:41 +0000",
+         "title" : "SPORTS MINISTER ANURAG THAKUR REVIEWS THE PREPAREDNESS FOR THE CHESS OLYMPIAD"
+      },
+      {
+         "description" : "In the days of the movie &#8220;Gladiator&#8221;, sand and sandals were de rigueur. &#8220;The Lord of the Rings&#8221; and &#8220;Hobbit&#8221; moved the focus to swords and sorcery. The current favourites are blood and mud. A prime example is the &#8220;Last Duel&#8221;, depicting chivalric battles in the days of mad King Charles VI of France, who []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/norse-code/",
+         "pubDate" : "Sat, 30 Apr 2022 08:51:23 +0000",
+         "title" : "Norse Code"
+      },
+      {
          "description" : "Getting active when you are underdeveloped is rarely a good idea - in the diagram position Black has just played 9...Qc7? intending to capture on c4. Can you punish this move with White?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,6 +104,14 @@ news_feed (
          "link" : "https://www.chessdom.com/grand-chess-tour-romania-2022/",
          "pubDate" : "Fri, 29 Apr 2022 18:50:30 +0000",
          "title" : "Grand Chess Tour Romania 2022"
+      },
+      {
+         "description" : "More than 200 kids from 22 European federations took part in the 2022 European School Chess Championship. The event was played from 20-30 April in &#x201C;Rodos Palace&#x201D; Hotel and Conference center, Rhodes, Greece. The Winners are: U17 Can Isik GU17 Can Isil U15 Andreev Konstantin (FIDE)GU15 Akat Elifnaz U13 Morkunas []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-school-chess-champions-2022-crowned/",
+         "pubDate" : "Fri, 29 Apr 2022 18:49:00 +0000",
+         "title" : "European School Chess Champions 2022 crowned"
       },
       {
          "description" : "The I&#39;M Not A GM Speed Chess Championship (IMSCC) is back for its 2022 edition, starting on May 9. The competition is once more bringing fan-favorite IMs and other masters to vie for their share of the $10,000 prize fund and bragging rights among ...",
@@ -226,7 +258,7 @@ news_feed (
          "title" : "Capablanca Memorial concluded in La Habana"
       },
       {
-         "description" : "Polish star Jan-Krzysztof Duda pulled off a stunning late charge to clinch the $210,000 Oslo Esports Cup, the first Major of the Meltwater Champions Chess Tour season. This win will be a booster for Duda before the Candidates Chess 2022&#xA0;of which we already know the&#xA0;pairings. The 24-year-old took full advantage as both World Champion Magnus []",
+         "description" : "Polish star Jan-Krzysztof Duda pulled off a stunning late charge to clinch the $210,000 Oslo Esports Cup, the first Major of the Meltwater Champions Chess Tour season. This win will be a booster for Duda before the Candidates Chess 2022&#160;of which we already know the&#160;pairings. The 24-year-old took full advantage as both World Champion Magnus []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/jan-krzysztof-duda-wins-oslo-esports-cup/",
@@ -432,14 +464,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/oslo-esports-cup-round-6-carlsen-wins-praggnanandhaa-loses",
          "pubDate" : "Thu, 28 Apr 2022 12:39:34 +0100",
          "title" : "Oslo Esports Cup, Round 6: Carlsen wins, Praggnanandhaa loses"
-      },
-      {
-         "description" : "After global (no pun intended) pressure from the chess community, Chess.com rectified and changed the title of their new event from World Championship to Global Championship. On Twitter with a short video titled &#8220;global > world&#8221; IM Danny Rensch tries to downplay the seriousness of the situation by taking a humorous approach mirroring the creative []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-rectifies-changes-title-of-the-event-from-world-championship-to-global-championship/",
-         "pubDate" : "Thu, 28 Apr 2022 11:08:16 +0000",
-         "title" : "Chess.com rectifies, changes title of the event from World Championship to Global Championship"
       },
       {
          "description" : "World Chess Champion Magnus Carlsen was critical of his play in the penultimate round of the Oslo Esports Cup, but his 2.5:0.5 win over Eric Hansen was enough to take him back into the lead after Praggnanandhaa lost by the same scoreline to Jan-Krzysztof Duda. Liem Le is also in the hunt for 1st place after defeating Anish Giri with some help from a mouse-slip, while Shakhriyar Mamedyarov pulled off a comeback when Jorden van Foreest missed countless chances to wrap up victory.",
@@ -1282,14 +1306,6 @@ news_feed (
          "title" : "Kind Attention : AICF Office Temporarily Shifted to Mahabalipuram, Chennai"
       },
       {
-         "description" : "Get a once in a lifetime chance to be a part of the grandest chess event 44th Chess Olympiad 2022, Chennai. For the first",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/call-for-volunteers-for-chess-olympiad-2022-chennai/",
-         "pubDate" : "Fri, 22 Apr 2022 03:56:58 +0000",
-         "title" : "Call for Volunteers for Chess Olympiad 2022, Chennai"
-      },
-      {
          "description" : "\"The chess world isn't a safe place for us,\" says popular chess streamer Tallulah Roberts, aka \"lularobs\", recounting an incident at the blitz tournament of the Reykjavik Open 2022. Jamaal S. Abdul-Alim, 2013 Chess Journalist of the Year, explains \"why chess tournaments can be hostile for women and girls\". | Photo: Reykjavik Open",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2016,14 +2032,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-amateur-chess-championship-2022-official-regulations/",
          "pubDate" : "Mon, 11 Apr 2022 07:16:12 +0000",
          "title" : "European Amateur Chess Championship 2022 - Official regulations"
-      },
-      {
-         "description" : "What is it about the number sixty that so attracts chess writers? One would have expected the iconic number to have been 64, eight times eight, the total number of squares on the chessboard. The fashion began, following on from the extended success of one of the most important chess books ever written, Bobby Fischer: []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/life-begins-at-sixty/",
-         "pubDate" : "Sat, 09 Apr 2022 10:41:38 +0000",
-         "title" : "Life begins at sixty"
       }
    ]
 }
