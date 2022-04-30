@@ -1,4 +1,6 @@
 jtable([
+"SUGAR LAND","2022-04-29","15","<a href=http://www.uschess.org/msa/XtblMain.php?202204293912 target='_blank'>FBCC04292022</a>",
+"CYPRESS","2022-04-29","22","<a href=http://www.uschess.org/msa/XtblMain.php?202204293852 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2022-04-05  - 04-26","14","<a href=http://www.uschess.org/msa/XtblMain.php?202204262862 target='_blank'>APRIL TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2022-04-23  - 04-24","58","<a href=http://www.uschess.org/msa/XtblMain.php?202204241572 target='_blank'>$3,200 HOUSTON CHESS STUDIO SPRING</a>",
 "HOUSTON","2022-04-23","410","<a href=http://www.uschess.org/msa/XtblMain.php?202204231042 target='_blank'>T H ROGERS TOURNAMENT</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2021-06-18","6","<a href=http://www.uschess.org/msa/XtblMain.php?202106180062 target='_blank'>FRINITEJUN18</a>",
 "HOUSTON","2021-06-12  - 06-13","169","<a href=http://www.uschess.org/msa/XtblMain.php?202106137032 target='_blank'>TCR: HOUSTON CITY CHAMPIONSHIP 2021</a>",
 "HOUSTON","2021-05-14  - 06-11","12","<a href=http://www.uschess.org/msa/XtblMain.php?202106117892 target='_blank'>POISONPAWNRECREATE</a>",
-"CYPRESS","2021-06-11","13","<a href=http://www.uschess.org/msa/XtblMain.php?202106116582 target='_blank'>11JUN21</a>",
-"SPRING","2021-06-11","20","<a href=http://www.uschess.org/msa/XtblMain.php?202106116312 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
