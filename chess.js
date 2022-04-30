@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A 7-year-old girl from Romania Eliza Cretescu agreed to play in the 4th round of the European School Chess Championship 2022 even though her opponent was running late for the game. European Chess Union recognized the thoughtful act and awarded Eliza Cretescu with the special Fair Play Award. Read more: European School Chess Champions []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/7-year-old-gets-the-fair-play-award-at-european-school-chess-championship-2022-tweetoftheday/",
+         "pubDate" : "Sat, 30 Apr 2022 17:20:44 +0000",
+         "title" : "7-year-old gets the Fair Play Award at European School Chess Championship 2022 #TweetOftheDay"
+      },
+      {
          "description" : "Castling is a fascinating move. According to Wikipedia, \"it originates from the 'king's leap', a two-square king move added to European chess between the 14th and 15th centuries, which took on its present form in the 17th century\". The intricacies of the rules of castling have inspired many studies. Specialized columnist Siegfried Hornecker presents some of them. | Photos: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -170,20 +178,20 @@ news_feed (
          "title" : "Mwale and Priyasha win Malawian Championship"
       },
       {
-         "description" : "Leading off the 2022 Grand Chess Tour will be the Superbet Chess Classic held&#xA0;from 3-15 May in Bucharest, Romania. The series of the Grand Chess Tour 2022 events will follow with three rapid &#38; blitz tournaments in Paris, Croatia, and Warsaw; and will conclude with the final classical event, the Sinquefield Cup.&#xA0; Following last year&#x2019;s []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-romania-2022/",
-         "pubDate" : "Fri, 29 Apr 2022 18:50:30 +0000",
-         "title" : "Grand Chess Tour Romania 2022"
-      },
-      {
          "description" : "More than 200 kids from 22 European federations took part in the 2022 European School Chess Championship. The event was played from 20-30 April in &#x201C;Rodos Palace&#x201D; Hotel and Conference center, Rhodes, Greece. The Winners are: U17 Can Isik GU17 Can Isil U15 Andreev Konstantin (FIDE)GU15 Akat Elifnaz U13 Morkunas []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/european-school-chess-champions-2022-crowned/",
-         "pubDate" : "Fri, 29 Apr 2022 18:49:00 +0000",
+         "pubDate" : "Fri, 29 Apr 2022 18:40:00 +0000",
          "title" : "European School Chess Champions 2022 crowned"
+      },
+      {
+         "description" : "Leading off the 2022 Grand Chess Tour will be the Superbet Chess Classic held&#160;from 3-15 May in Bucharest, Romania. The series of the Grand Chess Tour 2022 events will follow with three rapid &#38; blitz tournaments in Paris, Croatia, and Warsaw; and will conclude with the final classical event, the Sinquefield Cup.&#160; Following last year&#x2019;s []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-chess-tour-romania-2022/",
+         "pubDate" : "Fri, 29 Apr 2022 18:38:00 +0000",
+         "title" : "Grand Chess Tour Romania 2022"
       },
       {
          "description" : "The I&#39;M Not A GM Speed Chess Championship (IMSCC) is back for its 2022 edition, starting on May 9. The competition is once more bringing fan-favorite IMs and other masters to vie for their share of the $10,000 prize fund and bragging rights among ...",
@@ -336,14 +344,6 @@ news_feed (
          "link" : "https://www.chessdom.com/jan-krzysztof-duda-wins-oslo-esports-cup/",
          "pubDate" : "Fri, 29 Apr 2022 08:43:32 +0000",
          "title" : "Jan-Krzysztof Duda wins Oslo Esports Cup"
-      },
-      {
-         "description" : "Fabiano Caruana is the winner of the American Chess Cup 2022. He defeated Levon Aronian in the final with a total score 1,5-0,5 after a decisive final game. With the victory Caruana also won $50 000 and an extra $10 000 bonus from the hefty prize fund. American Chess Cup 2022 preview&#160;/&#160;Participants&#160;/&#160;American Cup 2022 live&#160;/&#160;Many []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-is-the-winner-of-the-american-chess-cup-2022/",
-         "pubDate" : "Fri, 29 Apr 2022 07:35:06 +0000",
-         "title" : "Fabiano Caruana is the winner of the American Chess Cup 2022"
       },
       {
          "description" : "Please check the link of Live Games for MPL National Blitz Chess Championship 2022 Blitz : https://view.livechesscloud.com/#0984df5b-1480-413a-b3e0-a872d1a904de Chess- Results Link : https://chess-results.com/tnr630265.aspx?lan=1 &#160;",
