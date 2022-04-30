@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 55th edition of the Capablanca Memorial took place on April 19-28 at the historic Hotel Nacional de Cuba in Havana. Hans Niemann from the United States dominated the Elite group, scoring 7&frac12; points in the 10-player single round-robin. The Premier group, a women's tournament, was similarly dominated by Romanian IM Irina Bulmaga, who also collected 7&frac12; points to finish two points clear of her closest chaser. | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/niemann-wins-capablanca-memorial-2022",
+         "pubDate" : "Sat, 30 Apr 2022 01:50:00 +0100",
+         "title" : "Hans Niemann dominates Capablanca Memorial"
+      },
+      {
+         "description" : " <p class=\"lead\">In an exclusive interview with World Chess and WGM Dina Belenkaya, Leinier Dominguez talked about the traumas in professional chess, broke down his chess career, acknowledged the most important things in his life, and explained more about his preparation for the Grand Prix. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/LzRK55o3ML8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> The Cuban-born American GM, Leinier Dominguez had a - more of a - conversation with DIna, showing his calm and funny side, as well as his high sense of professionalism. Dominguez said that he plays online but he prefers offline tournaments beca",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/dominguez-chess-is-traumatic-sometimes/",
+         "pubDate" : "Sat, 30 Apr 2022 00:02:26 +0000",
+         "title" : "Dominguez: Chess is traumatic sometimes"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from Bucharest, the Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players (Caruana, Aronian, Firouzja, So, Mamedyarov, Nepomniachtchi, Rapport, Dominguez, and MVL) are joined by a wildcard (Deac) for a classical round robin. Join a commentary team TBA for the move-by-move. 2022.05.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-chess-classic-round-1\"><img src=\"https://saintlouischessclu",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1840,14 +1856,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-marathon-for-ukraine-results/",
          "pubDate" : "Thu, 14 Apr 2022 16:12:29 +0000",
          "title" : "ECF Marathon for Ukraine - results"
-      },
-      {
-         "description" : "As has only just become known, the long-time organiser and tournament director of the Biel Chess Festival, Peter Burri, has died. Burri was involved in the organisation for 40 years and was the tournament director of the traditional tournament for 20 years. The 55th edition in summer will be played as a memorial tournament for him.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/peter-burri-1957-2022",
-         "pubDate" : "Thu, 14 Apr 2022 12:00:00 +0100",
-         "title" : "Peter Burri: 1957-2022"
       },
       {
          "description" : "",
