@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Castling is a fascinating move. According to Wikipedia, \"it originates from the 'king's leap', a two-square king move added to European chess between the 14th and 15th centuries, which took on its present form in the 17th century\". The intricacies of the rules of castling have inspired many studies. Specialized columnist Siegfried Hornecker presents some of them. | Photos: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-a-short-history-of-endgame-study-castling-i",
+         "pubDate" : "Sat, 30 Apr 2022 16:00:00 +0100",
+         "title" : "Study of the Month - A short history of endgame study castling I"
+      },
+      {
+         "description" : "Women&#x2019;s German Chess Masters 2022&#160;took place from 22&#x2013;30 April in Best Western Plus Plaza Hotel Darmstadt. It was a 10-player round-robin tournament with Hanna Marie Klek, Dinara Wagner, Lara Schulze, Melanie Lubbe, Sarah Papp, Josefine Heinemann, Elena Kopke, Jana Schneider, Antonia Ziegenfuss, and Brigitte Burchardt. Dinara Wagner won the event with the final score of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dinara-wagner-wins-womens-german-chess-masters-2022/",
+         "pubDate" : "Sat, 30 Apr 2022 14:54:55 +0000",
+         "title" : "Dinara Wagner wins Women's German Chess Masters 2022"
+      },
+      {
+         "description" : "The European School Chess Championship 2022 took place from 20th-30th April 2022 in&#160;\"Rodos Palace\" Hotel and Conference center, Rhodes, Greece. 200 children from 22 European federations participated in the Championship which was played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls section separately. The Closing Ceremony of the European School Chess Championship&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-champions-2022-crowned-in-rhodes-greece/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-school-chess-champions-2022-crowned-in-rhodes-greece/",
+         "pubDate" : "Sat, 30 Apr 2022 14:31:42 +0000",
+         "title" : "European School Chess Champions 2022 crowned in Rhodes, Greece"
+      },
+      {
+         "description" : " Inspired by a position I saw at today's Street Chess, here is a little study with White to play and win. As the winning idea is quite well known, I doubt this is an original creation, but it does identify one key idea in positions of this type. In the actual game there were a pair of rooks (and the black pawns were a lot further advanced), which actually saw Black win. <br /> <script>new PgnViewer( { boardName: \"game1324\", movesFormat: \"default\", pgnString:'[Event \"?\"][Site \"?\"][Date \"????.??.??\"][Round \"?\"][White \"?\"][Black \"?\"][Result \"1-0\"][SetUp \"1\"][FEN \"8/pp3pp1/4k3/6PP/5P2/8/8/K7 w - - 0 0\"][PlyCount \"11\"]1. h6 gxh6 2. gxh6 Kf6 3. f5 b6 4. Kb2 a6 5. Kb3 a5 6. Ka4', pauseBetweenMoves:",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/04/knowing-little-tricks.html",
+         "pubDate" : "Sat, 30 Apr 2022 13:44:00 +0000",
+         "title" : "Knowing the little tricks"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91214083.cms\" />All India Chess Federation (AICF), the Indian Government and Tamil Nadu Government are ensuring that the forthcoming Chess Olympiad, scheduled in Chennai from July 28 to August 10, would be memorable for the country, the participants as well as the spectators.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sports-minister-anurag-thakur-reviews-preparation-for-chess-olympiad-2022/articleshow/91214083.cms",
+         "pubDate" : "Sat, 30 Apr 2022 13:27:19 +0000",
+         "title" : "Sports Minister Anurag Thakur reviews preparation for Chess Olympiad 2022"
+      },
+      {
+         "description" : "MPL National blitz Chess Championship 2022 was organized by Nashik District Chess Association on behalf of Maharashtra chess association under the aegis of All India",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-national-blitz-chess-championship-2022-aravind-chithambaram-v-r-clinched-the-blitz-title-too/",
+         "pubDate" : "Sat, 30 Apr 2022 12:54:34 +0000",
+         "title" : "MPL National Blitz Chess Championship 2022, Aravind Chithambaram V R clinched the blitz title"
+      },
+      {
+         "description" : "Since the start of the war in Ukraine, now more than two months ago, several Russian grandmasters have decided to leave their country or not return to it. Chess.com spoke to four well-known players about their views of the war and the personal cho...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/russian-chess-grandmasters-leave-russia",
+         "pubDate" : "Sat, 30 Apr 2022 05:36:00 -0700",
+         "title" : "Russian Grandmasters Leave Russia: 'I Have No Sympathy For This War'"
+      },
+      {
          "description" : "Two world champions, Steinitz and Euwe; a chess family, the Cramlings; and plenty of 1.d4 practitioners, Moiseenko, Gaprindashvili, and Miles are born under the zodiac sign of Taurus. Their power lies in their calmness. A proper Taurus acts thoughtfully, prudently, deliberately. They calculate what they do, everything else is considered unreasonable. They may allow their opponent a refreshing nap while they think about the next move. It would be fatal to consider them limited for that reason. | Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/taurus-and-their-strategy",
          "pubDate" : "Sat, 30 Apr 2022 13:00:00 +0100",
          "title" : "Taurus and their strategy"
+      },
+      {
+         "description" : "The Mitropa Chess Cup 2022 kickes off in Corte and takes place from 27th April &#x2013; 8th May in the Sports complex (COSEC)&#160;of Corte, Corsica, France. &#160; Replay:&#160;Mitropa Cup 2021 information&#160;/&#160;Mitropa Cup 2021 live games&#160;/&#160;Mitropa Cup news&#160;Throwback:&#160;Mitropa Cup 2011 with Richard Rapport The teams of Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mitropa-chess-cup-2022-live/",
+         "pubDate" : "Sat, 30 Apr 2022 11:32:02 +0000",
+         "title" : "Mitropa Chess Cup 2022 LIVE"
       },
       {
          "description" : "New Delhi (30 April 22) :- All Indian Chess Federation( AICF), Indian Government and Tamil Nadu Government are ensuring that the forthcoming Chess Olympiad scheduled",
@@ -40,6 +104,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/oslo-esports-cup-a-great-learning-experience-says-r-praggnanandhaa/articleshow/91200206.cms",
          "pubDate" : "Sat, 30 Apr 2022 05:48:51 +0000",
          "title" : "Oslo Esports Cup a great learning experience, says R Praggnanandhaa"
+      },
+      {
+         "description" : "The 1st Chessable Sunway Formentera Festival is a 10-round swiss tournament taking place from 29 April to 8 May 2022 in Formentera, Spain. The Festival features two open events: A and B, with 54 players from 20 countries competing in the A tournament, including 33 titled players. The top seeds are GM Jaime Santos Latasa, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1st-chessable-sunway-formentera-chess-festival-live/",
+         "pubDate" : "Sat, 30 Apr 2022 03:14:00 +0000",
+         "title" : "1st Chessable Sunway Formentera Chess Festival LIVE"
       },
       {
          "description" : "The 55th edition of the Capablanca Memorial took place on April 19-28 at the historic Hotel Nacional de Cuba in Havana. Hans Niemann from the United States dominated the Elite group, scoring 7&frac12; points in the 10-player single round-robin. The Premier group, a women's tournament, was similarly dominated by Romanian IM Irina Bulmaga, who also collected 7&frac12; points to finish two points clear of her closest chaser. | Photo: Lennart Ootes / Saint Louis Chess Club",
@@ -282,28 +354,12 @@ news_feed (
          "title" : "Live Games Link for MPL National Blitz Chess Championship 2022"
       },
       {
-         "description" : "The FIDE Council has approved a cooperation agreement with the&#160;Grand Chess Tour. By virtue of this agreement, the two top finishers of the 2023 and 2025 Series will qualify for the Candidates Chess 2024 and 2026 respectively. Now: Grand Chess Tour 2022 As the Grand Chess Tour is an invitational event many questions remain unanswered. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-2023-is-part-world-championship-cycle/",
-         "pubDate" : "Fri, 29 Apr 2022 07:11:24 +0000",
-         "title" : "Grand Chess Tour 2023 is part World Championship Cycle"
-      },
-      {
          "description" : "GM Fabiano Caruana clinched clear 1st place in the inaugural 2022 American Cup, after defeating GM Levon Aronian in the second classical game of the final. In the Women's Field, GM Irina Krush completed her campaign for the title as well, securing the victory after drawing the second game in her match against FM Alice Lee. | Photo Courtesy of Saint Louis Chess Club, Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fabiano-caruana-wins-american-cup",
          "pubDate" : "Fri, 29 Apr 2022 07:41:39 +0100",
          "title" : "Fabiano Caruana wins American Cup!"
-      },
-      {
-         "description" : "The&#160;FIDE Candidates Chess 2022&#160;was announced in late December last year, with the dates, place and the sponsor. FIDE disclosed the event will take place in Madrid, June 16 July 7 The Candidates Chess 2022 is an 8 player double round robin tournament with some of the world&#x2019;s top Grandmasters. As the players are qualifying []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-tournament-pairings/",
-         "pubDate" : "Fri, 29 Apr 2022 06:14:46 +0000",
-         "title" : "FIDE Candidates 2022 Tournament pairings"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91171783.cms\" />India's teenaged Grandmaster R Praggnanandhaa missed out on the top prize in the USD 210,000 Oslo Esports Cup online rapid chess tournament as he lost 0.5-2.5 to Dutch player Anish Giri in the seventh and final round to finish fourth.",
@@ -416,14 +472,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-playoffs",
          "pubDate" : "Thu, 28 Apr 2022 09:47:55 -0700",
          "title" : "Collegiate Chess League Season 4: Playoffs"
-      },
-      {
-         "description" : "English Chess Federation announces English Championships in May, the British Championship in August, and the relaunched ECF Grand Prix from July 2022 to June 2023, all supported by Chessable. The first in the series of Chessable supported events will be the English Championships which are scheduled to take place in May, with the English Seniors []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-english-championships-2022/",
-         "pubDate" : "Thu, 28 Apr 2022 14:07:11 +0000",
-         "title" : "Chessable English Championships 2022"
       },
       {
          "description" : "After intense rapid and blitz play action in the Elimination Brackets on Tuesday, the sanity of the Championship Brackets returned on Wednesday with GMs Fabiano Caruana and Levon Aronian meeting in Group A while Group B saw a repeat of GM&#38;nbsp;Iri...",
@@ -1298,14 +1346,6 @@ news_feed (
          "title" : "Not sure about defending world title: Magnus Carlsen"
       },
       {
-         "description" : "Dear Sir/Mam Greetings ! As you are aware that the 44th Chess Olympiad is going to be held at Mahabalipuram ,Chennai from 28 July -10",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/kind-attention-aicf-office-temporarily-shifted-to-mahabalipuram-chennai/",
-         "pubDate" : "Fri, 22 Apr 2022 04:22:12 +0000",
-         "title" : "Kind Attention : AICF Office Temporarily Shifted to Mahabalipuram, Chennai"
-      },
-      {
          "description" : "\"The chess world isn't a safe place for us,\" says popular chess streamer Tallulah Roberts, aka \"lularobs\", recounting an incident at the blitz tournament of the Reykjavik Open 2022. Jamaal S. Abdul-Alim, 2013 Chess Journalist of the Year, explains \"why chess tournaments can be hostile for women and girls\". | Photo: Reykjavik Open",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1400,14 +1440,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/american-cup-day-1-recap-plenty-of-action",
          "pubDate" : "Thu, 21 Apr 2022 10:31:18 +0100",
          "title" : "American Cup, Day 1, Recap: Plenty of action"
-      },
-      {
-         "description" : "GM Sam Sevian is on the brink of a 2700+ rating after beating the reigning U.S. Champion Wesley So in the first round of The American Cup. This brand-new tournament, featuring a double-elimination bracket, started on Wednesday in St. Louis. How ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-american-cup-2022-day-1",
-         "pubDate" : "Thu, 21 Apr 2022 02:21:00 -0700",
-         "title" : "Sevian Upsets So: The American Cup Day 1"
       },
       {
          "description" : "",
@@ -1842,14 +1874,6 @@ news_feed (
          "title" : "Trainer Workshop: \"How to Teach Calculations\" by Artur Jussupow"
       },
       {
-         "description" : "The Meltwater Champions Chess Tour breaks new ground next week with the launch of its first fully in-person esports event, the Oslo Esports Cup. Carlsen, who tops the tour standings, heads a line-up of eight of the world's best chess players, which also includes the likes of Anish Giri and Jan-Krzysztof Duda. The first Major of the season will run from April 22 to 28.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-announcement",
-         "pubDate" : "Fri, 15 Apr 2022 10:00:00 +0100",
-         "title" : "Oslo Esports Cup: Champions Chess Tour's first fully in-person event"
-      },
-      {
          "description" : " This week, we are going to wrap up the last six weeks of work on tactics. I'm actually spreading out the end of this part of our middle-game studies through next week because we covered so much information. This week, I'll summarize what we have covered so far, to give those of you having trouble <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-seven/\">A Foundation for Beginners Fifty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprove",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2024,14 +2048,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-march-2022/",
          "pubDate" : "Mon, 11 Apr 2022 09:43:56 +0000",
          "title" : "ECU E-MAGAZINE MARCH 2022"
-      },
-      {
-         "description" : "The European Amateur Chess Championship 2022 will take place from 13th August (arrival day) to 21st August 2022 (departure day) in Hotel Aristos****, located in the city of Zagreb, Croatia. The event will be played in three rating categories: U2300, U2000 and U1700. A player must not have a published FIDE rating of 2300 or greater for at&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-championship-2022-official-regulations/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-amateur-chess-championship-2022-official-regulations/",
-         "pubDate" : "Mon, 11 Apr 2022 07:16:12 +0000",
-         "title" : "European Amateur Chess Championship 2022 - Official regulations"
       }
    ]
 }
