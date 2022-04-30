@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Getting active when you are underdeveloped is rarely a good idea - in the diagram position Black has just played 9...Qc7? intending to capture on c4. Can you punish this move with White?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fatal-pawn-hunt",
+         "pubDate" : "Sat, 30 Apr 2022 09:00:00 +0100",
+         "title" : "Fatal pawn hunt"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91200206.cms\" />India's R Praggnanandhaa missed a golden opportunity to win the Oslo Esports Cup as he lost in the seventh and final round 0.5-2.5 to Dutchman Anish Giri on Thursday night. Praggu, who had led the tournament for the first five rounds, ended fourth with 12 points. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/oslo-esports-cup-a-great-learning-experience-says-r-praggnanandhaa/articleshow/91200206.cms",
+         "pubDate" : "Sat, 30 Apr 2022 05:48:51 +0000",
+         "title" : "Oslo Esports Cup a great learning experience, says R Praggnanandhaa"
+      },
+      {
          "description" : "The 55th edition of the Capablanca Memorial took place on April 19-28 at the historic Hotel Nacional de Cuba in Havana. Hans Niemann from the United States dominated the Elite group, scoring 7&frac12; points in the 10-player single round-robin. The Premier group, a women's tournament, was similarly dominated by Romanian IM Irina Bulmaga, who also collected 7&frac12; points to finish two points clear of her closest chaser. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1840,14 +1856,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-day-1.html",
          "pubDate" : "Thu, 14 Apr 2022 22:46:00 +0000",
          "title" : "2022 O2C Doeberl Cup - Day 1"
-      },
-      {
-         "description" : "This week Robert Ris takes a look at the game Niemann-Thorhallsson from the Reykjavik Open. The young American Hans Moke Niemann is one of the main experts of the Jobava-London System and in this game he managed to defeat the experienced Icelandic GM Thorhallsson in only 21 moves. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-winning-with-the-jobava-london-system",
-         "pubDate" : "Thu, 14 Apr 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Winning with the Jobava-London System"
       },
       {
          "description" : "The English Chess Federation's 24-hour charity marathon for Ukraine took place over the weekend of 02/04 to 03/04 on Chess.com to raise funds for the...",
