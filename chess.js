@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Indian MPL Rapid and Blitz Chess Championships 2022 were held from 27th to 30th April 2022 in Nashik, India. The Rapid event was first on the schedule taking place 27-29 April with participation of 184 players. GM Chithambaram Aravindh successfully retained his National Rapid and Blitz titles after his triumph in both events in 2019. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aravindh-chithambaram-retains-indian-mpl-rapidblitz-national-champion-title/",
+         "pubDate" : "Sat, 30 Apr 2022 22:02:29 +0000",
+         "title" : "Aravindh Chithambaram remains Indian MPL Rapid&Blitz National Champion"
+      },
+      {
+         "description" : "The traditional TePe Sigeman & Co tournament will take place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars is likely to make for an enjoyable tournament, as defending champion Jorden van Foreest will be joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. | Photos: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-preview",
+         "pubDate" : "Sat, 30 Apr 2022 22:00:00 +0100",
+         "title" : "Exciting lineup at the TePe Sigeman & Co tournament in Sweden"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1721",
+         "pubDate" : "Sat, 30 Apr 2022 20:38:10 +0000",
+         "title" : "The Gift of Chess goes global"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser demonstrates how to create strong positional plans and convert a positionally winning advantage... while blindfolded! Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hr",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/explaining-positional-plans-while-blindfolded",
+         "pubDate" : "Sat, 30 Apr 2022 19:39:38 +0000",
+         "title" : "Explaining Positional Plans (while Blindfolded!)"
+      },
+      {
          "description" : "A 7-year-old girl from Romania Eliza Cretescu agreed to play in the 4th round of the European School Chess Championship 2022 even though her opponent was running late for the game. European Chess Union recognized the thoughtful act and awarded Eliza Cretescu with the special Fair Play Award. Read more: European School Chess Champions []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/7-year-old-gets-the-fair-play-award-at-european-school-chess-championship-2022-tweetoftheday/",
          "pubDate" : "Sat, 30 Apr 2022 17:20:44 +0000",
          "title" : "7-year-old gets the Fair Play Award at European School Chess Championship 2022 #TweetOftheDay"
+      },
+      {
+         "description" : " The Bundesliga 2021-22 season takes place Sat 5th Mar to Sun 10th Jul 2022. This accelerated German Bundesliga season will take just four months to complete. There are 16 teams and Baden Baden will again be favourites to win the title.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2021-22",
+         "pubDate" : "Sat, 30 Apr 2022 21:18:00 +0400",
+         "title" : "Bundesliga 2021-22 - "
       },
       {
          "description" : "Castling is a fascinating move. According to Wikipedia, \"it originates from the 'king's leap', a two-square king move added to European chess between the 14th and 15th centuries, which took on its present form in the 17th century\". The intricacies of the rules of castling have inspired many studies. Specialized columnist Siegfried Hornecker presents some of them. | Photos: Pixabay",
@@ -338,14 +378,6 @@ news_feed (
          "title" : "Capablanca Memorial concluded in La Habana"
       },
       {
-         "description" : "Polish star Jan-Krzysztof Duda pulled off a stunning late charge to clinch the $210,000 Oslo Esports Cup, the first Major of the Meltwater Champions Chess Tour season. This win will be a booster for Duda before the Candidates Chess 2022&#160;of which we already know the&#160;pairings. The 24-year-old took full advantage as both World Champion Magnus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jan-krzysztof-duda-wins-oslo-esports-cup/",
-         "pubDate" : "Fri, 29 Apr 2022 08:43:32 +0000",
-         "title" : "Jan-Krzysztof Duda wins Oslo Esports Cup"
-      },
-      {
          "description" : "Please check the link of Live Games for MPL National Blitz Chess Championship 2022 Blitz : https://view.livechesscloud.com/#0984df5b-1480-413a-b3e0-a872d1a904de Chess- Results Link : https://chess-results.com/tnr630265.aspx?lan=1 &#160;",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -568,14 +600,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/levon-aronian-playing-draw-tomorrow-day-8",
          "pubDate" : "Thu, 28 Apr 2022 01:37:43 +0000",
          "title" : "Levon Aronian: Playing for a Draw Tomorrow | Day 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Grand Chess Tour continues for 2022 in magnificent fashion with $1.4 million total prize fund allocated between 5 events. It will once again feature 2 classical chess tournaments and 3 rapid &amp; blitz tournaments spanning across Europe and United States. With the addition of an new event in Warsaw, Poland, fans can look forward to another entertaining and thrilling season. GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-grand-chess-tou",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-grand-chess-tour-promo",
-         "pubDate" : "Thu, 28 Apr 2022 01:37:43 +0000",
-         "title" : "2022 Grand Chess Tour | PROMO"
       },
       {
          "description" : "GMs Magnus Carlsen and Rameshbabu Praggnanandhaa&#38;nbsp;once again share the lead with 12 points after the penultimate day of play. They are followed closely by GMs Jan-Krzysztof Duda and Le Quang Liem, both with 11 points. Behind them, we find GM&#38;n...",
