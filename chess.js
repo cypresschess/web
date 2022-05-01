@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Spanish Chess Club &#8220;V Centenario San Sebasti&#xE1;n de los Reyes&#8221; posted today about an extraordinary chess game played in Madrid between a 100-year-old gentleman and a 10-year-old youngster. A 90 years age difference on the chess board showed the beauty of the game. The experience had prevailed as Mr. Manuel Alvarez Escudero won the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/90-years-difference-between-two-chess-opponents-tweetoftheday/",
+         "pubDate" : "Sun, 01 May 2022 15:22:58 +0000",
+         "title" : "90 years difference between two Chess opponents #TweetOftheDay"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 77th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about pawn majorities. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -376,14 +384,6 @@ news_feed (
          "link" : "https://www.chessdom.com/france-crowns-youth-and-junior-chess-champions-2022/",
          "pubDate" : "Fri, 29 Apr 2022 12:52:37 +0000",
          "title" : "France crowns Youth and Junior Chess Champions 2022"
-      },
-      {
-         "description" : "The 27th edition of the TePe Sigeman Chess Tournament will be held from 3-9 May at the Malmo Live conference centre in Malmo, Sweden. Eight players will play the seven rounds robin round tournament and the battlefield is led by GM Jorden van Foreest. The participants list: GM Jorden van Foreest GM Michael Adams GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tepe-sigeman-co-chess-tournament-2022/",
-         "pubDate" : "Fri, 29 Apr 2022 12:19:36 +0000",
-         "title" : "TePe Sigeman & Co Chess Tournament 2022"
       },
       {
          "description" : " The world champion missed a long distance threat and lost three of his seven matches in the Oslo Esports Cup, including Thursday's final round when victory would have ensured first prize An overambitious schedule, a heavy cold and mental fatigue finally caught up with Magnus Carlsen at the Oslo Esports Cup this week. The world champion had won the previous two legs of the online Meltwater Champions Tour and was expected to make it three in his home city, but it was Poland's Jan-Krzysztof Duda who edged ahead in Thursday's final round. Leading scores were Duda (Poland) 14/21, Le Quang Liem (Vietnam) 13, Carlsen (Norway) and Rameshbabu Praggnanandhaa (India) 12, Shak Mamedyarov (Azerbaijan) 1",
