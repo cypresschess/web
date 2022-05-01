@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine #207 provides, among many other things, all the games from the FIDE Grand Prix 2022 series, which was played in Berlin and Belgrade from February to April. Andrey Esipenko, Anish Giri, Grigoriy Oparin, Alexandr Predke, Sam Shankland, Wesley So, Vidit Gujrathi and Nikita Vitiugov are some of the Grand Prix participants who commented on their best games. Wesley So, who won the third tournament but missed out on qualifying to the Candidates Tournament, examines his victory over Leinier Dominguez with the black pieces. It's \"The Analysis\" of the issue, and it begins with the words \"Back in beautiful Berlin\". Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-slow-italian",
+         "pubDate" : "Sun, 01 May 2022 09:00:00 +0100",
+         "title" : "A slow Italian"
+      },
+      {
          "description" : "Indian MPL Rapid and Blitz Chess Championships 2022 were held from 27th to 30th April 2022 in Nashik, India. The Rapid event was first on the schedule taking place 27-29 April with participation of 184 players. GM Chithambaram Aravindh successfully retained his National Rapid and Blitz titles after his triumph in both events in 2019. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1848,14 +1856,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/swiss-young-masters-2022-preview",
          "pubDate" : "Sat, 16 Apr 2022 05:20:00 +0100",
          "title" : "Swiss Young Masters kicks off in Basel"
-      },
-      {
-         "description" : "In this week's edition of the Power Play Show, GM Daniel King features two games played by Praggnanandhaa at the Reykjavik Open. The prodigy's keen instinct to attack is in full display! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-attack-with-pragg",
-         "pubDate" : "Fri, 15 Apr 2022 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Attack with Pragg"
       },
       {
          "description" : "Friedrich Schiller has, in my mind, always been associated with chess, since I became familiar with his ideas about the nature of play. Actually identifying a specific, undeniable reference to chess in Schiller's oeuvre has, however, proved more elusive. On my desk I have a number of books which retain a permanent position and are []",
