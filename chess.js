@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Our columnist Jon Speelman found an old book by Alexey Suetin on his shelves. \"Scribed in the ancient English descriptive tongue, I hadn't touched it for years, but when opened, it proved to be a treasure trove of 'old chestnuts', some of which I'm going to share\". | Photo: The Spruce Crafts",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-169",
+         "pubDate" : "Sun, 01 May 2022 20:00:00 +0100",
+         "title" : "A fistful of chestnuts"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1722",
+         "pubDate" : "Sun, 01 May 2022 16:16:33 +0000",
+         "title" : "Mr. Fumey announces his candidacy for FIDE President"
+      },
+      {
+         "description" : " The Russian Team Championships take place in Sochi 1st to 10th May 2022. The event has obviously been severely impacted by the war. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/russian-team-championship-2022",
+         "pubDate" : "Sun, 1 May 2022 20:14:00 +0400",
+         "title" : "Russian Team Championship 2022 - Games and Results"
+      },
+      {
          "description" : "The Spanish Chess Club &#8220;V Centenario San Sebasti&#xE1;n de los Reyes&#8221; posted today about an extraordinary chess game played in Madrid between a 100-year-old gentleman and a 10-year-old youngster. A 90 years age difference on the chess board showed the beauty of the game. The experience had prevailed as Mr. Manuel Alvarez Escudero won the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1864,14 +1888,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/test-your-king-s-indian-iq",
          "pubDate" : "Sat, 16 Apr 2022 09:00:00 +0100",
          "title" : "Test your King's Indian IQ"
-      },
-      {
-         "description" : "Last weekend, the final rounds of the Czech Extraliga took place in a central event. Nový Bor had secured overall victory long before the end of the season. The team from Brno, which is always supported by sports presenter Inna Puhajkov&aacute;, finished in second place. | Photos: Vladimir Jagr",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/novy-bor-wins-czech-extraliga-2022",
-         "pubDate" : "Sat, 16 Apr 2022 09:00:00 +0100",
-         "title" : "Nový Bor wins the Czech Extraliga"
       },
       {
          "description" : " The 2nd day of the 2022 O2C Doeberl Cup saw the start of the Major, Minor and Under 1200 events. Due to a few last minute withdrawals, visa problems, and travel issues, the tournament fell just short of last years record numbers, with around <s>225</s>325 players sitting down at the board. The Premier saw rounds 3 and 4 played, with GM Bobby Cheng holding the outright lead with 4/4. He was followed by GM's Daniel Fernandez and Hrant Melkumyan, with a large group of players on 3. There were a few upsets in this round, the most notable being a win for Harry Press over IM Junta Ikeda. The Major saw the first 2 rounds played, with a number of players on 2/2, including top seed Ryan Lane, and ov",
