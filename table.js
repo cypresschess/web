@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2022-04-30","31","<a href=http://www.uschess.org/msa/XtblMain.php?202204304272 target='_blank'>F7 CHESS CLUB SPRING SCHOLASTIC</a>",
+"SPRING","2022-04-29","22","<a href=http://www.uschess.org/msa/XtblMain.php?202204293922 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-04-29","15","<a href=http://www.uschess.org/msa/XtblMain.php?202204293912 target='_blank'>FBCC04292022</a>",
 "CYPRESS","2022-04-29","22","<a href=http://www.uschess.org/msa/XtblMain.php?202204293852 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2022-04-05  - 04-26","14","<a href=http://www.uschess.org/msa/XtblMain.php?202204262862 target='_blank'>APRIL TUESDAY NIGHT SWISS</a>",
@@ -197,6 +199,4 @@ jtable([
 "CYPRESS","2021-06-18","6","<a href=http://www.uschess.org/msa/XtblMain.php?202106184732 target='_blank'>05212021KOFC</a>",
 "CYPRESS","2021-06-18","8","<a href=http://www.uschess.org/msa/XtblMain.php?202106180552 target='_blank'>05212021KOFC</a>",
 "HOUSTON","2021-06-18","6","<a href=http://www.uschess.org/msa/XtblMain.php?202106180062 target='_blank'>FRINITEJUN18</a>",
-"HOUSTON","2021-06-12  - 06-13","169","<a href=http://www.uschess.org/msa/XtblMain.php?202106137032 target='_blank'>TCR: HOUSTON CITY CHAMPIONSHIP 2021</a>",
-"HOUSTON","2021-05-14  - 06-11","12","<a href=http://www.uschess.org/msa/XtblMain.php?202106117892 target='_blank'>POISONPAWNRECREATE</a>",
 ]);
