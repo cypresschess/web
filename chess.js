@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Enyonam Sewa Fumey</strong>, the President of the <strong>Togo Chess Federation</strong> and <a href=\"https://www.fide.com/news/1083\">FIDE General Secretary</a> in the team of incumbent Arkady Dvorkovich until stepping down in May 2021, has <a href=\"https://www.fide.com/news/1722\">declared his candidacy</a> for <strong>FIDE</strong> President in the election to be held on 7 August in Mamallapuram, India. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/fumey-announces-candidacy/",
+         "pubDate" : "Sun, 01 May 2022 22:18:59 +0100",
+         "title" : "Fumey announces candidacy"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1723",
+         "pubDate" : "Sun, 01 May 2022 20:33:40 +0000",
+         "title" : "May rating list: five young players debut in Top-100 Open"
+      },
+      {
          "description" : "Our columnist Jon Speelman found an old book by Alexey Suetin on his shelves. \"Scribed in the ancient English descriptive tongue, I hadn't touched it for years, but when opened, it proved to be a treasure trove of 'old chestnuts', some of which I'm going to share\". | Photo: The Spruce Crafts",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +66,7 @@ news_feed (
          "title" : "Mariano Ortega Amarelle clinches Cabo Verde Chess Open"
       },
       {
-         "description" : "England achieved its best ever performance at the European Schools' Championship which finished in Rhodes on Friday. England's Zoe Veselow (girls under nine), Kushal Jakhria...",
+         "description" : "England achieved its best ever performance at the European Schools Championship which finished in Rhodes on Friday. England's Zoe Veselow (Girls U9), Kushal Jakhria (U7)...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/congratulations-to-english-juniors/",
@@ -326,7 +342,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-2022-im-not-a-gm-speed-chess-championship",
-         "pubDate" : "Fri, 29 Apr 2022 11:27:19 -0700",
+         "pubDate" : "Fri, 29 Apr 2022 11:27:00 -0700",
          "title" : "Announcing The 2022 I'M Not A GM Speed Chess Championship"
       },
       {
@@ -728,14 +744,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-jobava-win-titled-tuesday-april-26-2022",
          "pubDate" : "Wed, 27 Apr 2022 09:23:47 -0700",
          "title" : "Nakamura Wins Titled Tuesday For Third Straight Week, Jobava Victorious In Late"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Former Putin aide <strong>Arkady Dvorkovich</strong> is sailing towards a second term as <strong>FIDE</strong> President without a serious challenger in sight, but can chess still afford a Russian at its helm? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-04-26-at-15-34.1920.jpeg\" title=\"Arkady Dvorkovich speaking after being elected FIDE President in 2018 with Bachar Kouatly to his left. Peter Doggers / Chess.com\" data-title=\"Arkady Dvorkovich speaking after being elected FIDE President in 2018 with Bachar Kouatly to his left. (Peter Doggers / Chess.com)\" class=\"js-img\"> <",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/four-more-years-with-a-russian/",
-         "pubDate" : "Wed, 27 Apr 2022 15:06:01 +0100",
-         "title" : "Four more years?"
       },
       {
          "description" : " Broadcasting tournament games used to rely on having your own dedicated website. These days chess platforms have realised that such broadcasts can help bring users in, and have started offering it as a free service. Chess24 were probably the pioneers here, but other platforms are catching up. Both chess.com and lichess contacted me to stream the O2C Doeberl Cup this year, while 'Follow chess' normally carries it as well. If you are an organiser looking to use these services, each platform normally has instructions to follow (eg <a href=\"https://www.chess.com/article/view/how-to-broadcast-your-games-on-chesscom\">https://www.chess.com/article/view/how-to-broadcast-your-games-on-chesscom</a> f",
