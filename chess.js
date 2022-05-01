@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 77th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about pawn majorities. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-77-pawn-majorities-1",
+         "pubDate" : "Sun, 01 May 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 77: Pawn Majorities (1)"
+      },
+      {
          "description" : "The Cabo Verde Chess Open 2022 took place from 22-30 April in Mindelo S. Vicente located in the island country of the central Atlantic Ocean Cabo Verde. The event gathered 34 players from 10 countries, and after 9 rounds played in swiss system Mariano Ortega Amaralle won the event. Yago De Moura Santiago []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1872,14 +1880,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-day-2.html",
          "pubDate" : "Sat, 16 Apr 2022 04:36:00 +0000",
          "title" : "2022 O2C Doeberl Cup - Day 2"
-      },
-      {
-         "description" : "Easter Saturday (16 April) sees the start of the Swiss Young Masters tournament in Basel, a 10-player round robin event designed to give young Swiss players the opportunity to fight for rating points and norms. The traditional tournament will take place in Basel for the first time. The games will be broadcast live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/swiss-young-masters-2022-preview",
-         "pubDate" : "Sat, 16 Apr 2022 05:20:00 +0100",
-         "title" : "Swiss Young Masters kicks off in Basel"
       },
       {
          "description" : "Friedrich Schiller has, in my mind, always been associated with chess, since I became familiar with his ideas about the nature of play. Actually identifying a specific, undeniable reference to chess in Schiller's oeuvre has, however, proved more elusive. On my desk I have a number of books which retain a permanent position and are []",
