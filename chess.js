@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cabo Verde Chess Open 2022 took place from 22-30 April in Mindelo S. Vicente located in the island country of the central Atlantic Ocean Cabo Verde. The event gathered 34 players from 10 countries, and after 9 rounds played in swiss system Mariano Ortega Amaralle won the event. Yago De Moura Santiago []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mariano-ortega-amarelle-clinches-cabo-verde-chess-open/",
+         "pubDate" : "Sun, 01 May 2022 11:19:22 +0000",
+         "title" : "Mariano Ortega Amarelle clinches Cabo Verde Chess Open"
+      },
+      {
+         "description" : "England achieved its best ever performance at the European Schools' Championship which finished in Rhodes on Friday. England's Zoe Veselow (girls under nine), Kushal Jakhria...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/congratulations-to-english-juniors/",
+         "pubDate" : "Sun, 01 May 2022 10:56:26 +0000",
+         "title" : "Congratulations to English Juniors"
+      },
+      {
+         "description" : "The Mitropa Chess Cup 2022 opened yesterday in Corti, France, and takes place from 27th April - 8th May in the Sports complex (COSEC)&#160;of Corti under the ECU auspices. Teams of Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland compete in 9 rounds within two sections: Open and Women. The open section teams are:&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mitropa-chess-cup-2022-opened-in-corti/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/mitropa-chess-cup-2022-opened-in-corti/",
+         "pubDate" : "Sun, 01 May 2022 10:00:58 +0000",
+         "title" : "Mitropa Chess Cup 2022 opened in Corti"
+      },
+      {
+         "description" : " Jules Arnous de Rivière (1830-1905), also known as Arnous-Rivière, was perhaps the strongest chess player in France between the mid 1850s and the mid 1880s. He was ranked in the world's top 20 for some time, his highest position, according to Rod Edwards' retrospective analysis, being 11th with a rating of 2556 in 1859. By <a href=\"https://chessimprover.com/jules-arnous-de-riviere/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Jules Arnous de Rivière\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/jules-arnous-de-riviere/\">Jules Arnous de Rivière</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/jules-arnous-de-riviere/",
+         "pubDate" : "Sun, 01 May 2022 09:30:29 +0000",
+         "title" : "Jules Arnous de Rivière"
+      },
+      {
+         "description" : "34th MPL NATIONAL U-10 OPEN &#38; MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022 were organized by All J&#38;K Chess Association, under the auspices of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/34th-mpl-national-u-10-open-mpl-national-u-10-girls-chess-championships-2022report/",
+         "pubDate" : "Sun, 01 May 2022 08:50:59 +0000",
+         "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
+      },
+      {
          "description" : "ChessBase Magazine #207 provides, among many other things, all the games from the FIDE Grand Prix 2022 series, which was played in Berlin and Belgrade from February to April. Andrey Esipenko, Anish Giri, Grigoriy Oparin, Alexandr Predke, Sam Shankland, Wesley So, Vidit Gujrathi and Nikita Vitiugov are some of the Grand Prix participants who commented on their best games. Wesley So, who won the third tournament but missed out on qualifying to the Candidates Tournament, examines his victory over Leinier Dominguez with the black pieces. It's \"The Analysis\" of the issue, and it begins with the words \"Back in beautiful Berlin\". Take a look!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -135,7 +175,7 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/sports-minister-anurag-thakur-reviews-the-preparedness-for-the-chess-olympiad/",
          "pubDate" : "Sat, 30 Apr 2022 09:25:41 +0000",
-         "title" : "SPORTS MINISTER ANURAG THAKUR REVIEWS THE PREPAREDNESS FOR THE CHESS OLYMPIAD"
+         "title" : "SPORTS MINISTER Shri. ANURAG THAKUR REVIEWS THE PREPAREDNESS FOR THE CHESS OLYMPIAD"
       },
       {
          "description" : "In the days of the movie &#8220;Gladiator&#8221;, sand and sandals were de rigueur. &#8220;The Lord of the Rings&#8221; and &#8220;Hobbit&#8221; moved the focus to swords and sorcery. The current favourites are blood and mud. A prime example is the &#8220;Last Duel&#8221;, depicting chivalric battles in the days of mad King Charles VI of France, who []",
@@ -376,14 +416,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-nine/",
          "pubDate" : "Fri, 29 Apr 2022 09:30:14 +0000",
          "title" : "A Foundation for Beginners Fifty Nine"
-      },
-      {
-         "description" : "Capablanca Memorial 2022&#160;took place 19-28 April in La Habana, Cuba. This year the event featured strong round robin tournaments for men and women, as well as an open event.&#160; Hans Niemann won the men round robin event, aka Elite Group, with a round to spare. With a final score of 7.5 points he was two []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/capablanca-memorial-concluded-in-la-habana/",
-         "pubDate" : "Fri, 29 Apr 2022 09:19:02 +0000",
-         "title" : "Capablanca Memorial concluded in La Habana"
       },
       {
          "description" : "Please check the link of Live Games for MPL National Blitz Chess Championship 2022 Blitz : https://view.livechesscloud.com/#0984df5b-1480-413a-b3e0-a872d1a904de Chess- Results Link : https://chess-results.com/tnr630265.aspx?lan=1 &#160;",
@@ -968,14 +1000,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/american-cup-day-5-recap",
          "pubDate" : "Mon, 25 Apr 2022 13:40:58 +0100",
          "title" : "American Cup, Day 5, Recap: Fine games and a strong novelty"
-      },
-      {
-         "description" : "Dear All AICF is going to conduct Medical Evaluation of the age of Chess Players will be held at Chennai on 6th and 7th June,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/medical-evaluation-of-the-age-of-chess-players-will-be-held-at-chennai-on-6th-and-7th-june-2022/",
-         "pubDate" : "Mon, 25 Apr 2022 11:39:40 +0000",
-         "title" : "Medical Evaluation of the age of Chess Players will be held at Chennai on 6th and 7th June, 2022."
       },
       {
          "description" : "After three rounds 16-year old Indian talent Praggnaanandhaa is sole leader at the Oslo Esports Cup and the only player who won all three matches. In round three Pragg defeated the Vietnamese Grandmaster Le Quang Liem. Magnus Carlsen, who seems to suffer from a severe cold, won against Anish Giri and after two wins and one loss he is in second place.| Photos and pictures: PM Group",
@@ -1938,14 +1962,6 @@ news_feed (
          "title" : "FIDE Executive Director attends symposium in Corsica"
       },
       {
-         "description" : " For this week's show we managed to arrange another special guest, the British chess legend Raymond Keene. Besides being a Grandmaster, Keene was awarded an OBE by the Queen herself. He currently spends his time organizing mind sports events, as well as writing for The British Chess Magazine and The Article. In the show we <a href=\"https://chessimprover.com/master-chess-web-show-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-9/\">Master Chess Web Show (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/master-chess-web-show-9/",
-         "pubDate" : "Wed, 13 Apr 2022 14:37:12 +0000",
-         "title" : "Master Chess Web Show (9)"
-      },
-      {
          "description" : " After writing an article on different types of short Grandmaster draws, it is time to zoom in on the saddest category: pre-arranged draws. Yes, there are even cases of match-fixing wins &#38; losses, but they are much less common than pre-arranged draws. I'm not writing this article to accuse players. That is also why I [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/pre-arranged/\">The Dark Side Of Chess: Match-Fixing</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -2064,14 +2080,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/a-quick-doeberl-game.html",
          "pubDate" : "Mon, 11 Apr 2022 13:32:00 +0000",
          "title" : "A quick Doeberl game"
-      },
-      {
-         "description" : "The ECU E-Magazine March 2022 is out! The March 2022 edition of the ECU E-Magazine can be read online together with interactive links on the following link, or it can be downloaded in PDF format down below. In this edition of the ECU E-Magazine you may read about: European Individual Chess Championship 2022 FIDE Grand Prix 2022 ECU&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-march-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-march-2022/",
-         "pubDate" : "Mon, 11 Apr 2022 09:43:56 +0000",
-         "title" : "ECU E-MAGAZINE MARCH 2022"
       }
    ]
 }
