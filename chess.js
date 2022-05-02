@@ -5,6 +5,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1726",
+         "pubDate" : "Mon, 02 May 2022 22:13:25 +0000",
+         "title" : "V&aacute;zquez Maccarini wins Puerto-Rican Women's Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1725",
          "pubDate" : "Mon, 02 May 2022 18:02:31 +0000",
          "title" : "Susan Namangale: \"I want to be a part of the change\""
