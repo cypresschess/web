@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-12-nepomniachtchi-wins",
-         "pubDate" : "Mon, 02 May 2022 10:29:48 -0700",
+         "pubDate" : "Mon, 02 May 2022 10:29:00 -0700",
          "title" : "Nepomniachtchi Wins Knockout: Rapid Chess Championship Week 12"
       },
       {
