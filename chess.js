@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Can you imagine a chess book, written by a master, which contains exactly one chess diagram, and the notation of a single 17-move game? And that you would not be able to put it down? That is what happens with this unique work, written by chess master Asa Hoffmann, with his wife Ginny. Asa has spent a lifetime hustling game in the clubs, parks and streets of New York, and his account of his days there is absolutely compelling.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/asa-hoffmann-new-york-chess-hustler",
+         "pubDate" : "Mon, 02 May 2022 08:00:00 +0100",
+         "title" : "Asa Hoffmann, New York chess hustler"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser completely traps three of his opponent's pieces on their own back rank! Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/i-put-my-opponents-pieces-jail\"><img",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/i-put-my-opponents-pieces-jail",
+         "pubDate" : "Mon, 02 May 2022 04:40:41 +0000",
+         "title" : "I Put My Opponent's Pieces in Jail"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Enyonam Sewa Fumey</strong>, the President of the <strong>Togo Chess Federation</strong> and <a href=\"https://www.fide.com/news/1083\">FIDE General Secretary</a> in the team of incumbent Arkady Dvorkovich until stepping down in May 2021, has <a href=\"https://www.fide.com/news/1722\">declared his candidacy</a> for <strong>FIDE</strong> President in the election to be held on 7 August in Mamallapuram, India. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-8",
          "pubDate" : "Thu, 28 Apr 2022 01:37:43 +0000",
          "title" : "The American Cup 2022: Day 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Levon Aronian after his draw with Fabiano Caruana in Game 1 of their final match at The American Cup 2022. 2022.04.27<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-aronian-playing-draw-tomorrow-day-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PM8SLUTd9XI.jpg?itok=3f43KGwh\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/levon-aronian-playing-draw-tomorrow-day-8",
-         "pubDate" : "Thu, 28 Apr 2022 01:37:43 +0000",
-         "title" : "Levon Aronian: Playing for a Draw Tomorrow | Day 8"
       },
       {
          "description" : "GMs Magnus Carlsen and Rameshbabu Praggnanandhaa&#38;nbsp;once again share the lead with 12 points after the penultimate day of play. They are followed closely by GMs Jan-Krzysztof Duda and Le Quang Liem, both with 11 points. Behind them, we find GM&#38;n...",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/capablanca-the-chess-machine-sundararajan-kidambi",
          "pubDate" : "Sat, 16 Apr 2022 12:15:00 +0100",
          "title" : "Capablanca, the chess machine"
-      },
-      {
-         "description" : "In the diagrammed position, White has just answered the typical KI advance 8...e5 with the space-gaining 9.d5. Black's Nc6 is attacked - where would you put it?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/test-your-king-s-indian-iq",
-         "pubDate" : "Sat, 16 Apr 2022 09:00:00 +0100",
-         "title" : "Test your King's Indian IQ"
       },
       {
          "description" : " The 2nd day of the 2022 O2C Doeberl Cup saw the start of the Major, Minor and Under 1200 events. Due to a few last minute withdrawals, visa problems, and travel issues, the tournament fell just short of last years record numbers, with around <s>225</s>325 players sitting down at the board. The Premier saw rounds 3 and 4 played, with GM Bobby Cheng holding the outright lead with 4/4. He was followed by GM's Daniel Fernandez and Hrant Melkumyan, with a large group of players on 3. There were a few upsets in this round, the most notable being a win for Harry Press over IM Junta Ikeda. The Major saw the first 2 rounds played, with a number of players on 2/2, including top seed Ryan Lane, and ov",
