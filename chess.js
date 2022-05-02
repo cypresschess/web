@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Endgame Magic Show #192 Karsten M&uuml;ller has a very special guest. Tichon Cherniaev who's now in Hamburg joins Karsten on an interesting endgame journey.| You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-show-192-highlights-from-the-charity-cup",
+         "pubDate" : "Mon, 02 May 2022 13:00:00 +0100",
+         "title" : "Endgame Magic Show #192: Tichon Cherniaev"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91260418.cms\" />Two teams each will represent India in the Open and women's section at the 44th Chess Olympiad with five-time world champion Viswanathan Anand being named as the hosts' mentor for the prestigious tournament scheduled to be played from July 28 to Aug 10.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-viswanathan-anand-to-mentor-squad-as-india-name-two-teams-in-open-and-womens-section/articleshow/91260418.cms",
+         "pubDate" : "Mon, 02 May 2022 11:11:34 +0000",
+         "title" : "Olympiad: Anand to mentor squad as India name two teams in open and women's section"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1724",
+         "pubDate" : "Mon, 02 May 2022 11:00:35 +0000",
+         "title" : "Winners crowned at 2022 US Middle School Championship "
+      },
+      {
+         "description" : "Charlotte Chess Center in North Carolina organized three ALTO (At Least Twenty-One) chess tournaments played in 5 rounds from April 29 May 1 with a total prize fund of 5.500$. The main tournament gathered 25 players including 3 grandmasters, while the U1800 and U1400 tournaments brought together more than 80 players. GM Elshan Moradiabadi []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-elshan-moradiabadi-triumphs-alto-tournament-in-charlotte/",
+         "pubDate" : "Mon, 02 May 2022 10:06:08 +0000",
+         "title" : "GM Elshan Moradiabadi triumphs at ALTO tournament in Charlotte"
+      },
+      {
+         "description" : "The Icelandic Chess Championship 2022 took place from April 21 May 1 in Reykjavik, Iceland. Ten players competed in 9 round robin rounds of the Championship and Hjorvar Steinn Gretarsson defended the 2021 champion's title. The Winner was known with a round to spare and the last round determined only the medalists. Final rankings []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hjorvar-steinn-gretarsson-defends-the-title-of-icelandic-champion/",
+         "pubDate" : "Mon, 02 May 2022 09:38:41 +0000",
+         "title" : "Hjorvar Steinn Gretarsson defends the title of Icelandic Champion"
+      },
+      {
          "description" : "Can you imagine a chess book, written by a master, which contains exactly one chess diagram, and the notation of a single 17-move game? And that you would not be able to put it down? That is what happens with this unique work, written by chess master Asa Hoffmann, with his wife Ginny. Asa has spent a lifetime hustling game in the clubs, parks and streets of New York, and his account of his days there is absolutely compelling.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -234,7 +274,7 @@ news_feed (
          "title" : "Taurus and their strategy"
       },
       {
-         "description" : "The Mitropa Chess Cup 2022 kickes off in Corte and takes place from 27th April &#x2013; 8th May in the Sports complex (COSEC)&#160;of Corte, Corsica, France. &#160; Replay:&#160;Mitropa Cup 2021 information&#160;/&#160;Mitropa Cup 2021 live games&#160;/&#160;Mitropa Cup news&#160;Throwback:&#160;Mitropa Cup 2011 with Richard Rapport The teams of Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia []",
+         "description" : "The Mitropa Chess Cup 2022 kicked off in Corte and takes place from 27th April &#x2013; 8th May in the Sports complex (COSEC)&#xA0;of Corte, Corsica, France. &#xA0; Replay:&#160;Mitropa Cup 2021 information&#160;/&#160;Mitropa Cup 2021 live games&#160;/&#160;Mitropa Cup news&#160;Throwback:&#160;Mitropa Cup 2011 with Richard Rapport The teams of Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/mitropa-chess-cup-2022-live/",
@@ -346,14 +386,6 @@ news_feed (
          "title" : "European School Chess Champions 2022 crowned"
       },
       {
-         "description" : "Leading off the 2022 Grand Chess Tour will be the Superbet Chess Classic held&#160;from 3-15 May in Bucharest, Romania. The series of the Grand Chess Tour 2022 events will follow with three rapid &#38; blitz tournaments in Paris, Croatia, and Warsaw; and will conclude with the final classical event, the Sinquefield Cup.&#160; Following last year&#x2019;s []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-romania-2022/",
-         "pubDate" : "Fri, 29 Apr 2022 18:38:00 +0000",
-         "title" : "Grand Chess Tour Romania 2022"
-      },
-      {
          "description" : "The I&#39;M Not A GM Speed Chess Championship (IMSCC) is back for its 2022 edition, starting on May 9. The competition is once more bringing fan-favorite IMs and other masters to vie for their share of the $10,000 prize fund and bragging rights among ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -432,14 +464,6 @@ news_feed (
          "link" : "https://aicf.in/mpl-national-rapid-chess-championship-2022gm-aravindh-chithambaram-clinched-the-title-of-mpl-rapid-national-chess-champion-2022/",
          "pubDate" : "Fri, 29 Apr 2022 12:55:06 +0000",
          "title" : "MPL National Rapid Chess Championship 2022:GM Aravindh Chithambaram V R clinched the title of MPL Rapid National Chess Champion -2022"
-      },
-      {
-         "description" : "The French National Championships 2022 for youths and juniors concluded this week in Agen. With participation of more than 1500 kids the event was one of the most numerous chess events for youths in Europe. The Winners are: U20 Yovann GatineauGU20 Sarah DjidjeliU18 Joseph GirelGU18 Camille Blanquet U16 Simon LamazeGU16 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/france-crowns-youth-and-junior-chess-champions-2022/",
-         "pubDate" : "Fri, 29 Apr 2022 12:52:37 +0000",
-         "title" : "France crowns Youth and Junior Chess Champions 2022"
       },
       {
          "description" : " The world champion missed a long distance threat and lost three of his seven matches in the Oslo Esports Cup, including Thursday's final round when victory would have ensured first prize An overambitious schedule, a heavy cold and mental fatigue finally caught up with Magnus Carlsen at the Oslo Esports Cup this week. The world champion had won the previous two legs of the online Meltwater Champions Tour and was expected to make it three in his home city, but it was Poland's Jan-Krzysztof Duda who edged ahead in Thursday's final round. Leading scores were Duda (Poland) 14/21, Le Quang Liem (Vietnam) 13, Carlsen (Norway) and Rameshbabu Praggnanandhaa (India) 12, Shak Mamedyarov (Azerbaijan) 1",
@@ -1888,14 +1912,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/female-player-reports-harassment-in-reykjavik-open",
          "pubDate" : "Sat, 16 Apr 2022 13:30:13 +0000",
          "title" : "Female chess player reports harassment in Reykjavik Open"
-      },
-      {
-         "description" : "Every chess player has a unique style of preparing - some like to study classics, some follow the latest updates, others rely heavily on engines. However, there is one common thread between most of the top elite-level players: they have all studied the classics. Thus, GM Sundararajan Kidambi decided to decode Jose Raul Capablanca's brilliance and showcased it with a few examples. He posed an important question: if the best of the best learned and got inspired by the studying the classics, why can't we do the same?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/capablanca-the-chess-machine-sundararajan-kidambi",
-         "pubDate" : "Sat, 16 Apr 2022 12:15:00 +0100",
-         "title" : "Capablanca, the chess machine"
       },
       {
          "description" : " The 2nd day of the 2022 O2C Doeberl Cup saw the start of the Major, Minor and Under 1200 events. Due to a few last minute withdrawals, visa problems, and travel issues, the tournament fell just short of last years record numbers, with around <s>225</s>325 players sitting down at the board. The Premier saw rounds 3 and 4 played, with GM Bobby Cheng holding the outright lead with 4/4. He was followed by GM's Daniel Fernandez and Hrant Melkumyan, with a large group of players on 3. There were a few upsets in this round, the most notable being a win for Harry Press over IM Junta Ikeda. The Major saw the first 2 rounds played, with a number of players on 2/2, including top seed Ryan Lane, and ov",
