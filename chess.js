@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Noam Sason, 8, <a href=\"https://www.timesofisrael.com/8-year-old-israeli-wins-european-chess-championship/\">won the European school chess championship</a> for children under 9 in Rhodes, Greece. He scored 7 out of 9 and defeated players from Turkey, Greece, Georgia, Romania, and Ukraine. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/97B79EE5-A3AE-4E04-84ED-3BA751F14363.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Spectators at the 2016 World Chess Championship Match in New York's South Street Sea Port</div> </div> Noam's success comes on the heels of his other chess accomplishments, as well as support from his parents",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/8-year-old-israeli-wins-european-chess-championship-now-lets-tal/",
+         "pubDate" : "Mon, 02 May 2022 15:09:04 +0000",
+         "title" : "8-year-old Israeli Wins European Chess Championship. Now Let's Talk Money."
+      },
+      {
+         "description" : "Three months before the start of the 44th Chess Olympiad 2022, the compositions of Indian teams have been announced. Two teams in each Open and Women's section will represent India in Chennai from July 28 to August 10. Indian Team A (Open section): Vidit Santosh Gujrathi Pentala Harikrishna Arjun Erigaisi Srinath Narayanan Krishnan Sasikiran The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/india-teams-for-chess-olympiad-2022-announced/",
+         "pubDate" : "Mon, 02 May 2022 14:43:43 +0000",
+         "title" : "India teams for Chess Olympiad 2022 announced"
+      },
+      {
+         "description" : "The 501(c)3 US Chess Federation&#x2019;s 2022 National Middle School (K-8) Championship took place from April 28-May 1, 2022 at the Gaylord Texan Hotel and Resort in Grapevine, Texas. A total of 931 players from 35 states competed. This tournament was formerly known as the National Junior High School (K-9) Championship. The individual K-8 Co-Champions are []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-middle-school-champions-crowned/",
+         "pubDate" : "Mon, 02 May 2022 14:40:00 +0000",
+         "title" : "US Middle School Champions crowned"
+      },
+      {
+         "description" : "Viswanathan Anand, who decided against playing in Chennai, will be involved the mentor of the Indian teams",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33842004/chess-olympiad-viswanathan-anand-mentor-india-two-teams-open-women-section?device=featurephone",
+         "pubDate" : "Mon, 2 May 2022 09:24:44 -0500",
+         "title" : "Chess Olympiad: Anand to mentor India, hosts to field two teams"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Fabiano Caruana</strong> beat Dominguez and Aronian to win the <strong>American Cup</strong> and $60,000, showing good shape in his last classical chess tournament before the Candidates Tournament. The <a href=\"https://uschesschamps.com/2022-american-cup/recap\">American Cup was a new event that was played</a> at the <strong>Saint Louis Chess Club</strong> as K.o.-matches between the eight top US players with a second chance after losing once in an \"elimination bracket\". It doesn't seem to replace the US Championship that is expected to be held in autumn. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/caruana-wins-american-cup/",
+         "pubDate" : "Mon, 02 May 2022 14:13:23 +0100",
+         "title" : "Caruana wins American Cup"
+      },
+      {
+         "description" : "<p class=\"CDt4Ke zfr3Q\" dir=\"ltr\" style=\"box-sizing: border-box; color: #212121; font-family: Roboto; font-size: 13pt; font-variant-ligatures: none; line-height: 1.55; margin: 14px 0px 0px; outline: none; position: relative; text-decoration-line: inherit; white-space: pre-wrap;\"><span class=\" jgG6ef\" style=\"box-sizing: border-box; font-size: 18pt; vertical-align: baseline;\"><strong style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box;\">ACT Championships 2022</strong></span> <p class=\"CDt4Ke zfr3Q\" dir=\"ltr\" style=\"box-sizing: border-box; color: #212121; font-family: Roboto; font-size: 13pt; font-variant-ligatures: none; line-height: 1.55; margin: 14px 0px 0px; outline: none; pa",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/2022-act-championship-27th-28th-29th.html",
+         "pubDate" : "Mon, 02 May 2022 12:49:00 +0000",
+         "title" : "2022 ACT Championship - 27th, 28th, 29th 30th May "
+      },
+      {
+         "description" : "Enyonam Sewa Fumey has announced his intention to run for FIDE President. One of the founding members of the Togolese Chess Federation, Fumey has worked as General Secretary for the African Chess Confederation during four years. Fumey has announced that his Deputy President would be FM Stuart Fancy.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/enyonam-fumey-announces-candidacy-for-fide-president",
+         "pubDate" : "Mon, 02 May 2022 13:30:00 +0100",
+         "title" : "Mr. Fumey announces his candidacy for FIDE President"
+      },
+      {
          "description" : "In his Endgame Magic Show #192 Karsten M&uuml;ller has a very special guest. Tichon Cherniaev who's now in Hamburg joins Karsten on an interesting endgame journey.| You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -314,14 +370,6 @@ news_feed (
          "title" : "Oslo Esports Cup a great learning experience, says R Praggnanandhaa"
       },
       {
-         "description" : "The 1st Chessable Sunway Formentera Festival is a 10-round swiss tournament taking place from 29 April to 8 May 2022 in Formentera, Spain. The Festival features two open events: A and B, with 54 players from 20 countries competing in the A tournament, including 33 titled players. The top seeds are GM Jaime Santos Latasa, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1st-chessable-sunway-formentera-chess-festival-live/",
-         "pubDate" : "Sat, 30 Apr 2022 03:14:00 +0000",
-         "title" : "1st Chessable Sunway Formentera Chess Festival LIVE"
-      },
-      {
          "description" : "The 55th edition of the Capablanca Memorial took place on April 19-28 at the historic Hotel Nacional de Cuba in Havana. Hans Niemann from the United States dominated the Elite group, scoring 7&frac12; points in the 10-player single round-robin. The Premier group, a women's tournament, was similarly dominated by Romanian IM Irina Bulmaga, who also collected 7&frac12; points to finish two points clear of her closest chaser. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -376,14 +424,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1720",
          "pubDate" : "Fri, 29 Apr 2022 19:10:26 +0000",
          "title" : "Mwale and Priyasha win Malawian Championship"
-      },
-      {
-         "description" : "More than 200 kids from 22 European federations took part in the 2022 European School Chess Championship. The event was played from 20-30 April in &#x201C;Rodos Palace&#x201D; Hotel and Conference center, Rhodes, Greece. The Winners are: U17 Can Isik GU17 Can Isil U15 Andreev Konstantin (FIDE)GU15 Akat Elifnaz U13 Morkunas []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-school-chess-champions-2022-crowned/",
-         "pubDate" : "Fri, 29 Apr 2022 18:40:00 +0000",
-         "title" : "European School Chess Champions 2022 crowned"
       },
       {
          "description" : "The I&#39;M Not A GM Speed Chess Championship (IMSCC) is back for its 2022 edition, starting on May 9. The competition is once more bringing fan-favorite IMs and other masters to vie for their share of the $10,000 prize fund and bragging rights among ...",
@@ -792,14 +832,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/oslo-esports-cup-praggnanandhaa-regains-lead-after-blunder-by-carlsen",
          "pubDate" : "Wed, 27 Apr 2022 13:55:36 +0100",
          "title" : "Oslo Esports Cup: Praggnanandhaa regains lead after blunder by Carlsen"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Anish Giri</strong> becomes ambassador of the Play Magnus Group. His contracts includes regular streams for <strong>chess24</strong>, wearing chess24 and Chessable logos, promoting the <strong>Meltwater Champions Chess Tour</strong> and producing more courses for <strong>Chessable</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/anish-giri-signed-up-by-pmg/",
-         "pubDate" : "Wed, 27 Apr 2022 13:03:59 +0100",
-         "title" : "Anish Giri signed up by PMG"
       },
       {
          "description" : "\"I generally know how the pieces move, but with some notable exceptions!\" said Magnus Carlsen after a rook blunder saw him lose to Jorden van Foreest in Round 5 of the Oslo Esports Cup. That allowed 16-year-old Praggnanandhaa to take a 3-point lead with just two rounds to go after defeating Eric Hansen with a game to spare. The other matches were rollercoaster rides that were decided in blitz, with Shakhriyar Mamedyarov beating Giri while Liem Le apologised for ruining Jan-Krzysztof Duda's 24th birthday!",
@@ -1890,14 +1922,6 @@ news_feed (
          "title" : "Starting Wednesday: the American Cup"
       },
       {
-         "description" : "The Fagernes Open took place at the touristic valley of Valdres in Norway on April 10-17. Indian grandmasters Krishnan Sasikiran and Aryan Chopra topped the standings table with 7/9 points. Sasikiran was declared the champion thanks to his better tiebreak score. Frode Urkedal from Norway got third place. | Photo: Tom Eriksen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fagernes-open-2022-live",
-         "pubDate" : "Sun, 17 Apr 2022 01:55:00 +0100",
-         "title" : "Fagernes Open - Games and information"
-      },
-      {
          "description" : " Day 3 of the 2022 O2C Doeberl Cup saw plenty of action, with the Premier, Major and Minor in full swing. The Under 1200 Tournament finished it's two day run, while the Saturday evening Kinnford Consulting Blitz attracted a record 136 players. After 6 rounds of the Premier, 3 GM's share the lead on 5/6. GM Daniel Fernandez (ENG) beat GM Bobby Cheng (AUS) in Round 5, before drawing with FM Chris Wallis in Round 6. Cheng bounced back from his round 5 loss, beating FM Dusan Stojic in the next round to also move to 5. GM Hrant Melkumyan was the third player to finish the day tied for first, drawing with GM Temur Kuybokarov and then beating IM Gary Lane. In the Major, there are 4 players tied for",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2104,22 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1686",
          "pubDate" : "Mon, 11 Apr 2022 16:03:39 +0000",
          "title" : "Winners crowned at 2022 US High School Chess Championship "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1685",
-         "pubDate" : "Mon, 11 Apr 2022 14:53:40 +0000",
-         "title" : "The Exchange Forum: Facts and Myths about Gender in Chess"
-      },
-      {
-         "description" : " The 2022 O2C Doeberl Cup is only a few days away, so I thought I would dig up an interesting miniature from the past. White brought his queen out too early, and as a result saw it kicked all around the board. <br /> <b>Hoffmann, Achim - Bartlett, Stephen [B32]</b><br />Doeberl Cup, 2004 <script>new PgnViewer( { boardName: \"game1320\", movesFormat: \"default\", pgnString:'1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.Qd3 ({White has a number of choices in this position including} 8. Qc7) (8.Qxf6 Nxf6) (8. Qd1 {However the text move appears to be a novelty.}) 8... Nge7 9. g3 $2 d5 $1 10. exd5 Bf5 {Suddenly White finds himself in an awkward position. Attempts to w",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/04/a-quick-doeberl-game.html",
-         "pubDate" : "Mon, 11 Apr 2022 13:32:00 +0000",
-         "title" : "A quick Doeberl game"
       }
    ]
 }
