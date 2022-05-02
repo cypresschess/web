@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1725",
+         "pubDate" : "Mon, 02 May 2022 18:02:31 +0000",
+         "title" : "Susan Namangale: \"I want to be a part of the change\""
+      },
+      {
+         "description" : "Mother&#39;s Day is right around the corner, and it&#39;s time to start celebrating and showing appreciation to that special someone who gave you life. Four new mom bots are waiting on our Play Computer page to spend some quality time with you and play ch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-chess-against-mothers-day-bots",
+         "pubDate" : "Mon, 02 May 2022 10:55:00 -0700",
+         "title" : "Celebrate Mother's Day With The New Mom Bots"
+      },
+      {
+         "description" : "Viswanathan Anand, who decided against playing in Chennai, will be involved the mentor of the Indian teams",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33842004/chess-olympiad-viswanathan-anand-mentor-india-two-teams-open-women-section?device=featurephone",
+         "pubDate" : "Mon, 2 May 2022 12:42:05 -0500",
+         "title" : "Chess Olympiad: Anand to mentor India, hosts to field two teams"
+      },
+      {
+         "description" : "GM Ian Nepomniachtchi&#38;nbsp;won week 12 of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Nodirbek Abdusattorov in the knockout final, after also finishing first in the Saturday Swiss. GM Hikaru Nakamura finished ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-12-nepomniachtchi-wins",
+         "pubDate" : "Mon, 02 May 2022 10:29:48 -0700",
+         "title" : "Nepomniachtchi Wins Knockout: Rapid Chess Championship Week 12"
+      },
+      {
+         "description" : "What is the most important phase of the game? Surprisingly, many club players get the answer wrong. Usually, they put a lot of effort into positions that are approximately equal. However, once they get a much better or much worse position, they tend to relax a bit. In an almost winning position, a voice in the head of such a player whispers: \"You are great, my dear, and you have proved that already. The rest of the game is a mere formality.\" And in a lost position, this voice says: \"You have played rubbish. Ok, you have to pretend some fight, but the game is decided already, you will surely be defeated.\" Although psychologically understandable, this approach is wrong. Why? | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-9-fight-till-the-very-end",
+         "pubDate" : "Mon, 02 May 2022 18:00:00 +0100",
+         "title" : "The Winning Academy 9: Fight till the very end!"
+      },
+      {
+         "description" : "Ding Liren's incredible 28-game April marathon has seen him not only complete the 30 games he needed to be eligible for the Candidates Tournament, but also taken him above Alireza Firouzja into the world no. 2 spot on the May 2022 FIDE rating list. Richard Rapport is up to a career-high world no. 5, Sam Sevian has entered the 2700 club, while Gukesh, Hans Niemann, Alan Pichot, Jules Moussard and Amin Tabatabaei all entered the Top 100 for the first time.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ding-liren-world-no-2-on-may-2022-fide-rating-list",
+         "pubDate" : "Mon, 02 May 2022 16:30:32 +0000",
+         "title" : "Ding Liren world no. 2 on May 2022 FIDE rating list"
+      },
+      {
          "description" : " <p class=\"lead\">Noam Sason, 8, <a href=\"https://www.timesofisrael.com/8-year-old-israeli-wins-european-chess-championship/\">won the European school chess championship</a> for children under 9 in Rhodes, Greece. He scored 7 out of 9 and defeated players from Turkey, Greece, Georgia, Romania, and Ukraine. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/97B79EE5-A3AE-4E04-84ED-3BA751F14363.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Spectators at the 2016 World Chess Championship Match in New York's South Street Sea Port</div> </div> Noam's success comes on the heels of his other chess accomplishments, as well as support from his parents",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -24,14 +72,6 @@ news_feed (
          "link" : "https://www.chessdom.com/us-middle-school-champions-crowned/",
          "pubDate" : "Mon, 02 May 2022 14:40:00 +0000",
          "title" : "US Middle School Champions crowned"
-      },
-      {
-         "description" : "Viswanathan Anand, who decided against playing in Chennai, will be involved the mentor of the Indian teams",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33842004/chess-olympiad-viswanathan-anand-mentor-india-two-teams-open-women-section?device=featurephone",
-         "pubDate" : "Mon, 2 May 2022 09:24:44 -0500",
-         "title" : "Chess Olympiad: Anand to mentor India, hosts to field two teams"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Fabiano Caruana</strong> beat Dominguez and Aronian to win the <strong>American Cup</strong> and $60,000, showing good shape in his last classical chess tournament before the Candidates Tournament. The <a href=\"https://uschesschamps.com/2022-american-cup/recap\">American Cup was a new event that was played</a> at the <strong>Saint Louis Chess Club</strong> as K.o.-matches between the eight top US players with a second chance after losing once in an \"elimination bracket\". It doesn't seem to replace the US Championship that is expected to be held in autumn. </div> ",
@@ -58,7 +98,7 @@ news_feed (
          "title" : "Mr. Fumey announces his candidacy for FIDE President"
       },
       {
-         "description" : "In his Endgame Magic Show #192 Karsten M&uuml;ller has a very special guest. Tichon Cherniaev who's now in Hamburg joins Karsten on an interesting endgame journey.| You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "description" : "In his Endgame Magic Show #192 Karsten M&uuml;ller has a very special guest. Tichon Cherniaev, who's now in Hamburg, joins Karsten on an interesting endgame journey. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/endgame-magic-show-192-highlights-from-the-charity-cup",
@@ -1522,14 +1562,6 @@ news_feed (
          "title" : "51st Mar del Plata Open: Andres Rodriguez clinches the title"
       },
       {
-         "description" : "Chess.com is partnering with treasure.chess.com to offer an experimental NFT marketplace where players, creators, and collectors can create, trade, buy, and sell NFTs made from their Chess.com games. NFTs are a widely popular, and controversial,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/treasure-chess",
-         "pubDate" : "Thu, 21 Apr 2022 11:22:00 -0700",
-         "title" : "Announcing Treasure Chess: A Chess NFT Marketplace"
-      },
-      {
          "description" : "This week Robert Ris analyses how the young Indian Gukesh used a relatively new concept in the Sicilian Richter-Rauzer to win a nice and crucial game at the La Roda Open. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1544,14 +1576,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/arrow-right-less-chess",
          "pubDate" : "Thu, 21 Apr 2022 17:54:45 +0100",
          "title" : "Arrow-right-less Chess"
-      },
-      {
-         "description" : "Chess.com is excited to announce that verified accounts are coming to Chess.com beginning April 21. It&#39;s been one of our goals to offer online prize events open to all our members in an environment where everyone can trust that they are playing ag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-verified",
-         "pubDate" : "Thu, 21 Apr 2022 08:17:00 -0700",
-         "title" : "Chess.com Announces Verified Accounts"
       },
       {
          "description" : "A massive chess festival took place in Chihuahua, Mexico on April 12-17. Almost a thousand participants played in the numerous open tournaments, which included events for women, amateurs and different age categories. In the main event, Argentinian GM Sandro Mareco was the outright winner after scoring 7&frac12; out of 9 points. Pablo Salinas (Chile), Kevin Cori (Peru) and Luis Ibarra (Mexico) finished a half point. | Photo: Official site",
@@ -1914,28 +1938,12 @@ news_feed (
          "title" : "Pushing Passed Pawns"
       },
       {
-         "description" : "America's best chess players will return to the Saint Louis Chess Club to battle over the board on April 18-29 in a brand new and exciting tournament, the American Cup. With $300,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2022-announcement",
-         "pubDate" : "Sun, 17 Apr 2022 02:15:00 +0100",
-         "title" : "Starting Wednesday: the American Cup"
-      },
-      {
          "description" : " Day 3 of the 2022 O2C Doeberl Cup saw plenty of action, with the Premier, Major and Minor in full swing. The Under 1200 Tournament finished it's two day run, while the Saturday evening Kinnford Consulting Blitz attracted a record 136 players. After 6 rounds of the Premier, 3 GM's share the lead on 5/6. GM Daniel Fernandez (ENG) beat GM Bobby Cheng (AUS) in Round 5, before drawing with FM Chris Wallis in Round 6. Cheng bounced back from his round 5 loss, beating FM Dusan Stojic in the next round to also move to 5. GM Hrant Melkumyan was the third player to finish the day tied for first, drawing with GM Temur Kuybokarov and then beating IM Gary Lane. In the Major, there are 4 players tied for",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-day-3.html",
          "pubDate" : "Sat, 16 Apr 2022 22:22:00 +0000",
          "title" : "2022 O2C Doeberl Cup - Day 3"
-      },
-      {
-         "description" : "The Reykjavik Open was British chess player Tallulah Roberts' first international chess tournament, but despite scoring a good performance on the board, the 23-year-old says she was harassed and mentions several unpleasant incidents during the tournament. The Iceland organisers are now investigating the reports.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/female-player-reports-harassment-in-reykjavik-open",
-         "pubDate" : "Sat, 16 Apr 2022 13:30:13 +0000",
-         "title" : "Female chess player reports harassment in Reykjavik Open"
       },
       {
          "description" : " The 2nd day of the 2022 O2C Doeberl Cup saw the start of the Major, Minor and Under 1200 events. Due to a few last minute withdrawals, visa problems, and travel issues, the tournament fell just short of last years record numbers, with around <s>225</s>325 players sitting down at the board. The Premier saw rounds 3 and 4 played, with GM Bobby Cheng holding the outright lead with 4/4. He was followed by GM's Daniel Fernandez and Hrant Melkumyan, with a large group of players on 3. There were a few upsets in this round, the most notable being a win for Harry Press over IM Junta Ikeda. The Major saw the first 2 rounds played, with a number of players on 2/2, including top seed Ryan Lane, and ov",
@@ -2120,14 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1687",
          "pubDate" : "Tue, 12 Apr 2022 08:47:58 +0000",
          "title" : "FIDE World Rapid and Blitz Championships and World Women's Rapid and Blitz Championships 2022 - Call for bids"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1686",
-         "pubDate" : "Mon, 11 Apr 2022 16:03:39 +0000",
-         "title" : "Winners crowned at 2022 US High School Chess Championship "
       }
    ]
 }
