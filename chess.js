@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the Sheraton Bucharest Hotel, the Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players (Caruana, Aronian, Firouzja, So, Mamedyarov, Nepomniachtchi, Rapport, Dominguez, and MVL) are joined by a wildcard (Deac) for a classical round robin. Join GMs Peter Svidler, Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovich for the move-by-move. 2022.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fiel",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-round-2",
+         "pubDate" : "Tue, 03 May 2022 22:42:32 +0000",
+         "title" : "2022 Superbet Chess Classic: Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard teaches a chess class on a topic of his choice. 2022.05.03 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-0wWwLrINWc.jpg?itok=BgZUM7tz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-romain-%C3%A9douard",
+         "pubDate" : "Tue, 03 May 2022 22:42:32 +0000",
+         "title" : "Grandmaster's Choice - GM Romain Édouard"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1728",
+         "pubDate" : "Tue, 03 May 2022 20:04:34 +0000",
+         "title" : "Sri Lanka Championships 2022: De Silva and Ranasinghe clinch titles"
+      },
+      {
+         "description" : "The 27th edition of the TePe Sigeman Chess Tournament&#160;takes place from 3-9 May at the Malmo Live conference centre in Malmo, Sweden. Eight players play the seven rounds robin round tournament and the battlefield is led by&#160;GM Jorden van Foreest. The participants list: GM Jorden van Foreest GM Michael Adams GM David Navara GM Alexei []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tepe-sigeman-co-chess-tournament-2022-live/",
+         "pubDate" : "Tue, 03 May 2022 19:46:13 +0000",
+         "title" : "TePe Sigeman & Co Chess Tournament 2022 LIVE"
+      },
+      {
          "description" : "The 4th FIDE World Cadet U8, U10, U12 &#38; the FIDE World Youth U14, U16, U18 Rapid and Blitz Chess Championships concluded today in Rhodes, Greece. More than 300 players from 40 countries participated in the event and the new world champions are: U8 Rapid Ashwath Kaushik GU8 Rapid Sivanandan BodhanaU10 Rapid []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-world-youth-and-cadet-rapid-blitz-champions-crowned-in-rhodes/",
          "pubDate" : "Tue, 03 May 2022 19:29:42 +0000",
          "title" : "FIDE World Youth and Cadet Rapid & Blitz Champions crowned in Rhodes"
+      },
+      {
+         "description" : "In his 'Weekly Show' Lawrence Trent does a round-up of the action over the past week, including the Capablanca Memorial, the Bundesliga and the Oslo Esports Cup. Lawrence also analyses a nice attacking game he played at the Bundesliga Nord Division! | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-bundesliga-nord",
+         "pubDate" : "Tue, 03 May 2022 20:20:00 +0100",
+         "title" : "The Weekly Show: An attacking game from the Bundesliga Nord"
       },
       {
          "description" : "The Puerto Rico Women's Chess Championship 2022 took place from April 29 May 1 at the University of Puerto Rico. FM&#160;Danitza V&#xE1;zquez Maccarini emerged as the winner of the five-round Swiss tournament that brought together nine participants. Danitza turned in a dominating performance winning four straight games and securing the title with a round []",
@@ -22,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/its-50-years-folks/",
-         "pubDate" : "Tue, 03 May 2022 19:07:46 +0100",
+         "pubDate" : "Tue, 03 May 2022 19:45:04 +0100",
          "title" : "It's 50 years, folks!"
       },
       {
@@ -418,7 +458,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#114;&#46;&#x77;&#x69;&#99;kh&#x61;&#x6d;&#64;b&#x74;&#x69;&#110;&#116;e&#x72;&#x6e;&#101;t&#x2e;&#x63;&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#x72;&#46;&#119;&#x69;c&#107;&#x68;&#x61;&#109;&#x40;&#x62;t&#105;&#x6e;t&#101;&#x72;&#x6e;&#101;&#x74;&#x2e;c&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -464,14 +504,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/explaining-positional-plans-while-blindfolded",
          "pubDate" : "Sat, 30 Apr 2022 19:39:38 +0000",
          "title" : "Explaining Positional Plans (while Blindfolded!)"
-      },
-      {
-         "description" : "A 7-year-old girl from Romania Eliza Cretescu agreed to play in the 4th round of the European School Chess Championship 2022 even though her opponent was running late for the game. European Chess Union recognized the thoughtful act and awarded Eliza Cretescu with the special Fair Play Award. Read more: European School Chess Champions []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/7-year-old-gets-the-fair-play-award-at-european-school-chess-championship-2022-tweetoftheday/",
-         "pubDate" : "Sat, 30 Apr 2022 17:20:44 +0000",
-         "title" : "7-year-old gets the Fair Play Award at European School Chess Championship 2022 #TweetOftheDay"
       },
       {
          "description" : " The Bundesliga 2021-22 season takes place Sat 5th Mar to Sun 10th Jul 2022. This accelerated German Bundesliga season will take just four months to complete. There are 16 teams and Baden Baden will again be favourites to win the title.",
@@ -794,14 +826,6 @@ news_feed (
          "title" : "Irina Krush: The Championship Bracelet | Day 9"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Executive Director Tony Rich presents the champion's bracelet to Fabiano Caruana. 2022.04.28<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-championship-bracelet-day-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/g_58jirv498.jpg?itok=DdKavDQ6\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-championship-bracelet-day-9",
-         "pubDate" : "Fri, 29 Apr 2022 01:38:27 +0000",
-         "title" : "Fabiano Caruana: The Championship Bracelet | Day 9"
-      },
-      {
          "description" : "The 2022 Junior Speed Chess Championship by SIG continued today with a round of 16 match between GM Raunak Sadhwani and IM Mahammad Muradli, one that featured one of the greatest comebacks in Speed Chess Championship history. The early sections ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -824,14 +848,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/duda-wins-oslo-esports-cup-as-carlsen-pragg-collapse",
          "pubDate" : "Thu, 28 Apr 2022 21:04:21 +0000",
          "title" : "Duda wins Oslo Esports Cup as Carlsen & Pragg collapse"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the first time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.28<br /> USChessChamps.com FINAL ROUND | GAME 2<br /> Levon Aronian vs. Fabiano Caruana FINAL ROUND | GAME 2<br /> Alice Lee vs. Irina Krush </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2022-day-9\"><img ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-9",
-         "pubDate" : "Thu, 28 Apr 2022 19:38:17 +0000",
-         "title" : "The American Cup 2022: Day 9"
       },
       {
          "description" : "",
@@ -1922,14 +1938,6 @@ news_feed (
          "title" : "FIDE announces long-term cooperation with the Scheinberg family"
       },
       {
-         "description" : "Gukesh won his first classical tournament of the year at the 48th edition of the La Roda International Open. He obtained an unbeaten 8/9 score to finish a half point ahead of the competition. Haik Martirosyan from Armenia secured second place as the only player who got 7&frac12;/9 points. Five players scored 7/9, with Praggnanandhaa and Raunak Sadhwani getting third and fourth places respectively on tiebreaks. | Photo: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-triumphs-at-la-roda-open-2022",
-         "pubDate" : "Mon, 18 Apr 2022 23:15:00 +0100",
-         "title" : "Gukesh triumphs at La Roda Open"
-      },
-      {
          "description" : " <p class=\"lead\">In an <a href=\"https://www.vg.no/sport/i/G3Llvl/her-forklarer-carlsen-hvorfor-han-trolig-gir-fra-seg-vm-tittelen\">interview with VG</a>, a Norwegian news site, Magnus Carlsen, the undefeated World Chess Champion, gave the strongest indication to date that he will not defend his title, come the World Chess Championship match next year. But he can still change his mind. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/69D102F2-60FF-478B-8277-D9A23E7402A3.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen in London in 2018. He won his match against Fabiano Caruana.</div> </div> Our Norwegian is a bit rusty, but it'",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2128,22 +2136,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu101-the-smart-method-to-teach-chess/",
          "pubDate" : "Wed, 13 Apr 2022 07:47:12 +0000",
          "title" : "ECU101 - The SMART Method to Teach Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1688",
-         "pubDate" : "Tue, 12 Apr 2022 20:32:28 +0000",
-         "title" : "Pragganandhaa wins 2022 Reykjavik Open"
-      },
-      {
-         "description" : " <p class=\"lead\">There's a lot going on in the official FIDE gaming platform! We've set up a FIDE Online Arena news digest to keep you up-to-date! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/image.png\" width=\"1600\" height=\"800\" alt=\"\" /> </div> <h2>Big Announcement</h2> On April 28, <a href=\"https://chessarena.com/tournaments/17311\">the very first tournament with GM Vidit Gujrathi</a>, one of the strongest players in the world and the FIDE Online Arena ambassador, will be held at the FIDE Online Arena! The Indian Grandmaster and Arena Ambassador will also be streaming during the tournament. <a href=\"https://chessarena.com/tournaments/17311\">Join</a>, play wit",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-online-arena-weekly-digest/",
-         "pubDate" : "Tue, 12 Apr 2022 19:49:51 +0000",
-         "title" : "FIDE Online Arena Weekly Digest"
       }
    ]
 }
