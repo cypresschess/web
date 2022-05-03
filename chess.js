@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Junior Speed Chess Championship by SIG returned today with a high-octane quarterfinal between GMs Brandon Jacobson&#38;nbsp;and GM Awonder Liang where viewers were graced with yet another stellar comeback in the championship.&#38;nbsp; Liang wa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-quarterfinal-liang-jacobson",
+         "pubDate" : "Tue, 03 May 2022 07:35:43 -0700",
+         "title" : "Liang Best In Bullet Bonanza: 2022 Junior Speed Chess Championship Quarterfinal"
+      },
+      {
+         "description" : "It&#39;s almost time for the 2022 edition of the I&#39;M Not A GM Speed Chess Championship, which begins Monday, May 9. But it&#39;s not just the players who get to enjoy the thrill of competition this year: We&#39;re running a free-to-play, cash prize bracket co...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-imscc-chess-bracket-contest",
+         "pubDate" : "Tue, 03 May 2022 07:00:00 -0700",
+         "title" : "Complete Your 2022 I'M Not A GM Speed Chess Championship Bracket Today"
+      },
+      {
+         "description" : "\"There were few moments in the course of a conversation that leave one speechless - if our profession did not require us to ask questions,\" writes Bj&ouml;rn Jensen, reporter of Hamburg's major daily newspaper. He visited Tykhon Cherniaiev, the 12-year-old chess supertalent from Ukraine, who fled his country and is now staying in Hamburg, Germany, where he is attending school and pursuing his chess career. | Photo of Tykhon with his coach GM Dorian Rogozenco by Michael Rauhe/FUNKE Foto Services.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-ukranian-top-talent-in-hamburg",
+         "pubDate" : "Tue, 03 May 2022 15:00:00 +0100",
+         "title" : "A Ukranian top talent in Hamburg"
+      },
+      {
+         "description" : "The traditional TePe Sigeman & Co tournament is taking place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars is likely to make for an enjoyable tournament, as defending champion Jorden van Foreest will be joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. Round 1 starts Tuesday at 15.00 CEST. | Photo: Lars OA Hedlund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-live",
+         "pubDate" : "Tue, 03 May 2022 14:55:00 +0100",
+         "title" : "TePe Sigeman & Co - Live!"
+      },
+      {
+         "description" : "<img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1651581147171-JYO9BCYLIX376F95FTWR/2019-Kirill-Shevchenko.JPG\" data-image-dimensions=\"800x1067\" data-image-focal-point=\"0.5,0.5\" alt=\"2019-Kirill-Shevchenko.JPG\" data-load=\"false\" data-image-id=\"627120da493d026d741d0a49\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1651581147171-JYO9BCYLIX376F95FTWR/2019-Kirill-Shevchenko.JPG?format=1000w\" /><br> <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1651581160081-8OCRX2I6OKJ16CAV3R32/me-norwaychess-dsc06056-emelianova-removebg+%281%29",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/5/3/ep-277-gm-kirill-shevchenko-and-wfm-maria-emelianova-a-ukrainian-gm-and-a-russian-chess-streamer-on-the-impact-of-the-russian-ukrainian-war-on-their-lives-and-its-impact-on-the-chess-world",
+         "pubDate" : "Tue, 03 May 2022 12:48:41 +0000",
+         "title" : "EP 277-GM Kirill Shevchenko and WFM Maria Emelianova, a Ukrainian GM and a Russian Chess Streamer, on How the Russian-Ukrainian War Impacts their lives, their Careers and the Chess World"
+      },
+      {
          "description" : "The Superbet Chess Classic Romania will be held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It will include all nine full tour players and one wildcard player, Romanian Grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. | Photo: Lennart Ootes (2021)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +58,14 @@ news_feed (
          "title" : "Gretarsson dominates Icelandic Championship"
       },
       {
+         "description" : " The 27th TePe Sigeman & Co Chess tournament takes place in May 3rd - 9th, 2022 - Malmo, Sweden. There is a really interesting mixed age group field this year: Jorden Van Foreest, Michael Adams, David Navara, Alexei Shirov, Saleh Salem, Arjun Erigaisi, Nils Grandelius and Hans Moke Niemann. I always have a special feeling about this tournament as it started the same year I was first reporting on chess on the internet. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/27th-tepe-sigeman-co-chess-tournament-2022",
+         "pubDate" : "Tue, 3 May 2022 13:50:00 +0400",
+         "title" : "27th TePe Sigeman & Co Chess Tournament 2022 - Games and Results"
+      },
+      {
          "description" : "The Superbet Chess Classic Romania, the first event of the 2022 Grand Chess Tour series, opens tomorrow in Bucharest and will be played from 4th to 15th May. 10 players participate in the event which will be played in 9 rounds, round robin system: Alireza Firouzja, Ian Nepomniachtchi, Levon Aronian, Richard Rapport, Fabiano Caruana, Maxime Vachier-Lagrave, Wesley So,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/superbet-chess-classic-romania-2022-opens/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -26,11 +74,11 @@ news_feed (
          "title" : "Superbet Chess Classic Romania 2022 opens"
       },
       {
-         "description" : "The May FIDE rating list has GM Ding Liren back as the world&#39;s number two player, 58 points behind World Champion Magnus Carlsen and just two points ahead of GM Alireza Firouzja, who was in second place before. Meanwhile, the list reflects that a ...",
+         "description" : "The May FIDE rating list has GM Ding Liren back as the world&#39;s number-two player, 58 points behind World Champion Magnus Carlsen and just two points ahead of GM Alireza Firouzja, who had been in second place before. Meanwhile, the list reflects th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/may-2022-fide-ratings",
-         "pubDate" : "Tue, 03 May 2022 02:02:02 -0700",
+         "pubDate" : "Tue, 03 May 2022 02:02:00 -0700",
          "title" : "May FIDE Ratings: Ding Back In 2nd, Young Players On The Rise"
       },
       {
@@ -314,7 +362,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#114;&#46;&#x77;&#x69;&#99;&#107;h&#x61;&#x6d;&#64;&#98;t&#x69;&#x6e;&#116;er&#x6e;&#x65;&#116;&#46;&#x63;&#x6f;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#46;&#x72;&#46;&#x77;&#105;&#x63;&#107;&#x68;&#97;m&#x40;b&#x74;&#105;&#x6e;&#116;&#x65;&#114;&#x6e;&#101;t&#x2e;c&#x6f;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1394,22 +1442,6 @@ news_feed (
          "title" : "American Cup: Day 3 Recap"
       },
       {
-         "description" : "GMs Magnus Carlsen, Anish Giri, Praggnanadhaa R., and Shakhriyar Mamedyarov won their respective matches in the first round of the Oslo Esports Cup&#38;mdash;no tiebreaks were necessary. Both Carlsen and Praggnanadhaa needed only three games to win th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/no-tiebreaks-necessary-oslo-esports-cup-day-1",
-         "pubDate" : "Sat, 23 Apr 2022 03:15:00 -0700",
-         "title" : "No Tiebreaks Necessary: Oslo Esports Cup Day 1"
-      },
-      {
-         "description" : "Day three of The American Cup featured one win in each of the Championship Brackets. GM Leinier Dominguez&#38;nbsp;won as Black against&#38;nbsp;GM Levon Aronian&#38;nbsp;in Group A and FM Alice Lee defeated WGM Tatev Abrahamyan&#38;nbsp;in Group B. In the Elim...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-american-cup-day-3",
-         "pubDate" : "Sat, 23 Apr 2022 02:20:21 -0700",
-         "title" : "Dominguez Strikes With Black: The American Cup Day 3"
-      },
-      {
          "description" : "The world's top chess authorities have already voted to rebuke Russia for its egregious invasion of Ukraine. The unanimous decision by the International Chess Federation (FIDÉ) to ban Russians from competing under their own flag, and deprive the country of the Chess Olympiad, originally scheduled for Moscow this summer, is extraordinary. This is not just []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1890,14 +1922,6 @@ news_feed (
          "title" : "Magnus Carlsen Will Really, Really Give Up His Championship Title, Maybe"
       },
       {
-         "description" : "In his Endgame Magic Show #190 Karsten M&uuml;ller looks at endgame highlights from the Bundesliga. On 9 and 10 of April the 16 teams in Germany's top league played rounds 3 and 4 of the current season, which led to a number of fascinating endgames which Karsten wants to share with his viewers. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-show-190-endgame-highlights-from-the-bundesliga",
-         "pubDate" : "Mon, 18 Apr 2022 18:00:00 +0100",
-         "title" : "Endgame Magic Show #190: Endgame highlights from the Bundesliga"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90913994.cms\" />The 100-day countdown for the 44th Chess Olympiad, to be held here later this year, began on Monday with the legendary Viswanathan Anand terming the tournament a life-time opportunity for youngsters to catch a glimpse of their idols.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1912,14 +1936,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-win-for-gm-hrant.html",
          "pubDate" : "Mon, 18 Apr 2022 11:49:00 +0000",
          "title" : "2022 O2C Doeberl Cup - Win for GM Hrant Melkumyan"
-      },
-      {
-         "description" : "Krishnan Sasikiran was one of three players who entered the final round of the Fagernes Open a half point behind sole leader Aryan Chopra. Sasikiran beat Alexander Donchenko with black to catch up with Aryan, who drew Frode Urkedal on top board. Out of the two Indians, it was Sasikiran who claimed the title, as he had the better tiebreak score at the end of the event. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fagernes-open-2022-r9",
-         "pubDate" : "Mon, 18 Apr 2022 12:20:00 +0100",
-         "title" : "Sasikiran beats Donchenko to clinch Fagernes Open"
       },
       {
          "description" : "",
@@ -2128,22 +2144,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-praggnanandhaa-wins-reykjavik-open-chess-tournament/articleshow/90806347.cms",
          "pubDate" : "Tue, 12 Apr 2022 17:16:36 +0000",
          "title" : "Indian GM Praggnanandhaa wins Reykjavik Open chess"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2d5e3eb6-e3d6-4149-aa8e-256f367a4181/Paul3.jpg\" data-image-dimensions=\"1736x873\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"625588aa13e4b945b461f696\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2d5e3eb6-e3d6-4149-aa8e-256f367a4181/Paul3.jpg?format=1000w\" /> </figure> <p class=\"\">The Perpetual Chess <a href=\"https://www.perpetualchesspod.com/adultimprover\" target=\"_blank\">Adult Improver Series</a> is back, but this time with a twist. We feature a senior gu",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/4/12/ep-274-paul-hedrick-adult-improver-series-with-guest-co-host-han-schut",
-         "pubDate" : "Tue, 12 Apr 2022 14:14:59 +0000",
-         "title" : "EP 274- Paul Hedrick (Adult Improver Series) with guest co-host Han Schut "
-      },
-      {
-         "description" : "On Thursday May 12th 2022 13.30 to 15.00 at the Caf&eacute; Tropea, Russell Square Gardens. We will be joined by Malcolm Pein, International Chess Master,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/unveiling-of-new-chess-tables-in-russell-square-gardens/",
-         "pubDate" : "Tue, 12 Apr 2022 13:08:06 +0000",
-         "title" : "Unveiling of new chess tables in Russell Square Gardens"
       }
    ]
 }
