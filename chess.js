@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Passed pawns are often strong and connected passed pawns are even stronger. In the diagrammed position it is White to move - how can he use the power of his passed pawns to win the game?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/passed-pawns-are-powerful-2",
+         "pubDate" : "Tue, 03 May 2022 09:00:00 +0100",
+         "title" : "Passed pawns are powerful"
+      },
+      {
+         "description" : "Opening theory has come a long way, from the ECO codes to the current digital, multimedia publications. The ChessBase Opening Encyclopaedia is more than a compilation of writings on opening variations. It also has opening videos, tutorials, databases and games, annotated and unannotated. For who is it intended? For everyone who wants to learn.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/encyclopaedia-review-2022-part-1",
+         "pubDate" : "Tue, 03 May 2022 08:35:00 +0100",
+         "title" : "Opening Encyclopaedia 2022 Review: Open Games"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1920,22 +1936,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-168",
          "pubDate" : "Sun, 17 Apr 2022 21:05:00 +0100",
          "title" : "The importance of irresolution"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 75th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how to put pressure on your opponent. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-75-how-to-pressure-your-opponent",
-         "pubDate" : "Sun, 17 Apr 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 75: How to pressure your opponent"
-      },
-      {
-         "description" : "St. Petersburg 1914 is one of the most memorable tournaments in history. What has made it a landmark chess event? Was it because it was the first true super-tournament of the 20th century and chess' modern age? Was it because it drew together the legendary trio of Emanuel Lasker, Jose Raul Capablanca, and Alexander Alekhine for the first time? Was it because it provided one of the most dramatic and riveting finishes of all time in top-level chess? The reasons are plenty, all of which call for a revisit of the tournament a century and eight years after its passing.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/revisiting-st-petersburg-1914-april-21-1914-may-22-1914",
-         "pubDate" : "Sun, 17 Apr 2022 10:00:00 +0100",
-         "title" : "Revisiting St. Petersburg 1914 - (April 21, 1914 - May 22, 1914)"
       },
       {
          "description" : " While researching GE Wainwright I came across this game concluding wit a sharp rook ending in which he, on two occasions, played a move converting a win into a loss. &#124;Yes, you'd be correct in inferring that, in between, his opponent also converted a win into a loss. In one of his last games, after <a href=\"https://chessimprover.com/pushing-passed-pawns/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Pushing Passed Pawns\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/pushing-passed-pawns/\">Pushing Passed Pawns</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
