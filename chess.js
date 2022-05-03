@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Superbet Chess Classic Romania will be held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It will include all nine full tour players and one wildcard player, Romanian Grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. | Photo: Lennart Ootes (2021)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-preview",
+         "pubDate" : "Tue, 03 May 2022 11:00:00 +0100",
+         "title" : "The Grand Chess Tour kicks off in Romania"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1727",
+         "pubDate" : "Tue, 03 May 2022 09:53:59 +0000",
+         "title" : "Gretarsson dominates Icelandic Championship"
+      },
+      {
+         "description" : "The Superbet Chess Classic Romania, the first event of the 2022 Grand Chess Tour series, opens tomorrow in Bucharest and will be played from 4th to 15th May. 10 players participate in the event which will be played in 9 rounds, round robin system: Alireza Firouzja, Ian Nepomniachtchi, Levon Aronian, Richard Rapport, Fabiano Caruana, Maxime Vachier-Lagrave, Wesley So,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/superbet-chess-classic-romania-2022-opens/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/superbet-chess-classic-romania-2022-opens/",
+         "pubDate" : "Tue, 03 May 2022 09:40:27 +0000",
+         "title" : "Superbet Chess Classic Romania 2022 opens"
+      },
+      {
+         "description" : "The May FIDE rating list has GM Ding Liren back as the world&#39;s number two player, 58 points behind World Champion Magnus Carlsen and just two points ahead of GM Alireza Firouzja, who was in second place before. Meanwhile, the list reflects that a ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/may-2022-fide-ratings",
+         "pubDate" : "Tue, 03 May 2022 02:02:02 -0700",
+         "title" : "May FIDE Ratings: Ding Back In 2nd, Young Players On The Rise"
+      },
+      {
          "description" : "Passed pawns are often strong and connected passed pawns are even stronger. In the diagrammed position it is White to move - how can he use the power of his passed pawns to win the game?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/passed-pawns-are-powerful-2",
          "pubDate" : "Tue, 03 May 2022 09:00:00 +0100",
          "title" : "Passed pawns are powerful"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about &quot;forcing moves&quot; in chess. This includes checks and captures, which force an opponent to respond in a specific way. Originally on Twitch<br /> 2022.04.18 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/forcing-moves-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eDBQu6315xA.jpg?itok=RjKLcpRH\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/forcing-moves-beginner-breakdown",
+         "pubDate" : "Tue, 03 May 2022 07:41:55 +0000",
+         "title" : "Forcing Moves | Beginner Breakdown"
       },
       {
          "description" : "Opening theory has come a long way, from the ECO codes to the current digital, multimedia publications. The ChessBase Opening Encyclopaedia is more than a compilation of writings on opening variations. It also has opening videos, tutorials, databases and games, annotated and unannotated. For who is it intended? For everyone who wants to learn.",
@@ -272,6 +312,14 @@ news_feed (
          "link" : "https://aicf.in/34th-mpl-national-u-10-open-mpl-national-u-10-girls-chess-championships-2022report/",
          "pubDate" : "Sun, 01 May 2022 08:50:59 +0000",
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
+      },
+      {
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#114;&#46;&#x77;&#x69;&#99;&#107;h&#x61;&#x6d;&#64;&#98;t&#x69;&#x6e;&#116;er&#x6e;&#x65;&#116;&#46;&#x63;&#x6f;&#109; as...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
+         "pubDate" : "Sun, 01 May 2022 08:00:08 +0000",
+         "title" : "BCET Awards 2022 - a reminder"
       },
       {
          "description" : "ChessBase Magazine #207 provides, among many other things, all the games from the FIDE Grand Prix 2022 series, which was played in Berlin and Belgrade from February to April. Andrey Esipenko, Anish Giri, Grigoriy Oparin, Alexandr Predke, Sam Shankland, Wesley So, Vidit Gujrathi and Nikita Vitiugov are some of the Grand Prix participants who commented on their best games. Wesley So, who won the third tournament but missed out on qualifying to the Candidates Tournament, examines his victory over Leinier Dominguez with the black pieces. It's \"The Analysis\" of the issue, and it begins with the words \"Back in beautiful Berlin\". Take a look!",
@@ -818,14 +866,6 @@ news_feed (
          "title" : "American Cup, Day 8: Aronian and Caruana draw, Krush wins against Lee"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana faces Levon Aronian in Game 1 of 2 of The American Cup 2022 final. Also, in the women&#039;s tournament, Irina Krush and Alice Lee begin their final match. Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.27<br /> USChessChamps.com FINAL ROUND | GAME 1<br /> Fabiano Caruana vs. Levon Aronian FINAL ROUND | GAME 1<br /> Irina Krush vs. Alice Lee </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-8",
-         "pubDate" : "Thu, 28 Apr 2022 01:37:43 +0000",
-         "title" : "The American Cup 2022: Day 8"
-      },
-      {
          "description" : "GMs Magnus Carlsen and Rameshbabu Praggnanandhaa&#38;nbsp;once again share the lead with 12 points after the penultimate day of play. They are followed closely by GMs Jan-Krzysztof Duda and Le Quang Liem, both with 11 points. Behind them, we find GM&#38;n...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1234,7 +1274,7 @@ news_feed (
          "title" : "Understanding before Moving 76: Hanging pawns under pressure"
       },
       {
-         "description" : " Share!154FIDE Master Tani Adewumi is growing up right before our eyes. He recently notched the first of three required &#8220;norms&#8221; for the title of International Master. It was only three years ago that the story broke of an 8-year-old winning the New York Scholastic State Title. A New York Times story broke about his Nigerian The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/24/first-im-norm-for-tani-adewumi/\">First IM norm for Tani Adewumi!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
+         "description" : " Share!154FIDE Master Tani Adewumi is growing up right before our eyes. He recently notched the first of three required &#8220;norms&#8221; for the title of International Master. It was only three years ago that the story broke of an 8-year-old winning the New York Scholastic State Title. A New York Times story broke about his Nigerian The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/24/first-im-norm-for-tani-adewumi/\">First IM norm for Tani Adewumi!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/04/24/first-im-norm-for-tani-adewumi/",
@@ -1306,7 +1346,7 @@ news_feed (
          "title" : "Blunders and Comebacks: Oslo Esports Cup Day 2"
       },
       {
-         "description" : " National Master Jerald Times told The Chess Drum a month ago about a troubling saga involving his tenure at the Success Academy Charter Schools (SACS). Serving as the Chess Program Director he alleged that the organization held discriminatory practices within the organization. He then filed a discriminatory complaint against SACS. In a scathing 23-page legal The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/23/jerald-times-embroiled-in-legal-chess-battle/\">Jerald Times scores victory in legal chess battle</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum </a>. ",
+         "description" : " National Master Jerald Times told The Chess Drum a month ago about a troubling saga involving his tenure at the Success Academy Charter Schools (SACS). Serving as the Chess Program Director he alleged that the organization held discriminatory practices within the organization. He then filed a discriminatory complaint against SACS. In a scathing 23-page legal The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/23/jerald-times-embroiled-in-legal-chess-battle/\">Jerald Times scores victory in legal chess battle</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/04/23/jerald-times-embroiled-in-legal-chess-battle/",
@@ -1544,14 +1584,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/apr/22/chess-magnus-carlsen-unlikely-to-defend-crown-but-questions-remain",
          "pubDate" : "Fri, 22 Apr 2022 07:00:18 +0000",
          "title" : "Chess: Magnus Carlsen 'unlikely' to defend crown, but questions remain"
-      },
-      {
-         "description" : "A &#34;disgusted&#34; GM Fabiano Caruana won his match on the second day of The American Cup from a hopeless position as GM Jeffery Xiong&#38;nbsp;lost on time.&#38;nbsp;GM Sam Sevian indeed reached a 2700+ live rating by drawing his second game with GM&#38;nbsp;Wesl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-american-cup-2022-day-2",
-         "pubDate" : "Thu, 21 Apr 2022 23:53:00 -0700",
-         "title" : "Caruana Survives Armageddon Roller Coaster: The American Cup Day 2"
       },
       {
          "description" : " <p class=\"lead\">In an exclusive interview with World Chess, Maxime Vachier-Lagrave, a French \"super GM\" (a chess-speak for one of the world's strongest chess players), said that on his way to becoming an elite chess player, he thought that he reached his peak at 2680. At that level, he could not secure enough stable income to feel safe. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/gp3mgnSxlVk?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> 2680 is a rating that very few people will ever reach (you earn a grandmaster title, the highest in the sport, at 2500). Yet MVL still failed to earn stable income. Most players make money by coac",
@@ -1930,14 +1962,6 @@ news_feed (
          "title" : "Martin Haubro wins 2022 Danish Championship"
       },
       {
-         "description" : "Chess is always tense, and the closer you get to lifting the tension, the tenser it normally gets. This is something that stronger players often exploit against weaker opposition. Grandmaster Jon Speelman uses three notable games to explore this all-important subject, including a fascinating encounter between Reuben Fine and Jose Raul Capablanca. | Pictured: Erich Gottlieb Eliskases",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-168",
-         "pubDate" : "Sun, 17 Apr 2022 21:05:00 +0100",
-         "title" : "The importance of irresolution"
-      },
-      {
          "description" : " While researching GE Wainwright I came across this game concluding wit a sharp rook ending in which he, on two occasions, played a move converting a win into a loss. &#124;Yes, you'd be correct in inferring that, in between, his opponent also converted a win into a loss. In one of his last games, after <a href=\"https://chessimprover.com/pushing-passed-pawns/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Pushing Passed Pawns\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/pushing-passed-pawns/\">Pushing Passed Pawns</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2082,14 +2106,6 @@ news_feed (
          "title" : "ECU101 - The SMART Method to Teach Chess"
       },
       {
-         "description" : "The Reykjavik Open 2022 took place from 4th-12th April 2022 in Harpa Concert Hall of Iceland. After 9 played rounds Praggnanandhaa R (IND, 2624) became the sole Winner of the event scoring 7.5 points. Praggnanandhaa won the intense last round game against his compatriot Gukesh D (IND, 2637) to leap on the top and win the tournament. Four&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/praggnanandhaa-wins-reykjavik-open-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/praggnanandhaa-wins-reykjavik-open-2022/",
-         "pubDate" : "Wed, 13 Apr 2022 07:35:38 +0000",
-         "title" : "Praggnanandhaa wins Reykjavik Open 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2128,14 +2144,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/unveiling-of-new-chess-tables-in-russell-square-gardens/",
          "pubDate" : "Tue, 12 Apr 2022 13:08:06 +0000",
          "title" : "Unveiling of new chess tables in Russell Square Gardens"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1687",
-         "pubDate" : "Tue, 12 Apr 2022 08:47:58 +0000",
-         "title" : "FIDE World Rapid and Blitz Championships and World Women's Rapid and Blitz Championships 2022 - Call for bids"
       }
    ]
 }
