@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 4th FIDE World Cadet U8, U10, U12 &#38; the FIDE World Youth U14, U16, U18 Rapid and Blitz Chess Championships concluded today in Rhodes, Greece. More than 300 players from 40 countries participated in the event and the new world champions are: U8 Rapid Ashwath Kaushik GU8 Rapid Sivanandan BodhanaU10 Rapid []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-youth-and-cadet-rapid-blitz-champions-crowned-in-rhodes/",
+         "pubDate" : "Tue, 03 May 2022 19:29:42 +0000",
+         "title" : "FIDE World Youth and Cadet Rapid & Blitz Champions crowned in Rhodes"
+      },
+      {
+         "description" : "The Puerto Rico Women's Chess Championship 2022 took place from April 29 May 1 at the University of Puerto Rico. FM&#160;Danitza V&#xE1;zquez Maccarini emerged as the winner of the five-round Swiss tournament that brought together nine participants. Danitza turned in a dominating performance winning four straight games and securing the title with a round []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/puerto-rico-womens-championship-2022-concluded/",
+         "pubDate" : "Tue, 03 May 2022 19:06:02 +0000",
+         "title" : "Puerto Rico Women's Championship 2022 concluded"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The anniversary of the biggest chess event in history, Fischer - Spassky, Reykjavik 1972, is coming up fast. Is chess about to miss out on this communication opportunity? </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-05-02-at-19-54.1920.jpeg\" title=\"The \"match of the century\" made headlines all over the Western world. Los Angeles Times clipping on Edward Winter's Chess Notes \" data-title=\"The \"match of the century\" made headlines all over the Western world. Los Angeles Times clipping on [Edward Winter's Chess Notes][1] [1]: https://www.chesshistory.com/winter/extra/spasskyf",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/its-50-years-folks/",
+         "pubDate" : "Tue, 03 May 2022 19:07:46 +0100",
+         "title" : "It's 50 years, folks!"
+      },
+      {
+         "description" : " \"Choices are the hinges of destiny\" Pythagoras We've been rotating between different formats for the club tournament between rapid chess, chess 960, three check chess or crazy house. Now we are in the middle of a rapid chess one and last round saw an interesting game being played. The opening phase went like this: White <a href=\"https://chessimprover.com/quick-decisions-8/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (8)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-8/\">Quick Decisions (8)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/quick-decisions-8/",
+         "pubDate" : "Tue, 03 May 2022 17:27:46 +0000",
+         "title" : "Quick Decisions (8)"
+      },
+      {
+         "description" : "Born the same year as Paul Morphy, Ellen Gilbert, n&eacute;e Strong (April 30, 1837 - February 12, 1900), was arguably the best woman chess player and the best correspondence chess player of both genders of the 19th century! Known by every chess lover back then, she now seems to be forgotten by all except a few specialized historians. It is time to pay tribute to the first Queen of Chess. ",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/forgotten-genius-ellen-gilbert-the-first-queen-of-chess",
+         "pubDate" : "Tue, 03 May 2022 17:26:59 +0000",
+         "title" : "Forgotten Genius: Ellen Gilbert, the First Queen of Chess"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91293260.cms\" />Indian Woman Grandmaster R Vaishali on Tuesday won the Heraklion 2022 - 8th Fischer Memorial chess tournament, scoring seven points from nine rounds.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/vaishali-wins-chess-tournament-in-greece/articleshow/91293260.cms",
+         "pubDate" : "Tue, 03 May 2022 16:40:14 +0000",
+         "title" : "Vaishali wins chess tournament in Greece"
+      },
+      {
+         "description" : "Jan's Opening Clinic is back, and in the 1st episode of Season 27, Grandmaster Jan Gustafsson, who was instrumental in World Champion Magnus Carlsen offering to play the Marshall in Dubai in 2021, explains why Ian Nepomniachtchi and other challengers have tended to dodge the main lines. He also offers advice on how to meet a move Magnus has also played, 1.b4 (the Orangutan or Polish Opening), and 3.h4 against the Gr&uuml;nfeld. There's still some time to ask a question for Jan to answer in one of the upcoming shows!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/jan-s-opening-clinic-season-27-episode-1",
+         "pubDate" : "Tue, 03 May 2022 15:44:50 +0000",
+         "title" : "Jan's Opening Clinic Season 27, Episode 1"
+      },
+      {
          "description" : "The 2022 Junior Speed Chess Championship by SIG returned today with a high-octane quarterfinal between GMs Brandon Jacobson&#38;nbsp;and GM Awonder Liang where viewers were graced with yet another stellar comeback in the championship.&#38;nbsp; Liang wa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -362,7 +418,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#46;&#x72;&#46;&#x77;&#105;&#x63;&#107;&#x68;&#97;m&#x40;b&#x74;&#105;&#x6e;&#116;&#x65;&#114;&#x6e;&#101;t&#x2e;c&#x6f;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#114;&#46;&#x77;&#x69;&#99;kh&#x61;&#x6d;&#64;b&#x74;&#x69;&#110;&#116;e&#x72;&#x6e;&#101;t&#x2e;&#x63;&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -434,14 +490,6 @@ news_feed (
          "title" : "Study of the Month - A short history of endgame study castling I"
       },
       {
-         "description" : "Women&#x2019;s German Chess Masters 2022&#160;took place from 22&#x2013;30 April in Best Western Plus Plaza Hotel Darmstadt. It was a 10-player round-robin tournament with Hanna Marie Klek, Dinara Wagner, Lara Schulze, Melanie Lubbe, Sarah Papp, Josefine Heinemann, Elena Kopke, Jana Schneider, Antonia Ziegenfuss, and Brigitte Burchardt. Dinara Wagner won the event with the final score of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dinara-wagner-wins-womens-german-chess-masters-2022/",
-         "pubDate" : "Sat, 30 Apr 2022 14:54:55 +0000",
-         "title" : "Dinara Wagner wins Women's German Chess Masters 2022"
-      },
-      {
          "description" : "The European School Chess Championship 2022 took place from 20th-30th April 2022 in&#160;\"Rodos Palace\" Hotel and Conference center, Rhodes, Greece. 200 children from 22 European federations participated in the Championship which was played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls section separately. The Closing Ceremony of the European School Chess Championship&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-champions-2022-crowned-in-rhodes-greece/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -488,14 +536,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/taurus-and-their-strategy",
          "pubDate" : "Sat, 30 Apr 2022 13:00:00 +0100",
          "title" : "Taurus and their strategy"
-      },
-      {
-         "description" : "The Mitropa Chess Cup 2022 kicked off in Corte and takes place from 27th April &#x2013; 8th May in the Sports complex (COSEC)&#xA0;of Corte, Corsica, France. &#xA0; Replay:&#160;Mitropa Cup 2021 information&#160;/&#160;Mitropa Cup 2021 live games&#160;/&#160;Mitropa Cup news&#160;Throwback:&#160;Mitropa Cup 2011 with Richard Rapport The teams of Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mitropa-chess-cup-2022-live/",
-         "pubDate" : "Sat, 30 Apr 2022 11:32:02 +0000",
-         "title" : "Mitropa Chess Cup 2022 LIVE"
       },
       {
          "description" : "New Delhi (30 April 22) :- All Indian Chess Federation( AICF), Indian Government and Tamil Nadu Government are ensuring that the forthcoming Chess Olympiad scheduled",
@@ -546,7 +586,7 @@ news_feed (
          "title" : "Dominguez: Chess is traumatic sometimes"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Bucharest, the Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players (Caruana, Aronian, Firouzja, So, Mamedyarov, Nepomniachtchi, Rapport, Dominguez, and MVL) are joined by a wildcard (Deac) for a classical round robin. Join a commentary team TBA for the move-by-move. 2022.05.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-chess-classic-round-1\"><img src=\"https://saintlouischessclu",
+         "description" : "<div class=\"body text-secondary\"> Live from the Sheraton Bucharest Hotel, the Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players (Caruana, Aronian, Firouzja, So, Mamedyarov, Nepomniachtchi, Rapport, Dominguez, and MVL) are joined by a wildcard (Deac) for a classical round robin. Join GMs Peter Svidler, Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovich for the move-by-move. 2022.05.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fiel",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-round-1",
@@ -640,14 +680,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/grand-chess-tour-becomes-candidates/",
          "pubDate" : "Fri, 29 Apr 2022 15:19:02 +0100",
          "title" : "Grand Chess Tour becomes Candidates qualifier in 2023"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After protests and being ridiculed the $1 million <strong>Chess.com World Championship</strong> <a href=\"https://twitter.com/chesscom/status/1519379483719094273\">has been renamed</a> <strong>Chess.com Global Championship</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/global-change/",
-         "pubDate" : "Fri, 29 Apr 2022 15:09:09 +0100",
-         "title" : "Global change"
       },
       {
          "description" : "The inaugural American Cup crowned its first champions when GM Fabiano Caruana defeated GM Levon Aronian in the final game of the event, and GM Irina Krush confidently drew her game against the sensation of the tournament, FM Alice Lee.&#38;nbsp; Bo...",
@@ -1810,14 +1842,6 @@ news_feed (
          "title" : "Top Grandmasters leave Russia"
       },
       {
-         "description" : "He's back! Jan Gustafsson, a key member of Team Magnus for the last three World Championship matches, will be answering your questions in a new Jan's Opening Clinic. chess24 Premium members get to ask Jan any question on chess openings and Jan will then film a series of shows where he tackles each question in turn. Simply leave a question under this article to get some personal tips from a chess openings guru!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/jan-s-opening-clinic-27",
-         "pubDate" : "Wed, 20 Apr 2022 04:03:00 +0000",
-         "title" : "Jan's Opening Clinic 27"
-      },
-      {
          "description" : "With over 1,300 articles, the Opening Encyclopaedia 2022 covers the entire range of openings. A huge fund of ideas and high-quality analyses! In the new edition, the number of articles has increased - 66 new opening articles and 388 new opening overviews have been added compared to the previous year. The following article shows you how to \"Find Ideas for your Repertoire\"!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1880,14 +1904,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/jules-moussard-wins-semana-santa-in-torrevieja-2022",
          "pubDate" : "Tue, 19 Apr 2022 12:40:00 +0100",
          "title" : "Jules Moussard wins Semana Santa Open in Torrevieja"
-      },
-      {
-         "description" : "Magnus Carlsen says he is still \"not 100 percent certain\" he will give up his title, but reiterates that it's unlikely he will play another match, adding more details on the reasons. The World Champion remains commited to playing on the Meltwater Champions Chess Tour and talks about his plans for the rest of the year.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-explains-why-he-is-unlikely-to-player-another-world-championship-match",
-         "pubDate" : "Tue, 19 Apr 2022 09:48:06 +0000",
-         "title" : "Carlsen on why he is unlikely to play another title match"
       },
       {
          "description" : "In knight endgames activity, dominance and zugzwang often play a major role. The diagrammed position is from a game between Vladislav Artemiev and Magnus Carlsen from the Airthings Masters Tournament 2022. How did the World Champion force the win?",
@@ -2042,14 +2058,6 @@ news_feed (
          "title" : "Trainer Workshop: \"How to Teach Calculations\" by Artur Jussupow"
       },
       {
-         "description" : " This week, we are going to wrap up the last six weeks of work on tactics. I'm actually spreading out the end of this part of our middle-game studies through next week because we covered so much information. This week, I'll summarize what we have covered so far, to give those of you having trouble <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-seven/\">A Foundation for Beginners Fifty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprove",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-seven/",
-         "pubDate" : "Fri, 15 Apr 2022 08:08:12 +0000",
-         "title" : "A Foundation for Beginners Fifty Seven"
-      },
-      {
          "description" : " India's Rameshbabu Praggnanandhaa, 16, won first prize and the youngest GM Abhimanyu Mishra, 13, of the US, tied for second India's Rameshbabu Praggnanandhaa, 16, widely forecast as a future world class grandmaster, added to his growing reputation on Tuesday when he won the €5,000 first prize at the Reykjavik Open with an unbeaten 7.5/9. Earlier in his career, the Chennai teenager was the youngest ever international master, among the youngest ever GMs and the second youngest to reach a 2600 Fide rating. He was singled out <a href=\"https://www.theguardian.com/sport/2016/oct/21/rameshbabu-praggnanandhaa-world-grandmaster-record\" title=\"\">in this column</a> more than five years ago for an 18",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2136,14 +2144,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-online-arena-weekly-digest/",
          "pubDate" : "Tue, 12 Apr 2022 19:49:51 +0000",
          "title" : "FIDE Online Arena Weekly Digest"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90806347.cms\" />Young Indian Grandmaster R Pragganandhaa on Tuesday won the prestigious Reykjavik Open chess tournament with 7.5 points from nine rounds. The 16-year-old Pragganandhaa defeated compatriot GM D Gukesh in the final round to emerge sole winner.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-praggnanandhaa-wins-reykjavik-open-chess-tournament/articleshow/90806347.cms",
-         "pubDate" : "Tue, 12 Apr 2022 17:16:36 +0000",
-         "title" : "Indian GM Praggnanandhaa wins Reykjavik Open chess"
       }
    ]
 }
