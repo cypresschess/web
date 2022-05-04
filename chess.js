@@ -10,6 +10,14 @@ news_feed (
          "title" : "Top Choice Repertoire: Play the French Defence Vol. 1 & 2"
       },
       {
+         "description" : "The Sri Lanka National Chess Championships 2022, with a half-million rupees prize fund, took place from April 23 to May 1 in the Kobbekaduwa Agrarian Research Institute, Wijerama Mawatha, Colombo. Both tournaments, organized by the Chess Federation of Sri Lanka, were 14-players round-robins with classical time control.&#160; The reigning national champion, 17-year-old FM Susal de []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sri-lanka-national-champions-and-teams-for-chess-olympiad-2022-announced/",
+         "pubDate" : "Wed, 04 May 2022 10:49:03 +0000",
+         "title" : "Sri Lanka National Champions and Teams for Chess Olympiad 2022 announced"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -506,7 +514,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#46;&#x77;&#105;c&#x6b;h&#x61;&#109;&#x40;&#98;t&#x69;&#110;&#x74;&#101;r&#x6e;e&#x74;&#46;&#x63;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#x2e;w&#x69;&#99;k&#x68;&#97;m&#x40;&#98;&#x74;&#x69;n&#x74;&#101;r&#x6e;&#101;t&#x2e;&#99;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -520,14 +528,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-slow-italian",
          "pubDate" : "Sun, 01 May 2022 09:00:00 +0100",
          "title" : "A slow Italian"
-      },
-      {
-         "description" : "Indian MPL Rapid and Blitz Chess Championships 2022 were held from 27th to 30th April 2022 in Nashik, India. The Rapid event was first on the schedule taking place 27-29 April with participation of 184 players. GM Chithambaram Aravindh successfully retained his National Rapid and Blitz titles after his triumph in both events in 2019. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aravindh-chithambaram-retains-indian-mpl-rapidblitz-national-champion-title/",
-         "pubDate" : "Sat, 30 Apr 2022 22:02:29 +0000",
-         "title" : "Aravindh Chithambaram remains Indian MPL Rapid&Blitz National Champion"
       },
       {
          "description" : "The traditional TePe Sigeman & Co tournament will take place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars is likely to make for an enjoyable tournament, as defending champion Jorden van Foreest will be joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. | Photos: FIDE",
