@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani talks about the French Defense in chess, presumably. I mean, I guess she could be talking about her favorite trip to Paris... 2022.05.04 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/french-dorsa-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YsHpAxSovJ4.jpg?itok=tucY_c0c\" alt=\"\" /></a>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/french-dorsa-chess-and-psychology-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Wed, 04 May 2022 22:43:28 +0000",
+         "title" : "French Dorsa | Chess and Psychology - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won the Arena Kings Season 9 Championship Final on Wednesday, defeating GM Oleksandr Bortnyk 3-1 in the final round of the knockout&#38;mdash;after also finishing first in the qualifying arena. GM Jose Martinez and IM Tuan Minh Le f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arena-kings-season-9-championship-final-nakamura-wins",
+         "pubDate" : "Wed, 04 May 2022 15:34:21 -0700",
+         "title" : "Indestructible Nakamura Clinches Arena Kings Season 9 Championship Final"
+      },
+      {
+         "description" : "Leading off the&#160;2022 Grand Chess Tour&#160;will be the&#160;Superbet Chess Classic&#160;held&#160;from 3-15 May in Bucharest, Romania. Following last year&#x2019;s popular classical framework, the Grand Chess Tour Romania 2022 hosts ten players competing in a&#160;classical round-robin struggle for the $350,000 in prize money. The novelty is that the&#160;Grand Chess Tour events become part of the World Championship []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-chess-tour-romania-2022-live/",
+         "pubDate" : "Wed, 04 May 2022 22:24:08 +0000",
+         "title" : "Grand Chess Tour Romania 2022 LIVE"
+      },
+      {
+         "description" : "The 2022 Romanian Grand Prix series kicked off with the Super Chess Rapid tournament which took place from April 30 to May 1 in Bucharest, shortly before the start of the 1st Grand Chess Tour event in Romania. More than 190 players from 14 countries battled it out through 10 rounds, fighting for a total []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/baadur-jobava-wins-1st-romanian-grand-prix-event/",
+         "pubDate" : "Wed, 04 May 2022 21:43:18 +0000",
+         "title" : "Baadur Jobava wins 1st Romanian Grand Prix event"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #514, Merijn van Delft takes a look at the game between Erwin l'Ami and Frederik Svane from the German Bundesliga. With a steady hand, L'Ami outplayed his young opponent. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -146,7 +178,7 @@ news_feed (
          "title" : "Superbet Chess Classic 2022 - Games and Results"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard teaches a chess class on a topic of his choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rubinsteins-immortal-and-other-attacking-games-grandmasters-choice-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-0wWwLrINWc.jpg?itok=BgZUM7tz\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard continues his series on attacking games. Start with Rubinstein and end with van Wely vs. Acs and the most devastating mating situation you've ever seen. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rubinsteins-immortal-and-other-attacking-games-grandmasters-choice-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-0wWwLrINWc.jpg",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/rubinsteins-immortal-and-other-attacking-games-grandmasters-choice-gm-romain-%C3%A9douard",
@@ -442,14 +474,6 @@ news_feed (
          "title" : "India teams for Chess Olympiad 2022 announced"
       },
       {
-         "description" : "The 501(c)3 US Chess Federation&#x2019;s 2022 National Middle School (K-8) Championship took place from April 28-May 1, 2022 at the Gaylord Texan Hotel and Resort in Grapevine, Texas. A total of 931 players from 35 states competed. This tournament was formerly known as the National Junior High School (K-9) Championship. The individual K-8 Co-Champions are []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-middle-school-champions-crowned/",
-         "pubDate" : "Mon, 02 May 2022 14:40:00 +0000",
-         "title" : "US Middle School Champions crowned"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Fabiano Caruana</strong> beat Dominguez and Aronian to win the <strong>American Cup</strong> and $60,000, showing good shape in his last classical chess tournament before the Candidates Tournament. The <a href=\"https://uschesschamps.com/2022-american-cup/recap\">American Cup was a new event that was played</a> at the <strong>Saint Louis Chess Club</strong> as K.o.-matches between the eight top US players with a second chance after losing once in an \"elimination bracket\". It doesn't seem to replace the US Championship that is expected to be held in autumn. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -496,14 +520,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1724",
          "pubDate" : "Mon, 02 May 2022 11:00:35 +0000",
          "title" : "Winners crowned at 2022 US Middle School Championship "
-      },
-      {
-         "description" : "Charlotte Chess Center in North Carolina organized three ALTO (At Least Twenty-One) chess tournaments played in 5 rounds from April 29 May 1 with a total prize fund of 5.500$. The main tournament gathered 25 players including 3 grandmasters, while the U1800 and U1400 tournaments brought together more than 80 players. GM Elshan Moradiabadi []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-elshan-moradiabadi-triumphs-alto-tournament-in-charlotte/",
-         "pubDate" : "Mon, 02 May 2022 10:06:08 +0000",
-         "title" : "GM Elshan Moradiabadi triumphs at ALTO tournament in Charlotte"
       },
       {
          "description" : "Can you imagine a chess book, written by a master, which contains exactly one chess diagram, and the notation of a single 17-move game? And that you would not be able to put it down? That is what happens with this unique work, written by chess master Asa Hoffmann, with his wife Ginny. Asa has spent a lifetime hustling game in the clubs, parks and streets of New York, and his account of his days there is absolutely compelling.",
@@ -602,7 +618,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#x72;&#x2e;w&#105;&#99;&#x6b;&#x68;a&#109;&#x40;&#x62;t&#105;&#110;&#x74;&#x65;r&#110;&#x65;&#x74;&#46;&#99;&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;wick&#104;&#97;&#109;&#64;&#98;&#116;&#105;&#110;&#116;&#101;&#x72;&#x6e;&#x65;&#x74;&#x2e;&#x63;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -776,14 +792,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/ivanchuk-reviews-his-game-against-carlsen-during-air-raid-alert/",
          "pubDate" : "Fri, 29 Apr 2022 20:02:48 +0000",
          "title" : "Ivanchuk Reviews His Game Against Carlsen, Ignores Air Raid Alert"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> SELECT TOP GAMES: <a href=\"https://lichess.org/broadcast/2022-american-cup-blitz-tournament/round-1/z6f04J29\">https://lichess.org/broadcast/2022-american-cup-blitz-tournament/round-1...</a> With Caruana and Krush already winning the regular tournament, it&#039;s time for blitz! Thirty-four players, including the field from The American Cup, compete in a 3+2 nine-round Swiss event. Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.29<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-v",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-blitz-day-10-lichessorg",
-         "pubDate" : "Fri, 29 Apr 2022 19:39:12 +0000",
-         "title" : "The American Cup 2022: BLITZ | Day 10 | lichess.org"
       },
       {
          "description" : "",
@@ -1466,14 +1474,6 @@ news_feed (
          "title" : "Oslo Esports Cup 3: Carlsen beats Giri before Pragg showdown"
       },
       {
-         "description" : "Yesterday, Chess.com was banned by the Russian government agency Roscomnadzor, the &#34;Federal Service for Supervision of Communications, Information Technology and Mass Media.&#34; Roscomnadzor is responsible for censorship within Russia, a busy occupat...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-com-banned-by-russia",
-         "pubDate" : "Sun, 24 Apr 2022 13:52:00 -0700",
-         "title" : "Chess.com Banned By Russia"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91056485.cms\" /> Teenaged Indian Grandmaster D Gukesh on Sunday won the Menorca Open chess tournament, his second title win in as many weeks. Indian players dominated, taking seven spots in the top 10 with Aryan Chopra finishing runner-up. The 15-year old GM scored six points from seven rounds to clinch first place and earned 1,600 Euros as prize money.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2144,14 +2144,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-marathon-for-ukraine-results/",
          "pubDate" : "Thu, 14 Apr 2022 16:12:29 +0000",
          "title" : "ECF Marathon for Ukraine - results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1689",
-         "pubDate" : "Wed, 13 Apr 2022 20:29:16 +0000",
-         "title" : "FIDE Executive Director attends symposium in Corsica"
       }
    ]
 }
