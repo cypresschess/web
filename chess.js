@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The French Defence is one of the most popular openings - from club player to grandmaster. It's a very solid opening against 1.e4, but it leaves room for counterplay and initiative. In this two-volume video course, former world champion and star trainer Rustam Kasimdzhanov shows you the ins and outs of this hugely complex opening.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-choice-repertoire-play-the-french-defence-vol-1-2",
+         "pubDate" : "Wed, 04 May 2022 12:10:00 +0100",
+         "title" : "Top Choice Repertoire: Play the French Defence Vol. 1 & 2"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1730",
+         "pubDate" : "Wed, 04 May 2022 09:36:04 +0000",
+         "title" : "Winners crowned at World Cadets & Youth Championships 2022 for Rapid and Blitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Romain Édouard teaches a chess class on a topic of his choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rubinsteins-immortal-and-other-attacking-games-grandmasters-choice-gm-romain-%C3%A9douard\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-0wWwLrINWc.jpg?itok=BgZUM7tz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rubinsteins-immortal-and-other-attacking-games-grandmasters-choice-gm-romain-%C3%A9douard",
+         "pubDate" : "Wed, 04 May 2022 07:42:52 +0000",
+         "title" : "Rubinstein's Immortal, and other Attacking Games! | Grandmaster's Choice - GM Romain Édouard"
+      },
+      {
          "description" : " <p class=\"lead\">The <a href=\"https://grandchesstour.org/\">2022 Grand Chess Tour</a> kicks off on May 5th with the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">2022 Superbet Chess Classic Romania,</a> in Bucharest. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/871848.719daad2.5000x5000o.666537263dc8.png\" width=\"1600\" height=\"900\" alt=\"\" /> <div class=\"e2-text-caption\">Alireza Firouzja in Wijk aan Zee. Photo: Jurriaan Hoefsmit/Tata Steel Chess</div> </div> The tournament lasts until May 14th and features a 10-player round-robin battle for a total of $350,000 in prize money. Among the players are the US Champion and <a hr",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/2022-superbet-chess-classic-romania/",
          "pubDate" : "Wed, 04 May 2022 07:22:54 +0000",
-         "title" : "2022 Superbet Chess Classic Romania"
+         "title" : "2022 Superbet Chess Classic Kicks Off in Romania"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91306441.cms\" />The All-India Chess Federation (AICF) is going all out to ensure the Indian teams have the best possible preparation ahead of the chess Olympiad to be held here from July 28 to August 10.",
@@ -450,12 +474,12 @@ news_feed (
          "title" : "Mariano Ortega Amarelle clinches Cabo Verde Chess Open"
       },
       {
-         "description" : "England achieved its best ever performance at the European Schools Championship which finished in Rhodes on Friday. England's Zoe Veselow (Girls U9), Kushal Jakhria (U7)...",
+         "description" : "Just in from ECF President Dominic Lawson To the England Team Juniors On behalf of the English Chess Federation, I am writing to congratulate...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/congratulations-to-english-juniors/",
          "pubDate" : "Sun, 01 May 2022 10:56:26 +0000",
-         "title" : "Congratulations to English Juniors"
+         "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
          "description" : "The Mitropa Chess Cup 2022 opened yesterday in Corti, France, and takes place from 27th April - 8th May in the Sports complex (COSEC)&#160;of Corti under the ECU auspices. Teams of Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland compete in 9 rounds within two sections: Open and Women. The open section teams are:&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mitropa-chess-cup-2022-opened-in-corti/\">Read More &#187;</a></span>",
@@ -482,7 +506,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#46;&#119;&#x69;&#x63;&#x6b;&#x68;&#x61;m&#64;&#98;&#116;&#105;&#x6e;&#x74;&#x65;&#x72;&#x6e;et&#46;&#99;&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#46;&#x77;&#105;c&#x6b;h&#x61;&#109;&#x40;&#98;t&#x69;&#110;&#x74;&#101;r&#x6e;e&#x74;&#46;&#x63;&#111;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -832,14 +856,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/oslo-esports-cup-day-7-duda-wins",
          "pubDate" : "Thu, 28 Apr 2022 19:26:00 -0700",
          "title" : "Duda Wins: Oslo Esports Cup Day 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Irina Krush after her draw against Alice Lee to become the women's champion of The American Cup 2022. 2022.04.28<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-there%E2%80%99s-finally-%E2%80%9Camerican-cup%E2%80%9D-and-i-won-it-day-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Y0itetcFmF4.jpg?itok=8_py",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/irina-krush-there%E2%80%99s-finally-%E2%80%9Camerican-cup%E2%80%9D-and-i-won-it-day-9",
-         "pubDate" : "Fri, 29 Apr 2022 01:38:27 +0000",
-         "title" : "Irina Krush: There's Finally an \"American Cup\" and I Won It | Day 9"
       },
       {
          "description" : "The 2022 Junior Speed Chess Championship by SIG continued today with a round of 16 match between GM Raunak Sadhwani and IM Mahammad Muradli, one that featured one of the greatest comebacks in Speed Chess Championship history. The early sections ...",
@@ -1938,14 +1954,6 @@ news_feed (
          "title" : "Jules Moussard wins Semana Santa Open in Torrevieja"
       },
       {
-         "description" : "In knight endgames activity, dominance and zugzwang often play a major role. The diagrammed position is from a game between Vladislav Artemiev and Magnus Carlsen from the Airthings Masters Tournament 2022. How did the World Champion force the win?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-magic",
-         "pubDate" : "Tue, 19 Apr 2022 09:00:00 +0100",
-         "title" : "Magnus Magic"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2136,22 +2144,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-coverage.html",
          "pubDate" : "Wed, 13 Apr 2022 13:27:00 +0000",
          "title" : "2022 O2C Doeberl Cup - Coverage"
-      },
-      {
-         "description" : "Who am I? Tactician or position player? Attacker or defender? Should I play 1.d4 or 1.e4? Sicilian or French? If you know your strengths and weaknesses you will score more points and you will be more successful. In their \"Player Types\" ChessBase course Karsten M&uuml;ller and Luis Engel take a close look at playing styles, and in an extensive interview Karsten M&uuml;ller reveals a few things they discovered.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/player-types-an-interview-with-karsten-mueller",
-         "pubDate" : "Wed, 13 Apr 2022 10:00:00 +0100",
-         "title" : "Player types - an interview with Karsten M&uuml;ller"
-      },
-      {
-         "description" : "ECU 101 The SMART Method to Teach Chess Seminar will take place Online on 11th and 12th June 2022. Course information: Course ID: ECU101 Duration: 2 days Dates: 11-12 June 2022 Time: Please note, all times are in London Time Day1 09.00 12.00 13.00 16.00 Day2 09.00 12.00 13.00 16.00 Language: English Fee: &pound;150 Early bird: (Register until the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu101-the-smart-method-to-teach-chess/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu101-the-smart-method-to-teach-chess/",
-         "pubDate" : "Wed, 13 Apr 2022 07:47:12 +0000",
-         "title" : "ECU101 - The SMART Method to Teach Chess"
       }
    ]
 }
