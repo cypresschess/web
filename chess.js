@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">The <a href=\"https://grandchesstour.org/\">2022 Grand Chess Tour</a> kicks off on May 5th with the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">2022 Superbet Chess Classic Romania,</a> in Bucharest. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/871848.719daad2.5000x5000o.666537263dc8.png\" width=\"1600\" height=\"900\" alt=\"\" /> <div class=\"e2-text-caption\">Alireza Firouzja in Wijk aan Zee. Photo: Jurriaan Hoefsmit/Tata Steel Chess</div> </div> The tournament lasts until May 14th and features a 10-player round-robin battle for a total of $350,000 in prize money. Among the players are the US Champion and <a hr",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/2022-superbet-chess-classic-romania/",
+         "pubDate" : "Wed, 04 May 2022 07:22:54 +0000",
+         "title" : "2022 Superbet Chess Classic Romania"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91306441.cms\" />The All-India Chess Federation (AICF) is going all out to ensure the Indian teams have the best possible preparation ahead of the chess Olympiad to be held here from July 28 to August 10.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-boris-gelfand-to-be-one-of-indias-mentors/articleshow/91306441.cms",
+         "pubDate" : "Wed, 04 May 2022 05:46:38 +0000",
+         "title" : "Chess Olympiad: Boris Gelfand to be one of India's mentors"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby hates the Grob opening! Never play 1.g4! See why in this class, and learn how to punish the opponent who plays Grob&#039;s Attack. 2022.05.03<br /> A00 Grob&#039;s attack<br /> A00 Grob, Fritz gambit </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/refuting-grob-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gIq62zvVs8c.jpg?ito",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -466,7 +482,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#x77;&#105;c&#x6b;&#x68;&#97;m&#x40;&#x62;&#116;i&#x6e;&#x74;&#101;r&#x6e;&#101;&#116;&#46;&#x63;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#46;&#119;&#x69;&#x63;&#x6b;&#x68;&#x61;m&#64;&#98;&#116;&#105;&#x6e;&#x74;&#x65;&#x72;&#x6e;et&#46;&#99;&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
