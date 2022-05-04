@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #514, Merijn van Delft takes a look at the game between Erwin l'Ami and Frederik Svane from the German Bundesliga. With a steady hand, L'Ami outplayed his young opponent. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-514-lami-svane",
+         "pubDate" : "Wed, 04 May 2022 21:00:00 +0100",
+         "title" : "Game of the Week #514: Erwin l'Ami vs Frederik Svane"
+      },
+      {
+         "description" : "\"It is early night in Havana. A red retro Chevrolet convertible is taking us back to the iconic Hotel Nacional. The ocean is on our right, the lively streets of the old town on the left, and I can't help thinking that it's a dream I will soon wake up from\", writes Irina Bulmaga about her successful trip to Havana, where she got a remarkable victory in the Premier group of the Capablanca Memorial. | Pictured: A photo from the Morro Castle, a fortress guarding the entrance to the Havana harbour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/irina-bulmaga-havana-2022",
+         "pubDate" : "Wed, 04 May 2022 20:40:00 +0100",
+         "title" : "Unmasked emotions: a trip to Havana"
+      },
+      {
+         "description" : "The French Defence is one of the most popular openings - from club player to grandmaster. It's a very solid opening against 1.e4, but it leaves room for counterplay and initiative. In this two-volume video course, former world champion and star trainer Rustam Kasimdzhanov shows you the ins and outs of this hugely complex opening.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-choice-repertoire-play-the-french-defence-vol-1-2",
+         "pubDate" : "Wed, 04 May 2022 20:20:00 +0100",
+         "title" : "Top Choice Repertoire: Play the French Defence Vol. 1 & 2"
+      },
+      {
+         "description" : "Perhaps we have already heard the statement that all rook endgames are drawn. But even if this is the case, how to draw? And if it isn't the case, how to defend correctly, or transfer the position to a win? Svitlana explains the principles of rook endgames, with some examples by Alekhine, Capablanca, Firouzja, and Mamedyarov.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-39",
+         "pubDate" : "Wed, 04 May 2022 20:10:00 +0100",
+         "title" : "Svitlana's Smart Moves - Rook endgame principles"
+      },
+      {
+         "description" : "GM Hikaru Nakamura nearly swept Titled Tuesday again, tying for first place in both tournaments but only holding better tiebreaks in the late tournament. In the early tournament, he was edged out by GM Dmitry Andreikin on the tiebreaks. Nakamura a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andreikin-nakamura-win-titled-tuesday-may-3-2022",
+         "pubDate" : "Wed, 04 May 2022 09:46:20 -0700",
+         "title" : "Andreikin, Nakamura Once Again Titled Tuesday Victors"
+      },
+      {
+         "description" : " At the moment I am in Bangkok, attending a planning and development meeting for Asian chess federations (wearing both my PNG and Oceania hats). One topic of discussion is finding volunteers to implement programs that are usually required by developing federations (eg coaching and tournament organisation). For developed countries (both chess and economically) finding volunteers is hard, but aided by the large population of funded retirees. But for poorer countries this pool of resources is almost non-existent. So one suggestion is that each developing federation receives funding for a program officer, whose job it is is to implement these programs. The ultimate goal is to create enough chess",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/the-paid-volunteer.html",
+         "pubDate" : "Wed, 04 May 2022 16:20:00 +0000",
+         "title" : "The paid volunteer"
+      },
+      {
          "description" : " <p class=\"lead\">GM Anish Giri gave an <a href=\"https://www.youtube.com/watch?v=YPBYJBUulys&ab_channel=WorldChess\">exclusive interview</a> to WGM Dina Belenkaya and talked about his weaknesses, his favorite YouTube channels, his friendship with Vidit Gujrathi; books, politics, food, trash-talking, and his future plans. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/YPBYJBUulys?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> The interview started with Dina showing Anish an old photo of him playing on a train! The Dutch GM recognized it and added: \"When I was small I had a friend with whom we would even play on the phone! I think these i",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -72,14 +120,6 @@ news_feed (
          "link" : "https://www.chessdom.com/mirai-aoshima-is-the-winner-of-japan-chess-championship-2022/",
          "pubDate" : "Wed, 04 May 2022 11:52:49 +0000",
          "title" : "Mirai Aoshima is the winner of Japan Chess Championship 2022"
-      },
-      {
-         "description" : "The French Defence is one of the most popular openings - from club player to grandmaster. It's a very solid opening against 1.e4, but it leaves room for counterplay and initiative. In this two-volume video course, former world champion and star trainer Rustam Kasimdzhanov shows you the ins and outs of this hugely complex opening.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-choice-repertoire-play-the-french-defence-vol-1-2",
-         "pubDate" : "Wed, 04 May 2022 12:10:00 +0100",
-         "title" : "Top Choice Repertoire: Play the French Defence Vol. 1 & 2"
       },
       {
          "description" : "The Sri Lanka National Chess Championships 2022, with a half-million rupees prize fund, took place from April 23 to May 1 in the Kobbekaduwa Agrarian Research Institute, Wijerama Mawatha, Colombo. Both tournaments, organized by the Chess Federation of Sri Lanka, were 14-players round-robins with classical time control.&#160; The reigning national champion, 17-year-old FM Susal de []",
@@ -562,7 +602,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#114;&#46;w&#x69;&#x63;&#107;&#104;a&#x6d;&#x40;&#98;&#116;i&#x6e;&#x74;&#x65;&#114;ne&#x74;&#x2e;&#99;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#x72;&#x2e;w&#105;&#99;&#x6b;&#x68;a&#109;&#x40;&#x62;t&#105;&#110;&#x74;&#x65;r&#110;&#x65;&#x74;&#46;&#99;&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1514,14 +1554,6 @@ news_feed (
          "title" : "Underpromotion"
       },
       {
-         "description" : "GM Rameshbabu Praggnanandhaa emerged as the sole and unbeaten leader of the Oslo Esports Cup after day two with six points, followed by GM Anish Giri with four points. Behind him stand GMs Magnus Carlsen,&#38;nbsp;Shakhriyar Mamedyarov,&#38;nbsp;Jorden va...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oslo-esports-cup-day-2",
-         "pubDate" : "Sat, 23 Apr 2022 17:11:00 -0700",
-         "title" : "Blunders and Comebacks: Oslo Esports Cup Day 2"
-      },
-      {
          "description" : " National Master Jerald Times told The Chess Drum a month ago about a troubling saga involving his tenure at the Success Academy Charter Schools (SACS). Serving as the Chess Program Director he alleged that the organization held discriminatory practices within the organization. He then filed a discriminatory complaint against SACS. In a scathing 23-page legal The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/23/jerald-times-embroiled-in-legal-chess-battle/\">Jerald Times scores victory in legal chess battle</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1922,22 +1954,6 @@ news_feed (
          "title" : "Nominations invited for this year's ECF Awards"
       },
       {
-         "description" : "Russia's attack on Ukraine also affects Russian chess professionals. A number of players voiced criticism or signed an appeal for peace, and a number of top Grandmasters such as Nikita Vitiugov (pictured), Russian Champion of 2021, Alexandr Predke, Dmitry Andreikin and others, have left Russia to play under the FIDE flag, to change federations or to settle in other countries. | Photo: Nikita Vitiugov at the World Cup 2019 | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-grandmasters-leave-russia",
-         "pubDate" : "Wed, 20 Apr 2022 09:03:03 +0100",
-         "title" : "Top Grandmasters leave Russia"
-      },
-      {
-         "description" : "With over 1,300 articles, the Opening Encyclopaedia 2022 covers the entire range of openings. A huge fund of ideas and high-quality analyses! In the new edition, the number of articles has increased - 66 new opening articles and 388 new opening overviews have been added compared to the previous year. The following article shows you how to \"Find Ideas for your Repertoire\"!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/peek-insight-the-chessbase-opening-encyclopedia-2022",
-         "pubDate" : "Tue, 19 Apr 2022 19:00:00 +0100",
-         "title" : "How to find ideas for your repertoire: The ChessBase Opening Encyclopedia 2022"
-      },
-      {
          "description" : "The European School Chess Championship 2022 takes place from 20th-30th April in Rhodes, Greece. The event kicks off on Thursday, 21st of April, with the Opening ceremony which will be held shortly before the start of the first round. More than 170 players from more than 22 European federations registered for the event which will be played in&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2022-starts/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1952,14 +1968,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1695",
          "pubDate" : "Tue, 19 Apr 2022 15:16:07 +0000",
          "title" : "Queens' Online Chess Festival 2022: Registration opens"
-      },
-      {
-         "description" : "In a new interview published by the Norwegian newspaper Verdens Gang, Magnus Carlsen again talks about why he is seriously considering not playing another match for the World Championship title. \"I will make that decision later. But if there are some who expect and hope that I will say yes to playing, then I have to prepare them for a disappointment\", said the long-time world number one. | Photo: Anna Shtourman / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-interview-vg-april-2022",
-         "pubDate" : "Tue, 19 Apr 2022 15:35:10 +0100",
-         "title" : "Carlsen: \"I am not closer to playing another match for the title\""
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-56/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (56)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-56/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (56)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
