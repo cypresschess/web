@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find the live link for 9th MPL National Amateur Chess Championship-2022 at Jaipur MPL National Amateur-2022 (MPL National Amateur Chess Championship-2022) https://view.livechesscloud.com#372a1f89-2cb8-4a76-b366-8ed72e9589da",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-for-9th-mpl-national-ametur-2022/",
+         "pubDate" : "Thu, 05 May 2022 05:18:50 +0000",
+         "title" : "Live link for 9th MPL National Ametur-2022"
+      },
+      {
+         "description" : "MPL 9th National Amateur Chess Championship organized by Jaipur District Chess Association on behalf of Rajasthan Chess Association started at Mahal Rajwada Resort, Vaishali Nagar, Jaipur",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-9th-national-amateur-chess-championship-2022-report/",
+         "pubDate" : "Thu, 05 May 2022 03:40:51 +0000",
+         "title" : "MPL 9th National Amateur Chess Championship-2022 report"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani talks about the French Defense in chess, presumably. I mean, I guess she could be talking about her favorite trip to Paris... 2022.05.04 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/french-dorsa-chess-and-psychology-im-dorsa-derakhshani-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YsHpAxSovJ4.jpg?itok=tucY_c0c\" alt=\"\" /></a>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -618,7 +634,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#119;i&#x63;&#107;h&#x61;&#109;&#64;&#x62;&#116;i&#x6e;&#x74;e&#x72;&#x6e;&#101;&#x74;&#x2e;&#99;&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#114;&#46;w&#x69;&#x63;&#x6b;&#104;am&#x40;&#x62;&#116;&#105;n&#x74;&#x65;&#x72;&#110;et&#x2e;&#x63;&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1306,14 +1322,6 @@ news_feed (
          "title" : "5 rounds played at European School Chess Championship 2022"
       },
       {
-         "description" : "Dear All, Please find attached herewith list of participants for Seventh Batch (1G) of National Organizer Seminar scheduled to start from 30 April -02 May 2022,Please",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/information-for-chess-for-everyone-national-organizer-batch-1-g-30-april-02-may-2022/",
-         "pubDate" : "Tue, 26 Apr 2022 07:38:46 +0000",
-         "title" : "Information for Chess for Everyone ,National Organizer - Batch 1 G (30 April-02 May 2022)"
-      },
-      {
          "description" : " &#8220;The Exchange Variation is without doubt one of White's best weapons versus the popular Slav Defense. By creating a symmetrical position with an extra tempo, White keeps Black's counter play to a minimum while developing positional pressure&#8221; Silman and Donaldson I am going to acknowledge the elephant in the room by saying this variation is <a href=\"https://chessimprover.com/need-sure-points-queens-gambit-declined-slav-exchange-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Queen's Gambit Declined Slav, Exchange Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-quee",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1328,14 +1336,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-for-coaches-the-thornton-trap",
          "pubDate" : "Tue, 26 Apr 2022 08:04:03 +0100",
          "title" : "ChessBase for Coaches: The Thornton Trap"
-      },
-      {
-         "description" : "Please find the link for live games links for National Under-10 National Under-10 Girls (34th MPL National Under-10 Girls Chess Championship 2022) Link https://view.livechesscloud.com#cb60138f-6fcc-4c3e-b0d8-726c01780f9e National",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-game-link-for-national-under-10-reg/",
-         "pubDate" : "Tue, 26 Apr 2022 03:31:21 +0000",
-         "title" : "Live game link for National Under-10 -reg"
       },
       {
          "description" : "Magnus Carlsen talked with his team members about retirement from World Championship for years already, his team members Peter Heine Nielsen, Laurent Fressinet and Jan Gustafsson revealed in the conclusion of chess24's exclusive video series of his match in Dubai. The last three episodes of Inside Team Magnus were released last week.",
