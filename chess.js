@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So grabbed the first win at this year's Superbet Chess Classic, the inaugural event of the Grand Chess Tour. The Filipino-born star beat defending champion Shakhriyar Mamedyarov to get the sole lead in Bucharest, as the four remaining round-1 games finished drawn. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r1",
+         "pubDate" : "Thu, 05 May 2022 22:25:00 +0100",
+         "title" : "Superbet: So beats Mamedyarov"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1734",
+         "pubDate" : "Thu, 05 May 2022 20:28:44 +0000",
+         "title" : "Sanchez Alvarez and Vasquez Jaen win Panamanian championship"
+      },
+      {
          "description" : "The Grand Chess Tour Romania 2022 commenced today in Bucharest, Hungary. Following last year&#x2019;s popular classical framework, the event gathers ten players competing in a&#xA0;classical round-robin struggle for the $350,000 in prize money.&#xA0;Replay the Round 1 games Fabiano Caruana, Richard Rapport and Leinier Dominguez Perez shared their opinion about the Romanian Parliament venue which hosts []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -136,14 +152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/irina-bulmaga-havana-2022",
          "pubDate" : "Thu, 05 May 2022 14:40:00 +0100",
          "title" : "Unmasked emotions: a trip to Havana"
-      },
-      {
-         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 1 kicks off Thursday at 14.00 CEST. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
-         "pubDate" : "Thu, 05 May 2022 13:55:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "The Latvian Chess Championship 2022 and Latvian Women's Chess Championship 2022 took place from April 27 May 4 in Riga. GM Ilmars Starostits convincingly won the men's championship scoring 8/9 points. Starostits became the Latvian Champion for the second time in his career, 20 years after his first National triumph in 2002. WGM Laura []",
@@ -730,7 +738,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#114;&#x2e;w&#x69;c&#107;&#x68;&#97;&#x6d;&#64;&#x62;t&#105;&#x6e;&#116;&#x65;r&#x6e;e&#116;&#x2e;&#99;&#x6f;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#x77;&#105;c&#x6b;&#x68;&#97;m&#x40;&#x62;&#116;i&#x6e;&#x74;&#101;r&#x6e;&#101;&#116;&#46;&#x63;&#111;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
