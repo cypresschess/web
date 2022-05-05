@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two rounds, two wins. Arjun Erigaisi won his second game at the Tepe Sigemann & Co tournament in Malm&ouml;. The Indian grandmaster's victory over Saleh Salem was the only decisive game of the second round. The other three games ended in draws, with Alexei Shirov and Jorden van Foreest playing a particularly fierce battle. | Photos: Lars OA Hedlund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-r2",
+         "pubDate" : "Thu, 05 May 2022 13:05:00 +0100",
+         "title" : "TePe Sigeman & Co: Arjun wins two in a row, leads"
+      },
+      {
+         "description" : " Garry Kasparov, former World Champion and the main force behind the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">Superbet Chess Classic</a>, which starts today, is sitting courtside right before the tournament opens. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/AAA28857-AD1F-480D-9FE8-DA4BA97F405B.jpeg\" width=\"1200\" height=\"649\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes, Grand Chess Tour</div> </div> Superbet Chess Classic, an event that hosts the elite chess players, is part of the Grand Chess Tour. <a href=\"https://chessarena.com/broadcasts/17409\">Watch it</a> on World Chess. ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/photo-of-the-day-kasparov-courtside/",
+         "pubDate" : "Thu, 05 May 2022 11:22:59 +0000",
+         "title" : "Photo of the Day: Kasparov Courtside"
+      },
+      {
+         "description" : "The 44th Chess Olympiad starts on July 28 in Chennai, India. A good three months in advance, the German Chess Federation disclosed the team composition for the Open section: Vincent Keymer (2667) Matthias Bluebaum (2663) Rasmus Svane (2651) Liviu Dieter Nisipeanu (2638) Dmitrij Kollars (2635) The German team will be captained by Jan Gustafsson who []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/german-team-for-44th-chess-olympiad-2022-to-be-captained-by-jan-gustafsson/",
+         "pubDate" : "Thu, 05 May 2022 11:14:13 +0000",
+         "title" : "German Team for 44th Chess Olympiad 2022 to be captained by Jan Gustafsson"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91345502.cms\" />Five-time world champion Viswanathan Anand and Boris Gelfand will work in tandem to guide the Indian chess players during the team's coaching camp, beginning May 7, for the 44th Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-gelfand-to-work-with-indian-players-ahead-of-chess-olympiad/articleshow/91345502.cms",
+         "pubDate" : "Thu, 05 May 2022 11:06:45 +0000",
+         "title" : "Anand, Gelfand to work with Indian players ahead of Chess Olympiad"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-seniors-championships/#new_tab",
+         "pubDate" : "Thu, 05 May 2022 10:59:41 +0000",
+         "title" : "Chessable English Seniors Championships - underway"
+      },
+      {
+         "description" : "The famous chess streamer and the women's grandmaster Qiyu Zhou (AkaNemsko) will be the part of Canada Women's Team for the 44th Chess Olympiad in Chennai. Zhou made her debut at the Women's Chess Olympiad in 2014 in Tromso, Norway, and competed for&#160;Canada at the Women's Chess Olympiad ever since. In 2014 in Tromso, she []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/akanemsko-to-play-for-canada-womens-team-at-44th-chess-olympiad-2022-tweetoftheday/",
+         "pubDate" : "Thu, 05 May 2022 10:24:21 +0000",
+         "title" : "AkaNemsko to play for Canada Women's team at 44th Chess Olympiad 2022 #TweetOftheDay"
+      },
+      {
+         "description" : "World no. 3 Alireza Firouzja will take on world no. 4 Fabiano Caruana as the Superbet Chess Classic begins today in Bucharest, Romania. The 10-player, $350,000 all-play-all event will be a Candidates Tournament warm-up for four of the players, with Richard Rapport taking on Levon Aronian, while Ian Nepomniachtchi has White against 20-year-old local star Bogdan-Daniel Deac. ",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/caruana-firouzja-as-superbet-chess-classic-begins",
+         "pubDate" : "Thu, 05 May 2022 10:21:19 +0000",
+         "title" : "Caruana-Firouzja as Superbet Chess Classic begins"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on the French Defense, inspired by Parimarjan Negi. Today is all about the Winawer. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/french-dorsa-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YsHpAxSovJ4.jpg?itok=tucY_c0c\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/french-dorsa-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 05 May 2022 07:44:00 +0000",
+         "title" : "French Dorsa! | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "Please find the live link for 9th MPL National Amateur Chess Championship-2022 at Jaipur MPL National Amateur-2022 (MPL National Amateur Chess Championship-2022) https://view.livechesscloud.com#372a1f89-2cb8-4a76-b366-8ed72e9589da",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -120,14 +184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1731",
          "pubDate" : "Wed, 04 May 2022 14:22:42 +0000",
          "title" : "Canada stages Zonal Tournaments at Easter"
-      },
-      {
-         "description" : "The traditional TePe Sigeman & Co tournament is taking place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars is likely to make for an enjoyable tournament, as defending champion Jorden van Foreest will be joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. Round 2 starts Wednesday at 15.00 CEST. | Photo: Lars OA Hedlund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-live",
-         "pubDate" : "Wed, 04 May 2022 14:55:00 +0100",
-         "title" : "TePe Sigeman & Co - Live!"
       },
       {
          "description" : "The National Chess Championship of Malawi took place at the&#160;Grand Palace Hotel&#160;in Mzuzu from 14th to 18th April 2022. The event served as a qualification for the&#160;44th Chess Olympiad with the top 5 players in each category making it to the national team. Twenty-six players battled it out in the Open and 13 in the []",
@@ -280,14 +336,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-bundesliga-nord",
          "pubDate" : "Tue, 03 May 2022 20:20:00 +0100",
          "title" : "The Weekly Show: An attacking game from the Bundesliga Nord"
-      },
-      {
-         "description" : "The Puerto Rico Women's Chess Championship 2022 took place from April 29 May 1 at the University of Puerto Rico. FM&#160;Danitza V&#xE1;zquez Maccarini emerged as the winner of the five-round Swiss tournament that brought together nine participants. Danitza turned in a dominating performance winning four straight games and securing the title with a round []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/puerto-rico-womens-championship-2022-concluded/",
-         "pubDate" : "Tue, 03 May 2022 19:06:02 +0000",
-         "title" : "Puerto Rico Women's Championship 2022 concluded"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The anniversary of the biggest chess event in history, Fischer - Spassky, Reykjavik 1972, is coming up fast. Is chess about to miss out on this communication opportunity? </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-05-02-at-19-54.1920.jpeg\" title=\"The \"match of the century\" made headlines all over the Western world. Los Angeles Times clipping on Edward Winter's Chess Notes \" data-title=\"The \"match of the century\" made headlines all over the Western world. Los Angeles Times clipping on [Edward Winter's Chess Notes][1] [1]: https://www.chesshistory.com/winter/extra/spasskyf",
@@ -482,14 +530,6 @@ news_feed (
          "title" : "8-year-old Israeli Wins European Chess Championship. Now Let's Talk Money."
       },
       {
-         "description" : "Three months before the start of the 44th Chess Olympiad 2022, the compositions of Indian teams have been announced. Two teams in each Open and Women's section will represent India in Chennai from July 28 to August 10. Indian Team A (Open section): Vidit Santosh Gujrathi Pentala Harikrishna Arjun Erigaisi Srinath Narayanan Krishnan Sasikiran The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/india-teams-for-chess-olympiad-2022-announced/",
-         "pubDate" : "Mon, 02 May 2022 14:43:43 +0000",
-         "title" : "India teams for Chess Olympiad 2022 announced"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Fabiano Caruana</strong> beat Dominguez and Aronian to win the <strong>American Cup</strong> and $60,000, showing good shape in his last classical chess tournament before the Candidates Tournament. The <a href=\"https://uschesschamps.com/2022-american-cup/recap\">American Cup was a new event that was played</a> at the <strong>Saint Louis Chess Club</strong> as K.o.-matches between the eight top US players with a second chance after losing once in an \"elimination bracket\". It doesn't seem to replace the US Championship that is expected to be held in autumn. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -634,7 +674,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#x72;&#x2e;w&#105;&#x63;&#x6b;h&#97;&#x6d;&#x40;b&#116;&#x69;&#x6e;t&#101;&#x72;&#x6e;e&#116;&#46;&#x63;&#x6f;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#114;&#46;&#119;i&#x63;&#x6b;&#x68;&#97;&#109;&#64;b&#x74;&#x69;&#x6e;&#116;&#101;r&#x6e;&#x65;&#x74;&#46;&#99;&#111;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -792,14 +832,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-round-1",
          "pubDate" : "Fri, 29 Apr 2022 22:39:20 +0000",
          "title" : "2022 Superbet Chess Classic: Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> SELECT TOP GAMES: <a href=\"https://lichess.org/broadcast/2022-american-cup-blitz-tournament/round-1/z6f04J29\">https://lichess.org/broadcast/2022-american-cup-blitz-tournament/round-1...</a> With Caruana and Krush already winning the regular tournament, it&#039;s time for blitz! Thirty-four players, including the field from The American Cup, compete in a 3+2 nine-round Swiss event. Join GMs Alejandro Ramirez, Yasser Seirawan, &amp; Cristian Chirila for the move-by-move. 2022.04.29<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-v",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2022-day-10",
-         "pubDate" : "Fri, 29 Apr 2022 22:39:20 +0000",
-         "title" : "The American Cup 2022: Day 10"
       },
       {
          "description" : " <p class=\"lead\">Vasil Ivanchuk, a famous Ukrainian Grandmaster, was just breaking down his blitz game against Magnus Carlsen (\"a winning position which I spectacularly lost in just a few moves) when <a href=\"https://youtu.be/2Fz6Q5yWGiA?t=2892\">the air raid alert sirens went off</a>. Kyiv was being bombed again. Ivanchuk, famous for his passion for the game, calmly continued with the analysis. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2B85F77A-BD76-40F8-BFF6-A89257EADC08.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Ivanchuk during Rapid and Blitz Championship in Berlin in 2015. The event was organized by World Chess</div> </div> ",
@@ -1752,14 +1784,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/attn-league-and-club-secretaries/",
          "pubDate" : "Fri, 22 Apr 2022 09:53:25 +0000",
          "title" : "Attn. League and Club Secretaries"
-      },
-      {
-         "description" : "For Wesley So to win the American Cup he now has to win the Elimination bracket first after he fell to defeat against Sam Sevian, who crossed 2700 for the first time. All the other matches in the open section went to tiebreaks, with Fabiano Caruana \"a little bit disgusted\" after defeating Jeffery Xiong in Armageddon only when his opponent lost on time in a winning position. Levon Aronian edged past Ray Robson and Leinier Dominguez overcame Sam Shankland, while 12-year-old Alice Lee is through to the Women's semi-finals.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/american-cup-sevian-shocks-so-as-caruana-escapes",
-         "pubDate" : "Fri, 22 Apr 2022 09:18:39 +0000",
-         "title" : "American Cup: Sevian shocks So as Caruana escapes"
       },
       {
          "description" : " We've spent the last few months examining how you should go about selecting a move and some basic tactical ideas. While I didn't introduce you to every tactic you need to know, rest assured that you'll meet those other tactics in upcoming articles. The ground we covered may have seemed vast, however, you can use <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-eight/\">A Foundation for Beginners Fifty Eight</a> appeared first on <a rel=\"nofollow\" href=\"http",
