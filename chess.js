@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Youth Chess Championship 2022 will take place from 5th November (arrival day) 15th November (departure day) in Antalya, Turkey. The event will be played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each national federation, which is a member of the European Chess Union, can register one&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2022-official-invitation/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championship-2022-official-invitation/",
+         "pubDate" : "Thu, 05 May 2022 14:33:32 +0000",
+         "title" : "European Youth Chess Championship 2022 - Official invitation"
+      },
+      {
+         "description" : "Tykhon Cherniaiev is a 12-year-old Ukrainian Candidate Master and a double world U10 chess champion in Rapid and Blitz. His family fled Ukraine and is now safe in Hamburg. In the latest Endgame Magic Show, the talented kid joined GM Karsten M&uuml;ller to analyse a few of his most interesting endgames. Take a look! It is now free for all to watch (no ChessBase Premium account needed). | Pictured: Tykhon with his mom Svetlana, his sister Ustynya and GM Anna Muzychuk at the Women's Bundesliga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tykhon-cherniaev-endgame-magic-show",
+         "pubDate" : "Thu, 05 May 2022 14:50:00 +0100",
+         "title" : "Tykhon's endgame magic!"
+      },
+      {
+         "description" : "The traditional TePe Sigeman & Co tournament is taking place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars is likely to make for an enjoyable tournament, as defending champion Jorden van Foreest will be joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. Round 3 starts Thursday at 15.00 CEST. | Photo: Lars OA Hedlund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-live",
+         "pubDate" : "Thu, 05 May 2022 14:45:00 +0100",
+         "title" : "TePe Sigeman & Co - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Sheraton Bucharest Hotel, the Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players (Caruana, Aronian, Firouzja, So, Mamedyarov, Nepomniachtchi, Rapport, Dominguez, and MVL) are joined by a wildcard (Deac) for a classical round robin. Join GMs Peter Svidler, Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovich for the move-by-move. 2022.05.05<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-round-1-lichessorg",
+         "pubDate" : "Thu, 05 May 2022 13:44:18 +0000",
+         "title" : "2022 Superbet Chess Classic: Round 1 | lichess.org"
+      },
+      {
+         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 1 kicks off Thursday at 14.00 CEST. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
+         "pubDate" : "Thu, 05 May 2022 13:55:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "The Latvian Chess Championship 2022 and Latvian Women's Chess Championship 2022 took place from April 27 May 4 in Riga. GM Ilmars Starostits convincingly won the men's championship scoring 8/9 points. Starostits became the Latvian Champion for the second time in his career, 20 years after his first National triumph in 2002. WGM Laura []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ilmars-starostits-and-laura-rogule-are-latvian-chess-champions/",
+         "pubDate" : "Thu, 05 May 2022 12:44:05 +0000",
+         "title" : "Ilmars Starostits and Laura Rogule are Latvian Chess Champions"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Jan Gustafsson</strong>, second of Magnus Carlsen and founder of <strong>chess24</strong>, is <a href=\"https://www.schachbund.de/team-news/schacholympiade-teamcaptain-gustafsson-nominiert-olympiakader.html\">returning as non-playing captain to the team</a> of the <strong>German Chess Federation</strong>, with which he became European Champion 2011 and for which he last played in 2012. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/gustafsson-captains-german-team/",
+         "pubDate" : "Thu, 05 May 2022 13:24:49 +0100",
+         "title" : "Gustafsson captains German team"
+      },
+      {
          "description" : "Two rounds, two wins. Arjun Erigaisi won his second game at the Tepe Sigemann & Co tournament in Malm&ouml;. The Indian grandmaster's victory over Saleh Salem was the only decisive game of the second round. The other three games ended in draws, with Alexei Shirov and Jorden van Foreest playing a particularly fierce battle. | Photos: Lars OA Hedlund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -320,14 +376,6 @@ news_feed (
          "link" : "https://www.chessdom.com/tepe-sigeman-co-chess-tournament-2022-live/",
          "pubDate" : "Tue, 03 May 2022 19:46:13 +0000",
          "title" : "TePe Sigeman & Co Chess Tournament 2022 LIVE"
-      },
-      {
-         "description" : "The 4th FIDE World Cadet U8, U10, U12 &#38; the FIDE World Youth U14, U16, U18 Rapid and Blitz Chess Championships concluded today in Rhodes, Greece. More than 300 players from 40 countries participated in the event and the new world champions are: U8 Rapid Ashwath Kaushik GU8 Rapid Sivanandan BodhanaU10 Rapid []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-youth-and-cadet-rapid-blitz-champions-crowned-in-rhodes/",
-         "pubDate" : "Tue, 03 May 2022 19:29:42 +0000",
-         "title" : "FIDE World Youth and Cadet Rapid & Blitz Champions crowned in Rhodes"
       },
       {
          "description" : "In his 'Weekly Show' Lawrence Trent does a round-up of the action over the past week, including the Capablanca Memorial, the Bundesliga and the Oslo Esports Cup. Lawrence also analyses a nice attacking game he played at the Bundesliga Nord Division! | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
@@ -674,7 +722,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#114;&#46;&#119;i&#x63;&#x6b;&#x68;&#97;&#109;&#64;b&#x74;&#x69;&#x6e;&#116;&#101;r&#x6e;&#x65;&#x74;&#46;&#99;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#x72;&#46;&#x77;&#x69;&#99;&#x6b;&#x68;&#97;&#x6d;&#x40;&#98;&#x74;&#x69;&#110;&#x74;&#x65;&#114;&#x6e;&#x65;&#116;&#x2e;&#x63;&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -826,14 +874,6 @@ news_feed (
          "title" : "Dominguez: Chess is traumatic sometimes"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Sheraton Bucharest Hotel, the Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players (Caruana, Aronian, Firouzja, So, Mamedyarov, Nepomniachtchi, Rapport, Dominguez, and MVL) are joined by a wildcard (Deac) for a classical round robin. Join GMs Peter Svidler, Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovich for the move-by-move. 2022.05.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fiel",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-round-1",
-         "pubDate" : "Fri, 29 Apr 2022 22:39:20 +0000",
-         "title" : "2022 Superbet Chess Classic: Round 1"
-      },
-      {
          "description" : " <p class=\"lead\">Vasil Ivanchuk, a famous Ukrainian Grandmaster, was just breaking down his blitz game against Magnus Carlsen (\"a winning position which I spectacularly lost in just a few moves) when <a href=\"https://youtu.be/2Fz6Q5yWGiA?t=2892\">the air raid alert sirens went off</a>. Kyiv was being bombed again. Ivanchuk, famous for his passion for the game, calmly continued with the analysis. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2B85F77A-BD76-40F8-BFF6-A89257EADC08.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Ivanchuk during Rapid and Blitz Championship in Berlin in 2015. The event was organized by World Chess</div> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -896,14 +936,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/flat-earthers-miss-out-i-guess.html",
          "pubDate" : "Fri, 29 Apr 2022 14:33:00 +0000",
          "title" : "Flat earthers miss out I guess"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Council</strong> <a href=\"https://fide.com/news/1717\">approved an agreement</a> with the <strong>Grand Chess Tour</strong> that the top two finishers of their 2023 resp. 2025 series will qualify for the following <strong>Candidates Tournaments</strong>. This comes down to the end of the <strong>Grand Prix</strong> that had been organised by <strong>World Chess</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/grand-chess-tour-becomes-candidates/",
-         "pubDate" : "Fri, 29 Apr 2022 15:19:02 +0100",
-         "title" : "Grand Chess Tour becomes Candidates qualifier in 2023"
       },
       {
          "description" : "The inaugural American Cup crowned its first champions when GM Fabiano Caruana defeated GM Levon Aronian in the final game of the event, and GM Irina Krush confidently drew her game against the sensation of the tournament, FM Alice Lee.&#38;nbsp; Bo...",
@@ -1952,22 +1984,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-winding-down.html",
          "pubDate" : "Wed, 20 Apr 2022 13:06:00 +0000",
          "title" : "2022 O2C Doeberl Cup - winding down"
-      },
-      {
-         "description" : "In his \"Weekly Show\" Lawrence Trent covers a bunch of important open tournaments that have just taken place, namely the Fagernes Open, La Roda Open and Torrevieja. Game of the day will be the fantastic win by Gukesh vs Mikhalevski at the La Roda Open. Another demonstration of just how tough it is to play against this group of super talents from India. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-swiss-open-tournaments",
-         "pubDate" : "Wed, 20 Apr 2022 13:48:18 +0100",
-         "title" : "The Weekly Show: Easter Opens"
-      },
-      {
-         "description" : "Svitlana had to study, play tournaments, and Arne had the flu, and also played tournaments. Finally, the coach and her student are back with a new episode. This time, Svitlana takes us on a trip to some of Bobby Fischer's classical games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-37",
-         "pubDate" : "Wed, 20 Apr 2022 12:53:39 +0100",
-         "title" : "Svitlana's Smart Moves - The Classics by Bobby Fischer"
       },
       {
          "description" : "Details for this year's ECF Awards are now available and can be found here (PDF), together with information on how to apply and the assessment...",
