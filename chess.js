@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grand Chess Tour kicked off with its first event of the tour &#xA0; the 2022 Superbet Chess Classic a 10-player classical round-robin event taking place in Bucharest, Romania. While most fans and the commentators were keeping their eyes on the game between GM Caruana (World Number 4) GM Firouzja (World Number 3), []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-in-the-early-lead-of-grand-chess-tour-romania-2022/",
+         "pubDate" : "Thu, 05 May 2022 21:35:06 +0000",
+         "title" : "Wesley So in the early lead of Grand Chess Tour Romania 2022"
+      },
+      {
+         "description" : "Since the start of the war in Ukraine, now more than two months ago, several Russian grandmasters have decided to leave their country or not return to it. Chess.com spoke to four well-known players about their views of the war and the personal cho...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/russian-chess-grandmasters-leave-russia",
+         "pubDate" : "Thu, 05 May 2022 14:30:00 -0700",
+         "title" : "Russian Grandmasters Leave Russia: 'I Have No Sympathy For This War'"
+      },
+      {
          "description" : "Wesley So grabbed the first win at this year's Superbet Chess Classic, the inaugural event of the Grand Chess Tour. The Filipino-born star beat defending champion Shakhriyar Mamedyarov to get the sole lead in Bucharest, as the four remaining round-1 games finished drawn. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r1",
          "pubDate" : "Thu, 05 May 2022 22:25:00 +0100",
          "title" : "Superbet: So beats Mamedyarov"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1735",
+         "pubDate" : "Thu, 05 May 2022 21:16:59 +0000",
+         "title" : "2022 GCT Superbet Chess Classic Romania: Day 1 Recap"
       },
       {
          "description" : "",
@@ -378,14 +402,6 @@ news_feed (
          "title" : "Mirai Aoshima is the winner of Japan Chess Championship 2022"
       },
       {
-         "description" : "The Sri Lanka National Chess Championships 2022, with a half-million rupees prize fund, took place from April 23 to May 1 in the Kobbekaduwa Agrarian Research Institute, Wijerama Mawatha, Colombo. Both tournaments, organized by the Chess Federation of Sri Lanka, were 14-players round-robins with classical time control.&#160; The reigning national champion, 17-year-old FM Susal de []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sri-lanka-national-champions-and-teams-for-chess-olympiad-2022-announced/",
-         "pubDate" : "Wed, 04 May 2022 10:49:03 +0000",
-         "title" : "Sri Lanka National Champions and Teams for Chess Olympiad 2022 announced"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -738,7 +754,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#x77;&#105;c&#x6b;&#x68;&#97;m&#x40;&#x62;&#116;i&#x6e;&#x74;&#101;r&#x6e;&#101;&#116;&#46;&#x63;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#x2e;&#x77;&#x69;&#x63;k&#104;&#97;&#109;&#x40;&#x62;&#x74;in&#116;&#101;&#x72;&#x6e;&#x65;t&#46;&#99;&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -808,14 +824,6 @@ news_feed (
          "link" : "https://aicf.in/mpl-national-blitz-chess-championship-2022-aravind-chithambaram-v-r-clinched-the-blitz-title-too/",
          "pubDate" : "Sat, 30 Apr 2022 12:54:34 +0000",
          "title" : "MPL National Blitz Chess Championship 2022, Aravind Chithambaram V R clinched the blitz title"
-      },
-      {
-         "description" : "Since the start of the war in Ukraine, now more than two months ago, several Russian grandmasters have decided to leave their country or not return to it. Chess.com spoke to four well-known players about their views of the war and the personal cho...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/russian-chess-grandmasters-leave-russia",
-         "pubDate" : "Sat, 30 Apr 2022 05:36:00 -0700",
-         "title" : "Russian Grandmasters Leave Russia: 'I Have No Sympathy For This War'"
       },
       {
          "description" : "Two world champions, Steinitz and Euwe; a chess family, the Cramlings; and plenty of 1.d4 practitioners, Moiseenko, Gaprindashvili, and Miles are born under the zodiac sign of Taurus. Their power lies in their calmness. A proper Taurus acts thoughtfully, prudently, deliberately. They calculate what they do, everything else is considered unreasonable. They may allow their opponent a refreshing nap while they think about the next move. It would be fatal to consider them limited for that reason. | Photo: Pixabay",
@@ -2088,14 +2096,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/apr/15/chess-teenagers-top-reykjavik-while-english-hopes-fade-at-the-finish",
          "pubDate" : "Fri, 15 Apr 2022 07:00:24 +0000",
          "title" : "Chess: Teenagers top in Reykjavik while English hopes fade at the finish"
-      },
-      {
-         "description" : " Day 1 of the 2022 O2C Doeberl Cup saw a couple of big upsets. FM Albert Winkelman scored a full point against current Australian Champion GM Temur Kuybokaov, while IM Gary Lane lost to a much lower rated Nethaji Rathinalingam. Currently 8 players are tied for first with 2 wins, including GM's Daniel Fernandez, Hrant Melkumyan and Bobby Cheng. Day 2 sees the start of the supporting events, with another 280 players arriving for the Major, Minor and Under 1200. Assuming everyone makes it to Canberra, this will break last years record of 330 players. Todays rounds start at 1pm and you can follow games from the top boards on various chess sites including Chess24, chess.com and Licchess. <b>Winke",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-day-1.html",
-         "pubDate" : "Thu, 14 Apr 2022 22:46:00 +0000",
-         "title" : "2022 O2C Doeberl Cup - Day 1"
       }
    ]
 }
