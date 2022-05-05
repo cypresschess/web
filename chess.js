@@ -722,7 +722,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#x72;&#46;&#x77;&#x69;&#99;&#x6b;&#x68;&#97;&#x6d;&#x40;&#98;&#x74;&#x69;&#110;&#x74;&#x65;&#114;&#x6e;&#x65;&#116;&#x2e;&#x63;&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#46;&#x72;&#46;&#x77;i&#x63;k&#x68;&#97;&#x6d;&#64;&#x62;&#116;&#x69;&#110;t&#101;r&#x6e;e&#x74;&#46;&#x63;&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2176,14 +2176,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-day-1.html",
          "pubDate" : "Thu, 14 Apr 2022 22:46:00 +0000",
          "title" : "2022 O2C Doeberl Cup - Day 1"
-      },
-      {
-         "description" : "The English Chess Federation's 24-hour charity marathon for Ukraine took place over the weekend of 02/04 to 03/04 on Chess.com to raise funds for the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-marathon-for-ukraine-results/",
-         "pubDate" : "Thu, 14 Apr 2022 16:12:29 +0000",
-         "title" : "ECF Marathon for Ukraine - results"
       }
    ]
 }
