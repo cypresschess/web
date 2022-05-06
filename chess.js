@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, May 6th 2022, the Appeal Chamber of the FIDE Ethics and Disciplinary Commission (EDC) formed by its Chairperson Mr. Francois Strydom, and members Mr. Khaled Arfa and Mr. David Hater,&#160;announced its decision to dismiss the appeal presented by Grandmaster Sergey Karjakin.&#160; The dismissal of this appeal confirms the 6-month ban that was imposed by []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-dismissed-karjakins-appeal-on-the-6-months-ban/",
+         "pubDate" : "Fri, 06 May 2022 15:03:16 +0000",
+         "title" : "FIDE dismissed Karjakin's appeal on the 6 months ban"
+      },
+      {
+         "description" : "The Russian Chess Federation&#39;s appeal against GM Sergey Karjakin&#39;s six-month ban was dismissed by the FIDE Ethics and Disciplinary Commission (EDC). This opens the door for GM Ding Liren to replace Karjakin in the FIDE Candidates Tournament. The...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/karjakin-appeal-dismissed-fide-candidates-ding",
+         "pubDate" : "Fri, 06 May 2022 07:43:00 -0700",
+         "title" : "Karjakin Appeal Dismissed; Door Open For Ding To Enter Candidates"
+      },
+      {
+         "description" : "Sergey Karjakin, the controversial former world chess title challenger, looks set to miss the Candidates Tournament after the World Chess Federation FIDE dismissed his appeal against a 6-month ban from chess. Pending a new appeal to the Court of Arbitration of Sport, the ruling leaves the way open for China's No.1 Ding Liren who, as the highest-rated player in the FIDE rankings list not yet to have qualified, stands in line to take the Russian's place.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-dismisses-sergey-karjakin-s-appeal",
+         "pubDate" : "Fri, 06 May 2022 14:26:27 +0000",
+         "title" : "FIDE dismisses Sergey Karjakin's appeal"
+      },
+      {
+         "description" : "In a review published in Chess Life, John Watson looks at a number of titles that explore the Jobava London System. He notes, \"It's remarkable that 2.Nc3 was considered a marginal and even anti-positional move for most of chess history. It is now played by the world's elite and creates fresh and interesting play\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jobava-london-john-watson-review",
+         "pubDate" : "Fri, 06 May 2022 14:50:00 +0100",
+         "title" : "The Jobava London: theory marches on"
+      },
+      {
+         "description" : "The traditional TePe Sigeman & Co tournament is taking place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars is likely to make for an enjoyable tournament, as defending champion Jorden van Foreest will be joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. Round 4 starts Friday at 15.00 CEST. | Photo: Lars OA Hedlund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-live",
+         "pubDate" : "Fri, 06 May 2022 14:45:00 +0100",
+         "title" : "TePe Sigeman & Co - Live!"
+      },
+      {
+         "description" : "Following detailed discussions with all parties concerned regarding the new wave of Covid19 appearing in China, the Olympic Council of Asia (OCA) Executive Board decided to postpone the 19th Asian Games, which were scheduled to be held in Hangzhou from 10 to 25 September 2022. The name and the emblem of the Games will remain []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-19th-asian-games-hangzhou-2022-postponed/",
+         "pubDate" : "Fri, 06 May 2022 13:04:51 +0000",
+         "title" : "The 19th Asian Games Hangzhou 2022 Postponed"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1736",
+         "pubDate" : "Fri, 06 May 2022 13:03:00 +0000",
+         "title" : "Sergey Karjakin's appeal dismissed"
+      },
+      {
+         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 2 kicks off Friday at 14.00 CEST. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
+         "pubDate" : "Fri, 06 May 2022 13:55:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : " I was going to play out our long running endgame from the last few months this week. However, I decided to discuss some additional middle-game principles instead. The reason for this is because you should have enough information at hand to play last week's position out yourself. At some point, I will play through the <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty/\">A Foundation for Beginners Sixty</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.c",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty/",
+         "pubDate" : "Fri, 06 May 2022 12:43:25 +0000",
+         "title" : "A Foundation for Beginners Sixty"
+      },
+      {
          "description" : "The Queens' Online Chess Festival 2022, a series of continental women's online blitz tournaments, starts on&#160;June 05, 2022. The event organized by FIDE Commission for Women's Chess in cooperation with FIDE Events Commission, is supported by the Asian Chess Federation, the African Chess Confederation, the European Chess Union, and the Confederation of Chess for Americas. Female players from&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/queens-online-chess-festival-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -106,7 +178,7 @@ news_feed (
          "title" : "Sanchez Alvarez and Vasquez Jaen win Panamanian championship"
       },
       {
-         "description" : "The Grand Chess Tour Romania 2022 commenced today in Bucharest, Hungary. Following last year&#x2019;s popular classical framework, the event gathers ten players competing in a&#xA0;classical round-robin struggle for the $350,000 in prize money.&#xA0;Replay the Round 1 games Fabiano Caruana, Richard Rapport and Leinier Dominguez Perez shared their opinion about the Romanian Parliament venue which hosts []",
+         "description" : "The Grand Chess Tour Romania 2022 commenced today in Bucharest, Hungary. Following last year&#x2019;s popular classical framework, the event gathers ten players competing in a&#160;classical round-robin struggle for the $350,000 in prize money.&#160;Replay the Round 1 games Fabiano Caruana, Richard Rapport and Leinier Dominguez Perez shared their opinion about the Romanian Parliament venue which hosts []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/caruana-rapport-and-dominguez-comment-on-the-grand-chess-tour-romania-playing-venue/",
@@ -216,14 +288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tykhon-cherniaev-endgame-magic-show",
          "pubDate" : "Thu, 05 May 2022 14:50:00 +0100",
          "title" : "Tykhon's endgame magic!"
-      },
-      {
-         "description" : "The traditional TePe Sigeman & Co tournament is taking place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars is likely to make for an enjoyable tournament, as defending champion Jorden van Foreest will be joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. Round 3 starts Thursday at 15.00 CEST. | Photo: Lars OA Hedlund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-live",
-         "pubDate" : "Thu, 05 May 2022 14:45:00 +0100",
-         "title" : "TePe Sigeman & Co - Live!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the Sheraton Bucharest Hotel, the Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players (Caruana, Aronian, Firouzja, So, Mamedyarov, Nepomniachtchi, Rapport, Dominguez, and MVL) are joined by a wildcard (Deac) for a classical round robin. Join GMs Peter Svidler, Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovich for the move-by-move. 2022.05.05<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field",
@@ -346,14 +410,6 @@ news_feed (
          "title" : "Grand Chess Tour Romania 2022 LIVE"
       },
       {
-         "description" : "The 2022 Romanian Grand Prix series kicked off with the Super Chess Rapid tournament which took place from April 30 to May 1 in Bucharest, shortly before the start of the 1st Grand Chess Tour event in Romania. More than 190 players from 14 countries battled it out through 10 rounds, fighting for a total []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/baadur-jobava-wins-1st-romanian-grand-prix-event/",
-         "pubDate" : "Wed, 04 May 2022 21:43:18 +0000",
-         "title" : "Baadur Jobava wins 1st Romanian Grand Prix event"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -408,14 +464,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/gm-anish-giri-my-weakness-is-that-i-cant-lie/",
          "pubDate" : "Wed, 04 May 2022 14:49:49 +0000",
          "title" : "GM Anish Giri: \"My weakness is that I can't lie\""
-      },
-      {
-         "description" : "Three months before the start of&#xA0;the 44th Chess Olympiad 2022, the compositions of Indian teams have been announced. Two teams in each Open and Women&#x2019;s section will represent India in Chennai from July 28 to August 10. The All India Chess Federation (AICF) assigned former world champion Viswanathan Anand and the chess legend Boris Gelfand []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/boris-gelfand-believes-that-indian-teams-can-go-the-distance-at-the-44th-chess-olympiad-2022/",
-         "pubDate" : "Wed, 04 May 2022 14:26:34 +0000",
-         "title" : "Boris Gelfand believes that Indian teams can go the distance at the 44th Chess Olympiad 2022"
       },
       {
          "description" : "",
@@ -802,7 +850,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#x72;&#46;&#119;&#x69;c&#107;&#x68;&#x61;&#109;&#x40;&#x62;t&#105;&#x6e;t&#101;&#x72;&#x6e;&#101;&#x74;&#x2e;c&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#x2e;&#x77;&#x69;&#x63;k&#104;&#97;&#109;&#x40;&#x62;&#x74;in&#116;&#101;&#x72;&#x6e;&#x65;t&#46;&#99;&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1474,14 +1522,6 @@ news_feed (
          "title" : "Carlsen Joins The Lead: Oslo Esports Cup Day 4"
       },
       {
-         "description" : "The 2022 Junior Speed Chess Championship&#38;nbsp;presented by SIG saw a tenacious turnaround today: a nearly-down-and-out GM Arjun Erigaisi flipped a colossal deficit to overcome staunch IM Denis Lazavik.&#38;nbsp; Erigaisi upped the heat in the 3+1 se...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-round-of-16-erigaisi-lazavik",
-         "pubDate" : "Mon, 25 Apr 2022 13:34:00 -0700",
-         "title" : "Erigaisi Stuns With Comeback: 2022 Junior Speed Chess Championship Round Of 16"
-      },
-      {
          "description" : " <p class=\"lead\">World Chess today introduced Prize Money Tournaments - online tournaments with entry fees and monetary prizes. The Prize Money Tournaments will be organized by World Chess and select partners, such as federations and clubs, and will allow chess players to play for actual monetary prizes, similar to the offline events. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0EF0F22B-243C-4285-866E-8B64023B35A3.jpeg\" width=\"1600\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">FIDE Online Arena front page</div> </div> Setting up and participating in a <a href=\"https://chessarena.com/tournaments/17818\">Prize Money Tournament</a> on FIDE Online Arena, t",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1688,14 +1728,6 @@ news_feed (
          "link" : "https://www.thearticle.com/ukraine-and-world-chess-whose-side-is-dvorkovich-on/",
          "pubDate" : "Sat, 23 Apr 2022 09:14:22 +0000",
          "title" : "Ukraine and world chess: whose side is Dvorkovich on?"
-      },
-      {
-         "description" : "This Saturday, April 23rd at 3pm CEST, the 17-year-old German No. 1 Vincent Keymer plays Banter Blitz here on chess24. FM Yosha Iglesias takes the opportunity to look back on his five most remarkable victories.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/vincent-keymer-s-5-most-impressive-wins",
-         "pubDate" : "Sat, 23 Apr 2022 08:12:47 +0000",
-         "title" : "Vincent Keymer's 5 most impressive wins"
       },
       {
          "description" : "The diagram shows a theoretical Sicilian position in which White has just opened the g-file. Recapturing with 16...Nxf6? now is a well-known mistake - do you see why?",
@@ -1922,22 +1954,6 @@ news_feed (
          "title" : "Master Chess Web Show (10)"
       },
       {
-         "description" : "In his \"Game of the Week\" show #512, Merijn van Delft takes a look at a fine positional exchange sacrifice with which the 18-year old Indian star Arjun Erigaisi defeated his countryman Chopra Aryan in round 4 of the Fagernes Open in Norway. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-4",
-         "pubDate" : "Wed, 20 Apr 2022 18:00:00 +0100",
-         "title" : "Game of the Week #512: Arjun Erigaisi vs Chopra Aryan"
-      },
-      {
-         "description" : "The ever-smiling Nigerian boy who made it to the news a bit over three years ago continues to climb the rating ladder. Tanitoluwa Adewumi, better known as Tani, is 11 years old and has just grabbed his first IM norm at the New York Spring Invitational. Once a refugee escaping a terrorist group, he is now a household name in the chess world. | Photo: Kayode Adewumi",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tani-adewumi-clinches-first-im-norm",
-         "pubDate" : "Wed, 20 Apr 2022 17:35:00 +0100",
-         "title" : "Tani Adewumi clinches first IM norm in New York"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1976,14 +1992,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1695",
          "pubDate" : "Tue, 19 Apr 2022 15:16:07 +0000",
          "title" : "Queens' Online Chess Festival 2022: Registration opens"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-56/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (56)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-56/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (56)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-56/",
-         "pubDate" : "Tue, 19 Apr 2022 13:51:47 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (56)"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/76ff4def-b130-4bac-9654-71451340f403/Ali2.jpg\" data-image-dimensions=\"410x369\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"625db3bfb239a401574b23df\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/76ff4def-b130-4bac-9654-71451340f403/Ali2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by John Upham, courtesy of <a href=\"https://britishchessnews.com/2020/01/20/happy-birthday-im-ali-mortazavi-20-i-1971/\">British Chess News </a>",
@@ -2064,38 +2072,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-day-2.html",
          "pubDate" : "Sat, 16 Apr 2022 04:36:00 +0000",
          "title" : "2022 O2C Doeberl Cup - Day 2"
-      },
-      {
-         "description" : "Friedrich Schiller has, in my mind, always been associated with chess, since I became familiar with his ideas about the nature of play. Actually identifying a specific, undeniable reference to chess in Schiller's oeuvre has, however, proved more elusive. On my desk I have a number of books which retain a permanent position and are []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/freedom-chess-and-friedrich-schiller/",
-         "pubDate" : "Fri, 15 Apr 2022 13:16:23 +0000",
-         "title" : "Freedom, chess and Friedrich Schiller"
-      },
-      {
-         "description" : " Levon's fiancee Anita Ayvazyan gives an exclusive interview to WGM Dina Belenkaya about moving to America, her artist career, the pros and cons of being in a relationship with a professional chess player and more! <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Hk9_StBp8Zw?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/exclusive-interview-with-ani-ayvazyan/",
-         "pubDate" : "Fri, 15 Apr 2022 12:10:06 +0000",
-         "title" : "Exclusive Interview With Ani Ayvazyan"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1684",
-         "pubDate" : "Fri, 15 Apr 2022 11:52:00 +0000",
-         "title" : "Ten years of Chicago chess in jail"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1691",
-         "pubDate" : "Fri, 15 Apr 2022 11:34:28 +0000",
-         "title" : "Qualification Commission renews its leadership"
       }
    ]
 }
