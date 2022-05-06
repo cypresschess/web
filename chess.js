@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first round of this year&#39;s edition of the Superbet Chess Classic in Bucharest, Romania saw only one win. GM Wesley So defeated GM Shakhriyar Mamedyarov in a nice positional game, while the other four games ended in draws after varying amounts ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-1",
+         "pubDate" : "Thu, 05 May 2022 18:44:00 -0700",
+         "title" : "Wesley So Wins And Leads: 2022 Superbet Chess Classic Romania, Day 1"
+      },
+      {
          "description" : "The Grand Chess Tour kicked off with its first event of the tour &#xA0; the 2022 Superbet Chess Classic a 10-player classical round-robin event taking place in Bucharest, Romania. While most fans and the commentators were keeping their eyes on the game between GM Caruana (World Number 4) GM Firouzja (World Number 3), []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -754,7 +762,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#x2e;&#x77;&#x69;&#x63;k&#104;&#97;&#109;&#x40;&#x62;&#x74;in&#116;&#101;&#x72;&#x6e;&#x65;t&#46;&#99;&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#46;w&#x69;&#99;&#x6b;&#x68;a&#x6d;&#64;b&#x74;&#105;&#x6e;&#116;e&#x72;&#110;e&#x74;&#46;&#x63;&#111;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1448,14 +1456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-show-191-highlights-from-the-charity-cup",
          "pubDate" : "Mon, 25 Apr 2022 17:00:00 +0100",
          "title" : "Endgame Magic Show #191: Highlights from the Charity Cup"
-      },
-      {
-         "description" : "GM Alexey Sarana won week 11 of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Andrey Esipenko in the knockout final.&#38;nbsp; GM Hikaru Nakamura&#38;nbsp;won the Swiss tournament and made it to the semifinals along wit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-11-sarana-wins",
-         "pubDate" : "Mon, 25 Apr 2022 08:33:00 -0700",
-         "title" : "Sarana's First Knockout Victory: Rapid Chess Championship Week 11"
       },
       {
          "description" : "",
