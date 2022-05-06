@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "NM Griffin McConnell earned the national master title on March 19, 2022, at the age of 17, after undergoing four brain surgeries. Despite having seizures since childhood and undergoing several operations&#38;mdash;after various medications failed to h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/17-year-old-earns-chess-master-title-after-brain-surgeries-griffin-mcconnell",
+         "pubDate" : "Fri, 06 May 2022 11:48:32 -0700",
+         "title" : "17-Year-Old Earns Master Title After Four Brain Surgeries"
+      },
+      {
+         "description" : " <p class=\"lead\">In an exclusive interview with World Chess and WGM Dina Belenkaya, the Dutch chess star Anish Giri said that having people tweeting annoying things about FIDE all the time is not chess politics. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Giri.jpg\" width=\"2560\" height=\"1399\" alt=\"\" /> </div> We've seen many professional chess players getting involved in politics, with the most blatant example of the former World Champion Gary Kasparov. After his retirement from chess in 2005, Kasparov turned to politics and created the United Civil Front, a social movement whose main goal is to \"work to preserve electoral democracy in Russia\". Recently, after",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/anish-giri-i-dont-think-we-have-chess-politics-as-such/",
+         "pubDate" : "Fri, 06 May 2022 18:10:57 +0000",
+         "title" : "Anish Giri: \"I don't think we have chess politics as such\""
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews and analyzes with Garry Kasparov during Round 2 of the Superbet Chess Classic. 2022.05.06<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-unlike-war-chess-has-rules-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3ragAKwOKk4.jpg?itok=vT-_Tm2N\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-unlike-war-chess-has-rules-round-2",
+         "pubDate" : "Fri, 06 May 2022 16:45:14 +0000",
+         "title" : "Kasparov: Unlike War, Chess has Rules | Round 2"
+      },
+      {
+         "description" : "The Appeal Chamber of the FIDE Ethics and Disciplinary Commission has announced its decision to dismiss the appeal presented by Grandmaster Sergey Karjakin, confirming the 6-month ban that was imposed by the EDC on March 21. This decision is appealable to the Court of Arbitration for Sport (CAS) within 21 calendar days following communication of this decision. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-dismisses-sergey-karjakin-appeal",
+         "pubDate" : "Fri, 06 May 2022 17:35:00 +0100",
+         "title" : "FIDE dismisses Sergey Karjakin's appeal"
+      },
+      {
+         "description" : " <p class=\"lead\">Today, the Appeal Chamber of the FIDE Ethics and Disciplinary Commission (EDC) has announced its decision to dismiss the appeal presented by GM Sergey Karjakin, and confirmed the 6-month ban that was imposed by the EDC. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/website-World-Chess.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> On February 27, 2022, the FIDE Council decided to bring <a href=\"https://worldchess.com/news/all/gm-sergey-karjakin-is-banned-for-6-months-by-fide-ethics/\">the case of GM Sergey Karjakin</a> to the Ethics and Disciplinary Commission for his public statements on Russia's invasion of Ukraine. On March 21st, 2022, the ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/gm-sergey-karjakin-is-banned-for-6-months-for-real/",
+         "pubDate" : "Fri, 06 May 2022 16:21:05 +0000",
+         "title" : "FIDE Bans Sergey Karjakin Again, Possibly"
+      },
+      {
          "description" : "Today, May 6th 2022, the Appeal Chamber of the FIDE Ethics and Disciplinary Commission (EDC) formed by its Chairperson Mr. Francois Strydom, and members Mr. Khaled Arfa and Mr. David Hater,&#160;announced its decision to dismiss the appeal presented by Grandmaster Sergey Karjakin.&#160; The dismissal of this appeal confirms the 6-month ban that was imposed by []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -15,7 +55,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/karjakin-appeal-dismissed-fide-candidates-ding",
          "pubDate" : "Fri, 06 May 2022 07:43:00 -0700",
-         "title" : "Karjakin Appeal Dismissed; Door Open For Ding To Enter Candidates"
+         "title" : "Karjakin Appeal Dismissed: Door Open For Ding To Enter Candidates"
       },
       {
          "description" : "Sergey Karjakin, the controversial former world chess title challenger, looks set to miss the Candidates Tournament after the World Chess Federation FIDE dismissed his appeal against a 6-month ban from chess. Pending a new appeal to the Court of Arbitration of Sport, the ruling leaves the way open for China's No.1 Ding Liren who, as the highest-rated player in the FIDE rankings list not yet to have qualified, stands in line to take the Russian's place.",
@@ -368,14 +408,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/caruana-firouzja-as-superbet-chess-classic-begins",
          "pubDate" : "Thu, 05 May 2022 10:21:19 +0000",
          "title" : "Caruana-Firouzja as Superbet Chess Classic begins"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on the French Defense, inspired by Parimarjan Negi. Today is all about the Winawer. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/french-dorsa-chess-and-psychology-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YsHpAxSovJ4.jpg?itok=tucY_c0c\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/french-dorsa-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 05 May 2022 07:44:00 +0000",
-         "title" : "French Dorsa! | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "Please find the live link for 9th MPL National Amateur Chess Championship-2022 at Jaipur MPL National Amateur-2022 (MPL National Amateur Chess Championship-2022) https://view.livechesscloud.com#372a1f89-2cb8-4a76-b366-8ed72e9589da",
@@ -850,7 +882,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#x2e;&#x77;&#x69;&#x63;k&#104;&#97;&#109;&#x40;&#x62;&#x74;in&#116;&#101;&#x72;&#x6e;&#x65;t&#46;&#99;&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#x72;&#46;&#x77;&#x69;c&#x6b;&#x68;a&#109;&#x40;b&#116;&#x69;n&#116;&#x65;r&#110;&#x65;t&#46;&#x63;&#x6f;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1514,14 +1546,6 @@ news_feed (
          "title" : "Carlsen crushes Praggnanandhaa to go joint-top of leaderboard"
       },
       {
-         "description" : "After day four&#38;mdash;halfway through the event&#38;mdash;GM&#38;nbsp;Magnus Carlsen&#38;nbsp;shares the lead with GM&#38;nbsp;Rameshbabu Praggnanandhaa at nine points after defeating him in their match today. GMs&#38;nbsp;Jan-Krzysztof Duda&#38;nbsp;and Le Quang Liem&#38;nbs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oslo-esports-cup-day-4",
-         "pubDate" : "Mon, 25 Apr 2022 14:07:00 -0700",
-         "title" : "Carlsen Joins The Lead: Oslo Esports Cup Day 4"
-      },
-      {
          "description" : " <p class=\"lead\">World Chess today introduced Prize Money Tournaments - online tournaments with entry fees and monetary prizes. The Prize Money Tournaments will be organized by World Chess and select partners, such as federations and clubs, and will allow chess players to play for actual monetary prizes, similar to the offline events. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0EF0F22B-243C-4285-866E-8B64023B35A3.jpeg\" width=\"1600\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">FIDE Online Arena front page</div> </div> Setting up and participating in a <a href=\"https://chessarena.com/tournaments/17818\">Prize Money Tournament</a> on FIDE Online Arena, t",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1920,14 +1944,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1698",
          "pubDate" : "Thu, 21 Apr 2022 12:02:29 +0000",
          "title" : "American Cup 2022: Day 1 Recap"
-      },
-      {
-         "description" : "The inaugural American Cup kicked off today with plenty of decisive action as several players drew first blood in their individual matches within the Champions Bracket. Samuel Sevian (pictured) caused the biggest upset: he won with Black against Wesley So. | Photos: Austin and Crystal Fuller, Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-day-1-recap-plenty-of-action",
-         "pubDate" : "Thu, 21 Apr 2022 10:31:18 +0100",
-         "title" : "American Cup, Day 1, Recap: Plenty of action"
       },
       {
          "description" : "",
