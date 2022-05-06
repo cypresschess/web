@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Lawrence thought about showing us some tactics of one of the greatest chess players in the world. The world champion from the US was excellent with everything that chess has to offer. Obviously, Bobby Fischer played some tremendous tactical combinations during his career. We start with a game from 1961 against Mikhail Tal!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-21",
+         "pubDate" : "Fri, 06 May 2022 21:00:00 +0100",
+         "title" : "Trent's Tactics - The one and only: Bobby Fischer"
+      },
+      {
          "description" : "NM Griffin McConnell earned the national master title on March 19, 2022, at the age of 17, after undergoing four brain surgeries. Despite having seizures since childhood and undergoing several operations&#38;mdash;after various medications failed to h...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -882,7 +890,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#x72;&#46;&#x77;&#x69;c&#x6b;&#x68;a&#109;&#x40;b&#116;&#x69;n&#116;&#x65;r&#110;&#x65;t&#46;&#x63;&#x6f;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#46;&#x77;&#105;c&#x6b;h&#x61;&#109;&#x40;&#98;t&#x69;&#110;&#x74;&#101;r&#x6e;e&#x74;&#46;&#x63;&#111;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1928,14 +1936,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/r-v-b.html",
          "pubDate" : "Thu, 21 Apr 2022 13:19:00 +0000",
          "title" : "R v B"
-      },
-      {
-         "description" : "With 7.5/9 the Armenian Grandmaster Hrant Melkumyan was sole first at this year's Doeberl Cup in Canberra, Australia. The tournament has been held since 1963 and is Australia's most prestigious chess event. It is named after the Austrian self-made businessman Erich Doeberl, who emigrated to Australia in 1955. | Photo: Rosemary Doeberl, daughter of Erich Doeberl, with Hrant Melkumyan (Photo: Chesslife)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hrant-melkumyan-wins-doeberl-cup",
-         "pubDate" : "Thu, 21 Apr 2022 13:46:26 +0100",
-         "title" : "Hrant Melkumyan wins Doeberl Cup"
       },
       {
          "description" : "",
