@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1737",
+         "pubDate" : "Fri, 06 May 2022 21:42:21 +0000",
+         "title" : "2022 GCT Superbet Chess Classic Romania: Day 2 Recap"
+      },
+      {
+         "description" : "Round 2 of the Grand Chess Tour Romania 2022 started in an interesting fashion with a surprising opening choice by Maxime Vachier-Lagrave (MVL) who chose the QGA (Queen&#x2019;s Gambit Accepted) against Wesley So. Although four of the five games ended in a draw, Mamedyarov Rapport and Firouzja Nepomniachtchi were fiery dynamic games that []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-defeats-firouzja-grand-chess-tour-romania-2022-r2-recap/",
+         "pubDate" : "Fri, 06 May 2022 20:49:17 +0000",
+         "title" : "Nepo defeats Firouzja, Grand Chess Tour Romania 2022 - R2 recap"
+      },
+      {
+         "description" : "Today, May 6th 2022, the Appeal Chamber of the FIDE Ethics and Disciplinary Commission (EDC) formed by its Chairperson Mr. Francois Strydom, and members Mr. Khaled Arfa and Mr. David Hater,&#160;announced its decision to dismiss the appeal presented by Grandmaster Sergey Karjakin.&#160; The dismissal of this appeal confirms the 6-month ban that was imposed by []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-dismissed-karjakins-appeal-on-the-6-months-ban/",
+         "pubDate" : "Fri, 06 May 2022 20:45:00 +0000",
+         "title" : "FIDE dismissed Karjakin's appeal on the 6 months ban"
+      },
+      {
+         "description" : " Ian Nepomniachtchi (Nepo), Russian Grandmaster and 2021 Championship challenger, beat Alireza Firouzja with White in Round 2 of Superbet Chess Classic. The game was captivating not only because of chess (it was chaotic), but also because everyone is watching for Firouzja's chances to win the Candidates Tournament. The reason - Magnus Carlsen recently said that he would play the Match only against Firouzja. Apparently, chances are slim. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/9E7D3455-3106-45B4-9344-4718D79C38CE.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Nepo in Moscow in 2019</div> </div> Nepo, grumpy but visibly pleased with",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nepo-beats-firouzja-carlsons-preferred-opponent/",
+         "pubDate" : "Fri, 06 May 2022 20:08:27 +0000",
+         "title" : "Nepo Beats Firouzja, Carlsen's Preferred Opponent"
+      },
+      {
          "description" : "Lawrence thought about showing us some tactics of one of the greatest chess players in the world. The world champion from the US was excellent with everything that chess has to offer. Obviously, Bobby Fischer played some tremendous tactical combinations during his career. We start with a game from 1961 against Mikhail Tal!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/new-trent-s-tactics-21",
          "pubDate" : "Fri, 06 May 2022 21:00:00 +0100",
          "title" : "Trent's Tactics - The one and only: Bobby Fischer"
+      },
+      {
+         "description" : "The European Youth Chess Championship 2022 will take place from 5th November (arrival day) &#x2013; 15th November (departure day) in Antalya, Turkey. The event will be played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately, in 9 rounds, swiss system, with time control of 90 minutes for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-2022/",
+         "pubDate" : "Fri, 06 May 2022 19:40:01 +0000",
+         "title" : "European Youth Chess Championship 2022"
+      },
+      {
+         "description" : "The 13th World Chess Champion Garry Kasparov gave an exclusive interview during the second round of Grand Chess Tour Romania 2022. Kasparov shared his impressions about the first 2022 Grand Chess Tour event and the opening ceremony which took place in the Romanian Parliament: &#8220;It was spectacular! Chess now is back to where it belongs []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/interview-with-garry-kasparov-chess-is-back-to-where-it-belongs-video/",
+         "pubDate" : "Fri, 06 May 2022 19:31:06 +0000",
+         "title" : "Interview with Garry Kasparov: \"Chess is back to where it belongs\" (VIDEO)"
       },
       {
          "description" : "NM Griffin McConnell earned the national master title on March 19, 2022, at the age of 17, after undergoing four brain surgeries. Despite having seizures since childhood and undergoing several operations&#38;mdash;after various medications failed to h...",
@@ -48,14 +96,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/gm-sergey-karjakin-is-banned-for-6-months-for-real/",
          "pubDate" : "Fri, 06 May 2022 16:21:05 +0000",
          "title" : "FIDE Bans Sergey Karjakin Again, Possibly"
-      },
-      {
-         "description" : "Today, May 6th 2022, the Appeal Chamber of the FIDE Ethics and Disciplinary Commission (EDC) formed by its Chairperson Mr. Francois Strydom, and members Mr. Khaled Arfa and Mr. David Hater,&#160;announced its decision to dismiss the appeal presented by Grandmaster Sergey Karjakin.&#160; The dismissal of this appeal confirms the 6-month ban that was imposed by []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-dismissed-karjakins-appeal-on-the-6-months-ban/",
-         "pubDate" : "Fri, 06 May 2022 15:03:16 +0000",
-         "title" : "FIDE dismissed Karjakin's appeal on the 6 months ban"
       },
       {
          "description" : "The Russian Chess Federation&#39;s appeal against GM Sergey Karjakin&#39;s six-month ban was dismissed by the FIDE Ethics and Disciplinary Commission (EDC). This opens the door for GM Ding Liren to replace Karjakin in the FIDE Candidates Tournament. The...",
@@ -386,28 +426,12 @@ news_feed (
          "title" : "Photo of the Day: Kasparov Courtside"
       },
       {
-         "description" : "The 44th Chess Olympiad starts on July 28 in Chennai, India. A good three months in advance, the German Chess Federation disclosed the team composition for the Open section: Vincent Keymer (2667) Matthias Bluebaum (2663) Rasmus Svane (2651) Liviu Dieter Nisipeanu (2638) Dmitrij Kollars (2635) The German team will be captained by Jan Gustafsson who []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/german-team-for-44th-chess-olympiad-2022-to-be-captained-by-jan-gustafsson/",
-         "pubDate" : "Thu, 05 May 2022 11:14:13 +0000",
-         "title" : "German Team for 44th Chess Olympiad 2022 to be captained by Jan Gustafsson"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/english-seniors-championships/#new_tab",
          "pubDate" : "Thu, 05 May 2022 10:59:41 +0000",
          "title" : "Chessable English Seniors Championships - underway"
-      },
-      {
-         "description" : "The famous chess streamer and the women's grandmaster Qiyu Zhou (AkaNemsko) will be the part of Canada Women's Team for the 44th Chess Olympiad in Chennai. Zhou made her debut at the Women's Chess Olympiad in 2014 in Tromso, Norway, and competed for&#160;Canada at the Women's Chess Olympiad ever since. In 2014 in Tromso, she []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/akanemsko-to-play-for-canada-womens-team-at-44th-chess-olympiad-2022-tweetoftheday/",
-         "pubDate" : "Thu, 05 May 2022 10:24:21 +0000",
-         "title" : "AkaNemsko to play for Canada Women's team at 44th Chess Olympiad 2022 #TweetOftheDay"
       },
       {
          "description" : "World no. 3 Alireza Firouzja will take on world no. 4 Fabiano Caruana as the Superbet Chess Classic begins today in Bucharest, Romania. The 10-player, $350,000 all-play-all event will be a Candidates Tournament warm-up for four of the players, with Richard Rapport taking on Levon Aronian, while Ian Nepomniachtchi has White against 20-year-old local star Bogdan-Daniel Deac. ",
@@ -440,14 +464,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/arena-kings-season-9-championship-final-nakamura-wins",
          "pubDate" : "Wed, 04 May 2022 15:34:21 -0700",
          "title" : "Indestructible Nakamura Clinches Arena Kings Season 9 Championship Final"
-      },
-      {
-         "description" : "Leading off the&#160;2022 Grand Chess Tour&#160;will be the&#160;Superbet Chess Classic&#160;held&#160;from 3-15 May in Bucharest, Romania. Following last year&#x2019;s popular classical framework, the Grand Chess Tour Romania 2022 hosts ten players competing in a&#160;classical round-robin struggle for the $350,000 in prize money. The novelty is that the&#160;Grand Chess Tour events become part of the World Championship []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-romania-2022-live/",
-         "pubDate" : "Wed, 04 May 2022 22:24:08 +0000",
-         "title" : "Grand Chess Tour Romania 2022 LIVE"
       },
       {
          "description" : "",
@@ -890,7 +906,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#46;&#x77;&#105;c&#x6b;h&#x61;&#109;&#x40;&#98;t&#x69;&#110;&#x74;&#101;r&#x6e;e&#x74;&#46;&#x63;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#114;&#46;w&#x69;&#x63;&#x6b;&#104;&#97;m&#x40;&#x62;&#x74;&#105;&#110;t&#x65;&#x72;&#x6e;&#101;&#116;&#46;&#x63;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
