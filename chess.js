@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Queens' Online Chess Festival 2022, a series of continental women's online blitz tournaments, starts on&#160;June 05, 2022. The event organized by FIDE Commission for Women's Chess in cooperation with FIDE Events Commission, is supported by the Asian Chess Federation, the African Chess Confederation, the European Chess Union, and the Confederation of Chess for Americas. Female players from&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/queens-online-chess-festival-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/queens-online-chess-festival-2022/",
+         "pubDate" : "Fri, 06 May 2022 10:53:38 +0000",
+         "title" : "Queens' Online Chess Festival 2022"
+      },
+      {
+         "description" : "The 5th edition of the Sharjah Chess Masters international tournament will be held from 20th-30th May in Sharjah Cultural &#38; Chess Club. The event will be held as an Invitational Tournament, with (maximum) 80 players of FIDE standard rating of 2300 and above, as of May 2022 FIDE rating list. &#160;Out of these 80 players, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sharjah-chess-masters-2022/",
+         "pubDate" : "Fri, 06 May 2022 10:04:00 +0000",
+         "title" : "Sharjah Chess Masters 2022"
+      },
+      {
+         "description" : "The 2022 Open and Women's Chess Championships of North Macedonia concluded yesterday in Skopje. The events simultaneously took place in Hotel Continental, being played from April 29 May 5. 59 players competed in the 9 round swiss system Open tournament, while 12 women played the 7 rounds swiss system Women's Championship. IM Filip Pancevski []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2022-open-and-womens-championships-of-north-macedonia-concluded-in-skopje/",
+         "pubDate" : "Fri, 06 May 2022 09:26:35 +0000",
+         "title" : "2022 Open and Women's Championships of North Macedonia concluded in Skopje"
+      },
+      {
+         "description" : "Wesley So is the early leader of the Superbet Chess Classic after bamboozling Shakhriyar Mamedyarov at the end of a long game to grab the only win of Round 1. Elsewhere in Bucharest, Richard Rapport and Ian Nepomniachtchi were unable to build on what seemed promising positions, while Caruana-Firouzja was a tense battle between the world numbers 3 and 4 that ended in a draw by repetition when Fabiano had a pleasant position but little time on the clock.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-1-wesley-so-strikes",
+         "pubDate" : "Fri, 06 May 2022 08:17:38 +0000",
+         "title" : "Superbet Chess Classic 1: Wesley So strikes"
+      },
+      {
          "description" : "The MPL Indian Chess Tour exploded onto the scene last month with Arjun Erigaisi scoring a stunning +7 to clinch victory in the first leg. But before it returns, we have a very special opportunity for chess fans in India: you can take part in MPL's own Indian Chess Tour Qualifier.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -394,14 +426,6 @@ news_feed (
          "title" : "Canada stages Zonal Tournaments at Easter"
       },
       {
-         "description" : "The National Chess Championship of Malawi took place at the&#160;Grand Palace Hotel&#160;in Mzuzu from 14th to 18th April 2022. The event served as a qualification for the&#160;44th Chess Olympiad with the top 5 players in each category making it to the national team. Twenty-six players battled it out in the Open and 13 in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/malawi-determined-teams-for-chess-olympiad-2022-and-crowned-national-chess-champions/",
-         "pubDate" : "Wed, 04 May 2022 13:08:06 +0000",
-         "title" : "Malawi determined Teams for Chess Olympiad 2022 and crowned National Chess Champions"
-      },
-      {
          "description" : "18-year-old Arjun Erigaisi climbed to 2680.3 on the live rating list as he began the TePe Sigeman &amp; co. Chess Tournament in Malmo, Sweden with a convincing win over Alexei Shirov. The veteran was caught out in the opening, as was David Navara, who fell to defeat against Salem Saleh. Niemann-Adams and Grandelius-Van Foreest were drawn.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -424,14 +448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-complete-repertoire-against-the-alapin",
          "pubDate" : "Wed, 04 May 2022 13:30:00 +0100",
          "title" : "A complete repertoire against the Alapin"
-      },
-      {
-         "description" : "The Japan Chess Championship 2022 was held from April 30 to May 4 in Tokyo with participation of 63 players and a total prize fund of 100.000 yen. FM Mirai Aoshima became the sole Winner of the event after a dramatic finish with score of 7.5/9 points. Three top seeds entered the last round with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mirai-aoshima-is-the-winner-of-japan-chess-championship-2022/",
-         "pubDate" : "Wed, 04 May 2022 11:52:49 +0000",
-         "title" : "Mirai Aoshima is the winner of Japan Chess Championship 2022"
       },
       {
          "description" : "",
@@ -786,7 +802,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#x77;&#105;c&#x6b;&#x68;&#97;m&#x40;&#x62;&#116;i&#x6e;&#x74;&#101;r&#x6e;&#101;&#116;&#46;&#x63;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#x72;&#46;&#119;&#x69;c&#107;&#x68;&#x61;&#109;&#x40;&#x62;t&#105;&#x6e;t&#101;&#x72;&#x6e;&#101;&#x74;&#x2e;c&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1714,14 +1730,6 @@ news_feed (
          "title" : "A middlegame lesson by Ivan Sokolov: Rolling pawns"
       },
       {
-         "description" : "\"He deserves to lose!\" said Peter Leko after Magnus Carlsen played 1.f3, but the World Champion had winning chances before drawing that game against Jan-Krzysztof Duda on the way to a 2.5:0.5 victory in Round 1 of the Oslo Esports Cup. Praggnanandhaa matched Magnus all the way, also winning two games with the black pieces, as he overcame Jorden van Foreest. Anish Giri won a rollercoaster 3rd game to defeat Eric Hansen, while Shakhriyar Mamedyarov took advantage of a Liem Quang Le mouse-slip on a day where no tiebreaks were needed.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/oslo-esports-cup-1-carlsen-plays-1-f3-as-he-and-pragg-crush",
-         "pubDate" : "Fri, 22 Apr 2022 20:53:21 +0000",
-         "title" : "Oslo Esports Cup 1: Carlsen plays 1.f3 as he and Pragg crush"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1986,14 +1994,6 @@ news_feed (
          "title" : "EP 275- IM Ali Mortazavi- A CEO and Successful Stock Investor on how the Challenges of Chess Help Everything Else Seem Easier"
       },
       {
-         "description" : "The Chess Academy of Armenia organizes four international chess events during the Summer in Armenia: 13th Karen Asrian Memorial (6th-16th June, Yerevan, Armenia) 1st International Youth Chess Festival (17th-26th June, Yerevan, Armenia) Chess Summer Camp with renowned chess players and Grandmasters (29th June 6th July, Aghveran, Armenia) Stepan Avagyan International Open Chess Tournament (7th-16th July, Jermuk, Armenia)&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/international-chess-events-in-armenia/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/international-chess-events-in-armenia/",
-         "pubDate" : "Tue, 19 Apr 2022 12:02:53 +0000",
-         "title" : "International Chess Events in Armenia"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2096,14 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1691",
          "pubDate" : "Fri, 15 Apr 2022 11:34:28 +0000",
          "title" : "Qualification Commission renews its leadership"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1690",
-         "pubDate" : "Fri, 15 Apr 2022 09:01:39 +0000",
-         "title" : "Trainer Workshop: \"How to Teach Calculations\" by Artur Jussupow"
       }
    ]
 }
