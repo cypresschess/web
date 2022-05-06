@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The MPL Indian Chess Tour exploded onto the scene last month with Arjun Erigaisi scoring a stunning +7 to clinch victory in the first leg. But before it returns, we have a very special opportunity for chess fans in India: you can take part in MPL's own Indian Chess Tour Qualifier.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/announcing-the-mpl-indian-chess-tour-qualifier-a-unique-chance-to-face-the-elite",
+         "pubDate" : "Fri, 06 May 2022 07:26:30 +0000",
+         "title" : "The MPL Indian Chess Tour Qualifier: A unique chance to face the elite"
+      },
+      {
+         "description" : " Talented generation with skills honed by online games capture seven golds, one silver and six bronzes in Euro Schools, World Rapid and World Blitz youth championships England's chess children claimed a record 14-medal haul last weekend when the island of Rhodes hosted the European Schools age group championships followed by the Fide World Rapid and World Blitz youth championships. Seven golds, one silver and six bronzes put England second in the overall medal table, one gold behind Turkey but one ahead of Ukraine. The result owes something to Netflix's Beth Harmon in The Queen's Gambit, to the inspiration of Magnus Carlsen as an active and personable world champion, but also to the pandemic",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/may/06/chess-england-children-sweep-gold-medals-and-world-titles-in-rhodes",
+         "pubDate" : "Fri, 06 May 2022 07:00:09 +0000",
+         "title" : "Chess: England children sweep gold medals and world titles in Rhodes"
+      },
+      {
+         "description" : " My current trip to Bangkok was the first international trip in around 2 and half years. While it was to attend an important FIDE PDC meeting, it was also a warmup for travel to the Olympiad in a few months. Overall it was a pretty smooth trip (so far), although there is a lot more paperwork to fill out. Both the enter Thailand, and to return to Australia requires you to submit proof of vaccination, otherwise you still need to be tested. The other main issue is that there are far few flights to book. In my case I could only get separate domestic and international tickets, and while I was able to make my outgoing connection in Sydney easily enough, going in the opposite direction may be a lit",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/heading-back.html",
+         "pubDate" : "Fri, 06 May 2022 05:20:00 +0000",
+         "title" : "Heading Back"
+      },
+      {
          "description" : "The first round of this year&#39;s edition of the Superbet Chess Classic in Bucharest, Romania saw only one win. GM Wesley So defeated GM Shakhriyar Mamedyarov in a nice positional game, while the other four games ended in draws after varying amounts ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -762,7 +786,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#46;w&#x69;&#99;&#x6b;&#x68;a&#x6d;&#64;b&#x74;&#105;&#x6e;&#116;e&#x72;&#110;e&#x74;&#46;&#x63;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#x77;&#105;c&#x6b;&#x68;&#97;m&#x40;&#x62;&#116;i&#x6e;&#x74;&#101;r&#x6e;&#101;&#116;&#46;&#x63;&#111;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1738,14 +1762,6 @@ news_feed (
          "title" : "Trent's Tactics - Beliavsky's masterful tactics"
       },
       {
-         "description" : "Magnus Carlsen will take on Jan-Krzysztof Duda in a 4-game match today as the Oslo Esports Cup, the 1st Major on the $1.6 million Meltwater Champions Chess Tour, starts at 18:00 CEST (12:00 ET, 21:30 IST). We've also got Giri-Hansen, Jorden van Foreest-Praggnanandhaa and Mamedyarov-Le as the $210,000 event starts with all the players gathered together in one venue in Oslo. Tania Sachdev is joined by Sagar Shah, Maurice Ashley and Lawrence Trent for a Pre-Show from 17:00 CEST!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-duda-as-the-oslo-esports-cup-begins",
-         "pubDate" : "Fri, 22 Apr 2022 12:51:11 +0000",
-         "title" : "Carlsen-Duda as the Oslo Esports Cup begins"
-      },
-      {
          "description" : " It has been a busy week for me, but the upside is I did get to add to my collection of weird chess incidents. Todays Junior Rapidplay event was for Under 18 Juniors, which normally sees a little more commons sense play. Nonetheless there was a QvQ ending (without pawns) that was *not* draw after one player thought that they were losing their queen to a skewer, missing the fact that the king to move and defend their queen! Reaching back to the Doeberl Cup there was a disputed result between two junior players in the blitz. Both players claimed they had one (which was kind of true), although one player said he won the 'real' game, but then lost the 'practice' game. The second player simply sa",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2088,14 +2104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1690",
          "pubDate" : "Fri, 15 Apr 2022 09:01:39 +0000",
          "title" : "Trainer Workshop: \"How to Teach Calculations\" by Artur Jussupow"
-      },
-      {
-         "description" : " India's Rameshbabu Praggnanandhaa, 16, won first prize and the youngest GM Abhimanyu Mishra, 13, of the US, tied for second India's Rameshbabu Praggnanandhaa, 16, widely forecast as a future world class grandmaster, added to his growing reputation on Tuesday when he won the €5,000 first prize at the Reykjavik Open with an unbeaten 7.5/9. Earlier in his career, the Chennai teenager was the youngest ever international master, among the youngest ever GMs and the second youngest to reach a 2600 Fide rating. He was singled out <a href=\"https://www.theguardian.com/sport/2016/oct/21/rameshbabu-praggnanandhaa-world-grandmaster-record\" title=\"\">in this column</a> more than five years ago for an 18",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/apr/15/chess-teenagers-top-reykjavik-while-english-hopes-fade-at-the-finish",
-         "pubDate" : "Fri, 15 Apr 2022 07:00:24 +0000",
-         "title" : "Chess: Teenagers top in Reykjavik while English hopes fade at the finish"
       }
    ]
 }
