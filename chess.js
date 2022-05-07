@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, White found a stunning way to strengthen his attack decisively. Your call!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/checkmate-sculptor",
+         "pubDate" : "Sat, 07 May 2022 09:00:00 +0100",
+         "title" : "Checkmate sculptor"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -946,7 +954,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#x69;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#x40;&#x62;&#x74;&#x69;&#x6e;&#x74;&#x65;&#x72;&#x6e;&#x65;&#x74;&#46;&#99;&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#114;&#x2e;&#119;&#x69;&#99;&#x6b;&#104;&#x61;&#109;&#x40;b&#x74;i&#x6e;t&#x65;r&#x6e;e&#x74;&#46;&#99;&#x6f;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2032,14 +2040,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/arrow-right-less-chess",
          "pubDate" : "Thu, 21 Apr 2022 17:54:45 +0100",
          "title" : "Arrow-right-less Chess"
-      },
-      {
-         "description" : "A massive chess festival took place in Chihuahua, Mexico on April 12-17. Almost a thousand participants played in the numerous open tournaments, which included events for women, amateurs and different age categories. In the main event, Argentinian GM Sandro Mareco was the outright winner after scoring 7&frac12; out of 9 points. Pablo Salinas (Chile), Kevin Cori (Peru) and Luis Ibarra (Mexico) finished a half point. | Photo: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sandro-mareco-wins-mexico-open-2022",
-         "pubDate" : "Thu, 21 Apr 2022 16:00:00 +0100",
-         "title" : "Sandro Mareco victorious at Mexico Open"
       },
       {
          "description" : " During the ACT Junior Rapid Championships, I witnessed not one, but two R v B endings (no pawns mind you). As the players involved were relatively inexperienced, finding the correct defence proved elusive. It is a draw if the side with the Bishop can get their king into the corner of the opposite colour to the bishop, as stalemate tricks then save the day. In the first case the weaker side got their king caught in the middle of the back rank and lost the bishop to zugswang. In the second game, the defending side found a better strategy, putting the side with the rook into check, and then pointing out an illegal move when the rook was moved. After resetting the position I pointed out that to",
