@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For a third day in a row, we got to see one of five games ending decisively at the Superbet Chess Classic in Bucharest. Bogdan-Daniel Deac, the clear underdog in the field, joined Wesley So and Ian Nepomniachtchi in the lead after making the most of Richard Rapport's one-move blunder. Meanwhile, Levon Aronian escaped against Alireza Firouzja, who could not convert his advantage in a double-edged endgame. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r3",
+         "pubDate" : "Sat, 07 May 2022 23:45:00 +0100",
+         "title" : "Deac joins the lead as Rapport blunders"
+      },
+      {
+         "description" : " <p class=\"lead\">10 elite Grandmasters face each other in the classic round-robin tournament that takes place in Bucharest, Romania. It is staged by and is part of the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">Grand Chess Tour</a>, a circuit of chess events organized by former world champion Garry Kasparov. Here is Round 3 of the event in photos. All photos by <a href=\"https://www.flickr.com/photos/grandchesstour/albums/72177720298714286/with/52055806952/\">Lennart Ootes</a>, Grand Chess Tour official photographer. Fabiano Caruana, World's number 3 at the moment, has 1.5 points after 3 draws. <div class=\"e2-text-picture\"> <img src=\"https://worldche",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/superbet-chess-classic-round-3-in-photos/",
+         "pubDate" : "Sat, 07 May 2022 21:58:33 +0000",
+         "title" : "Superbet Chess Classic: Round 3 in Photos"
+      },
+      {
+         "description" : "The Appeal Chamber of the FIDE Ethics and Disciplinary Commission (EDC) decided on May 6th to dismiss the appeal presented by Grandmaster Sergey Karjakin, confirming the 6 months ban that was&#160;imposed by the EDC on March 21st, 2022 after Karjakin was found guilty of&#160;breach of article 2.2.10:&#160;&#x201C;Sergey Karjakin is found guilty of breach of article []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/karjakin-on-fides-decision-its-the-turn-of-the-sports-courts/",
+         "pubDate" : "Sat, 07 May 2022 21:53:47 +0000",
+         "title" : "Karjakin on FIDE's decision: \"It's the turn of the sports courts!\""
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1739",
+         "pubDate" : "Sat, 07 May 2022 20:51:14 +0000",
+         "title" : "2022 GCT Superbet Chess Classic Romania: Day 3 Recap"
+      },
+      {
+         "description" : "Day 3 of the Superbet Chess Classic in Bucharest did not fail to entertain the audience. It has been the most exciting day by far, but at the same time heartbreaking for some of the players, commentators, and fans. While we have been used to only seeing one decisive result per round, today could have []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/deac-surprises-rapport-grand-chess-tour-romania-2022-gets-the-leading-trio-r3-recap/",
+         "pubDate" : "Sat, 07 May 2022 20:44:53 +0000",
+         "title" : "Deac surprises Rapport; Grand Chess Tour Romania 2022 gets the leading trio - R3 recap"
+      },
+      {
+         "description" : " Share!The Russian incursion into Ukraine is still burning up the news cycle more than two months after the geopolitical conflict began. The constant display of the horrid images of battle and scenes of death has filled our consciousness. The reaction was swift as FIDE condemned the act and decided to bring sanctions against the Russia The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/07/geopolitics-and-the-diverse-voices-in-chess/\">Geopolitics and the Diverse Voices in Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/05/07/geopolitics-and-the-diverse-voices-in-chess/",
+         "pubDate" : "Sat, 07 May 2022 19:39:47 +0000",
+         "title" : "Geopolitics and the Diverse Voices in Chess"
+      },
+      {
          "description" : "The Kenya Olympic Chess Team has been chosen for the upcoming 44th Chess Olympiad 2022, which will take place in Chennai, India, from 28th July to 10th August 2022. LIVE now:&#160;Grand Chess Tour Romania 2022&#160;/&#160;TePe Sigeman &#38; Co 2022&#160;/&#160;Mitropa Chess Cup 2022 The grueling selection process contained three phases and culminated in the final 3rd []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -48,14 +96,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/my-favourite-game-by-bent-larsen",
          "pubDate" : "Sat, 07 May 2022 14:00:00 +0100",
          "title" : "\"My favourite game by Bent Larsen\""
-      },
-      {
-         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 3 kicks off Saturday at 14.00 CEST. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
-         "pubDate" : "Sat, 07 May 2022 13:55:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : " The early underpromotion to a knight is a well known trap in the Budapest Gambit, but it can be even more devastating in other circumstances. The following game may well be the quickest underpromotion checkmate there is, unless someone has constructed a shorter game. <br /> <b>Amateur - Goetz</b><br />Strassburg, 1880 <script>new PgnViewer( { boardName: \"game1325\", movesFormat: \"default\", pgnString:'1.e4 e5 2.f4 exf4 3.b3 Qh4+ 4.g3 fxg3 5.h3 g2+ 6.Ke2 Qxe4+ 7.Kf2 gxh1=N#', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1325-container\"></div><div id=\"game1325-moves\"></div><br />",
@@ -130,7 +170,7 @@ news_feed (
          "title" : "Superbet Classic 2: Nepo knocks Firouzja out of 2800 club"
       },
       {
-         "description" : " Share!The chess community on the African continent is buzzing at the news of Enyonam Sewa Noël Fumey announcing his candidacy for FIDE President. According to the FIDE press release, Fumey notified current FIDE President Arkady Dvorkovich of his intentions. There was also this plea of inclusivity: \"FIDE machine is working effectively, but with my team, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/06/enynonam-fumey-fide/\">Togo's Fumey will stand for FIDE President</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " The chess community on the African continent is buzzing at the news of Enyonam Sewa Noël Fumey announcing his candidacy for FIDE President. According to the FIDE press release, Fumey notified current FIDE President Arkady Dvorkovich of his intentions. There was also this plea of inclusivity: \"FIDE machine is working effectively, but with my team, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/06/enynonam-fumey-fide/\">Togo's Fumey will stand for FIDE President</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/05/06/enynonam-fumey-fide/",
@@ -184,14 +224,6 @@ news_feed (
          "link" : "https://www.chessdom.com/european-youth-chess-championship-2022/",
          "pubDate" : "Fri, 06 May 2022 19:40:01 +0000",
          "title" : "European Youth Chess Championship 2022"
-      },
-      {
-         "description" : "The 13th World Chess Champion Garry Kasparov gave an exclusive interview during the second round of Grand Chess Tour Romania 2022. Kasparov shared his impressions about the first 2022 Grand Chess Tour event and the opening ceremony which took place in the Romanian Parliament: &#8220;It was spectacular! Chess now is back to where it belongs []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/interview-with-garry-kasparov-chess-is-back-to-where-it-belongs-video/",
-         "pubDate" : "Fri, 06 May 2022 19:31:06 +0000",
-         "title" : "Interview with Garry Kasparov: \"Chess is back to where it belongs\" (VIDEO)"
       },
       {
          "description" : "NM Griffin McConnell earned the national master title on March 19, 2022, at the age of 17, after undergoing four brain surgeries. Despite having seizures since childhood and undergoing several operations&#38;mdash;after various medications failed to h...",
@@ -264,14 +296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/jobava-london-john-watson-review",
          "pubDate" : "Fri, 06 May 2022 14:50:00 +0100",
          "title" : "The Jobava London: theory marches on"
-      },
-      {
-         "description" : "Following detailed discussions with all parties concerned regarding the new wave of Covid19 appearing in China, the Olympic Council of Asia (OCA) Executive Board decided to postpone the 19th Asian Games, which were scheduled to be held in Hangzhou from 10 to 25 September 2022. The name and the emblem of the Games will remain []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-19th-asian-games-hangzhou-2022-postponed/",
-         "pubDate" : "Fri, 06 May 2022 13:04:51 +0000",
-         "title" : "The 19th Asian Games Hangzhou 2022 Postponed"
       },
       {
          "description" : "",
@@ -1026,7 +1050,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#x69;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#x40;&#x62;&#x74;&#105;&#110;&#116;&#101;&#114;&#110;&#101;&#116;&#46;&#99;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#119;&#105;&#99;kh&#x61;&#x6d;&#x40;&#x62;&#x74;&#105;&#110;&#116;er&#x6e;&#x65;&#x74;&#x2e;&#x63;&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
