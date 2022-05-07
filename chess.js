@@ -162,6 +162,14 @@ news_feed (
          "title" : "A Foundation for Beginners Sixty"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91374202.cms\" />India's six-year-old chess player Ashwath Kaushik has made history by winning gold in the Open Under-8 category in the World Cadets and Youth Championships 2022 for Rapid and Blitz in Rhodes, Greece from May 1-3.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/six-year-old-ashwath-kaushik-clinches-under-8-world-cadets-chess-gold/articleshow/91374202.cms",
+         "pubDate" : "Fri, 06 May 2022 11:00:34 +0000",
+         "title" : "Six-year-old Ashwath Kaushik clinches Under-8 World Cadets chess gold"
+      },
+      {
          "description" : "The Queens' Online Chess Festival 2022, a series of continental women's online blitz tournaments, starts on&#160;June 05, 2022. The event organized by FIDE Commission for Women's Chess in cooperation with FIDE Events Commission, is supported by the Asian Chess Federation, the African Chess Confederation, the European Chess Union, and the Confederation of Chess for Americas. Female players from&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/queens-online-chess-festival-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -426,6 +434,14 @@ news_feed (
          "title" : "Photo of the Day: Kasparov Courtside"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91345502.cms\" />Five-time world champion Viswanathan Anand and Boris Gelfand will work in tandem to guide the Indian chess players during the team's coaching camp, beginning May 7, for the 44th Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-gelfand-to-work-with-indian-players-ahead-of-chess-olympiad/articleshow/91345502.cms",
+         "pubDate" : "Thu, 05 May 2022 11:06:45 +0000",
+         "title" : "Anand, Gelfand to work with Indian players ahead of Chess Olympiad"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -578,6 +594,14 @@ news_feed (
          "title" : "2022 Superbet Chess Classic Kicks Off in Romania"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91306441.cms\" />The All-India Chess Federation (AICF) is going all out to ensure the Indian teams have the best possible preparation ahead of the chess Olympiad to be held here from July 28 to August 10.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-boris-gelfand-to-be-one-of-indias-mentors/articleshow/91306441.cms",
+         "pubDate" : "Wed, 04 May 2022 05:46:38 +0000",
+         "title" : "Chess Olympiad: Boris Gelfand to be one of India's mentors"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -624,6 +648,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/forgotten-genius-ellen-gilbert-the-first-queen-of-chess",
          "pubDate" : "Tue, 03 May 2022 17:26:59 +0000",
          "title" : "Forgotten Genius: Ellen Gilbert, the First Queen of Chess"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91293260.cms\" />Indian Woman Grandmaster R Vaishali on Tuesday won the Heraklion 2022 - 8th Fischer Memorial chess tournament, scoring seven points from nine rounds.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/vaishali-wins-chess-tournament-in-greece/articleshow/91293260.cms",
+         "pubDate" : "Tue, 03 May 2022 16:40:14 +0000",
+         "title" : "Vaishali wins chess tournament in Greece"
       },
       {
          "description" : "Jan's Opening Clinic is back, and in the 1st episode of Season 27, Grandmaster Jan Gustafsson, who was instrumental in World Champion Magnus Carlsen offering to play the Marshall in Dubai in 2021, explains why Ian Nepomniachtchi and other challengers have tended to dodge the main lines. He also offers advice on how to meet a move Magnus has also played, 1.b4 (the Orangutan or Polish Opening), and 3.h4 against the Gr&uuml;nfeld. There's still some time to ask a question for Jan to answer in one of the upcoming shows!",
@@ -810,6 +842,14 @@ news_feed (
          "title" : "Endgame Magic Show #192: Tichon Cherniaev"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91260418.cms\" />Two teams each will represent India in the Open and women's section at the 44th Chess Olympiad with five-time world champion Viswanathan Anand being named as the hosts' mentor for the prestigious tournament scheduled to be played from July 28 to Aug 10.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-viswanathan-anand-to-mentor-squad-as-india-name-two-teams-in-open-and-womens-section/articleshow/91260418.cms",
+         "pubDate" : "Mon, 02 May 2022 11:11:34 +0000",
+         "title" : "Olympiad: Anand to mentor squad as India name two teams in open and women's section"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -906,7 +946,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;wickham&#64;&#98;&#116;&#105;&#110;&#116;&#101;&#114;&#110;&#101;&#116;&#46;&#99;&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#x69;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#x40;&#x62;&#x74;&#x69;&#x6e;&#x74;&#x65;&#x72;&#x6e;&#x65;&#x74;&#46;&#99;&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -970,6 +1010,14 @@ news_feed (
          "title" : "Knowing the little tricks"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91214083.cms\" />All India Chess Federation (AICF), the Indian Government and Tamil Nadu Government are ensuring that the forthcoming Chess Olympiad, scheduled in Chennai from July 28 to August 10, would be memorable for the country, the participants as well as the spectators.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sports-minister-anurag-thakur-reviews-preparation-for-chess-olympiad-2022/articleshow/91214083.cms",
+         "pubDate" : "Sat, 30 Apr 2022 13:27:19 +0000",
+         "title" : "Sports Minister Anurag Thakur reviews preparation for Chess Olympiad 2022"
+      },
+      {
          "description" : "MPL National blitz Chess Championship 2022 was organized by Nashik District Chess Association on behalf of Maharashtra chess association under the aegis of All India",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1008,6 +1056,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fatal-pawn-hunt",
          "pubDate" : "Sat, 30 Apr 2022 09:00:00 +0100",
          "title" : "Fatal pawn hunt"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91200206.cms\" />India's R Praggnanandhaa missed a golden opportunity to win the Oslo Esports Cup as he lost in the seventh and final round 0.5-2.5 to Dutchman Anish Giri on Thursday night. Praggu, who had led the tournament for the first five rounds, ended fourth with 12 points. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/oslo-esports-cup-a-great-learning-experience-says-r-praggnanandhaa/articleshow/91200206.cms",
+         "pubDate" : "Sat, 30 Apr 2022 05:48:51 +0000",
+         "title" : "Oslo Esports Cup a great learning experience, says R Praggnanandhaa"
       },
       {
          "description" : "The 55th edition of the Capablanca Memorial took place on April 19-28 at the historic Hotel Nacional de Cuba in Havana. Hans Niemann from the United States dominated the Elite group, scoring 7&frac12; points in the 10-player single round-robin. The Premier group, a women's tournament, was similarly dominated by Romanian IM Irina Bulmaga, who also collected 7&frac12; points to finish two points clear of her closest chaser. | Photo: Lennart Ootes / Saint Louis Chess Club",
@@ -1160,6 +1216,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fabiano-caruana-wins-american-cup",
          "pubDate" : "Fri, 29 Apr 2022 07:41:39 +0100",
          "title" : "Fabiano Caruana wins American Cup!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91171783.cms\" />India's teenaged Grandmaster R Praggnanandhaa missed out on the top prize in the USD 210,000 Oslo Esports Cup online rapid chess tournament as he lost 0.5-2.5 to Dutch player Anish Giri in the seventh and final round to finish fourth.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-indian-gm-praggnanandhaa-falters-in-final-round-of-oslo-event-finishes-fourth/articleshow/91171783.cms",
+         "pubDate" : "Fri, 29 Apr 2022 06:13:38 +0000",
+         "title" : "Indian GM Praggnanandhaa falters in final round of Oslo event, finishes fourth"
       },
       {
          "description" : "In a surprising development, Jan-Krzysztof Duda leapfrogged Praggnanandhaa and Magnus Carlsen in the final round of the Oslo Esports Cup. The Polish star won the tournament after beating an off-form Eric Hansen and seeing both Carlsen and Pragg quickly losing their matches against Shakhriyar Mamedyarov and Anish Giri. Le Quang Liem, who was tied in points with Duda before the final round, beat Jorden van Foreest in tiebreaks to get sole second place.",
@@ -1650,6 +1714,14 @@ news_feed (
          "title" : "Oslo Esports Cup 3: Carlsen beats Giri before Pragg showdown"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91056485.cms\" /> Teenaged Indian Grandmaster D Gukesh on Sunday won the Menorca Open chess tournament, his second title win in as many weeks. Indian players dominated, taking seven spots in the top 10 with Aryan Chopra finishing runner-up. The 15-year old GM scored six points from seven rounds to clinch first place and earned 1,600 Euros as prize money.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-menorca-open-chess-tourney/articleshow/91056485.cms",
+         "pubDate" : "Sun, 24 Apr 2022 17:48:24 +0000",
+         "title" : "Indian GM Gukesh wins Menorca Open chess tourney"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 76th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how hanging pawns can come under pressure. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1794,6 +1866,14 @@ news_feed (
          "title" : "Champions Tour Under Way: Blockbuster With Predictable Scenario"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91023507.cms\" />The world's first fully in-person chess esports event, the Oslo Esports Cup, got under way on Friday with India's young gun R Praggnanandhaa dispatching his opponent, the Dutchman Jorden van Foreest, in only three games 2.5-0.5.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/oslo-esports-cup-pragg-starts-off-with-a-win/articleshow/91023507.cms",
+         "pubDate" : "Sat, 23 Apr 2022 06:17:55 +0000",
+         "title" : "Oslo Esports Cup: Pragg starts off with a win"
+      },
+      {
          "description" : "The European School Chess Championship 2022 kicked off yesterday in Rhodes, Greece. The event was opened shortly before the first round with speeches of the ECU President Mr. Zurab Azmaiparashvili the Vice Governor of South Aegean Sea Mr. Nikos Nikolis and ECU Secretary General Mr. Theodoros Tsorbatzoglou. The ECU president made the first ceremonial move to open the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2022-opens/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1874,6 +1954,14 @@ news_feed (
          "title" : "American Cup: Day 2 Recap"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91001581.cms\" />The All India Chess Federation (AICF) is going all out to make the 44th FIDE Chess Olympiad a success, including giving subsidies to the participating nations.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-subsidies-for-participating-nations-aicf-goes-all-out-to-make-it-huge/articleshow/91001581.cms",
+         "pubDate" : "Fri, 22 Apr 2022 09:58:33 +0000",
+         "title" : "Chess Olympiad: Subsidies for participating nations, AICF goes all out to make it huge"
+      },
+      {
          "description" : "This is just a friendly reminder that ECF will be charging game fee (&pound;18 adult, &pound;6 junior) to leagues and clubs who send in non-members'...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1904,6 +1992,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/mvl-i-struggled-to-make-ends-meet-at-2680-the-future-was-insecur/",
          "pubDate" : "Fri, 22 Apr 2022 05:27:58 +0000",
          "title" : "MVL: I Struggled to Make Ends Meet at 2680. The Future Was Insecure"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90995007.cms\" />World no. 1 Magnus Carlsen remains the undisputed king of chess. However, the 31-year-old, who won his fifth World title last year, may not defend the crown next year.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/not-sure-about-defending-world-title-magnus-carlsen/articleshow/90995007.cms",
+         "pubDate" : "Fri, 22 Apr 2022 05:15:39 +0000",
+         "title" : "Not sure about defending world title: Magnus Carlsen"
       },
       {
          "description" : "\"The chess world isn't a safe place for us,\" says popular chess streamer Tallulah Roberts, aka \"lularobs\", recounting an incident at the blitz tournament of the Reykjavik Open 2022. Jamaal S. Abdul-Alim, 2013 Chess Journalist of the Year, explains \"why chess tournaments can be hostile for women and girls\". | Photo: Reykjavik Open",
@@ -2050,6 +2146,14 @@ news_feed (
          "title" : "Magnus Carlsen Will Really, Really Give Up His Championship Title, Maybe"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90913994.cms\" />The 100-day countdown for the 44th Chess Olympiad, to be held here later this year, began on Monday with the legendary Viswanathan Anand terming the tournament a life-time opportunity for youngsters to catch a glimpse of their idols.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-lifetime-opportunity-for-youngsters-says-viswanathan-anand-as-100-day-countdown-for-chess-olympiad-begins/articleshow/90913994.cms",
+         "pubDate" : "Mon, 18 Apr 2022 11:59:51 +0000",
+         "title" : "A lifetime opportunity for youngsters, says Anand as 100-day countdown for Chess Olympiad begins"
+      },
+      {
          "description" : " GM Hrant Melkumyan (Armenia) is the winner of the 2022 O2C Doeberl Cup, scoring 7.5/8, after winning his last round game against IM Igor Bjelobrk. He was tied for 1st with GM Temur Kuybokarov going into the final rounds, but a draw between Kuybokarov, and GM Daniel Fernandez (ENG) saw Kuybokarov finish 2nd (on 7 points), and Fernandez tie for 3rd with IM Rishi Sardana. This was the 2nd win for Melkumyan, who had previously won in 2019, but the first as a local Canberran, having been resident here for the past 2 years. He becomes the 2nd local player to win the event, the first being Tony Weidenhofer in 1973. Melkumyan took home $5000 in prize money, with Kuybokarov picking up $3000 for 2nd.",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2074,6 +2178,14 @@ news_feed (
          "title" : "Pressure Mounts on FIDE President Not to Seek Re-election"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90909002.cms\" /> Young Indian Grandmaster D Gukesh emerged victorious in the 48th La Roda International Open Chess tournament here, scoring eight points from nine rounds.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-title-at-la-roda-international-tourney/articleshow/90909002.cms",
+         "pubDate" : "Mon, 18 Apr 2022 08:35:16 +0000",
+         "title" : "Indian GM Gukesh wins title at La Roda International tourney"
+      },
+      {
          "description" : " The 2020 O2C Doeberl Cup is set for an exciting finish, with the top 2 seeds GM Hrant Melkumyn and GM Temur Kuybokarov sharing the lead on 6.5/8. Recovering from a round 2 loss to FM Albert Winkelman, Kuybokarov has scored 5.5/6 to catch Melkumyan, who conceded draws to Kuybokarov, GM Daniel Fernandez, and GM Bobby Cheng. Half a point behind is Fernandez, while on 5.5 are Cheng, IM Rishi Sardana, FM Jack Puccini, IM Gary Lane, IM Igor Bjelobrk, and Fred Litchfield. Fernandez v Kuybokarov is the top board pairing with Bjelobrk playing Melkumyan on board 2. In the Major (Under 2000) Mars Qi leads with 6/6. However Fergus Chiverton could tie for first if he wins their top board clash in round ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2096,14 +2208,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-day-3.html",
          "pubDate" : "Sat, 16 Apr 2022 22:22:00 +0000",
          "title" : "2022 O2C Doeberl Cup - Day 3"
-      },
-      {
-         "description" : " The 2nd day of the 2022 O2C Doeberl Cup saw the start of the Major, Minor and Under 1200 events. Due to a few last minute withdrawals, visa problems, and travel issues, the tournament fell just short of last years record numbers, with around <s>225</s>325 players sitting down at the board. The Premier saw rounds 3 and 4 played, with GM Bobby Cheng holding the outright lead with 4/4. He was followed by GM's Daniel Fernandez and Hrant Melkumyan, with a large group of players on 3. There were a few upsets in this round, the most notable being a win for Harry Press over IM Junta Ikeda. The Major saw the first 2 rounds played, with a number of players on 2/2, including top seed Ryan Lane, and ov",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-day-2.html",
-         "pubDate" : "Sat, 16 Apr 2022 04:36:00 +0000",
-         "title" : "2022 O2C Doeberl Cup - Day 2"
       }
    ]
 }
