@@ -31,7 +31,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/yuri-averbakh-obituary",
          "pubDate" : "Sat, 07 May 2022 06:27:00 -0700",
-         "title" : "Yuri Averbakh 1922-2022"
+         "title" : "Yuri Averbakh, 1922-2022"
       },
       {
          "description" : "Yuri Averbakh, the world's oldest grandmaster, passed away today, May 7th, three months after celebrating his 100th birthday. Yuri, who was born in Kaluga, Russia on February 8th 1922, got to see the 2nd World Chess Champion Emanuel Lasker play as a child. In 1954 Yuri went on to win the formidable USSR Championship, and he also tied for first two years later. In later years he was a renowned chess arbiter, writer, presenter, journalist and historian, staying active until the very end.",
@@ -1026,7 +1026,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#x77;&#105;c&#x6b;&#104;a&#x6d;&#x40;&#98;t&#x69;&#110;t&#x65;&#x72;&#110;e&#x74;&#x2e;&#99;&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#x69;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#x40;&#x62;&#x74;&#105;&#110;&#116;&#101;&#114;&#110;&#101;&#116;&#46;&#99;&#111;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
