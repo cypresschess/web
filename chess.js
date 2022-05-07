@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Queens&#x2019; Online Chess Festival 2022, a series of continental women&#x2019;s online blitz tournaments, starts on&#xA0;June 05, 2022.LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;TePe Sigeman &#38; Co 2022&#xA0;/&#xA0;Mitropa Chess Cup 2022 The event organized by FIDE Commission for Women&#x2019;s Chess in cooperation with FIDE Events Commission, is supported by the Asian Chess Federation, the African Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/queens-online-chess-festival-2022/",
+         "pubDate" : "Sat, 07 May 2022 10:23:26 +0000",
+         "title" : "Queens' Online Chess Festival 2022"
+      },
+      {
+         "description" : "The Panamanian Men's and Women's Chess Championships 2022 took place from April 27 to May 5 in the Creole Chess Club, Panama. Both tournaments were 10-player round-robins with classical time control.&#xA0;LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;TePe Sigeman &#38; Co 2022&#xA0;/&#xA0;Mitropa Chess Cup 2022 Despite suffering an unexpected defeat at the hands of&#xA0;Andre Mendez&#xA0;in Round 4, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sanchez-alvarez-and-vasquez-jaen-are-2022-panama-national-champions/",
+         "pubDate" : "Sat, 07 May 2022 10:14:58 +0000",
+         "title" : "Sanchez Alvarez and Vasquez Jaen are 2022 Panama National Champions"
+      },
+      {
+         "description" : "Three months before the start of&#160;the 44th Chess Olympiad 2022, the compositions of Indian teams have been announced. Two teams in each Open and Women&#x2019;s section will represent India in Chennai from July 28 to August 10. Read more: India teams for Chess Olympiad 2022 announced The All India Chess Federation (AICF) assigned former world []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/indian-team-starts-preparations-for-44th-chess-olympiad-2022-tweetoftheday/",
+         "pubDate" : "Sat, 07 May 2022 09:53:34 +0000",
+         "title" : "Indian team starts preparations for 44th Chess Olympiad 2022 #TweetOftheDay"
+      },
+      {
+         "description" : "English grandmaster, chess writer and two-time British Chess Champion, Matthew Sadler, wrote an article for ChessMoves about maintaining your strength as an amateur player. LIVE now: Grand Chess Tour Romania 2022 / TePe Sigeman &#38; Co 2022 / Mitropa Chess Cup 2022 Herewith is enclosed the complete article by GM Matthew Sadler: Chatting with Mike []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/matthew-sadler-explains-how-to-maintain-your-chess-strength/",
+         "pubDate" : "Sat, 07 May 2022 09:24:27 +0000",
+         "title" : "Matthew Sadler explains How to Maintain Your Chess Strength"
+      },
+      {
          "description" : "In the diagram position, White found a stunning way to strengthen his attack decisively. Your call!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -202,14 +234,6 @@ news_feed (
          "title" : "Sharjah Chess Masters 2022"
       },
       {
-         "description" : "The 2022 Open and Women's Chess Championships of North Macedonia concluded yesterday in Skopje. The events simultaneously took place in Hotel Continental, being played from April 29 May 5. 59 players competed in the 9 round swiss system Open tournament, while 12 women played the 7 rounds swiss system Women's Championship. IM Filip Pancevski []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2022-open-and-womens-championships-of-north-macedonia-concluded-in-skopje/",
-         "pubDate" : "Fri, 06 May 2022 09:26:35 +0000",
-         "title" : "2022 Open and Women's Championships of North Macedonia concluded in Skopje"
-      },
-      {
          "description" : "Wesley So is the early leader of the Superbet Chess Classic after bamboozling Shakhriyar Mamedyarov at the end of a long game to grab the only win of Round 1. Elsewhere in Bucharest, Richard Rapport and Ian Nepomniachtchi were unable to build on what seemed promising positions, while Caruana-Firouzja was a tense battle between the world numbers 3 and 4 that ended in a draw by repetition when Fabiano had a pleasant position but little time on the clock.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -250,14 +274,6 @@ news_feed (
          "title" : "Wesley So Wins And Leads: 2022 Superbet Chess Classic Romania, Day 1"
       },
       {
-         "description" : "The Grand Chess Tour kicked off with its first event of the tour &#xA0; the 2022 Superbet Chess Classic a 10-player classical round-robin event taking place in Bucharest, Romania. While most fans and the commentators were keeping their eyes on the game between GM Caruana (World Number 4) GM Firouzja (World Number 3), []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-in-the-early-lead-of-grand-chess-tour-romania-2022/",
-         "pubDate" : "Thu, 05 May 2022 21:35:06 +0000",
-         "title" : "Wesley So in the early lead of Grand Chess Tour Romania 2022"
-      },
-      {
          "description" : "Since the start of the war in Ukraine, now more than two months ago, several Russian grandmasters have decided to leave their country or not return to it. Chess.com spoke to four well-known players about their views of the war and the personal cho...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -288,14 +304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1734",
          "pubDate" : "Thu, 05 May 2022 20:28:44 +0000",
          "title" : "Sanchez Alvarez and Vasquez Jaen win Panamanian championship"
-      },
-      {
-         "description" : "The Grand Chess Tour Romania 2022 commenced today in Bucharest, Hungary. Following last year&#x2019;s popular classical framework, the event gathers ten players competing in a&#160;classical round-robin struggle for the $350,000 in prize money.&#160;Replay the Round 1 games Fabiano Caruana, Richard Rapport and Leinier Dominguez Perez shared their opinion about the Romanian Parliament venue which hosts []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/caruana-rapport-and-dominguez-comment-on-the-grand-chess-tour-romania-playing-venue/",
-         "pubDate" : "Thu, 05 May 2022 20:05:58 +0000",
-         "title" : "Caruana, Rapport and Dominguez comment on the Grand Chess Tour Romania playing venue"
       },
       {
          "description" : "Chess.com and ChessKid are collaborating with GM Anna Muzychuk in order to support the people of Ukraine, who continue to suffer the effects of the Russian invasion of their country. On Tuesday, May 17 at 9 a.m. Pacific/12 p.m. Eastern/18:00 CET...",
@@ -416,14 +424,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/irina-bulmaga-havana-2022",
          "pubDate" : "Thu, 05 May 2022 14:40:00 +0100",
          "title" : "Unmasked emotions: a trip to Havana"
-      },
-      {
-         "description" : "The Latvian Chess Championship 2022 and Latvian Women's Chess Championship 2022 took place from April 27 May 4 in Riga. GM Ilmars Starostits convincingly won the men's championship scoring 8/9 points. Starostits became the Latvian Champion for the second time in his career, 20 years after his first National triumph in 2002. WGM Laura []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ilmars-starostits-and-laura-rogule-are-latvian-chess-champions/",
-         "pubDate" : "Thu, 05 May 2022 12:44:05 +0000",
-         "title" : "Ilmars Starostits and Laura Rogule are Latvian Chess Champions"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Jan Gustafsson</strong>, second of Magnus Carlsen and founder of <strong>chess24</strong>, is <a href=\"https://www.schachbund.de/team-news/schacholympiade-teamcaptain-gustafsson-nominiert-olympiakader.html\">returning as non-playing captain to the team</a> of the <strong>German Chess Federation</strong>, with which he became European Champion 2011 and for which he last played in 2012. </div> ",
@@ -962,7 +962,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#119;&#105;&#99;kh&#x61;&#x6d;&#x40;&#x62;&#x74;&#105;&#110;&#116;er&#x6e;&#x65;&#x74;&#x2e;&#x63;&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#x72;&#46;&#119;&#x69;&#x63;k&#104;&#x61;m&#64;&#x62;&#x74;i&#110;&#x74;e&#114;&#x6e;&#x65;t&#46;&#x63;&#x6f;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
