@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The legendary grandmaster Yuri Averbakh passed away in Moscow. Yuri Averbakh was the world's oldest living Grandmaster. In his prime, he was one of the strongest players in the USSR and the world, and in 1953 he took part in the legendary Candidates Tournament in Zurich. Our deepest sympathy goes out to Yuri Lvovich's family and loved ones. | Photo: Maria Emellianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/yuri-averbakh-passes-away-in-moscow",
+         "pubDate" : "Sun, 08 May 2022 00:25:00 +0100",
+         "title" : "Yuri Averbakh passes away in Moscow"
+      },
+      {
          "description" : "For a third day in a row, we got to see one of five games ending decisively at the Superbet Chess Classic in Bucharest. Bogdan-Daniel Deac, the clear underdog in the field, joined Wesley So and Ian Nepomniachtchi in the lead after making the most of Richard Rapport's one-move blunder. Meanwhile, Levon Aronian escaped against Alireza Firouzja, who could not convert his advantage in a double-edged endgame. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1050,7 +1058,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#119;&#105;&#99;kh&#x61;&#x6d;&#x40;&#x62;&#x74;&#105;&#110;&#116;er&#x6e;&#x65;&#x74;&#x2e;&#x63;&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#114;&#x2e;&#x77;&#105;&#99;&#x6b;&#x68;&#97;&#109;&#x40;&#x62;&#116;&#105;&#x6e;&#x74;&#101;&#114;&#x6e;&#x65;&#116;&#46;&#x63;&#x6f;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2090,14 +2098,6 @@ news_feed (
          "title" : "51st Mar del Plata Open: Andres Rodriguez clinches the title"
       },
       {
-         "description" : "This week Robert Ris analyses how the young Indian Gukesh used a relatively new concept in the Sicilian Richter-Rauzer to win a nice and crucial game at the La Roda Open. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-new-approach-for-white-in-the-richter-rauzer",
-         "pubDate" : "Thu, 21 Apr 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A new approach for White in the Richter-Rauzer"
-      },
-      {
          "description" : " During the ACT Junior Rapid Championships, I witnessed not one, but two R v B endings (no pawns mind you). As the players involved were relatively inexperienced, finding the correct defence proved elusive. It is a draw if the side with the Bishop can get their king into the corner of the opposite colour to the bishop, as stalemate tricks then save the day. In the first case the weaker side got their king caught in the middle of the back rank and lost the bishop to zugswang. In the second game, the defending side found a better strategy, putting the side with the rook into check, and then pointing out an illegal move when the rook was moved. After resetting the position I pointed out that to",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2256,14 +2256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1692",
          "pubDate" : "Sun, 17 Apr 2022 20:28:30 +0000",
          "title" : "Martin Haubro wins 2022 Danish Championship"
-      },
-      {
-         "description" : " Day 3 of the 2022 O2C Doeberl Cup saw plenty of action, with the Premier, Major and Minor in full swing. The Under 1200 Tournament finished it's two day run, while the Saturday evening Kinnford Consulting Blitz attracted a record 136 players. After 6 rounds of the Premier, 3 GM's share the lead on 5/6. GM Daniel Fernandez (ENG) beat GM Bobby Cheng (AUS) in Round 5, before drawing with FM Chris Wallis in Round 6. Cheng bounced back from his round 5 loss, beating FM Dusan Stojic in the next round to also move to 5. GM Hrant Melkumyan was the third player to finish the day tied for first, drawing with GM Temur Kuybokarov and then beating IM Gary Lane. In the Major, there are 4 players tied for",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-day-3.html",
-         "pubDate" : "Sat, 16 Apr 2022 22:22:00 +0000",
-         "title" : "2022 O2C Doeberl Cup - Day 3"
       }
    ]
 }
