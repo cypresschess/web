@@ -2,7 +2,87 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Queens&#x2019; Online Chess Festival 2022, a series of continental women&#x2019;s online blitz tournaments, starts on&#xA0;June 05, 2022.LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;TePe Sigeman &#38; Co 2022&#xA0;/&#xA0;Mitropa Chess Cup 2022 The event organized by FIDE Commission for Women&#x2019;s Chess in cooperation with FIDE Events Commission, is supported by the Asian Chess Federation, the African Chess []",
+         "description" : "The Kenya Olympic Chess Team has been chosen for the upcoming 44th Chess Olympiad 2022, which will take place in Chennai, India, from 28th July to 10th August 2022. LIVE now:&#160;Grand Chess Tour Romania 2022&#160;/&#160;TePe Sigeman &#38; Co 2022&#160;/&#160;Mitropa Chess Cup 2022 The grueling selection process contained three phases and culminated in the final 3rd []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kenya-announces-teams-for-44th-chess-olympiad-2022/",
+         "pubDate" : "Sat, 07 May 2022 15:24:02 +0000",
+         "title" : "Kenya announces Teams for 44th Chess Olympiad 2022"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team pays tribute to Yuri Averbakh, the great endgame specialist who died today. The centenarian Averbakh was a household name in Russian chess. 2022.05.07<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yuri-averbakh-1922-2022-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qvBQPb6hMz0.jpg?itok=51U3ofpG\" alt=\"\" /></a><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/yuri-averbakh-1922-2022-round-3",
+         "pubDate" : "Sat, 07 May 2022 13:46:10 +0000",
+         "title" : "Yuri Averbakh: 1922-2022 | Round 3"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1738",
+         "pubDate" : "Sat, 07 May 2022 13:33:37 +0000",
+         "title" : "Yuri Averbakh (1922-2022)"
+      },
+      {
+         "description" : "GM Yuri Averbakh, the world&#38;rsquo;s oldest grandmaster, a trainer, international arbiter, chess composer, endgame theoretician, writer, historian, honorary member of FIDE, and the last living participant of the famous Zurich 1953 Candidates Tourna...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yuri-averbakh-obituary",
+         "pubDate" : "Sat, 07 May 2022 06:27:00 -0700",
+         "title" : "Yuri Averbakh 1922-2022"
+      },
+      {
+         "description" : "Yuri Averbakh, the world's oldest grandmaster, passed away today, May 7th, three months after celebrating his 100th birthday. Yuri, who was born in Kaluga, Russia on February 8th 1922, got to see the 2nd World Chess Champion Emanuel Lasker play as a child. In 1954 Yuri went on to win the formidable USSR Championship, and he also tied for first two years later. In later years he was a renowned chess arbiter, writer, presenter, journalist and historian, staying active until the very end.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/yuri-averbakh-passes-away-at-age-100",
+         "pubDate" : "Sat, 07 May 2022 13:10:43 +0000",
+         "title" : "Yuri Averbakh passes away at age 100"
+      },
+      {
+         "description" : "Bent Larsen is the \"hero\" of the new issue of ChessBase Magazine. In CBM #207 our authors - among others Emanuel Berg, Jan Markos and Yannick Pelletier - comment on their favourite game of the great Dane. CBM readers can expect a collection of 19 special encounters from the period 1956 to 1998. In addition, Mihail Marin presents Larsen as a \"universal player\" in his strategy column and Karsten Mueller analyses a selection of Larsen's best endgames. You can watch the Larsen-Andersson game (1982) with Jan Markos' analysis here. Enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/my-favourite-game-by-bent-larsen",
+         "pubDate" : "Sat, 07 May 2022 14:00:00 +0100",
+         "title" : "\"My favourite game by Bent Larsen\""
+      },
+      {
+         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 3 kicks off Saturday at 14.00 CEST. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
+         "pubDate" : "Sat, 07 May 2022 13:55:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : " The early underpromotion to a knight is a well known trap in the Budapest Gambit, but it can be even more devastating in other circumstances. The following game may well be the quickest underpromotion checkmate there is, unless someone has constructed a shorter game. <br /> <b>Amateur - Goetz</b><br />Strassburg, 1880 <script>new PgnViewer( { boardName: \"game1325\", movesFormat: \"default\", pgnString:'1.e4 e5 2.f4 exf4 3.b3 Qh4+ 4.g3 fxg3 5.h3 g2+ 6.Ke2 Qxe4+ 7.Kf2 gxh1=N#', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1325-container\"></div><div id=\"game1325-moves\"></div><br />",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/a-triple-knightmare.html",
+         "pubDate" : "Sat, 07 May 2022 12:52:00 +0000",
+         "title" : "A triple knightmare"
+      },
+      {
+         "description" : "The traditional TePe Sigeman & Co tournament is taking place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars is likely to make for an enjoyable tournament, as defending champion Jorden van Foreest will be joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. Round 4 starts Saturday at 14.00 CEST. | Photo: Lars OA Hedlund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-live",
+         "pubDate" : "Sat, 07 May 2022 13:45:00 +0100",
+         "title" : "TePe Sigeman & Co - Live!"
+      },
+      {
+         "description" : "\"Fields of Force\" was the title of an article written by the polymath and chess-lover George Steiner for the New Yorker in 1972, giving his slant on the celebrated Fischer v Spassky world championship in Reykjavik. I have borrowed the phrase to revert once again to the life and works of that master of chess []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/fields-of-force-marcel-duchamp-and-chess/",
+         "pubDate" : "Sat, 07 May 2022 12:31:36 +0000",
+         "title" : "Fields of force: Marcel Duchamp and chess"
+      },
+      {
+         "description" : "The Queens&#x2019; Online Chess Festival 2022, a series of continental women&#x2019;s online blitz tournaments, starts on&#xA0;June 05, 2022.LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;TePe Sigeman &#38; Co 2022&#xA0;/&#xA0;Mitropa Chess Cup 2022 The event is organized by FIDE Commission for Women&#x2019;s Chess in cooperation with FIDE Events Commission, and it is supported by the Asian Chess Federation, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/queens-online-chess-festival-2022/",
@@ -48,6 +128,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/superbet-chess-classic-2-nepo-knocks-firouzja-out-of-2800-club",
          "pubDate" : "Sat, 07 May 2022 07:37:30 +0000",
          "title" : "Superbet Classic 2: Nepo knocks Firouzja out of 2800 club"
+      },
+      {
+         "description" : " Share!The chess community on the African continent is buzzing at the news of Enyonam Sewa Noël Fumey announcing his candidacy for FIDE President. According to the FIDE press release, Fumey notified current FIDE President Arkady Dvorkovich of his intentions. There was also this plea of inclusivity: \"FIDE machine is working effectively, but with my team, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/06/enynonam-fumey-fide/\">Togo's Fumey will stand for FIDE President</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/05/06/enynonam-fumey-fide/",
+         "pubDate" : "Sat, 07 May 2022 00:53:08 +0000",
+         "title" : "Togo's Fumey will stand for FIDE President"
       },
       {
          "description" : "",
@@ -154,6 +242,14 @@ news_feed (
          "title" : "Karjakin Appeal Dismissed: Door Open For Ding To Enter Candidates"
       },
       {
+         "description" : "After lots of tension and complicated battles, just one game ended decisively when GM Ian Nepomniachtchi beat GM Alireza Firouzja. That the remaining games would all end in draws was far from obvious during the round. Round three will begin on S...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-2nepomniachtchi-firouzja",
+         "pubDate" : "Fri, 06 May 2022 07:34:00 -0700",
+         "title" : "Nepomniachtchi Beats Firouzja: 2022 Superbet Chess Classic Romania, Day 2"
+      },
+      {
          "description" : "Sergey Karjakin, the controversial former world chess title challenger, looks set to miss the Candidates Tournament after the World Chess Federation FIDE dismissed his appeal against a 6-month ban from chess. Pending a new appeal to the Court of Arbitration of Sport, the ruling leaves the way open for China's No.1 Ding Liren who, as the highest-rated player in the FIDE rankings list not yet to have qualified, stands in line to take the Russian's place.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -170,14 +266,6 @@ news_feed (
          "title" : "The Jobava London: theory marches on"
       },
       {
-         "description" : "The traditional TePe Sigeman & Co tournament is taking place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars is likely to make for an enjoyable tournament, as defending champion Jorden van Foreest will be joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. Round 4 starts Friday at 15.00 CEST. | Photo: Lars OA Hedlund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-live",
-         "pubDate" : "Fri, 06 May 2022 14:45:00 +0100",
-         "title" : "TePe Sigeman & Co - Live!"
-      },
-      {
          "description" : "Following detailed discussions with all parties concerned regarding the new wave of Covid19 appearing in China, the Olympic Council of Asia (OCA) Executive Board decided to postpone the 19th Asian Games, which were scheduled to be held in Hangzhou from 10 to 25 September 2022. The name and the emblem of the Games will remain []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -192,14 +280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1736",
          "pubDate" : "Fri, 06 May 2022 13:03:00 +0000",
          "title" : "Sergey Karjakin's appeal dismissed"
-      },
-      {
-         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 2 kicks off Friday at 14.00 CEST. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
-         "pubDate" : "Fri, 06 May 2022 13:55:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : " I was going to play out our long running endgame from the last few months this week. However, I decided to discuss some additional middle-game principles instead. The reason for this is because you should have enough information at hand to play last week's position out yourself. At some point, I will play through the <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty/\">A Foundation for Beginners Sixty</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.c",
@@ -224,14 +304,6 @@ news_feed (
          "link" : "https://www.europechess.org/queens-online-chess-festival-2022/",
          "pubDate" : "Fri, 06 May 2022 10:53:38 +0000",
          "title" : "Queens' Online Chess Festival 2022"
-      },
-      {
-         "description" : "The 5th edition of the Sharjah Chess Masters international tournament will be held from 20th-30th May in Sharjah Cultural &#38; Chess Club. The event will be held as an Invitational Tournament, with (maximum) 80 players of FIDE standard rating of 2300 and above, as of May 2022 FIDE rating list. &#160;Out of these 80 players, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sharjah-chess-masters-2022/",
-         "pubDate" : "Fri, 06 May 2022 10:04:00 +0000",
-         "title" : "Sharjah Chess Masters 2022"
       },
       {
          "description" : "Wesley So is the early leader of the Superbet Chess Classic after bamboozling Shakhriyar Mamedyarov at the end of a long game to grab the only win of Round 1. Elsewhere in Bucharest, Richard Rapport and Ian Nepomniachtchi were unable to build on what seemed promising positions, while Caruana-Firouzja was a tense battle between the world numbers 3 and 4 that ended in a draw by repetition when Fabiano had a pleasant position but little time on the clock.",
@@ -408,14 +480,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tykhon-cherniaev-endgame-magic-show",
          "pubDate" : "Thu, 05 May 2022 14:50:00 +0100",
          "title" : "Tykhon's endgame magic!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Sheraton Bucharest Hotel, the Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players (Caruana, Aronian, Firouzja, So, Mamedyarov, Nepomniachtchi, Rapport, Dominguez, and MVL) are joined by a wildcard (Deac) for a classical round robin. Join GMs Peter Svidler, Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovich for the move-by-move. 2022.05.05<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-round-1-lichessorg",
-         "pubDate" : "Thu, 05 May 2022 13:44:18 +0000",
-         "title" : "2022 Superbet Chess Classic: Round 1 | lichess.org"
       },
       {
          "description" : "\"It is early night in Havana. A red retro Chevrolet convertible is taking us back to the iconic Hotel Nacional. The ocean is on our right, the lively streets of the old town on the left, and I can't help thinking that it's a dream I will soon wake up from\", writes Irina Bulmaga about her successful trip to Havana, where she got a remarkable victory in the Premier group of the Capablanca Memorial. | Pictured: A photo from the Morro Castle, a fortress guarding the entrance to the Havana harbour",
@@ -962,7 +1026,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#x72;&#46;&#119;&#x69;&#x63;k&#104;&#x61;m&#64;&#x62;&#x74;i&#110;&#x74;e&#114;&#x6e;&#x65;t&#46;&#x63;&#x6f;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#x77;&#105;c&#x6b;&#104;a&#x6d;&#x40;&#98;t&#x69;&#110;t&#x65;&#x72;&#110;e&#x74;&#x2e;&#99;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1514,14 +1578,6 @@ news_feed (
          "title" : "Live Games Link for MPL National Rapid Chess Championship 2022"
       },
       {
-         "description" : "GM Rameshbabu Praggnanandhaa is again the sole leader of the event after day five. After him comes GM Magnus Carlsen with nine points, closely followed by GMs Jan-Krzysztof Duda, Le Quang Liem and Jorden van Foreest with eight points. Both GMs A...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/olso-esports-cup-day-5",
-         "pubDate" : "Tue, 26 Apr 2022 16:29:00 -0700",
-         "title" : "Praggnanandhaa Continues To Lead: Oslo Esports Cup Day 5"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1544,14 +1600,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1711",
          "pubDate" : "Tue, 26 Apr 2022 18:35:31 +0000",
          "title" : "Invitation: 44th Chess Olympiad & FIDE Congress 2022"
-      },
-      {
-         "description" : "After each having won their first game in the Winners&#39; Brackets, GMs Fabiano Caruana and Irina Krush secured the victories in their matches respectively against GM Lenier Dominguez and FM Alice Lee. Meanwhile, in the Elimination Brackets, GM Lev...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-american-cup-day-6",
-         "pubDate" : "Tue, 26 Apr 2022 08:12:50 -0700",
-         "title" : "Caruana & Krush Win Championship Brackets: The American Cup Day 6"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9ba9de00-f7e3-4947-88c0-927bc7cfb7c5/Mcikey3.jpg\" data-image-dimensions=\"397x248\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6267f3ca8834cb2725637a7e\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9ba9de00-f7e3-4947-88c0-927bc7cfb7c5/Mcikey3.jpg?format=1000w\" /> </figure> <p class=\"\">GM Michael \"Mickey\" Adams is a legend of British chess who has been an elite chess player for the last 30 years. He is a former World Champion finalist, the 7 time champion of ",
@@ -1722,14 +1770,6 @@ news_feed (
          "title" : "David Anderton RIP (updated 25/4/22)"
       },
       {
-         "description" : "Magnus Carlsen said he couldn't calculate and was just playing on intuition, but his play looked inspired as he defeated Anish Giri with a game to spare to move into 2nd place in the Oslo Esports Cup. Next up for Magnus is 16-year-old Praggnanandhaa, who leads by 3 points after reaching a perfect 9/9 by winning a rollercoaster final game against Liem Le. Jan-Krzysztof Duda beat Jorden van Foreest with a game to spare, while Mamedyarov-Hansen saw Eric hold on to win the fourth game and get off the mark after the players had previously traded blows.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/oslo-esports-cup-3-carlsen-beats-giri-before-pragg-showdown",
-         "pubDate" : "Sun, 24 Apr 2022 21:54:00 +0000",
-         "title" : "Oslo Esports Cup 3: Carlsen beats Giri before Pragg showdown"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91056485.cms\" /> Teenaged Indian Grandmaster D Gukesh on Sunday won the Menorca Open chess tournament, his second title win in as many weeks. Indian players dominated, taking seven spots in the top 10 with Aryan Chopra finishing runner-up. The 15-year old GM scored six points from seven rounds to clinch first place and earned 1,600 Euros as prize money.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1746,7 +1786,7 @@ news_feed (
          "title" : "Understanding before Moving 76: Hanging pawns under pressure"
       },
       {
-         "description" : " Share!154FIDE Master Tani Adewumi is growing up right before our eyes. He recently notched the first of three required &#8220;norms&#8221; for the title of International Master. It was only three years ago that the story broke of an 8-year-old winning the New York Scholastic State Title. A New York Times story broke about his Nigerian The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/24/first-im-norm-for-tani-adewumi/\">First IM norm for Tani Adewumi!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " FIDE Master Tani Adewumi is growing up right before our eyes. He recently notched the first of three required &#8220;norms&#8221; for the title of International Master. It was only three years ago that the story broke of an 8-year-old winning the New York Scholastic State Title. A New York Times story broke about his Nigerian The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/24/first-im-norm-for-tani-adewumi/\">First IM norm for Tani Adewumi!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/04/24/first-im-norm-for-tani-adewumi/",
@@ -2032,14 +2072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-new-approach-for-white-in-the-richter-rauzer",
          "pubDate" : "Thu, 21 Apr 2022 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: A new approach for White in the Richter-Rauzer"
-      },
-      {
-         "description" : "It was a nobrainer decision for the young guy who started writing ChessBase 37 years ago: Hit arrow-right to execute a move. The number of people replaying games in some kind of chess software can be assumed to be in the millions. So the number of cursor-right chess keystrokes in nearly 40 years is probably a couple of hundred billions (US). Maybe even a trillion (10^12). Not clear whether this is a life time software achievement to be proud of. But its time to grant the poor arrow keys a bit of rest with some cool new replaying functionality.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arrow-right-less-chess",
-         "pubDate" : "Thu, 21 Apr 2022 17:54:45 +0100",
-         "title" : "Arrow-right-less Chess"
       },
       {
          "description" : " During the ACT Junior Rapid Championships, I witnessed not one, but two R v B endings (no pawns mind you). As the players involved were relatively inexperienced, finding the correct defence proved elusive. It is a draw if the side with the Bishop can get their king into the corner of the opposite colour to the bishop, as stalemate tricks then save the day. In the first case the weaker side got their king caught in the middle of the back rank and lost the bishop to zugswang. In the second game, the defending side found a better strategy, putting the side with the rook into check, and then pointing out an illegal move when the rook was moved. After resetting the position I pointed out that to",
