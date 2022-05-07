@@ -10,6 +10,14 @@ news_feed (
          "title" : "Checkmate sculptor"
       },
       {
+         "description" : "Ian Nepomniachtchi beat Alireza FIrouzja with the black pieces in Round 2 of the Superbet Chess Classic after an enthralling battle that could have gone either way. That knocked Alireza out of the 2800 club, while Ian both moved up to world no. 5 and joined Wesley So in the lead in Bucharest. The remaining games were drawn, but not without some sharp battles, most notably Mamedyarov-Rapport ,where Shakhriyar struggled to believe he wasn't winning.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-2-nepo-knocks-firouzja-out-of-2800-club",
+         "pubDate" : "Sat, 07 May 2022 07:37:30 +0000",
+         "title" : "Superbet Classic 2: Nepo knocks Firouzja out of 2800 club"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -954,7 +962,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#114;&#x2e;&#119;&#x69;&#99;&#x6b;&#104;&#x61;&#109;&#x40;b&#x74;i&#x6e;t&#x65;r&#x6e;e&#x74;&#46;&#99;&#x6f;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#119;&#105;&#99;kh&#x61;&#x6d;&#x40;&#x62;&#x74;&#105;&#110;&#116;er&#x6e;&#x65;&#x74;&#x2e;&#x63;&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1808,14 +1816,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/04/23/jerald-times-embroiled-in-legal-chess-battle/",
          "pubDate" : "Sat, 23 Apr 2022 22:54:49 +0000",
          "title" : "Jerald Times scores victory in legal chess battle"
-      },
-      {
-         "description" : "16-year-old Praggnanandhaa is the sole leader of the Oslo Esports Cup after winning with a game to spare for a second day in a row, this time against Shakhriyar Mamedyarov. Magnus Carlsen mouse-slipped away his queen in the first game against Liem Le, and though he bounced back in style in Game 3 his pushing for a win with Black in Game 4 backfired. There were first wins for Jorden van Foreest, who beat Eric Hansen with \"the novelty of the year\", and Jan-Krzysztof Duda, who powered to a 2:0 victory in blitz after drawing all four rapid games against Anish Giri.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/oslo-esports-cup-2-pragg-leads-as-le-beats-carlsen",
-         "pubDate" : "Sat, 23 Apr 2022 22:02:47 +0000",
-         "title" : "Oslo Esports Cup 2: Pragg leads as Le beats Carlsen"
       },
       {
          "description" : "",
