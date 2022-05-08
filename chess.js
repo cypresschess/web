@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the third round in a row, the players delivered one win and four draws. This round saw the hometown hero, GM Bogdan-Daniel Deac, win against GM Richard Rapport after the latter first let go of a decisive advantage and then a perpetual check. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-3",
+         "pubDate" : "Sat, 07 May 2022 17:10:25 -0700",
+         "title" : "Deac Beats Rapport, Joins Lead: 2022 Superbet Chess Classic Romania, Day 3"
+      },
+      {
          "description" : "The legendary grandmaster Yuri Averbakh passed away in Moscow. Yuri Averbakh was the world's oldest living Grandmaster. In his prime, he was one of the strongest players in the USSR and the world, and in 1953 he took part in the legendary Candidates Tournament in Zurich. Our deepest sympathy goes out to Yuri Lvovich's family and loved ones. | Photo: Maria Emellianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -15,7 +23,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r3",
          "pubDate" : "Sat, 07 May 2022 23:45:00 +0100",
-         "title" : "Deac joins the lead as Rapport blunders"
+         "title" : "Superbet: Deac joins the lead as Rapport blunders"
       },
       {
          "description" : " <p class=\"lead\">10 elite Grandmasters face each other in the classic round-robin tournament that takes place in Bucharest, Romania. It is staged by and is part of the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">Grand Chess Tour</a>, a circuit of chess events organized by former world champion Garry Kasparov. Here is Round 3 of the event in photos. All photos by <a href=\"https://www.flickr.com/photos/grandchesstour/albums/72177720298714286/with/52055806952/\">Lennart Ootes</a>, Grand Chess Tour official photographer. Fabiano Caruana, World's number 3 at the moment, has 1.5 points after 3 draws. <div class=\"e2-text-picture\"> <img src=\"https://worldche",
@@ -1058,7 +1066,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#114;&#x2e;&#x77;&#105;&#99;&#x6b;&#x68;&#97;&#109;&#x40;&#x62;&#116;&#105;&#x6e;&#x74;&#101;&#114;&#x6e;&#x65;&#116;&#46;&#x63;&#x6f;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#x72;&#46;&#119;&#x69;c&#107;&#x68;a&#109;&#x40;b&#116;&#x69;&#x6e;&#116;&#x65;&#x72;n&#101;&#x74;&#46;&#99;&#x6f;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1536,14 +1544,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/the-american-cup-day-7",
          "pubDate" : "Wed, 27 Apr 2022 11:50:00 -0700",
          "title" : "Aronian, Lee Win In Elimination Brackets: The American Cup Day 7"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won a Titled Tuesday event for the third straight week on April 26 and was joined in the day&#39;s winners&#39; circle by GM Baadur Jobava after the late tournament. For the second time in three weeks, no one played quite consistently e...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-jobava-win-titled-tuesday-april-26-2022",
-         "pubDate" : "Wed, 27 Apr 2022 09:23:47 -0700",
-         "title" : "Nakamura Wins Titled Tuesday For Third Straight Week, Jobava Victorious In Late"
       },
       {
          "description" : " Broadcasting tournament games used to rely on having your own dedicated website. These days chess platforms have realised that such broadcasts can help bring users in, and have started offering it as a free service. Chess24 were probably the pioneers here, but other platforms are catching up. Both chess.com and lichess contacted me to stream the O2C Doeberl Cup this year, while 'Follow chess' normally carries it as well. If you are an organiser looking to use these services, each platform normally has instructions to follow (eg <a href=\"https://www.chess.com/article/view/how-to-broadcast-your-games-on-chesscom\">https://www.chess.com/article/view/how-to-broadcast-your-games-on-chesscom</a> f",
