@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So is the sole leader of the Superbet Chess Classic in Bucharest after Ian Nepomniachtchi finally cracked under the pressure of being a pawn down for most of their Round 4 game. Levon Aronian also converted an extra pawn, against Leinier Dominguez, while Maxime Vachier-Lagrave refuted Fabiano Caruana's exchange sacrifice to grab the 3rd win of the day. There were eventful draws in Firouzja-Rapport and Mamedyarov-Deac.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-classic-4-so-leads-as-mvl-aronian-also-strike",
+         "pubDate" : "Sun, 08 May 2022 21:49:24 +0000",
+         "title" : "Superbet Classic 4: So leads as MVL & Aronian also strike"
+      },
+      {
+         "description" : "Day 4 of the Superbet Chess Classic Romania was projected to be another eventful day and it did not fail to disappoint. With three decisive games, and quickly approaching the halfway point of the tournament we can only expect to see more thrilling games in future rounds. After an exciting game to take down one []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/decisive-results-in-the-majority-grand-chess-tour-romania-2022-r4-recap/",
+         "pubDate" : "Sun, 08 May 2022 20:14:15 +0000",
+         "title" : "Decisive results in the majority; Grand Chess Tour Romania 2022 - R4 recap"
+      },
+      {
          "description" : "The 21st edition of the IPCA World Individual Chess Championship 2022 kicks off tomorrow in Ashdod, Israel. The championship will be held in Hotel &#x201C;Leonardo&#x201D; from&#xA0;8-17 May.LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;TePe Sigeman &#38; Co 2022&#xA0; The physically disabled chess players &#x2013; men, women and juniors (2002 year of birth and younger) will compete in []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -344,14 +360,6 @@ news_feed (
          "link" : "https://www.chessdom.com/queens-online-chess-festival-2022/",
          "pubDate" : "Sat, 07 May 2022 10:23:26 +0000",
          "title" : "Queens' Online Chess Festival 2022"
-      },
-      {
-         "description" : "The Panamanian Men's and Women's Chess Championships 2022 took place from April 27 to May 5 in the Creole Chess Club, Panama. Both tournaments were 10-player round-robins with classical time control.&#xA0;LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;TePe Sigeman &#38; Co 2022&#xA0;/&#xA0;Mitropa Chess Cup 2022 Despite suffering an unexpected defeat at the hands of&#xA0;Andre Mendez&#xA0;in Round 4, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sanchez-alvarez-and-vasquez-jaen-are-2022-panama-national-champions/",
-         "pubDate" : "Sat, 07 May 2022 10:14:58 +0000",
-         "title" : "Sanchez Alvarez and Vasquez Jaen are 2022 Panama National Champions"
       },
       {
          "description" : "In the diagram position, White found a stunning way to strengthen his attack decisively. Your call!",
@@ -1026,7 +1034,7 @@ news_feed (
          "title" : "Susan Namangale: \"I want to be a part of the change\""
       },
       {
-         "description" : "Mother&#39;s Day is right around the corner, and it&#39;s time to start celebrating and showing appreciation to that special someone who gave you life. Three new mom bots are waiting on our Play Computer page to spend some quality time with you and play c...",
+         "description" : "Mother&#39;s Day is today in many parts of the world, and it&#39;s time to start celebrating and showing appreciation to that special someone who gave you life. Three new mom bots are waiting on our Play Computer page to spend some quality time with you a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/play-chess-against-mothers-day-bots",
@@ -1194,7 +1202,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#x2e;&#x77;&#x69;c&#107;&#104;&#x61;&#x6d;&#x40;bt&#105;&#x6e;&#x74;&#x65;rn&#101;&#116;&#x2e;&#x63;&#x6f;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;r&#46;&#x77;i&#x63;&#x6b;&#104;&#x61;m&#64;&#x62;t&#105;&#x6e;&#116;&#x65;r&#110;&#x65;t&#46;&#x63;&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1680,14 +1688,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/oslo-esports-cup-praggnanandhaa-regains-lead-after-blunder-by-carlsen",
          "pubDate" : "Wed, 27 Apr 2022 13:55:36 +0100",
          "title" : "Oslo Esports Cup: Praggnanandhaa regains lead after blunder by Carlsen"
-      },
-      {
-         "description" : "\"I generally know how the pieces move, but with some notable exceptions!\" said Magnus Carlsen after a rook blunder saw him lose to Jorden van Foreest in Round 5 of the Oslo Esports Cup. That allowed 16-year-old Praggnanandhaa to take a 3-point lead with just two rounds to go after defeating Eric Hansen with a game to spare. The other matches were rollercoaster rides that were decided in blitz, with Shakhriyar Mamedyarov beating Giri while Liem Le apologised for ruining Jan-Krzysztof Duda's 24th birthday!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/oslo-esports-cup-5-pragg-leads-again-as-carlsen-crashes",
-         "pubDate" : "Wed, 27 Apr 2022 11:44:08 +0000",
-         "title" : "Oslo Esports Cup 5: Pragg leads again as Carlsen crashes"
       },
       {
          "description" : "After defeating GM Leinier Dominguez in a dramatic playoff, GM Levon Aronian (pictured) qualified for the finals of the 2022 American Cup, where he will face GM Fabiano Caruana for the 1st place prize of $50,000. In the women's field, FM Alice Lee earned herself a rematch in the $25,000 final against GM Irina Krush, after winning an incredibly close match against WGM Tatev Abrahamyan that went all the way to Armageddon. | Photo: Saint Louis Chess Club / Bryan Adams",
@@ -2288,22 +2288,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-title-at-la-roda-international-tourney/articleshow/90909002.cms",
          "pubDate" : "Mon, 18 Apr 2022 08:35:16 +0000",
          "title" : "Indian GM Gukesh wins title at La Roda International tourney"
-      },
-      {
-         "description" : " The 2020 O2C Doeberl Cup is set for an exciting finish, with the top 2 seeds GM Hrant Melkumyn and GM Temur Kuybokarov sharing the lead on 6.5/8. Recovering from a round 2 loss to FM Albert Winkelman, Kuybokarov has scored 5.5/6 to catch Melkumyan, who conceded draws to Kuybokarov, GM Daniel Fernandez, and GM Bobby Cheng. Half a point behind is Fernandez, while on 5.5 are Cheng, IM Rishi Sardana, FM Jack Puccini, IM Gary Lane, IM Igor Bjelobrk, and Fred Litchfield. Fernandez v Kuybokarov is the top board pairing with Bjelobrk playing Melkumyan on board 2. In the Major (Under 2000) Mars Qi leads with 6/6. However Fergus Chiverton could tie for first if he wins their top board clash in round ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-day-4.html",
-         "pubDate" : "Sun, 17 Apr 2022 22:28:00 +0000",
-         "title" : "2022 O2C Doeberl Cup - Day 4"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1692",
-         "pubDate" : "Sun, 17 Apr 2022 20:28:30 +0000",
-         "title" : "Martin Haubro wins 2022 Danish Championship"
       }
    ]
 }
