@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Carloz Alcaraz is currently making headlines for his fantastic performance in the Mutua Madrid 2022. He will play today the final of the tournament against Alexander Zverev at 18:30 CET, an event that will have glued to the screens every tennis fan. Alcaraz qualified for the final defeating Djokovic in a thriller match 6-7(5), 7-5, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tennis-star-carlos-alcaraz-is-using-chess-to-up-his-game-tweetoftheday/",
+         "pubDate" : "Sun, 08 May 2022 11:22:07 +0000",
+         "title" : "Tennis star Carlos Alcaraz is using chess to up his game #TweetOftheDay"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91418291.cms\" />Grandmaster D Gukesh is on a roll. The 15-year-old won the 1st Chessable Sunway Formentera Open in Spain on Sunday. It was a hat-trick of titles for Gukesh as he had earlier won in La Roda tournament and followed it by pocketing the Menorca Open.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-d-gukesh-cherishes-sunway-formentera-open-win/articleshow/91418291.cms",
+         "pubDate" : "Sun, 08 May 2022 11:18:58 +0000",
+         "title" : "Grandmaster D Gukesh cherishes Sunway Formentera Open win"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91417382.cms\" />Indian Grandmaster D Gukesh on Sunday emerged champion in the 1st Chessable Sunway Formentera Open 2022 chess tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-sunway-formentera-open-chess-tourney/articleshow/91417382.cms",
+         "pubDate" : "Sun, 08 May 2022 10:28:47 +0000",
+         "title" : "Indian GM Gukesh wins Sunway Formentera Open chess tourney"
+      },
+      {
+         "description" : "Levon Aronian blundered a pawn in the opening and spent more than one hour on a single move against Alireza Firouzja, but in the end he pulled off a great escape on a day when four games once again ended drawn in Bucharest. The one win was a wild game in which both Richard Rapport and Bogdan-Daniel Deac had impressed before Richard blundered on move 40 and there was no road back.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-classic-3-aronian-s-great-escape-deac-beats-rapport",
+         "pubDate" : "Sun, 08 May 2022 09:56:25 +0000",
+         "title" : "Superbet Classic 3: Aronian's great escape, Deac beats Rapport"
+      },
+      {
+         "description" : "Only Grandmaster, who reached 100 years passed away in Moscow. When I was twelve &#160;I was lucky to buy one of the best endgame books! It was Yuri Averbakh three volumes endgame manual. I studied every position from the books! It was his main endgame evergreen work. I could never imagine in that moment ., that after 10&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/100-years-old-legendary-grandmaster-yuri-averbakh-passed-away/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/100-years-old-legendary-grandmaster-yuri-averbakh-passed-away/",
+         "pubDate" : "Sun, 08 May 2022 08:01:03 +0000",
+         "title" : "100 years old Legendary Grandmaster Yuri Averbakh passed away"
+      },
+      {
          "description" : "Some of the most regrettable chess stories are those of great players leaving the game at the peak of their powers. First, there was Paul Morphy, then, more than a century later, Robert Fischer. Very few probably know or remember that shortly after Morphy left, another brilliant player took his talents elsewhere. He was not of Morphy's stature, certainly, but all the same, it was a pity that the world saw no more of his chess. That man was Ignatz von Kolisch.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-3",
-         "pubDate" : "Sat, 07 May 2022 17:10:25 -0700",
+         "pubDate" : "Sat, 07 May 2022 17:10:00 -0700",
          "title" : "Deac Beats Rapport, Joins Lead: 2022 Superbet Chess Classic Romania, Day 3"
       },
       {
@@ -248,14 +288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-trent-s-tactics-21",
          "pubDate" : "Fri, 06 May 2022 21:00:00 +0100",
          "title" : "Trent's Tactics - The one and only: Bobby Fischer"
-      },
-      {
-         "description" : "The European Youth Chess Championship 2022 will take place from 5th November (arrival day) &#x2013; 15th November (departure day) in Antalya, Turkey. The event will be played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately, in 9 rounds, swiss system, with time control of 90 minutes for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-2022/",
-         "pubDate" : "Fri, 06 May 2022 19:40:01 +0000",
-         "title" : "European Youth Chess Championship 2022"
       },
       {
          "description" : "NM Griffin McConnell earned the national master title on March 19, 2022, at the age of 17, after undergoing four brain surgeries. Despite having seizures since childhood and undergoing several operations&#38;mdash;after various medications failed to h...",
@@ -1082,7 +1114,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;r&#46;&#x77;i&#99;&#x6b;h&#97;&#x6d;&#64;&#98;&#x74;&#105;&#x6e;&#x74;&#101;&#x72;&#x6e;&#101;&#x74;&#46;&#99;&#x6f;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#x2e;&#119;&#x69;&#x63;&#107;&#x68;&#x61;&#109;&#x40;&#x62;t&#x69;&#x6e;t&#x65;&#114;n&#x65;&#116;&#46;&#x63;&#111;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1722,14 +1754,6 @@ news_feed (
          "title" : "Team Magnus on Carlsen's \"last rodeo\""
       },
       {
-         "description" : "Magnus Carlsen has caught Praggnanandhaa in the lead of Oslo Esports Cup after scoring a crushing 3:0 victory in their Round 4 match. The World Champion, who has now won five rapid games in a row, said afterwards, \"I am the best - I don't have any doubt about that, but you gotta prove it when you play!\" Liem Quang Le also won with a game to spare, against Eric Hansen, while Jorden van Foreest and Jan-Krzysztof Duda both won blitz playoffs 2:0, against Anish Giri and Shakhriyar Mamedyarov.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/oslo-esports-4-carlsen-beats-praggnanandhaa-3-0",
-         "pubDate" : "Mon, 25 Apr 2022 21:36:04 +0000",
-         "title" : "Oslo Esports 4: Carlsen beats Praggnanandhaa 3:0"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2160,14 +2184,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/nominations-invited-for-this-years-ecf-awards-2/",
          "pubDate" : "Wed, 20 Apr 2022 10:53:19 +0000",
          "title" : "Nominations invited for this year's ECF Awards"
-      },
-      {
-         "description" : "The European School Chess Championship 2022 takes place from 20th-30th April in Rhodes, Greece. The event kicks off on Thursday, 21st of April, with the Opening ceremony which will be held shortly before the start of the first round. More than 170 players from more than 22 European federations registered for the event which will be played in&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2022-starts/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-school-chess-championship-2022-starts/",
-         "pubDate" : "Tue, 19 Apr 2022 17:05:03 +0000",
-         "title" : "European School Chess Championship 2022 starts"
       },
       {
          "description" : "",
