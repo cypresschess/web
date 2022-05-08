@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 21st edition of the IPCA World Individual Chess Championship 2022 kicks off tomorrow in Ashdod, Israel. The championship will be held in Hotel &#x201C;Leonardo&#x201D; from&#xA0;8-17 May.LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;TePe Sigeman &#38; Co 2022&#xA0; The physically disabled chess players &#x2013; men, women and juniors (2002 year of birth and younger) will compete in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ipca-world-individual-chess-championship-2022/",
+         "pubDate" : "Sun, 08 May 2022 19:29:57 +0000",
+         "title" : "IPCA World Individual Chess Championship 2022"
+      },
+      {
+         "description" : " Regular readers will probably be aware of my views that, in general, you will learn more from the games of players 200-300 points stronger than you than from the games of players 1000 points stronger than you. To put it another way, you might learn from: Your own games: learning from the mistakes you made <a href=\"https://chessimprover.com/110-instructive-chess-annotations/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"110 Instructive Chess Annotations\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/110-instructive-chess-annotations/\">110 Instructive Chess Annotations</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/110-instructive-chess-annotations/",
+         "pubDate" : "Sun, 08 May 2022 18:53:42 +0000",
+         "title" : "110 Instructive Chess Annotations"
+      },
+      {
+         "description" : "The 2022 Mitropa Chess Cup took place from 27th April &#x2013; 8th May in Corti, Corsica France. The traditional event for teams from Central Europe was played in 9 round-robin rounds within Open and Women&#x2019;s sections.LIVE now: Grand Chess Tour Romania 2022&#160;/&#160;TePe Sigeman &#38; Co 2022&#160; French teams won the historical double gold, winning both []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/historical-double-gold-for-france-at-the-2022-mitropa-cup/",
+         "pubDate" : "Sun, 08 May 2022 16:52:36 +0000",
+         "title" : "Historical double gold for France at the 2022 Mitropa Cup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The players talk about playing in Bucharest for the Superbet Chess Classic, as well as their history playing there. 2022.05.04<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-chess-classic-playing-romania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Hg3bNzvbyT8.jpg?itok=T5Cu672W\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-playing-romania",
+         "pubDate" : "Sun, 08 May 2022 16:47:05 +0000",
+         "title" : "2022 Superbet Chess Classic: Playing in Romania"
+      },
+      {
+         "description" : "The 2022 Mitropa Chess Cup took place from 27th April 8th May in Corti, Corsica France. The traditional event for teams from Central Europe was played in 9 round-robin rounds within Open and Women's sections. French teams won the historical double gold , winning both Mitropa Cup events. French team in the Open section scored convincing 16&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/france-wins-historical-double-gold-at-mitropa-cup-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/france-wins-historical-double-gold-at-mitropa-cup-2022/",
+         "pubDate" : "Sun, 08 May 2022 16:12:48 +0000",
+         "title" : "France wins historical double gold at Mitropa Cup 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1740",
+         "pubDate" : "Sun, 08 May 2022 15:46:56 +0000",
+         "title" : "FIDE elections: Call to Candidates"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Zurab Azmaiparashvili</strong> is virtually assured four more years as <strong>ECU</strong> President after nobody else presented a team. Vice President <strong>Dana Reizniece-Ozola</strong>, who is also <strong>FIDE</strong>'s Managing Director, is to switch posts with Deputy President <strong>Gunnar Bjornsson</strong> after the election on 6 August. The English chess organiser <strong>Malcolm Pein</strong> joins the team as candidate for Vice President and replaces the Austrian <strong>Johann Poecksteiner</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/pein-to-join-ecu-board/",
+         "pubDate" : "Sun, 08 May 2022 16:35:21 +0100",
+         "title" : "Pein to join ECU board"
+      },
+      {
          "description" : "15-year-old Indian grandmaster Gukesh D today clinched the third title in a row as he won the 1st Chessable Sunway Formentera Chess Festival 2022, right after he was victorious at the 1st Menorca Chess Open 2022 and the 48th La Roda Open 2022. With impressive 8/10 points at Formentera Chess Festival, Gukesh managed to be []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -40,6 +96,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/jan-s-opening-clinic-season-27-episode-2",
          "pubDate" : "Sun, 08 May 2022 13:45:28 +0000",
          "title" : "Jan's Opening Clinic Season 27, Episode 2"
+      },
+      {
+         "description" : "The traditional TePe Sigeman & Co tournament is taking place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars is likely to make for an enjoyable tournament, as defending champion Jorden van Foreest will be joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. Round 6 starts Sunday at 15.00 CEST. | Photo: Lars OA Hedlund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-live",
+         "pubDate" : "Sun, 08 May 2022 14:45:00 +0100",
+         "title" : "TePe Sigeman & Co - Live!"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The anniversary of the biggest chess event in history, Fischer - Spassky, Reykjavik 1972, is coming up fast. Is chess about to miss out on this communication opportunity? </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-05-02-at-19-54.1920.jpeg\" title=\"The \"match of the century\" made headlines all over the Western world. Los Angeles Times clipping on Edward Winter's Chess Notes \" data-title=\"The \"match of the century\" made headlines all over the Western world. Los Angeles Times clipping on [Edward Winter's Chess Notes][1] [1]: https://www.chesshistory.com/winter/extra/spasskyf",
@@ -266,14 +330,6 @@ news_feed (
          "title" : "A triple knightmare"
       },
       {
-         "description" : "The traditional TePe Sigeman & Co tournament is taking place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars is likely to make for an enjoyable tournament, as defending champion Jorden van Foreest will be joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. Round 4 starts Saturday at 14.00 CEST. | Photo: Lars OA Hedlund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-live",
-         "pubDate" : "Sat, 07 May 2022 13:45:00 +0100",
-         "title" : "TePe Sigeman & Co - Live!"
-      },
-      {
          "description" : "\"Fields of Force\" was the title of an article written by the polymath and chess-lover George Steiner for the New Yorker in 1972, giving his slant on the celebrated Fischer v Spassky world championship in Reykjavik. I have borrowed the phrase to revert once again to the life and works of that master of chess []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -296,22 +352,6 @@ news_feed (
          "link" : "https://www.chessdom.com/sanchez-alvarez-and-vasquez-jaen-are-2022-panama-national-champions/",
          "pubDate" : "Sat, 07 May 2022 10:14:58 +0000",
          "title" : "Sanchez Alvarez and Vasquez Jaen are 2022 Panama National Champions"
-      },
-      {
-         "description" : "Three months before the start of&#160;the 44th Chess Olympiad 2022, the compositions of Indian teams have been announced. Two teams in each Open and Women&#x2019;s section will represent India in Chennai from July 28 to August 10. Read more: India teams for Chess Olympiad 2022 announced The All India Chess Federation (AICF) assigned former world []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/indian-team-starts-preparations-for-44th-chess-olympiad-2022-tweetoftheday/",
-         "pubDate" : "Sat, 07 May 2022 09:53:34 +0000",
-         "title" : "Indian team starts preparations for 44th Chess Olympiad 2022 #TweetOftheDay"
-      },
-      {
-         "description" : "English grandmaster, chess writer and two-time British Chess Champion, Matthew Sadler, wrote an article for ChessMoves about maintaining your strength as an amateur player. LIVE now: Grand Chess Tour Romania 2022 / TePe Sigeman &#38; Co 2022 / Mitropa Chess Cup 2022 Herewith is enclosed the complete article by GM Matthew Sadler: Chatting with Mike []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/matthew-sadler-explains-how-to-maintain-your-chess-strength/",
-         "pubDate" : "Sat, 07 May 2022 09:24:27 +0000",
-         "title" : "Matthew Sadler explains How to Maintain Your Chess Strength"
       },
       {
          "description" : "In the diagram position, White found a stunning way to strengthen his attack decisively. Your call!",
@@ -616,14 +656,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-round-5",
          "pubDate" : "Thu, 05 May 2022 16:44:22 +0000",
          "title" : "2022 Superbet Chess Classic: Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Sheraton Bucharest Hotel, the Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players (Caruana, Aronian, Firouzja, So, Mamedyarov, Nepomniachtchi, Rapport, Dominguez, and MVL) are joined by a wildcard (Deac) for a classical round robin. Join GMs Peter Svidler, Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovich for the move-by-move. 2022.05.08<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-round-4",
-         "pubDate" : "Thu, 05 May 2022 16:44:22 +0000",
-         "title" : "2022 Superbet Chess Classic: Round 4"
       },
       {
          "description" : "The European Youth Chess Championship 2022 will take place from 5th November (arrival day) 15th November (departure day) in Antalya, Turkey. The event will be played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each national federation, which is a member of the European Chess Union, can register one&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2022-official-invitation/\">Read More &#187;</a></span>",
@@ -1042,14 +1074,6 @@ news_feed (
          "title" : "8-year-old Israeli Wins European Chess Championship. Now Let's Talk Money."
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Fabiano Caruana</strong> beat Dominguez and Aronian to win the <strong>American Cup</strong> and $60,000, showing good shape in his last classical chess tournament before the Candidates Tournament. The <a href=\"https://uschesschamps.com/2022-american-cup/recap\">American Cup was a new event that was played</a> at the <strong>Saint Louis Chess Club</strong> as K.o.-matches between the eight top US players with a second chance after losing once in an \"elimination bracket\". It doesn't seem to replace the US Championship that is expected to be held in autumn. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/caruana-wins-american-cup/",
-         "pubDate" : "Mon, 02 May 2022 14:13:23 +0100",
-         "title" : "Caruana wins American Cup"
-      },
-      {
          "description" : "<p class=\"CDt4Ke zfr3Q\" dir=\"ltr\" style=\"box-sizing: border-box; color: #212121; font-family: Roboto; font-size: 13pt; font-variant-ligatures: none; line-height: 1.55; margin: 14px 0px 0px; outline: none; position: relative; text-decoration-line: inherit; white-space: pre-wrap;\"><span class=\" jgG6ef\" style=\"box-sizing: border-box; font-size: 18pt; vertical-align: baseline;\"><strong style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box;\">ACT Championships 2022</strong></span> <p class=\"CDt4Ke zfr3Q\" dir=\"ltr\" style=\"box-sizing: border-box; color: #212121; font-family: Roboto; font-size: 13pt; font-variant-ligatures: none; line-height: 1.55; margin: 14px 0px 0px; outline: none; pa",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1170,7 +1194,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#114;&#x2e;&#119;&#x69;c&#x6b;h&#x61;m&#64;&#x62;&#116;&#x69;&#110;&#x74;&#101;&#x72;n&#x65;t&#x2e;c&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#x2e;&#x77;&#x69;c&#107;&#104;&#x61;&#x6d;&#x40;bt&#105;&#x6e;&#x74;&#x65;rn&#101;&#116;&#x2e;&#x63;&#x6f;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2168,22 +2192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1697",
          "pubDate" : "Wed, 20 Apr 2022 21:48:39 +0000",
          "title" : "Sandro Mareco and Sandra Guillen win LXVII Mexico National Open Championship "
-      },
-      {
-         "description" : "ECU Educational Commission releases a project &#8220;Chess in Education Portal&#8221;. The project has been developed since 2021 with the support of the FIDE Development fund. The &#8220;Chess in Education Portal&#8221; is a guide to creating chess projects. Whether you are organizing a federation, chess club, chess-themed event, a competitive tournament or a school program, it takes considerable effort&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-in-education-portal/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/chess-in-education-portal/",
-         "pubDate" : "Wed, 20 Apr 2022 19:09:46 +0000",
-         "title" : "Chess in Education Portal"
-      },
-      {
-         "description" : " This week's show featured someone we would have liked to interview, Wilhelm Steinitz. A great chess innovator, Steinitz was also a great tactician who won some truly brilliant games, and in this show we present three of them: Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-10/\">Master Chess Web Show (10)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/master-chess-web-show-10/",
-         "pubDate" : "Wed, 20 Apr 2022 18:21:54 +0000",
-         "title" : "Master Chess Web Show (10)"
       },
       {
          "description" : "",
