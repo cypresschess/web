@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "15-year-old Indian grandmaster Gukesh D today clinched the third title in a row as he won the 1st Chessable Sunway Formentera Chess Festival 2022, right after he was victorious at the 1st Menorca Chess Open 2022 and the 48th La Roda Open 2022. With impressive 8/10 points at Formentera Chess Festival, Gukesh managed to be []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gukesh-wins-the-third-title-in-a-row/",
+         "pubDate" : "Sun, 08 May 2022 14:53:59 +0000",
+         "title" : "15-year-old Gukesh wins the third title in a row"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 78th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about pawn majorities. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-78-pawn-majorities-2",
          "pubDate" : "Sun, 08 May 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 78: Pawn Majorities (2)"
+      },
+      {
+         "description" : "The FIDE Zonal 4.4 Open and Women's Chess Championships 2022 took place from 2-8 May in Addis Ababa, the capital and the largest city of Ethiopia. LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;TePe Sigeman &#38; Co 2022 42 players from 9 African countries competed in the Open's event, while the Women's event gathered 19 players coming []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jimma-and-mongeli-win-the-2022-fide-zonal-4-4-championship/",
+         "pubDate" : "Sun, 08 May 2022 13:53:42 +0000",
+         "title" : "Jimma and Mongeli win the 2022 FIDE Zonal 4.4 Championship"
       },
       {
          "description" : " GM Hrant Melkumyan, winner of this years Doeberl Cup, took on 18 ACT junior players in a simultaneous display today. While a number of players made him work for his wins, and there was a drawing line that might have been missed in the final game, he ended up with a perfect 18 wins and no losses. However the quality of play was quite high in most of the games, although the GM technique of picking up small pieces of material at regular intervals was on full display. While every player survived the first hour, and most reached 20 moves, it was in the middlegame where most players came undone. A few players did survive to the ending (including one game that went past 60 moves), but in those cas",
@@ -24,6 +40,22 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/jan-s-opening-clinic-season-27-episode-2",
          "pubDate" : "Sun, 08 May 2022 13:45:28 +0000",
          "title" : "Jan's Opening Clinic Season 27, Episode 2"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The anniversary of the biggest chess event in history, Fischer - Spassky, Reykjavik 1972, is coming up fast. Is chess about to miss out on this communication opportunity? </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-05-02-at-19-54.1920.jpeg\" title=\"The \"match of the century\" made headlines all over the Western world. Los Angeles Times clipping on Edward Winter's Chess Notes \" data-title=\"The \"match of the century\" made headlines all over the Western world. Los Angeles Times clipping on [Edward Winter's Chess Notes][1] [1]: https://www.chesshistory.com/winter/extra/spasskyf",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/its-50-years-folks/",
+         "pubDate" : "Sun, 08 May 2022 14:35:30 +0100",
+         "title" : "It's 50 years, folks!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The law firm <strong>ALRUD</strong>, FIDE's last Russian sponsor, not only <a href=\"https://www.alrud.com/services/EconomicSanctionsandCompliance/\">consults Russian and foreign companies in dealing with sanctions</a> but also <a href=\"https://www.alrud.com/publications/62693dc8af5f2a5e0d0bb0f2/\">offers expertise in counter-sanctions</a> as pointed out by <a href=\"https://twitter.com/PHChess/status/1523224387306070017\">Peter Heine Nielsen</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/fide-last-russian-sponsor/",
+         "pubDate" : "Sun, 08 May 2022 14:33:51 +0100",
+         "title" : "FIDE last Russian sponsor specializes in counter sanctions"
       },
       {
          "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 4 kicks off Sunday at 14.00 CEST. | Photo: Lennart Ootes",
@@ -312,22 +344,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1737",
          "pubDate" : "Fri, 06 May 2022 21:42:21 +0000",
          "title" : "2022 GCT Superbet Chess Classic Romania: Day 2 Recap"
-      },
-      {
-         "description" : "Round 2 of the Grand Chess Tour Romania 2022 started in an interesting fashion with a surprising opening choice by Maxime Vachier-Lagrave (MVL) who chose the QGA (Queen&#x2019;s Gambit Accepted) against Wesley So. Although four of the five games ended in a draw, Mamedyarov Rapport and Firouzja Nepomniachtchi were fiery dynamic games that []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-defeats-firouzja-grand-chess-tour-romania-2022-r2-recap/",
-         "pubDate" : "Fri, 06 May 2022 20:49:17 +0000",
-         "title" : "Nepo defeats Firouzja, Grand Chess Tour Romania 2022 - R2 recap"
-      },
-      {
-         "description" : "Today, May 6th 2022, the Appeal Chamber of the FIDE Ethics and Disciplinary Commission (EDC) formed by its Chairperson Mr. Francois Strydom, and members Mr. Khaled Arfa and Mr. David Hater,&#160;announced its decision to dismiss the appeal presented by Grandmaster Sergey Karjakin.&#160; The dismissal of this appeal confirms the 6-month ban that was imposed by []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-dismissed-karjakins-appeal-on-the-6-months-ban/",
-         "pubDate" : "Fri, 06 May 2022 20:45:00 +0000",
-         "title" : "FIDE dismissed Karjakin's appeal on the 6 months ban"
       },
       {
          "description" : " Ian Nepomniachtchi (Nepo), Russian Grandmaster and 2021 Championship challenger, beat Alireza Firouzja with White in Round 2 of Superbet Chess Classic. The game was captivating not only because of chess (it was chaotic), but also because everyone is watching for Firouzja's chances to win the Candidates Tournament. The reason - Magnus Carlsen recently said that he would play the Match only against Firouzja. Apparently, chances are slim. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/9E7D3455-3106-45B4-9344-4718D79C38CE.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Nepo in Moscow in 2019</div> </div> Nepo, grumpy but visibly pleased with",
@@ -850,14 +866,6 @@ news_feed (
          "title" : "The Weekly Show: An attacking game from the Bundesliga Nord"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The anniversary of the biggest chess event in history, Fischer - Spassky, Reykjavik 1972, is coming up fast. Is chess about to miss out on this communication opportunity? </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-05-02-at-19-54.1920.jpeg\" title=\"The \"match of the century\" made headlines all over the Western world. Los Angeles Times clipping on Edward Winter's Chess Notes \" data-title=\"The \"match of the century\" made headlines all over the Western world. Los Angeles Times clipping on [Edward Winter's Chess Notes][1] [1]: https://www.chesshistory.com/winter/extra/spasskyf",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/its-50-years-folks/",
-         "pubDate" : "Tue, 03 May 2022 19:45:04 +0100",
-         "title" : "It's 50 years, folks!"
-      },
-      {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras We've been rotating between different formats for the club tournament between rapid chess, chess 960, three check chess or crazy house. Now we are in the middle of a rapid chess one and last round saw an interesting game being played. The opening phase went like this: White <a href=\"https://chessimprover.com/quick-decisions-8/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (8)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-8/\">Quick Decisions (8)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1090,14 +1098,6 @@ news_feed (
          "title" : "Asa Hoffmann, New York chess hustler"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Enyonam Sewa Fumey</strong>, the President of the <strong>Togo Chess Federation</strong> and <a href=\"https://www.fide.com/news/1083\">FIDE General Secretary</a> in the team of incumbent Arkady Dvorkovich until stepping down in May 2021, has <a href=\"https://www.fide.com/news/1722\">declared his candidacy</a> for <strong>FIDE</strong> President in the election to be held on 7 August in Mamallapuram, India. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/fumey-announces-candidacy/",
-         "pubDate" : "Sun, 01 May 2022 22:18:59 +0100",
-         "title" : "Fumey announces candidacy"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1170,7 +1170,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;wickham&#64;&#98;&#116;&#105;&#110;&#116;&#101;&#114;&#110;&#101;&#116;&#46;&#99;&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#114;&#x2e;&#119;&#x69;c&#x6b;h&#x61;m&#64;&#x62;&#116;&#x69;&#110;&#x74;&#101;&#x72;n&#x65;t&#x2e;c&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
