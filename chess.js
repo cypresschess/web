@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 78th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about pawn majorities. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-78-pawn-majorities-2",
+         "pubDate" : "Sun, 08 May 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 78: Pawn Majorities (2)"
+      },
+      {
+         "description" : " GM Hrant Melkumyan, winner of this years Doeberl Cup, took on 18 ACT junior players in a simultaneous display today. While a number of players made him work for his wins, and there was a drawing line that might have been missed in the final game, he ended up with a perfect 18 wins and no losses. However the quality of play was quite high in most of the games, although the GM technique of picking up small pieces of material at regular intervals was on full display. While every player survived the first hour, and most reached 20 moves, it was in the middlegame where most players came undone. A few players did survive to the ending (including one game that went past 60 moves), but in those cas",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/2022-actjcl-gm-simul.html",
+         "pubDate" : "Sun, 08 May 2022 13:46:00 +0000",
+         "title" : "2022 ACTJCL GM Simul"
+      },
+      {
+         "description" : "Magnus Carlsen second Jan Gustafsson is back to answer more chess24 Premium user questions in Episode 2 of Season 27 of Jan's Opening Clinic. In the latest video Jan gives advice on a wide range of openings, including the Marshall, Reti, Vienna, Modern (in particular a dodgy but fun line he enjoyed playing in his youth) and the Catalan. \"It's the usual, we follow Anish!\" says Jan of his recommendation there. There's also still some time to ask a question for Jan to answer in one of the upcoming shows!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/jan-s-opening-clinic-season-27-episode-2",
+         "pubDate" : "Sun, 08 May 2022 13:45:28 +0000",
+         "title" : "Jan's Opening Clinic Season 27, Episode 2"
+      },
+      {
+         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 4 kicks off Sunday at 14.00 CEST. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
+         "pubDate" : "Sun, 08 May 2022 13:55:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : " Share!Top-seed Brewington Hardaway won the K8 National Championship on tiebreaks over four co-champions. All ended with 6/7. Now 13, Brewington has continued to improve and adds the K8 title to add to the 7th grade title he won at the K12 Championships in December. He also got 9/9 in the XXXI Pan American Youth Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/\">Brewington Hardaway wins K8!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/",
+         "pubDate" : "Sun, 08 May 2022 12:44:50 +0000",
+         "title" : "Brewington Hardaway wins K8!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Yuri Averbakh</strong>, the oldest grandmaster ever, a former world championship candidate (1953) and President of the Soviet Chess Federation (1972-1977), eminent chess historian, author and arbiter <a href=\"http://\">passed away in Moscow</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/yuri-averbakh-1922-2022/",
+         "pubDate" : "Sun, 08 May 2022 13:38:49 +0100",
+         "title" : "Yuri Averbakh (1922-2022)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91419608.cms\" />On the occasion of Mother's Day, five-time World Chess Champion, Viswanathan Anand remembered his late mother, Susheela Viswanathan by sharing an anecdote from his first Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/mothers-day-viswanathan-anand-remembers-his-late-mother-shares-anecdote-from-his-first-olympiad/articleshow/91419608.cms",
+         "pubDate" : "Sun, 08 May 2022 12:37:25 +0000",
+         "title" : "Mother's Day: Anand remembers his late mother, shares anecdote from his first Olympiad"
+      },
+      {
          "description" : "Carloz Alcaraz is currently making headlines for his fantastic performance in the Mutua Madrid 2022. He will play today the final of the tournament against Alexander Zverev at 18:30 CET, an event that will have glued to the screens every tennis fan. Alcaraz qualified for the final defeating Djokovic in a thriller match 6-7(5), 7-5, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -114,7 +170,7 @@ news_feed (
          "title" : "Deac surprises Rapport; Grand Chess Tour Romania 2022 gets the leading trio - R3 recap"
       },
       {
-         "description" : " Share!The Russian incursion into Ukraine is still burning up the news cycle more than two months after the geopolitical conflict began. The constant display of the horrid images of battle and scenes of death has filled our consciousness. The reaction was swift as FIDE condemned the act and decided to bring sanctions against the Russia The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/07/geopolitics-and-the-diverse-voices-in-chess/\">Geopolitics and the Diverse Voices in Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " The Russian incursion into Ukraine is still burning up the news cycle more than two months after the geopolitical conflict began. The constant display of the horrid images of battle and scenes of death has filled our consciousness. The reaction was swift as FIDE condemned the act and decided to bring sanctions against the Russia The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/07/geopolitics-and-the-diverse-voices-in-chess/\">Geopolitics and the Diverse Voices in Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/05/07/geopolitics-and-the-diverse-voices-in-chess/",
@@ -1114,7 +1170,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#x2e;&#119;&#x69;&#x63;&#107;&#x68;&#x61;&#109;&#x40;&#x62;t&#x69;&#x6e;t&#x65;&#114;n&#x65;&#116;&#46;&#x63;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;wickham&#64;&#98;&#116;&#105;&#110;&#116;&#101;&#114;&#110;&#101;&#116;&#46;&#99;&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1296,14 +1352,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/american-cup-2022",
          "pubDate" : "Fri, 29 Apr 2022 18:48:00 +0400",
          "title" : "American Cup 2022 - "
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Jan-Krzysztof Duda</strong> is the <a href=\"https://chess24.com/en/read/news/duda-wins-oslo-esports-cup-as-carlsen-pragg-collapse\">surprise winner</a> of the <strong>Oslo Esports Cup</strong> of the <strong>Meltwater Champions Chess Tour</strong> after overtaking Indian prodigy <strong>Praggnanandhaa</strong> who was alone in the clear lead after five of seven days, <strong>Magnus Carlsen</strong>, who felt sickly throughout, and <strong>Liem Quang</strong> in the last round. All participants played from the tour's Oslo studio, and this set-up shall be repeated in the next \"major\" on 12-20 August in Miami. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/duda-on-the-fast-track/",
-         "pubDate" : "Fri, 29 Apr 2022 15:42:46 +0100",
-         "title" : "Duda on the fast track"
       },
       {
          "description" : " For a brief moment, chess.com thought it would be a good idea to organise a $1,000,000 World Championship. The problem wasn't the prize money, which is certainly a hefty amount, but the name. As there is already an official World Championship, and I'm assuming FIDE haven't sold it off, there might have been a legal problem. So instead of a World Championship, the chess.com event is now the Global Championship. With this change I'm assuming everyone is now happy, except for the afore mentioned flat earthers. ",
@@ -1746,14 +1794,6 @@ news_feed (
          "title" : "ChessBase for Coaches: The Thornton Trap"
       },
       {
-         "description" : "Magnus Carlsen talked with his team members about retirement from World Championship for years already, his team members Peter Heine Nielsen, Laurent Fressinet and Jan Gustafsson revealed in the conclusion of chess24's exclusive video series of his match in Dubai. The last three episodes of Inside Team Magnus were released last week.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/team-magnus-on-carlsens-last-rodeo",
-         "pubDate" : "Tue, 26 Apr 2022 03:22:29 +0000",
-         "title" : "Team Magnus on Carlsen's \"last rodeo\""
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2034,28 +2074,12 @@ news_feed (
          "title" : "Solidarity match Norway - Ukraine with Carlsen and Ivanchuk"
       },
       {
-         "description" : "Today at Trent's Tactics, we are about to solve one of the hardest puzzles we ever had on the show. The three examples by GM Alexander G. Beliavsky are beautifully gathered, and have a twist!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-20",
-         "pubDate" : "Fri, 22 Apr 2022 15:42:01 +0100",
-         "title" : "Trent's Tactics - Beliavsky's masterful tactics"
-      },
-      {
          "description" : " It has been a busy week for me, but the upside is I did get to add to my collection of weird chess incidents. Todays Junior Rapidplay event was for Under 18 Juniors, which normally sees a little more commons sense play. Nonetheless there was a QvQ ending (without pawns) that was *not* draw after one player thought that they were losing their queen to a skewer, missing the fact that the king to move and defend their queen! Reaching back to the Doeberl Cup there was a disputed result between two junior players in the blitz. Both players claimed they had one (which was kind of true), although one player said he won the 'real' game, but then lost the 'practice' game. The second player simply sa",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/04/more-adventures-in-arbiting.html",
          "pubDate" : "Fri, 22 Apr 2022 12:16:00 +0000",
          "title" : "More adventures in arbiting"
-      },
-      {
-         "description" : "An action packed day saw five matches decided in the playoffs and one match (Caruana-Xiong) made it all the way to Armageddon, finishing in a dramatic time scramble. After all was said and done, Aronian, Dominguez, Sevian, and Caruana from the Open Field along with Krush, Tokhirjonova, Lee, and Abrahamyan from the Women's Field advanced to the next stage of the Champions Bracket. | Photos: Austin and Crystal Fuller, Saint Louis Chess Club, Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-day-2-recap-tiebreaks-and-an-armageddon",
-         "pubDate" : "Fri, 22 Apr 2022 12:06:54 +0100",
-         "title" : "American Cup, Day 2, Recap: Tiebreaks and an Armageddon"
       },
       {
          "description" : "",
