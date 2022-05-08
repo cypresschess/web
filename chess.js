@@ -1066,7 +1066,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#x72;&#46;&#119;&#x69;c&#107;&#x68;a&#109;&#x40;b&#116;&#x69;&#x6e;&#116;&#x65;&#x72;n&#101;&#x74;&#46;&#99;&#x6f;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#46;&#x72;&#46;&#x77;i&#x63;k&#x68;a&#x6d;&#64;&#x62;&#116;&#x69;&#110;&#x74;&#101;&#x72;&#110;&#x65;&#116;&#x2e;&#99;&#x6f;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
