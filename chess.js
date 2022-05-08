@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Some of the most regrettable chess stories are those of great players leaving the game at the peak of their powers. First, there was Paul Morphy, then, more than a century later, Robert Fischer. Very few probably know or remember that shortly after Morphy left, another brilliant player took his talents elsewhere. He was not of Morphy's stature, certainly, but all the same, it was a pity that the world saw no more of his chess. That man was Ignatz von Kolisch.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-extraordinary-ignatz-von-kolisch",
+         "pubDate" : "Sun, 08 May 2022 09:00:00 +0100",
+         "title" : "The extraordinary Ignatz Von Kolisch: champion, patron, banker"
+      },
+      {
+         "description" : "&#160; MPL 9th National Amateur Chess Championship organized by Jaipur District Chess Association on behalf of Rajasthan Chess Association held at Mahal Rajwada Resort, Vaishali",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-9th-national-amateur-chess-championship-2022-tournament-report/",
+         "pubDate" : "Sun, 08 May 2022 03:41:57 +0000",
+         "title" : "MPL 9th National Amateur Chess Championship-2022 Tournament Report"
+      },
+      {
          "description" : "For the third round in a row, the players delivered one win and four draws. This round saw the hometown hero, GM Bogdan-Daniel Deac, win against GM Richard Rapport after the latter first let go of a decisive advantage and then a perpetual check. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1066,7 +1082,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#46;&#x72;&#46;&#x77;i&#x63;k&#x68;a&#x6d;&#64;&#x62;&#116;&#x69;&#110;&#x74;&#101;&#x72;&#110;&#x65;&#116;&#x2e;&#99;&#x6f;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;r&#46;&#x77;i&#99;&#x6b;h&#97;&#x6d;&#64;&#98;&#x74;&#105;&#x6e;&#x74;&#101;&#x72;&#x6e;&#101;&#x74;&#46;&#99;&#x6f;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1602,14 +1618,6 @@ news_feed (
          "title" : "The ChessBase Opening Encyclopedia: Opening Videos"
       },
       {
-         "description" : "Please find the link of Live Games for National Rapid Chess Championship 2022 Rapid : https://view.livechesscloud.com/#54c3ebfa-6ecf-4c36-9e50-6458da6cf7df Chess- Results Link : https://chess-results.com/tnr630256.aspx?lan=1",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-mpl-national-rapid-chess-championship-2022/",
-         "pubDate" : "Wed, 27 Apr 2022 05:26:02 +0000",
-         "title" : "Live Games Link for MPL National Rapid Chess Championship 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2080,14 +2088,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/not-sure-about-defending-world-title-magnus-carlsen/articleshow/90995007.cms",
          "pubDate" : "Fri, 22 Apr 2022 05:15:39 +0000",
          "title" : "Not sure about defending world title: Magnus Carlsen"
-      },
-      {
-         "description" : "\"The chess world isn't a safe place for us,\" says popular chess streamer Tallulah Roberts, aka \"lularobs\", recounting an incident at the blitz tournament of the Reykjavik Open 2022. Jamaal S. Abdul-Alim, 2013 Chess Journalist of the Year, explains \"why chess tournaments can be hostile for women and girls\". | Photo: Reykjavik Open",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/why-chess-tournaments-can-be-hostile-for-women-and-girls",
-         "pubDate" : "Thu, 21 Apr 2022 20:03:33 +0100",
-         "title" : "Why chess tournaments can be hostile for women and girls"
       },
       {
          "description" : "",
