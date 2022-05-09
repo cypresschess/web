@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The traditional TePe Sigeman & Co tournament is taking place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars is likely to make for an enjoyable tournament, as defending champion Jorden van Foreest will be joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. Round 7 starts Monday at 12.00 CEST. | Photo: Lars OA Hedlund",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1742",
+         "pubDate" : "Mon, 09 May 2022 14:26:13 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2023 - Call for bids"
+      },
+      {
+         "description" : "The 21st edition of the IPCA World Individual Chess Championship 2022 takes place from 8-17 May in Ashdod, Israel. 28 physically disabled chess players &#x2013; men, women and juniors (2002 year of birth and younger) compete in the 9 rounds swiss tournament, fighting for the total prize fund of 5.500e. The winner among men, women, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ipca-world-individual-chess-championship-2022-live/",
+         "pubDate" : "Mon, 09 May 2022 14:10:54 +0000",
+         "title" : "IPCA World Individual Chess Championship 2022 LIVE"
+      },
+      {
+         "description" : "The 73rd edition of the Argentine Women's Superior Chess Championship &#8220;Malvinas heroes&#8221; 2022 took place from 1-8 May at the University of La Punta. LIVE now: Grand Chess Tour Romania 2022 A record number of 44 players competed in the 9 rounds swiss tournament for the total prize fund of 250.000 pesos. WIM Florencia Maria []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/florencia-fernandez-wins-argentine-womens-chess-championship-2022/",
+         "pubDate" : "Mon, 09 May 2022 13:37:27 +0000",
+         "title" : "Florencia Fernandez wins Argentine Women's Chess Championship 2022"
+      },
+      {
+         "description" : "South Eastern Railway Sports Association has published recruitment of Sports person against Talent Scouting Sports Quota 2022-23 . The detailed advertisement is given in the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/recruitment-of-meritorious-sportsperson-in-the-south-eastern-railway-sports-association/",
+         "pubDate" : "Mon, 09 May 2022 12:57:10 +0000",
+         "title" : "Recruitment of meritorious sportsperson in the South Eastern Railway Sports Association"
+      },
+      {
+         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 5 kicks off Monday at 14.00 CEST. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-live",
-         "pubDate" : "Mon, 09 May 2022 11:45:00 +0100",
-         "title" : "TePe Sigeman & Co - Live!"
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
+         "pubDate" : "Mon, 09 May 2022 13:55:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "After the fourth round of the Superbet Chess Classic, Wesley So is leading the standings table with 3 points. With his win over Ian Nepomniachtchi, So single-handedly put a previously tied rival at a distance, while Bogdan-Daniel Deac, the third member of the pre-round leading trio, had to settle for a draw against Shakhriyar Mamedyarov. There were also wins for Maxime Vachier-Lagrave (over Fabiano Caruana) and Levon Aronian (over Leinier Dominguez). | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r4",
+         "pubDate" : "Mon, 09 May 2022 13:25:00 +0100",
+         "title" : "Superbet: So beats Nepo, grabs the lead"
+      },
+      {
+         "description" : "The MPL 34th National Under-14 Chess Tournament for Open and Girls witnessed a grand opening ceremony today 9th May 2022 at 10:00 am in Golden Hall, Rajpath",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/inaugural-function-the-mpl-34th-national-under-14-chess-tournament-for-open-and-girls/",
+         "pubDate" : "Mon, 09 May 2022 11:42:34 +0000",
+         "title" : "Inaugural function :The MPL 34th National Under-14 Chess Tournament for Open and Girls"
+      },
+      {
+         "description" : "The MegaChess set from RMD Recuperacion Materiales Diversos built from 1.250 recycled tires has just arrived in Stavanger, Norway! The chess pieces are made from recycled tires, weighing up to 240kg, and sit on the 100 squared meter chess board the largest chess board in the World! The King piece is 180cm tall, being []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/100-square-meter-chess-board-arrived-in-stavanger/",
+         "pubDate" : "Mon, 09 May 2022 11:41:06 +0000",
+         "title" : "100-square-meter Chess Board arrived in Stavanger"
       },
       {
          "description" : "1. Election procedures full information here 2. European Chess Championship 2024 By the deadline of the 29th&#160;of April 2022, the following bids has been received:&#160; &#160; 2.1 European Senior Teams Chess Championship 2024 Lignano, Sabbiadoro, Italy Brezice, Terme, Catez, Slovenia 2.2. European Senior Individual Chess Championship 2024 Porec, Croatia, Lignano, Sabbiadoro, Italy 2.3 European []",
@@ -66,6 +122,22 @@ news_feed (
          "title" : "Mitropa Cup: Double gold for France"
       },
       {
+         "description" : "The legendary grandmaster Yuri Averbakh passed away in Moscow. Yuri Averbakh was the world's oldest living Grandmaster. In his prime, he was one of the strongest players in the USSR and the world, and in 1953 he took part in the legendary Candidates Tournament in Zurich. Our deepest sympathy goes out to Yuri Lvovich's family and loved ones. Video added. | Photo: Maria Emellianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/yuri-averbakh-passes-away-in-moscow",
+         "pubDate" : "Mon, 09 May 2022 08:50:00 +0100",
+         "title" : "Yuri Averbakh passes away in Moscow"
+      },
+      {
+         "description" : "The traditional TePe Sigeman & Co tournament is taking place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars is likely to make for an enjoyable tournament, as defending champion Jorden van Foreest will be joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. Round 7 starts Monday at 12.00 CEST. | Photo: Lars OA Hedlund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-live",
+         "pubDate" : "Mon, 09 May 2022 08:45:00 +0100",
+         "title" : "TePe Sigeman & Co - Live!"
+      },
+      {
          "description" : "Dear Chess Friends, The following valid nominations have been received within the deadline of the 6th May 2022, for the ECU Board elections 2022. . A Ticket of &#160;Mr. Zurab Azmaiparashvili: President: Mr. Zurab Azmaiparashvili (GEO) Deputy President:&#160;Mrs. Dana Reizniece-Ozola&#160;(LAT) Vice President: Mr. Malcolm Pein. (ENG) Vice President: Mr. Gunnar Bjornsson (ISL) Secretary General:&#160;Mr. Theodoros Tsorbatzoglou (GRE)&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/circular-letter-no-2-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -122,7 +194,7 @@ news_feed (
          "title" : "Decisive results in the majority; Grand Chess Tour Romania 2022 - R4 recap"
       },
       {
-         "description" : "The 21st edition of the IPCA World Individual Chess Championship 2022 kicks off tomorrow in Ashdod, Israel. The championship will be held in Hotel &#x201C;Leonardo&#x201D; from&#xA0;8-17 May.LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;TePe Sigeman &#38; Co 2022&#xA0; The physically disabled chess players &#x2013; men, women and juniors (2002 year of birth and younger) will compete in []",
+         "description" : "The 21st edition of the IPCA World Individual Chess Championship 2022 kicks off tomorrow in Ashdod, Israel. The championship will be held in Hotel &#x201C;Leonardo&#x201D; from&#160;8-17 May.LIVE now:&#160;Grand Chess Tour Romania 2022&#160;/&#160;TePe Sigeman &#38; Co 2022&#160; The physically disabled chess players &#x2013; men, women and juniors (2002 year of birth and younger) will compete in []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/ipca-world-individual-chess-championship-2022/",
@@ -178,28 +250,12 @@ news_feed (
          "title" : "Pein to join ECU board"
       },
       {
-         "description" : "15-year-old Indian grandmaster Gukesh D today clinched the third title in a row as he won the 1st Chessable Sunway Formentera Chess Festival 2022, right after he was victorious at the 1st Menorca Chess Open 2022 and the 48th La Roda Open 2022. With impressive 8/10 points at Formentera Chess Festival, Gukesh managed to be []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gukesh-wins-the-third-title-in-a-row/",
-         "pubDate" : "Sun, 08 May 2022 14:53:59 +0000",
-         "title" : "15-year-old Gukesh wins the third title in a row"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 78th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about pawn majorities. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-78-pawn-majorities-2",
          "pubDate" : "Sun, 08 May 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 78: Pawn Majorities (2)"
-      },
-      {
-         "description" : "The FIDE Zonal 4.4 Open and Women's Chess Championships 2022 took place from 2-8 May in Addis Ababa, the capital and the largest city of Ethiopia. LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;TePe Sigeman &#38; Co 2022 42 players from 9 African countries competed in the Open's event, while the Women's event gathered 19 players coming []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jimma-and-mongeli-win-the-2022-fide-zonal-4-4-championship/",
-         "pubDate" : "Sun, 08 May 2022 13:53:42 +0000",
-         "title" : "Jimma and Mongeli win the 2022 FIDE Zonal 4.4 Championship"
       },
       {
          "description" : " GM Hrant Melkumyan, winner of this years Doeberl Cup, took on 18 ACT junior players in a simultaneous display today. While a number of players made him work for his wins, and there was a drawing line that might have been missed in the final game, he ended up with a perfect 18 wins and no losses. However the quality of play was quite high in most of the games, although the GM technique of picking up small pieces of material at regular intervals was on full display. While every player survived the first hour, and most reached 20 moves, it was in the middlegame where most players came undone. A few players did survive to the ending (including one game that went past 60 moves), but in those cas",
@@ -234,14 +290,6 @@ news_feed (
          "title" : "FIDE last Russian sponsor specializes in counter sanctions"
       },
       {
-         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 4 kicks off Sunday at 14.00 CEST. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
-         "pubDate" : "Sun, 08 May 2022 13:55:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
-      },
-      {
          "description" : " Share!2Top-seed Brewington Hardaway won the K8 National Championship on tiebreaks over four co-champions. All ended with 6/7. Now 13, Brewington has continued to improve and adds the K8 title to add to the 7th grade title he won at the K12 Championships in December. He also got 9/9 in the XXXI Pan American Youth Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/\">Brewington Hardaway wins K8!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -264,14 +312,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/mothers-day-viswanathan-anand-remembers-his-late-mother-shares-anecdote-from-his-first-olympiad/articleshow/91419608.cms",
          "pubDate" : "Sun, 08 May 2022 12:37:25 +0000",
          "title" : "Mother's Day: Anand remembers his late mother, shares anecdote from his first Olympiad"
-      },
-      {
-         "description" : "Carloz Alcaraz is currently making headlines for his fantastic performance in the Mutua Madrid 2022. He will play today the final of the tournament against Alexander Zverev at 18:30 CET, an event that will have glued to the screens every tennis fan. Alcaraz qualified for the final defeating Djokovic in a thriller match 6-7(5), 7-5, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tennis-star-carlos-alcaraz-is-using-chess-to-up-his-game-tweetoftheday/",
-         "pubDate" : "Sun, 08 May 2022 11:22:07 +0000",
-         "title" : "Tennis star Carlos Alcaraz is using chess to up his game #TweetOftheDay"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91418291.cms\" />Grandmaster D Gukesh is on a roll. The 15-year-old won the 1st Chessable Sunway Formentera Open in Spain on Sunday. It was a hat-trick of titles for Gukesh as he had earlier won in La Roda tournament and followed it by pocketing the Menorca Open.",
@@ -328,14 +368,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-3",
          "pubDate" : "Sat, 07 May 2022 17:10:00 -0700",
          "title" : "Deac Beats Rapport, Joins Lead: 2022 Superbet Chess Classic Romania, Day 3"
-      },
-      {
-         "description" : "The legendary grandmaster Yuri Averbakh passed away in Moscow. Yuri Averbakh was the world's oldest living Grandmaster. In his prime, he was one of the strongest players in the USSR and the world, and in 1953 he took part in the legendary Candidates Tournament in Zurich. Our deepest sympathy goes out to Yuri Lvovich's family and loved ones. | Photo: Maria Emellianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/yuri-averbakh-passes-away-in-moscow",
-         "pubDate" : "Sun, 08 May 2022 00:25:00 +0100",
-         "title" : "Yuri Averbakh passes away in Moscow"
       },
       {
          "description" : "For a third day in a row, we got to see one of five games ending decisively at the Superbet Chess Classic in Bucharest. Bogdan-Daniel Deac, the clear underdog in the field, joined Wesley So and Ian Nepomniachtchi in the lead after making the most of Richard Rapport's one-move blunder. Meanwhile, Levon Aronian escaped against Alireza Firouzja, who could not convert his advantage in a double-edged endgame. | Photo: Lennart Ootes",
@@ -1266,7 +1298,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#x77;&#105;c&#x6b;&#104;a&#x6d;&#x40;&#98;t&#x69;&#110;t&#x65;&#x72;&#110;e&#x74;&#x2e;&#99;&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#46;&#x77;&#x69;&#x63;kh&#97;&#109;&#x40;&#x62;&#x74;&#x69;nt&#101;&#114;&#x6e;&#x65;&#x74;&#x2e;c&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1466,14 +1498,6 @@ news_feed (
          "title" : "Caruana, Krush Crowned Champions: The American Cup Day 9"
       },
       {
-         "description" : "MPL National Rapid Chess Championship 2022 MPL National Rapid Chess Championship 2022 was organized by Nashik District Chess Association on behalf of Maharashtra chess association",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-national-rapid-chess-championship-2022gm-aravindh-chithambaram-clinched-the-title-of-mpl-rapid-national-chess-champion-2022/",
-         "pubDate" : "Fri, 29 Apr 2022 12:55:06 +0000",
-         "title" : "MPL National Rapid Chess Championship 2022:GM Aravindh Chithambaram V R clinched the title of MPL Rapid National Chess Champion -2022"
-      },
-      {
          "description" : " The world champion missed a long distance threat and lost three of his seven matches in the Oslo Esports Cup, including Thursday's final round when victory would have ensured first prize An overambitious schedule, a heavy cold and mental fatigue finally caught up with Magnus Carlsen at the Oslo Esports Cup this week. The world champion had won the previous two legs of the online Meltwater Champions Tour and was expected to make it three in his home city, but it was Poland's Jan-Krzysztof Duda who edged ahead in Thursday's final round. Leading scores were Duda (Poland) 14/21, Le Quang Liem (Vietnam) 13, Carlsen (Norway) and Rameshbabu Praggnanandhaa (India) 12, Shak Mamedyarov (Azerbaijan) 1",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1512,14 +1536,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-nine/",
          "pubDate" : "Fri, 29 Apr 2022 09:30:14 +0000",
          "title" : "A Foundation for Beginners Fifty Nine"
-      },
-      {
-         "description" : "Please check the link of Live Games for MPL National Blitz Chess Championship 2022 Blitz : https://view.livechesscloud.com/#0984df5b-1480-413a-b3e0-a872d1a904de Chess- Results Link : https://chess-results.com/tnr630265.aspx?lan=1 &#160;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-mpl-national-blitz-chess-championship-2022/",
-         "pubDate" : "Fri, 29 Apr 2022 07:23:42 +0000",
-         "title" : "Live Games Link for MPL National Blitz Chess Championship 2022"
       },
       {
          "description" : "GM Fabiano Caruana clinched clear 1st place in the inaugural 2022 American Cup, after defeating GM Levon Aronian in the second classical game of the final. In the Women's Field, GM Irina Krush completed her campaign for the title as well, securing the victory after drawing the second game in her match against FM Alice Lee. | Photo Courtesy of Saint Louis Chess Club, Lennart Ootes",
@@ -2106,14 +2122,6 @@ news_feed (
          "title" : "Friendly Solidarity Match Norway-Ukraine 2022 - Games and Results"
       },
       {
-         "description" : "In this week's edition of the Power Play Show, GM Daniel King continues to look at the fortunes of two extremely talented Indian players, Praggnanandhaa and Gukesh! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-pragg-gukesh",
-         "pubDate" : "Fri, 22 Apr 2022 17:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Pragg and Gukesh grab the prizes"
-      },
-      {
          "description" : " It has been a busy week for me, but the upside is I did get to add to my collection of weird chess incidents. Todays Junior Rapidplay event was for Under 18 Juniors, which normally sees a little more commons sense play. Nonetheless there was a QvQ ending (without pawns) that was *not* draw after one player thought that they were losing their queen to a skewer, missing the fact that the king to move and defend their queen! Reaching back to the Doeberl Cup there was a disputed result between two junior players in the blitz. Both players claimed they had one (which was kind of true), although one player said he won the 'real' game, but then lost the 'practice' game. The second player simply sa",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2264,22 +2272,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/magnus-carlsen-will-really-really-give-up-his-championship-title/",
          "pubDate" : "Mon, 18 Apr 2022 21:18:33 +0000",
          "title" : "Magnus Carlsen Will Really, Really Give Up His Championship Title, Maybe"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90913994.cms\" />The 100-day countdown for the 44th Chess Olympiad, to be held here later this year, began on Monday with the legendary Viswanathan Anand terming the tournament a life-time opportunity for youngsters to catch a glimpse of their idols.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-lifetime-opportunity-for-youngsters-says-viswanathan-anand-as-100-day-countdown-for-chess-olympiad-begins/articleshow/90913994.cms",
-         "pubDate" : "Mon, 18 Apr 2022 11:59:51 +0000",
-         "title" : "A lifetime opportunity for youngsters, says Anand as 100-day countdown for Chess Olympiad begins"
-      },
-      {
-         "description" : " GM Hrant Melkumyan (Armenia) is the winner of the 2022 O2C Doeberl Cup, scoring 7.5/8, after winning his last round game against IM Igor Bjelobrk. He was tied for 1st with GM Temur Kuybokarov going into the final rounds, but a draw between Kuybokarov, and GM Daniel Fernandez (ENG) saw Kuybokarov finish 2nd (on 7 points), and Fernandez tie for 3rd with IM Rishi Sardana. This was the 2nd win for Melkumyan, who had previously won in 2019, but the first as a local Canberran, having been resident here for the past 2 years. He becomes the 2nd local player to win the event, the first being Tony Weidenhofer in 1973. Melkumyan took home $5000 in prize money, with Kuybokarov picking up $3000 for 2nd.",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-win-for-gm-hrant.html",
-         "pubDate" : "Mon, 18 Apr 2022 11:49:00 +0000",
-         "title" : "2022 O2C Doeberl Cup - Win for GM Hrant Melkumyan"
       }
    ]
 }
