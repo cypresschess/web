@@ -791,7 +791,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/english-seniors-championships/#new_tab",
          "pubDate" : "Thu, 05 May 2022 10:59:41 +0000",
-         "title" : "Chessable English Seniors Championships - underway"
+         "title" : "Chessable English Seniors Championships - RESULTS"
       },
       {
          "description" : "World no. 3 Alireza Firouzja will take on world no. 4 Fabiano Caruana as the Superbet Chess Classic begins today in Bucharest, Romania. The 10-player, $350,000 all-play-all event will be a Candidates Tournament warm-up for four of the players, with Richard Rapport taking on Levon Aronian, while Ian Nepomniachtchi has White against 20-year-old local star Bogdan-Daniel Deac. ",
@@ -1266,7 +1266,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#119;&#105;&#x63;&#x6b;&#104;a&#x6d;&#64;b&#x74;&#x69;&#110;t&#x65;&#114;n&#x65;&#x74;&#46;c&#x6f;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#x77;&#105;c&#x6b;&#104;a&#x6d;&#x40;&#98;t&#x69;&#110;t&#x65;&#x72;&#110;e&#x74;&#x2e;&#99;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
