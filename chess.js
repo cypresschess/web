@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Less than two weeks after winning the Capablanca Memorial, Hans Niemann claimed outright victory at the TePe Sigeman & Co tournament in Malm&ouml;. Niemann scored 5/7 points to finish a full point ahead of a three-player chasing pack, which consisted of Michael Adams, Nils Grandelius and Arjun Erigaisi. | Photo: Lars OA Hedlund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-r7",
+         "pubDate" : "Mon, 09 May 2022 20:30:00 +0100",
+         "title" : "Hans Niemann triumphant at TePe Sigeman & Co"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The players share against whom they are most excited to play in the Superbet Chess Classic. 2022.05.04<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-chess-classic-opponents\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/V6-ltri2EJk.jpg?itok=QWRUuZ3k\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-opponents",
+         "pubDate" : "Mon, 09 May 2022 16:47:28 +0000",
+         "title" : "2022 Superbet Chess Classic: Opponents"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League final four teams meet in a three-round championship round robin. Join NM Caleb Denby for the move-by-move. 2022.05.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-corporate-chess-league-spring-championship\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CDUCyxY-62w.jpg?itok=VFXHYdj3\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-corporate-chess-league-spring-championship",
+         "pubDate" : "Mon, 09 May 2022 16:47:28 +0000",
+         "title" : "2022 Saint Louis Corporate Chess League: Spring Championship"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91450010.cms\" />Indian Grandmaster Arjun Erigaisi secured four points from seven rounds to finish second in the Tepe Sigeman round-robin chess tournament on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-arjun-erigaisi-finishes-second-in-tepe-sigeman-chess-tourney/articleshow/91450010.cms",
+         "pubDate" : "Mon, 09 May 2022 16:31:42 +0000",
+         "title" : "Indian GM Arjun Erigaisi finishes second in Tepe Sigeman tourney"
+      },
+      {
+         "description" : "In his Endgame Magic Show #193 Karsten M&uuml;ller is joined by Arne Kaehler to explore endgames played at the latest round of the Bundesliga, including one which saw Nihal Sarin demonstrating great technique to take down Shakhriyar Mamedyarov. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-show-193-arne-kaehler",
+         "pubDate" : "Mon, 09 May 2022 17:25:00 +0100",
+         "title" : "Endgame Magic Show #193 with Arne Kaehler"
+      },
+      {
+         "description" : "The American grandmaster Hans Niemann won the 27th edition of the TePe Sigeman Chess Tournament scoring unbeaten 5/7 points. After winning the Capablanca Memorial Elite group with a round to spare, Niemann today triumphed the second tournament in a row. Read more: Magnus Carlsen vs Hans Niemann(video and game) Hans Niemann was a whole point []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-is-the-winner-of-tepe-sigeman-co-2022/",
+         "pubDate" : "Mon, 09 May 2022 15:34:03 +0000",
+         "title" : "Hans Niemann is the winner of TePe Sigeman & Co 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1743",
+         "pubDate" : "Mon, 09 May 2022 15:07:41 +0000",
+         "title" : "Mariano Ortega wins Cape Verde Open 2022"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -24,6 +80,22 @@ news_feed (
          "link" : "https://www.chessdom.com/florencia-fernandez-wins-argentine-womens-chess-championship-2022/",
          "pubDate" : "Mon, 09 May 2022 13:37:27 +0000",
          "title" : "Florencia Fernandez wins Argentine Women's Chess Championship 2022"
+      },
+      {
+         "description" : "The Mitropa Cup for teams ended on Sunday with a victory for the French team in both the open and the women's events (photo: the French open team). In the open, Slovakia and Hungary finished second and third respectively, much like among the women. The tournament took place in the town of Corte on the French Mediterranean island of Corsica. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mitropa-cup-double-gold-france",
+         "pubDate" : "Mon, 09 May 2022 14:05:00 +0100",
+         "title" : "Mitropa Cup: Double gold for France"
+      },
+      {
+         "description" : "The legendary grandmaster Yuri Averbakh passed away in Moscow. Yuri Averbakh was the world's oldest living Grandmaster. In his prime, he was one of the strongest players in the USSR and the world, and in 1953 he took part in the legendary Candidates Tournament in Zurich. Our deepest sympathy goes out to Yuri Lvovich's family and loved ones. Video added. | Photo: Maria Emellianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/yuri-averbakh-passes-away-in-moscow",
+         "pubDate" : "Mon, 09 May 2022 14:00:00 +0100",
+         "title" : "Yuri Averbakh passes away in Moscow"
       },
       {
          "description" : "South Eastern Railway Sports Association has published recruitment of Sports person against Talent Scouting Sports Quota 2022-23 . The detailed advertisement is given in the",
@@ -64,6 +136,14 @@ news_feed (
          "link" : "https://www.chessdom.com/100-square-meter-chess-board-arrived-in-stavanger/",
          "pubDate" : "Mon, 09 May 2022 11:41:06 +0000",
          "title" : "100-square-meter Chess Board arrived in Stavanger"
+      },
+      {
+         "description" : "Hamilton's slower-than-expected 40-yard dash time made him fall in the draft, and the Ravens couldn't be happier.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/blog/baltimore-ravens/post/_/id/55962/trusting-film-not-stopwatch-why-the-baltimore-ravens-believe-kyle-hamilton-is-a-steal?device=featurephone",
+         "pubDate" : "Mon, 9 May 2022 06:00:51 -0500",
+         "title" : "Trusting film, not stopwatch: Why the Baltimore Ravens believe Kyle Hamilton is a steal"
       },
       {
          "description" : "1. Election procedures full information here 2. European Chess Championship 2024 By the deadline of the 29th&#160;of April 2022, the following bids has been received:&#160; &#160; 2.1 European Senior Teams Chess Championship 2024 Lignano, Sabbiadoro, Italy Brezice, Terme, Catez, Slovenia 2.2. European Senior Individual Chess Championship 2024 Porec, Croatia, Lignano, Sabbiadoro, Italy 2.3 European []",
@@ -112,22 +192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1729",
          "pubDate" : "Mon, 09 May 2022 08:18:12 +0000",
          "title" : "FIDE Candidates 2022: tiebreaker play-off format"
-      },
-      {
-         "description" : "The Mitropa Cup for teams ended on Sunday with a victory for the French team in both the open and the women's events (photo: the French open team). In the open, Slovakia and Hungary finished second and third respectively, much like among the women. The tournament took place in the town of Corte on the French Mediterranean island of Corsica. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mitropa-cup-double-gold-france",
-         "pubDate" : "Mon, 09 May 2022 09:00:00 +0100",
-         "title" : "Mitropa Cup: Double gold for France"
-      },
-      {
-         "description" : "The legendary grandmaster Yuri Averbakh passed away in Moscow. Yuri Averbakh was the world's oldest living Grandmaster. In his prime, he was one of the strongest players in the USSR and the world, and in 1953 he took part in the legendary Candidates Tournament in Zurich. Our deepest sympathy goes out to Yuri Lvovich's family and loved ones. Video added. | Photo: Maria Emellianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/yuri-averbakh-passes-away-in-moscow",
-         "pubDate" : "Mon, 09 May 2022 08:50:00 +0100",
-         "title" : "Yuri Averbakh passes away in Moscow"
       },
       {
          "description" : "The traditional TePe Sigeman & Co tournament is taking place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars is likely to make for an enjoyable tournament, as defending champion Jorden van Foreest will be joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. Round 7 starts Monday at 12.00 CEST. | Photo: Lars OA Hedlund",
@@ -208,14 +272,6 @@ news_feed (
          "link" : "https://chessimprover.com/110-instructive-chess-annotations/",
          "pubDate" : "Sun, 08 May 2022 18:53:42 +0000",
          "title" : "110 Instructive Chess Annotations"
-      },
-      {
-         "description" : "The 2022 Mitropa Chess Cup took place from 27th April &#x2013; 8th May in Corti, Corsica France. The traditional event for teams from Central Europe was played in 9 round-robin rounds within Open and Women&#x2019;s sections.LIVE now: Grand Chess Tour Romania 2022&#160;/&#160;TePe Sigeman &#38; Co 2022&#160; French teams won the historical double gold, winning both []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/historical-double-gold-for-france-at-the-2022-mitropa-cup/",
-         "pubDate" : "Sun, 08 May 2022 16:52:36 +0000",
-         "title" : "Historical double gold for France at the 2022 Mitropa Cup"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The players talk about playing in Bucharest for the Superbet Chess Classic, as well as their history playing there. 2022.05.04<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-chess-classic-playing-romania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Hg3bNzvbyT8.jpg?itok=T5Cu672W\" alt=\"\" /></a></div>",
@@ -746,22 +802,6 @@ news_feed (
          "title" : "2022 Superbet Chess Classic: Round 7"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Sheraton Bucharest Hotel, the Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players (Caruana, Aronian, Firouzja, So, Mamedyarov, Nepomniachtchi, Rapport, Dominguez, and MVL) are joined by a wildcard (Deac) for a classical round robin. Join GMs Peter Svidler, Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovich for the move-by-move. 2022.05.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-round-6",
-         "pubDate" : "Thu, 05 May 2022 16:44:22 +0000",
-         "title" : "2022 Superbet Chess Classic: Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Sheraton Bucharest Hotel, the Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players (Caruana, Aronian, Firouzja, So, Mamedyarov, Nepomniachtchi, Rapport, Dominguez, and MVL) are joined by a wildcard (Deac) for a classical round robin. Join GMs Peter Svidler, Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovich for the move-by-move. 2022.05.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-round-5",
-         "pubDate" : "Thu, 05 May 2022 16:44:22 +0000",
-         "title" : "2022 Superbet Chess Classic: Round 5"
-      },
-      {
          "description" : "The European Youth Chess Championship 2022 will take place from 5th November (arrival day) 15th November (departure day) in Antalya, Turkey. The event will be played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each national federation, which is a member of the European Chess Union, can register one&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2022-official-invitation/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1074,7 +1114,7 @@ news_feed (
          "title" : "Gretarsson dominates Icelandic Championship"
       },
       {
-         "description" : " The 27th TePe Sigeman & Co Chess tournament takes place in May 3rd - 9th, 2022 - Malmo, Sweden. There is a really interesting mixed age group field this year: Jorden Van Foreest, Michael Adams, David Navara, Alexei Shirov, Saleh Salem, Arjun Erigaisi, Nils Grandelius and Hans Moke Niemann. I always have a special feeling about this tournament as it started the same year I was first reporting on chess on the internet. ",
+         "description" : " The 27th TePe Sigeman & Co Chess tournament took place in May 3rd - 9th, 2022 - Malmo, Sweden. There was a really interesting mixed age group field this year: Jorden Van Foreest, Michael Adams, David Navara, Alexei Shirov, Saleh Salem, Arjun Erigaisi, Nils Grandelius and Hans Moke Niemann. I always have a special feeling about this tournament as it started the same year I was first reporting on chess on the internet. Hans Moke Niemann won his second important tournament in a row after winning the Capablanca Memorial, he scored 5/7 a point clear of Arjun Erigaisi, Nils Grandelius and Michael Adams.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/27th-tepe-sigeman-co-chess-tournament-2022",
@@ -1298,7 +1338,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#46;&#x77;&#x69;&#x63;kh&#97;&#109;&#x40;&#x62;&#x74;&#x69;nt&#101;&#114;&#x6e;&#x65;&#x74;&#x2e;c&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#46;&#119;&#105;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#64;b&#116;&#105;&#110;&#116;&#x65;&#x72;&#x6e;&#x65;&#x74;&#46;c&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2074,14 +2114,6 @@ news_feed (
          "title" : "Ukraine and world chess: whose side is Dvorkovich on?"
       },
       {
-         "description" : "The diagram shows a theoretical Sicilian position in which White has just opened the g-file. Recapturing with 16...Nxf6? now is a well-known mistake - do you see why?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/notes-from-the-najdorf",
-         "pubDate" : "Sat, 23 Apr 2022 09:00:00 +0100",
-         "title" : "Notes from the Najdorf"
-      },
-      {
          "description" : " <p class=\"lead\">World Champion Magnus Carlsen scored a convincing win over Polish No.1 Jan-Krzysztof Duda in the first round of the eponymous event, <a href=\"https://chess24.com/tour/oslo-esports-cup-starts-with-thumping-win-for-carlsen/\">Meltwater Champions Chess Tour</a>. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/103E1C52-A16B-46DF-A32E-212418047973.jpeg\" width=\"1600\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">Carlsen against Duda, round 1 of the E-Sports Cup</div> </div> The $210,000 all-play-all event is the new season of the online event organized by Carlsen's company, PlayMagnus. It will be played over seven days in Oslo and, according to t",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2096,14 +2128,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/oslo-esports-cup-pragg-starts-off-with-a-win/articleshow/91023507.cms",
          "pubDate" : "Sat, 23 Apr 2022 06:17:55 +0000",
          "title" : "Oslo Esports Cup: Pragg starts off with a win"
-      },
-      {
-         "description" : "An experienced trainer, Ivan Sokolov has worked with the Iranian team for a number of years, helping the likes of Alireza Firouzja and Parham Maghsoodloo to develop their talent. In his first FritzTrainer series for ChessBase, he showcases a pragmatic style, focusing on general ideas rather than specific lines. One of the games analysed in the section devoted to rolling pawns is Boris Gelfand versus Aleksey Dreev from Tilburg 1993, which included a couple of magnificent long-term sacrifices by Black!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sokolov-middlegames-pawn-rollers",
-         "pubDate" : "Fri, 22 Apr 2022 22:45:00 +0100",
-         "title" : "A middlegame lesson by Ivan Sokolov: Rolling pawns"
       },
       {
          "description" : "",
