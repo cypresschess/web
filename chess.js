@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The traditional TePe Sigeman & Co tournament is taking place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars is likely to make for an enjoyable tournament, as defending champion Jorden van Foreest will be joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. Round 7 starts Monday at 12.00 CEST. | Photo: Lars OA Hedlund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-live",
+         "pubDate" : "Mon, 09 May 2022 11:45:00 +0100",
+         "title" : "TePe Sigeman & Co - Live!"
+      },
+      {
+         "description" : "1. Election procedures full information here 2. European Chess Championship 2024 By the deadline of the 29th&#160;of April 2022, the following bids has been received:&#160; &#160; 2.1 European Senior Teams Chess Championship 2024 Lignano, Sabbiadoro, Italy Brezice, Terme, Catez, Slovenia 2.2. European Senior Individual Chess Championship 2024 Porec, Croatia, Lignano, Sabbiadoro, Italy 2.3 European []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-chess-championships-2024-bids/",
+         "pubDate" : "Mon, 09 May 2022 10:29:20 +0000",
+         "title" : "European Chess Championships 2024 bids"
+      },
+      {
+         "description" : "The following valid&#160;nominations&#160;have been received within the deadline of the 6th&#160;May 2022, for the ECU Board elections 2022. . A&#160;&#x2013;&#160;Ticket of &#160;Mr. Zurab Azmaiparashvili: President: Mr. Zurab Azmaiparashvili (GEO) Deputy President:&#160;Mrs. Dana Reizniece-Ozola&#160;(LAT) Vice President: Mr. Malcolm Pein. (ENG) Vice President: Mr. Gunnar Bjornsson (ISL) Secretary General:&#160;Mr. Theodoros Tsorbatzoglou (GRE) Treasurer:&#160;Mr. Ion-Serban Dobronauteanu&#160;(ROM) B&#160;&#x2013;&#160;Nominations for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ecu-circular-letter-tickets-for-ecu-board-elections-and-general-assembly-location/",
+         "pubDate" : "Mon, 09 May 2022 10:22:42 +0000",
+         "title" : "ECU circular letter - tickets for ECU board elections and General assembly location"
+      },
+      {
+         "description" : "The Rio Negro International Chess Tournament 2022 will be played from 11-15 May in the Argentinian city of Cipolletto. More than 170 players from 7 countries registered for the tournament, competing for the total prize fund of 600.000 pesos in 9 rounds, swiss system. The battlefield is led by the two best rated Argentinians: GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/rio-negro-international-chess-tournament-2022/",
+         "pubDate" : "Mon, 09 May 2022 10:15:15 +0000",
+         "title" : "Rio Negro International Chess Tournament 2022"
+      },
+      {
+         "description" : "National Under-12 Chess Championships-2022, Karnataka (09-14 April) out to download Links:- Female https://aicf.online/U-12-Female.html Male https://aicf.online/U1-2-Male.html Any Correction Mail at : aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-u1-2-certificates-are-out-to-download/",
+         "pubDate" : "Mon, 09 May 2022 09:58:30 +0000",
+         "title" : "National U1-2 Certificates are out to Download"
+      },
+      {
+         "description" : "The&#xA0;FIDE Candidates Chess 2022&#xA0;was announced in late December last year, with the dates, place and the sponsor. FIDE disclosed the event will take place in Madrid, June 16 &#x2013; July 7 The Candidates Chess 2022 is an 8 player double round robin tournament with some of the world&#x2019;s top Grandmasters. Full info: Candidates Chess 2022 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/candidates-madrid-2022-tiebreak-rules-announced/",
+         "pubDate" : "Mon, 09 May 2022 09:57:56 +0000",
+         "title" : "Candidates Madrid 2022 tiebreak rules announced"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1729",
+         "pubDate" : "Mon, 09 May 2022 08:18:12 +0000",
+         "title" : "FIDE Candidates 2022: tiebreaker play-off format"
+      },
+      {
          "description" : "The Mitropa Cup for teams ended on Sunday with a victory for the French team in both the open and the women's events (photo: the French open team). In the open, Slovakia and Hungary finished second and third respectively, much like among the women. The tournament took place in the town of Corte on the French Mediterranean island of Corsica. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -162,14 +218,6 @@ news_feed (
          "title" : "Jan's Opening Clinic Season 27, Episode 2"
       },
       {
-         "description" : "The traditional TePe Sigeman & Co tournament is taking place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars is likely to make for an enjoyable tournament, as defending champion Jorden van Foreest will be joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. Round 6 starts Sunday at 15.00 CEST. | Photo: Lars OA Hedlund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-live",
-         "pubDate" : "Sun, 08 May 2022 14:45:00 +0100",
-         "title" : "TePe Sigeman & Co - Live!"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The anniversary of the biggest chess event in history, Fischer - Spassky, Reykjavik 1972, is coming up fast. Is chess about to miss out on this communication opportunity? </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-05-02-at-19-54.1920.jpeg\" title=\"The \"match of the century\" made headlines all over the Western world. Los Angeles Times clipping on Edward Winter's Chess Notes \" data-title=\"The \"match of the century\" made headlines all over the Western world. Los Angeles Times clipping on [Edward Winter's Chess Notes][1] [1]: https://www.chesshistory.com/winter/extra/spasskyf",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -306,14 +354,6 @@ news_feed (
          "title" : "Superbet Chess Classic: Round 3 in Photos"
       },
       {
-         "description" : "The Appeal Chamber of the FIDE Ethics and Disciplinary Commission (EDC) decided on May 6th to dismiss the appeal presented by Grandmaster Sergey Karjakin, confirming the 6 months ban that was&#160;imposed by the EDC on March 21st, 2022 after Karjakin was found guilty of&#160;breach of article 2.2.10:&#160;&#x201C;Sergey Karjakin is found guilty of breach of article []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/karjakin-on-fides-decision-its-the-turn-of-the-sports-courts/",
-         "pubDate" : "Sat, 07 May 2022 21:53:47 +0000",
-         "title" : "Karjakin on FIDE's decision: \"It's the turn of the sports courts!\""
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -322,28 +362,12 @@ news_feed (
          "title" : "2022 GCT Superbet Chess Classic Romania: Day 3 Recap"
       },
       {
-         "description" : "Day 3 of the Superbet Chess Classic in Bucharest did not fail to entertain the audience. It has been the most exciting day by far, but at the same time heartbreaking for some of the players, commentators, and fans. While we have been used to only seeing one decisive result per round, today could have []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/deac-surprises-rapport-grand-chess-tour-romania-2022-gets-the-leading-trio-r3-recap/",
-         "pubDate" : "Sat, 07 May 2022 20:44:53 +0000",
-         "title" : "Deac surprises Rapport; Grand Chess Tour Romania 2022 gets the leading trio - R3 recap"
-      },
-      {
          "description" : " The Russian incursion into Ukraine is still burning up the news cycle more than two months after the geopolitical conflict began. The constant display of the horrid images of battle and scenes of death has filled our consciousness. The reaction was swift as FIDE condemned the act and decided to bring sanctions against the Russia The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/07/geopolitics-and-the-diverse-voices-in-chess/\">Geopolitics and the Diverse Voices in Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/05/07/geopolitics-and-the-diverse-voices-in-chess/",
          "pubDate" : "Sat, 07 May 2022 19:39:47 +0000",
          "title" : "Geopolitics and the Diverse Voices in Chess"
-      },
-      {
-         "description" : "The Kenya Olympic Chess Team has been chosen for the upcoming 44th Chess Olympiad 2022, which will take place in Chennai, India, from 28th July to 10th August 2022. LIVE now:&#160;Grand Chess Tour Romania 2022&#160;/&#160;TePe Sigeman &#38; Co 2022&#160;/&#160;Mitropa Chess Cup 2022 The grueling selection process contained three phases and culminated in the final 3rd []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kenya-announces-teams-for-44th-chess-olympiad-2022/",
-         "pubDate" : "Sat, 07 May 2022 15:24:02 +0000",
-         "title" : "Kenya announces Teams for 44th Chess Olympiad 2022"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The team pays tribute to Yuri Averbakh, the great endgame specialist who died today. The centenarian Averbakh was a household name in Russian chess. 2022.05.07<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yuri-averbakh-1922-2022-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qvBQPb6hMz0.jpg?itok=51U3ofpG\" alt=\"\" /></a><",
@@ -402,14 +426,6 @@ news_feed (
          "title" : "Fields of force: Marcel Duchamp and chess"
       },
       {
-         "description" : "The Queens&#x2019; Online Chess Festival 2022, a series of continental women&#x2019;s online blitz tournaments, starts on&#xA0;June 05, 2022.LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;TePe Sigeman &#38; Co 2022&#xA0;/&#xA0;Mitropa Chess Cup 2022 The event is organized by FIDE Commission for Women&#x2019;s Chess in cooperation with FIDE Events Commission, and it is supported by the Asian Chess Federation, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/queens-online-chess-festival-2022/",
-         "pubDate" : "Sat, 07 May 2022 10:23:26 +0000",
-         "title" : "Queens' Online Chess Festival 2022"
-      },
-      {
          "description" : "In the diagram position, White found a stunning way to strengthen his attack decisively. Your call!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -462,7 +478,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/17-year-old-earns-chess-master-title-after-brain-surgeries-griffin-mcconnell",
-         "pubDate" : "Fri, 06 May 2022 11:48:32 -0700",
+         "pubDate" : "Fri, 06 May 2022 11:48:00 -0700",
          "title" : "17-Year-Old Earns Master Title After Four Brain Surgeries"
       },
       {
@@ -1250,7 +1266,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#x77;&#105;c&#x6b;&#x68;&#97;m&#x40;&#x62;&#116;i&#x6e;&#x74;&#101;r&#x6e;&#101;&#116;&#46;&#x63;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#119;&#105;&#x63;&#x6b;&#104;a&#x6d;&#64;b&#x74;&#x69;&#110;t&#x65;&#114;n&#x65;&#x74;&#46;c&#x6f;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1640,14 +1656,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/oslo-esports-cup-6-carlsen-back-in-front-as-duda-stops-pragg",
          "pubDate" : "Thu, 28 Apr 2022 11:06:57 +0000",
          "title" : "Oslo Esports Cup 6: Carlsen back in front as Duda stops Pragg"
-      },
-      {
-         "description" : "Western Asian Youth Chess Championship 2022 will be held at Maldives from 15-23 June 2022 and players participated in the National Age Group Chess Championships-2022",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/western-asian-youth-chess-championship-2022/",
-         "pubDate" : "Thu, 28 Apr 2022 10:42:54 +0000",
-         "title" : "Western Asian Youth Chess Championship 2022"
       },
       {
          "description" : "",
@@ -2272,30 +2280,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-win-for-gm-hrant.html",
          "pubDate" : "Mon, 18 Apr 2022 11:49:00 +0000",
          "title" : "2022 O2C Doeberl Cup - Win for GM Hrant Melkumyan"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1693",
-         "pubDate" : "Mon, 18 Apr 2022 09:57:57 +0000",
-         "title" : "FIDE Trainer Seminar for Spanish Americas held online"
-      },
-      {
-         "description" : " Arkady Dvorkovich, 50, a former Russian deputy-prime minister, is having a really, really hard term as a FIDE president. He had to steer the organization during the Covid pandemic and now is campaigning for the second term amid the war with Ukraine. He is the only Russian who heads an international sports organization. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/00F80262-9130-40CD-B942-0F803BC9A1B5.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Arkady Dvorkovich in Moscow</div> </div> Last week, the Swiss Ministry of Sport <a href=\"https://www.swissinfo.ch/eng/switzerland-wants-russian-and-belarusians-excluded-from-sports-federations",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/pressure-mounts-on-fide-president-not-to-seek-re-election/",
-         "pubDate" : "Mon, 18 Apr 2022 09:02:52 +0000",
-         "title" : "Pressure Mounts on FIDE President Not to Seek Re-election"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90909002.cms\" /> Young Indian Grandmaster D Gukesh emerged victorious in the 48th La Roda International Open Chess tournament here, scoring eight points from nine rounds.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-title-at-la-roda-international-tourney/articleshow/90909002.cms",
-         "pubDate" : "Mon, 18 Apr 2022 08:35:16 +0000",
-         "title" : "Indian GM Gukesh wins title at La Roda International tourney"
       }
    ]
 }
