@@ -1,5 +1,9 @@
 jtable([
+"HOUSTON","2022-05-07  - 05-08","98","<a href=http://www.uschess.org/msa/XtblMain.php?202205088212 target='_blank'>TCR: HOUSTON SPRING CHAMPIONSHIP 2022</a>",
+"SPRING","2022-05-07","158","<a href=http://www.uschess.org/msa/XtblMain.php?202205077872 target='_blank'>CATHOLIC SCHOOLS CHAMPIONSHIP</a>",
+"SPRING","2022-05-06","21","<a href=http://www.uschess.org/msa/XtblMain.php?202205067772 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-05-06","8","<a href=http://www.uschess.org/msa/XtblMain.php?202205067042 target='_blank'>FBCC 2022 SEIS DE MAYO OPEN</a>",
+"CYPRESS","2022-05-06","26","<a href=http://www.uschess.org/msa/XtblMain.php?202205067012 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2022-05-01","4","<a href=http://www.uschess.org/msa/XtblMain.php?202205015032 target='_blank'>MAY 1ST SUNDAY SWISS</a>",
 "HOUSTON","2022-04-30","31","<a href=http://www.uschess.org/msa/XtblMain.php?202204304272 target='_blank'>F7 CHESS CLUB SPRING SCHOLASTIC</a>",
 "SPRING","2022-04-29","22","<a href=http://www.uschess.org/msa/XtblMain.php?202204293922 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -195,8 +199,4 @@ jtable([
 "SPRING","2021-06-25","12","<a href=http://www.uschess.org/msa/XtblMain.php?202106251102 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2021-06-25","6","<a href=http://www.uschess.org/msa/XtblMain.php?202106251032 target='_blank'>FRIDAYNIGHTJUNE25</a>",
 "SPRING","2021-06-19","22","<a href=http://www.uschess.org/msa/XtblMain.php?202106199082 target='_blank'>DER SPRINGERS</a>",
-"KATY","2021-06-19","6","<a href=http://www.uschess.org/msa/XtblMain.php?202106194632 target='_blank'>SR HESSKNIGHTS 6192021</a>",
-"SPRING","2021-06-18","18","<a href=http://www.uschess.org/msa/XtblMain.php?202106188612 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2021-06-18","15","<a href=http://www.uschess.org/msa/XtblMain.php?202106188602 target='_blank'>FBCC MIDDLE JUNE OPEN</a>",
-"CYPRESS","2021-06-18","6","<a href=http://www.uschess.org/msa/XtblMain.php?202106184732 target='_blank'>05212021KOFC</a>",
 ]);
