@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first round of 16 match in this year&#39;s&#38;nbsp;I&#39;M Not A GM Speed Chess Championship featured an exciting battle between two well-known names in the chess streaming community: IM Levy Rozman (GothamChess), the number one chess streamer on YouTube...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-imscc-round-of-16-rozman-defeats-nemo",
+         "pubDate" : "Mon, 09 May 2022 16:29:42 -0700",
+         "title" : "Rozman Defeats Nemo: 2022 IMSCC, Round Of 16"
+      },
+      {
+         "description" : "Wesley So emerged as the sole leader after five played rounds at the Grand Chess Tour Romania 2022. Read more: So maintains the sole lead at Grand Chess Tour Romania 2022 In the exclusive interview So spoke about his personal life, childhood, things he likes to do, how his perfect day looks Speaking about what []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/interview-with-wesley-so-everyone-except-magnus-has-a-lot-of-weaknesses-video/",
+         "pubDate" : "Mon, 09 May 2022 21:00:02 +0000",
+         "title" : "Interview with Wesley So: \"Everyone except Magnus has a lot of weaknesses\" (VIDEO)"
+      },
+      {
+         "description" : "Day 5 of the Superbet Chess Classic Romania came with an exciting finish with Fabiano Caruana taking down Azeri Shakhriyar Mamedyarov to get back to fifty percent. Today&#x2019;s games brought some surprise lines and missed opportunities, but was overall a peaceful day. Going into tomorrow&#x2019;s rest day, Grandmaster Wesley So has drawn his game and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/caruana-scores-so-maintains-the-sole-lead-grand-chess-tour-romania-2022-r5-recap/",
+         "pubDate" : "Mon, 09 May 2022 20:26:29 +0000",
+         "title" : "Caruana scores, So maintains the sole lead; Grand Chess Tour Romania 2022 - R5 recap"
+      },
+      {
          "description" : "Less than two weeks after winning the Capablanca Memorial, Hans Niemann claimed outright victory at the TePe Sigeman & Co tournament in Malm&ouml;. Niemann scored 5/7 points to finish a full point ahead of a three-player chasing pack, which consisted of Michael Adams, Nils Grandelius and Arjun Erigaisi. | Photo: Lars OA Hedlund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -248,22 +272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1741",
          "pubDate" : "Sun, 08 May 2022 20:16:40 +0000",
          "title" : "2022 GCT Superbet Chess Classic Romania: Day 4 Recap"
-      },
-      {
-         "description" : "Day 4 of the Superbet Chess Classic Romania was projected to be another eventful day and it did not fail to disappoint. With three decisive games, and quickly approaching the halfway point of the tournament we can only expect to see more thrilling games in future rounds. After an exciting game to take down one []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/decisive-results-in-the-majority-grand-chess-tour-romania-2022-r4-recap/",
-         "pubDate" : "Sun, 08 May 2022 20:14:15 +0000",
-         "title" : "Decisive results in the majority; Grand Chess Tour Romania 2022 - R4 recap"
-      },
-      {
-         "description" : "The 21st edition of the IPCA World Individual Chess Championship 2022 kicks off tomorrow in Ashdod, Israel. The championship will be held in Hotel &#x201C;Leonardo&#x201D; from&#160;8-17 May.LIVE now:&#160;Grand Chess Tour Romania 2022&#160;/&#160;TePe Sigeman &#38; Co 2022&#160; The physically disabled chess players &#x2013; men, women and juniors (2002 year of birth and younger) will compete in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ipca-world-individual-chess-championship-2022/",
-         "pubDate" : "Sun, 08 May 2022 19:29:57 +0000",
-         "title" : "IPCA World Individual Chess Championship 2022"
       },
       {
          "description" : " Regular readers will probably be aware of my views that, in general, you will learn more from the games of players 200-300 points stronger than you than from the games of players 1000 points stronger than you. To put it another way, you might learn from: Your own games: learning from the mistakes you made <a href=\"https://chessimprover.com/110-instructive-chess-annotations/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"110 Instructive Chess Annotations\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/110-instructive-chess-annotations/\">110 Instructive Chess Annotations</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The ",
@@ -1338,7 +1346,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#46;&#119;&#105;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#64;b&#116;&#105;&#110;&#116;&#x65;&#x72;&#x6e;&#x65;&#x74;&#46;c&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#x72;&#x2e;&#x77;i&#99;&#107;&#x68;&#x61;m&#64;&#98;&#x74;&#x69;nt&#101;&#x72;&#x6e;&#x65;t&#46;&#x63;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1744,14 +1752,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1714",
          "pubDate" : "Wed, 27 Apr 2022 23:27:04 +0000",
          "title" : "Carlsen and Praggnanandhaa set up final day shootout"
-      },
-      {
-         "description" : "The 2022 Junior Speed Chess Championship quarterfinals, brought to you by SIG, commenced today with GM Nihal Sarin taking on IM Christoper Yoo in an explosive encounter that ended with a 15-11 score in favor of the reigning champion. Proving dom...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-quarterfinal-nihal-yoo",
-         "pubDate" : "Wed, 27 Apr 2022 16:11:05 -0700",
-         "title" : "Nihal Overwhelms Yoo 2022: Junior Speed Chess Championship Quarterfinal"
       },
       {
          "description" : "London, with its rich chess tradition, has been the scene of many great tournaments. One of these, the London International Tournament of 1883, happened at an important point in history. It is remembered mainly as the event that led to the first World Chess Championship, which, in turn, formalized the title of World Champion. Johannes Zukertort (pictured) won the tournament ahead of Wilhelm Steinitz, and in 1886, three years after London, they played the first official World Championship match against each other.",
@@ -2288,14 +2288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1694",
          "pubDate" : "Tue, 19 Apr 2022 07:52:49 +0000",
          "title" : "FIDE announces long-term cooperation with the Scheinberg family"
-      },
-      {
-         "description" : " <p class=\"lead\">In an <a href=\"https://www.vg.no/sport/i/G3Llvl/her-forklarer-carlsen-hvorfor-han-trolig-gir-fra-seg-vm-tittelen\">interview with VG</a>, a Norwegian news site, Magnus Carlsen, the undefeated World Chess Champion, gave the strongest indication to date that he will not defend his title, come the World Chess Championship match next year. But he can still change his mind. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/69D102F2-60FF-478B-8277-D9A23E7402A3.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen in London in 2018. He won his match against Fabiano Caruana.</div> </div> Our Norwegian is a bit rusty, but it'",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/magnus-carlsen-will-really-really-give-up-his-championship-title/",
-         "pubDate" : "Mon, 18 Apr 2022 21:18:33 +0000",
-         "title" : "Magnus Carlsen Will Really, Really Give Up His Championship Title, Maybe"
       }
    ]
 }
