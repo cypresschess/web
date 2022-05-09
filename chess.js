@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Mitropa Cup for teams ended on Sunday with a victory for the French team in both the open and the women's events (photo: the French open team). In the open, Slovakia and Hungary finished second and third respectively, much like among the women. The tournament took place in the town of Corte on the French Mediterranean island of Corsica. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mitropa-cup-double-gold-france",
+         "pubDate" : "Mon, 09 May 2022 09:00:00 +0100",
+         "title" : "Mitropa Cup: Double gold for France"
+      },
+      {
+         "description" : "Dear Chess Friends, The following valid nominations have been received within the deadline of the 6th May 2022, for the ECU Board elections 2022. . A Ticket of &#160;Mr. Zurab Azmaiparashvili: President: Mr. Zurab Azmaiparashvili (GEO) Deputy President:&#160;Mrs. Dana Reizniece-Ozola&#160;(LAT) Vice President: Mr. Malcolm Pein. (ENG) Vice President: Mr. Gunnar Bjornsson (ISL) Secretary General:&#160;Mr. Theodoros Tsorbatzoglou (GRE)&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/circular-letter-no-2-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/circular-letter-no-2-2022/",
+         "pubDate" : "Mon, 09 May 2022 06:03:40 +0000",
+         "title" : "Circular Letter No.2/2022"
+      },
+      {
+         "description" : "Kindly find attached links for live games of MPL 34th National Under - 14 Open &#38; Girls Chess Championships 2022 going on Ahmedabad, Gujarat. Open : https://view.livechesscloud.com/#3781caaa-20c5-40ff-acaf-b567bfea710c",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-of-mpl-34th-national-under-14-open-girls-chess-championships-2022/",
+         "pubDate" : "Mon, 09 May 2022 04:20:01 +0000",
+         "title" : "live games of MPL 34th National Under - 14 Open & Girls Chess Championships 2022"
+      },
+      {
          "description" : "The 13th week of the Rapid Chess Championship, brought to you by Coinbase, saw GM Hikaru Nakamura outwit a strong field and take home the top spot in the knockout while GM Samuel Sevian won the Swiss event by a convincing one-point margin.&#38;nbsp; ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1058,7 +1082,7 @@ news_feed (
          "title" : "Susan Namangale: \"I want to be a part of the change\""
       },
       {
-         "description" : "Mother&#39;s Day is today in many parts of the world, and it&#39;s time to start celebrating and showing appreciation to that special someone who gave you life. Three new mom bots are waiting on our Play Computer page to spend some quality time with you a...",
+         "description" : "Mother&#39;s Day has come to many parts of the world, and it&#39;s time to celebrate and show appreciation to that special someone who gave you life. Three new mom bots are waiting on our Play Computer page to spend some quality time with you and play che...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/play-chess-against-mothers-day-bots",
@@ -1226,7 +1250,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#114;&#46;&#x77;&#x69;&#99;k&#x68;&#x61;&#109;&#64;&#x62;&#x74;&#105;n&#x74;&#x65;&#114;n&#x65;&#x74;&#46;c&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#x77;&#105;c&#x6b;&#x68;&#97;m&#x40;&#x62;&#116;i&#x6e;&#x74;&#101;r&#x6e;&#101;&#116;&#46;&#x63;&#111;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1624,14 +1648,6 @@ news_feed (
          "link" : "https://aicf.in/western-asian-youth-chess-championship-2022/",
          "pubDate" : "Thu, 28 Apr 2022 10:42:54 +0000",
          "title" : "Western Asian Youth Chess Championship 2022"
-      },
-      {
-         "description" : "The Queens' Online Chess Festival 2022, a series of continental women's online blitz tournaments, starts on June 05, 2022. The event organized by FIDE Commission",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/queens-online-chess-festival-2022/",
-         "pubDate" : "Thu, 28 Apr 2022 10:01:42 +0000",
-         "title" : "Queens' Online Chess Festival 2022"
       },
       {
          "description" : "",
@@ -2058,14 +2074,6 @@ news_feed (
          "title" : "Oslo Esports Cup: Pragg starts off with a win"
       },
       {
-         "description" : "The European School Chess Championship 2022 kicked off yesterday in Rhodes, Greece. The event was opened shortly before the first round with speeches of the ECU President Mr. Zurab Azmaiparashvili the Vice Governor of South Aegean Sea Mr. Nikos Nikolis and ECU Secretary General Mr. Theodoros Tsorbatzoglou. The ECU president made the first ceremonial move to open the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2022-opens/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-school-chess-championship-2022-opens/",
-         "pubDate" : "Sat, 23 Apr 2022 05:32:29 +0000",
-         "title" : "European School Chess Championship 2022 opens"
-      },
-      {
          "description" : "An experienced trainer, Ivan Sokolov has worked with the Iranian team for a number of years, helping the likes of Alireza Firouzja and Parham Maghsoodloo to develop their talent. In his first FritzTrainer series for ChessBase, he showcases a pragmatic style, focusing on general ideas rather than specific lines. One of the games analysed in the section devoted to rolling pawns is Boris Gelfand versus Aleksey Dreev from Tilburg 1993, which included a couple of magnificent long-term sacrifices by Black!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2096,14 +2104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-pragg-gukesh",
          "pubDate" : "Fri, 22 Apr 2022 17:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Pragg and Gukesh grab the prizes"
-      },
-      {
-         "description" : "This Saturday, 23 April 2022, from 13.00 CEST (7.00 ET, 11.00 UTC) to 16.00 CEST will see a solidarity match between teams from Norway and Ukraine. Magnus Carlsen leads the Norwegian team that meets in the Good Knight Pub in the centre of Oslo. Former world number two Vasyl Ivanchuk leads the Ukrainian side. The match will be streamed in English from the Good Knight pub on the channel of the Offerspill chess club on Twitch.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/solidarity-match-norway-ukraine-with-carlsen-and-ivanchuk",
-         "pubDate" : "Fri, 22 Apr 2022 15:49:47 +0100",
-         "title" : "Solidarity match Norway - Ukraine with Carlsen and Ivanchuk"
       },
       {
          "description" : " It has been a busy week for me, but the upside is I did get to add to my collection of weird chess incidents. Todays Junior Rapidplay event was for Under 18 Juniors, which normally sees a little more commons sense play. Nonetheless there was a QvQ ending (without pawns) that was *not* draw after one player thought that they were losing their queen to a skewer, missing the fact that the king to move and defend their queen! Reaching back to the Doeberl Cup there was a disputed result between two junior players in the blitz. Both players claimed they had one (which was kind of true), although one player said he won the 'real' game, but then lost the 'practice' game. The second player simply sa",
