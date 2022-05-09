@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 13th week of the Rapid Chess Championship, brought to you by Coinbase, saw GM Hikaru Nakamura outwit a strong field and take home the top spot in the knockout while GM Samuel Sevian won the Swiss event by a convincing one-point margin.&#38;nbsp; ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-13-nakamura-wins",
+         "pubDate" : "Sun, 08 May 2022 19:19:00 -0700",
+         "title" : "Nakamura Wins Third Knockout: Rapid Chess Championship Week 13"
+      },
+      {
+         "description" : "If you were getting used to just one decisive game per round, then Sunday&#39;s round rocks your world with three decisive games, lots of blunders, and electrifying action. Winners were GM Wesley So who prevailed over co-loader GM Ian Nepomniachtchi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-4",
+         "pubDate" : "Sun, 08 May 2022 17:14:00 -0700",
+         "title" : "Wesley So Wins Again, Takes Lead: 2022 Superbet Chess Classic Romania, Day 4"
+      },
+      {
          "description" : "Wesley So is the sole leader of the Superbet Chess Classic in Bucharest after Ian Nepomniachtchi finally cracked under the pressure of being a pawn down for most of their Round 4 game. Levon Aronian also converted an extra pawn, against Leinier Dominguez, while Maxime Vachier-Lagrave refuted Fabiano Caruana's exchange sacrifice to grab the 3rd win of the day. There were eventful draws in Firouzja-Rapport and Mamedyarov-Deac.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/superbet-classic-4-so-leads-as-mvl-aronian-also-strike",
          "pubDate" : "Sun, 08 May 2022 21:49:24 +0000",
          "title" : "Superbet Classic 4: So leads as MVL & Aronian also strike"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1741",
+         "pubDate" : "Sun, 08 May 2022 20:16:40 +0000",
+         "title" : "2022 GCT Superbet Chess Classic Romania: Day 4 Recap"
       },
       {
          "description" : "Day 4 of the Superbet Chess Classic Romania was projected to be another eventful day and it did not fail to disappoint. With three decisive games, and quickly approaching the halfway point of the tournament we can only expect to see more thrilling games in future rounds. After an exciting game to take down one []",
@@ -146,7 +170,7 @@ news_feed (
          "title" : "Superbet Chess Classic - Live!"
       },
       {
-         "description" : " Share!Top-seed Brewington Hardaway won the K8 National Championship on tiebreaks over four co-champions. All ended with 6/7. Now 13, Brewington has continued to improve and adds the K8 title to add to the 7th grade title he won at the K12 Championships in December. He also got 9/9 in the XXXI Pan American Youth Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/\">Brewington Hardaway wins K8!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Share!2Top-seed Brewington Hardaway won the K8 National Championship on tiebreaks over four co-champions. All ended with 6/7. Now 13, Brewington has continued to improve and adds the K8 title to add to the 7th grade title he won at the K12 Championships in December. He also got 9/9 in the XXXI Pan American Youth Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/\">Brewington Hardaway wins K8!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/",
@@ -1202,7 +1226,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#x69;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#x40;&#x62;&#x74;&#x69;&#x6e;&#x74;&#x65;&#x72;&#x6e;&#x65;&#x74;&#46;&#99;&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#114;&#46;&#x77;&#x69;&#99;k&#x68;&#x61;&#109;&#64;&#x62;&#x74;&#105;n&#x74;&#x65;&#114;n&#x65;&#x74;&#46;c&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1650,28 +1674,12 @@ news_feed (
          "title" : "Nihal Overwhelms Yoo 2022: Junior Speed Chess Championship Quarterfinal"
       },
       {
-         "description" : "Another regular season of Arena Kings in the books, with the Championship Final of Season 9 coming next week. Week 12 ended the way the last four weeks had, with a victory for GM Hikaru Nakamura. Despite falling behind 2-0 in the final against GM ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-arena-kings-season-9-week-12",
-         "pubDate" : "Wed, 27 Apr 2022 14:27:58 -0700",
-         "title" : "Nakamura Pushes Back Bortnyk's Major Challenge In Arena Kings Season 9 Week 12"
-      },
-      {
          "description" : "London, with its rich chess tradition, has been the scene of many great tournaments. One of these, the London International Tournament of 1883, happened at an important point in history. It is remembered mainly as the event that led to the first World Chess Championship, which, in turn, formalized the title of World Champion. Johannes Zukertort (pictured) won the tournament ahead of Wilhelm Steinitz, and in 1886, three years after London, they played the first official World Championship match against each other.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/london-1883-prelude-to-the-first-world-championship-match-april-26-1883-june-23-1883",
          "pubDate" : "Wed, 27 Apr 2022 22:00:00 +0100",
          "title" : "London 1883: Prelude to the First World Championship Match (April 26, 1883 - June 23, 1883)"
-      },
-      {
-         "description" : "In two hard-fought matches in the Elimination Brackets, day seven decided who would make it to the finals of The American Cup and face GMs Fabiano Caruana and Irina Krush. In group A, GM Levon Aronian&#38;nbsp;outlasted GM Lenier Dominguez; in Group...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-american-cup-day-7",
-         "pubDate" : "Wed, 27 Apr 2022 11:50:00 -0700",
-         "title" : "Aronian, Lee Win In Elimination Brackets: The American Cup Day 7"
       },
       {
          "description" : " Broadcasting tournament games used to rely on having your own dedicated website. These days chess platforms have realised that such broadcasts can help bring users in, and have started offering it as a free service. Chess24 were probably the pioneers here, but other platforms are catching up. Both chess.com and lichess contacted me to stream the O2C Doeberl Cup this year, while 'Follow chess' normally carries it as well. If you are an organiser looking to use these services, each platform normally has instructions to follow (eg <a href=\"https://www.chess.com/article/view/how-to-broadcast-your-games-on-chesscom\">https://www.chess.com/article/view/how-to-broadcast-your-games-on-chesscom</a> f",
