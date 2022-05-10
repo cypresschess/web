@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his 'Weekly Show' Lawrence Trent focuses on the Superbet Chess Classic currently taking place in Romania. He looks at a fine win by Fabiano Caruana over Shakhriyar Mamedyarov. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-a-nice-squeeze-by-caruana",
+         "pubDate" : "Tue, 10 May 2022 19:30:00 +0100",
+         "title" : "The Weekly Show: A nice squeeze by Caruana"
+      },
+      {
+         "description" : "Titled Tuesday presented by SEOCrawl took a surprising turn on May 10 as none other than GM Magnus Carlsen played in the early event, his first games on Chess.com since February 2021. Carlsen delivered, effectively clinching the tournament with a ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-surprise-titled-tuesday-appearance-may-10-2022",
+         "pubDate" : "Tue, 10 May 2022 11:20:00 -0700",
+         "title" : "Carlsen Wins Surprise Titled Tuesday Appearance"
+      },
+      {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras Last week we saw how a bad opening setup has put White in a lost position. Black obliged but his attack came with hesitation and missed a couple of clear wins. Have another look at the position we stopped at with Black up an exchange. This should also <a href=\"https://chessimprover.com/quick-decisions-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-9/\">Quick Decisions (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -64,6 +80,14 @@ news_feed (
          "link" : "https://www.chessdom.com/huge-bluff-from-magnus-carlsen-tweetoftheday/",
          "pubDate" : "Tue, 10 May 2022 12:56:42 +0000",
          "title" : "HUGE BLUFF from Magnus Carlsen! #TweetOftheDay"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1746",
+         "pubDate" : "Tue, 10 May 2022 12:46:42 +0000",
+         "title" : "Batumi to host FIDE World Cadets Chess Championships 2022"
       },
       {
          "description" : "Another brutal round in Bucharest has concluded with a similar pattern as the first three rounds: one victory and four draws. This time, it was GM Fabiano Caruana who beat the luckless winner of last year&#39;s event GM Shakhriyar Mamedyarov. There we...",
@@ -1450,7 +1474,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;&#119;&#105;&#99;&#x6b;&#x68;&#x61;&#x6d;&#x40;&#x62;&#x74;int&#101;&#114;&#110;&#101;&#116;&#x2e;&#x63;&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#x72;&#46;&#119;&#x69;c&#107;&#x68;&#x61;&#109;&#x40;&#x62;t&#105;&#x6e;t&#101;&#x72;&#x6e;&#101;&#x74;&#x2e;c&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1770,14 +1794,6 @@ news_feed (
          "title" : "FIDE Candidates Tournament: Drawings of lots and pairings"
       },
       {
-         "description" : "After nine weeks, the Collegiate Chess League&#39;s fourth regular season has finally come to an end, and the playoffs have begun! The teams&#39; standings have been finalized, and they have been placed in single elimination brackets to fight for their sh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-playoffs",
-         "pubDate" : "Thu, 28 Apr 2022 09:47:55 -0700",
-         "title" : "Collegiate Chess League Season 4: Playoffs"
-      },
-      {
          "description" : "Arne loves to attack, as you probably know by now. But for many players, attacking is a rather difficult task to fulfil. Svitlana shows us how to attack from scratch. One move in a certain position is all it needs. The purpose, the strategy, and the following tactics are working hand in hand, as Svitlana points out. We also take a look at one of her recently played games OTB.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2034,14 +2050,6 @@ news_feed (
          "title" : "Escape from Lviv"
       },
       {
-         "description" : "Grandmasters Fabiano Caruana (pictured) and Irina Krush are one step closer to the finals of the American Cup, after winning the first games of their final matches in the Champions Bracket. This means GM Leinier Dominguez and FM Alice Lee are in a must-win situation in Monday to force a playoff. | Photos: Bryan Adams and Lennart Ootes, Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-day-5-recap",
-         "pubDate" : "Mon, 25 Apr 2022 13:40:58 +0100",
-         "title" : "American Cup, Day 5, Recap: Fine games and a strong novelty"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2280,14 +2288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1697",
          "pubDate" : "Wed, 20 Apr 2022 21:48:39 +0000",
          "title" : "Sandro Mareco and Sandra Guillen win LXVII Mexico National Open Championship "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1696",
-         "pubDate" : "Wed, 20 Apr 2022 13:59:49 +0000",
-         "title" : "FIDE increases Olympiad travel grants"
       },
       {
          "description" : " Another successful O2C Doeberl Cup has been run and done. In the tournament has 329 players in the main events (1 less than last year) and 136 in the Blitz (which was more than last year). So it is kind of a record field, without actually being a record field! Although the tournament itself is finished, there is still some organisational work today. prize money is being transferred to the lucky winners, while refunds are being made some unlucky entrants. In fact if anything stood out about this years events, it was the number of players who entered, and then un-entered before the start. In some cases there were good medical reasons (including being a covid close contact), but for others, it",
