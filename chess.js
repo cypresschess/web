@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "(picture Chris Ross at Sheffield Hallam University, where he holds a senior administrative role) Chris Ross, the UK's strongest ever fully blind chess player,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/blind-faith/",
+         "pubDate" : "Tue, 10 May 2022 11:26:14 +0000",
+         "title" : "Blind Faith"
+      },
+      {
          "description" : "When White wants to tackle the Sicilian Najdorf Variation - 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 - very directly, 6.Bg5 is a popular choice. After 6...e6 7.f4 the rare 7...b5, the Polugaevsky Variation, leads to sharp and difficult positions. Petra Papp brings the theory of this variation up to date in her article for ChessBase Magazine #207, explaining typical strategies and motifs for both sides.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1386,7 +1394,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#x72;&#x2e;&#x77;i&#99;&#x6b;&#x68;&#x61;m&#64;&#x62;&#x74;&#x69;n&#116;&#x65;&#x72;&#x6e;e&#116;&#x2e;&#x63;&#x6f;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#46;&#119;ic&#x6b;&#x68;&#x61;&#x6d;&#64;&#98;ti&#x6e;&#x74;&#x65;&#114;&#110;&#101;t&#46;&#x63;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
