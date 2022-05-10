@@ -2,7 +2,47 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "On first sight, things look grim for White in the diagrammed position as it is hard to see what he can do against the advance of Black's f-pawn. However, White remembered the rule that pawn endings should be calculated carefully and found a way to draw. What did he do?",
+         "description" : "When White wants to tackle the Sicilian Najdorf Variation - 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 - very directly, 6.Bg5 is a popular choice. After 6...e6 7.f4 the rare 7...b5, the Polugaevsky Variation, leads to sharp and difficult positions. Petra Papp brings the theory of this variation up to date in her article for ChessBase Magazine #207, explaining typical strategies and motifs for both sides.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-very-special-najdorf",
+         "pubDate" : "Tue, 10 May 2022 12:00:00 +0100",
+         "title" : "A very special Najdorf"
+      },
+      {
+         "description" : "Fabiano Caruana bounced back from losing to Maxime Vachier-Lagrave to beat Shakhriyar Mamedyarov in Round 5 of the Superbet Chess Classic and go into the rest day on 50%. The other games were drawn, so that Wesley So continues to be the sole leader on +2. Richard Rapport's 1.e4 e5 2.Ne2!? failed to unsettle Leinier Dominguez, while the most exciting game of the day was Deac-Firouzja, where Alireza pounced on a time-trouble blunder by his opponent but was unable to convert an extra piece into a win.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-5-caruana-hits-straight-back",
+         "pubDate" : "Tue, 10 May 2022 10:33:04 +0000",
+         "title" : "Superbet Chess Classic 5: Caruana hits straight back"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1744",
+         "pubDate" : "Tue, 10 May 2022 10:21:36 +0000",
+         "title" : "2022 GCT Superbet Chess Classic Romania: Day 5 Recap"
+      },
+      {
+         "description" : "Sergey Karjakin was born in 1990 in Simferopol, the second-largest city in Crimea - Ukrainian territory that was annexed by Russia in 2014. At 12 he became (at the time) the youngest grandmaster in history. In the past months, Karjakin publicly supported the Russian assault on Ukraine, for which he was banned for six months from all FIDE chess competitions. Now he has sought revenge with a deep-fake call to FIDE Director General GM Emil Sutovsky. The British Chess Magazine reports.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karjakin-s-prank-call",
+         "pubDate" : "Tue, 10 May 2022 10:00:00 +0100",
+         "title" : "Karjakin's prank call"
+      },
+      {
+         "description" : "The compositions of Spanish (Open and Women's) teams for the upcoming 44th Chess Olympiad 2022 in Chennai have been announced!Read more: Kenya Teams for 44th Chess Olympiad 2022 / India teams for Chess Olympiad 2022 announced / German Team for 44th Chess Olympiad 2022 to be captained by Jan Gustafsson Spanish Team (Open section): Francisco []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/spain-announces-teams-for-44th-chess-olympiad-2022/",
+         "pubDate" : "Tue, 10 May 2022 08:57:19 +0000",
+         "title" : "Spain announces teams for 44th Chess Olympiad 2022"
+      },
+      {
+         "description" : "On first sight, things look grim for White in the diagrammed position as it is hard to see what he can do against the advance of Black's f-pawn. However, White remembered the rule that pawn endings should be calculated carefully and found a way to get a draw. What did he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/poisoned-pawn",
@@ -210,14 +250,6 @@ news_feed (
          "title" : "National U-12 Certificates are out to Download"
       },
       {
-         "description" : "The&#xA0;FIDE Candidates Chess 2022&#xA0;was announced in late December last year, with the dates, place and the sponsor. FIDE disclosed the event will take place in Madrid, June 16 &#x2013; July 7 The Candidates Chess 2022 is an 8 player double round robin tournament with some of the world&#x2019;s top Grandmasters. Full info: Candidates Chess 2022 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/candidates-madrid-2022-tiebreak-rules-announced/",
-         "pubDate" : "Mon, 09 May 2022 09:57:56 +0000",
-         "title" : "Candidates Madrid 2022 tiebreak rules announced"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -226,12 +258,12 @@ news_feed (
          "title" : "FIDE Candidates 2022: tiebreaker play-off format"
       },
       {
-         "description" : "The traditional TePe Sigeman & Co tournament is taking place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars is likely to make for an enjoyable tournament, as defending champion Jorden van Foreest will be joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. Round 7 starts Monday at 12.00 CEST. | Photo: Lars OA Hedlund",
+         "description" : "The traditional TePe Sigeman & Co tournament took place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars made for an enjoyable tournament, as defending champion Jorden van Foreest was joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. | Photo: Lars OA Hedlund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-live",
          "pubDate" : "Mon, 09 May 2022 08:45:00 +0100",
-         "title" : "TePe Sigeman & Co - Live!"
+         "title" : "TePe Sigeman & Co - Games and results"
       },
       {
          "description" : "Dear Chess Friends, The following valid nominations have been received within the deadline of the 6th May 2022, for the ECU Board elections 2022. . A Ticket of &#160;Mr. Zurab Azmaiparashvili: President: Mr. Zurab Azmaiparashvili (GEO) Deputy President:&#160;Mrs. Dana Reizniece-Ozola&#160;(LAT) Vice President: Mr. Malcolm Pein. (ENG) Vice President: Mr. Gunnar Bjornsson (ISL) Secretary General:&#160;Mr. Theodoros Tsorbatzoglou (GRE)&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/circular-letter-no-2-2022/\">Read More &#187;</a></span>",
@@ -1354,7 +1386,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;wick&#104;&#97;&#109;&#64;&#98;&#116;&#105;&#110;&#116;&#101;&#x72;&#x6e;&#x65;&#x74;&#x2e;&#x63;&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#x72;&#x2e;&#x77;i&#99;&#x6b;&#x68;&#x61;m&#64;&#x62;&#x74;&#x69;n&#116;&#x65;&#x72;&#x6e;e&#116;&#x2e;&#x63;&#x6f;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1722,14 +1754,6 @@ news_feed (
          "title" : "Oslo Esports Cup, Round 6: Carlsen wins, Praggnanandhaa loses"
       },
       {
-         "description" : "World Chess Champion Magnus Carlsen was critical of his play in the penultimate round of the Oslo Esports Cup, but his 2.5:0.5 win over Eric Hansen was enough to take him back into the lead after Praggnanandhaa lost by the same scoreline to Jan-Krzysztof Duda. Liem Le is also in the hunt for 1st place after defeating Anish Giri with some help from a mouse-slip, while Shakhriyar Mamedyarov pulled off a comeback when Jorden van Foreest missed countless chances to wrap up victory.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/oslo-esports-cup-6-carlsen-back-in-front-as-duda-stops-pragg",
-         "pubDate" : "Thu, 28 Apr 2022 11:06:57 +0000",
-         "title" : "Oslo Esports Cup 6: Carlsen back in front as Duda stops Pragg"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2002,14 +2026,6 @@ news_feed (
          "title" : "Indian GM Gukesh wins Menorca Open chess tourney"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 76th instalment of his ChessBase show \"Understanding before Moving\", Herman shows how hanging pawns can come under pressure. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-76-hanging-pawns-under-pressure",
-         "pubDate" : "Sun, 24 Apr 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 76: Hanging pawns under pressure"
-      },
-      {
          "description" : " FIDE Master Tani Adewumi is growing up right before our eyes. He recently notched the first of three required &#8220;norms&#8221; for the title of International Master. It was only three years ago that the story broke of an 8-year-old winning the New York Scholastic State Title. A New York Times story broke about his Nigerian The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/24/first-im-norm-for-tani-adewumi/\">First IM norm for Tani Adewumi!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2048,14 +2064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1704",
          "pubDate" : "Sun, 24 Apr 2022 11:53:18 +0000",
          "title" : "Drama in Round 2 of the Oslo Esports Cup"
-      },
-      {
-         "description" : "The ChessBase Opening Encyclopedia contains a collection of all opening surveys from the ChessBase Magazine and much more. Among other things, the new issue of the Opening Encyclopedia includes videos by GM Dorian Rogozenco in which he presents current opening trends in modern top level chess. Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/exploring-the-chessbase-opening-encyclopedia-dorian-rogozenco-s-shows-current-opening-trends",
-         "pubDate" : "Sun, 24 Apr 2022 12:00:00 +0100",
-         "title" : "Exploring the ChessBase Opening Encyclopedia: Dorian Rogozenco shows current opening trends"
       },
       {
          "description" : " <p class=\"lead\">Popular chess site chess.com has been blocked by Russian authorities for alleged violations against Russian chess players. Sergey Karjakin, Russian elite Grandmaster and outspoken Putin supporter has been recently banned by the site and appealed to the authorities to investigate chess.com. The site has voiced support for Ukraine after Russia attacked the country. Later, chess.com switched the flag of its Russian members to FIDE. According to Karjakin, this amounts to a severe violation of Russia's rules. The country's Prosecutor's office has requested to ban the site. Chess.com has been active in Russia and recently invested in Russian-languages streaming, adding Alexandra K",
@@ -2280,14 +2288,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/4/18/ep-275-im-ali-mortazavi",
          "pubDate" : "Tue, 19 Apr 2022 13:17:41 +0000",
          "title" : "EP 275- IM Ali Mortazavi- A CEO and Successful Stock Investor on how the Challenges of Chess Help Everything Else Seem Easier"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1694",
-         "pubDate" : "Tue, 19 Apr 2022 07:52:49 +0000",
-         "title" : "FIDE announces long-term cooperation with the Scheinberg family"
       }
    ]
 }
