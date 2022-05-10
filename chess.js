@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " \"Choices are the hinges of destiny\" Pythagoras Last week we saw how a bad opening setup has put White in a lost position. Black obliged but his attack came with hesitation and missed a couple of clear wins. Have another look at the position we stopped at with Black up an exchange. This should also <a href=\"https://chessimprover.com/quick-decisions-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-9/\">Quick Decisions (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/quick-decisions-9/",
+         "pubDate" : "Tue, 10 May 2022 15:23:32 +0000",
+         "title" : "Quick Decisions (9)"
+      },
+      {
+         "description" : "The German Youth Individual Chess Championships 2022 will be played from June 4th to June 11th in the Sauerland Stern Hotel in Willingen, the city that hosts German Youth Championships since 1996. Read more: France crowns Youth and Junior Chess Champions 2022 / European Youth Chess Championship 2022 More than 600 children will compete for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/german-youth-individual-chess-championships-2022/",
+         "pubDate" : "Tue, 10 May 2022 15:07:17 +0000",
+         "title" : "German Youth Individual Chess Championships 2022"
+      },
+      {
+         "description" : "Just coming off his victory at the Capablanca Memorial, GM Hans Niemann also emerged victoriously at the Tepe Sigeman &#38;amp; Co Tournament in Malmo, Sweden. The 18-year-old American grandmaster finished on 5/7, a point clear of the pack. How to w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hans-niemann-wins-2022-tepe-sigeman-co-tournament",
+         "pubDate" : "Tue, 10 May 2022 07:58:08 -0700",
+         "title" : "Hans Niemann Wins 2022 Tepe Sigeman & Co Tournament"
+      },
+      {
+         "description" : "A Durham County Chess Congress 2022 took place over the weekend of 6-8 May in the Dolphin Centre, Darlington. Three chess events Open tournament, Major event and Minor championship attracted a total of 159 entries and were played in 5 rounds, swiss system, with time control 100 min + 10 sec increment.LIVE now: Grand []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-winners-of-durham-chess-congress-2022-announced/",
+         "pubDate" : "Tue, 10 May 2022 14:38:05 +0000",
+         "title" : "The Winners of Durham Chess Congress 2022 announced"
+      },
+      {
+         "description" : "Endgame tablebases can only be described as \"god chess\" as they are perfect information on all positions they cover, and the terms 'better' or 'worse' cease to have any meaning. Marc Bourzutschky has trained and resolved a large number of the 8-piece tablebase positions and shared his results and findings, as well as insights in a video interview.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/8-piece-endgame-tablebases-first-findings-and-interview",
+         "pubDate" : "Tue, 10 May 2022 15:00:00 +0100",
+         "title" : "8-piece endgame tablebases - first findings and interview!"
+      },
+      {
+         "description" : " The position below is from a game I played tonight, and is just before a draw was agreed. Weirdly Deep Fritz thinks that Black is clearly better in this position. Sure Black is a piece up, but the knight cannot jump across the board to engineer a very unlikely mate. I guess this shows that there is still some differences between humans and chess engines. <br /> <script>new PgnViewer( { boardName: \"game1327\", movesFormat: \"default\", pgnString:'[FEN \"7n/7P/8/8/2k5/p7/8/1K6 w - - 0 52\"]', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1327-container\"></div><div id=\"game1327-moves\"></div><br />",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/clearly-better-for-black.html",
+         "pubDate" : "Tue, 10 May 2022 13:30:00 +0000",
+         "title" : "Clearly better for black?"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/7d159203-a6db-4d9f-b968-154eaf8f6ff3/JanG2022.jpg\" data-image-dimensions=\"1142x574\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"627a644f1f1d0e79a7b65678\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/7d159203-a6db-4d9f-b968-154eaf8f6ff3/JanG2022.jpg?format=1000w\" /> </figure> <p class=\"\">GM Jan Gustafsson is a popular and entertaining commentator for Chess24.com, a noted opening theoretician, a Chessable author, and 3 time member of GM Magnus Carlsen's World",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/5/10/ep-278-gm-jan-gustafsson-the-popular-chess24-commentator-discusses-the-world-championships-chess-openings-the-state-of-his-chess-game-and-his-new-chess-podcast",
+         "pubDate" : "Tue, 10 May 2022 13:16:20 +0000",
+         "title" : "Ep 278- GM Jan Gustafsson- The Popular Chess24 Commentator discusses the World Championships, Chess Openings, The State of his Chess Game, and his new Chess Podcast "
+      },
+      {
+         "description" : "The reigning World Chess Champion Magnus Carlsen tried himself in the major Norwegian poker event Norges-Mesterskapet. The event was happening in Dublin, as live poker for money is not legal in Norway. Out of 1500 players, Magnus finished 25th, surprising the professional poker players who competed next to him. (Scroll down for the full []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/huge-bluff-from-magnus-carlsen-tweetoftheday/",
+         "pubDate" : "Tue, 10 May 2022 12:56:42 +0000",
+         "title" : "HUGE BLUFF from Magnus Carlsen! #TweetOftheDay"
+      },
+      {
+         "description" : "Another brutal round in Bucharest has concluded with a similar pattern as the first three rounds: one victory and four draws. This time, it was GM Fabiano Caruana who beat the luckless winner of last year&#39;s event GM Shakhriyar Mamedyarov. There we...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-5",
+         "pubDate" : "Tue, 10 May 2022 05:28:00 -0700",
+         "title" : "Caruana Strikes: 2022 Superbet Chess Classic Romania, Day 5"
+      },
+      {
+         "description" : "The 79th LOTTO Polish Championship and the 74th Polish Women's Chess Championship kicked off yesterday in Kruszwica. The events are simultaneously played from 9-17 May 2022. The Men's Championship is a 16-player knockout tournament with two classical games in each match, followed, if necessary, by two rapid games, then two blitz games, then Armageddon. The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/polish-chess-championships-2022-kicked-off-in-kruszwica/",
+         "pubDate" : "Tue, 10 May 2022 11:53:43 +0000",
+         "title" : "Polish Chess Championships 2022 kicked off in Kruszwica"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1745",
+         "pubDate" : "Tue, 10 May 2022 11:37:41 +0000",
+         "title" : "Chess in Education online conference announced"
+      },
+      {
          "description" : "(picture Chris Ross at Sheffield Hallam University, where he holds a senior administrative role) Chris Ross, the UK's strongest ever fully blind chess player,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -210,44 +298,12 @@ news_feed (
          "title" : "Inaugural function :The MPL 34th National Under-14 Chess Tournament for Open and Girls"
       },
       {
-         "description" : "The MegaChess set from RMD Recuperacion Materiales Diversos built from 1.250 recycled tires has just arrived in Stavanger, Norway! The chess pieces are made from recycled tires, weighing up to 240kg, and sit on the 100 squared meter chess board the largest chess board in the World! The King piece is 180cm tall, being []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/100-square-meter-chess-board-arrived-in-stavanger/",
-         "pubDate" : "Mon, 09 May 2022 11:41:06 +0000",
-         "title" : "100-square-meter Chess Board arrived in Stavanger"
-      },
-      {
          "description" : "Hamilton's slower-than-expected 40-yard dash time made him fall in the draft, and the Ravens couldn't be happier.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/blog/baltimore-ravens/post/_/id/55962/trusting-film-not-stopwatch-why-the-baltimore-ravens-believe-kyle-hamilton-is-a-steal?device=featurephone",
          "pubDate" : "Mon, 9 May 2022 06:00:51 -0500",
          "title" : "Trusting film, not stopwatch: Why the Baltimore Ravens believe Kyle Hamilton is a steal"
-      },
-      {
-         "description" : "1. Election procedures full information here 2. European Chess Championship 2024 By the deadline of the 29th&#160;of April 2022, the following bids has been received:&#160; &#160; 2.1 European Senior Teams Chess Championship 2024 Lignano, Sabbiadoro, Italy Brezice, Terme, Catez, Slovenia 2.2. European Senior Individual Chess Championship 2024 Porec, Croatia, Lignano, Sabbiadoro, Italy 2.3 European []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-chess-championships-2024-bids/",
-         "pubDate" : "Mon, 09 May 2022 10:29:20 +0000",
-         "title" : "European Chess Championships 2024 bids"
-      },
-      {
-         "description" : "The following valid&#160;nominations&#160;have been received within the deadline of the 6th&#160;May 2022, for the ECU Board elections 2022. . A&#160;&#x2013;&#160;Ticket of &#160;Mr. Zurab Azmaiparashvili: President: Mr. Zurab Azmaiparashvili (GEO) Deputy President:&#160;Mrs. Dana Reizniece-Ozola&#160;(LAT) Vice President: Mr. Malcolm Pein. (ENG) Vice President: Mr. Gunnar Bjornsson (ISL) Secretary General:&#160;Mr. Theodoros Tsorbatzoglou (GRE) Treasurer:&#160;Mr. Ion-Serban Dobronauteanu&#160;(ROM) B&#160;&#x2013;&#160;Nominations for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ecu-circular-letter-tickets-for-ecu-board-elections-and-general-assembly-location/",
-         "pubDate" : "Mon, 09 May 2022 10:22:42 +0000",
-         "title" : "ECU circular letter - tickets for ECU board elections and General assembly location"
-      },
-      {
-         "description" : "The Rio Negro International Chess Tournament 2022 will be played from 11-15 May in the Argentinian city of Cipolletto. More than 170 players from 7 countries registered for the tournament, competing for the total prize fund of 600.000 pesos in 9 rounds, swiss system. The battlefield is led by the two best rated Argentinians: GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rio-negro-international-chess-tournament-2022/",
-         "pubDate" : "Mon, 09 May 2022 10:15:15 +0000",
-         "title" : "Rio Negro International Chess Tournament 2022"
       },
       {
          "description" : "National Under-12 Chess Championships-2022, Karnataka (09-14 April) out to download Links:- Female https://aicf.online/U-12-Female.html Male https://aicf.online/U1-2-Male.html Any Correction Mail at : aicfwebmaster2021@gmail.com",
@@ -1394,7 +1450,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#46;&#119;ic&#x6b;&#x68;&#x61;&#x6d;&#64;&#98;ti&#x6e;&#x74;&#x65;&#114;&#110;&#101;t&#46;&#x63;&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;&#119;&#105;&#99;&#x6b;&#x68;&#x61;&#x6d;&#x40;&#x62;&#x74;int&#101;&#114;&#110;&#101;&#116;&#x2e;&#x63;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1722,14 +1778,6 @@ news_feed (
          "title" : "Collegiate Chess League Season 4: Playoffs"
       },
       {
-         "description" : "After intense rapid and blitz play action in the Elimination Brackets on Tuesday, the sanity of the Championship Brackets returned on Wednesday with GMs Fabiano Caruana and Levon Aronian meeting in Group A while Group B saw a repeat of GM&#38;nbsp;Iri...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-american-cup-day-8",
-         "pubDate" : "Thu, 28 Apr 2022 06:35:00 -0700",
-         "title" : "Krush Dominates In Championship Bracket: The American Cup Day 8"
-      },
-      {
          "description" : "Arne loves to attack, as you probably know by now. But for many players, attacking is a rather difficult task to fulfil. Svitlana shows us how to attack from scratch. One move in a certain position is all it needs. The purpose, the strategy, and the following tactics are working hand in hand, as Svitlana points out. We also take a look at one of her recently played games OTB.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1776,14 +1824,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/american-cup-day-8-aronian-and-caruana-draw-krush-wins-against-lee",
          "pubDate" : "Thu, 28 Apr 2022 07:33:13 +0100",
          "title" : "American Cup, Day 8: Aronian and Caruana draw, Krush wins against Lee"
-      },
-      {
-         "description" : "GMs Magnus Carlsen and Rameshbabu Praggnanandhaa&#38;nbsp;once again share the lead with 12 points after the penultimate day of play. They are followed closely by GMs Jan-Krzysztof Duda and Le Quang Liem, both with 11 points. Behind them, we find GM&#38;n...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oslo-esports-cup-day-6",
-         "pubDate" : "Wed, 27 Apr 2022 16:59:00 -0700",
-         "title" : "Carlsen Back In The Lead: Oslo Esports Cup Day 6"
       },
       {
          "description" : "",
@@ -2002,14 +2042,6 @@ news_feed (
          "title" : "American Cup, Day 5, Recap: Fine games and a strong novelty"
       },
       {
-         "description" : "After three rounds 16-year old Indian talent Praggnaanandhaa is sole leader at the Oslo Esports Cup and the only player who won all three matches. In round three Pragg defeated the Vietnamese Grandmaster Le Quang Liem. Magnus Carlsen, who seems to suffer from a severe cold, won against Anish Giri and after two wins and one loss he is in second place.| Photos and pictures: PM Group",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oslo-esports-cup-praggnanandhaa-wins-third-match-in-a-row",
-         "pubDate" : "Mon, 25 Apr 2022 11:39:30 +0100",
-         "title" : "Oslo Esports Cup: Praggnanandhaa wins third match in a row"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2194,14 +2226,6 @@ news_feed (
          "title" : "Attn. League and Club Secretaries"
       },
       {
-         "description" : " We've spent the last few months examining how you should go about selecting a move and some basic tactical ideas. While I didn't introduce you to every tactic you need to know, rest assured that you'll meet those other tactics in upcoming articles. The ground we covered may have seemed vast, however, you can use <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-eight/\">A Foundation for Beginners Fifty Eight</a> appeared first on <a rel=\"nofollow\" href=\"http",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-eight/",
-         "pubDate" : "Fri, 22 Apr 2022 07:47:29 +0000",
-         "title" : "A Foundation for Beginners Fifty Eight"
-      },
-      {
          "description" : " Norway's world champion says he felt more comfortable before 2013 when he knew he was the best player and that later too much of his identity became linked to the championship title Magnus Carlsen has again stated that he is \"unlikely\" to defend his world title against the winner of the eight-player Candidates scheduled for Madrid in June and explained that he felt more comfortable in the years before 2013 when he was ranked No 1 but had not yet defeated India's Vishy Anand in the world title match in Chennai. Since then Carlsen has won five championship matches - twice against Anand, and one each against Russia's Sergey Karjakin, Fabiano Caruana of the US, and Russia's Ian Nepomniachtchi. ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2280,22 +2304,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/nominations-invited-for-this-years-ecf-awards-2/",
          "pubDate" : "Wed, 20 Apr 2022 10:53:19 +0000",
          "title" : "Nominations invited for this year's ECF Awards"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1695",
-         "pubDate" : "Tue, 19 Apr 2022 15:16:07 +0000",
-         "title" : "Queens' Online Chess Festival 2022: Registration opens"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/76ff4def-b130-4bac-9654-71451340f403/Ali2.jpg\" data-image-dimensions=\"410x369\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"625db3bfb239a401574b23df\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/76ff4def-b130-4bac-9654-71451340f403/Ali2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by John Upham, courtesy of <a href=\"https://britishchessnews.com/2020/01/20/happy-birthday-im-ali-mortazavi-20-i-1971/\">British Chess News </a>",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/4/18/ep-275-im-ali-mortazavi",
-         "pubDate" : "Tue, 19 Apr 2022 13:17:41 +0000",
-         "title" : "EP 275- IM Ali Mortazavi- A CEO and Successful Stock Investor on how the Challenges of Chess Help Everything Else Seem Easier"
       }
    ]
 }
