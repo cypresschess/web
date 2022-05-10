@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-imscc-round-of-16-rozman-defeats-nemo",
-         "pubDate" : "Mon, 09 May 2022 16:29:42 -0700",
+         "pubDate" : "Mon, 09 May 2022 16:30:00 -0700",
          "title" : "Rozman Defeats Nemo: 2022 IMSCC, Round Of 16"
       },
       {
@@ -1346,7 +1346,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#x72;&#x2e;&#x77;i&#99;&#107;&#x68;&#x61;m&#64;&#98;&#x74;&#x69;nt&#101;&#x72;&#x6e;&#x65;t&#46;&#x63;&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#46;&#x72;&#46;&#119;&#x69;&#x63;k&#104;&#x61;&#x6d;&#64;&#98;&#x74;&#x69;n&#116;&#x65;&#x72;n&#101;&#x74;&#x2e;c&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
