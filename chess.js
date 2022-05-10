@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On first sight, things look grim for White in the diagrammed position as it is hard to see what he can do against the advance of Black's f-pawn. However, White remembered the rule that pawn endings should be calculated carefully and found a way to draw. What did he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/poisoned-pawn",
+         "pubDate" : "Tue, 10 May 2022 09:00:00 +0100",
+         "title" : "Poisoned Pawn"
+      },
+      {
          "description" : "The first round of 16 match in this year&#39;s&#38;nbsp;I&#39;M Not A GM Speed Chess Championship featured an exciting battle between two well-known names in the chess streaming community: IM Levy Rozman (GothamChess), the number one chess streamer on YouTube...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -199,7 +207,7 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/national-u1-2-certificates-are-out-to-download/",
          "pubDate" : "Mon, 09 May 2022 09:58:30 +0000",
-         "title" : "National U1-2 Certificates are out to Download"
+         "title" : "National U-12 Certificates are out to Download"
       },
       {
          "description" : "The&#xA0;FIDE Candidates Chess 2022&#xA0;was announced in late December last year, with the dates, place and the sponsor. FIDE disclosed the event will take place in Madrid, June 16 &#x2013; July 7 The Candidates Chess 2022 is an 8 player double round robin tournament with some of the world&#x2019;s top Grandmasters. Full info: Candidates Chess 2022 []",
@@ -1346,7 +1354,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#46;&#x72;&#46;&#119;&#x69;&#x63;k&#104;&#x61;&#x6d;&#64;&#98;&#x74;&#x69;n&#116;&#x65;&#x72;n&#101;&#x74;&#x2e;c&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;wick&#104;&#97;&#109;&#64;&#98;&#116;&#105;&#110;&#116;&#101;&#x72;&#x6e;&#x65;&#x74;&#x2e;&#x63;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2088,14 +2096,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/8-things-i-learned-from-failing-to-get-a-wim-norm/",
          "pubDate" : "Sat, 23 Apr 2022 13:05:56 +0000",
          "title" : "8 Things I Learned From Failing To Get A WIM-Norm"
-      },
-      {
-         "description" : "This Saturday, 23 April 2022, from 13.00 CEST (7.00 ET, 11.00 UTC) to 16.00 CEST will see a solidarity match between teams from Norway and Ukraine. Magnus Carlsen leads the Norwegian team that meets in the Good Knight Pub in the centre of Oslo. Former world number two Vasyl Ivanchuk leads the Ukrainian side. The match will be streamed in English from the Good Knight pub on the channel of the Offerspill chess club on Twitch. Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/solidarity-match-norway-ukraine-with-carlsen-and-ivanchuk-live",
-         "pubDate" : "Sat, 23 Apr 2022 12:45:00 +0100",
-         "title" : "Solidarity match Norway - Ukraine with Carlsen and Ivanchuk: live"
       },
       {
          "description" : "",
