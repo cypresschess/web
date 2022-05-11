@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The French Individual Chess Championships 2022 will take place from 13-21 August in the city of Albi. A magnificent city listed as a UNESCO World Heritage Site will host the 95th edition of the French Individual Chess Championship after three years of pause caused by the pandemic of Covid19.LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;IPCA World []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/albi-to-host-french-individual-chess-championships-2022/",
+         "pubDate" : "Wed, 11 May 2022 10:31:57 +0000",
+         "title" : "Albi to host French Individual Chess Championships 2022"
+      },
+      {
+         "description" : "National U-18(18-23 April, 2022) Certificates are out to Download Links: Female https://aicf.online/Under-18-Female.html Male https://aicf.online/U-18-Male.html Any Correction Mail at- Aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-u-18-certificates-out-to-download/",
+         "pubDate" : "Wed, 11 May 2022 10:22:15 +0000",
+         "title" : "National U-18 Certificates Out to Download"
+      },
+      {
+         "description" : " <p class=\"lead\">Communist Party chess team, represented by GMs Alexander Grischuk, Vladimir Potkin, Alexey Dreev et al. took part in the <a href=\"https://chess-results.com/tnr633431.aspx?lan=11&art=8\">Russian team championship</a> in Sochi and came third. The team's name, besides ensuring a perfect clickbait title for this article, outlines the hysterical landscape of Russian chess club sponsorship, where various entities for little money enshrine their (often) unsavory brands with a chess sanctity. Case in point: the Communist Party chess team. The Russian chess club championship, less prestigious than the individual championship, gives grandmasters a good opportunity to spend time in Soch",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/communist-party-team-almost-wins-russian-chess-championship-sadl/",
+         "pubDate" : "Wed, 11 May 2022 10:12:46 +0000",
+         "title" : "Communist Party Team Almost Wins Russian Chess Championship, Sadly"
+      },
+      {
+         "description" : "To All Concerned. In case situation arise of fielding an additional team based on odd number of entries for the 44th FIDE Chess Olympiad, the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/selection-of-additional-indian-team-for-chess-olympiad-2022/",
+         "pubDate" : "Wed, 11 May 2022 09:11:52 +0000",
+         "title" : "SELECTION OF ADDITIONAL INDIAN TEAM FOR CHESS OLYMPIAD 2022"
+      },
+      {
+         "description" : "The XV Continental Chess Championship of the Americas 2022 took place from May 1-11, 2022 at the Best Western Hotel Terraza, San Salvador, El Salvador. 117 players from 10 countries competed in 11 rounds swiss tournament, fighting for the total prize fund of 20.000$ and four qualification spots for the FIDE World Cup. GM Timur []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/timur-gareyev-becomes-xv-continental-champion-of-the-americas/",
+         "pubDate" : "Wed, 11 May 2022 09:07:59 +0000",
+         "title" : "Timur Gareyev becomes XV Continental Champion of the Americas"
+      },
+      {
+         "description" : "The ECU E-Magazine April 2022 is out! The May 2022 edition of the ECU Magazine can be read online together with interactive links on the following link, or it can be downloaded in PDF format down bellow. In this edition of the ECU E-Magazine you may read about: European School Chess Championship 2022 Mitropa Chess Cup 2022 ECU&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-april-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-april-2022/",
+         "pubDate" : "Wed, 11 May 2022 08:18:40 +0000",
+         "title" : "ECU E-Magazine April 2022"
+      },
+      {
+         "description" : "Chess in School conference and Erasmus+ meetings will take place from 11th-14th May 2022 in Zurich, Switzerland. The Chess in school conference under the &#8220;Chess: a Game to be spread in Schools&#8221; (CGS) will be held on 14th of May, in Dorint Airport Hotel. The Conference will be held in the English language and it will be open&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-a-game-to-be-spread-in-school-conference/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/chess-a-game-to-be-spread-in-school-conference/",
+         "pubDate" : "Wed, 11 May 2022 06:42:13 +0000",
+         "title" : "\"Chess: a Game to be Spread in Schools\"Conference"
+      },
+      {
+         "description" : " The FIDE Candidates Tournament takes place Thu 16th June to Tue 5th Jul 2022 in Madrid, Spain. This is an 8 player 14 round event. For the first time since the Candidates tournaments returned there will be rapid and tie-breaks among players tied for first. Tie-break coefficients were used in the past - although there were provisions for a tie-break match the conditions needed for them to happen meant they were all but impossible. Players: Ian Nepomniachtchi, Teimour Radjabov, Jan-Krzysztof Duda, Alireza Firouzja, Fabiano Caruana, Hikaru Nakamura, Richard Rapport, and Ding Liren. Sergey Karjakin is serving a 6 months ban for his enthusiastic support of the Russian invasion of Ukraine which w",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022",
+         "pubDate" : "Wed, 11 May 2022 10:00:00 +0400",
+         "title" : "FIDE Candidates Tournament 2022 - Games and Results"
+      },
+      {
          "description" : "The 2022 Junior Speed Chess Championship by SIG continued today with a hard-fought round of 16 match between popular Twitch streamer GM Hans Niemann and GM Velimir Ivic. Niemann won in style with a 16.5-12.5 match score. The two could barely be ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -24,6 +88,14 @@ news_feed (
          "link" : "https://www.chessdom.com/polish-open-and-womens-chess-championships-2022-live/",
          "pubDate" : "Tue, 10 May 2022 21:37:19 +0000",
          "title" : "Polish Open and Women's Chess Championships 2022 LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1747",
+         "pubDate" : "Tue, 10 May 2022 21:31:59 +0000",
+         "title" : "Jimma and Mongeli win 2022 Zone 4.4 Championship"
       },
       {
          "description" : "The 29th Russian Team Championship Premier&#xA0;League, the 23rd Russian Women's Team Championship, the Russian Youth Team Championships (open and girls), and the all-Russian Team Championship Higher League took place from April 30 to May 11, in the Grand Hotel Zhemchuzhina, Sochi.&#xA0;LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;IPCA World Individual Chess Championship 2022 Moscow Chess Team triumphed []",
@@ -218,14 +290,6 @@ news_feed (
          "title" : "Interview with Wesley So: \"Everyone except Magnus has a lot of weaknesses\" (VIDEO)"
       },
       {
-         "description" : "Day 5 of the Superbet Chess Classic Romania came with an exciting finish with Fabiano Caruana taking down Azeri Shakhriyar Mamedyarov to get back to fifty percent. Today&#x2019;s games brought some surprise lines and missed opportunities, but was overall a peaceful day. Going into tomorrow&#x2019;s rest day, Grandmaster Wesley So has drawn his game and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/caruana-scores-so-maintains-the-sole-lead-grand-chess-tour-romania-2022-r5-recap/",
-         "pubDate" : "Mon, 09 May 2022 20:26:29 +0000",
-         "title" : "Caruana scores, So maintains the sole lead; Grand Chess Tour Romania 2022 - R5 recap"
-      },
-      {
          "description" : "Less than two weeks after winning the Capablanca Memorial, Hans Niemann claimed outright victory at the TePe Sigeman & Co tournament in Malm&ouml;. Niemann scored 5/7 points to finish a full point ahead of a three-player chasing pack, which consisted of Michael Adams, Nils Grandelius and Arjun Erigaisi. | Photo: Lars OA Hedlund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -264,14 +328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-show-193-arne-kaehler",
          "pubDate" : "Mon, 09 May 2022 17:25:00 +0100",
          "title" : "Endgame Magic Show #193 with Arne Kaehler"
-      },
-      {
-         "description" : "The American grandmaster Hans Niemann won the 27th edition of the TePe Sigeman Chess Tournament scoring unbeaten 5/7 points. After winning the Capablanca Memorial Elite group with a round to spare, Niemann today triumphed the second tournament in a row. Read more: Magnus Carlsen vs Hans Niemann(video and game) Hans Niemann was a whole point []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-is-the-winner-of-tepe-sigeman-co-2022/",
-         "pubDate" : "Mon, 09 May 2022 15:34:03 +0000",
-         "title" : "Hans Niemann is the winner of TePe Sigeman & Co 2022"
       },
       {
          "description" : "",
@@ -1482,7 +1538,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#x2e;&#x77;&#x69;c&#107;&#104;&#x61;&#x6d;&#x40;bt&#105;&#x6e;&#x74;&#x65;rn&#101;&#116;&#x2e;&#x63;&#x6f;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#114;&#46;wi&#x63;&#x6b;&#x68;&#97;m&#64;&#x62;&#x74;&#x69;&#110;&#116;e&#x72;&#x6e;&#x65;&#116;&#46;c&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1554,28 +1610,12 @@ news_feed (
          "title" : "Sports Minister Anurag Thakur reviews preparation for Chess Olympiad 2022"
       },
       {
-         "description" : "MPL National blitz Chess Championship 2022 was organized by Nashik District Chess Association on behalf of Maharashtra chess association under the aegis of All India",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-national-blitz-chess-championship-2022-aravind-chithambaram-v-r-clinched-the-blitz-title-too/",
-         "pubDate" : "Sat, 30 Apr 2022 12:54:34 +0000",
-         "title" : "MPL National Blitz Chess Championship 2022, Aravind Chithambaram V R clinched the blitz title"
-      },
-      {
          "description" : "Two world champions, Steinitz and Euwe; a chess family, the Cramlings; and plenty of 1.d4 practitioners, Moiseenko, Gaprindashvili, and Miles are born under the zodiac sign of Taurus. Their power lies in their calmness. A proper Taurus acts thoughtfully, prudently, deliberately. They calculate what they do, everything else is considered unreasonable. They may allow their opponent a refreshing nap while they think about the next move. It would be fatal to consider them limited for that reason. | Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/taurus-and-their-strategy",
          "pubDate" : "Sat, 30 Apr 2022 13:00:00 +0100",
          "title" : "Taurus and their strategy"
-      },
-      {
-         "description" : "New Delhi (30 April 22) :- All Indian Chess Federation( AICF), Indian Government and Tamil Nadu Government are ensuring that the forthcoming Chess Olympiad scheduled",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sports-minister-anurag-thakur-reviews-the-preparedness-for-the-chess-olympiad/",
-         "pubDate" : "Sat, 30 Apr 2022 09:25:41 +0000",
-         "title" : "SPORTS MINISTER Shri. ANURAG THAKUR REVIEWS THE PREPAREDNESS FOR THE CHESS OLYMPIAD"
       },
       {
          "description" : "In the days of the movie &#8220;Gladiator&#8221;, sand and sandals were de rigueur. &#8220;The Lord of the Rings&#8221; and &#8220;Hobbit&#8221; moved the focus to swords and sorcery. The current favourites are blood and mud. A prime example is the &#8220;Last Duel&#8221;, depicting chivalric battles in the days of mad King Charles VI of France, who []",
@@ -1978,14 +2018,6 @@ news_feed (
          "title" : "Trust the bishop"
       },
       {
-         "description" : "The halfway of the European School Chess Championship 2022 most of the groups got the emerged leaders. The Chairperson of Irish Chess Union Mr. Desmond Beatty made the first ceremonial move at the 5th round of European School Chess Championship 2022 accompanied by ECU Secretary General Mr. Theodoros Tsorbatzoglou. There are four rounds left to be played before&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/5-rounds-played-at-european-school-chess-championship-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/5-rounds-played-at-european-school-chess-championship-2022/",
-         "pubDate" : "Tue, 26 Apr 2022 07:49:44 +0000",
-         "title" : "5 rounds played at European School Chess Championship 2022"
-      },
-      {
          "description" : " &#8220;The Exchange Variation is without doubt one of White's best weapons versus the popular Slav Defense. By creating a symmetrical position with an extra tempo, White keeps Black's counter play to a minimum while developing positional pressure&#8221; Silman and Donaldson I am going to acknowledge the elephant in the room by saying this variation is <a href=\"https://chessimprover.com/need-sure-points-queens-gambit-declined-slav-exchange-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Queen's Gambit Declined Slav, Exchange Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-quee",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2282,28 +2314,12 @@ news_feed (
          "title" : "American Cup 2022: Day 1 Recap"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1697",
-         "pubDate" : "Wed, 20 Apr 2022 21:48:39 +0000",
-         "title" : "Sandro Mareco and Sandra Guillen win LXVII Mexico National Open Championship "
-      },
-      {
          "description" : " Another successful O2C Doeberl Cup has been run and done. In the tournament has 329 players in the main events (1 less than last year) and 136 in the Blitz (which was more than last year). So it is kind of a record field, without actually being a record field! Although the tournament itself is finished, there is still some organisational work today. prize money is being transferred to the lucky winners, while refunds are being made some unlucky entrants. In fact if anything stood out about this years events, it was the number of players who entered, and then un-entered before the start. In some cases there were good medical reasons (including being a covid close contact), but for others, it",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-winding-down.html",
          "pubDate" : "Wed, 20 Apr 2022 13:06:00 +0000",
          "title" : "2022 O2C Doeberl Cup - winding down"
-      },
-      {
-         "description" : "Details for this year's ECF Awards are now available and can be found here (PDF), together with information on how to apply and the assessment...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/nominations-invited-for-this-years-ecf-awards-2/",
-         "pubDate" : "Wed, 20 Apr 2022 10:53:19 +0000",
-         "title" : "Nominations invited for this year's ECF Awards"
       }
    ]
 }
