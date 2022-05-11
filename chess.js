@@ -2,6 +2,150 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two and a half months before the start of the 44th Chess Olympiad 2022, first ever to be held in India, already 100 countries registered for the competition. 101 teams are registered in the Open section and 86 teams confirmed participation in the Women's section. (scroll down for the full story) The Director of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/100-countries-already-registered-for-44th-chess-olympiad-2022/",
+         "pubDate" : "Wed, 11 May 2022 19:14:56 +0000",
+         "title" : "100 countries already registered for 44th Chess Olympiad 2022"
+      },
+      {
+         "description" : "Gukesh won his third consecutive tournament in Spain as he scored an unbeaten 8/10 to claim first place at the Chessable Sunway Formentera Open. After missing several tournament triumphs on tiebreaks, Gukesh got outright victory in Formentera by finishing a half point ahead of the field. Jaime Santos (Spain) and Shant Sargsyan (Armenia) completed the podium. | Photo: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-wins-chessable-sunway-formentera-open",
+         "pubDate" : "Wed, 11 May 2022 18:35:00 +0100",
+         "title" : "Gukesh scores a hat-trick, wins Chessable Sunway Formentera Open"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91500156.cms\" />Five-time Chess world champion Viswanathan Anand said on Wednesday that he is optimistic about India's chances of winning big at the 44th Chess Olympiad 2022, which will begin in Chennai on July 28.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-optimistic-about-indias-chances-at-chess-olympiad/articleshow/91500156.cms",
+         "pubDate" : "Wed, 11 May 2022 17:26:33 +0000",
+         "title" : "Viswanathan Anand optimistic about India's chances at Chess Olympiad"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1750",
+         "pubDate" : "Wed, 11 May 2022 16:31:39 +0000",
+         "title" : "FIDE awards grants to Ukrainian seniors and disabled players"
+      },
+      {
+         "description" : "Much has been discussed regarding the tiebreak system used in previous editions of the Candidates Tournament. Given the controversy, FIDE decided to reconsider the regulations before this year's edition. After consulting the participants, the rules have been updated - in case of a tie for first, a rapid (and blitz, if necessary) playoff will decide who wins the tournament. | Photo: Lennart Ootes (2020)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-playoff-announcement",
+         "pubDate" : "Wed, 11 May 2022 17:00:00 +0100",
+         "title" : "Candidates to be decided in playoffs in case of a tie for first place"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Except for a a few tweets, the 25th anniversary of <strong>Garry Kasparov</strong>'s landmark match loss to <strong>Deep Blue</strong>, an <strong>IBM</strong> research computer, 1997 in New York went unnoticed by chess websites and news media. Some had commemorated last year the less significant loss of one game in the 1996 match that Kasparov still had dominated. The general and sponsors' interest in chess suffered after \"humanity lost\". </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/deep-blue-anniversary-quasi/",
+         "pubDate" : "Wed, 11 May 2022 16:47:39 +0100",
+         "title" : "Deep Blue anniversary quasi unnoticed"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1740",
+         "pubDate" : "Wed, 11 May 2022 15:46:56 +0000",
+         "title" : "FIDE elections: Call to Candidates"
+      },
+      {
+         "description" : "The 31st Southeast Asian Games (SEA Games) officially commenced their chess games on May 10, 2022, in Ha Long city, Quang Ninh province, Vietnam.&#160;LIVE now:&#160;Grand Chess Tour Romania 2022&#160;/&#160;IPCA World Individual Chess Championship 2022&#160;/&#160;Polish Open and Women&#x2019;s Chess Championships 2022 This year, the event features 55 top chess players from seven Southeast Asian countries: Indonesia, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/four-rounds-played-at-31st-southeast-asian-games-in-vietnam/",
+         "pubDate" : "Wed, 11 May 2022 15:05:11 +0000",
+         "title" : "Four rounds played at 31st Southeast Asian Games in Vietnam"
+      },
+      {
+         "description" : "The 2022 Kyrgyzstan Open and Women's National Chess Championships concluded today in the Kyrgyzstan capital, Bishkek. The events were simultaneously played from April 30 May 11.LIVE now:&#160;Grand Chess Tour Romania 2022&#160;/&#160;IPCA World Individual Chess Championship 2022&#160;/&#160;Polish Open and Women&#x2019;s Chess Championships 2022 60 players competed in the Open event through 11 rounds. IM Semetey []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kyrgyzstan-crowns-national-chess-champions-2022/",
+         "pubDate" : "Wed, 11 May 2022 15:04:00 +0000",
+         "title" : "Kyrgyzstan crowns National Chess Champions 2022"
+      },
+      {
+         "description" : " While I was in Thailand, there were a number of news stories about the South East Asia Games, which were about to start in Vietnam. It seemed to be a pretty big deal in Thailand, and probably in other countries as well. One sport that is part of the program (and is a full medal sport) is Chess. Medals are being awarded for standard chess, as well as rapidplay and blitz, for both Men and Women (I'm assuming that there is no Open section). Although both events are small, they are very strong, with every participant holding a title. The homepage for the Games is <a href=\"https://seagames2021.com/?lang=en-US\">https://seagames2021.com/?lang=en-US</a> although following the chess results is a lit",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/sea-games.html",
+         "pubDate" : "Wed, 11 May 2022 13:41:00 +0000",
+         "title" : "SEA Games"
+      },
+      {
+         "description" : "The 15th International Chess Tournament Tashkent Open took place in the city of Tashkent, from May 3 to May 12, 2022. The event hosted in the building of the Tashkent International Chess Academy is dedicated to the memory of Georgy Agzamov, the first grandmaster of Uzbekistan. The 2022 Tashkent Open Memorial of Georgy Agzamov []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aleksandar-indjic-wins-15th-tashkent-open-memorial-of-georgy-agzamov/",
+         "pubDate" : "Wed, 11 May 2022 13:26:27 +0000",
+         "title" : "Aleksandar Indjic wins 15th Tashkent Open - Memorial of Georgy Agzamov"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91496134.cms\" />Seasoned campaigner Pradeep Tiwari won the national amateur chess championship for below 2000 players in Jaipur. Representing Defence Accounts Sports Control Board (DASCB), city's Tiwari, secured 7.5 points in 9-nine round swiss league tournament to emerge champion. He was rewarded 16,000 in cash.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pradeep-tiwari-claims-national-amateur-chess-title/articleshow/91496134.cms",
+         "pubDate" : "Wed, 11 May 2022 13:19:54 +0000",
+         "title" : "Pradeep Tiwari claims national amateur chess title"
+      },
+      {
+         "description" : " This week's edition of the Master Chess Web Show featured a return of special guest, GM Ray Keene, who gave us some fascinating insights into the 1978 World Championship match in Baguio City. This was the match in which Victor Korchnoi, who had recently defected from the USSR, faced the then Soviet World Champion, Anatoly <a href=\"https://chessimprover.com/master-chess-web-show-13/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (13)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-13/\">Master Chess Web Show (13)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver<",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/master-chess-web-show-13/",
+         "pubDate" : "Wed, 11 May 2022 13:10:18 +0000",
+         "title" : "Master Chess Web Show (13)"
+      },
+      {
+         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 6 kicks off Wednesday at 14.00 CEST. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
+         "pubDate" : "Wed, 11 May 2022 13:55:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1748",
+         "pubDate" : "Wed, 11 May 2022 12:00:11 +0000",
+         "title" : "Timur Gareyev wins XV Americas Individual Championship"
+      },
+      {
+         "description" : "Deep Blue versus Garry Kasparov&#160;was a pair of six-game&#160;chess&#160;matches between the&#160;13th World Chess Champion&#160;Garry Kasparov&#160;and an IBM&#160;supercomputer&#160;called&#160;Deep Blue. The first match was played in 1996, from 10-17 February in Philadelphia. Kasparov won the match with score of 4&#x2013;2. A rematch was played in 1997, from 3-11 May. 25 years ago today was the last game []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/throwback-to-1997-deep-blue-defeats-kasparov-tweetoftheday/",
+         "pubDate" : "Wed, 11 May 2022 11:31:04 +0000",
+         "title" : "Throwback to 1997 - Deep Blue defeats Kasparov #TweetOftheDay"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1747",
+         "pubDate" : "Wed, 11 May 2022 11:30:59 +0000",
+         "title" : "Jimma and Mongeli win 2022 Zone 4.4 Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1749",
+         "pubDate" : "Wed, 11 May 2022 11:10:30 +0000",
+         "title" : "Southeast Asian Games kick off in Ha Long, Vietnam"
+      },
+      {
          "description" : "The French Individual Chess Championships 2022 will take place from 13-21 August in the city of Albi. A magnificent city listed as a UNESCO World Heritage Site will host the 95th edition of the French Individual Chess Championship after three years of pause caused by the pandemic of Covid19.LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;IPCA World []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -82,20 +226,12 @@ news_feed (
          "title" : "Superbet: Caruana bounces back"
       },
       {
-         "description" : "The&#xA0;79th LOTTO Polish Championship&#xA0;and the&#xA0;74th Polish Women&#x2019;s Chess Championship simultaneously take place in Kruszwica, from 9-17 May 2022. The Men&#x2019;s Championship is a 16-player knockout tournament with two classical games in each match, followed, if necessary, by two rapid games, then two blitz games, then Armageddon. The top seeds are: defending National Champion of Poland []",
+         "description" : "The&#160;79th LOTTO Polish Championship&#160;and the&#160;74th Polish Women&#x2019;s Chess Championship simultaneously take place in Kruszwica, from 9-17 May 2022. The Men&#x2019;s Championship is a 16-player knockout tournament with two classical games in each match, followed, if necessary, by two rapid games, then two blitz games, then Armageddon. The top seeds are: defending National Champion of Poland []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/polish-open-and-womens-chess-championships-2022-live/",
          "pubDate" : "Tue, 10 May 2022 21:37:19 +0000",
          "title" : "Polish Open and Women's Chess Championships 2022 LIVE"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1747",
-         "pubDate" : "Tue, 10 May 2022 21:31:59 +0000",
-         "title" : "Jimma and Mongeli win 2022 Zone 4.4 Championship"
       },
       {
          "description" : "The 29th Russian Team Championship Premier&#xA0;League, the 23rd Russian Women's Team Championship, the Russian Youth Team Championships (open and girls), and the all-Russian Team Championship Higher League took place from April 30 to May 11, in the Grand Hotel Zhemchuzhina, Sochi.&#xA0;LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;IPCA World Individual Chess Championship 2022 Moscow Chess Team triumphed []",
@@ -146,14 +282,6 @@ news_feed (
          "title" : "Hans Niemann Wins 2022 Tepe Sigeman & Co Tournament"
       },
       {
-         "description" : "A Durham County Chess Congress 2022 took place over the weekend of 6-8 May in the Dolphin Centre, Darlington. Three chess events Open tournament, Major event and Minor championship attracted a total of 159 entries and were played in 5 rounds, swiss system, with time control 100 min + 10 sec increment.LIVE now: Grand []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-winners-of-durham-chess-congress-2022-announced/",
-         "pubDate" : "Tue, 10 May 2022 14:38:05 +0000",
-         "title" : "The Winners of Durham Chess Congress 2022 announced"
-      },
-      {
          "description" : "Endgame tablebases can only be described as \"god chess\" as they are perfect information on all positions they cover, and the terms 'better' or 'worse' cease to have any meaning. Marc Bourzutschky has trained and resolved a large number of the 8-piece tablebase positions and shared his results and findings, as well as insights in a video interview.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -178,14 +306,6 @@ news_feed (
          "title" : "Ep 278- GM Jan Gustafsson- The Popular Chess24 Commentator discusses the World Championships, Chess Openings, The State of his Chess Game, and his new Chess Podcast "
       },
       {
-         "description" : "The reigning World Chess Champion Magnus Carlsen tried himself in the major Norwegian poker event Norges-Mesterskapet. The event was happening in Dublin, as live poker for money is not legal in Norway. Out of 1500 players, Magnus finished 25th, surprising the professional poker players who competed next to him. (Scroll down for the full []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/huge-bluff-from-magnus-carlsen-tweetoftheday/",
-         "pubDate" : "Tue, 10 May 2022 12:56:42 +0000",
-         "title" : "HUGE BLUFF from Magnus Carlsen! #TweetOftheDay"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -200,14 +320,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-5",
          "pubDate" : "Tue, 10 May 2022 05:28:00 -0700",
          "title" : "Caruana Strikes: 2022 Superbet Chess Classic Romania, Day 5"
-      },
-      {
-         "description" : "The 79th LOTTO Polish Championship and the 74th Polish Women's Chess Championship kicked off yesterday in Kruszwica. The events are simultaneously played from 9-17 May 2022. The Men's Championship is a 16-player knockout tournament with two classical games in each match, followed, if necessary, by two rapid games, then two blitz games, then Armageddon. The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/polish-chess-championships-2022-kicked-off-in-kruszwica/",
-         "pubDate" : "Tue, 10 May 2022 11:53:43 +0000",
-         "title" : "Polish Chess Championships 2022 kicked off in Kruszwica"
       },
       {
          "description" : "",
@@ -258,14 +370,6 @@ news_feed (
          "title" : "Karjakin's prank call"
       },
       {
-         "description" : "The compositions of Spanish (Open and Women's) teams for the upcoming 44th Chess Olympiad 2022 in Chennai have been announced!Read more: Kenya Teams for 44th Chess Olympiad 2022 / India teams for Chess Olympiad 2022 announced / German Team for 44th Chess Olympiad 2022 to be captained by Jan Gustafsson Spanish Team (Open section): Francisco []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/spain-announces-teams-for-44th-chess-olympiad-2022/",
-         "pubDate" : "Tue, 10 May 2022 08:57:19 +0000",
-         "title" : "Spain announces teams for 44th Chess Olympiad 2022"
-      },
-      {
          "description" : "On first sight, things look grim for White in the diagrammed position as it is hard to see what he can do against the advance of Black's f-pawn. However, White remembered the rule that pawn endings should be calculated carefully and found a way to get a draw. What did he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -274,20 +378,20 @@ news_feed (
          "title" : "Poisoned Pawn"
       },
       {
+         "description" : " From the back cover: Senior International Master Mike Read competed 115 times for the England and Great Britain teams at correspondence chess, including playing on board one for England in the 13th Olympiad. In this, his fourth book, he aims to instruct his readers by dissecting 110 games played by local players at all levels <a href=\"http://britishchessnews.com/2022/05/10/110-instructive-chess-annotations/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">110 Instructive Chess Annotations</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/05/10/110-instructive-chess-annotations/\">110 Instructive Chess Annota",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/05/10/110-instructive-chess-annotations/",
+         "pubDate" : "Tue, 10 May 2022 00:10:51 +0000",
+         "title" : "110 Instructive Chess Annotations"
+      },
+      {
          "description" : "The first round of 16 match in this year&#39;s&#38;nbsp;I&#39;M Not A GM Speed Chess Championship featured an exciting battle between two well-known names in the chess streaming community: IM Levy Rozman (GothamChess), the number one chess streamer on YouTube...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-imscc-round-of-16-rozman-defeats-nemo",
          "pubDate" : "Mon, 09 May 2022 16:30:00 -0700",
          "title" : "Rozman Defeats Nemo: 2022 IMSCC, Round Of 16"
-      },
-      {
-         "description" : "Wesley So emerged as the sole leader after five played rounds at the Grand Chess Tour Romania 2022. Read more: So maintains the sole lead at Grand Chess Tour Romania 2022 In the exclusive interview So spoke about his personal life, childhood, things he likes to do, how his perfect day looks Speaking about what []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/interview-with-wesley-so-everyone-except-magnus-has-a-lot-of-weaknesses-video/",
-         "pubDate" : "Mon, 09 May 2022 21:00:02 +0000",
-         "title" : "Interview with Wesley So: \"Everyone except Magnus has a lot of weaknesses\" (VIDEO)"
       },
       {
          "description" : "Less than two weeks after winning the Capablanca Memorial, Hans Niemann claimed outright victory at the TePe Sigeman & Co tournament in Malm&ouml;. Niemann scored 5/7 points to finish a full point ahead of a three-player chasing pack, which consisted of Michael Adams, Nils Grandelius and Arjun Erigaisi. | Photo: Lars OA Hedlund",
@@ -490,14 +594,6 @@ news_feed (
          "title" : "France wins historical double gold at Mitropa Cup 2022"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1740",
-         "pubDate" : "Sun, 08 May 2022 15:46:56 +0000",
-         "title" : "FIDE elections: Call to Candidates"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Zurab Azmaiparashvili</strong> is virtually assured four more years as <strong>ECU</strong> President after nobody else presented a team. Vice President <strong>Dana Reizniece-Ozola</strong>, who is also <strong>FIDE</strong>'s Managing Director, is to switch posts with Deputy President <strong>Gunnar Bjornsson</strong> after the election on 6 August. The English chess organiser <strong>Malcolm Pein</strong> joins the team as candidate for Vice President and replaces the Austrian <strong>Johann Poecksteiner</strong>. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -528,14 +624,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/jan-s-opening-clinic-season-27-episode-2",
          "pubDate" : "Sun, 08 May 2022 13:45:28 +0000",
          "title" : "Jan's Opening Clinic Season 27, Episode 2"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The anniversary of the biggest chess event in history, Fischer - Spassky, Reykjavik 1972, is coming up fast. Is chess about to miss out on this communication opportunity? </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-05-02-at-19-54.1920.jpeg\" title=\"The \"match of the century\" made headlines all over the Western world. Los Angeles Times clipping on Edward Winter's Chess Notes \" data-title=\"The \"match of the century\" made headlines all over the Western world. Los Angeles Times clipping on [Edward Winter's Chess Notes][1] [1]: https://www.chesshistory.com/winter/extra/spasskyf",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/its-50-years-folks/",
-         "pubDate" : "Sun, 08 May 2022 14:35:30 +0100",
-         "title" : "It's 50 years, folks!"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The law firm <strong>ALRUD</strong>, FIDE's last Russian sponsor, not only <a href=\"https://www.alrud.com/services/EconomicSanctionsandCompliance/\">consults Russian and foreign companies in dealing with sanctions</a> but also <a href=\"https://www.alrud.com/publications/62693dc8af5f2a5e0d0bb0f2/\">offers expertise in counter-sanctions</a> as pointed out by <a href=\"https://twitter.com/PHChess/status/1523224387306070017\">Peter Heine Nielsen</a>. </div> ",
@@ -1538,7 +1626,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#114;&#46;wi&#x63;&#x6b;&#x68;&#97;m&#64;&#x62;&#x74;&#x69;&#110;&#116;e&#x72;&#x6e;&#x65;&#116;&#46;c&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#46;&#x77;&#x69;c&#x6b;&#104;&#x61;&#x6d;&#64;&#x62;&#116;&#x69;&#x6e;t&#x65;&#114;&#x6e;&#x65;t&#x2e;&#99;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2026,14 +2114,6 @@ news_feed (
          "title" : "Need sure points? Queen's Gambit Declined Slav, Exchange Variation Edition"
       },
       {
-         "description" : "In the Thornton Trap, a player castles queenside, giving check, to win an unprotected rook. National Master Jeffrey Ashton discusses the Thornton Trap and how to search for examples of it using the ChessBase Manoeuvres Search.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-for-coaches-the-thornton-trap",
-         "pubDate" : "Tue, 26 Apr 2022 08:04:03 +0100",
-         "title" : "ChessBase for Coaches: The Thornton Trap"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2050,14 +2130,6 @@ news_feed (
          "title" : "World Chess Introduces Prize Money Tournaments"
       },
       {
-         "description" : "In his Endgame Magic Show #191 Karsten M&uuml;ller looks back to the Charity Cup, the second tournament of the Meltwater Chess Champions Tour series of online rapid tournaments, which was played from 19 to 26 March. Magnus Carlsen won after beating Jan-Krzysztof Duda in the final. The Charity Cup brought a lot of interesting endgames and Karsten selected some highlights. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-show-191-highlights-from-the-charity-cup",
-         "pubDate" : "Mon, 25 Apr 2022 17:00:00 +0100",
-         "title" : "Endgame Magic Show #191: Highlights from the Charity Cup"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2072,14 +2144,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/obscure-club-games.html",
          "pubDate" : "Mon, 25 Apr 2022 13:14:00 +0000",
          "title" : "Obscure club games"
-      },
-      {
-         "description" : "Just a day after the Russian assault on Ukraine began, Anna Muzychuk and her sister Mariya, after careful deliberation, decided to flee the country. They undertook a harrowing journey to Poland and then to Germany and Spain, where they are now \"stranded.\" Frederic Friedel asked Anna to tell us what the escape from their war-torn country was like. Read her vivid description.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/escape-from-lviv",
-         "pubDate" : "Mon, 25 Apr 2022 14:00:00 +0100",
-         "title" : "Escape from Lviv"
       },
       {
          "description" : "",
@@ -2152,14 +2216,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/popular-site-chess-com-blocked-by-russian-authorities/",
          "pubDate" : "Sun, 24 Apr 2022 09:40:30 +0000",
          "title" : "Popular Site Chess.com Blocked by Russian Authorities"
-      },
-      {
-         "description" : " Some of you may be aware that underpromotions to bishops have been in the news recently. These are popular with endgame study and problem composers but are very rare over the board. (I'm excluding positions where your opponent will capture whatever piece you choose, where your opponent will mate you at the other end of <a href=\"https://chessimprover.com/underpromotion/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Underpromotion\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/underpromotion/\">Underpromotion</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/underpromotion/",
-         "pubDate" : "Sun, 24 Apr 2022 07:06:04 +0000",
-         "title" : "Underpromotion"
       },
       {
          "description" : " National Master Jerald Times told The Chess Drum a month ago about a troubling saga involving his tenure at the Success Academy Charter Schools (SACS). Serving as the Chess Program Director he alleged that the organization held discriminatory practices within the organization. He then filed a discriminatory complaint against SACS. In a scathing 23-page legal The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/23/jerald-times-embroiled-in-legal-chess-battle/\">Jerald Times scores victory in legal chess battle</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -2242,14 +2298,6 @@ news_feed (
          "title" : "More adventures in arbiting"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1700",
-         "pubDate" : "Fri, 22 Apr 2022 10:24:52 +0000",
-         "title" : "American Cup: Day 2 Recap"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91001581.cms\" />The All India Chess Federation (AICF) is going all out to make the 44th FIDE Chess Olympiad a success, including giving subsidies to the participating nations.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2290,36 +2338,12 @@ news_feed (
          "title" : "Not sure about defending world title: Magnus Carlsen"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1699",
-         "pubDate" : "Thu, 21 Apr 2022 18:29:02 +0000",
-         "title" : "51st Mar del Plata Open: Andres Rodriguez clinches the title"
-      },
-      {
          "description" : " During the ACT Junior Rapid Championships, I witnessed not one, but two R v B endings (no pawns mind you). As the players involved were relatively inexperienced, finding the correct defence proved elusive. It is a draw if the side with the Bishop can get their king into the corner of the opposite colour to the bishop, as stalemate tricks then save the day. In the first case the weaker side got their king caught in the middle of the back rank and lost the bishop to zugswang. In the second game, the defending side found a better strategy, putting the side with the rook into check, and then pointing out an illegal move when the rook was moved. After resetting the position I pointed out that to",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/04/r-v-b.html",
          "pubDate" : "Thu, 21 Apr 2022 13:19:00 +0000",
          "title" : "R v B"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1698",
-         "pubDate" : "Thu, 21 Apr 2022 12:02:29 +0000",
-         "title" : "American Cup 2022: Day 1 Recap"
-      },
-      {
-         "description" : " Another successful O2C Doeberl Cup has been run and done. In the tournament has 329 players in the main events (1 less than last year) and 136 in the Blitz (which was more than last year). So it is kind of a record field, without actually being a record field! Although the tournament itself is finished, there is still some organisational work today. prize money is being transferred to the lucky winners, while refunds are being made some unlucky entrants. In fact if anything stood out about this years events, it was the number of players who entered, and then un-entered before the start. In some cases there were good medical reasons (including being a covid close contact), but for others, it",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/04/2022-o2c-doeberl-cup-winding-down.html",
-         "pubDate" : "Wed, 20 Apr 2022 13:06:00 +0000",
-         "title" : "2022 O2C Doeberl Cup - winding down"
       }
    ]
 }
