@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Junior Speed Chess Championship by SIG continued today with a hard-fought round of 16 match between popular Twitch streamer GM Hans Niemann and GM Velimir Ivic. Niemann won in style with a 16.5-12.5 match score. The two could barely be ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-triumphs-against-ivic-2022-junior-speed-chess-championship-round-of-16",
+         "pubDate" : "Tue, 10 May 2022 18:24:57 -0700",
+         "title" : "Niemann Triumphs Against Ivic: 2022 Junior Speed Chess Championship Round Of 16"
+      },
+      {
+         "description" : "Round 5 of the Superbet Chess Classic saw Fabiano Caruana bouncing back from his loss on Sunday by taking down defending champion Shakhriyar Mamedyarov. The US grandmaster thus went into the rest day with a fifty-percent score. The remaining games finished drawn, leaving Wesley So in the sole lead, half a point ahead of a three-player chasing pack. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r5",
+         "pubDate" : "Wed, 11 May 2022 00:05:00 +0100",
+         "title" : "Superbet: Caruana bounces back"
+      },
+      {
+         "description" : "The&#xA0;79th LOTTO Polish Championship&#xA0;and the&#xA0;74th Polish Women&#x2019;s Chess Championship simultaneously take place in Kruszwica, from 9-17 May 2022. The Men&#x2019;s Championship is a 16-player knockout tournament with two classical games in each match, followed, if necessary, by two rapid games, then two blitz games, then Armageddon. The top seeds are: defending National Champion of Poland []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/polish-open-and-womens-chess-championships-2022-live/",
+         "pubDate" : "Tue, 10 May 2022 21:37:19 +0000",
+         "title" : "Polish Open and Women's Chess Championships 2022 LIVE"
+      },
+      {
+         "description" : "The 29th Russian Team Championship Premier&#xA0;League, the 23rd Russian Women's Team Championship, the Russian Youth Team Championships (open and girls), and the all-Russian Team Championship Higher League took place from April 30 to May 11, in the Grand Hotel Zhemchuzhina, Sochi.&#xA0;LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;IPCA World Individual Chess Championship 2022 Moscow Chess Team triumphed []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/russia-crowns-national-team-chess-champions-2022/",
+         "pubDate" : "Tue, 10 May 2022 21:26:17 +0000",
+         "title" : "Russia crowns National Team Chess Champions 2022"
+      },
+      {
          "description" : "In his 'Weekly Show' Lawrence Trent focuses on the Superbet Chess Classic currently taking place in Romania. He looks at a fine win by Fabiano Caruana over Shakhriyar Mamedyarov. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hans-niemann-wins-2022-tepe-sigeman-co-tournament",
-         "pubDate" : "Tue, 10 May 2022 07:58:08 -0700",
+         "pubDate" : "Tue, 10 May 2022 07:58:00 -0700",
          "title" : "Hans Niemann Wins 2022 Tepe Sigeman & Co Tournament"
       },
       {
@@ -258,22 +290,6 @@ news_feed (
          "title" : "FIDE World Rapid & Blitz Championships 2023 - Call for bids"
       },
       {
-         "description" : "The 21st edition of the IPCA World Individual Chess Championship 2022 takes place from 8-17 May in Ashdod, Israel. 28 physically disabled chess players &#x2013; men, women and juniors (2002 year of birth and younger) compete in the 9 rounds swiss tournament, fighting for the total prize fund of 5.500e. The winner among men, women, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ipca-world-individual-chess-championship-2022-live/",
-         "pubDate" : "Mon, 09 May 2022 14:10:54 +0000",
-         "title" : "IPCA World Individual Chess Championship 2022 LIVE"
-      },
-      {
-         "description" : "The 73rd edition of the Argentine Women's Superior Chess Championship &#8220;Malvinas heroes&#8221; 2022 took place from 1-8 May at the University of La Punta. LIVE now: Grand Chess Tour Romania 2022 A record number of 44 players competed in the 9 rounds swiss tournament for the total prize fund of 250.000 pesos. WIM Florencia Maria []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/florencia-fernandez-wins-argentine-womens-chess-championship-2022/",
-         "pubDate" : "Mon, 09 May 2022 13:37:27 +0000",
-         "title" : "Florencia Fernandez wins Argentine Women's Chess Championship 2022"
-      },
-      {
          "description" : "The Mitropa Cup for teams ended on Sunday with a victory for the French team in both the open and the women's events (photo: the French open team). In the open, Slovakia and Hungary finished second and third respectively, much like among the women. The tournament took place in the town of Corte on the French Mediterranean island of Corsica. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -296,14 +312,6 @@ news_feed (
          "link" : "https://aicf.in/recruitment-of-meritorious-sportsperson-in-the-south-eastern-railway-sports-association/",
          "pubDate" : "Mon, 09 May 2022 12:57:10 +0000",
          "title" : "Recruitment of meritorious sportsperson in the South Eastern Railway Sports Association"
-      },
-      {
-         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 5 kicks off Monday at 14.00 CEST. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
-         "pubDate" : "Mon, 09 May 2022 13:55:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "After the fourth round of the Superbet Chess Classic, Wesley So is leading the standings table with 3 points. With his win over Ian Nepomniachtchi, So single-handedly put a previously tied rival at a distance, while Bogdan-Daniel Deac, the third member of the pre-round leading trio, had to settle for a draw against Shakhriyar Mamedyarov. There were also wins for Maxime Vachier-Lagrave (over Fabiano Caruana) and Levon Aronian (over Leinier Dominguez). | Photo: Lennart Ootes",
@@ -1474,7 +1482,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#x72;&#46;&#119;&#x69;c&#107;&#x68;&#x61;&#109;&#x40;&#x62;t&#105;&#x6e;t&#101;&#x72;&#x6e;&#101;&#x74;&#x2e;c&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#119;&#105;ckh&#x61;&#x6d;&#x40;&#x62;&#116;&#105;nte&#x72;&#x6e;&#x65;&#x74;&#46;&#99;&#111;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1744,14 +1752,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/oslo-esports-cup-day-7-duda-wins",
          "pubDate" : "Thu, 28 Apr 2022 19:26:00 -0700",
          "title" : "Duda Wins: Oslo Esports Cup Day 7"
-      },
-      {
-         "description" : "The 2022 Junior Speed Chess Championship by SIG continued today with a round of 16 match between GM Raunak Sadhwani and IM Mahammad Muradli, one that featured one of the greatest comebacks in Speed Chess Championship history. The early sections ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-round-of-16-sadhwani-muradli",
-         "pubDate" : "Thu, 28 Apr 2022 16:22:20 -0700",
-         "title" : "Muradli's Miraculous Comeback: 2022 Junior Speed Chess Championship Round Of 16"
       },
       {
          "description" : "",
