@@ -194,7 +194,7 @@ news_feed (
          "title" : "Albi to host French Individual Chess Championships 2022"
       },
       {
-         "description" : "National U-18(18-23 April, 2022) Certificates are out to Download Links: Female https://aicf.online/Under-18-Female.html Male https://aicf.online/U-18-Male.html Any Correction Mail at- Aicfwebmaster2021@gmail.com",
+         "description" : "National U-18(18-23 April, 2022) Certificates are out to Download Links: Female https://aicf.online/Under-18-Female.html Any Correction Mail at- Aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/national-u-18-certificates-out-to-download/",
@@ -1650,7 +1650,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#x69;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#x40;&#x62;&#x74;&#x69;&#x6e;&#x74;&#x65;&#x72;&#x6e;&#x65;&#x74;&#x2e;&#x63;&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;r&#46;&#x77;i&#99;&#x6b;h&#97;&#x6d;&#64;&#98;&#x74;&#105;&#x6e;&#x74;&#101;&#x72;&#x6e;&#101;&#x74;&#46;&#99;&#x6f;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
