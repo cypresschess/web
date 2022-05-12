@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Levon Aronian and Wesley So continue to share the lead at the Superbet Chess Classic despite three games finishing decisively in the seventh round. After losing to Aronian on Wednesday, Maxime Vachier-Lagrave bounced back with a win over Richard Rapport - the Frenchman is now in sole third place, a half point behind the leaders. Meanwhile, both Shakhriyar Mamedyarov and Alireza Firouzja collected their first wins of the event. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r7",
+         "pubDate" : "Thu, 12 May 2022 22:00:00 +0100",
+         "title" : "Superbet: Wins for MVL, Firouzja and Mamedyarov"
+      },
+      {
+         "description" : "The stakes are heating up for Superbet Chess Classic Romania, as the tournament is quickly coming to an end with only two more rounds left to play. Today&#x2019;s Round 7 brought once again entertaining games with key dramatic moments as three of the five games were decisive. Wesley So and Levon Aronian maintain their co-lead []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/firouzja-scores-first-otb-win-in-2022-grand-chess-tour-romania-2022-r7-recap/",
+         "pubDate" : "Thu, 12 May 2022 20:51:15 +0000",
+         "title" : "Firouzja scores first OTB win in 2022; Grand Chess Tour Romania 2022 - R7 recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1752",
+         "pubDate" : "Thu, 12 May 2022 20:46:12 +0000",
+         "title" : "FIDE Trainer Online Seminar for North and Central America announced"
+      },
+      {
          "description" : "The All India Chess Federation has announced the biggest squad of Indian teams for the upcoming FIDE Olympiad. Vishy Anand has been named as the mentor for all four Indian teams, while the country's third GM in history, Pravin Thipsay, will be the Head of the Delegation. | Photo: AICF",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://www.chessdom.com/9th-cherry-blossom-classic/",
          "pubDate" : "Thu, 12 May 2022 14:01:47 +0000",
          "title" : "9th Cherry Blossom Classic"
-      },
-      {
-         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 7 kicks off Thursday at 14.00 CEST. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
-         "pubDate" : "Thu, 12 May 2022 13:55:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "The English Seniors Chess Championships 50+ &#38; 65+, supported by Chessable, took place from 4-8 May at the Holiday Inn Hotel in Kenilworth.LIVE now:&#160;Grand Chess Tour Romania 2022&#160;/&#160;IPCA World Individual Chess Championship 2022&#160;/&#160;Polish Open and Women&#x2019;s Chess Championships 2022 GM Mark Hebden triumphed in the 50+ competition with 22 players and with a convincing score []",
@@ -224,14 +240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1740",
          "pubDate" : "Wed, 11 May 2022 15:46:56 +0000",
          "title" : "FIDE elections: Call to Candidates"
-      },
-      {
-         "description" : "The 31st Southeast Asian Games (SEA Games) officially commenced their chess games on May 10, 2022, in Ha Long city, Quang Ninh province, Vietnam.&#160;LIVE now:&#160;Grand Chess Tour Romania 2022&#160;/&#160;IPCA World Individual Chess Championship 2022&#160;/&#160;Polish Open and Women&#x2019;s Chess Championships 2022 This year, the event features 55 top chess players from seven Southeast Asian countries: Indonesia, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/four-rounds-played-at-31st-southeast-asian-games-in-vietnam/",
-         "pubDate" : "Wed, 11 May 2022 15:05:11 +0000",
-         "title" : "Four rounds played at 31st Southeast Asian Games in Vietnam"
       },
       {
          "description" : " While I was in Thailand, there were a number of news stories about the South East Asia Games, which were about to start in Vietnam. It seemed to be a pretty big deal in Thailand, and probably in other countries as well. One sport that is part of the program (and is a full medal sport) is Chess. Medals are being awarded for standard chess, as well as rapidplay and blitz, for both Men and Women (I'm assuming that there is no Open section). Although both events are small, they are very strong, with every participant holding a title. The homepage for the Games is <a href=\"https://seagames2021.com/?lang=en-US\">https://seagames2021.com/?lang=en-US</a> although following the chess results is a lit",
@@ -1690,7 +1698,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#x2e;&#x77;&#x69;c&#107;&#104;&#x61;&#x6d;&#x40;bt&#105;&#x6e;&#x74;&#x65;rn&#101;&#116;&#x2e;&#x63;&#x6f;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#x72;&#x2e;w&#105;&#99;&#x6b;&#x68;a&#109;&#x40;&#x62;t&#105;&#110;&#x74;&#x65;r&#110;&#x65;&#x74;&#46;&#99;&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2248,14 +2256,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/8-things-i-learned-from-failing-to-get-a-wim-norm/",
          "pubDate" : "Sat, 23 Apr 2022 13:05:56 +0000",
          "title" : "8 Things I Learned From Failing To Get A WIM-Norm"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1702",
-         "pubDate" : "Sat, 23 Apr 2022 11:16:16 +0000",
-         "title" : "American Cup: Day 3 Recap"
       },
       {
          "description" : "The world's top chess authorities have already voted to rebuke Russia for its egregious invasion of Ukraine. The unanimous decision by the International Chess Federation (FIDÉ) to ban Russians from competing under their own flag, and deprive the country of the Chess Olympiad, originally scheduled for Moscow this summer, is extraordinary. This is not just []",
