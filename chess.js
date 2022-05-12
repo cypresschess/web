@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A few days after the announcement of the German Open National Team for the upcoming 44th Chess Olympiad 2022, it has been disclosed who will compete for the German Women's Team. The Women's Team will be captained and coached by Yuri Yakovich, who named the following five players to represent Germany in India from 28th []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/germany-announces-womens-team-for-44th-chess-olympiad-2022/",
+         "pubDate" : "Thu, 12 May 2022 15:10:59 +0000",
+         "title" : "Germany announces Women's Team for 44th Chess Olympiad 2022"
+      },
+      {
          "description" : "The King's Indian is a very straight-forward, aggressive opening. Basically, Black builds up a system in the first couple of moves, and once it is set up, the attacking begins! White tries to counter on the queenside, in most cases. But please take a look at it all for yourself in this episode of \"Svitlana's Smart Moves\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-40",
          "pubDate" : "Thu, 12 May 2022 16:10:00 +0100",
          "title" : "Svitlana's Smart Moves - The King's Indian"
-      },
-      {
-         "description" : " Share! Emory Andrew Tate Jr. (December 27, 1958 - October 17, 2015)(announcement, obituary) December The Chess Drum's Highlights of 2015! (31 December 2015) Chess Duel: Sevian vs. Grandelius! (31 December 2015) Colas bags GM norm in Vegas! (31 December 2015) African Chess made strides in 2015 (30 December 2015) 2015 Zimbabwe Open (Harare, Zimbabwe) (29 The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/12/news-briefs-index-2015/\">News Briefs Index (2015)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/05/12/news-briefs-index-2015/",
-         "pubDate" : "Thu, 12 May 2022 14:21:03 +0000",
-         "title" : "News Briefs Index (2015)"
       },
       {
          "description" : "The 9th edition of the Cherry Blossom Classic will take place from 26-30 May at Washington Dulles Airport Marriott in Virginia.LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;IPCA World Individual Chess Championship 2022&#xA0;/&#xA0;Polish Open and Women&#x2019;s Chess Championships 2022 The event will feature 6 tournaments: Open tournament, U2300, U2000, U1700, U1400 and U1100. Most of the events []",
@@ -208,14 +208,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/sea-games.html",
          "pubDate" : "Wed, 11 May 2022 13:41:00 +0000",
          "title" : "SEA Games"
-      },
-      {
-         "description" : "The 15th International Chess Tournament Tashkent Open took place in the city of Tashkent, from May 3 to May 12, 2022. The event hosted in the building of the Tashkent International Chess Academy is dedicated to the memory of Georgy Agzamov, the first grandmaster of Uzbekistan. The 2022 Tashkent Open Memorial of Georgy Agzamov []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aleksandar-indjic-wins-15th-tashkent-open-memorial-of-georgy-agzamov/",
-         "pubDate" : "Wed, 11 May 2022 13:26:27 +0000",
-         "title" : "Aleksandar Indjic wins 15th Tashkent Open - Memorial of Georgy Agzamov"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91496134.cms\" />Seasoned campaigner Pradeep Tiwari won the national amateur chess championship for below 2000 players in Jaipur. Representing Defence Accounts Sports Control Board (DASCB), city's Tiwari, secured 7.5 points in 9-nine round swiss league tournament to emerge champion. He was rewarded 16,000 in cash.",
@@ -706,7 +698,7 @@ news_feed (
          "title" : "FIDE last Russian sponsor specializes in counter sanctions"
       },
       {
-         "description" : " Top-seed Brewington Hardaway won the K8 National Championship on tiebreaks over four co-champions. All ended with 6/7. Now 13, Brewington has continued to improve and adds the K8 title to add to the 7th grade title he won at the K12 Championships in December. He also got 9/9 in the XXXI Pan American Youth Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/\">Brewington Hardaway wins K8!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Share!2Top-seed Brewington Hardaway won the K8 National Championship on tiebreaks over four co-champions. All ended with 6/7. Now 13, Brewington has continued to improve and adds the K8 title to add to the 7th grade title he won at the K12 Championships in December. He also got 9/9 in the XXXI Pan American Youth Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/\">Brewington Hardaway wins K8!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/",
@@ -1690,7 +1682,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;&#119;&#105;&#99;&#x6b;&#x68;&#x61;&#x6d;&#x40;&#x62;&#x74;int&#101;&#114;&#110;&#101;&#116;&#x2e;&#x63;&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#x69;&#x63;&#107;&#104;&#97;&#109;&#64;btin&#x74;&#x65;&#x72;&#x6e;&#x65;&#x74;&#x2e;&#x63;&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
