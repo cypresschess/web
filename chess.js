@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The All India Chess Federation has announced the biggest squad of Indian teams for the upcoming FIDE Olympiad. Vishy Anand has been named as the mentor for all four Indian teams, while the country's third GM in history, Pravin Thipsay, will be the Head of the Delegation. | Photo: AICF",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/india-strong-squads-olympiad-chennai",
+         "pubDate" : "Thu, 12 May 2022 20:00:00 +0100",
+         "title" : "India presents four strong teams for the Olympiad in Chennai"
+      },
+      {
+         "description" : "FIDE Congress and General Assembly will be held simultaneously with the 44th Chess Olympiad 2022 in Chennai, India between&#160;31 July 2022 and 09 August. This year, the FIDE Congress includes FIDE elections which will be completed on 7-8 August. The actual FIDE President Arkady Dvorkovich spoke in April about his intention to run for reelection, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dvorkovich-announces-his-team-on-the-way-to-2022-fide-elections/",
+         "pubDate" : "Thu, 12 May 2022 17:56:32 +0000",
+         "title" : "Dvorkovich announces his team on the way to 2022 FIDE elections"
+      },
+      {
+         "description" : "The year is 1935. Salo Flohr just won the 2nd Moscow International Tournament in front of Mikhail Botvinnik, Emanuel Lasker, and Jose Raul Capablanca. The late Yuri Averbakh is 13 years old. He knows the rules of chess but is not an enthusiast yet. A lecture by Nikolai Grigoriev is about to give birth to a love for chess that will dictate each day of the 87 years that Averbakh has left to live.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/how-yuri-averbakh-fell-in-love-with-chess-grigoriev-best-pawn-studies",
+         "pubDate" : "Thu, 12 May 2022 17:04:40 +0000",
+         "title" : "How Yuri Averbakh fell in love with chess - Grigoriev's best pawn studies"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Levon Aronian after his draw with Fabiano Caruana in Round 7 of the Superbet Chess Classic. 2022.05.12<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-aronian-mike-tyson%E2%80%99s-lesson-fear-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/825qrYDUYeI.jpg?itok=9KOQBkPj\" alt=\"\" /><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/levon-aronian-mike-tyson%E2%80%99s-lesson-fear-round-7",
+         "pubDate" : "Thu, 12 May 2022 16:49:29 +0000",
+         "title" : "Levon Aronian: Mike Tyson's Lesson on Fear | Round 7"
+      },
+      {
+         "description" : "FIDE&#38;rsquo;s Vice President CM Enyonam Sewa Fumey from Togo has joined the&#38;nbsp;presidential race for the 2022 elections of the international chess federation. The elections will take place in Chennai, India, on August 7 during this year&#39;s FIDE Ge...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-presidential-candidate-enyonam-sewa-fumey-interview",
+         "pubDate" : "Thu, 12 May 2022 08:35:00 -0700",
+         "title" : "Fumey's Presidential Bid: 'FIDE Can No Longer Afford a Russian President'"
+      },
+      {
          "description" : "A few days after the announcement of the German Open National Team for the upcoming 44th Chess Olympiad 2022, it has been disclosed who will compete for the German Women's Team. The Women's Team will be captained and coached by Yuri Yakovich, who named the following five players to represent Germany in India from 28th []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -74,14 +114,6 @@ news_feed (
          "title" : "Argentinean Women's Championship: Fernandez clinches fifth title"
       },
       {
-         "description" : "Levon Aronian grabbed a 25-move win over Maxime Vachier-Lagrave to catch Wesley So in the lead of the Superbet Chess Classic. Aronian and So have a full-point lead over a 4-player chasing pack with three rounds to go at the inaugural event of this year's Grand Chess Tour. In the other decisive game of round 6, Leinier Dominguez defeated local rising star Bogdan-Daniel Deac. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r6",
-         "pubDate" : "Thu, 12 May 2022 10:45:00 +0100",
-         "title" : "Superbet: Aronian scores, shares the lead with So"
-      },
-      {
          "description" : "Round six saw a shake-up of the standings after two crucial games ended decisively, with GM Levon Aronian swiftly beating GM Maxime Vachier-Lagrave in just 25 moves, and GM Leinier Dominguez winning a hair-raising and heart-breaking battle against...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -146,6 +178,14 @@ news_feed (
          "title" : "Gukesh scores a hat-trick, wins Chessable Sunway Formentera Open"
       },
       {
+         "description" : "Levon Aronian grabbed a 25-move win over Maxime Vachier-Lagrave to catch Wesley So in the lead of the Superbet Chess Classic. Aronian and So have a full-point lead over a 4-player chasing pack with three rounds to go at the inaugural event of this year's Grand Chess Tour. In the other decisive game of round 6, Leinier Dominguez defeated local rising star Bogdan-Daniel Deac. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r6",
+         "pubDate" : "Wed, 11 May 2022 18:30:00 +0100",
+         "title" : "Superbet: Aronian scores, shares the lead with So"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91500156.cms\" />Five-time Chess world champion Viswanathan Anand said on Wednesday that he is optimistic about India's chances of winning big at the 44th Chess Olympiad 2022, which will begin in Chennai on July 28.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -192,14 +232,6 @@ news_feed (
          "link" : "https://www.chessdom.com/four-rounds-played-at-31st-southeast-asian-games-in-vietnam/",
          "pubDate" : "Wed, 11 May 2022 15:05:11 +0000",
          "title" : "Four rounds played at 31st Southeast Asian Games in Vietnam"
-      },
-      {
-         "description" : "The 2022 Kyrgyzstan Open and Women's National Chess Championships concluded today in the Kyrgyzstan capital, Bishkek. The events were simultaneously played from April 30 May 11.LIVE now:&#160;Grand Chess Tour Romania 2022&#160;/&#160;IPCA World Individual Chess Championship 2022&#160;/&#160;Polish Open and Women&#x2019;s Chess Championships 2022 60 players competed in the Open event through 11 rounds. IM Semetey []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kyrgyzstan-crowns-national-chess-champions-2022/",
-         "pubDate" : "Wed, 11 May 2022 15:04:00 +0000",
-         "title" : "Kyrgyzstan crowns National Chess Champions 2022"
       },
       {
          "description" : " While I was in Thailand, there were a number of news stories about the South East Asia Games, which were about to start in Vietnam. It seemed to be a pretty big deal in Thailand, and probably in other countries as well. One sport that is part of the program (and is a full medal sport) is Chess. Medals are being awarded for standard chess, as well as rapidplay and blitz, for both Men and Women (I'm assuming that there is no Open section). Although both events are small, they are very strong, with every participant holding a title. The homepage for the Games is <a href=\"https://seagames2021.com/?lang=en-US\">https://seagames2021.com/?lang=en-US</a> although following the chess results is a lit",
@@ -1146,14 +1178,6 @@ news_feed (
          "title" : "2022 Superbet Chess Classic: Round 8"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Sheraton Bucharest Hotel, the Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players (Caruana, Aronian, Firouzja, So, Mamedyarov, Nepomniachtchi, Rapport, Dominguez, and MVL) are joined by a wildcard (Deac) for a classical round robin. Join GMs Peter Svidler, Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovich for the move-by-move. 2022.05.12<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-round-7",
-         "pubDate" : "Thu, 05 May 2022 16:44:22 +0000",
-         "title" : "2022 Superbet Chess Classic: Round 7"
-      },
-      {
          "description" : "The European Youth Chess Championship 2022 will take place from 5th November (arrival day) 15th November (departure day) in Antalya, Turkey. The event will be played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each national federation, which is a member of the European Chess Union, can register one&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2022-official-invitation/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1530,28 +1554,12 @@ news_feed (
          "title" : "Chess Olympiad: Anand to mentor India, hosts to field two teams"
       },
       {
-         "description" : "GM Ian Nepomniachtchi&#38;nbsp;won week 12 of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Nodirbek Abdusattorov in the knockout final, after also finishing first in the Saturday Swiss. GM Hikaru Nakamura finished ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-12-nepomniachtchi-wins",
-         "pubDate" : "Mon, 02 May 2022 10:29:00 -0700",
-         "title" : "Nepomniachtchi Wins Knockout: Rapid Chess Championship Week 12"
-      },
-      {
          "description" : "What is the most important phase of the game? Surprisingly, many club players get the answer wrong. Usually, they put a lot of effort into positions that are approximately equal. However, once they get a much better or much worse position, they tend to relax a bit. In an almost winning position, a voice in the head of such a player whispers: \"You are great, my dear, and you have proved that already. The rest of the game is a mere formality.\" And in a lost position, this voice says: \"You have played rubbish. Ok, you have to pretend some fight, but the game is decided already, you will surely be defeated.\" Although psychologically understandable, this approach is wrong. Why? | Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-winning-academy-9-fight-till-the-very-end",
          "pubDate" : "Mon, 02 May 2022 18:00:00 +0100",
          "title" : "The Winning Academy 9: Fight till the very end!"
-      },
-      {
-         "description" : "Ding Liren's incredible 28-game April marathon has seen him not only complete the 30 games he needed to be eligible for the Candidates Tournament, but also taken him above Alireza Firouzja into the world no. 2 spot on the May 2022 FIDE rating list. Richard Rapport is up to a career-high world no. 5, Sam Sevian has entered the 2700 club, while Gukesh, Hans Niemann, Alan Pichot, Jules Moussard and Amin Tabatabaei all entered the Top 100 for the first time.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ding-liren-world-no-2-on-may-2022-fide-rating-list",
-         "pubDate" : "Mon, 02 May 2022 16:30:32 +0000",
-         "title" : "Ding Liren world no. 2 on May 2022 FIDE rating list"
       },
       {
          "description" : " <p class=\"lead\">Noam Sason, 8, <a href=\"https://www.timesofisrael.com/8-year-old-israeli-wins-european-chess-championship/\">won the European school chess championship</a> for children under 9 in Rhodes, Greece. He scored 7 out of 9 and defeated players from Turkey, Greece, Georgia, Romania, and Ukraine. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/97B79EE5-A3AE-4E04-84ED-3BA751F14363.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Spectators at the 2016 World Chess Championship Match in New York's South Street Sea Port</div> </div> Noam's success comes on the heels of his other chess accomplishments, as well as support from his parents",
@@ -1682,7 +1690,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#x69;&#x63;&#107;&#104;&#97;&#109;&#64;btin&#x74;&#x65;&#x72;&#x6e;&#x65;&#x74;&#x2e;&#x63;&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#x2e;&#x77;&#x69;c&#107;&#104;&#x61;&#x6d;&#x40;bt&#105;&#x6e;&#x74;&#x65;rn&#101;&#116;&#x2e;&#x63;&#x6f;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2088,14 +2096,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/4/26/ep-276-gm-michael-adams-stories-and-lessons-from-mickeys-decades-among-the-chess-elite",
          "pubDate" : "Tue, 26 Apr 2022 13:36:54 +0000",
          "title" : "EP 276- GM Michael Adams- Stories and Lessons from Mickey's decades Among the Chess Elite "
-      },
-      {
-         "description" : "The 16-year-old Indian Grandmaster Praggnanandhaa started the Oslo Esports Cup with a series of three won matches. But in his duel against Magnus Carlsen in round four he did not find his rhythm, and Carlsen outplayed his young opponent in all three games to win the match 3-0. After four rounds Carlsen and Pragg now both have 9.0/12 and share the lead in the tournament. | Photos and pictures: Play Magnus Group",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oslo-esports-cup-day-4-carlsen-crushes-praggnanandhaa-3-0",
-         "pubDate" : "Tue, 26 Apr 2022 13:09:48 +0100",
-         "title" : "Oslo Esports Cup, Day 4: Carlsen crushes Praggnanandhaa 3-0"
       },
       {
          "description" : "",
