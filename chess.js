@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The King's Indian is a very straight-forward, aggressive opening. Basically, Black builds up a system in the first couple of moves, and once it is set up, the attacking begins! White tries to counter on the queenside, in most cases. But please take a look at it all for yourself in this episode of \"Svitlana's Smart Moves\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-40",
+         "pubDate" : "Thu, 12 May 2022 16:10:00 +0100",
+         "title" : "Svitlana's Smart Moves - The King's Indian"
+      },
+      {
+         "description" : " Share! Emory Andrew Tate Jr. (December 27, 1958 - October 17, 2015)(announcement, obituary) December The Chess Drum's Highlights of 2015! (31 December 2015) Chess Duel: Sevian vs. Grandelius! (31 December 2015) Colas bags GM norm in Vegas! (31 December 2015) African Chess made strides in 2015 (30 December 2015) 2015 Zimbabwe Open (Harare, Zimbabwe) (29 The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/12/news-briefs-index-2015/\">News Briefs Index (2015)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/05/12/news-briefs-index-2015/",
+         "pubDate" : "Thu, 12 May 2022 14:21:03 +0000",
+         "title" : "News Briefs Index (2015)"
+      },
+      {
+         "description" : "The 9th edition of the Cherry Blossom Classic will take place from 26-30 May at Washington Dulles Airport Marriott in Virginia.LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;IPCA World Individual Chess Championship 2022&#xA0;/&#xA0;Polish Open and Women&#x2019;s Chess Championships 2022 The event will feature 6 tournaments: Open tournament, U2300, U2000, U1700, U1400 and U1100. Most of the events []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/9th-cherry-blossom-classic/",
+         "pubDate" : "Thu, 12 May 2022 14:01:47 +0000",
+         "title" : "9th Cherry Blossom Classic"
+      },
+      {
          "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 7 kicks off Thursday at 14.00 CEST. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -216,14 +240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1748",
          "pubDate" : "Wed, 11 May 2022 12:00:11 +0000",
          "title" : "Timur Gareyev wins XV Americas Individual Championship"
-      },
-      {
-         "description" : "Deep Blue versus Garry Kasparov&#160;was a pair of six-game&#160;chess&#160;matches between the&#160;13th World Chess Champion&#160;Garry Kasparov&#160;and an IBM&#160;supercomputer&#160;called&#160;Deep Blue. The first match was played in 1996, from 10-17 February in Philadelphia. Kasparov won the match with score of 4&#x2013;2. A rematch was played in 1997, from 3-11 May. 25 years ago today was the last game []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/throwback-to-1997-deep-blue-defeats-kasparov-tweetoftheday/",
-         "pubDate" : "Wed, 11 May 2022 11:31:04 +0000",
-         "title" : "Throwback to 1997 - Deep Blue defeats Kasparov #TweetOftheDay"
       },
       {
          "description" : "",
@@ -690,7 +706,7 @@ news_feed (
          "title" : "FIDE last Russian sponsor specializes in counter sanctions"
       },
       {
-         "description" : " Share!2Top-seed Brewington Hardaway won the K8 National Championship on tiebreaks over four co-champions. All ended with 6/7. Now 13, Brewington has continued to improve and adds the K8 title to add to the 7th grade title he won at the K12 Championships in December. He also got 9/9 in the XXXI Pan American Youth Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/\">Brewington Hardaway wins K8!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Top-seed Brewington Hardaway won the K8 National Championship on tiebreaks over four co-champions. All ended with 6/7. Now 13, Brewington has continued to improve and adds the K8 title to add to the 7th grade title he won at the K12 Championships in December. He also got 9/9 in the XXXI Pan American Youth Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/\">Brewington Hardaway wins K8!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/",
@@ -1674,7 +1690,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#x69;&#99;&#107;&#104;&#97;m&#64;bt&#x69;&#x6e;&#x74;&#x65;&#x72;&#x6e;&#101;&#116;&#46;&#99;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;&#119;&#105;&#99;&#x6b;&#x68;&#x61;&#x6d;&#x40;&#x62;&#x74;int&#101;&#114;&#110;&#101;&#116;&#x2e;&#x63;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2106,14 +2122,6 @@ news_feed (
          "title" : "Motion on Ukraine approved - ECF Finance Council Meeting"
       },
       {
-         "description" : "Both GM Fabiano Caruana (pictured) and GM Irina Krush managed to qualify to the finals of the American Cup, after drawing the second game and avoiding a playoff in their Champions Bracket matches against GM Leinier Dominguez and FM Alice Lee. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-day-5-recap-2",
-         "pubDate" : "Tue, 26 Apr 2022 09:43:18 +0100",
-         "title" : "American Cup, Day 6: Caruana and Krush qualify to the finals"
-      },
-      {
          "description" : " &#8220;The Exchange Variation is without doubt one of White's best weapons versus the popular Slav Defense. By creating a symmetrical position with an extra tempo, White keeps Black's counter play to a minimum while developing positional pressure&#8221; Silman and Donaldson I am going to acknowledge the elephant in the room by saying this variation is <a href=\"https://chessimprover.com/need-sure-points-queens-gambit-declined-slav-exchange-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Queen's Gambit Declined Slav, Exchange Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-quee",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2336,14 +2344,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/not-sure-about-defending-world-title-magnus-carlsen/articleshow/90995007.cms",
          "pubDate" : "Fri, 22 Apr 2022 05:15:39 +0000",
          "title" : "Not sure about defending world title: Magnus Carlsen"
-      },
-      {
-         "description" : " During the ACT Junior Rapid Championships, I witnessed not one, but two R v B endings (no pawns mind you). As the players involved were relatively inexperienced, finding the correct defence proved elusive. It is a draw if the side with the Bishop can get their king into the corner of the opposite colour to the bishop, as stalemate tricks then save the day. In the first case the weaker side got their king caught in the middle of the back rank and lost the bishop to zugswang. In the second game, the defending side found a better strategy, putting the side with the rook into check, and then pointing out an illegal move when the rook was moved. After resetting the position I pointed out that to",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/04/r-v-b.html",
-         "pubDate" : "Thu, 21 Apr 2022 13:19:00 +0000",
-         "title" : "R v B"
       }
    ]
 }
