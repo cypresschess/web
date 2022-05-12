@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1753",
+         "pubDate" : "Thu, 12 May 2022 23:13:59 +0000",
+         "title" : "Call for interest: Fair Play Experts"
+      },
+      {
+         "description" : "Alireza Firouzja is back in the hunt for the Superbet Chess Classic title after winning a thrilling game against Leinier Dominguez. Shakhriyar Mamedyarov also grabbed his 1st win of the event, but only after Ian Nepomniachtchi missed a clear win of his own. The biggest blunder of the day was made by Richard Rapport, who helped Maxime Vachier-Lagrave bounce back from his own troubles the day before. Wesley So and Levon Aronian both drew and still lead with two rounds to go.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-classic-7-firouzja-mamedyarov-grab-1st-wins",
+         "pubDate" : "Thu, 12 May 2022 21:32:25 +0000",
+         "title" : "Superbet Classic 7: Firouzja & Mamedyarov grab 1st wins"
+      },
+      {
          "description" : "Levon Aronian and Wesley So continue to share the lead at the Superbet Chess Classic despite three games finishing decisively in the seventh round. After losing to Aronian on Wednesday, Maxime Vachier-Lagrave bounced back with a win over Richard Rapport - the Frenchman is now in sole third place, a half point behind the leaders. Meanwhile, both Shakhriyar Mamedyarov and Alireza Firouzja collected their first wins of the event. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -514,7 +530,7 @@ news_feed (
          "title" : "2022 Superbet Chess Classic: Opponents"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The Corporate Chess League final four teams meet in a three-round championship round robin. Join NM Caleb Denby for the move-by-move. 2022.05.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-corporate-chess-league-spring-championship\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CDUCyxY-62w.jpg?itok=VFXHYdj3\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> FOLLOW GAMES: <a href=\"https://lichess.org/broadcast/final-four-corporate-chess-league-spring-2022/round-1/3cZpcpJZ\">https://lichess.org/broadcast/final-four-corporate-chess-league-spring-2...</a> The Corporate Chess League final four teams meet in a three-round championship round robin. Join NM Caleb Denby for the move-by-move. 2022.05.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-corporate-chess-league-spring-championship\"><img src=\"https://",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-corporate-chess-league-spring-championship",
@@ -1442,14 +1458,6 @@ news_feed (
          "title" : "Vaishali wins chess tournament in Greece"
       },
       {
-         "description" : "Jan's Opening Clinic is back, and in the 1st episode of Season 27, Grandmaster Jan Gustafsson, who was instrumental in World Champion Magnus Carlsen offering to play the Marshall in Dubai in 2021, explains why Ian Nepomniachtchi and other challengers have tended to dodge the main lines. He also offers advice on how to meet a move Magnus has also played, 1.b4 (the Orangutan or Polish Opening), and 3.h4 against the Gr&uuml;nfeld. There's still some time to ask a question for Jan to answer in one of the upcoming shows!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/jan-s-opening-clinic-season-27-episode-1",
-         "pubDate" : "Tue, 03 May 2022 15:44:50 +0000",
-         "title" : "Jan's Opening Clinic Season 27, Episode 1"
-      },
-      {
          "description" : "The 2022 Junior Speed Chess Championship by SIG returned today with a high-octane quarterfinal between GMs Brandon Jacobson&#38;nbsp;and GM Awonder Liang where viewers were graced with yet another stellar comeback in the championship.&#38;nbsp; Liang wa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1698,7 +1706,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#x72;&#x2e;w&#105;&#99;&#x6b;&#x68;a&#109;&#x40;&#x62;t&#105;&#110;&#x74;&#x65;r&#110;&#x65;&#x74;&#46;&#99;&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;wickham&#64;btinternet&#46;c&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2240,14 +2248,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/04/23/jerald-times-embroiled-in-legal-chess-battle/",
          "pubDate" : "Sat, 23 Apr 2022 22:54:49 +0000",
          "title" : "Jerald Times scores victory in legal chess battle"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1703",
-         "pubDate" : "Sat, 23 Apr 2022 15:25:53 +0000",
-         "title" : "World Book Day: Chess Perspective"
       },
       {
          "description" : " This is a guest article by my amazing girlfriend WFM Alessia Santeramo. She writes about her recent experience at a closed OTB Classical Chess Tournament. Check Alessia out on her Twitch &#38; YouTube and leave her a follow :-). Enjoy! Finally, I've played my first OTB tournament after 2,5 years of just playing online chess. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/8-things-i-learned-from-failing-to-get-a-wim-norm/\">8 Things I Learned From Failing To Get A WIM-Norm</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
