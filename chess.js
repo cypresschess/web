@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 7 kicks off Thursday at 14.00 CEST. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
+         "pubDate" : "Thu, 12 May 2022 13:55:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "The English Seniors Chess Championships 50+ &#38; 65+, supported by Chessable, took place from 4-8 May at the Holiday Inn Hotel in Kenilworth.LIVE now:&#160;Grand Chess Tour Romania 2022&#160;/&#160;IPCA World Individual Chess Championship 2022&#160;/&#160;Polish Open and Women&#x2019;s Chess Championships 2022 GM Mark Hebden triumphed in the 50+ competition with 22 players and with a convincing score []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2022-english-senior-chess-champions-announced/",
+         "pubDate" : "Thu, 12 May 2022 12:06:29 +0000",
+         "title" : "2022 English Senior Chess Champions announced"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> For the first time since 15 months, <strong>Magnus Carlsen</strong> played on his company's rival platform <strong>Chess.com</strong> and <a href=\"https://www.chess.com/news/view/carlsen-wins-surprise-titled-tuesday-appearance-may-10-2022\">won the Titled Tuesday with 10/11</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/carlsen-surprise-visit-on-chesscom/",
+         "pubDate" : "Thu, 12 May 2022 12:17:03 +0100",
+         "title" : "Carlsen surprise visit on Chess.com"
+      },
+      {
+         "description" : "The FIDE World Cadets Chess Championships 2022, a tournament organized by FIDE, the Georgian Chess Federation and the Georgian Chess Club &#x201C;64&#x201D;, will take place in Batumi, Georgia from September 15-28, 2022. The championships will be held in three age groups Under 8, 10, 12 and 2 sections open and girls (totally 6 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-cadets-u8-u10-u12-chess-championships-2022/",
+         "pubDate" : "Thu, 12 May 2022 10:35:13 +0000",
+         "title" : "FIDE World Cadets U8, U10 & U12 Chess Championships 2022"
+      },
+      {
          "description" : "The 44th Chess Olympiad 2022 will take place from 28th July 10th August in Chennai, India, and 100 countries already registered for the event. Two and a half months before the start of the event, Jersey officially confirmed they will have the Women's Team in the upcoming Olympiad. This is a historical moment for []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -30,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-6",
-         "pubDate" : "Thu, 12 May 2022 02:14:26 -0700",
+         "pubDate" : "Thu, 12 May 2022 02:14:00 -0700",
          "title" : "Aronian Wins Miniature, Joins Lead: 2022 Superbet Chess Classic Romania, Day 6"
       },
       {
@@ -210,14 +242,6 @@ news_feed (
          "title" : "Southeast Asian Games kick off in Ha Long, Vietnam"
       },
       {
-         "description" : "The French Individual Chess Championships 2022 will take place from 13-21 August in the city of Albi. A magnificent city listed as a UNESCO World Heritage Site will host the 95th edition of the French Individual Chess Championship after three years of pause caused by the pandemic of Covid19.LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;IPCA World []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/albi-to-host-french-individual-chess-championships-2022/",
-         "pubDate" : "Wed, 11 May 2022 10:31:57 +0000",
-         "title" : "Albi to host French Individual Chess Championships 2022"
-      },
-      {
          "description" : "National U-18(18-23 April, 2022) Certificates are out to Download Links: Female https://aicf.online/Under-18-Female.html Male https://aicf.online/U-18-Male.html Any Correction Mail at- Aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -240,14 +264,6 @@ news_feed (
          "link" : "https://aicf.in/selection-of-additional-indian-team-for-chess-olympiad-2022/",
          "pubDate" : "Wed, 11 May 2022 09:11:52 +0000",
          "title" : "SELECTION OF ADDITIONAL INDIAN TEAM FOR CHESS OLYMPIAD 2022"
-      },
-      {
-         "description" : "The XV Continental Chess Championship of the Americas 2022 took place from May 1-11, 2022 at the Best Western Hotel Terraza, San Salvador, El Salvador. 117 players from 10 countries competed in 11 rounds swiss tournament, fighting for the total prize fund of 20.000$ and four qualification spots for the FIDE World Cup. GM Timur []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/timur-gareyev-becomes-xv-continental-champion-of-the-americas/",
-         "pubDate" : "Wed, 11 May 2022 09:07:59 +0000",
-         "title" : "Timur Gareyev becomes XV Continental Champion of the Americas"
       },
       {
          "description" : "The ECU E-Magazine April 2022 is out! The May 2022 edition of the ECU Magazine can be read online together with interactive links on the following link, or it can be downloaded in PDF format down bellow. In this edition of the ECU E-Magazine you may read about: European School Chess Championship 2022 Mitropa Chess Cup 2022 ECU&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-april-2022/\">Read More &#187;</a></span>",
@@ -1154,14 +1170,6 @@ news_feed (
          "title" : "Unmasked emotions: a trip to Havana"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Jan Gustafsson</strong>, second of Magnus Carlsen and founder of <strong>chess24</strong>, is <a href=\"https://www.schachbund.de/team-news/schacholympiade-teamcaptain-gustafsson-nominiert-olympiakader.html\">returning as non-playing captain to the team</a> of the <strong>German Chess Federation</strong>, with which he became European Champion 2011 and for which he last played in 2012. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/gustafsson-captains-german-team/",
-         "pubDate" : "Thu, 05 May 2022 13:24:49 +0100",
-         "title" : "Gustafsson captains German team"
-      },
-      {
          "description" : "Two rounds, two wins. Arjun Erigaisi won his second game at the Tepe Sigemann & Co tournament in Malm&ouml;. The Indian grandmaster's victory over Saleh Salem was the only decisive game of the second round. The other three games ended in draws, with Alexei Shirov and Jorden van Foreest playing a particularly fierce battle. | Photos: Lars OA Hedlund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1666,7 +1674,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#46;&#x72;&#46;&#119;&#x69;&#x63;k&#104;&#x61;&#x6d;&#64;&#98;&#x74;&#x69;n&#116;&#x65;&#x72;n&#101;&#x74;&#x2e;c&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#x69;&#99;&#107;&#104;&#97;m&#64;bt&#x69;&#x6e;&#x74;&#x65;&#x72;&#x6e;&#101;&#116;&#46;&#99;&#111;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2104,14 +2112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/american-cup-day-5-recap-2",
          "pubDate" : "Tue, 26 Apr 2022 09:43:18 +0100",
          "title" : "American Cup, Day 6: Caruana and Krush qualify to the finals"
-      },
-      {
-         "description" : "In the diagrammed position White is a piece up but Black's queenside pawns look dangerous. However, the white bishop has everything under control. How does White stop the black pawns and win the game?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/trust-the-bishop",
-         "pubDate" : "Tue, 26 Apr 2022 09:00:00 +0100",
-         "title" : "Trust the bishop"
       },
       {
          "description" : " &#8220;The Exchange Variation is without doubt one of White's best weapons versus the popular Slav Defense. By creating a symmetrical position with an extra tempo, White keeps Black's counter play to a minimum while developing positional pressure&#8221; Silman and Donaldson I am going to acknowledge the elephant in the room by saying this variation is <a href=\"https://chessimprover.com/need-sure-points-queens-gambit-declined-slav-exchange-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Queen's Gambit Declined Slav, Exchange Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-quee",
