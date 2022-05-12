@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Levon Aronian beat Maxime Vachier-Lagrave with Black in just 25 moves in Round 6 to catch Wesley So in the Superbet Chess Classic lead with three rounds to go. A 5-player pack is a full point behind the leaders, including Leinier Dominguez, who became the first player to beat Bogdan-Daniel Deac in Bucharest. So-Rapport and Caruana-Nepo were relatively uneventful draws, while Alireza Firouzja held on a pawn down against Shakhriyar Mamedyarov in a 96-move grind.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-classic-6-aronian-joins-so-in-the-lead",
+         "pubDate" : "Wed, 11 May 2022 23:15:43 +0000",
+         "title" : "Superbet Classic 6: Aronian joins So in the lead"
+      },
+      {
+         "description" : "IMs Greg Shahade and Lawrence Trent threw down on Wednesday in the second round of 16 match of the I&#39;M Not A GM Speed Chess Championship. This longtime rivalry was settled for the first time ever in favor of the underdog, Trent, who won with a sco...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-imscc-round-of-16-trent-upsets-shahade",
+         "pubDate" : "Wed, 11 May 2022 15:58:00 -0700",
+         "title" : "Trent Upsets Shahade: 2022 IMSCC, Round Of 16"
+      },
+      {
+         "description" : "The players of Grand Chess Tour Romania 2022 revealed in a short interview who they find to be the most interesting opponents at the tournament. Fabiano Caruana was eager to compete against the players he'll meet this year in the Candidates Tournament 2022: &#8220;Most interesting (opponents) will be the players I am going to meet []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-firouzja-is-one-of-the-hardest-players-in-the-world-interview-with-grand-chess-tour-players-video/",
+         "pubDate" : "Wed, 11 May 2022 22:35:40 +0000",
+         "title" : "Fabiano Caruana: \"Firouzja is one of the hardest players in the World\" - Interview with Grand Chess Tour players (VIDEO)"
+      },
+      {
+         "description" : "Chess.com is excited to announce a regulation change to our most elite event. The 2022 Rapid Chess Championship is now open to all grandmasters, starting this weekend on May 14! With this change, more of your favorite players will have the chanc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-new-eligibility-finals-format",
+         "pubDate" : "Wed, 11 May 2022 15:05:00 -0700",
+         "title" : "Rapid Chess Championship Now Open To All Grandmasters, Finals Format Announced"
+      },
+      {
+         "description" : "After yesterday&#x2019;s rest day the players seemed fresh and ready for a day of exhilarating chess on Day 6 of the Superbet Chess Classic Romania. Today&#x2019;s round brought entertaining games with plenty of drama and even some disaster, along with a few tenacious and close battles. Two games were decisive in this round, bringing American []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aronian-joins-so-in-the-lead-grand-chess-tour-romania-2022-r6-recap/",
+         "pubDate" : "Wed, 11 May 2022 21:51:54 +0000",
+         "title" : "Aronian joins So in the lead; Grand Chess Tour Romania 2022 - R6 recap"
+      },
+      {
          "description" : "Two and a half months before the start of the 44th Chess Olympiad 2022, first ever to be held in India, already 100 countries registered for the competition. 101 teams are registered in the Open section and 86 teams confirmed participation in the Women's section. (scroll down for the full story) The Director of the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -234,14 +274,6 @@ news_feed (
          "title" : "Polish Open and Women's Chess Championships 2022 LIVE"
       },
       {
-         "description" : "The 29th Russian Team Championship Premier&#xA0;League, the 23rd Russian Women's Team Championship, the Russian Youth Team Championships (open and girls), and the all-Russian Team Championship Higher League took place from April 30 to May 11, in the Grand Hotel Zhemchuzhina, Sochi.&#xA0;LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;IPCA World Individual Chess Championship 2022 Moscow Chess Team triumphed []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/russia-crowns-national-team-chess-champions-2022/",
-         "pubDate" : "Tue, 10 May 2022 21:26:17 +0000",
-         "title" : "Russia crowns National Team Chess Champions 2022"
-      },
-      {
          "description" : "In his 'Weekly Show' Lawrence Trent focuses on the Superbet Chess Classic currently taking place in Romania. He looks at a fine win by Fabiano Caruana over Shakhriyar Mamedyarov. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -264,14 +296,6 @@ news_feed (
          "link" : "https://chessimprover.com/quick-decisions-9/",
          "pubDate" : "Tue, 10 May 2022 15:23:32 +0000",
          "title" : "Quick Decisions (9)"
-      },
-      {
-         "description" : "The German Youth Individual Chess Championships 2022 will be played from June 4th to June 11th in the Sauerland Stern Hotel in Willingen, the city that hosts German Youth Championships since 1996. Read more: France crowns Youth and Junior Chess Champions 2022 / European Youth Chess Championship 2022 More than 600 children will compete for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/german-youth-individual-chess-championships-2022/",
-         "pubDate" : "Tue, 10 May 2022 15:07:17 +0000",
-         "title" : "German Youth Individual Chess Championships 2022"
       },
       {
          "description" : "Just coming off his victory at the Capablanca Memorial, GM Hans Niemann also emerged victoriously at the Tepe Sigeman &#38;amp; Co Tournament in Malmo, Sweden. The 18-year-old American grandmaster finished on 5/7, a point clear of the pack. How to w...",
@@ -1626,7 +1650,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#46;&#x77;&#x69;c&#x6b;&#104;&#x61;&#x6d;&#64;&#x62;&#116;&#x69;&#x6e;t&#x65;&#114;&#x6e;&#x65;t&#x2e;&#99;&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#46;&#x77;&#x69;&#x63;kh&#97;&#109;&#x40;&#x62;&#x74;&#x69;nt&#101;&#114;&#x6e;&#x65;&#x74;&#x2e;c&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1802,14 +1826,6 @@ news_feed (
          "title" : "Flat earthers miss out I guess"
       },
       {
-         "description" : "The inaugural American Cup crowned its first champions when GM Fabiano Caruana defeated GM Levon Aronian in the final game of the event, and GM Irina Krush confidently drew her game against the sensation of the tournament, FM Alice Lee.&#38;nbsp; Bo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-american-cup-day-9-caruana-krush",
-         "pubDate" : "Fri, 29 Apr 2022 07:05:05 -0700",
-         "title" : "Caruana, Krush Crowned Champions: The American Cup Day 9"
-      },
-      {
          "description" : " The world champion missed a long distance threat and lost three of his seven matches in the Oslo Esports Cup, including Thursday's final round when victory would have ensured first prize An overambitious schedule, a heavy cold and mental fatigue finally caught up with Magnus Carlsen at the Oslo Esports Cup this week. The world champion had won the previous two legs of the online Meltwater Champions Tour and was expected to make it three in his home city, but it was Poland's Jan-Krzysztof Duda who edged ahead in Thursday's final round. Leading scores were Duda (Poland) 14/21, Le Quang Liem (Vietnam) 13, Carlsen (Norway) and Rameshbabu Praggnanandhaa (India) 12, Shak Mamedyarov (Azerbaijan) 1",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1874,28 +1890,12 @@ news_feed (
          "title" : "Duda wins Oslo Esports Cup, Le grabs second place"
       },
       {
-         "description" : "After seven intense days of play, GM Jan-Krzysztof Duda&#38;nbsp;prevailed on the leaderboard with 14 points and won the Oslo Esports Cup, the first major of the Meltwater Champions Chess Tour 2022. GM Le Quang Liem finished in second with 13 points...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oslo-esports-cup-day-7-duda-wins",
-         "pubDate" : "Thu, 28 Apr 2022 19:26:00 -0700",
-         "title" : "Duda Wins: Oslo Esports Cup Day 7"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1718",
          "pubDate" : "Thu, 28 Apr 2022 21:37:31 +0000",
          "title" : "Duda comes from behind to win Oslo Esports Cup"
-      },
-      {
-         "description" : "Polish no. 1 Jan-Krzysztof Duda is the shock winner of the Oslo Esports Cup after his last round victory over Eric Hansen proved enough to claim the title when Magnus Carlsen and Praggnanandhaa crashed to defeat. Both leaders at the start of the day lost two games, with Magnus falling to Shakhriyar Mamedyarov while Anish Giri took down Praggnanandhaa. Liem Le could still have taken the title ahead of Duda, but fell just short of the 3 points he needed when he failed to beat Jorden van Foreest in rapid chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/duda-wins-oslo-esports-cup-as-carlsen-pragg-collapse",
-         "pubDate" : "Thu, 28 Apr 2022 21:04:21 +0000",
-         "title" : "Duda wins Oslo Esports Cup as Carlsen & Pragg collapse"
       },
       {
          "description" : "",
