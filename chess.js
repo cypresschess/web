@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 44th Chess Olympiad 2022 will take place from 28th July 10th August in Chennai, India, and 100 countries already registered for the event. Two and a half months before the start of the event, Jersey officially confirmed they will have the Women's Team in the upcoming Olympiad. This is a historical moment for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jersey-will-have-a-womens-team-in-the-44th-chess-olympiad-2022/",
+         "pubDate" : "Thu, 12 May 2022 10:24:56 +0000",
+         "title" : "Jersey will have a Women's Team in the 44th Chess Olympiad 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1751",
+         "pubDate" : "Thu, 12 May 2022 09:56:01 +0000",
+         "title" : "Argentinean Women's Championship: Fernandez clinches fifth title"
+      },
+      {
+         "description" : "Levon Aronian grabbed a 25-move win over Maxime Vachier-Lagrave to catch Wesley So in the lead of the Superbet Chess Classic. Aronian and So have a full-point lead over a 4-player chasing pack with three rounds to go at the inaugural event of this year's Grand Chess Tour. In the other decisive game of round 6, Leinier Dominguez defeated local rising star Bogdan-Daniel Deac. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r6",
+         "pubDate" : "Thu, 12 May 2022 10:45:00 +0100",
+         "title" : "Superbet: Aronian scores, shares the lead with So"
+      },
+      {
+         "description" : "Round six saw a shake-up of the standings after two crucial games ended decisively, with GM Levon Aronian swiftly beating GM Maxime Vachier-Lagrave in just 25 moves, and GM Leinier Dominguez winning a hair-raising and heart-breaking battle against...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-6",
+         "pubDate" : "Thu, 12 May 2022 02:14:26 -0700",
+         "title" : "Aronian Wins Miniature, Joins Lead: 2022 Superbet Chess Classic Romania, Day 6"
+      },
+      {
          "description" : "Levon Aronian beat Maxime Vachier-Lagrave with Black in just 25 moves in Round 6 to catch Wesley So in the Superbet Chess Classic lead with three rounds to go. A 5-player pack is a full point behind the leaders, including Leinier Dominguez, who became the first player to beat Bogdan-Daniel Deac in Bucharest. So-Rapport and Caruana-Nepo were relatively uneventful draws, while Alireza Firouzja held on a pawn down against Shakhriyar Mamedyarov in a 96-move grind.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -146,14 +178,6 @@ news_feed (
          "title" : "Master Chess Web Show (13)"
       },
       {
-         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 6 kicks off Wednesday at 14.00 CEST. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
-         "pubDate" : "Wed, 11 May 2022 13:55:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -194,7 +218,7 @@ news_feed (
          "title" : "Albi to host French Individual Chess Championships 2022"
       },
       {
-         "description" : "National U-18(18-23 April, 2022) Certificates are out to Download Links: Female https://aicf.online/Under-18-Female.html Any Correction Mail at- Aicfwebmaster2021@gmail.com",
+         "description" : "National U-18(18-23 April, 2022) Certificates are out to Download Links: Female https://aicf.online/Under-18-Female.html Male https://aicf.online/U-18-Male.html Any Correction Mail at- Aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/national-u-18-certificates-out-to-download/",
@@ -258,20 +282,20 @@ news_feed (
          "title" : "Niemann Triumphs Against Ivic: 2022 Junior Speed Chess Championship Round Of 16"
       },
       {
+         "description" : "Endgame tablebases can only be described as \"god chess\" as they are perfect information on all positions they cover, and the terms 'better' or 'worse' cease to have any meaning. Marc Bourzutschky has trained and resolved a large number of the 8-piece tablebase positions and shared his results and findings, as well as insights in a video interview.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/8-piece-endgame-tablebases-first-findings-and-interview",
+         "pubDate" : "Wed, 11 May 2022 00:10:00 +0100",
+         "title" : "8-piece endgame tablebases - first findings and interview!"
+      },
+      {
          "description" : "Round 5 of the Superbet Chess Classic saw Fabiano Caruana bouncing back from his loss on Sunday by taking down defending champion Shakhriyar Mamedyarov. The US grandmaster thus went into the rest day with a fifty-percent score. The remaining games finished drawn, leaving Wesley So in the sole lead, half a point ahead of a three-player chasing pack. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r5",
          "pubDate" : "Wed, 11 May 2022 00:05:00 +0100",
          "title" : "Superbet: Caruana bounces back"
-      },
-      {
-         "description" : "The&#160;79th LOTTO Polish Championship&#160;and the&#160;74th Polish Women&#x2019;s Chess Championship simultaneously take place in Kruszwica, from 9-17 May 2022. The Men&#x2019;s Championship is a 16-player knockout tournament with two classical games in each match, followed, if necessary, by two rapid games, then two blitz games, then Armageddon. The top seeds are: defending National Champion of Poland []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/polish-open-and-womens-chess-championships-2022-live/",
-         "pubDate" : "Tue, 10 May 2022 21:37:19 +0000",
-         "title" : "Polish Open and Women's Chess Championships 2022 LIVE"
       },
       {
          "description" : "In his 'Weekly Show' Lawrence Trent focuses on the Superbet Chess Classic currently taking place in Romania. He looks at a fine win by Fabiano Caruana over Shakhriyar Mamedyarov. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
@@ -304,14 +328,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hans-niemann-wins-2022-tepe-sigeman-co-tournament",
          "pubDate" : "Tue, 10 May 2022 07:58:00 -0700",
          "title" : "Hans Niemann Wins 2022 Tepe Sigeman & Co Tournament"
-      },
-      {
-         "description" : "Endgame tablebases can only be described as \"god chess\" as they are perfect information on all positions they cover, and the terms 'better' or 'worse' cease to have any meaning. Marc Bourzutschky has trained and resolved a large number of the 8-piece tablebase positions and shared his results and findings, as well as insights in a video interview.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/8-piece-endgame-tablebases-first-findings-and-interview",
-         "pubDate" : "Tue, 10 May 2022 15:00:00 +0100",
-         "title" : "8-piece endgame tablebases - first findings and interview!"
       },
       {
          "description" : " The position below is from a game I played tonight, and is just before a draw was agreed. Weirdly Deep Fritz thinks that Black is clearly better in this position. Sure Black is a piece up, but the knight cannot jump across the board to engineer a very unlikely mate. I guess this shows that there is still some differences between humans and chess engines. <br /> <script>new PgnViewer( { boardName: \"game1327\", movesFormat: \"default\", pgnString:'[FEN \"7n/7P/8/8/2k5/p7/8/1K6 w - - 0 52\"]', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1327-container\"></div><div id=\"game1327-moves\"></div><br />",
@@ -1650,7 +1666,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;r&#46;&#x77;i&#99;&#x6b;h&#97;&#x6d;&#64;&#98;&#x74;&#105;&#x6e;&#x74;&#101;&#x72;&#x6e;&#101;&#x74;&#46;&#99;&#x6f;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#46;&#x72;&#46;&#119;&#x69;&#x63;k&#104;&#x61;&#x6d;&#64;&#98;&#x74;&#x69;n&#116;&#x65;&#x72;n&#101;&#x74;&#x2e;c&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -1784,14 +1800,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1720",
          "pubDate" : "Fri, 29 Apr 2022 19:10:26 +0000",
          "title" : "Mwale and Priyasha win Malawian Championship"
-      },
-      {
-         "description" : "The I&#39;M Not A GM Speed Chess Championship (IMSCC) is back for its 2022 edition, starting on May 9. The competition is once more bringing fan-favorite IMs and other masters to vie for their share of the $10,000 prize fund and bragging rights among ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-2022-im-not-a-gm-speed-chess-championship",
-         "pubDate" : "Fri, 29 Apr 2022 11:27:00 -0700",
-         "title" : "Announcing The 2022 I'M Not A GM Speed Chess Championship"
       },
       {
          "description" : "This week Robert Ris analyses how the young American talent Hans Moke Niemann turned the supposedly quiet line with 3.Bb5+ against the Sicilian into a dangerous weapon. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2272,14 +2280,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/oslo-esports-cup-pragg-starts-off-with-a-win/articleshow/91023507.cms",
          "pubDate" : "Sat, 23 Apr 2022 06:17:55 +0000",
          "title" : "Oslo Esports Cup: Pragg starts off with a win"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1701",
-         "pubDate" : "Fri, 22 Apr 2022 20:49:23 +0000",
-         "title" : "Oslo Esports Cup starts with thumping win for Carlsen"
       },
       {
          "description" : " The Friendly Solidarity Match Norway-Ukraine match takes place on Tornelo on Saturday 23rd April 13:00 CET. The fundraiser will have donations to the following 6 organsations: Red Cross, Norwegian Refugee Council, Caritas, Save the Children, Norwegian Church Aid and UNICEF Norway. Teams: Ukraine (Lviv Chess Federation) : Ivanchuk, Shevchenko, Kuzubov and Moiseenko. Norway (Offerspill Sjakklubb) Carlsen, Tari, Christiansen and Hauge. Four rounds - the players play all four players in the opposite team.",
