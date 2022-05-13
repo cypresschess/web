@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The world champion scored 10/11 online in Chess.com's weekly masters open, using 1 b2-b3 as White and 1...b7-b6 as Black in all games, while the 18-year-old talent has been subdued against the elite at Bucharest Magnus Carlsen has not competed on <a href=\"https://www.chess.com/\" title=\"\">chess.com</a> for more than a year, since the website is in direct competition with <a href=\"https://chess24.com/en\" title=\"\">chess24.com</a>, which is owned by the Play Magnus Group. So it was a shock when the world champion appeared unannounced on the starting line for this week's Titled Tuesday, an 11-round blitz event with free entry to all internationally titled players. The Norwegian used 1 b3 and 2 B",
+         "description" : "The Chess Four (Schackfyran) is one of the world's largest chess competitions organized for the fourth-grade kids and has, since its inception in 1978, taught half a million 10-year-olds to play chess. 25000 kids every year take part in the event through the qualifying competitions and the national finals. The event has grown so big []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2300-children-to-play-in-the-swedish-schackfyran-chess-four-national-final/",
+         "pubDate" : "Fri, 13 May 2022 11:15:37 +0000",
+         "title" : "2300 children to play in the Swedish Schackfyran (Chess Four) National Final"
+      },
+      {
+         "description" : "The Italian Summer Chess Tour 2022 features six open tournaments taking place one after another from May 16 June 11, with a total prize fund of 35.000e. The tour kicks off with the GM/IM Mix norm tournament which will be played from 16-20 May in Montebelluna. The 9 rounds swiss event named GrandMaster Grandiscacchi []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/italian-summer-chess-tour-2022/",
+         "pubDate" : "Fri, 13 May 2022 10:43:20 +0000",
+         "title" : "Italian Summer Chess Tour 2022"
+      },
+      {
+         "description" : "The column \"All in one\" was introduced in ChessBase Magazine almost three years ago. The idea behind it: on the basis of a single extensively annotated game, you learn everything you need to know about a concrete opening line. In the new ChessBase Magazine #207, Igor Stohl and Tanmay Srinath introduce you to two concepts for White. One explores the pawn advance 3.h4 against Black's Fianchetto in the Gruenfeld and King's Indian; the other delves into a London System setup against the King's Indian. Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/all-in-one-game",
+         "pubDate" : "Fri, 13 May 2022 10:00:00 +0100",
+         "title" : "All in one game!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91538227.cms\" />Indian chess legend Viswanathan Anand would become the deputy president of the world chess federation (FIDE) if the incumbent Arkady Dvorkovich is re-elected as the president in the elections scheduled during the 44th chess Olympiad in July-August this year.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-announced-as-candidate-for-fide-deputy-presidents-post/articleshow/91538227.cms",
+         "pubDate" : "Fri, 13 May 2022 08:53:07 +0000",
+         "title" : "Anand announced as candidate for FIDE deputy president's post"
+      },
+      {
+         "description" : " The world champion scored 10/11 online in Chess.com's weekly masters open, using 1 b2-b3 as White and 1...b7-b6 as Black in all games, while the 18-year-old talent has been uneven against the elite at Bucharest Magnus Carlsen has not competed on <a href=\"https://www.chess.com/\" title=\"\">chess.com</a> for more than a year, since the website is in direct competition with <a href=\"https://chess24.com/en\" title=\"\">chess24.com</a>, which is owned by the Play Magnus Group. So it was a shock when the world champion appeared unannounced on the starting line for this week's Titled Tuesday, an 11-round blitz event with free entry to all internationally titled players. The Norwegian used 1 b3 and 2 Bb",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/may/13/chess-carlsen-wins-titled-tuesday-while-alireza-firouzja-is-subdued",
          "pubDate" : "Fri, 13 May 2022 07:00:26 +0000",
-         "title" : "Chess: Carlsen wins Titled Tuesday while Alireza Firouzja is subdued"
+         "title" : "Chess: Carlsen wins Titled Tuesday while Alireza Firouzja is erratic"
       },
       {
          "description" : " Share!The Cayman Islands Chess Federation was formed in 2018 with a grand plan to build a chess community as many of their neighbors had done. Only two years later, the federation became a member of FIDE, the world's chess body. Carlo Lee speaks about chess in the Cayman Islands at the 90th FIDE Congress in The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/13/cayman-islands-chess-jubilee/\">Cayman Islands' Chess Jubilee!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -224,22 +256,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-new-eligibility-finals-format",
          "pubDate" : "Wed, 11 May 2022 15:05:00 -0700",
          "title" : "Rapid Chess Championship Now Open To All Grandmasters, Finals Format Announced"
-      },
-      {
-         "description" : "After yesterday&#x2019;s rest day the players seemed fresh and ready for a day of exhilarating chess on Day 6 of the Superbet Chess Classic Romania. Today&#x2019;s round brought entertaining games with plenty of drama and even some disaster, along with a few tenacious and close battles. Two games were decisive in this round, bringing American []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aronian-joins-so-in-the-lead-grand-chess-tour-romania-2022-r6-recap/",
-         "pubDate" : "Wed, 11 May 2022 21:51:54 +0000",
-         "title" : "Aronian joins So in the lead; Grand Chess Tour Romania 2022 - R6 recap"
-      },
-      {
-         "description" : "Two and a half months before the start of the 44th Chess Olympiad 2022, first ever to be held in India, already 100 countries registered for the competition. 101 teams are registered in the Open section and 86 teams confirmed participation in the Women's section. (scroll down for the full story) The Director of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/100-countries-already-registered-for-44th-chess-olympiad-2022/",
-         "pubDate" : "Wed, 11 May 2022 19:14:56 +0000",
-         "title" : "100 countries already registered for 44th Chess Olympiad 2022"
       },
       {
          "description" : "Gukesh won his third consecutive tournament in Spain as he scored an unbeaten 8/10 to claim first place at the Chessable Sunway Formentera Open. After missing several tournament triumphs on tiebreaks, Gukesh got outright victory in Formentera by finishing a half point ahead of the field. Jaime Santos (Spain) and Shant Sargsyan (Armenia) completed the podium. | Photo: Official site",
@@ -1730,7 +1746,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#46;&#114;&#46;&#119;i&#x63;k&#x68;a&#x6d;&#64;&#x62;t&#x69;n&#x74;e&#x72;n&#x65;t&#x2e;c&#x6f;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#46;&#x77;&#105;&#x63;&#107;h&#x61;m&#x40;&#98;&#x74;&#105;&#x6e;&#116;e&#x72;n&#x65;&#116;&#x2e;&#99;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2114,14 +2130,6 @@ news_feed (
          "title" : "Teen star Praggnanandhaa in pole position"
       },
       {
-         "description" : "The American Cup kicked off Wednesday in Saint Louis with an Open Tournament and a Women's Tournament, both played in knockout mode. But those who lose a match get a second chance in an elimination bracket. Day 7 starts at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-day-7-live-games-and-commentary",
-         "pubDate" : "Tue, 26 Apr 2022 19:45:00 +0100",
-         "title" : "American Cup, Day 7 - Live games and commentary"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2312,22 +2320,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/more-adventures-in-arbiting.html",
          "pubDate" : "Fri, 22 Apr 2022 12:16:00 +0000",
          "title" : "More adventures in arbiting"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91001581.cms\" />The All India Chess Federation (AICF) is going all out to make the 44th FIDE Chess Olympiad a success, including giving subsidies to the participating nations.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-subsidies-for-participating-nations-aicf-goes-all-out-to-make-it-huge/articleshow/91001581.cms",
-         "pubDate" : "Fri, 22 Apr 2022 09:58:33 +0000",
-         "title" : "Chess Olympiad: Subsidies for participating nations, AICF goes all out to make it huge"
-      },
-      {
-         "description" : "This is just a friendly reminder that ECF will be charging game fee (&pound;18 adult, &pound;6 junior) to leagues and clubs who send in non-members'...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/attn-league-and-club-secretaries/",
-         "pubDate" : "Fri, 22 Apr 2022 09:53:25 +0000",
-         "title" : "Attn. League and Club Secretaries"
       }
    ]
 }
