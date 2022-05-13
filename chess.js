@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Share!For the past couple of years Michael Abron has been working on his memoirs to tell his story of playing in a tournament in all 50 U.S. states. in March released The Chess Traveler and Pioneer. Abron was featured on The Chess Drum after completing the journey. He finished at the onset of the COVID The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/13/michael-abron-releases-book-on-chess-journey/\">Michael Abron releases book on Chess Journey</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/05/13/michael-abron-releases-book-on-chess-journey/",
+         "pubDate" : "Fri, 13 May 2022 23:03:39 +0000",
+         "title" : "Michael Abron releases book on Chess Journey"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -82,7 +90,7 @@ news_feed (
          "title" : "Ukraine solidarity match in Paris"
       },
       {
-         "description" : " Share!Six weeks ago on April 1st, Arkady Dvorkovich announced a commitment from 5-time world champion Viswanathan Anand to stand with him on the ticket for reelection. The incumbent FIDE President needs to gain some appeal after his former ties with Russian President Vladimir Putin have put him in a serious bind. FIDE President Arkady Dvorkovich The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/13/dvorkovich-anand-2022-campaign-for-fide/\">Dvorkovich-Anand 2022 campaign for FIDE</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Six weeks ago on April 1st, Arkady Dvorkovich announced a commitment from 5-time world champion Viswanathan Anand to stand with him on the ticket for reelection. The incumbent FIDE President needs to gain some appeal after his former ties with Russian President Vladimir Putin have put him in a serious bind. FIDE President Arkady Dvorkovich The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/13/dvorkovich-anand-2022-campaign-for-fide/\">Dvorkovich-Anand 2022 campaign for FIDE</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/05/13/dvorkovich-anand-2022-campaign-for-fide/",
@@ -1818,7 +1826,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#119;&#105;ckh&#x61;&#x6d;&#x40;&#x62;&#116;&#105;nte&#x72;&#x6e;&#x65;&#x74;&#46;&#99;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#105;&#99;&#107;&#104;am&#64;&#x62;&#x74;&#x69;&#x6e;&#x74;&#x65;&#114;&#110;&#101;t&#46;c&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
