@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 2022 Junior Speed Chess Championship by SIG returned today with double the action as GM Hans Niemann toppled GM Kiril Shevchenko in their quarterfinal matchup, while GM Nihal Sarin ended GM Awonder Liang&#39;s run with a nearly impeccable effort t...",
+         "description" : " The world champion scored 10/11 online in Chess.com's weekly masters open, using 1 b2-b3 as White and 1...b7-b6 as Black in all games, while the 18-year-old talent has been subdued against the elite at Bucharest Magnus Carlsen has not competed on <a href=\"https://www.chess.com/\" title=\"\">chess.com</a> for more than a year, since the website is in direct competition with <a href=\"https://chess24.com/en\" title=\"\">chess24.com</a>, which is owned by the Play Magnus Group. So it was a shock when the world champion appeared unannounced on the starting line for this week's Titled Tuesday, an 11-round blitz event with free entry to all internationally titled players. The Norwegian used 1 b3 and 2 B",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/may/13/chess-carlsen-wins-titled-tuesday-while-alireza-firouzja-is-subdued",
+         "pubDate" : "Fri, 13 May 2022 07:00:26 +0000",
+         "title" : "Chess: Carlsen wins Titled Tuesday while Alireza Firouzja is subdued"
+      },
+      {
+         "description" : " Share!The Cayman Islands Chess Federation was formed in 2018 with a grand plan to build a chess community as many of their neighbors had done. Only two years later, the federation became a member of FIDE, the world's chess body. Carlo Lee speaks about chess in the Cayman Islands at the 90th FIDE Congress in The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/13/cayman-islands-chess-jubilee/\">Cayman Islands' Chess Jubilee!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/05/13/cayman-islands-chess-jubilee/",
+         "pubDate" : "Fri, 13 May 2022 05:15:19 +0000",
+         "title" : "Cayman Islands' Chess Jubilee!"
+      },
+      {
+         "description" : "The 2022 Junior Speed Chess Championship by SIG returned on Thursday with double the action as GM Hans Niemann toppled GM Kiril Shevchenko in their quarterfinal matchup, while GM Nihal Sarin ended GM Awonder Liang&#39;s run with a nearly impeccable ef...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-nihal-niemann-win",
-         "pubDate" : "Thu, 12 May 2022 18:58:02 -0700",
+         "pubDate" : "Thu, 12 May 2022 18:58:00 -0700",
          "title" : "Nihal and Niemann Both Win: 2022 Junior Speed Chess Championship"
       },
       {
@@ -98,7 +114,7 @@ news_feed (
          "title" : "Levon Aronian: Mike Tyson's Lesson on Fear | Round 7"
       },
       {
-         "description" : "FIDE&#38;rsquo;s Vice President CM Enyonam Sewa Fumey from Togo has joined the&#38;nbsp;presidential race for the 2022 elections of the international chess federation. The elections will take place in Chennai, India, on August 7 during this year&#39;s FIDE Ge...",
+         "description" : "FIDE&#38;rsquo;s former Secretary General CM Enyonam Sewa Fumey from Togo has joined the&#38;nbsp;presidential race for the 2022 elections of the international chess federation. The elections will take place in Chennai, India, on August 7 during this year...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-presidential-candidate-enyonam-sewa-fumey-interview",
@@ -778,7 +794,7 @@ news_feed (
          "title" : "FIDE last Russian sponsor specializes in counter sanctions"
       },
       {
-         "description" : " Share!2Top-seed Brewington Hardaway won the K8 National Championship on tiebreaks over four co-champions. All ended with 6/7. Now 13, Brewington has continued to improve and adds the K8 title to add to the 7th grade title he won at the K12 Championships in December. He also got 9/9 in the XXXI Pan American Youth Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/\">Brewington Hardaway wins K8!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Top-seed Brewington Hardaway won the K8 National Championship on tiebreaks over four co-champions. All ended with 6/7. Now 13, Brewington has continued to improve and adds the K8 title to add to the 7th grade title he won at the K12 Championships in December. He also got 9/9 in the XXXI Pan American Youth Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/\">Brewington Hardaway wins K8!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/",
@@ -1714,7 +1730,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#x72;&#x2e;w&#105;&#x63;&#x6b;h&#97;&#109;&#x40;&#x62;t&#105;&#x6e;&#x74;e&#114;&#x6e;&#x65;t&#46;&#99;&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#46;&#114;&#46;&#119;i&#x63;k&#x68;a&#x6d;&#64;&#x62;t&#x69;n&#x74;e&#x72;n&#x65;t&#x2e;c&#x6f;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2312,30 +2328,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/attn-league-and-club-secretaries/",
          "pubDate" : "Fri, 22 Apr 2022 09:53:25 +0000",
          "title" : "Attn. League and Club Secretaries"
-      },
-      {
-         "description" : " Norway's world champion says he felt more comfortable before 2013 when he knew he was the best player and that later too much of his identity became linked to the championship title Magnus Carlsen has again stated that he is \"unlikely\" to defend his world title against the winner of the eight-player Candidates scheduled for Madrid in June and explained that he felt more comfortable in the years before 2013 when he was ranked No 1 but had not yet defeated India's Vishy Anand in the world title match in Chennai. Since then Carlsen has won five championship matches - twice against Anand, and one each against Russia's Sergey Karjakin, Fabiano Caruana of the US, and Russia's Ian Nepomniachtchi. ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/apr/22/chess-magnus-carlsen-unlikely-to-defend-crown-but-questions-remain",
-         "pubDate" : "Fri, 22 Apr 2022 07:00:18 +0000",
-         "title" : "Chess: Magnus Carlsen 'unlikely' to defend crown, but questions remain"
-      },
-      {
-         "description" : " <p class=\"lead\">In an exclusive interview with World Chess, Maxime Vachier-Lagrave, a French \"super GM\" (a chess-speak for one of the world's strongest chess players), said that on his way to becoming an elite chess player, he thought that he reached his peak at 2680. At that level, he could not secure enough stable income to feel safe. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/gp3mgnSxlVk?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> 2680 is a rating that very few people will ever reach (you earn a grandmaster title, the highest in the sport, at 2500). Yet MVL still failed to earn stable income. Most players make money by coac",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/mvl-i-struggled-to-make-ends-meet-at-2680-the-future-was-insecur/",
-         "pubDate" : "Fri, 22 Apr 2022 05:27:58 +0000",
-         "title" : "MVL: I Struggled to Make Ends Meet at 2680. The Future Was Insecure"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/90995007.cms\" />World no. 1 Magnus Carlsen remains the undisputed king of chess. However, the 31-year-old, who won his fifth World title last year, may not defend the crown next year.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/not-sure-about-defending-world-title-magnus-carlsen/articleshow/90995007.cms",
-         "pubDate" : "Fri, 22 Apr 2022 05:15:39 +0000",
-         "title" : "Not sure about defending world title: Magnus Carlsen"
       }
    ]
 }
