@@ -2,7 +2,87 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Share!A month ago, Arkady Dvorkovich received a commitment from 5-time world champion Viswanathan Anand to stand with him on the ticket for reelection. The incumbent FIDE President needs to gain some appeal after his former ties with Russian President Vladimir Putin have put him in a serious bind. FIDE President Arkady Dvorkovich Being pressured into The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/13/dvorkovich-anand-2022-campaign-for-fide/\">Dvorkovich-Anand 2022 campaign for FIDE</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1760",
+         "pubDate" : "Fri, 13 May 2022 22:12:27 +0000",
+         "title" : "2022 GCT Superbet Chess Classic Romania: Day 8 Recap"
+      },
+      {
+         "description" : "FIDE&#38;rsquo;s former Secretary General CM Enyonam Sewa Fumey from Togo has joined the&#38;nbsp;presidential race for the 2022 elections of the international chess federation. The elections will take place in Chennai, India, on August 7 during this year...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-presidential-candidate-enyonam-sewa-fumey-interview",
+         "pubDate" : "Fri, 13 May 2022 15:12:00 -0700",
+         "title" : "Fumey's Presidential Bid: 'I Can't Imagine Dvorkovich Is Re-Elected'"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1759",
+         "pubDate" : "Fri, 13 May 2022 21:46:14 +0000",
+         "title" : "FIDE delegation pays visit to Montenegro"
+      },
+      {
+         "description" : "Day 8 of the Superbet Chess Classic Romania was another eventful day, despite it only providing one decisive result in the game between GM&#x2019;s Shakhriyar Mamedyarov and Leinier Dominguez, which ended in favor of the latter. The most thrilling game of the round was the one between GM&#x2019;s Ian Nepomniachtchi and Levon Aronian, which brought []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aronian-and-so-maintain-the-co-lead-grand-chess-tour-romania-r8-recap/",
+         "pubDate" : "Fri, 13 May 2022 20:34:10 +0000",
+         "title" : "Aronian and So maintain the co-lead; Grand Chess Tour Romania - R8 Recap"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Warsaw, the inaugural Superbet Rapid &amp; Blitz Poland is the second leg of the Grand Chess Tour. Four Tour players (Caruana, Aronian, So, and Rapport) are joined by wildcards (Anand, Duda, Korobov, Wojtaszek, Shevchenko, and Lupulescu) for a rapid round robin and blitz double round robin event. Join commentators TBA for the move-by-move. 2022.05.17<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-supe",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-day-1",
+         "pubDate" : "Fri, 13 May 2022 19:50:44 +0000",
+         "title" : "2022 Superbet Rapid & Blitz Poland: Day 1"
+      },
+      {
+         "description" : "A sceptic regarding the value of 'learning styles' approaches, Professor Barry Hymer feared that \"The Human Factor in Chess\", a book written by GMs Karsten M&uuml;ller and Luis Engel, would fall short of expectations. As he states in his review, though, the book \"recognises the dynamic evolution of many players' styles and, for the most part, it avoids assertions that are overly deterministic and mystical\". Moreover, Hymer asserts that the book is both instructive and a pleasurable read.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-human-factor-in-chess-review-barry-hymer",
+         "pubDate" : "Fri, 13 May 2022 18:40:00 +0100",
+         "title" : "Professor Barry Hymer reviews \"The Human Factor in Chess\""
+      },
+      {
+         "description" : "23-year-old WFM Ailen Oriana Mena from Cura&#xE7;ao (an island belonging to Netherlands Antilles an autonomous Caribbean country within the Kingdom of the Netherlands) was a Women's Cura&#xE7;ao National Champion for six consecutive times (2013-2018) and she is one of the best rated women players of Netherlands Antilles. After the Netherlands Antille Chess Federation decided []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wfm-ailen-oriana-mena-starts-the-initiative-for-womens-curacao-team-to-get-to-the-44th-chess-olympiad-2022/",
+         "pubDate" : "Fri, 13 May 2022 17:32:34 +0000",
+         "title" : "WFM Ailen Oriana Mena starts the initiative for Women's Curaçao Team to get to the 44th Chess Olympiad 2022"
+      },
+      {
+         "description" : "The sixth World Chess Champion was certainly not known for his cunning tactical manoeuvres. He actually confessed that he was relatively weak with tactics. Nonetheless, he was one of the best chess players in the world, and had to face a fair amount of tactical challenges over the board, which he solved brilliantly. Lawrence shows us more!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-22",
+         "pubDate" : "Fri, 13 May 2022 18:30:00 +0100",
+         "title" : "Trent's Tactics - Was Botvinnik strong tactically?"
+      },
+      {
+         "description" : " \"There's a lot of tension in that position dude!\" I said that to two of my students upon viewing their middle-game. Tension and stress are a killer, both on the chessboard and off the chessboard. In life, if you want to live to a ripe old age, your doctor will tell you to reduce the <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-one/\">A Foundation for Beginners Sixty One</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Impro",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-one/",
+         "pubDate" : "Fri, 13 May 2022 17:04:26 +0000",
+         "title" : "A Foundation for Beginners Sixty One"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Blitz Society</strong> chess pub hosts a charity rapid match France - Ukraine on four boards, led by GMs Laurent Fressinet and Pavel Eljanov, this Saturday at 17.30 CET with <a href=\"https://team.unicef.fr/projects/champions-chess-tour-france-ukraine\">donations going to <strong>Unicef</strong></a> and a <a href=\"https://www.twitch.tv/dicomaniaque\">Twitch stream</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/ukraine-solidarity-match-in-paris/",
+         "pubDate" : "Fri, 13 May 2022 16:55:21 +0100",
+         "title" : "Ukraine solidarity match in Paris"
+      },
+      {
+         "description" : " Share!Six weeks ago on April 1st, Arkady Dvorkovich announced a commitment from 5-time world champion Viswanathan Anand to stand with him on the ticket for reelection. The incumbent FIDE President needs to gain some appeal after his former ties with Russian President Vladimir Putin have put him in a serious bind. FIDE President Arkady Dvorkovich The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/13/dvorkovich-anand-2022-campaign-for-fide/\">Dvorkovich-Anand 2022 campaign for FIDE</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/05/13/dvorkovich-anand-2022-campaign-for-fide/",
@@ -34,6 +114,22 @@ news_feed (
          "title" : "Reti's lesser know miniature"
       },
       {
+         "description" : "The column \"All in one\" was introduced in ChessBase Magazine almost three years ago. The idea behind it: on the basis of a single extensively annotated game, you learn everything you need to know about a concrete opening line. In the new ChessBase Magazine #207, Igor Stohl and Tanmay Srinath introduce you to two concepts for White. One explores the pawn advance 3.h4 against Black's Fianchetto in the Gruenfeld and King's Indian; the other delves into a London System setup against the King's Indian. Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/all-in-one-game",
+         "pubDate" : "Fri, 13 May 2022 14:05:00 +0100",
+         "title" : "All in one game!"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #515, Merijn van Delft takes a look at a strategic masterpiece by Wesley So, who got a fine win with white over Shakhriyar Mamedyarov at the Superbet Chess Classic in Bucharest. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-515-so-mamedyarov",
+         "pubDate" : "Fri, 13 May 2022 14:00:00 +0100",
+         "title" : "Game of the Week #515: Wesley So vs Shakhriyar Mamedyarov"
+      },
+      {
          "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 8 kicks off Friday at 14.00 CEST. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +152,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-and-ding-top-chessable-masters-field",
          "pubDate" : "Fri, 13 May 2022 12:00:01 +0000",
          "title" : "Carlsen and Ding top Chessable Masters field"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1756",
+         "pubDate" : "Fri, 13 May 2022 11:52:21 +0000",
+         "title" : "Arkady Dvorkovich announces his team on the way to 2022 FIDE elections"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>J&oslash;ran-Aulin Jansson</strong>, former President of the <strong>Norwegian Chess Federation</strong>, initiator of the <strong>NorwayChess</strong> tournament and the <strong>Fischer Random world championship</strong>, an <a href=\"https://chess24.com/en/read/news/aulin-jansson-wake-up-and-start-caring-for-our-fide\">outspoken critic of corruption in <strong>FIDE</strong></a>, has joined the election ticket of incumbent FIDE President <strong>Arkady Dvorkovich</strong>. Former world champion <strong>Vishy Anand</strong> candidates as Deputy President and will step up in case the Russian politician steps down. <strong>Mahir Mammedov</strong",
@@ -96,14 +200,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/olympiad-seeks-fair-play-experts/",
          "pubDate" : "Fri, 13 May 2022 11:38:15 +0100",
          "title" : "Olympiad seeks fair play experts"
-      },
-      {
-         "description" : "The column \"All in one\" was introduced in ChessBase Magazine almost three years ago. The idea behind it: on the basis of a single extensively annotated game, you learn everything you need to know about a concrete opening line. In the new ChessBase Magazine #207, Igor Stohl and Tanmay Srinath introduce you to two concepts for White. One explores the pawn advance 3.h4 against Black's Fianchetto in the Gruenfeld and King's Indian; the other delves into a London System setup against the King's Indian. Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/all-in-one-game",
-         "pubDate" : "Fri, 13 May 2022 10:00:00 +0100",
-         "title" : "All in one game!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91538227.cms\" />Indian chess legend Viswanathan Anand would become the deputy president of the world chess federation (FIDE) if the incumbent Arkady Dvorkovich is re-elected as the president in the elections scheduled during the 44th chess Olympiad in July-August this year.",
@@ -226,14 +322,6 @@ news_feed (
          "title" : "Levon Aronian: Mike Tyson's Lesson on Fear | Round 7"
       },
       {
-         "description" : "FIDE&#38;rsquo;s former Secretary General CM Enyonam Sewa Fumey from Togo has joined the&#38;nbsp;presidential race for the 2022 elections of the international chess federation. The elections will take place in Chennai, India, on August 7 during this year...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-presidential-candidate-enyonam-sewa-fumey-interview",
-         "pubDate" : "Thu, 12 May 2022 08:35:00 -0700",
-         "title" : "Fumey's Presidential Bid: 'I Can't Imagine Dvorkovich Is Re-Elected'"
-      },
-      {
          "description" : "A few days after the announcement of the German Open National Team for the upcoming 44th Chess Olympiad 2022, it has been disclosed who will compete for the German Women's Team. The Women's Team will be captained and coached by Yuri Yakovich, who named the following five players to represent Germany in India from 28th []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -250,36 +338,12 @@ news_feed (
          "title" : "Svitlana's Smart Moves - The King's Indian"
       },
       {
-         "description" : "The 9th edition of the Cherry Blossom Classic will take place from 26-30 May at Washington Dulles Airport Marriott in Virginia.LIVE now:&#xA0;Grand Chess Tour Romania 2022&#xA0;/&#xA0;IPCA World Individual Chess Championship 2022&#xA0;/&#xA0;Polish Open and Women&#x2019;s Chess Championships 2022 The event will feature 6 tournaments: Open tournament, U2300, U2000, U1700, U1400 and U1100. Most of the events []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/9th-cherry-blossom-classic/",
-         "pubDate" : "Thu, 12 May 2022 14:01:47 +0000",
-         "title" : "9th Cherry Blossom Classic"
-      },
-      {
-         "description" : "The English Seniors Chess Championships 50+ &#38; 65+, supported by Chessable, took place from 4-8 May at the Holiday Inn Hotel in Kenilworth.LIVE now:&#160;Grand Chess Tour Romania 2022&#160;/&#160;IPCA World Individual Chess Championship 2022&#160;/&#160;Polish Open and Women&#x2019;s Chess Championships 2022 GM Mark Hebden triumphed in the 50+ competition with 22 players and with a convincing score []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2022-english-senior-chess-champions-announced/",
-         "pubDate" : "Thu, 12 May 2022 12:06:29 +0000",
-         "title" : "2022 English Senior Chess Champions announced"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> For the first time since 15 months, <strong>Magnus Carlsen</strong> played on his company's rival platform <strong>Chess.com</strong> and <a href=\"https://www.chess.com/news/view/carlsen-wins-surprise-titled-tuesday-appearance-may-10-2022\">won the Titled Tuesday with 10/11</a>. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/carlsen-surprise-visit-on-chesscom/",
          "pubDate" : "Thu, 12 May 2022 12:17:03 +0100",
          "title" : "Carlsen surprise visit on Chess.com"
-      },
-      {
-         "description" : "The FIDE World Cadets Chess Championships 2022, a tournament organized by FIDE, the Georgian Chess Federation and the Georgian Chess Club &#x201C;64&#x201D;, will take place in Batumi, Georgia from September 15-28, 2022. The championships will be held in three age groups Under 8, 10, 12 and 2 sections open and girls (totally 6 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-cadets-u8-u10-u12-chess-championships-2022/",
-         "pubDate" : "Thu, 12 May 2022 10:35:13 +0000",
-         "title" : "FIDE World Cadets U8, U10 & U12 Chess Championships 2022"
       },
       {
          "description" : "",
@@ -360,14 +424,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-candidates-2022-playoff-announcement",
          "pubDate" : "Wed, 11 May 2022 17:00:00 +0100",
          "title" : "Candidates to be decided in playoffs in case of a tie for first place"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Except for a a few tweets, the 25th anniversary of <strong>Garry Kasparov</strong>'s landmark match loss to <strong>Deep Blue</strong>, an <strong>IBM</strong> research computer, 1997 in New York went unnoticed by chess websites and news media. Some had commemorated last year the less significant loss of one game in the 1996 match that Kasparov still had dominated. The general and sponsors' interest in chess suffered after \"humanity lost\". </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/deep-blue-anniversary-quasi/",
-         "pubDate" : "Wed, 11 May 2022 16:47:39 +0100",
-         "title" : "Deep Blue anniversary quasi unnoticed"
       },
       {
          "description" : "",
@@ -506,7 +562,7 @@ news_feed (
          "title" : "The Weekly Show: A nice squeeze by Caruana"
       },
       {
-         "description" : "Titled Tuesday presented by SEOCrawl took a surprising turn on May 10 as none other than GM Magnus Carlsen played in the early event, his first games on Chess.com since February 2021. Carlsen delivered, effectively clinching the tournament with a ...",
+         "description" : "Titled Tuesday presented by SEOcrawl took a surprising turn on May 10 as none other than GM Magnus Carlsen played in the early event, his first games on Chess.com since February 2021. Carlsen delivered, effectively clinching the tournament with a ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-surprise-titled-tuesday-appearance-may-10-2022",
@@ -1282,14 +1338,6 @@ news_feed (
          "title" : "2022 Superbet Chess Classic: Round 3"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Sheraton Bucharest Hotel, the Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players (Caruana, Aronian, Firouzja, So, Mamedyarov, Nepomniachtchi, Rapport, Dominguez, and MVL) are joined by a wildcard (Deac) for a classical round robin. Join GMs Peter Svidler, Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovich for the move-by-move. 2022.05.14<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-round-9",
-         "pubDate" : "Thu, 05 May 2022 16:44:22 +0000",
-         "title" : "2022 Superbet Chess Classic: Round 9"
-      },
-      {
          "description" : "The European Youth Chess Championship 2022 will take place from 5th November (arrival day) 15th November (departure day) in Antalya, Turkey. The event will be played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each national federation, which is a member of the European Chess Union, can register one&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2022-official-invitation/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1770,7 +1818,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#x77;&#105;c&#x6b;&#x68;&#97;m&#x40;&#x62;&#116;i&#x6e;&#x74;&#101;r&#x6e;&#101;&#116;&#46;&#x63;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#119;&#105;ckh&#x61;&#x6d;&#x40;&#x62;&#116;&#105;nte&#x72;&#x6e;&#x65;&#x74;&#46;&#99;&#111;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2090,36 +2138,12 @@ news_feed (
          "title" : "Carlsen and Praggnanandhaa set up final day shootout"
       },
       {
-         "description" : "London, with its rich chess tradition, has been the scene of many great tournaments. One of these, the London International Tournament of 1883, happened at an important point in history. It is remembered mainly as the event that led to the first World Chess Championship, which, in turn, formalized the title of World Champion. Johannes Zukertort (pictured) won the tournament ahead of Wilhelm Steinitz, and in 1886, three years after London, they played the first official World Championship match against each other.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-1883-prelude-to-the-first-world-championship-match-april-26-1883-june-23-1883",
-         "pubDate" : "Wed, 27 Apr 2022 22:00:00 +0100",
-         "title" : "London 1883: Prelude to the First World Championship Match (April 26, 1883 - June 23, 1883)"
-      },
-      {
          "description" : " Broadcasting tournament games used to rely on having your own dedicated website. These days chess platforms have realised that such broadcasts can help bring users in, and have started offering it as a free service. Chess24 were probably the pioneers here, but other platforms are catching up. Both chess.com and lichess contacted me to stream the O2C Doeberl Cup this year, while 'Follow chess' normally carries it as well. If you are an organiser looking to use these services, each platform normally has instructions to follow (eg <a href=\"https://www.chess.com/article/view/how-to-broadcast-your-games-on-chesscom\">https://www.chess.com/article/view/how-to-broadcast-your-games-on-chesscom</a> f",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/04/broadcast-services.html",
          "pubDate" : "Wed, 27 Apr 2022 13:37:00 +0000",
          "title" : "Broadcast Services"
-      },
-      {
-         "description" : "A consolation for all chess fans: even the best sometimes blunder. In Round 5 of the Oslo Esport Cup, World Champion Magnus Carlsen blundered a whole rook against Jorden van Foreest, which cost him the game, the match, and the lead in the tournament. With two rounds to go, Praggnanandhaa, who won his match against Eric Hansen 2.5-0.5, is now again sole first with 12/15 and three points ahead of Carlsen who follows with 9.0/15. | Photos and pictures: Play Magnus Group",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oslo-esports-cup-praggnanandhaa-regains-lead-after-blunder-by-carlsen",
-         "pubDate" : "Wed, 27 Apr 2022 13:55:36 +0100",
-         "title" : "Oslo Esports Cup: Praggnanandhaa regains lead after blunder by Carlsen"
-      },
-      {
-         "description" : "After defeating GM Leinier Dominguez in a dramatic playoff, GM Levon Aronian (pictured) qualified for the finals of the 2022 American Cup, where he will face GM Fabiano Caruana for the 1st place prize of $50,000. In the women's field, FM Alice Lee earned herself a rematch in the $25,000 final against GM Irina Krush, after winning an incredibly close match against WGM Tatev Abrahamyan that went all the way to Armageddon. | Photo: Saint Louis Chess Club / Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-day-7-aronian-and-lee-make-it-to-the-finals",
-         "pubDate" : "Wed, 27 Apr 2022 11:00:00 +0100",
-         "title" : "American Cup, Day 7: Aronian and Lee make it to the finals"
       },
       {
          "description" : "",
@@ -2178,14 +2202,6 @@ news_feed (
          "title" : "Motion on Ukraine approved - ECF Finance Council Meeting"
       },
       {
-         "description" : " &#8220;The Exchange Variation is without doubt one of White's best weapons versus the popular Slav Defense. By creating a symmetrical position with an extra tempo, White keeps Black's counter play to a minimum while developing positional pressure&#8221; Silman and Donaldson I am going to acknowledge the elephant in the room by saying this variation is <a href=\"https://chessimprover.com/need-sure-points-queens-gambit-declined-slav-exchange-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Queen's Gambit Declined Slav, Exchange Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-quee",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-queens-gambit-declined-slav-exchange-variation-edition/",
-         "pubDate" : "Tue, 26 Apr 2022 07:38:38 +0000",
-         "title" : "Need sure points? Queen's Gambit Declined Slav, Exchange Variation Edition"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2218,14 +2234,6 @@ news_feed (
          "title" : "Obscure club games"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1707",
-         "pubDate" : "Mon, 25 Apr 2022 09:39:35 +0000",
-         "title" : "Praggnanandhaa wins third straight match in the Oslo Esports Cup"
-      },
-      {
          "description" : "It is with great sadness we report that David Anderton passed away today, 1st April 2022. This is a great loss. Our condolences go out...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2256,22 +2264,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/russian-doll.html",
          "pubDate" : "Sun, 24 Apr 2022 13:13:00 +0000",
          "title" : "Russian Doll"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1706",
-         "pubDate" : "Sun, 24 Apr 2022 13:03:58 +0000",
-         "title" : "Ukraine wins over Norway in solidarity match"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1705",
-         "pubDate" : "Sun, 24 Apr 2022 12:54:52 +0000",
-         "title" : "American Cup: Day 4 Recap"
       },
       {
          "description" : " <p class=\"lead\">Popular chess site chess.com has been blocked by Russian authorities for alleged violations against Russian chess players. Sergey Karjakin, Russian elite Grandmaster and outspoken Putin supporter has been recently banned by the site and appealed to the authorities to investigate chess.com. The site has voiced support for Ukraine after Russia attacked the country. Later, chess.com switched the flag of its Russian members to FIDE. According to Karjakin, this amounts to a severe violation of Russia's rules. The country's Prosecutor's office has requested to ban the site. Chess.com has been active in Russia and recently invested in Russian-languages streaming, adding Alexandra K",
@@ -2320,14 +2312,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/oslo-esports-cup-pragg-starts-off-with-a-win/articleshow/91023507.cms",
          "pubDate" : "Sat, 23 Apr 2022 06:17:55 +0000",
          "title" : "Oslo Esports Cup: Pragg starts off with a win"
-      },
-      {
-         "description" : " The Friendly Solidarity Match Norway-Ukraine match takes place on Tornelo on Saturday 23rd April 13:00 CET. The fundraiser will have donations to the following 6 organsations: Red Cross, Norwegian Refugee Council, Caritas, Save the Children, Norwegian Church Aid and UNICEF Norway. Teams: Ukraine (Lviv Chess Federation) : Ivanchuk, Shevchenko, Kuzubov and Moiseenko. Norway (Offerspill Sjakklubb) Carlsen, Tari, Christiansen and Hauge. Four rounds - the players play all four players in the opposite team.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/friendly-solidarity-match-norway-ukraine-2022",
-         "pubDate" : "Fri, 22 Apr 2022 21:50:00 +0400",
-         "title" : "Friendly Solidarity Match Norway-Ukraine 2022 - Games and Results"
       }
    ]
 }
