@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Junior Speed Chess Championship by SIG returned today with double the action as GM Hans Niemann toppled GM Kiril Shevchenko in their quarterfinal matchup, while GM Nihal Sarin ended GM Awonder Liang&#39;s run with a nearly impeccable effort t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-nihal-niemann-win",
+         "pubDate" : "Thu, 12 May 2022 18:58:02 -0700",
+         "title" : "Nihal and Niemann Both Win: 2022 Junior Speed Chess Championship"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> FOLLOW GAMES: <a href=\"https://lichess.org/broadcast/final-four-corporate-chess-league-spring-2022/round-1/3cZpcpJZ\">https://lichess.org/broadcast/final-four-corporate-chess-league-spring-2...</a> The Corporate Chess League final four teams meet in a three-round championship round robin. Join NM Caleb Denby for the move-by-move. 2022.05.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-corporate-chess-league-spring-championship-lichessorg\"><img sr",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-corporate-chess-league-spring-championship-lichessorg",
+         "pubDate" : "Fri, 13 May 2022 01:49:40 +0000",
+         "title" : "2022 Saint Louis Corporate Chess League: Spring Championship | lichess.org"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1754",
+         "pubDate" : "Thu, 12 May 2022 23:46:13 +0000",
+         "title" : "2022 GCT Superbet Chess Classic Romania: Day 7 Recap"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1194,14 +1218,6 @@ news_feed (
          "title" : "2022 Superbet Chess Classic: Round 9"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Sheraton Bucharest Hotel, the Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players (Caruana, Aronian, Firouzja, So, Mamedyarov, Nepomniachtchi, Rapport, Dominguez, and MVL) are joined by a wildcard (Deac) for a classical round robin. Join GMs Peter Svidler, Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovich for the move-by-move. 2022.05.13<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-round-8",
-         "pubDate" : "Thu, 05 May 2022 16:44:22 +0000",
-         "title" : "2022 Superbet Chess Classic: Round 8"
-      },
-      {
          "description" : "The European Youth Chess Championship 2022 will take place from 5th November (arrival day) 15th November (departure day) in Antalya, Turkey. The event will be played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each national federation, which is a member of the European Chess Union, can register one&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2022-official-invitation/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1554,14 +1570,6 @@ news_feed (
          "title" : "Susan Namangale: \"I want to be a part of the change\""
       },
       {
-         "description" : "Mother&#39;s Day has come to many parts of the world, and it&#39;s time to celebrate and show appreciation to that special someone who gave you life. Three new mom bots are waiting on our Play Computer page to spend some quality time with you and play che...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-chess-against-mothers-day-bots",
-         "pubDate" : "Mon, 02 May 2022 10:55:00 -0700",
-         "title" : "Celebrate Mother's Day With The New Mom Bots"
-      },
-      {
          "description" : "Viswanathan Anand, who decided against playing in Chennai, will be involved the mentor of the Indian teams",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1706,7 +1714,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;wickham&#64;btinternet&#46;c&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#x72;&#x2e;w&#105;&#x63;&#x6b;h&#97;&#109;&#x40;&#x62;t&#105;&#x6e;&#x74;e&#114;&#x6e;&#x65;t&#46;&#99;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2224,14 +2232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1705",
          "pubDate" : "Sun, 24 Apr 2022 12:54:52 +0000",
          "title" : "American Cup: Day 4 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1704",
-         "pubDate" : "Sun, 24 Apr 2022 11:53:18 +0000",
-         "title" : "Drama in Round 2 of the Oslo Esports Cup"
       },
       {
          "description" : " <p class=\"lead\">Popular chess site chess.com has been blocked by Russian authorities for alleged violations against Russian chess players. Sergey Karjakin, Russian elite Grandmaster and outspoken Putin supporter has been recently banned by the site and appealed to the authorities to investigate chess.com. The site has voiced support for Ukraine after Russia attacked the country. Later, chess.com switched the flag of its Russian members to FIDE. According to Karjakin, this amounts to a severe violation of Russia's rules. The country's Prosecutor's office has requested to ban the site. Chess.com has been active in Russia and recently invested in Russian-languages streaming, adding Alexandra K",
