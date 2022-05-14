@@ -1866,7 +1866,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#x72;&#x2e;w&#105;&#x63;&#x6b;h&#97;&#109;&#x40;&#x62;t&#105;&#x6e;&#x74;e&#114;&#x6e;&#x65;t&#46;&#99;&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#x69;&#x63;&#x6b;&#104;&#97;&#109;&#64;&#98;&#116;&#105;nter&#x6e;&#x65;&#x74;&#x2e;&#x63;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2304,14 +2304,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/04/23/jerald-times-embroiled-in-legal-chess-battle/",
          "pubDate" : "Sat, 23 Apr 2022 22:54:49 +0000",
          "title" : "Jerald Times scores victory in legal chess battle"
-      },
-      {
-         "description" : " This is a guest article by my amazing girlfriend WFM Alessia Santeramo. She writes about her recent experience at a closed OTB Classical Chess Tournament. Check Alessia out on her Twitch &#38; YouTube and leave her a follow :-). Enjoy! Finally, I've played my first OTB tournament after 2,5 years of just playing online chess. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/8-things-i-learned-from-failing-to-get-a-wim-norm/\">8 Things I Learned From Failing To Get A WIM-Norm</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/8-things-i-learned-from-failing-to-get-a-wim-norm/",
-         "pubDate" : "Sat, 23 Apr 2022 13:05:56 +0000",
-         "title" : "8 Things I Learned From Failing To Get A WIM-Norm"
       }
    ]
 }
