@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 International Computer Games Association events are fast approaching: the World Computer Chess Championships (Vienna, July 23-29), the 2022 Computer Olympiad (online, July 23-29), and the 2022 Computers and Games conference (online, November 22-24). The ICGA has distributed full information on all upcoming events.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/icga-world-computer-chess-championship-olympiad-conference",
+         "pubDate" : "Sat, 14 May 2022 21:25:00 +0100",
+         "title" : "ICGA: World Computer Chess Championship, Olympiad, Conference"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich talks to Alexander Onischuk about rooting for the U.S. players, the Russian invasion of Ukraine, and more during Round 9 of the Superbet Chess Classic. 2022.05.13<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alexander-onischuk-ukraine-forever\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/i",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alexander-onischuk-ukraine-forever",
+         "pubDate" : "Sat, 14 May 2022 19:51:17 +0000",
+         "title" : "Alexander Onischuk: Ukraine Forever"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich talks to two-time European women&#039;s chess champion Natalia Zhukova during Round 9 of the Superbet Chess Classic. 2022.05.13<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/natalia-zhukova-ukraine-not-alone\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hC-MC7DMNcg.jpg?itok=BR0PFRG5\" alt=\"\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/natalia-zhukova-ukraine-not-alone",
+         "pubDate" : "Sat, 14 May 2022 19:51:17 +0000",
+         "title" : "Natalia Zhukova: Ukraine is Not Alone"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian plays Maxime Vachier-Lagrave in a 10+5 rapid playoff game. This was the third game in a round robin (also including Wesley So). Going into this game, MVL and So had 1 point, whereas Aronian had 0 points. With a win here, Aronian will force an armageddon knockout between the trio. With an MVL score, Maxime wins the event. 2022.05.14<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-vs-mvl-rapid-pla",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-vs-mvl-rapid-playoff-round-9",
+         "pubDate" : "Sat, 14 May 2022 19:51:17 +0000",
+         "title" : "Aronian vs. MVL: Rapid Playoff | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave is presented with the trophy and check after his playoff victory in the Superbet Chess Classic. Join Tour Spokesman Michael Khodarkovsky, Superbet Foundation President Augusta Dragic, and GM Cristian Chirila for the ceremony. 2022.05.14<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-superbet-chess-classic-champion-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/style",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mvl-superbet-chess-classic-champion-round-9",
+         "pubDate" : "Sat, 14 May 2022 19:51:17 +0000",
+         "title" : "MVL: Superbet Chess Classic Champion | Round 9"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Wesley So</strong>, <strong>Levon Aronian</strong> and <strong>Maxime Vachier-Lagrave</strong> <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic-romania/recap\">share the first place</a> and the latter won the tie-break at the first <strong>Grand Chess Tour</strong> event 2022, the <strong>Superbet Chess Classic Romania</strong> in Bucharest. None of the four participants of the forthcoming Candidates Tournament performed well. <strong>Fabiano Caruana</strong> did the least bad at 50%, <strong>Alireza Firouzja, Ian Nepomniachtchi</strong> and <strong>Rich&aacute;rd Rapport</strong> all ended below. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/candidates-do-poorly-in-bucharest/",
+         "pubDate" : "Sat, 14 May 2022 19:39:28 +0100",
+         "title" : "Candidates do poorly in Bucharest"
+      },
+      {
+         "description" : "This week Robert Ris focuses on the Bayonet Attack in the King's Indian Defence. He uses model games from elite players to illustrate the potential problems Black faces when White plays 11.a4 and 12.a5. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-new-ideas-bayonet-attack",
+         "pubDate" : "Sat, 14 May 2022 18:15:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: New ideas in the Bayonet Attack"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Grand Chess Tour Spokesman Michael Khodarkovsky during Round 9 of the Superbet Chess Classic. 2022.05.14<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/michael-khodarkovsky-superbet-and-playoffs-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7XHwO1mqkA4.jpg?itok=0HEo14HC\" alt=\"\" /></a",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/michael-khodarkovsky-superbet-and-playoffs-round-9",
+         "pubDate" : "Sat, 14 May 2022 16:51:05 +0000",
+         "title" : "Michael Khodarkovsky on Superbet and Playoffs | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich talks to two-time European women&#039;s chess champion Natalia Zhukova during Round 9 of the Superbet Chess Classic. 2022.05.13<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/natalia-zhukova-ukraine-not-alone-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hC-MC7DMNcg.jpg?itok=BR0PFRG5",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/natalia-zhukova-ukraine-not-alone-round-9",
+         "pubDate" : "Sat, 14 May 2022 16:51:05 +0000",
+         "title" : "Natalia Zhukova: Ukraine is Not Alone | Round 9"
+      },
+      {
+         "description" : " Share!Barbados Chess Federation, &#8220;Jamaican Christie takes spot in Heroes Day Cup, Wilson wins Challengers section,&#8221; barbadoschess.org, 29 April 2022. Leading local chess players Orlando Husbands and Justin Blackman missed out on top honours as Jamaican Joshua Christie captured the Masters section in the Barbados Chess Federation's Heroes Day Cup. FM Joshua Christie Newly-crowned ladies national The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/14/jamaicas-christie-wins-heroes-cup-2022/\">Jamaica's Christie wins Heroes Cup 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/05/14/jamaicas-christie-wins-heroes-cup-2022/",
+         "pubDate" : "Sat, 14 May 2022 16:33:05 +0000",
+         "title" : "Jamaica's Christie wins Heroes Cup 2022!"
+      },
+      {
          "description" : "The first two rounds of the Collegiate Chess League Season 4 playoffs have concluded leaving only four teams remaining in each division, and these teams are now fighting for a spot in the finals. The teams that have made it this far are guaranteed...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -10,12 +90,12 @@ news_feed (
          "title" : "Collegiate Chess League Season 4: Semifinals"
       },
       {
-         "description" : "The first event of the 2022 Grand Chess Tour series is coming to an end as the last round is underway in Bucharest. Levon Aronian and Wesley So headed into the last round in the co-lead scoring 5/8 points and none of them didn't manage to score the full point in the last round. Two []",
+         "description" : "Maxime Vachier Lagrave wins the playoffs and becomes the Winner of the Grand Chess Tour Romania 2022! The first event of the 2022 Grand Chess Tour series is coming to an end as the last round concluded in Bucharest. Levon Aronian and Wesley So headed into the last round in the co-lead scoring 5/8 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/playoffs-to-decide-the-winner-of-grand-chess-tour-romania-2022/",
          "pubDate" : "Sat, 14 May 2022 14:46:00 +0000",
-         "title" : "Playoffs to decide the Winner of Grand Chess Tour Romania 2022"
+         "title" : "So, Aronian & Vachier-Lagrave in Grand Chess Tour Romania 2022 playoffs"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich talks to the first Romanian Grandmaster Florin Gheorghiu during Round 8 of the Superbet Chess Classic. 2022.05.13<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/florin-gheorghiu-stops-superbet-classic-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rCRAPl94bBw.jpg?itok=IDlxWgmO\" alt=\"\"",
@@ -34,12 +114,12 @@ news_feed (
          "title" : "Alexander Onischuk: Ukraine Forever | Round 9"
       },
       {
-         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 9 kicks off Saturday at 13.00 CEST. | Photo: Lennart Ootes",
+         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. After tying for first place on 5&frac12;/9, Wesley So, Levon Aronian and Maxime Vachier-Lagrave are deciding who wins the tournament in a rapid-chess playoff. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
          "pubDate" : "Sat, 14 May 2022 12:55:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
+         "title" : "Superbet Chess Classic Playoffs - Live!"
       },
       {
          "description" : "The &#8220;ChessMood&#8221; International Open Chess Tournament will take place from September 29 to October 09 at the 5 star Tsaghkadzor Marriott Hotel in Armenia. The event will be played in 9 rounds, swiss system, within two groups: A (2000+) and B (U2000). The total prize fund will be 10.250.000 Armenian drams (around 21.000 euros). Time []",
@@ -130,7 +210,7 @@ news_feed (
          "title" : "Superbet: Aronian escapes, still shares the lead"
       },
       {
-         "description" : " Share!48For the past couple of years Michael Abron has been working on his memoirs to tell his story of playing in a tournament in all 50 U.S. states. in March released The Chess Traveler and Pioneer. Abron was featured on The Chess Drum after completing the journey. He finished at the onset of the COVID The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/13/michael-abron-releases-book-on-chess-journey/\">Michael Abron releases book on Chess Journey</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " For the past couple of years Michael Abron has been working on his memoirs to tell his story of playing in a tournament in all 50 U.S. states. in March released The Chess Traveler and Pioneer. Abron was featured on The Chess Drum after completing the journey. He finished at the onset of the COVID The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/13/michael-abron-releases-book-on-chess-journey/\">Michael Abron releases book on Chess Journey</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/05/13/michael-abron-releases-book-on-chess-journey/",
@@ -418,28 +498,12 @@ news_feed (
          "title" : "How Yuri Averbakh fell in love with chess - Grigoriev's best pawn studies"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Levon Aronian after his draw with Fabiano Caruana in Round 7 of the Superbet Chess Classic. 2022.05.12<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-aronian-mike-tyson%E2%80%99s-lesson-fear-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/825qrYDUYeI.jpg?itok=9KOQBkPj\" alt=\"\" /><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/levon-aronian-mike-tyson%E2%80%99s-lesson-fear-round-7",
-         "pubDate" : "Thu, 12 May 2022 16:49:29 +0000",
-         "title" : "Levon Aronian: Mike Tyson's Lesson on Fear | Round 7"
-      },
-      {
          "description" : "The King's Indian is a very straight-forward, aggressive opening. Basically, Black builds up a system in the first couple of moves, and once it is set up, the attacking begins! White tries to counter on the queenside, in most cases. But please take a look at it all for yourself in this episode of \"Svitlana's Smart Moves\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-40",
          "pubDate" : "Thu, 12 May 2022 16:10:00 +0100",
          "title" : "Svitlana's Smart Moves - The King's Indian"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> For the first time since 15 months, <strong>Magnus Carlsen</strong> played on his company's rival platform <strong>Chess.com</strong> and <a href=\"https://www.chess.com/news/view/carlsen-wins-surprise-titled-tuesday-appearance-may-10-2022\">won the Titled Tuesday with 10/11</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/carlsen-surprise-visit-on-chesscom/",
-         "pubDate" : "Thu, 12 May 2022 12:17:03 +0100",
-         "title" : "Carlsen surprise visit on Chess.com"
       },
       {
          "description" : "",
@@ -794,22 +858,6 @@ news_feed (
          "title" : "Hans Niemann triumphant at TePe Sigeman & Co"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The players share against whom they are most excited to play in the Superbet Chess Classic. 2022.05.04<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-chess-classic-opponents\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/V6-ltri2EJk.jpg?itok=QWRUuZ3k\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-opponents",
-         "pubDate" : "Mon, 09 May 2022 16:47:28 +0000",
-         "title" : "2022 Superbet Chess Classic: Opponents"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> FOLLOW GAMES: <a href=\"https://lichess.org/broadcast/final-four-corporate-chess-league-spring-2022/round-1/3cZpcpJZ\">https://lichess.org/broadcast/final-four-corporate-chess-league-spring-2...</a> The Corporate Chess League final four teams meet in a three-round championship round robin. Join NM Caleb Denby for the move-by-move. 2022.05.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-corporate-chess-league-spring-championship\"><img src=\"https://",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-corporate-chess-league-spring-championship",
-         "pubDate" : "Mon, 09 May 2022 16:47:28 +0000",
-         "title" : "2022 Saint Louis Corporate Chess League: Spring Championship"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91450010.cms\" />Indian Grandmaster Arjun Erigaisi secured four points from seven rounds to finish second in the Tepe Sigeman round-robin chess tournament on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -970,14 +1018,6 @@ news_feed (
          "title" : "110 Instructive Chess Annotations"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The players talk about playing in Bucharest for the Superbet Chess Classic, as well as their history playing there. 2022.05.04<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-chess-classic-playing-romania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Hg3bNzvbyT8.jpg?itok=T5Cu672W\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-playing-romania",
-         "pubDate" : "Sun, 08 May 2022 16:47:05 +0000",
-         "title" : "2022 Superbet Chess Classic: Playing in Romania"
-      },
-      {
          "description" : "The 2022 Mitropa Chess Cup took place from 27th April 8th May in Corti, Corsica France. The traditional event for teams from Central Europe was played in 9 round-robin rounds within Open and Women's sections. French teams won the historical double gold , winning both Mitropa Cup events. French team in the Open section scored convincing 16&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/france-wins-historical-double-gold-at-mitropa-cup-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1114,14 +1154,6 @@ news_feed (
          "title" : "Geopolitics and the Diverse Voices in Chess"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The team pays tribute to Yuri Averbakh, the great endgame specialist who died today. The centenarian Averbakh was a household name in Russian chess. 2022.05.07<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yuri-averbakh-1922-2022-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qvBQPb6hMz0.jpg?itok=51U3ofpG\" alt=\"\" /></a><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/yuri-averbakh-1922-2022-round-3",
-         "pubDate" : "Sat, 07 May 2022 13:46:10 +0000",
-         "title" : "Yuri Averbakh: 1922-2022 | Round 3"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1232,14 +1264,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/anish-giri-i-dont-think-we-have-chess-politics-as-such/",
          "pubDate" : "Fri, 06 May 2022 18:10:57 +0000",
          "title" : "Anish Giri: \"I don't think we have chess politics as such\""
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews and analyzes with Garry Kasparov during Round 2 of the Superbet Chess Classic. 2022.05.06<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-unlike-war-chess-has-rules-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3ragAKwOKk4.jpg?itok=vT-_Tm2N\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-unlike-war-chess-has-rules-round-2",
-         "pubDate" : "Fri, 06 May 2022 16:45:14 +0000",
-         "title" : "Kasparov: Unlike War, Chess has Rules | Round 2"
       },
       {
          "description" : "The Appeal Chamber of the FIDE Ethics and Disciplinary Commission has announced its decision to dismiss the appeal presented by Grandmaster Sergey Karjakin, confirming the 6-month ban that was imposed by the EDC on March 21. This decision is appealable to the Court of Arbitration for Sport (CAS) within 21 calendar days following communication of this decision. | Photo: FIDE",
@@ -1866,7 +1890,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#114;&#46;&#x77;&#x69;&#99;kh&#x61;&#x6d;&#64;b&#x74;&#x69;&#110;&#116;e&#x72;&#x6e;&#101;t&#x2e;&#x63;&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#x72;&#46;&#x77;&#x69;&#99;&#x6b;&#x68;&#97;&#x6d;&#x40;&#98;&#x74;&#x69;&#110;&#x74;&#x65;&#114;&#x6e;&#x65;&#116;&#x2e;&#x63;&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2128,22 +2152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1716",
          "pubDate" : "Thu, 28 Apr 2022 16:50:11 +0000",
          "title" : "FIDE Candidates Tournament: Drawings of lots and pairings"
-      },
-      {
-         "description" : "Arne loves to attack, as you probably know by now. But for many players, attacking is a rather difficult task to fulfil. Svitlana shows us how to attack from scratch. One move in a certain position is all it needs. The purpose, the strategy, and the following tactics are working hand in hand, as Svitlana points out. We also take a look at one of her recently played games OTB.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-38",
-         "pubDate" : "Thu, 28 Apr 2022 13:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - How to start an attack from scratch"
-      },
-      {
-         "description" : "Those who have learned their variations with the Fritz Opening Drill may start with the practical exercise: the training game against Fritz 18. For good reason: with its \"Evolving Genius\" mode, Fritz 18 is the ideal partner for practice-oriented opening training. Fritz adjusts its playing strength and you quickly see whether you can play the positions resulting from the newly learned opening. Fritz 18 guides you through the training games as a trainer, gives intelligent hints and thus ensures a motivating sense of achievement. The best practical training for a real game. ChessBase seminar leader Martin Fischer shows how it works and that this opening training is really fun.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tutorial-april-2022-opening-training-with-fritz18-part-02-sparring",
-         "pubDate" : "Thu, 28 Apr 2022 12:55:00 +0100",
-         "title" : "Opening training with Fritz 18 - part II: sparring"
       },
       {
          "description" : "",
