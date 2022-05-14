@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first two rounds of the Collegiate Chess League Season 4 playoffs have concluded leaving only four teams remaining in each division, and these teams are now fighting for a spot in the finals. The teams that have made it this far are guaranteed...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-semifinals",
+         "pubDate" : "Sat, 14 May 2022 08:06:41 -0700",
+         "title" : "Collegiate Chess League Season 4: Semifinals"
+      },
+      {
+         "description" : "The first event of the 2022 Grand Chess Tour series is coming to an end as the last round is underway in Bucharest. Levon Aronian and Wesley So headed into the last round in the co-lead scoring 5/8 points and none of them didn't manage to score the full point in the last round. Two []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/playoffs-to-decide-the-winner-of-grand-chess-tour-romania-2022/",
+         "pubDate" : "Sat, 14 May 2022 14:46:00 +0000",
+         "title" : "Playoffs to decide the Winner of Grand Chess Tour Romania 2022"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich talks to the first Romanian Grandmaster Florin Gheorghiu during Round 8 of the Superbet Chess Classic. 2022.05.13<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/florin-gheorghiu-stops-superbet-classic-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rCRAPl94bBw.jpg?itok=IDlxWgmO\" alt=\"\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/florin-gheorghiu-stops-superbet-classic-round-8",
+         "pubDate" : "Sat, 14 May 2022 13:51:02 +0000",
+         "title" : "Florin Gheorghiu Stops in at the Superbet Classic | Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich talks to Alexander Onischuk about rooting for the U.S. players, the Russian invasion of Ukraine, and more during Round 9 of the Superbet Chess Classic. 2022.05.13<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alexander-onischuk-ukraine-forever-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/y",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alexander-onischuk-ukraine-forever-round-9",
+         "pubDate" : "Sat, 14 May 2022 13:51:02 +0000",
+         "title" : "Alexander Onischuk: Ukraine Forever | Round 9"
+      },
+      {
          "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 9 kicks off Saturday at 13.00 CEST. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,7 +130,7 @@ news_feed (
          "title" : "Superbet: Aronian escapes, still shares the lead"
       },
       {
-         "description" : " Share!For the past couple of years Michael Abron has been working on his memoirs to tell his story of playing in a tournament in all 50 U.S. states. in March released The Chess Traveler and Pioneer. Abron was featured on The Chess Drum after completing the journey. He finished at the onset of the COVID The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/13/michael-abron-releases-book-on-chess-journey/\">Michael Abron releases book on Chess Journey</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Share!48For the past couple of years Michael Abron has been working on his memoirs to tell his story of playing in a tournament in all 50 U.S. states. in March released The Chess Traveler and Pioneer. Abron was featured on The Chess Drum after completing the journey. He finished at the onset of the COVID The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/13/michael-abron-releases-book-on-chess-journey/\">Michael Abron releases book on Chess Journey</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/05/13/michael-abron-releases-book-on-chess-journey/",
@@ -138,7 +170,7 @@ news_feed (
          "title" : "Aronian and So maintain the co-lead; Grand Chess Tour Romania - R8 Recap"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Warsaw, the inaugural Superbet Rapid &amp; Blitz Poland is the second leg of the Grand Chess Tour. Four Tour players (Caruana, Aronian, So, and Rapport) are joined by wildcards (Anand, Duda, Korobov, Wojtaszek, Shevchenko, and Lupulescu) for a rapid round robin and blitz double round robin event. Join commentators TBA for the move-by-move. 2022.05.17<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-supe",
+         "description" : "<div class=\"body text-secondary\"> Live from Warsaw, the inaugural Superbet Rapid &amp; Blitz Poland is the second leg of the Grand Chess Tour. Four Tour players (Caruana, Aronian, So, and Rapport) are joined by wildcards (Anand, Duda, Korobov, Wojtaszek, Shevchenko, and Lupulescu) for a rapid round robin and blitz double round robin event. Today is the first three rapid rounds. Join GMs Peter Svidler, Yasser Seirawan, and Alejandro Ramirez for the move-by-move. 2022.05.19<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-t",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-day-1",
@@ -280,14 +312,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/ding-and-carlsen-headline-chessable/",
          "pubDate" : "Fri, 13 May 2022 12:15:18 +0100",
          "title" : "Ding and Carlsen headline Chessable Masters"
-      },
-      {
-         "description" : "The Italian Summer Chess Tour 2022 features six open tournaments taking place one after another from May 16 June 11, with a total prize fund of 35.000e. The tour kicks off with the GM/IM Mix norm tournament which will be played from 16-20 May in Montebelluna. The 9 rounds swiss event named GrandMaster Grandiscacchi []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/italian-summer-chess-tour-2022/",
-         "pubDate" : "Fri, 13 May 2022 10:43:20 +0000",
-         "title" : "Italian Summer Chess Tour 2022"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has published a <a href=\"https://fide.com/news/1753\">Call for Interest</a> inviting applications for the <strong>Fair Play Panel</strong> of the <strong>Chess Olympiad</strong> in Mamallapuram not only from arbiters but also from legal and technology experts. Applicants will have to pay their travel to Chennai from the grant of $1,500-2,000. </div> ",
@@ -1378,14 +1402,6 @@ news_feed (
          "title" : "GM Anna Muzychuk Hosts Chess Event For Kids To Support Ukraine"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> From the Palace of the Parliament in Bucharest, the Opening Ceremony and Drawing of Lots for the Superbet Chess Classic takes place. 2022.05.04<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-chess-classic-opening-ceremony\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gthuwmduxdg.jpg?itok=dxIUAKe4\" alt=\"\" /></a></di",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-opening-ceremony",
-         "pubDate" : "Thu, 05 May 2022 19:44:30 +0000",
-         "title" : "2022 Superbet Chess Classic: Opening Ceremony"
-      },
-      {
          "description" : "This week Robert Ris looks at the line with 6.Bd3 against the Najdorf, only the tenth most popular against the sharp defence. Facing this move with Black is no easy task, though, as was demonstrated in an all-Ukrainian confrontation at the Bundesliga. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1400,14 +1416,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1733",
          "pubDate" : "Thu, 05 May 2022 18:51:31 +0000",
          "title" : "FIDE delegation meets representatives of Asian federations in Bangkok"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Sheraton Bucharest Hotel, the Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players (Caruana, Aronian, Firouzja, So, Mamedyarov, Nepomniachtchi, Rapport, Dominguez, and MVL) are joined by a wildcard (Deac) for a classical round robin. Join GMs Peter Svidler, Alejandro Ramirez, Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovich for the move-by-move. 2022.05.07<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-chess-classic-round-3",
-         "pubDate" : "Thu, 05 May 2022 16:44:22 +0000",
-         "title" : "2022 Superbet Chess Classic: Round 3"
       },
       {
          "description" : "The European Youth Chess Championship 2022 will take place from 5th November (arrival day) 15th November (departure day) in Antalya, Turkey. The event will be played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each national federation, which is a member of the European Chess Union, can register one&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2022-official-invitation/\">Read More &#187;</a></span>",
@@ -1528,14 +1536,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-39",
          "pubDate" : "Wed, 04 May 2022 20:10:00 +0100",
          "title" : "Svitlana's Smart Moves - Rook endgame principles"
-      },
-      {
-         "description" : "GM Hikaru Nakamura nearly swept Titled Tuesday again, tying for first place in both tournaments but only holding better tiebreaks in the late tournament. In the early tournament, he was edged out by GM Dmitry Andreikin on the tiebreaks. Nakamura a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andreikin-nakamura-win-titled-tuesday-may-3-2022",
-         "pubDate" : "Wed, 04 May 2022 09:46:20 -0700",
-         "title" : "Andreikin, Nakamura Once Again Titled Tuesday Victors"
       },
       {
          "description" : " At the moment I am in Bangkok, attending a planning and development meeting for Asian chess federations (wearing both my PNG and Oceania hats). One topic of discussion is finding volunteers to implement programs that are usually required by developing federations (eg coaching and tournament organisation). For developed countries (both chess and economically) finding volunteers is hard, but aided by the large population of funded retirees. But for poorer countries this pool of resources is almost non-existent. So one suggestion is that each developing federation receives funding for a program officer, whose job it is is to implement these programs. The ultimate goal is to create enough chess",
@@ -1866,7 +1866,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#x69;&#x63;&#x6b;&#104;&#97;&#109;&#64;&#98;&#116;&#105;nter&#x6e;&#x65;&#x74;&#x2e;&#x63;&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#114;&#46;&#x77;&#x69;&#99;kh&#x61;&#x6d;&#64;b&#x74;&#x69;&#110;&#116;e&#x72;&#x6e;&#101;t&#x2e;&#x63;&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
