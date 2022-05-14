@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So and Levon Aronian top the standings table with one round to go at the Superbet Chess Classic in Romania. While So had little trouble drawing Alireza Firouzja in round 8, Aronian was inches away from losing against Ian Nepomniachtchi. In the one decisive result of the day, Leinier Dominguez got the better of Shakhriyar Mamedyarov. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r8",
+         "pubDate" : "Sat, 14 May 2022 03:05:00 +0100",
+         "title" : "Superbet: Aronian escapes, still shares the lead"
+      },
+      {
          "description" : " Share!For the past couple of years Michael Abron has been working on his memoirs to tell his story of playing in a tournament in all 50 U.S. states. in March released The Chess Traveler and Pioneer. Abron was featured on The Chess Drum after completing the journey. He finished at the onset of the COVID The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/13/michael-abron-releases-book-on-chess-journey/\">Michael Abron releases book on Chess Journey</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-515-so-mamedyarov",
          "pubDate" : "Fri, 13 May 2022 14:00:00 +0100",
          "title" : "Game of the Week #515: Wesley So vs Shakhriyar Mamedyarov"
-      },
-      {
-         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 8 kicks off Friday at 14.00 CEST. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
-         "pubDate" : "Fri, 13 May 2022 13:55:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "GMs Alireza Firouzja and Shakhriyar Mamedyarov both won their first games in round seven of the 2022 Superbet Chess Classic Romania. The third winner was&#38;nbsp;GM Maxime Vachier-Lagrave, who was gifted a full point as his opponent blundered. In a...",
@@ -1826,7 +1826,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#105;&#99;&#107;&#104;am&#64;&#x62;&#x74;&#x69;&#x6e;&#x74;&#x65;&#114;&#110;&#101;t&#46;c&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#114;&#x2e;&#119;&#x69;c&#x6b;h&#x61;m&#64;&#x62;&#116;&#x69;&#110;&#x74;&#101;&#x72;n&#x65;t&#x2e;c&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
