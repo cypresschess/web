@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. Round 9 kicks off Saturday at 13.00 CEST. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
+         "pubDate" : "Sat, 14 May 2022 12:55:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "The &#8220;ChessMood&#8221; International Open Chess Tournament will take place from September 29 to October 09 at the 5 star Tsaghkadzor Marriott Hotel in Armenia. The event will be played in 9 rounds, swiss system, within two groups: A (2000+) and B (U2000). The total prize fund will be 10.250.000 Armenian drams (around 21.000 euros). Time []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-mood-open-2022/",
+         "pubDate" : "Sat, 14 May 2022 10:49:23 +0000",
+         "title" : "ChessMood Open 2022"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91562290.cms\" />The All India Chess Federation (AICF) on Saturday signed a Memorandum of Understanding (MoU) with the Tamil Nadu government for the forthcoming 44th Chess Olympiad, slated to be held here from July 28 to August 10.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/44th-chess-olympiad-aicf-tamil-nadu-government-sign-mou/articleshow/91562290.cms",
+         "pubDate" : "Sat, 14 May 2022 10:48:27 +0000",
+         "title" : "44th Chess Olympiad: AICF, Tamil Nadu government sign MoU"
+      },
+      {
+         "description" : "The eighth round of the Superbet Chess Classic, which was played on the notorious Friday the 13th, delivered just as much blood as the history annals would have us believe that was spilled on the days with that date. At the end of it there was onl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-8",
+         "pubDate" : "Sat, 14 May 2022 03:42:00 -0700",
+         "title" : "Aronian's Great Escape: 2022 Superbet Chess Classic Romania, Day 8"
+      },
+      {
+         "description" : "Levon Aronian admitted \"I'm toast!\" about his position against Ian Nepomniachtchi in the penultimate round of the Superbet Chess Classic, but, as against Alireza Firouzja, he went on to pull off a miraculous escape. That kept him level with co-leader Wesley So going into the final round, after Wesley refused to let Alireza have any fun in the King's Indian Defence. Leinier Dominguez grabbed the day's only win, outplaying Shakhriyar Mamedyarov from what seemed a dry position.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-8-levon-does-it-again",
+         "pubDate" : "Sat, 14 May 2022 10:05:00 +0000",
+         "title" : "Superbet Chess Classic 8: Levon does it again!"
+      },
+      {
+         "description" : "Four French champions will gather at Blitz Society (pictured), the hip new chess meeting point in the heart of Paris, for a rapid match against four champions from Ukraine. The match will take place on Saturday, May 14, starting at 17.30 CEST. Donations for Ukrainian relief efforts are being collected by UNICEF!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ukraine-france-solidarity-match-paris",
+         "pubDate" : "Sat, 14 May 2022 11:00:00 +0100",
+         "title" : "Ukraine vs France solidarity match in Paris"
+      },
+      {
+         "description" : "Uganda Olympiad Qualifiers event, determining the composition of both Women's and Men's Uganda Teams, took place in March this year. The event had 14 players in both Open and Women's sections who battled it out through 13 rounds played in a round-robin system. The top five players of each section made it to the team []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/team-uganda-set-for-the-44th-chess-olympiad-2022/",
+         "pubDate" : "Sat, 14 May 2022 09:40:26 +0000",
+         "title" : "Team Uganda set for the 44th Chess Olympiad 2022"
+      },
+      {
+         "description" : "The Chess in school conference under the name &#x201C;Chess: a Game to be spread in Schools&#x201D; (CGS) has started in Zurich and takes place on 14th of May, in&#160;Dorint Airport Hotel. The Conference features the following themes: CGS project overall presentation Psychomotricity on giant chessboard &#x2013; CATLE/ERASMUS+ project The final report of the CGS research []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-a-game-to-be-spread-in-schoolsconference-live/",
+         "pubDate" : "Sat, 14 May 2022 08:50:19 +0000",
+         "title" : "\"Chess: a Game to be Spread in Schools\" Conference LIVE"
+      },
+      {
+         "description" : "FM James Canty III and IM Kostya Kavutskiy duked it out over the board on Friday in the third round of 16 match of the IM Not A GM Speed Chess Championship. Pre-match favorite Canty was able to stave off a valiant comeback effort from Kavutskiy in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-imscc-round-of-16-canty-beats-kavutskiy",
+         "pubDate" : "Sat, 14 May 2022 01:33:00 -0700",
+         "title" : "Canty Conquers Kavutskiy: 2022 IMSCC, Round Of 16"
+      },
+      {
+         "description" : "Just over a year ago I celebrated the 99th birthday of the Russian Grandmaster, world championship candidate and former Soviet champion, Yuri Averbakh. Sadly, having passed his 100th birthday in February, Averbakh finally succumbed to the ravages of time on May 7th (last Saturday). I cannot avoid the suspicion that the complications in Russian life []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/yuri-averbakh-1922-2022/",
+         "pubDate" : "Sat, 14 May 2022 08:29:09 +0000",
+         "title" : "Yuri Averbakh, 1922-2022"
+      },
+      {
          "description" : "In the diagram position White just played 12.Rd1 to attack Black's knight on d5 and to force Black to make a difficult choice: should Black play 12...Qa5 or 12...Be6 - which move gets your okay?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -290,14 +370,6 @@ news_feed (
          "title" : "Superbet: Wins for MVL, Firouzja and Mamedyarov"
       },
       {
-         "description" : "The stakes are heating up for Superbet Chess Classic Romania, as the tournament is quickly coming to an end with only two more rounds left to play. Today&#x2019;s Round 7 brought once again entertaining games with key dramatic moments as three of the five games were decisive. Wesley So and Levon Aronian maintain their co-lead []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/firouzja-scores-first-otb-win-in-2022-grand-chess-tour-romania-2022-r7-recap/",
-         "pubDate" : "Thu, 12 May 2022 20:51:15 +0000",
-         "title" : "Firouzja scores first OTB win in 2022; Grand Chess Tour Romania 2022 - R7 recap"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -314,14 +386,6 @@ news_feed (
          "title" : "India presents four strong teams for the Olympiad in Chennai"
       },
       {
-         "description" : "FIDE Congress and General Assembly will be held simultaneously with the 44th Chess Olympiad 2022 in Chennai, India between&#160;31 July 2022 and 09 August. This year, the FIDE Congress includes FIDE elections which will be completed on 7-8 August. The actual FIDE President Arkady Dvorkovich spoke in April about his intention to run for reelection, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dvorkovich-announces-his-team-on-the-way-to-2022-fide-elections/",
-         "pubDate" : "Thu, 12 May 2022 17:56:32 +0000",
-         "title" : "Dvorkovich announces his team on the way to 2022 FIDE elections"
-      },
-      {
          "description" : "The year is 1935. Salo Flohr just won the 2nd Moscow International Tournament in front of Mikhail Botvinnik, Emanuel Lasker, and Jose Raul Capablanca. The late Yuri Averbakh is 13 years old. He knows the rules of chess but is not an enthusiast yet. A lecture by Nikolai Grigoriev is about to give birth to a love for chess that will dictate each day of the 87 years that Averbakh has left to live.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -336,14 +400,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/levon-aronian-mike-tyson%E2%80%99s-lesson-fear-round-7",
          "pubDate" : "Thu, 12 May 2022 16:49:29 +0000",
          "title" : "Levon Aronian: Mike Tyson's Lesson on Fear | Round 7"
-      },
-      {
-         "description" : "A few days after the announcement of the German Open National Team for the upcoming 44th Chess Olympiad 2022, it has been disclosed who will compete for the German Women's Team. The Women's Team will be captained and coached by Yuri Yakovich, who named the following five players to represent Germany in India from 28th []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/germany-announces-womens-team-for-44th-chess-olympiad-2022/",
-         "pubDate" : "Thu, 12 May 2022 15:10:59 +0000",
-         "title" : "Germany announces Women's Team for 44th Chess Olympiad 2022"
       },
       {
          "description" : "The King's Indian is a very straight-forward, aggressive opening. Basically, Black builds up a system in the first couple of moves, and once it is set up, the attacking begins! White tries to counter on the queenside, in most cases. But please take a look at it all for yourself in this episode of \"Svitlana's Smart Moves\".",
@@ -1506,14 +1562,6 @@ news_feed (
          "title" : "Canada stages Zonal Tournaments at Easter"
       },
       {
-         "description" : "18-year-old Arjun Erigaisi climbed to 2680.3 on the live rating list as he began the TePe Sigeman &amp; co. Chess Tournament in Malmo, Sweden with a convincing win over Alexei Shirov. The veteran was caught out in the opening, as was David Navara, who fell to defeat against Salem Saleh. Niemann-Adams and Grandelius-Van Foreest were drawn.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/erigaisi-beats-shirov-as-sigeman-co-begins",
-         "pubDate" : "Wed, 04 May 2022 12:53:09 +0000",
-         "title" : "Erigaisi beats Shirov as Sigeman & co. begins"
-      },
-      {
          "description" : " In this week's show there was no guest, just myself and Andrew Martin showing some games with interesting openings. The first one has Jim Plaskett wielding the Benko Gambit, the second is the surprising 6.h4 against the Najdorf and the third is an Evans Gambit, with Hikaru Nakamura showing how to play the Black side: <a href=\"https://chessimprover.com/master-chess-web-show-12/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (12)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-12/\">Master Chess Web Show (12)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1600,22 +1648,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/vaishali-wins-chess-tournament-in-greece/articleshow/91293260.cms",
          "pubDate" : "Tue, 03 May 2022 16:40:14 +0000",
          "title" : "Vaishali wins chess tournament in Greece"
-      },
-      {
-         "description" : "The 2022 Junior Speed Chess Championship by SIG returned today with a high-octane quarterfinal between GMs Brandon Jacobson&#38;nbsp;and GM Awonder Liang where viewers were graced with yet another stellar comeback in the championship.&#38;nbsp; Liang wa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-quarterfinal-liang-jacobson",
-         "pubDate" : "Tue, 03 May 2022 07:35:43 -0700",
-         "title" : "Liang Best In Bullet Bonanza: 2022 Junior Speed Chess Championship Quarterfinal"
-      },
-      {
-         "description" : "It&#39;s almost time for the 2022 edition of the I&#39;M Not A GM Speed Chess Championship, which begins Monday, May 9. But it&#39;s not just the players who get to enjoy the thrill of competition this year: We&#39;re running a free-to-play, cash prize bracket co...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-imscc-chess-bracket-contest",
-         "pubDate" : "Tue, 03 May 2022 07:00:00 -0700",
-         "title" : "Complete Your 2022 I'M Not A GM Speed Chess Championship Bracket Today"
       },
       {
          "description" : "<img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1651581147171-JYO9BCYLIX376F95FTWR/2019-Kirill-Shevchenko.JPG\" data-image-dimensions=\"800x1067\" data-image-focal-point=\"0.5,0.5\" alt=\"2019-Kirill-Shevchenko.JPG\" data-load=\"false\" data-image-id=\"627120da493d026d741d0a49\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1651581147171-JYO9BCYLIX376F95FTWR/2019-Kirill-Shevchenko.JPG?format=1000w\" /><br> <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1651581160081-8OCRX2I6OKJ16CAV3R32/me-norwaychess-dsc06056-emelianova-removebg+%281%29",
@@ -1834,7 +1866,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#114;&#46;&#x77;&#x69;&#99;k&#x68;&#x61;&#109;&#64;b&#x74;&#105;&#110;t&#x65;&#x72;&#110;e&#x74;&#x2e;&#99;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#x72;&#x2e;w&#105;&#x63;&#x6b;h&#97;&#109;&#x40;&#x62;t&#105;&#x6e;&#x74;e&#114;&#x6e;&#x65;t&#46;&#99;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2114,22 +2146,6 @@ news_feed (
          "title" : "Opening training with Fritz 18 - part II: sparring"
       },
       {
-         "description" : "Today, the Esports Cup in Oslo comes to a thrilling finish: before the seventh and final round World Champion Magnus Carlsen and the 16-year-old Indian Grandmaster Pragganandhaa share the lead with 12/18 and they both have chances to win the tournament. In round seven Carlsen plays against Shakhriyar Mamedyarov while Praggnanandhaa plays against Giri. Play starts at 18:00 CEST / 16:00 UTC. Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-live",
-         "pubDate" : "Thu, 28 Apr 2022 12:50:00 +0100",
-         "title" : "Oslo Esports Cup - Games and standings"
-      },
-      {
-         "description" : "In the long-distance duel between Magnus Carlsen and Praggnanandhaa in the Oslo Esports Cup, round 6 went well for the World Champion: He won his match against Eric Hansen, while Praggnanandhaa lost against Jan-Krzysztof Duda. Before the seventh and last round Praggnanandhaa and Carlsen share the lead with with 12/18 each, but Duda also has theoretical chances to win the tournament. | Photos and pictures: Play Magnus Group",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oslo-esports-cup-round-6-carlsen-wins-praggnanandhaa-loses",
-         "pubDate" : "Thu, 28 Apr 2022 12:39:34 +0100",
-         "title" : "Oslo Esports Cup, Round 6: Carlsen wins, Praggnanandhaa loses"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2296,22 +2312,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/8-things-i-learned-from-failing-to-get-a-wim-norm/",
          "pubDate" : "Sat, 23 Apr 2022 13:05:56 +0000",
          "title" : "8 Things I Learned From Failing To Get A WIM-Norm"
-      },
-      {
-         "description" : "The world's top chess authorities have already voted to rebuke Russia for its egregious invasion of Ukraine. The unanimous decision by the International Chess Federation (FIDÉ) to ban Russians from competing under their own flag, and deprive the country of the Chess Olympiad, originally scheduled for Moscow this summer, is extraordinary. This is not just []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/ukraine-and-world-chess-whose-side-is-dvorkovich-on/",
-         "pubDate" : "Sat, 23 Apr 2022 09:14:22 +0000",
-         "title" : "Ukraine and world chess: whose side is Dvorkovich on?"
-      },
-      {
-         "description" : " <p class=\"lead\">World Champion Magnus Carlsen scored a convincing win over Polish No.1 Jan-Krzysztof Duda in the first round of the eponymous event, <a href=\"https://chess24.com/tour/oslo-esports-cup-starts-with-thumping-win-for-carlsen/\">Meltwater Champions Chess Tour</a>. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/103E1C52-A16B-46DF-A32E-212418047973.jpeg\" width=\"1600\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">Carlsen against Duda, round 1 of the E-Sports Cup</div> </div> The $210,000 all-play-all event is the new season of the online event organized by Carlsen's company, PlayMagnus. It will be played over seven days in Oslo and, according to t",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/champions-tour-under-way-blockbuster-with-predictable-scenario/",
-         "pubDate" : "Sat, 23 Apr 2022 07:31:54 +0000",
-         "title" : "Champions Tour Under Way: Blockbuster With Predictable Scenario"
       }
    ]
 }
