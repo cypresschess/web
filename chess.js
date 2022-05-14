@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After an intense and final day of the Superbet Chess Classic Bucharest, three players tied for first with 5.5/9. However, it was the French Grandmaster Maxime Vachier-Lagrave, the &#x201C;Dark Knight&#x201D;, winning his last round game, catching up with the two former leaders GM Wesley So and GM Levon Aronian, and in the end taking them []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/maxime-vachier-lagrave-wins-grand-chess-tour-romania-2022-final-report/",
+         "pubDate" : "Sat, 14 May 2022 22:31:47 +0000",
+         "title" : "Maxime Vachier-Lagrave wins Grand Chess Tour Romania 2022; Final Report"
+      },
+      {
+         "description" : "A few days ago, one of the most popular American models Cindy Crawford was spotted playing chess with her daughter Kaia Gerber who follows the mother's steps in modeling. The Instagram post of Cindy's husband Rande Gerber became viral and spread all over the social networks and various internet portals. (check out the photo []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/are-you-a-chess-nerd-find-out-with-a-quick-test-tweetoftheday/",
+         "pubDate" : "Sat, 14 May 2022 22:16:03 +0000",
+         "title" : "Are you a Chess Nerd?! Find out with a quick test! #TweetOftheDay"
+      },
+      {
          "description" : "The 2022 International Computer Games Association events are fast approaching: the World Computer Chess Championships (Vienna, July 23-29), the 2022 Computer Olympiad (online, July 23-29), and the 2022 Computers and Games conference (online, November 22-24). The ICGA has distributed full information on all upcoming events.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/candidates-do-poorly-in-bucharest/",
          "pubDate" : "Sat, 14 May 2022 19:39:28 +0100",
          "title" : "Candidates do poorly in Bucharest"
+      },
+      {
+         "description" : " The Superbet Chess Classic took place in Bucharest Thu 5th May to Sat 14th May 2022. It was the first event in the 2022 Grand Chess Tour which has three rapid and blitz events and one further classical event, the Sinquefield Cup. Players: Alireza Firouzja, Levon Aronian, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, Ian Nepomniachtchi, Richard Rapport, Maxime Vachier-Lagrave, Leinier Dominguez and Bogdan-Daniel Deac. There was a three way tie for first and that resulted in a tie-break MVL beat both Wesley So and Levon Aronian to take first place, So finished second and Aronian 3rd.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superbet-chess-classic-2022",
+         "pubDate" : "Sat, 14 May 2022 22:36:00 +0400",
+         "title" : "Superbet Chess Classic 2022 - Games and Results"
       },
       {
          "description" : "This week Robert Ris focuses on the Bayonet Attack in the King's Indian Defence. He uses model games from elite players to illustrate the potential problems Black faces when White plays 11.a4 and 12.a5. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -314,14 +338,6 @@ news_feed (
          "title" : "Carlsen and Ding go head-to-head in Chessable Masters 2022"
       },
       {
-         "description" : "The 44th Chess Olympiad 2022&#160;takes place from 28th July &#x2013; 10th August in Chennai, India, and&#160;100 countries already registered for the event. A number of countries revealed the composition of their teams for Chennai, such as: Germany, Spain, Kenya, India, Sri Lanka, Malawi Monaco Chess Federation joined them and disclosed who will travel to India []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/monaco-teams-for-44th-chess-olympiad-2022-announced/",
-         "pubDate" : "Fri, 13 May 2022 13:32:43 +0000",
-         "title" : "Monaco Teams for 44th Chess Olympiad 2022 announced"
-      },
-      {
          "description" : " Reti's quick win over Tartarkower in 1910 is quire well known, but there was another game between the two player, from the same tournament (or at least the same cafe), which finished even more quickly. Assuming I have the complete game score, the game only went for 9 moves. Alas, it wasn't as spectacular, with a draw being agreed between the two players, rather than a move like Qd8+ hitting the board! <br /> <b>Reti,Richard - Tartakower,Saviely [C36]</b><br />Wien Vienna, 1910 <script>new PgnViewer( { boardName: \"game1328\", movesFormat: \"default\", pgnString:'1.e4 e5 2.f4 exf4 3.Nf3 d5 4.exd5 Nf6 5.c4 c6 6.d4 cxd5 7.Bxf4 Bb4+ 8.Nc3 O-O 9.Be2 1/2-1/2', pauseBetweenMoves: 500, pieceSize: 29 } ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -376,14 +392,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/norwegian-surprise-on-dvorkovich/",
          "pubDate" : "Fri, 13 May 2022 12:37:24 +0100",
          "title" : "Norwegian surprise on Dvorkovich team"
-      },
-      {
-         "description" : "The Chess Four (Schackfyran) is one of the world's largest chess competitions organized for the fourth-grade kids and has, since its inception in 1978, taught half a million 10-year-olds to play chess. 25000 kids every year take part in the event through the qualifying competitions and the national finals. The event has grown so big []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2300-children-to-play-in-the-swedish-schackfyran-chess-four-national-final/",
-         "pubDate" : "Fri, 13 May 2022 11:15:37 +0000",
-         "title" : "2300 children to play in the Swedish Schackfyran (Chess Four) National Final"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After his April marathon to reach the required games for his Candidates ticket, <strong>Ding Liren</strong> <a href=\"https://chess24.com/tour/chessable-masters-worlds-top-2-go-head-to-head/\">will participate</a> in the <strong>Chessable Masters</strong>, the fourth tournament of this year's <strong>Meltwater Champions Chess Tour</strong> on 19-26 May, where he will face <strong>Magnus Carlsen</strong> at least once in the preliminaries. <strong>Wei Yi</strong> is invited for the first time. Neither Russians nor Ukrainians are in the line-up. </div> ",
@@ -1610,14 +1618,6 @@ news_feed (
          "title" : "Winners crowned at World Cadets & Youth Championships 2022 for Rapid and Blitz"
       },
       {
-         "description" : " The Superbet Chess Classic takes place in Bucharest Thu 5th May to Sat 14th May 2022. It is the first event in the 2022 Grand Chess Tour which has three rapid and blitz events and one further classical event, the Sinquefield Cup. Players: Alireza Firouzja, Levon Aronian, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, Ian Nepomniachtchi, Richard Rapport, Maxime Vachier-Lagrave, Leinier Dominguez and Bogdan-Daniel Deac.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-chess-classic-2022",
-         "pubDate" : "Wed, 4 May 2022 13:16:00 +0400",
-         "title" : "Superbet Chess Classic 2022 - Games and Results"
-      },
-      {
          "description" : " <p class=\"lead\">The <a href=\"https://grandchesstour.org/\">2022 Grand Chess Tour</a> kicks off on May 5th with the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">2022 Superbet Chess Classic Romania,</a> in Bucharest. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/871848.719daad2.5000x5000o.666537263dc8.png\" width=\"1600\" height=\"900\" alt=\"\" /> <div class=\"e2-text-caption\">Alireza Firouzja in Wijk aan Zee. Photo: Jurriaan Hoefsmit/Tata Steel Chess</div> </div> The tournament lasts until May 14th and features a 10-player round-robin battle for a total of $350,000 in prize money. Among the players are the US Champion and <a hr",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1890,7 +1890,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#x72;&#46;&#x77;&#x69;&#99;&#x6b;&#x68;&#97;&#x6d;&#x40;&#98;&#x74;&#x69;&#110;&#x74;&#x65;&#114;&#x6e;&#x65;&#116;&#x2e;&#x63;&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#119;&#105;&#99;kh&#x61;&#x6d;&#x40;&#x62;&#x74;&#105;&#110;&#116;er&#x6e;&#x65;&#x74;&#x2e;&#x63;&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2304,14 +2304,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/popular-site-chess-com-blocked-by-russian-authorities/",
          "pubDate" : "Sun, 24 Apr 2022 09:40:30 +0000",
          "title" : "Popular Site Chess.com Blocked by Russian Authorities"
-      },
-      {
-         "description" : " National Master Jerald Times told The Chess Drum a month ago about a troubling saga involving his tenure at the Success Academy Charter Schools (SACS). Serving as the Chess Program Director he alleged that the organization held discriminatory practices within the organization. He then filed a discriminatory complaint against SACS. In a scathing 23-page legal The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/23/jerald-times-embroiled-in-legal-chess-battle/\">Jerald Times scores victory in legal chess battle</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/04/23/jerald-times-embroiled-in-legal-chess-battle/",
-         "pubDate" : "Sat, 23 Apr 2022 22:54:49 +0000",
-         "title" : "Jerald Times scores victory in legal chess battle"
       }
    ]
 }
