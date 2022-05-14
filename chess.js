@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White just played 12.Rd1 to attack Black's knight on d5 and to force Black to make a difficult choice: should Black play 12...Qa5 or 12...Be6 - which move gets your okay?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/back-rank-tricks-in-the-catalan",
+         "pubDate" : "Sat, 14 May 2022 09:00:00 +0100",
+         "title" : "Back rank tricks in the Catalan"
+      },
+      {
          "description" : "Wesley So and Levon Aronian top the standings table with one round to go at the Superbet Chess Classic in Romania. While So had little trouble drawing Alireza Firouzja in round 8, Aronian was inches away from losing against Ian Nepomniachtchi. In the one decisive result of the day, Leinier Dominguez got the better of Shakhriyar Mamedyarov. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1826,7 +1834,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#114;&#x2e;&#119;&#x69;c&#x6b;h&#x61;m&#64;&#x62;&#116;&#x69;&#110;&#x74;&#101;&#x72;n&#x65;t&#x2e;c&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#114;&#46;&#x77;&#x69;&#99;k&#x68;&#x61;&#109;&#64;b&#x74;&#105;&#110;t&#x65;&#x72;&#110;e&#x74;&#x2e;&#99;&#111;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2130,14 +2138,6 @@ news_feed (
          "title" : "American Cup: Day 8 Recap"
       },
       {
-         "description" : "The finals of the American Cup kicked off with the first of two classical games in the matches between Aronian - Caruana and Krush - Lee. In the Open, Aronian (pictured) managed to build up a winning endgame advantage but faltered at the last moment, allowing Caruana to escape with a draw. Meanwhile in the Women's Field, Krush displayed her strategic skill once again, outplaying Lee in the early opening and middlegame to take a 1-0 lead in the match. | Photo Courtesy of Saint Louis Chess Club, Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-day-8-aronian-and-caruana-draw-krush-wins-against-lee",
-         "pubDate" : "Thu, 28 Apr 2022 07:33:13 +0100",
-         "title" : "American Cup, Day 8: Aronian and Caruana draw, Krush wins against Lee"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2312,14 +2312,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/champions-tour-under-way-blockbuster-with-predictable-scenario/",
          "pubDate" : "Sat, 23 Apr 2022 07:31:54 +0000",
          "title" : "Champions Tour Under Way: Blockbuster With Predictable Scenario"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91023507.cms\" />The world's first fully in-person chess esports event, the Oslo Esports Cup, got under way on Friday with India's young gun R Praggnanandhaa dispatching his opponent, the Dutchman Jorden van Foreest, in only three games 2.5-0.5.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/oslo-esports-cup-pragg-starts-off-with-a-win/articleshow/91023507.cms",
-         "pubDate" : "Sat, 23 Apr 2022 06:17:55 +0000",
-         "title" : "Oslo Esports Cup: Pragg starts off with a win"
       }
    ]
 }
