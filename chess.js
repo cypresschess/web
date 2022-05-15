@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tunisian Chess Championship 2022 took place from 7-15 May, 2022 in the city of Hammamet. Twelve players competed in the 11 rounds round robin event for the title of Tunisian National Champion. Tunisian best rated grandmaster Amir Zaibi won the event scoring impressive 9 victories and 2 draws for the final score of 10 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-amir-zaibi-is-the-winner-of-tunisian-chess-championship-2022/",
+         "pubDate" : "Sun, 15 May 2022 14:47:53 +0000",
+         "title" : "GM Amir Zaibi is the Winner of Tunisian Chess Championship"
+      },
+      {
+         "description" : "The first event of the Southeast Asian Games 2022 (standard individual tournament), concluded today in Ha Long Bay, Vietnam. The event was played in two sections: Open and Women's, from May 10-15, 2022. The Individual Rapid chess championship of the SEA Games starts tomorrow and will be played on 16-17 May, followed by the Individual []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nguyen-and-citra-clinch-gold-at-southeast-asian-games-2022/",
+         "pubDate" : "Sun, 15 May 2022 14:15:48 +0000",
+         "title" : "Nguyen and Citra clinch gold at Southeast Asian Games 2022"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 79th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about pawn majorities. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-79-pawn-majorities-3",
+         "pubDate" : "Sun, 15 May 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 79: Pawn Majorities (3)"
+      },
+      {
+         "description" : "Yuri Averbakh is no more. Tributes are pouring in from all over the world to the late grandmaster, who had only recently turned 100 and chess fans had celebrated the day. Not many are aware that he wrote his autobiography years before. Our columnist had begun a series on this fascinating work and narrated how it all began. Then came the Ukraine war, and he could not bring himself to write anything in the face of this tragedy. Sadly, the war is continuing, and our columnist has reconciled himself to writing. Importantly, this series is a homage to the life and work of a great player. | Photo: Eric Koch / Anefo",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/averbakh-on-averbakh-grandmaster-and-candidate",
+         "pubDate" : "Sun, 15 May 2022 14:00:00 +0100",
+         "title" : "Averbakh on Averbakh: Grandmaster and World Championship candidate"
+      },
+      {
+         "description" : " I came across an article on decision making, called \"<a href=\"https://bigthink.com/neuropsych/the-37-percent-rule/\">The 37% Rule</a>\". Basically it suggests that you spend the first 37% of the time you take to make a decision to collect and collate information about the decision. Then when you come across an option that exceeds the best option you identified initially, you take that option and stop searching. If you don't find a better choice, then take the best option from your initial research. How does this apply to chess then? On the one hand it probably doesn't, but on the other it may help solve the problem of time management. If you reach a critical phase of the game, and you feel th",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/the-37-rule.html",
+         "pubDate" : "Sun, 15 May 2022 12:39:00 +0000",
+         "title" : "The 37% rule"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1762",
+         "pubDate" : "Sun, 15 May 2022 12:38:33 +0000",
+         "title" : "Nguyen and Citra win gold medals at the Southeast Asian Games"
+      },
+      {
          "description" : "Maxime Vachier-Lagrave beat Alireza Firouzja, then Wesley So, then Levon Aronian on the final day to complete a remarkable comeback victory in the Superbet Chess Classic. Maxime defeated an over-ambitious Firouzja, while the leaders drew, to reach a 3-way playoff. Though Wesley started brilliantly against Aronian and was a move or two away from wrapping up victory in the 2nd game, MVL triumphed in a chaotic finale before going on to clinch the title against Aronian.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -24,6 +72,14 @@ news_feed (
          "link" : "https://www.chessdom.com/interview-with-maxime-vachier-lagrave-the-winner-of-grand-chess-tour-romania-2022-video/",
          "pubDate" : "Sun, 15 May 2022 11:13:18 +0000",
          "title" : "Interview with Maxime Vachier-Lagrave - the Winner of GCT Romania 2022 (VIDEO)"
+      },
+      {
+         "description" : "The National Open, Women's and Senior Chess Championships of South Africa took place from 7-14 May in Cape Town. The Open and Seniors events were played in 9 round robin rounds, while the Women's event had 8 players who battled it out through 7 round robin rounds. IM Daniel Cawdery and FM Banele Mhango tied []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/south-africa-crowns-national-chess-champions/",
+         "pubDate" : "Sun, 15 May 2022 09:12:00 +0000",
+         "title" : "South Africa crowns National Chess Champions"
       },
       {
          "description" : "",
@@ -274,6 +330,14 @@ news_feed (
          "title" : "Back rank tricks in the Catalan"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1758",
+         "pubDate" : "Sat, 14 May 2022 03:04:26 +0000",
+         "title" : "FIDE extends simplified procedure for playing under FIDE flag"
+      },
+      {
          "description" : "Wesley So and Levon Aronian top the standings table with one round to go at the Superbet Chess Classic in Romania. While So had little trouble drawing Alireza Firouzja in round 8, Aronian was inches away from losing against Ian Nepomniachtchi. In the one decisive result of the day, Leinier Dominguez got the better of Shakhriyar Mamedyarov. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -314,22 +378,6 @@ news_feed (
          "title" : "FIDE delegation pays visit to Montenegro"
       },
       {
-         "description" : "Day 8 of the Superbet Chess Classic Romania was another eventful day, despite it only providing one decisive result in the game between GM&#x2019;s Shakhriyar Mamedyarov and Leinier Dominguez, which ended in favor of the latter. The most thrilling game of the round was the one between GM&#x2019;s Ian Nepomniachtchi and Levon Aronian, which brought []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aronian-and-so-maintain-the-co-lead-grand-chess-tour-romania-r8-recap/",
-         "pubDate" : "Fri, 13 May 2022 20:34:10 +0000",
-         "title" : "Aronian and So maintain the co-lead; Grand Chess Tour Romania - R8 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1758",
-         "pubDate" : "Fri, 13 May 2022 20:04:26 +0000",
-         "title" : "FIDE extends simplified procedure for playing under FIDE flag"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from Warsaw, the inaugural Superbet Rapid &amp; Blitz Poland is the second leg of the Grand Chess Tour. Four Tour players (Caruana, Aronian, So, and Rapport) are joined by wildcards (Anand, Duda, Korobov, Wojtaszek, Shevchenko, and Lupulescu) for a rapid round robin and blitz double round robin event. Today is the first three rapid rounds. Join GMs Peter Svidler, Yasser Seirawan, and Alejandro Ramirez for the move-by-move. 2022.05.19<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-t",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -344,14 +392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-human-factor-in-chess-review-barry-hymer",
          "pubDate" : "Fri, 13 May 2022 18:40:00 +0100",
          "title" : "Professor Barry Hymer reviews \"The Human Factor in Chess\""
-      },
-      {
-         "description" : "23-year-old WFM Ailen Oriana Mena from Cura&#xE7;ao (an island belonging to Netherlands Antilles an autonomous Caribbean country within the Kingdom of the Netherlands) was a Women's Cura&#xE7;ao National Champion for six consecutive times (2013-2018) and she is one of the best rated women players of Netherlands Antilles. After the Netherlands Antille Chess Federation decided []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wfm-ailen-oriana-mena-starts-the-initiative-for-womens-curacao-team-to-get-to-the-44th-chess-olympiad-2022/",
-         "pubDate" : "Fri, 13 May 2022 17:32:34 +0000",
-         "title" : "WFM Ailen Oriana Mena starts the initiative for Women's Curaçao Team to get to the 44th Chess Olympiad 2022"
       },
       {
          "description" : "The sixth World Chess Champion was certainly not known for his cunning tactical manoeuvres. He actually confessed that he was relatively weak with tactics. Nonetheless, he was one of the best chess players in the world, and had to face a fair amount of tactical challenges over the board, which he solved brilliantly. Lawrence shows us more!",
@@ -1922,7 +1962,7 @@ news_feed (
          "title" : "Jules Arnous de Rivière"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#114;&#x2e;&#119;&#x69;c&#x6b;h&#x61;m&#64;&#x62;&#116;&#x69;&#110;&#x74;&#101;&#x72;n&#x65;t&#x2e;c&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#46;&#x77;&#105;&#x63;&#107;h&#x61;m&#x40;&#98;&#x74;&#105;&#x6e;&#116;e&#x72;n&#x65;&#116;&#x2e;&#99;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2130,28 +2170,12 @@ news_feed (
          "title" : "A Foundation for Beginners Fifty Nine"
       },
       {
-         "description" : "GM Fabiano Caruana clinched clear 1st place in the inaugural 2022 American Cup, after defeating GM Levon Aronian in the second classical game of the final. In the Women's Field, GM Irina Krush completed her campaign for the title as well, securing the victory after drawing the second game in her match against FM Alice Lee. | Photo Courtesy of Saint Louis Chess Club, Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fabiano-caruana-wins-american-cup",
-         "pubDate" : "Fri, 29 Apr 2022 07:41:39 +0100",
-         "title" : "Fabiano Caruana wins American Cup!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91171783.cms\" />India's teenaged Grandmaster R Praggnanandhaa missed out on the top prize in the USD 210,000 Oslo Esports Cup online rapid chess tournament as he lost 0.5-2.5 to Dutch player Anish Giri in the seventh and final round to finish fourth.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-indian-gm-praggnanandhaa-falters-in-final-round-of-oslo-event-finishes-fourth/articleshow/91171783.cms",
          "pubDate" : "Fri, 29 Apr 2022 06:13:38 +0000",
          "title" : "Indian GM Praggnanandhaa falters in final round of Oslo event, finishes fourth"
-      },
-      {
-         "description" : "In a surprising development, Jan-Krzysztof Duda leapfrogged Praggnanandhaa and Magnus Carlsen in the final round of the Oslo Esports Cup. The Polish star won the tournament after beating an off-form Eric Hansen and seeing both Carlsen and Pragg quickly losing their matches against Shakhriyar Mamedyarov and Anish Giri. Le Quang Liem, who was tied in points with Duda before the final round, beat Jorden van Foreest in tiebreaks to get sole second place.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oslo-esports-cup-2022-final-report",
-         "pubDate" : "Fri, 29 Apr 2022 04:15:00 +0100",
-         "title" : "Duda wins Oslo Esports Cup, Le grabs second place"
       },
       {
          "description" : "",
@@ -2242,14 +2266,6 @@ news_feed (
          "title" : "EP 276- GM Michael Adams- Stories and Lessons from Mickey's decades Among the Chess Elite "
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1710",
-         "pubDate" : "Tue, 26 Apr 2022 09:37:41 +0000",
-         "title" : "American Cup: Day 6 Recap"
-      },
-      {
          "description" : "The following motion was approved at the ECF Council meeting on 23 April That the ECF utterly condemns the regime of Russian President Vladimir...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2288,22 +2304,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-menorca-open-chess-tourney/articleshow/91056485.cms",
          "pubDate" : "Sun, 24 Apr 2022 17:48:24 +0000",
          "title" : "Indian GM Gukesh wins Menorca Open chess tourney"
-      },
-      {
-         "description" : " FIDE Master Tani Adewumi is growing up right before our eyes. He recently notched the first of three required &#8220;norms&#8221; for the title of International Master. It was only three years ago that the story broke of an 8-year-old winning the New York Scholastic State Title. A New York Times story broke about his Nigerian The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/04/24/first-im-norm-for-tani-adewumi/\">First IM norm for Tani Adewumi!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/04/24/first-im-norm-for-tani-adewumi/",
-         "pubDate" : "Sun, 24 Apr 2022 13:23:28 +0000",
-         "title" : "First IM norm for Tani Adewumi!"
-      },
-      {
-         "description" : " The 2nd series of \"Russian Doll\" (Netflix) has just been released, and I watched all 7 episodes over 3 days. In one of the episodes the two main characters are playing chess in a New York park, while discussing (or explaining) a plot point. The game ends with one player claiming checkmate and walking away, and the other player suddenly realising it is stalemate instead. Based on the shot of the board I think the game they played was composed by Sam Loyd, and is in fact the shortest game that ends in stalemate. The moves are <strong style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box; color: #212121; font-family: &quot;Open sans&quot;; font-size: 16px; font-variant-ligatures: ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/04/russian-doll.html",
-         "pubDate" : "Sun, 24 Apr 2022 13:13:00 +0000",
-         "title" : "Russian Doll"
       }
    ]
 }
