@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "More than 500 kids from 16 FEDAC schools in Catalonia crowded the central street of Catalonian town Berga during the 1st &#8220;Eskcmat&#8221; event. The festival promoted Chess in School programs that are successfully implemented in FEDAC schools where chess is taught as a complementary activity during school hours. (scroll down for the full text) More []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/more-than-500-kids-crowd-the-central-street-of-berga-to-play-chess-tweetoftheday/",
+         "pubDate" : "Sun, 15 May 2022 21:32:51 +0000",
+         "title" : "More than 500 kids crowd the central street of Berga to play Chess #TweetOftheDay"
+      },
+      {
+         "description" : "Unashamed ultra-violence. Jon Speelman continues to share findings from his bookshelf, and today explores Irving Chernev's \"The 1000 best short games of chess\", a collection of miniatures first published in 1955. Speelman adds notes to selected games from the collection of thud and blunder.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-170",
+         "pubDate" : "Sun, 15 May 2022 21:30:00 +0100",
+         "title" : "A few chestnuts more"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> A positional game turns into a sharp attack in this game from Harrison Keyser! Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fianchettoed-bishops-are-op\"><img src=\"https:",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fianchettoed-bishops-are-op",
+         "pubDate" : "Sun, 15 May 2022 19:51:54 +0000",
+         "title" : "Fianchettoed Bishops are OP"
+      },
+      {
+         "description" : "The series of the Grand Chess Tour 2022 events continues from 17-20 May with the Grand Chess Tour Poland 2022 in Warsaw. Superbet&#160;Rapid &#38; Blitz Poland&#160;is the newcomer joining the 2022 Grand Chess Tour as the second event of the tour. With help of major sponsor Superbet, Poland is&#160;another country to join the prestigious&#160;tournament's circuit. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-chess-tour-poland-2022/",
+         "pubDate" : "Sun, 15 May 2022 19:22:29 +0000",
+         "title" : "Grand Chess Tour Poland 2022"
+      },
+      {
+         "description" : "23-year-old IM Ismayil Shahaliyev convincingly won the Nakhchivan International Chess Tournament 2022. Shahaliyev scored fantastic 8.5/9 points, drawing only against GM Vugar Rasulov who claimed second place with 8/9 points. As many as eleven players tied for the third place with 7 points, each, with tiebreaks criteria determining that FM Morteza Asgari takes the third []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-ismayil-shahaliyev-triumphs-at-nakhchivan-chess-open-2022/",
+         "pubDate" : "Sun, 15 May 2022 17:43:03 +0000",
+         "title" : "IM Ismayil Shahaliyev triumphs at Nakhchivan Chess Open 2022"
+      },
+      {
+         "description" : "The Rio Negro International Chess Tournament 2022 took place from 11-15 May in the Argentinian city of Cipolletto. Argentinian best rated player GM Sandro Mareco triumphed the event scoring unbeaten 8/9 points. The second top seed GM Alan Pichot tied for the second place with IM Maximiliano Perez as both players scored 7.5 points. Tiebreaks []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-sandro-mareco-wins-rio-negro-open-2022/",
+         "pubDate" : "Sun, 15 May 2022 16:58:04 +0000",
+         "title" : "GM Sandro Mareco wins Rio Negro Open 2022"
+      },
+      {
+         "description" : " Grandmasters are not especially noted for their longevity, but Yuri Averbakh, whose death at the age of 100 was announced the other day, was a notable exception. He will be remembered for his work on endings, but also for various opening variations bearing his name, most notably the Averbakh Variation against the King's Indian Defence. <a href=\"https://chessimprover.com/averbakh-variation/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Averbakh Variation\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/averbakh-variation/\">Averbakh Variation</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/averbakh-variation/",
+         "pubDate" : "Sun, 15 May 2022 16:13:05 +0000",
+         "title" : "Averbakh Variation"
+      },
+      {
+         "description" : "The ninth and final round of the Superbet Chess Classic delivered the results that allowed the viewers a spectacle of a three-way playoff. GM Maxime Vachier-Lagrave beat GM Alireza Firouzja&#38;nbsp;to catch up to the American duo of GMs Levon Aroni...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-9-vachier-lagrave-wins",
+         "pubDate" : "Sun, 15 May 2022 08:41:00 -0700",
+         "title" : "Vachier-Lagrave Wins Three-Way Playoff: 2022 Superbet Chess Classic Romania, Day 9"
+      },
+      {
          "description" : "The Tunisian Chess Championship 2022 took place from 7-15 May, 2022 in the city of Hammamet. Twelve players competed in the 11 rounds round robin event for the title of Tunisian National Champion. Tunisian best rated grandmaster Amir Zaibi won the event scoring impressive 9 victories and 2 draws for the final score of 10 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -218,14 +282,6 @@ news_feed (
          "title" : "Collegiate Chess League Season 4: Semifinals"
       },
       {
-         "description" : "Maxime Vachier Lagrave wins the playoffs and becomes the Winner of the Grand Chess Tour Romania 2022! The first event of the 2022 Grand Chess Tour series is coming to an end as the last round concluded in Bucharest. Levon Aronian and Wesley So headed into the last round in the co-lead scoring 5/8 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/playoffs-to-decide-the-winner-of-grand-chess-tour-romania-2022/",
-         "pubDate" : "Sat, 14 May 2022 14:46:00 +0000",
-         "title" : "So, Aronian & Vachier-Lagrave in Grand Chess Tour Romania 2022 playoffs"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich talks to the first Romanian Grandmaster Florin Gheorghiu during Round 8 of the Superbet Chess Classic. 2022.05.13<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/florin-gheorghiu-stops-superbet-classic-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rCRAPl94bBw.jpg?itok=IDlxWgmO\" alt=\"\"",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -240,14 +296,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/alexander-onischuk-ukraine-forever-round-9",
          "pubDate" : "Sat, 14 May 2022 13:51:02 +0000",
          "title" : "Alexander Onischuk: Ukraine Forever | Round 9"
-      },
-      {
-         "description" : "The &#8220;ChessMood&#8221; International Open Chess Tournament will take place from September 29 to October 09 at the 5 star Tsaghkadzor Marriott Hotel in Armenia. The event will be played in 9 rounds, swiss system, within two groups: A (2000+) and B (U2000). The total prize fund will be 10.250.000 Armenian drams (around 21.000 euros). Time []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-mood-open-2022/",
-         "pubDate" : "Sat, 14 May 2022 10:49:23 +0000",
-         "title" : "ChessMood Open 2022"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91562290.cms\" />The All India Chess Federation (AICF) on Saturday signed a Memorandum of Understanding (MoU) with the Tamil Nadu government for the forthcoming 44th Chess Olympiad, slated to be held here from July 28 to August 10.",
@@ -288,22 +336,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
          "pubDate" : "Sat, 14 May 2022 10:55:00 +0100",
          "title" : "Superbet Chess Classic - Games and standints"
-      },
-      {
-         "description" : "Uganda Olympiad Qualifiers event, determining the composition of both Women's and Men's Uganda Teams, took place in March this year. The event had 14 players in both Open and Women's sections who battled it out through 13 rounds played in a round-robin system. The top five players of each section made it to the team []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/team-uganda-set-for-the-44th-chess-olympiad-2022/",
-         "pubDate" : "Sat, 14 May 2022 09:40:26 +0000",
-         "title" : "Team Uganda set for the 44th Chess Olympiad 2022"
-      },
-      {
-         "description" : "The Chess in school conference under the name &#x201C;Chess: a Game to be spread in Schools&#x201D; (CGS) has started in Zurich and takes place on 14th of May, in&#160;Dorint Airport Hotel. The Conference features the following themes: CGS project overall presentation Psychomotricity on giant chessboard &#x2013; CATLE/ERASMUS+ project The final report of the CGS research []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-a-game-to-be-spread-in-schoolsconference-live/",
-         "pubDate" : "Sat, 14 May 2022 08:50:19 +0000",
-         "title" : "\"Chess: a Game to be Spread in Schools\" Conference LIVE"
       },
       {
          "description" : "FM James Canty III and IM Kostya Kavutskiy duked it out over the board on Friday in the third round of 16 match of the IM Not A GM Speed Chess Championship. Pre-match favorite Canty was able to stave off a valiant comeback effort from Kavutskiy in...",
@@ -528,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-nihal-niemann-win",
          "pubDate" : "Thu, 12 May 2022 18:58:00 -0700",
          "title" : "Nihal and Niemann Both Win: 2022 Junior Speed Chess Championship"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> FOLLOW GAMES: <a href=\"https://lichess.org/broadcast/final-four-corporate-chess-league-spring-2022/round-1/3cZpcpJZ\">https://lichess.org/broadcast/final-four-corporate-chess-league-spring-2...</a> The Corporate Chess League final four teams meet in a three-round championship round robin. Join NM Caleb Denby for the move-by-move. 2022.05.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-corporate-chess-league-spring-championship-lichessorg\"><img sr",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-corporate-chess-league-spring-championship-lichessorg",
-         "pubDate" : "Fri, 13 May 2022 01:49:40 +0000",
-         "title" : "2022 Saint Louis Corporate Chess League: Spring Championship | lichess.org"
       },
       {
          "description" : "",
@@ -1610,14 +1634,6 @@ news_feed (
          "title" : "MPL 9th National Amateur Chess Championship-2022 report"
       },
       {
-         "description" : "GM Hikaru Nakamura won the Arena Kings Season 9 Championship Final on Wednesday, defeating GM Oleksandr Bortnyk 3-1 in the final round of the knockout&#38;mdash;after also finishing first in the qualifying arena. GM Jose Martinez and IM Tuan Minh Le f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arena-kings-season-9-championship-final-nakamura-wins",
-         "pubDate" : "Wed, 04 May 2022 15:34:21 -0700",
-         "title" : "Indestructible Nakamura Clinches Arena Kings Season 9 Championship Final"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1962,7 +1978,7 @@ news_feed (
          "title" : "Jules Arnous de Rivière"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#46;&#x77;&#105;&#x63;&#107;h&#x61;m&#x40;&#98;&#x74;&#105;&#x6e;&#116;e&#x72;n&#x65;&#116;&#x2e;&#99;&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#46;&#x72;&#46;&#119;&#x69;&#x63;k&#104;&#x61;&#x6d;&#64;&#98;&#x74;i&#110;&#x74;&#x65;r&#110;&#x65;&#x74;&#46;&#99;&#x6f;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2146,14 +2162,6 @@ news_feed (
          "title" : "CBM #207: The best of the FIDE Grand Prix, \"Special\" on Bent Larsen and much more!"
       },
       {
-         "description" : "In his \"Game of the Week\" show #513, Merijn van Delft takes a look at the game Jorden van Foreest vs Eric Hansen from the Oslo Esports Cup, in which van Foreest demonstrated a modern way to treat the Maroczy Bind. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-5",
-         "pubDate" : "Fri, 29 Apr 2022 11:00:00 +0100",
-         "title" : "Game of the Week #513: Jorden van Foreest vs Eric Hansen"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2234,14 +2242,6 @@ news_feed (
          "title" : "American Cup: Day 7 Recap"
       },
       {
-         "description" : " This week we interviewed GM Danny Gormally, who talked to us about life as a chess professional, improvement techniques and his latest book. He also showed us a couple of his games from a recent tournament: Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-11/\">Master Chess Web Show (11)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/master-chess-web-show-11/",
-         "pubDate" : "Wed, 27 Apr 2022 08:38:24 +0000",
-         "title" : "Master Chess Web Show (11)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2296,14 +2296,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/david-anderton-rip/",
          "pubDate" : "Mon, 25 Apr 2022 08:00:16 +0000",
          "title" : "David Anderton RIP (updated 25/4/22)"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91056485.cms\" /> Teenaged Indian Grandmaster D Gukesh on Sunday won the Menorca Open chess tournament, his second title win in as many weeks. Indian players dominated, taking seven spots in the top 10 with Aryan Chopra finishing runner-up. The 15-year old GM scored six points from seven rounds to clinch first place and earned 1,600 Euros as prize money.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-menorca-open-chess-tourney/articleshow/91056485.cms",
-         "pubDate" : "Sun, 24 Apr 2022 17:48:24 +0000",
-         "title" : "Indian GM Gukesh wins Menorca Open chess tourney"
       }
    ]
 }
