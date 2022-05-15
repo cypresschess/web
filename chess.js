@@ -282,6 +282,14 @@ news_feed (
          "title" : "Aronian and So maintain the co-lead; Grand Chess Tour Romania - R8 Recap"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1758",
+         "pubDate" : "Fri, 13 May 2022 20:04:26 +0000",
+         "title" : "FIDE extends simplified procedure for playing under FIDE flag"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from Warsaw, the inaugural Superbet Rapid &amp; Blitz Poland is the second leg of the Grand Chess Tour. Four Tour players (Caruana, Aronian, So, and Rapport) are joined by wildcards (Anand, Duda, Korobov, Wojtaszek, Shevchenko, and Lupulescu) for a rapid round robin and blitz double round robin event. Today is the first three rapid rounds. Join GMs Peter Svidler, Yasser Seirawan, and Alejandro Ramirez for the move-by-move. 2022.05.19<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-t",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1898,7 +1906,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;r&#x2e;w&#105;&#x63;&#107;&#x68;a&#109;&#x40;&#98;&#x74;i&#x6e;&#x74;&#101;&#x72;n&#x65;t&#46;&#x63;&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#46;&#119;&#105;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#64;b&#116;&#105;&#110;&#116;&#x65;&#x72;&#x6e;&#x65;&#x74;&#46;c&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2248,14 +2256,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-introduces-prize-money-tournaments/",
          "pubDate" : "Mon, 25 Apr 2022 17:22:03 +0000",
          "title" : "World Chess Introduces Prize Money Tournaments"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1708",
-         "pubDate" : "Mon, 25 Apr 2022 15:19:00 +0000",
-         "title" : "Second Intercontinental Online Chess Championship for Prisoners announced"
       },
       {
          "description" : " I usually enjoy getting feedback about this blog, even more so when it is face to face. One of the more recent comments (made in person), was that I include lots of 'obscure club games'. While these are normally my own games, I do feature games by other club players (if I can grab the scoresheets). This time however, it is one of my recent games that I will feature. The takeaway from this game is twofold. A missed tempo on the opening can lead to a space disadvantage in the middlegame. This then leads to problems defending an unsafe king. <br /> <b>Press,Shaun - Mildenhall,Stephen [A30]</b><br />Murphy Memorial, 12.04.2022 <script>new PgnViewer( { boardName: \"game1322\", movesFormat: \"defaul",
