@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Maxime Vachier-Lagrave won the Superbet Chess Classic after outscoring Wesley So and Levon Aronian in rapid playoffs. MVL had caught up with the co-leaders after beating Alireza Firouzja with black in their classical, round-9 encounter. The Frenchman beat both US grandmasters in the rapid-chess single round-robin that followed to claim the title. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r9",
+         "pubDate" : "Sun, 15 May 2022 05:10:00 +0100",
+         "title" : "Vachier-Lagrave has a brilliant day, wins Superbet Chess Classic"
+      },
+      {
          "description" : "After an intense and final day of the Superbet Chess Classic Bucharest, three players tied for first with 5.5/9. However, it was the French Grandmaster Maxime Vachier-Lagrave, the &#x201C;Dark Knight&#x201D;, winning his last round game, catching up with the two former leaders GM Wesley So and GM Levon Aronian, and in the end taking them []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -138,14 +146,6 @@ news_feed (
          "title" : "Alexander Onischuk: Ukraine Forever | Round 9"
       },
       {
-         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. After tying for first place on 5&frac12;/9, Wesley So, Levon Aronian and Maxime Vachier-Lagrave are deciding who wins the tournament in a rapid-chess playoff. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
-         "pubDate" : "Sat, 14 May 2022 12:55:00 +0100",
-         "title" : "Superbet Chess Classic Playoffs - Live!"
-      },
-      {
          "description" : "The &#8220;ChessMood&#8221; International Open Chess Tournament will take place from September 29 to October 09 at the 5 star Tsaghkadzor Marriott Hotel in Armenia. The event will be played in 9 rounds, swiss system, within two groups: A (2000+) and B (U2000). The total prize fund will be 10.250.000 Armenian drams (around 21.000 euros). Time []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -184,6 +184,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ukraine-france-solidarity-match-paris",
          "pubDate" : "Sat, 14 May 2022 11:00:00 +0100",
          "title" : "Ukraine vs France solidarity match in Paris"
+      },
+      {
+         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. After tying for first place on 5&frac12;/9, Wesley So, Levon Aronian and Maxime Vachier-Lagrave are deciding who wins the tournament in a rapid-chess playoff. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
+         "pubDate" : "Sat, 14 May 2022 10:55:00 +0100",
+         "title" : "Superbet Chess Classic - Games and standints"
       },
       {
          "description" : "Uganda Olympiad Qualifiers event, determining the composition of both Women's and Men's Uganda Teams, took place in March this year. The event had 14 players in both Open and Women's sections who battled it out through 13 rounds played in a round-robin system. The top five players of each section made it to the team []",
@@ -1890,7 +1898,7 @@ news_feed (
          "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#119;&#105;&#99;kh&#x61;&#x6d;&#x40;&#x62;&#x74;&#105;&#110;&#116;er&#x6e;&#x65;&#x74;&#x2e;&#x63;&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;r&#x2e;w&#105;&#x63;&#107;&#x68;a&#109;&#x40;&#98;&#x74;i&#x6e;&#x74;&#101;&#x72;n&#x65;t&#46;&#x63;&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2136,14 +2144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1717",
          "pubDate" : "Thu, 28 Apr 2022 19:14:27 +0000",
          "title" : "Grand Chess Tour becomes part of the World Championship Cycle"
-      },
-      {
-         "description" : "Levon Aronian and Fabiano Caruana play in the final of the American Cup. Their first game ended in a draw, the second follows today. In the final of the women's tournament Irina Krush leads 1-0 against Alice Lee and is close to winning the tournament. The games of the finals start at 13:00 local time (20:00 CEST, 18:00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-round-1-live-games-and-commentary",
-         "pubDate" : "Thu, 28 Apr 2022 19:45:43 +0100",
-         "title" : "American Cup, Finals - Live games and commentary"
       },
       {
          "description" : "",
