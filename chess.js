@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Maxime Vachier-Lagrave beat Alireza Firouzja, then Wesley So, then Levon Aronian on the final day to complete a remarkable comeback victory in the Superbet Chess Classic. Maxime defeated an over-ambitious Firouzja, while the leaders drew, to reach a 3-way playoff. Though Wesley started brilliantly against Aronian and was a move or two away from wrapping up victory in the 2nd game, MVL triumphed in a chaotic finale before going on to clinch the title against Aronian.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mvl-beats-firouzja-so-aronian-to-win-superbet-chess-classic",
+         "pubDate" : "Sun, 15 May 2022 11:21:49 +0000",
+         "title" : "MVL beats Firouzja, So, Aronian to win Superbet Chess Classic"
+      },
+      {
+         "description" : "MPL 34th National Under 8 Open and Girls Chess Championship 2002 organised by Andhra Chess Association under the aegis of All India Chess federation from",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-34th-national-under-8-open-girls-chess-championship-2022-event-codes-282560-ap-2022-282561-ap-2022-charvi-and-avirat-champions/",
+         "pubDate" : "Sun, 15 May 2022 11:15:22 +0000",
+         "title" : "MPL 34th National Under-8 Open & Girls Chess Championship-2022 (Event Codes: 282560/AP/2022 &: 282561/AP/2022) Charvi and Avirat Champions"
+      },
+      {
+         "description" : "Maxime Vachier-Lagrave won the Grand Chess Tour Romania 2022, the first event of the 2022 Grand Chess Tour series. On the long way to the crown, he first needed to take down Alireza Firouzja in the last round of the Superbet Chess Classic to catch up with the two former leaders Wesley So and Levon []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/interview-with-maxime-vachier-lagrave-the-winner-of-grand-chess-tour-romania-2022-video/",
+         "pubDate" : "Sun, 15 May 2022 11:13:18 +0000",
+         "title" : "Interview with Maxime Vachier-Lagrave - the Winner of GCT Romania 2022 (VIDEO)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1761",
+         "pubDate" : "Sun, 15 May 2022 08:28:33 +0000",
+         "title" : "Maxime Vachier-Lagrave wins Superbet Chess Classic Bucharest"
+      },
+      {
+         "description" : " <p class=\"lead\">Maxime Vachier-Lagrave wins the <a href=\"https://worldchess.com/news/all/2022-superbet-chess-classic-romania/\">2022 Superbet Chess Classic</a> in Romania after an impressive 3/3 score on the last day against Alireza, So, and Aronian. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/website-World-Chess-1.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> The French GM did not make the cut for the 2022 Candidates, but as he said last year after winning the Sinquefield Cup: \"I have absolutely no doubt that I am part of the chess elite. I want to prove it tournament after tournament.\" He is clearly acting on this plan based on his performance at the 202",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/mvl-wins-superbet-chess-classic-2022/",
+         "pubDate" : "Sun, 15 May 2022 07:57:46 +0000",
+         "title" : "MVL wins Superbet Chess Classic 2022"
+      },
+      {
          "description" : "Maxime Vachier-Lagrave won the Superbet Chess Classic after outscoring Wesley So and Levon Aronian in rapid playoffs. MVL had caught up with the co-leaders after beating Alireza Firouzja with black in their classical, round-9 encounter. The Frenchman beat both US grandmasters in the rapid-chess single round-robin that followed to claim the title. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -344,14 +384,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/05/13/dvorkovich-anand-2022-campaign-for-fide/",
          "pubDate" : "Fri, 13 May 2022 15:15:56 +0000",
          "title" : "Dvorkovich-Anand 2022 campaign for FIDE"
-      },
-      {
-         "description" : "The world&#x2019;s top two chess stars go head-to-head in the&#160;Chessable&#160;Masters next week the fourth leg of the $1.6 million&#160;Meltwater Champions Chess Tour. The eight-day Chessable Masters starts on May 19. A prize pot of up to $150,000 is up for grabs and two qualifying spots for the next Tour Major. Norway&#x2019;s World Champion Magnus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-and-ding-go-head-to-head-in-chessable-masters-2022/",
-         "pubDate" : "Fri, 13 May 2022 14:07:36 +0000",
-         "title" : "Carlsen and Ding go head-to-head in Chessable Masters 2022"
       },
       {
          "description" : " Reti's quick win over Tartarkower in 1910 is quire well known, but there was another game between the two player, from the same tournament (or at least the same cafe), which finished even more quickly. Assuming I have the complete game score, the game only went for 9 moves. Alas, it wasn't as spectacular, with a draw being agreed between the two players, rather than a move like Qd8+ hitting the board! <br /> <b>Reti,Richard - Tartakower,Saviely [C36]</b><br />Wien Vienna, 1910 <script>new PgnViewer( { boardName: \"game1328\", movesFormat: \"default\", pgnString:'1.e4 e5 2.f4 exf4 3.Nf3 d5 4.exd5 Nf6 5.c4 c6 6.d4 cxd5 7.Bxf4 Bb4+ 8.Nc3 O-O 9.Be2 1/2-1/2', pauseBetweenMoves: 500, pieceSize: 29 } ",
@@ -1522,14 +1554,6 @@ news_feed (
          "title" : "Chessable English Seniors Championships - RESULTS"
       },
       {
-         "description" : "World no. 3 Alireza Firouzja will take on world no. 4 Fabiano Caruana as the Superbet Chess Classic begins today in Bucharest, Romania. The 10-player, $350,000 all-play-all event will be a Candidates Tournament warm-up for four of the players, with Richard Rapport taking on Levon Aronian, while Ian Nepomniachtchi has White against 20-year-old local star Bogdan-Daniel Deac. ",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/caruana-firouzja-as-superbet-chess-classic-begins",
-         "pubDate" : "Thu, 05 May 2022 10:21:19 +0000",
-         "title" : "Caruana-Firouzja as Superbet Chess Classic begins"
-      },
-      {
          "description" : "Please find the live link for 9th MPL National Amateur Chess Championship-2022 at Jaipur MPL National Amateur-2022 (MPL National Amateur Chess Championship-2022) https://view.livechesscloud.com#372a1f89-2cb8-4a76-b366-8ed72e9589da",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1898,15 +1922,7 @@ news_feed (
          "title" : "Jules Arnous de Rivière"
       },
       {
-         "description" : "34th MPL NATIONAL U-10 OPEN &#38; MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022 were organized by All J&#38;K Chess Association, under the auspices of",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/34th-mpl-national-u-10-open-mpl-national-u-10-girls-chess-championships-2022report/",
-         "pubDate" : "Sun, 01 May 2022 08:50:59 +0000",
-         "title" : "34th MPL NATIONAL U-10 OPEN & MPL NATIONAL U-10 GIRLS CHESS CHAMPIONSHIPS - 2022,Report"
-      },
-      {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#46;&#119;&#105;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#64;b&#116;&#105;&#110;&#116;&#x65;&#x72;&#x6e;&#x65;&#x74;&#46;c&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#114;&#x2e;&#119;&#x69;c&#x6b;h&#x61;m&#64;&#x62;&#116;&#x69;&#110;&#x74;&#101;&#x72;n&#x65;t&#x2e;c&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2242,14 +2258,6 @@ news_feed (
          "title" : "Motion on Ukraine approved - ECF Finance Council Meeting"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1709",
-         "pubDate" : "Mon, 25 Apr 2022 21:32:24 +0000",
-         "title" : "Carlsen crushes Praggnanandhaa to go joint-top of leaderboard"
-      },
-      {
          "description" : " <p class=\"lead\">World Chess today introduced Prize Money Tournaments - online tournaments with entry fees and monetary prizes. The Prize Money Tournaments will be organized by World Chess and select partners, such as federations and clubs, and will allow chess players to play for actual monetary prizes, similar to the offline events. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0EF0F22B-243C-4285-866E-8B64023B35A3.jpeg\" width=\"1600\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">FIDE Online Arena front page</div> </div> Setting up and participating in a <a href=\"https://chessarena.com/tournaments/17818\">Prize Money Tournament</a> on FIDE Online Arena, t",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2296,14 +2304,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/russian-doll.html",
          "pubDate" : "Sun, 24 Apr 2022 13:13:00 +0000",
          "title" : "Russian Doll"
-      },
-      {
-         "description" : " <p class=\"lead\">Popular chess site chess.com has been blocked by Russian authorities for alleged violations against Russian chess players. Sergey Karjakin, Russian elite Grandmaster and outspoken Putin supporter has been recently banned by the site and appealed to the authorities to investigate chess.com. The site has voiced support for Ukraine after Russia attacked the country. Later, chess.com switched the flag of its Russian members to FIDE. According to Karjakin, this amounts to a severe violation of Russia's rules. The country's Prosecutor's office has requested to ban the site. Chess.com has been active in Russia and recently invested in Russian-languages streaming, adding Alexandra K",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/popular-site-chess-com-blocked-by-russian-authorities/",
-         "pubDate" : "Sun, 24 Apr 2022 09:40:30 +0000",
-         "title" : "Popular Site Chess.com Blocked by Russian Authorities"
       }
    ]
 }
