@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Gujarat State Chess Association in association with Sports Authority of Gujarat is all set to host the &#8220;MPL 34th National U-14 Open &#38; Girls Chess",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-34th-national-under-14-open-and-girls-chess-championship-2022john-veny-akkarakaran-of-kerala-in-open-mrittika-mallick-of-west-bengal-in-girls-wins/",
+         "pubDate" : "Mon, 16 May 2022 07:24:34 +0000",
+         "title" : "MPL 34th National Under- 14 Open and Girls Chess Championship 2022,John Veny Akkarakaran of Kerala in Open & Mrittika Mallick of West Bengal in Girls Wins"
+      },
+      {
+         "description" : "One of the fascinating aspects of new iterations of tablebases is submitting known positions to their 'divine' evaluation. The words \"better\" or \"worse\" cease to have any meaning and not only are all evaluations perfect and absolute, but so are the solutions. In the following article a share of cooks of studies as well as famous endgames and analyses are placed under the spotlight of the 8-piece tablebases.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cooks-and-finds-with-8-piece-tablebases",
+         "pubDate" : "Mon, 16 May 2022 08:00:00 +0100",
+         "title" : "Cooks and finds with 8-piece tablebases"
+      },
+      {
          "description" : "GM Hikaru Nakamura won week 14 of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Dmitry Andreikin in a hard-fought knockout final. GM Jeffery Xiong won the Swiss tournament and finished in the semifinals along wi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1626,14 +1642,6 @@ news_feed (
          "title" : "Live link for 9th MPL National Ametur-2022"
       },
       {
-         "description" : "MPL 9th National Amateur Chess Championship organized by Jaipur District Chess Association on behalf of Rajasthan Chess Association started at Mahal Rajwada Resort, Vaishali Nagar, Jaipur",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-9th-national-amateur-chess-championship-2022-report/",
-         "pubDate" : "Thu, 05 May 2022 03:40:51 +0000",
-         "title" : "MPL 9th National Amateur Chess Championship-2022 report"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1978,7 +1986,7 @@ news_feed (
          "title" : "Jules Arnous de Rivière"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#114;&#46;&#x77;&#x69;&#99;k&#x68;&#x61;&#109;&#64;&#x62;&#x74;&#105;n&#x74;&#x65;&#114;n&#x65;&#x74;&#46;c&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;wickham&#64;btinternet&#46;c&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2152,14 +2160,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/apr/29/chess-polands-duda-wins-in-oslo-while-tired-carlsen-fades-at-the-finish",
          "pubDate" : "Fri, 29 Apr 2022 11:38:53 +0000",
          "title" : "Chess: Poland's Duda wins in Oslo while tired Carlsen fades at the finish"
-      },
-      {
-         "description" : "The complete FIDE Grand Prix 2022 (Berlin I - Belgrade - Berlin II) with analyses by Esipenko, Giri, Oparin, Predke, Shankland, So, Vidit and Vitiugov. In addition, Rogozenco presents two selected games of the winners, Nakamura and Rapport, in the video - \"Trend line put to the test\": Rustam Kasimdzhanov shows new ideas in the English Four Knights Variation with 4.e4 Bc5!? (video) - \"Magnetic square h7!\": How to take apart Black's castling position, tactics training with Oliver Reeh - \"Bent Larsen, the highly creative Dane\": CBM authors analyse their favourite games - \"All in one\": Igor Stohl examines 1.d4 Nf6 2.c4 g6 3.h4!? - \"Complete repertoire against &acute;the Alapin\": Markus Ragger in",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-207-the-best-of-the-fide-grand-prix-special-on-bent-larsen-and-much-more",
-         "pubDate" : "Fri, 29 Apr 2022 12:00:00 +0100",
-         "title" : "CBM #207: The best of the FIDE Grand Prix, \"Special\" on Bent Larsen and much more!"
       },
       {
          "description" : "",
