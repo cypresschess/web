@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura won week 14 of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Dmitry Andreikin in a hard-fought knockout final. GM Jeffery Xiong won the Swiss tournament and finished in the semifinals along wi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-14-nakamura-wins",
+         "pubDate" : "Sun, 15 May 2022 18:44:39 -0700",
+         "title" : "Nakamura Wins Fourth Knockout: Rapid Chess Championship Week 14"
+      },
+      {
          "description" : "More than 500 kids from 16 FEDAC schools in Catalonia crowded the central street of Catalonian town Berga during the 1st &#8220;Eskcmat&#8221; event. The festival promoted Chess in School programs that are successfully implemented in FEDAC schools where chess is taught as a complementary activity during school hours. (scroll down for the full text) More []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1538,14 +1546,6 @@ news_feed (
          "title" : "Sanchez Alvarez and Vasquez Jaen win Panamanian championship"
       },
       {
-         "description" : "Chess.com and ChessKid are collaborating with GM Anna Muzychuk in order to support the people of Ukraine, who continue to suffer the effects of the Russian invasion of their country. On Tuesday, May 17 at 9 a.m. Pacific/12 p.m. Eastern/18:00 CET...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gm-anna-muzychuk-hosts-chess-event-for-kids-to-support-ukraine",
-         "pubDate" : "Thu, 05 May 2022 13:01:40 -0700",
-         "title" : "GM Anna Muzychuk Hosts Chess Event For Kids To Support Ukraine"
-      },
-      {
          "description" : "This week Robert Ris looks at the line with 6.Bd3 against the Najdorf, only the tenth most popular against the sharp defence. Facing this move with Black is no easy task, though, as was demonstrated in an all-Ukrainian confrontation at the Bundesliga. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1978,7 +1978,7 @@ news_feed (
          "title" : "Jules Arnous de Rivière"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#x77;&#105;c&#x6b;&#x68;&#97;m&#x40;&#x62;&#116;i&#x6e;&#x74;&#101;r&#x6e;&#101;&#116;&#46;&#x63;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;r&#x2e;&#x77;&#105;&#x63;k&#x68;&#x61;&#109;&#x40;b&#x74;&#x69;&#110;&#x74;e&#x72;&#x6e;&#101;&#x74;&#46;&#x63;&#x6f;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
