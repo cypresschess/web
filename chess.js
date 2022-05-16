@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Open and Women National Chess Championships of Jamaica took place from 7-15 May in Kingston. 12 players in the Open section and 8 players in the Women's section battled it out to clinch the title of National Champions. After 11 round robin rounds played in the Open tournament, three times Jamaican Champion FM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jamaican-chess-champions-2022-crowned-in-kingston/",
+         "pubDate" : "Mon, 16 May 2022 11:12:00 +0000",
+         "title" : "Jamaican Chess Champions 2022 crowned in Kingston"
+      },
+      {
+         "description" : "The Tunisian Women's Chess Championship 2022 took place from 7-15 May in city of Hammamet, simultaneously with the 2022 Tunisian Chess Championship for Men. The event attracted 28 entries who competed in 9 swiss rounds for the title of National Champion. WFM Safa Ben Said, WIM Chadha Meddeb and Mariem Laaribi tied for the first []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wfm-safa-ben-said-wins-tunisian-womens-chess-championship-2022/",
+         "pubDate" : "Mon, 16 May 2022 10:40:09 +0000",
+         "title" : "WFM Safa Ben Said wins Tunisian Women's Chess Championship 2022"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> On 7-10 July rounds 11-15 of this year's delayed <strong>Schachbundesliga</strong> season <a href=\"https://www.schachbundesliga.de/artikel/353\">will be played at the VIP halls</a> of <strong>Weserstadion</strong> during the summer break of <strong>Werder Bremen</strong> that has just assured its return to Germany's top football league. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/bremen-hosts-bundesliga-final/",
+         "pubDate" : "Mon, 16 May 2022 08:45:59 +0100",
+         "title" : "Bremen hosts Bundesliga final"
+      },
+      {
          "description" : "Gujarat State Chess Association in association with Sports Authority of Gujarat is all set to host the &#8220;MPL 34th National U-14 Open &#38; Girls Chess",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -22,8 +46,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-14-nakamura-wins",
-         "pubDate" : "Sun, 15 May 2022 18:44:39 -0700",
-         "title" : "Nakamura Wins Fourth Knockout: Rapid Chess Championship Week 14"
+         "pubDate" : "Sun, 15 May 2022 18:44:00 -0700",
+         "title" : "Nakamura Wins 4th Knockout: Rapid Chess Championship Week 14"
       },
       {
          "description" : "More than 500 kids from 16 FEDAC schools in Catalonia crowded the central street of Catalonian town Berga during the 1st &#8220;Eskcmat&#8221; event. The festival promoted Chess in School programs that are successfully implemented in FEDAC schools where chess is taught as a complementary activity during school hours. (scroll down for the full text) More []",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "More than 500 kids crowd the central street of Berga to play Chess #TweetOftheDay"
       },
       {
-         "description" : "Unashamed ultra-violence. Jon Speelman continues to share findings from his bookshelf, and today explores Irving Chernev's \"The 1000 best short games of chess\", a collection of miniatures first published in 1955. Speelman adds notes to selected games from the collection of thud and blunder.",
+         "description" : "Unashamed ultra-violence. Jon Speelman continues to share findings from his bookshelf, and today explores Irving Chernev's \"The 1000 best short games of chess\", a collection of miniatures first published in 1957. Speelman adds notes to selected games from the collection of thud and blunder.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/speelman-agony-170",
@@ -192,22 +216,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r9",
          "pubDate" : "Sun, 15 May 2022 05:10:00 +0100",
          "title" : "Vachier-Lagrave has a brilliant day, wins Superbet Chess Classic"
-      },
-      {
-         "description" : "After an intense and final day of the Superbet Chess Classic Bucharest, three players tied for first with 5.5/9. However, it was the French Grandmaster Maxime Vachier-Lagrave, the &#x201C;Dark Knight&#x201D;, winning his last round game, catching up with the two former leaders GM Wesley So and GM Levon Aronian, and in the end taking them []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/maxime-vachier-lagrave-wins-grand-chess-tour-romania-2022-final-report/",
-         "pubDate" : "Sat, 14 May 2022 22:31:47 +0000",
-         "title" : "Maxime Vachier-Lagrave wins Grand Chess Tour Romania 2022; Final Report"
-      },
-      {
-         "description" : "A few days ago, one of the most popular American models Cindy Crawford was spotted playing chess with her daughter Kaia Gerber who follows the mother's steps in modeling. The Instagram post of Cindy's husband Rande Gerber became viral and spread all over the social networks and various internet portals. (check out the photo []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/are-you-a-chess-nerd-find-out-with-a-quick-test-tweetoftheday/",
-         "pubDate" : "Sat, 14 May 2022 22:16:03 +0000",
-         "title" : "Are you a Chess Nerd?! Find out with a quick test! #TweetOftheDay"
       },
       {
          "description" : "The 2022 International Computer Games Association events are fast approaching: the World Computer Chess Championships (Vienna, July 23-29), the 2022 Computer Olympiad (online, July 23-29), and the 2022 Computers and Games conference (online, November 22-24). The ICGA has distributed full information on all upcoming events.",
@@ -544,14 +552,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/ding-and-carlsen-headline-chessable/",
          "pubDate" : "Fri, 13 May 2022 12:15:18 +0100",
          "title" : "Ding and Carlsen headline Chessable Masters"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has published a <a href=\"https://fide.com/news/1753\">Call for Interest</a> inviting applications for the <strong>Fair Play Panel</strong> of the <strong>Chess Olympiad</strong> in Mamallapuram not only from arbiters but also from legal and technology experts. Applicants will have to pay their travel to Chennai from the grant of $1,500-2,000. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/olympiad-seeks-fair-play-experts/",
-         "pubDate" : "Fri, 13 May 2022 11:38:15 +0100",
-         "title" : "Olympiad seeks fair play experts"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91538227.cms\" />Indian chess legend Viswanathan Anand would become the deputy president of the world chess federation (FIDE) if the incumbent Arkady Dvorkovich is re-elected as the president in the elections scheduled during the 44th chess Olympiad in July-August this year.",
@@ -1986,7 +1986,7 @@ news_feed (
          "title" : "Jules Arnous de Rivière"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;wickham&#64;btinternet&#46;c&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;&#119;&#105;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#x40;bti&#110;&#116;&#101;&#114;&#x6e;&#x65;&#x74;&#x2e;&#x63;&#x6f;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2288,14 +2288,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/obscure-club-games.html",
          "pubDate" : "Mon, 25 Apr 2022 13:14:00 +0000",
          "title" : "Obscure club games"
-      },
-      {
-         "description" : "It is with great sadness we report that David Anderton passed away today, 1st April 2022. This is a great loss. Our condolences go out...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/david-anderton-rip/",
-         "pubDate" : "Mon, 25 Apr 2022 08:00:16 +0000",
-         "title" : "David Anderton RIP (updated 25/4/22)"
       }
    ]
 }
