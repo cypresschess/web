@@ -2,12 +2,92 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1767",
+         "pubDate" : "Mon, 16 May 2022 21:07:21 +0000",
+         "title" : "21st IPCA World Championship 2022: Andrei Obodchuk clinches title"
+      },
+      {
+         "description" : "The award named after Serbian grandmaster Svetozar Gligoric was established by FIDE in 2012. FIDE General Assembly in 2012 has accepted the proposal of the Serbian Chess Federation to establish the award for fair play which would be named after the legendary Svetozar Gligoric who passed away earlier that year. The FIDE Presidental Board decided []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nominations-for-gligoric-trophy-2021/",
+         "pubDate" : "Mon, 16 May 2022 21:07:16 +0000",
+         "title" : "Nominations for Gligoric Trophy 2021"
+      },
+      {
+         "description" : "True to her Petrosian-esque reputation of a strong match player who does not often win tournaments, Leela Chess Zero defeated Komodo Dragon 54.5-45.5 (+24 -15 =61) to win the TCEC Subfinal. The match started out closely contested, with Leela scoring wins in games 1 &#38; 5 before Komodo Dragon evened the score with its own []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/leela-chess-zero-wins-the-tcec-subfinal/",
+         "pubDate" : "Mon, 16 May 2022 21:03:51 +0000",
+         "title" : "Leela Chess Zero wins the TCEC Subfinal"
+      },
+      {
+         "description" : "The 10th jubilee edition of the TCEC Cup starts this Tuesday at 17.00 UTC (19:00 CEST, 13:00 ET). The best 32 engines are going to meet in a direct knockout event. Top seeded is the winner of TCEC Cup 9 and the TCEC League Stockfish. The other participants are seeded by their final standing []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tcec-cup-10-starts-today/",
+         "pubDate" : "Mon, 16 May 2022 21:03:39 +0000",
+         "title" : "TCEC Cup 10 starts today"
+      },
+      {
+         "description" : "The Ontario Open Chess Tournament will take place from May 21 through May 23, at the beautiful&#160;West Toronto Masonic Temple. The event features 4 tournaments: Crown, U2200, U1800 and U1400. Each tournament will be played in six rounds with a time control of 90 minutes + 30 seconds per move. The total prize fund of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2022-ontario-open-chess-tournament/",
+         "pubDate" : "Mon, 16 May 2022 18:57:14 +0000",
+         "title" : "2022 Ontario Open Chess Tournament"
+      },
+      {
+         "description" : "The 15th European Chess Solving Championship 2022 took place on 14-15 May in Riga, Latvia. The event included five categories: Team, Individual, Juniors, Seniors and Women. Serbian team became the European Team Solving Champion with a total of 205.25 points which were collected by four team members: Ilija Serafimovic, Bojan Vuckovic, Marjan Kovacevic and Srecko []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbia-wins-gold-at-15th-european-chess-solving-championship-2022/",
+         "pubDate" : "Mon, 16 May 2022 18:25:30 +0000",
+         "title" : "Serbia wins gold at 15th European Chess Solving Championship 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1766",
+         "pubDate" : "Mon, 16 May 2022 17:25:35 +0000",
+         "title" : "Gligoric Trophy 2021: Call for nominations"
+      },
+      {
+         "description" : "In his Endgame Magic Show #194 Karsten M&uuml;ller is joined by Arne Kaehler, and they look at endgames from the Magnus Carlsen Chess Tour Oslo Esports Cup, which was won by Jan-Krzysztof Duda. But in one of their individual games tournament favourite Carlsen defeated Duda in an interesting endgame. Take a look! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-show-194-with-arne-kaehler",
+         "pubDate" : "Mon, 16 May 2022 18:00:00 +0100",
+         "title" : "Endgame Magic Show #194 with Arne Kaehler"
+      },
+      {
          "description" : "Four-time Indian women's champion IM Padmini Rout reflects on 'The 4 Player Types standard model', a FritzTrainer authored by GMs Karsten M&uuml;ller and Luis Engel. She writes, \"This has been one of the most useful DVDs I have come across, and I recommend everyone to watch it. Know more about your strengths and weakness [and] what areas to work on\". | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/four-player-types-model-review",
          "pubDate" : "Mon, 16 May 2022 17:00:00 +0100",
          "title" : "The 4 player types standard model - a review"
+      },
+      {
+         "description" : "GM Ding Liren is officially among the participants of the FIDE Candidates Tournament. The field of eight players was announced today by the International Chess Federation. Ding replaces GM Sergey Karjakin, who was banned for six months due to expr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-participants",
+         "pubDate" : "Mon, 16 May 2022 08:48:00 -0700",
+         "title" : "Ding Liren Officially In the Candidates As FIDE Announces Participants"
+      },
+      {
+         "description" : " <p class=\"lead\">After Karjakin's <a href=\"https://worldchess.com/news/all/gm-sergey-karjakin-is-banned-for-6-months-for-real/\">6-months ban</a> from competitive chess left an open spot for the 2022 Candidates Tournament, the Chinese GM Ding Liren started a successful marathon of rated games in order to be eligible for the tournament. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51132737892_420ff3984c_k.jpg\" width=\"2047\" height=\"1260\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE / Lennart Ootes</div> </div> Invitation of Ding Liren, while officially issued by FIDE, is contingent on Sergey Karjakin's appeal to CAS, the highest court for sports disputes. A",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/ding-liren-makes-it-to-the-2022-candidates/",
+         "pubDate" : "Mon, 16 May 2022 15:31:45 +0000",
+         "title" : "Ding Liren Will Play In 2022 Candidates"
       },
       {
          "description" : "Discount Day 2022 begins on Monday, May 16 at 4:00 p.m. and ends on Wednesday, May 18 at 10.00 a.m. CEST (midnight in California). We are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account. And there are some very interesting new products that are being released. The biggest attraction: the brand new Komodo Dragon 3. Don't miss this great opportunity to shop in our store, and get all our software at a premium price!",
@@ -178,30 +258,6 @@ news_feed (
          "title" : "Fianchettoed Bishops are OP"
       },
       {
-         "description" : "The series of the Grand Chess Tour 2022 events continues from 17-20 May with the Grand Chess Tour Poland 2022 in Warsaw. Superbet&#160;Rapid &#38; Blitz Poland&#160;is the newcomer joining the 2022 Grand Chess Tour as the second event of the tour. With help of major sponsor Superbet, Poland is&#160;another country to join the prestigious&#160;tournament's circuit. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-poland-2022/",
-         "pubDate" : "Sun, 15 May 2022 19:22:29 +0000",
-         "title" : "Grand Chess Tour Poland 2022"
-      },
-      {
-         "description" : "23-year-old IM Ismayil Shahaliyev convincingly won the Nakhchivan International Chess Tournament 2022. Shahaliyev scored fantastic 8.5/9 points, drawing only against GM Vugar Rasulov who claimed second place with 8/9 points. As many as eleven players tied for the third place with 7 points, each, with tiebreaks criteria determining that FM Morteza Asgari takes the third []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-ismayil-shahaliyev-triumphs-at-nakhchivan-chess-open-2022/",
-         "pubDate" : "Sun, 15 May 2022 17:43:03 +0000",
-         "title" : "IM Ismayil Shahaliyev triumphs at Nakhchivan Chess Open 2022"
-      },
-      {
-         "description" : "The Rio Negro International Chess Tournament 2022 took place from 11-15 May in the Argentinian city of Cipolletto. Argentinian best rated player GM Sandro Mareco triumphed the event scoring unbeaten 8/9 points. The second top seed GM Alan Pichot tied for the second place with IM Maximiliano Perez as both players scored 7.5 points. Tiebreaks []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-sandro-mareco-wins-rio-negro-open-2022/",
-         "pubDate" : "Sun, 15 May 2022 16:58:04 +0000",
-         "title" : "GM Sandro Mareco wins Rio Negro Open 2022"
-      },
-      {
          "description" : " Grandmasters are not especially noted for their longevity, but Yuri Averbakh, whose death at the age of 100 was announced the other day, was a notable exception. He will be remembered for his work on endings, but also for various opening variations bearing his name, most notably the Averbakh Variation against the King's Indian Defence. <a href=\"https://chessimprover.com/averbakh-variation/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Averbakh Variation\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/averbakh-variation/\">Averbakh Variation</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -216,22 +272,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-9-vachier-lagrave-wins",
          "pubDate" : "Sun, 15 May 2022 08:41:00 -0700",
          "title" : "Vachier-Lagrave Wins Three-Way Playoff: 2022 Superbet Chess Classic Romania, Day 9"
-      },
-      {
-         "description" : "The Tunisian Chess Championship 2022 took place from 7-15 May, 2022 in the city of Hammamet. Twelve players competed in the 11 rounds round robin event for the title of Tunisian National Champion. Tunisian best rated grandmaster Amir Zaibi won the event scoring impressive 9 victories and 2 draws for the final score of 10 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-amir-zaibi-is-the-winner-of-tunisian-chess-championship-2022/",
-         "pubDate" : "Sun, 15 May 2022 14:47:53 +0000",
-         "title" : "GM Amir Zaibi is the Winner of Tunisian Chess Championship"
-      },
-      {
-         "description" : "The first event of the Southeast Asian Games 2022 (standard individual tournament), concluded today in Ha Long Bay, Vietnam. The event was played in two sections: Open and Women's, from May 10-15, 2022. The Individual Rapid chess championship of the SEA Games starts tomorrow and will be played on 16-17 May, followed by the Individual []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nguyen-and-citra-clinch-gold-at-southeast-asian-games-2022/",
-         "pubDate" : "Sun, 15 May 2022 14:15:48 +0000",
-         "title" : "Nguyen and Citra clinch gold at Southeast Asian Games 2022"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 79th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about pawn majorities. | Photo: Pascal Simon",
@@ -1602,14 +1642,6 @@ news_feed (
          "title" : "Wesley So Wins And Leads: 2022 Superbet Chess Classic Romania, Day 1"
       },
       {
-         "description" : "Since the start of the war in Ukraine, now more than two months ago, several Russian grandmasters have decided to leave their country or not return to it. Chess.com spoke to four well-known players about their views of the war and the personal cho...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/russian-chess-grandmasters-leave-russia",
-         "pubDate" : "Thu, 05 May 2022 14:30:00 -0700",
-         "title" : "Russian Grandmasters Leave Russia: 'I Have No Sympathy For This War'"
-      },
-      {
          "description" : "Wesley So grabbed the first win at this year's Superbet Chess Classic, the inaugural event of the Grand Chess Tour. The Filipino-born star beat defending champion Shakhriyar Mamedyarov to get the sole lead in Bucharest, as the four remaining round-1 games finished drawn. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2058,7 +2090,7 @@ news_feed (
          "title" : "Jules Arnous de Rivière"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#x69;&#x63;&#107;&#104;&#97;&#109;&#64;btin&#x74;&#x65;&#x72;&#x6e;&#x65;&#x74;&#x2e;&#x63;&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#46;&#x72;&#46;&#x77;i&#x63;k&#x68;&#97;&#x6d;&#64;&#x62;&#116;&#x69;&#110;t&#101;r&#x6e;e&#x74;&#46;&#x63;&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2096,14 +2128,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2021-22",
          "pubDate" : "Sat, 30 Apr 2022 21:18:00 +0400",
          "title" : "Bundesliga 2021-22 - "
-      },
-      {
-         "description" : "Castling is a fascinating move. According to Wikipedia, \"it originates from the 'king's leap', a two-square king move added to European chess between the 14th and 15th centuries, which took on its present form in the 17th century\". The intricacies of the rules of castling have inspired many studies. Specialized columnist Siegfried Hornecker presents some of them. | Photos: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-a-short-history-of-endgame-study-castling-i",
-         "pubDate" : "Sat, 30 Apr 2022 16:00:00 +0100",
-         "title" : "Study of the Month - A short history of endgame study castling I"
       },
       {
          "description" : "The European School Chess Championship 2022 took place from 20th-30th April 2022 in&#160;\"Rodos Palace\" Hotel and Conference center, Rhodes, Greece. 200 children from 22 European federations participated in the Championship which was played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls section separately. The Closing Ceremony of the European School Chess Championship&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-champions-2022-crowned-in-rhodes-greece/\">Read More &#187;</a></span>",
@@ -2250,22 +2274,6 @@ news_feed (
          "title" : "FIDE Candidates Tournament: Drawings of lots and pairings"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1715",
-         "pubDate" : "Thu, 28 Apr 2022 08:57:42 +0000",
-         "title" : "American Cup: Day 8 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1714",
-         "pubDate" : "Wed, 27 Apr 2022 23:27:04 +0000",
-         "title" : "Carlsen and Praggnanandhaa set up final day shootout"
-      },
-      {
          "description" : " Broadcasting tournament games used to rely on having your own dedicated website. These days chess platforms have realised that such broadcasts can help bring users in, and have started offering it as a free service. Chess24 were probably the pioneers here, but other platforms are catching up. Both chess.com and lichess contacted me to stream the O2C Doeberl Cup this year, while 'Follow chess' normally carries it as well. If you are an organiser looking to use these services, each platform normally has instructions to follow (eg <a href=\"https://www.chess.com/article/view/how-to-broadcast-your-games-on-chesscom\">https://www.chess.com/article/view/how-to-broadcast-your-games-on-chesscom</a> f",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2288,14 +2296,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/motion-on-ukraine-approved-ecf-finance-council-meeting/",
          "pubDate" : "Tue, 26 Apr 2022 09:32:08 +0000",
          "title" : "Motion on Ukraine approved - ECF Finance Council Meeting"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess today introduced Prize Money Tournaments - online tournaments with entry fees and monetary prizes. The Prize Money Tournaments will be organized by World Chess and select partners, such as federations and clubs, and will allow chess players to play for actual monetary prizes, similar to the offline events. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0EF0F22B-243C-4285-866E-8B64023B35A3.jpeg\" width=\"1600\" height=\"1200\" alt=\"\" /> <div class=\"e2-text-caption\">FIDE Online Arena front page</div> </div> Setting up and participating in a <a href=\"https://chessarena.com/tournaments/17818\">Prize Money Tournament</a> on FIDE Online Arena, t",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-introduces-prize-money-tournaments/",
-         "pubDate" : "Mon, 25 Apr 2022 17:22:03 +0000",
-         "title" : "World Chess Introduces Prize Money Tournaments"
       }
    ]
 }
