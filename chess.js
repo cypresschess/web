@@ -2,6 +2,102 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four-time Indian women's champion IM Padmini Rout reflects on 'The 4 Player Types standard model', a FritzTrainer authored by GMs Karsten M&uuml;ller and Luis Engel. She writes, \"This has been one of the most useful DVDs I have come across, and I recommend everyone to watch it. Know more about your strengths and weakness [and] what areas to work on\". | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/four-player-types-model-review",
+         "pubDate" : "Mon, 16 May 2022 17:00:00 +0100",
+         "title" : "The 4 player types standard model - a review"
+      },
+      {
+         "description" : "Discount Day 2022 begins on Monday, May 16 at 4:00 p.m. and ends on Wednesday, May 18 at 10.00 a.m. CEST (midnight in California). We are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account. And there are some very interesting new products that are being released. The biggest attraction: the brand new Komodo Dragon 3. Don't miss this great opportunity to shop in our store, and get all our software at a premium price!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/this-is-your-chance-big-discount-day-2",
+         "pubDate" : "Mon, 16 May 2022 16:00:00 +0100",
+         "title" : "This is your chance: big Discount Day"
+      },
+      {
+         "description" : "It is a vastly improved and 100-130 Elo stronger version of this classical program. The gain in playing strength offers real practical advantages: Komodo Dragon 3 takes only about a quarter of the time to play or analyze at the same level as Dragon 2! The large Elo increase is due to a new net structure for NNUE with a corresponding new net, as well as various optimizations and improvements in the search. Order it today - at a special Discount Day price!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-komodo-dragon-3",
+         "pubDate" : "Mon, 16 May 2022 16:00:00 +0100",
+         "title" : "New: Komodo Dragon 3"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Eight million people have seen, and more than 176,000 liked <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:6929143816482406400/\">a post</a> by 16-year-old French IM <strong>Elliot Papadiamandis</strong> looking for a sponsor on the former-networking-turned-into-self-marketing-site <strong>LinkedIn</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/teenage-im-sponsor-search-viral-on/",
+         "pubDate" : "Mon, 16 May 2022 14:42:56 +0100",
+         "title" : "Teenage IM sponsor search viral on LinkedIn"
+      },
+      {
+         "description" : " In the lead up to his match against Bobby Fischer, Mark Taimanov played a training match against a couple of Soviet GM's. To make the match harder for Tamainov, his opponents were allowed to consult with books (no engines in those days), or move the pieces on the board while analysing (they had a separate board and room for this). While Taimanov didn't win the training matches he felt it helped him, that was until he lost 6-0. So my question is - If you add either the ability to reference books, or be allowed to move pieces while analysing, how much stronger would you be? 100 points, 200 points or more ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/extra-help.html",
+         "pubDate" : "Mon, 16 May 2022 13:34:00 +0000",
+         "title" : "Extra Help"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1764",
+         "pubDate" : "Mon, 16 May 2022 13:10:50 +0000",
+         "title" : "Queens' Online Chess Festival 2022: Your chance to see Chennai!"
+      },
+      {
+         "description" : "Midsummer is traditionally the time of the Dortmund Chess Days. After last year's relaunch, the festival will be expanded this year with, among other things, a large international open. At the weekend, the pairings have been drawn, which also means that the schedule is fixed. It all starts on 17 July. | Photos: Dortmunder Schachtage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/49th-international-chess-days-in-dortmund-schedule-and-pairings",
+         "pubDate" : "Mon, 16 May 2022 13:38:11 +0100",
+         "title" : "49th International Chess Days in Dortmund: Schedule and Pairings"
+      },
+      {
+         "description" : "\"Make a move that surprises Nepomniachtchi, gets him out of book - I guess that's the main idea!\" says Jan Gustafsson on the reason for playing a particular chess opening, referring of course to the 2021 World Chess Championship match in Dubai, where he worked with Peter Heine Nielsen, Laurent Fressinet, Jorden van Foreest and Daniil Dubov on Team Magnus. Episode 3 of Jan's Opening Clinic has an Italian Opening theme.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/jan-s-opening-clinic-season-27-episode-3",
+         "pubDate" : "Mon, 16 May 2022 12:16:23 +0000",
+         "title" : "Jan's Opening Clinic Season 27, Episode 3"
+      },
+      {
+         "description" : "Russian International Master Andrei Obodchuk won the 21st IPCA World Individual Chess Championship which concluded today in Ashdod, Israel. Obodchuk stroke back after a loss in the fifth round and scored 7.5/9 points to be the sole Winner of the event. Replay the games here IM Stanislav Mikheev was second with 7 points and Yaacov []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-andrei-obodchuk-claims-21st-ipca-world-chess-championship/",
+         "pubDate" : "Mon, 16 May 2022 12:07:36 +0000",
+         "title" : "IM Andrei Obodchuk claims 21st IPCA World Chess Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1763",
+         "pubDate" : "Mon, 16 May 2022 12:05:30 +0000",
+         "title" : "Winners crowned at South African Championship 2022"
+      },
+      {
+         "description" : "The FIDE Zonal 2.3 Chess Championship 2022 took place from 25-30 March in the city of San Pedro de Macoris, Dominican Republic. The event attracted 65 entries from 13 countries who played a 9 rounds swiss tournament. GM Carlos Daniel Albornoz Cabrera won the event and qualified for the next FIDE World Cup. He scored []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-carlos-daniel-albornoz-cabrera-wins-fide-zonal-2-3-championship/",
+         "pubDate" : "Mon, 16 May 2022 11:47:28 +0000",
+         "title" : "GM Carlos Daniel Albornoz Cabrera wins FIDE Zonal 2.3 Championship"
+      },
+      {
+         "description" : "The English Chess Federation and Chess in Schools and Communities Charity are delighted to announce an agreement about work with chess in prisons between the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chess-in-prisons-update-from-carl-portman/",
+         "pubDate" : "Mon, 16 May 2022 11:33:57 +0000",
+         "title" : "Chess in prisons update - from Carl Portman"
+      },
+      {
          "description" : "The 2022 Open and Women National Chess Championships of Jamaica took place from 7-15 May in Kingston. 12 players in the Open section and 8 players in the Women's section battled it out to clinch the title of National Champions. After 11 round robin rounds played in the Open tournament, three times Jamaican Champion FM []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -16,6 +112,14 @@ news_feed (
          "link" : "https://www.chessdom.com/wfm-safa-ben-said-wins-tunisian-womens-chess-championship-2022/",
          "pubDate" : "Mon, 16 May 2022 10:40:09 +0000",
          "title" : "WFM Safa Ben Said wins Tunisian Women's Chess Championship 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1757",
+         "pubDate" : "Mon, 16 May 2022 10:00:07 +0000",
+         "title" : "2022 1st FIDE Council meeting - decisions for FC"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> On 7-10 July rounds 11-15 of this year's delayed <strong>Schachbundesliga</strong> season <a href=\"https://www.schachbundesliga.de/artikel/353\">will be played at the VIP halls</a> of <strong>Weserstadion</strong> during the summer break of <strong>Werder Bremen</strong> that has just assured its return to Germany's top football league. </div> ",
@@ -176,22 +280,6 @@ news_feed (
          "link" : "https://aicf.in/mpl-34th-national-under-8-open-girls-chess-championship-2022-event-codes-282560-ap-2022-282561-ap-2022-charvi-and-avirat-champions/",
          "pubDate" : "Sun, 15 May 2022 11:15:22 +0000",
          "title" : "MPL 34th National Under-8 Open & Girls Chess Championship-2022 (Event Codes: 282560/AP/2022 &: 282561/AP/2022) Charvi and Avirat Champions"
-      },
-      {
-         "description" : "Maxime Vachier-Lagrave won the Grand Chess Tour Romania 2022, the first event of the 2022 Grand Chess Tour series. On the long way to the crown, he first needed to take down Alireza Firouzja in the last round of the Superbet Chess Classic to catch up with the two former leaders Wesley So and Levon []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/interview-with-maxime-vachier-lagrave-the-winner-of-grand-chess-tour-romania-2022-video/",
-         "pubDate" : "Sun, 15 May 2022 11:13:18 +0000",
-         "title" : "Interview with Maxime Vachier-Lagrave - the Winner of GCT Romania 2022 (VIDEO)"
-      },
-      {
-         "description" : "The National Open, Women's and Senior Chess Championships of South Africa took place from 7-14 May in Cape Town. The Open and Seniors events were played in 9 round robin rounds, while the Women's event had 8 players who battled it out through 7 round robin rounds. IM Daniel Cawdery and FM Banele Mhango tied []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/south-africa-crowns-national-chess-champions/",
-         "pubDate" : "Sun, 15 May 2022 09:12:00 +0000",
-         "title" : "South Africa crowns National Chess Champions"
       },
       {
          "description" : "",
@@ -544,14 +632,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/norwegian-surprise-on-dvorkovich/",
          "pubDate" : "Fri, 13 May 2022 12:37:24 +0100",
          "title" : "Norwegian surprise on Dvorkovich team"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After his April marathon to reach the required games for his Candidates ticket, <strong>Ding Liren</strong> <a href=\"https://chess24.com/tour/chessable-masters-worlds-top-2-go-head-to-head/\">will participate</a> in the <strong>Chessable Masters</strong>, the fourth tournament of this year's <strong>Meltwater Champions Chess Tour</strong> on 19-26 May, where he will face <strong>Magnus Carlsen</strong> at least once in the preliminaries. <strong>Wei Yi</strong> is invited for the first time. Neither Russians nor Ukrainians are in the line-up. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/ding-and-carlsen-headline-chessable/",
-         "pubDate" : "Fri, 13 May 2022 12:15:18 +0100",
-         "title" : "Ding and Carlsen headline Chessable Masters"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91538227.cms\" />Indian chess legend Viswanathan Anand would become the deputy president of the world chess federation (FIDE) if the incumbent Arkady Dvorkovich is re-elected as the president in the elections scheduled during the 44th chess Olympiad in July-August this year.",
@@ -1498,14 +1578,6 @@ news_feed (
          "title" : "Superbet Chess Classic 1: Wesley So strikes"
       },
       {
-         "description" : "The MPL Indian Chess Tour exploded onto the scene last month with Arjun Erigaisi scoring a stunning +7 to clinch victory in the first leg. But before it returns, we have a very special opportunity for chess fans in India: you can take part in MPL's own Indian Chess Tour Qualifier.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/announcing-the-mpl-indian-chess-tour-qualifier-a-unique-chance-to-face-the-elite",
-         "pubDate" : "Fri, 06 May 2022 07:26:30 +0000",
-         "title" : "The MPL Indian Chess Tour Qualifier: A unique chance to face the elite"
-      },
-      {
          "description" : " Talented generation with skills honed by online games capture seven golds, one silver and six bronzes in Euro Schools, World Rapid and World Blitz youth championships England's chess children claimed a record 14-medal haul last weekend when the island of Rhodes hosted the European Schools age group championships followed by the Fide World Rapid and World Blitz youth championships. Seven golds, one silver and six bronzes put England second in the overall medal table, one gold behind Turkey but one ahead of Ukraine. The result owes something to Netflix's Beth Harmon in The Queen's Gambit, to the inspiration of Magnus Carlsen as an active and personable world champion, but also to the pandemic",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1986,7 +2058,7 @@ news_feed (
          "title" : "Jules Arnous de Rivière"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#x2e;&#x77;&#x69;c&#107;&#104;&#x61;&#x6d;&#x40;bt&#105;&#x6e;&#x74;&#x65;rn&#101;&#116;&#x2e;&#x63;&#x6f;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#x69;&#x63;&#107;&#104;&#97;&#109;&#64;btin&#x74;&#x65;&#x72;&#x6e;&#x65;&#x74;&#x2e;&#x63;&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2058,14 +2130,6 @@ news_feed (
          "title" : "Sports Minister Anurag Thakur reviews preparation for Chess Olympiad 2022"
       },
       {
-         "description" : "Two world champions, Steinitz and Euwe; a chess family, the Cramlings; and plenty of 1.d4 practitioners, Moiseenko, Gaprindashvili, and Miles are born under the zodiac sign of Taurus. Their power lies in their calmness. A proper Taurus acts thoughtfully, prudently, deliberately. They calculate what they do, everything else is considered unreasonable. They may allow their opponent a refreshing nap while they think about the next move. It would be fatal to consider them limited for that reason. | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/taurus-and-their-strategy",
-         "pubDate" : "Sat, 30 Apr 2022 13:00:00 +0100",
-         "title" : "Taurus and their strategy"
-      },
-      {
          "description" : "In the days of the movie &#8220;Gladiator&#8221;, sand and sandals were de rigueur. &#8220;The Lord of the Rings&#8221; and &#8220;Hobbit&#8221; moved the focus to swords and sorcery. The current favourites are blood and mud. A prime example is the &#8220;Last Duel&#8221;, depicting chivalric battles in the days of mad King Charles VI of France, who []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -2074,28 +2138,12 @@ news_feed (
          "title" : "Norse Code"
       },
       {
-         "description" : "Getting active when you are underdeveloped is rarely a good idea - in the diagram position Black has just played 9...Qc7? intending to capture on c4. Can you punish this move with White?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fatal-pawn-hunt",
-         "pubDate" : "Sat, 30 Apr 2022 09:00:00 +0100",
-         "title" : "Fatal pawn hunt"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91200206.cms\" />India's R Praggnanandhaa missed a golden opportunity to win the Oslo Esports Cup as he lost in the seventh and final round 0.5-2.5 to Dutchman Anish Giri on Thursday night. Praggu, who had led the tournament for the first five rounds, ended fourth with 12 points. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/oslo-esports-cup-a-great-learning-experience-says-r-praggnanandhaa/articleshow/91200206.cms",
          "pubDate" : "Sat, 30 Apr 2022 05:48:51 +0000",
          "title" : "Oslo Esports Cup a great learning experience, says R Praggnanandhaa"
-      },
-      {
-         "description" : "The 55th edition of the Capablanca Memorial took place on April 19-28 at the historic Hotel Nacional de Cuba in Havana. Hans Niemann from the United States dominated the Elite group, scoring 7&frac12; points in the 10-player single round-robin. The Premier group, a women's tournament, was similarly dominated by Romanian IM Irina Bulmaga, who also collected 7&frac12; points to finish two points clear of her closest chaser. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/niemann-wins-capablanca-memorial-2022",
-         "pubDate" : "Sat, 30 Apr 2022 01:50:00 +0100",
-         "title" : "Hans Niemann dominates Capablanca Memorial"
       },
       {
          "description" : " <p class=\"lead\">In an exclusive interview with World Chess and WGM Dina Belenkaya, Leinier Dominguez talked about the traumas in professional chess, broke down his chess career, acknowledged the most important things in his life, and explained more about his preparation for the Grand Prix. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/LzRK55o3ML8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> The Cuban-born American GM, Leinier Dominguez had a - more of a - conversation with DIna, showing his calm and funny side, as well as his high sense of professionalism. Dominguez said that he plays online but he prefers offline tournaments beca",
@@ -2120,14 +2168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1720",
          "pubDate" : "Fri, 29 Apr 2022 19:10:26 +0000",
          "title" : "Mwale and Priyasha win Malawian Championship"
-      },
-      {
-         "description" : "This week Robert Ris analyses how the young American talent Hans Moke Niemann turned the supposedly quiet line with 3.Bb5+ against the Sicilian into a dangerous weapon. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-dangerous-weapon-3-bb5-against-the-sicilian",
-         "pubDate" : "Fri, 29 Apr 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A dangerous weapon? 3.Bb5+ against the Sicilian"
       },
       {
          "description" : " The Oslo Esports Cup was the first Meltwater Champions Chess Tour event to take place not online but at a venue Fri 22nd Apr to Thu 28th Apr 2022. Players: Carlsen, Giri, Mamedyarov, Duda, Van Foreest, Le Quang Liem, Praggnanandhaa and Eric Hansen played in this round robin of 4 game mini-matches. This is the first tour classic of the season. In the final round leaders Magnus Carlsen and R Praggnanandhaa lost their mini-matches allowing Jan-Krzysztof Duda to come through to win the event and Le Quang Liem to finish in second place.",
@@ -2234,30 +2274,6 @@ news_feed (
          "title" : "Broadcast Services"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1713",
-         "pubDate" : "Wed, 27 Apr 2022 08:38:31 +0000",
-         "title" : "American Cup: Day 7 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1712",
-         "pubDate" : "Tue, 26 Apr 2022 22:16:47 +0000",
-         "title" : "Teen star Praggnanandhaa in pole position"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1711",
-         "pubDate" : "Tue, 26 Apr 2022 18:35:31 +0000",
-         "title" : "Invitation: 44th Chess Olympiad & FIDE Congress 2022"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9ba9de00-f7e3-4947-88c0-927bc7cfb7c5/Mcikey3.jpg\" data-image-dimensions=\"397x248\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6267f3ca8834cb2725637a7e\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9ba9de00-f7e3-4947-88c0-927bc7cfb7c5/Mcikey3.jpg?format=1000w\" /> </figure> <p class=\"\">GM Michael \"Mickey\" Adams is a legend of British chess who has been an elite chess player for the last 30 years. He is a former World Champion finalist, the 7 time champion of ",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2280,14 +2296,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-introduces-prize-money-tournaments/",
          "pubDate" : "Mon, 25 Apr 2022 17:22:03 +0000",
          "title" : "World Chess Introduces Prize Money Tournaments"
-      },
-      {
-         "description" : " I usually enjoy getting feedback about this blog, even more so when it is face to face. One of the more recent comments (made in person), was that I include lots of 'obscure club games'. While these are normally my own games, I do feature games by other club players (if I can grab the scoresheets). This time however, it is one of my recent games that I will feature. The takeaway from this game is twofold. A missed tempo on the opening can lead to a space disadvantage in the middlegame. This then leads to problems defending an unsafe king. <br /> <b>Press,Shaun - Mildenhall,Stephen [A30]</b><br />Murphy Memorial, 12.04.2022 <script>new PgnViewer( { boardName: \"game1322\", movesFormat: \"defaul",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/04/obscure-club-games.html",
-         "pubDate" : "Mon, 25 Apr 2022 13:14:00 +0000",
-         "title" : "Obscure club games"
       }
    ]
 }
