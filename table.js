@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2022-05-15","11","<a href=http://www.uschess.org/msa/XtblMain.php?202205151372 target='_blank'>MAY 15 SUNDAY SWISS</a>",
+"KATY","2022-05-14","86","<a href=http://www.uschess.org/msa/XtblMain.php?202205141052 target='_blank'>2022 SPRING ARISTOI CHESS TOURNAMEN</a>",
 "SPRING","2022-05-13","14","<a href=http://www.uschess.org/msa/XtblMain.php?202205130272 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-05-13","28","<a href=http://www.uschess.org/msa/XtblMain.php?202205130242 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2022-05-07  - 05-08","98","<a href=http://www.uschess.org/msa/XtblMain.php?202205088212 target='_blank'>TCR: HOUSTON SPRING CHAMPIONSHIP 2022</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2021-07-02","20","<a href=http://www.uschess.org/msa/XtblMain.php?202107023972 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2021-06-27","4","<a href=http://www.uschess.org/msa/XtblMain.php?202106273132 target='_blank'>INAUG TOURNEY</a>",
 "HOUSTON","2021-06-26","74","<a href=http://www.uschess.org/msa/XtblMain.php?202106261592 target='_blank'>SPINDLETAP SCHOLASTIC & COLLEGIATE</a>",
-"CYPRESS","2021-06-25","16","<a href=http://www.uschess.org/msa/XtblMain.php?202106253112 target='_blank'>05212021KOFC</a>",
-"SPRING","2021-06-25","12","<a href=http://www.uschess.org/msa/XtblMain.php?202106251102 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
