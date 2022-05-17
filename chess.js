@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second semifinal of the 2022 Junior Speed Chess Championship took place on Tuesday and featured powerhouses GMs Hans Niemann and Arjun Erigaisi, with Erigaisi claiming a 14.5-11.5 victory in just over four hours of electrifying gameplay. Nie...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-sf-erigaisi-niemann",
+         "pubDate" : "Tue, 17 May 2022 15:43:44 -0700",
+         "title" : "Erigaisi Knocks Out Niemann: 2022 Junior Speed Chess Championship SF"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani shows lessons based on the book &quot;Chess Secrets: The Giants of Power Play&quot; by Neil McDonald. BUY THE BOOK: <a href=\"https://everymanchess.com/products/chess-secrets-the-giants-of-power-play-learn-from-topalov-geller-bronstein-alekhine-and-morphy?variant=17966563131454\">https://everymanchess.com/products/chess-secrets-the-giants-of-power-pla...</a> 2022.05.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-secret",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-secrets-giants-power-play-grandmasters-choice-im-dorsa-derakhshani-lichessorg",
+         "pubDate" : "Tue, 17 May 2022 19:53:33 +0000",
+         "title" : "Chess Secrets: The Giants of Power Play | Grandmaster's Choice - IM Dorsa Derakhshani | lichess.org"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>ECU</strong> <a href=\"https://www.europechess.org/category/news/\">brings forward the date of its general assembly and election</a> from 6 August to 23 July. The European federations won't meet in Mamallapuram but in Thessaloniki. The <strong>Asian Chess Federation</strong> also avoids the <strong>Chess Olympiad</strong> for its general assembly and has postponed it to December. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/european-assembly-before-olympiad/",
+         "pubDate" : "Tue, 17 May 2022 20:37:58 +0100",
+         "title" : "European assembly before Olympiad"
+      },
+      {
          "description" : "Serbian Chess Federation today hold a press conference announcing the composition of National teams for the upcoming 44th Chess Olympiad 2022 which will take place in Chennai from July 28 August 10. Serbian Team (Open section): GM Velimir Ivic (2623) GM Aleksandar Indjic (2621) GM Robert Markus (2613) GM Ivan Ivanisevic (2550) GM Milos []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -666,14 +690,6 @@ news_feed (
          "title" : "FIDE delegation pays visit to Montenegro"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Warsaw, the inaugural Superbet Rapid &amp; Blitz Poland is the second leg of the Grand Chess Tour. Four Tour players (Caruana, Aronian, So, and Rapport) are joined by wildcards (Anand, Duda, Korobov, Wojtaszek, Shevchenko, and Lupulescu) for a rapid round robin and blitz double round robin event. Today is the first three rapid rounds. Join GMs Peter Svidler, Yasser Seirawan, and Alejandro Ramirez for the move-by-move. 2022.05.19<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-t",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-day-1",
-         "pubDate" : "Fri, 13 May 2022 19:50:44 +0000",
-         "title" : "2022 Superbet Rapid & Blitz Poland: Day 1"
-      },
-      {
          "description" : "A sceptic regarding the value of 'learning styles' approaches, Professor Barry Hymer feared that \"The Human Factor in Chess\", a book written by GMs Karsten M&uuml;ller and Luis Engel, would fall short of expectations. As he states in his review, though, the book \"recognises the dynamic evolution of many players' styles and, for the most part, it avoids assertions that are overly deterministic and mystical\". Moreover, Hymer asserts that the book is both instructive and a pleasurable read.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -760,14 +776,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1756",
          "pubDate" : "Fri, 13 May 2022 11:52:21 +0000",
          "title" : "Arkady Dvorkovich announces his team on the way to 2022 FIDE elections"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>J&oslash;ran-Aulin Jansson</strong>, former President of the <strong>Norwegian Chess Federation</strong>, initiator of the <strong>NorwayChess</strong> tournament and the <strong>Fischer Random world championship</strong>, an <a href=\"https://chess24.com/en/read/news/aulin-jansson-wake-up-and-start-caring-for-our-fide\">outspoken critic of corruption in <strong>FIDE</strong></a>, has joined the election ticket of incumbent FIDE President <strong>Arkady Dvorkovich</strong>. Former world champion <strong>Vishy Anand</strong> candidates as Deputy President and will step up in case the Russian politician steps down. <strong>Mahir Mammedov</strong",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/norwegian-surprise-on-dvorkovich/",
-         "pubDate" : "Fri, 13 May 2022 12:37:24 +0100",
-         "title" : "Norwegian surprise on Dvorkovich team"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91538227.cms\" />Indian chess legend Viswanathan Anand would become the deputy president of the world chess federation (FIDE) if the incumbent Arkady Dvorkovich is re-elected as the president in the elections scheduled during the 44th chess Olympiad in July-August this year.",
@@ -1650,14 +1658,6 @@ news_feed (
          "title" : "Karjakin Appeal Dismissed: Door Open For Ding To Enter Candidates"
       },
       {
-         "description" : "After lots of tension and complicated battles, just one game ended decisively when GM Ian Nepomniachtchi beat GM Alireza Firouzja. That the remaining games would all end in draws was far from obvious during the round. Round three will begin on S...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-2nepomniachtchi-firouzja",
-         "pubDate" : "Fri, 06 May 2022 07:34:00 -0700",
-         "title" : "Nepomniachtchi Beats Firouzja: 2022 Superbet Chess Classic Romania, Day 2"
-      },
-      {
          "description" : "Sergey Karjakin, the controversial former world chess title challenger, looks set to miss the Candidates Tournament after the World Chess Federation FIDE dismissed his appeal against a 6-month ban from chess. Pending a new appeal to the Court of Arbitration of Sport, the ruling leaves the way open for China's No.1 Ding Liren who, as the highest-rated player in the FIDE rankings list not yet to have qualified, stands in line to take the Russian's place.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2154,7 +2154,7 @@ news_feed (
          "title" : "Jules Arnous de Rivière"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#x2e;&#119;&#x69;&#99;k&#x68;&#97;m&#x40;&#98;t&#x69;&#110;t&#x65;&#114;&#x6e;&#x65;&#116;&#x2e;&#x63;&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#46;w&#x69;&#99;&#x6b;&#x68;a&#x6d;&#64;b&#x74;&#105;&#x6e;&#116;e&#x72;&#110;e&#x74;&#46;&#x63;&#111;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
