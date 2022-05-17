@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 US National Elementary (K-6) Chess Championships took place from 13-15 May in Columbus Ohio's Greater Columbus Convention Center. The event gathered 1053 players and 472 teams from 40 states who fought for the National US Champion title in four sections: K-1, K-3, K-5 and K-6. The special guests of the event were: GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-elementary-school-k-6-champions-announced/",
+         "pubDate" : "Tue, 17 May 2022 11:29:12 +0000",
+         "title" : "US Elementary School (K-6) Champions announced"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1768",
+         "pubDate" : "Tue, 17 May 2022 10:59:35 +0000",
+         "title" : "Radoslaw Wojtaszek and Michalina Rudzinska win Polish Championship"
+      },
+      {
+         "description" : "Under the motto \"Check, Mate, Donate\", the two Swiss juniors Oliver Angst (photo, left) and Vincent Lou have organised an online tournament for the benefit of Ukraine Aid and are calling for people to join in. For 5 Swiss francs, you can join in, play and help. Thursday, 29 May from 20:00 CEST ( 14:00 ET, 18:00 UTC).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/check-mate-donate-online-charity-tournament-for-ukraine",
+         "pubDate" : "Tue, 17 May 2022 11:30:18 +0100",
+         "title" : "Check, Mate, Donate! Online Charity Tournament for Ukraine"
+      },
+      {
+         "description" : "After returning from the April holidays, the students of the Roger-Martin-du-Gard college in Belleme, west France, were able to take advantage of the gift offered by the socio-educational center a giant chessboard painted on the floor of the school playground! As part of the school project that aims to develop all students' academic ambition, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/a-giant-chess-set-painted-in-the-schoolyard-tweetoftheday/",
+         "pubDate" : "Tue, 17 May 2022 09:36:29 +0000",
+         "title" : "A giant Chess set painted in the schoolyard #TweetOftheDay"
+      },
+      {
+         "description" : "The 2022 Junior Speed Chess Championship continued on Monday with a high-energy quarterfinal in which GM Arjun Erigaisi defeated an in-form GM-elect Mahammad Muradli 17-11. Erigaisi managed to build a one-point lead in the 5+1 segment but went t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-qf-erigaisi-muradli",
+         "pubDate" : "Tue, 17 May 2022 02:13:00 -0700",
+         "title" : "Erigaisi Routs Comeback King Muradli: 2022 Junior Speed Chess Championship QF"
+      },
+      {
+         "description" : "The&#160;79th LOTTO Polish Championship&#160;and the&#160;74th Polish Women&#x2019;s Chess Championship&#160;simultaneously take place in Kruszwica, from 9-17 May 2022. The Open section event was played as a 16 players knockout tournament, with Radoslaw&#160;Wojtaszek and Kacper Piorun proceeding to the finals. The final match of two games started with a quick draw after only 16 moves but the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wojtaszek-and-rudzinska-win-polish-chess-championships-2022/",
+         "pubDate" : "Tue, 17 May 2022 09:07:30 +0000",
+         "title" : "Wojtaszek and Rudzinska win Polish Chess Championships 2022"
+      },
+      {
          "description" : "Passed pawns can be very powerful and they are even more dangerous if they have help from their king. In the diagrammed position it is White to move, and what did he do with his king to support his passed pawns to win the game?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +58,7 @@ news_feed (
          "title" : "The king is a strong piece"
       },
       {
-         "description" : "As we have already informed by the&#160;CL -2/2022&#160;following the decision-&#160;CM1-2022/44&#160;ofFIDE Council on&#160;April 28,&#160;&#160;ECU Board taking in account the special circumstances, has fanilised the place and the dates of the ECU General Assembly and&#160;elections&#160;2022&#160;in Thessaloniki, Greece on&#160;Saturday&#160;July 23.&#160; Venue: Porto Palace, Hotel Thessaloniki. https://www.portopalace.gr Schedule: Friday,&#160;&#160;&#160;&#160;&#160;&#160;&#160;22&#160;&#160;July: Arrival of Delegates - Welcome Reception&#160; Saturday,&#160;&#160;&#160;23&#160;&#160;July : ECU General Assembly 2022&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/e",
+         "description" : "As we have already informed by the CL -2/2022 following the decision- CM1-2022/44 ofFIDE Council on April 28, ECU Board taking in account the special circumstances, has finalised the place and the dates of the ECU General Assembly and elections 2022 in Thessaloniki, Greece on Saturday July 23. Venue:&#160; Porto Palace, Hotel Thessaloniki. https://www.portopalace.gr Schedule: Friday,&#160;&#160;&#160;&#160;&#160;&#160;&#160;22&#160;&#160;July: Arrival of Delegates - Welcome Reception&#160; Saturday,&#160;&#160;&#160;23&#160;&#160;July : ECU General Assembly 2022&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-general-assembly-2022-thessaloniki-greece-23-july/\">Read M",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-general-assembly-2022-thessaloniki-greece-23-july/",
@@ -194,22 +242,6 @@ news_feed (
          "title" : "Chess in prisons update - from Carl Portman"
       },
       {
-         "description" : "The 2022 Open and Women National Chess Championships of Jamaica took place from 7-15 May in Kingston. 12 players in the Open section and 8 players in the Women's section battled it out to clinch the title of National Champions. After 11 round robin rounds played in the Open tournament, three times Jamaican Champion FM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jamaican-chess-champions-2022-crowned-in-kingston/",
-         "pubDate" : "Mon, 16 May 2022 11:12:00 +0000",
-         "title" : "Jamaican Chess Champions 2022 crowned in Kingston"
-      },
-      {
-         "description" : "The Tunisian Women's Chess Championship 2022 took place from 7-15 May in city of Hammamet, simultaneously with the 2022 Tunisian Chess Championship for Men. The event attracted 28 entries who competed in 9 swiss rounds for the title of National Champion. WFM Safa Ben Said, WIM Chadha Meddeb and Mariem Laaribi tied for the first []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wfm-safa-ben-said-wins-tunisian-womens-chess-championship-2022/",
-         "pubDate" : "Mon, 16 May 2022 10:40:09 +0000",
-         "title" : "WFM Safa Ben Said wins Tunisian Women's Chess Championship 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -248,14 +280,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-14-nakamura-wins",
          "pubDate" : "Sun, 15 May 2022 18:44:00 -0700",
          "title" : "Nakamura Wins 4th Knockout: Rapid Chess Championship Week 14"
-      },
-      {
-         "description" : "More than 500 kids from 16 FEDAC schools in Catalonia crowded the central street of Catalonian town Berga during the 1st &#8220;Eskcmat&#8221; event. The festival promoted Chess in School programs that are successfully implemented in FEDAC schools where chess is taught as a complementary activity during school hours. (scroll down for the full text) More []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/more-than-500-kids-crowd-the-central-street-of-berga-to-play-chess-tweetoftheday/",
-         "pubDate" : "Sun, 15 May 2022 21:32:51 +0000",
-         "title" : "More than 500 kids crowd the central street of Berga to play Chess #TweetOftheDay"
       },
       {
          "description" : "Unashamed ultra-violence. Jon Speelman continues to share findings from his bookshelf, and today explores Irving Chernev's \"The 1000 best short games of chess\", a collection of miniatures first published in 1957. Speelman adds notes to selected games from the collection of thud and blunder.",
@@ -1650,14 +1674,6 @@ news_feed (
          "title" : "Heading Back"
       },
       {
-         "description" : "The first round of this year&#39;s edition of the Superbet Chess Classic in Bucharest, Romania saw only one win. GM Wesley So defeated GM Shakhriyar Mamedyarov in a nice positional game, while the other four games ended in draws after varying amounts ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-1",
-         "pubDate" : "Thu, 05 May 2022 18:44:00 -0700",
-         "title" : "Wesley So Wins And Leads: 2022 Superbet Chess Classic Romania, Day 1"
-      },
-      {
          "description" : "Wesley So grabbed the first win at this year's Superbet Chess Classic, the inaugural event of the Grand Chess Tour. The Filipino-born star beat defending champion Shakhriyar Mamedyarov to get the sole lead in Bucharest, as the four remaining round-1 games finished drawn. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2106,20 +2122,12 @@ news_feed (
          "title" : "Jules Arnous de Rivière"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#46;&#x72;&#46;&#x77;&#105;&#x63;&#107;&#x68;&#97;m&#x40;b&#x74;&#105;&#x6e;&#116;&#x65;&#114;&#x6e;&#101;t&#x2e;c&#x6f;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#114;&#46;wi&#x63;&#x6b;&#x68;&#97;m&#64;&#x62;&#x74;&#x69;&#110;&#116;e&#x72;&#x6e;&#x65;&#116;&#46;c&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
          "pubDate" : "Sun, 01 May 2022 08:00:08 +0000",
          "title" : "BCET Awards 2022 - a reminder"
-      },
-      {
-         "description" : "ChessBase Magazine #207 provides, among many other things, all the games from the FIDE Grand Prix 2022 series, which was played in Berlin and Belgrade from February to April. Andrey Esipenko, Anish Giri, Grigoriy Oparin, Alexandr Predke, Sam Shankland, Wesley So, Vidit Gujrathi and Nikita Vitiugov are some of the Grand Prix participants who commented on their best games. Wesley So, who won the third tournament but missed out on qualifying to the Candidates Tournament, examines his victory over Leinier Dominguez with the black pieces. It's \"The Analysis\" of the issue, and it begins with the words \"Back in beautiful Berlin\". Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-slow-italian",
-         "pubDate" : "Sun, 01 May 2022 09:00:00 +0100",
-         "title" : "A slow Italian"
       },
       {
          "description" : "",
@@ -2266,14 +2274,6 @@ news_feed (
          "title" : "Grand Chess Tour becomes part of the World Championship Cycle"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1716",
-         "pubDate" : "Thu, 28 Apr 2022 16:50:11 +0000",
-         "title" : "FIDE Candidates Tournament: Drawings of lots and pairings"
-      },
-      {
          "description" : " Broadcasting tournament games used to rely on having your own dedicated website. These days chess platforms have realised that such broadcasts can help bring users in, and have started offering it as a free service. Chess24 were probably the pioneers here, but other platforms are catching up. Both chess.com and lichess contacted me to stream the O2C Doeberl Cup this year, while 'Follow chess' normally carries it as well. If you are an organiser looking to use these services, each platform normally has instructions to follow (eg <a href=\"https://www.chess.com/article/view/how-to-broadcast-your-games-on-chesscom\">https://www.chess.com/article/view/how-to-broadcast-your-games-on-chesscom</a> f",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2288,14 +2288,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/4/26/ep-276-gm-michael-adams-stories-and-lessons-from-mickeys-decades-among-the-chess-elite",
          "pubDate" : "Tue, 26 Apr 2022 13:36:54 +0000",
          "title" : "EP 276- GM Michael Adams- Stories and Lessons from Mickey's decades Among the Chess Elite "
-      },
-      {
-         "description" : "The following motion was approved at the ECF Council meeting on 23 April That the ECF utterly condemns the regime of Russian President Vladimir...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/motion-on-ukraine-approved-ecf-finance-council-meeting/",
-         "pubDate" : "Tue, 26 Apr 2022 09:32:08 +0000",
-         "title" : "Motion on Ukraine approved - ECF Finance Council Meeting"
       }
    ]
 }
