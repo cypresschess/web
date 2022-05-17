@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The series of the Grand Chess Tour 2022 events continues from 17th -23th May with the Superbet Rapid&#38;Blitz in Warsaw, Poland. The event opens tomorrow and kicks off with the Round 1 on Thursday, 19th May. Ten players will compete for the total prize fund of 175.000$, playing 9 Rapid games (round robin system) and 18 Blitz games (double round robin system).&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/superbet-rapidblitz-warsaw-2022-opens-tomorrow/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/superbet-rapidblitz-warsaw-2022-opens-tomorrow/",
+         "pubDate" : "Tue, 17 May 2022 14:47:44 +0000",
+         "title" : "Superbet Rapid&Blitz Warsaw 2022 opens tomorrow"
+      },
+      {
+         "description" : "Our discount day live stream has plenty of wonderful ChessBase guests ZOOMing in. Daniel King, Robert Ris, Sipke Ernst, Elisabeth Paehtz, Nick Pert, Svitlana Demchenko, Lawrence Trent, Karsten Mueller, Markus Ragger, and Andrew Martin will join the host, Arne Kaehler, and share their Fritztrainer knowledge with you. Larry Kaufman, and Mark Lefler will talk about the new Komodo 3! See you on twitch.tv or YouTube at 4pm CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/25-chessbase-live-stream-today",
+         "pubDate" : "Tue, 17 May 2022 14:55:00 +0100",
+         "title" : "25 % ChessBase Live Stream today!"
+      },
+      {
+         "description" : " For those of a certain generation, <a href=\"https://en.wikipedia.org/wiki/Zork\">Zork</a> was one of the great computer games. While it wasn't the first \"Adventure Game\" it was probably the first great adventure game. A few years ago I came across a link to the source code for the program, which on one level is fantastic. The slight drawback is that is written in <a href=\"https://en.wikipedia.org/wiki/MDL_(programming_language)\">MDL</a> which is a long obsolete modelling language. Nonetheless, if you want to see how the original Zork was written, you can do so <a href=\"https://github.com/MITDDC/zork\">here</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/zork.html",
+         "pubDate" : "Tue, 17 May 2022 13:00:00 +0000",
+         "title" : "Zork!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91621572.cms\" />The All India Chess Federation (AICF) will be organising tournaments for school children across the country with an aim to promote the forthcoming 44th Chess Olympiad and also to popularise the sport.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-to-organise-tourneys-to-popularise-chess-in-run-up-to-44th-olympiad/articleshow/91621572.cms",
+         "pubDate" : "Tue, 17 May 2022 12:52:06 +0000",
+         "title" : "AICF to organise tourneys to popularise chess in run up to 44th Olympiad"
+      },
+      {
+         "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; https://acmchess.com/ A month ago I presented a couple of exotic puzzles from the &#8220;Chess 2022 Day-to-Day Calendar: A Year of Chess Puzzles&#8221; <a href=\"https://chessimprover.com/chess-2022-february-top-picks/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 February Top Picks\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-february-top-picks/\">Chess 2022 February Top Picks</a> appeared first on <a rel=\"nofol",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-2022-february-top-picks/",
+         "pubDate" : "Tue, 17 May 2022 12:34:28 +0000",
+         "title" : "Chess 2022 - February Top Picks"
+      },
+      {
+         "description" : "The 10th jubilee edition of the TCEC Cup starts this Tuesday at 17.00 UTC (19:00 CEST, 13:00 ET). The best 32 engines are going to meet in a direct knockout event. Top seeded is the winner of TCEC Cup 9 and the TCEC League Stockfish. The other participants are seeded by their final standing []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tcec-cup-10-starts-today/",
+         "pubDate" : "Tue, 17 May 2022 12:03:00 +0000",
+         "title" : "TCEC Cup 10 starts today"
+      },
+      {
          "description" : "The 2022 US National Elementary (K-6) Chess Championships took place from 13-15 May in Columbus Ohio's Greater Columbus Convention Center. The event gathered 1053 players and 472 teams from 40 states who fought for the National US Champion title in four sections: K-1, K-3, K-5 and K-6. The special guests of the event were: GM []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-elementary-school-k-6-champions-announced/",
+         "link" : "https://www.chessdom.com/us-elementary-school-k-6-champions-crowned/",
          "pubDate" : "Tue, 17 May 2022 11:29:12 +0000",
-         "title" : "US Elementary School (K-6) Champions announced"
+         "title" : "US Elementary School (K-6) Champions crowned"
+      },
+      {
+         "description" : "Discount Day 2022 begins on Monday, May 16 at 4:00 p.m. and ends on Wednesday, May 18 at 10.00 a.m. CEST (midnight in California). We are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account. And there are some very interesting new products that are being released. The biggest attraction: the brand new Komodo Dragon 3. Don't miss this great opportunity to shop in our store, and get all our software at a premium price!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/this-is-your-chance-big-discount-day-2",
+         "pubDate" : "Tue, 17 May 2022 12:00:00 +0100",
+         "title" : "This is your chance: big Discount Day"
       },
       {
          "description" : "",
@@ -16,6 +72,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1768",
          "pubDate" : "Tue, 17 May 2022 10:59:35 +0000",
          "title" : "Radoslaw Wojtaszek and Michalina Rudzinska win Polish Championship"
+      },
+      {
+         "description" : "It is a vastly improved and 100-130 Elo stronger version of this classical program. The gain in playing strength offers real practical advantages: Komodo Dragon 3 takes only about a quarter of the time to play or analyze at the same level as Dragon 2! The large Elo increase is due to a new net structure for NNUE with a corresponding new net, as well as various optimizations and improvements in the search. Order it today - at a special Discount Day price!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-komodo-dragon-3",
+         "pubDate" : "Tue, 17 May 2022 11:45:00 +0100",
+         "title" : "New: Komodo Dragon 3"
       },
       {
          "description" : "Under the motto \"Check, Mate, Donate\", the two Swiss juniors Oliver Angst (photo, left) and Vincent Lou have organised an online tournament for the benefit of Ukraine Aid and are calling for people to join in. For 5 Swiss francs, you can join in, play and help. Thursday, 29 May from 20:00 CEST ( 14:00 ET, 18:00 UTC).",
@@ -90,14 +154,6 @@ news_feed (
          "title" : "Leela Chess Zero wins the TCEC Subfinal"
       },
       {
-         "description" : "The 10th jubilee edition of the TCEC Cup starts this Tuesday at 17.00 UTC (19:00 CEST, 13:00 ET). The best 32 engines are going to meet in a direct knockout event. Top seeded is the winner of TCEC Cup 9 and the TCEC League Stockfish. The other participants are seeded by their final standing []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tcec-cup-10-starts-today/",
-         "pubDate" : "Mon, 16 May 2022 21:03:39 +0000",
-         "title" : "TCEC Cup 10 starts today"
-      },
-      {
          "description" : "The Ontario Open Chess Tournament will take place from May 21 through May 23, at the beautiful&#160;West Toronto Masonic Temple. The event features 4 tournaments: Crown, U2200, U1800 and U1400. Each tournament will be played in six rounds with a time control of 90 minutes + 30 seconds per move. The total prize fund of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -152,22 +208,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/ding-liren-makes-it-to-the-2022-candidates/",
          "pubDate" : "Mon, 16 May 2022 15:31:45 +0000",
          "title" : "Ding Liren Will Play In 2022 Candidates"
-      },
-      {
-         "description" : "Discount Day 2022 begins on Monday, May 16 at 4:00 p.m. and ends on Wednesday, May 18 at 10.00 a.m. CEST (midnight in California). We are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account. And there are some very interesting new products that are being released. The biggest attraction: the brand new Komodo Dragon 3. Don't miss this great opportunity to shop in our store, and get all our software at a premium price!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/this-is-your-chance-big-discount-day-2",
-         "pubDate" : "Mon, 16 May 2022 16:00:00 +0100",
-         "title" : "This is your chance: big Discount Day"
-      },
-      {
-         "description" : "It is a vastly improved and 100-130 Elo stronger version of this classical program. The gain in playing strength offers real practical advantages: Komodo Dragon 3 takes only about a quarter of the time to play or analyze at the same level as Dragon 2! The large Elo increase is due to a new net structure for NNUE with a corresponding new net, as well as various optimizations and improvements in the search. Order it today - at a special Discount Day price!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-komodo-dragon-3",
-         "pubDate" : "Mon, 16 May 2022 16:00:00 +0100",
-         "title" : "New: Komodo Dragon 3"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Eight million people have seen, and more than 176,000 liked <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:6929143816482406400/\">a post</a> by 16-year-old French IM <strong>Elliot Papadiamandis</strong> looking for a sponsor on the former-networking-turned-into-self-marketing-site <strong>LinkedIn</strong>. </div> ",
@@ -2090,28 +2130,12 @@ news_feed (
          "title" : "Russian Team Championship 2022 - Games and Results"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 77th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about pawn majorities. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-77-pawn-majorities-1",
-         "pubDate" : "Sun, 01 May 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 77: Pawn Majorities (1)"
-      },
-      {
          "description" : "Just in from ECF President Dominic Lawson To the England Team Juniors On behalf of the English Chess Federation, I am writing to congratulate...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/congratulations-to-english-juniors/",
          "pubDate" : "Sun, 01 May 2022 10:56:26 +0000",
          "title" : "Congratulations to English Juniors - updated 4/5/22"
-      },
-      {
-         "description" : "The Mitropa Chess Cup 2022 opened yesterday in Corti, France, and takes place from 27th April - 8th May in the Sports complex (COSEC)&#160;of Corti under the ECU auspices. Teams of Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland compete in 9 rounds within two sections: Open and Women. The open section teams are:&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mitropa-chess-cup-2022-opened-in-corti/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/mitropa-chess-cup-2022-opened-in-corti/",
-         "pubDate" : "Sun, 01 May 2022 10:00:58 +0000",
-         "title" : "Mitropa Chess Cup 2022 opened in Corti"
       },
       {
          "description" : " Jules Arnous de Rivière (1830-1905), also known as Arnous-Rivière, was perhaps the strongest chess player in France between the mid 1850s and the mid 1880s. He was ranked in the world's top 20 for some time, his highest position, according to Rod Edwards' retrospective analysis, being 11th with a rating of 2556 in 1859. By <a href=\"https://chessimprover.com/jules-arnous-de-riviere/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Jules Arnous de Rivière\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/jules-arnous-de-riviere/\">Jules Arnous de Rivière</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
@@ -2122,7 +2146,7 @@ news_feed (
          "title" : "Jules Arnous de Rivière"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#114;&#46;wi&#x63;&#x6b;&#x68;&#97;m&#64;&#x62;&#x74;&#x69;&#110;&#116;e&#x72;&#x6e;&#x65;&#116;&#46;c&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;&#119;&#105;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#x40;bti&#110;&#116;&#101;&#114;&#x6e;&#x65;&#x74;&#x2e;&#x63;&#x6f;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2242,14 +2266,6 @@ news_feed (
          "title" : "American Cup: Caruana and Crush clinch titles"
       },
       {
-         "description" : " Last week, we worked through a position in which it was Black's turn to move. This week, we'll look at the same position, but this time it's White to move. I mentioned that whose turn it is can be decisive in a given position. This week, we'll see how things can change when it's the <a href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-nine/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Fifty Nine\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-fifty-nine/\">A Foundation for Beginners Fifty Nine</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess I",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-fifty-nine/",
-         "pubDate" : "Fri, 29 Apr 2022 09:30:14 +0000",
-         "title" : "A Foundation for Beginners Fifty Nine"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91171783.cms\" />India's teenaged Grandmaster R Praggnanandhaa missed out on the top prize in the USD 210,000 Oslo Esports Cup online rapid chess tournament as he lost 0.5-2.5 to Dutch player Anish Giri in the seventh and final round to finish fourth.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2280,14 +2296,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/04/broadcast-services.html",
          "pubDate" : "Wed, 27 Apr 2022 13:37:00 +0000",
          "title" : "Broadcast Services"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9ba9de00-f7e3-4947-88c0-927bc7cfb7c5/Mcikey3.jpg\" data-image-dimensions=\"397x248\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6267f3ca8834cb2725637a7e\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9ba9de00-f7e3-4947-88c0-927bc7cfb7c5/Mcikey3.jpg?format=1000w\" /> </figure> <p class=\"\">GM Michael \"Mickey\" Adams is a legend of British chess who has been an elite chess player for the last 30 years. He is a former World Champion finalist, the 7 time champion of ",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/4/26/ep-276-gm-michael-adams-stories-and-lessons-from-mickeys-decades-among-the-chess-elite",
-         "pubDate" : "Tue, 26 Apr 2022 13:36:54 +0000",
-         "title" : "EP 276- GM Michael Adams- Stories and Lessons from Mickey's decades Among the Chess Elite "
       }
    ]
 }
