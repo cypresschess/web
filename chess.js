@@ -2090,7 +2090,7 @@ news_feed (
          "title" : "Jules Arnous de Rivière"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#x2e;&#x77;&#x69;&#x63;k&#104;&#97;&#109;&#x40;&#x62;&#x74;in&#116;&#101;&#x72;&#x6e;&#x65;t&#46;&#99;&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#46;w&#x69;&#99;&#x6b;&#x68;a&#x6d;&#64;b&#x74;&#105;&#x6e;&#116;e&#x72;&#110;e&#x74;&#46;&#x63;&#111;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
