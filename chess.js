@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Passed pawns can be very powerful and they are even more dangerous if they have help from their king. In the diagrammed position it is White to move, and what did he do with his king to support his passed pawns to win the game?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-king-is-a-strong-piece-2",
+         "pubDate" : "Tue, 17 May 2022 09:00:00 +0100",
+         "title" : "The king is a strong piece"
+      },
+      {
+         "description" : "As we have already informed by the&#160;CL -2/2022&#160;following the decision-&#160;CM1-2022/44&#160;ofFIDE Council on&#160;April 28,&#160;&#160;ECU Board taking in account the special circumstances, has fanilised the place and the dates of the ECU General Assembly and&#160;elections&#160;2022&#160;in Thessaloniki, Greece on&#160;Saturday&#160;July 23.&#160; Venue: Porto Palace, Hotel Thessaloniki. https://www.portopalace.gr Schedule: Friday,&#160;&#160;&#160;&#160;&#160;&#160;&#160;22&#160;&#160;July: Arrival of Delegates - Welcome Reception&#160; Saturday,&#160;&#160;&#160;23&#160;&#160;July : ECU General Assembly 2022&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/e",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-general-assembly-2022-thessaloniki-greece-23-july/",
+         "pubDate" : "Tue, 17 May 2022 07:25:31 +0000",
+         "title" : "ECU General Assembly 2022 - Thessaloniki, Greece 23 July"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -330,7 +346,7 @@ news_feed (
          "title" : "Maxime Vachier-Lagrave wins Superbet Chess Classic Bucharest"
       },
       {
-         "description" : " <p class=\"lead\">Maxime Vachier-Lagrave wins the <a href=\"https://worldchess.com/news/all/2022-superbet-chess-classic-romania/\">2022 Superbet Chess Classic</a> in Romania after an impressive 3/3 score on the last day against Alireza, So, and Aronian. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/website-World-Chess-1.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> The French GM did not make the cut for the 2022 Candidates, but as he said last year after winning the Sinquefield Cup: \"I have absolutely no doubt that I am part of the chess elite. I want to prove it tournament after tournament.\" He is clearly acting on this plan based on his performance at the 202",
+         "description" : " <p class=\"lead\">Maxime Vachier-Lagrave wins the <a href=\"https://worldchess.com/news/all/2022-superbet-chess-classic-romania/\">2022 Superbet Chess Classic</a> in Romania after an impressive 3/3 score on the last day against Alireza, So, and Aronian. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220323150903_IMG_4210-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> The French GM did not make the cut for the 2022 Candidates, but as he said last year after winning the Sinquefield Cup: \"I have absolutely no doubt that I am part of the chess elite. I want to prove it tournament after tournament.\" He is clear",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/mvl-wins-superbet-chess-classic-2022/",
@@ -2090,7 +2106,7 @@ news_feed (
          "title" : "Jules Arnous de Rivière"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#46;w&#x69;&#99;&#x6b;&#x68;a&#x6d;&#64;b&#x74;&#105;&#x6e;&#116;e&#x72;&#110;e&#x74;&#46;&#x63;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#46;&#x72;&#46;&#x77;&#105;&#x63;&#107;&#x68;&#97;m&#x40;b&#x74;&#105;&#x6e;&#116;&#x65;&#114;&#x6e;&#101;t&#x2e;c&#x6f;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2104,14 +2120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-slow-italian",
          "pubDate" : "Sun, 01 May 2022 09:00:00 +0100",
          "title" : "A slow Italian"
-      },
-      {
-         "description" : "The traditional TePe Sigeman & Co tournament will take place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars is likely to make for an enjoyable tournament, as defending champion Jorden van Foreest will be joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. | Photos: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-preview",
-         "pubDate" : "Sat, 30 Apr 2022 22:00:00 +0100",
-         "title" : "Exciting lineup at the TePe Sigeman & Co tournament in Sweden"
       },
       {
          "description" : "",
@@ -2128,14 +2136,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2021-22",
          "pubDate" : "Sat, 30 Apr 2022 21:18:00 +0400",
          "title" : "Bundesliga 2021-22 - "
-      },
-      {
-         "description" : "The European School Chess Championship 2022 took place from 20th-30th April 2022 in&#160;\"Rodos Palace\" Hotel and Conference center, Rhodes, Greece. 200 children from 22 European federations participated in the Championship which was played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls section separately. The Closing Ceremony of the European School Chess Championship&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-champions-2022-crowned-in-rhodes-greece/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-school-chess-champions-2022-crowned-in-rhodes-greece/",
-         "pubDate" : "Sat, 30 Apr 2022 14:31:42 +0000",
-         "title" : "European School Chess Champions 2022 crowned in Rhodes, Greece"
       },
       {
          "description" : " Inspired by a position I saw at today's Street Chess, here is a little study with White to play and win. As the winning idea is quite well known, I doubt this is an original creation, but it does identify one key idea in positions of this type. In the actual game there were a pair of rooks (and the black pawns were a lot further advanced), which actually saw Black win. <br /> <script>new PgnViewer( { boardName: \"game1324\", movesFormat: \"default\", pgnString:'[Event \"?\"][Site \"?\"][Date \"????.??.??\"][Round \"?\"][White \"?\"][Black \"?\"][Result \"1-0\"][SetUp \"1\"][FEN \"8/pp3pp1/4k3/6PP/5P2/8/8/K7 w - - 0 0\"][PlyCount \"11\"]1. h6 gxh6 2. gxh6 Kf6 3. f5 b6 4. Kb2 a6 5. Kb3 a5 6. Ka4', pauseBetweenMoves:",
