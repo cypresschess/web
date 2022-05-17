@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Serbian Chess Federation today hold a press conference announcing the composition of National teams for the upcoming 44th Chess Olympiad 2022 which will take place in Chennai from July 28 August 10. Serbian Team (Open section): GM Velimir Ivic (2623) GM Aleksandar Indjic (2621) GM Robert Markus (2613) GM Ivan Ivanisevic (2550) GM Milos []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbia-announces-teams-for-44th-chess-olympiad-2022/",
+         "pubDate" : "Tue, 17 May 2022 17:34:42 +0000",
+         "title" : "Serbia announces teams for 44th Chess Olympiad 2022"
+      },
+      {
+         "description" : "Wilhelm Steinitz looms as one of the largest figures in chess. Earning the distinction of being the first ever World Champion in 1886, he was a successful competitive player and chess journalist whose theoretical teachings revolutionized chess and laid the foundations of the modern game. He is, arguably, chess' greatest thinker.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wilhelm-steinitz-and-the-dawning-of-chess-classical-age",
+         "pubDate" : "Tue, 17 May 2022 18:00:00 +0100",
+         "title" : "Wilhelm Steinitz, the thinker, and the dawning of chess' classical age"
+      },
+      {
+         "description" : "The Peruvian Open and Women's National Chess Championships 2022 will take place from 17-22 May in Lima.LIVE now: Czech National Chess Championship 2022 The Open event attracted 47 entries who will compete for the National Champion title in 9 swiss rounds, with time control: 90 minutes + 30 seconds of an increment per each move. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/peruvian-chess-championships-2022/",
+         "pubDate" : "Tue, 17 May 2022 16:47:54 +0000",
+         "title" : "Peruvian Chess Championships 2022"
+      },
+      {
+         "description" : "The Czech National Open Chess Championship 2022 is an open tournament taking place from 14-22 May 2022 in Usti nad Labem. 48 players compete in the 9 rounds swiss event and the top seeds are 10 times Czech Champion GM David Navara, Czech Champion in 1993 and 2008 GM Vlastimil Babula and GM Zbynek Hracek []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/czech-national-chess-championship-2022-live/",
+         "pubDate" : "Tue, 17 May 2022 16:08:04 +0000",
+         "title" : "Czech National Chess Championship 2022 LIVE"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/7e681300-5c2e-4bda-aafb-4cf7a412f6dd/Dwild.jpg\" data-image-dimensions=\"2048x1536\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62839325e1583034f3e1aa99\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/7e681300-5c2e-4bda-aafb-4cf7a412f6dd/Dwild.jpg?format=1000w\" /> </figure> <p class=\"\"><br>Photo by Nathan Kelly of the <a href=\"https://www.facebook.com/NationalBlitzLeague/\">National Blitz League</a> <p class=\"\"><strong>This week's</strong><a href=\"https://www.pe",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/5/17/ep-279-derek-wilder-adult-improver-series-derek-wilder-on-the-key-lessons-that-helped-him-break-through-a-multi-year-plateau-and-ascend-to-a-uscf-2000-rating",
+         "pubDate" : "Tue, 17 May 2022 16:07:35 +0000",
+         "title" : "EP 279- Derek Wilder (Adult Improver Series)- The key lessons that helped an 1800 break through to a USCF 2000 rating. "
+      },
+      {
+         "description" : "15-year-old Indian grandmaster Gukesh Dommaraju&#160;showed an amazing performance this summer winning three open tournaments in Spain:&#160;1st Chessable Sunway Formentera Chess Festival 2022,&#160;1st Menorca Chess Open 2022&#160;and the 48th La Roda Open 2022. Gukesh scored 22/26 points staying unbeaten during all three events. After the Menorca Open, he had the live rating of 2660, leaping to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/interview-with-gukesh-d-ultimate-goal-is-to-be-the-number-one-in-the-world/",
+         "pubDate" : "Tue, 17 May 2022 15:47:17 +0000",
+         "title" : "Interview with Gukesh D: \"Ultimate goal is to be the number one in the World\""
+      },
+      {
          "description" : "The series of the Grand Chess Tour 2022 events continues from 17th -23th May with the Superbet Rapid&#38;Blitz in Warsaw, Poland. The event opens tomorrow and kicks off with the Round 1 on Thursday, 19th May. Ten players will compete for the total prize fund of 175.000$, playing 9 Rapid games (round robin system) and 18 Blitz games (double round robin system).&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/superbet-rapidblitz-warsaw-2022-opens-tomorrow/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -154,22 +202,6 @@ news_feed (
          "title" : "Leela Chess Zero wins the TCEC Subfinal"
       },
       {
-         "description" : "The Ontario Open Chess Tournament will take place from May 21 through May 23, at the beautiful&#160;West Toronto Masonic Temple. The event features 4 tournaments: Crown, U2200, U1800 and U1400. Each tournament will be played in six rounds with a time control of 90 minutes + 30 seconds per move. The total prize fund of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2022-ontario-open-chess-tournament/",
-         "pubDate" : "Mon, 16 May 2022 18:57:14 +0000",
-         "title" : "2022 Ontario Open Chess Tournament"
-      },
-      {
-         "description" : "The 15th European Chess Solving Championship 2022 took place on 14-15 May in Riga, Latvia. The event included five categories: Team, Individual, Juniors, Seniors and Women. Serbian team became the European Team Solving Champion with a total of 205.25 points which were collected by four team members: Ilija Serafimovic, Bojan Vuckovic, Marjan Kovacevic and Srecko []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/serbia-wins-gold-at-15th-european-chess-solving-championship-2022/",
-         "pubDate" : "Mon, 16 May 2022 18:25:30 +0000",
-         "title" : "Serbia wins gold at 15th European Chess Solving Championship 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -250,28 +282,12 @@ news_feed (
          "title" : "Jan's Opening Clinic Season 27, Episode 3"
       },
       {
-         "description" : "Russian International Master Andrei Obodchuk won the 21st IPCA World Individual Chess Championship which concluded today in Ashdod, Israel. Obodchuk stroke back after a loss in the fifth round and scored 7.5/9 points to be the sole Winner of the event. Replay the games here IM Stanislav Mikheev was second with 7 points and Yaacov []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-andrei-obodchuk-claims-21st-ipca-world-chess-championship/",
-         "pubDate" : "Mon, 16 May 2022 12:07:36 +0000",
-         "title" : "IM Andrei Obodchuk claims 21st IPCA World Chess Championship"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1763",
          "pubDate" : "Mon, 16 May 2022 12:05:30 +0000",
          "title" : "Winners crowned at South African Championship 2022"
-      },
-      {
-         "description" : "The FIDE Zonal 2.3 Chess Championship 2022 took place from 25-30 March in the city of San Pedro de Macoris, Dominican Republic. The event attracted 65 entries from 13 countries who played a 9 rounds swiss tournament. GM Carlos Daniel Albornoz Cabrera won the event and qualified for the next FIDE World Cup. He scored []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-carlos-daniel-albornoz-cabrera-wins-fide-zonal-2-3-championship/",
-         "pubDate" : "Mon, 16 May 2022 11:47:28 +0000",
-         "title" : "GM Carlos Daniel Albornoz Cabrera wins FIDE Zonal 2.3 Championship"
       },
       {
          "description" : "The English Chess Federation and Chess in Schools and Communities Charity are delighted to announce an agreement about work with chess in prisons between the...",
@@ -2106,14 +2122,6 @@ news_feed (
          "title" : "May rating list: five young players debut in Top-100 Open"
       },
       {
-         "description" : "Our columnist Jon Speelman found an old book by Alexey Suetin on his shelves. \"Scribed in the ancient English descriptive tongue, I hadn't touched it for years, but when opened, it proved to be a treasure trove of 'old chestnuts', some of which I'm going to share\". | Photo: The Spruce Crafts",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-169",
-         "pubDate" : "Sun, 01 May 2022 20:00:00 +0100",
-         "title" : "A fistful of chestnuts"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2146,7 +2154,7 @@ news_feed (
          "title" : "Jules Arnous de Rivière"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;&#119;&#105;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#x40;bti&#110;&#116;&#101;&#114;&#x6e;&#x65;&#x74;&#x2e;&#x63;&#x6f;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#x2e;&#119;&#x69;&#99;k&#x68;&#97;m&#x40;&#98;t&#x69;&#110;t&#x65;&#114;&#x6e;&#x65;&#116;&#x2e;&#x63;&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
