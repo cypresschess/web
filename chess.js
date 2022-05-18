@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen and Aryan Tari celebrated Norway's Constitution Day together on Tuesday, but they'll be facing off against each other when the Chessable Masters starts on Thursday May 19th at 18:00 CEST (12:00 ET, 21:30 IST). Ding Liren, confirmed as playing the Candidates Tournament in under a month, Anish Giri, Shakhriyar Mamedyarov and Praggnanandhaa will be among the other favourites for tournament victory.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/norwegian-day-as-chessable-masters-starts-thursday",
+         "pubDate" : "Wed, 18 May 2022 14:59:46 +0000",
+         "title" : "Norwegian Day as Chessable Masters starts Thursday"
+      },
+      {
+         "description" : "The world's top two chess stars go head-to-head starting Thursday at the Chessable Masters, the fourth leg of the Meltwater Champions Chess Tour. Norway's world champion Magnus Carlsen will face Ding Liren, who returns having regained his second spot in the world ranking. The field also includes two of the most promising rising stars in the chess world, Praggnanandhaa and Abhimanyu Mishra.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2022-preview",
+         "pubDate" : "Wed, 18 May 2022 15:00:00 +0100",
+         "title" : "Carlsen and Ding head the field at the Chessable Masters"
+      },
+      {
+         "description" : "The 2022-2023 series of Women's Grand Prix tournaments features four events which will be held between August 2022 and June 2023. The schedule and dates framework is as followed: 1st WGP event: August &#x2013; September 2022; 2nd WGP event: October &#x2013; December 2022; 3rd WGP event: January &#x2013; March 2023; 4th WGP event: April &#x2013; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-grand-prix-2022-2023/",
+         "pubDate" : "Wed, 18 May 2022 13:17:03 +0000",
+         "title" : "FIDE Women's Grand Prix 2022-2023"
+      },
+      {
          "description" : "On 17 May, the Polish National Championships ended in Kruszwica. In the open tournament, played in knockout format, defending champion Radoslaw Wojtaszek won his fifth title. But the women's tournament ended with a big surprise. | Photos: Polish Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -218,14 +242,6 @@ news_feed (
          "title" : "TCEC Cup 10 starts today"
       },
       {
-         "description" : "The 2022 US National Elementary (K-6) Chess Championships took place from 13-15 May in Columbus Ohio's Greater Columbus Convention Center. The event gathered 1053 players and 472 teams from 40 states who fought for the National US Champion title in four sections: K-1, K-3, K-5 and K-6. The special guests of the event were: GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-elementary-school-k-6-champions-crowned/",
-         "pubDate" : "Tue, 17 May 2022 11:29:12 +0000",
-         "title" : "US Elementary School (K-6) Champions crowned"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -248,14 +264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/check-mate-donate-online-charity-tournament-for-ukraine",
          "pubDate" : "Tue, 17 May 2022 11:30:18 +0100",
          "title" : "Check, Mate, Donate! Online Charity Tournament for Ukraine"
-      },
-      {
-         "description" : "After returning from the April holidays, the students of the Roger-Martin-du-Gard college in Belleme, west France, were able to take advantage of the gift offered by the socio-educational center a giant chessboard painted on the floor of the school playground! As part of the school project that aims to develop all students' academic ambition, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/a-giant-chess-set-painted-in-the-schoolyard-tweetoftheday/",
-         "pubDate" : "Tue, 17 May 2022 09:36:29 +0000",
-         "title" : "A giant Chess set painted in the schoolyard #TweetOftheDay"
       },
       {
          "description" : "The 2022 Junior Speed Chess Championship continued on Monday with a high-energy quarterfinal in which GM Arjun Erigaisi defeated an in-form GM-elect Mahammad Muradli 17-11. Erigaisi managed to build a one-point lead in the 5+1 segment but went t...",
@@ -1738,14 +1746,6 @@ news_feed (
          "title" : "Queens' Online Chess Festival 2022"
       },
       {
-         "description" : "Wesley So is the early leader of the Superbet Chess Classic after bamboozling Shakhriyar Mamedyarov at the end of a long game to grab the only win of Round 1. Elsewhere in Bucharest, Richard Rapport and Ian Nepomniachtchi were unable to build on what seemed promising positions, while Caruana-Firouzja was a tense battle between the world numbers 3 and 4 that ended in a draw by repetition when Fabiano had a pleasant position but little time on the clock.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-1-wesley-so-strikes",
-         "pubDate" : "Fri, 06 May 2022 08:17:38 +0000",
-         "title" : "Superbet Chess Classic 1: Wesley So strikes"
-      },
-      {
          "description" : " Talented generation with skills honed by online games capture seven golds, one silver and six bronzes in Euro Schools, World Rapid and World Blitz youth championships England's chess children claimed a record 14-medal haul last weekend when the island of Rhodes hosted the European Schools age group championships followed by the Fide World Rapid and World Blitz youth championships. Seven golds, one silver and six bronzes put England second in the overall medal table, one gold behind Turkey but one ahead of Ukraine. The result owes something to Netflix's Beth Harmon in The Queen's Gambit, to the inspiration of Magnus Carlsen as an active and personable world champion, but also to the pandemic",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2098,14 +2098,6 @@ news_feed (
          "title" : "2022 ACT Championship - 27th, 28th, 29th 30th May "
       },
       {
-         "description" : "Enyonam Sewa Fumey has announced his intention to run for FIDE President. One of the founding members of the Togolese Chess Federation, Fumey has worked as General Secretary for the African Chess Confederation during four years. Fumey has announced that his Deputy President would be FM Stuart Fancy.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/enyonam-fumey-announces-candidacy-for-fide-president",
-         "pubDate" : "Mon, 02 May 2022 13:30:00 +0100",
-         "title" : "Mr. Fumey announces his candidacy for FIDE President"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91260418.cms\" />Two teams each will represent India in the Open and women's section at the 44th Chess Olympiad with five-time world champion Viswanathan Anand being named as the hosts' mentor for the prestigious tournament scheduled to be played from July 28 to Aug 10.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2170,7 +2162,7 @@ news_feed (
          "title" : "Jules Arnous de Rivière"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#x72;&#46;&#x77;&#x69;&#99;&#x6b;&#x68;&#97;&#x6d;&#x40;&#98;&#x74;&#x69;&#110;&#x74;&#x65;&#114;&#x6e;&#x65;&#116;&#x2e;&#x63;&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#x2e;&#x77;ic&#107;&#104;&#x61;&#x6d;&#64;b&#116;&#105;&#x6e;&#x74;er&#110;&#x65;&#x74;&#x2e;c&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2296,14 +2288,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-indian-gm-praggnanandhaa-falters-in-final-round-of-oslo-event-finishes-fourth/articleshow/91171783.cms",
          "pubDate" : "Fri, 29 Apr 2022 06:13:38 +0000",
          "title" : "Indian GM Praggnanandhaa falters in final round of Oslo event, finishes fourth"
-      },
-      {
-         "description" : " Broadcasting tournament games used to rely on having your own dedicated website. These days chess platforms have realised that such broadcasts can help bring users in, and have started offering it as a free service. Chess24 were probably the pioneers here, but other platforms are catching up. Both chess.com and lichess contacted me to stream the O2C Doeberl Cup this year, while 'Follow chess' normally carries it as well. If you are an organiser looking to use these services, each platform normally has instructions to follow (eg <a href=\"https://www.chess.com/article/view/how-to-broadcast-your-games-on-chesscom\">https://www.chess.com/article/view/how-to-broadcast-your-games-on-chesscom</a> f",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/04/broadcast-services.html",
-         "pubDate" : "Wed, 27 Apr 2022 13:37:00 +0000",
-         "title" : "Broadcast Services"
       }
    ]
 }
