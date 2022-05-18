@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby begins a series on beating Black&#039;s King&#039;s Indian Defense. 2022.05.17<br /> E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1<br /> Peter Heine Nielsen vs Boris Kantsler, European Championship (2001)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1168439\">https://www.chessgames.com/perl/chessgame?gid=1168439</a><br /> Boris Gelfand vs Veselin Topalov, Hoogovens Group A (1996)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1048390\">https://www.chessgames.com/perl/chessgame?gid=1048390</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/beating-kid-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 18 May 2022 01:53:45 +0000",
+         "title" : "Beating the KID | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani shows lessons based on the book \"Chess Secrets: The Giants of Power Play\" by Neil McDonald. BUY THE BOOK: <a href=\"https://everymanchess.com/products/chess-secrets-the-giants-of-power-play-learn-from-topalov-geller-bronstein-alekhine-and-morphy?variant=17966563131454\">https://everymanchess.com/products/chess-secrets-the-giants-of-power-pla...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-secrets-giants-power-play-g",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-secrets-giants-power-play-grandmasters-choice-im-dorsa-derakhshani",
+         "pubDate" : "Wed, 18 May 2022 01:53:45 +0000",
+         "title" : "Chess Secrets: The Giants of Power Play | Grandmaster's Choice - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "The second semifinal of the 2022 Junior Speed Chess Championship took place on Tuesday and featured powerhouses GMs Hans Niemann and Arjun Erigaisi, with Erigaisi claiming a 14.5-11.5 victory in just over four hours of electrifying gameplay. Nie...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -560,22 +576,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-semifinals",
          "pubDate" : "Sat, 14 May 2022 08:06:41 -0700",
          "title" : "Collegiate Chess League Season 4: Semifinals"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich talks to the first Romanian Grandmaster Florin Gheorghiu during Round 8 of the Superbet Chess Classic. 2022.05.13<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/florin-gheorghiu-stops-superbet-classic-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rCRAPl94bBw.jpg?itok=IDlxWgmO\" alt=\"\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/florin-gheorghiu-stops-superbet-classic-round-8",
-         "pubDate" : "Sat, 14 May 2022 13:51:02 +0000",
-         "title" : "Florin Gheorghiu Stops in at the Superbet Classic | Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich talks to Alexander Onischuk about rooting for the U.S. players, the Russian invasion of Ukraine, and more during Round 9 of the Superbet Chess Classic. 2022.05.13<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alexander-onischuk-ukraine-forever-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/y",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alexander-onischuk-ukraine-forever-round-9",
-         "pubDate" : "Sat, 14 May 2022 13:51:02 +0000",
-         "title" : "Alexander Onischuk: Ukraine Forever | Round 9"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91562290.cms\" />The All India Chess Federation (AICF) on Saturday signed a Memorandum of Understanding (MoU) with the Tamil Nadu government for the forthcoming 44th Chess Olympiad, slated to be held here from July 28 to August 10.",
@@ -2154,7 +2154,7 @@ news_feed (
          "title" : "Jules Arnous de Rivière"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#46;w&#x69;&#99;&#x6b;&#x68;a&#x6d;&#64;b&#x74;&#105;&#x6e;&#116;e&#x72;&#110;e&#x74;&#46;&#x63;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#46;&#x77;&#105;&#x63;&#x6b;h&#x61;&#109;&#x40;&#98;&#x74;&#105;n&#x74;&#101;&#x72;&#110;&#x65;&#116;&#46;&#x63;&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
